@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2023-08-11'
+  date: '2023-10-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-11.08.2023/fw_selene_miui_SELENEGlobal_V14.0.4.0.TKUMIXM_3c1ec73c4f_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/selene/fw_selene_miui_SELENEGlobal_V14.0.4.0.TKUMIXM_3c1ec73c4f_13.0.zip
-  filename: fw_selene_miui_SELENEGlobal_V14.0.4.0.TKUMIXM_3c1ec73c4f_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-13.10.2023/fw_selene_miui_SELENEGlobal_V14.0.5.0.TKUMIXM_edef7fafb0_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/selene/fw_selene_miui_SELENEGlobal_V14.0.5.0.TKUMIXM_edef7fafb0_13.0.zip
+  filename: fw_selene_miui_SELENEGlobal_V14.0.5.0.TKUMIXM_edef7fafb0_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TKUMIXM
+    miui: V14.0.5.0.TKUMIXM
 - branch: stable
   date: '2023-10-12'
   downloads:

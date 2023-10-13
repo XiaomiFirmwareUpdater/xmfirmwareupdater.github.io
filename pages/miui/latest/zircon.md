@@ -54,6 +54,7 @@ permalink: /miui/zircon/
                 <tbody>
                 <tr><td>Redmi Note 13 Pro+ China</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TNOCNXM</td><td>13.0</td><td>7.8 GB</td><td>2023-09-25</td><td><a href="/miui/zircon/stable/V14.0.4.0.TNOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro+ China</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TNOCNXM</td><td>13.0</td><td>6.2 GB</td><td>2023-09-29</td><td><a href="/miui/zircon/stable/V14.0.4.0.TNOCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro+ China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TNOCNXM</td><td>13.0</td><td>6.2 GB</td><td>2023-10-11</td><td><a href="/miui/zircon/stable beta/V14.0.6.0.TNOCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -4309,15 +4309,15 @@
     android: '13.0'
     miui: V14.0.3.0.THZEUXM
 - branch: stable
-  date: '2023-08-11'
+  date: '2023-10-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-11.08.2023/fw_selene_miui_SELENEGlobal_V14.0.4.0.TKUMIXM_3c1ec73c4f_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/selene/fw_selene_miui_SELENEGlobal_V14.0.4.0.TKUMIXM_3c1ec73c4f_13.0.zip
-  filename: fw_selene_miui_SELENEGlobal_V14.0.4.0.TKUMIXM_3c1ec73c4f_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-13.10.2023/fw_selene_miui_SELENEGlobal_V14.0.5.0.TKUMIXM_edef7fafb0_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/selene/fw_selene_miui_SELENEGlobal_V14.0.5.0.TKUMIXM_edef7fafb0_13.0.zip
+  filename: fw_selene_miui_SELENEGlobal_V14.0.5.0.TKUMIXM_edef7fafb0_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TKUMIXM
+    miui: V14.0.5.0.TKUMIXM
 - branch: stable
   date: '2023-10-12'
   downloads:
@@ -5229,15 +5229,15 @@
     android: '10.0'
     miui: V12.5.1.0.QFHINXM
 - branch: stable
-  date: '2023-07-14'
+  date: '2023-10-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_viva/releases/download/stable-14.07.2023/fw_viva_miui_VIVAGlobal_V14.0.3.0.TGDMIXM_2004f3083d_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/viva/fw_viva_miui_VIVAGlobal_V14.0.3.0.TGDMIXM_2004f3083d_13.0.zip
-  filename: fw_viva_miui_VIVAGlobal_V14.0.3.0.TGDMIXM_2004f3083d_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_viva/releases/download/stable-13.10.2023/fw_viva_miui_VIVAGlobal_V14.0.4.0.TGDMIXM_0cfc0dece8_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/viva/fw_viva_miui_VIVAGlobal_V14.0.4.0.TGDMIXM_0cfc0dece8_13.0.zip
+  filename: fw_viva_miui_VIVAGlobal_V14.0.4.0.TGDMIXM_0cfc0dece8_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.3.0.TGDMIXM
+    miui: V14.0.4.0.TGDMIXM
 - branch: stable
   date: '2023-10-08'
   downloads:
@@ -5579,15 +5579,15 @@
     android: '13.0'
     miui: V14.0.5.0.TLPCNXM
 - branch: stable
-  date: '2023-10-03'
+  date: '2023-10-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-03.10.2023/fw_zircon_miui_ZIRCON_V14.0.4.0.TNOCNXM_c3eaaec36a_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zircon/fw_zircon_miui_ZIRCON_V14.0.4.0.TNOCNXM_c3eaaec36a_13.0.zip
-  filename: fw_zircon_miui_ZIRCON_V14.0.4.0.TNOCNXM_c3eaaec36a_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-13.10.2023/fw_zircon_miui_ZIRCON_V14.0.6.0.TNOCNXM_0b5917a12c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zircon/fw_zircon_miui_ZIRCON_V14.0.6.0.TNOCNXM_0b5917a12c_13.0.zip
+  filename: fw_zircon_miui_ZIRCON_V14.0.6.0.TNOCNXM_0b5917a12c_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TNOCNXM
+    miui: V14.0.6.0.TNOCNXM
 - branch: stable
   date: '2023-10-09'
   downloads:
