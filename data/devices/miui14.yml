@@ -2849,18 +2849,6 @@
   name: Mi 11 Lite 5G
   version: V14.0.5.0.TKIEUXM
 - android: '13.0'
-  codename: renoir
-  date: '2023-07-03'
-  download: https://bigota.d.miui.com/V14.0.7.0.TKIEUXM/fw_renoir_miui_RENOIREEAGlobal_V14.0.7.0.TKIEUXM_ba2e0c319d_13.0.zip
-  name: Mi 11 Lite 5G
-  version: V14.0.7.0.TKIEUXM
-- android: '13.0'
-  codename: renoir
-  date: '2023-07-03'
-  download: https://bigota.d.miui.com/V14.0.5.0.TKIMIXM/fw_renoir_miui_RENOIRGlobal_V14.0.5.0.TKIMIXM_e034bfd0ea_13.0.zip
-  name: Mi 11 Lite 5G
-  version: V14.0.5.0.TKIMIXM
-- android: '13.0'
   codename: rock
   date: '2023-03-24'
   download: https://bigota.d.miui.com/V14.0.1.0.TLUEUXM/fw_rock_miui_ROCKEEAGlobal_V14.0.1.0.TLUEUXM_8d81d0013c_13.0.zip
@@ -3562,6 +3550,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TKFMIXM/fw_sweet_miui_SWEETGlobal_V14.0.1.0.TKFMIXM_dd214aa68d_13.0.zip
   name: Redmi Note 10 Pro/Redmi Note 12 Pro 4G
   version: V14.0.1.0.TKFMIXM
+- android: '13.0'
+  codename: sweet
+  date: '2023-10-14'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKFEUXM/fw_sweet_miui_SWEETEEAGlobal_V14.0.6.0.TKFEUXM_a273252490_13.0.zip
+  name: Redmi Note 10 Pro/Redmi Note 12 Pro 4G
+  version: V14.0.6.0.TKFEUXM
 - android: '13.0'
   codename: sweet
   date: '2023-10-13'
