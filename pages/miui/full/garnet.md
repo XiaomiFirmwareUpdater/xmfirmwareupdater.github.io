@@ -52,7 +52,8 @@ permalink: /archive/miui/garnet/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 13 Pro China</td><td>Stable</td><td>Fastboot</td><td>V14.0.10.0.TNRCNXM</td><td>13.0</td><td>7.1 GB</td><td>2023-10-06</td><td><a href="/miui/garnet/stable/V14.0.10.0.TNRCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 13 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.11.0.TNRCNXM</td><td>13.0</td><td>5.6 GB</td><td>2023-10-12</td><td><a href="/miui/garnet/stable beta/V14.0.11.0.TNRCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro China</td><td>Stable</td><td>Fastboot</td><td>V14.0.10.0.TNRCNXM</td><td>13.0</td><td>7.1 GB</td><td>2023-10-06</td><td><a href="/miui/garnet/stable/V14.0.10.0.TNRCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro China</td><td>Stable</td><td>Recovery</td><td>V14.0.10.0.TNRCNXM</td><td>13.0</td><td>5.6 GB</td><td>2023-09-30</td><td><a href="/miui/garnet/stable/V14.0.10.0.TNRCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro China</td><td>Stable</td><td>Recovery</td><td>V14.0.9.0.TNRCNXM</td><td>13.0</td><td>5.6 GB</td><td>2023-09-25</td><td><a href="/miui/garnet/stable/V14.0.9.0.TNRCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro China</td><td>Stable</td><td>Fastboot</td><td>V14.0.9.0.TNRCNXM</td><td>13.0</td><td>7.0 GB</td><td>2023-09-23</td><td><a href="/miui/garnet/stable/V14.0.9.0.TNRCNXM/">Download</a></td></tr>

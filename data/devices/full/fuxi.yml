@@ -39,16 +39,6 @@
     android: '14.0'
     miui: V14.0.0.4.UMCCNXM
 - branch: stable
-  date: '2023-09-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-22.09.2023/fw_fuxi_miui_FUXI_V14.0.1.14.UMCCNXM_e8949cfca7_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fuxi/fw_fuxi_miui_FUXI_V14.0.1.14.UMCCNXM_e8949cfca7_14.0.zip
-  filename: fw_fuxi_miui_FUXI_V14.0.1.14.UMCCNXM_e8949cfca7_14.0.zip
-  region: China
-  versions:
-    android: '14.0'
-    miui: V14.0.1.14.UMCCNXM
-- branch: stable
   date: '2023-07-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-19.07.2023/fw_fuxi_miui_FUXI_V14.0.30.0.TMCCNXM_a93872e3c3_13.0.zip
@@ -119,16 +109,6 @@
     android: '14.0'
     miui: V14.0.3.0.UMCCNXM
 - branch: stable
-  date: '2023-10-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-09.10.2023/fw_fuxi_miui_FUXI_V14.0.1.15.UMCCNXM_eb0d00b618_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fuxi/fw_fuxi_miui_FUXI_V14.0.1.15.UMCCNXM_eb0d00b618_14.0.zip
-  filename: fw_fuxi_miui_FUXI_V14.0.1.15.UMCCNXM_eb0d00b618_14.0.zip
-  region: China
-  versions:
-    android: '14.0'
-    miui: V14.0.1.15.UMCCNXM
-- branch: stable
   date: '2023-03-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-09.03.2023/fw_fuxi_miui_FUXI_V14.0.21.0.TMCCNXM_a2d21eb89e_13.0.zip
@@ -148,16 +128,6 @@
   versions:
     android: '13.0'
     miui: V14.0.29.0.TMCCNXM
-- branch: stable
-  date: '2023-09-01'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-01.09.2023/fw_fuxi_miui_FUXI_V14.0.0.11.UMCCNXM_1fc98fd237_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fuxi/fw_fuxi_miui_FUXI_V14.0.0.11.UMCCNXM_1fc98fd237_14.0.zip
-  filename: fw_fuxi_miui_FUXI_V14.0.0.11.UMCCNXM_1fc98fd237_14.0.zip
-  region: China
-  versions:
-    android: '14.0'
-    miui: V14.0.0.11.UMCCNXM
 - branch: stable
   date: '2023-06-01'
   downloads:

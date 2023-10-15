@@ -99,16 +99,6 @@
     android: '13.0'
     miui: V14.0.2.0.TLMEUXM
 - branch: stable
-  date: '2023-06-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-25.06.2023/fw_munch_miui_MUNCHINGlobal_V14.0.5.0.TLMINXM_ff11453ea0_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/munch/fw_munch_miui_MUNCHINGlobal_V14.0.5.0.TLMINXM_ff11453ea0_13.0.zip
-  filename: fw_munch_miui_MUNCHINGlobal_V14.0.5.0.TLMINXM_ff11453ea0_13.0.zip
-  region: India
-  versions:
-    android: '13.0'
-    miui: V14.0.5.0.TLMINXM
-- branch: stable
   date: '2022-06-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-20.06.2022/fw_munch_miui_MUNCHINGlobal_V13.0.3.0.SLMINXM_2be3861324_12.0.zip
@@ -118,16 +108,6 @@
   versions:
     android: '12.0'
     miui: V13.0.3.0.SLMINXM
-- branch: stable
-  date: '2023-05-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-18.05.2023/fw_munch_miui_MUNCH_V14.0.6.0.TLMCNXM_80538845fe_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/munch/fw_munch_miui_MUNCH_V14.0.6.0.TLMCNXM_80538845fe_13.0.zip
-  filename: fw_munch_miui_MUNCH_V14.0.6.0.TLMCNXM_80538845fe_13.0.zip
-  region: China
-  versions:
-    android: '13.0'
-    miui: V14.0.6.0.TLMCNXM
 - branch: stable
   date: '2022-05-13'
   downloads:
@@ -148,16 +128,6 @@
   versions:
     android: '12.0'
     miui: V13.0.2.0.SLMINXM
-- branch: stable
-  date: '2023-06-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-13.06.2023/fw_munch_miui_MUNCHGlobal_V14.0.3.0.TLMMIXM_e91a582c89_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/munch/fw_munch_miui_MUNCHGlobal_V14.0.3.0.TLMMIXM_e91a582c89_13.0.zip
-  filename: fw_munch_miui_MUNCHGlobal_V14.0.3.0.TLMMIXM_e91a582c89_13.0.zip
-  region: Global
-  versions:
-    android: '13.0'
-    miui: V14.0.3.0.TLMMIXM
 - branch: stable
   date: '2022-12-12'
   downloads:

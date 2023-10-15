@@ -79,16 +79,6 @@
     android: '13.0'
     miui: V14.0.9.0.TMTMIXM
 - branch: stable
-  date: '2023-07-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-09.07.2023/fw_tapas_miui_TAPASGlobal_V14.0.11.0.TMTMIXM_5277319038_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/tapas/fw_tapas_miui_TAPASGlobal_V14.0.11.0.TMTMIXM_5277319038_13.0.zip
-  filename: fw_tapas_miui_TAPASGlobal_V14.0.11.0.TMTMIXM_5277319038_13.0.zip
-  region: Global
-  versions:
-    android: '13.0'
-    miui: V14.0.11.0.TMTMIXM
-- branch: stable
   date: '2023-09-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-07.09.2023/fw_tapas_miui_TAPASINGlobal_V14.0.8.0.TMTINXM_2c7777899e_13.0.zip
