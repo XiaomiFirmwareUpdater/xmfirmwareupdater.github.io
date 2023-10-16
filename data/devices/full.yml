@@ -27799,6 +27799,16 @@
     android: '12.0'
     miui: V13.0.13.0.SGMEUXM
 - branch: stable
+  date: '2023-10-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-16.10.2023/fw_ice_miui_ICEGlobal_V13.0.19.0.SGMMIXM_2886aab6f3_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEGlobal_V13.0.19.0.SGMMIXM_2886aab6f3_12.0.zip
+  filename: fw_ice_miui_ICEGlobal_V13.0.19.0.SGMMIXM_2886aab6f3_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.19.0.SGMMIXM
+- branch: stable
   date: '2023-03-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-16.03.2023/fw_ice_miui_ICEEEAGlobal_V13.0.10.0.SGMEUXM_6c1c738cb8_12.0.zip
@@ -35669,16 +35679,6 @@
     android: '12.0'
     miui: V13.0.13.0.SLKCNXM
 - branch: stable
-  date: '2022-06-20'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-21.06.2022/fw_matisse_miui_MATISSE_V13.0.20.0.SLKCNXM_42062c5d07_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/matisse/fw_matisse_miui_MATISSE_V13.0.20.0.SLKCNXM_42062c5d07_12.0.zip
-  filename: fw_matisse_miui_MATISSE_V13.0.20.0.SLKCNXM_42062c5d07_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: V13.0.20.0.SLKCNXM
-- branch: stable
   date: '2022-03-21'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-21.03.2022/fw_matisse_miui_MATISSE_V13.0.4.0.SLKCNXM_eb66ac74bb_12.0.zip
@@ -35748,16 +35748,6 @@
   versions:
     android: '13.0'
     miui: V14.0.10.0.TLKCNXM
-- branch: stable
-  date: '2023-05-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-04.05.2023/fw_matisse_miui_MATISSE_V14.0.11.0.TLKCNXM_7f3d5e1dc5_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/matisse/fw_matisse_miui_MATISSE_V14.0.11.0.TLKCNXM_7f3d5e1dc5_13.0.zip
-  filename: fw_matisse_miui_MATISSE_V14.0.11.0.TLKCNXM_7f3d5e1dc5_13.0.zip
-  region: China
-  versions:
-    android: '13.0'
-    miui: V14.0.11.0.TLKCNXM
 - branch: stable
   date: '2022-05-01'
   downloads:
@@ -50508,6 +50498,16 @@
   versions:
     android: '13.0'
     miui: V14.0.2.0.TKLMIXM
+- branch: stable
+  date: '2023-10-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-16.10.2023/fw_rosemary_miui_ROSEMARYEEAGlobal_V14.0.7.0.TKLEUXM_e1b4e9e08c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/rosemary/fw_rosemary_miui_ROSEMARYEEAGlobal_V14.0.7.0.TKLEUXM_e1b4e9e08c_13.0.zip
+  filename: fw_rosemary_miui_ROSEMARYEEAGlobal_V14.0.7.0.TKLEUXM_e1b4e9e08c_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.7.0.TKLEUXM
 - branch: stable
   date: '2022-04-16'
   downloads:

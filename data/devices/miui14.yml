@@ -1679,12 +1679,6 @@
   name: Redmi K50 Pro
   version: V14.0.10.0.TLKCNXM
 - android: '13.0'
-  codename: matisse
-  date: '2023-05-04'
-  download: https://bigota.d.miui.com/V14.0.11.0.TLKCNXM/fw_matisse_miui_MATISSE_V14.0.11.0.TLKCNXM_7f3d5e1dc5_13.0.zip
-  name: Redmi K50 Pro
-  version: V14.0.11.0.TLKCNXM
-- android: '13.0'
   codename: mayfly
   date: '2023-02-27'
   download: https://bigota.d.miui.com/V14.0.7.0.TLTCNXM/fw_mayfly_miui_MAYFLY_V14.0.7.0.TLTCNXM_99ecf04ccb_13.0.zip
@@ -2614,6 +2608,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TKLMIXM/fw_rosemary_miui_ROSEMARYGlobal_V14.0.2.0.TKLMIXM_85c6d48a94_13.0.zip
   name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
   version: V14.0.2.0.TKLMIXM
+- android: '13.0'
+  codename: rosemary
+  date: '2023-10-16'
+  download: https://bigota.d.miui.com/V14.0.7.0.TKLEUXM/fw_rosemary_miui_ROSEMARYEEAGlobal_V14.0.7.0.TKLEUXM_e1b4e9e08c_13.0.zip
+  name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
+  version: V14.0.7.0.TKLEUXM
 - android: '13.0'
   codename: rosemary
   date: '2023-10-13'
