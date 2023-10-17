@@ -209,6 +209,12 @@
   name: Redmi Note 10 5G/Redmi Note 11SE/Redmi Note 10T 5G/POCO M3 Pro 5G
   version: V14.0.2.0.TKSCNXM
 - android: '13.0'
+  codename: camellia
+  date: '2023-10-17'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKSINXM/fw_camellia_miui_CAMELLIAINGlobal_V14.0.6.0.TKSINXM_3afc727b18_13.0.zip
+  name: Redmi Note 10 5G/Redmi Note 11SE/Redmi Note 10T 5G/POCO M3 Pro 5G
+  version: V14.0.6.0.TKSINXM
+- android: '13.0'
   codename: camellian
   date: '2023-05-26'
   download: https://bigota.d.miui.com/V14.0.4.0.TKSMIXM/fw_camellian_miui_CAMELLIANGlobal_V14.0.4.0.TKSMIXM_8003ebaaf1_13.0.zip
@@ -1060,6 +1066,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TNQCNXM/fw_gold_miui_GOLD_V14.0.1.0.TNQCNXM_0a344a58dc_13.0.zip
   name: Redmi Note 13 5G/13R Pro
   version: V14.0.1.0.TNQCNXM
+- android: '13.0'
+  codename: gold
+  date: '2023-10-17'
+  download: https://bigota.d.miui.com/V14.0.5.0.TNQCNXM/fw_gold_miui_GOLD_V14.0.5.0.TNQCNXM_b24d77228a_13.0.zip
+  name: Redmi Note 13 5G/13R Pro
+  version: V14.0.5.0.TNQCNXM
 - android: '12.0'
   codename: gram
   date: '2023-07-24'
@@ -1236,6 +1248,12 @@
   version: V14.0.5.0.TMAEUXM
 - android: '13.0'
   codename: ishtar
+  date: '2023-10-17'
+  download: https://bigota.d.miui.com/V14.0.20.0.TMACNXM/fw_ishtar_miui_ISHTAR_V14.0.20.0.TMACNXM_9e97b9003b_13.0.zip
+  name: Xiaomi 13 Ultra
+  version: V14.0.20.0.TMACNXM
+- android: '13.0'
+  codename: ishtar
   date: '2023-05-17'
   download: https://bigota.d.miui.com/V14.0.13.0.TMACNXM/fw_ishtar_miui_ISHTAR_V14.0.13.0.TMACNXM_0c4d6a81ab_13.0.zip
   name: Xiaomi 13 Ultra
@@ -1372,6 +1390,18 @@
   download: https://bigota.d.miui.com/V14.0.7.0.TLSEUXM/fw_light_miui_LIGHTEEAGlobal_V14.0.7.0.TLSEUXM_360751bb8d_13.0.zip
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
   version: V14.0.7.0.TLSEUXM
+- android: '13.0'
+  codename: lightcm
+  date: '2023-05-16'
+  download: https://bigota.d.miui.com/V14.0.4.0.TLSCNXM/fw_lightcm_miui_LIGHTCM_V14.0.4.0.TLSCNXM_38112ac52e_13.0.zip
+  name: Redmi Note 11R
+  version: V14.0.4.0.TLSCNXM
+- android: '13.0'
+  codename: lightcm
+  date: '2023-08-04'
+  download: https://bigota.d.miui.com/V14.0.6.0.TLSCNXM/fw_lightcm_miui_LIGHTCM_V14.0.6.0.TLSCNXM_bd93639a59_13.0.zip
+  name: Redmi Note 11R
+  version: V14.0.6.0.TLSCNXM
 - android: '12.0'
   codename: lime
   date: '2023-05-22'
@@ -1594,6 +1624,12 @@
   download: https://bigota.d.miui.com/V14.0.16.0.TMRCNXM/fw_marble_miui_MARBLE_V14.0.16.0.TMRCNXM_af816f3572_13.0.zip
   name: Redmi Note 12 Turbo/POCO F5
   version: V14.0.16.0.TMRCNXM
+- android: '13.0'
+  codename: marble
+  date: '2023-10-17'
+  download: https://bigota.d.miui.com/V14.0.25.0.TMRCNXM/fw_marble_miui_MARBLE_V14.0.25.0.TMRCNXM_9189e7c3a9_13.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: V14.0.25.0.TMRCNXM
 - android: '13.0'
   codename: marble
   date: '2023-08-13'
@@ -4108,12 +4144,6 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TLBMIXM/fw_zeus_miui_ZEUSGlobal_V14.0.5.0.TLBMIXM_3e6bbfed12_13.0.zip
   name: Xiaomi 12 Pro
   version: V14.0.5.0.TLBMIXM
-- android: '13.0'
-  codename: zijin
-  date: '2023-07-20'
-  download: https://bigota.d.miui.com/V14.0.5.0.TLPCNXM/fw_zijin_miui_ZIJIN_V14.0.5.0.TLPCNXM_6473eea062_13.0.zip
-  name: Xiaomi Civi 1S
-  version: V14.0.5.0.TLPCNXM
 - android: '13.0'
   codename: zijin
   date: '2023-04-20'
