@@ -4146,6 +4146,12 @@
   version: V14.0.5.0.TLBMIXM
 - android: '13.0'
   codename: zijin
+  date: '2023-07-20'
+  download: https://bigota.d.miui.com/V14.0.5.0.TLPCNXM/fw_zijin_miui_ZIJIN_V14.0.5.0.TLPCNXM_6473eea062_13.0.zip
+  name: Xiaomi Civi 1S
+  version: V14.0.5.0.TLPCNXM
+- android: '13.0'
+  codename: zijin
   date: '2023-04-20'
   download: https://bigota.d.miui.com/V14.0.4.0.TLPCNXM/fw_zijin_miui_ZIJIN_V14.0.4.0.TLPCNXM_ce2f396967_13.0.zip
   name: Xiaomi Civi 1S

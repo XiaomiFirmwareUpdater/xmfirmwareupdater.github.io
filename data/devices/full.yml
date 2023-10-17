@@ -23379,6 +23379,16 @@
     android: '11.0'
     miui: V13.0.8.0.RGFEUXM
 - branch: stable
+  date: '2023-10-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_frost/releases/download/stable-18.10.2023/fw_frost_miui_FROSTGlobal_V13.0.24.0.RGFMIXM_e8da2a5872_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/frost/fw_frost_miui_FROSTGlobal_V13.0.24.0.RGFMIXM_e8da2a5872_11.0.zip
+  filename: fw_frost_miui_FROSTGlobal_V13.0.24.0.RGFMIXM_e8da2a5872_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V13.0.24.0.RGFMIXM
+- branch: stable
   date: '2022-09-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_frost/releases/download/stable-13.09.2022/fw_frost_miui_FROSTEEAGlobal_V13.0.6.0.RGFEUXM_736bf1d8f9_11.0.zip
@@ -69168,6 +69178,16 @@
   versions:
     android: '12.0'
     miui: V13.0.11.0.SLPCNXM
+- branch: stable
+  date: '2023-07-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zijin/releases/download/stable-20.07.2023/fw_zijin_miui_ZIJIN_V14.0.5.0.TLPCNXM_6473eea062_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zijin/fw_zijin_miui_ZIJIN_V14.0.5.0.TLPCNXM_6473eea062_13.0.zip
+  filename: fw_zijin_miui_ZIJIN_V14.0.5.0.TLPCNXM_6473eea062_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TLPCNXM
 - branch: stable
   date: '2023-04-20'
   downloads:
