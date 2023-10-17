@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2023-08-02'
+  date: '2023-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-03.08.2023/fw_agate_miui_AGATEGlobal_V14.0.5.0.TKWMIXM_9833010ed2_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/agate/fw_agate_miui_AGATEGlobal_V14.0.5.0.TKWMIXM_9833010ed2_13.0.zip
-  filename: fw_agate_miui_AGATEGlobal_V14.0.5.0.TKWMIXM_9833010ed2_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-17.10.2023/fw_agate_miui_AGATEGlobal_V14.0.6.0.TKWMIXM_e3d221e70a_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/agate/fw_agate_miui_AGATEGlobal_V14.0.6.0.TKWMIXM_e3d221e70a_13.0.zip
+  filename: fw_agate_miui_AGATEGlobal_V14.0.6.0.TKWMIXM_e3d221e70a_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TKWMIXM
+    miui: V14.0.6.0.TKWMIXM
 - branch: stable
-  date: '2023-08-09'
+  date: '2023-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-09.08.2023/fw_agate_miui_AGATEEEAGlobal_V14.0.5.0.TKWEUXM_dbec58d667_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/agate/fw_agate_miui_AGATEEEAGlobal_V14.0.5.0.TKWEUXM_dbec58d667_13.0.zip
-  filename: fw_agate_miui_AGATEEEAGlobal_V14.0.5.0.TKWEUXM_dbec58d667_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-17.10.2023/fw_agate_miui_AGATEEEAGlobal_V14.0.6.0.TKWEUXM_9b6f7dae73_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/agate/fw_agate_miui_AGATEEEAGlobal_V14.0.6.0.TKWEUXM_9b6f7dae73_13.0.zip
+  filename: fw_agate_miui_AGATEEEAGlobal_V14.0.6.0.TKWEUXM_9b6f7dae73_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TKWEUXM
+    miui: V14.0.6.0.TKWEUXM

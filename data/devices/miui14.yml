@@ -18,6 +18,18 @@
   version: V14.0.4.0.TKWEUXM
 - android: '13.0'
   codename: agate
+  date: '2023-10-17'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKWEUXM/fw_agate_miui_AGATEEEAGlobal_V14.0.6.0.TKWEUXM_9b6f7dae73_13.0.zip
+  name: Xiaomi 11T
+  version: V14.0.6.0.TKWEUXM
+- android: '13.0'
+  codename: agate
+  date: '2023-10-17'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKWMIXM/fw_agate_miui_AGATEGlobal_V14.0.6.0.TKWMIXM_e3d221e70a_13.0.zip
+  name: Xiaomi 11T
+  version: V14.0.6.0.TKWMIXM
+- android: '13.0'
+  codename: agate
   date: '2023-02-13'
   download: https://bigota.d.miui.com/V14.0.1.0.TKWEUXM/fw_agate_miui_AGATEEEAGlobal_V14.0.1.0.TKWEUXM_c74d432f31_13.0.zip
   name: Xiaomi 11T
@@ -1360,18 +1372,6 @@
   download: https://bigota.d.miui.com/V14.0.7.0.TLSEUXM/fw_light_miui_LIGHTEEAGlobal_V14.0.7.0.TLSEUXM_360751bb8d_13.0.zip
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
   version: V14.0.7.0.TLSEUXM
-- android: '13.0'
-  codename: lightcm
-  date: '2023-05-16'
-  download: https://bigota.d.miui.com/V14.0.4.0.TLSCNXM/fw_lightcm_miui_LIGHTCM_V14.0.4.0.TLSCNXM_38112ac52e_13.0.zip
-  name: Redmi Note 11R
-  version: V14.0.4.0.TLSCNXM
-- android: '13.0'
-  codename: lightcm
-  date: '2023-08-04'
-  download: https://bigota.d.miui.com/V14.0.6.0.TLSCNXM/fw_lightcm_miui_LIGHTCM_V14.0.6.0.TLSCNXM_bd93639a59_13.0.zip
-  name: Redmi Note 11R
-  version: V14.0.6.0.TLSCNXM
 - android: '12.0'
   codename: lime
   date: '2023-05-22'
@@ -2914,6 +2914,18 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TMWCNXM/fw_sky_miui_SKY_V14.0.5.0.TMWCNXM_4aafb28b8d_13.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
   version: V14.0.5.0.TMWCNXM
+- android: '13.0'
+  codename: sky
+  date: '2023-10-17'
+  download: https://bigota.d.miui.com/V14.0.5.0.TMWINXM/fw_sky_miui_SKYINGlobal_V14.0.5.0.TMWINXM_8a2b317d27_13.0.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: V14.0.5.0.TMWINXM
+- android: '13.0'
+  codename: sky
+  date: '2023-10-17'
+  download: https://bigota.d.miui.com/V14.0.6.0.TMWCNXM/fw_sky_miui_SKY_V14.0.6.0.TMWCNXM_80edcb99cb_13.0.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: V14.0.6.0.TMWCNXM
 - android: '13.0'
   codename: sky
   date: '2023-09-15'
