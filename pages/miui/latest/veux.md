@@ -72,9 +72,8 @@ permalink: /miui/veux/
 <tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TKCTRXM</td><td>13.0</td><td>6.0 GB</td><td>2023-07-17</td><td><a href="/miui/veux/stable/V14.0.1.0.TKCTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TKCTRXM</td><td>13.0</td><td>3.8 GB</td><td>2023-07-31</td><td><a href="/miui/veux/stable/V14.0.1.0.TKCTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TKCTRXM</td><td>13.0</td><td>3.8 GB</td><td>2023-10-10</td><td><a href="/miui/veux/stable beta/V14.0.2.0.TKCTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TKCTWXM</td><td>13.0</td><td>5.6 GB</td><td>2023-07-04</td><td><a href="/miui/veux/stable/V14.0.1.0.TKCTWXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TKCTWXM</td><td>13.0</td><td>3.8 GB</td><td>2023-07-15</td><td><a href="/miui/veux/stable/V14.0.1.0.TKCTWXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TKCTWXM</td><td>13.0</td><td>3.8 GB</td><td>2023-10-08</td><td><a href="/miui/veux/stable beta/V14.0.4.0.TKCTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TKCTWXM</td><td>13.0</td><td>5.6 GB</td><td>2023-09-22</td><td><a href="/miui/veux/stable/V14.0.4.0.TKCTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TKCTWXM</td><td>13.0</td><td>3.8 GB</td><td>2023-10-08</td><td><a href="/miui/veux/stable/V14.0.4.0.TKCTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
