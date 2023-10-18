@@ -2250,6 +2250,12 @@
   version: V14.0.5.0.TKTEUXM
 - android: '13.0'
   codename: pissarro
+  date: '2023-10-18'
+  download: https://bigota.d.miui.com/V14.0.7.0.TKTCNXM/fw_pissarro_miui_PISSARRO_V14.0.7.0.TKTCNXM_9b45f29b41_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: V14.0.7.0.TKTCNXM
+- android: '13.0'
+  codename: pissarro
   date: '2023-09-15'
   download: https://bigota.d.miui.com/V14.0.6.0.TKTEUXM/fw_pissarro_miui_PISSARROEEAGlobal_V14.0.6.0.TKTEUXM_2de29ecb59_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
@@ -3940,6 +3946,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TLOMIXM/fw_xaga_miui_XAGAGlobal_V14.0.5.0.TLOMIXM_6b421fe451_13.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: V14.0.5.0.TLOMIXM
+- android: '13.0'
+  codename: xaga
+  date: '2023-10-18'
+  download: https://bigota.d.miui.com/V14.0.6.0.TLOCNXM/fw_xaga_miui_XAGA_V14.0.6.0.TLOCNXM_3a10fb7068_13.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: V14.0.6.0.TLOCNXM
 - android: '13.0'
   codename: xaga
   date: '2023-03-15'

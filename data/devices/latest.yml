@@ -3529,15 +3529,15 @@
     android: '13.0'
     miui: V14.0.6.0.TKTMIXM
 - branch: stable
-  date: '2023-08-21'
+  date: '2023-10-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-21.08.2023/fw_pissarro_miui_PISSARRO_V14.0.6.0.TKTCNXM_f2c3da7a64_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARRO_V14.0.6.0.TKTCNXM_f2c3da7a64_13.0.zip
-  filename: fw_pissarro_miui_PISSARRO_V14.0.6.0.TKTCNXM_f2c3da7a64_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-18.10.2023/fw_pissarro_miui_PISSARRO_V14.0.7.0.TKTCNXM_9b45f29b41_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARRO_V14.0.7.0.TKTCNXM_9b45f29b41_13.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V14.0.7.0.TKTCNXM_9b45f29b41_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.6.0.TKTCNXM
+    miui: V14.0.7.0.TKTCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -5369,15 +5369,15 @@
     android: '13.0'
     miui: V14.0.5.0.TLOMIXM
 - branch: stable
-  date: '2023-06-29'
+  date: '2023-10-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-29.06.2023/fw_xaga_miui_XAGA_V14.0.5.0.TLOCNXM_cc8ef566d0_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/xaga/fw_xaga_miui_XAGA_V14.0.5.0.TLOCNXM_cc8ef566d0_13.0.zip
-  filename: fw_xaga_miui_XAGA_V14.0.5.0.TLOCNXM_cc8ef566d0_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-18.10.2023/fw_xaga_miui_XAGA_V14.0.6.0.TLOCNXM_3a10fb7068_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/xaga/fw_xaga_miui_XAGA_V14.0.6.0.TLOCNXM_3a10fb7068_13.0.zip
+  filename: fw_xaga_miui_XAGA_V14.0.6.0.TLOCNXM_3a10fb7068_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TLOCNXM
+    miui: V14.0.6.0.TLOCNXM
 - branch: stable
   date: '2023-08-11'
   downloads:
