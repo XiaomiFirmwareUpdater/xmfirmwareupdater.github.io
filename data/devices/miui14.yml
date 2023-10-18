@@ -60,6 +60,12 @@
   version: V14.0.8.0.TKHMIXM
 - android: '13.0'
   codename: alioth
+  date: '2023-10-18'
+  download: https://bigota.d.miui.com/V14.0.8.0.TKHCNXM/fw_alioth_miui_ALIOTH_V14.0.8.0.TKHCNXM_50141f32f2_13.0.zip
+  name: Redmi K40/POCO F3/Mi 11X
+  version: V14.0.8.0.TKHCNXM
+- android: '13.0'
+  codename: alioth
   date: '2023-06-16'
   download: https://bigota.d.miui.com/V14.0.7.0.TKHCNXM/fw_alioth_miui_ALIOTH_V14.0.7.0.TKHCNXM_013ff06f04_13.0.zip
   name: Redmi K40/POCO F3/Mi 11X
@@ -3774,6 +3780,12 @@
   version: V14.0.1.0.TKDINXM
 - android: '13.0'
   codename: vili
+  date: '2023-10-18'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKDMIXM/fw_vili_miui_VILIGlobal_V14.0.4.0.TKDMIXM_613ae1e5cf_13.0.zip
+  name: Xiaomi 11T Pro
+  version: V14.0.4.0.TKDMIXM
+- android: '13.0'
+  codename: vili
   date: '2023-05-15'
   download: https://bigota.d.miui.com/V14.0.2.0.TKDMIXM/fw_vili_miui_VILIGlobal_V14.0.2.0.TKDMIXM_a419b72ee9_13.0.zip
   name: Xiaomi 11T Pro
@@ -4168,6 +4180,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TLPCNXM/fw_zijin_miui_ZIJIN_V14.0.4.0.TLPCNXM_ce2f396967_13.0.zip
   name: Xiaomi Civi 1S
   version: V14.0.4.0.TLPCNXM
+- android: '13.0'
+  codename: zijin
+  date: '2023-10-18'
+  download: https://bigota.d.miui.com/V14.0.6.0.TLPCNXM/fw_zijin_miui_ZIJIN_V14.0.6.0.TLPCNXM_7aedc6b88a_13.0.zip
+  name: Xiaomi Civi 1S
+  version: V14.0.6.0.TLPCNXM
 - android: '13.0'
   codename: zijin
   date: '2023-01-17'

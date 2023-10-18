@@ -39,6 +39,16 @@
     android: '13.0'
     miui: V14.0.4.0.TLPCNXM
 - branch: stable
+  date: '2023-10-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zijin/releases/download/stable-18.10.2023/fw_zijin_miui_ZIJIN_V14.0.6.0.TLPCNXM_7aedc6b88a_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zijin/fw_zijin_miui_ZIJIN_V14.0.6.0.TLPCNXM_7aedc6b88a_13.0.zip
+  filename: fw_zijin_miui_ZIJIN_V14.0.6.0.TLPCNXM_7aedc6b88a_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TLPCNXM
+- branch: stable
   date: '2023-01-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zijin/releases/download/stable-17.01.2023/fw_zijin_miui_ZIJIN_V14.0.3.0.TLPCNXM_d35d475233_13.0.zip

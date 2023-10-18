@@ -29,15 +29,15 @@
     android: '13.0'
     miui: V14.0.8.0.TKHMIXM
 - branch: stable
-  date: '2023-06-16'
+  date: '2023-10-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-16.06.2023/fw_alioth_miui_ALIOTH_V14.0.7.0.TKHCNXM_013ff06f04_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/alioth/fw_alioth_miui_ALIOTH_V14.0.7.0.TKHCNXM_013ff06f04_13.0.zip
-  filename: fw_alioth_miui_ALIOTH_V14.0.7.0.TKHCNXM_013ff06f04_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-18.10.2023/fw_alioth_miui_ALIOTH_V14.0.8.0.TKHCNXM_50141f32f2_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/alioth/fw_alioth_miui_ALIOTH_V14.0.8.0.TKHCNXM_50141f32f2_13.0.zip
+  filename: fw_alioth_miui_ALIOTH_V14.0.8.0.TKHCNXM_50141f32f2_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.7.0.TKHCNXM
+    miui: V14.0.8.0.TKHCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -2239,15 +2239,15 @@
     android: '11.0'
     miui: V12.0.18.0.RFQEUXM
 - branch: stable
-  date: '2021-11-26'
+  date: '2021-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurus/releases/download/stable-27.11.2021/fw_laurus_miui_LAURUS_V12.5.5.0.QFMCNXM_eb006da5b1_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/laurus/fw_laurus_miui_LAURUS_V12.5.5.0.QFMCNXM_eb006da5b1_10.0.zip
-  filename: fw_laurus_miui_LAURUS_V12.5.5.0.QFMCNXM_eb006da5b1_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurus/releases/download/stable-19.04.2021/fw_laurus_miui_LAURUS_V12.0.4.0.QFMCNXM_74cce5492a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/laurus/fw_laurus_miui_LAURUS_V12.0.4.0.QFMCNXM_74cce5492a_10.0.zip
+  filename: fw_laurus_miui_LAURUS_V12.0.4.0.QFMCNXM_74cce5492a_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.5.5.0.QFMCNXM
+    miui: V12.0.4.0.QFMCNXM
 - branch: weekly
   date: '2021-04-22'
   downloads:
@@ -5129,15 +5129,15 @@
     android: '13.0'
     miui: V14.0.2.0.TGDINXM
 - branch: stable
-  date: '2023-07-13'
+  date: '2023-10-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-13.07.2023/fw_vili_miui_VILIGlobal_V14.0.3.0.TKDMIXM_e7abe78e55_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/vili/fw_vili_miui_VILIGlobal_V14.0.3.0.TKDMIXM_e7abe78e55_13.0.zip
-  filename: fw_vili_miui_VILIGlobal_V14.0.3.0.TKDMIXM_e7abe78e55_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-18.10.2023/fw_vili_miui_VILIGlobal_V14.0.4.0.TKDMIXM_613ae1e5cf_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/vili/fw_vili_miui_VILIGlobal_V14.0.4.0.TKDMIXM_613ae1e5cf_13.0.zip
+  filename: fw_vili_miui_VILIGlobal_V14.0.4.0.TKDMIXM_613ae1e5cf_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.3.0.TKDMIXM
+    miui: V14.0.4.0.TKDMIXM
 - branch: stable
   date: '2023-09-13'
   downloads:
@@ -5569,15 +5569,15 @@
     android: '13.0'
     miui: V14.0.4.0.TLBINXM
 - branch: stable
-  date: '2023-07-20'
+  date: '2023-10-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zijin/releases/download/stable-20.07.2023/fw_zijin_miui_ZIJIN_V14.0.5.0.TLPCNXM_6473eea062_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zijin/fw_zijin_miui_ZIJIN_V14.0.5.0.TLPCNXM_6473eea062_13.0.zip
-  filename: fw_zijin_miui_ZIJIN_V14.0.5.0.TLPCNXM_6473eea062_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zijin/releases/download/stable-18.10.2023/fw_zijin_miui_ZIJIN_V14.0.6.0.TLPCNXM_7aedc6b88a_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zijin/fw_zijin_miui_ZIJIN_V14.0.6.0.TLPCNXM_7aedc6b88a_13.0.zip
+  filename: fw_zijin_miui_ZIJIN_V14.0.6.0.TLPCNXM_7aedc6b88a_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TLPCNXM
+    miui: V14.0.6.0.TLPCNXM
 - branch: stable
   date: '2023-10-13'
   downloads:
