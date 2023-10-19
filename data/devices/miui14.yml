@@ -780,6 +780,12 @@
   version: V14.0.4.0.TMXEUXM
 - android: '13.0'
   codename: fire
+  date: '2023-10-19'
+  download: https://bigota.d.miui.com/V14.0.11.0.TMXMIXM/fw_fire_miui_FIREGlobal_V14.0.11.0.TMXMIXM_8602dd8854_13.0.zip
+  name: Redmi 12
+  version: V14.0.11.0.TMXMIXM
+- android: '13.0'
+  codename: fire
   date: '2023-09-14'
   download: https://bigota.d.miui.com/V14.0.4.0.TMXINXM/fw_fire_miui_FIREINGlobal_V14.0.4.0.TMXINXM_c34c646995_13.0.zip
   name: Redmi 12
@@ -2165,6 +2171,12 @@
   name: Redmi Note 12T Pro
   version: V14.0.6.0.TLHCNXM
 - android: '13.0'
+  codename: pearl
+  date: '2023-10-19'
+  download: https://bigota.d.miui.com/V14.0.8.0.TLHCNXM/fw_pearl_miui_PEARL_V14.0.8.0.TLHCNXM_729fcdf42a_13.0.zip
+  name: Redmi Note 12T Pro
+  version: V14.0.8.0.TLHCNXM
+- android: '13.0'
   codename: pipa
   date: '2023-08-28'
   download: https://bigota.d.miui.com/V14.0.4.0.TMZINXM/fw_pipa_miui_PIPAINGlobal_V14.0.4.0.TMZINXM_786d1bdcb0_13.0.zip
@@ -2908,6 +2920,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TKUEUXM/fw_selene_miui_SELENEEEAGlobal_V14.0.3.0.TKUEUXM_213f012064_13.0.zip
   name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
   version: V14.0.3.0.TKUEUXM
+- android: '13.0'
+  codename: selene
+  date: '2023-10-19'
+  download: https://bigota.d.miui.com/V14.0.7.0.TKUINXM/fw_selene_miui_SELENEINGlobal_V14.0.7.0.TKUINXM_9e1dbc8e62_13.0.zip
+  name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
+  version: V14.0.7.0.TKUINXM
 - android: '13.0'
   codename: selene
   date: '2023-08-15'

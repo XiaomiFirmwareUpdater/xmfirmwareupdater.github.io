@@ -22649,6 +22649,16 @@
     android: '13.0'
     miui: V14.0.4.0.TMXEUXM
 - branch: stable
+  date: '2023-10-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-19.10.2023/fw_fire_miui_FIREGlobal_V14.0.11.0.TMXMIXM_8602dd8854_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fire/fw_fire_miui_FIREGlobal_V14.0.11.0.TMXMIXM_8602dd8854_13.0.zip
+  filename: fw_fire_miui_FIREGlobal_V14.0.11.0.TMXMIXM_8602dd8854_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.11.0.TMXMIXM
+- branch: stable
   date: '2023-09-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-14.09.2023/fw_fire_miui_FIREINGlobal_V14.0.4.0.TMXINXM_c34c646995_13.0.zip
@@ -41768,6 +41778,16 @@
   versions:
     android: '13.0'
     miui: V14.0.6.0.TLHCNXM
+- branch: stable
+  date: '2023-10-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pearl/releases/download/stable-19.10.2023/fw_pearl_miui_PEARL_V14.0.8.0.TLHCNXM_729fcdf42a_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pearl/fw_pearl_miui_PEARL_V14.0.8.0.TLHCNXM_729fcdf42a_13.0.zip
+  filename: fw_pearl_miui_PEARL_V14.0.8.0.TLHCNXM_729fcdf42a_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.8.0.TLHCNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -53288,6 +53308,16 @@
   versions:
     android: '11.0'
     miui: V12.5.9.0.RKUMIXM
+- branch: stable
+  date: '2023-10-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-19.10.2023/fw_selene_miui_SELENEINGlobal_V14.0.7.0.TKUINXM_9e1dbc8e62_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/selene/fw_selene_miui_SELENEINGlobal_V14.0.7.0.TKUINXM_9e1dbc8e62_13.0.zip
+  filename: fw_selene_miui_SELENEINGlobal_V14.0.7.0.TKUINXM_9e1dbc8e62_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.7.0.TKUINXM
 - branch: stable
   date: '2021-08-19'
   downloads:

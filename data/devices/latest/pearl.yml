@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2023-07-21'
+  date: '2023-10-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pearl/releases/download/stable-21.07.2023/fw_pearl_miui_PEARL_V14.0.6.0.TLHCNXM_82e08d35ea_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pearl/fw_pearl_miui_PEARL_V14.0.6.0.TLHCNXM_82e08d35ea_13.0.zip
-  filename: fw_pearl_miui_PEARL_V14.0.6.0.TLHCNXM_82e08d35ea_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pearl/releases/download/stable-19.10.2023/fw_pearl_miui_PEARL_V14.0.8.0.TLHCNXM_729fcdf42a_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pearl/fw_pearl_miui_PEARL_V14.0.8.0.TLHCNXM_729fcdf42a_13.0.zip
+  filename: fw_pearl_miui_PEARL_V14.0.8.0.TLHCNXM_729fcdf42a_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.6.0.TLHCNXM
+    miui: V14.0.8.0.TLHCNXM
