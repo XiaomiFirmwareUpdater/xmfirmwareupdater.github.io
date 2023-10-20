@@ -1999,15 +1999,15 @@
     android: '13.0'
     miui: V14.0.20.0.TMACNXM
 - branch: stable
-  date: '2023-08-19'
+  date: '2023-10-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-19.08.2023/fw_ishtar_miui_ISHTAREEAGlobal_V14.0.5.0.TMAEUXM_10a294b68d_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ishtar/fw_ishtar_miui_ISHTAREEAGlobal_V14.0.5.0.TMAEUXM_10a294b68d_13.0.zip
-  filename: fw_ishtar_miui_ISHTAREEAGlobal_V14.0.5.0.TMAEUXM_10a294b68d_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-20.10.2023/fw_ishtar_miui_ISHTAREEAGlobal_V14.0.6.0.TMAEUXM_8a9bb72fad_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ishtar/fw_ishtar_miui_ISHTAREEAGlobal_V14.0.6.0.TMAEUXM_8a9bb72fad_13.0.zip
+  filename: fw_ishtar_miui_ISHTAREEAGlobal_V14.0.6.0.TMAEUXM_8a9bb72fad_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TMAEUXM
+    miui: V14.0.6.0.TMAEUXM
 - branch: stable
   date: '2021-07-15'
   downloads:
@@ -2629,15 +2629,15 @@
     android: '13.0'
     miui: V14.0.9.0.TMREUXM
 - branch: stable
-  date: '2023-08-22'
+  date: '2023-10-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-22.08.2023/fw_marble_miui_MARBLEINGlobal_V14.0.5.0.TMRINXM_496883a5c6_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEINGlobal_V14.0.5.0.TMRINXM_496883a5c6_13.0.zip
-  filename: fw_marble_miui_MARBLEINGlobal_V14.0.5.0.TMRINXM_496883a5c6_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-20.10.2023/fw_marble_miui_MARBLEINGlobal_V14.0.6.0.TMRINXM_7cce6c6ef5_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEINGlobal_V14.0.6.0.TMRINXM_7cce6c6ef5_13.0.zip
+  filename: fw_marble_miui_MARBLEINGlobal_V14.0.6.0.TMRINXM_7cce6c6ef5_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TMRINXM
+    miui: V14.0.6.0.TMRINXM
 - branch: stable
   date: '2019-05-20'
   downloads:
@@ -5259,15 +5259,15 @@
     android: '13.0'
     miui: V14.0.15.0.TGOMIXM
 - branch: stable
-  date: '2023-08-25'
+  date: '2023-10-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-25.08.2023/fw_water_miui_WATEREEAGlobal_V14.0.10.0.TGOEUXM_5bfbd4f515_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATEREEAGlobal_V14.0.10.0.TGOEUXM_5bfbd4f515_13.0.zip
-  filename: fw_water_miui_WATEREEAGlobal_V14.0.10.0.TGOEUXM_5bfbd4f515_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-20.10.2023/fw_water_miui_WATEREEAGlobal_V14.0.11.0.TGOEUXM_776fab2f20_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATEREEAGlobal_V14.0.11.0.TGOEUXM_776fab2f20_13.0.zip
+  filename: fw_water_miui_WATEREEAGlobal_V14.0.11.0.TGOEUXM_776fab2f20_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.10.0.TGOEUXM
+    miui: V14.0.11.0.TGOEUXM
 - branch: stable
   date: '2023-09-25'
   downloads:
