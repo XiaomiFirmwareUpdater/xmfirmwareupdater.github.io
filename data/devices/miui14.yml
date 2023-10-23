@@ -384,6 +384,12 @@
   version: V14.0.6.0.TMLMIXM
 - android: '13.0'
   codename: corot
+  date: '2023-10-23'
+  download: https://bigota.d.miui.com/V14.0.14.0.TMLEUXM/fw_corot_miui_COROTEEAGlobal_V14.0.14.0.TMLEUXM_a42688c1f8_13.0.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: V14.0.14.0.TMLEUXM
+- android: '13.0'
+  codename: corot
   date: '2023-10-06'
   download: https://bigota.d.miui.com/V14.0.12.0.TMLEUXM/fw_corot_miui_COROTEEAGlobal_V14.0.12.0.TMLEUXM_79b22aba20_13.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
@@ -1416,6 +1422,12 @@
   version: V14.0.7.0.TLSEUXM
 - android: '13.0'
   codename: lightcm
+  date: '2023-10-23'
+  download: https://bigota.d.miui.com/V14.0.8.0.TLSCNXM/fw_lightcm_miui_LIGHTCM_V14.0.8.0.TLSCNXM_7443c94d77_13.0.zip
+  name: Redmi Note 11R
+  version: V14.0.8.0.TLSCNXM
+- android: '13.0'
+  codename: lightcm
   date: '2023-05-16'
   download: https://bigota.d.miui.com/V14.0.4.0.TLSCNXM/fw_lightcm_miui_LIGHTCM_V14.0.4.0.TLSCNXM_38112ac52e_13.0.zip
   name: Redmi Note 11R
@@ -2206,6 +2218,12 @@
   download: https://bigota.d.miui.com/V14.0.7.0.TMZCNXM/fw_pipa_miui_PIPA_V14.0.7.0.TMZCNXM_4cb8adc626_13.0.zip
   name: Xiaomi Pad 6
   version: V14.0.7.0.TMZCNXM
+- android: '13.0'
+  codename: pipa
+  date: '2023-10-23'
+  download: https://bigota.d.miui.com/V14.0.10.0.TMZCNXM/fw_pipa_miui_PIPA_V14.0.10.0.TMZCNXM_29505395c6_13.0.zip
+  name: Xiaomi Pad 6
+  version: V14.0.10.0.TMZCNXM
 - android: '13.0'
   codename: pipa
   date: '2023-04-19'

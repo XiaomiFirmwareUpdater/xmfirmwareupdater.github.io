@@ -52,7 +52,8 @@ permalink: /archive/miui/corot/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 13T Pro Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMLRUXM</td><td>13.0</td><td>5.5 GB</td><td>2023-10-02</td><td><a href="/miui/corot/stable/V14.0.3.0.TMLRUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 13T Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.14.0.TMLEUXM</td><td>13.0</td><td>5.7 GB</td><td>2023-10-16</td><td><a href="/miui/corot/stable beta/V14.0.14.0.TMLEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Pro Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMLRUXM</td><td>13.0</td><td>5.5 GB</td><td>2023-10-02</td><td><a href="/miui/corot/stable/V14.0.3.0.TMLRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMLRUXM</td><td>13.0</td><td>7.4 GB</td><td>2023-10-02</td><td><a href="/miui/corot/stable/V14.0.3.0.TMLRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMLTWXM</td><td>13.0</td><td>5.5 GB</td><td>2023-10-02</td><td><a href="/miui/corot/stable/V14.0.6.0.TMLTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TMLTWXM</td><td>13.0</td><td>6.8 GB</td><td>2023-10-02</td><td><a href="/miui/corot/stable/V14.0.6.0.TMLTWXM/">Download</a></td></tr>
