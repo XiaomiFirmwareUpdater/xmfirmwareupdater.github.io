@@ -32009,6 +32009,16 @@
     android: '13.0'
     miui: V14.0.3.0.TLSMIXM
 - branch: stable
+  date: '2023-10-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-24.10.2023/fw_light_miui_LIGHT_V14.0.7.0.TLSCNXM_3698015d53_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/light/fw_light_miui_LIGHT_V14.0.7.0.TLSCNXM_3698015d53_13.0.zip
+  filename: fw_light_miui_LIGHT_V14.0.7.0.TLSCNXM_3698015d53_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.7.0.TLSCNXM
+- branch: stable
   date: '2023-07-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-23.07.2023/fw_light_miui_LIGHTGlobal_V14.0.4.0.TLSMIXM_c8b1d47ee5_13.0.zip
@@ -51348,6 +51358,16 @@
   versions:
     android: '12.0'
     miui: V14.0.3.0.SMOINXM
+- branch: stable
+  date: '2023-10-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-24.10.2023/fw_ruby_miui_RUBYEEAGlobal_V14.0.8.0.TMOEUXM_a44c880d42_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ruby/fw_ruby_miui_RUBYEEAGlobal_V14.0.8.0.TMOEUXM_a44c880d42_13.0.zip
+  filename: fw_ruby_miui_RUBYEEAGlobal_V14.0.8.0.TMOEUXM_a44c880d42_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.8.0.TMOEUXM
 - branch: stable
   date: '2023-07-24'
   downloads:

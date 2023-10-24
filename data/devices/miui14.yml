@@ -1356,6 +1356,12 @@
   version: V14.0.3.0.TLSMIXM
 - android: '13.0'
   codename: light
+  date: '2023-10-24'
+  download: https://bigota.d.miui.com/V14.0.7.0.TLSCNXM/fw_light_miui_LIGHT_V14.0.7.0.TLSCNXM_3698015d53_13.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: V14.0.7.0.TLSCNXM
+- android: '13.0'
+  codename: light
   date: '2023-07-23'
   download: https://bigota.d.miui.com/V14.0.4.0.TLSMIXM/fw_light_miui_LIGHTGlobal_V14.0.4.0.TLSMIXM_c8b1d47ee5_13.0.zip
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
@@ -2806,6 +2812,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.SMOINXM/fw_ruby_miui_RUBYINGlobal_V14.0.3.0.SMOINXM_b17501a8db_12.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: V14.0.3.0.SMOINXM
+- android: '13.0'
+  codename: ruby
+  date: '2023-10-24'
+  download: https://bigota.d.miui.com/V14.0.8.0.TMOEUXM/fw_ruby_miui_RUBYEEAGlobal_V14.0.8.0.TMOEUXM_a44c880d42_13.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: V14.0.8.0.TMOEUXM
 - android: '13.0'
   codename: ruby
   date: '2023-07-24'
