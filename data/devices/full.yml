@@ -14209,6 +14209,16 @@
     android: '8.1'
     miui: 8.10.25
 - branch: stable
+  date: '2018-09-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_clover/releases/download/stable-17.09.2018/fw_clover_miui_MIPAD4_V9.6.27.0.ODJCNFD_dc3928f92d_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/clover/fw_clover_miui_MIPAD4_V9.6.27.0.ODJCNFD_dc3928f92d_8.1.zip
+  filename: fw_clover_miui_MIPAD4_V9.6.27.0.ODJCNFD_dc3928f92d_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: V9.6.27.0.ODJCNFD
+- branch: stable
   date: '2018-09-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_clover/releases/download/stable-03.09.2018/fw_clover_miui_MIPAD4_V9.6.26.0.ODJCNFD_ccb12222cb_8.1.zip
@@ -27308,6 +27318,16 @@
   versions:
     android: '11.0'
     miui: V12.5.4.0.RKKCNXM
+- branch: stable
+  date: '2023-10-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-24.10.2023/fw_haydn_miui_HAYDNGlobal_V14.0.7.0.TKKMIXM_07a3402c80_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/haydn/fw_haydn_miui_HAYDNGlobal_V14.0.7.0.TKKMIXM_07a3402c80_13.0.zip
+  filename: fw_haydn_miui_HAYDNGlobal_V14.0.7.0.TKKMIXM_07a3402c80_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.7.0.TKKMIXM
 - branch: stable
   date: '2023-07-24'
   downloads:
@@ -55989,6 +56009,16 @@
     android: '12.0'
     miui: V14.0.6.0.SMQEUXM
 - branch: stable
+  date: '2023-10-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-24.10.2023/fw_sunstone_miui_SUNSTONE_V14.0.9.0.TMQCNXM_0a069aa2ee_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sunstone/fw_sunstone_miui_SUNSTONE_V14.0.9.0.TMQCNXM_0a069aa2ee_13.0.zip
+  filename: fw_sunstone_miui_SUNSTONE_V14.0.9.0.TMQCNXM_0a069aa2ee_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.9.0.TMQCNXM
+- branch: stable
   date: '2023-07-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-24.07.2023/fw_sunstone_miui_SUNSTONE_V14.0.7.0.TMQCNXM_b63bb7456c_13.0.zip
@@ -66628,6 +66658,16 @@
   versions:
     android: '13.0'
     miui: V14.0.10.0.TGOEUXM
+- branch: stable
+  date: '2023-10-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-24.10.2023/fw_water_miui_WATERGlobal_V14.0.21.0.TGOMIXM_ab082058d5_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERGlobal_V14.0.21.0.TGOMIXM_ab082058d5_13.0.zip
+  filename: fw_water_miui_WATERGlobal_V14.0.21.0.TGOMIXM_ab082058d5_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.21.0.TGOMIXM
 - branch: stable
   date: '2023-03-23'
   downloads:

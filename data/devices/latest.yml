@@ -1759,15 +1759,15 @@
     android: '11.0'
     miui: V12.5.1.0.RFBEUXM
 - branch: stable
-  date: '2023-07-24'
+  date: '2023-10-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-24.07.2023/fw_haydn_miui_HAYDNGlobal_V14.0.6.0.TKKMIXM_a0c81091da_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/haydn/fw_haydn_miui_HAYDNGlobal_V14.0.6.0.TKKMIXM_a0c81091da_13.0.zip
-  filename: fw_haydn_miui_HAYDNGlobal_V14.0.6.0.TKKMIXM_a0c81091da_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-24.10.2023/fw_haydn_miui_HAYDNGlobal_V14.0.7.0.TKKMIXM_07a3402c80_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/haydn/fw_haydn_miui_HAYDNGlobal_V14.0.7.0.TKKMIXM_07a3402c80_13.0.zip
+  filename: fw_haydn_miui_HAYDNGlobal_V14.0.7.0.TKKMIXM_07a3402c80_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.6.0.TKKMIXM
+    miui: V14.0.7.0.TKKMIXM
 - branch: stable
   date: '2023-09-10'
   downloads:
@@ -4529,15 +4529,15 @@
     android: '13.0'
     miui: V14.0.5.0.TMQMIXM
 - branch: stable
-  date: '2023-08-28'
+  date: '2023-10-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-28.08.2023/fw_sunstone_miui_SUNSTONE_V14.0.8.0.TMQCNXM_cded3c4e85_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sunstone/fw_sunstone_miui_SUNSTONE_V14.0.8.0.TMQCNXM_cded3c4e85_13.0.zip
-  filename: fw_sunstone_miui_SUNSTONE_V14.0.8.0.TMQCNXM_cded3c4e85_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-24.10.2023/fw_sunstone_miui_SUNSTONE_V14.0.9.0.TMQCNXM_0a069aa2ee_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sunstone/fw_sunstone_miui_SUNSTONE_V14.0.9.0.TMQCNXM_0a069aa2ee_13.0.zip
+  filename: fw_sunstone_miui_SUNSTONE_V14.0.9.0.TMQCNXM_0a069aa2ee_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.8.0.TMQCNXM
+    miui: V14.0.9.0.TMQCNXM
 - branch: stable
   date: '2023-09-05'
   downloads:
@@ -5249,15 +5249,15 @@
     android: '13.0'
     miui: V14.0.3.0.TGDEUXM
 - branch: stable
-  date: '2023-08-22'
+  date: '2023-10-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-22.08.2023/fw_water_miui_WATERGlobal_V14.0.15.0.TGOMIXM_3895b1029e_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERGlobal_V14.0.15.0.TGOMIXM_3895b1029e_13.0.zip
-  filename: fw_water_miui_WATERGlobal_V14.0.15.0.TGOMIXM_3895b1029e_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-24.10.2023/fw_water_miui_WATERGlobal_V14.0.21.0.TGOMIXM_ab082058d5_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERGlobal_V14.0.21.0.TGOMIXM_ab082058d5_13.0.zip
+  filename: fw_water_miui_WATERGlobal_V14.0.21.0.TGOMIXM_ab082058d5_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.15.0.TGOMIXM
+    miui: V14.0.21.0.TGOMIXM
 - branch: stable
   date: '2023-10-20'
   downloads:

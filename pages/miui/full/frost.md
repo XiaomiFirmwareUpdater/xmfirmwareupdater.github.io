@@ -52,7 +52,8 @@ permalink: /archive/miui/frost/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO C40 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.15.0.RGFRUXM</td><td>11.0</td><td>2.6 GB</td><td>2023-10-17</td><td><a href="/miui/frost/stable beta/V13.0.15.0.RGFRUXM/">Download</a></td></tr>
+                <tr><td>POCO C40 Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.15.0.RGFRUXM</td><td>11.0</td><td>2.6 GB</td><td>2023-10-17</td><td><a href="/miui/frost/stable/V13.0.15.0.RGFRUXM/">Download</a></td></tr>
+<tr><td>POCO C40 Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.15.0.RGFRUXM</td><td>11.0</td><td>5.0 GB</td><td>2023-10-10</td><td><a href="/miui/frost/stable/V13.0.15.0.RGFRUXM/">Download</a></td></tr>
 <tr><td>POCO C40 Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.24.0.RGFMIXM</td><td>11.0</td><td>2.7 GB</td><td>2023-10-17</td><td><a href="/miui/frost/stable beta/V13.0.24.0.RGFMIXM/">Download</a></td></tr>
 <tr><td>POCO C40 Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.RGFTWXM</td><td>11.0</td><td>2.6 GB</td><td>2023-08-21</td><td><a href="/miui/frost/stable/V13.0.6.0.RGFTWXM/">Download</a></td></tr>
 <tr><td>POCO C40 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.RGFTWXM</td><td>11.0</td><td>4.6 GB</td><td>2023-08-08</td><td><a href="/miui/frost/stable/V13.0.6.0.RGFTWXM/">Download</a></td></tr>
