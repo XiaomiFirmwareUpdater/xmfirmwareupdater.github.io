@@ -1219,15 +1219,15 @@
     android: '13.0'
     miui: V14.0.11.0.TLFCNXM
 - branch: stable
-  date: '2023-08-23'
+  date: '2023-10-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-23.08.2023/fw_diting_miui_DITINGEEAGlobal_V14.0.16.0.TLFEUXM_03c8b81371_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/diting/fw_diting_miui_DITINGEEAGlobal_V14.0.16.0.TLFEUXM_03c8b81371_13.0.zip
-  filename: fw_diting_miui_DITINGEEAGlobal_V14.0.16.0.TLFEUXM_03c8b81371_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-25.10.2023/fw_diting_miui_DITINGEEAGlobal_V14.0.17.0.TLFEUXM_330c94a0e1_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/diting/fw_diting_miui_DITINGEEAGlobal_V14.0.17.0.TLFEUXM_330c94a0e1_13.0.zip
+  filename: fw_diting_miui_DITINGEEAGlobal_V14.0.17.0.TLFEUXM_330c94a0e1_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.16.0.TLFEUXM
+    miui: V14.0.17.0.TLFEUXM
 - branch: stable
   date: '2023-10-16'
   downloads:
@@ -4629,15 +4629,15 @@
     android: '13.0'
     miui: V14.0.6.0.TLIMIXM
 - branch: stable
-  date: '2023-09-18'
+  date: '2023-10-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-18.09.2023/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.20.0.TLIEUXM_ab20fd9bf1_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.20.0.TLIEUXM_ab20fd9bf1_13.0.zip
-  filename: fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.20.0.TLIEUXM_ab20fd9bf1_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-25.10.2023/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.21.0.TLIEUXM_76aac7323a_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.21.0.TLIEUXM_76aac7323a_13.0.zip
+  filename: fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.21.0.TLIEUXM_76aac7323a_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.20.0.TLIEUXM
+    miui: V14.0.21.0.TLIEUXM
 - branch: stable
   date: '2023-09-18'
   downloads:
