@@ -258,6 +258,12 @@
   version: V14.0.1.0.TKSEUXM
 - android: '12.0'
   codename: cannon
+  date: '2023-10-25'
+  download: https://bigota.d.miui.com/V14.0.6.0.SJECNXM/fw_cannon_miui_CANNON_V14.0.6.0.SJECNXM_8eb42b6abd_12.0.zip
+  name: Redmi Note 9 5G
+  version: V14.0.6.0.SJECNXM
+- android: '12.0'
+  codename: cannon
   date: '2023-07-24'
   download: https://bigota.d.miui.com/V14.0.5.0.SJECNXM/fw_cannon_miui_CANNON_V14.0.5.0.SJECNXM_3de84bdf81_12.0.zip
   name: Redmi Note 9 5G
@@ -784,6 +790,12 @@
   download: https://bigota.d.miui.com/V14.0.7.0.TMXEUXM/fw_fire_miui_FIREEEAGlobal_V14.0.7.0.TMXEUXM_ed87889db2_13.0.zip
   name: Redmi 12
   version: V14.0.7.0.TMXEUXM
+- android: '13.0'
+  codename: fire
+  date: '2023-10-25'
+  download: https://bigota.d.miui.com/V14.0.11.0.TMXEUXM/fw_fire_miui_FIREEEAGlobal_V14.0.11.0.TMXEUXM_e92d347fbb_13.0.zip
+  name: Redmi 12
+  version: V14.0.11.0.TMXEUXM
 - android: '13.0'
   codename: fire
   date: '2023-06-25'

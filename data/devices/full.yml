@@ -8969,6 +8969,16 @@
     android: '10.0'
     miui: V12.0.5.0.QJECNXM
 - branch: stable
+  date: '2023-10-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/stable-25.10.2023/fw_cannon_miui_CANNON_V14.0.6.0.SJECNXM_8eb42b6abd_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/cannon/fw_cannon_miui_CANNON_V14.0.6.0.SJECNXM_8eb42b6abd_12.0.zip
+  filename: fw_cannon_miui_CANNON_V14.0.6.0.SJECNXM_8eb42b6abd_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V14.0.6.0.SJECNXM
+- branch: stable
   date: '2021-04-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/stable-25.04.2021/fw_cannon_miui_CANNON_V12.5.1.0.RJECNXM_6873b51dd8_11.0.zip
@@ -22658,6 +22668,16 @@
   versions:
     android: '13.0'
     miui: V14.0.7.0.TMXEUXM
+- branch: stable
+  date: '2023-10-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-25.10.2023/fw_fire_miui_FIREEEAGlobal_V14.0.11.0.TMXEUXM_e92d347fbb_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fire/fw_fire_miui_FIREEEAGlobal_V14.0.11.0.TMXEUXM_e92d347fbb_13.0.zip
+  filename: fw_fire_miui_FIREEEAGlobal_V14.0.11.0.TMXEUXM_e92d347fbb_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.11.0.TMXEUXM
 - branch: stable
   date: '2023-06-25'
   downloads:
