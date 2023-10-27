@@ -60,8 +60,8 @@ permalink: /miui/nuwa/
 <tr><td>Xiaomi 13 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.UMBCNXM</td><td>14.0</td><td>6.5 GB</td><td>2023-09-28</td><td><a href="/miui/nuwa/stable beta/V14.0.2.0.UMBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.28.0.TMBEUXM</td><td>13.0</td><td>7.5 GB</td><td>2023-08-22</td><td><a href="/miui/nuwa/stable/V14.0.28.0.TMBEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.28.0.TMBEUXM</td><td>13.0</td><td>5.6 GB</td><td>2023-08-31</td><td><a href="/miui/nuwa/stable/V14.0.28.0.TMBEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.13.0.TMBMIXM</td><td>13.0</td><td>7.6 GB</td><td>2023-08-22</td><td><a href="/miui/nuwa/stable/V14.0.13.0.TMBMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Pro Global</td><td>Stable</td><td>Recovery</td><td>V14.0.12.0.TMBMIXM</td><td>13.0</td><td>5.6 GB</td><td>2023-08-24</td><td><a href="/miui/nuwa/stable/V14.0.12.0.TMBMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.UMBMIXM</td><td>14.0</td><td>8.0 GB</td><td>2023-09-25</td><td><a href="/miui/nuwa/stable/V14.0.5.0.UMBMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Pro Global</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.UMBMIXM</td><td>14.0</td><td>5.8 GB</td><td>2023-10-24</td><td><a href="/miui/nuwa/stable/V14.0.6.0.UMBMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro India</td><td>Stable</td><td>Fastboot</td><td>V14.0.11.0.TMBINXM</td><td>13.0</td><td>6.2 GB</td><td>2023-08-22</td><td><a href="/miui/nuwa/stable/V14.0.11.0.TMBINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro India</td><td>Stable</td><td>Recovery</td><td>V14.0.11.0.TMBINXM</td><td>13.0</td><td>5.5 GB</td><td>2023-09-06</td><td><a href="/miui/nuwa/stable/V14.0.11.0.TMBINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.9.0.TMBINXM</td><td>13.0</td><td>5.6 GB</td><td>2023-07-27</td><td><a href="/miui/nuwa/stable beta/V14.0.9.0.TMBINXM/">Download</a></td></tr>

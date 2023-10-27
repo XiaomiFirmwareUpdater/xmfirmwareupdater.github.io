@@ -967,6 +967,12 @@
 - android: '14.0'
   codename: fuxi
   date: '2023-10-27'
+  download: https://bigota.d.miui.com/V14.0.6.0.UMCMIXM/fw_fuxi_miui_FUXIGlobal_V14.0.6.0.UMCMIXM_052c72c9ab_14.0.zip
+  name: Xiaomi 13
+  version: V14.0.6.0.UMCMIXM
+- android: '14.0'
+  codename: fuxi
+  date: '2023-10-27'
   download: https://bigota.d.miui.com/V14.0.4.0.UMCCNXM/fw_fuxi_miui_FUXI_V14.0.4.0.UMCCNXM_f88642927a_14.0.zip
   name: Xiaomi 13
   version: V14.0.4.0.UMCCNXM
@@ -1066,6 +1072,12 @@
   download: https://bigota.d.miui.com/V14.0.11.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.11.0.TMCCNXM_77665cadba_13.0.zip
   name: Xiaomi 13
   version: V14.0.11.0.TMCCNXM
+- android: '13.0'
+  codename: garnet
+  date: '2023-10-27'
+  download: https://bigota.d.miui.com/V14.0.12.0.TNRCNXM/fw_garnet_miui_GARNET_V14.0.12.0.TNRCNXM_25ec00c1d5_13.0.zip
+  name: Redmi Note 13 Pro
+  version: V14.0.12.0.TNRCNXM
 - android: '13.0'
   codename: garnet
   date: '2023-09-22'
@@ -2062,6 +2074,12 @@
   download: https://bigota.d.miui.com/V14.0.24.0.TMBEUXM/fw_nuwa_miui_NUWAEEAGlobal_V14.0.24.0.TMBEUXM_1d57b3de91_13.0.zip
   name: Xiaomi 13 Pro
   version: V14.0.24.0.TMBEUXM
+- android: '14.0'
+  codename: nuwa
+  date: '2023-10-27'
+  download: https://bigota.d.miui.com/V14.0.6.0.UMBMIXM/fw_nuwa_miui_NUWAGlobal_V14.0.6.0.UMBMIXM_a5c27eefd4_14.0.zip
+  name: Xiaomi 13 Pro
+  version: V14.0.6.0.UMBMIXM
 - android: '13.0'
   codename: nuwa
   date: '2023-08-24'
