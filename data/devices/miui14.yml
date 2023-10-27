@@ -964,6 +964,12 @@
   download: https://bigota.d.miui.com/V14.0.9.0.TMCMIXM/fw_fuxi_miui_FUXIGlobal_V14.0.9.0.TMCMIXM_e156b47e92_13.0.zip
   name: Xiaomi 13
   version: V14.0.9.0.TMCMIXM
+- android: '14.0'
+  codename: fuxi
+  date: '2023-10-27'
+  download: https://bigota.d.miui.com/V14.0.4.0.UMCCNXM/fw_fuxi_miui_FUXI_V14.0.4.0.UMCCNXM_f88642927a_14.0.zip
+  name: Xiaomi 13
+  version: V14.0.4.0.UMCCNXM
 - android: '13.0'
   codename: fuxi
   date: '2023-06-25'
@@ -1822,6 +1828,12 @@
   download: https://bigota.d.miui.com/V14.0.10.0.TLTCNXM/fw_mayfly_miui_MAYFLY_V14.0.10.0.TLTCNXM_d6b46c9130_13.0.zip
   name: Xiaomi 12S
   version: V14.0.10.0.TLTCNXM
+- android: '12.0'
+  codename: mojito
+  date: '2023-10-27'
+  download: https://bigota.d.miui.com/V14.0.8.0.SKGMIXM/fw_mojito_miui_MOJITOGlobal_V14.0.8.0.SKGMIXM_6c581b2898_12.0.zip
+  name: Redmi Note 10
+  version: V14.0.8.0.SKGMIXM
 - android: '12.0'
   codename: mojito
   date: '2023-04-27'
