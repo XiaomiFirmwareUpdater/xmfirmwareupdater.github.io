@@ -191,24 +191,6 @@
   name: MIX Fold 3
   version: V14.1.8.0.TMVCNXM
 - android: '13.0'
-  codename: biloba
-  date: '2023-05-21'
-  download: https://bigota.d.miui.com/V14.0.4.0.TCUMIXM/fw_biloba_miui_BILOBAGlobal_V14.0.4.0.TCUMIXM_bf1ba493fe_13.0.zip
-  name: Redmi Note 8 (2021)
-  version: V14.0.4.0.TCUMIXM
-- android: '13.0'
-  codename: biloba
-  date: '2023-04-14'
-  download: https://bigota.d.miui.com/V14.0.3.0.TCUEUXM/fw_biloba_miui_BILOBAEEAGlobal_V14.0.3.0.TCUEUXM_1871c59e8d_13.0.zip
-  name: Redmi Note 8 (2021)
-  version: V14.0.3.0.TCUEUXM
-- android: '13.0'
-  codename: biloba
-  date: '2023-03-06'
-  download: https://bigota.d.miui.com/V14.0.3.0.TCUMIXM/fw_biloba_miui_BILOBAGlobal_V14.0.3.0.TCUMIXM_a18fae7bdf_13.0.zip
-  name: Redmi Note 8 (2021)
-  version: V14.0.3.0.TCUMIXM
-- android: '13.0'
   codename: camellia
   date: '2023-09-21'
   download: https://bigota.d.miui.com/V14.0.5.0.TKSINXM/fw_camellia_miui_CAMELLIAINGlobal_V14.0.5.0.TKSINXM_da28691dc8_13.0.zip
@@ -370,12 +352,6 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TJAMIXM/fw_cmi_miui_CMIGlobal_V14.0.5.0.TJAMIXM_3a405e0f11_13.0.zip
   name: Mi 10 Pro
   version: V14.0.5.0.TJAMIXM
-- android: '13.0'
-  codename: cmi
-  date: '2023-05-15'
-  download: https://bigota.d.miui.com/V14.0.3.0.TJACNXM/fw_cmi_miui_CMI_V14.0.3.0.TJACNXM_03a653ca7b_13.0.zip
-  name: Mi 10 Pro
-  version: V14.0.3.0.TJACNXM
 - android: '13.0'
   codename: corot
   date: '2023-09-26'
