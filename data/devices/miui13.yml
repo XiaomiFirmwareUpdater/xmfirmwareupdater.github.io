@@ -454,6 +454,72 @@
   download: https://bigota.d.miui.com/V13.0.3.0.SJHCNXM/fw_atom_miui_ATOM_V13.0.3.0.SJHCNXM_066e584506_12.0.zip
   name: Redmi 10X 5G
   version: V13.0.3.0.SJHCNXM
+- android: '12.0'
+  codename: biloba
+  date: '2022-05-30'
+  download: https://bigota.d.miui.com/V13.0.4.0.SCUMIXM/fw_biloba_miui_BILOBAGlobal_V13.0.4.0.SCUMIXM_4bec0ed494_12.0.zip
+  name: Redmi Note 8 (2021)
+  version: V13.0.4.0.SCUMIXM
+- android: '12.0'
+  codename: biloba
+  date: '2022-04-17'
+  download: https://bigota.d.miui.com/V13.0.3.0.SCUEUXM/fw_biloba_miui_BILOBAEEAGlobal_V13.0.3.0.SCUEUXM_f36c349b19_12.0.zip
+  name: Redmi Note 8 (2021)
+  version: V13.0.3.0.SCUEUXM
+- android: '12.0'
+  codename: biloba
+  date: '2023-01-17'
+  download: https://bigota.d.miui.com/V13.0.7.0.SCUEUXM/fw_biloba_miui_BILOBAEEAGlobal_V13.0.7.0.SCUEUXM_4984da8bba_12.0.zip
+  name: Redmi Note 8 (2021)
+  version: V13.0.7.0.SCUEUXM
+- android: '12.0'
+  codename: biloba
+  date: '2022-08-16'
+  download: https://bigota.d.miui.com/V13.0.5.0.SCUEUXM/fw_biloba_miui_BILOBAEEAGlobal_V13.0.5.0.SCUEUXM_8e514fde10_12.0.zip
+  name: Redmi Note 8 (2021)
+  version: V13.0.5.0.SCUEUXM
+- android: '12.0'
+  codename: biloba
+  date: '2022-10-14'
+  download: https://bigota.d.miui.com/V13.0.6.0.SCUEUXM/fw_biloba_miui_BILOBAEEAGlobal_V13.0.6.0.SCUEUXM_43780699a3_12.0.zip
+  name: Redmi Note 8 (2021)
+  version: V13.0.6.0.SCUEUXM
+- android: '12.0'
+  codename: biloba
+  date: '2023-02-13'
+  download: https://bigota.d.miui.com/V13.0.10.0.SCUMIXM/fw_biloba_miui_BILOBAGlobal_V13.0.10.0.SCUMIXM_6d65b4f5f7_12.0.zip
+  name: Redmi Note 8 (2021)
+  version: V13.0.10.0.SCUMIXM
+- android: '12.0'
+  codename: biloba
+  date: '2023-01-13'
+  download: https://bigota.d.miui.com/V13.0.9.0.SCUMIXM/fw_biloba_miui_BILOBAGlobal_V13.0.9.0.SCUMIXM_d0a250d93b_12.0.zip
+  name: Redmi Note 8 (2021)
+  version: V13.0.9.0.SCUMIXM
+- android: '12.0'
+  codename: biloba
+  date: '2022-02-09'
+  download: https://bigota.d.miui.com/V13.0.2.0.SCUMIXM/fw_biloba_miui_BILOBAGlobal_V13.0.2.0.SCUMIXM_670066a992_12.0.zip
+  name: Redmi Note 8 (2021)
+  version: V13.0.2.0.SCUMIXM
+- android: '12.0'
+  codename: biloba
+  date: '2022-10-08'
+  download: https://bigota.d.miui.com/V13.0.7.0.SCUMIXM/fw_biloba_miui_BILOBAGlobal_V13.0.7.0.SCUMIXM_1603bdf3d0_12.0.zip
+  name: Redmi Note 8 (2021)
+  version: V13.0.7.0.SCUMIXM
+- android: '12.0'
+  codename: biloba
+  date: '2022-08-08'
+  download: https://bigota.d.miui.com/V13.0.6.0.SCUMIXM/fw_biloba_miui_BILOBAGlobal_V13.0.6.0.SCUMIXM_5ea54af041_12.0.zip
+  name: Redmi Note 8 (2021)
+  version: V13.0.6.0.SCUMIXM
+- android: '12.0'
+  codename: biloba
+  date: '2022-06-06'
+  download: https://bigota.d.miui.com/V13.0.4.0.SCUEUXM/fw_biloba_miui_BILOBAEEAGlobal_V13.0.4.0.SCUEUXM_4c100e6b70_12.0.zip
+  name: Redmi Note 8 (2021)
+  version: V13.0.4.0.SCUEUXM
 - android: '11.0'
   codename: bomb
   date: '2022-03-04'
@@ -964,6 +1030,48 @@
   download: https://bigota.d.miui.com/V13.0.3.0.SJAEUXM/fw_cmi_miui_CMIEEAGlobal_V13.0.3.0.SJAEUXM_9657b3ddc0_12.0.zip
   name: Mi 10 Pro
   version: V13.0.3.0.SJAEUXM
+- android: '12.0'
+  codename: cmi
+  date: '2022-03-17'
+  download: https://bigota.d.miui.com/V13.0.3.0.SJACNXM/fw_cmi_miui_CMI_V13.0.3.0.SJACNXM_ff3957663c_12.0.zip
+  name: Mi 10 Pro
+  version: V13.0.3.0.SJACNXM
+- android: '12.0'
+  codename: cmi
+  date: '2022-01-14'
+  download: https://bigota.d.miui.com/V13.0.0.1.1.DEV/fw_cmi_miui_CMI_V13.0.0.1.1.DEV_2acdca7ba6_12.0.zip
+  name: Mi 10 Pro
+  version: V13.0.0.1.1.DEV
+- android: '12.0'
+  codename: cmi
+  date: '2022-12-09'
+  download: https://bigota.d.miui.com/V13.0.6.0.SJACNXM/fw_cmi_miui_CMI_V13.0.6.0.SJACNXM_e6f6ed794a_12.0.zip
+  name: Mi 10 Pro
+  version: V13.0.6.0.SJACNXM
+- android: '12.0'
+  codename: cmi
+  date: '2022-09-05'
+  download: https://bigota.d.miui.com/V13.0.5.0.SJACNXM/fw_cmi_miui_CMI_V13.0.5.0.SJACNXM_79609f2b93_12.0.zip
+  name: Mi 10 Pro
+  version: V13.0.5.0.SJACNXM
+- android: '12.0'
+  codename: cmi
+  date: '2022-06-02'
+  download: https://bigota.d.miui.com/V13.0.4.0.SJACNXM/fw_cmi_miui_CMI_V13.0.4.0.SJACNXM_ae8b4cc344_12.0.zip
+  name: Mi 10 Pro
+  version: V13.0.4.0.SJACNXM
+- android: '12.0'
+  codename: cmi
+  date: '2022-09-01'
+  download: https://bigota.d.miui.com/V13.0.4.0.SJAMIXM/fw_cmi_miui_CMIGlobal_V13.0.4.0.SJAMIXM_b30f26c6f2_12.0.zip
+  name: Mi 10 Pro
+  version: V13.0.4.0.SJAMIXM
+- android: '12.0'
+  codename: cmi
+  date: '2023-02-01'
+  download: https://bigota.d.miui.com/V13.0.6.0.SJAEUXM/fw_cmi_miui_CMIEEAGlobal_V13.0.6.0.SJAEUXM_cd48ee1b15_12.0.zip
+  name: Mi 10 Pro
+  version: V13.0.6.0.SJAEUXM
 - android: '12.0'
   codename: courbet
   date: '2023-01-31'
