@@ -31,7 +31,7 @@ permalink: /firmware/shennong/stable/OS1.0.9.0.UNBCNXM/
             <p class="card-text">This page shows a single update only.
                 If you're looking for another update or other downloads check:</p>
             <a href="/firmware/" class="card-link">Firmware Downloads</a>
-            <a href="/miui/" class="card-link">MIUI Downloads</a>
+            <a href="/hyperos/" class="card-link">HyperOS Downloads</a>
             <a href="/vendor/" class="card-link">Vendor Downloads</a>
         </div>
     </div>
