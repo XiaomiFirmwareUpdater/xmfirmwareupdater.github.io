@@ -36,7 +36,7 @@ Check the downloads on the following pages: [Latest ROMs](/hyperos/) - [ROMs Arc
                         <th data-ref="codename">Codename</th>
                     </tr>
                 </thead>
-                <script>loadSupportedDevices('htperos')</script>
+                <script>loadSupportedDevices('hyperos')</script>
             </table>
         </div>
     </div>

@@ -45,7 +45,7 @@ function loadMiuiChinaBeta(miui_version) {
           className: "all",
           render: function (data) {
             return (
-              '<a href="/' + (data.startsWith("OS") ? "hyperos" : "miui") + '/' +
+              '<a href="/' + (data.version.startsWith("OS") ? "hyperos" : "miui") + '/' +
               data.codename.split("_")[0] +
               '/">Download</a>'
             );
