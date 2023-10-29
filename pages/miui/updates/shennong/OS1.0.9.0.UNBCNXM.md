@@ -1,16 +1,16 @@
 ---
-title: Redmi Note 12 Pro / Pro+ 5G Global MIUI V14.0.8.0.SMOMIXM Update
+title: Xiaomi 14 Pro China MIUI OS1.0.9.0.UNBCNXM Update
 layout: download
-name: Redmi Note 12 Pro / Pro+ 5G Global
-codename: ruby
-permalink: /miui/ruby/stable/V14.0.8.0.SMOMIXM/
+name: Xiaomi 14 Pro China
+codename: shennong
+permalink: /miui/shennong/stable/OS1.0.9.0.UNBCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item"><a href="/miui/ruby/">Redmi Note 12 Pro / Pro+ 5G Global</a></li>
-        <li class="breadcrumb-item active" aria-current="page">V14.0.8.0.SMOMIXM</li>
+        <li class="breadcrumb-item"><a href="/miui/shennong/">Xiaomi 14 Pro China</a></li>
+        <li class="breadcrumb-item active" aria-current="page">OS1.0.9.0.UNBCNXM</li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -21,9 +21,9 @@ permalink: /miui/ruby/stable/V14.0.8.0.SMOMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">MIUI V14.0.8.0.SMOMIXM Stable Official Update for Redmi Note 12 Pro / Pro+ 5G Global (ruby)</h3>
-    <h5>This page shows the V14.0.8.0.SMOMIXM update only. If you're looking for other updates check
-        <a href="/miui/ruby/">here.</a></h5>
+    <h3 class="title bg-light p-2 rounded">MIUI OS1.0.9.0.UNBCNXM Stable Official Update for Xiaomi 14 Pro China (shennong)</h3>
+    <h5>This page shows the OS1.0.9.0.UNBCNXM update only. If you're looking for other updates check
+        <a href="/miui/shennong/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched MIUI ROMs.
         It's not owned, modified or edited by Xiaomi Firmware Updater.</p>
     <div class="card">
@@ -44,57 +44,13 @@ permalink: /miui/ruby/stable/V14.0.8.0.SMOMIXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 12 Pro / Pro+ 5G Global</h5>
+                    <h5><b>Device: </b>Xiaomi 14 Pro China</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Codename: </b> <a href="/miui/ruby/" target="_blank">ruby</a> </h5>
+                    <h5><b>Codename: </b> <a href="/miui/shennong/" target="_blank">shennong</a> </h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>V14.0.8.0.SMOMIXM</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.2 GB</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2023-09-20</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_RUBYGlobal_V14.0.8.0.SMOMIXM_6c78538e69_12.0.zip</span></h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">6c78538e69a452f0cf0cf787f885c499</span></h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary" style="margin: 7px;"
-                            onclick="window.open('https://bigota.d.miui.com/V14.0.8.0.SMOMIXM/miui_RUBYGlobal_V14.0.8.0.SMOMIXM_6c78538e69_12.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM</button></h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#ruby_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="ruby_1_changelog"> <i class="fa fa-arrow-down"
-                                aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="ruby_1_changelog">
-                        <p id="changelog_text">[System]<br>Updated Android Security Patch to July 2023. Increased system security.</p>
-                    </div>
-                </li>
-            </ul>
-        </div>
-        <div class="card card-body">
-            {%include vli_ad_320x50_1.html%}
-            <ul class="list-unstyled">
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 12 Pro / Pro+ 5G Global</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Codename: </b> <a href="/miui/ruby/" target="_blank">ruby</a> </h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>V14.0.8.0.SMOMIXM</h5>
+                    <h5><b>Version: </b>OS1.0.9.0.UNBCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Branch: </b>Stable</h5>
@@ -103,27 +59,71 @@ permalink: /miui/ruby/stable/V14.0.8.0.SMOMIXM/
                     <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.2 GB</h5>
+                    <h5><b>Size: </b>8.3 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2023-08-01</h5>
+                    <h5><b>Release Date: </b>2023-10-26</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">ruby_global_images_V14.0.8.0.SMOMIXM_20230801.0000.00_12.0_global_5a0b1adb0f.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">shennong_images_OS1.0.9.0.UNBCNXM_20231025.0000.00_14.0_cn_7962c872df.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">5a0b1adb0fe090d4608aaf72ac260dac</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">7962c872dfdc634099e173cb49673144</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary" style="margin: 7px;"
-                            onclick="window.open('https://bigota.d.miui.com/V14.0.8.0.SMOMIXM/ruby_global_images_V14.0.8.0.SMOMIXM_20230801.0000.00_12.0_global_5a0b1adb0f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM</button></h5>
+                            onclick="window.open('https://bigota.d.miui.com/OS1.0.9.0.UNBCNXM/shennong_images_OS1.0.9.0.UNBCNXM_20231025.0000.00_14.0_cn_7962c872df.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#ruby_2_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="ruby_2_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#shennong_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="shennong_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="ruby_2_changelog">
-                        <p id="changelog_text">Bug fixes and system optimizations.</p>
+                    <div class="collapse" id="shennong_1_changelog">
+                        <p id="changelog_text">[Other]<br>Optimized system performance<br>Improved system security and stability</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi 14 Pro China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/miui/shennong/" target="_blank">shennong</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.9.0.UNBCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Recovery</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>5.8 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2023-10-26</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_SHENNONG_OS1.0.9.0.UNBCNXM_856989d73f_14.0.zip</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">856989d73f7393793d1a223807f7385a</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary" style="margin: 7px;"
+                            onclick="window.open('https://bigota.d.miui.com/OS1.0.9.0.UNBCNXM/miui_SHENNONG_OS1.0.9.0.UNBCNXM_856989d73f_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM</button><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.9.0.UNBCNXM/miui-blockota-shennong-OS1.0.6.0.UNBCNXM-OS1.0.9.0.UNBCNXM-148da5d35f-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#shennong_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="shennong_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="shennong_2_changelog">
+                        <p id="changelog_text">[Other]<br>Optimized system performance<br>Improved system security and stability</p>
                     </div>
                 </li>
             </ul>
