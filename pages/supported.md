@@ -8,5 +8,6 @@ permalink: /supported/
 ##### Choose a project that you want to check its supported devices:
 
 * [Xiaomi Firmware Updater](/supported/firmware/)
+* [HyperOS Updates Tracker](/supported/hyperos/)
 * [MIUI Updates Tracker](/supported/miui/)
 * [MI Vendor Updater](/supported/vendor/)

@@ -34,8 +34,8 @@ function loadMiuiChinaBeta(miui_version) {
             return parseInt(data[0])
               ? "Weekly"
               : /\.DEV$/.test(data)
-              ? "Public Beta"
-              : "Stable";
+                ? "Public Beta"
+                : "Stable";
           },
         },
         { data: "version", className: "all" },
@@ -45,7 +45,7 @@ function loadMiuiChinaBeta(miui_version) {
           className: "all",
           render: function (data) {
             return (
-              '<a href="/miui/' +
+              '<a href="/' + (data.startsWith("OS") ? "hyperos" : "miui") + '/' +
               data.codename.split("_")[0] +
               '/">Download</a>'
             );

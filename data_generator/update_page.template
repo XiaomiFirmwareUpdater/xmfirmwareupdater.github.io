@@ -1,30 +1,30 @@
 ---
-title: $device MIUI $version Update
+title: $device $os_name $version Update
 layout: download
 name: $device
 codename: $codename
-permalink: /miui/$codename/$branch_lower/$version/
+permalink: /$os_type/$codename/$branch_lower/$version/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
-        <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item"><a href="/miui/$codename/">$device</a></li>
+        <li class="breadcrumb-item"><a href="/$os_type/">$os_name</a></li>
+        <li class="breadcrumb-item"><a href="/$os_type/$codename/">$device</a></li>
         <li class="breadcrumb-item active" aria-current="page">$version</li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
-    Follow <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">MIUI Updates Tracker</a> on Telegram to get
+    Follow <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">$os_name Updates Tracker</a> on Telegram to get
     notified when a new ROM is out!
     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">MIUI $version $branch Official Update for $device ($codename)</h3>
+    <h3 class="title bg-light p-2 rounded">$os_name $version $branch Official Update for $device ($codename)</h3>
     <h5>This page shows the $version update only. If you're looking for other updates check
-        <a href="/miui/$codename/">here.</a></h5>
-    <p><i>Note: </i>All files listed here are official untouched MIUI ROMs.
+        <a href="/$os_type/$codename/">here.</a></h5>
+    <p><i>Note: </i>All files listed here are official untouched $os_name ROMs.
         It's not owned, modified or edited by Xiaomi Firmware Updater.</p>
     <div class="card">
         <div class="card-body">
@@ -32,7 +32,7 @@ permalink: /miui/$codename/$branch_lower/$version/
             <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
             <p class="card-text">This page shows a single update only.
                 If you're looking for another update or other downloads check:</p>
-            <a href="/miui/" class="card-link">MIUI Downloads</a>
+            <a href="/$os_type/" class="card-link">$os_name Downloads</a>
             <a href="/firmware/" class="card-link">Firmware Downloads</a>
             <a href="/vendor/" class="card-link">Vendor Downloads</a>
         </div>

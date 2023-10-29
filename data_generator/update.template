@@ -5,7 +5,7 @@
                     <h5><b>Device: </b>$device</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Codename: </b> <a href="/miui/$codename/" target="_blank">$codename</a> </h5>
+                    <h5><b>Codename: </b> <a href="/$os_type/$codename/" target="_blank">$codename</a> </h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Version: </b>$version</h5>

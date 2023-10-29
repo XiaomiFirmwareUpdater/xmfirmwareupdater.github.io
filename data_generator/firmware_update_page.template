@@ -31,7 +31,7 @@ permalink: /firmware/$codename/$branch_lower/$version/
             <p class="card-text">This page shows a single update only.
                 If you're looking for another update or other downloads check:</p>
             <a href="/firmware/" class="card-link">Firmware Downloads</a>
-            <a href="/miui/" class="card-link">MIUI Downloads</a>
+            <a href="/$os_type/" class="card-link">$os_name Downloads</a>
             <a href="/vendor/" class="card-link">Vendor Downloads</a>
         </div>
     </div>
