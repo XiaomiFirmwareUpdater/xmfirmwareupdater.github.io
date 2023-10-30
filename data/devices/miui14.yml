@@ -2424,6 +2424,12 @@
   version: V14.0.2.0.TKTCNXM
 - android: '14.0'
   codename: plato
+  date: '2023-10-30'
+  download: https://bigota.d.miui.com/V14.0.7.0.ULQMIXM/fw_plato_miui_PLATOGlobal_V14.0.7.0.ULQMIXM_9dd9502178_14.0.zip
+  name: Xiaomi 12T
+  version: V14.0.7.0.ULQMIXM
+- android: '14.0'
+  codename: plato
   date: '2023-10-29'
   download: https://bigota.d.miui.com/V14.0.6.0.ULQMIXM/fw_plato_miui_PLATOGlobal_V14.0.6.0.ULQMIXM_25260a1c54_14.0.zip
   name: Xiaomi 12T
