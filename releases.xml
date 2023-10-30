@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 30 Oct 2023 00:36:25 </lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 06:52:26 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>POCO C40 (frost) - V13.0.10.0.RGFEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/frost</link>
+            <pubDate>Mon, 30 Oct 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 14 (houji) - OS1.0.9.0.UNCCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/houji</link>
@@ -1005,11 +1010,6 @@
             <title>Redmi K50G/POCO F4 GT (ingres) - V14.0.6.0.TLJEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ingres</link>
             <pubDate>Thu, 03 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO C40 (frost) - V13.0.9.0.RGFEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/frost</link>
-            <pubDate>Mon, 31 Jul 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi 11 Lite 5G (renoir) - V14.0.6.0.TKIMIXM</title>
