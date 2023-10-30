@@ -52,9 +52,9 @@ permalink: /miui/agate/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 11T EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TKWEUXM</td><td>13.0</td><td>6.2 GB</td><td>2023-07-03</td><td><a href="/miui/agate/stable/V14.0.5.0.TKWEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11T EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TKWEUXM</td><td>13.0</td><td>3.8 GB</td><td>2023-08-02</td><td><a href="/miui/agate/stable/V14.0.5.0.TKWEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11T EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TKWEUXM</td><td>13.0</td><td>3.8 GB</td><td>2023-10-17</td><td><a href="/miui/agate/stable beta/V14.0.6.0.TKWEUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 11T EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TKWEUXM</td><td>13.0</td><td>6.1 GB</td><td>2023-10-08</td><td><a href="/miui/agate/stable/V14.0.6.0.TKWEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TKWEUXM</td><td>13.0</td><td>3.8 GB</td><td>2023-10-17</td><td><a href="/miui/agate/stable/V14.0.6.0.TKWEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RKWEUXM</td><td>11.0</td><td>2.9 GB</td><td>2021-09-15</td><td><a href="/miui/agate/stable beta/V12.5.2.0.RKWEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TKWMIXM</td><td>13.0</td><td>6.5 GB</td><td>2023-07-17</td><td><a href="/miui/agate/stable/V14.0.5.0.TKWMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Global</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TKWMIXM</td><td>13.0</td><td>3.8 GB</td><td>2023-07-24</td><td><a href="/miui/agate/stable/V14.0.5.0.TKWMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TKWMIXM</td><td>13.0</td><td>3.8 GB</td><td>2023-10-17</td><td><a href="/miui/agate/stable beta/V14.0.6.0.TKWMIXM/">Download</a></td></tr>
