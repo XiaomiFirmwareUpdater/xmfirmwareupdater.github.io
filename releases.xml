@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 31 Oct 2023 07:39:18 </lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 13:04:37 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.5.0.TMOMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Tue, 31 Oct 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>POCO C40 (frost) - V13.0.10.0.RGFEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/frost/</link>
@@ -19,11 +24,6 @@
         <item>
             <title>Xiaomi 14 (houji) - OS1.0.9.0.UNCCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
-            <pubDate>Sun, 29 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.2.0.TMOMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Sun, 29 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>

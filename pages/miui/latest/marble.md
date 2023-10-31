@@ -72,6 +72,7 @@ permalink: /miui/marble/
 <tr><td>POCO F5 Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TMRTRXM</td><td>13.0</td><td>4.9 GB</td><td>2023-08-22</td><td><a href="/miui/marble/stable/V14.0.5.0.TMRTRXM/">Download</a></td></tr>
 <tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TMRTWXM</td><td>13.0</td><td>6.6 GB</td><td>2023-08-07</td><td><a href="/miui/marble/stable/V14.0.5.0.TMRTWXM/">Download</a></td></tr>
 <tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TMRTWXM</td><td>13.0</td><td>4.9 GB</td><td>2023-08-17</td><td><a href="/miui/marble/stable/V14.0.5.0.TMRTWXM/">Download</a></td></tr>
+<tr><td>POCO F5 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TMRTWXM</td><td>13.0</td><td>4.9 GB</td><td>2023-10-31</td><td><a href="/miui/marble/stable beta/V14.0.6.0.TMRTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
