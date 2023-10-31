@@ -958,6 +958,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TGEINXM/fw_fog_miui_FOGINGlobal_V14.0.3.0.TGEINXM_4d02de6ea4_13.0.zip
   name: Redmi 10C
   version: V14.0.3.0.TGEINXM
+- android: '14.0'
+  codename: fuxi
+  date: '2023-10-31'
+  download: https://bigota.d.miui.com/V14.0.6.0.UMCEUXM/fw_fuxi_miui_FUXIEEAGlobal_V14.0.6.0.UMCEUXM_bd06bcd878_14.0.zip
+  name: Xiaomi 13
+  version: V14.0.6.0.UMCEUXM
 - android: '13.0'
   codename: fuxi
   date: '2023-08-29'
@@ -2056,6 +2062,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TKXINXM/fw_nabu_miui_NABUINGlobal_V14.0.4.0.TKXINXM_9acaaebb54_13.0.zip
   name: Xiaomi Pad 5
   version: V14.0.4.0.TKXINXM
+- android: '14.0'
+  codename: nuwa
+  date: '2023-10-31'
+  download: https://bigota.d.miui.com/V14.0.6.0.UMBEUXM/fw_nuwa_miui_NUWAEEAGlobal_V14.0.6.0.UMBEUXM_5f652310d4_14.0.zip
+  name: Xiaomi 13 Pro
+  version: V14.0.6.0.UMBEUXM
 - android: '13.0'
   codename: nuwa
   date: '2023-07-31'

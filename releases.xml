@@ -4,11 +4,36 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 31 Oct 2023 13:04:37 </lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 20:57:21 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 12C/POCO C55 (earth) - V13.0.10.0.SCVCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
+            <pubDate>Tue, 31 Oct 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 (fuxi) - V14.0.6.0.UMCEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
+            <pubDate>Tue, 31 Oct 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 (houji) - OS1.0.11.0.UNCCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Tue, 31 Oct 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - V14.0.6.0.UMBEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Tue, 31 Oct 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.5.0.TMOMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Tue, 31 Oct 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 Pro (shennong) - OS1.0.10.0.UNBCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/shennong/</link>
             <pubDate>Tue, 31 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -20,16 +45,6 @@
             <title>Xiaomi 12T (plato) - V14.0.7.0.ULQMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/plato/</link>
             <pubDate>Mon, 30 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 (houji) - OS1.0.9.0.UNCCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
-            <pubDate>Sun, 29 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Pro (shennong) - OS1.0.9.0.UNBCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/shennong/</link>
-            <pubDate>Sun, 29 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 13 Pro (nuwa) - V14.0.3.0.UMBCNXM</title>
@@ -747,11 +762,6 @@
             <pubDate>Wed, 06 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13 Pro (nuwa) - V14.0.28.0.TMBEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Wed, 06 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13 Pro (nuwa) - V14.0.11.0.TMBINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Wed, 06 Sep 2023 00:00:00 </pubDate>
@@ -780,11 +790,6 @@
             <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V14.0.3.0.TKCMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/veux/</link>
             <pubDate>Mon, 04 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12C/POCO C55 (earth) - V14.0.2.0.TCVCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Fri, 01 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.12.0.TKOCNXM</title>
@@ -919,11 +924,6 @@
         <item>
             <title>POCO M4 Pro 5G (evergreen) - V14.0.3.0.TGBEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/evergreen/</link>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 (fuxi) - V14.0.27.0.TMCEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
             <pubDate>Fri, 11 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>

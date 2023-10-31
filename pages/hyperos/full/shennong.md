@@ -52,7 +52,9 @@ permalink: /archive/hyperos/shennong/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 14 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.UNBCNXM</td><td>14.0</td><td>8.3 GB</td><td>2023-10-26</td><td><a href="/hyperos/shennong/stable/OS1.0.9.0.UNBCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 14 Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.UNBCNXM</td><td>14.0</td><td>5.8 GB</td><td>2023-10-31</td><td><a href="/hyperos/shennong/stable/OS1.0.10.0.UNBCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.UNBCNXM</td><td>14.0</td><td>8.3 GB</td><td>2023-10-31</td><td><a href="/hyperos/shennong/stable/OS1.0.10.0.UNBCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.UNBCNXM</td><td>14.0</td><td>8.3 GB</td><td>2023-10-26</td><td><a href="/hyperos/shennong/stable/OS1.0.9.0.UNBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UNBCNXM</td><td>14.0</td><td>5.8 GB</td><td>2023-10-26</td><td><a href="/hyperos/shennong/stable/OS1.0.9.0.UNBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.UNBCNXM</td><td>14.0</td><td>5.8 GB</td><td>2023-10-26</td><td><a href="/hyperos/shennong/stable beta/OS1.0.6.0.UNBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.8.0.UNBCNXM</td><td>14.0</td><td>5.8 GB</td><td>None</td><td><a href="/hyperos/shennong/stable beta/OS1.0.8.0.UNBCNXM/">Download</a></td></tr>
