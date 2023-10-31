@@ -670,7 +670,7 @@ def generate_rss():
         codename = update["filename"].split("_")[1]
         rss_item = {
             "title": f"{NAMES[codename]} ({codename}) - {update['versions']['miui']}",
-            "link": f"https://xiaomifirmwareupdater.com/firmware/{codename}",
+            "link": f"https://xiaomifirmwareupdater.com/firmware/{codename}/",
             "date": update["date"],
             "pubDate": datetime.strptime(update["date"], "%Y-%m-%d").strftime(
                 "%a, %d %b %Y %H:%M:%S %z"
