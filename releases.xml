@@ -4,712 +4,12 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 01 Nov 2023 18:41:28 </lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 00:33:50 </lastBuildDate>
         <language>en-us</language>
-        <item>
-            <title>Redmi 12C/POCO C55 (earth) - V13.0.10.0.SCVCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Tue, 31 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 (fuxi) - V14.0.6.0.UMCEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Tue, 31 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 (houji) - OS1.0.11.0.UNCCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
-            <pubDate>Tue, 31 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Pro (nuwa) - V14.0.6.0.UMBEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Tue, 31 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.5.0.TMOMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Tue, 31 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Pro (shennong) - OS1.0.10.0.UNBCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/shennong/</link>
-            <pubDate>Tue, 31 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO C40 (frost) - V13.0.10.0.RGFEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/frost/</link>
-            <pubDate>Mon, 30 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12T (plato) - V14.0.7.0.ULQMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/plato/</link>
-            <pubDate>Mon, 30 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Pro (nuwa) - V14.0.3.0.UMBCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Sat, 28 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 (fuxi) - V14.0.6.0.UMCMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Fri, 27 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 (fuxi) - V14.0.4.0.UMCCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Fri, 27 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro (garnet) - V14.0.12.0.TNRCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
-            <pubDate>Fri, 27 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 10 (mojito) - V14.0.8.0.SKGMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/mojito/</link>
-            <pubDate>Fri, 27 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Pro (nuwa) - V14.0.6.0.UMBMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Fri, 27 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12T (plato) - V14.0.16.0.TLQEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/plato/</link>
-            <pubDate>Thu, 26 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 9 5G (cannon) - V14.0.6.0.SJECNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/cannon/</link>
-            <pubDate>Wed, 25 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.17.0.TLFEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
-            <pubDate>Wed, 25 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12 (fire) - V14.0.12.0.TMXMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fire/</link>
-            <pubDate>Wed, 25 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12 (fire) - V14.0.11.0.TMXEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fire/</link>
-            <pubDate>Wed, 25 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Lite (taoyao) - V14.0.21.0.TLIEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/taoyao/</link>
-            <pubDate>Wed, 25 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V14.0.7.0.TKKMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/haydn/</link>
-            <pubDate>Tue, 24 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V14.0.7.0.TLSCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/light/</link>
-            <pubDate>Tue, 24 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.8.0.TMOEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Tue, 24 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.9.0.TMQCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
-            <pubDate>Tue, 24 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A2/A2+/POCO C51 (water) - V14.0.21.0.TGOMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/water/</link>
-            <pubDate>Tue, 24 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Pro (zeus) - V14.0.9.0.TLBMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Tue, 24 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - V14.0.14.0.TMLEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Mon, 23 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11R (lightcm) - V14.0.8.0.TLSCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/lightcm/</link>
-            <pubDate>Mon, 23 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K50 Pro (matisse) - V14.0.13.0.TLKCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/matisse/</link>
-            <pubDate>Mon, 23 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 (pipa) - V14.0.10.0.TMZCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/pipa/</link>
-            <pubDate>Mon, 23 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Ultra (ishtar) - V14.0.6.0.TMAEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ishtar/</link>
-            <pubDate>Fri, 20 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.6.0.TMRINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Fri, 20 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12S (sea) - V14.0.4.0.THZEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sea/</link>
-            <pubDate>Fri, 20 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A2/A2+/POCO C51 (water) - V14.0.11.0.TGOEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/water/</link>
-            <pubDate>Fri, 20 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40 Gaming/POCO F3 GT (ares) - V14.0.5.0.TKJINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ares/</link>
-            <pubDate>Thu, 19 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12T Pro (pearl) - V14.0.8.0.TLHCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/pearl/</link>
-            <pubDate>Thu, 19 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO M5/Redmi 11 Prime 4G (rock) - V14.0.3.0.TLUINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/rock/</link>
-            <pubDate>Thu, 19 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K50 (rubens) - V14.0.8.0.TLNCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/rubens/</link>
-            <pubDate>Thu, 19 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V14.0.7.0.TKUINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/selene/</link>
-            <pubDate>Thu, 19 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.6.0.TLOMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
-            <pubDate>Thu, 19 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.5.0.TLOEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
-            <pubDate>Thu, 19 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.8.0.TKHCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/alioth/</link>
-            <pubDate>Wed, 18 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.7.0.TKTCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/pissarro/</link>
-            <pubDate>Wed, 18 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 11T Pro (vili) - V14.0.4.0.TKDMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/vili/</link>
-            <pubDate>Wed, 18 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.6.0.TLOCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
-            <pubDate>Wed, 18 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 1S (zijin) - V14.0.6.0.TLPCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zijin/</link>
-            <pubDate>Wed, 18 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 11T (agate) - V14.0.6.0.TKWMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/agate/</link>
-            <pubDate>Tue, 17 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 11T (agate) - V14.0.6.0.TKWEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/agate/</link>
-            <pubDate>Tue, 17 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 10 5G/Redmi Note 11SE/Redmi Note 10T 5G/POCO M3 Pro 5G (camellia) - V14.0.6.0.TKSINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/camellia/</link>
-            <pubDate>Tue, 17 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO C40 (frost) - V13.0.24.0.RGFMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/frost/</link>
-            <pubDate>Tue, 17 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 5G/13R Pro (gold) - V14.0.5.0.TNQCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
-            <pubDate>Tue, 17 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Ultra (ishtar) - V14.0.20.0.TMACNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ishtar/</link>
-            <pubDate>Tue, 17 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.25.0.TMRCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Tue, 17 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.6.0.TMWCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
-            <pubDate>Tue, 17 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.5.0.TMWINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
-            <pubDate>Tue, 17 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12C/POCO C55 (earth) - V14.0.6.0.TCVMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Mon, 16 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A1/POCO C50/A1+ (ice) - V13.0.19.0.SGMMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ice/</link>
-            <pubDate>Mon, 16 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60/POCO F5 Pro (mondrian) - V14.0.28.0.TMNCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
-            <pubDate>Mon, 16 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V14.0.7.0.TKLEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/rosemary/</link>
-            <pubDate>Mon, 16 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 10 Pro/Redmi Note 12 Pro 4G (sweet) - V14.0.6.0.TKFEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sweet/</link>
-            <pubDate>Sat, 14 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 10C (fog) - V14.0.4.0.TGEMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fog/</link>
-            <pubDate>Fri, 13 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V14.0.7.0.TKLMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/rosemary/</link>
-            <pubDate>Fri, 13 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V14.0.5.0.TKUMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/selene/</link>
-            <pubDate>Fri, 13 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 NFC (spesn) - V14.0.4.0.TGKMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/spesn/</link>
-            <pubDate>Fri, 13 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 10 Pro/Redmi Note 12 Pro 4G (sweet) - V14.0.7.0.TKFMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sweet/</link>
-            <pubDate>Fri, 13 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 Pro 4G (viva) - V14.0.4.0.TGDMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/viva/</link>
-            <pubDate>Fri, 13 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro+ (zircon) - V14.0.6.0.TNOCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
-            <pubDate>Fri, 13 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 5 Pro Wi-Fi (elish) - V14.0.5.0.TKYCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/elish/</link>
-            <pubDate>Thu, 12 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 5 Pro 5G (enuma) - V14.0.4.0.TKZCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/enuma/</link>
-            <pubDate>Thu, 12 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V14.0.5.0.TKEEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fleur/</link>
-            <pubDate>Thu, 12 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V14.0.6.0.TLSMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/light/</link>
-            <pubDate>Thu, 12 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V14.0.7.0.TKUEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/selene/</link>
-            <pubDate>Thu, 12 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.9.0.TLLEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ziyi/</link>
-            <pubDate>Thu, 12 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V14.0.8.0.TLSINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/light/</link>
-            <pubDate>Wed, 11 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V14.0.5.0.TKLINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/rosemary/</link>
-            <pubDate>Wed, 11 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V14.0.5.0.TKEMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fleur/</link>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A1/POCO C50/A1+ (ice) - V13.0.12.0.SGMINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ice/</link>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12S (sea) - V14.0.8.0.THZMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sea/</link>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 (spes) - V14.0.4.0.TGCMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/spes/</link>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.4.0.TLLMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ziyi/</link>
-            <pubDate>Mon, 09 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 Pro 4G (viva) - V14.0.3.0.TGDEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/viva/</link>
-            <pubDate>Sun, 08 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40S/POCO F4 (munch) - V14.0.6.0.TLMINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/munch/</link>
-            <pubDate>Sat, 07 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - V14.0.12.0.TMLCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Fri, 06 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.11.0.TLFCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
-            <pubDate>Thu, 05 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12S Ultra (thor) - V14.0.14.0.TLACNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/thor/</link>
-            <pubDate>Tue, 03 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12S Pro (unicorn) - V14.0.10.0.TLECNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/unicorn/</link>
-            <pubDate>Tue, 03 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13T (aristotle) - V14.0.5.0.TMFMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/aristotle/</link>
-            <pubDate>Mon, 02 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13T (aristotle) - V14.0.7.0.TMFEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/aristotle/</link>
-            <pubDate>Mon, 02 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - V14.0.8.0.TMLMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Mon, 02 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.4.0.TLFMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
-            <pubDate>Mon, 02 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 10C (fog) - V14.0.3.0.TGEINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fog/</link>
-            <pubDate>Mon, 02 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V14.0.7.0.TLSEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/light/</link>
-            <pubDate>Mon, 02 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12S (mayfly) - V14.0.10.0.TLTCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/mayfly/</link>
-            <pubDate>Mon, 02 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V14.0.11.0.TKACNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/star/</link>
-            <pubDate>Mon, 02 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 (cupid) - V14.0.6.0.TLCMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/cupid/</link>
-            <pubDate>Tue, 26 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.2.0.TMWMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
-            <pubDate>Tue, 26 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.5.0.TMWEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
-            <pubDate>Tue, 26 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.4.0.TMSCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/redwood/</link>
-            <pubDate>Mon, 25 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A2/A2+/POCO C51 (water) - V14.0.11.0.TGOINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/water/</link>
-            <pubDate>Mon, 25 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad SE (xun) - V14.0.3.0.TMUEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
-            <pubDate>Mon, 25 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi (mona) - V14.0.6.0.TKVCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/mona/</link>
-            <pubDate>Sat, 23 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 Max 14 (yudi) - V14.0.6.0.TMHCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/yudi/</link>
-            <pubDate>Fri, 22 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>MIX Fold 3 (babylon) - V14.1.9.0.TMVCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/babylon/</link>
-            <pubDate>Thu, 21 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad SE (xun) - V14.0.6.0.TMUCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
-            <pubDate>Thu, 21 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Pro (zeus) - V14.0.4.0.TLBINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Thu, 21 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.9.0.SMOCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Wed, 20 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad (yunluo) - V14.0.3.0.TLYMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/yunluo/</link>
-            <pubDate>Wed, 20 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad (yunluo) - V14.0.4.0.TLYEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/yunluo/</link>
-            <pubDate>Wed, 20 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.8.0.TKHMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/alioth/</link>
-            <pubDate>Tue, 19 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12C/POCO C55 (earth) - V14.0.3.0.TCVINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Tue, 19 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.7.0.TMRMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Tue, 19 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.9.0.TMREUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Tue, 19 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V14.0.2.0.TKCEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/veux/</link>
-            <pubDate>Tue, 19 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad SE (xun) - V14.0.3.0.TMUMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
-            <pubDate>Tue, 19 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 4G (tapas) - V14.0.14.0.TMTMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/tapas/</link>
-            <pubDate>Mon, 18 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 4G NFC (topaz) - V14.0.7.0.TMGMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/topaz/</link>
-            <pubDate>Mon, 18 Sep 2023 00:00:00 </pubDate>
-        </item>
         <item>
             <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.11.0.RCZEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/dandelion/</link>
             <pubDate>Sun, 17 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 Pro (liuqin) - V14.0.9.0.TMYCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/liuqin/</link>
-            <pubDate>Sun, 17 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 10C (fog) - V14.0.4.0.TGEEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fog/</link>
-            <pubDate>Fri, 15 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.6.0.TKTEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/pissarro/</link>
-            <pubDate>Fri, 15 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 NFC (spesn) - V14.0.2.0.TGKEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/spesn/</link>
-            <pubDate>Fri, 15 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12C/POCO C55 (earth) - V14.0.4.0.TCVEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Thu, 14 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12 (fire) - V14.0.4.0.TMXINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fire/</link>
-            <pubDate>Thu, 14 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 4G NFC (topaz) - V14.0.11.0.TMGEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/topaz/</link>
-            <pubDate>Thu, 14 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.4.0.TMOINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Wed, 13 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 11T Pro (vili) - V14.0.12.0.TKDEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/vili/</link>
-            <pubDate>Wed, 13 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.4.0.TLOINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
-            <pubDate>Wed, 13 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40S/POCO F4 (munch) - V14.0.7.0.TLMCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/munch/</link>
-            <pubDate>Tue, 12 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 5 (nabu) - V14.0.6.0.TKXMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nabu/</link>
-            <pubDate>Tue, 12 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 5 (nabu) - V14.0.7.0.TKXEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nabu/</link>
-            <pubDate>Tue, 12 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 10S (thyme) - V14.0.6.0.TGACNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/thyme/</link>
-            <pubDate>Tue, 12 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.9.0.TKOEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/lisa/</link>
-            <pubDate>Mon, 11 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40S/POCO F4 (munch) - V14.0.4.0.TLMMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/munch/</link>
-            <pubDate>Mon, 11 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 (pipa) - V14.0.8.0.TMZMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/pipa/</link>
-            <pubDate>Mon, 11 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 (pipa) - V14.0.7.0.TMZEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/pipa/</link>
-            <pubDate>Mon, 11 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60E (rembrandt) - V14.0.4.0.TMMCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/rembrandt/</link>
-            <pubDate>Mon, 11 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V14.0.5.0.TKAMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/star/</link>
-            <pubDate>Mon, 11 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V14.0.7.0.TKKCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/haydn/</link>
-            <pubDate>Sun, 10 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 (cupid) - V14.0.12.0.TLCEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/cupid/</link>
-            <pubDate>Fri, 08 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11S 5G (opal) - V14.0.4.0.TGLEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/opal/</link>
-            <pubDate>Fri, 08 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Pro (zeus) - V14.0.16.0.TLBEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Fri, 08 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.13.0.RCZMIXM</title>
@@ -722,184 +22,9 @@
             <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>POCO M4 Pro 5G (evergreen) - V14.0.2.0.TGBMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/evergreen/</link>
-            <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.6.0.TKOMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/lisa/</link>
-            <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.7.0.TKOINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/lisa/</link>
-            <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.3.0.TMSEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/redwood/</link>
-            <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.3.0.TMSINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/redwood/</link>
-            <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 4G (tapas) - V14.0.8.0.TMTINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/tapas/</link>
-            <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V14.0.4.0.TKCINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/veux/</link>
-            <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K50G/POCO F4 GT (ingres) - V14.0.4.0.TLJMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ingres/</link>
-            <pubDate>Wed, 06 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Pro (nuwa) - V14.0.11.0.TMBINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Wed, 06 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.4.0.TMSMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/redwood/</link>
-            <pubDate>Tue, 05 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.4.0.TMQEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
-            <pubDate>Tue, 05 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V14.0.2.0.TGBINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/evergo/</link>
-            <pubDate>Mon, 04 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V14.0.4.0.TKEINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fleur/</link>
-            <pubDate>Mon, 04 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V14.0.3.0.TKCMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/veux/</link>
-            <pubDate>Mon, 04 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.12.0.TKOCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/lisa/</link>
-            <pubDate>Fri, 01 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO X5 5G (moonstone) - V14.0.3.0.TMPEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
-            <pubDate>Thu, 31 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Lite (taoyao) - V14.0.6.0.TLIMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/taoyao/</link>
-            <pubDate>Tue, 29 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V14.0.3.0.TGBCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/evergo/</link>
-            <pubDate>Mon, 28 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K50G/POCO F4 GT (ingres) - V14.0.10.0.TLJCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ingres/</link>
-            <pubDate>Mon, 28 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 (pipa) - V14.0.4.0.TMZINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/pipa/</link>
-            <pubDate>Mon, 28 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.6.0.TKTMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/pissarro/</link>
-            <pubDate>Mon, 28 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12X (psyche) - V14.0.10.0.TLDCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/psyche/</link>
-            <pubDate>Mon, 28 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO X5 5G (moonstone) - V14.0.5.0.TMPMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
-            <pubDate>Thu, 24 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 (spes) - V14.0.2.0.TGCINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/spes/</link>
-            <pubDate>Wed, 23 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Pro Dimensity (daumier) - V14.0.9.0.TLGCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/daumier/</link>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Ultra (ishtar) - V14.0.3.0.TMAMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ishtar/</link>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.4.0.TKTINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/pissarro/</link>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO M5/Redmi 11 Prime 4G (rock) - V14.0.8.0.TLUMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/rock/</link>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.3.0.TMQINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.4.0.TKPMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/chopin/</link>
-            <pubDate>Mon, 21 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V14.0.5.0.TKAEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/star/</link>
-            <pubDate>Mon, 21 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>POCO X3 NFC (surya) - V14.0.5.0.SJGEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/surya/</link>
             <pubDate>Mon, 21 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 (venus) - V14.0.6.0.TKBEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/venus/</link>
-            <pubDate>Mon, 21 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V14.0.4.0.TKKINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/haydn/</link>
-            <pubDate>Sat, 19 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.7.0.TKPCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/chopin/</link>
-            <pubDate>Mon, 14 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V14.0.4.0.TKKEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/haydn/</link>
-            <pubDate>Mon, 14 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 9 Pro (joyeuse) - V14.0.5.0.SJZEUXM</title>
@@ -907,124 +32,14 @@
             <pubDate>Mon, 14 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi MIX Fold 2 (zizhan) - V14.0.12.0.TLRCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zizhan/</link>
-            <pubDate>Mon, 14 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60 Pro (socrates) - V14.0.24.0.TMKCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/socrates/</link>
-            <pubDate>Sat, 12 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.5.0.TMQMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
-            <pubDate>Sat, 12 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO M4 Pro 5G (evergreen) - V14.0.3.0.TGBEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/evergreen/</link>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 5 (nabu) - V14.0.4.0.TKXINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nabu/</link>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11S 5G (opal) - V14.0.3.0.TGLMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/opal/</link>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V14.0.3.0.TKAINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/star/</link>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 (venus) - V14.0.6.0.TKBMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/venus/</link>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V14.0.3.0.TKCCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/veux/</link>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 Pro 4G (vida) - V14.0.2.0.TGDINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/vida/</link>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 11T Pro (vili) - V14.0.4.0.TKDINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/vili/</link>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V13.0.6.0.SJQMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/lime/</link>
             <pubDate>Thu, 10 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>POCO X5 5G (moonstone) - V14.0.3.0.TMPINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
-            <pubDate>Thu, 10 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Pro (zeus) - V14.0.14.0.TLBCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Thu, 10 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60/POCO F5 Pro (mondrian) - V14.0.5.0.TMNMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
-            <pubDate>Tue, 08 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60/POCO F5 Pro (mondrian) - V14.0.7.0.TMNEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
-            <pubDate>Tue, 08 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12X (psyche) - V14.0.3.0.TLDEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/psyche/</link>
-            <pubDate>Mon, 07 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad (yunluo) - V14.0.2.0.TLYINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/yunluo/</link>
-            <pubDate>Mon, 07 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.14.0.TLLCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ziyi/</link>
-            <pubDate>Sun, 06 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 5 Pro 12.4 (dagu) - V14.0.11.0.TLZCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/dagu/</link>
-            <pubDate>Thu, 03 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K50G/POCO F4 GT (ingres) - V14.0.6.0.TLJEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ingres/</link>
-            <pubDate>Thu, 03 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 Lite 5G (renoir) - V14.0.6.0.TKIMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/renoir/</link>
-            <pubDate>Mon, 31 Jul 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>POCO X3 NFC (surya) - V14.0.2.0.SJGMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/surya/</link>
             <pubDate>Fri, 28 Jul 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 Lite 5G (renoir) - V14.0.8.0.TKIEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/renoir/</link>
-            <pubDate>Wed, 26 Jul 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V14.0.4.0.SJDMIXM</title>
@@ -1037,16 +52,6 @@
             <pubDate>Tue, 25 Jul 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K40 Gaming/POCO F3 GT (ares) - V14.0.4.0.TKJCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ares/</link>
-            <pubDate>Mon, 24 Jul 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 (cupid) - V14.0.7.0.TLCCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/cupid/</link>
-            <pubDate>Mon, 24 Jul 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>POCO M2 Pro (gram) - V14.0.5.0.SJPINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/gram/</link>
             <pubDate>Mon, 24 Jul 2023 00:00:00 </pubDate>
@@ -1057,29 +62,9 @@
             <pubDate>Fri, 21 Jul 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Mi 11 Lite 5G (renoir) - V14.0.10.0.TKICNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/renoir/</link>
-            <pubDate>Thu, 20 Jul 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K30 Ultra (cezanne) - V14.0.5.0.SJNCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/cezanne/</link>
             <pubDate>Wed, 19 Jul 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A1/POCO C50/A1+ (ice) - V13.0.13.0.SGMEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ice/</link>
-            <pubDate>Tue, 18 Jul 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 3 (yuechu) - V14.0.9.0.TMICNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/yuechu/</link>
-            <pubDate>Sat, 15 Jul 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.4.0.TKHINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/alioth/</link>
-            <pubDate>Fri, 14 Jul 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V14.0.3.0.SJSINXM</title>
@@ -1087,34 +72,9 @@
             <pubDate>Fri, 14 Jul 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V14.0.3.0.TKSEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/camellian/</link>
-            <pubDate>Tue, 11 Jul 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V14.0.4.0.SJSEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/gauguin/</link>
             <pubDate>Mon, 10 Jul 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad (yunluo) - V14.0.7.0.TLYCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/yunluo/</link>
-            <pubDate>Fri, 07 Jul 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 (venus) - V14.0.10.0.TKBCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/venus/</link>
-            <pubDate>Wed, 05 Jul 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40S/POCO F4 (munch) - V14.0.4.0.TLMEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/munch/</link>
-            <pubDate>Thu, 29 Jun 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>MIX 4 (odin) - V14.0.6.0.TKMCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/odin/</link>
-            <pubDate>Thu, 29 Jun 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite (curtana) - V14.0.4.0.SJWMIXM</title>
@@ -1122,33 +82,13 @@
             <pubDate>Wed, 28 Jun 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V14.0.5.0.TKSMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/camellian/</link>
-            <pubDate>Sun, 25 Jun 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.9.0.TKHEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/alioth/</link>
-            <pubDate>Wed, 14 Jun 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Mi 10 Ultra (cas) - V14.0.2.0.TJJCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/cas/</link>
             <pubDate>Wed, 14 Jun 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 5 (nabu) - V14.0.6.0.TKXCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nabu/</link>
-            <pubDate>Mon, 12 Jun 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V14.0.5.0.SJKCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/lmi/</link>
-            <pubDate>Mon, 05 Jun 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO X3 Pro (vayu) - V14.0.2.0.TJUINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/vayu/</link>
             <pubDate>Mon, 05 Jun 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -1182,34 +122,9 @@
             <pubDate>Thu, 25 May 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V14.0.2.0.TKUCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/selene/</link>
-            <pubDate>Wed, 24 May 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>POCO M3 (citrus) - V14.0.2.0.SJFEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/citrus/</link>
             <pubDate>Tue, 23 May 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 Lite 4G (courbet) - V14.0.3.0.TKQMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/courbet/</link>
-            <pubDate>Mon, 22 May 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 10 (mojito) - V14.0.3.0.SKGINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/mojito/</link>
-            <pubDate>Mon, 22 May 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO X3 Pro (vayu) - V14.0.3.0.TJUMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/vayu/</link>
-            <pubDate>Mon, 22 May 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 8 (2021) (biloba) - V14.0.4.0.TCUMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/biloba/</link>
-            <pubDate>Sun, 21 May 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V14.0.2.0.SJSMIXM</title>
@@ -1237,11 +152,6 @@
             <pubDate>Fri, 12 May 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12X (psyche) - V14.0.4.0.TLDMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/psyche/</link>
-            <pubDate>Mon, 08 May 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V14.0.2.0.SJQINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/lime/</link>
             <pubDate>Sun, 07 May 2023 00:00:00 </pubDate>
@@ -1252,18 +162,8 @@
             <pubDate>Fri, 05 May 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Mi 11 Lite 4G (courbet) - V14.0.2.0.TKQEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/courbet/</link>
-            <pubDate>Thu, 27 Apr 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.13.0.RCZCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/dandelion/</link>
-            <pubDate>Thu, 27 Apr 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 10 (mojito) - V14.0.5.0.SKGEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/mojito/</link>
             <pubDate>Thu, 27 Apr 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -1272,39 +172,9 @@
             <pubDate>Tue, 25 Apr 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Mi 11 Lite 4G (courbet) - V14.0.2.0.TKQINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/courbet/</link>
-            <pubDate>Tue, 25 Apr 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite (curtana) - V14.0.4.0.SJWEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/curtana/</link>
             <pubDate>Tue, 25 Apr 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO X3 Pro (vayu) - V14.0.2.0.TJUEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/vayu/</link>
-            <pubDate>Tue, 25 Apr 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 10 Pro/Pro Max (sweetin) - V14.0.1.0.TKFINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sweetin/</link>
-            <pubDate>Tue, 18 Apr 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 9T (cannong) - V14.0.3.0.SJEMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/cannong/</link>
-            <pubDate>Mon, 17 Apr 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 8 (2021) (biloba) - V14.0.3.0.TCUEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/biloba/</link>
-            <pubDate>Fri, 14 Apr 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 9T (cannong) - V14.0.3.0.SJEEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/cannong/</link>
-            <pubDate>Tue, 11 Apr 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>POCO M3 (citrus) - V14.0.2.0.SJFMIXM</title>
@@ -1325,16 +195,6 @@
             <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V14.0.2.0.SJSCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/gauguin/</link>
             <pubDate>Fri, 24 Mar 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO M5/Redmi 11 Prime 4G (rock) - V14.0.1.0.TLUEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/rock/</link>
-            <pubDate>Fri, 24 Mar 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 10 5G/Redmi Note 11SE/Redmi Note 10T 5G/POCO M3 Pro 5G (camellia) - V14.0.2.0.TKSCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/camellia/</link>
-            <pubDate>Mon, 20 Mar 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V14.0.1.0.SJKEUXM</title>
@@ -1542,33 +402,13 @@
             <pubDate>Thu, 26 May 2022 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Mi A3 (laurel) - V12.0.22.0.RFQMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/laurel/</link>
-            <pubDate>Fri, 15 Apr 2022 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Mi 9 Pro 5G (crux) - V13.0.1.0.RFXCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/crux/</link>
             <pubDate>Mon, 11 Apr 2022 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K40/POCO F3/Mi 11X (alioth) - 22.3.23</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/alioth/</link>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - 22.3.23</title>
             <link>https://xiaomifirmwareupdater.com/firmware/apollo/</link>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40 Gaming/POCO F3 GT (ares) - 22.3.23</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ares/</link>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 10 5G/Redmi Note 11SE/Redmi Note 10T 5G/POCO M3 Pro 5G (camellia) - 22.3.23</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/camellia/</link>
             <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
         </item>
         <item>
@@ -1577,23 +417,8 @@
             <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - 22.3.23</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/chopin/</link>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Mi 10 Pro (cmi) - 22.3.23</title>
             <link>https://xiaomifirmwareupdater.com/firmware/cmi/</link>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 5 Pro Wi-Fi (elish) - 22.3.24</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/elish/</link>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - 22.3.23</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/evergo/</link>
             <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
         </item>
         <item>
@@ -1602,43 +427,13 @@
             <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - 22.3.23</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/haydn/</link>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi A3 (laurel) - V12.0.18.0.RFQEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/laurel/</link>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - 22.3.23</title>
             <link>https://xiaomifirmwareupdater.com/firmware/lime/</link>
             <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - 22.3.23</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/lisa/</link>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 22.3.23</title>
             <link>https://xiaomifirmwareupdater.com/firmware/lmi/</link>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi (mona) - 22.3.23</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/mona/</link>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 5 (nabu) - 22.3.23</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nabu/</link>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>MIX 4 (odin) - 22.3.24</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/odin/</link>
             <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
         </item>
         <item>
@@ -1652,31 +447,6 @@
             <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - 22.3.23</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/pissarro/</link>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12X (psyche) - 22.3.24</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/psyche/</link>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 Lite 5G (renoir) - 22.3.23</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/renoir/</link>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - 22.3.23</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/star/</link>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 10S (thyme) - 22.3.23</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/thyme/</link>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Mi 10 (umi) - 22.3.23</title>
             <link>https://xiaomifirmwareupdater.com/firmware/umi/</link>
             <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
@@ -1684,11 +454,6 @@
         <item>
             <title>Mi 10 Lite Zoom (vangogh) - 22.3.23</title>
             <link>https://xiaomifirmwareupdater.com/firmware/vangogh/</link>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 (venus) - 22.3.23</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/venus/</link>
             <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
         </item>
         <item>
@@ -1704,11 +469,6 @@
         <item>
             <title>Redmi 10X Pro (bomb) - 22.3.2</title>
             <link>https://xiaomifirmwareupdater.com/firmware/bomb/</link>
-            <pubDate>Fri, 04 Mar 2022 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 9 5G (cannon) - 22.3.2</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/cannon/</link>
             <pubDate>Fri, 04 Mar 2022 00:00:00 </pubDate>
         </item>
         <item>
@@ -1757,11 +517,6 @@
             <pubDate>Thu, 06 Jan 2022 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 5 Pro 5G (enuma) - 21.12.28</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/enuma/</link>
-            <pubDate>Fri, 31 Dec 2021 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Mi 8 (dipper) - V12.0.3.0.QEAMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/dipper/</link>
             <pubDate>Mon, 27 Dec 2021 00:00:00 </pubDate>
@@ -1770,11 +525,6 @@
             <title>Redmi 7A (pine) - V12.5.2.0.QCMMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/pine/</link>
             <pubDate>Mon, 27 Dec 2021 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi MIX Fold (cetus) - V12.5.4.0.RJTCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/cetus/</link>
-            <pubDate>Fri, 17 Dec 2021 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 7/7S (lavender) - V12.5.3.0.QFGMIXM</title>
@@ -1872,11 +622,6 @@
             <pubDate>Mon, 15 Nov 2021 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Y3 (onc) - V12.5.3.0.QFLCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/onc/</link>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V12.5.6.0.RFKCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/raphael/</link>
             <pubDate>Tue, 09 Nov 2021 00:00:00 </pubDate>
@@ -1942,11 +687,6 @@
             <pubDate>Mon, 13 Sep 2021 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Y3 (onc) - V11.0.3.0.QFLEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/onc/</link>
-            <pubDate>Tue, 24 Aug 2021 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V12.5.2.0.RFKMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/raphael/</link>
             <pubDate>Mon, 16 Aug 2021 00:00:00 </pubDate>
@@ -1967,11 +707,6 @@
             <pubDate>Tue, 20 Jul 2021 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Mi A2 (jasmine) - V11.0.28.0.QDIMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/jasmine/</link>
-            <pubDate>Thu, 15 Jul 2021 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Mi MIX 3 (perseus) - V12.5.1.0.QEECNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/perseus/</link>
             <pubDate>Thu, 15 Jul 2021 00:00:00 </pubDate>
@@ -1982,11 +717,6 @@
             <pubDate>Thu, 15 Jul 2021 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Mi A2 Lite (daisy) - V11.0.21.0.QDLMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/daisy/</link>
-            <pubDate>Tue, 13 Jul 2021 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V12.5.1.0.RFKEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/raphael/</link>
             <pubDate>Tue, 06 Jul 2021 00:00:00 </pubDate>
@@ -1995,11 +725,6 @@
             <title>Mi 9 SE (grus) - V12.5.1.0.RFBEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/grus/</link>
             <pubDate>Wed, 30 Jun 2021 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi MIX Fold (cetus) - 21.6.23</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/cetus/</link>
-            <pubDate>Thu, 24 Jun 2021 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi Max 3 (nitrogen) - V12.5.1.0.QEDCNXM</title>
