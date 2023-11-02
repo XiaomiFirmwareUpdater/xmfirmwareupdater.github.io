@@ -168,6 +168,12 @@
   version: V14.0.4.0.TKJINXM
 - android: '13.0'
   codename: aristotle
+  date: '2023-11-02'
+  download: https://bigota.d.miui.com/V14.0.11.0.TMFEUXM/fw_aristotle_miui_ARISTOTLEEEAGlobal_V14.0.11.0.TMFEUXM_6370eb6ef4_13.0.zip
+  name: Xiaomi 13T
+  version: V14.0.11.0.TMFEUXM
+- android: '13.0'
+  codename: aristotle
   date: '2023-10-02'
   download: https://bigota.d.miui.com/V14.0.7.0.TMFEUXM/fw_aristotle_miui_ARISTOTLEEEAGlobal_V14.0.7.0.TMFEUXM_e564ede01d_13.0.zip
   name: Xiaomi 13T
@@ -514,6 +520,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TLCMIXM/fw_cupid_miui_CUPIDGlobal_V14.0.3.0.TLCMIXM_f2821215d0_13.0.zip
   name: Xiaomi 12
   version: V14.0.3.0.TLCMIXM
+- android: '13.0'
+  codename: cupid
+  date: '2023-11-02'
+  download: https://bigota.d.miui.com/V14.0.8.0.TLCCNXM/fw_cupid_miui_CUPID_V14.0.8.0.TLCCNXM_3d64b282e7_13.0.zip
+  name: Xiaomi 12
+  version: V14.0.8.0.TLCCNXM
 - android: '13.0'
   codename: cupid
   date: '2023-03-01'
@@ -1660,6 +1672,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.SJKEUXM/fw_lmi_miui_LMIEEAGlobal_V14.0.1.0.SJKEUXM_c924d9a77b_12.0.zip
   name: Redmi K30 Pro/POCO F2 Pro
   version: V14.0.1.0.SJKEUXM
+- android: '12.0'
+  codename: lmi
+  date: '2023-06-05'
+  download: https://bigota.d.miui.com/V14.0.5.0.SJKCNXM/fw_lmi_miui_LMI_V14.0.5.0.SJKCNXM_41456619f8_12.0.zip
+  name: Redmi K30 Pro/POCO F2 Pro
+  version: V14.0.5.0.SJKCNXM
 - android: '13.0'
   codename: marble
   date: '2023-03-29'

@@ -1,30 +1,30 @@
 ---
-title: POCO F5 Russia MIUI V14.0.6.0.TMRRUXM Update
+title: Xiaomi 14 China HyperOS OS1.0.14.0.UNCCNXM Update
 layout: download
-name: POCO F5 Russia
-codename: marble
-permalink: /miui/marble/stable/V14.0.6.0.TMRRUXM/
+name: Xiaomi 14 China
+codename: houji
+permalink: /hyperos/houji/stable/OS1.0.14.0.UNCCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
-        <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item"><a href="/miui/marble/">POCO F5 Russia</a></li>
-        <li class="breadcrumb-item active" aria-current="page">V14.0.6.0.TMRRUXM</li>
+        <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/houji/">Xiaomi 14 China</a></li>
+        <li class="breadcrumb-item active" aria-current="page">OS1.0.14.0.UNCCNXM</li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
-    Follow <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">MIUI Updates Tracker</a> on Telegram to get
+    Follow <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">HyperOS Updates Tracker</a> on Telegram to get
     notified when a new ROM is out!
     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">MIUI V14.0.6.0.TMRRUXM Stable Official Update for POCO F5 Russia (marble)</h3>
-    <h5>This page shows the V14.0.6.0.TMRRUXM update only. If you're looking for other updates check
-        <a href="/miui/marble/">here.</a></h5>
-    <p><i>Note: </i>All files listed here are official untouched MIUI ROMs.
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.14.0.UNCCNXM Stable Official Update for Xiaomi 14 China (houji)</h3>
+    <h5>This page shows the OS1.0.14.0.UNCCNXM update only. If you're looking for other updates check
+        <a href="/hyperos/houji/">here.</a></h5>
+    <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
         It's not owned, modified or edited by Xiaomi Firmware Updater.</p>
     <div class="card">
         <div class="card-body">
@@ -32,7 +32,7 @@ permalink: /miui/marble/stable/V14.0.6.0.TMRRUXM/
             <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
             <p class="card-text">This page shows a single update only.
                 If you're looking for another update or other downloads check:</p>
-            <a href="/miui/" class="card-link">MIUI Downloads</a>
+            <a href="/hyperos/" class="card-link">HyperOS Downloads</a>
             <a href="/firmware/" class="card-link">Firmware Downloads</a>
             <a href="/vendor/" class="card-link">Vendor Downloads</a>
         </div>
@@ -44,13 +44,13 @@ permalink: /miui/marble/stable/V14.0.6.0.TMRRUXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>POCO F5 Russia</h5>
+                    <h5><b>Device: </b>Xiaomi 14 China</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Codename: </b> <a href="/miui/marble/" target="_blank">marble</a> </h5>
+                    <h5><b>Codename: </b> <a href="/hyperos/houji/" target="_blank">houji</a> </h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>V14.0.6.0.TMRRUXM</h5>
+                    <h5><b>Version: </b>OS1.0.14.0.UNCCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Branch: </b>Stable</h5>
@@ -59,27 +59,27 @@ permalink: /miui/marble/stable/V14.0.6.0.TMRRUXM/
                     <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.9 GB</h5>
+                    <h5><b>Size: </b>5.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2023-10-24</h5>
+                    <h5><b>Release Date: </b>2023-11-02</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_MARBLERUGlobal_V14.0.6.0.TMRRUXM_5ba4c25792_13.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_HOUJI_OS1.0.14.0.UNCCNXM_8cdf08a0dc_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">5ba4c25792709f94fe192a4a930b4034</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">8cdf08a0dc1ed8d7b998209887ea9381</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary" style="margin: 7px;"
-                            onclick="window.open('https://bigota.d.miui.com/V14.0.6.0.TMRRUXM/miui_MARBLERUGlobal_V14.0.6.0.TMRRUXM_5ba4c25792_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM</button><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/V14.0.6.0.TMRRUXM/miui-blockota-marble_ru_global-V14.0.5.0.TMRRUXM-V14.0.6.0.TMRRUXM-c030b12972-13.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button></h5>
+                            onclick="window.open('https://bigota.d.miui.com/OS1.0.14.0.UNCCNXM/miui_HOUJI_OS1.0.14.0.UNCCNXM_8cdf08a0dc_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM</button><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.14.0.UNCCNXM/miui-blockota-houji-OS1.0.11.0.UNCCNXM-OS1.0.14.0.UNCCNXM-8487bdf353-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#marble_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="marble_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#houji_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="houji_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="marble_1_changelog">
-                        <p id="changelog_text">[System]<br>Updated Android Security Patch to October 2023. Increased system security.</p>
+                    <div class="collapse" id="houji_1_changelog">
+                        <p id="changelog_text">[Other]<br>Optimized system performance<br>Improved system security and stability</p>
                     </div>
                 </li>
             </ul>
@@ -88,13 +88,13 @@ permalink: /miui/marble/stable/V14.0.6.0.TMRRUXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>POCO F5 Russia</h5>
+                    <h5><b>Device: </b>Xiaomi 14 China</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Codename: </b> <a href="/miui/marble/" target="_blank">marble</a> </h5>
+                    <h5><b>Codename: </b> <a href="/hyperos/houji/" target="_blank">houji</a> </h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>V14.0.6.0.TMRRUXM</h5>
+                    <h5><b>Version: </b>OS1.0.14.0.UNCCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Branch: </b>Stable</h5>
@@ -103,27 +103,27 @@ permalink: /miui/marble/stable/V14.0.6.0.TMRRUXM/
                     <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.5 GB</h5>
+                    <h5><b>Size: </b>8.3 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2023-10-16</h5>
+                    <h5><b>Release Date: </b>2023-11-02</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">marble_ru_global_images_V14.0.6.0.TMRRUXM_20231016.0000.00_13.0_ru_68d28350f6.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">houji_images_OS1.0.14.0.UNCCNXM_20231031.0000.00_14.0_cn_351331f7e8.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">68d28350f65f5606dc927f51f44b4d51</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">351331f7e824936b92a57ca2ff2a2acc</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary" style="margin: 7px;"
-                            onclick="window.open('https://bigota.d.miui.com/V14.0.6.0.TMRRUXM/marble_ru_global_images_V14.0.6.0.TMRRUXM_20231016.0000.00_13.0_ru_68d28350f6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM</button></h5>
+                            onclick="window.open('https://bigota.d.miui.com/OS1.0.14.0.UNCCNXM/houji_images_OS1.0.14.0.UNCCNXM_20231031.0000.00_14.0_cn_351331f7e8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#marble_2_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="marble_2_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#houji_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="houji_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="marble_2_changelog">
-                        <p id="changelog_text">[System]<br>Updated Android Security Patch to October 2023. Increased system security.</p>
+                    <div class="collapse" id="houji_2_changelog">
+                        <p id="changelog_text">[Other]<br>Optimized system performance<br>Improved system security and stability</p>
                     </div>
                 </li>
             </ul>
