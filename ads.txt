@@ -16,6 +16,27 @@ yahoo.com, 57289, RESELLER, e1a5b5b6e3255540
 appnexus.com, 10239, RESELLER, f5ab79cb980f11d1
 rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807
 
+# nexxen
+video.unrulymedia.com, 5672421953199218469, RESELLER
+
+# freewheel
+freewheel.tv, 1568036, RESELLER
+freewheel.tv, 1568041, RESELLER
+
+# openx
+openx.com, 558899373, RESELLER, 6a698e2ec38604c6
+
+# e-planning
+e-planning.net, 83c06e81531537f4, RESELLER, c1ba615865ed87b2
+pubmatic.com, 156631, RESELLER, 5d62403b186f2ace
+openx.com, 541031350, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 12186, RESELLER, 0bfd66d529a55807
+152media.info, 152M5, RESELLER
+sonobi.com, 8efb591506, RESELLER, d1a215d9eb5aee9e
+indexexchange.com, 190243, RESELLER, 50b1c356f2c5c8fc
+sharethrough.com, 23830661, RESELLER, d53b998a7bd4ecd2
+triplelift.com, 8446, RESELLER, 6c33edb13117fd86
+
 #amazon
 aps.amazon.com, 9cf0c4f1-7630-476b-9141-f4472e005192, DIRECT
 sovrn.com, 278426, DIRECT, fafdf38b16bf6b2b
@@ -100,6 +121,9 @@ yahoo.com, 57992, RESELLER, e1a5b5b6e3255540
 appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
 richaudience.com, 25BiP9IMgN, DIRECT
 triplelift.com, 8446, DIRECT, 6c33edb13117fd86
+disqus.com, 891, DIRECT
+sharethrough.com, 23830661, DIRECT, d53b998a7bd4ecd2
+supply.colossusssp.com, 601, DIRECT, 6c5b49d96ec1b458
 
 #gumgum
 gumgum.com, 13395, RESELLER, ffdef49475d318a9
@@ -651,6 +675,9 @@ smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 yahoo.com, 59531, RESELLER, e1a5b5b6e3255540
 smartadserver.com, 4342, RESELLER
 smartadserver.com, 4012, RESELLER
+
+# 23-10
+outbrain.com, 0000839dda52f0e53f6c0e6030a6a2f5a1, RESELLER
 
 #sonobi
 sonobi.com, 4d443a3ea2, RESELLER, d1a215d9eb5aee9e
