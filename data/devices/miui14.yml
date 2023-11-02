@@ -2202,6 +2202,12 @@
   version: V14.0.23.0.TMBCNXM
 - android: '14.0'
   codename: nuwa
+  date: '2023-11-02'
+  download: https://bigota.d.miui.com/V14.0.4.0.UMBCNXM/fw_nuwa_miui_NUWA_V14.0.4.0.UMBCNXM_54c70dc059_14.0.zip
+  name: Xiaomi 13 Pro
+  version: V14.0.4.0.UMBCNXM
+- android: '14.0'
+  codename: nuwa
   date: '2023-09-01'
   download: https://bigota.d.miui.com/V14.0.0.11.UMBCNXM/fw_nuwa_miui_NUWA_V14.0.0.11.UMBCNXM_f3d6b2d080_14.0.zip
   name: Xiaomi 13 Pro
@@ -4414,6 +4420,12 @@
   download: https://bigota.d.miui.com/V14.0.13.0.TLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V14.0.13.0.TLBEUXM_c256fb10fb_13.0.zip
   name: Xiaomi 12 Pro
   version: V14.0.13.0.TLBEUXM
+- android: '13.0'
+  codename: zeus
+  date: '2023-11-02'
+  download: https://bigota.d.miui.com/V14.0.15.0.TLBCNXM/fw_zeus_miui_ZEUS_V14.0.15.0.TLBCNXM_f6a22db295_13.0.zip
+  name: Xiaomi 12 Pro
+  version: V14.0.15.0.TLBCNXM
 - android: '13.0'
   codename: zeus
   date: '2023-02-01'
