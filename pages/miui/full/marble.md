@@ -52,8 +52,11 @@ permalink: /archive/miui/marble/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMRTWXM</td><td>13.0</td><td>4.9 GB</td><td>2023-10-31</td><td><a href="/miui/marble/stable/V14.0.6.0.TMRTWXM/">Download</a></td></tr>
+                <tr><td>POCO F5 Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMRTRXM</td><td>13.0</td><td>4.9 GB</td><td>2023-11-03</td><td><a href="/miui/marble/stable/V14.0.6.0.TMRTRXM/">Download</a></td></tr>
+<tr><td>POCO F5 Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TMRTRXM</td><td>13.0</td><td>6.9 GB</td><td>2023-10-23</td><td><a href="/miui/marble/stable/V14.0.6.0.TMRTRXM/">Download</a></td></tr>
+<tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMRTWXM</td><td>13.0</td><td>4.9 GB</td><td>2023-10-31</td><td><a href="/miui/marble/stable/V14.0.6.0.TMRTWXM/">Download</a></td></tr>
 <tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TMRTWXM</td><td>13.0</td><td>6.7 GB</td><td>2023-10-23</td><td><a href="/miui/marble/stable/V14.0.6.0.TMRTWXM/">Download</a></td></tr>
+<tr><td>POCO F5 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TMRIDXM</td><td>13.0</td><td>5.0 GB</td><td>2023-10-31</td><td><a href="/miui/marble/stable beta/V14.0.6.0.TMRIDXM/">Download</a></td></tr>
 <tr><td>POCO F5 Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMRRUXM</td><td>13.0</td><td>4.9 GB</td><td>2023-10-24</td><td><a href="/miui/marble/stable/V14.0.6.0.TMRRUXM/">Download</a></td></tr>
 <tr><td>POCO F5 Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TMRRUXM</td><td>13.0</td><td>7.5 GB</td><td>2023-10-16</td><td><a href="/miui/marble/stable/V14.0.6.0.TMRRUXM/">Download</a></td></tr>
 <tr><td>POCO F5 India</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMRINXM</td><td>13.0</td><td>4.9 GB</td><td>2023-10-20</td><td><a href="/miui/marble/stable/V14.0.6.0.TMRINXM/">Download</a></td></tr>

@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 03 Nov 2023 12:58:50 </lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 18:38:32 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Mi 11 Lite 4G (courbet) - V14.0.4.0.TKQMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/courbet/</link>
+            <pubDate>Fri, 03 Nov 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 12 Lite (taoyao) - V14.0.7.0.TLIMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/taoyao/</link>
@@ -1190,11 +1195,6 @@
             <title>POCO M3 (citrus) - V14.0.2.0.SJFEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/citrus/</link>
             <pubDate>Tue, 23 May 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 Lite 4G (courbet) - V14.0.3.0.TKQMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/courbet/</link>
-            <pubDate>Mon, 22 May 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 10 (mojito) - V14.0.3.0.SKGINXM</title>
