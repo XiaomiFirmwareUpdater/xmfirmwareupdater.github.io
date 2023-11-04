@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 04 Nov 2023 06:50:54 </lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 14:09:46 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 12 (fire) - V14.0.5.0.TMXINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/fire/</link>
+            <pubDate>Sat, 04 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Ultra (ishtar) - V14.0.5.0.TMAMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ishtar/</link>
+            <pubDate>Sat, 04 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K60 Pro (socrates) - V14.0.25.0.TMKCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/socrates/</link>
+            <pubDate>Sat, 04 Nov 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Mi 11 Lite 4G (courbet) - V14.0.4.0.TKQMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/courbet/</link>
@@ -637,11 +652,6 @@
             <pubDate>Thu, 14 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 12 (fire) - V14.0.4.0.TMXINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fire/</link>
-            <pubDate>Thu, 14 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 4G NFC (topaz) - V14.0.11.0.TMGEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/topaz/</link>
             <pubDate>Thu, 14 Sep 2023 00:00:00 </pubDate>
@@ -862,11 +872,6 @@
             <pubDate>Tue, 22 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13 Ultra (ishtar) - V14.0.3.0.TMAMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ishtar/</link>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.4.0.TKTINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/pissarro/</link>
             <pubDate>Tue, 22 Aug 2023 00:00:00 </pubDate>
@@ -925,11 +930,6 @@
             <title>Xiaomi MIX Fold 2 (zizhan) - V14.0.12.0.TLRCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/zizhan/</link>
             <pubDate>Mon, 14 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60 Pro (socrates) - V14.0.24.0.TMKCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/socrates/</link>
-            <pubDate>Sat, 12 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.5.0.TMQMIXM</title>

@@ -876,6 +876,12 @@
   version: V14.0.6.0.TMXEUXM
 - android: '13.0'
   codename: fire
+  date: '2023-11-04'
+  download: https://bigota.d.miui.com/V14.0.5.0.TMXINXM/fw_fire_miui_FIREINGlobal_V14.0.5.0.TMXINXM_89bceae678_13.0.zip
+  name: Redmi 12
+  version: V14.0.5.0.TMXINXM
+- android: '13.0'
+  codename: fire
   date: '2023-10-02'
   download: https://bigota.d.miui.com/V14.0.9.0.TMXEUXM/fw_fire_miui_FIREEEAGlobal_V14.0.9.0.TMXEUXM_07a0da8eb0_13.0.zip
   name: Redmi 12
@@ -1384,6 +1390,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TMAEUXM/fw_ishtar_miui_ISHTAREEAGlobal_V14.0.4.0.TMAEUXM_b73bb8ce45_13.0.zip
   name: Xiaomi 13 Ultra
   version: V14.0.4.0.TMAEUXM
+- android: '13.0'
+  codename: ishtar
+  date: '2023-11-04'
+  download: https://bigota.d.miui.com/V14.0.5.0.TMAMIXM/fw_ishtar_miui_ISHTARGlobal_V14.0.5.0.TMAMIXM_6f43e09971_13.0.zip
+  name: Xiaomi 13 Ultra
+  version: V14.0.5.0.TMAMIXM
 - android: '13.0'
   codename: ishtar
   date: '2023-05-03'
@@ -3226,6 +3238,12 @@
   download: https://bigota.d.miui.com/V14.0.24.0.TMKCNXM/fw_socrates_miui_SOCRATES_V14.0.24.0.TMKCNXM_fca9ce14b6_13.0.zip
   name: Redmi K60 Pro
   version: V14.0.24.0.TMKCNXM
+- android: '13.0'
+  codename: socrates
+  date: '2023-11-04'
+  download: https://bigota.d.miui.com/V14.0.25.0.TMKCNXM/fw_socrates_miui_SOCRATES_V14.0.25.0.TMKCNXM_15e4bf0534_13.0.zip
+  name: Redmi K60 Pro
+  version: V14.0.25.0.TMKCNXM
 - android: '13.0'
   codename: socrates
   date: '2023-04-03'

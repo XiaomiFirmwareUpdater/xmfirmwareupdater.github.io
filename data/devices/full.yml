@@ -22819,6 +22819,16 @@
     android: '13.0'
     miui: V14.0.6.0.TMXEUXM
 - branch: stable
+  date: '2023-11-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-04.11.2023/fw_fire_miui_FIREINGlobal_V14.0.5.0.TMXINXM_89bceae678_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fire/fw_fire_miui_FIREINGlobal_V14.0.5.0.TMXINXM_89bceae678_13.0.zip
+  filename: fw_fire_miui_FIREINGlobal_V14.0.5.0.TMXINXM_89bceae678_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TMXINXM
+- branch: stable
   date: '2023-10-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-02.10.2023/fw_fire_miui_FIREEEAGlobal_V14.0.9.0.TMXEUXM_07a0da8eb0_13.0.zip
@@ -28778,6 +28788,16 @@
   versions:
     android: '13.0'
     miui: V14.0.4.0.TMAEUXM
+- branch: stable
+  date: '2023-11-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-04.11.2023/fw_ishtar_miui_ISHTARGlobal_V14.0.5.0.TMAMIXM_6f43e09971_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ishtar/fw_ishtar_miui_ISHTARGlobal_V14.0.5.0.TMAMIXM_6f43e09971_13.0.zip
+  filename: fw_ishtar_miui_ISHTARGlobal_V14.0.5.0.TMAMIXM_6f43e09971_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TMAMIXM
 - branch: stable
   date: '2023-05-03'
   downloads:
@@ -54968,6 +54988,16 @@
   versions:
     android: '13.0'
     miui: V14.0.24.0.TMKCNXM
+- branch: stable
+  date: '2023-11-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_socrates/releases/download/stable-04.11.2023/fw_socrates_miui_SOCRATES_V14.0.25.0.TMKCNXM_15e4bf0534_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/socrates/fw_socrates_miui_SOCRATES_V14.0.25.0.TMKCNXM_15e4bf0534_13.0.zip
+  filename: fw_socrates_miui_SOCRATES_V14.0.25.0.TMKCNXM_15e4bf0534_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.25.0.TMKCNXM
 - branch: stable
   date: '2023-04-03'
   downloads:

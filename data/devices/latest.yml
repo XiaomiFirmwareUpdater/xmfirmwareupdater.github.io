@@ -1429,15 +1429,15 @@
     android: '13.0'
     miui: V14.0.11.0.TMXEUXM
 - branch: stable
-  date: '2023-09-14'
+  date: '2023-11-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-14.09.2023/fw_fire_miui_FIREINGlobal_V14.0.4.0.TMXINXM_c34c646995_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fire/fw_fire_miui_FIREINGlobal_V14.0.4.0.TMXINXM_c34c646995_13.0.zip
-  filename: fw_fire_miui_FIREINGlobal_V14.0.4.0.TMXINXM_c34c646995_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-04.11.2023/fw_fire_miui_FIREINGlobal_V14.0.5.0.TMXINXM_89bceae678_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fire/fw_fire_miui_FIREINGlobal_V14.0.5.0.TMXINXM_89bceae678_13.0.zip
+  filename: fw_fire_miui_FIREINGlobal_V14.0.5.0.TMXINXM_89bceae678_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TMXINXM
+    miui: V14.0.5.0.TMXINXM
 - branch: stable
   date: '2023-10-10'
   downloads:
@@ -1989,15 +1989,15 @@
     android: '13.0'
     miui: V14.0.6.0.TLJEUXM
 - branch: stable
-  date: '2023-08-22'
+  date: '2023-11-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-22.08.2023/fw_ishtar_miui_ISHTARGlobal_V14.0.3.0.TMAMIXM_3c0ba60c9e_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ishtar/fw_ishtar_miui_ISHTARGlobal_V14.0.3.0.TMAMIXM_3c0ba60c9e_13.0.zip
-  filename: fw_ishtar_miui_ISHTARGlobal_V14.0.3.0.TMAMIXM_3c0ba60c9e_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-04.11.2023/fw_ishtar_miui_ISHTARGlobal_V14.0.5.0.TMAMIXM_6f43e09971_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ishtar/fw_ishtar_miui_ISHTARGlobal_V14.0.5.0.TMAMIXM_6f43e09971_13.0.zip
+  filename: fw_ishtar_miui_ISHTARGlobal_V14.0.5.0.TMAMIXM_6f43e09971_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.3.0.TMAMIXM
+    miui: V14.0.5.0.TMAMIXM
 - branch: stable
   date: '2023-10-17'
   downloads:
@@ -4439,15 +4439,15 @@
     android: '13.0'
     miui: V14.0.5.0.TMWINXM
 - branch: stable
-  date: '2023-08-12'
+  date: '2023-11-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_socrates/releases/download/stable-12.08.2023/fw_socrates_miui_SOCRATES_V14.0.24.0.TMKCNXM_fca9ce14b6_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/socrates/fw_socrates_miui_SOCRATES_V14.0.24.0.TMKCNXM_fca9ce14b6_13.0.zip
-  filename: fw_socrates_miui_SOCRATES_V14.0.24.0.TMKCNXM_fca9ce14b6_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_socrates/releases/download/stable-04.11.2023/fw_socrates_miui_SOCRATES_V14.0.25.0.TMKCNXM_15e4bf0534_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/socrates/fw_socrates_miui_SOCRATES_V14.0.25.0.TMKCNXM_15e4bf0534_13.0.zip
+  filename: fw_socrates_miui_SOCRATES_V14.0.25.0.TMKCNXM_15e4bf0534_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.24.0.TMKCNXM
+    miui: V14.0.25.0.TMKCNXM
 - branch: stable
   date: '2023-10-10'
   downloads:
