@@ -3519,15 +3519,15 @@
     android: '13.0'
     miui: V14.0.7.0.TMZEUXM
 - branch: stable
-  date: '2023-08-28'
+  date: '2023-11-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-28.08.2023/fw_pipa_miui_PIPAINGlobal_V14.0.4.0.TMZINXM_786d1bdcb0_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pipa/fw_pipa_miui_PIPAINGlobal_V14.0.4.0.TMZINXM_786d1bdcb0_13.0.zip
-  filename: fw_pipa_miui_PIPAINGlobal_V14.0.4.0.TMZINXM_786d1bdcb0_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-06.11.2023/fw_pipa_miui_PIPAINGlobal_V14.0.6.0.TMZINXM_bafadb2af4_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pipa/fw_pipa_miui_PIPAINGlobal_V14.0.6.0.TMZINXM_bafadb2af4_13.0.zip
+  filename: fw_pipa_miui_PIPAINGlobal_V14.0.6.0.TMZINXM_bafadb2af4_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TMZINXM
+    miui: V14.0.6.0.TMZINXM
 - branch: stable
   date: '2023-08-28'
   downloads:
@@ -4609,15 +4609,15 @@
     android: '12.0'
     miui: V13.0.1.0.SJGINXM
 - branch: stable
-  date: '2023-10-13'
+  date: '2023-11-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-14.10.2023/fw_sweet_miui_SWEETGlobal_V14.0.7.0.TKFMIXM_2ccc8e32b7_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sweet/fw_sweet_miui_SWEETGlobal_V14.0.7.0.TKFMIXM_2ccc8e32b7_13.0.zip
-  filename: fw_sweet_miui_SWEETGlobal_V14.0.7.0.TKFMIXM_2ccc8e32b7_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-06.11.2023/fw_sweet_miui_SWEETGlobal_V14.0.8.0.TKFMIXM_3e19ed98ed_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sweet/fw_sweet_miui_SWEETGlobal_V14.0.8.0.TKFMIXM_3e19ed98ed_13.0.zip
+  filename: fw_sweet_miui_SWEETGlobal_V14.0.8.0.TKFMIXM_3e19ed98ed_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.7.0.TKFMIXM
+    miui: V14.0.8.0.TKFMIXM
 - branch: stable
   date: '2023-10-14'
   downloads:
@@ -5519,15 +5519,15 @@
     android: '13.0'
     miui: V14.0.3.0.TLYMIXM
 - branch: stable
-  date: '2023-07-07'
+  date: '2023-11-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-07.07.2023/fw_yunluo_miui_YUNLUO_V14.0.7.0.TLYCNXM_f4252959ff_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/yunluo/fw_yunluo_miui_YUNLUO_V14.0.7.0.TLYCNXM_f4252959ff_13.0.zip
-  filename: fw_yunluo_miui_YUNLUO_V14.0.7.0.TLYCNXM_f4252959ff_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-06.11.2023/fw_yunluo_miui_YUNLUO_V14.0.8.0.TLYCNXM_bc058890f2_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/yunluo/fw_yunluo_miui_YUNLUO_V14.0.8.0.TLYCNXM_bc058890f2_13.0.zip
+  filename: fw_yunluo_miui_YUNLUO_V14.0.8.0.TLYCNXM_bc058890f2_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.7.0.TLYCNXM
+    miui: V14.0.8.0.TLYCNXM
 - branch: stable
   date: '2023-09-20'
   downloads:
@@ -5599,15 +5599,15 @@
     android: '13.0'
     miui: V14.0.6.0.TLPCNXM
 - branch: stable
-  date: '2023-10-13'
+  date: '2023-11-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-13.10.2023/fw_zircon_miui_ZIRCON_V14.0.6.0.TNOCNXM_0b5917a12c_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zircon/fw_zircon_miui_ZIRCON_V14.0.6.0.TNOCNXM_0b5917a12c_13.0.zip
-  filename: fw_zircon_miui_ZIRCON_V14.0.6.0.TNOCNXM_0b5917a12c_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-06.11.2023/fw_zircon_miui_ZIRCON_V14.0.7.0.TNOCNXM_1062227fa3_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zircon/fw_zircon_miui_ZIRCON_V14.0.7.0.TNOCNXM_1062227fa3_13.0.zip
+  filename: fw_zircon_miui_ZIRCON_V14.0.7.0.TNOCNXM_1062227fa3_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.6.0.TNOCNXM
+    miui: V14.0.7.0.TNOCNXM
 - branch: stable
   date: '2023-10-09'
   downloads:

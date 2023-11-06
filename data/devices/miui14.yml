@@ -2375,6 +2375,12 @@
   name: Xiaomi Pad 6
   version: V14.0.8.0.TMZMIXM
 - android: '13.0'
+  codename: pipa
+  date: '2023-11-06'
+  download: https://bigota.d.miui.com/V14.0.6.0.TMZINXM/fw_pipa_miui_PIPAINGlobal_V14.0.6.0.TMZINXM_bafadb2af4_13.0.zip
+  name: Xiaomi Pad 6
+  version: V14.0.6.0.TMZINXM
+- android: '13.0'
   codename: pissarro
   date: '2023-08-28'
   download: https://bigota.d.miui.com/V14.0.6.0.TKTMIXM/fw_pissarro_miui_PISSARROGlobal_V14.0.6.0.TKTMIXM_ba40b9e726_13.0.zip
@@ -3563,6 +3569,12 @@
   name: Redmi Note 10 Pro/Redmi Note 12 Pro 4G
   version: V14.0.7.0.TKFMIXM
 - android: '13.0'
+  codename: sweet
+  date: '2023-11-06'
+  download: https://bigota.d.miui.com/V14.0.8.0.TKFMIXM/fw_sweet_miui_SWEETGlobal_V14.0.8.0.TKFMIXM_3e19ed98ed_13.0.zip
+  name: Redmi Note 10 Pro/Redmi Note 12 Pro 4G
+  version: V14.0.8.0.TKFMIXM
+- android: '13.0'
   codename: sweetin
   date: '2023-04-18'
   download: https://bigota.d.miui.com/V14.0.1.0.TKFINXM/fw_sweetin_miui_SWEETININGlobal_V14.0.1.0.TKFINXM_022ce09a45_13.0.zip
@@ -4379,6 +4391,12 @@
   name: Redmi Pad
   version: V14.0.7.0.TLYCNXM
 - android: '13.0'
+  codename: yunluo
+  date: '2023-11-06'
+  download: https://bigota.d.miui.com/V14.0.8.0.TLYCNXM/fw_yunluo_miui_YUNLUO_V14.0.8.0.TLYCNXM_bc058890f2_13.0.zip
+  name: Redmi Pad
+  version: V14.0.8.0.TLYCNXM
+- android: '13.0'
   codename: zeus
   date: '2023-07-28'
   download: https://bigota.d.miui.com/V14.0.15.0.TLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V14.0.15.0.TLBEUXM_1d0561625b_13.0.zip
@@ -4504,6 +4522,12 @@
   download: https://bigota.d.miui.com/V14.0.6.0.TNOCNXM/fw_zircon_miui_ZIRCON_V14.0.6.0.TNOCNXM_0b5917a12c_13.0.zip
   name: Redmi Note 13 Pro+
   version: V14.0.6.0.TNOCNXM
+- android: '13.0'
+  codename: zircon
+  date: '2023-11-06'
+  download: https://bigota.d.miui.com/V14.0.7.0.TNOCNXM/fw_zircon_miui_ZIRCON_V14.0.7.0.TNOCNXM_1062227fa3_13.0.zip
+  name: Redmi Note 13 Pro+
+  version: V14.0.7.0.TNOCNXM
 - android: '13.0'
   codename: ziyi
   date: '2023-08-28'
