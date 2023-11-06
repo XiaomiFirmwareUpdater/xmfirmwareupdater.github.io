@@ -46379,6 +46379,16 @@
     android: '13.0'
     miui: V14.0.5.0.TLQEUXM
 - branch: stable
+  date: '2023-11-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-06.11.2023/fw_plato_miui_PLATOEEAGlobal_V14.0.6.0.ULQEUXM_98a8fd2634_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/plato/fw_plato_miui_PLATOEEAGlobal_V14.0.6.0.ULQEUXM_98a8fd2634_14.0.zip
+  filename: fw_plato_miui_PLATOEEAGlobal_V14.0.6.0.ULQEUXM_98a8fd2634_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: V14.0.6.0.ULQEUXM
+- branch: stable
   date: '2022-10-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-06.10.2022/fw_plato_miui_PLATOGlobal_V13.0.4.0.SLQMIXM_fea43ca079_12.0.zip
@@ -65518,6 +65528,16 @@
   versions:
     android: '13.0'
     miui: V14.0.1.0.TGDINXM
+- branch: stable
+  date: '2023-11-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vida/releases/download/stable-06.11.2023/fw_vida_miui_VIDAINGlobal_V14.0.3.0.TGDINXM_b8843d6099_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/vida/fw_vida_miui_VIDAINGlobal_V14.0.3.0.TGDINXM_b8843d6099_13.0.zip
+  filename: fw_vida_miui_VIDAINGlobal_V14.0.3.0.TGDINXM_b8843d6099_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TGDINXM
 - branch: stable
   date: '2021-09-26'
   downloads:

@@ -2548,6 +2548,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TLQEUXM/fw_plato_miui_PLATOEEAGlobal_V14.0.5.0.TLQEUXM_cb54eb033d_13.0.zip
   name: Xiaomi 12T
   version: V14.0.5.0.TLQEUXM
+- android: '14.0'
+  codename: plato
+  date: '2023-11-06'
+  download: https://bigota.d.miui.com/V14.0.6.0.ULQEUXM/fw_plato_miui_PLATOEEAGlobal_V14.0.6.0.ULQEUXM_98a8fd2634_14.0.zip
+  name: Xiaomi 12T
+  version: V14.0.6.0.ULQEUXM
 - android: '13.0'
   codename: plato
   date: '2023-08-05'
@@ -4036,6 +4042,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TGDINXM/fw_vida_miui_VIDAINGlobal_V14.0.1.0.TGDINXM_dfe584a0d1_13.0.zip
   name: Redmi Note 11 Pro 4G
   version: V14.0.1.0.TGDINXM
+- android: '13.0'
+  codename: vida
+  date: '2023-11-06'
+  download: https://bigota.d.miui.com/V14.0.3.0.TGDINXM/fw_vida_miui_VIDAINGlobal_V14.0.3.0.TGDINXM_b8843d6099_13.0.zip
+  name: Redmi Note 11 Pro 4G
+  version: V14.0.3.0.TGDINXM
 - android: '13.0'
   codename: vili
   date: '2023-06-26'

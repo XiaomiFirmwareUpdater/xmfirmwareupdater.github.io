@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 06 Nov 2023 13:54:19 </lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 19:37:51 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - V14.0.6.0.TMNMIXM</title>
@@ -17,6 +17,11 @@
             <pubDate>Mon, 06 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 12T (plato) - V14.0.6.0.ULQEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/plato/</link>
+            <pubDate>Mon, 06 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V13.0.16.0.SKLMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/rosemary/</link>
             <pubDate>Mon, 06 Nov 2023 00:00:00 </pubDate>
@@ -24,6 +29,11 @@
         <item>
             <title>Redmi Note 10 Pro/Redmi Note 12 Pro 4G (sweet) - V14.0.8.0.TKFMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sweet/</link>
+            <pubDate>Mon, 06 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11 Pro 4G (vida) - V14.0.3.0.TGDINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/vida/</link>
             <pubDate>Mon, 06 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -145,11 +155,6 @@
             <title>Xiaomi 13 Pro (nuwa) - V14.0.6.0.UMBMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Fri, 27 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12T (plato) - V14.0.16.0.TLQEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/plato/</link>
-            <pubDate>Thu, 26 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 9 5G (cannon) - V14.0.6.0.SJECNXM</title>
@@ -974,11 +979,6 @@
         <item>
             <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V14.0.3.0.TKCCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/veux/</link>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 Pro 4G (vida) - V14.0.2.0.TGDINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/vida/</link>
             <pubDate>Fri, 11 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
