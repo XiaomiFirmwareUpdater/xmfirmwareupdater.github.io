@@ -37539,6 +37539,16 @@
     android: '13.0'
     miui: V14.0.4.0.TMNEUXM
 - branch: stable
+  date: '2023-11-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-06.11.2023/fw_mondrian_miui_MONDRIANGlobal_V14.0.6.0.TMNMIXM_6d78194d8f_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mondrian/fw_mondrian_miui_MONDRIANGlobal_V14.0.6.0.TMNMIXM_6d78194d8f_13.0.zip
+  filename: fw_mondrian_miui_MONDRIANGlobal_V14.0.6.0.TMNMIXM_6d78194d8f_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TMNMIXM
+- branch: stable
   date: '2023-03-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-02.03.2023/fw_mondrian_miui_MONDRIAN_V14.0.21.0.TMNCNXM_daa2975e16_13.0.zip
@@ -51178,6 +51188,16 @@
   versions:
     android: '12.0'
     miui: V13.0.2.0.SKLINXM
+- branch: stable
+  date: '2023-11-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-06.11.2023/fw_rosemary_miui_ROSEMARYGlobal_V13.0.16.0.SKLMIXM_2d281a998b_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rosemary/fw_rosemary_miui_ROSEMARYGlobal_V13.0.16.0.SKLMIXM_2d281a998b_12.0.zip
+  filename: fw_rosemary_miui_ROSEMARYGlobal_V13.0.16.0.SKLMIXM_2d281a998b_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.16.0.SKLMIXM
 - branch: stable
   date: '2021-08-05'
   downloads:

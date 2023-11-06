@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 06 Nov 2023 00:40:07 </lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 07:23:10 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K60/POCO F5 Pro (mondrian) - V14.0.6.0.TMNMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
+            <pubDate>Mon, 06 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V13.0.16.0.SKLMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/rosemary/</link>
+            <pubDate>Mon, 06 Nov 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 12 (fire) - V14.0.5.0.TMXINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fire/</link>
@@ -349,11 +359,6 @@
         <item>
             <title>Redmi 10C (fog) - V14.0.4.0.TGEMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fog/</link>
-            <pubDate>Fri, 13 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V14.0.7.0.TKLMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/rosemary/</link>
             <pubDate>Fri, 13 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -985,11 +990,6 @@
             <title>POCO X5 5G (moonstone) - V14.0.3.0.TMPINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
             <pubDate>Thu, 10 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60/POCO F5 Pro (mondrian) - V14.0.5.0.TMNMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
-            <pubDate>Tue, 08 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - V14.0.7.0.TMNEUXM</title>

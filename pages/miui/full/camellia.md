@@ -52,7 +52,8 @@ permalink: /archive/miui/camellia/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 10T 5G / POCO M3 Pro 5G India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TKSINXM</td><td>13.0</td><td>3.8 GB</td><td>2023-10-17</td><td><a href="/miui/camellia/stable beta/V14.0.6.0.TKSINXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 10T 5G / POCO M3 Pro 5G India</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TKSINXM</td><td>13.0</td><td>3.8 GB</td><td>2023-10-17</td><td><a href="/miui/camellia/stable/V14.0.6.0.TKSINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10T 5G / POCO M3 Pro 5G India</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TKSINXM</td><td>13.0</td><td>4.8 GB</td><td>2023-09-22</td><td><a href="/miui/camellia/stable/V14.0.6.0.TKSINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TKSMIXM</td><td>13.0</td><td>3.9 GB</td><td>2023-10-10</td><td><a href="/miui/camellian/stable beta/V14.0.6.0.TKSMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TKSEUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-10-09</td><td><a href="/miui/camellian/stable beta/V14.0.4.0.TKSEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TKSIDXM</td><td>13.0</td><td>3.8 GB</td><td>2023-09-12</td><td><a href="/miui/camellian/stable beta/V14.0.6.0.TKSIDXM/">Download</a></td></tr>
