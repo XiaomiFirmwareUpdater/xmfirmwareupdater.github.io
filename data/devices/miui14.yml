@@ -402,6 +402,12 @@
   version: V14.0.14.0.TMLEUXM
 - android: '13.0'
   codename: corot
+  date: '2023-11-06'
+  download: https://bigota.d.miui.com/V14.0.9.0.TMLMIXM/fw_corot_miui_COROTGlobal_V14.0.9.0.TMLMIXM_b9c736328d_13.0.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: V14.0.9.0.TMLMIXM
+- android: '13.0'
+  codename: corot
   date: '2023-10-06'
   download: https://bigota.d.miui.com/V14.0.12.0.TMLEUXM/fw_corot_miui_COROTEEAGlobal_V14.0.12.0.TMLEUXM_79b22aba20_13.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
