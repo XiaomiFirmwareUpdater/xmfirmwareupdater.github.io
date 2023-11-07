@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 07 Nov 2023 12:51:08 </lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 19:15:02 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>MIX Fold 3 (babylon) - V14.1.10.0.TMVCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/babylon/</link>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 (houji) - OS1.0.16.0.UNCCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
             <pubDate>Tue, 07 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -89,11 +94,6 @@
         <item>
             <title>Xiaomi 12 (cupid) - V14.0.8.0.TLCCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/cupid/</link>
-            <pubDate>Thu, 02 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 (houji) - OS1.0.14.0.UNCCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
             <pubDate>Thu, 02 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
