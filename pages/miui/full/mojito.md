@@ -52,7 +52,8 @@ permalink: /archive/miui/mojito/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 10 Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.8.0.SKGMIXM</td><td>12.0</td><td>2.9 GB</td><td>2023-10-27</td><td><a href="/miui/mojito/stable beta/V14.0.8.0.SKGMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 10 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.SKGIDXM</td><td>12.0</td><td>2.9 GB</td><td>2023-11-02</td><td><a href="/miui/mojito/stable beta/V14.0.6.0.SKGIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.8.0.SKGMIXM</td><td>12.0</td><td>2.9 GB</td><td>2023-10-27</td><td><a href="/miui/mojito/stable beta/V14.0.8.0.SKGMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.SKGTRXM</td><td>12.0</td><td>2.9 GB</td><td>2023-05-25</td><td><a href="/miui/mojito/stable/V14.0.3.0.SKGTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.SKGTRXM</td><td>12.0</td><td>4.5 GB</td><td>2023-05-15</td><td><a href="/miui/mojito/stable/V14.0.3.0.SKGTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Indonesia</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.SKGIDXM</td><td>12.0</td><td>2.9 GB</td><td>2023-05-24</td><td><a href="/miui/mojito/stable/V14.0.4.0.SKGIDXM/">Download</a></td></tr>
@@ -71,10 +72,10 @@ permalink: /archive/miui/mojito/
 <tr><td>Redmi Note 10 Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SKGRUXM</td><td>12.0</td><td>4.7 GB</td><td>2023-03-11</td><td><a href="/miui/mojito/stable/V14.0.2.0.SKGRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.SKGTRXM</td><td>12.0</td><td>2.9 GB</td><td>2023-03-17</td><td><a href="/miui/mojito/stable/V14.0.2.0.SKGTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SKGTRXM</td><td>12.0</td><td>4.6 GB</td><td>2023-03-11</td><td><a href="/miui/mojito/stable/V14.0.2.0.SKGTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.SKGMIXM</td><td>12.0</td><td>2.9 GB</td><td>2023-03-12</td><td><a href="/miui/mojito/stable/V14.0.2.0.SKGMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SKGMIXM</td><td>12.0</td><td>5.0 GB</td><td>2023-03-06</td><td><a href="/miui/mojito/stable/V14.0.2.0.SKGMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 India</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.SKGINXM</td><td>12.0</td><td>2.9 GB</td><td>2023-03-14</td><td><a href="/miui/mojito/stable/V14.0.2.0.SKGINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 India</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SKGINXM</td><td>12.0</td><td>3.8 GB</td><td>2023-03-06</td><td><a href="/miui/mojito/stable/V14.0.2.0.SKGINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.SKGMIXM</td><td>12.0</td><td>2.9 GB</td><td>2023-03-12</td><td><a href="/miui/mojito/stable/V14.0.2.0.SKGMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SKGMIXM</td><td>12.0</td><td>5.0 GB</td><td>2023-03-06</td><td><a href="/miui/mojito/stable/V14.0.2.0.SKGMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.SKGEUXM</td><td>12.0</td><td>2.9 GB</td><td>2023-03-10</td><td><a href="/miui/mojito/stable/V14.0.3.0.SKGEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.SKGEUXM</td><td>12.0</td><td>4.9 GB</td><td>2023-03-06</td><td><a href="/miui/mojito/stable/V14.0.3.0.SKGEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.SKGEUXM</td><td>12.0</td><td>3.0 GB</td><td>2023-02-22</td><td><a href="/miui/mojito/stable/V14.0.2.0.SKGEUXM/">Download</a></td></tr>

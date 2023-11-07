@@ -197,6 +197,12 @@
   name: MIX Fold 3
   version: V14.1.8.0.TMVCNXM
 - android: '13.0'
+  codename: babylon
+  date: '2023-11-07'
+  download: https://bigota.d.miui.com/V14.1.10.0.TMVCNXM/fw_babylon_miui_BABYLON_V14.1.10.0.TMVCNXM_cee3aa8f37_13.0.zip
+  name: MIX Fold 3
+  version: V14.1.10.0.TMVCNXM
+- android: '13.0'
   codename: biloba
   date: '2023-05-21'
   download: https://bigota.d.miui.com/V14.0.4.0.TCUMIXM/fw_biloba_miui_BILOBAGlobal_V14.0.4.0.TCUMIXM_bf1ba493fe_13.0.zip

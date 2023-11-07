@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 07 Nov 2023 01:19:08 </lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 07:15:10 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>MIX Fold 3 (babylon) - V14.1.10.0.TMVCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/babylon/</link>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - V14.0.9.0.TMLMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/corot/</link>
@@ -570,11 +575,6 @@
             <title>Xiaomi Pad 6 Max 14 (yudi) - V14.0.6.0.TMHCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/yudi/</link>
             <pubDate>Fri, 22 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>MIX Fold 3 (babylon) - V14.1.9.0.TMVCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/babylon/</link>
-            <pubDate>Thu, 21 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Pad SE (xun) - V14.0.6.0.TMUCNXM</title>
