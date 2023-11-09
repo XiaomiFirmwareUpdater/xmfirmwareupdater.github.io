@@ -219,6 +219,16 @@
     android: '11.0'
     miui: V12.0.15.0.RKFMIXM
 - branch: stable
+  date: '2023-11-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-09.11.2023/fw_sweet_miui_SWEETEEAGlobal_V14.0.7.0.TKFEUXM_f56fb52c98_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sweet/fw_sweet_miui_SWEETEEAGlobal_V14.0.7.0.TKFEUXM_f56fb52c98_13.0.zip
+  filename: fw_sweet_miui_SWEETEEAGlobal_V14.0.7.0.TKFEUXM_f56fb52c98_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.7.0.TKFEUXM
+- branch: stable
   date: '2021-06-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-09.06.2021/fw_sweet_miui_SWEETGlobal_V12.5.3.0.RKFMIXM_0788aca67c_11.0.zip

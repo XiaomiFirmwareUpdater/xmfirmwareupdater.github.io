@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 09 Nov 2023 13:05:47 </lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 18:41:59 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 14 Pro (shennong) - OS1.0.16.0.UNBCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/shennong/</link>
+            <pubDate>Thu, 09 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 10 Pro/Redmi Note 12 Pro 4G (sweet) - V14.0.7.0.TKFEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sweet/</link>
             <pubDate>Thu, 09 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -385,11 +390,6 @@
             <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V14.0.7.0.TKLEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/rosemary/</link>
             <pubDate>Mon, 16 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 10 Pro/Redmi Note 12 Pro 4G (sweet) - V14.0.6.0.TKFEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sweet/</link>
-            <pubDate>Sat, 14 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 10C (fog) - V14.0.4.0.TGEMIXM</title>
