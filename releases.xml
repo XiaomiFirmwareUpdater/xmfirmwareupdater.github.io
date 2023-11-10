@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 10 Nov 2023 00:40:06 </lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 08:44:27 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - V14.0.14.0.TMLCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/corot/</link>
+            <pubDate>Fri, 10 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12T Pro (pearl) - V14.0.9.0.TLHCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/pearl/</link>
+            <pubDate>Fri, 10 Nov 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 14 Pro (shennong) - OS1.0.16.0.UNBCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/shennong/</link>
@@ -272,11 +282,6 @@
             <pubDate>Thu, 19 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12T Pro (pearl) - V14.0.8.0.TLHCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/pearl/</link>
-            <pubDate>Thu, 19 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>POCO M5/Redmi 11 Prime 4G (rock) - V14.0.3.0.TLUINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/rock/</link>
             <pubDate>Thu, 19 Oct 2023 00:00:00 </pubDate>
@@ -485,11 +490,6 @@
             <title>Redmi K40S/POCO F4 (munch) - V14.0.6.0.TLMINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/munch/</link>
             <pubDate>Sat, 07 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - V14.0.12.0.TMLCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Fri, 06 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.11.0.TLFCNXM</title>

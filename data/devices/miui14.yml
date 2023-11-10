@@ -408,6 +408,12 @@
   version: V14.0.14.0.TMLEUXM
 - android: '13.0'
   codename: corot
+  date: '2023-11-10'
+  download: https://bigota.d.miui.com/V14.0.14.0.TMLCNXM/fw_corot_miui_COROT_V14.0.14.0.TMLCNXM_0c4fddade3_13.0.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: V14.0.14.0.TMLCNXM
+- android: '13.0'
+  codename: corot
   date: '2023-11-06'
   download: https://bigota.d.miui.com/V14.0.9.0.TMLMIXM/fw_corot_miui_COROTGlobal_V14.0.9.0.TMLMIXM_b9c736328d_13.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
@@ -2344,6 +2350,12 @@
   download: https://bigota.d.miui.com/V14.0.8.0.TLHCNXM/fw_pearl_miui_PEARL_V14.0.8.0.TLHCNXM_729fcdf42a_13.0.zip
   name: Redmi Note 12T Pro
   version: V14.0.8.0.TLHCNXM
+- android: '13.0'
+  codename: pearl
+  date: '2023-11-10'
+  download: https://bigota.d.miui.com/V14.0.9.0.TLHCNXM/fw_pearl_miui_PEARL_V14.0.9.0.TLHCNXM_dad7aeb96b_13.0.zip
+  name: Redmi Note 12T Pro
+  version: V14.0.9.0.TLHCNXM
 - android: '13.0'
   codename: pipa
   date: '2023-08-28'
