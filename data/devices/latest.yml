@@ -499,15 +499,15 @@
     android: '12.0'
     miui: V14.0.6.0.SJECNXM
 - branch: weekly
-  date: '2022-03-04'
+  date: '2022-02-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/weekly-04.03.2022/fw_cannon_miui_CANNON_22.3.2_beaed4374b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.2/cannon/fw_cannon_miui_CANNON_22.3.2_beaed4374b_11.0.zip
-  filename: fw_cannon_miui_CANNON_22.3.2_beaed4374b_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/weekly-25.02.2022/fw_cannon_miui_CANNON_22.2.23_dad511376d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/cannon/fw_cannon_miui_CANNON_22.2.23_dad511376d_11.0.zip
+  filename: fw_cannon_miui_CANNON_22.2.23_dad511376d_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 22.3.2
+    miui: 22.2.23
 - branch: stable
   date: '2023-04-17'
   downloads:
@@ -4359,15 +4359,15 @@
     android: '13.0'
     miui: V14.0.2.0.TKUCNXM
 - branch: stable
-  date: '2023-11-09'
+  date: '2023-11-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-09.11.2023/fw_shennong_miui_SHENNONG_OS1.0.16.0.UNBCNXM_64565c3275_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/shennong/fw_shennong_miui_SHENNONG_OS1.0.16.0.UNBCNXM_64565c3275_14.0.zip
-  filename: fw_shennong_miui_SHENNONG_OS1.0.16.0.UNBCNXM_64565c3275_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-10.11.2023/fw_shennong_miui_SHENNONG_OS1.0.20.0.UNBCNXM_2f69d1cc03_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/shennong/fw_shennong_miui_SHENNONG_OS1.0.20.0.UNBCNXM_2f69d1cc03_14.0.zip
+  filename: fw_shennong_miui_SHENNONG_OS1.0.20.0.UNBCNXM_2f69d1cc03_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.16.0.UNBCNXM
+    miui: OS1.0.20.0.UNBCNXM
 - branch: stable
   date: '2022-08-03'
   downloads:
@@ -5499,15 +5499,15 @@
     android: '13.0'
     miui: V14.0.6.0.TMHCNXM
 - branch: stable
-  date: '2023-07-15'
+  date: '2023-11-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yuechu/releases/download/stable-15.07.2023/fw_yuechu_miui_YUECHU_V14.0.9.0.TMICNXM_fefb2fe758_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/yuechu/fw_yuechu_miui_YUECHU_V14.0.9.0.TMICNXM_fefb2fe758_13.0.zip
-  filename: fw_yuechu_miui_YUECHU_V14.0.9.0.TMICNXM_fefb2fe758_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yuechu/releases/download/stable-10.11.2023/fw_yuechu_miui_YUECHU_V14.0.10.0.TMICNXM_a641f5a7fa_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/yuechu/fw_yuechu_miui_YUECHU_V14.0.10.0.TMICNXM_a641f5a7fa_13.0.zip
+  filename: fw_yuechu_miui_YUECHU_V14.0.10.0.TMICNXM_a641f5a7fa_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.9.0.TMICNXM
+    miui: V14.0.10.0.TMICNXM
 - branch: stable
   date: '2023-09-20'
   downloads:

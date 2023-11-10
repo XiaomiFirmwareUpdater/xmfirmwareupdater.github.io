@@ -4404,6 +4404,12 @@
   version: V14.0.9.0.TMICNXM
 - android: '13.0'
   codename: yuechu
+  date: '2023-11-10'
+  download: https://bigota.d.miui.com/V14.0.10.0.TMICNXM/fw_yuechu_miui_YUECHU_V14.0.10.0.TMICNXM_a641f5a7fa_13.0.zip
+  name: Xiaomi Civi 3
+  version: V14.0.10.0.TMICNXM
+- android: '13.0'
+  codename: yuechu
   date: '2023-06-10'
   download: https://bigota.d.miui.com/V14.0.6.0.TMICNXM/fw_yuechu_miui_YUECHU_V14.0.6.0.TMICNXM_caa863f99e_13.0.zip
   name: Xiaomi Civi 3

@@ -1662,12 +1662,6 @@
   version: 21.9.22
 - android: '11.0'
   codename: cannon
-  date: '2021-06-24'
-  download: https://bigota.d.miui.com/21.6.23/miui_CANNON_21.6.23_61932abb97_11.0.zip
-  name: Redmi Note 9 5G
-  version: 21.6.23
-- android: '11.0'
-  codename: cannon
   date: '2021-04-18'
   download: https://bigota.d.miui.com/21.1.20/miui_CANNON_21.1.20_85641b47ba_11.0.zip
   name: Redmi Note 9 5G
@@ -1690,12 +1684,6 @@
   download: https://bigota.d.miui.com/21.10.20/miui_CANNON_21.10.20_2336529246_11.0.zip
   name: Redmi Note 9 5G
   version: 21.10.20
-- android: '11.0'
-  codename: cannon
-  date: '2021-11-19'
-  download: https://bigota.d.miui.com/21.11.17/miui_CANNON_21.11.17_c5880d7416_11.0.zip
-  name: Redmi Note 9 5G
-  version: 21.11.17
 - android: '11.0'
   codename: cannon
   date: '2021-08-19'
@@ -1762,12 +1750,6 @@
   download: https://bigota.d.miui.com/21.3.10/miui_CANNON_21.3.10_e800b4ab8b_11.0.zip
   name: Redmi Note 9 5G
   version: 21.3.10
-- android: '11.0'
-  codename: cannon
-  date: '2021-12-10'
-  download: https://bigota.d.miui.com/21.12.8/miui_CANNON_21.12.8_b680fdb531_11.0.zip
-  name: Redmi Note 9 5G
-  version: 21.12.8
 - android: '11.0'
   codename: cannon
   date: '2021-06-10'

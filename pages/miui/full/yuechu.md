@@ -52,7 +52,8 @@ permalink: /archive/miui/yuechu/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Recovery</td><td>V14.0.9.0.TMICNXM</td><td>13.0</td><td>6.2 GB</td><td>2023-07-12</td><td><a href="/miui/yuechu/stable/V14.0.9.0.TMICNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Civi 3 China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.10.0.TMICNXM</td><td>13.0</td><td>6.2 GB</td><td>2023-11-07</td><td><a href="/miui/yuechu/stable beta/V14.0.10.0.TMICNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Recovery</td><td>V14.0.9.0.TMICNXM</td><td>13.0</td><td>6.2 GB</td><td>2023-07-12</td><td><a href="/miui/yuechu/stable/V14.0.9.0.TMICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.9.0.TMICNXM</td><td>13.0</td><td>7.9 GB</td><td>2023-07-05</td><td><a href="/miui/yuechu/stable/V14.0.9.0.TMICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMICNXM</td><td>13.0</td><td>6.2 GB</td><td>2023-06-07</td><td><a href="/miui/yuechu/stable/V14.0.6.0.TMICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TMICNXM</td><td>13.0</td><td>7.8 GB</td><td>2023-06-01</td><td><a href="/miui/yuechu/stable/V14.0.6.0.TMICNXM/">Download</a></td></tr>

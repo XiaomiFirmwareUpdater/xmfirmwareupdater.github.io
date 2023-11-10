@@ -63,8 +63,8 @@ permalink: /miui/aristotle/
 <tr><td>Xiaomi 13T Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMFRUXM</td><td>13.0</td><td>5.3 GB</td><td>2023-09-27</td><td><a href="/miui/aristotle/stable/V14.0.3.0.TMFRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMFTRXM</td><td>13.0</td><td>6.8 GB</td><td>2023-09-19</td><td><a href="/miui/aristotle/stable/V14.0.3.0.TMFTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMFTRXM</td><td>13.0</td><td>5.3 GB</td><td>2023-09-27</td><td><a href="/miui/aristotle/stable/V14.0.3.0.TMFTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13T Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMFTWXM</td><td>13.0</td><td>6.5 GB</td><td>2023-09-18</td><td><a href="/miui/aristotle/stable/V14.0.3.0.TMFTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13T Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMFTWXM</td><td>13.0</td><td>5.3 GB</td><td>2023-09-27</td><td><a href="/miui/aristotle/stable/V14.0.3.0.TMFTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TMFTWXM</td><td>13.0</td><td>6.6 GB</td><td>2023-10-24</td><td><a href="/miui/aristotle/stable/V14.0.4.0.TMFTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TMFTWXM</td><td>13.0</td><td>5.3 GB</td><td>2023-11-08</td><td><a href="/miui/aristotle/stable/V14.0.4.0.TMFTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

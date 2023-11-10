@@ -1,16 +1,16 @@
 ---
-title: Xiaomi 14 Pro China HyperOS OS1.0.16.0.UNBCNXM Update
+title: Xiaomi 14 Pro China HyperOS OS1.0.20.0.UNBCNXM Update
 layout: download
 name: Xiaomi 14 Pro China
 codename: shennong
-permalink: /hyperos/shennong/stable/OS1.0.16.0.UNBCNXM/
+permalink: /hyperos/shennong/stable beta/OS1.0.20.0.UNBCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/shennong/">Xiaomi 14 Pro China</a></li>
-        <li class="breadcrumb-item active" aria-current="page">OS1.0.16.0.UNBCNXM</li>
+        <li class="breadcrumb-item active" aria-current="page">OS1.0.20.0.UNBCNXM</li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -21,8 +21,8 @@ permalink: /hyperos/shennong/stable/OS1.0.16.0.UNBCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.16.0.UNBCNXM Stable Official Update for Xiaomi 14 Pro China (shennong)</h3>
-    <h5>This page shows the OS1.0.16.0.UNBCNXM update only. If you're looking for other updates check
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.20.0.UNBCNXM Stable Beta Official Update for Xiaomi 14 Pro China (shennong)</h3>
+    <h5>This page shows the OS1.0.20.0.UNBCNXM update only. If you're looking for other updates check
         <a href="/hyperos/shennong/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
         It's not owned, modified or edited by Xiaomi Firmware Updater.</p>
@@ -50,10 +50,10 @@ permalink: /hyperos/shennong/stable/OS1.0.16.0.UNBCNXM/
                     <h5><b>Codename: </b> <a href="/hyperos/shennong/" target="_blank">shennong</a> </h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS1.0.16.0.UNBCNXM</h5>
+                    <h5><b>Version: </b>OS1.0.20.0.UNBCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable</h5>
+                    <h5><b>Branch: </b>Stable Beta</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -62,17 +62,17 @@ permalink: /hyperos/shennong/stable/OS1.0.16.0.UNBCNXM/
                     <h5><b>Size: </b>5.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2023-11-05</h5>
+                    <h5><b>Release Date: </b>2023-11-10</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_SHENNONG_OS1.0.16.0.UNBCNXM_64565c3275_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_SHENNONG_OS1.0.20.0.UNBCNXM_2f69d1cc03_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">64565c3275ed72416382b8bd7ce777d6</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">2f69d1cc03e5f11d30cd1c4520ec152d</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary" style="margin: 7px;"
-                            onclick="window.open('https://bigota.d.miui.com/OS1.0.16.0.UNBCNXM/miui_SHENNONG_OS1.0.16.0.UNBCNXM_64565c3275_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM</button></h5>
+                            onclick="window.open('https://bigota.d.miui.com/OS1.0.20.0.UNBCNXM/miui_SHENNONG_OS1.0.20.0.UNBCNXM_2f69d1cc03_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM</button><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.20.0.UNBCNXM/miui-blockota-shennong-OS1.0.16.0.UNBCNXM-OS1.0.20.0.UNBCNXM-61f0fc1bb6-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#shennong_1_changelog" data-toggle="collapse" role="button"
