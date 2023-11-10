@@ -468,6 +468,12 @@
   version: V14.0.1.0.TKQEUXM
 - android: '13.0'
   codename: courbet
+  date: '2023-11-10'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKQEUXM/fw_courbet_miui_COURBETEEAGlobal_V14.0.3.0.TKQEUXM_671ecd36e9_13.0.zip
+  name: Mi 11 Lite 4G
+  version: V14.0.3.0.TKQEUXM
+- android: '13.0'
+  codename: courbet
   date: '2023-11-03'
   download: https://bigota.d.miui.com/V14.0.4.0.TKQMIXM/fw_courbet_miui_COURBETGlobal_V14.0.4.0.TKQMIXM_43ae052f51_13.0.zip
   name: Mi 11 Lite 4G

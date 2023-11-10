@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 10 Nov 2023 08:44:27 </lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 13:10:50 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - V14.0.14.0.TMLCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/corot/</link>
+            <pubDate>Fri, 10 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 11 Lite 4G (courbet) - V14.0.3.0.TKQEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/courbet/</link>
             <pubDate>Fri, 10 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -1250,11 +1255,6 @@
             <title>Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite (curtana) - V14.0.3.0.SJWINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/curtana/</link>
             <pubDate>Fri, 05 May 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 Lite 4G (courbet) - V14.0.2.0.TKQEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/courbet/</link>
-            <pubDate>Thu, 27 Apr 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.13.0.RCZCNXM</title>
