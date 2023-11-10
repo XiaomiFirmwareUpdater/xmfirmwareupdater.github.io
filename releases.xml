@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 10 Nov 2023 20:56:34 </lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 00:38:47 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - V14.0.14.0.TMLCNXM</title>
@@ -1707,6 +1707,11 @@
             <pubDate>Fri, 04 Mar 2022 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Note 9 5G (cannon) - 22.3.2</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/cannon/</link>
+            <pubDate>Fri, 04 Mar 2022 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi K30 Ultra (cezanne) - 22.3.2</title>
             <link>https://xiaomifirmwareupdater.com/firmware/cezanne/</link>
             <pubDate>Fri, 04 Mar 2022 00:00:00 </pubDate>
@@ -1720,11 +1725,6 @@
             <title>Redmi Note 8 (ginkgo) - V12.5.2.0.RCOMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ginkgo/</link>
             <pubDate>Mon, 28 Feb 2022 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 9 5G (cannon) - 22.2.23</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/cannon/</link>
-            <pubDate>Fri, 25 Feb 2022 00:00:00 </pubDate>
         </item>
         <item>
             <title>POCO X2 (phoenixin) - V12.5.7.0.RGHINXM</title>
