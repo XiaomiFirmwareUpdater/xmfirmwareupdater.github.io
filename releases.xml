@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 11 Nov 2023 06:36:53 </lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 13:23:31 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Pad 5 (nabu) - V14.0.7.0.TKXCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/nabu/</link>
+            <pubDate>Sat, 11 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 5 (nabu) - V14.0.7.0.TKXINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/nabu/</link>
+            <pubDate>Sat, 11 Nov 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - V14.0.14.0.TMLCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/corot/</link>
@@ -967,11 +977,6 @@
             <pubDate>Fri, 11 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 5 (nabu) - V14.0.4.0.TKXINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nabu/</link>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 11S 5G (opal) - V14.0.3.0.TGLMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/opal/</link>
             <pubDate>Fri, 11 Aug 2023 00:00:00 </pubDate>
@@ -1145,11 +1150,6 @@
             <title>Mi 10 Ultra (cas) - V14.0.2.0.TJJCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/cas/</link>
             <pubDate>Wed, 14 Jun 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 5 (nabu) - V14.0.6.0.TKXCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nabu/</link>
-            <pubDate>Mon, 12 Jun 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V14.0.5.0.SJKCNXM</title>

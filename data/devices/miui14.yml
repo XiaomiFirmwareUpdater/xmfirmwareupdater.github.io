@@ -2118,6 +2118,18 @@
   version: V14.0.6.0.TKXCNXM
 - android: '13.0'
   codename: nabu
+  date: '2023-11-11'
+  download: https://bigota.d.miui.com/V14.0.7.0.TKXINXM/fw_nabu_miui_NABUINGlobal_V14.0.7.0.TKXINXM_fc0175f53f_13.0.zip
+  name: Xiaomi Pad 5
+  version: V14.0.7.0.TKXINXM
+- android: '13.0'
+  codename: nabu
+  date: '2023-11-11'
+  download: https://bigota.d.miui.com/V14.0.7.0.TKXCNXM/fw_nabu_miui_NABU_V14.0.7.0.TKXCNXM_fadf4549d4_13.0.zip
+  name: Xiaomi Pad 5
+  version: V14.0.7.0.TKXCNXM
+- android: '13.0'
+  codename: nabu
   date: '2023-08-11'
   download: https://bigota.d.miui.com/V14.0.4.0.TKXINXM/fw_nabu_miui_NABUINGlobal_V14.0.4.0.TKXINXM_9acaaebb54_13.0.zip
   name: Xiaomi Pad 5
