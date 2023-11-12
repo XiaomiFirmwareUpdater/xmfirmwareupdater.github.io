@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 12 Nov 2023 12:37:09 </lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 20:16:04 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 Pro (garnet) - V14.0.13.0.TNRCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
+            <pubDate>Sun, 12 Nov 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi Pad 5 (nabu) - V14.0.7.0.TKXCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/nabu/</link>
@@ -184,11 +189,6 @@
         <item>
             <title>Xiaomi 13 (fuxi) - V14.0.4.0.UMCCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Fri, 27 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro (garnet) - V14.0.12.0.TNRCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
             <pubDate>Fri, 27 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
