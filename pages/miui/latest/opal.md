@@ -56,6 +56,7 @@ permalink: /miui/opal/
 <tr><td>Redmi Note 11S 5G EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TGLEUXM</td><td>13.0</td><td>3.8 GB</td><td>2023-09-08</td><td><a href="/miui/opal/stable/V14.0.4.0.TGLEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11S 5G Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TGLMIXM</td><td>13.0</td><td>6.5 GB</td><td>2023-08-02</td><td><a href="/miui/opal/stable/V14.0.3.0.TGLMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11S 5G Global</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TGLMIXM</td><td>13.0</td><td>3.4 GB</td><td>2023-08-09</td><td><a href="/miui/opal/stable/V14.0.3.0.TGLMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11S 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TGLMIXM</td><td>13.0</td><td>3.5 GB</td><td>2023-11-09</td><td><a href="/miui/opal/stable beta/V14.0.4.0.TGLMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11S 5G Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SGLRUXM</td><td>12.0</td><td>5.7 GB</td><td>2022-10-17</td><td><a href="/miui/opal/stable/V13.0.1.0.SGLRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11S 5G Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SGLRUXM</td><td>12.0</td><td>3.2 GB</td><td>2023-05-30</td><td><a href="/miui/opal/stable/V13.0.1.0.SGLRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11S 5G Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TGLRUXM</td><td>13.0</td><td>3.8 GB</td><td>2023-06-06</td><td><a href="/miui/opal/stable beta/V14.0.1.0.TGLRUXM/">Download</a></td></tr>

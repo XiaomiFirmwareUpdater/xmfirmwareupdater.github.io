@@ -294,6 +294,12 @@
   version: V14.0.3.0.SJEMIXM
 - android: '12.0'
   codename: cannong
+  date: '2023-11-13'
+  download: https://bigota.d.miui.com/V14.0.4.0.SJEMIXM/fw_cannong_miui_CANNONGGlobal_V14.0.4.0.SJEMIXM_f9f7ae8f01_12.0.zip
+  name: Redmi Note 9T
+  version: V14.0.4.0.SJEMIXM
+- android: '12.0'
+  codename: cannong
   date: '2023-04-11'
   download: https://bigota.d.miui.com/V14.0.3.0.SJEEUXM/fw_cannong_miui_CANNONGEEAGlobal_V14.0.3.0.SJEEUXM_7e3945849e_12.0.zip
   name: Redmi Note 9T
@@ -2328,6 +2334,12 @@
   version: V14.0.2.0.TGLEUXM
 - android: '13.0'
   codename: opal
+  date: '2023-11-13'
+  download: https://bigota.d.miui.com/V14.0.4.0.TGLMIXM/fw_opal_miui_OPALGlobal_V14.0.4.0.TGLMIXM_56203c1941_13.0.zip
+  name: Redmi Note 11S 5G
+  version: V14.0.4.0.TGLMIXM
+- android: '13.0'
+  codename: opal
   date: '2023-08-11'
   download: https://bigota.d.miui.com/V14.0.3.0.TGLMIXM/fw_opal_miui_OPALGlobal_V14.0.3.0.TGLMIXM_7faec8561d_13.0.zip
   name: Redmi Note 11S 5G
@@ -3280,6 +3292,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TMWEUXM/fw_sky_miui_SKYEEAGlobal_V14.0.4.0.TMWEUXM_8516b13c03_13.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
   version: V14.0.4.0.TMWEUXM
+- android: '13.0'
+  codename: sky
+  date: '2023-11-13'
+  download: https://bigota.d.miui.com/V14.0.7.0.TMWCNXM/fw_sky_miui_SKY_V14.0.7.0.TMWCNXM_068d99c48e_13.0.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: V14.0.7.0.TMWCNXM
 - android: '13.0'
   codename: sky
   date: '2023-09-12'
@@ -4618,6 +4636,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TLLMIXM/fw_ziyi_miui_ZIYIGlobal_V14.0.3.0.TLLMIXM_e6bb63c2aa_13.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: V14.0.3.0.TLLMIXM
+- android: '13.0'
+  codename: ziyi
+  date: '2023-11-13'
+  download: https://bigota.d.miui.com/V14.0.11.0.TLLEUXM/fw_ziyi_miui_ZIYIEEAGlobal_V14.0.11.0.TLLEUXM_d2a8bc6ab6_13.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: V14.0.11.0.TLLEUXM
 - android: '13.0'
   codename: ziyi
   date: '2023-10-12'
