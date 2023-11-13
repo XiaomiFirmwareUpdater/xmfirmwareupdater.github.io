@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 13 Nov 2023 18:43:37 </lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 01:21:59 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 9T (cannong) - V14.0.4.0.SJEMIXM</title>
@@ -19,6 +19,11 @@
         <item>
             <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.16.0.RCZINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/dandelion/</link>
+            <pubDate>Mon, 13 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 (fuxi) - V14.0.5.0.UMCCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
             <pubDate>Mon, 13 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -218,11 +223,6 @@
         </item>
         <item>
             <title>Xiaomi 13 (fuxi) - V14.0.6.0.UMCMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Fri, 27 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 (fuxi) - V14.0.4.0.UMCCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
             <pubDate>Fri, 27 Oct 2023 00:00:00 </pubDate>
         </item>

@@ -1086,6 +1086,12 @@
   version: V14.0.4.0.TMCCNXM
 - android: '14.0'
   codename: fuxi
+  date: '2023-11-13'
+  download: https://bigota.d.miui.com/V14.0.5.0.UMCCNXM/fw_fuxi_miui_FUXI_V14.0.5.0.UMCCNXM_bb63991392_14.0.zip
+  name: Xiaomi 13
+  version: V14.0.5.0.UMCCNXM
+- android: '14.0'
+  codename: fuxi
   date: '2023-09-13'
   download: https://bigota.d.miui.com/V14.0.0.18.UMCCNXM/fw_fuxi_miui_FUXI_V14.0.0.18.UMCCNXM_d3aaea971d_14.0.zip
   name: Xiaomi 13
@@ -4546,12 +4552,6 @@
   download: https://bigota.d.miui.com/V14.0.8.0.TLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V14.0.8.0.TLBEUXM_80c9d5c6cf_13.0.zip
   name: Xiaomi 12 Pro
   version: V14.0.8.0.TLBEUXM
-- android: '13.0'
-  codename: zeus
-  date: '2023-08-11'
-  download: https://bigota.d.miui.com/V14.0.8.0.TLBMIXM/fw_zeus_miui_ZEUSGlobal_V14.0.8.0.TLBMIXM_fe533574a9_13.0.zip
-  name: Xiaomi 12 Pro
-  version: V14.0.8.0.TLBMIXM
 - android: '13.0'
   codename: zeus
   date: '2023-02-11'
