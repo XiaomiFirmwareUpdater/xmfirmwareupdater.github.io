@@ -4,10 +4,15 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 13 Nov 2023 13:16:04 </lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 18:43:37 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 9T (cannong) - V14.0.4.0.SJEMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/cannong/</link>
+            <pubDate>Mon, 13 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 9T (cannong) - V14.0.4.0.SJEEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/cannong/</link>
             <pubDate>Mon, 13 Nov 2023 00:00:00 </pubDate>
         </item>
@@ -1300,11 +1305,6 @@
             <title>Redmi Note 8 (2021) (biloba) - V14.0.3.0.TCUEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/biloba/</link>
             <pubDate>Fri, 14 Apr 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 9T (cannong) - V14.0.3.0.SJEEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/cannong/</link>
-            <pubDate>Tue, 11 Apr 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>POCO M3 (citrus) - V14.0.2.0.SJFMIXM</title>
