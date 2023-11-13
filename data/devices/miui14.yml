@@ -2712,6 +2712,12 @@
   version: V14.0.6.0.SMSCNXM
 - android: '13.0'
   codename: redwood
+  date: '2023-11-13'
+  download: https://bigota.d.miui.com/V14.0.5.0.TMSMIXM/fw_redwood_miui_REDWOODGlobal_V14.0.5.0.TMSMIXM_d4c47d0905_13.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: V14.0.5.0.TMSMIXM
+- android: '13.0'
+  codename: redwood
   date: '2023-07-11'
   download: https://bigota.d.miui.com/V14.0.2.0.TMSMIXM/fw_redwood_miui_REDWOODGlobal_V14.0.2.0.TMSMIXM_a4e031f81c_13.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G

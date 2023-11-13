@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 13 Nov 2023 07:54:34 </lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 13:16:04 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 9T (cannong) - V14.0.4.0.SJEMIXM</title>
@@ -12,8 +12,18 @@
             <pubDate>Mon, 13 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.16.0.RCZINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/dandelion/</link>
+            <pubDate>Mon, 13 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 11S 5G (opal) - V14.0.4.0.TGLMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/opal/</link>
+            <pubDate>Mon, 13 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.5.0.TMSMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/redwood/</link>
             <pubDate>Mon, 13 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -797,11 +807,6 @@
             <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.15.0.RCZINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/dandelion/</link>
-            <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>POCO M4 Pro 5G (evergreen) - V14.0.2.0.TGBMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/evergreen/</link>
             <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
@@ -845,11 +850,6 @@
             <title>Xiaomi 13 Pro (nuwa) - V14.0.11.0.TMBINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Wed, 06 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.4.0.TMSMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/redwood/</link>
-            <pubDate>Tue, 05 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.4.0.TMQEUXM</title>
