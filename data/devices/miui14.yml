@@ -168,6 +168,12 @@
   version: V14.0.4.0.TKJINXM
 - android: '13.0'
   codename: aristotle
+  date: '2023-11-15'
+  download: https://bigota.d.miui.com/V14.0.6.0.TMFMIXM/fw_aristotle_miui_ARISTOTLEGlobal_V14.0.6.0.TMFMIXM_604989c6ed_13.0.zip
+  name: Xiaomi 13T
+  version: V14.0.6.0.TMFMIXM
+- android: '13.0'
+  codename: aristotle
   date: '2023-11-02'
   download: https://bigota.d.miui.com/V14.0.11.0.TMFEUXM/fw_aristotle_miui_ARISTOTLEEEAGlobal_V14.0.11.0.TMFEUXM_6370eb6ef4_13.0.zip
   name: Xiaomi 13T

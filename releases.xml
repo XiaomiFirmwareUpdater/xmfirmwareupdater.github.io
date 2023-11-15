@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 15 Nov 2023 00:41:38 </lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 07:12:14 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13T (aristotle) - V14.0.6.0.TMFMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/aristotle/</link>
+            <pubDate>Wed, 15 Nov 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 9T (cannong) - V14.0.4.0.SJEMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/cannong/</link>
@@ -550,11 +555,6 @@
             <title>Xiaomi 12S Pro (unicorn) - V14.0.10.0.TLECNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/unicorn/</link>
             <pubDate>Tue, 03 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13T (aristotle) - V14.0.5.0.TMFMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/aristotle/</link>
-            <pubDate>Mon, 02 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.4.0.TLFMIXM</title>
