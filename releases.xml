@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 15 Nov 2023 19:11:55 </lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 01:04:38 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 13T (aristotle) - V14.0.6.0.TMFMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/aristotle/</link>
+            <pubDate>Wed, 15 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 (houji) - OS1.0.20.0.UNCCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
             <pubDate>Wed, 15 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -59,11 +64,6 @@
         <item>
             <title>Redmi Note 13 Pro (garnet) - V14.0.13.0.TNRCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
-            <pubDate>Sun, 12 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 (houji) - OS1.0.19.0.UNCCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
             <pubDate>Sun, 12 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
