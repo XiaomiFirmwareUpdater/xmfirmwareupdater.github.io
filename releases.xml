@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 15 Nov 2023 12:38:03 </lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 19:11:55 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 13T (aristotle) - V14.0.6.0.TMFMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/aristotle/</link>
+            <pubDate>Wed, 15 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K50G/POCO F4 GT (ingres) - V14.0.7.0.TLJEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ingres/</link>
             <pubDate>Wed, 15 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -1044,11 +1049,6 @@
         <item>
             <title>Xiaomi Pad 5 Pro 12.4 (dagu) - V14.0.11.0.TLZCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/dagu/</link>
-            <pubDate>Thu, 03 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K50G/POCO F4 GT (ingres) - V14.0.6.0.TLJEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ingres/</link>
             <pubDate>Thu, 03 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>

@@ -1979,15 +1979,15 @@
     android: '13.0'
     miui: V14.0.10.0.TLJCNXM
 - branch: stable
-  date: '2023-08-03'
+  date: '2023-11-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-03.08.2023/fw_ingres_miui_INGRESEEAGlobal_V14.0.6.0.TLJEUXM_07e7836805_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ingres/fw_ingres_miui_INGRESEEAGlobal_V14.0.6.0.TLJEUXM_07e7836805_13.0.zip
-  filename: fw_ingres_miui_INGRESEEAGlobal_V14.0.6.0.TLJEUXM_07e7836805_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-15.11.2023/fw_ingres_miui_INGRESEEAGlobal_V14.0.7.0.TLJEUXM_0b0d68fbe4_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ingres/fw_ingres_miui_INGRESEEAGlobal_V14.0.7.0.TLJEUXM_0b0d68fbe4_13.0.zip
+  filename: fw_ingres_miui_INGRESEEAGlobal_V14.0.7.0.TLJEUXM_0b0d68fbe4_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.6.0.TLJEUXM
+    miui: V14.0.7.0.TLJEUXM
 - branch: stable
   date: '2023-11-04'
   downloads:
