@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 16 Nov 2023 06:59:46 </lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 13:08:36 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>POCO M4 Pro 5G (evergreen) - V14.0.4.0.TGBEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/evergreen/</link>
+            <pubDate>Thu, 16 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.10.0.TMOEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Thu, 16 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -284,11 +289,6 @@
         <item>
             <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V14.0.7.0.TLSCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/light/</link>
-            <pubDate>Tue, 24 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.8.0.TMOEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Tue, 24 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
