@@ -1,7 +1,7 @@
 ---
-title: Xiaomi 14 Pro China Firmware OS1.0.16.0.UNBCNXM Update
+title: Xiaomi 14 Pro / Ti China Firmware OS1.0.16.0.UNBCNXM Update
 layout: download
-name: Xiaomi 14 Pro China
+name: Xiaomi 14 Pro / Ti China
 codename: shennong
 permalink: /firmware/shennong/stable/OS1.0.16.0.UNBCNXM/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/shennong/stable/OS1.0.16.0.UNBCNXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item"><a href="/firmware/shennong/">Xiaomi 14 Pro China</a></li>
+        <li class="breadcrumb-item"><a href="/firmware/shennong/">Xiaomi 14 Pro / Ti China</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS1.0.16.0.UNBCNXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /firmware/shennong/stable/OS1.0.16.0.UNBCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">Firmware OS1.0.16.0.UNBCNXM Stable Release for Xiaomi 14 Pro China (shennong)</h3>
+    <h3 class="title bg-light p-2 rounded">Firmware OS1.0.16.0.UNBCNXM Stable Release for Xiaomi 14 Pro / Ti China (shennong)</h3>
     <h5>This page shows the OS1.0.16.0.UNBCNXM update only. If you're looking for other updates check
         <a href="/firmware/shennong/">here.</a></h5>
     <div class="card">
@@ -42,7 +42,7 @@ permalink: /firmware/shennong/stable/OS1.0.16.0.UNBCNXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Xiaomi 14 Pro China</h5>
+                    <h5><b>Device: </b>Xiaomi 14 Pro / Ti China</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/firmware/shennong/" target="_blank">shennong</a> </h5>

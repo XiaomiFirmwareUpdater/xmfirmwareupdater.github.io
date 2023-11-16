@@ -1,15 +1,15 @@
 ---
-title: Xiaomi 14 Pro/Ti (shennong) Firmware Downloads
+title: Redmi 13C/POCO C65 (gale) Firmware Downloads
 layout: download
-name: Xiaomi 14 Pro/Ti
-codename: shennong
-permalink: /firmware/shennong/
+name: Redmi 13C/POCO C65
+codename: gale
+permalink: /firmware/gale/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/shennong/">Xiaomi 14 Pro/Ti</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/gale/">Redmi 13C/POCO C65</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -27,9 +27,9 @@ permalink: /firmware/shennong/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest firmware downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/firmware/shennong/" class="card-link">Firmware Archive</a>
-    <a href="/hyperos/shennong/" class="card-link">HyperOS Downloads</a>
-    <a href="/vendor/shennong/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/firmware/gale/" class="card-link">Firmware Archive</a>
+    <a href="/miui/gale/" class="card-link">MIUI Downloads</a>
+    <a href="/vendor/gale/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 
@@ -42,14 +42,14 @@ permalink: /firmware/shennong/
                 <thead class="thead-dark">
                     <tr>
                         <th data-ref="branch">Branch</th>
-                        <th data-ref="miui">HyperOS</th>
+                        <th data-ref="miui">MIUI</th>
                         <th data-ref="android">Android</th>
                         <th data-ref="region">Region</th>
                         <th data-ref="link">Link</th>
                         <th data-ref="updated">Updated</th>
                     </tr>
                 </thead>
-                <script>loadFirmwareDownloads('shennong', 'latest')</script>
+                <script>loadFirmwareDownloads('gale', 'latest')</script>
             </table>
         </div>
     </div>

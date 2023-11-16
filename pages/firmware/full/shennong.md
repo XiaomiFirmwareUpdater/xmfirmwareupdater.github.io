@@ -1,7 +1,7 @@
 ---
-title: Xiaomi 14 Pro (shennong) Firmware Downloads
+title: Xiaomi 14 Pro/Ti (shennong) Firmware Downloads
 layout: download
-name: Xiaomi 14 Pro
+name: Xiaomi 14 Pro/Ti
 codename: shennong
 permalink: /archive/firmware/shennong/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/shennong/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/shennong/">Xiaomi 14 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/shennong/">Xiaomi 14 Pro/Ti</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
