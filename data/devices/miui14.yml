@@ -816,6 +816,12 @@
   version: V14.0.2.0.TGBINXM
 - android: '13.0'
   codename: evergreen
+  date: '2023-11-16'
+  download: https://bigota.d.miui.com/V14.0.4.0.TGBEUXM/fw_evergreen_miui_EVERGREENEEAGlobal_V14.0.4.0.TGBEUXM_0090c846c3_13.0.zip
+  name: POCO M4 Pro 5G
+  version: V14.0.4.0.TGBEUXM
+- android: '13.0'
+  codename: evergreen
   date: '2023-06-12'
   download: https://bigota.d.miui.com/V14.0.1.0.TGBMIXM/fw_evergreen_miui_EVERGREENGlobal_V14.0.1.0.TGBMIXM_9e8d36c753_13.0.zip
   name: POCO M4 Pro 5G

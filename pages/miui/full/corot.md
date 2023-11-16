@@ -52,7 +52,8 @@ permalink: /archive/miui/corot/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K60 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.14.0.TMLCNXM</td><td>13.0</td><td>6.2 GB</td><td>2023-11-06</td><td><a href="/miui/corot/stable beta/V14.0.14.0.TMLCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K60 Ultra China</td><td>Stable</td><td>Recovery</td><td>V14.0.14.0.TMLCNXM</td><td>13.0</td><td>6.2 GB</td><td>2023-11-06</td><td><a href="/miui/corot/stable/V14.0.14.0.TMLCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V14.0.14.0.TMLCNXM</td><td>13.0</td><td>7.9 GB</td><td>2023-10-31</td><td><a href="/miui/corot/stable/V14.0.14.0.TMLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro Global</td><td>Stable</td><td>Recovery</td><td>V14.0.9.0.TMLMIXM</td><td>13.0</td><td>5.6 GB</td><td>2023-10-30</td><td><a href="/miui/corot/stable/V14.0.9.0.TMLMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.9.0.TMLMIXM</td><td>13.0</td><td>8.3 GB</td><td>2023-10-16</td><td><a href="/miui/corot/stable/V14.0.9.0.TMLMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TMLRUXM</td><td>13.0</td><td>5.5 GB</td><td>2023-10-25</td><td><a href="/miui/corot/stable/V14.0.4.0.TMLRUXM/">Download</a></td></tr>

@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 16 Nov 2023 01:04:38 </lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 06:59:46 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>POCO M4 Pro 5G (evergreen) - V14.0.4.0.TGBEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/evergreen/</link>
+            <pubDate>Thu, 16 Nov 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 13T (aristotle) - V14.0.6.0.TMFMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/aristotle/</link>
@@ -990,11 +995,6 @@
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.5.0.TMQMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Sat, 12 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO M4 Pro 5G (evergreen) - V14.0.3.0.TGBEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/evergreen/</link>
-            <pubDate>Fri, 11 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V14.0.3.0.TKAINXM</title>
