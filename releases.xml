@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 17 Nov 2023 07:15:53 </lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 13:37:16 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.8.0.TKPCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/chopin/</link>
+            <pubDate>Fri, 17 Nov 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.14.0.RCZMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/dandelion/</link>
+            <pubDate>Fri, 17 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 5G/13R Pro (gold) - V14.0.7.0.TNQCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
             <pubDate>Fri, 17 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -439,11 +449,6 @@
         <item>
             <title>POCO C40 (frost) - V13.0.24.0.RGFMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/frost/</link>
-            <pubDate>Tue, 17 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 5G/13R Pro (gold) - V14.0.5.0.TNQCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
             <pubDate>Tue, 17 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -980,11 +985,6 @@
             <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V14.0.4.0.TKKINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/haydn/</link>
             <pubDate>Sat, 19 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.7.0.TKPCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/chopin/</link>
-            <pubDate>Mon, 14 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V14.0.4.0.TKKEUXM</title>

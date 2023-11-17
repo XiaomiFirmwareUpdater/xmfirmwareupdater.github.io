@@ -52,7 +52,8 @@ permalink: /archive/miui/sky/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12R China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.7.0.TMWCNXM</td><td>13.0</td><td>4.8 GB</td><td>2023-11-10</td><td><a href="/miui/sky/stable beta/V14.0.7.0.TMWCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12R China</td><td>Stable</td><td>Recovery</td><td>V14.0.7.0.TMWCNXM</td><td>13.0</td><td>4.8 GB</td><td>2023-11-10</td><td><a href="/miui/sky/stable/V14.0.7.0.TMWCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12R China</td><td>Stable</td><td>Fastboot</td><td>V14.0.7.0.TMWCNXM</td><td>13.0</td><td>6.1 GB</td><td>2023-11-02</td><td><a href="/miui/sky/stable/V14.0.7.0.TMWCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12R China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TMWCNXM</td><td>13.0</td><td>4.8 GB</td><td>2023-10-17</td><td><a href="/miui/sky/stable beta/V14.0.6.0.TMWCNXM/">Download</a></td></tr>
 <tr><td>Redmi 12 5G / POCO M6 Pro 5G India</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TMWINXM</td><td>13.0</td><td>4.2 GB</td><td>2023-10-17</td><td><a href="/miui/sky/stable/V14.0.5.0.TMWINXM/">Download</a></td></tr>
 <tr><td>Redmi 12 5G / POCO M6 Pro 5G India</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TMWINXM</td><td>13.0</td><td>5.7 GB</td><td>2023-10-11</td><td><a href="/miui/sky/stable/V14.0.5.0.TMWINXM/">Download</a></td></tr>
