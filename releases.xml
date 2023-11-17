@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 17 Nov 2023 13:37:16 </lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 19:10:15 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.8.0.TKPCNXM</title>
@@ -14,6 +14,11 @@
         <item>
             <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.14.0.RCZMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/dandelion/</link>
+            <pubDate>Fri, 17 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 12C/POCO C55 (earth) - V14.0.7.0.TCVEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
             <pubDate>Fri, 17 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -745,11 +750,6 @@
             <title>Redmi Note 11 NFC (spesn) - V14.0.2.0.TGKEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/spesn/</link>
             <pubDate>Fri, 15 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12C/POCO C55 (earth) - V14.0.4.0.TCVEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Thu, 14 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12 4G NFC (topaz) - V14.0.11.0.TMGEUXM</title>
