@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 17 Nov 2023 00:38:58 </lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 07:15:53 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.14.0.RCZMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/dandelion/</link>
+            <pubDate>Fri, 17 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>POCO X5 5G (moonstone) - V14.0.6.0.TMPMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
+            <pubDate>Fri, 17 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>POCO X5 5G (moonstone) - V14.0.4.0.TMPINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
+            <pubDate>Fri, 17 Nov 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>POCO M4 Pro 5G (evergreen) - V14.0.4.0.TGBEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/evergreen/</link>
@@ -822,11 +837,6 @@
             <pubDate>Fri, 08 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.13.0.RCZMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/dandelion/</link>
-            <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>POCO M4 Pro 5G (evergreen) - V14.0.2.0.TGBMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/evergreen/</link>
             <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
@@ -920,11 +930,6 @@
             <title>Xiaomi 12X (psyche) - V14.0.10.0.TLDCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/psyche/</link>
             <pubDate>Mon, 28 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO X5 5G (moonstone) - V14.0.5.0.TMPMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
-            <pubDate>Thu, 24 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 11 (spes) - V14.0.2.0.TGCINXM</title>
@@ -1024,11 +1029,6 @@
         <item>
             <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V13.0.6.0.SJQMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/lime/</link>
-            <pubDate>Thu, 10 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO X5 5G (moonstone) - V14.0.3.0.TMPINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
             <pubDate>Thu, 10 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>

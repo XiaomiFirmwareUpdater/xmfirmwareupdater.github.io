@@ -1059,15 +1059,15 @@
     android: '10.0'
     miui: V11.0.21.0.QDLMIXM
 - branch: stable
-  date: '2023-09-07'
+  date: '2023-11-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-07.09.2023/fw_dandelion_miui_DANDELIONC3L2Global_V12.5.13.0.RCZMIXM_d77fd3e8ee_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONC3L2Global_V12.5.13.0.RCZMIXM_d77fd3e8ee_11.0.zip
-  filename: fw_dandelion_miui_DANDELIONC3L2Global_V12.5.13.0.RCZMIXM_d77fd3e8ee_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-17.11.2023/fw_dandelion_miui_DANDELIONC3L2Global_V12.5.14.0.RCZMIXM_b3ab9a863c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONC3L2Global_V12.5.14.0.RCZMIXM_b3ab9a863c_11.0.zip
+  filename: fw_dandelion_miui_DANDELIONC3L2Global_V12.5.14.0.RCZMIXM_b3ab9a863c_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.13.0.RCZMIXM
+    miui: V12.5.14.0.RCZMIXM
 - branch: stable
   date: '2023-04-27'
   downloads:
@@ -2889,15 +2889,15 @@
     android: '12.0'
     miui: V13.0.4.0.SJIEUXM
 - branch: stable
-  date: '2023-08-24'
+  date: '2023-11-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-24.08.2023/fw_moonstone_miui_MOONSTONEGlobal_V14.0.5.0.TMPMIXM_0eeaf84f77_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/moonstone/fw_moonstone_miui_MOONSTONEGlobal_V14.0.5.0.TMPMIXM_0eeaf84f77_13.0.zip
-  filename: fw_moonstone_miui_MOONSTONEGlobal_V14.0.5.0.TMPMIXM_0eeaf84f77_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-17.11.2023/fw_moonstone_miui_MOONSTONEGlobal_V14.0.6.0.TMPMIXM_f60b30054a_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/moonstone/fw_moonstone_miui_MOONSTONEGlobal_V14.0.6.0.TMPMIXM_f60b30054a_13.0.zip
+  filename: fw_moonstone_miui_MOONSTONEGlobal_V14.0.6.0.TMPMIXM_f60b30054a_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TMPMIXM
+    miui: V14.0.6.0.TMPMIXM
 - branch: stable
   date: '2023-08-31'
   downloads:
@@ -2909,15 +2909,15 @@
     android: '13.0'
     miui: V14.0.3.0.TMPEUXM
 - branch: stable
-  date: '2023-08-10'
+  date: '2023-11-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-11.08.2023/fw_moonstone_miui_MOONSTONEINGlobal_V14.0.3.0.TMPINXM_d2f36e75c2_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/moonstone/fw_moonstone_miui_MOONSTONEINGlobal_V14.0.3.0.TMPINXM_d2f36e75c2_13.0.zip
-  filename: fw_moonstone_miui_MOONSTONEINGlobal_V14.0.3.0.TMPINXM_d2f36e75c2_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-17.11.2023/fw_moonstone_miui_MOONSTONEINGlobal_V14.0.4.0.TMPINXM_8bd9a480a0_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/moonstone/fw_moonstone_miui_MOONSTONEINGlobal_V14.0.4.0.TMPINXM_8bd9a480a0_13.0.zip
+  filename: fw_moonstone_miui_MOONSTONEINGlobal_V14.0.4.0.TMPINXM_8bd9a480a0_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: V14.0.3.0.TMPINXM
+    miui: V14.0.4.0.TMPINXM
 - branch: stable
   date: '2023-09-11'
   downloads:
