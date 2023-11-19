@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 19 Nov 2023 12:37:27 </lastBuildDate>
+        <lastBuildDate>Sun, 19 Nov 2023 18:57:05 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>POCO M5/Redmi 11 Prime 4G (rock) - V14.0.9.0.TLUMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/rock/</link>
+            <pubDate>Sun, 19 Nov 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.8.0.TKPCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/chopin/</link>
@@ -949,11 +954,6 @@
         <item>
             <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.4.0.TKTINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/pissarro/</link>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO M5/Redmi 11 Prime 4G (rock) - V14.0.8.0.TLUMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/rock/</link>
             <pubDate>Tue, 22 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
