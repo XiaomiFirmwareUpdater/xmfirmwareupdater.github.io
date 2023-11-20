@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 20 Nov 2023 16:09:37 </lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 19:37:05 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.5.0.TKHINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/alioth/</link>
+            <pubDate>Mon, 20 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K40 Gaming/POCO F3 GT (ares) - V14.0.5.0.TKJCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ares/</link>
             <pubDate>Mon, 20 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -34,6 +39,11 @@
         <item>
             <title>Redmi Note 11 (spes) - V14.0.3.0.TGCINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/spes/</link>
+            <pubDate>Mon, 20 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V14.0.4.0.TKCMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/veux/</link>
             <pubDate>Mon, 20 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -922,11 +932,6 @@
             <pubDate>Mon, 04 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V14.0.3.0.TKCMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/veux/</link>
-            <pubDate>Mon, 04 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.12.0.TKOCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/lisa/</link>
             <pubDate>Fri, 01 Sep 2023 00:00:00 </pubDate>
@@ -1085,11 +1090,6 @@
             <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V14.0.3.0.SJDEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/apollo/</link>
             <pubDate>Tue, 25 Jul 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40 Gaming/POCO F3 GT (ares) - V14.0.4.0.TKJCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ares/</link>
-            <pubDate>Mon, 24 Jul 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>POCO M2 Pro (gram) - V14.0.5.0.SJPINXM</title>

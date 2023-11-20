@@ -219,15 +219,15 @@
     android: '7.0'
     miui: 8.9.13
 - branch: stable
-  date: '2023-07-24'
+  date: '2023-11-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-24.07.2023/fw_ares_miui_ARES_V14.0.4.0.TKJCNXM_511d5498e5_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ares/fw_ares_miui_ARES_V14.0.4.0.TKJCNXM_511d5498e5_13.0.zip
-  filename: fw_ares_miui_ARES_V14.0.4.0.TKJCNXM_511d5498e5_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-20.11.2023/fw_ares_miui_ARES_V14.0.5.0.TKJCNXM_4f27761e0b_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ares/fw_ares_miui_ARES_V14.0.5.0.TKJCNXM_4f27761e0b_13.0.zip
+  filename: fw_ares_miui_ARES_V14.0.5.0.TKJCNXM_4f27761e0b_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TKJCNXM
+    miui: V14.0.5.0.TKJCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -5109,15 +5109,15 @@
     android: '13.0'
     miui: V14.0.6.0.TKBEUXM
 - branch: stable
-  date: '2023-09-04'
+  date: '2023-11-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-04.09.2023/fw_veux_miui_VEUXGlobal_V14.0.3.0.TKCMIXM_c6b596321f_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/veux/fw_veux_miui_VEUXGlobal_V14.0.3.0.TKCMIXM_c6b596321f_13.0.zip
-  filename: fw_veux_miui_VEUXGlobal_V14.0.3.0.TKCMIXM_c6b596321f_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-20.11.2023/fw_veux_miui_VEUXGlobal_V14.0.4.0.TKCMIXM_ce68a401ce_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/veux/fw_veux_miui_VEUXGlobal_V14.0.4.0.TKCMIXM_ce68a401ce_13.0.zip
+  filename: fw_veux_miui_VEUXGlobal_V14.0.4.0.TKCMIXM_ce68a401ce_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.3.0.TKCMIXM
+    miui: V14.0.4.0.TKCMIXM
 - branch: stable
   date: '2023-08-11'
   downloads:

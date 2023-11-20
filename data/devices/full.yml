@@ -3819,6 +3819,16 @@
     android: '12.0'
     miui: V13.0.3.0.SKJINXM
 - branch: stable
+  date: '2023-11-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-20.11.2023/fw_ares_miui_ARES_V14.0.5.0.TKJCNXM_4f27761e0b_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ares/fw_ares_miui_ARES_V14.0.5.0.TKJCNXM_4f27761e0b_13.0.zip
+  filename: fw_ares_miui_ARES_V14.0.5.0.TKJCNXM_4f27761e0b_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TKJCNXM
+- branch: stable
   date: '2023-04-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-20.04.2023/fw_ares_miui_ARES_V14.0.3.0.TKJCNXM_4c4e40a144_13.0.zip
@@ -65358,6 +65368,16 @@
   versions:
     android: '13.0'
     miui: V14.0.1.0.TKCEUXM
+- branch: stable
+  date: '2023-11-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-20.11.2023/fw_veux_miui_VEUXGlobal_V14.0.4.0.TKCMIXM_ce68a401ce_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/veux/fw_veux_miui_VEUXGlobal_V14.0.4.0.TKCMIXM_ce68a401ce_13.0.zip
+  filename: fw_veux_miui_VEUXGlobal_V14.0.4.0.TKCMIXM_ce68a401ce_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TKCMIXM
 - branch: stable
   date: '2023-04-20'
   downloads:
