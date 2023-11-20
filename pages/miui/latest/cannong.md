@@ -52,12 +52,10 @@ permalink: /miui/cannong/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 9T EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.SJEEUXM</td><td>12.0</td><td>5.1 GB</td><td>2023-03-29</td><td><a href="/miui/cannong/stable/V14.0.3.0.SJEEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9T EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.SJEEUXM</td><td>12.0</td><td>3.2 GB</td><td>2023-04-11</td><td><a href="/miui/cannong/stable/V14.0.3.0.SJEEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9T EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.SJEEUXM</td><td>12.0</td><td>3.3 GB</td><td>2023-11-09</td><td><a href="/miui/cannong/stable beta/V14.0.4.0.SJEEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9T Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.SJEMIXM</td><td>12.0</td><td>5.2 GB</td><td>2023-03-29</td><td><a href="/miui/cannong/stable/V14.0.3.0.SJEMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9T Global</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.SJEMIXM</td><td>12.0</td><td>3.2 GB</td><td>2023-04-17</td><td><a href="/miui/cannong/stable/V14.0.3.0.SJEMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9T Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.SJEMIXM</td><td>12.0</td><td>3.3 GB</td><td>2023-11-08</td><td><a href="/miui/cannong/stable beta/V14.0.4.0.SJEMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 9T EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.SJEEUXM</td><td>12.0</td><td>5.0 GB</td><td>2023-10-20</td><td><a href="/miui/cannong/stable/V14.0.4.0.SJEEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9T EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.SJEEUXM</td><td>12.0</td><td>3.3 GB</td><td>2023-11-09</td><td><a href="/miui/cannong/stable/V14.0.4.0.SJEEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9T Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.SJEMIXM</td><td>12.0</td><td>5.0 GB</td><td>2023-10-20</td><td><a href="/miui/cannong/stable/V14.0.4.0.SJEMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9T Global</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.SJEMIXM</td><td>12.0</td><td>3.3 GB</td><td>2023-11-08</td><td><a href="/miui/cannong/stable/V14.0.4.0.SJEMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SJERUXM</td><td>12.0</td><td>4.8 GB</td><td>2023-05-05</td><td><a href="/miui/cannong/stable/V14.0.2.0.SJERUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.SJERUXM</td><td>12.0</td><td>3.2 GB</td><td>2023-05-17</td><td><a href="/miui/cannong/stable/V14.0.2.0.SJERUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SJETRXM</td><td>12.0</td><td>4.7 GB</td><td>2023-05-05</td><td><a href="/miui/cannong/stable/V14.0.2.0.SJETRXM/">Download</a></td></tr>

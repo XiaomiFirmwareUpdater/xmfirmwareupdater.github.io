@@ -61,6 +61,7 @@ permalink: /miui/dandelion/
 <tr><td>Redmi 10A China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.10.0.RCZCNXM</td><td>11.0</td><td>2.1 GB</td><td>2022-08-17</td><td><a href="/miui/dandelion/stable beta/V12.5.10.0.RCZCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10A EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.11.0.RCZEUXM</td><td>11.0</td><td>4.5 GB</td><td>2023-09-04</td><td><a href="/miui/dandelion/stable/V12.5.11.0.RCZEUXM/">Download</a></td></tr>
 <tr><td>Redmi 10A EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.11.0.RCZEUXM</td><td>11.0</td><td>2.0 GB</td><td>2023-09-14</td><td><a href="/miui/dandelion/stable/V12.5.11.0.RCZEUXM/">Download</a></td></tr>
+<tr><td>Redmi 10A EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.12.0.RCZEUXM</td><td>11.0</td><td>2.0 GB</td><td>2023-11-15</td><td><a href="/miui/dandelion/stable beta/V12.5.12.0.RCZEUXM/">Download</a></td></tr>
 <tr><td>Redmi 10A Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.13.0.RCZMIXM</td><td>11.0</td><td>4.9 GB</td><td>2023-08-25</td><td><a href="/miui/dandelion/stable/V12.5.13.0.RCZMIXM/">Download</a></td></tr>
 <tr><td>Redmi 10A Global</td><td>Stable</td><td>Recovery</td><td>V12.5.13.0.RCZMIXM</td><td>11.0</td><td>1.9 GB</td><td>2023-09-07</td><td><a href="/miui/dandelion/stable/V12.5.13.0.RCZMIXM/">Download</a></td></tr>
 <tr><td>Redmi 10A Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.14.0.RCZMIXM</td><td>11.0</td><td>1.9 GB</td><td>2023-11-14</td><td><a href="/miui/dandelion/stable beta/V12.5.14.0.RCZMIXM/">Download</a></td></tr>

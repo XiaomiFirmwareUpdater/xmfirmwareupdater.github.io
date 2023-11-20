@@ -231,6 +231,26 @@
 - branch: weekly
   date: '2021-04-18'
   downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/weekly-17.09.2020/fw_bomb_miui_BOMB_20.9.17_f649cb0c37_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.17/bomb/fw_bomb_miui_BOMB_20.9.17_f649cb0c37_10.0.zip
+  filename: fw_bomb_miui_BOMB_20.9.17_f649cb0c37_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.9.17
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/weekly-16.07.2020/fw_bomb_miui_BOMB_20.7.16_e3b8f598c0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.16/bomb/fw_bomb_miui_BOMB_20.7.16_e3b8f598c0_10.0.zip
+  filename: fw_bomb_miui_BOMB_20.7.16_e3b8f598c0_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.16
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/weekly-15.10.2020/fw_bomb_miui_BOMB_20.10.15_14b484479e_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.15/bomb/fw_bomb_miui_BOMB_20.10.15_14b484479e_10.0.zip
   filename: fw_bomb_miui_BOMB_20.10.15_14b484479e_10.0.zip
@@ -309,6 +329,16 @@
     android: '11.0'
     miui: 21.3.10
 - branch: weekly
+  date: '2021-12-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/weekly-10.12.2021/fw_bomb_miui_BOMB_21.12.8_4511841bdd_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.8/bomb/fw_bomb_miui_BOMB_21.12.8_4511841bdd_11.0.zip
+  filename: fw_bomb_miui_BOMB_21.12.8_4511841bdd_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.12.8
+- branch: weekly
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/weekly-10.12.2020/fw_bomb_miui_BOMB_20.12.9_775c8e6298_11.0.zip
@@ -348,6 +378,16 @@
   versions:
     android: '11.0'
     miui: 21.9.8
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/weekly-09.07.2020/fw_bomb_miui_BOMB_20.7.9_3019275f46_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/bomb/fw_bomb_miui_BOMB_20.7.9_3019275f46_10.0.zip
+  filename: fw_bomb_miui_BOMB_20.7.9_3019275f46_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.9
 - branch: weekly
   date: '2021-07-08'
   downloads:
@@ -451,6 +491,16 @@
 - branch: weekly
   date: '2021-04-18'
   downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/weekly-04.02.2021/fw_bomb_miui_BOMB_21.2.4_edce8357d7_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.4/bomb/fw_bomb_miui_BOMB_21.2.4_edce8357d7_11.0.zip
+  filename: fw_bomb_miui_BOMB_21.2.4_edce8357d7_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.2.4
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/weekly-03.12.2020/fw_bomb_miui_BOMB_20.12.2_ed40282ff1_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.2/bomb/fw_bomb_miui_BOMB_20.12.2_ed40282ff1_11.0.zip
   filename: fw_bomb_miui_BOMB_20.12.2_ed40282ff1_11.0.zip
@@ -508,6 +558,16 @@
   versions:
     android: '10.0'
     miui: 20.7.2
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/weekly-01.04.2021/fw_bomb_miui_BOMB_21.3.31_d12bccdade_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.31/bomb/fw_bomb_miui_BOMB_21.3.31_d12bccdade_11.0.zip
+  filename: fw_bomb_miui_BOMB_21.3.31_d12bccdade_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.3.31
 - branch: stable
   date: '2021-04-18'
   downloads:
@@ -518,6 +578,16 @@
   versions:
     android: '10.0'
     miui: V11.0.5.0.QJLCNXM
+- branch: stable
+  date: '2021-05-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/stable-30.05.2021/fw_bomb_miui_BOMB_V12.5.2.0.RJLCNXM_b62e276d74_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/bomb/fw_bomb_miui_BOMB_V12.5.2.0.RJLCNXM_b62e276d74_11.0.zip
+  filename: fw_bomb_miui_BOMB_V12.5.2.0.RJLCNXM_b62e276d74_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RJLCNXM
 - branch: stable
   date: '2021-04-18'
   downloads:
@@ -538,6 +608,16 @@
   versions:
     android: '12.0'
     miui: V13.0.4.0.SJLCNXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/stable-26.02.2021/fw_bomb_miui_BOMB_V12.0.8.0.QJLCNXM_1757dbf687_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/bomb/fw_bomb_miui_BOMB_V12.0.8.0.QJLCNXM_1757dbf687_10.0.zip
+  filename: fw_bomb_miui_BOMB_V12.0.8.0.QJLCNXM_1757dbf687_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.8.0.QJLCNXM
 - branch: stable
   date: '2021-04-18'
   downloads:
@@ -609,6 +689,16 @@
     android: '12.0'
     miui: V13.0.2.0.SJLCNXM
 - branch: stable
+  date: '2021-05-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/stable-12.05.2021/fw_bomb_miui_BOMB_V12.0.2.0.RJLCNXM_d86f93760c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/bomb/fw_bomb_miui_BOMB_V12.0.2.0.RJLCNXM_d86f93760c_11.0.zip
+  filename: fw_bomb_miui_BOMB_V12.0.2.0.RJLCNXM_d86f93760c_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.0.2.0.RJLCNXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/stable-06.06.2020/fw_bomb_miui_BOMB_V11.0.3.0.QJLCNXM_ac26c85fee_10.0.zip
@@ -628,6 +718,16 @@
   versions:
     android: '11.0'
     miui: V12.5.6.0.RJLCNXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/stable-04.06.2020/fw_bomb_miui_BOMB_V11.0.2.0.QJLCNXM_82eed40fe8_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/bomb/fw_bomb_miui_BOMB_V11.0.2.0.QJLCNXM_82eed40fe8_10.0.zip
+  filename: fw_bomb_miui_BOMB_V11.0.2.0.QJLCNXM_82eed40fe8_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QJLCNXM
 - branch: stable
   date: '2022-08-03'
   downloads:

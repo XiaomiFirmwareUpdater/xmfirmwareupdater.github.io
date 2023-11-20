@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 20 Nov 2023 00:36:59 </lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 06:56:39 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.5.0.TKHINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/alioth/</link>
+            <pubDate>Mon, 20 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.12.0.RCZEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/dandelion/</link>
+            <pubDate>Mon, 20 Nov 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>POCO M5/Redmi 11 Prime 4G (rock) - V14.0.9.0.TLUMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/rock/</link>
@@ -732,11 +742,6 @@
             <pubDate>Mon, 18 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.11.0.RCZEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/dandelion/</link>
-            <pubDate>Sun, 17 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 6 Pro (liuqin) - V14.0.9.0.TMYCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/liuqin/</link>
             <pubDate>Sun, 17 Sep 2023 00:00:00 </pubDate>
@@ -1110,11 +1115,6 @@
             <title>Redmi A1/POCO C50/A1+ (ice) - V13.0.13.0.SGMEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ice/</link>
             <pubDate>Tue, 18 Jul 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.4.0.TKHINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/alioth/</link>
-            <pubDate>Fri, 14 Jul 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V14.0.3.0.SJSINXM</title>
