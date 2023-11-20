@@ -744,6 +744,12 @@
   version: V14.0.4.0.TCVMIXM
 - android: '13.0'
   codename: earth
+  date: '2023-11-20'
+  download: https://bigota.d.miui.com/V14.0.4.0.TCVINXM/fw_earth_miui_EARTHINGlobal_V14.0.4.0.TCVINXM_e6f9b34a7d_13.0.zip
+  name: Redmi 12C/POCO C55
+  version: V14.0.4.0.TCVINXM
+- android: '13.0'
+  codename: earth
   date: '2023-09-19'
   download: https://bigota.d.miui.com/V14.0.3.0.TCVINXM/fw_earth_miui_EARTHINGlobal_V14.0.3.0.TCVINXM_65206f3e94_13.0.zip
   name: Redmi 12C/POCO C55
@@ -2200,6 +2206,12 @@
   download: https://bigota.d.miui.com/V14.0.12.0.TMBMIXM/fw_nuwa_miui_NUWAGlobal_V14.0.12.0.TMBMIXM_1a19a77d05_13.0.zip
   name: Xiaomi 13 Pro
   version: V14.0.12.0.TMBMIXM
+- android: '14.0'
+  codename: nuwa
+  date: '2023-11-20'
+  download: https://bigota.d.miui.com/V14.0.1.0.UMBINXM/fw_nuwa_miui_NUWAINGlobal_V14.0.1.0.UMBINXM_4bb456eea5_14.0.zip
+  name: Xiaomi 13 Pro
+  version: V14.0.1.0.UMBINXM
 - android: '13.0'
   codename: nuwa
   date: '2022-12-17'
@@ -2482,6 +2494,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TKTMIXM/fw_pissarro_miui_PISSARROGlobal_V14.0.4.0.TKTMIXM_8f50b7ddb8_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
   version: V14.0.4.0.TKTMIXM
+- android: '13.0'
+  codename: pissarro
+  date: '2023-11-20'
+  download: https://bigota.d.miui.com/V14.0.7.0.TKTMIXM/fw_pissarro_miui_PISSARROGlobal_V14.0.7.0.TKTMIXM_3cc01c5fa2_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: V14.0.7.0.TKTMIXM
 - android: '13.0'
   codename: pissarro
   date: '2023-07-20'
@@ -3322,6 +3340,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TGCINXM/fw_spes_miui_SPESINGlobal_V14.0.2.0.TGCINXM_0ab3ac3fee_13.0.zip
   name: Redmi Note 11
   version: V14.0.2.0.TGCINXM
+- android: '13.0'
+  codename: spes
+  date: '2023-11-20'
+  download: https://bigota.d.miui.com/V14.0.3.0.TGCINXM/fw_spes_miui_SPESINGlobal_V14.0.3.0.TGCINXM_2ec6c59f7e_13.0.zip
+  name: Redmi Note 11
+  version: V14.0.3.0.TGCINXM
 - android: '13.0'
   codename: spes
   date: '2023-10-10'

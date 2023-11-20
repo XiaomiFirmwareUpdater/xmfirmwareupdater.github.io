@@ -21259,6 +21259,16 @@
     android: '12.0'
     miui: V13.0.5.0.SCVCNXM
 - branch: stable
+  date: '2023-11-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-20.11.2023/fw_earth_miui_EARTHINGlobal_V14.0.4.0.TCVINXM_e6f9b34a7d_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/earth/fw_earth_miui_EARTHINGlobal_V14.0.4.0.TCVINXM_e6f9b34a7d_13.0.zip
+  filename: fw_earth_miui_EARTHINGlobal_V14.0.4.0.TCVINXM_e6f9b34a7d_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TCVINXM
+- branch: stable
   date: '2023-08-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-20.08.2023/fw_earth_miui_EARTHINGlobal_V13.0.4.0.SCVINXM_e07f536966_12.0.zip
@@ -39799,6 +39809,16 @@
     android: '13.0'
     miui: V14.0.12.0.TMBMIXM
 - branch: stable
+  date: '2023-11-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-20.11.2023/fw_nuwa_miui_NUWAINGlobal_V14.0.1.0.UMBINXM_4bb456eea5_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nuwa/fw_nuwa_miui_NUWAINGlobal_V14.0.1.0.UMBINXM_4bb456eea5_14.0.zip
+  filename: fw_nuwa_miui_NUWAINGlobal_V14.0.1.0.UMBINXM_4bb456eea5_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: V14.0.1.0.UMBINXM
+- branch: stable
   date: '2022-12-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-17.12.2022/fw_nuwa_miui_NUWA_V14.0.8.0.TMBCNXM_08bc7fba33_13.0.zip
@@ -45378,6 +45398,16 @@
   versions:
     android: '13.0'
     miui: V14.0.4.0.TKTMIXM
+- branch: stable
+  date: '2023-11-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-20.11.2023/fw_pissarro_miui_PISSARROGlobal_V14.0.7.0.TKTMIXM_3cc01c5fa2_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARROGlobal_V14.0.7.0.TKTMIXM_3cc01c5fa2_13.0.zip
+  filename: fw_pissarro_miui_PISSARROGlobal_V14.0.7.0.TKTMIXM_3cc01c5fa2_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.7.0.TKTMIXM
 - branch: stable
   date: '2021-11-20'
   downloads:
@@ -55258,6 +55288,16 @@
   versions:
     android: '12.0'
     miui: V13.0.1.0.SGCINXM
+- branch: stable
+  date: '2023-11-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spes/releases/download/stable-20.11.2023/fw_spes_miui_SPESINGlobal_V14.0.3.0.TGCINXM_2ec6c59f7e_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/spes/fw_spes_miui_SPESINGlobal_V14.0.3.0.TGCINXM_2ec6c59f7e_13.0.zip
+  filename: fw_spes_miui_SPESINGlobal_V14.0.3.0.TGCINXM_2ec6c59f7e_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TGCINXM
 - branch: stable
   date: '2022-05-20'
   downloads:

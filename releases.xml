@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 20 Nov 2023 06:56:39 </lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 16:09:37 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.5.0.TKHINXM</title>
@@ -14,6 +14,26 @@
         <item>
             <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.12.0.RCZEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/dandelion/</link>
+            <pubDate>Mon, 20 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 12C/POCO C55 (earth) - V14.0.4.0.TCVINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
+            <pubDate>Mon, 20 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - V14.0.1.0.UMBINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Mon, 20 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.7.0.TKTMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/pissarro/</link>
+            <pubDate>Mon, 20 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11 (spes) - V14.0.3.0.TGCINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/spes/</link>
             <pubDate>Mon, 20 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -707,11 +727,6 @@
             <pubDate>Tue, 19 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 12C/POCO C55 (earth) - V14.0.3.0.TCVINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Tue, 19 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.7.0.TMRMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
             <pubDate>Tue, 19 Sep 2023 00:00:00 </pubDate>
@@ -892,11 +907,6 @@
             <pubDate>Wed, 06 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13 Pro (nuwa) - V14.0.11.0.TMBINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Wed, 06 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.4.0.TMQEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Tue, 05 Sep 2023 00:00:00 </pubDate>
@@ -937,19 +947,9 @@
             <pubDate>Mon, 28 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.6.0.TKTMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/pissarro/</link>
-            <pubDate>Mon, 28 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12X (psyche) - V14.0.10.0.TLDCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/psyche/</link>
             <pubDate>Mon, 28 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 (spes) - V14.0.2.0.TGCINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/spes/</link>
-            <pubDate>Wed, 23 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 12 Pro Dimensity (daumier) - V14.0.9.0.TLGCNXM</title>
