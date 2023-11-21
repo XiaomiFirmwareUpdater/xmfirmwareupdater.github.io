@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 21 Nov 2023 06:36:44 </lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 13:35:18 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 12 (cupid) - V14.0.13.0.TLCEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/cupid/</link>
+            <pubDate>Tue, 21 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - V14.0.17.0.TLBEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
+            <pubDate>Tue, 21 Nov 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.5.0.TKHINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/alioth/</link>
@@ -862,18 +872,8 @@
             <pubDate>Sun, 10 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12 (cupid) - V14.0.12.0.TLCEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/cupid/</link>
-            <pubDate>Fri, 08 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 11S 5G (opal) - V14.0.4.0.TGLEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/opal/</link>
-            <pubDate>Fri, 08 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Pro (zeus) - V14.0.16.0.TLBEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Fri, 08 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
