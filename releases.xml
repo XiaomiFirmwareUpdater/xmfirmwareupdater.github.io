@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 22 Nov 2023 12:58:18 </lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 18:39:04 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 12 4G NFC (topaz) - V14.0.8.0.TMGMIXM</title>
@@ -1867,6 +1867,11 @@
             <pubDate>Wed, 17 Nov 2021 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Mi CC 9/Mi 9 Lite (pyxis) - V12.5.5.0.RFCCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/pyxis/</link>
+            <pubDate>Mon, 15 Nov 2021 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Mi CC 9 Meitu Edition (vela) - V12.5.5.0.RFECNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/vela/</link>
             <pubDate>Mon, 15 Nov 2021 00:00:00 </pubDate>
@@ -1990,11 +1995,6 @@
             <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V12.5.1.0.RFKEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/raphael/</link>
             <pubDate>Tue, 06 Jul 2021 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi CC 9/Mi 9 Lite (pyxis) - V12.5.3.0.RFCCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/pyxis/</link>
-            <pubDate>Mon, 05 Jul 2021 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi 9 SE (grus) - V12.5.1.0.RFBEUXM</title>
