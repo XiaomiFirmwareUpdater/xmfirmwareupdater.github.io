@@ -3996,6 +3996,12 @@
   version: V14.0.5.0.TKBEUXM
 - android: '13.0'
   codename: venus
+  date: '2023-11-22'
+  download: https://bigota.d.miui.com/V14.0.7.0.TKBMIXM/fw_venus_miui_VENUSGlobal_V14.0.7.0.TKBMIXM_319c3bbc92_13.0.zip
+  name: Mi 11
+  version: V14.0.7.0.TKBMIXM
+- android: '13.0'
+  codename: venus
   date: '2023-08-21'
   download: https://bigota.d.miui.com/V14.0.6.0.TKBEUXM/fw_venus_miui_VENUSEEAGlobal_V14.0.6.0.TKBEUXM_1920b2992d_13.0.zip
   name: Mi 11
