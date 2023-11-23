@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2023-11-06'
+  date: '2023-11-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-06.11.2023/fw_rosemary_miui_ROSEMARYGlobal_V13.0.16.0.SKLMIXM_2d281a998b_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rosemary/fw_rosemary_miui_ROSEMARYGlobal_V13.0.16.0.SKLMIXM_2d281a998b_12.0.zip
-  filename: fw_rosemary_miui_ROSEMARYGlobal_V13.0.16.0.SKLMIXM_2d281a998b_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-23.11.2023/fw_rosemary_miui_ROSEMARYGlobal_V14.0.8.0.TKLMIXM_374ebc3983_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/rosemary/fw_rosemary_miui_ROSEMARYGlobal_V14.0.8.0.TKLMIXM_374ebc3983_13.0.zip
+  filename: fw_rosemary_miui_ROSEMARYGlobal_V14.0.8.0.TKLMIXM_374ebc3983_13.0.zip
   region: Global
   versions:
-    android: '12.0'
-    miui: V13.0.16.0.SKLMIXM
+    android: '13.0'
+    miui: V14.0.8.0.TKLMIXM
 - branch: stable
   date: '2023-10-16'
   downloads:
