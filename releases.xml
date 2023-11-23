@@ -4,15 +4,30 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 23 Nov 2023 18:47:07 </lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 01:54:01 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 (houji) - OS1.0.24.0.UNCCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Thu, 23 Nov 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V14.0.8.0.TKLMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/rosemary/</link>
             <pubDate>Thu, 23 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 14 Pro/Ti (shennong) - OS1.0.25.0.UNBCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/shennong/</link>
+            <pubDate>Thu, 23 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.6.0.TMQMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
+            <pubDate>Thu, 23 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.4.0.TMQINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Thu, 23 Nov 2023 00:00:00 </pubDate>
         </item>
@@ -142,11 +157,6 @@
             <pubDate>Wed, 15 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 14 (houji) - OS1.0.20.0.UNCCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
-            <pubDate>Wed, 15 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K50G/POCO F4 GT (ingres) - V14.0.7.0.TLJEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ingres/</link>
             <pubDate>Wed, 15 Nov 2023 00:00:00 </pubDate>
@@ -204,11 +214,6 @@
         <item>
             <title>Xiaomi Pad 5 (nabu) - V14.0.7.0.TKXINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/nabu/</link>
-            <pubDate>Sat, 11 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Pro/Ti (shennong) - OS1.0.21.0.UNBCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/shennong/</link>
             <pubDate>Sat, 11 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -529,11 +534,6 @@
         <item>
             <title>Xiaomi 13 Ultra (ishtar) - V14.0.20.0.TMACNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ishtar/</link>
-            <pubDate>Tue, 17 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.25.0.TMRCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
             <pubDate>Tue, 17 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -977,11 +977,6 @@
             <pubDate>Tue, 22 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.3.0.TMQINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
-            <pubDate>Tue, 22 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.4.0.TKPMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/chopin/</link>
             <pubDate>Mon, 21 Aug 2023 00:00:00 </pubDate>
@@ -1120,6 +1115,11 @@
             <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V14.0.3.0.SJSINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/gauguin/</link>
             <pubDate>Fri, 14 Jul 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.21.0.TMRCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
+            <pubDate>Wed, 12 Jul 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V14.0.3.0.TKSEUXM</title>

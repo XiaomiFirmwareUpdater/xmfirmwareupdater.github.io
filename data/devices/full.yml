@@ -28079,6 +28079,16 @@
     android: '14.0'
     miui: OS1.0.9.0.UNCCNXM
 - branch: stable
+  date: '2023-11-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-24.11.2023/fw_houji_miui_HOUJI_OS1.0.24.0.UNCCNXM_491d1bbdd1_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.24.0.UNCCNXM_491d1bbdd1_14.0.zip
+  filename: fw_houji_miui_HOUJI_OS1.0.24.0.UNCCNXM_491d1bbdd1_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.24.0.UNCCNXM
+- branch: stable
   date: '2023-11-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-16.11.2023/fw_houji_miui_HOUJI_OS1.0.20.0.UNCCNXM_c1cd2893e8_14.0.zip
@@ -35908,16 +35918,6 @@
   versions:
     android: '13.0'
     miui: V14.0.16.0.TMRCNXM
-- branch: stable
-  date: '2023-10-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-17.10.2023/fw_marble_miui_MARBLE_V14.0.25.0.TMRCNXM_9189e7c3a9_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLE_V14.0.25.0.TMRCNXM_9189e7c3a9_13.0.zip
-  filename: fw_marble_miui_MARBLE_V14.0.25.0.TMRCNXM_9189e7c3a9_13.0.zip
-  region: China
-  versions:
-    android: '13.0'
-    miui: V14.0.25.0.TMRCNXM
 - branch: stable
   date: '2023-08-13'
   downloads:
@@ -54339,6 +54339,16 @@
     android: '14.0'
     miui: OS1.0.9.0.UNBCNXM
 - branch: stable
+  date: '2023-11-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-24.11.2023/fw_shennong_miui_SHENNONG_OS1.0.25.0.UNBCNXM_b525a4f877_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/shennong/fw_shennong_miui_SHENNONG_OS1.0.25.0.UNBCNXM_b525a4f877_14.0.zip
+  filename: fw_shennong_miui_SHENNONG_OS1.0.25.0.UNBCNXM_b525a4f877_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.25.0.UNBCNXM
+- branch: stable
   date: '2023-11-11'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-12.11.2023/fw_shennong_miui_SHENNONG_OS1.0.21.0.UNBCNXM_c72d682b7d_14.0.zip
@@ -56578,6 +56588,16 @@
   versions:
     android: '12.0'
     miui: V14.0.6.0.SMQEUXM
+- branch: stable
+  date: '2023-11-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-24.11.2023/fw_sunstone_miui_SUNSTONEINGlobal_V14.0.4.0.TMQINXM_6581e78c30_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sunstone/fw_sunstone_miui_SUNSTONEINGlobal_V14.0.4.0.TMQINXM_6581e78c30_13.0.zip
+  filename: fw_sunstone_miui_SUNSTONEINGlobal_V14.0.4.0.TMQINXM_6581e78c30_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TMQINXM
 - branch: stable
   date: '2023-10-24'
   downloads:
@@ -65269,6 +65289,16 @@
     android: '11.0'
     miui: V13.0.4.0.RKCCNXM
 - branch: stable
+  date: '2022-08-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-29.08.2022/fw_veux_miui_VEUXEEAGlobal_V13.0.9.0.RKCEUXM_d47ec67b71_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUXEEAGlobal_V13.0.9.0.RKCEUXM_d47ec67b71_11.0.zip
+  filename: fw_veux_miui_VEUXEEAGlobal_V13.0.9.0.RKCEUXM_d47ec67b71_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V13.0.9.0.RKCEUXM
+- branch: stable
   date: '2023-05-29'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-29.05.2023/fw_veux_miui_VEUX_V14.0.1.0.TKCCNXM_0ebe59b3b1_13.0.zip
@@ -65298,6 +65328,16 @@
   versions:
     android: '12.0'
     miui: V13.0.2.0.SKCEUXM
+- branch: stable
+  date: '2022-10-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-25.10.2022/fw_veux_miui_VEUXGlobal_V13.0.4.0.SKCMIXM_6d83ad06f5_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUXGlobal_V13.0.4.0.SKCMIXM_6d83ad06f5_12.0.zip
+  filename: fw_veux_miui_VEUXGlobal_V13.0.4.0.SKCMIXM_6d83ad06f5_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SKCMIXM
 - branch: stable
   date: '2022-08-24'
   downloads:
@@ -65409,6 +65449,16 @@
     android: '13.0'
     miui: V14.0.4.0.TKCMIXM
 - branch: stable
+  date: '2023-04-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-20.04.2023/fw_veux_miui_VEUXINGlobal_V13.0.6.0.SKCINXM_beedff83a0_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUXINGlobal_V13.0.6.0.SKCINXM_beedff83a0_12.0.zip
+  filename: fw_veux_miui_VEUXINGlobal_V13.0.6.0.SKCINXM_beedff83a0_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.6.0.SKCINXM
+- branch: stable
   date: '2023-09-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-19.09.2023/fw_veux_miui_VEUXEEAGlobal_V14.0.2.0.TKCEUXM_1996821304_13.0.zip
@@ -65458,6 +65508,16 @@
   versions:
     android: '11.0'
     miui: V13.0.1.0.RKCEUXM
+- branch: stable
+  date: '2022-11-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-17.11.2022/fw_veux_miui_VEUXINGlobal_V13.0.3.0.SKCINXM_1e362f4eb7_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUXINGlobal_V13.0.3.0.SKCINXM_1e362f4eb7_12.0.zip
+  filename: fw_veux_miui_VEUXINGlobal_V13.0.3.0.SKCINXM_1e362f4eb7_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SKCINXM
 - branch: stable
   date: '2023-01-16'
   downloads:

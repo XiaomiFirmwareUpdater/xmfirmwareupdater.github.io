@@ -1836,12 +1836,6 @@
   version: V14.0.16.0.TMRCNXM
 - android: '13.0'
   codename: marble
-  date: '2023-10-17'
-  download: https://bigota.d.miui.com/V14.0.25.0.TMRCNXM/fw_marble_miui_MARBLE_V14.0.25.0.TMRCNXM_9189e7c3a9_13.0.zip
-  name: Redmi Note 12 Turbo/POCO F5
-  version: V14.0.25.0.TMRCNXM
-- android: '13.0'
-  codename: marble
   date: '2023-08-13'
   download: https://bigota.d.miui.com/V14.0.6.0.TMRMIXM/fw_marble_miui_MARBLEGlobal_V14.0.6.0.TMRMIXM_d2bfe5501e_13.0.zip
   name: Redmi Note 12 Turbo/POCO F5
@@ -3514,6 +3508,12 @@
   download: https://bigota.d.miui.com/V14.0.6.0.SMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_V14.0.6.0.SMQEUXM_85ffd31644_12.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
   version: V14.0.6.0.SMQEUXM
+- android: '13.0'
+  codename: sunstone
+  date: '2023-11-23'
+  download: https://bigota.d.miui.com/V14.0.4.0.TMQINXM/fw_sunstone_miui_SUNSTONEINGlobal_V14.0.4.0.TMQINXM_6581e78c30_13.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: V14.0.4.0.TMQINXM
 - android: '13.0'
   codename: sunstone
   date: '2023-10-24'
