@@ -564,18 +564,6 @@
   version: V14.0.12.0.TLCEUXM
 - android: '13.0'
   codename: cupid
-  date: '2023-05-04'
-  download: https://bigota.d.miui.com/V14.0.8.0.TLCEUXM/fw_cupid_miui_CUPIDEEAGlobal_V14.0.8.0.TLCEUXM_05e61edf0a_13.0.zip
-  name: Xiaomi 12
-  version: V14.0.8.0.TLCEUXM
-- android: '13.0'
-  codename: cupid
-  date: '2023-05-04'
-  download: https://bigota.d.miui.com/V14.0.3.0.TLCMIXM/fw_cupid_miui_CUPIDGlobal_V14.0.3.0.TLCMIXM_f2821215d0_13.0.zip
-  name: Xiaomi 12
-  version: V14.0.3.0.TLCMIXM
-- android: '13.0'
-  codename: cupid
   date: '2023-11-02'
   download: https://bigota.d.miui.com/V14.0.8.0.TLCCNXM/fw_cupid_miui_CUPID_V14.0.8.0.TLCCNXM_3d64b282e7_13.0.zip
   name: Xiaomi 12
@@ -2574,10 +2562,22 @@
   version: V14.0.7.0.ULQMIXM
 - android: '13.0'
   codename: plato
+  date: '2023-10-26'
+  download: https://bigota.d.miui.com/V14.0.16.0.TLQEUXM/fw_plato_miui_PLATOEEAGlobal_V14.0.16.0.TLQEUXM_8488840871_13.0.zip
+  name: Xiaomi 12T
+  version: V14.0.16.0.TLQEUXM
+- android: '13.0'
+  codename: plato
   date: '2023-06-25'
   download: https://bigota.d.miui.com/V14.0.5.0.TLQMIXM/fw_plato_miui_PLATOGlobal_V14.0.5.0.TLQMIXM_6152b49758_13.0.zip
   name: Xiaomi 12T
   version: V14.0.5.0.TLQMIXM
+- android: '13.0'
+  codename: plato
+  date: '2023-07-24'
+  download: https://bigota.d.miui.com/V14.0.12.0.TLQEUXM/fw_plato_miui_PLATOEEAGlobal_V14.0.12.0.TLQEUXM_795a3a4420_13.0.zip
+  name: Xiaomi 12T
+  version: V14.0.12.0.TLQEUXM
 - android: '13.0'
   codename: plato
   date: '2023-08-23'
