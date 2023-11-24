@@ -73,6 +73,8 @@ minutemedia.com, 01gya4708ddm, RESELLER
 smartadserver.com, 4304, DIRECT, 060d053dcf45cbf3
 visiblemeasures.com, 1052, RESELLER
 admedia.com, AM1601, RESELLER
+triplelift.com, 6214, DIRECT, 6c33edb13117fd86
+undertone.com, 4205, RESELLER, d954590d0cb265b9
 
 #amx
 amxrtb.com, 105199361, DIRECT
@@ -98,6 +100,11 @@ openx.com, 540031703, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
 yahoo.com, 55771, RESELLER, e1a5b5b6e3255540
 rubiconproject.com, 23644, RESELLER, 0bfd66d529a55807
+lijit.com, 411121, RESELLER, fafdf38b16bf6b2b #SOVRN
+admanmedia.com, 2050, RESELLER
+appnerve.com, 187287, RESELLER
+contextweb.com, 561998, RESELLER, 89ff185a4c4e857c
+smartyads.com, 300045, RESELLER, fd2bde0ff2e62c5d
 
 #criteo
 criteo.com, B-062414, DIRECT, 9fac4a4a87c2a44f
@@ -678,6 +685,11 @@ smartadserver.com, 4012, RESELLER
 
 # 23-10
 outbrain.com, 0000839dda52f0e53f6c0e6030a6a2f5a1, RESELLER
+vidoomy.com, 7763608, RESELLER
+152media.info, 152M728, RESELLER
+e-planning.net, c0749812fd2a9ac4, RESELLER, c1ba615865ed87b2
+bizzclick.com, 292, RESELLER, 7e936b1feafdaa61
+mediafuse.com, 729, RESELLER
 
 #sonobi
 sonobi.com, 4d443a3ea2, RESELLER, d1a215d9eb5aee9e
