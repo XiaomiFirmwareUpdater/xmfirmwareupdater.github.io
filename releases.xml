@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 26 Nov 2023 18:37:45 </lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 00:37:18 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.13.0.TKOCNXM</title>
@@ -399,11 +399,6 @@
         <item>
             <title>Redmi 12 (fire) - V14.0.11.0.TMXEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fire/</link>
-            <pubDate>Wed, 25 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Lite (taoyao) - V14.0.21.0.TLIEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/taoyao/</link>
             <pubDate>Wed, 25 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -975,6 +970,11 @@
             <title>Xiaomi 12X (psyche) - V14.0.10.0.TLDCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/psyche/</link>
             <pubDate>Mon, 28 Aug 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Lite (taoyao) - V14.0.19.0.TLIEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/taoyao/</link>
+            <pubDate>Wed, 23 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 12 Pro Dimensity (daumier) - V14.0.9.0.TLGCNXM</title>

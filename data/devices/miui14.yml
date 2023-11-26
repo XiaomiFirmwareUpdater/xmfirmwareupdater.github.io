@@ -3708,12 +3708,6 @@
   version: V14.0.5.0.TLIEUXM
 - android: '13.0'
   codename: taoyao
-  date: '2023-10-25'
-  download: https://bigota.d.miui.com/V14.0.21.0.TLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.21.0.TLIEUXM_76aac7323a_13.0.zip
-  name: Xiaomi 12 Lite
-  version: V14.0.21.0.TLIEUXM
-- android: '13.0'
-  codename: taoyao
   date: '2023-06-25'
   download: https://bigota.d.miui.com/V14.0.14.0.TLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.14.0.TLIEUXM_de898d7207_13.0.zip
   name: Xiaomi 12 Lite
