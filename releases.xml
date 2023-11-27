@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 27 Nov 2023 12:38:52 </lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 19:08:32 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - V14.0.15.0.TMLEUXM</title>
@@ -14,6 +14,11 @@
         <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.6.0.TMOMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Mon, 27 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.8.0.TMWCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
             <pubDate>Mon, 27 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -209,11 +214,6 @@
         <item>
             <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.5.0.TMSMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/redwood/</link>
-            <pubDate>Mon, 13 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.7.0.TMWCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
             <pubDate>Mon, 13 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
