@@ -414,6 +414,12 @@
   version: V14.0.3.0.TJACNXM
 - android: '13.0'
   codename: corot
+  date: '2023-11-27'
+  download: https://bigota.d.miui.com/V14.0.15.0.TMLEUXM/fw_corot_miui_COROTEEAGlobal_V14.0.15.0.TMLEUXM_2c44bec48c_13.0.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: V14.0.15.0.TMLEUXM
+- android: '13.0'
+  codename: corot
   date: '2023-09-26'
   download: https://bigota.d.miui.com/V14.0.11.0.TMLEUXM/fw_corot_miui_COROTEEAGlobal_V14.0.11.0.TMLEUXM_9908b54d89_13.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
@@ -3058,6 +3064,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TMOMIXM/fw_ruby_miui_RUBYGlobal_V14.0.2.0.TMOMIXM_462250ba10_13.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: V14.0.2.0.TMOMIXM
+- android: '13.0'
+  codename: ruby
+  date: '2023-11-27'
+  download: https://bigota.d.miui.com/V14.0.6.0.TMOMIXM/fw_ruby_miui_RUBYGlobal_V14.0.6.0.TMOMIXM_ce09b50573_13.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: V14.0.6.0.TMOMIXM
 - android: '12.0'
   codename: ruby
   date: '2023-05-25'
@@ -3706,6 +3718,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.5.0.TLIEUXM_902d0638de_13.0.zip
   name: Xiaomi 12 Lite
   version: V14.0.5.0.TLIEUXM
+- android: '13.0'
+  codename: taoyao
+  date: '2023-10-25'
+  download: https://bigota.d.miui.com/V14.0.21.0.TLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.21.0.TLIEUXM_76aac7323a_13.0.zip
+  name: Xiaomi 12 Lite
+  version: V14.0.21.0.TLIEUXM
 - android: '13.0'
   codename: taoyao
   date: '2023-06-25'
