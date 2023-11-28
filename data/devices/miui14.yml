@@ -1962,6 +1962,12 @@
   version: V14.0.10.0.TLTCNXM
 - android: '12.0'
   codename: mojito
+  date: '2023-11-28'
+  download: https://bigota.d.miui.com/V14.0.5.0.SKGINXM/fw_mojito_miui_MOJITOINGlobal_V14.0.5.0.SKGINXM_94c89dca01_12.0.zip
+  name: Redmi Note 10
+  version: V14.0.5.0.SKGINXM
+- android: '12.0'
+  codename: mojito
   date: '2023-10-27'
   download: https://bigota.d.miui.com/V14.0.8.0.SKGMIXM/fw_mojito_miui_MOJITOGlobal_V14.0.8.0.SKGMIXM_6c581b2898_12.0.zip
   name: Redmi Note 10
