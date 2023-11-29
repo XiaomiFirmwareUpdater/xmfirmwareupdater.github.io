@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2023-11-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-29.11.2023/fw_xun_miui_XUN_V14.0.7.0.TMUCNXM_4fca1c9eb8_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/xun/fw_xun_miui_XUN_V14.0.7.0.TMUCNXM_4fca1c9eb8_13.0.zip
+  filename: fw_xun_miui_XUN_V14.0.7.0.TMUCNXM_4fca1c9eb8_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.7.0.TMUCNXM
+- branch: stable
   date: '2023-09-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-25.09.2023/fw_xun_miui_XUNEEAGlobal_V14.0.3.0.TMUEUXM_f8cfc20eb5_13.0.zip

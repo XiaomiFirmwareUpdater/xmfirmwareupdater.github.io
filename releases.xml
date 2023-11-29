@@ -4,11 +4,26 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 29 Nov 2023 07:01:58 </lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 13:43:31 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.18.0.TLFEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
+            <pubDate>Wed, 29 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Lite (taoyao) - V14.0.24.0.TLIEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/taoyao/</link>
+            <pubDate>Wed, 29 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 11T Pro (vili) - V14.0.14.0.TKDEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/vili/</link>
+            <pubDate>Wed, 29 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE (xun) - V14.0.7.0.TMUCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
             <pubDate>Wed, 29 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -412,11 +427,6 @@
             <pubDate>Wed, 25 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12 Lite (taoyao) - V14.0.21.0.TLIEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/taoyao/</link>
-            <pubDate>Wed, 25 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V14.0.7.0.TKKMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/haydn/</link>
             <pubDate>Tue, 24 Oct 2023 00:00:00 </pubDate>
@@ -752,11 +762,6 @@
             <pubDate>Fri, 22 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad SE (xun) - V14.0.6.0.TMUCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
-            <pubDate>Thu, 21 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12 Pro (zeus) - V14.0.4.0.TLBINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Thu, 21 Sep 2023 00:00:00 </pubDate>
@@ -834,11 +839,6 @@
         <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.4.0.TMOINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Wed, 13 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 11T Pro (vili) - V14.0.12.0.TKDEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/vili/</link>
             <pubDate>Wed, 13 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
