@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 29 Nov 2023 01:01:53 </lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 07:01:58 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.18.0.TLFEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
+            <pubDate>Wed, 29 Nov 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 10 (mojito) - V14.0.5.0.SKGINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/mojito/</link>
@@ -394,11 +399,6 @@
         <item>
             <title>Redmi Note 9 5G (cannon) - V14.0.6.0.SJECNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/cannon/</link>
-            <pubDate>Wed, 25 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.17.0.TLFEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
             <pubDate>Wed, 25 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
