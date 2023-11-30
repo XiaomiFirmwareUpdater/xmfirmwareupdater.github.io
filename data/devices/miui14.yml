@@ -2590,6 +2590,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TKTCNXM/fw_pissarro_miui_PISSARRO_V14.0.2.0.TKTCNXM_4d70a38aaa_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
   version: V14.0.2.0.TKTCNXM
+- android: '13.0'
+  codename: plato
+  date: '2023-11-30'
+  download: https://bigota.d.miui.com/V14.0.17.0.TLQEUXM/fw_plato_miui_PLATOEEAGlobal_V14.0.17.0.TLQEUXM_b640197aba_13.0.zip
+  name: Xiaomi 12T
+  version: V14.0.17.0.TLQEUXM
 - android: '14.0'
   codename: plato
   date: '2023-10-30'

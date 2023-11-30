@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 30 Nov 2023 06:32:56 </lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 13:00:22 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 12T (plato) - V14.0.17.0.TLQEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/plato/</link>
+            <pubDate>Thu, 30 Nov 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.18.0.TLFEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
@@ -304,11 +309,6 @@
         <item>
             <title>Xiaomi Pad 6 (pipa) - V14.0.6.0.TMZINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/pipa/</link>
-            <pubDate>Mon, 06 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12T (plato) - V14.0.6.0.ULQEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/plato/</link>
             <pubDate>Mon, 06 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
