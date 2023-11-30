@@ -1,4 +1,10 @@
 - android: '14.0'
+  codename: duchamp
+  date: '2023-11-30'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNLCNXM/fw_duchamp_miui_DUCHAMP_OS1.0.4.0.UNLCNXM_6e77720de1_14.0.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS1.0.4.0.UNLCNXM
+- android: '14.0'
   codename: houji
   date: '2023-10-31'
   download: https://bigota.d.miui.com/OS1.0.11.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.11.0.UNCCNXM_8541c46b8d_14.0.zip
@@ -40,6 +46,12 @@
   download: https://bigota.d.miui.com/OS1.0.14.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.14.0.UNCCNXM_8cdf08a0dc_14.0.zip
   name: Xiaomi 14
   version: OS1.0.14.0.UNCCNXM
+- android: '14.0'
+  codename: manet
+  date: '2023-11-30'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNMCNXM/fw_manet_miui_MANET_OS1.0.4.0.UNMCNXM_013c13dda0_14.0.zip
+  name: Redmi K70 Pro
+  version: OS1.0.4.0.UNMCNXM
 - android: '14.0'
   codename: shennong
   date: '2023-10-31'

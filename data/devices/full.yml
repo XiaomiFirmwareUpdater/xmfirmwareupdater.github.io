@@ -19949,6 +19949,16 @@
     android: '10.0'
     miui: V11.0.2.0.QFJINXM
 - branch: stable
+  date: '2020-07-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_davinciin/releases/download/stable-03.07.2020/fw_davinciin_miui_DAVINCIININGlobal_V12.0.2.0.QFJINXM_160038cad3_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/davinciin/fw_davinciin_miui_DAVINCIININGlobal_V12.0.2.0.QFJINXM_160038cad3_10.0.zip
+  filename: fw_davinciin_miui_DAVINCIININGlobal_V12.0.2.0.QFJINXM_160038cad3_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QFJINXM
+- branch: stable
   date: '2019-07-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_davinciin/releases/download/stable-03.07.2019/fw_davinciin_miui_DAVINCIININGlobal_V10.3.3.0.PFJINXM_599f996c8b_9.0.zip
@@ -21188,6 +21198,16 @@
   versions:
     android: '13.0'
     miui: V14.0.7.0.TLFEUXM
+- branch: stable
+  date: '2023-11-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-30.11.2023/fw_duchamp_miui_DUCHAMP_OS1.0.4.0.UNLCNXM_6e77720de1_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/duchamp/fw_duchamp_miui_DUCHAMP_OS1.0.4.0.UNLCNXM_6e77720de1_14.0.zip
+  filename: fw_duchamp_miui_DUCHAMP_OS1.0.4.0.UNLCNXM_6e77720de1_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UNLCNXM
 - branch: stable
   date: '2023-10-31'
   downloads:
@@ -35838,6 +35858,16 @@
   versions:
     android: '8.1'
     miui: V11.0.10.0.OFIMIXM
+- branch: stable
+  date: '2023-11-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-30.11.2023/fw_manet_miui_MANET_OS1.0.4.0.UNMCNXM_013c13dda0_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/manet/fw_manet_miui_MANET_OS1.0.4.0.UNMCNXM_013c13dda0_14.0.zip
+  filename: fw_manet_miui_MANET_OS1.0.4.0.UNMCNXM_013c13dda0_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UNMCNXM
 - branch: stable
   date: '2023-03-29'
   downloads:
