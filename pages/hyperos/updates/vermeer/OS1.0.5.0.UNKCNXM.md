@@ -62,7 +62,7 @@ permalink: /hyperos/vermeer/stable/OS1.0.5.0.UNKCNXM/
                     <h5><b>Size: </b>7.0 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>None</h5>
+                    <h5><b>Release Date: </b>2023-12-01</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_VERMEER_OS1.0.5.0.UNKCNXM_164e6600c7_14.0.zip</span></h5>

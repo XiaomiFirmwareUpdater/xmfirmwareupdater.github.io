@@ -65389,6 +65389,16 @@
     android: '12.0'
     miui: V13.0.9.0.SKBCNXM
 - branch: stable
+  date: '2023-12-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-01.12.2023/fw_vermeer_miui_VERMEER_OS1.0.5.0.UNKCNXM_164e6600c7_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vermeer/fw_vermeer_miui_VERMEER_OS1.0.5.0.UNKCNXM_164e6600c7_14.0.zip
+  filename: fw_vermeer_miui_VERMEER_OS1.0.5.0.UNKCNXM_164e6600c7_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.5.0.UNKCNXM
+- branch: stable
   date: '2023-01-31'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-31.01.2023/fw_veux_miui_VEUXEEAGlobal_V13.0.4.0.SKCEUXM_2803cf13eb_12.0.zip
@@ -69349,6 +69359,16 @@
     android: '13.0'
     miui: V14.0.3.0.TMUMIXM
 - branch: stable
+  date: '2023-12-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-01.12.2023/fw_xun_miui_XUNGlobal_V14.0.4.0.TMUMIXM_b3ca8671a5_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/xun/fw_xun_miui_XUNGlobal_V14.0.4.0.TMUMIXM_b3ca8671a5_13.0.zip
+  filename: fw_xun_miui_XUNGlobal_V14.0.4.0.TMUMIXM_b3ca8671a5_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TMUMIXM
+- branch: stable
   date: '2020-09-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ysl/releases/download/stable-30.09.2020/fw_ysl_miui_HMS2Global_V12.0.2.0.PEFMIXM_668a87d737_9.0.zip
@@ -70308,6 +70328,16 @@
   versions:
     android: '13.0'
     miui: V14.0.1.0.TNOCNXM
+- branch: stable
+  date: '2023-10-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-13.10.2023/fw_zircon_miui_ZIRCON_V14.0.6.0.TNOCNXM_0b5917a12c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zircon/fw_zircon_miui_ZIRCON_V14.0.6.0.TNOCNXM_0b5917a12c_13.0.zip
+  filename: fw_zircon_miui_ZIRCON_V14.0.6.0.TNOCNXM_0b5917a12c_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TNOCNXM
 - branch: stable
   date: '2023-11-06'
   downloads:

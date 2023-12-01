@@ -94,3 +94,9 @@
   download: https://bigota.d.miui.com/OS1.0.14.0.UNBCNXM/fw_shennong_miui_SHENNONG_OS1.0.14.0.UNBCNXM_1769ea28b5_14.0.zip
   name: Xiaomi 14 Pro/Ti
   version: OS1.0.14.0.UNBCNXM
+- android: '14.0'
+  codename: vermeer
+  date: '2023-12-01'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.5.0.UNKCNXM_164e6600c7_14.0.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS1.0.5.0.UNKCNXM
