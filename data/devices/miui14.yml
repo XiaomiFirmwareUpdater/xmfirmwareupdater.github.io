@@ -4698,12 +4698,6 @@
   version: V14.0.1.0.TNOCNXM
 - android: '13.0'
   codename: zircon
-  date: '2023-10-13'
-  download: https://bigota.d.miui.com/V14.0.6.0.TNOCNXM/fw_zircon_miui_ZIRCON_V14.0.6.0.TNOCNXM_0b5917a12c_13.0.zip
-  name: Redmi Note 13 Pro+
-  version: V14.0.6.0.TNOCNXM
-- android: '13.0'
-  codename: zircon
   date: '2023-11-06'
   download: https://bigota.d.miui.com/V14.0.7.0.TNOCNXM/fw_zircon_miui_ZIRCON_V14.0.7.0.TNOCNXM_1062227fa3_13.0.zip
   name: Redmi Note 13 Pro+
@@ -4762,6 +4756,12 @@
   download: https://bigota.d.miui.com/V14.0.14.0.TLLCNXM/fw_ziyi_miui_ZIYI_V14.0.14.0.TLLCNXM_9e271d8259_13.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: V14.0.14.0.TLLCNXM
+- android: '13.0'
+  codename: ziyi
+  date: '2023-12-01'
+  download: https://bigota.d.miui.com/V14.0.12.0.TLLEUXM/fw_ziyi_miui_ZIYIEEAGlobal_V14.0.12.0.TLLEUXM_982f3377cb_13.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: V14.0.12.0.TLLEUXM
 - android: '12.0'
   codename: ziyi
   date: '2023-05-01'
