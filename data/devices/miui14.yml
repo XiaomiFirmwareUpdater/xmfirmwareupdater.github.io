@@ -1601,6 +1601,12 @@
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
   version: V14.0.7.0.TLSEUXM
 - android: '13.0'
+  codename: light
+  date: '2023-12-02'
+  download: https://bigota.d.miui.com/V14.0.9.0.TLSCNXM/fw_light_miui_LIGHT_V14.0.9.0.TLSCNXM_027d3de4a4_13.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: V14.0.9.0.TLSCNXM
+- android: '13.0'
   codename: lightcm
   date: '2023-10-23'
   download: https://bigota.d.miui.com/V14.0.8.0.TLSCNXM/fw_lightcm_miui_LIGHTCM_V14.0.8.0.TLSCNXM_7443c94d77_13.0.zip
@@ -3370,6 +3376,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TMWMIXM/fw_sky_miui_SKYGlobal_V14.0.1.0.TMWMIXM_a679c9761c_13.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
   version: V14.0.1.0.TMWMIXM
+- android: '13.0'
+  codename: sky
+  date: '2023-12-02'
+  download: https://bigota.d.miui.com/V14.0.6.0.TMWEUXM/fw_sky_miui_SKYEEAGlobal_V14.0.6.0.TMWEUXM_33ee15e777_13.0.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: V14.0.6.0.TMWEUXM
 - android: '13.0'
   codename: sky
   date: '2023-08-01'

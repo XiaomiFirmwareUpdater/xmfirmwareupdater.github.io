@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 02 Dec 2023 12:35:21 </lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 19:27:47 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V14.0.9.0.TLSCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/light/</link>
+            <pubDate>Sat, 02 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.6.0.TMWEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
+            <pubDate>Sat, 02 Dec 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K70/POCO F6 Pro (vermeer) - OS1.0.5.0.UNKCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/vermeer/</link>
@@ -452,11 +462,6 @@
             <pubDate>Tue, 24 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V14.0.7.0.TLSCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/light/</link>
-            <pubDate>Tue, 24 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.9.0.TMQCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Tue, 24 Oct 2023 00:00:00 </pubDate>
@@ -748,11 +753,6 @@
         </item>
         <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.2.0.TMWMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
-            <pubDate>Tue, 26 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.5.0.TMWEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
             <pubDate>Tue, 26 Sep 2023 00:00:00 </pubDate>
         </item>
@@ -2655,6 +2655,11 @@
             <title>Redmi 3S (land) - V10.2.2.0.MALMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/land/</link>
             <pubDate>Tue, 28 May 2019 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 3S (land) - V10.2.2.0.MALCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/land/</link>
+            <pubDate>Tue, 21 May 2019 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 4 Prime (markw) - V10.2.2.0.MBECNXM</title>

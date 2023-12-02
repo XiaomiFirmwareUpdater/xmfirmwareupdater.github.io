@@ -2218,6 +2218,16 @@
   versions:
     android: '6.0'
     miui: V10.2.2.0.MALMIXM
+- branch: stable
+  date: '2019-05-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_land/releases/download/stable-21.05.2019/fw_land_miui_HM3S_V10.2.2.0.MALCNXM_6fb1d75d0f_6.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/land/fw_land_miui_HM3S_V10.2.2.0.MALCNXM_6fb1d75d0f_6.0.zip
+  filename: fw_land_miui_HM3S_V10.2.2.0.MALCNXM_6fb1d75d0f_6.0.zip
+  region: China
+  versions:
+    android: '6.0'
+    miui: V10.2.2.0.MALCNXM
 - branch: weekly
   date: '2019-03-29'
   downloads:
@@ -2359,15 +2369,15 @@
     android: '13.0'
     miui: V14.0.6.0.TLSMIXM
 - branch: stable
-  date: '2023-10-24'
+  date: '2023-12-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-24.10.2023/fw_light_miui_LIGHT_V14.0.7.0.TLSCNXM_3698015d53_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/light/fw_light_miui_LIGHT_V14.0.7.0.TLSCNXM_3698015d53_13.0.zip
-  filename: fw_light_miui_LIGHT_V14.0.7.0.TLSCNXM_3698015d53_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-02.12.2023/fw_light_miui_LIGHT_V14.0.9.0.TLSCNXM_027d3de4a4_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/light/fw_light_miui_LIGHT_V14.0.9.0.TLSCNXM_027d3de4a4_13.0.zip
+  filename: fw_light_miui_LIGHT_V14.0.9.0.TLSCNXM_027d3de4a4_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.7.0.TLSCNXM
+    miui: V14.0.9.0.TLSCNXM
 - branch: stable
   date: '2023-10-02'
   downloads:
@@ -4439,15 +4449,15 @@
     android: '13.0'
     miui: V14.0.8.0.TMWCNXM
 - branch: stable
-  date: '2023-09-26'
+  date: '2023-12-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-26.09.2023/fw_sky_miui_SKYEEAGlobal_V14.0.5.0.TMWEUXM_44341fa4e9_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sky/fw_sky_miui_SKYEEAGlobal_V14.0.5.0.TMWEUXM_44341fa4e9_13.0.zip
-  filename: fw_sky_miui_SKYEEAGlobal_V14.0.5.0.TMWEUXM_44341fa4e9_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-02.12.2023/fw_sky_miui_SKYEEAGlobal_V14.0.6.0.TMWEUXM_33ee15e777_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sky/fw_sky_miui_SKYEEAGlobal_V14.0.6.0.TMWEUXM_33ee15e777_13.0.zip
+  filename: fw_sky_miui_SKYEEAGlobal_V14.0.6.0.TMWEUXM_33ee15e777_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TMWEUXM
+    miui: V14.0.6.0.TMWEUXM
 - branch: stable
   date: '2023-10-17'
   downloads:
