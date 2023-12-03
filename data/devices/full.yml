@@ -16989,26 +16989,6 @@
     android: '12.0'
     miui: V13.0.37.0.SLCCNXM
 - branch: stable
-  date: '2023-05-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-04.05.2023/fw_cupid_miui_CUPIDEEAGlobal_V14.0.8.0.TLCEUXM_05e61edf0a_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/cupid/fw_cupid_miui_CUPIDEEAGlobal_V14.0.8.0.TLCEUXM_05e61edf0a_13.0.zip
-  filename: fw_cupid_miui_CUPIDEEAGlobal_V14.0.8.0.TLCEUXM_05e61edf0a_13.0.zip
-  region: Europe
-  versions:
-    android: '13.0'
-    miui: V14.0.8.0.TLCEUXM
-- branch: stable
-  date: '2023-05-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-04.05.2023/fw_cupid_miui_CUPIDGlobal_V14.0.3.0.TLCMIXM_f2821215d0_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/cupid/fw_cupid_miui_CUPIDGlobal_V14.0.3.0.TLCMIXM_f2821215d0_13.0.zip
-  filename: fw_cupid_miui_CUPIDGlobal_V14.0.3.0.TLCMIXM_f2821215d0_13.0.zip
-  region: Global
-  versions:
-    android: '13.0'
-    miui: V14.0.3.0.TLCMIXM
-- branch: stable
   date: '2023-11-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-02.11.2023/fw_cupid_miui_CUPID_V14.0.8.0.TLCCNXM_3d64b282e7_13.0.zip
@@ -55059,16 +55039,6 @@
     android: '9.0'
     miui: 8.12.20
 - branch: weekly
-  date: '2018-12-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sirius/releases/download/weekly-14.12.2018/fw_sirius_miui_MI8SE_8.12.13_27593d2489_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.13/sirius/fw_sirius_miui_MI8SE_8.12.13_27593d2489_9.0.zip
-  filename: fw_sirius_miui_MI8SE_8.12.13_27593d2489_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 8.12.13
-- branch: weekly
   date: '2018-10-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sirius/releases/download/weekly-26.10.2018/fw_sirius_miui_MI8SE_8.10.25_9f263a15f0_8.1.zip
@@ -55088,16 +55058,6 @@
   versions:
     android: '8.1'
     miui: 8.10.18
-- branch: weekly
-  date: '2018-10-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sirius/releases/download/weekly-15.10.2018/fw_sirius_miui_MI8SE_8.9.20_7621da635f_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/sirius/fw_sirius_miui_MI8SE_8.9.20_7621da635f_8.1.zip
-  filename: fw_sirius_miui_MI8SE_8.9.20_7621da635f_8.1.zip
-  region: China
-  versions:
-    android: '8.1'
-    miui: 8.9.20
 - branch: stable
   date: '2018-10-06'
   downloads:
@@ -56649,6 +56609,16 @@
     android: '11.0'
     miui: V12.5.20.0.RKACNXM
 - branch: stable
+  date: '2021-10-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-04.10.2021/fw_star_miui_STAR_V12.5.17.0.RKACNXM_9cc0f1e5a5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STAR_V12.5.17.0.RKACNXM_9cc0f1e5a5_11.0.zip
+  filename: fw_star_miui_STAR_V12.5.17.0.RKACNXM_9cc0f1e5a5_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.17.0.RKACNXM
+- branch: stable
   date: '2023-10-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-03.10.2023/fw_star_miui_STAR_V14.0.11.0.TKACNXM_cdad1fda37_13.0.zip
@@ -56678,6 +56648,16 @@
   versions:
     android: '12.0'
     miui: V13.0.3.0.SKAINXM
+- branch: stable
+  date: '2022-04-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-02.04.2022/fw_star_miui_STAR_V13.0.10.0.SKACNXM_ccc25df1dc_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/star/fw_star_miui_STAR_V13.0.10.0.SKACNXM_ccc25df1dc_12.0.zip
+  filename: fw_star_miui_STAR_V13.0.10.0.SKACNXM_ccc25df1dc_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.10.0.SKACNXM
 - branch: stable
   date: '2023-08-28'
   downloads:
