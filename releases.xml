@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 03 Dec 2023 00:34:11 </lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 07:03:52 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.5.0.UNLCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Sun, 03 Dec 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V14.0.9.0.TLSCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/light/</link>
@@ -30,11 +35,6 @@
             <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.12.0.TLLEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Fri, 01 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.4.0.UNLCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Thu, 30 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K70 Pro (manet) - OS1.0.4.0.UNMCNXM</title>

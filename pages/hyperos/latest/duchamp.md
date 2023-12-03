@@ -53,7 +53,7 @@ permalink: /hyperos/duchamp/
                 </thead>
                 <tbody>
                 <tr><td>Redmi K70E China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UNLCNXM</td><td>14.0</td><td>448 Bytes</td><td>None</td><td><a href="/hyperos/duchamp/stable/OS1.0.5.0.UNLCNXM/">Download</a></td></tr>
-<tr><td>Redmi K70E China</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UNLCNXM</td><td>14.0</td><td>6.3 GB</td><td>None</td><td><a href="/hyperos/duchamp/stable/OS1.0.5.0.UNLCNXM/">Download</a></td></tr>
+<tr><td>Redmi K70E China</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UNLCNXM</td><td>14.0</td><td>6.3 GB</td><td>2023-12-03</td><td><a href="/hyperos/duchamp/stable/OS1.0.5.0.UNLCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70E China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UNLCNXM</td><td>14.0</td><td>6.3 GB</td><td>2023-11-30</td><td><a href="/hyperos/duchamp/stable beta/OS1.0.4.0.UNLCNXM/">Download</a></td></tr>
 
                 </tbody>

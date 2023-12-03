@@ -62,7 +62,7 @@ permalink: /hyperos/duchamp/stable/OS1.0.5.0.UNLCNXM/
                     <h5><b>Size: </b>6.3 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>None</h5>
+                    <h5><b>Release Date: </b>2023-12-03</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_DUCHAMP_OS1.0.5.0.UNLCNXM_e4365a30e5_14.0.zip</span></h5>

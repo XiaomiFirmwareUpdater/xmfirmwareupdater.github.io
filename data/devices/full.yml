@@ -21209,6 +21209,16 @@
     android: '14.0'
     miui: OS1.0.4.0.UNLCNXM
 - branch: stable
+  date: '2023-12-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-03.12.2023/fw_duchamp_miui_DUCHAMP_OS1.0.5.0.UNLCNXM_e4365a30e5_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/duchamp/fw_duchamp_miui_DUCHAMP_OS1.0.5.0.UNLCNXM_e4365a30e5_14.0.zip
+  filename: fw_duchamp_miui_DUCHAMP_OS1.0.5.0.UNLCNXM_e4365a30e5_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.5.0.UNLCNXM
+- branch: stable
   date: '2023-10-31'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-31.10.2023/fw_earth_miui_EARTH_V13.0.10.0.SCVCNXM_d252e1bf0e_12.0.zip
@@ -56639,16 +56649,6 @@
     android: '11.0'
     miui: V12.5.20.0.RKACNXM
 - branch: stable
-  date: '2021-10-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-04.10.2021/fw_star_miui_STAR_V12.5.17.0.RKACNXM_9cc0f1e5a5_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STAR_V12.5.17.0.RKACNXM_9cc0f1e5a5_11.0.zip
-  filename: fw_star_miui_STAR_V12.5.17.0.RKACNXM_9cc0f1e5a5_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.17.0.RKACNXM
-- branch: stable
   date: '2023-10-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-03.10.2023/fw_star_miui_STAR_V14.0.11.0.TKACNXM_cdad1fda37_13.0.zip
@@ -56678,16 +56678,6 @@
   versions:
     android: '12.0'
     miui: V13.0.3.0.SKAINXM
-- branch: stable
-  date: '2022-04-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-02.04.2022/fw_star_miui_STAR_V13.0.10.0.SKACNXM_ccc25df1dc_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/star/fw_star_miui_STAR_V13.0.10.0.SKACNXM_ccc25df1dc_12.0.zip
-  filename: fw_star_miui_STAR_V13.0.10.0.SKACNXM_ccc25df1dc_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: V13.0.10.0.SKACNXM
 - branch: stable
   date: '2023-08-28'
   downloads:
