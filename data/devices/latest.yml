@@ -911,13 +911,13 @@
 - branch: stable
   date: '2023-12-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-03.12.2023/fw_corot_miui_COROT_OS1.0.4.0.UMLCNXM_a5903dd20a_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/corot/fw_corot_miui_COROT_OS1.0.4.0.UMLCNXM_a5903dd20a_14.0.zip
-  filename: fw_corot_miui_COROT_OS1.0.4.0.UMLCNXM_a5903dd20a_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-04.12.2023/fw_corot_miui_COROT_OS1.0.5.0.UMLCNXM_a2e2e5f060_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/corot/fw_corot_miui_COROT_OS1.0.5.0.UMLCNXM_a2e2e5f060_14.0.zip
+  filename: fw_corot_miui_COROT_OS1.0.5.0.UMLCNXM_a2e2e5f060_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.UMLCNXM
+    miui: OS1.0.5.0.UMLCNXM
 - branch: stable
   date: '2023-11-27'
   downloads:

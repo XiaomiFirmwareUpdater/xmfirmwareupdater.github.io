@@ -1,16 +1,16 @@
 ---
-title: Redmi K60 Ultra China HyperOS OS1.0.4.0.UMLCNXM Update
+title: Redmi K60 Ultra China HyperOS OS1.0.5.0.UMLCNXM Update
 layout: download
 name: Redmi K60 Ultra China
 codename: corot
-permalink: /hyperos/corot/stable/OS1.0.4.0.UMLCNXM/
+permalink: /hyperos/corot/stable beta/OS1.0.5.0.UMLCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/corot/">Redmi K60 Ultra China</a></li>
-        <li class="breadcrumb-item active" aria-current="page">OS1.0.4.0.UMLCNXM</li>
+        <li class="breadcrumb-item active" aria-current="page">OS1.0.5.0.UMLCNXM</li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -21,8 +21,8 @@ permalink: /hyperos/corot/stable/OS1.0.4.0.UMLCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.4.0.UMLCNXM Stable Official Update for Redmi K60 Ultra China (corot)</h3>
-    <h5>This page shows the OS1.0.4.0.UMLCNXM update only. If you're looking for other updates check
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.5.0.UMLCNXM Stable Beta Official Update for Redmi K60 Ultra China (corot)</h3>
+    <h5>This page shows the OS1.0.5.0.UMLCNXM update only. If you're looking for other updates check
         <a href="/hyperos/corot/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
         It's not owned, modified or edited by Xiaomi Firmware Updater.</p>
@@ -50,10 +50,10 @@ permalink: /hyperos/corot/stable/OS1.0.4.0.UMLCNXM/
                     <h5><b>Codename: </b> <a href="/hyperos/corot/" target="_blank">corot</a> </h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS1.0.4.0.UMLCNXM</h5>
+                    <h5><b>Version: </b>OS1.0.5.0.UMLCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable</h5>
+                    <h5><b>Branch: </b>Stable Beta</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -62,17 +62,17 @@ permalink: /hyperos/corot/stable/OS1.0.4.0.UMLCNXM/
                     <h5><b>Size: </b>6.4 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2023-11-30</h5>
+                    <h5><b>Release Date: </b>2023-12-01</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_COROT_OS1.0.4.0.UMLCNXM_a5903dd20a_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_COROT_OS1.0.5.0.UMLCNXM_a2e2e5f060_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">a5903dd20abd3e05796f84ff406cfc77</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">a2e2e5f060e32aa45c0276810f44665c</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary" style="margin: 7px;"
-                            onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UMLCNXM/miui_COROT_OS1.0.4.0.UMLCNXM_a5903dd20a_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM</button></h5>
+                            onclick="window.open('https://bigota.d.miui.com/OS1.0.5.0.UMLCNXM/miui_COROT_OS1.0.5.0.UMLCNXM_a2e2e5f060_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM</button><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.5.0.UMLCNXM/miui-blockota-corot-OS1.0.4.0.UMLCNXM-OS1.0.5.0.UMLCNXM-d7b5793578-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#corot_1_changelog" data-toggle="collapse" role="button"
