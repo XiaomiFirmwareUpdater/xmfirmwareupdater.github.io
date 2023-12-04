@@ -1869,15 +1869,15 @@
     android: '7.0'
     miui: 8.4.12
 - branch: stable
-  date: '2023-11-23'
+  date: '2023-12-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-24.11.2023/fw_houji_miui_HOUJI_OS1.0.24.0.UNCCNXM_491d1bbdd1_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.24.0.UNCCNXM_491d1bbdd1_14.0.zip
-  filename: fw_houji_miui_HOUJI_OS1.0.24.0.UNCCNXM_491d1bbdd1_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-04.12.2023/fw_houji_miui_HOUJI_OS1.0.25.0.UNCCNXM_f46161631e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.25.0.UNCCNXM_f46161631e_14.0.zip
+  filename: fw_houji_miui_HOUJI_OS1.0.25.0.UNCCNXM_f46161631e_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.24.0.UNCCNXM
+    miui: OS1.0.25.0.UNCCNXM
 - branch: stable
   date: '2019-05-13'
   downloads:
@@ -1979,15 +1979,15 @@
     android: '5.1'
     miui: V9.5.2.0.LAICNFA
 - branch: stable
-  date: '2023-09-06'
+  date: '2023-12-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-06.09.2023/fw_ingres_miui_INGRESGlobal_V14.0.4.0.TLJMIXM_b9584923e5_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ingres/fw_ingres_miui_INGRESGlobal_V14.0.4.0.TLJMIXM_b9584923e5_13.0.zip
-  filename: fw_ingres_miui_INGRESGlobal_V14.0.4.0.TLJMIXM_b9584923e5_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-04.12.2023/fw_ingres_miui_INGRESGlobal_V14.0.5.0.TLJMIXM_99afcfec6a_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ingres/fw_ingres_miui_INGRESGlobal_V14.0.5.0.TLJMIXM_99afcfec6a_13.0.zip
+  filename: fw_ingres_miui_INGRESGlobal_V14.0.5.0.TLJMIXM_99afcfec6a_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TLJMIXM
+    miui: V14.0.5.0.TLJMIXM
 - branch: stable
   date: '2023-08-28'
   downloads:
@@ -4389,15 +4389,15 @@
     android: '13.0'
     miui: V14.0.2.0.TKUCNXM
 - branch: stable
-  date: '2023-11-23'
+  date: '2023-12-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-24.11.2023/fw_shennong_miui_SHENNONG_OS1.0.25.0.UNBCNXM_b525a4f877_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/shennong/fw_shennong_miui_SHENNONG_OS1.0.25.0.UNBCNXM_b525a4f877_14.0.zip
-  filename: fw_shennong_miui_SHENNONG_OS1.0.25.0.UNBCNXM_b525a4f877_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-04.12.2023/fw_shennong_miui_SHENNONG_OS1.0.26.0.UNBCNXM_57d288267f_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/shennong/fw_shennong_miui_SHENNONG_OS1.0.26.0.UNBCNXM_57d288267f_14.0.zip
+  filename: fw_shennong_miui_SHENNONG_OS1.0.26.0.UNBCNXM_57d288267f_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.25.0.UNBCNXM
+    miui: OS1.0.26.0.UNBCNXM
 - branch: stable
   date: '2022-08-03'
   downloads:

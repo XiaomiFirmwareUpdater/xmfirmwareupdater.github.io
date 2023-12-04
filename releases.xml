@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 04 Dec 2023 14:00:05 </lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 20:05:39 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 (houji) - OS1.0.25.0.UNCCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Mon, 04 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K50G/POCO F4 GT (ingres) - V14.0.5.0.TLJMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ingres/</link>
+            <pubDate>Mon, 04 Dec 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 12T Pro (pearl) - V14.0.10.0.TLHCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/pearl/</link>
@@ -14,6 +24,11 @@
         <item>
             <title>Xiaomi 12X (psyche) - V14.0.5.0.TLDMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/psyche/</link>
+            <pubDate>Mon, 04 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 Pro/Ti (shennong) - OS1.0.26.0.UNBCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/shennong/</link>
             <pubDate>Mon, 04 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -132,18 +147,8 @@
             <pubDate>Fri, 24 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 14 (houji) - OS1.0.24.0.UNCCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
-            <pubDate>Thu, 23 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V14.0.8.0.TKLMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/rosemary/</link>
-            <pubDate>Thu, 23 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Pro/Ti (shennong) - OS1.0.25.0.UNBCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/shennong/</link>
             <pubDate>Thu, 23 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -960,11 +965,6 @@
             <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V14.0.4.0.TKCINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/veux/</link>
             <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K50G/POCO F4 GT (ingres) - V14.0.4.0.TLJMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ingres/</link>
-            <pubDate>Wed, 06 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.4.0.TMQEUXM</title>

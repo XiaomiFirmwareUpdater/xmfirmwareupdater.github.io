@@ -1398,6 +1398,12 @@
   version: V14.0.9.0.TLJCNXM
 - android: '13.0'
   codename: ingres
+  date: '2023-12-04'
+  download: https://bigota.d.miui.com/V14.0.5.0.TLJMIXM/fw_ingres_miui_INGRESGlobal_V14.0.5.0.TLJMIXM_99afcfec6a_13.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: V14.0.5.0.TLJMIXM
+- android: '13.0'
+  codename: ingres
   date: '2023-08-03'
   download: https://bigota.d.miui.com/V14.0.6.0.TLJEUXM/fw_ingres_miui_INGRESEEAGlobal_V14.0.6.0.TLJEUXM_07e7836805_13.0.zip
   name: Redmi K50G/POCO F4 GT
