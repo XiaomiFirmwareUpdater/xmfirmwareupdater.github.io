@@ -2704,6 +2704,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TLDEUXM/fw_psyche_miui_PSYCHEEEAGlobal_V14.0.1.0.TLDEUXM_c018cf7638_13.0.zip
   name: Xiaomi 12X
   version: V14.0.1.0.TLDEUXM
+- android: '13.0'
+  codename: psyche
+  date: '2023-12-04'
+  download: https://bigota.d.miui.com/V14.0.5.0.TLDMIXM/fw_psyche_miui_PSYCHEGlobal_V14.0.5.0.TLDMIXM_972058cfc3_13.0.zip
+  name: Xiaomi 12X
+  version: V14.0.5.0.TLDMIXM
 - android: '12.0'
   codename: redwood
   date: '2022-12-30'
@@ -3894,6 +3900,12 @@
   version: V14.0.6.0.TMTINXM
 - android: '13.0'
   codename: tapas
+  date: '2023-12-04'
+  download: https://bigota.d.miui.com/V14.0.9.0.TMTINXM/fw_tapas_miui_TAPASINGlobal_V14.0.9.0.TMTINXM_ac4b149f63_13.0.zip
+  name: Redmi Note 12 4G
+  version: V14.0.9.0.TMTINXM
+- android: '13.0'
+  codename: tapas
   date: '2023-04-04'
   download: https://bigota.d.miui.com/V14.0.2.0.TMTINXM/fw_tapas_miui_TAPASINGlobal_V14.0.2.0.TMTINXM_e1be94e1a0_13.0.zip
   name: Redmi Note 12 4G
@@ -3988,6 +4000,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TMGEUXM/fw_topaz_miui_TOPAZEEAGlobal_V14.0.2.0.TMGEUXM_e1fc034b56_13.0.zip
   name: Redmi Note 12 4G NFC
   version: V14.0.2.0.TMGEUXM
+- android: '13.0'
+  codename: topaz
+  date: '2023-12-04'
+  download: https://bigota.d.miui.com/V14.0.12.0.TMGEUXM/fw_topaz_miui_TOPAZEEAGlobal_V14.0.12.0.TMGEUXM_99ecb5b397_13.0.zip
+  name: Redmi Note 12 4G NFC
+  version: V14.0.12.0.TMGEUXM
 - android: '13.0'
   codename: topaz
   date: '2023-04-04'
@@ -4528,6 +4546,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TMUMIXM/fw_xun_miui_XUNGlobal_V14.0.3.0.TMUMIXM_c989403107_13.0.zip
   name: Redmi Pad SE
   version: V14.0.3.0.TMUMIXM
+- android: '13.0'
+  codename: xun
+  date: '2023-12-04'
+  download: https://bigota.d.miui.com/V14.0.4.0.TMUEUXM/fw_xun_miui_XUNEEAGlobal_V14.0.4.0.TMUEUXM_6625fbfd9a_13.0.zip
+  name: Redmi Pad SE
+  version: V14.0.4.0.TMUEUXM
 - android: '13.0'
   codename: xun
   date: '2023-12-01'

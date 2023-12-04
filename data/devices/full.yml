@@ -47939,6 +47939,16 @@
     android: '13.0'
     miui: V14.0.1.0.TLDEUXM
 - branch: stable
+  date: '2023-12-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-04.12.2023/fw_psyche_miui_PSYCHEGlobal_V14.0.5.0.TLDMIXM_972058cfc3_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/psyche/fw_psyche_miui_PSYCHEGlobal_V14.0.5.0.TLDMIXM_972058cfc3_13.0.zip
+  filename: fw_psyche_miui_PSYCHEGlobal_V14.0.5.0.TLDMIXM_972058cfc3_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TLDMIXM
+- branch: stable
   date: '2022-06-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-03.06.2022/fw_psyche_miui_PSYCHEEEAGlobal_V13.0.3.0.SLDEUXM_7b29cba800_12.0.zip
@@ -54591,16 +54601,6 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shiva/releases/download/stable-18.09.2020/fw_shiva_miui_SHIVAINGlobal_V11.0.4.0.QJRINXM_e691be106a_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/shiva/fw_shiva_miui_SHIVAINGlobal_V11.0.4.0.QJRINXM_e691be106a_10.0.zip
-  filename: fw_shiva_miui_SHIVAINGlobal_V11.0.4.0.QJRINXM_e691be106a_10.0.zip
-  region: India
-  versions:
-    android: '10.0'
-    miui: V11.0.4.0.QJRINXM
-- branch: stable
-  date: '2021-04-18'
-  downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shiva/releases/download/stable-12.04.2021/fw_shiva_miui_SHIVAINGlobal_V12.0.3.0.QJRINXM_04b03a59ec_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/shiva/fw_shiva_miui_SHIVAINGlobal_V12.0.3.0.QJRINXM_04b03a59ec_10.0.zip
   filename: fw_shiva_miui_SHIVAINGlobal_V12.0.3.0.QJRINXM_04b03a59ec_10.0.zip
@@ -58199,6 +58199,16 @@
     android: '13.0'
     miui: V14.0.6.0.TMTINXM
 - branch: stable
+  date: '2023-12-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-04.12.2023/fw_tapas_miui_TAPASINGlobal_V14.0.9.0.TMTINXM_ac4b149f63_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/tapas/fw_tapas_miui_TAPASINGlobal_V14.0.9.0.TMTINXM_ac4b149f63_13.0.zip
+  filename: fw_tapas_miui_TAPASINGlobal_V14.0.9.0.TMTINXM_ac4b149f63_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.9.0.TMTINXM
+- branch: stable
   date: '2023-04-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-04.04.2023/fw_tapas_miui_TAPASINGlobal_V14.0.2.0.TMTINXM_e1be94e1a0_13.0.zip
@@ -59248,6 +59258,16 @@
   versions:
     android: '13.0'
     miui: V14.0.2.0.TMGEUXM
+- branch: stable
+  date: '2023-12-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_topaz/releases/download/stable-04.12.2023/fw_topaz_miui_TOPAZEEAGlobal_V14.0.12.0.TMGEUXM_99ecb5b397_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/topaz/fw_topaz_miui_TOPAZEEAGlobal_V14.0.12.0.TMGEUXM_99ecb5b397_13.0.zip
+  filename: fw_topaz_miui_TOPAZEEAGlobal_V14.0.12.0.TMGEUXM_99ecb5b397_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.12.0.TMGEUXM
 - branch: stable
   date: '2023-04-04'
   downloads:
@@ -69408,6 +69428,16 @@
   versions:
     android: '13.0'
     miui: V14.0.3.0.TMUMIXM
+- branch: stable
+  date: '2023-12-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-04.12.2023/fw_xun_miui_XUNEEAGlobal_V14.0.4.0.TMUEUXM_6625fbfd9a_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/xun/fw_xun_miui_XUNEEAGlobal_V14.0.4.0.TMUEUXM_6625fbfd9a_13.0.zip
+  filename: fw_xun_miui_XUNEEAGlobal_V14.0.4.0.TMUEUXM_6625fbfd9a_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TMUEUXM
 - branch: stable
   date: '2023-12-01'
   downloads:
