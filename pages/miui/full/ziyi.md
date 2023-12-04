@@ -52,7 +52,8 @@ permalink: /archive/miui/ziyi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Civi 2 / 13 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.12.0.TLLEUXM</td><td>13.0</td><td>5.0 GB</td><td>2023-11-21</td><td><a href="/miui/ziyi/stable/V14.0.12.0.TLLEUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Civi 2 / 13 Lite Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TLLMIXM</td><td>13.0</td><td>5.0 GB</td><td>2023-11-30</td><td><a href="/miui/ziyi/stable beta/V14.0.5.0.TLLMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 2 / 13 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.12.0.TLLEUXM</td><td>13.0</td><td>5.0 GB</td><td>2023-11-21</td><td><a href="/miui/ziyi/stable/V14.0.12.0.TLLEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.12.0.TLLEUXM</td><td>13.0</td><td>7.3 GB</td><td>2023-11-06</td><td><a href="/miui/ziyi/stable/V14.0.12.0.TLLEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Lite Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TLLTRXM</td><td>13.0</td><td>4.9 GB</td><td>2023-11-17</td><td><a href="/miui/ziyi/stable beta/V14.0.3.0.TLLTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TLLTWXM</td><td>13.0</td><td>4.9 GB</td><td>2023-11-17</td><td><a href="/miui/ziyi/stable/V14.0.3.0.TLLTWXM/">Download</a></td></tr>
@@ -127,10 +128,10 @@ permalink: /archive/miui/ziyi/
 <tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Recovery</td><td>V13.0.14.0.SLLCNXM</td><td>12.0</td><td>5.6 GB</td><td>2023-01-17</td><td><a href="/miui/ziyi/stable/V13.0.14.0.SLLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Fastboot</td><td>V13.0.14.0.SLLCNXM</td><td>12.0</td><td>7.0 GB</td><td>2023-01-14</td><td><a href="/miui/ziyi/stable/V13.0.14.0.SLLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.13.0.SLLCNXM</td><td>12.0</td><td>5.6 GB</td><td>2023-01-10</td><td><a href="/miui/ziyi/stable beta/V13.0.13.0.SLLCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 / 13 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.SLLEUXM</td><td>12.0</td><td>4.7 GB</td><td>2023-01-09</td><td><a href="/miui/ziyi/stable/V14.0.4.0.SLLEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 / 13 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.SLLEUXM</td><td>12.0</td><td>6.9 GB</td><td>2023-01-05</td><td><a href="/miui/ziyi/stable/V14.0.4.0.SLLEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Recovery</td><td>V14.0.9.0.TLLCNXM</td><td>13.0</td><td>5.9 GB</td><td>2023-01-31</td><td><a href="/miui/ziyi/stable/V14.0.9.0.TLLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.9.0.TLLCNXM</td><td>13.0</td><td>7.4 GB</td><td>2023-01-29</td><td><a href="/miui/ziyi/stable/V14.0.9.0.TLLCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 2 / 13 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.SLLEUXM</td><td>12.0</td><td>4.7 GB</td><td>2023-01-09</td><td><a href="/miui/ziyi/stable/V14.0.4.0.SLLEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 2 / 13 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.SLLEUXM</td><td>12.0</td><td>6.9 GB</td><td>2023-01-05</td><td><a href="/miui/ziyi/stable/V14.0.4.0.SLLEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Recovery</td><td>V13.0.10.0.SLLCNXM</td><td>12.0</td><td>5.6 GB</td><td>2022-12-14</td><td><a href="/miui/ziyi/stable/V13.0.10.0.SLLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Fastboot</td><td>V13.0.10.0.SLLCNXM</td><td>12.0</td><td>7.1 GB</td><td>2022-12-07</td><td><a href="/miui/ziyi/stable/V13.0.10.0.SLLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Recovery</td><td>V13.0.9.0.SLLCNXM</td><td>12.0</td><td>5.6 GB</td><td>2022-11-19</td><td><a href="/miui/ziyi/stable/V13.0.9.0.SLLCNXM/">Download</a></td></tr>

@@ -2447,6 +2447,12 @@
   name: Redmi Note 12T Pro
   version: V14.0.9.0.TLHCNXM
 - android: '13.0'
+  codename: pearl
+  date: '2023-12-04'
+  download: https://bigota.d.miui.com/V14.0.10.0.TLHCNXM/fw_pearl_miui_PEARL_V14.0.10.0.TLHCNXM_cff164eb23_13.0.zip
+  name: Redmi Note 12T Pro
+  version: V14.0.10.0.TLHCNXM
+- android: '13.0'
   codename: pipa
   date: '2023-04-26'
   download: https://bigota.d.miui.com/V14.0.4.0.TMZCNXM/fw_pipa_miui_PIPA_V14.0.4.0.TMZCNXM_cde299f766_13.0.zip
@@ -3382,6 +3388,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TMWMIXM/fw_sky_miui_SKYGlobal_V14.0.1.0.TMWMIXM_a679c9761c_13.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
   version: V14.0.1.0.TMWMIXM
+- android: '13.0'
+  codename: sky
+  date: '2023-12-04'
+  download: https://bigota.d.miui.com/V14.0.8.0.TMWEUXM/fw_sky_miui_SKYEEAGlobal_V14.0.8.0.TMWEUXM_358a3bf60f_13.0.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: V14.0.8.0.TMWEUXM
 - android: '13.0'
   codename: sky
   date: '2023-12-02'
@@ -4804,6 +4816,12 @@
   download: https://bigota.d.miui.com/V14.0.14.0.TLLCNXM/fw_ziyi_miui_ZIYI_V14.0.14.0.TLLCNXM_9e271d8259_13.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: V14.0.14.0.TLLCNXM
+- android: '13.0'
+  codename: ziyi
+  date: '2023-12-04'
+  download: https://bigota.d.miui.com/V14.0.5.0.TLLMIXM/fw_ziyi_miui_ZIYIGlobal_V14.0.5.0.TLLMIXM_77409a3aad_13.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: V14.0.5.0.TLLMIXM
 - android: '13.0'
   codename: ziyi
   date: '2023-12-01'
