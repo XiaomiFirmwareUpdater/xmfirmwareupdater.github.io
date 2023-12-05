@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 05 Dec 2023 12:38:03 </lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 21:38:23 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.5.0.TKPMIXM</title>
@@ -12,8 +12,23 @@
             <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 13 (fuxi) - V14.0.9.0.UMCEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
+            <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - V14.0.9.0.UMBEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.5.0.TMOCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Lite (taoyao) - V14.0.8.0.TLIMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/taoyao/</link>
             <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -427,11 +442,6 @@
             <pubDate>Fri, 03 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12 Lite (taoyao) - V14.0.7.0.TLIMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/taoyao/</link>
-            <pubDate>Fri, 03 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13T (aristotle) - V14.0.11.0.TMFEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/aristotle/</link>
             <pubDate>Thu, 02 Nov 2023 00:00:00 </pubDate>
@@ -450,16 +460,6 @@
             <title>Xiaomi 12 Pro (zeus) - V14.0.15.0.TLBCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Thu, 02 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 (fuxi) - V14.0.6.0.UMCEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Tue, 31 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Pro (nuwa) - V14.0.6.0.UMBEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Tue, 31 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>POCO C40 (frost) - V13.0.10.0.RGFEUXM</title>

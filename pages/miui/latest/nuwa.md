@@ -58,8 +58,8 @@ permalink: /miui/nuwa/
 <tr><td>Xiaomi 13 Pro China</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.UMBCNXM</td><td>14.0</td><td>6.5 GB</td><td>2023-10-27</td><td><a href="/miui/nuwa/stable/V14.0.4.0.UMBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.18.DEV</td><td>13.0</td><td>6.4 GB</td><td>2023-09-22</td><td><a href="/miui/nuwa/public beta/V14.0.23.9.18.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.23.0.TMBCNXM</td><td>13.0</td><td>6.7 GB</td><td>2023-03-30</td><td><a href="/miui/nuwa/stable beta/V14.0.23.0.TMBCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.UMBEUXM</td><td>14.0</td><td>8.0 GB</td><td>2023-11-06</td><td><a href="/miui/nuwa/stable/V14.0.6.0.UMBEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.UMBEUXM</td><td>14.0</td><td>5.9 GB</td><td>2023-10-25</td><td><a href="/miui/nuwa/stable/V14.0.6.0.UMBEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.9.0.UMBEUXM</td><td>14.0</td><td>7.7 GB</td><td>2023-11-16</td><td><a href="/miui/nuwa/stable/V14.0.9.0.UMBEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.9.0.UMBEUXM</td><td>14.0</td><td>5.9 GB</td><td>2023-11-21</td><td><a href="/miui/nuwa/stable/V14.0.9.0.UMBEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.UMBMIXM</td><td>14.0</td><td>8.3 GB</td><td>2023-11-06</td><td><a href="/miui/nuwa/stable/V14.0.6.0.UMBMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro Global</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.UMBMIXM</td><td>14.0</td><td>5.8 GB</td><td>2023-10-24</td><td><a href="/miui/nuwa/stable/V14.0.6.0.UMBMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro India</td><td>Stable</td><td>Fastboot</td><td>V14.0.11.0.TMBINXM</td><td>13.0</td><td>6.2 GB</td><td>2023-08-22</td><td><a href="/miui/nuwa/stable/V14.0.11.0.TMBINXM/">Download</a></td></tr>

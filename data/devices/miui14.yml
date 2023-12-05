@@ -1156,6 +1156,12 @@
   download: https://bigota.d.miui.com/V14.0.21.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.21.0.TMCCNXM_a2d21eb89e_13.0.zip
   name: Xiaomi 13
   version: V14.0.21.0.TMCCNXM
+- android: '14.0'
+  codename: fuxi
+  date: '2023-12-05'
+  download: https://bigota.d.miui.com/V14.0.9.0.UMCEUXM/fw_fuxi_miui_FUXIEEAGlobal_V14.0.9.0.UMCEUXM_99c17c3590_14.0.zip
+  name: Xiaomi 13
+  version: V14.0.9.0.UMCEUXM
 - android: '13.0'
   codename: fuxi
   date: '2023-06-05'
@@ -2338,6 +2344,12 @@
   download: https://bigota.d.miui.com/V14.0.11.0.TMBINXM/fw_nuwa_miui_NUWAINGlobal_V14.0.11.0.TMBINXM_0434ae5c79_13.0.zip
   name: Xiaomi 13 Pro
   version: V14.0.11.0.TMBINXM
+- android: '14.0'
+  codename: nuwa
+  date: '2023-12-05'
+  download: https://bigota.d.miui.com/V14.0.9.0.UMBEUXM/fw_nuwa_miui_NUWAEEAGlobal_V14.0.9.0.UMBEUXM_af014e3105_14.0.zip
+  name: Xiaomi 13 Pro
+  version: V14.0.9.0.UMBEUXM
 - android: '13.0'
   codename: nuwa
   date: '2023-04-03'
@@ -3838,6 +3850,12 @@
   download: https://bigota.d.miui.com/V14.0.16.0.TLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.16.0.TLIEUXM_18a65aee40_13.0.zip
   name: Xiaomi 12 Lite
   version: V14.0.16.0.TLIEUXM
+- android: '13.0'
+  codename: taoyao
+  date: '2023-12-05'
+  download: https://bigota.d.miui.com/V14.0.8.0.TLIMIXM/fw_taoyao_miui_TAOYAOGlobal_V14.0.8.0.TLIMIXM_855fc95287_13.0.zip
+  name: Xiaomi 12 Lite
+  version: V14.0.8.0.TLIMIXM
 - android: '13.0'
   codename: taoyao
   date: '2023-06-03'
