@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 05 Dec 2023 00:34:40 </lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 08:05:21 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.5.0.TKPMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/chopin/</link>
+            <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.5.0.TMOCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.6.0.TLOINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
+            <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 14 (houji) - OS1.0.25.0.UNCCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
@@ -807,11 +822,6 @@
             <pubDate>Thu, 21 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.9.0.SMOCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Wed, 20 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad (yunluo) - V14.0.3.0.TLYMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/yunluo/</link>
             <pubDate>Wed, 20 Sep 2023 00:00:00 </pubDate>
@@ -869,11 +879,6 @@
         <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.4.0.TMOINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Wed, 13 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.4.0.TLOINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
             <pubDate>Wed, 13 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -1005,11 +1010,6 @@
             <title>Xiaomi 12 Pro Dimensity (daumier) - V14.0.9.0.TLGCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/daumier/</link>
             <pubDate>Tue, 22 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.4.0.TKPMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/chopin/</link>
-            <pubDate>Mon, 21 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V14.0.5.0.TKAEUXM</title>

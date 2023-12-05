@@ -372,6 +372,12 @@
   version: V14.0.1.0.TKPMIXM
 - android: '13.0'
   codename: chopin
+  date: '2023-12-05'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKPMIXM/fw_chopin_miui_CHOPINGlobal_V14.0.5.0.TKPMIXM_d4d24b2906_13.0.zip
+  name: Redmi Note 10 Pro 5G/POCO X3 GT
+  version: V14.0.5.0.TKPMIXM
+- android: '13.0'
+  codename: chopin
   date: '2023-05-04'
   download: https://bigota.d.miui.com/V14.0.6.0.TKPCNXM/fw_chopin_miui_CHOPIN_V14.0.6.0.TKPCNXM_278b0400f6_13.0.zip
   name: Redmi Note 10 Pro 5G/POCO X3 GT
@@ -3239,6 +3245,12 @@
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: V14.0.10.0.SMOEUXM
 - android: '13.0'
+  codename: ruby
+  date: '2023-12-05'
+  download: https://bigota.d.miui.com/V14.0.5.0.TMOCNXM/fw_ruby_miui_RUBY_V14.0.5.0.TMOCNXM_0a12ad124c_13.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: V14.0.5.0.TMOCNXM
+- android: '13.0'
   codename: sea
   date: '2023-07-24'
   download: https://bigota.d.miui.com/V14.0.3.0.THZEUXM/fw_sea_miui_SEAEEAGlobal_V14.0.3.0.THZEUXM_446d9944ef_13.0.zip
@@ -4534,6 +4546,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TLOMIXM/fw_xaga_miui_XAGAGlobal_V14.0.1.0.TLOMIXM_caa4d0d388_13.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: V14.0.1.0.TLOMIXM
+- android: '13.0'
+  codename: xaga
+  date: '2023-12-05'
+  download: https://bigota.d.miui.com/V14.0.6.0.TLOINXM/fw_xaga_miui_XAGAINGlobal_V14.0.6.0.TLOINXM_3b41cc4ccf_13.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: V14.0.6.0.TLOINXM
 - android: '13.0'
   codename: xaga
   date: '2023-06-04'
