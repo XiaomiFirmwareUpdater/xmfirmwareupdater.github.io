@@ -29,8 +29,7 @@
                     <h5><b>MD5: </b><span id="md5" class="text-muted">$md5</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary" style="margin: 7px;"
-                            onclick="window.open('$link', '_blank');"><i class="fa fa-download"></i> Full ROM</button>$incremental</h5>
+                    <h5><b>Download: </b>$incremental $download_buttons</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#$codename_$idx_changelog" data-toggle="collapse" role="button"

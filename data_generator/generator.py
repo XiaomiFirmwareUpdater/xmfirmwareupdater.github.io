@@ -413,6 +413,19 @@ def generate_miui_latest_table(item):
     )
 
 
+mirrors = [
+    "bigota.d.miui.com",
+    "ks3orig.bigota.d.miui.com",
+    "xiaomi-miui-ota-update.ks3-cn-beijing.ksyun.com",
+    "airtel.bigota.d.miui.com",
+    "hugeota.d.miui.com",
+    "superota.d.miui.com",
+    "ultimota.d.miui.com",
+]
+
+miui_download_button_template = """<button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('$link', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror $idx</button>"""
+
+
 def generate_update_info(update, idx):
     codename = update.codename.split("_")[0]
     page = miui_update_template
@@ -431,7 +444,16 @@ def generate_update_info(update, idx):
     page = Template(page).safe_substitute(date=update.date)
     page = Template(page).safe_substitute(filename=update.link.split("/")[-1])
     page = Template(page).safe_substitute(md5=update.md5 if update.md5 else "Unknown")
-    page = Template(page).safe_substitute(link=update.link)
+    download_links = [
+        f"https://{mirror}/{update.version}/{update.filename}" for mirror in mirrors
+    ]
+    download_buttons = " ".join(
+        [
+            Template(miui_download_button_template).safe_substitute(link=link, idx=idx)
+            for idx, link in enumerate(download_links, 1)
+        ]
+    )
+    page = Template(page).safe_substitute(download_buttons=download_buttons)
     if update.method == "Recovery":
         incremental = get_incremental(update.version)
         if incremental:
