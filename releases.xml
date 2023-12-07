@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 07 Dec 2023 12:35:40 </lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 19:28:40 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 12 (cupid) - V14.0.7.0.TLCMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/cupid/</link>
+            <pubDate>Thu, 07 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 13C/POCO C65 (gale) - V14.0.7.0.TGPMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/gale/</link>
+            <pubDate>Thu, 07 Dec 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K70 Pro (manet) - OS1.0.6.0.UNMCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/manet/</link>
@@ -299,11 +309,6 @@
         <item>
             <title>POCO M4 Pro 5G (evergreen) - V14.0.4.0.TGBEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/evergreen/</link>
-            <pubDate>Thu, 16 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 13C/POCO C65 (gale) - V14.0.6.0.TGPMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/gale/</link>
             <pubDate>Thu, 16 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -785,11 +790,6 @@
             <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V14.0.11.0.TKACNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/star/</link>
             <pubDate>Mon, 02 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 (cupid) - V14.0.6.0.TLCMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/cupid/</link>
-            <pubDate>Tue, 26 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.2.0.TMWMIXM</title>

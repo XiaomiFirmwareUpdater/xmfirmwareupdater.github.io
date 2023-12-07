@@ -16989,6 +16989,16 @@
     android: '13.0'
     miui: V14.0.12.0.TLCEUXM
 - branch: stable
+  date: '2023-12-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-07.12.2023/fw_cupid_miui_CUPIDGlobal_V14.0.7.0.TLCMIXM_d318c238b5_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/cupid/fw_cupid_miui_CUPIDGlobal_V14.0.7.0.TLCMIXM_d318c238b5_13.0.zip
+  filename: fw_cupid_miui_CUPIDGlobal_V14.0.7.0.TLCMIXM_d318c238b5_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.7.0.TLCMIXM
+- branch: stable
   date: '2022-08-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-04.08.2022/fw_cupid_miui_CUPID_V13.0.37.0.SLCCNXM_1b87deb2d5_12.0.zip
@@ -23918,6 +23928,16 @@
   versions:
     android: '13.0'
     miui: V14.0.6.0.TGPMIXM
+- branch: stable
+  date: '2023-12-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-07.12.2023/fw_gale_miui_GALEGlobal_V14.0.7.0.TGPMIXM_a162b65372_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/gale/fw_gale_miui_GALEGlobal_V14.0.7.0.TGPMIXM_a162b65372_13.0.zip
+  filename: fw_gale_miui_GALEGlobal_V14.0.7.0.TGPMIXM_a162b65372_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.7.0.TGPMIXM
 - branch: stable
   date: '2023-09-22'
   downloads:
@@ -42008,6 +42028,16 @@
   versions:
     android: '10.0'
     miui: V11.0.3.0.QFLEUXM
+- branch: stable
+  date: '2021-06-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onclite/releases/download/stable-24.06.2021/fw_onc_miui_ONCLITE_V12.5.1.0.QFLCNXM_9781c377d5_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/onclite/fw_onc_miui_ONCLITE_V12.5.1.0.QFLCNXM_9781c377d5_10.0.zip
+  filename: fw_onc_miui_ONCLITE_V12.5.1.0.QFLCNXM_9781c377d5_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.5.1.0.QFLCNXM
 - branch: stable
   date: '2021-11-11'
   downloads:

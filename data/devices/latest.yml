@@ -979,15 +979,15 @@
     android: '11.0'
     miui: 21.11.24
 - branch: stable
-  date: '2023-09-26'
+  date: '2023-12-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-26.09.2023/fw_cupid_miui_CUPIDGlobal_V14.0.6.0.TLCMIXM_ccc6457523_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/cupid/fw_cupid_miui_CUPIDGlobal_V14.0.6.0.TLCMIXM_ccc6457523_13.0.zip
-  filename: fw_cupid_miui_CUPIDGlobal_V14.0.6.0.TLCMIXM_ccc6457523_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-07.12.2023/fw_cupid_miui_CUPIDGlobal_V14.0.7.0.TLCMIXM_d318c238b5_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/cupid/fw_cupid_miui_CUPIDGlobal_V14.0.7.0.TLCMIXM_d318c238b5_13.0.zip
+  filename: fw_cupid_miui_CUPIDGlobal_V14.0.7.0.TLCMIXM_d318c238b5_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.6.0.TLCMIXM
+    miui: V14.0.7.0.TLCMIXM
 - branch: stable
   date: '2023-11-02'
   downloads:
@@ -1559,15 +1559,15 @@
     android: '14.0'
     miui: V14.0.9.0.UMCEUXM
 - branch: stable
-  date: '2023-11-16'
+  date: '2023-12-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-16.11.2023/fw_gale_miui_GALEGlobal_V14.0.6.0.TGPMIXM_5b359fc290_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/gale/fw_gale_miui_GALEGlobal_V14.0.6.0.TGPMIXM_5b359fc290_13.0.zip
-  filename: fw_gale_miui_GALEGlobal_V14.0.6.0.TGPMIXM_5b359fc290_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-07.12.2023/fw_gale_miui_GALEGlobal_V14.0.7.0.TGPMIXM_a162b65372_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/gale/fw_gale_miui_GALEGlobal_V14.0.7.0.TGPMIXM_a162b65372_13.0.zip
+  filename: fw_gale_miui_GALEGlobal_V14.0.7.0.TGPMIXM_a162b65372_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.6.0.TGPMIXM
+    miui: V14.0.7.0.TGPMIXM
 - branch: stable
   date: '2023-11-12'
   downloads:

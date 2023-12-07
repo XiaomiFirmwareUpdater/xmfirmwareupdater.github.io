@@ -564,6 +564,12 @@
   version: V14.0.12.0.TLCEUXM
 - android: '13.0'
   codename: cupid
+  date: '2023-12-07'
+  download: https://bigota.d.miui.com/V14.0.7.0.TLCMIXM/fw_cupid_miui_CUPIDGlobal_V14.0.7.0.TLCMIXM_d318c238b5_13.0.zip
+  name: Xiaomi 12
+  version: V14.0.7.0.TLCMIXM
+- android: '13.0'
+  codename: cupid
   date: '2023-05-04'
   download: https://bigota.d.miui.com/V14.0.8.0.TLCEUXM/fw_cupid_miui_CUPIDEEAGlobal_V14.0.8.0.TLCEUXM_05e61edf0a_13.0.zip
   name: Xiaomi 12
@@ -1174,6 +1180,12 @@
   download: https://bigota.d.miui.com/V14.0.6.0.TGPMIXM/fw_gale_miui_GALEGlobal_V14.0.6.0.TGPMIXM_5b359fc290_13.0.zip
   name: Redmi 13C/POCO C65
   version: V14.0.6.0.TGPMIXM
+- android: '13.0'
+  codename: gale
+  date: '2023-12-07'
+  download: https://bigota.d.miui.com/V14.0.7.0.TGPMIXM/fw_gale_miui_GALEGlobal_V14.0.7.0.TGPMIXM_a162b65372_13.0.zip
+  name: Redmi 13C/POCO C65
+  version: V14.0.7.0.TGPMIXM
 - android: '13.0'
   codename: garnet
   date: '2023-09-22'
