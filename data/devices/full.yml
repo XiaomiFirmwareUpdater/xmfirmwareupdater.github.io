@@ -28729,16 +28729,6 @@
     android: '13.0'
     miui: V14.0.1.0.TLJMIXM
 - branch: stable
-  date: '2022-08-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-24.08.2022/fw_ingres_miui_INGRES_V13.0.11.0.SLJCNXM_275aaf7641_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ingres/fw_ingres_miui_INGRES_V13.0.11.0.SLJCNXM_275aaf7641_12.0.zip
-  filename: fw_ingres_miui_INGRES_V13.0.11.0.SLJCNXM_275aaf7641_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: V13.0.11.0.SLJCNXM
-- branch: stable
   date: '2022-05-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-24.05.2022/fw_ingres_miui_INGRES_V13.0.9.0.SLJCNXM_c0c8a4e8fb_12.0.zip
@@ -28789,16 +28779,6 @@
     android: '12.0'
     miui: V13.0.8.0.SLJEUXM
 - branch: stable
-  date: '2022-02-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-17.02.2022/fw_ingres_miui_INGRES_V13.0.2.0.SLJCNXM_caf7a6d2e7_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ingres/fw_ingres_miui_INGRES_V13.0.2.0.SLJCNXM_caf7a6d2e7_12.0.zip
-  filename: fw_ingres_miui_INGRES_V13.0.2.0.SLJCNXM_caf7a6d2e7_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: V13.0.2.0.SLJCNXM
-- branch: stable
   date: '2023-11-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-15.11.2023/fw_ingres_miui_INGRESEEAGlobal_V14.0.7.0.TLJEUXM_0b0d68fbe4_13.0.zip
@@ -28838,26 +28818,6 @@
   versions:
     android: '12.0'
     miui: V13.0.7.0.SLJMIXM
-- branch: stable
-  date: '2023-03-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-13.03.2023/fw_ingres_miui_INGRESEEAGlobal_V14.0.5.0.TLJEUXM_fe8fa8bdb0_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ingres/fw_ingres_miui_INGRESEEAGlobal_V14.0.5.0.TLJEUXM_fe8fa8bdb0_13.0.zip
-  filename: fw_ingres_miui_INGRESEEAGlobal_V14.0.5.0.TLJEUXM_fe8fa8bdb0_13.0.zip
-  region: Europe
-  versions:
-    android: '13.0'
-    miui: V14.0.5.0.TLJEUXM
-- branch: stable
-  date: '2023-03-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-13.03.2023/fw_ingres_miui_INGRESGlobal_V14.0.2.0.TLJMIXM_fc9bec9dd4_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ingres/fw_ingres_miui_INGRESGlobal_V14.0.2.0.TLJMIXM_fc9bec9dd4_13.0.zip
-  filename: fw_ingres_miui_INGRESGlobal_V14.0.2.0.TLJMIXM_fc9bec9dd4_13.0.zip
-  region: Global
-  versions:
-    android: '13.0'
-    miui: V14.0.2.0.TLJMIXM
 - branch: stable
   date: '2023-06-12'
   downloads:
@@ -35948,6 +35908,16 @@
   versions:
     android: '14.0'
     miui: OS1.0.4.0.UNMCNXM
+- branch: stable
+  date: '2023-12-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-07.12.2023/fw_manet_miui_MANET_OS1.0.6.0.UNMCNXM_c89eece155_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/manet/fw_manet_miui_MANET_OS1.0.6.0.UNMCNXM_c89eece155_14.0.zip
+  filename: fw_manet_miui_MANET_OS1.0.6.0.UNMCNXM_c89eece155_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.6.0.UNMCNXM
 - branch: stable
   date: '2023-03-29'
   downloads:
@@ -67729,6 +67699,16 @@
     android: '13.0'
     miui: V14.0.12.0.TGOMIXM
 - branch: weekly
+  date: '2019-04-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_wayne/releases/download/weekly-26.04.2019/fw_wayne_miui_MI6X_9.4.25_1df3ff99e7_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.25/wayne/fw_wayne_miui_MI6X_9.4.25_1df3ff99e7_9.0.zip
+  filename: fw_wayne_miui_MI6X_9.4.25_1df3ff99e7_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.4.25
+- branch: weekly
   date: '2019-06-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_wayne/releases/download/weekly-22.06.2019/fw_wayne_miui_MI6X_9.6.20_ffb84fb5d0_9.0.zip
@@ -67928,6 +67908,16 @@
   versions:
     android: '8.1'
     miui: 9.2.15
+- branch: weekly
+  date: '2019-03-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_wayne/releases/download/weekly-04.03.2019/fw_wayne_miui_MI6X_9.3.1_2a0add855a_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.1/wayne/fw_wayne_miui_MI6X_9.3.1_2a0add855a_8.1.zip
+  filename: fw_wayne_miui_MI6X_9.3.1_2a0add855a_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.3.1
 - branch: stable
   date: '2019-03-13'
   downloads:
@@ -68022,6 +68012,16 @@
   date: '2018-09-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_wayne/releases/download/weekly-26.09.2018/fw_wayne_miui_MI6X_8.9.20_1cea63ad81_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/wayne/fw_wayne_miui_MI6X_8.9.20_1cea63ad81_8.1.zip
+  filename: fw_wayne_miui_MI6X_8.9.20_1cea63ad81_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 8.9.20
+- branch: weekly
+  date: '2018-09-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_wayne/releases/download/weekly-21.09.2018/fw_wayne_miui_MI6X_8.9.20_1cea63ad81_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/wayne/fw_wayne_miui_MI6X_8.9.20_1cea63ad81_8.1.zip
   filename: fw_wayne_miui_MI6X_8.9.20_1cea63ad81_8.1.zip
   region: China

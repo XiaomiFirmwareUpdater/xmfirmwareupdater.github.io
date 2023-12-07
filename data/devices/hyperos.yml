@@ -77,6 +77,12 @@
   name: Redmi K70 Pro
   version: OS1.0.4.0.UNMCNXM
 - android: '14.0'
+  codename: manet
+  date: '2023-12-07'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UNMCNXM/fw_manet_miui_MANET_OS1.0.6.0.UNMCNXM_c89eece155_14.0.zip
+  name: Redmi K70 Pro
+  version: OS1.0.6.0.UNMCNXM
+- android: '14.0'
   codename: shennong
   date: '2023-10-31'
   download: https://bigota.d.miui.com/OS1.0.10.0.UNBCNXM/fw_shennong_miui_SHENNONG_OS1.0.10.0.UNBCNXM_979a847396_14.0.zip

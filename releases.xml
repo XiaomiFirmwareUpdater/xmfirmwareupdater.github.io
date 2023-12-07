@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 07 Dec 2023 00:37:34 </lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 07:18:16 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K70 Pro (manet) - OS1.0.6.0.UNMCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/manet/</link>
+            <pubDate>Thu, 07 Dec 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.5.0.TKPMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/chopin/</link>
@@ -115,11 +120,6 @@
             <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.12.0.TLLEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Fri, 01 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70 Pro (manet) - OS1.0.4.0.UNMCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/manet/</link>
-            <pubDate>Thu, 30 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 12T (plato) - V14.0.17.0.TLQEUXM</title>
