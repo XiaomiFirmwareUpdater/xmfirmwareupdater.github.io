@@ -2454,6 +2454,12 @@
   version: V13.0.6.0.SLJCNXM
 - android: '12.0'
   codename: ingres
+  date: '2022-08-24'
+  download: https://bigota.d.miui.com/V13.0.11.0.SLJCNXM/fw_ingres_miui_INGRES_V13.0.11.0.SLJCNXM_275aaf7641_12.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: V13.0.11.0.SLJCNXM
+- android: '12.0'
+  codename: ingres
   date: '2022-05-24'
   download: https://bigota.d.miui.com/V13.0.9.0.SLJCNXM/fw_ingres_miui_INGRES_V13.0.9.0.SLJCNXM_c0c8a4e8fb_12.0.zip
   name: Redmi K50G/POCO F4 GT
@@ -2482,6 +2488,12 @@
   download: https://bigota.d.miui.com/V13.0.8.0.SLJEUXM/fw_ingres_miui_INGRESEEAGlobal_V13.0.8.0.SLJEUXM_5c28342d66_12.0.zip
   name: Redmi K50G/POCO F4 GT
   version: V13.0.8.0.SLJEUXM
+- android: '12.0'
+  codename: ingres
+  date: '2022-02-17'
+  download: https://bigota.d.miui.com/V13.0.2.0.SLJCNXM/fw_ingres_miui_INGRES_V13.0.2.0.SLJCNXM_caf7a6d2e7_12.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: V13.0.2.0.SLJCNXM
 - android: '12.0'
   codename: ingres
   date: '2022-03-14'
@@ -4204,12 +4216,6 @@
   download: https://bigota.d.miui.com/V13.0.2.0.SKLINXM/fw_rosemary_miui_ROSEMARYINGlobal_V13.0.2.0.SKLINXM_1d4b080d29_12.0.zip
   name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
   version: V13.0.2.0.SKLINXM
-- android: '12.0'
-  codename: rosemary
-  date: '2023-11-06'
-  download: https://bigota.d.miui.com/V13.0.16.0.SKLMIXM/fw_rosemary_miui_ROSEMARYGlobal_V13.0.16.0.SKLMIXM_2d281a998b_12.0.zip
-  name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
-  version: V13.0.16.0.SKLMIXM
 - android: '12.0'
   codename: rosemary
   date: '2022-11-02'

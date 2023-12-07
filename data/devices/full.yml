@@ -13749,16 +13749,6 @@
     android: '12.0'
     miui: V13.0.3.0.SKPMIXM
 - branch: stable
-  date: '2023-08-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-14.08.2023/fw_chopin_miui_CHOPIN_V14.0.7.0.TKPCNXM_64a0a608a3_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/chopin/fw_chopin_miui_CHOPIN_V14.0.7.0.TKPCNXM_64a0a608a3_13.0.zip
-  filename: fw_chopin_miui_CHOPIN_V14.0.7.0.TKPCNXM_64a0a608a3_13.0.zip
-  region: China
-  versions:
-    android: '13.0'
-    miui: V14.0.7.0.TKPCNXM
-- branch: stable
   date: '2023-02-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-13.02.2023/fw_chopin_miui_CHOPINGlobal_V14.0.1.0.TKPMIXM_a929f9e55c_13.0.zip
@@ -15678,16 +15668,6 @@
   versions:
     android: '13.0'
     miui: V14.0.6.0.TMLMIXM
-- branch: stable
-  date: '2023-10-23'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-23.10.2023/fw_corot_miui_COROTEEAGlobal_V14.0.14.0.TMLEUXM_a42688c1f8_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/corot/fw_corot_miui_COROTEEAGlobal_V14.0.14.0.TMLEUXM_a42688c1f8_13.0.zip
-  filename: fw_corot_miui_COROTEEAGlobal_V14.0.14.0.TMLEUXM_a42688c1f8_13.0.zip
-  region: Europe
-  versions:
-    android: '13.0'
-    miui: V14.0.14.0.TMLEUXM
 - branch: stable
   date: '2023-11-10'
   downloads:
@@ -20989,16 +20969,6 @@
     android: '13.0'
     miui: V14.0.18.0.TLFEUXM
 - branch: stable
-  date: '2023-10-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-25.10.2023/fw_diting_miui_DITINGEEAGlobal_V14.0.17.0.TLFEUXM_330c94a0e1_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/diting/fw_diting_miui_DITINGEEAGlobal_V14.0.17.0.TLFEUXM_330c94a0e1_13.0.zip
-  filename: fw_diting_miui_DITINGEEAGlobal_V14.0.17.0.TLFEUXM_330c94a0e1_13.0.zip
-  region: Europe
-  versions:
-    android: '13.0'
-    miui: V14.0.17.0.TLFEUXM
-- branch: stable
   date: '2023-08-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-23.08.2023/fw_diting_miui_DITINGEEAGlobal_V14.0.16.0.TLFEUXM_03c8b81371_13.0.zip
@@ -23748,16 +23718,6 @@
   versions:
     android: '11.0'
     miui: V13.0.9.0.RGFMIXM
-- branch: stable
-  date: '2023-10-31'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-31.10.2023/fw_fuxi_miui_FUXIEEAGlobal_V14.0.6.0.UMCEUXM_bd06bcd878_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fuxi/fw_fuxi_miui_FUXIEEAGlobal_V14.0.6.0.UMCEUXM_bd06bcd878_14.0.zip
-  filename: fw_fuxi_miui_FUXIEEAGlobal_V14.0.6.0.UMCEUXM_bd06bcd878_14.0.zip
-  region: Europe
-  versions:
-    android: '14.0'
-    miui: V14.0.6.0.UMCEUXM
 - branch: stable
   date: '2023-08-29'
   downloads:
@@ -28729,6 +28689,16 @@
     android: '13.0'
     miui: V14.0.1.0.TLJMIXM
 - branch: stable
+  date: '2022-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-24.08.2022/fw_ingres_miui_INGRES_V13.0.11.0.SLJCNXM_275aaf7641_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ingres/fw_ingres_miui_INGRES_V13.0.11.0.SLJCNXM_275aaf7641_12.0.zip
+  filename: fw_ingres_miui_INGRES_V13.0.11.0.SLJCNXM_275aaf7641_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.11.0.SLJCNXM
+- branch: stable
   date: '2022-05-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-24.05.2022/fw_ingres_miui_INGRES_V13.0.9.0.SLJCNXM_c0c8a4e8fb_12.0.zip
@@ -28779,6 +28749,16 @@
     android: '12.0'
     miui: V13.0.8.0.SLJEUXM
 - branch: stable
+  date: '2022-02-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-17.02.2022/fw_ingres_miui_INGRES_V13.0.2.0.SLJCNXM_caf7a6d2e7_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ingres/fw_ingres_miui_INGRES_V13.0.2.0.SLJCNXM_caf7a6d2e7_12.0.zip
+  filename: fw_ingres_miui_INGRES_V13.0.2.0.SLJCNXM_caf7a6d2e7_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SLJCNXM
+- branch: stable
   date: '2023-11-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-15.11.2023/fw_ingres_miui_INGRESEEAGlobal_V14.0.7.0.TLJEUXM_0b0d68fbe4_13.0.zip
@@ -28818,6 +28798,26 @@
   versions:
     android: '12.0'
     miui: V13.0.7.0.SLJMIXM
+- branch: stable
+  date: '2023-03-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-13.03.2023/fw_ingres_miui_INGRESEEAGlobal_V14.0.5.0.TLJEUXM_fe8fa8bdb0_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ingres/fw_ingres_miui_INGRESEEAGlobal_V14.0.5.0.TLJEUXM_fe8fa8bdb0_13.0.zip
+  filename: fw_ingres_miui_INGRESEEAGlobal_V14.0.5.0.TLJEUXM_fe8fa8bdb0_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TLJEUXM
+- branch: stable
+  date: '2023-03-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-13.03.2023/fw_ingres_miui_INGRESGlobal_V14.0.2.0.TLJMIXM_fc9bec9dd4_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ingres/fw_ingres_miui_INGRESGlobal_V14.0.2.0.TLJMIXM_fc9bec9dd4_13.0.zip
+  filename: fw_ingres_miui_INGRESGlobal_V14.0.2.0.TLJMIXM_fc9bec9dd4_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TLJMIXM
 - branch: stable
   date: '2023-06-12'
   downloads:
@@ -51549,16 +51549,6 @@
     android: '12.0'
     miui: V13.0.2.0.SKLINXM
 - branch: stable
-  date: '2023-11-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-06.11.2023/fw_rosemary_miui_ROSEMARYGlobal_V13.0.16.0.SKLMIXM_2d281a998b_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rosemary/fw_rosemary_miui_ROSEMARYGlobal_V13.0.16.0.SKLMIXM_2d281a998b_12.0.zip
-  filename: fw_rosemary_miui_ROSEMARYGlobal_V13.0.16.0.SKLMIXM_2d281a998b_12.0.zip
-  region: Global
-  versions:
-    android: '12.0'
-    miui: V13.0.16.0.SKLMIXM
-- branch: stable
   date: '2021-08-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-06.08.2021/fw_rosemary_miui_ROSEMARYGlobal_V12.5.12.0.RKLMIXM_b28119e736_11.0.zip
@@ -55409,16 +55399,6 @@
     android: '13.0'
     miui: V14.0.4.0.TMWEUXM
 - branch: stable
-  date: '2023-11-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-13.11.2023/fw_sky_miui_SKY_V14.0.7.0.TMWCNXM_068d99c48e_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sky/fw_sky_miui_SKY_V14.0.7.0.TMWCNXM_068d99c48e_13.0.zip
-  filename: fw_sky_miui_SKY_V14.0.7.0.TMWCNXM_068d99c48e_13.0.zip
-  region: China
-  versions:
-    android: '13.0'
-    miui: V14.0.7.0.TMWCNXM
-- branch: stable
   date: '2023-09-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-12.09.2023/fw_sky_miui_SKYGlobal_V14.0.1.0.TMWMIXM_a679c9761c_13.0.zip
@@ -55438,16 +55418,6 @@
   versions:
     android: '13.0'
     miui: V14.0.8.0.TMWEUXM
-- branch: stable
-  date: '2023-12-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-02.12.2023/fw_sky_miui_SKYEEAGlobal_V14.0.6.0.TMWEUXM_33ee15e777_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sky/fw_sky_miui_SKYEEAGlobal_V14.0.6.0.TMWEUXM_33ee15e777_13.0.zip
-  filename: fw_sky_miui_SKYEEAGlobal_V14.0.6.0.TMWEUXM_33ee15e777_13.0.zip
-  region: Europe
-  versions:
-    android: '13.0'
-    miui: V14.0.6.0.TMWEUXM
 - branch: stable
   date: '2023-08-01'
   downloads:
@@ -58138,16 +58108,6 @@
   versions:
     android: '13.0'
     miui: V14.0.4.0.TLIMIXM
-- branch: stable
-  date: '2023-11-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-03.11.2023/fw_taoyao_miui_TAOYAOGlobal_V14.0.7.0.TLIMIXM_97f7660abc_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/taoyao/fw_taoyao_miui_TAOYAOGlobal_V14.0.7.0.TLIMIXM_97f7660abc_13.0.zip
-  filename: fw_taoyao_miui_TAOYAOGlobal_V14.0.7.0.TLIMIXM_97f7660abc_13.0.zip
-  region: Global
-  versions:
-    android: '13.0'
-    miui: V14.0.7.0.TLIMIXM
 - branch: stable
   date: '2023-07-02'
   downloads:
@@ -70588,16 +70548,6 @@
   versions:
     android: '12.0'
     miui: V13.0.8.0.SLLCNXM
-- branch: stable
-  date: '2023-11-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-13.11.2023/fw_ziyi_miui_ZIYIEEAGlobal_V14.0.11.0.TLLEUXM_d2a8bc6ab6_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ziyi/fw_ziyi_miui_ZIYIEEAGlobal_V14.0.11.0.TLLEUXM_d2a8bc6ab6_13.0.zip
-  filename: fw_ziyi_miui_ZIYIEEAGlobal_V14.0.11.0.TLLEUXM_d2a8bc6ab6_13.0.zip
-  region: Europe
-  versions:
-    android: '13.0'
-    miui: V14.0.11.0.TLLEUXM
 - branch: stable
   date: '2023-10-12'
   downloads:
