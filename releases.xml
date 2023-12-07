@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 07 Dec 2023 19:28:40 </lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 00:34:13 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 12 (cupid) - V14.0.7.0.TLCMIXM</title>
@@ -29,11 +29,6 @@
         <item>
             <title>Xiaomi 13 (fuxi) - V14.0.9.0.UMCEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Pro (nuwa) - V14.0.9.0.UMBEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -465,6 +460,11 @@
             <title>Xiaomi 12 Pro (zeus) - V14.0.15.0.TLBCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Thu, 02 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - V14.0.6.0.UMBEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Tue, 31 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>POCO C40 (frost) - V13.0.10.0.RGFEUXM</title>
