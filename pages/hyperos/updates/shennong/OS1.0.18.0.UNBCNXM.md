@@ -71,8 +71,7 @@ permalink: /hyperos/shennong/stable/OS1.0.18.0.UNBCNXM/
                     <h5><b>MD5: </b><span id="md5" class="text-muted">Unknown</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary" style="margin: 7px;"
-                            onclick="window.open('https://bigota.d.miui.com/OS1.0.18.0.UNBCNXM/miui_SHENNONG_OS1.0.18.0.UNBCNXM_c245cacb76_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.18.0.UNBCNXM/miui_SHENNONG_OS1.0.18.0.UNBCNXM_c245cacb76_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://ks3orig.bigota.d.miui.com/OS1.0.18.0.UNBCNXM/miui_SHENNONG_OS1.0.18.0.UNBCNXM_c245cacb76_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://airtel.bigota.d.miui.com/OS1.0.18.0.UNBCNXM/miui_SHENNONG_OS1.0.18.0.UNBCNXM_c245cacb76_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.18.0.UNBCNXM/miui_SHENNONG_OS1.0.18.0.UNBCNXM_c245cacb76_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#shennong_1_changelog" data-toggle="collapse" role="button"

@@ -52,8 +52,8 @@ permalink: /miui/clover/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi Pad 4 (Plus) China</td><td>Stable</td><td>Fastboot</td><td>V10.3.1.0.ODJCNXM</td><td>8.1</td><td>1.6 GB</td><td>2019-04-22</td><td><a href="/miui/clover/stable/V10.3.1.0.ODJCNXM/">Download</a></td></tr>
-<tr><td>Mi Pad 4 (Plus) China</td><td>Stable</td><td>Recovery</td><td>V10.3.1.0.ODJCNXM</td><td>8.1</td><td>1.3 GB</td><td>2019-04-22</td><td><a href="/miui/clover/stable/V10.3.1.0.ODJCNXM/">Download</a></td></tr>
+                <tr><td>Mi Pad 4 (Plus) China</td><td>Stable</td><td>Fastboot</td><td>V10.3.2.0.ODJCNXM</td><td>8.1</td><td>1.6 GB</td><td>2019-05-15</td><td><a href="/miui/clover/stable/V10.3.2.0.ODJCNXM/">Download</a></td></tr>
+<tr><td>Mi Pad 4 (Plus) China</td><td>Stable</td><td>Recovery</td><td>V10.3.2.0.ODJCNXM</td><td>8.1</td><td>1.4 GB</td><td>2019-05-24</td><td><a href="/miui/clover/stable/V10.3.2.0.ODJCNXM/">Download</a></td></tr>
 <tr><td>Mi Pad 4 (Plus) China</td><td>Weekly</td><td>Fastboot</td><td>9.8.29</td><td>8.1</td><td>1.7 GB</td><td>2019-08-29</td><td><a href="/miui/clover/weekly/9.8.29/">Download</a></td></tr>
 <tr><td>Mi Pad 4 (Plus) China</td><td>Weekly</td><td>Recovery</td><td>9.8.29</td><td>8.1</td><td>1.5 GB</td><td>2019-08-29</td><td><a href="/miui/clover/weekly/9.8.29/">Download</a></td></tr>
 

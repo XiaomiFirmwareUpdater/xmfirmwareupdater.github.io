@@ -137,6 +137,8 @@ permalink: /archive/miui/prada/
 <tr><td>Redmi 4 China</td><td>Weekly</td><td>Recovery</td><td>8.4.19</td><td>6.0</td><td>1.4 GB</td><td>2018-04-18</td><td><a href="/miui/prada/weekly/8.4.19/">Download</a></td></tr>
 <tr><td>Redmi 4 China</td><td>Weekly</td><td>Recovery</td><td>8.4.12</td><td>6.0</td><td>1.4 GB</td><td>2018-04-12</td><td><a href="/miui/prada/weekly/8.4.12/">Download</a></td></tr>
 <tr><td>Redmi 4 China</td><td>Weekly</td><td>Fastboot</td><td>8.4.12</td><td>6.0</td><td>2.0 GB</td><td>2018-04-12</td><td><a href="/miui/prada/weekly/8.4.12/">Download</a></td></tr>
+<tr><td>Redmi 4 China</td><td>Stable</td><td>Fastboot</td><td>V9.5.2.0.MCECNFA</td><td>6.0</td><td>2.0 GB</td><td>2018-04-06</td><td><a href="/miui/prada/stable/V9.5.2.0.MCECNFA/">Download</a></td></tr>
+<tr><td>Redmi 4 China</td><td>Stable</td><td>Recovery</td><td>V9.5.2.0.MCECNFA</td><td>6.0</td><td>1.3 GB</td><td>2018-04-05</td><td><a href="/miui/prada/stable/V9.5.2.0.MCECNFA/">Download</a></td></tr>
 <tr><td>Redmi 4 China</td><td>Weekly</td><td>Recovery</td><td>8.3.29</td><td>6.0</td><td>1.3 GB</td><td>2018-03-29</td><td><a href="/miui/prada/weekly/8.3.29/">Download</a></td></tr>
 <tr><td>Redmi 4 China</td><td>Weekly</td><td>Fastboot</td><td>8.3.29</td><td>6.0</td><td>2.0 GB</td><td>2018-03-29</td><td><a href="/miui/prada/weekly/8.3.29/">Download</a></td></tr>
 <tr><td>Redmi 4 China</td><td>Weekly</td><td>Fastboot</td><td>8.3.22</td><td>6.0</td><td>2.0 GB</td><td>2018-03-22</td><td><a href="/miui/prada/weekly/8.3.22/">Download</a></td></tr>
@@ -145,8 +147,6 @@ permalink: /archive/miui/prada/
 <tr><td>Redmi 4 China</td><td>Weekly</td><td>Recovery</td><td>8.3.15</td><td>6.0</td><td>1.3 GB</td><td>2018-03-14</td><td><a href="/miui/prada/weekly/8.3.15/">Download</a></td></tr>
 <tr><td>Redmi 4 China</td><td>Weekly</td><td>Fastboot</td><td>8.3.8</td><td>6.0</td><td>2.0 GB</td><td>2018-03-08</td><td><a href="/miui/prada/weekly/8.3.8/">Download</a></td></tr>
 <tr><td>Redmi 4 China</td><td>Weekly</td><td>Recovery</td><td>8.3.8</td><td>6.0</td><td>1.3 GB</td><td>2018-03-07</td><td><a href="/miui/prada/weekly/8.3.8/">Download</a></td></tr>
-<tr><td>Redmi 4 China</td><td>Stable</td><td>Fastboot</td><td>V9.5.2.0.MCECNFA</td><td>6.0</td><td>2.0 GB</td><td>2018-04-06</td><td><a href="/miui/prada/stable/V9.5.2.0.MCECNFA/">Download</a></td></tr>
-<tr><td>Redmi 4 China</td><td>Stable</td><td>Recovery</td><td>V9.5.2.0.MCECNFA</td><td>6.0</td><td>1.3 GB</td><td>2018-04-05</td><td><a href="/miui/prada/stable/V9.5.2.0.MCECNFA/">Download</a></td></tr>
 <tr><td>Redmi 4 China</td><td>Weekly</td><td>Fastboot</td><td>8.3.1</td><td>6.0</td><td>2.0 GB</td><td>2018-03-01</td><td><a href="/miui/prada/weekly/8.3.1/">Download</a></td></tr>
 <tr><td>Redmi 4 China</td><td>Weekly</td><td>Recovery</td><td>8.3.1</td><td>6.0</td><td>1.3 GB</td><td>2018-02-28</td><td><a href="/miui/prada/weekly/8.3.1/">Download</a></td></tr>
 <tr><td>Redmi 4 China</td><td>Weekly</td><td>Fastboot</td><td>8.2.1</td><td>6.0</td><td>1.9 GB</td><td>2018-02-01</td><td><a href="/miui/prada/weekly/8.2.1/">Download</a></td></tr>

@@ -79,10 +79,10 @@ permalink: /archive/miui/latte/
 <tr><td>MiPad 2 China</td><td>Weekly</td><td>Recovery</td><td>7.9.14</td><td>5.1</td><td>845.1 MB</td><td>2017-09-13</td><td><a href="/miui/latte/weekly/7.9.14/">Download</a></td></tr>
 <tr><td>MiPad 2 China</td><td>Weekly</td><td>Recovery</td><td>7.9.7</td><td>5.1</td><td>846.6 MB</td><td>2017-09-07</td><td><a href="/miui/latte/weekly/7.9.7/">Download</a></td></tr>
 <tr><td>MiPad 2 China</td><td>Weekly</td><td>Recovery</td><td>7.6.8</td><td>5.1</td><td>898.7 MB</td><td>2017-06-09</td><td><a href="/miui/latte/weekly/7.6.8/">Download</a></td></tr>
-<tr><td>MiPad 2 China</td><td>Weekly</td><td>Fastboot</td><td>7.4.6</td><td>5.1</td><td>1.0 GB</td><td>2017-04-06</td><td><a href="/miui/latte/weekly/7.4.6/">Download</a></td></tr>
-<tr><td>MiPad 2 China</td><td>Weekly</td><td>Recovery</td><td>7.4.6</td><td>5.1</td><td>914.3 MB</td><td>2017-04-05</td><td><a href="/miui/latte/weekly/7.4.6/">Download</a></td></tr>
 <tr><td>MiPad 2 China</td><td>Stable</td><td>Recovery</td><td>V8.5.1.0.LACCNED</td><td>5.1</td><td>903.4 MB</td><td>2017-05-31</td><td><a href="/miui/latte/stable/V8.5.1.0.LACCNED/">Download</a></td></tr>
 <tr><td>MiPad 2 China</td><td>Stable</td><td>Fastboot</td><td>V8.5.1.0.LACCNED</td><td>5.1</td><td>1.0 GB</td><td>2017-05-27</td><td><a href="/miui/latte/stable/V8.5.1.0.LACCNED/">Download</a></td></tr>
+<tr><td>MiPad 2 China</td><td>Weekly</td><td>Fastboot</td><td>7.4.6</td><td>5.1</td><td>1.0 GB</td><td>2017-04-06</td><td><a href="/miui/latte/weekly/7.4.6/">Download</a></td></tr>
+<tr><td>MiPad 2 China</td><td>Weekly</td><td>Recovery</td><td>7.4.6</td><td>5.1</td><td>914.3 MB</td><td>2017-04-05</td><td><a href="/miui/latte/weekly/7.4.6/">Download</a></td></tr>
 <tr><td>MiPad 2 China</td><td>Weekly</td><td>Recovery</td><td>7.3.23</td><td>5.1</td><td>910.9 MB</td><td>2017-03-22</td><td><a href="/miui/latte/weekly/7.3.23/">Download</a></td></tr>
 <tr><td>MiPad 2 China</td><td>Stable</td><td>Recovery</td><td>V8.2.2.0.LACCNDL</td><td>5.1</td><td>874.9 MB</td><td>2017-03-22</td><td><a href="/miui/latte/stable/V8.2.2.0.LACCNDL/">Download</a></td></tr>
 <tr><td>MiPad 2 China</td><td>Weekly</td><td>Recovery</td><td>7.3.16</td><td>5.1</td><td>903.2 MB</td><td>2017-03-16</td><td><a href="/miui/latte/weekly/7.3.16/">Download</a></td></tr>

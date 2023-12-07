@@ -71,8 +71,7 @@ permalink: /miui/cancro/stable/KXDCNBF21.0/
                     <h5><b>MD5: </b><span id="md5" class="text-muted">d4f7bd9bcfff25f19d64d25ea8a8d978</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary" style="margin: 7px;"
-                            onclick="window.open('https://bigota.d.miui.com/KXDCNBF21.0/cancro_images_KXDCNBF21.0_4.4_cn_d4f7bd9bcf.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/KXDCNBF21.0/cancro_images_KXDCNBF21.0_4.4_cn_d4f7bd9bcf.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://ks3orig.bigota.d.miui.com/KXDCNBF21.0/cancro_images_KXDCNBF21.0_4.4_cn_d4f7bd9bcf.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://airtel.bigota.d.miui.com/KXDCNBF21.0/cancro_images_KXDCNBF21.0_4.4_cn_d4f7bd9bcf.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/KXDCNBF21.0/cancro_images_KXDCNBF21.0_4.4_cn_d4f7bd9bcf.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#cancro_1_changelog" data-toggle="collapse" role="button"

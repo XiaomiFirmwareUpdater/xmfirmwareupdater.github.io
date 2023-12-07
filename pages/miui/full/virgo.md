@@ -96,14 +96,14 @@ permalink: /archive/miui/virgo/
 <tr><td>Mi Note China</td><td>Weekly</td><td>Fastboot</td><td>7.4.20</td><td>6.0</td><td>1.5 GB</td><td>2017-04-20</td><td><a href="/miui/virgo/weekly/7.4.20/">Download</a></td></tr>
 <tr><td>Mi Note China</td><td>Weekly</td><td>Recovery</td><td>7.4.20</td><td>6.0</td><td>1.0 GB</td><td>2017-04-19</td><td><a href="/miui/virgo/weekly/7.4.20/">Download</a></td></tr>
 <tr><td>Mi Note Global</td><td>Weekly</td><td>Recovery</td><td>7.4.20</td><td>6.0</td><td>1.1 GB</td><td>2017-04-19</td><td><a href="/miui/virgo/weekly/7.4.20/">Download</a></td></tr>
+<tr><td>Mi Note China</td><td>Stable</td><td>Recovery</td><td>V8.5.1.0.MXECNED</td><td>6.0</td><td>1.0 GB</td><td>2017-05-13</td><td><a href="/miui/virgo/stable/V8.5.1.0.MXECNED/">Download</a></td></tr>
+<tr><td>Mi Note China</td><td>Stable</td><td>Fastboot</td><td>V8.5.1.0.MXECNED</td><td>6.0</td><td>1.5 GB</td><td>2017-05-13</td><td><a href="/miui/virgo/stable/V8.5.1.0.MXECNED/">Download</a></td></tr>
 <tr><td>Mi Note China</td><td>Weekly</td><td>Recovery</td><td>7.4.6</td><td>6.0</td><td>1.0 GB</td><td>2017-04-06</td><td><a href="/miui/virgo/weekly/7.4.6/">Download</a></td></tr>
 <tr><td>Mi Note Global</td><td>Weekly</td><td>Fastboot</td><td>7.4.6</td><td>6.0</td><td>1.4 GB</td><td>2017-04-06</td><td><a href="/miui/virgo/weekly/7.4.6/">Download</a></td></tr>
 <tr><td>Mi Note China</td><td>Weekly</td><td>Fastboot</td><td>7.4.6</td><td>6.0</td><td>1.6 GB</td><td>2017-04-06</td><td><a href="/miui/virgo/weekly/7.4.6/">Download</a></td></tr>
 <tr><td>Mi Note Global</td><td>Weekly</td><td>Recovery</td><td>7.4.6</td><td>6.0</td><td>1.1 GB</td><td>2017-04-05</td><td><a href="/miui/virgo/weekly/7.4.6/">Download</a></td></tr>
 <tr><td>Mi Note China</td><td>Weekly</td><td>Fastboot</td><td>7.3.30</td><td>6.0</td><td>1.6 GB</td><td>2017-03-30</td><td><a href="/miui/virgo/weekly/7.3.30/">Download</a></td></tr>
 <tr><td>Mi Note China</td><td>Weekly</td><td>Recovery</td><td>7.3.30</td><td>6.0</td><td>1.0 GB</td><td>2017-03-29</td><td><a href="/miui/virgo/weekly/7.3.30/">Download</a></td></tr>
-<tr><td>Mi Note China</td><td>Stable</td><td>Recovery</td><td>V8.5.1.0.MXECNED</td><td>6.0</td><td>1.0 GB</td><td>2017-05-13</td><td><a href="/miui/virgo/stable/V8.5.1.0.MXECNED/">Download</a></td></tr>
-<tr><td>Mi Note China</td><td>Stable</td><td>Fastboot</td><td>V8.5.1.0.MXECNED</td><td>6.0</td><td>1.5 GB</td><td>2017-05-13</td><td><a href="/miui/virgo/stable/V8.5.1.0.MXECNED/">Download</a></td></tr>
 <tr><td>Mi Note Global</td><td>Weekly</td><td>Fastboot</td><td>7.3.23</td><td>6.0</td><td>1.4 GB</td><td>2017-03-23</td><td><a href="/miui/virgo/weekly/7.3.23/">Download</a></td></tr>
 <tr><td>Mi Note China</td><td>Weekly</td><td>Recovery</td><td>7.3.23</td><td>6.0</td><td>1.0 GB</td><td>2017-03-22</td><td><a href="/miui/virgo/weekly/7.3.23/">Download</a></td></tr>
 <tr><td>Mi Note Global</td><td>Weekly</td><td>Recovery</td><td>7.3.23</td><td>6.0</td><td>1.1 GB</td><td>2017-03-22</td><td><a href="/miui/virgo/weekly/7.3.23/">Download</a></td></tr>

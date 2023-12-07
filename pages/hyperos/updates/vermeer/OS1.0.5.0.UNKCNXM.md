@@ -71,8 +71,7 @@ permalink: /hyperos/vermeer/stable/OS1.0.5.0.UNKCNXM/
                     <h5><b>MD5: </b><span id="md5" class="text-muted">164e6600c795b1bb2a1ac482e7f697f8</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary" style="margin: 7px;"
-                            onclick="window.open('https://bigota.d.miui.com/OS1.0.5.0.UNKCNXM/miui_VERMEER_OS1.0.5.0.UNKCNXM_164e6600c7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.5.0.UNKCNXM/miui_VERMEER_OS1.0.5.0.UNKCNXM_164e6600c7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://ks3orig.bigota.d.miui.com/OS1.0.5.0.UNKCNXM/miui_VERMEER_OS1.0.5.0.UNKCNXM_164e6600c7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://airtel.bigota.d.miui.com/OS1.0.5.0.UNKCNXM/miui_VERMEER_OS1.0.5.0.UNKCNXM_164e6600c7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.5.0.UNKCNXM/miui_VERMEER_OS1.0.5.0.UNKCNXM_164e6600c7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#vermeer_1_changelog" data-toggle="collapse" role="button"
@@ -115,8 +114,7 @@ permalink: /hyperos/vermeer/stable/OS1.0.5.0.UNKCNXM/
                     <h5><b>MD5: </b><span id="md5" class="text-muted">c24a27d1e97ab7921aa12cc9c7f60b8a</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary" style="margin: 7px;"
-                            onclick="window.open('https://bigota.d.miui.com/OS1.0.5.0.UNKCNXM/vermeer_images_OS1.0.5.0.UNKCNXM_20231124.0000.00_14.0_cn_c24a27d1e9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.5.0.UNKCNXM/vermeer_images_OS1.0.5.0.UNKCNXM_20231124.0000.00_14.0_cn_c24a27d1e9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://ks3orig.bigota.d.miui.com/OS1.0.5.0.UNKCNXM/vermeer_images_OS1.0.5.0.UNKCNXM_20231124.0000.00_14.0_cn_c24a27d1e9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://airtel.bigota.d.miui.com/OS1.0.5.0.UNKCNXM/vermeer_images_OS1.0.5.0.UNKCNXM_20231124.0000.00_14.0_cn_c24a27d1e9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.5.0.UNKCNXM/vermeer_images_OS1.0.5.0.UNKCNXM_20231124.0000.00_14.0_cn_c24a27d1e9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#vermeer_2_changelog" data-toggle="collapse" role="button"

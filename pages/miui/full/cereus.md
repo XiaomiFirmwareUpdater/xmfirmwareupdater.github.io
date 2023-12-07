@@ -74,9 +74,6 @@ permalink: /archive/miui/cereus/
 <tr><td>Redmi 6 China</td><td>Weekly</td><td>Recovery</td><td>9.12.26</td><td>9.0</td><td>1.9 GB</td><td>2019-12-26</td><td><a href="/miui/cereus/weekly/9.12.26/">Download</a></td></tr>
 <tr><td>Redmi 6 China</td><td>Weekly</td><td>Recovery</td><td>9.12.19</td><td>9.0</td><td>1.9 GB</td><td>2019-12-19</td><td><a href="/miui/cereus/weekly/9.12.19/">Download</a></td></tr>
 <tr><td>Redmi 6 China</td><td>Weekly</td><td>Recovery</td><td>9.12.12</td><td>9.0</td><td>1.9 GB</td><td>2019-12-12</td><td><a href="/miui/cereus/weekly/9.12.12/">Download</a></td></tr>
-<tr><td>Redmi 6 China</td><td>Weekly</td><td>Recovery</td><td>9.12.5</td><td>9.0</td><td>1.9 GB</td><td>2019-12-05</td><td><a href="/miui/cereus/weekly/9.12.5/">Download</a></td></tr>
-<tr><td>Redmi 6 China</td><td>Weekly</td><td>Recovery</td><td>9.11.28</td><td>9.0</td><td>1.9 GB</td><td>2019-11-28</td><td><a href="/miui/cereus/weekly/9.11.28/">Download</a></td></tr>
-<tr><td>Redmi 6 China</td><td>Weekly</td><td>Recovery</td><td>9.11.21</td><td>9.0</td><td>1.9 GB</td><td>2019-11-21</td><td><a href="/miui/cereus/weekly/9.11.21/">Download</a></td></tr>
 <tr><td>Redmi 6 China</td><td>Weekly</td><td>Recovery</td><td>9.11.14</td><td>9.0</td><td>1.9 GB</td><td>2019-11-14</td><td><a href="/miui/cereus/weekly/9.11.14/">Download</a></td></tr>
 <tr><td>Redmi 6 China</td><td>Weekly</td><td>Recovery</td><td>9.11.7</td><td>9.0</td><td>1.9 GB</td><td>2019-11-07</td><td><a href="/miui/cereus/weekly/9.11.7/">Download</a></td></tr>
 <tr><td>Redmi 6 China</td><td>Weekly</td><td>Recovery</td><td>9.10.31</td><td>9.0</td><td>1.8 GB</td><td>2019-10-31</td><td><a href="/miui/cereus/weekly/9.10.31/">Download</a></td></tr>
@@ -84,12 +81,13 @@ permalink: /archive/miui/cereus/
 <tr><td>Redmi 6 China</td><td>Weekly</td><td>Recovery</td><td>9.10.17</td><td>9.0</td><td>1.8 GB</td><td>2019-10-17</td><td><a href="/miui/cereus/weekly/9.10.17/">Download</a></td></tr>
 <tr><td>Redmi 6 China</td><td>Weekly</td><td>Recovery</td><td>9.10.16</td><td>9.0</td><td>1.8 GB</td><td>2019-10-16</td><td><a href="/miui/cereus/weekly/9.10.16/">Download</a></td></tr>
 <tr><td>Redmi 6 China</td><td>Weekly</td><td>Recovery</td><td>9.10.10</td><td>9.0</td><td>1.8 GB</td><td>2019-10-10</td><td><a href="/miui/cereus/weekly/9.10.10/">Download</a></td></tr>
+<tr><td>Redmi 6 China</td><td>Weekly</td><td>Recovery</td><td>9.12.5</td><td>9.0</td><td>1.9 GB</td><td>2019-12-05</td><td><a href="/miui/cereus/weekly/9.12.5/">Download</a></td></tr>
+<tr><td>Redmi 6 China</td><td>Weekly</td><td>Recovery</td><td>9.11.28</td><td>9.0</td><td>1.9 GB</td><td>2019-11-28</td><td><a href="/miui/cereus/weekly/9.11.28/">Download</a></td></tr>
+<tr><td>Redmi 6 China</td><td>Weekly</td><td>Recovery</td><td>9.11.21</td><td>9.0</td><td>1.9 GB</td><td>2019-11-21</td><td><a href="/miui/cereus/weekly/9.11.21/">Download</a></td></tr>
 <tr><td>Redmi 6 China</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.PCGCNXM</td><td>9.0</td><td>1.8 GB</td><td>2019-11-13</td><td><a href="/miui/cereus/stable/V11.0.3.0.PCGCNXM/">Download</a></td></tr>
 <tr><td>Redmi 6 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.PCGCNXM</td><td>9.0</td><td>2.1 GB</td><td>2019-10-30</td><td><a href="/miui/cereus/stable/V11.0.3.0.PCGCNXM/">Download</a></td></tr>
 <tr><td>Redmi 6 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.PCGMIXM</td><td>9.0</td><td>1.4 GB</td><td>2019-11-06</td><td><a href="/miui/cereus/stable/V11.0.1.0.PCGMIXM/">Download</a></td></tr>
 <tr><td>Redmi 6 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.PCGMIXM</td><td>9.0</td><td>2.1 GB</td><td>2019-10-30</td><td><a href="/miui/cereus/stable/V11.0.1.0.PCGMIXM/">Download</a></td></tr>
-<tr><td>Redmi 6 Global</td><td>Stable</td><td>Recovery</td><td>V10.4.4.0.PCGMIXM</td><td>9.0</td><td>1.4 GB</td><td>2019-09-30</td><td><a href="/miui/cereus/stable/V10.4.4.0.PCGMIXM/">Download</a></td></tr>
-<tr><td>Redmi 6 Global</td><td>Stable</td><td>Fastboot</td><td>V10.4.4.0.PCGMIXM</td><td>9.0</td><td>2.0 GB</td><td>2019-09-27</td><td><a href="/miui/cereus/stable/V10.4.4.0.PCGMIXM/">Download</a></td></tr>
 <tr><td>Redmi 6 Global</td><td>Stable</td><td>Recovery</td><td>V10.4.3.0.PCGMIXM</td><td>9.0</td><td>1.4 GB</td><td>2019-09-16</td><td><a href="/miui/cereus/stable/V10.4.3.0.PCGMIXM/">Download</a></td></tr>
 <tr><td>Redmi 6 China</td><td>Weekly</td><td>Recovery</td><td>9.9.3</td><td>9.0</td><td>1.8 GB</td><td>2019-09-05</td><td><a href="/miui/cereus/weekly/9.9.3/">Download</a></td></tr>
 <tr><td>Redmi 6 China</td><td>Weekly</td><td>Fastboot</td><td>9.9.3</td><td>9.0</td><td>2.0 GB</td><td>2019-09-04</td><td><a href="/miui/cereus/weekly/9.9.3/">Download</a></td></tr>
@@ -97,6 +95,8 @@ permalink: /archive/miui/cereus/
 <tr><td>Redmi 6 China</td><td>Stable</td><td>Fastboot</td><td>V10.4.3.0.PCGCNXM</td><td>9.0</td><td>1.9 GB</td><td>2019-08-22</td><td><a href="/miui/cereus/stable/V10.4.3.0.PCGCNXM/">Download</a></td></tr>
 <tr><td>Redmi 6 Global</td><td>Stable</td><td>Recovery</td><td>V10.3.6.0.OCGMIXM</td><td>8.1</td><td>1.3 GB</td><td>2019-08-26</td><td><a href="/miui/cereus/stable/V10.3.6.0.OCGMIXM/">Download</a></td></tr>
 <tr><td>Redmi 6 Global</td><td>Stable</td><td>Fastboot</td><td>V10.3.6.0.OCGMIXM</td><td>8.1</td><td>1.9 GB</td><td>2019-08-23</td><td><a href="/miui/cereus/stable/V10.3.6.0.OCGMIXM/">Download</a></td></tr>
+<tr><td>Redmi 6 Global</td><td>Stable</td><td>Recovery</td><td>V10.4.4.0.PCGMIXM</td><td>9.0</td><td>1.4 GB</td><td>2019-09-30</td><td><a href="/miui/cereus/stable/V10.4.4.0.PCGMIXM/">Download</a></td></tr>
+<tr><td>Redmi 6 Global</td><td>Stable</td><td>Fastboot</td><td>V10.4.4.0.PCGMIXM</td><td>9.0</td><td>2.0 GB</td><td>2019-09-27</td><td><a href="/miui/cereus/stable/V10.4.4.0.PCGMIXM/">Download</a></td></tr>
 <tr><td>Redmi 6 China</td><td>Weekly</td><td>Recovery</td><td>9.8.22</td><td>9.0</td><td>1.8 GB</td><td>2019-08-22</td><td><a href="/miui/cereus/weekly/9.8.22/">Download</a></td></tr>
 <tr><td>Redmi 6 China</td><td>Weekly</td><td>Fastboot</td><td>9.8.22</td><td>9.0</td><td>2.1 GB</td><td>2019-08-22</td><td><a href="/miui/cereus/weekly/9.8.22/">Download</a></td></tr>
 <tr><td>Redmi 6 China</td><td>Weekly</td><td>Fastboot</td><td>9.8.15</td><td>9.0</td><td>2.0 GB</td><td>2019-08-15</td><td><a href="/miui/cereus/weekly/9.8.15/">Download</a></td></tr>
@@ -159,6 +159,8 @@ permalink: /archive/miui/cereus/
 <tr><td>Redmi 6 China</td><td>Weekly</td><td>Recovery</td><td>9.4.25</td><td>8.1</td><td>1.8 GB</td><td>2019-04-29</td><td><a href="/miui/cereus/weekly/9.4.25/">Download</a></td></tr>
 <tr><td>Redmi 6 Global</td><td>Weekly</td><td>Recovery</td><td>9.4.25</td><td>8.1</td><td>1.8 GB</td><td>2019-04-26</td><td><a href="/miui/cereus/weekly/9.4.25/">Download</a></td></tr>
 <tr><td>Redmi 6 Global</td><td>Weekly</td><td>Fastboot</td><td>9.4.25</td><td>8.1</td><td>1.9 GB</td><td>2019-04-26</td><td><a href="/miui/cereus/weekly/9.4.25/">Download</a></td></tr>
+<tr><td>Redmi 6 Russia</td><td>Stable</td><td>Recovery</td><td>V10.3.1.0.OCGRUXM</td><td>8.1</td><td>1.3 GB</td><td>2019-04-26</td><td><a href="/miui/cereus/stable/V10.3.1.0.OCGRUXM/">Download</a></td></tr>
+<tr><td>Redmi 6 Russia</td><td>Stable</td><td>Fastboot</td><td>V10.3.1.0.OCGRUXM</td><td>8.1</td><td>1.9 GB</td><td>2019-04-17</td><td><a href="/miui/cereus/stable/V10.3.1.0.OCGRUXM/">Download</a></td></tr>
 <tr><td>Redmi 6 China</td><td>Weekly</td><td>Recovery</td><td>9.4.18</td><td>8.1</td><td>1.8 GB</td><td>2019-04-19</td><td><a href="/miui/cereus/weekly/9.4.18/">Download</a></td></tr>
 <tr><td>Redmi 6 China</td><td>Weekly</td><td>Fastboot</td><td>9.4.18</td><td>8.1</td><td>2.0 GB</td><td>2019-04-19</td><td><a href="/miui/cereus/weekly/9.4.18/">Download</a></td></tr>
 <tr><td>Redmi 6 Global</td><td>Weekly</td><td>Recovery</td><td>9.4.18</td><td>8.1</td><td>1.8 GB</td><td>2019-04-19</td><td><a href="/miui/cereus/weekly/9.4.18/">Download</a></td></tr>
@@ -167,8 +169,6 @@ permalink: /archive/miui/cereus/
 <tr><td>Redmi 6 China</td><td>Weekly</td><td>Recovery</td><td>9.4.11</td><td>8.1</td><td>1.8 GB</td><td>2019-04-12</td><td><a href="/miui/cereus/weekly/9.4.11/">Download</a></td></tr>
 <tr><td>Redmi 6 Global</td><td>Weekly</td><td>Recovery</td><td>9.4.11</td><td>8.1</td><td>1.8 GB</td><td>2019-04-12</td><td><a href="/miui/cereus/weekly/9.4.11/">Download</a></td></tr>
 <tr><td>Redmi 6 Global</td><td>Weekly</td><td>Fastboot</td><td>9.4.11</td><td>8.1</td><td>1.9 GB</td><td>2019-04-11</td><td><a href="/miui/cereus/weekly/9.4.11/">Download</a></td></tr>
-<tr><td>Redmi 6 Russia</td><td>Stable</td><td>Recovery</td><td>V10.3.1.0.OCGRUXM</td><td>8.1</td><td>1.3 GB</td><td>2019-04-26</td><td><a href="/miui/cereus/stable/V10.3.1.0.OCGRUXM/">Download</a></td></tr>
-<tr><td>Redmi 6 Russia</td><td>Stable</td><td>Fastboot</td><td>V10.3.1.0.OCGRUXM</td><td>8.1</td><td>1.9 GB</td><td>2019-04-17</td><td><a href="/miui/cereus/stable/V10.3.1.0.OCGRUXM/">Download</a></td></tr>
 <tr><td>Redmi 6 China</td><td>Weekly</td><td>Recovery</td><td>9.3.28</td><td>8.1</td><td>1.8 GB</td><td>2019-03-29</td><td><a href="/miui/cereus/weekly/9.3.28/">Download</a></td></tr>
 <tr><td>Redmi 6 Global</td><td>Weekly</td><td>Recovery</td><td>9.3.28</td><td>8.1</td><td>1.8 GB</td><td>2019-03-29</td><td><a href="/miui/cereus/weekly/9.3.28/">Download</a></td></tr>
 <tr><td>Redmi 6 China</td><td>Weekly</td><td>Fastboot</td><td>9.3.28</td><td>8.1</td><td>2.0 GB</td><td>2019-03-29</td><td><a href="/miui/cereus/weekly/9.3.28/">Download</a></td></tr>
