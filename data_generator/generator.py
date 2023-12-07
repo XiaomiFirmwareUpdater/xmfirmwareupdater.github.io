@@ -416,11 +416,8 @@ def generate_miui_latest_table(item):
 mirrors = [
     "bigota.d.miui.com",
     "ks3orig.bigota.d.miui.com",
-    "xiaomi-miui-ota-update.ks3-cn-beijing.ksyun.com",
     "airtel.bigota.d.miui.com",
     "hugeota.d.miui.com",
-    "superota.d.miui.com",
-    "ultimota.d.miui.com",
 ]
 
 miui_download_button_template = """<button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('$link', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror $idx</button>"""
