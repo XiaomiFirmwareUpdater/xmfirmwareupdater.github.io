@@ -53,6 +53,7 @@ permalink: /archive/miui/air/
                 </thead>
                 <tbody>
                 <tr><td>Redmi 13R 5G India</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TGQINXM</td><td>13.0</td><td>454 Bytes</td><td>2023-11-24</td><td><a href="/miui/air/stable/V14.0.2.0.TGQINXM/">Download</a></td></tr>
+<tr><td>Redmi 13R 5G India</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TGQINXM</td><td>13.0</td><td>4.1 GB</td><td>None</td><td><a href="/miui/air/stable/V14.0.2.0.TGQINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

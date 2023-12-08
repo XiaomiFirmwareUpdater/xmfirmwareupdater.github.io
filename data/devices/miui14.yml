@@ -2332,6 +2332,12 @@
   download: https://bigota.d.miui.com/V14.0.11.0.TMBINXM/fw_nuwa_miui_NUWAINGlobal_V14.0.11.0.TMBINXM_0434ae5c79_13.0.zip
   name: Xiaomi 13 Pro
   version: V14.0.11.0.TMBINXM
+- android: '14.0'
+  codename: nuwa
+  date: '2023-12-05'
+  download: https://bigota.d.miui.com/V14.0.9.0.UMBEUXM/fw_nuwa_miui_NUWAEEAGlobal_V14.0.9.0.UMBEUXM_af014e3105_14.0.zip
+  name: Xiaomi 13 Pro
+  version: V14.0.9.0.UMBEUXM
 - android: '13.0'
   codename: nuwa
   date: '2023-04-03'
@@ -2386,6 +2392,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TKMCNXM/fw_odin_miui_ODIN_V14.0.1.0.TKMCNXM_dd4b49c456_13.0.zip
   name: MIX 4
   version: V14.0.1.0.TKMCNXM
+- android: '13.0'
+  codename: odin
+  date: '2023-12-08'
+  download: https://bigota.d.miui.com/V14.0.8.0.TKMCNXM/fw_odin_miui_ODIN_V14.0.8.0.TKMCNXM_88dba1bada_13.0.zip
+  name: MIX 4
+  version: V14.0.8.0.TKMCNXM
 - android: '13.0'
   codename: odin
   date: '2023-04-06'
@@ -3046,6 +3058,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TKLINXM/fw_rosemary_miui_ROSEMARYINGlobal_V14.0.2.0.TKLINXM_e296bfaa3b_13.0.zip
   name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
   version: V14.0.2.0.TKLINXM
+- android: '13.0'
+  codename: rosemary
+  date: '2023-12-08'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKLINXM/fw_rosemary_miui_ROSEMARYINGlobal_V14.0.6.0.TKLINXM_68098731a4_13.0.zip
+  name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
+  version: V14.0.6.0.TKLINXM
 - android: '13.0'
   codename: rosemary
   date: '2023-08-07'
@@ -4360,6 +4378,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TGDEUXM/fw_viva_miui_VIVAEEAGlobal_V14.0.1.0.TGDEUXM_1fb18a2650_13.0.zip
   name: Redmi Note 11 Pro 4G
   version: V14.0.1.0.TGDEUXM
+- android: '13.0'
+  codename: viva
+  date: '2023-12-08'
+  download: https://bigota.d.miui.com/V14.0.5.0.TGDMIXM/fw_viva_miui_VIVAGlobal_V14.0.5.0.TGDMIXM_546cd9d7d6_13.0.zip
+  name: Redmi Note 11 Pro 4G
+  version: V14.0.5.0.TGDMIXM
 - android: '13.0'
   codename: viva
   date: '2023-10-08'

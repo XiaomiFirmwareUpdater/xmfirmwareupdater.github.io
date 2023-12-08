@@ -3129,15 +3129,15 @@
     android: '14.0'
     miui: V14.0.4.0.UMBCNXM
 - branch: stable
-  date: '2023-10-31'
+  date: '2023-12-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-31.10.2023/fw_nuwa_miui_NUWAEEAGlobal_V14.0.6.0.UMBEUXM_5f652310d4_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nuwa/fw_nuwa_miui_NUWAEEAGlobal_V14.0.6.0.UMBEUXM_5f652310d4_14.0.zip
-  filename: fw_nuwa_miui_NUWAEEAGlobal_V14.0.6.0.UMBEUXM_5f652310d4_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-05.12.2023/fw_nuwa_miui_NUWAEEAGlobal_V14.0.9.0.UMBEUXM_af014e3105_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nuwa/fw_nuwa_miui_NUWAEEAGlobal_V14.0.9.0.UMBEUXM_af014e3105_14.0.zip
+  filename: fw_nuwa_miui_NUWAEEAGlobal_V14.0.9.0.UMBEUXM_af014e3105_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: V14.0.6.0.UMBEUXM
+    miui: V14.0.9.0.UMBEUXM
 - branch: stable
   date: '2023-11-20'
   downloads:
@@ -3149,15 +3149,15 @@
     android: '14.0'
     miui: V14.0.1.0.UMBINXM
 - branch: stable
-  date: '2023-06-29'
+  date: '2023-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/stable-29.06.2023/fw_odin_miui_ODIN_V14.0.6.0.TKMCNXM_444a9dea66_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/odin/fw_odin_miui_ODIN_V14.0.6.0.TKMCNXM_444a9dea66_13.0.zip
-  filename: fw_odin_miui_ODIN_V14.0.6.0.TKMCNXM_444a9dea66_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/stable-08.12.2023/fw_odin_miui_ODIN_V14.0.8.0.TKMCNXM_88dba1bada_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/odin/fw_odin_miui_ODIN_V14.0.8.0.TKMCNXM_88dba1bada_13.0.zip
+  filename: fw_odin_miui_ODIN_V14.0.8.0.TKMCNXM_88dba1bada_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.6.0.TKMCNXM
+    miui: V14.0.8.0.TKMCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -4079,15 +4079,15 @@
     android: '13.0'
     miui: V14.0.7.0.TKLEUXM
 - branch: stable
-  date: '2023-10-11'
+  date: '2023-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-11.10.2023/fw_rosemary_miui_ROSEMARYINGlobal_V14.0.5.0.TKLINXM_88508ddbcd_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/rosemary/fw_rosemary_miui_ROSEMARYINGlobal_V14.0.5.0.TKLINXM_88508ddbcd_13.0.zip
-  filename: fw_rosemary_miui_ROSEMARYINGlobal_V14.0.5.0.TKLINXM_88508ddbcd_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-08.12.2023/fw_rosemary_miui_ROSEMARYINGlobal_V14.0.6.0.TKLINXM_68098731a4_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/rosemary/fw_rosemary_miui_ROSEMARYINGlobal_V14.0.6.0.TKLINXM_68098731a4_13.0.zip
+  filename: fw_rosemary_miui_ROSEMARYINGlobal_V14.0.6.0.TKLINXM_68098731a4_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TKLINXM
+    miui: V14.0.6.0.TKLINXM
 - branch: stable
   date: '2020-01-19'
   downloads:
@@ -5289,15 +5289,15 @@
     android: '10.0'
     miui: V12.5.1.0.QFHINXM
 - branch: stable
-  date: '2023-10-13'
+  date: '2023-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_viva/releases/download/stable-13.10.2023/fw_viva_miui_VIVAGlobal_V14.0.4.0.TGDMIXM_0cfc0dece8_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/viva/fw_viva_miui_VIVAGlobal_V14.0.4.0.TGDMIXM_0cfc0dece8_13.0.zip
-  filename: fw_viva_miui_VIVAGlobal_V14.0.4.0.TGDMIXM_0cfc0dece8_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_viva/releases/download/stable-08.12.2023/fw_viva_miui_VIVAGlobal_V14.0.5.0.TGDMIXM_546cd9d7d6_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/viva/fw_viva_miui_VIVAGlobal_V14.0.5.0.TGDMIXM_546cd9d7d6_13.0.zip
+  filename: fw_viva_miui_VIVAGlobal_V14.0.5.0.TGDMIXM_546cd9d7d6_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TGDMIXM
+    miui: V14.0.5.0.TGDMIXM
 - branch: stable
   date: '2023-10-08'
   downloads:
