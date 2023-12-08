@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 08 Dec 2023 07:49:03 </lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 12:59:24 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>MIX 4 (odin) - V14.0.8.0.TKMCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/odin/</link>
+            <pubDate>Fri, 08 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.7.0.TKTEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/pissarro/</link>
             <pubDate>Fri, 08 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -869,11 +874,6 @@
         <item>
             <title>Redmi 10C (fog) - V14.0.4.0.TGEEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fog/</link>
-            <pubDate>Fri, 15 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.6.0.TKTEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/pissarro/</link>
             <pubDate>Fri, 15 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
