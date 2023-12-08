@@ -1,7 +1,7 @@
 ---
-title: Redmi 13R 5G (air) Firmware Downloads
+title: Redmi 13R 5G/13C 5G/POCO M6 5G (air) Firmware Downloads
 layout: download
-name: Redmi 13R 5G
+name: Redmi 13R 5G/13C 5G/POCO M6 5G
 codename: air
 permalink: /archive/firmware/air/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/air/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/air/">Redmi 13R 5G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/air/">Redmi 13R 5G/13C 5G/POCO M6 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

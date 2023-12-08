@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 08 Dec 2023 12:59:24 </lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 19:35:18 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - V14.0.4.0.TGQCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/air/</link>
+            <pubDate>Fri, 08 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11R (lightcm) - V14.0.10.0.TLSCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/lightcm/</link>
+            <pubDate>Fri, 08 Dec 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>MIX 4 (odin) - V14.0.8.0.TKMCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/odin/</link>
@@ -540,11 +550,6 @@
             <title>Xiaomi 12 Pro (zeus) - V14.0.9.0.TLBMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Tue, 24 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11R (lightcm) - V14.0.8.0.TLSCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/lightcm/</link>
-            <pubDate>Mon, 23 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K50 Pro (matisse) - V14.0.13.0.TLKCNXM</title>
