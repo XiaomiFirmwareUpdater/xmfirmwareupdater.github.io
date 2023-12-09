@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 09 Dec 2023 06:34:12 </lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 12:36:43 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - V14.0.4.0.TGQCNXM</title>
@@ -154,11 +154,6 @@
         <item>
             <title>Redmi Pad SE (xun) - V14.0.4.0.TMUMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
-            <pubDate>Fri, 01 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.12.0.TLLEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Fri, 01 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -729,6 +724,11 @@
         <item>
             <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V14.0.7.0.TKUEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/selene/</link>
+            <pubDate>Thu, 12 Oct 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.9.0.TLLEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Thu, 12 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
