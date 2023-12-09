@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 09 Dec 2023 12:36:43 </lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 19:18:18 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.6.0.TMSCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/redwood/</link>
+            <pubDate>Sat, 09 Dec 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - V14.0.4.0.TGQCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/air/</link>
@@ -154,6 +159,11 @@
         <item>
             <title>Redmi Pad SE (xun) - V14.0.4.0.TMUMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
+            <pubDate>Fri, 01 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.12.0.TLLEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Fri, 01 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -727,11 +737,6 @@
             <pubDate>Thu, 12 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.9.0.TLLEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ziyi/</link>
-            <pubDate>Thu, 12 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V14.0.8.0.TLSINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/light/</link>
             <pubDate>Wed, 11 Oct 2023 00:00:00 </pubDate>
@@ -810,11 +815,6 @@
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.2.0.TMWMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
             <pubDate>Tue, 26 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.4.0.TMSCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/redwood/</link>
-            <pubDate>Mon, 25 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.11.0.TGOINXM</title>
