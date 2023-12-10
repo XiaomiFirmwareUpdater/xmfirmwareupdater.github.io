@@ -438,6 +438,18 @@
   version: V14.0.6.0.TMLMIXM
 - android: '13.0'
   codename: corot
+  date: '2023-12-10'
+  download: https://bigota.d.miui.com/V14.0.16.0.TMLEUXM/fw_corot_miui_COROTEEAGlobal_V14.0.16.0.TMLEUXM_9462d925c3_13.0.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: V14.0.16.0.TMLEUXM
+- android: '13.0'
+  codename: corot
+  date: '2023-12-10'
+  download: https://bigota.d.miui.com/V14.0.12.0.TMLMIXM/fw_corot_miui_COROTGlobal_V14.0.12.0.TMLMIXM_d4810ddaca_13.0.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: V14.0.12.0.TMLMIXM
+- android: '13.0'
+  codename: corot
   date: '2023-11-10'
   download: https://bigota.d.miui.com/V14.0.14.0.TMLCNXM/fw_corot_miui_COROT_V14.0.14.0.TMLCNXM_0c4fddade3_13.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
@@ -994,6 +1006,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TKEEUXM/fw_fleur_miui_FLEUREEAGlobal_V14.0.5.0.TKEEUXM_25b24748bc_13.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: V14.0.5.0.TKEEUXM
+- android: '13.0'
+  codename: fleur
+  date: '2023-12-10'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKEINXM/fw_fleur_miui_FLEURINGlobal_V14.0.5.0.TKEINXM_c61b6380a5_13.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: V14.0.5.0.TKEINXM
 - android: '13.0'
   codename: fleur
   date: '2023-10-10'

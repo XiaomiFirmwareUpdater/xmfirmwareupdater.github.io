@@ -15679,6 +15679,26 @@
     android: '13.0'
     miui: V14.0.6.0.TMLMIXM
 - branch: stable
+  date: '2023-12-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-10.12.2023/fw_corot_miui_COROTEEAGlobal_V14.0.16.0.TMLEUXM_9462d925c3_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/corot/fw_corot_miui_COROTEEAGlobal_V14.0.16.0.TMLEUXM_9462d925c3_13.0.zip
+  filename: fw_corot_miui_COROTEEAGlobal_V14.0.16.0.TMLEUXM_9462d925c3_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.16.0.TMLEUXM
+- branch: stable
+  date: '2023-12-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-10.12.2023/fw_corot_miui_COROTGlobal_V14.0.12.0.TMLMIXM_d4810ddaca_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/corot/fw_corot_miui_COROTGlobal_V14.0.12.0.TMLMIXM_d4810ddaca_13.0.zip
+  filename: fw_corot_miui_COROTGlobal_V14.0.12.0.TMLMIXM_d4810ddaca_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.12.0.TMLMIXM
+- branch: stable
   date: '2023-11-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-10.11.2023/fw_corot_miui_COROT_V14.0.14.0.TMLCNXM_0c4fddade3_13.0.zip
@@ -23258,6 +23278,16 @@
   versions:
     android: '11.0'
     miui: V13.0.2.0.RKEINXM
+- branch: stable
+  date: '2023-12-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-10.12.2023/fw_fleur_miui_FLEURINGlobal_V14.0.5.0.TKEINXM_c61b6380a5_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fleur/fw_fleur_miui_FLEURINGlobal_V14.0.5.0.TKEINXM_c61b6380a5_13.0.zip
+  filename: fw_fleur_miui_FLEURINGlobal_V14.0.5.0.TKEINXM_c61b6380a5_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TKEINXM
 - branch: stable
   date: '2022-11-10'
   downloads:

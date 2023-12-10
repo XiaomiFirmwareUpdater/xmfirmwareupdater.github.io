@@ -909,15 +909,15 @@
     android: '13.0'
     miui: V14.0.3.0.TJAEUXM
 - branch: stable
-  date: '2023-11-06'
+  date: '2023-12-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-07.11.2023/fw_corot_miui_COROTGlobal_V14.0.9.0.TMLMIXM_b9c736328d_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/corot/fw_corot_miui_COROTGlobal_V14.0.9.0.TMLMIXM_b9c736328d_13.0.zip
-  filename: fw_corot_miui_COROTGlobal_V14.0.9.0.TMLMIXM_b9c736328d_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-10.12.2023/fw_corot_miui_COROTGlobal_V14.0.12.0.TMLMIXM_d4810ddaca_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/corot/fw_corot_miui_COROTGlobal_V14.0.12.0.TMLMIXM_d4810ddaca_13.0.zip
+  filename: fw_corot_miui_COROTGlobal_V14.0.12.0.TMLMIXM_d4810ddaca_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.9.0.TMLMIXM
+    miui: V14.0.12.0.TMLMIXM
 - branch: stable
   date: '2023-12-03'
   downloads:
@@ -929,15 +929,15 @@
     android: '14.0'
     miui: OS1.0.5.0.UMLCNXM
 - branch: stable
-  date: '2023-11-27'
+  date: '2023-12-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-27.11.2023/fw_corot_miui_COROTEEAGlobal_V14.0.15.0.TMLEUXM_2c44bec48c_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/corot/fw_corot_miui_COROTEEAGlobal_V14.0.15.0.TMLEUXM_2c44bec48c_13.0.zip
-  filename: fw_corot_miui_COROTEEAGlobal_V14.0.15.0.TMLEUXM_2c44bec48c_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-10.12.2023/fw_corot_miui_COROTEEAGlobal_V14.0.16.0.TMLEUXM_9462d925c3_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/corot/fw_corot_miui_COROTEEAGlobal_V14.0.16.0.TMLEUXM_9462d925c3_13.0.zip
+  filename: fw_corot_miui_COROTEEAGlobal_V14.0.16.0.TMLEUXM_9462d925c3_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.15.0.TMLEUXM
+    miui: V14.0.16.0.TMLEUXM
 - branch: stable
   date: '2023-11-03'
   downloads:
@@ -1479,15 +1479,15 @@
     android: '13.0'
     miui: V14.0.5.0.TKEEUXM
 - branch: stable
-  date: '2023-09-04'
+  date: '2023-12-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-04.09.2023/fw_fleur_miui_FLEURINGlobal_V14.0.4.0.TKEINXM_afc380ab0b_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fleur/fw_fleur_miui_FLEURINGlobal_V14.0.4.0.TKEINXM_afc380ab0b_13.0.zip
-  filename: fw_fleur_miui_FLEURINGlobal_V14.0.4.0.TKEINXM_afc380ab0b_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-10.12.2023/fw_fleur_miui_FLEURINGlobal_V14.0.5.0.TKEINXM_c61b6380a5_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fleur/fw_fleur_miui_FLEURINGlobal_V14.0.5.0.TKEINXM_c61b6380a5_13.0.zip
+  filename: fw_fleur_miui_FLEURINGlobal_V14.0.5.0.TKEINXM_c61b6380a5_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TKEINXM
+    miui: V14.0.5.0.TKEINXM
 - branch: stable
   date: '2023-10-13'
   downloads:
