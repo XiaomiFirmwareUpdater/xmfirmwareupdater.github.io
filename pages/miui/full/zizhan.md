@@ -52,7 +52,8 @@ permalink: /archive/miui/zizhan/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi MIX Fold 2 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.18.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-09-22</td><td><a href="/miui/zizhan/public beta/V14.0.23.9.18.DEV/">Download</a></td></tr>
+                <tr><td>Xiaomi MIX Fold 2 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.11.27.DEV</td><td>14.0</td><td>6.0 GB</td><td>2023-12-01</td><td><a href="/hyperos/zizhan/public beta/OS1.0.23.11.27.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi MIX Fold 2 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.18.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-09-22</td><td><a href="/miui/zizhan/public beta/V14.0.23.9.18.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.11.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-09-15</td><td><a href="/miui/zizhan/public beta/V14.0.23.9.11.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.4.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-09-08</td><td><a href="/miui/zizhan/public beta/V14.0.23.9.4.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.8.28.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-09-01</td><td><a href="/miui/zizhan/public beta/V14.0.23.8.28.DEV/">Download</a></td></tr>
@@ -98,10 +99,10 @@ permalink: /archive/miui/zizhan/
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.20.DEV</td><td>12.0</td><td>5.7 GB</td><td>2022-10-21</td><td><a href="/miui/zizhan/public beta/V13.1.22.10.20.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.11.DEV</td><td>12.0</td><td>5.7 GB</td><td>2022-10-14</td><td><a href="/miui/zizhan/public beta/V13.1.22.10.11.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.28.DEV</td><td>12.0</td><td>5.7 GB</td><td>2022-09-30</td><td><a href="/miui/zizhan/public beta/V13.1.22.9.28.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Recovery</td><td>V13.1.21.0.SLRCNXM</td><td>12.0</td><td>5.8 GB</td><td>2022-09-25</td><td><a href="/miui/zizhan/stable/V13.1.21.0.SLRCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Fastboot</td><td>V13.1.21.0.SLRCNXM</td><td>12.0</td><td>7.6 GB</td><td>2022-09-20</td><td><a href="/miui/zizhan/stable/V13.1.21.0.SLRCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TLRCNXM</td><td>13.0</td><td>6.1 GB</td><td>2023-01-10</td><td><a href="/miui/zizhan/stable/V14.0.3.0.TLRCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TLRCNXM</td><td>13.0</td><td>7.7 GB</td><td>2023-01-09</td><td><a href="/miui/zizhan/stable/V14.0.3.0.TLRCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Recovery</td><td>V13.1.21.0.SLRCNXM</td><td>12.0</td><td>5.8 GB</td><td>2022-09-25</td><td><a href="/miui/zizhan/stable/V13.1.21.0.SLRCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Fastboot</td><td>V13.1.21.0.SLRCNXM</td><td>12.0</td><td>7.6 GB</td><td>2022-09-20</td><td><a href="/miui/zizhan/stable/V13.1.21.0.SLRCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.19.DEV</td><td>12.0</td><td>5.7 GB</td><td>2022-09-23</td><td><a href="/miui/zizhan/public beta/V13.1.22.9.19.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.12.DEV</td><td>12.0</td><td>5.7 GB</td><td>2022-09-16</td><td><a href="/miui/zizhan/public beta/V13.1.22.9.12.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Public Beta</td><td>Fastboot</td><td>V13.1.22.9.5.DEV</td><td>12.0</td><td>6.3 GB</td><td>2022-09-13</td><td><a href="/miui/zizhan/public beta/V13.1.22.9.5.DEV/">Download</a></td></tr>
