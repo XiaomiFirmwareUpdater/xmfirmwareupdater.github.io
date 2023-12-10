@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 10 Dec 2023 12:35:14 </lastBuildDate>
+        <lastBuildDate>Sun, 10 Dec 2023 18:53:42 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - V14.0.12.0.TMLMIXM</title>
@@ -19,6 +19,11 @@
         <item>
             <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V14.0.5.0.TKEINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fleur/</link>
+            <pubDate>Sun, 10 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V14.0.7.0.TLSMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/light/</link>
             <pubDate>Sun, 10 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -729,11 +734,6 @@
         <item>
             <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V14.0.5.0.TKEEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fleur/</link>
-            <pubDate>Thu, 12 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V14.0.6.0.TLSMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/light/</link>
             <pubDate>Thu, 12 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
