@@ -1068,6 +1068,12 @@
   version: V14.0.4.0.TGEMIXM
 - android: '13.0'
   codename: fog
+  date: '2023-12-11'
+  download: https://bigota.d.miui.com/V14.0.4.0.TGEINXM/fw_fog_miui_FOGINGlobal_V14.0.4.0.TGEINXM_6fe51fb34a_13.0.zip
+  name: Redmi 10C
+  version: V14.0.4.0.TGEINXM
+- android: '13.0'
+  codename: fog
   date: '2023-08-07'
   download: https://bigota.d.miui.com/V14.0.2.0.TGEINXM/fw_fog_miui_FOGINGlobal_V14.0.2.0.TGEINXM_b6853be066_13.0.zip
   name: Redmi 10C
@@ -1594,6 +1600,12 @@
   download: https://bigota.d.miui.com/V14.0.6.0.TLSMIXM/fw_light_miui_LIGHTGlobal_V14.0.6.0.TLSMIXM_961f284da0_13.0.zip
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
   version: V14.0.6.0.TLSMIXM
+- android: '13.0'
+  codename: light
+  date: '2023-12-11'
+  download: https://bigota.d.miui.com/V14.0.8.0.TLSEUXM/fw_light_miui_LIGHTEEAGlobal_V14.0.8.0.TLSEUXM_206bacf890_13.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: V14.0.8.0.TLSEUXM
 - android: '13.0'
   codename: light
   date: '2023-10-11'
@@ -2244,6 +2256,18 @@
   version: V14.0.6.0.TKXMIXM
 - android: '13.0'
   codename: nabu
+  date: '2023-12-11'
+  download: https://bigota.d.miui.com/V14.0.8.0.TKXEUXM/fw_nabu_miui_NABUEEAGlobal_V14.0.8.0.TKXEUXM_13889f8121_13.0.zip
+  name: Xiaomi Pad 5
+  version: V14.0.8.0.TKXEUXM
+- android: '13.0'
+  codename: nabu
+  date: '2023-12-11'
+  download: https://bigota.d.miui.com/V14.0.7.0.TKXMIXM/fw_nabu_miui_NABUGlobal_V14.0.7.0.TKXMIXM_451f0cbd40_13.0.zip
+  name: Xiaomi Pad 5
+  version: V14.0.7.0.TKXMIXM
+- android: '13.0'
+  codename: nabu
   date: '2023-11-11'
   download: https://bigota.d.miui.com/V14.0.7.0.TKXINXM/fw_nabu_miui_NABUINGlobal_V14.0.7.0.TKXINXM_fc0175f53f_13.0.zip
   name: Xiaomi Pad 5
@@ -2754,6 +2778,18 @@
   version: V14.0.3.0.TLDMIXM
 - android: '13.0'
   codename: psyche
+  date: '2023-12-11'
+  download: https://bigota.d.miui.com/V14.0.4.0.TLDEUXM/fw_psyche_miui_PSYCHEEEAGlobal_V14.0.4.0.TLDEUXM_1023542b92_13.0.zip
+  name: Xiaomi 12X
+  version: V14.0.4.0.TLDEUXM
+- android: '13.0'
+  codename: psyche
+  date: '2023-12-11'
+  download: https://bigota.d.miui.com/V14.0.11.0.TLDCNXM/fw_psyche_miui_PSYCHE_V14.0.11.0.TLDCNXM_d27bdefc54_13.0.zip
+  name: Xiaomi 12X
+  version: V14.0.11.0.TLDCNXM
+- android: '13.0'
+  codename: psyche
   date: '2023-05-08'
   download: https://bigota.d.miui.com/V14.0.4.0.TLDMIXM/fw_psyche_miui_PSYCHEGlobal_V14.0.4.0.TLDMIXM_5e986f1a3c_13.0.zip
   name: Xiaomi 12X
@@ -2836,6 +2872,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TMSMIXM/fw_redwood_miui_REDWOODGlobal_V14.0.5.0.TMSMIXM_d4c47d0905_13.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: V14.0.5.0.TMSMIXM
+- android: '13.0'
+  codename: redwood
+  date: '2023-12-11'
+  download: https://bigota.d.miui.com/V14.0.5.0.TMSEUXM/fw_redwood_miui_REDWOODEEAGlobal_V14.0.5.0.TMSEUXM_787e502307_13.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: V14.0.5.0.TMSEUXM
 - android: '13.0'
   codename: redwood
   date: '2023-07-11'
@@ -3720,6 +3762,12 @@
   version: V14.0.4.0.TMQCNXM
 - android: '13.0'
   codename: sunstone
+  date: '2023-12-11'
+  download: https://bigota.d.miui.com/V14.0.5.0.TMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_V14.0.5.0.TMQEUXM_7a94e186fd_13.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: V14.0.5.0.TMQEUXM
+- android: '13.0'
+  codename: sunstone
   date: '2023-07-11'
   download: https://bigota.d.miui.com/V14.0.3.0.TMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_V14.0.3.0.TMQEUXM_6c9d709926_13.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
@@ -4278,6 +4326,12 @@
   version: V14.0.2.0.TKCEUXM
 - android: '13.0'
   codename: veux
+  date: '2023-12-11'
+  download: https://bigota.d.miui.com/V14.0.7.0.TKCEUXM/fw_veux_miui_VEUXEEAGlobal_V14.0.7.0.TKCEUXM_358e83a0f6_13.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: V14.0.7.0.TKCEUXM
+- android: '13.0'
+  codename: veux
   date: '2023-08-11'
   download: https://bigota.d.miui.com/V14.0.3.0.TKCCNXM/fw_veux_miui_VEUX_V14.0.3.0.TKCCNXM_f1d603a106_13.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
@@ -4372,6 +4426,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TKDMIXM/fw_vili_miui_VILIGlobal_V14.0.3.0.TKDMIXM_e7abe78e55_13.0.zip
   name: Xiaomi 11T Pro
   version: V14.0.3.0.TKDMIXM
+- android: '13.0'
+  codename: vili
+  date: '2023-12-11'
+  download: https://bigota.d.miui.com/V14.0.7.0.TKDINXM/fw_vili_miui_VILIINGlobal_V14.0.7.0.TKDINXM_593fa57718_13.0.zip
+  name: Xiaomi 11T Pro
+  version: V14.0.7.0.TKDINXM
 - android: '13.0'
   codename: vili
   date: '2023-08-11'
@@ -4918,3 +4978,9 @@
   download: https://bigota.d.miui.com/V14.0.12.0.TLRCNXM/fw_zizhan_miui_ZIZHAN_V14.0.12.0.TLRCNXM_f98d8eb3c3_13.0.zip
   name: Xiaomi MIX Fold 2
   version: V14.0.12.0.TLRCNXM
+- android: '13.0'
+  codename: zizhan
+  date: '2023-12-11'
+  download: https://bigota.d.miui.com/V14.0.14.0.TLRCNXM/fw_zizhan_miui_ZIZHAN_V14.0.14.0.TLRCNXM_ae77ba7ef4_13.0.zip
+  name: Xiaomi MIX Fold 2
+  version: V14.0.14.0.TLRCNXM
