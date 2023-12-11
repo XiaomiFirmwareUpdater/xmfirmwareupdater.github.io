@@ -924,6 +924,12 @@
   version: V14.0.4.0.TMXEUXM
 - android: '13.0'
   codename: fire
+  date: '2023-10-19'
+  download: https://bigota.d.miui.com/V14.0.11.0.TMXMIXM/fw_fire_miui_FIREGlobal_V14.0.11.0.TMXMIXM_8602dd8854_13.0.zip
+  name: Redmi 12
+  version: V14.0.11.0.TMXMIXM
+- android: '13.0'
+  codename: fire
   date: '2023-09-14'
   download: https://bigota.d.miui.com/V14.0.4.0.TMXINXM/fw_fire_miui_FIREINGlobal_V14.0.4.0.TMXINXM_c34c646995_13.0.zip
   name: Redmi 12
@@ -2670,6 +2676,12 @@
   version: V14.0.4.0.TKTCNXM
 - android: '13.0'
   codename: pissarro
+  date: '2023-12-11'
+  download: https://bigota.d.miui.com/V14.0.8.0.TKTCNXM/fw_pissarro_miui_PISSARRO_V14.0.8.0.TKTCNXM_d84e6e6d48_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: V14.0.8.0.TKTCNXM
+- android: '13.0'
+  codename: pissarro
   date: '2023-12-08'
   download: https://bigota.d.miui.com/V14.0.7.0.TKTEUXM/fw_pissarro_miui_PISSARROEEAGlobal_V14.0.7.0.TKTEUXM_3d56d5a5ec_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
@@ -3048,6 +3060,12 @@
   version: V14.0.3.0.TKIMIXM
 - android: '13.0'
   codename: renoir
+  date: '2023-12-11'
+  download: https://bigota.d.miui.com/V14.0.12.0.TKICNXM/fw_renoir_miui_RENOIR_V14.0.12.0.TKICNXM_250f526ff9_13.0.zip
+  name: Mi 11 Lite 5G
+  version: V14.0.12.0.TKICNXM
+- android: '13.0'
+  codename: renoir
   date: '2023-02-06'
   download: https://bigota.d.miui.com/V14.0.5.0.TKIEUXM/fw_renoir_miui_RENOIREEAGlobal_V14.0.5.0.TKIEUXM_fe45955323_13.0.zip
   name: Mi 11 Lite 5G
@@ -3328,6 +3346,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TMOINXM/fw_ruby_miui_RUBYINGlobal_V14.0.4.0.TMOINXM_fc2af2b961_13.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: V14.0.4.0.TMOINXM
+- android: '13.0'
+  codename: ruby
+  date: '2023-12-11'
+  download: https://bigota.d.miui.com/V14.0.11.0.TMOEUXM/fw_ruby_miui_RUBYEEAGlobal_V14.0.11.0.TMOEUXM_d941e00fe2_13.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: V14.0.11.0.TMOEUXM
 - android: '12.0'
   codename: ruby
   date: '2023-04-10'
@@ -4282,6 +4306,12 @@
   download: https://bigota.d.miui.com/V14.0.8.0.TKBCNXM/fw_venus_miui_VENUS_V14.0.8.0.TKBCNXM_3db9892b71_13.0.zip
   name: Mi 11
   version: V14.0.8.0.TKBCNXM
+- android: '13.0'
+  codename: venus
+  date: '2023-12-11'
+  download: https://bigota.d.miui.com/V14.0.7.0.TKBEUXM/fw_venus_miui_VENUSEEAGlobal_V14.0.7.0.TKBEUXM_7a3895f2e1_13.0.zip
+  name: Mi 11
+  version: V14.0.7.0.TKBEUXM
 - android: '13.0'
   codename: venus
   date: '2023-08-11'
