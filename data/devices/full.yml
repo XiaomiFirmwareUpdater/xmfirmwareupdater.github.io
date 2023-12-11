@@ -22969,16 +22969,6 @@
     android: '13.0'
     miui: V14.0.4.0.TMXEUXM
 - branch: stable
-  date: '2023-10-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-19.10.2023/fw_fire_miui_FIREGlobal_V14.0.11.0.TMXMIXM_8602dd8854_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fire/fw_fire_miui_FIREGlobal_V14.0.11.0.TMXMIXM_8602dd8854_13.0.zip
-  filename: fw_fire_miui_FIREGlobal_V14.0.11.0.TMXMIXM_8602dd8854_13.0.zip
-  region: Global
-  versions:
-    android: '13.0'
-    miui: V14.0.11.0.TMXMIXM
-- branch: stable
   date: '2023-09-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-14.09.2023/fw_fire_miui_FIREINGlobal_V14.0.4.0.TMXINXM_c34c646995_13.0.zip
@@ -36538,6 +36528,16 @@
   versions:
     android: '13.0'
     miui: V14.0.5.0.TLTCNXM
+- branch: stable
+  date: '2023-12-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-11.12.2023/fw_mayfly_miui_MAYFLY_V14.0.11.0.TLTCNXM_df28bdbf98_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mayfly/fw_mayfly_miui_MAYFLY_V14.0.11.0.TLTCNXM_df28bdbf98_13.0.zip
+  filename: fw_mayfly_miui_MAYFLY_V14.0.11.0.TLTCNXM_df28bdbf98_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.11.0.TLTCNXM
 - branch: stable
   date: '2022-08-11'
   downloads:
@@ -62929,6 +62929,16 @@
     android: '13.0'
     miui: V14.0.7.0.TLECNXM
 - branch: stable
+  date: '2023-12-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_unicorn/releases/download/stable-11.12.2023/fw_unicorn_miui_UNICORN_V14.0.11.0.TLECNXM_a358061ab8_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/unicorn/fw_unicorn_miui_UNICORN_V14.0.11.0.TLECNXM_a358061ab8_13.0.zip
+  filename: fw_unicorn_miui_UNICORN_V14.0.11.0.TLECNXM_a358061ab8_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.11.0.TLECNXM
+- branch: stable
   date: '2023-01-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_unicorn/releases/download/stable-11.01.2023/fw_unicorn_miui_UNICORN_V14.0.4.0.TLECNXM_5d047a1bdd_13.0.zip
@@ -65698,6 +65708,16 @@
   versions:
     android: '12.0'
     miui: V13.0.9.0.SKBCNXM
+- branch: stable
+  date: '2023-12-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-11.12.2023/fw_vermeer_miui_VERMEER_OS1.0.7.0.UNKCNXM_98005153d7_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vermeer/fw_vermeer_miui_VERMEER_OS1.0.7.0.UNKCNXM_98005153d7_14.0.zip
+  filename: fw_vermeer_miui_VERMEER_OS1.0.7.0.UNKCNXM_98005153d7_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.7.0.UNKCNXM
 - branch: stable
   date: '2023-12-01'
   downloads:
@@ -69968,6 +69988,16 @@
   versions:
     android: '13.0'
     miui: V14.0.6.0.TMHCNXM
+- branch: stable
+  date: '2023-12-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-11.12.2023/fw_yudi_miui_YUDI_OS1.0.2.0.UMHCNXM_34efc69cc0_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yudi/fw_yudi_miui_YUDI_OS1.0.2.0.UMHCNXM_34efc69cc0_14.0.zip
+  filename: fw_yudi_miui_YUDI_OS1.0.2.0.UMHCNXM_34efc69cc0_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.UMHCNXM
 - branch: stable
   date: '2023-05-31'
   downloads:

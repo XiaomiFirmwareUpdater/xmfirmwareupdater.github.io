@@ -132,7 +132,19 @@
   version: OS1.0.14.0.UNBCNXM
 - android: '14.0'
   codename: vermeer
+  date: '2023-12-11'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.7.0.UNKCNXM_98005153d7_14.0.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS1.0.7.0.UNKCNXM
+- android: '14.0'
+  codename: vermeer
   date: '2023-12-01'
   download: https://bigota.d.miui.com/OS1.0.5.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.5.0.UNKCNXM_164e6600c7_14.0.zip
   name: Redmi K70/POCO F6 Pro
   version: OS1.0.5.0.UNKCNXM
+- android: '14.0'
+  codename: yudi
+  date: '2023-12-11'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UMHCNXM/fw_yudi_miui_YUDI_OS1.0.2.0.UMHCNXM_34efc69cc0_14.0.zip
+  name: Xiaomi Pad 6 Max 14
+  version: OS1.0.2.0.UMHCNXM

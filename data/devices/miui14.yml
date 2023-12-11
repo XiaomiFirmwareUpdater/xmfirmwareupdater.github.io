@@ -924,12 +924,6 @@
   version: V14.0.4.0.TMXEUXM
 - android: '13.0'
   codename: fire
-  date: '2023-10-19'
-  download: https://bigota.d.miui.com/V14.0.11.0.TMXMIXM/fw_fire_miui_FIREGlobal_V14.0.11.0.TMXMIXM_8602dd8854_13.0.zip
-  name: Redmi 12
-  version: V14.0.11.0.TMXMIXM
-- android: '13.0'
-  codename: fire
   date: '2023-09-14'
   download: https://bigota.d.miui.com/V14.0.4.0.TMXINXM/fw_fire_miui_FIREINGlobal_V14.0.4.0.TMXINXM_c34c646995_13.0.zip
   name: Redmi 12
@@ -2020,6 +2014,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TLTCNXM/fw_mayfly_miui_MAYFLY_V14.0.5.0.TLTCNXM_c9b9d9dadb_13.0.zip
   name: Xiaomi 12S
   version: V14.0.5.0.TLTCNXM
+- android: '13.0'
+  codename: mayfly
+  date: '2023-12-11'
+  download: https://bigota.d.miui.com/V14.0.11.0.TLTCNXM/fw_mayfly_miui_MAYFLY_V14.0.11.0.TLTCNXM_df28bdbf98_13.0.zip
+  name: Xiaomi 12S
+  version: V14.0.11.0.TLTCNXM
 - android: '13.0'
   codename: mayfly
   date: '2023-10-02'
@@ -4174,6 +4174,12 @@
   download: https://bigota.d.miui.com/V14.0.7.0.TLECNXM/fw_unicorn_miui_UNICORN_V14.0.7.0.TLECNXM_28340a028e_13.0.zip
   name: Xiaomi 12S Pro
   version: V14.0.7.0.TLECNXM
+- android: '13.0'
+  codename: unicorn
+  date: '2023-12-11'
+  download: https://bigota.d.miui.com/V14.0.11.0.TLECNXM/fw_unicorn_miui_UNICORN_V14.0.11.0.TLECNXM_a358061ab8_13.0.zip
+  name: Xiaomi 12S Pro
+  version: V14.0.11.0.TLECNXM
 - android: '13.0'
   codename: unicorn
   date: '2023-01-10'

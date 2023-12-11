@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 11 Dec 2023 10:21:48 </lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 14:12:24 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 10C (fog) - V14.0.4.0.TGEINXM</title>
@@ -14,6 +14,11 @@
         <item>
             <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V14.0.8.0.TLSEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/light/</link>
+            <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12S (mayfly) - V14.0.11.0.TLTCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/mayfly/</link>
             <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -47,6 +52,16 @@
             <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 12S Pro (unicorn) - V14.0.11.0.TLECNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/unicorn/</link>
+            <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70/POCO F6 Pro (vermeer) - OS1.0.7.0.UNKCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/vermeer/</link>
+            <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V14.0.7.0.TKCEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/veux/</link>
             <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
@@ -54,6 +69,11 @@
         <item>
             <title>Xiaomi 11T Pro (vili) - V14.0.7.0.TKDINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/vili/</link>
+            <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 6 Max 14 (yudi) - OS1.0.2.0.UMHCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/yudi/</link>
             <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -225,11 +245,6 @@
             <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V14.0.9.0.TLSCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/light/</link>
             <pubDate>Sat, 02 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70/POCO F6 Pro (vermeer) - OS1.0.5.0.UNKCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/vermeer/</link>
-            <pubDate>Fri, 01 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Pad SE (xun) - V14.0.4.0.TMUMIXM</title>
@@ -842,18 +857,8 @@
             <pubDate>Tue, 03 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12S Pro (unicorn) - V14.0.10.0.TLECNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/unicorn/</link>
-            <pubDate>Tue, 03 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.4.0.TLFMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
-            <pubDate>Mon, 02 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12S (mayfly) - V14.0.10.0.TLTCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/mayfly/</link>
             <pubDate>Mon, 02 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -875,11 +880,6 @@
             <title>Xiaomi Civi (mona) - V14.0.6.0.TKVCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/mona/</link>
             <pubDate>Sat, 23 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 Max 14 (yudi) - V14.0.6.0.TMHCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/yudi/</link>
-            <pubDate>Fri, 22 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 12 Pro (zeus) - V14.0.4.0.TLBINXM</title>

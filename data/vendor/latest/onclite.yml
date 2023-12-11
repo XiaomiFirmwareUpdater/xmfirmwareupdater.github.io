@@ -32,6 +32,17 @@
     android: '9.0'
     miui: V11.0.10.0.PFLEUXM
 - branch: stable
+  date: '2020-09-10'
+  downloads:
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/onclite_in_global-stable/fw-vendor_onc_miui_ONCLITEINGlobal_V11.0.7.0.PFLINXM_70658eb09d_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite_in_global-stable/fw-vendor_onc_miui_ONCLITEINGlobal_V11.0.7.0.PFLINXM_70658eb09d_9.0.zip/download
+  filename: fw-vendor_onc_miui_ONCLITEINGlobal_V11.0.7.0.PFLINXM_70658eb09d_9.0.zip
+  region: India
+  size: 295.6 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.7.0.PFLINXM
+- branch: stable
   date: '2020-08-31'
   downloads:
     github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/onclite_ru_global-stable/fw-vendor_onc_miui_ONCLITERUGlobal_V11.0.8.0.PFLRUXM_2ff47cf192_9.0.zip

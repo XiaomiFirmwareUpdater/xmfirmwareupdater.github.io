@@ -52,7 +52,8 @@ permalink: /archive/miui/yudi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMHCNXM</td><td>13.0</td><td>5.7 GB</td><td>2023-09-19</td><td><a href="/miui/yudi/stable/V14.0.6.0.TMHCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UMHCNXM</td><td>14.0</td><td>5.9 GB</td><td>2023-12-07</td><td><a href="/hyperos/yudi/stable beta/OS1.0.2.0.UMHCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMHCNXM</td><td>13.0</td><td>5.7 GB</td><td>2023-09-19</td><td><a href="/miui/yudi/stable/V14.0.6.0.TMHCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TMHCNXM</td><td>13.0</td><td>6.7 GB</td><td>2023-09-15</td><td><a href="/miui/yudi/stable/V14.0.6.0.TMHCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TMHCNXM</td><td>13.0</td><td>5.7 GB</td><td>2023-08-28</td><td><a href="/miui/yudi/stable/V14.0.4.0.TMHCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TMHCNXM</td><td>13.0</td><td>6.7 GB</td><td>2023-08-25</td><td><a href="/miui/yudi/stable/V14.0.4.0.TMHCNXM/">Download</a></td></tr>

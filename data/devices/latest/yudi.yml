@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2023-09-22'
+  date: '2023-12-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-22.09.2023/fw_yudi_miui_YUDI_V14.0.6.0.TMHCNXM_e089ca23f1_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/yudi/fw_yudi_miui_YUDI_V14.0.6.0.TMHCNXM_e089ca23f1_13.0.zip
-  filename: fw_yudi_miui_YUDI_V14.0.6.0.TMHCNXM_e089ca23f1_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-11.12.2023/fw_yudi_miui_YUDI_OS1.0.2.0.UMHCNXM_34efc69cc0_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yudi/fw_yudi_miui_YUDI_OS1.0.2.0.UMHCNXM_34efc69cc0_14.0.zip
+  filename: fw_yudi_miui_YUDI_OS1.0.2.0.UMHCNXM_34efc69cc0_14.0.zip
   region: China
   versions:
-    android: '13.0'
-    miui: V14.0.6.0.TMHCNXM
+    android: '14.0'
+    miui: OS1.0.2.0.UMHCNXM

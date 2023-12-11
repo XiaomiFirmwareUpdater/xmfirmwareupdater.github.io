@@ -54,6 +54,7 @@ permalink: /hyperos/vermeer/
                 <tbody>
                 <tr><td>Redmi K70 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UNKCNXM</td><td>14.0</td><td>448 Bytes</td><td>None</td><td><a href="/hyperos/vermeer/stable/OS1.0.5.0.UNKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UNKCNXM</td><td>14.0</td><td>7.0 GB</td><td>2023-12-01</td><td><a href="/hyperos/vermeer/stable/OS1.0.5.0.UNKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K70 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.UNKCNXM</td><td>14.0</td><td>7.0 GB</td><td>2023-12-08</td><td><a href="/hyperos/vermeer/stable beta/OS1.0.7.0.UNKCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

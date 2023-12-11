@@ -64,9 +64,8 @@ permalink: /miui/psyche/
 <tr><td>Xiaomi 12X EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TLDEUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-12-05</td><td><a href="/miui/psyche/stable beta/V14.0.4.0.TLDEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TLDMIXM</td><td>13.0</td><td>5.9 GB</td><td>2023-11-13</td><td><a href="/miui/psyche/stable/V14.0.5.0.TLDMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Global</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TLDMIXM</td><td>13.0</td><td>3.9 GB</td><td>2023-11-29</td><td><a href="/miui/psyche/stable/V14.0.5.0.TLDMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12X Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TLDRUXM</td><td>13.0</td><td>5.7 GB</td><td>2023-04-19</td><td><a href="/miui/psyche/stable/V14.0.3.0.TLDRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12X Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TLDRUXM</td><td>13.0</td><td>3.8 GB</td><td>2023-05-05</td><td><a href="/miui/psyche/stable/V14.0.3.0.TLDRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12X Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TLDRUXM</td><td>13.0</td><td>3.8 GB</td><td>2023-12-04</td><td><a href="/miui/psyche/stable beta/V14.0.4.0.TLDRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12X Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TLDRUXM</td><td>13.0</td><td>5.5 GB</td><td>2023-11-20</td><td><a href="/miui/psyche/stable/V14.0.4.0.TLDRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12X Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TLDRUXM</td><td>13.0</td><td>3.8 GB</td><td>2023-12-04</td><td><a href="/miui/psyche/stable/V14.0.4.0.TLDRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TLDTWXM</td><td>13.0</td><td>5.1 GB</td><td>2023-09-04</td><td><a href="/miui/psyche/stable/V14.0.6.0.TLDTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TLDTWXM</td><td>13.0</td><td>3.8 GB</td><td>2023-09-08</td><td><a href="/miui/psyche/stable/V14.0.6.0.TLDTWXM/">Download</a></td></tr>
 

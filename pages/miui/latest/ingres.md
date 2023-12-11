@@ -60,9 +60,8 @@ permalink: /miui/ingres/
 <tr><td>POCO F4 GT EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TLJEUXM</td><td>13.0</td><td>6.1 GB</td><td>2023-07-13</td><td><a href="/miui/ingres/stable/V14.0.6.0.TLJEUXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TLJEUXM</td><td>13.0</td><td>4.8 GB</td><td>2023-07-31</td><td><a href="/miui/ingres/stable/V14.0.6.0.TLJEUXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.7.0.TLJEUXM</td><td>13.0</td><td>4.8 GB</td><td>2023-11-11</td><td><a href="/miui/ingres/stable beta/V14.0.7.0.TLJEUXM/">Download</a></td></tr>
-<tr><td>POCO F4 GT Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TLJMIXM</td><td>13.0</td><td>6.5 GB</td><td>2023-08-29</td><td><a href="/miui/ingres/stable/V14.0.4.0.TLJMIXM/">Download</a></td></tr>
-<tr><td>POCO F4 GT Global</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TLJMIXM</td><td>13.0</td><td>4.8 GB</td><td>2023-09-06</td><td><a href="/miui/ingres/stable/V14.0.4.0.TLJMIXM/">Download</a></td></tr>
-<tr><td>POCO F4 GT Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TLJMIXM</td><td>13.0</td><td>4.9 GB</td><td>2023-11-29</td><td><a href="/miui/ingres/stable beta/V14.0.5.0.TLJMIXM/">Download</a></td></tr>
+<tr><td>POCO F4 GT Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TLJMIXM</td><td>13.0</td><td>6.5 GB</td><td>2023-11-21</td><td><a href="/miui/ingres/stable/V14.0.5.0.TLJMIXM/">Download</a></td></tr>
+<tr><td>POCO F4 GT Global</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TLJMIXM</td><td>13.0</td><td>4.9 GB</td><td>2023-11-29</td><td><a href="/miui/ingres/stable/V14.0.5.0.TLJMIXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Indonesia</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TLJIDXM</td><td>13.0</td><td>6.2 GB</td><td>2023-09-19</td><td><a href="/miui/ingres/stable/V14.0.5.0.TLJIDXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Indonesia</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TLJIDXM</td><td>13.0</td><td>4.7 GB</td><td>2023-09-28</td><td><a href="/miui/ingres/stable/V14.0.5.0.TLJIDXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TLJRUXM</td><td>13.0</td><td>6.2 GB</td><td>2023-06-17</td><td><a href="/miui/ingres/stable/V14.0.2.0.TLJRUXM/">Download</a></td></tr>

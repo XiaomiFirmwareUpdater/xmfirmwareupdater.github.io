@@ -10,6 +10,28 @@
     android: '10.0'
     miui: V12.0.1.0.QJBRUXM
 - branch: stable
+  date: '2020-06-08'
+  downloads:
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_ru_global-stable/fw-vendor_umi_miui_UMIRUGlobal_V11.0.1.0.QJBRUXM_40231fe5ac_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_ru_global-stable/fw-vendor_umi_miui_UMIRUGlobal_V11.0.1.0.QJBRUXM_40231fe5ac_10.0.zip/download
+  filename: fw-vendor_umi_miui_UMIRUGlobal_V11.0.1.0.QJBRUXM_40231fe5ac_10.0.zip
+  region: Russia
+  size: 1.4 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.1.0.QJBRUXM
+- branch: stable
+  date: '2020-08-06'
+  downloads:
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_ru_global-stable/fw-vendor_umi_miui_UMIRUGlobal_V12.0.1.0.QJBRUXM_214ab5f95f_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_ru_global-stable/fw-vendor_umi_miui_UMIRUGlobal_V12.0.1.0.QJBRUXM_214ab5f95f_10.0.zip/download
+  filename: fw-vendor_umi_miui_UMIRUGlobal_V12.0.1.0.QJBRUXM_214ab5f95f_10.0.zip
+  region: Russia
+  size: 1.5 GB
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QJBRUXM
+- branch: stable
   date: '2020-05-18'
   downloads:
     github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_in_global-stable/fw-vendor_umi_miui_UMIINGlobal_V11.0.4.0.QJBINXM_1818b1d7b6_10.0.zip
@@ -86,6 +108,50 @@
   versions:
     android: '10.0'
     miui: V12.0.1.0.QJBIDXM
+- branch: stable
+  date: '2020-05-11'
+  downloads:
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_global-stable/fw-vendor_umi_miui_UMIGlobal_V11.0.2.0.QJBMIXM_4f986c08cb_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_global-stable/fw-vendor_umi_miui_UMIGlobal_V11.0.2.0.QJBMIXM_4f986c08cb_10.0.zip/download
+  filename: fw-vendor_umi_miui_UMIGlobal_V11.0.2.0.QJBMIXM_4f986c08cb_10.0.zip
+  region: Global
+  size: 1.4 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QJBMIXM
+- branch: stable
+  date: '2020-06-12'
+  downloads:
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_global-stable/fw-vendor_umi_miui_UMIGlobal_V11.0.5.0.QJBMIXM_105697632a_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_global-stable/fw-vendor_umi_miui_UMIGlobal_V11.0.5.0.QJBMIXM_105697632a_10.0.zip/download
+  filename: fw-vendor_umi_miui_UMIGlobal_V11.0.5.0.QJBMIXM_105697632a_10.0.zip
+  region: Global
+  size: 1.4 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.5.0.QJBMIXM
+- branch: stable
+  date: '2020-07-21'
+  downloads:
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_global-stable/fw-vendor_umi_miui_UMIGlobal_V12.0.1.0.QJBMIXM_127910e56e_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_global-stable/fw-vendor_umi_miui_UMIGlobal_V12.0.1.0.QJBMIXM_127910e56e_10.0.zip/download
+  filename: fw-vendor_umi_miui_UMIGlobal_V12.0.1.0.QJBMIXM_127910e56e_10.0.zip
+  region: Global
+  size: 1.5 GB
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QJBMIXM
+- branch: stable
+  date: '2020-10-01'
+  downloads:
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_global-stable/fw-vendor_umi_44edb6fd7214022224e0a6ba8eb8a067362c0fe7.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_global-stable/fw-vendor_umi_44edb6fd7214022224e0a6ba8eb8a067362c0fe7.zip/download
+  filename: fw-vendor_umi_44edb6fd7214022224e0a6ba8eb8a067362c0fe7.zip
+  region: Global
+  size: 1.5 GB
+  versions:
+    android: '9.0'
+    miui: 44edb6fd7214022224e0a6ba8eb8a067362c0fe7
 - branch: stable
   date: '2020-04-10'
   downloads:
