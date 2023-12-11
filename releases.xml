@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 11 Dec 2023 19:28:49 </lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 00:59:57 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 10C (fog) - V14.0.4.0.TGEINXM</title>
@@ -59,6 +59,11 @@
         <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.11.0.TMOEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11 NFC (spesn) - V14.0.4.0.TGKEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/spesn/</link>
             <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -934,11 +939,6 @@
         <item>
             <title>Redmi 10C (fog) - V14.0.4.0.TGEEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fog/</link>
-            <pubDate>Fri, 15 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 NFC (spesn) - V14.0.2.0.TGKEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/spesn/</link>
             <pubDate>Fri, 15 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>

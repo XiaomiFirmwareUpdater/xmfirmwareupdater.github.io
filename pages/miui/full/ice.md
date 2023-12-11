@@ -52,8 +52,10 @@ permalink: /archive/miui/ice/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi A1 / POCO C50 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.11.0.SGMIDXM</td><td>12.0</td><td>1.5 GB</td><td>2023-12-11</td><td><a href="/miui/ice/stable beta/V13.0.11.0.SGMIDXM/">Download</a></td></tr>
-<tr><td>Redmi A1 / POCO C50 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.12.0.SGMRUXM</td><td>12.0</td><td>1.5 GB</td><td>2023-12-11</td><td><a href="/miui/ice/stable beta/V13.0.12.0.SGMRUXM/">Download</a></td></tr>
+                <tr><td>Redmi A1 / POCO C50 Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.11.0.SGMIDXM</td><td>12.0</td><td>1.5 GB</td><td>2023-12-11</td><td><a href="/miui/ice/stable/V13.0.11.0.SGMIDXM/">Download</a></td></tr>
+<tr><td>Redmi A1 / POCO C50 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.11.0.SGMIDXM</td><td>12.0</td><td>2.1 GB</td><td>2023-12-04</td><td><a href="/miui/ice/stable/V13.0.11.0.SGMIDXM/">Download</a></td></tr>
+<tr><td>Redmi A1 / POCO C50 Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.12.0.SGMRUXM</td><td>12.0</td><td>1.5 GB</td><td>2023-12-11</td><td><a href="/miui/ice/stable/V13.0.12.0.SGMRUXM/">Download</a></td></tr>
+<tr><td>Redmi A1 / POCO C50 Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.12.0.SGMRUXM</td><td>12.0</td><td>2.1 GB</td><td>2023-12-04</td><td><a href="/miui/ice/stable/V13.0.12.0.SGMRUXM/">Download</a></td></tr>
 <tr><td>Redmi A1 / POCO C50 Global</td><td>Stable</td><td>Recovery</td><td>V13.0.19.0.SGMMIXM</td><td>12.0</td><td>1.6 GB</td><td>2023-10-16</td><td><a href="/miui/ice/stable/V13.0.19.0.SGMMIXM/">Download</a></td></tr>
 <tr><td>Redmi A1 / POCO C50 Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.19.0.SGMMIXM</td><td>12.0</td><td>2.2 GB</td><td>2023-10-09</td><td><a href="/miui/ice/stable/V13.0.19.0.SGMMIXM/">Download</a></td></tr>
 <tr><td>Redmi A1 / A1+ / POCO C50 India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.12.0.SGMINXM</td><td>12.0</td><td>1.5 GB</td><td>2023-10-10</td><td><a href="/miui/ice/stable beta/V13.0.12.0.SGMINXM/">Download</a></td></tr>
