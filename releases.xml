@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 12 Dec 2023 06:59:09 </lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 12:42:20 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 10C (fog) - V14.0.5.0.TGEEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fog/</link>
+            <pubDate>Tue, 12 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V14.0.6.0.TKUMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/selene/</link>
             <pubDate>Tue, 12 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -782,6 +787,11 @@
             <pubDate>Tue, 17 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi 12C/POCO C55 (earth) - V14.0.6.0.TCVMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
+            <pubDate>Mon, 16 Oct 2023 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi A1/POCO C50/A1+ (ice) - V13.0.19.0.SGMMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ice/</link>
             <pubDate>Mon, 16 Oct 2023 00:00:00 </pubDate>
@@ -799,11 +809,6 @@
         <item>
             <title>Redmi 10C (fog) - V14.0.4.0.TGEMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fog/</link>
-            <pubDate>Fri, 13 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V14.0.5.0.TKUMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/selene/</link>
             <pubDate>Fri, 13 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -1015,11 +1020,6 @@
             <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V14.0.4.0.TKCINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/veux/</link>
             <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12C/POCO C55 (earth) - V13.0.8.0.SCVMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Tue, 05 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V14.0.2.0.TGBINXM</title>
