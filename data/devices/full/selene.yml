@@ -299,6 +299,16 @@
     android: '11.0'
     miui: V12.5.2.0.RKUINXM
 - branch: stable
+  date: '2023-12-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-12.12.2023/fw_selene_miui_SELENEEEAGlobal_V14.0.8.0.TKUEUXM_fc55a1d032_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/selene/fw_selene_miui_SELENEEEAGlobal_V14.0.8.0.TKUEUXM_fc55a1d032_13.0.zip
+  filename: fw_selene_miui_SELENEEEAGlobal_V14.0.8.0.TKUEUXM_fc55a1d032_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.8.0.TKUEUXM
+- branch: stable
   date: '2023-10-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-12.10.2023/fw_selene_miui_SELENEEEAGlobal_V14.0.7.0.TKUEUXM_7bf7af9cc0_13.0.zip

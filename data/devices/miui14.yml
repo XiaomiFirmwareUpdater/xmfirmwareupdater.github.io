@@ -804,12 +804,6 @@
   version: V14.0.7.0.TCVEUXM
 - android: '13.0'
   codename: earth
-  date: '2023-10-16'
-  download: https://bigota.d.miui.com/V14.0.6.0.TCVMIXM/fw_earth_miui_EARTHGlobal_V14.0.6.0.TCVMIXM_200a18e40f_13.0.zip
-  name: Redmi 12C/POCO C55
-  version: V14.0.6.0.TCVMIXM
-- android: '13.0'
-  codename: earth
   date: '2023-09-14'
   download: https://bigota.d.miui.com/V14.0.4.0.TCVEUXM/fw_earth_miui_EARTHEEAGlobal_V14.0.4.0.TCVEUXM_13a5ae398b_13.0.zip
   name: Redmi 12C/POCO C55
@@ -820,12 +814,6 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TCVINXM/fw_earth_miui_EARTHINGlobal_V14.0.2.0.TCVINXM_44134a2261_13.0.zip
   name: Redmi 12C/POCO C55
   version: V14.0.2.0.TCVINXM
-- android: '13.0'
-  codename: earth
-  date: '2023-09-01'
-  download: https://bigota.d.miui.com/V14.0.2.0.TCVCNXM/fw_earth_miui_EARTH_V14.0.2.0.TCVCNXM_a172f552a0_13.0.zip
-  name: Redmi 12C/POCO C55
-  version: V14.0.2.0.TCVCNXM
 - android: '13.0'
   codename: elish
   date: '2023-10-12'
@@ -1066,6 +1054,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TGEMIXM/fw_fog_miui_FOGGlobal_V14.0.4.0.TGEMIXM_22f0ea8409_13.0.zip
   name: Redmi 10C
   version: V14.0.4.0.TGEMIXM
+- android: '13.0'
+  codename: fog
+  date: '2023-12-12'
+  download: https://bigota.d.miui.com/V14.0.5.0.TGEEUXM/fw_fog_miui_FOGEEAGlobal_V14.0.5.0.TGEEUXM_c817ebcd81_13.0.zip
+  name: Redmi 10C
+  version: V14.0.5.0.TGEEUXM
 - android: '13.0'
   codename: fog
   date: '2023-12-11'
@@ -3442,6 +3436,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TKUMIXM/fw_selene_miui_SELENEGlobal_V14.0.5.0.TKUMIXM_edef7fafb0_13.0.zip
   name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
   version: V14.0.5.0.TKUMIXM
+- android: '13.0'
+  codename: selene
+  date: '2023-12-12'
+  download: https://bigota.d.miui.com/V14.0.8.0.TKUEUXM/fw_selene_miui_SELENEEEAGlobal_V14.0.8.0.TKUEUXM_fc55a1d032_13.0.zip
+  name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
+  version: V14.0.8.0.TKUEUXM
 - android: '13.0'
   codename: selene
   date: '2023-10-12'
