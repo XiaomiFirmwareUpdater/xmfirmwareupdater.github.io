@@ -54789,6 +54789,16 @@
     android: '14.0'
     miui: OS1.0.25.0.UNBCNXM
 - branch: stable
+  date: '2023-12-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-12.12.2023/fw_shennong_miui_SHENNONG_OS1.0.27.0.UNBCNXM_b355c13fde_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/shennong/fw_shennong_miui_SHENNONG_OS1.0.27.0.UNBCNXM_b355c13fde_14.0.zip
+  filename: fw_shennong_miui_SHENNONG_OS1.0.27.0.UNBCNXM_b355c13fde_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.27.0.UNBCNXM
+- branch: stable
   date: '2023-11-11'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-12.11.2023/fw_shennong_miui_SHENNONG_OS1.0.21.0.UNBCNXM_c72d682b7d_14.0.zip
@@ -69458,16 +69468,6 @@
   versions:
     android: '12.0'
     miui: V13.0.4.0.SLOCNXM
-- branch: stable
-  date: '2023-06-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-29.06.2023/fw_xaga_miui_XAGA_V14.0.5.0.TLOCNXM_cc8ef566d0_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/xaga/fw_xaga_miui_XAGA_V14.0.5.0.TLOCNXM_cc8ef566d0_13.0.zip
-  filename: fw_xaga_miui_XAGA_V14.0.5.0.TLOCNXM_cc8ef566d0_13.0.zip
-  region: China
-  versions:
-    android: '13.0'
-    miui: V14.0.5.0.TLOCNXM
 - branch: stable
   date: '2022-05-29'
   downloads:

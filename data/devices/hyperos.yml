@@ -102,6 +102,12 @@
   version: OS1.0.25.0.UNBCNXM
 - android: '14.0'
   codename: shennong
+  date: '2023-12-12'
+  download: https://bigota.d.miui.com/OS1.0.27.0.UNBCNXM/fw_shennong_miui_SHENNONG_OS1.0.27.0.UNBCNXM_b355c13fde_14.0.zip
+  name: Xiaomi 14 Pro/Ti
+  version: OS1.0.27.0.UNBCNXM
+- android: '14.0'
+  codename: shennong
   date: '2023-11-11'
   download: https://bigota.d.miui.com/OS1.0.21.0.UNBCNXM/fw_shennong_miui_SHENNONG_OS1.0.21.0.UNBCNXM_c72d682b7d_14.0.zip
   name: Xiaomi 14 Pro/Ti
