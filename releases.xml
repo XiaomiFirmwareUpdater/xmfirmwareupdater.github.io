@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 12 Dec 2023 19:14:06 </lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 00:43:34 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 10C (fog) - V14.0.5.0.TGEEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fog/</link>
+            <pubDate>Tue, 12 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 (houji) - OS1.0.26.0.UNCCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
             <pubDate>Tue, 12 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -225,11 +230,6 @@
             <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.6.0.TLOINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
             <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 (houji) - OS1.0.25.0.UNCCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
-            <pubDate>Mon, 04 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K50G/POCO F4 GT (ingres) - V14.0.5.0.TLJMIXM</title>
