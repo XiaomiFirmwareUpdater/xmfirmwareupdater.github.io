@@ -4,10 +4,20 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 14 Dec 2023 13:15:09 </lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 19:18:06 </lastBuildDate>
         <language>en-us</language>
         <item>
+            <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V14.0.4.0.TGBINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/evergo/</link>
+            <pubDate>Thu, 14 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi 13C/POCO C65 (gale) - V14.0.6.0.TGPEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/gale/</link>
+            <pubDate>Thu, 14 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 13C/POCO C65 (gale) - V14.0.3.0.TGPINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/gale/</link>
             <pubDate>Thu, 14 Dec 2023 00:00:00 </pubDate>
         </item>
@@ -1025,11 +1035,6 @@
             <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V14.0.4.0.TKCINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/veux/</link>
             <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V14.0.2.0.TGBINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/evergo/</link>
-            <pubDate>Mon, 04 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>POCO X5 5G (moonstone) - V14.0.3.0.TMPEUXM</title>

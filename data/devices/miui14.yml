@@ -858,6 +858,12 @@
   version: V14.0.0.12.TGBCNXM
 - android: '13.0'
   codename: evergo
+  date: '2023-12-14'
+  download: https://bigota.d.miui.com/V14.0.4.0.TGBINXM/fw_evergo_miui_EVERGOINGlobal_V14.0.4.0.TGBINXM_22ed388f9b_13.0.zip
+  name: Redmi Note 11 5G/Redmi Note 11T 5G
+  version: V14.0.4.0.TGBINXM
+- android: '13.0'
+  codename: evergo
   date: '2023-09-04'
   download: https://bigota.d.miui.com/V14.0.2.0.TGBINXM/fw_evergo_miui_EVERGOINGlobal_V14.0.2.0.TGBINXM_057a78acf6_13.0.zip
   name: Redmi Note 11 5G/Redmi Note 11T 5G
@@ -1222,6 +1228,12 @@
   download: https://bigota.d.miui.com/V14.0.6.0.TGPEUXM/fw_gale_miui_GALEEEAGlobal_V14.0.6.0.TGPEUXM_0c650dc6c5_13.0.zip
   name: Redmi 13C/POCO C65
   version: V14.0.6.0.TGPEUXM
+- android: '13.0'
+  codename: gale
+  date: '2023-12-14'
+  download: https://bigota.d.miui.com/V14.0.3.0.TGPINXM/fw_gale_miui_GALEINGlobal_V14.0.3.0.TGPINXM_944e0a3bf2_13.0.zip
+  name: Redmi 13C/POCO C65
+  version: V14.0.3.0.TGPINXM
 - android: '13.0'
   codename: gale
   date: '2023-12-07'
