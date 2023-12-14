@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 14 Dec 2023 19:18:06 </lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 00:44:54 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V14.0.4.0.TGBINXM</title>
@@ -29,6 +29,11 @@
         <item>
             <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.7.0.TMSMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/redwood/</link>
+            <pubDate>Thu, 14 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11 (spes) - V14.0.5.0.TGCMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/spes/</link>
             <pubDate>Thu, 14 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -864,11 +869,6 @@
         <item>
             <title>Redmi Note 12S (sea) - V14.0.8.0.THZMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sea/</link>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 (spes) - V14.0.4.0.TGCMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/spes/</link>
             <pubDate>Tue, 10 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
