@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 14 Dec 2023 06:39:56 </lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 13:15:09 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 13C/POCO C65 (gale) - V14.0.6.0.TGPEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/gale/</link>
+            <pubDate>Thu, 14 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Ultra (ishtar) - OS1.0.4.0.UMACNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ishtar/</link>
+            <pubDate>Thu, 14 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.7.0.TMSMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/redwood/</link>
+            <pubDate>Thu, 14 Dec 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 10C (fog) - V14.0.5.0.TGEEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fog/</link>
@@ -507,11 +522,6 @@
             <pubDate>Mon, 13 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.5.0.TMSMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/redwood/</link>
-            <pubDate>Mon, 13 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 Pro (garnet) - V14.0.13.0.TNRCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
             <pubDate>Sun, 12 Nov 2023 00:00:00 </pubDate>
@@ -769,11 +779,6 @@
         <item>
             <title>POCO C40 (frost) - V13.0.24.0.RGFMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/frost/</link>
-            <pubDate>Tue, 17 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Ultra (ishtar) - V14.0.20.0.TMACNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ishtar/</link>
             <pubDate>Tue, 17 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>

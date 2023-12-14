@@ -1218,6 +1218,12 @@
   version: V14.0.6.0.TGPMIXM
 - android: '13.0'
   codename: gale
+  date: '2023-12-14'
+  download: https://bigota.d.miui.com/V14.0.6.0.TGPEUXM/fw_gale_miui_GALEEEAGlobal_V14.0.6.0.TGPEUXM_0c650dc6c5_13.0.zip
+  name: Redmi 13C/POCO C65
+  version: V14.0.6.0.TGPEUXM
+- android: '13.0'
+  codename: gale
   date: '2023-12-07'
   download: https://bigota.d.miui.com/V14.0.7.0.TGPMIXM/fw_gale_miui_GALEGlobal_V14.0.7.0.TGPMIXM_a162b65372_13.0.zip
   name: Redmi 13C/POCO C65
@@ -2860,6 +2866,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TMSINXM/fw_redwood_miui_REDWOODINGlobal_V14.0.1.0.TMSINXM_78c7594286_13.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: V14.0.1.0.TMSINXM
+- android: '13.0'
+  codename: redwood
+  date: '2023-12-14'
+  download: https://bigota.d.miui.com/V14.0.7.0.TMSMIXM/fw_redwood_miui_REDWOODGlobal_V14.0.7.0.TMSMIXM_86299647c0_13.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: V14.0.7.0.TMSMIXM
 - android: '12.0'
   codename: redwood
   date: '2023-03-14'
