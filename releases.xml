@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 15 Dec 2023 12:51:41 </lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 19:31:57 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 10 (mojito) - V14.0.6.0.SKGEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/mojito/</link>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro+ (zircon) - V14.0.8.0.TNOCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.17.0.TLLCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ziyi/</link>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V14.0.4.0.TGBINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/evergo/</link>
@@ -597,11 +612,6 @@
             <pubDate>Mon, 06 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 Pro+ (zircon) - V14.0.7.0.TNOCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
-            <pubDate>Mon, 06 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 12 (fire) - V14.0.5.0.TMXINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fire/</link>
             <pubDate>Sat, 04 Nov 2023 00:00:00 </pubDate>
@@ -1107,11 +1117,6 @@
             <pubDate>Mon, 07 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.14.0.TLLCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ziyi/</link>
-            <pubDate>Sun, 06 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 5 Pro 12.4 (dagu) - V14.0.11.0.TLZCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/dagu/</link>
             <pubDate>Thu, 03 Aug 2023 00:00:00 </pubDate>
@@ -1304,11 +1309,6 @@
         <item>
             <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.13.0.RCZCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/dandelion/</link>
-            <pubDate>Thu, 27 Apr 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 10 (mojito) - V14.0.5.0.SKGEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/mojito/</link>
             <pubDate>Thu, 27 Apr 2023 00:00:00 </pubDate>
         </item>
         <item>

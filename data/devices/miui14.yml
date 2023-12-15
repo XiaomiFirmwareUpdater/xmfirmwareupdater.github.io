@@ -2086,6 +2086,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.SKGINXM/fw_mojito_miui_MOJITOINGlobal_V14.0.3.0.SKGINXM_29c9af6ff8_12.0.zip
   name: Redmi Note 10
   version: V14.0.3.0.SKGINXM
+- android: '12.0'
+  codename: mojito
+  date: '2023-12-15'
+  download: https://bigota.d.miui.com/V14.0.6.0.SKGEUXM/fw_mojito_miui_MOJITOEEAGlobal_V14.0.6.0.SKGEUXM_7016704d64_12.0.zip
+  name: Redmi Note 10
+  version: V14.0.6.0.SKGEUXM
 - android: '13.0'
   codename: mona
   date: '2023-02-25'
@@ -4980,6 +4986,12 @@
   version: V14.0.1.0.TNOCNXM
 - android: '13.0'
   codename: zircon
+  date: '2023-12-15'
+  download: https://bigota.d.miui.com/V14.0.8.0.TNOCNXM/fw_zircon_miui_ZIRCON_V14.0.8.0.TNOCNXM_0e45ff6fd1_13.0.zip
+  name: Redmi Note 13 Pro+
+  version: V14.0.8.0.TNOCNXM
+- android: '13.0'
+  codename: zircon
   date: '2023-10-13'
   download: https://bigota.d.miui.com/V14.0.6.0.TNOCNXM/fw_zircon_miui_ZIRCON_V14.0.6.0.TNOCNXM_0b5917a12c_13.0.zip
   name: Redmi Note 13 Pro+
@@ -5008,6 +5020,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TLLMIXM/fw_ziyi_miui_ZIYIGlobal_V14.0.3.0.TLLMIXM_e6bb63c2aa_13.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: V14.0.3.0.TLLMIXM
+- android: '13.0'
+  codename: ziyi
+  date: '2023-12-15'
+  download: https://bigota.d.miui.com/V14.0.17.0.TLLCNXM/fw_ziyi_miui_ZIYI_V14.0.17.0.TLLCNXM_628ea44d9b_13.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: V14.0.17.0.TLLCNXM
 - android: '13.0'
   codename: ziyi
   date: '2023-10-12'

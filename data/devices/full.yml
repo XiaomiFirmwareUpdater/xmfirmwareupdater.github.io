@@ -37579,6 +37579,16 @@
     android: '11.0'
     miui: V12.5.1.0.RKGINXM
 - branch: stable
+  date: '2023-12-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-15.12.2023/fw_mojito_miui_MOJITOEEAGlobal_V14.0.6.0.SKGEUXM_7016704d64_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mojito/fw_mojito_miui_MOJITOEEAGlobal_V14.0.6.0.SKGEUXM_7016704d64_12.0.zip
+  filename: fw_mojito_miui_MOJITOEEAGlobal_V14.0.6.0.SKGEUXM_7016704d64_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V14.0.6.0.SKGEUXM
+- branch: stable
   date: '2022-12-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-15.12.2022/fw_mojito_miui_MOJITOGlobal_V13.0.11.0.SKGMIXM_7c6644824a_12.0.zip
@@ -70889,6 +70899,16 @@
     android: '13.0'
     miui: V14.0.1.0.TNOCNXM
 - branch: stable
+  date: '2023-12-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-15.12.2023/fw_zircon_miui_ZIRCON_V14.0.8.0.TNOCNXM_0e45ff6fd1_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zircon/fw_zircon_miui_ZIRCON_V14.0.8.0.TNOCNXM_0e45ff6fd1_13.0.zip
+  filename: fw_zircon_miui_ZIRCON_V14.0.8.0.TNOCNXM_0e45ff6fd1_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.8.0.TNOCNXM
+- branch: stable
   date: '2023-10-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-13.10.2023/fw_zircon_miui_ZIRCON_V14.0.6.0.TNOCNXM_0b5917a12c_13.0.zip
@@ -70968,6 +70988,16 @@
   versions:
     android: '12.0'
     miui: V13.0.14.0.SLLCNXM
+- branch: stable
+  date: '2023-12-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-15.12.2023/fw_ziyi_miui_ZIYI_V14.0.17.0.TLLCNXM_628ea44d9b_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ziyi/fw_ziyi_miui_ZIYI_V14.0.17.0.TLLCNXM_628ea44d9b_13.0.zip
+  filename: fw_ziyi_miui_ZIYI_V14.0.17.0.TLLCNXM_628ea44d9b_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.17.0.TLLCNXM
 - branch: stable
   date: '2022-11-14'
   downloads:
