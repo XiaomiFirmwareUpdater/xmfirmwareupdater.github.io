@@ -3570,6 +3570,12 @@
   version: V14.0.5.0.TMWINXM
 - android: '13.0'
   codename: sky
+  date: '2023-12-16'
+  download: https://bigota.d.miui.com/V14.0.4.0.TMWMIXM/fw_sky_miui_SKYGlobal_V14.0.4.0.TMWMIXM_7405e511f4_13.0.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: V14.0.4.0.TMWMIXM
+- android: '13.0'
+  codename: sky
   date: '2023-09-15'
   download: https://bigota.d.miui.com/V14.0.4.0.TMWEUXM/fw_sky_miui_SKYEEAGlobal_V14.0.4.0.TMWEUXM_8516b13c03_13.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
@@ -3832,6 +3838,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.SMQMIXM/fw_sunstone_miui_SUNSTONEGlobal_V14.0.5.0.SMQMIXM_7cebf3e108_12.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
   version: V14.0.5.0.SMQMIXM
+- android: '13.0'
+  codename: sunstone
+  date: '2023-12-16'
+  download: https://bigota.d.miui.com/V14.0.10.0.TMQCNXM/fw_sunstone_miui_SUNSTONE_V14.0.10.0.TMQCNXM_bca3f090f5_13.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: V14.0.10.0.TMQCNXM
 - android: '12.0'
   codename: sunstone
   date: '2023-03-14'

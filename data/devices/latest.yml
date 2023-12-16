@@ -4459,15 +4459,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2023-09-26'
+  date: '2023-12-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-26.09.2023/fw_sky_miui_SKYGlobal_V14.0.2.0.TMWMIXM_1bd51887d2_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sky/fw_sky_miui_SKYGlobal_V14.0.2.0.TMWMIXM_1bd51887d2_13.0.zip
-  filename: fw_sky_miui_SKYGlobal_V14.0.2.0.TMWMIXM_1bd51887d2_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-16.12.2023/fw_sky_miui_SKYGlobal_V14.0.4.0.TMWMIXM_7405e511f4_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sky/fw_sky_miui_SKYGlobal_V14.0.4.0.TMWMIXM_7405e511f4_13.0.zip
+  filename: fw_sky_miui_SKYGlobal_V14.0.4.0.TMWMIXM_7405e511f4_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.2.0.TMWMIXM
+    miui: V14.0.4.0.TMWMIXM
 - branch: stable
   date: '2023-11-27'
   downloads:
@@ -4609,15 +4609,15 @@
     android: '13.0'
     miui: V14.0.6.0.TMQMIXM
 - branch: stable
-  date: '2023-10-24'
+  date: '2023-12-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-24.10.2023/fw_sunstone_miui_SUNSTONE_V14.0.9.0.TMQCNXM_0a069aa2ee_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sunstone/fw_sunstone_miui_SUNSTONE_V14.0.9.0.TMQCNXM_0a069aa2ee_13.0.zip
-  filename: fw_sunstone_miui_SUNSTONE_V14.0.9.0.TMQCNXM_0a069aa2ee_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-16.12.2023/fw_sunstone_miui_SUNSTONE_V14.0.10.0.TMQCNXM_bca3f090f5_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sunstone/fw_sunstone_miui_SUNSTONE_V14.0.10.0.TMQCNXM_bca3f090f5_13.0.zip
+  filename: fw_sunstone_miui_SUNSTONE_V14.0.10.0.TMQCNXM_bca3f090f5_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.9.0.TMQCNXM
+    miui: V14.0.10.0.TMQCNXM
 - branch: stable
   date: '2023-12-11'
   downloads:

@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 16 Dec 2023 12:56:36 </lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 19:02:31 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 12S (sea) - V14.0.9.0.THZMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sea/</link>
+            <pubDate>Sat, 16 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.4.0.TMWMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
+            <pubDate>Sat, 16 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.10.0.TMQCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Sat, 16 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -702,11 +712,6 @@
             <pubDate>Tue, 24 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.9.0.TMQCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
-            <pubDate>Tue, 24 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12 Pro (zeus) - V14.0.9.0.TLBMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Tue, 24 Oct 2023 00:00:00 </pubDate>
@@ -910,11 +915,6 @@
             <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V14.0.11.0.TKACNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/star/</link>
             <pubDate>Mon, 02 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.2.0.TMWMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
-            <pubDate>Tue, 26 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.11.0.TGOINXM</title>
