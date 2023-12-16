@@ -4,11 +4,31 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 15 Dec 2023 19:31:57 </lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 02:01:53 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>MIX Fold 3 (babylon) - OS1.0.2.0.UMVCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/babylon/</link>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.7.0.UNLCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70 Pro (manet) - OS1.0.7.0.UNMCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/manet/</link>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 10 (mojito) - V14.0.6.0.SKGEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/mojito/</link>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - OS1.0.2.0.UMBCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Fri, 15 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -242,11 +262,6 @@
             <pubDate>Thu, 07 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K70 Pro (manet) - OS1.0.6.0.UNMCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/manet/</link>
-            <pubDate>Thu, 07 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.5.0.TKPMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/chopin/</link>
             <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
@@ -319,11 +334,6 @@
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS1.0.5.0.UMLCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Sun, 03 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.5.0.UNLCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Sun, 03 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -582,11 +592,6 @@
             <pubDate>Thu, 09 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>MIX Fold 3 (babylon) - V14.1.10.0.TMVCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/babylon/</link>
-            <pubDate>Tue, 07 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - V14.0.6.0.TMNMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
             <pubDate>Mon, 06 Nov 2023 00:00:00 </pubDate>
@@ -639,11 +644,6 @@
         <item>
             <title>Xiaomi 12 (cupid) - V14.0.8.0.TLCCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/cupid/</link>
-            <pubDate>Thu, 02 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Pro (nuwa) - V14.0.4.0.UMBCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Thu, 02 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
