@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 16 Dec 2023 06:34:20 </lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 12:56:36 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 12S (sea) - V14.0.9.0.THZMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sea/</link>
+            <pubDate>Sat, 16 Dec 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>MIX Fold 3 (babylon) - OS1.0.2.0.UMVCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/babylon/</link>
@@ -874,11 +879,6 @@
         <item>
             <title>Redmi A1/POCO C50/A1+ (ice) - V13.0.12.0.SGMINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ice/</link>
-            <pubDate>Tue, 10 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12S (sea) - V14.0.8.0.THZMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sea/</link>
             <pubDate>Tue, 10 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>

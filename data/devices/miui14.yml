@@ -3432,6 +3432,12 @@
   version: V14.0.7.0.THZMIXM
 - android: '13.0'
   codename: sea
+  date: '2023-12-16'
+  download: https://bigota.d.miui.com/V14.0.9.0.THZMIXM/fw_sea_miui_SEAGlobal_V14.0.9.0.THZMIXM_585a38f365_13.0.zip
+  name: Redmi Note 12S
+  version: V14.0.9.0.THZMIXM
+- android: '13.0'
+  codename: sea
   date: '2023-10-10'
   download: https://bigota.d.miui.com/V14.0.8.0.THZMIXM/fw_sea_miui_SEAGlobal_V14.0.8.0.THZMIXM_2031d769dd_13.0.zip
   name: Redmi Note 12S
