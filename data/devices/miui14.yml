@@ -858,6 +858,12 @@
   version: V14.0.0.12.TGBCNXM
 - android: '13.0'
   codename: evergo
+  date: '2023-12-17'
+  download: https://bigota.d.miui.com/V14.0.4.0.TGBCNXM/fw_evergo_miui_EVERGO_V14.0.4.0.TGBCNXM_d5594f88f9_13.0.zip
+  name: Redmi Note 11 5G/Redmi Note 11T 5G
+  version: V14.0.4.0.TGBCNXM
+- android: '13.0'
+  codename: evergo
   date: '2023-12-14'
   download: https://bigota.d.miui.com/V14.0.4.0.TGBINXM/fw_evergo_miui_EVERGOINGlobal_V14.0.4.0.TGBINXM_22ed388f9b_13.0.zip
   name: Redmi Note 11 5G/Redmi Note 11T 5G

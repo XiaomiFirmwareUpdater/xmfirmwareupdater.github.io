@@ -1369,15 +1369,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2023-08-28'
+  date: '2023-12-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-28.08.2023/fw_evergo_miui_EVERGO_V14.0.3.0.TGBCNXM_24b0464c9f_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/evergo/fw_evergo_miui_EVERGO_V14.0.3.0.TGBCNXM_24b0464c9f_13.0.zip
-  filename: fw_evergo_miui_EVERGO_V14.0.3.0.TGBCNXM_24b0464c9f_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-17.12.2023/fw_evergo_miui_EVERGO_V14.0.4.0.TGBCNXM_d5594f88f9_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/evergo/fw_evergo_miui_EVERGO_V14.0.4.0.TGBCNXM_d5594f88f9_13.0.zip
+  filename: fw_evergo_miui_EVERGO_V14.0.4.0.TGBCNXM_d5594f88f9_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.3.0.TGBCNXM
+    miui: V14.0.4.0.TGBCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -5159,15 +5159,15 @@
     android: '13.0'
     miui: V14.0.7.0.TKBEUXM
 - branch: stable
-  date: '2023-12-11'
+  date: '2023-12-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-11.12.2023/fw_vermeer_miui_VERMEER_OS1.0.7.0.UNKCNXM_98005153d7_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vermeer/fw_vermeer_miui_VERMEER_OS1.0.7.0.UNKCNXM_98005153d7_14.0.zip
-  filename: fw_vermeer_miui_VERMEER_OS1.0.7.0.UNKCNXM_98005153d7_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-17.12.2023/fw_vermeer_miui_VERMEER_OS1.0.8.0.UNKCNXM_76129167f7_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vermeer/fw_vermeer_miui_VERMEER_OS1.0.8.0.UNKCNXM_76129167f7_14.0.zip
+  filename: fw_vermeer_miui_VERMEER_OS1.0.8.0.UNKCNXM_76129167f7_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.7.0.UNKCNXM
+    miui: OS1.0.8.0.UNKCNXM
 - branch: stable
   date: '2023-11-20'
   downloads:
