@@ -1,34 +1,34 @@
 ---
-title: Xiaomi Pad 6 Max 14 (yudi) MIUI Downloads
+title: Xiaomi Pad 6 Max 14 (yudi) HyperOS Downloads
 layout: download
 name: Xiaomi Pad 6 Max 14
 codename: yudi
-permalink: /miui/yudi/
+permalink: /hyperos/yudi/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
-        <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/yudi/">Xiaomi Pad 6 Max 14</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/yudi/">Xiaomi Pad 6 Max 14</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
-    Follow MIUI Updates Tracker on <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">Telegram</a>
+    Follow HyperOS Updates Tracker on <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">Telegram</a>
      or <a href="https://twitter.com/MiFwUpdater" class="alert-link">Twitter</a> to get notified when a new update is out!
     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
 
-### Latest MIUI Official ROMs
-*Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
+### Latest HyperOS Official ROMs
+*Note*: All files listed here are official untouched HyperOS ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/yudi/" class="card-link">MIUI Archive</a>
+    <a href="/archive/hyperos/yudi/" class="card-link">HyperOS Archive</a>
     <a href="/firmware/yudi/" class="card-link">Firmware Downloads</a>
     <a href="/vendor/yudi/" class="card-link">Vendor Downloads</a>
   </div>
@@ -44,7 +44,7 @@ permalink: /miui/yudi/
                         <th data-ref="device">Device</th>
                         <th data-ref="branch">Branch</th>
                         <th data-ref="type">Type</th>
-                        <th data-ref="miui">MIUI</th>
+                        <th data-ref="miui">HyperOS</th>
                         <th data-ref="android">Android</th>
                         <th data-ref="size">Size</th>
                         <th data-ref="size">Date</th>
@@ -52,9 +52,8 @@ permalink: /miui/yudi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TMHCNXM</td><td>13.0</td><td>6.7 GB</td><td>2023-09-15</td><td><a href="/miui/yudi/stable/V14.0.6.0.TMHCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMHCNXM</td><td>13.0</td><td>5.7 GB</td><td>2023-09-19</td><td><a href="/miui/yudi/stable/V14.0.6.0.TMHCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UMHCNXM</td><td>14.0</td><td>5.9 GB</td><td>2023-12-07</td><td><a href="/hyperos/yudi/stable beta/OS1.0.2.0.UMHCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UMHCNXM</td><td>14.0</td><td>6.8 GB</td><td>2023-12-18</td><td><a href="/hyperos/yudi/stable/OS1.0.2.0.UMHCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UMHCNXM</td><td>14.0</td><td>5.9 GB</td><td>2023-12-07</td><td><a href="/hyperos/yudi/stable/OS1.0.2.0.UMHCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

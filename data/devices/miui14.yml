@@ -2592,6 +2592,12 @@
   version: V14.0.3.0.TMZCNXM
 - android: '13.0'
   codename: pipa
+  date: '2023-12-18'
+  download: https://bigota.d.miui.com/V14.0.7.0.TMZINXM/fw_pipa_miui_PIPAINGlobal_V14.0.7.0.TMZINXM_99edbc06b4_13.0.zip
+  name: Xiaomi Pad 6
+  version: V14.0.7.0.TMZINXM
+- android: '13.0'
+  codename: pipa
   date: '2023-09-11'
   download: https://bigota.d.miui.com/V14.0.7.0.TMZEUXM/fw_pipa_miui_PIPAEEAGlobal_V14.0.7.0.TMZEUXM_69894218db_13.0.zip
   name: Xiaomi Pad 6

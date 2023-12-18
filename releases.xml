@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 18 Dec 2023 00:37:47 </lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 06:44:23 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Pad 6 (pipa) - V14.0.7.0.TMZINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/pipa/</link>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V14.0.4.0.TGBCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/evergo/</link>
@@ -614,11 +619,6 @@
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - V14.0.6.0.TMNMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
-            <pubDate>Mon, 06 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 (pipa) - V14.0.6.0.TMZINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/pipa/</link>
             <pubDate>Mon, 06 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
