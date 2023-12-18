@@ -4,11 +4,46 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 18 Dec 2023 06:44:23 </lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 14:02:35 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 12C/POCO C55 (earth) - V14.0.7.0.TCVMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 12 (fire) - V14.0.12.0.TMXEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/fire/</link>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K40S/POCO F4 (munch) - V14.0.5.0.TLMMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/munch/</link>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi Pad 6 (pipa) - V14.0.7.0.TMZINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/pipa/</link>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12S Ultra (thor) - V14.0.15.0.TLACNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/thor/</link>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.7.0.TLOMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.7.0.TLOCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE (xun) - V14.0.8.0.TMUCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
             <pubDate>Mon, 18 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -397,11 +432,6 @@
             <pubDate>Wed, 29 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad SE (xun) - V14.0.7.0.TMUCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
-            <pubDate>Wed, 29 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 10 (mojito) - V14.0.5.0.SKGINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/mojito/</link>
             <pubDate>Tue, 28 Nov 2023 00:00:00 </pubDate>
@@ -707,11 +737,6 @@
             <pubDate>Wed, 25 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 12 (fire) - V14.0.11.0.TMXEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fire/</link>
-            <pubDate>Wed, 25 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V14.0.7.0.TKKMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/haydn/</link>
             <pubDate>Tue, 24 Oct 2023 00:00:00 </pubDate>
@@ -772,11 +797,6 @@
             <pubDate>Thu, 19 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.6.0.TLOMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
-            <pubDate>Thu, 19 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.5.0.TLOEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
             <pubDate>Thu, 19 Oct 2023 00:00:00 </pubDate>
@@ -789,11 +809,6 @@
         <item>
             <title>Xiaomi 11T Pro (vili) - V14.0.4.0.TKDMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/vili/</link>
-            <pubDate>Wed, 18 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.6.0.TLOCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
             <pubDate>Wed, 18 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -830,11 +845,6 @@
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.5.0.TMWINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
             <pubDate>Tue, 17 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12C/POCO C55 (earth) - V14.0.6.0.TCVMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Mon, 16 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi A1/POCO C50/A1+ (ice) - V13.0.19.0.SGMMIXM</title>
@@ -905,11 +915,6 @@
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.11.0.TLFCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
             <pubDate>Thu, 05 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12S Ultra (thor) - V14.0.14.0.TLACNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/thor/</link>
-            <pubDate>Tue, 03 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.4.0.TLFMIXM</title>
@@ -989,11 +994,6 @@
         <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.9.0.TKOEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/lisa/</link>
-            <pubDate>Mon, 11 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40S/POCO F4 (munch) - V14.0.4.0.TLMMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/munch/</link>
             <pubDate>Mon, 11 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>

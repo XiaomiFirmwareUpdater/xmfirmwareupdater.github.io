@@ -792,6 +792,12 @@
   version: V14.0.3.0.TCVINXM
 - android: '13.0'
   codename: earth
+  date: '2023-12-18'
+  download: https://bigota.d.miui.com/V14.0.7.0.TCVMIXM/fw_earth_miui_EARTHGlobal_V14.0.7.0.TCVMIXM_b83820f33d_13.0.zip
+  name: Redmi 12C/POCO C55
+  version: V14.0.7.0.TCVMIXM
+- android: '13.0'
+  codename: earth
   date: '2023-11-17'
   download: https://bigota.d.miui.com/V14.0.4.0.TCVCNXM/fw_earth_miui_EARTH_V14.0.4.0.TCVCNXM_1238757265_13.0.zip
   name: Redmi 12C/POCO C55
@@ -940,6 +946,12 @@
   download: https://bigota.d.miui.com/V14.0.11.0.TMXMIXM/fw_fire_miui_FIREGlobal_V14.0.11.0.TMXMIXM_8602dd8854_13.0.zip
   name: Redmi 12
   version: V14.0.11.0.TMXMIXM
+- android: '13.0'
+  codename: fire
+  date: '2023-12-18'
+  download: https://bigota.d.miui.com/V14.0.12.0.TMXEUXM/fw_fire_miui_FIREEEAGlobal_V14.0.12.0.TMXEUXM_9c1f62d588_13.0.zip
+  name: Redmi 12
+  version: V14.0.12.0.TMXEUXM
 - android: '13.0'
   codename: fire
   date: '2023-09-14'
@@ -2260,6 +2272,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TLMEUXM/fw_munch_miui_MUNCHEEAGlobal_V14.0.2.0.TLMEUXM_36c47aa22c_13.0.zip
   name: Redmi K40S/POCO F4
   version: V14.0.2.0.TLMEUXM
+- android: '13.0'
+  codename: munch
+  date: '2023-12-18'
+  download: https://bigota.d.miui.com/V14.0.5.0.TLMMIXM/fw_munch_miui_MUNCHGlobal_V14.0.5.0.TLMMIXM_9b8458079d_13.0.zip
+  name: Redmi K40S/POCO F4
+  version: V14.0.5.0.TLMMIXM
 - android: '13.0'
   codename: munch
   date: '2023-09-12'
@@ -4158,6 +4176,12 @@
   version: V14.0.5.0.TMTINXM
 - android: '13.0'
   codename: thor
+  date: '2023-12-18'
+  download: https://bigota.d.miui.com/V14.0.15.0.TLACNXM/fw_thor_miui_THOR_V14.0.15.0.TLACNXM_e42922877b_13.0.zip
+  name: Xiaomi 12S Ultra
+  version: V14.0.15.0.TLACNXM
+- android: '13.0'
+  codename: thor
   date: '2023-03-14'
   download: https://bigota.d.miui.com/V14.0.10.0.TLACNXM/fw_thor_miui_THOR_V14.0.10.0.TLACNXM_44494aa81d_13.0.zip
   name: Xiaomi 12S Ultra
@@ -4740,6 +4764,18 @@
   version: V14.0.6.0.TLOMIXM
 - android: '13.0'
   codename: xaga
+  date: '2023-12-18'
+  download: https://bigota.d.miui.com/V14.0.7.0.TLOMIXM/fw_xaga_miui_XAGAGlobal_V14.0.7.0.TLOMIXM_f860dc3e84_13.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: V14.0.7.0.TLOMIXM
+- android: '13.0'
+  codename: xaga
+  date: '2023-12-18'
+  download: https://bigota.d.miui.com/V14.0.7.0.TLOCNXM/fw_xaga_miui_XAGA_V14.0.7.0.TLOCNXM_cbde1beb4e_13.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: V14.0.7.0.TLOCNXM
+- android: '13.0'
+  codename: xaga
   date: '2023-10-18'
   download: https://bigota.d.miui.com/V14.0.6.0.TLOCNXM/fw_xaga_miui_XAGA_V14.0.6.0.TLOCNXM_3a10fb7068_13.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
@@ -4822,6 +4858,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TMUMIXM/fw_xun_miui_XUNGlobal_V14.0.3.0.TMUMIXM_c989403107_13.0.zip
   name: Redmi Pad SE
   version: V14.0.3.0.TMUMIXM
+- android: '13.0'
+  codename: xun
+  date: '2023-12-18'
+  download: https://bigota.d.miui.com/V14.0.8.0.TMUCNXM/fw_xun_miui_XUN_V14.0.8.0.TMUCNXM_e9add7b245_13.0.zip
+  name: Redmi Pad SE
+  version: V14.0.8.0.TMUCNXM
 - android: '13.0'
   codename: xun
   date: '2023-12-04'
