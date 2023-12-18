@@ -8,3 +8,13 @@
   versions:
     android: '13.0'
     miui: V14.0.4.0.TGQCNXM
+- branch: stable
+  date: '2023-12-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-18.12.2023/fw_air_miui_AIRINGlobal_V14.0.4.0.TGQINXM_323ad93ff9_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/air/fw_air_miui_AIRINGlobal_V14.0.4.0.TGQINXM_323ad93ff9_13.0.zip
+  filename: fw_air_miui_AIRINGlobal_V14.0.4.0.TGQINXM_323ad93ff9_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TGQINXM

@@ -289,6 +289,16 @@
     android: '13.0'
     miui: V14.0.5.0.TKWMIXM
 - branch: stable
+  date: '2023-12-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-18.12.2023/fw_air_miui_AIRINGlobal_V14.0.4.0.TGQINXM_323ad93ff9_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/air/fw_air_miui_AIRINGlobal_V14.0.4.0.TGQINXM_323ad93ff9_13.0.zip
+  filename: fw_air_miui_AIRINGlobal_V14.0.4.0.TGQINXM_323ad93ff9_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TGQINXM
+- branch: stable
   date: '2023-12-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-08.12.2023/fw_air_miui_AIR_V14.0.4.0.TGQCNXM_6de1aac17c_13.0.zip
@@ -36229,6 +36239,16 @@
     android: '13.0'
     miui: V14.0.7.0.TMRMIXM
 - branch: stable
+  date: '2023-12-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-18.12.2023/fw_marble_miui_MARBLEGlobal_V14.0.8.0.TMRMIXM_2b4b4a3113_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEGlobal_V14.0.8.0.TMRMIXM_2b4b4a3113_13.0.zip
+  filename: fw_marble_miui_MARBLEGlobal_V14.0.8.0.TMRMIXM_2b4b4a3113_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.8.0.TMRMIXM
+- branch: stable
   date: '2023-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-18.04.2023/fw_marble_miui_MARBLE_V14.0.16.0.TMRCNXM_af816f3572_13.0.zip
@@ -52299,6 +52319,16 @@
     android: '12.0'
     miui: V13.0.1.0.SLNCNXM
 - branch: stable
+  date: '2023-12-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rubens/releases/download/stable-18.12.2023/fw_rubens_miui_RUBENS_V14.0.10.0.TLNCNXM_a39a2fa711_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/rubens/fw_rubens_miui_RUBENS_V14.0.10.0.TLNCNXM_a39a2fa711_13.0.zip
+  filename: fw_rubens_miui_RUBENS_V14.0.10.0.TLNCNXM_a39a2fa711_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.10.0.TLNCNXM
+- branch: stable
   date: '2023-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rubens/releases/download/stable-18.04.2023/fw_rubens_miui_RUBENS_V14.0.6.0.TLNCNXM_93dd11c7a1_13.0.zip
@@ -57988,6 +58018,16 @@
   versions:
     android: '11.0'
     miui: V12.5.7.0.RKFEUXM
+- branch: stable
+  date: '2023-12-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-18.12.2023/fw_sweet_miui_SWEETEEAGlobal_V14.0.9.0.TKFEUXM_79417d5d99_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sweet/fw_sweet_miui_SWEETEEAGlobal_V14.0.9.0.TKFEUXM_79417d5d99_13.0.zip
+  filename: fw_sweet_miui_SWEETEEAGlobal_V14.0.9.0.TKFEUXM_79417d5d99_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.9.0.TKFEUXM
 - branch: stable
   date: '2021-04-18'
   downloads:
