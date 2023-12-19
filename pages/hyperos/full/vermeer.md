@@ -52,7 +52,8 @@ permalink: /archive/hyperos/vermeer/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K70 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.8.0.UNKCNXM</td><td>14.0</td><td>7.0 GB</td><td>2023-12-15</td><td><a href="/hyperos/vermeer/stable beta/OS1.0.8.0.UNKCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K70 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UNKCNXM</td><td>14.0</td><td>8.5 GB</td><td>2023-12-19</td><td><a href="/hyperos/vermeer/stable/OS1.0.8.0.UNKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UNKCNXM</td><td>14.0</td><td>7.0 GB</td><td>2023-12-15</td><td><a href="/hyperos/vermeer/stable/OS1.0.8.0.UNKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UNKCNXM</td><td>14.0</td><td>8.6 GB</td><td>2023-12-13</td><td><a href="/hyperos/vermeer/stable/OS1.0.7.0.UNKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UNKCNXM</td><td>14.0</td><td>7.0 GB</td><td>2023-12-08</td><td><a href="/hyperos/vermeer/stable/OS1.0.7.0.UNKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UNKCNXM</td><td>14.0</td><td>7.0 GB</td><td>2023-12-01</td><td><a href="/hyperos/vermeer/stable/OS1.0.5.0.UNKCNXM/">Download</a></td></tr>

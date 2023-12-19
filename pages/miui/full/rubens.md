@@ -52,7 +52,8 @@ permalink: /archive/miui/rubens/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50 China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.10.0.TLNCNXM</td><td>13.0</td><td>5.8 GB</td><td>2023-12-12</td><td><a href="/miui/rubens/stable beta/V14.0.10.0.TLNCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.11.DEV</td><td>14.0</td><td>6.1 GB</td><td>2023-12-15</td><td><a href="/hyperos/rubens/public beta/OS1.0.23.12.11.DEV/">Download</a></td></tr>
+<tr><td>Redmi K50 China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.10.0.TLNCNXM</td><td>13.0</td><td>5.8 GB</td><td>2023-12-12</td><td><a href="/miui/rubens/stable beta/V14.0.10.0.TLNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.8.0.TLNCNXM</td><td>13.0</td><td>5.8 GB</td><td>2023-10-19</td><td><a href="/miui/rubens/stable beta/V14.0.8.0.TLNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.10.8.DEV</td><td>13.0</td><td>5.7 GB</td><td>2023-10-13</td><td><a href="/miui/rubens/public beta/V14.0.23.10.8.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.18.DEV</td><td>13.0</td><td>5.7 GB</td><td>2023-09-22</td><td><a href="/miui/rubens/public beta/V14.0.23.9.18.DEV/">Download</a></td></tr>
@@ -97,10 +98,10 @@ permalink: /archive/miui/rubens/
 <tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.19.DEV</td><td>13.0</td><td>6.0 GB</td><td>2022-12-23</td><td><a href="/miui/rubens/public beta/V14.0.22.12.19.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.8.DEV</td><td>13.0</td><td>6.0 GB</td><td>2022-12-16</td><td><a href="/miui/rubens/public beta/V14.0.22.12.8.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TLNCNXM</td><td>13.0</td><td>6.0 GB</td><td>2022-12-11</td><td><a href="/miui/rubens/stable beta/V14.0.3.0.TLNCNXM/">Download</a></td></tr>
-<tr><td>Redmi K50 China</td><td>Public Beta</td><td>Fastboot</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>7.4 GB</td><td>2022-12-05</td><td><a href="/miui/rubens/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
-<tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>6.0 GB</td><td>2022-12-11</td><td><a href="/miui/rubens/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TLNCNXM</td><td>13.0</td><td>6.0 GB</td><td>2022-12-28</td><td><a href="/miui/rubens/stable/V14.0.4.0.TLNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TLNCNXM</td><td>13.0</td><td>7.3 GB</td><td>2022-12-26</td><td><a href="/miui/rubens/stable/V14.0.4.0.TLNCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 China</td><td>Public Beta</td><td>Fastboot</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>7.4 GB</td><td>2022-12-05</td><td><a href="/miui/rubens/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
+<tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>6.0 GB</td><td>2022-12-11</td><td><a href="/miui/rubens/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.24.DEV</td><td>12.0</td><td>5.4 GB</td><td>2022-10-28</td><td><a href="/miui/rubens/public beta/V13.1.22.10.24.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.17.DEV</td><td>12.0</td><td>5.4 GB</td><td>2022-10-21</td><td><a href="/miui/rubens/public beta/V13.1.22.10.17.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.11.DEV</td><td>12.0</td><td>5.4 GB</td><td>2022-10-14</td><td><a href="/miui/rubens/public beta/V13.1.22.10.11.DEV/">Download</a></td></tr>

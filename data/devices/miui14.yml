@@ -2730,6 +2730,18 @@
   version: V14.0.5.0.TKTEUXM
 - android: '13.0'
   codename: pissarro
+  date: '2023-12-19'
+  download: https://bigota.d.miui.com/V14.0.8.0.TKTMIXM/fw_pissarro_miui_PISSARROGlobal_V14.0.8.0.TKTMIXM_aa555af4f5_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: V14.0.8.0.TKTMIXM
+- android: '13.0'
+  codename: pissarro
+  date: '2023-12-19'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKTINXM/fw_pissarro_miui_PISSARROINGlobal_V14.0.6.0.TKTINXM_3bc1169eb4_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: V14.0.6.0.TKTINXM
+- android: '13.0'
+  codename: pissarro
   date: '2023-10-18'
   download: https://bigota.d.miui.com/V14.0.7.0.TKTCNXM/fw_pissarro_miui_PISSARRO_V14.0.7.0.TKTCNXM_9b45f29b41_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
@@ -4942,6 +4954,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TMICNXM/fw_yuechu_miui_YUECHU_V14.0.4.0.TMICNXM_957a8a2821_13.0.zip
   name: Xiaomi Civi 3
   version: V14.0.4.0.TMICNXM
+- android: '13.0'
+  codename: yuechu
+  date: '2023-12-19'
+  download: https://bigota.d.miui.com/V14.0.11.0.TMICNXM/fw_yuechu_miui_YUECHU_V14.0.11.0.TMICNXM_ce1e97909a_13.0.zip
+  name: Xiaomi Civi 3
+  version: V14.0.11.0.TMICNXM
 - android: '13.0'
   codename: yuechu
   date: '2023-07-15'

@@ -55,7 +55,7 @@ permalink: /miui/babylon/
                 <tr><td>MIX Fold 3 China</td><td>Public Beta</td><td>Fastboot</td><td>V14.0.23.8.21.DEV</td><td>13.0</td><td>8.6 GB</td><td>2023-08-21</td><td><a href="/miui/babylon/public beta/V14.0.23.8.21.DEV/">Download</a></td></tr>
 <tr><td>MIX Fold 3 China</td><td>Stable</td><td>Fastboot</td><td>V14.1.10.0.TMVCNXM</td><td>13.0</td><td>8.6 GB</td><td>2023-10-26</td><td><a href="/miui/babylon/stable/V14.1.10.0.TMVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 3 China</td><td>Stable</td><td>Recovery</td><td>V14.1.10.0.TMVCNXM</td><td>13.0</td><td>6.9 GB</td><td>2023-11-03</td><td><a href="/miui/babylon/stable/V14.1.10.0.TMVCNXM/">Download</a></td></tr>
-<tr><td>MIX Fold 3 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.18.DEV</td><td>13.0</td><td>6.9 GB</td><td>2023-09-22</td><td><a href="/miui/babylon/public beta/V14.0.23.9.18.DEV/">Download</a></td></tr>
+<tr><td>MIX Fold 3 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.11.19.DEV</td><td>14.0</td><td>6.9 GB</td><td>2023-11-21</td><td><a href="/hyperos/babylon/public beta/OS1.0.23.11.19.DEV/">Download</a></td></tr>
 <tr><td>MIX Fold 3 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UMVCNXM</td><td>14.0</td><td>6.9 GB</td><td>2023-12-12</td><td><a href="/hyperos/babylon/stable beta/OS1.0.2.0.UMVCNXM/">Download</a></td></tr>
 
                 </tbody>
