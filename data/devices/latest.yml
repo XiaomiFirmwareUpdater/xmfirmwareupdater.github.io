@@ -1849,15 +1849,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2023-08-14'
+  date: '2023-12-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-14.08.2023/fw_haydn_miui_HAYDNEEAGlobal_V14.0.4.0.TKKEUXM_01066fb531_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/haydn/fw_haydn_miui_HAYDNEEAGlobal_V14.0.4.0.TKKEUXM_01066fb531_13.0.zip
-  filename: fw_haydn_miui_HAYDNEEAGlobal_V14.0.4.0.TKKEUXM_01066fb531_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-19.12.2023/fw_haydn_miui_HAYDNEEAGlobal_V14.0.7.0.TKKEUXM_2db93c7e3c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/haydn/fw_haydn_miui_HAYDNEEAGlobal_V14.0.7.0.TKKEUXM_2db93c7e3c_13.0.zip
+  filename: fw_haydn_miui_HAYDNEEAGlobal_V14.0.7.0.TKKEUXM_2db93c7e3c_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TKKEUXM
+    miui: V14.0.7.0.TKKEUXM
 - branch: stable
   date: '2023-08-19'
   downloads:
@@ -2029,15 +2029,15 @@
     android: '13.0'
     miui: V14.0.5.0.TLJMIXM
 - branch: stable
-  date: '2023-08-28'
+  date: '2023-12-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-28.08.2023/fw_ingres_miui_INGRES_V14.0.10.0.TLJCNXM_3237bf64bd_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ingres/fw_ingres_miui_INGRES_V14.0.10.0.TLJCNXM_3237bf64bd_13.0.zip
-  filename: fw_ingres_miui_INGRES_V14.0.10.0.TLJCNXM_3237bf64bd_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-19.12.2023/fw_ingres_miui_INGRES_V14.0.11.0.TLJCNXM_42972438d8_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ingres/fw_ingres_miui_INGRES_V14.0.11.0.TLJCNXM_42972438d8_13.0.zip
+  filename: fw_ingres_miui_INGRES_V14.0.11.0.TLJCNXM_42972438d8_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.10.0.TLJCNXM
+    miui: V14.0.11.0.TLJCNXM
 - branch: stable
   date: '2023-11-15'
   downloads:
@@ -3929,25 +3929,25 @@
     android: '13.0'
     miui: V14.0.5.0.TMSEUXM
 - branch: stable
-  date: '2023-09-07'
+  date: '2023-12-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-07.09.2023/fw_redwood_miui_REDWOODINGlobal_V14.0.3.0.TMSINXM_8e6dd01ce3_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/redwood/fw_redwood_miui_REDWOODINGlobal_V14.0.3.0.TMSINXM_8e6dd01ce3_13.0.zip
-  filename: fw_redwood_miui_REDWOODINGlobal_V14.0.3.0.TMSINXM_8e6dd01ce3_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-19.12.2023/fw_redwood_miui_REDWOODINGlobal_V14.0.5.0.TMSINXM_f1d7452e77_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/redwood/fw_redwood_miui_REDWOODINGlobal_V14.0.5.0.TMSINXM_f1d7452e77_13.0.zip
+  filename: fw_redwood_miui_REDWOODINGlobal_V14.0.5.0.TMSINXM_f1d7452e77_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: V14.0.3.0.TMSINXM
+    miui: V14.0.5.0.TMSINXM
 - branch: stable
-  date: '2023-09-11'
+  date: '2023-12-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rembrandt/releases/download/stable-11.09.2023/fw_rembrandt_miui_REMBRANDT_V14.0.4.0.TMMCNXM_7b6cdb8c0b_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/rembrandt/fw_rembrandt_miui_REMBRANDT_V14.0.4.0.TMMCNXM_7b6cdb8c0b_13.0.zip
-  filename: fw_rembrandt_miui_REMBRANDT_V14.0.4.0.TMMCNXM_7b6cdb8c0b_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rembrandt/releases/download/stable-19.12.2023/fw_rembrandt_miui_REMBRANDT_V14.0.6.0.TMMCNXM_f97ba0698e_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/rembrandt/fw_rembrandt_miui_REMBRANDT_V14.0.6.0.TMMCNXM_f97ba0698e_13.0.zip
+  filename: fw_rembrandt_miui_REMBRANDT_V14.0.6.0.TMMCNXM_f97ba0698e_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TMMCNXM
+    miui: V14.0.6.0.TMMCNXM
 - branch: stable
   date: '2023-07-31'
   downloads:

@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2023-09-11'
+  date: '2023-12-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rembrandt/releases/download/stable-11.09.2023/fw_rembrandt_miui_REMBRANDT_V14.0.4.0.TMMCNXM_7b6cdb8c0b_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/rembrandt/fw_rembrandt_miui_REMBRANDT_V14.0.4.0.TMMCNXM_7b6cdb8c0b_13.0.zip
-  filename: fw_rembrandt_miui_REMBRANDT_V14.0.4.0.TMMCNXM_7b6cdb8c0b_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rembrandt/releases/download/stable-19.12.2023/fw_rembrandt_miui_REMBRANDT_V14.0.6.0.TMMCNXM_f97ba0698e_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/rembrandt/fw_rembrandt_miui_REMBRANDT_V14.0.6.0.TMMCNXM_f97ba0698e_13.0.zip
+  filename: fw_rembrandt_miui_REMBRANDT_V14.0.6.0.TMMCNXM_f97ba0698e_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TMMCNXM
+    miui: V14.0.6.0.TMMCNXM
