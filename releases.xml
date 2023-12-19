@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 19 Dec 2023 19:45:45 </lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 00:51:42 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 13 (fuxi) - OS1.0.3.0.UMCCNXM</title>
@@ -19,6 +19,11 @@
         <item>
             <title>Redmi K50G/POCO F4 GT (ingres) - V14.0.11.0.TLJCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ingres/</link>
+            <pubDate>Tue, 19 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.2.0.UMNCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
             <pubDate>Tue, 19 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -39,6 +44,11 @@
         <item>
             <title>Redmi K60E (rembrandt) - V14.0.6.0.TMMCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/rembrandt/</link>
+            <pubDate>Tue, 19 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K60 Pro (socrates) - OS1.0.3.0.UMKCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/socrates/</link>
             <pubDate>Tue, 19 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -712,11 +722,6 @@
             <pubDate>Sat, 04 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K60 Pro (socrates) - V14.0.25.0.TMKCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/socrates/</link>
-            <pubDate>Sat, 04 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Mi 11 Lite 4G (courbet) - V14.0.4.0.TKQMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/courbet/</link>
             <pubDate>Fri, 03 Nov 2023 00:00:00 </pubDate>
@@ -879,11 +884,6 @@
         <item>
             <title>Redmi A1/POCO C50/A1+ (ice) - V13.0.19.0.SGMMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ice/</link>
-            <pubDate>Mon, 16 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60/POCO F5 Pro (mondrian) - V14.0.28.0.TMNCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
             <pubDate>Mon, 16 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
