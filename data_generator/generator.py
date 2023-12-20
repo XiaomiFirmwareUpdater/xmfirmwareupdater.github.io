@@ -225,7 +225,7 @@ def load_releases():
     miui12 = []
     miui13 = []
     miui14 = []
-    hyperOS = []
+    hyperos = []
     archive = yaml.load(
         Path("../data/devices/full.yml").read_text(), Loader=yaml.CLoader
     )
@@ -257,7 +257,7 @@ def load_releases():
                 version_array = version.split(".")
                 # MIUI 13 Beta starts from 21.12.27
                 if (
-                    version_array[1] == "12" and version_array[2] >= "27"
+                        version_array[1] == "12" and version_array[2] >= "27"
                 ) or version_array[0] == "22":
                     codename = update["filename"].split("_")[1]
                     miui13.append(
@@ -275,7 +275,7 @@ def load_releases():
             for version_name, version_updates_list in {
                 "V13.": miui13,
                 "V14.": miui14,
-                "OS1.": hyperOS,
+                "OS1.": hyperos,
             }.items():
                 if update["versions"]["miui"].startswith(version_name):
                     codename = update["filename"].split("_")[1]
@@ -300,7 +300,7 @@ def load_releases():
         yaml.dump(miui14, Dumper=yaml.CDumper), encoding="utf-8"
     )
     Path("../data/devices/hyperos.yml").write_text(
-        yaml.dump(hyperOS, Dumper=yaml.CDumper), encoding="utf-8"
+        yaml.dump(hyperos, Dumper=yaml.CDumper), encoding="utf-8"
     )
 
 
@@ -510,6 +510,25 @@ def generate_versions_pages(updates):
     return table
 
 
+def get_os_type_and_content(branch: str, codename: str) -> list[tuple[str, str]]:
+    roms = get_device_latest(codename) if branch == "latest" else get_device_roms(codename)
+    data, hyperos_data, miui_data = [], [], []
+    for rom in roms:
+        if rom.version.startswith("OS"):
+            hyperos_data.append(rom)
+        else:
+            miui_data.append(rom)
+    if hyperos_data:
+        data.append(
+            ("hyperos", generate_versions_pages(hyperos_data))
+        )
+    if miui_data:
+        data.append(
+            ("miui", generate_versions_pages(miui_data))
+        )
+    return data
+
+
 def generate_miui_md():
     """
     Generate downloads markdown files for miui pages
@@ -518,39 +537,22 @@ def generate_miui_md():
         "latest": "miui_latest.template",
         "full": "miui_archive.template",
     }.items():
-        template = Template(Path(filename).read_text())
-        os_type = "miui"
         for codename, name in M_DEVICES.items():
-            markdown = template.safe_substitute(codename=codename, name=name)
-            if branch == "latest":
-                latest = get_device_latest(codename)
-                table_content = generate_versions_pages(latest)
-                os_type = (
-                    "hyperos"
-                    if all(i.version.startswith("OS") for i in latest)
-                    else "miui"
+            data = get_os_type_and_content(branch, codename)
+            for item in data:
+                os_type, table_content = item
+                link = f"/{os_type}/{codename}/" if branch == "latest" else f"/archive/{os_type}/{codename}/"
+                markdown = Template(Path(filename).read_text()).safe_substitute(
+                    codename=codename,
+                    name=name,
+                    rows=table_content,
+                    link=link,
+                    os_type=os_type,
+                    os_name="HyperOS" if os_type == "hyperos" else "MIUI",
                 )
-                link = f"/{os_type}/{codename}/"
-            else:
-                roms = get_device_roms(codename)
-                os_type = (
-                    "hyperos"
-                    if all(i.version.startswith("OS") for i in roms)
-                    else "miui"
+                Path(f"../pages/{os_type}/{branch}/{codename}.md").write_text(
+                    markdown, encoding="utf-8"
                 )
-                table_content = generate_versions_pages(roms)
-                link = f"/archive/{os_type}/{codename}/"
-
-            markdown = Template(markdown).safe_substitute(
-                rows=table_content,
-                link=link,
-                os_type=os_type,
-                os_name="HyperOS" if os_type == "hyperos" else "MIUI",
-            )
-            os_type_path = "hyperos" if codename in HYPER_OS_CODENAMES else "miui"
-            Path(f"../pages/{os_type_path}/{branch}/{codename}.md").write_text(
-                markdown, encoding="utf-8"
-            )
 
 
 def load_vendor_devices():
@@ -647,7 +649,7 @@ def load_vendor_devices():
             for i in VARIANTS:
                 filter_latest(i[0], i[1])
         with open(
-            f"../data/vendor/latest/{codename}.yml", "w", encoding="utf-8"
+                f"../data/vendor/latest/{codename}.yml", "w", encoding="utf-8"
         ) as out:
             yaml.dump(latest, out, Dumper=yaml.CDumper)
         for i in latest:
@@ -671,7 +673,7 @@ def load_vendor_devices():
                 link = f"/archive/vendor/{codename}/"
             markdown = Template(markdown).safe_substitute(link=link)
             with open(
-                f"../pages/vendor/{branch}/{codename}.md", "w", encoding="utf-8"
+                    f"../pages/vendor/{branch}/{codename}.md", "w", encoding="utf-8"
             ) as out:
                 out.write(markdown)
 

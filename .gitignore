@@ -5,3 +5,4 @@ Gemfile.lock
 .jekyll-metadata
 *.idea
 .tool-versions
+.rtx.toml
