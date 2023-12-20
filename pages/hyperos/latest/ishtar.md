@@ -1,34 +1,34 @@
 ---
-title: Xiaomi 13 Ultra (ishtar) MIUI Downloads
+title: Xiaomi 13 Ultra (ishtar) HyperOS Downloads
 layout: download
 name: Xiaomi 13 Ultra
 codename: ishtar
-permalink: /miui/ishtar/
+permalink: /hyperos/ishtar/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
-        <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/ishtar/">Xiaomi 13 Ultra</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/ishtar/">Xiaomi 13 Ultra</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
-    Follow MIUI Updates Tracker on <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">Telegram</a>
+    Follow HyperOS Updates Tracker on <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">Telegram</a>
      or <a href="https://twitter.com/MiFwUpdater" class="alert-link">Twitter</a> to get notified when a new update is out!
     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
 
-### Latest MIUI Official ROMs
-*Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
+### Latest HyperOS Official ROMs
+*Note*: All files listed here are official untouched HyperOS ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/ishtar/" class="card-link">MIUI Archive</a>
+    <a href="/archive/hyperos/ishtar/" class="card-link">HyperOS Archive</a>
     <a href="/firmware/ishtar/" class="card-link">Firmware Downloads</a>
     <a href="/vendor/ishtar/" class="card-link">Vendor Downloads</a>
   </div>
@@ -44,7 +44,7 @@ permalink: /miui/ishtar/
                         <th data-ref="device">Device</th>
                         <th data-ref="branch">Branch</th>
                         <th data-ref="type">Type</th>
-                        <th data-ref="miui">MIUI</th>
+                        <th data-ref="miui">HyperOS</th>
                         <th data-ref="android">Android</th>
                         <th data-ref="size">Size</th>
                         <th data-ref="size">Date</th>
@@ -52,19 +52,8 @@ permalink: /miui/ishtar/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 13 Ultra China</td><td>Public Beta</td><td>Fastboot</td><td>V14.0.23.5.8.DEV</td><td>13.0</td><td>8.6 GB</td><td>2023-05-09</td><td><a href="/miui/ishtar/public beta/V14.0.23.5.8.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V14.0.19.0.TMACNXM</td><td>13.0</td><td>8.6 GB</td><td>2023-09-12</td><td><a href="/miui/ishtar/stable/V14.0.19.0.TMACNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra China</td><td>Stable</td><td>Recovery</td><td>V14.0.19.0.TMACNXM</td><td>13.0</td><td>6.9 GB</td><td>2023-09-15</td><td><a href="/miui/ishtar/stable/V14.0.19.0.TMACNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.11.DEV</td><td>14.0</td><td>6.7 GB</td><td>2023-12-15</td><td><a href="/hyperos/ishtar/public beta/OS1.0.23.12.11.DEV/">Download</a></td></tr>
+                <tr><td>Xiaomi 13 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.11.DEV</td><td>14.0</td><td>6.7 GB</td><td>2023-12-15</td><td><a href="/hyperos/ishtar/public beta/OS1.0.23.12.11.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UMACNXM</td><td>14.0</td><td>6.7 GB</td><td>2023-12-08</td><td><a href="/hyperos/ishtar/stable beta/OS1.0.4.0.UMACNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TMAEUXM</td><td>13.0</td><td>7.8 GB</td><td>2023-10-12</td><td><a href="/miui/ishtar/stable/V14.0.6.0.TMAEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMAEUXM</td><td>13.0</td><td>6.0 GB</td><td>2023-10-20</td><td><a href="/miui/ishtar/stable/V14.0.6.0.TMAEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TMAMIXM</td><td>13.0</td><td>8.5 GB</td><td>2023-11-06</td><td><a href="/miui/ishtar/stable/V14.0.5.0.TMAMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra Global</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TMAMIXM</td><td>13.0</td><td>6.0 GB</td><td>2023-11-01</td><td><a href="/miui/ishtar/stable/V14.0.5.0.TMAMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TMARUXM</td><td>13.0</td><td>7.6 GB</td><td>2023-10-11</td><td><a href="/miui/ishtar/stable/V14.0.5.0.TMARUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TMARUXM</td><td>13.0</td><td>5.9 GB</td><td>2023-10-23</td><td><a href="/miui/ishtar/stable/V14.0.5.0.TMARUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TMATWXM</td><td>13.0</td><td>7.1 GB</td><td>2023-10-22</td><td><a href="/miui/ishtar/stable/V14.0.6.0.TMATWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMATWXM</td><td>13.0</td><td>5.9 GB</td><td>2023-11-01</td><td><a href="/miui/ishtar/stable/V14.0.6.0.TMATWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

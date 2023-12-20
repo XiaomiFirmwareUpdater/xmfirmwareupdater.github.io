@@ -3564,12 +3564,6 @@
   version: V14.0.4.0.TKUEUXM
 - android: '13.0'
   codename: selene
-  date: '2023-10-13'
-  download: https://bigota.d.miui.com/V14.0.5.0.TKUMIXM/fw_selene_miui_SELENEGlobal_V14.0.5.0.TKUMIXM_edef7fafb0_13.0.zip
-  name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
-  version: V14.0.5.0.TKUMIXM
-- android: '13.0'
-  codename: selene
   date: '2023-12-12'
   download: https://bigota.d.miui.com/V14.0.8.0.TKUEUXM/fw_selene_miui_SELENEEEAGlobal_V14.0.8.0.TKUEUXM_fc55a1d032_13.0.zip
   name: Redmi 10/Redmi 10 2022/Redmi 10 Prime

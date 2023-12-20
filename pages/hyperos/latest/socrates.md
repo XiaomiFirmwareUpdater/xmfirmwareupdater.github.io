@@ -1,34 +1,34 @@
 ---
-title: Redmi K60 Pro (socrates) MIUI Downloads
+title: Redmi K60 Pro (socrates) HyperOS Downloads
 layout: download
 name: Redmi K60 Pro
 codename: socrates
-permalink: /miui/socrates/
+permalink: /hyperos/socrates/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
-        <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/socrates/">Redmi K60 Pro</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/socrates/">Redmi K60 Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
-    Follow MIUI Updates Tracker on <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">Telegram</a>
+    Follow HyperOS Updates Tracker on <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">Telegram</a>
      or <a href="https://twitter.com/MiFwUpdater" class="alert-link">Twitter</a> to get notified when a new update is out!
     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
 
-### Latest MIUI Official ROMs
-*Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
+### Latest HyperOS Official ROMs
+*Note*: All files listed here are official untouched HyperOS ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/socrates/" class="card-link">MIUI Archive</a>
+    <a href="/archive/hyperos/socrates/" class="card-link">HyperOS Archive</a>
     <a href="/firmware/socrates/" class="card-link">Firmware Downloads</a>
     <a href="/vendor/socrates/" class="card-link">Vendor Downloads</a>
   </div>
@@ -44,7 +44,7 @@ permalink: /miui/socrates/
                         <th data-ref="device">Device</th>
                         <th data-ref="branch">Branch</th>
                         <th data-ref="type">Type</th>
-                        <th data-ref="miui">MIUI</th>
+                        <th data-ref="miui">HyperOS</th>
                         <th data-ref="android">Android</th>
                         <th data-ref="size">Size</th>
                         <th data-ref="size">Date</th>
@@ -52,10 +52,7 @@ permalink: /miui/socrates/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K60 Pro China</td><td>Public Beta</td><td>Fastboot</td><td>V14.0.23.1.30.DEV</td><td>13.0</td><td>8.0 GB</td><td>2023-01-30</td><td><a href="/miui/socrates/public beta/V14.0.23.1.30.DEV/">Download</a></td></tr>
-<tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>V14.0.25.0.TMKCNXM</td><td>13.0</td><td>7.8 GB</td><td>2023-10-25</td><td><a href="/miui/socrates/stable/V14.0.25.0.TMKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>V14.0.25.0.TMKCNXM</td><td>13.0</td><td>6.3 GB</td><td>2023-11-03</td><td><a href="/miui/socrates/stable/V14.0.25.0.TMKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K60 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.11.DEV</td><td>14.0</td><td>6.4 GB</td><td>2023-12-15</td><td><a href="/hyperos/socrates/public beta/OS1.0.23.12.11.DEV/">Download</a></td></tr>
+                <tr><td>Redmi K60 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.11.DEV</td><td>14.0</td><td>6.4 GB</td><td>2023-12-15</td><td><a href="/hyperos/socrates/public beta/OS1.0.23.12.11.DEV/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UMKCNXM</td><td>14.0</td><td>6.3 GB</td><td>2023-12-07</td><td><a href="/hyperos/socrates/stable beta/OS1.0.3.0.UMKCNXM/">Download</a></td></tr>
 
                 </tbody>

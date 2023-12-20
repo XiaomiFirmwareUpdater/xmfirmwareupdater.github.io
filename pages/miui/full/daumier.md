@@ -52,8 +52,7 @@ permalink: /archive/miui/daumier/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12 Pro Dimensity China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.11.DEV</td><td>14.0</td><td>6.1 GB</td><td>2023-12-15</td><td><a href="/hyperos/daumier/public beta/OS1.0.23.12.11.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Pro Dimensity China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.10.8.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-10-13</td><td><a href="/miui/daumier/public beta/V14.0.23.10.8.DEV/">Download</a></td></tr>
+                <tr><td>Xiaomi 12 Pro Dimensity China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.10.8.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-10-13</td><td><a href="/miui/daumier/public beta/V14.0.23.10.8.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Dimensity China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.18.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-09-22</td><td><a href="/miui/daumier/public beta/V14.0.23.9.18.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Dimensity China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.11.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-09-15</td><td><a href="/miui/daumier/public beta/V14.0.23.9.11.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Dimensity China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.4.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-09-08</td><td><a href="/miui/daumier/public beta/V14.0.23.9.4.DEV/">Download</a></td></tr>
