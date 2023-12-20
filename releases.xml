@@ -4,11 +4,26 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 20 Dec 2023 16:39:28 </lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 19:07:45 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.6.0.TLOEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
+            <pubDate>Wed, 20 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad (yunluo) - V14.0.4.0.TLYMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/yunluo/</link>
+            <pubDate>Wed, 20 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad (yunluo) - V14.0.5.0.TLYEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/yunluo/</link>
+            <pubDate>Wed, 20 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad (yunluo) - V14.0.3.0.TLYINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/yunluo/</link>
             <pubDate>Wed, 20 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -294,11 +309,6 @@
         <item>
             <title>Redmi Note 11 NFC (spesn) - V14.0.4.0.TGKEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/spesn/</link>
-            <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.5.0.TMQEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -972,16 +982,6 @@
             <pubDate>Thu, 21 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad (yunluo) - V14.0.3.0.TLYMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/yunluo/</link>
-            <pubDate>Wed, 20 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad (yunluo) - V14.0.4.0.TLYEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/yunluo/</link>
-            <pubDate>Wed, 20 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.8.0.TKHMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/alioth/</link>
             <pubDate>Tue, 19 Sep 2023 00:00:00 </pubDate>
@@ -1067,6 +1067,11 @@
             <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.4.0.TMQEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
+            <pubDate>Tue, 05 Sep 2023 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>POCO X5 5G (moonstone) - V14.0.3.0.TMPEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
             <pubDate>Thu, 31 Aug 2023 00:00:00 </pubDate>
@@ -1115,11 +1120,6 @@
             <title>Redmi K60/POCO F5 Pro (mondrian) - V14.0.7.0.TMNEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
             <pubDate>Tue, 08 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad (yunluo) - V14.0.2.0.TLYINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/yunluo/</link>
-            <pubDate>Mon, 07 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi Pad 5 Pro 12.4 (dagu) - V14.0.11.0.TLZCNXM</title>

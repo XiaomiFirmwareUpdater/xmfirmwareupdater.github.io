@@ -3564,6 +3564,12 @@
   version: V14.0.4.0.TKUEUXM
 - android: '13.0'
   codename: selene
+  date: '2023-10-13'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKUMIXM/fw_selene_miui_SELENEGlobal_V14.0.5.0.TKUMIXM_edef7fafb0_13.0.zip
+  name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
+  version: V14.0.5.0.TKUMIXM
+- android: '13.0'
+  codename: selene
   date: '2023-12-12'
   download: https://bigota.d.miui.com/V14.0.8.0.TKUEUXM/fw_selene_miui_SELENEEEAGlobal_V14.0.8.0.TKUEUXM_fc55a1d032_13.0.zip
   name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
@@ -3940,12 +3946,6 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TMQCNXM/fw_sunstone_miui_SUNSTONE_V14.0.4.0.TMQCNXM_a070ee4d67_13.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
   version: V14.0.4.0.TMQCNXM
-- android: '13.0'
-  codename: sunstone
-  date: '2023-12-11'
-  download: https://bigota.d.miui.com/V14.0.5.0.TMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_V14.0.5.0.TMQEUXM_7a94e186fd_13.0.zip
-  name: Redmi Note 12 5G/Note 12R Pro
-  version: V14.0.5.0.TMQEUXM
 - android: '13.0'
   codename: sunstone
   date: '2023-07-11'
@@ -4990,6 +4990,24 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TLYMIXM/fw_yunluo_miui_YUNLUOGlobal_V14.0.3.0.TLYMIXM_f960c3beed_13.0.zip
   name: Redmi Pad
   version: V14.0.3.0.TLYMIXM
+- android: '13.0'
+  codename: yunluo
+  date: '2023-12-20'
+  download: https://bigota.d.miui.com/V14.0.5.0.TLYEUXM/fw_yunluo_miui_YUNLUOEEAGlobal_V14.0.5.0.TLYEUXM_05aeffb583_13.0.zip
+  name: Redmi Pad
+  version: V14.0.5.0.TLYEUXM
+- android: '13.0'
+  codename: yunluo
+  date: '2023-12-20'
+  download: https://bigota.d.miui.com/V14.0.4.0.TLYMIXM/fw_yunluo_miui_YUNLUOGlobal_V14.0.4.0.TLYMIXM_6d2c44170c_13.0.zip
+  name: Redmi Pad
+  version: V14.0.4.0.TLYMIXM
+- android: '13.0'
+  codename: yunluo
+  date: '2023-12-20'
+  download: https://bigota.d.miui.com/V14.0.3.0.TLYINXM/fw_yunluo_miui_YUNLUOINGlobal_V14.0.3.0.TLYINXM_363b181b81_13.0.zip
+  name: Redmi Pad
+  version: V14.0.3.0.TLYINXM
 - android: '13.0'
   codename: yunluo
   date: '2023-03-15'
