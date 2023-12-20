@@ -3948,6 +3948,12 @@
   version: V14.0.4.0.TMQCNXM
 - android: '13.0'
   codename: sunstone
+  date: '2023-12-11'
+  download: https://bigota.d.miui.com/V14.0.5.0.TMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_V14.0.5.0.TMQEUXM_7a94e186fd_13.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: V14.0.5.0.TMQEUXM
+- android: '13.0'
+  codename: sunstone
   date: '2023-07-11'
   download: https://bigota.d.miui.com/V14.0.3.0.TMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_V14.0.3.0.TMQEUXM_6c9d709926_13.0.zip
   name: Redmi Note 12 5G/Note 12R Pro

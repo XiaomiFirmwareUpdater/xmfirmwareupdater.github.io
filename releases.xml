@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 20 Dec 2023 19:07:45 </lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 00:36:57 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.6.0.TLOEUXM</title>
@@ -309,6 +309,11 @@
         <item>
             <title>Redmi Note 11 NFC (spesn) - V14.0.4.0.TGKEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/spesn/</link>
+            <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.5.0.TMQEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -1065,11 +1070,6 @@
             <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V14.0.4.0.TKCINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/veux/</link>
             <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.4.0.TMQEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
-            <pubDate>Tue, 05 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>POCO X5 5G (moonstone) - V14.0.3.0.TMPEUXM</title>
