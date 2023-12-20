@@ -52,9 +52,9 @@ permalink: /miui/spesn/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 NFC EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TGKEUXM</td><td>13.0</td><td>6.2 GB</td><td>2023-09-11</td><td><a href="/miui/spesn/stable/V14.0.2.0.TGKEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 NFC EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TGKEUXM</td><td>13.0</td><td>3.5 GB</td><td>2023-09-15</td><td><a href="/miui/spesn/stable/V14.0.2.0.TGKEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 NFC EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TGKEUXM</td><td>13.0</td><td>3.7 GB</td><td>2023-12-08</td><td><a href="/miui/spesn/stable beta/V14.0.4.0.TGKEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 NFC EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TGKEUXM</td><td>13.0</td><td>6.2 GB</td><td>2023-11-28</td><td><a href="/miui/spesn/stable/V14.0.4.0.TGKEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 NFC EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TGKEUXM</td><td>13.0</td><td>3.7 GB</td><td>2023-12-08</td><td><a href="/miui/spesn/stable/V14.0.4.0.TGKEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 NFC EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.RGKEUXM</td><td>11.0</td><td>2.8 GB</td><td>2022-02-14</td><td><a href="/miui/spesn/stable beta/V13.0.1.0.RGKEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TGKMIXM</td><td>13.0</td><td>6.8 GB</td><td>2023-07-21</td><td><a href="/miui/spesn/stable/V14.0.3.0.TGKMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC Global</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TGKMIXM</td><td>13.0</td><td>3.7 GB</td><td>2023-08-04</td><td><a href="/miui/spesn/stable/V14.0.3.0.TGKMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TGKMIXM</td><td>13.0</td><td>3.8 GB</td><td>2023-10-13</td><td><a href="/miui/spesn/stable beta/V14.0.4.0.TGKMIXM/">Download</a></td></tr>

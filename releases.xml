@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 20 Dec 2023 06:36:28 </lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 13:03:31 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.6.0.TLOEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
+            <pubDate>Wed, 20 Dec 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 13 (fuxi) - OS1.0.3.0.UMCCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
@@ -829,11 +834,6 @@
         <item>
             <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V14.0.7.0.TKUINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/selene/</link>
-            <pubDate>Thu, 19 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.5.0.TLOEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
             <pubDate>Thu, 19 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
