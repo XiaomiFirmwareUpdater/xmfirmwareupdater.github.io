@@ -72,6 +72,7 @@ permalink: /miui/munch/
 <tr><td>POCO F4 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TLMTRXM</td><td>13.0</td><td>3.8 GB</td><td>2023-12-18</td><td><a href="/miui/munch/stable beta/V14.0.5.0.TLMTRXM/">Download</a></td></tr>
 <tr><td>POCO F4 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TLMTWXM</td><td>13.0</td><td>5.2 GB</td><td>2023-09-13</td><td><a href="/miui/munch/stable/V14.0.4.0.TLMTWXM/">Download</a></td></tr>
 <tr><td>POCO F4 Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TLMTWXM</td><td>13.0</td><td>3.8 GB</td><td>2023-09-19</td><td><a href="/miui/munch/stable/V14.0.4.0.TLMTWXM/">Download</a></td></tr>
+<tr><td>POCO F4 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TLMTWXM</td><td>13.0</td><td>3.8 GB</td><td>2023-12-18</td><td><a href="/miui/munch/stable beta/V14.0.5.0.TLMTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
