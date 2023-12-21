@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 21 Dec 2023 06:36:07 </lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 12:42:13 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.5.0.TMOINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Thu, 21 Dec 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.6.0.TLOEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
@@ -1005,11 +1010,6 @@
             <title>Xiaomi Pad 6 Pro (liuqin) - V14.0.9.0.TMYCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/liuqin/</link>
             <pubDate>Sun, 17 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.4.0.TMOINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Wed, 13 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K40S/POCO F4 (munch) - V14.0.7.0.TLMCNXM</title>
