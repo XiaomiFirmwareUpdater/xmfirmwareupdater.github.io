@@ -2069,15 +2069,15 @@
     android: '14.0'
     miui: OS1.0.4.0.UMACNXM
 - branch: stable
-  date: '2023-10-20'
+  date: '2023-12-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-20.10.2023/fw_ishtar_miui_ISHTAREEAGlobal_V14.0.6.0.TMAEUXM_8a9bb72fad_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ishtar/fw_ishtar_miui_ISHTAREEAGlobal_V14.0.6.0.TMAEUXM_8a9bb72fad_13.0.zip
-  filename: fw_ishtar_miui_ISHTAREEAGlobal_V14.0.6.0.TMAEUXM_8a9bb72fad_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-22.12.2023/fw_ishtar_miui_ISHTAREEAGlobal_OS1.0.5.0.UMAEUXM_70d6c1e142_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ishtar/fw_ishtar_miui_ISHTAREEAGlobal_OS1.0.5.0.UMAEUXM_70d6c1e142_14.0.zip
+  filename: fw_ishtar_miui_ISHTAREEAGlobal_OS1.0.5.0.UMAEUXM_70d6c1e142_14.0.zip
   region: Europe
   versions:
-    android: '13.0'
-    miui: V14.0.6.0.TMAEUXM
+    android: '14.0'
+    miui: OS1.0.5.0.UMAEUXM
 - branch: stable
   date: '2021-07-15'
   downloads:
