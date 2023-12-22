@@ -2699,15 +2699,15 @@
     android: '13.0'
     miui: V14.0.25.0.TMRCNXM
 - branch: stable
-  date: '2023-09-19'
+  date: '2023-12-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-19.09.2023/fw_marble_miui_MARBLEEEAGlobal_V14.0.9.0.TMREUXM_5b40c23287_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEEEAGlobal_V14.0.9.0.TMREUXM_5b40c23287_13.0.zip
-  filename: fw_marble_miui_MARBLEEEAGlobal_V14.0.9.0.TMREUXM_5b40c23287_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-22.12.2023/fw_marble_miui_MARBLEEEAGlobal_OS1.0.4.0.UMREUXM_733c4626e6_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEEEAGlobal_OS1.0.4.0.UMREUXM_733c4626e6_14.0.zip
+  filename: fw_marble_miui_MARBLEEEAGlobal_OS1.0.4.0.UMREUXM_733c4626e6_14.0.zip
   region: Europe
   versions:
-    android: '13.0'
-    miui: V14.0.9.0.TMREUXM
+    android: '14.0'
+    miui: OS1.0.4.0.UMREUXM
 - branch: stable
   date: '2023-10-20'
   downloads:

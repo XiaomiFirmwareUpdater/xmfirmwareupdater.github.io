@@ -125,6 +125,12 @@
   name: Redmi K70 Pro
   version: OS1.0.6.0.UNMCNXM
 - android: '14.0'
+  codename: marble
+  date: '2023-12-22'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMREUXM/fw_marble_miui_MARBLEEEAGlobal_OS1.0.4.0.UMREUXM_733c4626e6_14.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS1.0.4.0.UMREUXM
+- android: '14.0'
   codename: mondrian
   date: '2023-12-19'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMNCNXM/fw_mondrian_miui_MONDRIAN_OS1.0.2.0.UMNCNXM_39d36cb035_14.0.zip

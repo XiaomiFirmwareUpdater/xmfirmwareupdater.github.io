@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 22 Dec 2023 06:40:06 </lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 12:45:35 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS1.0.5.0.UMAEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ishtar/</link>
+            <pubDate>Fri, 22 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.4.0.UMREUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
             <pubDate>Fri, 22 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -994,11 +999,6 @@
         <item>
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.8.0.TKHMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/alioth/</link>
-            <pubDate>Tue, 19 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.9.0.TMREUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
             <pubDate>Tue, 19 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
