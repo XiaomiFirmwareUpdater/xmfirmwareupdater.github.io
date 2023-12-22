@@ -4110,6 +4110,12 @@
   version: V14.0.19.0.TLIEUXM
 - android: '13.0'
   codename: taoyao
+  date: '2023-12-22'
+  download: https://bigota.d.miui.com/V14.0.25.0.TLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.25.0.TLIEUXM_32179deb0b_13.0.zip
+  name: Xiaomi 12 Lite
+  version: V14.0.25.0.TLIEUXM
+- android: '13.0'
+  codename: taoyao
   date: '2023-07-21'
   download: https://bigota.d.miui.com/V14.0.17.0.TLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.17.0.TLIEUXM_009c4812c3_13.0.zip
   name: Xiaomi 12 Lite
@@ -4758,6 +4764,12 @@
   version: V14.0.8.0.TGOINXM
 - android: '13.0'
   codename: water
+  date: '2023-12-22'
+  download: https://bigota.d.miui.com/V14.0.12.0.TGOINXM/fw_water_miui_WATERINGlobal_V14.0.12.0.TGOINXM_50ca0cbf12_13.0.zip
+  name: Redmi A2/A2+/POCO C51
+  version: V14.0.12.0.TGOINXM
+- android: '13.0'
+  codename: water
   date: '2023-08-22'
   download: https://bigota.d.miui.com/V14.0.15.0.TGOMIXM/fw_water_miui_WATERGlobal_V14.0.15.0.TGOMIXM_3895b1029e_13.0.zip
   name: Redmi A2/A2+/POCO C51
@@ -4918,6 +4930,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TMUEUXM/fw_xun_miui_XUNEEAGlobal_V14.0.3.0.TMUEUXM_f8cfc20eb5_13.0.zip
   name: Redmi Pad SE
   version: V14.0.3.0.TMUEUXM
+- android: '13.0'
+  codename: xun
+  date: '2023-12-22'
+  download: https://bigota.d.miui.com/V14.0.5.0.TMUMIXM/fw_xun_miui_XUNGlobal_V14.0.5.0.TMUMIXM_c5d97d0ffd_13.0.zip
+  name: Redmi Pad SE
+  version: V14.0.5.0.TMUMIXM
 - android: '13.0'
   codename: xun
   date: '2023-09-21'

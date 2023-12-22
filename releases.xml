@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 22 Dec 2023 12:45:35 </lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 19:18:08 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS1.0.5.0.UMAEUXM</title>
@@ -14,6 +14,21 @@
         <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.4.0.UMREUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
+            <pubDate>Fri, 22 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Lite (taoyao) - V14.0.25.0.TLIEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/taoyao/</link>
+            <pubDate>Fri, 22 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A2/A2+/POCO C51 (water) - V14.0.12.0.TGOINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/water/</link>
+            <pubDate>Fri, 22 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE (xun) - V14.0.5.0.TMUMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
             <pubDate>Fri, 22 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -512,11 +527,6 @@
             <pubDate>Sat, 02 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad SE (xun) - V14.0.4.0.TMUMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
-            <pubDate>Fri, 01 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.12.0.TLLEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Fri, 01 Dec 2023 00:00:00 </pubDate>
@@ -524,11 +534,6 @@
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.18.0.TLFEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
-            <pubDate>Wed, 29 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Lite (taoyao) - V14.0.24.0.TLIEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/taoyao/</link>
             <pubDate>Wed, 29 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -980,11 +985,6 @@
             <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V14.0.11.0.TKACNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/star/</link>
             <pubDate>Mon, 02 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A2/A2+/POCO C51 (water) - V14.0.11.0.TGOINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/water/</link>
-            <pubDate>Mon, 25 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi Civi (mona) - V14.0.6.0.TKVCNXM</title>

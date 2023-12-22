@@ -4719,15 +4719,15 @@
     android: '13.0'
     miui: V14.0.8.0.TLIMIXM
 - branch: stable
-  date: '2023-11-29'
+  date: '2023-12-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-29.11.2023/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.24.0.TLIEUXM_21c13158fc_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.24.0.TLIEUXM_21c13158fc_13.0.zip
-  filename: fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.24.0.TLIEUXM_21c13158fc_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-22.12.2023/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.25.0.TLIEUXM_32179deb0b_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.25.0.TLIEUXM_32179deb0b_13.0.zip
+  filename: fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.25.0.TLIEUXM_32179deb0b_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.24.0.TLIEUXM
+    miui: V14.0.25.0.TLIEUXM
 - branch: stable
   date: '2023-09-18'
   downloads:
@@ -5369,15 +5369,15 @@
     android: '13.0'
     miui: V14.0.11.0.TGOEUXM
 - branch: stable
-  date: '2023-09-25'
+  date: '2023-12-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-25.09.2023/fw_water_miui_WATERINGlobal_V14.0.11.0.TGOINXM_b4e2f8a945_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERINGlobal_V14.0.11.0.TGOINXM_b4e2f8a945_13.0.zip
-  filename: fw_water_miui_WATERINGlobal_V14.0.11.0.TGOINXM_b4e2f8a945_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-22.12.2023/fw_water_miui_WATERINGlobal_V14.0.12.0.TGOINXM_50ca0cbf12_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERINGlobal_V14.0.12.0.TGOINXM_50ca0cbf12_13.0.zip
+  filename: fw_water_miui_WATERINGlobal_V14.0.12.0.TGOINXM_50ca0cbf12_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: V14.0.11.0.TGOINXM
+    miui: V14.0.12.0.TGOINXM
 - branch: stable
   date: '2021-04-08'
   downloads:
@@ -5499,15 +5499,15 @@
     android: '13.0'
     miui: V14.0.6.0.TLOINXM
 - branch: stable
-  date: '2023-12-01'
+  date: '2023-12-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-01.12.2023/fw_xun_miui_XUNGlobal_V14.0.4.0.TMUMIXM_b3ca8671a5_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/xun/fw_xun_miui_XUNGlobal_V14.0.4.0.TMUMIXM_b3ca8671a5_13.0.zip
-  filename: fw_xun_miui_XUNGlobal_V14.0.4.0.TMUMIXM_b3ca8671a5_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-22.12.2023/fw_xun_miui_XUNGlobal_V14.0.5.0.TMUMIXM_c5d97d0ffd_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/xun/fw_xun_miui_XUNGlobal_V14.0.5.0.TMUMIXM_c5d97d0ffd_13.0.zip
+  filename: fw_xun_miui_XUNGlobal_V14.0.5.0.TMUMIXM_c5d97d0ffd_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TMUMIXM
+    miui: V14.0.5.0.TMUMIXM
 - branch: stable
   date: '2023-12-18'
   downloads:
