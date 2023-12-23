@@ -4680,6 +4680,12 @@
   version: V14.0.8.0.TKDEUXM
 - android: '13.0'
   codename: viva
+  date: '2023-12-23'
+  download: https://bigota.d.miui.com/V14.0.5.0.TGDEUXM/fw_viva_miui_VIVAEEAGlobal_V14.0.5.0.TGDEUXM_b06acb3c31_13.0.zip
+  name: Redmi Note 11 Pro 4G
+  version: V14.0.5.0.TGDEUXM
+- android: '13.0'
+  codename: viva
   date: '2023-05-22'
   download: https://bigota.d.miui.com/V14.0.2.0.TGDMIXM/fw_viva_miui_VIVAGlobal_V14.0.2.0.TGDMIXM_70e8af00f6_13.0.zip
   name: Redmi Note 11 Pro 4G
