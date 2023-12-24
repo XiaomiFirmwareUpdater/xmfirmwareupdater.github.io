@@ -1549,15 +1549,15 @@
     android: '11.0'
     miui: V13.0.10.0.RGFEUXM
 - branch: stable
-  date: '2023-10-27'
+  date: '2023-12-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-27.10.2023/fw_fuxi_miui_FUXIGlobal_V14.0.6.0.UMCMIXM_052c72c9ab_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fuxi/fw_fuxi_miui_FUXIGlobal_V14.0.6.0.UMCMIXM_052c72c9ab_14.0.zip
-  filename: fw_fuxi_miui_FUXIGlobal_V14.0.6.0.UMCMIXM_052c72c9ab_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-24.12.2023/fw_fuxi_miui_FUXIGlobal_OS1.0.1.0.UMCMIXM_ab366ba8f8_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fuxi/fw_fuxi_miui_FUXIGlobal_OS1.0.1.0.UMCMIXM_ab366ba8f8_14.0.zip
+  filename: fw_fuxi_miui_FUXIGlobal_OS1.0.1.0.UMCMIXM_ab366ba8f8_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: V14.0.6.0.UMCMIXM
+    miui: OS1.0.1.0.UMCMIXM
 - branch: stable
   date: '2023-12-19'
   downloads:
@@ -1569,15 +1569,15 @@
     android: '14.0'
     miui: OS1.0.3.0.UMCCNXM
 - branch: stable
-  date: '2023-12-05'
+  date: '2023-12-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-05.12.2023/fw_fuxi_miui_FUXIEEAGlobal_V14.0.9.0.UMCEUXM_99c17c3590_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fuxi/fw_fuxi_miui_FUXIEEAGlobal_V14.0.9.0.UMCEUXM_99c17c3590_14.0.zip
-  filename: fw_fuxi_miui_FUXIEEAGlobal_V14.0.9.0.UMCEUXM_99c17c3590_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-24.12.2023/fw_fuxi_miui_FUXIEEAGlobal_OS1.0.1.0.UMCEUXM_0332150a82_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fuxi/fw_fuxi_miui_FUXIEEAGlobal_OS1.0.1.0.UMCEUXM_0332150a82_14.0.zip
+  filename: fw_fuxi_miui_FUXIEEAGlobal_OS1.0.1.0.UMCEUXM_0332150a82_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: V14.0.9.0.UMCEUXM
+    miui: OS1.0.1.0.UMCEUXM
 - branch: stable
   date: '2023-12-07'
   downloads:

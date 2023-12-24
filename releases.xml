@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 24 Dec 2023 00:34:11 </lastBuildDate>
+        <lastBuildDate>Sun, 24 Dec 2023 06:45:43 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13 (fuxi) - OS1.0.1.0.UMCMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
+            <pubDate>Sun, 24 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 (fuxi) - OS1.0.1.0.UMCEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
+            <pubDate>Sun, 24 Dec 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 11 Pro 4G (viva) - V14.0.5.0.TGDEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/viva/</link>
@@ -457,11 +467,6 @@
             <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13 (fuxi) - V14.0.9.0.UMCEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13 Pro (nuwa) - V14.0.9.0.UMBEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
@@ -795,11 +800,6 @@
             <title>Xiaomi 12T (plato) - V14.0.7.0.ULQMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/plato/</link>
             <pubDate>Mon, 30 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 (fuxi) - V14.0.6.0.UMCMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Fri, 27 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 10 (mojito) - V14.0.8.0.SKGMIXM</title>
