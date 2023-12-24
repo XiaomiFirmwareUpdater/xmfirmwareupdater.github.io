@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 24 Dec 2023 18:36:16 </lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 00:40:00 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 13 (fuxi) - OS1.0.1.0.UMCMIXM</title>
@@ -14,6 +14,11 @@
         <item>
             <title>Xiaomi 13 (fuxi) - OS1.0.1.0.UMCEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
+            <pubDate>Sun, 24 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V14.0.6.0.TKCINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/veux/</link>
             <pubDate>Sun, 24 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -1064,11 +1069,6 @@
         <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.7.0.TKOINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/lisa/</link>
-            <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V14.0.4.0.TKCINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/veux/</link>
             <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
