@@ -4499,15 +4499,15 @@
     android: '13.0'
     miui: V14.0.8.0.TMWEUXM
 - branch: stable
-  date: '2023-10-17'
+  date: '2023-12-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-17.10.2023/fw_sky_miui_SKYINGlobal_V14.0.5.0.TMWINXM_8a2b317d27_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sky/fw_sky_miui_SKYINGlobal_V14.0.5.0.TMWINXM_8a2b317d27_13.0.zip
-  filename: fw_sky_miui_SKYINGlobal_V14.0.5.0.TMWINXM_8a2b317d27_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-25.12.2023/fw_sky_miui_SKYINGlobal_V14.0.7.0.TMWINXM_53294114d1_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sky/fw_sky_miui_SKYINGlobal_V14.0.7.0.TMWINXM_53294114d1_13.0.zip
+  filename: fw_sky_miui_SKYINGlobal_V14.0.7.0.TMWINXM_53294114d1_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TMWINXM
+    miui: V14.0.7.0.TMWINXM
 - branch: stable
   date: '2023-12-19'
   downloads:
