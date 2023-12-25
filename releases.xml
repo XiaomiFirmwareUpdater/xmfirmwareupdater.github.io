@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 25 Dec 2023 07:06:11 </lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 12:46:23 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 12 (fire) - V14.0.13.0.TMXMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fire/</link>
+            <pubDate>Mon, 25 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 6 Pro (liuqin) - OS1.0.2.0.UMYCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/liuqin/</link>
+            <pubDate>Mon, 25 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 6 (pipa) - OS1.0.2.0.UMZCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/pipa/</link>
             <pubDate>Mon, 25 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -842,11 +852,6 @@
             <pubDate>Mon, 23 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 6 (pipa) - V14.0.10.0.TMZCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/pipa/</link>
-            <pubDate>Mon, 23 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.6.0.TMRINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
             <pubDate>Fri, 20 Oct 2023 00:00:00 </pubDate>
@@ -1010,11 +1015,6 @@
             <title>Redmi Note 12 4G (tapas) - V14.0.14.0.TMTMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/tapas/</link>
             <pubDate>Mon, 18 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 Pro (liuqin) - V14.0.9.0.TMYCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/liuqin/</link>
-            <pubDate>Sun, 17 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K40S/POCO F4 (munch) - V14.0.7.0.TLMCNXM</title>
