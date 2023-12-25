@@ -53,6 +53,7 @@ permalink: /hyperos/zizhan/
                 </thead>
                 <tbody>
                 <tr><td>Xiaomi MIX Fold 2 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.11.DEV</td><td>14.0</td><td>6.0 GB</td><td>2023-12-15</td><td><a href="/hyperos/zizhan/public beta/OS1.0.23.12.11.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi MIX Fold 2 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.ULRCNXM</td><td>14.0</td><td>5.9 GB</td><td>2023-12-21</td><td><a href="/hyperos/zizhan/stable beta/OS1.0.2.0.ULRCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -244,3 +244,9 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMHCNXM/fw_yudi_miui_YUDI_OS1.0.2.0.UMHCNXM_34efc69cc0_14.0.zip
   name: Xiaomi Pad 6 Max 14
   version: OS1.0.2.0.UMHCNXM
+- android: '14.0'
+  codename: zizhan
+  date: '2023-12-25'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULRCNXM/fw_zizhan_miui_ZIZHAN_OS1.0.2.0.ULRCNXM_145e69abdf_14.0.zip
+  name: Xiaomi MIX Fold 2
+  version: OS1.0.2.0.ULRCNXM

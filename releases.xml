@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 25 Dec 2023 00:40:00 </lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 07:06:11 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 12 (fire) - V14.0.13.0.TMXMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/fire/</link>
+            <pubDate>Mon, 25 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE (xun) - V14.0.5.0.TMUEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
+            <pubDate>Mon, 25 Dec 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi MIX Fold 2 (zizhan) - OS1.0.2.0.ULRCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/zizhan/</link>
+            <pubDate>Mon, 25 Dec 2023 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 13 (fuxi) - OS1.0.1.0.UMCMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
@@ -397,11 +412,6 @@
             <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi MIX Fold 2 (zizhan) - V14.0.14.0.TLRCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zizhan/</link>
-            <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - V14.0.12.0.TMLMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/corot/</link>
             <pubDate>Sun, 10 Dec 2023 00:00:00 </pubDate>
@@ -519,11 +529,6 @@
         <item>
             <title>Redmi Note 12 4G NFC (topaz) - V14.0.12.0.TMGEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/topaz/</link>
-            <pubDate>Mon, 04 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad SE (xun) - V14.0.4.0.TMUEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
             <pubDate>Mon, 04 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -819,11 +824,6 @@
         <item>
             <title>Redmi Note 9 5G (cannon) - V14.0.6.0.SJECNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/cannon/</link>
-            <pubDate>Wed, 25 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12 (fire) - V14.0.12.0.TMXMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fire/</link>
             <pubDate>Wed, 25 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
