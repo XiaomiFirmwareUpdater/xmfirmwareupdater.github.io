@@ -1,15 +1,15 @@
 ---
-title: Redmi K70/POCO F6 Pro (vermeer) HyperOS Downloads
+title: Redmi Note 12 4G (tapas) HyperOS Downloads
 layout: download
-name: Redmi K70/POCO F6 Pro
-codename: vermeer
-permalink: /hyperos/vermeer/
+name: Redmi Note 12 4G
+codename: tapas
+permalink: /hyperos/tapas/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/vermeer/">Redmi K70/POCO F6 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/tapas/">Redmi Note 12 4G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /hyperos/vermeer/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/hyperos/vermeer/" class="card-link">HyperOS Archive</a>
-    <a href="/firmware/vermeer/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/vermeer/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/hyperos/tapas/" class="card-link">HyperOS Archive</a>
+    <a href="/firmware/tapas/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/tapas/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,9 +52,7 @@ permalink: /hyperos/vermeer/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K70 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UNKCNXM</td><td>14.0</td><td>8.5 GB</td><td>2023-12-19</td><td><a href="/hyperos/vermeer/stable/OS1.0.8.0.UNKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UNKCNXM</td><td>14.0</td><td>7.0 GB</td><td>2023-12-15</td><td><a href="/hyperos/vermeer/stable/OS1.0.8.0.UNKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K70 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.9.0.UNKCNXM</td><td>14.0</td><td>7.0 GB</td><td>2023-12-23</td><td><a href="/hyperos/vermeer/stable beta/OS1.0.9.0.UNKCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12 4G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UMTMIXM</td><td>14.0</td><td>4.4 GB</td><td>2023-12-18</td><td><a href="/hyperos/tapas/stable beta/OS1.0.2.0.UMTMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
