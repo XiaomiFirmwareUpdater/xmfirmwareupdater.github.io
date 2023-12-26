@@ -52,8 +52,8 @@ permalink: /miui/aristotle/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 13T EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.10.0.TMFEUXM</td><td>13.0</td><td>7.4 GB</td><td>2023-09-13</td><td><a href="/miui/aristotle/stable/V14.0.10.0.TMFEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13T EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.10.0.TMFEUXM</td><td>13.0</td><td>5.4 GB</td><td>2023-09-26</td><td><a href="/miui/aristotle/stable/V14.0.10.0.TMFEUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 13T EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.13.0.TMFEUXM</td><td>13.0</td><td>7.4 GB</td><td>2023-12-06</td><td><a href="/miui/aristotle/stable/V14.0.13.0.TMFEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.13.0.TMFEUXM</td><td>13.0</td><td>5.5 GB</td><td>2023-12-12</td><td><a href="/miui/aristotle/stable/V14.0.13.0.TMFEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.11.0.TMFEUXM</td><td>13.0</td><td>5.5 GB</td><td>2023-10-28</td><td><a href="/miui/aristotle/stable beta/V14.0.11.0.TMFEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TMFMIXM</td><td>13.0</td><td>8.0 GB</td><td>2023-10-16</td><td><a href="/miui/aristotle/stable/V14.0.6.0.TMFMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Global</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMFMIXM</td><td>13.0</td><td>5.4 GB</td><td>2023-11-06</td><td><a href="/miui/aristotle/stable/V14.0.6.0.TMFMIXM/">Download</a></td></tr>
