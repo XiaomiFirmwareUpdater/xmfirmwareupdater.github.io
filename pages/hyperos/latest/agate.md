@@ -1,15 +1,15 @@
 ---
-title: Xiaomi 13 (fuxi) HyperOS Downloads
+title: Xiaomi 11T (agate) HyperOS Downloads
 layout: download
-name: Xiaomi 13
-codename: fuxi
-permalink: /hyperos/fuxi/
+name: Xiaomi 11T
+codename: agate
+permalink: /hyperos/agate/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/fuxi/">Xiaomi 13</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/agate/">Xiaomi 11T</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /hyperos/fuxi/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/hyperos/fuxi/" class="card-link">HyperOS Archive</a>
-    <a href="/firmware/fuxi/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/fuxi/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/hyperos/agate/" class="card-link">HyperOS Archive</a>
+    <a href="/firmware/agate/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/agate/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,11 +52,7 @@ permalink: /hyperos/fuxi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 13 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.11.DEV</td><td>14.0</td><td>6.4 GB</td><td>2023-12-15</td><td><a href="/hyperos/fuxi/public beta/OS1.0.23.12.11.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi 13 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UMCCNXM</td><td>14.0</td><td>6.4 GB</td><td>2023-12-07</td><td><a href="/hyperos/fuxi/stable beta/OS1.0.3.0.UMCCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UMCEUXM</td><td>14.0</td><td>5.9 GB</td><td>2023-12-19</td><td><a href="/hyperos/fuxi/stable beta/OS1.0.1.0.UMCEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UMCMIXM</td><td>14.0</td><td>7.8 GB</td><td>2023-12-27</td><td><a href="/hyperos/fuxi/stable/OS1.0.1.0.UMCMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UMCMIXM</td><td>14.0</td><td>5.8 GB</td><td>2023-12-19</td><td><a href="/hyperos/fuxi/stable/OS1.0.1.0.UMCMIXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 11T Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UKWMIXM</td><td>14.0</td><td>4.9 GB</td><td>2023-12-21</td><td><a href="/hyperos/agate/stable beta/OS1.0.2.0.UKWMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

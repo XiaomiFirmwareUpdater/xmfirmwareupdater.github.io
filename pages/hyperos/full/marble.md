@@ -52,7 +52,8 @@ permalink: /archive/hyperos/marble/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F5 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UMREUXM</td><td>14.0</td><td>5.0 GB</td><td>2023-12-19</td><td><a href="/hyperos/marble/stable beta/OS1.0.4.0.UMREUXM/">Download</a></td></tr>
+                <tr><td>POCO F5 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMREUXM</td><td>14.0</td><td>7.6 GB</td><td>2023-12-27</td><td><a href="/hyperos/marble/stable/OS1.0.4.0.UMREUXM/">Download</a></td></tr>
+<tr><td>POCO F5 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMREUXM</td><td>14.0</td><td>5.0 GB</td><td>2023-12-19</td><td><a href="/hyperos/marble/stable/OS1.0.4.0.UMREUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
