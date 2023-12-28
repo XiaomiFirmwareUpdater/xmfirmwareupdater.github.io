@@ -149,6 +149,26 @@
     android: '7.0'
     miui: V9.5.2.0.NAGMIFA
 - branch: weekly
+  date: '2018-05-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/untagged-d3a8e061af984b1ba05a/fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NAGMIFA/capricorn/fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip
+  filename: fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip
+  region: Global
+  versions:
+    android: '7.0'
+    miui: V9.5.2.0.NAGMIFA
+- branch: weekly
+  date: '2018-05-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/untagged-d3a8e061af984b1ba05a/fw_capricorn_miui_MI5S_V9.5.2.0.NAGCNFA_60af75c30b_7.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NAGCNFA/capricorn/fw_capricorn_miui_MI5S_V9.5.2.0.NAGCNFA_60af75c30b_7.0.zip
+  filename: fw_capricorn_miui_MI5S_V9.5.2.0.NAGCNFA_60af75c30b_7.0.zip
+  region: China
+  versions:
+    android: '7.0'
+    miui: V9.5.2.0.NAGCNFA
+- branch: weekly
   date: '2018-05-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/untagged-62fd3c0d80d12ffd9d46/fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip
