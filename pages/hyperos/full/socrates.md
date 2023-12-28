@@ -52,9 +52,11 @@ permalink: /archive/hyperos/socrates/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K60 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.11.DEV</td><td>14.0</td><td>6.4 GB</td><td>2023-12-15</td><td><a href="/hyperos/socrates/public beta/OS1.0.23.12.11.DEV/">Download</a></td></tr>
+                <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UMKCNXM</td><td>14.0</td><td>7.8 GB</td><td>2023-12-28</td><td><a href="/hyperos/socrates/stable/OS1.0.3.0.UMKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UMKCNXM</td><td>14.0</td><td>6.3 GB</td><td>2023-12-07</td><td><a href="/hyperos/socrates/stable/OS1.0.3.0.UMKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UMKCNXM</td><td>14.0</td><td>6.3 GB</td><td>2023-12-27</td><td><a href="/hyperos/socrates/stable beta/OS1.0.4.0.UMKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.11.DEV</td><td>14.0</td><td>6.4 GB</td><td>2023-12-15</td><td><a href="/hyperos/socrates/public beta/OS1.0.23.12.11.DEV/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.4.DEV</td><td>14.0</td><td>6.4 GB</td><td>2023-12-08</td><td><a href="/hyperos/socrates/public beta/OS1.0.23.12.4.DEV/">Download</a></td></tr>
-<tr><td>Redmi K60 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UMKCNXM</td><td>14.0</td><td>6.3 GB</td><td>2023-12-07</td><td><a href="/hyperos/socrates/stable beta/OS1.0.3.0.UMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.11.27.DEV</td><td>14.0</td><td>6.4 GB</td><td>2023-12-01</td><td><a href="/hyperos/socrates/public beta/OS1.0.23.11.27.DEV/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.11.8.DEV</td><td>14.0</td><td>6.4 GB</td><td>2023-11-14</td><td><a href="/hyperos/socrates/public beta/OS1.0.23.11.8.DEV/">Download</a></td></tr>
 
