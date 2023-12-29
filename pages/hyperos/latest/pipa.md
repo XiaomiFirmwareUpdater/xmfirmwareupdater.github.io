@@ -52,7 +52,8 @@ permalink: /hyperos/pipa/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 6 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UMZCNXM</td><td>14.0</td><td>4.7 GB</td><td>2023-12-20</td><td><a href="/hyperos/pipa/stable beta/OS1.0.2.0.UMZCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 6 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UMZCNXM</td><td>14.0</td><td>5.5 GB</td><td>2023-12-29</td><td><a href="/hyperos/pipa/stable/OS1.0.2.0.UMZCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UMZCNXM</td><td>14.0</td><td>4.7 GB</td><td>2023-12-20</td><td><a href="/hyperos/pipa/stable/OS1.0.2.0.UMZCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -52,7 +52,8 @@ permalink: /archive/hyperos/corot/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K60 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.UMLCNXM</td><td>14.0</td><td>6.4 GB</td><td>2023-12-01</td><td><a href="/hyperos/corot/stable beta/OS1.0.5.0.UMLCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K60 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.UMLCNXM</td><td>14.0</td><td>6.4 GB</td><td>2023-12-22</td><td><a href="/hyperos/corot/stable beta/OS1.0.7.0.UMLCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.UMLCNXM</td><td>14.0</td><td>6.4 GB</td><td>2023-12-01</td><td><a href="/hyperos/corot/stable beta/OS1.0.5.0.UMLCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMLCNXM</td><td>14.0</td><td>6.4 GB</td><td>2023-11-30</td><td><a href="/hyperos/corot/stable/OS1.0.4.0.UMLCNXM/">Download</a></td></tr>
 
                 </tbody>

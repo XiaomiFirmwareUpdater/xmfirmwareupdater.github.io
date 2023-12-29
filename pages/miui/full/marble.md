@@ -52,7 +52,8 @@ permalink: /archive/miui/marble/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F5 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.8.0.TMRMIXM</td><td>13.0</td><td>5.0 GB</td><td>2023-12-15</td><td><a href="/miui/marble/stable/V14.0.8.0.TMRMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12 Turbo China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.27.0.TMRCNXM</td><td>13.0</td><td>5.9 GB</td><td>2023-12-25</td><td><a href="/miui/marble/stable beta/V14.0.27.0.TMRCNXM/">Download</a></td></tr>
+<tr><td>POCO F5 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.8.0.TMRMIXM</td><td>13.0</td><td>5.0 GB</td><td>2023-12-15</td><td><a href="/miui/marble/stable/V14.0.8.0.TMRMIXM/">Download</a></td></tr>
 <tr><td>POCO F5 Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.8.0.TMRMIXM</td><td>13.0</td><td>7.8 GB</td><td>2023-12-11</td><td><a href="/miui/marble/stable/V14.0.8.0.TMRMIXM/">Download</a></td></tr>
 <tr><td>POCO F5 Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMRTRXM</td><td>13.0</td><td>4.9 GB</td><td>2023-11-03</td><td><a href="/miui/marble/stable/V14.0.6.0.TMRTRXM/">Download</a></td></tr>
 <tr><td>POCO F5 Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TMRTRXM</td><td>13.0</td><td>6.9 GB</td><td>2023-10-23</td><td><a href="/miui/marble/stable/V14.0.6.0.TMRTRXM/">Download</a></td></tr>

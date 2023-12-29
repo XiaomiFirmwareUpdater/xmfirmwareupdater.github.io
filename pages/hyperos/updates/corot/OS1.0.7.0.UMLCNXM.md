@@ -1,0 +1,90 @@
+---
+title: Redmi K60 Ultra China HyperOS OS1.0.7.0.UMLCNXM Update
+layout: download
+name: Redmi K60 Ultra China
+codename: corot
+permalink: /hyperos/corot/stable beta/OS1.0.7.0.UMLCNXM/
+---
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="/">Home</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/corot/">Redmi K60 Ultra China</a></li>
+        <li class="breadcrumb-item active" aria-current="page">OS1.0.7.0.UMLCNXM</li>
+    </ol>
+</nav>
+<div class="alert alert-primary alert-dismissible fade show" role="alert">
+    Follow <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">HyperOS Updates Tracker</a> on Telegram to get
+    notified when a new ROM is out!
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+    </button>
+</div>
+<div class="col-12 mx-auto">
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.7.0.UMLCNXM Stable Beta Official Update for Redmi K60 Ultra China (corot)</h3>
+    <h5>This page shows the OS1.0.7.0.UMLCNXM update only. If you're looking for other updates check
+        <a href="/hyperos/corot/">here.</a></h5>
+    <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
+        It's not owned, modified or edited by Xiaomi Firmware Updater.</p>
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">Note</h5>
+            <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
+            <p class="card-text">This page shows a single update only.
+                If you're looking for another update or other downloads check:</p>
+            <a href="/hyperos/" class="card-link">HyperOS Downloads</a>
+            <a href="/firmware/" class="card-link">Firmware Downloads</a>
+            <a href="/vendor/" class="card-link">Vendor Downloads</a>
+        </div>
+    </div>
+    {%include ads.html%}
+    <div class="row justify-content-center">
+        <div class="col-10" id="downloads">
+                    <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi K60 Ultra China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/corot/" target="_blank">corot</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.7.0.UMLCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable Beta</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Recovery</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>6.4 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2023-12-22</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_COROT_OS1.0.7.0.UMLCNXM_7a4b79c95b_14.0.zip</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">7a4b79c95be3aee3e2d7cd878eb0d21d</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.7.0.UMLCNXM/miui-blockota-corot-OS1.0.5.0.UMLCNXM-OS1.0.7.0.UMLCNXM-624531773d-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.7.0.UMLCNXM/miui_COROT_OS1.0.7.0.UMLCNXM_7a4b79c95b_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://ks3orig.bigota.d.miui.com/OS1.0.7.0.UMLCNXM/miui_COROT_OS1.0.7.0.UMLCNXM_7a4b79c95b_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://airtel.bigota.d.miui.com/OS1.0.7.0.UMLCNXM/miui_COROT_OS1.0.7.0.UMLCNXM_7a4b79c95b_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.7.0.UMLCNXM/miui_COROT_OS1.0.7.0.UMLCNXM_7a4b79c95b_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#corot_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="corot_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="corot_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated Android Security Patch to November 2023. Increased system security.<br>[Comprehensive refactoring]<br>Xiaomi HyperOS comprehensive refactoring optimizes performance for individual devices<br>Dynamic thread priority adjustment and dynamic task cycle evaluation allow for optimal performance and power efficiency<br>Energy-efficient rendering framework for improved performance and smoother animations<br>Integrated SOC enables smoother hardware resource allocation and dynamic prioritizing of computing power<br>Smart IO engine focuses on prioritizing important current tasks and reduces insufficient resource allocation<br>Upgraded memory management engine makes frees up more resources and makes memory usage more efficient<br>Storage refresh technology makes your device work fast for much longer via smart defragmentation<br>Intelligent network selection makes your connection smoother in poor network environments<br>Super NFC boasts higher speed, faster connection rate, and lower power consumption<br>Smart signal selection engine dynamically adjusts antenna behavior to improve signal stability<br>[Cross-device intelligent connectivity]<br>Xiaomi HyperConnect creates seamless cross end-device connections<br>View and manage your nearby smart devices in Mi Smart Hub which constantly updates in real-time based on device networking<br>Now you can use the hardware capabilities (e.g. camera, screen, or connectivity) of one device across compatible interconnected devices<br>Apps, media playback, clipboard content, and other items can be moved effortlessly between devices<br>[End-to-end security]<br>Isolated security OS that safeguards sensitive information across interconnected devices<br>Cross-device TEE security verification and hardware-level encryption for data transfers<br>Cross-end privacy protection system that allows you to control permissions, record behavior, and receive alerts about interconnected devices<br>[Vibrant aesthetics]<br>Global aesthetics draw inspiration from life itself and change the way your device looks and feels<br>New animation language makes interactions with your device wholesome and intuitive<br>Natural colors bring vibrancy and vitality to every corner of your device<br>Our all-new system font supports multiple writing systems<br>Redesigned Weather app not only gives you important information, but also shows you how it feels outside<br>Notifications are focused on important information, presenting it to you in the most efficient way<br>Every photo can look like an art poster on your Lock screen, enhanced by multiple effects and dynamic rendering<br>New Home screen icons refresh familiar items with new shapes and colors<br>Our in-house multi-rendering technology makes visuals delicate and comfortable across the whole system<br>Multitasking is now even more straightforward and convenient with an upgraded multi-window interface<br>[Other improvements and optimizations]<br>Optimization: Improved system stability<br>Fix: Bluetooth connection was interrupted in some cases<br>Fix: Honor of Kings wasn't responsive in some cases<br>Fix: Charging was slow in some cases<br>Fix: Volume slider disappeared in some cases</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        </div>
+        {%include vli_ad_160x600_1.html%}
+    </div>
+</div>
