@@ -52,9 +52,11 @@ permalink: /archive/miui/rosemary/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO M5S Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TFFTWXM</td><td>13.0</td><td>3.7 GB</td><td>2023-12-21</td><td><a href="/miui/rosemary/stable/V14.0.2.0.TFFTWXM/">Download</a></td></tr>
+                <tr><td>POCO M5S Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.10.0.TFFMIXM</td><td>13.0</td><td>3.7 GB</td><td>2023-12-27</td><td><a href="/miui/rosemary/stable beta/V14.0.10.0.TFFMIXM/">Download</a></td></tr>
+<tr><td>POCO M5S Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TFFTWXM</td><td>13.0</td><td>3.7 GB</td><td>2023-12-21</td><td><a href="/miui/rosemary/stable/V14.0.2.0.TFFTWXM/">Download</a></td></tr>
 <tr><td>POCO M5S Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TFFTWXM</td><td>13.0</td><td>5.8 GB</td><td>2023-12-07</td><td><a href="/miui/rosemary/stable/V14.0.2.0.TFFTWXM/">Download</a></td></tr>
-<tr><td>POCO M5S Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.8.0.TFFMIXM</td><td>13.0</td><td>3.8 GB</td><td>2023-12-20</td><td><a href="/miui/rosemary/stable beta/V14.0.8.0.TFFMIXM/">Download</a></td></tr>
+<tr><td>POCO M5S Global</td><td>Stable</td><td>Recovery</td><td>V14.0.8.0.TFFMIXM</td><td>13.0</td><td>3.8 GB</td><td>2023-12-20</td><td><a href="/miui/rosemary/stable/V14.0.8.0.TFFMIXM/">Download</a></td></tr>
+<tr><td>POCO M5S Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.8.0.TFFMIXM</td><td>13.0</td><td>7.1 GB</td><td>2023-12-11</td><td><a href="/miui/rosemary/stable/V14.0.8.0.TFFMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TKLTWXM</td><td>13.0</td><td>3.5 GB</td><td>2023-12-08</td><td><a href="/miui/rosemary/stable/V14.0.2.0.TKLTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TKLTWXM</td><td>13.0</td><td>5.7 GB</td><td>2023-11-17</td><td><a href="/miui/rosemary/stable/V14.0.2.0.TKLTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S / Redmi Note 11 SE India</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TKLINXM</td><td>13.0</td><td>3.5 GB</td><td>2023-12-05</td><td><a href="/miui/rosemary/stable/V14.0.6.0.TKLINXM/">Download</a></td></tr>

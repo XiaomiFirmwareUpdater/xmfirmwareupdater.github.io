@@ -52,7 +52,8 @@ permalink: /archive/miui/fire/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 12 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.11.0.TMXRUXM</td><td>13.0</td><td>4.0 GB</td><td>2023-12-27</td><td><a href="/miui/fire/stable beta/V14.0.11.0.TMXRUXM/">Download</a></td></tr>
+                <tr><td>Redmi 12 India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TMXINXM</td><td>13.0</td><td>3.9 GB</td><td>2023-12-29</td><td><a href="/miui/fire/stable beta/V14.0.6.0.TMXINXM/">Download</a></td></tr>
+<tr><td>Redmi 12 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.11.0.TMXRUXM</td><td>13.0</td><td>4.0 GB</td><td>2023-12-27</td><td><a href="/miui/fire/stable beta/V14.0.11.0.TMXRUXM/">Download</a></td></tr>
 <tr><td>Redmi 12 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TMXIDXM</td><td>13.0</td><td>4.0 GB</td><td>2023-12-27</td><td><a href="/miui/fire/stable beta/V14.0.6.0.TMXIDXM/">Download</a></td></tr>
 <tr><td>Redmi 12 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TMXTRXM</td><td>13.0</td><td>4.0 GB</td><td>2023-12-27</td><td><a href="/miui/fire/stable beta/V14.0.5.0.TMXTRXM/">Download</a></td></tr>
 <tr><td>Redmi 12 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.13.0.TMXMIXM</td><td>13.0</td><td>4.1 GB</td><td>2023-12-14</td><td><a href="/miui/fire/stable/V14.0.13.0.TMXMIXM/">Download</a></td></tr>
