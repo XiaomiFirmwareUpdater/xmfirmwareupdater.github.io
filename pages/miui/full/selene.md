@@ -52,7 +52,8 @@ permalink: /archive/miui/selene/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 10 / Redmi 10 2022 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TKUTWXM</td><td>13.0</td><td>3.3 GB</td><td>2023-12-25</td><td><a href="/miui/selene/stable beta/V14.0.2.0.TKUTWXM/">Download</a></td></tr>
+                <tr><td>Redmi 10 / Redmi 10 2022 Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TKUTWXM</td><td>13.0</td><td>3.3 GB</td><td>2023-12-25</td><td><a href="/miui/selene/stable/V14.0.2.0.TKUTWXM/">Download</a></td></tr>
+<tr><td>Redmi 10 / Redmi 10 2022 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TKUTWXM</td><td>13.0</td><td>5.0 GB</td><td>2023-12-13</td><td><a href="/miui/selene/stable/V14.0.2.0.TKUTWXM/">Download</a></td></tr>
 <tr><td>Redmi 10 / Redmi 10 2022 Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TKUTRXM</td><td>13.0</td><td>3.4 GB</td><td>2023-12-18</td><td><a href="/miui/selene/stable/V14.0.3.0.TKUTRXM/">Download</a></td></tr>
 <tr><td>Redmi 10 / Redmi 10 2022 Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TKUTRXM</td><td>13.0</td><td>5.5 GB</td><td>2023-12-01</td><td><a href="/miui/selene/stable/V14.0.3.0.TKUTRXM/">Download</a></td></tr>
 <tr><td>Redmi 10 / Redmi 10 2022 EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.8.0.TKUEUXM</td><td>13.0</td><td>3.4 GB</td><td>2023-12-08</td><td><a href="/miui/selene/stable/V14.0.8.0.TKUEUXM/">Download</a></td></tr>
