@@ -66,7 +66,8 @@ permalink: /miui/water/
 <tr><td>Redmi A2 / A2+ / POCO C51 India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.12.0.TGOINXM</td><td>13.0</td><td>1.5 GB</td><td>2023-12-22</td><td><a href="/miui/water/stable beta/V14.0.12.0.TGOINXM/">Download</a></td></tr>
 <tr><td>Redmi A2 / A2+ / POCO C51 Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.10.0.TGORUXM</td><td>13.0</td><td>2.2 GB</td><td>2023-10-24</td><td><a href="/miui/water/stable/V14.0.10.0.TGORUXM/">Download</a></td></tr>
 <tr><td>Redmi A2 / A2+ / POCO C51 Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.10.0.TGORUXM</td><td>13.0</td><td>1.5 GB</td><td>2023-10-30</td><td><a href="/miui/water/stable/V14.0.10.0.TGORUXM/">Download</a></td></tr>
-<tr><td>Redmi A2 / A2+ / POCO C51 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TGOTWXM</td><td>13.0</td><td>1.4 GB</td><td>2023-09-04</td><td><a href="/miui/water/stable beta/V14.0.3.0.TGOTWXM/">Download</a></td></tr>
+<tr><td>Redmi A2 / A2+ / POCO C51 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TGOTWXM</td><td>13.0</td><td>2.0 GB</td><td>2023-08-30</td><td><a href="/miui/water/stable/V14.0.3.0.TGOTWXM/">Download</a></td></tr>
+<tr><td>Redmi A2 / A2+ / POCO C51 Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TGOTWXM</td><td>13.0</td><td>1.4 GB</td><td>2023-09-04</td><td><a href="/miui/water/stable/V14.0.3.0.TGOTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

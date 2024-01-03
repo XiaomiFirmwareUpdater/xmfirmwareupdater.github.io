@@ -3900,6 +3900,12 @@
   version: V14.0.6.0.SMQEUXM
 - android: '13.0'
   codename: sunstone
+  date: '2023-11-23'
+  download: https://bigota.d.miui.com/V14.0.4.0.TMQINXM/fw_sunstone_miui_SUNSTONEINGlobal_V14.0.4.0.TMQINXM_6581e78c30_13.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: V14.0.4.0.TMQINXM
+- android: '13.0'
+  codename: sunstone
   date: '2023-10-24'
   download: https://bigota.d.miui.com/V14.0.9.0.TMQCNXM/fw_sunstone_miui_SUNSTONE_V14.0.9.0.TMQCNXM_0a069aa2ee_13.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
@@ -3948,6 +3954,12 @@
   version: V14.0.4.0.SMQEUXM
 - android: '13.0'
   codename: sunstone
+  date: '2023-08-12'
+  download: https://bigota.d.miui.com/V14.0.5.0.TMQMIXM/fw_sunstone_miui_SUNSTONEGlobal_V14.0.5.0.TMQMIXM_3536c9f974_13.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: V14.0.5.0.TMQMIXM
+- android: '13.0'
+  codename: sunstone
   date: '2023-05-12'
   download: https://bigota.d.miui.com/V14.0.4.0.TMQCNXM/fw_sunstone_miui_SUNSTONE_V14.0.4.0.TMQCNXM_a070ee4d67_13.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
@@ -3976,6 +3988,12 @@
   download: https://bigota.d.miui.com/V14.0.6.0.SMQMIXM/fw_sunstone_miui_SUNSTONEGlobal_V14.0.6.0.SMQMIXM_334cf81b68_12.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
   version: V14.0.6.0.SMQMIXM
+- android: '13.0'
+  codename: sunstone
+  date: '2023-07-08'
+  download: https://bigota.d.miui.com/V14.0.4.0.TMQMIXM/fw_sunstone_miui_SUNSTONEGlobal_V14.0.4.0.TMQMIXM_dd8266c06b_13.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: V14.0.4.0.TMQMIXM
 - android: '13.0'
   codename: sunstone
   date: '2023-09-05'
