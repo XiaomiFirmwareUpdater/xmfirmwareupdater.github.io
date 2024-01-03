@@ -33869,16 +33869,6 @@
     android: '10.0'
     miui: V12.0.6.0.QJQCNXM
 - branch: stable
-  date: '2021-07-07'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-07.07.2021/fw_lime_miui_LIME_V12.0.3.0.RJQCNXM_dacb1297df_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIME_V12.0.3.0.RJQCNXM_dacb1297df_11.0.zip
-  filename: fw_lime_miui_LIME_V12.0.3.0.RJQCNXM_dacb1297df_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.0.3.0.RJQCNXM
-- branch: stable
   date: '2023-03-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-07.03.2023/fw_lime_miui_LIME_V14.0.2.0.SJQCNXM_e71d631a73_12.0.zip
@@ -44039,16 +44029,6 @@
     android: '10.0'
     miui: V11.0.10.0.QGHCNXM
 - branch: stable
-  date: '2021-11-30'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenixin/releases/download/stable-30.11.2021/fw_phoenixin_miui_PHOENIXININGlobal_V12.5.6.0.RGHINXM_9ab5819b56_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenixin/fw_phoenixin_miui_PHOENIXININGlobal_V12.5.6.0.RGHINXM_9ab5819b56_11.0.zip
-  filename: fw_phoenixin_miui_PHOENIXININGlobal_V12.5.6.0.RGHINXM_9ab5819b56_11.0.zip
-  region: India
-  versions:
-    android: '11.0'
-    miui: V12.5.6.0.RGHINXM
-- branch: stable
   date: '2020-05-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenixin/releases/download/stable-26.05.2020/fw_phoenixin_miui_PHOENIXININGlobal_V11.0.10.0.QGHINXM_fc2056aad8_10.0.zip
@@ -44138,16 +44118,6 @@
   versions:
     android: '10.0'
     miui: V12.0.1.0.QGHINXM
-- branch: stable
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenixin/releases/download/stable-04.03.2021/fw_phoenixin_miui_PHOENIXININGlobal_V12.1.3.0.RGHINXM_7615b6b105_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenixin/fw_phoenixin_miui_PHOENIXININGlobal_V12.1.3.0.RGHINXM_7615b6b105_11.0.zip
-  filename: fw_phoenixin_miui_PHOENIXININGlobal_V12.1.3.0.RGHINXM_7615b6b105_11.0.zip
-  region: India
-  versions:
-    android: '11.0'
-    miui: V12.1.3.0.RGHINXM
 - branch: weekly
   date: '2020-12-31'
   downloads:
