@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 03 Jan 2024 00:34:03 </lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 03:00:51 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 11T Pro (vili) - V14.0.5.0.TKDMIXM</title>
@@ -612,11 +612,6 @@
             <pubDate>Thu, 23 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.4.0.TMQINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
-            <pubDate>Thu, 23 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.23.0.TGOMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/water/</link>
             <pubDate>Thu, 23 Nov 2023 00:00:00 </pubDate>
@@ -1079,6 +1074,11 @@
         <item>
             <title>Xiaomi 12 Pro Dimensity (daumier) - V14.0.9.0.TLGCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/daumier/</link>
+            <pubDate>Tue, 22 Aug 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.3.0.TMQINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Tue, 22 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
