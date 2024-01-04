@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 12 4G (tapas) HyperOS Downloads
+title: Redmi 12C/POCO C55 (earth) HyperOS Downloads
 layout: download
-name: Redmi Note 12 4G
-codename: tapas
-permalink: /archive/hyperos/tapas/
+name: Redmi 12C/POCO C55
+codename: earth
+permalink: /hyperos/earth/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/tapas/">Redmi Note 12 4G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/earth/">Redmi 12C/POCO C55</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -20,17 +20,17 @@ permalink: /archive/hyperos/tapas/
     </button>
 </div>
 
-### HyperOS Official ROMs Archive
+### Latest HyperOS Official ROMs
 *Note*: All files listed here are official untouched HyperOS ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-    <p class="card-text">This page shows all available downloads.
-     If you're looking for the latest releases check or other downloads check:</p>
-    <a href="/hyperos/tapas/" class="card-link">Latest HyperOS</a>
-    <a href="/firmware/tapas/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/tapas/" class="card-link">Vendor Downloads</a>
+    <p class="card-text">This page shows the latest downloads only.
+     If you're looking for older releases or other downloads check:</p>
+    <a href="/archive/hyperos/earth/" class="card-link">HyperOS Archive</a>
+    <a href="/firmware/earth/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/earth/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,8 +52,7 @@ permalink: /archive/hyperos/tapas/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12 4G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UMTMIXM</td><td>14.0</td><td>7.1 GB</td><td>2024-01-04</td><td><a href="/hyperos/tapas/stable/OS1.0.2.0.UMTMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 4G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UMTMIXM</td><td>14.0</td><td>4.4 GB</td><td>2023-12-18</td><td><a href="/hyperos/tapas/stable/OS1.0.2.0.UMTMIXM/">Download</a></td></tr>
+                <tr><td>Redmi 12C / POCO C55 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UCVMIXM</td><td>14.0</td><td>4.2 GB</td><td>2023-12-27</td><td><a href="/hyperos/earth/stable beta/OS1.0.2.0.UCVMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

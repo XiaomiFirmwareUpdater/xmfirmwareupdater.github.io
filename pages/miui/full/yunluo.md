@@ -52,7 +52,8 @@ permalink: /archive/miui/yunluo/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TLYRUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-12-27</td><td><a href="/miui/yunluo/stable beta/V14.0.3.0.TLYRUXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TLYTWXM</td><td>13.0</td><td>3.9 GB</td><td>2024-01-04</td><td><a href="/miui/yunluo/stable beta/V14.0.6.0.TLYTWXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TLYRUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-12-27</td><td><a href="/miui/yunluo/stable beta/V14.0.3.0.TLYRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TLYTRXM</td><td>13.0</td><td>3.9 GB</td><td>2023-12-27</td><td><a href="/miui/yunluo/stable beta/V14.0.3.0.TLYTRXM/">Download</a></td></tr>
 <tr><td>Redmi Pad India</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TLYINXM</td><td>13.0</td><td>3.9 GB</td><td>2023-12-14</td><td><a href="/miui/yunluo/stable/V14.0.3.0.TLYINXM/">Download</a></td></tr>
 <tr><td>Redmi Pad India</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TLYINXM</td><td>13.0</td><td>4.3 GB</td><td>2023-11-29</td><td><a href="/miui/yunluo/stable/V14.0.3.0.TLYINXM/">Download</a></td></tr>
