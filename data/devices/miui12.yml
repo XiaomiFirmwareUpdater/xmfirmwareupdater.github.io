@@ -5892,12 +5892,6 @@
   version: 21.9.8
 - android: '11.0'
   codename: renoir
-  date: '2021-07-08'
-  download: https://bigota.d.miui.com/21.7.7/miui_RENOIR_21.7.7_75169b32a8_11.0.zip
-  name: Mi 11 Lite 5G
-  version: 21.7.7
-- android: '11.0'
-  codename: renoir
   date: '2021-08-05'
   download: https://bigota.d.miui.com/21.8.4/miui_RENOIR_21.8.4_e3e8da3555_11.0.zip
   name: Mi 11 Lite 5G
