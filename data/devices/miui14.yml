@@ -54,6 +54,12 @@
   version: V14.0.4.0.TGQINXM
 - android: '13.0'
   codename: air
+  date: '2024-01-11'
+  download: https://bigota.d.miui.com/V14.0.5.0.TGQCNXM/fw_air_miui_AIR_V14.0.5.0.TGQCNXM_550989bad2_13.0.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: V14.0.5.0.TGQCNXM
+- android: '13.0'
+  codename: air
   date: '2023-12-08'
   download: https://bigota.d.miui.com/V14.0.4.0.TGQCNXM/fw_air_miui_AIR_V14.0.4.0.TGQCNXM_6de1aac17c_13.0.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
@@ -184,6 +190,12 @@
   download: https://bigota.d.miui.com/V14.0.6.0.TMFMIXM/fw_aristotle_miui_ARISTOTLEGlobal_V14.0.6.0.TMFMIXM_604989c6ed_13.0.zip
   name: Xiaomi 13T
   version: V14.0.6.0.TMFMIXM
+- android: '13.0'
+  codename: aristotle
+  date: '2024-01-11'
+  download: https://bigota.d.miui.com/V14.0.13.0.TMFEUXM/fw_aristotle_miui_ARISTOTLEEEAGlobal_V14.0.13.0.TMFEUXM_41ffa14e94_13.0.zip
+  name: Xiaomi 13T
+  version: V14.0.13.0.TMFEUXM
 - android: '13.0'
   codename: aristotle
   date: '2023-11-02'
@@ -580,6 +592,18 @@
   download: https://bigota.d.miui.com/V14.0.11.0.TLCEUXM/fw_cupid_miui_CUPIDEEAGlobal_V14.0.11.0.TLCEUXM_ce1ea583ce_13.0.zip
   name: Xiaomi 12
   version: V14.0.11.0.TLCEUXM
+- android: '13.0'
+  codename: cupid
+  date: '2024-01-11'
+  download: https://bigota.d.miui.com/V14.0.15.0.TLCEUXM/fw_cupid_miui_CUPIDEEAGlobal_V14.0.15.0.TLCEUXM_c518efcd4f_13.0.zip
+  name: Xiaomi 12
+  version: V14.0.15.0.TLCEUXM
+- android: '13.0'
+  codename: cupid
+  date: '2024-01-11'
+  download: https://bigota.d.miui.com/V14.0.10.0.TLCCNXM/fw_cupid_miui_CUPID_V14.0.10.0.TLCCNXM_9aa2f552b3_13.0.zip
+  name: Xiaomi 12
+  version: V14.0.10.0.TLCCNXM
 - android: '13.0'
   codename: cupid
   date: '2023-09-08'

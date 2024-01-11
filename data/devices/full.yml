@@ -299,6 +299,16 @@
     android: '13.0'
     miui: V14.0.4.0.TGQINXM
 - branch: stable
+  date: '2024-01-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-11.01.2024/fw_air_miui_AIR_V14.0.5.0.TGQCNXM_550989bad2_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/air/fw_air_miui_AIR_V14.0.5.0.TGQCNXM_550989bad2_13.0.zip
+  filename: fw_air_miui_AIR_V14.0.5.0.TGQCNXM_550989bad2_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TGQCNXM
+- branch: stable
   date: '2023-12-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-08.12.2023/fw_air_miui_AIR_V14.0.4.0.TGQCNXM_6de1aac17c_13.0.zip
@@ -4008,6 +4018,16 @@
   versions:
     android: '13.0'
     miui: V14.0.6.0.TMFMIXM
+- branch: stable
+  date: '2024-01-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aristotle/releases/download/stable-11.01.2024/fw_aristotle_miui_ARISTOTLEEEAGlobal_V14.0.13.0.TMFEUXM_41ffa14e94_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/aristotle/fw_aristotle_miui_ARISTOTLEEEAGlobal_V14.0.13.0.TMFEUXM_41ffa14e94_13.0.zip
+  filename: fw_aristotle_miui_ARISTOTLEEEAGlobal_V14.0.13.0.TMFEUXM_41ffa14e94_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.13.0.TMFEUXM
 - branch: stable
   date: '2023-11-02'
   downloads:
@@ -15699,6 +15719,26 @@
     android: '13.0'
     miui: V14.0.6.0.TMLMIXM
 - branch: stable
+  date: '2024-01-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-11.01.2024/fw_corot_miui_COROTEEAGlobal_OS1.0.3.0.UMLEUXM_47a27150be_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/corot/fw_corot_miui_COROTEEAGlobal_OS1.0.3.0.UMLEUXM_47a27150be_14.0.zip
+  filename: fw_corot_miui_COROTEEAGlobal_OS1.0.3.0.UMLEUXM_47a27150be_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.UMLEUXM
+- branch: stable
+  date: '2024-01-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-11.01.2024/fw_corot_miui_COROT_OS1.0.7.0.UMLCNXM_7a4b79c95b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/corot/fw_corot_miui_COROT_OS1.0.7.0.UMLCNXM_7a4b79c95b_14.0.zip
+  filename: fw_corot_miui_COROT_OS1.0.7.0.UMLCNXM_7a4b79c95b_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.7.0.UMLCNXM
+- branch: stable
   date: '2023-12-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-10.12.2023/fw_corot_miui_COROTEEAGlobal_V14.0.16.0.TMLEUXM_9462d925c3_13.0.zip
@@ -17018,6 +17058,26 @@
   versions:
     android: '12.0'
     miui: V13.0.28.0.SLCCNXM
+- branch: stable
+  date: '2024-01-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-11.01.2024/fw_cupid_miui_CUPIDEEAGlobal_V14.0.15.0.TLCEUXM_c518efcd4f_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/cupid/fw_cupid_miui_CUPIDEEAGlobal_V14.0.15.0.TLCEUXM_c518efcd4f_13.0.zip
+  filename: fw_cupid_miui_CUPIDEEAGlobal_V14.0.15.0.TLCEUXM_c518efcd4f_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.15.0.TLCEUXM
+- branch: stable
+  date: '2024-01-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-11.01.2024/fw_cupid_miui_CUPID_V14.0.10.0.TLCCNXM_9aa2f552b3_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/cupid/fw_cupid_miui_CUPID_V14.0.10.0.TLCCNXM_9aa2f552b3_13.0.zip
+  filename: fw_cupid_miui_CUPID_V14.0.10.0.TLCCNXM_9aa2f552b3_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.10.0.TLCCNXM
 - branch: stable
   date: '2022-12-08'
   downloads:
