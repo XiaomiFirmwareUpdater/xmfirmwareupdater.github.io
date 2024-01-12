@@ -52,7 +52,8 @@ permalink: /archive/hyperos/mayfly/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.11.DEV</td><td>14.0</td><td>5.8 GB</td><td>2023-12-15</td><td><a href="/hyperos/mayfly/public beta/OS1.0.23.12.11.DEV/">Download</a></td></tr>
+                <tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.18.DEV</td><td>14.0</td><td>5.8 GB</td><td>2023-12-22</td><td><a href="/hyperos/mayfly/public beta/OS1.0.23.12.18.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.11.DEV</td><td>14.0</td><td>5.8 GB</td><td>2023-12-15</td><td><a href="/hyperos/mayfly/public beta/OS1.0.23.12.11.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.4.DEV</td><td>14.0</td><td>5.8 GB</td><td>2023-12-08</td><td><a href="/hyperos/mayfly/public beta/OS1.0.23.12.4.DEV/">Download</a></td></tr>
 
                 </tbody>

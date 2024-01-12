@@ -52,7 +52,7 @@ permalink: /hyperos/ingres/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50G China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.11.DEV</td><td>14.0</td><td>5.8 GB</td><td>2023-12-15</td><td><a href="/hyperos/ingres/public beta/OS1.0.23.12.11.DEV/">Download</a></td></tr>
+                <tr><td>Redmi K50G China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.25.DEV</td><td>14.0</td><td>5.8 GB</td><td>2023-12-29</td><td><a href="/hyperos/ingres/public beta/OS1.0.23.12.25.DEV/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
