@@ -52,7 +52,8 @@ permalink: /archive/miui/matisse/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.15.0.TLKCNXM</td><td>13.0</td><td>5.8 GB</td><td>2023-12-27</td><td><a href="/miui/matisse/stable beta/V14.0.15.0.TLKCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Recovery</td><td>V14.0.15.0.TLKCNXM</td><td>13.0</td><td>5.8 GB</td><td>2023-12-27</td><td><a href="/miui/matisse/stable/V14.0.15.0.TLKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Fastboot</td><td>V14.0.15.0.TLKCNXM</td><td>13.0</td><td>7.1 GB</td><td>2023-12-14</td><td><a href="/miui/matisse/stable/V14.0.15.0.TLKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.13.0.TLKCNXM</td><td>13.0</td><td>5.8 GB</td><td>2023-10-23</td><td><a href="/miui/matisse/stable beta/V14.0.13.0.TLKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.10.8.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-10-13</td><td><a href="/miui/matisse/public beta/V14.0.23.10.8.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.18.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-09-22</td><td><a href="/miui/matisse/public beta/V14.0.23.9.18.DEV/">Download</a></td></tr>

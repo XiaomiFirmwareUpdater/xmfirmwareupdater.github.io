@@ -64,7 +64,7 @@ permalink: /archive/miui/gauguin/
 <tr><td>Mi 10T Lite Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.SJSTWXM</td><td>12.0</td><td>4.3 GB</td><td>2023-04-26</td><td><a href="/miui/gauguin/stable/V14.0.1.0.SJSTWXM/">Download</a></td></tr>
 <tr><td>Mi 10i India</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.SJSINXM</td><td>12.0</td><td>3.2 GB</td><td>2023-05-04</td><td><a href="/miui/gauguin/stable/V14.0.2.0.SJSINXM/">Download</a></td></tr>
 <tr><td>Mi 10i India</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SJSINXM</td><td>12.0</td><td>4.0 GB</td><td>2023-04-20</td><td><a href="/miui/gauguin/stable/V14.0.2.0.SJSINXM/">Download</a></td></tr>
-<tr><td>Mi 10T Lite Global</td><td>Stable</td><td>Recovery</td><td>V13.0.9.0.SJSMIXM</td><td>12.0</td><td>3.2 GB</td><td>2023-04-26</td><td><a href="/miui/gauguin/stable/V13.0.9.0.SJSMIXM/">Download</a></td></tr>
+<tr><td>Mi 10T Lite Global</td><td>Stable</td><td>Recovery</td><td>V13.0.9.0.SJSMIXM</td><td>12.0</td><td>3.3 GB</td><td>2023-04-26</td><td><a href="/miui/gauguin/stable/V13.0.9.0.SJSMIXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.9.0.SJSMIXM</td><td>12.0</td><td>5.0 GB</td><td>2023-01-13</td><td><a href="/miui/gauguin/stable/V13.0.9.0.SJSMIXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.SJSEUXM</td><td>12.0</td><td>3.3 GB</td><td>2023-04-07</td><td><a href="/miui/gauguin/stable/V14.0.2.0.SJSEUXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SJSEUXM</td><td>12.0</td><td>4.8 GB</td><td>2023-03-30</td><td><a href="/miui/gauguin/stable/V14.0.2.0.SJSEUXM/">Download</a></td></tr>

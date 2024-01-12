@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2023-10-17'
+  date: '2024-01-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_frost/releases/download/stable-18.10.2023/fw_frost_miui_FROSTGlobal_V13.0.24.0.RGFMIXM_e8da2a5872_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/frost/fw_frost_miui_FROSTGlobal_V13.0.24.0.RGFMIXM_e8da2a5872_11.0.zip
-  filename: fw_frost_miui_FROSTGlobal_V13.0.24.0.RGFMIXM_e8da2a5872_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_frost/releases/download/stable-12.01.2024/fw_frost_miui_FROSTGlobal_V13.0.25.0.RGFMIXM_98e9ac456b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/frost/fw_frost_miui_FROSTGlobal_V13.0.25.0.RGFMIXM_98e9ac456b_11.0.zip
+  filename: fw_frost_miui_FROSTGlobal_V13.0.25.0.RGFMIXM_98e9ac456b_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V13.0.24.0.RGFMIXM
+    miui: V13.0.25.0.RGFMIXM
 - branch: stable
-  date: '2023-10-30'
+  date: '2024-01-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_frost/releases/download/stable-30.10.2023/fw_frost_miui_FROSTEEAGlobal_V13.0.10.0.RGFEUXM_cd1cedc495_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/frost/fw_frost_miui_FROSTEEAGlobal_V13.0.10.0.RGFEUXM_cd1cedc495_11.0.zip
-  filename: fw_frost_miui_FROSTEEAGlobal_V13.0.10.0.RGFEUXM_cd1cedc495_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_frost/releases/download/stable-12.01.2024/fw_frost_miui_FROSTEEAGlobal_V13.0.11.0.RGFEUXM_ccbd0a80bd_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/frost/fw_frost_miui_FROSTEEAGlobal_V13.0.11.0.RGFEUXM_ccbd0a80bd_11.0.zip
+  filename: fw_frost_miui_FROSTEEAGlobal_V13.0.11.0.RGFEUXM_ccbd0a80bd_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V13.0.10.0.RGFEUXM
+    miui: V13.0.11.0.RGFEUXM

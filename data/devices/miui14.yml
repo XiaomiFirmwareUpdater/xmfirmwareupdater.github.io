@@ -1020,6 +1020,12 @@
   version: V14.0.4.0.TMXMIXM
 - android: '13.0'
   codename: fire
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.6.0.TMXINXM/fw_fire_miui_FIREINGlobal_V14.0.6.0.TMXINXM_d327842565_13.0.zip
+  name: Redmi 12
+  version: V14.0.6.0.TMXINXM
+- android: '13.0'
+  codename: fire
   date: '2023-10-11'
   download: https://bigota.d.miui.com/V14.0.10.0.TMXEUXM/fw_fire_miui_FIREEEAGlobal_V14.0.10.0.TMXEUXM_66fb54af59_13.0.zip
   name: Redmi 12
@@ -1078,6 +1084,18 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TKEEUXM/fw_fleur_miui_FLEUREEAGlobal_V14.0.5.0.TKEEUXM_25b24748bc_13.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: V14.0.5.0.TKEEUXM
+- android: '13.0'
+  codename: fleur
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKEMIXM/fw_fleur_miui_FLEURGlobal_V14.0.6.0.TKEMIXM_c12850e5f5_13.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: V14.0.6.0.TKEMIXM
+- android: '13.0'
+  codename: fleur
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKEINXM/fw_fleur_miui_FLEURINGlobal_V14.0.6.0.TKEINXM_30003eb717_13.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: V14.0.6.0.TKEINXM
 - android: '13.0'
   codename: fleur
   date: '2023-12-10'
@@ -1144,6 +1162,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TGEEUXM/fw_fog_miui_FOGEEAGlobal_V14.0.5.0.TGEEUXM_c817ebcd81_13.0.zip
   name: Redmi 10C
   version: V14.0.5.0.TGEEUXM
+- android: '13.0'
+  codename: fog
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.5.0.TGEMIXM/fw_fog_miui_FOGGlobal_V14.0.5.0.TGEMIXM_dc7583cd31_13.0.zip
+  name: Redmi 10C
+  version: V14.0.5.0.TGEMIXM
 - android: '13.0'
   codename: fog
   date: '2023-12-11'
@@ -1320,6 +1344,24 @@
   version: V14.0.13.0.TNRCNXM
 - android: '13.0'
   codename: garnet
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.4.0.TNREUXM/fw_garnet_miui_GARNETEEAGlobal_V14.0.4.0.TNREUXM_3c7ce45625_13.0.zip
+  name: Redmi Note 13 Pro
+  version: V14.0.4.0.TNREUXM
+- android: '13.0'
+  codename: garnet
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.2.0.TNRINXM/fw_garnet_miui_GARNETINGlobal_V14.0.2.0.TNRINXM_68d1262e54_13.0.zip
+  name: Redmi Note 13 Pro
+  version: V14.0.2.0.TNRINXM
+- android: '13.0'
+  codename: garnet
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.15.0.TNRCNXM/fw_garnet_miui_GARNET_V14.0.15.0.TNRCNXM_dd713b1601_13.0.zip
+  name: Redmi Note 13 Pro
+  version: V14.0.15.0.TNRCNXM
+- android: '13.0'
+  codename: garnet
   date: '2023-10-02'
   download: https://bigota.d.miui.com/V14.0.10.0.TNRCNXM/fw_garnet_miui_GARNET_V14.0.10.0.TNRCNXM_b82fe82ee5_13.0.zip
   name: Redmi Note 13 Pro
@@ -1372,6 +1414,24 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TNQCNXM/fw_gold_miui_GOLD_V14.0.5.0.TNQCNXM_b24d77228a_13.0.zip
   name: Redmi Note 13 5G/13R Pro
   version: V14.0.5.0.TNQCNXM
+- android: '13.0'
+  codename: gold
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.3.0.TNQEUXM/fw_gold_miui_GOLDEEAGlobal_V14.0.3.0.TNQEUXM_89fd7ca462_13.0.zip
+  name: Redmi Note 13 5G/13R Pro
+  version: V14.0.3.0.TNQEUXM
+- android: '13.0'
+  codename: gold
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.1.0.TNQMIXM/fw_gold_miui_GOLDGlobal_V14.0.1.0.TNQMIXM_1bad16b831_13.0.zip
+  name: Redmi Note 13 5G/13R Pro
+  version: V14.0.1.0.TNQMIXM
+- android: '13.0'
+  codename: gold
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.1.0.TNQINXM/fw_gold_miui_GOLDINGlobal_V14.0.1.0.TNQINXM_636ed78238_13.0.zip
+  name: Redmi Note 13 5G/13R Pro
+  version: V14.0.1.0.TNQINXM
 - android: '12.0'
   codename: gram
   date: '2023-07-24'
@@ -1444,6 +1504,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TKKINXM/fw_haydn_miui_HAYDNINGlobal_V14.0.2.0.TKKINXM_be98e9b2c3_13.0.zip
   name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
   version: V14.0.2.0.TKKINXM
+- android: '13.0'
+  codename: haydn
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKKINXM/fw_haydn_miui_HAYDNINGlobal_V14.0.5.0.TKKINXM_2ee788bc35_13.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: V14.0.5.0.TKKINXM
 - android: '13.0'
   codename: haydn
   date: '2023-09-10'

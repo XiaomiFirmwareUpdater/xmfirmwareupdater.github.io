@@ -71,11 +71,11 @@ permalink: /miui/nabu/
 <tr><td>Xiaomi Pad 5 Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TKXRUXM</td><td>13.0</td><td>4.3 GB</td><td>2023-12-01</td><td><a href="/miui/nabu/stable/V14.0.6.0.TKXRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TKXRUXM</td><td>13.0</td><td>3.3 GB</td><td>2023-12-07</td><td><a href="/miui/nabu/stable/V14.0.6.0.TKXRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RKXRUXM</td><td>11.0</td><td>2.7 GB</td><td>2021-10-13</td><td><a href="/miui/nabu/stable beta/V12.5.1.0.RKXRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TKXTRXM</td><td>13.0</td><td>4.1 GB</td><td>2023-08-03</td><td><a href="/miui/nabu/stable/V14.0.4.0.TKXTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TKXTRXM</td><td>13.0</td><td>3.3 GB</td><td>2023-08-21</td><td><a href="/miui/nabu/stable/V14.0.4.0.TKXTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TKXTRXM</td><td>13.0</td><td>4.1 GB</td><td>2023-12-20</td><td><a href="/miui/nabu/stable/V14.0.5.0.TKXTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TKXTRXM</td><td>13.0</td><td>3.3 GB</td><td>2024-01-04</td><td><a href="/miui/nabu/stable/V14.0.5.0.TKXTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RKXTRXM</td><td>11.0</td><td>2.7 GB</td><td>2021-10-13</td><td><a href="/miui/nabu/stable beta/V12.5.1.0.RKXTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TKXTWXM</td><td>13.0</td><td>4.0 GB</td><td>2023-08-03</td><td><a href="/miui/nabu/stable/V14.0.3.0.TKXTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TKXTWXM</td><td>13.0</td><td>3.3 GB</td><td>2023-08-21</td><td><a href="/miui/nabu/stable/V14.0.3.0.TKXTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TKXTWXM</td><td>13.0</td><td>4.0 GB</td><td>2023-12-20</td><td><a href="/miui/nabu/stable/V14.0.4.0.TKXTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TKXTWXM</td><td>13.0</td><td>3.3 GB</td><td>2024-01-04</td><td><a href="/miui/nabu/stable/V14.0.4.0.TKXTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

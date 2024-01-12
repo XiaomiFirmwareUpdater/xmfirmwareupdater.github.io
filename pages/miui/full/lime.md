@@ -54,7 +54,7 @@ permalink: /archive/miui/lime/
                 <tbody>
                 <tr><td>Redmi 9T Global</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SJQMIXM</td><td>12.0</td><td>3.3 GB</td><td>2023-07-24</td><td><a href="/miui/lime/stable/V13.0.6.0.SJQMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9T Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SJQMIXM</td><td>12.0</td><td>5.1 GB</td><td>2023-07-12</td><td><a href="/miui/lime/stable/V13.0.6.0.SJQMIXM/">Download</a></td></tr>
-<tr><td>Redmi 9T Global</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.SJQMIXM</td><td>12.0</td><td>3.3 GB</td><td>2023-07-18</td><td><a href="/miui/lime/stable/V14.0.5.0.SJQMIXM/">Download</a></td></tr>
+<tr><td>Redmi 9T Global</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.SJQMIXM</td><td>12.0</td><td>3.4 GB</td><td>2023-07-18</td><td><a href="/miui/lime/stable/V14.0.5.0.SJQMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9T Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.SJQMIXM</td><td>12.0</td><td>5.2 GB</td><td>2023-06-19</td><td><a href="/miui/lime/stable/V14.0.5.0.SJQMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9T EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.SJQEUXM</td><td>12.0</td><td>3.3 GB</td><td>2023-07-18</td><td><a href="/miui/lime/stable/V14.0.5.0.SJQEUXM/">Download</a></td></tr>
 <tr><td>Redmi 9T EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.SJQEUXM</td><td>12.0</td><td>5.1 GB</td><td>2023-06-19</td><td><a href="/miui/lime/stable/V14.0.5.0.SJQEUXM/">Download</a></td></tr>

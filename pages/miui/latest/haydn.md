@@ -53,8 +53,8 @@ permalink: /miui/haydn/
                 </thead>
                 <tbody>
                 <tr><td>Redmi K40 Pro / Pro+ China</td><td>Public Beta</td><td>Fastboot</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>6.8 GB</td><td>2022-12-05</td><td><a href="/miui/haydn/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
-<tr><td>Redmi K40 Pro / Pro+ China</td><td>Stable</td><td>Fastboot</td><td>V14.0.7.0.TKKCNXM</td><td>13.0</td><td>6.5 GB</td><td>2023-08-29</td><td><a href="/miui/haydn/stable/V14.0.7.0.TKKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K40 Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>V14.0.7.0.TKKCNXM</td><td>13.0</td><td>5.5 GB</td><td>2023-09-06</td><td><a href="/miui/haydn/stable/V14.0.7.0.TKKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K40 Pro / Pro+ China</td><td>Stable</td><td>Fastboot</td><td>V14.0.8.0.TKKCNXM</td><td>13.0</td><td>6.5 GB</td><td>2023-12-26</td><td><a href="/miui/haydn/stable/V14.0.8.0.TKKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K40 Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>V14.0.8.0.TKKCNXM</td><td>13.0</td><td>5.5 GB</td><td>2024-01-03</td><td><a href="/miui/haydn/stable/V14.0.8.0.TKKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40 Pro / Pro+ China</td><td>Weekly</td><td>Fastboot</td><td>22.1.19</td><td>12.0</td><td>6.0 GB</td><td>2022-01-19</td><td><a href="/miui/haydn/weekly/22.1.19/">Download</a></td></tr>
 <tr><td>Redmi K40 Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.17.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-04-21</td><td><a href="/miui/haydn/public beta/V14.0.23.4.17.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40 Pro / Pro+ China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.8.0.SKKCNXM</td><td>12.0</td><td>4.5 GB</td><td>2022-05-10</td><td><a href="/miui/haydn/stable beta/V13.0.8.0.SKKCNXM/">Download</a></td></tr>
@@ -67,7 +67,7 @@ permalink: /miui/haydn/
 <tr><td>Mi 11i Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.7.0.TKKMIXM</td><td>13.0</td><td>4.8 GB</td><td>2023-10-24</td><td><a href="/miui/haydn/stable beta/V14.0.7.0.TKKMIXM/">Download</a></td></tr>
 <tr><td>Mi 11X Pro India</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TKKINXM</td><td>13.0</td><td>5.2 GB</td><td>2023-08-10</td><td><a href="/miui/haydn/stable/V14.0.4.0.TKKINXM/">Download</a></td></tr>
 <tr><td>Mi 11X Pro India</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TKKINXM</td><td>13.0</td><td>4.5 GB</td><td>2023-08-16</td><td><a href="/miui/haydn/stable/V14.0.4.0.TKKINXM/">Download</a></td></tr>
-<tr><td>Mi 11X Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.RKKINXM</td><td>11.0</td><td>2.9 GB</td><td>2021-05-11</td><td><a href="/miui/haydn/stable beta/V12.0.1.0.RKKINXM/">Download</a></td></tr>
+<tr><td>Mi 11X Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TKKINXM</td><td>13.0</td><td>4.6 GB</td><td>2024-01-08</td><td><a href="/miui/haydn/stable beta/V14.0.5.0.TKKINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

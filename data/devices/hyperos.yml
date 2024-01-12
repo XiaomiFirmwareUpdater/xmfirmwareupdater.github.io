@@ -48,10 +48,40 @@
   version: OS1.0.7.0.UNLCNXM
 - android: '14.0'
   codename: duchamp
+  date: '2024-01-11'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UNLEUXM/fw_duchamp_miui_DUCHAMPEEAGlobal_OS1.0.1.0.UNLEUXM_eade9919a5_14.0.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS1.0.1.0.UNLEUXM
+- android: '14.0'
+  codename: duchamp
+  date: '2024-01-11'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UNLMIXM/fw_duchamp_miui_DUCHAMPGlobal_OS1.0.2.0.UNLMIXM_eeaccaffa2_14.0.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS1.0.2.0.UNLMIXM
+- android: '14.0'
+  codename: duchamp
+  date: '2024-01-11'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UNLINXM/fw_duchamp_miui_DUCHAMPINGlobal_OS1.0.1.0.UNLINXM_e60a91dccd_14.0.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS1.0.1.0.UNLINXM
+- android: '14.0'
+  codename: duchamp
+  date: '2024-01-11'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UNLCNXM/fw_duchamp_miui_DUCHAMP_OS1.0.8.0.UNLCNXM_9062417d30_14.0.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS1.0.8.0.UNLCNXM
+- android: '14.0'
+  codename: duchamp
   date: '2023-12-03'
   download: https://bigota.d.miui.com/OS1.0.5.0.UNLCNXM/fw_duchamp_miui_DUCHAMP_OS1.0.5.0.UNLCNXM_e4365a30e5_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS1.0.5.0.UNLCNXM
+- android: '14.0'
+  codename: earth
+  date: '2024-01-11'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UCVMIXM/fw_earth_miui_EARTHGlobal_OS1.0.2.0.UCVMIXM_594f88abfe_14.0.zip
+  name: Redmi 12C/POCO C55
+  version: OS1.0.2.0.UCVMIXM
 - android: '14.0'
   codename: fuxi
   date: '2023-12-24'
@@ -70,6 +100,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMCCNXM/fw_fuxi_miui_FUXI_OS1.0.3.0.UMCCNXM_e0bcc18a25_14.0.zip
   name: Xiaomi 13
   version: OS1.0.3.0.UMCCNXM
+- android: '14.0'
+  codename: fuxi
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMCCNXM/fw_fuxi_miui_FUXI_OS1.0.6.0.UMCCNXM_ded0db3571_14.0.zip
+  name: Xiaomi 13
+  version: OS1.0.6.0.UMCCNXM
 - android: '14.0'
   codename: houji
   date: '2023-10-31'
@@ -106,6 +142,12 @@
   download: https://bigota.d.miui.com/OS1.0.19.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.19.0.UNCCNXM_7abc50d61d_14.0.zip
   name: Xiaomi 14
   version: OS1.0.19.0.UNCCNXM
+- android: '14.0'
+  codename: houji
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/OS1.0.28.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.28.0.UNCCNXM_7da71e0992_14.0.zip
+  name: Xiaomi 14
+  version: OS1.0.28.0.UNCCNXM
 - android: '14.0'
   codename: houji
   date: '2023-11-07'

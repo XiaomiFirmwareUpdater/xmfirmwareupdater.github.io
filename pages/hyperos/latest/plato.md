@@ -54,6 +54,7 @@ permalink: /hyperos/plato/
                 <tbody>
                 <tr><td>Xiaomi 12T EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.ULQEUXM</td><td>14.0</td><td>6.9 GB</td><td>2024-01-02</td><td><a href="/hyperos/plato/stable/OS1.0.5.0.ULQEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.ULQEUXM</td><td>14.0</td><td>5.4 GB</td><td>2023-12-04</td><td><a href="/hyperos/plato/stable/OS1.0.5.0.ULQEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.ULQMIXM</td><td>14.0</td><td>5.4 GB</td><td>2024-01-08</td><td><a href="/hyperos/plato/stable beta/OS1.0.5.0.ULQMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

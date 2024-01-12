@@ -3,7 +3,7 @@ title: Xiaomi 14 Pro / Ti China HyperOS OS1.0.29.0.UNBCNXM Update
 layout: download
 name: Xiaomi 14 Pro / Ti China
 codename: shennong
-permalink: /hyperos/shennong/stable beta/OS1.0.29.0.UNBCNXM/
+permalink: /hyperos/shennong/stable/OS1.0.29.0.UNBCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/shennong/stable beta/OS1.0.29.0.UNBCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.29.0.UNBCNXM Stable Beta Official Update for Xiaomi 14 Pro / Ti China (shennong)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.29.0.UNBCNXM Stable Official Update for Xiaomi 14 Pro / Ti China (shennong)</h3>
     <h5>This page shows the OS1.0.29.0.UNBCNXM update only. If you're looking for other updates check
         <a href="/hyperos/shennong/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/shennong/stable beta/OS1.0.29.0.UNBCNXM/
                     <h5><b>Version: </b>OS1.0.29.0.UNBCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>8.4 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-01-08</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">shennong_images_OS1.0.29.0.UNBCNXM_20231221.0000.00_14.0_cn_ad91c1321c.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ad91c1321c9d1d088a5c096fc266b80b</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdn-ota.azureedge.net/OS1.0.29.0.UNBCNXM/shennong_images_OS1.0.29.0.UNBCNXM_20231221.0000.00_14.0_cn_ad91c1321c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.29.0.UNBCNXM/shennong_images_OS1.0.29.0.UNBCNXM_20231221.0000.00_14.0_cn_ad91c1321c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://ks3orig.bigota.d.miui.com/OS1.0.29.0.UNBCNXM/shennong_images_OS1.0.29.0.UNBCNXM_20231221.0000.00_14.0_cn_ad91c1321c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://airtel.bigota.d.miui.com/OS1.0.29.0.UNBCNXM/shennong_images_OS1.0.29.0.UNBCNXM_20231221.0000.00_14.0_cn_ad91c1321c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.29.0.UNBCNXM/shennong_images_OS1.0.29.0.UNBCNXM_20231221.0000.00_14.0_cn_ad91c1321c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#shennong_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="shennong_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="shennong_1_changelog">
+                        <p id="changelog_text">[Other]<br>Optimized system performance<br>Improved system security and stability</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi 14 Pro / Ti China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/shennong/" target="_blank">shennong</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.29.0.UNBCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -71,13 +114,13 @@ permalink: /hyperos/shennong/stable beta/OS1.0.29.0.UNBCNXM/
                     <h5><b>MD5: </b><span id="md5" class="text-muted">7171467621c773307473d014b3143f9e</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.29.0.UNBCNXM/miui-blockota-shennong-OS1.0.27.0.UNBCNXM-OS1.0.29.0.UNBCNXM-d24aedcab8-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.29.0.UNBCNXM/miui_SHENNONG_OS1.0.29.0.UNBCNXM_7171467621_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://ks3orig.bigota.d.miui.com/OS1.0.29.0.UNBCNXM/miui_SHENNONG_OS1.0.29.0.UNBCNXM_7171467621_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://airtel.bigota.d.miui.com/OS1.0.29.0.UNBCNXM/miui_SHENNONG_OS1.0.29.0.UNBCNXM_7171467621_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.29.0.UNBCNXM/miui_SHENNONG_OS1.0.29.0.UNBCNXM_7171467621_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.29.0.UNBCNXM/miui-blockota-shennong-OS1.0.27.0.UNBCNXM-OS1.0.29.0.UNBCNXM-d24aedcab8-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdn-ota.azureedge.net/OS1.0.29.0.UNBCNXM/miui_SHENNONG_OS1.0.29.0.UNBCNXM_7171467621_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.29.0.UNBCNXM/miui_SHENNONG_OS1.0.29.0.UNBCNXM_7171467621_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://ks3orig.bigota.d.miui.com/OS1.0.29.0.UNBCNXM/miui_SHENNONG_OS1.0.29.0.UNBCNXM_7171467621_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://airtel.bigota.d.miui.com/OS1.0.29.0.UNBCNXM/miui_SHENNONG_OS1.0.29.0.UNBCNXM_7171467621_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.29.0.UNBCNXM/miui_SHENNONG_OS1.0.29.0.UNBCNXM_7171467621_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#shennong_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="shennong_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#shennong_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="shennong_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="shennong_1_changelog">
+                    <div class="collapse" id="shennong_2_changelog">
                         <p id="changelog_text">[Other]<br>Optimized system performance<br>Improved system security and stability</p>
                     </div>
                 </li>

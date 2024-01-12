@@ -52,7 +52,9 @@ permalink: /hyperos/diting/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.11.DEV</td><td>14.0</td><td>5.8 GB</td><td>2023-12-15</td><td><a href="/hyperos/diting/public beta/OS1.0.23.12.11.DEV/">Download</a></td></tr>
+                <tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULFCNXM</td><td>14.0</td><td>7.1 GB</td><td>2024-01-11</td><td><a href="/hyperos/diting/stable/OS1.0.2.0.ULFCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULFCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-01-02</td><td><a href="/hyperos/diting/stable/OS1.0.2.0.ULFCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.11.DEV</td><td>14.0</td><td>5.8 GB</td><td>2023-12-15</td><td><a href="/hyperos/diting/public beta/OS1.0.23.12.11.DEV/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -2034,6 +2034,18 @@
   version: V13.0.6.0.RGFEUXM
 - android: '11.0'
   codename: frost
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V13.0.11.0.RGFEUXM/fw_frost_miui_FROSTEEAGlobal_V13.0.11.0.RGFEUXM_ccbd0a80bd_11.0.zip
+  name: POCO C40
+  version: V13.0.11.0.RGFEUXM
+- android: '11.0'
+  codename: frost
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V13.0.25.0.RGFMIXM/fw_frost_miui_FROSTGlobal_V13.0.25.0.RGFMIXM_98e9ac456b_11.0.zip
+  name: POCO C40
+  version: V13.0.25.0.RGFMIXM
+- android: '11.0'
+  codename: frost
   date: '2022-08-04'
   download: https://bigota.d.miui.com/V13.0.9.0.RGFMIXM/fw_frost_miui_FROSTGlobal_V13.0.9.0.RGFMIXM_1f282242db_11.0.zip
   name: POCO C40
@@ -2380,6 +2392,24 @@
   download: https://bigota.d.miui.com/V13.0.9.0.SGMINXM/fw_ice_miui_ICEINGlobal_V13.0.9.0.SGMINXM_a97effad97_12.0.zip
   name: Redmi A1/POCO C50/A1+
   version: V13.0.9.0.SGMINXM
+- android: '12.0'
+  codename: ice
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V13.0.15.0.SGMEUXM/fw_ice_miui_ICEEEAGlobal_V13.0.15.0.SGMEUXM_dae7dcb07e_12.0.zip
+  name: Redmi A1/POCO C50/A1+
+  version: V13.0.15.0.SGMEUXM
+- android: '12.0'
+  codename: ice
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V13.0.20.0.SGMMIXM/fw_ice_miui_ICEGlobal_V13.0.20.0.SGMMIXM_8000e1831f_12.0.zip
+  name: Redmi A1/POCO C50/A1+
+  version: V13.0.20.0.SGMMIXM
+- android: '12.0'
+  codename: ice
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V13.0.13.0.SGMINXM/fw_ice_miui_ICEINGlobal_V13.0.13.0.SGMINXM_3998f2be93_12.0.zip
+  name: Redmi A1/POCO C50/A1+
+  version: V13.0.13.0.SGMINXM
 - android: '12.0'
   codename: ice
   date: '2023-10-10'
@@ -4030,6 +4060,12 @@
   download: https://bigota.d.miui.com/V13.0.9.0.SKICNXM/fw_renoir_miui_RENOIR_V13.0.9.0.SKICNXM_d14041e8b9_12.0.zip
   name: Mi 11 Lite 5G
   version: V13.0.9.0.SKICNXM
+- android: '12.0'
+  codename: renoir
+  date: '2022-12-11'
+  download: https://bigota.d.miui.com/V13.0.14.0.SKICNXM/fw_renoir_miui_RENOIR_V13.0.14.0.SKICNXM_d6b07bb491_12.0.zip
+  name: Mi 11 Lite 5G
+  version: V13.0.14.0.SKICNXM
 - android: '12.0'
   codename: renoir
   date: '2022-07-12'
