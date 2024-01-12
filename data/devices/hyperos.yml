@@ -1,4 +1,10 @@
 - android: '14.0'
+  codename: agate
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UKWMIXM/fw_agate_miui_AGATEGlobal_OS1.0.2.0.UKWMIXM_83e4108ef0_14.0.zip
+  name: Xiaomi 11T
+  version: OS1.0.2.0.UKWMIXM
+- android: '14.0'
   codename: babylon
   date: '2023-12-15'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.2.0.UMVCNXM_d95abfe6ba_14.0.zip
@@ -383,11 +389,35 @@
   name: Redmi K60 Pro
   version: OS1.0.4.0.UMKCNXM
 - android: '14.0'
+  codename: sunstone
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.2.0.UMQEUXM_c59a8d3a4c_14.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: OS1.0.2.0.UMQEUXM
+- android: '14.0'
+  codename: tapas
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UMTMIXM/fw_tapas_miui_TAPASGlobal_OS1.0.2.0.UMTMIXM_9d39c3791b_14.0.zip
+  name: Redmi Note 12 4G
+  version: OS1.0.2.0.UMTMIXM
+- android: '14.0'
+  codename: topaz
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UMGMIXM/fw_topaz_miui_TOPAZGlobal_OS1.0.2.0.UMGMIXM_0d2645dd48_14.0.zip
+  name: Redmi Note 12 4G NFC
+  version: OS1.0.2.0.UMGMIXM
+- android: '14.0'
   codename: vermeer
   date: '2023-12-17'
   download: https://bigota.d.miui.com/OS1.0.8.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.8.0.UNKCNXM_76129167f7_14.0.zip
   name: Redmi K70/POCO F6 Pro
   version: OS1.0.8.0.UNKCNXM
+- android: '14.0'
+  codename: vermeer
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.11.0.UNKCNXM_2316bc4e67_14.0.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS1.0.11.0.UNKCNXM
 - android: '14.0'
   codename: vermeer
   date: '2023-12-11'
@@ -406,6 +436,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMHCNXM/fw_yudi_miui_YUDI_OS1.0.2.0.UMHCNXM_34efc69cc0_14.0.zip
   name: Xiaomi Pad 6 Max 14
   version: OS1.0.2.0.UMHCNXM
+- android: '14.0'
+  codename: yuechu
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMICNXM/fw_yuechu_miui_YUECHU_OS1.0.4.0.UMICNXM_14e7bad1d9_14.0.zip
+  name: Xiaomi Civi 3
+  version: OS1.0.4.0.UMICNXM
 - android: '14.0'
   codename: zizhan
   date: '2023-12-25'

@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 13 Pro (garnet) Firmware Downloads
+title: Redmi Note 13 Pro 5G (garnet) Firmware Downloads
 layout: download
-name: Redmi Note 13 Pro
+name: Redmi Note 13 Pro 5G
 codename: garnet
 permalink: /firmware/garnet/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/garnet/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/garnet/">Redmi Note 13 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/garnet/">Redmi Note 13 Pro 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
