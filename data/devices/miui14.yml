@@ -1770,6 +1770,18 @@
   version: V14.0.6.0.TLSMIXM
 - android: '13.0'
   codename: light
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.8.0.TLSMIXM/fw_light_miui_LIGHTGlobal_V14.0.8.0.TLSMIXM_990990a54d_13.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: V14.0.8.0.TLSMIXM
+- android: '13.0'
+  codename: light
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.9.0.TLSINXM/fw_light_miui_LIGHTINGlobal_V14.0.9.0.TLSINXM_ccea5f1c1b_13.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: V14.0.9.0.TLSINXM
+- android: '13.0'
+  codename: light
   date: '2023-12-11'
   download: https://bigota.d.miui.com/V14.0.8.0.TLSEUXM/fw_light_miui_LIGHTEEAGlobal_V14.0.8.0.TLSEUXM_206bacf890_13.0.zip
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
@@ -1936,6 +1948,18 @@
   download: https://bigota.d.miui.com/V14.0.8.0.TKOCNXM/fw_lisa_miui_LISA_V14.0.8.0.TKOCNXM_dfe39b006e_13.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
   version: V14.0.8.0.TKOCNXM
+- android: '13.0'
+  codename: lisa
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.11.0.TKOEUXM/fw_lisa_miui_LISAEEAGlobal_V14.0.11.0.TKOEUXM_67b2b73e1e_13.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V14.0.11.0.TKOEUXM
+- android: '13.0'
+  codename: lisa
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.7.0.TKOMIXM/fw_lisa_miui_LISAGlobal_V14.0.7.0.TKOMIXM_6775e21ee0_13.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V14.0.7.0.TKOMIXM
 - android: '13.0'
   codename: lisa
   date: '2023-09-11'
@@ -2106,6 +2130,12 @@
   version: V14.0.21.0.TMRCNXM
 - android: '13.0'
   codename: marble
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.27.0.TMRCNXM/fw_marble_miui_MARBLE_V14.0.27.0.TMRCNXM_07a1238ff9_13.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: V14.0.27.0.TMRCNXM
+- android: '13.0'
+  codename: marble
   date: '2023-05-09'
   download: https://bigota.d.miui.com/V14.0.6.0.TMREUXM/fw_marble_miui_MARBLEEEAGlobal_V14.0.6.0.TMREUXM_a36d076463_13.0.zip
   name: Redmi Note 12 Turbo/POCO F5
@@ -2170,6 +2200,12 @@
   download: https://bigota.d.miui.com/V14.0.9.0.TLKCNXM/fw_matisse_miui_MATISSE_V14.0.9.0.TLKCNXM_57f70ca1f5_13.0.zip
   name: Redmi K50 Pro
   version: V14.0.9.0.TLKCNXM
+- android: '13.0'
+  codename: matisse
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.15.0.TLKCNXM/fw_matisse_miui_MATISSE_V14.0.15.0.TLKCNXM_ff87248cf0_13.0.zip
+  name: Redmi K50 Pro
+  version: V14.0.15.0.TLKCNXM
 - android: '13.0'
   codename: matisse
   date: '2023-03-06'
@@ -2416,6 +2452,12 @@
   download: https://bigota.d.miui.com/V14.0.7.0.TLMCNXM/fw_munch_miui_MUNCH_V14.0.7.0.TLMCNXM_fd6013af4d_13.0.zip
   name: Redmi K40S/POCO F4
   version: V14.0.7.0.TLMCNXM
+- android: '13.0'
+  codename: munch
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.9.0.TLMCNXM/fw_munch_miui_MUNCH_V14.0.9.0.TLMCNXM_596329468b_13.0.zip
+  name: Redmi K40S/POCO F4
+  version: V14.0.9.0.TLMCNXM
 - android: '13.0'
   codename: munch
   date: '2023-09-11'
@@ -2746,6 +2788,12 @@
   download: https://bigota.d.miui.com/V14.0.7.0.TMZINXM/fw_pipa_miui_PIPAINGlobal_V14.0.7.0.TMZINXM_99edbc06b4_13.0.zip
   name: Xiaomi Pad 6
   version: V14.0.7.0.TMZINXM
+- android: '13.0'
+  codename: pipa
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.11.0.TMZMIXM/fw_pipa_miui_PIPAGlobal_V14.0.11.0.TMZMIXM_50200a003b_13.0.zip
+  name: Xiaomi Pad 6
+  version: V14.0.11.0.TMZMIXM
 - android: '13.0'
   codename: pipa
   date: '2023-09-11'
@@ -3282,6 +3330,18 @@
   version: V14.0.3.0.TKIMIXM
 - android: '13.0'
   codename: renoir
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.9.0.TKIEUXM/fw_renoir_miui_RENOIREEAGlobal_V14.0.9.0.TKIEUXM_59de628db6_13.0.zip
+  name: Mi 11 Lite 5G
+  version: V14.0.9.0.TKIEUXM
+- android: '13.0'
+  codename: renoir
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.7.0.TKIMIXM/fw_renoir_miui_RENOIRGlobal_V14.0.7.0.TKIMIXM_cac144253c_13.0.zip
+  name: Mi 11 Lite 5G
+  version: V14.0.7.0.TKIMIXM
+- android: '13.0'
+  codename: renoir
   date: '2023-12-11'
   download: https://bigota.d.miui.com/V14.0.12.0.TKICNXM/fw_renoir_miui_RENOIR_V14.0.12.0.TKICNXM_250f526ff9_13.0.zip
   name: Mi 11 Lite 5G
@@ -3582,6 +3642,12 @@
   version: V14.0.4.0.TMOINXM
 - android: '13.0'
   codename: ruby
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.12.0.TMOEUXM/fw_ruby_miui_RUBYEEAGlobal_V14.0.12.0.TMOEUXM_cc1e7550ba_13.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: V14.0.12.0.TMOEUXM
+- android: '13.0'
+  codename: ruby
   date: '2023-12-11'
   download: https://bigota.d.miui.com/V14.0.11.0.TMOEUXM/fw_ruby_miui_RUBYEEAGlobal_V14.0.11.0.TMOEUXM_d941e00fe2_13.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
@@ -3846,6 +3912,12 @@
   version: V14.0.5.0.TGCMIXM
 - android: '13.0'
   codename: spes
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.5.0.TGCINXM/fw_spes_miui_SPESINGlobal_V14.0.5.0.TGCINXM_a7f00c422e_13.0.zip
+  name: Redmi Note 11
+  version: V14.0.5.0.TGCINXM
+- android: '13.0'
+  codename: spes
   date: '2023-10-10'
   download: https://bigota.d.miui.com/V14.0.4.0.TGCMIXM/fw_spes_miui_SPESGlobal_V14.0.4.0.TGCMIXM_69f8748327_13.0.zip
   name: Redmi Note 11
@@ -3886,6 +3958,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TGKEUXM/fw_spesn_miui_SPESNEEAGlobal_V14.0.4.0.TGKEUXM_e248f41f74_13.0.zip
   name: Redmi Note 11 NFC
   version: V14.0.4.0.TGKEUXM
+- android: '13.0'
+  codename: spesn
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.6.0.TGKMIXM/fw_spesn_miui_SPESNGlobal_V14.0.6.0.TGKMIXM_3bf72b1c44_13.0.zip
+  name: Redmi Note 11 NFC
+  version: V14.0.6.0.TGKMIXM
 - android: '13.0'
   codename: spesn
   date: '2023-07-11'

@@ -9,15 +9,15 @@
     android: '13.0'
     miui: V14.0.4.0.TMWMIXM
 - branch: stable
-  date: '2023-11-27'
+  date: '2024-01-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-27.11.2023/fw_sky_miui_SKY_V14.0.8.0.TMWCNXM_e2ba72d422_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sky/fw_sky_miui_SKY_V14.0.8.0.TMWCNXM_e2ba72d422_13.0.zip
-  filename: fw_sky_miui_SKY_V14.0.8.0.TMWCNXM_e2ba72d422_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-12.01.2024/fw_sky_miui_SKY_OS1.0.5.0.UMWCNXM_eeb6f6c209_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sky/fw_sky_miui_SKY_OS1.0.5.0.UMWCNXM_eeb6f6c209_14.0.zip
+  filename: fw_sky_miui_SKY_OS1.0.5.0.UMWCNXM_eeb6f6c209_14.0.zip
   region: China
   versions:
-    android: '13.0'
-    miui: V14.0.8.0.TMWCNXM
+    android: '14.0'
+    miui: OS1.0.5.0.UMWCNXM
 - branch: stable
   date: '2023-12-04'
   downloads:
