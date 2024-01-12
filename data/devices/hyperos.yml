@@ -263,6 +263,12 @@
   name: Redmi K60/POCO F5 Pro
   version: OS1.0.3.0.UMNCNXM
 - android: '14.0'
+  codename: mondrian
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMNCNXM/fw_mondrian_miui_MONDRIAN_OS1.0.4.0.UMNCNXM_cde1668ca2_14.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS1.0.4.0.UMNCNXM
+- android: '14.0'
   codename: nuwa
   date: '2023-12-15'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMBCNXM/fw_nuwa_miui_NUWA_OS1.0.2.0.UMBCNXM_65b5cbc206_14.0.zip
@@ -305,11 +311,23 @@
   name: Xiaomi 12T
   version: OS1.0.5.0.ULQEUXM
 - android: '14.0'
+  codename: plato
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULQMIXM/fw_plato_miui_PLATOGlobal_OS1.0.5.0.ULQMIXM_9c5350230d_14.0.zip
+  name: Xiaomi 12T
+  version: OS1.0.5.0.ULQMIXM
+- android: '14.0'
   codename: sea
   date: '2024-01-12'
   download: https://bigota.d.miui.com/OS1.0.1.0.UHZEUXM/fw_sea_miui_SEAEEAGlobal_OS1.0.1.0.UHZEUXM_3779c18df9_14.0.zip
   name: Redmi Note 12S
   version: OS1.0.1.0.UHZEUXM
+- android: '14.0'
+  codename: sea
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UHZMIXM/fw_sea_miui_SEAGlobal_OS1.0.3.0.UHZMIXM_d4c318c44e_14.0.zip
+  name: Redmi Note 12S
+  version: OS1.0.3.0.UHZMIXM
 - android: '14.0'
   codename: shennong
   date: '2023-10-31'
@@ -442,6 +460,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMICNXM/fw_yuechu_miui_YUECHU_OS1.0.4.0.UMICNXM_14e7bad1d9_14.0.zip
   name: Xiaomi Civi 3
   version: OS1.0.4.0.UMICNXM
+- android: '14.0'
+  codename: yunluo
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULYCNXM/fw_yunluo_miui_YUNLUO_OS1.0.2.0.ULYCNXM_b72482c1f6_14.0.zip
+  name: Redmi Pad
+  version: OS1.0.2.0.ULYCNXM
 - android: '14.0'
   codename: zizhan
   date: '2023-12-25'

@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2023-10-30'
+  date: '2024-01-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-30.10.2023/fw_plato_miui_PLATOGlobal_V14.0.7.0.ULQMIXM_9dd9502178_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/plato/fw_plato_miui_PLATOGlobal_V14.0.7.0.ULQMIXM_9dd9502178_14.0.zip
-  filename: fw_plato_miui_PLATOGlobal_V14.0.7.0.ULQMIXM_9dd9502178_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-12.01.2024/fw_plato_miui_PLATOGlobal_OS1.0.5.0.ULQMIXM_9c5350230d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/plato/fw_plato_miui_PLATOGlobal_OS1.0.5.0.ULQMIXM_9c5350230d_14.0.zip
+  filename: fw_plato_miui_PLATOGlobal_OS1.0.5.0.ULQMIXM_9c5350230d_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: V14.0.7.0.ULQMIXM
+    miui: OS1.0.5.0.ULQMIXM
 - branch: stable
   date: '2023-12-21'
   downloads:

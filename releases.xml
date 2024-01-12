@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 12 Jan 2024 18:37:32 </lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 19:36:25 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 11T (agate) - OS1.0.2.0.UKWMIXM</title>
@@ -207,6 +207,11 @@
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 12T (plato) - OS1.0.5.0.ULQMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/plato/</link>
+            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Mi 11 Lite 5G (renoir) - V14.0.7.0.TKIMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/renoir/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
@@ -219,6 +224,11 @@
         <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.12.0.TMOEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12S (sea) - OS1.0.3.0.UHZMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sea/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -294,6 +304,11 @@
         <item>
             <title>Xiaomi Civi 3 (yuechu) - OS1.0.4.0.UMICNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/yuechu/</link>
+            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad (yunluo) - OS1.0.2.0.ULYCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/yunluo/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -585,11 +600,6 @@
             <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V14.0.4.0.TGBCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/evergo/</link>
             <pubDate>Sun, 17 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12S (sea) - V14.0.9.0.THZMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sea/</link>
-            <pubDate>Sat, 16 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.4.0.TMWMIXM</title>
@@ -1012,19 +1022,9 @@
             <pubDate>Mon, 06 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad (yunluo) - V14.0.8.0.TLYCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/yunluo/</link>
-            <pubDate>Mon, 06 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Mi 11 Lite 4G (courbet) - V14.0.4.0.TKQMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/courbet/</link>
             <pubDate>Fri, 03 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12T (plato) - V14.0.7.0.ULQMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/plato/</link>
-            <pubDate>Mon, 30 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 10 (mojito) - V14.0.8.0.SKGMIXM</title>
