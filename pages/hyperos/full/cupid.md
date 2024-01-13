@@ -52,7 +52,9 @@ permalink: /archive/hyperos/cupid/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.25.DEV</td><td>14.0</td><td>5.7 GB</td><td>2023-12-29</td><td><a href="/hyperos/cupid/public beta/OS1.0.23.12.25.DEV/">Download</a></td></tr>
+                <tr><td>Xiaomi 12 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.7 GB</td><td>2024-01-12</td><td><a href="/hyperos/cupid/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 12 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.2.DEV</td><td>14.0</td><td>5.7 GB</td><td>2024-01-05</td><td><a href="/hyperos/cupid/public beta/OS1.0.24.1.2.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 12 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.25.DEV</td><td>14.0</td><td>5.7 GB</td><td>2023-12-29</td><td><a href="/hyperos/cupid/public beta/OS1.0.23.12.25.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.18.DEV</td><td>14.0</td><td>5.7 GB</td><td>2023-12-22</td><td><a href="/hyperos/cupid/public beta/OS1.0.23.12.18.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.11.DEV</td><td>14.0</td><td>5.7 GB</td><td>2023-12-15</td><td><a href="/hyperos/cupid/public beta/OS1.0.23.12.11.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.4.DEV</td><td>14.0</td><td>5.7 GB</td><td>2023-12-08</td><td><a href="/hyperos/cupid/public beta/OS1.0.23.12.4.DEV/">Download</a></td></tr>
