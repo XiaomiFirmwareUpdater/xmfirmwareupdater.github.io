@@ -52,7 +52,7 @@ permalink: /hyperos/dagu/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.18.DEV</td><td>14.0</td><td>4.5 GB</td><td>2023-12-22</td><td><a href="/hyperos/dagu/public beta/OS1.0.23.12.18.DEV/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.28.DEV</td><td>14.0</td><td>4.5 GB</td><td>2023-12-29</td><td><a href="/hyperos/dagu/public beta/OS1.0.23.12.28.DEV/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

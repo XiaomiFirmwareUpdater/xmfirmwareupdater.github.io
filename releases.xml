@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 13 Jan 2024 12:36:17 </lastBuildDate>
+        <lastBuildDate>Sat, 13 Jan 2024 18:41:08 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 11T (agate) - OS1.0.2.0.UKWMIXM</title>
@@ -1172,6 +1172,11 @@
             <pubDate>Mon, 21 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Note 9 Pro (joyeuse) - V14.0.5.0.SJZEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/joyeuse/</link>
+            <pubDate>Mon, 14 Aug 2023 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V14.0.3.0.TKAINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/star/</link>
             <pubDate>Fri, 11 Aug 2023 00:00:00 </pubDate>
@@ -1465,11 +1470,6 @@
             <title>Mi Note 10 Lite (toco) - V13.0.6.0.SFNEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/toco/</link>
             <pubDate>Tue, 24 Jan 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 9 Pro (joyeuse) - V13.0.5.0.SJZEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/joyeuse/</link>
-            <pubDate>Mon, 16 Jan 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V13.0.5.0.SJOINXM</title>
