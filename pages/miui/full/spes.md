@@ -52,7 +52,8 @@ permalink: /archive/miui/spes/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TGCINXM</td><td>13.0</td><td>3.5 GB</td><td>2024-01-02</td><td><a href="/miui/spes/stable beta/V14.0.5.0.TGCINXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 India</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TGCINXM</td><td>13.0</td><td>3.5 GB</td><td>2024-01-02</td><td><a href="/miui/spes/stable/V14.0.5.0.TGCINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 India</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TGCINXM</td><td>13.0</td><td>5.0 GB</td><td>2023-12-22</td><td><a href="/miui/spes/stable/V14.0.5.0.TGCINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC Global</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TGKMIXM</td><td>13.0</td><td>3.8 GB</td><td>2024-01-02</td><td><a href="/miui/spesn/stable/V14.0.6.0.TGKMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TGKMIXM</td><td>13.0</td><td>6.6 GB</td><td>2023-12-22</td><td><a href="/miui/spesn/stable/V14.0.6.0.TGKMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TGKIDXM</td><td>13.0</td><td>3.5 GB</td><td>2024-01-02</td><td><a href="/miui/spesn/stable beta/V14.0.5.0.TGKIDXM/">Download</a></td></tr>
@@ -83,14 +84,14 @@ permalink: /archive/miui/spes/
 <tr><td>Redmi Note 11 Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TGCMIXM</td><td>13.0</td><td>6.7 GB</td><td>2023-07-21</td><td><a href="/miui/spes/stable/V14.0.3.0.TGCMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TGCTRXM</td><td>13.0</td><td>3.5 GB</td><td>2023-07-11</td><td><a href="/miui/spes/stable beta/V14.0.2.0.TGCTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TGKRUXM</td><td>13.0</td><td>3.5 GB</td><td>2023-07-05</td><td><a href="/miui/spesn/stable beta/V14.0.3.0.TGKRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 India</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TGCINXM</td><td>13.0</td><td>3.5 GB</td><td>2023-07-03</td><td><a href="/miui/spes/stable/V14.0.1.0.TGCINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 India</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TGCINXM</td><td>13.0</td><td>5.0 GB</td><td>2023-06-08</td><td><a href="/miui/spes/stable/V14.0.1.0.TGCINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TGKEUXM</td><td>13.0</td><td>3.5 GB</td><td>2023-07-03</td><td><a href="/miui/spesn/stable/V14.0.1.0.TGKEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TGKEUXM</td><td>13.0</td><td>6.5 GB</td><td>2023-06-08</td><td><a href="/miui/spesn/stable/V14.0.1.0.TGKEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TGCMIXM</td><td>13.0</td><td>3.7 GB</td><td>2023-06-02</td><td><a href="/miui/spes/stable/V14.0.2.0.TGCMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TGCMIXM</td><td>13.0</td><td>6.8 GB</td><td>2023-05-27</td><td><a href="/miui/spes/stable/V14.0.2.0.TGCMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC Global</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TGKMIXM</td><td>13.0</td><td>3.7 GB</td><td>2023-06-02</td><td><a href="/miui/spesn/stable/V14.0.2.0.TGKMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TGKMIXM</td><td>13.0</td><td>6.8 GB</td><td>2023-05-27</td><td><a href="/miui/spesn/stable/V14.0.2.0.TGKMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 India</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TGCINXM</td><td>13.0</td><td>3.5 GB</td><td>2023-07-03</td><td><a href="/miui/spes/stable/V14.0.1.0.TGCINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 India</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TGCINXM</td><td>13.0</td><td>5.0 GB</td><td>2023-06-08</td><td><a href="/miui/spes/stable/V14.0.1.0.TGCINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TGKIDXM</td><td>13.0</td><td>3.5 GB</td><td>2023-06-27</td><td><a href="/miui/spesn/stable beta/V14.0.1.0.TGKIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SGKIDXM</td><td>12.0</td><td>3.1 GB</td><td>2023-05-11</td><td><a href="/miui/spesn/stable/V13.0.6.0.SGKIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SGKIDXM</td><td>12.0</td><td>5.4 GB</td><td>2023-04-24</td><td><a href="/miui/spesn/stable/V13.0.6.0.SGKIDXM/">Download</a></td></tr>

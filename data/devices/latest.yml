@@ -1649,6 +1649,16 @@
     android: '13.0'
     miui: V14.0.3.0.TGPINXM
 - branch: stable
+  date: '2024-01-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-15.01.2024/fw_garnet_miui_GARNETGlobal_V14.0.6.0.TNRMIXM_8197c5c865_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/garnet/fw_garnet_miui_GARNETGlobal_V14.0.6.0.TNRMIXM_8197c5c865_13.0.zip
+  filename: fw_garnet_miui_GARNETGlobal_V14.0.6.0.TNRMIXM_8197c5c865_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TNRMIXM
+- branch: stable
   date: '2024-01-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-12.01.2024/fw_garnet_miui_GARNET_V14.0.15.0.TNRCNXM_dd713b1601_13.0.zip
@@ -2629,15 +2639,15 @@
     android: '13.0'
     miui: V14.0.11.0.TKOEUXM
 - branch: stable
-  date: '2023-09-07'
+  date: '2024-01-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-07.09.2023/fw_lisa_miui_LISAINGlobal_V14.0.7.0.TKOINXM_06c1bf4880_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lisa/fw_lisa_miui_LISAINGlobal_V14.0.7.0.TKOINXM_06c1bf4880_13.0.zip
-  filename: fw_lisa_miui_LISAINGlobal_V14.0.7.0.TKOINXM_06c1bf4880_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-15.01.2024/fw_lisa_miui_LISAINGlobal_V14.0.8.0.TKOINXM_34ee882a45_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lisa/fw_lisa_miui_LISAINGlobal_V14.0.8.0.TKOINXM_34ee882a45_13.0.zip
+  filename: fw_lisa_miui_LISAINGlobal_V14.0.8.0.TKOINXM_34ee882a45_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: V14.0.7.0.TKOINXM
+    miui: V14.0.8.0.TKOINXM
 - branch: stable
   date: '2019-11-08'
   downloads:
@@ -4119,15 +4129,15 @@
     android: '8.1'
     miui: 9.10.10
 - branch: stable
-  date: '2023-11-19'
+  date: '2024-01-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rock/releases/download/stable-19.11.2023/fw_rock_miui_ROCKGlobal_V14.0.9.0.TLUMIXM_bc18926a42_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/rock/fw_rock_miui_ROCKGlobal_V14.0.9.0.TLUMIXM_bc18926a42_13.0.zip
-  filename: fw_rock_miui_ROCKGlobal_V14.0.9.0.TLUMIXM_bc18926a42_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rock/releases/download/stable-15.01.2024/fw_rock_miui_ROCKGlobal_OS1.0.2.0.ULUMIXM_9efe5227fe_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rock/fw_rock_miui_ROCKGlobal_OS1.0.2.0.ULUMIXM_9efe5227fe_14.0.zip
+  filename: fw_rock_miui_ROCKGlobal_OS1.0.2.0.ULUMIXM_9efe5227fe_14.0.zip
   region: Global
   versions:
-    android: '13.0'
-    miui: V14.0.9.0.TLUMIXM
+    android: '14.0'
+    miui: OS1.0.2.0.ULUMIXM
 - branch: stable
   date: '2023-03-24'
   downloads:
@@ -5778,6 +5788,16 @@
   versions:
     android: '13.0'
     miui: V14.0.6.0.TLPCNXM
+- branch: stable
+  date: '2024-01-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-15.01.2024/fw_zircon_miui_ZIRCONGlobal_V14.0.3.0.TNOMIXM_f657a54f91_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zircon/fw_zircon_miui_ZIRCONGlobal_V14.0.3.0.TNOMIXM_f657a54f91_13.0.zip
+  filename: fw_zircon_miui_ZIRCONGlobal_V14.0.3.0.TNOMIXM_f657a54f91_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TNOMIXM
 - branch: stable
   date: '2023-12-15'
   downloads:

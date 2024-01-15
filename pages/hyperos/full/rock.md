@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 12 5G/Note 12R Pro (sunstone) HyperOS Downloads
+title: POCO M5/Redmi 11 Prime 4G (rock) HyperOS Downloads
 layout: download
-name: Redmi Note 12 5G/Note 12R Pro
-codename: sunstone
-permalink: /archive/hyperos/sunstone/
+name: POCO M5/Redmi 11 Prime 4G
+codename: rock
+permalink: /archive/hyperos/rock/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/sunstone/">Redmi Note 12 5G/Note 12R Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/rock/">POCO M5/Redmi 11 Prime 4G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /archive/hyperos/sunstone/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows all available downloads.
      If you're looking for the latest releases check or other downloads check:</p>
-    <a href="/hyperos/sunstone/" class="card-link">Latest HyperOS</a>
-    <a href="/firmware/sunstone/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/sunstone/" class="card-link">Vendor Downloads</a>
+    <a href="/hyperos/rock/" class="card-link">Latest HyperOS</a>
+    <a href="/firmware/rock/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/rock/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,8 +52,7 @@ permalink: /archive/hyperos/sunstone/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UMQEUXM</td><td>14.0</td><td>6.4 GB</td><td>2024-01-15</td><td><a href="/hyperos/sunstone/stable/OS1.0.2.0.UMQEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UMQEUXM</td><td>14.0</td><td>3.9 GB</td><td>2024-01-05</td><td><a href="/hyperos/sunstone/stable/OS1.0.2.0.UMQEUXM/">Download</a></td></tr>
+                <tr><td>POCO M5 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.ULUMIXM</td><td>14.0</td><td>4.0 GB</td><td>2024-01-11</td><td><a href="/hyperos/rock/stable beta/OS1.0.2.0.ULUMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -1344,6 +1344,12 @@
   version: V14.0.1.0.TNRCNXM
 - android: '13.0'
   codename: garnet
+  date: '2024-01-15'
+  download: https://bigota.d.miui.com/V14.0.6.0.TNRMIXM/fw_garnet_miui_GARNETGlobal_V14.0.6.0.TNRMIXM_8197c5c865_13.0.zip
+  name: Redmi Note 13 Pro 5G
+  version: V14.0.6.0.TNRMIXM
+- android: '13.0'
+  codename: garnet
   date: '2023-11-12'
   download: https://bigota.d.miui.com/V14.0.13.0.TNRCNXM/fw_garnet_miui_GARNET_V14.0.13.0.TNRCNXM_c3b0b88317_13.0.zip
   name: Redmi Note 13 Pro 5G
@@ -1948,6 +1954,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TKOINXM/fw_lisa_miui_LISAINGlobal_V14.0.5.0.TKOINXM_80e214deb0_13.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
   version: V14.0.5.0.TKOINXM
+- android: '13.0'
+  codename: lisa
+  date: '2024-01-15'
+  download: https://bigota.d.miui.com/V14.0.8.0.TKOINXM/fw_lisa_miui_LISAINGlobal_V14.0.8.0.TKOINXM_34ee882a45_13.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V14.0.8.0.TKOINXM
 - android: '13.0'
   codename: lisa
   date: '2023-07-13'
@@ -5452,6 +5464,12 @@
   download: https://bigota.d.miui.com/V14.0.8.0.TNOCNXM/fw_zircon_miui_ZIRCON_V14.0.8.0.TNOCNXM_0e45ff6fd1_13.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: V14.0.8.0.TNOCNXM
+- android: '13.0'
+  codename: zircon
+  date: '2024-01-15'
+  download: https://bigota.d.miui.com/V14.0.3.0.TNOMIXM/fw_zircon_miui_ZIRCONGlobal_V14.0.3.0.TNOMIXM_f657a54f91_13.0.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: V14.0.3.0.TNOMIXM
 - android: '13.0'
   codename: zircon
   date: '2023-10-13'

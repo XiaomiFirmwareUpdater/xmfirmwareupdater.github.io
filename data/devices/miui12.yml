@@ -2646,6 +2646,12 @@
   version: 21.8.25
 - android: '11.0'
   codename: chopin
+  date: '2021-09-24'
+  download: https://bigota.d.miui.com/21.9.22/miui_CHOPIN_21.9.22_47a116a37c_11.0.zip
+  name: Redmi Note 10 Pro 5G/POCO X3 GT
+  version: 21.9.22
+- android: '11.0'
+  codename: chopin
   date: '2021-06-24'
   download: https://bigota.d.miui.com/21.6.23/miui_CHOPIN_21.6.23_a12d7e43a3_11.0.zip
   name: Redmi Note 10 Pro 5G/POCO X3 GT
@@ -2662,6 +2668,12 @@
   download: https://bigota.d.miui.com/21.11.17/miui_CHOPIN_21.11.17_9352d0ab43_12.0.zip
   name: Redmi Note 10 Pro 5G/POCO X3 GT
   version: 21.11.17
+- android: '11.0'
+  codename: chopin
+  date: '2021-08-19'
+  download: https://bigota.d.miui.com/21.8.18/miui_CHOPIN_21.8.18_206d76032a_11.0.zip
+  name: Redmi Note 10 Pro 5G/POCO X3 GT
+  version: 21.8.18
 - android: '11.0'
   codename: chopin
   date: '2021-10-16'

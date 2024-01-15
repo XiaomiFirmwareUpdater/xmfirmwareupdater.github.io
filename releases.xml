@@ -4,16 +4,36 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 15 Jan 2024 06:53:33 </lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 12:56:26 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 Pro 5G (garnet) - V14.0.6.0.TNRMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
+            <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.8.0.TKOINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/lisa/</link>
+            <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS1.0.3.0.UMSCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/redwood/</link>
             <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
+            <title>POCO M5/Redmi 11 Prime 4G (rock) - OS1.0.2.0.ULUMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/rock/</link>
+            <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.10.0.TMWEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
+            <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro+ 5G (zircon) - V14.0.3.0.TNOMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -922,11 +942,6 @@
             <pubDate>Mon, 20 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>POCO M5/Redmi 11 Prime 4G (rock) - V14.0.9.0.TLUMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/rock/</link>
-            <pubDate>Sun, 19 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.8.0.TKPCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/chopin/</link>
             <pubDate>Fri, 17 Nov 2023 00:00:00 </pubDate>
@@ -1149,11 +1164,6 @@
         <item>
             <title>POCO M4 Pro 5G (evergreen) - V14.0.2.0.TGBMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/evergreen/</link>
-            <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.7.0.TKOINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/lisa/</link>
             <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
