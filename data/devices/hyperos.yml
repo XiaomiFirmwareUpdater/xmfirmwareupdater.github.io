@@ -12,6 +12,12 @@
   version: OS1.0.2.0.UMVCNXM
 - android: '14.0'
   codename: corot
+  date: '2024-01-15'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UMLMIXM/fw_corot_miui_COROTGlobal_OS1.0.1.0.UMLMIXM_af2d36f698_14.0.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS1.0.1.0.UMLMIXM
+- android: '14.0'
+  codename: corot
   date: '2024-01-11'
   download: https://bigota.d.miui.com/OS1.0.3.0.UMLEUXM/fw_corot_miui_COROTEEAGlobal_OS1.0.3.0.UMLEUXM_47a27150be_14.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
@@ -424,6 +430,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.2.0.UMQEUXM_c59a8d3a4c_14.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
   version: OS1.0.2.0.UMQEUXM
+- android: '14.0'
+  codename: tapas
+  date: '2024-01-15'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UMTINXM/fw_tapas_miui_TAPASINGlobal_OS1.0.1.0.UMTINXM_f868289c5c_14.0.zip
+  name: Redmi Note 12 4G
+  version: OS1.0.1.0.UMTINXM
 - android: '14.0'
   codename: tapas
   date: '2024-01-12'

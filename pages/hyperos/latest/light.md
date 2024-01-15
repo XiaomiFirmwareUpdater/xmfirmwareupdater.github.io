@@ -52,8 +52,10 @@ permalink: /hyperos/light/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11E China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.ULSCNXM</td><td>14.0</td><td>4.4 GB</td><td>2024-01-04</td><td><a href="/hyperos/light/stable beta/OS1.0.5.0.ULSCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11R China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.ULSCNXM</td><td>14.0</td><td>4.4 GB</td><td>2024-01-04</td><td><a href="/hyperos/lightcm/stable beta/OS1.0.6.0.ULSCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11E China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.ULSCNXM</td><td>14.0</td><td>5.7 GB</td><td>2024-01-15</td><td><a href="/hyperos/light/stable/OS1.0.5.0.ULSCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11E China</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.ULSCNXM</td><td>14.0</td><td>4.4 GB</td><td>2024-01-04</td><td><a href="/hyperos/light/stable/OS1.0.5.0.ULSCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11R China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.ULSCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-01-15</td><td><a href="/hyperos/lightcm/stable/OS1.0.6.0.ULSCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11R China</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.ULSCNXM</td><td>14.0</td><td>4.4 GB</td><td>2024-01-04</td><td><a href="/hyperos/lightcm/stable/OS1.0.6.0.ULSCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

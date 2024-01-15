@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 15 Jan 2024 12:56:26 </lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 18:40:23 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS1.0.1.0.UMLMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/corot/</link>
+            <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 Pro 5G (garnet) - V14.0.6.0.TNRMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
@@ -29,6 +34,16 @@
         <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.10.0.TMWEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
+            <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 4G (tapas) - OS1.0.1.0.UMTINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/tapas/</link>
+            <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 11 (venus) - V14.0.11.0.TKBCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/venus/</link>
             <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -787,11 +802,6 @@
             <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - V14.0.12.0.TMLMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Sun, 10 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>MIX 4 (odin) - V14.0.8.0.TKMCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/odin/</link>
             <pubDate>Fri, 08 Dec 2023 00:00:00 </pubDate>
@@ -854,11 +864,6 @@
         <item>
             <title>Xiaomi 12X (psyche) - V14.0.5.0.TLDMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/psyche/</link>
-            <pubDate>Mon, 04 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 4G (tapas) - V14.0.9.0.TMTINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/tapas/</link>
             <pubDate>Mon, 04 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -1250,11 +1255,6 @@
             <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V14.0.4.0.SJSEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/gauguin/</link>
             <pubDate>Mon, 10 Jul 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 (venus) - V14.0.10.0.TKBCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/venus/</link>
-            <pubDate>Wed, 05 Jul 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K40S/POCO F4 (munch) - V14.0.4.0.TLMEUXM</title>
