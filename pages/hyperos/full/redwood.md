@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 12 Turbo/POCO F5 (marble) HyperOS Downloads
+title: Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) HyperOS Downloads
 layout: download
-name: Redmi Note 12 Turbo/POCO F5
-codename: marble
-permalink: /archive/hyperos/marble/
+name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+codename: redwood
+permalink: /archive/hyperos/redwood/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/marble/">Redmi Note 12 Turbo/POCO F5</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/redwood/">Redmi Note 12 Pro Speed/POCO X5 Pro 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /archive/hyperos/marble/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows all available downloads.
      If you're looking for the latest releases check or other downloads check:</p>
-    <a href="/hyperos/marble/" class="card-link">Latest HyperOS</a>
-    <a href="/firmware/marble/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/marble/" class="card-link">Vendor Downloads</a>
+    <a href="/hyperos/redwood/" class="card-link">Latest HyperOS</a>
+    <a href="/firmware/redwood/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/redwood/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,10 +52,7 @@ permalink: /archive/hyperos/marble/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F5 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UMRIDXM</td><td>14.0</td><td>5.2 GB</td><td>2024-01-10</td><td><a href="/hyperos/marble/stable beta/OS1.0.1.0.UMRIDXM/">Download</a></td></tr>
-<tr><td>POCO F5 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UMRMIXM</td><td>14.0</td><td>5.2 GB</td><td>2024-01-04</td><td><a href="/hyperos/marble/stable beta/OS1.0.2.0.UMRMIXM/">Download</a></td></tr>
-<tr><td>POCO F5 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMREUXM</td><td>14.0</td><td>7.6 GB</td><td>2023-12-27</td><td><a href="/hyperos/marble/stable/OS1.0.4.0.UMREUXM/">Download</a></td></tr>
-<tr><td>POCO F5 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMREUXM</td><td>14.0</td><td>5.0 GB</td><td>2023-12-19</td><td><a href="/hyperos/marble/stable/OS1.0.4.0.UMREUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12 Pro Speed China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UMSCNXM</td><td>14.0</td><td>5.6 GB</td><td>2024-01-10</td><td><a href="/hyperos/redwood/stable beta/OS1.0.3.0.UMSCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

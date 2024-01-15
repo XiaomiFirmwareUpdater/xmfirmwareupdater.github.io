@@ -317,6 +317,12 @@
   name: Xiaomi 12T
   version: OS1.0.5.0.ULQMIXM
 - android: '14.0'
+  codename: redwood
+  date: '2024-01-15'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMSCNXM/fw_redwood_miui_REDWOOD_OS1.0.3.0.UMSCNXM_964b907423_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.3.0.UMSCNXM
+- android: '14.0'
   codename: sea
   date: '2024-01-12'
   download: https://bigota.d.miui.com/OS1.0.1.0.UHZEUXM/fw_sea_miui_SEAEEAGlobal_OS1.0.1.0.UHZEUXM_3779c18df9_14.0.zip

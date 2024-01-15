@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 15 Jan 2024 00:34:07 </lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 06:53:33 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS1.0.3.0.UMSCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/redwood/</link>
+            <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.10.0.TMWEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
+            <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 11T (agate) - OS1.0.2.0.UKWMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/agate/</link>
@@ -762,11 +772,6 @@
             <pubDate>Sun, 10 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.6.0.TMSCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/redwood/</link>
-            <pubDate>Sat, 09 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>MIX 4 (odin) - V14.0.8.0.TKMCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/odin/</link>
             <pubDate>Fri, 08 Dec 2023 00:00:00 </pubDate>
@@ -829,11 +834,6 @@
         <item>
             <title>Xiaomi 12X (psyche) - V14.0.5.0.TLDMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/psyche/</link>
-            <pubDate>Mon, 04 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.8.0.TMWEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
             <pubDate>Mon, 04 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>

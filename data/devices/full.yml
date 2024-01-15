@@ -13459,16 +13459,6 @@
     android: '12.0'
     miui: 22.2.23
 - branch: weekly
-  date: '2021-09-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-24.09.2021/fw_chopin_miui_CHOPIN_21.9.22_47a116a37c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.22/chopin/fw_chopin_miui_CHOPIN_21.9.22_47a116a37c_11.0.zip
-  filename: fw_chopin_miui_CHOPIN_21.9.22_47a116a37c_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.9.22
-- branch: weekly
   date: '2021-06-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-24.06.2021/fw_chopin_miui_CHOPIN_21.6.23_a12d7e43a3_11.0.zip
@@ -13508,16 +13498,6 @@
   versions:
     android: '12.0'
     miui: 21.11.17
-- branch: weekly
-  date: '2021-08-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-19.08.2021/fw_chopin_miui_CHOPIN_21.8.18_206d76032a_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.18/chopin/fw_chopin_miui_CHOPIN_21.8.18_206d76032a_11.0.zip
-  filename: fw_chopin_miui_CHOPIN_21.8.18_206d76032a_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.8.18
 - branch: weekly
   date: '2022-02-18'
   downloads:
@@ -39539,16 +39519,6 @@
     android: '13.0'
     miui: V14.0.7.0.TKXCNXM
 - branch: stable
-  date: '2022-06-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-10.06.2022/fw_nabu_miui_NABU_V13.0.9.0.RKXCNXM_3fa49a036c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABU_V13.0.9.0.RKXCNXM_3fa49a036c_11.0.zip
-  filename: fw_nabu_miui_NABU_V13.0.9.0.RKXCNXM_3fa49a036c_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V13.0.9.0.RKXCNXM
-- branch: stable
   date: '2022-10-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-09.10.2022/fw_nabu_miui_NABUEEAGlobal_V13.1.3.0.SKXEUXM_89a7995777_12.0.zip
@@ -50789,6 +50759,16 @@
     android: '13.0'
     miui: V14.0.1.0.TMSINXM
 - branch: stable
+  date: '2024-01-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-15.01.2024/fw_redwood_miui_REDWOOD_OS1.0.3.0.UMSCNXM_964b907423_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/redwood/fw_redwood_miui_REDWOOD_OS1.0.3.0.UMSCNXM_964b907423_14.0.zip
+  filename: fw_redwood_miui_REDWOOD_OS1.0.3.0.UMSCNXM_964b907423_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.UMSCNXM
+- branch: stable
   date: '2023-12-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-14.12.2023/fw_redwood_miui_REDWOODGlobal_V14.0.7.0.TMSMIXM_86299647c0_13.0.zip
@@ -56678,6 +56658,16 @@
   versions:
     android: '13.0'
     miui: V14.0.4.0.TMWEUXM
+- branch: stable
+  date: '2024-01-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-15.01.2024/fw_sky_miui_SKYEEAGlobal_V14.0.10.0.TMWEUXM_77f58cce0e_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sky/fw_sky_miui_SKYEEAGlobal_V14.0.10.0.TMWEUXM_77f58cce0e_13.0.zip
+  filename: fw_sky_miui_SKYEEAGlobal_V14.0.10.0.TMWEUXM_77f58cce0e_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.10.0.TMWEUXM
 - branch: stable
   date: '2023-09-12'
   downloads:
