@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 13 5G/13R Pro (gold) Firmware Downloads
+title: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) Firmware Downloads
 layout: download
-name: Redmi Note 13 5G/13R Pro
+name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
 codename: gold
 permalink: /archive/firmware/gold/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/gold/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/gold/">Redmi Note 13 5G/13R Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/gold/">Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

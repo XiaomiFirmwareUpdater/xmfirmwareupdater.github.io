@@ -1346,49 +1346,49 @@
   codename: garnet
   date: '2023-09-22'
   download: https://bigota.d.miui.com/V14.0.1.0.TNRCNXM/fw_garnet_miui_GARNET_V14.0.1.0.TNRCNXM_bbb2dfd7bd_13.0.zip
-  name: Redmi Note 13 Pro 5G
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: V14.0.1.0.TNRCNXM
 - android: '13.0'
   codename: garnet
   date: '2024-01-16'
   download: https://bigota.d.miui.com/V14.0.3.0.TNRINXM/fw_garnet_miui_GARNETINGlobal_V14.0.3.0.TNRINXM_c58fc72d31_13.0.zip
-  name: Redmi Note 13 Pro 5G
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: V14.0.3.0.TNRINXM
 - android: '13.0'
   codename: garnet
   date: '2024-01-15'
   download: https://bigota.d.miui.com/V14.0.6.0.TNRMIXM/fw_garnet_miui_GARNETGlobal_V14.0.6.0.TNRMIXM_8197c5c865_13.0.zip
-  name: Redmi Note 13 Pro 5G
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: V14.0.6.0.TNRMIXM
 - android: '13.0'
   codename: garnet
   date: '2023-11-12'
   download: https://bigota.d.miui.com/V14.0.13.0.TNRCNXM/fw_garnet_miui_GARNET_V14.0.13.0.TNRCNXM_c3b0b88317_13.0.zip
-  name: Redmi Note 13 Pro 5G
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: V14.0.13.0.TNRCNXM
 - android: '13.0'
   codename: garnet
   date: '2024-01-12'
   download: https://bigota.d.miui.com/V14.0.4.0.TNREUXM/fw_garnet_miui_GARNETEEAGlobal_V14.0.4.0.TNREUXM_3c7ce45625_13.0.zip
-  name: Redmi Note 13 Pro 5G
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: V14.0.4.0.TNREUXM
 - android: '13.0'
   codename: garnet
   date: '2024-01-12'
   download: https://bigota.d.miui.com/V14.0.2.0.TNRINXM/fw_garnet_miui_GARNETINGlobal_V14.0.2.0.TNRINXM_68d1262e54_13.0.zip
-  name: Redmi Note 13 Pro 5G
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: V14.0.2.0.TNRINXM
 - android: '13.0'
   codename: garnet
   date: '2024-01-12'
   download: https://bigota.d.miui.com/V14.0.15.0.TNRCNXM/fw_garnet_miui_GARNET_V14.0.15.0.TNRCNXM_dd713b1601_13.0.zip
-  name: Redmi Note 13 Pro 5G
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: V14.0.15.0.TNRCNXM
 - android: '13.0'
   codename: garnet
   date: '2023-10-02'
   download: https://bigota.d.miui.com/V14.0.10.0.TNRCNXM/fw_garnet_miui_GARNET_V14.0.10.0.TNRCNXM_b82fe82ee5_13.0.zip
-  name: Redmi Note 13 Pro 5G
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: V14.0.10.0.TNRCNXM
 - android: '12.0'
   codename: gauguin
@@ -1424,37 +1424,37 @@
   codename: gold
   date: '2023-09-22'
   download: https://bigota.d.miui.com/V14.0.1.0.TNQCNXM/fw_gold_miui_GOLD_V14.0.1.0.TNQCNXM_0a344a58dc_13.0.zip
-  name: Redmi Note 13 5G/13R Pro
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: V14.0.1.0.TNQCNXM
 - android: '13.0'
   codename: gold
   date: '2023-11-17'
   download: https://bigota.d.miui.com/V14.0.7.0.TNQCNXM/fw_gold_miui_GOLD_V14.0.7.0.TNQCNXM_71f8604e0a_13.0.zip
-  name: Redmi Note 13 5G/13R Pro
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: V14.0.7.0.TNQCNXM
 - android: '13.0'
   codename: gold
   date: '2023-10-17'
   download: https://bigota.d.miui.com/V14.0.5.0.TNQCNXM/fw_gold_miui_GOLD_V14.0.5.0.TNQCNXM_b24d77228a_13.0.zip
-  name: Redmi Note 13 5G/13R Pro
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: V14.0.5.0.TNQCNXM
 - android: '13.0'
   codename: gold
   date: '2024-01-12'
   download: https://bigota.d.miui.com/V14.0.3.0.TNQEUXM/fw_gold_miui_GOLDEEAGlobal_V14.0.3.0.TNQEUXM_89fd7ca462_13.0.zip
-  name: Redmi Note 13 5G/13R Pro
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: V14.0.3.0.TNQEUXM
 - android: '13.0'
   codename: gold
   date: '2024-01-12'
   download: https://bigota.d.miui.com/V14.0.1.0.TNQMIXM/fw_gold_miui_GOLDGlobal_V14.0.1.0.TNQMIXM_1bad16b831_13.0.zip
-  name: Redmi Note 13 5G/13R Pro
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: V14.0.1.0.TNQMIXM
 - android: '13.0'
   codename: gold
   date: '2024-01-12'
   download: https://bigota.d.miui.com/V14.0.1.0.TNQINXM/fw_gold_miui_GOLDINGlobal_V14.0.1.0.TNQINXM_636ed78238_13.0.zip
-  name: Redmi Note 13 5G/13R Pro
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: V14.0.1.0.TNQINXM
 - android: '12.0'
   codename: gram

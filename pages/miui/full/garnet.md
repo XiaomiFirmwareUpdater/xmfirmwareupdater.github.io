@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 13 Pro 5G (garnet) MIUI Downloads
+title: Redmi Note 13 Pro 5G/POCO X6 5G (garnet) MIUI Downloads
 layout: download
-name: Redmi Note 13 Pro 5G
+name: Redmi Note 13 Pro 5G/POCO X6 5G
 codename: garnet
 permalink: /archive/miui/garnet/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/miui/garnet/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/garnet/">Redmi Note 13 Pro 5G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/garnet/">Redmi Note 13 Pro 5G/POCO X6 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -52,19 +52,19 @@ permalink: /archive/miui/garnet/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 13 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TNRTWXM</td><td>13.0</td><td>4.8 GB</td><td>2024-01-16</td><td><a href="/miui/garnet/stable/V14.0.1.0.TNRTWXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TNRTWXM</td><td>13.0</td><td>6.5 GB</td><td>2023-11-23</td><td><a href="/miui/garnet/stable/V14.0.1.0.TNRTWXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 5G India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TNRINXM</td><td>13.0</td><td>4.8 GB</td><td>2024-01-16</td><td><a href="/miui/garnet/stable beta/V14.0.3.0.TNRINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 5G Global</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TNRMIXM</td><td>13.0</td><td>5.0 GB</td><td>2024-01-15</td><td><a href="/miui/garnet/stable/V14.0.6.0.TNRMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 5G Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TNRMIXM</td><td>13.0</td><td>7.7 GB</td><td>2023-12-28</td><td><a href="/miui/garnet/stable/V14.0.6.0.TNRMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TNREUXM</td><td>13.0</td><td>5.0 GB</td><td>2024-01-11</td><td><a href="/miui/garnet/stable/V14.0.4.0.TNREUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TNREUXM</td><td>13.0</td><td>7.4 GB</td><td>2023-12-05</td><td><a href="/miui/garnet/stable/V14.0.4.0.TNREUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 5G Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TNRTRXM</td><td>13.0</td><td>4.8 GB</td><td>2024-01-11</td><td><a href="/miui/garnet/stable/V14.0.1.0.TNRTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TNRTRXM</td><td>13.0</td><td>6.8 GB</td><td>2023-11-23</td><td><a href="/miui/garnet/stable/V14.0.1.0.TNRTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TNREUXM</td><td>13.0</td><td>5.2 GB</td><td>2024-01-09</td><td><a href="/miui/garnet/stable/V14.0.6.0.TNREUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TNREUXM</td><td>13.0</td><td>7.4 GB</td><td>2024-01-04</td><td><a href="/miui/garnet/stable/V14.0.6.0.TNREUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 5G India</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TNRINXM</td><td>13.0</td><td>4.7 GB</td><td>2024-01-09</td><td><a href="/miui/garnet/stable/V14.0.2.0.TNRINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 5G India</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TNRINXM</td><td>13.0</td><td>6.2 GB</td><td>2023-11-28</td><td><a href="/miui/garnet/stable/V14.0.2.0.TNRINXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 13 Pro 5G / POCO X6 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TNRTWXM</td><td>13.0</td><td>4.8 GB</td><td>2024-01-16</td><td><a href="/miui/garnet/stable/V14.0.1.0.TNRTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 5G / POCO X6 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TNRTWXM</td><td>13.0</td><td>6.5 GB</td><td>2023-11-23</td><td><a href="/miui/garnet/stable/V14.0.1.0.TNRTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 5G / POCO X6 5G India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TNRINXM</td><td>13.0</td><td>4.8 GB</td><td>2024-01-16</td><td><a href="/miui/garnet/stable beta/V14.0.3.0.TNRINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 5G / POCO X6 5G Global</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TNRMIXM</td><td>13.0</td><td>5.0 GB</td><td>2024-01-15</td><td><a href="/miui/garnet/stable/V14.0.6.0.TNRMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 5G / POCO X6 5G Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TNRMIXM</td><td>13.0</td><td>7.7 GB</td><td>2023-12-28</td><td><a href="/miui/garnet/stable/V14.0.6.0.TNRMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 5G / POCO X6 5G EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TNREUXM</td><td>13.0</td><td>5.0 GB</td><td>2024-01-11</td><td><a href="/miui/garnet/stable/V14.0.4.0.TNREUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 5G / POCO X6 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TNREUXM</td><td>13.0</td><td>7.4 GB</td><td>2023-12-05</td><td><a href="/miui/garnet/stable/V14.0.4.0.TNREUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 5G / POCO X6 5G Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TNRTRXM</td><td>13.0</td><td>4.8 GB</td><td>2024-01-11</td><td><a href="/miui/garnet/stable/V14.0.1.0.TNRTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 5G / POCO X6 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TNRTRXM</td><td>13.0</td><td>6.8 GB</td><td>2023-11-23</td><td><a href="/miui/garnet/stable/V14.0.1.0.TNRTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 5G / POCO X6 5G EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TNREUXM</td><td>13.0</td><td>5.2 GB</td><td>2024-01-09</td><td><a href="/miui/garnet/stable/V14.0.6.0.TNREUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 5G / POCO X6 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TNREUXM</td><td>13.0</td><td>7.4 GB</td><td>2024-01-04</td><td><a href="/miui/garnet/stable/V14.0.6.0.TNREUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 5G / POCO X6 5G India</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TNRINXM</td><td>13.0</td><td>4.7 GB</td><td>2024-01-09</td><td><a href="/miui/garnet/stable/V14.0.2.0.TNRINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 5G / POCO X6 5G India</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TNRINXM</td><td>13.0</td><td>6.2 GB</td><td>2023-11-28</td><td><a href="/miui/garnet/stable/V14.0.2.0.TNRINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>V14.0.15.0.TNRCNXM</td><td>13.0</td><td>5.6 GB</td><td>2023-12-30</td><td><a href="/miui/garnet/stable/V14.0.15.0.TNRCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>V14.0.15.0.TNRCNXM</td><td>13.0</td><td>7.0 GB</td><td>2023-12-28</td><td><a href="/miui/garnet/stable/V14.0.15.0.TNRCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>V14.0.13.0.TNRCNXM</td><td>13.0</td><td>5.6 GB</td><td>2023-11-08</td><td><a href="/miui/garnet/stable/V14.0.13.0.TNRCNXM/">Download</a></td></tr>
