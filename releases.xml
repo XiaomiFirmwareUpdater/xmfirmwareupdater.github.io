@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 17 Jan 2024 00:34:53 </lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 06:33:18 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro (emerald) - V14.0.1.0.TNFMIXM</title>
@@ -1052,11 +1052,6 @@
             <pubDate>Mon, 06 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Mi 11 Lite 4G (courbet) - V14.0.4.0.TKQMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/courbet/</link>
-            <pubDate>Fri, 03 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 10 (mojito) - V14.0.8.0.SKGMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/mojito/</link>
             <pubDate>Fri, 27 Oct 2023 00:00:00 </pubDate>
@@ -1340,6 +1335,11 @@
             <title>POCO M3 (citrus) - V14.0.2.0.SJFEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/citrus/</link>
             <pubDate>Tue, 23 May 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 11 Lite 4G (courbet) - V14.0.3.0.TKQMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/courbet/</link>
+            <pubDate>Mon, 22 May 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>POCO X3 Pro (vayu) - V14.0.3.0.TJUMIXM</title>
