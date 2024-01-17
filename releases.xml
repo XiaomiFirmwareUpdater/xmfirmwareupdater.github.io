@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 17 Jan 2024 06:33:18 </lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 13:19:58 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Pad 6 (pipa) - OS1.0.3.0.UMZEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/pipa/</link>
+            <pubDate>Wed, 17 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 (sapphire) - V14.0.4.0.TNGMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sapphire/</link>
+            <pubDate>Wed, 17 Jan 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro (emerald) - V14.0.1.0.TNFMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/emerald/</link>
@@ -1052,6 +1062,11 @@
             <pubDate>Mon, 06 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Mi 11 Lite 4G (courbet) - V14.0.4.0.TKQMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/courbet/</link>
+            <pubDate>Fri, 03 Nov 2023 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 10 (mojito) - V14.0.8.0.SKGMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/mojito/</link>
             <pubDate>Fri, 27 Oct 2023 00:00:00 </pubDate>
@@ -1155,11 +1170,6 @@
             <title>Mi 10S (thyme) - V14.0.6.0.TGACNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/thyme/</link>
             <pubDate>Tue, 12 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 (pipa) - V14.0.7.0.TMZEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/pipa/</link>
-            <pubDate>Mon, 11 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V14.0.5.0.TKAMIXM</title>
@@ -1335,11 +1345,6 @@
             <title>POCO M3 (citrus) - V14.0.2.0.SJFEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/citrus/</link>
             <pubDate>Tue, 23 May 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 Lite 4G (courbet) - V14.0.3.0.TKQMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/courbet/</link>
-            <pubDate>Mon, 22 May 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>POCO X3 Pro (vayu) - V14.0.3.0.TJUMIXM</title>
