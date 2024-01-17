@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 17 Jan 2024 18:38:55 </lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 00:41:47 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.4.0.UNLMIXM</title>
@@ -254,6 +254,26 @@
         <item>
             <title>Redmi K40S/POCO F4 (munch) - V14.0.9.0.TLMCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/munch/</link>
+            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - OS1.0.1.0.UMBMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - OS1.0.4.0.UMBCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - OS1.0.1.0.UMBEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - OS1.0.1.0.UMBINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -672,11 +692,6 @@
             <pubDate>Fri, 15 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13 Pro (nuwa) - OS1.0.2.0.UMBCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Fri, 15 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.17.0.TLLCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Fri, 15 Dec 2023 00:00:00 </pubDate>
@@ -842,11 +857,6 @@
             <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13 Pro (nuwa) - V14.0.9.0.UMBEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.5.0.TMOCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
@@ -949,11 +959,6 @@
         <item>
             <title>Redmi 12C/POCO C55 (earth) - V14.0.4.0.TCVINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Mon, 20 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Pro (nuwa) - V14.0.1.0.UMBINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Mon, 20 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -1185,11 +1190,6 @@
             <title>POCO X5 5G (moonstone) - V14.0.3.0.TMPEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
             <pubDate>Thu, 31 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Pro (nuwa) - V14.0.12.0.TMBMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Thu, 24 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 12 Pro Dimensity (daumier) - V14.0.9.0.TLGCNXM</title>

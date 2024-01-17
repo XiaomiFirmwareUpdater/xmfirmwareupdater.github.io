@@ -2572,6 +2572,12 @@
   download: https://bigota.d.miui.com/V14.0.24.0.TMBEUXM/fw_nuwa_miui_NUWAEEAGlobal_V14.0.24.0.TMBEUXM_1d57b3de91_13.0.zip
   name: Xiaomi 13 Pro
   version: V14.0.24.0.TMBEUXM
+- android: '14.0'
+  codename: nuwa
+  date: '2023-10-27'
+  download: https://bigota.d.miui.com/V14.0.6.0.UMBMIXM/fw_nuwa_miui_NUWAGlobal_V14.0.6.0.UMBMIXM_a5c27eefd4_14.0.zip
+  name: Xiaomi 13 Pro
+  version: V14.0.6.0.UMBMIXM
 - android: '13.0'
   codename: nuwa
   date: '2023-08-24'
