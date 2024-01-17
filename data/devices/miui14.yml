@@ -2572,12 +2572,6 @@
   download: https://bigota.d.miui.com/V14.0.24.0.TMBEUXM/fw_nuwa_miui_NUWAEEAGlobal_V14.0.24.0.TMBEUXM_1d57b3de91_13.0.zip
   name: Xiaomi 13 Pro
   version: V14.0.24.0.TMBEUXM
-- android: '14.0'
-  codename: nuwa
-  date: '2023-10-27'
-  download: https://bigota.d.miui.com/V14.0.6.0.UMBMIXM/fw_nuwa_miui_NUWAGlobal_V14.0.6.0.UMBMIXM_a5c27eefd4_14.0.zip
-  name: Xiaomi 13 Pro
-  version: V14.0.6.0.UMBMIXM
 - android: '13.0'
   codename: nuwa
   date: '2023-08-24'
@@ -5482,6 +5476,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TNOCNXM/fw_zircon_miui_ZIRCON_V14.0.1.0.TNOCNXM_ef7c4991b6_13.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: V14.0.1.0.TNOCNXM
+- android: '13.0'
+  codename: zircon
+  date: '2024-01-17'
+  download: https://bigota.d.miui.com/V14.0.9.0.TNOCNXM/fw_zircon_miui_ZIRCON_V14.0.9.0.TNOCNXM_d55887cba5_13.0.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: V14.0.9.0.TNOCNXM
 - android: '13.0'
   codename: zircon
   date: '2024-01-16'
