@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 13 (sapphire) MIUI Downloads
+title: Redmi Note 13 NFC (sapphiren) MIUI Downloads
 layout: download
-name: Redmi Note 13
-codename: sapphire
-permalink: /miui/sapphire/
+name: Redmi Note 13 NFC
+codename: sapphiren
+permalink: /miui/sapphiren/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/sapphire/">Redmi Note 13</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/sapphiren/">Redmi Note 13 NFC</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /miui/sapphire/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/sapphire/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/sapphire/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/sapphire/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/miui/sapphiren/" class="card-link">MIUI Archive</a>
+    <a href="/firmware/sapphiren/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/sapphiren/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,9 +52,7 @@ permalink: /miui/sapphire/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 13 Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TNGMIXM</td><td>13.0</td><td>7.1 GB</td><td>2023-12-28</td><td><a href="/miui/sapphire/stable/V14.0.4.0.TNGMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TNGMIXM</td><td>13.0</td><td>4.5 GB</td><td>2024-01-17</td><td><a href="/miui/sapphire/stable/V14.0.4.0.TNGMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 NFC EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TNHEUXM</td><td>13.0</td><td>6.8 GB</td><td>2023-12-06</td><td><a href="/miui/sapphiren/stable/V14.0.3.0.TNHEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 13 NFC EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TNHEUXM</td><td>13.0</td><td>6.8 GB</td><td>2023-12-06</td><td><a href="/miui/sapphiren/stable/V14.0.3.0.TNHEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TNHEUXM</td><td>13.0</td><td>4.5 GB</td><td>2024-01-18</td><td><a href="/miui/sapphiren/stable/V14.0.3.0.TNHEUXM/">Download</a></td></tr>
 
                 </tbody>

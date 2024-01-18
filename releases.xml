@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 18 Jan 2024 07:25:17 </lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 12:37:08 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 12 (fire) - OS1.0.1.0.UMXMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fire/</link>
+            <pubDate>Thu, 18 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 NFC (sapphiren) - V14.0.3.0.TNHEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sapphiren/</link>
             <pubDate>Thu, 18 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
