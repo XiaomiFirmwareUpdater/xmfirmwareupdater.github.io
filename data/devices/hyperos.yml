@@ -101,6 +101,12 @@
   name: Redmi 12C/POCO C55
   version: OS1.0.2.0.UCVMIXM
 - android: '14.0'
+  codename: fire
+  date: '2024-01-18'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UMXMIXM/fw_fire_miui_FIREGlobal_OS1.0.1.0.UMXMIXM_3984ea57a0_14.0.zip
+  name: Redmi 12
+  version: OS1.0.1.0.UMXMIXM
+- android: '14.0'
   codename: fuxi
   date: '2023-12-24'
   download: https://bigota.d.miui.com/OS1.0.1.0.UMCEUXM/fw_fuxi_miui_FUXIEEAGlobal_OS1.0.1.0.UMCEUXM_0332150a82_14.0.zip
