@@ -29399,6 +29399,16 @@
     android: '12.0'
     miui: V13.0.8.0.SLJEUXM
 - branch: stable
+  date: '2024-01-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-18.01.2024/fw_ingres_miui_INGRES_OS1.0.1.0.ULJCNXM_fde249c2db_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ingres/fw_ingres_miui_INGRES_OS1.0.1.0.ULJCNXM_fde249c2db_14.0.zip
+  filename: fw_ingres_miui_INGRES_OS1.0.1.0.ULJCNXM_fde249c2db_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.1.0.ULJCNXM
+- branch: stable
   date: '2022-02-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-17.02.2022/fw_ingres_miui_INGRES_V13.0.2.0.SLJCNXM_caf7a6d2e7_12.0.zip
@@ -69368,6 +69378,16 @@
   versions:
     android: '13.0'
     miui: V14.0.10.0.TGOMIXM
+- branch: stable
+  date: '2024-01-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-18.01.2024/fw_water_miui_WATEREEAGlobal_V14.0.13.0.TGOEUXM_9148e3010b_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATEREEAGlobal_V14.0.13.0.TGOEUXM_9148e3010b_13.0.zip
+  filename: fw_water_miui_WATEREEAGlobal_V14.0.13.0.TGOEUXM_9148e3010b_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.13.0.TGOEUXM
 - branch: stable
   date: '2023-06-09'
   downloads:

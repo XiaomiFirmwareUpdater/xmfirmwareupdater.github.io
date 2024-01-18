@@ -191,6 +191,12 @@
   name: Xiaomi 14
   version: OS1.0.14.0.UNCCNXM
 - android: '14.0'
+  codename: ingres
+  date: '2024-01-18'
+  download: https://bigota.d.miui.com/OS1.0.1.0.ULJCNXM/fw_ingres_miui_INGRES_OS1.0.1.0.ULJCNXM_fde249c2db_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.1.0.ULJCNXM
+- android: '14.0'
   codename: ishtar
   date: '2023-12-22'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMAEUXM/fw_ishtar_miui_ISHTAREEAGlobal_OS1.0.5.0.UMAEUXM_70d6c1e142_14.0.zip

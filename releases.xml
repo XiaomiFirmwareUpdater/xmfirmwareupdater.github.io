@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 18 Jan 2024 12:37:08 </lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 18:51:52 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 12 (fire) - OS1.0.1.0.UMXMIXM</title>
@@ -12,8 +12,18 @@
             <pubDate>Thu, 18 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi K50G/POCO F4 GT (ingres) - OS1.0.1.0.ULJCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ingres/</link>
+            <pubDate>Thu, 18 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 13 NFC (sapphiren) - V14.0.3.0.TNHEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sapphiren/</link>
+            <pubDate>Thu, 18 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A2/A2+/POCO C51 (water) - V14.0.13.0.TGOEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/water/</link>
             <pubDate>Thu, 18 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -592,11 +602,6 @@
             <pubDate>Tue, 19 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K50G/POCO F4 GT (ingres) - V14.0.11.0.TLJCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ingres/</link>
-            <pubDate>Tue, 19 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.8.0.TKTMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/pissarro/</link>
             <pubDate>Tue, 19 Dec 2023 00:00:00 </pubDate>
@@ -1094,11 +1099,6 @@
         <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.6.0.TMRINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Fri, 20 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A2/A2+/POCO C51 (water) - V14.0.11.0.TGOEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/water/</link>
             <pubDate>Fri, 20 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
