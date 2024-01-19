@@ -53,7 +53,6 @@ permalink: /miui/ruby/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Note 12 Pro / Pro+ / Discovery 5G China</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TMOCNXM</td><td>13.0</td><td>6.7 GB</td><td>2023-11-22</td><td><a href="/miui/ruby/stable/V14.0.5.0.TMOCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 Pro / Pro+ / Discovery 5G China</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TMOCNXM</td><td>13.0</td><td>5.3 GB</td><td>2023-11-30</td><td><a href="/miui/ruby/stable/V14.0.5.0.TMOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ / Discovery 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TMOCNXM</td><td>13.0</td><td>5.4 GB</td><td>2023-06-14</td><td><a href="/miui/ruby/stable beta/V14.0.1.0.TMOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.12.0.TMOEUXM</td><td>13.0</td><td>7.0 GB</td><td>2023-12-14</td><td><a href="/miui/ruby/stable/V14.0.12.0.TMOEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.12.0.TMOEUXM</td><td>13.0</td><td>4.6 GB</td><td>2023-12-19</td><td><a href="/miui/ruby/stable/V14.0.12.0.TMOEUXM/">Download</a></td></tr>
