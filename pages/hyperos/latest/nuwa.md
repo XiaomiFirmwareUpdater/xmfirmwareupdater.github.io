@@ -61,6 +61,7 @@ permalink: /hyperos/nuwa/
 <tr><td>Xiaomi 13 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UMBMIXM</td><td>14.0</td><td>5.8 GB</td><td>2023-12-19</td><td><a href="/hyperos/nuwa/stable/OS1.0.1.0.UMBMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UMBINXM</td><td>14.0</td><td>6.4 GB</td><td>2024-01-13</td><td><a href="/hyperos/nuwa/stable/OS1.0.1.0.UMBINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro India</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UMBINXM</td><td>14.0</td><td>5.7 GB</td><td>2024-01-02</td><td><a href="/hyperos/nuwa/stable/OS1.0.1.0.UMBINXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UMBRUXM</td><td>14.0</td><td>5.8 GB</td><td>2024-01-16</td><td><a href="/hyperos/nuwa/stable beta/OS1.0.2.0.UMBRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

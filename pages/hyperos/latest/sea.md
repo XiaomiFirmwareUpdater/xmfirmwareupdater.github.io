@@ -56,6 +56,7 @@ permalink: /hyperos/sea/
 <tr><td>Redmi Note 12S EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UHZEUXM</td><td>14.0</td><td>4.2 GB</td><td>2024-01-05</td><td><a href="/hyperos/sea/stable/OS1.0.1.0.UHZEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12S Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UHZMIXM</td><td>14.0</td><td>6.8 GB</td><td>2024-01-04</td><td><a href="/hyperos/sea/stable/OS1.0.3.0.UHZMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12S Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UHZMIXM</td><td>14.0</td><td>4.2 GB</td><td>2023-12-19</td><td><a href="/hyperos/sea/stable/OS1.0.3.0.UHZMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12S Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UHZTWXM</td><td>14.0</td><td>4.2 GB</td><td>2024-01-16</td><td><a href="/hyperos/sea/stable beta/OS1.0.1.0.UHZTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
