@@ -9,12 +9,12 @@
     android: '13.0'
     miui: V14.0.1.0.TNFMIXM
 - branch: stable
-  date: '2024-01-12'
+  date: '2024-01-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-12.01.2024/fw_emerald_miui_EMERALDEEAGlobal_V14.0.1.0.TNFEUXM_b4435301cb_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/emerald/fw_emerald_miui_EMERALDEEAGlobal_V14.0.1.0.TNFEUXM_b4435301cb_13.0.zip
-  filename: fw_emerald_miui_EMERALDEEAGlobal_V14.0.1.0.TNFEUXM_b4435301cb_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-19.01.2024/fw_emerald_miui_EMERALDEEAGlobal_V14.0.3.0.TNFEUXM_349eaeb0c4_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/emerald/fw_emerald_miui_EMERALDEEAGlobal_V14.0.3.0.TNFEUXM_349eaeb0c4_13.0.zip
+  filename: fw_emerald_miui_EMERALDEEAGlobal_V14.0.3.0.TNFEUXM_349eaeb0c4_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.1.0.TNFEUXM
+    miui: V14.0.3.0.TNFEUXM

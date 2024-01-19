@@ -882,6 +882,12 @@
   version: V14.0.5.0.TKYCNXM
 - android: '13.0'
   codename: emerald
+  date: '2024-01-19'
+  download: https://bigota.d.miui.com/V14.0.3.0.TNFEUXM/fw_emerald_miui_EMERALDEEAGlobal_V14.0.3.0.TNFEUXM_349eaeb0c4_13.0.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  version: V14.0.3.0.TNFEUXM
+- android: '13.0'
+  codename: emerald
   date: '2024-01-16'
   download: https://bigota.d.miui.com/V14.0.1.0.TNFMIXM/fw_emerald_miui_EMERALDGlobal_V14.0.1.0.TNFMIXM_6f901ccab5_13.0.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro
@@ -1084,6 +1090,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TKEEUXM/fw_fleur_miui_FLEUREEAGlobal_V14.0.2.0.TKEEUXM_4a037bf6d4_13.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: V14.0.2.0.TKEEUXM
+- android: '13.0'
+  codename: fleur
+  date: '2024-01-19'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKEEUXM/fw_fleur_miui_FLEUREEAGlobal_V14.0.6.0.TKEEUXM_358becc25f_13.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: V14.0.6.0.TKEEUXM
 - android: '13.0'
   codename: fleur
   date: '2023-07-14'
@@ -5494,6 +5506,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TNOCNXM/fw_zircon_miui_ZIRCON_V14.0.1.0.TNOCNXM_ef7c4991b6_13.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: V14.0.1.0.TNOCNXM
+- android: '13.0'
+  codename: zircon
+  date: '2024-01-19'
+  download: https://bigota.d.miui.com/V14.0.2.0.TNOINXM/fw_zircon_miui_ZIRCONINGlobal_V14.0.2.0.TNOINXM_e9ef37ba69_13.0.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: V14.0.2.0.TNOINXM
 - android: '13.0'
   codename: zircon
   date: '2024-01-18'

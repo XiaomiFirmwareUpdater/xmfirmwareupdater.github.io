@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 19 Jan 2024 12:39:24 </lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 20:09:58 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 Pro 4G/POCO M6 Pro (emerald) - V14.0.3.0.TNFEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/emerald/</link>
+            <pubDate>Fri, 19 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V14.0.6.0.TKEEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/fleur/</link>
+            <pubDate>Fri, 19 Jan 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.5.0.UMRINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
@@ -14,6 +24,11 @@
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.3.0.UMNEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
+            <pubDate>Fri, 19 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro+ 5G (zircon) - V14.0.2.0.TNOINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Fri, 19 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -119,11 +134,6 @@
         <item>
             <title>Xiaomi 11T (agate) - OS1.0.2.0.UKWMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/agate/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro 4G/POCO M6 Pro (emerald) - V14.0.1.0.TNFEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/emerald/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -429,11 +439,6 @@
         <item>
             <title>Xiaomi 12 Pro (zeus) - V14.0.7.0.TLBINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro+ 5G (zircon) - V14.0.1.0.TNOINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -1154,11 +1159,6 @@
         <item>
             <title>Xiaomi Pad 5 Pro 5G (enuma) - V14.0.4.0.TKZCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/enuma/</link>
-            <pubDate>Thu, 12 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V14.0.5.0.TKEEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fleur/</link>
             <pubDate>Thu, 12 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
