@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 19 Jan 2024 00:34:39 </lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 06:35:58 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.5.0.UMRINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
+            <pubDate>Fri, 19 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.3.0.UMNEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
+            <pubDate>Fri, 19 Jan 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 12 (fire) - OS1.0.1.0.UMXMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fire/</link>
@@ -1097,11 +1107,6 @@
             <pubDate>Tue, 24 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.6.0.TMRINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Fri, 20 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K40 Gaming/POCO F3 GT (ares) - V14.0.5.0.TKJINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ares/</link>
             <pubDate>Thu, 19 Oct 2023 00:00:00 </pubDate>
@@ -1220,11 +1225,6 @@
             <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V13.0.6.0.SJQMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/lime/</link>
             <pubDate>Thu, 10 Aug 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60/POCO F5 Pro (mondrian) - V14.0.7.0.TMNEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
-            <pubDate>Tue, 08 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi Pad 5 Pro 12.4 (dagu) - V14.0.11.0.TLZCNXM</title>
