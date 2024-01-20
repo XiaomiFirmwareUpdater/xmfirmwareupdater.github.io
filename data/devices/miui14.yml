@@ -4500,6 +4500,12 @@
   version: V14.0.6.0.TMTINXM
 - android: '13.0'
   codename: tapas
+  date: '2023-12-04'
+  download: https://bigota.d.miui.com/V14.0.9.0.TMTINXM/fw_tapas_miui_TAPASINGlobal_V14.0.9.0.TMTINXM_ac4b149f63_13.0.zip
+  name: Redmi Note 12 4G
+  version: V14.0.9.0.TMTINXM
+- android: '13.0'
+  codename: tapas
   date: '2023-04-04'
   download: https://bigota.d.miui.com/V14.0.2.0.TMTINXM/fw_tapas_miui_TAPASINGlobal_V14.0.2.0.TMTINXM_e1be94e1a0_13.0.zip
   name: Redmi Note 12 4G
