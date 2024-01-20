@@ -52,7 +52,8 @@ permalink: /archive/miui/air/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 13R 5G / 13C 5G China</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TGQCNXM</td><td>13.0</td><td>4.2 GB</td><td>2023-12-29</td><td><a href="/miui/air/stable/V14.0.5.0.TGQCNXM/">Download</a></td></tr>
+                <tr><td>Redmi 13R 5G / POCO M6 5G India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TGQINXM</td><td>13.0</td><td>4.2 GB</td><td>2024-01-20</td><td><a href="/miui/air/stable beta/V14.0.5.0.TGQINXM/">Download</a></td></tr>
+<tr><td>Redmi 13R 5G / 13C 5G China</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TGQCNXM</td><td>13.0</td><td>4.2 GB</td><td>2023-12-29</td><td><a href="/miui/air/stable/V14.0.5.0.TGQCNXM/">Download</a></td></tr>
 <tr><td>Redmi 13R 5G / 13C 5G China</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TGQCNXM</td><td>13.0</td><td>5.4 GB</td><td>2023-12-25</td><td><a href="/miui/air/stable/V14.0.5.0.TGQCNXM/">Download</a></td></tr>
 <tr><td>Redmi 13R 5G / POCO M6 5G India</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TGQINXM</td><td>13.0</td><td>4.1 GB</td><td>2023-12-18</td><td><a href="/miui/air/stable/V14.0.4.0.TGQINXM/">Download</a></td></tr>
 <tr><td>Redmi 13R 5G / POCO M6 5G India</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TGQINXM</td><td>13.0</td><td>5.6 GB</td><td>2023-12-08</td><td><a href="/miui/air/stable/V14.0.4.0.TGQINXM/">Download</a></td></tr>

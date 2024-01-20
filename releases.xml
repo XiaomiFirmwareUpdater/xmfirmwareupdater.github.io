@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 20 Jan 2024 12:35:42 </lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2024 19:16:28 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - V14.0.5.0.TGQINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/air/</link>
+            <pubDate>Sat, 20 Jan 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro (emerald) - V14.0.3.0.TNFEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/emerald/</link>
@@ -640,11 +645,6 @@
             <title>Xiaomi Civi 3 (yuechu) - V14.0.11.0.TMICNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/yuechu/</link>
             <pubDate>Tue, 19 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - V14.0.4.0.TGQINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/air/</link>
-            <pubDate>Mon, 18 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 12 (fire) - V14.0.12.0.TMXEUXM</title>
