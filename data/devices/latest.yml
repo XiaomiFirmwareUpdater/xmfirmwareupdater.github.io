@@ -5019,15 +5019,15 @@
     android: '9.0'
     miui: V12.0.1.0.PEKMIXM
 - branch: weekly
-  date: '2019-06-22'
+  date: '2019-06-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tulip/releases/download/weekly-22.06.2019/fw_tulip_miui_HMNote6ProGlobal_9.6.20_2169589525_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.20/tulip/fw_tulip_miui_HMNote6ProGlobal_9.6.20_2169589525_9.0.zip
-  filename: fw_tulip_miui_HMNote6ProGlobal_9.6.20_2169589525_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tulip/releases/download/weekly-28.06.2019/fw_tulip_miui_HMNote6ProGlobal_9.6.27_a10bc90117_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/tulip/fw_tulip_miui_HMNote6ProGlobal_9.6.27_a10bc90117_9.0.zip
+  filename: fw_tulip_miui_HMNote6ProGlobal_9.6.27_a10bc90117_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: 9.6.20
+    miui: 9.6.27
 - branch: stable
   date: '2019-11-05'
   downloads:

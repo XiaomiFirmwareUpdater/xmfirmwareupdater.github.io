@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 21 Jan 2024 18:51:13 </lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 00:34:02 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS1.0.1.0.ULFEUXM</title>
@@ -2737,6 +2737,11 @@
             <pubDate>Fri, 28 Jun 2019 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Note 6 Pro (tulip) - 9.6.27</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/tulip/</link>
+            <pubDate>Fri, 28 Jun 2019 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 5A Prime (ugg) - 9.6.27</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ugg/</link>
             <pubDate>Fri, 28 Jun 2019 00:00:00 </pubDate>
@@ -2750,11 +2755,6 @@
             <title>Redmi Note 5/Note 5 Pro (whyred) - 9.6.27</title>
             <link>https://xiaomifirmwareupdater.com/firmware/whyred/</link>
             <pubDate>Fri, 28 Jun 2019 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 6 Pro (tulip) - 9.6.20</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/tulip/</link>
-            <pubDate>Sat, 22 Jun 2019 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 3S (land) - V10.2.2.0.MALMIXM</title>
