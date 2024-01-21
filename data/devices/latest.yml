@@ -1239,15 +1239,15 @@
     android: '14.0'
     miui: OS1.0.2.0.ULFCNXM
 - branch: stable
-  date: '2024-01-11'
+  date: '2024-01-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-11.01.2024/fw_diting_miui_DITINGEEAGlobal_V14.0.19.0.TLFEUXM_de8d4367a3_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/diting/fw_diting_miui_DITINGEEAGlobal_V14.0.19.0.TLFEUXM_de8d4367a3_13.0.zip
-  filename: fw_diting_miui_DITINGEEAGlobal_V14.0.19.0.TLFEUXM_de8d4367a3_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-21.01.2024/fw_diting_miui_DITINGEEAGlobal_OS1.0.1.0.ULFEUXM_10053329d1_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/diting/fw_diting_miui_DITINGEEAGlobal_OS1.0.1.0.ULFEUXM_10053329d1_14.0.zip
+  filename: fw_diting_miui_DITINGEEAGlobal_OS1.0.1.0.ULFEUXM_10053329d1_14.0.zip
   region: Europe
   versions:
-    android: '13.0'
-    miui: V14.0.19.0.TLFEUXM
+    android: '14.0'
+    miui: OS1.0.1.0.ULFEUXM
 - branch: stable
   date: '2024-01-17'
   downloads:
@@ -5019,15 +5019,15 @@
     android: '9.0'
     miui: V12.0.1.0.PEKMIXM
 - branch: weekly
-  date: '2019-06-28'
+  date: '2019-06-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tulip/releases/download/weekly-28.06.2019/fw_tulip_miui_HMNote6ProGlobal_9.6.27_a10bc90117_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/tulip/fw_tulip_miui_HMNote6ProGlobal_9.6.27_a10bc90117_9.0.zip
-  filename: fw_tulip_miui_HMNote6ProGlobal_9.6.27_a10bc90117_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tulip/releases/download/weekly-22.06.2019/fw_tulip_miui_HMNote6ProGlobal_9.6.20_2169589525_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.20/tulip/fw_tulip_miui_HMNote6ProGlobal_9.6.20_2169589525_9.0.zip
+  filename: fw_tulip_miui_HMNote6ProGlobal_9.6.20_2169589525_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: 9.6.27
+    miui: 9.6.20
 - branch: stable
   date: '2019-11-05'
   downloads:
@@ -5299,15 +5299,15 @@
     android: '13.0'
     miui: V14.0.7.0.TKBEUXM
 - branch: stable
-  date: '2024-01-12'
+  date: '2024-01-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-12.01.2024/fw_vermeer_miui_VERMEER_OS1.0.11.0.UNKCNXM_2316bc4e67_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vermeer/fw_vermeer_miui_VERMEER_OS1.0.11.0.UNKCNXM_2316bc4e67_14.0.zip
-  filename: fw_vermeer_miui_VERMEER_OS1.0.11.0.UNKCNXM_2316bc4e67_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-21.01.2024/fw_vermeer_miui_VERMEER_OS1.0.13.0.UNKCNXM_22cb92880c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vermeer/fw_vermeer_miui_VERMEER_OS1.0.13.0.UNKCNXM_22cb92880c_14.0.zip
+  filename: fw_vermeer_miui_VERMEER_OS1.0.13.0.UNKCNXM_22cb92880c_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.11.0.UNKCNXM
+    miui: OS1.0.13.0.UNKCNXM
 - branch: stable
   date: '2023-11-20'
   downloads:

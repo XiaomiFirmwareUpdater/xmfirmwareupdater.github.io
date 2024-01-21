@@ -42,6 +42,12 @@
   version: OS1.0.4.0.UMLCNXM
 - android: '14.0'
   codename: diting
+  date: '2024-01-21'
+  download: https://bigota.d.miui.com/OS1.0.1.0.ULFEUXM/fw_diting_miui_DITINGEEAGlobal_OS1.0.1.0.ULFEUXM_10053329d1_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.1.0.ULFEUXM
+- android: '14.0'
+  codename: diting
   date: '2024-01-11'
   download: https://bigota.d.miui.com/OS1.0.2.0.ULFCNXM/fw_diting_miui_DITING_OS1.0.2.0.ULFCNXM_10cb54f830_14.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
@@ -484,6 +490,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMGMIXM/fw_topaz_miui_TOPAZGlobal_OS1.0.2.0.UMGMIXM_0d2645dd48_14.0.zip
   name: Redmi Note 12 4G NFC
   version: OS1.0.2.0.UMGMIXM
+- android: '14.0'
+  codename: vermeer
+  date: '2024-01-21'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.13.0.UNKCNXM_22cb92880c_14.0.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS1.0.13.0.UNKCNXM
 - android: '14.0'
   codename: vermeer
   date: '2023-12-17'
