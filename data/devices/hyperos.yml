@@ -102,6 +102,12 @@
   version: OS1.0.5.0.UNLCNXM
 - android: '14.0'
   codename: earth
+  date: '2024-01-22'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UCVINXM/fw_earth_miui_EARTHINGlobal_OS1.0.2.0.UCVINXM_d3d972cf43_14.0.zip
+  name: Redmi 12C/POCO C55
+  version: OS1.0.2.0.UCVINXM
+- android: '14.0'
+  codename: earth
   date: '2024-01-11'
   download: https://bigota.d.miui.com/OS1.0.2.0.UCVMIXM/fw_earth_miui_EARTHGlobal_OS1.0.2.0.UCVMIXM_594f88abfe_14.0.zip
   name: Redmi 12C/POCO C55
@@ -484,6 +490,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMTMIXM/fw_tapas_miui_TAPASGlobal_OS1.0.2.0.UMTMIXM_9d39c3791b_14.0.zip
   name: Redmi Note 12 4G
   version: OS1.0.2.0.UMTMIXM
+- android: '14.0'
+  codename: topaz
+  date: '2024-01-22'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UMGEUXM/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.2.0.UMGEUXM_8f6a8b7267_14.0.zip
+  name: Redmi Note 12 4G NFC
+  version: OS1.0.2.0.UMGEUXM
 - android: '14.0'
   codename: topaz
   date: '2024-01-12'

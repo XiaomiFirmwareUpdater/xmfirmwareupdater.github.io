@@ -53,9 +53,9 @@ permalink: /hyperos/plato/
                 </thead>
                 <tbody>
                 <tr><td>Xiaomi 12T EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.ULQEUXM</td><td>14.0</td><td>6.9 GB</td><td>2024-01-02</td><td><a href="/hyperos/plato/stable/OS1.0.5.0.ULQEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.ULQEUXM</td><td>14.0</td><td>5.4 GB</td><td>2023-12-04</td><td><a href="/hyperos/plato/stable/OS1.0.5.0.ULQEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.ULQMIXM</td><td>14.0</td><td>7.3 GB</td><td>2024-01-17</td><td><a href="/hyperos/plato/stable/OS1.0.5.0.ULQMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.ULQMIXM</td><td>14.0</td><td>5.4 GB</td><td>2024-01-08</td><td><a href="/hyperos/plato/stable/OS1.0.5.0.ULQMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.ULQTRXM</td><td>14.0</td><td>5.4 GB</td><td>2024-01-17</td><td><a href="/hyperos/plato/stable beta/OS1.0.1.0.ULQTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.ULQTWXM</td><td>14.0</td><td>5.4 GB</td><td>2024-01-15</td><td><a href="/hyperos/plato/stable beta/OS1.0.1.0.ULQTWXM/">Download</a></td></tr>
 
                 </tbody>

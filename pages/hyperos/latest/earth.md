@@ -54,6 +54,7 @@ permalink: /hyperos/earth/
                 <tbody>
                 <tr><td>Redmi 12C / POCO C55 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UCVMIXM</td><td>14.0</td><td>6.7 GB</td><td>2024-01-15</td><td><a href="/hyperos/earth/stable/OS1.0.2.0.UCVMIXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UCVMIXM</td><td>14.0</td><td>4.2 GB</td><td>2023-12-27</td><td><a href="/hyperos/earth/stable/OS1.0.2.0.UCVMIXM/">Download</a></td></tr>
+<tr><td>Redmi 12C / POCO C55 India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UCVINXM</td><td>14.0</td><td>4.0 GB</td><td>2024-01-16</td><td><a href="/hyperos/earth/stable beta/OS1.0.2.0.UCVINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

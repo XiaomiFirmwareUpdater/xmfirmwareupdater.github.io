@@ -289,6 +289,16 @@
     android: '12.0'
     miui: V13.0.5.0.SKWMIXM
 - branch: stable
+  date: '2023-08-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-03.08.2023/fw_agate_miui_AGATEGlobal_V14.0.5.0.TKWMIXM_9833010ed2_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/agate/fw_agate_miui_AGATEGlobal_V14.0.5.0.TKWMIXM_9833010ed2_13.0.zip
+  filename: fw_agate_miui_AGATEGlobal_V14.0.5.0.TKWMIXM_9833010ed2_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TKWMIXM
+- branch: stable
   date: '2024-01-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-20.01.2024/fw_air_miui_AIRINGlobal_V14.0.5.0.TGQINXM_5cb562f32b_13.0.zip
@@ -21559,6 +21569,16 @@
     android: '12.0'
     miui: V13.0.5.0.SCVCNXM
 - branch: stable
+  date: '2024-01-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-22.01.2024/fw_earth_miui_EARTHINGlobal_OS1.0.2.0.UCVINXM_d3d972cf43_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHINGlobal_OS1.0.2.0.UCVINXM_d3d972cf43_14.0.zip
+  filename: fw_earth_miui_EARTHINGlobal_OS1.0.2.0.UCVINXM_d3d972cf43_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.UCVINXM
+- branch: stable
   date: '2023-11-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-20.11.2023/fw_earth_miui_EARTHINGlobal_V14.0.4.0.TCVINXM_e6f9b34a7d_13.0.zip
@@ -39458,6 +39478,16 @@
   versions:
     android: '12.0'
     miui: V13.1.5.0.SKXCNXM
+- branch: stable
+  date: '2024-01-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-22.01.2024/fw_nabu_miui_NABUGlobal_V14.0.8.0.TKXMIXM_9c00adffab_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nabu/fw_nabu_miui_NABUGlobal_V14.0.8.0.TKXMIXM_9c00adffab_13.0.zip
+  filename: fw_nabu_miui_NABUGlobal_V14.0.8.0.TKXMIXM_9c00adffab_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.8.0.TKXMIXM
 - branch: stable
   date: '2022-10-20'
   downloads:
@@ -60868,6 +60898,16 @@
   versions:
     android: '13.0'
     miui: V14.0.8.0.TMGMIXM
+- branch: stable
+  date: '2024-01-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_topaz/releases/download/stable-22.01.2024/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.2.0.UMGEUXM_8f6a8b7267_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/topaz/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.2.0.UMGEUXM_8f6a8b7267_14.0.zip
+  filename: fw_topaz_miui_TOPAZEEAGlobal_OS1.0.2.0.UMGEUXM_8f6a8b7267_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.UMGEUXM
 - branch: stable
   date: '2023-05-19'
   downloads:

@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 22 Jan 2024 00:34:02 </lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 07:01:50 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 12C/POCO C55 (earth) - OS1.0.2.0.UCVINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
+            <pubDate>Mon, 22 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 5 (nabu) - V14.0.8.0.TKXMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/nabu/</link>
+            <pubDate>Mon, 22 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 4G NFC (topaz) - OS1.0.2.0.UMGEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/topaz/</link>
+            <pubDate>Mon, 22 Jan 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS1.0.1.0.ULFEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
@@ -782,11 +797,6 @@
             <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 5 (nabu) - V14.0.7.0.TKXMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nabu/</link>
-            <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 5 (nabu) - V14.0.8.0.TKXEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/nabu/</link>
             <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
@@ -912,11 +922,6 @@
             <pubDate>Mon, 04 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 4G NFC (topaz) - V14.0.12.0.TMGEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/topaz/</link>
-            <pubDate>Mon, 04 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.5.0.TLLMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Mon, 04 Dec 2023 00:00:00 </pubDate>
@@ -979,11 +984,6 @@
         <item>
             <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.12.0.RCZEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/dandelion/</link>
-            <pubDate>Mon, 20 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12C/POCO C55 (earth) - V14.0.4.0.TCVINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
             <pubDate>Mon, 20 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
