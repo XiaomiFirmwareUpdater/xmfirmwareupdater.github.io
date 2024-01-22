@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 22 Jan 2024 12:36:56 </lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 18:40:10 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 12 (cupid) - V14.0.8.0.TLCMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/cupid/</link>
+            <pubDate>Mon, 22 Jan 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.2.0.UCVINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
@@ -875,11 +880,6 @@
             <title>Redmi Note 11 Pro 4G (viva) - V14.0.5.0.TGDMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/viva/</link>
             <pubDate>Fri, 08 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 (cupid) - V14.0.7.0.TLCMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/cupid/</link>
-            <pubDate>Thu, 07 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 13C/POCO C65 (gale) - V14.0.7.0.TGPMIXM</title>
