@@ -354,6 +354,18 @@
   version: OS1.0.2.0.UMZCNXM
 - android: '14.0'
   codename: pipa
+  date: '2024-01-22'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMZMIXM/fw_pipa_miui_PIPAGlobal_OS1.0.4.0.UMZMIXM_55c8110a52_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.4.0.UMZMIXM
+- android: '14.0'
+  codename: pipa
+  date: '2024-01-22'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UMZINXM/fw_pipa_miui_PIPAINGlobal_OS1.0.2.0.UMZINXM_c1b291134f_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.2.0.UMZINXM
+- android: '14.0'
+  codename: pipa
   date: '2024-01-17'
   download: https://bigota.d.miui.com/OS1.0.3.0.UMZEUXM/fw_pipa_miui_PIPAEEAGlobal_OS1.0.3.0.UMZEUXM_a9b435c82f_14.0.zip
   name: Xiaomi Pad 6
