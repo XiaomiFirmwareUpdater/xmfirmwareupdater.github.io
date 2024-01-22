@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 22 Jan 2024 18:40:10 </lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 00:38:00 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 12 (cupid) - V14.0.8.0.TLCMIXM</title>
@@ -14,6 +14,16 @@
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.2.0.UCVINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
+            <pubDate>Mon, 22 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - V14.0.17.0.TNRCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
+            <pubDate>Mon, 22 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70 Pro (manet) - OS1.0.12.0.UNMCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/manet/</link>
             <pubDate>Mon, 22 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -217,11 +227,6 @@
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - V14.0.15.0.TNRCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - V14.0.4.0.TNREUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
@@ -304,11 +309,6 @@
         <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.11.0.TKOEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/lisa/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70 Pro (manet) - OS1.0.9.0.UNMCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/manet/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>

@@ -24459,6 +24459,16 @@
     android: '13.0'
     miui: V14.0.7.0.TGPMIXM
 - branch: stable
+  date: '2024-01-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-23.01.2024/fw_garnet_miui_GARNET_V14.0.17.0.TNRCNXM_f09d30e63e_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/garnet/fw_garnet_miui_GARNET_V14.0.17.0.TNRCNXM_f09d30e63e_13.0.zip
+  filename: fw_garnet_miui_GARNET_V14.0.17.0.TNRCNXM_f09d30e63e_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.17.0.TNRCNXM
+- branch: stable
   date: '2023-09-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-22.09.2023/fw_garnet_miui_GARNET_V14.0.1.0.TNRCNXM_bbb2dfd7bd_13.0.zip
@@ -36768,6 +36778,16 @@
   versions:
     android: '14.0'
     miui: OS1.0.4.0.UNMCNXM
+- branch: stable
+  date: '2024-01-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-23.01.2024/fw_manet_miui_MANET_OS1.0.12.0.UNMCNXM_da52f2413a_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/manet/fw_manet_miui_MANET_OS1.0.12.0.UNMCNXM_da52f2413a_14.0.zip
+  filename: fw_manet_miui_MANET_OS1.0.12.0.UNMCNXM_da52f2413a_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.12.0.UNMCNXM
 - branch: stable
   date: '2023-12-15'
   downloads:
