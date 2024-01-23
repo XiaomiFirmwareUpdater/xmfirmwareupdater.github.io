@@ -4692,12 +4692,6 @@
   version: 22.1.19
 - android: '12.0'
   codename: star
-  date: '2022-02-18'
-  download: https://bigota.d.miui.com/22.2.16/fw_star_miui_STARPRE_22.2.16_7b4d06e79f_12.0.zip
-  name: Mi 11 Pro/Ultra/Mi 11 Ultra
-  version: 22.2.16
-- android: '12.0'
-  codename: star
   date: '2022-02-13'
   download: https://bigota.d.miui.com/22.2.9/fw_star_miui_STARPRE_22.2.9_d0462da88c_12.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra

@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 12 5G/Note 12R Pro (sunstone) HyperOS Downloads
+title: POCO X5 5G (moonstone) HyperOS Downloads
 layout: download
-name: Redmi Note 12 5G/Note 12R Pro
-codename: sunstone
-permalink: /hyperos/sunstone/
+name: POCO X5 5G
+codename: moonstone
+permalink: /archive/hyperos/moonstone/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/sunstone/">Redmi Note 12 5G/Note 12R Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/moonstone/">POCO X5 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -20,17 +20,17 @@ permalink: /hyperos/sunstone/
     </button>
 </div>
 
-### Latest HyperOS Official ROMs
+### HyperOS Official ROMs Archive
 *Note*: All files listed here are official untouched HyperOS ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-    <p class="card-text">This page shows the latest downloads only.
-     If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/hyperos/sunstone/" class="card-link">HyperOS Archive</a>
-    <a href="/firmware/sunstone/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/sunstone/" class="card-link">Vendor Downloads</a>
+    <p class="card-text">This page shows all available downloads.
+     If you're looking for the latest releases check or other downloads check:</p>
+    <a href="/hyperos/moonstone/" class="card-link">Latest HyperOS</a>
+    <a href="/firmware/moonstone/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/moonstone/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,9 +52,7 @@ permalink: /hyperos/sunstone/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UMQEUXM</td><td>14.0</td><td>6.4 GB</td><td>2024-01-15</td><td><a href="/hyperos/sunstone/stable/OS1.0.2.0.UMQEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UMQEUXM</td><td>14.0</td><td>3.9 GB</td><td>2024-01-05</td><td><a href="/hyperos/sunstone/stable/OS1.0.2.0.UMQEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UMQMIXM</td><td>14.0</td><td>3.9 GB</td><td>2024-01-20</td><td><a href="/hyperos/sunstone/stable beta/OS1.0.2.0.UMQMIXM/">Download</a></td></tr>
+                <tr><td>POCO X5 5G  Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UMPMIXM</td><td>14.0</td><td>3.9 GB</td><td>2024-01-19</td><td><a href="/hyperos/moonstone/stable beta/OS1.0.3.0.UMPMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

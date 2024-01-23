@@ -129,16 +129,6 @@
     android: '11.0'
     miui: 21.6.16
 - branch: weekly
-  date: '2022-02-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/weekly-18.02.2022/fw_star_miui_STARPRE_22.2.16_7b4d06e79f_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.16/star/fw_star_miui_STARPRE_22.2.16_7b4d06e79f_12.0.zip
-  filename: fw_star_miui_STARPRE_22.2.16_7b4d06e79f_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 22.2.16
-- branch: weekly
   date: '2021-04-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/weekly-17.04.2021/fw_star_miui_STAR_21.4.15_8d0e8ed07d_11.0.zip
@@ -428,16 +418,6 @@
   versions:
     android: '12.0'
     miui: V13.0.4.0.SKAMIXM
-- branch: stable
-  date: '2021-07-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-22.07.2021/fw_star_miui_STAR_V12.5.11.0.RKACNXM_5995927bf0_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STAR_V12.5.11.0.RKACNXM_5995927bf0_11.0.zip
-  filename: fw_star_miui_STAR_V12.5.11.0.RKACNXM_5995927bf0_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.11.0.RKACNXM
 - branch: stable
   date: '2022-04-22'
   downloads:
@@ -738,16 +718,6 @@
   versions:
     android: '12.0'
     miui: V13.0.2.0.SKAMIXM
-- branch: stable
-  date: '2021-10-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-06.10.2021/fw_star_miui_STAREEAGlobal_V12.5.10.0.RKAEUXM_5b3d0f268f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STAREEAGlobal_V12.5.10.0.RKAEUXM_5b3d0f268f_11.0.zip
-  filename: fw_star_miui_STAREEAGlobal_V12.5.10.0.RKAEUXM_5b3d0f268f_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.5.10.0.RKAEUXM
 - branch: stable
   date: '2023-06-06'
   downloads:

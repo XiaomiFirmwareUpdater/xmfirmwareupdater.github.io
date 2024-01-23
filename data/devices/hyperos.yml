@@ -323,6 +323,12 @@
   name: Redmi K60/POCO F5 Pro
   version: OS1.0.4.0.UMNCNXM
 - android: '14.0'
+  codename: moonstone
+  date: '2024-01-23'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMPMIXM/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.3.0.UMPMIXM_9531a81bb0_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.3.0.UMPMIXM
+- android: '14.0'
   codename: nuwa
   date: '2023-12-15'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMBCNXM/fw_nuwa_miui_NUWA_OS1.0.2.0.UMBCNXM_65b5cbc206_14.0.zip
@@ -490,6 +496,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMKCNXM/fw_socrates_miui_SOCRATES_OS1.0.4.0.UMKCNXM_57d472fecf_14.0.zip
   name: Redmi K60 Pro
   version: OS1.0.4.0.UMKCNXM
+- android: '14.0'
+  codename: sunstone
+  date: '2024-01-23'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UMQMIXM/fw_sunstone_miui_SUNSTONEGlobal_OS1.0.2.0.UMQMIXM_a96f7b9dd9_14.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: OS1.0.2.0.UMQMIXM
 - android: '14.0'
   codename: sunstone
   date: '2024-01-12'
