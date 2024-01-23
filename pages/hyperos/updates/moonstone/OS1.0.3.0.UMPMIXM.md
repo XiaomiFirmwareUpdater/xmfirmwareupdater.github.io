@@ -1,7 +1,7 @@
 ---
-title: POCO X5 5G  Global HyperOS OS1.0.3.0.UMPMIXM Update
+title: POCO X5 5G Global HyperOS OS1.0.3.0.UMPMIXM Update
 layout: download
-name: POCO X5 5G  Global
+name: POCO X5 5G Global
 codename: moonstone
 permalink: /hyperos/moonstone/stable beta/OS1.0.3.0.UMPMIXM/
 ---
@@ -9,7 +9,7 @@ permalink: /hyperos/moonstone/stable beta/OS1.0.3.0.UMPMIXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/moonstone/">POCO X5 5G  Global</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/moonstone/">POCO X5 5G Global</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS1.0.3.0.UMPMIXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /hyperos/moonstone/stable beta/OS1.0.3.0.UMPMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.3.0.UMPMIXM Stable Beta Official Update for POCO X5 5G  Global (moonstone)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.3.0.UMPMIXM Stable Beta Official Update for POCO X5 5G Global (moonstone)</h3>
     <h5>This page shows the OS1.0.3.0.UMPMIXM update only. If you're looking for other updates check
         <a href="/hyperos/moonstone/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -44,7 +44,7 @@ permalink: /hyperos/moonstone/stable beta/OS1.0.3.0.UMPMIXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>POCO X5 5G  Global</h5>
+                    <h5><b>Device: </b>POCO X5 5G Global</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/moonstone/" target="_blank">moonstone</a> </h5>

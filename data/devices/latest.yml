@@ -69,15 +69,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2023-06-14'
+  date: '2024-01-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-14.06.2023/fw_alioth_miui_ALIOTHEEAGlobal_V14.0.9.0.TKHEUXM_9e74ef6f25_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/alioth/fw_alioth_miui_ALIOTHEEAGlobal_V14.0.9.0.TKHEUXM_9e74ef6f25_13.0.zip
-  filename: fw_alioth_miui_ALIOTHEEAGlobal_V14.0.9.0.TKHEUXM_9e74ef6f25_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-23.01.2024/fw_alioth_miui_ALIOTHEEAGlobal_V14.0.11.0.TKHEUXM_067e9d6f67_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/alioth/fw_alioth_miui_ALIOTHEEAGlobal_V14.0.11.0.TKHEUXM_067e9d6f67_13.0.zip
+  filename: fw_alioth_miui_ALIOTHEEAGlobal_V14.0.11.0.TKHEUXM_067e9d6f67_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.9.0.TKHEUXM
+    miui: V14.0.11.0.TKHEUXM
 - branch: stable
   date: '2023-11-20'
   downloads:
@@ -4439,15 +4439,25 @@
     android: '7.1'
     miui: 9.10.10
 - branch: stable
-  date: '2024-01-17'
+  date: '2024-01-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphire/releases/download/stable-17.01.2024/fw_sapphire_miui_SAPPHIREGlobal_V14.0.4.0.TNGMIXM_cd13dc01db_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sapphire/fw_sapphire_miui_SAPPHIREGlobal_V14.0.4.0.TNGMIXM_cd13dc01db_13.0.zip
-  filename: fw_sapphire_miui_SAPPHIREGlobal_V14.0.4.0.TNGMIXM_cd13dc01db_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphire/releases/download/stable-23.01.2024/fw_sapphire_miui_SAPPHIREGlobal_V14.0.5.0.TNGMIXM_7284df15fe_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sapphire/fw_sapphire_miui_SAPPHIREGlobal_V14.0.5.0.TNGMIXM_7284df15fe_13.0.zip
+  filename: fw_sapphire_miui_SAPPHIREGlobal_V14.0.5.0.TNGMIXM_7284df15fe_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TNGMIXM
+    miui: V14.0.5.0.TNGMIXM
+- branch: stable
+  date: '2024-01-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphiren/releases/download/stable-23.01.2024/fw_sapphiren_miui_SAPPHIRENGlobal_V14.0.1.0.TNHMIXM_d7f8df09ee_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sapphiren/fw_sapphiren_miui_SAPPHIRENGlobal_V14.0.1.0.TNHMIXM_d7f8df09ee_13.0.zip
+  filename: fw_sapphiren_miui_SAPPHIRENGlobal_V14.0.1.0.TNHMIXM_d7f8df09ee_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.1.0.TNHMIXM
 - branch: stable
   date: '2024-01-18'
   downloads:
@@ -4839,15 +4849,15 @@
     android: '13.0'
     miui: V14.0.1.0.TKFINXM
 - branch: stable
-  date: '2023-12-05'
+  date: '2024-01-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-05.12.2023/fw_taoyao_miui_TAOYAOGlobal_V14.0.8.0.TLIMIXM_855fc95287_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/taoyao/fw_taoyao_miui_TAOYAOGlobal_V14.0.8.0.TLIMIXM_855fc95287_13.0.zip
-  filename: fw_taoyao_miui_TAOYAOGlobal_V14.0.8.0.TLIMIXM_855fc95287_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-23.01.2024/fw_taoyao_miui_TAOYAOGlobal_OS1.0.2.0.ULIMIXM_dbf4b7f872_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOGlobal_OS1.0.2.0.ULIMIXM_dbf4b7f872_14.0.zip
+  filename: fw_taoyao_miui_TAOYAOGlobal_OS1.0.2.0.ULIMIXM_dbf4b7f872_14.0.zip
   region: Global
   versions:
-    android: '13.0'
-    miui: V14.0.8.0.TLIMIXM
+    android: '14.0'
+    miui: OS1.0.2.0.ULIMIXM
 - branch: stable
   date: '2023-12-22'
   downloads:

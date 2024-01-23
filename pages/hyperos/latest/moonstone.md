@@ -52,7 +52,7 @@ permalink: /hyperos/moonstone/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO X5 5G  Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UMPMIXM</td><td>14.0</td><td>3.9 GB</td><td>2024-01-19</td><td><a href="/hyperos/moonstone/stable beta/OS1.0.3.0.UMPMIXM/">Download</a></td></tr>
+                <tr><td>POCO X5 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UMPMIXM</td><td>14.0</td><td>3.9 GB</td><td>2024-01-19</td><td><a href="/hyperos/moonstone/stable beta/OS1.0.3.0.UMPMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

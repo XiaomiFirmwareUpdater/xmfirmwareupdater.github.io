@@ -4,16 +4,36 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 23 Jan 2024 07:10:44 </lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 13:27:31 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.11.0.TKHEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/alioth/</link>
+            <pubDate>Tue, 23 Jan 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>POCO X5 5G (moonstone) - OS1.0.3.0.UMPMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
             <pubDate>Tue, 23 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Note 13 (sapphire) - V14.0.5.0.TNGMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sapphire/</link>
+            <pubDate>Tue, 23 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 NFC (sapphiren) - V14.0.1.0.TNHMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sapphiren/</link>
+            <pubDate>Tue, 23 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS1.0.2.0.UMQMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
+            <pubDate>Tue, 23 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Lite (taoyao) - OS1.0.2.0.ULIMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/taoyao/</link>
             <pubDate>Tue, 23 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -129,11 +149,6 @@
         <item>
             <title>Xiaomi Pad 6 (pipa) - OS1.0.3.0.UMZEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/pipa/</link>
-            <pubDate>Wed, 17 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 (sapphire) - V14.0.4.0.TNGMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sapphire/</link>
             <pubDate>Wed, 17 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -907,11 +922,6 @@
             <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12 Lite (taoyao) - V14.0.8.0.TLIMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/taoyao/</link>
-            <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.6.0.TLOINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
             <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
@@ -1290,11 +1300,6 @@
             <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V14.0.5.0.TKSMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/camellian/</link>
             <pubDate>Sun, 25 Jun 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.9.0.TKHEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/alioth/</link>
-            <pubDate>Wed, 14 Jun 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi 10 Ultra (cas) - V14.0.2.0.TJJCNXM</title>

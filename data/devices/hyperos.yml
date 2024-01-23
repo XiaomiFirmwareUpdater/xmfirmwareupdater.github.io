@@ -509,6 +509,12 @@
   name: Redmi Note 12 5G/Note 12R Pro
   version: OS1.0.2.0.UMQEUXM
 - android: '14.0'
+  codename: taoyao
+  date: '2024-01-23'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULIMIXM/fw_taoyao_miui_TAOYAOGlobal_OS1.0.2.0.ULIMIXM_dbf4b7f872_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.2.0.ULIMIXM
+- android: '14.0'
   codename: tapas
   date: '2024-01-15'
   download: https://bigota.d.miui.com/OS1.0.1.0.UMTINXM/fw_tapas_miui_TAPASINGlobal_OS1.0.1.0.UMTINXM_f868289c5c_14.0.zip
