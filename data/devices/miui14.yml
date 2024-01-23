@@ -3762,6 +3762,12 @@
   version: V14.0.5.0.TNGMIXM
 - android: '13.0'
   codename: sapphire
+  date: '2024-01-23'
+  download: https://bigota.d.miui.com/V14.0.6.0.TNGMIXM/fw_sapphire_miui_SAPPHIREGlobal_V14.0.6.0.TNGMIXM_5bceccd334_13.0.zip
+  name: Redmi Note 13
+  version: V14.0.6.0.TNGMIXM
+- android: '13.0'
+  codename: sapphire
   date: '2024-01-17'
   download: https://bigota.d.miui.com/V14.0.4.0.TNGMIXM/fw_sapphire_miui_SAPPHIREGlobal_V14.0.4.0.TNGMIXM_cd13dc01db_13.0.zip
   name: Redmi Note 13
@@ -5110,6 +5116,12 @@
   download: https://bigota.d.miui.com/V14.0.8.0.TGOINXM/fw_water_miui_WATERINGlobal_V14.0.8.0.TGOINXM_163e799109_13.0.zip
   name: Redmi A2/A2+/POCO C51
   version: V14.0.8.0.TGOINXM
+- android: '13.0'
+  codename: water
+  date: '2024-01-23'
+  download: https://bigota.d.miui.com/V14.0.24.0.TGOMIXM/fw_water_miui_WATERGlobal_V14.0.24.0.TGOMIXM_e2f5f80463_13.0.zip
+  name: Redmi A2/A2+/POCO C51
+  version: V14.0.24.0.TGOMIXM
 - android: '13.0'
   codename: water
   date: '2023-12-22'

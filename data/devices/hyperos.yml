@@ -587,6 +587,12 @@
   name: Redmi Pad
   version: OS1.0.2.0.ULYCNXM
 - android: '14.0'
+  codename: zeus
+  date: '2024-01-23'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULBEUXM/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.2.0.ULBEUXM_6813469e89_14.0.zip
+  name: Xiaomi 12 Pro
+  version: OS1.0.2.0.ULBEUXM
+- android: '14.0'
   codename: zizhan
   date: '2023-12-25'
   download: https://bigota.d.miui.com/OS1.0.2.0.ULRCNXM/fw_zizhan_miui_ZIZHAN_OS1.0.2.0.ULRCNXM_145e69abdf_14.0.zip

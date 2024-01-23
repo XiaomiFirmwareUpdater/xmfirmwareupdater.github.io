@@ -5489,15 +5489,15 @@
     android: '13.0'
     miui: V14.0.5.0.TGDEUXM
 - branch: stable
-  date: '2023-11-23'
+  date: '2024-01-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-23.11.2023/fw_water_miui_WATERGlobal_V14.0.23.0.TGOMIXM_7945213079_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERGlobal_V14.0.23.0.TGOMIXM_7945213079_13.0.zip
-  filename: fw_water_miui_WATERGlobal_V14.0.23.0.TGOMIXM_7945213079_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-23.01.2024/fw_water_miui_WATERGlobal_V14.0.24.0.TGOMIXM_e2f5f80463_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERGlobal_V14.0.24.0.TGOMIXM_e2f5f80463_13.0.zip
+  filename: fw_water_miui_WATERGlobal_V14.0.24.0.TGOMIXM_e2f5f80463_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.23.0.TGOMIXM
+    miui: V14.0.24.0.TGOMIXM
 - branch: stable
   date: '2024-01-18'
   downloads:
@@ -5799,15 +5799,15 @@
     android: '13.0'
     miui: V14.0.18.0.TLBCNXM
 - branch: stable
-  date: '2024-01-12'
+  date: '2024-01-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-12.01.2024/fw_zeus_miui_ZEUSEEAGlobal_V14.0.18.0.TLBEUXM_9f384902ae_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zeus/fw_zeus_miui_ZEUSEEAGlobal_V14.0.18.0.TLBEUXM_9f384902ae_13.0.zip
-  filename: fw_zeus_miui_ZEUSEEAGlobal_V14.0.18.0.TLBEUXM_9f384902ae_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-23.01.2024/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.2.0.ULBEUXM_6813469e89_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zeus/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.2.0.ULBEUXM_6813469e89_14.0.zip
+  filename: fw_zeus_miui_ZEUSEEAGlobal_OS1.0.2.0.ULBEUXM_6813469e89_14.0.zip
   region: Europe
   versions:
-    android: '13.0'
-    miui: V14.0.18.0.TLBEUXM
+    android: '14.0'
+    miui: OS1.0.2.0.ULBEUXM
 - branch: stable
   date: '2024-01-12'
   downloads:

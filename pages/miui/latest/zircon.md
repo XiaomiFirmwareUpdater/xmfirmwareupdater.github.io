@@ -64,6 +64,8 @@ permalink: /miui/zircon/
 <tr><td>Redmi Note 13 Pro+ 5G India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TNOINXM</td><td>13.0</td><td>5.5 GB</td><td>2024-01-19</td><td><a href="/miui/zircon/stable beta/V14.0.2.0.TNOINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro+ 5G Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TNORUXM</td><td>13.0</td><td>8.0 GB</td><td>2023-10-27</td><td><a href="/miui/zircon/stable/V14.0.1.0.TNORUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro+ 5G Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TNORUXM</td><td>13.0</td><td>5.4 GB</td><td>2024-01-23</td><td><a href="/miui/zircon/stable/V14.0.1.0.TNORUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro+ 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TNOTWXM</td><td>13.0</td><td>7.1 GB</td><td>2023-11-23</td><td><a href="/miui/zircon/stable/V14.0.1.0.TNOTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro+ 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TNOTWXM</td><td>13.0</td><td>5.4 GB</td><td>2024-01-23</td><td><a href="/miui/zircon/stable/V14.0.1.0.TNOTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
