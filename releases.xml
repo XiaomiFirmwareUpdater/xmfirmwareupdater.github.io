@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 24 Jan 2024 00:34:28 </lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 06:36:03 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.2.0.UMNMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
+            <pubDate>Wed, 24 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.3.0.UMOCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Wed, 24 Jan 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.11.0.TKHEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/alioth/</link>
@@ -359,11 +369,6 @@
         <item>
             <title>Redmi K50 Pro (matisse) - V14.0.15.0.TLKCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/matisse/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.1.0.UMNMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -919,11 +924,6 @@
         <item>
             <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.5.0.TKPMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/chopin/</link>
-            <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.5.0.TMOCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>

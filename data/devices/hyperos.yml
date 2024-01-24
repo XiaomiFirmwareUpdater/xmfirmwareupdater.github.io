@@ -294,6 +294,12 @@
   version: OS1.0.2.0.UMRMIXM
 - android: '14.0'
   codename: mondrian
+  date: '2024-01-24'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UMNMIXM/fw_mondrian_miui_MONDRIANGlobal_OS1.0.2.0.UMNMIXM_672ad494ad_14.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS1.0.2.0.UMNMIXM
+- android: '14.0'
+  codename: mondrian
   date: '2023-12-19'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMNCNXM/fw_mondrian_miui_MONDRIAN_OS1.0.2.0.UMNCNXM_39d36cb035_14.0.zip
   name: Redmi K60/POCO F5 Pro
@@ -406,6 +412,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULUMIXM/fw_rock_miui_ROCKGlobal_OS1.0.2.0.ULUMIXM_9efe5227fe_14.0.zip
   name: POCO M5/Redmi 11 Prime 4G
   version: OS1.0.2.0.ULUMIXM
+- android: '14.0'
+  codename: ruby
+  date: '2024-01-24'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMOCNXM/fw_ruby_miui_RUBY_OS1.0.3.0.UMOCNXM_c06e478636_14.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS1.0.3.0.UMOCNXM
 - android: '14.0'
   codename: sea
   date: '2024-01-12'

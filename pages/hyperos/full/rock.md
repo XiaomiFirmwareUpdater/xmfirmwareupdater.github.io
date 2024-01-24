@@ -52,7 +52,8 @@ permalink: /archive/hyperos/rock/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO M5 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.ULUMIXM</td><td>14.0</td><td>4.0 GB</td><td>2024-01-11</td><td><a href="/hyperos/rock/stable beta/OS1.0.2.0.ULUMIXM/">Download</a></td></tr>
+                <tr><td>POCO M5 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULUMIXM</td><td>14.0</td><td>6.6 GB</td><td>2024-01-24</td><td><a href="/hyperos/rock/stable/OS1.0.2.0.ULUMIXM/">Download</a></td></tr>
+<tr><td>POCO M5 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULUMIXM</td><td>14.0</td><td>4.0 GB</td><td>2024-01-11</td><td><a href="/hyperos/rock/stable/OS1.0.2.0.ULUMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
