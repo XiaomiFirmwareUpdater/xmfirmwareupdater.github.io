@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 24 Jan 2024 06:36:03 </lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 12:36:02 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.2.0.UMNMIXM</title>
@@ -14,6 +14,11 @@
         <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.3.0.UMOCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Wed, 24 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K60 Pro (socrates) - OS1.0.5.0.UMKCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/socrates/</link>
             <pubDate>Wed, 24 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -439,11 +444,6 @@
         <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS1.0.5.0.UMWCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60 Pro (socrates) - OS1.0.4.0.UMKCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/socrates/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
