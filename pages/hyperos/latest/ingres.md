@@ -52,8 +52,9 @@ permalink: /hyperos/ingres/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50G China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.8 GB</td><td>2024-01-12</td><td><a href="/hyperos/ingres/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
-<tr><td>Redmi K50G China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.ULJCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-01-15</td><td><a href="/hyperos/ingres/stable beta/OS1.0.1.0.ULJCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K50G China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.ULJCNXM</td><td>14.0</td><td>7.0 GB</td><td>2024-01-24</td><td><a href="/hyperos/ingres/stable/OS1.0.1.0.ULJCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50G China</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.ULJCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-01-15</td><td><a href="/hyperos/ingres/stable/OS1.0.1.0.ULJCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50G China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.8 GB</td><td>2024-01-12</td><td><a href="/hyperos/ingres/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

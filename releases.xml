@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 24 Jan 2024 12:36:02 </lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 19:11:38 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.2.0.UMNMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
+            <pubDate>Wed, 24 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>POCO M5/Redmi 11 Prime 4G (rock) - V14.0.6.0.TLUINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/rock/</link>
             <pubDate>Wed, 24 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -1124,11 +1129,6 @@
         <item>
             <title>Redmi K40 Gaming/POCO F3 GT (ares) - V14.0.5.0.TKJINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ares/</link>
-            <pubDate>Thu, 19 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO M5/Redmi 11 Prime 4G (rock) - V14.0.3.0.TLUINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/rock/</link>
             <pubDate>Thu, 19 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
