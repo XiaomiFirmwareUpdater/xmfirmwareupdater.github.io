@@ -4932,6 +4932,12 @@
   version: V14.0.3.0.TKCMIXM
 - android: '13.0'
   codename: vida
+  date: '2024-01-25'
+  download: https://bigota.d.miui.com/V14.0.4.0.TGDINXM/fw_vida_miui_VIDAINGlobal_V14.0.4.0.TGDINXM_3ac62ab4e4_13.0.zip
+  name: Redmi Note 11 Pro 4G
+  version: V14.0.4.0.TGDINXM
+- android: '13.0'
+  codename: vida
   date: '2023-06-09'
   download: https://bigota.d.miui.com/V14.0.1.0.TGDINXM/fw_vida_miui_VIDAINGlobal_V14.0.1.0.TGDINXM_dfe584a0d1_13.0.zip
   name: Redmi Note 11 Pro 4G

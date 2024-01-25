@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 25 Jan 2024 12:48:42 </lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 19:06:22 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro (emerald) - V14.0.4.0.TNFEUXM</title>
@@ -14,6 +14,16 @@
         <item>
             <title>Redmi Note 11S 5G (opal) - V14.0.5.0.TGLMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/opal/</link>
+            <pubDate>Thu, 25 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>POCO M5/Redmi 11 Prime 4G (rock) - OS1.0.1.0.ULUEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/rock/</link>
+            <pubDate>Thu, 25 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11 Pro 4G (vida) - V14.0.4.0.TGDINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/vida/</link>
             <pubDate>Thu, 25 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -1097,11 +1107,6 @@
             <pubDate>Mon, 06 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 11 Pro 4G (vida) - V14.0.3.0.TGDINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/vida/</link>
-            <pubDate>Mon, 06 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Mi 11 Lite 4G (courbet) - V14.0.4.0.TKQMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/courbet/</link>
             <pubDate>Fri, 03 Nov 2023 00:00:00 </pubDate>
@@ -1454,11 +1459,6 @@
         <item>
             <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V14.0.2.0.SJSCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/gauguin/</link>
-            <pubDate>Fri, 24 Mar 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO M5/Redmi 11 Prime 4G (rock) - V14.0.1.0.TLUEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/rock/</link>
             <pubDate>Fri, 24 Mar 2023 00:00:00 </pubDate>
         </item>
         <item>

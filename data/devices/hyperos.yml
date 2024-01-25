@@ -408,6 +408,12 @@
   version: OS1.0.3.0.UMSCNXM
 - android: '14.0'
   codename: rock
+  date: '2024-01-25'
+  download: https://bigota.d.miui.com/OS1.0.1.0.ULUEUXM/fw_rock_miui_ROCKEEAGlobal_OS1.0.1.0.ULUEUXM_319d8dd16f_14.0.zip
+  name: POCO M5/Redmi 11 Prime 4G
+  version: OS1.0.1.0.ULUEUXM
+- android: '14.0'
+  codename: rock
   date: '2024-01-15'
   download: https://bigota.d.miui.com/OS1.0.2.0.ULUMIXM/fw_rock_miui_ROCKGlobal_OS1.0.2.0.ULUMIXM_9efe5227fe_14.0.zip
   name: POCO M5/Redmi 11 Prime 4G
