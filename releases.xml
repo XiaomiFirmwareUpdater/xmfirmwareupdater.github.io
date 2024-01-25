@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 25 Jan 2024 06:34:01 </lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 12:48:42 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 Pro 4G/POCO M6 Pro (emerald) - V14.0.4.0.TNFEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/emerald/</link>
+            <pubDate>Thu, 25 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11S 5G (opal) - V14.0.5.0.TGLMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/opal/</link>
+            <pubDate>Thu, 25 Jan 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.2.0.UMNMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
@@ -120,11 +130,6 @@
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - V14.0.5.0.TGQINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/air/</link>
             <pubDate>Sat, 20 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro 4G/POCO M6 Pro (emerald) - V14.0.3.0.TNFEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/emerald/</link>
-            <pubDate>Fri, 19 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V14.0.6.0.TKEEUXM</title>
@@ -1069,11 +1074,6 @@
         <item>
             <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.16.0.RCZINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/dandelion/</link>
-            <pubDate>Mon, 13 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11S 5G (opal) - V14.0.4.0.TGLMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/opal/</link>
             <pubDate>Mon, 13 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
