@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) HyperOS Downloads
+title: Xiaomi 13T (aristotle) HyperOS Downloads
 layout: download
-name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
-codename: redwood
-permalink: /archive/hyperos/redwood/
+name: Xiaomi 13T
+codename: aristotle
+permalink: /archive/hyperos/aristotle/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/redwood/">Redmi Note 12 Pro Speed/POCO X5 Pro 5G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/aristotle/">Xiaomi 13T</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /archive/hyperos/redwood/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows all available downloads.
      If you're looking for the latest releases check or other downloads check:</p>
-    <a href="/hyperos/redwood/" class="card-link">Latest HyperOS</a>
-    <a href="/firmware/redwood/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/redwood/" class="card-link">Vendor Downloads</a>
+    <a href="/hyperos/aristotle/" class="card-link">Latest HyperOS</a>
+    <a href="/firmware/aristotle/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/aristotle/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,8 +52,7 @@ permalink: /archive/hyperos/redwood/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12 Pro Speed China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UMSCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-01-26</td><td><a href="/hyperos/redwood/stable/OS1.0.3.0.UMSCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 Pro Speed China</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UMSCNXM</td><td>14.0</td><td>5.6 GB</td><td>2024-01-10</td><td><a href="/hyperos/redwood/stable/OS1.0.3.0.UMSCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 13T Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UMFIDXM</td><td>14.0</td><td>5.7 GB</td><td>2024-01-23</td><td><a href="/hyperos/aristotle/stable beta/OS1.0.2.0.UMFIDXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

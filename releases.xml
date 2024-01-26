@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 26 Jan 2024 06:33:47 </lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 12:35:18 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.5.0.TMQINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
+            <pubDate>Fri, 26 Jan 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Pad (yunluo) - OS1.0.1.0.ULYMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/yunluo/</link>
@@ -999,11 +1004,6 @@
         <item>
             <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V14.0.8.0.TKLMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/rosemary/</link>
-            <pubDate>Thu, 23 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.4.0.TMQINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Thu, 23 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>

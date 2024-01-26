@@ -58539,6 +58539,16 @@
     android: '13.0'
     miui: V14.0.8.0.TMQCNXM
 - branch: stable
+  date: '2024-01-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-26.01.2024/fw_sunstone_miui_SUNSTONEINGlobal_V14.0.5.0.TMQINXM_2611bc8da5_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sunstone/fw_sunstone_miui_SUNSTONEINGlobal_V14.0.5.0.TMQINXM_2611bc8da5_13.0.zip
+  filename: fw_sunstone_miui_SUNSTONEINGlobal_V14.0.5.0.TMQINXM_2611bc8da5_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TMQINXM
+- branch: stable
   date: '2023-06-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-25.06.2023/fw_sunstone_miui_SUNSTONEINGlobal_V14.0.2.0.TMQINXM_2a22a38aaf_13.0.zip
