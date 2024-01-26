@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 25 Jan 2024 19:06:22 </lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 06:33:47 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Pad (yunluo) - OS1.0.1.0.ULYMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/yunluo/</link>
+            <pubDate>Fri, 26 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 12C/POCO C55 (earth) - V14.0.8.0.TCVEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
+            <pubDate>Thu, 25 Jan 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro (emerald) - V14.0.4.0.TNFEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/emerald/</link>
@@ -682,11 +692,6 @@
             <pubDate>Wed, 20 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad (yunluo) - V14.0.4.0.TLYMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/yunluo/</link>
-            <pubDate>Wed, 20 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad (yunluo) - V14.0.5.0.TLYEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/yunluo/</link>
             <pubDate>Wed, 20 Dec 2023 00:00:00 </pubDate>
@@ -1038,11 +1043,6 @@
         </item>
         <item>
             <title>Redmi 12C/POCO C55 (earth) - V14.0.4.0.TCVCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Fri, 17 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12C/POCO C55 (earth) - V14.0.7.0.TCVEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
             <pubDate>Fri, 17 Nov 2023 00:00:00 </pubDate>
         </item>

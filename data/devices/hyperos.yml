@@ -606,6 +606,12 @@
   version: OS1.0.4.0.UMICNXM
 - android: '14.0'
   codename: yunluo
+  date: '2024-01-26'
+  download: https://bigota.d.miui.com/OS1.0.1.0.ULYMIXM/fw_yunluo_miui_YUNLUOGlobal_OS1.0.1.0.ULYMIXM_0c6045c79e_14.0.zip
+  name: Redmi Pad
+  version: OS1.0.1.0.ULYMIXM
+- android: '14.0'
+  codename: yunluo
   date: '2024-01-12'
   download: https://bigota.d.miui.com/OS1.0.2.0.ULYCNXM/fw_yunluo_miui_YUNLUO_OS1.0.2.0.ULYCNXM_b72482c1f6_14.0.zip
   name: Redmi Pad
