@@ -2019,15 +2019,15 @@
     android: '7.0'
     miui: 8.4.12
 - branch: stable
-  date: '2024-01-12'
+  date: '2024-01-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-12.01.2024/fw_houji_miui_HOUJI_OS1.0.28.0.UNCCNXM_7da71e0992_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.28.0.UNCCNXM_7da71e0992_14.0.zip
-  filename: fw_houji_miui_HOUJI_OS1.0.28.0.UNCCNXM_7da71e0992_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-27.01.2024/fw_houji_miui_HOUJI_OS1.0.31.0.UNCCNXM_5bfc75981b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.31.0.UNCCNXM_5bfc75981b_14.0.zip
+  filename: fw_houji_miui_HOUJI_OS1.0.31.0.UNCCNXM_5bfc75981b_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.28.0.UNCCNXM
+    miui: OS1.0.31.0.UNCCNXM
 - branch: stable
   date: '2019-05-13'
   downloads:
@@ -4859,15 +4859,15 @@
     android: '14.0'
     miui: OS1.0.2.0.ULIMIXM
 - branch: stable
-  date: '2023-12-22'
+  date: '2024-01-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-22.12.2023/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.25.0.TLIEUXM_32179deb0b_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.25.0.TLIEUXM_32179deb0b_13.0.zip
-  filename: fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.25.0.TLIEUXM_32179deb0b_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-27.01.2024/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.2.0.ULIEUXM_bc84777c39_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.2.0.ULIEUXM_bc84777c39_14.0.zip
+  filename: fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.2.0.ULIEUXM_bc84777c39_14.0.zip
   region: Europe
   versions:
-    android: '13.0'
-    miui: V14.0.25.0.TLIEUXM
+    android: '14.0'
+    miui: OS1.0.2.0.ULIEUXM
 - branch: stable
   date: '2024-01-12'
   downloads:

@@ -156,6 +156,12 @@
   version: OS1.0.9.0.UNCCNXM
 - android: '14.0'
   codename: houji
+  date: '2024-01-27'
+  download: https://bigota.d.miui.com/OS1.0.31.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.31.0.UNCCNXM_5bfc75981b_14.0.zip
+  name: Xiaomi 14
+  version: OS1.0.31.0.UNCCNXM
+- android: '14.0'
+  codename: houji
   date: '2023-11-23'
   download: https://bigota.d.miui.com/OS1.0.24.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.24.0.UNCCNXM_491d1bbdd1_14.0.zip
   name: Xiaomi 14
@@ -538,6 +544,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.2.0.UMQEUXM_c59a8d3a4c_14.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
   version: OS1.0.2.0.UMQEUXM
+- android: '14.0'
+  codename: taoyao
+  date: '2024-01-27'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.2.0.ULIEUXM_bc84777c39_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.2.0.ULIEUXM
 - android: '14.0'
   codename: taoyao
   date: '2024-01-23'

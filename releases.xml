@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 27 Jan 2024 12:33:49 </lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 18:36:55 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 (houji) - OS1.0.31.0.UNCCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Sat, 27 Jan 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS1.0.3.0.UMWMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
+            <pubDate>Sat, 27 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Lite (taoyao) - OS1.0.2.0.ULIEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/taoyao/</link>
             <pubDate>Sat, 27 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -347,11 +357,6 @@
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 14 (houji) - OS1.0.28.0.UNCCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi A1/POCO C50/A1+ (ice) - V13.0.20.0.SGMMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ice/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
@@ -669,11 +674,6 @@
         <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.4.0.UMREUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Fri, 22 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Lite (taoyao) - V14.0.25.0.TLIEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/taoyao/</link>
             <pubDate>Fri, 22 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>

@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2024-01-12'
+  date: '2024-01-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-12.01.2024/fw_houji_miui_HOUJI_OS1.0.28.0.UNCCNXM_7da71e0992_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.28.0.UNCCNXM_7da71e0992_14.0.zip
-  filename: fw_houji_miui_HOUJI_OS1.0.28.0.UNCCNXM_7da71e0992_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-27.01.2024/fw_houji_miui_HOUJI_OS1.0.31.0.UNCCNXM_5bfc75981b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.31.0.UNCCNXM_5bfc75981b_14.0.zip
+  filename: fw_houji_miui_HOUJI_OS1.0.31.0.UNCCNXM_5bfc75981b_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.28.0.UNCCNXM
+    miui: OS1.0.31.0.UNCCNXM
