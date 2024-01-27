@@ -498,6 +498,12 @@
   version: OS1.0.14.0.UNBCNXM
 - android: '14.0'
   codename: sky
+  date: '2024-01-27'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMWMIXM/fw_sky_miui_SKYGlobal_OS1.0.3.0.UMWMIXM_1e2037e27c_14.0.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS1.0.3.0.UMWMIXM
+- android: '14.0'
+  codename: sky
   date: '2024-01-12'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMWCNXM/fw_sky_miui_SKY_OS1.0.5.0.UMWCNXM_eeb6f6c209_14.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G

@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 27 Jan 2024 00:33:53 </lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 06:55:31 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS1.0.3.0.UMWMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
+            <pubDate>Sat, 27 Jan 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.5.0.TMQINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
@@ -780,11 +785,6 @@
             <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V14.0.4.0.TGBCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/evergo/</link>
             <pubDate>Sun, 17 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.4.0.TMWMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
-            <pubDate>Sat, 16 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.10.0.TMQCNXM</title>
