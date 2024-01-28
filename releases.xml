@@ -4,10 +4,15 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 28 Jan 2024 12:33:47 </lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2024 19:16:48 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - V14.0.8.0.TNQCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
+            <pubDate>Sun, 28 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - V14.0.3.0.TNQINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
             <pubDate>Sun, 28 Jan 2024 00:00:00 </pubDate>
         </item>
@@ -343,11 +348,6 @@
         </item>
         <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - V14.0.3.0.TNQEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - V14.0.1.0.TNQINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
