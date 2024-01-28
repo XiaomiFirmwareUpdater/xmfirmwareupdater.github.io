@@ -52,7 +52,8 @@ permalink: /archive/miui/gold/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 13 5G / POCO X6 Neo 5G India</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TNQINXM</td><td>13.0</td><td>4.3 GB</td><td>2024-01-09</td><td><a href="/miui/gold/stable/V14.0.1.0.TNQINXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 13 5G / 13R Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.8.0.TNQCNXM</td><td>13.0</td><td>5.0 GB</td><td>2024-01-26</td><td><a href="/miui/gold/stable beta/V14.0.8.0.TNQCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 5G / POCO X6 Neo 5G India</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TNQINXM</td><td>13.0</td><td>4.3 GB</td><td>2024-01-09</td><td><a href="/miui/gold/stable/V14.0.1.0.TNQINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 5G / POCO X6 Neo 5G India</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TNQINXM</td><td>13.0</td><td>5.8 GB</td><td>2023-11-16</td><td><a href="/miui/gold/stable/V14.0.1.0.TNQINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 5G / POCO X6 Neo 5G Global</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TNQMIXM</td><td>13.0</td><td>4.4 GB</td><td>2024-01-09</td><td><a href="/miui/gold/stable/V14.0.1.0.TNQMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 5G / POCO X6 Neo 5G Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TNQMIXM</td><td>13.0</td><td>7.4 GB</td><td>2023-11-17</td><td><a href="/miui/gold/stable/V14.0.1.0.TNQMIXM/">Download</a></td></tr>
