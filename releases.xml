@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 29 Jan 2024 12:45:15 </lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 19:20:03 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 12 (cupid) - OS1.0.3.0.ULCEUXM</title>
@@ -14,6 +14,11 @@
         <item>
             <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.13.0.RCZEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/dandelion/</link>
+            <pubDate>Mon, 29 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.10.0.UNLCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Mon, 29 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -34,6 +39,11 @@
         <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.1.0.UMOMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Mon, 29 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 NFC (sapphiren) - V14.0.3.0.TNHMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sapphiren/</link>
             <pubDate>Mon, 29 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -139,11 +149,6 @@
         <item>
             <title>Redmi Note 13 (sapphire) - V14.0.5.0.TNGMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sapphire/</link>
-            <pubDate>Tue, 23 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 NFC (sapphiren) - V14.0.1.0.TNHMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sapphiren/</link>
             <pubDate>Tue, 23 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -634,11 +639,6 @@
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS1.0.2.0.ULFCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
-            <pubDate>Thu, 11 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.8.0.UNLCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Thu, 11 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
