@@ -2574,6 +2574,12 @@
   version: V14.0.6.0.TLMINXM
 - android: '13.0'
   codename: nabu
+  date: '2024-01-29'
+  download: https://bigota.d.miui.com/V14.0.9.0.TKXEUXM/fw_nabu_miui_NABUEEAGlobal_V14.0.9.0.TKXEUXM_1d4e4051dd_13.0.zip
+  name: Xiaomi Pad 5
+  version: V14.0.9.0.TKXEUXM
+- android: '13.0'
+  codename: nabu
   date: '2024-01-22'
   download: https://bigota.d.miui.com/V14.0.8.0.TKXMIXM/fw_nabu_miui_NABUGlobal_V14.0.8.0.TKXMIXM_9c00adffab_13.0.zip
   name: Xiaomi Pad 5
@@ -5476,6 +5482,12 @@
   download: https://bigota.d.miui.com/V14.0.8.0.TLYCNXM/fw_yunluo_miui_YUNLUO_V14.0.8.0.TLYCNXM_bc058890f2_13.0.zip
   name: Redmi Pad
   version: V14.0.8.0.TLYCNXM
+- android: '13.0'
+  codename: zeus
+  date: '2024-01-29'
+  download: https://bigota.d.miui.com/V14.0.10.0.TLBMIXM/fw_zeus_miui_ZEUSGlobal_V14.0.10.0.TLBMIXM_0fe93f8357_13.0.zip
+  name: Xiaomi 12 Pro
+  version: V14.0.10.0.TLBMIXM
 - android: '13.0'
   codename: zeus
   date: '2023-07-28'

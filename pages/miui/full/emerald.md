@@ -53,7 +53,8 @@ permalink: /archive/miui/emerald/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TNFEUXM</td><td>13.0</td><td>4.5 GB</td><td>2024-01-25</td><td><a href="/miui/emerald/stable beta/V14.0.4.0.TNFEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TNFIDXM</td><td>13.0</td><td>4.5 GB</td><td>2024-01-24</td><td><a href="/miui/emerald/stable beta/V14.0.4.0.TNFIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TNFIDXM</td><td>13.0</td><td>4.5 GB</td><td>2024-01-24</td><td><a href="/miui/emerald/stable/V14.0.4.0.TNFIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TNFIDXM</td><td>13.0</td><td>6.6 GB</td><td>2024-01-16</td><td><a href="/miui/emerald/stable/V14.0.4.0.TNFIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TNFEUXM</td><td>13.0</td><td>4.4 GB</td><td>2024-01-19</td><td><a href="/miui/emerald/stable/V14.0.3.0.TNFEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TNFEUXM</td><td>13.0</td><td>6.7 GB</td><td>2023-12-26</td><td><a href="/miui/emerald/stable/V14.0.3.0.TNFEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TNFRUXM</td><td>13.0</td><td>4.4 GB</td><td>2024-01-19</td><td><a href="/miui/emerald/stable/V14.0.3.0.TNFRUXM/">Download</a></td></tr>

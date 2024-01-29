@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2023-10-24'
+  date: '2024-01-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-24.10.2023/fw_zeus_miui_ZEUSGlobal_V14.0.9.0.TLBMIXM_33fcfe4410_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zeus/fw_zeus_miui_ZEUSGlobal_V14.0.9.0.TLBMIXM_33fcfe4410_13.0.zip
-  filename: fw_zeus_miui_ZEUSGlobal_V14.0.9.0.TLBMIXM_33fcfe4410_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-29.01.2024/fw_zeus_miui_ZEUSGlobal_V14.0.10.0.TLBMIXM_0fe93f8357_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zeus/fw_zeus_miui_ZEUSGlobal_V14.0.10.0.TLBMIXM_0fe93f8357_13.0.zip
+  filename: fw_zeus_miui_ZEUSGlobal_V14.0.10.0.TLBMIXM_0fe93f8357_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.9.0.TLBMIXM
+    miui: V14.0.10.0.TLBMIXM
 - branch: stable
   date: '2024-01-12'
   downloads:

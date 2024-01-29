@@ -53,6 +53,7 @@ permalink: /archive/hyperos/aristotle/
                 </thead>
                 <tbody>
                 <tr><td>Xiaomi 13T Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UMFIDXM</td><td>14.0</td><td>5.7 GB</td><td>2024-01-23</td><td><a href="/hyperos/aristotle/stable beta/OS1.0.2.0.UMFIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UMFTWXM</td><td>14.0</td><td>5.6 GB</td><td>2024-01-23</td><td><a href="/hyperos/aristotle/stable beta/OS1.0.1.0.UMFTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

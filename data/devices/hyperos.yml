@@ -41,6 +41,12 @@
   name: Redmi K60 Ultra/Xiaomi 13T Pro
   version: OS1.0.4.0.UMLCNXM
 - android: '14.0'
+  codename: cupid
+  date: '2024-01-29'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULCEUXM/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.3.0.ULCEUXM_df8db6d1bf_14.0.zip
+  name: Xiaomi 12
+  version: OS1.0.3.0.ULCEUXM
+- android: '14.0'
   codename: diting
   date: '2024-01-21'
   download: https://bigota.d.miui.com/OS1.0.1.0.ULFEUXM/fw_diting_miui_DITINGEEAGlobal_OS1.0.1.0.ULFEUXM_10053329d1_14.0.zip
@@ -408,6 +414,12 @@
   version: OS1.0.5.0.ULQMIXM
 - android: '14.0'
   codename: redwood
+  date: '2024-01-29'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMSCNXM/fw_redwood_miui_REDWOOD_OS1.0.4.0.UMSCNXM_33c3abb2d0_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.4.0.UMSCNXM
+- android: '14.0'
+  codename: redwood
   date: '2024-01-15'
   download: https://bigota.d.miui.com/OS1.0.3.0.UMSCNXM/fw_redwood_miui_REDWOOD_OS1.0.3.0.UMSCNXM_964b907423_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
@@ -568,6 +580,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMTMIXM/fw_tapas_miui_TAPASGlobal_OS1.0.2.0.UMTMIXM_9d39c3791b_14.0.zip
   name: Redmi Note 12 4G
   version: OS1.0.2.0.UMTMIXM
+- android: '14.0'
+  codename: thor
+  date: '2024-01-29'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULACNXM/fw_thor_miui_THOR_OS1.0.4.0.ULACNXM_12b58f6ae6_14.0.zip
+  name: Xiaomi 12S Ultra
+  version: OS1.0.4.0.ULACNXM
 - android: '14.0'
   codename: topaz
   date: '2024-01-22'

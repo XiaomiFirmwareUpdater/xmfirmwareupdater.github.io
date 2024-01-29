@@ -4,8 +4,33 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 29 Jan 2024 00:33:40 </lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 06:51:18 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 12 (cupid) - OS1.0.3.0.ULCEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/cupid/</link>
+            <pubDate>Mon, 29 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 5 (nabu) - V14.0.9.0.TKXEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/nabu/</link>
+            <pubDate>Mon, 29 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS1.0.4.0.UMSCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/redwood/</link>
+            <pubDate>Mon, 29 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12S Ultra (thor) - OS1.0.4.0.ULACNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/thor/</link>
+            <pubDate>Mon, 29 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - V14.0.10.0.TLBMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
+            <pubDate>Mon, 29 Jan 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - V14.0.8.0.TNQCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
@@ -269,11 +294,6 @@
         <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.8.0.TKOINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/lisa/</link>
-            <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS1.0.3.0.UMSCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/redwood/</link>
             <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -592,11 +612,6 @@
             <pubDate>Thu, 11 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12 (cupid) - V14.0.15.0.TLCEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/cupid/</link>
-            <pubDate>Thu, 11 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.5.0.TLFMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
             <pubDate>Thu, 11 Jan 2024 00:00:00 </pubDate>
@@ -767,11 +782,6 @@
             <pubDate>Mon, 18 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12S Ultra (thor) - V14.0.15.0.TLACNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/thor/</link>
-            <pubDate>Mon, 18 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.7.0.TLOMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
             <pubDate>Mon, 18 Dec 2023 00:00:00 </pubDate>
@@ -869,11 +879,6 @@
         <item>
             <title>Xiaomi 12S (mayfly) - V14.0.11.0.TLTCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/mayfly/</link>
-            <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 5 (nabu) - V14.0.8.0.TKXEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nabu/</link>
             <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -1124,11 +1129,6 @@
         <item>
             <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V14.0.7.0.TKKMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/haydn/</link>
-            <pubDate>Tue, 24 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Pro (zeus) - V14.0.9.0.TLBMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Tue, 24 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
