@@ -390,6 +390,12 @@
   version: OS1.0.4.0.UMBCNXM
 - android: '14.0'
   codename: pipa
+  date: '2024-01-30'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.4.0.UMZCNXM_45e70ba86c_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.4.0.UMZCNXM
+- android: '14.0'
+  codename: pipa
   date: '2023-12-25'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.2.0.UMZCNXM_55ebca72a7_14.0.zip
   name: Xiaomi Pad 6
@@ -430,12 +436,6 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMSCNXM/fw_redwood_miui_REDWOOD_OS1.0.4.0.UMSCNXM_33c3abb2d0_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: OS1.0.4.0.UMSCNXM
-- android: '14.0'
-  codename: redwood
-  date: '2024-01-15'
-  download: https://bigota.d.miui.com/OS1.0.3.0.UMSCNXM/fw_redwood_miui_REDWOOD_OS1.0.3.0.UMSCNXM_964b907423_14.0.zip
-  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
-  version: OS1.0.3.0.UMSCNXM
 - android: '14.0'
   codename: rock
   date: '2024-01-25'

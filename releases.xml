@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 30 Jan 2024 00:37:13 </lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 06:34:45 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Pad 6 (pipa) - OS1.0.4.0.UMZCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/pipa/</link>
+            <pubDate>Tue, 30 Jan 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 12 (cupid) - OS1.0.3.0.ULCEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/cupid/</link>
@@ -664,11 +669,6 @@
         <item>
             <title>Xiaomi Pad 6 Pro (liuqin) - OS1.0.2.0.UMYCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/liuqin/</link>
-            <pubDate>Mon, 25 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 (pipa) - OS1.0.2.0.UMZCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/pipa/</link>
             <pubDate>Mon, 25 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
