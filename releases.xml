@@ -4,11 +4,41 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 30 Jan 2024 13:12:39 </lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 19:01:49 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.4.0.UNLEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Tue, 30 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - V14.0.6.0.TNQEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
+            <pubDate>Tue, 30 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>POCO X5 5G (moonstone) - OS1.0.1.0.UMPINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
+            <pubDate>Tue, 30 Jan 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi Pad 6 (pipa) - OS1.0.4.0.UMZCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/pipa/</link>
+            <pubDate>Tue, 30 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro+ 5G (zircon) - V14.0.5.0.TNOMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
+            <pubDate>Tue, 30 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro+ 5G (zircon) - V14.0.5.0.TNOEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
+            <pubDate>Tue, 30 Jan 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.17.0.TLLEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Tue, 30 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -277,11 +307,6 @@
             <pubDate>Thu, 18 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 Pro+ 5G (zircon) - V14.0.4.0.TNOEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
-            <pubDate>Thu, 18 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.4.0.UNLMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Wed, 17 Jan 2024 00:00:00 </pubDate>
@@ -304,11 +329,6 @@
         <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - V14.0.3.0.TNRINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
-            <pubDate>Tue, 16 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro+ 5G (zircon) - V14.0.4.0.TNOMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Tue, 16 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -393,11 +413,6 @@
         </item>
         <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - V14.0.1.0.TNQMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - V14.0.3.0.TNQEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
@@ -612,11 +627,6 @@
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.13.0.TLLEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ziyi/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - V14.0.5.0.TGQCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/air/</link>
             <pubDate>Thu, 11 Jan 2024 00:00:00 </pubDate>
@@ -649,11 +659,6 @@
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS1.0.2.0.ULFCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
-            <pubDate>Thu, 11 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.1.0.UNLEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Thu, 11 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -1054,11 +1059,6 @@
         <item>
             <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.8.0.TKPCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/chopin/</link>
-            <pubDate>Fri, 17 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO X5 5G (moonstone) - V14.0.4.0.TMPINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
             <pubDate>Fri, 17 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>

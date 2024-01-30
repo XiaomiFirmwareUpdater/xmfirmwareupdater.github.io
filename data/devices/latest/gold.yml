@@ -19,15 +19,15 @@
     android: '13.0'
     miui: V14.0.8.0.TNQCNXM
 - branch: stable
-  date: '2024-01-12'
+  date: '2024-01-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-12.01.2024/fw_gold_miui_GOLDEEAGlobal_V14.0.3.0.TNQEUXM_89fd7ca462_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/gold/fw_gold_miui_GOLDEEAGlobal_V14.0.3.0.TNQEUXM_89fd7ca462_13.0.zip
-  filename: fw_gold_miui_GOLDEEAGlobal_V14.0.3.0.TNQEUXM_89fd7ca462_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-30.01.2024/fw_gold_miui_GOLDEEAGlobal_V14.0.6.0.TNQEUXM_a4d9a7efc6_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/gold/fw_gold_miui_GOLDEEAGlobal_V14.0.6.0.TNQEUXM_a4d9a7efc6_13.0.zip
+  filename: fw_gold_miui_GOLDEEAGlobal_V14.0.6.0.TNQEUXM_a4d9a7efc6_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.3.0.TNQEUXM
+    miui: V14.0.6.0.TNQEUXM
 - branch: stable
   date: '2024-01-28'
   downloads:

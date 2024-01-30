@@ -66,6 +66,12 @@
   version: OS1.0.4.0.UNLCNXM
 - android: '14.0'
   codename: duchamp
+  date: '2024-01-30'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNLEUXM/fw_duchamp_miui_DUCHAMPEEAGlobal_OS1.0.4.0.UNLEUXM_079e51d638_14.0.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS1.0.4.0.UNLEUXM
+- android: '14.0'
+  codename: duchamp
   date: '2024-01-29'
   download: https://bigota.d.miui.com/OS1.0.10.0.UNLCNXM/fw_duchamp_miui_DUCHAMP_OS1.0.10.0.UNLCNXM_0ab05cde0b_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
@@ -352,6 +358,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMNCNXM/fw_mondrian_miui_MONDRIAN_OS1.0.4.0.UMNCNXM_cde1668ca2_14.0.zip
   name: Redmi K60/POCO F5 Pro
   version: OS1.0.4.0.UMNCNXM
+- android: '14.0'
+  codename: moonstone
+  date: '2024-01-30'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UMPINXM/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.1.0.UMPINXM_c5b06b9e3d_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.1.0.UMPINXM
 - android: '14.0'
   codename: moonstone
   date: '2024-01-23'

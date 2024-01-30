@@ -1470,6 +1470,12 @@
   version: V14.0.2.0.SJSINXM
 - android: '13.0'
   codename: gold
+  date: '2024-01-30'
+  download: https://bigota.d.miui.com/V14.0.6.0.TNQEUXM/fw_gold_miui_GOLDEEAGlobal_V14.0.6.0.TNQEUXM_a4d9a7efc6_13.0.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: V14.0.6.0.TNQEUXM
+- android: '13.0'
+  codename: gold
   date: '2024-01-28'
   download: https://bigota.d.miui.com/V14.0.3.0.TNQINXM/fw_gold_miui_GOLDINGlobal_V14.0.3.0.TNQINXM_3b57f56517_13.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
@@ -5622,6 +5628,18 @@
   version: V14.0.3.0.TLPCNXM
 - android: '13.0'
   codename: zircon
+  date: '2024-01-30'
+  download: https://bigota.d.miui.com/V14.0.5.0.TNOEUXM/fw_zircon_miui_ZIRCONEEAGlobal_V14.0.5.0.TNOEUXM_222f7678c0_13.0.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: V14.0.5.0.TNOEUXM
+- android: '13.0'
+  codename: zircon
+  date: '2024-01-30'
+  download: https://bigota.d.miui.com/V14.0.5.0.TNOMIXM/fw_zircon_miui_ZIRCONGlobal_V14.0.5.0.TNOMIXM_7e517242ca_13.0.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: V14.0.5.0.TNOMIXM
+- android: '13.0'
+  codename: zircon
   date: '2023-09-25'
   download: https://bigota.d.miui.com/V14.0.1.0.TNOCNXM/fw_zircon_miui_ZIRCON_V14.0.1.0.TNOCNXM_ef7c4991b6_13.0.zip
   name: Redmi Note 13 Pro+ 5G
@@ -5686,6 +5704,12 @@
   download: https://bigota.d.miui.com/V14.0.7.0.TNOCNXM/fw_zircon_miui_ZIRCON_V14.0.7.0.TNOCNXM_1062227fa3_13.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: V14.0.7.0.TNOCNXM
+- android: '13.0'
+  codename: ziyi
+  date: '2024-01-30'
+  download: https://bigota.d.miui.com/V14.0.17.0.TLLEUXM/fw_ziyi_miui_ZIYIEEAGlobal_V14.0.17.0.TLLEUXM_aea468331d_13.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: V14.0.17.0.TLLEUXM
 - android: '13.0'
   codename: ziyi
   date: '2023-08-28'
