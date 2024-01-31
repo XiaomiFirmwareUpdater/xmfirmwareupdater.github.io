@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 31 Jan 2024 00:35:29 </lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 06:35:00 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 Pro/Ti (shennong) - OS1.0.32.0.UNBCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/shennong/</link>
+            <pubDate>Wed, 31 Jan 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.4.0.UNLEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
@@ -549,11 +554,6 @@
         <item>
             <title>Redmi Note 12S (sea) - OS1.0.1.0.UHZEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sea/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Pro/Ti (shennong) - OS1.0.29.0.UNBCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/shennong/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
