@@ -1,5 +1,11 @@
 - android: '14.0'
   codename: agate
+  date: '2024-01-31'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UKWMIXM/fw_agate_miui_AGATEGlobal_OS1.0.3.0.UKWMIXM_39c9279ce1_14.0.zip
+  name: Xiaomi 11T
+  version: OS1.0.3.0.UKWMIXM
+- android: '14.0'
+  codename: agate
   date: '2024-01-12'
   download: https://bigota.d.miui.com/OS1.0.2.0.UKWMIXM/fw_agate_miui_AGATEGlobal_OS1.0.2.0.UKWMIXM_83e4108ef0_14.0.zip
   name: Xiaomi 11T
@@ -240,6 +246,12 @@
   version: OS1.0.1.0.ULJCNXM
 - android: '14.0'
   codename: ishtar
+  date: '2024-01-31'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMACNXM/fw_ishtar_miui_ISHTAR_OS1.0.6.0.UMACNXM_a4f5ee8a7c_14.0.zip
+  name: Xiaomi 13 Ultra
+  version: OS1.0.6.0.UMACNXM
+- android: '14.0'
+  codename: ishtar
   date: '2023-12-22'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMAEUXM/fw_ishtar_miui_ISHTAREEAGlobal_OS1.0.5.0.UMAEUXM_70d6c1e142_14.0.zip
   name: Xiaomi 13 Ultra
@@ -442,6 +454,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.ULQMIXM/fw_plato_miui_PLATOGlobal_OS1.0.5.0.ULQMIXM_9c5350230d_14.0.zip
   name: Xiaomi 12T
   version: OS1.0.5.0.ULQMIXM
+- android: '14.0'
+  codename: redwood
+  date: '2024-01-31'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UMSMIXM/fw_redwood_miui_REDWOODGlobal_OS1.0.2.0.UMSMIXM_373f1d03de_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.2.0.UMSMIXM
 - android: '14.0'
   codename: redwood
   date: '2024-01-29'

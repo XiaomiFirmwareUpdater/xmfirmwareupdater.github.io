@@ -52,11 +52,9 @@ permalink: /miui/redwood/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12 Pro Speed China</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMSCNXM</td><td>13.0</td><td>5.5 GB</td><td>2023-12-06</td><td><a href="/miui/redwood/stable/V14.0.6.0.TMSCNXM/">Download</a></td></tr>
-<tr><td>POCO X5 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TMSEUXM</td><td>13.0</td><td>7.1 GB</td><td>2023-11-29</td><td><a href="/miui/redwood/stable/V14.0.5.0.TMSEUXM/">Download</a></td></tr>
+                <tr><td>POCO X5 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TMSEUXM</td><td>13.0</td><td>7.1 GB</td><td>2023-11-29</td><td><a href="/miui/redwood/stable/V14.0.5.0.TMSEUXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TMSEUXM</td><td>13.0</td><td>4.7 GB</td><td>2023-12-06</td><td><a href="/miui/redwood/stable/V14.0.5.0.TMSEUXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G EEA</td><td>Stable Beta</td><td>Fastboot</td><td>V14.0.1.0.SMSEUXM</td><td>12.0</td><td>6.8 GB</td><td>2022-12-08</td><td><a href="/miui/redwood/stable beta/V14.0.1.0.SMSEUXM/">Download</a></td></tr>
-<tr><td>POCO X5 Pro 5G Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.7.0.TMSMIXM</td><td>13.0</td><td>7.6 GB</td><td>2023-11-29</td><td><a href="/miui/redwood/stable/V14.0.7.0.TMSMIXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Global</td><td>Stable</td><td>Recovery</td><td>V14.0.7.0.TMSMIXM</td><td>13.0</td><td>4.7 GB</td><td>2023-12-11</td><td><a href="/miui/redwood/stable/V14.0.7.0.TMSMIXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.SMSMIXM</td><td>12.0</td><td>4.5 GB</td><td>2023-02-06</td><td><a href="/miui/redwood/stable beta/V14.0.2.0.SMSMIXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SMSIDXM</td><td>12.0</td><td>6.4 GB</td><td>2023-04-03</td><td><a href="/miui/redwood/stable/V14.0.2.0.SMSIDXM/">Download</a></td></tr>
