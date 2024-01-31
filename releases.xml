@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 31 Jan 2024 18:30:53 </lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 00:30:02 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 11T (agate) - OS1.0.3.0.UKWMIXM</title>
@@ -2267,11 +2267,6 @@
             <pubDate>Wed, 30 Sep 2020 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Mi 8 SE (sirius) - V12.0.2.0.QEBCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sirius/</link>
-            <pubDate>Thu, 24 Sep 2020 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 6A (cactus) - V11.0.9.0.PCBMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/cactus/</link>
             <pubDate>Tue, 22 Sep 2020 00:00:00 </pubDate>
@@ -2327,11 +2322,6 @@
             <pubDate>Sat, 05 Sep 2020 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Mi 8 SE (sirius) - 20.9.4</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sirius/</link>
-            <pubDate>Sat, 05 Sep 2020 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Mi 8 Explorer (ursa) - 20.9.4</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ursa/</link>
             <pubDate>Sat, 05 Sep 2020 00:00:00 </pubDate>
@@ -2375,6 +2365,16 @@
             <title>Redmi Note 5/Note 5 Pro (whyred) - 20.6.18</title>
             <link>https://xiaomifirmwareupdater.com/firmware/whyred/</link>
             <pubDate>Thu, 18 Jun 2020 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 8 SE (sirius) - V11.0.3.0.QEBCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sirius/</link>
+            <pubDate>Thu, 28 May 2020 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 8 SE (sirius) - 20.5.21</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sirius/</link>
+            <pubDate>Thu, 21 May 2020 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 6 (cereus) - V11.0.4.0.PCGCNXM</title>
