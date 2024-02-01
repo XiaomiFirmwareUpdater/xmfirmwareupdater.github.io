@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 01 Feb 2024 12:33:00 </lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 18:35:35 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K50G/POCO F4 GT (ingres) - OS1.0.1.0.ULJMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ingres/</link>
+            <pubDate>Thu, 01 Feb 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi Pad 6 Pro (liuqin) - OS1.0.4.0.UMYCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/liuqin/</link>
@@ -14,6 +19,11 @@
         <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.1.0.UMOEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Thu, 01 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS1.0.1.0.UMWEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
             <pubDate>Thu, 01 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -389,11 +399,6 @@
         <item>
             <title>POCO M5/Redmi 11 Prime 4G (rock) - OS1.0.2.0.ULUMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/rock/</link>
-            <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.10.0.TMWEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
             <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -1000,11 +1005,6 @@
             <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.6.0.TLOINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
             <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K50G/POCO F4 GT (ingres) - V14.0.5.0.TLJMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ingres/</link>
-            <pubDate>Mon, 04 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12T Pro (pearl) - V14.0.10.0.TLHCNXM</title>

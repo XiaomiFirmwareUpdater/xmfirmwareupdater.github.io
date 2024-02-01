@@ -2129,15 +2129,15 @@
     android: '5.1'
     miui: V9.5.2.0.LAICNFA
 - branch: stable
-  date: '2023-12-04'
+  date: '2024-02-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-04.12.2023/fw_ingres_miui_INGRESGlobal_V14.0.5.0.TLJMIXM_99afcfec6a_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ingres/fw_ingres_miui_INGRESGlobal_V14.0.5.0.TLJMIXM_99afcfec6a_13.0.zip
-  filename: fw_ingres_miui_INGRESGlobal_V14.0.5.0.TLJMIXM_99afcfec6a_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-01.02.2024/fw_ingres_miui_INGRESGlobal_OS1.0.1.0.ULJMIXM_a21c48ed3d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ingres/fw_ingres_miui_INGRESGlobal_OS1.0.1.0.ULJMIXM_a21c48ed3d_14.0.zip
+  filename: fw_ingres_miui_INGRESGlobal_OS1.0.1.0.ULJMIXM_a21c48ed3d_14.0.zip
   region: Global
   versions:
-    android: '13.0'
-    miui: V14.0.5.0.TLJMIXM
+    android: '14.0'
+    miui: OS1.0.1.0.ULJMIXM
 - branch: stable
   date: '2024-01-18'
   downloads:
@@ -4629,15 +4629,15 @@
     android: '14.0'
     miui: OS1.0.5.0.UMWCNXM
 - branch: stable
-  date: '2024-01-15'
+  date: '2024-02-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-15.01.2024/fw_sky_miui_SKYEEAGlobal_V14.0.10.0.TMWEUXM_77f58cce0e_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sky/fw_sky_miui_SKYEEAGlobal_V14.0.10.0.TMWEUXM_77f58cce0e_13.0.zip
-  filename: fw_sky_miui_SKYEEAGlobal_V14.0.10.0.TMWEUXM_77f58cce0e_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-01.02.2024/fw_sky_miui_SKYEEAGlobal_OS1.0.1.0.UMWEUXM_8980955ac9_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sky/fw_sky_miui_SKYEEAGlobal_OS1.0.1.0.UMWEUXM_8980955ac9_14.0.zip
+  filename: fw_sky_miui_SKYEEAGlobal_OS1.0.1.0.UMWEUXM_8980955ac9_14.0.zip
   region: Europe
   versions:
-    android: '13.0'
-    miui: V14.0.10.0.TMWEUXM
+    android: '14.0'
+    miui: OS1.0.1.0.UMWEUXM
 - branch: stable
   date: '2023-12-25'
   downloads:

@@ -245,6 +245,12 @@
   name: Redmi K50G/POCO F4 GT
   version: OS1.0.1.0.ULJCNXM
 - android: '14.0'
+  codename: ingres
+  date: '2024-02-01'
+  download: https://bigota.d.miui.com/OS1.0.1.0.ULJMIXM/fw_ingres_miui_INGRESGlobal_OS1.0.1.0.ULJMIXM_a21c48ed3d_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.1.0.ULJMIXM
+- android: '14.0'
   codename: ishtar
   date: '2024-01-31'
   download: https://bigota.d.miui.com/OS1.0.6.0.UMACNXM/fw_ishtar_miui_ISHTAR_OS1.0.6.0.UMACNXM_a4f5ee8a7c_14.0.zip
@@ -598,6 +604,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMWCNXM/fw_sky_miui_SKY_OS1.0.5.0.UMWCNXM_eeb6f6c209_14.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
   version: OS1.0.5.0.UMWCNXM
+- android: '14.0'
+  codename: sky
+  date: '2024-02-01'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UMWEUXM/fw_sky_miui_SKYEEAGlobal_OS1.0.1.0.UMWEUXM_8980955ac9_14.0.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS1.0.1.0.UMWEUXM
 - android: '14.0'
   codename: socrates
   date: '2024-01-24'
