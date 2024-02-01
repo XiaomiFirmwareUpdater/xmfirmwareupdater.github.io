@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 01 Feb 2024 00:30:02 </lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 06:32:06 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Pad 6 Pro (liuqin) - OS1.0.4.0.UMYCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/liuqin/</link>
+            <pubDate>Thu, 01 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.1.0.UMOEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Thu, 01 Feb 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 11T (agate) - OS1.0.3.0.UKWMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/agate/</link>
@@ -557,11 +567,6 @@
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.12.0.TMOEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12S (sea) - OS1.0.3.0.UHZMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sea/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
@@ -685,11 +690,6 @@
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.2.0.UCVMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
             <pubDate>Thu, 11 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 Pro (liuqin) - OS1.0.2.0.UMYCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/liuqin/</link>
-            <pubDate>Mon, 25 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.7.0.TMWINXM</title>
@@ -2267,6 +2267,11 @@
             <pubDate>Wed, 30 Sep 2020 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Mi 8 SE (sirius) - V12.0.2.0.QEBCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sirius/</link>
+            <pubDate>Thu, 24 Sep 2020 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi 6A (cactus) - V11.0.9.0.PCBMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/cactus/</link>
             <pubDate>Tue, 22 Sep 2020 00:00:00 </pubDate>
@@ -2322,6 +2327,11 @@
             <pubDate>Sat, 05 Sep 2020 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Mi 8 SE (sirius) - 20.9.4</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sirius/</link>
+            <pubDate>Sat, 05 Sep 2020 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Mi 8 Explorer (ursa) - 20.9.4</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ursa/</link>
             <pubDate>Sat, 05 Sep 2020 00:00:00 </pubDate>
@@ -2365,16 +2375,6 @@
             <title>Redmi Note 5/Note 5 Pro (whyred) - 20.6.18</title>
             <link>https://xiaomifirmwareupdater.com/firmware/whyred/</link>
             <pubDate>Thu, 18 Jun 2020 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 8 SE (sirius) - V11.0.3.0.QEBCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sirius/</link>
-            <pubDate>Thu, 28 May 2020 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 8 SE (sirius) - 20.5.21</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sirius/</link>
-            <pubDate>Thu, 21 May 2020 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 6 (cereus) - V11.0.4.0.PCGCNXM</title>

@@ -287,6 +287,12 @@
   name: Xiaomi Pad 6 Pro
   version: OS1.0.2.0.UMYCNXM
 - android: '14.0'
+  codename: liuqin
+  date: '2024-02-01'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMYCNXM/fw_liuqin_miui_LIUQIN_OS1.0.4.0.UMYCNXM_6271a83b02_14.0.zip
+  name: Xiaomi Pad 6 Pro
+  version: OS1.0.4.0.UMYCNXM
+- android: '14.0'
   codename: manet
   date: '2023-11-30'
   download: https://bigota.d.miui.com/OS1.0.4.0.UNMCNXM/fw_manet_miui_MANET_OS1.0.4.0.UNMCNXM_013c13dda0_14.0.zip
@@ -496,6 +502,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMOCNXM/fw_ruby_miui_RUBY_OS1.0.3.0.UMOCNXM_c06e478636_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: OS1.0.3.0.UMOCNXM
+- android: '14.0'
+  codename: ruby
+  date: '2024-02-01'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UMOEUXM/fw_ruby_miui_RUBYEEAGlobal_OS1.0.1.0.UMOEUXM_d22f47926d_14.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS1.0.1.0.UMOEUXM
 - android: '14.0'
   codename: sea
   date: '2024-01-12'

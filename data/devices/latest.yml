@@ -2699,15 +2699,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2023-12-25'
+  date: '2024-02-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_liuqin/releases/download/stable-25.12.2023/fw_liuqin_miui_LIUQIN_OS1.0.2.0.UMYCNXM_f2c7b6c511_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/liuqin/fw_liuqin_miui_LIUQIN_OS1.0.2.0.UMYCNXM_f2c7b6c511_14.0.zip
-  filename: fw_liuqin_miui_LIUQIN_OS1.0.2.0.UMYCNXM_f2c7b6c511_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_liuqin/releases/download/stable-01.02.2024/fw_liuqin_miui_LIUQIN_OS1.0.4.0.UMYCNXM_6271a83b02_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/liuqin/fw_liuqin_miui_LIUQIN_OS1.0.4.0.UMYCNXM_6271a83b02_14.0.zip
+  filename: fw_liuqin_miui_LIUQIN_OS1.0.4.0.UMYCNXM_6271a83b02_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.2.0.UMYCNXM
+    miui: OS1.0.4.0.UMYCNXM
 - branch: stable
   date: '2023-03-27'
   downloads:
@@ -4309,15 +4309,15 @@
     android: '14.0'
     miui: OS1.0.3.0.UMOCNXM
 - branch: stable
-  date: '2024-01-12'
+  date: '2024-02-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-12.01.2024/fw_ruby_miui_RUBYEEAGlobal_V14.0.12.0.TMOEUXM_cc1e7550ba_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ruby/fw_ruby_miui_RUBYEEAGlobal_V14.0.12.0.TMOEUXM_cc1e7550ba_13.0.zip
-  filename: fw_ruby_miui_RUBYEEAGlobal_V14.0.12.0.TMOEUXM_cc1e7550ba_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-01.02.2024/fw_ruby_miui_RUBYEEAGlobal_OS1.0.1.0.UMOEUXM_d22f47926d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruby/fw_ruby_miui_RUBYEEAGlobal_OS1.0.1.0.UMOEUXM_d22f47926d_14.0.zip
+  filename: fw_ruby_miui_RUBYEEAGlobal_OS1.0.1.0.UMOEUXM_d22f47926d_14.0.zip
   region: Europe
   versions:
-    android: '13.0'
-    miui: V14.0.12.0.TMOEUXM
+    android: '14.0'
+    miui: OS1.0.1.0.UMOEUXM
 - branch: stable
   date: '2023-12-21'
   downloads:
@@ -4589,25 +4589,25 @@
     android: '11.0'
     miui: V12.5.7.0.RJRINXM
 - branch: stable
-  date: '2020-05-28'
+  date: '2020-09-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sirius/releases/download/stable-28.05.2020/fw_sirius_miui_MI8SE_V11.0.3.0.QEBCNXM_fd6c55042a_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/sirius/fw_sirius_miui_MI8SE_V11.0.3.0.QEBCNXM_fd6c55042a_10.0.zip
-  filename: fw_sirius_miui_MI8SE_V11.0.3.0.QEBCNXM_fd6c55042a_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sirius/releases/download/stable-24.09.2020/fw_sirius_miui_MI8SE_V12.0.2.0.QEBCNXM_09d4db05cb_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sirius/fw_sirius_miui_MI8SE_V12.0.2.0.QEBCNXM_09d4db05cb_10.0.zip
+  filename: fw_sirius_miui_MI8SE_V12.0.2.0.QEBCNXM_09d4db05cb_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V11.0.3.0.QEBCNXM
+    miui: V12.0.2.0.QEBCNXM
 - branch: weekly
-  date: '2020-05-21'
+  date: '2020-09-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sirius/releases/download/weekly-21.05.2020/fw_sirius_miui_MI8SE_20.5.21_275736f090_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.21/sirius/fw_sirius_miui_MI8SE_20.5.21_275736f090_10.0.zip
-  filename: fw_sirius_miui_MI8SE_20.5.21_275736f090_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sirius/releases/download/weekly-05.09.2020/fw_sirius_miui_MI8SE_20.9.4_8b18fec4c4_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.4/sirius/fw_sirius_miui_MI8SE_20.9.4_8b18fec4c4_10.0.zip
+  filename: fw_sirius_miui_MI8SE_20.9.4_8b18fec4c4_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.5.21
+    miui: 20.9.4
 - branch: stable
   date: '2024-01-27'
   downloads:
