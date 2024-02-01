@@ -671,6 +671,12 @@
   name: Redmi Note 12 4G NFC
   version: OS1.0.2.0.UMGMIXM
 - android: '14.0'
+  codename: unicorn
+  date: '2024-02-01'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULECNXM/fw_unicorn_miui_UNICORN_OS1.0.3.0.ULECNXM_fc52202e28_14.0.zip
+  name: Xiaomi 12S Pro
+  version: OS1.0.3.0.ULECNXM
+- android: '14.0'
   codename: vermeer
   date: '2024-01-21'
   download: https://bigota.d.miui.com/OS1.0.13.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.13.0.UNKCNXM_22cb92880c_14.0.zip
