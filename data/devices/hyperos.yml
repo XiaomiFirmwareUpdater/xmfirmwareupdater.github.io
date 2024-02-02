@@ -17,6 +17,12 @@
   name: MIX Fold 3
   version: OS1.0.2.0.UMVCNXM
 - android: '14.0'
+  codename: babylon
+  date: '2024-02-02'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.3.0.UMVCNXM_f3b112cff7_14.0.zip
+  name: MIX Fold 3
+  version: OS1.0.3.0.UMVCNXM
+- android: '14.0'
   codename: corot
   date: '2024-01-15'
   download: https://bigota.d.miui.com/OS1.0.1.0.UMLMIXM/fw_corot_miui_COROTGlobal_OS1.0.1.0.UMLMIXM_af2d36f698_14.0.zip
@@ -280,6 +286,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.ULSCNXM/fw_light_miui_LIGHT_OS1.0.5.0.ULSCNXM_d259f29a72_14.0.zip
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
   version: OS1.0.5.0.ULSCNXM
+- android: '14.0'
+  codename: light
+  date: '2024-02-02'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULSMIXM/fw_light_miui_LIGHTGlobal_OS1.0.2.0.ULSMIXM_b89aee5aea_14.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: OS1.0.2.0.ULSMIXM
 - android: '14.0'
   codename: lightcm
   date: '2024-01-12'

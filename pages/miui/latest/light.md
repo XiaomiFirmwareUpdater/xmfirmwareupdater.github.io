@@ -58,7 +58,6 @@ permalink: /miui/light/
 <tr><td>Redmi 10 5G / POCO M4 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SLSEUXM</td><td>12.0</td><td>3.1 GB</td><td>2022-06-22</td><td><a href="/miui/light/stable beta/V13.0.4.0.SLSEUXM/">Download</a></td></tr>
 <tr><td>Redmi 10 5G / POCO M4 5G Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.7.0.TLSMIXM</td><td>13.0</td><td>6.3 GB</td><td>2023-11-29</td><td><a href="/miui/light/stable/V14.0.7.0.TLSMIXM/">Download</a></td></tr>
 <tr><td>Redmi 10 5G / POCO M4 5G Global</td><td>Stable</td><td>Recovery</td><td>V14.0.8.0.TLSMIXM</td><td>13.0</td><td>3.8 GB</td><td>2023-12-20</td><td><a href="/miui/light/stable/V14.0.8.0.TLSMIXM/">Download</a></td></tr>
-<tr><td>Redmi 10 5G / POCO M4 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TLSMIXM</td><td>13.0</td><td>3.7 GB</td><td>2023-10-12</td><td><a href="/miui/light/stable beta/V14.0.6.0.TLSMIXM/">Download</a></td></tr>
 <tr><td>Redmi 10 5G / POCO M4 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TLSIDXM</td><td>13.0</td><td>5.6 GB</td><td>2023-09-18</td><td><a href="/miui/light/stable/V14.0.4.0.TLSIDXM/">Download</a></td></tr>
 <tr><td>Redmi 10 5G / POCO M4 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TLSIDXM</td><td>13.0</td><td>3.5 GB</td><td>2023-09-26</td><td><a href="/miui/light/stable/V14.0.4.0.TLSIDXM/">Download</a></td></tr>
 <tr><td>Redmi 10 5G / POCO M4 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TLSIDXM</td><td>13.0</td><td>3.7 GB</td><td>2024-01-26</td><td><a href="/miui/light/stable beta/V14.0.5.0.TLSIDXM/">Download</a></td></tr>
@@ -73,6 +72,7 @@ permalink: /miui/light/
 <tr><td>Redmi 10 5G / POCO M4 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SLSTWXM</td><td>12.0</td><td>3.1 GB</td><td>2023-06-19</td><td><a href="/miui/light/stable/V13.0.5.0.SLSTWXM/">Download</a></td></tr>
 <tr><td>Redmi 10 5G / POCO M4 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TLSTWXM</td><td>13.0</td><td>3.5 GB</td><td>2023-10-18</td><td><a href="/miui/light/stable beta/V14.0.3.0.TLSTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11R China</td><td>Stable Beta</td><td>Fastboot</td><td>V14.0.2.0.TLSCNXM</td><td>13.0</td><td>5.6 GB</td><td>2023-02-09</td><td><a href="/miui/lightcm/stable beta/V14.0.2.0.TLSCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11R China</td><td>Stable</td><td>Recovery</td><td>V14.0.10.0.TLSCNXM</td><td>13.0</td><td>4.2 GB</td><td>2023-12-05</td><td><a href="/miui/lightcm/stable/V14.0.10.0.TLSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11R China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.8.0.TLSCNXM</td><td>13.0</td><td>4.2 GB</td><td>2023-10-23</td><td><a href="/miui/lightcm/stable beta/V14.0.8.0.TLSCNXM/">Download</a></td></tr>
 
                 </tbody>

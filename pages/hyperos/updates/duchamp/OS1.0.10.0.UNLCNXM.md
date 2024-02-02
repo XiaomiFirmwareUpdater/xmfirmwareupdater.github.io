@@ -3,7 +3,7 @@ title: Redmi K70E China HyperOS OS1.0.10.0.UNLCNXM Update
 layout: download
 name: Redmi K70E China
 codename: duchamp
-permalink: /hyperos/duchamp/stable beta/OS1.0.10.0.UNLCNXM/
+permalink: /hyperos/duchamp/stable/OS1.0.10.0.UNLCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/duchamp/stable beta/OS1.0.10.0.UNLCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.10.0.UNLCNXM Stable Beta Official Update for Redmi K70E China (duchamp)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.10.0.UNLCNXM Stable Official Update for Redmi K70E China (duchamp)</h3>
     <h5>This page shows the OS1.0.10.0.UNLCNXM update only. If you're looking for other updates check
         <a href="/hyperos/duchamp/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/duchamp/stable beta/OS1.0.10.0.UNLCNXM/
                     <h5><b>Version: </b>OS1.0.10.0.UNLCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>8.0 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-02-02</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">duchamp_images_OS1.0.10.0.UNLCNXM_20240118.0000.00_14.0_cn_d5795ffe8a.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">d5795ffe8abb4cfcb3f9718cd4ff5b2c</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdn-ota.azureedge.net/OS1.0.10.0.UNLCNXM/duchamp_images_OS1.0.10.0.UNLCNXM_20240118.0000.00_14.0_cn_d5795ffe8a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.10.0.UNLCNXM/duchamp_images_OS1.0.10.0.UNLCNXM_20240118.0000.00_14.0_cn_d5795ffe8a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.10.0.UNLCNXM/duchamp_images_OS1.0.10.0.UNLCNXM_20240118.0000.00_14.0_cn_d5795ffe8a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.10.0.UNLCNXM/duchamp_images_OS1.0.10.0.UNLCNXM_20240118.0000.00_14.0_cn_d5795ffe8a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.10.0.UNLCNXM/duchamp_images_OS1.0.10.0.UNLCNXM_20240118.0000.00_14.0_cn_d5795ffe8a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#duchamp_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="duchamp_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="duchamp_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated Android Security Patch to January 2024. Increased system security.<br>[Proactive intelligence]<br>New: Xiaomi HyperMind (Beta) utilizes large foundation models and enables devices to proactively understand your needs and act accordingly</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi K70E China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/duchamp/" target="_blank">duchamp</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.10.0.UNLCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -74,10 +117,10 @@ permalink: /hyperos/duchamp/stable beta/OS1.0.10.0.UNLCNXM/
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.10.0.UNLCNXM/miui-blockota-duchamp-OS1.0.8.0.UNLCNXM-OS1.0.10.0.UNLCNXM-e1b0ece7ae-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdn-ota.azureedge.net/OS1.0.10.0.UNLCNXM/miui_DUCHAMP_OS1.0.10.0.UNLCNXM_0ab05cde0b_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.10.0.UNLCNXM/miui_DUCHAMP_OS1.0.10.0.UNLCNXM_0ab05cde0b_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.10.0.UNLCNXM/miui_DUCHAMP_OS1.0.10.0.UNLCNXM_0ab05cde0b_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.10.0.UNLCNXM/miui_DUCHAMP_OS1.0.10.0.UNLCNXM_0ab05cde0b_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.10.0.UNLCNXM/miui_DUCHAMP_OS1.0.10.0.UNLCNXM_0ab05cde0b_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#duchamp_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="duchamp_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#duchamp_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="duchamp_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="duchamp_1_changelog">
+                    <div class="collapse" id="duchamp_2_changelog">
                         <p id="changelog_text">[System]<br>Updated Android Security Patch to January 2024. Increased system security.<br>[Proactive intelligence]<br>New: Xiaomi HyperMind (Beta) utilizes large foundation models and enables devices to proactively understand your needs and act accordingly</p>
                     </div>
                 </li>

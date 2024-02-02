@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 02 Feb 2024 00:30:28 </lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 07:07:52 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>MIX Fold 3 (babylon) - OS1.0.3.0.UMVCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/babylon/</link>
+            <pubDate>Fri, 02 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - OS1.0.2.0.ULSMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/light/</link>
+            <pubDate>Fri, 02 Feb 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K50G/POCO F4 GT (ingres) - OS1.0.1.0.ULJMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ingres/</link>
@@ -487,11 +497,6 @@
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V14.0.8.0.TLSMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/light/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - OS1.0.5.0.ULSCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/light/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
@@ -855,11 +860,6 @@
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.10.0.TMQCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Sat, 16 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>MIX Fold 3 (babylon) - OS1.0.2.0.UMVCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/babylon/</link>
-            <pubDate>Fri, 15 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 10 (mojito) - V14.0.6.0.SKGEUXM</title>
