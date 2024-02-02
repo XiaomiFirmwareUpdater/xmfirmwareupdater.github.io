@@ -52,7 +52,9 @@ permalink: /archive/hyperos/agate/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 11T Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UKWMIXM</td><td>14.0</td><td>5.0 GB</td><td>2024-01-25</td><td><a href="/hyperos/agate/stable beta/OS1.0.3.0.UKWMIXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 11T EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UKWEUXM</td><td>14.0</td><td>4.9 GB</td><td>2024-01-30</td><td><a href="/hyperos/agate/stable beta/OS1.0.2.0.UKWEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UKWRUXM</td><td>14.0</td><td>4.9 GB</td><td>2024-01-30</td><td><a href="/hyperos/agate/stable beta/OS1.0.2.0.UKWRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UKWMIXM</td><td>14.0</td><td>5.0 GB</td><td>2024-01-25</td><td><a href="/hyperos/agate/stable beta/OS1.0.3.0.UKWMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UKWMIXM</td><td>14.0</td><td>6.7 GB</td><td>2024-01-08</td><td><a href="/hyperos/agate/stable/OS1.0.2.0.UKWMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UKWMIXM</td><td>14.0</td><td>4.9 GB</td><td>2023-12-21</td><td><a href="/hyperos/agate/stable/OS1.0.2.0.UKWMIXM/">Download</a></td></tr>
 

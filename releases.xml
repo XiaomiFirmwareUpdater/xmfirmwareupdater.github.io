@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 02 Feb 2024 12:39:35 </lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 18:34:04 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 11T (agate) - OS1.0.2.0.UKWEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/agate/</link>
+            <pubDate>Fri, 02 Feb 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>MIX Fold 3 (babylon) - OS1.0.3.0.UMVCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/babylon/</link>
@@ -1150,11 +1155,6 @@
             <title>Xiaomi Civi 1S (zijin) - V14.0.6.0.TLPCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/zijin/</link>
             <pubDate>Wed, 18 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 11T (agate) - V14.0.6.0.TKWEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/agate/</link>
-            <pubDate>Tue, 17 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 10 5G/Redmi Note 11SE/Redmi Note 10T 5G/POCO M3 Pro 5G (camellia) - V14.0.6.0.TKSINXM</title>
