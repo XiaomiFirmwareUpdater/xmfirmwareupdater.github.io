@@ -1,15 +1,15 @@
 ---
-title: Redmi Pad (yunluo) HyperOS Downloads
+title: Redmi Pad SE (xun) HyperOS Downloads
 layout: download
-name: Redmi Pad
-codename: yunluo
-permalink: /hyperos/yunluo/
+name: Redmi Pad SE
+codename: xun
+permalink: /hyperos/xun/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/yunluo/">Redmi Pad</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/xun/">Redmi Pad SE</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /hyperos/yunluo/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/hyperos/yunluo/" class="card-link">HyperOS Archive</a>
-    <a href="/firmware/yunluo/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/yunluo/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/hyperos/xun/" class="card-link">HyperOS Archive</a>
+    <a href="/firmware/xun/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/xun/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,10 +52,7 @@ permalink: /hyperos/yunluo/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULYCNXM</td><td>14.0</td><td>5.1 GB</td><td>2024-01-17</td><td><a href="/hyperos/yunluo/stable/OS1.0.2.0.ULYCNXM/">Download</a></td></tr>
-<tr><td>Redmi Pad China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULYCNXM</td><td>14.0</td><td>4.3 GB</td><td>2024-01-08</td><td><a href="/hyperos/yunluo/stable/OS1.0.2.0.ULYCNXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.ULYMIXM</td><td>14.0</td><td>4.8 GB</td><td>2024-02-02</td><td><a href="/hyperos/yunluo/stable/OS1.0.1.0.ULYMIXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.ULYMIXM</td><td>14.0</td><td>4.2 GB</td><td>2024-01-22</td><td><a href="/hyperos/yunluo/stable/OS1.0.1.0.ULYMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad SE China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UMUCNXM</td><td>14.0</td><td>4.2 GB</td><td>2024-01-24</td><td><a href="/hyperos/xun/stable beta/OS1.0.3.0.UMUCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

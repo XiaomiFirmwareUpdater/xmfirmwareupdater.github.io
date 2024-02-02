@@ -59,6 +59,12 @@
   name: Xiaomi 12
   version: OS1.0.3.0.ULCEUXM
 - android: '14.0'
+  codename: cupid
+  date: '2024-02-02'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULCCNXM/fw_cupid_miui_CUPID_OS1.0.2.0.ULCCNXM_75f6040d02_14.0.zip
+  name: Xiaomi 12
+  version: OS1.0.2.0.ULCCNXM
+- android: '14.0'
   codename: diting
   date: '2024-01-21'
   download: https://bigota.d.miui.com/OS1.0.1.0.ULFEUXM/fw_diting_miui_DITINGEEAGlobal_OS1.0.1.0.ULFEUXM_10053329d1_14.0.zip
