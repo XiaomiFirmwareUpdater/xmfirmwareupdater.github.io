@@ -38,3 +38,23 @@
   versions:
     android: '13.0'
     miui: V14.0.7.0.TGPMIXM
+- branch: stable
+  date: '2024-02-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-03.02.2024/fw_gale_miui_GALEEEAGlobal_V14.0.7.0.TGPEUXM_4195f680e2_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/gale/fw_gale_miui_GALEEEAGlobal_V14.0.7.0.TGPEUXM_4195f680e2_13.0.zip
+  filename: fw_gale_miui_GALEEEAGlobal_V14.0.7.0.TGPEUXM_4195f680e2_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.7.0.TGPEUXM
+- branch: stable
+  date: '2024-02-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-03.02.2024/fw_gale_miui_GALEINGlobal_V14.0.4.0.TGPINXM_dffd1a535f_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/gale/fw_gale_miui_GALEINGlobal_V14.0.4.0.TGPINXM_dffd1a535f_13.0.zip
+  filename: fw_gale_miui_GALEINGlobal_V14.0.4.0.TGPINXM_dffd1a535f_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TGPINXM

@@ -64,9 +64,8 @@ permalink: /miui/cupid/
 <tr><td>Xiaomi 12 Indonesia</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TLCIDXM</td><td>13.0</td><td>4.8 GB</td><td>2024-01-09</td><td><a href="/miui/cupid/stable/V14.0.5.0.TLCIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TLCRUXM</td><td>13.0</td><td>6.0 GB</td><td>2023-12-26</td><td><a href="/miui/cupid/stable/V14.0.5.0.TLCRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TLCRUXM</td><td>13.0</td><td>4.7 GB</td><td>2024-01-09</td><td><a href="/miui/cupid/stable/V14.0.5.0.TLCRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TLCTRXM</td><td>13.0</td><td>5.9 GB</td><td>2023-11-21</td><td><a href="/miui/cupid/stable/V14.0.4.0.TLCTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TLCTRXM</td><td>13.0</td><td>4.8 GB</td><td>2023-12-04</td><td><a href="/miui/cupid/stable/V14.0.4.0.TLCTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TLCTRXM</td><td>13.0</td><td>4.9 GB</td><td>2024-01-23</td><td><a href="/miui/cupid/stable beta/V14.0.5.0.TLCTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TLCTRXM</td><td>13.0</td><td>6.0 GB</td><td>2024-01-15</td><td><a href="/miui/cupid/stable/V14.0.5.0.TLCTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TLCTRXM</td><td>13.0</td><td>4.9 GB</td><td>2024-01-23</td><td><a href="/miui/cupid/stable/V14.0.5.0.TLCTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TLCTWXM</td><td>13.0</td><td>5.6 GB</td><td>2024-01-03</td><td><a href="/miui/cupid/stable/V14.0.5.0.TLCTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TLCTWXM</td><td>13.0</td><td>4.8 GB</td><td>2024-01-09</td><td><a href="/miui/cupid/stable/V14.0.5.0.TLCTWXM/">Download</a></td></tr>
 

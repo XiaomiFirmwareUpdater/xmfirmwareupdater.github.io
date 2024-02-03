@@ -71,6 +71,12 @@
   name: Xiaomi 12
   version: OS1.0.2.0.ULCCNXM
 - android: '14.0'
+  codename: daumier
+  date: '2024-02-03'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULGCNXM/fw_daumier_miui_DAUMIER_OS1.0.2.0.ULGCNXM_d84b64c895_14.0.zip
+  name: Xiaomi 12 Pro Dimensity
+  version: OS1.0.2.0.ULGCNXM
+- android: '14.0'
   codename: diting
   date: '2024-01-21'
   download: https://bigota.d.miui.com/OS1.0.1.0.ULFEUXM/fw_diting_miui_DITINGEEAGlobal_OS1.0.1.0.ULFEUXM_10053329d1_14.0.zip
@@ -509,6 +515,18 @@
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: OS1.0.3.0.UMSCNXM
 - android: '14.0'
+  codename: redwood
+  date: '2024-02-03'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UMSEUXM/fw_redwood_miui_REDWOODEEAGlobal_OS1.0.2.0.UMSEUXM_77a01d0e42_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.2.0.UMSEUXM
+- android: '14.0'
+  codename: redwood
+  date: '2024-02-03'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UMSINXM/fw_redwood_miui_REDWOODINGlobal_OS1.0.2.0.UMSINXM_d0b56250f3_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.2.0.UMSINXM
+- android: '14.0'
   codename: rock
   date: '2024-01-25'
   download: https://bigota.d.miui.com/OS1.0.1.0.ULUEUXM/fw_rock_miui_ROCKEEAGlobal_OS1.0.1.0.ULUEUXM_319d8dd16f_14.0.zip
@@ -520,6 +538,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULUMIXM/fw_rock_miui_ROCKGlobal_OS1.0.2.0.ULUMIXM_9efe5227fe_14.0.zip
   name: POCO M5/Redmi 11 Prime 4G
   version: OS1.0.2.0.ULUMIXM
+- android: '14.0'
+  codename: rock
+  date: '2024-02-03'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULUINXM/fw_rock_miui_ROCKINGlobal_OS1.0.3.0.ULUINXM_435f52bbbb_14.0.zip
+  name: POCO M5/Redmi 11 Prime 4G
+  version: OS1.0.3.0.ULUINXM
 - android: '14.0'
   codename: ruby
   date: '2024-01-29'

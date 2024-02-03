@@ -1385,6 +1385,18 @@
   name: Redmi 13C/POCO C65
   version: V14.0.7.0.TGPMIXM
 - android: '13.0'
+  codename: gale
+  date: '2024-02-03'
+  download: https://bigota.d.miui.com/V14.0.7.0.TGPEUXM/fw_gale_miui_GALEEEAGlobal_V14.0.7.0.TGPEUXM_4195f680e2_13.0.zip
+  name: Redmi 13C/POCO C65
+  version: V14.0.7.0.TGPEUXM
+- android: '13.0'
+  codename: gale
+  date: '2024-02-03'
+  download: https://bigota.d.miui.com/V14.0.4.0.TGPINXM/fw_gale_miui_GALEINGlobal_V14.0.4.0.TGPINXM_dffd1a535f_13.0.zip
+  name: Redmi 13C/POCO C65
+  version: V14.0.4.0.TGPINXM
+- android: '13.0'
   codename: garnet
   date: '2024-01-22'
   download: https://bigota.d.miui.com/V14.0.17.0.TNRCNXM/fw_garnet_miui_GARNET_V14.0.17.0.TNRCNXM_f09d30e63e_13.0.zip
@@ -5398,6 +5410,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TMUEUXM/fw_xun_miui_XUNEEAGlobal_V14.0.4.0.TMUEUXM_6625fbfd9a_13.0.zip
   name: Redmi Pad SE
   version: V14.0.4.0.TMUEUXM
+- android: '13.0'
+  codename: xun
+  date: '2024-02-03'
+  download: https://bigota.d.miui.com/V14.0.9.0.TMUCNXM/fw_xun_miui_XUN_V14.0.9.0.TMUCNXM_443cdefd23_13.0.zip
+  name: Redmi Pad SE
+  version: V14.0.9.0.TMUCNXM
 - android: '13.0'
   codename: xun
   date: '2023-12-01'
