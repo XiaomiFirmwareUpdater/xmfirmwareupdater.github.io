@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 03 Feb 2024 06:29:38 </lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 13:52:14 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 12 Pro Dimensity (daumier) - OS1.0.2.0.ULGCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/daumier/</link>
+            <pubDate>Sat, 03 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 12 (fire) - OS1.0.2.0.UMXEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/fire/</link>
             <pubDate>Sat, 03 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -845,11 +850,6 @@
             <title>Xiaomi Civi 3 (yuechu) - V14.0.11.0.TMICNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/yuechu/</link>
             <pubDate>Tue, 19 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12 (fire) - V14.0.12.0.TMXEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fire/</link>
-            <pubDate>Mon, 18 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K40S/POCO F4 (munch) - V14.0.5.0.TLMMIXM</title>
