@@ -52,7 +52,8 @@ permalink: /archive/miui/rosemary/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO M5S Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TFFTRXM</td><td>13.0</td><td>3.7 GB</td><td>2024-01-23</td><td><a href="/miui/rosemary/stable beta/V14.0.2.0.TFFTRXM/">Download</a></td></tr>
+                <tr><td>POCO M5S Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TFFRUXM</td><td>13.0</td><td>3.7 GB</td><td>2024-01-30</td><td><a href="/miui/rosemary/stable beta/V14.0.6.0.TFFRUXM/">Download</a></td></tr>
+<tr><td>POCO M5S Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TFFTRXM</td><td>13.0</td><td>3.7 GB</td><td>2024-01-23</td><td><a href="/miui/rosemary/stable beta/V14.0.2.0.TFFTRXM/">Download</a></td></tr>
 <tr><td>POCO M5S Indonesia</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TFFIDXM</td><td>13.0</td><td>3.7 GB</td><td>2024-01-22</td><td><a href="/miui/rosemary/stable/V14.0.3.0.TFFIDXM/">Download</a></td></tr>
 <tr><td>POCO M5S Indonesia</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TFFIDXM</td><td>13.0</td><td>6.1 GB</td><td>2024-01-07</td><td><a href="/miui/rosemary/stable/V14.0.3.0.TFFIDXM/">Download</a></td></tr>
 <tr><td>POCO M5S EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TFFEUXM</td><td>13.0</td><td>3.8 GB</td><td>2024-01-12</td><td><a href="/miui/rosemary/stable/V14.0.3.0.TFFEUXM/">Download</a></td></tr>

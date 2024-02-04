@@ -52,9 +52,10 @@ permalink: /archive/hyperos/duchamp/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K70E China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.UNLCNXM</td><td>14.0</td><td>8.0 GB</td><td>2024-02-02</td><td><a href="/hyperos/duchamp/stable/OS1.0.10.0.UNLCNXM/">Download</a></td></tr>
+                <tr><td>POCO X6 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UNLEUXM</td><td>14.0</td><td>7.8 GB</td><td>2024-02-04</td><td><a href="/hyperos/duchamp/stable/OS1.0.4.0.UNLEUXM/">Download</a></td></tr>
+<tr><td>POCO X6 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNLEUXM</td><td>14.0</td><td>5.5 GB</td><td>2024-01-30</td><td><a href="/hyperos/duchamp/stable/OS1.0.4.0.UNLEUXM/">Download</a></td></tr>
+<tr><td>Redmi K70E China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.UNLCNXM</td><td>14.0</td><td>8.0 GB</td><td>2024-02-02</td><td><a href="/hyperos/duchamp/stable/OS1.0.10.0.UNLCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70E China</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.UNLCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-01-23</td><td><a href="/hyperos/duchamp/stable/OS1.0.10.0.UNLCNXM/">Download</a></td></tr>
-<tr><td>POCO X6 Pro 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UNLEUXM</td><td>14.0</td><td>5.5 GB</td><td>2024-01-30</td><td><a href="/hyperos/duchamp/stable beta/OS1.0.4.0.UNLEUXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UNLMIXM</td><td>14.0</td><td>8.2 GB</td><td>2024-01-22</td><td><a href="/hyperos/duchamp/stable/OS1.0.4.0.UNLMIXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNLMIXM</td><td>14.0</td><td>5.5 GB</td><td>2024-01-17</td><td><a href="/hyperos/duchamp/stable/OS1.0.4.0.UNLMIXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UNLMIXM</td><td>14.0</td><td>5.4 GB</td><td>2024-01-11</td><td><a href="/hyperos/duchamp/stable/OS1.0.2.0.UNLMIXM/">Download</a></td></tr>
