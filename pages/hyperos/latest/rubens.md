@@ -53,6 +53,7 @@ permalink: /hyperos/rubens/
                 </thead>
                 <tbody>
                 <tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>6.1 GB</td><td>2024-01-12</td><td><a href="/hyperos/rubens/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
+<tr><td>Redmi K50 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.ULNCNXM</td><td>14.0</td><td>6.1 GB</td><td>2024-01-29</td><td><a href="/hyperos/rubens/stable beta/OS1.0.2.0.ULNCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

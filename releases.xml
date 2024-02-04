@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 04 Feb 2024 06:29:46 </lastBuildDate>
+        <lastBuildDate>Sun, 04 Feb 2024 12:58:24 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K50 (rubens) - OS1.0.2.0.ULNCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/rubens/</link>
+            <pubDate>Sun, 04 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - OS1.0.2.0.ULBCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
+            <pubDate>Sun, 04 Feb 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 12 Pro Dimensity (daumier) - OS1.0.2.0.ULGCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/daumier/</link>
@@ -697,11 +707,6 @@
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12 Pro (zeus) - V14.0.18.0.TLBCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12 Pro (zeus) - V14.0.7.0.TLBINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
@@ -854,11 +859,6 @@
         <item>
             <title>Redmi K40S/POCO F4 (munch) - V14.0.5.0.TLMMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/munch/</link>
-            <pubDate>Mon, 18 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K50 (rubens) - V14.0.10.0.TLNCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/rubens/</link>
             <pubDate>Mon, 18 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
