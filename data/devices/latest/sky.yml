@@ -29,12 +29,12 @@
     android: '14.0'
     miui: OS1.0.1.0.UMWEUXM
 - branch: stable
-  date: '2023-12-25'
+  date: '2024-02-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-25.12.2023/fw_sky_miui_SKYINGlobal_V14.0.7.0.TMWINXM_53294114d1_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sky/fw_sky_miui_SKYINGlobal_V14.0.7.0.TMWINXM_53294114d1_13.0.zip
-  filename: fw_sky_miui_SKYINGlobal_V14.0.7.0.TMWINXM_53294114d1_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-05.02.2024/fw_sky_miui_SKYINGlobal_OS1.0.1.0.UMWINXM_f5443ea0c8_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sky/fw_sky_miui_SKYINGlobal_OS1.0.1.0.UMWINXM_f5443ea0c8_14.0.zip
+  filename: fw_sky_miui_SKYINGlobal_OS1.0.1.0.UMWINXM_f5443ea0c8_14.0.zip
   region: India
   versions:
-    android: '13.0'
-    miui: V14.0.7.0.TMWINXM
+    android: '14.0'
+    miui: OS1.0.1.0.UMWINXM

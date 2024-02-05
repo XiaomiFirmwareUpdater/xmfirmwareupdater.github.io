@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 05 Feb 2024 12:46:28 </lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 18:47:44 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 13 (fuxi) - OS1.0.3.0.UMCEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
+            <pubDate>Mon, 05 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS1.0.1.0.UMWINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
             <pubDate>Mon, 05 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -755,11 +760,6 @@
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.2.0.UCVMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
             <pubDate>Thu, 11 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.7.0.TMWINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
-            <pubDate>Mon, 25 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Pad SE (xun) - V14.0.5.0.TMUEUXM</title>
