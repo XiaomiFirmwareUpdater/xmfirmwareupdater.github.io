@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 05 Feb 2024 06:29:00 </lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 12:46:28 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13 (fuxi) - OS1.0.3.0.UMCEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
+            <pubDate>Mon, 05 Feb 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K50 (rubens) - OS1.0.2.0.ULNCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/rubens/</link>
@@ -768,11 +773,6 @@
         </item>
         <item>
             <title>Xiaomi 13 (fuxi) - OS1.0.1.0.UMCMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Sun, 24 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 (fuxi) - OS1.0.1.0.UMCEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
             <pubDate>Sun, 24 Dec 2023 00:00:00 </pubDate>
         </item>
