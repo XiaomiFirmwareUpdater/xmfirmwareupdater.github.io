@@ -786,6 +786,12 @@
   version: OS1.0.7.0.UNKCNXM
 - android: '14.0'
   codename: vermeer
+  date: '2024-02-06'
+  download: https://bigota.d.miui.com/OS1.0.14.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.14.0.UNKCNXM_ffcf14bb97_14.0.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS1.0.14.0.UNKCNXM
+- android: '14.0'
+  codename: vermeer
   date: '2023-12-01'
   download: https://bigota.d.miui.com/OS1.0.5.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.5.0.UNKCNXM_164e6600c7_14.0.zip
   name: Redmi K70/POCO F6 Pro
