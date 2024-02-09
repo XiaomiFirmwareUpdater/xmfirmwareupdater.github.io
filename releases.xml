@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 09 Feb 2024 06:29:28 </lastBuildDate>
+        <lastBuildDate>Fri, 09 Feb 2024 13:07:44 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 NFC (sapphiren) - V14.0.5.0.TNHEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sapphiren/</link>
+            <pubDate>Fri, 09 Feb 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K70/POCO F6 Pro (vermeer) - OS1.0.14.0.UNKCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/vermeer/</link>
@@ -419,11 +424,6 @@
         <item>
             <title>Redmi K50G/POCO F4 GT (ingres) - OS1.0.1.0.ULJCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ingres/</link>
-            <pubDate>Thu, 18 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 NFC (sapphiren) - V14.0.3.0.TNHEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sapphiren/</link>
             <pubDate>Thu, 18 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
