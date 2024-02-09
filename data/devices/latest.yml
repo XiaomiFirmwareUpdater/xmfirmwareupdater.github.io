@@ -4439,15 +4439,15 @@
     android: '7.1'
     miui: 9.10.10
 - branch: stable
-  date: '2024-01-23'
+  date: '2024-02-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphire/releases/download/stable-23.01.2024/fw_sapphire_miui_SAPPHIREGlobal_V14.0.5.0.TNGMIXM_7284df15fe_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sapphire/fw_sapphire_miui_SAPPHIREGlobal_V14.0.5.0.TNGMIXM_7284df15fe_13.0.zip
-  filename: fw_sapphire_miui_SAPPHIREGlobal_V14.0.5.0.TNGMIXM_7284df15fe_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphire/releases/download/stable-09.02.2024/fw_sapphire_miui_SAPPHIREGlobal_V14.0.7.0.TNGMIXM_5b648749d1_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sapphire/fw_sapphire_miui_SAPPHIREGlobal_V14.0.7.0.TNGMIXM_5b648749d1_13.0.zip
+  filename: fw_sapphire_miui_SAPPHIREGlobal_V14.0.7.0.TNGMIXM_5b648749d1_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TNGMIXM
+    miui: V14.0.7.0.TNGMIXM
 - branch: stable
   date: '2024-01-29'
   downloads:

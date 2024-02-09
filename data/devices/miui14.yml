@@ -3833,6 +3833,12 @@
   name: Redmi Note 13
   version: V14.0.4.0.TNGMIXM
 - android: '13.0'
+  codename: sapphire
+  date: '2024-02-09'
+  download: https://bigota.d.miui.com/V14.0.7.0.TNGMIXM/fw_sapphire_miui_SAPPHIREGlobal_V14.0.7.0.TNGMIXM_5b648749d1_13.0.zip
+  name: Redmi Note 13
+  version: V14.0.7.0.TNGMIXM
+- android: '13.0'
   codename: sapphiren
   date: '2024-01-29'
   download: https://bigota.d.miui.com/V14.0.3.0.TNHMIXM/fw_sapphiren_miui_SAPPHIRENGlobal_V14.0.3.0.TNHMIXM_043765406f_13.0.zip
