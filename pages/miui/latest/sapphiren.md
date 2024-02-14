@@ -58,6 +58,8 @@ permalink: /miui/sapphiren/
 <tr><td>Redmi Note 13 NFC Global</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TNHMIXM</td><td>13.0</td><td>4.5 GB</td><td>2024-01-29</td><td><a href="/miui/sapphiren/stable/V14.0.3.0.TNHMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TNHRUXM</td><td>13.0</td><td>6.8 GB</td><td>2024-01-22</td><td><a href="/miui/sapphiren/stable/V14.0.3.0.TNHRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TNHRUXM</td><td>13.0</td><td>4.4 GB</td><td>2024-01-29</td><td><a href="/miui/sapphiren/stable/V14.0.3.0.TNHRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 NFC Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TNHTRXM</td><td>13.0</td><td>6.0 GB</td><td>2024-02-09</td><td><a href="/miui/sapphiren/stable/V14.0.6.0.TNHTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 NFC Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TNHTRXM</td><td>13.0</td><td>4.4 GB</td><td>2024-02-14</td><td><a href="/miui/sapphiren/stable/V14.0.6.0.TNHTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TNHTWXM</td><td>13.0</td><td>5.9 GB</td><td>2023-12-15</td><td><a href="/miui/sapphiren/stable/V14.0.1.0.TNHTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TNHTWXM</td><td>13.0</td><td>4.3 GB</td><td>2024-01-23</td><td><a href="/miui/sapphiren/stable/V14.0.1.0.TNHTWXM/">Download</a></td></tr>
 
