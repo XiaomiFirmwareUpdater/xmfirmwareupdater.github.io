@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 17 Feb 2024 12:29:31 </lastBuildDate>
+        <lastBuildDate>Sat, 17 Feb 2024 18:29:42 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 13 (sapphire) - V14.0.7.0.TNGMIXM</title>
@@ -1007,11 +1007,6 @@
             <pubDate>Thu, 07 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.5.0.TKPMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/chopin/</link>
-            <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.6.0.TLOINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
             <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
@@ -1070,11 +1065,6 @@
             <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V14.0.4.0.TKCMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/veux/</link>
             <pubDate>Mon, 20 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.8.0.TKPCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/chopin/</link>
-            <pubDate>Fri, 17 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>POCO M4 Pro 5G (evergreen) - V14.0.4.0.TGBEUXM</title>
@@ -1220,6 +1210,11 @@
             <title>POCO X5 5G (moonstone) - V14.0.3.0.TMPEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
             <pubDate>Thu, 31 Aug 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.4.0.TKPMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/chopin/</link>
+            <pubDate>Mon, 21 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>POCO X3 NFC (surya) - V14.0.5.0.SJGEUXM</title>
@@ -1405,6 +1400,11 @@
             <title>Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite (curtana) - V14.0.3.0.SJWINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/curtana/</link>
             <pubDate>Fri, 05 May 2023 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.6.0.TKPCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/chopin/</link>
+            <pubDate>Thu, 04 May 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.13.0.RCZCNXM</title>

@@ -1,23 +1,23 @@
 - branch: stable
-  date: '2023-12-05'
+  date: '2023-08-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-05.12.2023/fw_chopin_miui_CHOPINGlobal_V14.0.5.0.TKPMIXM_d4d24b2906_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/chopin/fw_chopin_miui_CHOPINGlobal_V14.0.5.0.TKPMIXM_d4d24b2906_13.0.zip
-  filename: fw_chopin_miui_CHOPINGlobal_V14.0.5.0.TKPMIXM_d4d24b2906_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-21.08.2023/fw_chopin_miui_CHOPINGlobal_V14.0.4.0.TKPMIXM_581f0a8312_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/chopin/fw_chopin_miui_CHOPINGlobal_V14.0.4.0.TKPMIXM_581f0a8312_13.0.zip
+  filename: fw_chopin_miui_CHOPINGlobal_V14.0.4.0.TKPMIXM_581f0a8312_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TKPMIXM
+    miui: V14.0.4.0.TKPMIXM
 - branch: stable
-  date: '2023-11-17'
+  date: '2023-05-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-17.11.2023/fw_chopin_miui_CHOPIN_V14.0.8.0.TKPCNXM_c0252cdcc5_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/chopin/fw_chopin_miui_CHOPIN_V14.0.8.0.TKPCNXM_c0252cdcc5_13.0.zip
-  filename: fw_chopin_miui_CHOPIN_V14.0.8.0.TKPCNXM_c0252cdcc5_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-04.05.2023/fw_chopin_miui_CHOPIN_V14.0.6.0.TKPCNXM_278b0400f6_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/chopin/fw_chopin_miui_CHOPIN_V14.0.6.0.TKPCNXM_278b0400f6_13.0.zip
+  filename: fw_chopin_miui_CHOPIN_V14.0.6.0.TKPCNXM_278b0400f6_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.8.0.TKPCNXM
+    miui: V14.0.6.0.TKPCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
