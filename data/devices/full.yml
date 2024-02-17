@@ -13819,6 +13819,16 @@
     android: '11.0'
     miui: V12.5.16.0.RKPCNXM
 - branch: stable
+  date: '2023-11-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-17.11.2023/fw_chopin_miui_CHOPIN_V14.0.8.0.TKPCNXM_c0252cdcc5_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/chopin/fw_chopin_miui_CHOPIN_V14.0.8.0.TKPCNXM_c0252cdcc5_13.0.zip
+  filename: fw_chopin_miui_CHOPIN_V14.0.8.0.TKPCNXM_c0252cdcc5_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.8.0.TKPCNXM
+- branch: stable
   date: '2022-05-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-17.05.2022/fw_chopin_miui_CHOPIN_V13.0.7.0.SKPCNXM_d85f901113_12.0.zip
@@ -13868,6 +13878,16 @@
   versions:
     android: '11.0'
     miui: V12.5.5.0.RKPMIXM
+- branch: stable
+  date: '2023-12-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-05.12.2023/fw_chopin_miui_CHOPINGlobal_V14.0.5.0.TKPMIXM_d4d24b2906_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/chopin/fw_chopin_miui_CHOPINGlobal_V14.0.5.0.TKPMIXM_d4d24b2906_13.0.zip
+  filename: fw_chopin_miui_CHOPINGlobal_V14.0.5.0.TKPMIXM_d4d24b2906_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TKPMIXM
 - branch: stable
   date: '2021-11-05'
   downloads:
@@ -21509,6 +21529,16 @@
     android: '14.0'
     miui: OS1.0.10.0.UNLCNXM
 - branch: stable
+  date: '2024-02-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-18.02.2024/fw_duchamp_miui_DUCHAMP_OS1.0.11.0.UNLCNXM_00244a3963_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/duchamp/fw_duchamp_miui_DUCHAMP_OS1.0.11.0.UNLCNXM_00244a3963_14.0.zip
+  filename: fw_duchamp_miui_DUCHAMP_OS1.0.11.0.UNLCNXM_00244a3963_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.11.0.UNLCNXM
+- branch: stable
   date: '2024-01-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-17.01.2024/fw_duchamp_miui_DUCHAMPGlobal_OS1.0.4.0.UNLMIXM_b6144d1e98_14.0.zip
@@ -24029,16 +24059,6 @@
     android: '11.0'
     miui: V13.0.4.0.RGEINXM
 - branch: stable
-  date: '2022-11-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-15.11.2022/fw_fog_miui_FOGGlobal_V13.0.4.0.SGEMIXM_facec8dc4d_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fog/fw_fog_miui_FOGGlobal_V13.0.4.0.SGEMIXM_facec8dc4d_12.0.zip
-  filename: fw_fog_miui_FOGGlobal_V13.0.4.0.SGEMIXM_facec8dc4d_12.0.zip
-  region: Global
-  versions:
-    android: '12.0'
-    miui: V13.0.4.0.SGEMIXM
-- branch: stable
   date: '2023-09-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-15.09.2023/fw_fog_miui_FOGEEAGlobal_V14.0.4.0.TGEEUXM_67cade1cbd_13.0.zip
@@ -24078,26 +24098,6 @@
   versions:
     android: '12.0'
     miui: V13.0.4.0.SGEINXM
-- branch: stable
-  date: '2022-11-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-14.11.2022/fw_fog_miui_FOGEEAGlobal_V13.0.7.0.RGEEUXM_4ec582a5dd_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fog/fw_fog_miui_FOGEEAGlobal_V13.0.7.0.RGEEUXM_4ec582a5dd_11.0.zip
-  filename: fw_fog_miui_FOGEEAGlobal_V13.0.7.0.RGEEUXM_4ec582a5dd_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V13.0.7.0.RGEEUXM
-- branch: stable
-  date: '2022-11-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-14.11.2022/fw_fog_miui_FOGINGlobal_V13.0.2.0.SGEINXM_96cda794c8_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fog/fw_fog_miui_FOGINGlobal_V13.0.2.0.SGEINXM_96cda794c8_12.0.zip
-  filename: fw_fog_miui_FOGINGlobal_V13.0.2.0.SGEINXM_96cda794c8_12.0.zip
-  region: India
-  versions:
-    android: '12.0'
-    miui: V13.0.2.0.SGEINXM
 - branch: stable
   date: '2023-10-13'
   downloads:
