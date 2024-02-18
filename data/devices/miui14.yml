@@ -1362,6 +1362,12 @@
   version: V14.0.11.0.TMCCNXM
 - android: '13.0'
   codename: gale
+  date: '2024-02-18'
+  download: https://bigota.d.miui.com/V14.0.8.0.TGPMIXM/fw_gale_miui_GALEGlobal_V14.0.8.0.TGPMIXM_6e2a9b39e3_13.0.zip
+  name: Redmi 13C/POCO C65
+  version: V14.0.8.0.TGPMIXM
+- android: '13.0'
+  codename: gale
   date: '2023-11-16'
   download: https://bigota.d.miui.com/V14.0.6.0.TGPMIXM/fw_gale_miui_GALEGlobal_V14.0.6.0.TGPMIXM_5b359fc290_13.0.zip
   name: Redmi 13C/POCO C65
@@ -2056,6 +2062,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TKOCNXM/fw_lisa_miui_LISA_V14.0.5.0.TKOCNXM_25171e94ec_13.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
   version: V14.0.5.0.TKOCNXM
+- android: '13.0'
+  codename: lisa
+  date: '2023-05-15'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKOINXM/fw_lisa_miui_LISAINGlobal_V14.0.5.0.TKOINXM_80e214deb0_13.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V14.0.5.0.TKOINXM
 - android: '13.0'
   codename: lisa
   date: '2024-01-15'

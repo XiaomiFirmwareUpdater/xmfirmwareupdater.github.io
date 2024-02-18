@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-01-11'
+  date: '2024-02-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-11.01.2024/fw_diting_miui_DITINGGlobal_V14.0.5.0.TLFMIXM_42df3ca44f_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/diting/fw_diting_miui_DITINGGlobal_V14.0.5.0.TLFMIXM_42df3ca44f_13.0.zip
-  filename: fw_diting_miui_DITINGGlobal_V14.0.5.0.TLFMIXM_42df3ca44f_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-18.02.2024/fw_diting_miui_DITINGGlobal_OS1.0.2.0.ULFMIXM_b89acba2d4_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/diting/fw_diting_miui_DITINGGlobal_OS1.0.2.0.ULFMIXM_b89acba2d4_14.0.zip
+  filename: fw_diting_miui_DITINGGlobal_OS1.0.2.0.ULFMIXM_b89acba2d4_14.0.zip
   region: Global
   versions:
-    android: '13.0'
-    miui: V14.0.5.0.TLFMIXM
+    android: '14.0'
+    miui: OS1.0.2.0.ULFMIXM
 - branch: stable
   date: '2024-01-11'
   downloads:

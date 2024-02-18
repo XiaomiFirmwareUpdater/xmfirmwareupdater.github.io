@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 18 Feb 2024 10:01:15 </lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2024 13:00:49 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi Pad 5 Pro 12.4 (dagu) - OS1.0.1.0.ULZCNXM</title>
@@ -12,8 +12,18 @@
             <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS1.0.2.0.ULFMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
+            <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.1.0.UCVEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
+            <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 13C/POCO C65 (gale) - V14.0.8.0.TGPMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/gale/</link>
             <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -29,6 +39,11 @@
         <item>
             <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V14.0.9.0.TLSEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/light/</link>
+            <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>POCO X5 5G (moonstone) - OS1.0.1.0.UMPEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
             <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -762,11 +777,6 @@
             <pubDate>Thu, 11 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.5.0.TLFMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
-            <pubDate>Thu, 11 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS1.0.2.0.ULFCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
             <pubDate>Thu, 11 Jan 2024 00:00:00 </pubDate>
@@ -1017,11 +1027,6 @@
             <pubDate>Fri, 08 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 13C/POCO C65 (gale) - V14.0.7.0.TGPMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/gale/</link>
-            <pubDate>Thu, 07 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.5.0.TKPMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/chopin/</link>
             <pubDate>Tue, 05 Dec 2023 00:00:00 </pubDate>
@@ -1220,11 +1225,6 @@
             <title>POCO M4 Pro 5G (evergreen) - V14.0.2.0.TGBMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/evergreen/</link>
             <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO X5 5G (moonstone) - V14.0.3.0.TMPEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
-            <pubDate>Thu, 31 Aug 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>POCO X3 NFC (surya) - V14.0.5.0.SJGEUXM</title>

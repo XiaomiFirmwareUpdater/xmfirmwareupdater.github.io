@@ -1219,15 +1219,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2024-01-11'
+  date: '2024-02-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-11.01.2024/fw_diting_miui_DITINGGlobal_V14.0.5.0.TLFMIXM_42df3ca44f_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/diting/fw_diting_miui_DITINGGlobal_V14.0.5.0.TLFMIXM_42df3ca44f_13.0.zip
-  filename: fw_diting_miui_DITINGGlobal_V14.0.5.0.TLFMIXM_42df3ca44f_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-18.02.2024/fw_diting_miui_DITINGGlobal_OS1.0.2.0.ULFMIXM_b89acba2d4_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/diting/fw_diting_miui_DITINGGlobal_OS1.0.2.0.ULFMIXM_b89acba2d4_14.0.zip
+  filename: fw_diting_miui_DITINGGlobal_OS1.0.2.0.ULFMIXM_b89acba2d4_14.0.zip
   region: Global
   versions:
-    android: '13.0'
-    miui: V14.0.5.0.TLFMIXM
+    android: '14.0'
+    miui: OS1.0.2.0.ULFMIXM
 - branch: stable
   date: '2024-01-11'
   downloads:
@@ -1629,15 +1629,15 @@
     android: '14.0'
     miui: OS1.0.3.0.UMCEUXM
 - branch: stable
-  date: '2023-12-07'
+  date: '2024-02-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-07.12.2023/fw_gale_miui_GALEGlobal_V14.0.7.0.TGPMIXM_a162b65372_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/gale/fw_gale_miui_GALEGlobal_V14.0.7.0.TGPMIXM_a162b65372_13.0.zip
-  filename: fw_gale_miui_GALEGlobal_V14.0.7.0.TGPMIXM_a162b65372_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-18.02.2024/fw_gale_miui_GALEGlobal_V14.0.8.0.TGPMIXM_6e2a9b39e3_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/gale/fw_gale_miui_GALEGlobal_V14.0.8.0.TGPMIXM_6e2a9b39e3_13.0.zip
+  filename: fw_gale_miui_GALEGlobal_V14.0.8.0.TGPMIXM_6e2a9b39e3_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.7.0.TGPMIXM
+    miui: V14.0.8.0.TGPMIXM
 - branch: stable
   date: '2024-02-03'
   downloads:
@@ -3069,15 +3069,15 @@
     android: '14.0'
     miui: OS1.0.3.0.UMPMIXM
 - branch: stable
-  date: '2023-08-31'
+  date: '2024-02-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-31.08.2023/fw_moonstone_miui_MOONSTONEEEAGlobal_V14.0.3.0.TMPEUXM_24a0a7d054_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/moonstone/fw_moonstone_miui_MOONSTONEEEAGlobal_V14.0.3.0.TMPEUXM_24a0a7d054_13.0.zip
-  filename: fw_moonstone_miui_MOONSTONEEEAGlobal_V14.0.3.0.TMPEUXM_24a0a7d054_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-18.02.2024/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.1.0.UMPEUXM_817ae3aaf2_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moonstone/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.1.0.UMPEUXM_817ae3aaf2_14.0.zip
+  filename: fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.1.0.UMPEUXM_817ae3aaf2_14.0.zip
   region: Europe
   versions:
-    android: '13.0'
-    miui: V14.0.3.0.TMPEUXM
+    android: '14.0'
+    miui: OS1.0.1.0.UMPEUXM
 - branch: stable
   date: '2024-01-30'
   downloads:

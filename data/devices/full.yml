@@ -21319,6 +21319,16 @@
     android: '13.0'
     miui: V14.0.13.0.TLFEUXM
 - branch: stable
+  date: '2024-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-18.02.2024/fw_diting_miui_DITINGGlobal_OS1.0.2.0.ULFMIXM_b89acba2d4_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/diting/fw_diting_miui_DITINGGlobal_OS1.0.2.0.ULFMIXM_b89acba2d4_14.0.zip
+  filename: fw_diting_miui_DITINGGlobal_OS1.0.2.0.ULFMIXM_b89acba2d4_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.ULFMIXM
+- branch: stable
   date: '2023-07-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-17.07.2023/fw_diting_miui_DITINGGlobal_V14.0.3.0.TLFMIXM_e7ab587406_13.0.zip
@@ -24618,6 +24628,16 @@
   versions:
     android: '13.0'
     miui: V14.0.11.0.TMCCNXM
+- branch: stable
+  date: '2024-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-18.02.2024/fw_gale_miui_GALEGlobal_V14.0.8.0.TGPMIXM_6e2a9b39e3_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/gale/fw_gale_miui_GALEGlobal_V14.0.8.0.TGPMIXM_6e2a9b39e3_13.0.zip
+  filename: fw_gale_miui_GALEGlobal_V14.0.8.0.TGPMIXM_6e2a9b39e3_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.8.0.TGPMIXM
 - branch: stable
   date: '2023-11-16'
   downloads:
@@ -35039,6 +35059,16 @@
     android: '12.0'
     miui: V13.0.6.0.SKOINXM
 - branch: stable
+  date: '2022-02-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-20.02.2022/fw_lisa_miui_LISA_V12.5.9.0.RKOCNXM_8fc92bb085_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lisa/fw_lisa_miui_LISA_V12.5.9.0.RKOCNXM_8fc92bb085_11.0.zip
+  filename: fw_lisa_miui_LISA_V12.5.9.0.RKOCNXM_8fc92bb085_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.9.0.RKOCNXM
+- branch: stable
   date: '2022-04-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-19.04.2022/fw_lisa_miui_LISAEEAGlobal_V13.0.8.0.SKOEUXM_7ba9890b2d_12.0.zip
@@ -35079,6 +35109,16 @@
     android: '13.0'
     miui: V14.0.3.0.TKOMIXM
 - branch: stable
+  date: '2022-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-18.02.2022/fw_lisa_miui_LISAEEAGlobal_V13.0.5.0.SKOEUXM_99c45f2bb2_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lisa/fw_lisa_miui_LISAEEAGlobal_V13.0.5.0.SKOEUXM_99c45f2bb2_12.0.zip
+  filename: fw_lisa_miui_LISAEEAGlobal_V13.0.5.0.SKOEUXM_99c45f2bb2_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SKOEUXM
+- branch: stable
   date: '2021-12-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-16.12.2021/fw_lisa_miui_LISA_V12.5.7.0.RKOCNXM_a13973e336_11.0.zip
@@ -35118,6 +35158,16 @@
   versions:
     android: '13.0'
     miui: V14.0.5.0.TKOCNXM
+- branch: stable
+  date: '2023-05-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-15.05.2023/fw_lisa_miui_LISAINGlobal_V14.0.5.0.TKOINXM_80e214deb0_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lisa/fw_lisa_miui_LISAINGlobal_V14.0.5.0.TKOINXM_80e214deb0_13.0.zip
+  filename: fw_lisa_miui_LISAINGlobal_V14.0.5.0.TKOINXM_80e214deb0_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TKOINXM
 - branch: stable
   date: '2022-03-14'
   downloads:
@@ -39488,6 +39538,16 @@
   versions:
     android: '13.0'
     miui: V14.0.2.0.TMPINXM
+- branch: stable
+  date: '2024-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-18.02.2024/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.1.0.UMPEUXM_817ae3aaf2_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moonstone/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.1.0.UMPEUXM_817ae3aaf2_14.0.zip
+  filename: fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.1.0.UMPEUXM_817ae3aaf2_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.1.0.UMPEUXM
 - branch: stable
   date: '2023-11-17'
   downloads:
@@ -60059,6 +60119,16 @@
     android: '12.0'
     miui: V13.0.16.0.SKFMIXM
 - branch: stable
+  date: '2021-08-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweetin/releases/download/stable-30.08.2021/fw_sweetin_miui_SWEETININGlobal_V12.5.8.0.RKFINXM_a7ec99607d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweetin/fw_sweetin_miui_SWEETININGlobal_V12.5.8.0.RKFINXM_a7ec99607d_11.0.zip
+  filename: fw_sweetin_miui_SWEETININGlobal_V12.5.8.0.RKFINXM_a7ec99607d_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.8.0.RKFINXM
+- branch: stable
   date: '2022-07-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweetin/releases/download/stable-25.07.2022/fw_sweetin_miui_SWEETININGlobal_V13.0.5.0.SKFINXM_59d7d3e509_12.0.zip
@@ -60068,6 +60138,16 @@
   versions:
     android: '12.0'
     miui: V13.0.5.0.SKFINXM
+- branch: stable
+  date: '2021-04-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweetin/releases/download/stable-22.04.2021/fw_sweetin_miui_SWEETININGlobal_V12.0.10.0.RKFINXM_13e6d3033e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweetin/fw_sweetin_miui_SWEETININGlobal_V12.0.10.0.RKFINXM_13e6d3033e_11.0.zip
+  filename: fw_sweetin_miui_SWEETININGlobal_V12.0.10.0.RKFINXM_13e6d3033e_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.0.10.0.RKFINXM
 - branch: stable
   date: '2021-07-21'
   downloads:

@@ -90,6 +90,12 @@
   version: OS1.0.1.0.ULFEUXM
 - android: '14.0'
   codename: diting
+  date: '2024-02-18'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULFMIXM/fw_diting_miui_DITINGGlobal_OS1.0.2.0.ULFMIXM_b89acba2d4_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.2.0.ULFMIXM
+- android: '14.0'
+  codename: diting
   date: '2024-01-11'
   download: https://bigota.d.miui.com/OS1.0.2.0.ULFCNXM/fw_diting_miui_DITING_OS1.0.2.0.ULFCNXM_10cb54f830_14.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
@@ -454,6 +460,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMPMIXM/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.3.0.UMPMIXM_9531a81bb0_14.0.zip
   name: POCO X5 5G
   version: OS1.0.3.0.UMPMIXM
+- android: '14.0'
+  codename: moonstone
+  date: '2024-02-18'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UMPEUXM/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.1.0.UMPEUXM_817ae3aaf2_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.1.0.UMPEUXM
 - android: '14.0'
   codename: nuwa
   date: '2023-12-15'
