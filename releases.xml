@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 18 Feb 2024 19:16:48 </lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 00:31:59 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi Pad 5 Pro 12.4 (dagu) - OS1.0.1.0.ULZCNXM</title>
@@ -39,6 +39,11 @@
         <item>
             <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V14.0.9.0.TLSEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/light/</link>
+            <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K50 Pro (matisse) - OS1.0.2.0.ULKCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/matisse/</link>
             <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -669,11 +674,6 @@
         <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.27.0.TMRCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K50 Pro (matisse) - V14.0.15.0.TLKCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/matisse/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>

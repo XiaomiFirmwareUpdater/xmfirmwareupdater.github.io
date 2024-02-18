@@ -413,6 +413,12 @@
   name: Redmi Note 12 Turbo/POCO F5
   version: OS1.0.2.0.UMRMIXM
 - android: '14.0'
+  codename: matisse
+  date: '2024-02-18'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULKCNXM/fw_matisse_miui_MATISSE_OS1.0.2.0.ULKCNXM_1defcda6ec_14.0.zip
+  name: Redmi K50 Pro
+  version: OS1.0.2.0.ULKCNXM
+- android: '14.0'
   codename: mayfly
   date: '2024-02-18'
   download: https://bigota.d.miui.com/OS1.0.3.0.ULTCNXM/fw_mayfly_miui_MAYFLY_OS1.0.3.0.ULTCNXM_2d7643fb8d_14.0.zip

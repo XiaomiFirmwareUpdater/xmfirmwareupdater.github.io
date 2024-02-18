@@ -37629,6 +37629,16 @@
     android: '13.0'
     miui: V14.0.12.0.TLKCNXM
 - branch: stable
+  date: '2024-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-19.02.2024/fw_matisse_miui_MATISSE_OS1.0.2.0.ULKCNXM_1defcda6ec_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/matisse/fw_matisse_miui_MATISSE_OS1.0.2.0.ULKCNXM_1defcda6ec_14.0.zip
+  filename: fw_matisse_miui_MATISSE_OS1.0.2.0.ULKCNXM_1defcda6ec_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.ULKCNXM
+- branch: stable
   date: '2022-10-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-18.10.2022/fw_matisse_miui_MATISSE_V13.0.26.0.SLKCNXM_6777b8c4c4_12.0.zip
@@ -66548,16 +66558,6 @@
   versions:
     android: '12.0'
     miui: V13.0.3.0.SJUMIXM
-- branch: stable
-  date: '2022-11-07'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-07.11.2022/fw_vayu_miui_VAYUEEAGlobal_V13.0.4.0.SJUEUXM_e9e009e00f_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vayu/fw_vayu_miui_VAYUEEAGlobal_V13.0.4.0.SJUEUXM_e9e009e00f_12.0.zip
-  filename: fw_vayu_miui_VAYUEEAGlobal_V13.0.4.0.SJUEUXM_e9e009e00f_12.0.zip
-  region: Europe
-  versions:
-    android: '12.0'
-    miui: V13.0.4.0.SJUEUXM
 - branch: stable
   date: '2021-09-06'
   downloads:
