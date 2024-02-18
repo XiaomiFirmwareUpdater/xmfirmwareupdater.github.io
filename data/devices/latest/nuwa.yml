@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-01-12'
+  date: '2024-02-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-12.01.2024/fw_nuwa_miui_NUWAGlobal_OS1.0.1.0.UMBMIXM_ce099f9f78_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAGlobal_OS1.0.1.0.UMBMIXM_ce099f9f78_14.0.zip
-  filename: fw_nuwa_miui_NUWAGlobal_OS1.0.1.0.UMBMIXM_ce099f9f78_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-18.02.2024/fw_nuwa_miui_NUWAGlobal_OS1.0.4.0.UMBMIXM_cc8d40c018_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAGlobal_OS1.0.4.0.UMBMIXM_cc8d40c018_14.0.zip
+  filename: fw_nuwa_miui_NUWAGlobal_OS1.0.4.0.UMBMIXM_cc8d40c018_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.1.0.UMBMIXM
+    miui: OS1.0.4.0.UMBMIXM
 - branch: stable
   date: '2024-01-12'
   downloads:
@@ -19,15 +19,15 @@
     android: '14.0'
     miui: OS1.0.4.0.UMBCNXM
 - branch: stable
-  date: '2024-01-12'
+  date: '2024-02-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-12.01.2024/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.1.0.UMBEUXM_42a3c8c25a_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.1.0.UMBEUXM_42a3c8c25a_14.0.zip
-  filename: fw_nuwa_miui_NUWAEEAGlobal_OS1.0.1.0.UMBEUXM_42a3c8c25a_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-18.02.2024/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.4.0.UMBEUXM_95bf88a6fa_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.4.0.UMBEUXM_95bf88a6fa_14.0.zip
+  filename: fw_nuwa_miui_NUWAEEAGlobal_OS1.0.4.0.UMBEUXM_95bf88a6fa_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.1.0.UMBEUXM
+    miui: OS1.0.4.0.UMBEUXM
 - branch: stable
   date: '2024-01-12'
   downloads:

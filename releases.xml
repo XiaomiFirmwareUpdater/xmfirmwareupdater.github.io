@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 18 Feb 2024 13:00:49 </lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2024 19:16:48 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi Pad 5 Pro 12.4 (dagu) - OS1.0.1.0.ULZCNXM</title>
@@ -42,8 +42,23 @@
             <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 12S (mayfly) - OS1.0.3.0.ULTCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/mayfly/</link>
+            <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>POCO X5 5G (moonstone) - OS1.0.1.0.UMPEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
+            <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - OS1.0.4.0.UMBMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - OS1.0.4.0.UMBEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -52,8 +67,23 @@
             <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.9.0.TKTEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/pissarro/</link>
+            <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12T (plato) - OS1.0.8.0.ULQEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/plato/</link>
+            <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 13 NFC (sapphiren) - V14.0.7.0.TNHMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sapphiren/</link>
+            <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS1.0.4.0.UMQEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -657,17 +687,7 @@
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13 Pro (nuwa) - OS1.0.1.0.UMBMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13 Pro (nuwa) - OS1.0.4.0.UMBCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Pro (nuwa) - OS1.0.1.0.UMBEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
@@ -724,11 +744,6 @@
         <item>
             <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V14.0.7.0.TKAEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/star/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS1.0.2.0.UMQEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -835,11 +850,6 @@
             <title>Redmi Pad SE (xun) - V14.0.5.0.TMUMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
             <pubDate>Fri, 22 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12T (plato) - OS1.0.5.0.ULQEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/plato/</link>
-            <pubDate>Thu, 21 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.5.0.TMOINXM</title>
@@ -957,11 +967,6 @@
             <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12S (mayfly) - V14.0.11.0.TLTCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/mayfly/</link>
-            <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.8.0.TKTCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/pissarro/</link>
             <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
@@ -1009,11 +1014,6 @@
         <item>
             <title>MIX 4 (odin) - V14.0.8.0.TKMCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/odin/</link>
-            <pubDate>Fri, 08 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.7.0.TKTEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/pissarro/</link>
             <pubDate>Fri, 08 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>

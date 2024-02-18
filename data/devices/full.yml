@@ -37739,6 +37739,16 @@
     android: '12.0'
     miui: V13.0.20.0.SLTCNXM
 - branch: stable
+  date: '2024-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-18.02.2024/fw_mayfly_miui_MAYFLY_OS1.0.3.0.ULTCNXM_2d7643fb8d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/mayfly/fw_mayfly_miui_MAYFLY_OS1.0.3.0.ULTCNXM_2d7643fb8d_14.0.zip
+  filename: fw_mayfly_miui_MAYFLY_OS1.0.3.0.ULTCNXM_2d7643fb8d_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.ULTCNXM
+- branch: stable
   date: '2023-01-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-15.01.2023/fw_mayfly_miui_MAYFLY_V14.0.5.0.TLTCNXM_c9b9d9dadb_13.0.zip
@@ -41438,6 +41448,26 @@
   versions:
     android: '14.0'
     miui: V14.0.1.0.UMBINXM
+- branch: stable
+  date: '2024-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-18.02.2024/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.4.0.UMBEUXM_95bf88a6fa_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.4.0.UMBEUXM_95bf88a6fa_14.0.zip
+  filename: fw_nuwa_miui_NUWAEEAGlobal_OS1.0.4.0.UMBEUXM_95bf88a6fa_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UMBEUXM
+- branch: stable
+  date: '2024-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-18.02.2024/fw_nuwa_miui_NUWAGlobal_OS1.0.4.0.UMBMIXM_cc8d40c018_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAGlobal_OS1.0.4.0.UMBMIXM_cc8d40c018_14.0.zip
+  filename: fw_nuwa_miui_NUWAGlobal_OS1.0.4.0.UMBMIXM_cc8d40c018_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UMBMIXM
 - branch: stable
   date: '2022-12-17'
   downloads:
@@ -47269,6 +47299,16 @@
     android: '13.0'
     miui: V14.0.7.0.TKTCNXM
 - branch: stable
+  date: '2024-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-18.02.2024/fw_pissarro_miui_PISSARROEEAGlobal_V14.0.9.0.TKTEUXM_c25c87f59b_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARROEEAGlobal_V14.0.9.0.TKTEUXM_c25c87f59b_13.0.zip
+  filename: fw_pissarro_miui_PISSARROEEAGlobal_V14.0.9.0.TKTEUXM_c25c87f59b_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.9.0.TKTEUXM
+- branch: stable
   date: '2022-11-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-17.11.2022/fw_pissarro_miui_PISSARROGlobal_V13.0.6.0.SKTMIXM_399e7faeac_12.0.zip
@@ -48338,6 +48378,16 @@
   versions:
     android: '13.0'
     miui: V14.0.4.0.TLQMIXM
+- branch: stable
+  date: '2024-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-18.02.2024/fw_plato_miui_PLATOEEAGlobal_OS1.0.8.0.ULQEUXM_751280393d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/plato/fw_plato_miui_PLATOEEAGlobal_OS1.0.8.0.ULQEUXM_751280393d_14.0.zip
+  filename: fw_plato_miui_PLATOEEAGlobal_OS1.0.8.0.ULQEUXM_751280393d_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.8.0.ULQEUXM
 - branch: stable
   date: '2023-03-14'
   downloads:
@@ -59208,6 +59258,16 @@
   versions:
     android: '12.0'
     miui: V13.0.15.0.SMQCNXM
+- branch: stable
+  date: '2024-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-18.02.2024/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.4.0.UMQEUXM_d13ccdd6b2_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sunstone/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.4.0.UMQEUXM_d13ccdd6b2_14.0.zip
+  filename: fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.4.0.UMQEUXM_d13ccdd6b2_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UMQEUXM
 - branch: stable
   date: '2023-12-16'
   downloads:
