@@ -71,6 +71,12 @@
   name: Xiaomi 12
   version: OS1.0.2.0.ULCCNXM
 - android: '14.0'
+  codename: dagu
+  date: '2024-02-18'
+  download: https://bigota.d.miui.com/OS1.0.1.0.ULZCNXM/fw_dagu_miui_DAGU_OS1.0.1.0.ULZCNXM_eda29421b4_14.0.zip
+  name: Xiaomi Pad 5 Pro 12.4
+  version: OS1.0.1.0.ULZCNXM
+- android: '14.0'
   codename: daumier
   date: '2024-02-03'
   download: https://bigota.d.miui.com/OS1.0.2.0.ULGCNXM/fw_daumier_miui_DAUMIER_OS1.0.2.0.ULGCNXM_d84b64c895_14.0.zip
@@ -166,6 +172,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UCVINXM/fw_earth_miui_EARTHINGlobal_OS1.0.2.0.UCVINXM_d3d972cf43_14.0.zip
   name: Redmi 12C/POCO C55
   version: OS1.0.2.0.UCVINXM
+- android: '14.0'
+  codename: earth
+  date: '2024-02-18'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UCVEUXM/fw_earth_miui_EARTHEEAGlobal_OS1.0.1.0.UCVEUXM_fabf22927d_14.0.zip
+  name: Redmi 12C/POCO C55
+  version: OS1.0.1.0.UCVEUXM
 - android: '14.0'
   codename: earth
   date: '2024-01-11'
@@ -498,6 +510,12 @@
   version: OS1.0.2.0.UMZINXM
 - android: '14.0'
   codename: pipa
+  date: '2024-02-18'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMZEUXM/fw_pipa_miui_PIPAEEAGlobal_OS1.0.4.0.UMZEUXM_81e4f605a8_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.4.0.UMZEUXM
+- android: '14.0'
+  codename: pipa
   date: '2024-01-17'
   download: https://bigota.d.miui.com/OS1.0.3.0.UMZEUXM/fw_pipa_miui_PIPAEEAGlobal_OS1.0.3.0.UMZEUXM_a9b435c82f_14.0.zip
   name: Xiaomi Pad 6
@@ -732,6 +750,12 @@
   version: OS1.0.2.0.ULIMIXM
 - android: '14.0'
   codename: tapas
+  date: '2024-02-18'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMTMIXM/fw_tapas_miui_TAPASGlobal_OS1.0.4.0.UMTMIXM_5f979b1e34_14.0.zip
+  name: Redmi Note 12 4G
+  version: OS1.0.4.0.UMTMIXM
+- android: '14.0'
+  codename: tapas
   date: '2024-01-15'
   download: https://bigota.d.miui.com/OS1.0.1.0.UMTINXM/fw_tapas_miui_TAPASINGlobal_OS1.0.1.0.UMTINXM_f868289c5c_14.0.zip
   name: Redmi Note 12 4G
@@ -754,6 +778,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMGEUXM/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.2.0.UMGEUXM_8f6a8b7267_14.0.zip
   name: Redmi Note 12 4G NFC
   version: OS1.0.2.0.UMGEUXM
+- android: '14.0'
+  codename: topaz
+  date: '2024-02-18'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMGMIXM/fw_topaz_miui_TOPAZGlobal_OS1.0.4.0.UMGMIXM_a5ad88643c_14.0.zip
+  name: Redmi Note 12 4G NFC
+  version: OS1.0.4.0.UMGMIXM
 - android: '14.0'
   codename: topaz
   date: '2024-01-12'

@@ -209,16 +209,6 @@
     android: '12.0'
     miui: V13.0.6.0.SKOINXM
 - branch: stable
-  date: '2022-02-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-20.02.2022/fw_lisa_miui_LISA_V12.5.9.0.RKOCNXM_8fc92bb085_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lisa/fw_lisa_miui_LISA_V12.5.9.0.RKOCNXM_8fc92bb085_11.0.zip
-  filename: fw_lisa_miui_LISA_V12.5.9.0.RKOCNXM_8fc92bb085_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.9.0.RKOCNXM
-- branch: stable
   date: '2022-04-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-19.04.2022/fw_lisa_miui_LISAEEAGlobal_V13.0.8.0.SKOEUXM_7ba9890b2d_12.0.zip
@@ -259,16 +249,6 @@
     android: '13.0'
     miui: V14.0.3.0.TKOMIXM
 - branch: stable
-  date: '2022-02-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-18.02.2022/fw_lisa_miui_LISAEEAGlobal_V13.0.5.0.SKOEUXM_99c45f2bb2_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lisa/fw_lisa_miui_LISAEEAGlobal_V13.0.5.0.SKOEUXM_99c45f2bb2_12.0.zip
-  filename: fw_lisa_miui_LISAEEAGlobal_V13.0.5.0.SKOEUXM_99c45f2bb2_12.0.zip
-  region: Europe
-  versions:
-    android: '12.0'
-    miui: V13.0.5.0.SKOEUXM
-- branch: stable
   date: '2021-12-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-16.12.2021/fw_lisa_miui_LISA_V12.5.7.0.RKOCNXM_a13973e336_11.0.zip
@@ -308,16 +288,6 @@
   versions:
     android: '13.0'
     miui: V14.0.5.0.TKOCNXM
-- branch: stable
-  date: '2023-05-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-15.05.2023/fw_lisa_miui_LISAINGlobal_V14.0.5.0.TKOINXM_80e214deb0_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lisa/fw_lisa_miui_LISAINGlobal_V14.0.5.0.TKOINXM_80e214deb0_13.0.zip
-  filename: fw_lisa_miui_LISAINGlobal_V14.0.5.0.TKOINXM_80e214deb0_13.0.zip
-  region: India
-  versions:
-    android: '13.0'
-    miui: V14.0.5.0.TKOINXM
 - branch: stable
   date: '2022-03-14'
   downloads:
