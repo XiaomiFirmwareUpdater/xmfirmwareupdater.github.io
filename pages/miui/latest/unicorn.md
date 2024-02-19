@@ -53,8 +53,7 @@ permalink: /miui/unicorn/
                 </thead>
                 <tbody>
                 <tr><td>Xiaomi 12S Pro China</td><td>Public Beta</td><td>Fastboot</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>7.7 GB</td><td>2022-12-05</td><td><a href="/miui/unicorn/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi 12S Pro China</td><td>Stable</td><td>Fastboot</td><td>V14.0.11.0.TLECNXM</td><td>13.0</td><td>7.5 GB</td><td>2023-11-23</td><td><a href="/miui/unicorn/stable/V14.0.11.0.TLECNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12S Pro China</td><td>Stable</td><td>Recovery</td><td>V14.0.11.0.TLECNXM</td><td>13.0</td><td>5.9 GB</td><td>2023-12-05</td><td><a href="/miui/unicorn/stable/V14.0.11.0.TLECNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12S Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TLECNXM</td><td>13.0</td><td>6.0 GB</td><td>2022-12-28</td><td><a href="/miui/unicorn/stable beta/V14.0.3.0.TLECNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

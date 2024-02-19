@@ -912,6 +912,18 @@
   version: V14.0.4.0.TNFEUXM
 - android: '13.0'
   codename: emerald
+  date: '2024-02-19'
+  download: https://bigota.d.miui.com/V14.0.5.0.TNFEUXM/fw_emerald_miui_EMERALDEEAGlobal_V14.0.5.0.TNFEUXM_45fedc584e_13.0.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  version: V14.0.5.0.TNFEUXM
+- android: '13.0'
+  codename: emerald
+  date: '2024-02-19'
+  download: https://bigota.d.miui.com/V14.0.5.0.TNFMIXM/fw_emerald_miui_EMERALDGlobal_V14.0.5.0.TNFMIXM_1bed759fb4_13.0.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  version: V14.0.5.0.TNFMIXM
+- android: '13.0'
+  codename: emerald
   date: '2024-01-19'
   download: https://bigota.d.miui.com/V14.0.3.0.TNFEUXM/fw_emerald_miui_EMERALDEEAGlobal_V14.0.3.0.TNFEUXM_349eaeb0c4_13.0.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro
