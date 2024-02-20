@@ -233,6 +233,12 @@
   name: Xiaomi 13
   version: OS1.0.3.0.UMCEUXM
 - android: '14.0'
+  codename: garnet
+  date: '2024-02-20'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UNRCNXM/fw_garnet_miui_GARNET_OS1.0.1.0.UNRCNXM_e7be0367c7_14.0.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS1.0.1.0.UNRCNXM
+- android: '14.0'
   codename: houji
   date: '2023-10-31'
   download: https://bigota.d.miui.com/OS1.0.11.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.11.0.UNCCNXM_8541c46b8d_14.0.zip

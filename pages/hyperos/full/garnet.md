@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) HyperOS Downloads
+title: Redmi Note 13 Pro 5G/POCO X6 5G (garnet) HyperOS Downloads
 layout: download
-name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
-codename: ruby
-permalink: /archive/hyperos/ruby/
+name: Redmi Note 13 Pro 5G/POCO X6 5G
+codename: garnet
+permalink: /archive/hyperos/garnet/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/ruby/">Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/garnet/">Redmi Note 13 Pro 5G/POCO X6 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /archive/hyperos/ruby/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows all available downloads.
      If you're looking for the latest releases check or other downloads check:</p>
-    <a href="/hyperos/ruby/" class="card-link">Latest HyperOS</a>
-    <a href="/firmware/ruby/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/ruby/" class="card-link">Vendor Downloads</a>
+    <a href="/hyperos/garnet/" class="card-link">Latest HyperOS</a>
+    <a href="/firmware/garnet/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/garnet/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,13 +52,7 @@ permalink: /archive/hyperos/ruby/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12 Pro / Pro+ 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UMOEUXM</td><td>14.0</td><td>7.2 GB</td><td>2024-02-20</td><td><a href="/hyperos/ruby/stable/OS1.0.1.0.UMOEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 Pro / Pro+ 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UMOEUXM</td><td>14.0</td><td>4.9 GB</td><td>2024-01-25</td><td><a href="/hyperos/ruby/stable/OS1.0.1.0.UMOEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 Pro / Pro+ 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UMOMIXM</td><td>14.0</td><td>7.4 GB</td><td>2024-02-05</td><td><a href="/hyperos/ruby/stable/OS1.0.1.0.UMOMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 Pro / Pro+ 5G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UMOMIXM</td><td>14.0</td><td>4.9 GB</td><td>2024-01-25</td><td><a href="/hyperos/ruby/stable/OS1.0.1.0.UMOMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 Pro / Pro+ / Discovery 5G China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UMOCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-01-29</td><td><a href="/hyperos/ruby/stable/OS1.0.3.0.UMOCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 Pro / Pro+ / Discovery 5G China</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UMOCNXM</td><td>14.0</td><td>5.5 GB</td><td>2024-01-17</td><td><a href="/hyperos/ruby/stable/OS1.0.3.0.UMOCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 Pro / Pro+ / Discovery 5G China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UMOCNXM</td><td>14.0</td><td>5.5 GB</td><td>2024-01-03</td><td><a href="/hyperos/ruby/stable/OS1.0.2.0.UMOCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 13 Pro 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UNRCNXM</td><td>14.0</td><td>5.6 GB</td><td>2024-01-30</td><td><a href="/hyperos/garnet/stable beta/OS1.0.1.0.UNRCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
