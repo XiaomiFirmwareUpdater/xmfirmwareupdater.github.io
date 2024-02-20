@@ -120,6 +120,12 @@
   version: OS1.0.10.0.UNLCNXM
 - android: '14.0'
   codename: duchamp
+  date: '2024-02-20'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UNLINXM/fw_duchamp_miui_DUCHAMPINGlobal_OS1.0.5.0.UNLINXM_688b2fd297_14.0.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS1.0.5.0.UNLINXM
+- android: '14.0'
+  codename: duchamp
   date: '2024-02-17'
   download: https://bigota.d.miui.com/OS1.0.11.0.UNLCNXM/fw_duchamp_miui_DUCHAMP_OS1.0.11.0.UNLCNXM_00244a3963_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
@@ -922,6 +928,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULBCNXM/fw_zeus_miui_ZEUS_OS1.0.2.0.ULBCNXM_0ba0e58724_14.0.zip
   name: Xiaomi 12 Pro
   version: OS1.0.2.0.ULBCNXM
+- android: '14.0'
+  codename: zircon
+  date: '2024-02-20'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UNOCNXM/fw_zircon_miui_ZIRCON_OS1.0.2.0.UNOCNXM_6c10262097_14.0.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS1.0.2.0.UNOCNXM
 - android: '14.0'
   codename: zizhan
   date: '2023-12-25'

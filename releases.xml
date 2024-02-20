@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 20 Feb 2024 06:31:08 </lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 12:34:19 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.5.0.UNLINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Tue, 20 Feb 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS1.0.1.0.UNRCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
+            <pubDate>Tue, 20 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro+ 5G (zircon) - OS1.0.2.0.UNOCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Tue, 20 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -537,11 +547,6 @@
             <pubDate>Wed, 17 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 Pro+ 5G (zircon) - V14.0.9.0.TNOCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
-            <pubDate>Wed, 17 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS1.0.1.0.UMLMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/corot/</link>
             <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
@@ -794,11 +799,6 @@
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS1.0.2.0.ULFCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
-            <pubDate>Thu, 11 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.1.0.UNLINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Thu, 11 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
