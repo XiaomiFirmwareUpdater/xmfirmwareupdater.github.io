@@ -28,7 +28,7 @@ permalink: /firmware/zircon/
     <p class="card-text">This page shows the latest firmware downloads only.
      If you're looking for older releases or other downloads check:</p>
     <a href="/archive/firmware/zircon/" class="card-link">Firmware Archive</a>
-    <a href="/miui/zircon/" class="card-link">MIUI Downloads</a>
+    <a href="/hyperos/zircon/" class="card-link">HyperOS Downloads</a>
     <a href="/vendor/zircon/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
@@ -42,7 +42,7 @@ permalink: /firmware/zircon/
                 <thead class="thead-dark">
                     <tr>
                         <th data-ref="branch">Branch</th>
-                        <th data-ref="miui">MIUI</th>
+                        <th data-ref="miui">HyperOS</th>
                         <th data-ref="android">Android</th>
                         <th data-ref="region">Region</th>
                         <th data-ref="link">Link</th>

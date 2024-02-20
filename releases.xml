@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 20 Feb 2024 18:29:47 </lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 00:34:50 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS1.0.9.0.UMLCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/corot/</link>
+            <pubDate>Tue, 20 Feb 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.5.0.UNLINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Tue, 20 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 (fuxi) - OS1.0.7.0.UMCCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
             <pubDate>Tue, 20 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -607,11 +617,6 @@
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13 (fuxi) - OS1.0.6.0.UMCCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - V14.0.4.0.TNREUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
@@ -784,11 +789,6 @@
         <item>
             <title>Xiaomi 13T (aristotle) - V14.0.13.0.TMFEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/aristotle/</link>
-            <pubDate>Thu, 11 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS1.0.7.0.UMLCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/corot/</link>
             <pubDate>Thu, 11 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
