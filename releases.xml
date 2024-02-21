@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 21 Feb 2024 18:44:54 </lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 00:31:43 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K60 Pro (socrates) - OS1.0.7.0.UMKCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/socrates/</link>
+            <pubDate>Wed, 21 Feb 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.13.0.TGOINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/water/</link>
@@ -439,11 +444,6 @@
         <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.3.0.UMOCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Wed, 24 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60 Pro (socrates) - OS1.0.5.0.UMKCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/socrates/</link>
             <pubDate>Wed, 24 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>

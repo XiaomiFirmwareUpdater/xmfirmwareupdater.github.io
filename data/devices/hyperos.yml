@@ -780,6 +780,12 @@
   version: OS1.0.5.0.UMKCNXM
 - android: '14.0'
   codename: socrates
+  date: '2024-02-21'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMKCNXM/fw_socrates_miui_SOCRATES_OS1.0.7.0.UMKCNXM_450919a308_14.0.zip
+  name: Redmi K60 Pro
+  version: OS1.0.7.0.UMKCNXM
+- android: '14.0'
+  codename: socrates
   date: '2023-12-19'
   download: https://bigota.d.miui.com/OS1.0.3.0.UMKCNXM/fw_socrates_miui_SOCRATES_OS1.0.3.0.UMKCNXM_3d4bfd0c54_14.0.zip
   name: Redmi K60 Pro
