@@ -70,7 +70,6 @@ permalink: /miui/redwood/
 <tr><td>POCO X5 Pro 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.SMSTRXM</td><td>12.0</td><td>6.4 GB</td><td>2023-05-30</td><td><a href="/miui/redwood/stable/V14.0.6.0.SMSTRXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.SMSTRXM</td><td>12.0</td><td>4.5 GB</td><td>2023-06-07</td><td><a href="/miui/redwood/stable/V14.0.6.0.SMSTRXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Turkey</td><td>Stable Beta</td><td>Fastboot</td><td>V14.0.1.0.SMSTRXM</td><td>12.0</td><td>6.1 GB</td><td>2022-12-17</td><td><a href="/miui/redwood/stable beta/V14.0.1.0.SMSTRXM/">Download</a></td></tr>
-<tr><td>POCO X5 Pro 5G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TMSTRXM</td><td>13.0</td><td>4.6 GB</td><td>2023-11-06</td><td><a href="/miui/redwood/stable beta/V14.0.4.0.TMSTRXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TMSTWXM</td><td>13.0</td><td>6.3 GB</td><td>2023-10-26</td><td><a href="/miui/redwood/stable/V14.0.4.0.TMSTWXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TMSTWXM</td><td>13.0</td><td>4.6 GB</td><td>2023-11-06</td><td><a href="/miui/redwood/stable/V14.0.4.0.TMSTWXM/">Download</a></td></tr>
 
