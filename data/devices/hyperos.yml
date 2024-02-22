@@ -377,6 +377,12 @@
   name: Redmi Note 11R
   version: OS1.0.6.0.ULSCNXM
 - android: '14.0'
+  codename: lisa
+  date: '2024-02-22'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UKOCNXM/fw_lisa_miui_LISA_OS1.0.1.0.UKOCNXM_d2eb96aaa6_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.1.0.UKOCNXM
+- android: '14.0'
   codename: liuqin
   date: '2023-12-25'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMYCNXM/fw_liuqin_miui_LIUQIN_OS1.0.2.0.UMYCNXM_f2c7b6c511_14.0.zip
@@ -586,6 +592,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMZEUXM/fw_pipa_miui_PIPAEEAGlobal_OS1.0.3.0.UMZEUXM_a9b435c82f_14.0.zip
   name: Xiaomi Pad 6
   version: OS1.0.3.0.UMZEUXM
+- android: '14.0'
+  codename: plato
+  date: '2024-02-22'
+  download: https://bigota.d.miui.com/OS1.0.7.0.ULQMIXM/fw_plato_miui_PLATOGlobal_OS1.0.7.0.ULQMIXM_2742c5324e_14.0.zip
+  name: Xiaomi 12T
+  version: OS1.0.7.0.ULQMIXM
 - android: '14.0'
   codename: plato
   date: '2023-12-21'
@@ -946,6 +958,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULBEUXM/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.2.0.ULBEUXM_6813469e89_14.0.zip
   name: Xiaomi 12 Pro
   version: OS1.0.2.0.ULBEUXM
+- android: '14.0'
+  codename: zeus
+  date: '2024-02-22'
+  download: https://bigota.d.miui.com/OS1.0.1.0.ULBMIXM/fw_zeus_miui_ZEUSGlobal_OS1.0.1.0.ULBMIXM_53ba782fd1_14.0.zip
+  name: Xiaomi 12 Pro
+  version: OS1.0.1.0.ULBMIXM
 - android: '14.0'
   codename: zeus
   date: '2024-02-04'

@@ -1,15 +1,15 @@
 ---
-title: Xiaomi 12 Pro (zeus) HyperOS Downloads
+title: Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) HyperOS Downloads
 layout: download
-name: Xiaomi 12 Pro
-codename: zeus
-permalink: /hyperos/zeus/
+name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+codename: lisa
+permalink: /hyperos/lisa/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/zeus/">Xiaomi 12 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/lisa/">Mi 11 LE/Xiaomi 11 Lite 5G NE</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /hyperos/zeus/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/hyperos/zeus/" class="card-link">HyperOS Archive</a>
-    <a href="/firmware/zeus/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/zeus/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/hyperos/lisa/" class="card-link">HyperOS Archive</a>
+    <a href="/firmware/lisa/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/lisa/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,12 +52,7 @@ permalink: /hyperos/zeus/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULBCNXM</td><td>14.0</td><td>7.5 GB</td><td>2024-02-19</td><td><a href="/hyperos/zeus/stable/OS1.0.2.0.ULBCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULBCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-01-29</td><td><a href="/hyperos/zeus/stable/OS1.0.2.0.ULBCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.7 GB</td><td>2024-01-12</td><td><a href="/hyperos/zeus/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULBEUXM</td><td>14.0</td><td>6.5 GB</td><td>2024-02-02</td><td><a href="/hyperos/zeus/stable/OS1.0.2.0.ULBEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULBEUXM</td><td>14.0</td><td>5.3 GB</td><td>2024-01-19</td><td><a href="/hyperos/zeus/stable/OS1.0.2.0.ULBEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.ULBMIXM</td><td>14.0</td><td>5.3 GB</td><td>2024-02-19</td><td><a href="/hyperos/zeus/stable beta/OS1.0.1.0.ULBMIXM/">Download</a></td></tr>
+                <tr><td>Mi 11 LE China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UKOCNXM</td><td>14.0</td><td>5.5 GB</td><td>2024-02-19</td><td><a href="/hyperos/lisa/stable beta/OS1.0.1.0.UKOCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

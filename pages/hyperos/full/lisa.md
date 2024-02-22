@@ -1,15 +1,15 @@
 ---
-title: Xiaomi Pad 5 Pro 12.4 (dagu) HyperOS Downloads
+title: Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) HyperOS Downloads
 layout: download
-name: Xiaomi Pad 5 Pro 12.4
-codename: dagu
-permalink: /archive/hyperos/dagu/
+name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+codename: lisa
+permalink: /archive/hyperos/lisa/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/dagu/">Xiaomi Pad 5 Pro 12.4</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/lisa/">Mi 11 LE/Xiaomi 11 Lite 5G NE</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /archive/hyperos/dagu/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows all available downloads.
      If you're looking for the latest releases check or other downloads check:</p>
-    <a href="/hyperos/dagu/" class="card-link">Latest HyperOS</a>
-    <a href="/firmware/dagu/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/dagu/" class="card-link">Vendor Downloads</a>
+    <a href="/hyperos/lisa/" class="card-link">Latest HyperOS</a>
+    <a href="/firmware/lisa/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/lisa/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,13 +52,7 @@ permalink: /archive/hyperos/dagu/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.ULZCNXM</td><td>14.0</td><td>5.4 GB</td><td>2024-02-22</td><td><a href="/hyperos/dagu/stable/OS1.0.1.0.ULZCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.ULZCNXM</td><td>14.0</td><td>4.5 GB</td><td>2024-01-31</td><td><a href="/hyperos/dagu/stable/OS1.0.1.0.ULZCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>4.5 GB</td><td>2024-01-12</td><td><a href="/hyperos/dagu/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.1.DEV</td><td>14.0</td><td>4.5 GB</td><td>2024-01-05</td><td><a href="/hyperos/dagu/public beta/OS1.0.24.1.1.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.28.DEV</td><td>14.0</td><td>4.5 GB</td><td>2023-12-29</td><td><a href="/hyperos/dagu/public beta/OS1.0.23.12.28.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.18.DEV</td><td>14.0</td><td>4.5 GB</td><td>2023-12-22</td><td><a href="/hyperos/dagu/public beta/OS1.0.23.12.18.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.11.DEV</td><td>14.0</td><td>4.5 GB</td><td>2023-12-15</td><td><a href="/hyperos/dagu/public beta/OS1.0.23.12.11.DEV/">Download</a></td></tr>
+                <tr><td>Mi 11 LE China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UKOCNXM</td><td>14.0</td><td>5.5 GB</td><td>2024-02-19</td><td><a href="/hyperos/lisa/stable beta/OS1.0.1.0.UKOCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

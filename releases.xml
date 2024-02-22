@@ -4,11 +4,26 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 22 Feb 2024 06:30:52 </lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 12:35:24 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS1.0.1.0.UKOCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/lisa/</link>
+            <pubDate>Thu, 22 Feb 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.6.0.UMNCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
+            <pubDate>Thu, 22 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12T (plato) - OS1.0.7.0.ULQMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/plato/</link>
+            <pubDate>Thu, 22 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - OS1.0.1.0.ULBMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Thu, 22 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -387,11 +402,6 @@
             <pubDate>Mon, 29 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12 Pro (zeus) - V14.0.10.0.TLBMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Mon, 29 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - V14.0.8.0.TNQCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
             <pubDate>Sun, 28 Jan 2024 00:00:00 </pubDate>
@@ -709,11 +719,6 @@
         <item>
             <title>Xiaomi 13 Pro (nuwa) - OS1.0.1.0.UMBINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12T (plato) - OS1.0.5.0.ULQMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/plato/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -1050,11 +1055,6 @@
             <title>Redmi Note 10 (mojito) - V14.0.5.0.SKGINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/mojito/</link>
             <pubDate>Tue, 28 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.13.0.TKOCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/lisa/</link>
-            <pubDate>Sat, 25 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V14.0.8.0.TKLMIXM</title>
