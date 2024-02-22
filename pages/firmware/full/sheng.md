@@ -1,15 +1,15 @@
 ---
-title: Xiaomi 12S (mayfly) Firmware Downloads
+title: Xiaomi Pad 6S Pro 12.4 (sheng) Firmware Downloads
 layout: download
-name: Xiaomi 12S
-codename: mayfly
-permalink: /archive/firmware/mayfly/
+name: Xiaomi Pad 6S Pro 12.4
+codename: sheng
+permalink: /archive/firmware/sheng/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/mayfly/">Xiaomi 12S</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/sheng/">Xiaomi Pad 6S Pro 12.4</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -26,9 +26,9 @@ permalink: /archive/firmware/mayfly/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows all available downloads.
      If you're looking for the latest releases or other downloads check:</p>
-    <a href="/firmware/mayfly/" class="card-link">Latest Firmware</a>
-    <a href="/miui/mayfly/" class="card-link">MIUI Downloads</a>
-    <a href="/vendor/mayfly/" class="card-link">Vendor Downloads</a>
+    <a href="/firmware/sheng/" class="card-link">Latest Firmware</a>
+    <a href="/hyperos/sheng/" class="card-link">HyperOS Downloads</a>
+    <a href="/vendor/sheng/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 
@@ -41,14 +41,14 @@ permalink: /archive/firmware/mayfly/
                 <thead class="thead-dark">
                     <tr>
                         <th data-ref="branch">Branch</th>
-                        <th data-ref="miui">MIUI</th>
+                        <th data-ref="miui">HyperOS</th>
                         <th data-ref="android">Android</th>
                         <th data-ref="region">Region</th>
                         <th data-ref="link">Link</th>
                         <th data-ref="updated">Updated</th>
                     </tr>
                 </thead>
-                <script>loadFirmwareDownloads('mayfly', 'full')</script>
+                <script>loadFirmwareDownloads('sheng', 'full')</script>
             </table>
         </div>
     </div>
