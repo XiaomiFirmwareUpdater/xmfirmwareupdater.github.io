@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 22 Feb 2024 12:35:24 </lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 18:39:37 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS1.0.1.0.UKOCNXM</title>
@@ -19,6 +19,11 @@
         <item>
             <title>Xiaomi 12T (plato) - OS1.0.7.0.ULQMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/plato/</link>
+            <pubDate>Thu, 22 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12S (sea) - OS1.0.5.0.UHZMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sea/</link>
             <pubDate>Thu, 22 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -729,11 +734,6 @@
         <item>
             <title>Mi 11 Lite 5G (renoir) - V14.0.9.0.TKIEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/renoir/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12S (sea) - OS1.0.3.0.UHZMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sea/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>

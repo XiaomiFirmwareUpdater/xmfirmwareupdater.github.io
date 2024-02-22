@@ -690,6 +690,12 @@
   version: OS1.0.1.0.UMOEUXM
 - android: '14.0'
   codename: sea
+  date: '2024-02-22'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UHZMIXM/fw_sea_miui_SEAGlobal_OS1.0.5.0.UHZMIXM_69800e0aaf_14.0.zip
+  name: Redmi Note 12S
+  version: OS1.0.5.0.UHZMIXM
+- android: '14.0'
+  codename: sea
   date: '2024-01-12'
   download: https://bigota.d.miui.com/OS1.0.1.0.UHZEUXM/fw_sea_miui_SEAEEAGlobal_OS1.0.1.0.UHZEUXM_3779c18df9_14.0.zip
   name: Redmi Note 12S

@@ -1,15 +1,15 @@
 ---
-title: POCO X5 5G (moonstone) HyperOS Downloads
+title: Xiaomi 12X (psyche) HyperOS Downloads
 layout: download
-name: POCO X5 5G
-codename: moonstone
-permalink: /hyperos/moonstone/
+name: Xiaomi 12X
+codename: psyche
+permalink: /hyperos/psyche/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/moonstone/">POCO X5 5G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/psyche/">Xiaomi 12X</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /hyperos/moonstone/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/hyperos/moonstone/" class="card-link">HyperOS Archive</a>
-    <a href="/firmware/moonstone/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/moonstone/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/hyperos/psyche/" class="card-link">HyperOS Archive</a>
+    <a href="/firmware/psyche/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/psyche/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,11 +52,7 @@ permalink: /hyperos/moonstone/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO X5 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UMPEUXM</td><td>14.0</td><td>3.9 GB</td><td>2024-02-04</td><td><a href="/hyperos/moonstone/stable beta/OS1.0.1.0.UMPEUXM/">Download</a></td></tr>
-<tr><td>POCO X5 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UMPMIXM</td><td>14.0</td><td>6.7 GB</td><td>2024-01-29</td><td><a href="/hyperos/moonstone/stable/OS1.0.3.0.UMPMIXM/">Download</a></td></tr>
-<tr><td>POCO X5 5G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UMPINXM</td><td>14.0</td><td>5.3 GB</td><td>2024-02-05</td><td><a href="/hyperos/moonstone/stable/OS1.0.1.0.UMPINXM/">Download</a></td></tr>
-<tr><td>POCO X5 5G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UMPINXM</td><td>14.0</td><td>3.8 GB</td><td>2024-01-27</td><td><a href="/hyperos/moonstone/stable/OS1.0.1.0.UMPINXM/">Download</a></td></tr>
-<tr><td>POCO X5 5G Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UMPRUXM</td><td>14.0</td><td>3.8 GB</td><td>2024-02-19</td><td><a href="/hyperos/moonstone/stable beta/OS1.0.1.0.UMPRUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12X China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.TLDCNXM</td><td>13.0</td><td>4.0 GB</td><td>2024-01-29</td><td><a href="/hyperos/psyche/stable/OS1.0.2.0.TLDCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
