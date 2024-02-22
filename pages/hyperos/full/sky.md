@@ -52,10 +52,11 @@ permalink: /archive/hyperos/sky/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 12 5G / POCO M6 Pro 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UMWMIXM</td><td>14.0</td><td>7.0 GB</td><td>2024-02-04</td><td><a href="/hyperos/sky/stable/OS1.0.3.0.UMWMIXM/">Download</a></td></tr>
+                <tr><td>Redmi 12 5G / POCO M6 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UMWEUXM</td><td>14.0</td><td>6.8 GB</td><td>2024-02-22</td><td><a href="/hyperos/sky/stable/OS1.0.1.0.UMWEUXM/">Download</a></td></tr>
+<tr><td>Redmi 12 5G / POCO M6 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UMWEUXM</td><td>14.0</td><td>4.6 GB</td><td>2024-02-01</td><td><a href="/hyperos/sky/stable/OS1.0.1.0.UMWEUXM/">Download</a></td></tr>
+<tr><td>Redmi 12 5G / POCO M6 Pro 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UMWMIXM</td><td>14.0</td><td>7.0 GB</td><td>2024-02-04</td><td><a href="/hyperos/sky/stable/OS1.0.3.0.UMWMIXM/">Download</a></td></tr>
 <tr><td>Redmi 12 5G / POCO M6 Pro 5G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UMWMIXM</td><td>14.0</td><td>4.5 GB</td><td>2024-01-26</td><td><a href="/hyperos/sky/stable/OS1.0.3.0.UMWMIXM/">Download</a></td></tr>
 <tr><td>Redmi 12 5G / POCO M6 Pro 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UMWINXM</td><td>14.0</td><td>4.4 GB</td><td>2024-02-01</td><td><a href="/hyperos/sky/stable beta/OS1.0.1.0.UMWINXM/">Download</a></td></tr>
-<tr><td>Redmi 12 5G / POCO M6 Pro 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UMWEUXM</td><td>14.0</td><td>4.6 GB</td><td>2024-02-01</td><td><a href="/hyperos/sky/stable beta/OS1.0.1.0.UMWEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12R China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UMWCNXM</td><td>14.0</td><td>6.1 GB</td><td>2024-01-17</td><td><a href="/hyperos/sky/stable/OS1.0.5.0.UMWCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12R China</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UMWCNXM</td><td>14.0</td><td>4.8 GB</td><td>2024-01-02</td><td><a href="/hyperos/sky/stable/OS1.0.5.0.UMWCNXM/">Download</a></td></tr>
 
