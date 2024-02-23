@@ -634,6 +634,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.ULQMIXM/fw_plato_miui_PLATOGlobal_OS1.0.5.0.ULQMIXM_9c5350230d_14.0.zip
   name: Xiaomi 12T
   version: OS1.0.5.0.ULQMIXM
+- android: '13.0'
+  codename: psyche
+  date: '2024-02-23'
+  download: https://bigota.d.miui.com/OS1.0.3.0.TLDCNXM/fw_psyche_miui_PSYCHE_OS1.0.3.0.TLDCNXM_254eae0105_13.0.zip
+  name: Xiaomi 12X
+  version: OS1.0.3.0.TLDCNXM
 - android: '14.0'
   codename: redwood
   date: '2024-01-31'
