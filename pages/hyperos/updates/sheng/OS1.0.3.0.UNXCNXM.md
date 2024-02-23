@@ -68,7 +68,7 @@ permalink: /hyperos/sheng/stable/OS1.0.3.0.UNXCNXM/
                     <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_SHENG_OS1.0.3.0.UNXCNXM_37ab7cee9d_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">Unknown</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">37ab7cee9dca5f7f74a80cf1f7611829</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://cdn-ota.azureedge.net/OS1.0.3.0.UNXCNXM/miui-blockota-sheng-OS1.0.1.0.UNXCNXM-OS1.0.3.0.UNXCNXM-e0d33a38ad-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdn-ota.azureedge.net/OS1.0.3.0.UNXCNXM/miui_SHENG_OS1.0.3.0.UNXCNXM_37ab7cee9d_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.3.0.UNXCNXM/miui_SHENG_OS1.0.3.0.UNXCNXM_37ab7cee9d_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.3.0.UNXCNXM/miui_SHENG_OS1.0.3.0.UNXCNXM_37ab7cee9d_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.UNXCNXM/miui_SHENG_OS1.0.3.0.UNXCNXM_37ab7cee9d_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.3.0.UNXCNXM/miui_SHENG_OS1.0.3.0.UNXCNXM_37ab7cee9d_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
@@ -78,7 +78,7 @@ permalink: /hyperos/sheng/stable/OS1.0.3.0.UNXCNXM/
                             aria-expanded="false" aria-controls="sheng_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="sheng_1_changelog">
-                        <p id="changelog_text">Bug fixes and system optimizations.</p>
+                        <p id="changelog_text">[Other]<br>Optimized system performance<br>Improved system security and stability</p>
                     </div>
                 </li>
             </ul>
