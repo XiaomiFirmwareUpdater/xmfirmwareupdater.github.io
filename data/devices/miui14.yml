@@ -2598,6 +2598,12 @@
   version: V14.0.6.0.TLMMIXM
 - android: '13.0'
   codename: munch
+  date: '2024-02-23'
+  download: https://bigota.d.miui.com/V14.0.8.0.TLMINXM/fw_munch_miui_MUNCHINGlobal_V14.0.8.0.TLMINXM_1883f51dc1_13.0.zip
+  name: Redmi K40S/POCO F4
+  version: V14.0.8.0.TLMINXM
+- android: '13.0'
+  codename: munch
   date: '2023-12-18'
   download: https://bigota.d.miui.com/V14.0.5.0.TLMMIXM/fw_munch_miui_MUNCHGlobal_V14.0.5.0.TLMMIXM_9b8458079d_13.0.zip
   name: Redmi K40S/POCO F4
@@ -3028,6 +3034,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TKTEUXM/fw_pissarro_miui_PISSARROEEAGlobal_V14.0.4.0.TKTEUXM_5581eb02dd_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
   version: V14.0.4.0.TKTEUXM
+- android: '13.0'
+  codename: pissarro
+  date: '2024-02-23'
+  download: https://bigota.d.miui.com/V14.0.10.0.TKTEUXM/fw_pissarro_miui_PISSARROEEAGlobal_V14.0.10.0.TKTEUXM_433e3c6a0e_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: V14.0.10.0.TKTEUXM
 - android: '13.0'
   codename: pissarro
   date: '2023-08-22'
