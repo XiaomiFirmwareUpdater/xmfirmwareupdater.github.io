@@ -17,6 +17,12 @@
   name: Xiaomi 11T
   version: OS1.0.2.0.UKWEUXM
 - android: '14.0'
+  codename: aristotle
+  date: '2024-02-23'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UMFMIXM/fw_aristotle_miui_ARISTOTLEGlobal_OS1.0.2.0.UMFMIXM_d529eb94a4_14.0.zip
+  name: Xiaomi 13T
+  version: OS1.0.2.0.UMFMIXM
+- android: '14.0'
   codename: babylon
   date: '2023-12-15'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.2.0.UMVCNXM_d95abfe6ba_14.0.zip
@@ -426,6 +432,12 @@
   version: OS1.0.6.0.UNMCNXM
 - android: '14.0'
   codename: marble
+  date: '2024-02-23'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UMRCNXM/fw_marble_miui_MARBLE_OS1.0.2.0.UMRCNXM_65288a855a_14.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS1.0.2.0.UMRCNXM
+- android: '14.0'
+  codename: marble
   date: '2023-12-22'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMREUXM/fw_marble_miui_MARBLEEEAGlobal_OS1.0.4.0.UMREUXM_733c4626e6_14.0.zip
   name: Redmi Note 12 Turbo/POCO F5
@@ -460,6 +472,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMNMIXM/fw_mondrian_miui_MONDRIANGlobal_OS1.0.2.0.UMNMIXM_672ad494ad_14.0.zip
   name: Redmi K60/POCO F5 Pro
   version: OS1.0.2.0.UMNMIXM
+- android: '14.0'
+  codename: mondrian
+  date: '2024-02-23'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMNMIXM/fw_mondrian_miui_MONDRIANGlobal_OS1.0.3.0.UMNMIXM_67c9d14491_14.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS1.0.3.0.UMNMIXM
 - android: '14.0'
   codename: mondrian
   date: '2024-02-22'

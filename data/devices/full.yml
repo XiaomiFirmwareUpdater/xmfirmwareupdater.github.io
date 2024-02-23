@@ -4059,6 +4059,16 @@
     android: '11.0'
     miui: V12.5.3.0.RKJCNXM
 - branch: stable
+  date: '2024-02-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aristotle/releases/download/stable-23.02.2024/fw_aristotle_miui_ARISTOTLEGlobal_OS1.0.2.0.UMFMIXM_d529eb94a4_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aristotle/fw_aristotle_miui_ARISTOTLEGlobal_OS1.0.2.0.UMFMIXM_d529eb94a4_14.0.zip
+  filename: fw_aristotle_miui_ARISTOTLEGlobal_OS1.0.2.0.UMFMIXM_d529eb94a4_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.UMFMIXM
+- branch: stable
   date: '2023-11-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aristotle/releases/download/stable-15.11.2023/fw_aristotle_miui_ARISTOTLEGlobal_V14.0.6.0.TMFMIXM_604989c6ed_13.0.zip
@@ -37279,6 +37289,16 @@
     android: '13.0'
     miui: V14.0.4.0.TMRINXM
 - branch: stable
+  date: '2024-02-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-23.02.2024/fw_marble_miui_MARBLE_OS1.0.2.0.UMRCNXM_65288a855a_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLE_OS1.0.2.0.UMRCNXM_65288a855a_14.0.zip
+  filename: fw_marble_miui_MARBLE_OS1.0.2.0.UMRCNXM_65288a855a_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.UMRCNXM
+- branch: stable
   date: '2023-12-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-22.12.2023/fw_marble_miui_MARBLEEEAGlobal_OS1.0.4.0.UMREUXM_733c4626e6_14.0.zip
@@ -39119,6 +39139,16 @@
     android: '13.0'
     miui: V14.0.4.0.TKVCNXM
 - branch: stable
+  date: '2021-11-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/stable-01.11.2021/fw_mona_miui_MONA_V12.5.7.0.RKVCNXM_ddbe5bce60_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/mona/fw_mona_miui_MONA_V12.5.7.0.RKVCNXM_ddbe5bce60_11.0.zip
+  filename: fw_mona_miui_MONA_V12.5.7.0.RKVCNXM_ddbe5bce60_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.7.0.RKVCNXM
+- branch: stable
   date: '2022-09-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/stable-01.09.2022/fw_mona_miui_MONA_V13.0.6.0.SKVCNXM_a07bd21017_12.0.zip
@@ -39168,6 +39198,16 @@
   versions:
     android: '13.0'
     miui: V14.0.22.0.TMNCNXM
+- branch: stable
+  date: '2024-02-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-23.02.2024/fw_mondrian_miui_MONDRIANGlobal_OS1.0.3.0.UMNMIXM_67c9d14491_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/mondrian/fw_mondrian_miui_MONDRIANGlobal_OS1.0.3.0.UMNMIXM_67c9d14491_14.0.zip
+  filename: fw_mondrian_miui_MONDRIANGlobal_OS1.0.3.0.UMNMIXM_67c9d14491_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.UMNMIXM
 - branch: stable
   date: '2024-02-22'
   downloads:
@@ -39818,6 +39858,16 @@
   versions:
     android: '13.0'
     miui: V14.0.2.0.TLMEUXM
+- branch: stable
+  date: '2024-02-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-23.02.2024/fw_munch_miui_MUNCHGlobal_V14.0.6.0.TLMMIXM_60b6629f69_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/munch/fw_munch_miui_MUNCHGlobal_V14.0.6.0.TLMMIXM_60b6629f69_13.0.zip
+  filename: fw_munch_miui_MUNCHGlobal_V14.0.6.0.TLMMIXM_60b6629f69_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TLMMIXM
 - branch: stable
   date: '2022-06-20'
   downloads:
