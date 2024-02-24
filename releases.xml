@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 24 Feb 2024 06:29:57 </lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 12:34:03 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13 (fuxi) - OS1.0.3.0.UMCMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
+            <pubDate>Sat, 24 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 (houji) - OS1.0.14.0.UNCEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Sat, 24 Feb 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 13T (aristotle) - OS1.0.2.0.UMFMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/aristotle/</link>
@@ -855,11 +865,6 @@
             <title>Xiaomi MIX Fold 2 (zizhan) - OS1.0.2.0.ULRCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/zizhan/</link>
             <pubDate>Mon, 25 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 (fuxi) - OS1.0.1.0.UMCMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Sun, 24 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V14.0.6.0.TKCINXM</title>

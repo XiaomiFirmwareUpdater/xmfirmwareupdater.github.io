@@ -234,6 +234,12 @@
   version: OS1.0.1.0.UMCMIXM
 - android: '14.0'
   codename: fuxi
+  date: '2024-02-24'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMCMIXM/fw_fuxi_miui_FUXIGlobal_OS1.0.3.0.UMCMIXM_467068ff9b_14.0.zip
+  name: Xiaomi 13
+  version: OS1.0.3.0.UMCMIXM
+- android: '14.0'
+  codename: fuxi
   date: '2024-02-20'
   download: https://bigota.d.miui.com/OS1.0.7.0.UMCCNXM/fw_fuxi_miui_FUXI_OS1.0.7.0.UMCCNXM_78af83b0a0_14.0.zip
   name: Xiaomi 13
@@ -286,6 +292,12 @@
   download: https://bigota.d.miui.com/OS1.0.24.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.24.0.UNCCNXM_491d1bbdd1_14.0.zip
   name: Xiaomi 14
   version: OS1.0.24.0.UNCCNXM
+- android: '14.0'
+  codename: houji
+  date: '2024-02-24'
+  download: https://bigota.d.miui.com/OS1.0.14.0.UNCEUXM/fw_houji_miui_HOUJIEEAGlobal_OS1.0.14.0.UNCEUXM_d0dc61697d_14.0.zip
+  name: Xiaomi 14
+  version: OS1.0.14.0.UNCEUXM
 - android: '14.0'
   codename: houji
   date: '2023-11-15'
