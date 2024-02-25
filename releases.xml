@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 25 Feb 2024 06:29:56 </lastBuildDate>
+        <lastBuildDate>Sun, 25 Feb 2024 12:34:43 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS1.0.2.0.UNQMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
+            <pubDate>Sun, 25 Feb 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 13 (fuxi) - OS1.0.3.0.UMCMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
@@ -154,11 +159,6 @@
         <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - V14.0.4.0.TNRINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
-            <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - V14.0.3.0.TNQMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
             <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>

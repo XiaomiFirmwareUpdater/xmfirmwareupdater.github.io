@@ -269,6 +269,12 @@
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS1.0.1.0.UNRCNXM
 - android: '14.0'
+  codename: gold
+  date: '2024-02-25'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UNQMIXM/fw_gold_miui_GOLDGlobal_OS1.0.2.0.UNQMIXM_da2a25942a_14.0.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS1.0.2.0.UNQMIXM
+- android: '14.0'
   codename: houji
   date: '2023-10-31'
   download: https://bigota.d.miui.com/OS1.0.11.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.11.0.UNCCNXM_8541c46b8d_14.0.zip

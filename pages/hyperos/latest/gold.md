@@ -1,15 +1,15 @@
 ---
-title: Redmi 12 (fire) HyperOS Downloads
+title: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) HyperOS Downloads
 layout: download
-name: Redmi 12
-codename: fire
-permalink: /hyperos/fire/
+name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+codename: gold
+permalink: /hyperos/gold/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/fire/">Redmi 12</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/gold/">Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /hyperos/fire/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/hyperos/fire/" class="card-link">HyperOS Archive</a>
-    <a href="/firmware/fire/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/fire/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/hyperos/gold/" class="card-link">HyperOS Archive</a>
+    <a href="/firmware/gold/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/gold/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,13 +52,7 @@ permalink: /hyperos/fire/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 12 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UMXEUXM</td><td>14.0</td><td>6.6 GB</td><td>2024-02-22</td><td><a href="/hyperos/fire/stable/OS1.0.2.0.UMXEUXM/">Download</a></td></tr>
-<tr><td>Redmi 12 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UMXEUXM</td><td>14.0</td><td>4.5 GB</td><td>2024-01-29</td><td><a href="/hyperos/fire/stable/OS1.0.2.0.UMXEUXM/">Download</a></td></tr>
-<tr><td>Redmi 12 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UMXMIXM</td><td>14.0</td><td>6.9 GB</td><td>2024-01-25</td><td><a href="/hyperos/fire/stable/OS1.0.1.0.UMXMIXM/">Download</a></td></tr>
-<tr><td>Redmi 12 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UMXMIXM</td><td>14.0</td><td>4.4 GB</td><td>2024-01-12</td><td><a href="/hyperos/fire/stable/OS1.0.1.0.UMXMIXM/">Download</a></td></tr>
-<tr><td>Redmi 12 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UMXIDXM</td><td>14.0</td><td>4.4 GB</td><td>2024-02-08</td><td><a href="/hyperos/fire/stable beta/OS1.0.3.0.UMXIDXM/">Download</a></td></tr>
-<tr><td>Redmi 12 Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UMXRUXM</td><td>14.0</td><td>4.3 GB</td><td>2024-02-05</td><td><a href="/hyperos/fire/stable beta/OS1.0.2.0.UMXRUXM/">Download</a></td></tr>
-<tr><td>Redmi 12 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UMXTRXM</td><td>14.0</td><td>4.4 GB</td><td>2024-02-21</td><td><a href="/hyperos/fire/stable beta/OS1.0.1.0.UMXTRXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 13 5G / POCO X6 Neo 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UNQMIXM</td><td>14.0</td><td>4.7 GB</td><td>2024-02-25</td><td><a href="/hyperos/gold/stable beta/OS1.0.2.0.UNQMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
