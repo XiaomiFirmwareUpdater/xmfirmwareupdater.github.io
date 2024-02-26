@@ -390,6 +390,12 @@
   version: OS1.0.4.0.UMAMIXM
 - android: '14.0'
   codename: light
+  date: '2024-02-26'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULSEUXM/fw_light_miui_LIGHTEEAGlobal_OS1.0.2.0.ULSEUXM_d416f577f6_14.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: OS1.0.2.0.ULSEUXM
+- android: '14.0'
+  codename: light
   date: '2024-01-12'
   download: https://bigota.d.miui.com/OS1.0.5.0.ULSCNXM/fw_light_miui_LIGHT_OS1.0.5.0.ULSCNXM_d259f29a72_14.0.zip
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
@@ -496,6 +502,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULTCNXM/fw_mayfly_miui_MAYFLY_OS1.0.3.0.ULTCNXM_2d7643fb8d_14.0.zip
   name: Xiaomi 12S
   version: OS1.0.3.0.ULTCNXM
+- android: '13.0'
+  codename: mona
+  date: '2024-02-26'
+  download: https://bigota.d.miui.com/OS1.0.2.0.TKVCNXM/fw_mona_miui_MONA_OS1.0.2.0.TKVCNXM_697bd03a16_13.0.zip
+  name: Xiaomi Civi
+  version: OS1.0.2.0.TKVCNXM
 - android: '14.0'
   codename: mondrian
   date: '2024-01-24'

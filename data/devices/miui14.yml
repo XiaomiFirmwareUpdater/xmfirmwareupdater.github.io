@@ -1194,6 +1194,12 @@
   version: V14.0.3.0.TKEINXM
 - android: '13.0'
   codename: fog
+  date: '2024-02-26'
+  download: https://bigota.d.miui.com/V14.0.5.0.TGEINXM/fw_fog_miui_FOGINGlobal_V14.0.5.0.TGEINXM_0c2710799f_13.0.zip
+  name: Redmi 10C
+  version: V14.0.5.0.TGEINXM
+- android: '13.0'
+  codename: fog
   date: '2023-07-21'
   download: https://bigota.d.miui.com/V14.0.3.0.TGEMIXM/fw_fog_miui_FOGGlobal_V14.0.3.0.TGEMIXM_f8ab7d38c5_13.0.zip
   name: Redmi 10C
@@ -1522,6 +1528,12 @@
   download: https://bigota.d.miui.com/V14.0.8.0.TNQCNXM/fw_gold_miui_GOLD_V14.0.8.0.TNQCNXM_6bbb0cb88a_13.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: V14.0.8.0.TNQCNXM
+- android: '13.0'
+  codename: gold
+  date: '2024-02-26'
+  download: https://bigota.d.miui.com/V14.0.5.0.TNQINXM/fw_gold_miui_GOLDINGlobal_V14.0.5.0.TNQINXM_85f497e991_13.0.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: V14.0.5.0.TNQINXM
 - android: '13.0'
   codename: gold
   date: '2023-09-22'
@@ -5470,6 +5482,12 @@
   download: https://bigota.d.miui.com/V14.0.7.0.TMUCNXM/fw_xun_miui_XUN_V14.0.7.0.TMUCNXM_4fca1c9eb8_13.0.zip
   name: Redmi Pad SE
   version: V14.0.7.0.TMUCNXM
+- android: '13.0'
+  codename: xun
+  date: '2024-02-26'
+  download: https://bigota.d.miui.com/V14.0.10.0.TMUCNXM/fw_xun_miui_XUN_V14.0.10.0.TMUCNXM_cfa14ce73b_13.0.zip
+  name: Redmi Pad SE
+  version: V14.0.10.0.TMUCNXM
 - android: '13.0'
   codename: xun
   date: '2023-12-25'

@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) HyperOS Downloads
+title: Xiaomi Civi (mona) HyperOS Downloads
 layout: download
-name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
-codename: light
-permalink: /hyperos/light/
+name: Xiaomi Civi
+codename: mona
+permalink: /hyperos/mona/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/light/">Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/mona/">Xiaomi Civi</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /hyperos/light/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/hyperos/light/" class="card-link">HyperOS Archive</a>
-    <a href="/firmware/light/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/light/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/hyperos/mona/" class="card-link">HyperOS Archive</a>
+    <a href="/firmware/mona/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/mona/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,13 +52,7 @@ permalink: /hyperos/light/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11E China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.ULSCNXM</td><td>14.0</td><td>5.7 GB</td><td>2024-01-15</td><td><a href="/hyperos/light/stable/OS1.0.5.0.ULSCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11E China</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.ULSCNXM</td><td>14.0</td><td>4.4 GB</td><td>2024-01-04</td><td><a href="/hyperos/light/stable/OS1.0.5.0.ULSCNXM/">Download</a></td></tr>
-<tr><td>Redmi 10 5G / POCO M4 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.ULSEUXM</td><td>14.0</td><td>3.9 GB</td><td>2024-02-22</td><td><a href="/hyperos/light/stable beta/OS1.0.2.0.ULSEUXM/">Download</a></td></tr>
-<tr><td>Redmi 10 5G / POCO M4 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULSMIXM</td><td>14.0</td><td>6.3 GB</td><td>2024-02-21</td><td><a href="/hyperos/light/stable/OS1.0.2.0.ULSMIXM/">Download</a></td></tr>
-<tr><td>Redmi 10 5G / POCO M4 5G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULSMIXM</td><td>14.0</td><td>3.9 GB</td><td>2024-01-29</td><td><a href="/hyperos/light/stable/OS1.0.2.0.ULSMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11R China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.ULSCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-01-15</td><td><a href="/hyperos/lightcm/stable/OS1.0.6.0.ULSCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11R China</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.ULSCNXM</td><td>14.0</td><td>4.4 GB</td><td>2024-01-04</td><td><a href="/hyperos/lightcm/stable/OS1.0.6.0.ULSCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Civi China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.TKVCNXM</td><td>13.0</td><td>5.5 GB</td><td>2024-02-22</td><td><a href="/hyperos/mona/stable beta/OS1.0.2.0.TKVCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
