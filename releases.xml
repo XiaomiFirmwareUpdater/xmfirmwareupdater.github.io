@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 26 Feb 2024 06:34:03 </lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 12:47:17 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 13T (aristotle) - OS1.0.3.0.UMFEUXM</title>
@@ -14,6 +14,16 @@
         <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.3.0.UMRMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
+            <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - OS1.0.2.0.UMBINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V14.0.10.0.TKLEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/rosemary/</link>
             <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -777,11 +787,6 @@
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13 Pro (nuwa) - OS1.0.1.0.UMBINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Mi 11 Lite 5G (renoir) - V14.0.7.0.TKIMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/renoir/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
@@ -1185,11 +1190,6 @@
             <title>Redmi Note 10 5G/Redmi Note 11SE/Redmi Note 10T 5G/POCO M3 Pro 5G (camellia) - V14.0.6.0.TKSINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/camellia/</link>
             <pubDate>Tue, 17 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V14.0.7.0.TKLEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/rosemary/</link>
-            <pubDate>Mon, 16 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi Pad 5 Pro Wi-Fi (elish) - V14.0.5.0.TKYCNXM</title>

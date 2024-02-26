@@ -3299,15 +3299,15 @@
     android: '14.0'
     miui: OS1.0.4.0.UMBEUXM
 - branch: stable
-  date: '2024-01-12'
+  date: '2024-02-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-12.01.2024/fw_nuwa_miui_NUWAINGlobal_OS1.0.1.0.UMBINXM_59d6d72371_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAINGlobal_OS1.0.1.0.UMBINXM_59d6d72371_14.0.zip
-  filename: fw_nuwa_miui_NUWAINGlobal_OS1.0.1.0.UMBINXM_59d6d72371_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-26.02.2024/fw_nuwa_miui_NUWAINGlobal_OS1.0.2.0.UMBINXM_5c46af18a0_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAINGlobal_OS1.0.2.0.UMBINXM_5c46af18a0_14.0.zip
+  filename: fw_nuwa_miui_NUWAINGlobal_OS1.0.2.0.UMBINXM_5c46af18a0_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.1.0.UMBINXM
+    miui: OS1.0.2.0.UMBINXM
 - branch: stable
   date: '2023-12-08'
   downloads:
@@ -4229,15 +4229,15 @@
     android: '13.0'
     miui: V14.0.8.0.TKLMIXM
 - branch: stable
-  date: '2023-10-16'
+  date: '2024-02-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-16.10.2023/fw_rosemary_miui_ROSEMARYEEAGlobal_V14.0.7.0.TKLEUXM_e1b4e9e08c_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/rosemary/fw_rosemary_miui_ROSEMARYEEAGlobal_V14.0.7.0.TKLEUXM_e1b4e9e08c_13.0.zip
-  filename: fw_rosemary_miui_ROSEMARYEEAGlobal_V14.0.7.0.TKLEUXM_e1b4e9e08c_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-26.02.2024/fw_rosemary_miui_ROSEMARYEEAGlobal_V14.0.10.0.TKLEUXM_1fae353284_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/rosemary/fw_rosemary_miui_ROSEMARYEEAGlobal_V14.0.10.0.TKLEUXM_1fae353284_13.0.zip
+  filename: fw_rosemary_miui_ROSEMARYEEAGlobal_V14.0.10.0.TKLEUXM_1fae353284_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.7.0.TKLEUXM
+    miui: V14.0.10.0.TKLEUXM
 - branch: stable
   date: '2023-12-08'
   downloads:
