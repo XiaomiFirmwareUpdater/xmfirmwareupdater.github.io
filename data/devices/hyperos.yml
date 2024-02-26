@@ -658,6 +658,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMZEUXM/fw_pipa_miui_PIPAEEAGlobal_OS1.0.3.0.UMZEUXM_a9b435c82f_14.0.zip
   name: Xiaomi Pad 6
   version: OS1.0.3.0.UMZEUXM
+- android: '13.0'
+  codename: pissarro
+  date: '2024-02-26'
+  download: https://bigota.d.miui.com/OS1.0.2.0.TKTCNXM/fw_pissarro_miui_PISSARRO_OS1.0.2.0.TKTCNXM_13f7d12d41_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: OS1.0.2.0.TKTCNXM
 - android: '14.0'
   codename: plato
   date: '2024-02-22'

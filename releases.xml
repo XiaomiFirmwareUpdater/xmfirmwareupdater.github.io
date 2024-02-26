@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 26 Feb 2024 20:30:09 </lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 00:32:09 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 13T (aristotle) - OS1.0.3.0.UMFEUXM</title>
@@ -39,6 +39,11 @@
         <item>
             <title>Xiaomi 13 Pro (nuwa) - OS1.0.2.0.UMBINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - OS1.0.2.0.TKTCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/pissarro/</link>
             <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -1005,11 +1010,6 @@
             <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V14.0.8.0.TKUEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/selene/</link>
             <pubDate>Tue, 12 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.8.0.TKTCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/pissarro/</link>
-            <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 12X (psyche) - V14.0.4.0.TLDEUXM</title>
