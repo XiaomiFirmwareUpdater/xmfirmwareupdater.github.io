@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 26 Feb 2024 00:31:22 </lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 06:34:03 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13T (aristotle) - OS1.0.3.0.UMFEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/aristotle/</link>
+            <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.3.0.UMRMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
+            <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS1.0.1.0.ULLCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ziyi/</link>
+            <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS1.0.2.0.UNQMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
@@ -752,11 +767,6 @@
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.2.0.UMRMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K40S/POCO F4 (munch) - V14.0.9.0.TLMCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/munch/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
@@ -839,11 +849,6 @@
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - V14.0.5.0.TGQCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/air/</link>
-            <pubDate>Thu, 11 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13T (aristotle) - V14.0.13.0.TMFEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/aristotle/</link>
             <pubDate>Thu, 11 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -959,11 +964,6 @@
         <item>
             <title>Redmi Note 10 (mojito) - V14.0.6.0.SKGEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/mojito/</link>
-            <pubDate>Fri, 15 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.17.0.TLLCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Fri, 15 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>

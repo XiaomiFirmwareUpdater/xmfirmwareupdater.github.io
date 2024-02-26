@@ -4059,6 +4059,16 @@
     android: '11.0'
     miui: V12.5.3.0.RKJCNXM
 - branch: stable
+  date: '2024-02-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aristotle/releases/download/stable-26.02.2024/fw_aristotle_miui_ARISTOTLEEEAGlobal_OS1.0.3.0.UMFEUXM_e8e60fffbf_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aristotle/fw_aristotle_miui_ARISTOTLEEEAGlobal_OS1.0.3.0.UMFEUXM_e8e60fffbf_14.0.zip
+  filename: fw_aristotle_miui_ARISTOTLEEEAGlobal_OS1.0.3.0.UMFEUXM_e8e60fffbf_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.UMFEUXM
+- branch: stable
   date: '2024-02-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aristotle/releases/download/stable-23.02.2024/fw_aristotle_miui_ARISTOTLEGlobal_OS1.0.2.0.UMFMIXM_d529eb94a4_14.0.zip
@@ -37288,6 +37298,16 @@
   versions:
     android: '13.0'
     miui: V14.0.2.0.TMRCNXM
+- branch: stable
+  date: '2024-02-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-26.02.2024/fw_marble_miui_MARBLEGlobal_OS1.0.3.0.UMRMIXM_ff84ee3e8f_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEGlobal_OS1.0.3.0.UMRMIXM_ff84ee3e8f_14.0.zip
+  filename: fw_marble_miui_MARBLEGlobal_OS1.0.3.0.UMRMIXM_ff84ee3e8f_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.UMRMIXM
 - branch: stable
   date: '2023-06-24'
   downloads:
@@ -73848,6 +73868,16 @@
   versions:
     android: '12.0'
     miui: V13.0.1.0.SLLCNXM
+- branch: stable
+  date: '2024-02-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-26.02.2024/fw_ziyi_miui_ZIYI_OS1.0.1.0.ULLCNXM_89dd31358d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ziyi/fw_ziyi_miui_ZIYI_OS1.0.1.0.ULLCNXM_89dd31358d_14.0.zip
+  filename: fw_ziyi_miui_ZIYI_OS1.0.1.0.ULLCNXM_89dd31358d_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.1.0.ULLCNXM
 - branch: stable
   date: '2023-07-24'
   downloads:

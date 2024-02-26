@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 12 Turbo/POCO F5 (marble) HyperOS Downloads
+title: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) HyperOS Downloads
 layout: download
-name: Redmi Note 12 Turbo/POCO F5
-codename: marble
-permalink: /hyperos/marble/
+name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+codename: ziyi
+permalink: /hyperos/ziyi/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/marble/">Redmi Note 12 Turbo/POCO F5</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/ziyi/">Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /hyperos/marble/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/hyperos/marble/" class="card-link">HyperOS Archive</a>
-    <a href="/firmware/marble/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/marble/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/hyperos/ziyi/" class="card-link">HyperOS Archive</a>
+    <a href="/firmware/ziyi/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/ziyi/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,14 +52,7 @@ permalink: /hyperos/marble/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12 Turbo China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UMRCNXM</td><td>14.0</td><td>5.9 GB</td><td>2024-02-01</td><td><a href="/hyperos/marble/stable beta/OS1.0.2.0.UMRCNXM/">Download</a></td></tr>
-<tr><td>POCO F5 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UMRMIXM</td><td>14.0</td><td>5.2 GB</td><td>2024-02-20</td><td><a href="/hyperos/marble/stable beta/OS1.0.3.0.UMRMIXM/">Download</a></td></tr>
-<tr><td>POCO F5 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UMRIDXM</td><td>14.0</td><td>7.3 GB</td><td>2024-01-22</td><td><a href="/hyperos/marble/stable/OS1.0.1.0.UMRIDXM/">Download</a></td></tr>
-<tr><td>POCO F5 India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UMRINXM</td><td>14.0</td><td>6.3 GB</td><td>2024-01-30</td><td><a href="/hyperos/marble/stable/OS1.0.5.0.UMRINXM/">Download</a></td></tr>
-<tr><td>POCO F5 Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UMRRUXM</td><td>14.0</td><td>7.7 GB</td><td>2024-02-01</td><td><a href="/hyperos/marble/stable/OS1.0.1.0.UMRRUXM/">Download</a></td></tr>
-<tr><td>POCO F5 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UMRRUXM</td><td>14.0</td><td>5.0 GB</td><td>2024-01-19</td><td><a href="/hyperos/marble/stable/OS1.0.1.0.UMRRUXM/">Download</a></td></tr>
-<tr><td>POCO F5 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UMRTRXM</td><td>14.0</td><td>6.9 GB</td><td>2024-02-02</td><td><a href="/hyperos/marble/stable/OS1.0.2.0.UMRTRXM/">Download</a></td></tr>
-<tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UMRTWXM</td><td>14.0</td><td>6.7 GB</td><td>2024-01-26</td><td><a href="/hyperos/marble/stable/OS1.0.1.0.UMRTWXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Civi 2 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.ULLCNXM</td><td>14.0</td><td>5.7 GB</td><td>2024-02-22</td><td><a href="/hyperos/ziyi/stable beta/OS1.0.1.0.ULLCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

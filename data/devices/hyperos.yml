@@ -18,6 +18,12 @@
   version: OS1.0.2.0.UKWEUXM
 - android: '14.0'
   codename: aristotle
+  date: '2024-02-26'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMFEUXM/fw_aristotle_miui_ARISTOTLEEEAGlobal_OS1.0.3.0.UMFEUXM_e8e60fffbf_14.0.zip
+  name: Xiaomi 13T
+  version: OS1.0.3.0.UMFEUXM
+- android: '14.0'
+  codename: aristotle
   date: '2024-02-23'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMFMIXM/fw_aristotle_miui_ARISTOTLEGlobal_OS1.0.2.0.UMFMIXM_d529eb94a4_14.0.zip
   name: Xiaomi 13T
@@ -448,6 +454,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UNMCNXM/fw_manet_miui_MANET_OS1.0.6.0.UNMCNXM_c89eece155_14.0.zip
   name: Redmi K70 Pro
   version: OS1.0.6.0.UNMCNXM
+- android: '14.0'
+  codename: marble
+  date: '2024-02-26'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMRMIXM/fw_marble_miui_MARBLEGlobal_OS1.0.3.0.UMRMIXM_ff84ee3e8f_14.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS1.0.3.0.UMRMIXM
 - android: '14.0'
   codename: marble
   date: '2024-02-23'
@@ -1036,6 +1048,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UNOCNXM/fw_zircon_miui_ZIRCON_OS1.0.2.0.UNOCNXM_6c10262097_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.2.0.UNOCNXM
+- android: '14.0'
+  codename: ziyi
+  date: '2024-02-26'
+  download: https://bigota.d.miui.com/OS1.0.1.0.ULLCNXM/fw_ziyi_miui_ZIYI_OS1.0.1.0.ULLCNXM_89dd31358d_14.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS1.0.1.0.ULLCNXM
 - android: '14.0'
   codename: zizhan
   date: '2023-12-25'

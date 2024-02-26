@@ -52,7 +52,8 @@ permalink: /archive/hyperos/marble/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F5 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UMRTRXM</td><td>14.0</td><td>6.9 GB</td><td>2024-02-02</td><td><a href="/hyperos/marble/stable/OS1.0.2.0.UMRTRXM/">Download</a></td></tr>
+                <tr><td>POCO F5 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UMRMIXM</td><td>14.0</td><td>5.2 GB</td><td>2024-02-20</td><td><a href="/hyperos/marble/stable beta/OS1.0.3.0.UMRMIXM/">Download</a></td></tr>
+<tr><td>POCO F5 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UMRTRXM</td><td>14.0</td><td>6.9 GB</td><td>2024-02-02</td><td><a href="/hyperos/marble/stable/OS1.0.2.0.UMRTRXM/">Download</a></td></tr>
 <tr><td>POCO F5 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UMRTRXM</td><td>14.0</td><td>5.2 GB</td><td>2024-01-26</td><td><a href="/hyperos/marble/stable/OS1.0.2.0.UMRTRXM/">Download</a></td></tr>
 <tr><td>POCO F5 Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UMRRUXM</td><td>14.0</td><td>7.7 GB</td><td>2024-02-01</td><td><a href="/hyperos/marble/stable/OS1.0.1.0.UMRRUXM/">Download</a></td></tr>
 <tr><td>POCO F5 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UMRRUXM</td><td>14.0</td><td>5.0 GB</td><td>2024-01-19</td><td><a href="/hyperos/marble/stable/OS1.0.1.0.UMRRUXM/">Download</a></td></tr>
