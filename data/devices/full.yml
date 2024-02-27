@@ -4939,6 +4939,16 @@
     android: '10.0'
     miui: V11.0.4.0.QJHCNXM
 - branch: stable
+  date: '2024-02-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-27.02.2024/fw_aurora_miui_AURORA_OS1.0.3.0.UNACNXM_1c74075993_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORA_OS1.0.3.0.UNACNXM_1c74075993_14.0.zip
+  filename: fw_aurora_miui_AURORA_OS1.0.3.0.UNACNXM_1c74075993_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.UNACNXM
+- branch: stable
   date: '2023-09-21'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_babylon/releases/download/stable-22.09.2023/fw_babylon_miui_BABYLON_V14.1.9.0.TMVCNXM_2275df6b37_13.0.zip
@@ -56988,6 +56998,16 @@
   versions:
     android: '14.0'
     miui: OS1.0.9.0.UNBCNXM
+- branch: stable
+  date: '2024-02-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-27.02.2024/fw_shennongt_miui_SHENNONGT_OS1.0.2.0.UNDCNXM_3036941359_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/shennong/fw_shennongt_miui_SHENNONGT_OS1.0.2.0.UNDCNXM_3036941359_14.0.zip
+  filename: fw_shennongt_miui_SHENNONGT_OS1.0.2.0.UNDCNXM_3036941359_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.UNDCNXM
 - branch: stable
   date: '2023-11-23'
   downloads:
