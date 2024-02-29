@@ -9,6 +9,16 @@
     android: '12.0'
     miui: V13.0.1.0.SGDEUXM
 - branch: stable
+  date: '2024-02-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_viva/releases/download/stable-29.02.2024/fw_viva_miui_VIVAGlobal_OS1.0.2.0.TGDMIXM_b2b4099a55_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/viva/fw_viva_miui_VIVAGlobal_OS1.0.2.0.TGDMIXM_b2b4099a55_13.0.zip
+  filename: fw_viva_miui_VIVAGlobal_OS1.0.2.0.TGDMIXM_b2b4099a55_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: OS1.0.2.0.TGDMIXM
+- branch: stable
   date: '2022-04-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_viva/releases/download/stable-26.04.2022/fw_viva_miui_VIVAGlobal_V13.0.7.0.RGDMIXM_22885ef2f3_11.0.zip
