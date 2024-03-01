@@ -268,3 +268,13 @@
   versions:
     android: '13.0'
     miui: V14.0.2.0.TGKMIXM
+- branch: stable
+  date: '2024-03-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spesn/releases/download/stable-01.03.2024/fw_spesn_miui_SPESNGlobal_OS1.0.3.0.TGKMIXM_21b3b58697_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/spesn/fw_spesn_miui_SPESNGlobal_OS1.0.3.0.TGKMIXM_21b3b58697_13.0.zip
+  filename: fw_spesn_miui_SPESNGlobal_OS1.0.3.0.TGKMIXM_21b3b58697_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: OS1.0.3.0.TGKMIXM
