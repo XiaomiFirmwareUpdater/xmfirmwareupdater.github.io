@@ -99,6 +99,16 @@
     android: '13.0'
     miui: V14.0.4.0.TMUEUXM
 - branch: stable
+  date: '2024-03-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-04.03.2024/fw_xun_miui_XUNEEAGlobal_V14.0.6.0.TMUEUXM_206b4990dc_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/xun/fw_xun_miui_XUNEEAGlobal_V14.0.6.0.TMUEUXM_206b4990dc_13.0.zip
+  filename: fw_xun_miui_XUNEEAGlobal_V14.0.6.0.TMUEUXM_206b4990dc_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TMUEUXM
+- branch: stable
   date: '2024-02-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-03.02.2024/fw_xun_miui_XUN_V14.0.9.0.TMUCNXM_443cdefd23_13.0.zip
