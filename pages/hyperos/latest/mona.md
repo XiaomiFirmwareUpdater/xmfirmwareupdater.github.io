@@ -52,7 +52,8 @@ permalink: /hyperos/mona/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Civi China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.TKVCNXM</td><td>13.0</td><td>5.5 GB</td><td>2024-02-22</td><td><a href="/hyperos/mona/stable beta/OS1.0.2.0.TKVCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Civi China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.TKVCNXM</td><td>13.0</td><td>6.8 GB</td><td>2024-03-04</td><td><a href="/hyperos/mona/stable/OS1.0.2.0.TKVCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.TKVCNXM</td><td>13.0</td><td>5.5 GB</td><td>2024-02-22</td><td><a href="/hyperos/mona/stable/OS1.0.2.0.TKVCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

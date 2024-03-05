@@ -52,9 +52,11 @@ permalink: /archive/hyperos/cupid/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULCCNXM</td><td>14.0</td><td>7.2 GB</td><td>2024-02-23</td><td><a href="/hyperos/cupid/stable/OS1.0.2.0.ULCCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.ULCIDXM</td><td>14.0</td><td>6.5 GB</td><td>2024-03-04</td><td><a href="/hyperos/cupid/stable/OS1.0.1.0.ULCIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.ULCIDXM</td><td>14.0</td><td>5.0 GB</td><td>2024-02-20</td><td><a href="/hyperos/cupid/stable/OS1.0.1.0.ULCIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.ULCCNXM</td><td>14.0</td><td>5.7 GB</td><td>2024-03-01</td><td><a href="/hyperos/cupid/stable beta/OS1.0.5.0.ULCCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULCCNXM</td><td>14.0</td><td>7.2 GB</td><td>2024-02-23</td><td><a href="/hyperos/cupid/stable/OS1.0.2.0.ULCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULCCNXM</td><td>14.0</td><td>5.7 GB</td><td>2024-01-29</td><td><a href="/hyperos/cupid/stable/OS1.0.2.0.ULCCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.ULCIDXM</td><td>14.0</td><td>5.0 GB</td><td>2024-02-20</td><td><a href="/hyperos/cupid/stable beta/OS1.0.1.0.ULCIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.ULCEUXM</td><td>14.0</td><td>6.4 GB</td><td>2024-02-18</td><td><a href="/hyperos/cupid/stable/OS1.0.3.0.ULCEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.ULCEUXM</td><td>14.0</td><td>5.3 GB</td><td>2024-01-25</td><td><a href="/hyperos/cupid/stable/OS1.0.3.0.ULCEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.7 GB</td><td>2024-01-12</td><td><a href="/hyperos/cupid/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>

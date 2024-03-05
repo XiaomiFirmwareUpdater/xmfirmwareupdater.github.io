@@ -77,6 +77,7 @@ permalink: /miui/rosemary/
 <tr><td>POCO M5S Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TFFTRXM</td><td>13.0</td><td>3.7 GB</td><td>2024-01-23</td><td><a href="/miui/rosemary/stable beta/V14.0.2.0.TFFTRXM/">Download</a></td></tr>
 <tr><td>POCO M5S Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TFFTWXM</td><td>13.0</td><td>5.8 GB</td><td>2023-12-07</td><td><a href="/miui/rosemary/stable/V14.0.2.0.TFFTWXM/">Download</a></td></tr>
 <tr><td>POCO M5S Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TFFTWXM</td><td>13.0</td><td>3.7 GB</td><td>2023-12-21</td><td><a href="/miui/rosemary/stable/V14.0.2.0.TFFTWXM/">Download</a></td></tr>
+<tr><td>POCO M5S Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TFFTWXM</td><td>13.0</td><td>3.7 GB</td><td>2024-02-29</td><td><a href="/miui/rosemary/stable beta/V14.0.3.0.TFFTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TKLRUXM</td><td>13.0</td><td>6.1 GB</td><td>2023-08-23</td><td><a href="/miui/rosemary/stable/V14.0.3.0.TKLRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TKLRUXM</td><td>13.0</td><td>3.7 GB</td><td>2023-09-22</td><td><a href="/miui/rosemary/stable/V14.0.3.0.TKLRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TKLTRXM</td><td>13.0</td><td>6.0 GB</td><td>2023-08-01</td><td><a href="/miui/rosemary/stable/V14.0.3.0.TKLTRXM/">Download</a></td></tr>

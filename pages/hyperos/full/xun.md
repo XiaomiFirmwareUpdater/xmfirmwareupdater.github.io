@@ -52,7 +52,8 @@ permalink: /archive/hyperos/xun/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad SE China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UMUCNXM</td><td>14.0</td><td>4.2 GB</td><td>2024-01-24</td><td><a href="/hyperos/xun/stable beta/OS1.0.3.0.UMUCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad SE Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UMUMIXM</td><td>14.0</td><td>4.1 GB</td><td>2024-02-21</td><td><a href="/hyperos/xun/stable beta/OS1.0.1.0.UMUMIXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UMUCNXM</td><td>14.0</td><td>4.2 GB</td><td>2024-01-24</td><td><a href="/hyperos/xun/stable beta/OS1.0.3.0.UMUCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
