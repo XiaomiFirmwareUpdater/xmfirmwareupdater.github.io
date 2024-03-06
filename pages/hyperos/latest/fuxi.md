@@ -56,8 +56,8 @@ permalink: /hyperos/fuxi/
 <tr><td>Xiaomi 13 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>6.4 GB</td><td>2024-01-12</td><td><a href="/hyperos/fuxi/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 13 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.2.UMCCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-01-10</td><td><a href="/hyperos/fuxi/stable/OS1.0.6.2.UMCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.UMCCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-02-20</td><td><a href="/hyperos/fuxi/stable beta/OS1.0.7.0.UMCCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UMCEUXM</td><td>14.0</td><td>7.7 GB</td><td>2024-01-08</td><td><a href="/hyperos/fuxi/stable/OS1.0.1.0.UMCEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UMCEUXM</td><td>14.0</td><td>5.9 GB</td><td>2024-01-29</td><td><a href="/hyperos/fuxi/stable beta/OS1.0.3.0.UMCEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UMCEUXM</td><td>14.0</td><td>7.7 GB</td><td>2024-01-17</td><td><a href="/hyperos/fuxi/stable/OS1.0.3.0.UMCEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UMCEUXM</td><td>14.0</td><td>5.9 GB</td><td>2024-01-29</td><td><a href="/hyperos/fuxi/stable/OS1.0.3.0.UMCEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UMCMIXM</td><td>14.0</td><td>7.7 GB</td><td>2024-02-28</td><td><a href="/hyperos/fuxi/stable/OS1.0.3.0.UMCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UMCMIXM</td><td>14.0</td><td>5.8 GB</td><td>2024-02-20</td><td><a href="/hyperos/fuxi/stable/OS1.0.3.0.UMCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UMCRUXM</td><td>14.0</td><td>7.4 GB</td><td>2024-02-22</td><td><a href="/hyperos/fuxi/stable/OS1.0.2.0.UMCRUXM/">Download</a></td></tr>
