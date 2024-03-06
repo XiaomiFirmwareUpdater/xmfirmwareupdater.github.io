@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 06 Mar 2024 12:34:56 </lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 19:28:42 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.7.0.UNLMIXM</title>
@@ -19,6 +19,11 @@
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.3.0.UCVMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
+            <pubDate>Wed, 06 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 (houji) - OS1.0.6.0.UNCINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
             <pubDate>Wed, 06 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -128,11 +133,6 @@
         </item>
         <item>
             <title>Xiaomi 14 (houji) - OS1.0.2.0.UNCMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
-            <pubDate>Thu, 29 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 (houji) - OS1.0.2.0.UNCINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
             <pubDate>Thu, 29 Feb 2024 00:00:00 </pubDate>
         </item>

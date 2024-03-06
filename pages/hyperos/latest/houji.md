@@ -62,8 +62,8 @@ permalink: /hyperos/houji/
 <tr><td>Xiaomi 14 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UNCMIXM</td><td>14.0</td><td>5.8 GB</td><td>2024-02-29</td><td><a href="/hyperos/houji/stable/OS1.0.2.0.UNCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UNCIDXM</td><td>14.0</td><td>7.3 GB</td><td>2024-02-29</td><td><a href="/hyperos/houji/stable/OS1.0.1.0.UNCIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UNCIDXM</td><td>14.0</td><td>5.8 GB</td><td>2024-02-29</td><td><a href="/hyperos/houji/stable/OS1.0.1.0.UNCIDXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14 India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UNCINXM</td><td>14.0</td><td>6.6 GB</td><td>2024-02-29</td><td><a href="/hyperos/houji/stable/OS1.0.2.0.UNCINXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14 India</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UNCINXM</td><td>14.0</td><td>5.7 GB</td><td>2024-02-29</td><td><a href="/hyperos/houji/stable/OS1.0.2.0.UNCINXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UNCINXM</td><td>14.0</td><td>6.5 GB</td><td>2024-03-06</td><td><a href="/hyperos/houji/stable/OS1.0.6.0.UNCINXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 India</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UNCINXM</td><td>14.0</td><td>5.8 GB</td><td>2024-03-06</td><td><a href="/hyperos/houji/stable/OS1.0.6.0.UNCINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UNCRUXM</td><td>14.0</td><td>7.5 GB</td><td>2024-02-29</td><td><a href="/hyperos/houji/stable/OS1.0.1.0.UNCRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UNCRUXM</td><td>14.0</td><td>5.7 GB</td><td>2024-02-29</td><td><a href="/hyperos/houji/stable/OS1.0.1.0.UNCRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UNCTRXM</td><td>14.0</td><td>7.0 GB</td><td>2024-02-29</td><td><a href="/hyperos/houji/stable/OS1.0.1.0.UNCTRXM/">Download</a></td></tr>

@@ -52,7 +52,8 @@ permalink: /archive/hyperos/evergo/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.TGBCNXM</td><td>13.0</td><td>3.8 GB</td><td>2024-02-26</td><td><a href="/hyperos/evergo/stable beta/OS1.0.1.0.TGBCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 5G China</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TGBCNXM</td><td>13.0</td><td>3.8 GB</td><td>2024-02-26</td><td><a href="/hyperos/evergo/stable/OS1.0.1.0.TGBCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 5G China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.TGBCNXM</td><td>13.0</td><td>5.2 GB</td><td>2024-02-06</td><td><a href="/hyperos/evergo/stable/OS1.0.1.0.TGBCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
