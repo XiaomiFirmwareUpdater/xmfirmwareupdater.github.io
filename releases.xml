@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 07 Mar 2024 12:37:36 </lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 19:42:23 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS1.0.4.0.UMLEUXM</title>
@@ -19,6 +19,11 @@
         <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - V14.0.8.0.TNREUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
+            <pubDate>Thu, 07 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 (houji) - OS1.0.5.0.UNCMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
             <pubDate>Thu, 07 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -144,11 +149,6 @@
         <item>
             <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - OS1.0.1.0.TGBCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/evergo/</link>
-            <pubDate>Thu, 29 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 (houji) - OS1.0.2.0.UNCMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
             <pubDate>Thu, 29 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>

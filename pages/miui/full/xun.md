@@ -53,6 +53,7 @@ permalink: /archive/miui/xun/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Pad SE Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TMUTRXM</td><td>13.0</td><td>4.0 GB</td><td>2024-03-07</td><td><a href="/miui/xun/stable beta/V14.0.5.0.TMUTRXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TMUTWXM</td><td>13.0</td><td>3.9 GB</td><td>2024-03-04</td><td><a href="/miui/xun/stable beta/V14.0.5.0.TMUTWXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE Indonesia</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMUIDXM</td><td>13.0</td><td>4.0 GB</td><td>2024-02-27</td><td><a href="/miui/xun/stable/V14.0.6.0.TMUIDXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE Indonesia</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TMUIDXM</td><td>13.0</td><td>4.6 GB</td><td>2024-02-22</td><td><a href="/miui/xun/stable/V14.0.6.0.TMUIDXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMURUXM</td><td>13.0</td><td>3.9 GB</td><td>2024-02-27</td><td><a href="/miui/xun/stable/V14.0.6.0.TMURUXM/">Download</a></td></tr>
