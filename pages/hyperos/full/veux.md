@@ -52,7 +52,8 @@ permalink: /archive/hyperos/veux/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11E Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.TKCCNXM</td><td>13.0</td><td>4.5 GB</td><td>2024-02-27</td><td><a href="/hyperos/veux/stable beta/OS1.0.1.0.TKCCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11E Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TKCCNXM</td><td>13.0</td><td>4.5 GB</td><td>2024-02-27</td><td><a href="/hyperos/veux/stable/OS1.0.1.0.TKCCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11E Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.TKCCNXM</td><td>13.0</td><td>5.8 GB</td><td>2024-02-20</td><td><a href="/hyperos/veux/stable/OS1.0.1.0.TKCCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

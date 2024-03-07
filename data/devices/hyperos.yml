@@ -72,6 +72,12 @@
   version: OS1.0.7.0.UMLCNXM
 - android: '14.0'
   codename: corot
+  date: '2024-03-07'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMLEUXM/fw_corot_miui_COROTEEAGlobal_OS1.0.4.0.UMLEUXM_71d7dc436c_14.0.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS1.0.4.0.UMLEUXM
+- android: '14.0'
+  codename: corot
   date: '2023-12-03'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMLCNXM/fw_corot_miui_COROT_OS1.0.5.0.UMLCNXM_a2e2e5f060_14.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
@@ -130,6 +136,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULFCNXM/fw_diting_miui_DITING_OS1.0.2.0.ULFCNXM_10cb54f830_14.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: OS1.0.2.0.ULFCNXM
+- android: '14.0'
+  codename: diting
+  date: '2024-03-07'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULFEUXM/fw_diting_miui_DITINGEEAGlobal_OS1.0.2.0.ULFEUXM_e23a2c465c_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.2.0.ULFEUXM
 - android: '14.0'
   codename: duchamp
   date: '2023-11-30'

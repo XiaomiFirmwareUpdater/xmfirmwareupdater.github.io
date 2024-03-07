@@ -60,6 +60,7 @@ permalink: /miui/diting/
 <tr><td>Xiaomi 12T Pro Japan</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TLFJPXM</td><td>13.0</td><td>4.8 GB</td><td>2023-12-25</td><td><a href="/miui/diting/stable/V14.0.4.0.TLFJPXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TLFTRXM</td><td>13.0</td><td>6.5 GB</td><td>2023-02-18</td><td><a href="/miui/diting/stable/V14.0.1.0.TLFTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TLFTRXM</td><td>13.0</td><td>4.8 GB</td><td>2023-03-15</td><td><a href="/miui/diting/stable/V14.0.1.0.TLFTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TLFTWXM</td><td>13.0</td><td>4.8 GB</td><td>2023-12-25</td><td><a href="/miui/diting/stable/V14.0.6.0.TLFTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
