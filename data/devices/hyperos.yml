@@ -263,6 +263,12 @@
   name: Xiaomi Pad 5 Pro Wi-Fi
   version: OS1.0.1.0.TKYCNXM
 - android: '13.0'
+  codename: enuma
+  date: '2024-03-08'
+  download: https://bigota.d.miui.com/OS1.0.1.0.TKZCNXM/fw_enuma_miui_ENUMA_OS1.0.1.0.TKZCNXM_4488f26875_13.0.zip
+  name: Xiaomi Pad 5 Pro 5G
+  version: OS1.0.1.0.TKZCNXM
+- android: '13.0'
   codename: evergo
   date: '2024-02-29'
   download: https://bigota.d.miui.com/OS1.0.1.0.TGBCNXM/fw_evergo_miui_EVERGO_OS1.0.1.0.TGBCNXM_30dc3f8271_13.0.zip

@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 08 Mar 2024 00:35:24 </lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 06:36:09 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Pad 5 Pro 5G (enuma) - OS1.0.1.0.TKZCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/enuma/</link>
+            <pubDate>Fri, 08 Mar 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS1.0.4.0.UMLEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/corot/</link>
@@ -1215,11 +1220,6 @@
             <title>Redmi Note 10 5G/Redmi Note 11SE/Redmi Note 10T 5G/POCO M3 Pro 5G (camellia) - V14.0.6.0.TKSINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/camellia/</link>
             <pubDate>Tue, 17 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 5 Pro 5G (enuma) - V14.0.4.0.TKZCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/enuma/</link>
-            <pubDate>Thu, 12 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.8.0.TKHMIXM</title>
