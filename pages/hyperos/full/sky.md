@@ -52,7 +52,8 @@ permalink: /archive/hyperos/sky/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 12 5G / POCO M6 Pro 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UMWTWXM</td><td>14.0</td><td>4.4 GB</td><td>2024-03-05</td><td><a href="/hyperos/sky/stable beta/OS1.0.3.0.UMWTWXM/">Download</a></td></tr>
+                <tr><td>Redmi 12 5G Japan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.8.0.UMWJPXM</td><td>14.0</td><td>4.4 GB</td><td>2024-03-07</td><td><a href="/hyperos/sky/stable beta/OS1.0.8.0.UMWJPXM/">Download</a></td></tr>
+<tr><td>Redmi 12 5G / POCO M6 Pro 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UMWTWXM</td><td>14.0</td><td>4.4 GB</td><td>2024-03-05</td><td><a href="/hyperos/sky/stable beta/OS1.0.3.0.UMWTWXM/">Download</a></td></tr>
 <tr><td>Redmi 12 5G / POCO M6 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UMWEUXM</td><td>14.0</td><td>6.8 GB</td><td>2024-02-22</td><td><a href="/hyperos/sky/stable/OS1.0.1.0.UMWEUXM/">Download</a></td></tr>
 <tr><td>Redmi 12 5G / POCO M6 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UMWEUXM</td><td>14.0</td><td>4.6 GB</td><td>2024-02-01</td><td><a href="/hyperos/sky/stable/OS1.0.1.0.UMWEUXM/">Download</a></td></tr>
 <tr><td>Redmi 12 5G / POCO M6 Pro 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UMWMIXM</td><td>14.0</td><td>7.0 GB</td><td>2024-02-04</td><td><a href="/hyperos/sky/stable/OS1.0.3.0.UMWMIXM/">Download</a></td></tr>
