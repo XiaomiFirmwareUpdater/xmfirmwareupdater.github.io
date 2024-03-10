@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 10 Mar 2024 12:34:48 </lastBuildDate>
+        <lastBuildDate>Sun, 10 Mar 2024 18:37:54 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS1.0.4.0.UNACNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Sun, 10 Mar 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi Pad 5 Pro 5G (enuma) - OS1.0.1.0.TKZCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/enuma/</link>
@@ -185,11 +190,6 @@
             <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - OS1.0.1.0.ULSINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/light/</link>
             <pubDate>Wed, 28 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS1.0.3.0.UNACNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Tue, 27 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 14 Pro Ti Satellite (shennongt) - OS1.0.2.0.UNDCNXM</title>
