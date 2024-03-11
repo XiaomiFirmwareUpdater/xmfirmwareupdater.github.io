@@ -216,6 +216,12 @@
   version: OS1.0.8.0.UNLCNXM
 - android: '14.0'
   codename: duchamp
+  date: '2024-03-11'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UNLINXM/fw_duchamp_miui_DUCHAMPINGlobal_OS1.0.6.0.UNLINXM_b5e59e814d_14.0.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS1.0.6.0.UNLINXM
+- android: '14.0'
+  codename: duchamp
   date: '2024-03-06'
   download: https://bigota.d.miui.com/OS1.0.6.0.UNLEUXM/fw_duchamp_miui_DUCHAMPEEAGlobal_OS1.0.6.0.UNLEUXM_11c176bf3c_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
@@ -286,6 +292,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UMXMIXM/fw_fire_miui_FIREGlobal_OS1.0.1.0.UMXMIXM_3984ea57a0_14.0.zip
   name: Redmi 12
   version: OS1.0.1.0.UMXMIXM
+- android: '14.0'
+  codename: fire
+  date: '2024-03-11'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMXMIXM/fw_fire_miui_FIREGlobal_OS1.0.3.0.UMXMIXM_b397436dfb_14.0.zip
+  name: Redmi 12
+  version: OS1.0.3.0.UMXMIXM
 - android: '14.0'
   codename: fire
   date: '2024-02-03'
