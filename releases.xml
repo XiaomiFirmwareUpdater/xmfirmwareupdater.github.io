@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 11 Mar 2024 06:34:25 </lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 12:41:24 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS1.0.3.0.UNRINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
+            <pubDate>Mon, 11 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.1.0.UMOINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Mon, 11 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 4G NFC (topaz) - OS1.0.6.0.UMGEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/topaz/</link>
+            <pubDate>Mon, 11 Mar 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS1.0.4.0.UNACNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/aurora/</link>
@@ -69,11 +84,6 @@
         <item>
             <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - OS1.0.1.0.TKEMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fleur/</link>
-            <pubDate>Tue, 05 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 4G NFC (topaz) - OS1.0.3.0.UMGEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/topaz/</link>
             <pubDate>Tue, 05 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -409,11 +419,6 @@
         <item>
             <title>Redmi 13C/POCO C65 (gale) - V14.0.8.0.TGPMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/gale/</link>
-            <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - V14.0.4.0.TNRINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
             <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -995,11 +1000,6 @@
             <title>Redmi Note 11 Pro 4G (viva) - V14.0.5.0.TGDEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/viva/</link>
             <pubDate>Sat, 23 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.5.0.TMOINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Thu, 21 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.6.0.TLOEUXM</title>

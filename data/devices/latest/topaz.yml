@@ -9,12 +9,12 @@
     android: '14.0'
     miui: OS1.0.4.0.UMGMIXM
 - branch: stable
-  date: '2024-03-05'
+  date: '2024-03-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_topaz/releases/download/stable-05.03.2024/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.3.0.UMGEUXM_351da45d3b_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/topaz/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.3.0.UMGEUXM_351da45d3b_14.0.zip
-  filename: fw_topaz_miui_TOPAZEEAGlobal_OS1.0.3.0.UMGEUXM_351da45d3b_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_topaz/releases/download/stable-11.03.2024/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.6.0.UMGEUXM_dfadeededc_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/topaz/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.6.0.UMGEUXM_dfadeededc_14.0.zip
+  filename: fw_topaz_miui_TOPAZEEAGlobal_OS1.0.6.0.UMGEUXM_dfadeededc_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.3.0.UMGEUXM
+    miui: OS1.0.6.0.UMGEUXM

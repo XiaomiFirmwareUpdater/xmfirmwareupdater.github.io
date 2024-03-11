@@ -25009,6 +25009,16 @@
     android: '13.0'
     miui: V14.0.15.0.TNRCNXM
 - branch: stable
+  date: '2024-03-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-11.03.2024/fw_garnet_miui_GARNETINGlobal_OS1.0.3.0.UNRINXM_414a4dd7e7_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/garnet/fw_garnet_miui_GARNETINGlobal_OS1.0.3.0.UNRINXM_414a4dd7e7_14.0.zip
+  filename: fw_garnet_miui_GARNETINGlobal_OS1.0.3.0.UNRINXM_414a4dd7e7_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.UNRINXM
+- branch: stable
   date: '2024-03-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-07.03.2024/fw_garnet_miui_GARNETEEAGlobal_V14.0.8.0.TNREUXM_b654206e98_13.0.zip
@@ -54779,6 +54789,16 @@
     android: '13.0'
     miui: V14.0.11.0.TMOEUXM
 - branch: stable
+  date: '2024-03-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-11.03.2024/fw_ruby_miui_RUBYINGlobal_OS1.0.1.0.UMOINXM_3efecd9f47_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruby/fw_ruby_miui_RUBYINGlobal_OS1.0.1.0.UMOINXM_3efecd9f47_14.0.zip
+  filename: fw_ruby_miui_RUBYINGlobal_OS1.0.1.0.UMOINXM_3efecd9f47_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.1.0.UMOINXM
+- branch: stable
   date: '2023-01-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-11.01.2023/fw_ruby_miui_RUBYINGlobal_V13.0.2.0.SMOINXM_7f66111291_12.0.zip
@@ -62438,6 +62458,16 @@
   versions:
     android: '13.0'
     miui: V14.0.7.0.TMGEUXM
+- branch: stable
+  date: '2024-03-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_topaz/releases/download/stable-11.03.2024/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.6.0.UMGEUXM_dfadeededc_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/topaz/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.6.0.UMGEUXM_dfadeededc_14.0.zip
+  filename: fw_topaz_miui_TOPAZEEAGlobal_OS1.0.6.0.UMGEUXM_dfadeededc_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.6.0.UMGEUXM
 - branch: stable
   date: '2023-04-07'
   downloads:

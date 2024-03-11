@@ -347,6 +347,12 @@
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS1.0.1.0.UNRCNXM
 - android: '14.0'
+  codename: garnet
+  date: '2024-03-11'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UNRINXM/fw_garnet_miui_GARNETINGlobal_OS1.0.3.0.UNRINXM_414a4dd7e7_14.0.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS1.0.3.0.UNRINXM
+- android: '14.0'
   codename: gold
   date: '2024-02-25'
   download: https://bigota.d.miui.com/OS1.0.2.0.UNQMIXM/fw_gold_miui_GOLDGlobal_OS1.0.2.0.UNQMIXM_da2a25942a_14.0.zip
@@ -912,6 +918,12 @@
   version: OS1.0.3.0.UMOCNXM
 - android: '14.0'
   codename: ruby
+  date: '2024-03-11'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UMOINXM/fw_ruby_miui_RUBYINGlobal_OS1.0.1.0.UMOINXM_3efecd9f47_14.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS1.0.1.0.UMOINXM
+- android: '14.0'
+  codename: ruby
   date: '2024-02-01'
   download: https://bigota.d.miui.com/OS1.0.1.0.UMOEUXM/fw_ruby_miui_RUBYEEAGlobal_OS1.0.1.0.UMOEUXM_d22f47926d_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
@@ -1144,6 +1156,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMGMIXM/fw_topaz_miui_TOPAZGlobal_OS1.0.2.0.UMGMIXM_0d2645dd48_14.0.zip
   name: Redmi Note 12 4G NFC
   version: OS1.0.2.0.UMGMIXM
+- android: '14.0'
+  codename: topaz
+  date: '2024-03-11'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMGEUXM/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.6.0.UMGEUXM_dfadeededc_14.0.zip
+  name: Redmi Note 12 4G NFC
+  version: OS1.0.6.0.UMGEUXM
 - android: '14.0'
   codename: topaz
   date: '2024-03-05'
