@@ -360,6 +360,12 @@
   version: OS1.0.1.0.UNRCNXM
 - android: '14.0'
   codename: garnet
+  date: '2024-03-12'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNRMIXM/fw_garnet_miui_GARNETGlobal_OS1.0.4.0.UNRMIXM_8ea6bb5539_14.0.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS1.0.4.0.UNRMIXM
+- android: '14.0'
+  codename: garnet
   date: '2024-03-11'
   download: https://bigota.d.miui.com/OS1.0.3.0.UNRINXM/fw_garnet_miui_GARNETINGlobal_OS1.0.3.0.UNRINXM_414a4dd7e7_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
@@ -958,6 +964,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UHZMIXM/fw_sea_miui_SEAGlobal_OS1.0.3.0.UHZMIXM_d4c318c44e_14.0.zip
   name: Redmi Note 12S
   version: OS1.0.3.0.UHZMIXM
+- android: '14.0'
+  codename: sheng
+  date: '2024-03-12'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UNXCNXM/fw_sheng_miui_SHENG_OS1.0.5.0.UNXCNXM_c360e030b8_14.0.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS1.0.5.0.UNXCNXM
 - android: '14.0'
   codename: shennong
   date: '2023-10-31'

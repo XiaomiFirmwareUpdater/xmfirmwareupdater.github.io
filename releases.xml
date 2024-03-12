@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 12 Mar 2024 00:32:59 </lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 06:38:57 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS1.0.4.0.UNRMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
+            <pubDate>Tue, 12 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS1.0.5.0.UNXCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sheng/</link>
+            <pubDate>Tue, 12 Mar 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.6.0.UNLINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
@@ -829,11 +839,6 @@
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS1.0.1.0.UMLMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - V14.0.6.0.TNRMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
             <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
