@@ -239,15 +239,15 @@
     android: '7.0'
     miui: 8.9.13
 - branch: stable
-  date: '2023-11-20'
+  date: '2024-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-20.11.2023/fw_ares_miui_ARES_V14.0.5.0.TKJCNXM_4f27761e0b_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ares/fw_ares_miui_ARES_V14.0.5.0.TKJCNXM_4f27761e0b_13.0.zip
-  filename: fw_ares_miui_ARES_V14.0.5.0.TKJCNXM_4f27761e0b_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-12.03.2024/fw_ares_miui_ARES_OS1.0.2.0.TKJCNXM_09a01a89e6_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ares/fw_ares_miui_ARES_OS1.0.2.0.TKJCNXM_09a01a89e6_13.0.zip
+  filename: fw_ares_miui_ARES_OS1.0.2.0.TKJCNXM_09a01a89e6_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TKJCNXM
+    miui: OS1.0.2.0.TKJCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -1359,15 +1359,15 @@
     android: '11.0'
     miui: 22.3.24
 - branch: stable
-  date: '2024-02-19'
+  date: '2024-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-19.02.2024/fw_emerald_miui_EMERALDGlobal_V14.0.5.0.TNFMIXM_1bed759fb4_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/emerald/fw_emerald_miui_EMERALDGlobal_V14.0.5.0.TNFMIXM_1bed759fb4_13.0.zip
-  filename: fw_emerald_miui_EMERALDGlobal_V14.0.5.0.TNFMIXM_1bed759fb4_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-12.03.2024/fw_emerald_miui_EMERALDGlobal_OS1.0.1.0.UNFMIXM_69840715c1_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/emerald/fw_emerald_miui_EMERALDGlobal_OS1.0.1.0.UNFMIXM_69840715c1_14.0.zip
+  filename: fw_emerald_miui_EMERALDGlobal_OS1.0.1.0.UNFMIXM_69840715c1_14.0.zip
   region: Global
   versions:
-    android: '13.0'
-    miui: V14.0.5.0.TNFMIXM
+    android: '14.0'
+    miui: OS1.0.1.0.UNFMIXM
 - branch: stable
   date: '2024-02-19'
   downloads:

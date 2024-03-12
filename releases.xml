@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 12 Mar 2024 06:38:57 </lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 13:13:32 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K40 Gaming/POCO F3 GT (ares) - OS1.0.2.0.TKJCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ares/</link>
+            <pubDate>Tue, 12 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro 4G/POCO M6 Pro (emerald) - OS1.0.1.0.UNFMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/emerald/</link>
+            <pubDate>Tue, 12 Mar 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS1.0.4.0.UNRMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
@@ -405,11 +415,6 @@
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS1.0.2.0.UNOCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Tue, 20 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro 4G/POCO M6 Pro (emerald) - V14.0.5.0.TNFMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/emerald/</link>
-            <pubDate>Mon, 19 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro (emerald) - V14.0.5.0.TNFEUXM</title>
@@ -1144,11 +1149,6 @@
         <item>
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.5.0.TKHINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/alioth/</link>
-            <pubDate>Mon, 20 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40 Gaming/POCO F3 GT (ares) - V14.0.5.0.TKJCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ares/</link>
             <pubDate>Mon, 20 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>

@@ -16,6 +16,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UKWEUXM/fw_agate_miui_AGATEEEAGlobal_OS1.0.2.0.UKWEUXM_adccc0e057_14.0.zip
   name: Xiaomi 11T
   version: OS1.0.2.0.UKWEUXM
+- android: '13.0'
+  codename: ares
+  date: '2024-03-12'
+  download: https://bigota.d.miui.com/OS1.0.2.0.TKJCNXM/fw_ares_miui_ARES_OS1.0.2.0.TKJCNXM_09a01a89e6_13.0.zip
+  name: Redmi K40 Gaming/POCO F3 GT
+  version: OS1.0.2.0.TKJCNXM
 - android: '14.0'
   codename: aristotle
   date: '2024-02-26'
@@ -274,6 +280,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.TKYCNXM/fw_elish_miui_ELISH_OS1.0.1.0.TKYCNXM_3bbd2d29c2_13.0.zip
   name: Xiaomi Pad 5 Pro Wi-Fi
   version: OS1.0.1.0.TKYCNXM
+- android: '14.0'
+  codename: emerald
+  date: '2024-03-12'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.1.0.UNFMIXM_69840715c1_14.0.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  version: OS1.0.1.0.UNFMIXM
 - android: '13.0'
   codename: enuma
   date: '2024-03-08'
