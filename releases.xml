@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 14 Mar 2024 00:34:41 </lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 06:41:35 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - V14.0.18.0.TNRCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
+            <pubDate>Thu, 14 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.4.0.UMOCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Thu, 14 Mar 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K40 Gaming/POCO F3 GT (ares) - OS1.0.2.0.TKJCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ares/</link>
@@ -407,11 +417,6 @@
             <pubDate>Tue, 20 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS1.0.1.0.UNRCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
-            <pubDate>Tue, 20 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS1.0.2.0.UNOCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Tue, 20 Feb 2024 00:00:00 </pubDate>
@@ -745,11 +750,6 @@
             <title>Redmi Note 11 Pro 4G (vida) - V14.0.4.0.TGDINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/vida/</link>
             <pubDate>Thu, 25 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.3.0.UMOCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Wed, 24 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.11.0.TKHEUXM</title>

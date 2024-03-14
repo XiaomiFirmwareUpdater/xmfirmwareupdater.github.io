@@ -1452,6 +1452,12 @@
   version: V14.0.6.0.TNRMIXM
 - android: '13.0'
   codename: garnet
+  date: '2024-03-14'
+  download: https://bigota.d.miui.com/V14.0.18.0.TNRCNXM/fw_garnet_miui_GARNET_V14.0.18.0.TNRCNXM_cab020b96f_13.0.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: V14.0.18.0.TNRCNXM
+- android: '13.0'
+  codename: garnet
   date: '2023-11-12'
   download: https://bigota.d.miui.com/V14.0.13.0.TNRCNXM/fw_garnet_miui_GARNET_V14.0.13.0.TNRCNXM_c3b0b88317_13.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G

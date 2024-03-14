@@ -1679,15 +1679,15 @@
     android: '14.0'
     miui: OS1.0.4.0.UNRMIXM
 - branch: stable
-  date: '2024-02-20'
+  date: '2024-03-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-20.02.2024/fw_garnet_miui_GARNET_OS1.0.1.0.UNRCNXM_e7be0367c7_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/garnet/fw_garnet_miui_GARNET_OS1.0.1.0.UNRCNXM_e7be0367c7_14.0.zip
-  filename: fw_garnet_miui_GARNET_OS1.0.1.0.UNRCNXM_e7be0367c7_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-14.03.2024/fw_garnet_miui_GARNET_V14.0.18.0.TNRCNXM_cab020b96f_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/garnet/fw_garnet_miui_GARNET_V14.0.18.0.TNRCNXM_cab020b96f_13.0.zip
+  filename: fw_garnet_miui_GARNET_V14.0.18.0.TNRCNXM_cab020b96f_13.0.zip
   region: China
   versions:
-    android: '14.0'
-    miui: OS1.0.1.0.UNRCNXM
+    android: '13.0'
+    miui: V14.0.18.0.TNRCNXM
 - branch: stable
   date: '2024-03-07'
   downloads:
@@ -4339,15 +4339,15 @@
     android: '14.0'
     miui: OS1.0.1.0.UMOMIXM
 - branch: stable
-  date: '2024-01-24'
+  date: '2024-03-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-24.01.2024/fw_ruby_miui_RUBY_OS1.0.3.0.UMOCNXM_c06e478636_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruby/fw_ruby_miui_RUBY_OS1.0.3.0.UMOCNXM_c06e478636_14.0.zip
-  filename: fw_ruby_miui_RUBY_OS1.0.3.0.UMOCNXM_c06e478636_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-14.03.2024/fw_ruby_miui_RUBY_OS1.0.4.0.UMOCNXM_14c0492905_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruby/fw_ruby_miui_RUBY_OS1.0.4.0.UMOCNXM_14c0492905_14.0.zip
+  filename: fw_ruby_miui_RUBY_OS1.0.4.0.UMOCNXM_14c0492905_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.3.0.UMOCNXM
+    miui: OS1.0.4.0.UMOCNXM
 - branch: stable
   date: '2024-02-01'
   downloads:
