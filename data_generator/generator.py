@@ -416,6 +416,7 @@ def generate_miui_latest_table(item):
 mirrors = [
     "cdn-ota.azureedge.net",
     "cdnorg.d.miui.com",
+    "bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com",
     "bn.d.miui.com",
     "bigota.d.miui.com",
     "hugeota.d.miui.com",
