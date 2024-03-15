@@ -4,8 +4,33 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 15 Mar 2024 06:34:47 </lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 13:05:37 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS1.0.3.0.ULFCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
+            <pubDate>Fri, 15 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>POCO C40 (frost) - V13.0.26.0.RGFMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/frost/</link>
+            <pubDate>Fri, 15 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.2.0.UMOMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Fri, 15 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 4G (tapas) - OS1.0.3.0.UMTINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/tapas/</link>
+            <pubDate>Fri, 15 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE (xun) - OS1.0.1.0.UMUEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
+            <pubDate>Fri, 15 Mar 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - V14.0.18.0.TNRCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
@@ -174,11 +199,6 @@
         <item>
             <title>Xiaomi 11T Pro (vili) - V14.0.16.0.TKDEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/vili/</link>
-            <pubDate>Mon, 04 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad SE (xun) - V14.0.6.0.TMUEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
             <pubDate>Mon, 04 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -697,11 +717,6 @@
             <pubDate>Mon, 29 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.1.0.UMOMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Mon, 29 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12S Ultra (thor) - OS1.0.4.0.ULACNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/thor/</link>
             <pubDate>Mon, 29 Jan 2024 00:00:00 </pubDate>
@@ -857,11 +872,6 @@
             <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 4G (tapas) - OS1.0.1.0.UMTINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/tapas/</link>
-            <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Mi 11 (venus) - V14.0.11.0.TKBCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/venus/</link>
             <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
@@ -879,11 +889,6 @@
         <item>
             <title>Redmi 10C (fog) - V14.0.5.0.TGEMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fog/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO C40 (frost) - V13.0.25.0.RGFMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/frost/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -989,11 +994,6 @@
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - V14.0.5.0.TGQCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/air/</link>
-            <pubDate>Thu, 11 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS1.0.2.0.ULFCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
             <pubDate>Thu, 11 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>

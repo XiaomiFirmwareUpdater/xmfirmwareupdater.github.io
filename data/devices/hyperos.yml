@@ -144,6 +144,12 @@
   version: OS1.0.2.0.ULFMIXM
 - android: '14.0'
   codename: diting
+  date: '2024-03-15'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULFCNXM/fw_diting_miui_DITING_OS1.0.3.0.ULFCNXM_853473331d_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.3.0.ULFCNXM
+- android: '14.0'
+  codename: diting
   date: '2024-01-11'
   download: https://bigota.d.miui.com/OS1.0.2.0.ULFCNXM/fw_diting_miui_DITING_OS1.0.2.0.ULFCNXM_10cb54f830_14.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
@@ -948,6 +954,12 @@
   version: OS1.0.3.0.UMOCNXM
 - android: '14.0'
   codename: ruby
+  date: '2024-03-15'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UMOMIXM/fw_ruby_miui_RUBYGlobal_OS1.0.2.0.UMOMIXM_188f934348_14.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS1.0.2.0.UMOMIXM
+- android: '14.0'
+  codename: ruby
   date: '2024-03-14'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMOCNXM/fw_ruby_miui_RUBY_OS1.0.4.0.UMOCNXM_14c0492905_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
@@ -1164,6 +1176,12 @@
   version: OS1.0.4.0.UMTMIXM
 - android: '14.0'
   codename: tapas
+  date: '2024-03-15'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMTINXM/fw_tapas_miui_TAPASINGlobal_OS1.0.3.0.UMTINXM_efaaddb3ed_14.0.zip
+  name: Redmi Note 12 4G
+  version: OS1.0.3.0.UMTINXM
+- android: '14.0'
+  codename: tapas
   date: '2024-01-15'
   download: https://bigota.d.miui.com/OS1.0.1.0.UMTINXM/fw_tapas_miui_TAPASINGlobal_OS1.0.1.0.UMTINXM_f868289c5c_14.0.zip
   name: Redmi Note 12 4G
@@ -1270,6 +1288,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UMUMIXM/fw_xun_miui_XUNGlobal_OS1.0.1.0.UMUMIXM_a627c20c99_14.0.zip
   name: Redmi Pad SE
   version: OS1.0.1.0.UMUMIXM
+- android: '14.0'
+  codename: xun
+  date: '2024-03-15'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UMUEUXM/fw_xun_miui_XUNEEAGlobal_OS1.0.1.0.UMUEUXM_9675f5ccd4_14.0.zip
+  name: Redmi Pad SE
+  version: OS1.0.1.0.UMUEUXM
 - android: '14.0'
   codename: yudi
   date: '2023-12-11'
