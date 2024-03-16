@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 16 Mar 2024 00:39:12 </lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 07:30:44 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.8.0.UNLMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Sat, 16 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.7.0.UNLEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Sat, 16 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.7.0.UNLINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Sat, 16 Mar 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS1.0.3.0.ULFCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
@@ -62,11 +77,6 @@
             <pubDate>Tue, 12 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.6.0.UNLINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Mon, 11 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 12 (fire) - OS1.0.3.0.UMXMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fire/</link>
             <pubDate>Mon, 11 Mar 2024 00:00:00 </pubDate>
@@ -115,16 +125,6 @@
             <title>Xiaomi 14 (houji) - OS1.0.5.0.UNCMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
             <pubDate>Thu, 07 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.7.0.UNLMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Wed, 06 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.6.0.UNLEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Wed, 06 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.3.0.UCVMIXM</title>
