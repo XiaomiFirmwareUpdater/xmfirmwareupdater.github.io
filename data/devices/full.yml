@@ -24619,6 +24619,16 @@
     android: '11.0'
     miui: V13.0.24.0.RGFMIXM
 - branch: stable
+  date: '2024-03-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_frost/releases/download/stable-17.03.2024/fw_frost_miui_FROSTEEAGlobal_V13.0.12.0.RGFEUXM_2e140f4eb5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/frost/fw_frost_miui_FROSTEEAGlobal_V13.0.12.0.RGFEUXM_2e140f4eb5_11.0.zip
+  filename: fw_frost_miui_FROSTEEAGlobal_V13.0.12.0.RGFEUXM_2e140f4eb5_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V13.0.12.0.RGFEUXM
+- branch: stable
   date: '2024-03-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_frost/releases/download/stable-15.03.2024/fw_frost_miui_FROSTGlobal_V13.0.26.0.RGFMIXM_dca96f02c9_11.0.zip

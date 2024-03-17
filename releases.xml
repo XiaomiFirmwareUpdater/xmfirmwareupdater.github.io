@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 17 Mar 2024 06:34:38 </lastBuildDate>
+        <lastBuildDate>Sun, 17 Mar 2024 12:57:55 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>POCO C40 (frost) - V13.0.12.0.RGFEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/frost/</link>
+            <pubDate>Sun, 17 Mar 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.8.0.UNLMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
@@ -889,11 +894,6 @@
         <item>
             <title>Redmi 10C (fog) - V14.0.5.0.TGEMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fog/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO C40 (frost) - V13.0.11.0.RGFEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/frost/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
