@@ -9,6 +9,16 @@
     android: '13.0'
     miui: V14.1.9.0.TMVCNXM
 - branch: stable
+  date: '2024-03-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_babylon/releases/download/stable-18.03.2024/fw_babylon_miui_BABYLON_OS1.0.4.0.UMVCNXM_3d0618b4ae_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/babylon/fw_babylon_miui_BABYLON_OS1.0.4.0.UMVCNXM_3d0618b4ae_14.0.zip
+  filename: fw_babylon_miui_BABYLON_OS1.0.4.0.UMVCNXM_3d0618b4ae_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UMVCNXM
+- branch: stable
   date: '2023-12-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_babylon/releases/download/stable-16.12.2023/fw_babylon_miui_BABYLON_OS1.0.2.0.UMVCNXM_d95abfe6ba_14.0.zip

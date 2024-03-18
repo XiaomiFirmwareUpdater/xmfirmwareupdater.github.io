@@ -48,6 +48,12 @@
   version: OS1.0.4.0.UNACNXM
 - android: '14.0'
   codename: babylon
+  date: '2024-03-18'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.4.0.UMVCNXM_3d0618b4ae_14.0.zip
+  name: MIX Fold 3
+  version: OS1.0.4.0.UMVCNXM
+- android: '14.0'
+  codename: babylon
   date: '2023-12-15'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.2.0.UMVCNXM_d95abfe6ba_14.0.zip
   name: MIX Fold 3
@@ -282,6 +288,12 @@
   version: OS1.0.2.0.UCVINXM
 - android: '14.0'
   codename: earth
+  date: '2024-03-18'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UCVINXM/fw_earth_miui_EARTHINGlobal_OS1.0.3.0.UCVINXM_56e9f15fb1_14.0.zip
+  name: Redmi 12C/POCO C55
+  version: OS1.0.3.0.UCVINXM
+- android: '14.0'
+  codename: earth
   date: '2024-02-18'
   download: https://bigota.d.miui.com/OS1.0.1.0.UCVEUXM/fw_earth_miui_EARTHEEAGlobal_OS1.0.1.0.UCVEUXM_fabf22927d_14.0.zip
   name: Redmi 12C/POCO C55
@@ -322,6 +334,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.TGBCNXM/fw_evergo_miui_EVERGO_OS1.0.1.0.TGBCNXM_30dc3f8271_13.0.zip
   name: Redmi Note 11 5G/Redmi Note 11T 5G
   version: OS1.0.1.0.TGBCNXM
+- android: '14.0'
+  codename: fire
+  date: '2024-03-18'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMXEUXM/fw_fire_miui_FIREEEAGlobal_OS1.0.5.0.UMXEUXM_7fcc073eb0_14.0.zip
+  name: Redmi 12
+  version: OS1.0.5.0.UMXEUXM
 - android: '14.0'
   codename: fire
   date: '2024-01-18'
@@ -412,6 +430,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UNQMIXM/fw_gold_miui_GOLDGlobal_OS1.0.2.0.UNQMIXM_da2a25942a_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: OS1.0.2.0.UNQMIXM
+- android: '14.0'
+  codename: gold
+  date: '2024-03-18'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UNQEUXM/fw_gold_miui_GOLDEEAGlobal_OS1.0.1.0.UNQEUXM_2fbe1f59fa_14.0.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS1.0.1.0.UNQEUXM
 - android: '14.0'
   codename: houji
   date: '2023-10-31'
@@ -628,6 +652,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UNMCNXM/fw_manet_miui_MANET_OS1.0.12.0.UNMCNXM_da52f2413a_14.0.zip
   name: Redmi K70 Pro
   version: OS1.0.12.0.UNMCNXM
+- android: '14.0'
+  codename: manet
+  date: '2024-03-18'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UNMCNXM/fw_manet_miui_MANET_OS1.0.13.0.UNMCNXM_3eaea62808_14.0.zip
+  name: Redmi K70 Pro
+  version: OS1.0.13.0.UNMCNXM
 - android: '14.0'
   codename: manet
   date: '2023-12-15'
@@ -1002,6 +1032,12 @@
   version: OS1.0.5.0.UHZMIXM
 - android: '14.0'
   codename: sea
+  date: '2024-03-18'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UHZEUXM/fw_sea_miui_SEAEEAGlobal_OS1.0.3.0.UHZEUXM_b347782c54_14.0.zip
+  name: Redmi Note 12S
+  version: OS1.0.3.0.UHZEUXM
+- android: '14.0'
+  codename: sea
   date: '2024-01-12'
   download: https://bigota.d.miui.com/OS1.0.1.0.UHZEUXM/fw_sea_miui_SEAEEAGlobal_OS1.0.1.0.UHZEUXM_3779c18df9_14.0.zip
   name: Redmi Note 12S
@@ -1162,6 +1198,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMQMIXM/fw_sunstone_miui_SUNSTONEGlobal_OS1.0.2.0.UMQMIXM_a96f7b9dd9_14.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
   version: OS1.0.2.0.UMQMIXM
+- android: '14.0'
+  codename: sunstone
+  date: '2024-03-18'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UMQINXM/fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.1.0.UMQINXM_1046f0bd93_14.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: OS1.0.1.0.UMQINXM
 - android: '14.0'
   codename: sunstone
   date: '2024-02-18'

@@ -4979,6 +4979,16 @@
     android: '13.0'
     miui: V14.1.9.0.TMVCNXM
 - branch: stable
+  date: '2024-03-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_babylon/releases/download/stable-18.03.2024/fw_babylon_miui_BABYLON_OS1.0.4.0.UMVCNXM_3d0618b4ae_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/babylon/fw_babylon_miui_BABYLON_OS1.0.4.0.UMVCNXM_3d0618b4ae_14.0.zip
+  filename: fw_babylon_miui_BABYLON_OS1.0.4.0.UMVCNXM_3d0618b4ae_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UMVCNXM
+- branch: stable
   date: '2023-12-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_babylon/releases/download/stable-16.12.2023/fw_babylon_miui_BABYLON_OS1.0.2.0.UMVCNXM_d95abfe6ba_14.0.zip
@@ -21999,6 +22009,16 @@
     android: '12.0'
     miui: V13.0.8.0.SCVCNXM
 - branch: stable
+  date: '2024-03-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-18.03.2024/fw_earth_miui_EARTHINGlobal_OS1.0.3.0.UCVINXM_56e9f15fb1_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHINGlobal_OS1.0.3.0.UCVINXM_56e9f15fb1_14.0.zip
+  filename: fw_earth_miui_EARTHINGlobal_OS1.0.3.0.UCVINXM_56e9f15fb1_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.UCVINXM
+- branch: stable
   date: '2024-02-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-18.02.2024/fw_earth_miui_EARTHEEAGlobal_OS1.0.1.0.UCVEUXM_fabf22927d_14.0.zip
@@ -23729,6 +23749,16 @@
     android: '13.0'
     miui: V14.0.12.0.TMXEUXM
 - branch: stable
+  date: '2024-03-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-18.03.2024/fw_fire_miui_FIREEEAGlobal_OS1.0.5.0.UMXEUXM_7fcc073eb0_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fire/fw_fire_miui_FIREEEAGlobal_OS1.0.5.0.UMXEUXM_7fcc073eb0_14.0.zip
+  filename: fw_fire_miui_FIREEEAGlobal_OS1.0.5.0.UMXEUXM_7fcc073eb0_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.5.0.UMXEUXM
+- branch: stable
   date: '2024-01-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-18.01.2024/fw_fire_miui_FIREGlobal_OS1.0.1.0.UMXMIXM_3984ea57a0_14.0.zip
@@ -24318,6 +24348,16 @@
   versions:
     android: '11.0'
     miui: V13.0.5.0.RGEINXM
+- branch: stable
+  date: '2024-03-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-18.03.2024/fw_fog_miui_FOGEEAGlobal_V14.0.6.0.TGEEUXM_91dcf4ed53_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fog/fw_fog_miui_FOGEEAGlobal_V14.0.6.0.TGEEUXM_91dcf4ed53_13.0.zip
+  filename: fw_fog_miui_FOGEEAGlobal_V14.0.6.0.TGEEUXM_91dcf4ed53_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TGEEUXM
 - branch: stable
   date: '2022-10-17'
   downloads:
@@ -27518,6 +27558,16 @@
   versions:
     android: '13.0'
     miui: V14.0.1.0.TNQCNXM
+- branch: stable
+  date: '2024-03-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-18.03.2024/fw_gold_miui_GOLDEEAGlobal_OS1.0.1.0.UNQEUXM_2fbe1f59fa_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/gold/fw_gold_miui_GOLDEEAGlobal_OS1.0.1.0.UNQEUXM_2fbe1f59fa_14.0.zip
+  filename: fw_gold_miui_GOLDEEAGlobal_OS1.0.1.0.UNQEUXM_2fbe1f59fa_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.1.0.UNQEUXM
 - branch: stable
   date: '2024-02-18'
   downloads:
@@ -37638,6 +37688,16 @@
   versions:
     android: '14.0'
     miui: OS1.0.12.0.UNMCNXM
+- branch: stable
+  date: '2024-03-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-18.03.2024/fw_manet_miui_MANET_OS1.0.13.0.UNMCNXM_3eaea62808_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/manet/fw_manet_miui_MANET_OS1.0.13.0.UNMCNXM_3eaea62808_14.0.zip
+  filename: fw_manet_miui_MANET_OS1.0.13.0.UNMCNXM_3eaea62808_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.13.0.UNMCNXM
 - branch: stable
   date: '2023-12-15'
   downloads:
@@ -56709,6 +56769,16 @@
     android: '13.0'
     miui: V14.0.4.0.THZEUXM
 - branch: stable
+  date: '2024-03-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-18.03.2024/fw_sea_miui_SEAEEAGlobal_OS1.0.3.0.UHZEUXM_b347782c54_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sea/fw_sea_miui_SEAEEAGlobal_OS1.0.3.0.UHZEUXM_b347782c54_14.0.zip
+  filename: fw_sea_miui_SEAEEAGlobal_OS1.0.3.0.UHZEUXM_b347782c54_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.UHZEUXM
+- branch: stable
   date: '2023-07-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-17.07.2023/fw_sea_miui_SEAGlobal_V14.0.7.0.THZMIXM_d83e127ca2_13.0.zip
@@ -60048,6 +60118,16 @@
   versions:
     android: '12.0'
     miui: V13.0.15.0.SMQCNXM
+- branch: stable
+  date: '2024-03-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-18.03.2024/fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.1.0.UMQINXM_1046f0bd93_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sunstone/fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.1.0.UMQINXM_1046f0bd93_14.0.zip
+  filename: fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.1.0.UMQINXM_1046f0bd93_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.1.0.UMQINXM
 - branch: stable
   date: '2024-02-18'
   downloads:
