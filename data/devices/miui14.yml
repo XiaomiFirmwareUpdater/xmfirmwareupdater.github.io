@@ -5832,6 +5832,12 @@
   version: V14.0.1.0.TNOCNXM
 - android: '13.0'
   codename: zircon
+  date: '2024-03-19'
+  download: https://bigota.d.miui.com/V14.0.7.0.TNOEUXM/fw_zircon_miui_ZIRCONEEAGlobal_V14.0.7.0.TNOEUXM_56872fce3c_13.0.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: V14.0.7.0.TNOEUXM
+- android: '13.0'
+  codename: zircon
   date: '2024-01-19'
   download: https://bigota.d.miui.com/V14.0.2.0.TNOINXM/fw_zircon_miui_ZIRCONINGlobal_V14.0.2.0.TNOINXM_e9ef37ba69_13.0.zip
   name: Redmi Note 13 Pro+ 5G

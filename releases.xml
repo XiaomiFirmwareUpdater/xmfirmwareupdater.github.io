@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 19 Mar 2024 12:37:43 </lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 18:38:31 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.13.0.UNLCNXM</title>
@@ -19,6 +19,11 @@
         <item>
             <title>POCO M5/Redmi 11 Prime 4G (rock) - OS1.0.3.0.ULUMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/rock/</link>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro+ 5G (zircon) - V14.0.7.0.TNOEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Tue, 19 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -709,11 +714,6 @@
         <item>
             <title>Xiaomi Pad 6 (pipa) - OS1.0.4.0.UMZCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/pipa/</link>
-            <pubDate>Tue, 30 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro+ 5G (zircon) - V14.0.5.0.TNOEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Tue, 30 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
