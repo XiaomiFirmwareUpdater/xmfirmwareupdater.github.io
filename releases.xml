@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 19 Mar 2024 00:36:11 </lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 06:37:04 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.13.0.UNLCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>POCO M5/Redmi 11 Prime 4G (rock) - OS1.0.3.0.ULUMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/rock/</link>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>MIX Fold 3 (babylon) - OS1.0.4.0.UMVCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/babylon/</link>
@@ -577,11 +587,6 @@
             <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.11.0.UNLCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Sat, 17 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 (sapphire) - V14.0.7.0.TNGMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sapphire/</link>
             <pubDate>Fri, 09 Feb 2024 00:00:00 </pubDate>
@@ -879,11 +884,6 @@
         <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.8.0.TKOINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/lisa/</link>
-            <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO M5/Redmi 11 Prime 4G (rock) - OS1.0.2.0.ULUMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/rock/</link>
             <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>

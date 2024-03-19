@@ -192,6 +192,12 @@
   version: OS1.0.5.0.UNLINXM
 - android: '14.0'
   codename: duchamp
+  date: '2024-03-19'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UNLCNXM/fw_duchamp_miui_DUCHAMP_OS1.0.13.0.UNLCNXM_64192ba74c_14.0.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS1.0.13.0.UNLCNXM
+- android: '14.0'
+  codename: duchamp
   date: '2024-02-17'
   download: https://bigota.d.miui.com/OS1.0.11.0.UNLCNXM/fw_duchamp_miui_DUCHAMP_OS1.0.11.0.UNLCNXM_00244a3963_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
@@ -970,6 +976,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.ULUEUXM/fw_rock_miui_ROCKEEAGlobal_OS1.0.1.0.ULUEUXM_319d8dd16f_14.0.zip
   name: POCO M5/Redmi 11 Prime 4G
   version: OS1.0.1.0.ULUEUXM
+- android: '14.0'
+  codename: rock
+  date: '2024-03-19'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULUMIXM/fw_rock_miui_ROCKGlobal_OS1.0.3.0.ULUMIXM_08fdeb658b_14.0.zip
+  name: POCO M5/Redmi 11 Prime 4G
+  version: OS1.0.3.0.ULUMIXM
 - android: '14.0'
   codename: rock
   date: '2024-01-15'

@@ -21669,6 +21669,16 @@
     android: '14.0'
     miui: OS1.0.5.0.UNLINXM
 - branch: stable
+  date: '2024-03-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-19.03.2024/fw_duchamp_miui_DUCHAMP_OS1.0.13.0.UNLCNXM_64192ba74c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/duchamp/fw_duchamp_miui_DUCHAMP_OS1.0.13.0.UNLCNXM_64192ba74c_14.0.zip
+  filename: fw_duchamp_miui_DUCHAMP_OS1.0.13.0.UNLCNXM_64192ba74c_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.13.0.UNLCNXM
+- branch: stable
   date: '2024-02-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-18.02.2024/fw_duchamp_miui_DUCHAMP_OS1.0.11.0.UNLCNXM_00244a3963_14.0.zip
@@ -53568,6 +53578,16 @@
   versions:
     android: '13.0'
     miui: V14.0.3.0.TLUINXM
+- branch: stable
+  date: '2024-03-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rock/releases/download/stable-19.03.2024/fw_rock_miui_ROCKGlobal_OS1.0.3.0.ULUMIXM_08fdeb658b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rock/fw_rock_miui_ROCKGlobal_OS1.0.3.0.ULUMIXM_08fdeb658b_14.0.zip
+  filename: fw_rock_miui_ROCKGlobal_OS1.0.3.0.ULUMIXM_08fdeb658b_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.ULUMIXM
 - branch: stable
   date: '2022-09-16'
   downloads:
