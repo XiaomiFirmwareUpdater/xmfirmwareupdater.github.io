@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 19 Mar 2024 06:37:04 </lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 12:37:43 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.13.0.UNLCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS1.0.8.0.UNREUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
             <pubDate>Tue, 19 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -169,11 +174,6 @@
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS1.0.2.0.ULFEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
-            <pubDate>Thu, 07 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - V14.0.8.0.TNREUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
             <pubDate>Thu, 07 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
