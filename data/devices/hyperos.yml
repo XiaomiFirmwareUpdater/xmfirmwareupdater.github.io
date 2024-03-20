@@ -1103,6 +1103,12 @@
   name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
   version: OS1.0.25.0.UNBCNXM
 - android: '14.0'
+  codename: shennongt
+  date: '2024-03-20'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UNDCNXM/fw_shennongt_miui_SHENNONGT_OS1.0.3.0.UNDCNXM_bab6d895b9_14.0.zip
+  name: Xiaomi 14 Pro Ti Satellite
+  version: OS1.0.3.0.UNDCNXM
+- android: '14.0'
   codename: shennong
   date: '2023-12-12'
   download: https://bigota.d.miui.com/OS1.0.27.0.UNBCNXM/fw_shennong_miui_SHENNONG_OS1.0.27.0.UNBCNXM_b355c13fde_14.0.zip
@@ -1150,6 +1156,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMWMIXM/fw_sky_miui_SKYGlobal_OS1.0.3.0.UMWMIXM_1e2037e27c_14.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
   version: OS1.0.3.0.UMWMIXM
+- android: '14.0'
+  codename: sky
+  date: '2024-03-20'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UMWINXM/fw_sky_miui_SKYINGlobal_OS1.0.2.0.UMWINXM_797f38efb0_14.0.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS1.0.2.0.UMWINXM
 - android: '14.0'
   codename: sky
   date: '2024-01-12'

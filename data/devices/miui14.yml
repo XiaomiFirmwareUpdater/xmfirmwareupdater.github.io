@@ -3948,6 +3948,12 @@
   version: V14.0.1.0.TNHMIXM
 - android: '13.0'
   codename: sapphiren
+  date: '2024-03-20'
+  download: https://bigota.d.miui.com/V14.0.8.0.TNHMIXM/fw_sapphiren_miui_SAPPHIRENGlobal_V14.0.8.0.TNHMIXM_4cde87b50a_13.0.zip
+  name: Redmi Note 13 NFC
+  version: V14.0.8.0.TNHMIXM
+- android: '13.0'
+  codename: sapphiren
   date: '2024-02-18'
   download: https://bigota.d.miui.com/V14.0.7.0.TNHMIXM/fw_sapphiren_miui_SAPPHIRENGlobal_V14.0.7.0.TNHMIXM_afa6f55847_13.0.zip
   name: Redmi Note 13 NFC

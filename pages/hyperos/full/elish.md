@@ -52,7 +52,8 @@ permalink: /archive/hyperos/elish/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.TKYCNXM</td><td>13.0</td><td>4.4 GB</td><td>2024-02-28</td><td><a href="/hyperos/elish/stable beta/OS1.0.1.0.TKYCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TKYCNXM</td><td>13.0</td><td>4.4 GB</td><td>2024-02-28</td><td><a href="/hyperos/elish/stable/OS1.0.1.0.TKYCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.TKYCNXM</td><td>13.0</td><td>5.4 GB</td><td>2024-02-06</td><td><a href="/hyperos/elish/stable/OS1.0.1.0.TKYCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
