@@ -1,15 +1,15 @@
 ---
-title: Xiaomi MIX Fold 2 (zizhan) HyperOS Downloads
+title: Redmi Note 11S 5G (opal) HyperOS Downloads
 layout: download
-name: Xiaomi MIX Fold 2
-codename: zizhan
-permalink: /hyperos/zizhan/
+name: Redmi Note 11S 5G
+codename: opal
+permalink: /hyperos/opal/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/zizhan/">Xiaomi MIX Fold 2</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/opal/">Redmi Note 11S 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /hyperos/zizhan/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/hyperos/zizhan/" class="card-link">HyperOS Archive</a>
-    <a href="/firmware/zizhan/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/zizhan/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/hyperos/opal/" class="card-link">HyperOS Archive</a>
+    <a href="/firmware/opal/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/opal/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,10 +52,7 @@ permalink: /hyperos/zizhan/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULRCNXM</td><td>14.0</td><td>7.6 GB</td><td>2023-12-29</td><td><a href="/hyperos/zizhan/stable/OS1.0.2.0.ULRCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULRCNXM</td><td>14.0</td><td>5.9 GB</td><td>2023-12-21</td><td><a href="/hyperos/zizhan/stable/OS1.0.2.0.ULRCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi MIX Fold 2 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.9 GB</td><td>2024-01-12</td><td><a href="/hyperos/zizhan/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi MIX Fold 2 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.ULRCNXM</td><td>14.0</td><td>5.9 GB</td><td>2024-03-18</td><td><a href="/hyperos/zizhan/stable beta/OS1.0.3.0.ULRCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11S 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.TGLTWXM</td><td>13.0</td><td>3.8 GB</td><td>2024-03-18</td><td><a href="/hyperos/opal/stable beta/OS1.0.1.0.TGLTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

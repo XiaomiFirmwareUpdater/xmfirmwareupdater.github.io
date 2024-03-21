@@ -42,6 +42,12 @@
   version: OS1.0.3.0.UNACNXM
 - android: '14.0'
   codename: aurora
+  date: '2024-03-21'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UNACNXM/fw_aurora_miui_AURORA_OS1.0.7.0.UNACNXM_81a48e3c20_14.0.zip
+  name: Xiaomi 14 Ultra
+  version: OS1.0.7.0.UNACNXM
+- android: '14.0'
+  codename: aurora
   date: '2024-03-10'
   download: https://bigota.d.miui.com/OS1.0.4.0.UNACNXM/fw_aurora_miui_AURORA_OS1.0.4.0.UNACNXM_57ce65c302_14.0.zip
   name: Xiaomi 14 Ultra
@@ -64,6 +70,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.3.0.UMVCNXM_f3b112cff7_14.0.zip
   name: MIX Fold 3
   version: OS1.0.3.0.UMVCNXM
+- android: '14.0'
+  codename: corot
+  date: '2024-03-21'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UMLCNXM/fw_corot_miui_COROT_OS1.0.11.0.UMLCNXM_686874abe8_14.0.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS1.0.11.0.UMLCNXM
 - android: '14.0'
   codename: corot
   date: '2024-02-20'
@@ -340,6 +352,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.TGBCNXM/fw_evergo_miui_EVERGO_OS1.0.1.0.TGBCNXM_30dc3f8271_13.0.zip
   name: Redmi Note 11 5G/Redmi Note 11T 5G
   version: OS1.0.1.0.TGBCNXM
+- android: '14.0'
+  codename: fire
+  date: '2024-03-21'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UMXINXM/fw_fire_miui_FIREINGlobal_OS1.0.1.0.UMXINXM_944394f9fa_14.0.zip
+  name: Redmi 12
+  version: OS1.0.1.0.UMXINXM
 - android: '14.0'
   codename: fire
   date: '2024-03-18'
@@ -1498,3 +1516,9 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULRCNXM/fw_zizhan_miui_ZIZHAN_OS1.0.2.0.ULRCNXM_145e69abdf_14.0.zip
   name: Xiaomi MIX Fold 2
   version: OS1.0.2.0.ULRCNXM
+- android: '14.0'
+  codename: zizhan
+  date: '2024-03-21'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULRCNXM/fw_zizhan_miui_ZIZHAN_OS1.0.3.0.ULRCNXM_8d7d994eb5_14.0.zip
+  name: Xiaomi MIX Fold 2
+  version: OS1.0.3.0.ULRCNXM

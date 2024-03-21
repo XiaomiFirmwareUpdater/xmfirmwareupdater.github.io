@@ -4969,6 +4969,16 @@
     android: '14.0'
     miui: OS1.0.3.0.UNACNXM
 - branch: stable
+  date: '2024-03-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-22.03.2024/fw_aurora_miui_AURORA_OS1.0.7.0.UNACNXM_81a48e3c20_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORA_OS1.0.7.0.UNACNXM_81a48e3c20_14.0.zip
+  filename: fw_aurora_miui_AURORA_OS1.0.7.0.UNACNXM_81a48e3c20_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.7.0.UNACNXM
+- branch: stable
   date: '2024-03-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-10.03.2024/fw_aurora_miui_AURORA_OS1.0.4.0.UNACNXM_57ce65c302_14.0.zip
@@ -15849,6 +15859,16 @@
     android: '13.0'
     miui: V14.0.6.0.TMLMIXM
 - branch: stable
+  date: '2024-03-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-22.03.2024/fw_corot_miui_COROT_OS1.0.11.0.UMLCNXM_686874abe8_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/corot/fw_corot_miui_COROT_OS1.0.11.0.UMLCNXM_686874abe8_14.0.zip
+  filename: fw_corot_miui_COROT_OS1.0.11.0.UMLCNXM_686874abe8_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.11.0.UMLCNXM
+- branch: stable
   date: '2024-02-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-21.02.2024/fw_corot_miui_COROT_OS1.0.9.0.UMLCNXM_c85fa47cf5_14.0.zip
@@ -23748,6 +23768,16 @@
   versions:
     android: '13.0'
     miui: V14.0.4.0.TMXEUXM
+- branch: stable
+  date: '2024-03-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-22.03.2024/fw_fire_miui_FIREINGlobal_OS1.0.1.0.UMXINXM_944394f9fa_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fire/fw_fire_miui_FIREINGlobal_OS1.0.1.0.UMXINXM_944394f9fa_14.0.zip
+  filename: fw_fire_miui_FIREINGlobal_OS1.0.1.0.UMXINXM_944394f9fa_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.1.0.UMXINXM
 - branch: stable
   date: '2023-10-19'
   downloads:
@@ -69289,6 +69319,16 @@
     android: '11.0'
     miui: V13.0.7.0.RKCCNXM
 - branch: stable
+  date: '2024-03-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-22.03.2024/fw_veux_miui_VEUXINGlobal_V14.0.7.0.TKCINXM_8d179add10_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/veux/fw_veux_miui_VEUXINGlobal_V14.0.7.0.TKCINXM_8d179add10_13.0.zip
+  filename: fw_veux_miui_VEUXINGlobal_V14.0.7.0.TKCINXM_8d179add10_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.7.0.TKCINXM
+- branch: stable
   date: '2023-01-21'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-22.01.2023/fw_veux_miui_VEUXINGlobal_V13.0.4.0.SKCINXM_e2be97297e_12.0.zip
@@ -75018,6 +75058,16 @@
   versions:
     android: '14.0'
     miui: OS1.0.2.0.ULRCNXM
+- branch: stable
+  date: '2024-03-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zizhan/releases/download/stable-22.03.2024/fw_zizhan_miui_ZIZHAN_OS1.0.3.0.ULRCNXM_8d7d994eb5_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zizhan/fw_zizhan_miui_ZIZHAN_OS1.0.3.0.ULRCNXM_8d7d994eb5_14.0.zip
+  filename: fw_zizhan_miui_ZIZHAN_OS1.0.3.0.ULRCNXM_8d7d994eb5_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.ULRCNXM
 - branch: stable
   date: '2023-08-14'
   downloads:
