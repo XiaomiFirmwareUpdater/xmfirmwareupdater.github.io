@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 21 Mar 2024 00:38:31 </lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 06:45:07 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V14.0.9.0.TKLINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/rosemary/</link>
+            <pubDate>Thu, 21 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11 Pro 4G (viva) - OS1.0.1.0.TGDEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/viva/</link>
+            <pubDate>Thu, 21 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - OS1.0.3.0.ULBCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
+            <pubDate>Thu, 21 Mar 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 NFC (sapphiren) - V14.0.8.0.TNHMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sapphiren/</link>
@@ -617,11 +632,6 @@
             <pubDate>Sun, 04 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12 Pro (zeus) - OS1.0.2.0.ULBCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Sun, 04 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12 Pro Dimensity (daumier) - OS1.0.2.0.ULGCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/daumier/</link>
             <pubDate>Sat, 03 Feb 2024 00:00:00 </pubDate>
@@ -1012,11 +1022,6 @@
             <pubDate>Sun, 24 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 11 Pro 4G (viva) - V14.0.5.0.TGDEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/viva/</link>
-            <pubDate>Sat, 23 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.6.0.TLOEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
             <pubDate>Wed, 20 Dec 2023 00:00:00 </pubDate>
@@ -1114,11 +1119,6 @@
         <item>
             <title>MIX 4 (odin) - V14.0.8.0.TKMCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/odin/</link>
-            <pubDate>Fri, 08 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V14.0.6.0.TKLINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/rosemary/</link>
             <pubDate>Fri, 08 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>

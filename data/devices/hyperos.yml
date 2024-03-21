@@ -1372,6 +1372,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.TGDMIXM/fw_viva_miui_VIVAGlobal_OS1.0.2.0.TGDMIXM_b2b4099a55_13.0.zip
   name: Redmi Note 11 Pro 4G
   version: OS1.0.2.0.TGDMIXM
+- android: '13.0'
+  codename: viva
+  date: '2024-03-21'
+  download: https://bigota.d.miui.com/OS1.0.1.0.TGDEUXM/fw_viva_miui_VIVAEEAGlobal_OS1.0.1.0.TGDEUXM_953e751d21_13.0.zip
+  name: Redmi Note 11 Pro 4G
+  version: OS1.0.1.0.TGDEUXM
 - android: '14.0'
   codename: xun
   date: '2024-02-29'
@@ -1432,6 +1438,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.ULBMIXM/fw_zeus_miui_ZEUSGlobal_OS1.0.1.0.ULBMIXM_53ba782fd1_14.0.zip
   name: Xiaomi 12 Pro
   version: OS1.0.1.0.ULBMIXM
+- android: '14.0'
+  codename: zeus
+  date: '2024-03-21'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULBCNXM/fw_zeus_miui_ZEUS_OS1.0.3.0.ULBCNXM_f7a546df8e_14.0.zip
+  name: Xiaomi 12 Pro
+  version: OS1.0.3.0.ULBCNXM
 - android: '14.0'
   codename: zeus
   date: '2024-03-05'
