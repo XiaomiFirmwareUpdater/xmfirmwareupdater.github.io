@@ -48,6 +48,12 @@
   version: V14.0.5.0.TKWMIXM
 - android: '13.0'
   codename: air
+  date: '2024-03-21'
+  download: https://bigota.d.miui.com/V14.0.8.0.TGQINXM/fw_air_miui_AIRINGlobal_V14.0.8.0.TGQINXM_000c83e9a5_13.0.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: V14.0.8.0.TGQINXM
+- android: '13.0'
+  codename: air
   date: '2024-01-20'
   download: https://bigota.d.miui.com/V14.0.5.0.TGQINXM/fw_air_miui_AIRINGlobal_V14.0.5.0.TGQINXM_5cb562f32b_13.0.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
@@ -5364,6 +5370,18 @@
   version: V14.0.15.0.TGOMIXM
 - android: '13.0'
   codename: water
+  date: '2024-03-21'
+  download: https://bigota.d.miui.com/V14.0.14.0.TGOEUXM/fw_water_miui_WATEREEAGlobal_V14.0.14.0.TGOEUXM_9b734b4a01_13.0.zip
+  name: Redmi A2/A2+/POCO C51
+  version: V14.0.14.0.TGOEUXM
+- android: '13.0'
+  codename: water
+  date: '2024-03-21'
+  download: https://bigota.d.miui.com/V14.0.25.0.TGOMIXM/fw_water_miui_WATERGlobal_V14.0.25.0.TGOMIXM_8ffc74bc22_13.0.zip
+  name: Redmi A2/A2+/POCO C51
+  version: V14.0.25.0.TGOMIXM
+- android: '13.0'
+  codename: water
   date: '2024-02-21'
   download: https://bigota.d.miui.com/V14.0.13.0.TGOINXM/fw_water_miui_WATERINGlobal_V14.0.13.0.TGOINXM_4b59dfa06c_13.0.zip
   name: Redmi A2/A2+/POCO C51
@@ -5428,6 +5446,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TLOMIXM/fw_xaga_miui_XAGAGlobal_V14.0.5.0.TLOMIXM_6b421fe451_13.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: V14.0.5.0.TLOMIXM
+- android: '13.0'
+  codename: xaga
+  date: '2024-03-21'
+  download: https://bigota.d.miui.com/V14.0.8.0.TLOMIXM/fw_xaga_miui_XAGAGlobal_V14.0.8.0.TLOMIXM_6366f8b0b1_13.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: V14.0.8.0.TLOMIXM
 - android: '13.0'
   codename: xaga
   date: '2023-12-20'

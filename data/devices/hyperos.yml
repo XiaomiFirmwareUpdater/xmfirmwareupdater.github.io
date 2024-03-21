@@ -894,6 +894,12 @@
   version: OS1.0.2.0.UMZINXM
 - android: '14.0'
   codename: pipa
+  date: '2024-03-21'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMZINXM/fw_pipa_miui_PIPAINGlobal_OS1.0.3.0.UMZINXM_53efbe0084_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.3.0.UMZINXM
+- android: '14.0'
+  codename: pipa
   date: '2024-02-18'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMZEUXM/fw_pipa_miui_PIPAEEAGlobal_OS1.0.4.0.UMZEUXM_81e4f605a8_14.0.zip
   name: Xiaomi Pad 6
@@ -1462,6 +1468,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.ULPCNXM/fw_zijin_miui_ZIJIN_OS1.0.1.0.ULPCNXM_356a223b5b_14.0.zip
   name: Xiaomi Civi 1S
   version: OS1.0.1.0.ULPCNXM
+- android: '14.0'
+  codename: zircon
+  date: '2024-03-21'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UNOMIXM/fw_zircon_miui_ZIRCONGlobal_OS1.0.1.0.UNOMIXM_57498ca87c_14.0.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS1.0.1.0.UNOMIXM
 - android: '14.0'
   codename: zircon
   date: '2024-02-20'
