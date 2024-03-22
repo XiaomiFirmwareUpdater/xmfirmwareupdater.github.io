@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 22 Mar 2024 00:45:46 </lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 06:36:10 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS1.0.3.0.UKOEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/lisa/</link>
+            <pubDate>Fri, 22 Mar 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - V14.0.8.0.TGQINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/air/</link>
@@ -304,11 +309,6 @@
         <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS1.0.6.0.UMAEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ishtar/</link>
-            <pubDate>Mon, 04 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS1.0.1.0.UKOEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/lisa/</link>
             <pubDate>Mon, 04 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
