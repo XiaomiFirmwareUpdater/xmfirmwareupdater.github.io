@@ -3,7 +3,7 @@ title: Xiaomi 14 Pro Ti Satellite China HyperOS OS1.0.3.0.UNDCNXM Update
 layout: download
 name: Xiaomi 14 Pro Ti Satellite China
 codename: shennong
-permalink: /hyperos/shennong/stable beta/OS1.0.3.0.UNDCNXM/
+permalink: /hyperos/shennong/stable/OS1.0.3.0.UNDCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/shennong/stable beta/OS1.0.3.0.UNDCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.3.0.UNDCNXM Stable Beta Official Update for Xiaomi 14 Pro Ti Satellite China (shennong)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.3.0.UNDCNXM Stable Official Update for Xiaomi 14 Pro Ti Satellite China (shennong)</h3>
     <h5>This page shows the OS1.0.3.0.UNDCNXM update only. If you're looking for other updates check
         <a href="/hyperos/shennong/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/shennong/stable beta/OS1.0.3.0.UNDCNXM/
                     <h5><b>Version: </b>OS1.0.3.0.UNDCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -71,13 +71,56 @@ permalink: /hyperos/shennong/stable beta/OS1.0.3.0.UNDCNXM/
                     <h5><b>MD5: </b><span id="md5" class="text-muted">bab6d895b9e6f5fb6b9d7e6407374263</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://cdn-ota.azureedge.net/OS1.0.3.0.UNDCNXM/miui-blockota-shennong_t-OS1.0.2.0.UNDCNXM-OS1.0.3.0.UNDCNXM-452d545dca-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdn-ota.azureedge.net/OS1.0.3.0.UNDCNXM/miui_SHENNONGT_OS1.0.3.0.UNDCNXM_bab6d895b9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.3.0.UNDCNXM/miui_SHENNONGT_OS1.0.3.0.UNDCNXM_bab6d895b9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.3.0.UNDCNXM/miui_SHENNONGT_OS1.0.3.0.UNDCNXM_bab6d895b9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.3.0.UNDCNXM/miui_SHENNONGT_OS1.0.3.0.UNDCNXM_bab6d895b9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.UNDCNXM/miui_SHENNONGT_OS1.0.3.0.UNDCNXM_bab6d895b9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.3.0.UNDCNXM/miui_SHENNONGT_OS1.0.3.0.UNDCNXM_bab6d895b9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 6</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.UNDCNXM/miui-blockota-shennong_t-OS1.0.2.0.UNDCNXM-OS1.0.3.0.UNDCNXM-452d545dca-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.3.0.UNDCNXM/miui_SHENNONGT_OS1.0.3.0.UNDCNXM_bab6d895b9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.3.0.UNDCNXM/miui_SHENNONGT_OS1.0.3.0.UNDCNXM_bab6d895b9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.3.0.UNDCNXM/miui_SHENNONGT_OS1.0.3.0.UNDCNXM_bab6d895b9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.UNDCNXM/miui_SHENNONGT_OS1.0.3.0.UNDCNXM_bab6d895b9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.3.0.UNDCNXM/miui_SHENNONGT_OS1.0.3.0.UNDCNXM_bab6d895b9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#shennong_1_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="shennong_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="shennong_1_changelog">
+                        <p id="changelog_text">[System]<br>New: Ability to send SMS via satellite in emergencies<br>Optimization: Tiantong Satellite communications experience</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi 14 Pro Ti Satellite China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/shennong/" target="_blank">shennong</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.3.0.UNDCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>8.7 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-02-23</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">shennong_t_images_OS1.0.3.0.UNDCNXM_20240223.0000.00_14.0_cn_7753e6d2f6.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">7753e6d2f6a1c0925636155ac360a4e4</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.3.0.UNDCNXM/shennong_t_images_OS1.0.3.0.UNDCNXM_20240223.0000.00_14.0_cn_7753e6d2f6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.3.0.UNDCNXM/shennong_t_images_OS1.0.3.0.UNDCNXM_20240223.0000.00_14.0_cn_7753e6d2f6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.3.0.UNDCNXM/shennong_t_images_OS1.0.3.0.UNDCNXM_20240223.0000.00_14.0_cn_7753e6d2f6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.UNDCNXM/shennong_t_images_OS1.0.3.0.UNDCNXM_20240223.0000.00_14.0_cn_7753e6d2f6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.3.0.UNDCNXM/shennong_t_images_OS1.0.3.0.UNDCNXM_20240223.0000.00_14.0_cn_7753e6d2f6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#shennong_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="shennong_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="shennong_2_changelog">
                         <p id="changelog_text">[System]<br>New: Ability to send SMS via satellite in emergencies<br>Optimization: Tiantong Satellite communications experience</p>
                     </div>
                 </li>

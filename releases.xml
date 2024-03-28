@@ -4,8 +4,33 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 22 Mar 2024 06:36:10 </lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 18:49:02 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13T (aristotle) - OS1.0.3.0.UMFMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/aristotle/</link>
+            <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS1.0.3.0.UNAMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS1.0.4.0.UNAEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 4 Pro (chenfeng) - OS1.0.4.0.UNJCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/chenfeng/</link>
+            <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS1.0.3.0.UMLMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/corot/</link>
+            <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS1.0.3.0.UKOEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/lisa/</link>
@@ -477,11 +502,6 @@
             <pubDate>Sat, 24 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13T (aristotle) - OS1.0.2.0.UMFMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/aristotle/</link>
-            <pubDate>Fri, 23 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.2.0.UMRCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
             <pubDate>Fri, 23 Feb 2024 00:00:00 </pubDate>
@@ -905,11 +925,6 @@
             <title>Redmi K50G/POCO F4 GT (ingres) - OS1.0.1.0.ULJCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ingres/</link>
             <pubDate>Thu, 18 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS1.0.1.0.UMLMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.8.0.TKOINXM</title>

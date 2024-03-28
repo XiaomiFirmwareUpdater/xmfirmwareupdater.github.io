@@ -54,13 +54,10 @@ permalink: /miui/xun/
                 <tbody>
                 <tr><td>Redmi Pad SE China</td><td>Stable</td><td>Fastboot</td><td>V14.0.10.0.TMUCNXM</td><td>13.0</td><td>5.0 GB</td><td>2024-02-18</td><td><a href="/miui/xun/stable/V14.0.10.0.TMUCNXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE China</td><td>Stable</td><td>Recovery</td><td>V14.0.10.0.TMUCNXM</td><td>13.0</td><td>4.0 GB</td><td>2024-02-23</td><td><a href="/miui/xun/stable/V14.0.10.0.TMUCNXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMUEUXM</td><td>13.0</td><td>4.0 GB</td><td>2024-02-22</td><td><a href="/miui/xun/stable/V14.0.6.0.TMUEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE Global</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMUMIXM</td><td>13.0</td><td>4.0 GB</td><td>2024-02-18</td><td><a href="/miui/xun/stable/V14.0.6.0.TMUMIXM/">Download</a></td></tr>
-<tr><td>Redmi Pad SE Indonesia</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TMUIDXM</td><td>13.0</td><td>4.6 GB</td><td>2024-02-22</td><td><a href="/miui/xun/stable/V14.0.6.0.TMUIDXM/">Download</a></td></tr>
-<tr><td>Redmi Pad SE Indonesia</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMUIDXM</td><td>13.0</td><td>4.0 GB</td><td>2024-02-27</td><td><a href="/miui/xun/stable/V14.0.6.0.TMUIDXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TMUTRXM</td><td>13.0</td><td>4.5 GB</td><td>2024-02-29</td><td><a href="/miui/xun/stable/V14.0.5.0.TMUTRXM/">Download</a></td></tr>
-<tr><td>Redmi Pad SE Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TMUTRXM</td><td>13.0</td><td>4.0 GB</td><td>2024-03-07</td><td><a href="/miui/xun/stable/V14.0.5.0.TMUTRXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TMUTWXM</td><td>13.0</td><td>4.5 GB</td><td>2024-02-27</td><td><a href="/miui/xun/stable/V14.0.5.0.TMUTWXM/">Download</a></td></tr>
-<tr><td>Redmi Pad SE Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TMUTWXM</td><td>13.0</td><td>3.9 GB</td><td>2024-03-04</td><td><a href="/miui/xun/stable/V14.0.5.0.TMUTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -3,7 +3,7 @@ title: Redmi Note 11 Global HyperOS OS1.0.3.0.TGCMIXM Update
 layout: download
 name: Redmi Note 11 Global
 codename: spesn
-permalink: /hyperos/spesn/stable beta/OS1.0.3.0.TGCMIXM/
+permalink: /hyperos/spesn/stable/OS1.0.3.0.TGCMIXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/spesn/stable beta/OS1.0.3.0.TGCMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.3.0.TGCMIXM Stable Beta Official Update for Redmi Note 11 Global (spesn)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.3.0.TGCMIXM Stable Official Update for Redmi Note 11 Global (spesn)</h3>
     <h5>This page shows the OS1.0.3.0.TGCMIXM update only. If you're looking for other updates check
         <a href="/hyperos/spesn/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/spesn/stable beta/OS1.0.3.0.TGCMIXM/
                     <h5><b>Version: </b>OS1.0.3.0.TGCMIXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -71,13 +71,56 @@ permalink: /hyperos/spesn/stable beta/OS1.0.3.0.TGCMIXM/
                     <h5><b>MD5: </b><span id="md5" class="text-muted">b125bafc7340d9fdf798e8a91aa97547</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.TGCMIXM/miui-blockota-spes_global-V14.0.5.0.TGCMIXM-OS1.0.3.0.TGCMIXM-43357498f8-13.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdn-ota.azureedge.net/OS1.0.3.0.TGCMIXM/miui_SPESGlobal_OS1.0.3.0.TGCMIXM_b125bafc73_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.3.0.TGCMIXM/miui_SPESGlobal_OS1.0.3.0.TGCMIXM_b125bafc73_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.3.0.TGCMIXM/miui_SPESGlobal_OS1.0.3.0.TGCMIXM_b125bafc73_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.3.0.TGCMIXM/miui_SPESGlobal_OS1.0.3.0.TGCMIXM_b125bafc73_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.TGCMIXM/miui_SPESGlobal_OS1.0.3.0.TGCMIXM_b125bafc73_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.3.0.TGCMIXM/miui_SPESGlobal_OS1.0.3.0.TGCMIXM_b125bafc73_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 6</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.TGCMIXM/miui-blockota-spes_global-V14.0.5.0.TGCMIXM-OS1.0.3.0.TGCMIXM-43357498f8-13.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.3.0.TGCMIXM/miui_SPESGlobal_OS1.0.3.0.TGCMIXM_b125bafc73_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.3.0.TGCMIXM/miui_SPESGlobal_OS1.0.3.0.TGCMIXM_b125bafc73_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.3.0.TGCMIXM/miui_SPESGlobal_OS1.0.3.0.TGCMIXM_b125bafc73_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.TGCMIXM/miui_SPESGlobal_OS1.0.3.0.TGCMIXM_b125bafc73_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.3.0.TGCMIXM/miui_SPESGlobal_OS1.0.3.0.TGCMIXM_b125bafc73_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#spes_1_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="spes_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="spes_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated Android Security Patch to January 2024. Increased system security.<br>[Comprehensive refactoring]<br>Storage refresh technology makes your device work fast for much longer via smart defragmentation<br>Intelligent network selection makes your connection smoother in poor network environments<br>[Vibrant aesthetics]<br>Global aesthetics draw inspiration from life itself and change the way your device looks and feels<br>New animation language makes interactions with your device wholesome and intuitive<br>Natural colors bring vibrancy and vitality to every corner of your device<br>Our all-new system font supports multiple writing systems<br>Redesigned Weather app not only gives you important information, but also shows you how it feels outside<br>Notifications are focused on important information, presenting it to you in the most efficient way<br>New Home screen icons refresh familiar items with new shapes and colors<br>Our in-house multi-rendering technology makes visuals delicate and comfortable across the whole system</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi Note 11 Global</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/spes/" target="_blank">spes</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.3.0.TGCMIXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>6.5 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-02-07</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">spes_global_images_OS1.0.3.0.TGCMIXM_20240207.0000.00_13.0_global_b81f20dcb5.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">b81f20dcb519811fae101a95ff2a8905</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.3.0.TGCMIXM/spes_global_images_OS1.0.3.0.TGCMIXM_20240207.0000.00_13.0_global_b81f20dcb5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.3.0.TGCMIXM/spes_global_images_OS1.0.3.0.TGCMIXM_20240207.0000.00_13.0_global_b81f20dcb5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.3.0.TGCMIXM/spes_global_images_OS1.0.3.0.TGCMIXM_20240207.0000.00_13.0_global_b81f20dcb5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.TGCMIXM/spes_global_images_OS1.0.3.0.TGCMIXM_20240207.0000.00_13.0_global_b81f20dcb5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.3.0.TGCMIXM/spes_global_images_OS1.0.3.0.TGCMIXM_20240207.0000.00_13.0_global_b81f20dcb5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#spes_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="spes_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="spes_2_changelog">
                         <p id="changelog_text">[System]<br>Updated Android Security Patch to January 2024. Increased system security.<br>[Comprehensive refactoring]<br>Storage refresh technology makes your device work fast for much longer via smart defragmentation<br>Intelligent network selection makes your connection smoother in poor network environments<br>[Vibrant aesthetics]<br>Global aesthetics draw inspiration from life itself and change the way your device looks and feels<br>New animation language makes interactions with your device wholesome and intuitive<br>Natural colors bring vibrancy and vitality to every corner of your device<br>Our all-new system font supports multiple writing systems<br>Redesigned Weather app not only gives you important information, but also shows you how it feels outside<br>Notifications are focused on important information, presenting it to you in the most efficient way<br>New Home screen icons refresh familiar items with new shapes and colors<br>Our in-house multi-rendering technology makes visuals delicate and comfortable across the whole system</p>
                     </div>
                 </li>

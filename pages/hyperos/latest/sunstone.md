@@ -57,7 +57,9 @@ permalink: /hyperos/sunstone/
 <tr><td>Redmi Note 12 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMQEUXM</td><td>14.0</td><td>6.5 GB</td><td>2024-02-18</td><td><a href="/hyperos/sunstone/stable/OS1.0.4.0.UMQEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMQEUXM</td><td>14.0</td><td>4.0 GB</td><td>2024-01-26</td><td><a href="/hyperos/sunstone/stable/OS1.0.4.0.UMQEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UMQMIXM</td><td>14.0</td><td>6.8 GB</td><td>2024-01-31</td><td><a href="/hyperos/sunstone/stable/OS1.0.2.0.UMQMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UMQINXM</td><td>14.0</td><td>3.8 GB</td><td>2024-03-05</td><td><a href="/hyperos/sunstone/stable beta/OS1.0.1.0.UMQINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 5G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UMQMIXM</td><td>14.0</td><td>3.9 GB</td><td>2024-01-20</td><td><a href="/hyperos/sunstone/stable/OS1.0.2.0.UMQMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 5G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UMQINXM</td><td>14.0</td><td>5.5 GB</td><td>2024-02-04</td><td><a href="/hyperos/sunstone/stable/OS1.0.1.0.UMQINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 5G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UMQINXM</td><td>14.0</td><td>3.8 GB</td><td>2024-03-05</td><td><a href="/hyperos/sunstone/stable/OS1.0.1.0.UMQINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UMQTWXM</td><td>14.0</td><td>5.6 GB</td><td>2024-02-04</td><td><a href="/hyperos/sunstone/stable/OS1.0.1.0.UMQTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UMQTWXM</td><td>14.0</td><td>3.8 GB</td><td>2024-02-27</td><td><a href="/hyperos/sunstone/stable/OS1.0.1.0.UMQTWXM/">Download</a></td></tr>
 

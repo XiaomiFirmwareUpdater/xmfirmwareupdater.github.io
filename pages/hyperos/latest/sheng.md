@@ -54,7 +54,7 @@ permalink: /hyperos/sheng/
                 <tbody>
                 <tr><td>Xiaomi Pad 6S Pro 12.4 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UNXCNXM</td><td>14.0</td><td>7.7 GB</td><td>2024-03-06</td><td><a href="/hyperos/sheng/stable/OS1.0.5.0.UNXCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6S Pro 12.4 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UNXCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-03-09</td><td><a href="/hyperos/sheng/stable/OS1.0.5.0.UNXCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6S Pro 12.4 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UNXCNXM</td><td>14.0</td><td>6.7 GB</td><td>2024-02-22</td><td><a href="/hyperos/sheng/stable beta/OS1.0.1.0.UNXCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6S Pro 12.4 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.UNXCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-03-20</td><td><a href="/hyperos/sheng/stable beta/OS1.0.7.0.UNXCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
