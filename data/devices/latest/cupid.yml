@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-01-22'
+  date: '2024-03-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-22.01.2024/fw_cupid_miui_CUPIDGlobal_V14.0.8.0.TLCMIXM_c8a95a39e8_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/cupid/fw_cupid_miui_CUPIDGlobal_V14.0.8.0.TLCMIXM_c8a95a39e8_13.0.zip
-  filename: fw_cupid_miui_CUPIDGlobal_V14.0.8.0.TLCMIXM_c8a95a39e8_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-28.03.2024/fw_cupid_miui_CUPIDGlobal_OS1.0.2.0.ULCMIXM_9ea360288c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/cupid/fw_cupid_miui_CUPIDGlobal_OS1.0.2.0.ULCMIXM_9ea360288c_14.0.zip
+  filename: fw_cupid_miui_CUPIDGlobal_OS1.0.2.0.ULCMIXM_9ea360288c_14.0.zip
   region: Global
   versions:
-    android: '13.0'
-    miui: V14.0.8.0.TLCMIXM
+    android: '14.0'
+    miui: OS1.0.2.0.ULCMIXM
 - branch: stable
   date: '2024-03-05'
   downloads:

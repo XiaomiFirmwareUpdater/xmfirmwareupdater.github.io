@@ -156,6 +156,12 @@
   version: OS1.0.3.0.ULCEUXM
 - android: '14.0'
   codename: cupid
+  date: '2024-03-28'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULCMIXM/fw_cupid_miui_CUPIDGlobal_OS1.0.2.0.ULCMIXM_9ea360288c_14.0.zip
+  name: Xiaomi 12
+  version: OS1.0.2.0.ULCMIXM
+- android: '14.0'
+  codename: cupid
   date: '2024-03-05'
   download: https://bigota.d.miui.com/OS1.0.5.0.ULCCNXM/fw_cupid_miui_CUPID_OS1.0.5.0.ULCCNXM_06378516d1_14.0.zip
   name: Xiaomi 12
@@ -178,6 +184,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULGCNXM/fw_daumier_miui_DAUMIER_OS1.0.2.0.ULGCNXM_d84b64c895_14.0.zip
   name: Xiaomi 12 Pro Dimensity
   version: OS1.0.2.0.ULGCNXM
+- android: '14.0'
+  codename: diting
+  date: '2024-03-28'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULFMIXM/fw_diting_miui_DITINGGlobal_OS1.0.3.0.ULFMIXM_d9510f6e2d_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.3.0.ULFMIXM
 - android: '14.0'
   codename: diting
   date: '2024-01-21'
@@ -414,10 +426,22 @@
   version: OS1.0.2.0.UMXEUXM
 - android: '13.0'
   codename: fleur
+  date: '2024-03-28'
+  download: https://bigota.d.miui.com/OS1.0.1.0.TKEEUXM/fw_fleur_miui_FLEUREEAGlobal_OS1.0.1.0.TKEEUXM_836659370c_13.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: OS1.0.1.0.TKEEUXM
+- android: '13.0'
+  codename: fleur
   date: '2024-03-05'
   download: https://bigota.d.miui.com/OS1.0.1.0.TKEMIXM/fw_fleur_miui_FLEURGlobal_OS1.0.1.0.TKEMIXM_c5fa5ce2d9_13.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: OS1.0.1.0.TKEMIXM
+- android: '14.0'
+  codename: fuxi
+  date: '2024-03-28'
+  download: https://bigota.d.miui.com/OS1.0.7.3.UMCCNXM/fw_fuxi_miui_FUXI_OS1.0.7.3.UMCCNXM_97b211da3f_14.0.zip
+  name: Xiaomi 13
+  version: OS1.0.7.3.UMCCNXM
 - android: '14.0'
   codename: fuxi
   date: '2023-12-24'
@@ -460,6 +484,24 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMCEUXM/fw_fuxi_miui_FUXIEEAGlobal_OS1.0.3.0.UMCEUXM_9f9462dca8_14.0.zip
   name: Xiaomi 13
   version: OS1.0.3.0.UMCEUXM
+- android: '14.0'
+  codename: gale
+  date: '2024-03-28'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UGPMIXM/fw_gale_miui_GALEGlobal_OS1.0.1.0.UGPMIXM_6e2addc06f_14.0.zip
+  name: Redmi 13C/POCO C65
+  version: OS1.0.1.0.UGPMIXM
+- android: '14.0'
+  codename: garnet
+  date: '2024-03-28'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UNREUXM/fw_garnet_miui_GARNETEEAGlobal_OS1.0.11.0.UNREUXM_f1d087a904_14.0.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS1.0.11.0.UNREUXM
+- android: '14.0'
+  codename: garnet
+  date: '2024-03-28'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNRINXM/fw_garnet_miui_GARNETINGlobal_OS1.0.4.0.UNRINXM_dffbb51703_14.0.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS1.0.4.0.UNRINXM
 - android: '14.0'
   codename: garnet
   date: '2024-02-20'
@@ -508,6 +550,18 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.9.0.UNCCNXM_e5644d702d_14.0.zip
   name: Xiaomi 14
   version: OS1.0.9.0.UNCCNXM
+- android: '14.0'
+  codename: houji
+  date: '2024-03-28'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UNCMIXM/fw_houji_miui_HOUJIGlobal_OS1.0.6.0.UNCMIXM_248bccbcd4_14.0.zip
+  name: Xiaomi 14
+  version: OS1.0.6.0.UNCMIXM
+- android: '14.0'
+  codename: houji
+  date: '2024-03-28'
+  download: https://bigota.d.miui.com/OS1.0.32.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.32.0.UNCCNXM_4fd0e15877_14.0.zip
+  name: Xiaomi 14
+  version: OS1.0.32.0.UNCCNXM
 - android: '14.0'
   codename: houji
   date: '2024-02-29'
