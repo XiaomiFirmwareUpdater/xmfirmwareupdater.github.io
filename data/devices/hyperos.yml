@@ -1368,6 +1368,12 @@
   version: OS1.0.1.0.UMWEUXM
 - android: '14.0'
   codename: socrates
+  date: '2024-03-29'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMKCNXM/fw_socrates_miui_SOCRATES_OS1.0.8.0.UMKCNXM_2d0fa2cf85_14.0.zip
+  name: Redmi K60 Pro
+  version: OS1.0.8.0.UMKCNXM
+- android: '14.0'
+  codename: socrates
   date: '2024-01-24'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMKCNXM/fw_socrates_miui_SOCRATES_OS1.0.5.0.UMKCNXM_29370676f8_14.0.zip
   name: Redmi K60 Pro
@@ -1432,6 +1438,18 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.2.0.UMQEUXM_c59a8d3a4c_14.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
   version: OS1.0.2.0.UMQEUXM
+- android: '14.0'
+  codename: taoyao
+  date: '2024-03-29'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.5.0.ULIEUXM_992483824d_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.5.0.ULIEUXM
+- android: '14.0'
+  codename: taoyao
+  date: '2024-03-29'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULIMIXM/fw_taoyao_miui_TAOYAOGlobal_OS1.0.4.0.ULIMIXM_1537ef52cf_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.4.0.ULIMIXM
 - android: '14.0'
   codename: taoyao
   date: '2024-01-27'
@@ -1648,6 +1666,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.ULPCNXM/fw_zijin_miui_ZIJIN_OS1.0.1.0.ULPCNXM_356a223b5b_14.0.zip
   name: Xiaomi Civi 1S
   version: OS1.0.1.0.ULPCNXM
+- android: '14.0'
+  codename: zircon
+  date: '2024-03-29'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UNOEUXM/fw_zircon_miui_ZIRCONEEAGlobal_OS1.0.2.0.UNOEUXM_dd2d069c0d_14.0.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS1.0.2.0.UNOEUXM
 - android: '14.0'
   codename: zircon
   date: '2024-03-21'

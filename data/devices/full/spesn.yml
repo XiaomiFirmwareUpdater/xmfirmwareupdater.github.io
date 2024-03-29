@@ -9,6 +9,16 @@
     android: '11.0'
     miui: V13.0.10.0.RGKEUXM
 - branch: stable
+  date: '2024-03-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spesn/releases/download/stable-29.03.2024/fw_spesn_miui_SPESNEEAGlobal_V14.0.7.0.TGKEUXM_a82d2c3e33_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/spesn/fw_spesn_miui_SPESNEEAGlobal_V14.0.7.0.TGKEUXM_a82d2c3e33_13.0.zip
+  filename: fw_spesn_miui_SPESNEEAGlobal_V14.0.7.0.TGKEUXM_a82d2c3e33_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.7.0.TGKEUXM
+- branch: stable
   date: '2022-10-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spesn/releases/download/stable-27.10.2022/fw_spesn_miui_SPESNGlobal_V13.0.12.0.RGKMIXM_fd69c44717_11.0.zip

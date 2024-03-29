@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 29 Mar 2024 07:01:27 </lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 09:34:40 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K50 (rubens) - OS1.0.6.0.ULNCNXM</title>
@@ -29,6 +29,31 @@
         <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS1.0.4.0.UMWMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
+            <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K60 Pro (socrates) - OS1.0.8.0.UMKCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/socrates/</link>
+            <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11 NFC (spesn) - V14.0.7.0.TGKEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/spesn/</link>
+            <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Lite (taoyao) - OS1.0.4.0.ULIMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/taoyao/</link>
+            <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Lite (taoyao) - OS1.0.5.0.ULIEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/taoyao/</link>
+            <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro+ 5G (zircon) - OS1.0.2.0.UNOEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -249,11 +274,6 @@
         <item>
             <title>POCO M5/Redmi 11 Prime 4G (rock) - OS1.0.3.0.ULUMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/rock/</link>
-            <pubDate>Tue, 19 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro+ 5G (zircon) - V14.0.7.0.TNOEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Tue, 19 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -662,11 +682,6 @@
             <pubDate>Thu, 22 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K60 Pro (socrates) - OS1.0.7.0.UMKCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/socrates/</link>
-            <pubDate>Wed, 21 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.13.0.TGOINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/water/</link>
             <pubDate>Wed, 21 Feb 2024 00:00:00 </pubDate>
@@ -882,11 +897,6 @@
             <pubDate>Sun, 28 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12 Lite (taoyao) - OS1.0.2.0.ULIEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/taoyao/</link>
-            <pubDate>Sat, 27 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad (yunluo) - OS1.0.1.0.ULYMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/yunluo/</link>
             <pubDate>Fri, 26 Jan 2024 00:00:00 </pubDate>
@@ -919,11 +929,6 @@
         <item>
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS1.0.2.0.UMQMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
-            <pubDate>Tue, 23 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Lite (taoyao) - OS1.0.2.0.ULIMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/taoyao/</link>
             <pubDate>Tue, 23 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -1109,11 +1114,6 @@
         <item>
             <title>Mi 11 Lite 5G (renoir) - V14.0.12.0.TKICNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/renoir/</link>
-            <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 NFC (spesn) - V14.0.4.0.TGKEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/spesn/</link>
             <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
