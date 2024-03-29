@@ -52,7 +52,8 @@ permalink: /archive/hyperos/evergreen/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO M4 Pro 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.TGBTWXM</td><td>13.0</td><td>3.8 GB</td><td>2024-03-18</td><td><a href="/hyperos/evergreen/stable beta/OS1.0.1.0.TGBTWXM/">Download</a></td></tr>
+                <tr><td>POCO M4 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TGBTWXM</td><td>13.0</td><td>3.8 GB</td><td>2024-03-18</td><td><a href="/hyperos/evergreen/stable/OS1.0.1.0.TGBTWXM/">Download</a></td></tr>
+<tr><td>POCO M4 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.TGBTWXM</td><td>13.0</td><td>5.2 GB</td><td>2024-02-29</td><td><a href="/hyperos/evergreen/stable/OS1.0.1.0.TGBTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

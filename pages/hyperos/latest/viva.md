@@ -52,7 +52,8 @@ permalink: /hyperos/viva/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 Pro 4G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.TGDEUXM</td><td>13.0</td><td>3.8 GB</td><td>2024-03-18</td><td><a href="/hyperos/viva/stable beta/OS1.0.1.0.TGDEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 Pro 4G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.TGDEUXM</td><td>13.0</td><td>5.9 GB</td><td>2024-03-11</td><td><a href="/hyperos/viva/stable/OS1.0.1.0.TGDEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 4G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TGDEUXM</td><td>13.0</td><td>3.8 GB</td><td>2024-03-18</td><td><a href="/hyperos/viva/stable/OS1.0.1.0.TGDEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 4G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.TGDMIXM</td><td>13.0</td><td>3.9 GB</td><td>2024-02-18</td><td><a href="/hyperos/viva/stable beta/OS1.0.2.0.TGDMIXM/">Download</a></td></tr>
 
                 </tbody>

@@ -42,6 +42,12 @@
   version: OS1.0.2.0.UMFMIXM
 - android: '14.0'
   codename: aurora
+  date: '2024-03-29'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UNAEUXM/fw_aurora_miui_AURORAEEAGlobal_OS1.0.5.0.UNAEUXM_9fe146fc85_14.0.zip
+  name: Xiaomi 14 Ultra
+  version: OS1.0.5.0.UNAEUXM
+- android: '14.0'
+  codename: aurora
   date: '2024-03-28'
   download: https://bigota.d.miui.com/OS1.0.4.0.UNAEUXM/fw_aurora_miui_AURORAEEAGlobal_OS1.0.4.0.UNAEUXM_750055c146_14.0.zip
   name: Xiaomi 14 Ultra
@@ -1528,6 +1534,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULECNXM/fw_unicorn_miui_UNICORN_OS1.0.3.0.ULECNXM_fc52202e28_14.0.zip
   name: Xiaomi 12S Pro
   version: OS1.0.3.0.ULECNXM
+- android: '14.0'
+  codename: vermeer
+  date: '2024-03-29'
+  download: https://bigota.d.miui.com/OS1.0.15.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.15.0.UNKCNXM_2100d3fc37_14.0.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS1.0.15.0.UNKCNXM
 - android: '14.0'
   codename: vermeer
   date: '2024-01-21'

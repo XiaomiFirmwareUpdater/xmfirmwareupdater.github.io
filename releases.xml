@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 29 Mar 2024 09:34:40 </lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 15:03:49 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS1.0.5.0.UNAEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K50 (rubens) - OS1.0.6.0.ULNCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/rubens/</link>
@@ -52,6 +57,11 @@
             <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi K70/POCO F6 Pro (vermeer) - OS1.0.15.0.UNKCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/vermeer/</link>
+            <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS1.0.2.0.UNOEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
@@ -63,11 +73,6 @@
         </item>
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS1.0.3.0.UNAMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS1.0.4.0.UNAEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/aurora/</link>
             <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
         </item>
@@ -765,11 +770,6 @@
             <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.6.0.TLLMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70/POCO F6 Pro (vermeer) - OS1.0.14.0.UNKCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/vermeer/</link>
-            <pubDate>Tue, 06 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 13 (fuxi) - OS1.0.3.0.UMCEUXM</title>
