@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-01-27'
+  date: '2024-03-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-27.01.2024/fw_sky_miui_SKYGlobal_OS1.0.3.0.UMWMIXM_1e2037e27c_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sky/fw_sky_miui_SKYGlobal_OS1.0.3.0.UMWMIXM_1e2037e27c_14.0.zip
-  filename: fw_sky_miui_SKYGlobal_OS1.0.3.0.UMWMIXM_1e2037e27c_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-29.03.2024/fw_sky_miui_SKYGlobal_OS1.0.4.0.UMWMIXM_60e134c5d5_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sky/fw_sky_miui_SKYGlobal_OS1.0.4.0.UMWMIXM_60e134c5d5_14.0.zip
+  filename: fw_sky_miui_SKYGlobal_OS1.0.4.0.UMWMIXM_60e134c5d5_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.3.0.UMWMIXM
+    miui: OS1.0.4.0.UMWMIXM
 - branch: stable
   date: '2024-01-12'
   downloads:
