@@ -42,6 +42,12 @@
   version: OS1.0.2.0.UMFMIXM
 - android: '14.0'
   codename: aurora
+  date: '2024-03-30'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UNACNXM/fw_aurora_miui_AURORA_OS1.0.8.0.UNACNXM_b427cc3ce7_14.0.zip
+  name: Xiaomi 14 Ultra
+  version: OS1.0.8.0.UNACNXM
+- android: '14.0'
+  codename: aurora
   date: '2024-03-29'
   download: https://bigota.d.miui.com/OS1.0.5.0.UNAEUXM/fw_aurora_miui_AURORAEEAGlobal_OS1.0.5.0.UNAEUXM_9fe146fc85_14.0.zip
   name: Xiaomi 14 Ultra
@@ -442,6 +448,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.TKEMIXM/fw_fleur_miui_FLEURGlobal_OS1.0.1.0.TKEMIXM_c5fa5ce2d9_13.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: OS1.0.1.0.TKEMIXM
+- android: '14.0'
+  codename: fuxi
+  date: '2024-03-30'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMCCNXM/fw_fuxi_miui_FUXI_OS1.0.8.0.UMCCNXM_af6dc55799_14.0.zip
+  name: Xiaomi 13
+  version: OS1.0.8.0.UMCCNXM
 - android: '14.0'
   codename: fuxi
   date: '2024-03-28'

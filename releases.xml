@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 30 Mar 2024 06:55:57 </lastBuildDate>
+        <lastBuildDate>Sat, 30 Mar 2024 14:33:46 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS1.0.8.0.UNACNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Sat, 30 Mar 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 (fuxi) - OS1.0.8.0.UMCCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
+            <pubDate>Sat, 30 Mar 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS1.0.5.0.UNAEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/aurora/</link>
@@ -117,11 +127,6 @@
             <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13 (fuxi) - OS1.0.7.3.UMCCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 13C/POCO C65 (gale) - OS1.0.1.0.UGPMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/gale/</link>
             <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
@@ -189,11 +194,6 @@
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - V14.0.8.0.TGQINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/air/</link>
-            <pubDate>Thu, 21 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS1.0.7.0.UNACNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/aurora/</link>
             <pubDate>Thu, 21 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
