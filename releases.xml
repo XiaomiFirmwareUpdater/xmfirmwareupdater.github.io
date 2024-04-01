@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 01 Apr 2024 09:55:20 </lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 12:51:00 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 13T (aristotle) - OS1.0.5.0.UMFEUXM</title>
@@ -44,6 +44,11 @@
         <item>
             <title>POCO M5/Redmi 11 Prime 4G (rock) - OS1.0.2.0.ULUEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/rock/</link>
+            <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS1.0.2.0.UMWEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
             <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -864,11 +869,6 @@
         <item>
             <title>Xiaomi Pad 6 Pro (liuqin) - OS1.0.4.0.UMYCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/liuqin/</link>
-            <pubDate>Thu, 01 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS1.0.1.0.UMWEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
             <pubDate>Thu, 01 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>

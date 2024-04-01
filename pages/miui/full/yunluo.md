@@ -98,8 +98,6 @@ permalink: /archive/miui/yunluo/
 <tr><td>Redmi Pad EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TLYEUXM</td><td>13.0</td><td>4.5 GB</td><td>2023-03-22</td><td><a href="/miui/yunluo/stable/V14.0.2.0.TLYEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Turkey</td><td>Stable</td><td>Recovery</td><td>V13.1.3.0.SLYTRXM</td><td>12.0</td><td>3.5 GB</td><td>2023-02-28</td><td><a href="/miui/yunluo/stable/V13.1.3.0.SLYTRXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.1.3.0.SLYTRXM</td><td>12.0</td><td>4.3 GB</td><td>2023-02-14</td><td><a href="/miui/yunluo/stable/V13.1.3.0.SLYTRXM/">Download</a></td></tr>
-<tr><td>Redmi Pad China</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TLYCNXM</td><td>13.0</td><td>4.2 GB</td><td>2023-02-24</td><td><a href="/miui/yunluo/stable/V14.0.5.0.TLYCNXM/">Download</a></td></tr>
-<tr><td>Redmi Pad China</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TLYCNXM</td><td>13.0</td><td>4.9 GB</td><td>2023-02-16</td><td><a href="/miui/yunluo/stable/V14.0.5.0.TLYCNXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.1.3.0.SLYTWXM</td><td>12.0</td><td>3.5 GB</td><td>2023-02-21</td><td><a href="/miui/yunluo/stable/V13.1.3.0.SLYTWXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.1.3.0.SLYTWXM</td><td>12.0</td><td>4.3 GB</td><td>2023-02-08</td><td><a href="/miui/yunluo/stable/V13.1.3.0.SLYTWXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Russia</td><td>Stable</td><td>Recovery</td><td>V13.1.6.0.SLYRUXM</td><td>12.0</td><td>3.5 GB</td><td>2023-02-14</td><td><a href="/miui/yunluo/stable/V13.1.6.0.SLYRUXM/">Download</a></td></tr>
@@ -112,6 +110,8 @@ permalink: /archive/miui/yunluo/
 <tr><td>Redmi Pad Global</td><td>Stable</td><td>Fastboot</td><td>V13.1.7.0.SLYMIXM</td><td>12.0</td><td>4.3 GB</td><td>2023-01-16</td><td><a href="/miui/yunluo/stable/V13.1.7.0.SLYMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad India</td><td>Stable</td><td>Recovery</td><td>V13.1.5.0.SLYINXM</td><td>12.0</td><td>3.5 GB</td><td>2023-01-29</td><td><a href="/miui/yunluo/stable/V13.1.5.0.SLYINXM/">Download</a></td></tr>
 <tr><td>Redmi Pad India</td><td>Stable</td><td>Fastboot</td><td>V13.1.5.0.SLYINXM</td><td>12.0</td><td>4.2 GB</td><td>2023-01-16</td><td><a href="/miui/yunluo/stable/V13.1.5.0.SLYINXM/">Download</a></td></tr>
+<tr><td>Redmi Pad China</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TLYCNXM</td><td>13.0</td><td>4.2 GB</td><td>2023-02-24</td><td><a href="/miui/yunluo/stable/V14.0.5.0.TLYCNXM/">Download</a></td></tr>
+<tr><td>Redmi Pad China</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TLYCNXM</td><td>13.0</td><td>4.9 GB</td><td>2023-02-16</td><td><a href="/miui/yunluo/stable/V14.0.5.0.TLYCNXM/">Download</a></td></tr>
 <tr><td>Redmi Pad China</td><td>Stable</td><td>Recovery</td><td>V13.1.7.0.SLYCNXM</td><td>12.0</td><td>4.1 GB</td><td>2022-12-28</td><td><a href="/miui/yunluo/stable/V13.1.7.0.SLYCNXM/">Download</a></td></tr>
 <tr><td>Redmi Pad China</td><td>Stable</td><td>Fastboot</td><td>V13.1.7.0.SLYCNXM</td><td>12.0</td><td>4.9 GB</td><td>2022-12-23</td><td><a href="/miui/yunluo/stable/V13.1.7.0.SLYCNXM/">Download</a></td></tr>
 <tr><td>Redmi Pad EEA</td><td>Stable</td><td>Recovery</td><td>V13.1.3.0.SLYEUXM</td><td>12.0</td><td>3.5 GB</td><td>2022-12-24</td><td><a href="/miui/yunluo/stable/V13.1.3.0.SLYEUXM/">Download</a></td></tr>
