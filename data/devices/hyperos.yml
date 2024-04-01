@@ -41,6 +41,12 @@
   name: Xiaomi 13T
   version: OS1.0.2.0.UMFMIXM
 - android: '14.0'
+  codename: aristotle
+  date: '2024-04-01'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMFEUXM/fw_aristotle_miui_ARISTOTLEEEAGlobal_OS1.0.5.0.UMFEUXM_0b4c8fdf0a_14.0.zip
+  name: Xiaomi 13T
+  version: OS1.0.5.0.UMFEUXM
+- android: '14.0'
   codename: aurora
   date: '2024-03-30'
   download: https://bigota.d.miui.com/OS1.0.8.0.UNACNXM/fw_aurora_miui_AURORA_OS1.0.8.0.UNACNXM_b427cc3ce7_14.0.zip
@@ -406,6 +412,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.TGBCNXM/fw_evergo_miui_EVERGO_OS1.0.1.0.TGBCNXM_30dc3f8271_13.0.zip
   name: Redmi Note 11 5G/Redmi Note 11T 5G
   version: OS1.0.1.0.TGBCNXM
+- android: '13.0'
+  codename: evergreen
+  date: '2024-04-01'
+  download: https://bigota.d.miui.com/OS1.0.1.0.TGBMIXM/fw_evergreen_miui_EVERGREENGlobal_OS1.0.1.0.TGBMIXM_d22f981c91_13.0.zip
+  name: POCO M4 Pro 5G
+  version: OS1.0.1.0.TGBMIXM
 - android: '14.0'
   codename: fire
   date: '2024-03-21'
@@ -1024,6 +1036,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMBCNXM/fw_nuwa_miui_NUWA_OS1.0.5.0.UMBCNXM_9748b91e96_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.5.0.UMBCNXM
+- android: '13.0'
+  codename: opal
+  date: '2024-04-01'
+  download: https://bigota.d.miui.com/OS1.0.1.0.TGLMIXM/fw_opal_miui_OPALGlobal_OS1.0.1.0.TGLMIXM_49655ebbfa_13.0.zip
+  name: Redmi Note 11S 5G
+  version: OS1.0.1.0.TGLMIXM
 - android: '14.0'
   codename: pipa
   date: '2024-01-30'
@@ -1084,6 +1102,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.TKTCNXM/fw_pissarro_miui_PISSARRO_OS1.0.2.0.TKTCNXM_13f7d12d41_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
   version: OS1.0.2.0.TKTCNXM
+- android: '13.0'
+  codename: pissarro
+  date: '2024-04-01'
+  download: https://bigota.d.miui.com/OS1.0.2.0.TKTEUXM/fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.2.0.TKTEUXM_d172ed0f80_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: OS1.0.2.0.TKTEUXM
 - android: '14.0'
   codename: plato
   date: '2024-02-22'
@@ -1108,6 +1132,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.ULQMIXM/fw_plato_miui_PLATOGlobal_OS1.0.5.0.ULQMIXM_9c5350230d_14.0.zip
   name: Xiaomi 12T
   version: OS1.0.5.0.ULQMIXM
+- android: '14.0'
+  codename: plato
+  date: '2024-04-01'
+  download: https://bigota.d.miui.com/OS1.0.8.0.ULQMIXM/fw_plato_miui_PLATOGlobal_OS1.0.8.0.ULQMIXM_66cc9d612c_14.0.zip
+  name: Xiaomi 12T
+  version: OS1.0.8.0.ULQMIXM
 - android: '13.0'
   codename: psyche
   date: '2024-02-23'
@@ -1151,6 +1181,18 @@
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: OS1.0.2.0.UMSINXM
 - android: '14.0'
+  codename: redwood
+  date: '2024-04-01'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMSEUXM/fw_redwood_miui_REDWOODEEAGlobal_OS1.0.3.0.UMSEUXM_ae5b2ff81e_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.3.0.UMSEUXM
+- android: '14.0'
+  codename: redwood
+  date: '2024-04-01'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMSMIXM/fw_redwood_miui_REDWOODGlobal_OS1.0.3.0.UMSMIXM_5c10a339d0_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.3.0.UMSMIXM
+- android: '14.0'
   codename: rock
   date: '2024-01-25'
   download: https://bigota.d.miui.com/OS1.0.1.0.ULUEUXM/fw_rock_miui_ROCKEEAGlobal_OS1.0.1.0.ULUEUXM_319d8dd16f_14.0.zip
@@ -1174,6 +1216,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULUINXM/fw_rock_miui_ROCKINGlobal_OS1.0.3.0.ULUINXM_435f52bbbb_14.0.zip
   name: POCO M5/Redmi 11 Prime 4G
   version: OS1.0.3.0.ULUINXM
+- android: '14.0'
+  codename: rock
+  date: '2024-04-01'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULUEUXM/fw_rock_miui_ROCKEEAGlobal_OS1.0.2.0.ULUEUXM_0e560ef2a3_14.0.zip
+  name: POCO M5/Redmi 11 Prime 4G
+  version: OS1.0.2.0.ULUEUXM
 - android: '14.0'
   codename: rubens
   date: '2024-03-29'
@@ -1421,6 +1469,18 @@
   name: Redmi Note 11
   version: OS1.0.3.0.TGCMIXM
 - android: '13.0'
+  codename: spes
+  date: '2024-04-01'
+  download: https://bigota.d.miui.com/OS1.0.1.0.TGCINXM/fw_spes_miui_SPESINGlobal_OS1.0.1.0.TGCINXM_468c1e6356_13.0.zip
+  name: Redmi Note 11
+  version: OS1.0.1.0.TGCINXM
+- android: '13.0'
+  codename: spesn
+  date: '2024-04-01'
+  download: https://bigota.d.miui.com/OS1.0.1.0.TGKEUXM/fw_spesn_miui_SPESNEEAGlobal_OS1.0.1.0.TGKEUXM_8dd4246ed7_13.0.zip
+  name: Redmi Note 11 NFC
+  version: OS1.0.1.0.TGKEUXM
+- android: '13.0'
   codename: spesn
   date: '2024-03-01'
   download: https://bigota.d.miui.com/OS1.0.3.0.TGKMIXM/fw_spesn_miui_SPESNGlobal_OS1.0.3.0.TGKMIXM_21b3b58697_13.0.zip
@@ -1595,6 +1655,12 @@
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
   version: OS1.0.1.0.TKCCNXM
 - android: '13.0'
+  codename: vida
+  date: '2024-04-01'
+  download: https://bigota.d.miui.com/OS1.0.3.0.TGDINXM/fw_vida_miui_VIDAINGlobal_OS1.0.3.0.TGDINXM_1004dd4f10_13.0.zip
+  name: Redmi Note 11 Pro 4G
+  version: OS1.0.3.0.TGDINXM
+- android: '13.0'
   codename: viva
   date: '2024-02-29'
   download: https://bigota.d.miui.com/OS1.0.2.0.TGDMIXM/fw_viva_miui_VIVAGlobal_OS1.0.2.0.TGDMIXM_b2b4099a55_13.0.zip
@@ -1654,6 +1720,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULYCNXM/fw_yunluo_miui_YUNLUO_OS1.0.2.0.ULYCNXM_b72482c1f6_14.0.zip
   name: Redmi Pad
   version: OS1.0.2.0.ULYCNXM
+- android: '14.0'
+  codename: yunluo
+  date: '2024-04-01'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULYMIXM/fw_yunluo_miui_YUNLUOGlobal_OS1.0.2.0.ULYMIXM_5f7f0c202a_14.0.zip
+  name: Redmi Pad
+  version: OS1.0.2.0.ULYMIXM
 - android: '14.0'
   codename: zeus
   date: '2024-01-23'
@@ -1720,6 +1792,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.ULLCNXM/fw_ziyi_miui_ZIYI_OS1.0.1.0.ULLCNXM_89dd31358d_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.1.0.ULLCNXM
+- android: '14.0'
+  codename: ziyi
+  date: '2024-04-01'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULLEUXM/fw_ziyi_miui_ZIYIEEAGlobal_OS1.0.4.0.ULLEUXM_b08edd61cb_14.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS1.0.4.0.ULLEUXM
 - android: '14.0'
   codename: zizhan
   date: '2023-12-25'

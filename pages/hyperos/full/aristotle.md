@@ -64,6 +64,8 @@ permalink: /archive/hyperos/aristotle/
 <tr><td>Xiaomi 13T Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UMFMIXM</td><td>14.0</td><td>5.7 GB</td><td>2024-01-18</td><td><a href="/hyperos/aristotle/stable/OS1.0.2.0.UMFMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UMFTWXM</td><td>14.0</td><td>6.7 GB</td><td>2024-02-19</td><td><a href="/hyperos/aristotle/stable/OS1.0.1.0.UMFTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UMFTWXM</td><td>14.0</td><td>5.6 GB</td><td>2024-01-23</td><td><a href="/hyperos/aristotle/stable/OS1.0.1.0.UMFTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UMFEUXM</td><td>14.0</td><td>5.8 GB</td><td>2024-02-18</td><td><a href="/hyperos/aristotle/stable/OS1.0.5.0.UMFEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UMFEUXM</td><td>14.0</td><td>7.6 GB</td><td>2024-02-07</td><td><a href="/hyperos/aristotle/stable/OS1.0.5.0.UMFEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UMFIDXM</td><td>14.0</td><td>6.9 GB</td><td>2024-01-31</td><td><a href="/hyperos/aristotle/stable/OS1.0.2.0.UMFIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UMFIDXM</td><td>14.0</td><td>5.7 GB</td><td>2024-01-23</td><td><a href="/hyperos/aristotle/stable/OS1.0.2.0.UMFIDXM/">Download</a></td></tr>
 

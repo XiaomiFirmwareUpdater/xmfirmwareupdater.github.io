@@ -4,8 +4,73 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 01 Apr 2024 00:55:54 </lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 09:55:20 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13T (aristotle) - OS1.0.5.0.UMFEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/aristotle/</link>
+            <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>POCO M4 Pro 5G (evergreen) - OS1.0.1.0.TGBMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/evergreen/</link>
+            <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11S 5G (opal) - OS1.0.1.0.TGLMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/opal/</link>
+            <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - OS1.0.2.0.TKTEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/pissarro/</link>
+            <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12T (plato) - OS1.0.8.0.ULQMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/plato/</link>
+            <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS1.0.3.0.UMSMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/redwood/</link>
+            <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS1.0.3.0.UMSEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/redwood/</link>
+            <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>POCO M5/Redmi 11 Prime 4G (rock) - OS1.0.2.0.ULUEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/rock/</link>
+            <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11 (spes) - OS1.0.1.0.TGCINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/spes/</link>
+            <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11 NFC (spesn) - OS1.0.1.0.TGKEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/spesn/</link>
+            <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11 Pro 4G (vida) - OS1.0.3.0.TGDINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/vida/</link>
+            <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad (yunluo) - OS1.0.2.0.ULYMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/yunluo/</link>
+            <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS1.0.4.0.ULLEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ziyi/</link>
+            <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS1.0.8.0.UNACNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/aurora/</link>
@@ -49,11 +114,6 @@
         <item>
             <title>Redmi K60 Pro (socrates) - OS1.0.8.0.UMKCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/socrates/</link>
-            <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 NFC (spesn) - V14.0.7.0.TGKEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/spesn/</link>
             <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -547,11 +607,6 @@
             <pubDate>Tue, 27 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13T (aristotle) - OS1.0.3.0.UMFEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/aristotle/</link>
-            <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 10C (fog) - V14.0.5.0.TGEINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fog/</link>
             <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
@@ -642,11 +697,6 @@
             <pubDate>Fri, 23 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.10.0.TKTEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/pissarro/</link>
-            <pubDate>Fri, 23 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12X (psyche) - OS1.0.3.0.TLDCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/psyche/</link>
             <pubDate>Fri, 23 Feb 2024 00:00:00 </pubDate>
@@ -669,11 +719,6 @@
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.6.0.UMNCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
-            <pubDate>Thu, 22 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12T (plato) - OS1.0.7.0.ULQMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/plato/</link>
             <pubDate>Thu, 22 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -792,11 +837,6 @@
             <pubDate>Sat, 03 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS1.0.2.0.UMSEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/redwood/</link>
-            <pubDate>Sat, 03 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS1.0.2.0.UMSINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/redwood/</link>
             <pubDate>Sat, 03 Feb 2024 00:00:00 </pubDate>
@@ -847,11 +887,6 @@
             <pubDate>Wed, 31 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS1.0.2.0.UMSMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/redwood/</link>
-            <pubDate>Wed, 31 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>POCO X5 5G (moonstone) - OS1.0.1.0.UMPINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
             <pubDate>Tue, 30 Jan 2024 00:00:00 </pubDate>
@@ -859,11 +894,6 @@
         <item>
             <title>Xiaomi Pad 6 (pipa) - OS1.0.4.0.UMZCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/pipa/</link>
-            <pubDate>Tue, 30 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.17.0.TLLEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Tue, 30 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -895,26 +925,6 @@
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - V14.0.8.0.TNQCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
             <pubDate>Sun, 28 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad (yunluo) - OS1.0.1.0.ULYMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/yunluo/</link>
-            <pubDate>Fri, 26 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11S 5G (opal) - V14.0.5.0.TGLMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/opal/</link>
-            <pubDate>Thu, 25 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO M5/Redmi 11 Prime 4G (rock) - OS1.0.1.0.ULUEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/rock/</link>
-            <pubDate>Thu, 25 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 Pro 4G (vida) - V14.0.4.0.TGDINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/vida/</link>
-            <pubDate>Thu, 25 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.11.0.TKHEUXM</title>
@@ -1014,11 +1024,6 @@
         <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS1.0.5.0.UMWCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 (spes) - V14.0.5.0.TGCINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/spes/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -1260,11 +1265,6 @@
             <title>Redmi Note 11S 5G (opal) - V14.0.4.0.TGLEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/opal/</link>
             <pubDate>Fri, 08 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO M4 Pro 5G (evergreen) - V14.0.2.0.TGBMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/evergreen/</link>
-            <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>POCO X3 NFC (surya) - V14.0.5.0.SJGEUXM</title>
