@@ -78,7 +78,7 @@ permalink: /hyperos/aurora/stable beta/OS1.0.8.0.UNACNXM/
                             aria-expanded="false" aria-controls="aurora_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="aurora_1_changelog">
-                        <p id="changelog_text">[System]<br>New: Camera grip charging options<br>New: Vital signs info can be included in messages sent via Tiantong Satellite communications (works with Mi Fitness 3.27.2 or later)<br>New: Emergency SMS can be sent automatically during satellite calls when Emergency SOS is on<br>Optimization: Touchscreen experience<br>Optimization: Touchscreen experience<br>Optimization: System stability<br>[Camera]<br>Optimization: HDR image quality in some scenes<br>Optimization: Portrait mode image clarity<br>Optimization: Face brightness algorithms for average exposure metering option</p>
+                        <p id="changelog_text">[System]<br>New: Camera grip charging options<br>New: Vital signs info can be included in messages sent via Tiantong Satellite communications (works with Mi Fitness 3.27.2 or later)<br>New: Emergency SMS can be sent automatically during satellite calls when Emergency SOS is on<br>Optimization: Touchscreen experience<br>Optimization: System stability<br>[Camera]<br>Optimization: HDR image quality in some scenes<br>Optimization: Portrait mode image clarity<br>Optimization: Face brightness algorithms for average exposure metering option</p>
                     </div>
                 </li>
             </ul>
