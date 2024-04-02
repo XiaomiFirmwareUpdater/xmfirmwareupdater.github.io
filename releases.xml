@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 02 Apr 2024 07:05:04 </lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 12:58:09 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - OS1.0.2.0.TKEINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fleur/</link>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - OS1.0.3.0.TKCMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/veux/</link>
             <pubDate>Tue, 02 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -669,11 +674,6 @@
         <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS1.0.2.0.UNQMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
-            <pubDate>Sun, 25 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V14.0.6.0.TKCMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/veux/</link>
             <pubDate>Sun, 25 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>

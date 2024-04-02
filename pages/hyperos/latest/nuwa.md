@@ -52,10 +52,9 @@ permalink: /hyperos/nuwa/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 13 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UMBCNXM</td><td>14.0</td><td>8.2 GB</td><td>2024-01-23</td><td><a href="/hyperos/nuwa/stable/OS1.0.5.0.UMBCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UMBCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-01-31</td><td><a href="/hyperos/nuwa/stable/OS1.0.5.0.UMBCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 13 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UMBCNXM</td><td>14.0</td><td>7.0 GB</td><td>2024-03-12</td><td><a href="/hyperos/nuwa/stable/OS1.0.6.0.UMBCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UMBCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-03-21</td><td><a href="/hyperos/nuwa/stable/OS1.0.6.0.UMBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>6.5 GB</td><td>2024-01-12</td><td><a href="/hyperos/nuwa/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.UMBCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-03-21</td><td><a href="/hyperos/nuwa/stable beta/OS1.0.6.0.UMBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMBEUXM</td><td>14.0</td><td>7.7 GB</td><td>2024-02-26</td><td><a href="/hyperos/nuwa/stable/OS1.0.4.0.UMBEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMBEUXM</td><td>14.0</td><td>5.9 GB</td><td>2024-01-29</td><td><a href="/hyperos/nuwa/stable/OS1.0.4.0.UMBEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMBMIXM</td><td>14.0</td><td>7.8 GB</td><td>2024-02-23</td><td><a href="/hyperos/nuwa/stable/OS1.0.4.0.UMBMIXM/">Download</a></td></tr>

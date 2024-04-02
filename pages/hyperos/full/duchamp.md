@@ -52,7 +52,8 @@ permalink: /archive/hyperos/duchamp/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO X6 Pro 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNLRUXM</td><td>14.0</td><td>5.4 GB</td><td>2024-03-20</td><td><a href="/hyperos/duchamp/stable/OS1.0.3.0.UNLRUXM/">Download</a></td></tr>
+                <tr><td>POCO X6 Pro 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UNLIDXM</td><td>14.0</td><td>5.5 GB</td><td>2024-04-02</td><td><a href="/hyperos/duchamp/stable beta/OS1.0.3.0.UNLIDXM/">Download</a></td></tr>
+<tr><td>POCO X6 Pro 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNLRUXM</td><td>14.0</td><td>5.4 GB</td><td>2024-03-20</td><td><a href="/hyperos/duchamp/stable/OS1.0.3.0.UNLRUXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UNLRUXM</td><td>14.0</td><td>8.1 GB</td><td>2024-03-17</td><td><a href="/hyperos/duchamp/stable/OS1.0.3.0.UNLRUXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UNLTWXM</td><td>14.0</td><td>5.4 GB</td><td>2024-03-20</td><td><a href="/hyperos/duchamp/stable/OS1.0.5.0.UNLTWXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UNLTWXM</td><td>14.0</td><td>7.0 GB</td><td>2024-03-17</td><td><a href="/hyperos/duchamp/stable/OS1.0.5.0.UNLTWXM/">Download</a></td></tr>

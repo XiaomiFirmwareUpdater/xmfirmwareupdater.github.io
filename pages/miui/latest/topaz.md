@@ -52,8 +52,7 @@ permalink: /miui/topaz/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12 4G NFC Indonesia</td><td>Stable</td><td>Recovery</td><td>V14.0.8.0.TMGIDXM</td><td>13.0</td><td>4.1 GB</td><td>2023-11-17</td><td><a href="/miui/topaz/stable/V14.0.8.0.TMGIDXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 4G NFC Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.8.0.TMGRUXM</td><td>13.0</td><td>4.1 GB</td><td>2023-11-10</td><td><a href="/miui/topaz/stable/V14.0.8.0.TMGRUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12 4G NFC Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.8.0.TMGRUXM</td><td>13.0</td><td>4.1 GB</td><td>2023-11-10</td><td><a href="/miui/topaz/stable/V14.0.8.0.TMGRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
