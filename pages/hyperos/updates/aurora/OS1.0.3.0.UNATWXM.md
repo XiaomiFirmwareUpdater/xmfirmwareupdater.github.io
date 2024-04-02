@@ -78,7 +78,7 @@ permalink: /hyperos/aurora/stable beta/OS1.0.3.0.UNATWXM/
                             aria-expanded="false" aria-controls="aurora_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="aurora_1_changelog">
-                        <p id="changelog_text">[System]<br>Optimization: Camera grip connection stability issues<br>[Control center]<br>View and manage your nearby smart devices in Mi Smart Hub which constantly updates in real-time based on device networking<br>[Proactive intelligence]<br>Advanced AI technologies allow devices to assist you proactively (Beta)<br>A cross-device cognitive center combined with on-device AI algorithm deployment<br>Xiaomi HyperMind utilizes large foundation models and enables devices to proactively understand your needs and act accordingly<br>Deep integration of large AI models empowers system apps</p>
+                        <p id="changelog_text">[System]<br>Optimization: Camera grip connection stability issues</p>
                     </div>
                 </li>
             </ul>
