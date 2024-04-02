@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 02 Apr 2024 00:41:42 </lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 07:05:04 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - OS1.0.2.0.TKEINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/fleur/</link>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 13T (aristotle) - OS1.0.5.0.UMFEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/aristotle/</link>
@@ -965,11 +970,6 @@
             <title>Mi 11 (venus) - V14.0.11.0.TKBCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/venus/</link>
             <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V14.0.6.0.TKEINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fleur/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 10C (fog) - V14.0.5.0.TGEMIXM</title>
