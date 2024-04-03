@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 03 Apr 2024 00:45:06 </lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 06:54:29 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 11 Pro 4G (viva) - OS1.0.3.0.TGDMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/viva/</link>
+            <pubDate>Wed, 03 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - OS1.0.2.0.TKEINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fleur/</link>
@@ -599,11 +604,6 @@
         <item>
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS1.0.1.0.UMQCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
-            <pubDate>Thu, 29 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 Pro 4G (viva) - OS1.0.2.0.TGDMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/viva/</link>
             <pubDate>Thu, 29 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
