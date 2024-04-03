@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 03 Apr 2024 06:54:29 </lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 14:05:23 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS1.0.1.0.UNXEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sheng/</link>
+            <pubDate>Wed, 03 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 11 Pro 4G (viva) - OS1.0.3.0.TGDMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/viva/</link>
+            <pubDate>Wed, 03 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro+ 5G (zircon) - OS1.0.4.0.UNOINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Wed, 03 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -529,11 +539,6 @@
         <item>
             <title>Xiaomi 12 Pro (zeus) - OS1.0.2.0.ULBINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Tue, 05 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro+ 5G (zircon) - OS1.0.3.0.UNOINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Tue, 05 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>

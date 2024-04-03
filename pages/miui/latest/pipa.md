@@ -53,10 +53,9 @@ permalink: /miui/pipa/
                 </thead>
                 <tbody>
                 <tr><td>Xiaomi Pad 6 China</td><td>Public Beta</td><td>Fastboot</td><td>23.5.6</td><td>14.0</td><td>4.9 GB</td><td>2023-05-06</td><td><a href="/miui/pipa/public beta/23.5.6/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.11.0.TMZMIXM</td><td>13.0</td><td>4.0 GB</td><td>2023-12-26</td><td><a href="/miui/pipa/stable/V14.0.11.0.TMZMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Indonesia</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TMZIDXM</td><td>13.0</td><td>4.0 GB</td><td>2023-12-20</td><td><a href="/miui/pipa/stable/V14.0.5.0.TMZIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TMZIDXM</td><td>13.0</td><td>4.0 GB</td><td>2023-11-03</td><td><a href="/miui/pipa/stable beta/V14.0.4.0.TMZIDXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 India</td><td>Stable</td><td>Recovery</td><td>V14.0.7.0.TMZINXM</td><td>13.0</td><td>3.9 GB</td><td>2023-12-14</td><td><a href="/miui/pipa/stable/V14.0.7.0.TMZINXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TMZINXM</td><td>13.0</td><td>3.9 GB</td><td>2023-10-31</td><td><a href="/miui/pipa/stable beta/V14.0.6.0.TMZINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

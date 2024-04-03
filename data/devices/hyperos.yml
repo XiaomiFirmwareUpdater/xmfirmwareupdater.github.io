@@ -1325,6 +1325,12 @@
   name: Xiaomi Pad 6S Pro 12.4
   version: OS1.0.5.0.UNXCNXM
 - android: '14.0'
+  codename: sheng
+  date: '2024-04-03'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UNXEUXM/fw_sheng_miui_SHENGEEAGlobal_OS1.0.1.0.UNXEUXM_d68576433f_14.0.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS1.0.1.0.UNXEUXM
+- android: '14.0'
   codename: shennong
   date: '2023-10-31'
   download: https://bigota.d.miui.com/OS1.0.10.0.UNBCNXM/fw_shennong_miui_SHENNONG_OS1.0.10.0.UNBCNXM_979a847396_14.0.zip
@@ -1810,6 +1816,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UNOINXM/fw_zircon_miui_ZIRCONINGlobal_OS1.0.3.0.UNOINXM_52a1f3fb64_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.3.0.UNOINXM
+- android: '14.0'
+  codename: zircon
+  date: '2024-04-03'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNOINXM/fw_zircon_miui_ZIRCONINGlobal_OS1.0.4.0.UNOINXM_a7be268d67_14.0.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS1.0.4.0.UNOINXM
 - android: '14.0'
   codename: ziyi
   date: '2024-02-26'

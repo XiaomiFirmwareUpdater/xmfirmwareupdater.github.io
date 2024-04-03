@@ -3,7 +3,7 @@ title: Xiaomi 14 Ultra EEA HyperOS OS1.0.5.0.UNAEUXM Update
 layout: download
 name: Xiaomi 14 Ultra EEA
 codename: aurora
-permalink: /hyperos/aurora/stable beta/OS1.0.5.0.UNAEUXM/
+permalink: /hyperos/aurora/stable/OS1.0.5.0.UNAEUXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/aurora/stable beta/OS1.0.5.0.UNAEUXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.5.0.UNAEUXM Stable Beta Official Update for Xiaomi 14 Ultra EEA (aurora)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.5.0.UNAEUXM Stable Official Update for Xiaomi 14 Ultra EEA (aurora)</h3>
     <h5>This page shows the OS1.0.5.0.UNAEUXM update only. If you're looking for other updates check
         <a href="/hyperos/aurora/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/aurora/stable beta/OS1.0.5.0.UNAEUXM/
                     <h5><b>Version: </b>OS1.0.5.0.UNAEUXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/aurora/stable beta/OS1.0.5.0.UNAEUXM/
                             aria-expanded="false" aria-controls="aurora_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="aurora_1_changelog">
+                        <p id="changelog_text">[Control center]<br>View and manage your nearby smart devices in Mi Smart Hub which constantly updates in real-time based on device networking<br>[Proactive intelligence]<br>Advanced AI technologies allow devices to assist you proactively (Beta)<br>A cross-device cognitive center combined with on-device AI algorithm deployment<br>Xiaomi HyperMind utilizes large foundation models and enables devices to proactively understand your needs and act accordingly<br>Deep integration of large AI models empowers system apps</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi 14 Ultra EEA</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/aurora/" target="_blank">aurora</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.5.0.UNAEUXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>8.3 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-03-15</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">aurora_eea_global_images_OS1.0.5.0.UNAEUXM_20240315.0000.00_14.0_eea_9e0ca40ed4.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">9e0ca40ed46fdfd17eb17a097b29929e</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.5.0.UNAEUXM/aurora_eea_global_images_OS1.0.5.0.UNAEUXM_20240315.0000.00_14.0_eea_9e0ca40ed4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.5.0.UNAEUXM/aurora_eea_global_images_OS1.0.5.0.UNAEUXM_20240315.0000.00_14.0_eea_9e0ca40ed4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.5.0.UNAEUXM/aurora_eea_global_images_OS1.0.5.0.UNAEUXM_20240315.0000.00_14.0_eea_9e0ca40ed4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.5.0.UNAEUXM/aurora_eea_global_images_OS1.0.5.0.UNAEUXM_20240315.0000.00_14.0_eea_9e0ca40ed4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.5.0.UNAEUXM/aurora_eea_global_images_OS1.0.5.0.UNAEUXM_20240315.0000.00_14.0_eea_9e0ca40ed4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#aurora_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="aurora_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="aurora_2_changelog">
                         <p id="changelog_text">[Control center]<br>View and manage your nearby smart devices in Mi Smart Hub which constantly updates in real-time based on device networking<br>[Proactive intelligence]<br>Advanced AI technologies allow devices to assist you proactively (Beta)<br>A cross-device cognitive center combined with on-device AI algorithm deployment<br>Xiaomi HyperMind utilizes large foundation models and enables devices to proactively understand your needs and act accordingly<br>Deep integration of large AI models empowers system apps</p>
                     </div>
                 </li>
