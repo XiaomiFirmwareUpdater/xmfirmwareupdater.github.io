@@ -58,6 +58,7 @@ permalink: /archive/hyperos/aurora/
 <tr><td>Xiaomi 14 Ultra Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UNATWXM</td><td>14.0</td><td>7.5 GB</td><td>2024-03-15</td><td><a href="/hyperos/aurora/stable/OS1.0.3.0.UNATWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UNACNXM</td><td>14.0</td><td>7.3 GB</td><td>2024-03-26</td><td><a href="/hyperos/aurora/stable/OS1.0.8.0.UNACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UNACNXM</td><td>14.0</td><td>9.3 GB</td><td>2024-03-23</td><td><a href="/hyperos/aurora/stable/OS1.0.8.0.UNACNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Ultra Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UNARUXM</td><td>14.0</td><td>8.4 GB</td><td>2024-03-26</td><td><a href="/hyperos/aurora/stable/OS1.0.3.0.UNARUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNAMIXM</td><td>14.0</td><td>6.5 GB</td><td>2024-03-25</td><td><a href="/hyperos/aurora/stable/OS1.0.3.0.UNAMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UNAMIXM</td><td>14.0</td><td>8.7 GB</td><td>2024-03-14</td><td><a href="/hyperos/aurora/stable/OS1.0.3.0.UNAMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UNAEUXM</td><td>14.0</td><td>6.5 GB</td><td>2024-03-25</td><td><a href="/hyperos/aurora/stable/OS1.0.5.0.UNAEUXM/">Download</a></td></tr>
