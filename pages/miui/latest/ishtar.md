@@ -53,7 +53,6 @@ permalink: /miui/ishtar/
                 </thead>
                 <tbody>
                 <tr><td>Xiaomi 13 Ultra China</td><td>Public Beta</td><td>Fastboot</td><td>V14.0.23.5.8.DEV</td><td>13.0</td><td>8.6 GB</td><td>2023-05-09</td><td><a href="/miui/ishtar/public beta/V14.0.23.5.8.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.20.0.TMACNXM</td><td>13.0</td><td>6.9 GB</td><td>2023-10-17</td><td><a href="/miui/ishtar/stable beta/V14.0.20.0.TMACNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 05 Apr 2024 00:45:18 </lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 07:44:55 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13 Ultra (ishtar) - OS1.0.8.0.UMACNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ishtar/</link>
+            <pubDate>Fri, 05 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS1.0.1.0.UNXEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sheng/</link>
@@ -889,11 +894,6 @@
         <item>
             <title>Xiaomi 11T (agate) - OS1.0.3.0.UKWMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/agate/</link>
-            <pubDate>Wed, 31 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Ultra (ishtar) - OS1.0.6.0.UMACNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ishtar/</link>
             <pubDate>Wed, 31 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
