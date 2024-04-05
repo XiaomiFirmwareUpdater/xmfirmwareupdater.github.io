@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 05 Apr 2024 13:57:49 </lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 19:26:47 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Civi 4 Pro (chenfeng) - OS1.0.5.0.UNJCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/chenfeng/</link>
+            <pubDate>Fri, 05 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 14 (houji) - OS1.0.35.0.UNCCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
@@ -189,11 +194,6 @@
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS1.0.3.0.UNAMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 4 Pro (chenfeng) - OS1.0.4.0.UNJCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/chenfeng/</link>
             <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
