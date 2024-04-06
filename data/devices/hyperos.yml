@@ -420,6 +420,12 @@
   version: OS1.0.1.0.TGBCNXM
 - android: '13.0'
   codename: evergreen
+  date: '2024-04-06'
+  download: https://bigota.d.miui.com/OS1.0.1.0.TGBEUXM/fw_evergreen_miui_EVERGREENEEAGlobal_OS1.0.1.0.TGBEUXM_a85e24d7ff_13.0.zip
+  name: POCO M4 Pro 5G
+  version: OS1.0.1.0.TGBEUXM
+- android: '13.0'
+  codename: evergreen
   date: '2024-04-01'
   download: https://bigota.d.miui.com/OS1.0.1.0.TGBMIXM/fw_evergreen_miui_EVERGREENGlobal_OS1.0.1.0.TGBMIXM_d22f981c91_13.0.zip
   name: POCO M4 Pro 5G
@@ -1060,6 +1066,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMBCNXM/fw_nuwa_miui_NUWA_OS1.0.5.0.UMBCNXM_9748b91e96_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.5.0.UMBCNXM
+- android: '13.0'
+  codename: opal
+  date: '2024-04-06'
+  download: https://bigota.d.miui.com/OS1.0.1.0.TGLEUXM/fw_opal_miui_OPALEEAGlobal_OS1.0.1.0.TGLEUXM_04fd0aecba_13.0.zip
+  name: Redmi Note 11S 5G
+  version: OS1.0.1.0.TGLEUXM
 - android: '13.0'
   codename: opal
   date: '2024-04-01'

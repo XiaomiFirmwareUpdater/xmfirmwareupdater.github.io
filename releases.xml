@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 06 Apr 2024 12:45:39 </lastBuildDate>
+        <lastBuildDate>Sat, 06 Apr 2024 19:38:49 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>POCO M4 Pro 5G (evergreen) - OS1.0.1.0.TGBEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/evergreen/</link>
+            <pubDate>Sat, 06 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11S 5G (opal) - OS1.0.1.0.TGLEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/opal/</link>
+            <pubDate>Sat, 06 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi Civi 4 Pro (chenfeng) - OS1.0.5.0.UNJCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/chenfeng/</link>
@@ -1182,11 +1192,6 @@
             <pubDate>Fri, 17 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>POCO M4 Pro 5G (evergreen) - V14.0.4.0.TGBEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/evergreen/</link>
-            <pubDate>Thu, 16 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 9T (cannong) - V14.0.4.0.SJEMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/cannong/</link>
             <pubDate>Mon, 13 Nov 2023 00:00:00 </pubDate>
@@ -1265,11 +1270,6 @@
             <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V14.0.5.0.TKAMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/star/</link>
             <pubDate>Mon, 11 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11S 5G (opal) - V14.0.4.0.TGLEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/opal/</link>
-            <pubDate>Fri, 08 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>POCO X3 NFC (surya) - V14.0.5.0.SJGEUXM</title>
