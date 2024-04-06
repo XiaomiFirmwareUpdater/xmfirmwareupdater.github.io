@@ -105,7 +105,7 @@ permalink: /hyperos/earth/stable/OS1.0.1.0.UCVCNXM/
                     <h5><b>Size: </b>4.0 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-01-24</h5>
+                    <h5><b>Release Date: </b>None</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_EARTH_OS1.0.1.0.UCVCNXM_68302d0f82_14.0.zip</span></h5>
