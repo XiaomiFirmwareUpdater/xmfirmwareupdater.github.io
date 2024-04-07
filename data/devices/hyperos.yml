@@ -162,6 +162,12 @@
   version: OS1.0.7.0.UMLCNXM
 - android: '14.0'
   codename: corot
+  date: '2024-04-07'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMLEUXM/fw_corot_miui_COROTEEAGlobal_OS1.0.6.0.UMLEUXM_5563b72367_14.0.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS1.0.6.0.UMLEUXM
+- android: '14.0'
+  codename: corot
   date: '2024-03-07'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMLEUXM/fw_corot_miui_COROTEEAGlobal_OS1.0.4.0.UMLEUXM_71d7dc436c_14.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
@@ -934,6 +940,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULTCNXM/fw_mayfly_miui_MAYFLY_OS1.0.3.0.ULTCNXM_2d7643fb8d_14.0.zip
   name: Xiaomi 12S
   version: OS1.0.3.0.ULTCNXM
+- android: '14.0'
+  codename: mayfly
+  date: '2024-04-07'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULTCNXM/fw_mayfly_miui_MAYFLY_OS1.0.5.0.ULTCNXM_e6a95688ff_14.0.zip
+  name: Xiaomi 12S
+  version: OS1.0.5.0.ULTCNXM
 - android: '13.0'
   codename: mona
   date: '2024-02-26'

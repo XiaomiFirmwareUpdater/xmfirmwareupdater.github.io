@@ -62,6 +62,8 @@ permalink: /hyperos/diting/
 <tr><td>Xiaomi 12T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.ULFRUXM</td><td>14.0</td><td>6.5 GB</td><td>2024-02-05</td><td><a href="/hyperos/diting/stable/OS1.0.1.0.ULFRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.ULFRUXM</td><td>14.0</td><td>5.2 GB</td><td>2024-02-27</td><td><a href="/hyperos/diting/stable/OS1.0.1.0.ULFRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULFTWXM</td><td>14.0</td><td>6.1 GB</td><td>2024-02-23</td><td><a href="/hyperos/diting/stable/OS1.0.2.0.ULFTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULFTWXM</td><td>14.0</td><td>5.2 GB</td><td>2024-02-01</td><td><a href="/hyperos/diting/stable/OS1.0.2.0.ULFTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.ULFTWXM</td><td>14.0</td><td>5.0 GB</td><td>2024-04-03</td><td><a href="/hyperos/diting/stable beta/OS1.0.3.0.ULFTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.ULFTRXM</td><td>14.0</td><td>5.0 GB</td><td>2024-02-27</td><td><a href="/hyperos/diting/stable beta/OS1.0.1.0.ULFTRXM/">Download</a></td></tr>
 
                 </tbody>
