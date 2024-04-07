@@ -52,7 +52,8 @@ permalink: /archive/hyperos/yudi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UMHCNXM</td><td>14.0</td><td>6.8 GB</td><td>2023-12-18</td><td><a href="/hyperos/yudi/stable/OS1.0.2.0.UMHCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.8.0.UMHCNXM</td><td>14.0</td><td>5.9 GB</td><td>2024-04-03</td><td><a href="/hyperos/yudi/stable beta/OS1.0.8.0.UMHCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UMHCNXM</td><td>14.0</td><td>6.8 GB</td><td>2023-12-18</td><td><a href="/hyperos/yudi/stable/OS1.0.2.0.UMHCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UMHCNXM</td><td>14.0</td><td>5.9 GB</td><td>2023-12-07</td><td><a href="/hyperos/yudi/stable/OS1.0.2.0.UMHCNXM/">Download</a></td></tr>
 
                 </tbody>
