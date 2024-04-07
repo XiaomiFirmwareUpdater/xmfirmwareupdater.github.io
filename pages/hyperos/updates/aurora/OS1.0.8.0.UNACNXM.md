@@ -56,22 +56,22 @@ permalink: /hyperos/aurora/stable/OS1.0.8.0.UNACNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.3 GB</h5>
+                    <h5><b>Size: </b>9.3 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-03-26</h5>
+                    <h5><b>Release Date: </b>2024-03-23</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_AURORA_OS1.0.8.0.UNACNXM_b427cc3ce7_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">aurora_images_OS1.0.8.0.UNACNXM_20240323.0000.00_14.0_cn_fb0e96fd48.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">b427cc3ce7a9e43343b739bbb18b2069</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">fb0e96fd48c01dd880bf782385c0ec0e</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.8.0.UNACNXM/miui-blockota-aurora-OS1.0.7.0.UNACNXM-OS1.0.8.0.UNACNXM-b6c825308a-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.8.0.UNACNXM/miui_AURORA_OS1.0.8.0.UNACNXM_b427cc3ce7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.8.0.UNACNXM/miui_AURORA_OS1.0.8.0.UNACNXM_b427cc3ce7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.8.0.UNACNXM/miui_AURORA_OS1.0.8.0.UNACNXM_b427cc3ce7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.8.0.UNACNXM/miui_AURORA_OS1.0.8.0.UNACNXM_b427cc3ce7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.8.0.UNACNXM/miui_AURORA_OS1.0.8.0.UNACNXM_b427cc3ce7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.8.0.UNACNXM/aurora_images_OS1.0.8.0.UNACNXM_20240323.0000.00_14.0_cn_fb0e96fd48.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.8.0.UNACNXM/aurora_images_OS1.0.8.0.UNACNXM_20240323.0000.00_14.0_cn_fb0e96fd48.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.8.0.UNACNXM/aurora_images_OS1.0.8.0.UNACNXM_20240323.0000.00_14.0_cn_fb0e96fd48.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.8.0.UNACNXM/aurora_images_OS1.0.8.0.UNACNXM_20240323.0000.00_14.0_cn_fb0e96fd48.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.8.0.UNACNXM/aurora_images_OS1.0.8.0.UNACNXM_20240323.0000.00_14.0_cn_fb0e96fd48.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#aurora_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/aurora/stable/OS1.0.8.0.UNACNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>9.3 GB</h5>
+                    <h5><b>Size: </b>7.3 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-03-23</h5>
+                    <h5><b>Release Date: </b>2024-03-26</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">aurora_images_OS1.0.8.0.UNACNXM_20240323.0000.00_14.0_cn_fb0e96fd48.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_AURORA_OS1.0.8.0.UNACNXM_b427cc3ce7_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">fb0e96fd48c01dd880bf782385c0ec0e</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">b427cc3ce7a9e43343b739bbb18b2069</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.8.0.UNACNXM/aurora_images_OS1.0.8.0.UNACNXM_20240323.0000.00_14.0_cn_fb0e96fd48.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.8.0.UNACNXM/aurora_images_OS1.0.8.0.UNACNXM_20240323.0000.00_14.0_cn_fb0e96fd48.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.8.0.UNACNXM/aurora_images_OS1.0.8.0.UNACNXM_20240323.0000.00_14.0_cn_fb0e96fd48.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.8.0.UNACNXM/aurora_images_OS1.0.8.0.UNACNXM_20240323.0000.00_14.0_cn_fb0e96fd48.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.8.0.UNACNXM/aurora_images_OS1.0.8.0.UNACNXM_20240323.0000.00_14.0_cn_fb0e96fd48.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.8.0.UNACNXM/miui-blockota-aurora-OS1.0.7.0.UNACNXM-OS1.0.8.0.UNACNXM-b6c825308a-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.8.0.UNACNXM/miui_AURORA_OS1.0.8.0.UNACNXM_b427cc3ce7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.8.0.UNACNXM/miui_AURORA_OS1.0.8.0.UNACNXM_b427cc3ce7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.8.0.UNACNXM/miui_AURORA_OS1.0.8.0.UNACNXM_b427cc3ce7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.8.0.UNACNXM/miui_AURORA_OS1.0.8.0.UNACNXM_b427cc3ce7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.8.0.UNACNXM/miui_AURORA_OS1.0.8.0.UNACNXM_b427cc3ce7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#aurora_2_changelog" data-toggle="collapse" role="button"

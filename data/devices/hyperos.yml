@@ -12,6 +12,12 @@
   version: OS1.0.2.0.UKWMIXM
 - android: '14.0'
   codename: agate
+  date: '2024-04-07'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UKWMIXM/fw_agate_miui_AGATEGlobal_OS1.0.4.0.UKWMIXM_86cb23ca40_14.0.zip
+  name: Xiaomi 11T
+  version: OS1.0.4.0.UKWMIXM
+- android: '14.0'
+  codename: agate
   date: '2024-02-02'
   download: https://bigota.d.miui.com/OS1.0.2.0.UKWEUXM/fw_agate_miui_AGATEEEAGlobal_OS1.0.2.0.UKWEUXM_adccc0e057_14.0.zip
   name: Xiaomi 11T
@@ -184,6 +190,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULCMIXM/fw_cupid_miui_CUPIDGlobal_OS1.0.2.0.ULCMIXM_9ea360288c_14.0.zip
   name: Xiaomi 12
   version: OS1.0.2.0.ULCMIXM
+- android: '14.0'
+  codename: cupid
+  date: '2024-04-07'
+  download: https://bigota.d.miui.com/OS1.0.6.0.ULCEUXM/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.6.0.ULCEUXM_5f3075c5f2_14.0.zip
+  name: Xiaomi 12
+  version: OS1.0.6.0.ULCEUXM
 - android: '14.0'
   codename: cupid
   date: '2024-03-05'
@@ -1126,6 +1138,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMZEUXM/fw_pipa_miui_PIPAEEAGlobal_OS1.0.3.0.UMZEUXM_a9b435c82f_14.0.zip
   name: Xiaomi Pad 6
   version: OS1.0.3.0.UMZEUXM
+- android: '14.0'
+  codename: pipa
+  date: '2024-04-07'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.5.0.UMZCNXM_aa9825df2f_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.5.0.UMZCNXM
 - android: '13.0'
   codename: pissarro
   date: '2024-03-28'
@@ -1204,6 +1222,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMSCNXM/fw_redwood_miui_REDWOOD_OS1.0.3.0.UMSCNXM_964b907423_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: OS1.0.3.0.UMSCNXM
+- android: '14.0'
+  codename: redwood
+  date: '2024-04-07'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMSINXM/fw_redwood_miui_REDWOODINGlobal_OS1.0.3.0.UMSINXM_c21a661eda_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.3.0.UMSINXM
 - android: '14.0'
   codename: redwood
   date: '2024-02-03'
@@ -1571,6 +1595,12 @@
   name: Redmi Note 12 5G/Note 12R Pro
   version: OS1.0.2.0.UMQEUXM
 - android: '14.0'
+  codename: sunstone
+  date: '2024-04-07'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.5.0.UMQEUXM_bd2e2be1f9_14.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: OS1.0.5.0.UMQEUXM
+- android: '14.0'
   codename: taoyao
   date: '2024-03-29'
   download: https://bigota.d.miui.com/OS1.0.5.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.5.0.ULIEUXM_992483824d_14.0.zip
@@ -1757,11 +1787,23 @@
   name: Xiaomi Pad 6 Max 14
   version: OS1.0.2.0.UMHCNXM
 - android: '14.0'
+  codename: yudi
+  date: '2024-04-07'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMHCNXM/fw_yudi_miui_YUDI_OS1.0.8.0.UMHCNXM_e30fc423ba_14.0.zip
+  name: Xiaomi Pad 6 Max 14
+  version: OS1.0.8.0.UMHCNXM
+- android: '14.0'
   codename: yuechu
   date: '2024-01-12'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMICNXM/fw_yuechu_miui_YUECHU_OS1.0.4.0.UMICNXM_14e7bad1d9_14.0.zip
   name: Xiaomi Civi 3
   version: OS1.0.4.0.UMICNXM
+- android: '14.0'
+  codename: yuechu
+  date: '2024-04-07'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMICNXM/fw_yuechu_miui_YUECHU_OS1.0.6.0.UMICNXM_4a6595abd5_14.0.zip
+  name: Xiaomi Civi 3
+  version: OS1.0.6.0.UMICNXM
 - android: '14.0'
   codename: yunluo
   date: '2024-01-26'
