@@ -259,15 +259,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2023-10-19'
+  date: '2024-04-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-19.10.2023/fw_ares_miui_ARESINGlobal_V14.0.5.0.TKJINXM_f82c4bfd01_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ares/fw_ares_miui_ARESINGlobal_V14.0.5.0.TKJINXM_f82c4bfd01_13.0.zip
-  filename: fw_ares_miui_ARESINGlobal_V14.0.5.0.TKJINXM_f82c4bfd01_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-08.04.2024/fw_ares_miui_ARESINGlobal_OS1.0.2.0.TKJINXM_b0c0791cac_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ares/fw_ares_miui_ARESINGlobal_OS1.0.2.0.TKJINXM_b0c0791cac_13.0.zip
+  filename: fw_ares_miui_ARESINGlobal_OS1.0.2.0.TKJINXM_b0c0791cac_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TKJINXM
+    miui: OS1.0.2.0.TKJINXM
 - branch: stable
   date: '2024-03-28'
   downloads:
@@ -3819,15 +3819,15 @@
     android: '13.0'
     miui: OS1.0.2.0.TKTEUXM
 - branch: stable
-  date: '2023-12-19'
+  date: '2024-04-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-19.12.2023/fw_pissarro_miui_PISSARROINGlobal_V14.0.6.0.TKTINXM_3bc1169eb4_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARROINGlobal_V14.0.6.0.TKTINXM_3bc1169eb4_13.0.zip
-  filename: fw_pissarro_miui_PISSARROINGlobal_V14.0.6.0.TKTINXM_3bc1169eb4_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-08.04.2024/fw_pissarro_miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: V14.0.6.0.TKTINXM
+    miui: OS1.0.2.0.TKTINXM
 - branch: stable
   date: '2020-09-21'
   downloads:
@@ -4519,15 +4519,15 @@
     android: '14.0'
     miui: OS1.0.2.0.UNGMIXM
 - branch: stable
-  date: '2024-03-20'
+  date: '2024-04-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphiren/releases/download/stable-20.03.2024/fw_sapphiren_miui_SAPPHIRENGlobal_V14.0.8.0.TNHMIXM_4cde87b50a_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sapphiren/fw_sapphiren_miui_SAPPHIRENGlobal_V14.0.8.0.TNHMIXM_4cde87b50a_13.0.zip
-  filename: fw_sapphiren_miui_SAPPHIRENGlobal_V14.0.8.0.TNHMIXM_4cde87b50a_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphiren/releases/download/stable-08.04.2024/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.2.0.UNHMIXM_5c2104f430_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sapphiren/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.2.0.UNHMIXM_5c2104f430_14.0.zip
+  filename: fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.2.0.UNHMIXM_5c2104f430_14.0.zip
   region: Global
   versions:
-    android: '13.0'
-    miui: V14.0.8.0.TNHMIXM
+    android: '14.0'
+    miui: OS1.0.2.0.UNHMIXM
 - branch: stable
   date: '2024-03-01'
   downloads:

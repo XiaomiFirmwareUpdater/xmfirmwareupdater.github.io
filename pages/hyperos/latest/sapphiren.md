@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 13 (sapphire) HyperOS Downloads
+title: Redmi Note 13 NFC (sapphiren) HyperOS Downloads
 layout: download
-name: Redmi Note 13
-codename: sapphire
-permalink: /archive/hyperos/sapphire/
+name: Redmi Note 13 NFC
+codename: sapphiren
+permalink: /hyperos/sapphiren/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/sapphire/">Redmi Note 13</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/sapphiren/">Redmi Note 13 NFC</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -20,17 +20,17 @@ permalink: /archive/hyperos/sapphire/
     </button>
 </div>
 
-### HyperOS Official ROMs Archive
+### Latest HyperOS Official ROMs
 *Note*: All files listed here are official untouched HyperOS ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-    <p class="card-text">This page shows all available downloads.
-     If you're looking for the latest releases check or other downloads check:</p>
-    <a href="/hyperos/sapphire/" class="card-link">Latest HyperOS</a>
-    <a href="/firmware/sapphire/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/sapphire/" class="card-link">Vendor Downloads</a>
+    <p class="card-text">This page shows the latest downloads only.
+     If you're looking for older releases or other downloads check:</p>
+    <a href="/archive/hyperos/sapphiren/" class="card-link">HyperOS Archive</a>
+    <a href="/firmware/sapphiren/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/sapphiren/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,10 +52,8 @@ permalink: /archive/hyperos/sapphire/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 13 NFC Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UNHMIXM</td><td>14.0</td><td>4.5 GB</td><td>2024-03-29</td><td><a href="/hyperos/sapphiren/stable/OS1.0.2.0.UNHMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 NFC Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UNHMIXM</td><td>14.0</td><td>7.1 GB</td><td>2024-03-16</td><td><a href="/hyperos/sapphiren/stable/OS1.0.2.0.UNHMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UNGMIXM</td><td>14.0</td><td>4.5 GB</td><td>2024-03-21</td><td><a href="/hyperos/sapphire/stable/OS1.0.2.0.UNGMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UNGMIXM</td><td>14.0</td><td>7.1 GB</td><td>2024-03-16</td><td><a href="/hyperos/sapphire/stable/OS1.0.2.0.UNGMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 13 NFC Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UNHMIXM</td><td>14.0</td><td>7.1 GB</td><td>2024-03-16</td><td><a href="/hyperos/sapphiren/stable/OS1.0.2.0.UNHMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 NFC Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UNHMIXM</td><td>14.0</td><td>4.5 GB</td><td>2024-03-29</td><td><a href="/hyperos/sapphiren/stable/OS1.0.2.0.UNHMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

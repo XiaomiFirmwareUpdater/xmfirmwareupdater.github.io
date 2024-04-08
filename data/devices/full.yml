@@ -4039,6 +4039,16 @@
     android: '11.0'
     miui: V12.5.6.0.RKJCNXM
 - branch: stable
+  date: '2024-04-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-08.04.2024/fw_ares_miui_ARESINGlobal_OS1.0.2.0.TKJINXM_b0c0791cac_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ares/fw_ares_miui_ARESINGlobal_OS1.0.2.0.TKJINXM_b0c0791cac_13.0.zip
+  filename: fw_ares_miui_ARESINGlobal_OS1.0.2.0.TKJINXM_b0c0791cac_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: OS1.0.2.0.TKJINXM
+- branch: stable
   date: '2021-08-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-07.08.2021/fw_ares_miui_ARES_V12.5.8.0.RKJCNXM_d866a4bd8b_11.0.zip
@@ -48719,6 +48729,16 @@
     android: '13.0'
     miui: V14.0.7.0.TKTEUXM
 - branch: stable
+  date: '2024-04-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-08.04.2024/fw_pissarro_miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: OS1.0.2.0.TKTINXM
+- branch: stable
   date: '2022-07-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-07.07.2022/fw_pissarro_miui_PISSARROINGlobal_V13.0.3.0.SKTINXM_3f79bd3fec_12.0.zip
@@ -56998,6 +57018,16 @@
   versions:
     android: '13.0'
     miui: V14.0.5.0.TNHEUXM
+- branch: stable
+  date: '2024-04-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphiren/releases/download/stable-08.04.2024/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.2.0.UNHMIXM_5c2104f430_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sapphiren/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.2.0.UNHMIXM_5c2104f430_14.0.zip
+  filename: fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.2.0.UNHMIXM_5c2104f430_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.UNHMIXM
 - branch: stable
   date: '2024-03-01'
   downloads:

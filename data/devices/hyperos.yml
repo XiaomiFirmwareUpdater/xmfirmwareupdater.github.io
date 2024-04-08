@@ -28,6 +28,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.TKJCNXM/fw_ares_miui_ARES_OS1.0.2.0.TKJCNXM_09a01a89e6_13.0.zip
   name: Redmi K40 Gaming/POCO F3 GT
   version: OS1.0.2.0.TKJCNXM
+- android: '13.0'
+  codename: ares
+  date: '2024-04-08'
+  download: https://bigota.d.miui.com/OS1.0.2.0.TKJINXM/fw_ares_miui_ARESINGlobal_OS1.0.2.0.TKJINXM_b0c0791cac_13.0.zip
+  name: Redmi K40 Gaming/POCO F3 GT
+  version: OS1.0.2.0.TKJINXM
 - android: '14.0'
   codename: aristotle
   date: '2024-03-28'
@@ -1170,6 +1176,12 @@
   version: OS1.0.2.0.TKTCNXM
 - android: '13.0'
   codename: pissarro
+  date: '2024-04-08'
+  download: https://bigota.d.miui.com/OS1.0.2.0.TKTINXM/fw_pissarro_miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: OS1.0.2.0.TKTINXM
+- android: '13.0'
+  codename: pissarro
   date: '2024-04-01'
   download: https://bigota.d.miui.com/OS1.0.2.0.TKTEUXM/fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.2.0.TKTEUXM_d172ed0f80_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
@@ -1354,6 +1366,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UNGMIXM/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.2.0.UNGMIXM_6ceb1dc76b_14.0.zip
   name: Redmi Note 13
   version: OS1.0.2.0.UNGMIXM
+- android: '14.0'
+  codename: sapphiren
+  date: '2024-04-08'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UNHMIXM/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.2.0.UNHMIXM_5c2104f430_14.0.zip
+  name: Redmi Note 13 NFC
+  version: OS1.0.2.0.UNHMIXM
 - android: '14.0'
   codename: sea
   date: '2024-02-22'

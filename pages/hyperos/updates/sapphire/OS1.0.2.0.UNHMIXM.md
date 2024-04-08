@@ -1,16 +1,16 @@
 ---
-title: Redmi Note 13 Global HyperOS OS1.0.2.0.UNGMIXM Update
+title: Redmi Note 13 NFC Global HyperOS OS1.0.2.0.UNHMIXM Update
 layout: download
-name: Redmi Note 13 Global
+name: Redmi Note 13 NFC Global
 codename: sapphire
-permalink: /hyperos/sapphire/stable/OS1.0.2.0.UNGMIXM/
+permalink: /hyperos/sapphire/stable/OS1.0.2.0.UNHMIXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/sapphire/">Redmi Note 13 Global</a></li>
-        <li class="breadcrumb-item active" aria-current="page">OS1.0.2.0.UNGMIXM</li>
+        <li class="breadcrumb-item"><a href="/hyperos/sapphire/">Redmi Note 13 NFC Global</a></li>
+        <li class="breadcrumb-item active" aria-current="page">OS1.0.2.0.UNHMIXM</li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -21,8 +21,8 @@ permalink: /hyperos/sapphire/stable/OS1.0.2.0.UNGMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.2.0.UNGMIXM Stable Official Update for Redmi Note 13 Global (sapphire)</h3>
-    <h5>This page shows the OS1.0.2.0.UNGMIXM update only. If you're looking for other updates check
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.2.0.UNHMIXM Stable Official Update for Redmi Note 13 NFC Global (sapphire)</h3>
+    <h5>This page shows the OS1.0.2.0.UNHMIXM update only. If you're looking for other updates check
         <a href="/hyperos/sapphire/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
         It's not owned, modified or edited by Xiaomi Firmware Updater.</p>
@@ -44,13 +44,13 @@ permalink: /hyperos/sapphire/stable/OS1.0.2.0.UNGMIXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 13 Global</h5>
+                    <h5><b>Device: </b>Redmi Note 13 NFC Global</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Codename: </b> <a href="/hyperos/sapphire/" target="_blank">sapphire</a> </h5>
+                    <h5><b>Codename: </b> <a href="/hyperos/sapphiren/" target="_blank">sapphiren</a> </h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS1.0.2.0.UNGMIXM</h5>
+                    <h5><b>Version: </b>OS1.0.2.0.UNHMIXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Branch: </b>Stable</h5>
@@ -65,19 +65,19 @@ permalink: /hyperos/sapphire/stable/OS1.0.2.0.UNGMIXM/
                     <h5><b>Release Date: </b>2024-03-16</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sapphire_global_images_OS1.0.2.0.UNGMIXM_20240316.0000.00_14.0_global_7a371e07e4.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sapphiren_global_images_OS1.0.2.0.UNHMIXM_20240316.0000.00_14.0_global_acb183f5f3.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">7a371e07e4e636085416aee10b7aadcf</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">acb183f5f38f750087fc2aaf6222a549</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.2.0.UNGMIXM/sapphire_global_images_OS1.0.2.0.UNGMIXM_20240316.0000.00_14.0_global_7a371e07e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.2.0.UNGMIXM/sapphire_global_images_OS1.0.2.0.UNGMIXM_20240316.0000.00_14.0_global_7a371e07e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.2.0.UNGMIXM/sapphire_global_images_OS1.0.2.0.UNGMIXM_20240316.0000.00_14.0_global_7a371e07e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.UNGMIXM/sapphire_global_images_OS1.0.2.0.UNGMIXM_20240316.0000.00_14.0_global_7a371e07e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.2.0.UNGMIXM/sapphire_global_images_OS1.0.2.0.UNGMIXM_20240316.0000.00_14.0_global_7a371e07e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.2.0.UNHMIXM/sapphiren_global_images_OS1.0.2.0.UNHMIXM_20240316.0000.00_14.0_global_acb183f5f3.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.2.0.UNHMIXM/sapphiren_global_images_OS1.0.2.0.UNHMIXM_20240316.0000.00_14.0_global_acb183f5f3.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.2.0.UNHMIXM/sapphiren_global_images_OS1.0.2.0.UNHMIXM_20240316.0000.00_14.0_global_acb183f5f3.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.UNHMIXM/sapphiren_global_images_OS1.0.2.0.UNHMIXM_20240316.0000.00_14.0_global_acb183f5f3.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.2.0.UNHMIXM/sapphiren_global_images_OS1.0.2.0.UNHMIXM_20240316.0000.00_14.0_global_acb183f5f3.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#sapphire_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="sapphire_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#sapphiren_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="sapphiren_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="sapphire_1_changelog">
+                    <div class="collapse" id="sapphiren_1_changelog">
                         <p id="changelog_text">[System]<br>Updated Android Security Patch to March 2024. Increased system security.<br>[Vibrant aesthetics]<br>Global aesthetics draw inspiration from life itself and change the way your device looks and feels<br>New animation language makes interactions with your device wholesome and intuitive<br>Natural colors bring vibrancy and vitality to every corner of your device<br>Our all-new system font supports multiple writing systems<br>Redesigned Weather app not only gives you important information, but also shows you how it feels outside<br>Notifications are focused on important information, presenting it to you in the most efficient way<br>New Home screen icons refresh familiar items with new shapes and colors<br>Multitasking is now even more straightforward and convenient with an upgraded multi-window interface</p>
                     </div>
                 </li>
@@ -87,13 +87,13 @@ permalink: /hyperos/sapphire/stable/OS1.0.2.0.UNGMIXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 13 Global</h5>
+                    <h5><b>Device: </b>Redmi Note 13 NFC Global</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Codename: </b> <a href="/hyperos/sapphire/" target="_blank">sapphire</a> </h5>
+                    <h5><b>Codename: </b> <a href="/hyperos/sapphiren/" target="_blank">sapphiren</a> </h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS1.0.2.0.UNGMIXM</h5>
+                    <h5><b>Version: </b>OS1.0.2.0.UNHMIXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Branch: </b>Stable</h5>
@@ -105,22 +105,22 @@ permalink: /hyperos/sapphire/stable/OS1.0.2.0.UNGMIXM/
                     <h5><b>Size: </b>4.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-03-21</h5>
+                    <h5><b>Release Date: </b>2024-03-29</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_SAPPHIREGlobal_OS1.0.2.0.UNGMIXM_6ceb1dc76b_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_SAPPHIRENGlobal_OS1.0.2.0.UNHMIXM_5c2104f430_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">6ceb1dc76b83688d0cf3a85a9999bb60</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">5c2104f4309a8ab318116be78e1706ab</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.2.0.UNGMIXM/miui_SAPPHIREGlobal_OS1.0.2.0.UNGMIXM_6ceb1dc76b_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.2.0.UNGMIXM/miui_SAPPHIREGlobal_OS1.0.2.0.UNGMIXM_6ceb1dc76b_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.2.0.UNGMIXM/miui_SAPPHIREGlobal_OS1.0.2.0.UNGMIXM_6ceb1dc76b_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.UNGMIXM/miui_SAPPHIREGlobal_OS1.0.2.0.UNGMIXM_6ceb1dc76b_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.2.0.UNGMIXM/miui_SAPPHIREGlobal_OS1.0.2.0.UNGMIXM_6ceb1dc76b_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.2.0.UNHMIXM/miui_SAPPHIRENGlobal_OS1.0.2.0.UNHMIXM_5c2104f430_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.2.0.UNHMIXM/miui_SAPPHIRENGlobal_OS1.0.2.0.UNHMIXM_5c2104f430_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.2.0.UNHMIXM/miui_SAPPHIRENGlobal_OS1.0.2.0.UNHMIXM_5c2104f430_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.UNHMIXM/miui_SAPPHIRENGlobal_OS1.0.2.0.UNHMIXM_5c2104f430_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.2.0.UNHMIXM/miui_SAPPHIRENGlobal_OS1.0.2.0.UNHMIXM_5c2104f430_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#sapphire_2_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="sapphire_2_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#sapphiren_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="sapphiren_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="sapphire_2_changelog">
+                    <div class="collapse" id="sapphiren_2_changelog">
                         <p id="changelog_text">[System]<br>Updated Android Security Patch to March 2024. Increased system security.<br>[Vibrant aesthetics]<br>Global aesthetics draw inspiration from life itself and change the way your device looks and feels<br>New animation language makes interactions with your device wholesome and intuitive<br>Natural colors bring vibrancy and vitality to every corner of your device<br>Our all-new system font supports multiple writing systems<br>Redesigned Weather app not only gives you important information, but also shows you how it feels outside<br>Notifications are focused on important information, presenting it to you in the most efficient way<br>New Home screen icons refresh familiar items with new shapes and colors<br>Multitasking is now even more straightforward and convenient with an upgraded multi-window interface</p>
                     </div>
                 </li>
