@@ -738,6 +738,12 @@
   version: OS1.0.1.0.ULJCNXM
 - android: '14.0'
   codename: ingres
+  date: '2024-04-09'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULJCNXM/fw_ingres_miui_INGRES_OS1.0.2.0.ULJCNXM_b4d2b9c601_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.2.0.ULJCNXM
+- android: '14.0'
+  codename: ingres
   date: '2024-03-01'
   download: https://bigota.d.miui.com/OS1.0.1.0.ULJEUXM/fw_ingres_miui_INGRESEEAGlobal_OS1.0.1.0.ULJEUXM_ababc8e39e_14.0.zip
   name: Redmi K50G/POCO F4 GT
