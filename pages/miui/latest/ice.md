@@ -54,10 +54,10 @@ permalink: /miui/ice/
                 <tbody>
                 <tr><td>Redmi A1 / POCO C50 EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.15.0.SGMEUXM</td><td>12.0</td><td>2.2 GB</td><td>2024-01-03</td><td><a href="/miui/ice/stable/V13.0.15.0.SGMEUXM/">Download</a></td></tr>
 <tr><td>Redmi A1 / POCO C50 EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.15.0.SGMEUXM</td><td>12.0</td><td>1.6 GB</td><td>2024-01-11</td><td><a href="/miui/ice/stable/V13.0.15.0.SGMEUXM/">Download</a></td></tr>
-<tr><td>Redmi A1 / POCO C50 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.12.0.SGMEUXM</td><td>12.0</td><td>1.6 GB</td><td>2023-06-13</td><td><a href="/miui/ice/stable beta/V13.0.12.0.SGMEUXM/">Download</a></td></tr>
+<tr><td>Redmi A1 / POCO C50 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.16.0.SGMEUXM</td><td>12.0</td><td>1.5 GB</td><td>2024-04-09</td><td><a href="/miui/ice/stable beta/V13.0.16.0.SGMEUXM/">Download</a></td></tr>
 <tr><td>Redmi A1 / POCO C50 Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.20.0.SGMMIXM</td><td>12.0</td><td>2.2 GB</td><td>2024-01-03</td><td><a href="/miui/ice/stable/V13.0.20.0.SGMMIXM/">Download</a></td></tr>
 <tr><td>Redmi A1 / POCO C50 Global</td><td>Stable</td><td>Recovery</td><td>V13.0.20.0.SGMMIXM</td><td>12.0</td><td>1.6 GB</td><td>2024-01-11</td><td><a href="/miui/ice/stable/V13.0.20.0.SGMMIXM/">Download</a></td></tr>
-<tr><td>Redmi A1 / POCO C50 Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.14.0.SGMMIXM</td><td>12.0</td><td>1.6 GB</td><td>2022-12-06</td><td><a href="/miui/ice/stable beta/V13.0.14.0.SGMMIXM/">Download</a></td></tr>
+<tr><td>Redmi A1 / POCO C50 Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.22.0.SGMMIXM</td><td>12.0</td><td>1.5 GB</td><td>2024-04-09</td><td><a href="/miui/ice/stable beta/V13.0.22.0.SGMMIXM/">Download</a></td></tr>
 <tr><td>Redmi A1 / POCO C50 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.12.0.SGMIDXM</td><td>12.0</td><td>2.1 GB</td><td>2024-02-23</td><td><a href="/miui/ice/stable/V13.0.12.0.SGMIDXM/">Download</a></td></tr>
 <tr><td>Redmi A1 / POCO C50 Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.12.0.SGMIDXM</td><td>12.0</td><td>1.5 GB</td><td>2024-03-15</td><td><a href="/miui/ice/stable/V13.0.12.0.SGMIDXM/">Download</a></td></tr>
 <tr><td>Redmi A1 / POCO C50 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.9.0.SGMIDXM</td><td>12.0</td><td>1.5 GB</td><td>2023-06-15</td><td><a href="/miui/ice/stable beta/V13.0.9.0.SGMIDXM/">Download</a></td></tr>
