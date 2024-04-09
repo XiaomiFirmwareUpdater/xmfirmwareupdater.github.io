@@ -52,7 +52,8 @@ permalink: /archive/hyperos/vida/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 Pro 4G India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.TGDINXM</td><td>13.0</td><td>3.8 GB</td><td>2024-03-05</td><td><a href="/hyperos/vida/stable beta/OS1.0.3.0.TGDINXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 Pro 4G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.TGDINXM</td><td>13.0</td><td>3.8 GB</td><td>2024-03-05</td><td><a href="/hyperos/vida/stable/OS1.0.3.0.TGDINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 4G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.TGDINXM</td><td>13.0</td><td>5.0 GB</td><td>2024-03-01</td><td><a href="/hyperos/vida/stable/OS1.0.3.0.TGDINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

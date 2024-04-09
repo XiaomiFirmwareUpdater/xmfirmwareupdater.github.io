@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 09 Apr 2024 07:38:25 </lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 13:06:39 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS1.0.6.0.UNRMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A1/POCO C50/A1+ (ice) - V13.0.14.0.SGMINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ice/</link>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K50G/POCO F4 GT (ingres) - OS1.0.2.0.ULJCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ingres/</link>
@@ -572,11 +582,6 @@
             <pubDate>Tue, 12 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS1.0.4.0.UNRMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
-            <pubDate>Tue, 12 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 12 (fire) - OS1.0.3.0.UMXMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fire/</link>
             <pubDate>Mon, 11 Mar 2024 00:00:00 </pubDate>
@@ -1038,11 +1043,6 @@
         </item>
         <item>
             <title>Redmi A1/POCO C50/A1+ (ice) - V13.0.15.0.SGMEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ice/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A1/POCO C50/A1+ (ice) - V13.0.13.0.SGMINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ice/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>

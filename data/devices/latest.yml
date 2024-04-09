@@ -1709,15 +1709,15 @@
     android: '13.0'
     miui: V14.0.4.0.TGPINXM
 - branch: stable
-  date: '2024-03-12'
+  date: '2024-04-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-12.03.2024/fw_garnet_miui_GARNETGlobal_OS1.0.4.0.UNRMIXM_8ea6bb5539_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/garnet/fw_garnet_miui_GARNETGlobal_OS1.0.4.0.UNRMIXM_8ea6bb5539_14.0.zip
-  filename: fw_garnet_miui_GARNETGlobal_OS1.0.4.0.UNRMIXM_8ea6bb5539_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-09.04.2024/fw_garnet_miui_GARNETGlobal_OS1.0.6.0.UNRMIXM_047bdb5ebf_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/garnet/fw_garnet_miui_GARNETGlobal_OS1.0.6.0.UNRMIXM_047bdb5ebf_14.0.zip
+  filename: fw_garnet_miui_GARNETGlobal_OS1.0.6.0.UNRMIXM_047bdb5ebf_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.UNRMIXM
+    miui: OS1.0.6.0.UNRMIXM
 - branch: stable
   date: '2024-03-14'
   downloads:
@@ -2169,15 +2169,15 @@
     android: '12.0'
     miui: V13.0.15.0.SGMEUXM
 - branch: stable
-  date: '2024-01-12'
+  date: '2024-04-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-12.01.2024/fw_ice_miui_ICEINGlobal_V13.0.13.0.SGMINXM_3998f2be93_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEINGlobal_V13.0.13.0.SGMINXM_3998f2be93_12.0.zip
-  filename: fw_ice_miui_ICEINGlobal_V13.0.13.0.SGMINXM_3998f2be93_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-09.04.2024/fw_ice_miui_ICEINGlobal_V13.0.14.0.SGMINXM_f83948e162_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEINGlobal_V13.0.14.0.SGMINXM_f83948e162_12.0.zip
+  filename: fw_ice_miui_ICEINGlobal_V13.0.14.0.SGMINXM_f83948e162_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.13.0.SGMINXM
+    miui: V13.0.14.0.SGMINXM
 - branch: stable
   date: '2019-07-29'
   downloads:

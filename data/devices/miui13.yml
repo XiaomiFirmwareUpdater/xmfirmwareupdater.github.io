@@ -2460,6 +2460,12 @@
   version: V13.0.7.0.SGMEUXM
 - android: '12.0'
   codename: ice
+  date: '2024-04-09'
+  download: https://bigota.d.miui.com/V13.0.14.0.SGMINXM/fw_ice_miui_ICEINGlobal_V13.0.14.0.SGMINXM_f83948e162_12.0.zip
+  name: Redmi A1/POCO C50/A1+
+  version: V13.0.14.0.SGMINXM
+- android: '12.0'
+  codename: ice
   date: '2023-01-09'
   download: https://bigota.d.miui.com/V13.0.15.0.SGMMIXM/fw_ice_miui_ICEGlobal_V13.0.15.0.SGMMIXM_4ce69d0051_12.0.zip
   name: Redmi A1/POCO C50/A1+
