@@ -52,7 +52,8 @@ permalink: /archive/miui/blue/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi A3 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V816.0.4.0.UGRIDXM</td><td>14.0</td><td>2.8 GB</td><td>2024-03-14</td><td><a href="/miui/blue/stable/V816.0.4.0.UGRIDXM/">Download</a></td></tr>
+                <tr><td>Redmi A3 Global</td><td>Stable</td><td>Fastboot</td><td>V816.0.5.0.UGRMIXM</td><td>14.0</td><td>2.9 GB</td><td>2024-03-28</td><td><a href="/miui/blue/stable/V816.0.5.0.UGRMIXM/">Download</a></td></tr>
+<tr><td>Redmi A3 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V816.0.4.0.UGRIDXM</td><td>14.0</td><td>2.8 GB</td><td>2024-03-14</td><td><a href="/miui/blue/stable/V816.0.4.0.UGRIDXM/">Download</a></td></tr>
 <tr><td>POCO C61/Redmi A3 India</td><td>Stable</td><td>Fastboot</td><td>V816.0.4.0.UGRINXM</td><td>14.0</td><td>2.5 GB</td><td>2024-03-14</td><td><a href="/miui/blue/stable/V816.0.4.0.UGRINXM/">Download</a></td></tr>
 <tr><td>Redmi A3 Global</td><td>Stable</td><td>Fastboot</td><td>V816.0.4.0.UGRMIXM</td><td>14.0</td><td>2.9 GB</td><td>2024-03-12</td><td><a href="/miui/blue/stable/V816.0.4.0.UGRMIXM/">Download</a></td></tr>
 <tr><td>Redmi A3 EEA</td><td>Stable</td><td>Fastboot</td><td>V816.0.4.0.UGREUXM</td><td>14.0</td><td>3.0 GB</td><td>2024-02-27</td><td><a href="/miui/blue/stable/V816.0.4.0.UGREUXM/">Download</a></td></tr>
