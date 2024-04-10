@@ -29,22 +29,22 @@
     android: '11.0'
     miui: 22.3.23
 - branch: stable
-  date: '2024-01-29'
+  date: '2024-04-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-29.01.2024/fw_nabu_miui_NABUEEAGlobal_V14.0.9.0.TKXEUXM_1d4e4051dd_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nabu/fw_nabu_miui_NABUEEAGlobal_V14.0.9.0.TKXEUXM_1d4e4051dd_13.0.zip
-  filename: fw_nabu_miui_NABUEEAGlobal_V14.0.9.0.TKXEUXM_1d4e4051dd_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-10.04.2024/fw_nabu_miui_NABUEEAGlobal_OS1.0.1.0.TKXEUXM_3c8ef12514_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nabu/fw_nabu_miui_NABUEEAGlobal_OS1.0.1.0.TKXEUXM_3c8ef12514_13.0.zip
+  filename: fw_nabu_miui_NABUEEAGlobal_OS1.0.1.0.TKXEUXM_3c8ef12514_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.9.0.TKXEUXM
+    miui: OS1.0.1.0.TKXEUXM
 - branch: stable
-  date: '2023-11-11'
+  date: '2024-04-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-11.11.2023/fw_nabu_miui_NABUINGlobal_V14.0.7.0.TKXINXM_fc0175f53f_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nabu/fw_nabu_miui_NABUINGlobal_V14.0.7.0.TKXINXM_fc0175f53f_13.0.zip
-  filename: fw_nabu_miui_NABUINGlobal_V14.0.7.0.TKXINXM_fc0175f53f_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-10.04.2024/fw_nabu_miui_NABUINGlobal_OS1.0.4.0.TKXINXM_1ebb6aa52d_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nabu/fw_nabu_miui_NABUINGlobal_OS1.0.4.0.TKXINXM_1ebb6aa52d_13.0.zip
+  filename: fw_nabu_miui_NABUINGlobal_OS1.0.4.0.TKXINXM_1ebb6aa52d_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: V14.0.7.0.TKXINXM
+    miui: OS1.0.4.0.TKXINXM

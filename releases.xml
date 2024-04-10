@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 10 Apr 2024 00:36:23 </lastBuildDate>
+        <lastBuildDate>Wed, 10 Apr 2024 07:30:45 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Pad 5 (nabu) - OS1.0.1.0.TKXEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/nabu/</link>
+            <pubDate>Wed, 10 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 5 (nabu) - OS1.0.4.0.TKXINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/nabu/</link>
+            <pubDate>Wed, 10 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12T (plato) - OS1.0.9.0.ULQEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/plato/</link>
+            <pubDate>Wed, 10 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS1.0.6.0.UNRMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
@@ -902,11 +917,6 @@
             <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12T (plato) - OS1.0.8.0.ULQEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/plato/</link>
-            <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 4G (tapas) - OS1.0.4.0.UMTMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/tapas/</link>
             <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
@@ -984,11 +994,6 @@
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.1.0.UCVCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Mon, 29 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 5 (nabu) - V14.0.9.0.TKXEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nabu/</link>
             <pubDate>Mon, 29 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -1210,11 +1215,6 @@
             <title>Redmi Note 9T (cannong) - V14.0.4.0.SJEEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/cannong/</link>
             <pubDate>Mon, 13 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 5 (nabu) - V14.0.7.0.TKXINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nabu/</link>
-            <pubDate>Sat, 11 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi 11 Lite 4G (courbet) - V14.0.3.0.TKQEUXM</title>

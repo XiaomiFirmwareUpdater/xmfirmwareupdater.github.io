@@ -53,8 +53,9 @@ permalink: /hyperos/redwood/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Note 12 Pro Speed China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMSCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-02-02</td><td><a href="/hyperos/redwood/stable/OS1.0.4.0.UMSCNXM/">Download</a></td></tr>
-<tr><td>POCO X5 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UMSEUXM</td><td>14.0</td><td>7.2 GB</td><td>2024-02-02</td><td><a href="/hyperos/redwood/stable/OS1.0.2.0.UMSEUXM/">Download</a></td></tr>
-<tr><td>POCO X5 Pro 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UMSEUXM</td><td>14.0</td><td>4.9 GB</td><td>2024-03-25</td><td><a href="/hyperos/redwood/stable beta/OS1.0.3.0.UMSEUXM/">Download</a></td></tr>
+<tr><td>POCO X5 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UMSEUXM</td><td>14.0</td><td>7.2 GB</td><td>2024-03-04</td><td><a href="/hyperos/redwood/stable/OS1.0.3.0.UMSEUXM/">Download</a></td></tr>
+<tr><td>POCO X5 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UMSEUXM</td><td>14.0</td><td>4.9 GB</td><td>2024-03-25</td><td><a href="/hyperos/redwood/stable/OS1.0.3.0.UMSEUXM/">Download</a></td></tr>
+<tr><td>POCO X5 Pro 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UMSMIXM</td><td>14.0</td><td>7.6 GB</td><td>2024-01-31</td><td><a href="/hyperos/redwood/stable/OS1.0.2.0.UMSMIXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UMSMIXM</td><td>14.0</td><td>5.0 GB</td><td>2024-03-25</td><td><a href="/hyperos/redwood/stable beta/OS1.0.3.0.UMSMIXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Indonesia</td><td>Stable Beta</td><td>Fastboot</td><td>OS1.0.2.0.UMSIDXM</td><td>14.0</td><td>7.0 GB</td><td>2024-02-02</td><td><a href="/hyperos/redwood/stable beta/OS1.0.2.0.UMSIDXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UMSIDXM</td><td>14.0</td><td>4.9 GB</td><td>2024-04-02</td><td><a href="/hyperos/redwood/stable beta/OS1.0.3.0.UMSIDXM/">Download</a></td></tr>

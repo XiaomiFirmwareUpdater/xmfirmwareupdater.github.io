@@ -1050,6 +1050,18 @@
   version: OS1.0.1.0.TKXMIXM
 - android: '13.0'
   codename: nabu
+  date: '2024-04-10'
+  download: https://bigota.d.miui.com/OS1.0.1.0.TKXEUXM/fw_nabu_miui_NABUEEAGlobal_OS1.0.1.0.TKXEUXM_3c8ef12514_13.0.zip
+  name: Xiaomi Pad 5
+  version: OS1.0.1.0.TKXEUXM
+- android: '13.0'
+  codename: nabu
+  date: '2024-04-10'
+  download: https://bigota.d.miui.com/OS1.0.4.0.TKXINXM/fw_nabu_miui_NABUINGlobal_OS1.0.4.0.TKXINXM_1ebb6aa52d_13.0.zip
+  name: Xiaomi Pad 5
+  version: OS1.0.4.0.TKXINXM
+- android: '13.0'
+  codename: nabu
   date: '2024-03-04'
   download: https://bigota.d.miui.com/OS1.0.2.0.TKXCNXM/fw_nabu_miui_NABU_OS1.0.2.0.TKXCNXM_b0648de1cc_13.0.zip
   name: Xiaomi Pad 5
@@ -1228,6 +1240,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.ULQMIXM/fw_plato_miui_PLATOGlobal_OS1.0.5.0.ULQMIXM_9c5350230d_14.0.zip
   name: Xiaomi 12T
   version: OS1.0.5.0.ULQMIXM
+- android: '14.0'
+  codename: plato
+  date: '2024-04-10'
+  download: https://bigota.d.miui.com/OS1.0.9.0.ULQEUXM/fw_plato_miui_PLATOEEAGlobal_OS1.0.9.0.ULQEUXM_cd7fb9c2c0_14.0.zip
+  name: Xiaomi 12T
+  version: OS1.0.9.0.ULQEUXM
 - android: '14.0'
   codename: plato
   date: '2024-04-01'
