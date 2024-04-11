@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 11 Apr 2024 00:36:17 </lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 07:36:00 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 (houji) - OS1.0.7.0.UNCINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Thu, 11 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K40S/POCO F4 (munch) - V14.0.10.0.TLMINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/munch/</link>
@@ -649,11 +654,6 @@
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.3.0.UCVMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Wed, 06 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 (houji) - OS1.0.6.0.UNCINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
             <pubDate>Wed, 06 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>

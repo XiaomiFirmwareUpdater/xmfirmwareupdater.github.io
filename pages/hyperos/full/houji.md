@@ -52,7 +52,10 @@ permalink: /archive/hyperos/houji/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 14 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UNCTWXM</td><td>14.0</td><td>5.8 GB</td><td>2024-04-08</td><td><a href="/hyperos/houji/stable beta/OS1.0.4.0.UNCTWXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 14 India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.UNCINXM</td><td>14.0</td><td>5.8 GB</td><td>2024-04-11</td><td><a href="/hyperos/houji/stable beta/OS1.0.7.0.UNCINXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.UNCIDXM</td><td>14.0</td><td>5.9 GB</td><td>2024-04-11</td><td><a href="/hyperos/houji/stable beta/OS1.0.5.0.UNCIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UNCRUXM</td><td>14.0</td><td>5.8 GB</td><td>2024-04-11</td><td><a href="/hyperos/houji/stable beta/OS1.0.3.0.UNCRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UNCTWXM</td><td>14.0</td><td>5.8 GB</td><td>2024-04-08</td><td><a href="/hyperos/houji/stable beta/OS1.0.4.0.UNCTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UNCMIXM</td><td>14.0</td><td>5.9 GB</td><td>2024-03-26</td><td><a href="/hyperos/houji/stable/OS1.0.6.0.UNCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UNCMIXM</td><td>14.0</td><td>8.1 GB</td><td>2024-02-29</td><td><a href="/hyperos/houji/stable/OS1.0.6.0.UNCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.35.0.UNCCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-03-26</td><td><a href="/hyperos/houji/stable/OS1.0.35.0.UNCCNXM/">Download</a></td></tr>
