@@ -52,7 +52,8 @@ permalink: /archive/hyperos/gale/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 13C / POCO C65 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UGPMIXM</td><td>14.0</td><td>4.3 GB</td><td>2024-03-22</td><td><a href="/hyperos/gale/stable beta/OS1.0.1.0.UGPMIXM/">Download</a></td></tr>
+                <tr><td>Redmi 13C / POCO C65 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UGPMIXM</td><td>14.0</td><td>4.3 GB</td><td>2024-03-22</td><td><a href="/hyperos/gale/stable/OS1.0.1.0.UGPMIXM/">Download</a></td></tr>
+<tr><td>Redmi 13C / POCO C65 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UGPMIXM</td><td>14.0</td><td>6.8 GB</td><td>2024-03-04</td><td><a href="/hyperos/gale/stable/OS1.0.1.0.UGPMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

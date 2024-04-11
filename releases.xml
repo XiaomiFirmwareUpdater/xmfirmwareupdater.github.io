@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 11 Apr 2024 07:36:00 </lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 18:40:27 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 13C/POCO C65 (gale) - V14.0.9.0.TGPEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/gale/</link>
+            <pubDate>Thu, 11 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 14 (houji) - OS1.0.7.0.UNCINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Thu, 11 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12S Pro (unicorn) - OS1.0.4.0.ULECNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/unicorn/</link>
             <pubDate>Thu, 11 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -947,11 +957,6 @@
             <pubDate>Sat, 03 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 13C/POCO C65 (gale) - V14.0.7.0.TGPEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/gale/</link>
-            <pubDate>Sat, 03 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 13C/POCO C65 (gale) - V14.0.4.0.TGPINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/gale/</link>
             <pubDate>Sat, 03 Feb 2024 00:00:00 </pubDate>
@@ -979,11 +984,6 @@
         <item>
             <title>Xiaomi Pad 6 Pro (liuqin) - OS1.0.4.0.UMYCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/liuqin/</link>
-            <pubDate>Thu, 01 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12S Pro (unicorn) - OS1.0.3.0.ULECNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/unicorn/</link>
             <pubDate>Thu, 01 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>

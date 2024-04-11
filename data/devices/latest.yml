@@ -1689,15 +1689,15 @@
     android: '14.0'
     miui: OS1.0.1.0.UGPMIXM
 - branch: stable
-  date: '2024-02-03'
+  date: '2024-04-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-03.02.2024/fw_gale_miui_GALEEEAGlobal_V14.0.7.0.TGPEUXM_4195f680e2_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/gale/fw_gale_miui_GALEEEAGlobal_V14.0.7.0.TGPEUXM_4195f680e2_13.0.zip
-  filename: fw_gale_miui_GALEEEAGlobal_V14.0.7.0.TGPEUXM_4195f680e2_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-11.04.2024/fw_gale_miui_GALEEEAGlobal_V14.0.9.0.TGPEUXM_7a518fb7a0_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/gale/fw_gale_miui_GALEEEAGlobal_V14.0.9.0.TGPEUXM_7a518fb7a0_13.0.zip
+  filename: fw_gale_miui_GALEEEAGlobal_V14.0.9.0.TGPEUXM_7a518fb7a0_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.7.0.TGPEUXM
+    miui: V14.0.9.0.TGPEUXM
 - branch: stable
   date: '2024-02-03'
   downloads:
@@ -5269,15 +5269,15 @@
     android: '13.0'
     miui: V14.0.6.0.TJBINXM
 - branch: stable
-  date: '2024-02-01'
+  date: '2024-04-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_unicorn/releases/download/stable-01.02.2024/fw_unicorn_miui_UNICORN_OS1.0.3.0.ULECNXM_fc52202e28_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/unicorn/fw_unicorn_miui_UNICORN_OS1.0.3.0.ULECNXM_fc52202e28_14.0.zip
-  filename: fw_unicorn_miui_UNICORN_OS1.0.3.0.ULECNXM_fc52202e28_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_unicorn/releases/download/stable-11.04.2024/fw_unicorn_miui_UNICORN_OS1.0.4.0.ULECNXM_5b10ec444c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/unicorn/fw_unicorn_miui_UNICORN_OS1.0.4.0.ULECNXM_5b10ec444c_14.0.zip
+  filename: fw_unicorn_miui_UNICORN_OS1.0.4.0.ULECNXM_5b10ec444c_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.3.0.ULECNXM
+    miui: OS1.0.4.0.ULECNXM
 - branch: stable
   date: '2021-04-12'
   downloads:
