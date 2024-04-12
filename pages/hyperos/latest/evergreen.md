@@ -52,7 +52,8 @@ permalink: /hyperos/evergreen/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO M4 Pro 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.TGBEUXM</td><td>13.0</td><td>3.9 GB</td><td>2024-04-03</td><td><a href="/hyperos/evergreen/stable beta/OS1.0.1.0.TGBEUXM/">Download</a></td></tr>
+                <tr><td>POCO M4 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.TGBEUXM</td><td>13.0</td><td>5.8 GB</td><td>2024-02-29</td><td><a href="/hyperos/evergreen/stable/OS1.0.1.0.TGBEUXM/">Download</a></td></tr>
+<tr><td>POCO M4 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TGBEUXM</td><td>13.0</td><td>3.9 GB</td><td>2024-04-03</td><td><a href="/hyperos/evergreen/stable/OS1.0.1.0.TGBEUXM/">Download</a></td></tr>
 <tr><td>POCO M4 Pro 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.TGBMIXM</td><td>13.0</td><td>6.1 GB</td><td>2024-02-26</td><td><a href="/hyperos/evergreen/stable/OS1.0.1.0.TGBMIXM/">Download</a></td></tr>
 <tr><td>POCO M4 Pro 5G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TGBMIXM</td><td>13.0</td><td>3.9 GB</td><td>2024-03-25</td><td><a href="/hyperos/evergreen/stable/OS1.0.1.0.TGBMIXM/">Download</a></td></tr>
 <tr><td>POCO M4 Pro 5G Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.TGBRUXM</td><td>13.0</td><td>3.9 GB</td><td>2024-04-07</td><td><a href="/hyperos/evergreen/stable beta/OS1.0.1.0.TGBRUXM/">Download</a></td></tr>
