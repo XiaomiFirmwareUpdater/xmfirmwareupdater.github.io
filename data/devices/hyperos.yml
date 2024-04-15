@@ -210,6 +210,12 @@
   version: OS1.0.2.0.ULCMIXM
 - android: '14.0'
   codename: cupid
+  date: '2024-04-15'
+  download: https://bigota.d.miui.com/OS1.0.7.0.ULCEUXM/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.7.0.ULCEUXM_5b2a5f6036_14.0.zip
+  name: Xiaomi 12
+  version: OS1.0.7.0.ULCEUXM
+- android: '14.0'
+  codename: cupid
   date: '2024-04-07'
   download: https://bigota.d.miui.com/OS1.0.6.0.ULCEUXM/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.6.0.ULCEUXM_5f3075c5f2_14.0.zip
   name: Xiaomi 12
@@ -432,6 +438,12 @@
   version: OS1.0.1.0.TKYCNXM
 - android: '14.0'
   codename: emerald
+  date: '2024-04-15'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UNFEUXM/fw_emerald_miui_EMERALDEEAGlobal_OS1.0.1.0.UNFEUXM_1085ee4a08_14.0.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  version: OS1.0.1.0.UNFEUXM
+- android: '14.0'
+  codename: emerald
   date: '2024-03-12'
   download: https://bigota.d.miui.com/OS1.0.1.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.1.0.UNFMIXM_69840715c1_14.0.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro
@@ -448,6 +460,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.TGBCNXM/fw_evergo_miui_EVERGO_OS1.0.1.0.TGBCNXM_30dc3f8271_13.0.zip
   name: Redmi Note 11 5G/Redmi Note 11T 5G
   version: OS1.0.1.0.TGBCNXM
+- android: '13.0'
+  codename: evergo
+  date: '2024-04-15'
+  download: https://bigota.d.miui.com/OS1.0.1.0.TGBINXM/fw_evergo_miui_EVERGOINGlobal_OS1.0.1.0.TGBINXM_64950b1fe9_13.0.zip
+  name: Redmi Note 11 5G/Redmi Note 11T 5G
+  version: OS1.0.1.0.TGBINXM
 - android: '13.0'
   codename: evergreen
   date: '2024-04-06'
