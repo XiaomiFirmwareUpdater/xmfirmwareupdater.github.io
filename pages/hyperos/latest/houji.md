@@ -71,9 +71,9 @@ permalink: /hyperos/houji/
 <tr><td>Xiaomi 14 Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UNCRUXM</td><td>14.0</td><td>5.8 GB</td><td>2024-04-11</td><td><a href="/hyperos/houji/stable beta/OS1.0.3.0.UNCRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UNCTRXM</td><td>14.0</td><td>7.0 GB</td><td>2024-02-29</td><td><a href="/hyperos/houji/stable/OS1.0.1.0.UNCTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UNCTRXM</td><td>14.0</td><td>5.7 GB</td><td>2024-02-29</td><td><a href="/hyperos/houji/stable/OS1.0.1.0.UNCTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UNCTWXM</td><td>14.0</td><td>6.8 GB</td><td>2024-02-29</td><td><a href="/hyperos/houji/stable/OS1.0.1.0.UNCTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UNCTWXM</td><td>14.0</td><td>5.7 GB</td><td>2024-02-29</td><td><a href="/hyperos/houji/stable/OS1.0.1.0.UNCTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UNCTWXM</td><td>14.0</td><td>5.8 GB</td><td>2024-04-08</td><td><a href="/hyperos/houji/stable beta/OS1.0.4.0.UNCTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UNCTWXM</td><td>14.0</td><td>6.9 GB</td><td>2024-03-26</td><td><a href="/hyperos/houji/stable/OS1.0.4.0.UNCTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNCTWXM</td><td>14.0</td><td>5.8 GB</td><td>2024-04-08</td><td><a href="/hyperos/houji/stable/OS1.0.4.0.UNCTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UNCTWXM</td><td>14.0</td><td>5.8 GB</td><td>2024-03-24</td><td><a href="/hyperos/houji/stable beta/OS1.0.3.0.UNCTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
