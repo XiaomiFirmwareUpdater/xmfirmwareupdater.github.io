@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 16 Apr 2024 05:59:37 </lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 08:43:20 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13 (fuxi) - OS1.0.4.0.UMCEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
+            <pubDate>Tue, 16 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 (houji) - OS1.0.16.0.UNCEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Tue, 16 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - OS1.0.5.0.UMBEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Tue, 16 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K60E (rembrandt) - OS1.0.1.0.UMMCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/rembrandt/</link>
@@ -882,11 +897,6 @@
             <pubDate>Sat, 24 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 14 (houji) - OS1.0.14.0.UNCEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
-            <pubDate>Sat, 24 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.2.0.UMRCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
             <pubDate>Fri, 23 Feb 2024 00:00:00 </pubDate>
@@ -962,11 +972,6 @@
             <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13 Pro (nuwa) - OS1.0.4.0.UMBEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 6 (pipa) - OS1.0.4.0.UMZEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/pipa/</link>
             <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
@@ -985,11 +990,6 @@
             <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.8.0.TLOINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
             <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 (fuxi) - OS1.0.3.0.UMCEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Mon, 05 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 12 Pro Dimensity (daumier) - OS1.0.2.0.ULGCNXM</title>
