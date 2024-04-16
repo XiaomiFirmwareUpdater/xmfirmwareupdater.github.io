@@ -768,6 +768,12 @@
   version: OS1.0.1.0.ULJCNXM
 - android: '14.0'
   codename: ingres
+  date: '2024-04-15'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULJMIXM/fw_ingres_miui_INGRESGlobal_OS1.0.2.0.ULJMIXM_077719a50c_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.2.0.ULJMIXM
+- android: '14.0'
+  codename: ingres
   date: '2024-04-09'
   download: https://bigota.d.miui.com/OS1.0.2.0.ULJCNXM/fw_ingres_miui_INGRES_OS1.0.2.0.ULJCNXM_b4d2b9c601_14.0.zip
   name: Redmi K50G/POCO F4 GT
@@ -892,6 +898,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMYCNXM/fw_liuqin_miui_LIUQIN_OS1.0.2.0.UMYCNXM_f2c7b6c511_14.0.zip
   name: Xiaomi Pad 6 Pro
   version: OS1.0.2.0.UMYCNXM
+- android: '14.0'
+  codename: liuqin
+  date: '2024-04-15'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMYCNXM/fw_liuqin_miui_LIUQIN_OS1.0.5.0.UMYCNXM_119a1b6e81_14.0.zip
+  name: Xiaomi Pad 6 Pro
+  version: OS1.0.5.0.UMYCNXM
 - android: '14.0'
   codename: liuqin
   date: '2024-02-01'
@@ -1284,6 +1296,12 @@
   version: OS1.0.3.0.TLDCNXM
 - android: '13.0'
   codename: psyche
+  date: '2024-04-15'
+  download: https://bigota.d.miui.com/OS1.0.1.0.TLDEUXM/fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.1.0.TLDEUXM_2f5189f931_13.0.zip
+  name: Xiaomi 12X
+  version: OS1.0.1.0.TLDEUXM
+- android: '13.0'
+  codename: psyche
   date: '2024-03-04'
   download: https://bigota.d.miui.com/OS1.0.1.0.TLDMIXM/fw_psyche_miui_PSYCHEGlobal_OS1.0.1.0.TLDMIXM_31bc4ec894_13.0.zip
   name: Xiaomi 12X
@@ -1337,6 +1355,12 @@
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: OS1.0.3.0.UMSMIXM
 - android: '14.0'
+  codename: rembrandt
+  date: '2024-04-16'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UMMCNXM/fw_rembrandt_miui_REMBRANDT_OS1.0.1.0.UMMCNXM_72da128d65_14.0.zip
+  name: Redmi K60E
+  version: OS1.0.1.0.UMMCNXM
+- android: '14.0'
   codename: rock
   date: '2024-01-25'
   download: https://bigota.d.miui.com/OS1.0.1.0.ULUEUXM/fw_rock_miui_ROCKEEAGlobal_OS1.0.1.0.ULUEUXM_319d8dd16f_14.0.zip
@@ -1348,6 +1372,18 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULUMIXM/fw_rock_miui_ROCKGlobal_OS1.0.3.0.ULUMIXM_08fdeb658b_14.0.zip
   name: POCO M5/Redmi 11 Prime 4G
   version: OS1.0.3.0.ULUMIXM
+- android: '14.0'
+  codename: rock
+  date: '2024-04-16'
+  download: https://bigota.d.miui.com/OS1.0.7.0.ULUMIXM/fw_rock_miui_ROCKGlobal_OS1.0.7.0.ULUMIXM_e015c745b0_14.0.zip
+  name: POCO M5/Redmi 11 Prime 4G
+  version: OS1.0.7.0.ULUMIXM
+- android: '14.0'
+  codename: rock
+  date: '2024-04-16'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULUINXM/fw_rock_miui_ROCKINGlobal_OS1.0.5.0.ULUINXM_d5eef16344_14.0.zip
+  name: POCO M5/Redmi 11 Prime 4G
+  version: OS1.0.5.0.ULUINXM
 - android: '14.0'
   codename: rock
   date: '2024-01-15'
@@ -1398,6 +1434,18 @@
   version: OS1.0.3.0.UMOCNXM
 - android: '14.0'
   codename: ruby
+  date: '2024-04-16'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMOEUXM/fw_ruby_miui_RUBYEEAGlobal_OS1.0.3.0.UMOEUXM_bd54bd38dc_14.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS1.0.3.0.UMOEUXM
+- android: '14.0'
+  codename: ruby
+  date: '2024-04-16'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMOMIXM/fw_ruby_miui_RUBYGlobal_OS1.0.3.0.UMOMIXM_96040ddafb_14.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS1.0.3.0.UMOMIXM
+- android: '14.0'
+  codename: ruby
   date: '2024-03-15'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMOMIXM/fw_ruby_miui_RUBYGlobal_OS1.0.2.0.UMOMIXM_188f934348_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
@@ -1426,6 +1474,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UNGMIXM/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.2.0.UNGMIXM_6ceb1dc76b_14.0.zip
   name: Redmi Note 13
   version: OS1.0.2.0.UNGMIXM
+- android: '14.0'
+  codename: sapphiren
+  date: '2024-04-16'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UNHEUXM/fw_sapphiren_miui_SAPPHIRENEEAGlobal_OS1.0.1.0.UNHEUXM_3e12bdc8b2_14.0.zip
+  name: Redmi Note 13 NFC
+  version: OS1.0.1.0.UNHEUXM
 - android: '14.0'
   codename: sapphiren
   date: '2024-04-08'
@@ -1918,6 +1972,24 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.ULYINXM/fw_yunluo_miui_YUNLUOINGlobal_OS1.0.1.0.ULYINXM_cf81adb252_14.0.zip
   name: Redmi Pad
   version: OS1.0.1.0.ULYINXM
+- android: '14.0'
+  codename: yunluo
+  date: '2024-04-16'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULYEUXM/fw_yunluo_miui_YUNLUOEEAGlobal_OS1.0.3.0.ULYEUXM_bfec1af5c3_14.0.zip
+  name: Redmi Pad
+  version: OS1.0.3.0.ULYEUXM
+- android: '14.0'
+  codename: yunluo
+  date: '2024-04-16'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULYINXM/fw_yunluo_miui_YUNLUOINGlobal_OS1.0.2.0.ULYINXM_afbf5632e0_14.0.zip
+  name: Redmi Pad
+  version: OS1.0.2.0.ULYINXM
+- android: '14.0'
+  codename: yunluo
+  date: '2024-04-16'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULYCNXM/fw_yunluo_miui_YUNLUO_OS1.0.5.0.ULYCNXM_bc1d8b3821_14.0.zip
+  name: Redmi Pad
+  version: OS1.0.5.0.ULYCNXM
 - android: '14.0'
   codename: yunluo
   date: '2024-01-12'

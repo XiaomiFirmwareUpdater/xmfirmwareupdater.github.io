@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-03-19'
+  date: '2024-04-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rock/releases/download/stable-19.03.2024/fw_rock_miui_ROCKGlobal_OS1.0.3.0.ULUMIXM_08fdeb658b_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rock/fw_rock_miui_ROCKGlobal_OS1.0.3.0.ULUMIXM_08fdeb658b_14.0.zip
-  filename: fw_rock_miui_ROCKGlobal_OS1.0.3.0.ULUMIXM_08fdeb658b_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rock/releases/download/stable-16.04.2024/fw_rock_miui_ROCKGlobal_OS1.0.7.0.ULUMIXM_e015c745b0_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rock/fw_rock_miui_ROCKGlobal_OS1.0.7.0.ULUMIXM_e015c745b0_14.0.zip
+  filename: fw_rock_miui_ROCKGlobal_OS1.0.7.0.ULUMIXM_e015c745b0_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.3.0.ULUMIXM
+    miui: OS1.0.7.0.ULUMIXM
 - branch: stable
   date: '2024-04-01'
   downloads:
@@ -19,12 +19,12 @@
     android: '14.0'
     miui: OS1.0.2.0.ULUEUXM
 - branch: stable
-  date: '2024-02-03'
+  date: '2024-04-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rock/releases/download/stable-03.02.2024/fw_rock_miui_ROCKINGlobal_OS1.0.3.0.ULUINXM_435f52bbbb_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rock/fw_rock_miui_ROCKINGlobal_OS1.0.3.0.ULUINXM_435f52bbbb_14.0.zip
-  filename: fw_rock_miui_ROCKINGlobal_OS1.0.3.0.ULUINXM_435f52bbbb_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rock/releases/download/stable-16.04.2024/fw_rock_miui_ROCKINGlobal_OS1.0.5.0.ULUINXM_d5eef16344_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rock/fw_rock_miui_ROCKINGlobal_OS1.0.5.0.ULUINXM_d5eef16344_14.0.zip
+  filename: fw_rock_miui_ROCKINGlobal_OS1.0.5.0.ULUINXM_d5eef16344_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.3.0.ULUINXM
+    miui: OS1.0.5.0.ULUINXM
