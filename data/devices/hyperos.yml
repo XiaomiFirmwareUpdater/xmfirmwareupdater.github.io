@@ -714,6 +714,12 @@
   version: OS1.0.14.0.UNCEUXM
 - android: '14.0'
   codename: houji
+  date: '2024-04-17'
+  download: https://bigota.d.miui.com/OS1.0.36.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.36.0.UNCCNXM_54ab2de231_14.0.zip
+  name: Xiaomi 14
+  version: OS1.0.36.0.UNCCNXM
+- android: '14.0'
+  codename: houji
   date: '2023-11-15'
   download: https://bigota.d.miui.com/OS1.0.20.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.20.0.UNCCNXM_c1cd2893e8_14.0.zip
   name: Xiaomi 14
@@ -1852,6 +1858,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMGMIXM/fw_topaz_miui_TOPAZGlobal_OS1.0.4.0.UMGMIXM_a5ad88643c_14.0.zip
   name: Redmi Note 12 4G NFC
   version: OS1.0.4.0.UMGMIXM
+- android: '14.0'
+  codename: topaz
+  date: '2024-04-17'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMGEUXM/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.7.0.UMGEUXM_5b32c81f19_14.0.zip
+  name: Redmi Note 12 4G NFC
+  version: OS1.0.7.0.UMGEUXM
 - android: '14.0'
   codename: topaz
   date: '2024-01-12'

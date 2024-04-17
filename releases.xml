@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 17 Apr 2024 13:35:24 </lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 20:00:14 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi Civi 4 Pro (chenfeng) - OS1.0.7.0.UNJCNXM</title>
@@ -12,8 +12,23 @@
             <pubDate>Wed, 17 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi 13C/POCO C65 (gale) - V14.0.5.0.TGPINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/gale/</link>
+            <pubDate>Wed, 17 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 (houji) - OS1.0.36.0.UNCCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Wed, 17 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite (shennong) - OS1.0.38.0.UNBCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/shennong/</link>
+            <pubDate>Wed, 17 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 4G NFC (topaz) - OS1.0.7.0.UMGEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/topaz/</link>
             <pubDate>Wed, 17 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -280,11 +295,6 @@
             <title>Redmi Note 11S 5G (opal) - OS1.0.1.0.TGLEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/opal/</link>
             <pubDate>Sat, 06 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 (houji) - OS1.0.35.0.UNCCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
-            <pubDate>Fri, 05 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS1.0.8.0.UMACNXM</title>
@@ -737,11 +747,6 @@
             <pubDate>Mon, 11 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 4G NFC (topaz) - OS1.0.6.0.UMGEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/topaz/</link>
-            <pubDate>Mon, 11 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 5 Pro 5G (enuma) - OS1.0.1.0.TKZCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/enuma/</link>
             <pubDate>Fri, 08 Mar 2024 00:00:00 </pubDate>
@@ -994,11 +999,6 @@
         <item>
             <title>Xiaomi 12 Pro Dimensity (daumier) - OS1.0.2.0.ULGCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/daumier/</link>
-            <pubDate>Sat, 03 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 13C/POCO C65 (gale) - V14.0.4.0.TGPINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/gale/</link>
             <pubDate>Sat, 03 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
