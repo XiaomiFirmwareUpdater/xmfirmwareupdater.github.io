@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 17 Apr 2024 06:37:33 </lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 13:35:24 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Civi 4 Pro (chenfeng) - OS1.0.7.0.UNJCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/chenfeng/</link>
+            <pubDate>Wed, 17 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite (shennong) - OS1.0.38.0.UNBCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/shennong/</link>
+            <pubDate>Wed, 17 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS1.0.3.0.ULFEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
@@ -272,11 +282,6 @@
             <pubDate>Sat, 06 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Civi 4 Pro (chenfeng) - OS1.0.5.0.UNJCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/chenfeng/</link>
-            <pubDate>Fri, 05 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 14 (houji) - OS1.0.35.0.UNCCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
             <pubDate>Fri, 05 Apr 2024 00:00:00 </pubDate>
@@ -284,11 +289,6 @@
         <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS1.0.8.0.UMACNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ishtar/</link>
-            <pubDate>Fri, 05 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite (shennong) - OS1.0.37.0.UNBCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/shennong/</link>
             <pubDate>Fri, 05 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>

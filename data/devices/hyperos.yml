@@ -132,6 +132,12 @@
   version: OS1.0.4.0.UNJCNXM
 - android: '14.0'
   codename: chenfeng
+  date: '2024-04-17'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UNJCNXM/fw_chenfeng_miui_CHENFENG_OS1.0.7.0.UNJCNXM_722860a3af_14.0.zip
+  name: Xiaomi Civi 4 Pro
+  version: OS1.0.7.0.UNJCNXM
+- android: '14.0'
+  codename: chenfeng
   date: '2024-04-05'
   download: https://bigota.d.miui.com/OS1.0.5.0.UNJCNXM/fw_chenfeng_miui_CHENFENG_OS1.0.5.0.UNJCNXM_929cef1a2f_14.0.zip
   name: Xiaomi Civi 4 Pro
@@ -1594,6 +1600,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UNDCNXM/fw_shennongt_miui_SHENNONGT_OS1.0.3.0.UNDCNXM_bab6d895b9_14.0.zip
   name: Xiaomi 14 Pro Ti Satellite
   version: OS1.0.3.0.UNDCNXM
+- android: '14.0'
+  codename: shennong
+  date: '2024-04-17'
+  download: https://bigota.d.miui.com/OS1.0.38.0.UNBCNXM/fw_shennong_miui_SHENNONG_OS1.0.38.0.UNBCNXM_0eb6fa6030_14.0.zip
+  name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
+  version: OS1.0.38.0.UNBCNXM
 - android: '14.0'
   codename: shennong
   date: '2023-12-12'
