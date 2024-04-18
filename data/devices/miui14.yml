@@ -66,6 +66,12 @@
   version: V14.0.4.0.TGQINXM
 - android: '13.0'
   codename: air
+  date: '2024-04-18'
+  download: https://bigota.d.miui.com/V14.0.10.0.TGQINXM/fw_air_miui_AIRINGlobal_V14.0.10.0.TGQINXM_6f3294291f_13.0.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: V14.0.10.0.TGQINXM
+- android: '13.0'
+  codename: air
   date: '2024-04-15'
   download: https://bigota.d.miui.com/V14.0.1.0.TGQEUXM/fw_air_miui_AIREEAGlobal_V14.0.1.0.TGQEUXM_54a8ed7de6_13.0.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G

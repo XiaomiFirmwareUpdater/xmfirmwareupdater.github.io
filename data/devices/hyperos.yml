@@ -888,6 +888,18 @@
   version: OS1.0.2.0.ULSEUXM
 - android: '14.0'
   codename: light
+  date: '2024-04-18'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULSEUXM/fw_light_miui_LIGHTEEAGlobal_OS1.0.3.0.ULSEUXM_5a2625de37_14.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: OS1.0.3.0.ULSEUXM
+- android: '14.0'
+  codename: light
+  date: '2024-04-18'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULSMIXM/fw_light_miui_LIGHTGlobal_OS1.0.4.0.ULSMIXM_30f01c23fd_14.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: OS1.0.4.0.ULSMIXM
+- android: '14.0'
+  codename: light
   date: '2024-01-12'
   download: https://bigota.d.miui.com/OS1.0.5.0.ULSCNXM/fw_light_miui_LIGHT_OS1.0.5.0.ULSCNXM_d259f29a72_14.0.zip
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
