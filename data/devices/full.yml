@@ -76129,6 +76129,16 @@
     android: '13.0'
     miui: V14.0.3.0.TLLMIXM
 - branch: stable
+  date: '2024-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-18.04.2024/fw_ziyi_miui_ZIYI_OS1.0.3.0.ULLCNXM_cc6915aa21_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ziyi/fw_ziyi_miui_ZIYI_OS1.0.3.0.ULLCNXM_cc6915aa21_14.0.zip
+  filename: fw_ziyi_miui_ZIYI_OS1.0.3.0.ULLCNXM_cc6915aa21_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.ULLCNXM
+- branch: stable
   date: '2024-02-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-18.02.2024/fw_ziyi_miui_ZIYIGlobal_V14.0.6.0.TLLMIXM_b86b1abe84_13.0.zip
