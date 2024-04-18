@@ -629,6 +629,16 @@
     android: '11.0'
     miui: V12.5.8.0.RKKEUXM
 - branch: stable
+  date: '2024-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-18.04.2024/fw_haydn_miui_HAYDN_OS1.0.1.0.UKKCNXM_366ee9022b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/haydn/fw_haydn_miui_HAYDN_OS1.0.1.0.UKKCNXM_366ee9022b_14.0.zip
+  filename: fw_haydn_miui_HAYDN_OS1.0.1.0.UKKCNXM_366ee9022b_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.1.0.UKKCNXM
+- branch: stable
   date: '2021-11-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-17.11.2021/fw_haydn_miui_HAYDN_V12.5.8.0.RKKCNXM_f82fc01a20_11.0.zip

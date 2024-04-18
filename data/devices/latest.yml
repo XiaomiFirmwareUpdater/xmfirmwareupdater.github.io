@@ -1699,15 +1699,15 @@
     android: '14.0'
     miui: OS1.0.1.0.UGPMIXM
 - branch: stable
-  date: '2024-04-11'
+  date: '2024-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-11.04.2024/fw_gale_miui_GALEEEAGlobal_V14.0.9.0.TGPEUXM_7a518fb7a0_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/gale/fw_gale_miui_GALEEEAGlobal_V14.0.9.0.TGPEUXM_7a518fb7a0_13.0.zip
-  filename: fw_gale_miui_GALEEEAGlobal_V14.0.9.0.TGPEUXM_7a518fb7a0_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-18.04.2024/fw_gale_miui_GALEEEAGlobal_V14.0.10.0.TGPEUXM_99af01e50c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/gale/fw_gale_miui_GALEEEAGlobal_V14.0.10.0.TGPEUXM_99af01e50c_13.0.zip
+  filename: fw_gale_miui_GALEEEAGlobal_V14.0.10.0.TGPEUXM_99af01e50c_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.9.0.TGPEUXM
+    miui: V14.0.10.0.TGPEUXM
 - branch: stable
   date: '2024-04-17'
   downloads:
@@ -1999,15 +1999,15 @@
     android: '13.0'
     miui: V14.0.7.0.TKKMIXM
 - branch: stable
-  date: '2024-01-12'
+  date: '2024-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-12.01.2024/fw_haydn_miui_HAYDN_V14.0.8.0.TKKCNXM_e3deaf183b_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/haydn/fw_haydn_miui_HAYDN_V14.0.8.0.TKKCNXM_e3deaf183b_13.0.zip
-  filename: fw_haydn_miui_HAYDN_V14.0.8.0.TKKCNXM_e3deaf183b_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-18.04.2024/fw_haydn_miui_HAYDN_OS1.0.1.0.UKKCNXM_366ee9022b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/haydn/fw_haydn_miui_HAYDN_OS1.0.1.0.UKKCNXM_366ee9022b_14.0.zip
+  filename: fw_haydn_miui_HAYDN_OS1.0.1.0.UKKCNXM_366ee9022b_14.0.zip
   region: China
   versions:
-    android: '13.0'
-    miui: V14.0.8.0.TKKCNXM
+    android: '14.0'
+    miui: OS1.0.1.0.UKKCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:

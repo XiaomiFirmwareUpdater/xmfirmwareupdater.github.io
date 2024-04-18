@@ -659,6 +659,12 @@
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: OS1.0.1.0.UNQEUXM
 - android: '14.0'
+  codename: haydn
+  date: '2024-04-18'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UKKCNXM/fw_haydn_miui_HAYDN_OS1.0.1.0.UKKCNXM_366ee9022b_14.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: OS1.0.1.0.UKKCNXM
+- android: '14.0'
   codename: houji
   date: '2023-10-31'
   download: https://bigota.d.miui.com/OS1.0.11.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.11.0.UNCCNXM_8541c46b8d_14.0.zip

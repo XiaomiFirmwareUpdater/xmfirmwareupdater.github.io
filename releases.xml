@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 17 Apr 2024 20:00:14 </lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 03:35:54 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 13C/POCO C65 (gale) - V14.0.10.0.TGPEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/gale/</link>
+            <pubDate>Thu, 18 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - OS1.0.1.0.UKKCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/haydn/</link>
+            <pubDate>Thu, 18 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi Civi 4 Pro (chenfeng) - OS1.0.7.0.UNJCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/chenfeng/</link>
@@ -140,11 +150,6 @@
             <title>Xiaomi 12X (psyche) - OS1.0.1.0.TLDEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/psyche/</link>
             <pubDate>Mon, 15 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 13C/POCO C65 (gale) - V14.0.9.0.TGPEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/gale/</link>
-            <pubDate>Thu, 11 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 14 (houji) - OS1.0.7.0.UNCINXM</title>
@@ -1065,11 +1070,6 @@
             <title>Mi 11 (venus) - V14.0.11.0.TKBCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/venus/</link>
             <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V14.0.8.0.TKKCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/haydn/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V14.0.5.0.TKKINXM</title>
