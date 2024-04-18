@@ -4999,15 +4999,15 @@
     android: '14.0'
     miui: OS1.0.3.0.UMTINXM
 - branch: stable
-  date: '2024-01-29'
+  date: '2024-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-29.01.2024/fw_thor_miui_THOR_OS1.0.4.0.ULACNXM_12b58f6ae6_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/thor/fw_thor_miui_THOR_OS1.0.4.0.ULACNXM_12b58f6ae6_14.0.zip
-  filename: fw_thor_miui_THOR_OS1.0.4.0.ULACNXM_12b58f6ae6_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-18.04.2024/fw_thor_miui_THOR_OS1.0.5.0.ULACNXM_5282e8adc1_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/thor/fw_thor_miui_THOR_OS1.0.5.0.ULACNXM_5282e8adc1_14.0.zip
+  filename: fw_thor_miui_THOR_OS1.0.5.0.ULACNXM_5282e8adc1_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.ULACNXM
+    miui: OS1.0.5.0.ULACNXM
 - branch: stable
   date: '2023-09-12'
   downloads:
