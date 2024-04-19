@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 19 Apr 2024 13:38:43 </lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 20:21:17 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 13C/POCO C65 (gale) - V14.0.9.0.TGPMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/gale/</link>
+            <pubDate>Fri, 19 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS1.0.3.0.UKOINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/lisa/</link>
+            <pubDate>Fri, 19 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.4.0.UMNEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
@@ -562,11 +572,6 @@
             <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 13C/POCO C65 (gale) - OS1.0.1.0.UGPMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/gale/</link>
-            <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS1.0.11.0.UNREUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
             <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
@@ -1060,11 +1065,6 @@
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.11.0.TKHEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/alioth/</link>
             <pubDate>Tue, 23 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.8.0.TKOINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/lisa/</link>
-            <pubDate>Mon, 15 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi 11 (venus) - V14.0.11.0.TKBCNXM</title>
