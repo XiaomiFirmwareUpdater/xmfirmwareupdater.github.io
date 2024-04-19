@@ -40879,6 +40879,16 @@
     android: '13.0'
     miui: V14.0.2.0.TMPINXM
 - branch: stable
+  date: '2024-04-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-19.04.2024/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.5.0.UMPMIXM_39a4f11957_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moonstone/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.5.0.UMPMIXM_39a4f11957_14.0.zip
+  filename: fw_moonstone_miui_MOONSTONEGlobal_OS1.0.5.0.UMPMIXM_39a4f11957_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.5.0.UMPMIXM
+- branch: stable
   date: '2024-02-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-18.02.2024/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.1.0.UMPEUXM_817ae3aaf2_14.0.zip
@@ -61269,6 +61279,16 @@
     android: '12.0'
     miui: V14.0.5.0.SMQMIXM
 - branch: stable
+  date: '2024-04-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-19.04.2024/fw_sunstone_miui_SUNSTONEGlobal_OS1.0.4.0.UMQMIXM_fec8dcde2d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sunstone/fw_sunstone_miui_SUNSTONEGlobal_OS1.0.4.0.UMQMIXM_fec8dcde2d_14.0.zip
+  filename: fw_sunstone_miui_SUNSTONEGlobal_OS1.0.4.0.UMQMIXM_fec8dcde2d_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UMQMIXM
+- branch: stable
   date: '2023-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-18.04.2023/fw_sunstone_miui_SUNSTONEINGlobal_V13.0.11.0.SMQINXM_c5376a062f_12.0.zip
@@ -75448,6 +75468,16 @@
   versions:
     android: '12.0'
     miui: V13.0.33.0.SLBCNXM
+- branch: stable
+  date: '2024-04-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-19.04.2024/fw_zeus_miui_ZEUSGlobal_OS1.0.2.0.ULBMIXM_e24deeead7_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zeus/fw_zeus_miui_ZEUSGlobal_OS1.0.2.0.ULBMIXM_e24deeead7_14.0.zip
+  filename: fw_zeus_miui_ZEUSGlobal_OS1.0.2.0.ULBMIXM_e24deeead7_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.ULBMIXM
 - branch: stable
   date: '2022-01-19'
   downloads:

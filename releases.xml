@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 19 Apr 2024 00:36:15 </lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 07:24:56 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>POCO X5 5G (moonstone) - OS1.0.5.0.UMPMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
+            <pubDate>Fri, 19 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS1.0.4.0.UMQMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
+            <pubDate>Fri, 19 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - OS1.0.2.0.ULBMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
+            <pubDate>Fri, 19 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - V14.0.10.0.TGQINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/air/</link>
@@ -957,11 +972,6 @@
             <pubDate>Thu, 22 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12 Pro (zeus) - OS1.0.1.0.ULBMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Thu, 22 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.13.0.TGOINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/water/</link>
             <pubDate>Wed, 21 Feb 2024 00:00:00 </pubDate>
@@ -1039,16 +1049,6 @@
         <item>
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.11.0.TKHEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/alioth/</link>
-            <pubDate>Tue, 23 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO X5 5G (moonstone) - OS1.0.3.0.UMPMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
-            <pubDate>Tue, 23 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS1.0.2.0.UMQMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Tue, 23 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>

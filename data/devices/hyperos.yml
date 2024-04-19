@@ -1122,6 +1122,12 @@
   version: OS1.0.3.0.UMPMIXM
 - android: '14.0'
   codename: moonstone
+  date: '2024-04-19'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMPMIXM/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.5.0.UMPMIXM_39a4f11957_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.5.0.UMPMIXM
+- android: '14.0'
+  codename: moonstone
   date: '2024-02-18'
   download: https://bigota.d.miui.com/OS1.0.1.0.UMPEUXM/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.1.0.UMPEUXM_817ae3aaf2_14.0.zip
   name: POCO X5 5G
@@ -1788,6 +1794,12 @@
   version: OS1.0.2.0.UMQMIXM
 - android: '14.0'
   codename: sunstone
+  date: '2024-04-19'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMQMIXM/fw_sunstone_miui_SUNSTONEGlobal_OS1.0.4.0.UMQMIXM_fec8dcde2d_14.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: OS1.0.4.0.UMQMIXM
+- android: '14.0'
+  codename: sunstone
   date: '2024-03-18'
   download: https://bigota.d.miui.com/OS1.0.1.0.UMQINXM/fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.1.0.UMQINXM_1046f0bd93_14.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
@@ -2098,6 +2110,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULBCNXM/fw_zeus_miui_ZEUS_OS1.0.3.0.ULBCNXM_f7a546df8e_14.0.zip
   name: Xiaomi 12 Pro
   version: OS1.0.3.0.ULBCNXM
+- android: '14.0'
+  codename: zeus
+  date: '2024-04-19'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULBMIXM/fw_zeus_miui_ZEUSGlobal_OS1.0.2.0.ULBMIXM_e24deeead7_14.0.zip
+  name: Xiaomi 12 Pro
+  version: OS1.0.2.0.ULBMIXM
 - android: '14.0'
   codename: zeus
   date: '2024-03-05'
