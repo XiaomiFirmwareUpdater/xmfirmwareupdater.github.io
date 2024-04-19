@@ -1086,6 +1086,12 @@
   version: OS1.0.2.0.UMNCNXM
 - android: '14.0'
   codename: mondrian
+  date: '2024-04-19'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMNEUXM/fw_mondrian_miui_MONDRIANEEAGlobal_OS1.0.4.0.UMNEUXM_5b4fd8db58_14.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS1.0.4.0.UMNEUXM
+- android: '14.0'
+  codename: mondrian
   date: '2024-01-19'
   download: https://bigota.d.miui.com/OS1.0.3.0.UMNEUXM/fw_mondrian_miui_MONDRIANEEAGlobal_OS1.0.3.0.UMNEUXM_1bec6ffeca_14.0.zip
   name: Redmi K60/POCO F5 Pro
@@ -1498,6 +1504,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMOCNXM/fw_ruby_miui_RUBY_OS1.0.3.0.UMOCNXM_c06e478636_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: OS1.0.3.0.UMOCNXM
+- android: '14.0'
+  codename: ruby
+  date: '2024-04-19'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UMOINXM/fw_ruby_miui_RUBYINGlobal_OS1.0.2.0.UMOINXM_d5bbac71f6_14.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS1.0.2.0.UMOINXM
 - android: '14.0'
   codename: ruby
   date: '2024-04-16'
@@ -2110,6 +2122,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULBCNXM/fw_zeus_miui_ZEUS_OS1.0.3.0.ULBCNXM_f7a546df8e_14.0.zip
   name: Xiaomi 12 Pro
   version: OS1.0.3.0.ULBCNXM
+- android: '14.0'
+  codename: zeus
+  date: '2024-04-19'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULBEUXM/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.5.0.ULBEUXM_fd4d00027f_14.0.zip
+  name: Xiaomi 12 Pro
+  version: OS1.0.5.0.ULBEUXM
 - android: '14.0'
   codename: zeus
   date: '2024-04-19'

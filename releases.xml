@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 19 Apr 2024 07:24:56 </lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 13:38:43 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.4.0.UMNEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
+            <pubDate>Fri, 19 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>POCO X5 5G (moonstone) - OS1.0.5.0.UMPMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
+            <pubDate>Fri, 19 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.2.0.UMOINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Fri, 19 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -18,6 +28,11 @@
         </item>
         <item>
             <title>Xiaomi 12 Pro (zeus) - OS1.0.2.0.ULBMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
+            <pubDate>Fri, 19 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - OS1.0.5.0.ULBEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Fri, 19 Apr 2024 00:00:00 </pubDate>
         </item>
@@ -782,11 +797,6 @@
             <pubDate>Mon, 11 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.1.0.UMOINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Mon, 11 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 5 Pro 5G (enuma) - OS1.0.1.0.TKZCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/enuma/</link>
             <pubDate>Fri, 08 Mar 2024 00:00:00 </pubDate>
@@ -1050,16 +1060,6 @@
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.11.0.TKHEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/alioth/</link>
             <pubDate>Tue, 23 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Pro (zeus) - OS1.0.2.0.ULBEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Tue, 23 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.3.0.UMNEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
-            <pubDate>Fri, 19 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.8.0.TKOINXM</title>
