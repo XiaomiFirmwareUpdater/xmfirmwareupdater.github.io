@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 20 Apr 2024 06:40:06 </lastBuildDate>
+        <lastBuildDate>Sat, 20 Apr 2024 13:26:01 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>POCO X5 5G (moonstone) - OS1.0.2.0.UMPINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
+            <pubDate>Sat, 20 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - OS1.0.1.0.ULOCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
@@ -1055,11 +1060,6 @@
             <title>Xiaomi 11T (agate) - OS1.0.2.0.UKWEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/agate/</link>
             <pubDate>Fri, 02 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO X5 5G (moonstone) - OS1.0.1.0.UMPINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
-            <pubDate>Tue, 30 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.1.0.UCVCNXM</title>
