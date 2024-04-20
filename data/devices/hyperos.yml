@@ -1144,6 +1144,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UMPEUXM/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.1.0.UMPEUXM_817ae3aaf2_14.0.zip
   name: POCO X5 5G
   version: OS1.0.1.0.UMPEUXM
+- android: '14.0'
+  codename: munch
+  date: '2024-04-19'
+  download: https://bigota.d.miui.com/OS1.0.1.0.ULMCNXM/fw_munch_miui_MUNCH_OS1.0.1.0.ULMCNXM_f022829508_14.0.zip
+  name: Redmi K40S/POCO F4
+  version: OS1.0.1.0.ULMCNXM
 - android: '13.0'
   codename: nabu
   date: '2024-03-28'
@@ -2026,6 +2032,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.TGDMIXM/fw_viva_miui_VIVAGlobal_OS1.0.3.0.TGDMIXM_6f1ff58bc0_13.0.zip
   name: Redmi Note 11 Pro 4G
   version: OS1.0.3.0.TGDMIXM
+- android: '14.0'
+  codename: xaga
+  date: '2024-04-20'
+  download: https://bigota.d.miui.com/OS1.0.1.0.ULOCNXM/fw_xaga_miui_XAGA_OS1.0.1.0.ULOCNXM_445b22a793_14.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS1.0.1.0.ULOCNXM
 - android: '14.0'
   codename: xun
   date: '2024-02-29'
