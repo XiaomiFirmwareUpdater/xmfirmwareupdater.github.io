@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 21 Apr 2024 06:49:32 </lastBuildDate>
+        <lastBuildDate>Sun, 21 Apr 2024 14:25:59 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>POCO X5 5G (moonstone) - OS1.0.3.0.UMPEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
+            <pubDate>Sun, 21 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 11 NFC (spesn) - OS1.0.4.0.TGKMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/spesn/</link>
@@ -1024,11 +1029,6 @@
         <item>
             <title>Redmi K50 Pro (matisse) - OS1.0.2.0.ULKCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/matisse/</link>
-            <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO X5 5G (moonstone) - OS1.0.1.0.UMPEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
             <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
