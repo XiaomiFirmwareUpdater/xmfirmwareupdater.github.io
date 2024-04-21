@@ -52,7 +52,8 @@ permalink: /archive/hyperos/spes/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 NFC Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.TGKIDXM</td><td>13.0</td><td>3.8 GB</td><td>2024-04-11</td><td><a href="/hyperos/spesn/stable beta/OS1.0.1.0.TGKIDXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 NFC Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.TGKMIXM</td><td>13.0</td><td>3.9 GB</td><td>2024-04-17</td><td><a href="/hyperos/spesn/stable beta/OS1.0.4.0.TGKMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 NFC Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.TGKIDXM</td><td>13.0</td><td>3.8 GB</td><td>2024-04-11</td><td><a href="/hyperos/spesn/stable beta/OS1.0.1.0.TGKIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.TGCTRXM</td><td>13.0</td><td>3.8 GB</td><td>2024-04-11</td><td><a href="/hyperos/spes/stable beta/OS1.0.1.0.TGCTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 India</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TGCINXM</td><td>13.0</td><td>3.8 GB</td><td>2024-03-26</td><td><a href="/hyperos/spes/stable/OS1.0.1.0.TGCINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.TGCINXM</td><td>13.0</td><td>5.2 GB</td><td>2024-03-11</td><td><a href="/hyperos/spes/stable/OS1.0.1.0.TGCINXM/">Download</a></td></tr>

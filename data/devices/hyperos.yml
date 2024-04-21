@@ -1800,6 +1800,12 @@
   version: OS1.0.1.0.TGCINXM
 - android: '13.0'
   codename: spesn
+  date: '2024-04-21'
+  download: https://bigota.d.miui.com/OS1.0.4.0.TGKMIXM/fw_spesn_miui_SPESNGlobal_OS1.0.4.0.TGKMIXM_72e1ac4dcd_13.0.zip
+  name: Redmi Note 11 NFC
+  version: OS1.0.4.0.TGKMIXM
+- android: '13.0'
+  codename: spesn
   date: '2024-04-01'
   download: https://bigota.d.miui.com/OS1.0.1.0.TGKEUXM/fw_spesn_miui_SPESNEEAGlobal_OS1.0.1.0.TGKEUXM_8dd4246ed7_13.0.zip
   name: Redmi Note 11 NFC
