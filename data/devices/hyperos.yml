@@ -1380,6 +1380,12 @@
   version: OS1.0.2.0.TKTEUXM
 - android: '14.0'
   codename: plato
+  date: '2024-04-22'
+  download: https://bigota.d.miui.com/OS1.0.10.0.ULQEUXM/fw_plato_miui_PLATOEEAGlobal_OS1.0.10.0.ULQEUXM_6f51366909_14.0.zip
+  name: Xiaomi 12T
+  version: OS1.0.10.0.ULQEUXM
+- android: '14.0'
+  codename: plato
   date: '2024-02-22'
   download: https://bigota.d.miui.com/OS1.0.7.0.ULQMIXM/fw_plato_miui_PLATOGlobal_OS1.0.7.0.ULQMIXM_2742c5324e_14.0.zip
   name: Xiaomi 12T
@@ -1444,6 +1450,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMSCNXM/fw_redwood_miui_REDWOOD_OS1.0.4.0.UMSCNXM_33c3abb2d0_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: OS1.0.4.0.UMSCNXM
+- android: '14.0'
+  codename: redwood
+  date: '2024-04-22'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMSCNXM/fw_redwood_miui_REDWOOD_OS1.0.6.0.UMSCNXM_f7ddaf58a6_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.6.0.UMSCNXM
 - android: '14.0'
   codename: redwood
   date: '2024-01-15'
@@ -1853,6 +1865,12 @@
   name: Redmi Note 11 NFC
   version: OS1.0.3.0.TGKMIXM
 - android: '14.0'
+  codename: star
+  date: '2024-04-22'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UKACNXM/fw_star_miui_STAR_OS1.0.2.0.UKACNXM_783d84531a_14.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: OS1.0.2.0.UKACNXM
+- android: '14.0'
   codename: sunstone
   date: '2024-02-29'
   download: https://bigota.d.miui.com/OS1.0.1.0.UMQCNXM/fw_sunstone_miui_SUNSTONE_OS1.0.1.0.UMQCNXM_ecc6daa1f6_14.0.zip
@@ -2009,6 +2027,12 @@
   name: Mi 11
   version: OS1.0.2.0.UKBEUXM
 - android: '14.0'
+  codename: venus
+  date: '2024-04-22'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UKBCNXM/fw_venus_miui_VENUS_OS1.0.1.0.UKBCNXM_f461404e5a_14.0.zip
+  name: Mi 11
+  version: OS1.0.1.0.UKBCNXM
+- android: '14.0'
   codename: vermeer
   date: '2024-03-29'
   download: https://bigota.d.miui.com/OS1.0.15.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.15.0.UNKCNXM_2100d3fc37_14.0.zip
@@ -2050,6 +2074,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.5.0.UNKCNXM_164e6600c7_14.0.zip
   name: Redmi K70/POCO F6 Pro
   version: OS1.0.5.0.UNKCNXM
+- android: '13.0'
+  codename: veux
+  date: '2024-04-22'
+  download: https://bigota.d.miui.com/OS1.0.1.0.TKCINXM/fw_veux_miui_VEUXINGlobal_OS1.0.1.0.TKCINXM_76019c6c0f_13.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: OS1.0.1.0.TKCINXM
 - android: '13.0'
   codename: veux
   date: '2024-04-02'

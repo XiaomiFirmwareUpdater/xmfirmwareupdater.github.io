@@ -49999,6 +49999,16 @@
     android: '13.0'
     miui: V14.0.6.0.TLQMIXM
 - branch: stable
+  date: '2024-04-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-22.04.2024/fw_plato_miui_PLATOEEAGlobal_OS1.0.10.0.ULQEUXM_6f51366909_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/plato/fw_plato_miui_PLATOEEAGlobal_OS1.0.10.0.ULQEUXM_6f51366909_14.0.zip
+  filename: fw_plato_miui_PLATOEEAGlobal_OS1.0.10.0.ULQEUXM_6f51366909_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.10.0.ULQEUXM
+- branch: stable
   date: '2024-02-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-22.02.2024/fw_plato_miui_PLATOGlobal_OS1.0.7.0.ULQMIXM_2742c5324e_14.0.zip
@@ -53198,6 +53208,16 @@
   versions:
     android: '13.0'
     miui: V14.0.4.0.TMSCNXM
+- branch: stable
+  date: '2024-04-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-22.04.2024/fw_redwood_miui_REDWOOD_OS1.0.6.0.UMSCNXM_f7ddaf58a6_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/redwood/fw_redwood_miui_REDWOOD_OS1.0.6.0.UMSCNXM_f7ddaf58a6_14.0.zip
+  filename: fw_redwood_miui_REDWOOD_OS1.0.6.0.UMSCNXM_f7ddaf58a6_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.6.0.UMSCNXM
 - branch: stable
   date: '2023-04-20'
   downloads:
@@ -60858,6 +60878,16 @@
   versions:
     android: '11.0'
     miui: V12.5.11.0.RKACNXM
+- branch: stable
+  date: '2024-04-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-22.04.2024/fw_star_miui_STAR_OS1.0.2.0.UKACNXM_783d84531a_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/star/fw_star_miui_STAR_OS1.0.2.0.UKACNXM_783d84531a_14.0.zip
+  filename: fw_star_miui_STAR_OS1.0.2.0.UKACNXM_783d84531a_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.UKACNXM
 - branch: stable
   date: '2022-04-22'
   downloads:
@@ -69899,6 +69929,16 @@
     android: '14.0'
     miui: OS1.0.2.0.UKBEUXM
 - branch: stable
+  date: '2024-04-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-22.04.2024/fw_venus_miui_VENUS_OS1.0.1.0.UKBCNXM_f461404e5a_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/venus/fw_venus_miui_VENUS_OS1.0.1.0.UKBCNXM_f461404e5a_14.0.zip
+  filename: fw_venus_miui_VENUS_OS1.0.1.0.UKBCNXM_f461404e5a_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.1.0.UKBCNXM
+- branch: stable
   date: '2022-04-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-22.04.2022/fw_venus_miui_VENUS_V13.0.8.0.SKBCNXM_0a2bc25ba5_12.0.zip
@@ -70598,6 +70638,16 @@
   versions:
     android: '11.0'
     miui: V13.0.7.0.RKCCNXM
+- branch: stable
+  date: '2024-04-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-22.04.2024/fw_veux_miui_VEUXINGlobal_OS1.0.1.0.TKCINXM_76019c6c0f_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/veux/fw_veux_miui_VEUXINGlobal_OS1.0.1.0.TKCINXM_76019c6c0f_13.0.zip
+  filename: fw_veux_miui_VEUXINGlobal_OS1.0.1.0.TKCINXM_76019c6c0f_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: OS1.0.1.0.TKCINXM
 - branch: stable
   date: '2024-03-21'
   downloads:
