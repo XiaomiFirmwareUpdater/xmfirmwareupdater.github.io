@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 13 NFC (sapphiren) HyperOS Downloads
+title: Mi 11 (venus) HyperOS Downloads
 layout: download
-name: Redmi Note 13 NFC
-codename: sapphiren
-permalink: /hyperos/sapphiren/
+name: Mi 11
+codename: venus
+permalink: /hyperos/venus/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/sapphiren/">Redmi Note 13 NFC</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/venus/">Mi 11</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /hyperos/sapphiren/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/hyperos/sapphiren/" class="card-link">HyperOS Archive</a>
-    <a href="/firmware/sapphiren/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/sapphiren/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/hyperos/venus/" class="card-link">HyperOS Archive</a>
+    <a href="/firmware/venus/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/venus/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,10 +52,7 @@ permalink: /hyperos/sapphiren/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 13 NFC EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UNHEUXM</td><td>14.0</td><td>6.8 GB</td><td>2024-04-03</td><td><a href="/hyperos/sapphiren/stable/OS1.0.1.0.UNHEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 NFC EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UNHEUXM</td><td>14.0</td><td>4.5 GB</td><td>2024-04-12</td><td><a href="/hyperos/sapphiren/stable/OS1.0.1.0.UNHEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 NFC Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UNHMIXM</td><td>14.0</td><td>7.1 GB</td><td>2024-03-16</td><td><a href="/hyperos/sapphiren/stable/OS1.0.2.0.UNHMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 NFC Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UNHMIXM</td><td>14.0</td><td>4.5 GB</td><td>2024-03-29</td><td><a href="/hyperos/sapphiren/stable/OS1.0.2.0.UNHMIXM/">Download</a></td></tr>
+                <tr><td>Mi 11 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UKBEUXM</td><td>14.0</td><td>5.0 GB</td><td>2024-04-18</td><td><a href="/hyperos/venus/stable beta/OS1.0.2.0.UKBEUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

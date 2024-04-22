@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 22 Apr 2024 00:40:59 </lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 07:55:04 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS1.0.3.0.UNQMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
+            <pubDate>Mon, 22 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 11 (venus) - OS1.0.2.0.UKBEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/venus/</link>
+            <pubDate>Mon, 22 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.10.0.TLOINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
+            <pubDate>Mon, 22 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>POCO X5 5G (moonstone) - OS1.0.3.0.UMPEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/moonstone/</link>
@@ -962,11 +977,6 @@
             <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS1.0.2.0.UNQMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
-            <pubDate>Sun, 25 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13 (fuxi) - OS1.0.3.0.UMCMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
             <pubDate>Sat, 24 Feb 2024 00:00:00 </pubDate>
@@ -1044,11 +1054,6 @@
         <item>
             <title>Redmi Note 12 4G NFC (topaz) - OS1.0.4.0.UMGMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/topaz/</link>
-            <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.8.0.TLOINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
             <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -1159,11 +1164,6 @@
         <item>
             <title>Mi 11 Lite 5G (renoir) - V14.0.12.0.TKICNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/renoir/</link>
-            <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 (venus) - V14.0.7.0.TKBEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/venus/</link>
             <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
