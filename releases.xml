@@ -4,8 +4,28 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 22 Apr 2024 07:55:04 </lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 18:49:13 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS1.0.9.0.UNACNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Mon, 22 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>MIX Fold 3 (babylon) - OS1.0.5.0.UMVCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/babylon/</link>
+            <pubDate>Mon, 22 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS1.0.12.0.UMLCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/corot/</link>
+            <pubDate>Mon, 22 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 (fuxi) - OS1.0.4.0.UMCMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
+            <pubDate>Mon, 22 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS1.0.3.0.UNQMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
@@ -507,11 +527,6 @@
             <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS1.0.8.0.UNACNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Sat, 30 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13 (fuxi) - OS1.0.8.0.UMCCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
             <pubDate>Sat, 30 Mar 2024 00:00:00 </pubDate>
@@ -667,11 +682,6 @@
             <pubDate>Fri, 22 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS1.0.11.0.UMLCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Thu, 21 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 12 (fire) - OS1.0.1.0.UMXINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fire/</link>
             <pubDate>Thu, 21 Mar 2024 00:00:00 </pubDate>
@@ -735,11 +745,6 @@
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.13.0.UNLCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Tue, 19 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>MIX Fold 3 (babylon) - OS1.0.4.0.UMVCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/babylon/</link>
-            <pubDate>Mon, 18 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.3.0.UCVINXM</title>
@@ -975,11 +980,6 @@
             <title>Redmi Pad SE (xun) - V14.0.10.0.TMUCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
             <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 (fuxi) - OS1.0.3.0.UMCMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Sat, 24 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.2.0.UMRCNXM</title>

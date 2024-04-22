@@ -90,6 +90,12 @@
   version: OS1.0.3.0.UNACNXM
 - android: '14.0'
   codename: aurora
+  date: '2024-04-22'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UNACNXM/fw_aurora_miui_AURORA_OS1.0.9.0.UNACNXM_53b6a43c0e_14.0.zip
+  name: Xiaomi 14 Ultra
+  version: OS1.0.9.0.UNACNXM
+- android: '14.0'
+  codename: aurora
   date: '2024-03-21'
   download: https://bigota.d.miui.com/OS1.0.7.0.UNACNXM/fw_aurora_miui_AURORA_OS1.0.7.0.UNACNXM_81a48e3c20_14.0.zip
   name: Xiaomi 14 Ultra
@@ -106,6 +112,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UNAINXM/fw_aurora_miui_AURORAINGlobal_OS1.0.3.0.UNAINXM_5fb544e967_14.0.zip
   name: Xiaomi 14 Ultra
   version: OS1.0.3.0.UNAINXM
+- android: '14.0'
+  codename: babylon
+  date: '2024-04-22'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.5.0.UMVCNXM_8635874571_14.0.zip
+  name: MIX Fold 3
+  version: OS1.0.5.0.UMVCNXM
 - android: '14.0'
   codename: babylon
   date: '2024-03-18'
@@ -148,6 +160,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMLMIXM/fw_corot_miui_COROTGlobal_OS1.0.3.0.UMLMIXM_5f0f078eb2_14.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
   version: OS1.0.3.0.UMLMIXM
+- android: '14.0'
+  codename: corot
+  date: '2024-04-22'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UMLCNXM/fw_corot_miui_COROT_OS1.0.12.0.UMLCNXM_3f33752523_14.0.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS1.0.12.0.UMLCNXM
 - android: '14.0'
   codename: corot
   date: '2024-03-21'
@@ -568,6 +586,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMCMIXM/fw_fuxi_miui_FUXIGlobal_OS1.0.3.0.UMCMIXM_467068ff9b_14.0.zip
   name: Xiaomi 13
   version: OS1.0.3.0.UMCMIXM
+- android: '14.0'
+  codename: fuxi
+  date: '2024-04-22'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMCMIXM/fw_fuxi_miui_FUXIGlobal_OS1.0.4.0.UMCMIXM_be254ec547_14.0.zip
+  name: Xiaomi 13
+  version: OS1.0.4.0.UMCMIXM
 - android: '14.0'
   codename: fuxi
   date: '2024-02-20'
