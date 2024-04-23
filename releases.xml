@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 23 Apr 2024 02:04:28 </lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 06:45:29 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13T (aristotle) - OS1.0.4.0.UMFMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/aristotle/</link>
+            <pubDate>Tue, 23 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - OS1.0.3.0.TKHCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/alioth/</link>
@@ -620,11 +625,6 @@
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS1.0.2.0.UNOEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13T (aristotle) - OS1.0.3.0.UMFMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/aristotle/</link>
-            <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS1.0.3.0.UNAMIXM</title>
