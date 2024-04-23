@@ -39,6 +39,16 @@
     android: '13.0'
     miui: V14.0.1.0.TMAMIXM
 - branch: stable
+  date: '2024-04-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-23.04.2024/fw_ishtar_miui_ISHTARGlobal_OS1.0.6.0.UMAMIXM_701344d13f_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ishtar/fw_ishtar_miui_ISHTARGlobal_OS1.0.6.0.UMAMIXM_701344d13f_14.0.zip
+  filename: fw_ishtar_miui_ISHTARGlobal_OS1.0.6.0.UMAMIXM_701344d13f_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.6.0.UMAMIXM
+- branch: stable
   date: '2023-12-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-22.12.2023/fw_ishtar_miui_ISHTAREEAGlobal_OS1.0.5.0.UMAEUXM_70d6c1e142_14.0.zip

@@ -23,6 +23,12 @@
   name: Xiaomi 11T
   version: OS1.0.2.0.UKWEUXM
 - android: '13.0'
+  codename: alioth
+  date: '2024-04-22'
+  download: https://bigota.d.miui.com/OS1.0.3.0.TKHCNXM/fw_alioth_miui_ALIOTH_OS1.0.3.0.TKHCNXM_eab81b6bf0_13.0.zip
+  name: Redmi K40/POCO F3/Mi 11X
+  version: OS1.0.3.0.TKHCNXM
+- android: '13.0'
   codename: ares
   date: '2024-03-12'
   download: https://bigota.d.miui.com/OS1.0.2.0.TKJCNXM/fw_ares_miui_ARES_OS1.0.2.0.TKJCNXM_09a01a89e6_13.0.zip
@@ -868,6 +874,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMAMIXM/fw_ishtar_miui_ISHTARGlobal_OS1.0.5.0.UMAMIXM_c5739993c8_14.0.zip
   name: Xiaomi 13 Ultra
   version: OS1.0.5.0.UMAMIXM
+- android: '14.0'
+  codename: ishtar
+  date: '2024-04-22'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMAMIXM/fw_ishtar_miui_ISHTARGlobal_OS1.0.6.0.UMAMIXM_701344d13f_14.0.zip
+  name: Xiaomi 13 Ultra
+  version: OS1.0.6.0.UMAMIXM
 - android: '14.0'
   codename: ishtar
   date: '2023-12-22'
@@ -1938,6 +1950,12 @@
   version: OS1.0.2.0.ULIMIXM
 - android: '14.0'
   codename: tapas
+  date: '2024-04-22'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMTMIXM/fw_tapas_miui_TAPASGlobal_OS1.0.7.0.UMTMIXM_46440536c3_14.0.zip
+  name: Redmi Note 12 4G
+  version: OS1.0.7.0.UMTMIXM
+- android: '14.0'
+  codename: tapas
   date: '2024-02-18'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMTMIXM/fw_tapas_miui_TAPASGlobal_OS1.0.4.0.UMTMIXM_5f979b1e34_14.0.zip
   name: Redmi Note 12 4G
@@ -2074,6 +2092,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.5.0.UNKCNXM_164e6600c7_14.0.zip
   name: Redmi K70/POCO F6 Pro
   version: OS1.0.5.0.UNKCNXM
+- android: '13.0'
+  codename: veux
+  date: '2024-04-22'
+  download: https://bigota.d.miui.com/OS1.0.1.0.TKCEUXM/fw_veux_miui_VEUXEEAGlobal_OS1.0.1.0.TKCEUXM_0e7bce6579_13.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: OS1.0.1.0.TKCEUXM
 - android: '13.0'
   codename: veux
   date: '2024-04-22'

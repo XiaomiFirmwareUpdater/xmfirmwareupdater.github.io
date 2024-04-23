@@ -869,6 +869,16 @@
     android: '11.0'
     miui: V12.5.5.0.RKHINXM
 - branch: stable
+  date: '2024-04-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-23.04.2024/fw_alioth_miui_ALIOTH_OS1.0.3.0.TKHCNXM_eab81b6bf0_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/alioth/fw_alioth_miui_ALIOTH_OS1.0.3.0.TKHCNXM_eab81b6bf0_13.0.zip
+  filename: fw_alioth_miui_ALIOTH_OS1.0.3.0.TKHCNXM_eab81b6bf0_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: OS1.0.3.0.TKHCNXM
+- branch: stable
   date: '2023-03-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-23.03.2023/fw_alioth_miui_ALIOTHGlobal_V14.0.4.0.TKHMIXM_b9ed940850_13.0.zip
@@ -31148,6 +31158,16 @@
   versions:
     android: '13.0'
     miui: V14.0.1.0.TMAMIXM
+- branch: stable
+  date: '2024-04-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-23.04.2024/fw_ishtar_miui_ISHTARGlobal_OS1.0.6.0.UMAMIXM_701344d13f_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ishtar/fw_ishtar_miui_ISHTARGlobal_OS1.0.6.0.UMAMIXM_701344d13f_14.0.zip
+  filename: fw_ishtar_miui_ISHTARGlobal_OS1.0.6.0.UMAMIXM_701344d13f_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.6.0.UMAMIXM
 - branch: stable
   date: '2023-12-22'
   downloads:
@@ -62869,6 +62889,16 @@
     android: '13.0'
     miui: V14.0.6.0.TMTMIXM
 - branch: stable
+  date: '2024-04-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-23.04.2024/fw_tapas_miui_TAPASGlobal_OS1.0.7.0.UMTMIXM_46440536c3_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/tapas/fw_tapas_miui_TAPASGlobal_OS1.0.7.0.UMTMIXM_46440536c3_14.0.zip
+  filename: fw_tapas_miui_TAPASGlobal_OS1.0.7.0.UMTMIXM_46440536c3_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.7.0.UMTMIXM
+- branch: stable
   date: '2023-09-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-18.09.2023/fw_tapas_miui_TAPASGlobal_V14.0.14.0.TMTMIXM_5f71e96ec0_13.0.zip
@@ -70618,6 +70648,16 @@
   versions:
     android: '11.0'
     miui: V13.0.6.0.RKCCNXM
+- branch: stable
+  date: '2024-04-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-23.04.2024/fw_veux_miui_VEUXEEAGlobal_OS1.0.1.0.TKCEUXM_0e7bce6579_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/veux/fw_veux_miui_VEUXEEAGlobal_OS1.0.1.0.TKCEUXM_0e7bce6579_13.0.zip
+  filename: fw_veux_miui_VEUXEEAGlobal_OS1.0.1.0.TKCEUXM_0e7bce6579_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: OS1.0.1.0.TKCEUXM
 - branch: stable
   date: '2023-07-22'
   downloads:
