@@ -58699,6 +58699,16 @@
     android: '14.0'
     miui: OS1.0.7.0.UNXCNXM
 - branch: stable
+  date: '2024-04-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sheng/releases/download/stable-24.04.2024/fw_sheng_miui_SHENGGlobal_OS1.0.1.0.UNXMIXM_8a380171ea_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sheng/fw_sheng_miui_SHENGGlobal_OS1.0.1.0.UNXMIXM_8a380171ea_14.0.zip
+  filename: fw_sheng_miui_SHENGGlobal_OS1.0.1.0.UNXMIXM_8a380171ea_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.1.0.UNXMIXM
+- branch: stable
   date: '2024-03-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sheng/releases/download/stable-12.03.2024/fw_sheng_miui_SHENG_OS1.0.5.0.UNXCNXM_c360e030b8_14.0.zip

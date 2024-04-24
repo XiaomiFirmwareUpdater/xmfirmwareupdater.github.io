@@ -52,7 +52,11 @@ permalink: /archive/hyperos/sheng/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 6S Pro 12.4 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UNXEUXM</td><td>14.0</td><td>5.4 GB</td><td>2024-04-03</td><td><a href="/hyperos/sheng/stable/OS1.0.1.0.UNXEUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 6S Pro 12.4 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UNXMIXM</td><td>14.0</td><td>5.4 GB</td><td>2024-04-24</td><td><a href="/hyperos/sheng/stable/OS1.0.1.0.UNXMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6S Pro 12.4 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UNXMIXM</td><td>14.0</td><td>6.1 GB</td><td>2024-03-21</td><td><a href="/hyperos/sheng/stable/OS1.0.1.0.UNXMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6S Pro 12.4 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UNXRUXM</td><td>14.0</td><td>5.3 GB</td><td>2024-04-24</td><td><a href="/hyperos/sheng/stable/OS1.0.1.0.UNXRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6S Pro 12.4 Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UNXRUXM</td><td>14.0</td><td>6.4 GB</td><td>2024-03-13</td><td><a href="/hyperos/sheng/stable/OS1.0.1.0.UNXRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6S Pro 12.4 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UNXEUXM</td><td>14.0</td><td>5.4 GB</td><td>2024-04-03</td><td><a href="/hyperos/sheng/stable/OS1.0.1.0.UNXEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6S Pro 12.4 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UNXEUXM</td><td>14.0</td><td>6.0 GB</td><td>2024-03-06</td><td><a href="/hyperos/sheng/stable/OS1.0.1.0.UNXEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6S Pro 12.4 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UNXCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-03-20</td><td><a href="/hyperos/sheng/stable/OS1.0.7.0.UNXCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6S Pro 12.4 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UNXCNXM</td><td>14.0</td><td>7.8 GB</td><td>2024-03-15</td><td><a href="/hyperos/sheng/stable/OS1.0.7.0.UNXCNXM/">Download</a></td></tr>

@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 24 Apr 2024 06:43:09 </lastBuildDate>
+        <lastBuildDate>Wed, 24 Apr 2024 14:08:37 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS1.0.1.0.UNXMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sheng/</link>
+            <pubDate>Wed, 24 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 13T (aristotle) - OS1.0.4.0.UMFMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/aristotle/</link>
