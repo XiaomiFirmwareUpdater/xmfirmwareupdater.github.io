@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 25 Apr 2024 06:42:39 </lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 12:58:22 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS1.0.4.0.UNRCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
+            <pubDate>Thu, 25 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS1.0.5.0.UNQINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
@@ -865,11 +870,6 @@
             <title>Redmi Pad SE (xun) - OS1.0.1.0.UMUEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
             <pubDate>Fri, 15 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - V14.0.18.0.TNRCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
-            <pubDate>Thu, 14 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.4.0.UMOCNXM</title>
