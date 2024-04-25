@@ -2020,6 +2020,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.ULACNXM/fw_thor_miui_THOR_OS1.0.5.0.ULACNXM_5282e8adc1_14.0.zip
   name: Xiaomi 12S Ultra
   version: OS1.0.5.0.ULACNXM
+- android: '13.0'
+  codename: thyme
+  date: '2024-04-25'
+  download: https://bigota.d.miui.com/OS1.0.3.0.TGACNXM/fw_thyme_miui_THYME_OS1.0.3.0.TGACNXM_944261b3df_13.0.zip
+  name: Mi 10S
+  version: OS1.0.3.0.TGACNXM
 - android: '14.0'
   codename: topaz
   date: '2024-01-22'

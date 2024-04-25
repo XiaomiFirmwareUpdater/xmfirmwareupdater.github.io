@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 25 Apr 2024 12:58:22 </lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 19:33:43 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS1.0.4.0.UNRCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
+            <pubDate>Thu, 25 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 10S (thyme) - OS1.0.3.0.TGACNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/thyme/</link>
             <pubDate>Thu, 25 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -1275,11 +1280,6 @@
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.8.0.TKHMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/alioth/</link>
             <pubDate>Tue, 19 Sep 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 10S (thyme) - V14.0.6.0.TGACNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/thyme/</link>
-            <pubDate>Tue, 12 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V14.0.5.0.TKAMIXM</title>

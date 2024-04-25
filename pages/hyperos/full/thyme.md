@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) HyperOS Downloads
+title: Mi 10S (thyme) HyperOS Downloads
 layout: download
-name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
-codename: xaga
-permalink: /archive/hyperos/xaga/
+name: Mi 10S
+codename: thyme
+permalink: /archive/hyperos/thyme/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/xaga/">Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/thyme/">Mi 10S</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /archive/hyperos/xaga/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows all available downloads.
      If you're looking for the latest releases check or other downloads check:</p>
-    <a href="/hyperos/xaga/" class="card-link">Latest HyperOS</a>
-    <a href="/firmware/xaga/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/xaga/" class="card-link">Vendor Downloads</a>
+    <a href="/hyperos/thyme/" class="card-link">Latest HyperOS</a>
+    <a href="/firmware/thyme/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/thyme/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,8 +52,7 @@ permalink: /archive/hyperos/xaga/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.ULOCNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-04-10</td><td><a href="/hyperos/xaga/stable/OS1.0.1.0.ULOCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.ULOCNXM</td><td>14.0</td><td>7.2 GB</td><td>2024-03-29</td><td><a href="/hyperos/xaga/stable/OS1.0.1.0.ULOCNXM/">Download</a></td></tr>
+                <tr><td>Mi 10S China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.TGACNXM</td><td>13.0</td><td>4.2 GB</td><td>2024-04-22</td><td><a href="/hyperos/thyme/stable beta/OS1.0.3.0.TGACNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

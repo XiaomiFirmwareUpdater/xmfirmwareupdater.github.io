@@ -52,7 +52,8 @@ permalink: /hyperos/xaga/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.ULOCNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-04-10</td><td><a href="/hyperos/xaga/stable beta/OS1.0.1.0.ULOCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.ULOCNXM</td><td>14.0</td><td>7.2 GB</td><td>2024-03-29</td><td><a href="/hyperos/xaga/stable/OS1.0.1.0.ULOCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.ULOCNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-04-10</td><td><a href="/hyperos/xaga/stable/OS1.0.1.0.ULOCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
