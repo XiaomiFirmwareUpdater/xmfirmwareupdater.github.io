@@ -57,8 +57,6 @@ permalink: /miui/lisa/
 <tr><td>Xiaomi 11 Lite 5G NE Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RKOMIXM</td><td>11.0</td><td>3.1 GB</td><td>2021-09-16</td><td><a href="/miui/lisa/stable beta/V12.5.1.0.RKOMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE India</td><td>Stable</td><td>Fastboot</td><td>V14.0.8.0.TKOINXM</td><td>13.0</td><td>5.5 GB</td><td>2023-12-29</td><td><a href="/miui/lisa/stable/V14.0.8.0.TKOINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE India</td><td>Stable</td><td>Recovery</td><td>V14.0.8.0.TKOINXM</td><td>13.0</td><td>4.7 GB</td><td>2024-01-10</td><td><a href="/miui/lisa/stable/V14.0.8.0.TKOINXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11 Lite 5G NE Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TKORUXM</td><td>13.0</td><td>6.0 GB</td><td>2023-12-22</td><td><a href="/miui/lisa/stable/V14.0.6.0.TKORUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11 Lite 5G NE Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TKORUXM</td><td>13.0</td><td>4.6 GB</td><td>2023-12-28</td><td><a href="/miui/lisa/stable/V14.0.6.0.TKORUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TKOTRXM</td><td>13.0</td><td>4.6 GB</td><td>2023-10-16</td><td><a href="/miui/lisa/stable beta/V14.0.5.0.TKOTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TKOTWXM</td><td>13.0</td><td>4.5 GB</td><td>2023-10-17</td><td><a href="/miui/lisa/stable beta/V14.0.5.0.TKOTWXM/">Download</a></td></tr>
 

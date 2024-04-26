@@ -108,6 +108,12 @@
   version: OS1.0.3.0.UNACNXM
 - android: '14.0'
   codename: aurora
+  date: '2024-04-26'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UNAMIXM/fw_aurora_miui_AURORAGlobal_OS1.0.5.0.UNAMIXM_de4559b0f0_14.0.zip
+  name: Xiaomi 14 Ultra
+  version: OS1.0.5.0.UNAMIXM
+- android: '14.0'
+  codename: aurora
   date: '2024-04-22'
   download: https://bigota.d.miui.com/OS1.0.9.0.UNACNXM/fw_aurora_miui_AURORA_OS1.0.9.0.UNACNXM_53b6a43c0e_14.0.zip
   name: Xiaomi 14 Ultra
@@ -2038,6 +2044,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.TGACNXM/fw_thyme_miui_THYME_OS1.0.3.0.TGACNXM_944261b3df_13.0.zip
   name: Mi 10S
   version: OS1.0.3.0.TGACNXM
+- android: '14.0'
+  codename: topaz
+  date: '2024-04-26'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMGEUXM/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.9.0.UMGEUXM_4065380f8c_14.0.zip
+  name: Redmi Note 12 4G NFC
+  version: OS1.0.9.0.UMGEUXM
 - android: '14.0'
   codename: topaz
   date: '2024-01-22'

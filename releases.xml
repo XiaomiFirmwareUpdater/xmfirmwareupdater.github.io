@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 26 Apr 2024 07:31:55 </lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 14:26:09 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - OS1.0.2.0.TKHMIXM</title>
@@ -12,8 +12,18 @@
             <pubDate>Fri, 26 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS1.0.5.0.UNAMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Fri, 26 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS1.0.2.0.UNQEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
+            <pubDate>Fri, 26 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 4G NFC (topaz) - OS1.0.9.0.UMGEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/topaz/</link>
             <pubDate>Fri, 26 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -244,11 +254,6 @@
         <item>
             <title>Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite (shennong) - OS1.0.38.0.UNBCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/shennong/</link>
-            <pubDate>Wed, 17 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 4G NFC (topaz) - OS1.0.7.0.UMGEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/topaz/</link>
             <pubDate>Wed, 17 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -655,11 +660,6 @@
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS1.0.2.0.UNOEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS1.0.3.0.UNAMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS1.0.3.0.UMLMIXM</title>
