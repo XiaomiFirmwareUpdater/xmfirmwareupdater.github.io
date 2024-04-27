@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 27 Apr 2024 18:45:11 </lastBuildDate>
+        <lastBuildDate>Sun, 28 Apr 2024 01:10:49 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 12 (fire) - OS1.0.4.0.UMXMIXM</title>
@@ -14,6 +14,11 @@
         <item>
             <title>Redmi 12 (fire) - OS1.0.6.0.UMXEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fire/</link>
+            <pubDate>Sat, 27 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Ultra (ishtar) - OS1.0.8.0.UMAEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ishtar/</link>
             <pubDate>Sat, 27 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -930,11 +935,6 @@
             <title>Xiaomi 12 Pro (zeus) - OS1.0.2.0.ULBINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Tue, 05 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Ultra (ishtar) - OS1.0.6.0.UMAEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ishtar/</link>
-            <pubDate>Mon, 04 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.5.0.UMREUXM</title>
