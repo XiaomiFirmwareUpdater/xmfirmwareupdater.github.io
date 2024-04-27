@@ -24069,6 +24069,26 @@
     android: '11.0'
     miui: V12.0.1.0.RJXINXM
 - branch: stable
+  date: '2024-04-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-27.04.2024/fw_fire_miui_FIREEEAGlobal_OS1.0.6.0.UMXEUXM_e2e66844e4_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fire/fw_fire_miui_FIREEEAGlobal_OS1.0.6.0.UMXEUXM_e2e66844e4_14.0.zip
+  filename: fw_fire_miui_FIREEEAGlobal_OS1.0.6.0.UMXEUXM_e2e66844e4_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.6.0.UMXEUXM
+- branch: stable
+  date: '2024-04-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-27.04.2024/fw_fire_miui_FIREGlobal_OS1.0.4.0.UMXMIXM_d3b013b97b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fire/fw_fire_miui_FIREGlobal_OS1.0.4.0.UMXMIXM_d3b013b97b_14.0.zip
+  filename: fw_fire_miui_FIREGlobal_OS1.0.4.0.UMXMIXM_d3b013b97b_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UMXMIXM
+- branch: stable
   date: '2023-10-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-26.10.2023/fw_fire_miui_FIREGlobal_V14.0.12.0.TMXMIXM_be1115dfaa_13.0.zip
