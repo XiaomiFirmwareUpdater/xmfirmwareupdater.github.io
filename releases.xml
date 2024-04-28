@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 28 Apr 2024 06:41:29 </lastBuildDate>
+        <lastBuildDate>Sun, 28 Apr 2024 14:02:59 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS1.0.4.0.ULFEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
+            <pubDate>Sun, 28 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite (shennong) - OS1.0.39.0.UNBCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/shennong/</link>
+            <pubDate>Sun, 28 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS1.0.5.0.UMWEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
+            <pubDate>Sun, 28 Apr 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 12 (fire) - OS1.0.4.0.UMXMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fire/</link>
@@ -265,16 +280,6 @@
             <title>Xiaomi 14 (houji) - OS1.0.36.0.UNCCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
             <pubDate>Wed, 17 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite (shennong) - OS1.0.38.0.UNBCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/shennong/</link>
-            <pubDate>Wed, 17 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS1.0.3.0.ULFEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/diting/</link>
-            <pubDate>Tue, 16 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 13 (fuxi) - OS1.0.4.0.UMCEUXM</title>
@@ -589,11 +594,6 @@
         <item>
             <title>POCO M5/Redmi 11 Prime 4G (rock) - OS1.0.2.0.ULUEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/rock/</link>
-            <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS1.0.2.0.UMWEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sky/</link>
             <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>

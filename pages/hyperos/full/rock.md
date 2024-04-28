@@ -53,7 +53,8 @@ permalink: /archive/hyperos/rock/
                 </thead>
                 <tbody>
                 <tr><td>POCO M5 Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.ULURUXM</td><td>14.0</td><td>4.0 GB</td><td>2024-04-23</td><td><a href="/hyperos/rock/stable beta/OS1.0.3.0.ULURUXM/">Download</a></td></tr>
-<tr><td>POCO M5 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.ULUIDXM</td><td>14.0</td><td>3.9 GB</td><td>2024-04-17</td><td><a href="/hyperos/rock/stable beta/OS1.0.3.0.ULUIDXM/">Download</a></td></tr>
+<tr><td>POCO M5 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.ULUIDXM</td><td>14.0</td><td>3.9 GB</td><td>2024-04-17</td><td><a href="/hyperos/rock/stable/OS1.0.3.0.ULUIDXM/">Download</a></td></tr>
+<tr><td>POCO M5 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.ULUIDXM</td><td>14.0</td><td>5.8 GB</td><td>2024-03-26</td><td><a href="/hyperos/rock/stable/OS1.0.3.0.ULUIDXM/">Download</a></td></tr>
 <tr><td>POCO M5 / Redmi 11 Prime 4G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.ULUINXM</td><td>14.0</td><td>3.9 GB</td><td>2024-04-09</td><td><a href="/hyperos/rock/stable/OS1.0.5.0.ULUINXM/">Download</a></td></tr>
 <tr><td>POCO M5 / Redmi 11 Prime 4G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.ULUINXM</td><td>14.0</td><td>5.2 GB</td><td>2024-04-02</td><td><a href="/hyperos/rock/stable/OS1.0.5.0.ULUINXM/">Download</a></td></tr>
 <tr><td>POCO M5 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULUEUXM</td><td>14.0</td><td>4.0 GB</td><td>2024-03-26</td><td><a href="/hyperos/rock/stable/OS1.0.2.0.ULUEUXM/">Download</a></td></tr>

@@ -294,6 +294,12 @@
   version: OS1.0.2.0.ULGCNXM
 - android: '14.0'
   codename: diting
+  date: '2024-04-28'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULFEUXM/fw_diting_miui_DITINGEEAGlobal_OS1.0.4.0.ULFEUXM_c709f90148_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.4.0.ULFEUXM
+- android: '14.0'
+  codename: diting
   date: '2024-03-28'
   download: https://bigota.d.miui.com/OS1.0.3.0.ULFMIXM/fw_diting_miui_DITINGGlobal_OS1.0.3.0.ULFMIXM_d9510f6e2d_14.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
@@ -1769,6 +1775,12 @@
   name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
   version: OS1.0.9.0.UNBCNXM
 - android: '14.0'
+  codename: shennong
+  date: '2024-04-28'
+  download: https://bigota.d.miui.com/OS1.0.39.0.UNBCNXM/fw_shennong_miui_SHENNONG_OS1.0.39.0.UNBCNXM_c67d65e7de_14.0.zip
+  name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
+  version: OS1.0.39.0.UNBCNXM
+- android: '14.0'
   codename: shennongt
   date: '2024-02-27'
   download: https://bigota.d.miui.com/OS1.0.2.0.UNDCNXM/fw_shennongt_miui_SHENNONGT_OS1.0.2.0.UNDCNXM_3036941359_14.0.zip
@@ -1846,6 +1858,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMWMIXM/fw_sky_miui_SKYGlobal_OS1.0.4.0.UMWMIXM_60e134c5d5_14.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
   version: OS1.0.4.0.UMWMIXM
+- android: '14.0'
+  codename: sky
+  date: '2024-04-28'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMWEUXM/fw_sky_miui_SKYEEAGlobal_OS1.0.5.0.UMWEUXM_5a684b4f60_14.0.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS1.0.5.0.UMWEUXM
 - android: '14.0'
   codename: sky
   date: '2024-01-27'
