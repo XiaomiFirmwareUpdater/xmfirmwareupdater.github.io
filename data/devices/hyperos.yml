@@ -2136,6 +2136,12 @@
   version: OS1.0.3.0.ULECNXM
 - android: '14.0'
   codename: venus
+  date: '2024-04-29'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UKBMIXM/fw_venus_miui_VENUSGlobal_OS1.0.2.0.UKBMIXM_9841c44a8c_14.0.zip
+  name: Mi 11
+  version: OS1.0.2.0.UKBMIXM
+- android: '14.0'
+  codename: venus
   date: '2024-04-22'
   download: https://bigota.d.miui.com/OS1.0.2.0.UKBEUXM/fw_venus_miui_VENUSEEAGlobal_OS1.0.2.0.UKBEUXM_958bbcbdfc_14.0.zip
   name: Mi 11
