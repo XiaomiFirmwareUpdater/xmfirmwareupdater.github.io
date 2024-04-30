@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 30 Apr 2024 13:44:31 </lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2024 19:09:51 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - V14.0.3.0.TGQMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/air/</link>
+            <pubDate>Tue, 30 Apr 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE (xun) - OS1.0.2.0.UMUMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
             <pubDate>Tue, 30 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -989,11 +994,6 @@
         <item>
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS1.0.1.0.UMQCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
-            <pubDate>Thu, 29 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad SE (xun) - OS1.0.1.0.UMUMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
             <pubDate>Thu, 29 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
