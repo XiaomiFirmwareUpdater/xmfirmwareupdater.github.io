@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 04 May 2024 00:43:32 </lastBuildDate>
+        <lastBuildDate>Sat, 04 May 2024 07:58:48 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Civi 4 Pro (chenfeng) - OS1.0.8.0.UNJCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/chenfeng/</link>
+            <pubDate>Sat, 04 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - V14.0.3.0.TGQMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/air/</link>
@@ -285,11 +290,6 @@
             <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS1.0.3.0.ULLCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Thu, 18 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 4 Pro (chenfeng) - OS1.0.7.0.UNJCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/chenfeng/</link>
-            <pubDate>Wed, 17 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 13C/POCO C65 (gale) - V14.0.5.0.TGPINXM</title>

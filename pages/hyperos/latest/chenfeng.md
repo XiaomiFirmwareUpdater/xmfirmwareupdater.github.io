@@ -54,6 +54,7 @@ permalink: /hyperos/chenfeng/
                 <tbody>
                 <tr><td>Xiaomi Civi 4 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UNJCNXM</td><td>14.0</td><td>8.6 GB</td><td>2024-04-09</td><td><a href="/hyperos/chenfeng/stable/OS1.0.7.0.UNJCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 4 Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UNJCNXM</td><td>14.0</td><td>6.7 GB</td><td>2024-04-13</td><td><a href="/hyperos/chenfeng/stable/OS1.0.7.0.UNJCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 4 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.8.0.UNJCNXM</td><td>14.0</td><td>6.7 GB</td><td>2024-04-30</td><td><a href="/hyperos/chenfeng/stable beta/OS1.0.8.0.UNJCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
