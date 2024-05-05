@@ -52,8 +52,8 @@ permalink: /hyperos/gold/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 13 5G / POCO X6 Neo 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UNQEUXM</td><td>14.0</td><td>7.2 GB</td><td>2024-03-12</td><td><a href="/hyperos/gold/stable/OS1.0.2.0.UNQEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 5G / POCO X6 Neo 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UNQEUXM</td><td>14.0</td><td>4.8 GB</td><td>2024-03-20</td><td><a href="/hyperos/gold/stable/OS1.0.2.0.UNQEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 13 5G / POCO X6 Neo 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UNQEUXM</td><td>14.0</td><td>7.2 GB</td><td>2024-04-29</td><td><a href="/hyperos/gold/stable/OS1.0.3.0.UNQEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 5G / POCO X6 Neo 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNQEUXM</td><td>14.0</td><td>4.8 GB</td><td>2024-04-30</td><td><a href="/hyperos/gold/stable/OS1.0.3.0.UNQEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 5G / POCO X6 Neo 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UNQMIXM</td><td>14.0</td><td>7.4 GB</td><td>2024-03-14</td><td><a href="/hyperos/gold/stable/OS1.0.3.0.UNQMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 5G / POCO X6 Neo 5G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNQMIXM</td><td>14.0</td><td>4.7 GB</td><td>2024-04-11</td><td><a href="/hyperos/gold/stable/OS1.0.3.0.UNQMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 5G / POCO X6 Neo 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UNQIDXM</td><td>14.0</td><td>6.8 GB</td><td>2024-03-18</td><td><a href="/hyperos/gold/stable/OS1.0.1.0.UNQIDXM/">Download</a></td></tr>

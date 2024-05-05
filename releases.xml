@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 05 May 2024 12:50:16 </lastBuildDate>
+        <lastBuildDate>Sun, 05 May 2024 19:45:29 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.3.0.UCVEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
+            <pubDate>Sun, 05 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS1.0.3.0.UNQEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
+            <pubDate>Sun, 05 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - OS1.0.2.0.UKKEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/haydn/</link>
             <pubDate>Sun, 05 May 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -74,11 +84,6 @@
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS1.0.5.0.UNAMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Fri, 26 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS1.0.2.0.UNQEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
             <pubDate>Fri, 26 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -1160,11 +1165,6 @@
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - V14.0.5.0.TGQCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/air/</link>
             <pubDate>Thu, 11 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V14.0.7.0.TKKEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/haydn/</link>
-            <pubDate>Tue, 19 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi Civi 3 (yuechu) - V14.0.11.0.TMICNXM</title>
