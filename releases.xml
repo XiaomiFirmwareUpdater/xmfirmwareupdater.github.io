@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 06 May 2024 14:32:44 </lastBuildDate>
+        <lastBuildDate>Mon, 06 May 2024 19:17:52 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - V14.0.6.0.TGQCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/air/</link>
+            <pubDate>Mon, 06 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13T (aristotle) - OS1.0.6.0.UMFEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/aristotle/</link>
             <pubDate>Mon, 06 May 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -44,6 +49,11 @@
         <item>
             <title>Redmi Note 12S (sea) - OS1.0.6.0.UHZMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sea/</link>
+            <pubDate>Mon, 06 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 11T Pro (vili) - OS1.0.2.0.UKDEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/vili/</link>
             <pubDate>Mon, 06 May 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -462,11 +472,6 @@
             <pubDate>Wed, 10 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 11T Pro (vili) - V14.0.18.0.TKDEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/vili/</link>
-            <pubDate>Wed, 10 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS1.0.4.0.ULLMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Wed, 10 Apr 2024 00:00:00 </pubDate>
@@ -605,11 +610,6 @@
             <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - OS1.0.3.0.TKCMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/veux/</link>
             <pubDate>Tue, 02 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13T (aristotle) - OS1.0.5.0.UMFEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/aristotle/</link>
-            <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>POCO M4 Pro 5G (evergreen) - OS1.0.1.0.TGBMIXM</title>

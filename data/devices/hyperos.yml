@@ -72,6 +72,12 @@
   version: OS1.0.2.0.UMFMIXM
 - android: '14.0'
   codename: aristotle
+  date: '2024-05-06'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMFEUXM/fw_aristotle_miui_ARISTOTLEEEAGlobal_OS1.0.6.0.UMFEUXM_3cfffbb320_14.0.zip
+  name: Xiaomi 13T
+  version: OS1.0.6.0.UMFEUXM
+- android: '14.0'
+  codename: aristotle
   date: '2024-04-01'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMFEUXM/fw_aristotle_miui_ARISTOTLEEEAGlobal_OS1.0.5.0.UMFEUXM_0b4c8fdf0a_14.0.zip
   name: Xiaomi 13T
@@ -2296,6 +2302,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.TGDINXM/fw_vida_miui_VIDAINGlobal_OS1.0.3.0.TGDINXM_1004dd4f10_13.0.zip
   name: Redmi Note 11 Pro 4G
   version: OS1.0.3.0.TGDINXM
+- android: '14.0'
+  codename: vili
+  date: '2024-05-06'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UKDEUXM/fw_vili_miui_VILIEEAGlobal_OS1.0.2.0.UKDEUXM_bc09d1ca3c_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.2.0.UKDEUXM
 - android: '13.0'
   codename: viva
   date: '2024-02-29'
