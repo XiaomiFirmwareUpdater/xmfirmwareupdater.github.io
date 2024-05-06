@@ -78,3 +78,13 @@
   versions:
     android: '13.0'
     miui: V14.0.4.0.TGQCNXM
+- branch: stable
+  date: '2024-05-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-06.05.2024/fw_air_miui_AIR_V14.0.6.0.TGQCNXM_d12e5e5014_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/air/fw_air_miui_AIR_V14.0.6.0.TGQCNXM_d12e5e5014_13.0.zip
+  filename: fw_air_miui_AIR_V14.0.6.0.TGQCNXM_d12e5e5014_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TGQCNXM

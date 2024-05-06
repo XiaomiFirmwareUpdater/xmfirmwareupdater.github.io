@@ -689,6 +689,18 @@
   name: Redmi 13C/POCO C65
   version: OS1.0.1.0.UGPMIXM
 - android: '14.0'
+  codename: gale
+  date: '2024-05-06'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UGPEUXM/fw_gale_miui_GALEEEAGlobal_OS1.0.2.0.UGPEUXM_b5b926d640_14.0.zip
+  name: Redmi 13C/POCO C65
+  version: OS1.0.2.0.UGPEUXM
+- android: '14.0'
+  codename: gale
+  date: '2024-05-06'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UGPINXM/fw_gale_miui_GALEINGlobal_OS1.0.2.0.UGPINXM_c0fa2c2c6c_14.0.zip
+  name: Redmi 13C/POCO C65
+  version: OS1.0.2.0.UGPINXM
+- android: '14.0'
   codename: garnet
   date: '2024-03-28'
   download: https://bigota.d.miui.com/OS1.0.11.0.UNREUXM/fw_garnet_miui_GARNETEEAGlobal_OS1.0.11.0.UNREUXM_f1d087a904_14.0.zip
@@ -766,6 +778,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UNQEUXM/fw_gold_miui_GOLDEEAGlobal_OS1.0.1.0.UNQEUXM_2fbe1f59fa_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: OS1.0.1.0.UNQEUXM
+- android: '14.0'
+  codename: gold
+  date: '2024-05-06'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNQMIXM/fw_gold_miui_GOLDGlobal_OS1.0.4.0.UNQMIXM_5bafc0a47d_14.0.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS1.0.4.0.UNQMIXM
 - android: '14.0'
   codename: gold
   date: '2024-05-05'
