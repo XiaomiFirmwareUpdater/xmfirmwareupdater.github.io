@@ -240,6 +240,12 @@
   version: OS1.0.4.0.UMLEUXM
 - android: '14.0'
   codename: corot
+  date: '2024-05-06'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMLEUXM/fw_corot_miui_COROTEEAGlobal_OS1.0.7.0.UMLEUXM_f12bc976f6_14.0.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS1.0.7.0.UMLEUXM
+- android: '14.0'
+  codename: corot
   date: '2023-12-03'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMLCNXM/fw_corot_miui_COROT_OS1.0.5.0.UMLCNXM_a2e2e5f060_14.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
@@ -888,6 +894,12 @@
   version: OS1.0.5.0.UNCMIXM
 - android: '14.0'
   codename: houji
+  date: '2024-05-06'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UNCMIXM/fw_houji_miui_HOUJIGlobal_OS1.0.11.0.UNCMIXM_74f68cfcdf_14.0.zip
+  name: Xiaomi 14
+  version: OS1.0.11.0.UNCMIXM
+- android: '14.0'
+  codename: houji
   date: '2024-03-06'
   download: https://bigota.d.miui.com/OS1.0.6.0.UNCINXM/fw_houji_miui_HOUJIINGlobal_OS1.0.6.0.UNCINXM_288e04cd18_14.0.zip
   name: Xiaomi 14
@@ -1300,6 +1312,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.ULMCNXM/fw_munch_miui_MUNCH_OS1.0.1.0.ULMCNXM_f022829508_14.0.zip
   name: Redmi K40S/POCO F4
   version: OS1.0.1.0.ULMCNXM
+- android: '14.0'
+  codename: munch
+  date: '2024-05-06'
+  download: https://bigota.d.miui.com/OS1.0.1.0.ULMMIXM/fw_munch_miui_MUNCHGlobal_OS1.0.1.0.ULMMIXM_fcd5899d29_14.0.zip
+  name: Redmi K40S/POCO F4
+  version: OS1.0.1.0.ULMMIXM
 - android: '13.0'
   codename: nabu
   date: '2024-03-28'
@@ -1762,6 +1780,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UHZMIXM/fw_sea_miui_SEAGlobal_OS1.0.3.0.UHZMIXM_d4c318c44e_14.0.zip
   name: Redmi Note 12S
   version: OS1.0.3.0.UHZMIXM
+- android: '14.0'
+  codename: sea
+  date: '2024-05-06'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UHZMIXM/fw_sea_miui_SEAGlobal_OS1.0.6.0.UHZMIXM_a3d9cf5609_14.0.zip
+  name: Redmi Note 12S
+  version: OS1.0.6.0.UHZMIXM
 - android: '14.0'
   codename: sheng
   date: '2024-03-29'

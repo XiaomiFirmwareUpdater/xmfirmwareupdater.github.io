@@ -4,8 +4,28 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 06 May 2024 00:43:18 </lastBuildDate>
+        <lastBuildDate>Mon, 06 May 2024 08:53:47 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS1.0.7.0.UMLEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/corot/</link>
+            <pubDate>Mon, 06 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 (houji) - OS1.0.11.0.UNCMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Mon, 06 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K40S/POCO F4 (munch) - OS1.0.1.0.ULMMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/munch/</link>
+            <pubDate>Mon, 06 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12S (sea) - OS1.0.6.0.UHZMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sea/</link>
+            <pubDate>Mon, 06 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.3.0.UCVEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
@@ -502,11 +522,6 @@
             <pubDate>Sun, 07 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS1.0.6.0.UMLEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Sun, 07 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 10C (fog) - V14.0.6.0.TGEMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fog/</link>
             <pubDate>Sun, 07 Apr 2024 00:00:00 </pubDate>
@@ -749,11 +764,6 @@
         <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS1.0.4.0.UNRINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
-            <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 (houji) - OS1.0.6.0.UNCMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/houji/</link>
             <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -1052,11 +1062,6 @@
             <pubDate>Fri, 23 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K40S/POCO F4 (munch) - V14.0.6.0.TLMMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/munch/</link>
-            <pubDate>Fri, 23 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12X (psyche) - OS1.0.3.0.TLDCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/psyche/</link>
             <pubDate>Fri, 23 Feb 2024 00:00:00 </pubDate>
@@ -1069,11 +1074,6 @@
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.6.0.UMNCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
-            <pubDate>Thu, 22 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12S (sea) - OS1.0.5.0.UHZMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sea/</link>
             <pubDate>Thu, 22 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
