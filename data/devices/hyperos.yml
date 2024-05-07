@@ -12,6 +12,12 @@
   version: OS1.0.2.0.UKWMIXM
 - android: '14.0'
   codename: agate
+  date: '2024-05-07'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UKWEUXM/fw_agate_miui_AGATEEEAGlobal_OS1.0.3.0.UKWEUXM_d82f7096eb_14.0.zip
+  name: Xiaomi 11T
+  version: OS1.0.3.0.UKWEUXM
+- android: '14.0'
+  codename: agate
   date: '2024-04-07'
   download: https://bigota.d.miui.com/OS1.0.4.0.UKWMIXM/fw_agate_miui_AGATEGlobal_OS1.0.4.0.UKWMIXM_86cb23ca40_14.0.zip
   name: Xiaomi 11T
@@ -34,6 +40,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.TKHCNXM/fw_alioth_miui_ALIOTH_OS1.0.3.0.TKHCNXM_eab81b6bf0_13.0.zip
   name: Redmi K40/POCO F3/Mi 11X
   version: OS1.0.3.0.TKHCNXM
+- android: '13.0'
+  codename: alioth
+  date: '2024-05-07'
+  download: https://bigota.d.miui.com/OS1.0.1.0.TKHEUXM/fw_alioth_miui_ALIOTHEEAGlobal_OS1.0.1.0.TKHEUXM_b0de6008b0_13.0.zip
+  name: Redmi K40/POCO F3/Mi 11X
+  version: OS1.0.1.0.TKHEUXM
 - android: '13.0'
   codename: ares
   date: '2024-03-12'
@@ -2080,6 +2092,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.2.0.UMQEUXM_c59a8d3a4c_14.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
   version: OS1.0.2.0.UMQEUXM
+- android: '14.0'
+  codename: sunstone
+  date: '2024-05-07'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UMQCNXM/fw_sunstone_miui_SUNSTONE_OS1.0.2.0.UMQCNXM_484735b030_14.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: OS1.0.2.0.UMQCNXM
 - android: '14.0'
   codename: sunstone
   date: '2024-04-07'

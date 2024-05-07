@@ -1,15 +1,15 @@
 ---
-title: Redmi K40/POCO F3/Mi 11X (alioth) HyperOS Downloads
+title: Mi 10 Pro (cmi) HyperOS Downloads
 layout: download
-name: Redmi K40/POCO F3/Mi 11X
-codename: alioth
-permalink: /archive/hyperos/alioth/
+name: Mi 10 Pro
+codename: cmi
+permalink: /archive/hyperos/cmi/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/alioth/">Redmi K40/POCO F3/Mi 11X</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/cmi/">Mi 10 Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /archive/hyperos/alioth/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows all available downloads.
      If you're looking for the latest releases check or other downloads check:</p>
-    <a href="/hyperos/alioth/" class="card-link">Latest HyperOS</a>
-    <a href="/firmware/alioth/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/alioth/" class="card-link">Vendor Downloads</a>
+    <a href="/hyperos/cmi/" class="card-link">Latest HyperOS</a>
+    <a href="/firmware/cmi/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/cmi/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,10 +52,7 @@ permalink: /archive/hyperos/alioth/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F3 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.TKHEUXM</td><td>13.0</td><td>4.0 GB</td><td>2024-04-22</td><td><a href="/hyperos/alioth/stable beta/OS1.0.1.0.TKHEUXM/">Download</a></td></tr>
-<tr><td>POCO F3 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.TKHMIXM</td><td>13.0</td><td>4.0 GB</td><td>2024-04-22</td><td><a href="/hyperos/alioth/stable beta/OS1.0.2.0.TKHMIXM/">Download</a></td></tr>
-<tr><td>Redmi K40 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.TKHCNXM</td><td>13.0</td><td>4.1 GB</td><td>2024-04-15</td><td><a href="/hyperos/alioth/stable/OS1.0.3.0.TKHCNXM/">Download</a></td></tr>
-<tr><td>Redmi K40 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.TKHCNXM</td><td>13.0</td><td>5.9 GB</td><td>2024-02-01</td><td><a href="/hyperos/alioth/stable/OS1.0.3.0.TKHCNXM/">Download</a></td></tr>
+                <tr><td>Mi 10 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.TJAMIXM</td><td>13.0</td><td>4.2 GB</td><td>2024-04-26</td><td><a href="/hyperos/cmi/stable beta/OS1.0.2.0.TJAMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
