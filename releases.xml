@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 08 May 2024 12:41:15 </lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2024 20:06:38 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K70/POCO F6 Pro (vermeer) - OS1.0.2.0.UNKMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/vermeer/</link>
+            <pubDate>Wed, 08 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 11T (agate) - OS1.0.3.0.UKWEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/agate/</link>
