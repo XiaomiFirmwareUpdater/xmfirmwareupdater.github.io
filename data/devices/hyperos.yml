@@ -1224,6 +1224,12 @@
   version: OS1.0.2.0.UMRMIXM
 - android: '14.0'
   codename: marble
+  date: '2024-05-09'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMRCNXM/fw_marble_miui_MARBLE_OS1.0.3.0.UMRCNXM_20479f8881_14.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS1.0.3.0.UMRCNXM
+- android: '14.0'
+  codename: marble
   date: '2024-03-04'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMREUXM/fw_marble_miui_MARBLEEEAGlobal_OS1.0.5.0.UMREUXM_58f0b22821_14.0.zip
   name: Redmi Note 12 Turbo/POCO F5
