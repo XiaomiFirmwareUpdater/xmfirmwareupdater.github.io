@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 09 May 2024 13:42:08 </lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 20:13:17 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - V14.0.2.0.TGQEUXM</title>
@@ -14,6 +14,21 @@
         <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.3.0.UMRCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
+            <pubDate>Thu, 09 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 11T Pro (vili) - OS1.0.2.0.UKDMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/vili/</link>
+            <pubDate>Thu, 09 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 11T Pro (vili) - OS1.0.2.0.UKDINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/vili/</link>
+            <pubDate>Thu, 09 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro+ 5G (zircon) - OS1.0.4.0.UNOEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Thu, 09 May 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -747,11 +762,6 @@
             <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 Pro+ 5G (zircon) - OS1.0.2.0.UNOEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
-            <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS1.0.3.0.UMLMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/corot/</link>
             <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
@@ -1167,11 +1177,6 @@
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 11T Pro (vili) - V14.0.5.0.TKDMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/vili/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Civi 3 (yuechu) - V14.0.11.0.TMICNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/yuechu/</link>
             <pubDate>Tue, 19 Dec 2023 00:00:00 </pubDate>
@@ -1199,11 +1204,6 @@
         <item>
             <title>Mi 11 Lite 5G (renoir) - V14.0.12.0.TKICNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/renoir/</link>
-            <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 11T Pro (vili) - V14.0.7.0.TKDINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/vili/</link>
             <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>

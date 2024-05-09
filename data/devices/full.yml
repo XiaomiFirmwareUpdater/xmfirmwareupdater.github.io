@@ -71839,6 +71839,26 @@
     android: '13.0'
     miui: V14.0.11.0.TKDEUXM
 - branch: stable
+  date: '2024-05-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-09.05.2024/fw_vili_miui_VILIGlobal_OS1.0.2.0.UKDMIXM_4666382f76_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vili/fw_vili_miui_VILIGlobal_OS1.0.2.0.UKDMIXM_4666382f76_14.0.zip
+  filename: fw_vili_miui_VILIGlobal_OS1.0.2.0.UKDMIXM_4666382f76_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.UKDMIXM
+- branch: stable
+  date: '2024-05-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-09.05.2024/fw_vili_miui_VILIINGlobal_OS1.0.2.0.UKDINXM_5f7f6dfacf_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vili/fw_vili_miui_VILIINGlobal_OS1.0.2.0.UKDINXM_5f7f6dfacf_14.0.zip
+  filename: fw_vili_miui_VILIINGlobal_OS1.0.2.0.UKDINXM_5f7f6dfacf_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.UKDINXM
+- branch: stable
   date: '2022-05-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-09.05.2022/fw_vili_miui_VILIINGlobal_V13.0.2.0.SKDINXM_2485287333_12.0.zip
@@ -76728,6 +76748,16 @@
   versions:
     android: '13.0'
     miui: V14.0.1.0.TNOINXM
+- branch: stable
+  date: '2024-05-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-09.05.2024/fw_zircon_miui_ZIRCONEEAGlobal_OS1.0.4.0.UNOEUXM_484ef00f3b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zircon/fw_zircon_miui_ZIRCONEEAGlobal_OS1.0.4.0.UNOEUXM_484ef00f3b_14.0.zip
+  filename: fw_zircon_miui_ZIRCONEEAGlobal_OS1.0.4.0.UNOEUXM_484ef00f3b_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UNOEUXM
 - branch: stable
   date: '2023-11-06'
   downloads:

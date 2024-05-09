@@ -2334,6 +2334,18 @@
   version: OS1.0.3.0.TGDINXM
 - android: '14.0'
   codename: vili
+  date: '2024-05-09'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UKDMIXM/fw_vili_miui_VILIGlobal_OS1.0.2.0.UKDMIXM_4666382f76_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.2.0.UKDMIXM
+- android: '14.0'
+  codename: vili
+  date: '2024-05-09'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UKDINXM/fw_vili_miui_VILIINGlobal_OS1.0.2.0.UKDINXM_5f7f6dfacf_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.2.0.UKDINXM
+- android: '14.0'
+  codename: vili
   date: '2024-05-06'
   download: https://bigota.d.miui.com/OS1.0.2.0.UKDEUXM/fw_vili_miui_VILIEEAGlobal_OS1.0.2.0.UKDEUXM_bc09d1ca3c_14.0.zip
   name: Xiaomi 11T Pro
@@ -2518,6 +2530,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UNOCNXM/fw_zircon_miui_ZIRCON_OS1.0.2.0.UNOCNXM_6c10262097_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.2.0.UNOCNXM
+- android: '14.0'
+  codename: zircon
+  date: '2024-05-09'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNOEUXM/fw_zircon_miui_ZIRCONEEAGlobal_OS1.0.4.0.UNOEUXM_484ef00f3b_14.0.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS1.0.4.0.UNOEUXM
 - android: '14.0'
   codename: zircon
   date: '2024-03-05'
