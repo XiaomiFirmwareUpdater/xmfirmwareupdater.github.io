@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 10 May 2024 12:51:07 </lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 19:44:26 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi A2/A2+/POCO C51 (water) - V14.0.14.0.TGOINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/water/</link>
+            <pubDate>Fri, 10 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE (xun) - OS1.0.2.0.UMUEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
+            <pubDate>Fri, 10 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro+ 5G (zircon) - OS1.0.3.0.UNOCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
+            <pubDate>Fri, 10 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - V14.0.2.0.TGQEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/air/</link>
@@ -967,11 +982,6 @@
             <pubDate>Fri, 15 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad SE (xun) - OS1.0.1.0.UMUEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
-            <pubDate>Fri, 15 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.4.0.UMOCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Thu, 14 Mar 2024 00:00:00 </pubDate>
@@ -1105,16 +1115,6 @@
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.6.0.UMNCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
             <pubDate>Thu, 22 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A2/A2+/POCO C51 (water) - V14.0.13.0.TGOINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/water/</link>
-            <pubDate>Wed, 21 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro+ 5G (zircon) - OS1.0.2.0.UNOCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
-            <pubDate>Tue, 20 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi Pad 5 Pro 12.4 (dagu) - OS1.0.1.0.ULZCNXM</title>

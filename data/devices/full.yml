@@ -73309,6 +73309,16 @@
     android: '13.0'
     miui: V14.0.13.0.TGOEUXM
 - branch: stable
+  date: '2024-05-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-10.05.2024/fw_water_miui_WATERINGlobal_V14.0.14.0.TGOINXM_9d2ab723b0_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERINGlobal_V14.0.14.0.TGOINXM_9d2ab723b0_13.0.zip
+  filename: fw_water_miui_WATERINGlobal_V14.0.14.0.TGOINXM_9d2ab723b0_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.14.0.TGOINXM
+- branch: stable
   date: '2023-06-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-09.06.2023/fw_water_miui_WATERINGlobal_V14.0.5.0.TGOINXM_7546d95734_13.0.zip
@@ -75309,6 +75319,16 @@
     android: '14.0'
     miui: OS1.0.1.0.UMUEUXM
 - branch: stable
+  date: '2024-05-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-10.05.2024/fw_xun_miui_XUNEEAGlobal_OS1.0.2.0.UMUEUXM_253904c07b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/xun/fw_xun_miui_XUNEEAGlobal_OS1.0.2.0.UMUEUXM_253904c07b_14.0.zip
+  filename: fw_xun_miui_XUNEEAGlobal_OS1.0.2.0.UMUEUXM_253904c07b_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.UMUEUXM
+- branch: stable
   date: '2023-12-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-04.12.2023/fw_xun_miui_XUNEEAGlobal_V14.0.4.0.TMUEUXM_6625fbfd9a_13.0.zip
@@ -76748,6 +76768,16 @@
   versions:
     android: '13.0'
     miui: V14.0.1.0.TNOINXM
+- branch: stable
+  date: '2024-05-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-10.05.2024/fw_zircon_miui_ZIRCON_OS1.0.3.0.UNOCNXM_e09092107e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zircon/fw_zircon_miui_ZIRCON_OS1.0.3.0.UNOCNXM_e09092107e_14.0.zip
+  filename: fw_zircon_miui_ZIRCON_OS1.0.3.0.UNOCNXM_e09092107e_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.UNOCNXM
 - branch: stable
   date: '2024-05-09'
   downloads:

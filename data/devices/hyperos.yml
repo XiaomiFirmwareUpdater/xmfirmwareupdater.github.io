@@ -2393,6 +2393,12 @@
   name: Redmi Pad SE
   version: OS1.0.1.0.UMUEUXM
 - android: '14.0'
+  codename: xun
+  date: '2024-05-10'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UMUEUXM/fw_xun_miui_XUNEEAGlobal_OS1.0.2.0.UMUEUXM_253904c07b_14.0.zip
+  name: Redmi Pad SE
+  version: OS1.0.2.0.UMUEUXM
+- android: '14.0'
   codename: yudi
   date: '2023-12-11'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMHCNXM/fw_yudi_miui_YUDI_OS1.0.2.0.UMHCNXM_34efc69cc0_14.0.zip
@@ -2530,6 +2536,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UNOCNXM/fw_zircon_miui_ZIRCON_OS1.0.2.0.UNOCNXM_6c10262097_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.2.0.UNOCNXM
+- android: '14.0'
+  codename: zircon
+  date: '2024-05-10'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UNOCNXM/fw_zircon_miui_ZIRCON_OS1.0.3.0.UNOCNXM_e09092107e_14.0.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS1.0.3.0.UNOCNXM
 - android: '14.0'
   codename: zircon
   date: '2024-05-09'
