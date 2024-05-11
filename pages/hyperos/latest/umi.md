@@ -53,6 +53,7 @@ permalink: /hyperos/umi/
                 </thead>
                 <tbody>
                 <tr><td>Mi 10 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.TJBEUXM</td><td>13.0</td><td>4.3 GB</td><td>2024-04-23</td><td><a href="/hyperos/umi/stable beta/OS1.0.1.0.TJBEUXM/">Download</a></td></tr>
+<tr><td>Mi 10 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.TJBMIXM</td><td>13.0</td><td>4.3 GB</td><td>2024-05-08</td><td><a href="/hyperos/umi/stable beta/OS1.0.3.0.TJBMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

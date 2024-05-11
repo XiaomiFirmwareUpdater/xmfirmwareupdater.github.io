@@ -4,10 +4,15 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 11 May 2024 13:01:14 </lastBuildDate>
+        <lastBuildDate>Sat, 11 May 2024 19:39:33 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.5.0.UMRMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
+            <pubDate>Sat, 11 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.8.0.UMRINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
             <pubDate>Sat, 11 May 2024 00:00:00 </pubDate>
         </item>
@@ -19,6 +24,11 @@
         <item>
             <title>MIX 4 (odin) - OS1.0.2.0.UKMCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/odin/</link>
+            <pubDate>Sat, 11 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 (sapphire) - OS1.0.3.0.UNGMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sapphire/</link>
             <pubDate>Sat, 11 May 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -757,11 +767,6 @@
             <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 (sapphire) - OS1.0.2.0.UNGMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sapphire/</link>
-            <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS1.0.7.0.UNXCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sheng/</link>
             <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
@@ -844,11 +849,6 @@
         <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS1.0.3.0.UKOMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/lisa/</link>
-            <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.7.0.UMRINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
             <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>

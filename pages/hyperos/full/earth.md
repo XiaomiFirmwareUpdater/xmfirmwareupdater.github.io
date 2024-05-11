@@ -52,7 +52,8 @@ permalink: /archive/hyperos/earth/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 12C / POCO C55 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UCVEUXM</td><td>14.0</td><td>4.2 GB</td><td>2024-04-26</td><td><a href="/hyperos/earth/stable beta/OS1.0.3.0.UCVEUXM/">Download</a></td></tr>
+                <tr><td>Redmi 12C / POCO C55 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UCVEUXM</td><td>14.0</td><td>4.2 GB</td><td>2024-04-26</td><td><a href="/hyperos/earth/stable/OS1.0.3.0.UCVEUXM/">Download</a></td></tr>
+<tr><td>Redmi 12C / POCO C55 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UCVEUXM</td><td>14.0</td><td>6.4 GB</td><td>2024-04-18</td><td><a href="/hyperos/earth/stable/OS1.0.3.0.UCVEUXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 India</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UCVINXM</td><td>14.0</td><td>4.1 GB</td><td>2024-03-13</td><td><a href="/hyperos/earth/stable/OS1.0.3.0.UCVINXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UCVINXM</td><td>14.0</td><td>5.4 GB</td><td>2024-02-28</td><td><a href="/hyperos/earth/stable/OS1.0.3.0.UCVINXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UCVIDXM</td><td>14.0</td><td>6.3 GB</td><td>2024-03-04</td><td><a href="/hyperos/earth/stable/OS1.0.1.0.UCVIDXM/">Download</a></td></tr>

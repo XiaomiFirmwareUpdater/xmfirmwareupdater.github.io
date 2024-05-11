@@ -1230,6 +1230,12 @@
   version: OS1.0.5.0.UMRMIXM
 - android: '14.0'
   codename: marble
+  date: '2024-05-11'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMRINXM/fw_marble_miui_MARBLEINGlobal_OS1.0.8.0.UMRINXM_3cfd47fff9_14.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS1.0.8.0.UMRINXM
+- android: '14.0'
+  codename: marble
   date: '2024-05-09'
   download: https://bigota.d.miui.com/OS1.0.3.0.UMRCNXM/fw_marble_miui_MARBLE_OS1.0.3.0.UMRCNXM_20479f8881_14.0.zip
   name: Redmi Note 12 Turbo/POCO F5
@@ -1804,6 +1810,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UNGMIXM/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.2.0.UNGMIXM_6ceb1dc76b_14.0.zip
   name: Redmi Note 13
   version: OS1.0.2.0.UNGMIXM
+- android: '14.0'
+  codename: sapphire
+  date: '2024-05-11'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UNGMIXM/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.3.0.UNGMIXM_23bd85bb06_14.0.zip
+  name: Redmi Note 13
+  version: OS1.0.3.0.UNGMIXM
 - android: '14.0'
   codename: sapphiren
   date: '2024-04-16'
