@@ -1,34 +1,34 @@
 ---
-title: MIX 4 (odin) MIUI Downloads
+title: MIX 4 (odin) HyperOS Downloads
 layout: download
 name: MIX 4
 codename: odin
-permalink: /miui/odin/
+permalink: /hyperos/odin/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
-        <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/odin/">MIX 4</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/odin/">MIX 4</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
-    Follow MIUI Updates Tracker on <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">Telegram</a>
+    Follow HyperOS Updates Tracker on <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">Telegram</a>
      or <a href="https://twitter.com/MiFwUpdater" class="alert-link">Twitter</a> to get notified when a new update is out!
     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
 
-### Latest MIUI Official ROMs
-*Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
+### Latest HyperOS Official ROMs
+*Note*: All files listed here are official untouched HyperOS ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/odin/" class="card-link">MIUI Archive</a>
+    <a href="/archive/hyperos/odin/" class="card-link">HyperOS Archive</a>
     <a href="/firmware/odin/" class="card-link">Firmware Downloads</a>
     <a href="/vendor/odin/" class="card-link">Vendor Downloads</a>
   </div>
@@ -44,7 +44,7 @@ permalink: /miui/odin/
                         <th data-ref="device">Device</th>
                         <th data-ref="branch">Branch</th>
                         <th data-ref="type">Type</th>
-                        <th data-ref="miui">MIUI</th>
+                        <th data-ref="miui">HyperOS</th>
                         <th data-ref="android">Android</th>
                         <th data-ref="size">Size</th>
                         <th data-ref="size">Date</th>
@@ -52,12 +52,7 @@ permalink: /miui/odin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>MIX 4 China</td><td>Public Beta</td><td>Fastboot</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>7.6 GB</td><td>2022-12-05</td><td><a href="/miui/odin/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
-<tr><td>MIX 4 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.8.0.TKMCNXM</td><td>13.0</td><td>7.1 GB</td><td>2023-11-20</td><td><a href="/miui/odin/stable/V14.0.8.0.TKMCNXM/">Download</a></td></tr>
-<tr><td>MIX 4 China</td><td>Stable</td><td>Recovery</td><td>V14.0.8.0.TKMCNXM</td><td>13.0</td><td>5.8 GB</td><td>2023-11-23</td><td><a href="/miui/odin/stable/V14.0.8.0.TKMCNXM/">Download</a></td></tr>
-<tr><td>MIX 4 China</td><td>Weekly</td><td>Fastboot</td><td>22.1.19</td><td>12.0</td><td>7.1 GB</td><td>2022-01-19</td><td><a href="/miui/odin/weekly/22.1.19/">Download</a></td></tr>
-<tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.7.31.DEV</td><td>13.0</td><td>5.7 GB</td><td>2023-08-04</td><td><a href="/miui/odin/public beta/V14.0.23.7.31.DEV/">Download</a></td></tr>
-<tr><td>MIX 4 China</td><td>Weekly</td><td>Recovery</td><td>22.3.24</td><td>12.0</td><td>5.4 GB</td><td>2022-03-24</td><td><a href="/miui/odin/weekly/22.3.24/">Download</a></td></tr>
+                <tr><td>MIX 4 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UKMCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-04-29</td><td><a href="/hyperos/odin/stable beta/OS1.0.2.0.UKMCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -1313,6 +1313,12 @@
   name: Redmi K60/POCO F5 Pro
   version: OS1.0.4.0.UMNCNXM
 - android: '14.0'
+  codename: mondrian
+  date: '2024-05-11'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMNMIXM/fw_mondrian_miui_MONDRIANGlobal_OS1.0.5.0.UMNMIXM_6168bd5b7a_14.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS1.0.5.0.UMNMIXM
+- android: '14.0'
   codename: moonstone
   date: '2024-01-30'
   download: https://bigota.d.miui.com/OS1.0.1.0.UMPINXM/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.1.0.UMPINXM_c5b06b9e3d_14.0.zip
@@ -1450,6 +1456,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMBCNXM/fw_nuwa_miui_NUWA_OS1.0.5.0.UMBCNXM_9748b91e96_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.5.0.UMBCNXM
+- android: '14.0'
+  codename: odin
+  date: '2024-05-11'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UKMCNXM/fw_odin_miui_ODIN_OS1.0.2.0.UKMCNXM_af3b0d3530_14.0.zip
+  name: MIX 4
+  version: OS1.0.2.0.UKMCNXM
 - android: '13.0'
   codename: opal
   date: '2024-04-06'

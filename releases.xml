@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 11 May 2024 00:43:06 </lastBuildDate>
+        <lastBuildDate>Sat, 11 May 2024 06:58:18 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.5.0.UMNMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
+            <pubDate>Sat, 11 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>MIX 4 (odin) - OS1.0.2.0.UKMCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/odin/</link>
+            <pubDate>Sat, 11 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.14.0.TGOINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/water/</link>
@@ -1097,11 +1107,6 @@
             <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.3.0.UMNMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
-            <pubDate>Fri, 23 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12X (psyche) - OS1.0.3.0.TLDCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/psyche/</link>
             <pubDate>Fri, 23 Feb 2024 00:00:00 </pubDate>
@@ -1205,11 +1210,6 @@
             <title>Mi 11 Lite 5G (renoir) - V14.0.12.0.TKICNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/renoir/</link>
             <pubDate>Mon, 11 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>MIX 4 (odin) - V14.0.8.0.TKMCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/odin/</link>
-            <pubDate>Fri, 08 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.5.0.TKPMIXM</title>

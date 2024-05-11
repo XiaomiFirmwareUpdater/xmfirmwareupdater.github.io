@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2023-12-08'
+  date: '2024-05-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/stable-08.12.2023/fw_odin_miui_ODIN_V14.0.8.0.TKMCNXM_88dba1bada_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/odin/fw_odin_miui_ODIN_V14.0.8.0.TKMCNXM_88dba1bada_13.0.zip
-  filename: fw_odin_miui_ODIN_V14.0.8.0.TKMCNXM_88dba1bada_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/stable-11.05.2024/fw_odin_miui_ODIN_OS1.0.2.0.UKMCNXM_af3b0d3530_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/odin/fw_odin_miui_ODIN_OS1.0.2.0.UKMCNXM_af3b0d3530_14.0.zip
+  filename: fw_odin_miui_ODIN_OS1.0.2.0.UKMCNXM_af3b0d3530_14.0.zip
   region: China
   versions:
-    android: '13.0'
-    miui: V14.0.8.0.TKMCNXM
+    android: '14.0'
+    miui: OS1.0.2.0.UKMCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
