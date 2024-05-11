@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 11 May 2024 06:58:18 </lastBuildDate>
+        <lastBuildDate>Sat, 11 May 2024 13:01:14 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.5.0.UMRMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
+            <pubDate>Sat, 11 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.5.0.UMNMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
@@ -1074,11 +1079,6 @@
         <item>
             <title>Redmi 10C (fog) - V14.0.5.0.TGEINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fog/</link>
-            <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.3.0.UMRMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
             <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
