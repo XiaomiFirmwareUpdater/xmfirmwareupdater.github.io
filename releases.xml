@@ -4,8 +4,43 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 13 May 2024 00:48:36 </lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 10:55:03 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS1.0.2.0.UKOCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/lisa/</link>
+            <pubDate>Mon, 13 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12S (sea) - OS1.0.4.0.UHZEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sea/</link>
+            <pubDate>Mon, 13 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V14.0.7.0.TKUMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/selene/</link>
+            <pubDate>Mon, 13 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V14.0.8.0.TKUINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/selene/</link>
+            <pubDate>Mon, 13 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS1.0.2.0.UMQINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
+            <pubDate>Mon, 13 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 4G NFC (topaz) - OS1.0.5.0.UMGMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/topaz/</link>
+            <pubDate>Mon, 13 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 1S (zijin) - OS1.0.2.0.ULPCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/zijin/</link>
+            <pubDate>Mon, 13 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.5.0.UMRMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
@@ -952,16 +987,6 @@
             <pubDate>Mon, 18 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12S (sea) - OS1.0.3.0.UHZEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sea/</link>
-            <pubDate>Mon, 18 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS1.0.1.0.UMQINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/sunstone/</link>
-            <pubDate>Mon, 18 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>POCO C40 (frost) - V13.0.12.0.RGFEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/frost/</link>
             <pubDate>Sun, 17 Mar 2024 00:00:00 </pubDate>
@@ -1062,11 +1087,6 @@
             <pubDate>Mon, 04 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Civi 1S (zijin) - OS1.0.1.0.ULPCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zijin/</link>
-            <pubDate>Mon, 04 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - OS1.0.1.0.TKCCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/veux/</link>
             <pubDate>Sat, 02 Mar 2024 00:00:00 </pubDate>
@@ -1112,11 +1132,6 @@
             <pubDate>Fri, 23 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS1.0.1.0.UKOCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/lisa/</link>
-            <pubDate>Thu, 22 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.6.0.UMNCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
             <pubDate>Thu, 22 Feb 2024 00:00:00 </pubDate>
@@ -1134,11 +1149,6 @@
         <item>
             <title>Xiaomi 13 Pro (nuwa) - OS1.0.4.0.UMBMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 4G NFC (topaz) - OS1.0.4.0.UMGMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/topaz/</link>
             <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -1195,11 +1205,6 @@
             <title>Redmi Note 10 (mojito) - V14.0.6.0.SKGEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/mojito/</link>
             <pubDate>Fri, 15 Dec 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V14.0.6.0.TKUMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/selene/</link>
-            <pubDate>Tue, 12 Dec 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V14.0.8.0.TKUEUXM</title>
@@ -1280,11 +1285,6 @@
             <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V14.0.7.0.TKKMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/haydn/</link>
             <pubDate>Tue, 24 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V14.0.7.0.TKUINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/selene/</link>
-            <pubDate>Thu, 19 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 10 5G/Redmi Note 11SE/Redmi Note 10T 5G/POCO M3 Pro 5G (camellia) - V14.0.6.0.TKSINXM</title>
