@@ -606,6 +606,12 @@
   version: OS1.0.1.0.UMXMIXM
 - android: '14.0'
   codename: fire
+  date: '2024-05-13'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UMXINXM/fw_fire_miui_FIREINGlobal_OS1.0.2.0.UMXINXM_776923679e_14.0.zip
+  name: Redmi 12
+  version: OS1.0.2.0.UMXINXM
+- android: '14.0'
+  codename: fire
   date: '2024-03-11'
   download: https://bigota.d.miui.com/OS1.0.3.0.UMXMIXM/fw_fire_miui_FIREGlobal_OS1.0.3.0.UMXMIXM_b397436dfb_14.0.zip
   name: Redmi 12

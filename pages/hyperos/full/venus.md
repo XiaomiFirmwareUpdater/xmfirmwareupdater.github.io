@@ -52,7 +52,8 @@ permalink: /archive/hyperos/venus/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 11 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UKBMIXM</td><td>14.0</td><td>5.0 GB</td><td>2024-04-25</td><td><a href="/hyperos/venus/stable/OS1.0.2.0.UKBMIXM/">Download</a></td></tr>
+                <tr><td>Mi 11 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UKBIDXM</td><td>14.0</td><td>5.0 GB</td><td>2024-05-09</td><td><a href="/hyperos/venus/stable beta/OS1.0.1.0.UKBIDXM/">Download</a></td></tr>
+<tr><td>Mi 11 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UKBMIXM</td><td>14.0</td><td>5.0 GB</td><td>2024-04-25</td><td><a href="/hyperos/venus/stable/OS1.0.2.0.UKBMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UKBMIXM</td><td>14.0</td><td>6.4 GB</td><td>2024-04-17</td><td><a href="/hyperos/venus/stable/OS1.0.2.0.UKBMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UKBEUXM</td><td>14.0</td><td>5.0 GB</td><td>2024-04-18</td><td><a href="/hyperos/venus/stable/OS1.0.2.0.UKBEUXM/">Download</a></td></tr>
 <tr><td>Mi 11 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UKBEUXM</td><td>14.0</td><td>6.5 GB</td><td>2024-04-08</td><td><a href="/hyperos/venus/stable/OS1.0.2.0.UKBEUXM/">Download</a></td></tr>

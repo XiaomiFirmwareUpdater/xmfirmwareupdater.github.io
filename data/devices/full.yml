@@ -19069,6 +19069,16 @@
     android: '11.0'
     miui: V12.5.16.0.RCZINXM
 - branch: stable
+  date: '2024-05-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-13.05.2024/fw_dandelion_miui_DANDELIONC3L2EEAGlobal_V12.5.15.0.RCZEUXM_7d2b762851_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONC3L2EEAGlobal_V12.5.15.0.RCZEUXM_7d2b762851_11.0.zip
+  filename: fw_dandelion_miui_DANDELIONC3L2EEAGlobal_V12.5.15.0.RCZEUXM_7d2b762851_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.15.0.RCZEUXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-12.09.2020/fw_dandelion_miui_DANDELIONINGlobal_V12.0.3.0.QCDINXM_6e50a7f857_10.0.zip
@@ -24318,6 +24328,16 @@
   versions:
     android: '13.0'
     miui: V14.0.4.0.TMXMIXM
+- branch: stable
+  date: '2024-05-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-13.05.2024/fw_fire_miui_FIREINGlobal_OS1.0.2.0.UMXINXM_776923679e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fire/fw_fire_miui_FIREINGlobal_OS1.0.2.0.UMXINXM_776923679e_14.0.zip
+  filename: fw_fire_miui_FIREINGlobal_OS1.0.2.0.UMXINXM_776923679e_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.UMXINXM
 - branch: stable
   date: '2024-01-12'
   downloads:
