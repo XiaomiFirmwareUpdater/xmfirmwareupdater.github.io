@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 14 May 2024 07:08:41 </lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 13:11:16 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - OS1.0.2.0.UKKMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/haydn/</link>
+            <pubDate>Tue, 14 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - OS1.0.1.0.UKKINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/haydn/</link>
+            <pubDate>Tue, 14 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 12T Pro (pearl) - OS1.0.2.0.ULHCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/pearl/</link>
@@ -1167,11 +1177,6 @@
             <pubDate>Mon, 29 Jan 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V14.0.5.0.TKKINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/haydn/</link>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 11R (lightcm) - OS1.0.6.0.ULSCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/lightcm/</link>
             <pubDate>Fri, 12 Jan 2024 00:00:00 </pubDate>
@@ -1280,11 +1285,6 @@
             <title>Redmi Note 9 5G (cannon) - V14.0.6.0.SJECNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/cannon/</link>
             <pubDate>Wed, 25 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V14.0.7.0.TKKMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/haydn/</link>
-            <pubDate>Tue, 24 Oct 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 10 5G/Redmi Note 11SE/Redmi Note 10T 5G/POCO M3 Pro 5G (camellia) - V14.0.6.0.TKSINXM</title>
