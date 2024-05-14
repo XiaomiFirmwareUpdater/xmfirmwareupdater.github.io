@@ -1511,6 +1511,12 @@
   name: Redmi Note 12T Pro
   version: OS1.0.1.0.ULHCNXM
 - android: '14.0'
+  codename: pearl
+  date: '2024-05-14'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULHCNXM/fw_pearl_miui_PEARL_OS1.0.2.0.ULHCNXM_9d364d8f8f_14.0.zip
+  name: Redmi Note 12T Pro
+  version: OS1.0.2.0.ULHCNXM
+- android: '14.0'
   codename: pipa
   date: '2024-01-30'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.4.0.UMZCNXM_45e70ba86c_14.0.zip
@@ -1810,6 +1816,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMOMIXM/fw_ruby_miui_RUBYGlobal_OS1.0.2.0.UMOMIXM_188f934348_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: OS1.0.2.0.UMOMIXM
+- android: '14.0'
+  codename: ruby
+  date: '2024-05-14'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMOCNXM/fw_ruby_miui_RUBY_OS1.0.5.0.UMOCNXM_04dda3609e_14.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS1.0.5.0.UMOCNXM
 - android: '14.0'
   codename: ruby
   date: '2024-03-14'

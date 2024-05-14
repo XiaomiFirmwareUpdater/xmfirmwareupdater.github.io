@@ -45959,6 +45959,16 @@
     android: '14.0'
     miui: OS1.0.1.0.ULHCNXM
 - branch: stable
+  date: '2024-05-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pearl/releases/download/stable-14.05.2024/fw_pearl_miui_PEARL_OS1.0.2.0.ULHCNXM_9d364d8f8f_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pearl/fw_pearl_miui_PEARL_OS1.0.2.0.ULHCNXM_9d364d8f8f_14.0.zip
+  filename: fw_pearl_miui_PEARL_OS1.0.2.0.ULHCNXM_9d364d8f8f_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.ULHCNXM
+- branch: stable
   date: '2023-11-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pearl/releases/download/stable-10.11.2023/fw_pearl_miui_PEARL_V14.0.9.0.TLHCNXM_dad7aeb96b_13.0.zip
@@ -56488,6 +56498,16 @@
   versions:
     android: '14.0'
     miui: OS1.0.2.0.UMOMIXM
+- branch: stable
+  date: '2024-05-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-14.05.2024/fw_ruby_miui_RUBY_OS1.0.5.0.UMOCNXM_04dda3609e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruby/fw_ruby_miui_RUBY_OS1.0.5.0.UMOCNXM_04dda3609e_14.0.zip
+  filename: fw_ruby_miui_RUBY_OS1.0.5.0.UMOCNXM_04dda3609e_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.5.0.UMOCNXM
 - branch: stable
   date: '2024-03-14'
   downloads:

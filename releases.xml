@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 14 May 2024 03:11:24 </lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 07:08:41 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 12T Pro (pearl) - OS1.0.2.0.ULHCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/pearl/</link>
+            <pubDate>Tue, 14 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.5.0.UMOCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Tue, 14 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 12 (cupid) - OS1.0.8.0.ULCEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/cupid/</link>
@@ -24,11 +34,6 @@
         <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS1.0.2.0.UKOCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/lisa/</link>
-            <pubDate>Mon, 13 May 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12T Pro (pearl) - OS1.0.1.0.ULHCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/pearl/</link>
             <pubDate>Mon, 13 May 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -1030,11 +1035,6 @@
             <title>POCO C40 (frost) - V13.0.26.0.RGFMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/frost/</link>
             <pubDate>Fri, 15 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.4.0.UMOCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Thu, 14 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K40 Gaming/POCO F3 GT (ares) - OS1.0.2.0.TKJCNXM</title>
