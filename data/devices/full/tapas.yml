@@ -109,6 +109,16 @@
     android: '14.0'
     miui: OS1.0.1.0.UMTINXM
 - branch: stable
+  date: '2024-05-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-14.05.2024/fw_tapas_miui_TAPASINGlobal_OS1.0.4.0.UMTINXM_e26599e4e5_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/tapas/fw_tapas_miui_TAPASINGlobal_OS1.0.4.0.UMTINXM_e26599e4e5_14.0.zip
+  filename: fw_tapas_miui_TAPASINGlobal_OS1.0.4.0.UMTINXM_e26599e4e5_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UMTINXM
+- branch: stable
   date: '2024-01-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-12.01.2024/fw_tapas_miui_TAPASGlobal_OS1.0.2.0.UMTMIXM_9d39c3791b_14.0.zip

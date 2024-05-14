@@ -1,34 +1,34 @@
 ---
-title: Redmi Note 12T Pro (pearl) MIUI Downloads
+title: Redmi Note 12T Pro (pearl) HyperOS Downloads
 layout: download
 name: Redmi Note 12T Pro
 codename: pearl
-permalink: /miui/pearl/
+permalink: /archive/hyperos/pearl/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
-        <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/pearl/">Redmi Note 12T Pro</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/pearl/">Redmi Note 12T Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
-    Follow MIUI Updates Tracker on <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">Telegram</a>
+    Follow HyperOS Updates Tracker on <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">Telegram</a>
      or <a href="https://twitter.com/MiFwUpdater" class="alert-link">Twitter</a> to get notified when a new update is out!
     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
 
-### Latest MIUI Official ROMs
-*Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
+### HyperOS Official ROMs Archive
+*Note*: All files listed here are official untouched HyperOS ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-    <p class="card-text">This page shows the latest downloads only.
-     If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/pearl/" class="card-link">MIUI Archive</a>
+    <p class="card-text">This page shows all available downloads.
+     If you're looking for the latest releases check or other downloads check:</p>
+    <a href="/hyperos/pearl/" class="card-link">Latest HyperOS</a>
     <a href="/firmware/pearl/" class="card-link">Firmware Downloads</a>
     <a href="/vendor/pearl/" class="card-link">Vendor Downloads</a>
   </div>
@@ -44,7 +44,7 @@ permalink: /miui/pearl/
                         <th data-ref="device">Device</th>
                         <th data-ref="branch">Branch</th>
                         <th data-ref="type">Type</th>
-                        <th data-ref="miui">MIUI</th>
+                        <th data-ref="miui">HyperOS</th>
                         <th data-ref="android">Android</th>
                         <th data-ref="size">Size</th>
                         <th data-ref="size">Date</th>
@@ -52,8 +52,7 @@ permalink: /miui/pearl/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12T Pro China</td><td>Stable</td><td>Fastboot</td><td>V14.0.10.0.TLHCNXM</td><td>13.0</td><td>7.4 GB</td><td>2023-11-23</td><td><a href="/miui/pearl/stable/V14.0.10.0.TLHCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12T Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.8.0.TLHCNXM</td><td>13.0</td><td>5.8 GB</td><td>2023-10-19</td><td><a href="/miui/pearl/stable beta/V14.0.8.0.TLHCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12T Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.ULHCNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-04-09</td><td><a href="/hyperos/pearl/stable/OS1.0.1.0.ULHCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
