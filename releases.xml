@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 14 May 2024 13:11:16 </lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 20:19:57 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS1.0.12.0.UNREUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
+            <pubDate>Tue, 14 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - OS1.0.2.0.UKKMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/haydn/</link>
@@ -14,6 +19,11 @@
         <item>
             <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - OS1.0.1.0.UKKINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/haydn/</link>
+            <pubDate>Tue, 14 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Ultra (ishtar) - OS1.0.9.0.UMACNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/ishtar/</link>
             <pubDate>Tue, 14 May 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -742,11 +752,6 @@
             <pubDate>Sat, 06 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13 Ultra (ishtar) - OS1.0.8.0.UMACNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/ishtar/</link>
-            <pubDate>Fri, 05 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS1.0.1.0.UNXEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/sheng/</link>
             <pubDate>Wed, 03 Apr 2024 00:00:00 </pubDate>
@@ -904,11 +909,6 @@
         <item>
             <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - OS1.0.1.0.TKEEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fleur/</link>
-            <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS1.0.11.0.UNREUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
             <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>

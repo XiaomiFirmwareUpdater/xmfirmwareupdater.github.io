@@ -762,6 +762,12 @@
   version: OS1.0.8.0.UNREUXM
 - android: '14.0'
   codename: garnet
+  date: '2024-05-14'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UNREUXM/fw_garnet_miui_GARNETEEAGlobal_OS1.0.12.0.UNREUXM_28badb0bec_14.0.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS1.0.12.0.UNREUXM
+- android: '14.0'
+  codename: garnet
   date: '2024-03-12'
   download: https://bigota.d.miui.com/OS1.0.4.0.UNRMIXM/fw_garnet_miui_GARNETGlobal_OS1.0.4.0.UNRMIXM_8ea6bb5539_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
@@ -1054,6 +1060,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMACNXM/fw_ishtar_miui_ISHTAR_OS1.0.4.0.UMACNXM_0801f3ef9d_14.0.zip
   name: Xiaomi 13 Ultra
   version: OS1.0.4.0.UMACNXM
+- android: '14.0'
+  codename: ishtar
+  date: '2024-05-14'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMACNXM/fw_ishtar_miui_ISHTAR_OS1.0.9.0.UMACNXM_a6fadf1e8b_14.0.zip
+  name: Xiaomi 13 Ultra
+  version: OS1.0.9.0.UMACNXM
 - android: '14.0'
   codename: ishtar
   date: '2024-01-12'
