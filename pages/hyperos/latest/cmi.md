@@ -52,7 +52,8 @@ permalink: /hyperos/cmi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.TJAMIXM</td><td>13.0</td><td>4.2 GB</td><td>2024-04-26</td><td><a href="/hyperos/cmi/stable beta/OS1.0.2.0.TJAMIXM/">Download</a></td></tr>
+                <tr><td>Mi 10 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.TJAEUXM</td><td>13.0</td><td>4.2 GB</td><td>2024-05-10</td><td><a href="/hyperos/cmi/stable beta/OS1.0.1.0.TJAEUXM/">Download</a></td></tr>
+<tr><td>Mi 10 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.TJAMIXM</td><td>13.0</td><td>4.2 GB</td><td>2024-04-26</td><td><a href="/hyperos/cmi/stable beta/OS1.0.2.0.TJAMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
