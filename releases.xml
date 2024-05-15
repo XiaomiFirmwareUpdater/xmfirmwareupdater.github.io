@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 15 May 2024 07:03:31 </lastBuildDate>
+        <lastBuildDate>Wed, 15 May 2024 12:48:30 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 12C/POCO C55 (earth) - OS1.0.4.0.UCVMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
+            <pubDate>Wed, 15 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS1.0.8.0.UNQEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/gold/</link>
@@ -1060,11 +1065,6 @@
             <title>Xiaomi Pad 5 Pro 5G (enuma) - OS1.0.1.0.TKZCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/enuma/</link>
             <pubDate>Fri, 08 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12C/POCO C55 (earth) - OS1.0.3.0.UCVMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Wed, 06 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 12 (cupid) - OS1.0.5.0.ULCCNXM</title>
