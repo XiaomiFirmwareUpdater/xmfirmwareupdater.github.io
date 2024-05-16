@@ -42,6 +42,12 @@
   version: OS1.0.3.0.TKHCNXM
 - android: '13.0'
   codename: alioth
+  date: '2024-05-16'
+  download: https://bigota.d.miui.com/OS1.0.1.0.TKHINXM/fw_alioth_miui_ALIOTHINGlobal_OS1.0.1.0.TKHINXM_37dcb3109e_13.0.zip
+  name: Redmi K40/POCO F3/Mi 11X
+  version: OS1.0.1.0.TKHINXM
+- android: '13.0'
+  codename: alioth
   date: '2024-05-07'
   download: https://bigota.d.miui.com/OS1.0.1.0.TKHEUXM/fw_alioth_miui_ALIOTHEEAGlobal_OS1.0.1.0.TKHEUXM_b0de6008b0_13.0.zip
   name: Redmi K40/POCO F3/Mi 11X

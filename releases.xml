@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 16 May 2024 00:51:53 </lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 06:54:39 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K40/POCO F3/Mi 11X (alioth) - OS1.0.1.0.TKHINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/alioth/</link>
+            <pubDate>Thu, 16 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.4.0.UCVMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/earth/</link>
@@ -1240,11 +1245,6 @@
             <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V14.0.8.0.TKLMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/rosemary/</link>
             <pubDate>Thu, 23 Nov 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.5.0.TKHINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/alioth/</link>
-            <pubDate>Mon, 20 Nov 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.8.0.TKPCNXM</title>
