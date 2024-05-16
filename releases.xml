@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 16 May 2024 15:26:14 </lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 19:01:40 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - OS1.0.1.0.TKHINXM</title>
@@ -19,6 +19,11 @@
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.7.0.UMNCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
+            <pubDate>Thu, 16 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K40S/POCO F4 (munch) - OS1.0.1.0.ULMEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/munch/</link>
             <pubDate>Thu, 16 May 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -1360,11 +1365,6 @@
             <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V14.0.4.0.SJSEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/gauguin/</link>
             <pubDate>Mon, 10 Jul 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40S/POCO F4 (munch) - V14.0.4.0.TLMEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/munch/</link>
-            <pubDate>Thu, 29 Jun 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite (curtana) - V14.0.4.0.SJWMIXM</title>
