@@ -4,11 +4,31 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 16 May 2024 06:54:39 </lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 15:26:14 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - OS1.0.1.0.TKHINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/alioth/</link>
+            <pubDate>Thu, 16 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro 4G/POCO M6 Pro (emerald) - OS1.0.3.0.UNFMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/emerald/</link>
+            <pubDate>Thu, 16 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.7.0.UMNCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
+            <pubDate>Thu, 16 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - OS1.0.6.0.UMBMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Thu, 16 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K60E (rembrandt) - OS1.0.3.0.UMMCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/rembrandt/</link>
             <pubDate>Thu, 16 May 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -557,11 +577,6 @@
             <pubDate>Tue, 16 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K60E (rembrandt) - OS1.0.1.0.UMMCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/rembrandt/</link>
-            <pubDate>Tue, 16 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>POCO M5/Redmi 11 Prime 4G (rock) - OS1.0.7.0.ULUMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/rock/</link>
             <pubDate>Tue, 16 Apr 2024 00:00:00 </pubDate>
@@ -1062,11 +1077,6 @@
             <pubDate>Tue, 12 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 Pro 4G/POCO M6 Pro (emerald) - OS1.0.1.0.UNFMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/emerald/</link>
-            <pubDate>Tue, 12 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 5 Pro 5G (enuma) - OS1.0.1.0.TKZCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/enuma/</link>
             <pubDate>Fri, 08 Mar 2024 00:00:00 </pubDate>
@@ -1152,11 +1162,6 @@
             <pubDate>Fri, 23 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.6.0.UMNCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/mondrian/</link>
-            <pubDate>Thu, 22 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 5 Pro 12.4 (dagu) - OS1.0.1.0.ULZCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/dagu/</link>
             <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
@@ -1164,11 +1169,6 @@
         <item>
             <title>Redmi K50 Pro (matisse) - OS1.0.2.0.ULKCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/matisse/</link>
-            <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Pro (nuwa) - OS1.0.4.0.UMBMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>

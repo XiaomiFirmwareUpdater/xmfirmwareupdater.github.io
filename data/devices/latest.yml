@@ -1419,15 +1419,15 @@
     android: '11.0'
     miui: 22.3.24
 - branch: stable
-  date: '2024-03-12'
+  date: '2024-05-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-12.03.2024/fw_emerald_miui_EMERALDGlobal_OS1.0.1.0.UNFMIXM_69840715c1_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/emerald/fw_emerald_miui_EMERALDGlobal_OS1.0.1.0.UNFMIXM_69840715c1_14.0.zip
-  filename: fw_emerald_miui_EMERALDGlobal_OS1.0.1.0.UNFMIXM_69840715c1_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-16.05.2024/fw_emerald_miui_EMERALDGlobal_OS1.0.3.0.UNFMIXM_68eb6f61a9_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/emerald/fw_emerald_miui_EMERALDGlobal_OS1.0.3.0.UNFMIXM_68eb6f61a9_14.0.zip
+  filename: fw_emerald_miui_EMERALDGlobal_OS1.0.3.0.UNFMIXM_68eb6f61a9_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.1.0.UNFMIXM
+    miui: OS1.0.3.0.UNFMIXM
 - branch: stable
   date: '2024-04-15'
   downloads:
@@ -3119,15 +3119,15 @@
     android: '14.0'
     miui: OS1.0.5.0.UMNMIXM
 - branch: stable
-  date: '2024-02-22'
+  date: '2024-05-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-22.02.2024/fw_mondrian_miui_MONDRIAN_OS1.0.6.0.UMNCNXM_132cb79b18_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/mondrian/fw_mondrian_miui_MONDRIAN_OS1.0.6.0.UMNCNXM_132cb79b18_14.0.zip
-  filename: fw_mondrian_miui_MONDRIAN_OS1.0.6.0.UMNCNXM_132cb79b18_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-16.05.2024/fw_mondrian_miui_MONDRIAN_OS1.0.7.0.UMNCNXM_f5c6d87f01_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/mondrian/fw_mondrian_miui_MONDRIAN_OS1.0.7.0.UMNCNXM_f5c6d87f01_14.0.zip
+  filename: fw_mondrian_miui_MONDRIAN_OS1.0.7.0.UMNCNXM_f5c6d87f01_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.UMNCNXM
+    miui: OS1.0.7.0.UMNCNXM
 - branch: stable
   date: '2024-04-19'
   downloads:
@@ -3359,15 +3359,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2024-02-18'
+  date: '2024-05-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-18.02.2024/fw_nuwa_miui_NUWAGlobal_OS1.0.4.0.UMBMIXM_cc8d40c018_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAGlobal_OS1.0.4.0.UMBMIXM_cc8d40c018_14.0.zip
-  filename: fw_nuwa_miui_NUWAGlobal_OS1.0.4.0.UMBMIXM_cc8d40c018_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-16.05.2024/fw_nuwa_miui_NUWAGlobal_OS1.0.6.0.UMBMIXM_18db8f0da4_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAGlobal_OS1.0.6.0.UMBMIXM_18db8f0da4_14.0.zip
+  filename: fw_nuwa_miui_NUWAGlobal_OS1.0.6.0.UMBMIXM_18db8f0da4_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.UMBMIXM
+    miui: OS1.0.6.0.UMBMIXM
 - branch: stable
   date: '2024-03-28'
   downloads:
@@ -4149,15 +4149,15 @@
     android: '14.0'
     miui: OS1.0.3.0.UMSINXM
 - branch: stable
-  date: '2024-04-16'
+  date: '2024-05-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rembrandt/releases/download/stable-16.04.2024/fw_rembrandt_miui_REMBRANDT_OS1.0.1.0.UMMCNXM_72da128d65_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rembrandt/fw_rembrandt_miui_REMBRANDT_OS1.0.1.0.UMMCNXM_72da128d65_14.0.zip
-  filename: fw_rembrandt_miui_REMBRANDT_OS1.0.1.0.UMMCNXM_72da128d65_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rembrandt/releases/download/stable-16.05.2024/fw_rembrandt_miui_REMBRANDT_OS1.0.3.0.UMMCNXM_3bb9158b29_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rembrandt/fw_rembrandt_miui_REMBRANDT_OS1.0.3.0.UMMCNXM_3bb9158b29_14.0.zip
+  filename: fw_rembrandt_miui_REMBRANDT_OS1.0.3.0.UMMCNXM_3bb9158b29_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.1.0.UMMCNXM
+    miui: OS1.0.3.0.UMMCNXM
 - branch: stable
   date: '2024-01-12'
   downloads:

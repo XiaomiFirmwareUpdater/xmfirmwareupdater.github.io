@@ -552,6 +552,12 @@
   version: OS1.0.1.0.TKYCNXM
 - android: '14.0'
   codename: emerald
+  date: '2024-05-16'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.3.0.UNFMIXM_68eb6f61a9_14.0.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  version: OS1.0.3.0.UNFMIXM
+- android: '14.0'
+  codename: emerald
   date: '2024-04-15'
   download: https://bigota.d.miui.com/OS1.0.1.0.UNFEUXM/fw_emerald_miui_EMERALDEEAGlobal_OS1.0.1.0.UNFEUXM_1085ee4a08_14.0.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro
@@ -1368,6 +1374,12 @@
   version: OS1.0.3.0.UMNEUXM
 - android: '14.0'
   codename: mondrian
+  date: '2024-05-16'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMNCNXM/fw_mondrian_miui_MONDRIAN_OS1.0.7.0.UMNCNXM_f5c6d87f01_14.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS1.0.7.0.UMNCNXM
+- android: '14.0'
+  codename: mondrian
   date: '2024-01-12'
   download: https://bigota.d.miui.com/OS1.0.1.0.UMNMIXM/fw_mondrian_miui_MONDRIANGlobal_OS1.0.1.0.UMNMIXM_aca25f526d_14.0.zip
   name: Redmi K60/POCO F5 Pro
@@ -1492,6 +1504,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMBCNXM/fw_nuwa_miui_NUWA_OS1.0.2.0.UMBCNXM_65b5cbc206_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.2.0.UMBCNXM
+- android: '14.0'
+  codename: nuwa
+  date: '2024-05-16'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMBMIXM/fw_nuwa_miui_NUWAGlobal_OS1.0.6.0.UMBMIXM_18db8f0da4_14.0.zip
+  name: Xiaomi 13 Pro
+  version: OS1.0.6.0.UMBMIXM
 - android: '14.0'
   codename: nuwa
   date: '2024-04-16'
@@ -1756,6 +1774,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMSMIXM/fw_redwood_miui_REDWOODGlobal_OS1.0.3.0.UMSMIXM_5c10a339d0_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: OS1.0.3.0.UMSMIXM
+- android: '14.0'
+  codename: rembrandt
+  date: '2024-05-16'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMMCNXM/fw_rembrandt_miui_REMBRANDT_OS1.0.3.0.UMMCNXM_3bb9158b29_14.0.zip
+  name: Redmi K60E
+  version: OS1.0.3.0.UMMCNXM
 - android: '14.0'
   codename: rembrandt
   date: '2024-04-16'
