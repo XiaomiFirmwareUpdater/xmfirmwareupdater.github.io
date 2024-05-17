@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 17 May 2024 06:47:11 </lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 15:37:16 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS1.0.6.0.UNAEUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Fri, 17 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS1.0.4.0.UNAINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Fri, 17 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Pad SE (xun) - OS1.0.4.0.UMUCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
@@ -712,11 +722,6 @@
             <pubDate>Mon, 08 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS1.0.3.0.UNAINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Mon, 08 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - OS1.0.2.0.TKTINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/pissarro/</link>
             <pubDate>Mon, 08 Apr 2024 00:00:00 </pubDate>
@@ -875,11 +880,6 @@
             <title>Xiaomi 13 (fuxi) - OS1.0.8.0.UMCCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fuxi/</link>
             <pubDate>Sat, 30 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS1.0.5.0.UNAEUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K50 (rubens) - OS1.0.6.0.ULNCNXM</title>

@@ -56,29 +56,29 @@ permalink: /hyperos/veux/stable/OS1.0.3.0.TKCMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.5 GB</h5>
+                    <h5><b>Size: </b>4.0 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-03-12</h5>
+                    <h5><b>Release Date: </b>2024-03-23</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">veux_global_images_OS1.0.3.0.TKCMIXM_20240312.0000.00_13.0_global_c3b82b32da.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_VEUXGlobal_OS1.0.3.0.TKCMIXM_ea9825b6d4_13.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c3b82b32da9b02dd9fa77935a02bc4e2</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ea9825b6d4523c9cc3e6ea3bb3a8a894</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.3.0.TKCMIXM/veux_global_images_OS1.0.3.0.TKCMIXM_20240312.0000.00_13.0_global_c3b82b32da.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.3.0.TKCMIXM/veux_global_images_OS1.0.3.0.TKCMIXM_20240312.0000.00_13.0_global_c3b82b32da.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.3.0.TKCMIXM/veux_global_images_OS1.0.3.0.TKCMIXM_20240312.0000.00_13.0_global_c3b82b32da.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.TKCMIXM/veux_global_images_OS1.0.3.0.TKCMIXM_20240312.0000.00_13.0_global_c3b82b32da.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.3.0.TKCMIXM/veux_global_images_OS1.0.3.0.TKCMIXM_20240312.0000.00_13.0_global_c3b82b32da.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.TKCMIXM/miui-blockota-veux_global-V14.0.6.0.TKCMIXM-OS1.0.3.0.TKCMIXM-9665782078-13.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.3.0.TKCMIXM/miui_VEUXGlobal_OS1.0.3.0.TKCMIXM_ea9825b6d4_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.3.0.TKCMIXM/miui_VEUXGlobal_OS1.0.3.0.TKCMIXM_ea9825b6d4_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.3.0.TKCMIXM/miui_VEUXGlobal_OS1.0.3.0.TKCMIXM_ea9825b6d4_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.TKCMIXM/miui_VEUXGlobal_OS1.0.3.0.TKCMIXM_ea9825b6d4_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.3.0.TKCMIXM/miui_VEUXGlobal_OS1.0.3.0.TKCMIXM_ea9825b6d4_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#veux_1_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="veux_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="veux_1_changelog">
-                        <p id="changelog_text">Bug fixes and system optimizations.</p>
+                        <p id="changelog_text">[System]<br>Updated Android Security Patch to February 2024. Increased system security.<br>[Comprehensive refactoring]<br>Storage refresh technology makes your device work fast for much longer via smart defragmentation<br>Intelligent network selection makes your connection smoother in poor network environments<br>[Vibrant aesthetics]<br>Global aesthetics draw inspiration from life itself and change the way your device looks and feels<br>New animation language makes interactions with your device wholesome and intuitive<br>Natural colors bring vibrancy and vitality to every corner of your device<br>Our all-new system font supports multiple writing systems<br>Redesigned Weather app not only gives you important information, but also shows you how it feels outside<br>Notifications are focused on important information, presenting it to you in the most efficient way<br>New Home screen icons refresh familiar items with new shapes and colors</p>
                     </div>
                 </li>
             </ul>
@@ -99,29 +99,29 @@ permalink: /hyperos/veux/stable/OS1.0.3.0.TKCMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.0 GB</h5>
+                    <h5><b>Size: </b>6.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-03-23</h5>
+                    <h5><b>Release Date: </b>2024-03-12</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_VEUXGlobal_OS1.0.3.0.TKCMIXM_ea9825b6d4_13.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">veux_global_images_OS1.0.3.0.TKCMIXM_20240312.0000.00_13.0_global_c3b82b32da.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">ea9825b6d4523c9cc3e6ea3bb3a8a894</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">c3b82b32da9b02dd9fa77935a02bc4e2</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.TKCMIXM/miui-blockota-veux_global-V14.0.6.0.TKCMIXM-OS1.0.3.0.TKCMIXM-9665782078-13.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.3.0.TKCMIXM/miui_VEUXGlobal_OS1.0.3.0.TKCMIXM_ea9825b6d4_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.3.0.TKCMIXM/miui_VEUXGlobal_OS1.0.3.0.TKCMIXM_ea9825b6d4_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.3.0.TKCMIXM/miui_VEUXGlobal_OS1.0.3.0.TKCMIXM_ea9825b6d4_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.TKCMIXM/miui_VEUXGlobal_OS1.0.3.0.TKCMIXM_ea9825b6d4_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.3.0.TKCMIXM/miui_VEUXGlobal_OS1.0.3.0.TKCMIXM_ea9825b6d4_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.3.0.TKCMIXM/veux_global_images_OS1.0.3.0.TKCMIXM_20240312.0000.00_13.0_global_c3b82b32da.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.3.0.TKCMIXM/veux_global_images_OS1.0.3.0.TKCMIXM_20240312.0000.00_13.0_global_c3b82b32da.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.3.0.TKCMIXM/veux_global_images_OS1.0.3.0.TKCMIXM_20240312.0000.00_13.0_global_c3b82b32da.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.TKCMIXM/veux_global_images_OS1.0.3.0.TKCMIXM_20240312.0000.00_13.0_global_c3b82b32da.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.3.0.TKCMIXM/veux_global_images_OS1.0.3.0.TKCMIXM_20240312.0000.00_13.0_global_c3b82b32da.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#veux_2_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="veux_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="veux_2_changelog">
-                        <p id="changelog_text">[System]<br>Updated Android Security Patch to February 2024. Increased system security.<br>[Comprehensive refactoring]<br>Storage refresh technology makes your device work fast for much longer via smart defragmentation<br>Intelligent network selection makes your connection smoother in poor network environments<br>[Vibrant aesthetics]<br>Global aesthetics draw inspiration from life itself and change the way your device looks and feels<br>New animation language makes interactions with your device wholesome and intuitive<br>Natural colors bring vibrancy and vitality to every corner of your device<br>Our all-new system font supports multiple writing systems<br>Redesigned Weather app not only gives you important information, but also shows you how it feels outside<br>Notifications are focused on important information, presenting it to you in the most efficient way<br>New Home screen icons refresh familiar items with new shapes and colors</p>
+                        <p id="changelog_text">Bug fixes and system optimizations.</p>
                     </div>
                 </li>
             </ul>
