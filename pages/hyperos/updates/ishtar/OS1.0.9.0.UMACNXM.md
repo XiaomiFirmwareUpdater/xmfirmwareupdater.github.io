@@ -78,7 +78,7 @@ permalink: /hyperos/ishtar/stable beta/OS1.0.9.0.UMACNXM/
                             aria-expanded="false" aria-controls="ishtar_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="ishtar_1_changelog">
-                        <p id="changelog_text">[System]<br>Updated the security patch to April 2024. Increased system security.<br>[Camera]<br>New: Elevate your photos with "Master portrait" and "Leica portrait" options<br>Optimization: High definition images in Portrait mode<br>Optimization: Beautify in Portrait mode<br>Improve the quality of your portrait photography with all-new Xiaomi AISP large AI model</p>
+                        <p id="changelog_text">[System]<br>Updated the security patch to April 2024. Increased system security.<br>[Camera]<br>New: Ultra zoom for the Photo mode<br>Optimization: Beautify in Portrait mode<br>Optimization: Background blur in Portrait mode<br>Improve the quality of your portrait photography with all-new Xiaomi AISP large AI model</p>
                     </div>
                 </li>
             </ul>

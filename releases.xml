@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 17 May 2024 15:37:16 </lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 19:10:28 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS1.0.6.0.UNAEUXM</title>
@@ -14,6 +14,16 @@
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS1.0.4.0.UNAINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Fri, 17 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.7.0.UMREUXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
+            <pubDate>Fri, 17 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - OS1.0.1.0.ULOMIXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
             <pubDate>Fri, 17 May 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -1012,11 +1022,6 @@
             <pubDate>Thu, 21 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.8.0.TLOMIXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/xaga/</link>
-            <pubDate>Thu, 21 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12 Pro (zeus) - OS1.0.3.0.ULBCNXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Thu, 21 Mar 2024 00:00:00 </pubDate>
@@ -1105,11 +1110,6 @@
             <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - OS1.0.1.0.TKEMIXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fleur/</link>
             <pubDate>Tue, 05 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.5.0.UMREUXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Mon, 04 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi Pad 5 (nabu) - OS1.0.2.0.TKXCNXM</title>

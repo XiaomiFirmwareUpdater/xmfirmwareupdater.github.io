@@ -52,7 +52,8 @@ permalink: /hyperos/odin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>MIX 4 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UKMCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-04-29</td><td><a href="/hyperos/odin/stable beta/OS1.0.2.0.UKMCNXM/">Download</a></td></tr>
+                <tr><td>MIX 4 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UKMCNXM</td><td>14.0</td><td>7.1 GB</td><td>2024-04-25</td><td><a href="/hyperos/odin/stable/OS1.0.2.0.UKMCNXM/">Download</a></td></tr>
+<tr><td>MIX 4 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UKMCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-04-29</td><td><a href="/hyperos/odin/stable/OS1.0.2.0.UKMCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
