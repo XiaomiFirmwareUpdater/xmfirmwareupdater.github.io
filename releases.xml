@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 17 May 2024 00:48:10 </lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 06:47:11 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Pad SE (xun) - OS1.0.4.0.UMUCNXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
+            <pubDate>Fri, 17 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - OS1.0.1.0.TKHINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/alioth/</link>
@@ -1154,11 +1159,6 @@
         <item>
             <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V14.0.10.0.TKLEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/rosemary/</link>
-            <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad SE (xun) - V14.0.10.0.TMUCNXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/xun/</link>
             <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>

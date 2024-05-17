@@ -52,7 +52,7 @@ permalink: /hyperos/xun/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad SE China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UMUCNXM</td><td>14.0</td><td>4.2 GB</td><td>2024-01-24</td><td><a href="/hyperos/xun/stable beta/OS1.0.3.0.UMUCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad SE China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UMUCNXM</td><td>14.0</td><td>4.2 GB</td><td>2024-05-14</td><td><a href="/hyperos/xun/stable beta/OS1.0.4.0.UMUCNXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UMUEUXM</td><td>14.0</td><td>4.7 GB</td><td>2024-02-24</td><td><a href="/hyperos/xun/stable/OS1.0.1.0.UMUEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UMUEUXM</td><td>14.0</td><td>4.1 GB</td><td>2024-03-04</td><td><a href="/hyperos/xun/stable/OS1.0.1.0.UMUEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UMUEUXM</td><td>14.0</td><td>4.1 GB</td><td>2024-05-07</td><td><a href="/hyperos/xun/stable beta/OS1.0.2.0.UMUEUXM/">Download</a></td></tr>
