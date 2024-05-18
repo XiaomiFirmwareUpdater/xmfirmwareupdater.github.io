@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xiaomifirmwareupdater.com</link>
         <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 18 May 2024 12:42:25 </lastBuildDate>
+        <lastBuildDate>Sat, 18 May 2024 19:52:17 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 13T (aristotle) - OS1.0.7.0.UMFEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/aristotle/</link>
+            <pubDate>Sat, 18 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS1.0.7.0.UNRINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
+            <pubDate>Sat, 18 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro+ 5G (zircon) - OS1.0.8.0.UNOINXM</title>
+            <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Sat, 18 May 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -812,11 +822,6 @@
             <pubDate>Wed, 03 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 Pro+ 5G (zircon) - OS1.0.4.0.UNOINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/zircon/</link>
-            <pubDate>Wed, 03 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - OS1.0.2.0.TKEINXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fleur/</link>
             <pubDate>Tue, 02 Apr 2024 00:00:00 </pubDate>
@@ -954,11 +959,6 @@
         <item>
             <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - OS1.0.1.0.TKEEUXM</title>
             <link>https://xiaomifirmwareupdater.com/firmware/fleur/</link>
-            <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS1.0.4.0.UNRINXM</title>
-            <link>https://xiaomifirmwareupdater.com/firmware/garnet/</link>
             <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>

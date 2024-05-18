@@ -25869,6 +25869,16 @@
     android: '14.0'
     miui: OS1.0.8.0.UNREUXM
 - branch: stable
+  date: '2024-05-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-18.05.2024/fw_garnet_miui_GARNETINGlobal_OS1.0.7.0.UNRINXM_84036df082_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/garnet/fw_garnet_miui_GARNETINGlobal_OS1.0.7.0.UNRINXM_84036df082_14.0.zip
+  filename: fw_garnet_miui_GARNETINGlobal_OS1.0.7.0.UNRINXM_84036df082_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.7.0.UNRINXM
+- branch: stable
   date: '2024-02-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-18.02.2024/fw_garnet_miui_GARNETINGlobal_V14.0.4.0.TNRINXM_56b24d11df_13.0.zip
@@ -77078,6 +77088,16 @@
   versions:
     android: '13.0'
     miui: V14.0.2.0.TNOINXM
+- branch: stable
+  date: '2024-05-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-18.05.2024/fw_zircon_miui_ZIRCONINGlobal_OS1.0.8.0.UNOINXM_07ce5a5c64_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zircon/fw_zircon_miui_ZIRCONINGlobal_OS1.0.8.0.UNOINXM_07ce5a5c64_14.0.zip
+  filename: fw_zircon_miui_ZIRCONINGlobal_OS1.0.8.0.UNOINXM_07ce5a5c64_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.8.0.UNOINXM
 - branch: stable
   date: '2024-01-18'
   downloads:
