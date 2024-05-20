@@ -618,6 +618,12 @@
   version: OS1.0.1.0.UNFMIXM
 - android: '13.0'
   codename: enuma
+  date: '2024-05-20'
+  download: https://bigota.d.miui.com/OS1.0.3.0.TKZCNXM/fw_enuma_miui_ENUMA_OS1.0.3.0.TKZCNXM_e1128c5324_13.0.zip
+  name: Xiaomi Pad 5 Pro 5G
+  version: OS1.0.3.0.TKZCNXM
+- android: '13.0'
+  codename: enuma
   date: '2024-03-08'
   download: https://bigota.d.miui.com/OS1.0.1.0.TKZCNXM/fw_enuma_miui_ENUMA_OS1.0.1.0.TKZCNXM_4488f26875_13.0.zip
   name: Xiaomi Pad 5 Pro 5G
@@ -2800,6 +2806,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UNOEUXM/fw_zircon_miui_ZIRCONEEAGlobal_OS1.0.2.0.UNOEUXM_dd2d069c0d_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.2.0.UNOEUXM
+- android: '14.0'
+  codename: zircon
+  date: '2024-05-20'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UNOMIXM/fw_zircon_miui_ZIRCONGlobal_OS1.0.2.0.UNOMIXM_042c23442e_14.0.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS1.0.2.0.UNOMIXM
 - android: '14.0'
   codename: zircon
   date: '2024-03-21'

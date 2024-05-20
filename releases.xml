@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 20 May 2024 22:20:06 </lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 01:51:08 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS1.0.1.0.UGQCNXM</title>
@@ -32,6 +32,11 @@
             <pubDate>Mon, 20 May 2024 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi Pad 5 Pro 5G (enuma) - OS1.0.3.0.TKZCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/enuma/</link>
+            <pubDate>Mon, 20 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi 10C (fog) - V14.0.6.0.TGEINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fog/</link>
             <pubDate>Mon, 20 May 2024 00:00:00 </pubDate>
@@ -54,6 +59,11 @@
         <item>
             <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - OS1.0.2.0.UKAINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/star/</link>
+            <pubDate>Mon, 20 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro+ 5G (zircon) - OS1.0.2.0.UNOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Mon, 20 May 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -1047,11 +1057,6 @@
             <pubDate>Thu, 21 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 Pro+ 5G (zircon) - OS1.0.1.0.UNOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
-            <pubDate>Thu, 21 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi MIX Fold 2 (zizhan) - OS1.0.3.0.ULRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zizhan/</link>
             <pubDate>Thu, 21 Mar 2024 00:00:00 </pubDate>
@@ -1100,11 +1105,6 @@
             <title>Redmi K40 Gaming/POCO F3 GT (ares) - OS1.0.2.0.TKJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ares/</link>
             <pubDate>Tue, 12 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 5 Pro 5G (enuma) - OS1.0.1.0.TKZCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/enuma/</link>
-            <pubDate>Fri, 08 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 12 (cupid) - OS1.0.5.0.ULCCNXM</title>
