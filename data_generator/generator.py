@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""XiaomiFirmwareUpdater website data generator"""
+"""XMFirmwareUpdater website data generator"""
 from datetime import datetime
 from os import environ
 from pathlib import Path
@@ -692,7 +692,7 @@ def generate_rss():
         codename = update["filename"].split("_")[1]
         rss_item = {
             "title": f"{NAMES[codename]} ({codename}) - {update['versions']['miui']}",
-            "link": f"https://xiaomifirmwareupdater.com/firmware/{codename}/",
+            "link": f"https://xmfirmwareupdater.com/firmware/{codename}/",
             "date": update["date"],
             "pubDate": datetime.strptime(update["date"], "%Y-%m-%d").strftime(
                 "%a, %d %b %Y %H:%M:%S %z"
@@ -702,10 +702,10 @@ def generate_rss():
     rss_items.sort(key=lambda x: x["date"], reverse=True)
     rss_body = """<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Xiaomi Firmware Updater Releases</title>
+        <title>XM Firmware Updater Releases</title>
         <description>Latest firmware releases</description>
-        <link>https://xiaomifirmwareupdater.com</link>
-        <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
+        <link>https://xmfirmwareupdater.com</link>
+        <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
         <lastBuildDate>{lastBuildDate}</lastBuildDate>
         <language>en-us</language>
         {items}

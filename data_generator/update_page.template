@@ -25,7 +25,7 @@ permalink: /$os_type/$codename/$branch_lower/$version/
     <h5>This page shows the $version update only. If you're looking for other updates check
         <a href="/$os_type/$codename/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched $os_name ROMs.
-        It's not owned, modified or edited by Xiaomi Firmware Updater.</p>
+        It's not owned, modified or edited by XM Firmware Updater.</p>
     <div class="card">
         <div class="card-body">
             <h5 class="card-title">Note</h5>

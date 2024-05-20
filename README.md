@@ -1,2 +1,2 @@
-# [xiaomifirmwareupdater.github.io](https://xiaomifirmwareupdater.github.io)
+# [XMFirmwareUpdater.github.io](https://XMFirmwareUpdater.github.io)
 Official website index

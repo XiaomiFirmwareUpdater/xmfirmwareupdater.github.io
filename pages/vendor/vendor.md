@@ -17,10 +17,10 @@ permalink: /vendor/
     </button>
 </div>
 
-### Latest Vendor flashable files for all Xiaomi treble-supported devices
+### Latest Vendor flashable files for all XM treble-supported devices
 
 *Note*: All files listed here are made by [mi-vendor-updater](https://github.com/TryHardDood/mi-vendor-updater)
-open-source project. It's not owned, modified or edited by Xiaomi Firmware Updater.
+open-source project. It's not owned, modified or edited by XM Firmware Updater.
 
 <div class="card">
     <div class="card-body">

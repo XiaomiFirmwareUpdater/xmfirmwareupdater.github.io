@@ -21,7 +21,7 @@ Check the downloads on the following pages: [Latest ROMs](/hyperos/) - [ROMs Arc
         <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
         <p class="card-text">This page shows MIUI & HyperOS Updates Tracker supported devices only.
             If you're looking for other projects supported devices check:</p>
-            <a href="/supported/firmware/" class="card-link">Xiaomi Firmware Updater</a>
+            <a href="/supported/firmware/" class="card-link">XM Firmware Updater</a>
             <a href="/supported/vendor/" class="card-link">MI Vendor Updater</a>
     </div>
 </div>

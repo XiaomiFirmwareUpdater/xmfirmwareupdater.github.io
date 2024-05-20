@@ -5,10 +5,10 @@ permalink: /faq/
 keywords: ""
 ---
 
-## Xiaomi Firmware Updater FAQ
+## XM Firmware Updater FAQ
 
-* ```Q:``` What is Xiaomi Firmware Updater?
-* ```A:``` Xiaomi Firmware Updater is a community project, started in January 2018, aims to provide firmware packages for Xiaomi devices, in order to allow custom ROM users to update their devices’ firmware easily through custom recovery instead of having to flash full ROM every time they want to update.
+* ```Q:``` What is XM Firmware Updater?
+* ```A:``` XM Firmware Updater is a community project, started in January 2018, aims to provide firmware packages for XM devices, in order to allow custom ROM users to update their devices’ firmware easily through custom recovery instead of having to flash full ROM every time they want to update.
 
 * ```Q:``` What is Firmware? Is it a full ROM or OTA package?
 * ```A:``` Firmware is not a ROM nor OTA Package, it's a set of low-level drivers which helps the operating system do whatever it wants to do. It includes various things like Modem, Bluetooth, Bootloader, DSP and etc.
@@ -20,7 +20,7 @@ keywords: ""
 *	```A:``` No, MIUI ROMs contain the firmware-update package which I extract and provide here.
 
 * ```Q:``` What are the supported devices?
-* ```A:``` All Snapdragon and MTK devices including China-only devices. Check the full devices list [here](https://xiaomifirmwareupdater.com/supported/firmware/).
+* ```A:``` All Snapdragon and MTK devices including China-only devices. Check the full devices list [here](https://xmfirmwareupdater.com/supported/firmware/).
 
 * ```Q:``` How to update firmware?
 * ```A:``` 
@@ -51,4 +51,4 @@ keywords: ""
 * ```A:``` No, to switch regions you will have to unlock the bootloader and flash the fastboot ROM of the region you want to switch to.
 
 * ```Q:``` Which devices do your project support?
-* ```A:``` All Xiaomi, Redmi, and POCO devices including China-only devices. Check the full devices list [here](https://xiaomifirmwareupdater.com/supported/miui/).
+* ```A:``` All Xiaomi, Redmi, and POCO devices including China-only devices. Check the full devices list [here](https://xmfirmwareupdater.com/supported/miui/).

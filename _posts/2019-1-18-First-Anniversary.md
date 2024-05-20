@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Xiaomi Firmware Updater First Anniversay!
+title: XM Firmware Updater First Anniversay!
 categories: Updates
 ---
 
@@ -11,7 +11,7 @@ Wow, I still can't believe that my project is one year old now!
 It's been a long year, which passed very quickly. During this year, there were many updates, many changes, many challenges, and many new contributions.
 
 Since Jan 2018 the project has evolved a lot:
-* from supporting only 30 devices, to support all Xiaomi qcom devices!
+* from supporting only 30 devices, to support all XM QCOM devices!
 * from using CI to using Linux server
 * from V1 to V4.6 now!
 * from using shell in all scripts to python (expect one script which will be updated soon )

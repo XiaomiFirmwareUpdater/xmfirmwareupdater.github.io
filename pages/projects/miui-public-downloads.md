@@ -4,7 +4,7 @@ layout: single
 permalink: /projects/miui-downloads-scraper/
 ---
 
-A python 3 script that scrap Xiaomi MIUI ROM links from downloads website and generate json files.
+A python 3 script that scrap XM MIUI ROM links from downloads website and generate json files.
 
 The script is available on [GitHub](https://github.com/XiaomiFirmwareUpdater/miui-downloads/).
 

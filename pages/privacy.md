@@ -5,14 +5,14 @@ permalink: /privacy/
 ---
 <h1>Privacy Policy</h1>
 <p>Effective date: January 1, 2019</p>
-<p>Xiaomi Firmware Updater ("us", "we", or "our") operates the https://xiaomifirmwareupdater.com website
+<p>XM Firmware Updater ("us", "we", or "our") operates the https://xmfirmwareupdater.com website
     (hereinafter referred to as the "Service").</p>
 <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our
     Service and the choices you have associated with that data.</p>
 <p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of
     information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this
     Privacy Policy have the same meanings as in our Terms and Conditions, accessible from
-    https://xiaomifirmwareupdater.com</p>
+    https://xmfirmwareupdater.com</p>
 <h2>Information Collection And Use</h2>
 <p>We collect several different types of information for various purposes to provide and improve our Service to you.</p>
 <h3>Types of Data Collected</h3>
@@ -44,7 +44,7 @@ permalink: /privacy/
     <li><strong>Security Cookies.</strong> We use Security Cookies for security purposes.</li>
 </ul>
 <h2>Use of Data</h2>
-<p>Xiaomi Firmware Updater uses the collected data for various purposes:</p>
+<p>XM Firmware Updater uses the collected data for various purposes:</p>
 <ul>
     <li>To provide and maintain the Service</li>
     <li>To notify you about changes to our Service</li>
@@ -56,11 +56,11 @@ permalink: /privacy/
 </ul>
 <h2>Disclosure Of Data</h2>
 <h3>Legal Requirements</h3>
-<p>Xiaomi Firmware Updater may disclose your Personal Data in the good faith belief that such action is necessary to:
+<p>XM Firmware Updater may disclose your Personal Data in the good faith belief that such action is necessary to:
 </p>
 <ul>
     <li>To comply with a legal obligation</li>
-    <li>To protect and defend the rights or property of Xiaomi Firmware Updater</li>
+    <li>To protect and defend the rights or property of XM Firmware Updater</li>
     <li>To prevent or investigate possible wrongdoing in connection with the Service</li>
     <li>To protect the personal safety of users of the Service or the public</li>
     <li>To protect against legal liability</li>
@@ -100,14 +100,14 @@ permalink: /privacy/
         </p>
         <p> These third-party ad servers or ad networks use technology in their respective advertisements and links that
             appear
-            on https://xiaomifirmwareupdater.com and which are sent directly to your browser. They automatically receive
+            on https://xmfirmwareupdater.com and which are sent directly to your browser. They automatically receive
             your IP
             address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used
             by our
             site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to
             personalize the
             advertising content that you see on the site. </p>
-        <p> https://xiaomifirmwareupdater.com has no access to or control over these cookies that are used by
+        <p> https://xmfirmwareupdater.com has no access to or control over these cookies that are used by
             third-party
             advertisers. </p>
     </li>
@@ -128,5 +128,5 @@ permalink: /privacy/
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
-    <li>Send us e-mail: <a href="mailto:contact@xiaomifirmwareupdater.com">contact@xiaomifirmwareupdater.com</a></li>
+    <li>Send us e-mail: <a href="mailto:contact@xmfirmwareupdater.com">contact@xmfirmwareupdater.com</a></li>
 </ul>

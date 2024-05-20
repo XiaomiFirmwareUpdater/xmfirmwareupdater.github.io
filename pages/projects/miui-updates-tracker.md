@@ -4,7 +4,7 @@ layout: single
 permalink: /projects/miui-updates-tracker/
 ---
 
-A python 3 script that automatically track Xiaomi MIUI ROM releases and send messages to telegram and discord channels to notify users!
+A python 3 script that automatically track XM MIUI ROM releases and send messages to telegram and discord channels to notify users!
 
 * It supports almost all devices.
 * Both Global and China ROMs are being tracked.

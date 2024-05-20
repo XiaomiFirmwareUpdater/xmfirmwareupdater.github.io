@@ -46,7 +46,7 @@ The new series, for now has two devices: Redmi Note 9 Pro (codename: *curtana*, 
 
 
 
-We, at Xiaomi Firmware Updater, were able to get the first official MIUI package for Redmi Note 9 Pro, although it's not available on MIUI website yet!
+We, at XM Firmware Updater, were able to get the first official MIUI package for Redmi Note 9 Pro, although it's not available on MIUI website yet!
 
 Redmi Note 9 Pro is running MIUI version *V11.0.4.0* based on Android 10.
 
@@ -54,8 +54,8 @@ Download Redmi Note 9 Pro Official MIUI V11.0.4.0.QJWINXM: [Recovery](http://big
 
 
 
-And as usual, the new devices have been added to Xiaomi Firmware Updater, MIUI Updates Tracker, and Chatbot!
+And as usual, the new devices have been added to XM Firmware Updater, MIUI Updates Tracker, and Chatbot!
 
-You can download firmware packge of this update [here](http://www.xiaomifirmwareupdater.com/firmware/curtana/), and vendor package from [here](http://www.xiaomifirmwareupdater.com/vendor/curtana/).
+You can download firmware packge of this update [here](http://www.xmfirmwareupdater.com/firmware/curtana/), and vendor package from [here](http://www.xmfirmwareupdater.com/vendor/curtana/).
 
-Do you have any suggestions? Feel free to [tip us](https://xiaomifirmwareupdater.com/contact-us/)!
+Do you have any suggestions? Feel free to [tip us](https://xmfirmwareupdater.com/contact-us/)!

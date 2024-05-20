@@ -20,9 +20,9 @@ permalink: /hyperos/
     </button>
 </div>
 
-### Latest HyperOS Official ROMs for Xiaomi devices
+### Latest HyperOS Official ROMs for XM devices
 
-_Note 1_: All files listed here are official untouched HyperOS ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
+_Note 1_: All files listed here are official untouched HyperOS ROMs. It's not owned, modified or edited by XM Firmware Updater.
 
 _Note 2_: All ROMs links listed here are collected via various sources on the internet since HyperOS official website doesn't provide Beta ROMs links. You need custom recovery to flash beta version, do it on your own risk.
 

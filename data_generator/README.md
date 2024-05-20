@@ -1,4 +1,4 @@
-# Xiaomi Firmware Updater Site Data Generator
+# XM Firmware Updater Site Data Generator
 ##### Part of [XiaomiFirmwareUpdater](https://github.com/XiaomiFirmwareUpdater) Project, by [yshalsager](https://github.com/yshalsager).
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)

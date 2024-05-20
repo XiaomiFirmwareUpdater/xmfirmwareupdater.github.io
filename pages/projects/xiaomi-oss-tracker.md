@@ -1,10 +1,10 @@
 ---
-title: Xiaomi OSS Tracker
+title: XM OSS Tracker
 layout: single
-permalink: /projects/xiaomi-oss-tracker/
+permalink: /projects/XM-oss-tracker/
 ---
 
-A python 3 script that track and scrap Xiaomi OSS Kernel sources releases.
+A python 3 script that track and scrap XM OSS Kernel sources releases.
 
 The script is available on [GitHub](https://github.com/XiaomiFirmwareUpdater/xiaomi-oss-tracker/).
 

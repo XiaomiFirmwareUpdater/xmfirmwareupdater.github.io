@@ -1,13 +1,13 @@
 ---
-title: Xiaomi Flashable Firmware Creator V2
+title: XM Flashable Firmware Creator V2
 description: A tool for automating creating flashable firmware zip files
 layout: single
-permalink: /projects/xiaomi-flashable-firmware-creator/
+permalink: /projects/XM-flashable-firmware-creator/
 ---
 
-#### Do you want to create your own firmware files from MIUI ROMs without depending on Xiaomi Firmware Updater? Then you need the new script!
+#### Do you want to create your own firmware files from MIUI ROMs without depending on XM Firmware Updater? Then you need the new script!
 
-Xiaomi Flashable Firmware Creator is a tool that generates flashable firmware-update packages from official (or non official) MIUI ROMS.
+XM Flashable Firmware Creator is a tool that generates flashable firmware-update packages from official (or non official) MIUI ROMS.
 
 It supports creating untouched firmware, non-arb firmware, firmware + vendor flashable zip, and firmware-less ROMs from any supported local or remote miui zip. You just need to give the tool a local file path or a direct link to the miui zip and it'll do the job for you!
 

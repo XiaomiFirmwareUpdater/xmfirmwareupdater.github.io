@@ -1,12 +1,12 @@
 ---
 layout: single
-title: Announcing Xiaomi Firmware Updater website V1!
+title: Announcing XM Firmware Updater website V1!
 categories: Updates
 ---
 
 The new website is now online, completely re-written from scratch.
 
-Xiaomi Firmware Updater website since the creation of it had some *minor issues* like homepage table loading and mobile view compatibility.
+XM Firmware Updater website since the creation of it had some *minor issues* like homepage table loading and mobile view compatibility.
 
 Fortunately, I have got a good time to work on the website update, and this time I recreated it from scratch. However, I've used the same template as before to keep the familiar look and feel.
 
@@ -23,4 +23,4 @@ Fortunately, I have got a good time to work on the website update, and this time
 * New pages for checking [supported devices](/supported/).
 * Blog: new pages for [archive](/blog/archive/) and [categories](/blog/categories/).
 
-Do you have any suggestions? Feel free to [tip us](https://xiaomifirmwareupdater.com/contact-us/)!
+Do you have any suggestions? Feel free to [tip us](https://xmfirmwareupdater.com/contact-us/)!

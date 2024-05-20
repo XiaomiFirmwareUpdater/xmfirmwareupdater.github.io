@@ -1,11 +1,11 @@
 ---
 title: Uranus Chat Bot
-description: A swiss army knife for Xiaomi users
+description: A swiss army knife for XM users
 layout: single
 permalink: /projects/uranus-chatbot/
 ---
 
-Uranus is an all-in-one bot that provides useful services for Xiaomi users, currently available on Telegram only.
+Uranus is an all-in-one bot that provides useful services for XM users, currently available on Telegram only.
 
 This project is a modular telegram bot, made using Python 3 and python-telegram-bot library.
 
@@ -66,7 +66,7 @@ Available commands are:
   <tr>
     <td>/eu</td>
     <td>codename</td>
-    <td>gets latest Xiaomi EU ROMs downloads for device</td>
+    <td>gets latest XM EU ROMs downloads for device</td>
     <td>/eu mido</td>
   </tr>
   <tr>
@@ -126,7 +126,7 @@ Available commands are:
   <tr>
     <td>/guides</td>
     <td>-</td>
-    <td>Various useful guides for every Xiaomi user</td>
+    <td>Various useful guides for every XM user</td>
     <td>/guides</td>
   </tr>
   <tr>
@@ -138,7 +138,7 @@ Available commands are:
   <tr>
     <td>/tools</td>
     <td>-</td>
-    <td>Various useful tools for every Xiaomi user</td>
+    <td>Various useful tools for every XM user</td>
     <td>/tools</td>
   </tr>
   <tr>

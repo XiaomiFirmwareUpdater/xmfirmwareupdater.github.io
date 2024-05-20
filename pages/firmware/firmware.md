@@ -1,5 +1,5 @@
 ---
-title: Xiaomi Firmware Updater Downloads
+title: XM Firmware Updater Downloads
 layout: download
 permalink: /firmware/
 ---
@@ -10,7 +10,7 @@ permalink: /firmware/
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
-    Follow Xiaomi Firmware Updater on <a href="https://t.me/XiaomiFirmwareUpdater" class="alert-link">Telegram</a>
+    Follow XM Firmware Updater on <a href="https://t.me/XiaomiFirmwareUpdater" class="alert-link">Telegram</a>
     or <a href="https://twitter.com/MiFwUpdater" class="alert-link">Twitter</a> to get notified when a new update is
     out!
     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
@@ -18,7 +18,7 @@ permalink: /firmware/
     </button>
 </div>
 
-<h3>Latest Firmware Downloads for all Xiaomi Devices <span class="badge badge-light"><a href="/releases.xml"
+<h3>Latest Firmware Downloads for all XM devices <span class="badge badge-light"><a href="/releases.xml"
             class="icon solid fa-rss"><span class="label">RSS</span></a></span></h3>
 <div class="card">
     <div class="card-body">

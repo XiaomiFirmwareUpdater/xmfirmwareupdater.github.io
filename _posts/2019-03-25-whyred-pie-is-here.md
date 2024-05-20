@@ -1,13 +1,13 @@
 ---
 layout: single
-title: MIUI 10 Pie update for Xiaomi Note 5 (whyred) early builds leaked + Firmware
+title: MIUI 10 Pie update for XM Note 5 (whyred) early builds leaked + Firmware
 categories: ROMs
 ---
-After a long time of waiting for the new update, MIUI 10 Pie build 9.3.25 for Xiaomi Note 5 (whyred) was leaked today.
+After a long time of waiting for the new update, MIUI 10 Pie build 9.3.25 for XM Note 5 (whyred) was leaked today.
 
 Surprisingly, the beta build released for both Global and China ROMs closed beta teams, and it got leaked via telegram user.
 
-Because Xiaomi Note 5 (whyred) is a super popular device for custom ROMs users, I've made a special release of those closed beta Pie ROMs Firmware, non-arb Firmware, and Firmware-less ROMs.
+Because XM Note 5 (whyred) is a super popular device for custom ROMs users, I've made a special release of those closed beta Pie ROMs Firmware, non-arb Firmware, and Firmware-less ROMs.
 
 **Note**: These ROMSs and Firmwares can't be flashed from the official updater. You'll have to use a custom recovery in order to flash.
 

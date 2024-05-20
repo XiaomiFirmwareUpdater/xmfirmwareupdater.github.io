@@ -18,10 +18,10 @@ permalink: /rss/
     </div>
 </div>
 <br/>
-*Xiaomi Firmware Updater provides feeds for new firmware releases, new blog posts. While MIUI Updates Tracker provides
+*XM Firmware Updater provides feeds for new firmware releases, new blog posts. While MIUI Updates Tracker provides
 feeds for new MIUI ROMs updates.*
 
-# Xiaomi Firmware Updater Feeds
+# XM Firmware Updater Feeds
 
 * [Releases](/releases.xml)
 * [Posts](/feed.xml)

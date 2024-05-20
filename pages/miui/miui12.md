@@ -20,10 +20,9 @@ permalink: /miui12/
     </button>
 </div>
 
-### Latest MIUI 12 Official China Beta ROMs for Xiaomi devices
+### Latest MIUI 12 Official China Beta ROMs for XM devices
 
-_Note 1_: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware
-Updater.
+_Note 1_: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by XM Firmware Updater.
 
 _Note 2_: All ROMs links listed here are collected via various sources on the internet since MIUI official website is no
 longer providing Beta ROMs links. You need custom recovery to flash these files, do it on your own risk.

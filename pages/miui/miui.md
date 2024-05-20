@@ -19,10 +19,9 @@ permalink: /miui/
     </button>
 </div>
 
-### Latest MIUI Official ROMs for all Xiaomi devices
+### Latest MIUI Official ROMs for all XM devices
 
-_Note_: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware
-Updater.
+_Note_: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by XM Firmware Updater.
 
 <br />
 <div class="card">

@@ -878,6 +878,6 @@ lijit.com, 305268-eb, DIRECT, fafdf38b16bf6b2b
 inmobi.com, 0c5a288c5bc842bbac20f6cd0ddb0098, DIRECT, 83e75a7ae333ca9d
 google.com, pub-3082303125116831, DIRECT, f08c47fec0942fa0
 
-OWNERDOMAIN=xiaomifirmwareupdater.com
+OWNERDOMAIN=xmfirmwareupdater.com
 MANAGERDOMAIN=pubpower.io
 #VLI END

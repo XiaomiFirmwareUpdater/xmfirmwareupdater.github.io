@@ -5,7 +5,7 @@ permalink: /supported/vendor/
 ---
 
 *Note*: [mi-vendor-updater](https://github.com/TryHardDood/mi-vendor-updater) is an open-source project that utilize
-[Xiaomi Firmware Updater](/) works. It's independant project and not a part of [Xiaomi Firmware Updater](/) project.
+[XM Firmware Updater](/) works. It's independant project and not a part of [XM Firmware Updater](/) project.
 
 Check the downloads on the following pages: [Latest Releases](/vendor/) - [ROMs Archive](/archive/vendor/).
 
@@ -23,7 +23,7 @@ Check the downloads on the following pages: [Latest Releases](/vendor/) - [ROMs 
         <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
         <p class="card-text">This page shows MI Vendor Updater supported devices only.
             If you're looking for other projects supported devices check:</p>
-        <a href="/supported/firmware/" class="card-link">Xiaomi Firmware Updater</a>
+        <a href="/supported/firmware/" class="card-link">XM Firmware Updater</a>
         <a href="/supported/miui/" class="card-link">MIUI Updates Tracker</a>
     </div>
 </div>

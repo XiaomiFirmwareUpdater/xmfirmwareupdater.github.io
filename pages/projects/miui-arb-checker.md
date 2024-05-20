@@ -6,7 +6,7 @@ permalink: /projects/miui-arb-checker/
 
 MIUI Anti-Rollback checker is a simple command-line Python 3 tool that can check anti-rollback implementation in MIUI Recovery and Fastboot ROMs. It also supports checking xbl files and fastboot flashing scripts.
 
-The script is available on [GitHub](https://github.com/XiaomiFirmwareUpdater/xiaomi-oss-tracker/).
+The script is available on [GitHub](https://github.com/XiaomiFirmwareUpdater/miui_arb_checker/).
 
 **Usage:**
 
