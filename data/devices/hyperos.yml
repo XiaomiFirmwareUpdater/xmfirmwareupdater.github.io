@@ -384,6 +384,18 @@
   version: OS1.0.1.0.ULFEUXM
 - android: '14.0'
   codename: diting
+  date: '2024-05-20'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULFMIXM/fw_diting_miui_DITINGGlobal_OS1.0.4.0.ULFMIXM_c9181f0d36_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.4.0.ULFMIXM
+- android: '14.0'
+  codename: diting
+  date: '2024-05-20'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULFCNXM/fw_diting_miui_DITING_OS1.0.4.0.ULFCNXM_7ad0433a3b_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.4.0.ULFCNXM
+- android: '14.0'
+  codename: diting
   date: '2024-02-18'
   download: https://bigota.d.miui.com/OS1.0.2.0.ULFMIXM/fw_diting_miui_DITINGGlobal_OS1.0.2.0.ULFMIXM_b89acba2d4_14.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
@@ -1672,6 +1684,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMZINXM/fw_pipa_miui_PIPAINGlobal_OS1.0.3.0.UMZINXM_53efbe0084_14.0.zip
   name: Xiaomi Pad 6
   version: OS1.0.3.0.UMZINXM
+- android: '14.0'
+  codename: pipa
+  date: '2024-05-20'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMZINXM/fw_pipa_miui_PIPAINGlobal_OS1.0.4.0.UMZINXM_5f6b24384d_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.4.0.UMZINXM
 - android: '14.0'
   codename: pipa
   date: '2024-02-18'

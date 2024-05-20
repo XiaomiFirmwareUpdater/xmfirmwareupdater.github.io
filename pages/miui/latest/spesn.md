@@ -58,7 +58,6 @@ permalink: /miui/spesn/
 <tr><td>Redmi Note 11 NFC Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SGKIDXM</td><td>12.0</td><td>3.1 GB</td><td>2023-05-11</td><td><a href="/miui/spesn/stable/V13.0.6.0.SGKIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.7.0.TGKRUXM</td><td>13.0</td><td>5.9 GB</td><td>2024-01-29</td><td><a href="/miui/spesn/stable/V14.0.7.0.TGKRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.7.0.TGKRUXM</td><td>13.0</td><td>3.7 GB</td><td>2024-02-29</td><td><a href="/miui/spesn/stable/V14.0.7.0.TGKRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 NFC Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TGKRUXM</td><td>13.0</td><td>3.5 GB</td><td>2023-07-05</td><td><a href="/miui/spesn/stable beta/V14.0.3.0.TGKRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

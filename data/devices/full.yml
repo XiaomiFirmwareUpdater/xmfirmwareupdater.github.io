@@ -21869,6 +21869,26 @@
     android: '14.0'
     miui: OS1.0.1.0.ULFEUXM
 - branch: stable
+  date: '2024-05-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-20.05.2024/fw_diting_miui_DITINGGlobal_OS1.0.4.0.ULFMIXM_c9181f0d36_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/diting/fw_diting_miui_DITINGGlobal_OS1.0.4.0.ULFMIXM_c9181f0d36_14.0.zip
+  filename: fw_diting_miui_DITINGGlobal_OS1.0.4.0.ULFMIXM_c9181f0d36_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.ULFMIXM
+- branch: stable
+  date: '2024-05-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-20.05.2024/fw_diting_miui_DITING_OS1.0.4.0.ULFCNXM_7ad0433a3b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/diting/fw_diting_miui_DITING_OS1.0.4.0.ULFCNXM_7ad0433a3b_14.0.zip
+  filename: fw_diting_miui_DITING_OS1.0.4.0.ULFCNXM_7ad0433a3b_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.ULFCNXM
+- branch: stable
   date: '2023-04-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-20.04.2023/fw_diting_miui_DITINGGlobal_V14.0.2.0.TLFMIXM_824e5a20f1_13.0.zip
@@ -24988,6 +25008,16 @@
   versions:
     android: '13.0'
     miui: V14.0.2.0.TGEMIXM
+- branch: stable
+  date: '2024-05-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-20.05.2024/fw_fog_miui_FOGINGlobal_V14.0.6.0.TGEINXM_d118df621f_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fog/fw_fog_miui_FOGINGlobal_V14.0.6.0.TGEINXM_d118df621f_13.0.zip
+  filename: fw_fog_miui_FOGINGlobal_V14.0.6.0.TGEINXM_d118df621f_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TGEINXM
 - branch: stable
   date: '2023-02-20'
   downloads:
@@ -49088,6 +49118,16 @@
   versions:
     android: '14.0'
     miui: OS1.0.3.0.UMZINXM
+- branch: stable
+  date: '2024-05-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-20.05.2024/fw_pipa_miui_PIPAINGlobal_OS1.0.4.0.UMZINXM_5f6b24384d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pipa/fw_pipa_miui_PIPAINGlobal_OS1.0.4.0.UMZINXM_5f6b24384d_14.0.zip
+  filename: fw_pipa_miui_PIPAINGlobal_OS1.0.4.0.UMZINXM_5f6b24384d_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UMZINXM
 - branch: stable
   date: '2023-04-19'
   downloads:
