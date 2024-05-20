@@ -1,4 +1,4 @@
 [tools]
 
-ruby = "3.2.4"
+ruby = "2.7.4"
 python = "3.11"
