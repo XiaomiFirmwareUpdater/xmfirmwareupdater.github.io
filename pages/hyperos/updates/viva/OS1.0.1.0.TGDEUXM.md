@@ -25,7 +25,7 @@ permalink: /hyperos/viva/stable/OS1.0.1.0.TGDEUXM/
     <h5>This page shows the OS1.0.1.0.TGDEUXM update only. If you're looking for other updates check
         <a href="/hyperos/viva/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
-        It's not owned, modified or edited by Xiaomi Firmware Updater.</p>
+        It's not owned, modified or edited by XM Firmware Updater.</p>
     <div class="card">
         <div class="card-body">
             <h5 class="card-title">Note</h5>

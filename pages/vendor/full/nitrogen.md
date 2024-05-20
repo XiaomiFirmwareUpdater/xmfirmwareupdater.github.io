@@ -32,7 +32,7 @@ permalink: /archive/vendor/nitrogen/
 </div>
 
 <br/>
-*Note 1*: All files listed here are made by [mi-vendor-updater](https://github.com/TryHardDood/mi-vendor-updater) open-source project. It's not owned, modified or edited by Xiaomi Firmware Updater.
+*Note 1*: All files listed here are made by [mi-vendor-updater](https://github.com/TryHardDood/mi-vendor-updater) open-source project. It's not owned, modified or edited by XM Firmware Updater.
 
 *Note 2*: Newer vendor packages include boot img, it'll overwrite existing boot img when you install it, so, you'll need to re-flash [Magisk](https://github.com/topjohnwu/magisk) and any custom kernel if you're using it.
 

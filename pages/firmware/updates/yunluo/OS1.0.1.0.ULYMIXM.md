@@ -14,7 +14,7 @@ permalink: /firmware/yunluo/stable/OS1.0.1.0.ULYMIXM/
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
-    Follow <a href="https://t.me/XiaomiFirmwareUpdater" class="alert-link">Xiaomi Firmware Updater</a> on Telegram to get
+    Follow <a href="https://t.me/XiaomiFirmwareUpdater" class="alert-link">XM Firmware Updater</a> on Telegram to get
     notified when a new firmware releases is out!
     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
         <span aria-hidden="true">&times;</span>

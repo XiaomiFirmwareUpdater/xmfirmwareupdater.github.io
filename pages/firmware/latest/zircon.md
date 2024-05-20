@@ -13,7 +13,7 @@ permalink: /firmware/zircon/
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
-    Follow Xiaomi Firmware Updater on <a href="https://t.me/XiaomiFirmwareUpdater" class="alert-link">Telegram</a>
+    Follow XM Firmware Updater on <a href="https://t.me/XiaomiFirmwareUpdater" class="alert-link">Telegram</a>
      or <a href="https://twitter.com/MiFwUpdater" class="alert-link">Twitter</a> to get notified when a new update is out!
     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
         <span aria-hidden="true">&times;</span>

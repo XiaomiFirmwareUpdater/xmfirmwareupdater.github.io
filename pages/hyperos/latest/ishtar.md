@@ -21,7 +21,7 @@ permalink: /hyperos/ishtar/
 </div>
 
 ### Latest HyperOS Official ROMs
-*Note*: All files listed here are official untouched HyperOS ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
+*Note*: All files listed here are official untouched HyperOS ROMs. It's not owned, modified or modded by XM Firmware Updater.
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>

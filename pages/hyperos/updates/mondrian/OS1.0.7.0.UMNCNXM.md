@@ -25,7 +25,7 @@ permalink: /hyperos/mondrian/stable beta/OS1.0.7.0.UMNCNXM/
     <h5>This page shows the OS1.0.7.0.UMNCNXM update only. If you're looking for other updates check
         <a href="/hyperos/mondrian/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
-        It's not owned, modified or edited by Xiaomi Firmware Updater.</p>
+        It's not owned, modified or edited by XM Firmware Updater.</p>
     <div class="card">
         <div class="card-body">
             <h5 class="card-title">Note</h5>

@@ -25,7 +25,7 @@ permalink: /hyperos/gold/stable/OS1.0.2.0.UNQEUXM/
     <h5>This page shows the OS1.0.2.0.UNQEUXM update only. If you're looking for other updates check
         <a href="/hyperos/gold/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
-        It's not owned, modified or edited by Xiaomi Firmware Updater.</p>
+        It's not owned, modified or edited by XM Firmware Updater.</p>
     <div class="card">
         <div class="card-body">
             <h5 class="card-title">Note</h5>

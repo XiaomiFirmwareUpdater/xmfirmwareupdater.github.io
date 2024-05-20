@@ -69,16 +69,6 @@
     android: '12.0'
     miui: V13.0.5.0.SMMCNXM
 - branch: stable
-  date: '2023-09-11'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rembrandt/releases/download/stable-11.09.2023/fw_rembrandt_miui_REMBRANDT_V14.0.4.0.TMMCNXM_7b6cdb8c0b_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/rembrandt/fw_rembrandt_miui_REMBRANDT_V14.0.4.0.TMMCNXM_7b6cdb8c0b_13.0.zip
-  filename: fw_rembrandt_miui_REMBRANDT_V14.0.4.0.TMMCNXM_7b6cdb8c0b_13.0.zip
-  region: China
-  versions:
-    android: '13.0'
-    miui: V14.0.4.0.TMMCNXM
-- branch: stable
   date: '2023-01-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rembrandt/releases/download/stable-04.01.2023/fw_rembrandt_miui_REMBRANDT_V13.0.3.0.SMMCNXM_3cb5d46769_12.0.zip

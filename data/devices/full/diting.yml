@@ -1,14 +1,4 @@
 - branch: stable
-  date: '2023-11-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-29.11.2023/fw_diting_miui_DITINGEEAGlobal_V14.0.18.0.TLFEUXM_a504c3d499_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/diting/fw_diting_miui_DITINGEEAGlobal_V14.0.18.0.TLFEUXM_a504c3d499_13.0.zip
-  filename: fw_diting_miui_DITINGEEAGlobal_V14.0.18.0.TLFEUXM_a504c3d499_13.0.zip
-  region: Europe
-  versions:
-    android: '13.0'
-    miui: V14.0.18.0.TLFEUXM
-- branch: stable
   date: '2024-04-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-28.04.2024/fw_diting_miui_DITINGEEAGlobal_OS1.0.4.0.ULFEUXM_c709f90148_14.0.zip
