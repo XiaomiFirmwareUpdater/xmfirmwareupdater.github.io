@@ -28,6 +28,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UKWEUXM/fw_agate_miui_AGATEEEAGlobal_OS1.0.2.0.UKWEUXM_adccc0e057_14.0.zip
   name: Xiaomi 11T
   version: OS1.0.2.0.UKWEUXM
+- android: '14.0'
+  codename: air
+  date: '2024-05-20'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UGQCNXM/fw_air_miui_AIR_OS1.0.1.0.UGQCNXM_6771b8fffc_14.0.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS1.0.1.0.UGQCNXM
 - android: '13.0'
   codename: alioth
   date: '2024-04-26'
@@ -312,6 +318,12 @@
   version: OS1.0.2.0.ULCMIXM
 - android: '14.0'
   codename: cupid
+  date: '2024-05-20'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULCMIXM/fw_cupid_miui_CUPIDGlobal_OS1.0.3.0.ULCMIXM_c0605b4a70_14.0.zip
+  name: Xiaomi 12
+  version: OS1.0.3.0.ULCMIXM
+- android: '14.0'
+  codename: cupid
   date: '2024-04-15'
   download: https://bigota.d.miui.com/OS1.0.7.0.ULCEUXM/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.7.0.ULCEUXM_5b2a5f6036_14.0.zip
   name: Xiaomi 12
@@ -526,6 +538,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UCVINXM/fw_earth_miui_EARTHINGlobal_OS1.0.2.0.UCVINXM_d3d972cf43_14.0.zip
   name: Redmi 12C/POCO C55
   version: OS1.0.2.0.UCVINXM
+- android: '14.0'
+  codename: earth
+  date: '2024-05-20'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UCVINXM/fw_earth_miui_EARTHINGlobal_OS1.0.4.0.UCVINXM_daadda12eb_14.0.zip
+  name: Redmi 12C/POCO C55
+  version: OS1.0.4.0.UCVINXM
 - android: '14.0'
   codename: earth
   date: '2024-03-18'
@@ -1156,6 +1174,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULSINXM/fw_light_miui_LIGHTINGlobal_OS1.0.3.0.ULSINXM_9e4a3c7a82_14.0.zip
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
   version: OS1.0.3.0.ULSINXM
+- android: '14.0'
+  codename: light
+  date: '2024-05-20'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULSINXM/fw_light_miui_LIGHTINGlobal_OS1.0.4.0.ULSINXM_6c629b38b5_14.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: OS1.0.4.0.ULSINXM
 - android: '14.0'
   codename: light
   date: '2024-04-18'
@@ -1830,6 +1854,12 @@
   version: OS1.0.1.0.ULUEUXM
 - android: '14.0'
   codename: rock
+  date: '2024-05-20'
+  download: https://bigota.d.miui.com/OS1.0.9.0.ULUMIXM/fw_rock_miui_ROCKGlobal_OS1.0.9.0.ULUMIXM_3bdf63edd0_14.0.zip
+  name: POCO M5/Redmi 11 Prime 4G
+  version: OS1.0.9.0.ULUMIXM
+- android: '14.0'
+  codename: rock
   date: '2024-03-19'
   download: https://bigota.d.miui.com/OS1.0.3.0.ULUMIXM/fw_rock_miui_ROCKGlobal_OS1.0.3.0.ULUMIXM_08fdeb658b_14.0.zip
   name: POCO M5/Redmi 11 Prime 4G
@@ -2242,6 +2272,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UKACNXM/fw_star_miui_STAR_OS1.0.2.0.UKACNXM_783d84531a_14.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: OS1.0.2.0.UKACNXM
+- android: '14.0'
+  codename: star
+  date: '2024-05-20'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UKAINXM/fw_star_miui_STARINGlobal_OS1.0.2.0.UKAINXM_2c501448a3_14.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: OS1.0.2.0.UKAINXM
 - android: '14.0'
   codename: sunstone
   date: '2024-02-29'

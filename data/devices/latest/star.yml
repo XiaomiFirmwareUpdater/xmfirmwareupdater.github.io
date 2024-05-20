@@ -39,12 +39,12 @@
     android: '13.0'
     miui: V14.0.7.0.TKAEUXM
 - branch: stable
-  date: '2023-08-11'
+  date: '2024-05-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-11.08.2023/fw_star_miui_STARINGlobal_V14.0.3.0.TKAINXM_b838d2b85f_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/star/fw_star_miui_STARINGlobal_V14.0.3.0.TKAINXM_b838d2b85f_13.0.zip
-  filename: fw_star_miui_STARINGlobal_V14.0.3.0.TKAINXM_b838d2b85f_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-20.05.2024/fw_star_miui_STARINGlobal_OS1.0.2.0.UKAINXM_2c501448a3_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/star/fw_star_miui_STARINGlobal_OS1.0.2.0.UKAINXM_2c501448a3_14.0.zip
+  filename: fw_star_miui_STARINGlobal_OS1.0.2.0.UKAINXM_2c501448a3_14.0.zip
   region: India
   versions:
-    android: '13.0'
-    miui: V14.0.3.0.TKAINXM
+    android: '14.0'
+    miui: OS1.0.2.0.UKAINXM

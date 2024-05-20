@@ -61,14 +61,17 @@ permalink: /hyperos/earth/
 <tr><td>Redmi 12C / POCO C55 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UCVMIXM</td><td>14.0</td><td>4.2 GB</td><td>2024-05-12</td><td><a href="/hyperos/earth/stable beta/OS1.0.4.0.UCVMIXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UCVIDXM</td><td>14.0</td><td>6.3 GB</td><td>2024-03-04</td><td><a href="/hyperos/earth/stable/OS1.0.1.0.UCVIDXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UCVIDXM</td><td>14.0</td><td>4.2 GB</td><td>2024-02-18</td><td><a href="/hyperos/earth/stable/OS1.0.1.0.UCVIDXM/">Download</a></td></tr>
+<tr><td>Redmi 12C / POCO C55 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UCVIDXM</td><td>14.0</td><td>4.2 GB</td><td>2024-05-16</td><td><a href="/hyperos/earth/stable beta/OS1.0.2.0.UCVIDXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UCVINXM</td><td>14.0</td><td>5.4 GB</td><td>2024-02-28</td><td><a href="/hyperos/earth/stable/OS1.0.3.0.UCVINXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 India</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UCVINXM</td><td>14.0</td><td>4.1 GB</td><td>2024-03-13</td><td><a href="/hyperos/earth/stable/OS1.0.3.0.UCVINXM/">Download</a></td></tr>
+<tr><td>Redmi 12C / POCO C55 India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UCVINXM</td><td>14.0</td><td>4.1 GB</td><td>2024-05-16</td><td><a href="/hyperos/earth/stable beta/OS1.0.4.0.UCVINXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UCVRUXM</td><td>14.0</td><td>6.3 GB</td><td>2024-02-07</td><td><a href="/hyperos/earth/stable/OS1.0.1.0.UCVRUXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UCVRUXM</td><td>14.0</td><td>4.2 GB</td><td>2024-02-23</td><td><a href="/hyperos/earth/stable/OS1.0.1.0.UCVRUXM/">Download</a></td></tr>
+<tr><td>Redmi 12C / POCO C55 Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UCVRUXM</td><td>14.0</td><td>4.2 GB</td><td>2024-05-16</td><td><a href="/hyperos/earth/stable beta/OS1.0.2.0.UCVRUXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UCVTRXM</td><td>14.0</td><td>5.8 GB</td><td>2024-02-07</td><td><a href="/hyperos/earth/stable/OS1.0.1.0.UCVTRXM/">Download</a></td></tr>
-<tr><td>Redmi 12C / POCO C55 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UCVTWXM</td><td>14.0</td><td>5.7 GB</td><td>2024-02-28</td><td><a href="/hyperos/earth/stable/OS1.0.1.0.UCVTWXM/">Download</a></td></tr>
-<tr><td>Redmi 12C / POCO C55 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UCVTWXM</td><td>14.0</td><td>4.2 GB</td><td>2024-02-18</td><td><a href="/hyperos/earth/stable/OS1.0.1.0.UCVTWXM/">Download</a></td></tr>
-<tr><td>Redmi 12C / POCO C55 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UCVTWXM</td><td>14.0</td><td>4.1 GB</td><td>2024-05-12</td><td><a href="/hyperos/earth/stable beta/OS1.0.2.0.UCVTWXM/">Download</a></td></tr>
+<tr><td>Redmi 12C / POCO C55 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UCVTRXM</td><td>14.0</td><td>4.2 GB</td><td>2024-05-16</td><td><a href="/hyperos/earth/stable beta/OS1.0.2.0.UCVTRXM/">Download</a></td></tr>
+<tr><td>Redmi 12C / POCO C55 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UCVTWXM</td><td>14.0</td><td>5.6 GB</td><td>2024-05-07</td><td><a href="/hyperos/earth/stable/OS1.0.2.0.UCVTWXM/">Download</a></td></tr>
+<tr><td>Redmi 12C / POCO C55 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UCVTWXM</td><td>14.0</td><td>4.1 GB</td><td>2024-05-12</td><td><a href="/hyperos/earth/stable/OS1.0.2.0.UCVTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
