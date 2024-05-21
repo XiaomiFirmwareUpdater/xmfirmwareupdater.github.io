@@ -594,6 +594,12 @@
   version: OS1.0.3.0.UCVEUXM
 - android: '13.0'
   codename: elish
+  date: '2024-05-21'
+  download: https://bigota.d.miui.com/OS1.0.2.0.TKYCNXM/fw_elish_miui_ELISH_OS1.0.2.0.TKYCNXM_da8102b61e_13.0.zip
+  name: Xiaomi Pad 5 Pro Wi-Fi
+  version: OS1.0.2.0.TKYCNXM
+- android: '13.0'
+  codename: elish
   date: '2024-03-05'
   download: https://bigota.d.miui.com/OS1.0.1.0.TKYCNXM/fw_elish_miui_ELISH_OS1.0.1.0.TKYCNXM_3bbd2d29c2_13.0.zip
   name: Xiaomi Pad 5 Pro Wi-Fi

@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 21 May 2024 07:07:31 </lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 13:01:04 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Pad 5 Pro Wi-Fi (elish) - OS1.0.2.0.TKYCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/elish/</link>
+            <pubDate>Tue, 21 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS1.0.5.0.ULLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
@@ -1109,11 +1114,6 @@
         <item>
             <title>Xiaomi 12 (cupid) - OS1.0.5.0.ULCCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/cupid/</link>
-            <pubDate>Tue, 05 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 5 Pro Wi-Fi (elish) - OS1.0.1.0.TKYCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/elish/</link>
             <pubDate>Tue, 05 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
