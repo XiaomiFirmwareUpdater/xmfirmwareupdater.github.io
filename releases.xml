@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 21 May 2024 01:51:08 </lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 07:07:31 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS1.0.5.0.ULLEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
+            <pubDate>Tue, 21 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS1.0.1.0.UGQCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
@@ -929,11 +934,6 @@
         <item>
             <title>Redmi Pad (yunluo) - OS1.0.2.0.ULYMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/yunluo/</link>
-            <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS1.0.4.0.ULLEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
