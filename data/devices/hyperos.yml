@@ -996,6 +996,12 @@
   version: OS1.0.14.0.UNCEUXM
 - android: '14.0'
   codename: houji
+  date: '2024-05-22'
+  download: https://bigota.d.miui.com/OS1.0.38.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.38.0.UNCCNXM_89a9ce40ec_14.0.zip
+  name: Xiaomi 14
+  version: OS1.0.38.0.UNCCNXM
+- android: '14.0'
+  codename: houji
   date: '2024-04-17'
   download: https://bigota.d.miui.com/OS1.0.36.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.36.0.UNCCNXM_54ab2de231_14.0.zip
   name: Xiaomi 14
