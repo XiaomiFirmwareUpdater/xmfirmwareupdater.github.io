@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 22 May 2024 13:38:34 </lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 21:16:21 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 12 Lite (taoyao) - OS1.0.7.0.ULIEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taoyao/</link>
+            <pubDate>Wed, 22 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70/POCO F6 Pro (vermeer) - OS1.0.3.0.UNKMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
+            <pubDate>Wed, 22 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70/POCO F6 Pro (vermeer) - OS1.0.2.0.UNKEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Wed, 22 May 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -325,11 +335,6 @@
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS1.0.4.0.UNOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Thu, 09 May 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70/POCO F6 Pro (vermeer) - OS1.0.2.0.UNKMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
-            <pubDate>Wed, 08 May 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 11T (agate) - OS1.0.3.0.UKWEUXM</title>
