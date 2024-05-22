@@ -3,7 +3,7 @@ title: Redmi 13C / POCO C65 Russia HyperOS OS1.0.3.0.UGPRUXM Update
 layout: download
 name: Redmi 13C / POCO C65 Russia
 codename: gale
-permalink: /hyperos/gale/stable beta/OS1.0.3.0.UGPRUXM/
+permalink: /hyperos/gale/stable/OS1.0.3.0.UGPRUXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/gale/stable beta/OS1.0.3.0.UGPRUXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.3.0.UGPRUXM Stable Beta Official Update for Redmi 13C / POCO C65 Russia (gale)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.3.0.UGPRUXM Stable Official Update for Redmi 13C / POCO C65 Russia (gale)</h3>
     <h5>This page shows the OS1.0.3.0.UGPRUXM update only. If you're looking for other updates check
         <a href="/hyperos/gale/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/gale/stable beta/OS1.0.3.0.UGPRUXM/
                     <h5><b>Version: </b>OS1.0.3.0.UGPRUXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/gale/stable beta/OS1.0.3.0.UGPRUXM/
                             aria-expanded="false" aria-controls="gale_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="gale_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated Android Security Patch to March 2024. Increased system security.<br>Updated the security patch to April 2024. Increased system security.<br>[Vibrant aesthetics]<br>Global aesthetics draw inspiration from life itself and change the way your device looks and feels<br>New animation language makes interactions with your device wholesome and intuitive<br>Natural colors bring vibrancy and vitality to every corner of your device<br>Our all-new system font supports multiple writing systems<br>Redesigned Weather app not only gives you important information, but also shows you how it feels outside<br>Notifications are focused on important information, presenting it to you in the most efficient way</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi 13C / POCO C65 Russia</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/gale/" target="_blank">gale</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.3.0.UGPRUXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>6.7 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-04-22</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">gale_ru_global_images_OS1.0.3.0.UGPRUXM_20240422.0000.00_14.0_ru_6b5caecc50.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6b5caecc504c27d5f1ad162f3cdc95f2</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.3.0.UGPRUXM/gale_ru_global_images_OS1.0.3.0.UGPRUXM_20240422.0000.00_14.0_ru_6b5caecc50.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.3.0.UGPRUXM/gale_ru_global_images_OS1.0.3.0.UGPRUXM_20240422.0000.00_14.0_ru_6b5caecc50.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.3.0.UGPRUXM/gale_ru_global_images_OS1.0.3.0.UGPRUXM_20240422.0000.00_14.0_ru_6b5caecc50.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.UGPRUXM/gale_ru_global_images_OS1.0.3.0.UGPRUXM_20240422.0000.00_14.0_ru_6b5caecc50.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.3.0.UGPRUXM/gale_ru_global_images_OS1.0.3.0.UGPRUXM_20240422.0000.00_14.0_ru_6b5caecc50.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#gale_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="gale_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="gale_2_changelog">
                         <p id="changelog_text">[System]<br>Updated Android Security Patch to March 2024. Increased system security.<br>Updated the security patch to April 2024. Increased system security.<br>[Vibrant aesthetics]<br>Global aesthetics draw inspiration from life itself and change the way your device looks and feels<br>New animation language makes interactions with your device wholesome and intuitive<br>Natural colors bring vibrancy and vitality to every corner of your device<br>Our all-new system font supports multiple writing systems<br>Redesigned Weather app not only gives you important information, but also shows you how it feels outside<br>Notifications are focused on important information, presenting it to you in the most efficient way</p>
                     </div>
                 </li>

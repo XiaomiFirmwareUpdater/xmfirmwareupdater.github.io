@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 22 May 2024 06:41:53 </lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 13:38:34 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 12 Lite (taoyao) - OS1.0.7.0.ULIEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/taoyao/</link>
+            <pubDate>Wed, 22 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi Pad 5 Pro Wi-Fi (elish) - OS1.0.2.0.TKYCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/elish/</link>
@@ -968,11 +973,6 @@
         </item>
         <item>
             <title>Xiaomi 12 Lite (taoyao) - OS1.0.4.0.ULIMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/taoyao/</link>
-            <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Lite (taoyao) - OS1.0.5.0.ULIEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taoyao/</link>
             <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
         </item>
