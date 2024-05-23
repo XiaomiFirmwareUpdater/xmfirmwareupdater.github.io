@@ -52,7 +52,8 @@ permalink: /archive/hyperos/star/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 11 Ultra India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UKAINXM</td><td>14.0</td><td>5.2 GB</td><td>2024-05-16</td><td><a href="/hyperos/star/stable beta/OS1.0.2.0.UKAINXM/">Download</a></td></tr>
+                <tr><td>Mi 11 Ultra EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UKAEUXM</td><td>14.0</td><td>5.2 GB</td><td>2024-05-20</td><td><a href="/hyperos/star/stable beta/OS1.0.1.0.UKAEUXM/">Download</a></td></tr>
+<tr><td>Mi 11 Ultra India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UKAINXM</td><td>14.0</td><td>5.2 GB</td><td>2024-05-16</td><td><a href="/hyperos/star/stable beta/OS1.0.2.0.UKAINXM/">Download</a></td></tr>
 <tr><td>Mi 11 Pro / Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UKACNXM</td><td>14.0</td><td>5.7 GB</td><td>2024-04-15</td><td><a href="/hyperos/star/stable/OS1.0.2.0.UKACNXM/">Download</a></td></tr>
 <tr><td>Mi 11 Pro / Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UKACNXM</td><td>14.0</td><td>7.1 GB</td><td>2024-04-10</td><td><a href="/hyperos/star/stable/OS1.0.2.0.UKACNXM/">Download</a></td></tr>
 

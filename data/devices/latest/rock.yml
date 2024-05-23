@@ -19,12 +19,12 @@
     android: '14.0'
     miui: OS1.0.2.0.ULUEUXM
 - branch: stable
-  date: '2024-04-16'
+  date: '2024-05-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rock/releases/download/stable-16.04.2024/fw_rock_miui_ROCKINGlobal_OS1.0.5.0.ULUINXM_d5eef16344_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rock/fw_rock_miui_ROCKINGlobal_OS1.0.5.0.ULUINXM_d5eef16344_14.0.zip
-  filename: fw_rock_miui_ROCKINGlobal_OS1.0.5.0.ULUINXM_d5eef16344_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rock/releases/download/stable-23.05.2024/fw_rock_miui_ROCKINGlobal_OS1.0.6.0.ULUINXM_e34f9e84c1_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rock/fw_rock_miui_ROCKINGlobal_OS1.0.6.0.ULUINXM_e34f9e84c1_14.0.zip
+  filename: fw_rock_miui_ROCKINGlobal_OS1.0.6.0.ULUINXM_e34f9e84c1_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.ULUINXM
+    miui: OS1.0.6.0.ULUINXM

@@ -1679,6 +1679,30 @@
   name: Redmi Note 12T Pro
   version: OS1.0.2.0.ULHCNXM
 - android: '14.0'
+  codename: peridot
+  date: '2024-05-23'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UNPEUXM/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.1.0.UNPEUXM_19970ce1a9_14.0.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS1.0.1.0.UNPEUXM
+- android: '14.0'
+  codename: peridot
+  date: '2024-05-23'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UNPMIXM/fw_peridot_miui_PERIDOTGlobal_OS1.0.3.0.UNPMIXM_526df1d0da_14.0.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS1.0.3.0.UNPMIXM
+- android: '14.0'
+  codename: peridot
+  date: '2024-05-23'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UNPINXM/fw_peridot_miui_PERIDOTINGlobal_OS1.0.2.0.UNPINXM_b94b61097d_14.0.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS1.0.2.0.UNPINXM
+- android: '14.0'
+  codename: peridot
+  date: '2024-05-23'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UNPCNXM/fw_peridot_miui_PERIDOT_OS1.0.13.0.UNPCNXM_713afcfba9_14.0.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS1.0.13.0.UNPCNXM
+- android: '14.0'
   codename: pipa
   date: '2024-01-30'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.4.0.UMZCNXM_45e70ba86c_14.0.zip
@@ -1842,6 +1866,12 @@
   version: OS1.0.4.0.UMSCNXM
 - android: '14.0'
   codename: redwood
+  date: '2024-05-23'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMSEUXM/fw_redwood_miui_REDWOODEEAGlobal_OS1.0.4.0.UMSEUXM_d28b89a3e4_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.4.0.UMSEUXM
+- android: '14.0'
+  codename: redwood
   date: '2024-04-22'
   download: https://bigota.d.miui.com/OS1.0.6.0.UMSCNXM/fw_redwood_miui_REDWOOD_OS1.0.6.0.UMSCNXM_f7ddaf58a6_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
@@ -1900,6 +1930,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.ULUEUXM/fw_rock_miui_ROCKEEAGlobal_OS1.0.1.0.ULUEUXM_319d8dd16f_14.0.zip
   name: POCO M5/Redmi 11 Prime 4G
   version: OS1.0.1.0.ULUEUXM
+- android: '14.0'
+  codename: rock
+  date: '2024-05-23'
+  download: https://bigota.d.miui.com/OS1.0.6.0.ULUINXM/fw_rock_miui_ROCKINGlobal_OS1.0.6.0.ULUINXM_e34f9e84c1_14.0.zip
+  name: POCO M5/Redmi 11 Prime 4G
+  version: OS1.0.6.0.ULUINXM
 - android: '14.0'
   codename: rock
   date: '2024-05-20'
@@ -2314,6 +2350,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.TGKMIXM/fw_spesn_miui_SPESNGlobal_OS1.0.3.0.TGKMIXM_21b3b58697_13.0.zip
   name: Redmi Note 11 NFC
   version: OS1.0.3.0.TGKMIXM
+- android: '14.0'
+  codename: star
+  date: '2024-05-23'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UKAEUXM/fw_star_miui_STAREEAGlobal_OS1.0.1.0.UKAEUXM_edb36244a2_14.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: OS1.0.1.0.UKAEUXM
 - android: '14.0'
   codename: star
   date: '2024-04-22'

@@ -52,7 +52,8 @@ permalink: /archive/hyperos/alioth/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F3 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.TKHIDXM</td><td>13.0</td><td>4.0 GB</td><td>2024-05-10</td><td><a href="/hyperos/alioth/stable beta/OS1.0.1.0.TKHIDXM/">Download</a></td></tr>
+                <tr><td>POCO F3 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.TKHTWXM</td><td>13.0</td><td>3.9 GB</td><td>2024-05-20</td><td><a href="/hyperos/alioth/stable beta/OS1.0.1.0.TKHTWXM/">Download</a></td></tr>
+<tr><td>POCO F3 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.TKHIDXM</td><td>13.0</td><td>4.0 GB</td><td>2024-05-10</td><td><a href="/hyperos/alioth/stable beta/OS1.0.1.0.TKHIDXM/">Download</a></td></tr>
 <tr><td>Mi 11X India</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TKHINXM</td><td>13.0</td><td>4.0 GB</td><td>2024-05-10</td><td><a href="/hyperos/alioth/stable/OS1.0.1.0.TKHINXM/">Download</a></td></tr>
 <tr><td>Mi 11X India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.TKHINXM</td><td>13.0</td><td>4.9 GB</td><td>2024-03-13</td><td><a href="/hyperos/alioth/stable/OS1.0.1.0.TKHINXM/">Download</a></td></tr>
 <tr><td>POCO F3 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TKHEUXM</td><td>13.0</td><td>4.0 GB</td><td>2024-04-22</td><td><a href="/hyperos/alioth/stable/OS1.0.1.0.TKHEUXM/">Download</a></td></tr>
