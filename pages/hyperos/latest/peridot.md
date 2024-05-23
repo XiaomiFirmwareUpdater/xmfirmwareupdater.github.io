@@ -61,6 +61,8 @@ permalink: /hyperos/peridot/
 <tr><td>POCO F6 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNPMIXM</td><td>14.0</td><td>5.5 GB</td><td>2024-05-23</td><td><a href="/hyperos/peridot/stable/OS1.0.3.0.UNPMIXM/">Download</a></td></tr>
 <tr><td>POCO F6 India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UNPINXM</td><td>14.0</td><td>6.9 GB</td><td>2024-04-23</td><td><a href="/hyperos/peridot/stable/OS1.0.2.0.UNPINXM/">Download</a></td></tr>
 <tr><td>POCO F6 India</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UNPINXM</td><td>14.0</td><td>5.4 GB</td><td>2024-05-23</td><td><a href="/hyperos/peridot/stable/OS1.0.2.0.UNPINXM/">Download</a></td></tr>
+<tr><td>POCO F6 Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UNPRUXM</td><td>14.0</td><td>8.1 GB</td><td>2024-04-26</td><td><a href="/hyperos/peridot/stable/OS1.0.2.0.UNPRUXM/">Download</a></td></tr>
+<tr><td>POCO F6 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UNPRUXM</td><td>14.0</td><td>5.5 GB</td><td>2024-05-23</td><td><a href="/hyperos/peridot/stable/OS1.0.2.0.UNPRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
