@@ -99,6 +99,16 @@
     android: '13.0'
     miui: V14.0.2.0.TLMEUXM
 - branch: stable
+  date: '2024-05-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-23.05.2024/fw_munch_miui_MUNCHINGlobal_OS1.0.1.0.ULMINXM_a5538f82a5_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/munch/fw_munch_miui_MUNCHINGlobal_OS1.0.1.0.ULMINXM_a5538f82a5_14.0.zip
+  filename: fw_munch_miui_MUNCHINGlobal_OS1.0.1.0.ULMINXM_a5538f82a5_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.1.0.ULMINXM
+- branch: stable
   date: '2024-02-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-23.02.2024/fw_munch_miui_MUNCHGlobal_V14.0.6.0.TLMMIXM_60b6629f69_13.0.zip

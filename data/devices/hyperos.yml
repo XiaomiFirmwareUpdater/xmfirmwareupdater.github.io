@@ -240,6 +240,12 @@
   version: OS1.0.3.0.UMLMIXM
 - android: '14.0'
   codename: corot
+  date: '2024-05-23'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UMLCNXM/fw_corot_miui_COROT_OS1.0.13.0.UMLCNXM_a1699d77ea_14.0.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS1.0.13.0.UMLCNXM
+- android: '14.0'
+  codename: corot
   date: '2024-04-22'
   download: https://bigota.d.miui.com/OS1.0.12.0.UMLCNXM/fw_corot_miui_COROT_OS1.0.12.0.UMLCNXM_3f33752523_14.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
@@ -1524,6 +1530,12 @@
   version: OS1.0.1.0.UMPEUXM
 - android: '14.0'
   codename: munch
+  date: '2024-05-23'
+  download: https://bigota.d.miui.com/OS1.0.1.0.ULMINXM/fw_munch_miui_MUNCHINGlobal_OS1.0.1.0.ULMINXM_a5538f82a5_14.0.zip
+  name: Redmi K40S/POCO F4
+  version: OS1.0.1.0.ULMINXM
+- android: '14.0'
+  codename: munch
   date: '2024-04-19'
   download: https://bigota.d.miui.com/OS1.0.1.0.ULMCNXM/fw_munch_miui_MUNCH_OS1.0.1.0.ULMCNXM_f022829508_14.0.zip
   name: Redmi K40S/POCO F4
@@ -2536,6 +2548,12 @@
   download: https://bigota.d.miui.com/OS1.0.15.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.15.0.UNKCNXM_2100d3fc37_14.0.zip
   name: Redmi K70/POCO F6 Pro
   version: OS1.0.15.0.UNKCNXM
+- android: '14.0'
+  codename: vermeer
+  date: '2024-05-23'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UNKEUXM/fw_vermeer_miui_VERMEEREEAGlobal_OS1.0.3.0.UNKEUXM_57d540be78_14.0.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS1.0.3.0.UNKEUXM
 - android: '14.0'
   codename: vermeer
   date: '2024-05-22'

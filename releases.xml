@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 23 May 2024 06:42:06 </lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 14:21:23 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS1.0.13.0.UMLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/corot/</link>
+            <pubDate>Thu, 23 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K40S/POCO F4 (munch) - OS1.0.1.0.ULMINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/munch/</link>
+            <pubDate>Thu, 23 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70/POCO F6 Pro (vermeer) - OS1.0.3.0.UNKEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
+            <pubDate>Thu, 23 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 14 (houji) - OS1.0.38.0.UNCCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/houji/</link>
@@ -18,11 +33,6 @@
         </item>
         <item>
             <title>Redmi K70/POCO F6 Pro (vermeer) - OS1.0.3.0.UNKMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
-            <pubDate>Wed, 22 May 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70/POCO F6 Pro (vermeer) - OS1.0.2.0.UNKEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Wed, 22 May 2024 00:00:00 </pubDate>
         </item>
@@ -517,11 +527,6 @@
             <pubDate>Mon, 22 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS1.0.12.0.UMLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Mon, 22 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13 (fuxi) - OS1.0.4.0.UMCMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
             <pubDate>Mon, 22 Apr 2024 00:00:00 </pubDate>
@@ -760,11 +765,6 @@
             <title>Xiaomi 12S Pro (unicorn) - OS1.0.4.0.ULECNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/unicorn/</link>
             <pubDate>Thu, 11 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40S/POCO F4 (munch) - V14.0.10.0.TLMINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/munch/</link>
-            <pubDate>Wed, 10 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi Pad 5 (nabu) - OS1.0.1.0.TKXEUXM</title>
