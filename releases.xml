@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 24 May 2024 00:42:41 </lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 07:32:04 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 12T (plato) - OS1.0.9.0.ULQMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/plato/</link>
+            <pubDate>Fri, 24 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS1.0.13.0.UMLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/corot/</link>
@@ -939,11 +944,6 @@
         <item>
             <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - OS1.0.2.0.TKTEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pissarro/</link>
-            <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12T (plato) - OS1.0.8.0.ULQMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/plato/</link>
             <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
