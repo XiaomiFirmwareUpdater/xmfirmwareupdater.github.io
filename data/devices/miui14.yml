@@ -1578,6 +1578,12 @@
   version: V14.0.5.0.TNQINXM
 - android: '13.0'
   codename: gold
+  date: '2024-05-24'
+  download: https://bigota.d.miui.com/V14.0.11.0.TNQCNXM/fw_gold_miui_GOLD_V14.0.11.0.TNQCNXM_9dfa954be7_13.0.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: V14.0.11.0.TNQCNXM
+- android: '13.0'
+  codename: gold
   date: '2023-09-22'
   download: https://bigota.d.miui.com/V14.0.1.0.TNQCNXM/fw_gold_miui_GOLD_V14.0.1.0.TNQCNXM_0a344a58dc_13.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
