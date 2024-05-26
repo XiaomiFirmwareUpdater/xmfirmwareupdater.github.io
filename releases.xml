@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 26 May 2024 12:44:04 </lastBuildDate>
+        <lastBuildDate>Sun, 26 May 2024 18:55:17 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 NFC (sapphiren) - OS1.0.3.0.UNHMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
+            <pubDate>Sun, 26 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - V14.0.11.0.TNQCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gold/</link>
@@ -854,11 +859,6 @@
         <item>
             <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - OS1.0.2.0.TKTINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pissarro/</link>
-            <pubDate>Mon, 08 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 NFC (sapphiren) - OS1.0.2.0.UNHMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
             <pubDate>Mon, 08 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>

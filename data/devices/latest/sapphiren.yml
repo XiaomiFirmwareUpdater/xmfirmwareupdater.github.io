@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-04-08'
+  date: '2024-05-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphiren/releases/download/stable-08.04.2024/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.2.0.UNHMIXM_5c2104f430_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sapphiren/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.2.0.UNHMIXM_5c2104f430_14.0.zip
-  filename: fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.2.0.UNHMIXM_5c2104f430_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphiren/releases/download/stable-26.05.2024/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.3.0.UNHMIXM_00fbd10cb9_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sapphiren/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.3.0.UNHMIXM_00fbd10cb9_14.0.zip
+  filename: fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.3.0.UNHMIXM_00fbd10cb9_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.2.0.UNHMIXM
+    miui: OS1.0.3.0.UNHMIXM
 - branch: stable
   date: '2024-04-16'
   downloads:
