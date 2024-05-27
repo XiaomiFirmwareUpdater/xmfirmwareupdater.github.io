@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 27 May 2024 00:43:20 </lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 08:31:28 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS1.0.7.0.UNAMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Mon, 27 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 (houji) - OS1.0.20.0.UNCEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Mon, 27 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS1.0.5.0.ULLMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
+            <pubDate>Mon, 27 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 NFC (sapphiren) - OS1.0.3.0.UNHMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
@@ -532,11 +547,6 @@
             <pubDate>Fri, 26 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS1.0.5.0.UNAMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Fri, 26 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 4G NFC (topaz) - OS1.0.9.0.UMGEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/topaz/</link>
             <pubDate>Fri, 26 Apr 2024 00:00:00 </pubDate>
@@ -732,11 +742,6 @@
             <pubDate>Tue, 16 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 14 (houji) - OS1.0.16.0.UNCEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/houji/</link>
-            <pubDate>Tue, 16 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13 Pro (nuwa) - OS1.0.5.0.UMBEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Tue, 16 Apr 2024 00:00:00 </pubDate>
@@ -819,11 +824,6 @@
         <item>
             <title>Xiaomi Pad 5 (nabu) - OS1.0.4.0.TKXINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nabu/</link>
-            <pubDate>Wed, 10 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS1.0.4.0.ULLMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Wed, 10 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>

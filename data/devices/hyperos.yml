@@ -138,6 +138,12 @@
   version: OS1.0.3.0.UNAMIXM
 - android: '14.0'
   codename: aurora
+  date: '2024-05-27'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UNAMIXM/fw_aurora_miui_AURORAGlobal_OS1.0.7.0.UNAMIXM_a3cc033362_14.0.zip
+  name: Xiaomi 14 Ultra
+  version: OS1.0.7.0.UNAMIXM
+- android: '14.0'
+  codename: aurora
   date: '2024-02-27'
   download: https://bigota.d.miui.com/OS1.0.3.0.UNACNXM/fw_aurora_miui_AURORA_OS1.0.3.0.UNACNXM_1c74075993_14.0.zip
   name: Xiaomi 14 Ultra
@@ -982,6 +988,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UNCINXM/fw_houji_miui_HOUJIINGlobal_OS1.0.2.0.UNCINXM_a054e6ddb8_14.0.zip
   name: Xiaomi 14
   version: OS1.0.2.0.UNCINXM
+- android: '14.0'
+  codename: houji
+  date: '2024-05-27'
+  download: https://bigota.d.miui.com/OS1.0.20.0.UNCEUXM/fw_houji_miui_HOUJIEEAGlobal_OS1.0.20.0.UNCEUXM_4916378ca5_14.0.zip
+  name: Xiaomi 14
+  version: OS1.0.20.0.UNCEUXM
 - android: '14.0'
   codename: houji
   date: '2024-01-27'
@@ -2968,6 +2980,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNOINXM/fw_zircon_miui_ZIRCONINGlobal_OS1.0.4.0.UNOINXM_a7be268d67_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.4.0.UNOINXM
+- android: '14.0'
+  codename: ziyi
+  date: '2024-05-27'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULLMIXM/fw_ziyi_miui_ZIYIGlobal_OS1.0.5.0.ULLMIXM_7bb6ccfff4_14.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS1.0.5.0.ULLMIXM
 - android: '14.0'
   codename: ziyi
   date: '2024-02-26'

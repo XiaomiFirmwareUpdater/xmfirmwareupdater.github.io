@@ -54,6 +54,7 @@ permalink: /hyperos/rock/
                 <tbody>
                 <tr><td>POCO M5 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULUEUXM</td><td>14.0</td><td>6.1 GB</td><td>2024-03-15</td><td><a href="/hyperos/rock/stable/OS1.0.2.0.ULUEUXM/">Download</a></td></tr>
 <tr><td>POCO M5 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULUEUXM</td><td>14.0</td><td>4.0 GB</td><td>2024-03-26</td><td><a href="/hyperos/rock/stable/OS1.0.2.0.ULUEUXM/">Download</a></td></tr>
+<tr><td>POCO M5 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.ULUEUXM</td><td>14.0</td><td>4.0 GB</td><td>2024-05-20</td><td><a href="/hyperos/rock/stable beta/OS1.0.3.0.ULUEUXM/">Download</a></td></tr>
 <tr><td>POCO M5 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.ULUMIXM</td><td>14.0</td><td>6.5 GB</td><td>2024-03-22</td><td><a href="/hyperos/rock/stable/OS1.0.7.0.ULUMIXM/">Download</a></td></tr>
 <tr><td>POCO M5 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.ULUMIXM</td><td>14.0</td><td>4.0 GB</td><td>2024-03-22</td><td><a href="/hyperos/rock/stable/OS1.0.7.0.ULUMIXM/">Download</a></td></tr>
 <tr><td>POCO M5 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.9.0.ULUMIXM</td><td>14.0</td><td>4.0 GB</td><td>2024-05-13</td><td><a href="/hyperos/rock/stable beta/OS1.0.9.0.ULUMIXM/">Download</a></td></tr>
@@ -64,9 +65,8 @@ permalink: /hyperos/rock/
 <tr><td>POCO M5 / Redmi 11 Prime 4G India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.ULUINXM</td><td>14.0</td><td>3.9 GB</td><td>2024-05-20</td><td><a href="/hyperos/rock/stable beta/OS1.0.6.0.ULUINXM/">Download</a></td></tr>
 <tr><td>POCO M5 Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.ULURUXM</td><td>14.0</td><td>6.1 GB</td><td>2024-04-09</td><td><a href="/hyperos/rock/stable/OS1.0.3.0.ULURUXM/">Download</a></td></tr>
 <tr><td>POCO M5 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.ULURUXM</td><td>14.0</td><td>4.0 GB</td><td>2024-04-23</td><td><a href="/hyperos/rock/stable/OS1.0.3.0.ULURUXM/">Download</a></td></tr>
-<tr><td>POCO M5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.ULUTWXM</td><td>14.0</td><td>5.5 GB</td><td>2024-02-28</td><td><a href="/hyperos/rock/stable/OS1.0.1.0.ULUTWXM/">Download</a></td></tr>
-<tr><td>POCO M5 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.ULUTWXM</td><td>14.0</td><td>3.9 GB</td><td>2024-02-18</td><td><a href="/hyperos/rock/stable/OS1.0.1.0.ULUTWXM/">Download</a></td></tr>
-<tr><td>POCO M5 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.ULUTWXM</td><td>14.0</td><td>3.9 GB</td><td>2024-05-14</td><td><a href="/hyperos/rock/stable beta/OS1.0.4.0.ULUTWXM/">Download</a></td></tr>
+<tr><td>POCO M5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.ULUTWXM</td><td>14.0</td><td>5.5 GB</td><td>2024-04-29</td><td><a href="/hyperos/rock/stable/OS1.0.4.0.ULUTWXM/">Download</a></td></tr>
+<tr><td>POCO M5 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.ULUTWXM</td><td>14.0</td><td>3.9 GB</td><td>2024-05-14</td><td><a href="/hyperos/rock/stable/OS1.0.4.0.ULUTWXM/">Download</a></td></tr>
 <tr><td>POCO M5 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.ULUTRXM</td><td>14.0</td><td>4.0 GB</td><td>2024-02-18</td><td><a href="/hyperos/rock/stable beta/OS1.0.1.0.ULUTRXM/">Download</a></td></tr>
 
                 </tbody>
