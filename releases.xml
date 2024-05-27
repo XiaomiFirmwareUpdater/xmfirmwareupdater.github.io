@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 27 May 2024 15:44:53 </lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 18:54:00 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS1.0.7.0.UNAMIXM</title>
@@ -29,6 +29,11 @@
         <item>
             <title>Xiaomi 13 Pro (nuwa) - OS1.0.4.0.UMBINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Mon, 27 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS1.0.4.0.UMSMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
             <pubDate>Mon, 27 May 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -964,11 +969,6 @@
         <item>
             <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - OS1.0.2.0.TKTEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pissarro/</link>
-            <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS1.0.3.0.UMSMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
             <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>

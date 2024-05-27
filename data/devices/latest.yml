@@ -4149,15 +4149,15 @@
     android: '11.0'
     miui: V12.5.1.0.RFKINXM
 - branch: stable
-  date: '2024-04-01'
+  date: '2024-05-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-01.04.2024/fw_redwood_miui_REDWOODGlobal_OS1.0.3.0.UMSMIXM_5c10a339d0_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/redwood/fw_redwood_miui_REDWOODGlobal_OS1.0.3.0.UMSMIXM_5c10a339d0_14.0.zip
-  filename: fw_redwood_miui_REDWOODGlobal_OS1.0.3.0.UMSMIXM_5c10a339d0_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-27.05.2024/fw_redwood_miui_REDWOODGlobal_OS1.0.4.0.UMSMIXM_53cb65de24_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/redwood/fw_redwood_miui_REDWOODGlobal_OS1.0.4.0.UMSMIXM_53cb65de24_14.0.zip
+  filename: fw_redwood_miui_REDWOODGlobal_OS1.0.4.0.UMSMIXM_53cb65de24_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.3.0.UMSMIXM
+    miui: OS1.0.4.0.UMSMIXM
 - branch: stable
   date: '2024-04-22'
   downloads:
