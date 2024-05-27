@@ -456,6 +456,12 @@
   version: OS1.0.10.0.UNLCNXM
 - android: '14.0'
   codename: duchamp
+  date: '2024-05-27'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UNLMIXM/fw_duchamp_miui_DUCHAMPGlobal_OS1.0.9.0.UNLMIXM_c736336dab_14.0.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS1.0.9.0.UNLMIXM
+- android: '14.0'
+  codename: duchamp
   date: '2024-02-20'
   download: https://bigota.d.miui.com/OS1.0.5.0.UNLINXM/fw_duchamp_miui_DUCHAMPINGlobal_OS1.0.5.0.UNLINXM_688b2fd297_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
@@ -880,6 +886,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UNRMIXM/fw_garnet_miui_GARNETGlobal_OS1.0.6.0.UNRMIXM_047bdb5ebf_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS1.0.6.0.UNRMIXM
+- android: '14.0'
+  codename: gold
+  date: '2024-05-27'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UNQINXM/fw_gold_miui_GOLDINGlobal_OS1.0.6.0.UNQINXM_01f5dddab5_14.0.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS1.0.6.0.UNQINXM
 - android: '14.0'
   codename: gold
   date: '2024-04-26'
@@ -1596,6 +1608,12 @@
   version: OS1.0.6.0.UMBCNXM
 - android: '14.0'
   codename: nuwa
+  date: '2024-05-27'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMBINXM/fw_nuwa_miui_NUWAINGlobal_OS1.0.4.0.UMBINXM_f305370c9b_14.0.zip
+  name: Xiaomi 13 Pro
+  version: OS1.0.4.0.UMBINXM
+- android: '14.0'
+  codename: nuwa
   date: '2024-02-26'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMBINXM/fw_nuwa_miui_NUWAINGlobal_OS1.0.2.0.UMBINXM_5c46af18a0_14.0.zip
   name: Xiaomi 13 Pro
@@ -1942,6 +1960,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UMMCNXM/fw_rembrandt_miui_REMBRANDT_OS1.0.1.0.UMMCNXM_72da128d65_14.0.zip
   name: Redmi K60E
   version: OS1.0.1.0.UMMCNXM
+- android: '14.0'
+  codename: rock
+  date: '2024-05-27'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULUEUXM/fw_rock_miui_ROCKEEAGlobal_OS1.0.3.0.ULUEUXM_5d511370e9_14.0.zip
+  name: POCO M5/Redmi 11 Prime 4G
+  version: OS1.0.3.0.ULUEUXM
 - android: '14.0'
   codename: rock
   date: '2024-01-25'
@@ -2460,6 +2484,12 @@
   version: OS1.0.4.0.ULIMIXM
 - android: '14.0'
   codename: taoyao
+  date: '2024-05-27'
+  download: https://bigota.d.miui.com/OS1.0.6.0.ULIMIXM/fw_taoyao_miui_TAOYAOGlobal_OS1.0.6.0.ULIMIXM_6c00d98a98_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.6.0.ULIMIXM
+- android: '14.0'
+  codename: taoyao
   date: '2024-01-27'
   download: https://bigota.d.miui.com/OS1.0.2.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.2.0.ULIEUXM_bc84777c39_14.0.zip
   name: Xiaomi 12 Lite
@@ -2740,6 +2770,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.TGDMIXM/fw_viva_miui_VIVAGlobal_OS1.0.3.0.TGDMIXM_6f1ff58bc0_13.0.zip
   name: Redmi Note 11 Pro 4G
   version: OS1.0.3.0.TGDMIXM
+- android: '14.0'
+  codename: xaga
+  date: '2024-05-27'
+  download: https://bigota.d.miui.com/OS1.0.1.0.ULOINXM/fw_xaga_miui_XAGAINGlobal_OS1.0.1.0.ULOINXM_fb3b9fb999_14.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS1.0.1.0.ULOINXM
 - android: '14.0'
   codename: xaga
   date: '2024-05-21'

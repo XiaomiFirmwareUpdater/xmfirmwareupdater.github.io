@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 27 May 2024 08:31:28 </lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 15:44:53 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS1.0.7.0.UNAMIXM</title>
@@ -12,8 +12,38 @@
             <pubDate>Mon, 27 May 2024 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.9.0.UNLMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Mon, 27 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS1.0.6.0.UNQINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/gold/</link>
+            <pubDate>Mon, 27 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Xiaomi 14 (houji) - OS1.0.20.0.UNCEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Mon, 27 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - OS1.0.4.0.UMBINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Mon, 27 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>POCO M5/Redmi 11 Prime 4G (rock) - OS1.0.3.0.ULUEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rock/</link>
+            <pubDate>Mon, 27 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Lite (taoyao) - OS1.0.6.0.ULIMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/taoyao/</link>
+            <pubDate>Mon, 27 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - OS1.0.1.0.ULOINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xaga/</link>
             <pubDate>Mon, 27 May 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -562,11 +592,6 @@
             <pubDate>Thu, 25 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS1.0.5.0.UNQINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/gold/</link>
-            <pubDate>Wed, 24 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS1.0.1.0.UNXMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
             <pubDate>Wed, 24 Apr 2024 00:00:00 </pubDate>
@@ -639,11 +664,6 @@
         <item>
             <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - OS1.0.1.0.TKCINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/veux/</link>
-            <pubDate>Mon, 22 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.10.0.TLOINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/xaga/</link>
             <pubDate>Mon, 22 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -952,11 +972,6 @@
             <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>POCO M5/Redmi 11 Prime 4G (rock) - OS1.0.2.0.ULUEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rock/</link>
-            <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 11 (spes) - OS1.0.1.0.TGCINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spes/</link>
             <pubDate>Mon, 01 Apr 2024 00:00:00 </pubDate>
@@ -999,11 +1014,6 @@
         <item>
             <title>Redmi K60 Pro (socrates) - OS1.0.8.0.UMKCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/socrates/</link>
-            <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Lite (taoyao) - OS1.0.4.0.ULIMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/taoyao/</link>
             <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -1117,11 +1127,6 @@
             <pubDate>Sun, 17 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.8.0.UNLMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Sat, 16 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.7.0.UNLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Sat, 16 Mar 2024 00:00:00 </pubDate>
@@ -1179,11 +1184,6 @@
         <item>
             <title>Xiaomi Civi (mona) - OS1.0.2.0.TKVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/mona/</link>
-            <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Pro (nuwa) - OS1.0.2.0.UMBINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
