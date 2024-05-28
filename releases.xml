@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 28 May 2024 07:05:54 </lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 12:52:20 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.8.0.UMNCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
+            <pubDate>Tue, 28 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 NFC (sapphiren) - OS1.0.2.0.UNHEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
             <pubDate>Tue, 28 May 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -784,11 +789,6 @@
         <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.3.0.UMOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Tue, 16 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 NFC (sapphiren) - OS1.0.1.0.UNHEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
             <pubDate>Tue, 16 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
