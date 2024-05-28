@@ -56,22 +56,22 @@ permalink: /hyperos/air/stable/OS1.0.1.0.UGQCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.3 GB</h5>
+                    <h5><b>Size: </b>5.6 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-05-16</h5>
+                    <h5><b>Release Date: </b>2024-05-10</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_AIR_OS1.0.1.0.UGQCNXM_6771b8fffc_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">air_images_OS1.0.1.0.UGQCNXM_20240510.0000.00_14.0_cn_71a2eed736.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">6771b8fffc92ff415d13dad52c7928c1</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">71a2eed736dd908a7fb6b223ca161506</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.1.0.UGQCNXM/miui_AIR_OS1.0.1.0.UGQCNXM_6771b8fffc_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.1.0.UGQCNXM/miui_AIR_OS1.0.1.0.UGQCNXM_6771b8fffc_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.1.0.UGQCNXM/miui_AIR_OS1.0.1.0.UGQCNXM_6771b8fffc_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.1.0.UGQCNXM/miui_AIR_OS1.0.1.0.UGQCNXM_6771b8fffc_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.1.0.UGQCNXM/miui_AIR_OS1.0.1.0.UGQCNXM_6771b8fffc_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.1.0.UGQCNXM/air_images_OS1.0.1.0.UGQCNXM_20240510.0000.00_14.0_cn_71a2eed736.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.1.0.UGQCNXM/air_images_OS1.0.1.0.UGQCNXM_20240510.0000.00_14.0_cn_71a2eed736.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.1.0.UGQCNXM/air_images_OS1.0.1.0.UGQCNXM_20240510.0000.00_14.0_cn_71a2eed736.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.1.0.UGQCNXM/air_images_OS1.0.1.0.UGQCNXM_20240510.0000.00_14.0_cn_71a2eed736.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.1.0.UGQCNXM/air_images_OS1.0.1.0.UGQCNXM_20240510.0000.00_14.0_cn_71a2eed736.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#air_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/air/stable/OS1.0.1.0.UGQCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.6 GB</h5>
+                    <h5><b>Size: </b>4.3 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-05-10</h5>
+                    <h5><b>Release Date: </b>2024-05-16</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">air_images_OS1.0.1.0.UGQCNXM_20240510.0000.00_14.0_cn_71a2eed736.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_AIR_OS1.0.1.0.UGQCNXM_6771b8fffc_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">71a2eed736dd908a7fb6b223ca161506</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6771b8fffc92ff415d13dad52c7928c1</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.1.0.UGQCNXM/air_images_OS1.0.1.0.UGQCNXM_20240510.0000.00_14.0_cn_71a2eed736.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.1.0.UGQCNXM/air_images_OS1.0.1.0.UGQCNXM_20240510.0000.00_14.0_cn_71a2eed736.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.1.0.UGQCNXM/air_images_OS1.0.1.0.UGQCNXM_20240510.0000.00_14.0_cn_71a2eed736.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.1.0.UGQCNXM/air_images_OS1.0.1.0.UGQCNXM_20240510.0000.00_14.0_cn_71a2eed736.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.1.0.UGQCNXM/air_images_OS1.0.1.0.UGQCNXM_20240510.0000.00_14.0_cn_71a2eed736.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.1.0.UGQCNXM/miui_AIR_OS1.0.1.0.UGQCNXM_6771b8fffc_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.1.0.UGQCNXM/miui_AIR_OS1.0.1.0.UGQCNXM_6771b8fffc_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.1.0.UGQCNXM/miui_AIR_OS1.0.1.0.UGQCNXM_6771b8fffc_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.1.0.UGQCNXM/miui_AIR_OS1.0.1.0.UGQCNXM_6771b8fffc_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.1.0.UGQCNXM/miui_AIR_OS1.0.1.0.UGQCNXM_6771b8fffc_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#air_2_changelog" data-toggle="collapse" role="button"

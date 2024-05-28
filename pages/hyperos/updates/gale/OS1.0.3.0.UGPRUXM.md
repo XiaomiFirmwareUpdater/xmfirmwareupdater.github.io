@@ -56,22 +56,22 @@ permalink: /hyperos/gale/stable/OS1.0.3.0.UGPRUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.2 GB</h5>
+                    <h5><b>Size: </b>6.7 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-05-08</h5>
+                    <h5><b>Release Date: </b>2024-04-22</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_GALERUGlobal_OS1.0.3.0.UGPRUXM_c1d0b15ed9_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">gale_ru_global_images_OS1.0.3.0.UGPRUXM_20240422.0000.00_14.0_ru_6b5caecc50.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c1d0b15ed930b5c7414ee872ccda0b62</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6b5caecc504c27d5f1ad162f3cdc95f2</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.3.0.UGPRUXM/miui_GALERUGlobal_OS1.0.3.0.UGPRUXM_c1d0b15ed9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.3.0.UGPRUXM/miui_GALERUGlobal_OS1.0.3.0.UGPRUXM_c1d0b15ed9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.3.0.UGPRUXM/miui_GALERUGlobal_OS1.0.3.0.UGPRUXM_c1d0b15ed9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.UGPRUXM/miui_GALERUGlobal_OS1.0.3.0.UGPRUXM_c1d0b15ed9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.3.0.UGPRUXM/miui_GALERUGlobal_OS1.0.3.0.UGPRUXM_c1d0b15ed9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.3.0.UGPRUXM/gale_ru_global_images_OS1.0.3.0.UGPRUXM_20240422.0000.00_14.0_ru_6b5caecc50.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.3.0.UGPRUXM/gale_ru_global_images_OS1.0.3.0.UGPRUXM_20240422.0000.00_14.0_ru_6b5caecc50.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.3.0.UGPRUXM/gale_ru_global_images_OS1.0.3.0.UGPRUXM_20240422.0000.00_14.0_ru_6b5caecc50.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.UGPRUXM/gale_ru_global_images_OS1.0.3.0.UGPRUXM_20240422.0000.00_14.0_ru_6b5caecc50.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.3.0.UGPRUXM/gale_ru_global_images_OS1.0.3.0.UGPRUXM_20240422.0000.00_14.0_ru_6b5caecc50.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#gale_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/gale/stable/OS1.0.3.0.UGPRUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.7 GB</h5>
+                    <h5><b>Size: </b>4.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-04-22</h5>
+                    <h5><b>Release Date: </b>2024-05-08</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">gale_ru_global_images_OS1.0.3.0.UGPRUXM_20240422.0000.00_14.0_ru_6b5caecc50.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_GALERUGlobal_OS1.0.3.0.UGPRUXM_c1d0b15ed9_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">6b5caecc504c27d5f1ad162f3cdc95f2</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">c1d0b15ed930b5c7414ee872ccda0b62</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.3.0.UGPRUXM/gale_ru_global_images_OS1.0.3.0.UGPRUXM_20240422.0000.00_14.0_ru_6b5caecc50.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.3.0.UGPRUXM/gale_ru_global_images_OS1.0.3.0.UGPRUXM_20240422.0000.00_14.0_ru_6b5caecc50.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.3.0.UGPRUXM/gale_ru_global_images_OS1.0.3.0.UGPRUXM_20240422.0000.00_14.0_ru_6b5caecc50.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.UGPRUXM/gale_ru_global_images_OS1.0.3.0.UGPRUXM_20240422.0000.00_14.0_ru_6b5caecc50.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.3.0.UGPRUXM/gale_ru_global_images_OS1.0.3.0.UGPRUXM_20240422.0000.00_14.0_ru_6b5caecc50.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.3.0.UGPRUXM/miui_GALERUGlobal_OS1.0.3.0.UGPRUXM_c1d0b15ed9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.3.0.UGPRUXM/miui_GALERUGlobal_OS1.0.3.0.UGPRUXM_c1d0b15ed9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.3.0.UGPRUXM/miui_GALERUGlobal_OS1.0.3.0.UGPRUXM_c1d0b15ed9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.UGPRUXM/miui_GALERUGlobal_OS1.0.3.0.UGPRUXM_c1d0b15ed9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.3.0.UGPRUXM/miui_GALERUGlobal_OS1.0.3.0.UGPRUXM_c1d0b15ed9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#gale_2_changelog" data-toggle="collapse" role="button"
