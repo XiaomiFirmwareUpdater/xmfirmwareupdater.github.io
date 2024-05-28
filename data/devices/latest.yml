@@ -3119,15 +3119,15 @@
     android: '14.0'
     miui: OS1.0.5.0.UMNMIXM
 - branch: stable
-  date: '2024-05-16'
+  date: '2024-05-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-16.05.2024/fw_mondrian_miui_MONDRIAN_OS1.0.7.0.UMNCNXM_f5c6d87f01_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/mondrian/fw_mondrian_miui_MONDRIAN_OS1.0.7.0.UMNCNXM_f5c6d87f01_14.0.zip
-  filename: fw_mondrian_miui_MONDRIAN_OS1.0.7.0.UMNCNXM_f5c6d87f01_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-28.05.2024/fw_mondrian_miui_MONDRIAN_OS1.0.8.0.UMNCNXM_a1d4b475b7_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/mondrian/fw_mondrian_miui_MONDRIAN_OS1.0.8.0.UMNCNXM_a1d4b475b7_14.0.zip
+  filename: fw_mondrian_miui_MONDRIAN_OS1.0.8.0.UMNCNXM_a1d4b475b7_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.7.0.UMNCNXM
+    miui: OS1.0.8.0.UMNCNXM
 - branch: stable
   date: '2024-04-19'
   downloads:
@@ -5799,15 +5799,15 @@
     android: '14.0'
     miui: OS1.0.1.0.ULOMIXM
 - branch: stable
-  date: '2024-04-20'
+  date: '2024-05-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-20.04.2024/fw_xaga_miui_XAGA_OS1.0.1.0.ULOCNXM_445b22a793_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/xaga/fw_xaga_miui_XAGA_OS1.0.1.0.ULOCNXM_445b22a793_14.0.zip
-  filename: fw_xaga_miui_XAGA_OS1.0.1.0.ULOCNXM_445b22a793_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-28.05.2024/fw_xaga_miui_XAGA_OS1.0.2.0.ULOCNXM_9608f85b60_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/xaga/fw_xaga_miui_XAGA_OS1.0.2.0.ULOCNXM_9608f85b60_14.0.zip
+  filename: fw_xaga_miui_XAGA_OS1.0.2.0.ULOCNXM_9608f85b60_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.1.0.ULOCNXM
+    miui: OS1.0.2.0.ULOCNXM
 - branch: stable
   date: '2024-05-21'
   downloads:

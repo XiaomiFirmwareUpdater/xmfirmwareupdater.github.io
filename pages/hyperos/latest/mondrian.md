@@ -55,6 +55,7 @@ permalink: /hyperos/mondrian/
                 <tr><td>Redmi K60 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UMNCNXM</td><td>14.0</td><td>7.7 GB</td><td>2024-05-06</td><td><a href="/hyperos/mondrian/stable/OS1.0.7.0.UMNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UMNCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-05-13</td><td><a href="/hyperos/mondrian/stable/OS1.0.7.0.UMNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.8 GB</td><td>2024-01-12</td><td><a href="/hyperos/mondrian/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
+<tr><td>Redmi K60 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.8.0.UMNCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-05-24</td><td><a href="/hyperos/mondrian/stable beta/OS1.0.8.0.UMNCNXM/">Download</a></td></tr>
 <tr><td>POCO F5 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMNEUXM</td><td>14.0</td><td>7.4 GB</td><td>2024-03-25</td><td><a href="/hyperos/mondrian/stable/OS1.0.4.0.UMNEUXM/">Download</a></td></tr>
 <tr><td>POCO F5 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMNEUXM</td><td>14.0</td><td>5.0 GB</td><td>2024-04-16</td><td><a href="/hyperos/mondrian/stable/OS1.0.4.0.UMNEUXM/">Download</a></td></tr>
 <tr><td>POCO F5 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UMNMIXM</td><td>14.0</td><td>7.8 GB</td><td>2024-04-24</td><td><a href="/hyperos/mondrian/stable/OS1.0.5.0.UMNMIXM/">Download</a></td></tr>

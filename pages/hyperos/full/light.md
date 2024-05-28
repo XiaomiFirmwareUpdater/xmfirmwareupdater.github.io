@@ -52,7 +52,8 @@ permalink: /archive/hyperos/light/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 10 5G / POCO M4 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.ULSIDXM</td><td>14.0</td><td>3.8 GB</td><td>2024-05-14</td><td><a href="/hyperos/light/stable beta/OS1.0.2.0.ULSIDXM/">Download</a></td></tr>
+                <tr><td>Redmi 10 5G / POCO M4 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULSIDXM</td><td>14.0</td><td>3.8 GB</td><td>2024-05-14</td><td><a href="/hyperos/light/stable/OS1.0.2.0.ULSIDXM/">Download</a></td></tr>
+<tr><td>Redmi 10 5G / POCO M4 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULSIDXM</td><td>14.0</td><td>5.6 GB</td><td>2024-04-22</td><td><a href="/hyperos/light/stable/OS1.0.2.0.ULSIDXM/">Download</a></td></tr>
 <tr><td>Redmi 11 Prime 5G / POCO M4 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.ULSINXM</td><td>14.0</td><td>3.8 GB</td><td>2024-05-14</td><td><a href="/hyperos/light/stable beta/OS1.0.4.0.ULSINXM/">Download</a></td></tr>
 <tr><td>Redmi 11 Prime 5G / POCO M4 5G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.ULSINXM</td><td>14.0</td><td>3.8 GB</td><td>2024-04-21</td><td><a href="/hyperos/light/stable/OS1.0.3.0.ULSINXM/">Download</a></td></tr>
 <tr><td>Redmi 11 Prime 5G / POCO M4 5G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.ULSINXM</td><td>14.0</td><td>5.1 GB</td><td>2024-04-18</td><td><a href="/hyperos/light/stable/OS1.0.3.0.ULSINXM/">Download</a></td></tr>

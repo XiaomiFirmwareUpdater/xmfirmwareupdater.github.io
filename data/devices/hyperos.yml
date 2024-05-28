@@ -1452,6 +1452,12 @@
   version: OS1.0.2.0.TKVCNXM
 - android: '14.0'
   codename: mondrian
+  date: '2024-05-28'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMNCNXM/fw_mondrian_miui_MONDRIAN_OS1.0.8.0.UMNCNXM_a1d4b475b7_14.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS1.0.8.0.UMNCNXM
+- android: '14.0'
+  codename: mondrian
   date: '2024-01-24'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMNMIXM/fw_mondrian_miui_MONDRIANGlobal_OS1.0.2.0.UMNMIXM_672ad494ad_14.0.zip
   name: Redmi K60/POCO F5 Pro
@@ -2776,6 +2782,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.TGDMIXM/fw_viva_miui_VIVAGlobal_OS1.0.3.0.TGDMIXM_6f1ff58bc0_13.0.zip
   name: Redmi Note 11 Pro 4G
   version: OS1.0.3.0.TGDMIXM
+- android: '14.0'
+  codename: xaga
+  date: '2024-05-28'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULOCNXM/fw_xaga_miui_XAGA_OS1.0.2.0.ULOCNXM_9608f85b60_14.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS1.0.2.0.ULOCNXM
 - android: '14.0'
   codename: xaga
   date: '2024-05-27'

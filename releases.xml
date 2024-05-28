@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 28 May 2024 00:45:57 </lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 07:05:54 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.8.0.UMNCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
+            <pubDate>Tue, 28 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - OS1.0.2.0.ULOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xaga/</link>
+            <pubDate>Tue, 28 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS1.0.7.0.UNAMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
@@ -264,11 +274,6 @@
         <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro (emerald) - OS1.0.3.0.UNFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
-            <pubDate>Thu, 16 May 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.7.0.UMNCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
             <pubDate>Thu, 16 May 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -684,11 +689,6 @@
         <item>
             <title>POCO X5 5G (moonstone) - OS1.0.2.0.UMPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moonstone/</link>
-            <pubDate>Sat, 20 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - OS1.0.1.0.ULOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/xaga/</link>
             <pubDate>Sat, 20 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
