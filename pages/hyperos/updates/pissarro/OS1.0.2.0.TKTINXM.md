@@ -56,22 +56,22 @@ permalink: /hyperos/pissarro/stable/OS1.0.2.0.TKTINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.4 GB</h5>
+                    <h5><b>Size: </b>3.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-03-25</h5>
+                    <h5><b>Release Date: </b>2024-04-01</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">pissarro_in_global_images_OS1.0.2.0.TKTINXM_20240325.0000.00_13.0_in_df1ebfd4e4.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">df1ebfd4e4cd8c4d15f1bff61331c292</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">171c1786759de1a9cee25c76bf635291</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.2.0.TKTINXM/pissarro_in_global_images_OS1.0.2.0.TKTINXM_20240325.0000.00_13.0_in_df1ebfd4e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.2.0.TKTINXM/pissarro_in_global_images_OS1.0.2.0.TKTINXM_20240325.0000.00_13.0_in_df1ebfd4e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.2.0.TKTINXM/pissarro_in_global_images_OS1.0.2.0.TKTINXM_20240325.0000.00_13.0_in_df1ebfd4e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.TKTINXM/pissarro_in_global_images_OS1.0.2.0.TKTINXM_20240325.0000.00_13.0_in_df1ebfd4e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.2.0.TKTINXM/pissarro_in_global_images_OS1.0.2.0.TKTINXM_20240325.0000.00_13.0_in_df1ebfd4e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.TKTINXM/miui-blockota-pissarro_in_global-V14.0.6.0.TKTINXM-OS1.0.2.0.TKTINXM-497cd380b5-13.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.2.0.TKTINXM/miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.2.0.TKTINXM/miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.2.0.TKTINXM/miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.TKTINXM/miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.2.0.TKTINXM/miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#pissarro_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/pissarro/stable/OS1.0.2.0.TKTINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>3.8 GB</h5>
+                    <h5><b>Size: </b>5.4 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-04-01</h5>
+                    <h5><b>Release Date: </b>2024-03-25</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">pissarro_in_global_images_OS1.0.2.0.TKTINXM_20240325.0000.00_13.0_in_df1ebfd4e4.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">171c1786759de1a9cee25c76bf635291</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">df1ebfd4e4cd8c4d15f1bff61331c292</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.TKTINXM/miui-blockota-pissarro_in_global-V14.0.6.0.TKTINXM-OS1.0.2.0.TKTINXM-497cd380b5-13.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.2.0.TKTINXM/miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.2.0.TKTINXM/miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.2.0.TKTINXM/miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.TKTINXM/miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.2.0.TKTINXM/miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.2.0.TKTINXM/pissarro_in_global_images_OS1.0.2.0.TKTINXM_20240325.0000.00_13.0_in_df1ebfd4e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.2.0.TKTINXM/pissarro_in_global_images_OS1.0.2.0.TKTINXM_20240325.0000.00_13.0_in_df1ebfd4e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.2.0.TKTINXM/pissarro_in_global_images_OS1.0.2.0.TKTINXM_20240325.0000.00_13.0_in_df1ebfd4e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.TKTINXM/pissarro_in_global_images_OS1.0.2.0.TKTINXM_20240325.0000.00_13.0_in_df1ebfd4e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.2.0.TKTINXM/pissarro_in_global_images_OS1.0.2.0.TKTINXM_20240325.0000.00_13.0_in_df1ebfd4e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#pissarro_2_changelog" data-toggle="collapse" role="button"

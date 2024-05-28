@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 28 May 2024 12:52:20 </lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 00:42:45 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.8.0.UMNCNXM</title>
@@ -19,6 +19,11 @@
         <item>
             <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - OS1.0.2.0.ULOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xaga/</link>
+            <pubDate>Tue, 28 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE (xun) - OS1.0.1.0.UMUINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xun/</link>
             <pubDate>Tue, 28 May 2024 00:00:00 </pubDate>
         </item>
         <item>

@@ -56,22 +56,22 @@ permalink: /hyperos/houji/stable/OS1.0.36.0.UNCCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.6 GB</h5>
+                    <h5><b>Size: </b>5.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-03-28</h5>
+                    <h5><b>Release Date: </b>2024-04-10</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">houji_images_OS1.0.36.0.UNCCNXM_20240328.0000.00_14.0_cn_27ea77fa11.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_HOUJI_OS1.0.36.0.UNCCNXM_54ab2de231_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">27ea77fa11e7de982bc9da1e059146ad</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">54ab2de2310b96cb1e985dd9fc7ad188</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.36.0.UNCCNXM/houji_images_OS1.0.36.0.UNCCNXM_20240328.0000.00_14.0_cn_27ea77fa11.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.36.0.UNCCNXM/houji_images_OS1.0.36.0.UNCCNXM_20240328.0000.00_14.0_cn_27ea77fa11.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.36.0.UNCCNXM/houji_images_OS1.0.36.0.UNCCNXM_20240328.0000.00_14.0_cn_27ea77fa11.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.36.0.UNCCNXM/houji_images_OS1.0.36.0.UNCCNXM_20240328.0000.00_14.0_cn_27ea77fa11.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.36.0.UNCCNXM/houji_images_OS1.0.36.0.UNCCNXM_20240328.0000.00_14.0_cn_27ea77fa11.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.36.0.UNCCNXM/miui-blockota-houji-OS1.0.35.0.UNCCNXM-OS1.0.36.0.UNCCNXM-f3659b4493-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.36.0.UNCCNXM/miui_HOUJI_OS1.0.36.0.UNCCNXM_54ab2de231_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.36.0.UNCCNXM/miui_HOUJI_OS1.0.36.0.UNCCNXM_54ab2de231_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.36.0.UNCCNXM/miui_HOUJI_OS1.0.36.0.UNCCNXM_54ab2de231_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.36.0.UNCCNXM/miui_HOUJI_OS1.0.36.0.UNCCNXM_54ab2de231_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.36.0.UNCCNXM/miui_HOUJI_OS1.0.36.0.UNCCNXM_54ab2de231_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#houji_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/houji/stable/OS1.0.36.0.UNCCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.8 GB</h5>
+                    <h5><b>Size: </b>8.6 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-04-10</h5>
+                    <h5><b>Release Date: </b>2024-03-28</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_HOUJI_OS1.0.36.0.UNCCNXM_54ab2de231_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">houji_images_OS1.0.36.0.UNCCNXM_20240328.0000.00_14.0_cn_27ea77fa11.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">54ab2de2310b96cb1e985dd9fc7ad188</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">27ea77fa11e7de982bc9da1e059146ad</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.36.0.UNCCNXM/miui-blockota-houji-OS1.0.35.0.UNCCNXM-OS1.0.36.0.UNCCNXM-f3659b4493-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.36.0.UNCCNXM/miui_HOUJI_OS1.0.36.0.UNCCNXM_54ab2de231_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.36.0.UNCCNXM/miui_HOUJI_OS1.0.36.0.UNCCNXM_54ab2de231_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.36.0.UNCCNXM/miui_HOUJI_OS1.0.36.0.UNCCNXM_54ab2de231_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.36.0.UNCCNXM/miui_HOUJI_OS1.0.36.0.UNCCNXM_54ab2de231_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.36.0.UNCCNXM/miui_HOUJI_OS1.0.36.0.UNCCNXM_54ab2de231_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.36.0.UNCCNXM/houji_images_OS1.0.36.0.UNCCNXM_20240328.0000.00_14.0_cn_27ea77fa11.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.36.0.UNCCNXM/houji_images_OS1.0.36.0.UNCCNXM_20240328.0000.00_14.0_cn_27ea77fa11.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.36.0.UNCCNXM/houji_images_OS1.0.36.0.UNCCNXM_20240328.0000.00_14.0_cn_27ea77fa11.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.36.0.UNCCNXM/houji_images_OS1.0.36.0.UNCCNXM_20240328.0000.00_14.0_cn_27ea77fa11.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.36.0.UNCCNXM/houji_images_OS1.0.36.0.UNCCNXM_20240328.0000.00_14.0_cn_27ea77fa11.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#houji_2_changelog" data-toggle="collapse" role="button"
