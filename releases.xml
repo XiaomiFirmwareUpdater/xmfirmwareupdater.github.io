@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 29 May 2024 13:05:25 </lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 19:02:51 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS1.0.11.0.UNACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Wed, 29 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS1.0.6.0.UNQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gold/</link>
@@ -624,11 +629,6 @@
         <item>
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - OS1.0.3.0.TKHCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/alioth/</link>
-            <pubDate>Mon, 22 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS1.0.9.0.UNACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
             <pubDate>Mon, 22 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
