@@ -62,7 +62,8 @@ permalink: /hyperos/vili/
 <tr><td>Xiaomi 11T Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UKDRUXM</td><td>14.0</td><td>5.0 GB</td><td>2024-05-14</td><td><a href="/hyperos/vili/stable/OS1.0.1.0.UKDRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UKDTWXM</td><td>14.0</td><td>5.7 GB</td><td>2024-05-10</td><td><a href="/hyperos/vili/stable/OS1.0.1.0.UKDTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UKDTWXM</td><td>14.0</td><td>4.9 GB</td><td>2024-05-17</td><td><a href="/hyperos/vili/stable/OS1.0.1.0.UKDTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11T Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UKDTRXM</td><td>14.0</td><td>5.2 GB</td><td>2024-05-17</td><td><a href="/hyperos/vili/stable beta/OS1.0.1.0.UKDTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UKDTRXM</td><td>14.0</td><td>6.4 GB</td><td>2024-05-09</td><td><a href="/hyperos/vili/stable/OS1.0.1.0.UKDTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UKDTRXM</td><td>14.0</td><td>5.2 GB</td><td>2024-05-17</td><td><a href="/hyperos/vili/stable/OS1.0.1.0.UKDTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

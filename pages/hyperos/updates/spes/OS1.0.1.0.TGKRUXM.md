@@ -3,7 +3,7 @@ title: Redmi Note 11 NFC Russia HyperOS OS1.0.1.0.TGKRUXM Update
 layout: download
 name: Redmi Note 11 NFC Russia
 codename: spes
-permalink: /hyperos/spes/stable beta/OS1.0.1.0.TGKRUXM/
+permalink: /hyperos/spes/stable/OS1.0.1.0.TGKRUXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/spes/stable beta/OS1.0.1.0.TGKRUXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.1.0.TGKRUXM Stable Beta Official Update for Redmi Note 11 NFC Russia (spes)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.1.0.TGKRUXM Stable Official Update for Redmi Note 11 NFC Russia (spes)</h3>
     <h5>This page shows the OS1.0.1.0.TGKRUXM update only. If you're looking for other updates check
         <a href="/hyperos/spes/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/spes/stable beta/OS1.0.1.0.TGKRUXM/
                     <h5><b>Version: </b>OS1.0.1.0.TGKRUXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>

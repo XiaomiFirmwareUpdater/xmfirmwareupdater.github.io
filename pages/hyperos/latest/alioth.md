@@ -56,11 +56,13 @@ permalink: /hyperos/alioth/
 <tr><td>Redmi K40 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.TKHCNXM</td><td>13.0</td><td>4.1 GB</td><td>2024-04-15</td><td><a href="/hyperos/alioth/stable/OS1.0.3.0.TKHCNXM/">Download</a></td></tr>
 <tr><td>POCO F3 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.TKHMIXM</td><td>13.0</td><td>5.7 GB</td><td>2024-03-07</td><td><a href="/hyperos/alioth/stable/OS1.0.2.0.TKHMIXM/">Download</a></td></tr>
 <tr><td>POCO F3 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.TKHMIXM</td><td>13.0</td><td>4.0 GB</td><td>2024-04-22</td><td><a href="/hyperos/alioth/stable/OS1.0.2.0.TKHMIXM/">Download</a></td></tr>
-<tr><td>POCO F3 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.TKHIDXM</td><td>13.0</td><td>4.0 GB</td><td>2024-05-10</td><td><a href="/hyperos/alioth/stable beta/OS1.0.1.0.TKHIDXM/">Download</a></td></tr>
+<tr><td>POCO F3 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.TKHIDXM</td><td>13.0</td><td>5.2 GB</td><td>2024-03-18</td><td><a href="/hyperos/alioth/stable/OS1.0.1.0.TKHIDXM/">Download</a></td></tr>
+<tr><td>POCO F3 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TKHIDXM</td><td>13.0</td><td>4.0 GB</td><td>2024-05-10</td><td><a href="/hyperos/alioth/stable/OS1.0.1.0.TKHIDXM/">Download</a></td></tr>
 <tr><td>Mi 11X India</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TKHINXM</td><td>13.0</td><td>4.0 GB</td><td>2024-05-10</td><td><a href="/hyperos/alioth/stable/OS1.0.1.0.TKHINXM/">Download</a></td></tr>
 <tr><td>POCO F3 Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.TKHRUXM</td><td>13.0</td><td>4.0 GB</td><td>2024-05-21</td><td><a href="/hyperos/alioth/stable beta/OS1.0.2.0.TKHRUXM/">Download</a></td></tr>
 <tr><td>POCO F3 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.TKHTRXM</td><td>13.0</td><td>4.0 GB</td><td>2024-05-21</td><td><a href="/hyperos/alioth/stable beta/OS1.0.2.0.TKHTRXM/">Download</a></td></tr>
-<tr><td>POCO F3 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.TKHTWXM</td><td>13.0</td><td>3.9 GB</td><td>2024-05-20</td><td><a href="/hyperos/alioth/stable beta/OS1.0.1.0.TKHTWXM/">Download</a></td></tr>
+<tr><td>POCO F3 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.TKHTWXM</td><td>13.0</td><td>4.9 GB</td><td>2024-03-18</td><td><a href="/hyperos/alioth/stable/OS1.0.1.0.TKHTWXM/">Download</a></td></tr>
+<tr><td>POCO F3 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TKHTWXM</td><td>13.0</td><td>3.9 GB</td><td>2024-05-20</td><td><a href="/hyperos/alioth/stable/OS1.0.1.0.TKHTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

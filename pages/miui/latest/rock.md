@@ -53,8 +53,6 @@ permalink: /miui/rock/
                 </thead>
                 <tbody>
                 <tr><td>POCO M5 Russia</td><td>Stable Beta</td><td>Fastboot</td><td>V13.0.2.0.SLURUXM</td><td>12.0</td><td>5.3 GB</td><td>2022-08-22</td><td><a href="/miui/rock/stable beta/V13.0.2.0.SLURUXM/">Download</a></td></tr>
-<tr><td>POCO M5 Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TLUTRXM</td><td>13.0</td><td>5.7 GB</td><td>2023-03-27</td><td><a href="/miui/rock/stable/V14.0.1.0.TLUTRXM/">Download</a></td></tr>
-<tr><td>POCO M5 Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TLUTRXM</td><td>13.0</td><td>3.7 GB</td><td>2023-04-03</td><td><a href="/miui/rock/stable/V14.0.1.0.TLUTRXM/">Download</a></td></tr>
 <tr><td>POCO M5 Turkey</td><td>Stable Beta</td><td>Fastboot</td><td>V13.0.2.0.SLUTRXM</td><td>12.0</td><td>5.0 GB</td><td>2022-08-24</td><td><a href="/miui/rock/stable beta/V13.0.2.0.SLUTRXM/">Download</a></td></tr>
 <tr><td>POCO M5 Taiwan</td><td>Stable Beta</td><td>Fastboot</td><td>V13.0.1.0.SLUTWXM</td><td>12.0</td><td>4.6 GB</td><td>2022-08-30</td><td><a href="/miui/rock/stable beta/V13.0.1.0.SLUTWXM/">Download</a></td></tr>
 
