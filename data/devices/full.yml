@@ -18389,6 +18389,16 @@
     android: '10.0'
     miui: V11.0.7.0.QJWMIXM
 - branch: stable
+  date: '2024-05-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dagu/releases/download/stable-30.05.2024/fw_dagu_miui_DAGU_OS1.0.2.0.ULZCNXM_128408a80b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/dagu/fw_dagu_miui_DAGU_OS1.0.2.0.ULZCNXM_128408a80b_14.0.zip
+  filename: fw_dagu_miui_DAGU_OS1.0.2.0.ULZCNXM_128408a80b_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.ULZCNXM
+- branch: stable
   date: '2022-10-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dagu/releases/download/stable-27.10.2022/fw_dagu_miui_DAGU_V13.1.7.0.SLZCNXM_19dc3af3c2_12.0.zip
@@ -73658,6 +73668,16 @@
   versions:
     android: '11.0'
     miui: V13.0.5.0.RGDEUXM
+- branch: stable
+  date: '2024-05-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-30.05.2024/fw_water_miui_WATERGlobal_V14.0.27.0.TGOMIXM_98dc796bf1_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERGlobal_V14.0.27.0.TGOMIXM_98dc796bf1_13.0.zip
+  filename: fw_water_miui_WATERGlobal_V14.0.27.0.TGOMIXM_98dc796bf1_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.27.0.TGOMIXM
 - branch: stable
   date: '2023-07-27'
   downloads:

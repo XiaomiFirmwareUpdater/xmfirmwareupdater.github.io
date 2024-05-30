@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 30 May 2024 12:48:40 </lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 20:05:12 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Pad 5 Pro 12.4 (dagu) - OS1.0.2.0.ULZCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dagu/</link>
+            <pubDate>Thu, 30 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A2/A2+/POCO C51 (water) - V14.0.27.0.TGOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/water/</link>
+            <pubDate>Thu, 30 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS1.0.11.0.UNACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
@@ -1092,11 +1102,6 @@
             <pubDate>Thu, 21 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi A2/A2+/POCO C51 (water) - V14.0.25.0.TGOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/water/</link>
-            <pubDate>Thu, 21 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.14.0.TGOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/water/</link>
             <pubDate>Thu, 21 Mar 2024 00:00:00 </pubDate>
@@ -1205,11 +1210,6 @@
             <title>Xiaomi 12X (psyche) - OS1.0.3.0.TLDCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/psyche/</link>
             <pubDate>Fri, 23 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 5 Pro 12.4 (dagu) - OS1.0.1.0.ULZCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dagu/</link>
-            <pubDate>Sun, 18 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K50 Pro (matisse) - OS1.0.2.0.ULKCNXM</title>

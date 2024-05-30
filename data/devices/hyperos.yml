@@ -372,6 +372,12 @@
   version: OS1.0.2.0.ULCCNXM
 - android: '14.0'
   codename: dagu
+  date: '2024-05-30'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULZCNXM/fw_dagu_miui_DAGU_OS1.0.2.0.ULZCNXM_128408a80b_14.0.zip
+  name: Xiaomi Pad 5 Pro 12.4
+  version: OS1.0.2.0.ULZCNXM
+- android: '14.0'
+  codename: dagu
   date: '2024-02-18'
   download: https://bigota.d.miui.com/OS1.0.1.0.ULZCNXM/fw_dagu_miui_DAGU_OS1.0.1.0.ULZCNXM_eda29421b4_14.0.zip
   name: Xiaomi Pad 5 Pro 12.4
