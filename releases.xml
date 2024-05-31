@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 31 May 2024 07:18:52 </lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 14:18:52 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS1.0.8.0.UNXCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
+            <pubDate>Fri, 31 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS1.0.3.0.UNXEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
@@ -1014,11 +1019,6 @@
         <item>
             <title>Redmi K50 (rubens) - OS1.0.6.0.ULNCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rubens/</link>
-            <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS1.0.7.0.UNXCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
             <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
