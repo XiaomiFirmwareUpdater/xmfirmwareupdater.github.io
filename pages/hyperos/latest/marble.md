@@ -64,9 +64,8 @@ permalink: /hyperos/marble/
 <tr><td>POCO F5 India</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UMRINXM</td><td>14.0</td><td>5.0 GB</td><td>2024-05-08</td><td><a href="/hyperos/marble/stable/OS1.0.8.0.UMRINXM/">Download</a></td></tr>
 <tr><td>POCO F5 Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMRRUXM</td><td>14.0</td><td>7.8 GB</td><td>2024-04-23</td><td><a href="/hyperos/marble/stable/OS1.0.4.0.UMRRUXM/">Download</a></td></tr>
 <tr><td>POCO F5 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMRRUXM</td><td>14.0</td><td>5.0 GB</td><td>2024-05-13</td><td><a href="/hyperos/marble/stable/OS1.0.4.0.UMRRUXM/">Download</a></td></tr>
-<tr><td>POCO F5 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UMRTRXM</td><td>14.0</td><td>6.9 GB</td><td>2024-03-01</td><td><a href="/hyperos/marble/stable/OS1.0.3.0.UMRTRXM/">Download</a></td></tr>
-<tr><td>POCO F5 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UMRTRXM</td><td>14.0</td><td>5.2 GB</td><td>2024-04-02</td><td><a href="/hyperos/marble/stable/OS1.0.3.0.UMRTRXM/">Download</a></td></tr>
-<tr><td>POCO F5 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UMRTRXM</td><td>14.0</td><td>5.2 GB</td><td>2024-05-22</td><td><a href="/hyperos/marble/stable beta/OS1.0.4.0.UMRTRXM/">Download</a></td></tr>
+<tr><td>POCO F5 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMRTRXM</td><td>14.0</td><td>7.1 GB</td><td>2024-05-13</td><td><a href="/hyperos/marble/stable/OS1.0.4.0.UMRTRXM/">Download</a></td></tr>
+<tr><td>POCO F5 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMRTRXM</td><td>14.0</td><td>5.2 GB</td><td>2024-05-22</td><td><a href="/hyperos/marble/stable/OS1.0.4.0.UMRTRXM/">Download</a></td></tr>
 <tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UMRTWXM</td><td>14.0</td><td>6.8 GB</td><td>2024-05-13</td><td><a href="/hyperos/marble/stable/OS1.0.3.0.UMRTWXM/">Download</a></td></tr>
 <tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UMRTWXM</td><td>14.0</td><td>5.0 GB</td><td>2024-05-22</td><td><a href="/hyperos/marble/stable/OS1.0.3.0.UMRTWXM/">Download</a></td></tr>
 

@@ -221,6 +221,12 @@
   name: MIX Fold 3
   version: OS1.0.3.0.UMVCNXM
 - android: '14.0'
+  codename: breeze
+  date: '2024-05-31'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UNUCNXM/fw_breeze_miui_BREEZE_OS1.0.3.0.UNUCNXM_8202f48cd2_14.0.zip
+  name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
+  version: OS1.0.3.0.UNUCNXM
+- android: '14.0'
   codename: chenfeng
   date: '2024-03-28'
   download: https://bigota.d.miui.com/OS1.0.4.0.UNJCNXM/fw_chenfeng_miui_CHENFENG_OS1.0.4.0.UNJCNXM_6dd643228e_14.0.zip
@@ -898,6 +904,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UNRMIXM/fw_garnet_miui_GARNETGlobal_OS1.0.6.0.UNRMIXM_047bdb5ebf_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS1.0.6.0.UNRMIXM
+- android: '14.0'
+  codename: gold
+  date: '2024-05-31'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UNQEUXM/fw_gold_miui_GOLDEEAGlobal_OS1.0.9.0.UNQEUXM_2c944807d4_14.0.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS1.0.9.0.UNQEUXM
 - android: '14.0'
   codename: gold
   date: '2024-05-29'

@@ -52,7 +52,8 @@ permalink: /archive/hyperos/marble/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F5 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UMRTRXM</td><td>14.0</td><td>5.2 GB</td><td>2024-05-22</td><td><a href="/hyperos/marble/stable beta/OS1.0.4.0.UMRTRXM/">Download</a></td></tr>
+                <tr><td>POCO F5 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMRTRXM</td><td>14.0</td><td>5.2 GB</td><td>2024-05-22</td><td><a href="/hyperos/marble/stable/OS1.0.4.0.UMRTRXM/">Download</a></td></tr>
+<tr><td>POCO F5 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMRTRXM</td><td>14.0</td><td>7.1 GB</td><td>2024-05-13</td><td><a href="/hyperos/marble/stable/OS1.0.4.0.UMRTRXM/">Download</a></td></tr>
 <tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UMRTWXM</td><td>14.0</td><td>5.0 GB</td><td>2024-05-22</td><td><a href="/hyperos/marble/stable/OS1.0.3.0.UMRTWXM/">Download</a></td></tr>
 <tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UMRTWXM</td><td>14.0</td><td>6.8 GB</td><td>2024-05-13</td><td><a href="/hyperos/marble/stable/OS1.0.3.0.UMRTWXM/">Download</a></td></tr>
 <tr><td>POCO F5 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMRIDXM</td><td>14.0</td><td>5.2 GB</td><td>2024-05-14</td><td><a href="/hyperos/marble/stable/OS1.0.4.0.UMRIDXM/">Download</a></td></tr>

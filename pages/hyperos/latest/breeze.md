@@ -1,36 +1,36 @@
 ---
-title: Redmi Note 13 Pro+ 5G (zircon) MIUI Downloads
+title: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) HyperOS Downloads
 layout: download
-name: Redmi Note 13 Pro+ 5G
-codename: zircon
-permalink: /miui/zircon/
+name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
+codename: breeze
+permalink: /hyperos/breeze/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
-        <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/zircon/">Redmi Note 13 Pro+ 5G</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/breeze/">Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
-    Follow MIUI Updates Tracker on <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">Telegram</a>
+    Follow HyperOS Updates Tracker on <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">Telegram</a>
      or <a href="https://twitter.com/MiFwUpdater" class="alert-link">Twitter</a> to get notified when a new update is out!
     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
 
-### Latest MIUI Official ROMs
-*Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or modded by XM Firmware Updater.
+### Latest HyperOS Official ROMs
+*Note*: All files listed here are official untouched HyperOS ROMs. It's not owned, modified or modded by XM Firmware Updater.
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/zircon/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/zircon/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/zircon/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/hyperos/breeze/" class="card-link">HyperOS Archive</a>
+    <a href="/firmware/breeze/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/breeze/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -44,7 +44,7 @@ permalink: /miui/zircon/
                         <th data-ref="device">Device</th>
                         <th data-ref="branch">Branch</th>
                         <th data-ref="type">Type</th>
-                        <th data-ref="miui">MIUI</th>
+                        <th data-ref="miui">HyperOS</th>
                         <th data-ref="android">Android</th>
                         <th data-ref="size">Size</th>
                         <th data-ref="size">Date</th>
@@ -52,8 +52,8 @@ permalink: /miui/zircon/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 13 Pro+ 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TNOEUXM</td><td>13.0</td><td>5.6 GB</td><td>2023-12-04</td><td><a href="/miui/zircon/stable beta/V14.0.3.0.TNOEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro+ 5G Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TNOTRXM</td><td>13.0</td><td>5.5 GB</td><td>2024-02-29</td><td><a href="/miui/zircon/stable/V14.0.2.0.TNOTRXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 13R China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UNUCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-05-24</td><td><a href="/hyperos/breeze/stable/OS1.0.3.0.UNUCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13R China</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNUCNXM</td><td>14.0</td><td>4.7 GB</td><td>2024-05-31</td><td><a href="/hyperos/breeze/stable/OS1.0.3.0.UNUCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

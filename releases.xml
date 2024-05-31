@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 31 May 2024 14:18:52 </lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 20:06:37 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS1.0.3.0.UNUCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
+            <pubDate>Fri, 31 May 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS1.0.9.0.UNQEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/gold/</link>
+            <pubDate>Fri, 31 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS1.0.8.0.UNXCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
@@ -334,11 +344,6 @@
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.4.0.UCVMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Wed, 15 May 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS1.0.8.0.UNQEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/gold/</link>
             <pubDate>Wed, 15 May 2024 00:00:00 </pubDate>
         </item>
         <item>
