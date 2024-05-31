@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 31 May 2024 00:45:40 </lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 07:18:52 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS1.0.3.0.UNXEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
+            <pubDate>Fri, 31 May 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi Pad 5 Pro 12.4 (dagu) - OS1.0.2.0.ULZCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dagu/</link>
@@ -950,11 +955,6 @@
             <title>Redmi Note 11S 5G (opal) - OS1.0.1.0.TGLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/opal/</link>
             <pubDate>Sat, 06 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS1.0.1.0.UNXEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
-            <pubDate>Wed, 03 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 11 Pro 4G (viva) - OS1.0.3.0.TGDMIXM</title>
