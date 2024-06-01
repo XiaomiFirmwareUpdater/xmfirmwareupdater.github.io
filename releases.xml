@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 01 Jun 2024 18:43:11 </lastBuildDate>
+        <lastBuildDate>Sun, 02 Jun 2024 01:32:11 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - V14.0.4.0.TGQMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/air/</link>
+            <pubDate>Sat, 01 Jun 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS1.0.3.0.UNUCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
@@ -570,11 +575,6 @@
             <title>Xiaomi Civi 4 Pro (chenfeng) - OS1.0.8.0.UNJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
             <pubDate>Sat, 04 May 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - V14.0.3.0.TGQMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/air/</link>
-            <pubDate>Tue, 30 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Pad SE (xun) - OS1.0.2.0.UMUMIXM</title>
