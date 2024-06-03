@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 03 Jun 2024 11:01:12 </lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 14:26:25 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>MIX Fold 3 (babylon) - OS1.0.6.0.UMVCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
+            <pubDate>Mon, 03 Jun 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.8.0.UNLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
@@ -14,6 +19,11 @@
         <item>
             <title>Xiaomi Pad 5 (nabu) - OS1.0.3.0.TKXCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nabu/</link>
+            <pubDate>Mon, 03 Jun 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - OS1.0.3.0.TKTCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/pissarro/</link>
             <pubDate>Mon, 03 Jun 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -682,11 +692,6 @@
             <pubDate>Mon, 22 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>MIX Fold 3 (babylon) - OS1.0.5.0.UMVCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
-            <pubDate>Mon, 22 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13 (fuxi) - OS1.0.4.0.UMCMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
             <pubDate>Mon, 22 Apr 2024 00:00:00 </pubDate>
@@ -1199,11 +1204,6 @@
         <item>
             <title>Xiaomi Civi (mona) - OS1.0.2.0.TKVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/mona/</link>
-            <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - OS1.0.2.0.TKTCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pissarro/</link>
             <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>

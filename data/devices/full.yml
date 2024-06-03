@@ -5349,6 +5349,16 @@
     android: '13.0'
     miui: V14.1.10.0.TMVCNXM
 - branch: stable
+  date: '2024-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_babylon/releases/download/stable-03.06.2024/fw_babylon_miui_BABYLON_OS1.0.6.0.UMVCNXM_34b143e4d0_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/babylon/fw_babylon_miui_BABYLON_OS1.0.6.0.UMVCNXM_34b143e4d0_14.0.zip
+  filename: fw_babylon_miui_BABYLON_OS1.0.6.0.UMVCNXM_34b143e4d0_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.6.0.UMVCNXM
+- branch: stable
   date: '2024-02-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_babylon/releases/download/stable-02.02.2024/fw_babylon_miui_BABYLON_OS1.0.3.0.UMVCNXM_f3b112cff7_14.0.zip
@@ -49948,6 +49958,16 @@
   versions:
     android: '11.0'
     miui: V12.5.6.0.RKTCNXM
+- branch: stable
+  date: '2024-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-03.06.2024/fw_pissarro_miui_PISSARRO_OS1.0.3.0.TKTCNXM_dbd078ff4c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARRO_OS1.0.3.0.TKTCNXM_dbd078ff4c_13.0.zip
+  filename: fw_pissarro_miui_PISSARRO_OS1.0.3.0.TKTCNXM_dbd078ff4c_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: OS1.0.3.0.TKTCNXM
 - branch: stable
   date: '2022-02-03'
   downloads:

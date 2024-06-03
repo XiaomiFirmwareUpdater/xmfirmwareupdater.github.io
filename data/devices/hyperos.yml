@@ -216,6 +216,12 @@
   version: OS1.0.2.0.UMVCNXM
 - android: '14.0'
   codename: babylon
+  date: '2024-06-03'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.6.0.UMVCNXM_34b143e4d0_14.0.zip
+  name: MIX Fold 3
+  version: OS1.0.6.0.UMVCNXM
+- android: '14.0'
+  codename: babylon
   date: '2024-02-02'
   download: https://bigota.d.miui.com/OS1.0.3.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.3.0.UMVCNXM_f3b112cff7_14.0.zip
   name: MIX Fold 3
@@ -1864,6 +1870,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.TKTINXM/fw_pissarro_miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
   version: OS1.0.2.0.TKTINXM
+- android: '13.0'
+  codename: pissarro
+  date: '2024-06-03'
+  download: https://bigota.d.miui.com/OS1.0.3.0.TKTCNXM/fw_pissarro_miui_PISSARRO_OS1.0.3.0.TKTCNXM_dbd078ff4c_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: OS1.0.3.0.TKTCNXM
 - android: '13.0'
   codename: pissarro
   date: '2024-04-01'

@@ -53,6 +53,7 @@ permalink: /archive/hyperos/star/
                 </thead>
                 <tbody>
                 <tr><td>Mi 11 Ultra Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UKAMIXM</td><td>14.0</td><td>5.2 GB</td><td>2024-05-30</td><td><a href="/hyperos/star/stable beta/OS1.0.2.0.UKAMIXM/">Download</a></td></tr>
+<tr><td>Mi 11 Ultra Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UKAIDXM</td><td>14.0</td><td>5.2 GB</td><td>2024-05-30</td><td><a href="/hyperos/star/stable beta/OS1.0.2.0.UKAIDXM/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UKAEUXM</td><td>14.0</td><td>5.2 GB</td><td>2024-05-20</td><td><a href="/hyperos/star/stable/OS1.0.1.0.UKAEUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UKAEUXM</td><td>14.0</td><td>6.4 GB</td><td>2024-04-30</td><td><a href="/hyperos/star/stable/OS1.0.1.0.UKAEUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra India</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UKAINXM</td><td>14.0</td><td>5.2 GB</td><td>2024-05-16</td><td><a href="/hyperos/star/stable/OS1.0.2.0.UKAINXM/">Download</a></td></tr>
