@@ -2458,6 +2458,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMKCNXM/fw_socrates_miui_SOCRATES_OS1.0.4.0.UMKCNXM_57d472fecf_14.0.zip
   name: Redmi K60 Pro
   version: OS1.0.4.0.UMKCNXM
+- android: '14.0'
+  codename: socrates
+  date: '2024-06-03'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMKCNXM/fw_socrates_miui_SOCRATES_OS1.0.9.0.UMKCNXM_6cbb77eede_14.0.zip
+  name: Redmi K60 Pro
+  version: OS1.0.9.0.UMKCNXM
 - android: '13.0'
   codename: spes
   date: '2024-03-04'
@@ -2506,6 +2512,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UKAINXM/fw_star_miui_STARINGlobal_OS1.0.2.0.UKAINXM_2c501448a3_14.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: OS1.0.2.0.UKAINXM
+- android: '14.0'
+  codename: star
+  date: '2024-06-03'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UKAMIXM/fw_star_miui_STARGlobal_OS1.0.2.0.UKAMIXM_c5850393fb_14.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: OS1.0.2.0.UKAMIXM
 - android: '14.0'
   codename: sunstone
   date: '2024-02-29'
@@ -3130,6 +3142,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UNOINXM/fw_zircon_miui_ZIRCONINGlobal_OS1.0.3.0.UNOINXM_52a1f3fb64_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.3.0.UNOINXM
+- android: '14.0'
+  codename: zircon
+  date: '2024-06-03'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UNOEUXM/fw_zircon_miui_ZIRCONEEAGlobal_OS1.0.5.0.UNOEUXM_080b6e5e3d_14.0.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS1.0.5.0.UNOEUXM
 - android: '14.0'
   codename: zircon
   date: '2024-04-03'

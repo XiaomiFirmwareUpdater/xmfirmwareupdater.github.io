@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 03 Jun 2024 14:26:25 </lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 19:15:47 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>MIX Fold 3 (babylon) - OS1.0.6.0.UMVCNXM</title>
@@ -32,6 +32,16 @@
             <pubDate>Mon, 03 Jun 2024 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi K60 Pro (socrates) - OS1.0.9.0.UMKCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/socrates/</link>
+            <pubDate>Mon, 03 Jun 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - OS1.0.2.0.UKAMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/star/</link>
+            <pubDate>Mon, 03 Jun 2024 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS1.0.6.0.UMQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Mon, 03 Jun 2024 00:00:00 </pubDate>
@@ -44,6 +54,11 @@
         <item>
             <title>Redmi K70/POCO F6 Pro (vermeer) - OS1.0.16.0.UNKCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
+            <pubDate>Mon, 03 Jun 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro+ 5G (zircon) - OS1.0.5.0.UNOEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Mon, 03 Jun 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -539,11 +554,6 @@
         <item>
             <title>Xiaomi 11T Pro (vili) - OS1.0.2.0.UKDINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vili/</link>
-            <pubDate>Thu, 09 May 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro+ 5G (zircon) - OS1.0.4.0.UNOEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Thu, 09 May 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -1052,11 +1062,6 @@
             <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K60 Pro (socrates) - OS1.0.8.0.UMKCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/socrates/</link>
-            <pubDate>Fri, 29 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS1.0.3.0.UMLMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/corot/</link>
             <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
@@ -1335,11 +1340,6 @@
             <title>Redmi Note 10 5G/Redmi Note 11SE/Redmi Note 10T 5G/POCO M3 Pro 5G (camellia) - V14.0.6.0.TKSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/camellia/</link>
             <pubDate>Tue, 17 Oct 2023 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V14.0.5.0.TKAMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/star/</link>
-            <pubDate>Mon, 11 Sep 2023 00:00:00 </pubDate>
         </item>
         <item>
             <title>POCO X3 NFC (surya) - V14.0.5.0.SJGEUXM</title>
