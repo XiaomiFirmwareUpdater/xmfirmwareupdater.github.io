@@ -54,6 +54,7 @@ permalink: /miui/sapphiren/
                 <tbody>
                 <tr><td>Redmi Note 13 NFC EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TNHEUXM</td><td>13.0</td><td>6.8 GB</td><td>2024-02-24</td><td><a href="/miui/sapphiren/stable/V14.0.6.0.TNHEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TNHEUXM</td><td>13.0</td><td>4.6 GB</td><td>2024-03-01</td><td><a href="/miui/sapphiren/stable/V14.0.6.0.TNHEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 NFC Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.7.0.TNHTRXM</td><td>13.0</td><td>6.1 GB</td><td>2024-03-01</td><td><a href="/miui/sapphiren/stable/V14.0.7.0.TNHTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

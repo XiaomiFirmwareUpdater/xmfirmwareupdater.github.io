@@ -575,6 +575,12 @@
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS1.0.5.0.UNLCNXM
 - android: '14.0'
+  codename: duchamp
+  date: '2024-06-03'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UNLEUXM/fw_duchamp_miui_DUCHAMPEEAGlobal_OS1.0.8.0.UNLEUXM_9d2dfcd32e_14.0.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS1.0.8.0.UNLEUXM
+- android: '14.0'
   codename: earth
   date: '2024-01-29'
   download: https://bigota.d.miui.com/OS1.0.1.0.UCVCNXM/fw_earth_miui_EARTH_OS1.0.1.0.UCVCNXM_68302d0f82_14.0.zip
@@ -1636,6 +1642,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.TKXCNXM/fw_nabu_miui_NABU_OS1.0.2.0.TKXCNXM_b0648de1cc_13.0.zip
   name: Xiaomi Pad 5
   version: OS1.0.2.0.TKXCNXM
+- android: '13.0'
+  codename: nabu
+  date: '2024-06-03'
+  download: https://bigota.d.miui.com/OS1.0.3.0.TKXCNXM/fw_nabu_miui_NABU_OS1.0.3.0.TKXCNXM_b4170b92e5_13.0.zip
+  name: Xiaomi Pad 5
+  version: OS1.0.3.0.TKXCNXM
 - android: '14.0'
   codename: nuwa
   date: '2024-03-28'
@@ -1966,6 +1978,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMSINXM/fw_redwood_miui_REDWOODINGlobal_OS1.0.3.0.UMSINXM_c21a661eda_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: OS1.0.3.0.UMSINXM
+- android: '14.0'
+  codename: redwood
+  date: '2024-06-03'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMSINXM/fw_redwood_miui_REDWOODINGlobal_OS1.0.4.0.UMSINXM_40c2aa4795_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.4.0.UMSINXM
 - android: '14.0'
   codename: redwood
   date: '2024-02-03'
@@ -2531,6 +2549,12 @@
   name: Redmi Note 12 5G/Note 12R Pro
   version: OS1.0.5.0.UMQEUXM
 - android: '14.0'
+  codename: sunstone
+  date: '2024-06-03'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.6.0.UMQEUXM_c406abd3d1_14.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: OS1.0.6.0.UMQEUXM
+- android: '14.0'
   codename: taoyao
   date: '2024-03-29'
   download: https://bigota.d.miui.com/OS1.0.5.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.5.0.ULIEUXM_992483824d_14.0.zip
@@ -2566,6 +2590,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.7.0.ULIEUXM_7e715c0a1a_14.0.zip
   name: Xiaomi 12 Lite
   version: OS1.0.7.0.ULIEUXM
+- android: '14.0'
+  codename: taoyao
+  date: '2024-06-03'
+  download: https://bigota.d.miui.com/OS1.0.10.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.10.0.ULIEUXM_68a74ddb9c_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.10.0.ULIEUXM
 - android: '14.0'
   codename: tapas
   date: '2024-04-22'
@@ -2758,6 +2788,12 @@
   download: https://bigota.d.miui.com/OS1.0.14.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.14.0.UNKCNXM_ffcf14bb97_14.0.zip
   name: Redmi K70/POCO F6 Pro
   version: OS1.0.14.0.UNKCNXM
+- android: '14.0'
+  codename: vermeer
+  date: '2024-06-03'
+  download: https://bigota.d.miui.com/OS1.0.16.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.16.0.UNKCNXM_582f1b0e4b_14.0.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS1.0.16.0.UNKCNXM
 - android: '14.0'
   codename: vermeer
   date: '2023-12-01'

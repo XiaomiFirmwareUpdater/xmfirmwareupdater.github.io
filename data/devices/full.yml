@@ -22379,6 +22379,16 @@
     android: '14.0'
     miui: OS1.0.5.0.UNLCNXM
 - branch: stable
+  date: '2024-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-03.06.2024/fw_duchamp_miui_DUCHAMPEEAGlobal_OS1.0.8.0.UNLEUXM_9d2dfcd32e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/duchamp/fw_duchamp_miui_DUCHAMPEEAGlobal_OS1.0.8.0.UNLEUXM_9d2dfcd32e_14.0.zip
+  filename: fw_duchamp_miui_DUCHAMPEEAGlobal_OS1.0.8.0.UNLEUXM_9d2dfcd32e_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.8.0.UNLEUXM
+- branch: stable
   date: '2023-10-31'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-31.10.2023/fw_earth_miui_EARTH_V13.0.10.0.SCVCNXM_d252e1bf0e_12.0.zip
@@ -42338,6 +42348,16 @@
   versions:
     android: '13.0'
     miui: OS1.0.2.0.TKXCNXM
+- branch: stable
+  date: '2024-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-03.06.2024/fw_nabu_miui_NABU_OS1.0.3.0.TKXCNXM_b4170b92e5_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nabu/fw_nabu_miui_NABU_OS1.0.3.0.TKXCNXM_b4170b92e5_13.0.zip
+  filename: fw_nabu_miui_NABU_OS1.0.3.0.TKXCNXM_b4170b92e5_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: OS1.0.3.0.TKXCNXM
 - branch: weekly
   date: '2019-05-31'
   downloads:
@@ -54209,6 +54229,16 @@
     android: '13.0'
     miui: V14.0.2.0.TMSCNXM
 - branch: stable
+  date: '2024-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-03.06.2024/fw_redwood_miui_REDWOODINGlobal_OS1.0.4.0.UMSINXM_40c2aa4795_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/redwood/fw_redwood_miui_REDWOODINGlobal_OS1.0.4.0.UMSINXM_40c2aa4795_14.0.zip
+  filename: fw_redwood_miui_REDWOODINGlobal_OS1.0.4.0.UMSINXM_40c2aa4795_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UMSINXM
+- branch: stable
   date: '2024-02-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-03.02.2024/fw_redwood_miui_REDWOODEEAGlobal_OS1.0.2.0.UMSEUXM_77a01d0e42_14.0.zip
@@ -62539,6 +62569,16 @@
     android: '13.0'
     miui: V14.0.3.0.TMQMIXM
 - branch: stable
+  date: '2024-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-03.06.2024/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.6.0.UMQEUXM_c406abd3d1_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sunstone/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.6.0.UMQEUXM_c406abd3d1_14.0.zip
+  filename: fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.6.0.UMQEUXM_c406abd3d1_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.6.0.UMQEUXM
+- branch: stable
   date: '2022-11-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-01.11.2022/fw_sunstone_miui_SUNSTONE_V13.0.2.0.SMQCNXM_a309cfd83f_12.0.zip
@@ -63688,6 +63728,16 @@
   versions:
     android: '13.0'
     miui: V14.0.4.0.TLIMIXM
+- branch: stable
+  date: '2024-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-03.06.2024/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.10.0.ULIEUXM_68a74ddb9c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.10.0.ULIEUXM_68a74ddb9c_14.0.zip
+  filename: fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.10.0.ULIEUXM_68a74ddb9c_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.10.0.ULIEUXM
 - branch: stable
   date: '2023-07-02'
   downloads:
@@ -71438,6 +71488,16 @@
   versions:
     android: '14.0'
     miui: OS1.0.14.0.UNKCNXM
+- branch: stable
+  date: '2024-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-03.06.2024/fw_vermeer_miui_VERMEER_OS1.0.16.0.UNKCNXM_582f1b0e4b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vermeer/fw_vermeer_miui_VERMEER_OS1.0.16.0.UNKCNXM_582f1b0e4b_14.0.zip
+  filename: fw_vermeer_miui_VERMEER_OS1.0.16.0.UNKCNXM_582f1b0e4b_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.16.0.UNKCNXM
 - branch: stable
   date: '2023-12-01'
   downloads:

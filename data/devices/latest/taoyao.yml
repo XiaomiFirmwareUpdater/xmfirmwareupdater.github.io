@@ -9,12 +9,12 @@
     android: '14.0'
     miui: OS1.0.6.0.ULIMIXM
 - branch: stable
-  date: '2024-05-22'
+  date: '2024-06-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-22.05.2024/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.7.0.ULIEUXM_7e715c0a1a_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.7.0.ULIEUXM_7e715c0a1a_14.0.zip
-  filename: fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.7.0.ULIEUXM_7e715c0a1a_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-03.06.2024/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.10.0.ULIEUXM_68a74ddb9c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.10.0.ULIEUXM_68a74ddb9c_14.0.zip
+  filename: fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.10.0.ULIEUXM_68a74ddb9c_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.7.0.ULIEUXM
+    miui: OS1.0.10.0.ULIEUXM
