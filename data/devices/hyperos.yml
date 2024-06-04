@@ -1852,6 +1852,18 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.5.0.UMZCNXM_aa9825df2f_14.0.zip
   name: Xiaomi Pad 6
   version: OS1.0.5.0.UMZCNXM
+- android: '14.0'
+  codename: pipa
+  date: '2024-06-04'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMZEUXM/fw_pipa_miui_PIPAEEAGlobal_OS1.0.6.0.UMZEUXM_abe5e4ddbd_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.6.0.UMZEUXM
+- android: '14.0'
+  codename: pipa
+  date: '2024-06-04'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMZMIXM/fw_pipa_miui_PIPAGlobal_OS1.0.7.0.UMZMIXM_147ec54539_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.7.0.UMZMIXM
 - android: '13.0'
   codename: pissarro
   date: '2024-03-28'
@@ -2272,6 +2284,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UNXCNXM/fw_sheng_miui_SHENG_OS1.0.5.0.UNXCNXM_c360e030b8_14.0.zip
   name: Xiaomi Pad 6S Pro 12.4
   version: OS1.0.5.0.UNXCNXM
+- android: '14.0'
+  codename: sheng
+  date: '2024-06-04'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UNXMIXM/fw_sheng_miui_SHENGGlobal_OS1.0.2.0.UNXMIXM_0a90d60c44_14.0.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS1.0.2.0.UNXMIXM
 - android: '14.0'
   codename: sheng
   date: '2024-04-03'

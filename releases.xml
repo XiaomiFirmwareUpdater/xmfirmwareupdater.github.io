@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 04 Jun 2024 06:40:14 </lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 15:32:23 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Pad 6 (pipa) - OS1.0.7.0.UMZMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
+            <pubDate>Tue, 04 Jun 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 6 (pipa) - OS1.0.6.0.UMZEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
+            <pubDate>Tue, 04 Jun 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS1.0.2.0.UNXMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
+            <pubDate>Tue, 04 Jun 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>MIX Fold 3 (babylon) - OS1.0.6.0.UMVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
@@ -687,11 +702,6 @@
             <pubDate>Thu, 25 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS1.0.1.0.UNXMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
-            <pubDate>Wed, 24 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13T (aristotle) - OS1.0.4.0.UMFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
             <pubDate>Tue, 23 Apr 2024 00:00:00 </pubDate>
@@ -844,11 +854,6 @@
         <item>
             <title>Xiaomi 13 Pro (nuwa) - OS1.0.5.0.UMBEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Tue, 16 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 (pipa) - OS1.0.5.0.UMZEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
             <pubDate>Tue, 16 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -1099,11 +1104,6 @@
         <item>
             <title>Xiaomi 13 Pro (nuwa) - OS1.0.6.0.UMBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 (pipa) - OS1.0.6.0.UMZMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
             <pubDate>Thu, 28 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
