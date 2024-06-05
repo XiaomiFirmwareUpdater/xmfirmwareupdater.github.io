@@ -41549,6 +41549,16 @@
     android: '12.0'
     miui: V13.0.2.0.SJIMIXM
 - branch: stable
+  date: '2024-06-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moon/releases/download/stable-05.06.2024/fw_moon_miui_MOONGlobal_OS1.0.4.0.UNTMIXM_9fcb952d2b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moon/fw_moon_miui_MOONGlobal_OS1.0.4.0.UNTMIXM_9fcb952d2b_14.0.zip
+  filename: fw_moon_miui_MOONGlobal_OS1.0.4.0.UNTMIXM_9fcb952d2b_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UNTMIXM
+- branch: stable
   date: '2023-08-31'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-31.08.2023/fw_moonstone_miui_MOONSTONEEEAGlobal_V14.0.3.0.TMPEUXM_24a0a7d054_13.0.zip
@@ -59718,6 +59728,16 @@
   versions:
     android: '14.0'
     miui: OS1.0.16.0.UNBCNXM
+- branch: stable
+  date: '2024-06-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-05.06.2024/fw_shennong_miui_SHENNONG_OS1.0.41.0.UNBCNXM_23c053d64b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/shennong/fw_shennong_miui_SHENNONG_OS1.0.41.0.UNBCNXM_23c053d64b_14.0.zip
+  filename: fw_shennong_miui_SHENNONG_OS1.0.41.0.UNBCNXM_23c053d64b_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.41.0.UNBCNXM
 - branch: stable
   date: '2024-04-05'
   downloads:

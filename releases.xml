@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 05 Jun 2024 12:40:00 </lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 20:04:08 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 13/POCO M6 (moon) - OS1.0.4.0.UNTMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/moon/</link>
+            <pubDate>Wed, 05 Jun 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite (shennong) - OS1.0.41.0.UNBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/shennong/</link>
+            <pubDate>Wed, 05 Jun 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi Pad 6 (pipa) - OS1.0.7.0.UMZMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
@@ -654,11 +664,6 @@
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS1.0.4.0.ULFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/diting/</link>
-            <pubDate>Sun, 28 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite (shennong) - OS1.0.39.0.UNBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/shennong/</link>
             <pubDate>Sun, 28 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>

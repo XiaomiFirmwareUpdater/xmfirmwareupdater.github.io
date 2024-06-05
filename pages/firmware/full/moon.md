@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) Firmware Downloads
+title: Redmi 13/POCO M6 (moon) Firmware Downloads
 layout: download
-name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
-codename: xaga
-permalink: /archive/firmware/xaga/
+name: Redmi 13/POCO M6
+codename: moon
+permalink: /archive/firmware/moon/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/xaga/">Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/moon/">Redmi 13/POCO M6</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -26,9 +26,9 @@ permalink: /archive/firmware/xaga/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows all available downloads.
      If you're looking for the latest releases or other downloads check:</p>
-    <a href="/firmware/xaga/" class="card-link">Latest Firmware</a>
-    <a href="/miui/xaga/" class="card-link">MIUI Downloads</a>
-    <a href="/vendor/xaga/" class="card-link">Vendor Downloads</a>
+    <a href="/firmware/moon/" class="card-link">Latest Firmware</a>
+    <a href="/hyperos/moon/" class="card-link">HyperOS Downloads</a>
+    <a href="/vendor/moon/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 
@@ -41,14 +41,14 @@ permalink: /archive/firmware/xaga/
                 <thead class="thead-dark">
                     <tr>
                         <th data-ref="branch">Branch</th>
-                        <th data-ref="miui">MIUI</th>
+                        <th data-ref="miui">HyperOS</th>
                         <th data-ref="android">Android</th>
                         <th data-ref="region">Region</th>
                         <th data-ref="link">Link</th>
                         <th data-ref="updated">Updated</th>
                     </tr>
                 </thead>
-                <script>loadFirmwareDownloads('xaga', 'full')</script>
+                <script>loadFirmwareDownloads('moon', 'full')</script>
             </table>
         </div>
     </div>

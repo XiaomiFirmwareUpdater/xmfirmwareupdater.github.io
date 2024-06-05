@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 13 NFC (sapphiren) MIUI Downloads
+title: Redmi 13/POCO M6 (moon) MIUI Downloads
 layout: download
-name: Redmi Note 13 NFC
-codename: sapphiren
-permalink: /miui/sapphiren/
+name: Redmi 13/POCO M6
+codename: moon
+permalink: /miui/moon/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/sapphiren/">Redmi Note 13 NFC</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/moon/">Redmi 13/POCO M6</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /miui/sapphiren/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/sapphiren/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/sapphiren/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/sapphiren/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/miui/moon/" class="card-link">MIUI Archive</a>
+    <a href="/firmware/moon/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/moon/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,7 +52,8 @@ permalink: /miui/sapphiren/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 13 NFC Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.7.0.TNHTRXM</td><td>13.0</td><td>6.1 GB</td><td>2024-03-01</td><td><a href="/miui/sapphiren/stable/V14.0.7.0.TNHTRXM/">Download</a></td></tr>
+                <tr><td>POCO X5 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.7.0.TMPIDXM</td><td>13.0</td><td>3.7 GB</td><td>2024-01-24</td><td><a href="/miui/moonstone/stable beta/V14.0.7.0.TMPIDXM/">Download</a></td></tr>
+<tr><td>POCO X5 5G Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TMPRUXM</td><td>13.0</td><td>3.5 GB</td><td>2023-06-05</td><td><a href="/miui/moonstone/stable beta/V14.0.3.0.TMPRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

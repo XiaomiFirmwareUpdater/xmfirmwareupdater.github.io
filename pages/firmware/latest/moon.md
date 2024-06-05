@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) Firmware Downloads
+title: Redmi 13/POCO M6 (moon) Firmware Downloads
 layout: download
-name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
-codename: xaga
-permalink: /archive/firmware/xaga/
+name: Redmi 13/POCO M6
+codename: moon
+permalink: /firmware/moon/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/xaga/">Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/moon/">Redmi 13/POCO M6</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -19,36 +19,37 @@ permalink: /archive/firmware/xaga/
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
-### Firmware Archive
+<h3>Latest Firmware <span class="badge badge-light"><a href="/releases.xml" class="icon solid fa-rss">
+<span class="label">RSS</span></a></span></h3>
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-    <p class="card-text">This page shows all available downloads.
-     If you're looking for the latest releases or other downloads check:</p>
-    <a href="/firmware/xaga/" class="card-link">Latest Firmware</a>
-    <a href="/miui/xaga/" class="card-link">MIUI Downloads</a>
-    <a href="/vendor/xaga/" class="card-link">Vendor Downloads</a>
+    <p class="card-text">This page shows the latest firmware downloads only.
+     If you're looking for older releases or other downloads check:</p>
+    <a href="/archive/firmware/moon/" class="card-link">Firmware Archive</a>
+    <a href="/hyperos/moon/" class="card-link">HyperOS Downloads</a>
+    <a href="/vendor/moon/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 
 {%include ads.html%}
 <div class="row justify-content-center">
     <div class="col-10">
+        {%include vli_ad_320x50_1.html%}
         <div class="table-responsive-md" style="margin-top: 25px;">
-            {%include vli_ad_320x50_1.html%}
             <table id="firmware" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
                 <thead class="thead-dark">
                     <tr>
                         <th data-ref="branch">Branch</th>
-                        <th data-ref="miui">MIUI</th>
+                        <th data-ref="miui">HyperOS</th>
                         <th data-ref="android">Android</th>
                         <th data-ref="region">Region</th>
                         <th data-ref="link">Link</th>
                         <th data-ref="updated">Updated</th>
                     </tr>
                 </thead>
-                <script>loadFirmwareDownloads('xaga', 'full')</script>
+                <script>loadFirmwareDownloads('moon', 'latest')</script>
             </table>
         </div>
     </div>
