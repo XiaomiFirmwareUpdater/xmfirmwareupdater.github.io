@@ -52,8 +52,10 @@ permalink: /archive/hyperos/munch/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F4 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.ULMTWXM</td><td>14.0</td><td>4.4 GB</td><td>2024-05-28</td><td><a href="/hyperos/munch/stable beta/OS1.0.1.0.ULMTWXM/">Download</a></td></tr>
-<tr><td>POCO F4 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.ULMTRXM</td><td>14.0</td><td>4.6 GB</td><td>2024-05-27</td><td><a href="/hyperos/munch/stable beta/OS1.0.1.0.ULMTRXM/">Download</a></td></tr>
+                <tr><td>POCO F4 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.ULMTWXM</td><td>14.0</td><td>4.4 GB</td><td>2024-05-28</td><td><a href="/hyperos/munch/stable/OS1.0.1.0.ULMTWXM/">Download</a></td></tr>
+<tr><td>POCO F4 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.ULMTWXM</td><td>14.0</td><td>5.6 GB</td><td>2024-05-16</td><td><a href="/hyperos/munch/stable/OS1.0.1.0.ULMTWXM/">Download</a></td></tr>
+<tr><td>POCO F4 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.ULMTRXM</td><td>14.0</td><td>4.6 GB</td><td>2024-05-27</td><td><a href="/hyperos/munch/stable/OS1.0.1.0.ULMTRXM/">Download</a></td></tr>
+<tr><td>POCO F4 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.ULMTRXM</td><td>14.0</td><td>6.0 GB</td><td>2024-05-14</td><td><a href="/hyperos/munch/stable/OS1.0.1.0.ULMTRXM/">Download</a></td></tr>
 <tr><td>POCO F4 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.ULMRUXM</td><td>14.0</td><td>4.6 GB</td><td>2024-05-23</td><td><a href="/hyperos/munch/stable/OS1.0.1.0.ULMRUXM/">Download</a></td></tr>
 <tr><td>POCO F4 Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.ULMRUXM</td><td>14.0</td><td>6.1 GB</td><td>2024-05-14</td><td><a href="/hyperos/munch/stable/OS1.0.1.0.ULMRUXM/">Download</a></td></tr>
 <tr><td>POCO F4 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.ULMIDXM</td><td>14.0</td><td>4.6 GB</td><td>2024-05-14</td><td><a href="/hyperos/munch/stable beta/OS1.0.1.0.ULMIDXM/">Download</a></td></tr>

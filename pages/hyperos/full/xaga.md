@@ -52,8 +52,10 @@ permalink: /archive/hyperos/xaga/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50i / Pro India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.ULOINXM</td><td>14.0</td><td>5.3 GB</td><td>2024-05-22</td><td><a href="/hyperos/xaga/stable beta/OS1.0.1.0.ULOINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.ULOCNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-05-20</td><td><a href="/hyperos/xaga/stable beta/OS1.0.2.0.ULOCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K50i / Pro India</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.ULOINXM</td><td>14.0</td><td>5.3 GB</td><td>2024-05-22</td><td><a href="/hyperos/xaga/stable/OS1.0.1.0.ULOINXM/">Download</a></td></tr>
+<tr><td>Redmi K50i / Pro India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.ULOINXM</td><td>14.0</td><td>6.5 GB</td><td>2024-05-06</td><td><a href="/hyperos/xaga/stable/OS1.0.1.0.ULOINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULOCNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-05-20</td><td><a href="/hyperos/xaga/stable/OS1.0.2.0.ULOCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULOCNXM</td><td>14.0</td><td>7.2 GB</td><td>2024-05-15</td><td><a href="/hyperos/xaga/stable/OS1.0.2.0.ULOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.ULOMIXM</td><td>14.0</td><td>5.3 GB</td><td>2024-05-14</td><td><a href="/hyperos/xaga/stable/OS1.0.1.0.ULOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.ULOMIXM</td><td>14.0</td><td>7.4 GB</td><td>2024-05-06</td><td><a href="/hyperos/xaga/stable/OS1.0.1.0.ULOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULOEUXM</td><td>14.0</td><td>5.3 GB</td><td>2024-05-14</td><td><a href="/hyperos/xaga/stable/OS1.0.2.0.ULOEUXM/">Download</a></td></tr>
