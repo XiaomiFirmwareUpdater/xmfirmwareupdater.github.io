@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 06 Jun 2024 06:40:53 </lastBuildDate>
+        <lastBuildDate>Thu, 06 Jun 2024 14:14:01 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.8.0.UNLINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Thu, 06 Jun 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A2/A2+/POCO C51 (water) - V14.0.15.0.TGOEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/water/</link>
+            <pubDate>Thu, 06 Jun 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 13/POCO M6 (moon) - OS1.0.4.0.UNTMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moon/</link>
@@ -1132,11 +1142,6 @@
             <pubDate>Thu, 21 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi A2/A2+/POCO C51 (water) - V14.0.14.0.TGOEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/water/</link>
-            <pubDate>Thu, 21 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12 Pro (zeus) - OS1.0.3.0.ULBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Thu, 21 Mar 2024 00:00:00 </pubDate>
@@ -1165,11 +1170,6 @@
             <title>POCO C40 (frost) - V13.0.12.0.RGFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/frost/</link>
             <pubDate>Sun, 17 Mar 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.7.0.UNLINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Sat, 16 Mar 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>POCO C40 (frost) - V13.0.26.0.RGFMIXM</title>

@@ -22359,6 +22359,16 @@
     android: '14.0'
     miui: OS1.0.6.0.UNLINXM
 - branch: stable
+  date: '2024-06-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-06.06.2024/fw_duchamp_miui_DUCHAMPINGlobal_OS1.0.8.0.UNLINXM_b6457b4ca2_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/duchamp/fw_duchamp_miui_DUCHAMPINGlobal_OS1.0.8.0.UNLINXM_b6457b4ca2_14.0.zip
+  filename: fw_duchamp_miui_DUCHAMPINGlobal_OS1.0.8.0.UNLINXM_b6457b4ca2_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.8.0.UNLINXM
+- branch: stable
   date: '2024-03-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-06.03.2024/fw_duchamp_miui_DUCHAMPEEAGlobal_OS1.0.6.0.UNLEUXM_11c176bf3c_14.0.zip
@@ -74048,6 +74058,16 @@
   versions:
     android: '13.0'
     miui: V14.0.5.0.TGOINXM
+- branch: stable
+  date: '2024-06-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-06.06.2024/fw_water_miui_WATEREEAGlobal_V14.0.15.0.TGOEUXM_e428ae00e4_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATEREEAGlobal_V14.0.15.0.TGOEUXM_e428ae00e4_13.0.zip
+  filename: fw_water_miui_WATEREEAGlobal_V14.0.15.0.TGOEUXM_e428ae00e4_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.15.0.TGOEUXM
 - branch: stable
   date: '2023-05-05'
   downloads:
