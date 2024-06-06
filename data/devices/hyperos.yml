@@ -197,6 +197,12 @@
   name: Xiaomi 14 Ultra
   version: OS1.0.3.0.UNAINXM
 - android: '14.0'
+  codename: aurora
+  date: '2024-06-06'
+  download: https://bigota.d.miui.com/OS1.0.11.3.UNACNXM/fw_aurora_miui_AURORA_OS1.0.11.3.UNACNXM_e5360f6279_14.0.zip
+  name: Xiaomi 14 Ultra
+  version: OS1.0.11.3.UNACNXM
+- android: '14.0'
   codename: babylon
   date: '2024-04-22'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.5.0.UMVCNXM_8635874571_14.0.zip
@@ -1798,6 +1804,12 @@
   download: https://bigota.d.miui.com/OS1.0.13.0.UNPCNXM/fw_peridot_miui_PERIDOT_OS1.0.13.0.UNPCNXM_713afcfba9_14.0.zip
   name: Redmi Turbo 3/POCO F6
   version: OS1.0.13.0.UNPCNXM
+- android: '14.0'
+  codename: peridot
+  date: '2024-06-06'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNPMIXM/fw_peridot_miui_PERIDOTGlobal_OS1.0.4.0.UNPMIXM_a6bae69297_14.0.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS1.0.4.0.UNPMIXM
 - android: '14.0'
   codename: pipa
   date: '2024-01-30'

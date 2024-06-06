@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 06 Jun 2024 14:14:01 </lastBuildDate>
+        <lastBuildDate>Thu, 06 Jun 2024 20:22:00 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS1.0.11.3.UNACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Thu, 06 Jun 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS1.0.8.0.UNLINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Thu, 06 Jun 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 3/POCO F6 (peridot) - OS1.0.4.0.UNPMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
             <pubDate>Thu, 06 Jun 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -132,11 +142,6 @@
             <pubDate>Thu, 30 May 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS1.0.11.0.UNACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Wed, 29 May 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS1.0.6.0.UNQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gold/</link>
             <pubDate>Wed, 29 May 2024 00:00:00 </pubDate>
@@ -239,11 +244,6 @@
         <item>
             <title>Redmi K40S/POCO F4 (munch) - OS1.0.1.0.ULMINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/munch/</link>
-            <pubDate>Thu, 23 May 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 3/POCO F6 (peridot) - OS1.0.3.0.UNPMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
             <pubDate>Thu, 23 May 2024 00:00:00 </pubDate>
         </item>
         <item>
