@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 08 Jun 2024 12:40:29 </lastBuildDate>
+        <lastBuildDate>Sat, 08 Jun 2024 18:49:24 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.4.0.UMOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Sat, 08 Jun 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi Civi 4 Pro (chenfeng) - OS1.0.10.0.UNJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
@@ -874,11 +879,6 @@
         <item>
             <title>Xiaomi 13 Pro (nuwa) - OS1.0.5.0.UMBEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Tue, 16 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.3.0.UMOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Tue, 16 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>

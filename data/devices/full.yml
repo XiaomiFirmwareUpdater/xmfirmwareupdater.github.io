@@ -57069,6 +57069,16 @@
     android: '13.0'
     miui: V14.0.2.0.TMOCNXM
 - branch: stable
+  date: '2024-06-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-08.06.2024/fw_ruby_miui_RUBYGlobal_OS1.0.4.0.UMOMIXM_46e945c5b0_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruby/fw_ruby_miui_RUBYGlobal_OS1.0.4.0.UMOMIXM_46e945c5b0_14.0.zip
+  filename: fw_ruby_miui_RUBYGlobal_OS1.0.4.0.UMOMIXM_46e945c5b0_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UMOMIXM
+- branch: stable
   date: '2023-05-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-08.05.2023/fw_ruby_miui_RUBYEEAGlobal_V14.0.10.0.SMOEUXM_fa5882d233_12.0.zip
