@@ -2484,6 +2484,12 @@
   version: OS1.0.5.0.UMWCNXM
 - android: '14.0'
   codename: sky
+  date: '2024-06-11'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMWMIXM/fw_sky_miui_SKYGlobal_OS1.0.5.0.UMWMIXM_82e7589f64_14.0.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS1.0.5.0.UMWMIXM
+- android: '14.0'
+  codename: sky
   date: '2024-02-05'
   download: https://bigota.d.miui.com/OS1.0.1.0.UMWINXM/fw_sky_miui_SKYINGlobal_OS1.0.1.0.UMWINXM_f5443ea0c8_14.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
@@ -3274,3 +3280,9 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULRCNXM/fw_zizhan_miui_ZIZHAN_OS1.0.3.0.ULRCNXM_8d7d994eb5_14.0.zip
   name: Xiaomi MIX Fold 2
   version: OS1.0.3.0.ULRCNXM
+- android: '14.0'
+  codename: zizhan
+  date: '2024-06-11'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULRCNXM/fw_zizhan_miui_ZIZHAN_OS1.0.5.0.ULRCNXM_fd3cf395bc_14.0.zip
+  name: Xiaomi MIX Fold 2
+  version: OS1.0.5.0.ULRCNXM

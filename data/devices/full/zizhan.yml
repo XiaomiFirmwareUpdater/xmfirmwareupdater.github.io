@@ -58,3 +58,13 @@
   versions:
     android: '13.0'
     miui: V14.0.14.0.TLRCNXM
+- branch: stable
+  date: '2024-06-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zizhan/releases/download/stable-11.06.2024/fw_zizhan_miui_ZIZHAN_OS1.0.5.0.ULRCNXM_fd3cf395bc_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zizhan/fw_zizhan_miui_ZIZHAN_OS1.0.5.0.ULRCNXM_fd3cf395bc_14.0.zip
+  filename: fw_zizhan_miui_ZIZHAN_OS1.0.5.0.ULRCNXM_fd3cf395bc_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.5.0.ULRCNXM

@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-04-07'
+  date: '2024-06-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-07.04.2024/fw_fog_miui_FOGGlobal_V14.0.6.0.TGEMIXM_6e33441391_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fog/fw_fog_miui_FOGGlobal_V14.0.6.0.TGEMIXM_6e33441391_13.0.zip
-  filename: fw_fog_miui_FOGGlobal_V14.0.6.0.TGEMIXM_6e33441391_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-11.06.2024/fw_fog_miui_FOGGlobal_V14.0.7.0.TGEMIXM_456a385a29_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fog/fw_fog_miui_FOGGlobal_V14.0.7.0.TGEMIXM_456a385a29_13.0.zip
+  filename: fw_fog_miui_FOGGlobal_V14.0.7.0.TGEMIXM_456a385a29_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.6.0.TGEMIXM
+    miui: V14.0.7.0.TGEMIXM
 - branch: stable
   date: '2024-03-18'
   downloads:

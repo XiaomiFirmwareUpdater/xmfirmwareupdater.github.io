@@ -55,6 +55,7 @@ permalink: /hyperos/zizhan/
                 <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.ULRCNXM</td><td>14.0</td><td>7.6 GB</td><td>2024-02-29</td><td><a href="/hyperos/zizhan/stable/OS1.0.3.0.ULRCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.ULRCNXM</td><td>14.0</td><td>5.9 GB</td><td>2024-03-18</td><td><a href="/hyperos/zizhan/stable/OS1.0.3.0.ULRCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.9 GB</td><td>2024-01-12</td><td><a href="/hyperos/zizhan/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi MIX Fold 2 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.ULRCNXM</td><td>14.0</td><td>5.9 GB</td><td>2024-06-06</td><td><a href="/hyperos/zizhan/stable beta/OS1.0.5.0.ULRCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
