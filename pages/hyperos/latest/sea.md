@@ -58,6 +58,7 @@ permalink: /hyperos/sea/
 <tr><td>Redmi Note 12S Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UHZMIXM</td><td>14.0</td><td>4.3 GB</td><td>2024-04-25</td><td><a href="/hyperos/sea/stable/OS1.0.6.0.UHZMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12S Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UHZRUXM</td><td>14.0</td><td>6.8 GB</td><td>2024-03-06</td><td><a href="/hyperos/sea/stable/OS1.0.2.0.UHZRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12S Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UHZRUXM</td><td>14.0</td><td>4.3 GB</td><td>2024-03-25</td><td><a href="/hyperos/sea/stable/OS1.0.2.0.UHZRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12S Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UHZRUXM</td><td>14.0</td><td>4.3 GB</td><td>2024-06-04</td><td><a href="/hyperos/sea/stable beta/OS1.0.3.0.UHZRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12S Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UHZTWXM</td><td>14.0</td><td>5.7 GB</td><td>2024-03-12</td><td><a href="/hyperos/sea/stable/OS1.0.2.0.UHZTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12S Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UHZTWXM</td><td>14.0</td><td>4.2 GB</td><td>2024-04-01</td><td><a href="/hyperos/sea/stable/OS1.0.2.0.UHZTWXM/">Download</a></td></tr>
 

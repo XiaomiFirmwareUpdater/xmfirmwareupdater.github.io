@@ -52,7 +52,8 @@ permalink: /archive/hyperos/ziyi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 13 Lite Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.ULLTRXM</td><td>14.0</td><td>5.2 GB</td><td>2024-05-30</td><td><a href="/hyperos/ziyi/stable/OS1.0.4.0.ULLTRXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Civi 2 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.ULLCNXM</td><td>14.0</td><td>5.7 GB</td><td>2024-06-07</td><td><a href="/hyperos/ziyi/stable beta/OS1.0.4.0.ULLCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Lite Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.ULLTRXM</td><td>14.0</td><td>5.2 GB</td><td>2024-05-30</td><td><a href="/hyperos/ziyi/stable/OS1.0.4.0.ULLTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Lite Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.ULLTRXM</td><td>14.0</td><td>6.9 GB</td><td>2024-05-20</td><td><a href="/hyperos/ziyi/stable/OS1.0.4.0.ULLTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.ULLTWXM</td><td>14.0</td><td>5.2 GB</td><td>2024-05-30</td><td><a href="/hyperos/ziyi/stable/OS1.0.4.0.ULLTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.ULLTWXM</td><td>14.0</td><td>6.6 GB</td><td>2024-05-20</td><td><a href="/hyperos/ziyi/stable/OS1.0.4.0.ULLTWXM/">Download</a></td></tr>

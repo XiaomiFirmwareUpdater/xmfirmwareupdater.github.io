@@ -444,6 +444,12 @@
   version: V14.0.1.0.TKPMIXM
 - android: '13.0'
   codename: chopin
+  date: '2024-06-11'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKPMIXM/fw_chopin_miui_CHOPINGlobal_V14.0.6.0.TKPMIXM_d809eee4ce_13.0.zip
+  name: Redmi Note 10 Pro 5G/POCO X3 GT
+  version: V14.0.6.0.TKPMIXM
+- android: '13.0'
+  codename: chopin
   date: '2023-12-05'
   download: https://bigota.d.miui.com/V14.0.5.0.TKPMIXM/fw_chopin_miui_CHOPINGlobal_V14.0.5.0.TKPMIXM_d4d24b2906_13.0.zip
   name: Redmi Note 10 Pro 5G/POCO X3 GT

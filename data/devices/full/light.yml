@@ -409,6 +409,26 @@
     android: '13.0'
     miui: V14.0.3.0.TLSEUXM
 - branch: stable
+  date: '2024-06-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-11.06.2024/fw_light_miui_LIGHTEEAGlobal_OS1.0.4.0.ULSEUXM_8390873ef5_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/light/fw_light_miui_LIGHTEEAGlobal_OS1.0.4.0.ULSEUXM_8390873ef5_14.0.zip
+  filename: fw_light_miui_LIGHTEEAGlobal_OS1.0.4.0.ULSEUXM_8390873ef5_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.ULSEUXM
+- branch: stable
+  date: '2024-06-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-11.06.2024/fw_light_miui_LIGHTGlobal_OS1.0.5.0.ULSMIXM_da93a8f1c5_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/light/fw_light_miui_LIGHTGlobal_OS1.0.5.0.ULSMIXM_da93a8f1c5_14.0.zip
+  filename: fw_light_miui_LIGHTGlobal_OS1.0.5.0.ULSMIXM_da93a8f1c5_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.5.0.ULSMIXM
+- branch: stable
   date: '2022-05-11'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-11.05.2022/fw_light_miui_LIGHTINGlobal_V13.0.2.0.SLSINXM_5b2817b326_12.0.zip

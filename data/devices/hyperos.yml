@@ -473,6 +473,18 @@
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: OS1.0.2.0.ULFEUXM
 - android: '14.0'
+  codename: dizi
+  date: '2024-06-11'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UNSMIXM/fw_dizi_miui_DIZIGlobal_OS1.0.1.0.UNSMIXM_61ffc2b631_14.0.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS1.0.1.0.UNSMIXM
+- android: '14.0'
+  codename: dizi
+  date: '2024-06-11'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UNSCNXM/fw_dizi_miui_DIZI_OS1.0.12.0.UNSCNXM_a03b3ccfc3_14.0.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS1.0.12.0.UNSCNXM
+- android: '14.0'
   codename: duchamp
   date: '2023-11-30'
   download: https://bigota.d.miui.com/OS1.0.4.0.UNLCNXM/fw_duchamp_miui_DUCHAMP_OS1.0.4.0.UNLCNXM_6e77720de1_14.0.zip
@@ -568,6 +580,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UNLCNXM/fw_duchamp_miui_DUCHAMP_OS1.0.8.0.UNLCNXM_9062417d30_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS1.0.8.0.UNLCNXM
+- android: '14.0'
+  codename: duchamp
+  date: '2024-06-11'
+  download: https://bigota.d.miui.com/OS1.0.15.0.UNLCNXM/fw_duchamp_miui_DUCHAMP_OS1.0.15.0.UNLCNXM_19884aa99e_14.0.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS1.0.15.0.UNLCNXM
 - android: '14.0'
   codename: duchamp
   date: '2024-03-11'
@@ -1324,6 +1342,18 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.ULSCNXM/fw_light_miui_LIGHT_OS1.0.5.0.ULSCNXM_d259f29a72_14.0.zip
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
   version: OS1.0.5.0.ULSCNXM
+- android: '14.0'
+  codename: light
+  date: '2024-06-11'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULSEUXM/fw_light_miui_LIGHTEEAGlobal_OS1.0.4.0.ULSEUXM_8390873ef5_14.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: OS1.0.4.0.ULSEUXM
+- android: '14.0'
+  codename: light
+  date: '2024-06-11'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULSMIXM/fw_light_miui_LIGHTGlobal_OS1.0.5.0.ULSMIXM_da93a8f1c5_14.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: OS1.0.5.0.ULSMIXM
 - android: '14.0'
   codename: light
   date: '2024-02-02'
@@ -2212,6 +2242,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMOCNXM/fw_ruby_miui_RUBY_OS1.0.4.0.UMOCNXM_14c0492905_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: OS1.0.4.0.UMOCNXM
+- android: '14.0'
+  codename: ruby
+  date: '2024-06-11'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMOEUXM/fw_ruby_miui_RUBYEEAGlobal_OS1.0.4.0.UMOEUXM_686c61a682_14.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS1.0.4.0.UMOEUXM
 - android: '14.0'
   codename: ruby
   date: '2024-03-11'
