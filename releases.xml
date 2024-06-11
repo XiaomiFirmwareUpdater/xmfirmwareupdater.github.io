@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 11 Jun 2024 16:15:16 </lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 20:14:43 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.6.0.TKPMIXM</title>
@@ -32,6 +32,11 @@
             <pubDate>Tue, 11 Jun 2024 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi 13C/POCO C65 (gale) - OS1.0.2.0.UGPMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/gale/</link>
+            <pubDate>Tue, 11 Jun 2024 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - OS1.0.5.0.ULSMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/light/</link>
             <pubDate>Tue, 11 Jun 2024 00:00:00 </pubDate>
@@ -49,6 +54,16 @@
         <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS1.0.5.0.UMWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sky/</link>
+            <pubDate>Tue, 11 Jun 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 4G NFC (topaz) - OS1.0.10.0.UMGEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/topaz/</link>
+            <pubDate>Tue, 11 Jun 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS1.0.4.0.ULLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Tue, 11 Jun 2024 00:00:00 </pubDate>
         </item>
         <item>
@@ -762,11 +777,6 @@
             <pubDate>Fri, 26 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 4G NFC (topaz) - OS1.0.9.0.UMGEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/topaz/</link>
-            <pubDate>Fri, 26 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS1.0.4.0.UNRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
             <pubDate>Thu, 25 Apr 2024 00:00:00 </pubDate>
@@ -852,11 +862,6 @@
             <pubDate>Sat, 20 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 13C/POCO C65 (gale) - V14.0.9.0.TGPMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/gale/</link>
-            <pubDate>Fri, 19 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS1.0.3.0.UKOINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
             <pubDate>Fri, 19 Apr 2024 00:00:00 </pubDate>
@@ -904,11 +909,6 @@
         <item>
             <title>Xiaomi 12S Ultra (thor) - OS1.0.5.0.ULACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/thor/</link>
-            <pubDate>Thu, 18 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS1.0.3.0.ULLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Thu, 18 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>

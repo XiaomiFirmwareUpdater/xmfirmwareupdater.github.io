@@ -9,15 +9,15 @@
     android: '14.0'
     miui: OS1.0.5.0.ULLMIXM
 - branch: stable
-  date: '2024-04-18'
+  date: '2024-06-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-18.04.2024/fw_ziyi_miui_ZIYI_OS1.0.3.0.ULLCNXM_cc6915aa21_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ziyi/fw_ziyi_miui_ZIYI_OS1.0.3.0.ULLCNXM_cc6915aa21_14.0.zip
-  filename: fw_ziyi_miui_ZIYI_OS1.0.3.0.ULLCNXM_cc6915aa21_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-11.06.2024/fw_ziyi_miui_ZIYI_OS1.0.4.0.ULLCNXM_9c918c8a0a_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ziyi/fw_ziyi_miui_ZIYI_OS1.0.4.0.ULLCNXM_9c918c8a0a_14.0.zip
+  filename: fw_ziyi_miui_ZIYI_OS1.0.4.0.ULLCNXM_9c918c8a0a_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.3.0.ULLCNXM
+    miui: OS1.0.4.0.ULLCNXM
 - branch: stable
   date: '2024-05-21'
   downloads:

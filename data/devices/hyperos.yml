@@ -882,6 +882,12 @@
   version: OS1.0.1.0.UGPMIXM
 - android: '14.0'
   codename: gale
+  date: '2024-06-11'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UGPMIXM/fw_gale_miui_GALEGlobal_OS1.0.2.0.UGPMIXM_a69fb77e05_14.0.zip
+  name: Redmi 13C/POCO C65
+  version: OS1.0.2.0.UGPMIXM
+- android: '14.0'
+  codename: gale
   date: '2024-05-06'
   download: https://bigota.d.miui.com/OS1.0.2.0.UGPEUXM/fw_gale_miui_GALEEEAGlobal_OS1.0.2.0.UGPEUXM_b5b926d640_14.0.zip
   name: Redmi 13C/POCO C65
@@ -2826,6 +2832,12 @@
   version: OS1.0.2.0.UMGMIXM
 - android: '14.0'
   codename: topaz
+  date: '2024-06-11'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UMGEUXM/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.10.0.UMGEUXM_433ae25104_14.0.zip
+  name: Redmi Note 12 4G NFC
+  version: OS1.0.10.0.UMGEUXM
+- android: '14.0'
+  codename: topaz
   date: '2024-03-11'
   download: https://bigota.d.miui.com/OS1.0.6.0.UMGEUXM/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.6.0.UMGEUXM_dfadeededc_14.0.zip
   name: Redmi Note 12 4G NFC
@@ -3292,6 +3304,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULLCNXM/fw_ziyi_miui_ZIYI_OS1.0.3.0.ULLCNXM_cc6915aa21_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.3.0.ULLCNXM
+- android: '14.0'
+  codename: ziyi
+  date: '2024-06-11'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULLCNXM/fw_ziyi_miui_ZIYI_OS1.0.4.0.ULLCNXM_9c918c8a0a_14.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS1.0.4.0.ULLCNXM
 - android: '14.0'
   codename: ziyi
   date: '2024-04-10'
