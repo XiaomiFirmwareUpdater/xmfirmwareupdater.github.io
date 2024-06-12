@@ -53,6 +53,7 @@ permalink: /miui/emerald/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TNFIDXM</td><td>13.0</td><td>6.6 GB</td><td>2024-02-19</td><td><a href="/miui/emerald/stable/V14.0.5.0.TNFIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TNFTRXM</td><td>13.0</td><td>6.2 GB</td><td>2024-03-04</td><td><a href="/miui/emerald/stable/V14.0.4.0.TNFTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

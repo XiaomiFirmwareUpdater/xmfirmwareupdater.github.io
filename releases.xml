@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 12 Jun 2024 00:41:44 </lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 07:26:10 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 Pro 4G/POCO M6 Pro (emerald) - OS1.0.2.0.UNFEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
+            <pubDate>Wed, 12 Jun 2024 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.6.0.TKPMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chopin/</link>
@@ -935,11 +940,6 @@
             <title>Redmi Pad (yunluo) - OS1.0.2.0.ULYINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/yunluo/</link>
             <pubDate>Tue, 16 Apr 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro 4G/POCO M6 Pro (emerald) - OS1.0.1.0.UNFEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
-            <pubDate>Mon, 15 Apr 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - OS1.0.1.0.TGBINXM</title>
