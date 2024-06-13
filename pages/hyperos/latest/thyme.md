@@ -54,6 +54,7 @@ permalink: /hyperos/thyme/
                 <tbody>
                 <tr><td>Mi 10S China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.TGACNXM</td><td>13.0</td><td>6.0 GB</td><td>2024-04-18</td><td><a href="/hyperos/thyme/stable/OS1.0.3.0.TGACNXM/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.TGACNXM</td><td>13.0</td><td>4.2 GB</td><td>2024-04-22</td><td><a href="/hyperos/thyme/stable/OS1.0.3.0.TGACNXM/">Download</a></td></tr>
+<tr><td>Mi 10S China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.TGACNXM</td><td>13.0</td><td>4.2 GB</td><td>2024-06-12</td><td><a href="/hyperos/thyme/stable beta/OS1.0.4.0.TGACNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

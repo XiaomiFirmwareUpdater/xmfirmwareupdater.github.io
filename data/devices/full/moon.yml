@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2024-06-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moon/releases/download/stable-12.06.2024/fw_moon_miui_MOONEEAGlobal_OS1.0.1.0.UNTEUXM_da6a18f056_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moon/fw_moon_miui_MOONEEAGlobal_OS1.0.1.0.UNTEUXM_da6a18f056_14.0.zip
+  filename: fw_moon_miui_MOONEEAGlobal_OS1.0.1.0.UNTEUXM_da6a18f056_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.1.0.UNTEUXM
+- branch: stable
   date: '2024-06-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moon/releases/download/stable-05.06.2024/fw_moon_miui_MOONGlobal_OS1.0.4.0.UNTMIXM_9fcb952d2b_14.0.zip

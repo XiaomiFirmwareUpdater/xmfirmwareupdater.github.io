@@ -3,7 +3,7 @@ title: Xiaomi Pad 5 China HyperOS OS1.0.3.0.TKXCNXM Update
 layout: download
 name: Xiaomi Pad 5 China
 codename: nabu
-permalink: /hyperos/nabu/stable beta/OS1.0.3.0.TKXCNXM/
+permalink: /hyperos/nabu/stable/OS1.0.3.0.TKXCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/nabu/stable beta/OS1.0.3.0.TKXCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.3.0.TKXCNXM Stable Beta Official Update for Xiaomi Pad 5 China (nabu)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.3.0.TKXCNXM Stable Official Update for Xiaomi Pad 5 China (nabu)</h3>
     <h5>This page shows the OS1.0.3.0.TKXCNXM update only. If you're looking for other updates check
         <a href="/hyperos/nabu/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/nabu/stable beta/OS1.0.3.0.TKXCNXM/
                     <h5><b>Version: </b>OS1.0.3.0.TKXCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/nabu/stable beta/OS1.0.3.0.TKXCNXM/
                             aria-expanded="false" aria-controls="nabu_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="nabu_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated Android Security Patch to March 2024. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi Pad 5 China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/nabu/" target="_blank">nabu</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.3.0.TKXCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>5.2 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-05-16</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">nabu_images_OS1.0.3.0.TKXCNXM_20240516.0000.00_13.0_cn_ff15a7adfc.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ff15a7adfc55be0a38b5c7862ccb23a4</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.3.0.TKXCNXM/nabu_images_OS1.0.3.0.TKXCNXM_20240516.0000.00_13.0_cn_ff15a7adfc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.3.0.TKXCNXM/nabu_images_OS1.0.3.0.TKXCNXM_20240516.0000.00_13.0_cn_ff15a7adfc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.3.0.TKXCNXM/nabu_images_OS1.0.3.0.TKXCNXM_20240516.0000.00_13.0_cn_ff15a7adfc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.TKXCNXM/nabu_images_OS1.0.3.0.TKXCNXM_20240516.0000.00_13.0_cn_ff15a7adfc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.3.0.TKXCNXM/nabu_images_OS1.0.3.0.TKXCNXM_20240516.0000.00_13.0_cn_ff15a7adfc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#nabu_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="nabu_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="nabu_2_changelog">
                         <p id="changelog_text">[System]<br>Updated Android Security Patch to March 2024. Increased system security.</p>
                     </div>
                 </li>
