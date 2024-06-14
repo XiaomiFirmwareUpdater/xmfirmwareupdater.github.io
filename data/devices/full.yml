@@ -41759,6 +41759,16 @@
     android: '12.0'
     miui: V13.0.2.0.SJIMIXM
 - branch: stable
+  date: '2024-06-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moon/releases/download/stable-14.06.2024/fw_moon_miui_MOONEEAGlobal_OS1.0.2.0.UNTEUXM_9d21153028_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moon/fw_moon_miui_MOONEEAGlobal_OS1.0.2.0.UNTEUXM_9d21153028_14.0.zip
+  filename: fw_moon_miui_MOONEEAGlobal_OS1.0.2.0.UNTEUXM_9d21153028_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.UNTEUXM
+- branch: stable
   date: '2024-06-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moon/releases/download/stable-12.06.2024/fw_moon_miui_MOONEEAGlobal_OS1.0.1.0.UNTEUXM_da6a18f056_14.0.zip
@@ -64228,6 +64238,16 @@
   versions:
     android: '14.0'
     miui: OS1.0.1.0.UMTINXM
+- branch: stable
+  date: '2024-06-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-14.06.2024/fw_tapas_miui_TAPASGlobal_OS1.0.8.0.UMTMIXM_637c30848c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/tapas/fw_tapas_miui_TAPASGlobal_OS1.0.8.0.UMTMIXM_637c30848c_14.0.zip
+  filename: fw_tapas_miui_TAPASGlobal_OS1.0.8.0.UMTMIXM_637c30848c_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.8.0.UMTMIXM
 - branch: stable
   date: '2024-05-13'
   downloads:
