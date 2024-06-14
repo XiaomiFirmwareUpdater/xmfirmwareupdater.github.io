@@ -52,8 +52,10 @@ permalink: /archive/hyperos/pipa/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 6 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.UMZMIXM</td><td>14.0</td><td>4.3 GB</td><td>2024-06-01</td><td><a href="/hyperos/pipa/stable beta/OS1.0.7.0.UMZMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.UMZEUXM</td><td>14.0</td><td>4.3 GB</td><td>2024-06-01</td><td><a href="/hyperos/pipa/stable beta/OS1.0.6.0.UMZEUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 6 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UMZMIXM</td><td>14.0</td><td>4.3 GB</td><td>2024-06-01</td><td><a href="/hyperos/pipa/stable/OS1.0.7.0.UMZMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UMZMIXM</td><td>14.0</td><td>5.0 GB</td><td>2024-05-22</td><td><a href="/hyperos/pipa/stable/OS1.0.7.0.UMZMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UMZEUXM</td><td>14.0</td><td>4.3 GB</td><td>2024-06-01</td><td><a href="/hyperos/pipa/stable/OS1.0.6.0.UMZEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UMZEUXM</td><td>14.0</td><td>5.0 GB</td><td>2024-05-22</td><td><a href="/hyperos/pipa/stable/OS1.0.6.0.UMZEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMZTRXM</td><td>14.0</td><td>4.3 GB</td><td>2024-05-20</td><td><a href="/hyperos/pipa/stable/OS1.0.4.0.UMZTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMZTRXM</td><td>14.0</td><td>4.8 GB</td><td>2024-05-09</td><td><a href="/hyperos/pipa/stable/OS1.0.4.0.UMZTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UMZRUXM</td><td>14.0</td><td>4.2 GB</td><td>2024-05-20</td><td><a href="/hyperos/pipa/stable/OS1.0.6.0.UMZRUXM/">Download</a></td></tr>
