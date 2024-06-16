@@ -56,29 +56,29 @@ permalink: /hyperos/venus/stable/OS1.0.1.0.UKBIDXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.0 GB</h5>
+                    <h5><b>Size: </b>6.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-05-09</h5>
+                    <h5><b>Release Date: </b>2024-04-24</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_VENUSIDGlobal_OS1.0.1.0.UKBIDXM_8deb924308_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">venus_id_global_images_OS1.0.1.0.UKBIDXM_20240424.0000.00_14.0_id_3b94354f8c.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">8deb924308588f38f482724599f3e860</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">3b94354f8c98f4b72733ef6c5c08cc63</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.1.0.UKBIDXM/miui_VENUSIDGlobal_OS1.0.1.0.UKBIDXM_8deb924308_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.1.0.UKBIDXM/miui_VENUSIDGlobal_OS1.0.1.0.UKBIDXM_8deb924308_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.1.0.UKBIDXM/miui_VENUSIDGlobal_OS1.0.1.0.UKBIDXM_8deb924308_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.1.0.UKBIDXM/miui_VENUSIDGlobal_OS1.0.1.0.UKBIDXM_8deb924308_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.1.0.UKBIDXM/miui_VENUSIDGlobal_OS1.0.1.0.UKBIDXM_8deb924308_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.1.0.UKBIDXM/venus_id_global_images_OS1.0.1.0.UKBIDXM_20240424.0000.00_14.0_id_3b94354f8c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.1.0.UKBIDXM/venus_id_global_images_OS1.0.1.0.UKBIDXM_20240424.0000.00_14.0_id_3b94354f8c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.1.0.UKBIDXM/venus_id_global_images_OS1.0.1.0.UKBIDXM_20240424.0000.00_14.0_id_3b94354f8c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.1.0.UKBIDXM/venus_id_global_images_OS1.0.1.0.UKBIDXM_20240424.0000.00_14.0_id_3b94354f8c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.1.0.UKBIDXM/venus_id_global_images_OS1.0.1.0.UKBIDXM_20240424.0000.00_14.0_id_3b94354f8c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#venus_1_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="venus_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="venus_1_changelog">
-                        <p id="changelog_text">[System]<br>Updated the security patch to April 2024. Increased system security.<br>[Vibrant aesthetics]<br>Global aesthetics draw inspiration from life itself and change the way your device looks and feels<br>New animation language makes interactions with your device wholesome and intuitive<br>Natural colors bring vibrancy and vitality to every corner of your device<br>Our all-new system font supports multiple writing systems<br>Redesigned Weather app not only gives you important information, but also shows you how it feels outside<br>Notifications are focused on important information, presenting it to you in the most efficient way<br>Every photo can look like an art poster on your Lock screen, enhanced by multiple effects and dynamic rendering<br>New Home screen icons refresh familiar items with new shapes and colors<br>Multitasking is now even more straightforward and convenient with an upgraded multi-window interface</p>
+                        <p id="changelog_text">Bug fixes and system optimizations.</p>
                     </div>
                 </li>
             </ul>
@@ -99,29 +99,29 @@ permalink: /hyperos/venus/stable/OS1.0.1.0.UKBIDXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.2 GB</h5>
+                    <h5><b>Size: </b>5.0 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-04-24</h5>
+                    <h5><b>Release Date: </b>2024-05-09</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">venus_id_global_images_OS1.0.1.0.UKBIDXM_20240424.0000.00_14.0_id_3b94354f8c.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_VENUSIDGlobal_OS1.0.1.0.UKBIDXM_8deb924308_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">3b94354f8c98f4b72733ef6c5c08cc63</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">8deb924308588f38f482724599f3e860</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.1.0.UKBIDXM/venus_id_global_images_OS1.0.1.0.UKBIDXM_20240424.0000.00_14.0_id_3b94354f8c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.1.0.UKBIDXM/venus_id_global_images_OS1.0.1.0.UKBIDXM_20240424.0000.00_14.0_id_3b94354f8c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.1.0.UKBIDXM/venus_id_global_images_OS1.0.1.0.UKBIDXM_20240424.0000.00_14.0_id_3b94354f8c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.1.0.UKBIDXM/venus_id_global_images_OS1.0.1.0.UKBIDXM_20240424.0000.00_14.0_id_3b94354f8c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.1.0.UKBIDXM/venus_id_global_images_OS1.0.1.0.UKBIDXM_20240424.0000.00_14.0_id_3b94354f8c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.1.0.UKBIDXM/miui_VENUSIDGlobal_OS1.0.1.0.UKBIDXM_8deb924308_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.1.0.UKBIDXM/miui_VENUSIDGlobal_OS1.0.1.0.UKBIDXM_8deb924308_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.1.0.UKBIDXM/miui_VENUSIDGlobal_OS1.0.1.0.UKBIDXM_8deb924308_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.1.0.UKBIDXM/miui_VENUSIDGlobal_OS1.0.1.0.UKBIDXM_8deb924308_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.1.0.UKBIDXM/miui_VENUSIDGlobal_OS1.0.1.0.UKBIDXM_8deb924308_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#venus_2_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="venus_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="venus_2_changelog">
-                        <p id="changelog_text">Bug fixes and system optimizations.</p>
+                        <p id="changelog_text">[System]<br>Updated the security patch to April 2024. Increased system security.<br>[Vibrant aesthetics]<br>Global aesthetics draw inspiration from life itself and change the way your device looks and feels<br>New animation language makes interactions with your device wholesome and intuitive<br>Natural colors bring vibrancy and vitality to every corner of your device<br>Our all-new system font supports multiple writing systems<br>Redesigned Weather app not only gives you important information, but also shows you how it feels outside<br>Notifications are focused on important information, presenting it to you in the most efficient way<br>Every photo can look like an art poster on your Lock screen, enhanced by multiple effects and dynamic rendering<br>New Home screen icons refresh familiar items with new shapes and colors<br>Multitasking is now even more straightforward and convenient with an upgraded multi-window interface</p>
                     </div>
                 </li>
             </ul>
