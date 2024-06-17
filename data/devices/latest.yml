@@ -4759,15 +4759,15 @@
     android: '13.0'
     miui: V14.0.7.0.TKUMIXM
 - branch: stable
-  date: '2023-12-12'
+  date: '2024-06-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-12.12.2023/fw_selene_miui_SELENEEEAGlobal_V14.0.8.0.TKUEUXM_fc55a1d032_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/selene/fw_selene_miui_SELENEEEAGlobal_V14.0.8.0.TKUEUXM_fc55a1d032_13.0.zip
-  filename: fw_selene_miui_SELENEEEAGlobal_V14.0.8.0.TKUEUXM_fc55a1d032_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-17.06.2024/fw_selene_miui_SELENEEEAGlobal_V14.0.9.0.TKUEUXM_2af6d64b91_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/selene/fw_selene_miui_SELENEEEAGlobal_V14.0.9.0.TKUEUXM_2af6d64b91_13.0.zip
+  filename: fw_selene_miui_SELENEEEAGlobal_V14.0.9.0.TKUEUXM_2af6d64b91_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.8.0.TKUEUXM
+    miui: V14.0.9.0.TKUEUXM
 - branch: stable
   date: '2024-05-13'
   downloads:
@@ -4909,15 +4909,15 @@
     android: '14.0'
     miui: OS1.0.9.0.UMKCNXM
 - branch: stable
-  date: '2024-03-04'
+  date: '2024-06-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spes/releases/download/stable-04.03.2024/fw_spes_miui_SPESGlobal_OS1.0.3.0.TGCMIXM_b125bafc73_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/spes/fw_spes_miui_SPESGlobal_OS1.0.3.0.TGCMIXM_b125bafc73_13.0.zip
-  filename: fw_spes_miui_SPESGlobal_OS1.0.3.0.TGCMIXM_b125bafc73_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spes/releases/download/stable-17.06.2024/fw_spes_miui_SPESGlobal_OS1.0.5.0.TGCMIXM_7a3b8b11e6_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/spes/fw_spes_miui_SPESGlobal_OS1.0.5.0.TGCMIXM_7a3b8b11e6_13.0.zip
+  filename: fw_spes_miui_SPESGlobal_OS1.0.5.0.TGCMIXM_7a3b8b11e6_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: OS1.0.3.0.TGCMIXM
+    miui: OS1.0.5.0.TGCMIXM
 - branch: stable
   date: '2024-04-01'
   downloads:
@@ -5989,15 +5989,15 @@
     android: '8.1'
     miui: 9.2.28
 - branch: stable
-  date: '2024-04-07'
+  date: '2024-06-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-07.04.2024/fw_yudi_miui_YUDI_OS1.0.8.0.UMHCNXM_e30fc423ba_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yudi/fw_yudi_miui_YUDI_OS1.0.8.0.UMHCNXM_e30fc423ba_14.0.zip
-  filename: fw_yudi_miui_YUDI_OS1.0.8.0.UMHCNXM_e30fc423ba_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-17.06.2024/fw_yudi_miui_YUDI_OS1.0.9.0.UMHCNXM_d02ffd2afe_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yudi/fw_yudi_miui_YUDI_OS1.0.9.0.UMHCNXM_d02ffd2afe_14.0.zip
+  filename: fw_yudi_miui_YUDI_OS1.0.9.0.UMHCNXM_d02ffd2afe_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.8.0.UMHCNXM
+    miui: OS1.0.9.0.UMHCNXM
 - branch: stable
   date: '2023-12-19'
   downloads:

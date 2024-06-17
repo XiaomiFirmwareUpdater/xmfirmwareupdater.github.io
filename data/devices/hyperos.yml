@@ -2640,6 +2640,12 @@
   version: OS1.0.9.0.UMKCNXM
 - android: '13.0'
   codename: spes
+  date: '2024-06-17'
+  download: https://bigota.d.miui.com/OS1.0.5.0.TGCMIXM/fw_spes_miui_SPESGlobal_OS1.0.5.0.TGCMIXM_7a3b8b11e6_13.0.zip
+  name: Redmi Note 11
+  version: OS1.0.5.0.TGCMIXM
+- android: '13.0'
+  codename: spes
   date: '2024-03-04'
   download: https://bigota.d.miui.com/OS1.0.3.0.TGCMIXM/fw_spes_miui_SPESGlobal_OS1.0.3.0.TGCMIXM_b125bafc73_13.0.zip
   name: Redmi Note 11
@@ -3148,6 +3154,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMUEUXM/fw_xun_miui_XUNEEAGlobal_OS1.0.2.0.UMUEUXM_253904c07b_14.0.zip
   name: Redmi Pad SE
   version: OS1.0.2.0.UMUEUXM
+- android: '14.0'
+  codename: yudi
+  date: '2024-06-17'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMHCNXM/fw_yudi_miui_YUDI_OS1.0.9.0.UMHCNXM_d02ffd2afe_14.0.zip
+  name: Xiaomi Pad 6 Max 14
+  version: OS1.0.9.0.UMHCNXM
 - android: '14.0'
   codename: yudi
   date: '2023-12-11'
