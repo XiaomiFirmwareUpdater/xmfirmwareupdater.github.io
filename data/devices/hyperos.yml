@@ -1902,6 +1902,18 @@
   version: OS1.0.13.0.UNPCNXM
 - android: '14.0'
   codename: peridot
+  date: '2024-06-17'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UNPEUXM/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.2.0.UNPEUXM_2a88eed77e_14.0.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS1.0.2.0.UNPEUXM
+- android: '14.0'
+  codename: peridot
+  date: '2024-06-17'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UNPINXM/fw_peridot_miui_PERIDOTINGlobal_OS1.0.3.0.UNPINXM_f6d628b90b_14.0.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS1.0.3.0.UNPINXM
+- android: '14.0'
+  codename: peridot
   date: '2024-06-06'
   download: https://bigota.d.miui.com/OS1.0.4.0.UNPMIXM/fw_peridot_miui_PERIDOTGlobal_OS1.0.4.0.UNPMIXM_a6bae69297_14.0.zip
   name: Redmi Turbo 3/POCO F6
@@ -3180,6 +3192,12 @@
   version: OS1.0.1.0.ULYINXM
 - android: '14.0'
   codename: yunluo
+  date: '2024-06-17'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULYEUXM/fw_yunluo_miui_YUNLUOEEAGlobal_OS1.0.4.0.ULYEUXM_ff7bae07bf_14.0.zip
+  name: Redmi Pad
+  version: OS1.0.4.0.ULYEUXM
+- android: '14.0'
+  codename: yunluo
   date: '2024-04-16'
   download: https://bigota.d.miui.com/OS1.0.3.0.ULYEUXM/fw_yunluo_miui_YUNLUOEEAGlobal_OS1.0.3.0.ULYEUXM_bfec1af5c3_14.0.zip
   name: Redmi Pad
@@ -3310,6 +3328,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UNOINXM/fw_zircon_miui_ZIRCONINGlobal_OS1.0.8.0.UNOINXM_07ce5a5c64_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.8.0.UNOINXM
+- android: '14.0'
+  codename: zircon
+  date: '2024-06-17'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNOCNXM/fw_zircon_miui_ZIRCON_OS1.0.4.0.UNOCNXM_97a8daff31_14.0.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS1.0.4.0.UNOCNXM
 - android: '14.0'
   codename: zircon
   date: '2024-05-10'

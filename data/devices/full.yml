@@ -399,6 +399,16 @@
     android: '13.0'
     miui: V14.0.10.0.TGQINXM
 - branch: stable
+  date: '2024-06-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-17.06.2024/fw_air_miui_AIRINGlobal_V14.0.11.0.TGQINXM_53fbfcf746_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/air/fw_air_miui_AIRINGlobal_V14.0.11.0.TGQINXM_53fbfcf746_13.0.zip
+  filename: fw_air_miui_AIRINGlobal_V14.0.11.0.TGQINXM_53fbfcf746_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.11.0.TGQINXM
+- branch: stable
   date: '2024-04-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-15.04.2024/fw_air_miui_AIREEAGlobal_V14.0.1.0.TGQEUXM_54a8ed7de6_13.0.zip
@@ -25239,6 +25249,16 @@
     android: '13.0'
     miui: V14.0.1.0.TGEINXM
 - branch: stable
+  date: '2024-06-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-17.06.2024/fw_fog_miui_FOGEEAGlobal_V14.0.7.0.TGEEUXM_eb3937c695_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fog/fw_fog_miui_FOGEEAGlobal_V14.0.7.0.TGEEUXM_eb3937c695_13.0.zip
+  filename: fw_fog_miui_FOGEEAGlobal_V14.0.7.0.TGEEUXM_eb3937c695_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.7.0.TGEEUXM
+- branch: stable
   date: '2023-04-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-17.04.2023/fw_fog_miui_FOGEEAGlobal_V13.0.5.0.SGEEUXM_3f22da422a_12.0.zip
@@ -46588,6 +46608,26 @@
   versions:
     android: '14.0'
     miui: OS1.0.13.0.UNPCNXM
+- branch: stable
+  date: '2024-06-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-17.06.2024/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.2.0.UNPEUXM_2a88eed77e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/peridot/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.2.0.UNPEUXM_2a88eed77e_14.0.zip
+  filename: fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.2.0.UNPEUXM_2a88eed77e_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.UNPEUXM
+- branch: stable
+  date: '2024-06-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-17.06.2024/fw_peridot_miui_PERIDOTINGlobal_OS1.0.3.0.UNPINXM_f6d628b90b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/peridot/fw_peridot_miui_PERIDOTINGlobal_OS1.0.3.0.UNPINXM_f6d628b90b_14.0.zip
+  filename: fw_peridot_miui_PERIDOTINGlobal_OS1.0.3.0.UNPINXM_f6d628b90b_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.UNPINXM
 - branch: stable
   date: '2024-06-06'
   downloads:
@@ -76869,6 +76909,16 @@
     android: '12.0'
     miui: V13.1.6.0.SLYCNXM
 - branch: stable
+  date: '2024-06-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-17.06.2024/fw_yunluo_miui_YUNLUOEEAGlobal_OS1.0.4.0.ULYEUXM_ff7bae07bf_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yunluo/fw_yunluo_miui_YUNLUOEEAGlobal_OS1.0.4.0.ULYEUXM_ff7bae07bf_14.0.zip
+  filename: fw_yunluo_miui_YUNLUOEEAGlobal_OS1.0.4.0.ULYEUXM_ff7bae07bf_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.ULYEUXM
+- branch: stable
   date: '2024-04-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-16.04.2024/fw_yunluo_miui_YUNLUOEEAGlobal_OS1.0.3.0.ULYEUXM_bfec1af5c3_14.0.zip
@@ -77758,6 +77808,16 @@
   versions:
     android: '13.0'
     miui: V14.0.4.0.TNOEUXM
+- branch: stable
+  date: '2024-06-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-17.06.2024/fw_zircon_miui_ZIRCON_OS1.0.4.0.UNOCNXM_97a8daff31_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zircon/fw_zircon_miui_ZIRCON_OS1.0.4.0.UNOCNXM_97a8daff31_14.0.zip
+  filename: fw_zircon_miui_ZIRCON_OS1.0.4.0.UNOCNXM_97a8daff31_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UNOCNXM
 - branch: stable
   date: '2024-01-17'
   downloads:
