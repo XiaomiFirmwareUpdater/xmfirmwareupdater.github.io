@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-04-01'
+  date: '2024-06-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-01.04.2024/fw_yunluo_miui_YUNLUOGlobal_OS1.0.2.0.ULYMIXM_5f7f0c202a_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yunluo/fw_yunluo_miui_YUNLUOGlobal_OS1.0.2.0.ULYMIXM_5f7f0c202a_14.0.zip
-  filename: fw_yunluo_miui_YUNLUOGlobal_OS1.0.2.0.ULYMIXM_5f7f0c202a_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-18.06.2024/fw_yunluo_miui_YUNLUOGlobal_OS1.0.3.0.ULYMIXM_6c6a7d9f81_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yunluo/fw_yunluo_miui_YUNLUOGlobal_OS1.0.3.0.ULYMIXM_6c6a7d9f81_14.0.zip
+  filename: fw_yunluo_miui_YUNLUOGlobal_OS1.0.3.0.ULYMIXM_6c6a7d9f81_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.2.0.ULYMIXM
+    miui: OS1.0.3.0.ULYMIXM
 - branch: stable
   date: '2024-06-14'
   downloads:
@@ -29,12 +29,12 @@
     android: '14.0'
     miui: OS1.0.4.0.ULYEUXM
 - branch: stable
-  date: '2024-04-16'
+  date: '2024-06-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-16.04.2024/fw_yunluo_miui_YUNLUOINGlobal_OS1.0.2.0.ULYINXM_afbf5632e0_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yunluo/fw_yunluo_miui_YUNLUOINGlobal_OS1.0.2.0.ULYINXM_afbf5632e0_14.0.zip
-  filename: fw_yunluo_miui_YUNLUOINGlobal_OS1.0.2.0.ULYINXM_afbf5632e0_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-18.06.2024/fw_yunluo_miui_YUNLUOINGlobal_OS1.0.4.0.ULYINXM_b6bc85a376_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yunluo/fw_yunluo_miui_YUNLUOINGlobal_OS1.0.4.0.ULYINXM_b6bc85a376_14.0.zip
+  filename: fw_yunluo_miui_YUNLUOINGlobal_OS1.0.4.0.ULYINXM_b6bc85a376_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.2.0.ULYINXM
+    miui: OS1.0.4.0.ULYINXM
