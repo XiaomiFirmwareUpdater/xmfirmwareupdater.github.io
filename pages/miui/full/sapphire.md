@@ -52,7 +52,9 @@ permalink: /archive/miui/sapphire/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 13 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.10.0.TNGMIXM</td><td>13.0</td><td>4.5 GB</td><td>2024-06-03</td><td><a href="/miui/sapphire/stable/V14.0.10.0.TNGMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 13 NFC Global</td><td>Stable</td><td>Recovery</td><td>V14.0.9.0.TNHMIXM</td><td>13.0</td><td>4.6 GB</td><td>2024-06-07</td><td><a href="/miui/sapphiren/stable/V14.0.9.0.TNHMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 NFC Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.9.0.TNHMIXM</td><td>13.0</td><td>7.4 GB</td><td>2024-05-28</td><td><a href="/miui/sapphiren/stable/V14.0.9.0.TNHMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.10.0.TNGMIXM</td><td>13.0</td><td>4.5 GB</td><td>2024-06-03</td><td><a href="/miui/sapphire/stable/V14.0.10.0.TNGMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.10.0.TNGMIXM</td><td>13.0</td><td>7.3 GB</td><td>2024-05-24</td><td><a href="/miui/sapphire/stable/V14.0.10.0.TNGMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC Indonesia</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TNHIDXM</td><td>13.0</td><td>4.5 GB</td><td>2024-05-31</td><td><a href="/miui/sapphiren/stable/V14.0.6.0.TNHIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC Indonesia</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TNHIDXM</td><td>13.0</td><td>6.6 GB</td><td>2024-05-24</td><td><a href="/miui/sapphiren/stable/V14.0.6.0.TNHIDXM/">Download</a></td></tr>
