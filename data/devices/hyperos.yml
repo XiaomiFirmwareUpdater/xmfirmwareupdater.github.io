@@ -420,6 +420,12 @@
   version: OS1.0.1.0.ULZCNXM
 - android: '14.0'
   codename: daumier
+  date: '2024-06-18'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULGCNXM/fw_daumier_miui_DAUMIER_OS1.0.3.0.ULGCNXM_37745ae543_14.0.zip
+  name: Xiaomi 12 Pro Dimensity
+  version: OS1.0.3.0.ULGCNXM
+- android: '14.0'
+  codename: daumier
   date: '2024-02-03'
   download: https://bigota.d.miui.com/OS1.0.2.0.ULGCNXM/fw_daumier_miui_DAUMIER_OS1.0.2.0.ULGCNXM_d84b64c895_14.0.zip
   name: Xiaomi 12 Pro Dimensity
@@ -786,6 +792,12 @@
   version: OS1.0.1.0.UMXINXM
 - android: '14.0'
   codename: fire
+  date: '2024-06-18'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMXMIXM/fw_fire_miui_FIREGlobal_OS1.0.6.0.UMXMIXM_24fac395d8_14.0.zip
+  name: Redmi 12
+  version: OS1.0.6.0.UMXMIXM
+- android: '14.0'
+  codename: fire
   date: '2024-03-18'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMXEUXM/fw_fire_miui_FIREEEAGlobal_OS1.0.5.0.UMXEUXM_7fcc073eb0_14.0.zip
   name: Redmi 12
@@ -880,6 +892,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMCCNXM/fw_fuxi_miui_FUXI_OS1.0.3.0.UMCCNXM_e0bcc18a25_14.0.zip
   name: Xiaomi 13
   version: OS1.0.3.0.UMCCNXM
+- android: '14.0'
+  codename: fuxi
+  date: '2024-06-18'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMCEUXM/fw_fuxi_miui_FUXIEEAGlobal_OS1.0.5.0.UMCEUXM_3363bfcfac_14.0.zip
+  name: Xiaomi 13
+  version: OS1.0.5.0.UMCEUXM
 - android: '14.0'
   codename: fuxi
   date: '2024-04-16'
@@ -1632,6 +1650,12 @@
   version: OS1.0.2.0.UMNCNXM
 - android: '14.0'
   codename: mondrian
+  date: '2024-06-18'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMNMIXM/fw_mondrian_miui_MONDRIANGlobal_OS1.0.6.0.UMNMIXM_faa6792f68_14.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS1.0.6.0.UMNMIXM
+- android: '14.0'
+  codename: mondrian
   date: '2024-04-19'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMNEUXM/fw_mondrian_miui_MONDRIANEEAGlobal_OS1.0.4.0.UMNEUXM_5b4fd8db58_14.0.zip
   name: Redmi K60/POCO F5 Pro
@@ -2296,6 +2320,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMOCNXM/fw_ruby_miui_RUBY_OS1.0.3.0.UMOCNXM_c06e478636_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: OS1.0.3.0.UMOCNXM
+- android: '14.0'
+  codename: ruby
+  date: '2024-06-19'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMOINXM/fw_ruby_miui_RUBYINGlobal_OS1.0.3.0.UMOINXM_8e41e6e14c_14.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS1.0.3.0.UMOINXM
 - android: '14.0'
   codename: ruby
   date: '2024-04-19'
