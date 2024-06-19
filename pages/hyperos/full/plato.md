@@ -52,7 +52,9 @@ permalink: /archive/hyperos/plato/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12T Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.ULQMIXM</td><td>14.0</td><td>5.5 GB</td><td>2024-05-15</td><td><a href="/hyperos/plato/stable/OS1.0.9.0.ULQMIXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12T EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.ULQEUXM</td><td>14.0</td><td>5.5 GB</td><td>2024-05-17</td><td><a href="/hyperos/plato/stable/OS1.0.11.0.ULQEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.ULQEUXM</td><td>14.0</td><td>6.9 GB</td><td>2024-05-09</td><td><a href="/hyperos/plato/stable/OS1.0.11.0.ULQEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.ULQMIXM</td><td>14.0</td><td>5.5 GB</td><td>2024-05-15</td><td><a href="/hyperos/plato/stable/OS1.0.9.0.ULQMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.ULQMIXM</td><td>14.0</td><td>7.1 GB</td><td>2024-04-26</td><td><a href="/hyperos/plato/stable/OS1.0.9.0.ULQMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.ULQRUXM</td><td>14.0</td><td>5.4 GB</td><td>2024-05-09</td><td><a href="/hyperos/plato/stable/OS1.0.3.0.ULQRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.ULQRUXM</td><td>14.0</td><td>6.8 GB</td><td>2024-04-08</td><td><a href="/hyperos/plato/stable/OS1.0.3.0.ULQRUXM/">Download</a></td></tr>
