@@ -1,34 +1,34 @@
 ---
-title: Mi 10 Ultra (cas) MIUI Downloads
+title: Mi 10 Ultra (cas) HyperOS Downloads
 layout: download
 name: Mi 10 Ultra
 codename: cas
-permalink: /miui/cas/
+permalink: /archive/hyperos/cas/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
-        <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/cas/">Mi 10 Ultra</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/cas/">Mi 10 Ultra</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
-    Follow MIUI Updates Tracker on <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">Telegram</a>
+    Follow HyperOS Updates Tracker on <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">Telegram</a>
      or <a href="https://twitter.com/MiFwUpdater" class="alert-link">Twitter</a> to get notified when a new update is out!
     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
 
-### Latest MIUI Official ROMs
-*Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or modded by XM Firmware Updater.
+### HyperOS Official ROMs Archive
+*Note*: All files listed here are official untouched HyperOS ROMs. It's not owned, modified or modded by XM Firmware Updater.
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-    <p class="card-text">This page shows the latest downloads only.
-     If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/cas/" class="card-link">MIUI Archive</a>
+    <p class="card-text">This page shows all available downloads.
+     If you're looking for the latest releases check or other downloads check:</p>
+    <a href="/hyperos/cas/" class="card-link">Latest HyperOS</a>
     <a href="/firmware/cas/" class="card-link">Firmware Downloads</a>
     <a href="/vendor/cas/" class="card-link">Vendor Downloads</a>
   </div>
@@ -44,7 +44,7 @@ permalink: /miui/cas/
                         <th data-ref="device">Device</th>
                         <th data-ref="branch">Branch</th>
                         <th data-ref="type">Type</th>
-                        <th data-ref="miui">MIUI</th>
+                        <th data-ref="miui">HyperOS</th>
                         <th data-ref="android">Android</th>
                         <th data-ref="size">Size</th>
                         <th data-ref="size">Date</th>
@@ -52,10 +52,9 @@ permalink: /miui/cas/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10 Ultra China</td><td>Public Beta</td><td>Fastboot</td><td>V13.0.1.1.15.DEV</td><td>12.0</td><td>5.2 GB</td><td>2022-03-08</td><td><a href="/miui/cas/public beta/V13.0.1.1.15.DEV/">Download</a></td></tr>
-<tr><td>Mi 10 Ultra China</td><td>Weekly</td><td>Fastboot</td><td>22.3.2</td><td>12.0</td><td>5.7 GB</td><td>2022-03-02</td><td><a href="/miui/cas/weekly/22.3.2/">Download</a></td></tr>
-<tr><td>Mi 10 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.24.DEV</td><td>12.0</td><td>5.0 GB</td><td>2022-10-28</td><td><a href="/miui/cas/public beta/V13.1.22.10.24.DEV/">Download</a></td></tr>
-<tr><td>Mi 10 Ultra China</td><td>Weekly</td><td>Recovery</td><td>22.3.23</td><td>12.0</td><td>4.8 GB</td><td>2022-03-24</td><td><a href="/miui/cas/weekly/22.3.23/">Download</a></td></tr>
+                <tr><td>Mi 10 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.TJJCNXM</td><td>13.0</td><td>4.5 GB</td><td>2024-06-12</td><td><a href="/hyperos/cas/stable beta/OS1.0.4.0.TJJCNXM/">Download</a></td></tr>
+<tr><td>Mi 10 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.TJJCNXM</td><td>13.0</td><td>4.5 GB</td><td>2024-04-15</td><td><a href="/hyperos/cas/stable/OS1.0.2.0.TJJCNXM/">Download</a></td></tr>
+<tr><td>Mi 10 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.TJJCNXM</td><td>13.0</td><td>5.8 GB</td><td>2024-03-25</td><td><a href="/hyperos/cas/stable/OS1.0.2.0.TJJCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
