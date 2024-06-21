@@ -1843,6 +1843,12 @@
 - android: '14.0'
   codename: nuwa
   date: '2024-06-21'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMBEUXM/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.6.0.UMBEUXM_ea36570589_14.0.zip
+  name: Xiaomi 13 Pro
+  version: OS1.0.6.0.UMBEUXM
+- android: '14.0'
+  codename: nuwa
+  date: '2024-06-21'
   download: https://bigota.d.miui.com/OS1.0.7.0.UMBCNXM/fw_nuwa_miui_NUWA_OS1.0.7.0.UMBCNXM_7ceb1a5a00_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.7.0.UMBCNXM
@@ -2734,6 +2740,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.TGCINXM/fw_spes_miui_SPESINGlobal_OS1.0.1.0.TGCINXM_468c1e6356_13.0.zip
   name: Redmi Note 11
   version: OS1.0.1.0.TGCINXM
+- android: '13.0'
+  codename: spesn
+  date: '2024-06-21'
+  download: https://bigota.d.miui.com/OS1.0.3.0.TGKEUXM/fw_spesn_miui_SPESNEEAGlobal_OS1.0.3.0.TGKEUXM_776c2aab6a_13.0.zip
+  name: Redmi Note 11 NFC
+  version: OS1.0.3.0.TGKEUXM
 - android: '13.0'
   codename: spesn
   date: '2024-04-21'

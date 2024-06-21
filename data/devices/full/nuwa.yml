@@ -91,6 +91,16 @@
 - branch: stable
   date: '2024-06-21'
   downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-21.06.2024/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.6.0.UMBEUXM_ea36570589_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.6.0.UMBEUXM_ea36570589_14.0.zip
+  filename: fw_nuwa_miui_NUWAEEAGlobal_OS1.0.6.0.UMBEUXM_ea36570589_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.6.0.UMBEUXM
+- branch: stable
+  date: '2024-06-21'
+  downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-21.06.2024/fw_nuwa_miui_NUWA_OS1.0.7.0.UMBCNXM_7ceb1a5a00_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWA_OS1.0.7.0.UMBCNXM_7ceb1a5a00_14.0.zip
   filename: fw_nuwa_miui_NUWA_OS1.0.7.0.UMBCNXM_7ceb1a5a00_14.0.zip

@@ -3459,15 +3459,15 @@
     android: '14.0'
     miui: OS1.0.7.0.UMBCNXM
 - branch: stable
-  date: '2024-04-16'
+  date: '2024-06-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-16.04.2024/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.5.0.UMBEUXM_f32da7f334_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.5.0.UMBEUXM_f32da7f334_14.0.zip
-  filename: fw_nuwa_miui_NUWAEEAGlobal_OS1.0.5.0.UMBEUXM_f32da7f334_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-21.06.2024/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.6.0.UMBEUXM_ea36570589_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.6.0.UMBEUXM_ea36570589_14.0.zip
+  filename: fw_nuwa_miui_NUWAEEAGlobal_OS1.0.6.0.UMBEUXM_ea36570589_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UMBEUXM
+    miui: OS1.0.6.0.UMBEUXM
 - branch: stable
   date: '2024-05-27'
   downloads:
@@ -4939,15 +4939,15 @@
     android: '13.0'
     miui: OS1.0.4.0.TGKMIXM
 - branch: stable
-  date: '2024-04-01'
+  date: '2024-06-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spesn/releases/download/stable-01.04.2024/fw_spesn_miui_SPESNEEAGlobal_OS1.0.1.0.TGKEUXM_8dd4246ed7_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/spesn/fw_spesn_miui_SPESNEEAGlobal_OS1.0.1.0.TGKEUXM_8dd4246ed7_13.0.zip
-  filename: fw_spesn_miui_SPESNEEAGlobal_OS1.0.1.0.TGKEUXM_8dd4246ed7_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spesn/releases/download/stable-21.06.2024/fw_spesn_miui_SPESNEEAGlobal_OS1.0.3.0.TGKEUXM_776c2aab6a_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/spesn/fw_spesn_miui_SPESNEEAGlobal_OS1.0.3.0.TGKEUXM_776c2aab6a_13.0.zip
+  filename: fw_spesn_miui_SPESNEEAGlobal_OS1.0.3.0.TGKEUXM_776c2aab6a_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: OS1.0.1.0.TGKEUXM
+    miui: OS1.0.3.0.TGKEUXM
 - branch: stable
   date: '2024-06-03'
   downloads:
