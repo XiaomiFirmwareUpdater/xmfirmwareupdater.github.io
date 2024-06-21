@@ -30,6 +30,12 @@
   version: OS1.0.2.0.UKWEUXM
 - android: '14.0'
   codename: air
+  date: '2024-06-21'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UGQMIXM/fw_air_miui_AIRGlobal_OS1.0.2.0.UGQMIXM_3a209a95cf_14.0.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS1.0.2.0.UGQMIXM
+- android: '14.0'
+  codename: air
   date: '2024-05-20'
   download: https://bigota.d.miui.com/OS1.0.1.0.UGQCNXM/fw_air_miui_AIR_OS1.0.1.0.UGQCNXM_6771b8fffc_14.0.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
@@ -46,6 +52,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.TKHCNXM/fw_alioth_miui_ALIOTH_OS1.0.3.0.TKHCNXM_eab81b6bf0_13.0.zip
   name: Redmi K40/POCO F3/Mi 11X
   version: OS1.0.3.0.TKHCNXM
+- android: '13.0'
+  codename: alioth
+  date: '2024-06-21'
+  download: https://bigota.d.miui.com/OS1.0.6.0.TKHCNXM/fw_alioth_miui_ALIOTH_OS1.0.6.0.TKHCNXM_101dfdb5be_13.0.zip
+  name: Redmi K40/POCO F3/Mi 11X
+  version: OS1.0.6.0.TKHCNXM
 - android: '13.0'
   codename: alioth
   date: '2024-05-16'
@@ -960,6 +972,12 @@
   version: OS1.0.4.0.UNRCNXM
 - android: '14.0'
   codename: garnet
+  date: '2024-06-21'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UNRMIXM/fw_garnet_miui_GARNETGlobal_OS1.0.9.0.UNRMIXM_080d2b9243_14.0.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS1.0.9.0.UNRMIXM
+- android: '14.0'
+  codename: garnet
   date: '2024-02-20'
   download: https://bigota.d.miui.com/OS1.0.1.0.UNRCNXM/fw_garnet_miui_GARNET_OS1.0.1.0.UNRCNXM_e7be0367c7_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
@@ -1048,6 +1066,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UNQMIXM/fw_gold_miui_GOLDGlobal_OS1.0.3.0.UNQMIXM_a1f2dfa06b_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: OS1.0.3.0.UNQMIXM
+- android: '14.0'
+  codename: gold
+  date: '2024-06-21'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UNQINXM/fw_gold_miui_GOLDINGlobal_OS1.0.8.0.UNQINXM_be97d62402_14.0.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS1.0.8.0.UNQINXM
 - android: '14.0'
   codename: gold
   date: '2024-06-18'
@@ -2314,6 +2338,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULUEUXM/fw_rock_miui_ROCKEEAGlobal_OS1.0.2.0.ULUEUXM_0e560ef2a3_14.0.zip
   name: POCO M5/Redmi 11 Prime 4G
   version: OS1.0.2.0.ULUEUXM
+- android: '14.0'
+  codename: ruan
+  date: '2024-06-21'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UFSINXM/fw_ruan_miui_RUANINGlobal_OS1.0.1.0.UFSINXM_42dad36ffb_14.0.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS1.0.1.0.UFSINXM
 - android: '14.0'
   codename: rubens
   date: '2024-03-29'

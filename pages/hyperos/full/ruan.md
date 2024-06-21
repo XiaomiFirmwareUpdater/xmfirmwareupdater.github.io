@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 13 NFC (sapphiren) HyperOS Downloads
+title: Redmi Pad Pro 5G/POCO Pad 5G (ruan) HyperOS Downloads
 layout: download
-name: Redmi Note 13 NFC
-codename: sapphiren
-permalink: /hyperos/sapphiren/
+name: Redmi Pad Pro 5G/POCO Pad 5G
+codename: ruan
+permalink: /archive/hyperos/ruan/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/sapphiren/">Redmi Note 13 NFC</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/ruan/">Redmi Pad Pro 5G/POCO Pad 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -20,17 +20,17 @@ permalink: /hyperos/sapphiren/
     </button>
 </div>
 
-### Latest HyperOS Official ROMs
+### HyperOS Official ROMs Archive
 *Note*: All files listed here are official untouched HyperOS ROMs. It's not owned, modified or modded by XM Firmware Updater.
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-    <p class="card-text">This page shows the latest downloads only.
-     If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/hyperos/sapphiren/" class="card-link">HyperOS Archive</a>
-    <a href="/firmware/sapphiren/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/sapphiren/" class="card-link">Vendor Downloads</a>
+    <p class="card-text">This page shows all available downloads.
+     If you're looking for the latest releases check or other downloads check:</p>
+    <a href="/hyperos/ruan/" class="card-link">Latest HyperOS</a>
+    <a href="/firmware/ruan/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/ruan/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,12 +52,8 @@ permalink: /hyperos/sapphiren/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 13 NFC EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UNHEUXM</td><td>14.0</td><td>7.0 GB</td><td>2024-05-15</td><td><a href="/hyperos/sapphiren/stable/OS1.0.2.0.UNHEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 NFC EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UNHEUXM</td><td>14.0</td><td>4.5 GB</td><td>2024-05-22</td><td><a href="/hyperos/sapphiren/stable/OS1.0.2.0.UNHEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 NFC Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UNHIDXM</td><td>14.0</td><td>4.4 GB</td><td>2024-06-14</td><td><a href="/hyperos/sapphiren/stable beta/OS1.0.3.0.UNHIDXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 NFC Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UNHRUXM</td><td>14.0</td><td>7.1 GB</td><td>2024-05-21</td><td><a href="/hyperos/sapphiren/stable/OS1.0.2.0.UNHRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 NFC Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UNHRUXM</td><td>14.0</td><td>4.4 GB</td><td>2024-05-28</td><td><a href="/hyperos/sapphiren/stable/OS1.0.2.0.UNHRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 NFC Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UNHTRXM</td><td>14.0</td><td>6.2 GB</td><td>2024-05-08</td><td><a href="/hyperos/sapphiren/stable/OS1.0.1.0.UNHTRXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad Pro 5G / POCO Pad 5G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UFSINXM</td><td>14.0</td><td>4.2 GB</td><td>2024-06-21</td><td><a href="/hyperos/ruan/stable/OS1.0.1.0.UFSINXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro 5G / POCO Pad 5G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UFSINXM</td><td>14.0</td><td>4.7 GB</td><td>2024-06-15</td><td><a href="/hyperos/ruan/stable/OS1.0.1.0.UFSINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

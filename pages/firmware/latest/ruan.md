@@ -1,7 +1,7 @@
 ---
-title: Redmi Pad Pro 5G (ruan) Firmware Downloads
+title: Redmi Pad Pro 5G/POCO Pad 5G (ruan) Firmware Downloads
 layout: download
-name: Redmi Pad Pro 5G
+name: Redmi Pad Pro 5G/POCO Pad 5G
 codename: ruan
 permalink: /firmware/ruan/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/ruan/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/ruan/">Redmi Pad Pro 5G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/ruan/">Redmi Pad Pro 5G/POCO Pad 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,7 +28,7 @@ permalink: /firmware/ruan/
     <p class="card-text">This page shows the latest firmware downloads only.
      If you're looking for older releases or other downloads check:</p>
     <a href="/archive/firmware/ruan/" class="card-link">Firmware Archive</a>
-    <a href="/miui/ruan/" class="card-link">MIUI Downloads</a>
+    <a href="/hyperos/ruan/" class="card-link">HyperOS Downloads</a>
     <a href="/vendor/ruan/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
@@ -42,7 +42,7 @@ permalink: /firmware/ruan/
                 <thead class="thead-dark">
                     <tr>
                         <th data-ref="branch">Branch</th>
-                        <th data-ref="miui">MIUI</th>
+                        <th data-ref="miui">HyperOS</th>
                         <th data-ref="android">Android</th>
                         <th data-ref="region">Region</th>
                         <th data-ref="link">Link</th>
