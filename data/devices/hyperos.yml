@@ -1842,6 +1842,12 @@
   version: OS1.0.2.0.UMBINXM
 - android: '14.0'
   codename: nuwa
+  date: '2024-06-21'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMBCNXM/fw_nuwa_miui_NUWA_OS1.0.7.0.UMBCNXM_7ceb1a5a00_14.0.zip
+  name: Xiaomi 13 Pro
+  version: OS1.0.7.0.UMBCNXM
+- android: '14.0'
+  codename: nuwa
   date: '2024-02-18'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMBEUXM/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.4.0.UMBEUXM_95bf88a6fa_14.0.zip
   name: Xiaomi 13 Pro

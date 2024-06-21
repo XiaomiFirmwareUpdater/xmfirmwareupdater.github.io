@@ -1,4 +1,5 @@
 air: Redmi 13R 5G/13C 5G/POCO M6 5G
+alioth: Redmi K40/POCO F3/Mi 11X
 aurora: Xiaomi 14 Ultra
 breeze: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
 cas: Mi 10 Ultra
@@ -24,6 +25,7 @@ mondrian: Redmi K60/POCO F5 Pro
 moon: Redmi 13/POCO M6
 moonstone: POCO X5 5G
 munch: Redmi K40S/POCO F4
+nuwa: Xiaomi 13 Pro
 opal: Redmi Note 11S 5G
 peridot: Redmi Turbo 3/POCO F6
 pipa: Xiaomi Pad 6
@@ -34,6 +36,7 @@ sapphiren: Redmi Note 13 NFC
 sheng: Xiaomi Pad 6S Pro 12.4
 shennong: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
 spes: Redmi Note 11
+spesn: Redmi Note 11 NFC
 tapas: Redmi Note 12 4G
 thyme: Mi 10S
 topaz: Redmi Note 12 4G NFC

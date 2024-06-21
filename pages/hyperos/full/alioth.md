@@ -52,7 +52,8 @@ permalink: /archive/hyperos/alioth/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F3 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.TKHIDXM</td><td>13.0</td><td>4.0 GB</td><td>2024-06-11</td><td><a href="/hyperos/alioth/stable beta/OS1.0.3.0.TKHIDXM/">Download</a></td></tr>
+                <tr><td>Redmi K40 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.TKHCNXM</td><td>13.0</td><td>4.1 GB</td><td>2024-06-18</td><td><a href="/hyperos/alioth/stable beta/OS1.0.6.0.TKHCNXM/">Download</a></td></tr>
+<tr><td>POCO F3 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.TKHIDXM</td><td>13.0</td><td>4.0 GB</td><td>2024-06-11</td><td><a href="/hyperos/alioth/stable beta/OS1.0.3.0.TKHIDXM/">Download</a></td></tr>
 <tr><td>POCO F3 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.TKHTRXM</td><td>13.0</td><td>4.0 GB</td><td>2024-05-21</td><td><a href="/hyperos/alioth/stable/OS1.0.2.0.TKHTRXM/">Download</a></td></tr>
 <tr><td>POCO F3 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.TKHTRXM</td><td>13.0</td><td>5.3 GB</td><td>2024-04-02</td><td><a href="/hyperos/alioth/stable/OS1.0.2.0.TKHTRXM/">Download</a></td></tr>
 <tr><td>POCO F3 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.TKHRUXM</td><td>13.0</td><td>4.0 GB</td><td>2024-05-21</td><td><a href="/hyperos/alioth/stable/OS1.0.2.0.TKHRUXM/">Download</a></td></tr>
