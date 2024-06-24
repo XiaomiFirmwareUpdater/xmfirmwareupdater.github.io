@@ -3420,6 +3420,12 @@
   version: OS1.0.2.0.ULYMIXM
 - android: '14.0'
   codename: zeus
+  date: '2024-06-24'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULBCNXM/fw_zeus_miui_ZEUS_OS1.0.4.0.ULBCNXM_f508c3fcff_14.0.zip
+  name: Xiaomi 12 Pro
+  version: OS1.0.4.0.ULBCNXM
+- android: '14.0'
+  codename: zeus
   date: '2024-05-24'
   download: https://bigota.d.miui.com/OS1.0.6.0.ULBEUXM/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.6.0.ULBEUXM_7fc63e2cbb_14.0.zip
   name: Xiaomi 12 Pro
