@@ -798,6 +798,12 @@
   version: OS1.0.4.0.UMXMIXM
 - android: '14.0'
   codename: fire
+  date: '2024-06-24'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMXEUXM/fw_fire_miui_FIREEEAGlobal_OS1.0.8.0.UMXEUXM_dd2e8c264e_14.0.zip
+  name: Redmi 12
+  version: OS1.0.8.0.UMXEUXM
+- android: '14.0'
+  codename: fire
   date: '2024-03-21'
   download: https://bigota.d.miui.com/OS1.0.1.0.UMXINXM/fw_fire_miui_FIREINGlobal_OS1.0.1.0.UMXINXM_944394f9fa_14.0.zip
   name: Redmi 12
@@ -1752,6 +1758,12 @@
   version: OS1.0.1.0.UMPINXM
 - android: '14.0'
   codename: moonstone
+  date: '2024-06-24'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMPEUXM/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.4.0.UMPEUXM_7f8e55a5d9_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.4.0.UMPEUXM
+- android: '14.0'
+  codename: moonstone
   date: '2024-01-23'
   download: https://bigota.d.miui.com/OS1.0.3.0.UMPMIXM/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.3.0.UMPMIXM_9531a81bb0_14.0.zip
   name: POCO X5 5G
@@ -1936,6 +1948,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMBCNXM/fw_nuwa_miui_NUWA_OS1.0.5.0.UMBCNXM_9748b91e96_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.5.0.UMBCNXM
+- android: '14.0'
+  codename: odin
+  date: '2024-06-24'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UKMCNXM/fw_odin_miui_ODIN_OS1.0.3.0.UKMCNXM_176fec4009_14.0.zip
+  name: MIX 4
+  version: OS1.0.3.0.UKMCNXM
 - android: '14.0'
   codename: odin
   date: '2024-05-11'
@@ -2478,6 +2496,18 @@
   version: OS1.0.2.0.UNHMIXM
 - android: '14.0'
   codename: sea
+  date: '2024-06-24'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UHZEUXM/fw_sea_miui_SEAEEAGlobal_OS1.0.5.0.UHZEUXM_33bdaf5820_14.0.zip
+  name: Redmi Note 12S
+  version: OS1.0.5.0.UHZEUXM
+- android: '14.0'
+  codename: sea
+  date: '2024-06-24'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UHZMIXM/fw_sea_miui_SEAGlobal_OS1.0.7.0.UHZMIXM_e5c0231c12_14.0.zip
+  name: Redmi Note 12S
+  version: OS1.0.7.0.UHZMIXM
+- android: '14.0'
+  codename: sea
   date: '2024-02-22'
   download: https://bigota.d.miui.com/OS1.0.5.0.UHZMIXM/fw_sea_miui_SEAGlobal_OS1.0.5.0.UHZMIXM_69800e0aaf_14.0.zip
   name: Redmi Note 12S
@@ -2674,6 +2704,18 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMWMIXM/fw_sky_miui_SKYGlobal_OS1.0.3.0.UMWMIXM_1e2037e27c_14.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
   version: OS1.0.3.0.UMWMIXM
+- android: '14.0'
+  codename: sky
+  date: '2024-06-24'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMWEUXM/fw_sky_miui_SKYEEAGlobal_OS1.0.6.0.UMWEUXM_c9d338c1ec_14.0.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS1.0.6.0.UMWEUXM
+- android: '14.0'
+  codename: sky
+  date: '2024-06-24'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMWINXM/fw_sky_miui_SKYINGlobal_OS1.0.5.0.UMWINXM_bc3213035d_14.0.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS1.0.5.0.UMWINXM
 - android: '14.0'
   codename: sky
   date: '2024-03-20'

@@ -52,8 +52,11 @@ permalink: /archive/hyperos/spes/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 NFC EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.TGKEUXM</td><td>13.0</td><td>3.8 GB</td><td>2024-06-18</td><td><a href="/hyperos/spesn/stable beta/OS1.0.3.0.TGKEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.TGCMIXM</td><td>13.0</td><td>3.9 GB</td><td>2024-06-12</td><td><a href="/hyperos/spes/stable beta/OS1.0.5.0.TGCMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 NFC Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.TGKRUXM</td><td>13.0</td><td>3.7 GB</td><td>2024-06-19</td><td><a href="/hyperos/spesn/stable beta/OS1.0.2.0.TGKRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 NFC EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.TGKEUXM</td><td>13.0</td><td>3.8 GB</td><td>2024-06-18</td><td><a href="/hyperos/spesn/stable beta/OS1.0.3.0.TGKEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.TGCTRXM</td><td>13.0</td><td>3.7 GB</td><td>2024-06-18</td><td><a href="/hyperos/spes/stable beta/OS1.0.2.0.TGCTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.TGCMIXM</td><td>13.0</td><td>3.9 GB</td><td>2024-06-12</td><td><a href="/hyperos/spes/stable/OS1.0.5.0.TGCMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.TGCMIXM</td><td>13.0</td><td>6.4 GB</td><td>2024-05-28</td><td><a href="/hyperos/spes/stable/OS1.0.5.0.TGCMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TGKRUXM</td><td>13.0</td><td>3.7 GB</td><td>2024-05-17</td><td><a href="/hyperos/spesn/stable/OS1.0.1.0.TGKRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.TGKRUXM</td><td>13.0</td><td>5.9 GB</td><td>2024-03-25</td><td><a href="/hyperos/spesn/stable/OS1.0.1.0.TGKRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.TGKMIXM</td><td>13.0</td><td>3.9 GB</td><td>2024-04-17</td><td><a href="/hyperos/spesn/stable/OS1.0.4.0.TGKMIXM/">Download</a></td></tr>

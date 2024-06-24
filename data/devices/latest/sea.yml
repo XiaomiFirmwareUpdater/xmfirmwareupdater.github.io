@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2024-05-06'
+  date: '2024-06-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-06.05.2024/fw_sea_miui_SEAGlobal_OS1.0.6.0.UHZMIXM_a3d9cf5609_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sea/fw_sea_miui_SEAGlobal_OS1.0.6.0.UHZMIXM_a3d9cf5609_14.0.zip
-  filename: fw_sea_miui_SEAGlobal_OS1.0.6.0.UHZMIXM_a3d9cf5609_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-24.06.2024/fw_sea_miui_SEAGlobal_OS1.0.7.0.UHZMIXM_e5c0231c12_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sea/fw_sea_miui_SEAGlobal_OS1.0.7.0.UHZMIXM_e5c0231c12_14.0.zip
+  filename: fw_sea_miui_SEAGlobal_OS1.0.7.0.UHZMIXM_e5c0231c12_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.UHZMIXM
+    miui: OS1.0.7.0.UHZMIXM
 - branch: stable
-  date: '2024-05-13'
+  date: '2024-06-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-13.05.2024/fw_sea_miui_SEAEEAGlobal_OS1.0.4.0.UHZEUXM_66189d5bb9_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sea/fw_sea_miui_SEAEEAGlobal_OS1.0.4.0.UHZEUXM_66189d5bb9_14.0.zip
-  filename: fw_sea_miui_SEAEEAGlobal_OS1.0.4.0.UHZEUXM_66189d5bb9_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-24.06.2024/fw_sea_miui_SEAEEAGlobal_OS1.0.5.0.UHZEUXM_33bdaf5820_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sea/fw_sea_miui_SEAEEAGlobal_OS1.0.5.0.UHZEUXM_33bdaf5820_14.0.zip
+  filename: fw_sea_miui_SEAEEAGlobal_OS1.0.5.0.UHZEUXM_33bdaf5820_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.UHZEUXM
+    miui: OS1.0.5.0.UHZEUXM

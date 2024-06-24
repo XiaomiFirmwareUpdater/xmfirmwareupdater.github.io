@@ -81,9 +81,9 @@ permalink: /archive/miui/odin/
 <tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.21.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-02-24</td><td><a href="/miui/odin/public beta/V14.0.23.2.21.DEV/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.13.DEV</td><td>13.0</td><td>6.1 GB</td><td>2023-02-17</td><td><a href="/miui/odin/public beta/V14.0.23.2.13.DEV/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.6.DEV</td><td>13.0</td><td>6.1 GB</td><td>2023-02-10</td><td><a href="/miui/odin/public beta/V14.0.23.2.6.DEV/">Download</a></td></tr>
-<tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.1.30.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-02-03</td><td><a href="/miui/odin/public beta/V14.0.23.1.30.DEV/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TKMCNXM</td><td>13.0</td><td>6.0 GB</td><td>2023-02-17</td><td><a href="/miui/odin/stable/V14.0.3.0.TKMCNXM/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TKMCNXM</td><td>13.0</td><td>7.4 GB</td><td>2023-02-14</td><td><a href="/miui/odin/stable/V14.0.3.0.TKMCNXM/">Download</a></td></tr>
+<tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.1.30.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-02-03</td><td><a href="/miui/odin/public beta/V14.0.23.1.30.DEV/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.1.9.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-01-13</td><td><a href="/miui/odin/public beta/V14.0.23.1.9.DEV/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.1.3.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-01-06</td><td><a href="/miui/odin/public beta/V14.0.23.1.3.DEV/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.26.DEV</td><td>13.0</td><td>6.0 GB</td><td>2022-12-30</td><td><a href="/miui/odin/public beta/V14.0.22.12.26.DEV/">Download</a></td></tr>
@@ -104,8 +104,8 @@ permalink: /archive/miui/odin/
 <tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.5.1.59.DEV</td><td>12.0</td><td>5.5 GB</td><td>2022-08-12</td><td><a href="/miui/odin/public beta/V13.0.5.1.59.DEV/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Stable</td><td>Recovery</td><td>V13.0.8.0.SKMCNXM</td><td>12.0</td><td>5.4 GB</td><td>2022-08-10</td><td><a href="/miui/odin/stable/V13.0.8.0.SKMCNXM/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Stable</td><td>Fastboot</td><td>V13.0.8.0.SKMCNXM</td><td>12.0</td><td>7.1 GB</td><td>2022-07-28</td><td><a href="/miui/odin/stable/V13.0.8.0.SKMCNXM/">Download</a></td></tr>
-<tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.5.1.56.DEV</td><td>12.0</td><td>5.5 GB</td><td>2022-08-05</td><td><a href="/miui/odin/public beta/V13.0.5.1.56.DEV/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TKMCNXM</td><td>13.0</td><td>5.9 GB</td><td>2023-01-08</td><td><a href="/miui/odin/stable beta/V14.0.1.0.TKMCNXM/">Download</a></td></tr>
+<tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.5.1.56.DEV</td><td>12.0</td><td>5.5 GB</td><td>2022-08-05</td><td><a href="/miui/odin/public beta/V13.0.5.1.56.DEV/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.5.1.55.DEV</td><td>12.0</td><td>5.5 GB</td><td>2022-07-29</td><td><a href="/miui/odin/public beta/V13.0.5.1.55.DEV/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.5.1.51.DEV</td><td>12.0</td><td>5.4 GB</td><td>2022-07-22</td><td><a href="/miui/odin/public beta/V13.0.5.1.51.DEV/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.5.1.47.DEV</td><td>12.0</td><td>5.4 GB</td><td>2022-07-15</td><td><a href="/miui/odin/public beta/V13.0.5.1.47.DEV/">Download</a></td></tr>
