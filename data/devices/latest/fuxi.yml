@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-04-22'
+  date: '2024-06-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-22.04.2024/fw_fuxi_miui_FUXIGlobal_OS1.0.4.0.UMCMIXM_be254ec547_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fuxi/fw_fuxi_miui_FUXIGlobal_OS1.0.4.0.UMCMIXM_be254ec547_14.0.zip
-  filename: fw_fuxi_miui_FUXIGlobal_OS1.0.4.0.UMCMIXM_be254ec547_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-24.06.2024/fw_fuxi_miui_FUXIGlobal_OS1.0.5.0.UMCMIXM_1720652312_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fuxi/fw_fuxi_miui_FUXIGlobal_OS1.0.5.0.UMCMIXM_1720652312_14.0.zip
+  filename: fw_fuxi_miui_FUXIGlobal_OS1.0.5.0.UMCMIXM_1720652312_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.UMCMIXM
+    miui: OS1.0.5.0.UMCMIXM
 - branch: stable
   date: '2024-03-30'
   downloads:
