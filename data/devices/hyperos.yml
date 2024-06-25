@@ -1332,6 +1332,12 @@
   version: OS1.0.2.0.ULJEUXM
 - android: '14.0'
   codename: ingres
+  date: '2024-06-25'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULJMIXM/fw_ingres_miui_INGRESGlobal_OS1.0.3.0.ULJMIXM_d400678846_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.3.0.ULJMIXM
+- android: '14.0'
+  codename: ingres
   date: '2024-01-18'
   download: https://bigota.d.miui.com/OS1.0.1.0.ULJCNXM/fw_ingres_miui_INGRES_OS1.0.1.0.ULJCNXM_fde249c2db_14.0.zip
   name: Redmi K50G/POCO F4 GT
@@ -1498,6 +1504,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UKOMIXM/fw_lisa_miui_LISAGlobal_OS1.0.3.0.UKOMIXM_3a15e0e69a_14.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
   version: OS1.0.3.0.UKOMIXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-06-25'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UKOEUXM/fw_lisa_miui_LISAEEAGlobal_OS1.0.5.0.UKOEUXM_ab63f51caf_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.5.0.UKOEUXM
 - android: '14.0'
   codename: lisa
   date: '2024-03-22'
@@ -2506,6 +2518,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UNGMIXM/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.2.0.UNGMIXM_6ceb1dc76b_14.0.zip
   name: Redmi Note 13
   version: OS1.0.2.0.UNGMIXM
+- android: '14.0'
+  codename: sapphire
+  date: '2024-06-25'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNGMIXM/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.4.0.UNGMIXM_c089e83324_14.0.zip
+  name: Redmi Note 13
+  version: OS1.0.4.0.UNGMIXM
 - android: '14.0'
   codename: sapphire
   date: '2024-05-11'
