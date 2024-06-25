@@ -59,7 +59,6 @@ permalink: /miui/alioth/
 <tr><td>POCO F3 EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.11.0.TKHEUXM</td><td>13.0</td><td>5.6 GB</td><td>2023-12-25</td><td><a href="/miui/alioth/stable/V14.0.11.0.TKHEUXM/">Download</a></td></tr>
 <tr><td>POCO F3 EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.11.0.TKHEUXM</td><td>13.0</td><td>4.0 GB</td><td>2024-01-17</td><td><a href="/miui/alioth/stable/V14.0.11.0.TKHEUXM/">Download</a></td></tr>
 <tr><td>POCO F3 Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.8.0.TKHMIXM</td><td>13.0</td><td>5.8 GB</td><td>2023-09-04</td><td><a href="/miui/alioth/stable/V14.0.8.0.TKHMIXM/">Download</a></td></tr>
-<tr><td>POCO F3 Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.RKHMIXM</td><td>11.0</td><td>3.1 GB</td><td>2021-09-03</td><td><a href="/miui/alioth/stable beta/V12.5.3.0.RKHMIXM/">Download</a></td></tr>
 <tr><td>POCO F3 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TKHIDXM</td><td>13.0</td><td>4.0 GB</td><td>2023-10-07</td><td><a href="/miui/alioth/stable beta/V14.0.4.0.TKHIDXM/">Download</a></td></tr>
 <tr><td>Mi 11X India</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TKHINXM</td><td>13.0</td><td>4.8 GB</td><td>2023-11-06</td><td><a href="/miui/alioth/stable/V14.0.5.0.TKHINXM/">Download</a></td></tr>
 <tr><td>Mi 11X India</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TKHINXM</td><td>13.0</td><td>3.9 GB</td><td>2023-11-15</td><td><a href="/miui/alioth/stable/V14.0.5.0.TKHINXM/">Download</a></td></tr>

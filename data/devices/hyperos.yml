@@ -300,6 +300,12 @@
   version: OS1.0.3.0.UMLMIXM
 - android: '14.0'
   codename: corot
+  date: '2024-06-25'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMLMIXM/fw_corot_miui_COROTGlobal_OS1.0.4.0.UMLMIXM_02e82e057a_14.0.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS1.0.4.0.UMLMIXM
+- android: '14.0'
+  codename: corot
   date: '2024-05-23'
   download: https://bigota.d.miui.com/OS1.0.13.0.UMLCNXM/fw_corot_miui_COROT_OS1.0.13.0.UMLCNXM_a1699d77ea_14.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
@@ -1386,6 +1392,12 @@
   version: OS1.0.8.0.UMAEUXM
 - android: '14.0'
   codename: ishtar
+  date: '2024-06-25'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMAMIXM/fw_ishtar_miui_ISHTARGlobal_OS1.0.7.0.UMAMIXM_4162714934_14.0.zip
+  name: Xiaomi 13 Ultra
+  version: OS1.0.7.0.UMAMIXM
+- android: '14.0'
+  codename: ishtar
   date: '2024-04-22'
   download: https://bigota.d.miui.com/OS1.0.6.0.UMAMIXM/fw_ishtar_miui_ISHTARGlobal_OS1.0.6.0.UMAMIXM_701344d13f_14.0.zip
   name: Xiaomi 13 Ultra
@@ -1612,6 +1624,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMRMIXM/fw_marble_miui_MARBLEGlobal_OS1.0.3.0.UMRMIXM_ff84ee3e8f_14.0.zip
   name: Redmi Note 12 Turbo/POCO F5
   version: OS1.0.3.0.UMRMIXM
+- android: '14.0'
+  codename: marble
+  date: '2024-06-25'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMREUXM/fw_marble_miui_MARBLEEEAGlobal_OS1.0.8.0.UMREUXM_c6f0e5cf41_14.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS1.0.8.0.UMREUXM
 - android: '14.0'
   codename: marble
   date: '2024-02-23'
