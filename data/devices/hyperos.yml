@@ -48,6 +48,12 @@
   version: OS1.0.2.0.TKHMIXM
 - android: '13.0'
   codename: alioth
+  date: '2024-06-25'
+  download: https://bigota.d.miui.com/OS1.0.3.0.TKHMIXM/fw_alioth_miui_ALIOTHGlobal_OS1.0.3.0.TKHMIXM_57a88631b9_13.0.zip
+  name: Redmi K40/POCO F3/Mi 11X
+  version: OS1.0.3.0.TKHMIXM
+- android: '13.0'
+  codename: alioth
   date: '2024-04-22'
   download: https://bigota.d.miui.com/OS1.0.3.0.TKHCNXM/fw_alioth_miui_ALIOTH_OS1.0.3.0.TKHCNXM_eab81b6bf0_13.0.zip
   name: Redmi K40/POCO F3/Mi 11X
@@ -2116,6 +2122,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.2.0.UMZCNXM_55ebca72a7_14.0.zip
   name: Xiaomi Pad 6
   version: OS1.0.2.0.UMZCNXM
+- android: '14.0'
+  codename: pipa
+  date: '2024-06-25'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.7.0.UMZCNXM_a0d8c7820c_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.7.0.UMZCNXM
 - android: '14.0'
   codename: pipa
   date: '2024-01-22'
