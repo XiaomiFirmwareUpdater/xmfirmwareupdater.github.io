@@ -1029,15 +1029,15 @@
     android: '14.0'
     miui: OS1.0.13.0.UMLCNXM
 - branch: stable
-  date: '2024-05-06'
+  date: '2024-06-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-06.05.2024/fw_corot_miui_COROTEEAGlobal_OS1.0.7.0.UMLEUXM_f12bc976f6_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/corot/fw_corot_miui_COROTEEAGlobal_OS1.0.7.0.UMLEUXM_f12bc976f6_14.0.zip
-  filename: fw_corot_miui_COROTEEAGlobal_OS1.0.7.0.UMLEUXM_f12bc976f6_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-26.06.2024/fw_corot_miui_COROTEEAGlobal_OS1.0.8.0.UMLEUXM_ca4b8ac80d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/corot/fw_corot_miui_COROTEEAGlobal_OS1.0.8.0.UMLEUXM_ca4b8ac80d_14.0.zip
+  filename: fw_corot_miui_COROTEEAGlobal_OS1.0.8.0.UMLEUXM_ca4b8ac80d_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.7.0.UMLEUXM
+    miui: OS1.0.8.0.UMLEUXM
 - branch: stable
   date: '2023-11-03'
   downloads:
@@ -3969,15 +3969,15 @@
     android: '13.0'
     miui: OS1.0.2.0.TKTEUXM
 - branch: stable
-  date: '2024-04-08'
+  date: '2024-06-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-08.04.2024/fw_pissarro_miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip
-  filename: fw_pissarro_miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-26.06.2024/fw_pissarro_miui_PISSARROINGlobal_OS1.0.3.0.TKTINXM_4f7813c882_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARROINGlobal_OS1.0.3.0.TKTINXM_4f7813c882_13.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_OS1.0.3.0.TKTINXM_4f7813c882_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: OS1.0.2.0.TKTINXM
+    miui: OS1.0.3.0.TKTINXM
 - branch: stable
   date: '2020-09-21'
   downloads:

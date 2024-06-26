@@ -189,6 +189,16 @@
     android: '13.0'
     miui: OS1.0.2.0.TKTCNXM
 - branch: stable
+  date: '2024-06-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-26.06.2024/fw_pissarro_miui_PISSARROINGlobal_OS1.0.3.0.TKTINXM_4f7813c882_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARROINGlobal_OS1.0.3.0.TKTINXM_4f7813c882_13.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_OS1.0.3.0.TKTINXM_4f7813c882_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: OS1.0.3.0.TKTINXM
+- branch: stable
   date: '2023-05-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-26.05.2023/fw_pissarro_miui_PISSARROGlobal_V14.0.5.0.TKTMIXM_1874280b0e_13.0.zip

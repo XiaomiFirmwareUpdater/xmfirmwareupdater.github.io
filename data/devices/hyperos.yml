@@ -306,6 +306,12 @@
   version: OS1.0.3.0.UMLMIXM
 - android: '14.0'
   codename: corot
+  date: '2024-06-26'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMLEUXM/fw_corot_miui_COROTEEAGlobal_OS1.0.8.0.UMLEUXM_ca4b8ac80d_14.0.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS1.0.8.0.UMLEUXM
+- android: '14.0'
+  codename: corot
   date: '2024-06-25'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMLMIXM/fw_corot_miui_COROTGlobal_OS1.0.4.0.UMLMIXM_02e82e057a_14.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
@@ -2200,6 +2206,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.TKTCNXM/fw_pissarro_miui_PISSARRO_OS1.0.2.0.TKTCNXM_13f7d12d41_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
   version: OS1.0.2.0.TKTCNXM
+- android: '13.0'
+  codename: pissarro
+  date: '2024-06-26'
+  download: https://bigota.d.miui.com/OS1.0.3.0.TKTINXM/fw_pissarro_miui_PISSARROINGlobal_OS1.0.3.0.TKTINXM_4f7813c882_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: OS1.0.3.0.TKTINXM
 - android: '13.0'
   codename: pissarro
   date: '2024-06-18'
