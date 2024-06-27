@@ -2466,6 +2466,12 @@
   version: OS1.0.6.0.ULNCNXM
 - android: '14.0'
   codename: rubens
+  date: '2024-06-27'
+  download: https://bigota.d.miui.com/OS1.0.7.0.ULNCNXM/fw_rubens_miui_RUBENS_OS1.0.7.0.ULNCNXM_4c4ea6059c_14.0.zip
+  name: Redmi K50
+  version: OS1.0.7.0.ULNCNXM
+- android: '14.0'
+  codename: rubens
   date: '2024-02-04'
   download: https://bigota.d.miui.com/OS1.0.2.0.ULNCNXM/fw_rubens_miui_RUBENS_OS1.0.2.0.ULNCNXM_96bcefdc4e_14.0.zip
   name: Redmi K50
