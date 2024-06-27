@@ -52,7 +52,9 @@ permalink: /archive/hyperos/dizi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad Pro / POCO Pad EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNSEUXM</td><td>14.0</td><td>4.2 GB</td><td>2024-06-12</td><td><a href="/hyperos/dizi/stable/OS1.0.4.0.UNSEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad Pro / POCO Pad India</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNSINXM</td><td>14.0</td><td>4.1 GB</td><td>2024-06-25</td><td><a href="/hyperos/dizi/stable/OS1.0.3.0.UNSINXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro / POCO Pad India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UNSINXM</td><td>14.0</td><td>4.6 GB</td><td>2024-06-19</td><td><a href="/hyperos/dizi/stable/OS1.0.3.0.UNSINXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro / POCO Pad EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNSEUXM</td><td>14.0</td><td>4.2 GB</td><td>2024-06-12</td><td><a href="/hyperos/dizi/stable/OS1.0.4.0.UNSEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro / POCO Pad EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UNSEUXM</td><td>14.0</td><td>4.9 GB</td><td>2024-06-05</td><td><a href="/hyperos/dizi/stable/OS1.0.4.0.UNSEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro / POCO Pad Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UNSTRXM</td><td>14.0</td><td>4.2 GB</td><td>2024-06-11</td><td><a href="/hyperos/dizi/stable/OS1.0.2.0.UNSTRXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro / POCO Pad Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UNSTRXM</td><td>14.0</td><td>4.7 GB</td><td>2024-06-05</td><td><a href="/hyperos/dizi/stable/OS1.0.2.0.UNSTRXM/">Download</a></td></tr>

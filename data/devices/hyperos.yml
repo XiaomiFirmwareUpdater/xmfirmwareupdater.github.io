@@ -534,6 +534,12 @@
   version: OS1.0.2.0.ULFEUXM
 - android: '14.0'
   codename: dizi
+  date: '2024-06-27'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UNSINXM/fw_dizi_miui_DIZIINGlobal_OS1.0.3.0.UNSINXM_3d4839b44e_14.0.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS1.0.3.0.UNSINXM
+- android: '14.0'
+  codename: dizi
   date: '2024-06-16'
   download: https://bigota.d.miui.com/OS1.0.4.0.UNSEUXM/fw_dizi_miui_DIZIEEAGlobal_OS1.0.4.0.UNSEUXM_4a402021d0_14.0.zip
   name: Redmi Pad Pro/POCO Pad
