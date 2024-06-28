@@ -78,7 +78,7 @@ permalink: /hyperos/houji/stable/OS1.0.8.0.UNCINXM/
                             aria-expanded="false" aria-controls="houji_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="houji_1_changelog">
-                        <p id="changelog_text">[System]<br>Updated the security patch to June 2024. Increased system security.</p>
+                        <p id="changelog_text">[System]<br>Updated the security patch to June 2024. Increased system security.<br>[Camera]<br>New: Elevate your photos with "Master portrait" and "Leica portrait" options<br>New: Ultra zoom for the Photo mode<br>Optimization: Background blur in Portrait mode<br>Optimization: Beautify in Portrait mode<br>Improve the quality of your portrait photography with all-new Xiaomi AISP large AI model</p>
                     </div>
                 </li>
             </ul>
