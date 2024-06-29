@@ -2,14 +2,14 @@
 title: Redmi 13 / POCO M6 Taiwan HyperOS OS1.0.2.0.UNTTWXM Update
 layout: download
 name: Redmi 13 / POCO M6 Taiwan
-codename: moon
-permalink: /hyperos/moon/stable/OS1.0.2.0.UNTTWXM/
+codename: moonstone
+permalink: /hyperos/moonstone/stable/OS1.0.2.0.UNTTWXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/moon/">Redmi 13 / POCO M6 Taiwan</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/moonstone/">Redmi 13 / POCO M6 Taiwan</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS1.0.2.0.UNTTWXM</li>
     </ol>
 </nav>
@@ -21,9 +21,9 @@ permalink: /hyperos/moon/stable/OS1.0.2.0.UNTTWXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.2.0.UNTTWXM Stable Official Update for Redmi 13 / POCO M6 Taiwan (moon)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.2.0.UNTTWXM Stable Official Update for Redmi 13 / POCO M6 Taiwan (moonstone)</h3>
     <h5>This page shows the OS1.0.2.0.UNTTWXM update only. If you're looking for other updates check
-        <a href="/hyperos/moon/">here.</a></h5>
+        <a href="/hyperos/moonstone/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
         It's not owned, modified or edited by XM Firmware Updater.</p>
     <div class="card">
@@ -56,22 +56,22 @@ permalink: /hyperos/moon/stable/OS1.0.2.0.UNTTWXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.8 GB</h5>
+                    <h5><b>Size: </b>4.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-06-06</h5>
+                    <h5><b>Release Date: </b>2024-06-20</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">moon_tw_global_images_OS1.0.2.0.UNTTWXM_20240606.0000.00_14.0_tw_d5b5126cc0.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_MOONTWGlobal_OS1.0.2.0.UNTTWXM_7d48c1a274_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">d5b5126cc042ab68c505f767f72f8784</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">7d48c1a274d18c12098f0a577dbfda39</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.2.0.UNTTWXM/moon_tw_global_images_OS1.0.2.0.UNTTWXM_20240606.0000.00_14.0_tw_d5b5126cc0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.2.0.UNTTWXM/moon_tw_global_images_OS1.0.2.0.UNTTWXM_20240606.0000.00_14.0_tw_d5b5126cc0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.2.0.UNTTWXM/moon_tw_global_images_OS1.0.2.0.UNTTWXM_20240606.0000.00_14.0_tw_d5b5126cc0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.UNTTWXM/moon_tw_global_images_OS1.0.2.0.UNTTWXM_20240606.0000.00_14.0_tw_d5b5126cc0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.2.0.UNTTWXM/moon_tw_global_images_OS1.0.2.0.UNTTWXM_20240606.0000.00_14.0_tw_d5b5126cc0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.UNTTWXM/miui-blockota-moon_tw_global-OS1.0.1.0.UNTTWXM-OS1.0.2.0.UNTTWXM-3b9002d348-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.2.0.UNTTWXM/miui_MOONTWGlobal_OS1.0.2.0.UNTTWXM_7d48c1a274_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.2.0.UNTTWXM/miui_MOONTWGlobal_OS1.0.2.0.UNTTWXM_7d48c1a274_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.2.0.UNTTWXM/miui_MOONTWGlobal_OS1.0.2.0.UNTTWXM_7d48c1a274_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.UNTTWXM/miui_MOONTWGlobal_OS1.0.2.0.UNTTWXM_7d48c1a274_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.2.0.UNTTWXM/miui_MOONTWGlobal_OS1.0.2.0.UNTTWXM_7d48c1a274_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#moon_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/moon/stable/OS1.0.2.0.UNTTWXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.2 GB</h5>
+                    <h5><b>Size: </b>5.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-06-20</h5>
+                    <h5><b>Release Date: </b>2024-06-06</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_MOONTWGlobal_OS1.0.2.0.UNTTWXM_7d48c1a274_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">moon_tw_global_images_OS1.0.2.0.UNTTWXM_20240606.0000.00_14.0_tw_d5b5126cc0.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">7d48c1a274d18c12098f0a577dbfda39</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">d5b5126cc042ab68c505f767f72f8784</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.UNTTWXM/miui-blockota-moon_tw_global-OS1.0.1.0.UNTTWXM-OS1.0.2.0.UNTTWXM-3b9002d348-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.2.0.UNTTWXM/miui_MOONTWGlobal_OS1.0.2.0.UNTTWXM_7d48c1a274_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.2.0.UNTTWXM/miui_MOONTWGlobal_OS1.0.2.0.UNTTWXM_7d48c1a274_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.2.0.UNTTWXM/miui_MOONTWGlobal_OS1.0.2.0.UNTTWXM_7d48c1a274_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.UNTTWXM/miui_MOONTWGlobal_OS1.0.2.0.UNTTWXM_7d48c1a274_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.2.0.UNTTWXM/miui_MOONTWGlobal_OS1.0.2.0.UNTTWXM_7d48c1a274_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.2.0.UNTTWXM/moon_tw_global_images_OS1.0.2.0.UNTTWXM_20240606.0000.00_14.0_tw_d5b5126cc0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.2.0.UNTTWXM/moon_tw_global_images_OS1.0.2.0.UNTTWXM_20240606.0000.00_14.0_tw_d5b5126cc0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.2.0.UNTTWXM/moon_tw_global_images_OS1.0.2.0.UNTTWXM_20240606.0000.00_14.0_tw_d5b5126cc0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.UNTTWXM/moon_tw_global_images_OS1.0.2.0.UNTTWXM_20240606.0000.00_14.0_tw_d5b5126cc0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.2.0.UNTTWXM/moon_tw_global_images_OS1.0.2.0.UNTTWXM_20240606.0000.00_14.0_tw_d5b5126cc0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#moon_2_changelog" data-toggle="collapse" role="button"

@@ -54,9 +54,8 @@ permalink: /hyperos/fire/
                 <tbody>
                 <tr><td>Redmi 12 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UMXEUXM</td><td>14.0</td><td>6.9 GB</td><td>2024-05-28</td><td><a href="/hyperos/fire/stable/OS1.0.8.0.UMXEUXM/">Download</a></td></tr>
 <tr><td>Redmi 12 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UMXEUXM</td><td>14.0</td><td>4.4 GB</td><td>2024-06-06</td><td><a href="/hyperos/fire/stable/OS1.0.8.0.UMXEUXM/">Download</a></td></tr>
-<tr><td>Redmi 12 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMXMIXM</td><td>14.0</td><td>7.0 GB</td><td>2024-04-16</td><td><a href="/hyperos/fire/stable/OS1.0.4.0.UMXMIXM/">Download</a></td></tr>
-<tr><td>Redmi 12 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMXMIXM</td><td>14.0</td><td>4.4 GB</td><td>2024-04-23</td><td><a href="/hyperos/fire/stable/OS1.0.4.0.UMXMIXM/">Download</a></td></tr>
-<tr><td>Redmi 12 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.UMXMIXM</td><td>14.0</td><td>4.4 GB</td><td>2024-06-15</td><td><a href="/hyperos/fire/stable beta/OS1.0.6.0.UMXMIXM/">Download</a></td></tr>
+<tr><td>Redmi 12 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UMXMIXM</td><td>14.0</td><td>7.1 GB</td><td>2024-06-06</td><td><a href="/hyperos/fire/stable/OS1.0.6.0.UMXMIXM/">Download</a></td></tr>
+<tr><td>Redmi 12 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UMXMIXM</td><td>14.0</td><td>4.4 GB</td><td>2024-06-15</td><td><a href="/hyperos/fire/stable/OS1.0.6.0.UMXMIXM/">Download</a></td></tr>
 <tr><td>Redmi 12 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UMXIDXM</td><td>14.0</td><td>6.4 GB</td><td>2024-03-28</td><td><a href="/hyperos/fire/stable/OS1.0.5.0.UMXIDXM/">Download</a></td></tr>
 <tr><td>Redmi 12 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UMXIDXM</td><td>14.0</td><td>4.3 GB</td><td>2024-04-08</td><td><a href="/hyperos/fire/stable/OS1.0.5.0.UMXIDXM/">Download</a></td></tr>
 <tr><td>Redmi 12 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.UMXIDXM</td><td>14.0</td><td>4.3 GB</td><td>2024-06-22</td><td><a href="/hyperos/fire/stable beta/OS1.0.6.0.UMXIDXM/">Download</a></td></tr>

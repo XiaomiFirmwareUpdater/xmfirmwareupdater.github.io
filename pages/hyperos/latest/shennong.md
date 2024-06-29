@@ -58,6 +58,7 @@ permalink: /hyperos/shennong/
 <tr><td>Xiaomi 14 Pro / Ti China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.UNBCNXM</td><td>14.0</td><td>5.8 GB</td><td>2023-10-26</td><td><a href="/hyperos/shennong/stable beta/OS1.0.6.0.UNBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Pro Ti Satellite China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UNDCNXM</td><td>14.0</td><td>8.7 GB</td><td>2024-02-23</td><td><a href="/hyperos/shennong/stable/OS1.0.3.0.UNDCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Pro Ti Satellite China</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNDCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-03-05</td><td><a href="/hyperos/shennong/stable/OS1.0.3.0.UNDCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Pro Ti Satellite China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.UNDCNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-06-29</td><td><a href="/hyperos/shennong/stable beta/OS1.0.5.0.UNDCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

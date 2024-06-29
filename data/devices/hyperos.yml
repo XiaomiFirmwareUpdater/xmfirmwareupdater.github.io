@@ -1842,6 +1842,12 @@
   version: OS1.0.1.0.UMPINXM
 - android: '14.0'
   codename: moonstone
+  date: '2024-06-29'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMPMIXM/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.6.0.UMPMIXM_7a430ada0e_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.6.0.UMPMIXM
+- android: '14.0'
+  codename: moonstone
   date: '2024-06-24'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMPEUXM/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.4.0.UMPEUXM_7f8e55a5d9_14.0.zip
   name: POCO X5 5G
@@ -2980,6 +2986,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UKAMIXM/fw_star_miui_STARGlobal_OS1.0.2.0.UKAMIXM_c5850393fb_14.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: OS1.0.2.0.UKAMIXM
+- android: '14.0'
+  codename: sunstone
+  date: '2024-06-29'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMQMIXM/fw_sunstone_miui_SUNSTONEGlobal_OS1.0.5.0.UMQMIXM_5187649eac_14.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: OS1.0.5.0.UMQMIXM
 - android: '14.0'
   codename: sunstone
   date: '2024-02-29'
