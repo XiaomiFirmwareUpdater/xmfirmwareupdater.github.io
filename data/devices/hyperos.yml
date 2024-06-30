@@ -1200,6 +1200,12 @@
   version: OS1.0.11.0.UNCCNXM
 - android: '14.0'
   codename: houji
+  date: '2024-06-30'
+  download: https://bigota.d.miui.com/OS1.0.39.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.39.0.UNCCNXM_39723f18b0_14.0.zip
+  name: Xiaomi 14
+  version: OS1.0.39.0.UNCCNXM
+- android: '14.0'
+  codename: houji
   date: '2023-10-29'
   download: https://bigota.d.miui.com/OS1.0.9.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.9.0.UNCCNXM_e5644d702d_14.0.zip
   name: Xiaomi 14
@@ -2722,6 +2728,12 @@
   download: https://bigota.d.miui.com/OS1.0.32.0.UNBCNXM/fw_shennong_miui_SHENNONG_OS1.0.32.0.UNBCNXM_23adf15f54_14.0.zip
   name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
   version: OS1.0.32.0.UNBCNXM
+- android: '14.0'
+  codename: shennong
+  date: '2024-06-30'
+  download: https://bigota.d.miui.com/OS1.0.42.0.UNBCNXM/fw_shennong_miui_SHENNONG_OS1.0.42.0.UNBCNXM_a1709e00c9_14.0.zip
+  name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
+  version: OS1.0.42.0.UNBCNXM
 - android: '14.0'
   codename: shennong
   date: '2023-10-29'
