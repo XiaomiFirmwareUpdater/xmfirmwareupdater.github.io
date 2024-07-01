@@ -26448,6 +26448,16 @@
   versions:
     android: '13.0'
     miui: V14.0.10.0.TNRCNXM
+- branch: stable
+  date: '2024-07-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-01.07.2024/fw_garnet_miui_GARNET_OS1.0.7.0.UNRCNXM_1a1ed56e95_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/garnet/fw_garnet_miui_GARNET_OS1.0.7.0.UNRCNXM_1a1ed56e95_14.0.zip
+  filename: fw_garnet_miui_GARNET_OS1.0.7.0.UNRCNXM_1a1ed56e95_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.7.0.UNRCNXM
 - branch: weekly
   date: '2021-10-29'
   downloads:
@@ -30808,6 +30818,26 @@
   versions:
     android: '13.0'
     miui: V14.0.3.0.TKKINXM
+- branch: stable
+  date: '2024-07-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-01.07.2024/fw_haydn_miui_HAYDNGlobal_OS1.0.3.0.UKKMIXM_2792063203_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/haydn/fw_haydn_miui_HAYDNGlobal_OS1.0.3.0.UKKMIXM_2792063203_14.0.zip
+  filename: fw_haydn_miui_HAYDNGlobal_OS1.0.3.0.UKKMIXM_2792063203_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.UKKMIXM
+- branch: stable
+  date: '2024-07-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-01.07.2024/fw_haydn_miui_HAYDN_OS1.0.2.0.UKKCNXM_2fa8bde61d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/haydn/fw_haydn_miui_HAYDN_OS1.0.2.0.UKKCNXM_2fa8bde61d_14.0.zip
+  filename: fw_haydn_miui_HAYDN_OS1.0.2.0.UKKCNXM_2fa8bde61d_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.UKKCNXM
 - branch: stable
   date: '2019-05-14'
   downloads:
@@ -37868,6 +37898,16 @@
   versions:
     android: '12.0'
     miui: V13.0.7.0.SKOINXM
+- branch: stable
+  date: '2024-07-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-01.07.2024/fw_lisa_miui_LISAGlobal_OS1.0.4.0.UKOMIXM_906b257828_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/lisa/fw_lisa_miui_LISAGlobal_OS1.0.4.0.UKOMIXM_906b257828_14.0.zip
+  filename: fw_lisa_miui_LISAGlobal_OS1.0.4.0.UKOMIXM_906b257828_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UKOMIXM
 - branch: weekly
   date: '2019-05-31'
   downloads:
@@ -55029,6 +55069,16 @@
     android: '13.0'
     miui: V14.0.2.0.TMSEUXM
 - branch: stable
+  date: '2024-07-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-01.07.2024/fw_redwood_miui_REDWOODGlobal_OS1.0.5.0.UMSMIXM_fe1d4ce60d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/redwood/fw_redwood_miui_REDWOODGlobal_OS1.0.5.0.UMSMIXM_fe1d4ce60d_14.0.zip
+  filename: fw_redwood_miui_REDWOODGlobal_OS1.0.5.0.UMSMIXM_fe1d4ce60d_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.5.0.UMSMIXM
+- branch: stable
   date: '2024-04-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-01.04.2024/fw_redwood_miui_REDWOODEEAGlobal_OS1.0.3.0.UMSEUXM_ae5b2ff81e_14.0.zip
@@ -63188,6 +63238,16 @@
   versions:
     android: '12.0'
     miui: V13.0.10.0.SKACNXM
+- branch: stable
+  date: '2024-07-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-01.07.2024/fw_star_miui_STAR_OS1.0.3.0.UKACNXM_654946af55_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/star/fw_star_miui_STAR_OS1.0.3.0.UKACNXM_654946af55_14.0.zip
+  filename: fw_star_miui_STAR_OS1.0.3.0.UKACNXM_654946af55_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.UKACNXM
 - branch: stable
   date: '2024-06-29'
   downloads:
@@ -72448,6 +72508,16 @@
   versions:
     android: '12.0'
     miui: V13.0.9.0.SKBCNXM
+- branch: stable
+  date: '2024-07-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-01.07.2024/fw_venus_miui_VENUSGlobal_OS1.0.3.0.UKBMIXM_1eb20d7656_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/venus/fw_venus_miui_VENUSGlobal_OS1.0.3.0.UKBMIXM_1eb20d7656_14.0.zip
+  filename: fw_venus_miui_VENUSGlobal_OS1.0.3.0.UKBMIXM_1eb20d7656_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.UKBMIXM
 - branch: stable
   date: '2024-03-29'
   downloads:

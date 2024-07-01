@@ -1085,6 +1085,12 @@
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS1.0.6.0.UNRMIXM
 - android: '14.0'
+  codename: garnet
+  date: '2024-07-01'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UNRCNXM/fw_garnet_miui_GARNET_OS1.0.7.0.UNRCNXM_1a1ed56e95_14.0.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS1.0.7.0.UNRCNXM
+- android: '14.0'
   codename: gold
   date: '2024-05-31'
   download: https://bigota.d.miui.com/OS1.0.9.0.UNQEUXM/fw_gold_miui_GOLDEEAGlobal_OS1.0.9.0.UNQEUXM_2c944807d4_14.0.zip
@@ -1192,6 +1198,18 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UKKEUXM/fw_haydn_miui_HAYDNEEAGlobal_OS1.0.2.0.UKKEUXM_7dc6743676_14.0.zip
   name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
   version: OS1.0.2.0.UKKEUXM
+- android: '14.0'
+  codename: haydn
+  date: '2024-07-01'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UKKMIXM/fw_haydn_miui_HAYDNGlobal_OS1.0.3.0.UKKMIXM_2792063203_14.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: OS1.0.3.0.UKKMIXM
+- android: '14.0'
+  codename: haydn
+  date: '2024-07-01'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UKKCNXM/fw_haydn_miui_HAYDN_OS1.0.2.0.UKKCNXM_2fa8bde61d_14.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: OS1.0.2.0.UKKCNXM
 - android: '14.0'
   codename: houji
   date: '2023-10-31'
@@ -1582,6 +1600,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UKOEUXM/fw_lisa_miui_LISAEEAGlobal_OS1.0.1.0.UKOEUXM_3f709c9a4c_14.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
   version: OS1.0.1.0.UKOEUXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-07-01'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UKOMIXM/fw_lisa_miui_LISAGlobal_OS1.0.4.0.UKOMIXM_906b257828_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.4.0.UKOMIXM
 - android: '14.0'
   codename: liuqin
   date: '2023-12-25'
@@ -2400,6 +2424,12 @@
   version: OS1.0.2.0.UMSINXM
 - android: '14.0'
   codename: redwood
+  date: '2024-07-01'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMSMIXM/fw_redwood_miui_REDWOODGlobal_OS1.0.5.0.UMSMIXM_fe1d4ce60d_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.5.0.UMSMIXM
+- android: '14.0'
+  codename: redwood
   date: '2024-04-01'
   download: https://bigota.d.miui.com/OS1.0.3.0.UMSEUXM/fw_redwood_miui_REDWOODEEAGlobal_OS1.0.3.0.UMSEUXM_ae5b2ff81e_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
@@ -3017,6 +3047,12 @@
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: OS1.0.2.0.UKAMIXM
 - android: '14.0'
+  codename: star
+  date: '2024-07-01'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UKACNXM/fw_star_miui_STAR_OS1.0.3.0.UKACNXM_654946af55_14.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: OS1.0.3.0.UKACNXM
+- android: '14.0'
   codename: sunstone
   date: '2024-06-29'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMQMIXM/fw_sunstone_miui_SUNSTONEGlobal_OS1.0.5.0.UMQMIXM_5187649eac_14.0.zip
@@ -3286,6 +3322,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UKBCNXM/fw_venus_miui_VENUS_OS1.0.1.0.UKBCNXM_f461404e5a_14.0.zip
   name: Mi 11
   version: OS1.0.1.0.UKBCNXM
+- android: '14.0'
+  codename: venus
+  date: '2024-07-01'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UKBMIXM/fw_venus_miui_VENUSGlobal_OS1.0.3.0.UKBMIXM_1eb20d7656_14.0.zip
+  name: Mi 11
+  version: OS1.0.3.0.UKBMIXM
 - android: '14.0'
   codename: vermeer
   date: '2024-03-29'

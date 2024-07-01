@@ -81,9 +81,9 @@ permalink: /archive/miui/thyme/
 <tr><td>Mi 10S China</td><td>Stable</td><td>Fastboot</td><td>V13.0.10.0.SGACNXM</td><td>12.0</td><td>6.1 GB</td><td>2022-11-02</td><td><a href="/miui/thyme/stable/V13.0.10.0.SGACNXM/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.24.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-10-28</td><td><a href="/miui/thyme/public beta/V13.1.22.10.24.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.17.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-10-21</td><td><a href="/miui/thyme/public beta/V13.1.22.10.17.DEV/">Download</a></td></tr>
-<tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.11.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-10-14</td><td><a href="/miui/thyme/public beta/V13.1.22.10.11.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TGACNXM</td><td>13.0</td><td>4.1 GB</td><td>2023-02-01</td><td><a href="/miui/thyme/stable/V14.0.2.0.TGACNXM/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TGACNXM</td><td>13.0</td><td>6.4 GB</td><td>2023-01-18</td><td><a href="/miui/thyme/stable/V14.0.2.0.TGACNXM/">Download</a></td></tr>
+<tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.11.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-10-14</td><td><a href="/miui/thyme/public beta/V13.1.22.10.11.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.28.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-09-30</td><td><a href="/miui/thyme/public beta/V13.1.22.9.28.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.19.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-09-23</td><td><a href="/miui/thyme/public beta/V13.1.22.9.19.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.12.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-09-16</td><td><a href="/miui/thyme/public beta/V13.1.22.9.12.DEV/">Download</a></td></tr>

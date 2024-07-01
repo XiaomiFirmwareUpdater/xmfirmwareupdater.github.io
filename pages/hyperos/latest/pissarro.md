@@ -54,19 +54,18 @@ permalink: /hyperos/pissarro/
                 <tbody>
                 <tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.TKTCNXM</td><td>13.0</td><td>6.2 GB</td><td>2024-05-14</td><td><a href="/hyperos/pissarro/stable/OS1.0.3.0.TKTCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.TKTCNXM</td><td>13.0</td><td>4.1 GB</td><td>2024-05-29</td><td><a href="/hyperos/pissarro/stable/OS1.0.3.0.TKTCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Pro+ 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.TKTMIXM</td><td>13.0</td><td>6.4 GB</td><td>2024-03-12</td><td><a href="/hyperos/pissarro/stable/OS1.0.2.0.TKTMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Pro+ 5G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.TKTMIXM</td><td>13.0</td><td>3.9 GB</td><td>2024-03-18</td><td><a href="/hyperos/pissarro/stable/OS1.0.2.0.TKTMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Pro+ 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.TKTMIXM</td><td>13.0</td><td>3.9 GB</td><td>2024-06-14</td><td><a href="/hyperos/pissarro/stable beta/OS1.0.3.0.TKTMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro+ 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.TKTMIXM</td><td>13.0</td><td>6.3 GB</td><td>2024-06-03</td><td><a href="/hyperos/pissarro/stable/OS1.0.3.0.TKTMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro+ 5G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.TKTMIXM</td><td>13.0</td><td>3.9 GB</td><td>2024-06-14</td><td><a href="/hyperos/pissarro/stable/OS1.0.3.0.TKTMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11i 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.TKTINFK</td><td>13.0</td><td>3.7 GB</td><td>2024-06-21</td><td><a href="/hyperos/pissarro/stable beta/OS1.0.4.0.TKTINFK/">Download</a></td></tr>
 <tr><td>Xiaomi 11i / Hypercharge India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.TKTINXM</td><td>13.0</td><td>3.8 GB</td><td>2024-06-21</td><td><a href="/hyperos/pissarro/stable beta/OS1.0.3.0.TKTINXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11i / Hypercharge India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.TKTINXM</td><td>13.0</td><td>5.4 GB</td><td>2024-03-25</td><td><a href="/hyperos/pissarro/stable/OS1.0.2.0.TKTINXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11i / Hypercharge India</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.TKTINXM</td><td>13.0</td><td>3.8 GB</td><td>2024-04-01</td><td><a href="/hyperos/pissarro/stable/OS1.0.2.0.TKTINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.TKTRUXM</td><td>13.0</td><td>6.0 GB</td><td>2024-04-08</td><td><a href="/hyperos/pissarro/stable/OS1.0.2.0.TKTRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.TKTRUXM</td><td>13.0</td><td>3.9 GB</td><td>2024-04-17</td><td><a href="/hyperos/pissarro/stable/OS1.0.2.0.TKTRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.TKTTRXM</td><td>13.0</td><td>6.0 GB</td><td>2024-04-09</td><td><a href="/hyperos/pissarro/stable/OS1.0.1.0.TKTTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TKTTRXM</td><td>13.0</td><td>3.8 GB</td><td>2024-04-22</td><td><a href="/hyperos/pissarro/stable/OS1.0.1.0.TKTTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.TKTTWXM</td><td>13.0</td><td>5.5 GB</td><td>2024-04-08</td><td><a href="/hyperos/pissarro/stable/OS1.0.2.0.TKTTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.TKTTWXM</td><td>13.0</td><td>3.8 GB</td><td>2024-04-16</td><td><a href="/hyperos/pissarro/stable/OS1.0.2.0.TKTTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11i / Hypercharge India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.TKTINXM</td><td>13.0</td><td>5.4 GB</td><td>2024-03-25</td><td><a href="/hyperos/pissarro/stable/OS1.0.2.0.TKTINXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11i / Hypercharge India</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.TKTINXM</td><td>13.0</td><td>3.8 GB</td><td>2024-04-01</td><td><a href="/hyperos/pissarro/stable/OS1.0.2.0.TKTINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
