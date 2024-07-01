@@ -126,6 +126,18 @@
   version: OS1.0.6.0.UMFEUXM
 - android: '14.0'
   codename: aristotle
+  date: '2024-07-01'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMFEUXM/fw_aristotle_miui_ARISTOTLEEEAGlobal_OS1.0.9.0.UMFEUXM_81bfd4666c_14.0.zip
+  name: Xiaomi 13T
+  version: OS1.0.9.0.UMFEUXM
+- android: '14.0'
+  codename: aristotle
+  date: '2024-07-01'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMFMIXM/fw_aristotle_miui_ARISTOTLEGlobal_OS1.0.5.0.UMFMIXM_7d2a32407c_14.0.zip
+  name: Xiaomi 13T
+  version: OS1.0.5.0.UMFMIXM
+- android: '14.0'
+  codename: aristotle
   date: '2024-04-01'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMFEUXM/fw_aristotle_miui_ARISTOTLEEEAGlobal_OS1.0.5.0.UMFEUXM_0b4c8fdf0a_14.0.zip
   name: Xiaomi 13T
@@ -1960,6 +1972,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.ULMMIXM/fw_munch_miui_MUNCHGlobal_OS1.0.1.0.ULMMIXM_fcd5899d29_14.0.zip
   name: Redmi K40S/POCO F4
   version: OS1.0.1.0.ULMMIXM
+- android: '14.0'
+  codename: munch
+  date: '2024-07-01'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULMINXM/fw_munch_miui_MUNCHINGlobal_OS1.0.2.0.ULMINXM_73863dbefb_14.0.zip
+  name: Redmi K40S/POCO F4
+  version: OS1.0.2.0.ULMINXM
 - android: '13.0'
   codename: nabu
   date: '2024-03-28'
@@ -3406,6 +3424,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.5.0.UNKCNXM_164e6600c7_14.0.zip
   name: Redmi K70/POCO F6 Pro
   version: OS1.0.5.0.UNKCNXM
+- android: '14.0'
+  codename: vermeer
+  date: '2024-07-01'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNKEUXM/fw_vermeer_miui_VERMEEREEAGlobal_OS1.0.4.0.UNKEUXM_8757c38bdc_14.0.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS1.0.4.0.UNKEUXM
 - android: '13.0'
   codename: veux
   date: '2024-04-22'
