@@ -13368,6 +13368,16 @@
   versions:
     android: '14.0'
     miui: OS1.0.8.0.UNJCNXM
+- branch: stable
+  date: '2024-07-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-01.07.2024/fw_chenfeng_miui_CHENFENG_OS1.0.11.0.UNJCNXM_9bc5ebf131_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/chenfeng/fw_chenfeng_miui_CHENFENG_OS1.0.11.0.UNJCNXM_9bc5ebf131_14.0.zip
+  filename: fw_chenfeng_miui_CHENFENG_OS1.0.11.0.UNJCNXM_9bc5ebf131_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.11.0.UNJCNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -16568,6 +16578,16 @@
   versions:
     android: '13.0'
     miui: V14.0.8.0.TMLMIXM
+- branch: stable
+  date: '2024-07-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-01.07.2024/fw_corot_miui_COROT_OS1.0.15.0.UMLCNXM_c8567484cb_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/corot/fw_corot_miui_COROT_OS1.0.15.0.UMLCNXM_c8567484cb_14.0.zip
+  filename: fw_corot_miui_COROT_OS1.0.15.0.UMLCNXM_c8567484cb_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.15.0.UMLCNXM
 - branch: stable
   date: '2021-04-18'
   downloads:
@@ -37928,6 +37948,16 @@
   versions:
     android: '14.0'
     miui: OS1.0.4.0.UKOMIXM
+- branch: stable
+  date: '2024-07-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-01.07.2024/fw_lisa_miui_LISAINGlobal_OS1.0.4.0.UKOINXM_0e52ec8cbc_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/lisa/fw_lisa_miui_LISAINGlobal_OS1.0.4.0.UKOINXM_0e52ec8cbc_14.0.zip
+  filename: fw_lisa_miui_LISAINGlobal_OS1.0.4.0.UKOINXM_0e52ec8cbc_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UKOINXM
 - branch: weekly
   date: '2019-05-31'
   downloads:
@@ -77058,6 +77088,16 @@
   versions:
     android: '13.0'
     miui: V13.2.2.0.TLOEUXM
+- branch: stable
+  date: '2024-07-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-01.07.2024/fw_xaga_miui_XAGAGlobal_OS1.0.2.0.ULOMIXM_e525011abe_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/xaga/fw_xaga_miui_XAGAGlobal_OS1.0.2.0.ULOMIXM_e525011abe_14.0.zip
+  filename: fw_xaga_miui_XAGAGlobal_OS1.0.2.0.ULOMIXM_e525011abe_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.ULOMIXM
 - branch: stable
   date: '2024-04-30'
   downloads:
