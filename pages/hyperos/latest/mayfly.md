@@ -55,6 +55,7 @@ permalink: /hyperos/mayfly/
                 <tr><td>Xiaomi 12S China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.ULTCNXM</td><td>14.0</td><td>7.2 GB</td><td>2024-03-18</td><td><a href="/hyperos/mayfly/stable/OS1.0.5.0.ULTCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.ULTCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-04-02</td><td><a href="/hyperos/mayfly/stable/OS1.0.5.0.ULTCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.8 GB</td><td>2024-01-12</td><td><a href="/hyperos/mayfly/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 12S China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.ULTCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-06-28</td><td><a href="/hyperos/mayfly/stable beta/OS1.0.7.0.ULTCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

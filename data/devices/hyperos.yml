@@ -1804,6 +1804,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.ULTCNXM/fw_mayfly_miui_MAYFLY_OS1.0.5.0.ULTCNXM_e6a95688ff_14.0.zip
   name: Xiaomi 12S
   version: OS1.0.5.0.ULTCNXM
+- android: '14.0'
+  codename: mayfly
+  date: '2024-07-02'
+  download: https://bigota.d.miui.com/OS1.0.7.0.ULTCNXM/fw_mayfly_miui_MAYFLY_OS1.0.7.0.ULTCNXM_cfaa502739_14.0.zip
+  name: Xiaomi 12S
+  version: OS1.0.7.0.ULTCNXM
 - android: '13.0'
   codename: mona
   date: '2024-02-26'
