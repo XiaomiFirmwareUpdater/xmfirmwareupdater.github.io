@@ -1775,6 +1775,12 @@
   name: Redmi Note 12 Turbo/POCO F5
   version: OS1.0.5.0.UMREUXM
 - android: '14.0'
+  codename: marble
+  date: '2024-07-02'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMRINXM/fw_marble_miui_MARBLEINGlobal_OS1.0.9.0.UMRINXM_39750c7751_14.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS1.0.9.0.UMRINXM
+- android: '14.0'
   codename: matisse
   date: '2024-06-24'
   download: https://bigota.d.miui.com/OS1.0.5.0.ULKCNXM/fw_matisse_miui_MATISSE_OS1.0.5.0.ULKCNXM_384e92f006_14.0.zip
@@ -2968,6 +2974,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UMWINXM/fw_sky_miui_SKYINGlobal_OS1.0.1.0.UMWINXM_f5443ea0c8_14.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
   version: OS1.0.1.0.UMWINXM
+- android: '14.0'
+  codename: sky
+  date: '2024-07-02'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMWCNXM/fw_sky_miui_SKY_OS1.0.6.0.UMWCNXM_e78444c735_14.0.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS1.0.6.0.UMWCNXM
 - android: '14.0'
   codename: sky
   date: '2024-04-01'
