@@ -65,7 +65,6 @@ permalink: /hyperos/fleur/
 <tr><td>Redmi Note 11S 4G / POCO M4 Pro 4G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.TKETRXM</td><td>13.0</td><td>5.7 GB</td><td>2024-03-19</td><td><a href="/hyperos/fleur/stable/OS1.0.1.0.TKETRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11S 4G / POCO M4 Pro 4G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TKETRXM</td><td>13.0</td><td>3.8 GB</td><td>2024-04-08</td><td><a href="/hyperos/fleur/stable/OS1.0.1.0.TKETRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11S 4G / POCO M4 Pro 4G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.TKETWXM</td><td>13.0</td><td>5.4 GB</td><td>2024-03-22</td><td><a href="/hyperos/fleur/stable/OS1.0.1.0.TKETWXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11S 4G / POCO M4 Pro 4G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TKETWXM</td><td>13.0</td><td>3.7 GB</td><td>2024-04-22</td><td><a href="/hyperos/fleur/stable/OS1.0.1.0.TKETWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
