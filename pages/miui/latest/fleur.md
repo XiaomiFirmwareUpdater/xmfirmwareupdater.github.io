@@ -56,7 +56,6 @@ permalink: /miui/fleur/
 <tr><td>Redmi Note 11S 4G / POCO M4 Pro 4G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TKEIDXM</td><td>13.0</td><td>3.7 GB</td><td>2023-07-07</td><td><a href="/miui/fleur/stable beta/V14.0.2.0.TKEIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11S 4G / POCO M4 Pro 4G Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TKERUXM</td><td>13.0</td><td>3.7 GB</td><td>2023-07-03</td><td><a href="/miui/fleur/stable beta/V14.0.2.0.TKERUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11S 4G / POCO M4 Pro 4G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TKETRXM</td><td>13.0</td><td>3.7 GB</td><td>2023-06-21</td><td><a href="/miui/fleur/stable beta/V14.0.1.0.TKETRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11S 4G / POCO M4 Pro 4G Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TKETWXM</td><td>13.0</td><td>3.5 GB</td><td>2023-07-06</td><td><a href="/miui/fleur/stable/V14.0.1.0.TKETWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
