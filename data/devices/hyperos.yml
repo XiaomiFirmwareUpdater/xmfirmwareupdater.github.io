@@ -3544,6 +3544,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UKDEUXM/fw_vili_miui_VILIEEAGlobal_OS1.0.2.0.UKDEUXM_bc09d1ca3c_14.0.zip
   name: Xiaomi 11T Pro
   version: OS1.0.2.0.UKDEUXM
+- android: '14.0'
+  codename: vili
+  date: '2024-07-05'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UKDINXM/fw_vili_miui_VILIINGlobal_OS1.0.3.0.UKDINXM_933252bc96_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.3.0.UKDINXM
 - android: '13.0'
   codename: viva
   date: '2024-02-29'
