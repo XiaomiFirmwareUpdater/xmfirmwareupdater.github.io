@@ -52,7 +52,8 @@ permalink: /archive/hyperos/breeze/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 13R China</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNUCNXM</td><td>14.0</td><td>4.7 GB</td><td>2024-05-31</td><td><a href="/hyperos/breeze/stable/OS1.0.3.0.UNUCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 13R China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.UNUCNXM</td><td>14.0</td><td>4.7 GB</td><td>2024-07-05</td><td><a href="/hyperos/breeze/stable beta/OS1.0.5.0.UNUCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13R China</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNUCNXM</td><td>14.0</td><td>4.7 GB</td><td>2024-05-31</td><td><a href="/hyperos/breeze/stable/OS1.0.3.0.UNUCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13R China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UNUCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-05-24</td><td><a href="/hyperos/breeze/stable/OS1.0.3.0.UNUCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13R China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UNUCNXM</td><td>14.0</td><td>463 Bytes</td><td>None</td><td><a href="/hyperos/breeze/stable/OS1.0.2.0.UNUCNXM/">Download</a></td></tr>
 

@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2024-05-31'
+  date: '2024-07-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-31.05.2024/fw_breeze_miui_BREEZE_OS1.0.3.0.UNUCNXM_8202f48cd2_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/breeze/fw_breeze_miui_BREEZE_OS1.0.3.0.UNUCNXM_8202f48cd2_14.0.zip
-  filename: fw_breeze_miui_BREEZE_OS1.0.3.0.UNUCNXM_8202f48cd2_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-08.07.2024/fw_breeze_miui_BREEZE_OS1.0.5.0.UNUCNXM_4d970379cc_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/breeze/fw_breeze_miui_BREEZE_OS1.0.5.0.UNUCNXM_4d970379cc_14.0.zip
+  filename: fw_breeze_miui_BREEZE_OS1.0.5.0.UNUCNXM_4d970379cc_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.3.0.UNUCNXM
+    miui: OS1.0.5.0.UNUCNXM

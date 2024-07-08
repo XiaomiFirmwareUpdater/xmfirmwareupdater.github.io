@@ -54,10 +54,7 @@ permalink: /hyperos/gale/
                 <tbody>
                 <tr><td>Redmi 13C / POCO C65 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UGPEUXM</td><td>14.0</td><td>6.9 GB</td><td>2024-06-11</td><td><a href="/hyperos/gale/stable/OS1.0.3.0.UGPEUXM/">Download</a></td></tr>
 <tr><td>Redmi 13C / POCO C65 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UGPEUXM</td><td>14.0</td><td>4.4 GB</td><td>2024-06-21</td><td><a href="/hyperos/gale/stable/OS1.0.3.0.UGPEUXM/">Download</a></td></tr>
-<tr><td>Redmi 13C / POCO C65 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UGPMIXM</td><td>14.0</td><td>7.0 GB</td><td>2024-05-28</td><td><a href="/hyperos/gale/stable/OS1.0.2.0.UGPMIXM/">Download</a></td></tr>
-<tr><td>Redmi 13C / POCO C65 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UGPMIXM</td><td>14.0</td><td>4.3 GB</td><td>2024-06-06</td><td><a href="/hyperos/gale/stable/OS1.0.2.0.UGPMIXM/">Download</a></td></tr>
 <tr><td>Redmi 13C / POCO C65 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UGPIDXM</td><td>14.0</td><td>4.3 GB</td><td>2024-05-08</td><td><a href="/hyperos/gale/stable/OS1.0.3.0.UGPIDXM/">Download</a></td></tr>
-<tr><td>Redmi 13C / POCO C65 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UGPRUXM</td><td>14.0</td><td>4.2 GB</td><td>2024-05-08</td><td><a href="/hyperos/gale/stable/OS1.0.3.0.UGPRUXM/">Download</a></td></tr>
 <tr><td>Redmi 13C / POCO C65 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UGPTRXM</td><td>14.0</td><td>5.9 GB</td><td>2024-04-27</td><td><a href="/hyperos/gale/stable/OS1.0.2.0.UGPTRXM/">Download</a></td></tr>
 <tr><td>Redmi 13C / POCO C65 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UGPTRXM</td><td>14.0</td><td>4.2 GB</td><td>2024-05-09</td><td><a href="/hyperos/gale/stable/OS1.0.2.0.UGPTRXM/">Download</a></td></tr>
 <tr><td>Redmi 13C / POCO C65 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UGPTWXM</td><td>14.0</td><td>5.7 GB</td><td>2024-04-27</td><td><a href="/hyperos/gale/stable/OS1.0.2.0.UGPTWXM/">Download</a></td></tr>

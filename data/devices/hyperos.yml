@@ -281,6 +281,12 @@
   name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
   version: OS1.0.3.0.UNUCNXM
 - android: '14.0'
+  codename: breeze
+  date: '2024-07-08'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UNUCNXM/fw_breeze_miui_BREEZE_OS1.0.5.0.UNUCNXM_4d970379cc_14.0.zip
+  name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
+  version: OS1.0.5.0.UNUCNXM
+- android: '14.0'
   codename: chenfeng
   date: '2024-03-28'
   download: https://bigota.d.miui.com/OS1.0.4.0.UNJCNXM/fw_chenfeng_miui_CHENFENG_OS1.0.4.0.UNJCNXM_6dd643228e_14.0.zip
@@ -1800,6 +1806,12 @@
   version: OS1.0.3.0.UMRCNXM
 - android: '14.0'
   codename: marble
+  date: '2024-07-08'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMRMIXM/fw_marble_miui_MARBLEGlobal_OS1.0.6.0.UMRMIXM_bf30e0baf5_14.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS1.0.6.0.UMRMIXM
+- android: '14.0'
+  codename: marble
   date: '2024-03-04'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMREUXM/fw_marble_miui_MARBLEEEAGlobal_OS1.0.5.0.UMREUXM_58f0b22821_14.0.zip
   name: Redmi Note 12 Turbo/POCO F5
@@ -2032,6 +2044,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.ULMEUXM/fw_munch_miui_MUNCHEEAGlobal_OS1.0.1.0.ULMEUXM_0f15673ab7_14.0.zip
   name: Redmi K40S/POCO F4
   version: OS1.0.1.0.ULMEUXM
+- android: '14.0'
+  codename: munch
+  date: '2024-07-08'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULMEUXM/fw_munch_miui_MUNCHEEAGlobal_OS1.0.2.0.ULMEUXM_23bf621c6d_14.0.zip
+  name: Redmi K40S/POCO F4
+  version: OS1.0.2.0.ULMEUXM
 - android: '14.0'
   codename: munch
   date: '2024-05-06'
@@ -2356,6 +2374,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.TKTMIXM/fw_pissarro_miui_PISSARROGlobal_OS1.0.3.0.TKTMIXM_8487a2e85b_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
   version: OS1.0.3.0.TKTMIXM
+- android: '13.0'
+  codename: pissarro
+  date: '2024-07-08'
+  download: https://bigota.d.miui.com/OS1.0.3.0.TKTEUXM/fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.3.0.TKTEUXM_73c66a7832_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: OS1.0.3.0.TKTEUXM
 - android: '13.0'
   codename: pissarro
   date: '2024-04-08'
@@ -3652,6 +3676,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMUEUXM/fw_xun_miui_XUNEEAGlobal_OS1.0.2.0.UMUEUXM_253904c07b_14.0.zip
   name: Redmi Pad SE
   version: OS1.0.2.0.UMUEUXM
+- android: '14.0'
+  codename: xun
+  date: '2024-07-08'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMUCNXM/fw_xun_miui_XUN_OS1.0.5.0.UMUCNXM_892043337f_14.0.zip
+  name: Redmi Pad SE
+  version: OS1.0.5.0.UMUCNXM
 - android: '14.0'
   codename: yudi
   date: '2024-06-17'
