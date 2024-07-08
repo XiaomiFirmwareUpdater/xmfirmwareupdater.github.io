@@ -159,6 +159,16 @@
     android: '13.0'
     miui: V14.0.14.0.TMLCNXM
 - branch: stable
+  date: '2024-07-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-09.07.2024/fw_corot_miui_COROT_OS1.0.17.0.UMLCNXM_df5b9ad2c6_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/corot/fw_corot_miui_COROT_OS1.0.17.0.UMLCNXM_df5b9ad2c6_14.0.zip
+  filename: fw_corot_miui_COROT_OS1.0.17.0.UMLCNXM_df5b9ad2c6_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.17.0.UMLCNXM
+- branch: stable
   date: '2023-11-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-07.11.2023/fw_corot_miui_COROTGlobal_V14.0.9.0.TMLMIXM_b9c736328d_13.0.zip
