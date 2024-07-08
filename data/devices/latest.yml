@@ -1639,25 +1639,25 @@
     android: '14.0'
     miui: OS1.0.8.0.UMXEUXM
 - branch: stable
-  date: '2024-05-13'
+  date: '2024-07-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-13.05.2024/fw_fire_miui_FIREINGlobal_OS1.0.2.0.UMXINXM_776923679e_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fire/fw_fire_miui_FIREINGlobal_OS1.0.2.0.UMXINXM_776923679e_14.0.zip
-  filename: fw_fire_miui_FIREINGlobal_OS1.0.2.0.UMXINXM_776923679e_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-08.07.2024/fw_fire_miui_FIREINGlobal_OS1.0.3.0.UMXINXM_f1fd1fd869_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fire/fw_fire_miui_FIREINGlobal_OS1.0.3.0.UMXINXM_f1fd1fd869_14.0.zip
+  filename: fw_fire_miui_FIREINGlobal_OS1.0.3.0.UMXINXM_f1fd1fd869_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.2.0.UMXINXM
+    miui: OS1.0.3.0.UMXINXM
 - branch: stable
-  date: '2024-03-05'
+  date: '2024-07-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-05.03.2024/fw_fleur_miui_FLEURGlobal_OS1.0.1.0.TKEMIXM_c5fa5ce2d9_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fleur/fw_fleur_miui_FLEURGlobal_OS1.0.1.0.TKEMIXM_c5fa5ce2d9_13.0.zip
-  filename: fw_fleur_miui_FLEURGlobal_OS1.0.1.0.TKEMIXM_c5fa5ce2d9_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-08.07.2024/fw_fleur_miui_FLEURGlobal_OS1.0.2.0.TKEMIXM_7f019090a0_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fleur/fw_fleur_miui_FLEURGlobal_OS1.0.2.0.TKEMIXM_7f019090a0_13.0.zip
+  filename: fw_fleur_miui_FLEURGlobal_OS1.0.2.0.TKEMIXM_7f019090a0_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: OS1.0.1.0.TKEMIXM
+    miui: OS1.0.2.0.TKEMIXM
 - branch: stable
   date: '2024-03-28'
   downloads:
@@ -4969,15 +4969,15 @@
     android: '13.0'
     miui: OS1.0.3.0.TGKEUXM
 - branch: stable
-  date: '2024-06-03'
+  date: '2024-07-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-03.06.2024/fw_star_miui_STARGlobal_OS1.0.2.0.UKAMIXM_c5850393fb_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/star/fw_star_miui_STARGlobal_OS1.0.2.0.UKAMIXM_c5850393fb_14.0.zip
-  filename: fw_star_miui_STARGlobal_OS1.0.2.0.UKAMIXM_c5850393fb_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-08.07.2024/fw_star_miui_STARGlobal_OS1.0.3.0.UKAMIXM_868ace962e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/star/fw_star_miui_STARGlobal_OS1.0.3.0.UKAMIXM_868ace962e_14.0.zip
+  filename: fw_star_miui_STARGlobal_OS1.0.3.0.UKAMIXM_868ace962e_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.2.0.UKAMIXM
+    miui: OS1.0.3.0.UKAMIXM
 - branch: stable
   date: '2024-07-01'
   downloads:

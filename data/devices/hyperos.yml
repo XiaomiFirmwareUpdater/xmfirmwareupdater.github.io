@@ -930,6 +930,12 @@
   version: OS1.0.3.0.UMXMIXM
 - android: '14.0'
   codename: fire
+  date: '2024-07-08'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMXINXM/fw_fire_miui_FIREINGlobal_OS1.0.3.0.UMXINXM_f1fd1fd869_14.0.zip
+  name: Redmi 12
+  version: OS1.0.3.0.UMXINXM
+- android: '14.0'
+  codename: fire
   date: '2024-02-03'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMXEUXM/fw_fire_miui_FIREEEAGlobal_OS1.0.2.0.UMXEUXM_a32447ba31_14.0.zip
   name: Redmi 12
@@ -940,6 +946,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.TKEEUXM/fw_fleur_miui_FLEUREEAGlobal_OS1.0.1.0.TKEEUXM_836659370c_13.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: OS1.0.1.0.TKEEUXM
+- android: '13.0'
+  codename: fleur
+  date: '2024-07-08'
+  download: https://bigota.d.miui.com/OS1.0.2.0.TKEMIXM/fw_fleur_miui_FLEURGlobal_OS1.0.2.0.TKEMIXM_7f019090a0_13.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: OS1.0.2.0.TKEMIXM
 - android: '13.0'
   codename: fleur
   date: '2024-03-05'
@@ -3160,6 +3172,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UKAINXM/fw_star_miui_STARINGlobal_OS1.0.2.0.UKAINXM_2c501448a3_14.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: OS1.0.2.0.UKAINXM
+- android: '14.0'
+  codename: star
+  date: '2024-07-08'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UKAMIXM/fw_star_miui_STARGlobal_OS1.0.3.0.UKAMIXM_868ace962e_14.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: OS1.0.3.0.UKAMIXM
 - android: '14.0'
   codename: star
   date: '2024-06-03'
