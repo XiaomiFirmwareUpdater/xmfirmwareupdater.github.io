@@ -499,6 +499,16 @@
     android: '14.0'
     miui: OS1.0.5.0.UNUCNXM
 - branch: stable
+  date: '2024-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-09.07.2024/fw_breeze_miui_BREEZEINGlobal_OS1.0.4.0.UNUINXM_0f4314a62b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/breeze/fw_breeze_miui_BREEZEINGlobal_OS1.0.4.0.UNUINXM_0f4314a62b_14.0.zip
+  filename: fw_breeze_miui_BREEZEINGlobal_OS1.0.4.0.UNUINXM_0f4314a62b_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UNUINXM
+- branch: stable
   date: '2020-09-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cactus/releases/download/stable-22.09.2020/fw_cactus_miui_HM6AGlobal_V11.0.9.0.PCBMIXM_ad95ef825f_9.0.zip
@@ -1779,15 +1789,15 @@
     android: '14.0'
     miui: OS1.0.3.0.UGPEUXM
 - branch: stable
-  date: '2024-05-06'
+  date: '2024-07-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-06.05.2024/fw_gale_miui_GALEINGlobal_OS1.0.2.0.UGPINXM_c0fa2c2c6c_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/gale/fw_gale_miui_GALEINGlobal_OS1.0.2.0.UGPINXM_c0fa2c2c6c_14.0.zip
-  filename: fw_gale_miui_GALEINGlobal_OS1.0.2.0.UGPINXM_c0fa2c2c6c_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-09.07.2024/fw_gale_miui_GALEINGlobal_OS1.0.3.0.UGPINXM_860bfab234_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/gale/fw_gale_miui_GALEINGlobal_OS1.0.3.0.UGPINXM_860bfab234_14.0.zip
+  filename: fw_gale_miui_GALEINGlobal_OS1.0.3.0.UGPINXM_860bfab234_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.2.0.UGPINXM
+    miui: OS1.0.3.0.UGPINXM
 - branch: stable
   date: '2024-06-21'
   downloads:

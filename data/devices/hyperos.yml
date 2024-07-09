@@ -288,6 +288,12 @@
   version: OS1.0.3.0.UNUCNXM
 - android: '14.0'
   codename: breeze
+  date: '2024-07-09'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNUINXM/fw_breeze_miui_BREEZEINGlobal_OS1.0.4.0.UNUINXM_0f4314a62b_14.0.zip
+  name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
+  version: OS1.0.4.0.UNUINXM
+- android: '14.0'
+  codename: breeze
   date: '2024-07-08'
   download: https://bigota.d.miui.com/OS1.0.5.0.UNUCNXM/fw_breeze_miui_BREEZE_OS1.0.5.0.UNUCNXM_4d970379cc_14.0.zip
   name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
@@ -1072,6 +1078,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UGPMIXM/fw_gale_miui_GALEGlobal_OS1.0.2.0.UGPMIXM_a69fb77e05_14.0.zip
   name: Redmi 13C/POCO C65
   version: OS1.0.2.0.UGPMIXM
+- android: '14.0'
+  codename: gale
+  date: '2024-07-09'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UGPINXM/fw_gale_miui_GALEINGlobal_OS1.0.3.0.UGPINXM_860bfab234_14.0.zip
+  name: Redmi 13C/POCO C65
+  version: OS1.0.3.0.UGPINXM
 - android: '14.0'
   codename: gale
   date: '2024-05-06'

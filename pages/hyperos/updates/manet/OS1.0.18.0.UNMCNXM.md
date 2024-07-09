@@ -3,7 +3,7 @@ title: Redmi K70 Pro China HyperOS OS1.0.18.0.UNMCNXM Update
 layout: download
 name: Redmi K70 Pro China
 codename: manet
-permalink: /hyperos/manet/stable beta/OS1.0.18.0.UNMCNXM/
+permalink: /hyperos/manet/stable/OS1.0.18.0.UNMCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/manet/stable beta/OS1.0.18.0.UNMCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.18.0.UNMCNXM Stable Beta Official Update for Redmi K70 Pro China (manet)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.18.0.UNMCNXM Stable Official Update for Redmi K70 Pro China (manet)</h3>
     <h5>This page shows the OS1.0.18.0.UNMCNXM update only. If you're looking for other updates check
         <a href="/hyperos/manet/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/manet/stable beta/OS1.0.18.0.UNMCNXM/
                     <h5><b>Version: </b>OS1.0.18.0.UNMCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/manet/stable beta/OS1.0.18.0.UNMCNXM/
                             aria-expanded="false" aria-controls="manet_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="manet_1_changelog">
+                        <p id="changelog_text">[System]<br>Optimization: 应用切换时的系统资源回收策略，提升应用流畅度<br>Optimization: New startup animation strategy reduces app launch delays<br>Optimization: Improved app preloading to enhance app startup speed<br>Optimization: Optimized memory usage to improve the smoothness of TikTok (Douyin)<br>Fix: Having too many notifications could cause the system to restart<br>Fix: Game Turbo stopped working in some cases<br>Fix: Animations weren't always displayed correctly when opening an app in Recents<br>[Notes]<br>Fix: Cloud sync failed when note attachments exceeded 20 MB<br>[Control center]<br>Fix: Some toggles occasionally failed to work<br>[Widgets]<br>New: Travel assistant can remind you of train and flight schedules for more convenient travel (requires upgrading App vault to version 5.12.2 or above, Messaging to version 15.0.2.24 or above, and Mi AI Engine to version 2.2 or above from GetApps).<br>Optimization: App vault loading speed<br>Fix: Zoom animation was abnormal when tapping the Music widget<br>Fix: A rare display issue occurred when adding the Clock widget<br>[Lock screen]<br>Optimization: New "press and hold to edit" logic for Lock screen reduces accidental triggers<br>[Clock]<br>Fix: Alarm couldn't be turned off using buttons after it rang<br>[Gallery]<br>Optimization: Improved video synchronization strategy to enhance playback smoothness<br>Fix: Preview thumbnails in Gallery took too long to load when a large number of images were generated in a short period<br>Fix: Photo timestamps were lost during cloud sync, causing incorrect dates<br>Fix: Deleted photos reappeared after being removed during cloud synchronization<br>Fix: Memories couldn't be played on some device models<br>Fix: Preview thumbnails in Gallery displayed abnormally when capturing a large number of photos consecutively<br>[File Manager]<br>Optimization: Loading speed of the file list<br>[Security]<br>Optimization: Updated optimizarion score calculation rules to improve accuracy<br>[Status bar, Notification shade]<br>Fix: Single-line notification icons were not fully displayed<br>Fix: Blank notifications appeared with only the icon displayed<br>Fix: The 5G icon in the status bar wasn't fully displayed after switching font size or changing to a third party font</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi K70 Pro China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/manet/" target="_blank">manet</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.18.0.UNMCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>8.3 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-07-03</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">manet_images_OS1.0.18.0.UNMCNXM_20240703.0000.00_14.0_cn_f9076a8569.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f9076a856900b8fd970c3d4da7db4600</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.18.0.UNMCNXM/manet_images_OS1.0.18.0.UNMCNXM_20240703.0000.00_14.0_cn_f9076a8569.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.18.0.UNMCNXM/manet_images_OS1.0.18.0.UNMCNXM_20240703.0000.00_14.0_cn_f9076a8569.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.18.0.UNMCNXM/manet_images_OS1.0.18.0.UNMCNXM_20240703.0000.00_14.0_cn_f9076a8569.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.18.0.UNMCNXM/manet_images_OS1.0.18.0.UNMCNXM_20240703.0000.00_14.0_cn_f9076a8569.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.18.0.UNMCNXM/manet_images_OS1.0.18.0.UNMCNXM_20240703.0000.00_14.0_cn_f9076a8569.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#manet_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="manet_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="manet_2_changelog">
                         <p id="changelog_text">[System]<br>Optimization: 应用切换时的系统资源回收策略，提升应用流畅度<br>Optimization: New startup animation strategy reduces app launch delays<br>Optimization: Improved app preloading to enhance app startup speed<br>Optimization: Optimized memory usage to improve the smoothness of TikTok (Douyin)<br>Fix: Having too many notifications could cause the system to restart<br>Fix: Game Turbo stopped working in some cases<br>Fix: Animations weren't always displayed correctly when opening an app in Recents<br>[Notes]<br>Fix: Cloud sync failed when note attachments exceeded 20 MB<br>[Control center]<br>Fix: Some toggles occasionally failed to work<br>[Widgets]<br>New: Travel assistant can remind you of train and flight schedules for more convenient travel (requires upgrading App vault to version 5.12.2 or above, Messaging to version 15.0.2.24 or above, and Mi AI Engine to version 2.2 or above from GetApps).<br>Optimization: App vault loading speed<br>Fix: Zoom animation was abnormal when tapping the Music widget<br>Fix: A rare display issue occurred when adding the Clock widget<br>[Lock screen]<br>Optimization: New "press and hold to edit" logic for Lock screen reduces accidental triggers<br>[Clock]<br>Fix: Alarm couldn't be turned off using buttons after it rang<br>[Gallery]<br>Optimization: Improved video synchronization strategy to enhance playback smoothness<br>Fix: Preview thumbnails in Gallery took too long to load when a large number of images were generated in a short period<br>Fix: Photo timestamps were lost during cloud sync, causing incorrect dates<br>Fix: Deleted photos reappeared after being removed during cloud synchronization<br>Fix: Memories couldn't be played on some device models<br>Fix: Preview thumbnails in Gallery displayed abnormally when capturing a large number of photos consecutively<br>[File Manager]<br>Optimization: Loading speed of the file list<br>[Security]<br>Optimization: Updated optimizarion score calculation rules to improve accuracy<br>[Status bar, Notification shade]<br>Fix: Single-line notification icons were not fully displayed<br>Fix: Blank notifications appeared with only the icon displayed<br>Fix: The 5G icon in the status bar wasn't fully displayed after switching font size or changing to a third party font</p>
                     </div>
                 </li>
