@@ -1284,6 +1284,12 @@
   version: OS1.0.1.0.UKKINXM
 - android: '14.0'
   codename: haydn
+  date: '2024-07-09'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UKKEUXM/fw_haydn_miui_HAYDNEEAGlobal_OS1.0.3.0.UKKEUXM_9e995fe62c_14.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: OS1.0.3.0.UKKEUXM
+- android: '14.0'
+  codename: haydn
   date: '2024-05-05'
   download: https://bigota.d.miui.com/OS1.0.2.0.UKKEUXM/fw_haydn_miui_HAYDNEEAGlobal_OS1.0.2.0.UKKEUXM_7dc6743676_14.0.zip
   name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
@@ -2662,6 +2668,18 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UFSINXM/fw_ruan_miui_RUANINGlobal_OS1.0.1.0.UFSINXM_42dad36ffb_14.0.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS1.0.1.0.UFSINXM
+- android: '14.0'
+  codename: ruan
+  date: '2024-07-09'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UFSMIXM/fw_ruan_miui_RUANGlobal_OS1.0.2.0.UFSMIXM_17a28b31a0_14.0.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS1.0.2.0.UFSMIXM
+- android: '14.0'
+  codename: ruan
+  date: '2024-07-09'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UFSCNXM/fw_ruan_miui_RUAN_OS1.0.3.0.UFSCNXM_5885e36f01_14.0.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS1.0.3.0.UFSCNXM
 - android: '14.0'
   codename: rubens
   date: '2024-03-29'
