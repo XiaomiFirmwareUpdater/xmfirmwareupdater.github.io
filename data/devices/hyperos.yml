@@ -1056,6 +1056,12 @@
   version: OS1.0.6.0.UMCCNXM
 - android: '14.0'
   codename: fuxi
+  date: '2024-07-10'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMCCNXM/fw_fuxi_miui_FUXI_OS1.0.9.0.UMCCNXM_ae3430817c_14.0.zip
+  name: Xiaomi 13
+  version: OS1.0.9.0.UMCCNXM
+- android: '14.0'
+  codename: fuxi
   date: '2024-02-05'
   download: https://bigota.d.miui.com/OS1.0.3.0.UMCEUXM/fw_fuxi_miui_FUXIEEAGlobal_OS1.0.3.0.UMCEUXM_9f9462dca8_14.0.zip
   name: Xiaomi 13
@@ -2668,6 +2674,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UFSINXM/fw_ruan_miui_RUANINGlobal_OS1.0.1.0.UFSINXM_42dad36ffb_14.0.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS1.0.1.0.UFSINXM
+- android: '14.0'
+  codename: ruan
+  date: '2024-07-10'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UFSINXM/fw_ruan_miui_RUANINGlobal_OS1.0.2.0.UFSINXM_5a9b95539c_14.0.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS1.0.2.0.UFSINXM
 - android: '14.0'
   codename: ruan
   date: '2024-07-09'
