@@ -336,6 +336,12 @@
   version: OS1.0.3.0.UNJINXM
 - android: '14.0'
   codename: chenfeng
+  date: '2024-07-11'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNJINXM/fw_chenfeng_miui_CHENFENGINGlobal_OS1.0.4.0.UNJINXM_cfd41edd0c_14.0.zip
+  name: Xiaomi Civi 4 Pro
+  version: OS1.0.4.0.UNJINXM
+- android: '14.0'
+  codename: chenfeng
   date: '2024-06-07'
   download: https://bigota.d.miui.com/OS1.0.10.0.UNJCNXM/fw_chenfeng_miui_CHENFENG_OS1.0.10.0.UNJCNXM_995e516566_14.0.zip
   name: Xiaomi Civi 4 Pro
