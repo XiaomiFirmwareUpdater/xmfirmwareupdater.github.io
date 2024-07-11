@@ -78,6 +78,18 @@
   version: OS1.0.1.0.TKHINXM
 - android: '13.0'
   codename: alioth
+  date: '2024-07-11'
+  download: https://bigota.d.miui.com/OS1.0.2.0.TKHEUXM/fw_alioth_miui_ALIOTHEEAGlobal_OS1.0.2.0.TKHEUXM_3a22ce5eff_13.0.zip
+  name: Redmi K40/POCO F3/Mi 11X
+  version: OS1.0.2.0.TKHEUXM
+- android: '13.0'
+  codename: alioth
+  date: '2024-07-11'
+  download: https://bigota.d.miui.com/OS1.0.2.0.TKHINXM/fw_alioth_miui_ALIOTHINGlobal_OS1.0.2.0.TKHINXM_14c0f2dff1_13.0.zip
+  name: Redmi K40/POCO F3/Mi 11X
+  version: OS1.0.2.0.TKHINXM
+- android: '13.0'
+  codename: alioth
   date: '2024-05-07'
   download: https://bigota.d.miui.com/OS1.0.1.0.TKHEUXM/fw_alioth_miui_ALIOTHEEAGlobal_OS1.0.1.0.TKHEUXM_b0de6008b0_13.0.zip
   name: Redmi K40/POCO F3/Mi 11X
@@ -3636,6 +3648,12 @@
   version: OS1.0.3.0.TGDINXM
 - android: '14.0'
   codename: vili
+  date: '2024-07-11'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UKDMIXM/fw_vili_miui_VILIGlobal_OS1.0.3.0.UKDMIXM_ae3a8389bb_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.3.0.UKDMIXM
+- android: '14.0'
+  codename: vili
   date: '2024-05-09'
   download: https://bigota.d.miui.com/OS1.0.2.0.UKDMIXM/fw_vili_miui_VILIGlobal_OS1.0.2.0.UKDMIXM_4666382f76_14.0.zip
   name: Xiaomi 11T Pro
@@ -3970,6 +3988,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNOCNXM/fw_zircon_miui_ZIRCON_OS1.0.4.0.UNOCNXM_97a8daff31_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.4.0.UNOCNXM
+- android: '14.0'
+  codename: zircon
+  date: '2024-07-11'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UNOEUXM/fw_zircon_miui_ZIRCONEEAGlobal_OS1.0.6.0.UNOEUXM_fe45d6ab11_14.0.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS1.0.6.0.UNOEUXM
 - android: '14.0'
   codename: zircon
   date: '2024-05-10'
