@@ -282,6 +282,12 @@
   version: OS1.0.2.0.UMVCNXM
 - android: '14.0'
   codename: babylon
+  date: '2024-07-11'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.9.0.UMVCNXM_14d1a69a54_14.0.zip
+  name: MIX Fold 3
+  version: OS1.0.9.0.UMVCNXM
+- android: '14.0'
+  codename: babylon
   date: '2024-06-03'
   download: https://bigota.d.miui.com/OS1.0.6.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.6.0.UMVCNXM_34b143e4d0_14.0.zip
   name: MIX Fold 3
@@ -3490,6 +3496,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMGEUXM/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.3.0.UMGEUXM_351da45d3b_14.0.zip
   name: Redmi Note 12 4G NFC
   version: OS1.0.3.0.UMGEUXM
+- android: '14.0'
+  codename: unicorn
+  date: '2024-07-11'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULECNXM/fw_unicorn_miui_UNICORN_OS1.0.5.0.ULECNXM_700f13181d_14.0.zip
+  name: Xiaomi 12S Pro
+  version: OS1.0.5.0.ULECNXM
 - android: '14.0'
   codename: unicorn
   date: '2024-04-11'
