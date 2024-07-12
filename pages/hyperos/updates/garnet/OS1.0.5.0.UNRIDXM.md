@@ -78,7 +78,7 @@ permalink: /hyperos/garnet/stable/OS1.0.5.0.UNRIDXM/
                             aria-expanded="false" aria-controls="garnet_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="garnet_1_changelog">
-                        <p id="changelog_text">[System]<br>Updated the security patch to June 2024. Increased system security.<br>Updated the security patch to June 2024. Increased system security.</p>
+                        <p id="changelog_text">[System]<br>Updated the security patch to June 2024. Increased system security.</p>
                     </div>
                 </li>
             </ul>

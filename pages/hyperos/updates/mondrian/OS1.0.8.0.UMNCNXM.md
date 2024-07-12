@@ -78,7 +78,7 @@ permalink: /hyperos/mondrian/stable/OS1.0.8.0.UMNCNXM/
                             aria-expanded="false" aria-controls="mondrian_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="mondrian_1_changelog">
-                        <p id="changelog_text">[System]<br>Updated the security patch to May 2024. Increased system security.<br>Updated the security patch to May 2024. Increased system security.</p>
+                        <p id="changelog_text">[System]<br>Updated the security patch to May 2024. Increased system security.</p>
                     </div>
                 </li>
             </ul>

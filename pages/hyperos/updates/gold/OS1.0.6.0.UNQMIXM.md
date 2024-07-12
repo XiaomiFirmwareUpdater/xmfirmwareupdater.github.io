@@ -78,7 +78,7 @@ permalink: /hyperos/gold/stable/OS1.0.6.0.UNQMIXM/
                             aria-expanded="false" aria-controls="gold_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="gold_1_changelog">
-                        <p id="changelog_text">[System]<br>Updated the security patch to May 2024. Increased system security.<br>Updated the security patch to May 2024. Increased system security.</p>
+                        <p id="changelog_text">[System]<br>Updated the security patch to May 2024. Increased system security.</p>
                     </div>
                 </li>
             </ul>

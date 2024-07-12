@@ -816,6 +816,12 @@
   version: OS1.0.4.0.UCVMIXM
 - android: '14.0'
   codename: earth
+  date: '2024-07-12'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UCVMIXM/fw_earth_miui_EARTHGlobal_OS1.0.5.0.UCVMIXM_162be118bc_14.0.zip
+  name: Redmi 12C/POCO C55
+  version: OS1.0.5.0.UCVMIXM
+- android: '14.0'
+  codename: earth
   date: '2024-01-11'
   download: https://bigota.d.miui.com/OS1.0.2.0.UCVMIXM/fw_earth_miui_EARTHGlobal_OS1.0.2.0.UCVMIXM_594f88abfe_14.0.zip
   name: Redmi 12C/POCO C55
@@ -3250,6 +3256,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UKAINXM/fw_star_miui_STARINGlobal_OS1.0.2.0.UKAINXM_2c501448a3_14.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: OS1.0.2.0.UKAINXM
+- android: '14.0'
+  codename: star
+  date: '2024-07-12'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UKAEUXM/fw_star_miui_STAREEAGlobal_OS1.0.2.0.UKAEUXM_c240ad2ac3_14.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: OS1.0.2.0.UKAEUXM
 - android: '14.0'
   codename: star
   date: '2024-07-08'

@@ -78,7 +78,7 @@ permalink: /hyperos/houji/stable/OS1.0.11.0.UNCMIXM/
                             aria-expanded="false" aria-controls="houji_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="houji_1_changelog">
-                        <p id="changelog_text">[System]<br>Updated the security patch to April 2024. Increased system security.<br>Updated the security patch to April 2024. Increased system security.</p>
+                        <p id="changelog_text">[System]<br>Updated the security patch to April 2024. Increased system security.</p>
                     </div>
                 </li>
             </ul>

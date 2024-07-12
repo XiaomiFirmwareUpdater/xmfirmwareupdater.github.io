@@ -78,7 +78,7 @@ permalink: /hyperos/dizi/stable/OS1.0.12.0.UNSCNXM/
                             aria-expanded="false" aria-controls="dizi_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="dizi_1_changelog">
-                        <p id="changelog_text">[System]<br>Increased system security</p>
+                        <p id="changelog_text">[Other]<br>Optimized system performance<br>Improved system security and stability</p>
                     </div>
                 </li>
             </ul>
