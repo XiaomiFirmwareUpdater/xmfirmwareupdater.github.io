@@ -414,6 +414,12 @@
   version: OS1.0.1.0.UMLMIXM
 - android: '14.0'
   codename: corot
+  date: '2024-07-12'
+  download: https://bigota.d.miui.com/OS1.0.18.0.UMLCNXM/fw_corot_miui_COROT_OS1.0.18.0.UMLCNXM_a086066b44_14.0.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS1.0.18.0.UMLCNXM
+- android: '14.0'
+  codename: corot
   date: '2024-01-11'
   download: https://bigota.d.miui.com/OS1.0.3.0.UMLEUXM/fw_corot_miui_COROTEEAGlobal_OS1.0.3.0.UMLEUXM_47a27150be_14.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
@@ -1540,6 +1546,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULJMIXM/fw_ingres_miui_INGRESGlobal_OS1.0.2.0.ULJMIXM_077719a50c_14.0.zip
   name: Redmi K50G/POCO F4 GT
   version: OS1.0.2.0.ULJMIXM
+- android: '14.0'
+  codename: ingres
+  date: '2024-07-12'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULJCNXM/fw_ingres_miui_INGRES_OS1.0.3.0.ULJCNXM_116116aa90_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.3.0.ULJCNXM
 - android: '14.0'
   codename: ingres
   date: '2024-04-09'

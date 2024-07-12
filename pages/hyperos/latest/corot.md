@@ -54,7 +54,7 @@ permalink: /hyperos/corot/
                 <tbody>
                 <tr><td>Redmi K60 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.15.0.UMLCNXM</td><td>14.0</td><td>8.2 GB</td><td>2024-06-24</td><td><a href="/hyperos/corot/stable/OS1.0.15.0.UMLCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.15.0.UMLCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-06-28</td><td><a href="/hyperos/corot/stable/OS1.0.15.0.UMLCNXM/">Download</a></td></tr>
-<tr><td>Redmi K60 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.17.0.UMLCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-07-05</td><td><a href="/hyperos/corot/stable beta/OS1.0.17.0.UMLCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.18.0.UMLCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-07-12</td><td><a href="/hyperos/corot/stable beta/OS1.0.18.0.UMLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UMLEUXM</td><td>14.0</td><td>7.9 GB</td><td>2024-06-03</td><td><a href="/hyperos/corot/stable/OS1.0.8.0.UMLEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UMLEUXM</td><td>14.0</td><td>5.9 GB</td><td>2024-06-19</td><td><a href="/hyperos/corot/stable/OS1.0.8.0.UMLEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMLMIXM</td><td>14.0</td><td>8.2 GB</td><td>2024-06-17</td><td><a href="/hyperos/corot/stable/OS1.0.4.0.UMLMIXM/">Download</a></td></tr>
