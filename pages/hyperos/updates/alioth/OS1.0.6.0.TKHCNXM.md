@@ -78,7 +78,7 @@ permalink: /hyperos/alioth/stable/OS1.0.6.0.TKHCNXM/
                             aria-expanded="false" aria-controls="alioth_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="alioth_1_changelog">
-                        <p id="changelog_text">[System]<br>Updated Android Security Patch to March 2024. Increased system security.<br>Updated Android Security Patch to March 2024. Increased system security.<br>Updated Android Security Patch to March 2024. Increased system security.</p>
+                        <p id="changelog_text">[System]<br>Updated Android Security Patch to March 2024. Increased system security.</p>
                     </div>
                 </li>
             </ul>
