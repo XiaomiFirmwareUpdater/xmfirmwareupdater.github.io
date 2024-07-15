@@ -119,6 +119,26 @@
     android: '14.0'
     miui: OS1.0.4.0.UNAINXM
 - branch: stable
+  date: '2024-07-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-15.07.2024/fw_aurora_miui_AURORAEEAGlobal_OS1.0.9.0.UNAEUXM_e65cdccd65_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAEEAGlobal_OS1.0.9.0.UNAEUXM_e65cdccd65_14.0.zip
+  filename: fw_aurora_miui_AURORAEEAGlobal_OS1.0.9.0.UNAEUXM_e65cdccd65_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.9.0.UNAEUXM
+- branch: stable
+  date: '2024-07-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-15.07.2024/fw_aurora_miui_AURORAINGlobal_OS1.0.7.0.UNAINXM_78afface33_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAINGlobal_OS1.0.7.0.UNAINXM_78afface33_14.0.zip
+  filename: fw_aurora_miui_AURORAINGlobal_OS1.0.7.0.UNAINXM_78afface33_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.7.0.UNAINXM
+- branch: stable
   date: '2024-06-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-14.06.2024/fw_aurora_miui_AURORA_OS1.0.12.0.UNACNXM_c98a167708_14.0.zip

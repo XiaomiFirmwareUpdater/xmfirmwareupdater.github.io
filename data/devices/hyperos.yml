@@ -138,6 +138,12 @@
   version: OS1.0.7.0.UMFEUXM
 - android: '14.0'
   codename: aristotle
+  date: '2024-07-15'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UMFEUXM/fw_aristotle_miui_ARISTOTLEEEAGlobal_OS1.0.10.0.UMFEUXM_9fd522d995_14.0.zip
+  name: Xiaomi 13T
+  version: OS1.0.10.0.UMFEUXM
+- android: '14.0'
+  codename: aristotle
   date: '2024-05-06'
   download: https://bigota.d.miui.com/OS1.0.6.0.UMFEUXM/fw_aristotle_miui_ARISTOTLEEEAGlobal_OS1.0.6.0.UMFEUXM_3cfffbb320_14.0.zip
   name: Xiaomi 13T
@@ -232,6 +238,18 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNAINXM/fw_aurora_miui_AURORAINGlobal_OS1.0.4.0.UNAINXM_77687a8523_14.0.zip
   name: Xiaomi 14 Ultra
   version: OS1.0.4.0.UNAINXM
+- android: '14.0'
+  codename: aurora
+  date: '2024-07-15'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UNAEUXM/fw_aurora_miui_AURORAEEAGlobal_OS1.0.9.0.UNAEUXM_e65cdccd65_14.0.zip
+  name: Xiaomi 14 Ultra
+  version: OS1.0.9.0.UNAEUXM
+- android: '14.0'
+  codename: aurora
+  date: '2024-07-15'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UNAINXM/fw_aurora_miui_AURORAINGlobal_OS1.0.7.0.UNAINXM_78afface33_14.0.zip
+  name: Xiaomi 14 Ultra
+  version: OS1.0.7.0.UNAINXM
 - android: '14.0'
   codename: aurora
   date: '2024-06-13'
@@ -634,6 +652,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNSEUXM/fw_dizi_miui_DIZIEEAGlobal_OS1.0.4.0.UNSEUXM_4a402021d0_14.0.zip
   name: Redmi Pad Pro/POCO Pad
   version: OS1.0.4.0.UNSEUXM
+- android: '14.0'
+  codename: dizi
+  date: '2024-07-15'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UNSMIXM/fw_dizi_miui_DIZIGlobal_OS1.0.5.0.UNSMIXM_80dbe71ba0_14.0.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS1.0.5.0.UNSMIXM
 - android: '14.0'
   codename: dizi
   date: '2024-06-11'
@@ -1560,6 +1584,12 @@
   version: OS1.0.2.0.ULJMIXM
 - android: '14.0'
   codename: ingres
+  date: '2024-07-15'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULJEUXM/fw_ingres_miui_INGRESEEAGlobal_OS1.0.3.0.ULJEUXM_ac3dbfb377_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.3.0.ULJEUXM
+- android: '14.0'
+  codename: ingres
   date: '2024-07-12'
   download: https://bigota.d.miui.com/OS1.0.3.0.ULJCNXM/fw_ingres_miui_INGRES_OS1.0.3.0.ULJCNXM_116116aa90_14.0.zip
   name: Redmi K50G/POCO F4 GT
@@ -2020,6 +2050,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UMNCNXM/fw_mondrian_miui_MONDRIAN_OS1.0.7.0.UMNCNXM_f5c6d87f01_14.0.zip
   name: Redmi K60/POCO F5 Pro
   version: OS1.0.7.0.UMNCNXM
+- android: '14.0'
+  codename: mondrian
+  date: '2024-07-15'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMNEUXM/fw_mondrian_miui_MONDRIANEEAGlobal_OS1.0.5.0.UMNEUXM_15078e7e61_14.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS1.0.5.0.UMNEUXM
 - android: '14.0'
   codename: mondrian
   date: '2024-01-12'
