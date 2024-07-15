@@ -822,6 +822,12 @@
   version: OS1.0.1.0.UCVEUXM
 - android: '14.0'
   codename: earth
+  date: '2024-07-15'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UCVCNXM/fw_earth_miui_EARTH_OS1.0.3.0.UCVCNXM_dd472d6d24_14.0.zip
+  name: Redmi 12C/POCO C55
+  version: OS1.0.3.0.UCVCNXM
+- android: '14.0'
+  codename: earth
   date: '2024-05-15'
   download: https://bigota.d.miui.com/OS1.0.4.0.UCVMIXM/fw_earth_miui_EARTHGlobal_OS1.0.4.0.UCVMIXM_4e31fc54fa_14.0.zip
   name: Redmi 12C/POCO C55
@@ -3630,6 +3636,12 @@
   version: OS1.0.8.0.UNKCNXM
 - android: '14.0'
   codename: vermeer
+  date: '2024-07-15'
+  download: https://bigota.d.miui.com/OS1.0.17.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.17.0.UNKCNXM_42aae2b873_14.0.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS1.0.17.0.UNKCNXM
+- android: '14.0'
+  codename: vermeer
   date: '2024-01-12'
   download: https://bigota.d.miui.com/OS1.0.11.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.11.0.UNKCNXM_2316bc4e67_14.0.zip
   name: Redmi K70/POCO F6 Pro
@@ -3778,6 +3790,18 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.ULOMIXM/fw_xaga_miui_XAGAGlobal_OS1.0.1.0.ULOMIXM_26ddf1e698_14.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: OS1.0.1.0.ULOMIXM
+- android: '14.0'
+  codename: xaga
+  date: '2024-07-15'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULOEUXM/fw_xaga_miui_XAGAEEAGlobal_OS1.0.3.0.ULOEUXM_9305ffe43f_14.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS1.0.3.0.ULOEUXM
+- android: '14.0'
+  codename: xaga
+  date: '2024-07-15'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULOINXM/fw_xaga_miui_XAGAINGlobal_OS1.0.2.0.ULOINXM_08577945e0_14.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS1.0.2.0.ULOINXM
 - android: '14.0'
   codename: xaga
   date: '2024-07-01'

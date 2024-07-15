@@ -54,7 +54,6 @@ permalink: /miui/munch/
                 <tbody>
                 <tr><td>Redmi K40S China</td><td>Public Beta</td><td>Fastboot</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>5.4 GB</td><td>2022-12-05</td><td><a href="/miui/munch/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.18.DEV</td><td>13.0</td><td>4.0 GB</td><td>2023-09-22</td><td><a href="/miui/munch/public beta/V14.0.23.9.18.DEV/">Download</a></td></tr>
-<tr><td>POCO F4 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V14.0.11.0.TLMIDXM</td><td>13.0</td><td>5.7 GB</td><td>2024-03-14</td><td><a href="/miui/munch/stable/V14.0.11.0.TLMIDXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

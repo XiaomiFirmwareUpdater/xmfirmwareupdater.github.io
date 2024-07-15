@@ -19,22 +19,22 @@
     android: '14.0'
     miui: OS1.0.2.0.ULOCNXM
 - branch: stable
-  date: '2024-05-21'
+  date: '2024-07-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-21.05.2024/fw_xaga_miui_XAGAEEAGlobal_OS1.0.2.0.ULOEUXM_626938a0a7_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/xaga/fw_xaga_miui_XAGAEEAGlobal_OS1.0.2.0.ULOEUXM_626938a0a7_14.0.zip
-  filename: fw_xaga_miui_XAGAEEAGlobal_OS1.0.2.0.ULOEUXM_626938a0a7_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-15.07.2024/fw_xaga_miui_XAGAEEAGlobal_OS1.0.3.0.ULOEUXM_9305ffe43f_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/xaga/fw_xaga_miui_XAGAEEAGlobal_OS1.0.3.0.ULOEUXM_9305ffe43f_14.0.zip
+  filename: fw_xaga_miui_XAGAEEAGlobal_OS1.0.3.0.ULOEUXM_9305ffe43f_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.2.0.ULOEUXM
+    miui: OS1.0.3.0.ULOEUXM
 - branch: stable
-  date: '2024-05-27'
+  date: '2024-07-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-27.05.2024/fw_xaga_miui_XAGAINGlobal_OS1.0.1.0.ULOINXM_fb3b9fb999_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/xaga/fw_xaga_miui_XAGAINGlobal_OS1.0.1.0.ULOINXM_fb3b9fb999_14.0.zip
-  filename: fw_xaga_miui_XAGAINGlobal_OS1.0.1.0.ULOINXM_fb3b9fb999_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-15.07.2024/fw_xaga_miui_XAGAINGlobal_OS1.0.2.0.ULOINXM_08577945e0_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/xaga/fw_xaga_miui_XAGAINGlobal_OS1.0.2.0.ULOINXM_08577945e0_14.0.zip
+  filename: fw_xaga_miui_XAGAINGlobal_OS1.0.2.0.ULOINXM_08577945e0_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.1.0.ULOINXM
+    miui: OS1.0.2.0.ULOINXM
