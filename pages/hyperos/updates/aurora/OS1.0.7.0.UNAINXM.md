@@ -78,7 +78,7 @@ permalink: /hyperos/aurora/stable beta/OS1.0.7.0.UNAINXM/
                             aria-expanded="false" aria-controls="aurora_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="aurora_1_changelog">
-                        <p id="changelog_text">[Other]<br>Optimized system performance<br>Improved system security and stability</p>
+                        <p id="changelog_text">[System]<br>Optimization: Improved system resource recovery strategy when switching apps to enhance app smoothness<br>Optimization: New startup animation strategy reduces app launch delays<br>Optimization: Improved app preloading to enhance app startup speed<br>Fix: Having too many notifications could cause the system to restart<br>Updated the security patch to June 2024. Increased system security.<br>[Control center]<br>Fix: Some toggles occasionally failed to work<br>[Lock screen]<br>Optimization: New "press and hold to edit" logic for Lock screen reduces accidental triggers<br>[Calculator]<br>Optimization: Improved the sensitivity of Calculator buttons<br>[Security]<br>Optimization: Updated optimization score calculation rules to improve accuracy<br>[Status bar, Notification shade]<br>Fix: Single-line notification icons were not fully displayed<br>Fix: Blank notifications appeared with only the icon displayed<br>Fix: The 5G icon in the status bar wasn't fully displayed after switching font size or changing to a third party font</p>
                     </div>
                 </li>
             </ul>
