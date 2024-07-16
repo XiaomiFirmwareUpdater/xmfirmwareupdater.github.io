@@ -2592,6 +2592,12 @@
   version: OS1.0.8.0.ULQEUXM
 - android: '14.0'
   codename: plato
+  date: '2024-07-16'
+  download: https://bigota.d.miui.com/OS1.0.10.0.ULQMIXM/fw_plato_miui_PLATOGlobal_OS1.0.10.0.ULQMIXM_d568a899f2_14.0.zip
+  name: Xiaomi 12T
+  version: OS1.0.10.0.ULQMIXM
+- android: '14.0'
+  codename: plato
   date: '2024-01-12'
   download: https://bigota.d.miui.com/OS1.0.5.0.ULQMIXM/fw_plato_miui_PLATOGlobal_OS1.0.5.0.ULQMIXM_9c5350230d_14.0.zip
   name: Xiaomi 12T
