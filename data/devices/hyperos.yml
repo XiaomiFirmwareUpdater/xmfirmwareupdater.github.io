@@ -1824,6 +1824,12 @@
   version: OS1.0.2.0.UMYCNXM
 - android: '14.0'
   codename: liuqin
+  date: '2024-07-17'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMYCNXM/fw_liuqin_miui_LIUQIN_OS1.0.7.0.UMYCNXM_d618a5c980_14.0.zip
+  name: Xiaomi Pad 6 Pro
+  version: OS1.0.7.0.UMYCNXM
+- android: '14.0'
+  codename: liuqin
   date: '2024-04-15'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMYCNXM/fw_liuqin_miui_LIUQIN_OS1.0.5.0.UMYCNXM_119a1b6e81_14.0.zip
   name: Xiaomi Pad 6 Pro
@@ -3766,6 +3772,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.TKCINXM/fw_veux_miui_VEUXINGlobal_OS1.0.1.0.TKCINXM_76019c6c0f_13.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
   version: OS1.0.1.0.TKCINXM
+- android: '13.0'
+  codename: veux
+  date: '2024-07-17'
+  download: https://bigota.d.miui.com/OS1.0.5.0.TKCMIXM/fw_veux_miui_VEUXGlobal_OS1.0.5.0.TKCMIXM_4c1b604650_13.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: OS1.0.5.0.TKCMIXM
 - android: '13.0'
   codename: veux
   date: '2024-04-02'
