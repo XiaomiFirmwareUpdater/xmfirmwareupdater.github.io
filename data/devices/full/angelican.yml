@@ -1,1 +1,280 @@
-[]
+- branch: stable
+  date: '2021-08-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-30.08.2021/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.9.0.QCSEUXM_9a6c4161b5_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.9.0.QCSEUXM_9a6c4161b5_10.0.zip
+  filename: fw_angelican_miui_ANGELICANEEAGlobal_V12.0.9.0.QCSEUXM_9a6c4161b5_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.9.0.QCSEUXM
+- branch: stable
+  date: '2022-01-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-28.01.2022/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.11.0.QCSEUXM_bed722f66e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.11.0.QCSEUXM_bed722f66e_10.0.zip
+  filename: fw_angelican_miui_ANGELICANEEAGlobal_V12.0.11.0.QCSEUXM_bed722f66e_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.11.0.QCSEUXM
+- branch: stable
+  date: '2022-06-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-27.06.2022/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.13.0.QCSEUXM_ac93f9f5cf_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.13.0.QCSEUXM_ac93f9f5cf_10.0.zip
+  filename: fw_angelican_miui_ANGELICANEEAGlobal_V12.0.13.0.QCSEUXM_ac93f9f5cf_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.13.0.QCSEUXM
+- branch: stable
+  date: '2022-03-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-26.03.2022/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.12.0.QCSEUXM_f362ef2cce_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.12.0.QCSEUXM_f362ef2cce_10.0.zip
+  filename: fw_angelican_miui_ANGELICANEEAGlobal_V12.0.12.0.QCSEUXM_f362ef2cce_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.12.0.QCSEUXM
+- branch: stable
+  date: '2022-01-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-26.01.2022/fw_angelican_miui_ANGELICANGlobal_V12.0.11.0.QCSMIXM_8ed7134654_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANGlobal_V12.0.11.0.QCSMIXM_8ed7134654_10.0.zip
+  filename: fw_angelican_miui_ANGELICANGlobal_V12.0.11.0.QCSMIXM_8ed7134654_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.11.0.QCSMIXM
+- branch: stable
+  date: '2021-11-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-25.11.2021/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.10.0.QCSEUXM_aa5fdc5905_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.10.0.QCSEUXM_aa5fdc5905_10.0.zip
+  filename: fw_angelican_miui_ANGELICANEEAGlobal_V12.0.10.0.QCSEUXM_aa5fdc5905_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.10.0.QCSEUXM
+- branch: stable
+  date: '2021-11-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-25.11.2021/fw_angelican_miui_ANGELICANGlobal_V12.0.10.0.QCSMIXM_ba9a16c429_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANGlobal_V12.0.10.0.QCSMIXM_ba9a16c429_10.0.zip
+  filename: fw_angelican_miui_ANGELICANGlobal_V12.0.10.0.QCSMIXM_ba9a16c429_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.10.0.QCSMIXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-24.09.2020/fw_angelican_miui_ANGELICANGlobal_V12.0.2.0.QCSMIXM_de995da929_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANGlobal_V12.0.2.0.QCSMIXM_de995da929_10.0.zip
+  filename: fw_angelican_miui_ANGELICANGlobal_V12.0.2.0.QCSMIXM_de995da929_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QCSMIXM
+- branch: stable
+  date: '2022-06-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-24.06.2022/fw_angelican_miui_ANGELICANGlobal_V12.0.13.0.QCSMIXM_f1585a09bf_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANGlobal_V12.0.13.0.QCSMIXM_f1585a09bf_10.0.zip
+  filename: fw_angelican_miui_ANGELICANGlobal_V12.0.13.0.QCSMIXM_f1585a09bf_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.13.0.QCSMIXM
+- branch: stable
+  date: '2021-08-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-22.08.2021/fw_angelican_miui_ANGELICANGlobal_V12.0.9.0.QCSMIXM_77579e3311_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANGlobal_V12.0.9.0.QCSMIXM_77579e3311_10.0.zip
+  filename: fw_angelican_miui_ANGELICANGlobal_V12.0.9.0.QCSMIXM_77579e3311_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.9.0.QCSMIXM
+- branch: stable
+  date: '2022-03-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-18.03.2022/fw_angelican_miui_ANGELICANGlobal_V12.0.12.0.QCSMIXM_fe40256a31_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANGlobal_V12.0.12.0.QCSMIXM_fe40256a31_10.0.zip
+  filename: fw_angelican_miui_ANGELICANGlobal_V12.0.12.0.QCSMIXM_fe40256a31_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.12.0.QCSMIXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-17.04.2021/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.7.0.QCSEUXM_c2bb8e96d4_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.7.0.QCSEUXM_c2bb8e96d4_10.0.zip
+  filename: fw_angelican_miui_ANGELICANEEAGlobal_V12.0.7.0.QCSEUXM_c2bb8e96d4_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.7.0.QCSEUXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-16.09.2020/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.3.0.QCSEUXM_371a4fc443_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.3.0.QCSEUXM_371a4fc443_10.0.zip
+  filename: fw_angelican_miui_ANGELICANEEAGlobal_V12.0.3.0.QCSEUXM_371a4fc443_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QCSEUXM
+- branch: stable
+  date: '2022-08-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-15.08.2022/fw_angelican_miui_ANGELICANEEAGlobal_V12.5.4.0.RCSEUXM_e8d0048895_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANEEAGlobal_V12.5.4.0.RCSEUXM_e8d0048895_11.0.zip
+  filename: fw_angelican_miui_ANGELICANEEAGlobal_V12.5.4.0.RCSEUXM_e8d0048895_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RCSEUXM
+- branch: stable
+  date: '2021-06-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-15.06.2021/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.8.0.QCSEUXM_8b7cb202de_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.8.0.QCSEUXM_8b7cb202de_10.0.zip
+  filename: fw_angelican_miui_ANGELICANEEAGlobal_V12.0.8.0.QCSEUXM_8b7cb202de_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.8.0.QCSEUXM
+- branch: stable
+  date: '2021-06-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-15.06.2021/fw_angelican_miui_ANGELICANGlobal_V12.0.8.0.QCSMIXM_827d83f9ee_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANGlobal_V12.0.8.0.QCSMIXM_827d83f9ee_10.0.zip
+  filename: fw_angelican_miui_ANGELICANGlobal_V12.0.8.0.QCSMIXM_827d83f9ee_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.8.0.QCSMIXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-15.04.2021/fw_angelican_miui_ANGELICANGlobal_V12.0.7.0.QCSMIXM_26e698745a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANGlobal_V12.0.7.0.QCSMIXM_26e698745a_10.0.zip
+  filename: fw_angelican_miui_ANGELICANGlobal_V12.0.7.0.QCSMIXM_26e698745a_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.7.0.QCSMIXM
+- branch: stable
+  date: '2022-09-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-14.09.2022/fw_angelican_miui_ANGELICANGlobal_V12.0.14.0.QCSMIXM_789234f45d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANGlobal_V12.0.14.0.QCSMIXM_789234f45d_10.0.zip
+  filename: fw_angelican_miui_ANGELICANGlobal_V12.0.14.0.QCSMIXM_789234f45d_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.14.0.QCSMIXM
+- branch: stable
+  date: '2022-10-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-13.10.2022/fw_angelican_miui_ANGELICANGlobal_V12.0.16.0.QCSMIXM_aa62ece321_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANGlobal_V12.0.16.0.QCSMIXM_aa62ece321_10.0.zip
+  filename: fw_angelican_miui_ANGELICANGlobal_V12.0.16.0.QCSMIXM_aa62ece321_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.16.0.QCSMIXM
+- branch: stable
+  date: '2022-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-09.07.2022/fw_angelican_miui_ANGELICANEEAGlobal_V12.5.3.0.RCSEUXM_04ab90337d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANEEAGlobal_V12.5.3.0.RCSEUXM_04ab90337d_11.0.zip
+  filename: fw_angelican_miui_ANGELICANEEAGlobal_V12.5.3.0.RCSEUXM_04ab90337d_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RCSEUXM
+- branch: stable
+  date: '2022-08-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-08.08.2022/fw_angelican_miui_ANGELICANGlobal_V12.5.3.0.RCSMIXM_947766e735_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANGlobal_V12.5.3.0.RCSMIXM_947766e735_11.0.zip
+  filename: fw_angelican_miui_ANGELICANGlobal_V12.5.3.0.RCSMIXM_947766e735_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RCSMIXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-07.02.2021/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.6.0.QCSEUXM_99197b728b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.6.0.QCSEUXM_99197b728b_10.0.zip
+  filename: fw_angelican_miui_ANGELICANEEAGlobal_V12.0.6.0.QCSEUXM_99197b728b_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.6.0.QCSEUXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-05.11.2020/fw_angelican_miui_ANGELICANGlobal_V12.0.3.0.QCSMIXM_a35644ae9e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANGlobal_V12.0.3.0.QCSMIXM_a35644ae9e_10.0.zip
+  filename: fw_angelican_miui_ANGELICANGlobal_V12.0.3.0.QCSMIXM_a35644ae9e_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QCSMIXM
+- branch: stable
+  date: '2022-09-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-05.09.2022/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.14.0.QCSEUXM_b8dd81fed5_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.14.0.QCSEUXM_b8dd81fed5_10.0.zip
+  filename: fw_angelican_miui_ANGELICANEEAGlobal_V12.0.14.0.QCSEUXM_b8dd81fed5_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.14.0.QCSEUXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-05.01.2021/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.5.0.QCSEUXM_fd513a5eba_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.5.0.QCSEUXM_fd513a5eba_10.0.zip
+  filename: fw_angelican_miui_ANGELICANEEAGlobal_V12.0.5.0.QCSEUXM_fd513a5eba_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.5.0.QCSEUXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-04.11.2020/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.4.0.QCSEUXM_e61c5bb519_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.4.0.QCSEUXM_e61c5bb519_10.0.zip
+  filename: fw_angelican_miui_ANGELICANEEAGlobal_V12.0.4.0.QCSEUXM_e61c5bb519_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.4.0.QCSEUXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-04.01.2021/fw_angelican_miui_ANGELICANGlobal_V12.0.5.0.QCSMIXM_fead754795_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANGlobal_V12.0.5.0.QCSMIXM_fead754795_10.0.zip
+  filename: fw_angelican_miui_ANGELICANGlobal_V12.0.5.0.QCSMIXM_fead754795_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.5.0.QCSMIXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-03.02.2021/fw_angelican_miui_ANGELICANGlobal_V12.0.6.0.QCSMIXM_ac2dd2d85b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANGlobal_V12.0.6.0.QCSMIXM_ac2dd2d85b_10.0.zip
+  filename: fw_angelican_miui_ANGELICANGlobal_V12.0.6.0.QCSMIXM_ac2dd2d85b_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.6.0.QCSMIXM
