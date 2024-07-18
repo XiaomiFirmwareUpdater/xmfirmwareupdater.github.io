@@ -59,56 +59,6 @@
     android: '13.0'
     miui: V14.0.11.0.TGQINXM
 - branch: stable
-  date: '2024-06-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-25.06.2024/fw_alioth_miui_ALIOTHGlobal_OS1.0.3.0.TKHMIXM_57a88631b9_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/alioth/fw_alioth_miui_ALIOTHGlobal_OS1.0.3.0.TKHMIXM_57a88631b9_13.0.zip
-  filename: fw_alioth_miui_ALIOTHGlobal_OS1.0.3.0.TKHMIXM_57a88631b9_13.0.zip
-  region: Global
-  versions:
-    android: '13.0'
-    miui: OS1.0.3.0.TKHMIXM
-- branch: stable
-  date: '2024-06-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-21.06.2024/fw_alioth_miui_ALIOTH_OS1.0.6.0.TKHCNXM_101dfdb5be_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/alioth/fw_alioth_miui_ALIOTH_OS1.0.6.0.TKHCNXM_101dfdb5be_13.0.zip
-  filename: fw_alioth_miui_ALIOTH_OS1.0.6.0.TKHCNXM_101dfdb5be_13.0.zip
-  region: China
-  versions:
-    android: '13.0'
-    miui: OS1.0.6.0.TKHCNXM
-- branch: weekly
-  date: '2022-03-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/weekly-25.03.2022/fw_alioth_miui_ALIOTHPRE_22.3.23_36ab9c843e_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.23/alioth/fw_alioth_miui_ALIOTHPRE_22.3.23_36ab9c843e_12.0.zip
-  filename: fw_alioth_miui_ALIOTHPRE_22.3.23_36ab9c843e_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 22.3.23
-- branch: stable
-  date: '2024-07-11'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-11.07.2024/fw_alioth_miui_ALIOTHEEAGlobal_OS1.0.2.0.TKHEUXM_3a22ce5eff_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/alioth/fw_alioth_miui_ALIOTHEEAGlobal_OS1.0.2.0.TKHEUXM_3a22ce5eff_13.0.zip
-  filename: fw_alioth_miui_ALIOTHEEAGlobal_OS1.0.2.0.TKHEUXM_3a22ce5eff_13.0.zip
-  region: Europe
-  versions:
-    android: '13.0'
-    miui: OS1.0.2.0.TKHEUXM
-- branch: stable
-  date: '2024-07-11'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-11.07.2024/fw_alioth_miui_ALIOTHINGlobal_OS1.0.2.0.TKHINXM_14c0f2dff1_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/alioth/fw_alioth_miui_ALIOTHINGlobal_OS1.0.2.0.TKHINXM_14c0f2dff1_13.0.zip
-  filename: fw_alioth_miui_ALIOTHINGlobal_OS1.0.2.0.TKHINXM_14c0f2dff1_13.0.zip
-  region: India
-  versions:
-    android: '13.0'
-    miui: OS1.0.2.0.TKHINXM
-- branch: stable
   date: '2021-03-29'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_andromeda/releases/download/stable-29.03.2021/fw_andromeda_miui_ANDROMEDAGlobal_V12.0.4.0.PEMMIXM_9ac8cec738_9.0.zip
@@ -168,26 +118,6 @@
   versions:
     android: '10.0'
     miui: V12.0.19.0.QCRINXM
-- branch: stable
-  date: '2022-10-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-13.10.2022/fw_angelican_miui_ANGELICANGlobal_V12.0.16.0.QCSMIXM_aa62ece321_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANGlobal_V12.0.16.0.QCSMIXM_aa62ece321_10.0.zip
-  filename: fw_angelican_miui_ANGELICANGlobal_V12.0.16.0.QCSMIXM_aa62ece321_10.0.zip
-  region: Global
-  versions:
-    android: '10.0'
-    miui: V12.0.16.0.QCSMIXM
-- branch: stable
-  date: '2022-09-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-05.09.2022/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.14.0.QCSEUXM_b8dd81fed5_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.14.0.QCSEUXM_b8dd81fed5_10.0.zip
-  filename: fw_angelican_miui_ANGELICANEEAGlobal_V12.0.14.0.QCSEUXM_b8dd81fed5_10.0.zip
-  region: Europe
-  versions:
-    android: '10.0'
-    miui: V12.0.14.0.QCSEUXM
 - branch: stable
   date: '2023-07-25'
   downloads:
@@ -1119,15 +1049,15 @@
     android: '14.0'
     miui: OS1.0.6.0.ULCCNXM
 - branch: stable
-  date: '2024-06-24'
+  date: '2024-07-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-24.06.2024/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.9.0.ULCEUXM_cf04937f46_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/cupid/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.9.0.ULCEUXM_cf04937f46_14.0.zip
-  filename: fw_cupid_miui_CUPIDEEAGlobal_OS1.0.9.0.ULCEUXM_cf04937f46_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-18.07.2024/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.10.0.ULCEUXM_4bac834d6c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/cupid/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.10.0.ULCEUXM_4bac834d6c_14.0.zip
+  filename: fw_cupid_miui_CUPIDEEAGlobal_OS1.0.10.0.ULCEUXM_4bac834d6c_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.9.0.ULCEUXM
+    miui: OS1.0.10.0.ULCEUXM
 - branch: stable
   date: '2023-06-28'
   downloads:

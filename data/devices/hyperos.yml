@@ -47,54 +47,6 @@
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
   version: OS1.0.1.0.UGQCNXM
 - android: '13.0'
-  codename: alioth
-  date: '2024-04-26'
-  download: https://bigota.d.miui.com/OS1.0.2.0.TKHMIXM/fw_alioth_miui_ALIOTHGlobal_OS1.0.2.0.TKHMIXM_b69e6a5400_13.0.zip
-  name: Redmi K40/POCO F3/Mi 11X
-  version: OS1.0.2.0.TKHMIXM
-- android: '13.0'
-  codename: alioth
-  date: '2024-06-25'
-  download: https://bigota.d.miui.com/OS1.0.3.0.TKHMIXM/fw_alioth_miui_ALIOTHGlobal_OS1.0.3.0.TKHMIXM_57a88631b9_13.0.zip
-  name: Redmi K40/POCO F3/Mi 11X
-  version: OS1.0.3.0.TKHMIXM
-- android: '13.0'
-  codename: alioth
-  date: '2024-04-22'
-  download: https://bigota.d.miui.com/OS1.0.3.0.TKHCNXM/fw_alioth_miui_ALIOTH_OS1.0.3.0.TKHCNXM_eab81b6bf0_13.0.zip
-  name: Redmi K40/POCO F3/Mi 11X
-  version: OS1.0.3.0.TKHCNXM
-- android: '13.0'
-  codename: alioth
-  date: '2024-06-21'
-  download: https://bigota.d.miui.com/OS1.0.6.0.TKHCNXM/fw_alioth_miui_ALIOTH_OS1.0.6.0.TKHCNXM_101dfdb5be_13.0.zip
-  name: Redmi K40/POCO F3/Mi 11X
-  version: OS1.0.6.0.TKHCNXM
-- android: '13.0'
-  codename: alioth
-  date: '2024-05-16'
-  download: https://bigota.d.miui.com/OS1.0.1.0.TKHINXM/fw_alioth_miui_ALIOTHINGlobal_OS1.0.1.0.TKHINXM_37dcb3109e_13.0.zip
-  name: Redmi K40/POCO F3/Mi 11X
-  version: OS1.0.1.0.TKHINXM
-- android: '13.0'
-  codename: alioth
-  date: '2024-07-11'
-  download: https://bigota.d.miui.com/OS1.0.2.0.TKHEUXM/fw_alioth_miui_ALIOTHEEAGlobal_OS1.0.2.0.TKHEUXM_3a22ce5eff_13.0.zip
-  name: Redmi K40/POCO F3/Mi 11X
-  version: OS1.0.2.0.TKHEUXM
-- android: '13.0'
-  codename: alioth
-  date: '2024-07-11'
-  download: https://bigota.d.miui.com/OS1.0.2.0.TKHINXM/fw_alioth_miui_ALIOTHINGlobal_OS1.0.2.0.TKHINXM_14c0f2dff1_13.0.zip
-  name: Redmi K40/POCO F3/Mi 11X
-  version: OS1.0.2.0.TKHINXM
-- android: '13.0'
-  codename: alioth
-  date: '2024-05-07'
-  download: https://bigota.d.miui.com/OS1.0.1.0.TKHEUXM/fw_alioth_miui_ALIOTHEEAGlobal_OS1.0.1.0.TKHEUXM_b0de6008b0_13.0.zip
-  name: Redmi K40/POCO F3/Mi 11X
-  version: OS1.0.1.0.TKHEUXM
-- android: '13.0'
   codename: ares
   date: '2024-03-12'
   download: https://bigota.d.miui.com/OS1.0.2.0.TKJCNXM/fw_ares_miui_ARES_OS1.0.2.0.TKJCNXM_09a01a89e6_13.0.zip
@@ -514,6 +466,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULCMIXM/fw_cupid_miui_CUPIDGlobal_OS1.0.3.0.ULCMIXM_c0605b4a70_14.0.zip
   name: Xiaomi 12
   version: OS1.0.3.0.ULCMIXM
+- android: '14.0'
+  codename: cupid
+  date: '2024-07-18'
+  download: https://bigota.d.miui.com/OS1.0.10.0.ULCEUXM/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.10.0.ULCEUXM_4bac834d6c_14.0.zip
+  name: Xiaomi 12
+  version: OS1.0.10.0.ULCEUXM
 - android: '14.0'
   codename: cupid
   date: '2024-04-15'
