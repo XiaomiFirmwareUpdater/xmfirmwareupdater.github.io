@@ -1056,6 +1056,12 @@
   version: OS1.0.1.0.TKEEUXM
 - android: '13.0'
   codename: fleur
+  date: '2024-07-19'
+  download: https://bigota.d.miui.com/OS1.0.2.0.TKEEUXM/fw_fleur_miui_FLEUREEAGlobal_OS1.0.2.0.TKEEUXM_7e516cdea6_13.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: OS1.0.2.0.TKEEUXM
+- android: '13.0'
+  codename: fleur
   date: '2024-07-08'
   download: https://bigota.d.miui.com/OS1.0.2.0.TKEMIXM/fw_fleur_miui_FLEURGlobal_OS1.0.2.0.TKEMIXM_7f019090a0_13.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
@@ -2694,6 +2700,18 @@
   version: OS1.0.6.0.UMSCNXM
 - android: '14.0'
   codename: redwood
+  date: '2024-07-19'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMSINXM/fw_redwood_miui_REDWOODINGlobal_OS1.0.5.0.UMSINXM_aa1ab0b8e2_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.5.0.UMSINXM
+- android: '14.0'
+  codename: redwood
+  date: '2024-07-19'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMSCNXM/fw_redwood_miui_REDWOOD_OS1.0.7.0.UMSCNXM_87fd4a2a7d_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.7.0.UMSCNXM
+- android: '14.0'
+  codename: redwood
   date: '2024-01-15'
   download: https://bigota.d.miui.com/OS1.0.3.0.UMSCNXM/fw_redwood_miui_REDWOOD_OS1.0.3.0.UMSCNXM_964b907423_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
@@ -2968,6 +2986,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UNHMIXM/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.3.0.UNHMIXM_00fbd10cb9_14.0.zip
   name: Redmi Note 13 NFC
   version: OS1.0.3.0.UNHMIXM
+- android: '14.0'
+  codename: sapphiren
+  date: '2024-07-19'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UNHEUXM/fw_sapphiren_miui_SAPPHIRENEEAGlobal_OS1.0.3.0.UNHEUXM_a5a82b7948_14.0.zip
+  name: Redmi Note 13 NFC
+  version: OS1.0.3.0.UNHEUXM
 - android: '14.0'
   codename: sapphiren
   date: '2024-04-16'
