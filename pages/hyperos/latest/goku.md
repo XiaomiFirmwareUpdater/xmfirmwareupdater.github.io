@@ -1,15 +1,15 @@
 ---
-title: Redmi 13C/POCO C65 (gale) HyperOS Downloads
+title: MIX Fold 4 (goku) HyperOS Downloads
 layout: download
-name: Redmi 13C/POCO C65
-codename: gale
-permalink: /hyperos/gale/
+name: MIX Fold 4
+codename: goku
+permalink: /hyperos/goku/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/gale/">Redmi 13C/POCO C65</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/goku/">MIX Fold 4</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /hyperos/gale/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/hyperos/gale/" class="card-link">HyperOS Archive</a>
-    <a href="/firmware/gale/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/gale/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/hyperos/goku/" class="card-link">HyperOS Archive</a>
+    <a href="/firmware/goku/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/goku/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,13 +52,8 @@ permalink: /hyperos/gale/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 13C / POCO C65 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UGPEUXM</td><td>14.0</td><td>6.9 GB</td><td>2024-06-11</td><td><a href="/hyperos/gale/stable/OS1.0.3.0.UGPEUXM/">Download</a></td></tr>
-<tr><td>Redmi 13C / POCO C65 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UGPEUXM</td><td>14.0</td><td>4.4 GB</td><td>2024-06-21</td><td><a href="/hyperos/gale/stable/OS1.0.3.0.UGPEUXM/">Download</a></td></tr>
-<tr><td>Redmi 13C / POCO C65 India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UGPINXM</td><td>14.0</td><td>5.6 GB</td><td>2024-06-28</td><td><a href="/hyperos/gale/stable/OS1.0.3.0.UGPINXM/">Download</a></td></tr>
-<tr><td>Redmi 13C / POCO C65 India</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UGPINXM</td><td>14.0</td><td>4.1 GB</td><td>2024-07-06</td><td><a href="/hyperos/gale/stable/OS1.0.3.0.UGPINXM/">Download</a></td></tr>
-<tr><td>Redmi 13C / POCO C65 Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UGPRUXM</td><td>14.0</td><td>4.2 GB</td><td>2024-07-11</td><td><a href="/hyperos/gale/stable beta/OS1.0.4.0.UGPRUXM/">Download</a></td></tr>
-<tr><td>Redmi 13C / POCO C65 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UGPTWXM</td><td>14.0</td><td>5.7 GB</td><td>2024-04-27</td><td><a href="/hyperos/gale/stable/OS1.0.2.0.UGPTWXM/">Download</a></td></tr>
-<tr><td>Redmi 13C / POCO C65 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UGPTWXM</td><td>14.0</td><td>4.2 GB</td><td>2024-05-09</td><td><a href="/hyperos/gale/stable/OS1.0.2.0.UGPTWXM/">Download</a></td></tr>
+                <tr><td>MIX Fold 4 China</td><td>Stable Beta</td><td>Fastboot</td><td>OS1.0.7.0.UNVCNXM</td><td>14.0</td><td>9.1 GB</td><td>2024-07-13</td><td><a href="/hyperos/goku/stable beta/OS1.0.7.0.UNVCNXM/">Download</a></td></tr>
+<tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UNVCNXM</td><td>14.0</td><td>7.2 GB</td><td>2024-07-19</td><td><a href="/hyperos/goku/stable/OS1.0.7.0.UNVCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -630,6 +630,12 @@
   version: OS1.0.4.0.ULFCNXM
 - android: '14.0'
   codename: diting
+  date: '2024-07-19'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULFMIXM/fw_diting_miui_DITINGGlobal_OS1.0.5.0.ULFMIXM_d6847d12c9_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.5.0.ULFMIXM
+- android: '14.0'
+  codename: diting
   date: '2024-02-18'
   download: https://bigota.d.miui.com/OS1.0.2.0.ULFMIXM/fw_diting_miui_DITINGGlobal_OS1.0.2.0.ULFMIXM_b89acba2d4_14.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
@@ -664,6 +670,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UNSINXM/fw_dizi_miui_DIZIINGlobal_OS1.0.3.0.UNSINXM_3d4839b44e_14.0.zip
   name: Redmi Pad Pro/POCO Pad
   version: OS1.0.3.0.UNSINXM
+- android: '14.0'
+  codename: dizi
+  date: '2024-07-19'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UNSEUXM/fw_dizi_miui_DIZIEEAGlobal_OS1.0.6.0.UNSEUXM_cc760f9de4_14.0.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS1.0.6.0.UNSEUXM
 - android: '14.0'
   codename: dizi
   date: '2024-06-16'
@@ -1282,6 +1294,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UNRCNXM/fw_garnet_miui_GARNET_OS1.0.7.0.UNRCNXM_1a1ed56e95_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS1.0.7.0.UNRCNXM
+- android: '14.0'
+  codename: goku
+  date: '2024-07-19'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UNVCNXM/fw_goku_miui_GOKU_OS1.0.7.0.UNVCNXM_72a459b259_14.0.zip
+  name: MIX Fold 4
+  version: OS1.0.7.0.UNVCNXM
 - android: '14.0'
   codename: gold
   date: '2024-05-31'
