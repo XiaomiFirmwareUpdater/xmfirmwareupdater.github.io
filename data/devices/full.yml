@@ -5489,6 +5489,16 @@
     android: '14.0'
     miui: OS1.0.5.0.UMVCNXM
 - branch: stable
+  date: '2024-07-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_babylon/releases/download/stable-19.07.2024/fw_babylon_miui_BABYLON_OS1.0.10.0.UMVCNXM_dc1567ea87_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/babylon/fw_babylon_miui_BABYLON_OS1.0.10.0.UMVCNXM_dc1567ea87_14.0.zip
+  filename: fw_babylon_miui_BABYLON_OS1.0.10.0.UMVCNXM_dc1567ea87_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.10.0.UMVCNXM
+- branch: stable
   date: '2024-03-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_babylon/releases/download/stable-18.03.2024/fw_babylon_miui_BABYLON_OS1.0.4.0.UMVCNXM_3d0618b4ae_14.0.zip
@@ -47529,6 +47539,16 @@
     android: '14.0'
     miui: OS1.0.13.0.UNPCNXM
 - branch: stable
+  date: '2024-07-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-19.07.2024/fw_peridot_miui_PERIDOT_OS1.0.14.0.UNPCNXM_f31a1bac03_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/peridot/fw_peridot_miui_PERIDOT_OS1.0.14.0.UNPCNXM_f31a1bac03_14.0.zip
+  filename: fw_peridot_miui_PERIDOT_OS1.0.14.0.UNPCNXM_f31a1bac03_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.14.0.UNPCNXM
+- branch: stable
   date: '2024-06-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-17.06.2024/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.2.0.UNPEUXM_2a88eed77e_14.0.zip
@@ -72768,6 +72788,16 @@
   versions:
     android: '11.0'
     miui: V12.5.11.0.RKBCNXM
+- branch: stable
+  date: '2024-07-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-19.07.2024/fw_venus_miui_VENUS_OS1.0.3.0.UKBCNXM_e1a272a3f8_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/venus/fw_venus_miui_VENUS_OS1.0.3.0.UKBCNXM_e1a272a3f8_14.0.zip
+  filename: fw_venus_miui_VENUS_OS1.0.3.0.UKBCNXM_e1a272a3f8_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.UKBCNXM
 - branch: stable
   date: '2021-05-19'
   downloads:
