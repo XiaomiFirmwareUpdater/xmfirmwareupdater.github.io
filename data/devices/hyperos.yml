@@ -2849,6 +2849,12 @@
   name: POCO M5/Redmi 11 Prime 4G
   version: OS1.0.2.0.ULUEUXM
 - android: '14.0'
+  codename: rothko
+  date: '2024-07-19'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UNNCNXM/fw_rothko_miui_ROTHKO_OS1.0.13.0.UNNCNXM_5172cdd0cc_14.0.zip
+  name: Redmi K70 Ultra
+  version: OS1.0.13.0.UNNCNXM
+- android: '14.0'
   codename: ruan
   date: '2024-06-21'
   download: https://bigota.d.miui.com/OS1.0.1.0.UFSINXM/fw_ruan_miui_RUANINGlobal_OS1.0.1.0.UFSINXM_42dad36ffb_14.0.zip

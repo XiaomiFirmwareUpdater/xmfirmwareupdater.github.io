@@ -4539,6 +4539,16 @@
     android: '8.1'
     miui: 9.10.10
 - branch: stable
+  date: '2024-07-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-20.07.2024/fw_rothko_miui_ROTHKO_OS1.0.13.0.UNNCNXM_5172cdd0cc_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rothko/fw_rothko_miui_ROTHKO_OS1.0.13.0.UNNCNXM_5172cdd0cc_14.0.zip
+  filename: fw_rothko_miui_ROTHKO_OS1.0.13.0.UNNCNXM_5172cdd0cc_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.13.0.UNNCNXM
+- branch: stable
   date: '2024-07-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-09.07.2024/fw_ruan_miui_RUANGlobal_OS1.0.2.0.UFSMIXM_17a28b31a0_14.0.zip
