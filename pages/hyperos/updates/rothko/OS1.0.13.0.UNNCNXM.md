@@ -78,7 +78,7 @@ permalink: /hyperos/rothko/stable/OS1.0.13.0.UNNCNXM/
                             aria-expanded="false" aria-controls="rothko_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="rothko_1_changelog">
-                        <p id="changelog_text">[Other]<br>Optimized system performance<br>Improved system security and stability</p>
+                        <p id="changelog_text">[Basic experience]<br>New: Charging speed is now adjusted automatically for cases when you're holding your device<br>Optimization: Touchscreen interactions are now supported for cases when you're wearing several types of gloves<br>Optimization: Smart frame rate and super picture quality are now available for multiple games<br>[Always-on display]<br>Optimization: Items can be shown when your gaze is detected and hidden when you look away<br>[Proactive intelligence]<br>New: With the latest version of Mi AI, your device can recognize items in images and solve math problems, erase objects, expand photos, change backgrounds, and add effects<br>New: With the latest version of Mi AI, AI summary supports Word and PDF documents up to 15 MB<br>New: With the latest version of Mi AI and Gallery, you can select items, add text prompts, and generate videos using AI<br>New: With AI, Notes support capabilities such as AI summary, smart layouts, error correction, and translation now<br>New: AI provides simultaneous interpretation during calls and online meetings between Chinese, English, French, German, Hindi, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, and Spanish.</p>
                     </div>
                 </li>
             </ul>
