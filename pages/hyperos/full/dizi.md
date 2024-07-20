@@ -52,8 +52,10 @@ permalink: /archive/hyperos/dizi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad Pro / POCO Pad EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.UNSEUXM</td><td>14.0</td><td>4.2 GB</td><td>2024-07-16</td><td><a href="/hyperos/dizi/stable beta/OS1.0.6.0.UNSEUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Pro / POCO Pad Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.UNSMIXM</td><td>14.0</td><td>4.2 GB</td><td>2024-07-12</td><td><a href="/hyperos/dizi/stable beta/OS1.0.5.0.UNSMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.14.0.UNSCNXM</td><td>14.0</td><td>4.6 GB</td><td>2024-07-17</td><td><a href="/hyperos/dizi/stable beta/OS1.0.14.0.UNSCNXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro / POCO Pad EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.UNSEUXM</td><td>14.0</td><td>4.2 GB</td><td>2024-07-16</td><td><a href="/hyperos/dizi/stable beta/OS1.0.6.0.UNSEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro / POCO Pad Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UNSMIXM</td><td>14.0</td><td>4.2 GB</td><td>2024-07-12</td><td><a href="/hyperos/dizi/stable/OS1.0.5.0.UNSMIXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro / POCO Pad Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UNSMIXM</td><td>14.0</td><td>4.9 GB</td><td>2024-07-08</td><td><a href="/hyperos/dizi/stable/OS1.0.5.0.UNSMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro / POCO Pad India</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNSINXM</td><td>14.0</td><td>4.1 GB</td><td>2024-06-25</td><td><a href="/hyperos/dizi/stable/OS1.0.3.0.UNSINXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro / POCO Pad India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UNSINXM</td><td>14.0</td><td>4.6 GB</td><td>2024-06-19</td><td><a href="/hyperos/dizi/stable/OS1.0.3.0.UNSINXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro / POCO Pad EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNSEUXM</td><td>14.0</td><td>4.2 GB</td><td>2024-06-12</td><td><a href="/hyperos/dizi/stable/OS1.0.4.0.UNSEUXM/">Download</a></td></tr>
