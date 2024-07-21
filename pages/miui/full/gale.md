@@ -52,7 +52,9 @@ permalink: /archive/miui/gale/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 13C / POCO C65 Indonesia</td><td>Stable</td><td>Recovery</td><td>V14.0.7.0.TGPIDXM</td><td>13.0</td><td>4.1 GB</td><td>2024-07-08</td><td><a href="/miui/gale/stable/V14.0.7.0.TGPIDXM/">Download</a></td></tr>
+                <tr><td>Redmi 13C / POCO C65 Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TGPTWXM</td><td>13.0</td><td>4.0 GB</td><td>2024-07-15</td><td><a href="/miui/gale/stable/V14.0.5.0.TGPTWXM/">Download</a></td></tr>
+<tr><td>Redmi 13C / POCO C65 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TGPTWXM</td><td>13.0</td><td>5.8 GB</td><td>2024-07-08</td><td><a href="/miui/gale/stable/V14.0.5.0.TGPTWXM/">Download</a></td></tr>
+<tr><td>Redmi 13C / POCO C65 Indonesia</td><td>Stable</td><td>Recovery</td><td>V14.0.7.0.TGPIDXM</td><td>13.0</td><td>4.1 GB</td><td>2024-07-08</td><td><a href="/miui/gale/stable/V14.0.7.0.TGPIDXM/">Download</a></td></tr>
 <tr><td>Redmi 13C / POCO C65 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V14.0.7.0.TGPIDXM</td><td>13.0</td><td>6.4 GB</td><td>2024-07-02</td><td><a href="/miui/gale/stable/V14.0.7.0.TGPIDXM/">Download</a></td></tr>
 <tr><td>Redmi 13C / POCO C65 Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TGPTRXM</td><td>13.0</td><td>4.1 GB</td><td>2024-07-08</td><td><a href="/miui/gale/stable/V14.0.6.0.TGPTRXM/">Download</a></td></tr>
 <tr><td>Redmi 13C / POCO C65 Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TGPTRXM</td><td>13.0</td><td>6.0 GB</td><td>2024-07-02</td><td><a href="/miui/gale/stable/V14.0.6.0.TGPTRXM/">Download</a></td></tr>

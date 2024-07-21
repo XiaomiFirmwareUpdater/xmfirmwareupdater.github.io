@@ -54,6 +54,7 @@ permalink: /hyperos/rothko/
                 <tbody>
                 <tr><td>Redmi K70 Ultra China</td><td>Stable Beta</td><td>Fastboot</td><td>OS1.0.13.0.UNNCNXM</td><td>14.0</td><td>8.9 GB</td><td>2024-07-15</td><td><a href="/hyperos/rothko/stable beta/OS1.0.13.0.UNNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.13.0.UNNCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-07-19</td><td><a href="/hyperos/rothko/stable/OS1.0.13.0.UNNCNXM/">Download</a></td></tr>
+<tr><td>Redmi K70 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.14.0.UNNCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-07-20</td><td><a href="/hyperos/rothko/stable beta/OS1.0.14.0.UNNCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
