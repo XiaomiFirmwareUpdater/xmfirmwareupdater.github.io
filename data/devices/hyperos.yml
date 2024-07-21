@@ -3582,6 +3582,12 @@
   version: OS1.0.7.0.UMTMIXM
 - android: '14.0'
   codename: tapas
+  date: '2024-07-21'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMTMIXM/fw_tapas_miui_TAPASGlobal_OS1.0.9.0.UMTMIXM_94e9f2f26e_14.0.zip
+  name: Redmi Note 12 4G
+  version: OS1.0.9.0.UMTMIXM
+- android: '14.0'
+  codename: tapas
   date: '2024-02-18'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMTMIXM/fw_tapas_miui_TAPASGlobal_OS1.0.4.0.UMTMIXM_5f979b1e34_14.0.zip
   name: Redmi Note 12 4G
@@ -3652,6 +3658,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMGEUXM/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.2.0.UMGEUXM_8f6a8b7267_14.0.zip
   name: Redmi Note 12 4G NFC
   version: OS1.0.2.0.UMGEUXM
+- android: '14.0'
+  codename: topaz
+  date: '2024-07-21'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMGMIXM/fw_topaz_miui_TOPAZGlobal_OS1.0.6.0.UMGMIXM_fbbcc31bfc_14.0.zip
+  name: Redmi Note 12 4G NFC
+  version: OS1.0.6.0.UMGMIXM
 - android: '14.0'
   codename: topaz
   date: '2024-02-18'
