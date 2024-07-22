@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-06-06'
+  date: '2024-07-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-06.06.2024/fw_peridot_miui_PERIDOTGlobal_OS1.0.4.0.UNPMIXM_a6bae69297_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/peridot/fw_peridot_miui_PERIDOTGlobal_OS1.0.4.0.UNPMIXM_a6bae69297_14.0.zip
-  filename: fw_peridot_miui_PERIDOTGlobal_OS1.0.4.0.UNPMIXM_a6bae69297_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-22.07.2024/fw_peridot_miui_PERIDOTGlobal_OS1.0.5.0.UNPMIXM_61e5a146e4_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/peridot/fw_peridot_miui_PERIDOTGlobal_OS1.0.5.0.UNPMIXM_61e5a146e4_14.0.zip
+  filename: fw_peridot_miui_PERIDOTGlobal_OS1.0.5.0.UNPMIXM_61e5a146e4_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.UNPMIXM
+    miui: OS1.0.5.0.UNPMIXM
 - branch: stable
   date: '2024-07-18'
   downloads:
@@ -29,12 +29,12 @@
     android: '14.0'
     miui: OS1.0.2.0.UNPEUXM
 - branch: stable
-  date: '2024-06-17'
+  date: '2024-07-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-17.06.2024/fw_peridot_miui_PERIDOTINGlobal_OS1.0.3.0.UNPINXM_f6d628b90b_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/peridot/fw_peridot_miui_PERIDOTINGlobal_OS1.0.3.0.UNPINXM_f6d628b90b_14.0.zip
-  filename: fw_peridot_miui_PERIDOTINGlobal_OS1.0.3.0.UNPINXM_f6d628b90b_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-22.07.2024/fw_peridot_miui_PERIDOTINGlobal_OS1.0.4.0.UNPINXM_090bb29641_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/peridot/fw_peridot_miui_PERIDOTINGlobal_OS1.0.4.0.UNPINXM_090bb29641_14.0.zip
+  filename: fw_peridot_miui_PERIDOTINGlobal_OS1.0.4.0.UNPINXM_090bb29641_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.3.0.UNPINXM
+    miui: OS1.0.4.0.UNPINXM

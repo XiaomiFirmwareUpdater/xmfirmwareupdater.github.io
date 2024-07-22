@@ -1344,6 +1344,12 @@
   version: OS1.0.5.0.UNQINXM
 - android: '14.0'
   codename: gold
+  date: '2024-07-22'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UNQMIXM/fw_gold_miui_GOLDGlobal_OS1.0.7.0.UNQMIXM_50f81f3d22_14.0.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS1.0.7.0.UNQMIXM
+- android: '14.0'
+  codename: gold
   date: '2024-04-22'
   download: https://bigota.d.miui.com/OS1.0.3.0.UNQMIXM/fw_gold_miui_GOLDGlobal_OS1.0.3.0.UNQMIXM_a1f2dfa06b_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
@@ -1504,6 +1510,12 @@
   download: https://bigota.d.miui.com/OS1.0.38.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.38.0.UNCCNXM_89a9ce40ec_14.0.zip
   name: Xiaomi 14
   version: OS1.0.38.0.UNCCNXM
+- android: '14.0'
+  codename: houji
+  date: '2024-07-22'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UNCMIXM/fw_houji_miui_HOUJIGlobal_OS1.0.12.0.UNCMIXM_3244e83a0f_14.0.zip
+  name: Xiaomi 14
+  version: OS1.0.12.0.UNCMIXM
 - android: '14.0'
   codename: houji
   date: '2024-06-18'
@@ -2460,6 +2472,18 @@
   version: OS1.0.13.0.UNPCNXM
 - android: '14.0'
   codename: peridot
+  date: '2024-07-22'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UNPMIXM/fw_peridot_miui_PERIDOTGlobal_OS1.0.5.0.UNPMIXM_61e5a146e4_14.0.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS1.0.5.0.UNPMIXM
+- android: '14.0'
+  codename: peridot
+  date: '2024-07-22'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNPINXM/fw_peridot_miui_PERIDOTINGlobal_OS1.0.4.0.UNPINXM_090bb29641_14.0.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS1.0.4.0.UNPINXM
+- android: '14.0'
+  codename: peridot
   date: '2024-07-18'
   download: https://bigota.d.miui.com/OS1.0.14.0.UNPCNXM/fw_peridot_miui_PERIDOT_OS1.0.14.0.UNPCNXM_f31a1bac03_14.0.zip
   name: Redmi Turbo 3/POCO F6
@@ -2716,6 +2740,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMSEUXM/fw_redwood_miui_REDWOODEEAGlobal_OS1.0.4.0.UMSEUXM_d28b89a3e4_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: OS1.0.4.0.UMSEUXM
+- android: '14.0'
+  codename: redwood
+  date: '2024-07-22'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMSEUXM/fw_redwood_miui_REDWOODEEAGlobal_OS1.0.6.0.UMSEUXM_c01839c8e9_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.6.0.UMSEUXM
 - android: '14.0'
   codename: redwood
   date: '2024-04-22'
@@ -2992,6 +3022,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UMOEUXM/fw_ruby_miui_RUBYEEAGlobal_OS1.0.1.0.UMOEUXM_d22f47926d_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: OS1.0.1.0.UMOEUXM
+- android: '14.0'
+  codename: ruyi
+  date: '2024-07-22'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UNICNXM/fw_ruyi_miui_RUYI_OS1.0.7.0.UNICNXM_e3a8629bbf_14.0.zip
+  name: MIX Flip
+  version: OS1.0.7.0.UNICNXM
 - android: '14.0'
   codename: sapphire
   date: '2024-03-29'
@@ -4228,6 +4264,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UNOEUXM/fw_zircon_miui_ZIRCONEEAGlobal_OS1.0.2.0.UNOEUXM_dd2d069c0d_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.2.0.UNOEUXM
+- android: '14.0'
+  codename: zircon
+  date: '2024-07-22'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UNOMIXM/fw_zircon_miui_ZIRCONGlobal_OS1.0.3.0.UNOMIXM_89909fe96c_14.0.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS1.0.3.0.UNOMIXM
 - android: '14.0'
   codename: zircon
   date: '2024-05-20'
