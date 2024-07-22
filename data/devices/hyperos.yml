@@ -1302,6 +1302,12 @@
   version: OS1.0.7.0.UNRCNXM
 - android: '14.0'
   codename: goku
+  date: '2024-07-22'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UNVCNXM/fw_goku_miui_GOKU_OS1.0.8.0.UNVCNXM_17508372ba_14.0.zip
+  name: MIX Fold 4
+  version: OS1.0.8.0.UNVCNXM
+- android: '14.0'
+  codename: goku
   date: '2024-07-19'
   download: https://bigota.d.miui.com/OS1.0.7.0.UNVCNXM/fw_goku_miui_GOKU_OS1.0.7.0.UNVCNXM_72a459b259_14.0.zip
   name: MIX Fold 4
@@ -2530,6 +2536,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.7.0.UMZCNXM_a0d8c7820c_14.0.zip
   name: Xiaomi Pad 6
   version: OS1.0.7.0.UMZCNXM
+- android: '14.0'
+  codename: pipa
+  date: '2024-07-22'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMZMIXM/fw_pipa_miui_PIPAGlobal_OS1.0.9.0.UMZMIXM_7c75835663_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.9.0.UMZMIXM
 - android: '14.0'
   codename: pipa
   date: '2024-01-22'
