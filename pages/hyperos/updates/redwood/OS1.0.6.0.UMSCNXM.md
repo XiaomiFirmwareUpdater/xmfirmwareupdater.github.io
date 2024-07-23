@@ -56,22 +56,22 @@ permalink: /hyperos/redwood/stable/OS1.0.6.0.UMSCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.8 GB</h5>
+                    <h5><b>Size: </b>5.6 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-04-09</h5>
+                    <h5><b>Release Date: </b>2024-04-19</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">redwood_images_OS1.0.6.0.UMSCNXM_20240409.0000.00_14.0_cn_cd6b2a0a0b.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_REDWOOD_OS1.0.6.0.UMSCNXM_f7ddaf58a6_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">cd6b2a0a0b2e803bfa29c999575a8492</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f7ddaf58a6125cbb5e9ce0805362e4d8</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UMSCNXM/redwood_images_OS1.0.6.0.UMSCNXM_20240409.0000.00_14.0_cn_cd6b2a0a0b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.6.0.UMSCNXM/redwood_images_OS1.0.6.0.UMSCNXM_20240409.0000.00_14.0_cn_cd6b2a0a0b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.6.0.UMSCNXM/redwood_images_OS1.0.6.0.UMSCNXM_20240409.0000.00_14.0_cn_cd6b2a0a0b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.UMSCNXM/redwood_images_OS1.0.6.0.UMSCNXM_20240409.0000.00_14.0_cn_cd6b2a0a0b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.6.0.UMSCNXM/redwood_images_OS1.0.6.0.UMSCNXM_20240409.0000.00_14.0_cn_cd6b2a0a0b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UMSCNXM/miui-blockota-redwood-OS1.0.4.0.UMSCNXM-OS1.0.6.0.UMSCNXM-8d3ffd6123-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UMSCNXM/miui_REDWOOD_OS1.0.6.0.UMSCNXM_f7ddaf58a6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.6.0.UMSCNXM/miui_REDWOOD_OS1.0.6.0.UMSCNXM_f7ddaf58a6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.6.0.UMSCNXM/miui_REDWOOD_OS1.0.6.0.UMSCNXM_f7ddaf58a6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.UMSCNXM/miui_REDWOOD_OS1.0.6.0.UMSCNXM_f7ddaf58a6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.6.0.UMSCNXM/miui_REDWOOD_OS1.0.6.0.UMSCNXM_f7ddaf58a6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#redwood_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/redwood/stable/OS1.0.6.0.UMSCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.6 GB</h5>
+                    <h5><b>Size: </b>6.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-04-19</h5>
+                    <h5><b>Release Date: </b>2024-04-09</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_REDWOOD_OS1.0.6.0.UMSCNXM_f7ddaf58a6_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">redwood_images_OS1.0.6.0.UMSCNXM_20240409.0000.00_14.0_cn_cd6b2a0a0b.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">f7ddaf58a6125cbb5e9ce0805362e4d8</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">cd6b2a0a0b2e803bfa29c999575a8492</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UMSCNXM/miui-blockota-redwood-OS1.0.4.0.UMSCNXM-OS1.0.6.0.UMSCNXM-8d3ffd6123-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UMSCNXM/miui_REDWOOD_OS1.0.6.0.UMSCNXM_f7ddaf58a6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.6.0.UMSCNXM/miui_REDWOOD_OS1.0.6.0.UMSCNXM_f7ddaf58a6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.6.0.UMSCNXM/miui_REDWOOD_OS1.0.6.0.UMSCNXM_f7ddaf58a6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.UMSCNXM/miui_REDWOOD_OS1.0.6.0.UMSCNXM_f7ddaf58a6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.6.0.UMSCNXM/miui_REDWOOD_OS1.0.6.0.UMSCNXM_f7ddaf58a6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UMSCNXM/redwood_images_OS1.0.6.0.UMSCNXM_20240409.0000.00_14.0_cn_cd6b2a0a0b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.6.0.UMSCNXM/redwood_images_OS1.0.6.0.UMSCNXM_20240409.0000.00_14.0_cn_cd6b2a0a0b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.6.0.UMSCNXM/redwood_images_OS1.0.6.0.UMSCNXM_20240409.0000.00_14.0_cn_cd6b2a0a0b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.UMSCNXM/redwood_images_OS1.0.6.0.UMSCNXM_20240409.0000.00_14.0_cn_cd6b2a0a0b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.6.0.UMSCNXM/redwood_images_OS1.0.6.0.UMSCNXM_20240409.0000.00_14.0_cn_cd6b2a0a0b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#redwood_2_changelog" data-toggle="collapse" role="button"

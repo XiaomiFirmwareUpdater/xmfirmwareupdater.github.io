@@ -56,22 +56,22 @@ permalink: /hyperos/emerald/stable/OS1.0.2.0.UNFEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.1 GB</h5>
+                    <h5><b>Size: </b>4.7 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-05-16</h5>
+                    <h5><b>Release Date: </b>2024-06-08</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">emerald_eea_global_images_OS1.0.2.0.UNFEUXM_20240516.0000.00_14.0_eea_fc95c9d284.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_EMERALDEEAGlobal_OS1.0.2.0.UNFEUXM_1d3de83f72_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">fc95c9d28482f91dd576789c4034abc2</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">1d3de83f727fcacdae5da353048d6a46</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.2.0.UNFEUXM/emerald_eea_global_images_OS1.0.2.0.UNFEUXM_20240516.0000.00_14.0_eea_fc95c9d284.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.2.0.UNFEUXM/emerald_eea_global_images_OS1.0.2.0.UNFEUXM_20240516.0000.00_14.0_eea_fc95c9d284.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.2.0.UNFEUXM/emerald_eea_global_images_OS1.0.2.0.UNFEUXM_20240516.0000.00_14.0_eea_fc95c9d284.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.UNFEUXM/emerald_eea_global_images_OS1.0.2.0.UNFEUXM_20240516.0000.00_14.0_eea_fc95c9d284.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.2.0.UNFEUXM/emerald_eea_global_images_OS1.0.2.0.UNFEUXM_20240516.0000.00_14.0_eea_fc95c9d284.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.UNFEUXM/miui-blockota-emerald_eea_global-OS1.0.1.0.UNFEUXM-OS1.0.2.0.UNFEUXM-7c2b6d9da8-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.2.0.UNFEUXM/miui_EMERALDEEAGlobal_OS1.0.2.0.UNFEUXM_1d3de83f72_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.2.0.UNFEUXM/miui_EMERALDEEAGlobal_OS1.0.2.0.UNFEUXM_1d3de83f72_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.2.0.UNFEUXM/miui_EMERALDEEAGlobal_OS1.0.2.0.UNFEUXM_1d3de83f72_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.UNFEUXM/miui_EMERALDEEAGlobal_OS1.0.2.0.UNFEUXM_1d3de83f72_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.2.0.UNFEUXM/miui_EMERALDEEAGlobal_OS1.0.2.0.UNFEUXM_1d3de83f72_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#emerald_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/emerald/stable/OS1.0.2.0.UNFEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.7 GB</h5>
+                    <h5><b>Size: </b>7.1 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-06-08</h5>
+                    <h5><b>Release Date: </b>2024-05-16</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_EMERALDEEAGlobal_OS1.0.2.0.UNFEUXM_1d3de83f72_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">emerald_eea_global_images_OS1.0.2.0.UNFEUXM_20240516.0000.00_14.0_eea_fc95c9d284.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">1d3de83f727fcacdae5da353048d6a46</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">fc95c9d28482f91dd576789c4034abc2</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.UNFEUXM/miui-blockota-emerald_eea_global-OS1.0.1.0.UNFEUXM-OS1.0.2.0.UNFEUXM-7c2b6d9da8-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.2.0.UNFEUXM/miui_EMERALDEEAGlobal_OS1.0.2.0.UNFEUXM_1d3de83f72_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.2.0.UNFEUXM/miui_EMERALDEEAGlobal_OS1.0.2.0.UNFEUXM_1d3de83f72_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.2.0.UNFEUXM/miui_EMERALDEEAGlobal_OS1.0.2.0.UNFEUXM_1d3de83f72_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.UNFEUXM/miui_EMERALDEEAGlobal_OS1.0.2.0.UNFEUXM_1d3de83f72_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.2.0.UNFEUXM/miui_EMERALDEEAGlobal_OS1.0.2.0.UNFEUXM_1d3de83f72_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.2.0.UNFEUXM/emerald_eea_global_images_OS1.0.2.0.UNFEUXM_20240516.0000.00_14.0_eea_fc95c9d284.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.2.0.UNFEUXM/emerald_eea_global_images_OS1.0.2.0.UNFEUXM_20240516.0000.00_14.0_eea_fc95c9d284.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.2.0.UNFEUXM/emerald_eea_global_images_OS1.0.2.0.UNFEUXM_20240516.0000.00_14.0_eea_fc95c9d284.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.UNFEUXM/emerald_eea_global_images_OS1.0.2.0.UNFEUXM_20240516.0000.00_14.0_eea_fc95c9d284.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.2.0.UNFEUXM/emerald_eea_global_images_OS1.0.2.0.UNFEUXM_20240516.0000.00_14.0_eea_fc95c9d284.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#emerald_2_changelog" data-toggle="collapse" role="button"

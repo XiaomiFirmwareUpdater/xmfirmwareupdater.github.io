@@ -56,22 +56,22 @@ permalink: /hyperos/fire/stable/OS1.0.6.0.UMXMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.1 GB</h5>
+                    <h5><b>Size: </b>4.4 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-06-06</h5>
+                    <h5><b>Release Date: </b>2024-06-15</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">fire_global_images_OS1.0.6.0.UMXMIXM_20240606.0000.00_14.0_global_d6d5f20099.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_FIREGlobal_OS1.0.6.0.UMXMIXM_24fac395d8_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">d6d5f200995253f736c7be616efe9111</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">24fac395d81cb2cfc6d6327fe6f5eec3</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UMXMIXM/fire_global_images_OS1.0.6.0.UMXMIXM_20240606.0000.00_14.0_global_d6d5f20099.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.6.0.UMXMIXM/fire_global_images_OS1.0.6.0.UMXMIXM_20240606.0000.00_14.0_global_d6d5f20099.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.6.0.UMXMIXM/fire_global_images_OS1.0.6.0.UMXMIXM_20240606.0000.00_14.0_global_d6d5f20099.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.UMXMIXM/fire_global_images_OS1.0.6.0.UMXMIXM_20240606.0000.00_14.0_global_d6d5f20099.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.6.0.UMXMIXM/fire_global_images_OS1.0.6.0.UMXMIXM_20240606.0000.00_14.0_global_d6d5f20099.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UMXMIXM/miui-blockota-fire_global-OS1.0.4.0.UMXMIXM-OS1.0.6.0.UMXMIXM-5f88ce9a78-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UMXMIXM/miui_FIREGlobal_OS1.0.6.0.UMXMIXM_24fac395d8_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.6.0.UMXMIXM/miui_FIREGlobal_OS1.0.6.0.UMXMIXM_24fac395d8_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.6.0.UMXMIXM/miui_FIREGlobal_OS1.0.6.0.UMXMIXM_24fac395d8_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.UMXMIXM/miui_FIREGlobal_OS1.0.6.0.UMXMIXM_24fac395d8_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.6.0.UMXMIXM/miui_FIREGlobal_OS1.0.6.0.UMXMIXM_24fac395d8_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#fire_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/fire/stable/OS1.0.6.0.UMXMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.4 GB</h5>
+                    <h5><b>Size: </b>7.1 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-06-15</h5>
+                    <h5><b>Release Date: </b>2024-06-06</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_FIREGlobal_OS1.0.6.0.UMXMIXM_24fac395d8_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">fire_global_images_OS1.0.6.0.UMXMIXM_20240606.0000.00_14.0_global_d6d5f20099.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">24fac395d81cb2cfc6d6327fe6f5eec3</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">d6d5f200995253f736c7be616efe9111</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UMXMIXM/miui-blockota-fire_global-OS1.0.4.0.UMXMIXM-OS1.0.6.0.UMXMIXM-5f88ce9a78-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UMXMIXM/miui_FIREGlobal_OS1.0.6.0.UMXMIXM_24fac395d8_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.6.0.UMXMIXM/miui_FIREGlobal_OS1.0.6.0.UMXMIXM_24fac395d8_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.6.0.UMXMIXM/miui_FIREGlobal_OS1.0.6.0.UMXMIXM_24fac395d8_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.UMXMIXM/miui_FIREGlobal_OS1.0.6.0.UMXMIXM_24fac395d8_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.6.0.UMXMIXM/miui_FIREGlobal_OS1.0.6.0.UMXMIXM_24fac395d8_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UMXMIXM/fire_global_images_OS1.0.6.0.UMXMIXM_20240606.0000.00_14.0_global_d6d5f20099.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.6.0.UMXMIXM/fire_global_images_OS1.0.6.0.UMXMIXM_20240606.0000.00_14.0_global_d6d5f20099.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.6.0.UMXMIXM/fire_global_images_OS1.0.6.0.UMXMIXM_20240606.0000.00_14.0_global_d6d5f20099.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.UMXMIXM/fire_global_images_OS1.0.6.0.UMXMIXM_20240606.0000.00_14.0_global_d6d5f20099.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.6.0.UMXMIXM/fire_global_images_OS1.0.6.0.UMXMIXM_20240606.0000.00_14.0_global_d6d5f20099.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#fire_2_changelog" data-toggle="collapse" role="button"

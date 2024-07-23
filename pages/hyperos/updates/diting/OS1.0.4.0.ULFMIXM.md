@@ -56,22 +56,22 @@ permalink: /hyperos/diting/stable/OS1.0.4.0.ULFMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.8 GB</h5>
+                    <h5><b>Size: </b>5.3 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-05-08</h5>
+                    <h5><b>Release Date: </b>2024-05-16</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">diting_global_images_OS1.0.4.0.ULFMIXM_20240508.0000.00_14.0_global_a9e16ec24d.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_DITINGGlobal_OS1.0.4.0.ULFMIXM_c9181f0d36_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">a9e16ec24d3fd83d548dbf7b7ffe22b7</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">c9181f0d36a84a9ec23d5efbe1f69750</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.4.0.ULFMIXM/diting_global_images_OS1.0.4.0.ULFMIXM_20240508.0000.00_14.0_global_a9e16ec24d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.4.0.ULFMIXM/diting_global_images_OS1.0.4.0.ULFMIXM_20240508.0000.00_14.0_global_a9e16ec24d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.4.0.ULFMIXM/diting_global_images_OS1.0.4.0.ULFMIXM_20240508.0000.00_14.0_global_a9e16ec24d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.ULFMIXM/diting_global_images_OS1.0.4.0.ULFMIXM_20240508.0000.00_14.0_global_a9e16ec24d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.4.0.ULFMIXM/diting_global_images_OS1.0.4.0.ULFMIXM_20240508.0000.00_14.0_global_a9e16ec24d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.4.0.ULFMIXM/miui-blockota-diting_global-OS1.0.3.0.ULFMIXM-OS1.0.4.0.ULFMIXM-da3d984d31-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.4.0.ULFMIXM/miui_DITINGGlobal_OS1.0.4.0.ULFMIXM_c9181f0d36_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.4.0.ULFMIXM/miui_DITINGGlobal_OS1.0.4.0.ULFMIXM_c9181f0d36_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.4.0.ULFMIXM/miui_DITINGGlobal_OS1.0.4.0.ULFMIXM_c9181f0d36_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.ULFMIXM/miui_DITINGGlobal_OS1.0.4.0.ULFMIXM_c9181f0d36_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.4.0.ULFMIXM/miui_DITINGGlobal_OS1.0.4.0.ULFMIXM_c9181f0d36_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#diting_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/diting/stable/OS1.0.4.0.ULFMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.3 GB</h5>
+                    <h5><b>Size: </b>6.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-05-16</h5>
+                    <h5><b>Release Date: </b>2024-05-08</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_DITINGGlobal_OS1.0.4.0.ULFMIXM_c9181f0d36_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">diting_global_images_OS1.0.4.0.ULFMIXM_20240508.0000.00_14.0_global_a9e16ec24d.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c9181f0d36a84a9ec23d5efbe1f69750</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">a9e16ec24d3fd83d548dbf7b7ffe22b7</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.4.0.ULFMIXM/miui-blockota-diting_global-OS1.0.3.0.ULFMIXM-OS1.0.4.0.ULFMIXM-da3d984d31-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.4.0.ULFMIXM/miui_DITINGGlobal_OS1.0.4.0.ULFMIXM_c9181f0d36_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.4.0.ULFMIXM/miui_DITINGGlobal_OS1.0.4.0.ULFMIXM_c9181f0d36_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.4.0.ULFMIXM/miui_DITINGGlobal_OS1.0.4.0.ULFMIXM_c9181f0d36_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.ULFMIXM/miui_DITINGGlobal_OS1.0.4.0.ULFMIXM_c9181f0d36_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.4.0.ULFMIXM/miui_DITINGGlobal_OS1.0.4.0.ULFMIXM_c9181f0d36_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.4.0.ULFMIXM/diting_global_images_OS1.0.4.0.ULFMIXM_20240508.0000.00_14.0_global_a9e16ec24d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.4.0.ULFMIXM/diting_global_images_OS1.0.4.0.ULFMIXM_20240508.0000.00_14.0_global_a9e16ec24d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.4.0.ULFMIXM/diting_global_images_OS1.0.4.0.ULFMIXM_20240508.0000.00_14.0_global_a9e16ec24d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.ULFMIXM/diting_global_images_OS1.0.4.0.ULFMIXM_20240508.0000.00_14.0_global_a9e16ec24d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.4.0.ULFMIXM/diting_global_images_OS1.0.4.0.ULFMIXM_20240508.0000.00_14.0_global_a9e16ec24d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#diting_2_changelog" data-toggle="collapse" role="button"
