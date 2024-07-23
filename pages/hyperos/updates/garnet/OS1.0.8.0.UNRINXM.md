@@ -56,22 +56,22 @@ permalink: /hyperos/garnet/stable/OS1.0.8.0.UNRINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.8 GB</h5>
+                    <h5><b>Size: </b>6.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-06-09</h5>
+                    <h5><b>Release Date: </b>2024-06-06</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_GARNETINGlobal_OS1.0.8.0.UNRINXM_8eb1dc2e4c_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">garnet_in_global_images_OS1.0.8.0.UNRINXM_20240606.0000.00_14.0_in_f149e3b954.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">8eb1dc2e4cba4ddb0dce9e9318d07d2d</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f149e3b954af0655ea8c74069188fa89</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.8.0.UNRINXM/miui-blockota-garnet_in_global-OS1.0.7.0.UNRINXM-OS1.0.8.0.UNRINXM-f45fffda18-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.8.0.UNRINXM/miui_GARNETINGlobal_OS1.0.8.0.UNRINXM_8eb1dc2e4c_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.8.0.UNRINXM/miui_GARNETINGlobal_OS1.0.8.0.UNRINXM_8eb1dc2e4c_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.8.0.UNRINXM/miui_GARNETINGlobal_OS1.0.8.0.UNRINXM_8eb1dc2e4c_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.8.0.UNRINXM/miui_GARNETINGlobal_OS1.0.8.0.UNRINXM_8eb1dc2e4c_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.8.0.UNRINXM/miui_GARNETINGlobal_OS1.0.8.0.UNRINXM_8eb1dc2e4c_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.8.0.UNRINXM/garnet_in_global_images_OS1.0.8.0.UNRINXM_20240606.0000.00_14.0_in_f149e3b954.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.8.0.UNRINXM/garnet_in_global_images_OS1.0.8.0.UNRINXM_20240606.0000.00_14.0_in_f149e3b954.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.8.0.UNRINXM/garnet_in_global_images_OS1.0.8.0.UNRINXM_20240606.0000.00_14.0_in_f149e3b954.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.8.0.UNRINXM/garnet_in_global_images_OS1.0.8.0.UNRINXM_20240606.0000.00_14.0_in_f149e3b954.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.8.0.UNRINXM/garnet_in_global_images_OS1.0.8.0.UNRINXM_20240606.0000.00_14.0_in_f149e3b954.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#garnet_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/garnet/stable/OS1.0.8.0.UNRINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.5 GB</h5>
+                    <h5><b>Size: </b>4.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-06-06</h5>
+                    <h5><b>Release Date: </b>2024-06-09</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">garnet_in_global_images_OS1.0.8.0.UNRINXM_20240606.0000.00_14.0_in_f149e3b954.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_GARNETINGlobal_OS1.0.8.0.UNRINXM_8eb1dc2e4c_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">f149e3b954af0655ea8c74069188fa89</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">8eb1dc2e4cba4ddb0dce9e9318d07d2d</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.8.0.UNRINXM/garnet_in_global_images_OS1.0.8.0.UNRINXM_20240606.0000.00_14.0_in_f149e3b954.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.8.0.UNRINXM/garnet_in_global_images_OS1.0.8.0.UNRINXM_20240606.0000.00_14.0_in_f149e3b954.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.8.0.UNRINXM/garnet_in_global_images_OS1.0.8.0.UNRINXM_20240606.0000.00_14.0_in_f149e3b954.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.8.0.UNRINXM/garnet_in_global_images_OS1.0.8.0.UNRINXM_20240606.0000.00_14.0_in_f149e3b954.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.8.0.UNRINXM/garnet_in_global_images_OS1.0.8.0.UNRINXM_20240606.0000.00_14.0_in_f149e3b954.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.8.0.UNRINXM/miui-blockota-garnet_in_global-OS1.0.7.0.UNRINXM-OS1.0.8.0.UNRINXM-f45fffda18-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.8.0.UNRINXM/miui_GARNETINGlobal_OS1.0.8.0.UNRINXM_8eb1dc2e4c_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.8.0.UNRINXM/miui_GARNETINGlobal_OS1.0.8.0.UNRINXM_8eb1dc2e4c_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.8.0.UNRINXM/miui_GARNETINGlobal_OS1.0.8.0.UNRINXM_8eb1dc2e4c_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.8.0.UNRINXM/miui_GARNETINGlobal_OS1.0.8.0.UNRINXM_8eb1dc2e4c_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.8.0.UNRINXM/miui_GARNETINGlobal_OS1.0.8.0.UNRINXM_8eb1dc2e4c_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#garnet_2_changelog" data-toggle="collapse" role="button"

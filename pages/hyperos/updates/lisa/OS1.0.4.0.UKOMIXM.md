@@ -56,29 +56,29 @@ permalink: /hyperos/lisa/stable/OS1.0.4.0.UKOMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.9 GB</h5>
+                    <h5><b>Size: </b>6.4 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-06-27</h5>
+                    <h5><b>Release Date: </b>2024-06-13</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_LISAGlobal_OS1.0.4.0.UKOMIXM_906b257828_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">lisa_global_images_OS1.0.4.0.UKOMIXM_20240613.0000.00_14.0_global_28380be515.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">906b257828c2a9c86453140ba175d8d0</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">28380be515d138d4f8da6ea608d0c12e</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UKOMIXM/miui-blockota-lisa_global-OS1.0.3.0.UKOMIXM-OS1.0.4.0.UKOMIXM-8e9924948f-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.4.0.UKOMIXM/miui_LISAGlobal_OS1.0.4.0.UKOMIXM_906b257828_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.4.0.UKOMIXM/miui_LISAGlobal_OS1.0.4.0.UKOMIXM_906b257828_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.4.0.UKOMIXM/miui_LISAGlobal_OS1.0.4.0.UKOMIXM_906b257828_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UKOMIXM/miui_LISAGlobal_OS1.0.4.0.UKOMIXM_906b257828_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.4.0.UKOMIXM/miui_LISAGlobal_OS1.0.4.0.UKOMIXM_906b257828_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.4.0.UKOMIXM/lisa_global_images_OS1.0.4.0.UKOMIXM_20240613.0000.00_14.0_global_28380be515.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.4.0.UKOMIXM/lisa_global_images_OS1.0.4.0.UKOMIXM_20240613.0000.00_14.0_global_28380be515.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.4.0.UKOMIXM/lisa_global_images_OS1.0.4.0.UKOMIXM_20240613.0000.00_14.0_global_28380be515.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UKOMIXM/lisa_global_images_OS1.0.4.0.UKOMIXM_20240613.0000.00_14.0_global_28380be515.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.4.0.UKOMIXM/lisa_global_images_OS1.0.4.0.UKOMIXM_20240613.0000.00_14.0_global_28380be515.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#lisa_1_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="lisa_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="lisa_1_changelog">
-                        <p id="changelog_text">[System]<br>Updated the security patch to June 2024. Increased system security.</p>
+                        <p id="changelog_text">Bug fixes and system optimizations.</p>
                     </div>
                 </li>
             </ul>
@@ -99,29 +99,29 @@ permalink: /hyperos/lisa/stable/OS1.0.4.0.UKOMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.4 GB</h5>
+                    <h5><b>Size: </b>4.9 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-06-13</h5>
+                    <h5><b>Release Date: </b>2024-06-27</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">lisa_global_images_OS1.0.4.0.UKOMIXM_20240613.0000.00_14.0_global_28380be515.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_LISAGlobal_OS1.0.4.0.UKOMIXM_906b257828_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">28380be515d138d4f8da6ea608d0c12e</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">906b257828c2a9c86453140ba175d8d0</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.4.0.UKOMIXM/lisa_global_images_OS1.0.4.0.UKOMIXM_20240613.0000.00_14.0_global_28380be515.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.4.0.UKOMIXM/lisa_global_images_OS1.0.4.0.UKOMIXM_20240613.0000.00_14.0_global_28380be515.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.4.0.UKOMIXM/lisa_global_images_OS1.0.4.0.UKOMIXM_20240613.0000.00_14.0_global_28380be515.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UKOMIXM/lisa_global_images_OS1.0.4.0.UKOMIXM_20240613.0000.00_14.0_global_28380be515.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.4.0.UKOMIXM/lisa_global_images_OS1.0.4.0.UKOMIXM_20240613.0000.00_14.0_global_28380be515.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UKOMIXM/miui-blockota-lisa_global-OS1.0.3.0.UKOMIXM-OS1.0.4.0.UKOMIXM-8e9924948f-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.4.0.UKOMIXM/miui_LISAGlobal_OS1.0.4.0.UKOMIXM_906b257828_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.4.0.UKOMIXM/miui_LISAGlobal_OS1.0.4.0.UKOMIXM_906b257828_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.4.0.UKOMIXM/miui_LISAGlobal_OS1.0.4.0.UKOMIXM_906b257828_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UKOMIXM/miui_LISAGlobal_OS1.0.4.0.UKOMIXM_906b257828_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.4.0.UKOMIXM/miui_LISAGlobal_OS1.0.4.0.UKOMIXM_906b257828_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#lisa_2_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="lisa_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="lisa_2_changelog">
-                        <p id="changelog_text">Bug fixes and system optimizations.</p>
+                        <p id="changelog_text">[System]<br>Updated the security patch to June 2024. Increased system security.</p>
                     </div>
                 </li>
             </ul>

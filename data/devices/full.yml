@@ -22249,6 +22249,16 @@
     android: '13.0'
     miui: V14.0.16.0.TLFEUXM
 - branch: stable
+  date: '2024-07-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-23.07.2024/fw_diting_miui_DITING_OS1.0.5.0.ULFCNXM_3e49c8ad44_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/diting/fw_diting_miui_DITING_OS1.0.5.0.ULFCNXM_3e49c8ad44_14.0.zip
+  filename: fw_diting_miui_DITING_OS1.0.5.0.ULFCNXM_3e49c8ad44_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.5.0.ULFCNXM
+- branch: stable
   date: '2022-08-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-22.08.2022/fw_diting_miui_DITING_V13.0.5.0.SLFCNXM_f973aa38ac_12.0.zip
@@ -32638,6 +32648,16 @@
   versions:
     android: '14.0'
     miui: OS1.0.7.0.UMAMIXM
+- branch: stable
+  date: '2024-07-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-23.07.2024/fw_ishtar_miui_ISHTAR_OS1.0.12.0.UMACNXM_e5de640ccc_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ishtar/fw_ishtar_miui_ISHTAR_OS1.0.12.0.UMACNXM_e5de640ccc_14.0.zip
+  filename: fw_ishtar_miui_ISHTAR_OS1.0.12.0.UMACNXM_e5de640ccc_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.12.0.UMACNXM
 - branch: stable
   date: '2024-04-22'
   downloads:
@@ -79738,6 +79758,16 @@
   versions:
     android: '14.0'
     miui: OS1.0.1.0.ULLCNXM
+- branch: stable
+  date: '2024-07-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-24.07.2024/fw_ziyi_miui_ZIYIEEAGlobal_OS1.0.6.0.ULLEUXM_a1eaba7c5e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ziyi/fw_ziyi_miui_ZIYIEEAGlobal_OS1.0.6.0.ULLEUXM_a1eaba7c5e_14.0.zip
+  filename: fw_ziyi_miui_ZIYIEEAGlobal_OS1.0.6.0.ULLEUXM_a1eaba7c5e_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.6.0.ULLEUXM
 - branch: stable
   date: '2023-07-24'
   downloads:

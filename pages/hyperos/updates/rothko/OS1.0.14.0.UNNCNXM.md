@@ -56,22 +56,22 @@ permalink: /hyperos/rothko/stable/OS1.0.14.0.UNNCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.9 GB</h5>
+                    <h5><b>Size: </b>8.9 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-07-20</h5>
+                    <h5><b>Release Date: </b>2024-07-18</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_ROTHKO_OS1.0.14.0.UNNCNXM_611f2953c7_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">rothko_images_OS1.0.14.0.UNNCNXM_20240718.0000.00_14.0_cn_cf23e53231.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">611f2953c72305e7bbd49fc806c1cbee</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">cf23e53231eb3e3d93e9acb21a4427f3</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.14.0.UNNCNXM/miui-blockota-rothko-OS1.0.13.0.UNNCNXM-OS1.0.14.0.UNNCNXM-47df4a18b6-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.14.0.UNNCNXM/miui_ROTHKO_OS1.0.14.0.UNNCNXM_611f2953c7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.14.0.UNNCNXM/miui_ROTHKO_OS1.0.14.0.UNNCNXM_611f2953c7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.14.0.UNNCNXM/miui_ROTHKO_OS1.0.14.0.UNNCNXM_611f2953c7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.14.0.UNNCNXM/miui_ROTHKO_OS1.0.14.0.UNNCNXM_611f2953c7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.14.0.UNNCNXM/miui_ROTHKO_OS1.0.14.0.UNNCNXM_611f2953c7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.14.0.UNNCNXM/rothko_images_OS1.0.14.0.UNNCNXM_20240718.0000.00_14.0_cn_cf23e53231.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.14.0.UNNCNXM/rothko_images_OS1.0.14.0.UNNCNXM_20240718.0000.00_14.0_cn_cf23e53231.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.14.0.UNNCNXM/rothko_images_OS1.0.14.0.UNNCNXM_20240718.0000.00_14.0_cn_cf23e53231.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.14.0.UNNCNXM/rothko_images_OS1.0.14.0.UNNCNXM_20240718.0000.00_14.0_cn_cf23e53231.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.14.0.UNNCNXM/rothko_images_OS1.0.14.0.UNNCNXM_20240718.0000.00_14.0_cn_cf23e53231.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#rothko_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/rothko/stable/OS1.0.14.0.UNNCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.9 GB</h5>
+                    <h5><b>Size: </b>6.9 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-07-18</h5>
+                    <h5><b>Release Date: </b>2024-07-20</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">rothko_images_OS1.0.14.0.UNNCNXM_20240718.0000.00_14.0_cn_cf23e53231.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_ROTHKO_OS1.0.14.0.UNNCNXM_611f2953c7_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">cf23e53231eb3e3d93e9acb21a4427f3</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">611f2953c72305e7bbd49fc806c1cbee</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.14.0.UNNCNXM/rothko_images_OS1.0.14.0.UNNCNXM_20240718.0000.00_14.0_cn_cf23e53231.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.14.0.UNNCNXM/rothko_images_OS1.0.14.0.UNNCNXM_20240718.0000.00_14.0_cn_cf23e53231.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.14.0.UNNCNXM/rothko_images_OS1.0.14.0.UNNCNXM_20240718.0000.00_14.0_cn_cf23e53231.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.14.0.UNNCNXM/rothko_images_OS1.0.14.0.UNNCNXM_20240718.0000.00_14.0_cn_cf23e53231.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.14.0.UNNCNXM/rothko_images_OS1.0.14.0.UNNCNXM_20240718.0000.00_14.0_cn_cf23e53231.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.14.0.UNNCNXM/miui-blockota-rothko-OS1.0.13.0.UNNCNXM-OS1.0.14.0.UNNCNXM-47df4a18b6-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.14.0.UNNCNXM/miui_ROTHKO_OS1.0.14.0.UNNCNXM_611f2953c7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.14.0.UNNCNXM/miui_ROTHKO_OS1.0.14.0.UNNCNXM_611f2953c7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.14.0.UNNCNXM/miui_ROTHKO_OS1.0.14.0.UNNCNXM_611f2953c7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.14.0.UNNCNXM/miui_ROTHKO_OS1.0.14.0.UNNCNXM_611f2953c7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.14.0.UNNCNXM/miui_ROTHKO_OS1.0.14.0.UNNCNXM_611f2953c7_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#rothko_2_changelog" data-toggle="collapse" role="button"

@@ -612,6 +612,12 @@
   version: OS1.0.5.0.ULFEUXM
 - android: '14.0'
   codename: diting
+  date: '2024-07-23'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULFCNXM/fw_diting_miui_DITING_OS1.0.5.0.ULFCNXM_3e49c8ad44_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.5.0.ULFCNXM
+- android: '14.0'
+  codename: diting
   date: '2024-01-21'
   download: https://bigota.d.miui.com/OS1.0.1.0.ULFEUXM/fw_diting_miui_DITINGEEAGlobal_OS1.0.1.0.ULFEUXM_10053329d1_14.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
@@ -1708,6 +1714,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UMAMIXM/fw_ishtar_miui_ISHTARGlobal_OS1.0.7.0.UMAMIXM_4162714934_14.0.zip
   name: Xiaomi 13 Ultra
   version: OS1.0.7.0.UMAMIXM
+- android: '14.0'
+  codename: ishtar
+  date: '2024-07-23'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UMACNXM/fw_ishtar_miui_ISHTAR_OS1.0.12.0.UMACNXM_e5de640ccc_14.0.zip
+  name: Xiaomi 13 Ultra
+  version: OS1.0.12.0.UMACNXM
 - android: '14.0'
   codename: ishtar
   date: '2024-04-22'
@@ -4372,6 +4384,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.ULLCNXM/fw_ziyi_miui_ZIYI_OS1.0.1.0.ULLCNXM_89dd31358d_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.1.0.ULLCNXM
+- android: '14.0'
+  codename: ziyi
+  date: '2024-07-23'
+  download: https://bigota.d.miui.com/OS1.0.6.0.ULLEUXM/fw_ziyi_miui_ZIYIEEAGlobal_OS1.0.6.0.ULLEUXM_a1eaba7c5e_14.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS1.0.6.0.ULLEUXM
 - android: '14.0'
   codename: ziyi
   date: '2024-07-23'

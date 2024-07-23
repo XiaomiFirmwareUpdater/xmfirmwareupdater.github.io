@@ -3,7 +3,7 @@ title: MIX Fold 3 China HyperOS OS1.0.10.0.UMVCNXM Update
 layout: download
 name: MIX Fold 3 China
 codename: babylon
-permalink: /hyperos/babylon/stable beta/OS1.0.10.0.UMVCNXM/
+permalink: /hyperos/babylon/stable/OS1.0.10.0.UMVCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/babylon/stable beta/OS1.0.10.0.UMVCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.10.0.UMVCNXM Stable Beta Official Update for MIX Fold 3 China (babylon)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.10.0.UMVCNXM Stable Official Update for MIX Fold 3 China (babylon)</h3>
     <h5>This page shows the OS1.0.10.0.UMVCNXM update only. If you're looking for other updates check
         <a href="/hyperos/babylon/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/babylon/stable beta/OS1.0.10.0.UMVCNXM/
                     <h5><b>Version: </b>OS1.0.10.0.UMVCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/babylon/stable beta/OS1.0.10.0.UMVCNXM/
                             aria-expanded="false" aria-controls="babylon_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="babylon_1_changelog">
+                        <p id="changelog_text">[System]<br>Optimization: Improved app preloading to enhance app startup speed<br>Optimization: New startup animation strategy reduces app launch delays<br>Optimization: Improved system resource recovery strategy when switching apps to enhance app smoothness<br>Optimization: Optimized memory usage to improve the smoothness of TikTok (Douyin)<br>Updated the security patch to July 2024. Increased system security.<br>[Widgets]<br>New: Travel assistant can remind you of train and flight schedules for more convenient travel (requires upgrading App vault to version 5.12.2 or above, Messaging to version 15.0.2.24 or above, and Mi AI Engine to version 2.2 or above from GetApps).<br>Optimization: App vault loading speed<br>Fix: Zoom animation was abnormal when tapping the Music widget<br>Fix: A rare display issue occurred when adding the Clock widget<br>Fix: An incorrect name for Travel assistant was shown in Recents</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>MIX Fold 3 China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/babylon/" target="_blank">babylon</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.10.0.UMVCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>8.8 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-07-12</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">babylon_images_OS1.0.10.0.UMVCNXM_20240712.0000.00_14.0_cn_15035c14fd.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">15035c14fd20283c7db27602621d1d2a</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.10.0.UMVCNXM/babylon_images_OS1.0.10.0.UMVCNXM_20240712.0000.00_14.0_cn_15035c14fd.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.10.0.UMVCNXM/babylon_images_OS1.0.10.0.UMVCNXM_20240712.0000.00_14.0_cn_15035c14fd.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.10.0.UMVCNXM/babylon_images_OS1.0.10.0.UMVCNXM_20240712.0000.00_14.0_cn_15035c14fd.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.10.0.UMVCNXM/babylon_images_OS1.0.10.0.UMVCNXM_20240712.0000.00_14.0_cn_15035c14fd.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.10.0.UMVCNXM/babylon_images_OS1.0.10.0.UMVCNXM_20240712.0000.00_14.0_cn_15035c14fd.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#babylon_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="babylon_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="babylon_2_changelog">
                         <p id="changelog_text">[System]<br>Optimization: Improved app preloading to enhance app startup speed<br>Optimization: New startup animation strategy reduces app launch delays<br>Optimization: Improved system resource recovery strategy when switching apps to enhance app smoothness<br>Optimization: Optimized memory usage to improve the smoothness of TikTok (Douyin)<br>Updated the security patch to July 2024. Increased system security.<br>[Widgets]<br>New: Travel assistant can remind you of train and flight schedules for more convenient travel (requires upgrading App vault to version 5.12.2 or above, Messaging to version 15.0.2.24 or above, and Mi AI Engine to version 2.2 or above from GetApps).<br>Optimization: App vault loading speed<br>Fix: Zoom animation was abnormal when tapping the Music widget<br>Fix: A rare display issue occurred when adding the Clock widget<br>Fix: An incorrect name for Travel assistant was shown in Recents</p>
                     </div>
                 </li>

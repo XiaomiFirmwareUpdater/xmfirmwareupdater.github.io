@@ -56,22 +56,22 @@ permalink: /hyperos/lisa/stable/OS1.0.2.0.UKOCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.5 GB</h5>
+                    <h5><b>Size: </b>6.9 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-05-09</h5>
+                    <h5><b>Release Date: </b>2024-04-25</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_LISA_OS1.0.2.0.UKOCNXM_ca56124fde_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">lisa_images_OS1.0.2.0.UKOCNXM_20240425.0000.00_14.0_cn_7a3c247dc9.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">ca56124fde25155ae07d0d84626c1165</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">7a3c247dc96e738709a73849f6fedcee</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.2.0.UKOCNXM/miui-blockota-lisa-OS1.0.1.0.UKOCNXM-OS1.0.2.0.UKOCNXM-1ee8f9039b-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.2.0.UKOCNXM/miui_LISA_OS1.0.2.0.UKOCNXM_ca56124fde_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.2.0.UKOCNXM/miui_LISA_OS1.0.2.0.UKOCNXM_ca56124fde_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.2.0.UKOCNXM/miui_LISA_OS1.0.2.0.UKOCNXM_ca56124fde_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.UKOCNXM/miui_LISA_OS1.0.2.0.UKOCNXM_ca56124fde_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.2.0.UKOCNXM/miui_LISA_OS1.0.2.0.UKOCNXM_ca56124fde_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.2.0.UKOCNXM/lisa_images_OS1.0.2.0.UKOCNXM_20240425.0000.00_14.0_cn_7a3c247dc9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.2.0.UKOCNXM/lisa_images_OS1.0.2.0.UKOCNXM_20240425.0000.00_14.0_cn_7a3c247dc9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.2.0.UKOCNXM/lisa_images_OS1.0.2.0.UKOCNXM_20240425.0000.00_14.0_cn_7a3c247dc9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.UKOCNXM/lisa_images_OS1.0.2.0.UKOCNXM_20240425.0000.00_14.0_cn_7a3c247dc9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.2.0.UKOCNXM/lisa_images_OS1.0.2.0.UKOCNXM_20240425.0000.00_14.0_cn_7a3c247dc9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#lisa_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/lisa/stable/OS1.0.2.0.UKOCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.9 GB</h5>
+                    <h5><b>Size: </b>5.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-04-25</h5>
+                    <h5><b>Release Date: </b>2024-05-09</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">lisa_images_OS1.0.2.0.UKOCNXM_20240425.0000.00_14.0_cn_7a3c247dc9.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_LISA_OS1.0.2.0.UKOCNXM_ca56124fde_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">7a3c247dc96e738709a73849f6fedcee</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ca56124fde25155ae07d0d84626c1165</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.2.0.UKOCNXM/lisa_images_OS1.0.2.0.UKOCNXM_20240425.0000.00_14.0_cn_7a3c247dc9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.2.0.UKOCNXM/lisa_images_OS1.0.2.0.UKOCNXM_20240425.0000.00_14.0_cn_7a3c247dc9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.2.0.UKOCNXM/lisa_images_OS1.0.2.0.UKOCNXM_20240425.0000.00_14.0_cn_7a3c247dc9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.UKOCNXM/lisa_images_OS1.0.2.0.UKOCNXM_20240425.0000.00_14.0_cn_7a3c247dc9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.2.0.UKOCNXM/lisa_images_OS1.0.2.0.UKOCNXM_20240425.0000.00_14.0_cn_7a3c247dc9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.2.0.UKOCNXM/miui-blockota-lisa-OS1.0.1.0.UKOCNXM-OS1.0.2.0.UKOCNXM-1ee8f9039b-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.2.0.UKOCNXM/miui_LISA_OS1.0.2.0.UKOCNXM_ca56124fde_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.2.0.UKOCNXM/miui_LISA_OS1.0.2.0.UKOCNXM_ca56124fde_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.2.0.UKOCNXM/miui_LISA_OS1.0.2.0.UKOCNXM_ca56124fde_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.UKOCNXM/miui_LISA_OS1.0.2.0.UKOCNXM_ca56124fde_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.2.0.UKOCNXM/miui_LISA_OS1.0.2.0.UKOCNXM_ca56124fde_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#lisa_2_changelog" data-toggle="collapse" role="button"
