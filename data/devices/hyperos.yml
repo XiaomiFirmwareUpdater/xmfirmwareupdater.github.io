@@ -4212,6 +4212,12 @@
   version: OS1.0.4.0.ULBMIXM
 - android: '14.0'
   codename: zeus
+  date: '2024-07-23'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULBINXM/fw_zeus_miui_ZEUSINGlobal_OS1.0.4.0.ULBINXM_a63d179932_14.0.zip
+  name: Xiaomi 12 Pro
+  version: OS1.0.4.0.ULBINXM
+- android: '14.0'
+  codename: zeus
   date: '2024-01-23'
   download: https://bigota.d.miui.com/OS1.0.2.0.ULBEUXM/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.2.0.ULBEUXM_6813469e89_14.0.zip
   name: Xiaomi 12 Pro
@@ -4366,6 +4372,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.ULLCNXM/fw_ziyi_miui_ZIYI_OS1.0.1.0.ULLCNXM_89dd31358d_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.1.0.ULLCNXM
+- android: '14.0'
+  codename: ziyi
+  date: '2024-07-23'
+  download: https://bigota.d.miui.com/OS1.0.6.0.ULLMIXM/fw_ziyi_miui_ZIYIGlobal_OS1.0.6.0.ULLMIXM_053ff8ee40_14.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS1.0.6.0.ULLMIXM
 - android: '14.0'
   codename: ziyi
   date: '2024-05-21'
