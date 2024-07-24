@@ -1440,6 +1440,12 @@
   version: V14.0.11.0.TMCCNXM
 - android: '13.0'
   codename: gale
+  date: '2024-07-24'
+  download: https://bigota.d.miui.com/V14.0.13.0.TGPEUXM/fw_gale_miui_GALEEEAGlobal_V14.0.13.0.TGPEUXM_3a1fa815e9_13.0.zip
+  name: Redmi 13C/POCO C65
+  version: V14.0.13.0.TGPEUXM
+- android: '13.0'
+  codename: gale
   date: '2024-04-19'
   download: https://bigota.d.miui.com/V14.0.9.0.TGPMIXM/fw_gale_miui_GALEGlobal_V14.0.9.0.TGPMIXM_a875dec9dc_13.0.zip
   name: Redmi 13C/POCO C65

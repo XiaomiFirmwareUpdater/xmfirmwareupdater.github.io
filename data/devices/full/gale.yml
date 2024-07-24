@@ -9,6 +9,16 @@
     android: '14.0'
     miui: OS1.0.1.0.UGPMIXM
 - branch: stable
+  date: '2024-07-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-24.07.2024/fw_gale_miui_GALEEEAGlobal_V14.0.13.0.TGPEUXM_3a1fa815e9_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/gale/fw_gale_miui_GALEEEAGlobal_V14.0.13.0.TGPEUXM_3a1fa815e9_13.0.zip
+  filename: fw_gale_miui_GALEEEAGlobal_V14.0.13.0.TGPEUXM_3a1fa815e9_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.13.0.TGPEUXM
+- branch: stable
   date: '2024-06-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-24.06.2024/fw_gale_miui_GALEEEAGlobal_OS1.0.3.0.UGPEUXM_8e8d639d36_14.0.zip

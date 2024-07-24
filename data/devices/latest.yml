@@ -1779,15 +1779,15 @@
     android: '13.0'
     miui: V14.0.10.0.TGPMIXM
 - branch: stable
-  date: '2024-06-24'
+  date: '2024-07-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-24.06.2024/fw_gale_miui_GALEEEAGlobal_OS1.0.3.0.UGPEUXM_8e8d639d36_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/gale/fw_gale_miui_GALEEEAGlobal_OS1.0.3.0.UGPEUXM_8e8d639d36_14.0.zip
-  filename: fw_gale_miui_GALEEEAGlobal_OS1.0.3.0.UGPEUXM_8e8d639d36_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-24.07.2024/fw_gale_miui_GALEEEAGlobal_V14.0.13.0.TGPEUXM_3a1fa815e9_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/gale/fw_gale_miui_GALEEEAGlobal_V14.0.13.0.TGPEUXM_3a1fa815e9_13.0.zip
+  filename: fw_gale_miui_GALEEEAGlobal_V14.0.13.0.TGPEUXM_3a1fa815e9_13.0.zip
   region: Europe
   versions:
-    android: '14.0'
-    miui: OS1.0.3.0.UGPEUXM
+    android: '13.0'
+    miui: V14.0.13.0.TGPEUXM
 - branch: stable
   date: '2024-07-09'
   downloads:
@@ -3489,15 +3489,15 @@
     android: '14.0'
     miui: OS1.0.7.0.UMBMIXM
 - branch: stable
-  date: '2024-06-21'
+  date: '2024-07-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-21.06.2024/fw_nuwa_miui_NUWA_OS1.0.7.0.UMBCNXM_7ceb1a5a00_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWA_OS1.0.7.0.UMBCNXM_7ceb1a5a00_14.0.zip
-  filename: fw_nuwa_miui_NUWA_OS1.0.7.0.UMBCNXM_7ceb1a5a00_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-24.07.2024/fw_nuwa_miui_NUWA_OS1.0.8.0.UMBCNXM_db7987aadb_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWA_OS1.0.8.0.UMBCNXM_db7987aadb_14.0.zip
+  filename: fw_nuwa_miui_NUWA_OS1.0.8.0.UMBCNXM_db7987aadb_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.7.0.UMBCNXM
+    miui: OS1.0.8.0.UMBCNXM
 - branch: stable
   date: '2024-06-21'
   downloads:
@@ -5309,15 +5309,15 @@
     android: '14.0'
     miui: OS1.0.6.0.UMGMIXM
 - branch: stable
-  date: '2024-06-11'
+  date: '2024-07-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_topaz/releases/download/stable-11.06.2024/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.10.0.UMGEUXM_433ae25104_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/topaz/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.10.0.UMGEUXM_433ae25104_14.0.zip
-  filename: fw_topaz_miui_TOPAZEEAGlobal_OS1.0.10.0.UMGEUXM_433ae25104_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_topaz/releases/download/stable-24.07.2024/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.11.0.UMGEUXM_6752cd711a_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/topaz/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.11.0.UMGEUXM_6752cd711a_14.0.zip
+  filename: fw_topaz_miui_TOPAZEEAGlobal_OS1.0.11.0.UMGEUXM_6752cd711a_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.10.0.UMGEUXM
+    miui: OS1.0.11.0.UMGEUXM
 - branch: stable
   date: '2022-09-21'
   downloads:

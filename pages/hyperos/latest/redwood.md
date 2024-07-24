@@ -52,9 +52,8 @@ permalink: /hyperos/redwood/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12 Pro Speed China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UMSCNXM</td><td>14.0</td><td>6.8 GB</td><td>2024-04-09</td><td><a href="/hyperos/redwood/stable/OS1.0.6.0.UMSCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 Pro Speed China</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UMSCNXM</td><td>14.0</td><td>5.6 GB</td><td>2024-04-19</td><td><a href="/hyperos/redwood/stable/OS1.0.6.0.UMSCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 Pro Speed China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.UMSCNXM</td><td>14.0</td><td>5.6 GB</td><td>2024-07-15</td><td><a href="/hyperos/redwood/stable beta/OS1.0.7.0.UMSCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12 Pro Speed China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UMSCNXM</td><td>14.0</td><td>6.8 GB</td><td>2024-06-27</td><td><a href="/hyperos/redwood/stable/OS1.0.7.0.UMSCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 Pro Speed China</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UMSCNXM</td><td>14.0</td><td>5.6 GB</td><td>2024-07-15</td><td><a href="/hyperos/redwood/stable/OS1.0.7.0.UMSCNXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMSEUXM</td><td>14.0</td><td>7.4 GB</td><td>2024-05-09</td><td><a href="/hyperos/redwood/stable/OS1.0.4.0.UMSEUXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMSEUXM</td><td>14.0</td><td>4.9 GB</td><td>2024-05-20</td><td><a href="/hyperos/redwood/stable/OS1.0.4.0.UMSEUXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.UMSEUXM</td><td>14.0</td><td>4.9 GB</td><td>2024-07-18</td><td><a href="/hyperos/redwood/stable beta/OS1.0.6.0.UMSEUXM/">Download</a></td></tr>
