@@ -2190,6 +2190,12 @@
   version: OS1.0.5.0.UNTEUXM
 - android: '14.0'
   codename: moon
+  date: '2024-07-26'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UNTMIXM/fw_moon_miui_MOONGlobal_OS1.0.6.0.UNTMIXM_db029c4fc2_14.0.zip
+  name: Redmi 13/POCO M6
+  version: OS1.0.6.0.UNTMIXM
+- android: '14.0'
+  codename: moon
   date: '2024-06-20'
   download: https://bigota.d.miui.com/OS1.0.3.0.UNTEUXM/fw_moon_miui_MOONEEAGlobal_OS1.0.3.0.UNTEUXM_b44caa7893_14.0.zip
   name: Redmi 13/POCO M6
@@ -2746,6 +2752,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.ULQMIXM/fw_plato_miui_PLATOGlobal_OS1.0.8.0.ULQMIXM_66cc9d612c_14.0.zip
   name: Xiaomi 12T
   version: OS1.0.8.0.ULQMIXM
+- android: '13.0'
+  codename: psyche
+  date: '2024-07-26'
+  download: https://bigota.d.miui.com/OS1.0.3.0.TLDMIXM/fw_psyche_miui_PSYCHEGlobal_OS1.0.3.0.TLDMIXM_73b8ce372c_13.0.zip
+  name: Xiaomi 12X
+  version: OS1.0.3.0.TLDMIXM
 - android: '13.0'
   codename: psyche
   date: '2024-02-23'

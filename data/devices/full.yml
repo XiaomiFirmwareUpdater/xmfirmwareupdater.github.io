@@ -42749,6 +42749,16 @@
     android: '14.0'
     miui: OS1.0.5.0.UNTEUXM
 - branch: stable
+  date: '2024-07-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moon/releases/download/stable-26.07.2024/fw_moon_miui_MOONGlobal_OS1.0.6.0.UNTMIXM_db029c4fc2_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moon/fw_moon_miui_MOONGlobal_OS1.0.6.0.UNTMIXM_db029c4fc2_14.0.zip
+  filename: fw_moon_miui_MOONGlobal_OS1.0.6.0.UNTMIXM_db029c4fc2_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.6.0.UNTMIXM
+- branch: stable
   date: '2024-06-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moon/releases/download/stable-20.06.2024/fw_moon_miui_MOONEEAGlobal_OS1.0.3.0.UNTEUXM_b44caa7893_14.0.zip
@@ -53548,6 +53558,16 @@
   versions:
     android: '13.0'
     miui: V14.0.10.0.TLDCNXM
+- branch: stable
+  date: '2024-07-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-26.07.2024/fw_psyche_miui_PSYCHEGlobal_OS1.0.3.0.TLDMIXM_73b8ce372c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/psyche/fw_psyche_miui_PSYCHEGlobal_OS1.0.3.0.TLDMIXM_73b8ce372c_13.0.zip
+  filename: fw_psyche_miui_PSYCHEGlobal_OS1.0.3.0.TLDMIXM_73b8ce372c_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: OS1.0.3.0.TLDMIXM
 - branch: stable
   date: '2024-02-23'
   downloads:
