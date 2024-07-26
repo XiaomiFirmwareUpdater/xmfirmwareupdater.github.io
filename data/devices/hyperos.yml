@@ -954,6 +954,12 @@
   version: OS1.0.1.0.TKYCNXM
 - android: '14.0'
   codename: emerald
+  date: '2024-07-26'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UNFEUXM/fw_emerald_miui_EMERALDEEAGlobal_OS1.0.3.0.UNFEUXM_e4402fa6fe_14.0.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  version: OS1.0.3.0.UNFEUXM
+- android: '14.0'
+  codename: emerald
   date: '2024-05-16'
   download: https://bigota.d.miui.com/OS1.0.3.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.3.0.UNFMIXM_68eb6f61a9_14.0.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro
@@ -2176,6 +2182,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMNMIXM/fw_mondrian_miui_MONDRIANGlobal_OS1.0.5.0.UMNMIXM_6168bd5b7a_14.0.zip
   name: Redmi K60/POCO F5 Pro
   version: OS1.0.5.0.UMNMIXM
+- android: '14.0'
+  codename: moon
+  date: '2024-07-26'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UNTEUXM/fw_moon_miui_MOONEEAGlobal_OS1.0.5.0.UNTEUXM_72f00ab2cc_14.0.zip
+  name: Redmi 13/POCO M6
+  version: OS1.0.5.0.UNTEUXM
 - android: '14.0'
   codename: moon
   date: '2024-06-20'
