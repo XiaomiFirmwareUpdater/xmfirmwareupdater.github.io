@@ -3096,6 +3096,12 @@
   version: OS1.0.1.0.UMOEUXM
 - android: '14.0'
   codename: ruyi
+  date: '2024-07-28'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UNICNXM/fw_ruyi_miui_RUYI_OS1.0.8.0.UNICNXM_fc66e674c8_14.0.zip
+  name: MIX Flip
+  version: OS1.0.8.0.UNICNXM
+- android: '14.0'
+  codename: ruyi
   date: '2024-07-26'
   download: https://bigota.d.miui.com/OS1.0.3.0.UNIMIXM/fw_ruyi_miui_RUYIGlobal_OS1.0.3.0.UNIMIXM_f7241946f2_14.0.zip
   name: MIX Flip
@@ -3124,6 +3130,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UNGMIXM/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.3.0.UNGMIXM_23bd85bb06_14.0.zip
   name: Redmi Note 13
   version: OS1.0.3.0.UNGMIXM
+- android: '14.0'
+  codename: sapphiren
+  date: '2024-07-28'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNHMIXM/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.4.0.UNHMIXM_165d600fa8_14.0.zip
+  name: Redmi Note 13 NFC
+  version: OS1.0.4.0.UNHMIXM
 - android: '14.0'
   codename: sapphiren
   date: '2024-05-28'
@@ -4498,6 +4510,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.ULLEUXM/fw_ziyi_miui_ZIYIEEAGlobal_OS1.0.4.0.ULLEUXM_b08edd61cb_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.4.0.ULLEUXM
+- android: '14.0'
+  codename: zizhan
+  date: '2024-07-28'
+  download: https://bigota.d.miui.com/OS1.0.7.0.ULRCNXM/fw_zizhan_miui_ZIZHAN_OS1.0.7.0.ULRCNXM_7e7a34b825_14.0.zip
+  name: Xiaomi MIX Fold 2
+  version: OS1.0.7.0.ULRCNXM
 - android: '14.0'
   codename: zizhan
   date: '2023-12-25'

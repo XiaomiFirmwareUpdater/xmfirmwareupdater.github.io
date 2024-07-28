@@ -78,7 +78,7 @@ permalink: /hyperos/ruyi/stable/OS1.0.7.0.UNICNXM/
                             aria-expanded="false" aria-controls="ruyi_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="ruyi_1_changelog">
-                        <p id="changelog_text">[Other]<br>Optimized system performance<br>Improved system security and stability</p>
+                        <p id="changelog_text"></p>
                     </div>
                 </li>
             </ul>

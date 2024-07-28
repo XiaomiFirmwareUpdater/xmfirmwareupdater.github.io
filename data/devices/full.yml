@@ -57289,6 +57289,16 @@
     android: '12.0'
     miui: V13.0.4.0.SKLINXM
 - branch: stable
+  date: '2024-07-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-28.07.2024/fw_rosemary_miui_ROSEMARYGlobal_V14.0.11.0.TKLMIXM_0af8ad3535_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/rosemary/fw_rosemary_miui_ROSEMARYGlobal_V14.0.11.0.TKLMIXM_0af8ad3535_13.0.zip
+  filename: fw_rosemary_miui_ROSEMARYGlobal_V14.0.11.0.TKLMIXM_0af8ad3535_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.11.0.TKLMIXM
+- branch: stable
   date: '2022-06-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-28.06.2022/fw_rosemary_miui_ROSEMARYINGlobal_V12.5.15.0.RKLINXM_fa4dca8f2d_11.0.zip
@@ -58739,6 +58749,16 @@
     android: '14.0'
     miui: OS1.0.1.0.UMOEUXM
 - branch: stable
+  date: '2024-07-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-28.07.2024/fw_ruyi_miui_RUYI_OS1.0.8.0.UNICNXM_fc66e674c8_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruyi/fw_ruyi_miui_RUYI_OS1.0.8.0.UNICNXM_fc66e674c8_14.0.zip
+  filename: fw_ruyi_miui_RUYI_OS1.0.8.0.UNICNXM_fc66e674c8_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.8.0.UNICNXM
+- branch: stable
   date: '2024-07-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-27.07.2024/fw_ruyi_miui_RUYIGlobal_OS1.0.3.0.UNIMIXM_f7241946f2_14.0.zip
@@ -60028,6 +60048,16 @@
   versions:
     android: '13.0'
     miui: V14.0.7.0.TNGMIXM
+- branch: stable
+  date: '2024-07-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphiren/releases/download/stable-28.07.2024/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.4.0.UNHMIXM_165d600fa8_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sapphiren/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.4.0.UNHMIXM_165d600fa8_14.0.zip
+  filename: fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.4.0.UNHMIXM_165d600fa8_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UNHMIXM
 - branch: stable
   date: '2024-05-28'
   downloads:
@@ -80138,6 +80168,16 @@
   versions:
     android: '12.0'
     miui: V13.1.16.0.SLRCNXM
+- branch: stable
+  date: '2024-07-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zizhan/releases/download/stable-28.07.2024/fw_zizhan_miui_ZIZHAN_OS1.0.7.0.ULRCNXM_7e7a34b825_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zizhan/fw_zizhan_miui_ZIZHAN_OS1.0.7.0.ULRCNXM_7e7a34b825_14.0.zip
+  filename: fw_zizhan_miui_ZIZHAN_OS1.0.7.0.ULRCNXM_7e7a34b825_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.7.0.ULRCNXM
 - branch: stable
   date: '2022-09-26'
   downloads:
