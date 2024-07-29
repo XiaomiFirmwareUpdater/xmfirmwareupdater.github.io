@@ -3779,15 +3779,15 @@
     android: '14.0'
     miui: OS1.0.14.0.UNPCNXM
 - branch: stable
-  date: '2024-06-17'
+  date: '2024-07-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-17.06.2024/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.2.0.UNPEUXM_2a88eed77e_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/peridot/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.2.0.UNPEUXM_2a88eed77e_14.0.zip
-  filename: fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.2.0.UNPEUXM_2a88eed77e_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-30.07.2024/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.3.0.UNPEUXM_bba0ad15ad_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/peridot/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.3.0.UNPEUXM_bba0ad15ad_14.0.zip
+  filename: fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.3.0.UNPEUXM_bba0ad15ad_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.2.0.UNPEUXM
+    miui: OS1.0.3.0.UNPEUXM
 - branch: stable
   date: '2024-07-22'
   downloads:
@@ -5709,15 +5709,15 @@
     android: '13.0'
     miui: OS1.0.1.0.TKCCNXM
 - branch: stable
-  date: '2024-04-22'
+  date: '2024-07-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-23.04.2024/fw_veux_miui_VEUXEEAGlobal_OS1.0.1.0.TKCEUXM_0e7bce6579_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/veux/fw_veux_miui_VEUXEEAGlobal_OS1.0.1.0.TKCEUXM_0e7bce6579_13.0.zip
-  filename: fw_veux_miui_VEUXEEAGlobal_OS1.0.1.0.TKCEUXM_0e7bce6579_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-30.07.2024/fw_veux_miui_VEUXEEAGlobal_OS1.0.3.0.TKCEUXM_c969f728d7_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/veux/fw_veux_miui_VEUXEEAGlobal_OS1.0.3.0.TKCEUXM_c969f728d7_13.0.zip
+  filename: fw_veux_miui_VEUXEEAGlobal_OS1.0.3.0.TKCEUXM_c969f728d7_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: OS1.0.1.0.TKCEUXM
+    miui: OS1.0.3.0.TKCEUXM
 - branch: stable
   date: '2024-04-22'
   downloads:

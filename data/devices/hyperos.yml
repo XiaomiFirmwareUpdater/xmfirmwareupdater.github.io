@@ -2532,6 +2532,12 @@
   version: OS1.0.2.0.ULHCNXM
 - android: '14.0'
   codename: peridot
+  date: '2024-07-29'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UNPEUXM/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.3.0.UNPEUXM_bba0ad15ad_14.0.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS1.0.3.0.UNPEUXM
+- android: '14.0'
+  codename: peridot
   date: '2024-05-23'
   download: https://bigota.d.miui.com/OS1.0.1.0.UNPEUXM/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.1.0.UNPEUXM_19970ce1a9_14.0.zip
   name: Redmi Turbo 3/POCO F6
@@ -4036,6 +4042,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNKEUXM/fw_vermeer_miui_VERMEEREEAGlobal_OS1.0.4.0.UNKEUXM_8757c38bdc_14.0.zip
   name: Redmi K70/POCO F6 Pro
   version: OS1.0.4.0.UNKEUXM
+- android: '13.0'
+  codename: veux
+  date: '2024-07-29'
+  download: https://bigota.d.miui.com/OS1.0.3.0.TKCEUXM/fw_veux_miui_VEUXEEAGlobal_OS1.0.3.0.TKCEUXM_c969f728d7_13.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: OS1.0.3.0.TKCEUXM
 - android: '13.0'
   codename: veux
   date: '2024-04-22'
