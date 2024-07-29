@@ -64,6 +64,7 @@ permalink: /hyperos/fire/
 <tr><td>Redmi 12 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UMXRUXM</td><td>14.0</td><td>4.3 GB</td><td>2024-07-16</td><td><a href="/hyperos/fire/stable/OS1.0.5.0.UMXRUXM/">Download</a></td></tr>
 <tr><td>Redmi 12 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UMXTRXM</td><td>14.0</td><td>6.0 GB</td><td>2024-05-06</td><td><a href="/hyperos/fire/stable/OS1.0.3.0.UMXTRXM/">Download</a></td></tr>
 <tr><td>Redmi 12 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UMXTRXM</td><td>14.0</td><td>4.3 GB</td><td>2024-05-13</td><td><a href="/hyperos/fire/stable/OS1.0.3.0.UMXTRXM/">Download</a></td></tr>
+<tr><td>Redmi 12 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UMXTRXM</td><td>14.0</td><td>4.3 GB</td><td>2024-07-26</td><td><a href="/hyperos/fire/stable beta/OS1.0.4.0.UMXTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
