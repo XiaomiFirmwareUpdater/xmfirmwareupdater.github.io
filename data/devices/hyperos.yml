@@ -36,6 +36,12 @@
   version: OS1.0.2.0.UKWEUXM
 - android: '14.0'
   codename: air
+  date: '2024-07-29'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UGQINXM/fw_air_miui_AIRINGlobal_OS1.0.2.0.UGQINXM_e13cc5fbeb_14.0.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS1.0.2.0.UGQINXM
+- android: '14.0'
+  codename: air
   date: '2024-06-21'
   download: https://bigota.d.miui.com/OS1.0.2.0.UGQMIXM/fw_air_miui_AIRGlobal_OS1.0.2.0.UGQMIXM_3a209a95cf_14.0.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
@@ -2292,6 +2298,12 @@
   version: OS1.0.1.0.UMPEUXM
 - android: '14.0'
   codename: munch
+  date: '2024-07-29'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULMCNXM/fw_munch_miui_MUNCH_OS1.0.3.0.ULMCNXM_99673c1cdc_14.0.zip
+  name: Redmi K40S/POCO F4
+  version: OS1.0.3.0.ULMCNXM
+- android: '14.0'
+  codename: munch
   date: '2024-05-23'
   download: https://bigota.d.miui.com/OS1.0.1.0.ULMINXM/fw_munch_miui_MUNCHINGlobal_OS1.0.1.0.ULMINXM_a5538f82a5_14.0.zip
   name: Redmi K40S/POCO F4
@@ -2500,6 +2512,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.TGLMIXM/fw_opal_miui_OPALGlobal_OS1.0.1.0.TGLMIXM_49655ebbfa_13.0.zip
   name: Redmi Note 11S 5G
   version: OS1.0.1.0.TGLMIXM
+- android: '14.0'
+  codename: pearl
+  date: '2024-07-29'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULHCNXM/fw_pearl_miui_PEARL_OS1.0.3.0.ULHCNXM_cf6066ca4c_14.0.zip
+  name: Redmi Note 12T Pro
+  version: OS1.0.3.0.ULHCNXM
 - android: '14.0'
   codename: pearl
   date: '2024-05-13'
