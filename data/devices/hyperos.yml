@@ -2598,6 +2598,12 @@
   version: OS1.0.4.0.UNPMIXM
 - android: '14.0'
   codename: pipa
+  date: '2024-07-30'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMZINXM/fw_pipa_miui_PIPAINGlobal_OS1.0.5.0.UMZINXM_98b65c88cf_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.5.0.UMZINXM
+- android: '14.0'
+  codename: pipa
   date: '2024-01-30'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.4.0.UMZCNXM_45e70ba86c_14.0.zip
   name: Xiaomi Pad 6
@@ -2928,6 +2934,18 @@
   version: OS1.0.1.0.UMMCNXM
 - android: '14.0'
   codename: rock
+  date: '2024-07-30'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULUEUXM/fw_rock_miui_ROCKEEAGlobal_OS1.0.4.0.ULUEUXM_cb87d48c3a_14.0.zip
+  name: POCO M5/Redmi 11 Prime 4G
+  version: OS1.0.4.0.ULUEUXM
+- android: '14.0'
+  codename: rock
+  date: '2024-07-30'
+  download: https://bigota.d.miui.com/OS1.0.10.0.ULUMIXM/fw_rock_miui_ROCKGlobal_OS1.0.10.0.ULUMIXM_89c3ae9fdb_14.0.zip
+  name: POCO M5/Redmi 11 Prime 4G
+  version: OS1.0.10.0.ULUMIXM
+- android: '14.0'
+  codename: rock
   date: '2024-05-27'
   download: https://bigota.d.miui.com/OS1.0.3.0.ULUEUXM/fw_rock_miui_ROCKEEAGlobal_OS1.0.3.0.ULUEUXM_5d511370e9_14.0.zip
   name: POCO M5/Redmi 11 Prime 4G
@@ -3202,6 +3220,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UNHMIXM/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.2.0.UNHMIXM_5c2104f430_14.0.zip
   name: Redmi Note 13 NFC
   version: OS1.0.2.0.UNHMIXM
+- android: '14.0'
+  codename: sea
+  date: '2024-07-30'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UHZEUXM/fw_sea_miui_SEAEEAGlobal_OS1.0.6.0.UHZEUXM_0fd6b993ae_14.0.zip
+  name: Redmi Note 12S
+  version: OS1.0.6.0.UHZEUXM
 - android: '14.0'
   codename: sea
   date: '2024-06-24'

@@ -9,6 +9,26 @@
     android: '12.0'
     miui: V13.0.8.0.SLUINXM
 - branch: stable
+  date: '2024-07-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rock/releases/download/stable-30.07.2024/fw_rock_miui_ROCKEEAGlobal_OS1.0.4.0.ULUEUXM_cb87d48c3a_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rock/fw_rock_miui_ROCKEEAGlobal_OS1.0.4.0.ULUEUXM_cb87d48c3a_14.0.zip
+  filename: fw_rock_miui_ROCKEEAGlobal_OS1.0.4.0.ULUEUXM_cb87d48c3a_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.ULUEUXM
+- branch: stable
+  date: '2024-07-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rock/releases/download/stable-30.07.2024/fw_rock_miui_ROCKGlobal_OS1.0.10.0.ULUMIXM_89c3ae9fdb_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rock/fw_rock_miui_ROCKGlobal_OS1.0.10.0.ULUMIXM_89c3ae9fdb_14.0.zip
+  filename: fw_rock_miui_ROCKGlobal_OS1.0.10.0.ULUMIXM_89c3ae9fdb_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.10.0.ULUMIXM
+- branch: stable
   date: '2024-05-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rock/releases/download/stable-27.05.2024/fw_rock_miui_ROCKEEAGlobal_OS1.0.3.0.ULUEUXM_5d511370e9_14.0.zip
