@@ -2499,15 +2499,15 @@
     android: '6.0'
     miui: 8.11.22
 - branch: stable
-  date: '2024-06-12'
+  date: '2024-07-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klein/releases/download/stable-12.06.2024/fw_kle_miui_KLEINGlobal_V816.0.3.0.UGSMIXM_cd5ee49342_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V816/klein/fw_kle_miui_KLEINGlobal_V816.0.3.0.UGSMIXM_cd5ee49342_14.0.zip
-  filename: fw_kle_miui_KLEINGlobal_V816.0.3.0.UGSMIXM_cd5ee49342_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klein/releases/download/stable-31.07.2024/fw_kle_miui_KLEINGlobal_V816.0.4.0.UGSMIXM_5abb651606_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V816/klein/fw_kle_miui_KLEINGlobal_V816.0.4.0.UGSMIXM_5abb651606_14.0.zip
+  filename: fw_kle_miui_KLEINGlobal_V816.0.4.0.UGSMIXM_5abb651606_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: V816.0.3.0.UGSMIXM
+    miui: V816.0.4.0.UGSMIXM
 - branch: stable
   date: '2024-07-13'
   downloads:
@@ -5199,15 +5199,15 @@
     android: '13.0'
     miui: V14.0.1.0.TKFINXM
 - branch: stable
-  date: '2024-05-27'
+  date: '2024-07-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-27.05.2024/fw_taoyao_miui_TAOYAOGlobal_OS1.0.6.0.ULIMIXM_6c00d98a98_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOGlobal_OS1.0.6.0.ULIMIXM_6c00d98a98_14.0.zip
-  filename: fw_taoyao_miui_TAOYAOGlobal_OS1.0.6.0.ULIMIXM_6c00d98a98_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-31.07.2024/fw_taoyao_miui_TAOYAOGlobal_OS1.0.8.0.ULIMIXM_aced32ba11_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOGlobal_OS1.0.8.0.ULIMIXM_aced32ba11_14.0.zip
+  filename: fw_taoyao_miui_TAOYAOGlobal_OS1.0.8.0.ULIMIXM_aced32ba11_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.ULIMIXM
+    miui: OS1.0.8.0.ULIMIXM
 - branch: stable
   date: '2024-06-03'
   downloads:
