@@ -52,7 +52,8 @@ permalink: /archive/hyperos/psyche/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12X Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.TLDMIXM</td><td>13.0</td><td>3.9 GB</td><td>2024-07-19</td><td><a href="/hyperos/psyche/stable beta/OS1.0.3.0.TLDMIXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12X Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.TLDMIXM</td><td>13.0</td><td>3.9 GB</td><td>2024-07-19</td><td><a href="/hyperos/psyche/stable/OS1.0.3.0.TLDMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12X Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.TLDMIXM</td><td>13.0</td><td>5.8 GB</td><td>2024-07-09</td><td><a href="/hyperos/psyche/stable/OS1.0.3.0.TLDMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.TLDRUXM</td><td>13.0</td><td>4.0 GB</td><td>2024-05-14</td><td><a href="/hyperos/psyche/stable/OS1.0.2.0.TLDRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.TLDRUXM</td><td>13.0</td><td>5.7 GB</td><td>2024-05-06</td><td><a href="/hyperos/psyche/stable/OS1.0.2.0.TLDRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TLDEUXM</td><td>13.0</td><td>4.1 GB</td><td>2024-04-10</td><td><a href="/hyperos/psyche/stable/OS1.0.1.0.TLDEUXM/">Download</a></td></tr>
