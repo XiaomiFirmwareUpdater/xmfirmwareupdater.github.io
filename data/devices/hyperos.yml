@@ -2742,6 +2742,12 @@
   version: OS1.0.3.0.TKTCNXM
 - android: '13.0'
   codename: pissarro
+  date: '2024-08-01'
+  download: https://bigota.d.miui.com/OS1.0.4.0.TKTMIXM/fw_pissarro_miui_PISSARROGlobal_OS1.0.4.0.TKTMIXM_26e900be9b_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: OS1.0.4.0.TKTMIXM
+- android: '13.0'
+  codename: pissarro
   date: '2024-04-01'
   download: https://bigota.d.miui.com/OS1.0.2.0.TKTEUXM/fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.2.0.TKTEUXM_d172ed0f80_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
@@ -3071,6 +3077,12 @@
   name: Redmi K50
   version: OS1.0.2.0.ULNCNXM
 - android: '14.0'
+  codename: rubens
+  date: '2024-08-01'
+  download: https://bigota.d.miui.com/OS1.0.8.0.ULNCNXM/fw_rubens_miui_RUBENS_OS1.0.8.0.ULNCNXM_d1ed876616_14.0.zip
+  name: Redmi K50
+  version: OS1.0.8.0.ULNCNXM
+- android: '14.0'
   codename: ruby
   date: '2024-03-29'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMOEUXM/fw_ruby_miui_RUBYEEAGlobal_OS1.0.2.0.UMOEUXM_001eaf5922_14.0.zip
@@ -3329,6 +3341,12 @@
   name: Xiaomi Pad 6S Pro 12.4
   version: OS1.0.1.0.UNXEUXM
 - android: '14.0'
+  codename: sheng
+  date: '2024-08-01'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UNXMIXM/fw_sheng_miui_SHENGGlobal_OS1.0.3.0.UNXMIXM_00acf7b04d_14.0.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS1.0.3.0.UNXMIXM
+- android: '14.0'
   codename: shennong
   date: '2023-10-31'
   download: https://bigota.d.miui.com/OS1.0.10.0.UNBCNXM/fw_shennong_miui_SHENNONG_OS1.0.10.0.UNBCNXM_979a847396_14.0.zip
@@ -3514,6 +3532,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UMWCNXM/fw_sky_miui_SKY_OS1.0.6.0.UMWCNXM_e78444c735_14.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
   version: OS1.0.6.0.UMWCNXM
+- android: '14.0'
+  codename: sky
+  date: '2024-08-01'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMWCNXM/fw_sky_miui_SKY_OS1.0.9.0.UMWCNXM_bc66cf0589_14.0.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS1.0.9.0.UMWCNXM
 - android: '14.0'
   codename: sky
   date: '2024-04-01'
