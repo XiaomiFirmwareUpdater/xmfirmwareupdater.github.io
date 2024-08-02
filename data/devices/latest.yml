@@ -839,15 +839,15 @@
     android: '11.0'
     miui: 22.3.2
 - branch: stable
-  date: '2024-07-01'
+  date: '2024-08-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-01.07.2024/fw_chenfeng_miui_CHENFENG_OS1.0.11.0.UNJCNXM_9bc5ebf131_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/chenfeng/fw_chenfeng_miui_CHENFENG_OS1.0.11.0.UNJCNXM_9bc5ebf131_14.0.zip
-  filename: fw_chenfeng_miui_CHENFENG_OS1.0.11.0.UNJCNXM_9bc5ebf131_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-02.08.2024/fw_chenfeng_miui_CHENFENG_OS1.0.12.0.UNJCNXM_90850b252e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/chenfeng/fw_chenfeng_miui_CHENFENG_OS1.0.12.0.UNJCNXM_90850b252e_14.0.zip
+  filename: fw_chenfeng_miui_CHENFENG_OS1.0.12.0.UNJCNXM_90850b252e_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.11.0.UNJCNXM
+    miui: OS1.0.12.0.UNJCNXM
 - branch: stable
   date: '2024-07-11'
   downloads:
@@ -2019,15 +2019,15 @@
     android: '14.0'
     miui: OS1.0.10.0.UNQEUXM
 - branch: stable
-  date: '2024-06-21'
+  date: '2024-08-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-21.06.2024/fw_gold_miui_GOLDINGlobal_OS1.0.8.0.UNQINXM_be97d62402_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/gold/fw_gold_miui_GOLDINGlobal_OS1.0.8.0.UNQINXM_be97d62402_14.0.zip
-  filename: fw_gold_miui_GOLDINGlobal_OS1.0.8.0.UNQINXM_be97d62402_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-02.08.2024/fw_gold_miui_GOLDINGlobal_OS1.0.9.0.UNQINXM_727d6cbd96_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/gold/fw_gold_miui_GOLDINGlobal_OS1.0.9.0.UNQINXM_727d6cbd96_14.0.zip
+  filename: fw_gold_miui_GOLDINGlobal_OS1.0.9.0.UNQINXM_727d6cbd96_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.8.0.UNQINXM
+    miui: OS1.0.9.0.UNQINXM
 - branch: stable
   date: '2023-07-24'
   downloads:
