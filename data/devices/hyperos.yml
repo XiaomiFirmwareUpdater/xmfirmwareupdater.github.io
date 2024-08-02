@@ -695,6 +695,12 @@
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: OS1.0.2.0.ULFEUXM
 - android: '14.0'
+  codename: diting
+  date: '2024-08-02'
+  download: https://bigota.d.miui.com/OS1.0.7.0.ULFEUXM/fw_diting_miui_DITINGEEAGlobal_OS1.0.7.0.ULFEUXM_4353066bf8_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.7.0.ULFEUXM
+- android: '14.0'
   codename: dizi
   date: '2024-06-27'
   download: https://bigota.d.miui.com/OS1.0.3.0.UNSINXM/fw_dizi_miui_DIZIINGlobal_OS1.0.3.0.UNSINXM_3d4839b44e_14.0.zip
@@ -3052,6 +3058,12 @@
   download: https://bigota.d.miui.com/OS1.0.13.0.UNNCNXM/fw_rothko_miui_ROTHKO_OS1.0.13.0.UNNCNXM_5172cdd0cc_14.0.zip
   name: Redmi K70 Ultra
   version: OS1.0.13.0.UNNCNXM
+- android: '14.0'
+  codename: rothko
+  date: '2024-08-02'
+  download: https://bigota.d.miui.com/OS1.0.19.0.UNNCNXM/fw_rothko_miui_ROTHKO_OS1.0.19.0.UNNCNXM_68d5ad910e_14.0.zip
+  name: Redmi K70 Ultra
+  version: OS1.0.19.0.UNNCNXM
 - android: '14.0'
   codename: ruan
   date: '2024-06-21'
