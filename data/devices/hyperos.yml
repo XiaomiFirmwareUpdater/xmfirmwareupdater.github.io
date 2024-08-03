@@ -3341,6 +3341,12 @@
   name: Redmi Note 12S
   version: OS1.0.6.0.UHZMIXM
 - android: '14.0'
+  codename: sea
+  date: '2024-08-03'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UHZMIXM/fw_sea_miui_SEAGlobal_OS1.0.8.0.UHZMIXM_1d24ecd1c8_14.0.zip
+  name: Redmi Note 12S
+  version: OS1.0.8.0.UHZMIXM
+- android: '14.0'
   codename: sheng
   date: '2024-05-31'
   download: https://bigota.d.miui.com/OS1.0.3.0.UNXEUXM/fw_sheng_miui_SHENGEEAGlobal_OS1.0.3.0.UNXEUXM_2c190982bc_14.0.zip
@@ -3796,6 +3802,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.5.0.UMQEUXM_bd2e2be1f9_14.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
   version: OS1.0.5.0.UMQEUXM
+- android: '14.0'
+  codename: sunstone
+  date: '2024-08-03'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.8.0.UMQEUXM_561396300a_14.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: OS1.0.8.0.UMQEUXM
 - android: '14.0'
   codename: sunstone
   date: '2024-06-03'

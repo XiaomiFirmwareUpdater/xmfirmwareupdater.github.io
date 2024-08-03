@@ -19,15 +19,15 @@
     android: '14.0'
     miui: OS1.0.2.0.UMQCNXM
 - branch: stable
-  date: '2024-06-03'
+  date: '2024-08-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-03.06.2024/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.6.0.UMQEUXM_c406abd3d1_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sunstone/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.6.0.UMQEUXM_c406abd3d1_14.0.zip
-  filename: fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.6.0.UMQEUXM_c406abd3d1_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-03.08.2024/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.8.0.UMQEUXM_561396300a_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sunstone/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.8.0.UMQEUXM_561396300a_14.0.zip
+  filename: fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.8.0.UMQEUXM_561396300a_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.UMQEUXM
+    miui: OS1.0.8.0.UMQEUXM
 - branch: stable
   date: '2024-06-29'
   downloads:
