@@ -278,6 +278,8 @@ freewheel.tv, 1590601, RESELLER
 freewheel.tv, 1590606, RESELLER
 smartadserver.com, 4284, RESELLER
 adform.com, 3119, RESELLER, 9f5210a2f0999e32
+lijit.com, 405318, RESELLER, fafdf38b16bf6b2b
+adyoulike.com, 78afbc34fac571736717317117dfa247, RESELLER
 hindsightsolutions.net, 323-b5957, RESELLER, 20e30b2ae1f670f2
 rubiconproject.com, 26504, RESELLER, 0bfd66d529a55807
 onetag.com, 894a3f52ea9e6d4, DIRECT
@@ -289,6 +291,44 @@ lijit.com, 502284, RESELLER, fafdf38b16bf6b2b
 video.unrulymedia.com, 498216989, RESELLER
 pubmatic.com, 162270, RESELLER, 5d62403b186f2ace
 appnexus.com, 15670, RESELLER, f5ab79cb980f11d1
+google.com, pub-6322541192886560, RESELLER, f08c47fec0942fa0
+google.com, pub-5828506841531729, RESELLER, f08c47fec0942fa0
+google.com, pub-6804276076764268, RESELLER, f08c47fec0942fa0
+smartadline.com, 22651381276, DIRECT
+zippormedia.com, 22651381276, DIRECT
+360playvid.com, 22651381276, DIRECT
+video.unrulymedia.com, 4242718327443734164, DIRECT
+rhythmone.com, 4242718327443734164, DIRECT, a670c89d4a324e47
+pubmatic.com, 161885, RESELLER, 5d62403b186f2ace
+lijit.com, 348134, DIRECT, fafdf38b16bf6b2b #SOVRN
+lijit.com, 348134-eb, DIRECT, fafdf38b16bf6b2b #SOVRN
+appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
+appnexus.com, 13841, DIRECT, f5ab79cb980f11d1
+aps.amazon.com, a90912f6-238a-4c76-85ca-055c8f92d2c2, RESELLER
+openx.com, 540829226, DIRECT, 6a698e2ec38604c6
+indexexchange.com, 192892, DIRECT, 50b1c356f2c5c8fc
+gumgum.com, 14141, RESELLER, ffdef49475d318a9
+appnexus.com, 7918, DIRECT, f5ab79cb980f11d1
+districtm.io, 100731, DIRECT, 3fd707be9c4527c3
+sharethrough.com, 693c2c18, DIRECT, d53b998a7bd4ecd2
+smartadserver.com, 4125, RESELLER, 060d053dcf45cbf3
+contextweb.com, 562142, DIRECT, 89ff185a4c4e857c
+pubmatic.com, 161567, DIRECT, 5d62403b186f2ace
+sovrn.com, 1573, RESELLER, fafdf38b16bf6b2b
+lijit.com, 1573, RESELLER, fafdf38b16bf6b2b
+onetag.com, 7697e31ecf0a538, DIRECT
+media.net, 8CUFB53GI, DIRECT
+risecodes.com, 61e0230c0f798300013f0ee9, DIRECT
+media.net, 8CUZ1MK22, RESELLER
+aps.amazon.com, f3e7ba0e-0a47-4c65-bede-04deda118e32, DIRECT
+yieldmo.com, 2525301270151897172, DIRECT
+emxdgt.com, 1649, DIRECT, 1e1d41537f7cad7f
+xandr.com, 1356, RESELLER, f5ab79cb980f11d1
+sovrn.com, 270592, DIRECT, fafdf38b16bf6b2b
+lijit.com, 270592, DIRECT, fafdf38b16bf6b2b
+gumgum.com, 13661, DIRECT, ffdef49475d318a9
+triplelift.com, 6231, DIRECT, 6c33edb13117fd86
+xandr.com, 1908, RESELLER, f5ab79cb980f11d1
 
 #Smartadserver
 smartadserver.com, 4304, RESELLER
@@ -363,7 +403,6 @@ adform.com, 1942, RESELLER
 adform.com, 1941, RESELLER
 sharethrough.com, 1udopJ1S, RESELLER, d53b998a7bd4ecd2
 lijit.com, 346012-eb, DIRECT, fafdf38b16bf6b2b
-appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
 pubmatic.com, 159277, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161335, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160993, RESELLER, 5d62403b186f2ace
@@ -513,7 +552,7 @@ richaudience.com, 3MkIAgQBPw, RESELLER
 media.net, 8CUN4Y5Y3, RESELLER
 didna.io, 6646d87252e5cfc12a8ae68d, DIRECT
 
-#Eskimi
+#Rise
 
 #Google
 google.com, pub-6839973589095521, RESELLER, f08c47fec0942fa0
@@ -524,6 +563,7 @@ google.com, pub-3145795551338853, DIRECT, f08c47fec0942fa0
 google.com, pub-2178914239553145, DIRECT, f08c47fec0942fa0
 google.com, pub-1761182199836059, DIRECT, f08c47fec0942fa0
 google.com, pub-9880294964661881, DIRECT, f08c47fec0942fa0
+google.com, pub-8987326888516713, DIRECT, f08c47fec0942fa0
 
 
 ucfunnel.com, pub-8A2D6422E3BB866609B3932ED439AE6, DIRECT
