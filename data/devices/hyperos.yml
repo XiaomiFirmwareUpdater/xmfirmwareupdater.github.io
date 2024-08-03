@@ -1367,6 +1367,12 @@
   name: MIX Fold 4
   version: OS1.0.7.0.UNVCNXM
 - android: '14.0'
+  codename: goku
+  date: '2024-08-02'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UNVCNXM/fw_goku_miui_GOKU_OS1.0.9.0.UNVCNXM_3b46da1b28_14.0.zip
+  name: MIX Fold 4
+  version: OS1.0.9.0.UNVCNXM
+- android: '14.0'
   codename: gold
   date: '2024-05-31'
   download: https://bigota.d.miui.com/OS1.0.9.0.UNQEUXM/fw_gold_miui_GOLDEEAGlobal_OS1.0.9.0.UNQEUXM_2c944807d4_14.0.zip
@@ -3192,6 +3198,18 @@
   version: OS1.0.4.0.UMOMIXM
 - android: '14.0'
   codename: ruby
+  date: '2024-08-02'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMOMIXM/fw_ruby_miui_RUBYGlobal_OS1.0.5.0.UMOMIXM_150cd79a08_14.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS1.0.5.0.UMOMIXM
+- android: '14.0'
+  codename: ruby
+  date: '2024-08-02'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMOCNXM/fw_ruby_miui_RUBY_OS1.0.6.0.UMOCNXM_c7bb8c82e2_14.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS1.0.6.0.UMOCNXM
+- android: '14.0'
+  codename: ruby
   date: '2024-02-01'
   download: https://bigota.d.miui.com/OS1.0.1.0.UMOEUXM/fw_ruby_miui_RUBYEEAGlobal_OS1.0.1.0.UMOEUXM_d22f47926d_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
@@ -3892,6 +3910,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.ULACNXM/fw_thor_miui_THOR_OS1.0.5.0.ULACNXM_5282e8adc1_14.0.zip
   name: Xiaomi 12S Ultra
   version: OS1.0.5.0.ULACNXM
+- android: '14.0'
+  codename: thor
+  date: '2024-08-03'
+  download: https://bigota.d.miui.com/OS1.0.6.0.ULACNXM/fw_thor_miui_THOR_OS1.0.6.0.ULACNXM_99e5738060_14.0.zip
+  name: Xiaomi 12S Ultra
+  version: OS1.0.6.0.ULACNXM
 - android: '13.0'
   codename: thyme
   date: '2024-04-25'
@@ -4270,6 +4294,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULOINXM/fw_xaga_miui_XAGAINGlobal_OS1.0.2.0.ULOINXM_08577945e0_14.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: OS1.0.2.0.ULOINXM
+- android: '14.0'
+  codename: xaga
+  date: '2024-08-03'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULOCNXM/fw_xaga_miui_XAGA_OS1.0.3.0.ULOCNXM_ddae354606_14.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS1.0.3.0.ULOCNXM
 - android: '14.0'
   codename: xaga
   date: '2024-07-01'

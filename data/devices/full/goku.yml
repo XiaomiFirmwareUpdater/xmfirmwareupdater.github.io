@@ -18,3 +18,13 @@
   versions:
     android: '14.0'
     miui: OS1.0.7.0.UNVCNXM
+- branch: stable
+  date: '2024-08-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goku/releases/download/stable-03.08.2024/fw_goku_miui_GOKU_OS1.0.9.0.UNVCNXM_3b46da1b28_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/goku/fw_goku_miui_GOKU_OS1.0.9.0.UNVCNXM_3b46da1b28_14.0.zip
+  filename: fw_goku_miui_GOKU_OS1.0.9.0.UNVCNXM_3b46da1b28_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.9.0.UNVCNXM

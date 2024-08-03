@@ -52,7 +52,8 @@ permalink: /archive/hyperos/lisa/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 11 Lite 5G NE Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UKORUXM</td><td>14.0</td><td>4.9 GB</td><td>2024-07-23</td><td><a href="/hyperos/lisa/stable beta/OS1.0.4.0.UKORUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 11 Lite 5G NE Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UKORUXM</td><td>14.0</td><td>4.9 GB</td><td>2024-07-23</td><td><a href="/hyperos/lisa/stable/OS1.0.4.0.UKORUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11 Lite 5G NE Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UKORUXM</td><td>14.0</td><td>6.3 GB</td><td>2024-07-11</td><td><a href="/hyperos/lisa/stable/OS1.0.4.0.UKORUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UKOTWXM</td><td>14.0</td><td>4.8 GB</td><td>2024-07-23</td><td><a href="/hyperos/lisa/stable/OS1.0.4.0.UKOTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UKOTWXM</td><td>14.0</td><td>5.7 GB</td><td>2024-07-11</td><td><a href="/hyperos/lisa/stable/OS1.0.4.0.UKOTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE India</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UKOINXM</td><td>14.0</td><td>4.9 GB</td><td>2024-06-28</td><td><a href="/hyperos/lisa/stable/OS1.0.4.0.UKOINXM/">Download</a></td></tr>
