@@ -2862,6 +2862,12 @@
   version: OS1.0.1.0.TLDEUXM
 - android: '13.0'
   codename: psyche
+  date: '2024-08-04'
+  download: https://bigota.d.miui.com/OS1.0.6.0.TLDCNXM/fw_psyche_miui_PSYCHE_OS1.0.6.0.TLDCNXM_9799de6674_13.0.zip
+  name: Xiaomi 12X
+  version: OS1.0.6.0.TLDCNXM
+- android: '13.0'
+  codename: psyche
   date: '2024-03-04'
   download: https://bigota.d.miui.com/OS1.0.1.0.TLDMIXM/fw_psyche_miui_PSYCHEGlobal_OS1.0.1.0.TLDMIXM_31bc4ec894_13.0.zip
   name: Xiaomi 12X
