@@ -70,6 +70,7 @@ permalink: /hyperos/dizi/
 <tr><td>Redmi Pad Pro / POCO Pad Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UNSTRXM</td><td>14.0</td><td>4.2 GB</td><td>2024-08-02</td><td><a href="/hyperos/dizi/stable beta/OS1.0.3.0.UNSTRXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro / POCO Pad Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UNSTWXM</td><td>14.0</td><td>4.8 GB</td><td>2024-05-14</td><td><a href="/hyperos/dizi/stable/OS1.0.2.0.UNSTWXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro / POCO Pad Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNSTWXM</td><td>14.0</td><td>4.1 GB</td><td>2024-06-07</td><td><a href="/hyperos/dizi/stable/OS1.0.3.0.UNSTWXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro / POCO Pad Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.UNSTWXM</td><td>14.0</td><td>4.1 GB</td><td>2024-08-02</td><td><a href="/hyperos/dizi/stable beta/OS1.0.6.0.UNSTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

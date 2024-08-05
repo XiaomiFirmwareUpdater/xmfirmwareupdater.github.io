@@ -3009,15 +3009,15 @@
     android: '14.0'
     miui: OS1.0.3.0.UMRCNXM
 - branch: stable
-  date: '2024-06-25'
+  date: '2024-08-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-25.06.2024/fw_marble_miui_MARBLEEEAGlobal_OS1.0.8.0.UMREUXM_c6f0e5cf41_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEEEAGlobal_OS1.0.8.0.UMREUXM_c6f0e5cf41_14.0.zip
-  filename: fw_marble_miui_MARBLEEEAGlobal_OS1.0.8.0.UMREUXM_c6f0e5cf41_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-05.08.2024/fw_marble_miui_MARBLEEEAGlobal_OS1.0.9.0.UMREUXM_fdaf5c8f41_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEEEAGlobal_OS1.0.9.0.UMREUXM_fdaf5c8f41_14.0.zip
+  filename: fw_marble_miui_MARBLEEEAGlobal_OS1.0.9.0.UMREUXM_fdaf5c8f41_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.8.0.UMREUXM
+    miui: OS1.0.9.0.UMREUXM
 - branch: stable
   date: '2024-07-02'
   downloads:
@@ -3219,15 +3219,15 @@
     android: '14.0'
     miui: OS1.0.7.0.UMNMIXM
 - branch: stable
-  date: '2024-05-28'
+  date: '2024-08-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-28.05.2024/fw_mondrian_miui_MONDRIAN_OS1.0.8.0.UMNCNXM_a1d4b475b7_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/mondrian/fw_mondrian_miui_MONDRIAN_OS1.0.8.0.UMNCNXM_a1d4b475b7_14.0.zip
-  filename: fw_mondrian_miui_MONDRIAN_OS1.0.8.0.UMNCNXM_a1d4b475b7_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-05.08.2024/fw_mondrian_miui_MONDRIAN_OS1.0.10.0.UMNCNXM_544e8eda24_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/mondrian/fw_mondrian_miui_MONDRIAN_OS1.0.10.0.UMNCNXM_544e8eda24_14.0.zip
+  filename: fw_mondrian_miui_MONDRIAN_OS1.0.10.0.UMNCNXM_544e8eda24_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.8.0.UMNCNXM
+    miui: OS1.0.10.0.UMNCNXM
 - branch: stable
   date: '2024-07-15'
   downloads:
@@ -3279,45 +3279,45 @@
     android: '14.0'
     miui: OS1.0.5.0.UNTEUXM
 - branch: stable
-  date: '2024-06-29'
+  date: '2024-08-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-29.06.2024/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.6.0.UMPMIXM_7a430ada0e_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moonstone/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.6.0.UMPMIXM_7a430ada0e_14.0.zip
-  filename: fw_moonstone_miui_MOONSTONEGlobal_OS1.0.6.0.UMPMIXM_7a430ada0e_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-05.08.2024/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.7.0.UMPMIXM_a24c4ec1fa_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moonstone/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.7.0.UMPMIXM_a24c4ec1fa_14.0.zip
+  filename: fw_moonstone_miui_MOONSTONEGlobal_OS1.0.7.0.UMPMIXM_a24c4ec1fa_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.UMPMIXM
+    miui: OS1.0.7.0.UMPMIXM
 - branch: stable
-  date: '2024-06-24'
+  date: '2024-08-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-24.06.2024/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.4.0.UMPEUXM_7f8e55a5d9_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moonstone/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.4.0.UMPEUXM_7f8e55a5d9_14.0.zip
-  filename: fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.4.0.UMPEUXM_7f8e55a5d9_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-05.08.2024/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.5.0.UMPEUXM_4a8edb111b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moonstone/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.5.0.UMPEUXM_4a8edb111b_14.0.zip
+  filename: fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.5.0.UMPEUXM_4a8edb111b_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.UMPEUXM
+    miui: OS1.0.5.0.UMPEUXM
 - branch: stable
-  date: '2024-06-29'
+  date: '2024-08-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-29.06.2024/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.3.0.UMPINXM_14fa4b9ecf_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moonstone/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.3.0.UMPINXM_14fa4b9ecf_14.0.zip
-  filename: fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.3.0.UMPINXM_14fa4b9ecf_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-05.08.2024/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.5.0.UMPINXM_51e630346e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moonstone/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.5.0.UMPINXM_51e630346e_14.0.zip
+  filename: fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.5.0.UMPINXM_51e630346e_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.3.0.UMPINXM
+    miui: OS1.0.5.0.UMPINXM
 - branch: stable
-  date: '2024-06-18'
+  date: '2024-08-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-18.06.2024/fw_munch_miui_MUNCHGlobal_OS1.0.2.0.ULMMIXM_9849ffd45c_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/munch/fw_munch_miui_MUNCHGlobal_OS1.0.2.0.ULMMIXM_9849ffd45c_14.0.zip
-  filename: fw_munch_miui_MUNCHGlobal_OS1.0.2.0.ULMMIXM_9849ffd45c_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-05.08.2024/fw_munch_miui_MUNCHGlobal_OS1.0.3.0.ULMMIXM_d3cf4793a1_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/munch/fw_munch_miui_MUNCHGlobal_OS1.0.3.0.ULMMIXM_d3cf4793a1_14.0.zip
+  filename: fw_munch_miui_MUNCHGlobal_OS1.0.3.0.ULMMIXM_d3cf4793a1_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.2.0.ULMMIXM
+    miui: OS1.0.3.0.ULMMIXM
 - branch: stable
   date: '2024-07-29'
   downloads:

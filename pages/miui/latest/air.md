@@ -53,8 +53,10 @@ permalink: /miui/air/
                 </thead>
                 <tbody>
                 <tr><td>Redmi 13R 5G / 13C 5G Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TGQMIXM</td><td>13.0</td><td>7.4 GB</td><td>2024-05-15</td><td><a href="/miui/air/stable/V14.0.4.0.TGQMIXM/">Download</a></td></tr>
+<tr><td>Redmi 13R 5G / 13C 5G Global</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TGQMIXM</td><td>13.0</td><td>4.5 GB</td><td>2024-06-01</td><td><a href="/miui/air/stable/V14.0.4.0.TGQMIXM/">Download</a></td></tr>
 <tr><td>Redmi 13R 5G / 13C 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TGQTWXM</td><td>13.0</td><td>6.1 GB</td><td>2024-05-22</td><td><a href="/miui/air/stable/V14.0.3.0.TGQTWXM/">Download</a></td></tr>
 <tr><td>Redmi 13R 5G / 13C 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TGQTWXM</td><td>13.0</td><td>4.4 GB</td><td>2024-07-15</td><td><a href="/miui/air/stable/V14.0.3.0.TGQTWXM/">Download</a></td></tr>
+<tr><td>Redmi 13R 5G / 13C 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TGQTWXM</td><td>13.0</td><td>4.4 GB</td><td>2024-08-05</td><td><a href="/miui/air/stable beta/V14.0.4.0.TGQTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
