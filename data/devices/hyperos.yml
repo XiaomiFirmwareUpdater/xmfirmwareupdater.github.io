@@ -162,6 +162,12 @@
   version: OS1.0.6.0.UMFEUXM
 - android: '14.0'
   codename: aristotle
+  date: '2024-08-05'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMFMIXM/fw_aristotle_miui_ARISTOTLEGlobal_OS1.0.6.0.UMFMIXM_39d2f83f73_14.0.zip
+  name: Xiaomi 13T
+  version: OS1.0.6.0.UMFMIXM
+- android: '14.0'
+  codename: aristotle
   date: '2024-07-01'
   download: https://bigota.d.miui.com/OS1.0.9.0.UMFEUXM/fw_aristotle_miui_ARISTOTLEEEAGlobal_OS1.0.9.0.UMFEUXM_81bfd4666c_14.0.zip
   name: Xiaomi 13T
@@ -564,6 +570,12 @@
   version: OS1.0.6.0.ULCEUXM
 - android: '14.0'
   codename: cupid
+  date: '2024-08-05'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULCMIXM/fw_cupid_miui_CUPIDGlobal_OS1.0.4.0.ULCMIXM_8bbe01b2d0_14.0.zip
+  name: Xiaomi 12
+  version: OS1.0.4.0.ULCMIXM
+- android: '14.0'
+  codename: cupid
   date: '2024-03-05'
   download: https://bigota.d.miui.com/OS1.0.5.0.ULCCNXM/fw_cupid_miui_CUPID_OS1.0.5.0.ULCCNXM_06378516d1_14.0.zip
   name: Xiaomi 12
@@ -880,6 +892,18 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UNLMIXM/fw_duchamp_miui_DUCHAMPGlobal_OS1.0.7.0.UNLMIXM_759d6c1865_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS1.0.7.0.UNLMIXM
+- android: '14.0'
+  codename: duchamp
+  date: '2024-08-05'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UNLEUXM/fw_duchamp_miui_DUCHAMPEEAGlobal_OS1.0.9.0.UNLEUXM_10c31e3c73_14.0.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS1.0.9.0.UNLEUXM
+- android: '14.0'
+  codename: duchamp
+  date: '2024-08-05'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UNLINXM/fw_duchamp_miui_DUCHAMPINGlobal_OS1.0.9.0.UNLINXM_838750638d_14.0.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS1.0.9.0.UNLINXM
 - android: '14.0'
   codename: duchamp
   date: '2023-12-03'
@@ -1738,6 +1762,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULJCNXM/fw_ingres_miui_INGRES_OS1.0.2.0.ULJCNXM_b4d2b9c601_14.0.zip
   name: Redmi K50G/POCO F4 GT
   version: OS1.0.2.0.ULJCNXM
+- android: '14.0'
+  codename: ingres
+  date: '2024-08-05'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULJMIXM/fw_ingres_miui_INGRESGlobal_OS1.0.4.0.ULJMIXM_de9d3d6fc5_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.4.0.ULJMIXM
 - android: '14.0'
   codename: ingres
   date: '2024-03-01'
