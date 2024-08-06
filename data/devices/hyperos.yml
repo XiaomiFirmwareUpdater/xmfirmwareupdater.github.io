@@ -1854,6 +1854,12 @@
   version: OS1.0.4.0.UMAMIXM
 - android: '14.0'
   codename: ishtar
+  date: '2024-08-06'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UMAEUXM/fw_ishtar_miui_ISHTAREEAGlobal_OS1.0.10.0.UMAEUXM_d8b0f359b8_14.0.zip
+  name: Xiaomi 13 Ultra
+  version: OS1.0.10.0.UMAEUXM
+- android: '14.0'
+  codename: ishtar
   date: '2024-04-05'
   download: https://bigota.d.miui.com/OS1.0.8.0.UMACNXM/fw_ishtar_miui_ISHTAR_OS1.0.8.0.UMACNXM_b64fcd4cdb_14.0.zip
   name: Xiaomi 13 Ultra
@@ -2794,6 +2800,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.5.0.UMZCNXM_aa9825df2f_14.0.zip
   name: Xiaomi Pad 6
   version: OS1.0.5.0.UMZCNXM
+- android: '14.0'
+  codename: pipa
+  date: '2024-08-06'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMZEUXM/fw_pipa_miui_PIPAEEAGlobal_OS1.0.7.0.UMZEUXM_51f6323c13_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.7.0.UMZEUXM
 - android: '14.0'
   codename: pipa
   date: '2024-06-04'
