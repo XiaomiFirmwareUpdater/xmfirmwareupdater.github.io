@@ -4326,6 +4326,12 @@
   version: OS1.0.2.0.UKDINXM
 - android: '14.0'
   codename: vili
+  date: '2024-08-06'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UKDINXM/fw_vili_miui_VILIINGlobal_OS1.0.4.0.UKDINXM_286f6fab8d_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.4.0.UKDINXM
+- android: '14.0'
+  codename: vili
   date: '2024-05-06'
   download: https://bigota.d.miui.com/OS1.0.2.0.UKDEUXM/fw_vili_miui_VILIEEAGlobal_OS1.0.2.0.UKDEUXM_bc09d1ca3c_14.0.zip
   name: Xiaomi 11T Pro
@@ -4552,6 +4558,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULYCNXM/fw_yunluo_miui_YUNLUO_OS1.0.2.0.ULYCNXM_b72482c1f6_14.0.zip
   name: Redmi Pad
   version: OS1.0.2.0.ULYCNXM
+- android: '14.0'
+  codename: yunluo
+  date: '2024-08-06'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULYMIXM/fw_yunluo_miui_YUNLUOGlobal_OS1.0.4.0.ULYMIXM_a7474dc3be_14.0.zip
+  name: Redmi Pad
+  version: OS1.0.4.0.ULYMIXM
 - android: '14.0'
   codename: yunluo
   date: '2024-04-01'
