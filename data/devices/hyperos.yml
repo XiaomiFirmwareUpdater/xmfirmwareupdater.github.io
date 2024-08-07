@@ -2928,6 +2928,12 @@
   version: OS1.0.9.0.ULQEUXM
 - android: '14.0'
   codename: plato
+  date: '2024-08-07'
+  download: https://bigota.d.miui.com/OS1.0.12.0.ULQEUXM/fw_plato_miui_PLATOEEAGlobal_OS1.0.12.0.ULQEUXM_94738c2aec_14.0.zip
+  name: Xiaomi 12T
+  version: OS1.0.12.0.ULQEUXM
+- android: '14.0'
+  codename: plato
   date: '2024-04-01'
   download: https://bigota.d.miui.com/OS1.0.8.0.ULQMIXM/fw_plato_miui_PLATOGlobal_OS1.0.8.0.ULQMIXM_66cc9d612c_14.0.zip
   name: Xiaomi 12T
@@ -2950,6 +2956,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.TLDEUXM/fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.1.0.TLDEUXM_2f5189f931_13.0.zip
   name: Xiaomi 12X
   version: OS1.0.1.0.TLDEUXM
+- android: '13.0'
+  codename: psyche
+  date: '2024-08-07'
+  download: https://bigota.d.miui.com/OS1.0.7.0.TLDCNXM/fw_psyche_miui_PSYCHE_OS1.0.7.0.TLDCNXM_f008f5565d_13.0.zip
+  name: Xiaomi 12X
+  version: OS1.0.7.0.TLDCNXM
 - android: '13.0'
   codename: psyche
   date: '2024-08-04'
