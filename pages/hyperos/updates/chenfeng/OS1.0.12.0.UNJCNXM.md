@@ -3,7 +3,7 @@ title: Xiaomi Civi 4 Pro China HyperOS OS1.0.12.0.UNJCNXM Update
 layout: download
 name: Xiaomi Civi 4 Pro China
 codename: chenfeng
-permalink: /hyperos/chenfeng/stable beta/OS1.0.12.0.UNJCNXM/
+permalink: /hyperos/chenfeng/stable/OS1.0.12.0.UNJCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/chenfeng/stable beta/OS1.0.12.0.UNJCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.12.0.UNJCNXM Stable Beta Official Update for Xiaomi Civi 4 Pro China (chenfeng)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.12.0.UNJCNXM Stable Official Update for Xiaomi Civi 4 Pro China (chenfeng)</h3>
     <h5>This page shows the OS1.0.12.0.UNJCNXM update only. If you're looking for other updates check
         <a href="/hyperos/chenfeng/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/chenfeng/stable beta/OS1.0.12.0.UNJCNXM/
                     <h5><b>Version: </b>OS1.0.12.0.UNJCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/chenfeng/stable beta/OS1.0.12.0.UNJCNXM/
                             aria-expanded="false" aria-controls="chenfeng_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="chenfeng_1_changelog">
+                        <p id="changelog_text">[System]<br>Optimization: Optimized memory usage to improve the smoothness of TikTok (Douyin)<br>Fix: Having too many notifications could cause the system to restart<br>Updated the security patch to July 2024. Increased system security.<br>[Notes]<br>Fix: Cloud sync failed when note attachments exceeded 20 MB<br>[Control center]<br>Fix: Some toggles occasionally failed to work<br>[Lock screen]<br>Optimization: New "press and hold to edit" logic for Lock screen reduces accidental triggers<br>[Clock]<br>Fix: Alarm couldn't be turned off using buttons after it rang<br>[Calculator]<br>Optimization: Improved the sensitivity of Calculator buttons<br>[Gallery]<br>Optimization: Improved video synchronization strategy to enhance playback smoothness<br>Fix: Preview thumbnails in Gallery took too long to load when a large number of images were generated in a short period<br>Fix: Photo timestamps were lost during cloud sync, causing incorrect dates<br>Fix: Deleted photos reappeared after being removed during cloud synchronization<br>Fix: Memories couldn't be played on some device models<br>Fix: Preview thumbnails in Gallery displayed abnormally when capturing a large number of photos consecutively<br>[File Manager]<br>Optimization: Loading speed of the file list<br>[Security]<br>Optimization: Updated optimization score calculation rules to improve accuracy<br>[Status bar, Notification shade]<br>Fix: Single-line notification icons were not fully displayed<br>Fix: Blank notifications appeared with only the icon displayed<br>Fix: The 5G icon in the status bar wasn't fully displayed after switching font size or changing to a third party font</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi Civi 4 Pro China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/chenfeng/" target="_blank">chenfeng</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.12.0.UNJCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>8.5 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-07-24</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">chenfeng_images_OS1.0.12.0.UNJCNXM_20240724.0000.00_14.0_cn_a4dc2e8100.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">a4dc2e8100707a430b72cc5c60eae390</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.12.0.UNJCNXM/chenfeng_images_OS1.0.12.0.UNJCNXM_20240724.0000.00_14.0_cn_a4dc2e8100.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.12.0.UNJCNXM/chenfeng_images_OS1.0.12.0.UNJCNXM_20240724.0000.00_14.0_cn_a4dc2e8100.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.12.0.UNJCNXM/chenfeng_images_OS1.0.12.0.UNJCNXM_20240724.0000.00_14.0_cn_a4dc2e8100.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.12.0.UNJCNXM/chenfeng_images_OS1.0.12.0.UNJCNXM_20240724.0000.00_14.0_cn_a4dc2e8100.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.12.0.UNJCNXM/chenfeng_images_OS1.0.12.0.UNJCNXM_20240724.0000.00_14.0_cn_a4dc2e8100.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#chenfeng_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="chenfeng_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="chenfeng_2_changelog">
                         <p id="changelog_text">[System]<br>Optimization: Optimized memory usage to improve the smoothness of TikTok (Douyin)<br>Fix: Having too many notifications could cause the system to restart<br>Updated the security patch to July 2024. Increased system security.<br>[Notes]<br>Fix: Cloud sync failed when note attachments exceeded 20 MB<br>[Control center]<br>Fix: Some toggles occasionally failed to work<br>[Lock screen]<br>Optimization: New "press and hold to edit" logic for Lock screen reduces accidental triggers<br>[Clock]<br>Fix: Alarm couldn't be turned off using buttons after it rang<br>[Calculator]<br>Optimization: Improved the sensitivity of Calculator buttons<br>[Gallery]<br>Optimization: Improved video synchronization strategy to enhance playback smoothness<br>Fix: Preview thumbnails in Gallery took too long to load when a large number of images were generated in a short period<br>Fix: Photo timestamps were lost during cloud sync, causing incorrect dates<br>Fix: Deleted photos reappeared after being removed during cloud synchronization<br>Fix: Memories couldn't be played on some device models<br>Fix: Preview thumbnails in Gallery displayed abnormally when capturing a large number of photos consecutively<br>[File Manager]<br>Optimization: Loading speed of the file list<br>[Security]<br>Optimization: Updated optimization score calculation rules to improve accuracy<br>[Status bar, Notification shade]<br>Fix: Single-line notification icons were not fully displayed<br>Fix: Blank notifications appeared with only the icon displayed<br>Fix: The 5G icon in the status bar wasn't fully displayed after switching font size or changing to a third party font</p>
                     </div>
                 </li>
