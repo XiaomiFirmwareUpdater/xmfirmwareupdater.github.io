@@ -52,8 +52,10 @@ permalink: /archive/hyperos/rock/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO M5 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.10.0.ULUMIXM</td><td>14.0</td><td>4.0 GB</td><td>2024-07-26</td><td><a href="/hyperos/rock/stable beta/OS1.0.10.0.ULUMIXM/">Download</a></td></tr>
-<tr><td>POCO M5 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.ULUEUXM</td><td>14.0</td><td>4.0 GB</td><td>2024-07-26</td><td><a href="/hyperos/rock/stable beta/OS1.0.4.0.ULUEUXM/">Download</a></td></tr>
+                <tr><td>POCO M5 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.ULUMIXM</td><td>14.0</td><td>4.0 GB</td><td>2024-07-26</td><td><a href="/hyperos/rock/stable/OS1.0.10.0.ULUMIXM/">Download</a></td></tr>
+<tr><td>POCO M5 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.ULUMIXM</td><td>14.0</td><td>6.4 GB</td><td>2024-07-15</td><td><a href="/hyperos/rock/stable/OS1.0.10.0.ULUMIXM/">Download</a></td></tr>
+<tr><td>POCO M5 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.ULUEUXM</td><td>14.0</td><td>4.0 GB</td><td>2024-07-26</td><td><a href="/hyperos/rock/stable/OS1.0.4.0.ULUEUXM/">Download</a></td></tr>
+<tr><td>POCO M5 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.ULUEUXM</td><td>14.0</td><td>6.1 GB</td><td>2024-07-15</td><td><a href="/hyperos/rock/stable/OS1.0.4.0.ULUEUXM/">Download</a></td></tr>
 <tr><td>POCO M5 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULUTRXM</td><td>14.0</td><td>4.0 GB</td><td>2024-07-04</td><td><a href="/hyperos/rock/stable/OS1.0.2.0.ULUTRXM/">Download</a></td></tr>
 <tr><td>POCO M5 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULUTRXM</td><td>14.0</td><td>5.9 GB</td><td>2024-06-24</td><td><a href="/hyperos/rock/stable/OS1.0.2.0.ULUTRXM/">Download</a></td></tr>
 <tr><td>POCO M5 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.ULURUXM</td><td>14.0</td><td>4.0 GB</td><td>2024-06-28</td><td><a href="/hyperos/rock/stable/OS1.0.4.0.ULURUXM/">Download</a></td></tr>
