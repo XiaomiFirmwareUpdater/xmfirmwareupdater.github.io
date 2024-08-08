@@ -702,6 +702,12 @@
   version: OS1.0.2.0.ULFCNXM
 - android: '14.0'
   codename: diting
+  date: '2024-08-08'
+  download: https://bigota.d.miui.com/OS1.0.7.0.ULFCNXM/fw_diting_miui_DITING_OS1.0.7.0.ULFCNXM_1918934460_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.7.0.ULFCNXM
+- android: '14.0'
+  codename: diting
   date: '2024-03-07'
   download: https://bigota.d.miui.com/OS1.0.2.0.ULFEUXM/fw_diting_miui_DITINGEEAGlobal_OS1.0.2.0.ULFEUXM_e23a2c465c_14.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
@@ -1150,6 +1156,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.TKEEUXM/fw_fleur_miui_FLEUREEAGlobal_OS1.0.2.0.TKEEUXM_7e516cdea6_13.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: OS1.0.2.0.TKEEUXM
+- android: '13.0'
+  codename: fleur
+  date: '2024-08-08'
+  download: https://bigota.d.miui.com/OS1.0.4.0.TKEINXM/fw_fleur_miui_FLEURINGlobal_OS1.0.4.0.TKEINXM_2fdfef46a4_13.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: OS1.0.4.0.TKEINXM
 - android: '13.0'
   codename: fleur
   date: '2024-07-08'

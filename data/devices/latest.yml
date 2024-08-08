@@ -1329,15 +1329,15 @@
     android: '14.0'
     miui: OS1.0.5.0.ULFMIXM
 - branch: stable
-  date: '2024-07-25'
+  date: '2024-08-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-25.07.2024/fw_diting_miui_DITING_OS1.0.6.0.ULFCNXM_3d47546a8e_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/diting/fw_diting_miui_DITING_OS1.0.6.0.ULFCNXM_3d47546a8e_14.0.zip
-  filename: fw_diting_miui_DITING_OS1.0.6.0.ULFCNXM_3d47546a8e_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-09.08.2024/fw_diting_miui_DITING_OS1.0.7.0.ULFCNXM_1918934460_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/diting/fw_diting_miui_DITING_OS1.0.7.0.ULFCNXM_1918934460_14.0.zip
+  filename: fw_diting_miui_DITING_OS1.0.7.0.ULFCNXM_1918934460_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.ULFCNXM
+    miui: OS1.0.7.0.ULFCNXM
 - branch: stable
   date: '2024-08-02'
   downloads:
@@ -1679,15 +1679,15 @@
     android: '13.0'
     miui: OS1.0.2.0.TKEEUXM
 - branch: stable
-  date: '2024-04-02'
+  date: '2024-08-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-02.04.2024/fw_fleur_miui_FLEURINGlobal_OS1.0.2.0.TKEINXM_f8f80a48fb_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fleur/fw_fleur_miui_FLEURINGlobal_OS1.0.2.0.TKEINXM_f8f80a48fb_13.0.zip
-  filename: fw_fleur_miui_FLEURINGlobal_OS1.0.2.0.TKEINXM_f8f80a48fb_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-09.08.2024/fw_fleur_miui_FLEURINGlobal_OS1.0.4.0.TKEINXM_2fdfef46a4_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fleur/fw_fleur_miui_FLEURINGlobal_OS1.0.4.0.TKEINXM_2fdfef46a4_13.0.zip
+  filename: fw_fleur_miui_FLEURINGlobal_OS1.0.4.0.TKEINXM_2fdfef46a4_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: OS1.0.2.0.TKEINXM
+    miui: OS1.0.4.0.TKEINXM
 - branch: stable
   date: '2024-06-11'
   downloads:
