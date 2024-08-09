@@ -79,9 +79,8 @@ permalink: /hyperos/moon/
 <tr><td>POCO X5 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UMPRUXM</td><td>14.0</td><td>6.5 GB</td><td>2024-06-25</td><td><a href="/hyperos/moonstone/stable/OS1.0.3.0.UMPRUXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UMPRUXM</td><td>14.0</td><td>3.9 GB</td><td>2024-07-06</td><td><a href="/hyperos/moonstone/stable/OS1.0.3.0.UMPRUXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UMPRUXM</td><td>14.0</td><td>3.8 GB</td><td>2024-08-01</td><td><a href="/hyperos/moonstone/stable beta/OS1.0.4.0.UMPRUXM/">Download</a></td></tr>
-<tr><td>POCO X5 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UMPTRXM</td><td>14.0</td><td>5.7 GB</td><td>2024-02-28</td><td><a href="/hyperos/moonstone/stable/OS1.0.1.0.UMPTRXM/">Download</a></td></tr>
-<tr><td>POCO X5 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UMPTRXM</td><td>14.0</td><td>3.8 GB</td><td>2024-03-06</td><td><a href="/hyperos/moonstone/stable/OS1.0.1.0.UMPTRXM/">Download</a></td></tr>
-<tr><td>POCO X5 5G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UMPTRXM</td><td>14.0</td><td>3.8 GB</td><td>2024-08-02</td><td><a href="/hyperos/moonstone/stable beta/OS1.0.3.0.UMPTRXM/">Download</a></td></tr>
+<tr><td>POCO X5 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UMPTRXM</td><td>14.0</td><td>5.7 GB</td><td>2024-07-25</td><td><a href="/hyperos/moonstone/stable/OS1.0.3.0.UMPTRXM/">Download</a></td></tr>
+<tr><td>POCO X5 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UMPTRXM</td><td>14.0</td><td>3.8 GB</td><td>2024-08-02</td><td><a href="/hyperos/moonstone/stable/OS1.0.3.0.UMPTRXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UMPTWXM</td><td>14.0</td><td>5.5 GB</td><td>2024-07-22</td><td><a href="/hyperos/moonstone/stable/OS1.0.3.0.UMPTWXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UMPTWXM</td><td>14.0</td><td>3.8 GB</td><td>2024-07-30</td><td><a href="/hyperos/moonstone/stable/OS1.0.3.0.UMPTWXM/">Download</a></td></tr>
 
