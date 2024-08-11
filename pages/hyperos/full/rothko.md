@@ -58,6 +58,7 @@ permalink: /archive/hyperos/rothko/
 <tr><td>Redmi K70 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.17.0.UNNCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-07-27</td><td><a href="/hyperos/rothko/stable/OS1.0.17.0.UNNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.17.0.UNNCNXM</td><td>14.0</td><td>8.9 GB</td><td>2024-07-27</td><td><a href="/hyperos/rothko/stable/OS1.0.17.0.UNNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.15.3.UNNCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-07-24</td><td><a href="/hyperos/rothko/stable/OS1.0.15.3.UNNCNXM/">Download</a></td></tr>
+<tr><td>Redmi K70 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UNNCNXM</td><td>14.0</td><td>6.8 GB</td><td>2024-07-22</td><td><a href="/hyperos/rothko/stable/OS1.0.8.0.UNNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.14.0.UNNCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-07-20</td><td><a href="/hyperos/rothko/stable/OS1.0.14.0.UNNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.14.0.UNNCNXM</td><td>14.0</td><td>8.9 GB</td><td>2024-07-18</td><td><a href="/hyperos/rothko/stable/OS1.0.14.0.UNNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.12.0.UNNCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-07-19</td><td><a href="/hyperos/rothko/stable/OS1.0.12.0.UNNCNXM/">Download</a></td></tr>
