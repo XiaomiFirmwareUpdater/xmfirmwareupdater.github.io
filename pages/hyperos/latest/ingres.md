@@ -57,6 +57,7 @@ permalink: /hyperos/ingres/
 <tr><td>Redmi K50G China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.8 GB</td><td>2024-01-12</td><td><a href="/hyperos/ingres/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
 <tr><td>POCO F4 GT EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.ULJEUXM</td><td>14.0</td><td>6.2 GB</td><td>2024-06-18</td><td><a href="/hyperos/ingres/stable/OS1.0.3.0.ULJEUXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.ULJEUXM</td><td>14.0</td><td>5.0 GB</td><td>2024-07-10</td><td><a href="/hyperos/ingres/stable/OS1.0.3.0.ULJEUXM/">Download</a></td></tr>
+<tr><td>POCO F4 GT EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.ULJEUXM</td><td>14.0</td><td>5.0 GB</td><td>2024-08-09</td><td><a href="/hyperos/ingres/stable beta/OS1.0.4.0.ULJEUXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.ULJMIXM</td><td>14.0</td><td>6.7 GB</td><td>2024-06-11</td><td><a href="/hyperos/ingres/stable/OS1.0.3.0.ULJMIXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.ULJMIXM</td><td>14.0</td><td>5.2 GB</td><td>2024-06-21</td><td><a href="/hyperos/ingres/stable/OS1.0.3.0.ULJMIXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.ULJMIXM</td><td>14.0</td><td>5.2 GB</td><td>2024-08-01</td><td><a href="/hyperos/ingres/stable beta/OS1.0.4.0.ULJMIXM/">Download</a></td></tr>
@@ -64,6 +65,7 @@ permalink: /hyperos/ingres/
 <tr><td>POCO F4 GT Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.ULJIDXM</td><td>14.0</td><td>5.0 GB</td><td>2024-08-01</td><td><a href="/hyperos/ingres/stable/OS1.0.5.0.ULJIDXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULJRUXM</td><td>14.0</td><td>6.4 GB</td><td>2024-06-18</td><td><a href="/hyperos/ingres/stable/OS1.0.2.0.ULJRUXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULJRUXM</td><td>14.0</td><td>5.0 GB</td><td>2024-07-10</td><td><a href="/hyperos/ingres/stable/OS1.0.2.0.ULJRUXM/">Download</a></td></tr>
+<tr><td>POCO F4 GT Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.ULJRUXM</td><td>14.0</td><td>5.0 GB</td><td>2024-08-09</td><td><a href="/hyperos/ingres/stable beta/OS1.0.4.0.ULJRUXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULJTRXM</td><td>14.0</td><td>6.2 GB</td><td>2024-06-25</td><td><a href="/hyperos/ingres/stable/OS1.0.2.0.ULJTRXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULJTRXM</td><td>14.0</td><td>5.0 GB</td><td>2024-07-10</td><td><a href="/hyperos/ingres/stable/OS1.0.2.0.ULJTRXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.ULJTWXM</td><td>14.0</td><td>5.8 GB</td><td>2024-06-18</td><td><a href="/hyperos/ingres/stable/OS1.0.4.0.ULJTWXM/">Download</a></td></tr>
