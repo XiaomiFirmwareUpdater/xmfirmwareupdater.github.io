@@ -78,7 +78,7 @@ permalink: /hyperos/sapphiren/stable beta/OS1.0.4.0.UNHEUXM/
                             aria-expanded="false" aria-controls="sapphiren_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="sapphiren_1_changelog">
-                        <p id="changelog_text">[Other]<br>Optimized system performance<br>Improved system security and stability</p>
+                        <p id="changelog_text">[System]<br>Updated the security patch to July 2024. Increased system security.</p>
                     </div>
                 </li>
             </ul>
