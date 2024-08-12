@@ -582,6 +582,12 @@
   version: OS1.0.8.0.ULCEUXM
 - android: '14.0'
   codename: cupid
+  date: '2024-08-12'
+  download: https://bigota.d.miui.com/OS1.0.11.0.ULCEUXM/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.11.0.ULCEUXM_f7ebb14448_14.0.zip
+  name: Xiaomi 12
+  version: OS1.0.11.0.ULCEUXM
+- android: '14.0'
+  codename: cupid
   date: '2024-04-07'
   download: https://bigota.d.miui.com/OS1.0.6.0.ULCEUXM/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.6.0.ULCEUXM_5f3075c5f2_14.0.zip
   name: Xiaomi 12
@@ -1794,6 +1800,12 @@
   version: OS1.0.3.0.ULJEUXM
 - android: '14.0'
   codename: ingres
+  date: '2024-08-12'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULJEUXM/fw_ingres_miui_INGRESEEAGlobal_OS1.0.4.0.ULJEUXM_0dacc430d2_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.4.0.ULJEUXM
+- android: '14.0'
+  codename: ingres
   date: '2024-07-12'
   download: https://bigota.d.miui.com/OS1.0.3.0.ULJCNXM/fw_ingres_miui_INGRES_OS1.0.3.0.ULJCNXM_116116aa90_14.0.zip
   name: Redmi K50G/POCO F4 GT
@@ -2490,6 +2502,12 @@
   version: OS1.0.1.0.ULMEUXM
 - android: '14.0'
   codename: munch
+  date: '2024-08-12'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULMEUXM/fw_munch_miui_MUNCHEEAGlobal_OS1.0.3.0.ULMEUXM_833573c38d_14.0.zip
+  name: Redmi K40S/POCO F4
+  version: OS1.0.3.0.ULMEUXM
+- android: '14.0'
+  codename: munch
   date: '2024-08-08'
   download: https://bigota.d.miui.com/OS1.0.3.0.ULMINXM/fw_munch_miui_MUNCHINGlobal_OS1.0.3.0.ULMINXM_23001b31f0_14.0.zip
   name: Redmi K40S/POCO F4
@@ -2892,6 +2910,12 @@
   version: OS1.0.3.0.TKTMIXM
 - android: '13.0'
   codename: pissarro
+  date: '2024-08-12'
+  download: https://bigota.d.miui.com/OS1.0.4.0.TKTEUXM/fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.4.0.TKTEUXM_fa82b665c5_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: OS1.0.4.0.TKTEUXM
+- android: '13.0'
+  codename: pissarro
   date: '2024-07-08'
   download: https://bigota.d.miui.com/OS1.0.3.0.TKTEUXM/fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.3.0.TKTEUXM_73c66a7832_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
@@ -3078,6 +3102,12 @@
   version: OS1.0.3.0.UMSCNXM
 - android: '14.0'
   codename: redwood
+  date: '2024-08-12'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMSCNXM/fw_redwood_miui_REDWOOD_OS1.0.8.0.UMSCNXM_5c8d46f15f_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.8.0.UMSCNXM
+- android: '14.0'
+  codename: redwood
   date: '2024-04-07'
   download: https://bigota.d.miui.com/OS1.0.3.0.UMSINXM/fw_redwood_miui_REDWOODINGlobal_OS1.0.3.0.UMSINXM_c21a661eda_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
@@ -3196,6 +3226,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULUMIXM/fw_rock_miui_ROCKGlobal_OS1.0.2.0.ULUMIXM_9efe5227fe_14.0.zip
   name: POCO M5/Redmi 11 Prime 4G
   version: OS1.0.2.0.ULUMIXM
+- android: '14.0'
+  codename: rock
+  date: '2024-08-12'
+  download: https://bigota.d.miui.com/OS1.0.7.0.ULUINXM/fw_rock_miui_ROCKINGlobal_OS1.0.7.0.ULUINXM_cd8fd65d60_14.0.zip
+  name: POCO M5/Redmi 11 Prime 4G
+  version: OS1.0.7.0.ULUINXM
 - android: '14.0'
   codename: rock
   date: '2024-02-03'
@@ -3354,6 +3390,12 @@
   version: OS1.0.4.0.UMOCNXM
 - android: '14.0'
   codename: ruby
+  date: '2024-08-12'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMOEUXM/fw_ruby_miui_RUBYEEAGlobal_OS1.0.5.0.UMOEUXM_13e9d7e5cb_14.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS1.0.5.0.UMOEUXM
+- android: '14.0'
+  codename: ruby
   date: '2024-06-11'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMOEUXM/fw_ruby_miui_RUBYEEAGlobal_OS1.0.4.0.UMOEUXM_686c61a682_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
@@ -3418,6 +3460,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNGMIXM/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.4.0.UNGMIXM_c089e83324_14.0.zip
   name: Redmi Note 13
   version: OS1.0.4.0.UNGMIXM
+- android: '14.0'
+  codename: sapphire
+  date: '2024-08-12'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UNGMIXM/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.5.0.UNGMIXM_9c6a7a34bf_14.0.zip
+  name: Redmi Note 13
+  version: OS1.0.5.0.UNGMIXM
 - android: '14.0'
   codename: sapphire
   date: '2024-05-11'

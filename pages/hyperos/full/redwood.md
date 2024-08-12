@@ -53,6 +53,7 @@ permalink: /archive/hyperos/redwood/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Note 12 Pro Speed China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.8.0.UMSCNXM</td><td>14.0</td><td>5.6 GB</td><td>2024-08-08</td><td><a href="/hyperos/redwood/stable beta/OS1.0.8.0.UMSCNXM/">Download</a></td></tr>
+<tr><td>POCO X5 Pro 5G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UMSTRXM</td><td>14.0</td><td>4.9 GB</td><td>2024-08-08</td><td><a href="/hyperos/redwood/stable beta/OS1.0.4.0.UMSTRXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMSTWXM</td><td>14.0</td><td>4.9 GB</td><td>2024-07-25</td><td><a href="/hyperos/redwood/stable/OS1.0.4.0.UMSTWXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMSTWXM</td><td>14.0</td><td>6.7 GB</td><td>2024-07-15</td><td><a href="/hyperos/redwood/stable/OS1.0.4.0.UMSTWXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMSRUXM</td><td>14.0</td><td>4.9 GB</td><td>2024-07-23</td><td><a href="/hyperos/redwood/stable/OS1.0.4.0.UMSRUXM/">Download</a></td></tr>
@@ -101,10 +102,10 @@ permalink: /archive/hyperos/redwood/
 <tr><td>POCO X5 Pro 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UMSRUXM</td><td>14.0</td><td>4.9 GB</td><td>2024-02-18</td><td><a href="/hyperos/redwood/stable/OS1.0.1.0.UMSRUXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UMSTWXM</td><td>14.0</td><td>6.5 GB</td><td>2024-02-28</td><td><a href="/hyperos/redwood/stable/OS1.0.1.0.UMSTWXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UMSTWXM</td><td>14.0</td><td>4.8 GB</td><td>2024-02-18</td><td><a href="/hyperos/redwood/stable/OS1.0.1.0.UMSTWXM/">Download</a></td></tr>
-<tr><td>POCO X5 Pro 5G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UMSINXM</td><td>14.0</td><td>6.2 GB</td><td>2024-02-26</td><td><a href="/hyperos/redwood/stable/OS1.0.2.0.UMSINXM/">Download</a></td></tr>
-<tr><td>POCO X5 Pro 5G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UMSINXM</td><td>14.0</td><td>4.8 GB</td><td>2024-01-30</td><td><a href="/hyperos/redwood/stable/OS1.0.2.0.UMSINXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Indonesia</td><td>Stable Beta</td><td>Fastboot</td><td>OS1.0.2.0.UMSIDXM</td><td>14.0</td><td>7.0 GB</td><td>2024-02-02</td><td><a href="/hyperos/redwood/stable beta/OS1.0.2.0.UMSIDXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UMSIDXM</td><td>14.0</td><td>4.9 GB</td><td>2024-01-26</td><td><a href="/hyperos/redwood/stable beta/OS1.0.2.0.UMSIDXM/">Download</a></td></tr>
+<tr><td>POCO X5 Pro 5G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UMSINXM</td><td>14.0</td><td>6.2 GB</td><td>2024-02-26</td><td><a href="/hyperos/redwood/stable/OS1.0.2.0.UMSINXM/">Download</a></td></tr>
+<tr><td>POCO X5 Pro 5G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UMSINXM</td><td>14.0</td><td>4.8 GB</td><td>2024-01-30</td><td><a href="/hyperos/redwood/stable/OS1.0.2.0.UMSINXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UMSTRXM</td><td>14.0</td><td>4.9 GB</td><td>2024-02-18</td><td><a href="/hyperos/redwood/stable beta/OS1.0.1.0.UMSTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro Speed China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMSCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-02-02</td><td><a href="/hyperos/redwood/stable/OS1.0.4.0.UMSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro Speed China</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMSCNXM</td><td>14.0</td><td>5.6 GB</td><td>2024-01-26</td><td><a href="/hyperos/redwood/stable/OS1.0.4.0.UMSCNXM/">Download</a></td></tr>

@@ -78,7 +78,7 @@ permalink: /hyperos/aurora/stable beta/OS1.0.10.0.UNAMIXM/
                             aria-expanded="false" aria-controls="aurora_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="aurora_1_changelog">
-                        <p id="changelog_text">[System]<br>Optimization: Improved app preloading to enhance app startup speed<br>Optimization: New startup animation strategy makes apps launch faster<br>Fix: Some games crashed<br>Updated the security patch to August 2024. Increased system security.<br>[Floating windows]<br>Fix: Video apps weren't displayed correctly when switching screen orientation<br>Fix: The size of pinned floating windows for some games was incorrect<br>[Lock screen]<br>New: A switch for a feature that allows long pressing Home screen to edit it</p>
+                        <p id="changelog_text">[System]<br>Optimization: New startup animation strategy makes apps launch faster<br>Optimization: App launching algorithm speeds up app opening process<br>Fix: Some games crashed<br>Updated the security patch to August 2024. Increased system security.<br>[Floating windows]<br>Fix: Video apps weren't displayed correctly when switching screen orientation<br>Fix: The size of pinned floating windows for some games was incorrect<br>[Lock screen]<br>New: A switch for a feature that allows long pressing Home screen to edit it</p>
                     </div>
                 </li>
             </ul>
