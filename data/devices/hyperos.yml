@@ -3954,6 +3954,12 @@
   version: OS1.0.3.0.UKAINXM
 - android: '14.0'
   codename: star
+  date: '2024-08-12'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UKAINXM/fw_star_miui_STARINGlobal_OS1.0.4.0.UKAINXM_a2551baa90_14.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: OS1.0.4.0.UKAINXM
+- android: '14.0'
+  codename: star
   date: '2024-07-12'
   download: https://bigota.d.miui.com/OS1.0.2.0.UKAEUXM/fw_star_miui_STAREEAGlobal_OS1.0.2.0.UKAEUXM_c240ad2ac3_14.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
@@ -4098,6 +4104,12 @@
   version: OS1.0.7.0.ULIEUXM
 - android: '14.0'
   codename: taoyao
+  date: '2024-08-12'
+  download: https://bigota.d.miui.com/OS1.0.12.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.12.0.ULIEUXM_286fa7cf2e_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.12.0.ULIEUXM
+- android: '14.0'
+  codename: taoyao
   date: '2024-06-03'
   download: https://bigota.d.miui.com/OS1.0.10.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.10.0.ULIEUXM_68a74ddb9c_14.0.zip
   name: Xiaomi 12 Lite
@@ -4144,6 +4156,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMTINXM/fw_tapas_miui_TAPASINGlobal_OS1.0.4.0.UMTINXM_e26599e4e5_14.0.zip
   name: Redmi Note 12 4G
   version: OS1.0.4.0.UMTINXM
+- android: '14.0'
+  codename: tapas
+  date: '2024-08-12'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMTINXM/fw_tapas_miui_TAPASINGlobal_OS1.0.5.0.UMTINXM_83ecfa64de_14.0.zip
+  name: Redmi Note 12 4G
+  version: OS1.0.5.0.UMTINXM
 - android: '14.0'
   codename: tapas
   date: '2024-01-12'
@@ -4554,6 +4572,18 @@
   version: OS1.0.2.0.ULOINXM
 - android: '14.0'
   codename: xaga
+  date: '2024-08-13'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULOEUXM/fw_xaga_miui_XAGAEEAGlobal_OS1.0.4.0.ULOEUXM_9f69dac446_14.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS1.0.4.0.ULOEUXM
+- android: '14.0'
+  codename: xaga
+  date: '2024-08-13'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULOMIXM/fw_xaga_miui_XAGAGlobal_OS1.0.3.0.ULOMIXM_2039059443_14.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS1.0.3.0.ULOMIXM
+- android: '14.0'
+  codename: xaga
   date: '2024-08-03'
   download: https://bigota.d.miui.com/OS1.0.3.0.ULOCNXM/fw_xaga_miui_XAGA_OS1.0.3.0.ULOCNXM_ddae354606_14.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
@@ -4594,6 +4624,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UMUEUXM/fw_xun_miui_XUNEEAGlobal_OS1.0.1.0.UMUEUXM_9675f5ccd4_14.0.zip
   name: Redmi Pad SE
   version: OS1.0.1.0.UMUEUXM
+- android: '14.0'
+  codename: xun
+  date: '2024-08-13'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMUEUXM/fw_xun_miui_XUNEEAGlobal_OS1.0.3.0.UMUEUXM_aaefb98dfa_14.0.zip
+  name: Redmi Pad SE
+  version: OS1.0.3.0.UMUEUXM
 - android: '14.0'
   codename: xun
   date: '2024-05-10'
@@ -4858,6 +4894,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNOCNXM/fw_zircon_miui_ZIRCON_OS1.0.4.0.UNOCNXM_97a8daff31_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.4.0.UNOCNXM
+- android: '14.0'
+  codename: zircon
+  date: '2024-08-13'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UNOINXM/fw_zircon_miui_ZIRCONINGlobal_OS1.0.9.0.UNOINXM_aed271c5c9_14.0.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS1.0.9.0.UNOINXM
 - android: '14.0'
   codename: zircon
   date: '2024-07-11'

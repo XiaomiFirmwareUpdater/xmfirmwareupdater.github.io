@@ -659,6 +659,16 @@
     android: '13.0'
     miui: V14.0.6.0.TKACNXM
 - branch: stable
+  date: '2024-08-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-13.08.2024/fw_star_miui_STARINGlobal_OS1.0.4.0.UKAINXM_a2551baa90_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/star/fw_star_miui_STARINGlobal_OS1.0.4.0.UKAINXM_a2551baa90_14.0.zip
+  filename: fw_star_miui_STARINGlobal_OS1.0.4.0.UKAINXM_a2551baa90_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UKAINXM
+- branch: stable
   date: '2024-07-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-12.07.2024/fw_star_miui_STAREEAGlobal_OS1.0.2.0.UKAEUXM_c240ad2ac3_14.0.zip
