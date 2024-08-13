@@ -54,6 +54,7 @@ permalink: /archive/hyperos/spark/
                 <tbody>
                 <tr><td>Redmi Pad SE 4G 8.7 India</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UHYINXM</td><td>14.0</td><td>3.9 GB</td><td>2024-08-12</td><td><a href="/hyperos/spark/stable/OS1.0.1.0.UHYINXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 4G 8.7 India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UHYINXM</td><td>14.0</td><td>4.4 GB</td><td>2024-07-04</td><td><a href="/hyperos/spark/stable/OS1.0.1.0.UHYINXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE 4G 8.7 India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UHYINXM</td><td>14.0</td><td>4.4 GB</td><td>2024-08-05</td><td><a href="/hyperos/spark/stable/OS1.0.2.0.UHYINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

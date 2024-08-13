@@ -582,6 +582,12 @@
   version: OS1.0.8.0.ULCEUXM
 - android: '14.0'
   codename: cupid
+  date: '2024-08-13'
+  download: https://bigota.d.miui.com/OS1.0.7.0.ULCCNXM/fw_cupid_miui_CUPID_OS1.0.7.0.ULCCNXM_b131abf145_14.0.zip
+  name: Xiaomi 12
+  version: OS1.0.7.0.ULCCNXM
+- android: '14.0'
+  codename: cupid
   date: '2024-08-12'
   download: https://bigota.d.miui.com/OS1.0.11.0.ULCEUXM/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.11.0.ULCEUXM_f7ebb14448_14.0.zip
   name: Xiaomi 12
