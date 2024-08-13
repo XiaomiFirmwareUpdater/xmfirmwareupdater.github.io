@@ -56,8 +56,10 @@ permalink: /hyperos/venus/
 <tr><td>Mi 11 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UKBCNXM</td><td>14.0</td><td>5.7 GB</td><td>2024-07-15</td><td><a href="/hyperos/venus/stable/OS1.0.3.0.UKBCNXM/">Download</a></td></tr>
 <tr><td>Mi 11 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UKBEUXM</td><td>14.0</td><td>6.5 GB</td><td>2024-06-13</td><td><a href="/hyperos/venus/stable/OS1.0.3.0.UKBEUXM/">Download</a></td></tr>
 <tr><td>Mi 11 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UKBEUXM</td><td>14.0</td><td>5.0 GB</td><td>2024-06-24</td><td><a href="/hyperos/venus/stable/OS1.0.3.0.UKBEUXM/">Download</a></td></tr>
+<tr><td>Mi 11 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.UKBEUXM</td><td>14.0</td><td>5.0 GB</td><td>2024-08-09</td><td><a href="/hyperos/venus/stable beta/OS1.0.5.0.UKBEUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UKBMIXM</td><td>14.0</td><td>6.4 GB</td><td>2024-06-13</td><td><a href="/hyperos/venus/stable/OS1.0.3.0.UKBMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UKBMIXM</td><td>14.0</td><td>5.0 GB</td><td>2024-06-25</td><td><a href="/hyperos/venus/stable/OS1.0.3.0.UKBMIXM/">Download</a></td></tr>
+<tr><td>Mi 11 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.UKBMIXM</td><td>14.0</td><td>5.0 GB</td><td>2024-08-09</td><td><a href="/hyperos/venus/stable beta/OS1.0.5.0.UKBMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UKBIDXM</td><td>14.0</td><td>6.2 GB</td><td>2024-07-11</td><td><a href="/hyperos/venus/stable/OS1.0.2.0.UKBIDXM/">Download</a></td></tr>
 <tr><td>Mi 11 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UKBIDXM</td><td>14.0</td><td>5.0 GB</td><td>2024-07-29</td><td><a href="/hyperos/venus/stable/OS1.0.2.0.UKBIDXM/">Download</a></td></tr>
 <tr><td>Mi 11 Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UKBRUXM</td><td>14.0</td><td>6.3 GB</td><td>2024-07-09</td><td><a href="/hyperos/venus/stable/OS1.0.2.0.UKBRUXM/">Download</a></td></tr>
