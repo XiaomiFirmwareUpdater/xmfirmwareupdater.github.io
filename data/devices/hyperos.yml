@@ -1854,6 +1854,12 @@
   version: OS1.0.3.0.ULJEUXM
 - android: '14.0'
   codename: ingres
+  date: '2024-08-14'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULJCNXM/fw_ingres_miui_INGRES_OS1.0.4.0.ULJCNXM_b6a1dd4d29_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.4.0.ULJCNXM
+- android: '14.0'
+  codename: ingres
   date: '2024-08-12'
   download: https://bigota.d.miui.com/OS1.0.4.0.ULJEUXM/fw_ingres_miui_INGRESEEAGlobal_OS1.0.4.0.ULJEUXM_0dacc430d2_14.0.zip
   name: Redmi K50G/POCO F4 GT
@@ -2220,6 +2226,12 @@
   version: OS1.0.7.0.UMREUXM
 - android: '14.0'
   codename: marble
+  date: '2024-08-14'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMRMIXM/fw_marble_miui_MARBLEGlobal_OS1.0.7.0.UMRMIXM_323d68c175_14.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS1.0.7.0.UMRMIXM
+- android: '14.0'
+  codename: marble
   date: '2024-01-12'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMRMIXM/fw_marble_miui_MARBLEGlobal_OS1.0.2.0.UMRMIXM_5e39b4ed67_14.0.zip
   name: Redmi Note 12 Turbo/POCO F5
@@ -2380,6 +2392,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMNEUXM/fw_mondrian_miui_MONDRIANEEAGlobal_OS1.0.5.0.UMNEUXM_15078e7e61_14.0.zip
   name: Redmi K60/POCO F5 Pro
   version: OS1.0.5.0.UMNEUXM
+- android: '14.0'
+  codename: mondrian
+  date: '2024-08-14'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMNEUXM/fw_mondrian_miui_MONDRIANEEAGlobal_OS1.0.6.0.UMNEUXM_8c0f7d8e47_14.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS1.0.6.0.UMNEUXM
 - android: '14.0'
   codename: mondrian
   date: '2024-01-12'
@@ -2698,6 +2716,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMBEUXM/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.5.0.UMBEUXM_f32da7f334_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.5.0.UMBEUXM
+- android: '14.0'
+  codename: nuwa
+  date: '2024-08-14'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMBEUXM/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.7.0.UMBEUXM_ab1eab36df_14.0.zip
+  name: Xiaomi 13 Pro
+  version: OS1.0.7.0.UMBEUXM
 - android: '14.0'
   codename: nuwa
   date: '2024-01-12'

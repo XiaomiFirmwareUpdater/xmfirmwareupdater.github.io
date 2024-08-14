@@ -57,9 +57,8 @@ permalink: /hyperos/munch/
 <tr><td>POCO F4 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULMEUXM</td><td>14.0</td><td>6.2 GB</td><td>2024-06-18</td><td><a href="/hyperos/munch/stable/OS1.0.2.0.ULMEUXM/">Download</a></td></tr>
 <tr><td>POCO F4 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULMEUXM</td><td>14.0</td><td>4.6 GB</td><td>2024-07-04</td><td><a href="/hyperos/munch/stable/OS1.0.2.0.ULMEUXM/">Download</a></td></tr>
 <tr><td>POCO F4 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.ULMEUXM</td><td>14.0</td><td>4.6 GB</td><td>2024-08-07</td><td><a href="/hyperos/munch/stable beta/OS1.0.3.0.ULMEUXM/">Download</a></td></tr>
-<tr><td>POCO F4 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULMMIXM</td><td>14.0</td><td>6.4 GB</td><td>2024-06-03</td><td><a href="/hyperos/munch/stable/OS1.0.2.0.ULMMIXM/">Download</a></td></tr>
-<tr><td>POCO F4 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULMMIXM</td><td>14.0</td><td>4.6 GB</td><td>2024-06-12</td><td><a href="/hyperos/munch/stable/OS1.0.2.0.ULMMIXM/">Download</a></td></tr>
-<tr><td>POCO F4 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.ULMMIXM</td><td>14.0</td><td>4.6 GB</td><td>2024-07-30</td><td><a href="/hyperos/munch/stable beta/OS1.0.3.0.ULMMIXM/">Download</a></td></tr>
+<tr><td>POCO F4 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.ULMMIXM</td><td>14.0</td><td>6.4 GB</td><td>2024-07-15</td><td><a href="/hyperos/munch/stable/OS1.0.3.0.ULMMIXM/">Download</a></td></tr>
+<tr><td>POCO F4 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.ULMMIXM</td><td>14.0</td><td>4.6 GB</td><td>2024-07-30</td><td><a href="/hyperos/munch/stable/OS1.0.3.0.ULMMIXM/">Download</a></td></tr>
 <tr><td>POCO F4 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULMIDXM</td><td>14.0</td><td>6.1 GB</td><td>2024-06-11</td><td><a href="/hyperos/munch/stable/OS1.0.2.0.ULMIDXM/">Download</a></td></tr>
 <tr><td>POCO F4 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULMIDXM</td><td>14.0</td><td>4.6 GB</td><td>2024-06-20</td><td><a href="/hyperos/munch/stable/OS1.0.2.0.ULMIDXM/">Download</a></td></tr>
 <tr><td>POCO F4 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.ULMIDXM</td><td>14.0</td><td>4.6 GB</td><td>2024-08-05</td><td><a href="/hyperos/munch/stable beta/OS1.0.3.0.ULMIDXM/">Download</a></td></tr>
