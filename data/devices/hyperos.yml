@@ -3000,6 +3000,12 @@
   version: OS1.0.3.0.TKTMIXM
 - android: '13.0'
   codename: pissarro
+  date: '2024-08-15'
+  download: https://bigota.d.miui.com/OS1.0.4.0.TKTINXM/fw_pissarro_miui_PISSARROINGlobal_OS1.0.4.0.TKTINXM_bd75e8bbb9_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: OS1.0.4.0.TKTINXM
+- android: '13.0'
+  codename: pissarro
   date: '2024-08-12'
   download: https://bigota.d.miui.com/OS1.0.4.0.TKTEUXM/fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.4.0.TKTEUXM_fa82b665c5_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
