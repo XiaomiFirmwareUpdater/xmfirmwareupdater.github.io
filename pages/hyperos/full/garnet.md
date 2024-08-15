@@ -52,7 +52,8 @@ permalink: /archive/hyperos/garnet/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 13 Pro 5G / POCO X6 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.16.0.UNREUXM</td><td>14.0</td><td>5.2 GB</td><td>2024-08-01</td><td><a href="/hyperos/garnet/stable beta/OS1.0.16.0.UNREUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 13 Pro 5G / POCO X6 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.10.0.UNRINXM</td><td>14.0</td><td>4.8 GB</td><td>2024-08-12</td><td><a href="/hyperos/garnet/stable beta/OS1.0.10.0.UNRINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 5G / POCO X6 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.16.0.UNREUXM</td><td>14.0</td><td>5.2 GB</td><td>2024-08-01</td><td><a href="/hyperos/garnet/stable beta/OS1.0.16.0.UNREUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 5G / POCO X6 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNRTRXM</td><td>14.0</td><td>5.0 GB</td><td>2024-07-22</td><td><a href="/hyperos/garnet/stable/OS1.0.3.0.UNRTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 5G / POCO X6 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UNRTRXM</td><td>14.0</td><td>7.0 GB</td><td>2024-06-28</td><td><a href="/hyperos/garnet/stable/OS1.0.3.0.UNRTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 5G / POCO X6 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNRTWXM</td><td>14.0</td><td>4.9 GB</td><td>2024-07-17</td><td><a href="/hyperos/garnet/stable/OS1.0.3.0.UNRTWXM/">Download</a></td></tr>

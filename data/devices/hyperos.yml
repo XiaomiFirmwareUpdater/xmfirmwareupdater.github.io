@@ -2940,6 +2940,12 @@
   version: OS1.0.5.0.UMZEUXM
 - android: '14.0'
   codename: pipa
+  date: '2024-08-14'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.8.0.UMZCNXM_183443e0a5_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.8.0.UMZCNXM
+- android: '14.0'
+  codename: pipa
   date: '2024-04-07'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.5.0.UMZCNXM_aa9825df2f_14.0.zip
   name: Xiaomi Pad 6
@@ -3342,6 +3348,12 @@
   version: OS1.0.13.0.UNNCNXM
 - android: '14.0'
   codename: rothko
+  date: '2024-08-14'
+  download: https://bigota.d.miui.com/OS1.0.22.0.UNNCNXM/fw_rothko_miui_ROTHKO_OS1.0.22.0.UNNCNXM_3ce3b8e10c_14.0.zip
+  name: Redmi K70 Ultra
+  version: OS1.0.22.0.UNNCNXM
+- android: '14.0'
+  codename: rothko
   date: '2024-08-07'
   download: https://bigota.d.miui.com/OS1.0.20.0.UNNCNXM/fw_rothko_miui_ROTHKO_OS1.0.20.0.UNNCNXM_dea22370a9_14.0.zip
   name: Redmi K70 Ultra
@@ -3684,6 +3696,12 @@
   version: OS1.0.4.0.UNXEUXM
 - android: '14.0'
   codename: sheng
+  date: '2024-08-15'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UNXCNXM/fw_sheng_miui_SHENG_OS1.0.9.0.UNXCNXM_031ec69427_14.0.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS1.0.9.0.UNXCNXM
+- android: '14.0'
+  codename: sheng
   date: '2024-03-12'
   download: https://bigota.d.miui.com/OS1.0.5.0.UNXCNXM/fw_sheng_miui_SHENG_OS1.0.5.0.UNXCNXM_c360e030b8_14.0.zip
   name: Xiaomi Pad 6S Pro 12.4
@@ -3952,6 +3970,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UMKCNXM/fw_socrates_miui_SOCRATES_OS1.0.9.0.UMKCNXM_6cbb77eede_14.0.zip
   name: Redmi K60 Pro
   version: OS1.0.9.0.UMKCNXM
+- android: '14.0'
+  codename: spark
+  date: '2024-08-15'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UHYINXM/fw_spark_miui_SPARKINGlobal_OS1.0.2.0.UHYINXM_9c5c84380e_14.0.zip
+  name: Redmi Pad SE 4G 8.7
+  version: OS1.0.2.0.UHYINXM
 - android: '13.0'
   codename: spes
   date: '2024-06-24'
@@ -4398,6 +4422,18 @@
   version: OS1.0.3.0.UKBCNXM
 - android: '14.0'
   codename: venus
+  date: '2024-08-15'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UKBEUXM/fw_venus_miui_VENUSEEAGlobal_OS1.0.5.0.UKBEUXM_8173c46b72_14.0.zip
+  name: Mi 11
+  version: OS1.0.5.0.UKBEUXM
+- android: '14.0'
+  codename: venus
+  date: '2024-08-15'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UKBMIXM/fw_venus_miui_VENUSGlobal_OS1.0.5.0.UKBMIXM_b120c83200_14.0.zip
+  name: Mi 11
+  version: OS1.0.5.0.UKBMIXM
+- android: '14.0'
+  codename: venus
   date: '2024-07-01'
   download: https://bigota.d.miui.com/OS1.0.3.0.UKBMIXM/fw_venus_miui_VENUSGlobal_OS1.0.3.0.UKBMIXM_1eb20d7656_14.0.zip
   name: Mi 11
@@ -4528,6 +4564,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.TKCMIXM/fw_veux_miui_VEUXGlobal_OS1.0.5.0.TKCMIXM_4c1b604650_13.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
   version: OS1.0.5.0.TKCMIXM
+- android: '13.0'
+  codename: veux
+  date: '2024-08-15'
+  download: https://bigota.d.miui.com/OS1.0.2.0.TKCINXM/fw_veux_miui_VEUXINGlobal_OS1.0.2.0.TKCINXM_2e7fa14cdf_13.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: OS1.0.2.0.TKCINXM
 - android: '13.0'
   codename: veux
   date: '2024-04-02'
