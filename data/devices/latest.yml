@@ -1319,15 +1319,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2024-07-19'
+  date: '2024-08-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-19.07.2024/fw_diting_miui_DITINGGlobal_OS1.0.5.0.ULFMIXM_d6847d12c9_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/diting/fw_diting_miui_DITINGGlobal_OS1.0.5.0.ULFMIXM_d6847d12c9_14.0.zip
-  filename: fw_diting_miui_DITINGGlobal_OS1.0.5.0.ULFMIXM_d6847d12c9_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-17.08.2024/fw_diting_miui_DITINGGlobal_OS1.0.6.0.ULFMIXM_4edbe14bc2_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/diting/fw_diting_miui_DITINGGlobal_OS1.0.6.0.ULFMIXM_4edbe14bc2_14.0.zip
+  filename: fw_diting_miui_DITINGGlobal_OS1.0.6.0.ULFMIXM_4edbe14bc2_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.ULFMIXM
+    miui: OS1.0.6.0.ULFMIXM
 - branch: stable
   date: '2024-08-08'
   downloads:
@@ -5259,15 +5259,15 @@
     android: '14.0'
     miui: OS1.0.5.0.UMTINXM
 - branch: stable
-  date: '2024-08-03'
+  date: '2024-08-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-03.08.2024/fw_thor_miui_THOR_OS1.0.6.0.ULACNXM_99e5738060_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/thor/fw_thor_miui_THOR_OS1.0.6.0.ULACNXM_99e5738060_14.0.zip
-  filename: fw_thor_miui_THOR_OS1.0.6.0.ULACNXM_99e5738060_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-17.08.2024/fw_thor_miui_THOR_OS1.0.7.0.ULACNXM_3300674e49_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/thor/fw_thor_miui_THOR_OS1.0.7.0.ULACNXM_3300674e49_14.0.zip
+  filename: fw_thor_miui_THOR_OS1.0.7.0.ULACNXM_3300674e49_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.ULACNXM
+    miui: OS1.0.7.0.ULACNXM
 - branch: stable
   date: '2024-06-12'
   downloads:

@@ -726,6 +726,12 @@
   version: OS1.0.2.0.ULFMIXM
 - android: '14.0'
   codename: diting
+  date: '2024-08-16'
+  download: https://bigota.d.miui.com/OS1.0.6.0.ULFMIXM/fw_diting_miui_DITINGGlobal_OS1.0.6.0.ULFMIXM_4edbe14bc2_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.6.0.ULFMIXM
+- android: '14.0'
+  codename: diting
   date: '2024-04-16'
   download: https://bigota.d.miui.com/OS1.0.3.0.ULFEUXM/fw_diting_miui_DITINGEEAGlobal_OS1.0.3.0.ULFEUXM_c53db31bc4_14.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
@@ -4300,6 +4306,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.ULACNXM/fw_thor_miui_THOR_OS1.0.5.0.ULACNXM_5282e8adc1_14.0.zip
   name: Xiaomi 12S Ultra
   version: OS1.0.5.0.ULACNXM
+- android: '14.0'
+  codename: thor
+  date: '2024-08-16'
+  download: https://bigota.d.miui.com/OS1.0.7.0.ULACNXM/fw_thor_miui_THOR_OS1.0.7.0.ULACNXM_3300674e49_14.0.zip
+  name: Xiaomi 12S Ultra
+  version: OS1.0.7.0.ULACNXM
 - android: '14.0'
   codename: thor
   date: '2024-08-03'
