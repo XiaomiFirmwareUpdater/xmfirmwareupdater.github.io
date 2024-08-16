@@ -52,7 +52,8 @@ permalink: /archive/hyperos/zijin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Civi 1S China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULPCNXM</td><td>14.0</td><td>5.7 GB</td><td>2024-05-09</td><td><a href="/hyperos/zijin/stable/OS1.0.2.0.ULPCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Civi 1S China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.ULPCNXM</td><td>14.0</td><td>5.7 GB</td><td>2024-08-12</td><td><a href="/hyperos/zijin/stable beta/OS1.0.3.0.ULPCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 1S China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULPCNXM</td><td>14.0</td><td>5.7 GB</td><td>2024-05-09</td><td><a href="/hyperos/zijin/stable/OS1.0.2.0.ULPCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 1S China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULPCNXM</td><td>14.0</td><td>7.2 GB</td><td>2024-04-25</td><td><a href="/hyperos/zijin/stable/OS1.0.2.0.ULPCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 1S China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.ULPCNXM</td><td>14.0</td><td>5.7 GB</td><td>2024-02-27</td><td><a href="/hyperos/zijin/stable beta/OS1.0.1.0.ULPCNXM/">Download</a></td></tr>
 

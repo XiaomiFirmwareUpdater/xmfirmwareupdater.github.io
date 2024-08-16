@@ -55,6 +55,7 @@ permalink: /hyperos/thor/
                 <tr><td>Xiaomi 12S Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.ULACNXM</td><td>14.0</td><td>7.5 GB</td><td>2024-07-18</td><td><a href="/hyperos/thor/stable/OS1.0.6.0.ULACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.ULACNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-07-30</td><td><a href="/hyperos/thor/stable/OS1.0.6.0.ULACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Ultra China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>6.0 GB</td><td>2024-01-12</td><td><a href="/hyperos/thor/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 12S Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.ULACNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-08-08</td><td><a href="/hyperos/thor/stable beta/OS1.0.7.0.ULACNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
