@@ -29,12 +29,12 @@
     android: '12.0'
     miui: 22.3.24
 - branch: stable
-  date: '2024-04-15'
+  date: '2024-08-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-16.04.2024/fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.1.0.TLDEUXM_2f5189f931_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/psyche/fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.1.0.TLDEUXM_2f5189f931_13.0.zip
-  filename: fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.1.0.TLDEUXM_2f5189f931_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-17.08.2024/fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.4.0.TLDEUXM_1029beae22_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/psyche/fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.4.0.TLDEUXM_1029beae22_13.0.zip
+  filename: fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.4.0.TLDEUXM_1029beae22_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: OS1.0.1.0.TLDEUXM
+    miui: OS1.0.4.0.TLDEUXM
