@@ -990,6 +990,12 @@
   version: OS1.0.4.0.UCVINXM
 - android: '14.0'
   codename: earth
+  date: '2024-08-18'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UCVMIXM/fw_earth_miui_EARTHGlobal_OS1.0.6.0.UCVMIXM_6472bc4245_14.0.zip
+  name: Redmi 12C/POCO C55
+  version: OS1.0.6.0.UCVMIXM
+- android: '14.0'
+  codename: earth
   date: '2024-03-18'
   download: https://bigota.d.miui.com/OS1.0.3.0.UCVINXM/fw_earth_miui_EARTHINGlobal_OS1.0.3.0.UCVINXM_56e9f15fb1_14.0.zip
   name: Redmi 12C/POCO C55
