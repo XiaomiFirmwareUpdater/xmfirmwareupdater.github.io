@@ -1554,6 +1554,12 @@
   version: OS1.0.8.0.UNQINXM
 - android: '14.0'
   codename: gold
+  date: '2024-08-18'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UNQCNXM/fw_gold_miui_GOLD_OS1.0.3.0.UNQCNXM_28fcdf7bdc_14.0.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS1.0.3.0.UNQCNXM
+- android: '14.0'
+  codename: gold
   date: '2024-06-18'
   download: https://bigota.d.miui.com/OS1.0.2.0.UNQCNXM/fw_gold_miui_GOLD_OS1.0.2.0.UNQCNXM_98bd3203bc_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
@@ -4612,6 +4618,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.TKCINXM/fw_veux_miui_VEUXINGlobal_OS1.0.1.0.TKCINXM_76019c6c0f_13.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
   version: OS1.0.1.0.TKCINXM
+- android: '13.0'
+  codename: veux
+  date: '2024-08-18'
+  download: https://bigota.d.miui.com/OS1.0.3.0.TKCCNXM/fw_veux_miui_VEUX_OS1.0.3.0.TKCCNXM_56f027a68b_13.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: OS1.0.3.0.TKCCNXM
 - android: '13.0'
   codename: veux
   date: '2024-07-17'
