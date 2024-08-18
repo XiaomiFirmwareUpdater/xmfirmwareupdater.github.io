@@ -2309,36 +2309,6 @@
     android: '5.1'
     miui: V9.5.2.0.LAICNFA
 - branch: stable
-  date: '2024-08-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-05.08.2024/fw_ingres_miui_INGRESGlobal_OS1.0.4.0.ULJMIXM_de9d3d6fc5_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ingres/fw_ingres_miui_INGRESGlobal_OS1.0.4.0.ULJMIXM_de9d3d6fc5_14.0.zip
-  filename: fw_ingres_miui_INGRESGlobal_OS1.0.4.0.ULJMIXM_de9d3d6fc5_14.0.zip
-  region: Global
-  versions:
-    android: '14.0'
-    miui: OS1.0.4.0.ULJMIXM
-- branch: stable
-  date: '2024-08-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-14.08.2024/fw_ingres_miui_INGRES_OS1.0.4.0.ULJCNXM_b6a1dd4d29_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ingres/fw_ingres_miui_INGRES_OS1.0.4.0.ULJCNXM_b6a1dd4d29_14.0.zip
-  filename: fw_ingres_miui_INGRES_OS1.0.4.0.ULJCNXM_b6a1dd4d29_14.0.zip
-  region: China
-  versions:
-    android: '14.0'
-    miui: OS1.0.4.0.ULJCNXM
-- branch: stable
-  date: '2024-08-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-12.08.2024/fw_ingres_miui_INGRESEEAGlobal_OS1.0.4.0.ULJEUXM_0dacc430d2_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ingres/fw_ingres_miui_INGRESEEAGlobal_OS1.0.4.0.ULJEUXM_0dacc430d2_14.0.zip
-  filename: fw_ingres_miui_INGRESEEAGlobal_OS1.0.4.0.ULJEUXM_0dacc430d2_14.0.zip
-  region: Europe
-  versions:
-    android: '14.0'
-    miui: OS1.0.4.0.ULJEUXM
-- branch: stable
   date: '2024-07-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-28.07.2024/fw_ishtar_miui_ISHTARGlobal_OS1.0.8.0.UMAMIXM_223430792c_14.0.zip
@@ -2498,26 +2468,6 @@
   versions:
     android: '6.0'
     miui: 8.11.22
-- branch: stable
-  date: '2024-07-30'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klein/releases/download/stable-31.07.2024/fw_kle_miui_KLEINGlobal_V816.0.4.0.UGSMIXM_5abb651606_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V816/klein/fw_kle_miui_KLEINGlobal_V816.0.4.0.UGSMIXM_5abb651606_14.0.zip
-  filename: fw_kle_miui_KLEINGlobal_V816.0.4.0.UGSMIXM_5abb651606_14.0.zip
-  region: Global
-  versions:
-    android: '14.0'
-    miui: V816.0.4.0.UGSMIXM
-- branch: stable
-  date: '2024-07-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klein/releases/download/stable-14.07.2024/fw_klein_miui_KLEININGlobal_V816.0.4.0.UGSINXM_359600066b_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V816/klein/fw_klein_miui_KLEININGlobal_V816.0.4.0.UGSINXM_359600066b_14.0.zip
-  filename: fw_klein_miui_KLEININGlobal_V816.0.4.0.UGSINXM_359600066b_14.0.zip
-  region: India
-  versions:
-    android: '14.0'
-    miui: V816.0.4.0.UGSINXM
 - branch: stable
   date: '2023-02-03'
   downloads:
