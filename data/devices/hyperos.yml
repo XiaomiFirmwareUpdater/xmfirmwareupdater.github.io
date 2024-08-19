@@ -648,6 +648,12 @@
   version: OS1.0.4.0.ULZCNXM
 - android: '14.0'
   codename: daumier
+  date: '2024-08-19'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULGCNXM/fw_daumier_miui_DAUMIER_OS1.0.5.0.ULGCNXM_af47cd206c_14.0.zip
+  name: Xiaomi 12 Pro Dimensity
+  version: OS1.0.5.0.ULGCNXM
+- android: '14.0'
+  codename: daumier
   date: '2024-06-18'
   download: https://bigota.d.miui.com/OS1.0.3.0.ULGCNXM/fw_daumier_miui_DAUMIER_OS1.0.3.0.ULGCNXM_37745ae543_14.0.zip
   name: Xiaomi 12 Pro Dimensity
@@ -2352,6 +2358,12 @@
   version: OS1.0.5.0.ULKCNXM
 - android: '14.0'
   codename: matisse
+  date: '2024-08-19'
+  download: https://bigota.d.miui.com/OS1.0.8.0.ULKCNXM/fw_matisse_miui_MATISSE_OS1.0.8.0.ULKCNXM_1a8813190f_14.0.zip
+  name: Redmi K50 Pro
+  version: OS1.0.8.0.ULKCNXM
+- android: '14.0'
+  codename: matisse
   date: '2024-02-18'
   download: https://bigota.d.miui.com/OS1.0.2.0.ULKCNXM/fw_matisse_miui_MATISSE_OS1.0.2.0.ULKCNXM_1defcda6ec_14.0.zip
   name: Redmi K50 Pro
@@ -2422,6 +2434,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMNCNXM/fw_mondrian_miui_MONDRIAN_OS1.0.2.0.UMNCNXM_39d36cb035_14.0.zip
   name: Redmi K60/POCO F5 Pro
   version: OS1.0.2.0.UMNCNXM
+- android: '14.0'
+  codename: mondrian
+  date: '2024-08-19'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UMNCNXM/fw_mondrian_miui_MONDRIAN_OS1.0.12.0.UMNCNXM_738baea10c_14.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS1.0.12.0.UMNCNXM
 - android: '14.0'
   codename: mondrian
   date: '2024-06-18'
