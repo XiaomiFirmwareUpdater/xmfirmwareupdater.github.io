@@ -846,6 +846,18 @@
   version: OS1.0.5.0.UNLINXM
 - android: '14.0'
   codename: duchamp
+  date: '2024-08-19'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UNLMIXM/fw_duchamp_miui_DUCHAMPGlobal_OS1.0.10.0.UNLMIXM_4d63180e8b_14.0.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS1.0.10.0.UNLMIXM
+- android: '14.0'
+  codename: duchamp
+  date: '2024-08-19'
+  download: https://bigota.d.miui.com/OS1.0.17.0.UNLCNXM/fw_duchamp_miui_DUCHAMP_OS1.0.17.0.UNLCNXM_5dc50b9f9e_14.0.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS1.0.17.0.UNLCNXM
+- android: '14.0'
+  codename: duchamp
   date: '2024-03-19'
   download: https://bigota.d.miui.com/OS1.0.13.0.UNLCNXM/fw_duchamp_miui_DUCHAMP_OS1.0.13.0.UNLCNXM_64192ba74c_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
@@ -1853,6 +1865,78 @@
   name: Xiaomi 14
   version: OS1.0.14.0.UNCCNXM
 - android: '14.0'
+  codename: ingres
+  date: '2024-04-29'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULJEUXM/fw_ingres_miui_INGRESEEAGlobal_OS1.0.2.0.ULJEUXM_2592da0b46_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.2.0.ULJEUXM
+- android: '14.0'
+  codename: ingres
+  date: '2024-06-25'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULJMIXM/fw_ingres_miui_INGRESGlobal_OS1.0.3.0.ULJMIXM_d400678846_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.3.0.ULJMIXM
+- android: '14.0'
+  codename: ingres
+  date: '2024-01-18'
+  download: https://bigota.d.miui.com/OS1.0.1.0.ULJCNXM/fw_ingres_miui_INGRES_OS1.0.1.0.ULJCNXM_fde249c2db_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.1.0.ULJCNXM
+- android: '14.0'
+  codename: ingres
+  date: '2024-04-15'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULJMIXM/fw_ingres_miui_INGRESGlobal_OS1.0.2.0.ULJMIXM_077719a50c_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.2.0.ULJMIXM
+- android: '14.0'
+  codename: ingres
+  date: '2024-07-15'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULJEUXM/fw_ingres_miui_INGRESEEAGlobal_OS1.0.3.0.ULJEUXM_ac3dbfb377_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.3.0.ULJEUXM
+- android: '14.0'
+  codename: ingres
+  date: '2024-08-14'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULJCNXM/fw_ingres_miui_INGRES_OS1.0.4.0.ULJCNXM_b6a1dd4d29_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.4.0.ULJCNXM
+- android: '14.0'
+  codename: ingres
+  date: '2024-08-12'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULJEUXM/fw_ingres_miui_INGRESEEAGlobal_OS1.0.4.0.ULJEUXM_0dacc430d2_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.4.0.ULJEUXM
+- android: '14.0'
+  codename: ingres
+  date: '2024-07-12'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULJCNXM/fw_ingres_miui_INGRES_OS1.0.3.0.ULJCNXM_116116aa90_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.3.0.ULJCNXM
+- android: '14.0'
+  codename: ingres
+  date: '2024-04-09'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULJCNXM/fw_ingres_miui_INGRES_OS1.0.2.0.ULJCNXM_b4d2b9c601_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.2.0.ULJCNXM
+- android: '14.0'
+  codename: ingres
+  date: '2024-08-05'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULJMIXM/fw_ingres_miui_INGRESGlobal_OS1.0.4.0.ULJMIXM_de9d3d6fc5_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.4.0.ULJMIXM
+- android: '14.0'
+  codename: ingres
+  date: '2024-03-01'
+  download: https://bigota.d.miui.com/OS1.0.1.0.ULJEUXM/fw_ingres_miui_INGRESEEAGlobal_OS1.0.1.0.ULJEUXM_ababc8e39e_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.1.0.ULJEUXM
+- android: '14.0'
+  codename: ingres
+  date: '2024-02-01'
+  download: https://bigota.d.miui.com/OS1.0.1.0.ULJMIXM/fw_ingres_miui_INGRESGlobal_OS1.0.1.0.ULJMIXM_a21c48ed3d_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.1.0.ULJMIXM
+- android: '14.0'
   codename: ishtar
   date: '2024-01-31'
   download: https://bigota.d.miui.com/OS1.0.6.0.UMACNXM/fw_ishtar_miui_ISHTAR_OS1.0.6.0.UMACNXM_a4f5ee8a7c_14.0.zip
@@ -2038,6 +2122,18 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UKOCNXM/fw_lisa_miui_LISA_OS1.0.1.0.UKOCNXM_d2eb96aaa6_14.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
   version: OS1.0.1.0.UKOCNXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-08-19'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UKOMIXM/fw_lisa_miui_LISAGlobal_OS1.0.5.0.UKOMIXM_5bb7b78a99_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.5.0.UKOMIXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-08-19'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UKOINXM/fw_lisa_miui_LISAINGlobal_OS1.0.5.0.UKOINXM_6b9681a8df_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.5.0.UKOINXM
 - android: '14.0'
   codename: lisa
   date: '2024-04-19'
@@ -2518,6 +2614,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.ULMCNXM/fw_munch_miui_MUNCH_OS1.0.1.0.ULMCNXM_f022829508_14.0.zip
   name: Redmi K40S/POCO F4
   version: OS1.0.1.0.ULMCNXM
+- android: '14.0'
+  codename: munch
+  date: '2024-08-19'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULMCNXM/fw_munch_miui_MUNCH_OS1.0.4.0.ULMCNXM_f1c69a25d9_14.0.zip
+  name: Redmi K40S/POCO F4
+  version: OS1.0.4.0.ULMCNXM
 - android: '14.0'
   codename: munch
   date: '2024-06-18'
