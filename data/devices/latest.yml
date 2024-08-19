@@ -3309,15 +3309,15 @@
     android: '14.0'
     miui: OS1.0.5.0.UMPINXM
 - branch: stable
-  date: '2024-08-05'
+  date: '2024-08-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-05.08.2024/fw_munch_miui_MUNCHGlobal_OS1.0.3.0.ULMMIXM_d3cf4793a1_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/munch/fw_munch_miui_MUNCHGlobal_OS1.0.3.0.ULMMIXM_d3cf4793a1_14.0.zip
-  filename: fw_munch_miui_MUNCHGlobal_OS1.0.3.0.ULMMIXM_d3cf4793a1_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-19.08.2024/fw_munch_miui_MUNCHGlobal_OS1.0.4.0.ULMMIXM_7d6a1823b1_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/munch/fw_munch_miui_MUNCHGlobal_OS1.0.4.0.ULMMIXM_7d6a1823b1_14.0.zip
+  filename: fw_munch_miui_MUNCHGlobal_OS1.0.4.0.ULMMIXM_7d6a1823b1_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.3.0.ULMMIXM
+    miui: OS1.0.4.0.ULMMIXM
 - branch: stable
   date: '2024-08-19'
   downloads:
@@ -3759,15 +3759,15 @@
     android: '14.0'
     miui: OS1.0.3.0.ULHCNXM
 - branch: stable
-  date: '2024-07-22'
+  date: '2024-08-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-22.07.2024/fw_peridot_miui_PERIDOTGlobal_OS1.0.5.0.UNPMIXM_61e5a146e4_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/peridot/fw_peridot_miui_PERIDOTGlobal_OS1.0.5.0.UNPMIXM_61e5a146e4_14.0.zip
-  filename: fw_peridot_miui_PERIDOTGlobal_OS1.0.5.0.UNPMIXM_61e5a146e4_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-19.08.2024/fw_peridot_miui_PERIDOTGlobal_OS1.0.7.0.UNPMIXM_d6be726bc9_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/peridot/fw_peridot_miui_PERIDOTGlobal_OS1.0.7.0.UNPMIXM_d6be726bc9_14.0.zip
+  filename: fw_peridot_miui_PERIDOTGlobal_OS1.0.7.0.UNPMIXM_d6be726bc9_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UNPMIXM
+    miui: OS1.0.7.0.UNPMIXM
 - branch: stable
   date: '2024-07-18'
   downloads:

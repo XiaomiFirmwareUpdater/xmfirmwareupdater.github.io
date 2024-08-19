@@ -2617,6 +2617,12 @@
 - android: '14.0'
   codename: munch
   date: '2024-08-19'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULMMIXM/fw_munch_miui_MUNCHGlobal_OS1.0.4.0.ULMMIXM_7d6a1823b1_14.0.zip
+  name: Redmi K40S/POCO F4
+  version: OS1.0.4.0.ULMMIXM
+- android: '14.0'
+  codename: munch
+  date: '2024-08-19'
   download: https://bigota.d.miui.com/OS1.0.4.0.ULMCNXM/fw_munch_miui_MUNCH_OS1.0.4.0.ULMCNXM_f1c69a25d9_14.0.zip
   name: Redmi K40S/POCO F4
   version: OS1.0.4.0.ULMCNXM
@@ -2902,6 +2908,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNPINXM/fw_peridot_miui_PERIDOTINGlobal_OS1.0.4.0.UNPINXM_090bb29641_14.0.zip
   name: Redmi Turbo 3/POCO F6
   version: OS1.0.4.0.UNPINXM
+- android: '14.0'
+  codename: peridot
+  date: '2024-08-19'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UNPMIXM/fw_peridot_miui_PERIDOTGlobal_OS1.0.7.0.UNPMIXM_d6be726bc9_14.0.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS1.0.7.0.UNPMIXM
 - android: '14.0'
   codename: peridot
   date: '2024-07-18'
