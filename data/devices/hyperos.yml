@@ -2929,6 +2929,12 @@
 - android: '14.0'
   codename: peridot
   date: '2024-08-19'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UNPINXM/fw_peridot_miui_PERIDOTINGlobal_OS1.0.5.0.UNPINXM_b05647e582_14.0.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS1.0.5.0.UNPINXM
+- android: '14.0'
+  codename: peridot
+  date: '2024-08-19'
   download: https://bigota.d.miui.com/OS1.0.7.0.UNPMIXM/fw_peridot_miui_PERIDOTGlobal_OS1.0.7.0.UNPMIXM_d6be726bc9_14.0.zip
   name: Redmi Turbo 3/POCO F6
   version: OS1.0.7.0.UNPMIXM
@@ -3546,6 +3552,12 @@
   version: OS1.0.3.0.UMOCNXM
 - android: '14.0'
   codename: ruby
+  date: '2024-08-19'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMOINXM/fw_ruby_miui_RUBYINGlobal_OS1.0.4.0.UMOINXM_9f8b573657_14.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS1.0.4.0.UMOINXM
+- android: '14.0'
+  codename: ruby
   date: '2024-06-19'
   download: https://bigota.d.miui.com/OS1.0.3.0.UMOINXM/fw_ruby_miui_RUBYINGlobal_OS1.0.3.0.UMOINXM_8e41e6e14c_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
@@ -3647,6 +3659,12 @@
   name: MIX Flip
   version: OS1.0.7.0.UNICNXM
 - android: '14.0'
+  codename: ruyi
+  date: '2024-08-20'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UNICNXM/fw_ruyi_miui_RUYI_OS1.0.11.0.UNICNXM_3daab9578e_14.0.zip
+  name: MIX Flip
+  version: OS1.0.11.0.UNICNXM
+- android: '14.0'
   codename: sapphire
   date: '2024-03-29'
   download: https://bigota.d.miui.com/OS1.0.2.0.UNGMIXM/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.2.0.UNGMIXM_6ceb1dc76b_14.0.zip
@@ -3736,6 +3754,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UHZMIXM/fw_sea_miui_SEAGlobal_OS1.0.5.0.UHZMIXM_69800e0aaf_14.0.zip
   name: Redmi Note 12S
   version: OS1.0.5.0.UHZMIXM
+- android: '14.0'
+  codename: sea
+  date: '2024-08-20'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UHZMIXM/fw_sea_miui_SEAGlobal_OS1.0.9.0.UHZMIXM_580481cfc2_14.0.zip
+  name: Redmi Note 12S
+  version: OS1.0.9.0.UHZMIXM
 - android: '14.0'
   codename: sea
   date: '2024-03-18'
@@ -4488,6 +4512,12 @@
   version: OS1.0.6.0.ULECNXM
 - android: '14.0'
   codename: unicorn
+  date: '2024-08-20'
+  download: https://bigota.d.miui.com/OS1.0.8.0.ULECNXM/fw_unicorn_miui_UNICORN_OS1.0.8.0.ULECNXM_064a65d240_14.0.zip
+  name: Xiaomi 12S Pro
+  version: OS1.0.8.0.ULECNXM
+- android: '14.0'
+  codename: unicorn
   date: '2024-07-11'
   download: https://bigota.d.miui.com/OS1.0.5.0.ULECNXM/fw_unicorn_miui_UNICORN_OS1.0.5.0.ULECNXM_700f13181d_14.0.zip
   name: Xiaomi 12S Pro
@@ -4720,6 +4750,18 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UKDEUXM/fw_vili_miui_VILIEEAGlobal_OS1.0.3.0.UKDEUXM_4a34e11f69_14.0.zip
   name: Xiaomi 11T Pro
   version: OS1.0.3.0.UKDEUXM
+- android: '14.0'
+  codename: vili
+  date: '2024-08-20'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UKDEUXM/fw_vili_miui_VILIEEAGlobal_OS1.0.4.0.UKDEUXM_24f8aca75f_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.4.0.UKDEUXM
+- android: '14.0'
+  codename: vili
+  date: '2024-08-20'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UKDMIXM/fw_vili_miui_VILIGlobal_OS1.0.4.0.UKDMIXM_4d9b862c7d_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.4.0.UKDMIXM
 - android: '14.0'
   codename: vili
   date: '2024-07-11'
