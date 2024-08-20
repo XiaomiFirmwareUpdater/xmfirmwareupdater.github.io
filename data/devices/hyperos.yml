@@ -4902,6 +4902,12 @@
   version: OS1.0.1.0.UMUINXM
 - android: '14.0'
   codename: xun
+  date: '2024-08-20'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMUMIXM/fw_xun_miui_XUNGlobal_OS1.0.3.0.UMUMIXM_9595cb289b_14.0.zip
+  name: Redmi Pad SE
+  version: OS1.0.3.0.UMUMIXM
+- android: '14.0'
+  codename: xun
   date: '2024-05-17'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMUCNXM/fw_xun_miui_XUN_OS1.0.4.0.UMUCNXM_b1cd9ac4dd_14.0.zip
   name: Redmi Pad SE
@@ -5086,6 +5092,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULBCNXM/fw_zeus_miui_ZEUS_OS1.0.3.0.ULBCNXM_f7a546df8e_14.0.zip
   name: Xiaomi 12 Pro
   version: OS1.0.3.0.ULBCNXM
+- android: '14.0'
+  codename: zeus
+  date: '2024-08-20'
+  download: https://bigota.d.miui.com/OS1.0.7.0.ULBCNXM/fw_zeus_miui_ZEUS_OS1.0.7.0.ULBCNXM_3ffc892e83_14.0.zip
+  name: Xiaomi 12 Pro
+  version: OS1.0.7.0.ULBCNXM
 - android: '14.0'
   codename: zeus
   date: '2024-04-19'
