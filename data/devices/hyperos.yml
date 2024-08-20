@@ -2580,6 +2580,12 @@
   version: OS1.0.3.0.UMPEUXM
 - android: '14.0'
   codename: moonstone
+  date: '2024-08-20'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMPMIXM/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.8.0.UMPMIXM_1b327cce13_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.8.0.UMPMIXM
+- android: '14.0'
+  codename: moonstone
   date: '2024-04-20'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMPINXM/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.2.0.UMPINXM_3bff7cbe6c_14.0.zip
   name: POCO X5 5G
@@ -2704,6 +2710,24 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.TKXMIXM/fw_nabu_miui_NABUGlobal_OS1.0.1.0.TKXMIXM_0e700dc645_13.0.zip
   name: Xiaomi Pad 5
   version: OS1.0.1.0.TKXMIXM
+- android: '13.0'
+  codename: nabu
+  date: '2024-08-20'
+  download: https://bigota.d.miui.com/OS1.0.2.0.TKXEUXM/fw_nabu_miui_NABUEEAGlobal_OS1.0.2.0.TKXEUXM_2aced4b834_13.0.zip
+  name: Xiaomi Pad 5
+  version: OS1.0.2.0.TKXEUXM
+- android: '13.0'
+  codename: nabu
+  date: '2024-08-20'
+  download: https://bigota.d.miui.com/OS1.0.4.0.TKXMIXM/fw_nabu_miui_NABUGlobal_OS1.0.4.0.TKXMIXM_6231ab2e38_13.0.zip
+  name: Xiaomi Pad 5
+  version: OS1.0.4.0.TKXMIXM
+- android: '13.0'
+  codename: nabu
+  date: '2024-08-20'
+  download: https://bigota.d.miui.com/OS1.0.7.0.TKXINXM/fw_nabu_miui_NABUINGlobal_OS1.0.7.0.TKXINXM_e41a9feb40_13.0.zip
+  name: Xiaomi Pad 5
+  version: OS1.0.7.0.TKXINXM
 - android: '13.0'
   codename: nabu
   date: '2024-04-10'
@@ -3280,6 +3304,24 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UMSCNXM/fw_redwood_miui_REDWOOD_OS1.0.6.0.UMSCNXM_f7ddaf58a6_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: OS1.0.6.0.UMSCNXM
+- android: '14.0'
+  codename: redwood
+  date: '2024-08-20'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMSEUXM/fw_redwood_miui_REDWOODEEAGlobal_OS1.0.7.0.UMSEUXM_7be32b678f_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.7.0.UMSEUXM
+- android: '14.0'
+  codename: redwood
+  date: '2024-08-20'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMSMIXM/fw_redwood_miui_REDWOODGlobal_OS1.0.6.0.UMSMIXM_b55ac2827b_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.6.0.UMSMIXM
+- android: '14.0'
+  codename: redwood
+  date: '2024-08-20'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMSINXM/fw_redwood_miui_REDWOODINGlobal_OS1.0.6.0.UMSINXM_ebf855edd3_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.6.0.UMSINXM
 - android: '14.0'
   codename: redwood
   date: '2024-07-19'
