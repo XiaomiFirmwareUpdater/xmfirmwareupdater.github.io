@@ -3519,15 +3519,15 @@
     android: '14.0'
     miui: OS1.0.6.0.UMBINXM
 - branch: stable
-  date: '2024-06-24'
+  date: '2024-08-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/stable-24.06.2024/fw_odin_miui_ODIN_OS1.0.3.0.UKMCNXM_176fec4009_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/odin/fw_odin_miui_ODIN_OS1.0.3.0.UKMCNXM_176fec4009_14.0.zip
-  filename: fw_odin_miui_ODIN_OS1.0.3.0.UKMCNXM_176fec4009_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/stable-21.08.2024/fw_odin_miui_ODIN_OS1.0.4.0.UKMCNXM_9af88b108a_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/odin/fw_odin_miui_ODIN_OS1.0.4.0.UKMCNXM_9af88b108a_14.0.zip
+  filename: fw_odin_miui_ODIN_OS1.0.4.0.UKMCNXM_9af88b108a_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.3.0.UKMCNXM
+    miui: OS1.0.4.0.UKMCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -4769,15 +4769,15 @@
     android: '7.1'
     miui: 9.10.10
 - branch: stable
-  date: '2024-08-12'
+  date: '2024-08-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphire/releases/download/stable-13.08.2024/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.5.0.UNGMIXM_9c6a7a34bf_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sapphire/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.5.0.UNGMIXM_9c6a7a34bf_14.0.zip
-  filename: fw_sapphire_miui_SAPPHIREGlobal_OS1.0.5.0.UNGMIXM_9c6a7a34bf_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphire/releases/download/stable-21.08.2024/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.6.0.UNGMIXM_298086a98b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sapphire/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.6.0.UNGMIXM_298086a98b_14.0.zip
+  filename: fw_sapphire_miui_SAPPHIREGlobal_OS1.0.6.0.UNGMIXM_298086a98b_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UNGMIXM
+    miui: OS1.0.6.0.UNGMIXM
 - branch: stable
   date: '2024-07-28'
   downloads:

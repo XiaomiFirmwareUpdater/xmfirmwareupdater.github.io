@@ -2892,6 +2892,12 @@
   version: OS1.0.3.0.UKMCNXM
 - android: '14.0'
   codename: odin
+  date: '2024-08-21'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UKMCNXM/fw_odin_miui_ODIN_OS1.0.4.0.UKMCNXM_9af88b108a_14.0.zip
+  name: MIX 4
+  version: OS1.0.4.0.UKMCNXM
+- android: '14.0'
+  codename: odin
   date: '2024-05-11'
   download: https://bigota.d.miui.com/OS1.0.2.0.UKMCNXM/fw_odin_miui_ODIN_OS1.0.2.0.UKMCNXM_af3b0d3530_14.0.zip
   name: MIX 4
@@ -3742,6 +3748,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNGMIXM/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.4.0.UNGMIXM_c089e83324_14.0.zip
   name: Redmi Note 13
   version: OS1.0.4.0.UNGMIXM
+- android: '14.0'
+  codename: sapphire
+  date: '2024-08-21'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UNGMIXM/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.6.0.UNGMIXM_298086a98b_14.0.zip
+  name: Redmi Note 13
+  version: OS1.0.6.0.UNGMIXM
 - android: '14.0'
   codename: sapphire
   date: '2024-08-12'
