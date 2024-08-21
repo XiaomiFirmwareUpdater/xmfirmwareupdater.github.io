@@ -2802,6 +2802,12 @@
   version: OS1.0.7.0.UMBMIXM
 - android: '14.0'
   codename: nuwa
+  date: '2024-08-21'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMBMIXM/fw_nuwa_miui_NUWAGlobal_OS1.0.8.0.UMBMIXM_7cddecfe7c_14.0.zip
+  name: Xiaomi 13 Pro
+  version: OS1.0.8.0.UMBMIXM
+- android: '14.0'
+  codename: nuwa
   date: '2024-06-21'
   download: https://bigota.d.miui.com/OS1.0.6.0.UMBEUXM/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.6.0.UMBEUXM_ea36570589_14.0.zip
   name: Xiaomi 13 Pro
@@ -3988,6 +3994,12 @@
   download: https://bigota.d.miui.com/OS1.0.25.0.UNBCNXM/fw_shennong_miui_SHENNONG_OS1.0.25.0.UNBCNXM_b525a4f877_14.0.zip
   name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
   version: OS1.0.25.0.UNBCNXM
+- android: '14.0'
+  codename: shennongt
+  date: '2024-08-21'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UNDCNXM/fw_shennongt_miui_SHENNONGT_OS1.0.7.0.UNDCNXM_4b29ecc269_14.0.zip
+  name: Xiaomi 14 Pro Ti Satellite
+  version: OS1.0.7.0.UNDCNXM
 - android: '14.0'
   codename: shennongt
   date: '2024-03-20'

@@ -54,7 +54,8 @@ permalink: /archive/hyperos/pissarro/
                 <tbody>
                 <tr><td>Xiaomi 11i 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.TKTINFK</td><td>13.0</td><td>3.7 GB</td><td>2024-08-13</td><td><a href="/hyperos/pissarro/stable beta/OS1.0.7.0.TKTINFK/">Download</a></td></tr>
 <tr><td>Xiaomi 11i / Hypercharge India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.TKTINXM</td><td>13.0</td><td>3.8 GB</td><td>2024-08-12</td><td><a href="/hyperos/pissarro/stable beta/OS1.0.4.0.TKTINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Pro+ 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.TKTEUXM</td><td>13.0</td><td>3.8 GB</td><td>2024-08-07</td><td><a href="/hyperos/pissarro/stable beta/OS1.0.4.0.TKTEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro+ 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.TKTEUXM</td><td>13.0</td><td>3.8 GB</td><td>2024-08-07</td><td><a href="/hyperos/pissarro/stable/OS1.0.4.0.TKTEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro+ 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.TKTEUXM</td><td>13.0</td><td>6.0 GB</td><td>2024-07-25</td><td><a href="/hyperos/pissarro/stable/OS1.0.4.0.TKTEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.TKTRUXM</td><td>13.0</td><td>3.8 GB</td><td>2024-08-01</td><td><a href="/hyperos/pissarro/stable/OS1.0.3.0.TKTRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.TKTRUXM</td><td>13.0</td><td>6.0 GB</td><td>2024-07-18</td><td><a href="/hyperos/pissarro/stable/OS1.0.3.0.TKTRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.TKTTRXM</td><td>13.0</td><td>3.8 GB</td><td>2024-08-01</td><td><a href="/hyperos/pissarro/stable/OS1.0.2.0.TKTTRXM/">Download</a></td></tr>

@@ -3479,15 +3479,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2024-06-24'
+  date: '2024-08-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-24.06.2024/fw_nuwa_miui_NUWAGlobal_OS1.0.7.0.UMBMIXM_5dc3074d31_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAGlobal_OS1.0.7.0.UMBMIXM_5dc3074d31_14.0.zip
-  filename: fw_nuwa_miui_NUWAGlobal_OS1.0.7.0.UMBMIXM_5dc3074d31_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-21.08.2024/fw_nuwa_miui_NUWAGlobal_OS1.0.8.0.UMBMIXM_7cddecfe7c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAGlobal_OS1.0.8.0.UMBMIXM_7cddecfe7c_14.0.zip
+  filename: fw_nuwa_miui_NUWAGlobal_OS1.0.8.0.UMBMIXM_7cddecfe7c_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.7.0.UMBMIXM
+    miui: OS1.0.8.0.UMBMIXM
 - branch: stable
   date: '2024-07-24'
   downloads:
@@ -4929,15 +4929,15 @@
     android: '14.0'
     miui: OS1.0.4.0.UNXEUXM
 - branch: stable
-  date: '2024-07-04'
+  date: '2024-08-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-04.07.2024/fw_shennong_miui_SHENNONG_OS1.0.45.0.UNBCNXM_740fff9ea8_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/shennong/fw_shennong_miui_SHENNONG_OS1.0.45.0.UNBCNXM_740fff9ea8_14.0.zip
-  filename: fw_shennong_miui_SHENNONG_OS1.0.45.0.UNBCNXM_740fff9ea8_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-21.08.2024/fw_shennongt_miui_SHENNONGT_OS1.0.7.0.UNDCNXM_4b29ecc269_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/shennong/fw_shennongt_miui_SHENNONGT_OS1.0.7.0.UNDCNXM_4b29ecc269_14.0.zip
+  filename: fw_shennongt_miui_SHENNONGT_OS1.0.7.0.UNDCNXM_4b29ecc269_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.45.0.UNBCNXM
+    miui: OS1.0.7.0.UNDCNXM
 - branch: stable
   date: '2022-08-03'
   downloads:
