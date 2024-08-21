@@ -1314,6 +1314,12 @@
   version: OS1.0.4.0.UMCMIXM
 - android: '14.0'
   codename: fuxi
+  date: '2024-08-21'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMCMIXM/fw_fuxi_miui_FUXIGlobal_OS1.0.6.0.UMCMIXM_160365d42d_14.0.zip
+  name: Xiaomi 13
+  version: OS1.0.6.0.UMCMIXM
+- android: '14.0'
+  codename: fuxi
   date: '2024-02-20'
   download: https://bigota.d.miui.com/OS1.0.7.0.UMCCNXM/fw_fuxi_miui_FUXI_OS1.0.7.0.UMCCNXM_78af83b0a0_14.0.zip
   name: Xiaomi 13
@@ -2206,6 +2212,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UNMCNXM/fw_manet_miui_MANET_OS1.0.12.0.UNMCNXM_da52f2413a_14.0.zip
   name: Redmi K70 Pro
   version: OS1.0.12.0.UNMCNXM
+- android: '14.0'
+  codename: manet
+  date: '2024-08-21'
+  download: https://bigota.d.miui.com/OS1.0.20.0.UNMCNXM/fw_manet_miui_MANET_OS1.0.20.0.UNMCNXM_d187022026_14.0.zip
+  name: Redmi K70 Pro
+  version: OS1.0.20.0.UNMCNXM
 - android: '14.0'
   codename: manet
   date: '2024-03-18'
@@ -3874,6 +3886,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UNXMIXM/fw_sheng_miui_SHENGGlobal_OS1.0.1.0.UNXMIXM_8a380171ea_14.0.zip
   name: Xiaomi Pad 6S Pro 12.4
   version: OS1.0.1.0.UNXMIXM
+- android: '14.0'
+  codename: sheng
+  date: '2024-08-21'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UNXCNXM/fw_sheng_miui_SHENG_OS1.0.10.0.UNXCNXM_9a7e129be9_14.0.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS1.0.10.0.UNXCNXM
 - android: '14.0'
   codename: sheng
   date: '2024-07-15'
