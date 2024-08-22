@@ -54,6 +54,7 @@ permalink: /hyperos/lisa/
                 <tbody>
                 <tr><td>Mi 11 LE China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UKOCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-04-25</td><td><a href="/hyperos/lisa/stable/OS1.0.2.0.UKOCNXM/">Download</a></td></tr>
 <tr><td>Mi 11 LE China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UKOCNXM</td><td>14.0</td><td>5.5 GB</td><td>2024-05-09</td><td><a href="/hyperos/lisa/stable/OS1.0.2.0.UKOCNXM/">Download</a></td></tr>
+<tr><td>Mi 11 LE China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UKOCNXM</td><td>14.0</td><td>5.5 GB</td><td>2024-08-19</td><td><a href="/hyperos/lisa/stable beta/OS1.0.4.0.UKOCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UKOEUXM</td><td>14.0</td><td>6.4 GB</td><td>2024-06-06</td><td><a href="/hyperos/lisa/stable/OS1.0.5.0.UKOEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UKOEUXM</td><td>14.0</td><td>4.9 GB</td><td>2024-06-19</td><td><a href="/hyperos/lisa/stable/OS1.0.5.0.UKOEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UKOEUXM</td><td>14.0</td><td>4.9 GB</td><td>2024-02-29</td><td><a href="/hyperos/lisa/stable beta/OS1.0.1.0.UKOEUXM/">Download</a></td></tr>

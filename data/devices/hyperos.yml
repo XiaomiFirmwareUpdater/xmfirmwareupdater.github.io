@@ -324,6 +324,12 @@
   version: OS1.0.15.0.UNACNXM
 - android: '14.0'
   codename: babylon
+  date: '2024-08-22'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.12.0.UMVCNXM_5f616903cf_14.0.zip
+  name: MIX Fold 3
+  version: OS1.0.12.0.UMVCNXM
+- android: '14.0'
+  codename: babylon
   date: '2024-04-22'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.5.0.UMVCNXM_8635874571_14.0.zip
   name: MIX Fold 3
@@ -1998,6 +2004,12 @@
   version: OS1.0.5.0.UMAEUXM
 - android: '14.0'
   codename: ishtar
+  date: '2024-08-22'
+  download: https://bigota.d.miui.com/OS1.0.15.0.UMACNXM/fw_ishtar_miui_ISHTAR_OS1.0.15.0.UMACNXM_adc943f023_14.0.zip
+  name: Xiaomi 13 Ultra
+  version: OS1.0.15.0.UMACNXM
+- android: '14.0'
+  codename: ishtar
   date: '2023-12-14'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMACNXM/fw_ishtar_miui_ISHTAR_OS1.0.4.0.UMACNXM_0801f3ef9d_14.0.zip
   name: Xiaomi 13 Ultra
@@ -2122,6 +2134,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UKOEUXM/fw_lisa_miui_LISAEEAGlobal_OS1.0.5.0.UKOEUXM_ab63f51caf_14.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
   version: OS1.0.5.0.UKOEUXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-08-22'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UKOCNXM/fw_lisa_miui_LISA_OS1.0.4.0.UKOCNXM_81df7176a9_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.4.0.UKOCNXM
 - android: '14.0'
   codename: lisa
   date: '2024-03-22'
@@ -2968,6 +2986,12 @@
   download: https://bigota.d.miui.com/OS1.0.13.0.UNPCNXM/fw_peridot_miui_PERIDOT_OS1.0.13.0.UNPCNXM_713afcfba9_14.0.zip
   name: Redmi Turbo 3/POCO F6
   version: OS1.0.13.0.UNPCNXM
+- android: '14.0'
+  codename: peridot
+  date: '2024-08-22'
+  download: https://bigota.d.miui.com/OS1.0.15.0.UNPCNXM/fw_peridot_miui_PERIDOT_OS1.0.15.0.UNPCNXM_0977381862_14.0.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS1.0.15.0.UNPCNXM
 - android: '14.0'
   codename: peridot
   date: '2024-07-22'
