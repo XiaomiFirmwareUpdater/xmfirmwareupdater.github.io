@@ -1098,6 +1098,12 @@
   version: OS1.0.3.0.UNFEUXM
 - android: '14.0'
   codename: emerald
+  date: '2024-08-22'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNFEUXM/fw_emerald_miui_EMERALDEEAGlobal_OS1.0.4.0.UNFEUXM_dae8157bf9_14.0.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  version: OS1.0.4.0.UNFEUXM
+- android: '14.0'
+  codename: emerald
   date: '2024-05-16'
   download: https://bigota.d.miui.com/OS1.0.3.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.3.0.UNFMIXM_68eb6f61a9_14.0.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro
@@ -3582,6 +3588,12 @@
   version: OS1.0.19.0.UNNCNXM
 - android: '14.0'
   codename: ruan
+  date: '2024-08-23'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UFSINXM/fw_ruan_miui_RUANINGlobal_OS1.0.3.0.UFSINXM_55b135df69_14.0.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS1.0.3.0.UFSINXM
+- android: '14.0'
+  codename: ruan
   date: '2024-06-21'
   download: https://bigota.d.miui.com/OS1.0.1.0.UFSINXM/fw_ruan_miui_RUANINGlobal_OS1.0.1.0.UFSINXM_42dad36ffb_14.0.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
@@ -3622,6 +3634,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.ULNCNXM/fw_rubens_miui_RUBENS_OS1.0.7.0.ULNCNXM_4c4ea6059c_14.0.zip
   name: Redmi K50
   version: OS1.0.7.0.ULNCNXM
+- android: '14.0'
+  codename: rubens
+  date: '2024-08-23'
+  download: https://bigota.d.miui.com/OS1.0.10.0.ULNCNXM/fw_rubens_miui_RUBENS_OS1.0.10.0.ULNCNXM_b22feefbed_14.0.zip
+  name: Redmi K50
+  version: OS1.0.10.0.ULNCNXM
 - android: '14.0'
   codename: rubens
   date: '2024-02-04'
@@ -4019,6 +4037,12 @@
   name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
   version: OS1.0.25.0.UNBCNXM
 - android: '14.0'
+  codename: shennong
+  date: '2024-08-23'
+  download: https://bigota.d.miui.com/OS1.0.48.0.UNBCNXM/fw_shennong_miui_SHENNONG_OS1.0.48.0.UNBCNXM_fab4551425_14.0.zip
+  name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
+  version: OS1.0.48.0.UNBCNXM
+- android: '14.0'
   codename: shennongt
   date: '2024-08-21'
   download: https://bigota.d.miui.com/OS1.0.7.0.UNDCNXM/fw_shennongt_miui_SHENNONGT_OS1.0.7.0.UNDCNXM_4b29ecc269_14.0.zip
@@ -4200,6 +4224,12 @@
   version: OS1.0.5.0.UMKCNXM
 - android: '14.0'
   codename: socrates
+  date: '2024-08-23'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UMKCNXM/fw_socrates_miui_SOCRATES_OS1.0.11.0.UMKCNXM_4bd902b273_14.0.zip
+  name: Redmi K60 Pro
+  version: OS1.0.11.0.UMKCNXM
+- android: '14.0'
+  codename: socrates
   date: '2024-02-21'
   download: https://bigota.d.miui.com/OS1.0.7.0.UMKCNXM/fw_socrates_miui_SOCRATES_OS1.0.7.0.UMKCNXM_450919a308_14.0.zip
   name: Redmi K60 Pro
@@ -4258,6 +4288,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.TGCINXM/fw_spes_miui_SPESINGlobal_OS1.0.1.0.TGCINXM_468c1e6356_13.0.zip
   name: Redmi Note 11
   version: OS1.0.1.0.TGCINXM
+- android: '13.0'
+  codename: spesn
+  date: '2024-08-23'
+  download: https://bigota.d.miui.com/OS1.0.5.0.TGKEUXM/fw_spesn_miui_SPESNEEAGlobal_OS1.0.5.0.TGKEUXM_ec6f2d8fc4_13.0.zip
+  name: Redmi Note 11 NFC
+  version: OS1.0.5.0.TGKEUXM
 - android: '13.0'
   codename: spesn
   date: '2024-06-21'
@@ -4816,6 +4852,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.TKCEUXM/fw_veux_miui_VEUXEEAGlobal_OS1.0.3.0.TKCEUXM_c969f728d7_13.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
   version: OS1.0.3.0.TKCEUXM
+- android: '13.0'
+  codename: veux
+  date: '2024-08-23'
+  download: https://bigota.d.miui.com/OS1.0.4.0.TKCEUXM/fw_veux_miui_VEUXEEAGlobal_OS1.0.4.0.TKCEUXM_9aef24c7f3_13.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: OS1.0.4.0.TKCEUXM
 - android: '13.0'
   codename: veux
   date: '2024-04-22'

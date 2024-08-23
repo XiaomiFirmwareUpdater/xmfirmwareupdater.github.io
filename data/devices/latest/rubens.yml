@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2024-08-01'
+  date: '2024-08-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rubens/releases/download/stable-01.08.2024/fw_rubens_miui_RUBENS_OS1.0.8.0.ULNCNXM_d1ed876616_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rubens/fw_rubens_miui_RUBENS_OS1.0.8.0.ULNCNXM_d1ed876616_14.0.zip
-  filename: fw_rubens_miui_RUBENS_OS1.0.8.0.ULNCNXM_d1ed876616_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rubens/releases/download/stable-23.08.2024/fw_rubens_miui_RUBENS_OS1.0.10.0.ULNCNXM_b22feefbed_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rubens/fw_rubens_miui_RUBENS_OS1.0.10.0.ULNCNXM_b22feefbed_14.0.zip
+  filename: fw_rubens_miui_RUBENS_OS1.0.10.0.ULNCNXM_b22feefbed_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.8.0.ULNCNXM
+    miui: OS1.0.10.0.ULNCNXM

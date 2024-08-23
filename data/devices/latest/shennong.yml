@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2024-08-21'
+  date: '2024-08-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-21.08.2024/fw_shennongt_miui_SHENNONGT_OS1.0.7.0.UNDCNXM_4b29ecc269_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/shennong/fw_shennongt_miui_SHENNONGT_OS1.0.7.0.UNDCNXM_4b29ecc269_14.0.zip
-  filename: fw_shennongt_miui_SHENNONGT_OS1.0.7.0.UNDCNXM_4b29ecc269_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-23.08.2024/fw_shennong_miui_SHENNONG_OS1.0.48.0.UNBCNXM_fab4551425_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/shennong/fw_shennong_miui_SHENNONG_OS1.0.48.0.UNBCNXM_fab4551425_14.0.zip
+  filename: fw_shennong_miui_SHENNONG_OS1.0.48.0.UNBCNXM_fab4551425_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.7.0.UNDCNXM
+    miui: OS1.0.48.0.UNBCNXM
