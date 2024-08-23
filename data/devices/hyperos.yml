@@ -3858,6 +3858,12 @@
   version: OS1.0.3.0.UNHMIXM
 - android: '14.0'
   codename: sapphiren
+  date: '2024-08-23'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UNHEUXM/fw_sapphiren_miui_SAPPHIRENEEAGlobal_OS1.0.5.0.UNHEUXM_aad01d8884_14.0.zip
+  name: Redmi Note 13 NFC
+  version: OS1.0.5.0.UNHEUXM
+- android: '14.0'
+  codename: sapphiren
   date: '2024-07-19'
   download: https://bigota.d.miui.com/OS1.0.3.0.UNHEUXM/fw_sapphiren_miui_SAPPHIRENEEAGlobal_OS1.0.3.0.UNHEUXM_a5a82b7948_14.0.zip
   name: Redmi Note 13 NFC
