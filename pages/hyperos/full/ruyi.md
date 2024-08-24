@@ -52,7 +52,8 @@ permalink: /archive/hyperos/ruyi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>MIX Flip China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.11.0.UNICNXM</td><td>14.0</td><td>7.0 GB</td><td>2024-08-17</td><td><a href="/hyperos/ruyi/stable beta/OS1.0.11.0.UNICNXM/">Download</a></td></tr>
+                <tr><td>MIX Flip China</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UNICNXM</td><td>14.0</td><td>7.0 GB</td><td>2024-08-17</td><td><a href="/hyperos/ruyi/stable/OS1.0.11.0.UNICNXM/">Download</a></td></tr>
+<tr><td>MIX Flip China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UNICNXM</td><td>14.0</td><td>9.0 GB</td><td>2024-08-12</td><td><a href="/hyperos/ruyi/stable/OS1.0.11.0.UNICNXM/">Download</a></td></tr>
 <tr><td>MIX Flip Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNITWXM</td><td>14.0</td><td>6.3 GB</td><td>2024-08-02</td><td><a href="/hyperos/ruyi/stable/OS1.0.4.0.UNITWXM/">Download</a></td></tr>
 <tr><td>MIX Flip Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UNITWXM</td><td>14.0</td><td>7.3 GB</td><td>2024-08-01</td><td><a href="/hyperos/ruyi/stable/OS1.0.4.0.UNITWXM/">Download</a></td></tr>
 <tr><td>MIX Flip China</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UNICNXM</td><td>14.0</td><td>7.0 GB</td><td>2024-07-28</td><td><a href="/hyperos/ruyi/stable/OS1.0.8.0.UNICNXM/">Download</a></td></tr>
