@@ -1379,15 +1379,15 @@
     android: '14.0'
     miui: OS1.0.6.0.UNSEUXM
 - branch: stable
-  date: '2024-08-01'
+  date: '2024-08-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-02.08.2024/fw_dizi_miui_DIZIINGlobal_OS1.0.4.0.UNSINXM_ca41cd75d0_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/dizi/fw_dizi_miui_DIZIINGlobal_OS1.0.4.0.UNSINXM_ca41cd75d0_14.0.zip
-  filename: fw_dizi_miui_DIZIINGlobal_OS1.0.4.0.UNSINXM_ca41cd75d0_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-24.08.2024/fw_dizi_miui_DIZIINGlobal_OS1.0.5.0.UNSINXM_433aa26552_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/dizi/fw_dizi_miui_DIZIINGlobal_OS1.0.5.0.UNSINXM_433aa26552_14.0.zip
+  filename: fw_dizi_miui_DIZIINGlobal_OS1.0.5.0.UNSINXM_433aa26552_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.UNSINXM
+    miui: OS1.0.5.0.UNSINXM
 - branch: stable
   date: '2024-08-19'
   downloads:
