@@ -3810,6 +3810,12 @@
   version: OS1.0.3.0.UNIMIXM
 - android: '14.0'
   codename: ruyi
+  date: '2024-08-25'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNIMIXM/fw_ruyi_miui_RUYIGlobal_OS1.0.4.0.UNIMIXM_a37537ba0f_14.0.zip
+  name: MIX Flip
+  version: OS1.0.4.0.UNIMIXM
+- android: '14.0'
+  codename: ruyi
   date: '2024-07-22'
   download: https://bigota.d.miui.com/OS1.0.7.0.UNICNXM/fw_ruyi_miui_RUYI_OS1.0.7.0.UNICNXM_e3a8629bbf_14.0.zip
   name: MIX Flip
