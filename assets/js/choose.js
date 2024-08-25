@@ -1,7 +1,8 @@
 // Load devices
-var firmwareDevicesList = [];
-var vendorDevicesList = [];
-var miuiDevicesList = [];
+let firmwareDevicesList = [];
+let vendorDevicesList = [];
+let miuiDevicesList = [];
+let hyperosDevices = {};
 $(document).ready(function () {
     $.when(
         $.ajax({
@@ -33,8 +34,18 @@ $(document).ready(function () {
                 }
             },
             dataType: 'yaml'
+        }),
+        $.ajax({
+            url: '/data/hyperos_devices.yml',
+            async: true,
+            converters: {
+                'text yaml': function (result) {
+                    return jsyaml.load(result);
+                }
+            },
+            dataType: 'yaml'
         })
-    ).done(function (firmware_devices, vendor_devices, miui_devices) {
+    ).done(function (firmware_devices, vendor_devices, miui_devices, hyperos_devices) {
         Object.entries(firmware_devices[0]).forEach(
             ([codename, name]) => firmwareDevicesList.push({ text: name + ' (' + codename + ')', id: codename })
         );
@@ -44,6 +55,7 @@ $(document).ready(function () {
         Object.entries(miui_devices[0]).forEach(
             ([codename, name]) => miuiDevicesList.push({ text: name + ' (' + codename + ')', id: codename })
         );
+        hyperosDevices = hyperos_devices[0]
         $(".device").select2({
             placeholder: "- Device -",
             data: firmwareDevicesList,
@@ -53,25 +65,26 @@ $(document).ready(function () {
 
 // Change device menu based on download type
 function deviceMenu() {
-    var radio = document.getElementsByName('request');
+    let request = 'miui';
+    let radio = document.getElementsByName('request');
     for (i = 0; i < radio.length; i++) {
         if (radio[i].checked) {
-            var request = radio[i].value
+            request = radio[i].value
         }
     };
-    if (request == 'firmware') {
+    if (request === 'firmware') {
         $('.device').empty();
         $(".device").select2({
             data: firmwareDevicesList,
         })
     }
-    else if (request == 'vendor') {
+    else if (request === 'vendor') {
         $('.device').empty();
         $(".device").select2({
             data: vendorDevicesList,
         })
     }
-    else if (request == 'miui') {
+    else if (request === 'miui') {
         $('.device').empty();
         $(".device").select2({
             data: miuiDevicesList
@@ -81,12 +94,15 @@ function deviceMenu() {
 
 // Process to download page
 function choicesParser() {
-    var form = document.getElementById("DownloadForm").elements;
-    var request = form.request.value;
-    var type = form.type.value;
-    var device = form.device.value;
-    if (device != '') {
-        if (type == 'archive') {
+    let form = document.getElementById("DownloadForm").elements;
+    let request = form.request.value;
+    let type = form.type.value;
+    let device = form.device.value;
+    if (device !== '') {
+        if (request=== 'miui' && device in hyperosDevices) {
+            request = 'hyperos'
+        }
+        if (type === 'archive') {
             window.location.href = window.location.origin + "/archive/" + request + "/" + device;
         }
         else {
