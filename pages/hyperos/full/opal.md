@@ -52,7 +52,8 @@ permalink: /archive/hyperos/opal/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11S 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TGLRUXM</td><td>13.0</td><td>3.9 GB</td><td>2024-04-07</td><td><a href="/hyperos/opal/stable/OS1.0.1.0.TGLRUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11S 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.TGLEUXM</td><td>13.0</td><td>3.9 GB</td><td>2024-08-22</td><td><a href="/hyperos/opal/stable beta/OS1.0.3.0.TGLEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11S 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TGLRUXM</td><td>13.0</td><td>3.9 GB</td><td>2024-04-07</td><td><a href="/hyperos/opal/stable/OS1.0.1.0.TGLRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11S 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.TGLRUXM</td><td>13.0</td><td>5.8 GB</td><td>2024-03-07</td><td><a href="/hyperos/opal/stable/OS1.0.1.0.TGLRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11S 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TGLEUXM</td><td>13.0</td><td>3.9 GB</td><td>2024-04-03</td><td><a href="/hyperos/opal/stable/OS1.0.1.0.TGLEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11S 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.TGLEUXM</td><td>13.0</td><td>5.8 GB</td><td>2024-02-29</td><td><a href="/hyperos/opal/stable/OS1.0.1.0.TGLEUXM/">Download</a></td></tr>
