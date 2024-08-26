@@ -3156,6 +3156,12 @@
   version: OS1.0.6.0.UMZMIXM
 - android: '14.0'
   codename: pipa
+  date: '2024-08-26'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UMZMIXM/fw_pipa_miui_PIPAGlobal_OS1.0.10.0.UMZMIXM_e8c09738d8_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.10.0.UMZMIXM
+- android: '14.0'
+  codename: pipa
   date: '2023-12-25'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.2.0.UMZCNXM_55ebca72a7_14.0.zip
   name: Xiaomi Pad 6
@@ -3376,6 +3382,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.ULQMIXM/fw_plato_miui_PLATOGlobal_OS1.0.8.0.ULQMIXM_66cc9d612c_14.0.zip
   name: Xiaomi 12T
   version: OS1.0.8.0.ULQMIXM
+- android: '13.0'
+  codename: psyche
+  date: '2024-08-26'
+  download: https://bigota.d.miui.com/OS1.0.5.0.TLDEUXM/fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.5.0.TLDEUXM_175a81e6db_13.0.zip
+  name: Xiaomi 12X
+  version: OS1.0.5.0.TLDEUXM
 - android: '13.0'
   codename: psyche
   date: '2024-07-26'
@@ -4242,6 +4254,18 @@
   version: OS1.0.3.0.UMWMIXM
 - android: '14.0'
   codename: sky
+  date: '2024-08-26'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMWEUXM/fw_sky_miui_SKYEEAGlobal_OS1.0.7.0.UMWEUXM_8363f98e38_14.0.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS1.0.7.0.UMWEUXM
+- android: '14.0'
+  codename: sky
+  date: '2024-08-26'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMWINXM/fw_sky_miui_SKYINGlobal_OS1.0.6.0.UMWINXM_a2bb8d048f_14.0.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS1.0.6.0.UMWINXM
+- android: '14.0'
+  codename: sky
   date: '2024-06-24'
   download: https://bigota.d.miui.com/OS1.0.6.0.UMWEUXM/fw_sky_miui_SKYEEAGlobal_OS1.0.6.0.UMWEUXM_c9d338c1ec_14.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
@@ -4492,6 +4516,24 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UMQCNXM/fw_sunstone_miui_SUNSTONE_OS1.0.1.0.UMQCNXM_ecc6daa1f6_14.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
   version: OS1.0.1.0.UMQCNXM
+- android: '14.0'
+  codename: sunstone
+  date: '2024-08-26'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMQMIXM/fw_sunstone_miui_SUNSTONEGlobal_OS1.0.7.0.UMQMIXM_5eecf92cfe_14.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: OS1.0.7.0.UMQMIXM
+- android: '14.0'
+  codename: sunstone
+  date: '2024-08-26'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMQINXM/fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.4.0.UMQINXM_8bda457f36_14.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: OS1.0.4.0.UMQINXM
+- android: '14.0'
+  codename: sunstone
+  date: '2024-08-26'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMQCNXM/fw_sunstone_miui_SUNSTONE_OS1.0.3.0.UMQCNXM_3bcdf06b82_14.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: OS1.0.3.0.UMQCNXM
 - android: '14.0'
   codename: sunstone
   date: '2024-01-23'

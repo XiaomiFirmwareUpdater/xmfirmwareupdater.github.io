@@ -3929,15 +3929,15 @@
     android: '10.0'
     miui: V12.5.1.0.QCMINXM
 - branch: stable
-  date: '2024-07-22'
+  date: '2024-08-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-22.07.2024/fw_pipa_miui_PIPAGlobal_OS1.0.9.0.UMZMIXM_7c75835663_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pipa/fw_pipa_miui_PIPAGlobal_OS1.0.9.0.UMZMIXM_7c75835663_14.0.zip
-  filename: fw_pipa_miui_PIPAGlobal_OS1.0.9.0.UMZMIXM_7c75835663_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-26.08.2024/fw_pipa_miui_PIPAGlobal_OS1.0.10.0.UMZMIXM_e8c09738d8_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pipa/fw_pipa_miui_PIPAGlobal_OS1.0.10.0.UMZMIXM_e8c09738d8_14.0.zip
+  filename: fw_pipa_miui_PIPAGlobal_OS1.0.10.0.UMZMIXM_e8c09738d8_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.9.0.UMZMIXM
+    miui: OS1.0.10.0.UMZMIXM
 - branch: stable
   date: '2024-08-14'
   downloads:
@@ -4169,15 +4169,15 @@
     android: '12.0'
     miui: 22.3.24
 - branch: stable
-  date: '2024-08-17'
+  date: '2024-08-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-17.08.2024/fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.4.0.TLDEUXM_1029beae22_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/psyche/fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.4.0.TLDEUXM_1029beae22_13.0.zip
-  filename: fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.4.0.TLDEUXM_1029beae22_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-26.08.2024/fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.5.0.TLDEUXM_175a81e6db_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/psyche/fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.5.0.TLDEUXM_175a81e6db_13.0.zip
+  filename: fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.5.0.TLDEUXM_175a81e6db_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: OS1.0.4.0.TLDEUXM
+    miui: OS1.0.5.0.TLDEUXM
 - branch: stable
   date: '2021-07-23'
   downloads:
@@ -4989,25 +4989,25 @@
     android: '14.0'
     miui: OS1.0.9.0.UMWCNXM
 - branch: stable
-  date: '2024-06-24'
+  date: '2024-08-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-24.06.2024/fw_sky_miui_SKYEEAGlobal_OS1.0.6.0.UMWEUXM_c9d338c1ec_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sky/fw_sky_miui_SKYEEAGlobal_OS1.0.6.0.UMWEUXM_c9d338c1ec_14.0.zip
-  filename: fw_sky_miui_SKYEEAGlobal_OS1.0.6.0.UMWEUXM_c9d338c1ec_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-26.08.2024/fw_sky_miui_SKYEEAGlobal_OS1.0.7.0.UMWEUXM_8363f98e38_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sky/fw_sky_miui_SKYEEAGlobal_OS1.0.7.0.UMWEUXM_8363f98e38_14.0.zip
+  filename: fw_sky_miui_SKYEEAGlobal_OS1.0.7.0.UMWEUXM_8363f98e38_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.UMWEUXM
+    miui: OS1.0.7.0.UMWEUXM
 - branch: stable
-  date: '2024-06-24'
+  date: '2024-08-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-24.06.2024/fw_sky_miui_SKYINGlobal_OS1.0.5.0.UMWINXM_bc3213035d_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sky/fw_sky_miui_SKYINGlobal_OS1.0.5.0.UMWINXM_bc3213035d_14.0.zip
-  filename: fw_sky_miui_SKYINGlobal_OS1.0.5.0.UMWINXM_bc3213035d_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-26.08.2024/fw_sky_miui_SKYINGlobal_OS1.0.6.0.UMWINXM_a2bb8d048f_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sky/fw_sky_miui_SKYINGlobal_OS1.0.6.0.UMWINXM_a2bb8d048f_14.0.zip
+  filename: fw_sky_miui_SKYINGlobal_OS1.0.6.0.UMWINXM_a2bb8d048f_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UMWINXM
+    miui: OS1.0.6.0.UMWINXM
 - branch: stable
   date: '2024-08-23'
   downloads:
@@ -5119,25 +5119,25 @@
     android: '14.0'
     miui: OS1.0.4.0.UKAINXM
 - branch: stable
-  date: '2024-06-29'
+  date: '2024-08-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-29.06.2024/fw_sunstone_miui_SUNSTONEGlobal_OS1.0.5.0.UMQMIXM_5187649eac_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sunstone/fw_sunstone_miui_SUNSTONEGlobal_OS1.0.5.0.UMQMIXM_5187649eac_14.0.zip
-  filename: fw_sunstone_miui_SUNSTONEGlobal_OS1.0.5.0.UMQMIXM_5187649eac_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-26.08.2024/fw_sunstone_miui_SUNSTONEGlobal_OS1.0.7.0.UMQMIXM_5eecf92cfe_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sunstone/fw_sunstone_miui_SUNSTONEGlobal_OS1.0.7.0.UMQMIXM_5eecf92cfe_14.0.zip
+  filename: fw_sunstone_miui_SUNSTONEGlobal_OS1.0.7.0.UMQMIXM_5eecf92cfe_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UMQMIXM
+    miui: OS1.0.7.0.UMQMIXM
 - branch: stable
-  date: '2024-05-07'
+  date: '2024-08-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-07.05.2024/fw_sunstone_miui_SUNSTONE_OS1.0.2.0.UMQCNXM_484735b030_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sunstone/fw_sunstone_miui_SUNSTONE_OS1.0.2.0.UMQCNXM_484735b030_14.0.zip
-  filename: fw_sunstone_miui_SUNSTONE_OS1.0.2.0.UMQCNXM_484735b030_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-26.08.2024/fw_sunstone_miui_SUNSTONE_OS1.0.3.0.UMQCNXM_3bcdf06b82_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sunstone/fw_sunstone_miui_SUNSTONE_OS1.0.3.0.UMQCNXM_3bcdf06b82_14.0.zip
+  filename: fw_sunstone_miui_SUNSTONE_OS1.0.3.0.UMQCNXM_3bcdf06b82_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.2.0.UMQCNXM
+    miui: OS1.0.3.0.UMQCNXM
 - branch: stable
   date: '2024-08-03'
   downloads:
@@ -5149,15 +5149,15 @@
     android: '14.0'
     miui: OS1.0.8.0.UMQEUXM
 - branch: stable
-  date: '2024-06-29'
+  date: '2024-08-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-29.06.2024/fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.3.0.UMQINXM_0b3b660e85_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sunstone/fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.3.0.UMQINXM_0b3b660e85_14.0.zip
-  filename: fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.3.0.UMQINXM_0b3b660e85_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-26.08.2024/fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.4.0.UMQINXM_8bda457f36_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sunstone/fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.4.0.UMQINXM_8bda457f36_14.0.zip
+  filename: fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.4.0.UMQINXM_8bda457f36_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.3.0.UMQINXM
+    miui: OS1.0.4.0.UMQINXM
 - branch: stable
   date: '2023-07-28'
   downloads:
