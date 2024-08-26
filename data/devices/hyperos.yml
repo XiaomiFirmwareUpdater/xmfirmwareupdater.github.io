@@ -60,6 +60,12 @@
   version: OS1.0.1.0.UGQEUXM
 - android: '13.0'
   codename: alioth
+  date: '2024-08-26'
+  download: https://bigota.d.miui.com/OS1.0.3.0.TKHEUXM/fw_alioth_miui_ALIOTHEEAGlobal_OS1.0.3.0.TKHEUXM_1d79dc27d3_13.0.zip
+  name: Redmi K40/POCO F3/Mi 11X
+  version: OS1.0.3.0.TKHEUXM
+- android: '13.0'
+  codename: alioth
   date: '2024-04-26'
   download: https://bigota.d.miui.com/OS1.0.2.0.TKHMIXM/fw_alioth_miui_ALIOTHGlobal_OS1.0.2.0.TKHMIXM_b69e6a5400_13.0.zip
   name: Redmi K40/POCO F3/Mi 11X
@@ -456,6 +462,12 @@
   version: OS1.0.3.0.UMLMIXM
 - android: '14.0'
   codename: corot
+  date: '2024-08-26'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMLMIXM/fw_corot_miui_COROTGlobal_OS1.0.6.0.UMLMIXM_794ee5844b_14.0.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS1.0.6.0.UMLMIXM
+- android: '14.0'
+  codename: corot
   date: '2024-06-26'
   download: https://bigota.d.miui.com/OS1.0.8.0.UMLEUXM/fw_corot_miui_COROTEEAGlobal_OS1.0.8.0.UMLEUXM_ca4b8ac80d_14.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
@@ -796,6 +808,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UNSINXM/fw_dizi_miui_DIZIINGlobal_OS1.0.3.0.UNSINXM_3d4839b44e_14.0.zip
   name: Redmi Pad Pro/POCO Pad
   version: OS1.0.3.0.UNSINXM
+- android: '14.0'
+  codename: dizi
+  date: '2024-08-26'
+  download: https://bigota.d.miui.com/OS1.0.15.0.UNSCNXM/fw_dizi_miui_DIZI_OS1.0.15.0.UNSCNXM_49b143db32_14.0.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS1.0.15.0.UNSCNXM
 - android: '14.0'
   codename: dizi
   date: '2024-08-24'
@@ -1198,6 +1216,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMXMIXM/fw_fire_miui_FIREGlobal_OS1.0.4.0.UMXMIXM_d3b013b97b_14.0.zip
   name: Redmi 12
   version: OS1.0.4.0.UMXMIXM
+- android: '14.0'
+  codename: fire
+  date: '2024-08-26'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMXMIXM/fw_fire_miui_FIREGlobal_OS1.0.7.0.UMXMIXM_4554eded8d_14.0.zip
+  name: Redmi 12
+  version: OS1.0.7.0.UMXMIXM
 - android: '14.0'
   codename: fire
   date: '2024-06-24'
@@ -2112,6 +2136,12 @@
   version: OS1.0.1.0.ULSINXM
 - android: '14.0'
   codename: light
+  date: '2024-08-26'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULSEUXM/fw_light_miui_LIGHTEEAGlobal_OS1.0.5.0.ULSEUXM_d1b540599f_14.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: OS1.0.5.0.ULSEUXM
+- android: '14.0'
+  codename: light
   date: '2024-02-26'
   download: https://bigota.d.miui.com/OS1.0.2.0.ULSEUXM/fw_light_miui_LIGHTEEAGlobal_OS1.0.2.0.ULSEUXM_d416f577f6_14.0.zip
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
@@ -2488,6 +2518,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UMNCNXM/fw_mondrian_miui_MONDRIAN_OS1.0.8.0.UMNCNXM_a1d4b475b7_14.0.zip
   name: Redmi K60/POCO F5 Pro
   version: OS1.0.8.0.UMNCNXM
+- android: '14.0'
+  codename: mondrian
+  date: '2024-08-26'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMNEUXM/fw_mondrian_miui_MONDRIANEEAGlobal_OS1.0.7.0.UMNEUXM_e16a4378cf_14.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS1.0.7.0.UMNEUXM
 - android: '14.0'
   codename: mondrian
   date: '2024-01-24'

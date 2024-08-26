@@ -57,12 +57,13 @@ permalink: /hyperos/emerald/
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UNFEUXM</td><td>14.0</td><td>4.7 GB</td><td>2024-08-18</td><td><a href="/hyperos/emerald/stable beta/OS1.0.4.0.UNFEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UNFMIXM</td><td>14.0</td><td>7.6 GB</td><td>2024-07-31</td><td><a href="/hyperos/emerald/stable/OS1.0.4.0.UNFMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNFMIXM</td><td>14.0</td><td>4.7 GB</td><td>2024-08-09</td><td><a href="/hyperos/emerald/stable/OS1.0.4.0.UNFMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UNFIDXM</td><td>14.0</td><td>4.7 GB</td><td>2024-04-09</td><td><a href="/hyperos/emerald/stable/OS1.0.1.0.UNFIDXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UNFIDXM</td><td>14.0</td><td>4.7 GB</td><td>2024-08-13</td><td><a href="/hyperos/emerald/stable beta/OS1.0.3.0.UNFIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UNFIDXM</td><td>14.0</td><td>6.9 GB</td><td>2024-08-01</td><td><a href="/hyperos/emerald/stable/OS1.0.3.0.UNFIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNFIDXM</td><td>14.0</td><td>4.7 GB</td><td>2024-08-13</td><td><a href="/hyperos/emerald/stable/OS1.0.3.0.UNFIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UNFRUXM</td><td>14.0</td><td>7.4 GB</td><td>2024-07-17</td><td><a href="/hyperos/emerald/stable/OS1.0.3.0.UNFRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNFRUXM</td><td>14.0</td><td>4.6 GB</td><td>2024-08-07</td><td><a href="/hyperos/emerald/stable/OS1.0.3.0.UNFRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UNFTRXM</td><td>14.0</td><td>6.6 GB</td><td>2024-07-19</td><td><a href="/hyperos/emerald/stable/OS1.0.3.0.UNFTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNFTRXM</td><td>14.0</td><td>4.6 GB</td><td>2024-08-07</td><td><a href="/hyperos/emerald/stable/OS1.0.3.0.UNFTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UNFTRXM</td><td>14.0</td><td>4.6 GB</td><td>2024-08-26</td><td><a href="/hyperos/emerald/stable beta/OS1.0.4.0.UNFTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
