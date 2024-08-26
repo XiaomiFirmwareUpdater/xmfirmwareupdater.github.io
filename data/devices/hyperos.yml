@@ -3060,6 +3060,12 @@
   version: OS1.0.3.0.UNPEUXM
 - android: '14.0'
   codename: peridot
+  date: '2024-08-26'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNPEUXM/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.4.0.UNPEUXM_5fbd0a4e8c_14.0.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS1.0.4.0.UNPEUXM
+- android: '14.0'
+  codename: peridot
   date: '2024-05-23'
   download: https://bigota.d.miui.com/OS1.0.1.0.UNPEUXM/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.1.0.UNPEUXM_19970ce1a9_14.0.zip
   name: Redmi Turbo 3/POCO F6
@@ -3264,6 +3270,12 @@
   version: OS1.0.2.0.TKTCNXM
 - android: '13.0'
   codename: pissarro
+  date: '2024-08-26'
+  download: https://bigota.d.miui.com/OS1.0.5.0.TKTEUXM/fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.5.0.TKTEUXM_de8a30c1ff_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: OS1.0.5.0.TKTEUXM
+- android: '13.0'
+  codename: pissarro
   date: '2024-06-26'
   download: https://bigota.d.miui.com/OS1.0.3.0.TKTINXM/fw_pissarro_miui_PISSARROINGlobal_OS1.0.3.0.TKTINXM_4f7813c882_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
@@ -3316,6 +3328,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.TKTEUXM/fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.2.0.TKTEUXM_d172ed0f80_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
   version: OS1.0.2.0.TKTEUXM
+- android: '14.0'
+  codename: plato
+  date: '2024-08-26'
+  download: https://bigota.d.miui.com/OS1.0.13.0.ULQEUXM/fw_plato_miui_PLATOEEAGlobal_OS1.0.13.0.ULQEUXM_3f09ba3278_14.0.zip
+  name: Xiaomi 12T
+  version: OS1.0.13.0.ULQEUXM
 - android: '14.0'
   codename: plato
   date: '2024-05-24'
@@ -4444,6 +4462,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.TGKMIXM/fw_spesn_miui_SPESNGlobal_OS1.0.3.0.TGKMIXM_21b3b58697_13.0.zip
   name: Redmi Note 11 NFC
   version: OS1.0.3.0.TGKMIXM
+- android: '14.0'
+  codename: star
+  date: '2024-08-26'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UKAEUXM/fw_star_miui_STAREEAGlobal_OS1.0.4.0.UKAEUXM_a013e99530_14.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: OS1.0.4.0.UKAEUXM
 - android: '14.0'
   codename: star
   date: '2024-05-23'
