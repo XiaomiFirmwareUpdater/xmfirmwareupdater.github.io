@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-07-19'
+  date: '2024-08-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-19.07.2024/fw_vermeer_miui_VERMEERGlobal_OS1.0.5.0.UNKMIXM_b79177253b_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vermeer/fw_vermeer_miui_VERMEERGlobal_OS1.0.5.0.UNKMIXM_b79177253b_14.0.zip
-  filename: fw_vermeer_miui_VERMEERGlobal_OS1.0.5.0.UNKMIXM_b79177253b_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-26.08.2024/fw_vermeer_miui_VERMEERGlobal_OS1.0.6.0.UNKMIXM_2a593174ed_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vermeer/fw_vermeer_miui_VERMEERGlobal_OS1.0.6.0.UNKMIXM_2a593174ed_14.0.zip
+  filename: fw_vermeer_miui_VERMEERGlobal_OS1.0.6.0.UNKMIXM_2a593174ed_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UNKMIXM
+    miui: OS1.0.6.0.UNKMIXM
 - branch: stable
   date: '2024-08-17'
   downloads:
@@ -19,12 +19,12 @@
     android: '14.0'
     miui: OS1.0.18.0.UNKCNXM
 - branch: stable
-  date: '2024-07-16'
+  date: '2024-08-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-16.07.2024/fw_vermeer_miui_VERMEEREEAGlobal_OS1.0.5.0.UNKEUXM_908471295c_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vermeer/fw_vermeer_miui_VERMEEREEAGlobal_OS1.0.5.0.UNKEUXM_908471295c_14.0.zip
-  filename: fw_vermeer_miui_VERMEEREEAGlobal_OS1.0.5.0.UNKEUXM_908471295c_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-26.08.2024/fw_vermeer_miui_VERMEEREEAGlobal_OS1.0.6.0.UNKEUXM_57d6ec2368_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vermeer/fw_vermeer_miui_VERMEEREEAGlobal_OS1.0.6.0.UNKEUXM_57d6ec2368_14.0.zip
+  filename: fw_vermeer_miui_VERMEEREEAGlobal_OS1.0.6.0.UNKEUXM_57d6ec2368_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UNKEUXM
+    miui: OS1.0.6.0.UNKEUXM

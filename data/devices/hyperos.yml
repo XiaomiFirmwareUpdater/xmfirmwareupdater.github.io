@@ -2022,6 +2022,12 @@
   version: OS1.0.8.0.UMAEUXM
 - android: '14.0'
   codename: ishtar
+  date: '2024-08-25'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UMAEUXM/fw_ishtar_miui_ISHTAREEAGlobal_OS1.0.11.0.UMAEUXM_52ce413c30_14.0.zip
+  name: Xiaomi 13 Ultra
+  version: OS1.0.11.0.UMAEUXM
+- android: '14.0'
+  codename: ishtar
   date: '2024-06-25'
   download: https://bigota.d.miui.com/OS1.0.7.0.UMAMIXM/fw_ishtar_miui_ISHTARGlobal_OS1.0.7.0.UMAMIXM_4162714934_14.0.zip
   name: Xiaomi 13 Ultra
@@ -2974,6 +2980,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UKMCNXM/fw_odin_miui_ODIN_OS1.0.2.0.UKMCNXM_af3b0d3530_14.0.zip
   name: MIX 4
   version: OS1.0.2.0.UKMCNXM
+- android: '13.0'
+  codename: opal
+  date: '2024-08-25'
+  download: https://bigota.d.miui.com/OS1.0.3.0.TGLEUXM/fw_opal_miui_OPALEEAGlobal_OS1.0.3.0.TGLEUXM_1f4479a81d_13.0.zip
+  name: Redmi Note 11S 5G
+  version: OS1.0.3.0.TGLEUXM
 - android: '13.0'
   codename: opal
   date: '2024-04-06'
@@ -4798,6 +4810,18 @@
   download: https://bigota.d.miui.com/OS1.0.15.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.15.0.UNKCNXM_2100d3fc37_14.0.zip
   name: Redmi K70/POCO F6 Pro
   version: OS1.0.15.0.UNKCNXM
+- android: '14.0'
+  codename: vermeer
+  date: '2024-08-25'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UNKEUXM/fw_vermeer_miui_VERMEEREEAGlobal_OS1.0.6.0.UNKEUXM_57d6ec2368_14.0.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS1.0.6.0.UNKEUXM
+- android: '14.0'
+  codename: vermeer
+  date: '2024-08-26'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UNKMIXM/fw_vermeer_miui_VERMEERGlobal_OS1.0.6.0.UNKMIXM_2a593174ed_14.0.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS1.0.6.0.UNKMIXM
 - android: '14.0'
   codename: vermeer
   date: '2024-06-24'
