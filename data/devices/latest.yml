@@ -5019,6 +5019,26 @@
     android: '14.0'
     miui: OS1.0.11.0.UMKCNXM
 - branch: stable
+  date: '2024-08-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spark/releases/download/stable-27.08.2024/fw_spark_miui_SPARKGlobal_OS1.0.4.0.UHYMIXM_63079818cf_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/spark/fw_spark_miui_SPARKGlobal_OS1.0.4.0.UHYMIXM_63079818cf_14.0.zip
+  filename: fw_spark_miui_SPARKGlobal_OS1.0.4.0.UHYMIXM_63079818cf_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UHYMIXM
+- branch: stable
+  date: '2024-08-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spark/releases/download/stable-27.08.2024/fw_spark_miui_SPARKEEAGlobal_OS1.0.4.0.UHYEUXM_15cba1d451_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/spark/fw_spark_miui_SPARKEEAGlobal_OS1.0.4.0.UHYEUXM_15cba1d451_14.0.zip
+  filename: fw_spark_miui_SPARKEEAGlobal_OS1.0.4.0.UHYEUXM_15cba1d451_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UHYEUXM
+- branch: stable
   date: '2024-08-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spark/releases/download/stable-15.08.2024/fw_spark_miui_SPARKINGlobal_OS1.0.2.0.UHYINXM_9c5c84380e_14.0.zip
@@ -6299,12 +6319,12 @@
     android: '14.0'
     miui: OS1.0.6.0.ULLEUXM
 - branch: stable
-  date: '2024-07-28'
+  date: '2024-08-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zizhan/releases/download/stable-28.07.2024/fw_zizhan_miui_ZIZHAN_OS1.0.7.0.ULRCNXM_7e7a34b825_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zizhan/fw_zizhan_miui_ZIZHAN_OS1.0.7.0.ULRCNXM_7e7a34b825_14.0.zip
-  filename: fw_zizhan_miui_ZIZHAN_OS1.0.7.0.ULRCNXM_7e7a34b825_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zizhan/releases/download/stable-27.08.2024/fw_zizhan_miui_ZIZHAN_OS1.0.9.0.ULRCNXM_f946fac805_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zizhan/fw_zizhan_miui_ZIZHAN_OS1.0.9.0.ULRCNXM_f946fac805_14.0.zip
+  filename: fw_zizhan_miui_ZIZHAN_OS1.0.9.0.ULRCNXM_f946fac805_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.7.0.ULRCNXM
+    miui: OS1.0.9.0.ULRCNXM
