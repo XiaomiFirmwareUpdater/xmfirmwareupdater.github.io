@@ -4465,6 +4465,12 @@
 - android: '14.0'
   codename: star
   date: '2024-08-26'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UKAMIXM/fw_star_miui_STARGlobal_OS1.0.4.0.UKAMIXM_ef09773d7e_14.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: OS1.0.4.0.UKAMIXM
+- android: '14.0'
+  codename: star
+  date: '2024-08-26'
   download: https://bigota.d.miui.com/OS1.0.4.0.UKAEUXM/fw_star_miui_STAREEAGlobal_OS1.0.4.0.UKAEUXM_a013e99530_14.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: OS1.0.4.0.UKAEUXM
@@ -5244,6 +5250,12 @@
   version: OS1.0.1.0.UMUINXM
 - android: '14.0'
   codename: xun
+  date: '2024-08-26'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMUCNXM/fw_xun_miui_XUN_OS1.0.6.0.UMUCNXM_b30d1780e9_14.0.zip
+  name: Redmi Pad SE
+  version: OS1.0.6.0.UMUCNXM
+- android: '14.0'
+  codename: xun
   date: '2024-08-20'
   download: https://bigota.d.miui.com/OS1.0.3.0.UMUMIXM/fw_xun_miui_XUNGlobal_OS1.0.3.0.UMUMIXM_9595cb289b_14.0.zip
   name: Redmi Pad SE
@@ -5278,6 +5290,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMUCNXM/fw_xun_miui_XUN_OS1.0.5.0.UMUCNXM_892043337f_14.0.zip
   name: Redmi Pad SE
   version: OS1.0.5.0.UMUCNXM
+- android: '14.0'
+  codename: yudi
+  date: '2024-08-27'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UMHCNXM/fw_yudi_miui_YUDI_OS1.0.12.0.UMHCNXM_795f353142_14.0.zip
+  name: Xiaomi Pad 6 Max 14
+  version: OS1.0.12.0.UMHCNXM
 - android: '14.0'
   codename: yudi
   date: '2024-06-17'
@@ -5398,6 +5416,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULYMIXM/fw_yunluo_miui_YUNLUOGlobal_OS1.0.2.0.ULYMIXM_5f7f0c202a_14.0.zip
   name: Redmi Pad
   version: OS1.0.2.0.ULYMIXM
+- android: '14.0'
+  codename: zeus
+  date: '2024-08-27'
+  download: https://bigota.d.miui.com/OS1.0.11.0.ULBEUXM/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.11.0.ULBEUXM_f8aef42752_14.0.zip
+  name: Xiaomi 12 Pro
+  version: OS1.0.11.0.ULBEUXM
 - android: '14.0'
   codename: zeus
   date: '2024-06-24'

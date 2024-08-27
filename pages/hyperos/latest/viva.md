@@ -64,6 +64,7 @@ permalink: /hyperos/viva/
 <tr><td>Redmi Note 11 Pro 4G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TGDTRXM</td><td>13.0</td><td>3.8 GB</td><td>2024-04-01</td><td><a href="/hyperos/viva/stable/OS1.0.1.0.TGDTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 4G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.TGDTWXM</td><td>13.0</td><td>5.3 GB</td><td>2024-03-01</td><td><a href="/hyperos/viva/stable/OS1.0.3.0.TGDTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 4G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.TGDTWXM</td><td>13.0</td><td>3.7 GB</td><td>2024-03-05</td><td><a href="/hyperos/viva/stable/OS1.0.3.0.TGDTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 4G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.TGDTWXM</td><td>13.0</td><td>3.7 GB</td><td>2024-08-23</td><td><a href="/hyperos/viva/stable beta/OS1.0.4.0.TGDTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
