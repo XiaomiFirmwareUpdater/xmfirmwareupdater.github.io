@@ -3168,6 +3168,12 @@
   version: OS1.0.6.0.UMZMIXM
 - android: '14.0'
   codename: pipa
+  date: '2024-08-27'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMZINXM/fw_pipa_miui_PIPAINGlobal_OS1.0.6.0.UMZINXM_750d0ea1c8_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.6.0.UMZINXM
+- android: '14.0'
+  codename: pipa
   date: '2024-08-26'
   download: https://bigota.d.miui.com/OS1.0.10.0.UMZMIXM/fw_pipa_miui_PIPAGlobal_OS1.0.10.0.UMZMIXM_e8c09738d8_14.0.zip
   name: Xiaomi Pad 6
@@ -3718,6 +3724,12 @@
   download: https://bigota.d.miui.com/OS1.0.19.0.UNNCNXM/fw_rothko_miui_ROTHKO_OS1.0.19.0.UNNCNXM_68d5ad910e_14.0.zip
   name: Redmi K70 Ultra
   version: OS1.0.19.0.UNNCNXM
+- android: '14.0'
+  codename: ruan
+  date: '2024-08-28'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UFSCNXM/fw_ruan_miui_RUAN_OS1.0.5.0.UFSCNXM_2d02628c94_14.0.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS1.0.5.0.UFSCNXM
 - android: '14.0'
   codename: ruan
   date: '2024-08-23'

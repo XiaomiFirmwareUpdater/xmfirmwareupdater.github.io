@@ -3959,15 +3959,15 @@
     android: '14.0'
     miui: OS1.0.7.0.UMZEUXM
 - branch: stable
-  date: '2024-07-30'
+  date: '2024-08-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-30.07.2024/fw_pipa_miui_PIPAINGlobal_OS1.0.5.0.UMZINXM_98b65c88cf_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pipa/fw_pipa_miui_PIPAINGlobal_OS1.0.5.0.UMZINXM_98b65c88cf_14.0.zip
-  filename: fw_pipa_miui_PIPAINGlobal_OS1.0.5.0.UMZINXM_98b65c88cf_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-28.08.2024/fw_pipa_miui_PIPAINGlobal_OS1.0.6.0.UMZINXM_750d0ea1c8_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pipa/fw_pipa_miui_PIPAINGlobal_OS1.0.6.0.UMZINXM_750d0ea1c8_14.0.zip
+  filename: fw_pipa_miui_PIPAINGlobal_OS1.0.6.0.UMZINXM_750d0ea1c8_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UMZINXM
+    miui: OS1.0.6.0.UMZINXM
 - branch: stable
   date: '2024-08-01'
   downloads:
@@ -4559,15 +4559,15 @@
     android: '14.0'
     miui: OS1.0.2.0.UFSMIXM
 - branch: stable
-  date: '2024-07-09'
+  date: '2024-08-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-09.07.2024/fw_ruan_miui_RUAN_OS1.0.3.0.UFSCNXM_5885e36f01_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruan/fw_ruan_miui_RUAN_OS1.0.3.0.UFSCNXM_5885e36f01_14.0.zip
-  filename: fw_ruan_miui_RUAN_OS1.0.3.0.UFSCNXM_5885e36f01_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-28.08.2024/fw_ruan_miui_RUAN_OS1.0.5.0.UFSCNXM_2d02628c94_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruan/fw_ruan_miui_RUAN_OS1.0.5.0.UFSCNXM_2d02628c94_14.0.zip
+  filename: fw_ruan_miui_RUAN_OS1.0.5.0.UFSCNXM_2d02628c94_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.3.0.UFSCNXM
+    miui: OS1.0.5.0.UFSCNXM
 - branch: stable
   date: '2024-08-07'
   downloads:
