@@ -2377,6 +2377,18 @@
 - android: '14.0'
   codename: marble
   date: '2024-08-29'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UMREUXM/fw_marble_miui_MARBLEEEAGlobal_OS1.0.10.0.UMREUXM_bd999cf028_14.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS1.0.10.0.UMREUXM
+- android: '14.0'
+  codename: marble
+  date: '2024-08-29'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMRMIXM/fw_marble_miui_MARBLEGlobal_OS1.0.8.0.UMRMIXM_34e945ae40_14.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS1.0.8.0.UMRMIXM
+- android: '14.0'
+  codename: marble
+  date: '2024-08-29'
   download: https://bigota.d.miui.com/OS1.0.11.0.UMRINXM/fw_marble_miui_MARBLEINGlobal_OS1.0.11.0.UMRINXM_426e58b712_14.0.zip
   name: Redmi Note 12 Turbo/POCO F5
   version: OS1.0.11.0.UMRINXM
@@ -5142,6 +5154,12 @@
   version: OS1.0.3.0.TKCEUXM
 - android: '13.0'
   codename: veux
+  date: '2024-08-29'
+  download: https://bigota.d.miui.com/OS1.0.4.0.TKCCNXM/fw_veux_miui_VEUX_OS1.0.4.0.TKCCNXM_09e1752d4b_13.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: OS1.0.4.0.TKCCNXM
+- android: '13.0'
+  codename: veux
   date: '2024-08-23'
   download: https://bigota.d.miui.com/OS1.0.4.0.TKCEUXM/fw_veux_miui_VEUXEEAGlobal_OS1.0.4.0.TKCEUXM_9aef24c7f3_13.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
@@ -5266,6 +5284,24 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.TGDMIXM/fw_viva_miui_VIVAGlobal_OS1.0.3.0.TGDMIXM_6f1ff58bc0_13.0.zip
   name: Redmi Note 11 Pro 4G
   version: OS1.0.3.0.TGDMIXM
+- android: '14.0'
+  codename: xaga
+  date: '2024-08-29'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULOEUXM/fw_xaga_miui_XAGAEEAGlobal_OS1.0.5.0.ULOEUXM_6c8031c6aa_14.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS1.0.5.0.ULOEUXM
+- android: '14.0'
+  codename: xaga
+  date: '2024-08-29'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULOMIXM/fw_xaga_miui_XAGAGlobal_OS1.0.4.0.ULOMIXM_9500e3fb4f_14.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS1.0.4.0.ULOMIXM
+- android: '14.0'
+  codename: xaga
+  date: '2024-08-29'
+  download: https://bigota.d.miui.com/OS1.0.3.0.ULOINXM/fw_xaga_miui_XAGAINGlobal_OS1.0.3.0.ULOINXM_91cb390d92_14.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS1.0.3.0.ULOINXM
 - android: '14.0'
   codename: xaga
   date: '2024-05-28'
