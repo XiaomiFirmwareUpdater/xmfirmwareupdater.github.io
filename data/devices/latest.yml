@@ -3039,15 +3039,15 @@
     android: '14.0'
     miui: OS1.0.9.0.UMREUXM
 - branch: stable
-  date: '2024-08-09'
+  date: '2024-08-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-09.08.2024/fw_marble_miui_MARBLEINGlobal_OS1.0.10.0.UMRINXM_2060850bfc_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEINGlobal_OS1.0.10.0.UMRINXM_2060850bfc_14.0.zip
-  filename: fw_marble_miui_MARBLEINGlobal_OS1.0.10.0.UMRINXM_2060850bfc_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-29.08.2024/fw_marble_miui_MARBLEINGlobal_OS1.0.11.0.UMRINXM_426e58b712_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEINGlobal_OS1.0.11.0.UMRINXM_426e58b712_14.0.zip
+  filename: fw_marble_miui_MARBLEINGlobal_OS1.0.11.0.UMRINXM_426e58b712_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.10.0.UMRINXM
+    miui: OS1.0.11.0.UMRINXM
 - branch: stable
   date: '2019-05-20'
   downloads:
@@ -4869,15 +4869,15 @@
     android: '14.0'
     miui: OS1.0.9.0.UHZMIXM
 - branch: stable
-  date: '2024-07-30'
+  date: '2024-08-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-30.07.2024/fw_sea_miui_SEAEEAGlobal_OS1.0.6.0.UHZEUXM_0fd6b993ae_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sea/fw_sea_miui_SEAEEAGlobal_OS1.0.6.0.UHZEUXM_0fd6b993ae_14.0.zip
-  filename: fw_sea_miui_SEAEEAGlobal_OS1.0.6.0.UHZEUXM_0fd6b993ae_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-29.08.2024/fw_sea_miui_SEAEEAGlobal_OS1.0.7.0.UHZEUXM_a32a570837_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sea/fw_sea_miui_SEAEEAGlobal_OS1.0.7.0.UHZEUXM_a32a570837_14.0.zip
+  filename: fw_sea_miui_SEAEEAGlobal_OS1.0.7.0.UHZEUXM_a32a570837_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.UHZEUXM
+    miui: OS1.0.7.0.UHZEUXM
 - branch: stable
   date: '2024-05-13'
   downloads:
@@ -5119,15 +5119,15 @@
     android: '14.0'
     miui: OS1.0.4.0.UKAMIXM
 - branch: stable
-  date: '2024-07-01'
+  date: '2024-08-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-01.07.2024/fw_star_miui_STAR_OS1.0.3.0.UKACNXM_654946af55_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/star/fw_star_miui_STAR_OS1.0.3.0.UKACNXM_654946af55_14.0.zip
-  filename: fw_star_miui_STAR_OS1.0.3.0.UKACNXM_654946af55_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-29.08.2024/fw_star_miui_STAR_OS1.0.4.0.UKACNXM_4a8df9c3ad_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/star/fw_star_miui_STAR_OS1.0.4.0.UKACNXM_4a8df9c3ad_14.0.zip
+  filename: fw_star_miui_STAR_OS1.0.4.0.UKACNXM_4a8df9c3ad_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.3.0.UKACNXM
+    miui: OS1.0.4.0.UKACNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:

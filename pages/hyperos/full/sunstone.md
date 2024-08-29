@@ -52,7 +52,8 @@ permalink: /archive/hyperos/sunstone/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.UMQMIXM</td><td>14.0</td><td>3.9 GB</td><td>2024-08-23</td><td><a href="/hyperos/sunstone/stable beta/OS1.0.7.0.UMQMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UMQTWXM</td><td>14.0</td><td>3.8 GB</td><td>2024-08-26</td><td><a href="/hyperos/sunstone/stable beta/OS1.0.2.0.UMQTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.UMQMIXM</td><td>14.0</td><td>3.9 GB</td><td>2024-08-23</td><td><a href="/hyperos/sunstone/stable beta/OS1.0.7.0.UMQMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UMQINXM</td><td>14.0</td><td>3.8 GB</td><td>2024-08-23</td><td><a href="/hyperos/sunstone/stable beta/OS1.0.4.0.UMQINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 5G / Note 12R Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UMQCNXM</td><td>14.0</td><td>4.4 GB</td><td>2024-08-23</td><td><a href="/hyperos/sunstone/stable beta/OS1.0.3.0.UMQCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UMQEUXM</td><td>14.0</td><td>4.0 GB</td><td>2024-07-29</td><td><a href="/hyperos/sunstone/stable/OS1.0.8.0.UMQEUXM/">Download</a></td></tr>
