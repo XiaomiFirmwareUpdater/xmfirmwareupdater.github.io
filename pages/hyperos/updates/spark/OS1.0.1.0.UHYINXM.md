@@ -1,7 +1,7 @@
 ---
-title: Redmi Pad SE 4G 8.7 India HyperOS OS1.0.1.0.UHYINXM Update
+title: Redmi Pad SE 8.7 4G India HyperOS OS1.0.1.0.UHYINXM Update
 layout: download
-name: Redmi Pad SE 4G 8.7 India
+name: Redmi Pad SE 8.7 4G India
 codename: spark
 permalink: /hyperos/spark/stable/OS1.0.1.0.UHYINXM/
 ---
@@ -9,7 +9,7 @@ permalink: /hyperos/spark/stable/OS1.0.1.0.UHYINXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/spark/">Redmi Pad SE 4G 8.7 India</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/spark/">Redmi Pad SE 8.7 4G India</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS1.0.1.0.UHYINXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /hyperos/spark/stable/OS1.0.1.0.UHYINXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.1.0.UHYINXM Stable Official Update for Redmi Pad SE 4G 8.7 India (spark)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.1.0.UHYINXM Stable Official Update for Redmi Pad SE 8.7 4G India (spark)</h3>
     <h5>This page shows the OS1.0.1.0.UHYINXM update only. If you're looking for other updates check
         <a href="/hyperos/spark/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -44,7 +44,7 @@ permalink: /hyperos/spark/stable/OS1.0.1.0.UHYINXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Pad SE 4G 8.7 India</h5>
+                    <h5><b>Device: </b>Redmi Pad SE 8.7 4G India</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/spark/" target="_blank">spark</a> </h5>
@@ -87,7 +87,7 @@ permalink: /hyperos/spark/stable/OS1.0.1.0.UHYINXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Pad SE 4G 8.7 India</h5>
+                    <h5><b>Device: </b>Redmi Pad SE 8.7 4G India</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/spark/" target="_blank">spark</a> </h5>

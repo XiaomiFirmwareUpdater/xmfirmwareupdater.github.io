@@ -42,6 +42,12 @@
   version: OS1.0.2.0.UGQINXM
 - android: '14.0'
   codename: air
+  date: '2024-08-28'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UGQEUXM/fw_air_miui_AIREEAGlobal_OS1.0.2.0.UGQEUXM_486f7a4a37_14.0.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS1.0.2.0.UGQEUXM
+- android: '14.0'
+  codename: air
   date: '2024-06-21'
   download: https://bigota.d.miui.com/OS1.0.2.0.UGQMIXM/fw_air_miui_AIRGlobal_OS1.0.2.0.UGQMIXM_3a209a95cf_14.0.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
@@ -454,6 +460,12 @@
   download: https://bigota.d.miui.com/OS1.0.11.0.UNJCNXM/fw_chenfeng_miui_CHENFENG_OS1.0.11.0.UNJCNXM_9bc5ebf131_14.0.zip
   name: Xiaomi Civi 4 Pro
   version: OS1.0.11.0.UNJCNXM
+- android: '14.0'
+  codename: corot
+  date: '2024-08-28'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMLEUXM/fw_corot_miui_COROTEEAGlobal_OS1.0.9.0.UMLEUXM_158d3aa902_14.0.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS1.0.9.0.UMLEUXM
 - android: '14.0'
   codename: corot
   date: '2024-03-28'
@@ -1282,6 +1294,18 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMXEUXM/fw_fire_miui_FIREEEAGlobal_OS1.0.2.0.UMXEUXM_a32447ba31_14.0.zip
   name: Redmi 12
   version: OS1.0.2.0.UMXEUXM
+- android: '14.0'
+  codename: flare
+  date: '2024-08-28'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UHXEUXM/fw_flare_miui_FLAREEEAGlobal_OS1.0.3.0.UHXEUXM_497ec4a320_14.0.zip
+  name: Redmi Pad SE 8.7 5G
+  version: OS1.0.3.0.UHXEUXM
+- android: '14.0'
+  codename: flare
+  date: '2024-08-29'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UHXMIXM/fw_flare_miui_FLAREGlobal_OS1.0.5.0.UHXMIXM_28120a5745_14.0.zip
+  name: Redmi Pad SE 8.7 5G
+  version: OS1.0.5.0.UHXMIXM
 - android: '13.0'
   codename: fleur
   date: '2024-03-28'
@@ -2680,6 +2704,18 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMPINXM/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.3.0.UMPINXM_14fa4b9ecf_14.0.zip
   name: POCO X5 5G
   version: OS1.0.3.0.UMPINXM
+- android: '14.0'
+  codename: moonstone
+  date: '2024-08-28'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMPEUXM/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.6.0.UMPEUXM_6ff2ae4891_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.6.0.UMPEUXM
+- android: '14.0'
+  codename: moonstone
+  date: '2024-08-28'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMPINXM/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.6.0.UMPINXM_971ff5a856_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.6.0.UMPINXM
 - android: '14.0'
   codename: moonstone
   date: '2024-06-24'
@@ -4436,19 +4472,19 @@
   codename: spark
   date: '2024-08-27'
   download: https://bigota.d.miui.com/OS1.0.4.0.UHYEUXM/fw_spark_miui_SPARKEEAGlobal_OS1.0.4.0.UHYEUXM_15cba1d451_14.0.zip
-  name: Redmi Pad SE 4G 8.7
+  name: Redmi Pad SE 8.7 4G
   version: OS1.0.4.0.UHYEUXM
 - android: '14.0'
   codename: spark
   date: '2024-08-27'
   download: https://bigota.d.miui.com/OS1.0.4.0.UHYMIXM/fw_spark_miui_SPARKGlobal_OS1.0.4.0.UHYMIXM_63079818cf_14.0.zip
-  name: Redmi Pad SE 4G 8.7
+  name: Redmi Pad SE 8.7 4G
   version: OS1.0.4.0.UHYMIXM
 - android: '14.0'
   codename: spark
   date: '2024-08-15'
   download: https://bigota.d.miui.com/OS1.0.2.0.UHYINXM/fw_spark_miui_SPARKINGlobal_OS1.0.2.0.UHYINXM_9c5c84380e_14.0.zip
-  name: Redmi Pad SE 4G 8.7
+  name: Redmi Pad SE 8.7 4G
   version: OS1.0.2.0.UHYINXM
 - android: '13.0'
   codename: spes

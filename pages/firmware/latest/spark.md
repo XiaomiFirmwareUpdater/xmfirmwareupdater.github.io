@@ -1,7 +1,7 @@
 ---
-title: Redmi Pad SE 4G 8.7 (spark) Firmware Downloads
+title: Redmi Pad SE 8.7 4G (spark) Firmware Downloads
 layout: download
-name: Redmi Pad SE 4G 8.7
+name: Redmi Pad SE 8.7 4G
 codename: spark
 permalink: /firmware/spark/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/spark/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/spark/">Redmi Pad SE 4G 8.7</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/spark/">Redmi Pad SE 8.7 4G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

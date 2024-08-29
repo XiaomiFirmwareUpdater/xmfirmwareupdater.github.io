@@ -52,10 +52,9 @@ permalink: /hyperos/rubens/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.ULNCNXM</td><td>14.0</td><td>7.3 GB</td><td>2024-07-18</td><td><a href="/hyperos/rubens/stable/OS1.0.8.0.ULNCNXM/">Download</a></td></tr>
-<tr><td>Redmi K50 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.ULNCNXM</td><td>14.0</td><td>6.1 GB</td><td>2024-07-28</td><td><a href="/hyperos/rubens/stable/OS1.0.8.0.ULNCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K50 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.ULNCNXM</td><td>14.0</td><td>7.3 GB</td><td>2024-08-06</td><td><a href="/hyperos/rubens/stable/OS1.0.10.0.ULNCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.ULNCNXM</td><td>14.0</td><td>6.1 GB</td><td>2024-08-16</td><td><a href="/hyperos/rubens/stable/OS1.0.10.0.ULNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>6.1 GB</td><td>2024-01-12</td><td><a href="/hyperos/rubens/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
-<tr><td>Redmi K50 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.10.0.ULNCNXM</td><td>14.0</td><td>6.1 GB</td><td>2024-08-16</td><td><a href="/hyperos/rubens/stable beta/OS1.0.10.0.ULNCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -1,7 +1,7 @@
 ---
-title: Redmi Pad SE 4G 8.7 Global HyperOS OS1.0.4.0.UHYMIXM Update
+title: Redmi Pad SE 8.7 4G Global HyperOS OS1.0.4.0.UHYMIXM Update
 layout: download
-name: Redmi Pad SE 4G 8.7 Global
+name: Redmi Pad SE 8.7 4G Global
 codename: spark
 permalink: /hyperos/spark/stable/OS1.0.4.0.UHYMIXM/
 ---
@@ -9,7 +9,7 @@ permalink: /hyperos/spark/stable/OS1.0.4.0.UHYMIXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/spark/">Redmi Pad SE 4G 8.7 Global</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/spark/">Redmi Pad SE 8.7 4G Global</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS1.0.4.0.UHYMIXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /hyperos/spark/stable/OS1.0.4.0.UHYMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.4.0.UHYMIXM Stable Official Update for Redmi Pad SE 4G 8.7 Global (spark)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.4.0.UHYMIXM Stable Official Update for Redmi Pad SE 8.7 4G Global (spark)</h3>
     <h5>This page shows the OS1.0.4.0.UHYMIXM update only. If you're looking for other updates check
         <a href="/hyperos/spark/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -44,7 +44,7 @@ permalink: /hyperos/spark/stable/OS1.0.4.0.UHYMIXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Pad SE 4G 8.7 Global</h5>
+                    <h5><b>Device: </b>Redmi Pad SE 8.7 4G Global</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/spark/" target="_blank">spark</a> </h5>
@@ -71,7 +71,7 @@ permalink: /hyperos/spark/stable/OS1.0.4.0.UHYMIXM/
                     <h5><b>MD5: </b><span id="md5" class="text-muted">63079818cf156abdc329e9fa8b034956</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.4.0.UHYMIXM/miui_SPARKGlobal_OS1.0.4.0.UHYMIXM_63079818cf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.4.0.UHYMIXM/miui_SPARKGlobal_OS1.0.4.0.UHYMIXM_63079818cf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.4.0.UHYMIXM/miui_SPARKGlobal_OS1.0.4.0.UHYMIXM_63079818cf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UHYMIXM/miui_SPARKGlobal_OS1.0.4.0.UHYMIXM_63079818cf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.4.0.UHYMIXM/miui_SPARKGlobal_OS1.0.4.0.UHYMIXM_63079818cf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UHYMIXM/miui-blockota-spark_global-OS1.0.1.0.UHYMIXM-OS1.0.4.0.UHYMIXM-dcef35c387-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.4.0.UHYMIXM/miui_SPARKGlobal_OS1.0.4.0.UHYMIXM_63079818cf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.4.0.UHYMIXM/miui_SPARKGlobal_OS1.0.4.0.UHYMIXM_63079818cf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.4.0.UHYMIXM/miui_SPARKGlobal_OS1.0.4.0.UHYMIXM_63079818cf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UHYMIXM/miui_SPARKGlobal_OS1.0.4.0.UHYMIXM_63079818cf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.4.0.UHYMIXM/miui_SPARKGlobal_OS1.0.4.0.UHYMIXM_63079818cf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#spark_1_changelog" data-toggle="collapse" role="button"
@@ -87,7 +87,7 @@ permalink: /hyperos/spark/stable/OS1.0.4.0.UHYMIXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Pad SE 4G 8.7 Global</h5>
+                    <h5><b>Device: </b>Redmi Pad SE 8.7 4G Global</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/spark/" target="_blank">spark</a> </h5>

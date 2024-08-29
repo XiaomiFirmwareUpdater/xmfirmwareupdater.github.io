@@ -1,7 +1,7 @@
 ---
-title: Redmi Pad SE 4G 8.7 Global Firmware OS1.0.4.0.UHYMIXM Update
+title: Redmi Pad SE 8.7 4G Global Firmware OS1.0.4.0.UHYMIXM Update
 layout: download
-name: Redmi Pad SE 4G 8.7 Global
+name: Redmi Pad SE 8.7 4G Global
 codename: spark
 permalink: /firmware/spark/stable/OS1.0.4.0.UHYMIXM/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/spark/stable/OS1.0.4.0.UHYMIXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item"><a href="/firmware/spark/">Redmi Pad SE 4G 8.7 Global</a></li>
+        <li class="breadcrumb-item"><a href="/firmware/spark/">Redmi Pad SE 8.7 4G Global</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS1.0.4.0.UHYMIXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /firmware/spark/stable/OS1.0.4.0.UHYMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">Firmware OS1.0.4.0.UHYMIXM Stable Release for Redmi Pad SE 4G 8.7 Global (spark)</h3>
+    <h3 class="title bg-light p-2 rounded">Firmware OS1.0.4.0.UHYMIXM Stable Release for Redmi Pad SE 8.7 4G Global (spark)</h3>
     <h5>This page shows the OS1.0.4.0.UHYMIXM update only. If you're looking for other updates check
         <a href="/firmware/spark/">here.</a></h5>
     <div class="card">
@@ -42,7 +42,7 @@ permalink: /firmware/spark/stable/OS1.0.4.0.UHYMIXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Pad SE 4G 8.7 Global</h5>
+                    <h5><b>Device: </b>Redmi Pad SE 8.7 4G Global</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/firmware/spark/" target="_blank">spark</a> </h5>
