@@ -2099,15 +2099,15 @@
     android: '11.0'
     miui: V12.5.1.0.RFBEUXM
 - branch: stable
-  date: '2024-08-14'
+  date: '2024-08-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-14.08.2024/fw_haydn_miui_HAYDNGlobal_OS1.0.5.0.UKKMIXM_34609f95fe_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/haydn/fw_haydn_miui_HAYDNGlobal_OS1.0.5.0.UKKMIXM_34609f95fe_14.0.zip
-  filename: fw_haydn_miui_HAYDNGlobal_OS1.0.5.0.UKKMIXM_34609f95fe_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-30.08.2024/fw_haydn_miui_HAYDNGlobal_OS1.0.6.0.UKKMIXM_837b3a3cab_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/haydn/fw_haydn_miui_HAYDNGlobal_OS1.0.6.0.UKKMIXM_837b3a3cab_14.0.zip
+  filename: fw_haydn_miui_HAYDNGlobal_OS1.0.6.0.UKKMIXM_837b3a3cab_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UKKMIXM
+    miui: OS1.0.6.0.UKKMIXM
 - branch: stable
   date: '2024-07-01'
   downloads:
@@ -2129,15 +2129,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2024-08-13'
+  date: '2024-08-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-14.08.2024/fw_haydn_miui_HAYDNEEAGlobal_OS1.0.5.0.UKKEUXM_4cd278bf05_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/haydn/fw_haydn_miui_HAYDNEEAGlobal_OS1.0.5.0.UKKEUXM_4cd278bf05_14.0.zip
-  filename: fw_haydn_miui_HAYDNEEAGlobal_OS1.0.5.0.UKKEUXM_4cd278bf05_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-30.08.2024/fw_haydn_miui_HAYDNEEAGlobal_OS1.0.6.0.UKKEUXM_204f944bde_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/haydn/fw_haydn_miui_HAYDNEEAGlobal_OS1.0.6.0.UKKEUXM_204f944bde_14.0.zip
+  filename: fw_haydn_miui_HAYDNEEAGlobal_OS1.0.6.0.UKKEUXM_204f944bde_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UKKEUXM
+    miui: OS1.0.6.0.UKKEUXM
 - branch: stable
   date: '2024-05-14'
   downloads:
