@@ -816,6 +816,12 @@
   version: OS1.0.7.0.ULFEUXM
 - android: '14.0'
   codename: dizi
+  date: '2024-08-30'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UNSMIXM/fw_dizi_miui_DIZIGlobal_OS1.0.7.0.UNSMIXM_240c10987b_14.0.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS1.0.7.0.UNSMIXM
+- android: '14.0'
+  codename: dizi
   date: '2024-06-27'
   download: https://bigota.d.miui.com/OS1.0.3.0.UNSINXM/fw_dizi_miui_DIZIINGlobal_OS1.0.3.0.UNSINXM_3d4839b44e_14.0.zip
   name: Redmi Pad Pro/POCO Pad
@@ -1044,6 +1050,12 @@
   version: OS1.0.8.0.UNLEUXM
 - android: '14.0'
   codename: earth
+  date: '2024-08-30'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UCVEUXM/fw_earth_miui_EARTHEEAGlobal_OS1.0.5.0.UCVEUXM_cb6382cef1_14.0.zip
+  name: Redmi 12C/POCO C55
+  version: OS1.0.5.0.UCVEUXM
+- android: '14.0'
+  codename: earth
   date: '2024-01-29'
   download: https://bigota.d.miui.com/OS1.0.1.0.UCVCNXM/fw_earth_miui_EARTH_OS1.0.1.0.UCVCNXM_68302d0f82_14.0.zip
   name: Redmi 12C/POCO C55
@@ -1138,6 +1150,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.TKYCNXM/fw_elish_miui_ELISH_OS1.0.1.0.TKYCNXM_3bbd2d29c2_13.0.zip
   name: Xiaomi Pad 5 Pro Wi-Fi
   version: OS1.0.1.0.TKYCNXM
+- android: '14.0'
+  codename: emerald
+  date: '2024-08-30'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.5.0.UNFMIXM_74c2396ed4_14.0.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  version: OS1.0.5.0.UNFMIXM
 - android: '14.0'
   codename: emerald
   date: '2024-07-26'

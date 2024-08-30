@@ -54,19 +54,18 @@ permalink: /hyperos/sapphire/
                 <tbody>
                 <tr><td>Redmi Note 13 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UNGMIXM</td><td>14.0</td><td>7.4 GB</td><td>2024-08-09</td><td><a href="/hyperos/sapphire/stable/OS1.0.6.0.UNGMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UNGMIXM</td><td>14.0</td><td>4.5 GB</td><td>2024-08-18</td><td><a href="/hyperos/sapphire/stable/OS1.0.6.0.UNGMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 NFC EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UNHEUXM</td><td>14.0</td><td>7.0 GB</td><td>2024-07-17</td><td><a href="/hyperos/sapphiren/stable/OS1.0.4.0.UNHEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 NFC EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNHEUXM</td><td>14.0</td><td>4.5 GB</td><td>2024-07-19</td><td><a href="/hyperos/sapphiren/stable/OS1.0.4.0.UNHEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 NFC EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.UNHEUXM</td><td>14.0</td><td>4.5 GB</td><td>2024-08-20</td><td><a href="/hyperos/sapphiren/stable beta/OS1.0.5.0.UNHEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 NFC EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UNHEUXM</td><td>14.0</td><td>6.9 GB</td><td>2024-08-14</td><td><a href="/hyperos/sapphiren/stable/OS1.0.5.0.UNHEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 NFC EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UNHEUXM</td><td>14.0</td><td>4.5 GB</td><td>2024-08-20</td><td><a href="/hyperos/sapphiren/stable/OS1.0.5.0.UNHEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UNHMIXM</td><td>14.0</td><td>7.4 GB</td><td>2024-07-12</td><td><a href="/hyperos/sapphiren/stable/OS1.0.4.0.UNHMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNHMIXM</td><td>14.0</td><td>4.5 GB</td><td>2024-07-24</td><td><a href="/hyperos/sapphiren/stable/OS1.0.4.0.UNHMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UNHIDXM</td><td>14.0</td><td>6.6 GB</td><td>2024-07-12</td><td><a href="/hyperos/sapphiren/stable/OS1.0.4.0.UNHIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNHIDXM</td><td>14.0</td><td>4.4 GB</td><td>2024-07-22</td><td><a href="/hyperos/sapphiren/stable/OS1.0.4.0.UNHIDXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 NFC Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UNHRUXM</td><td>14.0</td><td>7.2 GB</td><td>2024-07-05</td><td><a href="/hyperos/sapphiren/stable/OS1.0.3.0.UNHRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 NFC Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNHRUXM</td><td>14.0</td><td>4.4 GB</td><td>2024-07-17</td><td><a href="/hyperos/sapphiren/stable/OS1.0.3.0.UNHRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 NFC Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UNHRUXM</td><td>14.0</td><td>4.4 GB</td><td>2024-08-19</td><td><a href="/hyperos/sapphiren/stable beta/OS1.0.4.0.UNHRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 NFC Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UNHRUXM</td><td>14.0</td><td>7.3 GB</td><td>2024-08-07</td><td><a href="/hyperos/sapphiren/stable/OS1.0.4.0.UNHRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 NFC Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNHRUXM</td><td>14.0</td><td>4.4 GB</td><td>2024-08-19</td><td><a href="/hyperos/sapphiren/stable/OS1.0.4.0.UNHRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UNHTRXM</td><td>14.0</td><td>6.3 GB</td><td>2024-07-19</td><td><a href="/hyperos/sapphiren/stable/OS1.0.4.0.UNHTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNHTRXM</td><td>14.0</td><td>4.4 GB</td><td>2024-08-12</td><td><a href="/hyperos/sapphiren/stable/OS1.0.4.0.UNHTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 NFC Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UNHTWXM</td><td>14.0</td><td>4.4 GB</td><td>2024-08-20</td><td><a href="/hyperos/sapphiren/stable beta/OS1.0.4.0.UNHTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 NFC Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UNHTWXM</td><td>14.0</td><td>6.1 GB</td><td>2024-08-02</td><td><a href="/hyperos/sapphiren/stable/OS1.0.4.0.UNHTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 NFC Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNHTWXM</td><td>14.0</td><td>4.4 GB</td><td>2024-08-20</td><td><a href="/hyperos/sapphiren/stable/OS1.0.4.0.UNHTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -52,7 +52,8 @@ permalink: /archive/hyperos/zircon/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 13 Pro+ 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNOTRXM</td><td>14.0</td><td>5.7 GB</td><td>2024-08-14</td><td><a href="/hyperos/zircon/stable/OS1.0.3.0.UNOTRXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 13 Pro+ 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.UNOTWXM</td><td>14.0</td><td>5.7 GB</td><td>2024-08-27</td><td><a href="/hyperos/zircon/stable beta/OS1.0.5.0.UNOTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro+ 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNOTRXM</td><td>14.0</td><td>5.7 GB</td><td>2024-08-14</td><td><a href="/hyperos/zircon/stable/OS1.0.3.0.UNOTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro+ 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UNOTRXM</td><td>14.0</td><td>7.7 GB</td><td>2024-07-12</td><td><a href="/hyperos/zircon/stable/OS1.0.3.0.UNOTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro+ 5G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UNOINXM</td><td>14.0</td><td>5.6 GB</td><td>2024-08-07</td><td><a href="/hyperos/zircon/stable/OS1.0.9.0.UNOINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro+ 5G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.UNOINXM</td><td>14.0</td><td>7.4 GB</td><td>2024-07-23</td><td><a href="/hyperos/zircon/stable/OS1.0.9.0.UNOINXM/">Download</a></td></tr>
