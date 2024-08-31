@@ -1747,6 +1747,18 @@
 - android: '14.0'
   codename: haydn
   date: '2024-08-30'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UKKINXM/fw_haydn_miui_HAYDNINGlobal_OS1.0.3.0.UKKINXM_801d635a3b_14.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: OS1.0.3.0.UKKINXM
+- android: '14.0'
+  codename: haydn
+  date: '2024-08-30'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UKKCNXM/fw_haydn_miui_HAYDN_OS1.0.3.0.UKKCNXM_401744cc2e_14.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: OS1.0.3.0.UKKCNXM
+- android: '14.0'
+  codename: haydn
+  date: '2024-08-30'
   download: https://bigota.d.miui.com/OS1.0.6.0.UKKEUXM/fw_haydn_miui_HAYDNEEAGlobal_OS1.0.6.0.UKKEUXM_204f944bde_14.0.zip
   name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
   version: OS1.0.6.0.UKKEUXM

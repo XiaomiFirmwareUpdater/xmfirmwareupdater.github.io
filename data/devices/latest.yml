@@ -2109,15 +2109,15 @@
     android: '14.0'
     miui: OS1.0.6.0.UKKMIXM
 - branch: stable
-  date: '2024-07-01'
+  date: '2024-08-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-01.07.2024/fw_haydn_miui_HAYDN_OS1.0.2.0.UKKCNXM_2fa8bde61d_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/haydn/fw_haydn_miui_HAYDN_OS1.0.2.0.UKKCNXM_2fa8bde61d_14.0.zip
-  filename: fw_haydn_miui_HAYDN_OS1.0.2.0.UKKCNXM_2fa8bde61d_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-31.08.2024/fw_haydn_miui_HAYDN_OS1.0.3.0.UKKCNXM_401744cc2e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/haydn/fw_haydn_miui_HAYDN_OS1.0.3.0.UKKCNXM_401744cc2e_14.0.zip
+  filename: fw_haydn_miui_HAYDN_OS1.0.3.0.UKKCNXM_401744cc2e_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.2.0.UKKCNXM
+    miui: OS1.0.3.0.UKKCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -2139,15 +2139,15 @@
     android: '14.0'
     miui: OS1.0.6.0.UKKEUXM
 - branch: stable
-  date: '2024-05-14'
+  date: '2024-08-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-14.05.2024/fw_haydn_miui_HAYDNINGlobal_OS1.0.1.0.UKKINXM_91c17a8c24_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/haydn/fw_haydn_miui_HAYDNINGlobal_OS1.0.1.0.UKKINXM_91c17a8c24_14.0.zip
-  filename: fw_haydn_miui_HAYDNINGlobal_OS1.0.1.0.UKKINXM_91c17a8c24_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-31.08.2024/fw_haydn_miui_HAYDNINGlobal_OS1.0.3.0.UKKINXM_801d635a3b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/haydn/fw_haydn_miui_HAYDNINGlobal_OS1.0.3.0.UKKINXM_801d635a3b_14.0.zip
+  filename: fw_haydn_miui_HAYDNINGlobal_OS1.0.3.0.UKKINXM_801d635a3b_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.1.0.UKKINXM
+    miui: OS1.0.3.0.UKKINXM
 - branch: stable
   date: '2019-05-13'
   downloads:
@@ -2519,25 +2519,25 @@
     android: '6.0'
     miui: 8.11.22
 - branch: stable
-  date: '2024-07-30'
+  date: '2024-08-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klein/releases/download/stable-31.07.2024/fw_kle_miui_KLEINGlobal_V816.0.4.0.UGSMIXM_5abb651606_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V816/klein/fw_kle_miui_KLEINGlobal_V816.0.4.0.UGSMIXM_5abb651606_14.0.zip
-  filename: fw_kle_miui_KLEINGlobal_V816.0.4.0.UGSMIXM_5abb651606_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klein/releases/download/stable-31.08.2024/fw_kle_miui_KLEINGlobal_V816.0.5.0.UGSMIXM_aceeda6f98_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V816/klein/fw_kle_miui_KLEINGlobal_V816.0.5.0.UGSMIXM_aceeda6f98_14.0.zip
+  filename: fw_kle_miui_KLEINGlobal_V816.0.5.0.UGSMIXM_aceeda6f98_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: V816.0.4.0.UGSMIXM
+    miui: V816.0.5.0.UGSMIXM
 - branch: stable
-  date: '2024-07-13'
+  date: '2024-08-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klein/releases/download/stable-14.07.2024/fw_klein_miui_KLEININGlobal_V816.0.4.0.UGSINXM_359600066b_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V816/klein/fw_klein_miui_KLEININGlobal_V816.0.4.0.UGSINXM_359600066b_14.0.zip
-  filename: fw_klein_miui_KLEININGlobal_V816.0.4.0.UGSINXM_359600066b_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klein/releases/download/stable-31.08.2024/fw_klein_miui_KLEININGlobal_V816.0.5.0.UGSINXM_47e1c4a308_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V816/klein/fw_klein_miui_KLEININGlobal_V816.0.5.0.UGSINXM_47e1c4a308_14.0.zip
+  filename: fw_klein_miui_KLEININGlobal_V816.0.5.0.UGSINXM_47e1c4a308_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: V816.0.4.0.UGSINXM
+    miui: V816.0.5.0.UGSINXM
 - branch: stable
   date: '2023-02-03'
   downloads:
