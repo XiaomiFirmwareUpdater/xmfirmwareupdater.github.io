@@ -67,9 +67,8 @@ permalink: /hyperos/peridot/
 <tr><td>POCO F6 India</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UNPINXM</td><td>14.0</td><td>5.5 GB</td><td>2024-08-15</td><td><a href="/hyperos/peridot/stable/OS1.0.5.0.UNPINXM/">Download</a></td></tr>
 <tr><td>POCO F6 Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UNPRUXM</td><td>14.0</td><td>8.5 GB</td><td>2024-08-05</td><td><a href="/hyperos/peridot/stable/OS1.0.4.0.UNPRUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNPRUXM</td><td>14.0</td><td>5.5 GB</td><td>2024-08-15</td><td><a href="/hyperos/peridot/stable/OS1.0.4.0.UNPRUXM/">Download</a></td></tr>
-<tr><td>POCO F6 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNPTWXM</td><td>14.0</td><td>5.5 GB</td><td>2024-07-25</td><td><a href="/hyperos/peridot/stable/OS1.0.3.0.UNPTWXM/">Download</a></td></tr>
-<tr><td>POCO F6 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UNPTWXM</td><td>14.0</td><td>7.3 GB</td><td>2024-07-16</td><td><a href="/hyperos/peridot/stable/OS1.0.3.0.UNPTWXM/">Download</a></td></tr>
-<tr><td>POCO F6 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UNPTWXM</td><td>14.0</td><td>5.5 GB</td><td>2024-08-23</td><td><a href="/hyperos/peridot/stable beta/OS1.0.4.0.UNPTWXM/">Download</a></td></tr>
+<tr><td>POCO F6 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UNPTWXM</td><td>14.0</td><td>7.3 GB</td><td>2024-08-15</td><td><a href="/hyperos/peridot/stable/OS1.0.4.0.UNPTWXM/">Download</a></td></tr>
+<tr><td>POCO F6 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNPTWXM</td><td>14.0</td><td>5.5 GB</td><td>2024-08-23</td><td><a href="/hyperos/peridot/stable/OS1.0.4.0.UNPTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

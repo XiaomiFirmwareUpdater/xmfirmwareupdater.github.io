@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-07-08'
+  date: '2024-08-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-08.07.2024/fw_fleur_miui_FLEURGlobal_OS1.0.2.0.TKEMIXM_7f019090a0_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fleur/fw_fleur_miui_FLEURGlobal_OS1.0.2.0.TKEMIXM_7f019090a0_13.0.zip
-  filename: fw_fleur_miui_FLEURGlobal_OS1.0.2.0.TKEMIXM_7f019090a0_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-31.08.2024/fw_fleur_miui_FLEURGlobal_OS1.0.3.0.TKEMIXM_e4752579c3_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fleur/fw_fleur_miui_FLEURGlobal_OS1.0.3.0.TKEMIXM_e4752579c3_13.0.zip
+  filename: fw_fleur_miui_FLEURGlobal_OS1.0.3.0.TKEMIXM_e4752579c3_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: OS1.0.2.0.TKEMIXM
+    miui: OS1.0.3.0.TKEMIXM
 - branch: stable
   date: '2024-08-25'
   downloads:

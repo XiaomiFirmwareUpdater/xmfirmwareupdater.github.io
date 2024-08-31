@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2024-08-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_viva/releases/download/stable-31.08.2024/fw_viva_miui_VIVAEEAGlobal_OS1.0.3.0.TGDEUXM_cfb1447ae6_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/viva/fw_viva_miui_VIVAEEAGlobal_OS1.0.3.0.TGDEUXM_cfb1447ae6_13.0.zip
+  filename: fw_viva_miui_VIVAEEAGlobal_OS1.0.3.0.TGDEUXM_cfb1447ae6_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: OS1.0.3.0.TGDEUXM
+- branch: stable
   date: '2022-08-29'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_viva/releases/download/stable-29.08.2022/fw_viva_miui_VIVAEEAGlobal_V13.0.1.0.SGDEUXM_2a142c0915_12.0.zip
