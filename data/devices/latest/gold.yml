@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-07-22'
+  date: '2024-09-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-22.07.2024/fw_gold_miui_GOLDGlobal_OS1.0.7.0.UNQMIXM_50f81f3d22_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/gold/fw_gold_miui_GOLDGlobal_OS1.0.7.0.UNQMIXM_50f81f3d22_14.0.zip
-  filename: fw_gold_miui_GOLDGlobal_OS1.0.7.0.UNQMIXM_50f81f3d22_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-01.09.2024/fw_gold_miui_GOLDGlobal_OS1.0.8.0.UNQMIXM_576081e7c8_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/gold/fw_gold_miui_GOLDGlobal_OS1.0.8.0.UNQMIXM_576081e7c8_14.0.zip
+  filename: fw_gold_miui_GOLDGlobal_OS1.0.8.0.UNQMIXM_576081e7c8_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.7.0.UNQMIXM
+    miui: OS1.0.8.0.UNQMIXM
 - branch: stable
   date: '2024-08-18'
   downloads:
