@@ -407,6 +407,12 @@
   name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
   version: OS1.0.5.0.UNUCNXM
 - android: '14.0'
+  codename: breeze
+  date: '2024-09-01'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UNUCNXM/fw_breeze_miui_BREEZE_OS1.0.7.0.UNUCNXM_81824c1da9_14.0.zip
+  name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
+  version: OS1.0.7.0.UNUCNXM
+- android: '14.0'
   codename: chenfeng
   date: '2024-03-28'
   download: https://bigota.d.miui.com/OS1.0.4.0.UNJCNXM/fw_chenfeng_miui_CHENFENG_OS1.0.4.0.UNJCNXM_6dd643228e_14.0.zip
@@ -1138,6 +1144,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UCVINXM/fw_earth_miui_EARTHINGlobal_OS1.0.5.0.UCVINXM_3564c7864b_14.0.zip
   name: Redmi 12C/POCO C55
   version: OS1.0.5.0.UCVINXM
+- android: '14.0'
+  codename: earth
+  date: '2024-09-01'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UCVINXM/fw_earth_miui_EARTHINGlobal_OS1.0.6.0.UCVINXM_47b19aa971_14.0.zip
+  name: Redmi 12C/POCO C55
+  version: OS1.0.6.0.UCVINXM
 - android: '13.0'
   codename: elish
   date: '2024-05-21'

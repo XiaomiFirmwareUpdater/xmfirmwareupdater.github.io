@@ -489,15 +489,15 @@
     android: '11.0'
     miui: 22.3.2
 - branch: stable
-  date: '2024-07-08'
+  date: '2024-09-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-08.07.2024/fw_breeze_miui_BREEZE_OS1.0.5.0.UNUCNXM_4d970379cc_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/breeze/fw_breeze_miui_BREEZE_OS1.0.5.0.UNUCNXM_4d970379cc_14.0.zip
-  filename: fw_breeze_miui_BREEZE_OS1.0.5.0.UNUCNXM_4d970379cc_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-01.09.2024/fw_breeze_miui_BREEZE_OS1.0.7.0.UNUCNXM_81824c1da9_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/breeze/fw_breeze_miui_BREEZE_OS1.0.7.0.UNUCNXM_81824c1da9_14.0.zip
+  filename: fw_breeze_miui_BREEZE_OS1.0.7.0.UNUCNXM_81824c1da9_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UNUCNXM
+    miui: OS1.0.7.0.UNUCNXM
 - branch: stable
   date: '2024-07-09'
   downloads:
@@ -1459,15 +1459,15 @@
     android: '14.0'
     miui: OS1.0.5.0.UCVEUXM
 - branch: stable
-  date: '2024-07-04'
+  date: '2024-09-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-04.07.2024/fw_earth_miui_EARTHINGlobal_OS1.0.5.0.UCVINXM_3564c7864b_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHINGlobal_OS1.0.5.0.UCVINXM_3564c7864b_14.0.zip
-  filename: fw_earth_miui_EARTHINGlobal_OS1.0.5.0.UCVINXM_3564c7864b_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-01.09.2024/fw_earth_miui_EARTHINGlobal_OS1.0.6.0.UCVINXM_47b19aa971_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHINGlobal_OS1.0.6.0.UCVINXM_47b19aa971_14.0.zip
+  filename: fw_earth_miui_EARTHINGlobal_OS1.0.6.0.UCVINXM_47b19aa971_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UCVINXM
+    miui: OS1.0.6.0.UCVINXM
 - branch: stable
   date: '2024-05-21'
   downloads:
