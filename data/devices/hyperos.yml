@@ -5609,6 +5609,12 @@
   name: Xiaomi Civi 3
   version: OS1.0.7.0.UMICNXM
 - android: '14.0'
+  codename: yuechu
+  date: '2024-09-02'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMICNXM/fw_yuechu_miui_YUECHU_OS1.0.8.0.UMICNXM_376064615e_14.0.zip
+  name: Xiaomi Civi 3
+  version: OS1.0.8.0.UMICNXM
+- android: '14.0'
   codename: yunluo
   date: '2024-01-26'
   download: https://bigota.d.miui.com/OS1.0.1.0.ULYMIXM/fw_yunluo_miui_YUNLUOGlobal_OS1.0.1.0.ULYMIXM_0c6045c79e_14.0.zip
