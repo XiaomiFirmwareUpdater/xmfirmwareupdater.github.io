@@ -54,18 +54,14 @@ permalink: /hyperos/vermeer/
                 <tbody>
                 <tr><td>Redmi K70 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.18.0.UNKCNXM</td><td>14.0</td><td>8.9 GB</td><td>2024-08-01</td><td><a href="/hyperos/vermeer/stable/OS1.0.18.0.UNKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.18.0.UNKCNXM</td><td>14.0</td><td>7.1 GB</td><td>2024-08-14</td><td><a href="/hyperos/vermeer/stable/OS1.0.18.0.UNKCNXM/">Download</a></td></tr>
-<tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UNKEUXM</td><td>14.0</td><td>9.0 GB</td><td>2024-06-21</td><td><a href="/hyperos/vermeer/stable/OS1.0.4.0.UNKEUXM/">Download</a></td></tr>
-<tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNKEUXM</td><td>14.0</td><td>6.3 GB</td><td>2024-06-27</td><td><a href="/hyperos/vermeer/stable/OS1.0.4.0.UNKEUXM/">Download</a></td></tr>
-<tr><td>POCO F6 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.UNKEUXM</td><td>14.0</td><td>6.3 GB</td><td>2024-08-20</td><td><a href="/hyperos/vermeer/stable beta/OS1.0.6.0.UNKEUXM/">Download</a></td></tr>
-<tr><td>POCO F6 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.UNKMIXM</td><td>14.0</td><td>6.3 GB</td><td>2024-08-20</td><td><a href="/hyperos/vermeer/stable beta/OS1.0.6.0.UNKMIXM/">Download</a></td></tr>
-<tr><td>POCO F6 Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UNKRUXM</td><td>14.0</td><td>6.2 GB</td><td>2024-08-20</td><td><a href="/hyperos/vermeer/stable beta/OS1.0.4.0.UNKRUXM/">Download</a></td></tr>
-<tr><td>POCO F6 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UNKMIXM</td><td>14.0</td><td>9.4 GB</td><td>2024-07-04</td><td><a href="/hyperos/vermeer/stable/OS1.0.5.0.UNKMIXM/">Download</a></td></tr>
-<tr><td>POCO F6 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UNKMIXM</td><td>14.0</td><td>6.3 GB</td><td>2024-07-15</td><td><a href="/hyperos/vermeer/stable/OS1.0.5.0.UNKMIXM/">Download</a></td></tr>
-<tr><td>POCO F6 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UNKRUXM</td><td>14.0</td><td>9.4 GB</td><td>2024-06-15</td><td><a href="/hyperos/vermeer/stable/OS1.0.3.0.UNKRUXM/">Download</a></td></tr>
-<tr><td>POCO F6 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNKRUXM</td><td>14.0</td><td>6.3 GB</td><td>2024-06-21</td><td><a href="/hyperos/vermeer/stable/OS1.0.3.0.UNKRUXM/">Download</a></td></tr>
-<tr><td>POCO F6 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UNKTWXM</td><td>14.0</td><td>8.2 GB</td><td>2024-06-21</td><td><a href="/hyperos/vermeer/stable/OS1.0.2.0.UNKTWXM/">Download</a></td></tr>
-<tr><td>POCO F6 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UNKTWXM</td><td>14.0</td><td>6.3 GB</td><td>2024-06-27</td><td><a href="/hyperos/vermeer/stable/OS1.0.2.0.UNKTWXM/">Download</a></td></tr>
-<tr><td>POCO F6 Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UNKTWXM</td><td>14.0</td><td>6.2 GB</td><td>2024-08-20</td><td><a href="/hyperos/vermeer/stable beta/OS1.0.3.0.UNKTWXM/">Download</a></td></tr>
+<tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UNKEUXM</td><td>14.0</td><td>9.0 GB</td><td>2024-08-08</td><td><a href="/hyperos/vermeer/stable/OS1.0.6.0.UNKEUXM/">Download</a></td></tr>
+<tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UNKEUXM</td><td>14.0</td><td>6.3 GB</td><td>2024-08-20</td><td><a href="/hyperos/vermeer/stable/OS1.0.6.0.UNKEUXM/">Download</a></td></tr>
+<tr><td>POCO F6 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UNKMIXM</td><td>14.0</td><td>9.4 GB</td><td>2024-08-08</td><td><a href="/hyperos/vermeer/stable/OS1.0.6.0.UNKMIXM/">Download</a></td></tr>
+<tr><td>POCO F6 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UNKMIXM</td><td>14.0</td><td>6.3 GB</td><td>2024-08-20</td><td><a href="/hyperos/vermeer/stable/OS1.0.6.0.UNKMIXM/">Download</a></td></tr>
+<tr><td>POCO F6 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UNKRUXM</td><td>14.0</td><td>9.4 GB</td><td>2024-08-08</td><td><a href="/hyperos/vermeer/stable/OS1.0.4.0.UNKRUXM/">Download</a></td></tr>
+<tr><td>POCO F6 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNKRUXM</td><td>14.0</td><td>6.2 GB</td><td>2024-08-20</td><td><a href="/hyperos/vermeer/stable/OS1.0.4.0.UNKRUXM/">Download</a></td></tr>
+<tr><td>POCO F6 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UNKTWXM</td><td>14.0</td><td>8.2 GB</td><td>2024-08-08</td><td><a href="/hyperos/vermeer/stable/OS1.0.3.0.UNKTWXM/">Download</a></td></tr>
+<tr><td>POCO F6 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNKTWXM</td><td>14.0</td><td>6.2 GB</td><td>2024-08-20</td><td><a href="/hyperos/vermeer/stable/OS1.0.3.0.UNKTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
