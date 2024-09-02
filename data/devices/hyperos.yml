@@ -2946,6 +2946,12 @@
   version: OS1.0.3.0.ULMMIXM
 - android: '14.0'
   codename: munch
+  date: '2024-09-02'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULMINXM/fw_munch_miui_MUNCHINGlobal_OS1.0.4.0.ULMINXM_329f62aa60_14.0.zip
+  name: Redmi K40S/POCO F4
+  version: OS1.0.4.0.ULMINXM
+- android: '14.0'
+  codename: munch
   date: '2024-07-01'
   download: https://bigota.d.miui.com/OS1.0.2.0.ULMINXM/fw_munch_miui_MUNCHINGlobal_OS1.0.2.0.ULMINXM_73863dbefb_14.0.zip
   name: Redmi K40S/POCO F4
@@ -3592,6 +3598,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.TLDMIXM/fw_psyche_miui_PSYCHEGlobal_OS1.0.1.0.TLDMIXM_31bc4ec894_13.0.zip
   name: Xiaomi 12X
   version: OS1.0.1.0.TLDMIXM
+- android: '13.0'
+  codename: psyche
+  date: '2024-09-02'
+  download: https://bigota.d.miui.com/OS1.0.4.0.TLDMIXM/fw_psyche_miui_PSYCHEGlobal_OS1.0.4.0.TLDMIXM_f06dd9beb3_13.0.zip
+  name: Xiaomi 12X
+  version: OS1.0.4.0.TLDMIXM
 - android: '14.0'
   codename: redwood
   date: '2024-01-31'
@@ -4156,6 +4168,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UNHMIXM/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.2.0.UNHMIXM_5c2104f430_14.0.zip
   name: Redmi Note 13 NFC
   version: OS1.0.2.0.UNHMIXM
+- android: '14.0'
+  codename: sapphiren
+  date: '2024-09-02'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UNHMIXM/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.5.0.UNHMIXM_116390d6dc_14.0.zip
+  name: Redmi Note 13 NFC
+  version: OS1.0.5.0.UNHMIXM
 - android: '14.0'
   codename: sea
   date: '2024-07-30'
@@ -5392,6 +5410,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.TGDMIXM/fw_viva_miui_VIVAGlobal_OS1.0.3.0.TGDMIXM_6f1ff58bc0_13.0.zip
   name: Redmi Note 11 Pro 4G
   version: OS1.0.3.0.TGDMIXM
+- android: '13.0'
+  codename: viva
+  date: '2024-09-02'
+  download: https://bigota.d.miui.com/OS1.0.4.0.TGDMIXM/fw_viva_miui_VIVAGlobal_OS1.0.4.0.TGDMIXM_711b120a23_13.0.zip
+  name: Redmi Note 11 Pro 4G
+  version: OS1.0.4.0.TGDMIXM
 - android: '14.0'
   codename: xaga
   date: '2024-08-31'

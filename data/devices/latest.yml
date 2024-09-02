@@ -3359,15 +3359,15 @@
     android: '14.0'
     miui: OS1.0.5.0.ULMEUXM
 - branch: stable
-  date: '2024-08-08'
+  date: '2024-09-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-08.08.2024/fw_munch_miui_MUNCHINGlobal_OS1.0.3.0.ULMINXM_23001b31f0_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/munch/fw_munch_miui_MUNCHINGlobal_OS1.0.3.0.ULMINXM_23001b31f0_14.0.zip
-  filename: fw_munch_miui_MUNCHINGlobal_OS1.0.3.0.ULMINXM_23001b31f0_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-02.09.2024/fw_munch_miui_MUNCHINGlobal_OS1.0.4.0.ULMINXM_329f62aa60_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/munch/fw_munch_miui_MUNCHINGlobal_OS1.0.4.0.ULMINXM_329f62aa60_14.0.zip
+  filename: fw_munch_miui_MUNCHINGlobal_OS1.0.4.0.ULMINXM_329f62aa60_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.3.0.ULMINXM
+    miui: OS1.0.4.0.ULMINXM
 - branch: stable
   date: '2024-08-20'
   downloads:
@@ -4159,15 +4159,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2024-07-26'
+  date: '2024-09-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-26.07.2024/fw_psyche_miui_PSYCHEGlobal_OS1.0.3.0.TLDMIXM_73b8ce372c_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/psyche/fw_psyche_miui_PSYCHEGlobal_OS1.0.3.0.TLDMIXM_73b8ce372c_13.0.zip
-  filename: fw_psyche_miui_PSYCHEGlobal_OS1.0.3.0.TLDMIXM_73b8ce372c_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-02.09.2024/fw_psyche_miui_PSYCHEGlobal_OS1.0.4.0.TLDMIXM_f06dd9beb3_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/psyche/fw_psyche_miui_PSYCHEGlobal_OS1.0.4.0.TLDMIXM_f06dd9beb3_13.0.zip
+  filename: fw_psyche_miui_PSYCHEGlobal_OS1.0.4.0.TLDMIXM_f06dd9beb3_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: OS1.0.3.0.TLDMIXM
+    miui: OS1.0.4.0.TLDMIXM
 - branch: stable
   date: '2024-08-20'
   downloads:
@@ -4799,15 +4799,15 @@
     android: '14.0'
     miui: OS1.0.6.0.UNGMIXM
 - branch: stable
-  date: '2024-07-28'
+  date: '2024-09-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphiren/releases/download/stable-28.07.2024/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.4.0.UNHMIXM_165d600fa8_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sapphiren/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.4.0.UNHMIXM_165d600fa8_14.0.zip
-  filename: fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.4.0.UNHMIXM_165d600fa8_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphiren/releases/download/stable-02.09.2024/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.5.0.UNHMIXM_116390d6dc_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sapphiren/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.5.0.UNHMIXM_116390d6dc_14.0.zip
+  filename: fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.5.0.UNHMIXM_116390d6dc_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.UNHMIXM
+    miui: OS1.0.5.0.UNHMIXM
 - branch: stable
   date: '2024-08-23'
   downloads:
@@ -5899,15 +5899,15 @@
     android: '10.0'
     miui: V12.5.1.0.QFHINXM
 - branch: stable
-  date: '2024-04-03'
+  date: '2024-09-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_viva/releases/download/stable-03.04.2024/fw_viva_miui_VIVAGlobal_OS1.0.3.0.TGDMIXM_6f1ff58bc0_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/viva/fw_viva_miui_VIVAGlobal_OS1.0.3.0.TGDMIXM_6f1ff58bc0_13.0.zip
-  filename: fw_viva_miui_VIVAGlobal_OS1.0.3.0.TGDMIXM_6f1ff58bc0_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_viva/releases/download/stable-02.09.2024/fw_viva_miui_VIVAGlobal_OS1.0.4.0.TGDMIXM_711b120a23_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/viva/fw_viva_miui_VIVAGlobal_OS1.0.4.0.TGDMIXM_711b120a23_13.0.zip
+  filename: fw_viva_miui_VIVAGlobal_OS1.0.4.0.TGDMIXM_711b120a23_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: OS1.0.3.0.TGDMIXM
+    miui: OS1.0.4.0.TGDMIXM
 - branch: stable
   date: '2024-08-31'
   downloads:
