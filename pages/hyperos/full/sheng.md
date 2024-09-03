@@ -52,7 +52,8 @@ permalink: /archive/hyperos/sheng/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 6S Pro 12.4 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.UNXEUXM</td><td>14.0</td><td>5.4 GB</td><td>2024-08-28</td><td><a href="/hyperos/sheng/stable beta/OS1.0.5.0.UNXEUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 6S Pro 12.4 Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UNXRUXM</td><td>14.0</td><td>5.4 GB</td><td>2024-08-30</td><td><a href="/hyperos/sheng/stable beta/OS1.0.4.0.UNXRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6S Pro 12.4 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.UNXEUXM</td><td>14.0</td><td>5.4 GB</td><td>2024-08-28</td><td><a href="/hyperos/sheng/stable beta/OS1.0.5.0.UNXEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6S Pro 12.4 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UNXIDXM</td><td>14.0</td><td>5.4 GB</td><td>2024-08-28</td><td><a href="/hyperos/sheng/stable beta/OS1.0.4.0.UNXIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6S Pro 12.4 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.UNXCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-08-13</td><td><a href="/hyperos/sheng/stable/OS1.0.10.0.UNXCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6S Pro 12.4 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.UNXCNXM</td><td>14.0</td><td>7.8 GB</td><td>2024-08-05</td><td><a href="/hyperos/sheng/stable/OS1.0.10.0.UNXCNXM/">Download</a></td></tr>

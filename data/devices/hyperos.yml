@@ -660,6 +660,12 @@
   version: OS1.0.5.0.ULCCNXM
 - android: '14.0'
   codename: cupid
+  date: '2024-09-02'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULCMIXM/fw_cupid_miui_CUPIDGlobal_OS1.0.5.0.ULCMIXM_a4895ad53f_14.0.zip
+  name: Xiaomi 12
+  version: OS1.0.5.0.ULCMIXM
+- android: '14.0'
+  codename: cupid
   date: '2024-07-02'
   download: https://bigota.d.miui.com/OS1.0.6.0.ULCCNXM/fw_cupid_miui_CUPID_OS1.0.6.0.ULCCNXM_c7ef5af89c_14.0.zip
   name: Xiaomi 12
@@ -880,6 +886,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UNSCNXM/fw_dizi_miui_DIZI_OS1.0.12.0.UNSCNXM_a03b3ccfc3_14.0.zip
   name: Redmi Pad Pro/POCO Pad
   version: OS1.0.12.0.UNSCNXM
+- android: '14.0'
+  codename: dizi
+  date: '2024-09-02'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UNSEUXM/fw_dizi_miui_DIZIEEAGlobal_OS1.0.7.0.UNSEUXM_56761ff153_14.0.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS1.0.7.0.UNSEUXM
 - android: '14.0'
   codename: dizi
   date: '2024-08-01'
@@ -1630,6 +1642,18 @@
   download: https://bigota.d.miui.com/OS1.0.16.0.UNREUXM/fw_garnet_miui_GARNETEEAGlobal_OS1.0.16.0.UNREUXM_21a87ea0cf_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS1.0.16.0.UNREUXM
+- android: '14.0'
+  codename: garnet
+  date: '2024-09-02'
+  download: https://bigota.d.miui.com/OS1.0.18.0.UNREUXM/fw_garnet_miui_GARNETEEAGlobal_OS1.0.18.0.UNREUXM_cc19675895_14.0.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS1.0.18.0.UNREUXM
+- android: '14.0'
+  codename: garnet
+  date: '2024-09-03'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UNRMIXM/fw_garnet_miui_GARNETGlobal_OS1.0.12.0.UNRMIXM_920b566a45_14.0.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS1.0.12.0.UNRMIXM
 - android: '14.0'
   codename: garnet
   date: '2024-07-01'
@@ -4530,6 +4554,12 @@
   version: OS1.0.1.0.UMWINXM
 - android: '14.0'
   codename: sky
+  date: '2024-09-03'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMWEUXM/fw_sky_miui_SKYEEAGlobal_OS1.0.9.0.UMWEUXM_e17800cf59_14.0.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS1.0.9.0.UMWEUXM
+- android: '14.0'
+  codename: sky
   date: '2024-07-02'
   download: https://bigota.d.miui.com/OS1.0.6.0.UMWCNXM/fw_sky_miui_SKY_OS1.0.6.0.UMWCNXM_e78444c735_14.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
@@ -5134,6 +5164,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UKBMIXM/fw_venus_miui_VENUSGlobal_OS1.0.5.0.UKBMIXM_b120c83200_14.0.zip
   name: Mi 11
   version: OS1.0.5.0.UKBMIXM
+- android: '14.0'
+  codename: venus
+  date: '2024-09-03'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UKBMIXM/fw_venus_miui_VENUSGlobal_OS1.0.6.0.UKBMIXM_c35c76ce79_14.0.zip
+  name: Mi 11
+  version: OS1.0.6.0.UKBMIXM
 - android: '14.0'
   codename: venus
   date: '2024-07-01'
