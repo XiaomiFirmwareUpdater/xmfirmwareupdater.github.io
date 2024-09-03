@@ -58,6 +58,7 @@ permalink: /miui/klein/
 <tr><td>Redmi A3x India</td><td>Stable</td><td>Recovery</td><td>V816.0.5.0.UGSINXM</td><td>14.0</td><td>2.7 GB</td><td>2024-08-30</td><td><a href="/miui/klein/stable/V816.0.5.0.UGSINXM/">Download</a></td></tr>
 <tr><td>Redmi A3x Russia</td><td>Stable</td><td>Fastboot</td><td>V816.0.4.0.UGSRUXM</td><td>14.0</td><td>4.2 GB</td><td>2024-07-19</td><td><a href="/miui/klein/stable/V816.0.4.0.UGSRUXM/">Download</a></td></tr>
 <tr><td>Redmi A3x Russia</td><td>Stable</td><td>Recovery</td><td>V816.0.4.0.UGSRUXM</td><td>14.0</td><td>2.7 GB</td><td>2024-08-05</td><td><a href="/miui/klein/stable/V816.0.4.0.UGSRUXM/">Download</a></td></tr>
+<tr><td>Redmi A3x Russia</td><td>Stable Beta</td><td>Recovery</td><td>V816.0.6.0.UGSRUXM</td><td>14.0</td><td>2.7 GB</td><td>2024-09-03</td><td><a href="/miui/klein/stable beta/V816.0.6.0.UGSRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
