@@ -582,6 +582,12 @@
   version: OS1.0.4.0.UMLCNXM
 - android: '14.0'
   codename: corot
+  date: '2024-09-03'
+  download: https://bigota.d.miui.com/OS1.0.22.0.UMLCNXM/fw_corot_miui_COROT_OS1.0.22.0.UMLCNXM_7b539d7cbd_14.0.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS1.0.22.0.UMLCNXM
+- android: '14.0'
+  codename: corot
   date: '2024-07-01'
   download: https://bigota.d.miui.com/OS1.0.15.0.UMLCNXM/fw_corot_miui_COROT_OS1.0.15.0.UMLCNXM_c8567484cb_14.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
@@ -3160,6 +3166,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMBCNXM/fw_nuwa_miui_NUWA_OS1.0.5.0.UMBCNXM_9748b91e96_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.5.0.UMBCNXM
+- android: '14.0'
+  codename: nuwa
+  date: '2024-09-03'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UMBCNXM/fw_nuwa_miui_NUWA_OS1.0.11.0.UMBCNXM_5ff31cc786_14.0.zip
+  name: Xiaomi 13 Pro
+  version: OS1.0.11.0.UMBCNXM
 - android: '14.0'
   codename: odin
   date: '2024-06-24'
