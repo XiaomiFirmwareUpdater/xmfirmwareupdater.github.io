@@ -849,15 +849,15 @@
     android: '14.0'
     miui: OS1.0.12.0.UNJCNXM
 - branch: stable
-  date: '2024-07-11'
+  date: '2024-09-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-12.07.2024/fw_chenfeng_miui_CHENFENGINGlobal_OS1.0.4.0.UNJINXM_cfd41edd0c_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/chenfeng/fw_chenfeng_miui_CHENFENGINGlobal_OS1.0.4.0.UNJINXM_cfd41edd0c_14.0.zip
-  filename: fw_chenfeng_miui_CHENFENGINGlobal_OS1.0.4.0.UNJINXM_cfd41edd0c_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-05.09.2024/fw_chenfeng_miui_CHENFENGINGlobal_OS1.0.5.0.UNJINXM_711314f76c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/chenfeng/fw_chenfeng_miui_CHENFENGINGlobal_OS1.0.5.0.UNJINXM_711314f76c_14.0.zip
+  filename: fw_chenfeng_miui_CHENFENGINGlobal_OS1.0.5.0.UNJINXM_711314f76c_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.UNJINXM
+    miui: OS1.0.5.0.UNJINXM
 - branch: stable
   date: '2020-10-10'
   downloads:
@@ -2539,6 +2539,16 @@
     android: '14.0'
     miui: V816.0.5.0.UGSINXM
 - branch: stable
+  date: '2024-09-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-05.09.2024/fw_lake_miui_LAKEGlobal_OS1.0.4.0.UGTMIXM_3001eee04b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/lake/fw_lake_miui_LAKEGlobal_OS1.0.4.0.UGTMIXM_3001eee04b_14.0.zip
+  filename: fw_lake_miui_LAKEGlobal_OS1.0.4.0.UGTMIXM_3001eee04b_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UGTMIXM
+- branch: stable
   date: '2023-02-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-03.02.2023/fw_lancelot_miui_LANCELOTGlobal_V13.0.4.0.SJCMIXM_cf8fa9fcdb_12.0.zip
@@ -3969,15 +3979,15 @@
     android: '14.0'
     miui: OS1.0.8.0.UMZCNXM
 - branch: stable
-  date: '2024-08-06'
+  date: '2024-09-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-06.08.2024/fw_pipa_miui_PIPAEEAGlobal_OS1.0.7.0.UMZEUXM_51f6323c13_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pipa/fw_pipa_miui_PIPAEEAGlobal_OS1.0.7.0.UMZEUXM_51f6323c13_14.0.zip
-  filename: fw_pipa_miui_PIPAEEAGlobal_OS1.0.7.0.UMZEUXM_51f6323c13_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-05.09.2024/fw_pipa_miui_PIPAEEAGlobal_V14.0.10.0.TMZEUXM_ee573406cc_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pipa/fw_pipa_miui_PIPAEEAGlobal_V14.0.10.0.TMZEUXM_ee573406cc_13.0.zip
+  filename: fw_pipa_miui_PIPAEEAGlobal_V14.0.10.0.TMZEUXM_ee573406cc_13.0.zip
   region: Europe
   versions:
-    android: '14.0'
-    miui: OS1.0.7.0.UMZEUXM
+    android: '13.0'
+    miui: V14.0.10.0.TMZEUXM
 - branch: stable
   date: '2024-08-27'
   downloads:
@@ -4429,15 +4439,15 @@
     android: '14.0'
     miui: OS1.0.10.0.ULUMIXM
 - branch: stable
-  date: '2024-07-30'
+  date: '2024-09-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rock/releases/download/stable-30.07.2024/fw_rock_miui_ROCKEEAGlobal_OS1.0.4.0.ULUEUXM_cb87d48c3a_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rock/fw_rock_miui_ROCKEEAGlobal_OS1.0.4.0.ULUEUXM_cb87d48c3a_14.0.zip
-  filename: fw_rock_miui_ROCKEEAGlobal_OS1.0.4.0.ULUEUXM_cb87d48c3a_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rock/releases/download/stable-05.09.2024/fw_rock_miui_ROCKEEAGlobal_OS1.0.5.0.ULUEUXM_a356170af3_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rock/fw_rock_miui_ROCKEEAGlobal_OS1.0.5.0.ULUEUXM_a356170af3_14.0.zip
+  filename: fw_rock_miui_ROCKEEAGlobal_OS1.0.5.0.ULUEUXM_a356170af3_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.ULUEUXM
+    miui: OS1.0.5.0.ULUEUXM
 - branch: stable
   date: '2024-08-12'
   downloads:
