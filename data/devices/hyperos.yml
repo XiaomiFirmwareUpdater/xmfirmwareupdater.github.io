@@ -414,6 +414,12 @@
   version: OS1.0.5.0.UNUCNXM
 - android: '14.0'
   codename: breeze
+  date: '2024-09-04'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UNUINXM/fw_breeze_miui_BREEZEINGlobal_OS1.0.8.0.UNUINXM_5eaf480dd2_14.0.zip
+  name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
+  version: OS1.0.8.0.UNUINXM
+- android: '14.0'
+  codename: breeze
   date: '2024-09-01'
   download: https://bigota.d.miui.com/OS1.0.7.0.UNUCNXM/fw_breeze_miui_BREEZE_OS1.0.7.0.UNUCNXM_81824c1da9_14.0.zip
   name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
