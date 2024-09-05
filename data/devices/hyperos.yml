@@ -1422,6 +1422,12 @@
   version: OS1.0.2.0.TKEMIXM
 - android: '13.0'
   codename: fleur
+  date: '2024-09-05'
+  download: https://bigota.d.miui.com/OS1.0.5.0.TKEINXM/fw_fleur_miui_FLEURINGlobal_OS1.0.5.0.TKEINXM_01903caa6d_13.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: OS1.0.5.0.TKEINXM
+- android: '13.0'
+  codename: fleur
   date: '2024-03-05'
   download: https://bigota.d.miui.com/OS1.0.1.0.TKEMIXM/fw_fleur_miui_FLEURGlobal_OS1.0.1.0.TKEMIXM_c5fa5ce2d9_13.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
