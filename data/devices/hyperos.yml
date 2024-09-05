@@ -1806,6 +1806,12 @@
   version: OS1.0.4.0.UNQMIXM
 - android: '14.0'
   codename: gold
+  date: '2024-09-05'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UNQEUXM/fw_gold_miui_GOLDEEAGlobal_OS1.0.13.0.UNQEUXM_02114c0d29_14.0.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS1.0.13.0.UNQEUXM
+- android: '14.0'
+  codename: gold
   date: '2024-05-05'
   download: https://bigota.d.miui.com/OS1.0.3.0.UNQEUXM/fw_gold_miui_GOLDEEAGlobal_OS1.0.3.0.UNQEUXM_fa3220b6a8_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
@@ -3977,6 +3983,12 @@
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS1.0.3.0.UFSEUXM
 - android: '14.0'
+  codename: ruan
+  date: '2024-09-05'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UFSEUXM/fw_ruan_miui_RUANEEAGlobal_OS1.0.4.0.UFSEUXM_f9cf76e825_14.0.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS1.0.4.0.UFSEUXM
+- android: '14.0'
   codename: rubens
   date: '2024-03-29'
   download: https://bigota.d.miui.com/OS1.0.6.0.ULNCNXM/fw_rubens_miui_RUBENS_OS1.0.6.0.ULNCNXM_da485c3f4e_14.0.zip
@@ -5656,6 +5668,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMUCNXM/fw_xun_miui_XUN_OS1.0.5.0.UMUCNXM_892043337f_14.0.zip
   name: Redmi Pad SE
   version: OS1.0.5.0.UMUCNXM
+- android: '14.0'
+  codename: xun
+  date: '2024-09-05'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UMUINXM/fw_xun_miui_XUNINGlobal_OS1.0.2.0.UMUINXM_e2e7af4743_14.0.zip
+  name: Redmi Pad SE
+  version: OS1.0.2.0.UMUINXM
 - android: '14.0'
   codename: yudi
   date: '2024-08-27'
