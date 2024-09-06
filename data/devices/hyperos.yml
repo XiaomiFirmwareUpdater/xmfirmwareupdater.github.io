@@ -1680,6 +1680,12 @@
   version: OS1.0.6.0.UNRMIXM
 - android: '14.0'
   codename: garnet
+  date: '2024-09-06'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UNRINXM/fw_garnet_miui_GARNETINGlobal_OS1.0.11.0.UNRINXM_6c5a41e2b6_14.0.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS1.0.11.0.UNRINXM
+- android: '14.0'
+  codename: garnet
   date: '2024-08-05'
   download: https://bigota.d.miui.com/OS1.0.16.0.UNREUXM/fw_garnet_miui_GARNETEEAGlobal_OS1.0.16.0.UNREUXM_21a87ea0cf_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
@@ -1810,6 +1816,12 @@
   download: https://bigota.d.miui.com/OS1.0.11.0.UNQEUXM/fw_gold_miui_GOLDEEAGlobal_OS1.0.11.0.UNQEUXM_c63d9d28d9_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: OS1.0.11.0.UNQEUXM
+- android: '14.0'
+  codename: gold
+  date: '2024-09-06'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UNQINXM/fw_gold_miui_GOLDINGlobal_OS1.0.10.0.UNQINXM_7880fbd1a3_14.0.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS1.0.10.0.UNQINXM
 - android: '14.0'
   codename: gold
   date: '2024-05-06'
@@ -4002,6 +4014,12 @@
   version: OS1.0.3.0.UFSEUXM
 - android: '14.0'
   codename: ruan
+  date: '2024-09-06'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UFSMIXM/fw_ruan_miui_RUANGlobal_OS1.0.3.0.UFSMIXM_90fa0099aa_14.0.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS1.0.3.0.UFSMIXM
+- android: '14.0'
+  codename: ruan
   date: '2024-09-05'
   download: https://bigota.d.miui.com/OS1.0.4.0.UFSEUXM/fw_ruan_miui_RUANEEAGlobal_OS1.0.4.0.UFSEUXM_f9cf76e825_14.0.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
@@ -6106,6 +6124,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.ULLMIXM/fw_ziyi_miui_ZIYIGlobal_OS1.0.4.0.ULLMIXM_92da66a6a3_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.4.0.ULLMIXM
+- android: '14.0'
+  codename: ziyi
+  date: '2024-09-06'
+  download: https://bigota.d.miui.com/OS1.0.7.0.ULLMIXM/fw_ziyi_miui_ZIYIGlobal_OS1.0.7.0.ULLMIXM_495f5c8762_14.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS1.0.7.0.ULLMIXM
 - android: '14.0'
   codename: ziyi
   date: '2024-09-03'

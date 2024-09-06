@@ -52,9 +52,8 @@ permalink: /hyperos/ruby/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12 Pro / Pro+ / Discovery 5G China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UMOCNXM</td><td>14.0</td><td>7.0 GB</td><td>2024-07-19</td><td><a href="/hyperos/ruby/stable/OS1.0.6.0.UMOCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 Pro / Pro+ / Discovery 5G China</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UMOCNXM</td><td>14.0</td><td>5.5 GB</td><td>2024-07-30</td><td><a href="/hyperos/ruby/stable/OS1.0.6.0.UMOCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 Pro / Pro+ / Discovery 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.UMOCNXM</td><td>14.0</td><td>5.5 GB</td><td>2024-08-27</td><td><a href="/hyperos/ruby/stable beta/OS1.0.7.0.UMOCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12 Pro / Pro+ / Discovery 5G China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UMOCNXM</td><td>14.0</td><td>7.0 GB</td><td>2024-08-21</td><td><a href="/hyperos/ruby/stable/OS1.0.7.0.UMOCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 Pro / Pro+ / Discovery 5G China</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UMOCNXM</td><td>14.0</td><td>5.5 GB</td><td>2024-08-27</td><td><a href="/hyperos/ruby/stable/OS1.0.7.0.UMOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UMOEUXM</td><td>14.0</td><td>7.1 GB</td><td>2024-08-11</td><td><a href="/hyperos/ruby/stable/OS1.0.6.0.UMOEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UMOEUXM</td><td>14.0</td><td>4.9 GB</td><td>2024-08-21</td><td><a href="/hyperos/ruby/stable/OS1.0.6.0.UMOEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UMOMIXM</td><td>14.0</td><td>7.6 GB</td><td>2024-08-13</td><td><a href="/hyperos/ruby/stable/OS1.0.7.0.UMOMIXM/">Download</a></td></tr>

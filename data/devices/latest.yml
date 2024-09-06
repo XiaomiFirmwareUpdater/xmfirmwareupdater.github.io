@@ -1849,15 +1849,15 @@
     android: '14.0'
     miui: OS1.0.18.0.UNREUXM
 - branch: stable
-  date: '2024-08-15'
+  date: '2024-09-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-15.08.2024/fw_garnet_miui_GARNETINGlobal_OS1.0.10.0.UNRINXM_58d5b93a23_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/garnet/fw_garnet_miui_GARNETINGlobal_OS1.0.10.0.UNRINXM_58d5b93a23_14.0.zip
-  filename: fw_garnet_miui_GARNETINGlobal_OS1.0.10.0.UNRINXM_58d5b93a23_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-06.09.2024/fw_garnet_miui_GARNETINGlobal_OS1.0.11.0.UNRINXM_6c5a41e2b6_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/garnet/fw_garnet_miui_GARNETINGlobal_OS1.0.11.0.UNRINXM_6c5a41e2b6_14.0.zip
+  filename: fw_garnet_miui_GARNETINGlobal_OS1.0.11.0.UNRINXM_6c5a41e2b6_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.10.0.UNRINXM
+    miui: OS1.0.11.0.UNRINXM
 - branch: stable
   date: '2023-05-18'
   downloads:
@@ -2039,15 +2039,15 @@
     android: '14.0'
     miui: OS1.0.13.0.UNQEUXM
 - branch: stable
-  date: '2024-08-02'
+  date: '2024-09-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-02.08.2024/fw_gold_miui_GOLDINGlobal_OS1.0.9.0.UNQINXM_727d6cbd96_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/gold/fw_gold_miui_GOLDINGlobal_OS1.0.9.0.UNQINXM_727d6cbd96_14.0.zip
-  filename: fw_gold_miui_GOLDINGlobal_OS1.0.9.0.UNQINXM_727d6cbd96_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-06.09.2024/fw_gold_miui_GOLDINGlobal_OS1.0.10.0.UNQINXM_7880fbd1a3_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/gold/fw_gold_miui_GOLDINGlobal_OS1.0.10.0.UNQINXM_7880fbd1a3_14.0.zip
+  filename: fw_gold_miui_GOLDINGlobal_OS1.0.10.0.UNQINXM_7880fbd1a3_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.9.0.UNQINXM
+    miui: OS1.0.10.0.UNQINXM
 - branch: stable
   date: '2023-07-24'
   downloads:
@@ -4579,15 +4579,15 @@
     android: '14.0'
     miui: OS1.0.22.0.UNNCNXM
 - branch: stable
-  date: '2024-07-09'
+  date: '2024-09-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-09.07.2024/fw_ruan_miui_RUANGlobal_OS1.0.2.0.UFSMIXM_17a28b31a0_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruan/fw_ruan_miui_RUANGlobal_OS1.0.2.0.UFSMIXM_17a28b31a0_14.0.zip
-  filename: fw_ruan_miui_RUANGlobal_OS1.0.2.0.UFSMIXM_17a28b31a0_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-06.09.2024/fw_ruan_miui_RUANGlobal_OS1.0.3.0.UFSMIXM_90fa0099aa_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruan/fw_ruan_miui_RUANGlobal_OS1.0.3.0.UFSMIXM_90fa0099aa_14.0.zip
+  filename: fw_ruan_miui_RUANGlobal_OS1.0.3.0.UFSMIXM_90fa0099aa_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.2.0.UFSMIXM
+    miui: OS1.0.3.0.UFSMIXM
 - branch: stable
   date: '2024-08-28'
   downloads:
@@ -6319,15 +6319,15 @@
     android: '14.0'
     miui: OS1.0.10.0.UNOINXM
 - branch: stable
-  date: '2024-07-23'
+  date: '2024-09-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-23.07.2024/fw_ziyi_miui_ZIYIGlobal_OS1.0.6.0.ULLMIXM_053ff8ee40_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ziyi/fw_ziyi_miui_ZIYIGlobal_OS1.0.6.0.ULLMIXM_053ff8ee40_14.0.zip
-  filename: fw_ziyi_miui_ZIYIGlobal_OS1.0.6.0.ULLMIXM_053ff8ee40_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-06.09.2024/fw_ziyi_miui_ZIYIGlobal_OS1.0.7.0.ULLMIXM_495f5c8762_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ziyi/fw_ziyi_miui_ZIYIGlobal_OS1.0.7.0.ULLMIXM_495f5c8762_14.0.zip
+  filename: fw_ziyi_miui_ZIYIGlobal_OS1.0.7.0.ULLMIXM_495f5c8762_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.ULLMIXM
+    miui: OS1.0.7.0.ULLMIXM
 - branch: stable
   date: '2024-08-13'
   downloads:
