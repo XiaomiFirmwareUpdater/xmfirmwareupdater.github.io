@@ -1278,6 +1278,12 @@
   version: OS1.0.1.0.TGBINXM
 - android: '13.0'
   codename: evergreen
+  date: '2024-09-06'
+  download: https://bigota.d.miui.com/OS1.0.2.0.TGBEUXM/fw_evergreen_miui_EVERGREENEEAGlobal_OS1.0.2.0.TGBEUXM_9b74437e97_13.0.zip
+  name: POCO M4 Pro 5G
+  version: OS1.0.2.0.TGBEUXM
+- android: '13.0'
+  codename: evergreen
   date: '2024-04-06'
   download: https://bigota.d.miui.com/OS1.0.1.0.TGBEUXM/fw_evergreen_miui_EVERGREENEEAGlobal_OS1.0.1.0.TGBEUXM_a85e24d7ff_13.0.zip
   name: POCO M4 Pro 5G
