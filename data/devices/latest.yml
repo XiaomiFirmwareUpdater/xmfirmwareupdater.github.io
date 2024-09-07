@@ -5799,15 +5799,15 @@
     android: '13.0'
     miui: OS1.0.3.0.TKCINXM
 - branch: stable
-  date: '2024-04-01'
+  date: '2024-09-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vida/releases/download/stable-01.04.2024/fw_vida_miui_VIDAINGlobal_OS1.0.3.0.TGDINXM_1004dd4f10_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vida/fw_vida_miui_VIDAINGlobal_OS1.0.3.0.TGDINXM_1004dd4f10_13.0.zip
-  filename: fw_vida_miui_VIDAINGlobal_OS1.0.3.0.TGDINXM_1004dd4f10_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vida/releases/download/stable-07.09.2024/fw_vida_miui_VIDAINGlobal_OS1.0.4.0.TGDINXM_1f0a0cd0ed_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vida/fw_vida_miui_VIDAINGlobal_OS1.0.4.0.TGDINXM_1f0a0cd0ed_13.0.zip
+  filename: fw_vida_miui_VIDAINGlobal_OS1.0.4.0.TGDINXM_1f0a0cd0ed_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: OS1.0.3.0.TGDINXM
+    miui: OS1.0.4.0.TGDINXM
 - branch: stable
   date: '2024-08-20'
   downloads:

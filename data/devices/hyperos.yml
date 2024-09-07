@@ -5526,6 +5526,12 @@
   version: OS1.0.1.0.TKCCNXM
 - android: '13.0'
   codename: vida
+  date: '2024-09-07'
+  download: https://bigota.d.miui.com/OS1.0.4.0.TGDINXM/fw_vida_miui_VIDAINGlobal_OS1.0.4.0.TGDINXM_1f0a0cd0ed_13.0.zip
+  name: Redmi Note 11 Pro 4G
+  version: OS1.0.4.0.TGDINXM
+- android: '13.0'
+  codename: vida
   date: '2024-04-01'
   download: https://bigota.d.miui.com/OS1.0.3.0.TGDINXM/fw_vida_miui_VIDAINGlobal_OS1.0.3.0.TGDINXM_1004dd4f10_13.0.zip
   name: Redmi Note 11 Pro 4G
