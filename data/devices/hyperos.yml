@@ -331,6 +331,18 @@
 - android: '14.0'
   codename: aurora
   date: '2024-09-06'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UNAMIXM/fw_aurora_miui_AURORAGlobal_OS1.0.11.0.UNAMIXM_92fc10bfc5_14.0.zip
+  name: Xiaomi 14 Ultra
+  version: OS1.0.11.0.UNAMIXM
+- android: '14.0'
+  codename: aurora
+  date: '2024-09-06'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UNAINXM/fw_aurora_miui_AURORAINGlobal_OS1.0.10.0.UNAINXM_1b426907db_14.0.zip
+  name: Xiaomi 14 Ultra
+  version: OS1.0.10.0.UNAINXM
+- android: '14.0'
+  codename: aurora
+  date: '2024-09-06'
   download: https://bigota.d.miui.com/OS1.0.12.0.UNAEUXM/fw_aurora_miui_AURORAEEAGlobal_OS1.0.12.0.UNAEUXM_6c71e9140d_14.0.zip
   name: Xiaomi 14 Ultra
   version: OS1.0.12.0.UNAEUXM
@@ -460,6 +472,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UNJCNXM/fw_chenfeng_miui_CHENFENG_OS1.0.10.0.UNJCNXM_995e516566_14.0.zip
   name: Xiaomi Civi 4 Pro
   version: OS1.0.10.0.UNJCNXM
+- android: '14.0'
+  codename: chenfeng
+  date: '2024-09-06'
+  download: https://bigota.d.miui.com/OS1.0.14.0.UNJCNXM/fw_chenfeng_miui_CHENFENG_OS1.0.14.0.UNJCNXM_2d59188198_14.0.zip
+  name: Xiaomi Civi 4 Pro
+  version: OS1.0.14.0.UNJCNXM
 - android: '14.0'
   codename: chenfeng
   date: '2024-09-04'
@@ -1374,6 +1392,12 @@
   version: OS1.0.3.0.UMXINXM
 - android: '14.0'
   codename: fire
+  date: '2024-09-07'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMXINXM/fw_fire_miui_FIREINGlobal_OS1.0.4.0.UMXINXM_dab41dfd89_14.0.zip
+  name: Redmi 12
+  version: OS1.0.4.0.UMXINXM
+- android: '14.0'
+  codename: fire
   date: '2024-02-03'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMXEUXM/fw_fire_miui_FIREEEAGlobal_OS1.0.2.0.UMXEUXM_a32447ba31_14.0.zip
   name: Redmi 12
@@ -2188,6 +2212,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULJCNXM/fw_ingres_miui_INGRES_OS1.0.2.0.ULJCNXM_b4d2b9c601_14.0.zip
   name: Redmi K50G/POCO F4 GT
   version: OS1.0.2.0.ULJCNXM
+- android: '14.0'
+  codename: ingres
+  date: '2024-09-07'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULJMIXM/fw_ingres_miui_INGRESGlobal_OS1.0.5.0.ULJMIXM_e3a6fb777d_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.5.0.ULJMIXM
 - android: '14.0'
   codename: ingres
   date: '2024-08-05'
@@ -5464,6 +5494,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.TKCINXM/fw_veux_miui_VEUXINGlobal_OS1.0.2.0.TKCINXM_2e7fa14cdf_13.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
   version: OS1.0.2.0.TKCINXM
+- android: '13.0'
+  codename: veux
+  date: '2024-09-07'
+  download: https://bigota.d.miui.com/OS1.0.6.0.TKCMIXM/fw_veux_miui_VEUXGlobal_OS1.0.6.0.TKCMIXM_6e3ed5706f_13.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: OS1.0.6.0.TKCMIXM
 - android: '13.0'
   codename: veux
   date: '2024-09-01'
