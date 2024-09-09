@@ -3756,6 +3756,12 @@
   version: V14.0.2.0.TKLINXM
 - android: '13.0'
   codename: rosemary
+  date: '2024-09-09'
+  download: https://bigota.d.miui.com/V14.0.11.0.TKLINXM/fw_rosemary_miui_ROSEMARYINGlobal_V14.0.11.0.TKLINXM_ea368cd66f_13.0.zip
+  name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
+  version: V14.0.11.0.TKLINXM
+- android: '13.0'
+  codename: rosemary
   date: '2023-12-08'
   download: https://bigota.d.miui.com/V14.0.6.0.TKLINXM/fw_rosemary_miui_ROSEMARYINGlobal_V14.0.6.0.TKLINXM_68098731a4_13.0.zip
   name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S

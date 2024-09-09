@@ -3174,6 +3174,24 @@
   version: OS1.0.4.0.TKXINXM
 - android: '13.0'
   codename: nabu
+  date: '2024-09-09'
+  download: https://bigota.d.miui.com/OS1.0.5.0.TKXEUXM/fw_nabu_miui_NABUEEAGlobal_OS1.0.5.0.TKXEUXM_82e3ee44ba_13.0.zip
+  name: Xiaomi Pad 5
+  version: OS1.0.5.0.TKXEUXM
+- android: '13.0'
+  codename: nabu
+  date: '2024-09-09'
+  download: https://bigota.d.miui.com/OS1.0.5.0.TKXMIXM/fw_nabu_miui_NABUGlobal_OS1.0.5.0.TKXMIXM_6b336bee50_13.0.zip
+  name: Xiaomi Pad 5
+  version: OS1.0.5.0.TKXMIXM
+- android: '13.0'
+  codename: nabu
+  date: '2024-09-09'
+  download: https://bigota.d.miui.com/OS1.0.8.0.TKXINXM/fw_nabu_miui_NABUINGlobal_OS1.0.8.0.TKXINXM_5d9ccf2277_13.0.zip
+  name: Xiaomi Pad 5
+  version: OS1.0.8.0.TKXINXM
+- android: '13.0'
+  codename: nabu
   date: '2024-03-04'
   download: https://bigota.d.miui.com/OS1.0.2.0.TKXCNXM/fw_nabu_miui_NABU_OS1.0.2.0.TKXCNXM_b0648de1cc_13.0.zip
   name: Xiaomi Pad 5
@@ -5112,6 +5130,12 @@
   version: OS1.0.12.0.ULIEUXM
 - android: '14.0'
   codename: taoyao
+  date: '2024-09-09'
+  download: https://bigota.d.miui.com/OS1.0.13.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.13.0.ULIEUXM_fb1aed7ca3_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.13.0.ULIEUXM
+- android: '14.0'
+  codename: taoyao
   date: '2024-09-05'
   download: https://bigota.d.miui.com/OS1.0.9.0.ULIMIXM/fw_taoyao_miui_TAOYAOGlobal_OS1.0.9.0.ULIMIXM_d6d2b41a97_14.0.zip
   name: Xiaomi 12 Lite
@@ -6028,6 +6052,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.ULBEUXM/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.8.0.ULBEUXM_fb21fd4c87_14.0.zip
   name: Xiaomi 12 Pro
   version: OS1.0.8.0.ULBEUXM
+- android: '14.0'
+  codename: zeus
+  date: '2024-09-09'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULBMIXM/fw_zeus_miui_ZEUSGlobal_OS1.0.5.0.ULBMIXM_d186975e50_14.0.zip
+  name: Xiaomi 12 Pro
+  version: OS1.0.5.0.ULBMIXM
 - android: '14.0'
   codename: zeus
   date: '2024-08-09'
