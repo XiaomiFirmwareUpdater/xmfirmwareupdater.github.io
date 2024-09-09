@@ -1602,6 +1602,12 @@
   version: OS1.0.2.0.UGPMIXM
 - android: '14.0'
   codename: gale
+  date: '2024-09-08'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UGPEUXM/fw_gale_miui_GALEEEAGlobal_OS1.0.4.0.UGPEUXM_27df2a7e4b_14.0.zip
+  name: Redmi 13C/POCO C65
+  version: OS1.0.4.0.UGPEUXM
+- android: '14.0'
+  codename: gale
   date: '2024-07-09'
   download: https://bigota.d.miui.com/OS1.0.3.0.UGPINXM/fw_gale_miui_GALEINGlobal_OS1.0.3.0.UGPINXM_860bfab234_14.0.zip
   name: Redmi 13C/POCO C65
@@ -4486,6 +4492,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UNXCNXM/fw_sheng_miui_SHENG_OS1.0.5.0.UNXCNXM_c360e030b8_14.0.zip
   name: Xiaomi Pad 6S Pro 12.4
   version: OS1.0.5.0.UNXCNXM
+- android: '14.0'
+  codename: sheng
+  date: '2024-09-09'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNXMIXM/fw_sheng_miui_SHENGGlobal_OS1.0.4.0.UNXMIXM_ee62c9664f_14.0.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS1.0.4.0.UNXMIXM
 - android: '14.0'
   codename: sheng
   date: '2024-06-04'
