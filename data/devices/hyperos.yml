@@ -1608,6 +1608,12 @@
   version: OS1.0.4.0.UGPEUXM
 - android: '14.0'
   codename: gale
+  date: '2024-09-09'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UGPINXM/fw_gale_miui_GALEINGlobal_OS1.0.4.0.UGPINXM_c2a63a1fbb_14.0.zip
+  name: Redmi 13C/POCO C65
+  version: OS1.0.4.0.UGPINXM
+- android: '14.0'
+  codename: gale
   date: '2024-07-09'
   download: https://bigota.d.miui.com/OS1.0.3.0.UGPINXM/fw_gale_miui_GALEINGlobal_OS1.0.3.0.UGPINXM_860bfab234_14.0.zip
   name: Redmi 13C/POCO C65
@@ -1852,6 +1858,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UNQEUXM/fw_gold_miui_GOLDEEAGlobal_OS1.0.10.0.UNQEUXM_6e36484320_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: OS1.0.10.0.UNQEUXM
+- android: '14.0'
+  codename: gold
+  date: '2024-09-09'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNQCNXM/fw_gold_miui_GOLD_OS1.0.4.0.UNQCNXM_9d3fc3f1f5_14.0.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS1.0.4.0.UNQCNXM
 - android: '14.0'
   codename: gold
   date: '2024-08-08'
@@ -2746,6 +2758,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULKCNXM/fw_matisse_miui_MATISSE_OS1.0.2.0.ULKCNXM_1defcda6ec_14.0.zip
   name: Redmi K50 Pro
   version: OS1.0.2.0.ULKCNXM
+- android: '14.0'
+  codename: matisse
+  date: '2024-09-09'
+  download: https://bigota.d.miui.com/OS1.0.9.0.ULKCNXM/fw_matisse_miui_MATISSE_OS1.0.9.0.ULKCNXM_a37e37e3c4_14.0.zip
+  name: Redmi K50 Pro
+  version: OS1.0.9.0.ULKCNXM
 - android: '14.0'
   codename: mayfly
   date: '2024-08-17'
