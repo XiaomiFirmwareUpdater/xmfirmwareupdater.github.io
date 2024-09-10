@@ -1119,15 +1119,15 @@
     android: '14.0'
     miui: OS1.0.7.0.ULCCNXM
 - branch: stable
-  date: '2024-08-12'
+  date: '2024-09-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-12.08.2024/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.11.0.ULCEUXM_f7ebb14448_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/cupid/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.11.0.ULCEUXM_f7ebb14448_14.0.zip
-  filename: fw_cupid_miui_CUPIDEEAGlobal_OS1.0.11.0.ULCEUXM_f7ebb14448_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-10.09.2024/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.12.0.ULCEUXM_4e802072de_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/cupid/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.12.0.ULCEUXM_4e802072de_14.0.zip
+  filename: fw_cupid_miui_CUPIDEEAGlobal_OS1.0.12.0.ULCEUXM_4e802072de_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.11.0.ULCEUXM
+    miui: OS1.0.12.0.ULCEUXM
 - branch: stable
   date: '2023-06-28'
   downloads:
@@ -1689,15 +1689,15 @@
     android: '13.0'
     miui: OS1.0.3.0.TKEMIXM
 - branch: stable
-  date: '2024-08-25'
+  date: '2024-09-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-25.08.2024/fw_fleur_miui_FLEUREEAGlobal_OS1.0.5.0.TKEEUXM_a2eac29e3b_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fleur/fw_fleur_miui_FLEUREEAGlobal_OS1.0.5.0.TKEEUXM_a2eac29e3b_13.0.zip
-  filename: fw_fleur_miui_FLEUREEAGlobal_OS1.0.5.0.TKEEUXM_a2eac29e3b_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-10.09.2024/fw_fleur_miui_FLEUREEAGlobal_OS1.0.6.0.TKEEUXM_73f8e4da37_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fleur/fw_fleur_miui_FLEUREEAGlobal_OS1.0.6.0.TKEEUXM_73f8e4da37_13.0.zip
+  filename: fw_fleur_miui_FLEUREEAGlobal_OS1.0.6.0.TKEEUXM_73f8e4da37_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: OS1.0.5.0.TKEEUXM
+    miui: OS1.0.6.0.TKEEUXM
 - branch: stable
   date: '2024-09-05'
   downloads:
@@ -1999,15 +1999,15 @@
     android: '11.0'
     miui: V12.5.2.0.RCOINXM
 - branch: stable
-  date: '2024-08-02'
+  date: '2024-09-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goku/releases/download/stable-03.08.2024/fw_goku_miui_GOKU_OS1.0.9.0.UNVCNXM_3b46da1b28_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/goku/fw_goku_miui_GOKU_OS1.0.9.0.UNVCNXM_3b46da1b28_14.0.zip
-  filename: fw_goku_miui_GOKU_OS1.0.9.0.UNVCNXM_3b46da1b28_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goku/releases/download/stable-10.09.2024/fw_goku_miui_GOKU_OS1.0.11.0.UNVCNXM_d6db9703d1_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/goku/fw_goku_miui_GOKU_OS1.0.11.0.UNVCNXM_d6db9703d1_14.0.zip
+  filename: fw_goku_miui_GOKU_OS1.0.11.0.UNVCNXM_d6db9703d1_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.9.0.UNVCNXM
+    miui: OS1.0.11.0.UNVCNXM
 - branch: stable
   date: '2024-09-01'
   downloads:

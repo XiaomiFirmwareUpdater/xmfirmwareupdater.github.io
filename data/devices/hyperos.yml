@@ -696,6 +696,12 @@
   version: OS1.0.11.0.ULCEUXM
 - android: '14.0'
   codename: cupid
+  date: '2024-09-10'
+  download: https://bigota.d.miui.com/OS1.0.12.0.ULCEUXM/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.12.0.ULCEUXM_4e802072de_14.0.zip
+  name: Xiaomi 12
+  version: OS1.0.12.0.ULCEUXM
+- android: '14.0'
+  codename: cupid
   date: '2024-04-07'
   download: https://bigota.d.miui.com/OS1.0.6.0.ULCEUXM/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.6.0.ULCEUXM_5f3075c5f2_14.0.zip
   name: Xiaomi 12
@@ -1452,6 +1458,12 @@
   version: OS1.0.3.0.TKEEUXM
 - android: '13.0'
   codename: fleur
+  date: '2024-09-10'
+  download: https://bigota.d.miui.com/OS1.0.6.0.TKEEUXM/fw_fleur_miui_FLEUREEAGlobal_OS1.0.6.0.TKEEUXM_73f8e4da37_13.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: OS1.0.6.0.TKEEUXM
+- android: '13.0'
+  codename: fleur
   date: '2024-08-08'
   download: https://bigota.d.miui.com/OS1.0.4.0.TKEINXM/fw_fleur_miui_FLEURINGlobal_OS1.0.4.0.TKEINXM_2fdfef46a4_13.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
@@ -1774,6 +1786,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UNVCNXM/fw_goku_miui_GOKU_OS1.0.7.0.UNVCNXM_72a459b259_14.0.zip
   name: MIX Fold 4
   version: OS1.0.7.0.UNVCNXM
+- android: '14.0'
+  codename: goku
+  date: '2024-09-10'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UNVCNXM/fw_goku_miui_GOKU_OS1.0.11.0.UNVCNXM_d6db9703d1_14.0.zip
+  name: MIX Fold 4
+  version: OS1.0.11.0.UNVCNXM
 - android: '14.0'
   codename: goku
   date: '2024-08-02'
