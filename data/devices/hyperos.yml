@@ -2250,6 +2250,18 @@
   version: OS1.0.3.0.ULJCNXM
 - android: '14.0'
   codename: ingres
+  date: '2024-09-10'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULJEUXM/fw_ingres_miui_INGRESEEAGlobal_OS1.0.5.0.ULJEUXM_33c80f0057_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.5.0.ULJEUXM
+- android: '14.0'
+  codename: ingres
+  date: '2024-09-10'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULJCNXM/fw_ingres_miui_INGRES_OS1.0.5.0.ULJCNXM_b4b49b0aa7_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.5.0.ULJCNXM
+- android: '14.0'
+  codename: ingres
   date: '2024-04-09'
   download: https://bigota.d.miui.com/OS1.0.2.0.ULJCNXM/fw_ingres_miui_INGRES_OS1.0.2.0.ULJCNXM_b4d2b9c601_14.0.zip
   name: Redmi K50G/POCO F4 GT
@@ -3678,6 +3690,18 @@
   version: OS1.0.4.0.TKTEUXM
 - android: '13.0'
   codename: pissarro
+  date: '2024-09-10'
+  download: https://bigota.d.miui.com/OS1.0.5.0.TKTMIXM/fw_pissarro_miui_PISSARROGlobal_OS1.0.5.0.TKTMIXM_af2aba1405_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: OS1.0.5.0.TKTMIXM
+- android: '13.0'
+  codename: pissarro
+  date: '2024-09-10'
+  download: https://bigota.d.miui.com/OS1.0.5.0.TKTINXM/fw_pissarro_miui_PISSARROINGlobal_OS1.0.5.0.TKTINXM_cce142ab28_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: OS1.0.5.0.TKTINXM
+- android: '13.0'
+  codename: pissarro
   date: '2024-07-08'
   download: https://bigota.d.miui.com/OS1.0.3.0.TKTEUXM/fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.3.0.TKTEUXM_73c66a7832_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
@@ -3760,6 +3784,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.ULQMIXM/fw_plato_miui_PLATOGlobal_OS1.0.5.0.ULQMIXM_9c5350230d_14.0.zip
   name: Xiaomi 12T
   version: OS1.0.5.0.ULQMIXM
+- android: '14.0'
+  codename: plato
+  date: '2024-09-10'
+  download: https://bigota.d.miui.com/OS1.0.11.0.ULQMIXM/fw_plato_miui_PLATOGlobal_OS1.0.11.0.ULQMIXM_5f21196fc1_14.0.zip
+  name: Xiaomi 12T
+  version: OS1.0.11.0.ULQMIXM
 - android: '14.0'
   codename: plato
   date: '2024-04-10'

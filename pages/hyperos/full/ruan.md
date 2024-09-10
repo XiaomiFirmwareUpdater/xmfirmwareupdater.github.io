@@ -52,7 +52,8 @@ permalink: /archive/hyperos/ruan/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad Pro 5G / POCO Pad 5G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UFSMIXM</td><td>14.0</td><td>4.3 GB</td><td>2024-09-02</td><td><a href="/hyperos/ruan/stable/OS1.0.3.0.UFSMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad Pro 5G / POCO Pad 5G Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UFSRUXM</td><td>14.0</td><td>4.3 GB</td><td>2024-09-10</td><td><a href="/hyperos/ruan/stable beta/OS1.0.4.0.UFSRUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro 5G / POCO Pad 5G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UFSMIXM</td><td>14.0</td><td>4.3 GB</td><td>2024-09-02</td><td><a href="/hyperos/ruan/stable/OS1.0.3.0.UFSMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G / POCO Pad 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UFSMIXM</td><td>14.0</td><td>5.4 GB</td><td>2024-08-27</td><td><a href="/hyperos/ruan/stable/OS1.0.3.0.UFSMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G / POCO Pad 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UFSEUXM</td><td>14.0</td><td>4.5 GB</td><td>2024-08-30</td><td><a href="/hyperos/ruan/stable/OS1.0.4.0.UFSEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G / POCO Pad 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UFSEUXM</td><td>14.0</td><td>5.3 GB</td><td>2024-08-19</td><td><a href="/hyperos/ruan/stable/OS1.0.4.0.UFSEUXM/">Download</a></td></tr>

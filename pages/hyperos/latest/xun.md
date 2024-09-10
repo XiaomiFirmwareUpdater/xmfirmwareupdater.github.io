@@ -61,8 +61,8 @@ permalink: /hyperos/xun/
 <tr><td>Redmi Pad SE Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UMUMIXM</td><td>14.0</td><td>4.1 GB</td><td>2024-08-16</td><td><a href="/hyperos/xun/stable/OS1.0.3.0.UMUMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UMUIDXM</td><td>14.0</td><td>5.0 GB</td><td>2024-08-01</td><td><a href="/hyperos/xun/stable/OS1.0.3.0.UMUIDXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UMUIDXM</td><td>14.0</td><td>4.1 GB</td><td>2024-08-16</td><td><a href="/hyperos/xun/stable/OS1.0.3.0.UMUIDXM/">Download</a></td></tr>
-<tr><td>Redmi Pad SE India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UMUINXM</td><td>14.0</td><td>4.6 GB</td><td>2024-05-14</td><td><a href="/hyperos/xun/stable/OS1.0.1.0.UMUINXM/">Download</a></td></tr>
-<tr><td>Redmi Pad SE India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UMUINXM</td><td>14.0</td><td>4.0 GB</td><td>2024-09-01</td><td><a href="/hyperos/xun/stable beta/OS1.0.2.0.UMUINXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UMUINXM</td><td>14.0</td><td>4.6 GB</td><td>2024-08-25</td><td><a href="/hyperos/xun/stable/OS1.0.2.0.UMUINXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE India</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UMUINXM</td><td>14.0</td><td>4.0 GB</td><td>2024-09-01</td><td><a href="/hyperos/xun/stable/OS1.0.2.0.UMUINXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMURUXM</td><td>14.0</td><td>5.5 GB</td><td>2024-08-09</td><td><a href="/hyperos/xun/stable/OS1.0.4.0.UMURUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMURUXM</td><td>14.0</td><td>4.0 GB</td><td>2024-08-16</td><td><a href="/hyperos/xun/stable/OS1.0.4.0.UMURUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UMUTWXM</td><td>14.0</td><td>4.7 GB</td><td>2024-08-16</td><td><a href="/hyperos/xun/stable/OS1.0.3.0.UMUTWXM/">Download</a></td></tr>
