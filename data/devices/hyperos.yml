@@ -12,6 +12,18 @@
   version: OS1.0.2.0.UKWMIXM
 - android: '14.0'
   codename: agate
+  date: '2024-09-10'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UKWEUXM/fw_agate_miui_AGATEEEAGlobal_OS1.0.5.0.UKWEUXM_672636f0d9_14.0.zip
+  name: Xiaomi 11T
+  version: OS1.0.5.0.UKWEUXM
+- android: '14.0'
+  codename: agate
+  date: '2024-09-10'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UKWMIXM/fw_agate_miui_AGATEGlobal_OS1.0.6.0.UKWMIXM_6736bc84d5_14.0.zip
+  name: Xiaomi 11T
+  version: OS1.0.6.0.UKWMIXM
+- android: '14.0'
+  codename: agate
   date: '2024-07-08'
   download: https://bigota.d.miui.com/OS1.0.5.0.UKWMIXM/fw_agate_miui_AGATEGlobal_OS1.0.5.0.UKWMIXM_e09f6580fe_14.0.zip
   name: Xiaomi 11T
@@ -694,6 +706,12 @@
   download: https://bigota.d.miui.com/OS1.0.11.0.ULCEUXM/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.11.0.ULCEUXM_f7ebb14448_14.0.zip
   name: Xiaomi 12
   version: OS1.0.11.0.ULCEUXM
+- android: '14.0'
+  codename: cupid
+  date: '2024-09-11'
+  download: https://bigota.d.miui.com/OS1.0.8.0.ULCCNXM/fw_cupid_miui_CUPID_OS1.0.8.0.ULCCNXM_766f537e2f_14.0.zip
+  name: Xiaomi 12
+  version: OS1.0.8.0.ULCCNXM
 - android: '14.0'
   codename: cupid
   date: '2024-09-10'
@@ -1612,6 +1630,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UGPEUXM/fw_gale_miui_GALEEEAGlobal_OS1.0.3.0.UGPEUXM_8e8d639d36_14.0.zip
   name: Redmi 13C/POCO C65
   version: OS1.0.3.0.UGPEUXM
+- android: '14.0'
+  codename: gale
+  date: '2024-09-11'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UGPMIXM/fw_gale_miui_GALEGlobal_OS1.0.3.0.UGPMIXM_1ebf96de12_14.0.zip
+  name: Redmi 13C/POCO C65
+  version: OS1.0.3.0.UGPMIXM
 - android: '14.0'
   codename: gale
   date: '2024-06-11'
@@ -4002,6 +4026,12 @@
   version: OS1.0.1.0.UMMCNXM
 - android: '14.0'
   codename: rembrandt
+  date: '2024-09-10'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMMCNXM/fw_rembrandt_miui_REMBRANDT_OS1.0.8.0.UMMCNXM_53d170c2d4_14.0.zip
+  name: Redmi K60E
+  version: OS1.0.8.0.UMMCNXM
+- android: '14.0'
+  codename: rembrandt
   date: '2024-08-05'
   download: https://bigota.d.miui.com/OS1.0.6.0.UMMCNXM/fw_rembrandt_miui_REMBRANDT_OS1.0.6.0.UMMCNXM_8ed8d81fcc_14.0.zip
   name: Redmi K60E
@@ -5020,6 +5050,24 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UKAEUXM/fw_star_miui_STAREEAGlobal_OS1.0.2.0.UKAEUXM_c240ad2ac3_14.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: OS1.0.2.0.UKAEUXM
+- android: '14.0'
+  codename: star
+  date: '2024-09-10'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UKAEUXM/fw_star_miui_STAREEAGlobal_OS1.0.5.0.UKAEUXM_c83b47d8ff_14.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: OS1.0.5.0.UKAEUXM
+- android: '14.0'
+  codename: star
+  date: '2024-09-10'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UKAMIXM/fw_star_miui_STARGlobal_OS1.0.5.0.UKAMIXM_a141b890e4_14.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: OS1.0.5.0.UKAMIXM
+- android: '14.0'
+  codename: star
+  date: '2024-09-10'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UKAINXM/fw_star_miui_STARINGlobal_OS1.0.5.0.UKAINXM_a0c1936ed0_14.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: OS1.0.5.0.UKAINXM
 - android: '14.0'
   codename: star
   date: '2024-07-08'
@@ -6304,6 +6352,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.ULLCNXM/fw_ziyi_miui_ZIYI_OS1.0.6.0.ULLCNXM_e68288a120_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.6.0.ULLCNXM
+- android: '14.0'
+  codename: ziyi
+  date: '2024-09-10'
+  download: https://bigota.d.miui.com/OS1.0.7.0.ULLCNXM/fw_ziyi_miui_ZIYI_OS1.0.7.0.ULLCNXM_0632c572db_14.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS1.0.7.0.ULLCNXM
 - android: '14.0'
   codename: ziyi
   date: '2024-06-11'
