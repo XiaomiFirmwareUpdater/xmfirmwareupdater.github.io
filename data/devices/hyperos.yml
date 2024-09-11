@@ -1758,6 +1758,12 @@
   version: OS1.0.4.0.UNRMIXM
 - android: '14.0'
   codename: garnet
+  date: '2024-09-11'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UNRCNXM/fw_garnet_miui_GARNET_OS1.0.10.0.UNRCNXM_041d9ef5c4_14.0.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS1.0.10.0.UNRCNXM
+- android: '14.0'
+  codename: garnet
   date: '2024-03-11'
   download: https://bigota.d.miui.com/OS1.0.3.0.UNRINXM/fw_garnet_miui_GARNETINGlobal_OS1.0.3.0.UNRINXM_414a4dd7e7_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
@@ -2170,6 +2176,18 @@
   download: https://bigota.d.miui.com/OS1.0.28.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.28.0.UNCCNXM_7da71e0992_14.0.zip
   name: Xiaomi 14
   version: OS1.0.28.0.UNCCNXM
+- android: '14.0'
+  codename: houji
+  date: '2024-09-11'
+  download: https://bigota.d.miui.com/OS1.0.22.0.UNCEUXM/fw_houji_miui_HOUJIEEAGlobal_OS1.0.22.0.UNCEUXM_70d8b62e04_14.0.zip
+  name: Xiaomi 14
+  version: OS1.0.22.0.UNCEUXM
+- android: '14.0'
+  codename: houji
+  date: '2024-09-11'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UNCMIXM/fw_houji_miui_HOUJIGlobal_OS1.0.13.0.UNCMIXM_6fc0789e12_14.0.zip
+  name: Xiaomi 14
+  version: OS1.0.13.0.UNCMIXM
 - android: '14.0'
   codename: houji
   date: '2024-04-11'
@@ -3448,6 +3466,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULHCNXM/fw_pearl_miui_PEARL_OS1.0.2.0.ULHCNXM_9d364d8f8f_14.0.zip
   name: Redmi Note 12T Pro
   version: OS1.0.2.0.ULHCNXM
+- android: '14.0'
+  codename: pearl
+  date: '2024-09-11'
+  download: https://bigota.d.miui.com/OS1.0.4.0.ULHCNXM/fw_pearl_miui_PEARL_OS1.0.4.0.ULHCNXM_7516430224_14.0.zip
+  name: Redmi Note 12T Pro
+  version: OS1.0.4.0.ULHCNXM
 - android: '14.0'
   codename: peridot
   date: '2024-07-29'
@@ -5724,6 +5748,12 @@
   version: OS1.0.4.0.UKDMIXM
 - android: '14.0'
   codename: vili
+  date: '2024-09-11'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UKDMIXM/fw_vili_miui_VILIGlobal_OS1.0.5.0.UKDMIXM_b2de419592_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.5.0.UKDMIXM
+- android: '14.0'
+  codename: vili
   date: '2024-07-11'
   download: https://bigota.d.miui.com/OS1.0.3.0.UKDMIXM/fw_vili_miui_VILIGlobal_OS1.0.3.0.UKDMIXM_ae3a8389bb_14.0.zip
   name: Xiaomi 11T Pro
@@ -6250,6 +6280,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UNOINXM/fw_zircon_miui_ZIRCONINGlobal_OS1.0.9.0.UNOINXM_aed271c5c9_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.9.0.UNOINXM
+- android: '14.0'
+  codename: zircon
+  date: '2024-09-11'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNOMIXM/fw_zircon_miui_ZIRCONGlobal_OS1.0.4.0.UNOMIXM_dd13084ffb_14.0.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS1.0.4.0.UNOMIXM
 - android: '14.0'
   codename: zircon
   date: '2024-07-11'

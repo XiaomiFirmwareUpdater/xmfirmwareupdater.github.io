@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-08-20'
+  date: '2024-09-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-20.08.2024/fw_vili_miui_VILIGlobal_OS1.0.4.0.UKDMIXM_4d9b862c7d_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vili/fw_vili_miui_VILIGlobal_OS1.0.4.0.UKDMIXM_4d9b862c7d_14.0.zip
-  filename: fw_vili_miui_VILIGlobal_OS1.0.4.0.UKDMIXM_4d9b862c7d_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-11.09.2024/fw_vili_miui_VILIGlobal_OS1.0.5.0.UKDMIXM_b2de419592_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vili/fw_vili_miui_VILIGlobal_OS1.0.5.0.UKDMIXM_b2de419592_14.0.zip
+  filename: fw_vili_miui_VILIGlobal_OS1.0.5.0.UKDMIXM_b2de419592_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.UKDMIXM
+    miui: OS1.0.5.0.UKDMIXM
 - branch: stable
   date: '2024-08-20'
   downloads:
