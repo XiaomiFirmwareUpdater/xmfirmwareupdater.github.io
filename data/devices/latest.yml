@@ -1709,15 +1709,15 @@
     android: '13.0'
     miui: OS1.0.5.0.TKEINXM
 - branch: stable
-  date: '2024-06-11'
+  date: '2024-09-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-11.06.2024/fw_fog_miui_FOGGlobal_V14.0.7.0.TGEMIXM_456a385a29_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fog/fw_fog_miui_FOGGlobal_V14.0.7.0.TGEMIXM_456a385a29_13.0.zip
-  filename: fw_fog_miui_FOGGlobal_V14.0.7.0.TGEMIXM_456a385a29_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-12.09.2024/fw_fog_miui_FOGGlobal_V14.0.8.0.TGEMIXM_3123a0a1a4_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fog/fw_fog_miui_FOGGlobal_V14.0.8.0.TGEMIXM_3123a0a1a4_13.0.zip
+  filename: fw_fog_miui_FOGGlobal_V14.0.8.0.TGEMIXM_3123a0a1a4_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.7.0.TGEMIXM
+    miui: V14.0.8.0.TGEMIXM
 - branch: stable
   date: '2024-08-27'
   downloads:
@@ -2929,15 +2929,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2024-07-17'
+  date: '2024-09-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_liuqin/releases/download/stable-17.07.2024/fw_liuqin_miui_LIUQIN_OS1.0.7.0.UMYCNXM_d618a5c980_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/liuqin/fw_liuqin_miui_LIUQIN_OS1.0.7.0.UMYCNXM_d618a5c980_14.0.zip
-  filename: fw_liuqin_miui_LIUQIN_OS1.0.7.0.UMYCNXM_d618a5c980_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_liuqin/releases/download/stable-12.09.2024/fw_liuqin_miui_LIUQIN_OS1.0.9.0.UMYCNXM_cb72e06b59_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/liuqin/fw_liuqin_miui_LIUQIN_OS1.0.9.0.UMYCNXM_cb72e06b59_14.0.zip
+  filename: fw_liuqin_miui_LIUQIN_OS1.0.9.0.UMYCNXM_cb72e06b59_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.7.0.UMYCNXM
+    miui: OS1.0.9.0.UMYCNXM
 - branch: stable
   date: '2023-03-27'
   downloads:

@@ -2628,6 +2628,12 @@
   version: OS1.0.5.0.UMYCNXM
 - android: '14.0'
   codename: liuqin
+  date: '2024-09-11'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMYCNXM/fw_liuqin_miui_LIUQIN_OS1.0.9.0.UMYCNXM_cb72e06b59_14.0.zip
+  name: Xiaomi Pad 6 Pro
+  version: OS1.0.9.0.UMYCNXM
+- android: '14.0'
+  codename: liuqin
   date: '2024-02-01'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMYCNXM/fw_liuqin_miui_LIUQIN_OS1.0.4.0.UMYCNXM_6271a83b02_14.0.zip
   name: Xiaomi Pad 6 Pro
