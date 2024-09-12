@@ -53,7 +53,8 @@ permalink: /archive/hyperos/ishtar/
                 </thead>
                 <tbody>
                 <tr><td>Xiaomi 13 Ultra Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.UMARUXM</td><td>14.0</td><td>6.1 GB</td><td>2024-08-27</td><td><a href="/hyperos/ishtar/stable beta/OS1.0.7.0.UMARUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.11.0.UMAEUXM</td><td>14.0</td><td>6.1 GB</td><td>2024-08-21</td><td><a href="/hyperos/ishtar/stable beta/OS1.0.11.0.UMAEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UMAEUXM</td><td>14.0</td><td>6.1 GB</td><td>2024-08-21</td><td><a href="/hyperos/ishtar/stable/OS1.0.11.0.UMAEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UMAEUXM</td><td>14.0</td><td>7.8 GB</td><td>2024-08-11</td><td><a href="/hyperos/ishtar/stable/OS1.0.11.0.UMAEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.15.0.UMACNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-08-19</td><td><a href="/hyperos/ishtar/stable/OS1.0.15.0.UMACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.15.0.UMACNXM</td><td>14.0</td><td>8.6 GB</td><td>2024-08-08</td><td><a href="/hyperos/ishtar/stable/OS1.0.15.0.UMACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.UMAEUXM</td><td>14.0</td><td>6.2 GB</td><td>2024-08-03</td><td><a href="/hyperos/ishtar/stable/OS1.0.10.0.UMAEUXM/">Download</a></td></tr>
