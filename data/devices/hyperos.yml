@@ -5076,6 +5076,12 @@
   version: OS1.0.4.0.UKAINXM
 - android: '14.0'
   codename: star
+  date: '2024-09-12'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UKACNXM/fw_star_miui_STAR_OS1.0.5.0.UKACNXM_a5f14856be_14.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: OS1.0.5.0.UKACNXM
+- android: '14.0'
+  codename: star
   date: '2024-07-12'
   download: https://bigota.d.miui.com/OS1.0.2.0.UKAEUXM/fw_star_miui_STAREEAGlobal_OS1.0.2.0.UKAEUXM_c240ad2ac3_14.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
@@ -6184,6 +6190,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULBINXM/fw_zeus_miui_ZEUSINGlobal_OS1.0.3.0.ULBINXM_f875063553_14.0.zip
   name: Xiaomi 12 Pro
   version: OS1.0.3.0.ULBINXM
+- android: '14.0'
+  codename: zeus
+  date: '2024-09-12'
+  download: https://bigota.d.miui.com/OS1.0.12.0.ULBEUXM/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.12.0.ULBEUXM_3de4f1ef7e_14.0.zip
+  name: Xiaomi 12 Pro
+  version: OS1.0.12.0.ULBEUXM
 - android: '14.0'
   codename: zeus
   date: '2024-07-10'

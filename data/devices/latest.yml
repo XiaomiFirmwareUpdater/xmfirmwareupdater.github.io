@@ -1199,15 +1199,15 @@
     android: '11.0'
     miui: V12.5.13.0.RCZCNXM
 - branch: stable
-  date: '2024-07-12'
+  date: '2024-09-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-12.07.2024/fw_dandelion_miui_DANDELIONC3L2EEAGlobal_V12.5.17.0.RCZEUXM_20f5d5ca9d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONC3L2EEAGlobal_V12.5.17.0.RCZEUXM_20f5d5ca9d_11.0.zip
-  filename: fw_dandelion_miui_DANDELIONC3L2EEAGlobal_V12.5.17.0.RCZEUXM_20f5d5ca9d_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-12.09.2024/fw_dandelion_miui_DANDELIONC3L2EEAGlobal_V12.5.18.0.RCZEUXM_95d778670c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONC3L2EEAGlobal_V12.5.18.0.RCZEUXM_95d778670c_11.0.zip
+  filename: fw_dandelion_miui_DANDELIONC3L2EEAGlobal_V12.5.18.0.RCZEUXM_95d778670c_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.17.0.RCZEUXM
+    miui: V12.5.18.0.RCZEUXM
 - branch: stable
   date: '2024-03-28'
   downloads:
@@ -5129,15 +5129,15 @@
     android: '14.0'
     miui: OS1.0.5.0.UKAMIXM
 - branch: stable
-  date: '2024-08-29'
+  date: '2024-09-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-29.08.2024/fw_star_miui_STAR_OS1.0.4.0.UKACNXM_4a8df9c3ad_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/star/fw_star_miui_STAR_OS1.0.4.0.UKACNXM_4a8df9c3ad_14.0.zip
-  filename: fw_star_miui_STAR_OS1.0.4.0.UKACNXM_4a8df9c3ad_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-12.09.2024/fw_star_miui_STAR_OS1.0.5.0.UKACNXM_a5f14856be_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/star/fw_star_miui_STAR_OS1.0.5.0.UKACNXM_a5f14856be_14.0.zip
+  filename: fw_star_miui_STAR_OS1.0.5.0.UKACNXM_a5f14856be_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.UKACNXM
+    miui: OS1.0.5.0.UKACNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -6249,15 +6249,15 @@
     android: '14.0'
     miui: OS1.0.7.0.ULBCNXM
 - branch: stable
-  date: '2024-08-27'
+  date: '2024-09-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-27.08.2024/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.11.0.ULBEUXM_f8aef42752_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zeus/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.11.0.ULBEUXM_f8aef42752_14.0.zip
-  filename: fw_zeus_miui_ZEUSEEAGlobal_OS1.0.11.0.ULBEUXM_f8aef42752_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-12.09.2024/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.12.0.ULBEUXM_3de4f1ef7e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zeus/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.12.0.ULBEUXM_3de4f1ef7e_14.0.zip
+  filename: fw_zeus_miui_ZEUSEEAGlobal_OS1.0.12.0.ULBEUXM_3de4f1ef7e_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.11.0.ULBEUXM
+    miui: OS1.0.12.0.ULBEUXM
 - branch: stable
   date: '2024-09-09'
   downloads:

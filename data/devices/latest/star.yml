@@ -9,15 +9,15 @@
     android: '14.0'
     miui: OS1.0.5.0.UKAMIXM
 - branch: stable
-  date: '2024-08-29'
+  date: '2024-09-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-29.08.2024/fw_star_miui_STAR_OS1.0.4.0.UKACNXM_4a8df9c3ad_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/star/fw_star_miui_STAR_OS1.0.4.0.UKACNXM_4a8df9c3ad_14.0.zip
-  filename: fw_star_miui_STAR_OS1.0.4.0.UKACNXM_4a8df9c3ad_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-12.09.2024/fw_star_miui_STAR_OS1.0.5.0.UKACNXM_a5f14856be_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/star/fw_star_miui_STAR_OS1.0.5.0.UKACNXM_a5f14856be_14.0.zip
+  filename: fw_star_miui_STAR_OS1.0.5.0.UKACNXM_a5f14856be_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.UKACNXM
+    miui: OS1.0.5.0.UKACNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
