@@ -52,8 +52,10 @@ permalink: /archive/miui/ice/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi A1 / POCO C50 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.14.0.SGMIDXM</td><td>12.0</td><td>1.5 GB</td><td>2024-09-13</td><td><a href="/miui/ice/stable beta/V13.0.14.0.SGMIDXM/">Download</a></td></tr>
-<tr><td>Redmi A1 / POCO C50 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.15.0.SGMRUXM</td><td>12.0</td><td>1.5 GB</td><td>2024-09-13</td><td><a href="/miui/ice/stable beta/V13.0.15.0.SGMRUXM/">Download</a></td></tr>
+                <tr><td>Redmi A1 / POCO C50 Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.14.0.SGMIDXM</td><td>12.0</td><td>1.5 GB</td><td>2024-09-13</td><td><a href="/miui/ice/stable/V13.0.14.0.SGMIDXM/">Download</a></td></tr>
+<tr><td>Redmi A1 / POCO C50 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.14.0.SGMIDXM</td><td>12.0</td><td>2.1 GB</td><td>2024-09-03</td><td><a href="/miui/ice/stable/V13.0.14.0.SGMIDXM/">Download</a></td></tr>
+<tr><td>Redmi A1 / POCO C50 Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.15.0.SGMRUXM</td><td>12.0</td><td>1.5 GB</td><td>2024-09-13</td><td><a href="/miui/ice/stable/V13.0.15.0.SGMRUXM/">Download</a></td></tr>
+<tr><td>Redmi A1 / POCO C50 Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.15.0.SGMRUXM</td><td>12.0</td><td>2.1 GB</td><td>2024-09-03</td><td><a href="/miui/ice/stable/V13.0.15.0.SGMRUXM/">Download</a></td></tr>
 <tr><td>Redmi A1 / POCO C50 Global</td><td>Stable</td><td>Recovery</td><td>V13.0.24.0.SGMMIXM</td><td>12.0</td><td>1.5 GB</td><td>2024-09-10</td><td><a href="/miui/ice/stable/V13.0.24.0.SGMMIXM/">Download</a></td></tr>
 <tr><td>Redmi A1 / POCO C50 Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.24.0.SGMMIXM</td><td>12.0</td><td>2.2 GB</td><td>2024-09-02</td><td><a href="/miui/ice/stable/V13.0.24.0.SGMMIXM/">Download</a></td></tr>
 <tr><td>Redmi A1 / POCO C50 EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.18.0.SGMEUXM</td><td>12.0</td><td>1.5 GB</td><td>2024-09-10</td><td><a href="/miui/ice/stable/V13.0.18.0.SGMEUXM/">Download</a></td></tr>

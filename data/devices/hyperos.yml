@@ -4984,6 +4984,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UHYINXM/fw_spark_miui_SPARKINGlobal_OS1.0.2.0.UHYINXM_9c5c84380e_14.0.zip
   name: Redmi Pad SE 8.7 4G
   version: OS1.0.2.0.UHYINXM
+- android: '14.0'
+  codename: spark
+  date: '2024-09-13'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UHYEUXM/fw_spark_miui_SPARKEEAGlobal_OS1.0.5.0.UHYEUXM_699d2d9fc9_14.0.zip
+  name: Redmi Pad SE 8.7 4G
+  version: OS1.0.5.0.UHYEUXM
 - android: '13.0'
   codename: spes
   date: '2024-06-24'
