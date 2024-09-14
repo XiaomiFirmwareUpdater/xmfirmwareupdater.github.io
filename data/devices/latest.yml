@@ -1699,15 +1699,15 @@
     android: '13.0'
     miui: OS1.0.6.0.TKEEUXM
 - branch: stable
-  date: '2024-09-05'
+  date: '2024-09-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-05.09.2024/fw_fleur_miui_FLEURINGlobal_OS1.0.5.0.TKEINXM_01903caa6d_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fleur/fw_fleur_miui_FLEURINGlobal_OS1.0.5.0.TKEINXM_01903caa6d_13.0.zip
-  filename: fw_fleur_miui_FLEURINGlobal_OS1.0.5.0.TKEINXM_01903caa6d_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-14.09.2024/fw_fleur_miui_FLEURINGlobal_OS1.0.6.0.TKEINXM_db8a7cd2ff_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fleur/fw_fleur_miui_FLEURINGlobal_OS1.0.6.0.TKEINXM_db8a7cd2ff_13.0.zip
+  filename: fw_fleur_miui_FLEURINGlobal_OS1.0.6.0.TKEINXM_db8a7cd2ff_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: OS1.0.5.0.TKEINXM
+    miui: OS1.0.6.0.TKEINXM
 - branch: stable
   date: '2024-09-11'
   downloads:
@@ -2289,15 +2289,15 @@
     android: '12.0'
     miui: V13.0.18.0.SGMEUXM
 - branch: stable
-  date: '2024-06-13'
+  date: '2024-09-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-13.06.2024/fw_ice_miui_ICEINGlobal_V13.0.15.0.SGMINXM_facd0c5611_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEINGlobal_V13.0.15.0.SGMINXM_facd0c5611_12.0.zip
-  filename: fw_ice_miui_ICEINGlobal_V13.0.15.0.SGMINXM_facd0c5611_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-14.09.2024/fw_ice_miui_ICEINGlobal_V13.0.16.0.SGMINXM_15d428b4b5_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEINGlobal_V13.0.16.0.SGMINXM_15d428b4b5_12.0.zip
+  filename: fw_ice_miui_ICEINGlobal_V13.0.16.0.SGMINXM_15d428b4b5_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.15.0.SGMINXM
+    miui: V13.0.16.0.SGMINXM
 - branch: stable
   date: '2019-07-29'
   downloads:
@@ -3979,15 +3979,15 @@
     android: '14.0'
     miui: OS1.0.10.0.UMZCNXM
 - branch: stable
-  date: '2024-09-04'
+  date: '2024-09-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-05.09.2024/fw_pipa_miui_PIPAEEAGlobal_V14.0.10.0.TMZEUXM_ee573406cc_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pipa/fw_pipa_miui_PIPAEEAGlobal_V14.0.10.0.TMZEUXM_ee573406cc_13.0.zip
-  filename: fw_pipa_miui_PIPAEEAGlobal_V14.0.10.0.TMZEUXM_ee573406cc_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-14.09.2024/fw_pipa_miui_PIPAEEAGlobal_OS1.0.9.0.UMZEUXM_68acfcc49c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pipa/fw_pipa_miui_PIPAEEAGlobal_OS1.0.9.0.UMZEUXM_68acfcc49c_14.0.zip
+  filename: fw_pipa_miui_PIPAEEAGlobal_OS1.0.9.0.UMZEUXM_68acfcc49c_14.0.zip
   region: Europe
   versions:
-    android: '13.0'
-    miui: V14.0.10.0.TMZEUXM
+    android: '14.0'
+    miui: OS1.0.9.0.UMZEUXM
 - branch: stable
   date: '2024-08-27'
   downloads:

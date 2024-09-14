@@ -1476,6 +1476,12 @@
   version: OS1.0.2.0.TKEEUXM
 - android: '13.0'
   codename: fleur
+  date: '2024-09-14'
+  download: https://bigota.d.miui.com/OS1.0.6.0.TKEINXM/fw_fleur_miui_FLEURINGlobal_OS1.0.6.0.TKEINXM_db8a7cd2ff_13.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: OS1.0.6.0.TKEINXM
+- android: '13.0'
+  codename: fleur
   date: '2024-08-13'
   download: https://bigota.d.miui.com/OS1.0.3.0.TKEEUXM/fw_fleur_miui_FLEUREEAGlobal_OS1.0.3.0.TKEEUXM_ecec006b43_13.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
@@ -3676,6 +3682,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.8.0.UMZCNXM_183443e0a5_14.0.zip
   name: Xiaomi Pad 6
   version: OS1.0.8.0.UMZCNXM
+- android: '14.0'
+  codename: pipa
+  date: '2024-09-14'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMZEUXM/fw_pipa_miui_PIPAEEAGlobal_OS1.0.9.0.UMZEUXM_68acfcc49c_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.9.0.UMZEUXM
 - android: '14.0'
   codename: pipa
   date: '2024-09-13'
