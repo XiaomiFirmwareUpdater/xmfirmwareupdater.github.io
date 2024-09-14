@@ -54,7 +54,7 @@ permalink: /hyperos/peridot/
                 <tbody>
                 <tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.15.0.UNPCNXM</td><td>14.0</td><td>8.2 GB</td><td>2024-08-08</td><td><a href="/hyperos/peridot/stable/OS1.0.15.0.UNPCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.15.0.UNPCNXM</td><td>14.0</td><td>6.5 GB</td><td>2024-08-19</td><td><a href="/hyperos/peridot/stable/OS1.0.15.0.UNPCNXM/">Download</a></td></tr>
-<tr><td>Redmi Turbo 3 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UNPCNXM</td><td>14.0</td><td>6.5 GB</td><td>2024-04-17</td><td><a href="/hyperos/peridot/stable beta/OS1.0.2.0.UNPCNXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 3 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.16.0.UNPCNXM</td><td>14.0</td><td>6.5 GB</td><td>2024-09-11</td><td><a href="/hyperos/peridot/stable beta/OS1.0.16.0.UNPCNXM/">Download</a></td></tr>
 <tr><td>POCO F6 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UNPEUXM</td><td>14.0</td><td>8.0 GB</td><td>2024-08-15</td><td><a href="/hyperos/peridot/stable/OS1.0.4.0.UNPEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNPEUXM</td><td>14.0</td><td>5.6 GB</td><td>2024-08-23</td><td><a href="/hyperos/peridot/stable/OS1.0.4.0.UNPEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UNPMIXM</td><td>14.0</td><td>8.5 GB</td><td>2024-08-05</td><td><a href="/hyperos/peridot/stable/OS1.0.7.0.UNPMIXM/">Download</a></td></tr>

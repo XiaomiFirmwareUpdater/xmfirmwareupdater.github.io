@@ -52,7 +52,8 @@ permalink: /archive/hyperos/peridot/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F6 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNPEUXM</td><td>14.0</td><td>5.6 GB</td><td>2024-08-23</td><td><a href="/hyperos/peridot/stable/OS1.0.4.0.UNPEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Turbo 3 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.16.0.UNPCNXM</td><td>14.0</td><td>6.5 GB</td><td>2024-09-11</td><td><a href="/hyperos/peridot/stable beta/OS1.0.16.0.UNPCNXM/">Download</a></td></tr>
+<tr><td>POCO F6 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNPEUXM</td><td>14.0</td><td>5.6 GB</td><td>2024-08-23</td><td><a href="/hyperos/peridot/stable/OS1.0.4.0.UNPEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UNPEUXM</td><td>14.0</td><td>8.0 GB</td><td>2024-08-15</td><td><a href="/hyperos/peridot/stable/OS1.0.4.0.UNPEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNPIDXM</td><td>14.0</td><td>5.6 GB</td><td>2024-08-23</td><td><a href="/hyperos/peridot/stable/OS1.0.3.0.UNPIDXM/">Download</a></td></tr>
 <tr><td>POCO F6 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UNPIDXM</td><td>14.0</td><td>7.8 GB</td><td>2024-08-15</td><td><a href="/hyperos/peridot/stable/OS1.0.3.0.UNPIDXM/">Download</a></td></tr>
