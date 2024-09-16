@@ -52,7 +52,11 @@ permalink: /archive/hyperos/yunluo/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.ULYEUXM</td><td>14.0</td><td>4.2 GB</td><td>2024-08-21</td><td><a href="/hyperos/yunluo/stable/OS1.0.5.0.ULYEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.ULYCNXM</td><td>14.0</td><td>4.3 GB</td><td>2024-09-12</td><td><a href="/hyperos/yunluo/stable beta/OS1.0.7.0.ULYCNXM/">Download</a></td></tr>
+<tr><td>Redmi Pad India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.ULYINXM</td><td>14.0</td><td>4.1 GB</td><td>2024-09-12</td><td><a href="/hyperos/yunluo/stable beta/OS1.0.5.0.ULYINXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.ULYIDXM</td><td>14.0</td><td>4.2 GB</td><td>2024-09-12</td><td><a href="/hyperos/yunluo/stable beta/OS1.0.2.0.ULYIDXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.ULYRUXM</td><td>14.0</td><td>4.1 GB</td><td>2024-09-12</td><td><a href="/hyperos/yunluo/stable beta/OS1.0.3.0.ULYRUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.ULYEUXM</td><td>14.0</td><td>4.2 GB</td><td>2024-08-21</td><td><a href="/hyperos/yunluo/stable/OS1.0.5.0.ULYEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.ULYEUXM</td><td>14.0</td><td>4.7 GB</td><td>2024-08-05</td><td><a href="/hyperos/yunluo/stable/OS1.0.5.0.ULYEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULYTRXM</td><td>14.0</td><td>4.1 GB</td><td>2024-08-14</td><td><a href="/hyperos/yunluo/stable/OS1.0.2.0.ULYTRXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULYTRXM</td><td>14.0</td><td>4.6 GB</td><td>2024-08-05</td><td><a href="/hyperos/yunluo/stable/OS1.0.2.0.ULYTRXM/">Download</a></td></tr>

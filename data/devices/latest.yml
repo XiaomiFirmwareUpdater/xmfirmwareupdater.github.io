@@ -5589,15 +5589,15 @@
     android: '13.0'
     miui: V14.0.6.0.TJBINXM
 - branch: stable
-  date: '2024-08-20'
+  date: '2024-09-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_unicorn/releases/download/stable-20.08.2024/fw_unicorn_miui_UNICORN_OS1.0.8.0.ULECNXM_064a65d240_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/unicorn/fw_unicorn_miui_UNICORN_OS1.0.8.0.ULECNXM_064a65d240_14.0.zip
-  filename: fw_unicorn_miui_UNICORN_OS1.0.8.0.ULECNXM_064a65d240_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_unicorn/releases/download/stable-16.09.2024/fw_unicorn_miui_UNICORN_OS1.0.9.0.ULECNXM_a551e00317_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/unicorn/fw_unicorn_miui_UNICORN_OS1.0.9.0.ULECNXM_a551e00317_14.0.zip
+  filename: fw_unicorn_miui_UNICORN_OS1.0.9.0.ULECNXM_a551e00317_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.8.0.ULECNXM
+    miui: OS1.0.9.0.ULECNXM
 - branch: stable
   date: '2021-04-12'
   downloads:
@@ -6199,15 +6199,15 @@
     android: '14.0'
     miui: OS1.0.4.0.ULYMIXM
 - branch: stable
-  date: '2024-06-14'
+  date: '2024-09-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-14.06.2024/fw_yunluo_miui_YUNLUO_OS1.0.6.0.ULYCNXM_91c5ccbb4b_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yunluo/fw_yunluo_miui_YUNLUO_OS1.0.6.0.ULYCNXM_91c5ccbb4b_14.0.zip
-  filename: fw_yunluo_miui_YUNLUO_OS1.0.6.0.ULYCNXM_91c5ccbb4b_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-16.09.2024/fw_yunluo_miui_YUNLUO_OS1.0.7.0.ULYCNXM_35565fc06b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yunluo/fw_yunluo_miui_YUNLUO_OS1.0.7.0.ULYCNXM_35565fc06b_14.0.zip
+  filename: fw_yunluo_miui_YUNLUO_OS1.0.7.0.ULYCNXM_35565fc06b_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.ULYCNXM
+    miui: OS1.0.7.0.ULYCNXM
 - branch: stable
   date: '2024-08-24'
   downloads:
@@ -6219,15 +6219,15 @@
     android: '14.0'
     miui: OS1.0.5.0.ULYEUXM
 - branch: stable
-  date: '2024-06-18'
+  date: '2024-09-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-18.06.2024/fw_yunluo_miui_YUNLUOINGlobal_OS1.0.4.0.ULYINXM_b6bc85a376_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yunluo/fw_yunluo_miui_YUNLUOINGlobal_OS1.0.4.0.ULYINXM_b6bc85a376_14.0.zip
-  filename: fw_yunluo_miui_YUNLUOINGlobal_OS1.0.4.0.ULYINXM_b6bc85a376_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-16.09.2024/fw_yunluo_miui_YUNLUOINGlobal_OS1.0.5.0.ULYINXM_a490c12722_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yunluo/fw_yunluo_miui_YUNLUOINGlobal_OS1.0.5.0.ULYINXM_a490c12722_14.0.zip
+  filename: fw_yunluo_miui_YUNLUOINGlobal_OS1.0.5.0.ULYINXM_a490c12722_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.ULYINXM
+    miui: OS1.0.5.0.ULYINXM
 - branch: stable
   date: '2024-09-09'
   downloads:

@@ -52,10 +52,7 @@ permalink: /miui/yunluo/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.8.0.TLYCNXM</td><td>13.0</td><td>4.2 GB</td><td>2023-10-31</td><td><a href="/miui/yunluo/stable beta/V14.0.8.0.TLYCNXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TLYIDXM</td><td>13.0</td><td>4.0 GB</td><td>2023-12-14</td><td><a href="/miui/yunluo/stable beta/V14.0.3.0.TLYIDXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TLYRUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-08-09</td><td><a href="/miui/yunluo/stable beta/V14.0.2.0.TLYRUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TLYTRXM</td><td>13.0</td><td>3.9 GB</td><td>2023-12-27</td><td><a href="/miui/yunluo/stable beta/V14.0.3.0.TLYTRXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TLYTRXM</td><td>13.0</td><td>3.9 GB</td><td>2023-12-27</td><td><a href="/miui/yunluo/stable beta/V14.0.3.0.TLYTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
