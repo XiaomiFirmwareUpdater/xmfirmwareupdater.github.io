@@ -59,9 +59,8 @@ permalink: /hyperos/ishtar/
 <tr><td>Xiaomi 13 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UMAEUXM</td><td>14.0</td><td>7.8 GB</td><td>2024-08-11</td><td><a href="/hyperos/ishtar/stable/OS1.0.11.0.UMAEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UMAMIXM</td><td>14.0</td><td>8.1 GB</td><td>2024-07-12</td><td><a href="/hyperos/ishtar/stable/OS1.0.8.0.UMAMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UMAMIXM</td><td>14.0</td><td>6.2 GB</td><td>2024-07-23</td><td><a href="/hyperos/ishtar/stable/OS1.0.8.0.UMAMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UMARUXM</td><td>14.0</td><td>8.0 GB</td><td>2024-07-18</td><td><a href="/hyperos/ishtar/stable/OS1.0.6.0.UMARUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UMARUXM</td><td>14.0</td><td>6.1 GB</td><td>2024-07-29</td><td><a href="/hyperos/ishtar/stable/OS1.0.6.0.UMARUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.UMARUXM</td><td>14.0</td><td>6.1 GB</td><td>2024-08-27</td><td><a href="/hyperos/ishtar/stable beta/OS1.0.7.0.UMARUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Ultra Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UMARUXM</td><td>14.0</td><td>8.0 GB</td><td>2024-08-20</td><td><a href="/hyperos/ishtar/stable/OS1.0.7.0.UMARUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Ultra Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UMARUXM</td><td>14.0</td><td>6.1 GB</td><td>2024-08-27</td><td><a href="/hyperos/ishtar/stable/OS1.0.7.0.UMARUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UMATWXM</td><td>14.0</td><td>7.2 GB</td><td>2024-07-18</td><td><a href="/hyperos/ishtar/stable/OS1.0.6.0.UMATWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UMATWXM</td><td>14.0</td><td>6.1 GB</td><td>2024-08-02</td><td><a href="/hyperos/ishtar/stable/OS1.0.6.0.UMATWXM/">Download</a></td></tr>
 

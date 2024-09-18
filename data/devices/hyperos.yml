@@ -480,6 +480,12 @@
   version: OS1.0.4.0.UNJCNXM
 - android: '14.0'
   codename: chenfeng
+  date: '2024-09-18'
+  download: https://bigota.d.miui.com/OS1.0.15.0.UNJCNXM/fw_chenfeng_miui_CHENFENG_OS1.0.15.0.UNJCNXM_3b15a48405_14.0.zip
+  name: Xiaomi Civi 4 Pro
+  version: OS1.0.15.0.UNJCNXM
+- android: '14.0'
+  codename: chenfeng
   date: '2024-04-17'
   download: https://bigota.d.miui.com/OS1.0.7.0.UNJCNXM/fw_chenfeng_miui_CHENFENG_OS1.0.7.0.UNJCNXM_722860a3af_14.0.zip
   name: Xiaomi Civi 4 Pro
@@ -874,6 +880,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.ULFMIXM/fw_diting_miui_DITINGGlobal_OS1.0.5.0.ULFMIXM_d6847d12c9_14.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: OS1.0.5.0.ULFMIXM
+- android: '14.0'
+  codename: diting
+  date: '2024-09-18'
+  download: https://bigota.d.miui.com/OS1.0.7.0.ULFMIXM/fw_diting_miui_DITINGGlobal_OS1.0.7.0.ULFMIXM_6eaae94b00_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.7.0.ULFMIXM
 - android: '14.0'
   codename: diting
   date: '2024-02-18'
@@ -3210,6 +3222,12 @@
   version: OS1.0.4.0.ULMCNXM
 - android: '14.0'
   codename: munch
+  date: '2024-09-18'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULMCNXM/fw_munch_miui_MUNCH_OS1.0.5.0.ULMCNXM_19ba711665_14.0.zip
+  name: Redmi K40S/POCO F4
+  version: OS1.0.5.0.ULMCNXM
+- android: '14.0'
+  codename: munch
   date: '2024-06-18'
   download: https://bigota.d.miui.com/OS1.0.2.0.ULMMIXM/fw_munch_miui_MUNCHGlobal_OS1.0.2.0.ULMMIXM_9849ffd45c_14.0.zip
   name: Redmi K40S/POCO F4
@@ -3954,6 +3972,12 @@
   version: OS1.0.8.0.TLDCNXM
 - android: '13.0'
   codename: psyche
+  date: '2024-09-18'
+  download: https://bigota.d.miui.com/OS1.0.5.0.TLDMIXM/fw_psyche_miui_PSYCHEGlobal_OS1.0.5.0.TLDMIXM_e9e5d29a36_13.0.zip
+  name: Xiaomi 12X
+  version: OS1.0.5.0.TLDMIXM
+- android: '13.0'
+  codename: psyche
   date: '2024-08-17'
   download: https://bigota.d.miui.com/OS1.0.4.0.TLDEUXM/fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.4.0.TLDEUXM_1029beae22_13.0.zip
   name: Xiaomi 12X
@@ -4054,6 +4078,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UMSCNXM/fw_redwood_miui_REDWOOD_OS1.0.7.0.UMSCNXM_87fd4a2a7d_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: OS1.0.7.0.UMSCNXM
+- android: '14.0'
+  codename: redwood
+  date: '2024-09-18'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMSCNXM/fw_redwood_miui_REDWOOD_OS1.0.9.0.UMSCNXM_0884d94b1b_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.9.0.UMSCNXM
 - android: '14.0'
   codename: redwood
   date: '2024-01-15'
@@ -5850,6 +5880,18 @@
   version: OS1.0.4.0.UKDMIXM
 - android: '14.0'
   codename: vili
+  date: '2024-09-18'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UKDEUXM/fw_vili_miui_VILIEEAGlobal_OS1.0.5.0.UKDEUXM_f2de5f6b2f_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.5.0.UKDEUXM
+- android: '14.0'
+  codename: vili
+  date: '2024-09-18'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UKDINXM/fw_vili_miui_VILIINGlobal_OS1.0.5.0.UKDINXM_a8f176f44b_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.5.0.UKDINXM
+- android: '14.0'
+  codename: vili
   date: '2024-09-11'
   download: https://bigota.d.miui.com/OS1.0.5.0.UKDMIXM/fw_vili_miui_VILIGlobal_OS1.0.5.0.UKDMIXM_b2de419592_14.0.zip
   name: Xiaomi 11T Pro
@@ -6040,6 +6082,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMUMIXM/fw_xun_miui_XUNGlobal_OS1.0.3.0.UMUMIXM_9595cb289b_14.0.zip
   name: Redmi Pad SE
   version: OS1.0.3.0.UMUMIXM
+- android: '14.0'
+  codename: xun
+  date: '2024-09-18'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMUCNXM/fw_xun_miui_XUN_OS1.0.7.0.UMUCNXM_98a9fca627_14.0.zip
+  name: Redmi Pad SE
+  version: OS1.0.7.0.UMUCNXM
 - android: '14.0'
   codename: xun
   date: '2024-05-17'
