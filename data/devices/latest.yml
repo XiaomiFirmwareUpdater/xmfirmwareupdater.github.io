@@ -1669,15 +1669,15 @@
     android: '14.0'
     miui: OS1.0.5.0.UHXMIXM
 - branch: stable
-  date: '2024-08-28'
+  date: '2024-09-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flare/releases/download/stable-29.08.2024/fw_flare_miui_FLAREEEAGlobal_OS1.0.3.0.UHXEUXM_497ec4a320_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/flare/fw_flare_miui_FLAREEEAGlobal_OS1.0.3.0.UHXEUXM_497ec4a320_14.0.zip
-  filename: fw_flare_miui_FLAREEEAGlobal_OS1.0.3.0.UHXEUXM_497ec4a320_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flare/releases/download/stable-18.09.2024/fw_flare_miui_FLAREEEAGlobal_OS1.0.4.0.UHXEUXM_8f997cd9d0_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/flare/fw_flare_miui_FLAREEEAGlobal_OS1.0.4.0.UHXEUXM_8f997cd9d0_14.0.zip
+  filename: fw_flare_miui_FLAREEEAGlobal_OS1.0.4.0.UHXEUXM_8f997cd9d0_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.3.0.UHXEUXM
+    miui: OS1.0.4.0.UHXEUXM
 - branch: stable
   date: '2024-08-31'
   downloads:
@@ -1799,15 +1799,15 @@
     android: '14.0'
     miui: OS1.0.3.0.UGPMIXM
 - branch: stable
-  date: '2024-09-08'
+  date: '2024-09-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-09.09.2024/fw_gale_miui_GALEEEAGlobal_OS1.0.4.0.UGPEUXM_27df2a7e4b_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/gale/fw_gale_miui_GALEEEAGlobal_OS1.0.4.0.UGPEUXM_27df2a7e4b_14.0.zip
-  filename: fw_gale_miui_GALEEEAGlobal_OS1.0.4.0.UGPEUXM_27df2a7e4b_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-18.09.2024/fw_gale_miui_GALEEEAGlobal_OS1.0.5.0.UGPEUXM_331f60c580_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/gale/fw_gale_miui_GALEEEAGlobal_OS1.0.5.0.UGPEUXM_331f60c580_14.0.zip
+  filename: fw_gale_miui_GALEEEAGlobal_OS1.0.5.0.UGPEUXM_331f60c580_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.UGPEUXM
+    miui: OS1.0.5.0.UGPEUXM
 - branch: stable
   date: '2024-09-09'
   downloads:
@@ -3989,15 +3989,15 @@
     android: '14.0'
     miui: OS1.0.9.0.UMZEUXM
 - branch: stable
-  date: '2024-08-27'
+  date: '2024-09-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-28.08.2024/fw_pipa_miui_PIPAINGlobal_OS1.0.6.0.UMZINXM_750d0ea1c8_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pipa/fw_pipa_miui_PIPAINGlobal_OS1.0.6.0.UMZINXM_750d0ea1c8_14.0.zip
-  filename: fw_pipa_miui_PIPAINGlobal_OS1.0.6.0.UMZINXM_750d0ea1c8_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-18.09.2024/fw_pipa_miui_PIPAINGlobal_OS1.0.7.0.UMZINXM_636e32163f_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pipa/fw_pipa_miui_PIPAINGlobal_OS1.0.7.0.UMZINXM_636e32163f_14.0.zip
+  filename: fw_pipa_miui_PIPAINGlobal_OS1.0.7.0.UMZINXM_636e32163f_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.UMZINXM
+    miui: OS1.0.7.0.UMZINXM
 - branch: stable
   date: '2024-09-10'
   downloads:
@@ -4179,15 +4179,15 @@
     android: '13.0'
     miui: OS1.0.5.0.TLDMIXM
 - branch: stable
-  date: '2024-08-20'
+  date: '2024-09-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-21.08.2024/fw_psyche_miui_PSYCHE_OS1.0.8.0.TLDCNXM_dc50ac457a_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/psyche/fw_psyche_miui_PSYCHE_OS1.0.8.0.TLDCNXM_dc50ac457a_13.0.zip
-  filename: fw_psyche_miui_PSYCHE_OS1.0.8.0.TLDCNXM_dc50ac457a_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-18.09.2024/fw_psyche_miui_PSYCHE_OS1.0.9.0.TLDCNXM_7f03ad7d69_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/psyche/fw_psyche_miui_PSYCHE_OS1.0.9.0.TLDCNXM_7f03ad7d69_13.0.zip
+  filename: fw_psyche_miui_PSYCHE_OS1.0.9.0.TLDCNXM_7f03ad7d69_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: OS1.0.8.0.TLDCNXM
+    miui: OS1.0.9.0.TLDCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:

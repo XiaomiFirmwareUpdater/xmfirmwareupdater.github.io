@@ -1480,6 +1480,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UHXMIXM/fw_flare_miui_FLAREGlobal_OS1.0.5.0.UHXMIXM_28120a5745_14.0.zip
   name: Redmi Pad SE 8.7 5G
   version: OS1.0.5.0.UHXMIXM
+- android: '14.0'
+  codename: flare
+  date: '2024-09-18'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UHXEUXM/fw_flare_miui_FLAREEEAGlobal_OS1.0.4.0.UHXEUXM_8f997cd9d0_14.0.zip
+  name: Redmi Pad SE 8.7 5G
+  version: OS1.0.4.0.UHXEUXM
 - android: '13.0'
   codename: fleur
   date: '2024-08-31'
@@ -1672,6 +1678,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UGPEUXM/fw_gale_miui_GALEEEAGlobal_OS1.0.3.0.UGPEUXM_8e8d639d36_14.0.zip
   name: Redmi 13C/POCO C65
   version: OS1.0.3.0.UGPEUXM
+- android: '14.0'
+  codename: gale
+  date: '2024-09-18'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UGPEUXM/fw_gale_miui_GALEEEAGlobal_OS1.0.5.0.UGPEUXM_331f60c580_14.0.zip
+  name: Redmi 13C/POCO C65
+  version: OS1.0.5.0.UGPEUXM
 - android: '14.0'
   codename: gale
   date: '2024-09-11'
@@ -3714,6 +3726,12 @@
   version: OS1.0.4.0.UMZINXM
 - android: '14.0'
   codename: pipa
+  date: '2024-09-18'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMZINXM/fw_pipa_miui_PIPAINGlobal_OS1.0.7.0.UMZINXM_636e32163f_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.7.0.UMZINXM
+- android: '14.0'
+  codename: pipa
   date: '2024-02-18'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMZEUXM/fw_pipa_miui_PIPAEEAGlobal_OS1.0.4.0.UMZEUXM_81e4f605a8_14.0.zip
   name: Xiaomi Pad 6
@@ -3976,6 +3994,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.TLDMIXM/fw_psyche_miui_PSYCHEGlobal_OS1.0.5.0.TLDMIXM_e9e5d29a36_13.0.zip
   name: Xiaomi 12X
   version: OS1.0.5.0.TLDMIXM
+- android: '13.0'
+  codename: psyche
+  date: '2024-09-18'
+  download: https://bigota.d.miui.com/OS1.0.9.0.TLDCNXM/fw_psyche_miui_PSYCHE_OS1.0.9.0.TLDCNXM_7f03ad7d69_13.0.zip
+  name: Xiaomi 12X
+  version: OS1.0.9.0.TLDCNXM
 - android: '13.0'
   codename: psyche
   date: '2024-08-17'

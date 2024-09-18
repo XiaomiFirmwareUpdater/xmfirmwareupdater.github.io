@@ -9,15 +9,15 @@
     android: '13.0'
     miui: OS1.0.5.0.TLDMIXM
 - branch: stable
-  date: '2024-08-20'
+  date: '2024-09-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-21.08.2024/fw_psyche_miui_PSYCHE_OS1.0.8.0.TLDCNXM_dc50ac457a_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/psyche/fw_psyche_miui_PSYCHE_OS1.0.8.0.TLDCNXM_dc50ac457a_13.0.zip
-  filename: fw_psyche_miui_PSYCHE_OS1.0.8.0.TLDCNXM_dc50ac457a_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-18.09.2024/fw_psyche_miui_PSYCHE_OS1.0.9.0.TLDCNXM_7f03ad7d69_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/psyche/fw_psyche_miui_PSYCHE_OS1.0.9.0.TLDCNXM_7f03ad7d69_13.0.zip
+  filename: fw_psyche_miui_PSYCHE_OS1.0.9.0.TLDCNXM_7f03ad7d69_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: OS1.0.8.0.TLDCNXM
+    miui: OS1.0.9.0.TLDCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
