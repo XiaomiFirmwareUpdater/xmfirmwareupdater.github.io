@@ -4290,6 +4290,12 @@
   version: OS1.0.13.0.UNNCNXM
 - android: '14.0'
   codename: rothko
+  date: '2024-09-18'
+  download: https://bigota.d.miui.com/OS1.0.27.0.UNNCNXM/fw_rothko_miui_ROTHKO_OS1.0.27.0.UNNCNXM_4f58497328_14.0.zip
+  name: Redmi K70 Ultra
+  version: OS1.0.27.0.UNNCNXM
+- android: '14.0'
+  codename: rothko
   date: '2024-08-14'
   download: https://bigota.d.miui.com/OS1.0.22.0.UNNCNXM/fw_rothko_miui_ROTHKO_OS1.0.22.0.UNNCNXM_3ce3b8e10c_14.0.zip
   name: Redmi K70 Ultra
