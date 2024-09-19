@@ -1469,6 +1469,12 @@
   name: Redmi 12
   version: OS1.0.2.0.UMXEUXM
 - android: '14.0'
+  codename: flame
+  date: '2024-09-19'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UGUCNXM/fw_flame_miui_FLAME_OS1.0.7.0.UGUCNXM_c75fb07ee3_14.0.zip
+  name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
+  version: OS1.0.7.0.UGUCNXM
+- android: '14.0'
   codename: flare
   date: '2024-08-28'
   download: https://bigota.d.miui.com/OS1.0.3.0.UHXEUXM/fw_flare_miui_FLAREEEAGlobal_OS1.0.3.0.UHXEUXM_497ec4a320_14.0.zip
@@ -1624,6 +1630,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMCCNXM/fw_fuxi_miui_FUXI_OS1.0.3.0.UMCCNXM_e0bcc18a25_14.0.zip
   name: Xiaomi 13
   version: OS1.0.3.0.UMCCNXM
+- android: '14.0'
+  codename: fuxi
+  date: '2024-09-19'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMCEUXM/fw_fuxi_miui_FUXIEEAGlobal_OS1.0.8.0.UMCEUXM_71bb953128_14.0.zip
+  name: Xiaomi 13
+  version: OS1.0.8.0.UMCEUXM
 - android: '14.0'
   codename: fuxi
   date: '2024-06-18'
@@ -3222,6 +3234,12 @@
   version: OS1.0.1.0.ULMCNXM
 - android: '14.0'
   codename: munch
+  date: '2024-09-19'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULMMIXM/fw_munch_miui_MUNCHGlobal_OS1.0.5.0.ULMMIXM_4cab56c7e5_14.0.zip
+  name: Redmi K40S/POCO F4
+  version: OS1.0.5.0.ULMMIXM
+- android: '14.0'
+  codename: munch
   date: '2024-08-19'
   download: https://bigota.d.miui.com/OS1.0.4.0.ULMMIXM/fw_munch_miui_MUNCHGlobal_OS1.0.4.0.ULMMIXM_7d6a1823b1_14.0.zip
   name: Redmi K40S/POCO F4
@@ -3418,6 +3436,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UMBCNXM/fw_nuwa_miui_NUWA_OS1.0.7.0.UMBCNXM_7ceb1a5a00_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.7.0.UMBCNXM
+- android: '14.0'
+  codename: nuwa
+  date: '2024-09-19'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMBEUXM/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.9.0.UMBEUXM_06d18c0c3a_14.0.zip
+  name: Xiaomi 13 Pro
+  version: OS1.0.9.0.UMBEUXM
 - android: '14.0'
   codename: nuwa
   date: '2024-02-18'

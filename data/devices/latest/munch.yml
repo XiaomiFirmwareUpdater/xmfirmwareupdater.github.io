@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-08-19'
+  date: '2024-09-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-19.08.2024/fw_munch_miui_MUNCHGlobal_OS1.0.4.0.ULMMIXM_7d6a1823b1_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/munch/fw_munch_miui_MUNCHGlobal_OS1.0.4.0.ULMMIXM_7d6a1823b1_14.0.zip
-  filename: fw_munch_miui_MUNCHGlobal_OS1.0.4.0.ULMMIXM_7d6a1823b1_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-19.09.2024/fw_munch_miui_MUNCHGlobal_OS1.0.5.0.ULMMIXM_4cab56c7e5_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/munch/fw_munch_miui_MUNCHGlobal_OS1.0.5.0.ULMMIXM_4cab56c7e5_14.0.zip
+  filename: fw_munch_miui_MUNCHGlobal_OS1.0.5.0.ULMMIXM_4cab56c7e5_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.ULMMIXM
+    miui: OS1.0.5.0.ULMMIXM
 - branch: stable
   date: '2024-09-18'
   downloads:
