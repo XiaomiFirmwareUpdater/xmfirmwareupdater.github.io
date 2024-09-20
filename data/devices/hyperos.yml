@@ -180,6 +180,12 @@
   version: OS1.0.2.0.UMFMIXM
 - android: '14.0'
   codename: aristotle
+  date: '2024-09-20'
+  download: https://bigota.d.miui.com/OS1.0.14.0.UMFEUXM/fw_aristotle_miui_ARISTOTLEEEAGlobal_OS1.0.14.0.UMFEUXM_0a59b0552e_14.0.zip
+  name: Xiaomi 13T
+  version: OS1.0.14.0.UMFEUXM
+- android: '14.0'
+  codename: aristotle
   date: '2024-05-18'
   download: https://bigota.d.miui.com/OS1.0.7.0.UMFEUXM/fw_aristotle_miui_ARISTOTLEEEAGlobal_OS1.0.7.0.UMFEUXM_ed8c49dcbc_14.0.zip
   name: Xiaomi 13T
@@ -2460,6 +2466,12 @@
   version: OS1.0.15.0.UMACNXM
 - android: '14.0'
   codename: ishtar
+  date: '2024-09-20'
+  download: https://bigota.d.miui.com/OS1.0.16.0.UMACNXM/fw_ishtar_miui_ISHTAR_OS1.0.16.0.UMACNXM_579dd9cbfa_14.0.zip
+  name: Xiaomi 13 Ultra
+  version: OS1.0.16.0.UMACNXM
+- android: '14.0'
+  codename: ishtar
   date: '2023-12-14'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMACNXM/fw_ishtar_miui_ISHTAR_OS1.0.4.0.UMACNXM_0801f3ef9d_14.0.zip
   name: Xiaomi 13 Ultra
@@ -2998,6 +3010,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMNCNXM/fw_mondrian_miui_MONDRIAN_OS1.0.2.0.UMNCNXM_39d36cb035_14.0.zip
   name: Redmi K60/POCO F5 Pro
   version: OS1.0.2.0.UMNCNXM
+- android: '14.0'
+  codename: mondrian
+  date: '2024-09-20'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UMNCNXM/fw_mondrian_miui_MONDRIAN_OS1.0.13.0.UMNCNXM_c7edb14af5_14.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS1.0.13.0.UMNCNXM
 - android: '14.0'
   codename: mondrian
   date: '2024-08-20'
