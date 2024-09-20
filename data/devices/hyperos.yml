@@ -300,6 +300,12 @@
   version: OS1.0.7.0.UNACNXM
 - android: '14.0'
   codename: aurora
+  date: '2024-09-20'
+  download: https://bigota.d.miui.com/OS1.0.23.0.UNACNXM/fw_aurora_miui_AURORA_OS1.0.23.0.UNACNXM_9bb4b476f4_14.0.zip
+  name: Xiaomi 14 Ultra
+  version: OS1.0.23.0.UNACNXM
+- android: '14.0'
+  codename: aurora
   date: '2024-05-17'
   download: https://bigota.d.miui.com/OS1.0.6.0.UNAEUXM/fw_aurora_miui_AURORAEEAGlobal_OS1.0.6.0.UNAEUXM_05d1d97e08_14.0.zip
   name: Xiaomi 14 Ultra
@@ -1042,6 +1048,18 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UNLMIXM/fw_duchamp_miui_DUCHAMPGlobal_OS1.0.9.0.UNLMIXM_c736336dab_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS1.0.9.0.UNLMIXM
+- android: '14.0'
+  codename: duchamp
+  date: '2024-09-20'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UNLEUXM/fw_duchamp_miui_DUCHAMPEEAGlobal_OS1.0.11.0.UNLEUXM_bea98a5b2e_14.0.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS1.0.11.0.UNLEUXM
+- android: '14.0'
+  codename: duchamp
+  date: '2024-09-20'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UNLINXM/fw_duchamp_miui_DUCHAMPINGlobal_OS1.0.11.0.UNLINXM_f4b2bf800a_14.0.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS1.0.11.0.UNLINXM
 - android: '14.0'
   codename: duchamp
   date: '2024-02-20'
@@ -5110,6 +5128,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UMKCNXM/fw_socrates_miui_SOCRATES_OS1.0.7.0.UMKCNXM_450919a308_14.0.zip
   name: Redmi K60 Pro
   version: OS1.0.7.0.UMKCNXM
+- android: '14.0'
+  codename: socrates
+  date: '2024-09-20'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UMKCNXM/fw_socrates_miui_SOCRATES_OS1.0.12.0.UMKCNXM_fc93fc7e30_14.0.zip
+  name: Redmi K60 Pro
+  version: OS1.0.12.0.UMKCNXM
 - android: '14.0'
   codename: socrates
   date: '2023-12-19'
