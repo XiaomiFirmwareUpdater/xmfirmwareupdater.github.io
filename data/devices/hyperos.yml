@@ -5556,6 +5556,12 @@
   version: OS1.0.4.0.ULACNXM
 - android: '14.0'
   codename: thor
+  date: '2024-09-20'
+  download: https://bigota.d.miui.com/OS1.0.8.0.ULACNXM/fw_thor_miui_THOR_OS1.0.8.0.ULACNXM_2fdf7fa07d_14.0.zip
+  name: Xiaomi 12S Ultra
+  version: OS1.0.8.0.ULACNXM
+- android: '14.0'
+  codename: thor
   date: '2024-04-18'
   download: https://bigota.d.miui.com/OS1.0.5.0.ULACNXM/fw_thor_miui_THOR_OS1.0.5.0.ULACNXM_5282e8adc1_14.0.zip
   name: Xiaomi 12S Ultra
@@ -5794,6 +5800,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UNKMIXM/fw_vermeer_miui_VERMEERGlobal_OS1.0.3.0.UNKMIXM_5a2effd1b2_14.0.zip
   name: Redmi K70/POCO F6 Pro
   version: OS1.0.3.0.UNKMIXM
+- android: '14.0'
+  codename: vermeer
+  date: '2024-09-21'
+  download: https://bigota.d.miui.com/OS1.0.19.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.19.0.UNKCNXM_ca6301bfed_14.0.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS1.0.19.0.UNKCNXM
 - android: '14.0'
   codename: vermeer
   date: '2024-01-21'
