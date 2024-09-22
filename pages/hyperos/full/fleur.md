@@ -52,7 +52,8 @@ permalink: /archive/hyperos/fleur/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11S 4G / POCO M4 Pro 4G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.TKEINXM</td><td>13.0</td><td>3.7 GB</td><td>2024-09-11</td><td><a href="/hyperos/fleur/stable/OS1.0.6.0.TKEINXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11S 4G / POCO M4 Pro 4G Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.TKERUXM</td><td>13.0</td><td>3.7 GB</td><td>2024-09-18</td><td><a href="/hyperos/fleur/stable beta/OS1.0.4.0.TKERUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11S 4G / POCO M4 Pro 4G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.TKEINXM</td><td>13.0</td><td>3.7 GB</td><td>2024-09-11</td><td><a href="/hyperos/fleur/stable/OS1.0.6.0.TKEINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11S 4G / POCO M4 Pro 4G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.TKEINXM</td><td>13.0</td><td>5.0 GB</td><td>2024-09-04</td><td><a href="/hyperos/fleur/stable/OS1.0.6.0.TKEINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11S 4G / POCO M4 Pro 4G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.TKEEUXM</td><td>13.0</td><td>3.8 GB</td><td>2024-09-06</td><td><a href="/hyperos/fleur/stable/OS1.0.6.0.TKEEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11S 4G / POCO M4 Pro 4G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.TKEEUXM</td><td>13.0</td><td>5.9 GB</td><td>2024-09-01</td><td><a href="/hyperos/fleur/stable/OS1.0.6.0.TKEEUXM/">Download</a></td></tr>
