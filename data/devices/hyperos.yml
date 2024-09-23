@@ -168,6 +168,12 @@
   version: OS1.0.3.0.UMFEUXM
 - android: '14.0'
   codename: aristotle
+  date: '2024-09-23'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMFMIXM/fw_aristotle_miui_ARISTOTLEGlobal_OS1.0.9.0.UMFMIXM_41cdc07060_14.0.zip
+  name: Xiaomi 13T
+  version: OS1.0.9.0.UMFMIXM
+- android: '14.0'
+  codename: aristotle
   date: '2024-04-23'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMFMIXM/fw_aristotle_miui_ARISTOTLEGlobal_OS1.0.4.0.UMFMIXM_4b921ddffb_14.0.zip
   name: Xiaomi 13T
@@ -790,6 +796,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULZCNXM/fw_dagu_miui_DAGU_OS1.0.2.0.ULZCNXM_128408a80b_14.0.zip
   name: Xiaomi Pad 5 Pro 12.4
   version: OS1.0.2.0.ULZCNXM
+- android: '14.0'
+  codename: dagu
+  date: '2024-09-23'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULZCNXM/fw_dagu_miui_DAGU_OS1.0.5.0.ULZCNXM_b0b86edf69_14.0.zip
+  name: Xiaomi Pad 5 Pro 12.4
+  version: OS1.0.5.0.ULZCNXM
 - android: '14.0'
   codename: dagu
   date: '2024-02-18'
@@ -1510,6 +1522,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UHXMIXM/fw_flare_miui_FLAREGlobal_OS1.0.5.0.UHXMIXM_28120a5745_14.0.zip
   name: Redmi Pad SE 8.7 5G
   version: OS1.0.5.0.UHXMIXM
+- android: '14.0'
+  codename: flare
+  date: '2024-09-23'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UHXMIXM/fw_flare_miui_FLAREGlobal_OS1.0.6.0.UHXMIXM_9304f289d8_14.0.zip
+  name: Redmi Pad SE 8.7 5G
+  version: OS1.0.6.0.UHXMIXM
 - android: '14.0'
   codename: flare
   date: '2024-09-18'
@@ -2638,6 +2656,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UKOEUXM/fw_lisa_miui_LISAEEAGlobal_OS1.0.5.0.UKOEUXM_ab63f51caf_14.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
   version: OS1.0.5.0.UKOEUXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-09-23'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UKOEUXM/fw_lisa_miui_LISAEEAGlobal_OS1.0.9.0.UKOEUXM_8e6352deee_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.9.0.UKOEUXM
 - android: '14.0'
   codename: lisa
   date: '2024-08-22'
@@ -5188,6 +5212,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UHYMIXM/fw_spark_miui_SPARKGlobal_OS1.0.4.0.UHYMIXM_63079818cf_14.0.zip
   name: Redmi Pad SE 8.7 4G
   version: OS1.0.4.0.UHYMIXM
+- android: '14.0'
+  codename: spark
+  date: '2024-09-23'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UHYMIXM/fw_spark_miui_SPARKGlobal_OS1.0.5.0.UHYMIXM_af8a808687_14.0.zip
+  name: Redmi Pad SE 8.7 4G
+  version: OS1.0.5.0.UHYMIXM
 - android: '14.0'
   codename: spark
   date: '2024-08-15'

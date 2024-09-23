@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-08-29'
+  date: '2024-09-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flare/releases/download/stable-29.08.2024/fw_flare_miui_FLAREGlobal_OS1.0.5.0.UHXMIXM_28120a5745_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/flare/fw_flare_miui_FLAREGlobal_OS1.0.5.0.UHXMIXM_28120a5745_14.0.zip
-  filename: fw_flare_miui_FLAREGlobal_OS1.0.5.0.UHXMIXM_28120a5745_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flare/releases/download/stable-23.09.2024/fw_flare_miui_FLAREGlobal_OS1.0.6.0.UHXMIXM_9304f289d8_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/flare/fw_flare_miui_FLAREGlobal_OS1.0.6.0.UHXMIXM_9304f289d8_14.0.zip
+  filename: fw_flare_miui_FLAREGlobal_OS1.0.6.0.UHXMIXM_9304f289d8_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UHXMIXM
+    miui: OS1.0.6.0.UHXMIXM
 - branch: stable
   date: '2024-09-18'
   downloads:
