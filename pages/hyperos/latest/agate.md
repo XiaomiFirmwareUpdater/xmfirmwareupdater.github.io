@@ -65,6 +65,7 @@ permalink: /hyperos/agate/
 <tr><td>Xiaomi 11T Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UKWTRXM</td><td>14.0</td><td>4.9 GB</td><td>2024-09-14</td><td><a href="/hyperos/agate/stable/OS1.0.4.0.UKWTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UKWTWXM</td><td>14.0</td><td>5.7 GB</td><td>2024-05-15</td><td><a href="/hyperos/agate/stable/OS1.0.3.0.UKWTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UKWTWXM</td><td>14.0</td><td>4.7 GB</td><td>2024-06-06</td><td><a href="/hyperos/agate/stable/OS1.0.3.0.UKWTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UKWTWXM</td><td>14.0</td><td>4.7 GB</td><td>2024-09-20</td><td><a href="/hyperos/agate/stable beta/OS1.0.4.0.UKWTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

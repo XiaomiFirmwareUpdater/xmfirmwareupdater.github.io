@@ -1956,6 +1956,12 @@
   version: OS1.0.5.0.UNQINXM
 - android: '14.0'
   codename: gold
+  date: '2024-09-23'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UNQMIXM/fw_gold_miui_GOLDGlobal_OS1.0.11.0.UNQMIXM_3c900ef18e_14.0.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS1.0.11.0.UNQMIXM
+- android: '14.0'
+  codename: gold
   date: '2024-07-22'
   download: https://bigota.d.miui.com/OS1.0.7.0.UNQMIXM/fw_gold_miui_GOLDGlobal_OS1.0.7.0.UNQMIXM_50f81f3d22_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
