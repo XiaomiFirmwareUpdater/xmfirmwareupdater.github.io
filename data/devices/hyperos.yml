@@ -3468,6 +3468,12 @@
   version: OS1.0.2.0.UMBINXM
 - android: '14.0'
   codename: nuwa
+  date: '2024-09-24'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMBINXM/fw_nuwa_miui_NUWAINGlobal_OS1.0.9.0.UMBINXM_98a292ad06_14.0.zip
+  name: Xiaomi 13 Pro
+  version: OS1.0.9.0.UMBINXM
+- android: '14.0'
+  codename: nuwa
   date: '2024-07-24'
   download: https://bigota.d.miui.com/OS1.0.8.0.UMBCNXM/fw_nuwa_miui_NUWA_OS1.0.8.0.UMBCNXM_db7987aadb_14.0.zip
   name: Xiaomi 13 Pro
@@ -4530,6 +4536,18 @@
   version: OS1.0.7.0.UMOMIXM
 - android: '14.0'
   codename: ruby
+  date: '2024-09-24'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMOEUXM/fw_ruby_miui_RUBYEEAGlobal_OS1.0.7.0.UMOEUXM_aee893e9ee_14.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS1.0.7.0.UMOEUXM
+- android: '14.0'
+  codename: ruby
+  date: '2024-09-24'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMOMIXM/fw_ruby_miui_RUBYGlobal_OS1.0.8.0.UMOMIXM_6b4047f98d_14.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS1.0.8.0.UMOMIXM
+- android: '14.0'
+  codename: ruby
   date: '2024-01-24'
   download: https://bigota.d.miui.com/OS1.0.3.0.UMOCNXM/fw_ruby_miui_RUBY_OS1.0.3.0.UMOCNXM_c06e478636_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
@@ -4762,6 +4780,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UHZEUXM/fw_sea_miui_SEAEEAGlobal_OS1.0.7.0.UHZEUXM_a32a570837_14.0.zip
   name: Redmi Note 12S
   version: OS1.0.7.0.UHZEUXM
+- android: '14.0'
+  codename: sea
+  date: '2024-09-23'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UHZMIXM/fw_sea_miui_SEAGlobal_OS1.0.10.0.UHZMIXM_c11cc655f6_14.0.zip
+  name: Redmi Note 12S
+  version: OS1.0.10.0.UHZMIXM
 - android: '14.0'
   codename: sea
   date: '2024-06-24'
@@ -6312,6 +6336,12 @@
   version: OS1.0.8.0.UMHCNXM
 - android: '14.0'
   codename: yuechu
+  date: '2024-09-24'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMICNXM/fw_yuechu_miui_YUECHU_OS1.0.9.0.UMICNXM_b6cb01d4a1_14.0.zip
+  name: Xiaomi Civi 3
+  version: OS1.0.9.0.UMICNXM
+- android: '14.0'
+  codename: yuechu
   date: '2024-01-12'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMICNXM/fw_yuechu_miui_YUECHU_OS1.0.4.0.UMICNXM_14e7bad1d9_14.0.zip
   name: Xiaomi Civi 3
@@ -6436,6 +6466,12 @@
   download: https://bigota.d.miui.com/OS1.0.11.0.ULBEUXM/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.11.0.ULBEUXM_f8aef42752_14.0.zip
   name: Xiaomi 12 Pro
   version: OS1.0.11.0.ULBEUXM
+- android: '14.0'
+  codename: zeus
+  date: '2024-09-24'
+  download: https://bigota.d.miui.com/OS1.0.8.0.ULBCNXM/fw_zeus_miui_ZEUS_OS1.0.8.0.ULBCNXM_cc4600e8f5_14.0.zip
+  name: Xiaomi 12 Pro
+  version: OS1.0.8.0.ULBCNXM
 - android: '14.0'
   codename: zeus
   date: '2024-06-24'
