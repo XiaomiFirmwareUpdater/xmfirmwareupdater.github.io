@@ -852,6 +852,12 @@
   version: OS1.0.3.0.ULFMIXM
 - android: '14.0'
   codename: diting
+  date: '2024-09-25'
+  download: https://bigota.d.miui.com/OS1.0.8.0.ULFCNXM/fw_diting_miui_DITING_OS1.0.8.0.ULFCNXM_95cd0d0ceb_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.8.0.ULFCNXM
+- android: '14.0'
+  codename: diting
   date: '2024-07-26'
   download: https://bigota.d.miui.com/OS1.0.6.0.ULFEUXM/fw_diting_miui_DITINGEEAGlobal_OS1.0.6.0.ULFEUXM_0905675ee8_14.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
@@ -1972,6 +1978,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UNQINXM/fw_gold_miui_GOLDINGlobal_OS1.0.6.0.UNQINXM_01f5dddab5_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: OS1.0.6.0.UNQINXM
+- android: '14.0'
+  codename: gold
+  date: '2024-09-25'
+  download: https://bigota.d.miui.com/OS1.0.14.0.UNQEUXM/fw_gold_miui_GOLDEEAGlobal_OS1.0.14.0.UNQEUXM_ad65abee9f_14.0.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS1.0.14.0.UNQEUXM
 - android: '14.0'
   codename: gold
   date: '2024-04-26'

@@ -1329,15 +1329,15 @@
     android: '14.0'
     miui: OS1.0.7.0.ULFMIXM
 - branch: stable
-  date: '2024-08-08'
+  date: '2024-09-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-09.08.2024/fw_diting_miui_DITING_OS1.0.7.0.ULFCNXM_1918934460_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/diting/fw_diting_miui_DITING_OS1.0.7.0.ULFCNXM_1918934460_14.0.zip
-  filename: fw_diting_miui_DITING_OS1.0.7.0.ULFCNXM_1918934460_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-26.09.2024/fw_diting_miui_DITING_OS1.0.8.0.ULFCNXM_95cd0d0ceb_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/diting/fw_diting_miui_DITING_OS1.0.8.0.ULFCNXM_95cd0d0ceb_14.0.zip
+  filename: fw_diting_miui_DITING_OS1.0.8.0.ULFCNXM_95cd0d0ceb_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.7.0.ULFCNXM
+    miui: OS1.0.8.0.ULFCNXM
 - branch: stable
   date: '2024-09-12'
   downloads:
@@ -2039,15 +2039,15 @@
     android: '14.0'
     miui: OS1.0.4.0.UNQCNXM
 - branch: stable
-  date: '2024-09-05'
+  date: '2024-09-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-05.09.2024/fw_gold_miui_GOLDEEAGlobal_OS1.0.13.0.UNQEUXM_02114c0d29_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/gold/fw_gold_miui_GOLDEEAGlobal_OS1.0.13.0.UNQEUXM_02114c0d29_14.0.zip
-  filename: fw_gold_miui_GOLDEEAGlobal_OS1.0.13.0.UNQEUXM_02114c0d29_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-26.09.2024/fw_gold_miui_GOLDEEAGlobal_OS1.0.14.0.UNQEUXM_ad65abee9f_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/gold/fw_gold_miui_GOLDEEAGlobal_OS1.0.14.0.UNQEUXM_ad65abee9f_14.0.zip
+  filename: fw_gold_miui_GOLDEEAGlobal_OS1.0.14.0.UNQEUXM_ad65abee9f_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.13.0.UNQEUXM
+    miui: OS1.0.14.0.UNQEUXM
 - branch: stable
   date: '2024-09-06'
   downloads:
