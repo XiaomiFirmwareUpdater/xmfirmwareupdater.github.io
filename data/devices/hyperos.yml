@@ -2868,6 +2868,12 @@
   version: OS1.0.3.0.UMRMIXM
 - android: '14.0'
   codename: marble
+  date: '2024-09-24'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMRCNXM/fw_marble_miui_MARBLE_OS1.0.7.0.UMRCNXM_a87408032e_14.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS1.0.7.0.UMRCNXM
+- android: '14.0'
+  codename: marble
   date: '2024-06-25'
   download: https://bigota.d.miui.com/OS1.0.8.0.UMREUXM/fw_marble_miui_MARBLEEEAGlobal_OS1.0.8.0.UMREUXM_c6f0e5cf41_14.0.zip
   name: Redmi Note 12 Turbo/POCO F5
@@ -4540,6 +4546,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UMOMIXM/fw_ruby_miui_RUBYGlobal_OS1.0.7.0.UMOMIXM_af0278400a_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: OS1.0.7.0.UMOMIXM
+- android: '14.0'
+  codename: ruby
+  date: '2024-09-24'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMOCNXM/fw_ruby_miui_RUBY_OS1.0.8.0.UMOCNXM_9a474d4542_14.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS1.0.8.0.UMOCNXM
 - android: '14.0'
   codename: ruby
   date: '2024-09-24'
