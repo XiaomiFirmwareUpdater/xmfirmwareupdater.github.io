@@ -1356,6 +1356,12 @@
   version: OS1.0.3.0.UNFEUXM
 - android: '14.0'
   codename: emerald
+  date: '2024-09-25'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.6.0.UNFMIXM_0f0c0947bc_14.0.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  version: OS1.0.6.0.UNFMIXM
+- android: '14.0'
+  codename: emerald
   date: '2024-08-22'
   download: https://bigota.d.miui.com/OS1.0.4.0.UNFEUXM/fw_emerald_miui_EMERALDEEAGlobal_OS1.0.4.0.UNFEUXM_dae8157bf9_14.0.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro
