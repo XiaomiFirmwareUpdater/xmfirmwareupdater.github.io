@@ -2562,6 +2562,12 @@
   version: OS1.0.9.0.UMAEUXM
 - android: '14.0'
   codename: lake
+  date: '2024-09-25'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UGTMIXM/fw_lake_miui_LAKEGlobal_OS1.0.5.0.UGTMIXM_99d12c8d45_14.0.zip
+  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  version: OS1.0.5.0.UGTMIXM
+- android: '14.0'
+  codename: lake
   date: '2024-09-04'
   download: https://bigota.d.miui.com/OS1.0.4.0.UGTMIXM/fw_lake_miui_LAKEGlobal_OS1.0.4.0.UGTMIXM_3001eee04b_14.0.zip
   name: Redmi 14C/POCO C75/Redmi A3 Pro
