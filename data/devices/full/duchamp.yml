@@ -39,6 +39,16 @@
     android: '14.0'
     miui: OS1.0.9.0.UNLMIXM
 - branch: stable
+  date: '2024-09-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-25.09.2024/fw_duchamp_miui_DUCHAMP_OS1.0.18.0.UNLCNXM_f3789ac8e1_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/duchamp/fw_duchamp_miui_DUCHAMP_OS1.0.18.0.UNLCNXM_f3789ac8e1_14.0.zip
+  filename: fw_duchamp_miui_DUCHAMP_OS1.0.18.0.UNLCNXM_f3789ac8e1_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.18.0.UNLCNXM
+- branch: stable
   date: '2024-09-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-20.09.2024/fw_duchamp_miui_DUCHAMPEEAGlobal_OS1.0.11.0.UNLEUXM_bea98a5b2e_14.0.zip
