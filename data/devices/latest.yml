@@ -369,15 +369,15 @@
     android: '14.0'
     miui: OS1.0.10.0.UNAINXM
 - branch: stable
-  date: '2024-08-22'
+  date: '2024-09-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_babylon/releases/download/stable-22.08.2024/fw_babylon_miui_BABYLON_OS1.0.12.0.UMVCNXM_5f616903cf_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/babylon/fw_babylon_miui_BABYLON_OS1.0.12.0.UMVCNXM_5f616903cf_14.0.zip
-  filename: fw_babylon_miui_BABYLON_OS1.0.12.0.UMVCNXM_5f616903cf_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_babylon/releases/download/stable-27.09.2024/fw_babylon_miui_BABYLON_OS1.0.14.0.UMVCNXM_fb983c93f0_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/babylon/fw_babylon_miui_BABYLON_OS1.0.14.0.UMVCNXM_fb983c93f0_14.0.zip
+  filename: fw_babylon_miui_BABYLON_OS1.0.14.0.UMVCNXM_fb983c93f0_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.12.0.UMVCNXM
+    miui: OS1.0.14.0.UMVCNXM
 - branch: stable
   date: '2022-06-19'
   downloads:
@@ -3329,15 +3329,15 @@
     android: '14.0'
     miui: OS1.0.8.0.UMPMIXM
 - branch: stable
-  date: '2024-08-28'
+  date: '2024-09-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-28.08.2024/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.6.0.UMPEUXM_6ff2ae4891_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moonstone/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.6.0.UMPEUXM_6ff2ae4891_14.0.zip
-  filename: fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.6.0.UMPEUXM_6ff2ae4891_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-27.09.2024/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.7.0.UMPEUXM_121921bc80_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moonstone/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.7.0.UMPEUXM_121921bc80_14.0.zip
+  filename: fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.7.0.UMPEUXM_121921bc80_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.UMPEUXM
+    miui: OS1.0.7.0.UMPEUXM
 - branch: stable
   date: '2024-08-28'
   downloads:
@@ -4209,15 +4209,15 @@
     android: '12.0'
     miui: 22.3.24
 - branch: stable
-  date: '2024-08-26'
+  date: '2024-09-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-26.08.2024/fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.5.0.TLDEUXM_175a81e6db_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/psyche/fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.5.0.TLDEUXM_175a81e6db_13.0.zip
-  filename: fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.5.0.TLDEUXM_175a81e6db_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-27.09.2024/fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.6.0.TLDEUXM_88f0fa9db8_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/psyche/fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.6.0.TLDEUXM_88f0fa9db8_13.0.zip
+  filename: fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.6.0.TLDEUXM_88f0fa9db8_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: OS1.0.5.0.TLDEUXM
+    miui: OS1.0.6.0.TLDEUXM
 - branch: stable
   date: '2021-07-23'
   downloads:

@@ -408,6 +408,12 @@
   version: OS1.0.15.0.UNACNXM
 - android: '14.0'
   codename: babylon
+  date: '2024-09-26'
+  download: https://bigota.d.miui.com/OS1.0.14.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.14.0.UMVCNXM_fb983c93f0_14.0.zip
+  name: MIX Fold 3
+  version: OS1.0.14.0.UMVCNXM
+- android: '14.0'
+  codename: babylon
   date: '2024-08-22'
   download: https://bigota.d.miui.com/OS1.0.12.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.12.0.UMVCNXM_5f616903cf_14.0.zip
   name: MIX Fold 3
@@ -3276,6 +3282,12 @@
   version: OS1.0.6.0.UMPINXM
 - android: '14.0'
   codename: moonstone
+  date: '2024-09-26'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMPEUXM/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.7.0.UMPEUXM_121921bc80_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.7.0.UMPEUXM
+- android: '14.0'
+  codename: moonstone
   date: '2024-06-24'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMPEUXM/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.4.0.UMPEUXM_7f8e55a5d9_14.0.zip
   name: POCO X5 5G
@@ -4126,6 +4138,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.ULQMIXM/fw_plato_miui_PLATOGlobal_OS1.0.8.0.ULQMIXM_66cc9d612c_14.0.zip
   name: Xiaomi 12T
   version: OS1.0.8.0.ULQMIXM
+- android: '13.0'
+  codename: psyche
+  date: '2024-09-27'
+  download: https://bigota.d.miui.com/OS1.0.6.0.TLDEUXM/fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.6.0.TLDEUXM_88f0fa9db8_13.0.zip
+  name: Xiaomi 12X
+  version: OS1.0.6.0.TLDEUXM
 - android: '13.0'
   codename: psyche
   date: '2024-08-26'
