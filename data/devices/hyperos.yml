@@ -1662,6 +1662,12 @@
   version: OS1.0.7.3.UMCCNXM
 - android: '14.0'
   codename: fuxi
+  date: '2024-09-27'
+  download: https://bigota.d.miui.com/OS1.0.14.0.UMCCNXM/fw_fuxi_miui_FUXI_OS1.0.14.0.UMCCNXM_2a238266f3_14.0.zip
+  name: Xiaomi 13
+  version: OS1.0.14.0.UMCCNXM
+- android: '14.0'
+  codename: fuxi
   date: '2023-12-24'
   download: https://bigota.d.miui.com/OS1.0.1.0.UMCEUXM/fw_fuxi_miui_FUXIEEAGlobal_OS1.0.1.0.UMCEUXM_0332150a82_14.0.zip
   name: Xiaomi 13
@@ -3528,6 +3534,12 @@
   version: OS1.0.6.0.UMBCNXM
 - android: '14.0'
   codename: nuwa
+  date: '2024-09-27'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UMBCNXM/fw_nuwa_miui_NUWA_OS1.0.12.0.UMBCNXM_230e1e553b_14.0.zip
+  name: Xiaomi 13 Pro
+  version: OS1.0.12.0.UMBCNXM
+- android: '14.0'
+  codename: nuwa
   date: '2024-05-27'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMBINXM/fw_nuwa_miui_NUWAINGlobal_OS1.0.4.0.UMBINXM_f305370c9b_14.0.zip
   name: Xiaomi 13 Pro
@@ -4498,6 +4510,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UFSCNXM/fw_ruan_miui_RUAN_OS1.0.5.0.UFSCNXM_2d02628c94_14.0.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS1.0.5.0.UFSCNXM
+- android: '14.0'
+  codename: ruan
+  date: '2024-09-27'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UFSCNXM/fw_ruan_miui_RUAN_OS1.0.6.0.UFSCNXM_880cc8d4ec_14.0.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS1.0.6.0.UFSCNXM
 - android: '14.0'
   codename: ruan
   date: '2024-08-23'
@@ -5512,6 +5530,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UMQCNXM/fw_sunstone_miui_SUNSTONE_OS1.0.1.0.UMQCNXM_ecc6daa1f6_14.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
   version: OS1.0.1.0.UMQCNXM
+- android: '14.0'
+  codename: sunstone
+  date: '2024-09-27'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.9.0.UMQEUXM_7cd40a58e0_14.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: OS1.0.9.0.UMQEUXM
 - android: '14.0'
   codename: sunstone
   date: '2024-08-26'
@@ -6546,6 +6570,12 @@
   version: OS1.0.2.0.ULYMIXM
 - android: '14.0'
   codename: zeus
+  date: '2024-09-27'
+  download: https://bigota.d.miui.com/OS1.0.13.0.ULBEUXM/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.13.0.ULBEUXM_773b7e5229_14.0.zip
+  name: Xiaomi 12 Pro
+  version: OS1.0.13.0.ULBEUXM
+- android: '14.0'
+  codename: zeus
   date: '2024-08-27'
   download: https://bigota.d.miui.com/OS1.0.11.0.ULBEUXM/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.11.0.ULBEUXM_f8aef42752_14.0.zip
   name: Xiaomi 12 Pro
@@ -6886,6 +6916,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.ULRCNXM/fw_zizhan_miui_ZIZHAN_OS1.0.7.0.ULRCNXM_7e7a34b825_14.0.zip
   name: Xiaomi MIX Fold 2
   version: OS1.0.7.0.ULRCNXM
+- android: '14.0'
+  codename: zizhan
+  date: '2024-09-27'
+  download: https://bigota.d.miui.com/OS1.0.11.0.ULRCNXM/fw_zizhan_miui_ZIZHAN_OS1.0.11.0.ULRCNXM_abfe137124_14.0.zip
+  name: Xiaomi MIX Fold 2
+  version: OS1.0.11.0.ULRCNXM
 - android: '14.0'
   codename: zizhan
   date: '2024-08-27'
