@@ -48,6 +48,12 @@
   version: OS1.0.2.0.UKWEUXM
 - android: '14.0'
   codename: air
+  date: '2024-09-29'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UGQEUXM/fw_air_miui_AIREEAGlobal_OS1.0.3.0.UGQEUXM_6c030a0628_14.0.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS1.0.3.0.UGQEUXM
+- android: '14.0'
+  codename: air
   date: '2024-07-29'
   download: https://bigota.d.miui.com/OS1.0.2.0.UGQINXM/fw_air_miui_AIRINGlobal_OS1.0.2.0.UGQINXM_e13cc5fbeb_14.0.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
@@ -142,6 +148,18 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.TKHEUXM/fw_alioth_miui_ALIOTHEEAGlobal_OS1.0.1.0.TKHEUXM_b0de6008b0_13.0.zip
   name: Redmi K40/POCO F3/Mi 11X
   version: OS1.0.1.0.TKHEUXM
+- android: '14.0'
+  codename: amethyst
+  date: '2024-09-29'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UOPCNXM/fw_amethyst_miui_AMETHYST_OS1.0.12.0.UOPCNXM_a8d48d7e5d_14.0.zip
+  name: Redmi Note 14 Pro+ 5G
+  version: OS1.0.12.0.UOPCNXM
+- android: '14.0'
+  codename: amethyst
+  date: '2024-09-27'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UOPCNXM/fw_amethyst_miui_AMETHYST_OS1.0.13.0.UOPCNXM_d7a19fc3d0_14.0.zip
+  name: Redmi Note 14 Pro+ 5G
+  version: OS1.0.13.0.UOPCNXM
 - android: '13.0'
   codename: ares
   date: '2024-03-12'
@@ -504,6 +522,12 @@
   version: OS1.0.4.0.UNJCNXM
 - android: '14.0'
   codename: chenfeng
+  date: '2024-09-27'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UNJINXM/fw_chenfeng_miui_CHENFENGINGlobal_OS1.0.6.0.UNJINXM_0bcd0c485d_14.0.zip
+  name: Xiaomi Civi 4 Pro
+  version: OS1.0.6.0.UNJINXM
+- android: '14.0'
+  codename: chenfeng
   date: '2024-09-18'
   download: https://bigota.d.miui.com/OS1.0.15.0.UNJCNXM/fw_chenfeng_miui_CHENFENG_OS1.0.15.0.UNJCNXM_3b15a48405_14.0.zip
   name: Xiaomi Civi 4 Pro
@@ -844,6 +868,30 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULGCNXM/fw_daumier_miui_DAUMIER_OS1.0.2.0.ULGCNXM_d84b64c895_14.0.zip
   name: Xiaomi 12 Pro Dimensity
   version: OS1.0.2.0.ULGCNXM
+- android: '14.0'
+  codename: degas
+  date: '2024-09-30'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UNEMIXM/fw_degas_miui_DEGASGlobal_OS1.0.2.0.UNEMIXM_15be7a6ba4_14.0.zip
+  name: Xiaomi 14T
+  version: OS1.0.2.0.UNEMIXM
+- android: '14.0'
+  codename: degas
+  date: '2024-09-27'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNEMIXM/fw_degas_miui_DEGASGlobal_OS1.0.4.0.UNEMIXM_ecc0b069d5_14.0.zip
+  name: Xiaomi 14T
+  version: OS1.0.4.0.UNEMIXM
+- android: '14.0'
+  codename: degas
+  date: '2024-09-27'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNEEUXM/fw_degas_miui_DEGASEEAGlobal_OS1.0.4.0.UNEEUXM_de3482d8d7_14.0.zip
+  name: Xiaomi 14T
+  version: OS1.0.4.0.UNEEUXM
+- android: '14.0'
+  codename: diting
+  date: '2024-09-27'
+  download: https://bigota.d.miui.com/OS1.0.10.0.ULFEUXM/fw_diting_miui_DITINGEEAGlobal_OS1.0.10.0.ULFEUXM_eb502ae0be_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.10.0.ULFEUXM
 - android: '14.0'
   codename: diting
   date: '2024-04-28'
@@ -1362,6 +1410,12 @@
   version: OS1.0.5.0.UNFMIXM
 - android: '14.0'
   codename: emerald
+  date: '2024-09-27'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UNFEUXM/fw_emerald_miui_EMERALDEEAGlobal_OS1.0.5.0.UNFEUXM_d438dc07c5_14.0.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  version: OS1.0.5.0.UNFEUXM
+- android: '14.0'
+  codename: emerald
   date: '2024-07-26'
   download: https://bigota.d.miui.com/OS1.0.3.0.UNFEUXM/fw_emerald_miui_EMERALDEEAGlobal_OS1.0.3.0.UNFEUXM_e4402fa6fe_14.0.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro
@@ -1654,6 +1708,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UMCCNXM/fw_fuxi_miui_FUXI_OS1.0.8.0.UMCCNXM_af6dc55799_14.0.zip
   name: Xiaomi 13
   version: OS1.0.8.0.UMCCNXM
+- android: '14.0'
+  codename: fuxi
+  date: '2024-09-28'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMCMIXM/fw_fuxi_miui_FUXIGlobal_OS1.0.8.0.UMCMIXM_a36e7559db_14.0.zip
+  name: Xiaomi 13
+  version: OS1.0.8.0.UMCMIXM
 - android: '14.0'
   codename: fuxi
   date: '2024-03-28'
@@ -4466,43 +4526,43 @@
   codename: rothko
   date: '2024-07-29'
   download: https://bigota.d.miui.com/OS1.0.17.0.UNNCNXM/fw_rothko_miui_ROTHKO_OS1.0.17.0.UNNCNXM_fe4c89e0aa_14.0.zip
-  name: Redmi K70 Ultra
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
   version: OS1.0.17.0.UNNCNXM
 - android: '14.0'
   codename: rothko
   date: '2024-07-21'
   download: https://bigota.d.miui.com/OS1.0.14.0.UNNCNXM/fw_rothko_miui_ROTHKO_OS1.0.14.0.UNNCNXM_611f2953c7_14.0.zip
-  name: Redmi K70 Ultra
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
   version: OS1.0.14.0.UNNCNXM
 - android: '14.0'
   codename: rothko
   date: '2024-07-19'
   download: https://bigota.d.miui.com/OS1.0.13.0.UNNCNXM/fw_rothko_miui_ROTHKO_OS1.0.13.0.UNNCNXM_5172cdd0cc_14.0.zip
-  name: Redmi K70 Ultra
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
   version: OS1.0.13.0.UNNCNXM
 - android: '14.0'
   codename: rothko
   date: '2024-09-18'
   download: https://bigota.d.miui.com/OS1.0.27.0.UNNCNXM/fw_rothko_miui_ROTHKO_OS1.0.27.0.UNNCNXM_4f58497328_14.0.zip
-  name: Redmi K70 Ultra
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
   version: OS1.0.27.0.UNNCNXM
 - android: '14.0'
   codename: rothko
   date: '2024-08-14'
   download: https://bigota.d.miui.com/OS1.0.22.0.UNNCNXM/fw_rothko_miui_ROTHKO_OS1.0.22.0.UNNCNXM_3ce3b8e10c_14.0.zip
-  name: Redmi K70 Ultra
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
   version: OS1.0.22.0.UNNCNXM
 - android: '14.0'
   codename: rothko
   date: '2024-08-07'
   download: https://bigota.d.miui.com/OS1.0.20.0.UNNCNXM/fw_rothko_miui_ROTHKO_OS1.0.20.0.UNNCNXM_dea22370a9_14.0.zip
-  name: Redmi K70 Ultra
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
   version: OS1.0.20.0.UNNCNXM
 - android: '14.0'
   codename: rothko
   date: '2024-08-02'
   download: https://bigota.d.miui.com/OS1.0.19.0.UNNCNXM/fw_rothko_miui_ROTHKO_OS1.0.19.0.UNNCNXM_68d5ad910e_14.0.zip
-  name: Redmi K70 Ultra
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
   version: OS1.0.19.0.UNNCNXM
 - android: '14.0'
   codename: ruan

@@ -1,7 +1,7 @@
 ---
-title: Redmi K70 Ultra (rothko) Firmware Downloads
+title: Redmi K70 Ultra/Xiaomi 14T Pro (rothko) Firmware Downloads
 layout: download
-name: Redmi K70 Ultra
+name: Redmi K70 Ultra/Xiaomi 14T Pro
 codename: rothko
 permalink: /firmware/rothko/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/rothko/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/rothko/">Redmi K70 Ultra</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/rothko/">Redmi K70 Ultra/Xiaomi 14T Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
