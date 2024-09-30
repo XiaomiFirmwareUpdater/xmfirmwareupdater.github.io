@@ -55,7 +55,7 @@ permalink: /hyperos/manet/
                 <tr><td>Redmi K70 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.20.0.UNMCNXM</td><td>14.0</td><td>8.3 GB</td><td>2024-08-01</td><td><a href="/hyperos/manet/stable/OS1.0.20.0.UNMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.20.0.UNMCNXM</td><td>14.0</td><td>6.5 GB</td><td>2024-08-14</td><td><a href="/hyperos/manet/stable/OS1.0.20.0.UNMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 Pro China</td><td>Stable Beta</td><td>Fastboot</td><td>OS1.0.4.0.UNMCNXM</td><td>14.0</td><td>8.0 GB</td><td>2023-11-29</td><td><a href="/hyperos/manet/stable beta/OS1.0.4.0.UNMCNXM/">Download</a></td></tr>
-<tr><td>Redmi K70 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.UNMCNXM</td><td>14.0</td><td>6.5 GB</td><td>2023-12-13</td><td><a href="/hyperos/manet/stable beta/OS1.0.7.0.UNMCNXM/">Download</a></td></tr>
+<tr><td>Redmi K70 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.21.0.UNMCNXM</td><td>14.0</td><td>6.5 GB</td><td>2024-09-24</td><td><a href="/hyperos/manet/stable beta/OS1.0.21.0.UNMCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

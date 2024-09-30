@@ -62,7 +62,7 @@ permalink: /hyperos/gale/stable beta/OS1.0.4.0.UGPIDXM/
                     <h5><b>Size: </b>4.3 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-07-08</h5>
+                    <h5><b>Release Date: </b>None</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_GALEIDGlobal_OS1.0.4.0.UGPIDXM_8767c9bdf7_14.0.zip</span></h5>

@@ -3,7 +3,7 @@ title: Redmi Note 11 Pro / Pro+ China HyperOS OS1.0.5.0.TKTCNXM Update
 layout: download
 name: Redmi Note 11 Pro / Pro+ China
 codename: pissarro
-permalink: /hyperos/pissarro/stable beta/OS1.0.5.0.TKTCNXM/
+permalink: /hyperos/pissarro/stable/OS1.0.5.0.TKTCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/pissarro/stable beta/OS1.0.5.0.TKTCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.5.0.TKTCNXM Stable Beta Official Update for Redmi Note 11 Pro / Pro+ China (pissarro)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.5.0.TKTCNXM Stable Official Update for Redmi Note 11 Pro / Pro+ China (pissarro)</h3>
     <h5>This page shows the OS1.0.5.0.TKTCNXM update only. If you're looking for other updates check
         <a href="/hyperos/pissarro/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/pissarro/stable beta/OS1.0.5.0.TKTCNXM/
                     <h5><b>Version: </b>OS1.0.5.0.TKTCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>

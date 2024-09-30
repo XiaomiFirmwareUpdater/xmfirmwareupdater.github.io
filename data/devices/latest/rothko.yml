@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2024-09-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-30.09.2024/fw_rothko_miui_ROTHKOGlobal_OS1.0.7.0.UNNMIXM_ac6412c5d7_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rothko/fw_rothko_miui_ROTHKOGlobal_OS1.0.7.0.UNNMIXM_ac6412c5d7_14.0.zip
+  filename: fw_rothko_miui_ROTHKOGlobal_OS1.0.7.0.UNNMIXM_ac6412c5d7_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.7.0.UNNMIXM
+- branch: stable
   date: '2024-09-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-19.09.2024/fw_rothko_miui_ROTHKO_OS1.0.27.0.UNNCNXM_4f58497328_14.0.zip
@@ -8,3 +18,13 @@
   versions:
     android: '14.0'
     miui: OS1.0.27.0.UNNCNXM
+- branch: stable
+  date: '2024-09-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-30.09.2024/fw_rothko_miui_ROTHKOEEAGlobal_OS1.0.11.0.UNNEUXM_b39f03a0e4_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rothko/fw_rothko_miui_ROTHKOEEAGlobal_OS1.0.11.0.UNNEUXM_b39f03a0e4_14.0.zip
+  filename: fw_rothko_miui_ROTHKOEEAGlobal_OS1.0.11.0.UNNEUXM_b39f03a0e4_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.11.0.UNNEUXM

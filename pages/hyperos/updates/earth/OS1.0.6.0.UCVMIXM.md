@@ -56,22 +56,22 @@ permalink: /hyperos/earth/stable/OS1.0.6.0.UCVMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.0 GB</h5>
+                    <h5><b>Size: </b>4.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-08-01</h5>
+                    <h5><b>Release Date: </b>2024-08-14</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">earth_global_images_OS1.0.6.0.UCVMIXM_20240801.0000.00_14.0_global_249ae482f2.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_EARTHGlobal_OS1.0.6.0.UCVMIXM_6472bc4245_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">249ae482f209da661cac0cf842a58638</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6472bc4245b072af69c784f36835d034</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UCVMIXM/earth_global_images_OS1.0.6.0.UCVMIXM_20240801.0000.00_14.0_global_249ae482f2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.6.0.UCVMIXM/earth_global_images_OS1.0.6.0.UCVMIXM_20240801.0000.00_14.0_global_249ae482f2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.6.0.UCVMIXM/earth_global_images_OS1.0.6.0.UCVMIXM_20240801.0000.00_14.0_global_249ae482f2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.UCVMIXM/earth_global_images_OS1.0.6.0.UCVMIXM_20240801.0000.00_14.0_global_249ae482f2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.6.0.UCVMIXM/earth_global_images_OS1.0.6.0.UCVMIXM_20240801.0000.00_14.0_global_249ae482f2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UCVMIXM/miui-blockota-earth_global-OS1.0.5.0.UCVMIXM-OS1.0.6.0.UCVMIXM-b52eb416e1-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UCVMIXM/miui_EARTHGlobal_OS1.0.6.0.UCVMIXM_6472bc4245_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.6.0.UCVMIXM/miui_EARTHGlobal_OS1.0.6.0.UCVMIXM_6472bc4245_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.6.0.UCVMIXM/miui_EARTHGlobal_OS1.0.6.0.UCVMIXM_6472bc4245_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.UCVMIXM/miui_EARTHGlobal_OS1.0.6.0.UCVMIXM_6472bc4245_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.6.0.UCVMIXM/miui_EARTHGlobal_OS1.0.6.0.UCVMIXM_6472bc4245_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#earth_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/earth/stable/OS1.0.6.0.UCVMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.2 GB</h5>
+                    <h5><b>Size: </b>7.0 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-08-14</h5>
+                    <h5><b>Release Date: </b>2024-08-01</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_EARTHGlobal_OS1.0.6.0.UCVMIXM_6472bc4245_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">earth_global_images_OS1.0.6.0.UCVMIXM_20240801.0000.00_14.0_global_249ae482f2.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">6472bc4245b072af69c784f36835d034</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">249ae482f209da661cac0cf842a58638</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UCVMIXM/miui-blockota-earth_global-OS1.0.5.0.UCVMIXM-OS1.0.6.0.UCVMIXM-b52eb416e1-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UCVMIXM/miui_EARTHGlobal_OS1.0.6.0.UCVMIXM_6472bc4245_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.6.0.UCVMIXM/miui_EARTHGlobal_OS1.0.6.0.UCVMIXM_6472bc4245_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.6.0.UCVMIXM/miui_EARTHGlobal_OS1.0.6.0.UCVMIXM_6472bc4245_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.UCVMIXM/miui_EARTHGlobal_OS1.0.6.0.UCVMIXM_6472bc4245_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.6.0.UCVMIXM/miui_EARTHGlobal_OS1.0.6.0.UCVMIXM_6472bc4245_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UCVMIXM/earth_global_images_OS1.0.6.0.UCVMIXM_20240801.0000.00_14.0_global_249ae482f2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.6.0.UCVMIXM/earth_global_images_OS1.0.6.0.UCVMIXM_20240801.0000.00_14.0_global_249ae482f2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.6.0.UCVMIXM/earth_global_images_OS1.0.6.0.UCVMIXM_20240801.0000.00_14.0_global_249ae482f2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.UCVMIXM/earth_global_images_OS1.0.6.0.UCVMIXM_20240801.0000.00_14.0_global_249ae482f2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.6.0.UCVMIXM/earth_global_images_OS1.0.6.0.UCVMIXM_20240801.0000.00_14.0_global_249ae482f2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#earth_2_changelog" data-toggle="collapse" role="button"

@@ -62,7 +62,7 @@ permalink: /hyperos/gale/stable beta/OS1.0.3.0.UGPTRXM/
                     <h5><b>Size: </b>4.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-07-11</h5>
+                    <h5><b>Release Date: </b>None</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_GALETRGlobal_OS1.0.3.0.UGPTRXM_f4b746fe3b_14.0.zip</span></h5>

@@ -3,7 +3,7 @@ title: Xiaomi 13 Pro India HyperOS OS1.0.9.0.UMBINXM Update
 layout: download
 name: Xiaomi 13 Pro India
 codename: nuwa
-permalink: /hyperos/nuwa/stable beta/OS1.0.9.0.UMBINXM/
+permalink: /hyperos/nuwa/stable/OS1.0.9.0.UMBINXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/nuwa/stable beta/OS1.0.9.0.UMBINXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.9.0.UMBINXM Stable Beta Official Update for Xiaomi 13 Pro India (nuwa)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.9.0.UMBINXM Stable Official Update for Xiaomi 13 Pro India (nuwa)</h3>
     <h5>This page shows the OS1.0.9.0.UMBINXM update only. If you're looking for other updates check
         <a href="/hyperos/nuwa/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/nuwa/stable beta/OS1.0.9.0.UMBINXM/
                     <h5><b>Version: </b>OS1.0.9.0.UMBINXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>

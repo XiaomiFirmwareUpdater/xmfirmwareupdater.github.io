@@ -56,22 +56,22 @@ permalink: /hyperos/venus/stable/OS1.0.6.0.UKBMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.0 GB</h5>
+                    <h5><b>Size: </b>6.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-08-29</h5>
+                    <h5><b>Release Date: </b>2024-08-16</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_VENUSGlobal_OS1.0.6.0.UKBMIXM_c35c76ce79_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">venus_global_images_OS1.0.6.0.UKBMIXM_20240816.0000.00_14.0_global_3597590d61.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c35c76ce796e41530f672625e7c7135a</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">3597590d61b86e84756f7c8ec0be6d55</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.UKBMIXM/miui-blockota-venus_global-OS1.0.5.0.UKBMIXM-OS1.0.6.0.UKBMIXM-5e6ae70fc8-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UKBMIXM/miui_VENUSGlobal_OS1.0.6.0.UKBMIXM_c35c76ce79_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.6.0.UKBMIXM/miui_VENUSGlobal_OS1.0.6.0.UKBMIXM_c35c76ce79_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.6.0.UKBMIXM/miui_VENUSGlobal_OS1.0.6.0.UKBMIXM_c35c76ce79_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.UKBMIXM/miui_VENUSGlobal_OS1.0.6.0.UKBMIXM_c35c76ce79_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.6.0.UKBMIXM/miui_VENUSGlobal_OS1.0.6.0.UKBMIXM_c35c76ce79_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UKBMIXM/venus_global_images_OS1.0.6.0.UKBMIXM_20240816.0000.00_14.0_global_3597590d61.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.6.0.UKBMIXM/venus_global_images_OS1.0.6.0.UKBMIXM_20240816.0000.00_14.0_global_3597590d61.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.6.0.UKBMIXM/venus_global_images_OS1.0.6.0.UKBMIXM_20240816.0000.00_14.0_global_3597590d61.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.UKBMIXM/venus_global_images_OS1.0.6.0.UKBMIXM_20240816.0000.00_14.0_global_3597590d61.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.6.0.UKBMIXM/venus_global_images_OS1.0.6.0.UKBMIXM_20240816.0000.00_14.0_global_3597590d61.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#venus_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/venus/stable/OS1.0.6.0.UKBMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.5 GB</h5>
+                    <h5><b>Size: </b>5.0 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-08-16</h5>
+                    <h5><b>Release Date: </b>2024-08-29</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">venus_global_images_OS1.0.6.0.UKBMIXM_20240816.0000.00_14.0_global_3597590d61.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_VENUSGlobal_OS1.0.6.0.UKBMIXM_c35c76ce79_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">3597590d61b86e84756f7c8ec0be6d55</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">c35c76ce796e41530f672625e7c7135a</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UKBMIXM/venus_global_images_OS1.0.6.0.UKBMIXM_20240816.0000.00_14.0_global_3597590d61.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.6.0.UKBMIXM/venus_global_images_OS1.0.6.0.UKBMIXM_20240816.0000.00_14.0_global_3597590d61.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.6.0.UKBMIXM/venus_global_images_OS1.0.6.0.UKBMIXM_20240816.0000.00_14.0_global_3597590d61.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.UKBMIXM/venus_global_images_OS1.0.6.0.UKBMIXM_20240816.0000.00_14.0_global_3597590d61.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.6.0.UKBMIXM/venus_global_images_OS1.0.6.0.UKBMIXM_20240816.0000.00_14.0_global_3597590d61.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.UKBMIXM/miui-blockota-venus_global-OS1.0.5.0.UKBMIXM-OS1.0.6.0.UKBMIXM-5e6ae70fc8-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UKBMIXM/miui_VENUSGlobal_OS1.0.6.0.UKBMIXM_c35c76ce79_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.6.0.UKBMIXM/miui_VENUSGlobal_OS1.0.6.0.UKBMIXM_c35c76ce79_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.6.0.UKBMIXM/miui_VENUSGlobal_OS1.0.6.0.UKBMIXM_c35c76ce79_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.UKBMIXM/miui_VENUSGlobal_OS1.0.6.0.UKBMIXM_c35c76ce79_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.6.0.UKBMIXM/miui_VENUSGlobal_OS1.0.6.0.UKBMIXM_c35c76ce79_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#venus_2_changelog" data-toggle="collapse" role="button"
