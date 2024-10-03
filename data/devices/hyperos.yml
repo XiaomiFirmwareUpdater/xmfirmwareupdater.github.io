@@ -2693,6 +2693,12 @@
   name: Redmi 14C/POCO C75/Redmi A3 Pro
   version: OS1.0.4.0.UGTMIXM
 - android: '14.0'
+  codename: lake
+  date: '2024-10-03'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UGTEUXM/fw_lake_miui_LAKEEEAGlobal_OS1.0.3.0.UGTEUXM_0a6000233f_14.0.zip
+  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  version: OS1.0.3.0.UGTEUXM
+- android: '14.0'
   codename: light
   date: '2024-03-28'
   download: https://bigota.d.miui.com/OS1.0.7.0.ULSCNXM/fw_light_miui_LIGHT_OS1.0.7.0.ULSCNXM_3517584d40_14.0.zip
@@ -5188,6 +5194,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UNXEUXM/fw_sheng_miui_SHENGEEAGlobal_OS1.0.6.0.UNXEUXM_cdde1f750c_14.0.zip
   name: Xiaomi Pad 6S Pro 12.4
   version: OS1.0.6.0.UNXEUXM
+- android: '14.0'
+  codename: sheng
+  date: '2024-10-03'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UNXMIXM/fw_sheng_miui_SHENGGlobal_OS1.0.5.0.UNXMIXM_445f9940fd_14.0.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS1.0.5.0.UNXMIXM
 - android: '14.0'
   codename: sheng
   date: '2024-04-03'
