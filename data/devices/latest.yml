@@ -3049,15 +3049,15 @@
     android: '8.1'
     miui: 20.1.2
 - branch: stable
-  date: '2024-09-30'
+  date: '2024-10-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-30.09.2024/fw_malachite_miui_MALACHITE_OS1.0.7.0.UOOCNXM_48864c4af6_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/malachite/fw_malachite_miui_MALACHITE_OS1.0.7.0.UOOCNXM_48864c4af6_14.0.zip
-  filename: fw_malachite_miui_MALACHITE_OS1.0.7.0.UOOCNXM_48864c4af6_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-03.10.2024/fw_malachite_miui_MALACHITE_OS1.0.8.0.UOOCNXM_b70842734a_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/malachite/fw_malachite_miui_MALACHITE_OS1.0.8.0.UOOCNXM_b70842734a_14.0.zip
+  filename: fw_malachite_miui_MALACHITE_OS1.0.8.0.UOOCNXM_b70842734a_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.7.0.UOOCNXM
+    miui: OS1.0.8.0.UOOCNXM
 - branch: stable
   date: '2024-09-30'
   downloads:
@@ -5029,15 +5029,15 @@
     android: '14.0'
     miui: OS1.0.11.0.UNXCNXM
 - branch: stable
-  date: '2024-08-31'
+  date: '2024-10-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sheng/releases/download/stable-31.08.2024/fw_sheng_miui_SHENGEEAGlobal_OS1.0.5.0.UNXEUXM_c51a2ae5e9_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sheng/fw_sheng_miui_SHENGEEAGlobal_OS1.0.5.0.UNXEUXM_c51a2ae5e9_14.0.zip
-  filename: fw_sheng_miui_SHENGEEAGlobal_OS1.0.5.0.UNXEUXM_c51a2ae5e9_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sheng/releases/download/stable-03.10.2024/fw_sheng_miui_SHENGEEAGlobal_OS1.0.6.0.UNXEUXM_cdde1f750c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sheng/fw_sheng_miui_SHENGEEAGlobal_OS1.0.6.0.UNXEUXM_cdde1f750c_14.0.zip
+  filename: fw_sheng_miui_SHENGEEAGlobal_OS1.0.6.0.UNXEUXM_cdde1f750c_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UNXEUXM
+    miui: OS1.0.6.0.UNXEUXM
 - branch: stable
   date: '2024-08-23'
   downloads:
