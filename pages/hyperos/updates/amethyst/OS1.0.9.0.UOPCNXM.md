@@ -68,7 +68,7 @@ permalink: /hyperos/amethyst/stable/OS1.0.9.0.UOPCNXM/
                     <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_AMETHYST_OS1.0.9.0.UOPCNXM_71d44d71b6_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">Unknown</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">71d44d71b608ed4b5246f70d1a514454</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.9.0.UOPCNXM/miui_AMETHYST_OS1.0.9.0.UOPCNXM_71d44d71b6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.9.0.UOPCNXM/miui_AMETHYST_OS1.0.9.0.UOPCNXM_71d44d71b6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.9.0.UOPCNXM/miui_AMETHYST_OS1.0.9.0.UOPCNXM_71d44d71b6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.9.0.UOPCNXM/miui_AMETHYST_OS1.0.9.0.UOPCNXM_71d44d71b6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.9.0.UOPCNXM/miui_AMETHYST_OS1.0.9.0.UOPCNXM_71d44d71b6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
@@ -78,7 +78,7 @@ permalink: /hyperos/amethyst/stable/OS1.0.9.0.UOPCNXM/
                             aria-expanded="false" aria-controls="amethyst_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="amethyst_1_changelog">
-                        <p id="changelog_text">Bug fixes and system optimizations.</p>
+                        <p id="changelog_text">[Other]<br>Optimized system performance<br>Improved system security and stability</p>
                     </div>
                 </li>
             </ul>
