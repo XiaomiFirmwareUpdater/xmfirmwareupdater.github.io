@@ -239,16 +239,6 @@
     android: '12.0'
     miui: V13.0.9.0.SKLEUXM
 - branch: stable
-  date: '2024-06-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-19.06.2024/fw_rosemary_miui_ROSEMARYINGlobal_V14.0.10.0.TKLINXM_1b96c7cc03_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/rosemary/fw_rosemary_miui_ROSEMARYINGlobal_V14.0.10.0.TKLINXM_1b96c7cc03_13.0.zip
-  filename: fw_rosemary_miui_ROSEMARYINGlobal_V14.0.10.0.TKLINXM_1b96c7cc03_13.0.zip
-  region: India
-  versions:
-    android: '13.0'
-    miui: V14.0.10.0.TKLINXM
-- branch: stable
   date: '2022-02-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-18.02.2022/fw_rosemary_miui_ROSEMARYINGlobal_V12.5.12.0.RKLINXM_57a06d19aa_11.0.zip

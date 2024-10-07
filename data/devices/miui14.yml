@@ -1308,12 +1308,6 @@
   version: V14.0.4.0.TGEINXM
 - android: '13.0'
   codename: fog
-  date: '2024-06-11'
-  download: https://bigota.d.miui.com/V14.0.7.0.TGEMIXM/fw_fog_miui_FOGGlobal_V14.0.7.0.TGEMIXM_456a385a29_13.0.zip
-  name: Redmi 10C
-  version: V14.0.7.0.TGEMIXM
-- android: '13.0'
-  codename: fog
   date: '2024-09-09'
   download: https://bigota.d.miui.com/V14.0.7.0.TGEINXM/fw_fog_miui_FOGINGlobal_V14.0.7.0.TGEINXM_c668fab80f_13.0.zip
   name: Redmi 10C
@@ -3738,12 +3732,6 @@
   version: V14.0.9.0.TKLINXM
 - android: '13.0'
   codename: rosemary
-  date: '2024-06-18'
-  download: https://bigota.d.miui.com/V14.0.10.0.TKLINXM/fw_rosemary_miui_ROSEMARYINGlobal_V14.0.10.0.TKLINXM_1b96c7cc03_13.0.zip
-  name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
-  version: V14.0.10.0.TKLINXM
-- android: '13.0'
-  codename: rosemary
   date: '2023-03-17'
   download: https://bigota.d.miui.com/V14.0.2.0.TKLMIXM/fw_rosemary_miui_ROSEMARYGlobal_V14.0.2.0.TKLMIXM_85c6d48a94_13.0.zip
   name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
@@ -5514,12 +5502,6 @@
   version: V14.0.13.0.TGOEUXM
 - android: '13.0'
   codename: water
-  date: '2024-06-13'
-  download: https://bigota.d.miui.com/V14.0.15.0.TGOINXM/fw_water_miui_WATERINGlobal_V14.0.15.0.TGOINXM_3edb97a91d_13.0.zip
-  name: Redmi A2/A2+/POCO C51
-  version: V14.0.15.0.TGOINXM
-- android: '13.0'
-  codename: water
   date: '2024-09-11'
   download: https://bigota.d.miui.com/V14.0.16.0.TGOINXM/fw_water_miui_WATERINGlobal_V14.0.16.0.TGOINXM_7cef8988e6_13.0.zip
   name: Redmi A2/A2+/POCO C51
@@ -5548,12 +5530,6 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TGOINXM/fw_water_miui_WATERINGlobal_V14.0.5.0.TGOINXM_7546d95734_13.0.zip
   name: Redmi A2/A2+/POCO C51
   version: V14.0.5.0.TGOINXM
-- android: '13.0'
-  codename: water
-  date: '2024-06-06'
-  download: https://bigota.d.miui.com/V14.0.15.0.TGOEUXM/fw_water_miui_WATEREEAGlobal_V14.0.15.0.TGOEUXM_e428ae00e4_13.0.zip
-  name: Redmi A2/A2+/POCO C51
-  version: V14.0.15.0.TGOEUXM
 - android: '13.0'
   codename: water
   date: '2023-05-05'
