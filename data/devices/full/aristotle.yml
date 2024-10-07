@@ -109,6 +109,16 @@
     android: '13.0'
     miui: V14.0.13.0.TMFEUXM
 - branch: stable
+  date: '2024-10-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aristotle/releases/download/stable-07.10.2024/fw_aristotle_miui_ARISTOTLEEEAGlobal_OS1.0.15.0.UMFEUXM_233e68e5e0_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aristotle/fw_aristotle_miui_ARISTOTLEEEAGlobal_OS1.0.15.0.UMFEUXM_233e68e5e0_14.0.zip
+  filename: fw_aristotle_miui_ARISTOTLEEEAGlobal_OS1.0.15.0.UMFEUXM_233e68e5e0_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.15.0.UMFEUXM
+- branch: stable
   date: '2024-05-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aristotle/releases/download/stable-06.05.2024/fw_aristotle_miui_ARISTOTLEEEAGlobal_OS1.0.6.0.UMFEUXM_3cfffbb320_14.0.zip

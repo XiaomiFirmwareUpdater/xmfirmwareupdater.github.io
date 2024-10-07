@@ -62,7 +62,7 @@ permalink: /hyperos/psyche/stable beta/OS1.0.6.0.TLDEUXM/
                     <h5><b>Size: </b>3.9 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>None</h5>
+                    <h5><b>Release Date: </b>2024-09-23</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_PSYCHEEEAGlobal_OS1.0.6.0.TLDEUXM_88f0fa9db8_13.0.zip</span></h5>
