@@ -279,6 +279,16 @@
     android: '14.0'
     miui: OS1.0.4.0.UNOEUXM
 - branch: stable
+  date: '2024-10-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-08.10.2024/fw_zircon_miui_ZIRCON_OS1.0.7.0.UNOCNXM_38f0b8b8a6_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zircon/fw_zircon_miui_ZIRCON_OS1.0.7.0.UNOCNXM_38f0b8b8a6_14.0.zip
+  filename: fw_zircon_miui_ZIRCON_OS1.0.7.0.UNOCNXM_38f0b8b8a6_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.7.0.UNOCNXM
+- branch: stable
   date: '2023-11-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-06.11.2023/fw_zircon_miui_ZIRCON_V14.0.7.0.TNOCNXM_1062227fa3_13.0.zip

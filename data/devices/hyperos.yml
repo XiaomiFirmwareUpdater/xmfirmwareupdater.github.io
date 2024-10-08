@@ -3438,6 +3438,12 @@
   version: OS1.0.1.0.UNTEUXM
 - android: '14.0'
   codename: moon
+  date: '2024-10-08'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UNTEUXM/fw_moon_miui_MOONEEAGlobal_OS1.0.6.0.UNTEUXM_60ac0e6eb5_14.0.zip
+  name: Redmi 13/POCO M6
+  version: OS1.0.6.0.UNTEUXM
+- android: '14.0'
+  codename: moon
   date: '2024-06-05'
   download: https://bigota.d.miui.com/OS1.0.4.0.UNTMIXM/fw_moon_miui_MOONGlobal_OS1.0.4.0.UNTMIXM_9fcb952d2b_14.0.zip
   name: Redmi 13/POCO M6
@@ -4182,6 +4188,12 @@
   version: OS1.0.11.0.UMZMIXM
 - android: '14.0'
   codename: pipa
+  date: '2024-10-08'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.11.0.UMZCNXM_6b841f0114_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.11.0.UMZCNXM
+- android: '14.0'
+  codename: pipa
   date: '2024-09-08'
   download: https://bigota.d.miui.com/OS1.0.10.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.10.0.UMZCNXM_248f4b583b_14.0.zip
   name: Xiaomi Pad 6
@@ -4618,6 +4630,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UMMCNXM/fw_rembrandt_miui_REMBRANDT_OS1.0.8.0.UMMCNXM_53d170c2d4_14.0.zip
   name: Redmi K60E
   version: OS1.0.8.0.UMMCNXM
+- android: '14.0'
+  codename: rembrandt
+  date: '2024-10-08'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMMCNXM/fw_rembrandt_miui_REMBRANDT_OS1.0.9.0.UMMCNXM_cabc27c4ab_14.0.zip
+  name: Redmi K60E
+  version: OS1.0.9.0.UMMCNXM
 - android: '14.0'
   codename: rembrandt
   date: '2024-08-05'
@@ -7174,6 +7192,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNOEUXM/fw_zircon_miui_ZIRCONEEAGlobal_OS1.0.4.0.UNOEUXM_484ef00f3b_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.4.0.UNOEUXM
+- android: '14.0'
+  codename: zircon
+  date: '2024-10-08'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UNOCNXM/fw_zircon_miui_ZIRCON_OS1.0.7.0.UNOCNXM_38f0b8b8a6_14.0.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS1.0.7.0.UNOCNXM
 - android: '14.0'
   codename: zircon
   date: '2024-08-05'
