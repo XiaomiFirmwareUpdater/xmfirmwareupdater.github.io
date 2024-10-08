@@ -62,7 +62,7 @@ permalink: /hyperos/emerald/stable beta/OS1.0.5.0.UNFEUXM/
                     <h5><b>Size: </b>4.7 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>None</h5>
+                    <h5><b>Release Date: </b>2024-09-24</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_EMERALDEEAGlobal_OS1.0.5.0.UNFEUXM_d438dc07c5_14.0.zip</span></h5>

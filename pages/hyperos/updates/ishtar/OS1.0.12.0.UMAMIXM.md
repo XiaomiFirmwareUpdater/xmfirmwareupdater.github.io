@@ -3,7 +3,7 @@ title: Xiaomi 13 Ultra Global HyperOS OS1.0.12.0.UMAMIXM Update
 layout: download
 name: Xiaomi 13 Ultra Global
 codename: ishtar
-permalink: /hyperos/ishtar/stable beta/OS1.0.12.0.UMAMIXM/
+permalink: /hyperos/ishtar/stable/OS1.0.12.0.UMAMIXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/ishtar/stable beta/OS1.0.12.0.UMAMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.12.0.UMAMIXM Stable Beta Official Update for Xiaomi 13 Ultra Global (ishtar)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.12.0.UMAMIXM Stable Official Update for Xiaomi 13 Ultra Global (ishtar)</h3>
     <h5>This page shows the OS1.0.12.0.UMAMIXM update only. If you're looking for other updates check
         <a href="/hyperos/ishtar/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/ishtar/stable beta/OS1.0.12.0.UMAMIXM/
                     <h5><b>Version: </b>OS1.0.12.0.UMAMIXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>7.9 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-09-13</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">ishtar_global_images_OS1.0.12.0.UMAMIXM_20240913.0000.00_14.0_global_3af3334dab.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">3af3334dabcc344ef35d1a5a811da4f4</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.12.0.UMAMIXM/ishtar_global_images_OS1.0.12.0.UMAMIXM_20240913.0000.00_14.0_global_3af3334dab.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.12.0.UMAMIXM/ishtar_global_images_OS1.0.12.0.UMAMIXM_20240913.0000.00_14.0_global_3af3334dab.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.12.0.UMAMIXM/ishtar_global_images_OS1.0.12.0.UMAMIXM_20240913.0000.00_14.0_global_3af3334dab.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.12.0.UMAMIXM/ishtar_global_images_OS1.0.12.0.UMAMIXM_20240913.0000.00_14.0_global_3af3334dab.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.12.0.UMAMIXM/ishtar_global_images_OS1.0.12.0.UMAMIXM_20240913.0000.00_14.0_global_3af3334dab.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#ishtar_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="ishtar_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="ishtar_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to September 2024. Increased system security.<br>[Floating windows]<br>Fix: Video apps weren't displayed correctly when switching screen orientation<br>Fix: The size of pinned floating windows for some games was incorrect</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi 13 Ultra Global</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/ishtar/" target="_blank">ishtar</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.12.0.UMAMIXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -74,10 +117,10 @@ permalink: /hyperos/ishtar/stable beta/OS1.0.12.0.UMAMIXM/
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.12.0.UMAMIXM/miui-blockota-ishtar_global-OS1.0.8.0.UMAMIXM-OS1.0.12.0.UMAMIXM-0af9b68af0-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.12.0.UMAMIXM/miui_ISHTARGlobal_OS1.0.12.0.UMAMIXM_e3c2a16cbf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.12.0.UMAMIXM/miui_ISHTARGlobal_OS1.0.12.0.UMAMIXM_e3c2a16cbf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.12.0.UMAMIXM/miui_ISHTARGlobal_OS1.0.12.0.UMAMIXM_e3c2a16cbf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.12.0.UMAMIXM/miui_ISHTARGlobal_OS1.0.12.0.UMAMIXM_e3c2a16cbf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.12.0.UMAMIXM/miui_ISHTARGlobal_OS1.0.12.0.UMAMIXM_e3c2a16cbf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#ishtar_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="ishtar_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#ishtar_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="ishtar_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="ishtar_1_changelog">
+                    <div class="collapse" id="ishtar_2_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to September 2024. Increased system security.<br>[Floating windows]<br>Fix: Video apps weren't displayed correctly when switching screen orientation<br>Fix: The size of pinned floating windows for some games was incorrect</p>
                     </div>
                 </li>

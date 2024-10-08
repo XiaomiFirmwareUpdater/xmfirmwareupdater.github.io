@@ -469,6 +469,16 @@
     android: '13.0'
     miui: V14.0.5.0.TLSMIXM
 - branch: stable
+  date: '2024-10-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-08.10.2024/fw_light_miui_LIGHT_OS1.0.9.0.ULSCNXM_b41692586c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/light/fw_light_miui_LIGHT_OS1.0.9.0.ULSCNXM_b41692586c_14.0.zip
+  filename: fw_light_miui_LIGHT_OS1.0.9.0.ULSCNXM_b41692586c_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.9.0.ULSCNXM
+- branch: stable
   date: '2022-10-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-08.10.2022/fw_light_miui_LIGHTGlobal_V13.0.7.0.SLSMIXM_e409654007_12.0.zip

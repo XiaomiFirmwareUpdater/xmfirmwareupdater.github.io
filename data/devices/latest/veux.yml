@@ -1,40 +1,40 @@
 - branch: stable
-  date: '2024-09-07'
+  date: '2024-10-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-07.09.2024/fw_veux_miui_VEUXGlobal_OS1.0.6.0.TKCMIXM_6e3ed5706f_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/veux/fw_veux_miui_VEUXGlobal_OS1.0.6.0.TKCMIXM_6e3ed5706f_13.0.zip
-  filename: fw_veux_miui_VEUXGlobal_OS1.0.6.0.TKCMIXM_6e3ed5706f_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-08.10.2024/fw_veux_miui_VEUXGlobal_OS1.0.8.0.TKCMIXM_defd90bd01_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/veux/fw_veux_miui_VEUXGlobal_OS1.0.8.0.TKCMIXM_defd90bd01_13.0.zip
+  filename: fw_veux_miui_VEUXGlobal_OS1.0.8.0.TKCMIXM_defd90bd01_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: OS1.0.6.0.TKCMIXM
+    miui: OS1.0.8.0.TKCMIXM
 - branch: stable
-  date: '2024-08-29'
+  date: '2024-10-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-29.08.2024/fw_veux_miui_VEUX_OS1.0.4.0.TKCCNXM_09e1752d4b_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/veux/fw_veux_miui_VEUX_OS1.0.4.0.TKCCNXM_09e1752d4b_13.0.zip
-  filename: fw_veux_miui_VEUX_OS1.0.4.0.TKCCNXM_09e1752d4b_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-08.10.2024/fw_veux_miui_VEUX_OS1.0.6.0.TKCCNXM_88d498f7d0_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/veux/fw_veux_miui_VEUX_OS1.0.6.0.TKCCNXM_88d498f7d0_13.0.zip
+  filename: fw_veux_miui_VEUX_OS1.0.6.0.TKCCNXM_88d498f7d0_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: OS1.0.4.0.TKCCNXM
+    miui: OS1.0.6.0.TKCCNXM
 - branch: stable
-  date: '2024-08-23'
+  date: '2024-10-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-23.08.2024/fw_veux_miui_VEUXEEAGlobal_OS1.0.4.0.TKCEUXM_9aef24c7f3_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/veux/fw_veux_miui_VEUXEEAGlobal_OS1.0.4.0.TKCEUXM_9aef24c7f3_13.0.zip
-  filename: fw_veux_miui_VEUXEEAGlobal_OS1.0.4.0.TKCEUXM_9aef24c7f3_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-08.10.2024/fw_veux_miui_VEUXEEAGlobal_OS1.0.8.0.TKCEUXM_915985320a_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/veux/fw_veux_miui_VEUXEEAGlobal_OS1.0.8.0.TKCEUXM_915985320a_13.0.zip
+  filename: fw_veux_miui_VEUXEEAGlobal_OS1.0.8.0.TKCEUXM_915985320a_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: OS1.0.4.0.TKCEUXM
+    miui: OS1.0.8.0.TKCEUXM
 - branch: stable
-  date: '2024-09-01'
+  date: '2024-10-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-02.09.2024/fw_veux_miui_VEUXINGlobal_OS1.0.3.0.TKCINXM_f7e37f3e17_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/veux/fw_veux_miui_VEUXINGlobal_OS1.0.3.0.TKCINXM_f7e37f3e17_13.0.zip
-  filename: fw_veux_miui_VEUXINGlobal_OS1.0.3.0.TKCINXM_f7e37f3e17_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-08.10.2024/fw_veux_miui_VEUXINGlobal_OS1.0.5.0.TKCINXM_600689dc37_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/veux/fw_veux_miui_VEUXINGlobal_OS1.0.5.0.TKCINXM_600689dc37_13.0.zip
+  filename: fw_veux_miui_VEUXINGlobal_OS1.0.5.0.TKCINXM_600689dc37_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: OS1.0.3.0.TKCINXM
+    miui: OS1.0.5.0.TKCINXM

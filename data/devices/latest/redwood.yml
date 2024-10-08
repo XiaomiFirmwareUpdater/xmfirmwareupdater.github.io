@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-08-20'
+  date: '2024-10-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-20.08.2024/fw_redwood_miui_REDWOODGlobal_OS1.0.6.0.UMSMIXM_b55ac2827b_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/redwood/fw_redwood_miui_REDWOODGlobal_OS1.0.6.0.UMSMIXM_b55ac2827b_14.0.zip
-  filename: fw_redwood_miui_REDWOODGlobal_OS1.0.6.0.UMSMIXM_b55ac2827b_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-08.10.2024/fw_redwood_miui_REDWOODGlobal_OS1.0.7.0.UMSMIXM_307e12b10f_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/redwood/fw_redwood_miui_REDWOODGlobal_OS1.0.7.0.UMSMIXM_307e12b10f_14.0.zip
+  filename: fw_redwood_miui_REDWOODGlobal_OS1.0.7.0.UMSMIXM_307e12b10f_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.UMSMIXM
+    miui: OS1.0.7.0.UMSMIXM
 - branch: stable
   date: '2024-09-18'
   downloads:
@@ -29,12 +29,12 @@
     android: '14.0'
     miui: OS1.0.7.0.UMSEUXM
 - branch: stable
-  date: '2024-08-20'
+  date: '2024-10-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-20.08.2024/fw_redwood_miui_REDWOODINGlobal_OS1.0.6.0.UMSINXM_ebf855edd3_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/redwood/fw_redwood_miui_REDWOODINGlobal_OS1.0.6.0.UMSINXM_ebf855edd3_14.0.zip
-  filename: fw_redwood_miui_REDWOODINGlobal_OS1.0.6.0.UMSINXM_ebf855edd3_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-08.10.2024/fw_redwood_miui_REDWOODINGlobal_OS1.0.7.0.UMSINXM_d1850adb4f_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/redwood/fw_redwood_miui_REDWOODINGlobal_OS1.0.7.0.UMSINXM_d1850adb4f_14.0.zip
+  filename: fw_redwood_miui_REDWOODINGlobal_OS1.0.7.0.UMSINXM_d1850adb4f_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.UMSINXM
+    miui: OS1.0.7.0.UMSINXM

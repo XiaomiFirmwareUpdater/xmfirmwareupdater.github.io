@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-09-09'
+  date: '2024-10-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-09.09.2024/fw_nabu_miui_NABUGlobal_OS1.0.5.0.TKXMIXM_6b336bee50_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nabu/fw_nabu_miui_NABUGlobal_OS1.0.5.0.TKXMIXM_6b336bee50_13.0.zip
-  filename: fw_nabu_miui_NABUGlobal_OS1.0.5.0.TKXMIXM_6b336bee50_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-08.10.2024/fw_nabu_miui_NABUGlobal_OS1.0.6.0.TKXMIXM_4af37553d5_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nabu/fw_nabu_miui_NABUGlobal_OS1.0.6.0.TKXMIXM_4af37553d5_13.0.zip
+  filename: fw_nabu_miui_NABUGlobal_OS1.0.6.0.TKXMIXM_4af37553d5_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: OS1.0.5.0.TKXMIXM
+    miui: OS1.0.6.0.TKXMIXM
 - branch: stable
   date: '2024-06-03'
   downloads:
@@ -29,22 +29,22 @@
     android: '11.0'
     miui: 22.3.23
 - branch: stable
-  date: '2024-09-09'
+  date: '2024-10-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-09.09.2024/fw_nabu_miui_NABUEEAGlobal_OS1.0.5.0.TKXEUXM_82e3ee44ba_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nabu/fw_nabu_miui_NABUEEAGlobal_OS1.0.5.0.TKXEUXM_82e3ee44ba_13.0.zip
-  filename: fw_nabu_miui_NABUEEAGlobal_OS1.0.5.0.TKXEUXM_82e3ee44ba_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-08.10.2024/fw_nabu_miui_NABUEEAGlobal_OS1.0.6.0.TKXEUXM_d2d151c706_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nabu/fw_nabu_miui_NABUEEAGlobal_OS1.0.6.0.TKXEUXM_d2d151c706_13.0.zip
+  filename: fw_nabu_miui_NABUEEAGlobal_OS1.0.6.0.TKXEUXM_d2d151c706_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: OS1.0.5.0.TKXEUXM
+    miui: OS1.0.6.0.TKXEUXM
 - branch: stable
-  date: '2024-09-09'
+  date: '2024-10-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-09.09.2024/fw_nabu_miui_NABUINGlobal_OS1.0.8.0.TKXINXM_5d9ccf2277_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nabu/fw_nabu_miui_NABUINGlobal_OS1.0.8.0.TKXINXM_5d9ccf2277_13.0.zip
-  filename: fw_nabu_miui_NABUINGlobal_OS1.0.8.0.TKXINXM_5d9ccf2277_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-08.10.2024/fw_nabu_miui_NABUINGlobal_OS1.0.9.0.TKXINXM_63e9c57127_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nabu/fw_nabu_miui_NABUINGlobal_OS1.0.9.0.TKXINXM_63e9c57127_13.0.zip
+  filename: fw_nabu_miui_NABUINGlobal_OS1.0.9.0.TKXINXM_63e9c57127_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: OS1.0.8.0.TKXINXM
+    miui: OS1.0.9.0.TKXINXM

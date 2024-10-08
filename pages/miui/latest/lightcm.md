@@ -53,7 +53,6 @@ permalink: /miui/lightcm/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Note 11R China</td><td>Stable Beta</td><td>Fastboot</td><td>V14.0.2.0.TLSCNXM</td><td>13.0</td><td>5.6 GB</td><td>2023-02-09</td><td><a href="/miui/lightcm/stable beta/V14.0.2.0.TLSCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11R China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.8.0.TLSCNXM</td><td>13.0</td><td>4.2 GB</td><td>2023-10-23</td><td><a href="/miui/lightcm/stable beta/V14.0.8.0.TLSCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

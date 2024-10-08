@@ -62,7 +62,7 @@ permalink: /hyperos/veux/stable beta/OS1.0.8.0.TKCMIXM/
                     <h5><b>Size: </b>4.0 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>None</h5>
+                    <h5><b>Release Date: </b>2024-09-25</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_VEUXGlobal_OS1.0.8.0.TKCMIXM_defd90bd01_13.0.zip</span></h5>

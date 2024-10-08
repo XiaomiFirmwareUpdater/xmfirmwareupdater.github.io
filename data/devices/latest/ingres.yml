@@ -1,23 +1,23 @@
 - branch: stable
-  date: '2024-09-07'
+  date: '2024-10-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-07.09.2024/fw_ingres_miui_INGRESGlobal_OS1.0.5.0.ULJMIXM_e3a6fb777d_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ingres/fw_ingres_miui_INGRESGlobal_OS1.0.5.0.ULJMIXM_e3a6fb777d_14.0.zip
-  filename: fw_ingres_miui_INGRESGlobal_OS1.0.5.0.ULJMIXM_e3a6fb777d_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-08.10.2024/fw_ingres_miui_INGRESGlobal_OS1.0.6.0.ULJMIXM_7f33e8a6db_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ingres/fw_ingres_miui_INGRESGlobal_OS1.0.6.0.ULJMIXM_7f33e8a6db_14.0.zip
+  filename: fw_ingres_miui_INGRESGlobal_OS1.0.6.0.ULJMIXM_7f33e8a6db_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.ULJMIXM
+    miui: OS1.0.6.0.ULJMIXM
 - branch: stable
-  date: '2024-09-10'
+  date: '2024-10-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-10.09.2024/fw_ingres_miui_INGRES_OS1.0.5.0.ULJCNXM_b4b49b0aa7_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ingres/fw_ingres_miui_INGRES_OS1.0.5.0.ULJCNXM_b4b49b0aa7_14.0.zip
-  filename: fw_ingres_miui_INGRES_OS1.0.5.0.ULJCNXM_b4b49b0aa7_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-08.10.2024/fw_ingres_miui_INGRES_OS1.0.6.0.ULJCNXM_d83831cf61_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ingres/fw_ingres_miui_INGRES_OS1.0.6.0.ULJCNXM_d83831cf61_14.0.zip
+  filename: fw_ingres_miui_INGRES_OS1.0.6.0.ULJCNXM_d83831cf61_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.ULJCNXM
+    miui: OS1.0.6.0.ULJCNXM
 - branch: stable
   date: '2024-09-10'
   downloads:
