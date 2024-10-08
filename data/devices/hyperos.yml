@@ -2172,6 +2172,12 @@
   version: OS1.0.10.0.UNQEUXM
 - android: '14.0'
   codename: gold
+  date: '2024-10-08'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UNQCNXM/fw_gold_miui_GOLD_OS1.0.5.0.UNQCNXM_d5eb9352cb_14.0.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS1.0.5.0.UNQCNXM
+- android: '14.0'
+  codename: gold
   date: '2024-09-09'
   download: https://bigota.d.miui.com/OS1.0.4.0.UNQCNXM/fw_gold_miui_GOLD_OS1.0.4.0.UNQCNXM_9d3fc3f1f5_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
@@ -3166,6 +3172,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UMRINXM/fw_marble_miui_MARBLEINGlobal_OS1.0.8.0.UMRINXM_3cfd47fff9_14.0.zip
   name: Redmi Note 12 Turbo/POCO F5
   version: OS1.0.8.0.UMRINXM
+- android: '14.0'
+  codename: marble
+  date: '2024-10-08'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UMRINXM/fw_marble_miui_MARBLEINGlobal_OS1.0.12.0.UMRINXM_c49221852e_14.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS1.0.12.0.UMRINXM
 - android: '14.0'
   codename: marble
   date: '2024-08-09'
