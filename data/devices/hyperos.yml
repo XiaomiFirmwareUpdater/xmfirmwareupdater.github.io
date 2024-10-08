@@ -491,6 +491,12 @@
   name: MIX Fold 3
   version: OS1.0.3.0.UMVCNXM
 - android: '14.0'
+  codename: beryl
+  date: '2024-10-08'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UOQCNXM/fw_beryl_miui_BERYL_OS1.0.2.0.UOQCNXM_593961cbe2_14.0.zip
+  name: Redmi Note 14 5G
+  version: OS1.0.2.0.UOQCNXM
+- android: '14.0'
   codename: breeze
   date: '2024-05-31'
   download: https://bigota.d.miui.com/OS1.0.3.0.UNUCNXM/fw_breeze_miui_BREEZE_OS1.0.3.0.UNUCNXM_8202f48cd2_14.0.zip
@@ -2728,6 +2734,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UGTMIXM/fw_lake_miui_LAKEGlobal_OS1.0.5.0.UGTMIXM_99d12c8d45_14.0.zip
   name: Redmi 14C/POCO C75/Redmi A3 Pro
   version: OS1.0.5.0.UGTMIXM
+- android: '14.0'
+  codename: lake
+  date: '2024-10-08'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UGTEUXM/fw_lake_miui_LAKEEEAGlobal_OS1.0.4.0.UGTEUXM_3000f18ca6_14.0.zip
+  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  version: OS1.0.4.0.UGTEUXM
 - android: '14.0'
   codename: lake
   date: '2024-09-04'
