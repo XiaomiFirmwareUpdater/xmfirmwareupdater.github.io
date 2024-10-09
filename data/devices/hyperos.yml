@@ -3552,6 +3552,18 @@
   version: OS1.0.1.0.UMPEUXM
 - android: '14.0'
   codename: moonstone
+  date: '2024-10-09'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMPMIXM/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.9.0.UMPMIXM_3bd8567737_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.9.0.UMPMIXM
+- android: '14.0'
+  codename: moonstone
+  date: '2024-10-09'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMPINXM/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.7.0.UMPINXM_06876b2d49_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.7.0.UMPINXM
+- android: '14.0'
+  codename: moonstone
   date: '2024-08-05'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMPEUXM/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.5.0.UMPEUXM_4a8edb111b_14.0.zip
   name: POCO X5 5G
@@ -5092,6 +5104,18 @@
   download: https://bigota.d.miui.com/OS1.0.13.0.UNICNXM/fw_ruyi_miui_RUYI_OS1.0.13.0.UNICNXM_c9f859d4a2_14.0.zip
   name: MIX Flip
   version: OS1.0.13.0.UNICNXM
+- android: '14.0'
+  codename: ruyi
+  date: '2024-10-09'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UNIEUXM/fw_ruyi_miui_RUYIEEAGlobal_OS1.0.8.0.UNIEUXM_35b495e4f0_14.0.zip
+  name: MIX Flip
+  version: OS1.0.8.0.UNIEUXM
+- android: '14.0'
+  codename: ruyi
+  date: '2024-10-09'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UNIMIXM/fw_ruyi_miui_RUYIGlobal_OS1.0.9.0.UNIMIXM_9388d18249_14.0.zip
+  name: MIX Flip
+  version: OS1.0.9.0.UNIMIXM
 - android: '14.0'
   codename: sapphire
   date: '2024-03-29'
