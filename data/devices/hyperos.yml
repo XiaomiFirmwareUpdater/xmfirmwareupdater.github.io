@@ -2172,6 +2172,12 @@
   version: OS1.0.8.0.UNQEUXM
 - android: '14.0'
   codename: gold
+  date: '2024-10-10'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UNQINXM/fw_gold_miui_GOLDINGlobal_OS1.0.11.0.UNQINXM_737bea58cf_14.0.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS1.0.11.0.UNQINXM
+- android: '14.0'
+  codename: gold
   date: '2024-06-10'
   download: https://bigota.d.miui.com/OS1.0.10.0.UNQEUXM/fw_gold_miui_GOLDEEAGlobal_OS1.0.10.0.UNQEUXM_6e36484320_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
@@ -4614,6 +4620,12 @@
   version: OS1.0.8.0.UMSCNXM
 - android: '14.0'
   codename: redwood
+  date: '2024-10-10'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMSEUXM/fw_redwood_miui_REDWOODEEAGlobal_OS1.0.8.0.UMSEUXM_1d310839a0_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.8.0.UMSEUXM
+- android: '14.0'
+  codename: redwood
   date: '2024-10-08'
   download: https://bigota.d.miui.com/OS1.0.7.0.UMSMIXM/fw_redwood_miui_REDWOODGlobal_OS1.0.7.0.UMSMIXM_307e12b10f_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
@@ -4912,6 +4924,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.ULNCNXM/fw_rubens_miui_RUBENS_OS1.0.10.0.ULNCNXM_b22feefbed_14.0.zip
   name: Redmi K50
   version: OS1.0.10.0.ULNCNXM
+- android: '14.0'
+  codename: rubens
+  date: '2024-10-10'
+  download: https://bigota.d.miui.com/OS1.0.11.0.ULNCNXM/fw_rubens_miui_RUBENS_OS1.0.11.0.ULNCNXM_7f6ee6418f_14.0.zip
+  name: Redmi K50
+  version: OS1.0.11.0.ULNCNXM
 - android: '14.0'
   codename: rubens
   date: '2024-02-04'
@@ -6766,6 +6784,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULOMIXM/fw_xaga_miui_XAGAGlobal_OS1.0.3.0.ULOMIXM_2039059443_14.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: OS1.0.3.0.ULOMIXM
+- android: '14.0'
+  codename: xaga
+  date: '2024-10-10'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULOCNXM/fw_xaga_miui_XAGA_OS1.0.5.0.ULOCNXM_7c181e4a9c_14.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS1.0.5.0.ULOCNXM
 - android: '14.0'
   codename: xaga
   date: '2024-10-08'
