@@ -3,7 +3,7 @@ title: Redmi 14C / POCO C75 / Redmi A3 Pro Global HyperOS OS1.0.6.0.UGTMIXM Upda
 layout: download
 name: Redmi 14C / POCO C75 / Redmi A3 Pro Global
 codename: lake
-permalink: /hyperos/lake/stable beta/OS1.0.6.0.UGTMIXM/
+permalink: /hyperos/lake/stable/OS1.0.6.0.UGTMIXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/lake/stable beta/OS1.0.6.0.UGTMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.6.0.UGTMIXM Stable Beta Official Update for Redmi 14C / POCO C75 / Redmi A3 Pro Global (lake)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.6.0.UGTMIXM Stable Official Update for Redmi 14C / POCO C75 / Redmi A3 Pro Global (lake)</h3>
     <h5>This page shows the OS1.0.6.0.UGTMIXM update only. If you're looking for other updates check
         <a href="/hyperos/lake/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/lake/stable beta/OS1.0.6.0.UGTMIXM/
                     <h5><b>Version: </b>OS1.0.6.0.UGTMIXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>7.2 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-09-18</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">lake_global_images_OS1.0.6.0.UGTMIXM_20240918.0000.00_14.0_global_3f2c1ccccf.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">3f2c1ccccf889008fec405f38c3bb668</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UGTMIXM/lake_global_images_OS1.0.6.0.UGTMIXM_20240918.0000.00_14.0_global_3f2c1ccccf.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.6.0.UGTMIXM/lake_global_images_OS1.0.6.0.UGTMIXM_20240918.0000.00_14.0_global_3f2c1ccccf.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.6.0.UGTMIXM/lake_global_images_OS1.0.6.0.UGTMIXM_20240918.0000.00_14.0_global_3f2c1ccccf.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.UGTMIXM/lake_global_images_OS1.0.6.0.UGTMIXM_20240918.0000.00_14.0_global_3f2c1ccccf.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.6.0.UGTMIXM/lake_global_images_OS1.0.6.0.UGTMIXM_20240918.0000.00_14.0_global_3f2c1ccccf.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#lake_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="lake_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="lake_1_changelog">
+                        <p id="changelog_text">[Control center]<br>Fix: "Edit" option disappeared after using the cloud sync switch</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi 14C / POCO C75 / Redmi A3 Pro Global</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/lake/" target="_blank">lake</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.6.0.UGTMIXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -74,10 +117,10 @@ permalink: /hyperos/lake/stable beta/OS1.0.6.0.UGTMIXM/
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.UGTMIXM/miui-blockota-lake_global-OS1.0.5.0.UGTMIXM-OS1.0.6.0.UGTMIXM-6989ff00a7-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UGTMIXM/miui_LAKEGlobal_OS1.0.6.0.UGTMIXM_f4d94f023d_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.6.0.UGTMIXM/miui_LAKEGlobal_OS1.0.6.0.UGTMIXM_f4d94f023d_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.6.0.UGTMIXM/miui_LAKEGlobal_OS1.0.6.0.UGTMIXM_f4d94f023d_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.UGTMIXM/miui_LAKEGlobal_OS1.0.6.0.UGTMIXM_f4d94f023d_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.6.0.UGTMIXM/miui_LAKEGlobal_OS1.0.6.0.UGTMIXM_f4d94f023d_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#lake_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="lake_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#lake_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="lake_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="lake_1_changelog">
+                    <div class="collapse" id="lake_2_changelog">
                         <p id="changelog_text">[Control center]<br>Fix: "Edit" option disappeared after using the cloud sync switch</p>
                     </div>
                 </li>
