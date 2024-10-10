@@ -3,7 +3,7 @@ title: Xiaomi 14T Pro Taiwan HyperOS OS1.0.2.0.UNNTWXM Update
 layout: download
 name: Xiaomi 14T Pro Taiwan
 codename: rothko
-permalink: /hyperos/rothko/stable beta/OS1.0.2.0.UNNTWXM/
+permalink: /hyperos/rothko/stable/OS1.0.2.0.UNNTWXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/rothko/stable beta/OS1.0.2.0.UNNTWXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.2.0.UNNTWXM Stable Beta Official Update for Xiaomi 14T Pro Taiwan (rothko)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.2.0.UNNTWXM Stable Official Update for Xiaomi 14T Pro Taiwan (rothko)</h3>
     <h5>This page shows the OS1.0.2.0.UNNTWXM update only. If you're looking for other updates check
         <a href="/hyperos/rothko/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/rothko/stable beta/OS1.0.2.0.UNNTWXM/
                     <h5><b>Version: </b>OS1.0.2.0.UNNTWXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>7.0 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-09-21</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">rothko_tw_global_images_OS1.0.2.0.UNNTWXM_20240921.0000.00_14.0_tw_222b13cb05.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">222b13cb050bf390f3d1222819da3542</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.2.0.UNNTWXM/rothko_tw_global_images_OS1.0.2.0.UNNTWXM_20240921.0000.00_14.0_tw_222b13cb05.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.2.0.UNNTWXM/rothko_tw_global_images_OS1.0.2.0.UNNTWXM_20240921.0000.00_14.0_tw_222b13cb05.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.2.0.UNNTWXM/rothko_tw_global_images_OS1.0.2.0.UNNTWXM_20240921.0000.00_14.0_tw_222b13cb05.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.UNNTWXM/rothko_tw_global_images_OS1.0.2.0.UNNTWXM_20240921.0000.00_14.0_tw_222b13cb05.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.2.0.UNNTWXM/rothko_tw_global_images_OS1.0.2.0.UNNTWXM_20240921.0000.00_14.0_tw_222b13cb05.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#rothko_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="rothko_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="rothko_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to September 2024. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi 14T Pro Taiwan</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/rothko/" target="_blank">rothko</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.2.0.UNNTWXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -74,10 +117,10 @@ permalink: /hyperos/rothko/stable beta/OS1.0.2.0.UNNTWXM/
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.2.0.UNNTWXM/miui-blockota-rothko_tw_global-OS1.0.1.0.UNNTWXM-OS1.0.2.0.UNNTWXM-be5f71fb00-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.2.0.UNNTWXM/miui_ROTHKOTWGlobal_OS1.0.2.0.UNNTWXM_8931d74fde_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.2.0.UNNTWXM/miui_ROTHKOTWGlobal_OS1.0.2.0.UNNTWXM_8931d74fde_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.2.0.UNNTWXM/miui_ROTHKOTWGlobal_OS1.0.2.0.UNNTWXM_8931d74fde_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.2.0.UNNTWXM/miui_ROTHKOTWGlobal_OS1.0.2.0.UNNTWXM_8931d74fde_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.2.0.UNNTWXM/miui_ROTHKOTWGlobal_OS1.0.2.0.UNNTWXM_8931d74fde_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#rothko_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="rothko_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#rothko_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="rothko_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="rothko_1_changelog">
+                    <div class="collapse" id="rothko_2_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to September 2024. Increased system security.</p>
                     </div>
                 </li>
