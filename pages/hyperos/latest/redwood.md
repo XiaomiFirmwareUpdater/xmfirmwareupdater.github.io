@@ -73,9 +73,8 @@ permalink: /hyperos/redwood/
 <tr><td>POCO X5 Pro 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UMSTRXM</td><td>14.0</td><td>6.8 GB</td><td>2024-09-09</td><td><a href="/hyperos/redwood/stable/OS1.0.6.0.UMSTRXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UMSTRXM</td><td>14.0</td><td>4.9 GB</td><td>2024-09-23</td><td><a href="/hyperos/redwood/stable/OS1.0.6.0.UMSTRXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UMSTRXM</td><td>14.0</td><td>4.9 GB</td><td>2024-02-18</td><td><a href="/hyperos/redwood/stable beta/OS1.0.1.0.UMSTRXM/">Download</a></td></tr>
-<tr><td>POCO X5 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UMSTWXM</td><td>14.0</td><td>6.7 GB</td><td>2024-08-12</td><td><a href="/hyperos/redwood/stable/OS1.0.5.0.UMSTWXM/">Download</a></td></tr>
-<tr><td>POCO X5 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UMSTWXM</td><td>14.0</td><td>4.9 GB</td><td>2024-08-27</td><td><a href="/hyperos/redwood/stable/OS1.0.5.0.UMSTWXM/">Download</a></td></tr>
-<tr><td>POCO X5 Pro 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.UMSTWXM</td><td>14.0</td><td>4.9 GB</td><td>2024-09-23</td><td><a href="/hyperos/redwood/stable beta/OS1.0.6.0.UMSTWXM/">Download</a></td></tr>
+<tr><td>POCO X5 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UMSTWXM</td><td>14.0</td><td>6.7 GB</td><td>2024-09-09</td><td><a href="/hyperos/redwood/stable/OS1.0.6.0.UMSTWXM/">Download</a></td></tr>
+<tr><td>POCO X5 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UMSTWXM</td><td>14.0</td><td>4.9 GB</td><td>2024-09-23</td><td><a href="/hyperos/redwood/stable/OS1.0.6.0.UMSTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
