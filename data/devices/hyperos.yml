@@ -90,6 +90,12 @@
   version: OS1.0.3.0.UGQMIXM
 - android: '14.0'
   codename: air
+  date: '2024-10-11'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UGQINXM/fw_air_miui_AIRINGlobal_OS1.0.3.0.UGQINXM_e5cfc24908_14.0.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS1.0.3.0.UGQINXM
+- android: '14.0'
+  codename: air
   date: '2024-09-09'
   download: https://bigota.d.miui.com/OS1.0.2.0.UGQCNXM/fw_air_miui_AIR_OS1.0.2.0.UGQCNXM_8dd01b5895_14.0.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
@@ -6155,6 +6161,12 @@
   name: Redmi Note 12 4G
   version: OS1.0.2.0.UMTMIXM
 - android: '14.0'
+  codename: tapas
+  date: '2024-10-11'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UMTMIXM/fw_tapas_miui_TAPASGlobal_OS1.0.10.0.UMTMIXM_292c984764_14.0.zip
+  name: Redmi Note 12 4G
+  version: OS1.0.10.0.UMTMIXM
+- android: '14.0'
   codename: thor
   date: '2024-01-29'
   download: https://bigota.d.miui.com/OS1.0.4.0.ULACNXM/fw_thor_miui_THOR_OS1.0.4.0.ULACNXM_12b58f6ae6_14.0.zip
@@ -6250,6 +6262,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMGMIXM/fw_topaz_miui_TOPAZGlobal_OS1.0.2.0.UMGMIXM_0d2645dd48_14.0.zip
   name: Redmi Note 12 4G NFC
   version: OS1.0.2.0.UMGMIXM
+- android: '14.0'
+  codename: topaz
+  date: '2024-10-11'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UMGMIXM/fw_topaz_miui_TOPAZGlobal_OS1.0.7.0.UMGMIXM_6eeba547a0_14.0.zip
+  name: Redmi Note 12 4G NFC
+  version: OS1.0.7.0.UMGMIXM
 - android: '14.0'
   codename: topaz
   date: '2024-06-11'

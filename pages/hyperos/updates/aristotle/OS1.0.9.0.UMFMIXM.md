@@ -3,7 +3,7 @@ title: Xiaomi 13T Global HyperOS OS1.0.9.0.UMFMIXM Update
 layout: download
 name: Xiaomi 13T Global
 codename: aristotle
-permalink: /hyperos/aristotle/stable beta/OS1.0.9.0.UMFMIXM/
+permalink: /hyperos/aristotle/stable/OS1.0.9.0.UMFMIXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/aristotle/stable beta/OS1.0.9.0.UMFMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.9.0.UMFMIXM Stable Beta Official Update for Xiaomi 13T Global (aristotle)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.9.0.UMFMIXM Stable Official Update for Xiaomi 13T Global (aristotle)</h3>
     <h5>This page shows the OS1.0.9.0.UMFMIXM update only. If you're looking for other updates check
         <a href="/hyperos/aristotle/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/aristotle/stable beta/OS1.0.9.0.UMFMIXM/
                     <h5><b>Version: </b>OS1.0.9.0.UMFMIXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/aristotle/stable beta/OS1.0.9.0.UMFMIXM/
                             aria-expanded="false" aria-controls="aristotle_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="aristotle_1_changelog">
+                        <p id="changelog_text">[System]<br>Optimization: Improved app preloading to enhance app startup speed<br>Optimization: New startup animation strategy makes apps launch faster<br>Updated the security patch to September 2024. Increased system security.<br>[Floating windows]<br>Fix: Video apps weren't displayed correctly when switching screen orientation<br>Fix: The size of pinned floating windows for some games was incorrect<br>[Home screen]<br>Optimization: New Home screen shortcut startup animation strategy makes apps launch faster<br>Fix: Empty spots appeared in Second space Home screen layout in some cases<br>[Control center]<br>Fix: Some toggles occasionally failed to work<br>[Always-on display]<br>Fix: Crashes occurred in some cases<br>[Cross-device intelligent connectivity]<br>Optimization: Discovering devices in Xiaomi Smart Hub is faster now<br>[Lock screen]<br>New: A switch for a feature that allows long pressing Home screen to edit it<br>[Clock]<br>Fix: When setting alarm repetition, the checkbox was displayed abnormally when switching to Dark mode<br>[Status bar, Notification shade]<br>Fix: Single-line notification icons were not fully displayed<br>Fix: Blank notifications appeared with only the icon displayed<br>Fix: The 5G icon in the status bar wasn't fully displayed after switching font size or changing to a third party font<br>Fix: Text and notifications were displayed incorrectly for some languages under specific conditions</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi 13T Global</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/aristotle/" target="_blank">aristotle</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.9.0.UMFMIXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>8.0 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-09-09</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">aristotle_global_images_OS1.0.9.0.UMFMIXM_20240909.0000.00_14.0_global_8fd2d41202.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">8fd2d4120220efeab0770bd3d798b535</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.9.0.UMFMIXM/aristotle_global_images_OS1.0.9.0.UMFMIXM_20240909.0000.00_14.0_global_8fd2d41202.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.9.0.UMFMIXM/aristotle_global_images_OS1.0.9.0.UMFMIXM_20240909.0000.00_14.0_global_8fd2d41202.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.9.0.UMFMIXM/aristotle_global_images_OS1.0.9.0.UMFMIXM_20240909.0000.00_14.0_global_8fd2d41202.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.9.0.UMFMIXM/aristotle_global_images_OS1.0.9.0.UMFMIXM_20240909.0000.00_14.0_global_8fd2d41202.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.9.0.UMFMIXM/aristotle_global_images_OS1.0.9.0.UMFMIXM_20240909.0000.00_14.0_global_8fd2d41202.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#aristotle_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="aristotle_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="aristotle_2_changelog">
                         <p id="changelog_text">[System]<br>Optimization: Improved app preloading to enhance app startup speed<br>Optimization: New startup animation strategy makes apps launch faster<br>Updated the security patch to September 2024. Increased system security.<br>[Floating windows]<br>Fix: Video apps weren't displayed correctly when switching screen orientation<br>Fix: The size of pinned floating windows for some games was incorrect<br>[Home screen]<br>Optimization: New Home screen shortcut startup animation strategy makes apps launch faster<br>Fix: Empty spots appeared in Second space Home screen layout in some cases<br>[Control center]<br>Fix: Some toggles occasionally failed to work<br>[Always-on display]<br>Fix: Crashes occurred in some cases<br>[Cross-device intelligent connectivity]<br>Optimization: Discovering devices in Xiaomi Smart Hub is faster now<br>[Lock screen]<br>New: A switch for a feature that allows long pressing Home screen to edit it<br>[Clock]<br>Fix: When setting alarm repetition, the checkbox was displayed abnormally when switching to Dark mode<br>[Status bar, Notification shade]<br>Fix: Single-line notification icons were not fully displayed<br>Fix: Blank notifications appeared with only the icon displayed<br>Fix: The 5G icon in the status bar wasn't fully displayed after switching font size or changing to a third party font<br>Fix: Text and notifications were displayed incorrectly for some languages under specific conditions</p>
                     </div>
                 </li>
