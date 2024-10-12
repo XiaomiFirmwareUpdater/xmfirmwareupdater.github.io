@@ -816,6 +816,12 @@
   version: OS1.0.7.0.ULCCNXM
 - android: '14.0'
   codename: cupid
+  date: '2024-10-12'
+  download: https://bigota.d.miui.com/OS1.0.13.0.ULCEUXM/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.13.0.ULCEUXM_2d7bb3954c_14.0.zip
+  name: Xiaomi 12
+  version: OS1.0.13.0.ULCEUXM
+- android: '14.0'
+  codename: cupid
   date: '2024-08-12'
   download: https://bigota.d.miui.com/OS1.0.11.0.ULCEUXM/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.11.0.ULCEUXM_f7ebb14448_14.0.zip
   name: Xiaomi 12
@@ -6510,6 +6516,18 @@
   version: OS1.0.17.0.UNKCNXM
 - android: '14.0'
   codename: vermeer
+  date: '2024-10-12'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UNKEUXM/fw_vermeer_miui_VERMEEREEAGlobal_OS1.0.7.0.UNKEUXM_9423925fbf_14.0.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS1.0.7.0.UNKEUXM
+- android: '14.0'
+  codename: vermeer
+  date: '2024-10-12'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UNKMIXM/fw_vermeer_miui_VERMEERGlobal_OS1.0.7.0.UNKMIXM_56bfa1d47a_14.0.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS1.0.7.0.UNKMIXM
+- android: '14.0'
+  codename: vermeer
   date: '2024-01-12'
   download: https://bigota.d.miui.com/OS1.0.11.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.11.0.UNKCNXM_2316bc4e67_14.0.zip
   name: Redmi K70/POCO F6 Pro
@@ -7240,6 +7258,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULPCNXM/fw_zijin_miui_ZIJIN_OS1.0.2.0.ULPCNXM_92b79e0991_14.0.zip
   name: Xiaomi Civi 1S
   version: OS1.0.2.0.ULPCNXM
+- android: '14.0'
+  codename: zijin
+  date: '2024-10-12'
+  download: https://bigota.d.miui.com/OS1.0.6.0.ULPCNXM/fw_zijin_miui_ZIJIN_OS1.0.6.0.ULPCNXM_66a9185636_14.0.zip
+  name: Xiaomi Civi 1S
+  version: OS1.0.6.0.ULPCNXM
 - android: '14.0'
   codename: zijin
   date: '2024-03-04'
