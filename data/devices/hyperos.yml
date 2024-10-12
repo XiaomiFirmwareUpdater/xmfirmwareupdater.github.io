@@ -2040,6 +2040,12 @@
   version: OS1.0.8.0.UNRINXM
 - android: '14.0'
   codename: garnet
+  date: '2024-10-12'
+  download: https://bigota.d.miui.com/OS1.0.20.0.UNREUXM/fw_garnet_miui_GARNETEEAGlobal_OS1.0.20.0.UNREUXM_6a77c48d0f_14.0.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS1.0.20.0.UNREUXM
+- android: '14.0'
+  codename: garnet
   date: '2024-03-12'
   download: https://bigota.d.miui.com/OS1.0.4.0.UNRMIXM/fw_garnet_miui_GARNETGlobal_OS1.0.4.0.UNRMIXM_8ea6bb5539_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
@@ -2598,6 +2604,12 @@
   version: OS1.0.4.0.ULJCNXM
 - android: '14.0'
   codename: ingres
+  date: '2024-10-12'
+  download: https://bigota.d.miui.com/OS1.0.6.0.ULJEUXM/fw_ingres_miui_INGRESEEAGlobal_OS1.0.6.0.ULJEUXM_5b5cd3ceaa_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.6.0.ULJEUXM
+- android: '14.0'
+  codename: ingres
   date: '2024-08-12'
   download: https://bigota.d.miui.com/OS1.0.4.0.ULJEUXM/fw_ingres_miui_INGRESEEAGlobal_OS1.0.4.0.ULJEUXM_0dacc430d2_14.0.zip
   name: Redmi K50G/POCO F4 GT
@@ -2746,6 +2758,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UMACNXM/fw_ishtar_miui_ISHTAR_OS1.0.9.0.UMACNXM_a6fadf1e8b_14.0.zip
   name: Xiaomi 13 Ultra
   version: OS1.0.9.0.UMACNXM
+- android: '14.0'
+  codename: ishtar
+  date: '2024-10-12'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UMAEUXM/fw_ishtar_miui_ISHTAREEAGlobal_OS1.0.12.0.UMAEUXM_2deecf46fd_14.0.zip
+  name: Xiaomi 13 Ultra
+  version: OS1.0.12.0.UMAEUXM
 - android: '14.0'
   codename: ishtar
   date: '2024-01-12'
@@ -5566,6 +5584,12 @@
   download: https://bigota.d.miui.com/OS1.0.21.0.UNBCNXM/fw_shennong_miui_SHENNONG_OS1.0.21.0.UNBCNXM_c72d682b7d_14.0.zip
   name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
   version: OS1.0.21.0.UNBCNXM
+- android: '14.0'
+  codename: shennong
+  date: '2024-10-12'
+  download: https://bigota.d.miui.com/OS1.0.50.0.UNBCNXM/fw_shennong_miui_SHENNONG_OS1.0.50.0.UNBCNXM_388409ff36_14.0.zip
+  name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
+  version: OS1.0.50.0.UNBCNXM
 - android: '14.0'
   codename: shennong
   date: '2024-01-12'
