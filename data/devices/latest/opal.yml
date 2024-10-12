@@ -9,12 +9,12 @@
     android: '13.0'
     miui: OS1.0.1.0.TGLMIXM
 - branch: stable
-  date: '2024-08-25'
+  date: '2024-10-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_opal/releases/download/stable-26.08.2024/fw_opal_miui_OPALEEAGlobal_OS1.0.3.0.TGLEUXM_1f4479a81d_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/opal/fw_opal_miui_OPALEEAGlobal_OS1.0.3.0.TGLEUXM_1f4479a81d_13.0.zip
-  filename: fw_opal_miui_OPALEEAGlobal_OS1.0.3.0.TGLEUXM_1f4479a81d_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_opal/releases/download/stable-12.10.2024/fw_opal_miui_OPALEEAGlobal_OS1.0.4.0.TGLEUXM_31868364f9_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/opal/fw_opal_miui_OPALEEAGlobal_OS1.0.4.0.TGLEUXM_31868364f9_13.0.zip
+  filename: fw_opal_miui_OPALEEAGlobal_OS1.0.4.0.TGLEUXM_31868364f9_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: OS1.0.3.0.TGLEUXM
+    miui: OS1.0.4.0.TGLEUXM

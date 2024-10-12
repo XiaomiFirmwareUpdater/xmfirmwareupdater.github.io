@@ -6,6 +6,18 @@
   version: OS1.0.3.0.UKWMIXM
 - android: '14.0'
   codename: agate
+  date: '2024-10-12'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UKWEUXM/fw_agate_miui_AGATEEEAGlobal_OS1.0.6.0.UKWEUXM_73ceba98fd_14.0.zip
+  name: Xiaomi 11T
+  version: OS1.0.6.0.UKWEUXM
+- android: '14.0'
+  codename: agate
+  date: '2024-10-12'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UKWMIXM/fw_agate_miui_AGATEGlobal_OS1.0.7.0.UKWMIXM_42856ae7f9_14.0.zip
+  name: Xiaomi 11T
+  version: OS1.0.7.0.UKWMIXM
+- android: '14.0'
+  codename: agate
   date: '2024-01-12'
   download: https://bigota.d.miui.com/OS1.0.2.0.UKWMIXM/fw_agate_miui_AGATEGlobal_OS1.0.2.0.UKWMIXM_83e4108ef0_14.0.zip
   name: Xiaomi 11T
@@ -376,6 +388,18 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UNACNXM/fw_aurora_miui_AURORA_OS1.0.12.0.UNACNXM_c98a167708_14.0.zip
   name: Xiaomi 14 Ultra
   version: OS1.0.12.0.UNACNXM
+- android: '14.0'
+  codename: aurora
+  date: '2024-10-12'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UNAMIXM/fw_aurora_miui_AURORAGlobal_OS1.0.12.0.UNAMIXM_f46ab02599_14.0.zip
+  name: Xiaomi 14 Ultra
+  version: OS1.0.12.0.UNAMIXM
+- android: '14.0'
+  codename: aurora
+  date: '2024-10-12'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UNAINXM/fw_aurora_miui_AURORAINGlobal_OS1.0.11.0.UNAINXM_d1f4b1eaf8_14.0.zip
+  name: Xiaomi 14 Ultra
+  version: OS1.0.11.0.UNAINXM
 - android: '14.0'
   codename: aurora
   date: '2024-08-12'
@@ -3978,6 +4002,12 @@
   version: OS1.0.3.0.TGLEUXM
 - android: '13.0'
   codename: opal
+  date: '2024-10-12'
+  download: https://bigota.d.miui.com/OS1.0.4.0.TGLEUXM/fw_opal_miui_OPALEEAGlobal_OS1.0.4.0.TGLEUXM_31868364f9_13.0.zip
+  name: Redmi Note 11S 5G
+  version: OS1.0.4.0.TGLEUXM
+- android: '13.0'
+  codename: opal
   date: '2024-04-06'
   download: https://bigota.d.miui.com/OS1.0.1.0.TGLEUXM/fw_opal_miui_OPALEEAGlobal_OS1.0.1.0.TGLEUXM_04fd0aecba_13.0.zip
   name: Redmi Note 11S 5G
@@ -4324,6 +4354,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.TKTINXM/fw_pissarro_miui_PISSARROINGlobal_OS1.0.4.0.TKTINXM_bd75e8bbb9_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
   version: OS1.0.4.0.TKTINXM
+- android: '13.0'
+  codename: pissarro
+  date: '2024-10-12'
+  download: https://bigota.d.miui.com/OS1.0.7.0.TKTINXM/fw_pissarro_miui_PISSARROINGlobal_OS1.0.7.0.TKTINXM_0ab0f514a1_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: OS1.0.7.0.TKTINXM
 - android: '13.0'
   codename: pissarro
   date: '2024-08-12'

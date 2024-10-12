@@ -1,23 +1,23 @@
 - branch: stable
-  date: '2024-09-10'
+  date: '2024-10-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-11.09.2024/fw_agate_miui_AGATEGlobal_OS1.0.6.0.UKWMIXM_6736bc84d5_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/agate/fw_agate_miui_AGATEGlobal_OS1.0.6.0.UKWMIXM_6736bc84d5_14.0.zip
-  filename: fw_agate_miui_AGATEGlobal_OS1.0.6.0.UKWMIXM_6736bc84d5_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-12.10.2024/fw_agate_miui_AGATEGlobal_OS1.0.7.0.UKWMIXM_42856ae7f9_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/agate/fw_agate_miui_AGATEGlobal_OS1.0.7.0.UKWMIXM_42856ae7f9_14.0.zip
+  filename: fw_agate_miui_AGATEGlobal_OS1.0.7.0.UKWMIXM_42856ae7f9_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.UKWMIXM
+    miui: OS1.0.7.0.UKWMIXM
 - branch: stable
-  date: '2024-09-10'
+  date: '2024-10-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-11.09.2024/fw_agate_miui_AGATEEEAGlobal_OS1.0.5.0.UKWEUXM_672636f0d9_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/agate/fw_agate_miui_AGATEEEAGlobal_OS1.0.5.0.UKWEUXM_672636f0d9_14.0.zip
-  filename: fw_agate_miui_AGATEEEAGlobal_OS1.0.5.0.UKWEUXM_672636f0d9_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-12.10.2024/fw_agate_miui_AGATEEEAGlobal_OS1.0.6.0.UKWEUXM_73ceba98fd_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/agate/fw_agate_miui_AGATEEEAGlobal_OS1.0.6.0.UKWEUXM_73ceba98fd_14.0.zip
+  filename: fw_agate_miui_AGATEEEAGlobal_OS1.0.6.0.UKWEUXM_73ceba98fd_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UKWEUXM
+    miui: OS1.0.6.0.UKWEUXM
 - branch: stable
   date: '2024-09-16'
   downloads:
@@ -339,15 +339,15 @@
     android: '11.0'
     miui: 22.3.2
 - branch: stable
-  date: '2024-09-06'
+  date: '2024-10-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-07.09.2024/fw_aurora_miui_AURORAGlobal_OS1.0.11.0.UNAMIXM_92fc10bfc5_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAGlobal_OS1.0.11.0.UNAMIXM_92fc10bfc5_14.0.zip
-  filename: fw_aurora_miui_AURORAGlobal_OS1.0.11.0.UNAMIXM_92fc10bfc5_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-12.10.2024/fw_aurora_miui_AURORAGlobal_OS1.0.12.0.UNAMIXM_f46ab02599_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAGlobal_OS1.0.12.0.UNAMIXM_f46ab02599_14.0.zip
+  filename: fw_aurora_miui_AURORAGlobal_OS1.0.12.0.UNAMIXM_f46ab02599_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.11.0.UNAMIXM
+    miui: OS1.0.12.0.UNAMIXM
 - branch: stable
   date: '2024-09-20'
   downloads:
@@ -369,15 +369,15 @@
     android: '14.0'
     miui: OS1.0.12.0.UNAEUXM
 - branch: stable
-  date: '2024-09-06'
+  date: '2024-10-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-07.09.2024/fw_aurora_miui_AURORAINGlobal_OS1.0.10.0.UNAINXM_1b426907db_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAINGlobal_OS1.0.10.0.UNAINXM_1b426907db_14.0.zip
-  filename: fw_aurora_miui_AURORAINGlobal_OS1.0.10.0.UNAINXM_1b426907db_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-12.10.2024/fw_aurora_miui_AURORAINGlobal_OS1.0.11.0.UNAINXM_d1f4b1eaf8_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAINGlobal_OS1.0.11.0.UNAINXM_d1f4b1eaf8_14.0.zip
+  filename: fw_aurora_miui_AURORAINGlobal_OS1.0.11.0.UNAINXM_d1f4b1eaf8_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.10.0.UNAINXM
+    miui: OS1.0.11.0.UNAINXM
 - branch: stable
   date: '2024-09-26'
   downloads:
@@ -3799,15 +3799,15 @@
     android: '13.0'
     miui: OS1.0.1.0.TGLMIXM
 - branch: stable
-  date: '2024-08-25'
+  date: '2024-10-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_opal/releases/download/stable-26.08.2024/fw_opal_miui_OPALEEAGlobal_OS1.0.3.0.TGLEUXM_1f4479a81d_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/opal/fw_opal_miui_OPALEEAGlobal_OS1.0.3.0.TGLEUXM_1f4479a81d_13.0.zip
-  filename: fw_opal_miui_OPALEEAGlobal_OS1.0.3.0.TGLEUXM_1f4479a81d_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_opal/releases/download/stable-12.10.2024/fw_opal_miui_OPALEEAGlobal_OS1.0.4.0.TGLEUXM_31868364f9_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/opal/fw_opal_miui_OPALEEAGlobal_OS1.0.4.0.TGLEUXM_31868364f9_13.0.zip
+  filename: fw_opal_miui_OPALEEAGlobal_OS1.0.4.0.TGLEUXM_31868364f9_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: OS1.0.3.0.TGLEUXM
+    miui: OS1.0.4.0.TGLEUXM
 - branch: stable
   date: '2019-11-11'
   downloads:
@@ -4109,15 +4109,15 @@
     android: '13.0'
     miui: OS1.0.7.0.TKTEUXM
 - branch: stable
-  date: '2024-09-10'
+  date: '2024-10-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-10.09.2024/fw_pissarro_miui_PISSARROINGlobal_OS1.0.5.0.TKTINXM_cce142ab28_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARROINGlobal_OS1.0.5.0.TKTINXM_cce142ab28_13.0.zip
-  filename: fw_pissarro_miui_PISSARROINGlobal_OS1.0.5.0.TKTINXM_cce142ab28_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-12.10.2024/fw_pissarro_miui_PISSARROINGlobal_OS1.0.7.0.TKTINXM_0ab0f514a1_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARROINGlobal_OS1.0.7.0.TKTINXM_0ab0f514a1_13.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_OS1.0.7.0.TKTINXM_0ab0f514a1_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: OS1.0.5.0.TKTINXM
+    miui: OS1.0.7.0.TKTINXM
 - branch: stable
   date: '2020-09-21'
   downloads:
