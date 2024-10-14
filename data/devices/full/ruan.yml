@@ -39,6 +39,16 @@
     android: '14.0'
     miui: OS1.0.1.0.UFSINXM
 - branch: stable
+  date: '2024-10-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-14.10.2024/fw_ruan_miui_RUANGlobal_OS1.0.6.0.UFSMIXM_a1439c66c9_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruan/fw_ruan_miui_RUANGlobal_OS1.0.6.0.UFSMIXM_a1439c66c9_14.0.zip
+  filename: fw_ruan_miui_RUANGlobal_OS1.0.6.0.UFSMIXM_a1439c66c9_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.6.0.UFSMIXM
+- branch: stable
   date: '2024-07-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-10.07.2024/fw_ruan_miui_RUANINGlobal_OS1.0.2.0.UFSINXM_5a9b95539c_14.0.zip

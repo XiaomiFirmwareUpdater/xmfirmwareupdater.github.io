@@ -52,9 +52,8 @@ permalink: /hyperos/moon/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 13 / POCO M6 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UNTEUXM</td><td>14.0</td><td>7.0 GB</td><td>2024-07-16</td><td><a href="/hyperos/moon/stable/OS1.0.5.0.UNTEUXM/">Download</a></td></tr>
-<tr><td>Redmi 13 / POCO M6 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UNTEUXM</td><td>14.0</td><td>4.5 GB</td><td>2024-07-19</td><td><a href="/hyperos/moon/stable/OS1.0.5.0.UNTEUXM/">Download</a></td></tr>
-<tr><td>Redmi 13 / POCO M6 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.UNTEUXM</td><td>14.0</td><td>4.5 GB</td><td>2024-09-27</td><td><a href="/hyperos/moon/stable beta/OS1.0.6.0.UNTEUXM/">Download</a></td></tr>
+                <tr><td>Redmi 13 / POCO M6 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UNTEUXM</td><td>14.0</td><td>6.9 GB</td><td>2024-09-19</td><td><a href="/hyperos/moon/stable/OS1.0.6.0.UNTEUXM/">Download</a></td></tr>
+<tr><td>Redmi 13 / POCO M6 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UNTEUXM</td><td>14.0</td><td>4.5 GB</td><td>2024-09-27</td><td><a href="/hyperos/moon/stable/OS1.0.6.0.UNTEUXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UNTMIXM</td><td>14.0</td><td>7.4 GB</td><td>2024-09-19</td><td><a href="/hyperos/moon/stable/OS1.0.7.0.UNTMIXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UNTMIXM</td><td>14.0</td><td>4.4 GB</td><td>2024-09-26</td><td><a href="/hyperos/moon/stable/OS1.0.7.0.UNTMIXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UNTIDXM</td><td>14.0</td><td>6.7 GB</td><td>2024-09-03</td><td><a href="/hyperos/moon/stable/OS1.0.5.0.UNTIDXM/">Download</a></td></tr>
