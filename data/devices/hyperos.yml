@@ -4536,6 +4536,18 @@
   version: OS1.0.10.0.ULQMIXM
 - android: '14.0'
   codename: plato
+  date: '2024-10-14'
+  download: https://bigota.d.miui.com/OS1.0.14.0.ULQEUXM/fw_plato_miui_PLATOEEAGlobal_OS1.0.14.0.ULQEUXM_92f4894663_14.0.zip
+  name: Xiaomi 12T
+  version: OS1.0.14.0.ULQEUXM
+- android: '14.0'
+  codename: plato
+  date: '2024-10-14'
+  download: https://bigota.d.miui.com/OS1.0.12.0.ULQMIXM/fw_plato_miui_PLATOGlobal_OS1.0.12.0.ULQMIXM_fc2d78614e_14.0.zip
+  name: Xiaomi 12T
+  version: OS1.0.12.0.ULQMIXM
+- android: '14.0'
+  codename: plato
   date: '2024-01-12'
   download: https://bigota.d.miui.com/OS1.0.5.0.ULQMIXM/fw_plato_miui_PLATOGlobal_OS1.0.5.0.ULQMIXM_9c5350230d_14.0.zip
   name: Xiaomi 12T
@@ -6916,6 +6928,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULOINXM/fw_xaga_miui_XAGAINGlobal_OS1.0.2.0.ULOINXM_08577945e0_14.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: OS1.0.2.0.ULOINXM
+- android: '14.0'
+  codename: xaga
+  date: '2024-10-14'
+  download: https://bigota.d.miui.com/OS1.0.6.0.ULOEUXM/fw_xaga_miui_XAGAEEAGlobal_OS1.0.6.0.ULOEUXM_0f7dbb57ec_14.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS1.0.6.0.ULOEUXM
 - android: '14.0'
   codename: xaga
   date: '2024-10-14'
