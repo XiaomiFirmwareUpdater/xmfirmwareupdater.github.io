@@ -1512,6 +1512,12 @@
   version: OS1.0.1.0.UNFEUXM
 - android: '14.0'
   codename: emerald
+  date: '2024-10-14'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.7.0.UNFMIXM_5007a2d96e_14.0.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  version: OS1.0.7.0.UNFMIXM
+- android: '14.0'
+  codename: emerald
   date: '2024-08-13'
   download: https://bigota.d.miui.com/OS1.0.4.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.4.0.UNFMIXM_9ad81db509_14.0.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro
@@ -2118,6 +2124,12 @@
   version: OS1.0.7.0.UNVCNXM
 - android: '14.0'
   codename: goku
+  date: '2024-10-14'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UNVCNXM/fw_goku_miui_GOKU_OS1.0.13.0.UNVCNXM_fb1ecb5403_14.0.zip
+  name: MIX Fold 4
+  version: OS1.0.13.0.UNVCNXM
+- android: '14.0'
+  codename: goku
   date: '2024-09-10'
   download: https://bigota.d.miui.com/OS1.0.11.0.UNVCNXM/fw_goku_miui_GOKU_OS1.0.11.0.UNVCNXM_d6db9703d1_14.0.zip
   name: MIX Fold 4
@@ -2220,6 +2232,12 @@
   version: OS1.0.8.0.UNQEUXM
 - android: '14.0'
   codename: gold
+  date: '2024-10-14'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UNQMIXM/fw_gold_miui_GOLDGlobal_OS1.0.12.0.UNQMIXM_0dda83858c_14.0.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS1.0.12.0.UNQMIXM
+- android: '14.0'
+  codename: gold
   date: '2024-10-10'
   download: https://bigota.d.miui.com/OS1.0.11.0.UNQINXM/fw_gold_miui_GOLDINGlobal_OS1.0.11.0.UNQINXM_737bea58cf_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
@@ -2314,6 +2332,24 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UKKCNXM/fw_haydn_miui_HAYDN_OS1.0.1.0.UKKCNXM_366ee9022b_14.0.zip
   name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
   version: OS1.0.1.0.UKKCNXM
+- android: '14.0'
+  codename: haydn
+  date: '2024-10-14'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UKKEUXM/fw_haydn_miui_HAYDNEEAGlobal_OS1.0.9.0.UKKEUXM_50c5850e20_14.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: OS1.0.9.0.UKKEUXM
+- android: '14.0'
+  codename: haydn
+  date: '2024-10-14'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UKKMIXM/fw_haydn_miui_HAYDNGlobal_OS1.0.9.0.UKKMIXM_44019cd963_14.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: OS1.0.9.0.UKKMIXM
+- android: '14.0'
+  codename: haydn
+  date: '2024-10-14'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UKKINXM/fw_haydn_miui_HAYDNINGlobal_OS1.0.5.0.UKKINXM_27a767fd9f_14.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: OS1.0.5.0.UKKINXM
 - android: '14.0'
   codename: haydn
   date: '2024-08-13'
@@ -6874,6 +6910,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULOINXM/fw_xaga_miui_XAGAINGlobal_OS1.0.2.0.ULOINXM_08577945e0_14.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: OS1.0.2.0.ULOINXM
+- android: '14.0'
+  codename: xaga
+  date: '2024-10-14'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULOMIXM/fw_xaga_miui_XAGAGlobal_OS1.0.5.0.ULOMIXM_c3f9568b08_14.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS1.0.5.0.ULOMIXM
 - android: '14.0'
   codename: xaga
   date: '2024-08-13'

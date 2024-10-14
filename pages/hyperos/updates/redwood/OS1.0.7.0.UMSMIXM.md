@@ -3,7 +3,7 @@ title: POCO X5 Pro 5G Global HyperOS OS1.0.7.0.UMSMIXM Update
 layout: download
 name: POCO X5 Pro 5G Global
 codename: redwood
-permalink: /hyperos/redwood/stable beta/OS1.0.7.0.UMSMIXM/
+permalink: /hyperos/redwood/stable/OS1.0.7.0.UMSMIXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/redwood/stable beta/OS1.0.7.0.UMSMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.7.0.UMSMIXM Stable Beta Official Update for POCO X5 Pro 5G Global (redwood)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.7.0.UMSMIXM Stable Official Update for POCO X5 Pro 5G Global (redwood)</h3>
     <h5>This page shows the OS1.0.7.0.UMSMIXM update only. If you're looking for other updates check
         <a href="/hyperos/redwood/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/redwood/stable beta/OS1.0.7.0.UMSMIXM/
                     <h5><b>Version: </b>OS1.0.7.0.UMSMIXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>8.0 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-09-04</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">redwood_global_images_OS1.0.7.0.UMSMIXM_20240904.0000.00_14.0_global_e1492988f6.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">e1492988f6150f5d31ebc0042400b4cd</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.7.0.UMSMIXM/redwood_global_images_OS1.0.7.0.UMSMIXM_20240904.0000.00_14.0_global_e1492988f6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.7.0.UMSMIXM/redwood_global_images_OS1.0.7.0.UMSMIXM_20240904.0000.00_14.0_global_e1492988f6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.7.0.UMSMIXM/redwood_global_images_OS1.0.7.0.UMSMIXM_20240904.0000.00_14.0_global_e1492988f6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.7.0.UMSMIXM/redwood_global_images_OS1.0.7.0.UMSMIXM_20240904.0000.00_14.0_global_e1492988f6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.7.0.UMSMIXM/redwood_global_images_OS1.0.7.0.UMSMIXM_20240904.0000.00_14.0_global_e1492988f6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#redwood_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="redwood_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="redwood_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to September 2024. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>POCO X5 Pro 5G Global</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/redwood/" target="_blank">redwood</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.7.0.UMSMIXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -74,10 +117,10 @@ permalink: /hyperos/redwood/stable beta/OS1.0.7.0.UMSMIXM/
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.7.0.UMSMIXM/miui-blockota-redwood_global-OS1.0.6.0.UMSMIXM-OS1.0.7.0.UMSMIXM-f3105cc8b3-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.7.0.UMSMIXM/miui_REDWOODGlobal_OS1.0.7.0.UMSMIXM_307e12b10f_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.7.0.UMSMIXM/miui_REDWOODGlobal_OS1.0.7.0.UMSMIXM_307e12b10f_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.7.0.UMSMIXM/miui_REDWOODGlobal_OS1.0.7.0.UMSMIXM_307e12b10f_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.7.0.UMSMIXM/miui_REDWOODGlobal_OS1.0.7.0.UMSMIXM_307e12b10f_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.7.0.UMSMIXM/miui_REDWOODGlobal_OS1.0.7.0.UMSMIXM_307e12b10f_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#redwood_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="redwood_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#redwood_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="redwood_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="redwood_1_changelog">
+                    <div class="collapse" id="redwood_2_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to September 2024. Increased system security.</p>
                     </div>
                 </li>
