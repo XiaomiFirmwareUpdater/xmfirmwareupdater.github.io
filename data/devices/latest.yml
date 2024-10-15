@@ -359,15 +359,15 @@
     android: '14.0'
     miui: OS1.0.23.0.UNACNXM
 - branch: stable
-  date: '2024-09-06'
+  date: '2024-10-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-06.09.2024/fw_aurora_miui_AURORAEEAGlobal_OS1.0.12.0.UNAEUXM_6c71e9140d_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAEEAGlobal_OS1.0.12.0.UNAEUXM_6c71e9140d_14.0.zip
-  filename: fw_aurora_miui_AURORAEEAGlobal_OS1.0.12.0.UNAEUXM_6c71e9140d_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-15.10.2024/fw_aurora_miui_AURORAEEAGlobal_OS1.0.13.0.UNAEUXM_c44a4d9a24_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAEEAGlobal_OS1.0.13.0.UNAEUXM_c44a4d9a24_14.0.zip
+  filename: fw_aurora_miui_AURORAEEAGlobal_OS1.0.13.0.UNAEUXM_c44a4d9a24_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.12.0.UNAEUXM
+    miui: OS1.0.13.0.UNAEUXM
 - branch: stable
   date: '2024-10-12'
   downloads:
@@ -5219,15 +5219,15 @@
     android: '13.0'
     miui: OS1.0.5.0.TGKEUXM
 - branch: stable
-  date: '2024-09-10'
+  date: '2024-10-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-10.09.2024/fw_star_miui_STARGlobal_OS1.0.5.0.UKAMIXM_a141b890e4_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/star/fw_star_miui_STARGlobal_OS1.0.5.0.UKAMIXM_a141b890e4_14.0.zip
-  filename: fw_star_miui_STARGlobal_OS1.0.5.0.UKAMIXM_a141b890e4_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-15.10.2024/fw_star_miui_STARGlobal_OS1.0.6.0.UKAMIXM_4ccfe1f640_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/star/fw_star_miui_STARGlobal_OS1.0.6.0.UKAMIXM_4ccfe1f640_14.0.zip
+  filename: fw_star_miui_STARGlobal_OS1.0.6.0.UKAMIXM_4ccfe1f640_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UKAMIXM
+    miui: OS1.0.6.0.UKAMIXM
 - branch: stable
   date: '2024-09-12'
   downloads:
@@ -5249,25 +5249,25 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2024-09-10'
+  date: '2024-10-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-10.09.2024/fw_star_miui_STAREEAGlobal_OS1.0.5.0.UKAEUXM_c83b47d8ff_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/star/fw_star_miui_STAREEAGlobal_OS1.0.5.0.UKAEUXM_c83b47d8ff_14.0.zip
-  filename: fw_star_miui_STAREEAGlobal_OS1.0.5.0.UKAEUXM_c83b47d8ff_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-15.10.2024/fw_star_miui_STAREEAGlobal_OS1.0.6.0.UKAEUXM_36b94878e9_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/star/fw_star_miui_STAREEAGlobal_OS1.0.6.0.UKAEUXM_36b94878e9_14.0.zip
+  filename: fw_star_miui_STAREEAGlobal_OS1.0.6.0.UKAEUXM_36b94878e9_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UKAEUXM
+    miui: OS1.0.6.0.UKAEUXM
 - branch: stable
-  date: '2024-09-10'
+  date: '2024-10-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-10.09.2024/fw_star_miui_STARINGlobal_OS1.0.5.0.UKAINXM_a0c1936ed0_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/star/fw_star_miui_STARINGlobal_OS1.0.5.0.UKAINXM_a0c1936ed0_14.0.zip
-  filename: fw_star_miui_STARINGlobal_OS1.0.5.0.UKAINXM_a0c1936ed0_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-15.10.2024/fw_star_miui_STARINGlobal_OS1.0.6.0.UKAINXM_4b1a5c7ad7_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/star/fw_star_miui_STARINGlobal_OS1.0.6.0.UKAINXM_4b1a5c7ad7_14.0.zip
+  filename: fw_star_miui_STARINGlobal_OS1.0.6.0.UKAINXM_4b1a5c7ad7_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UKAINXM
+    miui: OS1.0.6.0.UKAINXM
 - branch: stable
   date: '2024-08-26'
   downloads:

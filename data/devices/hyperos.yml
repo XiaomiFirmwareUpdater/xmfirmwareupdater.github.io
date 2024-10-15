@@ -372,6 +372,12 @@
   version: OS1.0.4.0.UNAINXM
 - android: '14.0'
   codename: aurora
+  date: '2024-10-15'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UNAEUXM/fw_aurora_miui_AURORAEEAGlobal_OS1.0.13.0.UNAEUXM_c44a4d9a24_14.0.zip
+  name: Xiaomi 14 Ultra
+  version: OS1.0.13.0.UNAEUXM
+- android: '14.0'
+  codename: aurora
   date: '2024-07-15'
   download: https://bigota.d.miui.com/OS1.0.9.0.UNAEUXM/fw_aurora_miui_AURORAEEAGlobal_OS1.0.9.0.UNAEUXM_e65cdccd65_14.0.zip
   name: Xiaomi 14 Ultra
@@ -6010,6 +6016,24 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UKAINXM/fw_star_miui_STARINGlobal_OS1.0.3.0.UKAINXM_bf75dfbce6_14.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: OS1.0.3.0.UKAINXM
+- android: '14.0'
+  codename: star
+  date: '2024-10-15'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UKAEUXM/fw_star_miui_STAREEAGlobal_OS1.0.6.0.UKAEUXM_36b94878e9_14.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: OS1.0.6.0.UKAEUXM
+- android: '14.0'
+  codename: star
+  date: '2024-10-15'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UKAMIXM/fw_star_miui_STARGlobal_OS1.0.6.0.UKAMIXM_4ccfe1f640_14.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: OS1.0.6.0.UKAMIXM
+- android: '14.0'
+  codename: star
+  date: '2024-10-15'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UKAINXM/fw_star_miui_STARINGlobal_OS1.0.6.0.UKAINXM_4b1a5c7ad7_14.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: OS1.0.6.0.UKAINXM
 - android: '14.0'
   codename: star
   date: '2024-08-12'
