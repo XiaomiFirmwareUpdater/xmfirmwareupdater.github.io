@@ -1734,6 +1734,12 @@
   version: OS1.0.2.0.TKEEUXM
 - android: '13.0'
   codename: fleur
+  date: '2024-10-15'
+  download: https://bigota.d.miui.com/OS1.0.7.0.TKEEUXM/fw_fleur_miui_FLEUREEAGlobal_OS1.0.7.0.TKEEUXM_ab77aebfdc_13.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: OS1.0.7.0.TKEEUXM
+- android: '13.0'
+  codename: fleur
   date: '2024-09-14'
   download: https://bigota.d.miui.com/OS1.0.6.0.TKEINXM/fw_fleur_miui_FLEURINGlobal_OS1.0.6.0.TKEINXM_db8a7cd2ff_13.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
@@ -4090,6 +4096,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULHCNXM/fw_pearl_miui_PEARL_OS1.0.3.0.ULHCNXM_cf6066ca4c_14.0.zip
   name: Redmi Note 12T Pro
   version: OS1.0.3.0.ULHCNXM
+- android: '14.0'
+  codename: pearl
+  date: '2024-10-15'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULHCNXM/fw_pearl_miui_PEARL_OS1.0.5.0.ULHCNXM_43b5bc657b_14.0.zip
+  name: Redmi Note 12T Pro
+  version: OS1.0.5.0.ULHCNXM
 - android: '14.0'
   codename: pearl
   date: '2024-05-13'

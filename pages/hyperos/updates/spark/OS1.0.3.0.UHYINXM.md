@@ -3,7 +3,7 @@ title: Redmi Pad SE 8.7 4G India HyperOS OS1.0.3.0.UHYINXM Update
 layout: download
 name: Redmi Pad SE 8.7 4G India
 codename: spark
-permalink: /hyperos/spark/stable beta/OS1.0.3.0.UHYINXM/
+permalink: /hyperos/spark/stable/OS1.0.3.0.UHYINXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/spark/stable beta/OS1.0.3.0.UHYINXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.3.0.UHYINXM Stable Beta Official Update for Redmi Pad SE 8.7 4G India (spark)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.3.0.UHYINXM Stable Official Update for Redmi Pad SE 8.7 4G India (spark)</h3>
     <h5>This page shows the OS1.0.3.0.UHYINXM update only. If you're looking for other updates check
         <a href="/hyperos/spark/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/spark/stable beta/OS1.0.3.0.UHYINXM/
                     <h5><b>Version: </b>OS1.0.3.0.UHYINXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>4.5 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-09-26</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">spark_in_global_images_OS1.0.3.0.UHYINXM_20240926.0000.00_14.0_in_eb4bb86107.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">eb4bb86107936f74fff7b917d3cf6a60</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.3.0.UHYINXM/spark_in_global_images_OS1.0.3.0.UHYINXM_20240926.0000.00_14.0_in_eb4bb86107.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.3.0.UHYINXM/spark_in_global_images_OS1.0.3.0.UHYINXM_20240926.0000.00_14.0_in_eb4bb86107.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.3.0.UHYINXM/spark_in_global_images_OS1.0.3.0.UHYINXM_20240926.0000.00_14.0_in_eb4bb86107.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.UHYINXM/spark_in_global_images_OS1.0.3.0.UHYINXM_20240926.0000.00_14.0_in_eb4bb86107.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.3.0.UHYINXM/spark_in_global_images_OS1.0.3.0.UHYINXM_20240926.0000.00_14.0_in_eb4bb86107.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#spark_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="spark_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="spark_1_changelog">
+                        <p id="changelog_text">[System]<br>Optimization: App launching algorithm speeds up app opening process<br>Updated the security patch to September 2024. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi Pad SE 8.7 4G India</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/spark/" target="_blank">spark</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.3.0.UHYINXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -74,10 +117,10 @@ permalink: /hyperos/spark/stable beta/OS1.0.3.0.UHYINXM/
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.UHYINXM/miui-blockota-spark_in_global-OS1.0.2.0.UHYINXM-OS1.0.3.0.UHYINXM-db745179d5-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.3.0.UHYINXM/miui_SPARKINGlobal_OS1.0.3.0.UHYINXM_1d4ec22cf4_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.3.0.UHYINXM/miui_SPARKINGlobal_OS1.0.3.0.UHYINXM_1d4ec22cf4_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.3.0.UHYINXM/miui_SPARKINGlobal_OS1.0.3.0.UHYINXM_1d4ec22cf4_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.UHYINXM/miui_SPARKINGlobal_OS1.0.3.0.UHYINXM_1d4ec22cf4_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.3.0.UHYINXM/miui_SPARKINGlobal_OS1.0.3.0.UHYINXM_1d4ec22cf4_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#spark_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="spark_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#spark_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="spark_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="spark_1_changelog">
+                    <div class="collapse" id="spark_2_changelog">
                         <p id="changelog_text">[System]<br>Optimization: App launching algorithm speeds up app opening process<br>Updated the security patch to September 2024. Increased system security.</p>
                     </div>
                 </li>

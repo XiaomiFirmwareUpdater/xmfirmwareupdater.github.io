@@ -1739,15 +1739,15 @@
     android: '13.0'
     miui: OS1.0.4.0.TKEMIXM
 - branch: stable
-  date: '2024-09-10'
+  date: '2024-10-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-10.09.2024/fw_fleur_miui_FLEUREEAGlobal_OS1.0.6.0.TKEEUXM_73f8e4da37_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fleur/fw_fleur_miui_FLEUREEAGlobal_OS1.0.6.0.TKEEUXM_73f8e4da37_13.0.zip
-  filename: fw_fleur_miui_FLEUREEAGlobal_OS1.0.6.0.TKEEUXM_73f8e4da37_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-15.10.2024/fw_fleur_miui_FLEUREEAGlobal_OS1.0.7.0.TKEEUXM_ab77aebfdc_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fleur/fw_fleur_miui_FLEUREEAGlobal_OS1.0.7.0.TKEEUXM_ab77aebfdc_13.0.zip
+  filename: fw_fleur_miui_FLEUREEAGlobal_OS1.0.7.0.TKEEUXM_ab77aebfdc_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: OS1.0.6.0.TKEEUXM
+    miui: OS1.0.7.0.TKEEUXM
 - branch: stable
   date: '2024-09-14'
   downloads:
@@ -3849,15 +3849,15 @@
     android: '7.1'
     miui: 9.10.10
 - branch: stable
-  date: '2024-09-11'
+  date: '2024-10-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pearl/releases/download/stable-11.09.2024/fw_pearl_miui_PEARL_OS1.0.4.0.ULHCNXM_7516430224_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pearl/fw_pearl_miui_PEARL_OS1.0.4.0.ULHCNXM_7516430224_14.0.zip
-  filename: fw_pearl_miui_PEARL_OS1.0.4.0.ULHCNXM_7516430224_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pearl/releases/download/stable-15.10.2024/fw_pearl_miui_PEARL_OS1.0.5.0.ULHCNXM_43b5bc657b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pearl/fw_pearl_miui_PEARL_OS1.0.5.0.ULHCNXM_43b5bc657b_14.0.zip
+  filename: fw_pearl_miui_PEARL_OS1.0.5.0.ULHCNXM_43b5bc657b_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.ULHCNXM
+    miui: OS1.0.5.0.ULHCNXM
 - branch: stable
   date: '2024-09-30'
   downloads:
