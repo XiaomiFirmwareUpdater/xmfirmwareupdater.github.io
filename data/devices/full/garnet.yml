@@ -119,6 +119,16 @@
     android: '13.0'
     miui: V14.0.4.0.TNRINXM
 - branch: stable
+  date: '2024-10-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-16.10.2024/fw_garnet_miui_GARNET_OS1.0.12.0.UNRCNXM_5917737723_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/garnet/fw_garnet_miui_GARNET_OS1.0.12.0.UNRCNXM_5917737723_14.0.zip
+  filename: fw_garnet_miui_GARNET_OS1.0.12.0.UNRCNXM_5917737723_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.12.0.UNRCNXM
+- branch: stable
   date: '2024-08-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-16.08.2024/fw_garnet_miui_GARNETGlobal_OS1.0.11.0.UNRMIXM_024a60d93c_14.0.zip

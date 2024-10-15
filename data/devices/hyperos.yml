@@ -2040,6 +2040,12 @@
   version: OS1.0.7.0.UNRINXM
 - android: '14.0'
   codename: garnet
+  date: '2024-10-15'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UNRCNXM/fw_garnet_miui_GARNET_OS1.0.12.0.UNRCNXM_5917737723_14.0.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS1.0.12.0.UNRCNXM
+- android: '14.0'
+  codename: garnet
   date: '2024-08-16'
   download: https://bigota.d.miui.com/OS1.0.11.0.UNRMIXM/fw_garnet_miui_GARNETGlobal_OS1.0.11.0.UNRMIXM_024a60d93c_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
@@ -4440,6 +4446,12 @@
   version: OS1.0.3.0.TKTMIXM
 - android: '13.0'
   codename: pissarro
+  date: '2024-10-15'
+  download: https://bigota.d.miui.com/OS1.0.6.0.TKTCNXM/fw_pissarro_miui_PISSARRO_OS1.0.6.0.TKTCNXM_acb2780ad1_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: OS1.0.6.0.TKTCNXM
+- android: '13.0'
+  codename: pissarro
   date: '2024-08-15'
   download: https://bigota.d.miui.com/OS1.0.4.0.TKTINXM/fw_pissarro_miui_PISSARROINGlobal_OS1.0.4.0.TKTINXM_bd75e8bbb9_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
@@ -6538,6 +6550,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UKBCNXM/fw_venus_miui_VENUS_OS1.0.3.0.UKBCNXM_e1a272a3f8_14.0.zip
   name: Mi 11
   version: OS1.0.3.0.UKBCNXM
+- android: '14.0'
+  codename: venus
+  date: '2024-10-15'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UKBCNXM/fw_venus_miui_VENUS_OS1.0.6.0.UKBCNXM_58fe53deed_14.0.zip
+  name: Mi 11
+  version: OS1.0.6.0.UKBCNXM
 - android: '14.0'
   codename: venus
   date: '2024-10-15'

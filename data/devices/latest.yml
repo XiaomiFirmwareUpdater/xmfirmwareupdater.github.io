@@ -1879,15 +1879,15 @@
     android: '14.0'
     miui: OS1.0.12.0.UNRMIXM
 - branch: stable
-  date: '2024-09-11'
+  date: '2024-10-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-11.09.2024/fw_garnet_miui_GARNET_OS1.0.10.0.UNRCNXM_041d9ef5c4_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/garnet/fw_garnet_miui_GARNET_OS1.0.10.0.UNRCNXM_041d9ef5c4_14.0.zip
-  filename: fw_garnet_miui_GARNET_OS1.0.10.0.UNRCNXM_041d9ef5c4_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-16.10.2024/fw_garnet_miui_GARNET_OS1.0.12.0.UNRCNXM_5917737723_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/garnet/fw_garnet_miui_GARNET_OS1.0.12.0.UNRCNXM_5917737723_14.0.zip
+  filename: fw_garnet_miui_GARNET_OS1.0.12.0.UNRCNXM_5917737723_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.10.0.UNRCNXM
+    miui: OS1.0.12.0.UNRCNXM
 - branch: stable
   date: '2024-10-12'
   downloads:
@@ -4079,15 +4079,15 @@
     android: '13.0'
     miui: OS1.0.8.0.TKTMIXM
 - branch: stable
-  date: '2024-09-23'
+  date: '2024-10-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-23.09.2024/fw_pissarro_miui_PISSARRO_OS1.0.5.0.TKTCNXM_a1d94328ca_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARRO_OS1.0.5.0.TKTCNXM_a1d94328ca_13.0.zip
-  filename: fw_pissarro_miui_PISSARRO_OS1.0.5.0.TKTCNXM_a1d94328ca_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-16.10.2024/fw_pissarro_miui_PISSARRO_OS1.0.6.0.TKTCNXM_acb2780ad1_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARRO_OS1.0.6.0.TKTCNXM_acb2780ad1_13.0.zip
+  filename: fw_pissarro_miui_PISSARRO_OS1.0.6.0.TKTCNXM_acb2780ad1_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: OS1.0.5.0.TKTCNXM
+    miui: OS1.0.6.0.TKTCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -5799,15 +5799,15 @@
     android: '14.0'
     miui: OS1.0.8.0.UKBMIXM
 - branch: stable
-  date: '2024-08-31'
+  date: '2024-10-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-31.08.2024/fw_venus_miui_VENUS_OS1.0.4.0.UKBCNXM_5735dd0b60_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/venus/fw_venus_miui_VENUS_OS1.0.4.0.UKBCNXM_5735dd0b60_14.0.zip
-  filename: fw_venus_miui_VENUS_OS1.0.4.0.UKBCNXM_5735dd0b60_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-16.10.2024/fw_venus_miui_VENUS_OS1.0.6.0.UKBCNXM_58fe53deed_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/venus/fw_venus_miui_VENUS_OS1.0.6.0.UKBCNXM_58fe53deed_14.0.zip
+  filename: fw_venus_miui_VENUS_OS1.0.6.0.UKBCNXM_58fe53deed_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.UKBCNXM
+    miui: OS1.0.6.0.UKBCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
