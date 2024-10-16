@@ -3114,6 +3114,12 @@
   version: OS1.0.7.0.UMYCNXM
 - android: '14.0'
   codename: liuqin
+  date: '2024-10-16'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UMYCNXM/fw_liuqin_miui_LIUQIN_OS1.0.11.0.UMYCNXM_841a0c6a81_14.0.zip
+  name: Xiaomi Pad 6 Pro
+  version: OS1.0.11.0.UMYCNXM
+- android: '14.0'
+  codename: liuqin
   date: '2024-09-16'
   download: https://bigota.d.miui.com/OS1.0.10.0.UMYCNXM/fw_liuqin_miui_LIUQIN_OS1.0.10.0.UMYCNXM_09446615ba_14.0.zip
   name: Xiaomi Pad 6 Pro
@@ -6550,6 +6556,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UKBCNXM/fw_venus_miui_VENUS_OS1.0.3.0.UKBCNXM_e1a272a3f8_14.0.zip
   name: Mi 11
   version: OS1.0.3.0.UKBCNXM
+- android: '14.0'
+  codename: venus
+  date: '2024-10-16'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UKBEUXM/fw_venus_miui_VENUSEEAGlobal_OS1.0.8.0.UKBEUXM_1d9aa0367d_14.0.zip
+  name: Mi 11
+  version: OS1.0.8.0.UKBEUXM
 - android: '14.0'
   codename: venus
   date: '2024-10-15'

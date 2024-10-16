@@ -29,12 +29,12 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2024-08-31'
+  date: '2024-10-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-31.08.2024/fw_venus_miui_VENUSEEAGlobal_OS1.0.6.0.UKBEUXM_5428022597_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/venus/fw_venus_miui_VENUSEEAGlobal_OS1.0.6.0.UKBEUXM_5428022597_14.0.zip
-  filename: fw_venus_miui_VENUSEEAGlobal_OS1.0.6.0.UKBEUXM_5428022597_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-16.10.2024/fw_venus_miui_VENUSEEAGlobal_OS1.0.8.0.UKBEUXM_1d9aa0367d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/venus/fw_venus_miui_VENUSEEAGlobal_OS1.0.8.0.UKBEUXM_1d9aa0367d_14.0.zip
+  filename: fw_venus_miui_VENUSEEAGlobal_OS1.0.8.0.UKBEUXM_1d9aa0367d_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.UKBEUXM
+    miui: OS1.0.8.0.UKBEUXM
