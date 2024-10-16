@@ -3,7 +3,7 @@ title: POCO F6 Pro Taiwan HyperOS OS1.0.4.0.UNKTWXM Update
 layout: download
 name: POCO F6 Pro Taiwan
 codename: vermeer
-permalink: /hyperos/vermeer/stable beta/OS1.0.4.0.UNKTWXM/
+permalink: /hyperos/vermeer/stable/OS1.0.4.0.UNKTWXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/vermeer/stable beta/OS1.0.4.0.UNKTWXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.4.0.UNKTWXM Stable Beta Official Update for POCO F6 Pro Taiwan (vermeer)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.4.0.UNKTWXM Stable Official Update for POCO F6 Pro Taiwan (vermeer)</h3>
     <h5>This page shows the OS1.0.4.0.UNKTWXM update only. If you're looking for other updates check
         <a href="/hyperos/vermeer/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/vermeer/stable beta/OS1.0.4.0.UNKTWXM/
                     <h5><b>Version: </b>OS1.0.4.0.UNKTWXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>8.2 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-09-24</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">vermeer_tw_global_images_OS1.0.4.0.UNKTWXM_20240924.0000.00_14.0_tw_11ecf738d6.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">11ecf738d601249821291896a232f5a8</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.4.0.UNKTWXM/vermeer_tw_global_images_OS1.0.4.0.UNKTWXM_20240924.0000.00_14.0_tw_11ecf738d6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.4.0.UNKTWXM/vermeer_tw_global_images_OS1.0.4.0.UNKTWXM_20240924.0000.00_14.0_tw_11ecf738d6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.4.0.UNKTWXM/vermeer_tw_global_images_OS1.0.4.0.UNKTWXM_20240924.0000.00_14.0_tw_11ecf738d6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UNKTWXM/vermeer_tw_global_images_OS1.0.4.0.UNKTWXM_20240924.0000.00_14.0_tw_11ecf738d6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.4.0.UNKTWXM/vermeer_tw_global_images_OS1.0.4.0.UNKTWXM_20240924.0000.00_14.0_tw_11ecf738d6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#vermeer_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="vermeer_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="vermeer_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to September 2024. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>POCO F6 Pro Taiwan</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/vermeer/" target="_blank">vermeer</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.4.0.UNKTWXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -74,10 +117,10 @@ permalink: /hyperos/vermeer/stable beta/OS1.0.4.0.UNKTWXM/
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UNKTWXM/miui-blockota-vermeer_tw_global-OS1.0.3.0.UNKTWXM-OS1.0.4.0.UNKTWXM-3c198acc75-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.4.0.UNKTWXM/miui_VERMEERTWGlobal_OS1.0.4.0.UNKTWXM_89fdfda86a_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.4.0.UNKTWXM/miui_VERMEERTWGlobal_OS1.0.4.0.UNKTWXM_89fdfda86a_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.4.0.UNKTWXM/miui_VERMEERTWGlobal_OS1.0.4.0.UNKTWXM_89fdfda86a_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UNKTWXM/miui_VERMEERTWGlobal_OS1.0.4.0.UNKTWXM_89fdfda86a_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.4.0.UNKTWXM/miui_VERMEERTWGlobal_OS1.0.4.0.UNKTWXM_89fdfda86a_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#vermeer_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="vermeer_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#vermeer_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="vermeer_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="vermeer_1_changelog">
+                    <div class="collapse" id="vermeer_2_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to September 2024. Increased system security.</p>
                     </div>
                 </li>

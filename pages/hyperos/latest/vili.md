@@ -62,6 +62,7 @@ permalink: /hyperos/vili/
 <tr><td>Xiaomi 11T Pro Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.UKDIDXM</td><td>14.0</td><td>5.0 GB</td><td>2024-10-10</td><td><a href="/hyperos/vili/stable beta/OS1.0.5.0.UKDIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Pro India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UKDINXM</td><td>14.0</td><td>5.8 GB</td><td>2024-08-27</td><td><a href="/hyperos/vili/stable/OS1.0.5.0.UKDINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Pro India</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UKDINXM</td><td>14.0</td><td>5.0 GB</td><td>2024-09-12</td><td><a href="/hyperos/vili/stable/OS1.0.5.0.UKDINXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T Pro India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.UKDINXM</td><td>14.0</td><td>5.0 GB</td><td>2024-10-10</td><td><a href="/hyperos/vili/stable beta/OS1.0.6.0.UKDINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Pro Japan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UKDJPXM</td><td>14.0</td><td>6.3 GB</td><td>2024-08-27</td><td><a href="/hyperos/vili/stable/OS1.0.4.0.UKDJPXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Pro Japan</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UKDJPXM</td><td>14.0</td><td>4.9 GB</td><td>2024-09-06</td><td><a href="/hyperos/vili/stable/OS1.0.4.0.UKDJPXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Pro Japan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.UKDJPXM</td><td>14.0</td><td>4.9 GB</td><td>2024-10-10</td><td><a href="/hyperos/vili/stable beta/OS1.0.5.0.UKDJPXM/">Download</a></td></tr>
