@@ -55,6 +55,7 @@ permalink: /hyperos/matisse/
                 <tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.ULKCNXM</td><td>14.0</td><td>7.2 GB</td><td>2024-08-19</td><td><a href="/hyperos/matisse/stable/OS1.0.9.0.ULKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.ULKCNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-08-29</td><td><a href="/hyperos/matisse/stable/OS1.0.9.0.ULKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>6.0 GB</td><td>2024-01-12</td><td><a href="/hyperos/matisse/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
+<tr><td>Redmi K50 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.12.0.ULKCNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-10-12</td><td><a href="/hyperos/matisse/stable beta/OS1.0.12.0.ULKCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

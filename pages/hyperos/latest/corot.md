@@ -64,10 +64,13 @@ permalink: /hyperos/corot/
 <tr><td>Xiaomi 13T Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UMLRUXM</td><td>14.0</td><td>5.7 GB</td><td>2024-08-13</td><td><a href="/hyperos/corot/stable/OS1.0.6.0.UMLRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro Japan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.UMLJPXM</td><td>14.0</td><td>7.4 GB</td><td>2024-07-02</td><td><a href="/hyperos/corot/stable/OS1.0.9.0.UMLJPXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro Japan</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UMLJPXM</td><td>14.0</td><td>5.8 GB</td><td>2024-07-17</td><td><a href="/hyperos/corot/stable/OS1.0.9.0.UMLJPXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.8.0.UMLRUXM</td><td>14.0</td><td>5.7 GB</td><td>2024-10-12</td><td><a href="/hyperos/corot/stable beta/OS1.0.8.0.UMLRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMLTRXM</td><td>14.0</td><td>7.1 GB</td><td>2024-08-06</td><td><a href="/hyperos/corot/stable/OS1.0.4.0.UMLTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMLTRXM</td><td>14.0</td><td>5.8 GB</td><td>2024-08-13</td><td><a href="/hyperos/corot/stable/OS1.0.4.0.UMLTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.UMLTRXM</td><td>14.0</td><td>5.8 GB</td><td>2024-10-12</td><td><a href="/hyperos/corot/stable beta/OS1.0.5.0.UMLTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UMLTWXM</td><td>14.0</td><td>7.0 GB</td><td>2024-08-06</td><td><a href="/hyperos/corot/stable/OS1.0.8.0.UMLTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UMLTWXM</td><td>14.0</td><td>5.8 GB</td><td>2024-08-13</td><td><a href="/hyperos/corot/stable/OS1.0.8.0.UMLTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.9.0.UMLTWXM</td><td>14.0</td><td>5.8 GB</td><td>2024-10-12</td><td><a href="/hyperos/corot/stable beta/OS1.0.9.0.UMLTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
