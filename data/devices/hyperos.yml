@@ -504,6 +504,12 @@
   version: OS1.0.4.0.UMVCNXM
 - android: '14.0'
   codename: babylon
+  date: '2024-10-17'
+  download: https://bigota.d.miui.com/OS1.0.15.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.15.0.UMVCNXM_78ff136f1c_14.0.zip
+  name: MIX Fold 3
+  version: OS1.0.15.0.UMVCNXM
+- android: '14.0'
+  codename: babylon
   date: '2023-12-15'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.2.0.UMVCNXM_d95abfe6ba_14.0.zip
   name: MIX Fold 3
@@ -7762,6 +7768,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULRCNXM/fw_zizhan_miui_ZIZHAN_OS1.0.3.0.ULRCNXM_8d7d994eb5_14.0.zip
   name: Xiaomi MIX Fold 2
   version: OS1.0.3.0.ULRCNXM
+- android: '14.0'
+  codename: zizhan
+  date: '2024-10-17'
+  download: https://bigota.d.miui.com/OS1.0.12.0.ULRCNXM/fw_zizhan_miui_ZIZHAN_OS1.0.12.0.ULRCNXM_c86b8b4b07_14.0.zip
+  name: Xiaomi MIX Fold 2
+  version: OS1.0.12.0.ULRCNXM
 - android: '14.0'
   codename: zizhan
   date: '2024-06-11'
