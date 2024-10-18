@@ -6096,6 +6096,12 @@
   version: OS1.0.2.0.UKAINXM
 - android: '14.0'
   codename: star
+  date: '2024-10-18'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UKACNXM/fw_star_miui_STAR_OS1.0.6.0.UKACNXM_a9c4d97169_14.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: OS1.0.6.0.UKACNXM
+- android: '14.0'
+  codename: star
   date: '2024-07-16'
   download: https://bigota.d.miui.com/OS1.0.3.0.UKAINXM/fw_star_miui_STARINGlobal_OS1.0.3.0.UKAINXM_bf75dfbce6_14.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
