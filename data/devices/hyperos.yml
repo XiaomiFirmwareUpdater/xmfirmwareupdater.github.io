@@ -3708,6 +3708,12 @@
   version: OS1.0.5.0.UMPMIXM
 - android: '14.0'
   codename: moonstone
+  date: '2024-10-18'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMPEUXM/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.8.0.UMPEUXM_73058db79c_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.8.0.UMPEUXM
+- android: '14.0'
+  codename: moonstone
   date: '2024-02-18'
   download: https://bigota.d.miui.com/OS1.0.1.0.UMPEUXM/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.1.0.UMPEUXM_817ae3aaf2_14.0.zip
   name: POCO X5 5G
@@ -3784,6 +3790,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.ULMCNXM/fw_munch_miui_MUNCH_OS1.0.4.0.ULMCNXM_f1c69a25d9_14.0.zip
   name: Redmi K40S/POCO F4
   version: OS1.0.4.0.ULMCNXM
+- android: '14.0'
+  codename: munch
+  date: '2024-10-18'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULMINXM/fw_munch_miui_MUNCHINGlobal_OS1.0.5.0.ULMINXM_4d4515dc41_14.0.zip
+  name: Redmi K40S/POCO F4
+  version: OS1.0.5.0.ULMINXM
 - android: '14.0'
   codename: munch
   date: '2024-09-18'
