@@ -4410,6 +4410,24 @@
   version: OS1.0.2.0.UMZINXM
 - android: '14.0'
   codename: pipa
+  date: '2024-10-21'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UMZEUXM/fw_pipa_miui_PIPAEEAGlobal_OS1.0.10.0.UMZEUXM_03114f7b45_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.10.0.UMZEUXM
+- android: '14.0'
+  codename: pipa
+  date: '2024-10-21'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UMZMIXM/fw_pipa_miui_PIPAGlobal_OS1.0.12.0.UMZMIXM_c0c7848806_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.12.0.UMZMIXM
+- android: '14.0'
+  codename: pipa
+  date: '2024-10-21'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMZINXM/fw_pipa_miui_PIPAINGlobal_OS1.0.8.0.UMZINXM_02c2bf35c4_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.8.0.UMZINXM
+- android: '14.0'
+  codename: pipa
   date: '2024-03-21'
   download: https://bigota.d.miui.com/OS1.0.3.0.UMZINXM/fw_pipa_miui_PIPAINGlobal_OS1.0.3.0.UMZINXM_53efbe0084_14.0.zip
   name: Xiaomi Pad 6
@@ -5284,6 +5302,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMOCNXM/fw_ruby_miui_RUBY_OS1.0.3.0.UMOCNXM_c06e478636_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: OS1.0.3.0.UMOCNXM
+- android: '14.0'
+  codename: ruby
+  date: '2024-10-21'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UMOMIXM/fw_ruby_miui_RUBYGlobal_OS1.0.10.0.UMOMIXM_c519623b8b_14.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS1.0.10.0.UMOMIXM
 - android: '14.0'
   codename: ruby
   date: '2024-08-19'
@@ -7780,6 +7804,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.ULLMIXM/fw_ziyi_miui_ZIYIGlobal_OS1.0.6.0.ULLMIXM_053ff8ee40_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.6.0.ULLMIXM
+- android: '14.0'
+  codename: ziyi
+  date: '2024-10-21'
+  download: https://bigota.d.miui.com/OS1.0.9.0.ULLCNXM/fw_ziyi_miui_ZIYI_OS1.0.9.0.ULLCNXM_b696d580e9_14.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS1.0.9.0.ULLCNXM
 - android: '14.0'
   codename: ziyi
   date: '2024-05-21'
