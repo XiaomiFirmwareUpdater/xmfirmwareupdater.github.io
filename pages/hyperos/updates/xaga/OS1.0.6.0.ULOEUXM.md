@@ -3,7 +3,7 @@ title: Redmi Note 11T Pro / POCO X4 GT / Pro EEA HyperOS OS1.0.6.0.ULOEUXM Updat
 layout: download
 name: Redmi Note 11T Pro / POCO X4 GT / Pro EEA
 codename: xaga
-permalink: /hyperos/xaga/stable beta/OS1.0.6.0.ULOEUXM/
+permalink: /hyperos/xaga/stable/OS1.0.6.0.ULOEUXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/xaga/stable beta/OS1.0.6.0.ULOEUXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.6.0.ULOEUXM Stable Beta Official Update for Redmi Note 11T Pro / POCO X4 GT / Pro EEA (xaga)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.6.0.ULOEUXM Stable Official Update for Redmi Note 11T Pro / POCO X4 GT / Pro EEA (xaga)</h3>
     <h5>This page shows the OS1.0.6.0.ULOEUXM update only. If you're looking for other updates check
         <a href="/hyperos/xaga/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/xaga/stable beta/OS1.0.6.0.ULOEUXM/
                     <h5><b>Version: </b>OS1.0.6.0.ULOEUXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>7.1 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-09-23</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">xaga_eea_global_images_OS1.0.6.0.ULOEUXM_20240923.0000.00_14.0_eea_05fe4e8370.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">05fe4e83702368029e9306ec9d58bf93</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.ULOEUXM/xaga_eea_global_images_OS1.0.6.0.ULOEUXM_20240923.0000.00_14.0_eea_05fe4e8370.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.6.0.ULOEUXM/xaga_eea_global_images_OS1.0.6.0.ULOEUXM_20240923.0000.00_14.0_eea_05fe4e8370.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.6.0.ULOEUXM/xaga_eea_global_images_OS1.0.6.0.ULOEUXM_20240923.0000.00_14.0_eea_05fe4e8370.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.ULOEUXM/xaga_eea_global_images_OS1.0.6.0.ULOEUXM_20240923.0000.00_14.0_eea_05fe4e8370.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.6.0.ULOEUXM/xaga_eea_global_images_OS1.0.6.0.ULOEUXM_20240923.0000.00_14.0_eea_05fe4e8370.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#xaga_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="xaga_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="xaga_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to September 2024. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi Note 11T Pro / POCO X4 GT / Pro EEA</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/xaga/" target="_blank">xaga</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.6.0.ULOEUXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -74,10 +117,10 @@ permalink: /hyperos/xaga/stable beta/OS1.0.6.0.ULOEUXM/
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.ULOEUXM/miui-blockota-xaga_eea_global-OS1.0.5.0.ULOEUXM-OS1.0.6.0.ULOEUXM-da24ad08d5-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.ULOEUXM/miui_XAGAEEAGlobal_OS1.0.6.0.ULOEUXM_0f7dbb57ec_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.6.0.ULOEUXM/miui_XAGAEEAGlobal_OS1.0.6.0.ULOEUXM_0f7dbb57ec_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.6.0.ULOEUXM/miui_XAGAEEAGlobal_OS1.0.6.0.ULOEUXM_0f7dbb57ec_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.ULOEUXM/miui_XAGAEEAGlobal_OS1.0.6.0.ULOEUXM_0f7dbb57ec_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.6.0.ULOEUXM/miui_XAGAEEAGlobal_OS1.0.6.0.ULOEUXM_0f7dbb57ec_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#xaga_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="xaga_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#xaga_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="xaga_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="xaga_1_changelog">
+                    <div class="collapse" id="xaga_2_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to September 2024. Increased system security.</p>
                     </div>
                 </li>

@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-08-08'
+  date: '2024-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spes/releases/download/stable-08.08.2024/fw_spes_miui_SPESGlobal_OS1.0.7.0.TGCMIXM_91ee997f22_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/spes/fw_spes_miui_SPESGlobal_OS1.0.7.0.TGCMIXM_91ee997f22_13.0.zip
-  filename: fw_spes_miui_SPESGlobal_OS1.0.7.0.TGCMIXM_91ee997f22_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spes/releases/download/stable-21.10.2024/fw_spes_miui_SPESGlobal_OS1.0.8.0.TGCMIXM_953c1be1f4_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/spes/fw_spes_miui_SPESGlobal_OS1.0.8.0.TGCMIXM_953c1be1f4_13.0.zip
+  filename: fw_spes_miui_SPESGlobal_OS1.0.8.0.TGCMIXM_953c1be1f4_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: OS1.0.7.0.TGCMIXM
+    miui: OS1.0.8.0.TGCMIXM
 - branch: stable
   date: '2024-06-24'
   downloads:

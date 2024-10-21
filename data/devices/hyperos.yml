@@ -1422,6 +1422,18 @@
   version: OS1.0.2.0.UCVINXM
 - android: '14.0'
   codename: earth
+  date: '2024-10-21'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UCVEUXM/fw_earth_miui_EARTHEEAGlobal_OS1.0.6.0.UCVEUXM_6e5692bf52_14.0.zip
+  name: Redmi 12C/POCO C55
+  version: OS1.0.6.0.UCVEUXM
+- android: '14.0'
+  codename: earth
+  date: '2024-10-21'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UCVMIXM/fw_earth_miui_EARTHGlobal_OS1.0.7.0.UCVMIXM_f673a65dd4_14.0.zip
+  name: Redmi 12C/POCO C55
+  version: OS1.0.7.0.UCVMIXM
+- android: '14.0'
+  codename: earth
   date: '2024-05-20'
   download: https://bigota.d.miui.com/OS1.0.4.0.UCVINXM/fw_earth_miui_EARTHINGlobal_OS1.0.4.0.UCVINXM_daadda12eb_14.0.zip
   name: Redmi 12C/POCO C55
@@ -6046,6 +6058,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.TGCINXM/fw_spes_miui_SPESINGlobal_OS1.0.2.0.TGCINXM_f57d472765_13.0.zip
   name: Redmi Note 11
   version: OS1.0.2.0.TGCINXM
+- android: '13.0'
+  codename: spes
+  date: '2024-10-21'
+  download: https://bigota.d.miui.com/OS1.0.8.0.TGCMIXM/fw_spes_miui_SPESGlobal_OS1.0.8.0.TGCMIXM_953c1be1f4_13.0.zip
+  name: Redmi Note 11
+  version: OS1.0.8.0.TGCMIXM
 - android: '13.0'
   codename: spes
   date: '2024-06-17'
