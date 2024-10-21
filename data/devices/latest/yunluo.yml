@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-08-06'
+  date: '2024-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-06.08.2024/fw_yunluo_miui_YUNLUOGlobal_OS1.0.4.0.ULYMIXM_a7474dc3be_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yunluo/fw_yunluo_miui_YUNLUOGlobal_OS1.0.4.0.ULYMIXM_a7474dc3be_14.0.zip
-  filename: fw_yunluo_miui_YUNLUOGlobal_OS1.0.4.0.ULYMIXM_a7474dc3be_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-21.10.2024/fw_yunluo_miui_YUNLUOGlobal_OS1.0.6.0.ULYMIXM_c0b6289872_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yunluo/fw_yunluo_miui_YUNLUOGlobal_OS1.0.6.0.ULYMIXM_c0b6289872_14.0.zip
+  filename: fw_yunluo_miui_YUNLUOGlobal_OS1.0.6.0.ULYMIXM_c0b6289872_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.ULYMIXM
+    miui: OS1.0.6.0.ULYMIXM
 - branch: stable
   date: '2024-09-16'
   downloads:
@@ -19,15 +19,15 @@
     android: '14.0'
     miui: OS1.0.7.0.ULYCNXM
 - branch: stable
-  date: '2024-08-24'
+  date: '2024-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-24.08.2024/fw_yunluo_miui_YUNLUOEEAGlobal_OS1.0.5.0.ULYEUXM_60f26021e6_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yunluo/fw_yunluo_miui_YUNLUOEEAGlobal_OS1.0.5.0.ULYEUXM_60f26021e6_14.0.zip
-  filename: fw_yunluo_miui_YUNLUOEEAGlobal_OS1.0.5.0.ULYEUXM_60f26021e6_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-21.10.2024/fw_yunluo_miui_YUNLUOEEAGlobal_OS1.0.8.0.ULYEUXM_cd79b792b9_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yunluo/fw_yunluo_miui_YUNLUOEEAGlobal_OS1.0.8.0.ULYEUXM_cd79b792b9_14.0.zip
+  filename: fw_yunluo_miui_YUNLUOEEAGlobal_OS1.0.8.0.ULYEUXM_cd79b792b9_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.ULYEUXM
+    miui: OS1.0.8.0.ULYEUXM
 - branch: stable
   date: '2024-09-16'
   downloads:

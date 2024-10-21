@@ -1218,6 +1218,12 @@
   version: OS1.0.18.0.UNLCNXM
 - android: '14.0'
   codename: duchamp
+  date: '2024-10-21'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UNLMIXM/fw_duchamp_miui_DUCHAMPGlobal_OS1.0.13.0.UNLMIXM_36338c4caa_14.0.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS1.0.13.0.UNLMIXM
+- android: '14.0'
+  codename: duchamp
   date: '2024-09-20'
   download: https://bigota.d.miui.com/OS1.0.11.0.UNLEUXM/fw_duchamp_miui_DUCHAMPEEAGlobal_OS1.0.11.0.UNLEUXM_bea98a5b2e_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
@@ -1762,6 +1768,18 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.TKEEUXM/fw_fleur_miui_FLEUREEAGlobal_OS1.0.5.0.TKEEUXM_a2eac29e3b_13.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: OS1.0.5.0.TKEEUXM
+- android: '13.0'
+  codename: fleur
+  date: '2024-10-21'
+  download: https://bigota.d.miui.com/OS1.0.5.0.TKEMIXM/fw_fleur_miui_FLEURGlobal_OS1.0.5.0.TKEMIXM_254e9cebb7_13.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: OS1.0.5.0.TKEMIXM
+- android: '13.0'
+  codename: fleur
+  date: '2024-10-21'
+  download: https://bigota.d.miui.com/OS1.0.7.0.TKEINXM/fw_fleur_miui_FLEURINGlobal_OS1.0.7.0.TKEINXM_a9cffe7eb6_13.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: OS1.0.7.0.TKEINXM
 - android: '13.0'
   codename: fleur
   date: '2024-07-19'
@@ -2532,6 +2550,12 @@
   version: OS1.0.12.0.UNCMIXM
 - android: '14.0'
   codename: houji
+  date: '2024-10-21'
+  download: https://bigota.d.miui.com/OS1.0.15.0.UNCMIXM/fw_houji_miui_HOUJIGlobal_OS1.0.15.0.UNCMIXM_17e1f93655_14.0.zip
+  name: Xiaomi 14
+  version: OS1.0.15.0.UNCMIXM
+- android: '14.0'
+  codename: houji
   date: '2024-06-18'
   download: https://bigota.d.miui.com/OS1.0.8.0.UNCINXM/fw_houji_miui_HOUJIINGlobal_OS1.0.8.0.UNCINXM_192dd038d6_14.0.zip
   name: Xiaomi 14
@@ -3054,6 +3078,12 @@
   version: OS1.0.1.0.UKOCNXM
 - android: '14.0'
   codename: lisa
+  date: '2024-10-21'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UKOCNXM/fw_lisa_miui_LISA_OS1.0.6.0.UKOCNXM_137f413651_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.6.0.UKOCNXM
+- android: '14.0'
+  codename: lisa
   date: '2024-08-19'
   download: https://bigota.d.miui.com/OS1.0.5.0.UKOMIXM/fw_lisa_miui_LISAGlobal_OS1.0.5.0.UKOMIXM_5bb7b78a99_14.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
@@ -3496,6 +3526,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UMNCNXM/fw_mondrian_miui_MONDRIAN_OS1.0.6.0.UMNCNXM_132cb79b18_14.0.zip
   name: Redmi K60/POCO F5 Pro
   version: OS1.0.6.0.UMNCNXM
+- android: '14.0'
+  codename: mondrian
+  date: '2024-10-21'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UMNMIXM/fw_mondrian_miui_MONDRIANGlobal_OS1.0.10.0.UMNMIXM_c4e529f742_14.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS1.0.10.0.UMNMIXM
 - android: '14.0'
   codename: mondrian
   date: '2023-12-19'
@@ -4950,6 +4986,12 @@
   version: OS1.0.6.0.ULUINXM
 - android: '14.0'
   codename: rock
+  date: '2024-10-21'
+  download: https://bigota.d.miui.com/OS1.0.12.0.ULUMIXM/fw_rock_miui_ROCKGlobal_OS1.0.12.0.ULUMIXM_0bb9c204ce_14.0.zip
+  name: POCO M5/Redmi 11 Prime 4G
+  version: OS1.0.12.0.ULUMIXM
+- android: '14.0'
+  codename: rock
   date: '2024-05-20'
   download: https://bigota.d.miui.com/OS1.0.9.0.ULUMIXM/fw_rock_miui_ROCKGlobal_OS1.0.9.0.ULUMIXM_3bdf63edd0_14.0.zip
   name: POCO M5/Redmi 11 Prime 4G
@@ -6228,6 +6270,18 @@
   version: OS1.0.2.0.UMQMIXM
 - android: '14.0'
   codename: sunstone
+  date: '2024-10-21'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMQMIXM/fw_sunstone_miui_SUNSTONEGlobal_OS1.0.8.0.UMQMIXM_80b005cf22_14.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: OS1.0.8.0.UMQMIXM
+- android: '14.0'
+  codename: sunstone
+  date: '2024-10-21'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMQINXM/fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.5.0.UMQINXM_a8a7bc6ef7_14.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: OS1.0.5.0.UMQINXM
+- android: '14.0'
+  codename: sunstone
   date: '2024-04-19'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMQMIXM/fw_sunstone_miui_SUNSTONEGlobal_OS1.0.4.0.UMQMIXM_fec8dcde2d_14.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
@@ -6544,6 +6598,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.ULECNXM/fw_unicorn_miui_UNICORN_OS1.0.6.0.ULECNXM_5d9af68939_14.0.zip
   name: Xiaomi 12S Pro
   version: OS1.0.6.0.ULECNXM
+- android: '14.0'
+  codename: unicorn
+  date: '2024-10-21'
+  download: https://bigota.d.miui.com/OS1.0.10.0.ULECNXM/fw_unicorn_miui_UNICORN_OS1.0.10.0.ULECNXM_a5cafe3463_14.0.zip
+  name: Xiaomi 12S Pro
+  version: OS1.0.10.0.ULECNXM
 - android: '14.0'
   codename: unicorn
   date: '2024-08-20'
@@ -7288,6 +7348,18 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.ULYINXM/fw_yunluo_miui_YUNLUOINGlobal_OS1.0.1.0.ULYINXM_cf81adb252_14.0.zip
   name: Redmi Pad
   version: OS1.0.1.0.ULYINXM
+- android: '14.0'
+  codename: yunluo
+  date: '2024-10-21'
+  download: https://bigota.d.miui.com/OS1.0.8.0.ULYEUXM/fw_yunluo_miui_YUNLUOEEAGlobal_OS1.0.8.0.ULYEUXM_cd79b792b9_14.0.zip
+  name: Redmi Pad
+  version: OS1.0.8.0.ULYEUXM
+- android: '14.0'
+  codename: yunluo
+  date: '2024-10-21'
+  download: https://bigota.d.miui.com/OS1.0.6.0.ULYMIXM/fw_yunluo_miui_YUNLUOGlobal_OS1.0.6.0.ULYMIXM_c0b6289872_14.0.zip
+  name: Redmi Pad
+  version: OS1.0.6.0.ULYMIXM
 - android: '14.0'
   codename: yunluo
   date: '2024-06-18'
