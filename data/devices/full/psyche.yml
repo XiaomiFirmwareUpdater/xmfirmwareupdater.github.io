@@ -59,6 +59,26 @@
     android: '13.0'
     miui: OS1.0.3.0.TLDCNXM
 - branch: stable
+  date: '2024-10-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-22.10.2024/fw_psyche_miui_PSYCHEGlobal_OS1.0.6.0.TLDMIXM_ca01b78cad_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/psyche/fw_psyche_miui_PSYCHEGlobal_OS1.0.6.0.TLDMIXM_ca01b78cad_13.0.zip
+  filename: fw_psyche_miui_PSYCHEGlobal_OS1.0.6.0.TLDMIXM_ca01b78cad_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: OS1.0.6.0.TLDMIXM
+- branch: stable
+  date: '2024-10-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-22.10.2024/fw_psyche_miui_PSYCHE_OS1.0.10.0.TLDCNXM_4bdc919500_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/psyche/fw_psyche_miui_PSYCHE_OS1.0.10.0.TLDCNXM_4bdc919500_13.0.zip
+  filename: fw_psyche_miui_PSYCHE_OS1.0.10.0.TLDCNXM_4bdc919500_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: OS1.0.10.0.TLDCNXM
+- branch: stable
   date: '2022-08-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-22.08.2022/fw_psyche_miui_PSYCHEEEAGlobal_V13.0.5.0.SLDEUXM_5df7c9d2cf_12.0.zip

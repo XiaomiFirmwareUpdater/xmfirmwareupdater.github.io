@@ -2070,6 +2070,12 @@
   version: OS1.0.8.0.UNRCNXM
 - android: '14.0'
   codename: garnet
+  date: '2024-10-22'
+  download: https://bigota.d.miui.com/OS1.0.14.0.UNRMIXM/fw_garnet_miui_GARNETGlobal_OS1.0.14.0.UNRMIXM_399c6b2c5d_14.0.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS1.0.14.0.UNRMIXM
+- android: '14.0'
+  codename: garnet
   date: '2024-06-21'
   download: https://bigota.d.miui.com/OS1.0.9.0.UNRMIXM/fw_garnet_miui_GARNETGlobal_OS1.0.9.0.UNRMIXM_080d2b9243_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
@@ -2554,6 +2560,12 @@
   download: https://bigota.d.miui.com/OS1.0.38.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.38.0.UNCCNXM_89a9ce40ec_14.0.zip
   name: Xiaomi 14
   version: OS1.0.38.0.UNCCNXM
+- android: '14.0'
+  codename: houji
+  date: '2024-10-22'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UNCINXM/fw_houji_miui_HOUJIINGlobal_OS1.0.12.0.UNCINXM_0264b26dba_14.0.zip
+  name: Xiaomi 14
+  version: OS1.0.12.0.UNCINXM
 - android: '14.0'
   codename: houji
   date: '2024-10-22'
@@ -4762,6 +4774,18 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.TLDCNXM/fw_psyche_miui_PSYCHE_OS1.0.3.0.TLDCNXM_254eae0105_13.0.zip
   name: Xiaomi 12X
   version: OS1.0.3.0.TLDCNXM
+- android: '13.0'
+  codename: psyche
+  date: '2024-10-22'
+  download: https://bigota.d.miui.com/OS1.0.6.0.TLDMIXM/fw_psyche_miui_PSYCHEGlobal_OS1.0.6.0.TLDMIXM_ca01b78cad_13.0.zip
+  name: Xiaomi 12X
+  version: OS1.0.6.0.TLDMIXM
+- android: '13.0'
+  codename: psyche
+  date: '2024-10-22'
+  download: https://bigota.d.miui.com/OS1.0.10.0.TLDCNXM/fw_psyche_miui_PSYCHE_OS1.0.10.0.TLDCNXM_4bdc919500_13.0.zip
+  name: Xiaomi 12X
+  version: OS1.0.10.0.TLDCNXM
 - android: '13.0'
   codename: psyche
   date: '2024-08-20'
