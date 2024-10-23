@@ -1,16 +1,16 @@
 ---
-title: Redmi K70 Ultra China HyperOS OS1.0.27.0.UNNCNXM Update
+title: Redmi K70 Ultra China HyperOS OS1.0.29.0.UNNCNXM Update
 layout: download
 name: Redmi K70 Ultra China
 codename: rothko
-permalink: /hyperos/rothko/stable/OS1.0.27.0.UNNCNXM/
+permalink: /hyperos/rothko/stable/OS1.0.29.0.UNNCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/rothko/">Redmi K70 Ultra China</a></li>
-        <li class="breadcrumb-item active" aria-current="page">OS1.0.27.0.UNNCNXM</li>
+        <li class="breadcrumb-item active" aria-current="page">OS1.0.29.0.UNNCNXM</li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -21,8 +21,8 @@ permalink: /hyperos/rothko/stable/OS1.0.27.0.UNNCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.27.0.UNNCNXM Stable Official Update for Redmi K70 Ultra China (rothko)</h3>
-    <h5>This page shows the OS1.0.27.0.UNNCNXM update only. If you're looking for other updates check
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.29.0.UNNCNXM Stable Official Update for Redmi K70 Ultra China (rothko)</h3>
+    <h5>This page shows the OS1.0.29.0.UNNCNXM update only. If you're looking for other updates check
         <a href="/hyperos/rothko/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
         It's not owned, modified or edited by XM Firmware Updater.</p>
@@ -50,35 +50,35 @@ permalink: /hyperos/rothko/stable/OS1.0.27.0.UNNCNXM/
                     <h5><b>Codename: </b> <a href="/hyperos/rothko/" target="_blank">rothko</a> </h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS1.0.27.0.UNNCNXM</h5>
+                    <h5><b>Version: </b>OS1.0.29.0.UNNCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>9.1 GB</h5>
+                    <h5><b>Size: </b>7.0 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-09-12</h5>
+                    <h5><b>Release Date: </b>2024-10-14</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">rothko_images_OS1.0.27.0.UNNCNXM_20240912.0000.00_14.0_cn_5372a56abd.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_ROTHKO_OS1.0.29.0.UNNCNXM_635dd68c27_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">5372a56abd8a6064fe4b05c61b3308ba</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">Unknown</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.27.0.UNNCNXM/rothko_images_OS1.0.27.0.UNNCNXM_20240912.0000.00_14.0_cn_5372a56abd.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.27.0.UNNCNXM/rothko_images_OS1.0.27.0.UNNCNXM_20240912.0000.00_14.0_cn_5372a56abd.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.27.0.UNNCNXM/rothko_images_OS1.0.27.0.UNNCNXM_20240912.0000.00_14.0_cn_5372a56abd.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.27.0.UNNCNXM/rothko_images_OS1.0.27.0.UNNCNXM_20240912.0000.00_14.0_cn_5372a56abd.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.27.0.UNNCNXM/rothko_images_OS1.0.27.0.UNNCNXM_20240912.0000.00_14.0_cn_5372a56abd.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.29.0.UNNCNXM/miui_ROTHKO_OS1.0.29.0.UNNCNXM_635dd68c27_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.29.0.UNNCNXM/miui_ROTHKO_OS1.0.29.0.UNNCNXM_635dd68c27_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.29.0.UNNCNXM/miui_ROTHKO_OS1.0.29.0.UNNCNXM_635dd68c27_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.29.0.UNNCNXM/miui_ROTHKO_OS1.0.29.0.UNNCNXM_635dd68c27_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.29.0.UNNCNXM/miui_ROTHKO_OS1.0.29.0.UNNCNXM_635dd68c27_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#rothko_1_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="rothko_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="rothko_1_changelog">
-                        <p id="changelog_text">[Highlights]<br>Optimization: Wi-Fi router connectivity for specific scenarios<br>Optimization: Power consumption and overall experience for top games<br>Optimization: Performance and experience adjustments for short videos<br>Optimization: Battery health management<br>Optimization: Improved video synchronization strategy to enhance playback smoothness<br>Fix: Compatibility issues with wireless tethering<br>Fix: Compatibility issues for some types of networks<br>[System]<br>Updated the security patch to August 2024. Increased system security.</p>
+                        <p id="changelog_text">Bug fixes and system optimizations.</p>
                     </div>
                 </li>
             </ul>
