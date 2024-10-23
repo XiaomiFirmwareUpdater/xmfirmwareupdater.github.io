@@ -3552,6 +3552,12 @@
   version: OS1.0.2.0.UMNMIXM
 - android: '14.0'
   codename: mondrian
+  date: '2024-10-23'
+  download: https://bigota.d.miui.com/OS1.0.14.0.UMNCNXM/fw_mondrian_miui_MONDRIAN_OS1.0.14.0.UMNCNXM_9e16fa6bce_14.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS1.0.14.0.UMNCNXM
+- android: '14.0'
+  codename: mondrian
   date: '2024-02-23'
   download: https://bigota.d.miui.com/OS1.0.3.0.UMNMIXM/fw_mondrian_miui_MONDRIANGlobal_OS1.0.3.0.UMNMIXM_67c9d14491_14.0.zip
   name: Redmi K60/POCO F5 Pro
