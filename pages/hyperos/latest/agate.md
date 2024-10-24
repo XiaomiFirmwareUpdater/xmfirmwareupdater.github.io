@@ -54,9 +54,8 @@ permalink: /hyperos/agate/
                 <tbody>
                 <tr><td>Xiaomi 11T EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UKWEUXM</td><td>14.0</td><td>6.2 GB</td><td>2024-09-26</td><td><a href="/hyperos/agate/stable/OS1.0.6.0.UKWEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UKWEUXM</td><td>14.0</td><td>4.9 GB</td><td>2024-10-09</td><td><a href="/hyperos/agate/stable/OS1.0.6.0.UKWEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11T Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UKWMIXM</td><td>14.0</td><td>6.5 GB</td><td>2024-08-15</td><td><a href="/hyperos/agate/stable/OS1.0.6.0.UKWMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11T Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UKWMIXM</td><td>14.0</td><td>5.0 GB</td><td>2024-09-06</td><td><a href="/hyperos/agate/stable/OS1.0.6.0.UKWMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11T Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.UKWMIXM</td><td>14.0</td><td>5.0 GB</td><td>2024-10-09</td><td><a href="/hyperos/agate/stable beta/OS1.0.7.0.UKWMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UKWMIXM</td><td>14.0</td><td>6.5 GB</td><td>2024-09-26</td><td><a href="/hyperos/agate/stable/OS1.0.7.0.UKWMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UKWMIXM</td><td>14.0</td><td>5.0 GB</td><td>2024-10-09</td><td><a href="/hyperos/agate/stable/OS1.0.7.0.UKWMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UKWIDXM</td><td>14.0</td><td>6.2 GB</td><td>2024-09-06</td><td><a href="/hyperos/agate/stable/OS1.0.4.0.UKWIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UKWIDXM</td><td>14.0</td><td>4.9 GB</td><td>2024-09-14</td><td><a href="/hyperos/agate/stable/OS1.0.4.0.UKWIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UKWRUXM</td><td>14.0</td><td>6.1 GB</td><td>2024-09-10</td><td><a href="/hyperos/agate/stable/OS1.0.5.0.UKWRUXM/">Download</a></td></tr>

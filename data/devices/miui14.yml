@@ -5454,6 +5454,12 @@
   version: V14.0.10.0.TGOEUXM
 - android: '13.0'
   codename: water
+  date: '2024-10-24'
+  download: https://bigota.d.miui.com/V14.0.18.0.TGOINXM/fw_water_miui_WATERINGlobal_V14.0.18.0.TGOINXM_95e49b28fb_13.0.zip
+  name: Redmi A2/A2+/POCO C51
+  version: V14.0.18.0.TGOINXM
+- android: '13.0'
+  codename: water
   date: '2023-10-24'
   download: https://bigota.d.miui.com/V14.0.21.0.TGOMIXM/fw_water_miui_WATERGlobal_V14.0.21.0.TGOMIXM_ab082058d5_13.0.zip
   name: Redmi A2/A2+/POCO C51
