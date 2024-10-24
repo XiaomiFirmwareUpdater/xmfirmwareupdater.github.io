@@ -38,7 +38,6 @@ odin: MIX 4
 opal: Redmi Note 11S 5G
 peridot: Redmi Turbo 3/POCO F6
 pipa: Xiaomi Pad 6
-plato: Xiaomi 12T
 psyche: Xiaomi 12X
 rembrandt: Redmi K60E
 rock: POCO M5/Redmi 11 Prime 4G
@@ -49,6 +48,7 @@ sapphire: Redmi Note 13
 sapphiren: Redmi Note 13 NFC
 sheng: Xiaomi Pad 6S Pro 12.4
 shennong: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
+socrates: Redmi K60 Pro
 spark: Redmi Pad SE 8.7 4G
 spes: Redmi Note 11
 star: Mi 11 Pro/Ultra/Mi 11 Ultra
@@ -67,4 +67,3 @@ zeus: Xiaomi 12 Pro
 zijin: Xiaomi Civi 1S
 zircon: Redmi Note 13 Pro+ 5G
 ziyi: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
-zizhan: Xiaomi MIX Fold 2
