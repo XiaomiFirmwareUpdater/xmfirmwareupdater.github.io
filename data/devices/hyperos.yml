@@ -5628,6 +5628,18 @@
   version: OS1.0.7.0.UHZEUXM
 - android: '14.0'
   codename: sea
+  date: '2024-10-25'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UHZEUXM/fw_sea_miui_SEAEEAGlobal_OS1.0.10.0.UHZEUXM_69cd0c4140_14.0.zip
+  name: Redmi Note 12S
+  version: OS1.0.10.0.UHZEUXM
+- android: '14.0'
+  codename: sea
+  date: '2024-10-25'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UHZMIXM/fw_sea_miui_SEAGlobal_OS1.0.11.0.UHZMIXM_e1fd4e0c6d_14.0.zip
+  name: Redmi Note 12S
+  version: OS1.0.11.0.UHZMIXM
+- android: '14.0'
+  codename: sea
   date: '2024-09-23'
   download: https://bigota.d.miui.com/OS1.0.10.0.UHZMIXM/fw_sea_miui_SEAGlobal_OS1.0.10.0.UHZMIXM_c11cc655f6_14.0.zip
   name: Redmi Note 12S
@@ -6972,6 +6984,18 @@
   version: OS1.0.4.0.TKCCNXM
 - android: '13.0'
   codename: veux
+  date: '2024-10-25'
+  download: https://bigota.d.miui.com/OS1.0.9.0.TKCMIXM/fw_veux_miui_VEUXGlobal_OS1.0.9.0.TKCMIXM_46bb03feef_13.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: OS1.0.9.0.TKCMIXM
+- android: '13.0'
+  codename: veux
+  date: '2024-10-25'
+  download: https://bigota.d.miui.com/OS1.0.6.0.TKCINXM/fw_veux_miui_VEUXINGlobal_OS1.0.6.0.TKCINXM_1eec986c85_13.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: OS1.0.6.0.TKCINXM
+- android: '13.0'
+  codename: veux
   date: '2024-08-23'
   download: https://bigota.d.miui.com/OS1.0.4.0.TKCEUXM/fw_veux_miui_VEUXEEAGlobal_OS1.0.4.0.TKCEUXM_9aef24c7f3_13.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
@@ -7318,6 +7342,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UMUCNXM/fw_xun_miui_XUN_OS1.0.6.0.UMUCNXM_b30d1780e9_14.0.zip
   name: Redmi Pad SE
   version: OS1.0.6.0.UMUCNXM
+- android: '14.0'
+  codename: xun
+  date: '2024-10-25'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMUMIXM/fw_xun_miui_XUNGlobal_OS1.0.4.0.UMUMIXM_b6eda7b271_14.0.zip
+  name: Redmi Pad SE
+  version: OS1.0.4.0.UMUMIXM
 - android: '14.0'
   codename: xun
   date: '2024-08-20'
