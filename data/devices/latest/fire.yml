@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-08-26'
+  date: '2024-10-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-26.08.2024/fw_fire_miui_FIREGlobal_OS1.0.7.0.UMXMIXM_4554eded8d_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fire/fw_fire_miui_FIREGlobal_OS1.0.7.0.UMXMIXM_4554eded8d_14.0.zip
-  filename: fw_fire_miui_FIREGlobal_OS1.0.7.0.UMXMIXM_4554eded8d_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-25.10.2024/fw_fire_miui_FIREGlobal_OS1.0.8.0.UMXMIXM_25bc31067f_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fire/fw_fire_miui_FIREGlobal_OS1.0.8.0.UMXMIXM_25bc31067f_14.0.zip
+  filename: fw_fire_miui_FIREGlobal_OS1.0.8.0.UMXMIXM_25bc31067f_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.7.0.UMXMIXM
+    miui: OS1.0.8.0.UMXMIXM
 - branch: stable
   date: '2024-08-23'
   downloads:

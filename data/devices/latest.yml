@@ -1669,15 +1669,15 @@
     android: '12.0'
     miui: V14.0.2.0.SJXINXM
 - branch: stable
-  date: '2024-08-26'
+  date: '2024-10-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-26.08.2024/fw_fire_miui_FIREGlobal_OS1.0.7.0.UMXMIXM_4554eded8d_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fire/fw_fire_miui_FIREGlobal_OS1.0.7.0.UMXMIXM_4554eded8d_14.0.zip
-  filename: fw_fire_miui_FIREGlobal_OS1.0.7.0.UMXMIXM_4554eded8d_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-25.10.2024/fw_fire_miui_FIREGlobal_OS1.0.8.0.UMXMIXM_25bc31067f_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fire/fw_fire_miui_FIREGlobal_OS1.0.8.0.UMXMIXM_25bc31067f_14.0.zip
+  filename: fw_fire_miui_FIREGlobal_OS1.0.8.0.UMXMIXM_25bc31067f_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.7.0.UMXMIXM
+    miui: OS1.0.8.0.UMXMIXM
 - branch: stable
   date: '2024-08-23'
   downloads:
@@ -2419,15 +2419,15 @@
     android: '14.0'
     miui: OS1.0.12.0.UMAMIXM
 - branch: stable
-  date: '2024-09-20'
+  date: '2024-10-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-20.09.2024/fw_ishtar_miui_ISHTAR_OS1.0.16.0.UMACNXM_579dd9cbfa_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ishtar/fw_ishtar_miui_ISHTAR_OS1.0.16.0.UMACNXM_579dd9cbfa_14.0.zip
-  filename: fw_ishtar_miui_ISHTAR_OS1.0.16.0.UMACNXM_579dd9cbfa_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-25.10.2024/fw_ishtar_miui_ISHTAR_OS1.0.17.0.UMACNXM_f2bedf1aeb_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ishtar/fw_ishtar_miui_ISHTAR_OS1.0.17.0.UMACNXM_f2bedf1aeb_14.0.zip
+  filename: fw_ishtar_miui_ISHTAR_OS1.0.17.0.UMACNXM_f2bedf1aeb_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.16.0.UMACNXM
+    miui: OS1.0.17.0.UMACNXM
 - branch: stable
   date: '2024-10-12'
   downloads:
@@ -3379,15 +3379,15 @@
     android: '14.0'
     miui: OS1.0.6.0.UNTEUXM
 - branch: stable
-  date: '2024-10-09'
+  date: '2024-10-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-09.10.2024/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.9.0.UMPMIXM_3bd8567737_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moonstone/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.9.0.UMPMIXM_3bd8567737_14.0.zip
-  filename: fw_moonstone_miui_MOONSTONEGlobal_OS1.0.9.0.UMPMIXM_3bd8567737_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-25.10.2024/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.10.0.UMPMIXM_41f6d80e78_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moonstone/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.10.0.UMPMIXM_41f6d80e78_14.0.zip
+  filename: fw_moonstone_miui_MOONSTONEGlobal_OS1.0.10.0.UMPMIXM_41f6d80e78_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.9.0.UMPMIXM
+    miui: OS1.0.10.0.UMPMIXM
 - branch: stable
   date: '2024-10-18'
   downloads:
@@ -3399,15 +3399,15 @@
     android: '14.0'
     miui: OS1.0.8.0.UMPEUXM
 - branch: stable
-  date: '2024-10-09'
+  date: '2024-10-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-09.10.2024/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.7.0.UMPINXM_06876b2d49_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moonstone/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.7.0.UMPINXM_06876b2d49_14.0.zip
-  filename: fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.7.0.UMPINXM_06876b2d49_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-25.10.2024/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.8.0.UMPINXM_8aff7fbdfa_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moonstone/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.8.0.UMPINXM_8aff7fbdfa_14.0.zip
+  filename: fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.8.0.UMPINXM_8aff7fbdfa_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.7.0.UMPINXM
+    miui: OS1.0.8.0.UMPINXM
 - branch: stable
   date: '2024-09-19'
   downloads:
@@ -6029,15 +6029,15 @@
     android: '13.0'
     miui: OS1.0.3.0.TGDEUXM
 - branch: stable
-  date: '2024-08-10'
+  date: '2024-10-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-10.08.2024/fw_water_miui_WATERGlobal_V14.0.29.0.TGOMIXM_1bb20691f1_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERGlobal_V14.0.29.0.TGOMIXM_1bb20691f1_13.0.zip
-  filename: fw_water_miui_WATERGlobal_V14.0.29.0.TGOMIXM_1bb20691f1_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-25.10.2024/fw_water_miui_WATERGlobal_V14.0.35.0.TGOMIXM_3ab0e5424a_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERGlobal_V14.0.35.0.TGOMIXM_3ab0e5424a_13.0.zip
+  filename: fw_water_miui_WATERGlobal_V14.0.35.0.TGOMIXM_3ab0e5424a_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.29.0.TGOMIXM
+    miui: V14.0.35.0.TGOMIXM
 - branch: stable
   date: '2024-10-23'
   downloads:

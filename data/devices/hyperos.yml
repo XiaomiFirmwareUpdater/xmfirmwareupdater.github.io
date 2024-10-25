@@ -1650,6 +1650,12 @@
   version: OS1.0.7.0.UMXMIXM
 - android: '14.0'
   codename: fire
+  date: '2024-10-25'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMXMIXM/fw_fire_miui_FIREGlobal_OS1.0.8.0.UMXMIXM_25bc31067f_14.0.zip
+  name: Redmi 12
+  version: OS1.0.8.0.UMXMIXM
+- android: '14.0'
+  codename: fire
   date: '2024-06-24'
   download: https://bigota.d.miui.com/OS1.0.8.0.UMXEUXM/fw_fire_miui_FIREEEAGlobal_OS1.0.8.0.UMXEUXM_dd2e8c264e_14.0.zip
   name: Redmi 12
@@ -2856,6 +2862,12 @@
   version: OS1.0.11.0.UMAEUXM
 - android: '14.0'
   codename: ishtar
+  date: '2024-10-25'
+  download: https://bigota.d.miui.com/OS1.0.17.0.UMACNXM/fw_ishtar_miui_ISHTAR_OS1.0.17.0.UMACNXM_f2bedf1aeb_14.0.zip
+  name: Xiaomi 13 Ultra
+  version: OS1.0.17.0.UMACNXM
+- android: '14.0'
+  codename: ishtar
   date: '2024-06-25'
   download: https://bigota.d.miui.com/OS1.0.7.0.UMAMIXM/fw_ishtar_miui_ISHTARGlobal_OS1.0.7.0.UMAMIXM_4162714934_14.0.zip
   name: Xiaomi 13 Ultra
@@ -3754,6 +3766,18 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UMPEUXM/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.7.0.UMPEUXM_121921bc80_14.0.zip
   name: POCO X5 5G
   version: OS1.0.7.0.UMPEUXM
+- android: '14.0'
+  codename: moonstone
+  date: '2024-10-25'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UMPMIXM/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.10.0.UMPMIXM_41f6d80e78_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.10.0.UMPMIXM
+- android: '14.0'
+  codename: moonstone
+  date: '2024-10-25'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMPINXM/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.8.0.UMPINXM_8aff7fbdfa_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.8.0.UMPINXM
 - android: '14.0'
   codename: moonstone
   date: '2024-06-24'
