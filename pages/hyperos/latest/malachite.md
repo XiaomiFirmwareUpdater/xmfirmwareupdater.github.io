@@ -54,6 +54,7 @@ permalink: /hyperos/malachite/
                 <tbody>
                 <tr><td>Redmi Note 14 Pro 5G / POCO X7 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UOOCNXM</td><td>14.0</td><td>8.4 GB</td><td>2024-09-27</td><td><a href="/hyperos/malachite/stable/OS1.0.8.0.UOOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UOOCNXM</td><td>14.0</td><td>6.5 GB</td><td>2024-10-03</td><td><a href="/hyperos/malachite/stable/OS1.0.8.0.UOOCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro 5G / POCO X7 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.10.0.UOOCNXM</td><td>14.0</td><td>6.5 GB</td><td>2024-10-22</td><td><a href="/hyperos/malachite/stable beta/OS1.0.10.0.UOOCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

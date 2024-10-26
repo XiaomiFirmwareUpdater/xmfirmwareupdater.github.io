@@ -3252,6 +3252,12 @@
   version: OS1.0.7.0.UOOCNXM
 - android: '14.0'
   codename: malachite
+  date: '2024-10-26'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UOOCNXM/fw_malachite_miui_MALACHITE_OS1.0.10.0.UOOCNXM_ebaec547a8_14.0.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS1.0.10.0.UOOCNXM
+- android: '14.0'
+  codename: malachite
   date: '2024-10-03'
   download: https://bigota.d.miui.com/OS1.0.8.0.UOOCNXM/fw_malachite_miui_MALACHITE_OS1.0.8.0.UOOCNXM_b70842734a_14.0.zip
   name: Redmi Note 14 Pro 5G/POCO X7
