@@ -3,7 +3,7 @@ title: Xiaomi 12S Pro China HyperOS OS1.0.10.0.ULECNXM Update
 layout: download
 name: Xiaomi 12S Pro China
 codename: unicorn
-permalink: /hyperos/unicorn/stable beta/OS1.0.10.0.ULECNXM/
+permalink: /hyperos/unicorn/stable/OS1.0.10.0.ULECNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/unicorn/stable beta/OS1.0.10.0.ULECNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.10.0.ULECNXM Stable Beta Official Update for Xiaomi 12S Pro China (unicorn)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.10.0.ULECNXM Stable Official Update for Xiaomi 12S Pro China (unicorn)</h3>
     <h5>This page shows the OS1.0.10.0.ULECNXM update only. If you're looking for other updates check
         <a href="/hyperos/unicorn/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/unicorn/stable beta/OS1.0.10.0.ULECNXM/
                     <h5><b>Version: </b>OS1.0.10.0.ULECNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>7.6 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-10-10</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">unicorn_images_OS1.0.10.0.ULECNXM_20241010.0000.00_14.0_cn_cd766ff0ee.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">cd766ff0ee69ca8d4db70c372d5f2a99</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.10.0.ULECNXM/unicorn_images_OS1.0.10.0.ULECNXM_20241010.0000.00_14.0_cn_cd766ff0ee.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.10.0.ULECNXM/unicorn_images_OS1.0.10.0.ULECNXM_20241010.0000.00_14.0_cn_cd766ff0ee.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.10.0.ULECNXM/unicorn_images_OS1.0.10.0.ULECNXM_20241010.0000.00_14.0_cn_cd766ff0ee.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.10.0.ULECNXM/unicorn_images_OS1.0.10.0.ULECNXM_20241010.0000.00_14.0_cn_cd766ff0ee.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.10.0.ULECNXM/unicorn_images_OS1.0.10.0.ULECNXM_20241010.0000.00_14.0_cn_cd766ff0ee.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#unicorn_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="unicorn_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="unicorn_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to October 2024. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi 12S Pro China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/unicorn/" target="_blank">unicorn</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.10.0.ULECNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -74,10 +117,10 @@ permalink: /hyperos/unicorn/stable beta/OS1.0.10.0.ULECNXM/
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.10.0.ULECNXM/miui-blockota-unicorn-OS1.0.9.0.ULECNXM-OS1.0.10.0.ULECNXM-468a7a4862-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.10.0.ULECNXM/miui_UNICORN_OS1.0.10.0.ULECNXM_a5cafe3463_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.10.0.ULECNXM/miui_UNICORN_OS1.0.10.0.ULECNXM_a5cafe3463_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.10.0.ULECNXM/miui_UNICORN_OS1.0.10.0.ULECNXM_a5cafe3463_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.10.0.ULECNXM/miui_UNICORN_OS1.0.10.0.ULECNXM_a5cafe3463_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.10.0.ULECNXM/miui_UNICORN_OS1.0.10.0.ULECNXM_a5cafe3463_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#unicorn_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="unicorn_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#unicorn_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="unicorn_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="unicorn_1_changelog">
+                    <div class="collapse" id="unicorn_2_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to October 2024. Increased system security.</p>
                     </div>
                 </li>
