@@ -4872,6 +4872,12 @@
   version: OS1.0.8.0.ULQMIXM
 - android: '13.0'
   codename: psyche
+  date: '2024-10-28'
+  download: https://bigota.d.miui.com/OS1.0.7.0.TLDEUXM/fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.7.0.TLDEUXM_dc40f6ad9b_13.0.zip
+  name: Xiaomi 12X
+  version: OS1.0.7.0.TLDEUXM
+- android: '13.0'
+  codename: psyche
   date: '2024-09-27'
   download: https://bigota.d.miui.com/OS1.0.6.0.TLDEUXM/fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.6.0.TLDEUXM_88f0fa9db8_13.0.zip
   name: Xiaomi 12X
@@ -8044,6 +8050,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNOINXM/fw_zircon_miui_ZIRCONINGlobal_OS1.0.4.0.UNOINXM_a7be268d67_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.4.0.UNOINXM
+- android: '14.0'
+  codename: ziyi
+  date: '2024-10-28'
+  download: https://bigota.d.miui.com/OS1.0.9.0.ULLMIXM/fw_ziyi_miui_ZIYIGlobal_OS1.0.9.0.ULLMIXM_b6330e0438_14.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS1.0.9.0.ULLMIXM
 - android: '14.0'
   codename: ziyi
   date: '2024-05-27'
