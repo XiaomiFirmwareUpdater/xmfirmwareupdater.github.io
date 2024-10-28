@@ -79,6 +79,26 @@
     android: '14.0'
     miui: OS1.0.1.0.UMOMIXM
 - branch: stable
+  date: '2024-10-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-28.10.2024/fw_ruby_miui_RUBYINGlobal_OS1.0.7.0.UMOINXM_eec90313c5_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruby/fw_ruby_miui_RUBYINGlobal_OS1.0.7.0.UMOINXM_eec90313c5_14.0.zip
+  filename: fw_ruby_miui_RUBYINGlobal_OS1.0.7.0.UMOINXM_eec90313c5_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.7.0.UMOINXM
+- branch: stable
+  date: '2024-10-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-28.10.2024/fw_ruby_miui_RUBY_OS1.0.9.0.UMOCNXM_bd4eebe24e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruby/fw_ruby_miui_RUBY_OS1.0.9.0.UMOCNXM_bd4eebe24e_14.0.zip
+  filename: fw_ruby_miui_RUBY_OS1.0.9.0.UMOCNXM_bd4eebe24e_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.9.0.UMOCNXM
+- branch: stable
   date: '2023-11-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-27.11.2023/fw_ruby_miui_RUBYGlobal_V14.0.6.0.TMOMIXM_ce09b50573_13.0.zip
