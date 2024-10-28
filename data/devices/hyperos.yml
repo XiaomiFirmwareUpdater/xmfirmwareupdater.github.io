@@ -540,6 +540,12 @@
   version: OS1.0.3.0.UMVCNXM
 - android: '14.0'
   codename: beryl
+  date: '2024-10-28'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UOQCNXM/fw_beryl_miui_BERYL_OS1.0.3.0.UOQCNXM_96cb3b6017_14.0.zip
+  name: Redmi Note 14 5G
+  version: OS1.0.3.0.UOQCNXM
+- android: '14.0'
+  codename: beryl
   date: '2024-10-08'
   download: https://bigota.d.miui.com/OS1.0.2.0.UOQCNXM/fw_beryl_miui_BERYL_OS1.0.2.0.UOQCNXM_593961cbe2_14.0.zip
   name: Redmi Note 14 5G
@@ -580,6 +586,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UNUCNXM/fw_breeze_miui_BREEZE_OS1.0.7.0.UNUCNXM_81824c1da9_14.0.zip
   name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
   version: OS1.0.7.0.UNUCNXM
+- android: '14.0'
+  codename: chenfeng
+  date: '2024-10-28'
+  download: https://bigota.d.miui.com/OS1.0.17.0.UNJCNXM/fw_chenfeng_miui_CHENFENG_OS1.0.17.0.UNJCNXM_7d35f929ce_14.0.zip
+  name: Xiaomi Civi 4 Pro
+  version: OS1.0.17.0.UNJCNXM
 - android: '14.0'
   codename: chenfeng
   date: '2024-03-28'
@@ -982,6 +994,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNEEUXM/fw_degas_miui_DEGASEEAGlobal_OS1.0.4.0.UNEEUXM_de3482d8d7_14.0.zip
   name: Xiaomi 14T
   version: OS1.0.4.0.UNEEUXM
+- android: '14.0'
+  codename: diting
+  date: '2024-10-28'
+  download: https://bigota.d.miui.com/OS1.0.8.0.ULFMIXM/fw_diting_miui_DITINGGlobal_OS1.0.8.0.ULFMIXM_63b292d427_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.8.0.ULFMIXM
 - android: '14.0'
   codename: diting
   date: '2024-09-27'
@@ -2274,6 +2292,12 @@
   version: OS1.0.15.0.UNQEUXM
 - android: '14.0'
   codename: gold
+  date: '2024-10-28'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UNQCNXM/fw_gold_miui_GOLD_OS1.0.6.0.UNQCNXM_012e871751_14.0.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS1.0.6.0.UNQCNXM
+- android: '14.0'
+  codename: gold
   date: '2024-05-27'
   download: https://bigota.d.miui.com/OS1.0.6.0.UNQINXM/fw_gold_miui_GOLDINGlobal_OS1.0.6.0.UNQINXM_01f5dddab5_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
@@ -2878,6 +2902,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMAMIXM/fw_ishtar_miui_ISHTARGlobal_OS1.0.5.0.UMAMIXM_c5739993c8_14.0.zip
   name: Xiaomi 13 Ultra
   version: OS1.0.5.0.UMAMIXM
+- android: '14.0'
+  codename: ishtar
+  date: '2024-10-28'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UMAEUXM/fw_ishtar_miui_ISHTAREEAGlobal_OS1.0.13.0.UMAEUXM_eb7594965e_14.0.zip
+  name: Xiaomi 13 Ultra
+  version: OS1.0.13.0.UMAEUXM
 - android: '14.0'
   codename: ishtar
   date: '2024-07-28'
@@ -7702,6 +7732,18 @@
   download: https://bigota.d.miui.com/OS1.0.14.0.ULBEUXM/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.14.0.ULBEUXM_c4d0f58144_14.0.zip
   name: Xiaomi 12 Pro
   version: OS1.0.14.0.ULBEUXM
+- android: '14.0'
+  codename: zeus
+  date: '2024-10-28'
+  download: https://bigota.d.miui.com/OS1.0.7.0.ULBMIXM/fw_zeus_miui_ZEUSGlobal_OS1.0.7.0.ULBMIXM_c8a308169c_14.0.zip
+  name: Xiaomi 12 Pro
+  version: OS1.0.7.0.ULBMIXM
+- android: '14.0'
+  codename: zeus
+  date: '2024-10-28'
+  download: https://bigota.d.miui.com/OS1.0.7.0.ULBINXM/fw_zeus_miui_ZEUSINGlobal_OS1.0.7.0.ULBINXM_6b0b3c1f6b_14.0.zip
+  name: Xiaomi 12 Pro
+  version: OS1.0.7.0.ULBINXM
 - android: '14.0'
   codename: zeus
   date: '2024-09-27'

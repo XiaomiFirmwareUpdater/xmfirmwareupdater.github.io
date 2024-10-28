@@ -52,7 +52,9 @@ permalink: /archive/hyperos/flare/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad SE 8.7 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UHXTRXM</td><td>14.0</td><td>4.0 GB</td><td>2024-10-09</td><td><a href="/hyperos/flare/stable/OS1.0.3.0.UHXTRXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad SE 8.7 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UHXTWXM</td><td>14.0</td><td>4.0 GB</td><td>2024-10-22</td><td><a href="/hyperos/flare/stable/OS1.0.3.0.UHXTWXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE 8.7 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UHXTWXM</td><td>14.0</td><td>4.7 GB</td><td>2024-10-08</td><td><a href="/hyperos/flare/stable/OS1.0.3.0.UHXTWXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE 8.7 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UHXTRXM</td><td>14.0</td><td>4.0 GB</td><td>2024-10-09</td><td><a href="/hyperos/flare/stable/OS1.0.3.0.UHXTRXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UHXTRXM</td><td>14.0</td><td>4.7 GB</td><td>2024-09-26</td><td><a href="/hyperos/flare/stable/OS1.0.3.0.UHXTRXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UHXRUXM</td><td>14.0</td><td>4.0 GB</td><td>2024-09-26</td><td><a href="/hyperos/flare/stable/OS1.0.3.0.UHXRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UHXRUXM</td><td>14.0</td><td>5.2 GB</td><td>2024-09-18</td><td><a href="/hyperos/flare/stable/OS1.0.3.0.UHXRUXM/">Download</a></td></tr>
