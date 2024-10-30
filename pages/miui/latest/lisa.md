@@ -54,7 +54,6 @@ permalink: /miui/lisa/
                 <tbody>
                 <tr><td>Mi 11 LE China</td><td>Weekly</td><td>Fastboot</td><td>22.2.19</td><td>12.0</td><td>6.4 GB</td><td>2022-02-19</td><td><a href="/miui/lisa/weekly/22.2.19/">Download</a></td></tr>
 <tr><td>Mi 11 LE China</td><td>Weekly</td><td>Recovery</td><td>22.3.23</td><td>12.0</td><td>4.5 GB</td><td>2022-03-24</td><td><a href="/miui/lisa/weekly/22.3.23/">Download</a></td></tr>
-<tr><td>Xiaomi 11 Lite 5G NE Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RKOMIXM</td><td>11.0</td><td>3.1 GB</td><td>2021-09-16</td><td><a href="/miui/lisa/stable beta/V12.5.1.0.RKOMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
