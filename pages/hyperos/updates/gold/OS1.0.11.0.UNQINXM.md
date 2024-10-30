@@ -56,22 +56,22 @@ permalink: /hyperos/gold/stable/OS1.0.11.0.UNQINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.3 GB</h5>
+                    <h5><b>Size: </b>4.6 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-09-23</h5>
+                    <h5><b>Release Date: </b>2024-09-27</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">gold_in_global_images_OS1.0.11.0.UNQINXM_20240923.0000.00_14.0_in_08ffdcebe1.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_GOLDINGlobal_OS1.0.11.0.UNQINXM_737bea58cf_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">08ffdcebe1aa1aa061a469b449d600fe</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">737bea58cfe434c59a88be3a3e9c9a2d</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.11.0.UNQINXM/gold_in_global_images_OS1.0.11.0.UNQINXM_20240923.0000.00_14.0_in_08ffdcebe1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.11.0.UNQINXM/gold_in_global_images_OS1.0.11.0.UNQINXM_20240923.0000.00_14.0_in_08ffdcebe1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.11.0.UNQINXM/gold_in_global_images_OS1.0.11.0.UNQINXM_20240923.0000.00_14.0_in_08ffdcebe1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.11.0.UNQINXM/gold_in_global_images_OS1.0.11.0.UNQINXM_20240923.0000.00_14.0_in_08ffdcebe1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.11.0.UNQINXM/gold_in_global_images_OS1.0.11.0.UNQINXM_20240923.0000.00_14.0_in_08ffdcebe1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.11.0.UNQINXM/miui-blockota-gold_in_global-OS1.0.10.0.UNQINXM-OS1.0.11.0.UNQINXM-a23f060cc4-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.11.0.UNQINXM/miui_GOLDINGlobal_OS1.0.11.0.UNQINXM_737bea58cf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.11.0.UNQINXM/miui_GOLDINGlobal_OS1.0.11.0.UNQINXM_737bea58cf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.11.0.UNQINXM/miui_GOLDINGlobal_OS1.0.11.0.UNQINXM_737bea58cf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.11.0.UNQINXM/miui_GOLDINGlobal_OS1.0.11.0.UNQINXM_737bea58cf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.11.0.UNQINXM/miui_GOLDINGlobal_OS1.0.11.0.UNQINXM_737bea58cf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#gold_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/gold/stable/OS1.0.11.0.UNQINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.6 GB</h5>
+                    <h5><b>Size: </b>6.3 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-09-27</h5>
+                    <h5><b>Release Date: </b>2024-09-23</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_GOLDINGlobal_OS1.0.11.0.UNQINXM_737bea58cf_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">gold_in_global_images_OS1.0.11.0.UNQINXM_20240923.0000.00_14.0_in_08ffdcebe1.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">737bea58cfe434c59a88be3a3e9c9a2d</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">08ffdcebe1aa1aa061a469b449d600fe</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.11.0.UNQINXM/miui-blockota-gold_in_global-OS1.0.10.0.UNQINXM-OS1.0.11.0.UNQINXM-a23f060cc4-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.11.0.UNQINXM/miui_GOLDINGlobal_OS1.0.11.0.UNQINXM_737bea58cf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.11.0.UNQINXM/miui_GOLDINGlobal_OS1.0.11.0.UNQINXM_737bea58cf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.11.0.UNQINXM/miui_GOLDINGlobal_OS1.0.11.0.UNQINXM_737bea58cf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.11.0.UNQINXM/miui_GOLDINGlobal_OS1.0.11.0.UNQINXM_737bea58cf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.11.0.UNQINXM/miui_GOLDINGlobal_OS1.0.11.0.UNQINXM_737bea58cf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.11.0.UNQINXM/gold_in_global_images_OS1.0.11.0.UNQINXM_20240923.0000.00_14.0_in_08ffdcebe1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.11.0.UNQINXM/gold_in_global_images_OS1.0.11.0.UNQINXM_20240923.0000.00_14.0_in_08ffdcebe1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.11.0.UNQINXM/gold_in_global_images_OS1.0.11.0.UNQINXM_20240923.0000.00_14.0_in_08ffdcebe1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.11.0.UNQINXM/gold_in_global_images_OS1.0.11.0.UNQINXM_20240923.0000.00_14.0_in_08ffdcebe1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.11.0.UNQINXM/gold_in_global_images_OS1.0.11.0.UNQINXM_20240923.0000.00_14.0_in_08ffdcebe1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#gold_2_changelog" data-toggle="collapse" role="button"

@@ -56,22 +56,22 @@ permalink: /hyperos/duchamp/stable/OS1.0.18.0.UNLCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.4 GB</h5>
+                    <h5><b>Size: </b>6.4 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-09-11</h5>
+                    <h5><b>Release Date: </b>2024-09-20</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">duchamp_images_OS1.0.18.0.UNLCNXM_20240911.0000.00_14.0_cn_d42fae8ed1.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_DUCHAMP_OS1.0.18.0.UNLCNXM_f3789ac8e1_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">d42fae8ed1e542c396a4e999fb27fd57</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f3789ac8e161cbcf84b621407702f043</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.18.0.UNLCNXM/duchamp_images_OS1.0.18.0.UNLCNXM_20240911.0000.00_14.0_cn_d42fae8ed1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.18.0.UNLCNXM/duchamp_images_OS1.0.18.0.UNLCNXM_20240911.0000.00_14.0_cn_d42fae8ed1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.18.0.UNLCNXM/duchamp_images_OS1.0.18.0.UNLCNXM_20240911.0000.00_14.0_cn_d42fae8ed1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.18.0.UNLCNXM/duchamp_images_OS1.0.18.0.UNLCNXM_20240911.0000.00_14.0_cn_d42fae8ed1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.18.0.UNLCNXM/duchamp_images_OS1.0.18.0.UNLCNXM_20240911.0000.00_14.0_cn_d42fae8ed1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.18.0.UNLCNXM/miui-blockota-duchamp-OS1.0.17.0.UNLCNXM-OS1.0.18.0.UNLCNXM-b796bdfa0c-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.18.0.UNLCNXM/miui_DUCHAMP_OS1.0.18.0.UNLCNXM_f3789ac8e1_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.18.0.UNLCNXM/miui_DUCHAMP_OS1.0.18.0.UNLCNXM_f3789ac8e1_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.18.0.UNLCNXM/miui_DUCHAMP_OS1.0.18.0.UNLCNXM_f3789ac8e1_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.18.0.UNLCNXM/miui_DUCHAMP_OS1.0.18.0.UNLCNXM_f3789ac8e1_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.18.0.UNLCNXM/miui_DUCHAMP_OS1.0.18.0.UNLCNXM_f3789ac8e1_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#duchamp_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/duchamp/stable/OS1.0.18.0.UNLCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.4 GB</h5>
+                    <h5><b>Size: </b>8.4 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-09-20</h5>
+                    <h5><b>Release Date: </b>2024-09-11</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_DUCHAMP_OS1.0.18.0.UNLCNXM_f3789ac8e1_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">duchamp_images_OS1.0.18.0.UNLCNXM_20240911.0000.00_14.0_cn_d42fae8ed1.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">f3789ac8e161cbcf84b621407702f043</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">d42fae8ed1e542c396a4e999fb27fd57</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.18.0.UNLCNXM/miui-blockota-duchamp-OS1.0.17.0.UNLCNXM-OS1.0.18.0.UNLCNXM-b796bdfa0c-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.18.0.UNLCNXM/miui_DUCHAMP_OS1.0.18.0.UNLCNXM_f3789ac8e1_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.18.0.UNLCNXM/miui_DUCHAMP_OS1.0.18.0.UNLCNXM_f3789ac8e1_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.18.0.UNLCNXM/miui_DUCHAMP_OS1.0.18.0.UNLCNXM_f3789ac8e1_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.18.0.UNLCNXM/miui_DUCHAMP_OS1.0.18.0.UNLCNXM_f3789ac8e1_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.18.0.UNLCNXM/miui_DUCHAMP_OS1.0.18.0.UNLCNXM_f3789ac8e1_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.18.0.UNLCNXM/duchamp_images_OS1.0.18.0.UNLCNXM_20240911.0000.00_14.0_cn_d42fae8ed1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.18.0.UNLCNXM/duchamp_images_OS1.0.18.0.UNLCNXM_20240911.0000.00_14.0_cn_d42fae8ed1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.18.0.UNLCNXM/duchamp_images_OS1.0.18.0.UNLCNXM_20240911.0000.00_14.0_cn_d42fae8ed1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.18.0.UNLCNXM/duchamp_images_OS1.0.18.0.UNLCNXM_20240911.0000.00_14.0_cn_d42fae8ed1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.18.0.UNLCNXM/duchamp_images_OS1.0.18.0.UNLCNXM_20240911.0000.00_14.0_cn_d42fae8ed1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#duchamp_2_changelog" data-toggle="collapse" role="button"
