@@ -83,6 +83,49 @@ permalink: /hyperos/ishtar/stable/OS1.0.8.0.UMAMIXM/
                 </li>
             </ul>
         </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi 13 Ultra Global</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/ishtar/" target="_blank">ishtar</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.8.0.UMAMIXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Recovery</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>6.2 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>None</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_ISHTARGlobal_OS1.0.8.0.UMAMIXM_223430792c_14.0.zip</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">223430792c69990f742e258009633e17</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.8.0.UMAMIXM/miui-blockota-ishtar_global-OS1.0.7.0.UMAMIXM-OS1.0.8.0.UMAMIXM-49c4398d62-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.8.0.UMAMIXM/miui_ISHTARGlobal_OS1.0.8.0.UMAMIXM_223430792c_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.8.0.UMAMIXM/miui_ISHTARGlobal_OS1.0.8.0.UMAMIXM_223430792c_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.8.0.UMAMIXM/miui_ISHTARGlobal_OS1.0.8.0.UMAMIXM_223430792c_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.8.0.UMAMIXM/miui_ISHTARGlobal_OS1.0.8.0.UMAMIXM_223430792c_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.8.0.UMAMIXM/miui_ISHTARGlobal_OS1.0.8.0.UMAMIXM_223430792c_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#ishtar_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="ishtar_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="ishtar_2_changelog">
+                        <p id="changelog_text">[System]<br>Fix: Having too many notifications could cause the system to restart<br>Updated the security patch to July 2024. Increased system security.<br>[Calculator]<br>Optimization: Improved the sensitivity of Calculator buttons</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
 
         </div>
         {%include vli_ad_160x600_1.html%}

@@ -56,22 +56,22 @@ permalink: /hyperos/zircon/stable/OS1.0.5.0.UNORUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.6 GB</h5>
+                    <h5><b>Size: </b>5.7 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-09-11</h5>
+                    <h5><b>Release Date: </b>2024-09-23</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">zircon_ru_global_images_OS1.0.5.0.UNORUXM_20240911.0000.00_14.0_ru_a70f7b949c.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_ZIRCONRUGlobal_OS1.0.5.0.UNORUXM_67db6bb5bf_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">a70f7b949ccf66cc607eea66b53361ad</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">67db6bb5bf41db6b91d33b6ff354cbdc</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.5.0.UNORUXM/zircon_ru_global_images_OS1.0.5.0.UNORUXM_20240911.0000.00_14.0_ru_a70f7b949c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.5.0.UNORUXM/zircon_ru_global_images_OS1.0.5.0.UNORUXM_20240911.0000.00_14.0_ru_a70f7b949c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.5.0.UNORUXM/zircon_ru_global_images_OS1.0.5.0.UNORUXM_20240911.0000.00_14.0_ru_a70f7b949c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.5.0.UNORUXM/zircon_ru_global_images_OS1.0.5.0.UNORUXM_20240911.0000.00_14.0_ru_a70f7b949c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.5.0.UNORUXM/zircon_ru_global_images_OS1.0.5.0.UNORUXM_20240911.0000.00_14.0_ru_a70f7b949c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.5.0.UNORUXM/miui-blockota-zircon_ru_global-OS1.0.4.0.UNORUXM-OS1.0.5.0.UNORUXM-b5a52d03c6-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.5.0.UNORUXM/miui_ZIRCONRUGlobal_OS1.0.5.0.UNORUXM_67db6bb5bf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.5.0.UNORUXM/miui_ZIRCONRUGlobal_OS1.0.5.0.UNORUXM_67db6bb5bf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.5.0.UNORUXM/miui_ZIRCONRUGlobal_OS1.0.5.0.UNORUXM_67db6bb5bf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.5.0.UNORUXM/miui_ZIRCONRUGlobal_OS1.0.5.0.UNORUXM_67db6bb5bf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.5.0.UNORUXM/miui_ZIRCONRUGlobal_OS1.0.5.0.UNORUXM_67db6bb5bf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#zircon_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/zircon/stable/OS1.0.5.0.UNORUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.7 GB</h5>
+                    <h5><b>Size: </b>8.6 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-09-23</h5>
+                    <h5><b>Release Date: </b>2024-09-11</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_ZIRCONRUGlobal_OS1.0.5.0.UNORUXM_67db6bb5bf_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">zircon_ru_global_images_OS1.0.5.0.UNORUXM_20240911.0000.00_14.0_ru_a70f7b949c.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">67db6bb5bf41db6b91d33b6ff354cbdc</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">a70f7b949ccf66cc607eea66b53361ad</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.5.0.UNORUXM/miui-blockota-zircon_ru_global-OS1.0.4.0.UNORUXM-OS1.0.5.0.UNORUXM-b5a52d03c6-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.5.0.UNORUXM/miui_ZIRCONRUGlobal_OS1.0.5.0.UNORUXM_67db6bb5bf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.5.0.UNORUXM/miui_ZIRCONRUGlobal_OS1.0.5.0.UNORUXM_67db6bb5bf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.5.0.UNORUXM/miui_ZIRCONRUGlobal_OS1.0.5.0.UNORUXM_67db6bb5bf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.5.0.UNORUXM/miui_ZIRCONRUGlobal_OS1.0.5.0.UNORUXM_67db6bb5bf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.5.0.UNORUXM/miui_ZIRCONRUGlobal_OS1.0.5.0.UNORUXM_67db6bb5bf_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.5.0.UNORUXM/zircon_ru_global_images_OS1.0.5.0.UNORUXM_20240911.0000.00_14.0_ru_a70f7b949c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.5.0.UNORUXM/zircon_ru_global_images_OS1.0.5.0.UNORUXM_20240911.0000.00_14.0_ru_a70f7b949c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.5.0.UNORUXM/zircon_ru_global_images_OS1.0.5.0.UNORUXM_20240911.0000.00_14.0_ru_a70f7b949c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.5.0.UNORUXM/zircon_ru_global_images_OS1.0.5.0.UNORUXM_20240911.0000.00_14.0_ru_a70f7b949c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.5.0.UNORUXM/zircon_ru_global_images_OS1.0.5.0.UNORUXM_20240911.0000.00_14.0_ru_a70f7b949c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#zircon_2_changelog" data-toggle="collapse" role="button"

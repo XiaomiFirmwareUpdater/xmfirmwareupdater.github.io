@@ -56,22 +56,22 @@ permalink: /hyperos/psyche/stable/OS1.0.5.0.TLDMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.8 GB</h5>
+                    <h5><b>Size: </b>3.9 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-09-03</h5>
+                    <h5><b>Release Date: </b>2024-09-12</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">psyche_global_images_OS1.0.5.0.TLDMIXM_20240903.0000.00_13.0_global_29c1938dcc.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_PSYCHEGlobal_OS1.0.5.0.TLDMIXM_e9e5d29a36_13.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">29c1938dcca94fa5dcf6f04e7a6852e0</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">e9e5d29a36cb55d98eb670016a0091da</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.5.0.TLDMIXM/psyche_global_images_OS1.0.5.0.TLDMIXM_20240903.0000.00_13.0_global_29c1938dcc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.5.0.TLDMIXM/psyche_global_images_OS1.0.5.0.TLDMIXM_20240903.0000.00_13.0_global_29c1938dcc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.5.0.TLDMIXM/psyche_global_images_OS1.0.5.0.TLDMIXM_20240903.0000.00_13.0_global_29c1938dcc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.5.0.TLDMIXM/psyche_global_images_OS1.0.5.0.TLDMIXM_20240903.0000.00_13.0_global_29c1938dcc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.5.0.TLDMIXM/psyche_global_images_OS1.0.5.0.TLDMIXM_20240903.0000.00_13.0_global_29c1938dcc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.5.0.TLDMIXM/miui-blockota-psyche_global-OS1.0.4.0.TLDMIXM-OS1.0.5.0.TLDMIXM-f5e9cc4072-13.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.5.0.TLDMIXM/miui_PSYCHEGlobal_OS1.0.5.0.TLDMIXM_e9e5d29a36_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.5.0.TLDMIXM/miui_PSYCHEGlobal_OS1.0.5.0.TLDMIXM_e9e5d29a36_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.5.0.TLDMIXM/miui_PSYCHEGlobal_OS1.0.5.0.TLDMIXM_e9e5d29a36_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.5.0.TLDMIXM/miui_PSYCHEGlobal_OS1.0.5.0.TLDMIXM_e9e5d29a36_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.5.0.TLDMIXM/miui_PSYCHEGlobal_OS1.0.5.0.TLDMIXM_e9e5d29a36_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#psyche_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/psyche/stable/OS1.0.5.0.TLDMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>3.9 GB</h5>
+                    <h5><b>Size: </b>5.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-09-12</h5>
+                    <h5><b>Release Date: </b>2024-09-03</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_PSYCHEGlobal_OS1.0.5.0.TLDMIXM_e9e5d29a36_13.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">psyche_global_images_OS1.0.5.0.TLDMIXM_20240903.0000.00_13.0_global_29c1938dcc.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">e9e5d29a36cb55d98eb670016a0091da</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">29c1938dcca94fa5dcf6f04e7a6852e0</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.5.0.TLDMIXM/miui-blockota-psyche_global-OS1.0.4.0.TLDMIXM-OS1.0.5.0.TLDMIXM-f5e9cc4072-13.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.5.0.TLDMIXM/miui_PSYCHEGlobal_OS1.0.5.0.TLDMIXM_e9e5d29a36_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.5.0.TLDMIXM/miui_PSYCHEGlobal_OS1.0.5.0.TLDMIXM_e9e5d29a36_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.5.0.TLDMIXM/miui_PSYCHEGlobal_OS1.0.5.0.TLDMIXM_e9e5d29a36_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.5.0.TLDMIXM/miui_PSYCHEGlobal_OS1.0.5.0.TLDMIXM_e9e5d29a36_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.5.0.TLDMIXM/miui_PSYCHEGlobal_OS1.0.5.0.TLDMIXM_e9e5d29a36_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.5.0.TLDMIXM/psyche_global_images_OS1.0.5.0.TLDMIXM_20240903.0000.00_13.0_global_29c1938dcc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.5.0.TLDMIXM/psyche_global_images_OS1.0.5.0.TLDMIXM_20240903.0000.00_13.0_global_29c1938dcc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.5.0.TLDMIXM/psyche_global_images_OS1.0.5.0.TLDMIXM_20240903.0000.00_13.0_global_29c1938dcc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.5.0.TLDMIXM/psyche_global_images_OS1.0.5.0.TLDMIXM_20240903.0000.00_13.0_global_29c1938dcc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.5.0.TLDMIXM/psyche_global_images_OS1.0.5.0.TLDMIXM_20240903.0000.00_13.0_global_29c1938dcc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#psyche_2_changelog" data-toggle="collapse" role="button"

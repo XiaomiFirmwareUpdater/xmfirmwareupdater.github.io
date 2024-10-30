@@ -52,7 +52,9 @@ permalink: /archive/miui/lilac/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 10T Japan</td><td>Stable</td><td>Recovery</td><td>V14.0.12.0.TKNJPXM</td><td>13.0</td><td>3.5 GB</td><td>2024-01-17</td><td><a href="/miui/lilac/stable/V14.0.12.0.TKNJPXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 10T Japan</td><td>Stable</td><td>Recovery</td><td>V14.0.24.0.TKNJPXM</td><td>13.0</td><td>3.5 GB</td><td>2024-09-30</td><td><a href="/miui/lilac/stable/V14.0.24.0.TKNJPXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10T Japan</td><td>Stable</td><td>Fastboot</td><td>V14.0.24.0.TKNJPXM</td><td>13.0</td><td>5.2 GB</td><td>2024-09-25</td><td><a href="/miui/lilac/stable/V14.0.24.0.TKNJPXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10T Japan</td><td>Stable</td><td>Recovery</td><td>V14.0.12.0.TKNJPXM</td><td>13.0</td><td>3.5 GB</td><td>2024-01-17</td><td><a href="/miui/lilac/stable/V14.0.12.0.TKNJPXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10T Japan</td><td>Stable</td><td>Fastboot</td><td>V14.0.12.0.TKNJPXM</td><td>13.0</td><td>5.2 GB</td><td>2024-01-03</td><td><a href="/miui/lilac/stable/V14.0.12.0.TKNJPXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10T Japan</td><td>Stable</td><td>Recovery</td><td>V14.0.11.0.TKNJPXM</td><td>13.0</td><td>3.4 GB</td><td>2023-11-06</td><td><a href="/miui/lilac/stable/V14.0.11.0.TKNJPXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10T Japan</td><td>Stable</td><td>Fastboot</td><td>V14.0.11.0.TKNJPXM</td><td>13.0</td><td>5.1 GB</td><td>2023-10-31</td><td><a href="/miui/lilac/stable/V14.0.11.0.TKNJPXM/">Download</a></td></tr>

@@ -56,22 +56,22 @@ permalink: /hyperos/sheng/stable/OS1.0.5.0.UNXMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.5 GB</h5>
+                    <h5><b>Size: </b>5.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-09-23</h5>
+                    <h5><b>Release Date: </b>2024-09-30</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sheng_global_images_OS1.0.5.0.UNXMIXM_20240923.0000.00_14.0_global_274296b741.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_SHENGGlobal_OS1.0.5.0.UNXMIXM_445f9940fd_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">274296b741685b01e6a01ad722846fca</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">445f9940fdcb2757e9194cf3053fee36</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.5.0.UNXMIXM/sheng_global_images_OS1.0.5.0.UNXMIXM_20240923.0000.00_14.0_global_274296b741.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.5.0.UNXMIXM/sheng_global_images_OS1.0.5.0.UNXMIXM_20240923.0000.00_14.0_global_274296b741.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.5.0.UNXMIXM/sheng_global_images_OS1.0.5.0.UNXMIXM_20240923.0000.00_14.0_global_274296b741.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.5.0.UNXMIXM/sheng_global_images_OS1.0.5.0.UNXMIXM_20240923.0000.00_14.0_global_274296b741.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.5.0.UNXMIXM/sheng_global_images_OS1.0.5.0.UNXMIXM_20240923.0000.00_14.0_global_274296b741.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.5.0.UNXMIXM/miui-blockota-sheng_global-OS1.0.4.0.UNXMIXM-OS1.0.5.0.UNXMIXM-a85cff7f6a-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.5.0.UNXMIXM/miui_SHENGGlobal_OS1.0.5.0.UNXMIXM_445f9940fd_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.5.0.UNXMIXM/miui_SHENGGlobal_OS1.0.5.0.UNXMIXM_445f9940fd_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.5.0.UNXMIXM/miui_SHENGGlobal_OS1.0.5.0.UNXMIXM_445f9940fd_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.5.0.UNXMIXM/miui_SHENGGlobal_OS1.0.5.0.UNXMIXM_445f9940fd_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.5.0.UNXMIXM/miui_SHENGGlobal_OS1.0.5.0.UNXMIXM_445f9940fd_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#sheng_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/sheng/stable/OS1.0.5.0.UNXMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.5 GB</h5>
+                    <h5><b>Size: </b>6.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-09-30</h5>
+                    <h5><b>Release Date: </b>2024-09-23</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_SHENGGlobal_OS1.0.5.0.UNXMIXM_445f9940fd_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sheng_global_images_OS1.0.5.0.UNXMIXM_20240923.0000.00_14.0_global_274296b741.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">445f9940fdcb2757e9194cf3053fee36</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">274296b741685b01e6a01ad722846fca</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.5.0.UNXMIXM/miui-blockota-sheng_global-OS1.0.4.0.UNXMIXM-OS1.0.5.0.UNXMIXM-a85cff7f6a-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.5.0.UNXMIXM/miui_SHENGGlobal_OS1.0.5.0.UNXMIXM_445f9940fd_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.5.0.UNXMIXM/miui_SHENGGlobal_OS1.0.5.0.UNXMIXM_445f9940fd_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.5.0.UNXMIXM/miui_SHENGGlobal_OS1.0.5.0.UNXMIXM_445f9940fd_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.5.0.UNXMIXM/miui_SHENGGlobal_OS1.0.5.0.UNXMIXM_445f9940fd_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.5.0.UNXMIXM/miui_SHENGGlobal_OS1.0.5.0.UNXMIXM_445f9940fd_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.5.0.UNXMIXM/sheng_global_images_OS1.0.5.0.UNXMIXM_20240923.0000.00_14.0_global_274296b741.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.5.0.UNXMIXM/sheng_global_images_OS1.0.5.0.UNXMIXM_20240923.0000.00_14.0_global_274296b741.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.5.0.UNXMIXM/sheng_global_images_OS1.0.5.0.UNXMIXM_20240923.0000.00_14.0_global_274296b741.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.5.0.UNXMIXM/sheng_global_images_OS1.0.5.0.UNXMIXM_20240923.0000.00_14.0_global_274296b741.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.5.0.UNXMIXM/sheng_global_images_OS1.0.5.0.UNXMIXM_20240923.0000.00_14.0_global_274296b741.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#sheng_2_changelog" data-toggle="collapse" role="button"

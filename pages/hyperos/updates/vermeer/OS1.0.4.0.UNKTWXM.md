@@ -56,22 +56,22 @@ permalink: /hyperos/vermeer/stable/OS1.0.4.0.UNKTWXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.2 GB</h5>
+                    <h5><b>Size: </b>6.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-09-24</h5>
+                    <h5><b>Release Date: </b>2024-10-09</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">vermeer_tw_global_images_OS1.0.4.0.UNKTWXM_20240924.0000.00_14.0_tw_11ecf738d6.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_VERMEERTWGlobal_OS1.0.4.0.UNKTWXM_89fdfda86a_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">11ecf738d601249821291896a232f5a8</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">89fdfda86a54f831e3934cef37cccf63</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.4.0.UNKTWXM/vermeer_tw_global_images_OS1.0.4.0.UNKTWXM_20240924.0000.00_14.0_tw_11ecf738d6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.4.0.UNKTWXM/vermeer_tw_global_images_OS1.0.4.0.UNKTWXM_20240924.0000.00_14.0_tw_11ecf738d6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.4.0.UNKTWXM/vermeer_tw_global_images_OS1.0.4.0.UNKTWXM_20240924.0000.00_14.0_tw_11ecf738d6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UNKTWXM/vermeer_tw_global_images_OS1.0.4.0.UNKTWXM_20240924.0000.00_14.0_tw_11ecf738d6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.4.0.UNKTWXM/vermeer_tw_global_images_OS1.0.4.0.UNKTWXM_20240924.0000.00_14.0_tw_11ecf738d6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UNKTWXM/miui-blockota-vermeer_tw_global-OS1.0.3.0.UNKTWXM-OS1.0.4.0.UNKTWXM-3c198acc75-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.4.0.UNKTWXM/miui_VERMEERTWGlobal_OS1.0.4.0.UNKTWXM_89fdfda86a_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.4.0.UNKTWXM/miui_VERMEERTWGlobal_OS1.0.4.0.UNKTWXM_89fdfda86a_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.4.0.UNKTWXM/miui_VERMEERTWGlobal_OS1.0.4.0.UNKTWXM_89fdfda86a_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UNKTWXM/miui_VERMEERTWGlobal_OS1.0.4.0.UNKTWXM_89fdfda86a_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.4.0.UNKTWXM/miui_VERMEERTWGlobal_OS1.0.4.0.UNKTWXM_89fdfda86a_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#vermeer_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/vermeer/stable/OS1.0.4.0.UNKTWXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.2 GB</h5>
+                    <h5><b>Size: </b>8.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-10-09</h5>
+                    <h5><b>Release Date: </b>2024-09-24</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_VERMEERTWGlobal_OS1.0.4.0.UNKTWXM_89fdfda86a_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">vermeer_tw_global_images_OS1.0.4.0.UNKTWXM_20240924.0000.00_14.0_tw_11ecf738d6.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">89fdfda86a54f831e3934cef37cccf63</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">11ecf738d601249821291896a232f5a8</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UNKTWXM/miui-blockota-vermeer_tw_global-OS1.0.3.0.UNKTWXM-OS1.0.4.0.UNKTWXM-3c198acc75-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.4.0.UNKTWXM/miui_VERMEERTWGlobal_OS1.0.4.0.UNKTWXM_89fdfda86a_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.4.0.UNKTWXM/miui_VERMEERTWGlobal_OS1.0.4.0.UNKTWXM_89fdfda86a_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.4.0.UNKTWXM/miui_VERMEERTWGlobal_OS1.0.4.0.UNKTWXM_89fdfda86a_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UNKTWXM/miui_VERMEERTWGlobal_OS1.0.4.0.UNKTWXM_89fdfda86a_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.4.0.UNKTWXM/miui_VERMEERTWGlobal_OS1.0.4.0.UNKTWXM_89fdfda86a_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.4.0.UNKTWXM/vermeer_tw_global_images_OS1.0.4.0.UNKTWXM_20240924.0000.00_14.0_tw_11ecf738d6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.4.0.UNKTWXM/vermeer_tw_global_images_OS1.0.4.0.UNKTWXM_20240924.0000.00_14.0_tw_11ecf738d6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.4.0.UNKTWXM/vermeer_tw_global_images_OS1.0.4.0.UNKTWXM_20240924.0000.00_14.0_tw_11ecf738d6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UNKTWXM/vermeer_tw_global_images_OS1.0.4.0.UNKTWXM_20240924.0000.00_14.0_tw_11ecf738d6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.4.0.UNKTWXM/vermeer_tw_global_images_OS1.0.4.0.UNKTWXM_20240924.0000.00_14.0_tw_11ecf738d6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#vermeer_2_changelog" data-toggle="collapse" role="button"

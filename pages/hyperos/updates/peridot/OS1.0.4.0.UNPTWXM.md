@@ -56,22 +56,22 @@ permalink: /hyperos/peridot/stable/OS1.0.4.0.UNPTWXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.3 GB</h5>
+                    <h5><b>Size: </b>5.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-08-15</h5>
+                    <h5><b>Release Date: </b>2024-08-23</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">peridot_tw_global_images_OS1.0.4.0.UNPTWXM_20240815.0000.00_14.0_tw_71ef46e0b5.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_PERIDOTTWGlobal_OS1.0.4.0.UNPTWXM_27d97bec39_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">71ef46e0b5342151e9457d53673d8c55</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">27d97bec399745ae4aa92108fa22f1af</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.4.0.UNPTWXM/peridot_tw_global_images_OS1.0.4.0.UNPTWXM_20240815.0000.00_14.0_tw_71ef46e0b5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.4.0.UNPTWXM/peridot_tw_global_images_OS1.0.4.0.UNPTWXM_20240815.0000.00_14.0_tw_71ef46e0b5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.4.0.UNPTWXM/peridot_tw_global_images_OS1.0.4.0.UNPTWXM_20240815.0000.00_14.0_tw_71ef46e0b5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UNPTWXM/peridot_tw_global_images_OS1.0.4.0.UNPTWXM_20240815.0000.00_14.0_tw_71ef46e0b5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.4.0.UNPTWXM/peridot_tw_global_images_OS1.0.4.0.UNPTWXM_20240815.0000.00_14.0_tw_71ef46e0b5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UNPTWXM/miui-blockota-peridot_tw_global-OS1.0.3.0.UNPTWXM-OS1.0.4.0.UNPTWXM-ab179759f7-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.4.0.UNPTWXM/miui_PERIDOTTWGlobal_OS1.0.4.0.UNPTWXM_27d97bec39_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.4.0.UNPTWXM/miui_PERIDOTTWGlobal_OS1.0.4.0.UNPTWXM_27d97bec39_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.4.0.UNPTWXM/miui_PERIDOTTWGlobal_OS1.0.4.0.UNPTWXM_27d97bec39_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UNPTWXM/miui_PERIDOTTWGlobal_OS1.0.4.0.UNPTWXM_27d97bec39_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.4.0.UNPTWXM/miui_PERIDOTTWGlobal_OS1.0.4.0.UNPTWXM_27d97bec39_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#peridot_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/peridot/stable/OS1.0.4.0.UNPTWXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.5 GB</h5>
+                    <h5><b>Size: </b>7.3 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-08-23</h5>
+                    <h5><b>Release Date: </b>2024-08-15</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_PERIDOTTWGlobal_OS1.0.4.0.UNPTWXM_27d97bec39_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">peridot_tw_global_images_OS1.0.4.0.UNPTWXM_20240815.0000.00_14.0_tw_71ef46e0b5.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">27d97bec399745ae4aa92108fa22f1af</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">71ef46e0b5342151e9457d53673d8c55</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UNPTWXM/miui-blockota-peridot_tw_global-OS1.0.3.0.UNPTWXM-OS1.0.4.0.UNPTWXM-ab179759f7-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.4.0.UNPTWXM/miui_PERIDOTTWGlobal_OS1.0.4.0.UNPTWXM_27d97bec39_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.4.0.UNPTWXM/miui_PERIDOTTWGlobal_OS1.0.4.0.UNPTWXM_27d97bec39_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.4.0.UNPTWXM/miui_PERIDOTTWGlobal_OS1.0.4.0.UNPTWXM_27d97bec39_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UNPTWXM/miui_PERIDOTTWGlobal_OS1.0.4.0.UNPTWXM_27d97bec39_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.4.0.UNPTWXM/miui_PERIDOTTWGlobal_OS1.0.4.0.UNPTWXM_27d97bec39_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.4.0.UNPTWXM/peridot_tw_global_images_OS1.0.4.0.UNPTWXM_20240815.0000.00_14.0_tw_71ef46e0b5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.4.0.UNPTWXM/peridot_tw_global_images_OS1.0.4.0.UNPTWXM_20240815.0000.00_14.0_tw_71ef46e0b5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.4.0.UNPTWXM/peridot_tw_global_images_OS1.0.4.0.UNPTWXM_20240815.0000.00_14.0_tw_71ef46e0b5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.UNPTWXM/peridot_tw_global_images_OS1.0.4.0.UNPTWXM_20240815.0000.00_14.0_tw_71ef46e0b5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.4.0.UNPTWXM/peridot_tw_global_images_OS1.0.4.0.UNPTWXM_20240815.0000.00_14.0_tw_71ef46e0b5.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#peridot_2_changelog" data-toggle="collapse" role="button"
