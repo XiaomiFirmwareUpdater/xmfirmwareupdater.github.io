@@ -2034,6 +2034,12 @@
   version: OS1.0.13.0.UMCCNXM
 - android: '14.0'
   codename: gale
+  date: '2024-10-30'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UGPEUXM/fw_gale_miui_GALEEEAGlobal_OS1.0.6.0.UGPEUXM_6900b46e6f_14.0.zip
+  name: Redmi 13C/POCO C65
+  version: OS1.0.6.0.UGPEUXM
+- android: '14.0'
+  codename: gale
   date: '2024-03-28'
   download: https://bigota.d.miui.com/OS1.0.1.0.UGPMIXM/fw_gale_miui_GALEGlobal_OS1.0.1.0.UGPMIXM_6e2addc06f_14.0.zip
   name: Redmi 13C/POCO C65
@@ -2092,6 +2098,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UGPINXM/fw_gale_miui_GALEINGlobal_OS1.0.2.0.UGPINXM_c0fa2c2c6c_14.0.zip
   name: Redmi 13C/POCO C65
   version: OS1.0.2.0.UGPINXM
+- android: '14.0'
+  codename: garnet
+  date: '2024-10-30'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UNRCNXM/fw_garnet_miui_GARNET_OS1.0.13.0.UNRCNXM_4a743e011c_14.0.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS1.0.13.0.UNRCNXM
 - android: '14.0'
   codename: garnet
   date: '2024-10-29'
@@ -3424,6 +3436,12 @@
   download: https://bigota.d.miui.com/OS1.0.15.0.UNMCNXM/fw_manet_miui_MANET_OS1.0.15.0.UNMCNXM_9348bd98ff_14.0.zip
   name: Redmi K70 Pro
   version: OS1.0.15.0.UNMCNXM
+- android: '14.0'
+  codename: marble
+  date: '2024-10-30'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMRCNXM/fw_marble_miui_MARBLE_OS1.0.9.0.UMRCNXM_b344a079ab_14.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS1.0.9.0.UMRCNXM
 - android: '14.0'
   codename: marble
   date: '2024-08-29'
@@ -5406,6 +5424,12 @@
   version: OS1.0.4.0.UFSEUXM
 - android: '14.0'
   codename: rubens
+  date: '2024-10-30'
+  download: https://bigota.d.miui.com/OS1.0.12.0.ULNCNXM/fw_rubens_miui_RUBENS_OS1.0.12.0.ULNCNXM_f5426b2ac2_14.0.zip
+  name: Redmi K50
+  version: OS1.0.12.0.ULNCNXM
+- android: '14.0'
+  codename: rubens
   date: '2024-03-29'
   download: https://bigota.d.miui.com/OS1.0.6.0.ULNCNXM/fw_rubens_miui_RUBENS_OS1.0.6.0.ULNCNXM_da485c3f4e_14.0.zip
   name: Redmi K50
@@ -7018,6 +7042,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UKBMIXM/fw_venus_miui_VENUSGlobal_OS1.0.3.0.UKBMIXM_1eb20d7656_14.0.zip
   name: Mi 11
   version: OS1.0.3.0.UKBMIXM
+- android: '14.0'
+  codename: vermeer
+  date: '2024-10-30'
+  download: https://bigota.d.miui.com/OS1.0.20.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.20.0.UNKCNXM_9de24d741c_14.0.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS1.0.20.0.UNKCNXM
 - android: '14.0'
   codename: vermeer
   date: '2024-03-29'
