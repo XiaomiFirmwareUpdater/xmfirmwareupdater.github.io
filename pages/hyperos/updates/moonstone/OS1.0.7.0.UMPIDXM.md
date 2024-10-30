@@ -56,22 +56,22 @@ permalink: /hyperos/moonstone/stable/OS1.0.7.0.UMPIDXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>3.9 GB</h5>
+                    <h5><b>Size: </b>5.9 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-10-25</h5>
+                    <h5><b>Release Date: </b>2024-10-17</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_MOONSTONEIDGlobal_OS1.0.7.0.UMPIDXM_36f4c669d9_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">moonstone_id_global_images_OS1.0.7.0.UMPIDXM_20241017.0000.00_14.0_id_01a5d0811f.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">36f4c669d91935d65c1e9f4ff4d9e161</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">01a5d0811fe0c20ef2a6db3e19096973</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.7.0.UMPIDXM/miui-blockota-moonstone_id_global-OS1.0.6.0.UMPIDXM-OS1.0.7.0.UMPIDXM-1ee5cd34a4-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.7.0.UMPIDXM/miui_MOONSTONEIDGlobal_OS1.0.7.0.UMPIDXM_36f4c669d9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.7.0.UMPIDXM/miui_MOONSTONEIDGlobal_OS1.0.7.0.UMPIDXM_36f4c669d9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.7.0.UMPIDXM/miui_MOONSTONEIDGlobal_OS1.0.7.0.UMPIDXM_36f4c669d9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.7.0.UMPIDXM/miui_MOONSTONEIDGlobal_OS1.0.7.0.UMPIDXM_36f4c669d9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.7.0.UMPIDXM/miui_MOONSTONEIDGlobal_OS1.0.7.0.UMPIDXM_36f4c669d9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.7.0.UMPIDXM/moonstone_id_global_images_OS1.0.7.0.UMPIDXM_20241017.0000.00_14.0_id_01a5d0811f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.7.0.UMPIDXM/moonstone_id_global_images_OS1.0.7.0.UMPIDXM_20241017.0000.00_14.0_id_01a5d0811f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.7.0.UMPIDXM/moonstone_id_global_images_OS1.0.7.0.UMPIDXM_20241017.0000.00_14.0_id_01a5d0811f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.7.0.UMPIDXM/moonstone_id_global_images_OS1.0.7.0.UMPIDXM_20241017.0000.00_14.0_id_01a5d0811f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.7.0.UMPIDXM/moonstone_id_global_images_OS1.0.7.0.UMPIDXM_20241017.0000.00_14.0_id_01a5d0811f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#moonstone_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/moonstone/stable/OS1.0.7.0.UMPIDXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.9 GB</h5>
+                    <h5><b>Size: </b>3.9 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-10-17</h5>
+                    <h5><b>Release Date: </b>2024-10-25</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">moonstone_id_global_images_OS1.0.7.0.UMPIDXM_20241017.0000.00_14.0_id_01a5d0811f.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_MOONSTONEIDGlobal_OS1.0.7.0.UMPIDXM_36f4c669d9_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">01a5d0811fe0c20ef2a6db3e19096973</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">36f4c669d91935d65c1e9f4ff4d9e161</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.7.0.UMPIDXM/moonstone_id_global_images_OS1.0.7.0.UMPIDXM_20241017.0000.00_14.0_id_01a5d0811f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.7.0.UMPIDXM/moonstone_id_global_images_OS1.0.7.0.UMPIDXM_20241017.0000.00_14.0_id_01a5d0811f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.7.0.UMPIDXM/moonstone_id_global_images_OS1.0.7.0.UMPIDXM_20241017.0000.00_14.0_id_01a5d0811f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.7.0.UMPIDXM/moonstone_id_global_images_OS1.0.7.0.UMPIDXM_20241017.0000.00_14.0_id_01a5d0811f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.7.0.UMPIDXM/moonstone_id_global_images_OS1.0.7.0.UMPIDXM_20241017.0000.00_14.0_id_01a5d0811f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.7.0.UMPIDXM/miui-blockota-moonstone_id_global-OS1.0.6.0.UMPIDXM-OS1.0.7.0.UMPIDXM-1ee5cd34a4-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.7.0.UMPIDXM/miui_MOONSTONEIDGlobal_OS1.0.7.0.UMPIDXM_36f4c669d9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.7.0.UMPIDXM/miui_MOONSTONEIDGlobal_OS1.0.7.0.UMPIDXM_36f4c669d9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.7.0.UMPIDXM/miui_MOONSTONEIDGlobal_OS1.0.7.0.UMPIDXM_36f4c669d9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.7.0.UMPIDXM/miui_MOONSTONEIDGlobal_OS1.0.7.0.UMPIDXM_36f4c669d9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.7.0.UMPIDXM/miui_MOONSTONEIDGlobal_OS1.0.7.0.UMPIDXM_36f4c669d9_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#moonstone_2_changelog" data-toggle="collapse" role="button"

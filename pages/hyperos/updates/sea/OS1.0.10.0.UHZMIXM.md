@@ -56,29 +56,29 @@ permalink: /hyperos/sea/stable/OS1.0.10.0.UHZMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.3 GB</h5>
+                    <h5><b>Size: </b>6.9 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-09-20</h5>
+                    <h5><b>Release Date: </b>2024-09-04</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_SEAGlobal_OS1.0.10.0.UHZMIXM_c11cc655f6_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sea_global_images_OS1.0.10.0.UHZMIXM_20240904.0000.00_14.0_global_76b3a1ef0b.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c11cc655f6e71f90bf6941597f8e4653</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">76b3a1ef0b23322d076cc4747ab4136a</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.10.0.UHZMIXM/miui-blockota-sea_global-OS1.0.9.0.UHZMIXM-OS1.0.10.0.UHZMIXM-635c45b3cc-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.10.0.UHZMIXM/miui_SEAGlobal_OS1.0.10.0.UHZMIXM_c11cc655f6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.10.0.UHZMIXM/miui_SEAGlobal_OS1.0.10.0.UHZMIXM_c11cc655f6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.10.0.UHZMIXM/miui_SEAGlobal_OS1.0.10.0.UHZMIXM_c11cc655f6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.10.0.UHZMIXM/miui_SEAGlobal_OS1.0.10.0.UHZMIXM_c11cc655f6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.10.0.UHZMIXM/miui_SEAGlobal_OS1.0.10.0.UHZMIXM_c11cc655f6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.10.0.UHZMIXM/sea_global_images_OS1.0.10.0.UHZMIXM_20240904.0000.00_14.0_global_76b3a1ef0b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.10.0.UHZMIXM/sea_global_images_OS1.0.10.0.UHZMIXM_20240904.0000.00_14.0_global_76b3a1ef0b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.10.0.UHZMIXM/sea_global_images_OS1.0.10.0.UHZMIXM_20240904.0000.00_14.0_global_76b3a1ef0b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.10.0.UHZMIXM/sea_global_images_OS1.0.10.0.UHZMIXM_20240904.0000.00_14.0_global_76b3a1ef0b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.10.0.UHZMIXM/sea_global_images_OS1.0.10.0.UHZMIXM_20240904.0000.00_14.0_global_76b3a1ef0b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#sea_1_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="sea_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="sea_1_changelog">
-                        <p id="changelog_text">[System]<br>Updated the security patch to September 2024. Increased system security.</p>
+                        <p id="changelog_text">Bug fixes and system optimizations.</p>
                     </div>
                 </li>
             </ul>
@@ -99,29 +99,29 @@ permalink: /hyperos/sea/stable/OS1.0.10.0.UHZMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.9 GB</h5>
+                    <h5><b>Size: </b>4.3 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-09-04</h5>
+                    <h5><b>Release Date: </b>2024-09-20</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sea_global_images_OS1.0.10.0.UHZMIXM_20240904.0000.00_14.0_global_76b3a1ef0b.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_SEAGlobal_OS1.0.10.0.UHZMIXM_c11cc655f6_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">76b3a1ef0b23322d076cc4747ab4136a</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">c11cc655f6e71f90bf6941597f8e4653</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.10.0.UHZMIXM/sea_global_images_OS1.0.10.0.UHZMIXM_20240904.0000.00_14.0_global_76b3a1ef0b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.10.0.UHZMIXM/sea_global_images_OS1.0.10.0.UHZMIXM_20240904.0000.00_14.0_global_76b3a1ef0b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.10.0.UHZMIXM/sea_global_images_OS1.0.10.0.UHZMIXM_20240904.0000.00_14.0_global_76b3a1ef0b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.10.0.UHZMIXM/sea_global_images_OS1.0.10.0.UHZMIXM_20240904.0000.00_14.0_global_76b3a1ef0b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.10.0.UHZMIXM/sea_global_images_OS1.0.10.0.UHZMIXM_20240904.0000.00_14.0_global_76b3a1ef0b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.10.0.UHZMIXM/miui-blockota-sea_global-OS1.0.9.0.UHZMIXM-OS1.0.10.0.UHZMIXM-635c45b3cc-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.10.0.UHZMIXM/miui_SEAGlobal_OS1.0.10.0.UHZMIXM_c11cc655f6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.10.0.UHZMIXM/miui_SEAGlobal_OS1.0.10.0.UHZMIXM_c11cc655f6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.10.0.UHZMIXM/miui_SEAGlobal_OS1.0.10.0.UHZMIXM_c11cc655f6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.10.0.UHZMIXM/miui_SEAGlobal_OS1.0.10.0.UHZMIXM_c11cc655f6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.10.0.UHZMIXM/miui_SEAGlobal_OS1.0.10.0.UHZMIXM_c11cc655f6_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#sea_2_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="sea_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="sea_2_changelog">
-                        <p id="changelog_text">Bug fixes and system optimizations.</p>
+                        <p id="changelog_text">[System]<br>Updated the security patch to September 2024. Increased system security.</p>
                     </div>
                 </li>
             </ul>

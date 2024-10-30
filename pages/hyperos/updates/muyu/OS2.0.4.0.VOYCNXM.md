@@ -56,22 +56,22 @@ permalink: /hyperos/muyu/stable/OS2.0.4.0.VOYCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.1 GB</h5>
+                    <h5><b>Size: </b>9.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-10-29</h5>
+                    <h5><b>Release Date: </b>2024-10-23</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">muyu-ota_full-OS2.0.4.0.VOYCNXM-user-15.0-4152616bf9.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">muyu_images_OS2.0.4.0.VOYCNXM_20241023.0000.00_15.0_cn_a0e959faca.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">4152616bf98b5c22af7e6e6221c5e05a</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">a0e959faca078af7e7698a850d5e83c7</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS2.0.4.0.VOYCNXM/muyu-ota_incremental-OS2.0.1.0.VOYCNXM-OS2.0.4.0.VOYCNXM-user-15.0-0323b6068a.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.4.0.VOYCNXM/muyu-ota_full-OS2.0.4.0.VOYCNXM-user-15.0-4152616bf9.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.4.0.VOYCNXM/muyu-ota_full-OS2.0.4.0.VOYCNXM-user-15.0-4152616bf9.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.4.0.VOYCNXM/muyu-ota_full-OS2.0.4.0.VOYCNXM-user-15.0-4152616bf9.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.4.0.VOYCNXM/muyu-ota_full-OS2.0.4.0.VOYCNXM-user-15.0-4152616bf9.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.4.0.VOYCNXM/muyu-ota_full-OS2.0.4.0.VOYCNXM-user-15.0-4152616bf9.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.4.0.VOYCNXM/muyu_images_OS2.0.4.0.VOYCNXM_20241023.0000.00_15.0_cn_a0e959faca.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.4.0.VOYCNXM/muyu_images_OS2.0.4.0.VOYCNXM_20241023.0000.00_15.0_cn_a0e959faca.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.4.0.VOYCNXM/muyu_images_OS2.0.4.0.VOYCNXM_20241023.0000.00_15.0_cn_a0e959faca.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.4.0.VOYCNXM/muyu_images_OS2.0.4.0.VOYCNXM_20241023.0000.00_15.0_cn_a0e959faca.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.4.0.VOYCNXM/muyu_images_OS2.0.4.0.VOYCNXM_20241023.0000.00_15.0_cn_a0e959faca.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#muyu_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/muyu/stable/OS2.0.4.0.VOYCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>9.2 GB</h5>
+                    <h5><b>Size: </b>8.1 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-10-23</h5>
+                    <h5><b>Release Date: </b>2024-10-29</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">muyu_images_OS2.0.4.0.VOYCNXM_20241023.0000.00_15.0_cn_a0e959faca.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">muyu-ota_full-OS2.0.4.0.VOYCNXM-user-15.0-4152616bf9.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">a0e959faca078af7e7698a850d5e83c7</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">4152616bf98b5c22af7e6e6221c5e05a</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.4.0.VOYCNXM/muyu_images_OS2.0.4.0.VOYCNXM_20241023.0000.00_15.0_cn_a0e959faca.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.4.0.VOYCNXM/muyu_images_OS2.0.4.0.VOYCNXM_20241023.0000.00_15.0_cn_a0e959faca.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.4.0.VOYCNXM/muyu_images_OS2.0.4.0.VOYCNXM_20241023.0000.00_15.0_cn_a0e959faca.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.4.0.VOYCNXM/muyu_images_OS2.0.4.0.VOYCNXM_20241023.0000.00_15.0_cn_a0e959faca.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.4.0.VOYCNXM/muyu_images_OS2.0.4.0.VOYCNXM_20241023.0000.00_15.0_cn_a0e959faca.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS2.0.4.0.VOYCNXM/muyu-ota_incremental-OS2.0.1.0.VOYCNXM-OS2.0.4.0.VOYCNXM-user-15.0-0323b6068a.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.4.0.VOYCNXM/muyu-ota_full-OS2.0.4.0.VOYCNXM-user-15.0-4152616bf9.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.4.0.VOYCNXM/muyu-ota_full-OS2.0.4.0.VOYCNXM-user-15.0-4152616bf9.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.4.0.VOYCNXM/muyu-ota_full-OS2.0.4.0.VOYCNXM-user-15.0-4152616bf9.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.4.0.VOYCNXM/muyu-ota_full-OS2.0.4.0.VOYCNXM-user-15.0-4152616bf9.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.4.0.VOYCNXM/muyu-ota_full-OS2.0.4.0.VOYCNXM-user-15.0-4152616bf9.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#muyu_2_changelog" data-toggle="collapse" role="button"
