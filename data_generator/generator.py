@@ -384,7 +384,7 @@ def load_miui_devices():
         if codename in M_CODENAMES:
             continue
         M_CODENAMES.append(codename)
-        if item["version"].startswith("OS"):
+        if item["version"].startswith("OS") or item["version"].startswith("V816."):
             HYPER_OS_CODENAMES.append(codename)
     Path("../data/miui_codenames.yml").write_text(
         yaml.dump(sorted(M_CODENAMES), Dumper=yaml.CDumper), encoding="utf-8"
