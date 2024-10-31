@@ -139,10 +139,15 @@ def load_releases():
             for asset in item["assets"]:
                 date = asset["updated_at"][:10]
                 filename = asset["name"]
-                miui_version = filename.split("_")[-3]
-                android = filename.split("_")[-1].split(".zip")[0]
+                if "-OS2." in filename:
+                    # fw_dada_dada-ota_full-OS2.0.12.0.VOCCNXM-user-15.0-5b863df2e2.zip
+                    miui_version = filename.split("-")[2]
+                    android = filename.split("-")[-2]
+                else:
+                    miui_version = filename.split("_")[-3]
+                    android = filename.split("_")[-1].split(".zip")[0]
                 download_url = asset["browser_download_url"]
-                if miui_version.startswith("V"):
+                if miui_version.startswith("V") or miui_version.startswith("OS"):
                     # region_code = miui_version[-4:-2]
                     if "EU" in miui_version:
                         region = "Europe"
@@ -150,7 +155,7 @@ def load_releases():
                         region = "India"
                     elif "RU" in miui_version:
                         region = "Russia"
-                    elif "MI" in miui_version:
+                    elif "MI" in miui_version and "CN" not in miui_version:
                         region = "Global"
                     else:
                         region = "China"
