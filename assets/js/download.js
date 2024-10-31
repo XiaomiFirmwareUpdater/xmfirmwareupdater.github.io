@@ -1,7 +1,7 @@
 async function getUrlVars() {
     // https://html-online.com/articles/get-url-parameters-javascript/
-    var vars = {};
-    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+    const vars = {};
+    const parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
         vars[key] = value;
     });
     return vars;
@@ -18,6 +18,7 @@ async function generate_link(filename, branch, version, codename) {
         },
         dataType: 'yaml'
     }).done(function (data) {
+        let link
         for (let i = 0; i < data.length; i++) {
             if (data[i].filename == filename) {
                 link = data[i].downloads.github;
@@ -31,7 +32,7 @@ async function generate_link(filename, branch, version, codename) {
 async function startDownload(download, filename) {
     setTimeout(
         function () {
-            link = document.createElement("a");
+            const link = document.createElement("a");
             link.setAttribute("href", download);
             link.setAttribute("download", filename);
             document.body.appendChild(link);
@@ -42,24 +43,36 @@ async function startDownload(download, filename) {
 
 
 $(document).ready(async function () {
-    vars = await getUrlVars();
+    const vars = await getUrlVars();
     if ($.isEmptyObject(vars)) {
         window.location.href = window.location.origin + '#download';
     }
     history.pushState(window.location.href, null, window.location.origin + window.location.pathname);
-    var filename = vars.file;
-    var codename = filename.split('_')[1];
-    var device = filename.split('_')[3];
-    var version = filename.split('_')[4];
-    var android = filename.split('_').slice(-1).join().split('.zip')[0];
-    var branch;
+    const filename = vars.file;
+    let codename, device, version, android;
+    if (filename.includes("-OS2.")) {
+        // fw_dada_dada-ota_full-OS2.0.12.0.VOCCNXM-user-15.0-5b863df2e2.zip
+        let parts = filename.split("-");
+        codename = parts[0].split("_")[1];
+        device = parts[0].split("_")[2];
+        version = parts[2];
+        android = parts[parts.length - 2];
+    } else {
+        // fw_water_miui_WATERINGlobal_V14.0.18.0.TGOINXM_95e49b28fb_13.0.zip
+        let parts = filename.split("_");
+        codename = parts[1];
+        device = parts[3];
+        version = parts[parts.length - 3];
+        android = parts[parts.length - 1].split(".zip")[0];
+    }
+    let branch;
     if (version.startsWith('V')) {
         branch = 'Stable';
     }
     else {
         branch = 'Weekly';
     }
-    var region;
+    let region;
     if (device.includes('EEAGlobal')) {
         region = 'Europe';
     }
@@ -90,7 +103,7 @@ $(document).ready(async function () {
     else {
         region = 'China';
     }
-    var download = await generate_link(filename, branch, version, codename);
+    const download = await generate_link(filename, branch, version, codename);
     $('#device').text(device);
     $('#codename').text(codename);
     $('#branch').text(branch);
