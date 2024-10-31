@@ -3198,6 +3198,12 @@
   version: OS1.0.10.0.ULSCNXM
 - android: '14.0'
   codename: lisa
+  date: '2024-10-31'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UKOEUXM/fw_lisa_miui_LISAEEAGlobal_OS1.0.10.0.UKOEUXM_cd35b0998b_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.10.0.UKOEUXM
+- android: '14.0'
+  codename: lisa
   date: '2024-09-30'
   download: https://bigota.d.miui.com/OS1.0.5.0.UKOCNXM/fw_lisa_miui_LISA_OS1.0.5.0.UKOCNXM_75a8e9d71f_14.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
@@ -5314,6 +5320,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULUEUXM/fw_rock_miui_ROCKEEAGlobal_OS1.0.2.0.ULUEUXM_0e560ef2a3_14.0.zip
   name: POCO M5/Redmi 11 Prime 4G
   version: OS1.0.2.0.ULUEUXM
+- android: '14.0'
+  codename: rothko
+  date: '2024-10-31'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UNNEUXM/fw_rothko_miui_ROTHKOEEAGlobal_OS1.0.13.0.UNNEUXM_0d3d9ecfb6_14.0.zip
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
+  version: OS1.0.13.0.UNNEUXM
 - android: '14.0'
   codename: rothko
   date: '2024-09-30'

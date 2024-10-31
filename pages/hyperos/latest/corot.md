@@ -52,9 +52,9 @@ permalink: /hyperos/corot/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K60 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.22.0.UMLCNXM</td><td>14.0</td><td>8.2 GB</td><td>2024-08-06</td><td><a href="/hyperos/corot/stable/OS1.0.22.0.UMLCNXM/">Download</a></td></tr>
-<tr><td>Redmi K60 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.22.0.UMLCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-08-14</td><td><a href="/hyperos/corot/stable/OS1.0.22.0.UMLCNXM/">Download</a></td></tr>
-<tr><td>Redmi K60 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.23.0.UMLCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-10-12</td><td><a href="/hyperos/corot/stable beta/OS1.0.23.0.UMLCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K60 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.23.0.UMLCNXM</td><td>14.0</td><td>8.2 GB</td><td>2024-09-10</td><td><a href="/hyperos/corot/stable/OS1.0.23.0.UMLCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.23.0.UMLCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-10-12</td><td><a href="/hyperos/corot/stable/OS1.0.23.0.UMLCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.17.0.UMLCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-07-05</td><td><a href="/hyperos/corot/stable beta/OS1.0.17.0.UMLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.UMLEUXM</td><td>14.0</td><td>7.8 GB</td><td>2024-07-26</td><td><a href="/hyperos/corot/stable/OS1.0.9.0.UMLEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UMLEUXM</td><td>14.0</td><td>5.9 GB</td><td>2024-08-07</td><td><a href="/hyperos/corot/stable/OS1.0.9.0.UMLEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UMLMIXM</td><td>14.0</td><td>8.1 GB</td><td>2024-08-06</td><td><a href="/hyperos/corot/stable/OS1.0.6.0.UMLMIXM/">Download</a></td></tr>

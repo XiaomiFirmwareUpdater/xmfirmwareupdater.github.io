@@ -2949,15 +2949,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2024-09-23'
+  date: '2024-10-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-23.09.2024/fw_lisa_miui_LISAEEAGlobal_OS1.0.9.0.UKOEUXM_8e6352deee_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/lisa/fw_lisa_miui_LISAEEAGlobal_OS1.0.9.0.UKOEUXM_8e6352deee_14.0.zip
-  filename: fw_lisa_miui_LISAEEAGlobal_OS1.0.9.0.UKOEUXM_8e6352deee_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-31.10.2024/fw_lisa_miui_LISAEEAGlobal_OS1.0.10.0.UKOEUXM_cd35b0998b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/lisa/fw_lisa_miui_LISAEEAGlobal_OS1.0.10.0.UKOEUXM_cd35b0998b_14.0.zip
+  filename: fw_lisa_miui_LISAEEAGlobal_OS1.0.10.0.UKOEUXM_cd35b0998b_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.9.0.UKOEUXM
+    miui: OS1.0.10.0.UKOEUXM
 - branch: stable
   date: '2024-10-28'
   downloads:
@@ -4679,15 +4679,15 @@
     android: '14.0'
     miui: OS1.0.27.0.UNNCNXM
 - branch: stable
-  date: '2024-09-30'
+  date: '2024-10-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-30.09.2024/fw_rothko_miui_ROTHKOEEAGlobal_OS1.0.11.0.UNNEUXM_b39f03a0e4_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rothko/fw_rothko_miui_ROTHKOEEAGlobal_OS1.0.11.0.UNNEUXM_b39f03a0e4_14.0.zip
-  filename: fw_rothko_miui_ROTHKOEEAGlobal_OS1.0.11.0.UNNEUXM_b39f03a0e4_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-31.10.2024/fw_rothko_miui_ROTHKOEEAGlobal_OS1.0.13.0.UNNEUXM_0d3d9ecfb6_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rothko/fw_rothko_miui_ROTHKOEEAGlobal_OS1.0.13.0.UNNEUXM_0d3d9ecfb6_14.0.zip
+  filename: fw_rothko_miui_ROTHKOEEAGlobal_OS1.0.13.0.UNNEUXM_0d3d9ecfb6_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.11.0.UNNEUXM
+    miui: OS1.0.13.0.UNNEUXM
 - branch: stable
   date: '2024-10-14'
   downloads:
