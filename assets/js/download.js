@@ -66,7 +66,7 @@ $(document).ready(async function () {
         android = parts[parts.length - 1].split(".zip")[0];
     }
     let branch;
-    if (version.startsWith('V')) {
+    if (version.startsWith('V') || version.startsWith('OS')) {
         branch = 'Stable';
     }
     else {
