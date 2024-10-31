@@ -155,7 +155,7 @@ def load_releases():
                         region = "India"
                     elif "RU" in miui_version:
                         region = "Russia"
-                    elif "MI" in miui_version and "CN" not in miui_version:
+                    elif "MI" in miui_version and "CNMI" not in miui_version:
                         region = "Global"
                     else:
                         region = "China"
