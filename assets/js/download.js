@@ -8,6 +8,7 @@ async function getUrlVars() {
 }
 
 async function generate_link(filename, branch, version, codename) {
+    let link
     await $.ajax({
         url: '/data/devices/full/' + codename + '.yml',
         async: true,
@@ -18,7 +19,6 @@ async function generate_link(filename, branch, version, codename) {
         },
         dataType: 'yaml'
     }).done(function (data) {
-        let link
         for (let i = 0; i < data.length; i++) {
             if (data[i].filename == filename) {
                 link = data[i].downloads.github;
