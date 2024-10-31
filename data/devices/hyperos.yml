@@ -4577,6 +4577,12 @@
   name: Redmi Turbo 3/POCO F6
   version: OS1.0.4.0.UNPMIXM
 - android: '14.0'
+  codename: peridot
+  date: '2024-10-31'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UNPEUXM/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.6.0.UNPEUXM_8848314383_14.0.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS1.0.6.0.UNPEUXM
+- android: '14.0'
   codename: pipa
   date: '2024-07-30'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMZINXM/fw_pipa_miui_PIPAINGlobal_OS1.0.5.0.UMZINXM_98b65c88cf_14.0.zip

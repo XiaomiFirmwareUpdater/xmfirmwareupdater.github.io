@@ -3899,15 +3899,15 @@
     android: '14.0'
     miui: OS1.0.16.0.UNPCNXM
 - branch: stable
-  date: '2024-10-08'
+  date: '2024-10-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-08.10.2024/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.5.0.UNPEUXM_5fcb82d608_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/peridot/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.5.0.UNPEUXM_5fcb82d608_14.0.zip
-  filename: fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.5.0.UNPEUXM_5fcb82d608_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-01.11.2024/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.6.0.UNPEUXM_8848314383_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/peridot/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.6.0.UNPEUXM_8848314383_14.0.zip
+  filename: fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.6.0.UNPEUXM_8848314383_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UNPEUXM
+    miui: OS1.0.6.0.UNPEUXM
 - branch: stable
   date: '2024-09-30'
   downloads:
