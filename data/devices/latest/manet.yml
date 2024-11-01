@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2024-09-30'
+  date: '2024-11-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-30.09.2024/fw_manet_miui_MANET_OS1.0.21.0.UNMCNXM_6e249564a8_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/manet/fw_manet_miui_MANET_OS1.0.21.0.UNMCNXM_6e249564a8_14.0.zip
-  filename: fw_manet_miui_MANET_OS1.0.21.0.UNMCNXM_6e249564a8_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-01.11.2024/fw_manet_miui_MANET_OS1.0.22.0.UNMCNXM_fabcc29173_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/manet/fw_manet_miui_MANET_OS1.0.22.0.UNMCNXM_fabcc29173_14.0.zip
+  filename: fw_manet_miui_MANET_OS1.0.22.0.UNMCNXM_fabcc29173_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.21.0.UNMCNXM
+    miui: OS1.0.22.0.UNMCNXM
