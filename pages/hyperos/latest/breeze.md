@@ -56,6 +56,7 @@ permalink: /hyperos/breeze/
 <tr><td>Redmi Note 13R China</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UNUCNXM</td><td>14.0</td><td>4.7 GB</td><td>2024-08-29</td><td><a href="/hyperos/breeze/stable/OS1.0.7.0.UNUCNXM/">Download</a></td></tr>
 <tr><td>Redmi 13 5G / POCO M6 Plus 5G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.UNUINXM</td><td>14.0</td><td>6.7 GB</td><td>2024-09-12</td><td><a href="/hyperos/breeze/stable/OS1.0.9.0.UNUINXM/">Download</a></td></tr>
 <tr><td>Redmi 13 5G / POCO M6 Plus 5G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UNUINXM</td><td>14.0</td><td>4.2 GB</td><td>2024-09-15</td><td><a href="/hyperos/breeze/stable/OS1.0.9.0.UNUINXM/">Download</a></td></tr>
+<tr><td>Redmi 13 5G / POCO M6 Plus 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.10.0.UNUINXM</td><td>14.0</td><td>4.2 GB</td><td>2024-10-29</td><td><a href="/hyperos/breeze/stable beta/OS1.0.10.0.UNUINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
