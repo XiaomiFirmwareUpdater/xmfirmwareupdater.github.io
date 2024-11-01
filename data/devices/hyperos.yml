@@ -118,6 +118,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UGQCNXM/fw_air_miui_AIR_OS1.0.2.0.UGQCNXM_8dd01b5895_14.0.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
   version: OS1.0.2.0.UGQCNXM
+- android: '14.0'
+  codename: air
+  date: '2024-11-01'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UGQEUXM/fw_air_miui_AIREEAGlobal_OS1.0.4.0.UGQEUXM_45d6085bdb_14.0.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS1.0.4.0.UGQEUXM
 - android: '13.0'
   codename: alioth
   date: '2024-08-26'
@@ -5196,6 +5202,24 @@
   version: OS1.0.2.0.UMSINXM
 - android: '14.0'
   codename: redwood
+  date: '2024-11-01'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMSEUXM/fw_redwood_miui_REDWOODEEAGlobal_OS1.0.9.0.UMSEUXM_9fd7e69a4c_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.9.0.UMSEUXM
+- android: '14.0'
+  codename: redwood
+  date: '2024-11-01'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMSMIXM/fw_redwood_miui_REDWOODGlobal_OS1.0.8.0.UMSMIXM_dca18e1a93_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.8.0.UMSMIXM
+- android: '14.0'
+  codename: redwood
+  date: '2024-11-01'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMSINXM/fw_redwood_miui_REDWOODINGlobal_OS1.0.8.0.UMSINXM_69a007f981_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.8.0.UMSINXM
+- android: '14.0'
+  codename: redwood
   date: '2024-07-01'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMSMIXM/fw_redwood_miui_REDWOODGlobal_OS1.0.5.0.UMSMIXM_fe1d4ce60d_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
@@ -7354,6 +7378,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.TKCCNXM/fw_veux_miui_VEUX_OS1.0.1.0.TKCCNXM_ed2e1d34ba_13.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
   version: OS1.0.1.0.TKCCNXM
+- android: '13.0'
+  codename: veux
+  date: '2024-11-01'
+  download: https://bigota.d.miui.com/OS1.0.7.0.TKCCNXM/fw_veux_miui_VEUX_OS1.0.7.0.TKCCNXM_d2e9466edd_13.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: OS1.0.7.0.TKCCNXM
 - android: '13.0'
   codename: vida
   date: '2024-09-07'

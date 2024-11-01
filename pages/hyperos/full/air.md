@@ -52,7 +52,9 @@ permalink: /archive/hyperos/air/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 13R 5G / POCO M6 5G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UGQINXM</td><td>14.0</td><td>4.3 GB</td><td>2024-10-08</td><td><a href="/hyperos/air/stable/OS1.0.3.0.UGQINXM/">Download</a></td></tr>
+                <tr><td>Redmi 13R 5G / 13C 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UGQEUXM</td><td>14.0</td><td>4.6 GB</td><td>2024-10-18</td><td><a href="/hyperos/air/stable/OS1.0.4.0.UGQEUXM/">Download</a></td></tr>
+<tr><td>Redmi 13R 5G / 13C 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UGQEUXM</td><td>14.0</td><td>7.1 GB</td><td>2024-10-14</td><td><a href="/hyperos/air/stable/OS1.0.4.0.UGQEUXM/">Download</a></td></tr>
+<tr><td>Redmi 13R 5G / POCO M6 5G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UGQINXM</td><td>14.0</td><td>4.3 GB</td><td>2024-10-08</td><td><a href="/hyperos/air/stable/OS1.0.3.0.UGQINXM/">Download</a></td></tr>
 <tr><td>Redmi 13R 5G / POCO M6 5G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UGQINXM</td><td>14.0</td><td>5.9 GB</td><td>2024-09-13</td><td><a href="/hyperos/air/stable/OS1.0.3.0.UGQINXM/">Download</a></td></tr>
 <tr><td>Redmi 13R 5G / 13C 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UGQEUXM</td><td>14.0</td><td>4.6 GB</td><td>2024-09-25</td><td><a href="/hyperos/air/stable/OS1.0.3.0.UGQEUXM/">Download</a></td></tr>
 <tr><td>Redmi 13R 5G / 13C 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UGQEUXM</td><td>14.0</td><td>7.0 GB</td><td>2024-09-11</td><td><a href="/hyperos/air/stable/OS1.0.3.0.UGQEUXM/">Download</a></td></tr>

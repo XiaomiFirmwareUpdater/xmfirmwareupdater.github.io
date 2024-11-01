@@ -19,15 +19,15 @@
     android: '14.0'
     miui: OS1.0.2.0.UGQCNXM
 - branch: stable
-  date: '2024-10-18'
+  date: '2024-11-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-18.10.2024/fw_air_miui_AIREEAGlobal_V14.0.8.0.TGQEUXM_637b261094_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/air/fw_air_miui_AIREEAGlobal_V14.0.8.0.TGQEUXM_637b261094_13.0.zip
-  filename: fw_air_miui_AIREEAGlobal_V14.0.8.0.TGQEUXM_637b261094_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-01.11.2024/fw_air_miui_AIREEAGlobal_OS1.0.4.0.UGQEUXM_45d6085bdb_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/air/fw_air_miui_AIREEAGlobal_OS1.0.4.0.UGQEUXM_45d6085bdb_14.0.zip
+  filename: fw_air_miui_AIREEAGlobal_OS1.0.4.0.UGQEUXM_45d6085bdb_14.0.zip
   region: Europe
   versions:
-    android: '13.0'
-    miui: V14.0.8.0.TGQEUXM
+    android: '14.0'
+    miui: OS1.0.4.0.UGQEUXM
 - branch: stable
   date: '2024-10-11'
   downloads:
