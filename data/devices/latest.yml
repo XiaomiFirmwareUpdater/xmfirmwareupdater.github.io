@@ -109,15 +109,15 @@
     android: '13.0'
     miui: OS1.0.2.0.TKHINXM
 - branch: stable
-  date: '2024-10-05'
+  date: '2024-11-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-05.10.2024/fw_amethyst_miui_AMETHYST_OS1.0.15.0.UOPCNXM_25d98c8903_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/amethyst/fw_amethyst_miui_AMETHYST_OS1.0.15.0.UOPCNXM_25d98c8903_14.0.zip
-  filename: fw_amethyst_miui_AMETHYST_OS1.0.15.0.UOPCNXM_25d98c8903_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-01.11.2024/fw_amethyst_miui_AMETHYST_OS1.0.19.0.UOPCNXM_b683fb157e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/amethyst/fw_amethyst_miui_AMETHYST_OS1.0.19.0.UOPCNXM_b683fb157e_14.0.zip
+  filename: fw_amethyst_miui_AMETHYST_OS1.0.19.0.UOPCNXM_b683fb157e_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.15.0.UOPCNXM
+    miui: OS1.0.19.0.UOPCNXM
 - branch: stable
   date: '2021-03-29'
   downloads:
@@ -1399,15 +1399,15 @@
     android: '14.0'
     miui: OS1.0.10.0.ULFEUXM
 - branch: stable
-  date: '2024-08-30'
+  date: '2024-11-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-30.08.2024/fw_dizi_miui_DIZIGlobal_OS1.0.7.0.UNSMIXM_240c10987b_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/dizi/fw_dizi_miui_DIZIGlobal_OS1.0.7.0.UNSMIXM_240c10987b_14.0.zip
-  filename: fw_dizi_miui_DIZIGlobal_OS1.0.7.0.UNSMIXM_240c10987b_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-01.11.2024/fw_dizi_miui_DIZIGlobal_OS1.0.8.0.UNSMIXM_60340cb57c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/dizi/fw_dizi_miui_DIZIGlobal_OS1.0.8.0.UNSMIXM_60340cb57c_14.0.zip
+  filename: fw_dizi_miui_DIZIGlobal_OS1.0.8.0.UNSMIXM_60340cb57c_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.7.0.UNSMIXM
+    miui: OS1.0.8.0.UNSMIXM
 - branch: stable
   date: '2024-08-26'
   downloads:
@@ -3869,15 +3869,15 @@
     android: '7.1'
     miui: 9.10.10
 - branch: stable
-  date: '2024-10-15'
+  date: '2024-11-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pearl/releases/download/stable-15.10.2024/fw_pearl_miui_PEARL_OS1.0.5.0.ULHCNXM_43b5bc657b_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pearl/fw_pearl_miui_PEARL_OS1.0.5.0.ULHCNXM_43b5bc657b_14.0.zip
-  filename: fw_pearl_miui_PEARL_OS1.0.5.0.ULHCNXM_43b5bc657b_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pearl/releases/download/stable-01.11.2024/fw_pearl_miui_PEARL_OS1.0.6.0.ULHCNXM_21fa036d40_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pearl/fw_pearl_miui_PEARL_OS1.0.6.0.ULHCNXM_21fa036d40_14.0.zip
+  filename: fw_pearl_miui_PEARL_OS1.0.6.0.ULHCNXM_21fa036d40_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.ULHCNXM
+    miui: OS1.0.6.0.ULHCNXM
 - branch: stable
   date: '2024-10-28'
   downloads:
