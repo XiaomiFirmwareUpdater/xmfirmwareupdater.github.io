@@ -29,12 +29,12 @@
     android: '14.0'
     miui: OS1.0.9.0.UMBEUXM
 - branch: stable
-  date: '2024-09-24'
+  date: '2024-11-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-24.09.2024/fw_nuwa_miui_NUWAINGlobal_OS1.0.9.0.UMBINXM_98a292ad06_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAINGlobal_OS1.0.9.0.UMBINXM_98a292ad06_14.0.zip
-  filename: fw_nuwa_miui_NUWAINGlobal_OS1.0.9.0.UMBINXM_98a292ad06_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-02.11.2024/fw_nuwa_miui_NUWAINGlobal_OS1.0.10.0.UMBINXM_b1d5a68759_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAINGlobal_OS1.0.10.0.UMBINXM_b1d5a68759_14.0.zip
+  filename: fw_nuwa_miui_NUWAINGlobal_OS1.0.10.0.UMBINXM_b1d5a68759_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.9.0.UMBINXM
+    miui: OS1.0.10.0.UMBINXM
