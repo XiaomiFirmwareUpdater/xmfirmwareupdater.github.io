@@ -60,6 +60,12 @@
   version: OS1.0.4.0.UKWMIXM
 - android: '14.0'
   codename: agate
+  date: '2024-11-02'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UKWEUXM/fw_agate_miui_AGATEEEAGlobal_OS1.0.7.0.UKWEUXM_0956198d58_14.0.zip
+  name: Xiaomi 11T
+  version: OS1.0.7.0.UKWEUXM
+- android: '14.0'
+  codename: agate
   date: '2024-02-02'
   download: https://bigota.d.miui.com/OS1.0.2.0.UKWEUXM/fw_agate_miui_AGATEEEAGlobal_OS1.0.2.0.UKWEUXM_adccc0e057_14.0.zip
   name: Xiaomi 11T
@@ -5434,6 +5440,12 @@
   download: https://bigota.d.miui.com/OS1.0.20.0.UNNCNXM/fw_rothko_miui_ROTHKO_OS1.0.20.0.UNNCNXM_dea22370a9_14.0.zip
   name: Redmi K70 Ultra/Xiaomi 14T Pro
   version: OS1.0.20.0.UNNCNXM
+- android: '14.0'
+  codename: rothko
+  date: '2024-11-02'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UNNMIXM/fw_rothko_miui_ROTHKOGlobal_OS1.0.8.0.UNNMIXM_b2186be214_14.0.zip
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
+  version: OS1.0.8.0.UNNMIXM
 - android: '14.0'
   codename: rothko
   date: '2024-08-02'
