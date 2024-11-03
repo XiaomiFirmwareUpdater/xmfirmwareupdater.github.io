@@ -7751,6 +7751,12 @@
   name: Redmi Pad SE
   version: OS1.0.2.0.UMUINXM
 - android: '14.0'
+  codename: xun
+  date: '2024-11-03'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMUEUXM/fw_xun_miui_XUNEEAGlobal_OS1.0.4.0.UMUEUXM_3cabc34493_14.0.zip
+  name: Redmi Pad SE
+  version: OS1.0.4.0.UMUEUXM
+- android: '14.0'
   codename: yudi
   date: '2024-09-30'
   download: https://bigota.d.miui.com/OS1.0.13.0.UMHCNXM/fw_yudi_miui_YUDI_OS1.0.13.0.UMHCNXM_0fa7448917_14.0.zip
