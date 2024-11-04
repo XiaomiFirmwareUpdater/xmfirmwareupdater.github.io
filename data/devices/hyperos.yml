@@ -1031,6 +1031,12 @@
   name: Xiaomi 14T
   version: OS1.0.4.0.UNEEUXM
 - android: '14.0'
+  codename: degas
+  date: '2024-11-04'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UNEMIXM/fw_degas_miui_DEGASGlobal_OS1.0.7.0.UNEMIXM_498fe4dcb3_14.0.zip
+  name: Xiaomi 14T
+  version: OS1.0.7.0.UNEMIXM
+- android: '14.0'
   codename: diting
   date: '2024-10-28'
   download: https://bigota.d.miui.com/OS1.0.8.0.ULFMIXM/fw_diting_miui_DITINGGlobal_OS1.0.8.0.ULFMIXM_63b292d427_14.0.zip
@@ -2298,6 +2304,12 @@
   version: OS1.0.16.0.UNREUXM
 - android: '14.0'
   codename: garnet
+  date: '2024-11-04'
+  download: https://bigota.d.miui.com/OS1.0.21.0.UNREUXM/fw_garnet_miui_GARNETEEAGlobal_OS1.0.21.0.UNREUXM_91cb2ae185_14.0.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS1.0.21.0.UNREUXM
+- android: '14.0'
+  codename: garnet
   date: '2024-09-02'
   download: https://bigota.d.miui.com/OS1.0.18.0.UNREUXM/fw_garnet_miui_GARNETEEAGlobal_OS1.0.18.0.UNREUXM_cc19675895_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
@@ -3084,6 +3096,12 @@
   version: OS1.0.8.0.UMACNXM
 - android: '14.0'
   codename: ishtar
+  date: '2024-11-04'
+  download: https://bigota.d.miui.com/OS1.0.14.0.UMAMIXM/fw_ishtar_miui_ISHTARGlobal_OS1.0.14.0.UMAMIXM_7a7e11eedf_14.0.zip
+  name: Xiaomi 13 Ultra
+  version: OS1.0.14.0.UMAMIXM
+- android: '14.0'
+  codename: ishtar
   date: '2024-03-04'
   download: https://bigota.d.miui.com/OS1.0.6.0.UMAEUXM/fw_ishtar_miui_ISHTAREEAGlobal_OS1.0.6.0.UMAEUXM_2baffd7962_14.0.zip
   name: Xiaomi 13 Ultra
@@ -3658,6 +3676,18 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UMREUXM/fw_marble_miui_MARBLEEEAGlobal_OS1.0.9.0.UMREUXM_fdaf5c8f41_14.0.zip
   name: Redmi Note 12 Turbo/POCO F5
   version: OS1.0.9.0.UMREUXM
+- android: '14.0'
+  codename: marble
+  date: '2024-11-04'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UMRMIXM/fw_marble_miui_MARBLEGlobal_OS1.0.10.0.UMRMIXM_f2f23aea01_14.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS1.0.10.0.UMRMIXM
+- android: '14.0'
+  codename: marble
+  date: '2024-11-04'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UMRINXM/fw_marble_miui_MARBLEINGlobal_OS1.0.13.0.UMRINXM_5667388d03_14.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS1.0.13.0.UMRINXM
 - android: '14.0'
   codename: marble
   date: '2024-03-04'
@@ -5309,6 +5339,12 @@
   name: Redmi K60E
   version: OS1.0.6.0.UMMCNXM
 - android: '14.0'
+  codename: rembrandt
+  date: '2024-11-04'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UMMCNXM/fw_rembrandt_miui_REMBRANDT_OS1.0.10.0.UMMCNXM_de81c05f57_14.0.zip
+  name: Redmi K60E
+  version: OS1.0.10.0.UMMCNXM
+- android: '14.0'
   codename: rock
   date: '2024-07-30'
   download: https://bigota.d.miui.com/OS1.0.4.0.ULUEUXM/fw_rock_miui_ROCKEEAGlobal_OS1.0.4.0.ULUEUXM_cb87d48c3a_14.0.zip
@@ -6352,6 +6388,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UMWINXM/fw_sky_miui_SKYINGlobal_OS1.0.1.0.UMWINXM_f5443ea0c8_14.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
   version: OS1.0.1.0.UMWINXM
+- android: '14.0'
+  codename: sky
+  date: '2024-11-04'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UMWEUXM/fw_sky_miui_SKYEEAGlobal_OS1.0.10.0.UMWEUXM_e192953101_14.0.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS1.0.10.0.UMWEUXM
 - android: '14.0'
   codename: sky
   date: '2024-09-03'
@@ -7816,6 +7858,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UMICNXM/fw_yuechu_miui_YUECHU_OS1.0.7.0.UMICNXM_c0c6958baf_14.0.zip
   name: Xiaomi Civi 3
   version: OS1.0.7.0.UMICNXM
+- android: '14.0'
+  codename: yuechu
+  date: '2024-11-04'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UMICNXM/fw_yuechu_miui_YUECHU_OS1.0.12.0.UMICNXM_2d18463556_14.0.zip
+  name: Xiaomi Civi 3
+  version: OS1.0.12.0.UMICNXM
 - android: '14.0'
   codename: yuechu
   date: '2024-09-02'

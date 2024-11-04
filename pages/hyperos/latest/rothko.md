@@ -73,6 +73,7 @@ permalink: /hyperos/rothko/
 <tr><td>Xiaomi 14T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UNNTRXM</td><td>14.0</td><td>5.8 GB</td><td>2024-10-22</td><td><a href="/hyperos/rothko/stable/OS1.0.2.0.UNNTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UNNTWXM</td><td>14.0</td><td>7.0 GB</td><td>2024-09-21</td><td><a href="/hyperos/rothko/stable/OS1.0.2.0.UNNTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UNNTWXM</td><td>14.0</td><td>5.7 GB</td><td>2024-10-01</td><td><a href="/hyperos/rothko/stable/OS1.0.2.0.UNNTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UNNTWXM</td><td>14.0</td><td>5.7 GB</td><td>2024-10-30</td><td><a href="/hyperos/rothko/stable beta/OS1.0.3.0.UNNTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
