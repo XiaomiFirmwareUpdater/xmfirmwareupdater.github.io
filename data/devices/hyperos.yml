@@ -4668,6 +4668,12 @@
   version: OS1.0.4.0.UNPMIXM
 - android: '14.0'
   codename: peridot
+  date: '2024-11-04'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UNPINXM/fw_peridot_miui_PERIDOTINGlobal_OS1.0.7.0.UNPINXM_e3351c5e82_14.0.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS1.0.7.0.UNPINXM
+- android: '14.0'
+  codename: peridot
   date: '2024-10-31'
   download: https://bigota.d.miui.com/OS1.0.6.0.UNPEUXM/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.6.0.UNPEUXM_8848314383_14.0.zip
   name: Redmi Turbo 3/POCO F6
@@ -5902,6 +5908,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UNGMIXM/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.3.0.UNGMIXM_23bd85bb06_14.0.zip
   name: Redmi Note 13
   version: OS1.0.3.0.UNGMIXM
+- android: '14.0'
+  codename: sapphire
+  date: '2024-11-04'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UNGMIXM/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.10.0.UNGMIXM_b2dd8a307b_14.0.zip
+  name: Redmi Note 13
+  version: OS1.0.10.0.UNGMIXM
 - android: '14.0'
   codename: sapphiren
   date: '2024-09-30'
