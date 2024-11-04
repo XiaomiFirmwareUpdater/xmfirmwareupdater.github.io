@@ -2076,6 +2076,12 @@
   version: OS1.0.3.0.UMCEUXM
 - android: '14.0'
   codename: fuxi
+  date: '2024-11-04'
+  download: https://bigota.d.miui.com/OS1.0.17.0.UMCCNXM/fw_fuxi_miui_FUXI_OS1.0.17.0.UMCCNXM_033f638b18_14.0.zip
+  name: Xiaomi 13
+  version: OS1.0.17.0.UMCCNXM
+- android: '14.0'
+  codename: fuxi
   date: '2024-09-03'
   download: https://bigota.d.miui.com/OS1.0.13.0.UMCCNXM/fw_fuxi_miui_FUXI_OS1.0.13.0.UMCCNXM_107a4a63a1_14.0.zip
   name: Xiaomi 13
