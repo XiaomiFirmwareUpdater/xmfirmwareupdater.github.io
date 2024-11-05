@@ -977,6 +977,12 @@
   name: Xiaomi Pad 5 Pro 12.4
   version: OS1.0.4.0.ULZCNXM
 - android: '14.0'
+  codename: dagu
+  date: '2024-11-05'
+  download: https://bigota.d.miui.com/OS1.0.7.0.ULZCNXM/fw_dagu_miui_DAGU_OS1.0.7.0.ULZCNXM_02e9fddc7b_14.0.zip
+  name: Xiaomi Pad 5 Pro 12.4
+  version: OS1.0.7.0.ULZCNXM
+- android: '14.0'
   codename: daumier
   date: '2024-08-19'
   download: https://bigota.d.miui.com/OS1.0.5.0.ULGCNXM/fw_daumier_miui_DAUMIER_OS1.0.5.0.ULGCNXM_af47cd206c_14.0.zip
@@ -2308,6 +2314,12 @@
   download: https://bigota.d.miui.com/OS1.0.16.0.UNREUXM/fw_garnet_miui_GARNETEEAGlobal_OS1.0.16.0.UNREUXM_21a87ea0cf_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS1.0.16.0.UNREUXM
+- android: '14.0'
+  codename: garnet
+  date: '2024-11-05'
+  download: https://bigota.d.miui.com/OS1.0.14.0.UNRINXM/fw_garnet_miui_GARNETINGlobal_OS1.0.14.0.UNRINXM_b2787caeab_14.0.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS1.0.14.0.UNRINXM
 - android: '14.0'
   codename: garnet
   date: '2024-11-04'
@@ -5590,6 +5602,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UFSMIXM/fw_ruan_miui_RUANGlobal_OS1.0.3.0.UFSMIXM_90fa0099aa_14.0.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS1.0.3.0.UFSMIXM
+- android: '14.0'
+  codename: ruan
+  date: '2024-11-05'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UFSINXM/fw_ruan_miui_RUANINGlobal_OS1.0.7.0.UFSINXM_41ed1025c2_14.0.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS1.0.7.0.UFSINXM
 - android: '14.0'
   codename: ruan
   date: '2024-09-05'
