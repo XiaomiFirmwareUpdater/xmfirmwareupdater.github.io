@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-10-15'
+  date: '2024-11-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-15.10.2024/fw_venus_miui_VENUSGlobal_OS1.0.8.0.UKBMIXM_0b57996bb2_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/venus/fw_venus_miui_VENUSGlobal_OS1.0.8.0.UKBMIXM_0b57996bb2_14.0.zip
-  filename: fw_venus_miui_VENUSGlobal_OS1.0.8.0.UKBMIXM_0b57996bb2_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-06.11.2024/fw_venus_miui_VENUSGlobal_OS1.0.9.0.UKBMIXM_00b61ab6e0_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/venus/fw_venus_miui_VENUSGlobal_OS1.0.9.0.UKBMIXM_00b61ab6e0_14.0.zip
+  filename: fw_venus_miui_VENUSGlobal_OS1.0.9.0.UKBMIXM_00b61ab6e0_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.8.0.UKBMIXM
+    miui: OS1.0.9.0.UKBMIXM
 - branch: stable
   date: '2024-10-28'
   downloads:
