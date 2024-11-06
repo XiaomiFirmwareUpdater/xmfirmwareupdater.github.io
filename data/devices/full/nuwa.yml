@@ -409,6 +409,16 @@
     android: '13.0'
     miui: V14.0.10.0.TMBINXM
 - branch: stable
+  date: '2024-11-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-06.11.2024/fw_nuwa_miui_NUWA_OS1.0.15.0.UMBCNXM_650d1d27e1_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWA_OS1.0.15.0.UMBCNXM_650d1d27e1_14.0.zip
+  filename: fw_nuwa_miui_NUWA_OS1.0.15.0.UMBCNXM_650d1d27e1_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.15.0.UMBCNXM
+- branch: stable
   date: '2023-09-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-06.09.2023/fw_nuwa_miui_NUWAEEAGlobal_V14.0.28.0.TMBEUXM_d6bc3716b8_13.0.zip
