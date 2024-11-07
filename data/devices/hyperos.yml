@@ -1859,6 +1859,12 @@
   name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
   version: OS1.0.9.0.UGUCNXM
 - android: '14.0'
+  codename: flame
+  date: '2024-11-07'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UGUCNXM/fw_flame_miui_FLAME_OS1.0.11.0.UGUCNXM_f998e608d6_14.0.zip
+  name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
+  version: OS1.0.11.0.UGUCNXM
+- android: '14.0'
   codename: flare
   date: '2024-08-28'
   download: https://bigota.d.miui.com/OS1.0.3.0.UHXEUXM/fw_flare_miui_FLAREEEAGlobal_OS1.0.3.0.UHXEUXM_497ec4a320_14.0.zip
@@ -7924,6 +7930,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMUCNXM/fw_xun_miui_XUN_OS1.0.5.0.UMUCNXM_892043337f_14.0.zip
   name: Redmi Pad SE
   version: OS1.0.5.0.UMUCNXM
+- android: '14.0'
+  codename: xun
+  date: '2024-11-07'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UMUINXM/fw_xun_miui_XUNINGlobal_OS1.0.3.0.UMUINXM_64b0290e6e_14.0.zip
+  name: Redmi Pad SE
+  version: OS1.0.3.0.UMUINXM
 - android: '14.0'
   codename: xun
   date: '2024-09-05'
