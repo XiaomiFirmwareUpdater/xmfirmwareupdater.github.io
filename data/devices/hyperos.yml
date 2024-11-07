@@ -4518,6 +4518,18 @@
   version: OS1.0.4.0.UMBCNXM
 - android: '14.0'
   codename: nuwa
+  date: '2024-11-07'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UMBEUXM/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.10.0.UMBEUXM_463d9f5a48_14.0.zip
+  name: Xiaomi 13 Pro
+  version: OS1.0.10.0.UMBEUXM
+- android: '14.0'
+  codename: nuwa
+  date: '2024-11-07'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UMBMIXM/fw_nuwa_miui_NUWAGlobal_OS1.0.11.0.UMBMIXM_4adec2bf9a_14.0.zip
+  name: Xiaomi 13 Pro
+  version: OS1.0.11.0.UMBMIXM
+- android: '14.0'
+  codename: nuwa
   date: '2024-11-06'
   download: https://bigota.d.miui.com/OS1.0.15.0.UMBCNXM/fw_nuwa_miui_NUWA_OS1.0.15.0.UMBCNXM_650d1d27e1_14.0.zip
   name: Xiaomi 13 Pro
@@ -8284,6 +8296,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.ULPCNXM/fw_zijin_miui_ZIJIN_OS1.0.6.0.ULPCNXM_66a9185636_14.0.zip
   name: Xiaomi Civi 1S
   version: OS1.0.6.0.ULPCNXM
+- android: '14.0'
+  codename: zijin
+  date: '2024-11-07'
+  download: https://bigota.d.miui.com/OS1.0.7.0.ULPCNXM/fw_zijin_miui_ZIJIN_OS1.0.7.0.ULPCNXM_94c824d454_14.0.zip
+  name: Xiaomi Civi 1S
+  version: OS1.0.7.0.ULPCNXM
 - android: '14.0'
   codename: zijin
   date: '2024-03-04'

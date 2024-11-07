@@ -3,7 +3,7 @@ title: Xiaomi 13 Pro Taiwan HyperOS OS1.0.9.0.UMBTWXM Update
 layout: download
 name: Xiaomi 13 Pro Taiwan
 codename: nuwa
-permalink: /hyperos/nuwa/stable beta/OS1.0.9.0.UMBTWXM/
+permalink: /hyperos/nuwa/stable/OS1.0.9.0.UMBTWXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/nuwa/stable beta/OS1.0.9.0.UMBTWXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.9.0.UMBTWXM Stable Beta Official Update for Xiaomi 13 Pro Taiwan (nuwa)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.9.0.UMBTWXM Stable Official Update for Xiaomi 13 Pro Taiwan (nuwa)</h3>
     <h5>This page shows the OS1.0.9.0.UMBTWXM update only. If you're looking for other updates check
         <a href="/hyperos/nuwa/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/nuwa/stable beta/OS1.0.9.0.UMBTWXM/
                     <h5><b>Version: </b>OS1.0.9.0.UMBTWXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/nuwa/stable beta/OS1.0.9.0.UMBTWXM/
                             aria-expanded="false" aria-controls="nuwa_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="nuwa_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to October 2024. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi 13 Pro Taiwan</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/nuwa/" target="_blank">nuwa</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.9.0.UMBTWXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>6.8 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-10-17</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">nuwa_tw_global_images_OS1.0.9.0.UMBTWXM_20241017.0000.00_14.0_tw_74f5c84023.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">74f5c84023fe5b82876f54f0e63a6b63</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.9.0.UMBTWXM/nuwa_tw_global_images_OS1.0.9.0.UMBTWXM_20241017.0000.00_14.0_tw_74f5c84023.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.9.0.UMBTWXM/nuwa_tw_global_images_OS1.0.9.0.UMBTWXM_20241017.0000.00_14.0_tw_74f5c84023.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.9.0.UMBTWXM/nuwa_tw_global_images_OS1.0.9.0.UMBTWXM_20241017.0000.00_14.0_tw_74f5c84023.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.9.0.UMBTWXM/nuwa_tw_global_images_OS1.0.9.0.UMBTWXM_20241017.0000.00_14.0_tw_74f5c84023.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.9.0.UMBTWXM/nuwa_tw_global_images_OS1.0.9.0.UMBTWXM_20241017.0000.00_14.0_tw_74f5c84023.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#nuwa_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="nuwa_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="nuwa_2_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to October 2024. Increased system security.</p>
                     </div>
                 </li>
