@@ -78,7 +78,7 @@ permalink: /hyperos/malachite/stable/OS1.0.10.0.UOOCNXM/
                             aria-expanded="false" aria-controls="malachite_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="malachite_1_changelog">
-                        <p id="changelog_text">[System]<br>Optimization: System stability<br>Updated the security patch to October 2024. Increased system security.<br>[Interconnectivity]<br>New: Support for Xiaomi Share features</p>
+                        <p id="changelog_text">[System]<br>Optimization: System stability<br>Updated the security patch to October 2024. Increased system security.</p>
                     </div>
                 </li>
             </ul>
