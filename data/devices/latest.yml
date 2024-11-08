@@ -2399,35 +2399,35 @@
     android: '5.1'
     miui: V9.5.2.0.LAICNFA
 - branch: stable
-  date: '2024-10-08'
+  date: '2024-11-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-08.10.2024/fw_ingres_miui_INGRESGlobal_OS1.0.6.0.ULJMIXM_7f33e8a6db_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ingres/fw_ingres_miui_INGRESGlobal_OS1.0.6.0.ULJMIXM_7f33e8a6db_14.0.zip
-  filename: fw_ingres_miui_INGRESGlobal_OS1.0.6.0.ULJMIXM_7f33e8a6db_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-08.11.2024/fw_ingres_miui_INGRESGlobal_OS1.0.7.0.ULJMIXM_f88a79db59_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ingres/fw_ingres_miui_INGRESGlobal_OS1.0.7.0.ULJMIXM_f88a79db59_14.0.zip
+  filename: fw_ingres_miui_INGRESGlobal_OS1.0.7.0.ULJMIXM_f88a79db59_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.ULJMIXM
+    miui: OS1.0.7.0.ULJMIXM
 - branch: stable
-  date: '2024-10-08'
+  date: '2024-11-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-08.10.2024/fw_ingres_miui_INGRES_OS1.0.6.0.ULJCNXM_d83831cf61_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ingres/fw_ingres_miui_INGRES_OS1.0.6.0.ULJCNXM_d83831cf61_14.0.zip
-  filename: fw_ingres_miui_INGRES_OS1.0.6.0.ULJCNXM_d83831cf61_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-08.11.2024/fw_ingres_miui_INGRES_OS1.0.7.0.ULJCNXM_a2c64d68df_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ingres/fw_ingres_miui_INGRES_OS1.0.7.0.ULJCNXM_a2c64d68df_14.0.zip
+  filename: fw_ingres_miui_INGRES_OS1.0.7.0.ULJCNXM_a2c64d68df_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.ULJCNXM
+    miui: OS1.0.7.0.ULJCNXM
 - branch: stable
-  date: '2024-10-12'
+  date: '2024-11-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-12.10.2024/fw_ingres_miui_INGRESEEAGlobal_OS1.0.6.0.ULJEUXM_5b5cd3ceaa_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ingres/fw_ingres_miui_INGRESEEAGlobal_OS1.0.6.0.ULJEUXM_5b5cd3ceaa_14.0.zip
-  filename: fw_ingres_miui_INGRESEEAGlobal_OS1.0.6.0.ULJEUXM_5b5cd3ceaa_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-08.11.2024/fw_ingres_miui_INGRESEEAGlobal_OS1.0.7.0.ULJEUXM_62cc58b993_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ingres/fw_ingres_miui_INGRESEEAGlobal_OS1.0.7.0.ULJEUXM_62cc58b993_14.0.zip
+  filename: fw_ingres_miui_INGRESEEAGlobal_OS1.0.7.0.ULJEUXM_62cc58b993_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.ULJEUXM
+    miui: OS1.0.7.0.ULJEUXM
 - branch: stable
   date: '2024-11-04'
   downloads:
