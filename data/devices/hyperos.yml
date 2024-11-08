@@ -660,6 +660,12 @@
   version: OS1.0.4.0.UNJINXM
 - android: '14.0'
   codename: chenfeng
+  date: '2024-11-08'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UNJINXM/fw_chenfeng_miui_CHENFENGINGlobal_OS1.0.8.0.UNJINXM_f11a64c3f7_14.0.zip
+  name: Xiaomi Civi 4 Pro
+  version: OS1.0.8.0.UNJINXM
+- android: '14.0'
+  codename: chenfeng
   date: '2024-06-07'
   download: https://bigota.d.miui.com/OS1.0.10.0.UNJCNXM/fw_chenfeng_miui_CHENFENG_OS1.0.10.0.UNJCNXM_995e516566_14.0.zip
   name: Xiaomi Civi 4 Pro
@@ -904,6 +910,18 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.ULCEUXM/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.12.0.ULCEUXM_4e802072de_14.0.zip
   name: Xiaomi 12
   version: OS1.0.12.0.ULCEUXM
+- android: '14.0'
+  codename: cupid
+  date: '2024-11-08'
+  download: https://bigota.d.miui.com/OS1.0.15.0.ULCEUXM/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.15.0.ULCEUXM_8e68111839_14.0.zip
+  name: Xiaomi 12
+  version: OS1.0.15.0.ULCEUXM
+- android: '14.0'
+  codename: cupid
+  date: '2024-11-08'
+  download: https://bigota.d.miui.com/OS1.0.8.0.ULCMIXM/fw_cupid_miui_CUPIDGlobal_OS1.0.8.0.ULCMIXM_5a6e12acb4_14.0.zip
+  name: Xiaomi 12
+  version: OS1.0.8.0.ULCMIXM
 - android: '14.0'
   codename: cupid
   date: '2024-10-08'
@@ -2392,6 +2410,12 @@
   download: https://bigota.d.miui.com/OS1.0.11.0.UNVCNXM/fw_goku_miui_GOKU_OS1.0.11.0.UNVCNXM_d6db9703d1_14.0.zip
   name: MIX Fold 4
   version: OS1.0.11.0.UNVCNXM
+- android: '14.0'
+  codename: goku
+  date: '2024-11-08'
+  download: https://bigota.d.miui.com/OS1.0.15.0.UNVCNXM/fw_goku_miui_GOKU_OS1.0.15.0.UNVCNXM_7c07300a92_14.0.zip
+  name: MIX Fold 4
+  version: OS1.0.15.0.UNVCNXM
 - android: '14.0'
   codename: goku
   date: '2024-08-02'
@@ -6828,6 +6852,24 @@
   version: OS1.0.5.0.UKAINXM
 - android: '14.0'
   codename: star
+  date: '2024-11-08'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UKAEUXM/fw_star_miui_STAREEAGlobal_OS1.0.7.0.UKAEUXM_0a37468109_14.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: OS1.0.7.0.UKAEUXM
+- android: '14.0'
+  codename: star
+  date: '2024-11-08'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UKAMIXM/fw_star_miui_STARGlobal_OS1.0.7.0.UKAMIXM_ee83557691_14.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: OS1.0.7.0.UKAMIXM
+- android: '14.0'
+  codename: star
+  date: '2024-11-08'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UKAINXM/fw_star_miui_STARINGlobal_OS1.0.7.0.UKAINXM_1daea15f1f_14.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: OS1.0.7.0.UKAINXM
+- android: '14.0'
+  codename: star
   date: '2024-07-08'
   download: https://bigota.d.miui.com/OS1.0.3.0.UKAMIXM/fw_star_miui_STARGlobal_OS1.0.3.0.UKAMIXM_868ace962e_14.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
@@ -7012,6 +7054,18 @@
   download: https://bigota.d.miui.com/OS1.0.13.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.13.0.ULIEUXM_fb1aed7ca3_14.0.zip
   name: Xiaomi 12 Lite
   version: OS1.0.13.0.ULIEUXM
+- android: '14.0'
+  codename: taoyao
+  date: '2024-11-08'
+  download: https://bigota.d.miui.com/OS1.0.15.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.15.0.ULIEUXM_c2a81e9f1a_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.15.0.ULIEUXM
+- android: '14.0'
+  codename: taoyao
+  date: '2024-11-08'
+  download: https://bigota.d.miui.com/OS1.0.11.0.ULIMIXM/fw_taoyao_miui_TAOYAOGlobal_OS1.0.11.0.ULIMIXM_8def0487fb_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.11.0.ULIMIXM
 - android: '14.0'
   codename: taoyao
   date: '2024-10-08'
