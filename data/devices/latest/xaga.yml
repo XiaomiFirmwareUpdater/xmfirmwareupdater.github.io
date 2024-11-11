@@ -19,15 +19,15 @@
     android: '14.0'
     miui: OS1.0.5.0.ULOCNXM
 - branch: stable
-  date: '2024-10-14'
+  date: '2024-11-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-14.10.2024/fw_xaga_miui_XAGAEEAGlobal_OS1.0.6.0.ULOEUXM_0f7dbb57ec_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/xaga/fw_xaga_miui_XAGAEEAGlobal_OS1.0.6.0.ULOEUXM_0f7dbb57ec_14.0.zip
-  filename: fw_xaga_miui_XAGAEEAGlobal_OS1.0.6.0.ULOEUXM_0f7dbb57ec_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-11.11.2024/fw_xaga_miui_XAGAEEAGlobal_OS1.0.7.0.ULOEUXM_eb815b8d2f_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/xaga/fw_xaga_miui_XAGAEEAGlobal_OS1.0.7.0.ULOEUXM_eb815b8d2f_14.0.zip
+  filename: fw_xaga_miui_XAGAEEAGlobal_OS1.0.7.0.ULOEUXM_eb815b8d2f_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.ULOEUXM
+    miui: OS1.0.7.0.ULOEUXM
 - branch: stable
   date: '2024-10-08'
   downloads:

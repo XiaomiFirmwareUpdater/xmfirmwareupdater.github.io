@@ -4032,6 +4032,12 @@
   version: OS1.0.4.0.UMNCNXM
 - android: '14.0'
   codename: mondrian
+  date: '2024-11-11'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMNEUXM/fw_mondrian_miui_MONDRIANEEAGlobal_OS1.0.9.0.UMNEUXM_b01db88935_14.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS1.0.9.0.UMNEUXM
+- android: '14.0'
+  codename: mondrian
   date: '2024-05-11'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMNMIXM/fw_mondrian_miui_MONDRIANGlobal_OS1.0.5.0.UMNMIXM_6168bd5b7a_14.0.zip
   name: Redmi K60/POCO F5 Pro
@@ -4956,6 +4962,12 @@
   version: OS1.0.11.0.UMZMIXM
 - android: '14.0'
   codename: pipa
+  date: '2024-11-11'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.12.0.UMZCNXM_c8d7ab829f_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.12.0.UMZCNXM
+- android: '14.0'
+  codename: pipa
   date: '2024-10-08'
   download: https://bigota.d.miui.com/OS1.0.11.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.11.0.UMZCNXM_6b841f0114_14.0.zip
   name: Xiaomi Pad 6
@@ -5176,6 +5188,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.ULQMIXM/fw_plato_miui_PLATOGlobal_OS1.0.5.0.ULQMIXM_9c5350230d_14.0.zip
   name: Xiaomi 12T
   version: OS1.0.5.0.ULQMIXM
+- android: '14.0'
+  codename: plato
+  date: '2024-11-11'
+  download: https://bigota.d.miui.com/OS1.0.13.0.ULQMIXM/fw_plato_miui_PLATOGlobal_OS1.0.13.0.ULQMIXM_22a43b10ee_14.0.zip
+  name: Xiaomi 12T
+  version: OS1.0.13.0.ULQMIXM
 - android: '14.0'
   codename: plato
   date: '2024-09-10'
@@ -6696,6 +6714,12 @@
   version: OS1.0.5.0.UHYEUXM
 - android: '14.0'
   codename: spark
+  date: '2024-11-11'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UHYMIXM/fw_spark_miui_SPARKGlobal_OS1.0.6.0.UHYMIXM_ccf7c0404c_14.0.zip
+  name: Redmi Pad SE 8.7 4G
+  version: OS1.0.6.0.UHYMIXM
+- android: '14.0'
+  codename: spark
   date: '2024-10-09'
   download: https://bigota.d.miui.com/OS1.0.3.0.UHYINXM/fw_spark_miui_SPARKINGlobal_OS1.0.3.0.UHYINXM_1d4ec22cf4_14.0.zip
   name: Redmi Pad SE 8.7 4G
@@ -7924,6 +7948,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULOMIXM/fw_xaga_miui_XAGAGlobal_OS1.0.3.0.ULOMIXM_2039059443_14.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: OS1.0.3.0.ULOMIXM
+- android: '14.0'
+  codename: xaga
+  date: '2024-11-11'
+  download: https://bigota.d.miui.com/OS1.0.7.0.ULOEUXM/fw_xaga_miui_XAGAEEAGlobal_OS1.0.7.0.ULOEUXM_eb815b8d2f_14.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS1.0.7.0.ULOEUXM
 - android: '14.0'
   codename: xaga
   date: '2024-10-10'
