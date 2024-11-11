@@ -68,7 +68,7 @@ permalink: /hyperos/zircon/stable/OS1.0.7.0.UNOTWXM/
                     <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_ZIRCONTWGlobal_OS1.0.7.0.UNOTWXM_9cc0387398_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">Unknown</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">9cc0387398825aa4006d6103ecdbbf1d</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.7.0.UNOTWXM/miui_ZIRCONTWGlobal_OS1.0.7.0.UNOTWXM_9cc0387398_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.7.0.UNOTWXM/miui_ZIRCONTWGlobal_OS1.0.7.0.UNOTWXM_9cc0387398_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.7.0.UNOTWXM/miui_ZIRCONTWGlobal_OS1.0.7.0.UNOTWXM_9cc0387398_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.7.0.UNOTWXM/miui_ZIRCONTWGlobal_OS1.0.7.0.UNOTWXM_9cc0387398_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.7.0.UNOTWXM/miui_ZIRCONTWGlobal_OS1.0.7.0.UNOTWXM_9cc0387398_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
@@ -78,7 +78,7 @@ permalink: /hyperos/zircon/stable/OS1.0.7.0.UNOTWXM/
                             aria-expanded="false" aria-controls="zircon_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="zircon_1_changelog">
-                        <p id="changelog_text">Bug fixes and system optimizations.</p>
+                        <p id="changelog_text">[System]<br>Updated the security patch to October 2024. Increased system security.</p>
                     </div>
                 </li>
             </ul>

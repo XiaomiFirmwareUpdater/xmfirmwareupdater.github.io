@@ -1129,15 +1129,15 @@
     android: '14.0'
     miui: OS1.0.8.0.ULCMIXM
 - branch: stable
-  date: '2024-10-08'
+  date: '2024-11-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-08.10.2024/fw_cupid_miui_CUPID_OS1.0.9.0.ULCCNXM_54e1eda5ca_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/cupid/fw_cupid_miui_CUPID_OS1.0.9.0.ULCCNXM_54e1eda5ca_14.0.zip
-  filename: fw_cupid_miui_CUPID_OS1.0.9.0.ULCCNXM_54e1eda5ca_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-11.11.2024/fw_cupid_miui_CUPID_OS1.0.10.0.ULCCNXM_ede6a83457_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/cupid/fw_cupid_miui_CUPID_OS1.0.10.0.ULCCNXM_ede6a83457_14.0.zip
+  filename: fw_cupid_miui_CUPID_OS1.0.10.0.ULCCNXM_ede6a83457_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.9.0.ULCCNXM
+    miui: OS1.0.10.0.ULCCNXM
 - branch: stable
   date: '2024-11-08'
   downloads:
@@ -3179,15 +3179,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2024-10-16'
+  date: '2024-11-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-16.10.2024/fw_matisse_miui_MATISSE_OS1.0.12.0.ULKCNXM_d45483b061_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/matisse/fw_matisse_miui_MATISSE_OS1.0.12.0.ULKCNXM_d45483b061_14.0.zip
-  filename: fw_matisse_miui_MATISSE_OS1.0.12.0.ULKCNXM_d45483b061_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-11.11.2024/fw_matisse_miui_MATISSE_OS1.0.13.0.ULKCNXM_d1dfc7b32b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/matisse/fw_matisse_miui_MATISSE_OS1.0.13.0.ULKCNXM_d1dfc7b32b_14.0.zip
+  filename: fw_matisse_miui_MATISSE_OS1.0.13.0.ULKCNXM_d1dfc7b32b_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.12.0.ULKCNXM
+    miui: OS1.0.13.0.ULKCNXM
 - branch: stable
   date: '2024-10-21'
   downloads:
@@ -6469,12 +6469,12 @@
     android: '14.0'
     miui: OS1.0.9.0.ULLEUXM
 - branch: stable
-  date: '2024-10-17'
+  date: '2024-11-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zizhan/releases/download/stable-17.10.2024/fw_zizhan_miui_ZIZHAN_OS1.0.12.0.ULRCNXM_c86b8b4b07_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zizhan/fw_zizhan_miui_ZIZHAN_OS1.0.12.0.ULRCNXM_c86b8b4b07_14.0.zip
-  filename: fw_zizhan_miui_ZIZHAN_OS1.0.12.0.ULRCNXM_c86b8b4b07_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zizhan/releases/download/stable-11.11.2024/fw_zizhan_miui_ZIZHAN_OS1.0.13.0.ULRCNXM_840f1d1c49_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zizhan/fw_zizhan_miui_ZIZHAN_OS1.0.13.0.ULRCNXM_840f1d1c49_14.0.zip
+  filename: fw_zizhan_miui_ZIZHAN_OS1.0.13.0.ULRCNXM_840f1d1c49_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.12.0.ULRCNXM
+    miui: OS1.0.13.0.ULRCNXM
