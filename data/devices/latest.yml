@@ -1389,15 +1389,15 @@
     android: '14.0'
     miui: OS1.0.10.0.ULFCNXM
 - branch: stable
-  date: '2024-09-27'
+  date: '2024-11-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-28.09.2024/fw_diting_miui_DITINGEEAGlobal_OS1.0.10.0.ULFEUXM_eb502ae0be_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/diting/fw_diting_miui_DITINGEEAGlobal_OS1.0.10.0.ULFEUXM_eb502ae0be_14.0.zip
-  filename: fw_diting_miui_DITINGEEAGlobal_OS1.0.10.0.ULFEUXM_eb502ae0be_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-11.11.2024/fw_diting_miui_DITINGEEAGlobal_OS1.0.11.0.ULFEUXM_d4b9d34c90_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/diting/fw_diting_miui_DITINGEEAGlobal_OS1.0.11.0.ULFEUXM_d4b9d34c90_14.0.zip
+  filename: fw_diting_miui_DITINGEEAGlobal_OS1.0.11.0.ULFEUXM_d4b9d34c90_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.10.0.ULFEUXM
+    miui: OS1.0.11.0.ULFEUXM
 - branch: stable
   date: '2024-11-01'
   downloads:
@@ -5849,15 +5849,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2024-10-16'
+  date: '2024-11-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-16.10.2024/fw_venus_miui_VENUSEEAGlobal_OS1.0.8.0.UKBEUXM_1d9aa0367d_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/venus/fw_venus_miui_VENUSEEAGlobal_OS1.0.8.0.UKBEUXM_1d9aa0367d_14.0.zip
-  filename: fw_venus_miui_VENUSEEAGlobal_OS1.0.8.0.UKBEUXM_1d9aa0367d_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-11.11.2024/fw_venus_miui_VENUSEEAGlobal_OS1.0.9.0.UKBEUXM_814cbd9be8_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/venus/fw_venus_miui_VENUSEEAGlobal_OS1.0.9.0.UKBEUXM_814cbd9be8_14.0.zip
+  filename: fw_venus_miui_VENUSEEAGlobal_OS1.0.9.0.UKBEUXM_814cbd9be8_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.8.0.UKBEUXM
+    miui: OS1.0.9.0.UKBEUXM
 - branch: stable
   date: '2024-10-12'
   downloads:

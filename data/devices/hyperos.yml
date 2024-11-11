@@ -1206,6 +1206,12 @@
   version: OS1.0.9.0.ULFEUXM
 - android: '14.0'
   codename: diting
+  date: '2024-11-11'
+  download: https://bigota.d.miui.com/OS1.0.11.0.ULFEUXM/fw_diting_miui_DITINGEEAGlobal_OS1.0.11.0.ULFEUXM_d4b9d34c90_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.11.0.ULFEUXM
+- android: '14.0'
+  codename: diting
   date: '2024-01-11'
   download: https://bigota.d.miui.com/OS1.0.2.0.ULFCNXM/fw_diting_miui_DITING_OS1.0.2.0.ULFCNXM_10cb54f830_14.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
@@ -7450,6 +7456,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UKBMIXM/fw_venus_miui_VENUSGlobal_OS1.0.5.0.UKBMIXM_b120c83200_14.0.zip
   name: Mi 11
   version: OS1.0.5.0.UKBMIXM
+- android: '14.0'
+  codename: venus
+  date: '2024-11-11'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UKBEUXM/fw_venus_miui_VENUSEEAGlobal_OS1.0.9.0.UKBEUXM_814cbd9be8_14.0.zip
+  name: Mi 11
+  version: OS1.0.9.0.UKBEUXM
 - android: '14.0'
   codename: venus
   date: '2024-11-06'
