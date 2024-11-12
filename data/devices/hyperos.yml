@@ -1044,6 +1044,12 @@
   version: OS1.0.9.0.ULGCNXM
 - android: '14.0'
   codename: daumier
+  date: '2024-11-12'
+  download: https://bigota.d.miui.com/OS1.0.10.0.ULGCNXM/fw_daumier_miui_DAUMIER_OS1.0.10.0.ULGCNXM_e45b3f7697_14.0.zip
+  name: Xiaomi 12 Pro Dimensity
+  version: OS1.0.10.0.ULGCNXM
+- android: '14.0'
+  codename: daumier
   date: '2024-09-05'
   download: https://bigota.d.miui.com/OS1.0.6.0.ULGCNXM/fw_daumier_miui_DAUMIER_OS1.0.6.0.ULGCNXM_0c4c3cc112_14.0.zip
   name: Xiaomi 12 Pro Dimensity
