@@ -1860,6 +1860,12 @@
   version: OS1.0.2.0.UMXINXM
 - android: '14.0'
   codename: fire
+  date: '2024-11-12'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UMXINXM/fw_fire_miui_FIREINGlobal_OS1.0.5.0.UMXINXM_33ea4a629f_14.0.zip
+  name: Redmi 12
+  version: OS1.0.5.0.UMXINXM
+- android: '14.0'
+  codename: fire
   date: '2024-03-11'
   download: https://bigota.d.miui.com/OS1.0.3.0.UMXMIXM/fw_fire_miui_FIREGlobal_OS1.0.3.0.UMXMIXM_b397436dfb_14.0.zip
   name: Redmi 12
@@ -6058,6 +6064,12 @@
   download: https://bigota.d.miui.com/OS1.0.13.0.UNICNXM/fw_ruyi_miui_RUYI_OS1.0.13.0.UNICNXM_c9f859d4a2_14.0.zip
   name: MIX Flip
   version: OS1.0.13.0.UNICNXM
+- android: '14.0'
+  codename: ruyi
+  date: '2024-11-12'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UNIMIXM/fw_ruyi_miui_RUYIGlobal_OS1.0.12.0.UNIMIXM_7670240b73_14.0.zip
+  name: MIX Flip
+  version: OS1.0.12.0.UNIMIXM
 - android: '14.0'
   codename: ruyi
   date: '2024-10-09'
