@@ -6060,6 +6060,12 @@
   version: OS1.0.11.0.UNICNXM
 - android: '14.0'
   codename: ruyi
+  date: '2024-11-13'
+  download: https://bigota.d.miui.com/OS1.0.17.0.UNICNXM/fw_ruyi_miui_RUYI_OS1.0.17.0.UNICNXM_ac753b868d_14.0.zip
+  name: MIX Flip
+  version: OS1.0.17.0.UNICNXM
+- android: '14.0'
+  codename: ruyi
   date: '2024-09-13'
   download: https://bigota.d.miui.com/OS1.0.13.0.UNICNXM/fw_ruyi_miui_RUYI_OS1.0.13.0.UNICNXM_c9f859d4a2_14.0.zip
   name: MIX Flip
