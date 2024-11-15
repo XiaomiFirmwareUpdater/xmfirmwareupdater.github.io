@@ -4386,6 +4386,12 @@
   version: OS2.0.1.0.VOYCNXM
 - android: '15.0'
   codename: muyu
+  date: '2024-11-15'
+  download: https://bigota.d.miui.com/OS2.0.7.0.VOYCNXM/fw_muyu_muyu-ota_full-OS2.0.7.0.VOYCNXM-user-15.0-eceeb8ff01.zip
+  name: Xiaomi Pad 7 Pro
+  version: OS2.0.7.0.VOYCNXM
+- android: '15.0'
+  codename: muyu
   date: '2024-11-05'
   download: https://bigota.d.miui.com/OS2.0.6.0.VOYCNXM/fw_muyu_muyu-ota_full-OS2.0.6.0.VOYCNXM-user-15.0-de700ef3c0.zip
   name: Xiaomi Pad 7 Pro
@@ -5614,6 +5620,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.ULUINXM/fw_rock_miui_ROCKINGlobal_OS1.0.5.0.ULUINXM_d5eef16344_14.0.zip
   name: POCO M5/Redmi 11 Prime 4G
   version: OS1.0.5.0.ULUINXM
+- android: '14.0'
+  codename: rock
+  date: '2024-11-15'
+  download: https://bigota.d.miui.com/OS1.0.8.0.ULUINXM/fw_rock_miui_ROCKINGlobal_OS1.0.8.0.ULUINXM_69a0e9e7c2_14.0.zip
+  name: POCO M5/Redmi 11 Prime 4G
+  version: OS1.0.8.0.ULUINXM
 - android: '14.0'
   codename: rock
   date: '2024-01-15'
@@ -7378,6 +7390,12 @@
   download: https://bigota.d.miui.com/OS2.0.7.0.VOZCNXM/fw_uke_uke-ota_full-OS2.0.7.0.VOZCNXM-user-15.0-febddd1fcd.zip
   name: Xiaomi Pad 7
   version: OS2.0.7.0.VOZCNXM
+- android: '15.0'
+  codename: uke
+  date: '2024-11-15'
+  download: https://bigota.d.miui.com/OS2.0.10.0.VOZCNXM/fw_uke_uke-ota_full-OS2.0.10.0.VOZCNXM-user-15.0-8f0752d36f.zip
+  name: Xiaomi Pad 7
+  version: OS2.0.10.0.VOZCNXM
 - android: '15.0'
   codename: uke
   date: '2024-11-05'

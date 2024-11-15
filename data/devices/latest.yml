@@ -3469,15 +3469,15 @@
     android: '14.0'
     miui: OS1.0.5.0.ULMINXM
 - branch: stable
-  date: '2024-11-05'
+  date: '2024-11-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_muyu/releases/download/stable-05.11.2024/fw_muyu_muyu-ota_full-OS2.0.6.0.VOYCNXM-user-15.0-de700ef3c0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/muyu/fw_muyu_muyu-ota_full-OS2.0.6.0.VOYCNXM-user-15.0-de700ef3c0.zip
-  filename: fw_muyu_muyu-ota_full-OS2.0.6.0.VOYCNXM-user-15.0-de700ef3c0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_muyu/releases/download/stable-15.11.2024/fw_muyu_muyu-ota_full-OS2.0.7.0.VOYCNXM-user-15.0-eceeb8ff01.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/muyu/fw_muyu_muyu-ota_full-OS2.0.7.0.VOYCNXM-user-15.0-eceeb8ff01.zip
+  filename: fw_muyu_muyu-ota_full-OS2.0.7.0.VOYCNXM-user-15.0-eceeb8ff01.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.6.0.VOYCNXM
+    miui: OS2.0.7.0.VOYCNXM
 - branch: stable
   date: '2024-10-08'
   downloads:
@@ -4539,15 +4539,15 @@
     android: '14.0'
     miui: OS1.0.5.0.ULUEUXM
 - branch: stable
-  date: '2024-08-12'
+  date: '2024-11-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rock/releases/download/stable-12.08.2024/fw_rock_miui_ROCKINGlobal_OS1.0.7.0.ULUINXM_cd8fd65d60_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rock/fw_rock_miui_ROCKINGlobal_OS1.0.7.0.ULUINXM_cd8fd65d60_14.0.zip
-  filename: fw_rock_miui_ROCKINGlobal_OS1.0.7.0.ULUINXM_cd8fd65d60_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rock/releases/download/stable-15.11.2024/fw_rock_miui_ROCKINGlobal_OS1.0.8.0.ULUINXM_69a0e9e7c2_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rock/fw_rock_miui_ROCKINGlobal_OS1.0.8.0.ULUINXM_69a0e9e7c2_14.0.zip
+  filename: fw_rock_miui_ROCKINGlobal_OS1.0.8.0.ULUINXM_69a0e9e7c2_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.7.0.ULUINXM
+    miui: OS1.0.8.0.ULUINXM
 - branch: stable
   date: '2019-08-19'
   downloads:
@@ -5659,15 +5659,15 @@
     android: '7.1'
     miui: 9.10.10
 - branch: stable
-  date: '2024-11-05'
+  date: '2024-11-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-06.11.2024/fw_uke_uke-ota_full-OS2.0.8.0.VOZCNXM-user-15.0-c20facf95e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/uke/fw_uke_uke-ota_full-OS2.0.8.0.VOZCNXM-user-15.0-c20facf95e.zip
-  filename: fw_uke_uke-ota_full-OS2.0.8.0.VOZCNXM-user-15.0-c20facf95e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-15.11.2024/fw_uke_uke-ota_full-OS2.0.10.0.VOZCNXM-user-15.0-8f0752d36f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/uke/fw_uke_uke-ota_full-OS2.0.10.0.VOZCNXM-user-15.0-8f0752d36f.zip
+  filename: fw_uke_uke-ota_full-OS2.0.10.0.VOZCNXM-user-15.0-8f0752d36f.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.8.0.VOZCNXM
+    miui: OS2.0.10.0.VOZCNXM
 - branch: stable
   date: '2023-05-29'
   downloads:
