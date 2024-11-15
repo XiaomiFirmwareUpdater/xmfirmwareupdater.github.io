@@ -400,6 +400,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNAINXM/fw_aurora_miui_AURORAINGlobal_OS1.0.4.0.UNAINXM_77687a8523_14.0.zip
   name: Xiaomi 14 Ultra
   version: OS1.0.4.0.UNAINXM
+- android: '15.0'
+  codename: aurora
+  date: '2024-11-15'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VNACNXM/fw_aurora_aurora-ota_full-OS2.0.6.0.VNACNXM-user-15.0-c16ff4221a.zip
+  name: Xiaomi 14 Ultra
+  version: OS2.0.6.0.VNACNXM
 - android: '14.0'
   codename: aurora
   date: '2024-10-15'
