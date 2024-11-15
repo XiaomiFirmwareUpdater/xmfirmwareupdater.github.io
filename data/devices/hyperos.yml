@@ -3936,6 +3936,12 @@
   version: OS1.0.3.0.ULTCNXM
 - android: '14.0'
   codename: mayfly
+  date: '2024-11-15'
+  download: https://bigota.d.miui.com/OS1.0.11.0.ULTCNXM/fw_mayfly_miui_MAYFLY_OS1.0.11.0.ULTCNXM_ae8d2aa0d0_14.0.zip
+  name: Xiaomi 12S
+  version: OS1.0.11.0.ULTCNXM
+- android: '14.0'
+  codename: mayfly
   date: '2024-04-07'
   download: https://bigota.d.miui.com/OS1.0.5.0.ULTCNXM/fw_mayfly_miui_MAYFLY_OS1.0.5.0.ULTCNXM_e6a95688ff_14.0.zip
   name: Xiaomi 12S
@@ -5236,6 +5242,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.ULQMIXM/fw_plato_miui_PLATOGlobal_OS1.0.10.0.ULQMIXM_d568a899f2_14.0.zip
   name: Xiaomi 12T
   version: OS1.0.10.0.ULQMIXM
+- android: '14.0'
+  codename: plato
+  date: '2024-11-15'
+  download: https://bigota.d.miui.com/OS1.0.15.0.ULQEUXM/fw_plato_miui_PLATOEEAGlobal_OS1.0.15.0.ULQEUXM_df784c5b33_14.0.zip
+  name: Xiaomi 12T
+  version: OS1.0.15.0.ULQEUXM
 - android: '14.0'
   codename: plato
   date: '2024-10-14'
@@ -8020,6 +8032,18 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.ULOMIXM/fw_xaga_miui_XAGAGlobal_OS1.0.6.0.ULOMIXM_833feef043_14.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: OS1.0.6.0.ULOMIXM
+- android: '14.0'
+  codename: xaga
+  date: '2024-11-15'
+  download: https://bigota.d.miui.com/OS1.0.5.0.ULOINXM/fw_xaga_miui_XAGAINGlobal_OS1.0.5.0.ULOINXM_d144513b38_14.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS1.0.5.0.ULOINXM
+- android: '14.0'
+  codename: xaga
+  date: '2024-11-15'
+  download: https://bigota.d.miui.com/OS1.0.6.0.ULOCNXM/fw_xaga_miui_XAGA_OS1.0.6.0.ULOCNXM_90e266280d_14.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS1.0.6.0.ULOCNXM
 - android: '14.0'
   codename: xaga
   date: '2024-07-15'
