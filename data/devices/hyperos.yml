@@ -2340,6 +2340,12 @@
   version: OS1.0.7.0.UNRINXM
 - android: '14.0'
   codename: garnet
+  date: '2024-11-16'
+  download: https://bigota.d.miui.com/OS1.0.17.0.UNRMIXM/fw_garnet_miui_GARNETGlobal_OS1.0.17.0.UNRMIXM_829feea95d_14.0.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS1.0.17.0.UNRMIXM
+- android: '14.0'
+  codename: garnet
   date: '2024-10-15'
   download: https://bigota.d.miui.com/OS1.0.12.0.UNRCNXM/fw_garnet_miui_GARNET_OS1.0.12.0.UNRCNXM_5917737723_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
@@ -7900,6 +7906,18 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UKDINXM/fw_vili_miui_VILIINGlobal_OS1.0.5.0.UKDINXM_a8f176f44b_14.0.zip
   name: Xiaomi 11T Pro
   version: OS1.0.5.0.UKDINXM
+- android: '14.0'
+  codename: vili
+  date: '2024-11-16'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UKDMIXM/fw_vili_miui_VILIGlobal_OS1.0.7.0.UKDMIXM_727d12856c_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.7.0.UKDMIXM
+- android: '14.0'
+  codename: vili
+  date: '2024-11-16'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UKDINXM/fw_vili_miui_VILIINGlobal_OS1.0.7.0.UKDINXM_76fc0268c3_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.7.0.UKDINXM
 - android: '14.0'
   codename: vili
   date: '2024-10-16'

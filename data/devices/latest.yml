@@ -1879,15 +1879,15 @@
     android: '13.0'
     miui: V14.0.9.0.TGPINXM
 - branch: stable
-  date: '2024-10-29'
+  date: '2024-11-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-29.10.2024/fw_garnet_miui_GARNETGlobal_OS1.0.15.0.UNRMIXM_d85de2ffc7_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/garnet/fw_garnet_miui_GARNETGlobal_OS1.0.15.0.UNRMIXM_d85de2ffc7_14.0.zip
-  filename: fw_garnet_miui_GARNETGlobal_OS1.0.15.0.UNRMIXM_d85de2ffc7_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-16.11.2024/fw_garnet_miui_GARNETGlobal_OS1.0.17.0.UNRMIXM_829feea95d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/garnet/fw_garnet_miui_GARNETGlobal_OS1.0.17.0.UNRMIXM_829feea95d_14.0.zip
+  filename: fw_garnet_miui_GARNETGlobal_OS1.0.17.0.UNRMIXM_829feea95d_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.15.0.UNRMIXM
+    miui: OS1.0.17.0.UNRMIXM
 - branch: stable
   date: '2024-10-30'
   downloads:
@@ -5939,15 +5939,15 @@
     android: '13.0'
     miui: OS1.0.4.0.TGDINXM
 - branch: stable
-  date: '2024-10-14'
+  date: '2024-11-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-15.10.2024/fw_vili_miui_VILIGlobal_OS1.0.6.0.UKDMIXM_3344f36bac_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vili/fw_vili_miui_VILIGlobal_OS1.0.6.0.UKDMIXM_3344f36bac_14.0.zip
-  filename: fw_vili_miui_VILIGlobal_OS1.0.6.0.UKDMIXM_3344f36bac_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-16.11.2024/fw_vili_miui_VILIGlobal_OS1.0.7.0.UKDMIXM_727d12856c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vili/fw_vili_miui_VILIGlobal_OS1.0.7.0.UKDMIXM_727d12856c_14.0.zip
+  filename: fw_vili_miui_VILIGlobal_OS1.0.7.0.UKDMIXM_727d12856c_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.UKDMIXM
+    miui: OS1.0.7.0.UKDMIXM
 - branch: stable
   date: '2024-09-18'
   downloads:
@@ -5959,15 +5959,15 @@
     android: '14.0'
     miui: OS1.0.5.0.UKDEUXM
 - branch: stable
-  date: '2024-10-16'
+  date: '2024-11-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-16.10.2024/fw_vili_miui_VILIINGlobal_OS1.0.6.0.UKDINXM_5311363744_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vili/fw_vili_miui_VILIINGlobal_OS1.0.6.0.UKDINXM_5311363744_14.0.zip
-  filename: fw_vili_miui_VILIINGlobal_OS1.0.6.0.UKDINXM_5311363744_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-16.11.2024/fw_vili_miui_VILIINGlobal_OS1.0.7.0.UKDINXM_76fc0268c3_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vili/fw_vili_miui_VILIINGlobal_OS1.0.7.0.UKDINXM_76fc0268c3_14.0.zip
+  filename: fw_vili_miui_VILIINGlobal_OS1.0.7.0.UKDINXM_76fc0268c3_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.UKDINXM
+    miui: OS1.0.7.0.UKDINXM
 - branch: stable
   date: '2019-11-26'
   downloads:
