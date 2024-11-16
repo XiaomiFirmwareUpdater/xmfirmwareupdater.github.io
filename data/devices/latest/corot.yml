@@ -9,15 +9,15 @@
     android: '14.0'
     miui: OS1.0.6.0.UMLMIXM
 - branch: stable
-  date: '2024-11-14'
+  date: '2024-11-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-14.11.2024/fw_eea_corot_eea_global-ota_full-OS1.1.5.0.VMLEUXM-user-15.0-03d35d5f95.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/eea/corot/fw_eea_corot_eea_global-ota_full-OS1.1.5.0.VMLEUXM-user-15.0-03d35d5f95.zip
-  filename: fw_eea_corot_eea_global-ota_full-OS1.1.5.0.VMLEUXM-user-15.0-03d35d5f95.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-16.11.2024/fw_corot_miui_COROT_OS1.0.24.0.UMLCNXM_fb0be63a63_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/corot/fw_corot_miui_COROT_OS1.0.24.0.UMLCNXM_fb0be63a63_14.0.zip
+  filename: fw_corot_miui_COROT_OS1.0.24.0.UMLCNXM_fb0be63a63_14.0.zip
   region: China
   versions:
-    android: full-OS1.1.5.0.VMLEUXM-user-15.0-03d35d5f95
-    miui: eea
+    android: '14.0'
+    miui: OS1.0.24.0.UMLCNXM
 - branch: stable
   date: '2024-08-28'
   downloads:
