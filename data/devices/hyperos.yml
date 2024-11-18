@@ -6042,6 +6042,12 @@
   version: OS1.0.2.0.UMOINXM
 - android: '14.0'
   codename: ruby
+  date: '2024-11-18'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UMOEUXM/fw_ruby_miui_RUBYEEAGlobal_OS1.0.11.0.UMOEUXM_8b9fc31459_14.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS1.0.11.0.UMOEUXM
+- android: '14.0'
+  codename: ruby
   date: '2024-04-16'
   download: https://bigota.d.miui.com/OS1.0.3.0.UMOEUXM/fw_ruby_miui_RUBYEEAGlobal_OS1.0.3.0.UMOEUXM_bd54bd38dc_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
@@ -7930,6 +7936,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UKDMIXM/fw_vili_miui_VILIGlobal_OS1.0.4.0.UKDMIXM_4d9b862c7d_14.0.zip
   name: Xiaomi 11T Pro
   version: OS1.0.4.0.UKDMIXM
+- android: '14.0'
+  codename: vili
+  date: '2024-11-18'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UKDEUXM/fw_vili_miui_VILIEEAGlobal_OS1.0.6.0.UKDEUXM_9e1bd1559e_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.6.0.UKDEUXM
 - android: '14.0'
   codename: vili
   date: '2024-09-18'

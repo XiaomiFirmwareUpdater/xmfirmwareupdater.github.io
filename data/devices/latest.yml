@@ -4759,15 +4759,15 @@
     android: '14.0'
     miui: OS1.0.9.0.UMOCNXM
 - branch: stable
-  date: '2024-10-24'
+  date: '2024-11-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-24.10.2024/fw_ruby_miui_RUBYEEAGlobal_OS1.0.9.0.UMOEUXM_b9ddae570f_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruby/fw_ruby_miui_RUBYEEAGlobal_OS1.0.9.0.UMOEUXM_b9ddae570f_14.0.zip
-  filename: fw_ruby_miui_RUBYEEAGlobal_OS1.0.9.0.UMOEUXM_b9ddae570f_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-18.11.2024/fw_ruby_miui_RUBYEEAGlobal_OS1.0.11.0.UMOEUXM_8b9fc31459_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruby/fw_ruby_miui_RUBYEEAGlobal_OS1.0.11.0.UMOEUXM_8b9fc31459_14.0.zip
+  filename: fw_ruby_miui_RUBYEEAGlobal_OS1.0.11.0.UMOEUXM_8b9fc31459_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.9.0.UMOEUXM
+    miui: OS1.0.11.0.UMOEUXM
 - branch: stable
   date: '2024-10-28'
   downloads:
@@ -5949,15 +5949,15 @@
     android: '14.0'
     miui: OS1.0.7.0.UKDMIXM
 - branch: stable
-  date: '2024-09-18'
+  date: '2024-11-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-18.09.2024/fw_vili_miui_VILIEEAGlobal_OS1.0.5.0.UKDEUXM_f2de5f6b2f_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vili/fw_vili_miui_VILIEEAGlobal_OS1.0.5.0.UKDEUXM_f2de5f6b2f_14.0.zip
-  filename: fw_vili_miui_VILIEEAGlobal_OS1.0.5.0.UKDEUXM_f2de5f6b2f_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-18.11.2024/fw_vili_miui_VILIEEAGlobal_OS1.0.6.0.UKDEUXM_9e1bd1559e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vili/fw_vili_miui_VILIEEAGlobal_OS1.0.6.0.UKDEUXM_9e1bd1559e_14.0.zip
+  filename: fw_vili_miui_VILIEEAGlobal_OS1.0.6.0.UKDEUXM_9e1bd1559e_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UKDEUXM
+    miui: OS1.0.6.0.UKDEUXM
 - branch: stable
   date: '2024-11-16'
   downloads:
