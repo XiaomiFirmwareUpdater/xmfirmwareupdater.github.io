@@ -5079,15 +5079,15 @@
     android: '14.0'
     miui: OS1.0.6.0.UNXEUXM
 - branch: stable
-  date: '2024-10-12'
+  date: '2024-11-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-12.10.2024/fw_shennong_miui_SHENNONG_OS1.0.50.0.UNBCNXM_388409ff36_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/shennong/fw_shennong_miui_SHENNONG_OS1.0.50.0.UNBCNXM_388409ff36_14.0.zip
-  filename: fw_shennong_miui_SHENNONG_OS1.0.50.0.UNBCNXM_388409ff36_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-18.11.2024/fw_shennong_shennong-ota_full-OS2.0.6.0.VNBCNXM-user-15.0-c166aacb6c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/shennong/fw_shennong_shennong-ota_full-OS2.0.6.0.VNBCNXM-user-15.0-c166aacb6c.zip
+  filename: fw_shennong_shennong-ota_full-OS2.0.6.0.VNBCNXM-user-15.0-c166aacb6c.zip
   region: China
   versions:
-    android: '14.0'
-    miui: OS1.0.50.0.UNBCNXM
+    android: '15.0'
+    miui: OS2.0.6.0.VNBCNXM
 - branch: stable
   date: '2022-08-03'
   downloads:
@@ -5719,15 +5719,15 @@
     android: '13.0'
     miui: V14.0.6.0.TJBINXM
 - branch: stable
-  date: '2024-10-21'
+  date: '2024-11-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_unicorn/releases/download/stable-21.10.2024/fw_unicorn_miui_UNICORN_OS1.0.10.0.ULECNXM_a5cafe3463_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/unicorn/fw_unicorn_miui_UNICORN_OS1.0.10.0.ULECNXM_a5cafe3463_14.0.zip
-  filename: fw_unicorn_miui_UNICORN_OS1.0.10.0.ULECNXM_a5cafe3463_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_unicorn/releases/download/stable-18.11.2024/fw_unicorn_miui_UNICORN_OS1.0.11.0.ULECNXM_cf778a6e6e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/unicorn/fw_unicorn_miui_UNICORN_OS1.0.11.0.ULECNXM_cf778a6e6e_14.0.zip
+  filename: fw_unicorn_miui_UNICORN_OS1.0.11.0.ULECNXM_cf778a6e6e_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.10.0.ULECNXM
+    miui: OS1.0.11.0.ULECNXM
 - branch: stable
   date: '2021-04-12'
   downloads:
@@ -6409,15 +6409,15 @@
     android: '14.0'
     miui: OS1.0.5.0.UNOMIXM
 - branch: stable
-  date: '2024-10-08'
+  date: '2024-11-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-08.10.2024/fw_zircon_miui_ZIRCON_OS1.0.7.0.UNOCNXM_38f0b8b8a6_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zircon/fw_zircon_miui_ZIRCON_OS1.0.7.0.UNOCNXM_38f0b8b8a6_14.0.zip
-  filename: fw_zircon_miui_ZIRCON_OS1.0.7.0.UNOCNXM_38f0b8b8a6_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-18.11.2024/fw_zircon_miui_ZIRCON_OS1.0.9.0.UNOCNXM_4fb78913f2_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zircon/fw_zircon_miui_ZIRCON_OS1.0.9.0.UNOCNXM_4fb78913f2_14.0.zip
+  filename: fw_zircon_miui_ZIRCON_OS1.0.9.0.UNOCNXM_4fb78913f2_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.7.0.UNOCNXM
+    miui: OS1.0.9.0.UNOCNXM
 - branch: stable
   date: '2024-09-30'
   downloads:
