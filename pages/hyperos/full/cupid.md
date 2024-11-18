@@ -53,7 +53,8 @@ permalink: /archive/hyperos/cupid/
                 </thead>
                 <tbody>
                 <tr><td>Xiaomi 12 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.10.0.ULCCNXM</td><td>14.0</td><td>5.7 GB</td><td>2024-11-07</td><td><a href="/hyperos/cupid/stable beta/OS1.0.10.0.ULCCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.8.0.ULCMIXM</td><td>14.0</td><td>5.2 GB</td><td>2024-11-05</td><td><a href="/hyperos/cupid/stable beta/OS1.0.8.0.ULCMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.ULCMIXM</td><td>14.0</td><td>5.2 GB</td><td>2024-11-05</td><td><a href="/hyperos/cupid/stable/OS1.0.8.0.ULCMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.ULCMIXM</td><td>14.0</td><td>6.5 GB</td><td>2024-10-22</td><td><a href="/hyperos/cupid/stable/OS1.0.8.0.ULCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.ULCIDXM</td><td>14.0</td><td>5.0 GB</td><td>2024-11-04</td><td><a href="/hyperos/cupid/stable/OS1.0.8.0.ULCIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.ULCIDXM</td><td>14.0</td><td>6.3 GB</td><td>2024-10-24</td><td><a href="/hyperos/cupid/stable/OS1.0.8.0.ULCIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.ULCTRXM</td><td>14.0</td><td>5.0 GB</td><td>2024-11-04</td><td><a href="/hyperos/cupid/stable/OS1.0.6.0.ULCTRXM/">Download</a></td></tr>
@@ -144,11 +145,11 @@ permalink: /archive/hyperos/cupid/
 <tr><td>Xiaomi 12 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.ULCEUXM</td><td>14.0</td><td>6.3 GB</td><td>2024-03-04</td><td><a href="/hyperos/cupid/stable/OS1.0.6.0.ULCEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULCMIXM</td><td>14.0</td><td>5.2 GB</td><td>2024-03-01</td><td><a href="/hyperos/cupid/stable/OS1.0.2.0.ULCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULCMIXM</td><td>14.0</td><td>6.7 GB</td><td>2024-02-26</td><td><a href="/hyperos/cupid/stable/OS1.0.2.0.ULCMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.7 GB</td><td>2024-01-12</td><td><a href="/hyperos/cupid/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULCCNXM</td><td>14.0</td><td>7.2 GB</td><td>2024-02-23</td><td><a href="/hyperos/cupid/stable/OS1.0.2.0.ULCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULCCNXM</td><td>14.0</td><td>5.7 GB</td><td>2024-01-29</td><td><a href="/hyperos/cupid/stable/OS1.0.2.0.ULCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.ULCEUXM</td><td>14.0</td><td>6.4 GB</td><td>2024-02-18</td><td><a href="/hyperos/cupid/stable/OS1.0.3.0.ULCEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.ULCEUXM</td><td>14.0</td><td>5.3 GB</td><td>2024-01-25</td><td><a href="/hyperos/cupid/stable/OS1.0.3.0.ULCEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.7 GB</td><td>2024-01-12</td><td><a href="/hyperos/cupid/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.2.DEV</td><td>14.0</td><td>5.7 GB</td><td>2024-01-05</td><td><a href="/hyperos/cupid/public beta/OS1.0.24.1.2.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.25.DEV</td><td>14.0</td><td>5.7 GB</td><td>2023-12-29</td><td><a href="/hyperos/cupid/public beta/OS1.0.23.12.25.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.18.DEV</td><td>14.0</td><td>5.7 GB</td><td>2023-12-22</td><td><a href="/hyperos/cupid/public beta/OS1.0.23.12.18.DEV/">Download</a></td></tr>
