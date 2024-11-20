@@ -534,6 +534,12 @@
   version: OS1.0.5.0.UMVCNXM
 - android: '14.0'
   codename: babylon
+  date: '2024-11-20'
+  download: https://bigota.d.miui.com/OS1.0.16.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.16.0.UMVCNXM_c13724df15_14.0.zip
+  name: MIX Fold 3
+  version: OS1.0.16.0.UMVCNXM
+- android: '14.0'
+  codename: babylon
   date: '2024-07-18'
   download: https://bigota.d.miui.com/OS1.0.10.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.10.0.UMVCNXM_dc1567ea87_14.0.zip
   name: MIX Fold 3
@@ -1186,6 +1192,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.ULFEUXM/fw_diting_miui_DITINGEEAGlobal_OS1.0.1.0.ULFEUXM_10053329d1_14.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: OS1.0.1.0.ULFEUXM
+- android: '14.0'
+  codename: diting
+  date: '2024-11-20'
+  download: https://bigota.d.miui.com/OS1.0.12.0.ULFEUXM/fw_diting_miui_DITINGEEAGlobal_OS1.0.12.0.ULFEUXM_7a4772763e_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.12.0.ULFEUXM
 - android: '14.0'
   codename: diting
   date: '2024-05-20'
@@ -2148,6 +2160,12 @@
   version: OS1.0.7.0.UMCCNXM
 - android: '14.0'
   codename: fuxi
+  date: '2024-11-20'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMCEUXM/fw_fuxi_miui_FUXIEEAGlobal_OS1.0.9.0.UMCEUXM_2c592c294b_14.0.zip
+  name: Xiaomi 13
+  version: OS1.0.9.0.UMCEUXM
+- android: '14.0'
+  codename: fuxi
   date: '2023-12-19'
   download: https://bigota.d.miui.com/OS1.0.3.0.UMCCNXM/fw_fuxi_miui_FUXI_OS1.0.3.0.UMCCNXM_e0bcc18a25_14.0.zip
   name: Xiaomi 13
@@ -2230,6 +2248,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UGPEUXM/fw_gale_miui_GALEEEAGlobal_OS1.0.3.0.UGPEUXM_8e8d639d36_14.0.zip
   name: Redmi 13C/POCO C65
   version: OS1.0.3.0.UGPEUXM
+- android: '14.0'
+  codename: gale
+  date: '2024-11-20'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UGPMIXM/fw_gale_miui_GALEGlobal_OS1.0.5.0.UGPMIXM_f8ab7858d1_14.0.zip
+  name: Redmi 13C/POCO C65
+  version: OS1.0.5.0.UGPMIXM
 - android: '14.0'
   codename: gale
   date: '2024-09-18'
@@ -4890,6 +4914,12 @@
   version: OS1.0.4.0.UNPINXM
 - android: '14.0'
   codename: peridot
+  date: '2024-11-20'
+  download: https://bigota.d.miui.com/OS1.0.17.0.UNPCNXM/fw_peridot_miui_PERIDOT_OS1.0.17.0.UNPCNXM_c4be978435_14.0.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS1.0.17.0.UNPCNXM
+- android: '14.0'
+  codename: peridot
   date: '2024-08-19'
   download: https://bigota.d.miui.com/OS1.0.5.0.UNPINXM/fw_peridot_miui_PERIDOTINGlobal_OS1.0.5.0.UNPINXM_b05647e582_14.0.zip
   name: Redmi Turbo 3/POCO F6
@@ -6712,6 +6742,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UMWMIXM/fw_sky_miui_SKYGlobal_OS1.0.9.0.UMWMIXM_9b55322953_14.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
   version: OS1.0.9.0.UMWMIXM
+- android: '14.0'
+  codename: sky
+  date: '2024-11-20'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UMWCNXM/fw_sky_miui_SKY_OS1.0.10.0.UMWCNXM_4931ef9f78_14.0.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS1.0.10.0.UMWCNXM
 - android: '14.0'
   codename: sky
   date: '2024-03-20'
@@ -8710,6 +8746,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UNOMIXM/fw_zircon_miui_ZIRCONGlobal_OS1.0.1.0.UNOMIXM_57498ca87c_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.1.0.UNOMIXM
+- android: '14.0'
+  codename: zircon
+  date: '2024-11-20'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UNOMIXM/fw_zircon_miui_ZIRCONGlobal_OS1.0.7.0.UNOMIXM_31691cdfde_14.0.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS1.0.7.0.UNOMIXM
 - android: '14.0'
   codename: zircon
   date: '2024-02-20'

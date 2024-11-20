@@ -52,24 +52,20 @@ permalink: /hyperos/zircon/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 13 Pro+ 5G China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UNOCNXM</td><td>14.0</td><td>7.9 GB</td><td>2024-09-11</td><td><a href="/hyperos/zircon/stable/OS1.0.7.0.UNOCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro+ 5G China</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UNOCNXM</td><td>14.0</td><td>6.2 GB</td><td>2024-09-23</td><td><a href="/hyperos/zircon/stable/OS1.0.7.0.UNOCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro+ 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.9.0.UNOCNXM</td><td>14.0</td><td>6.2 GB</td><td>2024-10-31</td><td><a href="/hyperos/zircon/stable beta/OS1.0.9.0.UNOCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 13 Pro+ 5G China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.UNOCNXM</td><td>14.0</td><td>7.9 GB</td><td>2024-10-22</td><td><a href="/hyperos/zircon/stable/OS1.0.9.0.UNOCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro+ 5G China</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UNOCNXM</td><td>14.0</td><td>6.2 GB</td><td>2024-10-31</td><td><a href="/hyperos/zircon/stable/OS1.0.9.0.UNOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro+ 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.UNOEUXM</td><td>14.0</td><td>8.4 GB</td><td>2024-10-17</td><td><a href="/hyperos/zircon/stable/OS1.0.10.0.UNOEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro+ 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.UNOEUXM</td><td>14.0</td><td>5.9 GB</td><td>2024-10-29</td><td><a href="/hyperos/zircon/stable/OS1.0.10.0.UNOEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro+ 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UNOMIXM</td><td>14.0</td><td>9.0 GB</td><td>2024-09-11</td><td><a href="/hyperos/zircon/stable/OS1.0.5.0.UNOMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro+ 5G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UNOMIXM</td><td>14.0</td><td>5.8 GB</td><td>2024-09-23</td><td><a href="/hyperos/zircon/stable/OS1.0.5.0.UNOMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro+ 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UNOIDXM</td><td>14.0</td><td>8.1 GB</td><td>2024-09-11</td><td><a href="/hyperos/zircon/stable/OS1.0.5.0.UNOIDXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro+ 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UNOIDXM</td><td>14.0</td><td>5.8 GB</td><td>2024-09-23</td><td><a href="/hyperos/zircon/stable/OS1.0.5.0.UNOIDXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro+ 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.UNOIDXM</td><td>14.0</td><td>5.8 GB</td><td>2024-10-31</td><td><a href="/hyperos/zircon/stable beta/OS1.0.6.0.UNOIDXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro+ 5G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UNOINXM</td><td>14.0</td><td>7.4 GB</td><td>2024-09-11</td><td><a href="/hyperos/zircon/stable/OS1.0.11.0.UNOINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro+ 5G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UNOINXM</td><td>14.0</td><td>5.6 GB</td><td>2024-09-23</td><td><a href="/hyperos/zircon/stable/OS1.0.11.0.UNOINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro+ 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.12.0.UNOINXM</td><td>14.0</td><td>5.6 GB</td><td>2024-10-31</td><td><a href="/hyperos/zircon/stable beta/OS1.0.12.0.UNOINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro+ 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UNOMIXM</td><td>14.0</td><td>9.0 GB</td><td>2024-10-21</td><td><a href="/hyperos/zircon/stable/OS1.0.7.0.UNOMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro+ 5G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UNOMIXM</td><td>14.0</td><td>5.8 GB</td><td>2024-10-31</td><td><a href="/hyperos/zircon/stable/OS1.0.7.0.UNOMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro+ 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UNOIDXM</td><td>14.0</td><td>8.2 GB</td><td>2024-10-21</td><td><a href="/hyperos/zircon/stable/OS1.0.6.0.UNOIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro+ 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UNOIDXM</td><td>14.0</td><td>5.8 GB</td><td>2024-10-31</td><td><a href="/hyperos/zircon/stable/OS1.0.6.0.UNOIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro+ 5G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.12.0.UNOINXM</td><td>14.0</td><td>7.5 GB</td><td>2024-10-14</td><td><a href="/hyperos/zircon/stable/OS1.0.12.0.UNOINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro+ 5G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.12.0.UNOINXM</td><td>14.0</td><td>5.6 GB</td><td>2024-10-31</td><td><a href="/hyperos/zircon/stable/OS1.0.12.0.UNOINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro+ 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UNORUXM</td><td>14.0</td><td>8.6 GB</td><td>2024-10-21</td><td><a href="/hyperos/zircon/stable/OS1.0.6.0.UNORUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro+ 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UNORUXM</td><td>14.0</td><td>5.7 GB</td><td>2024-10-31</td><td><a href="/hyperos/zircon/stable/OS1.0.6.0.UNORUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro+ 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UNOTRXM</td><td>14.0</td><td>7.7 GB</td><td>2024-09-11</td><td><a href="/hyperos/zircon/stable/OS1.0.5.0.UNOTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro+ 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UNOTRXM</td><td>14.0</td><td>5.7 GB</td><td>2024-09-23</td><td><a href="/hyperos/zircon/stable/OS1.0.5.0.UNOTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro+ 5G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.UNOTRXM</td><td>14.0</td><td>5.7 GB</td><td>2024-10-31</td><td><a href="/hyperos/zircon/stable beta/OS1.0.6.0.UNOTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro+ 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UNOTRXM</td><td>14.0</td><td>7.8 GB</td><td>2024-10-21</td><td><a href="/hyperos/zircon/stable/OS1.0.6.0.UNOTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro+ 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UNOTRXM</td><td>14.0</td><td>5.7 GB</td><td>2024-10-31</td><td><a href="/hyperos/zircon/stable/OS1.0.6.0.UNOTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro+ 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UNOTWXM</td><td>14.0</td><td>7.6 GB</td><td>2024-10-21</td><td><a href="/hyperos/zircon/stable/OS1.0.7.0.UNOTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro+ 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UNOTWXM</td><td>14.0</td><td>5.7 GB</td><td>2024-10-31</td><td><a href="/hyperos/zircon/stable/OS1.0.7.0.UNOTWXM/">Download</a></td></tr>
 

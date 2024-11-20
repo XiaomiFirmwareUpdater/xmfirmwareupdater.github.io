@@ -52,7 +52,8 @@ permalink: /archive/hyperos/matisse/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.13.0.ULKCNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-11-08</td><td><a href="/hyperos/matisse/stable beta/OS1.0.13.0.ULKCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.13.0.ULKCNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-11-08</td><td><a href="/hyperos/matisse/stable/OS1.0.13.0.ULKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.13.0.ULKCNXM</td><td>14.0</td><td>7.2 GB</td><td>2024-10-25</td><td><a href="/hyperos/matisse/stable/OS1.0.13.0.ULKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.12.0.ULKCNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-10-12</td><td><a href="/hyperos/matisse/stable/OS1.0.12.0.ULKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.12.0.ULKCNXM</td><td>14.0</td><td>7.2 GB</td><td>2024-10-10</td><td><a href="/hyperos/matisse/stable/OS1.0.12.0.ULKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.ULKCNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-08-29</td><td><a href="/hyperos/matisse/stable/OS1.0.9.0.ULKCNXM/">Download</a></td></tr>

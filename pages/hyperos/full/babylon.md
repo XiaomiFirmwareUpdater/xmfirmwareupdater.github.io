@@ -52,7 +52,9 @@ permalink: /archive/hyperos/babylon/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>MIX Fold 3 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.15.0.UMVCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-10-14</td><td><a href="/hyperos/babylon/stable/OS1.0.15.0.UMVCNXM/">Download</a></td></tr>
+                <tr><td>MIX Fold 3 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.16.0.UMVCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-11-07</td><td><a href="/hyperos/babylon/stable/OS1.0.16.0.UMVCNXM/">Download</a></td></tr>
+<tr><td>MIX Fold 3 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.16.0.UMVCNXM</td><td>14.0</td><td>8.8 GB</td><td>2024-10-31</td><td><a href="/hyperos/babylon/stable/OS1.0.16.0.UMVCNXM/">Download</a></td></tr>
+<tr><td>MIX Fold 3 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.15.0.UMVCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-10-14</td><td><a href="/hyperos/babylon/stable/OS1.0.15.0.UMVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 3 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.15.0.UMVCNXM</td><td>14.0</td><td>8.8 GB</td><td>2024-10-08</td><td><a href="/hyperos/babylon/stable/OS1.0.15.0.UMVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 3 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.14.0.UMVCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-09-23</td><td><a href="/hyperos/babylon/stable/OS1.0.14.0.UMVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 3 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.14.0.UMVCNXM</td><td>14.0</td><td>8.8 GB</td><td>2024-09-11</td><td><a href="/hyperos/babylon/stable/OS1.0.14.0.UMVCNXM/">Download</a></td></tr>
@@ -62,11 +64,11 @@ permalink: /archive/hyperos/babylon/
 <tr><td>MIX Fold 3 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UMVCNXM</td><td>14.0</td><td>8.8 GB</td><td>2024-05-20</td><td><a href="/hyperos/babylon/stable/OS1.0.6.0.UMVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 3 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UMVCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-04-15</td><td><a href="/hyperos/babylon/stable/OS1.0.5.0.UMVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 3 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UMVCNXM</td><td>14.0</td><td>8.8 GB</td><td>2024-03-28</td><td><a href="/hyperos/babylon/stable/OS1.0.5.0.UMVCNXM/">Download</a></td></tr>
-<tr><td>MIX Fold 3 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMVCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-03-14</td><td><a href="/hyperos/babylon/stable/OS1.0.4.0.UMVCNXM/">Download</a></td></tr>
-<tr><td>MIX Fold 3 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMVCNXM</td><td>14.0</td><td>8.8 GB</td><td>2024-03-04</td><td><a href="/hyperos/babylon/stable/OS1.0.4.0.UMVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 3 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.UMVCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-07-15</td><td><a href="/hyperos/babylon/stable/OS1.0.10.0.UMVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 3 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.UMVCNXM</td><td>14.0</td><td>8.8 GB</td><td>2024-07-12</td><td><a href="/hyperos/babylon/stable/OS1.0.10.0.UMVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 3 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.9.0.UMVCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-07-08</td><td><a href="/hyperos/babylon/stable beta/OS1.0.9.0.UMVCNXM/">Download</a></td></tr>
+<tr><td>MIX Fold 3 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMVCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-03-14</td><td><a href="/hyperos/babylon/stable/OS1.0.4.0.UMVCNXM/">Download</a></td></tr>
+<tr><td>MIX Fold 3 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMVCNXM</td><td>14.0</td><td>8.8 GB</td><td>2024-03-04</td><td><a href="/hyperos/babylon/stable/OS1.0.4.0.UMVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 3 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UMVCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-01-30</td><td><a href="/hyperos/babylon/stable/OS1.0.3.0.UMVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 3 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UMVCNXM</td><td>14.0</td><td>8.7 GB</td><td>2024-01-16</td><td><a href="/hyperos/babylon/stable/OS1.0.3.0.UMVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 3 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>6.9 GB</td><td>2024-01-12</td><td><a href="/hyperos/babylon/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>

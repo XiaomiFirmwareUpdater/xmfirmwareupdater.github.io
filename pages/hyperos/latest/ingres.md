@@ -52,10 +52,9 @@ permalink: /hyperos/ingres/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50G China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.ULJCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-09-24</td><td><a href="/hyperos/ingres/stable/OS1.0.6.0.ULJCNXM/">Download</a></td></tr>
-<tr><td>Redmi K50G China</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.ULJCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-09-30</td><td><a href="/hyperos/ingres/stable/OS1.0.6.0.ULJCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K50G China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.ULJCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-10-25</td><td><a href="/hyperos/ingres/stable/OS1.0.7.0.ULJCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50G China</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.ULJCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-11-04</td><td><a href="/hyperos/ingres/stable/OS1.0.7.0.ULJCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50G China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.8 GB</td><td>2024-01-12</td><td><a href="/hyperos/ingres/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
-<tr><td>Redmi K50G China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.ULJCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-11-04</td><td><a href="/hyperos/ingres/stable beta/OS1.0.7.0.ULJCNXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.ULJEUXM</td><td>14.0</td><td>6.2 GB</td><td>2024-10-25</td><td><a href="/hyperos/ingres/stable/OS1.0.7.0.ULJEUXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.ULJEUXM</td><td>14.0</td><td>5.0 GB</td><td>2024-11-04</td><td><a href="/hyperos/ingres/stable/OS1.0.7.0.ULJEUXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.ULJMIXM</td><td>14.0</td><td>6.6 GB</td><td>2024-10-21</td><td><a href="/hyperos/ingres/stable/OS1.0.7.0.ULJMIXM/">Download</a></td></tr>
