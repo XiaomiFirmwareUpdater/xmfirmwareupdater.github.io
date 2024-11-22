@@ -12,6 +12,18 @@
   version: OS1.0.8.0.UKWMIXM
 - android: '14.0'
   codename: agate
+  date: '2024-11-22'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UKWEUXM/fw_agate_miui_AGATEEEAGlobal_OS1.0.8.0.UKWEUXM_a8b2bb6069_14.0.zip
+  name: Xiaomi 11T
+  version: OS1.0.8.0.UKWEUXM
+- android: '14.0'
+  codename: agate
+  date: '2024-11-22'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UKWMIXM/fw_agate_miui_AGATEGlobal_OS1.0.9.0.UKWMIXM_69c3b53d67_14.0.zip
+  name: Xiaomi 11T
+  version: OS1.0.9.0.UKWMIXM
+- android: '14.0'
+  codename: agate
   date: '2024-10-12'
   download: https://bigota.d.miui.com/OS1.0.6.0.UKWEUXM/fw_agate_miui_AGATEEEAGlobal_OS1.0.6.0.UKWEUXM_73ceba98fd_14.0.zip
   name: Xiaomi 11T

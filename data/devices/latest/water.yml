@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-10-25'
+  date: '2024-11-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-25.10.2024/fw_water_miui_WATERGlobal_V14.0.35.0.TGOMIXM_3ab0e5424a_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERGlobal_V14.0.35.0.TGOMIXM_3ab0e5424a_13.0.zip
-  filename: fw_water_miui_WATERGlobal_V14.0.35.0.TGOMIXM_3ab0e5424a_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-22.11.2024/fw_water_miui_WATERGlobal_V14.0.36.0.TGOMIXM_2fe7acb9c1_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERGlobal_V14.0.36.0.TGOMIXM_2fe7acb9c1_13.0.zip
+  filename: fw_water_miui_WATERGlobal_V14.0.36.0.TGOMIXM_2fe7acb9c1_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.35.0.TGOMIXM
+    miui: V14.0.36.0.TGOMIXM
 - branch: stable
   date: '2024-10-23'
   downloads:
@@ -19,12 +19,12 @@
     android: '13.0'
     miui: V14.0.20.0.TGOEUXM
 - branch: stable
-  date: '2024-10-24'
+  date: '2024-11-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-24.10.2024/fw_water_miui_WATERINGlobal_V14.0.18.0.TGOINXM_95e49b28fb_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERINGlobal_V14.0.18.0.TGOINXM_95e49b28fb_13.0.zip
-  filename: fw_water_miui_WATERINGlobal_V14.0.18.0.TGOINXM_95e49b28fb_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-22.11.2024/fw_water_miui_WATERINGlobal_V14.0.19.0.TGOINXM_2ee7341820_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERINGlobal_V14.0.19.0.TGOINXM_2ee7341820_13.0.zip
+  filename: fw_water_miui_WATERINGlobal_V14.0.19.0.TGOINXM_2ee7341820_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: V14.0.18.0.TGOINXM
+    miui: V14.0.19.0.TGOINXM
