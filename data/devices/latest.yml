@@ -2839,15 +2839,15 @@
     android: '14.0'
     miui: OS1.0.9.0.ULSCNXM
 - branch: stable
-  date: '2024-08-26'
+  date: '2024-11-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-26.08.2024/fw_light_miui_LIGHTEEAGlobal_OS1.0.5.0.ULSEUXM_d1b540599f_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/light/fw_light_miui_LIGHTEEAGlobal_OS1.0.5.0.ULSEUXM_d1b540599f_14.0.zip
-  filename: fw_light_miui_LIGHTEEAGlobal_OS1.0.5.0.ULSEUXM_d1b540599f_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-22.11.2024/fw_light_miui_LIGHTEEAGlobal_OS1.0.6.0.ULSEUXM_12ce21789f_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/light/fw_light_miui_LIGHTEEAGlobal_OS1.0.6.0.ULSEUXM_12ce21789f_14.0.zip
+  filename: fw_light_miui_LIGHTEEAGlobal_OS1.0.6.0.ULSEUXM_12ce21789f_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.ULSEUXM
+    miui: OS1.0.6.0.ULSEUXM
 - branch: stable
   date: '2024-05-20'
   downloads:
@@ -4929,15 +4929,15 @@
     android: '14.0'
     miui: OS1.0.10.0.UNGMIXM
 - branch: stable
-  date: '2024-10-28'
+  date: '2024-11-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphiren/releases/download/stable-28.10.2024/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.8.0.UNHMIXM_c0632d4687_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sapphiren/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.8.0.UNHMIXM_c0632d4687_14.0.zip
-  filename: fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.8.0.UNHMIXM_c0632d4687_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphiren/releases/download/stable-22.11.2024/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.9.0.UNHMIXM_aed6407a4c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sapphiren/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.9.0.UNHMIXM_aed6407a4c_14.0.zip
+  filename: fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.9.0.UNHMIXM_aed6407a4c_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.8.0.UNHMIXM
+    miui: OS1.0.9.0.UNHMIXM
 - branch: stable
   date: '2024-11-09'
   downloads:
@@ -4999,15 +4999,15 @@
     android: '14.0'
     miui: OS1.0.11.0.UHZMIXM
 - branch: stable
-  date: '2024-10-25'
+  date: '2024-11-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-25.10.2024/fw_sea_miui_SEAEEAGlobal_OS1.0.10.0.UHZEUXM_69cd0c4140_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sea/fw_sea_miui_SEAEEAGlobal_OS1.0.10.0.UHZEUXM_69cd0c4140_14.0.zip
-  filename: fw_sea_miui_SEAEEAGlobal_OS1.0.10.0.UHZEUXM_69cd0c4140_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-22.11.2024/fw_sea_miui_SEAEEAGlobal_OS1.0.11.0.UHZEUXM_1e3eb1699a_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sea/fw_sea_miui_SEAEEAGlobal_OS1.0.11.0.UHZEUXM_1e3eb1699a_14.0.zip
+  filename: fw_sea_miui_SEAEEAGlobal_OS1.0.11.0.UHZEUXM_1e3eb1699a_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.10.0.UHZEUXM
+    miui: OS1.0.11.0.UHZEUXM
 - branch: stable
   date: '2024-05-13'
   downloads:
@@ -5419,15 +5419,15 @@
     android: '14.0'
     miui: OS1.0.10.0.UMTMIXM
 - branch: stable
-  date: '2024-08-12'
+  date: '2024-11-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-13.08.2024/fw_tapas_miui_TAPASINGlobal_OS1.0.5.0.UMTINXM_83ecfa64de_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/tapas/fw_tapas_miui_TAPASINGlobal_OS1.0.5.0.UMTINXM_83ecfa64de_14.0.zip
-  filename: fw_tapas_miui_TAPASINGlobal_OS1.0.5.0.UMTINXM_83ecfa64de_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-22.11.2024/fw_tapas_miui_TAPASINGlobal_OS1.0.7.0.UMTINXM_32a9132e06_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/tapas/fw_tapas_miui_TAPASINGlobal_OS1.0.7.0.UMTINXM_32a9132e06_14.0.zip
+  filename: fw_tapas_miui_TAPASINGlobal_OS1.0.7.0.UMTINXM_32a9132e06_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UMTINXM
+    miui: OS1.0.7.0.UMTINXM
 - branch: stable
   date: '2024-10-22'
   downloads:
@@ -6229,15 +6229,15 @@
     android: '14.0'
     miui: OS1.0.7.0.UMUCNXM
 - branch: stable
-  date: '2024-11-03'
+  date: '2024-11-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-03.11.2024/fw_xun_miui_XUNEEAGlobal_OS1.0.4.0.UMUEUXM_3cabc34493_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/xun/fw_xun_miui_XUNEEAGlobal_OS1.0.4.0.UMUEUXM_3cabc34493_14.0.zip
-  filename: fw_xun_miui_XUNEEAGlobal_OS1.0.4.0.UMUEUXM_3cabc34493_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-22.11.2024/fw_xun_miui_XUNEEAGlobal_OS1.0.5.0.UMUEUXM_def0faeada_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/xun/fw_xun_miui_XUNEEAGlobal_OS1.0.5.0.UMUEUXM_def0faeada_14.0.zip
+  filename: fw_xun_miui_XUNEEAGlobal_OS1.0.5.0.UMUEUXM_def0faeada_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.UMUEUXM
+    miui: OS1.0.5.0.UMUEUXM
 - branch: stable
   date: '2024-11-07'
   downloads:
