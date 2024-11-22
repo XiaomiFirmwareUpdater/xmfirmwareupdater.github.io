@@ -4206,6 +4206,12 @@
   version: OS1.0.6.0.UNTMIXM
 - android: '14.0'
   codename: moon
+  date: '2024-11-22'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UNTMIXM/fw_moon_miui_MOONGlobal_OS1.0.8.0.UNTMIXM_33874dce35_14.0.zip
+  name: Redmi 13/POCO M6
+  version: OS1.0.8.0.UNTMIXM
+- android: '14.0'
+  codename: moon
   date: '2024-06-20'
   download: https://bigota.d.miui.com/OS1.0.3.0.UNTEUXM/fw_moon_miui_MOONEEAGlobal_OS1.0.3.0.UNTEUXM_b44caa7893_14.0.zip
   name: Redmi 13/POCO M6
@@ -6058,6 +6064,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMOCNXM/fw_ruby_miui_RUBY_OS1.0.3.0.UMOCNXM_c06e478636_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: OS1.0.3.0.UMOCNXM
+- android: '14.0'
+  codename: ruby
+  date: '2024-11-22'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UMOMIXM/fw_ruby_miui_RUBYGlobal_OS1.0.12.0.UMOMIXM_b53de30e6a_14.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS1.0.12.0.UMOMIXM
 - android: '14.0'
   codename: ruby
   date: '2024-10-21'
@@ -8632,6 +8644,18 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULBEUXM/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.2.0.ULBEUXM_6813469e89_14.0.zip
   name: Xiaomi 12 Pro
   version: OS1.0.2.0.ULBEUXM
+- android: '14.0'
+  codename: zeus
+  date: '2024-11-22'
+  download: https://bigota.d.miui.com/OS1.0.16.0.ULBEUXM/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.16.0.ULBEUXM_8622bbe248_14.0.zip
+  name: Xiaomi 12 Pro
+  version: OS1.0.16.0.ULBEUXM
+- android: '14.0'
+  codename: zeus
+  date: '2024-11-22'
+  download: https://bigota.d.miui.com/OS1.0.11.0.ULBCNXM/fw_zeus_miui_ZEUS_OS1.0.11.0.ULBCNXM_bb279a861d_14.0.zip
+  name: Xiaomi 12 Pro
+  version: OS1.0.11.0.ULBCNXM
 - android: '14.0'
   codename: zeus
   date: '2024-02-22'
