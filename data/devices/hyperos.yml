@@ -7920,6 +7920,18 @@
   version: OS1.0.6.0.TKCINXM
 - android: '13.0'
   codename: veux
+  date: '2024-11-24'
+  download: https://bigota.d.miui.com/OS1.0.11.0.TKCMIXM/fw_veux_miui_VEUXGlobal_OS1.0.11.0.TKCMIXM_1c149a6502_13.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: OS1.0.11.0.TKCMIXM
+- android: '13.0'
+  codename: veux
+  date: '2024-11-24'
+  download: https://bigota.d.miui.com/OS1.0.8.0.TKCINXM/fw_veux_miui_VEUXINGlobal_OS1.0.8.0.TKCINXM_4aa7d1c187_13.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: OS1.0.8.0.TKCINXM
+- android: '13.0'
+  codename: veux
   date: '2024-08-23'
   download: https://bigota.d.miui.com/OS1.0.4.0.TKCEUXM/fw_veux_miui_VEUXEEAGlobal_OS1.0.4.0.TKCEUXM_9aef24c7f3_13.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G

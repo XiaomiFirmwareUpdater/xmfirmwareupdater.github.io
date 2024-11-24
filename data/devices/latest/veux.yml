@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-10-25'
+  date: '2024-11-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-25.10.2024/fw_veux_miui_VEUXGlobal_OS1.0.9.0.TKCMIXM_46bb03feef_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/veux/fw_veux_miui_VEUXGlobal_OS1.0.9.0.TKCMIXM_46bb03feef_13.0.zip
-  filename: fw_veux_miui_VEUXGlobal_OS1.0.9.0.TKCMIXM_46bb03feef_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-24.11.2024/fw_veux_miui_VEUXGlobal_OS1.0.11.0.TKCMIXM_1c149a6502_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/veux/fw_veux_miui_VEUXGlobal_OS1.0.11.0.TKCMIXM_1c149a6502_13.0.zip
+  filename: fw_veux_miui_VEUXGlobal_OS1.0.11.0.TKCMIXM_1c149a6502_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: OS1.0.9.0.TKCMIXM
+    miui: OS1.0.11.0.TKCMIXM
 - branch: stable
   date: '2024-11-01'
   downloads:
@@ -29,12 +29,12 @@
     android: '13.0'
     miui: OS1.0.9.0.TKCEUXM
 - branch: stable
-  date: '2024-10-25'
+  date: '2024-11-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-25.10.2024/fw_veux_miui_VEUXINGlobal_OS1.0.6.0.TKCINXM_1eec986c85_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/veux/fw_veux_miui_VEUXINGlobal_OS1.0.6.0.TKCINXM_1eec986c85_13.0.zip
-  filename: fw_veux_miui_VEUXINGlobal_OS1.0.6.0.TKCINXM_1eec986c85_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-24.11.2024/fw_veux_miui_VEUXINGlobal_OS1.0.8.0.TKCINXM_4aa7d1c187_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/veux/fw_veux_miui_VEUXINGlobal_OS1.0.8.0.TKCINXM_4aa7d1c187_13.0.zip
+  filename: fw_veux_miui_VEUXINGlobal_OS1.0.8.0.TKCINXM_4aa7d1c187_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: OS1.0.6.0.TKCINXM
+    miui: OS1.0.8.0.TKCINXM
