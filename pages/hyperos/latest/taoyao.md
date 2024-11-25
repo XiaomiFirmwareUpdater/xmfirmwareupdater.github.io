@@ -52,14 +52,12 @@ permalink: /hyperos/taoyao/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.14.0.ULIEUXM</td><td>14.0</td><td>7.0 GB</td><td>2024-09-11</td><td><a href="/hyperos/taoyao/stable/OS1.0.14.0.ULIEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Lite EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.14.0.ULIEUXM</td><td>14.0</td><td>5.4 GB</td><td>2024-09-20</td><td><a href="/hyperos/taoyao/stable/OS1.0.14.0.ULIEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Lite EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.15.0.ULIEUXM</td><td>14.0</td><td>5.4 GB</td><td>2024-10-30</td><td><a href="/hyperos/taoyao/stable beta/OS1.0.15.0.ULIEUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.15.0.ULIEUXM</td><td>14.0</td><td>7.0 GB</td><td>2024-10-17</td><td><a href="/hyperos/taoyao/stable/OS1.0.15.0.ULIEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Lite EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.15.0.ULIEUXM</td><td>14.0</td><td>5.4 GB</td><td>2024-10-30</td><td><a href="/hyperos/taoyao/stable/OS1.0.15.0.ULIEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Lite Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.ULIMIXM</td><td>14.0</td><td>7.3 GB</td><td>2024-10-14</td><td><a href="/hyperos/taoyao/stable/OS1.0.11.0.ULIMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Lite Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.ULIMIXM</td><td>14.0</td><td>5.3 GB</td><td>2024-11-04</td><td><a href="/hyperos/taoyao/stable/OS1.0.11.0.ULIMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Lite Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.ULIIDXM</td><td>14.0</td><td>6.7 GB</td><td>2024-09-10</td><td><a href="/hyperos/taoyao/stable/OS1.0.8.0.ULIIDXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Lite Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.ULIIDXM</td><td>14.0</td><td>5.2 GB</td><td>2024-09-29</td><td><a href="/hyperos/taoyao/stable/OS1.0.8.0.ULIIDXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Lite Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.9.0.ULIIDXM</td><td>14.0</td><td>5.2 GB</td><td>2024-11-04</td><td><a href="/hyperos/taoyao/stable beta/OS1.0.9.0.ULIIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Lite Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.ULIIDXM</td><td>14.0</td><td>6.7 GB</td><td>2024-10-17</td><td><a href="/hyperos/taoyao/stable/OS1.0.9.0.ULIIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Lite Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.ULIIDXM</td><td>14.0</td><td>5.2 GB</td><td>2024-11-04</td><td><a href="/hyperos/taoyao/stable/OS1.0.9.0.ULIIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Lite Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.ULIRUXM</td><td>14.0</td><td>6.6 GB</td><td>2024-10-17</td><td><a href="/hyperos/taoyao/stable/OS1.0.7.0.ULIRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Lite Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.ULIRUXM</td><td>14.0</td><td>5.2 GB</td><td>2024-11-04</td><td><a href="/hyperos/taoyao/stable/OS1.0.7.0.ULIRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Lite Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.ULITRXM</td><td>14.0</td><td>6.6 GB</td><td>2024-10-17</td><td><a href="/hyperos/taoyao/stable/OS1.0.7.0.ULITRXM/">Download</a></td></tr>

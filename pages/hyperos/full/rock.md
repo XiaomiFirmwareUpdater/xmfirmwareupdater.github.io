@@ -53,8 +53,10 @@ permalink: /archive/hyperos/rock/
                 </thead>
                 <tbody>
                 <tr><td>POCO M5 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.ULUIDXM</td><td>14.0</td><td>3.9 GB</td><td>2024-11-11</td><td><a href="/hyperos/rock/stable beta/OS1.0.7.0.ULUIDXM/">Download</a></td></tr>
-<tr><td>POCO M5 / Redmi 11 Prime 4G India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.8.0.ULUINXM</td><td>14.0</td><td>3.9 GB</td><td>2024-11-11</td><td><a href="/hyperos/rock/stable beta/OS1.0.8.0.ULUINXM/">Download</a></td></tr>
-<tr><td>POCO M5 Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.ULURUXM</td><td>14.0</td><td>4.0 GB</td><td>2024-11-11</td><td><a href="/hyperos/rock/stable beta/OS1.0.6.0.ULURUXM/">Download</a></td></tr>
+<tr><td>POCO M5 / Redmi 11 Prime 4G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.ULUINXM</td><td>14.0</td><td>3.9 GB</td><td>2024-11-11</td><td><a href="/hyperos/rock/stable/OS1.0.8.0.ULUINXM/">Download</a></td></tr>
+<tr><td>POCO M5 / Redmi 11 Prime 4G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.ULUINXM</td><td>14.0</td><td>5.2 GB</td><td>2024-10-21</td><td><a href="/hyperos/rock/stable/OS1.0.8.0.ULUINXM/">Download</a></td></tr>
+<tr><td>POCO M5 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.ULURUXM</td><td>14.0</td><td>4.0 GB</td><td>2024-11-11</td><td><a href="/hyperos/rock/stable/OS1.0.6.0.ULURUXM/">Download</a></td></tr>
+<tr><td>POCO M5 Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.ULURUXM</td><td>14.0</td><td>5.9 GB</td><td>2024-10-21</td><td><a href="/hyperos/rock/stable/OS1.0.6.0.ULURUXM/">Download</a></td></tr>
 <tr><td>POCO M5 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.12.0.ULUMIXM</td><td>14.0</td><td>4.0 GB</td><td>2024-10-18</td><td><a href="/hyperos/rock/stable/OS1.0.12.0.ULUMIXM/">Download</a></td></tr>
 <tr><td>POCO M5 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.12.0.ULUMIXM</td><td>14.0</td><td>6.3 GB</td><td>2024-10-12</td><td><a href="/hyperos/rock/stable/OS1.0.12.0.ULUMIXM/">Download</a></td></tr>
 <tr><td>POCO M5 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.ULUIDXM</td><td>14.0</td><td>3.9 GB</td><td>2024-09-11</td><td><a href="/hyperos/rock/stable/OS1.0.6.0.ULUIDXM/">Download</a></td></tr>
