@@ -52,7 +52,8 @@ permalink: /archive/hyperos/marble/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F5 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UMRIDXM</td><td>14.0</td><td>5.2 GB</td><td>2024-10-29</td><td><a href="/hyperos/marble/stable/OS1.0.9.0.UMRIDXM/">Download</a></td></tr>
+                <tr><td>POCO F5 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.15.0.UMREUXM</td><td>14.0</td><td>5.2 GB</td><td>2024-11-21</td><td><a href="/hyperos/marble/stable beta/OS1.0.15.0.UMREUXM/">Download</a></td></tr>
+<tr><td>POCO F5 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UMRIDXM</td><td>14.0</td><td>5.2 GB</td><td>2024-10-29</td><td><a href="/hyperos/marble/stable/OS1.0.9.0.UMRIDXM/">Download</a></td></tr>
 <tr><td>POCO F5 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.UMRIDXM</td><td>14.0</td><td>7.6 GB</td><td>2024-09-30</td><td><a href="/hyperos/marble/stable/OS1.0.9.0.UMRIDXM/">Download</a></td></tr>
 <tr><td>POCO F5 India</td><td>Stable</td><td>Recovery</td><td>OS1.0.13.0.UMRINXM</td><td>14.0</td><td>5.0 GB</td><td>2024-10-29</td><td><a href="/hyperos/marble/stable/OS1.0.13.0.UMRINXM/">Download</a></td></tr>
 <tr><td>POCO F5 India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.13.0.UMRINXM</td><td>14.0</td><td>6.5 GB</td><td>2024-09-30</td><td><a href="/hyperos/marble/stable/OS1.0.13.0.UMRINXM/">Download</a></td></tr>

@@ -3,7 +3,7 @@ title: Xiaomi 14 Pro Ti Satellite China HyperOS OS2.0.6.0.VNBCNXM Update
 layout: download
 name: Xiaomi 14 Pro Ti Satellite China
 codename: shennong
-permalink: /hyperos/shennong/stable beta/OS2.0.6.0.VNBCNXM/
+permalink: /hyperos/shennong/stable/OS2.0.6.0.VNBCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/shennong/stable beta/OS2.0.6.0.VNBCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.6.0.VNBCNXM Stable Beta Official Update for Xiaomi 14 Pro Ti Satellite China (shennong)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.6.0.VNBCNXM Stable Official Update for Xiaomi 14 Pro Ti Satellite China (shennong)</h3>
     <h5>This page shows the OS2.0.6.0.VNBCNXM update only. If you're looking for other updates check
         <a href="/hyperos/shennong/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/shennong/stable beta/OS2.0.6.0.VNBCNXM/
                     <h5><b>Version: </b>OS2.0.6.0.VNBCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/shennong/stable beta/OS2.0.6.0.VNBCNXM/
                             aria-expanded="false" aria-controls="shennong_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="shennong_1_changelog">
+                        <p id="changelog_text">[Alive Design Philosophy]<br>Alive Design Philosophy unveils fresh, vibrant design across the whole system, making every interaction feel smooth and alive.<br>All-new Artistic Lock screen:<br>Artistic Lock screen brings new templates and effects inspired by classic designs, giving your device a cinematic look every time you unlock it.<br>AI dynamic wallpapers:<br>AI-generated dynamic wallpapers bring static images to life.<br>All-new Gallery:<br>With AI and reorganized collections, Gallery makes your memories even more vivid.<br>All-new Weather<br>Real-time Weather Engine 2.0 shows you the sky and clouds just like in real life – even lets you see rainbows and the Milky Way.<br>All-new Calendar:<br>The new Desktop calendar adds a touch of ritual to your day.<br>All-new Clock:<br>Updated Clock uses a more refined display structure for a more elegant, easy-to-read look.<br>Updated widgets:<br>Enhanced widgets allow you to customize and combine information on your Home screen for a more efficient, stylish experience.<br>Updated animations:<br>A full-scale animation upgrade makes every interaction flow smoothly and feel stable, responsive, and comfortable.<br>[Xiaomi HyperCore]<br>Xiaomi HyperCore, Xiaomi's proprietary core technology platform, enhances performance, graphics, network, and security.<br>New microarchitecture scheduler:<br>A new in-house microarchitecture scheduler manages tasks more efficiently.<br>New dynamic memory:<br>New technology allows precise resource allocation, so apps start up faster.<br>Upgraded rendering:<br>Upgraded rendering for multitasking extends battery life.<br>Heterogeneous computing:<br>Enhanced rendering pipeline boosts hardware performance for faster, more efficient visuals.<br>Enhanced wireless compatibility:<br>Enhanced wireless compatibility boosts network stability for more reliable connections.<br>5G full-link prediction technology:<br>Networks can now be optimized networks for calls and live-streaming.<br>[Xiaomi HyperConnect]<br>Upgraded cross-device connectivity framework.<br>Upgraded Home Screen+:<br>You can drag phone apps onto Xiaomi tablets or add them as native apps.<br>Updated shared clipboard:<br>Shared clipboard allows you to batch copy text for easier multi-device sharing.<br>Smart home devices:<br>Smart home upgrades improve the consistency of control experience of various terminal devices, covering Xiaomi Smart Hub, Home screen widgets, and the Xiaomi Home app.<br>"Human × Car × Home" smart ecosystem:<br>Enhanced interconnectivity for phones, wearables, and cars, adding 62 new ways for your devices to interact with each other.<br>Documents:<br>Take document editing to a new level with over 100 supported file formats, including documents, spreadsheets, and presentations across devices.<br>Upgraded Xiaomi Smart Hub<br>In upgraded Xiaomi Smart Hub, you can add sticky notes to your TV screensaver and use PiP.<br>[Xiaomi HyperAI]<br>Xiaomi HyperAI reshapes system apps with AI, enhancing productivity and usability and creating a dynamic, ever-evolving user experience.<br>All-new AI writing:<br>Generate, summarize, expand, polish, and correct text wherever you are with AI writing.<br>AI audio recognition:<br>Now, AI can recognize audio and transcribe in real time, summarize automatically, and mark speakers.<br>All-new AI search:<br>With AI search, you can find photos, videos, messages, notes, and recordings accurately.<br>AI Interpreter:<br>Upgraded translation and interpretation features.<br>AI data security:<br>End-to-end encryption is provided for sensitive data.<br>Trusted computing architecture:<br>Ensure the security of your data across devices and cloud.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi 14 Pro / Ti China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/shennong/" target="_blank">shennong</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.6.0.VNBCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>9.6 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-11-08</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">shennong_images_OS2.0.6.0.VNBCNXM_20241108.0000.00_15.0_cn_06ff86b586.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">06ff86b5868215f7c9a49d5f4a952220</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.6.0.VNBCNXM/shennong_images_OS2.0.6.0.VNBCNXM_20241108.0000.00_15.0_cn_06ff86b586.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.6.0.VNBCNXM/shennong_images_OS2.0.6.0.VNBCNXM_20241108.0000.00_15.0_cn_06ff86b586.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.6.0.VNBCNXM/shennong_images_OS2.0.6.0.VNBCNXM_20241108.0000.00_15.0_cn_06ff86b586.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.6.0.VNBCNXM/shennong_images_OS2.0.6.0.VNBCNXM_20241108.0000.00_15.0_cn_06ff86b586.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.6.0.VNBCNXM/shennong_images_OS2.0.6.0.VNBCNXM_20241108.0000.00_15.0_cn_06ff86b586.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#shennong_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="shennong_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="shennong_2_changelog">
                         <p id="changelog_text">[Alive Design Philosophy]<br>Alive Design Philosophy unveils fresh, vibrant design across the whole system, making every interaction feel smooth and alive.<br>All-new Artistic Lock screen:<br>Artistic Lock screen brings new templates and effects inspired by classic designs, giving your device a cinematic look every time you unlock it.<br>AI dynamic wallpapers:<br>AI-generated dynamic wallpapers bring static images to life.<br>All-new Gallery:<br>With AI and reorganized collections, Gallery makes your memories even more vivid.<br>All-new Weather<br>Real-time Weather Engine 2.0 shows you the sky and clouds just like in real life – even lets you see rainbows and the Milky Way.<br>All-new Calendar:<br>The new Desktop calendar adds a touch of ritual to your day.<br>All-new Clock:<br>Updated Clock uses a more refined display structure for a more elegant, easy-to-read look.<br>Updated widgets:<br>Enhanced widgets allow you to customize and combine information on your Home screen for a more efficient, stylish experience.<br>Updated animations:<br>A full-scale animation upgrade makes every interaction flow smoothly and feel stable, responsive, and comfortable.<br>[Xiaomi HyperCore]<br>Xiaomi HyperCore, Xiaomi's proprietary core technology platform, enhances performance, graphics, network, and security.<br>New microarchitecture scheduler:<br>A new in-house microarchitecture scheduler manages tasks more efficiently.<br>New dynamic memory:<br>New technology allows precise resource allocation, so apps start up faster.<br>Upgraded rendering:<br>Upgraded rendering for multitasking extends battery life.<br>Heterogeneous computing:<br>Enhanced rendering pipeline boosts hardware performance for faster, more efficient visuals.<br>Enhanced wireless compatibility:<br>Enhanced wireless compatibility boosts network stability for more reliable connections.<br>5G full-link prediction technology:<br>Networks can now be optimized networks for calls and live-streaming.<br>[Xiaomi HyperConnect]<br>Upgraded cross-device connectivity framework.<br>Upgraded Home Screen+:<br>You can drag phone apps onto Xiaomi tablets or add them as native apps.<br>Updated shared clipboard:<br>Shared clipboard allows you to batch copy text for easier multi-device sharing.<br>Smart home devices:<br>Smart home upgrades improve the consistency of control experience of various terminal devices, covering Xiaomi Smart Hub, Home screen widgets, and the Xiaomi Home app.<br>"Human × Car × Home" smart ecosystem:<br>Enhanced interconnectivity for phones, wearables, and cars, adding 62 new ways for your devices to interact with each other.<br>Documents:<br>Take document editing to a new level with over 100 supported file formats, including documents, spreadsheets, and presentations across devices.<br>Upgraded Xiaomi Smart Hub<br>In upgraded Xiaomi Smart Hub, you can add sticky notes to your TV screensaver and use PiP.<br>[Xiaomi HyperAI]<br>Xiaomi HyperAI reshapes system apps with AI, enhancing productivity and usability and creating a dynamic, ever-evolving user experience.<br>All-new AI writing:<br>Generate, summarize, expand, polish, and correct text wherever you are with AI writing.<br>AI audio recognition:<br>Now, AI can recognize audio and transcribe in real time, summarize automatically, and mark speakers.<br>All-new AI search:<br>With AI search, you can find photos, videos, messages, notes, and recordings accurately.<br>AI Interpreter:<br>Upgraded translation and interpretation features.<br>AI data security:<br>End-to-end encryption is provided for sensitive data.<br>Trusted computing architecture:<br>Ensure the security of your data across devices and cloud.</p>
                     </div>
                 </li>
