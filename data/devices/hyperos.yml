@@ -3582,6 +3582,12 @@
   version: OS1.0.3.0.UKOMIXM
 - android: '14.0'
   codename: lisa
+  date: '2024-11-26'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UKOMIXM/fw_lisa_miui_LISAGlobal_OS1.0.10.0.UKOMIXM_1713a7de35_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.10.0.UKOMIXM
+- android: '14.0'
+  codename: lisa
   date: '2024-06-25'
   download: https://bigota.d.miui.com/OS1.0.5.0.UKOEUXM/fw_lisa_miui_LISAEEAGlobal_OS1.0.5.0.UKOEUXM_ab63f51caf_14.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
