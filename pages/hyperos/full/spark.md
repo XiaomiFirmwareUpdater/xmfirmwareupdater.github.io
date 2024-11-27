@@ -52,7 +52,11 @@ permalink: /archive/hyperos/spark/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad SE 8.7 4G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UHYMIXM</td><td>14.0</td><td>4.1 GB</td><td>2024-11-07</td><td><a href="/hyperos/spark/stable/OS1.0.6.0.UHYMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad SE 8.7 4G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UHYEUXM</td><td>14.0</td><td>4.1 GB</td><td>2024-11-22</td><td><a href="/hyperos/spark/stable/OS1.0.6.0.UHYEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE 8.7 4G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UHYEUXM</td><td>14.0</td><td>5.0 GB</td><td>2024-11-11</td><td><a href="/hyperos/spark/stable/OS1.0.6.0.UHYEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE 8.7 4G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UHYRUXM</td><td>14.0</td><td>4.0 GB</td><td>2024-11-22</td><td><a href="/hyperos/spark/stable/OS1.0.4.0.UHYRUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE 8.7 4G Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UHYRUXM</td><td>14.0</td><td>5.4 GB</td><td>2024-11-15</td><td><a href="/hyperos/spark/stable/OS1.0.4.0.UHYRUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE 8.7 4G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UHYMIXM</td><td>14.0</td><td>4.1 GB</td><td>2024-11-07</td><td><a href="/hyperos/spark/stable/OS1.0.6.0.UHYMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 4G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UHYMIXM</td><td>14.0</td><td>5.2 GB</td><td>2024-10-29</td><td><a href="/hyperos/spark/stable/OS1.0.6.0.UHYMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 4G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UHYTWXM</td><td>14.0</td><td>4.0 GB</td><td>2024-10-22</td><td><a href="/hyperos/spark/stable/OS1.0.3.0.UHYTWXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 4G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UHYTWXM</td><td>14.0</td><td>4.8 GB</td><td>2024-10-08</td><td><a href="/hyperos/spark/stable/OS1.0.3.0.UHYTWXM/">Download</a></td></tr>
