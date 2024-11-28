@@ -1,36 +1,36 @@
 ---
-title: Xiaomi 11T Pro (vili) MIUI Downloads
+title: Redmi A4 5G/POCO C75 5G (warm) HyperOS Downloads
 layout: download
-name: Xiaomi 11T Pro
-codename: vili
-permalink: /miui/vili/
+name: Redmi A4 5G/POCO C75 5G
+codename: warm
+permalink: /hyperos/warm/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
-        <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/vili/">Xiaomi 11T Pro</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/warm/">Redmi A4 5G/POCO C75 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
-    Follow MIUI Updates Tracker on <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">Telegram</a>
+    Follow HyperOS Updates Tracker on <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">Telegram</a>
      or <a href="https://twitter.com/MiFwUpdater" class="alert-link">Twitter</a> to get notified when a new update is out!
     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
 
-### Latest MIUI Official ROMs
-*Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or modded by XM Firmware Updater.
+### Latest HyperOS Official ROMs
+*Note*: All files listed here are official untouched HyperOS ROMs. It's not owned, modified or modded by XM Firmware Updater.
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/vili/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/vili/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/vili/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/hyperos/warm/" class="card-link">HyperOS Archive</a>
+    <a href="/firmware/warm/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/warm/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -44,7 +44,7 @@ permalink: /miui/vili/
                         <th data-ref="device">Device</th>
                         <th data-ref="branch">Branch</th>
                         <th data-ref="type">Type</th>
-                        <th data-ref="miui">MIUI</th>
+                        <th data-ref="miui">HyperOS</th>
                         <th data-ref="android">Android</th>
                         <th data-ref="size">Size</th>
                         <th data-ref="size">Date</th>
@@ -52,8 +52,8 @@ permalink: /miui/vili/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 11T Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.19.0.RKDEUXM</td><td>11.0</td><td>3.4 GB</td><td>2021-12-20</td><td><a href="/miui/vili/stable beta/V12.5.19.0.RKDEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11T Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TKDTRXM</td><td>13.0</td><td>4.7 GB</td><td>2023-08-29</td><td><a href="/miui/vili/stable beta/V14.0.4.0.TKDTRXM/">Download</a></td></tr>
+                <tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UGVINXM</td><td>14.0</td><td>5.4 GB</td><td>2024-11-06</td><td><a href="/hyperos/warm/stable/OS1.0.4.0.UGVINXM/">Download</a></td></tr>
+<tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UGVINXM</td><td>14.0</td><td>3.9 GB</td><td>2024-11-27</td><td><a href="/hyperos/warm/stable/OS1.0.4.0.UGVINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

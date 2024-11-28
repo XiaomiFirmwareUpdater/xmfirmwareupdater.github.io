@@ -1,15 +1,15 @@
 ---
-title: Xiaomi 11T Pro (vili) Firmware Downloads
+title: Redmi A4 5G/POCO C75 5G (warm) Firmware Downloads
 layout: download
-name: Xiaomi 11T Pro
-codename: vili
-permalink: /archive/firmware/vili/
+name: Redmi A4 5G/POCO C75 5G
+codename: warm
+permalink: /archive/firmware/warm/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/vili/">Xiaomi 11T Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/warm/">Redmi A4 5G/POCO C75 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -26,9 +26,9 @@ permalink: /archive/firmware/vili/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows all available downloads.
      If you're looking for the latest releases or other downloads check:</p>
-    <a href="/firmware/vili/" class="card-link">Latest Firmware</a>
-    <a href="/miui/vili/" class="card-link">MIUI Downloads</a>
-    <a href="/vendor/vili/" class="card-link">Vendor Downloads</a>
+    <a href="/firmware/warm/" class="card-link">Latest Firmware</a>
+    <a href="/hyperos/warm/" class="card-link">HyperOS Downloads</a>
+    <a href="/vendor/warm/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 
@@ -41,14 +41,14 @@ permalink: /archive/firmware/vili/
                 <thead class="thead-dark">
                     <tr>
                         <th data-ref="branch">Branch</th>
-                        <th data-ref="miui">MIUI</th>
+                        <th data-ref="miui">HyperOS</th>
                         <th data-ref="android">Android</th>
                         <th data-ref="region">Region</th>
                         <th data-ref="link">Link</th>
                         <th data-ref="updated">Updated</th>
                     </tr>
                 </thead>
-                <script>loadFirmwareDownloads('vili', 'full')</script>
+                <script>loadFirmwareDownloads('warm', 'full')</script>
             </table>
         </div>
     </div>
