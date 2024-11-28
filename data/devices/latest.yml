@@ -3279,6 +3279,16 @@
     android: '7.0'
     miui: 9.9.26
 - branch: stable
+  date: '2024-11-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-28.11.2024/fw_miro_miro-ota_full-OS2.0.9.0.VOMCNXM-user-15.0-8bfd45400f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro-ota_full-OS2.0.9.0.VOMCNXM-user-15.0-8bfd45400f.zip
+  filename: fw_miro_miro-ota_full-OS2.0.9.0.VOMCNXM-user-15.0-8bfd45400f.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.9.0.VOMCNXM
+- branch: stable
   date: '2023-10-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-27.10.2023/fw_mojito_miui_MOJITOGlobal_V14.0.8.0.SKGMIXM_6c581b2898_12.0.zip
@@ -4679,15 +4689,15 @@
     android: '14.0'
     miui: OS1.0.27.0.UNNCNXM
 - branch: stable
-  date: '2024-10-31'
+  date: '2024-11-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-31.10.2024/fw_rothko_miui_ROTHKOEEAGlobal_OS1.0.13.0.UNNEUXM_0d3d9ecfb6_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rothko/fw_rothko_miui_ROTHKOEEAGlobal_OS1.0.13.0.UNNEUXM_0d3d9ecfb6_14.0.zip
-  filename: fw_rothko_miui_ROTHKOEEAGlobal_OS1.0.13.0.UNNEUXM_0d3d9ecfb6_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-28.11.2024/fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.11.0.VNNEUXM-user-15.0-beefb44f76.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rothko/fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.11.0.VNNEUXM-user-15.0-beefb44f76.zip
+  filename: fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.11.0.VNNEUXM-user-15.0-beefb44f76.zip
   region: Europe
   versions:
-    android: '14.0'
-    miui: OS1.0.13.0.UNNEUXM
+    android: '15.0'
+    miui: OS2.0.11.0.VNNEUXM
 - branch: stable
   date: '2024-11-06'
   downloads:
@@ -6059,6 +6069,16 @@
     android: '13.0'
     miui: OS1.0.3.0.TGDEUXM
 - branch: stable
+  date: '2024-11-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warm/releases/download/stable-28.11.2024/fw_warm_miui_WARMINGlobal_OS1.0.4.0.UGVINXM_7751a0c4a1_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/warm/fw_warm_miui_WARMINGlobal_OS1.0.4.0.UGVINXM_7751a0c4a1_14.0.zip
+  filename: fw_warm_miui_WARMINGlobal_OS1.0.4.0.UGVINXM_7751a0c4a1_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UGVINXM
+- branch: stable
   date: '2024-11-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-22.11.2024/fw_water_miui_WATERGlobal_V14.0.36.0.TGOMIXM_2fe7acb9c1_13.0.zip
@@ -6478,3 +6498,13 @@
   versions:
     android: '14.0'
     miui: OS1.0.13.0.ULRCNXM
+- branch: stable
+  date: '2024-11-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zorn/releases/download/stable-28.11.2024/fw_zorn_zorn-ota_full-OS2.0.8.0.VOKCNXM-user-15.0-a64ceb13b1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zorn/fw_zorn_zorn-ota_full-OS2.0.8.0.VOKCNXM-user-15.0-a64ceb13b1.zip
+  filename: fw_zorn_zorn-ota_full-OS2.0.8.0.VOKCNXM-user-15.0-a64ceb13b1.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.8.0.VOKCNXM
