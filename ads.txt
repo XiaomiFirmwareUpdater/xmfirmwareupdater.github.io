@@ -194,6 +194,9 @@ onetag.com, 5d1628750185ace, RESELLER
 xapads.com, 144307, RESELLER
 lunamedia.io, bfacf5e017bb11edb41173b0ca2c748c, RESELLER, 524ecb396915caaf
 e-planning.net, 949b688810cb7439, RESELLER, c1ba615865ed87b2
+ushareit.com, LC48271a2d40da7ed3, DIRECT
+loopme.com, 11633, RESELLER, 6c8d5f95897a5a3b
+opera.com, pub8049291171776, RESELLER, 55a0c5fd61378de3
 smaato.com, 1100045673, DIRECT, 07bcf65f187117b4
 smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
 inmobi.com, 3da71e06eda5416c83b129509cb92e73, DIRECT, 83e75a7ae333ca9d
@@ -238,9 +241,14 @@ verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 rubiconproject.com, 15278, RESELLER, 0bfd66d529a55807
 pubmatic.com, 156517, RESELLER, 5d62403b186f2ace
 google.com, pub-9035087792692775, RESELLER, f08c47fec0942fa0
+xapads.com, 211847, DIRECT
+pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
+google.com, pub-3872674820285626, RESELLER, f08c47fec0942fa0
+rtbdemand.com, 23064872270, RESELLER
+33across.com, 001Pg00000HDbTOIA1, DIRECT, bbea06d9c4d2853c
 xapads.com, 139660, DIRECT
 google.com, pub-3990748024667386, DIRECT, f08c47fec0942fa0
-pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 video.unrulymedia.com, 524101463, RESELLER, 29bc7d05d309e1bc
 zetaglobal.net, 7293207, DIRECT
 amxrtb.com, 105199574, DIRECT
@@ -277,6 +285,8 @@ adform.com, 3119, RESELLER, 9f5210a2f0999e32
 lijit.com, 405318, RESELLER, fafdf38b16bf6b2b
 adyoulike.com, 78afbc34fac571736717317117dfa247, RESELLER
 smaato.com, 1100057444, RESELLER, 07bcf65f187117b4
+adxplorers.com, 195015, RESELLER
+google.com, pub-6167667955106437, DIRECT, f08c47fec0942fa0
 hindsightsolutions.net, 323-b5957, RESELLER, 20e30b2ae1f670f2
 rubiconproject.com, 26504, RESELLER, 0bfd66d529a55807
 onetag.com, 894a3f52ea9e6d4, DIRECT
@@ -527,27 +537,18 @@ sovrn.com, 249425, RESELLER, fafdf38b16bf6b2b
 #Vidazoo
 vidazoo.com, 6646d87252e5cfc12a8ae68d, DIRECT, b6ada874b4d7d0b2
 rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807
-pubmatic.com, 159470, RESELLER, 5d62403b186f2ace
-appnexus.com, 2794, RESELLER, f5ab79cb980f11d1
-undertone.com, 4151, RESELLER
-video.unrulymedia.com, 2743945877, RESELLER
 openx.com, 541017750, RESELLER, 6a698e2ec38604c6
-undertone.com, 3934, RESELLER
-google.com, pub-4282252113865235, RESELLER, f08c47fec0942fa0
-freewheel.tv, 625393, RESELLER
-supply.colossusssp.com, 181, RESELLER, 6c5b49d96ec1b458
-aps.amazon.com, cfee765f-a9ba-4867-af16-2ff8d62ed9ba, RESELLER
-triplelift.com, 11883, RESELLER, 6c33edb13117fd86
-sharethrough.com, 0c3ba0a3, RESELLER, d53b998a7bd4ecd2
-themediagrid.com, 3AW9JB, RESELLER, 35d5010d7789b49d
-adform.com, 2643, RESELLER, 9f5210a2f0999e32
-lijit.com, 222372, RESELLER, fafdf38b16bf6b2b
+video.unrulymedia.com, 2743945877, RESELLER
+appnexus.com, 2794, RESELLER, f5ab79cb980f11d1
 pubmatic.com, 159988, RESELLER, 5d62403b186f2ace
-sonobi.com, e32c07f4ba, RESELLER, d1a215d9eb5aee9e
 sharethrough.com, S2rESyUH, RESELLER, d53b998a7bd4ecd2
-richaudience.com, 3MkIAgQBPw, RESELLER
+lijit.com, 222372, RESELLER, fafdf38b16bf6b2b
+themediagrid.com, 3AW9JB, RESELLER, 35d5010d7789b49d
 media.net, 8CUN4Y5Y3, RESELLER
-didna.io, 6646d87252e5cfc12a8ae68d, DIRECT
+supply.colossusssp.com, 181, RESELLER, 6c5b49d96ec1b458
+emxdgt.com, 1799, RESELLER, 1e1d41537f7cad7f
+33across.com, 0014000001a0hIqAAI, RESELLER, bbea06d9c4d2853c
+yieldmo.com, 3624960084913628105, RESELLER
 
 #Rise
 
@@ -634,6 +635,7 @@ google.com, pub-2178914239553145, DIRECT, f08c47fec0942fa0
 google.com, pub-1761182199836059, DIRECT, f08c47fec0942fa0
 google.com, pub-9880294964661881, DIRECT, f08c47fec0942fa0
 google.com, pub-4370452252708446, DIRECT, f08c47fec0942fa0
+google.com, pub-8987326888516713, DIRECT, f08c47fec0942fa0
 
 
 ucfunnel.com, pub-8A2D6422E3BB866609B3932ED439AE6, DIRECT
@@ -647,5 +649,5 @@ advertising.com, 28643, RESELLER #VerizonVideo
 yahoo.com, 58754, RESELLER, e1a5b5b6e3255540
 aol.com, 58754, RESELLER, e1a5b5b6e3255540
 disqus.com, 4715692, DIRECT
-appnexus.com, 9393, DIRECT, f5ab79cb980f11d1                                                                                                                                                          
+appnexus.com, 9393, DIRECT, f5ab79cb980f11d1
 #VLI END
