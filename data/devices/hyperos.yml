@@ -334,6 +334,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UNACNXM/fw_aurora_miui_AURORA_OS1.0.8.0.UNACNXM_b427cc3ce7_14.0.zip
   name: Xiaomi 14 Ultra
   version: OS1.0.8.0.UNACNXM
+- android: '15.0'
+  codename: aurora
+  date: '2024-11-29'
+  download: https://bigota.d.miui.com/OS2.0.5.0.VNAMIXM/fw_aurora_global_aurora_global-ota_full-OS2.0.5.0.VNAMIXM-user-15.0-ca5dc3710f.zip
+  name: Xiaomi 14 Ultra
+  version: OS2.0.5.0.VNAMIXM
 - android: '14.0'
   codename: aurora
   date: '2024-05-29'
@@ -2812,6 +2818,30 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UKKMIXM/fw_haydn_miui_HAYDNGlobal_OS1.0.6.0.UKKMIXM_837b3a3cab_14.0.zip
   name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
   version: OS1.0.6.0.UKKMIXM
+- android: '14.0'
+  codename: haydn
+  date: '2024-11-29'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UKKEUXM/fw_haydn_miui_HAYDNEEAGlobal_OS1.0.11.0.UKKEUXM_eaef4c69b2_14.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: OS1.0.11.0.UKKEUXM
+- android: '14.0'
+  codename: haydn
+  date: '2024-11-29'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UKKMIXM/fw_haydn_miui_HAYDNGlobal_OS1.0.11.0.UKKMIXM_ea9bdc619b_14.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: OS1.0.11.0.UKKMIXM
+- android: '14.0'
+  codename: haydn
+  date: '2024-11-29'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UKKINXM/fw_haydn_miui_HAYDNINGlobal_OS1.0.8.0.UKKINXM_b91d185737_14.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: OS1.0.8.0.UKKINXM
+- android: '14.0'
+  codename: haydn
+  date: '2024-11-29'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UKKCNXM/fw_haydn_miui_HAYDN_OS1.0.8.0.UKKCNXM_1ec17c8a90_14.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: OS1.0.8.0.UKKCNXM
 - android: '14.0'
   codename: haydn
   date: '2024-10-28'
@@ -6604,6 +6634,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UNXCNXM/fw_sheng_miui_SHENG_OS1.0.8.0.UNXCNXM_c12a5e6408_14.0.zip
   name: Xiaomi Pad 6S Pro 12.4
   version: OS1.0.8.0.UNXCNXM
+- android: '15.0'
+  codename: sheng
+  date: '2024-11-29'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VNXMIXM/fw_sheng_global_sheng_global-ota_full-OS2.0.6.0.VNXMIXM-user-15.0-9d70ee21db.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS2.0.6.0.VNXMIXM
 - android: '14.0'
   codename: sheng
   date: '2024-03-29'
