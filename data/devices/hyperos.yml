@@ -5988,6 +5988,18 @@
   version: OS1.0.7.0.UFSCNXM
 - android: '14.0'
   codename: ruan
+  date: '2024-11-30'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UFSINXM/fw_ruan_miui_RUANINGlobal_OS1.0.8.0.UFSINXM_b69ea306a6_14.0.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS1.0.8.0.UFSINXM
+- android: '14.0'
+  codename: ruan
+  date: '2024-11-30'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UFSCNXM/fw_ruan_miui_RUAN_OS1.0.8.0.UFSCNXM_71ca5896cf_14.0.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS1.0.8.0.UFSCNXM
+- android: '14.0'
+  codename: ruan
   date: '2024-08-28'
   download: https://bigota.d.miui.com/OS1.0.5.0.UFSCNXM/fw_ruan_miui_RUAN_OS1.0.5.0.UFSCNXM_2d02628c94_14.0.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
