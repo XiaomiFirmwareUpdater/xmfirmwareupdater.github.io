@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2024-11-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-30.11.2024/fw_miro_miro-ota_full-OS2.0.10.0.VOMCNXM-user-15.0-69a61b38e5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro-ota_full-OS2.0.10.0.VOMCNXM-user-15.0-69a61b38e5.zip
+  filename: fw_miro_miro-ota_full-OS2.0.10.0.VOMCNXM-user-15.0-69a61b38e5.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.10.0.VOMCNXM
+- branch: stable
   date: '2024-11-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-28.11.2024/fw_miro_miro-ota_full-OS2.0.9.0.VOMCNXM-user-15.0-8bfd45400f.zip
