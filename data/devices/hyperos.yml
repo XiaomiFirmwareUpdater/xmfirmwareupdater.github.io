@@ -6750,6 +6750,12 @@
   version: OS1.0.1.0.UNXEUXM
 - android: '14.0'
   codename: sheng
+  date: '2024-12-01'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UNXEUXM/fw_sheng_miui_SHENGEEAGlobal_OS1.0.9.0.UNXEUXM_839979b4f4_14.0.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS1.0.9.0.UNXEUXM
+- android: '14.0'
+  codename: sheng
   date: '2024-08-01'
   download: https://bigota.d.miui.com/OS1.0.3.0.UNXMIXM/fw_sheng_miui_SHENGGlobal_OS1.0.3.0.UNXMIXM_00acf7b04d_14.0.zip
   name: Xiaomi Pad 6S Pro 12.4
