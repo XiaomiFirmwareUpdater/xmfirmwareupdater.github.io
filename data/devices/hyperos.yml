@@ -533,6 +533,12 @@
   name: Xiaomi 14 Ultra
   version: OS1.0.15.0.UNACNXM
 - android: '14.0'
+  codename: aurora
+  date: '2024-12-02'
+  download: https://bigota.d.miui.com/OS1.0.15.0.UNAEUXM/fw_aurora_miui_AURORAEEAGlobal_OS1.0.15.0.UNAEUXM_334795da2f_14.0.zip
+  name: Xiaomi 14 Ultra
+  version: OS1.0.15.0.UNAEUXM
+- android: '14.0'
   codename: babylon
   date: '2024-09-26'
   download: https://bigota.d.miui.com/OS1.0.14.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.14.0.UMVCNXM_fb983c93f0_14.0.zip
@@ -2032,6 +2038,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UHXEUXM/fw_flare_miui_FLAREEEAGlobal_OS1.0.5.0.UHXEUXM_d3998ab7c6_14.0.zip
   name: Redmi Pad SE 8.7 5G
   version: OS1.0.5.0.UHXEUXM
+- android: '14.0'
+  codename: flare
+  date: '2024-12-02'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UHXMIXM/fw_flare_miui_FLAREGlobal_OS1.0.7.0.UHXMIXM_fca118761f_14.0.zip
+  name: Redmi Pad SE 8.7 5G
+  version: OS1.0.7.0.UHXMIXM
 - android: '13.0'
   codename: fleur
   date: '2024-08-31'
@@ -3748,6 +3760,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UKOEUXM/fw_lisa_miui_LISAEEAGlobal_OS1.0.1.0.UKOEUXM_3f709c9a4c_14.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
   version: OS1.0.1.0.UKOEUXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-12-02'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UKOCNXM/fw_lisa_miui_LISA_OS1.0.8.0.UKOCNXM_0526488b8d_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.8.0.UKOCNXM
 - android: '14.0'
   codename: lisa
   date: '2024-07-01'
@@ -9310,6 +9328,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.ULLEUXM/fw_ziyi_miui_ZIYIEEAGlobal_OS1.0.7.0.ULLEUXM_2694385f89_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.7.0.ULLEUXM
+- android: '14.0'
+  codename: ziyi
+  date: '2024-12-02'
+  download: https://bigota.d.miui.com/OS1.0.11.0.ULLMIXM/fw_ziyi_miui_ZIYIGlobal_OS1.0.11.0.ULLMIXM_7bbfa8358e_14.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS1.0.11.0.ULLMIXM
 - android: '14.0'
   codename: ziyi
   date: '2024-04-01'
