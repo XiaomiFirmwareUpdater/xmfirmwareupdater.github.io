@@ -38,3 +38,13 @@
   versions:
     android: '14.0'
     miui: OS1.0.4.0.UHXEUXM
+- branch: stable
+  date: '2024-12-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flare/releases/download/stable-02.12.2024/fw_flare_miui_FLAREEEAGlobal_OS1.0.5.0.UHXEUXM_d3998ab7c6_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/flare/fw_flare_miui_FLAREEEAGlobal_OS1.0.5.0.UHXEUXM_d3998ab7c6_14.0.zip
+  filename: fw_flare_miui_FLAREEEAGlobal_OS1.0.5.0.UHXEUXM_d3998ab7c6_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.5.0.UHXEUXM

@@ -2026,6 +2026,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UHXEUXM/fw_flare_miui_FLAREEEAGlobal_OS1.0.4.0.UHXEUXM_8f997cd9d0_14.0.zip
   name: Redmi Pad SE 8.7 5G
   version: OS1.0.4.0.UHXEUXM
+- android: '14.0'
+  codename: flare
+  date: '2024-12-02'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UHXEUXM/fw_flare_miui_FLAREEEAGlobal_OS1.0.5.0.UHXEUXM_d3998ab7c6_14.0.zip
+  name: Redmi Pad SE 8.7 5G
+  version: OS1.0.5.0.UHXEUXM
 - android: '13.0'
   codename: fleur
   date: '2024-08-31'
@@ -2128,6 +2134,18 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.TKEMIXM/fw_fleur_miui_FLEURGlobal_OS1.0.1.0.TKEMIXM_c5fa5ce2d9_13.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: OS1.0.1.0.TKEMIXM
+- android: '13.0'
+  codename: fleur
+  date: '2024-12-02'
+  download: https://bigota.d.miui.com/OS1.0.10.0.TKEEUXM/fw_fleur_miui_FLEUREEAGlobal_OS1.0.10.0.TKEEUXM_33d88913ae_13.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: OS1.0.10.0.TKEEUXM
+- android: '13.0'
+  codename: fleur
+  date: '2024-12-02'
+  download: https://bigota.d.miui.com/OS1.0.8.0.TKEMIXM/fw_fleur_miui_FLEURGlobal_OS1.0.8.0.TKEMIXM_24c4d478e0_13.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: OS1.0.8.0.TKEMIXM
 - android: '13.0'
   codename: fleur
   date: '2024-04-02'
@@ -3436,6 +3454,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UMAEUXM/fw_ishtar_miui_ISHTAREEAGlobal_OS1.0.6.0.UMAEUXM_2baffd7962_14.0.zip
   name: Xiaomi 13 Ultra
   version: OS1.0.6.0.UMAEUXM
+- android: '14.0'
+  codename: ishtar
+  date: '2024-12-02'
+  download: https://bigota.d.miui.com/OS1.0.16.0.UMAMIXM/fw_ishtar_miui_ISHTARGlobal_OS1.0.16.0.UMAMIXM_c0849b42c0_14.0.zip
+  name: Xiaomi 13 Ultra
+  version: OS1.0.16.0.UMAMIXM
 - android: '14.0'
   codename: ishtar
   date: '2024-06-30'
@@ -5302,6 +5326,18 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UMZMIXM/fw_pipa_miui_PIPAGlobal_OS1.0.7.0.UMZMIXM_147ec54539_14.0.zip
   name: Xiaomi Pad 6
   version: OS1.0.7.0.UMZMIXM
+- android: '14.0'
+  codename: pipa
+  date: '2024-12-02'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UMZEUXM/fw_pipa_miui_PIPAEEAGlobal_OS1.0.12.0.UMZEUXM_30a25b7646_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.12.0.UMZEUXM
+- android: '14.0'
+  codename: pipa
+  date: '2024-12-02'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UMZINXM/fw_pipa_miui_PIPAINGlobal_OS1.0.10.0.UMZINXM_ad54334022_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.10.0.UMZINXM
 - android: '13.0'
   codename: pissarro
   date: '2024-03-28'
@@ -6646,6 +6682,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UHZMIXM/fw_sea_miui_SEAGlobal_OS1.0.8.0.UHZMIXM_1d24ecd1c8_14.0.zip
   name: Redmi Note 12S
   version: OS1.0.8.0.UHZMIXM
+- android: '14.0'
+  codename: sea
+  date: '2024-12-02'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UHZMIXM/fw_sea_miui_SEAGlobal_OS1.0.12.0.UHZMIXM_a74dc265c2_14.0.zip
+  name: Redmi Note 12S
+  version: OS1.0.12.0.UHZMIXM
 - android: '14.0'
   codename: sheng
   date: '2024-08-31'
@@ -8950,6 +8992,18 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULBCNXM/fw_zeus_miui_ZEUS_OS1.0.2.0.ULBCNXM_0ba0e58724_14.0.zip
   name: Xiaomi 12 Pro
   version: OS1.0.2.0.ULBCNXM
+- android: '14.0'
+  codename: zeus
+  date: '2024-12-02'
+  download: https://bigota.d.miui.com/OS1.0.8.0.ULBMIXM/fw_zeus_miui_ZEUSGlobal_OS1.0.8.0.ULBMIXM_a43baf1e2e_14.0.zip
+  name: Xiaomi 12 Pro
+  version: OS1.0.8.0.ULBMIXM
+- android: '14.0'
+  codename: zeus
+  date: '2024-12-02'
+  download: https://bigota.d.miui.com/OS1.0.8.0.ULBINXM/fw_zeus_miui_ZEUSINGlobal_OS1.0.8.0.ULBINXM_caa870f915_14.0.zip
+  name: Xiaomi 12 Pro
+  version: OS1.0.8.0.ULBINXM
 - android: '14.0'
   codename: zijin
   date: '2024-08-16'

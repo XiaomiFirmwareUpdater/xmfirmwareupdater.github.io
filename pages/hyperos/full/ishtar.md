@@ -52,7 +52,8 @@ permalink: /archive/hyperos/ishtar/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 13 Ultra Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.14.0.UMAMIXM</td><td>14.0</td><td>6.1 GB</td><td>2024-10-30</td><td><a href="/hyperos/ishtar/stable/OS1.0.14.0.UMAMIXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 13 Ultra Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.16.0.UMAMIXM</td><td>14.0</td><td>6.1 GB</td><td>2024-11-27</td><td><a href="/hyperos/ishtar/stable beta/OS1.0.16.0.UMAMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Ultra Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.14.0.UMAMIXM</td><td>14.0</td><td>6.1 GB</td><td>2024-10-30</td><td><a href="/hyperos/ishtar/stable/OS1.0.14.0.UMAMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.14.0.UMAMIXM</td><td>14.0</td><td>7.9 GB</td><td>2024-10-22</td><td><a href="/hyperos/ishtar/stable/OS1.0.14.0.UMAMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.UMATWXM</td><td>14.0</td><td>6.1 GB</td><td>2024-10-30</td><td><a href="/hyperos/ishtar/stable/OS1.0.10.0.UMATWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.UMATWXM</td><td>14.0</td><td>7.2 GB</td><td>2024-10-22</td><td><a href="/hyperos/ishtar/stable/OS1.0.10.0.UMATWXM/">Download</a></td></tr>
@@ -127,13 +128,13 @@ permalink: /archive/hyperos/ishtar/
 <tr><td>Xiaomi 13 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.11.27.DEV</td><td>14.0</td><td>6.7 GB</td><td>2023-12-01</td><td><a href="/hyperos/ishtar/public beta/OS1.0.23.11.27.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UMACNXM</td><td>14.0</td><td>6.7 GB</td><td>2023-12-01</td><td><a href="/hyperos/ishtar/stable/OS1.0.3.0.UMACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.11.19.DEV</td><td>14.0</td><td>6.7 GB</td><td>2023-11-21</td><td><a href="/hyperos/ishtar/public beta/OS1.0.23.11.19.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.11.8.DEV</td><td>14.0</td><td>6.7 GB</td><td>2023-11-14</td><td><a href="/hyperos/ishtar/public beta/OS1.0.23.11.8.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UMATWXM</td><td>14.0</td><td>5.9 GB</td><td>2023-12-28</td><td><a href="/hyperos/ishtar/stable/OS1.0.1.0.UMATWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UMATWXM</td><td>14.0</td><td>7.0 GB</td><td>2023-12-15</td><td><a href="/hyperos/ishtar/stable/OS1.0.1.0.UMATWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UMAEUXM</td><td>14.0</td><td>7.8 GB</td><td>2023-12-25</td><td><a href="/hyperos/ishtar/stable/OS1.0.5.0.UMAEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UMAEUXM</td><td>14.0</td><td>5.9 GB</td><td>2023-12-18</td><td><a href="/hyperos/ishtar/stable/OS1.0.5.0.UMAEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMACNXM</td><td>14.0</td><td>8.5 GB</td><td>2023-12-21</td><td><a href="/hyperos/ishtar/stable/OS1.0.4.0.UMACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMACNXM</td><td>14.0</td><td>6.7 GB</td><td>2023-12-08</td><td><a href="/hyperos/ishtar/stable/OS1.0.4.0.UMACNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.11.8.DEV</td><td>14.0</td><td>6.7 GB</td><td>2023-11-14</td><td><a href="/hyperos/ishtar/public beta/OS1.0.23.11.8.DEV/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
