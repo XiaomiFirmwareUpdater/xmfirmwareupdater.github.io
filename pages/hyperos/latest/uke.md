@@ -54,6 +54,7 @@ permalink: /hyperos/uke/
                 <tbody>
                 <tr><td>Xiaomi Pad 7 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.10.0.VOZCNXM</td><td>15.0</td><td>9.1 GB</td><td>2024-11-07</td><td><a href="/hyperos/uke/stable/OS2.0.10.0.VOZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.10.0.VOZCNXM</td><td>15.0</td><td>7.9 GB</td><td>2024-11-11</td><td><a href="/hyperos/uke/stable/OS2.0.10.0.VOZCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.14.0.VOZCNXM</td><td>15.0</td><td>7.9 GB</td><td>2024-11-29</td><td><a href="/hyperos/uke/stable beta/OS2.0.14.0.VOZCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

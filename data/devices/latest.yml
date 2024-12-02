@@ -2609,15 +2609,15 @@
     android: '14.0'
     miui: V816.0.6.0.UGSINXM
 - branch: stable
-  date: '2024-10-28'
+  date: '2024-12-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-29.10.2024/fw_lake_miui_LAKEGlobal_OS1.0.9.0.UGTMIXM_32bfceef6d_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/lake/fw_lake_miui_LAKEGlobal_OS1.0.9.0.UGTMIXM_32bfceef6d_14.0.zip
-  filename: fw_lake_miui_LAKEGlobal_OS1.0.9.0.UGTMIXM_32bfceef6d_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-03.12.2024/fw_lake_miui_LAKEGlobal_OS1.0.10.0.UGTMIXM_aa1c80c252_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/lake/fw_lake_miui_LAKEGlobal_OS1.0.10.0.UGTMIXM_aa1c80c252_14.0.zip
+  filename: fw_lake_miui_LAKEGlobal_OS1.0.10.0.UGTMIXM_aa1c80c252_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.9.0.UGTMIXM
+    miui: OS1.0.10.0.UGTMIXM
 - branch: stable
   date: '2024-10-28'
   downloads:
@@ -4439,15 +4439,15 @@
     android: '14.0'
     miui: OS1.0.8.0.UMSINXM
 - branch: stable
-  date: '2024-11-04'
+  date: '2024-12-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rembrandt/releases/download/stable-04.11.2024/fw_rembrandt_miui_REMBRANDT_OS1.0.10.0.UMMCNXM_de81c05f57_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rembrandt/fw_rembrandt_miui_REMBRANDT_OS1.0.10.0.UMMCNXM_de81c05f57_14.0.zip
-  filename: fw_rembrandt_miui_REMBRANDT_OS1.0.10.0.UMMCNXM_de81c05f57_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rembrandt/releases/download/stable-03.12.2024/fw_rembrandt_miui_REMBRANDT_OS1.0.11.0.UMMCNXM_4e9937dd0b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rembrandt/fw_rembrandt_miui_REMBRANDT_OS1.0.11.0.UMMCNXM_4e9937dd0b_14.0.zip
+  filename: fw_rembrandt_miui_REMBRANDT_OS1.0.11.0.UMMCNXM_4e9937dd0b_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.10.0.UMMCNXM
+    miui: OS1.0.11.0.UMMCNXM
 - branch: stable
   date: '2024-01-12'
   downloads:
@@ -5669,15 +5669,15 @@
     android: '7.1'
     miui: 9.10.10
 - branch: stable
-  date: '2024-11-15'
+  date: '2024-12-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-15.11.2024/fw_uke_uke-ota_full-OS2.0.10.0.VOZCNXM-user-15.0-8f0752d36f.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/uke/fw_uke_uke-ota_full-OS2.0.10.0.VOZCNXM-user-15.0-8f0752d36f.zip
-  filename: fw_uke_uke-ota_full-OS2.0.10.0.VOZCNXM-user-15.0-8f0752d36f.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-03.12.2024/fw_uke_uke-ota_full-OS2.0.14.0.VOZCNXM-user-15.0-98d6e8ff5e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/uke/fw_uke_uke-ota_full-OS2.0.14.0.VOZCNXM-user-15.0-98d6e8ff5e.zip
+  filename: fw_uke_uke-ota_full-OS2.0.14.0.VOZCNXM-user-15.0-98d6e8ff5e.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.10.0.VOZCNXM
+    miui: OS2.0.14.0.VOZCNXM
 - branch: stable
   date: '2023-05-29'
   downloads:

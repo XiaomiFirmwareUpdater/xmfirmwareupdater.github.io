@@ -3522,6 +3522,12 @@
   version: OS1.0.4.0.UGTMIXM
 - android: '14.0'
   codename: lake
+  date: '2024-12-02'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UGTMIXM/fw_lake_miui_LAKEGlobal_OS1.0.10.0.UGTMIXM_aa1c80c252_14.0.zip
+  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  version: OS1.0.10.0.UGTMIXM
+- android: '14.0'
+  codename: lake
   date: '2024-10-03'
   download: https://bigota.d.miui.com/OS1.0.3.0.UGTEUXM/fw_lake_miui_LAKEEEAGlobal_OS1.0.3.0.UGTEUXM_0a6000233f_14.0.zip
   name: Redmi 14C/POCO C75/Redmi A3 Pro
@@ -5903,6 +5909,12 @@
   name: Redmi K60E
   version: OS1.0.10.0.UMMCNXM
 - android: '14.0'
+  codename: rembrandt
+  date: '2024-12-02'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UMMCNXM/fw_rembrandt_miui_REMBRANDT_OS1.0.11.0.UMMCNXM_4e9937dd0b_14.0.zip
+  name: Redmi K60E
+  version: OS1.0.11.0.UMMCNXM
+- android: '14.0'
   codename: rock
   date: '2024-07-30'
   download: https://bigota.d.miui.com/OS1.0.4.0.ULUEUXM/fw_rock_miui_ROCKEEAGlobal_OS1.0.4.0.ULUEUXM_cb87d48c3a_14.0.zip
@@ -7846,6 +7858,12 @@
   download: https://bigota.d.miui.com/OS2.0.8.0.VOZCNXM/fw_uke_uke-ota_full-OS2.0.8.0.VOZCNXM-user-15.0-c20facf95e.zip
   name: Xiaomi Pad 7
   version: OS2.0.8.0.VOZCNXM
+- android: '15.0'
+  codename: uke
+  date: '2024-12-02'
+  download: https://bigota.d.miui.com/OS2.0.14.0.VOZCNXM/fw_uke_uke-ota_full-OS2.0.14.0.VOZCNXM-user-15.0-98d6e8ff5e.zip
+  name: Xiaomi Pad 7
+  version: OS2.0.14.0.VOZCNXM
 - android: '14.0'
   codename: unicorn
   date: '2024-07-25'

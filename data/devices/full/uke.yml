@@ -28,3 +28,13 @@
   versions:
     android: '15.0'
     miui: OS2.0.8.0.VOZCNXM
+- branch: stable
+  date: '2024-12-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-03.12.2024/fw_uke_uke-ota_full-OS2.0.14.0.VOZCNXM-user-15.0-98d6e8ff5e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/uke/fw_uke_uke-ota_full-OS2.0.14.0.VOZCNXM-user-15.0-98d6e8ff5e.zip
+  filename: fw_uke_uke-ota_full-OS2.0.14.0.VOZCNXM-user-15.0-98d6e8ff5e.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.14.0.VOZCNXM
