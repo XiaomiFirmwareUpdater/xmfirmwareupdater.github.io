@@ -53,6 +53,7 @@ permalink: /archive/hyperos/nuwa/
                 </thead>
                 <tbody>
                 <tr><td>Xiaomi 13 Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.10.0.UMBTWXM</td><td>14.0</td><td>5.7 GB</td><td>2024-11-29</td><td><a href="/hyperos/nuwa/stable beta/OS1.0.10.0.UMBTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.10.0.UMBRUXM</td><td>14.0</td><td>5.8 GB</td><td>2024-11-29</td><td><a href="/hyperos/nuwa/stable beta/OS1.0.10.0.UMBRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UMBMIXM</td><td>14.0</td><td>5.8 GB</td><td>2024-10-30</td><td><a href="/hyperos/nuwa/stable/OS1.0.11.0.UMBMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UMBMIXM</td><td>14.0</td><td>8.0 GB</td><td>2024-10-18</td><td><a href="/hyperos/nuwa/stable/OS1.0.11.0.UMBMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.UMBEUXM</td><td>14.0</td><td>5.9 GB</td><td>2024-10-30</td><td><a href="/hyperos/nuwa/stable/OS1.0.10.0.UMBEUXM/">Download</a></td></tr>
