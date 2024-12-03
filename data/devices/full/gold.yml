@@ -429,6 +429,16 @@
     android: '14.0'
     miui: OS1.0.3.0.UNQEUXM
 - branch: stable
+  date: '2024-12-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-03.12.2024/fw_gold_miui_GOLDINGlobal_OS1.0.13.0.UNQINXM_be898013d2_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/gold/fw_gold_miui_GOLDINGlobal_OS1.0.13.0.UNQINXM_be898013d2_14.0.zip
+  filename: fw_gold_miui_GOLDINGlobal_OS1.0.13.0.UNQINXM_be898013d2_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.13.0.UNQINXM
+- branch: stable
   date: '2024-08-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-02.08.2024/fw_gold_miui_GOLDINGlobal_OS1.0.9.0.UNQINXM_727d6cbd96_14.0.zip

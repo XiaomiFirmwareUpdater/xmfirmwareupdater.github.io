@@ -2562,6 +2562,18 @@
   version: OS1.0.21.0.UNREUXM
 - android: '14.0'
   codename: garnet
+  date: '2024-12-03'
+  download: https://bigota.d.miui.com/OS1.0.15.0.UNRINXM/fw_garnet_miui_GARNETINGlobal_OS1.0.15.0.UNRINXM_8722a54740_14.0.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS1.0.15.0.UNRINXM
+- android: '14.0'
+  codename: garnet
+  date: '2024-12-03'
+  download: https://bigota.d.miui.com/OS1.0.14.0.UNRCNXM/fw_garnet_miui_GARNET_OS1.0.14.0.UNRCNXM_da1875a852_14.0.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS1.0.14.0.UNRCNXM
+- android: '14.0'
+  codename: garnet
   date: '2024-09-02'
   download: https://bigota.d.miui.com/OS1.0.18.0.UNREUXM/fw_garnet_miui_GARNETEEAGlobal_OS1.0.18.0.UNREUXM_cc19675895_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
@@ -2788,6 +2800,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UNQEUXM/fw_gold_miui_GOLDEEAGlobal_OS1.0.3.0.UNQEUXM_fa3220b6a8_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: OS1.0.3.0.UNQEUXM
+- android: '14.0'
+  codename: gold
+  date: '2024-12-03'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UNQINXM/fw_gold_miui_GOLDINGlobal_OS1.0.13.0.UNQINXM_be898013d2_14.0.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS1.0.13.0.UNQINXM
 - android: '14.0'
   codename: gold
   date: '2024-08-02'
