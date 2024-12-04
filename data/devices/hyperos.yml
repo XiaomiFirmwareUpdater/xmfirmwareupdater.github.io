@@ -1852,6 +1852,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.1.0.UNFMIXM_69840715c1_14.0.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro
   version: OS1.0.1.0.UNFMIXM
+- android: '14.0'
+  codename: emerald
+  date: '2024-12-04'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.9.0.UNFMIXM_c3c33acdc9_14.0.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  version: OS1.0.9.0.UNFMIXM
 - android: '13.0'
   codename: enuma
   date: '2024-05-20'
@@ -4978,6 +4984,12 @@
   download: https://bigota.d.miui.com/OS1.0.15.0.UMBCNXM/fw_nuwa_miui_NUWA_OS1.0.15.0.UMBCNXM_650d1d27e1_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.15.0.UMBCNXM
+- android: '14.0'
+  codename: nuwa
+  date: '2024-12-04'
+  download: https://bigota.d.miui.com/OS1.0.16.0.UMBCNXM/fw_nuwa_miui_NUWA_OS1.0.16.0.UMBCNXM_70accbaa41_14.0.zip
+  name: Xiaomi 13 Pro
+  version: OS1.0.16.0.UMBCNXM
 - android: '14.0'
   codename: nuwa
   date: '2024-03-04'

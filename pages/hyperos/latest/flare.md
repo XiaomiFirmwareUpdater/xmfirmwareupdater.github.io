@@ -60,9 +60,8 @@ permalink: /hyperos/flare/
 <tr><td>Redmi Pad SE 8.7 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.UHXMIXM</td><td>14.0</td><td>4.0 GB</td><td>2024-11-29</td><td><a href="/hyperos/flare/stable beta/OS1.0.7.0.UHXMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UHXRUXM</td><td>14.0</td><td>5.3 GB</td><td>2024-11-15</td><td><a href="/hyperos/flare/stable/OS1.0.4.0.UHXRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UHXRUXM</td><td>14.0</td><td>4.0 GB</td><td>2024-11-22</td><td><a href="/hyperos/flare/stable/OS1.0.4.0.UHXRUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad SE 8.7 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UHXTRXM</td><td>14.0</td><td>4.7 GB</td><td>2024-09-26</td><td><a href="/hyperos/flare/stable/OS1.0.3.0.UHXTRXM/">Download</a></td></tr>
-<tr><td>Redmi Pad SE 8.7 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UHXTRXM</td><td>14.0</td><td>4.0 GB</td><td>2024-10-09</td><td><a href="/hyperos/flare/stable/OS1.0.3.0.UHXTRXM/">Download</a></td></tr>
-<tr><td>Redmi Pad SE 8.7 5G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UHXTRXM</td><td>14.0</td><td>4.0 GB</td><td>2024-11-29</td><td><a href="/hyperos/flare/stable beta/OS1.0.4.0.UHXTRXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE 8.7 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UHXTRXM</td><td>14.0</td><td>4.8 GB</td><td>2024-11-21</td><td><a href="/hyperos/flare/stable/OS1.0.4.0.UHXTRXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE 8.7 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UHXTRXM</td><td>14.0</td><td>4.0 GB</td><td>2024-11-29</td><td><a href="/hyperos/flare/stable/OS1.0.4.0.UHXTRXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UHXTWXM</td><td>14.0</td><td>4.7 GB</td><td>2024-10-08</td><td><a href="/hyperos/flare/stable/OS1.0.3.0.UHXTWXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UHXTWXM</td><td>14.0</td><td>4.0 GB</td><td>2024-10-22</td><td><a href="/hyperos/flare/stable/OS1.0.3.0.UHXTWXM/">Download</a></td></tr>
 

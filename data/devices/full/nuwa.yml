@@ -469,6 +469,16 @@
     android: '14.0'
     miui: V14.0.9.0.UMBEUXM
 - branch: stable
+  date: '2024-12-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-04.12.2024/fw_nuwa_miui_NUWA_OS1.0.16.0.UMBCNXM_70accbaa41_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWA_OS1.0.16.0.UMBCNXM_70accbaa41_14.0.zip
+  filename: fw_nuwa_miui_NUWA_OS1.0.16.0.UMBCNXM_70accbaa41_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.16.0.UMBCNXM
+- branch: stable
   date: '2024-03-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-04.03.2024/fw_nuwa_miui_NUWA_OS1.0.5.0.UMBCNXM_9748b91e96_14.0.zip
