@@ -359,6 +359,16 @@
     android: '14.0'
     miui: OS1.0.3.0.UMCEUXM
 - branch: stable
+  date: '2024-12-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-04.12.2024/fw_fuxi_miui_FUXI_OS1.0.19.0.UMCCNXM_dd6b1c089a_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fuxi/fw_fuxi_miui_FUXI_OS1.0.19.0.UMCCNXM_dd6b1c089a_14.0.zip
+  filename: fw_fuxi_miui_FUXI_OS1.0.19.0.UMCCNXM_dd6b1c089a_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.19.0.UMCCNXM
+- branch: stable
   date: '2024-11-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-04.11.2024/fw_fuxi_miui_FUXI_OS1.0.17.0.UMCCNXM_033f638b18_14.0.zip

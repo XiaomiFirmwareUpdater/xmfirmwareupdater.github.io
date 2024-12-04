@@ -52,7 +52,9 @@ permalink: /archive/hyperos/degas/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 14T Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UNEIDXM</td><td>14.0</td><td>5.8 GB</td><td>2024-11-06</td><td><a href="/hyperos/degas/stable/OS1.0.5.0.UNEIDXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 14T EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.12.0.UNEEUXM</td><td>14.0</td><td>5.9 GB</td><td>2024-11-25</td><td><a href="/hyperos/degas/stable/OS1.0.12.0.UNEEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.12.0.UNEEUXM</td><td>14.0</td><td>7.5 GB</td><td>2024-11-15</td><td><a href="/hyperos/degas/stable/OS1.0.12.0.UNEEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UNEIDXM</td><td>14.0</td><td>5.8 GB</td><td>2024-11-06</td><td><a href="/hyperos/degas/stable/OS1.0.5.0.UNEIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UNEIDXM</td><td>14.0</td><td>7.3 GB</td><td>2024-10-25</td><td><a href="/hyperos/degas/stable/OS1.0.5.0.UNEIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UNETRXM</td><td>14.0</td><td>5.8 GB</td><td>2024-11-06</td><td><a href="/hyperos/degas/stable/OS1.0.5.0.UNETRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UNETRXM</td><td>14.0</td><td>7.2 GB</td><td>2024-10-31</td><td><a href="/hyperos/degas/stable/OS1.0.5.0.UNETRXM/">Download</a></td></tr>

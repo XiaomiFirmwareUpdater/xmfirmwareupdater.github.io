@@ -1158,6 +1158,12 @@
   version: OS1.0.4.0.UNEEUXM
 - android: '14.0'
   codename: degas
+  date: '2024-12-04'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UNEEUXM/fw_degas_miui_DEGASEEAGlobal_OS1.0.12.0.UNEEUXM_8813ea079b_14.0.zip
+  name: Xiaomi 14T
+  version: OS1.0.12.0.UNEEUXM
+- android: '14.0'
+  codename: degas
   date: '2024-11-04'
   download: https://bigota.d.miui.com/OS1.0.7.0.UNEMIXM/fw_degas_miui_DEGASGlobal_OS1.0.7.0.UNEMIXM_498fe4dcb3_14.0.zip
   name: Xiaomi 14T
@@ -2308,6 +2314,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMCEUXM/fw_fuxi_miui_FUXIEEAGlobal_OS1.0.3.0.UMCEUXM_9f9462dca8_14.0.zip
   name: Xiaomi 13
   version: OS1.0.3.0.UMCEUXM
+- android: '14.0'
+  codename: fuxi
+  date: '2024-12-04'
+  download: https://bigota.d.miui.com/OS1.0.19.0.UMCCNXM/fw_fuxi_miui_FUXI_OS1.0.19.0.UMCCNXM_dd6b1c089a_14.0.zip
+  name: Xiaomi 13
+  version: OS1.0.19.0.UMCCNXM
 - android: '14.0'
   codename: fuxi
   date: '2024-11-04'
@@ -7882,6 +7894,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMGEUXM/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.3.0.UMGEUXM_351da45d3b_14.0.zip
   name: Redmi Note 12 4G NFC
   version: OS1.0.3.0.UMGEUXM
+- android: '14.0'
+  codename: topaz
+  date: '2024-12-04'
+  download: https://bigota.d.miui.com/OS1.0.14.0.UMGEUXM/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.14.0.UMGEUXM_47eb023eb7_14.0.zip
+  name: Redmi Note 12 4G NFC
+  version: OS1.0.14.0.UMGEUXM
 - android: '15.0'
   codename: uke
   date: '2024-10-30'
