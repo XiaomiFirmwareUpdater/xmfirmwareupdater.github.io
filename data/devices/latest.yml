@@ -2269,15 +2269,15 @@
     android: '14.0'
     miui: OS1.0.15.0.UNCMIXM
 - branch: stable
-  date: '2024-11-19'
+  date: '2024-12-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-19.11.2024/fw_houji_houji-ota_full-OS2.0.6.0.VNCCNXM-user-15.0-82bd4b13f6.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_houji-ota_full-OS2.0.6.0.VNCCNXM-user-15.0-82bd4b13f6.zip
-  filename: fw_houji_houji-ota_full-OS2.0.6.0.VNCCNXM-user-15.0-82bd4b13f6.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-04.12.2024/fw_houji_houji-ota_full-OS2.0.7.0.VNCCNXM-user-15.0-c831ec4f6f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_houji-ota_full-OS2.0.7.0.VNCCNXM-user-15.0-c831ec4f6f.zip
+  filename: fw_houji_houji-ota_full-OS2.0.7.0.VNCCNXM-user-15.0-c831ec4f6f.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.6.0.VNCCNXM
+    miui: OS2.0.7.0.VNCCNXM
 - branch: stable
   date: '2024-09-11'
   downloads:
@@ -5089,15 +5089,15 @@
     android: '14.0'
     miui: OS1.0.9.0.UNXEUXM
 - branch: stable
-  date: '2024-11-18'
+  date: '2024-12-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-18.11.2024/fw_shennong_shennong-ota_full-OS2.0.6.0.VNBCNXM-user-15.0-c166aacb6c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/shennong/fw_shennong_shennong-ota_full-OS2.0.6.0.VNBCNXM-user-15.0-c166aacb6c.zip
-  filename: fw_shennong_shennong-ota_full-OS2.0.6.0.VNBCNXM-user-15.0-c166aacb6c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-04.12.2024/fw_shennong_shennong-ota_full-OS2.0.7.0.VNBCNXM-user-15.0-0b91b021a6.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/shennong/fw_shennong_shennong-ota_full-OS2.0.7.0.VNBCNXM-user-15.0-0b91b021a6.zip
+  filename: fw_shennong_shennong-ota_full-OS2.0.7.0.VNBCNXM-user-15.0-0b91b021a6.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.6.0.VNBCNXM
+    miui: OS2.0.7.0.VNBCNXM
 - branch: stable
   date: '2022-08-03'
   downloads:
@@ -5839,15 +5839,15 @@
     android: '14.0'
     miui: OS1.0.10.0.UKBMIXM
 - branch: stable
-  date: '2024-10-28'
+  date: '2024-12-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-28.10.2024/fw_venus_miui_VENUS_OS1.0.7.0.UKBCNXM_2c7e5f85d1_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/venus/fw_venus_miui_VENUS_OS1.0.7.0.UKBCNXM_2c7e5f85d1_14.0.zip
-  filename: fw_venus_miui_VENUS_OS1.0.7.0.UKBCNXM_2c7e5f85d1_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-04.12.2024/fw_venus_miui_VENUS_OS1.0.10.0.UKBCNXM_dd85ac3249_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/venus/fw_venus_miui_VENUS_OS1.0.10.0.UKBCNXM_dd85ac3249_14.0.zip
+  filename: fw_venus_miui_VENUS_OS1.0.10.0.UKBCNXM_dd85ac3249_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.7.0.UKBCNXM
+    miui: OS1.0.10.0.UKBCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
