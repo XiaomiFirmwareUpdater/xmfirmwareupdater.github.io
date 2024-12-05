@@ -49,6 +49,16 @@
     android: '14.0'
     miui: OS1.0.15.0.UNVCNXM
 - branch: stable
+  date: '2024-12-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goku/releases/download/stable-05.12.2024/fw_goku_goku-ota_full-OS2.0.5.0.VNVCNXM-user-15.0-51d6fb7f5f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/goku/fw_goku_goku-ota_full-OS2.0.5.0.VNVCNXM-user-15.0-51d6fb7f5f.zip
+  filename: fw_goku_goku-ota_full-OS2.0.5.0.VNVCNXM-user-15.0-51d6fb7f5f.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.5.0.VNVCNXM
+- branch: stable
   date: '2024-08-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goku/releases/download/stable-03.08.2024/fw_goku_miui_GOKU_OS1.0.9.0.UNVCNXM_3b46da1b28_14.0.zip
