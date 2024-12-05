@@ -349,15 +349,15 @@
     android: '15.0'
     miui: OS2.0.5.0.VNAMIXM
 - branch: stable
-  date: '2024-11-15'
+  date: '2024-12-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-16.11.2024/fw_aurora_aurora-ota_full-OS2.0.6.0.VNACNXM-user-15.0-c16ff4221a.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora-ota_full-OS2.0.6.0.VNACNXM-user-15.0-c16ff4221a.zip
-  filename: fw_aurora_aurora-ota_full-OS2.0.6.0.VNACNXM-user-15.0-c16ff4221a.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-05.12.2024/fw_aurora_aurora-ota_full-OS2.0.8.0.VNACNXM-user-15.0-4316be9082.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora-ota_full-OS2.0.8.0.VNACNXM-user-15.0-4316be9082.zip
+  filename: fw_aurora_aurora-ota_full-OS2.0.8.0.VNACNXM-user-15.0-4316be9082.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.6.0.VNACNXM
+    miui: OS2.0.8.0.VNACNXM
 - branch: stable
   date: '2024-12-02'
   downloads:
@@ -3889,15 +3889,15 @@
     android: '14.0'
     miui: OS1.0.6.0.ULHCNXM
 - branch: stable
-  date: '2024-10-28'
+  date: '2024-12-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-28.10.2024/fw_peridot_miui_PERIDOTGlobal_OS1.0.9.0.UNPMIXM_d38ec24514_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/peridot/fw_peridot_miui_PERIDOTGlobal_OS1.0.9.0.UNPMIXM_d38ec24514_14.0.zip
-  filename: fw_peridot_miui_PERIDOTGlobal_OS1.0.9.0.UNPMIXM_d38ec24514_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-05.12.2024/fw_peridot_miui_PERIDOTGlobal_OS1.0.10.0.UNPMIXM_e91a581e37_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/peridot/fw_peridot_miui_PERIDOTGlobal_OS1.0.10.0.UNPMIXM_e91a581e37_14.0.zip
+  filename: fw_peridot_miui_PERIDOTGlobal_OS1.0.10.0.UNPMIXM_e91a581e37_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.9.0.UNPMIXM
+    miui: OS1.0.10.0.UNPMIXM
 - branch: stable
   date: '2024-11-26'
   downloads:
@@ -3909,15 +3909,15 @@
     android: '14.0'
     miui: OS1.0.18.0.UNPCNXM
 - branch: stable
-  date: '2024-10-31'
+  date: '2024-12-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-01.11.2024/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.6.0.UNPEUXM_8848314383_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/peridot/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.6.0.UNPEUXM_8848314383_14.0.zip
-  filename: fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.6.0.UNPEUXM_8848314383_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-05.12.2024/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.7.0.UNPEUXM_2ac3dee445_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/peridot/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.7.0.UNPEUXM_2ac3dee445_14.0.zip
+  filename: fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.7.0.UNPEUXM_2ac3dee445_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.UNPEUXM
+    miui: OS1.0.7.0.UNPEUXM
 - branch: stable
   date: '2024-11-26'
   downloads:
@@ -5919,15 +5919,15 @@
     android: '13.0'
     miui: OS1.0.7.0.TKCCNXM
 - branch: stable
-  date: '2024-11-06'
+  date: '2024-12-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-06.11.2024/fw_veux_miui_VEUXEEAGlobal_OS1.0.9.0.TKCEUXM_a17937a7cd_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/veux/fw_veux_miui_VEUXEEAGlobal_OS1.0.9.0.TKCEUXM_a17937a7cd_13.0.zip
-  filename: fw_veux_miui_VEUXEEAGlobal_OS1.0.9.0.TKCEUXM_a17937a7cd_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-05.12.2024/fw_veux_miui_VEUXEEAGlobal_OS1.0.10.0.TKCEUXM_379e54840f_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/veux/fw_veux_miui_VEUXEEAGlobal_OS1.0.10.0.TKCEUXM_379e54840f_13.0.zip
+  filename: fw_veux_miui_VEUXEEAGlobal_OS1.0.10.0.TKCEUXM_379e54840f_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: OS1.0.9.0.TKCEUXM
+    miui: OS1.0.10.0.TKCEUXM
 - branch: stable
   date: '2024-11-24'
   downloads:

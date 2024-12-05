@@ -54,9 +54,8 @@ permalink: /hyperos/marble/
                 <tbody>
                 <tr><td>Redmi Note 12 Turbo China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.UMRCNXM</td><td>14.0</td><td>7.4 GB</td><td>2024-10-09</td><td><a href="/hyperos/marble/stable/OS1.0.9.0.UMRCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Turbo China</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UMRCNXM</td><td>14.0</td><td>5.9 GB</td><td>2024-10-25</td><td><a href="/hyperos/marble/stable/OS1.0.9.0.UMRCNXM/">Download</a></td></tr>
-<tr><td>POCO F5 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.13.0.UMREUXM</td><td>14.0</td><td>7.7 GB</td><td>2024-10-15</td><td><a href="/hyperos/marble/stable/OS1.0.13.0.UMREUXM/">Download</a></td></tr>
-<tr><td>POCO F5 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.13.0.UMREUXM</td><td>14.0</td><td>5.2 GB</td><td>2024-10-22</td><td><a href="/hyperos/marble/stable/OS1.0.13.0.UMREUXM/">Download</a></td></tr>
-<tr><td>POCO F5 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.15.0.UMREUXM</td><td>14.0</td><td>5.2 GB</td><td>2024-11-21</td><td><a href="/hyperos/marble/stable beta/OS1.0.15.0.UMREUXM/">Download</a></td></tr>
+<tr><td>POCO F5 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.15.0.UMREUXM</td><td>14.0</td><td>7.4 GB</td><td>2024-11-07</td><td><a href="/hyperos/marble/stable/OS1.0.15.0.UMREUXM/">Download</a></td></tr>
+<tr><td>POCO F5 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.15.0.UMREUXM</td><td>14.0</td><td>5.2 GB</td><td>2024-11-21</td><td><a href="/hyperos/marble/stable/OS1.0.15.0.UMREUXM/">Download</a></td></tr>
 <tr><td>POCO F5 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.UMRMIXM</td><td>14.0</td><td>8.4 GB</td><td>2024-09-30</td><td><a href="/hyperos/marble/stable/OS1.0.10.0.UMRMIXM/">Download</a></td></tr>
 <tr><td>POCO F5 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.UMRMIXM</td><td>14.0</td><td>5.3 GB</td><td>2024-10-29</td><td><a href="/hyperos/marble/stable/OS1.0.10.0.UMRMIXM/">Download</a></td></tr>
 <tr><td>POCO F5 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.12.0.UMRMIXM</td><td>14.0</td><td>5.3 GB</td><td>2024-11-28</td><td><a href="/hyperos/marble/stable beta/OS1.0.12.0.UMRMIXM/">Download</a></td></tr>

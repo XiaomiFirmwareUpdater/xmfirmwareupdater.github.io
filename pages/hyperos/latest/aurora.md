@@ -54,7 +54,7 @@ permalink: /hyperos/aurora/
                 <tbody>
                 <tr><td>Xiaomi 14 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.24.0.UNACNXM</td><td>14.0</td><td>9.5 GB</td><td>2024-10-24</td><td><a href="/hyperos/aurora/stable/OS1.0.24.0.UNACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.24.0.UNACNXM</td><td>14.0</td><td>7.4 GB</td><td>2024-10-29</td><td><a href="/hyperos/aurora/stable/OS1.0.24.0.UNACNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.UNACNXM</td><td>14.0</td><td>7.3 GB</td><td>2024-03-18</td><td><a href="/hyperos/aurora/stable beta/OS1.0.7.0.UNACNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.8.0.VNACNXM</td><td>15.0</td><td>7.8 GB</td><td>2024-11-28</td><td><a href="/hyperos/aurora/stable beta/OS2.0.8.0.VNACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.13.0.UNAEUXM</td><td>14.0</td><td>8.4 GB</td><td>2024-09-26</td><td><a href="/hyperos/aurora/stable/OS1.0.13.0.UNAEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.13.0.UNAEUXM</td><td>14.0</td><td>6.5 GB</td><td>2024-10-12</td><td><a href="/hyperos/aurora/stable/OS1.0.13.0.UNAEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.15.0.UNAEUXM</td><td>14.0</td><td>6.5 GB</td><td>2024-11-26</td><td><a href="/hyperos/aurora/stable beta/OS1.0.15.0.UNAEUXM/">Download</a></td></tr>
@@ -66,9 +66,8 @@ permalink: /hyperos/aurora/
 <tr><td>Xiaomi 14 Ultra Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UNARUXM</td><td>14.0</td><td>8.5 GB</td><td>2024-10-16</td><td><a href="/hyperos/aurora/stable/OS1.0.8.0.UNARUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UNARUXM</td><td>14.0</td><td>6.5 GB</td><td>2024-10-24</td><td><a href="/hyperos/aurora/stable/OS1.0.8.0.UNARUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.10.0.UNARUXM</td><td>14.0</td><td>6.5 GB</td><td>2024-11-29</td><td><a href="/hyperos/aurora/stable beta/OS1.0.10.0.UNARUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14 Ultra Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UNATRXM</td><td>14.0</td><td>7.9 GB</td><td>2024-10-16</td><td><a href="/hyperos/aurora/stable/OS1.0.7.0.UNATRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14 Ultra Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UNATRXM</td><td>14.0</td><td>6.5 GB</td><td>2024-10-24</td><td><a href="/hyperos/aurora/stable/OS1.0.7.0.UNATRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14 Ultra Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.9.0.UNATRXM</td><td>14.0</td><td>6.5 GB</td><td>2024-11-29</td><td><a href="/hyperos/aurora/stable beta/OS1.0.9.0.UNATRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Ultra Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.UNATRXM</td><td>14.0</td><td>7.8 GB</td><td>2024-11-21</td><td><a href="/hyperos/aurora/stable/OS1.0.9.0.UNATRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Ultra Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UNATRXM</td><td>14.0</td><td>6.5 GB</td><td>2024-11-29</td><td><a href="/hyperos/aurora/stable/OS1.0.9.0.UNATRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UNATWXM</td><td>14.0</td><td>7.7 GB</td><td>2024-10-16</td><td><a href="/hyperos/aurora/stable/OS1.0.8.0.UNATWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UNATWXM</td><td>14.0</td><td>6.4 GB</td><td>2024-10-24</td><td><a href="/hyperos/aurora/stable/OS1.0.8.0.UNATWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.10.0.UNATWXM</td><td>14.0</td><td>6.4 GB</td><td>2024-11-29</td><td><a href="/hyperos/aurora/stable beta/OS1.0.10.0.UNATWXM/">Download</a></td></tr>

@@ -520,6 +520,12 @@
   download: https://bigota.d.miui.com/OS1.0.11.3.UNACNXM/fw_aurora_miui_AURORA_OS1.0.11.3.UNACNXM_e5360f6279_14.0.zip
   name: Xiaomi 14 Ultra
   version: OS1.0.11.3.UNACNXM
+- android: '15.0'
+  codename: aurora
+  date: '2024-12-05'
+  download: https://bigota.d.miui.com/OS2.0.8.0.VNACNXM/fw_aurora_aurora-ota_full-OS2.0.8.0.VNACNXM-user-15.0-4316be9082.zip
+  name: Xiaomi 14 Ultra
+  version: OS2.0.8.0.VNACNXM
 - android: '14.0'
   codename: aurora
   date: '2024-09-04'
@@ -5274,6 +5280,18 @@
   version: OS1.0.4.0.UNPMIXM
 - android: '14.0'
   codename: peridot
+  date: '2024-12-05'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UNPEUXM/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.7.0.UNPEUXM_2ac3dee445_14.0.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS1.0.7.0.UNPEUXM
+- android: '14.0'
+  codename: peridot
+  date: '2024-12-05'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UNPMIXM/fw_peridot_miui_PERIDOTGlobal_OS1.0.10.0.UNPMIXM_e91a581e37_14.0.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS1.0.10.0.UNPMIXM
+- android: '14.0'
+  codename: peridot
   date: '2024-11-04'
   download: https://bigota.d.miui.com/OS1.0.7.0.UNPINXM/fw_peridot_miui_PERIDOTINGlobal_OS1.0.7.0.UNPINXM_e3351c5e82_14.0.zip
   name: Redmi Turbo 3/POCO F6
@@ -8398,6 +8416,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.TKCEUXM/fw_veux_miui_VEUXEEAGlobal_OS1.0.9.0.TKCEUXM_a17937a7cd_13.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
   version: OS1.0.9.0.TKCEUXM
+- android: '13.0'
+  codename: veux
+  date: '2024-12-05'
+  download: https://bigota.d.miui.com/OS1.0.10.0.TKCEUXM/fw_veux_miui_VEUXEEAGlobal_OS1.0.10.0.TKCEUXM_379e54840f_13.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: OS1.0.10.0.TKCEUXM
 - android: '13.0'
   codename: veux
   date: '2024-09-01'
