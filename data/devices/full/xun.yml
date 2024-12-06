@@ -209,6 +209,16 @@
     android: '14.0'
     miui: OS1.0.3.0.UMUINXM
 - branch: stable
+  date: '2024-12-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-06.12.2024/fw_xun_miui_XUNGlobal_OS1.0.5.0.UMUMIXM_e46cc9dcab_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/xun/fw_xun_miui_XUNGlobal_OS1.0.5.0.UMUMIXM_e46cc9dcab_14.0.zip
+  filename: fw_xun_miui_XUNGlobal_OS1.0.5.0.UMUMIXM_e46cc9dcab_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.5.0.UMUMIXM
+- branch: stable
   date: '2024-09-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-05.09.2024/fw_xun_miui_XUNINGlobal_OS1.0.2.0.UMUINXM_e2e7af4743_14.0.zip
