@@ -1319,15 +1319,15 @@
     android: '14.0'
     miui: OS1.0.7.0.UNEMIXM
 - branch: stable
-  date: '2024-12-04'
+  date: '2024-12-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_degas/releases/download/stable-04.12.2024/fw_degas_miui_DEGASEEAGlobal_OS1.0.12.0.UNEEUXM_8813ea079b_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/degas/fw_degas_miui_DEGASEEAGlobal_OS1.0.12.0.UNEEUXM_8813ea079b_14.0.zip
-  filename: fw_degas_miui_DEGASEEAGlobal_OS1.0.12.0.UNEEUXM_8813ea079b_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_degas/releases/download/stable-06.12.2024/fw_degas_eea_global_degas_eea_global-ota_full-OS2.0.2.0.VNEEUXM-user-15.0-c350108c40.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/degas/fw_degas_eea_global_degas_eea_global-ota_full-OS2.0.2.0.VNEEUXM-user-15.0-c350108c40.zip
+  filename: fw_degas_eea_global_degas_eea_global-ota_full-OS2.0.2.0.VNEEUXM-user-15.0-c350108c40.zip
   region: Europe
   versions:
-    android: '14.0'
-    miui: OS1.0.12.0.UNEEUXM
+    android: '15.0'
+    miui: OS2.0.2.0.VNEEUXM
 - branch: stable
   date: '2021-12-27'
   downloads:
@@ -3279,15 +3279,15 @@
     android: '7.0'
     miui: 9.9.26
 - branch: stable
-  date: '2024-11-30'
+  date: '2024-12-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-30.11.2024/fw_miro_miro-ota_full-OS2.0.10.0.VOMCNXM-user-15.0-69a61b38e5.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro-ota_full-OS2.0.10.0.VOMCNXM-user-15.0-69a61b38e5.zip
-  filename: fw_miro_miro-ota_full-OS2.0.10.0.VOMCNXM-user-15.0-69a61b38e5.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-06.12.2024/fw_miro_miro-ota_full-OS2.0.11.0.VOMCNXM-user-15.0-53cc500554.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro-ota_full-OS2.0.11.0.VOMCNXM-user-15.0-53cc500554.zip
+  filename: fw_miro_miro-ota_full-OS2.0.11.0.VOMCNXM-user-15.0-53cc500554.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.10.0.VOMCNXM
+    miui: OS2.0.11.0.VOMCNXM
 - branch: stable
   date: '2023-10-27'
   downloads:
@@ -3409,15 +3409,15 @@
     android: '14.0'
     miui: OS1.0.7.0.UNTEUXM
 - branch: stable
-  date: '2024-10-25'
+  date: '2024-12-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-25.10.2024/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.10.0.UMPMIXM_41f6d80e78_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moonstone/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.10.0.UMPMIXM_41f6d80e78_14.0.zip
-  filename: fw_moonstone_miui_MOONSTONEGlobal_OS1.0.10.0.UMPMIXM_41f6d80e78_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-06.12.2024/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.11.0.UMPMIXM_7fe8958647_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moonstone/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.11.0.UMPMIXM_7fe8958647_14.0.zip
+  filename: fw_moonstone_miui_MOONSTONEGlobal_OS1.0.11.0.UMPMIXM_7fe8958647_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.10.0.UMPMIXM
+    miui: OS1.0.11.0.UMPMIXM
 - branch: stable
   date: '2024-12-05'
   downloads:
@@ -5079,15 +5079,15 @@
     android: '15.0'
     miui: OS2.0.2.0.VNXCNXM
 - branch: stable
-  date: '2024-12-01'
+  date: '2024-12-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sheng/releases/download/stable-01.12.2024/fw_sheng_miui_SHENGEEAGlobal_OS1.0.9.0.UNXEUXM_839979b4f4_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sheng/fw_sheng_miui_SHENGEEAGlobal_OS1.0.9.0.UNXEUXM_839979b4f4_14.0.zip
-  filename: fw_sheng_miui_SHENGEEAGlobal_OS1.0.9.0.UNXEUXM_839979b4f4_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sheng/releases/download/stable-06.12.2024/fw_sheng_eea_global_sheng_eea_global-ota_full-OS2.0.3.0.VNXEUXM-user-15.0-4d740cc582.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sheng/fw_sheng_eea_global_sheng_eea_global-ota_full-OS2.0.3.0.VNXEUXM-user-15.0-4d740cc582.zip
+  filename: fw_sheng_eea_global_sheng_eea_global-ota_full-OS2.0.3.0.VNXEUXM-user-15.0-4d740cc582.zip
   region: Europe
   versions:
-    android: '14.0'
-    miui: OS1.0.9.0.UNXEUXM
+    android: '15.0'
+    miui: OS2.0.3.0.VNXEUXM
 - branch: stable
   date: '2024-12-04'
   downloads:
@@ -5319,15 +5319,15 @@
     android: '14.0'
     miui: OS1.0.3.0.UMQCNXM
 - branch: stable
-  date: '2024-09-27'
+  date: '2024-12-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-27.09.2024/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.9.0.UMQEUXM_7cd40a58e0_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sunstone/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.9.0.UMQEUXM_7cd40a58e0_14.0.zip
-  filename: fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.9.0.UMQEUXM_7cd40a58e0_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-06.12.2024/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.13.0.UMQEUXM_734e80925e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sunstone/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.13.0.UMQEUXM_734e80925e_14.0.zip
+  filename: fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.13.0.UMQEUXM_734e80925e_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.9.0.UMQEUXM
+    miui: OS1.0.13.0.UMQEUXM
 - branch: stable
   date: '2024-10-21'
   downloads:

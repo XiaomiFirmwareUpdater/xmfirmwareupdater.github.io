@@ -1168,6 +1168,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNEEUXM/fw_degas_miui_DEGASEEAGlobal_OS1.0.4.0.UNEEUXM_de3482d8d7_14.0.zip
   name: Xiaomi 14T
   version: OS1.0.4.0.UNEEUXM
+- android: '15.0'
+  codename: degas
+  date: '2024-12-06'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VNEEUXM/fw_degas_eea_global_degas_eea_global-ota_full-OS2.0.2.0.VNEEUXM-user-15.0-c350108c40.zip
+  name: Xiaomi 14T
+  version: OS2.0.2.0.VNEEUXM
 - android: '14.0'
   codename: degas
   date: '2024-12-04'
@@ -4294,6 +4300,12 @@
   download: https://bigota.d.miui.com/OS2.0.9.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.9.0.VOMCNXM-user-15.0-8bfd45400f.zip
   name: Redmi K80 Pro
   version: OS2.0.9.0.VOMCNXM
+- android: '15.0'
+  codename: miro
+  date: '2024-12-06'
+  download: https://bigota.d.miui.com/OS2.0.11.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.11.0.VOMCNXM-user-15.0-53cc500554.zip
+  name: Redmi K80 Pro
+  version: OS2.0.11.0.VOMCNXM
 - android: '13.0'
   codename: mona
   date: '2024-02-26'
@@ -4630,6 +4642,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UMPINXM/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.7.0.UMPINXM_06876b2d49_14.0.zip
   name: POCO X5 5G
   version: OS1.0.7.0.UMPINXM
+- android: '14.0'
+  codename: moonstone
+  date: '2024-12-06'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UMPMIXM/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.11.0.UMPMIXM_7fe8958647_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.11.0.UMPMIXM
 - android: '14.0'
   codename: moonstone
   date: '2024-12-05'
@@ -6958,6 +6976,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNXMIXM/fw_sheng_miui_SHENGGlobal_OS1.0.4.0.UNXMIXM_ee62c9664f_14.0.zip
   name: Xiaomi Pad 6S Pro 12.4
   version: OS1.0.4.0.UNXMIXM
+- android: '15.0'
+  codename: sheng
+  date: '2024-12-06'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VNXEUXM/fw_sheng_eea_global_sheng_eea_global-ota_full-OS2.0.3.0.VNXEUXM-user-15.0-4d740cc582.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS2.0.3.0.VNXEUXM
 - android: '14.0'
   codename: sheng
   date: '2024-06-04'
@@ -7690,6 +7714,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.5.0.UMQEUXM_bd2e2be1f9_14.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
   version: OS1.0.5.0.UMQEUXM
+- android: '14.0'
+  codename: sunstone
+  date: '2024-12-06'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.13.0.UMQEUXM_734e80925e_14.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: OS1.0.13.0.UMQEUXM
 - android: '14.0'
   codename: sunstone
   date: '2024-08-03'

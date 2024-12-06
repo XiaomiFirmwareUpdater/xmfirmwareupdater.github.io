@@ -52,9 +52,11 @@ permalink: /archive/hyperos/rothko/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 14T Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UNNTRXM</td><td>14.0</td><td>5.8 GB</td><td>2024-11-29</td><td><a href="/hyperos/rothko/stable beta/OS1.0.3.0.UNNTRXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 14T Pro Japan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.UNNJPXM</td><td>14.0</td><td>5.8 GB</td><td>2024-12-06</td><td><a href="/hyperos/rothko/stable beta/OS1.0.6.0.UNNJPXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UNNTRXM</td><td>14.0</td><td>5.8 GB</td><td>2024-11-29</td><td><a href="/hyperos/rothko/stable beta/OS1.0.3.0.UNNTRXM/">Download</a></td></tr>
 <tr><td>Redmi K70 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.13.0.VNNCNXM</td><td>15.0</td><td>7.3 GB</td><td>2024-11-24</td><td><a href="/hyperos/rothko/stable beta/OS2.0.13.0.VNNCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14T Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.11.0.VNNEUXM</td><td>15.0</td><td>6.3 GB</td><td>2024-11-22</td><td><a href="/hyperos/rothko/stable beta/OS2.0.11.0.VNNEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.11.0.VNNEUXM</td><td>15.0</td><td>6.3 GB</td><td>2024-11-22</td><td><a href="/hyperos/rothko/stable/OS2.0.11.0.VNNEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.11.0.VNNEUXM</td><td>15.0</td><td>7.9 GB</td><td>2024-11-22</td><td><a href="/hyperos/rothko/stable/OS2.0.11.0.VNNEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro India</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNNIDXM</td><td>14.0</td><td>5.8 GB</td><td>2024-11-04</td><td><a href="/hyperos/rothko/stable/OS1.0.4.0.UNNIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UNNIDXM</td><td>14.0</td><td>7.4 GB</td><td>2024-10-28</td><td><a href="/hyperos/rothko/stable/OS1.0.4.0.UNNIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNNTWXM</td><td>14.0</td><td>5.7 GB</td><td>2024-10-30</td><td><a href="/hyperos/rothko/stable/OS1.0.3.0.UNNTWXM/">Download</a></td></tr>
@@ -108,8 +110,8 @@ permalink: /archive/hyperos/rothko/
 <tr><td>Redmi K70 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.UNNCNXM</td><td>14.0</td><td>6.8 GB</td><td>2024-07-19</td><td><a href="/hyperos/rothko/stable/OS1.0.10.0.UNNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 Ultra China</td><td>Stable Beta</td><td>Fastboot</td><td>OS1.0.10.0.UNNCNXM</td><td>14.0</td><td>8.8 GB</td><td>2024-06-25</td><td><a href="/hyperos/rothko/stable beta/OS1.0.10.0.UNNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UNNCNXM</td><td>14.0</td><td>6.8 GB</td><td>2024-07-19</td><td><a href="/hyperos/rothko/stable/OS1.0.5.0.UNNCNXM/">Download</a></td></tr>
-<tr><td>Redmi K70 Ultra China</td><td>Stable Beta</td><td>Fastboot</td><td>OS1.0.13.0.UNNCNXM</td><td>14.0</td><td>8.9 GB</td><td>2024-07-15</td><td><a href="/hyperos/rothko/stable beta/OS1.0.13.0.UNNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.13.0.UNNCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-07-19</td><td><a href="/hyperos/rothko/stable/OS1.0.13.0.UNNCNXM/">Download</a></td></tr>
+<tr><td>Redmi K70 Ultra China</td><td>Stable Beta</td><td>Fastboot</td><td>OS1.0.13.0.UNNCNXM</td><td>14.0</td><td>8.9 GB</td><td>2024-07-15</td><td><a href="/hyperos/rothko/stable beta/OS1.0.13.0.UNNCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.UNNEUXM</td><td>14.0</td><td>5.8 GB</td><td>None</td><td><a href="/hyperos/rothko/stable beta/OS1.0.5.0.UNNEUXM/">Download</a></td></tr>
 
                 </tbody>

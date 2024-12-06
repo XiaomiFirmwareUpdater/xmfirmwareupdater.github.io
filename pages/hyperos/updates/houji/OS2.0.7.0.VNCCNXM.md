@@ -3,7 +3,7 @@ title: Xiaomi 14 China HyperOS OS2.0.7.0.VNCCNXM Update
 layout: download
 name: Xiaomi 14 China
 codename: houji
-permalink: /hyperos/houji/stable beta/OS2.0.7.0.VNCCNXM/
+permalink: /hyperos/houji/stable/OS2.0.7.0.VNCCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/houji/stable beta/OS2.0.7.0.VNCCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.7.0.VNCCNXM Stable Beta Official Update for Xiaomi 14 China (houji)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.7.0.VNCCNXM Stable Official Update for Xiaomi 14 China (houji)</h3>
     <h5>This page shows the OS2.0.7.0.VNCCNXM update only. If you're looking for other updates check
         <a href="/hyperos/houji/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/houji/stable beta/OS2.0.7.0.VNCCNXM/
                     <h5><b>Version: </b>OS2.0.7.0.VNCCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/houji/stable beta/OS2.0.7.0.VNCCNXM/
                             aria-expanded="false" aria-controls="houji_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="houji_1_changelog">
+                        <p id="changelog_text">[System]<br>Optimization: Occasional frame drop issue in some apps during scrolling<br>Fix: Song info couldn't be displayed in the car system when connecting to the vehicle via Bluetooth<br>Fix: Errors occurred when opening apps in some cases<br>Fix: Screen flashed after opening certain games<br>Fix: Some UI elements weren't displayed correctly<br>[Super wallpapers]<br>Fix: Always-on display clock wasn't displayed when Super wallpapers were applied<br>[Floating windows]<br>Fix: Floating window display issues when using Split screen in landscape mode<br>[Xiaomi HyperAI]<br>Optimization: Optimized AI search on-device algorithms to prevent device overheating and decrease power consumption<br>[Status bar, Notification shade]<br>New: Notification spotlight support for Mi Fitness</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi 14 China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/houji/" target="_blank">houji</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.7.0.VNCCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>9.4 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-11-20</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">houji_images_OS2.0.7.0.VNCCNXM_20241120.0000.00_15.0_cn_2d9f161462.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">2d9f161462f9b67fdcbb29dba9569900</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.7.0.VNCCNXM/houji_images_OS2.0.7.0.VNCCNXM_20241120.0000.00_15.0_cn_2d9f161462.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.7.0.VNCCNXM/houji_images_OS2.0.7.0.VNCCNXM_20241120.0000.00_15.0_cn_2d9f161462.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.7.0.VNCCNXM/houji_images_OS2.0.7.0.VNCCNXM_20241120.0000.00_15.0_cn_2d9f161462.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.7.0.VNCCNXM/houji_images_OS2.0.7.0.VNCCNXM_20241120.0000.00_15.0_cn_2d9f161462.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.7.0.VNCCNXM/houji_images_OS2.0.7.0.VNCCNXM_20241120.0000.00_15.0_cn_2d9f161462.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#houji_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="houji_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="houji_2_changelog">
                         <p id="changelog_text">[System]<br>Optimization: Occasional frame drop issue in some apps during scrolling<br>Fix: Song info couldn't be displayed in the car system when connecting to the vehicle via Bluetooth<br>Fix: Errors occurred when opening apps in some cases<br>Fix: Screen flashed after opening certain games<br>Fix: Some UI elements weren't displayed correctly<br>[Super wallpapers]<br>Fix: Always-on display clock wasn't displayed when Super wallpapers were applied<br>[Floating windows]<br>Fix: Floating window display issues when using Split screen in landscape mode<br>[Xiaomi HyperAI]<br>Optimization: Optimized AI search on-device algorithms to prevent device overheating and decrease power consumption<br>[Status bar, Notification shade]<br>New: Notification spotlight support for Mi Fitness</p>
                     </div>
                 </li>
