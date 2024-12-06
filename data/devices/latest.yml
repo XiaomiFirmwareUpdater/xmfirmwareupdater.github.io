@@ -3619,15 +3619,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2024-11-07'
+  date: '2024-12-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-07.11.2024/fw_nuwa_miui_NUWAGlobal_OS1.0.11.0.UMBMIXM_4adec2bf9a_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAGlobal_OS1.0.11.0.UMBMIXM_4adec2bf9a_14.0.zip
-  filename: fw_nuwa_miui_NUWAGlobal_OS1.0.11.0.UMBMIXM_4adec2bf9a_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-06.12.2024/fw_nuwa_miui_NUWAGlobal_OS1.0.12.0.UMBMIXM_97687e9227_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAGlobal_OS1.0.12.0.UMBMIXM_97687e9227_14.0.zip
+  filename: fw_nuwa_miui_NUWAGlobal_OS1.0.12.0.UMBMIXM_97687e9227_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.11.0.UMBMIXM
+    miui: OS1.0.12.0.UMBMIXM
 - branch: stable
   date: '2024-12-04'
   downloads:
@@ -3639,25 +3639,25 @@
     android: '14.0'
     miui: OS1.0.16.0.UMBCNXM
 - branch: stable
-  date: '2024-11-07'
+  date: '2024-12-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-07.11.2024/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.10.0.UMBEUXM_463d9f5a48_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.10.0.UMBEUXM_463d9f5a48_14.0.zip
-  filename: fw_nuwa_miui_NUWAEEAGlobal_OS1.0.10.0.UMBEUXM_463d9f5a48_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-06.12.2024/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.11.0.UMBEUXM_86a7e7b3d8_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.11.0.UMBEUXM_86a7e7b3d8_14.0.zip
+  filename: fw_nuwa_miui_NUWAEEAGlobal_OS1.0.11.0.UMBEUXM_86a7e7b3d8_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.10.0.UMBEUXM
+    miui: OS1.0.11.0.UMBEUXM
 - branch: stable
-  date: '2024-11-02'
+  date: '2024-12-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-02.11.2024/fw_nuwa_miui_NUWAINGlobal_OS1.0.10.0.UMBINXM_b1d5a68759_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAINGlobal_OS1.0.10.0.UMBINXM_b1d5a68759_14.0.zip
-  filename: fw_nuwa_miui_NUWAINGlobal_OS1.0.10.0.UMBINXM_b1d5a68759_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-06.12.2024/fw_nuwa_miui_NUWAINGlobal_OS1.0.11.0.UMBINXM_4032b06c21_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAINGlobal_OS1.0.11.0.UMBINXM_4032b06c21_14.0.zip
+  filename: fw_nuwa_miui_NUWAINGlobal_OS1.0.11.0.UMBINXM_4032b06c21_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.10.0.UMBINXM
+    miui: OS1.0.11.0.UMBINXM
 - branch: stable
   date: '2024-08-21'
   downloads:
@@ -4679,15 +4679,15 @@
     android: '14.0'
     miui: OS1.0.8.0.UNNMIXM
 - branch: stable
-  date: '2024-09-18'
+  date: '2024-12-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-19.09.2024/fw_rothko_miui_ROTHKO_OS1.0.27.0.UNNCNXM_4f58497328_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rothko/fw_rothko_miui_ROTHKO_OS1.0.27.0.UNNCNXM_4f58497328_14.0.zip
-  filename: fw_rothko_miui_ROTHKO_OS1.0.27.0.UNNCNXM_4f58497328_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-06.12.2024/fw_rothko_rothko-ota_full-OS2.0.13.0.VNNCNXM-user-15.0-6c068bf94b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rothko/fw_rothko_rothko-ota_full-OS2.0.13.0.VNNCNXM-user-15.0-6c068bf94b.zip
+  filename: fw_rothko_rothko-ota_full-OS2.0.13.0.VNNCNXM-user-15.0-6c068bf94b.zip
   region: China
   versions:
-    android: '14.0'
-    miui: OS1.0.27.0.UNNCNXM
+    android: '15.0'
+    miui: OS2.0.13.0.VNNCNXM
 - branch: stable
   date: '2024-11-28'
   downloads:
