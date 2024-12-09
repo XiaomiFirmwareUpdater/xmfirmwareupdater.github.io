@@ -59,6 +59,16 @@
     android: '14.0'
     miui: OS1.0.4.0.ULZCNXM
 - branch: stable
+  date: '2024-12-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dagu/releases/download/stable-09.12.2024/fw_dagu_miui_DAGU_OS1.0.11.0.ULZCNXM_9ba695747f_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/dagu/fw_dagu_miui_DAGU_OS1.0.11.0.ULZCNXM_9ba695747f_14.0.zip
+  filename: fw_dagu_miui_DAGU_OS1.0.11.0.ULZCNXM_9ba695747f_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.11.0.ULZCNXM
+- branch: stable
   date: '2024-11-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dagu/releases/download/stable-05.11.2024/fw_dagu_miui_DAGU_OS1.0.7.0.ULZCNXM_02e9fddc7b_14.0.zip
