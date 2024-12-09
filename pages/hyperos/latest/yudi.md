@@ -52,8 +52,8 @@ permalink: /hyperos/yudi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.15.0.UMHCNXM</td><td>14.0</td><td>6.8 GB</td><td>2024-10-11</td><td><a href="/hyperos/yudi/stable/OS1.0.15.0.UMHCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.15.0.UMHCNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-10-22</td><td><a href="/hyperos/yudi/stable/OS1.0.15.0.UMHCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.16.0.UMHCNXM</td><td>14.0</td><td>6.8 GB</td><td>2024-11-18</td><td><a href="/hyperos/yudi/stable/OS1.0.16.0.UMHCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.16.0.UMHCNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-11-27</td><td><a href="/hyperos/yudi/stable/OS1.0.16.0.UMHCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

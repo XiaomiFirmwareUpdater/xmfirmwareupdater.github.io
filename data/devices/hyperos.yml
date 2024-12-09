@@ -2232,6 +2232,12 @@
   version: OS1.0.6.0.TKEEUXM
 - android: '13.0'
   codename: fleur
+  date: '2024-12-09'
+  download: https://bigota.d.miui.com/OS1.0.9.0.TKEINXM/fw_fleur_miui_FLEURINGlobal_OS1.0.9.0.TKEINXM_7a6ca3f463_13.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: OS1.0.9.0.TKEINXM
+- android: '13.0'
+  codename: fleur
   date: '2024-08-08'
   download: https://bigota.d.miui.com/OS1.0.4.0.TKEINXM/fw_fleur_miui_FLEURINGlobal_OS1.0.4.0.TKEINXM_2fdfef46a4_13.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
@@ -2392,6 +2398,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UMCCNXM/fw_fuxi_miui_FUXI_OS1.0.9.0.UMCCNXM_ae3430817c_14.0.zip
   name: Xiaomi 13
   version: OS1.0.9.0.UMCCNXM
+- android: '14.0'
+  codename: fuxi
+  date: '2024-12-09'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UMCMIXM/fw_fuxi_miui_FUXIGlobal_OS1.0.10.0.UMCMIXM_3c59bd0eea_14.0.zip
+  name: Xiaomi 13
+  version: OS1.0.10.0.UMCMIXM
 - android: '14.0'
   codename: fuxi
   date: '2024-02-05'
@@ -3444,6 +3456,12 @@
   version: OS1.0.8.0.ULJMIXM
 - android: '14.0'
   codename: ingres
+  date: '2024-12-09'
+  download: https://bigota.d.miui.com/OS1.0.8.0.ULJCNXM/fw_ingres_miui_INGRES_OS1.0.8.0.ULJCNXM_3795e1a0b4_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.8.0.ULJCNXM
+- android: '14.0'
+  codename: ingres
   date: '2024-04-09'
   download: https://bigota.d.miui.com/OS1.0.2.0.ULJCNXM/fw_ingres_miui_INGRES_OS1.0.2.0.ULJCNXM_b4d2b9c601_14.0.zip
   name: Redmi K50G/POCO F4 GT
@@ -4090,6 +4108,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UNMCNXM/fw_manet_miui_MANET_OS1.0.9.0.UNMCNXM_4a4df85ffb_14.0.zip
   name: Redmi K70 Pro
   version: OS1.0.9.0.UNMCNXM
+- android: '15.0'
+  codename: manet
+  date: '2024-12-09'
+  download: https://bigota.d.miui.com/OS2.0.5.0.VNMCNXM/fw_manet_manet-ota_full-OS2.0.5.0.VNMCNXM-user-15.0-9b6a3a0ef3.zip
+  name: Redmi K70 Pro
+  version: OS2.0.5.0.VNMCNXM
 - android: '14.0'
   codename: manet
   date: '2023-12-07'
@@ -4228,6 +4252,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UMRINXM/fw_marble_miui_MARBLEINGlobal_OS1.0.8.0.UMRINXM_3cfd47fff9_14.0.zip
   name: Redmi Note 12 Turbo/POCO F5
   version: OS1.0.8.0.UMRINXM
+- android: '14.0'
+  codename: marble
+  date: '2024-12-09'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UMRCNXM/fw_marble_miui_MARBLE_OS1.0.12.0.UMRCNXM_d8d76fa31c_14.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS1.0.12.0.UMRCNXM
 - android: '14.0'
   codename: marble
   date: '2024-10-08'
@@ -4552,6 +4582,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMNMIXM/fw_mondrian_miui_MONDRIANGlobal_OS1.0.5.0.UMNMIXM_6168bd5b7a_14.0.zip
   name: Redmi K60/POCO F5 Pro
   version: OS1.0.5.0.UMNMIXM
+- android: '14.0'
+  codename: mondrian
+  date: '2024-12-09'
+  download: https://bigota.d.miui.com/OS1.0.16.0.UMNCNXM/fw_mondrian_miui_MONDRIAN_OS1.0.16.0.UMNCNXM_548484eef3_14.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS1.0.16.0.UMNCNXM
 - android: '14.0'
   codename: mondrian
   date: '2024-08-05'
@@ -5578,6 +5614,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.12.0.UMZCNXM_c8d7ab829f_14.0.zip
   name: Xiaomi Pad 6
   version: OS1.0.12.0.UMZCNXM
+- android: '14.0'
+  codename: pipa
+  date: '2024-12-09'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.13.0.UMZCNXM_2cdf324013_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.13.0.UMZCNXM
 - android: '14.0'
   codename: pipa
   date: '2024-10-08'
@@ -8446,6 +8488,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.7.0.UNKCNXM_98005153d7_14.0.zip
   name: Redmi K70/POCO F6 Pro
   version: OS1.0.7.0.UNKCNXM
+- android: '15.0'
+  codename: vermeer
+  date: '2024-12-09'
+  download: https://bigota.d.miui.com/OS2.0.5.0.VNKCNXM/fw_vermeer_vermeer-ota_full-OS2.0.5.0.VNKCNXM-user-15.0-dbbc6eb99e.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS2.0.5.0.VNKCNXM
 - android: '14.0'
   codename: vermeer
   date: '2024-05-08'
@@ -9052,6 +9100,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMHCNXM/fw_yudi_miui_YUDI_OS1.0.2.0.UMHCNXM_34efc69cc0_14.0.zip
   name: Xiaomi Pad 6 Max 14
   version: OS1.0.2.0.UMHCNXM
+- android: '14.0'
+  codename: yudi
+  date: '2024-12-09'
+  download: https://bigota.d.miui.com/OS1.0.16.0.UMHCNXM/fw_yudi_miui_YUDI_OS1.0.16.0.UMHCNXM_1fdd0e6d55_14.0.zip
+  name: Xiaomi Pad 6 Max 14
+  version: OS1.0.16.0.UMHCNXM
 - android: '14.0'
   codename: yudi
   date: '2024-04-07'
