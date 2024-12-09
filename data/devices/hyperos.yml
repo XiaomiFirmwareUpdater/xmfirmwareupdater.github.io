@@ -624,6 +624,12 @@
   version: OS1.0.3.0.UOQCNXM
 - android: '14.0'
   codename: beryl
+  date: '2024-12-09'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UOQINXM/fw_beryl_miui_BERYLINGlobal_OS1.0.4.0.UOQINXM_b51bc03ea2_14.0.zip
+  name: Redmi Note 14 5G
+  version: OS1.0.4.0.UOQINXM
+- android: '14.0'
+  codename: beryl
   date: '2024-10-08'
   download: https://bigota.d.miui.com/OS1.0.2.0.UOQCNXM/fw_beryl_miui_BERYL_OS1.0.2.0.UOQCNXM_593961cbe2_14.0.zip
   name: Redmi Note 14 5G
@@ -2892,6 +2898,12 @@
   version: OS1.0.16.0.UNQEUXM
 - android: '14.0'
   codename: gold
+  date: '2024-12-09'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UNQCNXM/fw_gold_miui_GOLD_OS1.0.8.0.UNQCNXM_2784668d95_14.0.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS1.0.8.0.UNQCNXM
+- android: '14.0'
+  codename: gold
   date: '2024-10-08'
   download: https://bigota.d.miui.com/OS1.0.5.0.UNQCNXM/fw_gold_miui_GOLD_OS1.0.5.0.UNQCNXM_d5eb9352cb_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
@@ -4062,6 +4074,12 @@
   version: OS1.0.10.0.UOOCNXM
 - android: '14.0'
   codename: malachite
+  date: '2024-12-09'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UOOINXM/fw_malachite_miui_MALACHITEINGlobal_OS1.0.2.0.UOOINXM_3f541e2f7e_14.0.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS1.0.2.0.UOOINXM
+- android: '14.0'
+  codename: malachite
   date: '2024-10-03'
   download: https://bigota.d.miui.com/OS1.0.8.0.UOOCNXM/fw_malachite_miui_MALACHITE_OS1.0.8.0.UOOCNXM_b70842734a_14.0.zip
   name: Redmi Note 14 Pro 5G/POCO X7
@@ -4252,6 +4270,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UMRINXM/fw_marble_miui_MARBLEINGlobal_OS1.0.8.0.UMRINXM_3cfd47fff9_14.0.zip
   name: Redmi Note 12 Turbo/POCO F5
   version: OS1.0.8.0.UMRINXM
+- android: '14.0'
+  codename: marble
+  date: '2024-12-09'
+  download: https://bigota.d.miui.com/OS1.0.15.0.UMRINXM/fw_marble_miui_MARBLEINGlobal_OS1.0.15.0.UMRINXM_ec1d808689_14.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS1.0.15.0.UMRINXM
 - android: '14.0'
   codename: marble
   date: '2024-12-09'
@@ -9592,6 +9616,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UNOCNXM/fw_zircon_miui_ZIRCON_OS1.0.3.0.UNOCNXM_e09092107e_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.3.0.UNOCNXM
+- android: '14.0'
+  codename: zircon
+  date: '2024-12-09'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UNOEUXM/fw_zircon_miui_ZIRCONEEAGlobal_OS1.0.12.0.UNOEUXM_b76ab0568e_14.0.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS1.0.12.0.UNOEUXM
 - android: '14.0'
   codename: zircon
   date: '2024-05-09'

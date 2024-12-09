@@ -54,6 +54,8 @@ permalink: /hyperos/malachite/
                 <tbody>
                 <tr><td>Redmi Note 14 Pro 5G / POCO X7 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UOOCNXM</td><td>14.0</td><td>8.4 GB</td><td>2024-11-15</td><td><a href="/hyperos/malachite/stable/OS1.0.11.0.UOOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UOOCNXM</td><td>14.0</td><td>6.5 GB</td><td>2024-11-22</td><td><a href="/hyperos/malachite/stable/OS1.0.11.0.UOOCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro 5G / POCO X7 India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UOOINXM</td><td>14.0</td><td>7.3 GB</td><td>2024-11-22</td><td><a href="/hyperos/malachite/stable/OS1.0.2.0.UOOINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro 5G / POCO X7 India</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UOOINXM</td><td>14.0</td><td>5.4 GB</td><td>2024-12-09</td><td><a href="/hyperos/malachite/stable/OS1.0.2.0.UOOINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
