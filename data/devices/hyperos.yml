@@ -1830,6 +1830,12 @@
   version: OS1.0.2.0.UCVMIXM
 - android: '14.0'
   codename: earth
+  date: '2024-12-10'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UCVCNXM/fw_earth_miui_EARTH_OS1.0.5.0.UCVCNXM_f3ec4d80d3_14.0.zip
+  name: Redmi 12C/POCO C55
+  version: OS1.0.5.0.UCVCNXM
+- android: '14.0'
+  codename: earth
   date: '2024-03-06'
   download: https://bigota.d.miui.com/OS1.0.3.0.UCVMIXM/fw_earth_miui_EARTHGlobal_OS1.0.3.0.UCVMIXM_d2ad88204e_14.0.zip
   name: Redmi 12C/POCO C55
@@ -6102,6 +6108,18 @@
   version: OS1.0.8.0.UMSCNXM
 - android: '14.0'
   codename: redwood
+  date: '2024-12-10'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UMSEUXM/fw_redwood_miui_REDWOODEEAGlobal_OS1.0.10.0.UMSEUXM_583be92b07_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.10.0.UMSEUXM
+- android: '14.0'
+  codename: redwood
+  date: '2024-12-10'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UMSMIXM/fw_redwood_miui_REDWOODGlobal_OS1.0.10.0.UMSMIXM_7de29b18ba_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.10.0.UMSMIXM
+- android: '14.0'
+  codename: redwood
   date: '2024-10-10'
   download: https://bigota.d.miui.com/OS1.0.8.0.UMSEUXM/fw_redwood_miui_REDWOODEEAGlobal_OS1.0.8.0.UMSEUXM_1d310839a0_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
@@ -6532,6 +6550,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.ULNCNXM/fw_rubens_miui_RUBENS_OS1.0.10.0.ULNCNXM_b22feefbed_14.0.zip
   name: Redmi K50
   version: OS1.0.10.0.ULNCNXM
+- android: '14.0'
+  codename: rubens
+  date: '2024-12-10'
+  download: https://bigota.d.miui.com/OS1.0.14.0.ULNCNXM/fw_rubens_miui_RUBENS_OS1.0.14.0.ULNCNXM_e6d36af76c_14.0.zip
+  name: Redmi K50
+  version: OS1.0.14.0.ULNCNXM
 - android: '14.0'
   codename: rubens
   date: '2024-10-10'
@@ -7950,6 +7974,18 @@
   version: OS1.0.12.0.ULIEUXM
 - android: '14.0'
   codename: taoyao
+  date: '2024-12-10'
+  download: https://bigota.d.miui.com/OS1.0.17.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.17.0.ULIEUXM_d4bef666c5_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.17.0.ULIEUXM
+- android: '14.0'
+  codename: taoyao
+  date: '2024-12-10'
+  download: https://bigota.d.miui.com/OS1.0.12.0.ULIMIXM/fw_taoyao_miui_TAOYAOGlobal_OS1.0.12.0.ULIMIXM_fdd69c35c3_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.12.0.ULIMIXM
+- android: '14.0'
+  codename: taoyao
   date: '2024-09-09'
   download: https://bigota.d.miui.com/OS1.0.13.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.13.0.ULIEUXM_fb1aed7ca3_14.0.zip
   name: Xiaomi 12 Lite
@@ -8778,6 +8814,18 @@
   version: OS1.0.3.0.UKDMIXM
 - android: '14.0'
   codename: vili
+  date: '2024-12-10'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UKDEUXM/fw_vili_miui_VILIEEAGlobal_OS1.0.9.0.UKDEUXM_b7c8c5c29a_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.9.0.UKDEUXM
+- android: '14.0'
+  codename: vili
+  date: '2024-12-10'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UKDMIXM/fw_vili_miui_VILIGlobal_OS1.0.8.0.UKDMIXM_508d3c7c44_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.8.0.UKDMIXM
+- android: '14.0'
+  codename: vili
   date: '2024-05-09'
   download: https://bigota.d.miui.com/OS1.0.2.0.UKDMIXM/fw_vili_miui_VILIGlobal_OS1.0.2.0.UKDMIXM_4666382f76_14.0.zip
   name: Xiaomi 11T Pro
@@ -8962,6 +9010,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.ULOEUXM/fw_xaga_miui_XAGAEEAGlobal_OS1.0.7.0.ULOEUXM_eb815b8d2f_14.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: OS1.0.7.0.ULOEUXM
+- android: '14.0'
+  codename: xaga
+  date: '2024-12-10'
+  download: https://bigota.d.miui.com/OS1.0.6.0.ULOINXM/fw_xaga_miui_XAGAINGlobal_OS1.0.6.0.ULOINXM_3160382bd0_14.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS1.0.6.0.ULOINXM
 - android: '14.0'
   codename: xaga
   date: '2024-10-10'
