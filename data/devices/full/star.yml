@@ -809,6 +809,36 @@
     android: '11.0'
     miui: V12.5.12.0.RKACNXM
 - branch: stable
+  date: '2024-12-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-10.12.2024/fw_star_miui_STAREEAGlobal_OS1.0.8.0.UKAEUXM_7773da0b35_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/star/fw_star_miui_STAREEAGlobal_OS1.0.8.0.UKAEUXM_7773da0b35_14.0.zip
+  filename: fw_star_miui_STAREEAGlobal_OS1.0.8.0.UKAEUXM_7773da0b35_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.8.0.UKAEUXM
+- branch: stable
+  date: '2024-12-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-10.12.2024/fw_star_miui_STARGlobal_OS1.0.9.0.UKAMIXM_85edfd8297_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/star/fw_star_miui_STARGlobal_OS1.0.9.0.UKAMIXM_85edfd8297_14.0.zip
+  filename: fw_star_miui_STARGlobal_OS1.0.9.0.UKAMIXM_85edfd8297_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.9.0.UKAMIXM
+- branch: stable
+  date: '2024-12-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-10.12.2024/fw_star_miui_STARINGlobal_OS1.0.8.0.UKAINXM_bcab1e7d0f_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/star/fw_star_miui_STARINGlobal_OS1.0.8.0.UKAINXM_bcab1e7d0f_14.0.zip
+  filename: fw_star_miui_STARINGlobal_OS1.0.8.0.UKAINXM_bcab1e7d0f_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.8.0.UKAINXM
+- branch: stable
   date: '2024-09-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-10.09.2024/fw_star_miui_STAREEAGlobal_OS1.0.5.0.UKAEUXM_c83b47d8ff_14.0.zip

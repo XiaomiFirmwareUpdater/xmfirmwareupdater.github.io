@@ -7752,6 +7752,24 @@
   version: OS1.0.2.0.UKAEUXM
 - android: '14.0'
   codename: star
+  date: '2024-12-10'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UKAEUXM/fw_star_miui_STAREEAGlobal_OS1.0.8.0.UKAEUXM_7773da0b35_14.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: OS1.0.8.0.UKAEUXM
+- android: '14.0'
+  codename: star
+  date: '2024-12-10'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UKAMIXM/fw_star_miui_STARGlobal_OS1.0.9.0.UKAMIXM_85edfd8297_14.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: OS1.0.9.0.UKAMIXM
+- android: '14.0'
+  codename: star
+  date: '2024-12-10'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UKAINXM/fw_star_miui_STARINGlobal_OS1.0.8.0.UKAINXM_bcab1e7d0f_14.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: OS1.0.8.0.UKAINXM
+- android: '14.0'
+  codename: star
   date: '2024-09-10'
   download: https://bigota.d.miui.com/OS1.0.5.0.UKAEUXM/fw_star_miui_STAREEAGlobal_OS1.0.5.0.UKAEUXM_c83b47d8ff_14.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
