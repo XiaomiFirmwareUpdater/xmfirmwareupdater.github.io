@@ -5328,6 +5328,12 @@
   version: OS1.0.2.0.ULHCNXM
 - android: '14.0'
   codename: pearl
+  date: '2024-12-11'
+  download: https://bigota.d.miui.com/OS1.0.8.0.ULHCNXM/fw_pearl_miui_PEARL_OS1.0.8.0.ULHCNXM_4f6532b7e8_14.0.zip
+  name: Redmi Note 12T Pro
+  version: OS1.0.8.0.ULHCNXM
+- android: '14.0'
+  codename: pearl
   date: '2024-09-11'
   download: https://bigota.d.miui.com/OS1.0.4.0.ULHCNXM/fw_pearl_miui_PEARL_OS1.0.4.0.ULHCNXM_7516430224_14.0.zip
   name: Redmi Note 12T Pro
