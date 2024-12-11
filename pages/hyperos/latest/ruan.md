@@ -54,8 +54,8 @@ permalink: /hyperos/ruan/
                 <tbody>
                 <tr><td>Redmi Pad Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UFSCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-11-18</td><td><a href="/hyperos/ruan/stable/OS1.0.8.0.UFSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G China</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UFSCNXM</td><td>14.0</td><td>4.7 GB</td><td>2024-11-27</td><td><a href="/hyperos/ruan/stable/OS1.0.8.0.UFSCNXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Pro 5G / POCO Pad 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UFSEUXM</td><td>14.0</td><td>5.3 GB</td><td>2024-09-26</td><td><a href="/hyperos/ruan/stable/OS1.0.7.0.UFSEUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Pro 5G / POCO Pad 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UFSEUXM</td><td>14.0</td><td>4.5 GB</td><td>2024-09-30</td><td><a href="/hyperos/ruan/stable/OS1.0.7.0.UFSEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro 5G / POCO Pad 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.UFSEUXM</td><td>14.0</td><td>5.4 GB</td><td>2024-11-26</td><td><a href="/hyperos/ruan/stable/OS1.0.9.0.UFSEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro 5G / POCO Pad 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UFSEUXM</td><td>14.0</td><td>4.5 GB</td><td>2024-12-02</td><td><a href="/hyperos/ruan/stable/OS1.0.9.0.UFSEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G / POCO Pad 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UFSMIXM</td><td>14.0</td><td>5.4 GB</td><td>2024-11-19</td><td><a href="/hyperos/ruan/stable/OS1.0.8.0.UFSMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G / POCO Pad 5G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UFSMIXM</td><td>14.0</td><td>4.3 GB</td><td>2024-11-30</td><td><a href="/hyperos/ruan/stable/OS1.0.8.0.UFSMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G / POCO Pad 5G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UFSINXM</td><td>14.0</td><td>4.8 GB</td><td>2024-11-19</td><td><a href="/hyperos/ruan/stable/OS1.0.8.0.UFSINXM/">Download</a></td></tr>
