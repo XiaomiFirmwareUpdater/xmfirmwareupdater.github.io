@@ -64,6 +64,7 @@ permalink: /hyperos/spark/
 <tr><td>Redmi Pad SE 8.7 4G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UHYRUXM</td><td>14.0</td><td>4.0 GB</td><td>2024-11-22</td><td><a href="/hyperos/spark/stable/OS1.0.4.0.UHYRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 4G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UHYTWXM</td><td>14.0</td><td>4.8 GB</td><td>2024-10-08</td><td><a href="/hyperos/spark/stable/OS1.0.3.0.UHYTWXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 4G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UHYTWXM</td><td>14.0</td><td>4.0 GB</td><td>2024-10-22</td><td><a href="/hyperos/spark/stable/OS1.0.3.0.UHYTWXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE 8.7 4G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UHYTWXM</td><td>14.0</td><td>4.0 GB</td><td>2024-12-12</td><td><a href="/hyperos/spark/stable beta/OS1.0.4.0.UHYTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

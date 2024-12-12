@@ -1189,15 +1189,15 @@
     android: '12.0'
     miui: V14.0.3.0.SJWINXM
 - branch: stable
-  date: '2024-12-05'
+  date: '2024-12-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dada/releases/download/stable-05.12.2024/fw_dada_dada-ota_full-OS2.0.25.0.VOCCNXM-user-15.0-b1b572d127.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dada/fw_dada_dada-ota_full-OS2.0.25.0.VOCCNXM-user-15.0-b1b572d127.zip
-  filename: fw_dada_dada-ota_full-OS2.0.25.0.VOCCNXM-user-15.0-b1b572d127.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dada/releases/download/stable-12.12.2024/fw_dada_dada-ota_full-OS2.0.26.0.VOCCNXM-user-15.0-dcfe511191.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dada/fw_dada_dada-ota_full-OS2.0.26.0.VOCCNXM-user-15.0-dcfe511191.zip
+  filename: fw_dada_dada-ota_full-OS2.0.26.0.VOCCNXM-user-15.0-dcfe511191.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.25.0.VOCCNXM
+    miui: OS2.0.26.0.VOCCNXM
 - branch: stable
   date: '2024-12-09'
   downloads:
@@ -2169,15 +2169,15 @@
     android: '11.0'
     miui: V12.5.1.0.RFBEUXM
 - branch: stable
-  date: '2024-12-05'
+  date: '2024-12-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haotian/releases/download/stable-05.12.2024/fw_haotian_haotian-ota_full-OS2.0.25.0.VOBCNXM-user-15.0-e9a4d3ac3d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/haotian/fw_haotian_haotian-ota_full-OS2.0.25.0.VOBCNXM-user-15.0-e9a4d3ac3d.zip
-  filename: fw_haotian_haotian-ota_full-OS2.0.25.0.VOBCNXM-user-15.0-e9a4d3ac3d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haotian/releases/download/stable-12.12.2024/fw_haotian_haotian-ota_full-OS2.0.26.0.VOBCNXM-user-15.0-ee21b72f4d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/haotian/fw_haotian_haotian-ota_full-OS2.0.26.0.VOBCNXM-user-15.0-ee21b72f4d.zip
+  filename: fw_haotian_haotian-ota_full-OS2.0.26.0.VOBCNXM-user-15.0-ee21b72f4d.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.25.0.VOBCNXM
+    miui: OS2.0.26.0.VOBCNXM
 - branch: stable
   date: '2024-11-29'
   downloads:
@@ -2599,15 +2599,15 @@
     android: '6.0'
     miui: 8.11.22
 - branch: stable
-  date: '2024-09-26'
+  date: '2024-12-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klein/releases/download/stable-26.09.2024/fw_kle_miui_KLEINGlobal_V816.0.6.0.UGSMIXM_3c7f197952_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V816/klein/fw_kle_miui_KLEINGlobal_V816.0.6.0.UGSMIXM_3c7f197952_14.0.zip
-  filename: fw_kle_miui_KLEINGlobal_V816.0.6.0.UGSMIXM_3c7f197952_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klein/releases/download/stable-12.12.2024/fw_kle_miui_KLEINGlobal_V816.0.7.0.UGSMIXM_6344663474_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V816/klein/fw_kle_miui_KLEINGlobal_V816.0.7.0.UGSMIXM_6344663474_14.0.zip
+  filename: fw_kle_miui_KLEINGlobal_V816.0.7.0.UGSMIXM_6344663474_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: V816.0.6.0.UGSMIXM
+    miui: V816.0.7.0.UGSMIXM
 - branch: stable
   date: '2024-10-10'
   downloads:
@@ -5279,15 +5279,15 @@
     android: '14.0'
     miui: OS1.0.9.0.UKAMIXM
 - branch: stable
-  date: '2024-10-18'
+  date: '2024-12-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-19.10.2024/fw_star_miui_STAR_OS1.0.6.0.UKACNXM_a9c4d97169_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/star/fw_star_miui_STAR_OS1.0.6.0.UKACNXM_a9c4d97169_14.0.zip
-  filename: fw_star_miui_STAR_OS1.0.6.0.UKACNXM_a9c4d97169_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-12.12.2024/fw_star_miui_STAR_OS1.0.8.0.UKACNXM_e0ee8bc158_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/star/fw_star_miui_STAR_OS1.0.8.0.UKACNXM_e0ee8bc158_14.0.zip
+  filename: fw_star_miui_STAR_OS1.0.8.0.UKACNXM_e0ee8bc158_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.UKACNXM
+    miui: OS1.0.8.0.UKACNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
