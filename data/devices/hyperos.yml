@@ -7468,6 +7468,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMWINXM/fw_sky_miui_SKYINGlobal_OS1.0.4.0.UMWINXM_917110d0c5_14.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
   version: OS1.0.4.0.UMWINXM
+- android: '15.0'
+  codename: sky
+  date: '2024-12-12'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VMWINXM/fw_sky_in_global_sky_in_global-ota_full-OS2.0.3.0.VMWINXM-user-15.0-20f9b232cf.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS2.0.3.0.VMWINXM
 - android: '14.0'
   codename: sky
   date: '2024-01-12'
@@ -9166,6 +9172,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMUEUXM/fw_xun_miui_XUNEEAGlobal_OS1.0.3.0.UMUEUXM_aaefb98dfa_14.0.zip
   name: Redmi Pad SE
   version: OS1.0.3.0.UMUEUXM
+- android: '14.0'
+  codename: xun
+  date: '2024-12-12'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UMUMIXM/fw_xun_miui_XUNGlobal_OS1.0.6.0.UMUMIXM_4617b2b9c9_14.0.zip
+  name: Redmi Pad SE
+  version: OS1.0.6.0.UMUMIXM
 - android: '14.0'
   codename: xun
   date: '2024-05-10'

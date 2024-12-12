@@ -5179,15 +5179,15 @@
     android: '14.0'
     miui: OS1.0.10.0.UMWEUXM
 - branch: stable
-  date: '2024-11-06'
+  date: '2024-12-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-06.11.2024/fw_sky_miui_SKYINGlobal_OS1.0.7.0.UMWINXM_de31e9540e_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sky/fw_sky_miui_SKYINGlobal_OS1.0.7.0.UMWINXM_de31e9540e_14.0.zip
-  filename: fw_sky_miui_SKYINGlobal_OS1.0.7.0.UMWINXM_de31e9540e_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-12.12.2024/fw_sky_in_global_sky_in_global-ota_full-OS2.0.3.0.VMWINXM-user-15.0-20f9b232cf.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sky/fw_sky_in_global_sky_in_global-ota_full-OS2.0.3.0.VMWINXM-user-15.0-20f9b232cf.zip
+  filename: fw_sky_in_global_sky_in_global-ota_full-OS2.0.3.0.VMWINXM-user-15.0-20f9b232cf.zip
   region: India
   versions:
-    android: '14.0'
-    miui: OS1.0.7.0.UMWINXM
+    android: '15.0'
+    miui: OS2.0.3.0.VMWINXM
 - branch: stable
   date: '2024-10-24'
   downloads:
@@ -6249,15 +6249,15 @@
     android: '14.0'
     miui: OS1.0.6.0.ULOINXM
 - branch: stable
-  date: '2024-12-06'
+  date: '2024-12-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-06.12.2024/fw_xun_miui_XUNGlobal_OS1.0.5.0.UMUMIXM_e46cc9dcab_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/xun/fw_xun_miui_XUNGlobal_OS1.0.5.0.UMUMIXM_e46cc9dcab_14.0.zip
-  filename: fw_xun_miui_XUNGlobal_OS1.0.5.0.UMUMIXM_e46cc9dcab_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-12.12.2024/fw_xun_miui_XUNGlobal_OS1.0.6.0.UMUMIXM_4617b2b9c9_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/xun/fw_xun_miui_XUNGlobal_OS1.0.6.0.UMUMIXM_4617b2b9c9_14.0.zip
+  filename: fw_xun_miui_XUNGlobal_OS1.0.6.0.UMUMIXM_4617b2b9c9_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UMUMIXM
+    miui: OS1.0.6.0.UMUMIXM
 - branch: stable
   date: '2024-09-18'
   downloads:
