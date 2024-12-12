@@ -1362,6 +1362,12 @@
   version: OS1.0.3.0.ULFCNXM
 - android: '14.0'
   codename: diting
+  date: '2024-12-12'
+  download: https://bigota.d.miui.com/OS1.0.12.0.ULFCNXM/fw_diting_miui_DITING_OS1.0.12.0.ULFCNXM_da70d0ec1f_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.12.0.ULFCNXM
+- android: '14.0'
+  codename: diting
   date: '2024-09-12'
   download: https://bigota.d.miui.com/OS1.0.9.0.ULFEUXM/fw_diting_miui_DITINGEEAGlobal_OS1.0.9.0.ULFEUXM_68e4cbd70c_14.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
@@ -2122,6 +2128,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UGUCNXM/fw_flame_miui_FLAME_OS1.0.7.0.UGUCNXM_c75fb07ee3_14.0.zip
   name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
   version: OS1.0.7.0.UGUCNXM
+- android: '14.0'
+  codename: flame
+  date: '2024-12-12'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UGUCNXM/fw_flame_miui_FLAME_OS1.0.12.0.UGUCNXM_dd13e6662a_14.0.zip
+  name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
+  version: OS1.0.12.0.UGUCNXM
 - android: '14.0'
   codename: flame
   date: '2024-10-09'
@@ -4054,6 +4066,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMYCNXM/fw_liuqin_miui_LIUQIN_OS1.0.5.0.UMYCNXM_119a1b6e81_14.0.zip
   name: Xiaomi Pad 6 Pro
   version: OS1.0.5.0.UMYCNXM
+- android: '14.0'
+  codename: liuqin
+  date: '2024-12-12'
+  download: https://bigota.d.miui.com/OS1.0.14.0.UMYCNXM/fw_liuqin_miui_LIUQIN_OS1.0.14.0.UMYCNXM_fee88382c1_14.0.zip
+  name: Xiaomi Pad 6 Pro
+  version: OS1.0.14.0.UMYCNXM
 - android: '14.0'
   codename: liuqin
   date: '2024-09-11'
@@ -9592,6 +9610,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULPCNXM/fw_zijin_miui_ZIJIN_OS1.0.2.0.ULPCNXM_92b79e0991_14.0.zip
   name: Xiaomi Civi 1S
   version: OS1.0.2.0.ULPCNXM
+- android: '14.0'
+  codename: zijin
+  date: '2024-12-12'
+  download: https://bigota.d.miui.com/OS1.0.10.0.ULPCNXM/fw_zijin_miui_ZIJIN_OS1.0.10.0.ULPCNXM_049ccec9c1_14.0.zip
+  name: Xiaomi Civi 1S
+  version: OS1.0.10.0.ULPCNXM
 - android: '14.0'
   codename: zijin
   date: '2024-10-12'
