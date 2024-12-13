@@ -1849,15 +1849,15 @@
     android: '14.0'
     miui: OS1.0.19.0.UMCCNXM
 - branch: stable
-  date: '2024-11-20'
+  date: '2024-12-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-20.11.2024/fw_fuxi_miui_FUXIEEAGlobal_OS1.0.9.0.UMCEUXM_2c592c294b_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fuxi/fw_fuxi_miui_FUXIEEAGlobal_OS1.0.9.0.UMCEUXM_2c592c294b_14.0.zip
-  filename: fw_fuxi_miui_FUXIEEAGlobal_OS1.0.9.0.UMCEUXM_2c592c294b_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-13.12.2024/fw_fuxi_miui_FUXIEEAGlobal_OS1.0.10.0.UMCEUXM_d976b0852b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fuxi/fw_fuxi_miui_FUXIEEAGlobal_OS1.0.10.0.UMCEUXM_d976b0852b_14.0.zip
+  filename: fw_fuxi_miui_FUXIEEAGlobal_OS1.0.10.0.UMCEUXM_d976b0852b_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.9.0.UMCEUXM
+    miui: OS1.0.10.0.UMCEUXM
 - branch: stable
   date: '2024-11-20'
   downloads:
@@ -3409,15 +3409,15 @@
     android: '12.0'
     miui: V13.0.4.0.SJIEUXM
 - branch: stable
-  date: '2024-11-22'
+  date: '2024-12-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moon/releases/download/stable-22.11.2024/fw_moon_miui_MOONGlobal_OS1.0.8.0.UNTMIXM_33874dce35_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moon/fw_moon_miui_MOONGlobal_OS1.0.8.0.UNTMIXM_33874dce35_14.0.zip
-  filename: fw_moon_miui_MOONGlobal_OS1.0.8.0.UNTMIXM_33874dce35_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moon/releases/download/stable-13.12.2024/fw_moon_global_moon_global-ota_full-OS2.0.2.0.VNTMIXM-user-15.0-f7ece4195a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/moon/fw_moon_global_moon_global-ota_full-OS2.0.2.0.VNTMIXM-user-15.0-f7ece4195a.zip
+  filename: fw_moon_global_moon_global-ota_full-OS2.0.2.0.VNTMIXM-user-15.0-f7ece4195a.zip
   region: Global
   versions:
-    android: '14.0'
-    miui: OS1.0.8.0.UNTMIXM
+    android: '15.0'
+    miui: OS2.0.2.0.VNTMIXM
 - branch: stable
   date: '2024-12-06'
   downloads:
@@ -4949,15 +4949,15 @@
     android: '7.1'
     miui: 9.10.10
 - branch: stable
-  date: '2024-11-04'
+  date: '2024-12-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphire/releases/download/stable-04.11.2024/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.10.0.UNGMIXM_b2dd8a307b_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sapphire/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.10.0.UNGMIXM_b2dd8a307b_14.0.zip
-  filename: fw_sapphire_miui_SAPPHIREGlobal_OS1.0.10.0.UNGMIXM_b2dd8a307b_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphire/releases/download/stable-13.12.2024/fw_sapphire_global_sapphire_global-ota_full-OS2.0.4.0.VNGMIXM-user-15.0-961fa604bb.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sapphire/fw_sapphire_global_sapphire_global-ota_full-OS2.0.4.0.VNGMIXM-user-15.0-961fa604bb.zip
+  filename: fw_sapphire_global_sapphire_global-ota_full-OS2.0.4.0.VNGMIXM-user-15.0-961fa604bb.zip
   region: Global
   versions:
-    android: '14.0'
-    miui: OS1.0.10.0.UNGMIXM
+    android: '15.0'
+    miui: OS2.0.4.0.VNGMIXM
 - branch: stable
   date: '2024-11-22'
   downloads:
@@ -6469,15 +6469,15 @@
     android: '14.0'
     miui: OS1.0.12.0.UNOEUXM
 - branch: stable
-  date: '2024-09-30'
+  date: '2024-12-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-30.09.2024/fw_zircon_miui_ZIRCONINGlobal_OS1.0.11.0.UNOINXM_7b516d091f_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zircon/fw_zircon_miui_ZIRCONINGlobal_OS1.0.11.0.UNOINXM_7b516d091f_14.0.zip
-  filename: fw_zircon_miui_ZIRCONINGlobal_OS1.0.11.0.UNOINXM_7b516d091f_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-13.12.2024/fw_zircon_miui_ZIRCONINGlobal_OS1.0.14.0.UNOINXM_bed06fc688_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zircon/fw_zircon_miui_ZIRCONINGlobal_OS1.0.14.0.UNOINXM_bed06fc688_14.0.zip
+  filename: fw_zircon_miui_ZIRCONINGlobal_OS1.0.14.0.UNOINXM_bed06fc688_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.11.0.UNOINXM
+    miui: OS1.0.14.0.UNOINXM
 - branch: stable
   date: '2024-12-02'
   downloads:

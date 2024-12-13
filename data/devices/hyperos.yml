@@ -2424,6 +2424,12 @@
   version: OS1.0.6.0.UMCEUXM
 - android: '14.0'
   codename: fuxi
+  date: '2024-12-13'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UMCEUXM/fw_fuxi_miui_FUXIEEAGlobal_OS1.0.10.0.UMCEUXM_d976b0852b_14.0.zip
+  name: Xiaomi 13
+  version: OS1.0.10.0.UMCEUXM
+- android: '14.0'
+  codename: fuxi
   date: '2024-01-12'
   download: https://bigota.d.miui.com/OS1.0.6.0.UMCCNXM/fw_fuxi_miui_FUXI_OS1.0.6.0.UMCCNXM_ded0db3571_14.0.zip
   name: Xiaomi 13
@@ -4696,6 +4702,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UNTEUXM/fw_moon_miui_MOONEEAGlobal_OS1.0.2.0.UNTEUXM_9d21153028_14.0.zip
   name: Redmi 13/POCO M6
   version: OS1.0.2.0.UNTEUXM
+- android: '15.0'
+  codename: moon
+  date: '2024-12-13'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VNTMIXM/fw_moon_global_moon_global-ota_full-OS2.0.2.0.VNTMIXM-user-15.0-f7ece4195a.zip
+  name: Redmi 13/POCO M6
+  version: OS2.0.2.0.VNTMIXM
 - android: '14.0'
   codename: moon
   date: '2024-06-12'
@@ -6922,6 +6934,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UNGMIXM/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.7.0.UNGMIXM_7cd51f6289_14.0.zip
   name: Redmi Note 13
   version: OS1.0.7.0.UNGMIXM
+- android: '15.0'
+  codename: sapphire
+  date: '2024-12-13'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VNGMIXM/fw_sapphire_global_sapphire_global-ota_full-OS2.0.4.0.VNGMIXM-user-15.0-961fa604bb.zip
+  name: Redmi Note 13
+  version: OS2.0.4.0.VNGMIXM
 - android: '14.0'
   codename: sapphire
   date: '2024-08-12'
@@ -9742,6 +9760,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNOCNXM/fw_zircon_miui_ZIRCON_OS1.0.4.0.UNOCNXM_97a8daff31_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.4.0.UNOCNXM
+- android: '14.0'
+  codename: zircon
+  date: '2024-12-13'
+  download: https://bigota.d.miui.com/OS1.0.14.0.UNOINXM/fw_zircon_miui_ZIRCONINGlobal_OS1.0.14.0.UNOINXM_bed06fc688_14.0.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS1.0.14.0.UNOINXM
 - android: '14.0'
   codename: zircon
   date: '2024-12-13'

@@ -56,29 +56,29 @@ permalink: /hyperos/sapphire/stable/OS1.0.7.0.UNHEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.0 GB</h5>
+                    <h5><b>Size: </b>4.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-10-22</h5>
+                    <h5><b>Release Date: </b>2024-11-06</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sapphiren_eea_global_images_OS1.0.7.0.UNHEUXM_20241022.0000.00_14.0_eea_4384bb2cd8.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_SAPPHIRENEEAGlobal_OS1.0.7.0.UNHEUXM_ad66423c2b_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">4384bb2cd82ea4ca68f519a2ff71bc0e</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ad66423c2b44709b220107194eae9787</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.7.0.UNHEUXM/sapphiren_eea_global_images_OS1.0.7.0.UNHEUXM_20241022.0000.00_14.0_eea_4384bb2cd8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.7.0.UNHEUXM/sapphiren_eea_global_images_OS1.0.7.0.UNHEUXM_20241022.0000.00_14.0_eea_4384bb2cd8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.7.0.UNHEUXM/sapphiren_eea_global_images_OS1.0.7.0.UNHEUXM_20241022.0000.00_14.0_eea_4384bb2cd8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.7.0.UNHEUXM/sapphiren_eea_global_images_OS1.0.7.0.UNHEUXM_20241022.0000.00_14.0_eea_4384bb2cd8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.7.0.UNHEUXM/sapphiren_eea_global_images_OS1.0.7.0.UNHEUXM_20241022.0000.00_14.0_eea_4384bb2cd8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.7.0.UNHEUXM/miui-blockota-sapphiren_eea_global-OS1.0.6.0.UNHEUXM-OS1.0.7.0.UNHEUXM-171d900d4d-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.7.0.UNHEUXM/miui_SAPPHIRENEEAGlobal_OS1.0.7.0.UNHEUXM_ad66423c2b_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.7.0.UNHEUXM/miui_SAPPHIRENEEAGlobal_OS1.0.7.0.UNHEUXM_ad66423c2b_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.7.0.UNHEUXM/miui_SAPPHIRENEEAGlobal_OS1.0.7.0.UNHEUXM_ad66423c2b_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.7.0.UNHEUXM/miui_SAPPHIRENEEAGlobal_OS1.0.7.0.UNHEUXM_ad66423c2b_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.7.0.UNHEUXM/miui_SAPPHIRENEEAGlobal_OS1.0.7.0.UNHEUXM_ad66423c2b_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#sapphiren_1_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="sapphiren_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="sapphiren_1_changelog">
-                        <p id="changelog_text">Bug fixes and system optimizations.</p>
+                        <p id="changelog_text">[System]<br>Updated the security patch to October 2024. Increased system security.</p>
                     </div>
                 </li>
             </ul>
@@ -99,29 +99,29 @@ permalink: /hyperos/sapphire/stable/OS1.0.7.0.UNHEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.5 GB</h5>
+                    <h5><b>Size: </b>7.0 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-11-06</h5>
+                    <h5><b>Release Date: </b>2024-10-22</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_SAPPHIRENEEAGlobal_OS1.0.7.0.UNHEUXM_ad66423c2b_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sapphiren_eea_global_images_OS1.0.7.0.UNHEUXM_20241022.0000.00_14.0_eea_4384bb2cd8.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">ad66423c2b44709b220107194eae9787</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">4384bb2cd82ea4ca68f519a2ff71bc0e</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.7.0.UNHEUXM/miui-blockota-sapphiren_eea_global-OS1.0.6.0.UNHEUXM-OS1.0.7.0.UNHEUXM-171d900d4d-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.7.0.UNHEUXM/miui_SAPPHIRENEEAGlobal_OS1.0.7.0.UNHEUXM_ad66423c2b_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.7.0.UNHEUXM/miui_SAPPHIRENEEAGlobal_OS1.0.7.0.UNHEUXM_ad66423c2b_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.7.0.UNHEUXM/miui_SAPPHIRENEEAGlobal_OS1.0.7.0.UNHEUXM_ad66423c2b_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.7.0.UNHEUXM/miui_SAPPHIRENEEAGlobal_OS1.0.7.0.UNHEUXM_ad66423c2b_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.7.0.UNHEUXM/miui_SAPPHIRENEEAGlobal_OS1.0.7.0.UNHEUXM_ad66423c2b_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.7.0.UNHEUXM/sapphiren_eea_global_images_OS1.0.7.0.UNHEUXM_20241022.0000.00_14.0_eea_4384bb2cd8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.7.0.UNHEUXM/sapphiren_eea_global_images_OS1.0.7.0.UNHEUXM_20241022.0000.00_14.0_eea_4384bb2cd8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.7.0.UNHEUXM/sapphiren_eea_global_images_OS1.0.7.0.UNHEUXM_20241022.0000.00_14.0_eea_4384bb2cd8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.7.0.UNHEUXM/sapphiren_eea_global_images_OS1.0.7.0.UNHEUXM_20241022.0000.00_14.0_eea_4384bb2cd8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.7.0.UNHEUXM/sapphiren_eea_global_images_OS1.0.7.0.UNHEUXM_20241022.0000.00_14.0_eea_4384bb2cd8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#sapphiren_2_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="sapphiren_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="sapphiren_2_changelog">
-                        <p id="changelog_text">[System]<br>Updated the security patch to October 2024. Increased system security.</p>
+                        <p id="changelog_text">Bug fixes and system optimizations.</p>
                     </div>
                 </li>
             </ul>
