@@ -62,11 +62,12 @@ permalink: /hyperos/degas/
 <tr><td>Xiaomi 14T Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UNEIDXM</td><td>14.0</td><td>5.8 GB</td><td>2024-12-05</td><td><a href="/hyperos/degas/stable/OS1.0.7.0.UNEIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UNERUXM</td><td>14.0</td><td>7.7 GB</td><td>2024-09-20</td><td><a href="/hyperos/degas/stable/OS1.0.3.0.UNERUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNERUXM</td><td>14.0</td><td>5.7 GB</td><td>2024-10-08</td><td><a href="/hyperos/degas/stable/OS1.0.3.0.UNERUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14T Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UNERUXM</td><td>14.0</td><td>5.6 GB</td><td>2024-09-26</td><td><a href="/hyperos/degas/stable beta/OS1.0.1.0.UNERUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.UNERUXM</td><td>14.0</td><td>5.7 GB</td><td>2024-12-11</td><td><a href="/hyperos/degas/stable beta/OS1.0.6.0.UNERUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UNETRXM</td><td>14.0</td><td>7.2 GB</td><td>2024-10-31</td><td><a href="/hyperos/degas/stable/OS1.0.5.0.UNETRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UNETRXM</td><td>14.0</td><td>5.8 GB</td><td>2024-11-06</td><td><a href="/hyperos/degas/stable/OS1.0.5.0.UNETRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UNETWXM</td><td>14.0</td><td>6.9 GB</td><td>2024-10-31</td><td><a href="/hyperos/degas/stable/OS1.0.5.0.UNETWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UNETWXM</td><td>14.0</td><td>5.7 GB</td><td>2024-11-06</td><td><a href="/hyperos/degas/stable/OS1.0.5.0.UNETWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.UNETWXM</td><td>14.0</td><td>5.7 GB</td><td>2024-12-11</td><td><a href="/hyperos/degas/stable beta/OS1.0.6.0.UNETWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
