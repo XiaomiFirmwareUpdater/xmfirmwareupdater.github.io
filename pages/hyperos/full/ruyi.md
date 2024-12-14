@@ -52,7 +52,10 @@ permalink: /archive/hyperos/ruyi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>MIX Flip EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UNIEUXM</td><td>14.0</td><td>6.5 GB</td><td>2024-11-14</td><td><a href="/hyperos/ruyi/stable/OS1.0.11.0.UNIEUXM/">Download</a></td></tr>
+                <tr><td>MIX Flip EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.12.0.UNIEUXM</td><td>14.0</td><td>6.5 GB</td><td>2024-12-13</td><td><a href="/hyperos/ruyi/stable beta/OS1.0.12.0.UNIEUXM/">Download</a></td></tr>
+<tr><td>MIX Flip Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.11.0.UNITWXM</td><td>14.0</td><td>6.4 GB</td><td>2024-12-13</td><td><a href="/hyperos/ruyi/stable beta/OS1.0.11.0.UNITWXM/">Download</a></td></tr>
+<tr><td>MIX Flip Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.8.0.UNIRUXM</td><td>14.0</td><td>6.4 GB</td><td>2024-12-13</td><td><a href="/hyperos/ruyi/stable beta/OS1.0.8.0.UNIRUXM/">Download</a></td></tr>
+<tr><td>MIX Flip EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UNIEUXM</td><td>14.0</td><td>6.5 GB</td><td>2024-11-14</td><td><a href="/hyperos/ruyi/stable/OS1.0.11.0.UNIEUXM/">Download</a></td></tr>
 <tr><td>MIX Flip EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UNIEUXM</td><td>14.0</td><td>7.4 GB</td><td>2024-11-08</td><td><a href="/hyperos/ruyi/stable/OS1.0.11.0.UNIEUXM/">Download</a></td></tr>
 <tr><td>MIX Flip Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.UNITWXM</td><td>14.0</td><td>6.4 GB</td><td>2024-11-14</td><td><a href="/hyperos/ruyi/stable/OS1.0.10.0.UNITWXM/">Download</a></td></tr>
 <tr><td>MIX Flip Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.UNITWXM</td><td>14.0</td><td>7.5 GB</td><td>2024-11-04</td><td><a href="/hyperos/ruyi/stable/OS1.0.10.0.UNITWXM/">Download</a></td></tr>

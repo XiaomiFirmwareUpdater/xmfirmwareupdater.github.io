@@ -59,6 +59,16 @@
     android: '14.0'
     miui: OS1.0.11.0.UNICNXM
 - branch: stable
+  date: '2024-12-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-14.12.2024/fw_ruyi_miui_RUYIEEAGlobal_OS1.0.12.0.UNIEUXM_fa8441367b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruyi/fw_ruyi_miui_RUYIEEAGlobal_OS1.0.12.0.UNIEUXM_fa8441367b_14.0.zip
+  filename: fw_ruyi_miui_RUYIEEAGlobal_OS1.0.12.0.UNIEUXM_fa8441367b_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.12.0.UNIEUXM
+- branch: stable
   date: '2024-11-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-14.11.2024/fw_ruyi_miui_RUYIEEAGlobal_OS1.0.11.0.UNIEUXM_8d680cd5e6_14.0.zip
