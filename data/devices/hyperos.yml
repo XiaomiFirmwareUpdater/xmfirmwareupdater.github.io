@@ -6168,6 +6168,12 @@
   version: OS1.0.3.0.UMSCNXM
 - android: '14.0'
   codename: redwood
+  date: '2024-12-14'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UMSINXM/fw_redwood_miui_REDWOODINGlobal_OS1.0.10.0.UMSINXM_a8933942c3_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.10.0.UMSINXM
+- android: '14.0'
+  codename: redwood
   date: '2024-08-12'
   download: https://bigota.d.miui.com/OS1.0.8.0.UMSCNXM/fw_redwood_miui_REDWOOD_OS1.0.8.0.UMSCNXM_5c8d46f15f_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
