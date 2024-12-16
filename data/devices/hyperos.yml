@@ -222,6 +222,12 @@
   version: OS1.0.13.0.UOPCNXM
 - android: '14.0'
   codename: amethyst
+  date: '2024-12-16'
+  download: https://bigota.d.miui.com/OS1.0.23.0.UOPCNXM/fw_amethyst_miui_AMETHYST_OS1.0.23.0.UOPCNXM_c27907cd54_14.0.zip
+  name: Redmi Note 14 Pro+ 5G
+  version: OS1.0.23.0.UOPCNXM
+- android: '14.0'
+  codename: amethyst
   date: '2024-10-05'
   download: https://bigota.d.miui.com/OS1.0.15.0.UOPCNXM/fw_amethyst_miui_AMETHYST_OS1.0.15.0.UOPCNXM_25d98c8903_14.0.zip
   name: Redmi Note 14 Pro+ 5G
@@ -970,6 +976,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.ULCEUXM/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.10.0.ULCEUXM_4bac834d6c_14.0.zip
   name: Xiaomi 12
   version: OS1.0.10.0.ULCEUXM
+- android: '14.0'
+  codename: cupid
+  date: '2024-12-16'
+  download: https://bigota.d.miui.com/OS1.0.11.0.ULCCNXM/fw_cupid_miui_CUPID_OS1.0.11.0.ULCCNXM_9a494253a0_14.0.zip
+  name: Xiaomi 12
+  version: OS1.0.11.0.ULCCNXM
 - android: '14.0'
   codename: cupid
   date: '2024-04-15'
@@ -3322,6 +3334,18 @@
   download: https://bigota.d.miui.com/OS1.0.36.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.36.0.UNCCNXM_54ab2de231_14.0.zip
   name: Xiaomi 14
   version: OS1.0.36.0.UNCCNXM
+- android: '15.0'
+  codename: houji
+  date: '2024-12-16'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VNCMIXM/fw_houji_global_houji_global-ota_full-OS2.0.6.0.VNCMIXM-user-15.0-4b6e42f980.zip
+  name: Xiaomi 14
+  version: OS2.0.6.0.VNCMIXM
+- android: '15.0'
+  codename: houji
+  date: '2024-12-16'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VNCINXM/fw_houji_in_global_houji_in_global-ota_full-OS2.0.4.0.VNCINXM-user-15.0-bd3cfcb89d.zip
+  name: Xiaomi 14
+  version: OS2.0.4.0.VNCINXM
 - android: '14.0'
   codename: houji
   date: '2023-11-15'
@@ -4474,6 +4498,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULTCNXM/fw_mayfly_miui_MAYFLY_OS1.0.3.0.ULTCNXM_2d7643fb8d_14.0.zip
   name: Xiaomi 12S
   version: OS1.0.3.0.ULTCNXM
+- android: '14.0'
+  codename: mayfly
+  date: '2024-12-16'
+  download: https://bigota.d.miui.com/OS1.0.12.0.ULTCNXM/fw_mayfly_miui_MAYFLY_OS1.0.12.0.ULTCNXM_b3b343b184_14.0.zip
+  name: Xiaomi 12S
+  version: OS1.0.12.0.ULTCNXM
 - android: '14.0'
   codename: mayfly
   date: '2024-11-15'
@@ -6154,6 +6184,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UMSCNXM/fw_redwood_miui_REDWOOD_OS1.0.9.0.UMSCNXM_0884d94b1b_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: OS1.0.9.0.UMSCNXM
+- android: '14.0'
+  codename: redwood
+  date: '2024-12-16'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UMSCNXM/fw_redwood_miui_REDWOOD_OS1.0.13.0.UMSCNXM_4105490343_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.13.0.UMSCNXM
 - android: '14.0'
   codename: redwood
   date: '2024-10-15'
@@ -8778,6 +8814,12 @@
   version: OS1.0.5.0.TKCMIXM
 - android: '13.0'
   codename: veux
+  date: '2024-12-16'
+  download: https://bigota.d.miui.com/OS1.0.12.0.TKCMIXM/fw_veux_miui_VEUXGlobal_OS1.0.12.0.TKCMIXM_c42114b47d_13.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: OS1.0.12.0.TKCMIXM
+- android: '13.0'
+  codename: veux
   date: '2024-08-15'
   download: https://bigota.d.miui.com/OS1.0.2.0.TKCINXM/fw_veux_miui_VEUXINGlobal_OS1.0.2.0.TKCINXM_2e7fa14cdf_13.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
@@ -8902,6 +8944,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UKDINXM/fw_vili_miui_VILIINGlobal_OS1.0.5.0.UKDINXM_a8f176f44b_14.0.zip
   name: Xiaomi 11T Pro
   version: OS1.0.5.0.UKDINXM
+- android: '14.0'
+  codename: vili
+  date: '2024-12-16'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UKDINXM/fw_vili_miui_VILIINGlobal_OS1.0.8.0.UKDINXM_d5b97bfaf3_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.8.0.UKDINXM
 - android: '14.0'
   codename: vili
   date: '2024-11-16'
