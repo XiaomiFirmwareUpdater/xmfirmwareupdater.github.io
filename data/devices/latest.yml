@@ -3359,15 +3359,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2024-10-21'
+  date: '2024-12-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-21.10.2024/fw_mondrian_miui_MONDRIANGlobal_OS1.0.10.0.UMNMIXM_c4e529f742_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/mondrian/fw_mondrian_miui_MONDRIANGlobal_OS1.0.10.0.UMNMIXM_c4e529f742_14.0.zip
-  filename: fw_mondrian_miui_MONDRIANGlobal_OS1.0.10.0.UMNMIXM_c4e529f742_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-16.12.2024/fw_mondrian_miui_MONDRIANGlobal_OS1.0.13.0.UMNMIXM_861fc607d6_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/mondrian/fw_mondrian_miui_MONDRIANGlobal_OS1.0.13.0.UMNMIXM_861fc607d6_14.0.zip
+  filename: fw_mondrian_miui_MONDRIANGlobal_OS1.0.13.0.UMNMIXM_861fc607d6_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.10.0.UMNMIXM
+    miui: OS1.0.13.0.UMNMIXM
 - branch: stable
   date: '2024-12-09'
   downloads:
@@ -3379,15 +3379,15 @@
     android: '14.0'
     miui: OS1.0.16.0.UMNCNXM
 - branch: stable
-  date: '2024-11-11'
+  date: '2024-12-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-11.11.2024/fw_mondrian_miui_MONDRIANEEAGlobal_OS1.0.9.0.UMNEUXM_b01db88935_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/mondrian/fw_mondrian_miui_MONDRIANEEAGlobal_OS1.0.9.0.UMNEUXM_b01db88935_14.0.zip
-  filename: fw_mondrian_miui_MONDRIANEEAGlobal_OS1.0.9.0.UMNEUXM_b01db88935_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-16.12.2024/fw_mondrian_miui_MONDRIANEEAGlobal_OS1.0.10.0.UMNEUXM_698c6f676a_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/mondrian/fw_mondrian_miui_MONDRIANEEAGlobal_OS1.0.10.0.UMNEUXM_698c6f676a_14.0.zip
+  filename: fw_mondrian_miui_MONDRIANEEAGlobal_OS1.0.10.0.UMNEUXM_698c6f676a_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.9.0.UMNEUXM
+    miui: OS1.0.10.0.UMNEUXM
 - branch: stable
   date: '2022-11-17'
   downloads:
@@ -3499,15 +3499,15 @@
     android: '14.0'
     miui: OS1.0.5.0.ULMINXM
 - branch: stable
-  date: '2024-12-02'
+  date: '2024-12-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_muyu/releases/download/stable-02.12.2024/fw_muyu_muyu-ota_full-OS2.0.8.0.VOYCNXM-user-15.0-4d431cf6ca.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/muyu/fw_muyu_muyu-ota_full-OS2.0.8.0.VOYCNXM-user-15.0-4d431cf6ca.zip
-  filename: fw_muyu_muyu-ota_full-OS2.0.8.0.VOYCNXM-user-15.0-4d431cf6ca.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_muyu/releases/download/stable-16.12.2024/fw_muyu_muyu-ota_full-OS2.0.11.0.VOYCNXM-user-15.0-3a530d04cf.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/muyu/fw_muyu_muyu-ota_full-OS2.0.11.0.VOYCNXM-user-15.0-3a530d04cf.zip
+  filename: fw_muyu_muyu-ota_full-OS2.0.11.0.VOYCNXM-user-15.0-3a530d04cf.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.8.0.VOYCNXM
+    miui: OS2.0.11.0.VOYCNXM
 - branch: stable
   date: '2024-10-08'
   downloads:
@@ -4289,15 +4289,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2024-10-22'
+  date: '2024-12-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-22.10.2024/fw_psyche_miui_PSYCHEGlobal_OS1.0.6.0.TLDMIXM_ca01b78cad_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/psyche/fw_psyche_miui_PSYCHEGlobal_OS1.0.6.0.TLDMIXM_ca01b78cad_13.0.zip
-  filename: fw_psyche_miui_PSYCHEGlobal_OS1.0.6.0.TLDMIXM_ca01b78cad_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-16.12.2024/fw_psyche_miui_PSYCHEGlobal_OS1.0.8.0.TLDMIXM_73cbb5a32b_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/psyche/fw_psyche_miui_PSYCHEGlobal_OS1.0.8.0.TLDMIXM_73cbb5a32b_13.0.zip
+  filename: fw_psyche_miui_PSYCHEGlobal_OS1.0.8.0.TLDMIXM_73cbb5a32b_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: OS1.0.6.0.TLDMIXM
+    miui: OS1.0.8.0.TLDMIXM
 - branch: stable
   date: '2024-10-22'
   downloads:
@@ -4319,15 +4319,15 @@
     android: '12.0'
     miui: 22.3.24
 - branch: stable
-  date: '2024-10-28'
+  date: '2024-12-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-28.10.2024/fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.7.0.TLDEUXM_dc40f6ad9b_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/psyche/fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.7.0.TLDEUXM_dc40f6ad9b_13.0.zip
-  filename: fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.7.0.TLDEUXM_dc40f6ad9b_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-16.12.2024/fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.8.0.TLDEUXM_70eef7e1f1_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/psyche/fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.8.0.TLDEUXM_70eef7e1f1_13.0.zip
+  filename: fw_psyche_miui_PSYCHEEEAGlobal_OS1.0.8.0.TLDEUXM_70eef7e1f1_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: OS1.0.7.0.TLDEUXM
+    miui: OS1.0.8.0.TLDEUXM
 - branch: stable
   date: '2021-07-23'
   downloads:
@@ -4969,15 +4969,15 @@
     android: '14.0'
     miui: OS1.0.9.0.UNHMIXM
 - branch: stable
-  date: '2024-12-09'
+  date: '2024-12-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphiren/releases/download/stable-09.12.2024/fw_sapphiren_miui_SAPPHIRENEEAGlobal_OS1.0.9.0.UNHEUXM_dcd26bdc36_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sapphiren/fw_sapphiren_miui_SAPPHIRENEEAGlobal_OS1.0.9.0.UNHEUXM_dcd26bdc36_14.0.zip
-  filename: fw_sapphiren_miui_SAPPHIRENEEAGlobal_OS1.0.9.0.UNHEUXM_dcd26bdc36_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphiren/releases/download/stable-16.12.2024/fw_sapphiren_eea_global_sapphiren_eea_global-ota_full-OS2.0.1.0.VNHEUXM-user-15.0-7748d00071.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sapphiren/fw_sapphiren_eea_global_sapphiren_eea_global-ota_full-OS2.0.1.0.VNHEUXM-user-15.0-7748d00071.zip
+  filename: fw_sapphiren_eea_global_sapphiren_eea_global-ota_full-OS2.0.1.0.VNHEUXM-user-15.0-7748d00071.zip
   region: Europe
   versions:
-    android: '14.0'
-    miui: OS1.0.9.0.UNHEUXM
+    android: '15.0'
+    miui: OS2.0.1.0.VNHEUXM
 - branch: stable
   date: '2019-11-06'
   downloads:
@@ -5089,15 +5089,15 @@
     android: '15.0'
     miui: OS2.0.6.0.VNXMIXM
 - branch: stable
-  date: '2024-11-21'
+  date: '2024-12-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sheng/releases/download/stable-21.11.2024/fw_sheng_sheng-ota_full-OS2.0.2.0.VNXCNXM-user-15.0-c1cdedf39b.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sheng/fw_sheng_sheng-ota_full-OS2.0.2.0.VNXCNXM-user-15.0-c1cdedf39b.zip
-  filename: fw_sheng_sheng-ota_full-OS2.0.2.0.VNXCNXM-user-15.0-c1cdedf39b.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sheng/releases/download/stable-16.12.2024/fw_sheng_sheng-ota_full-OS2.0.3.0.VNXCNXM-user-15.0-1c0f3fff6c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sheng/fw_sheng_sheng-ota_full-OS2.0.3.0.VNXCNXM-user-15.0-1c0f3fff6c.zip
+  filename: fw_sheng_sheng-ota_full-OS2.0.3.0.VNXCNXM-user-15.0-1c0f3fff6c.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.2.0.VNXCNXM
+    miui: OS2.0.3.0.VNXCNXM
 - branch: stable
   date: '2024-12-06'
   downloads:
