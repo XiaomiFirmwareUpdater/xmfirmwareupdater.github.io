@@ -52,7 +52,11 @@ permalink: /archive/hyperos/psyche/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12X EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.TLDEUXM</td><td>13.0</td><td>3.9 GB</td><td>2024-10-25</td><td><a href="/hyperos/psyche/stable/OS1.0.7.0.TLDEUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12X EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.8.0.TLDEUXM</td><td>13.0</td><td>3.9 GB</td><td>2024-12-11</td><td><a href="/hyperos/psyche/stable beta/OS1.0.8.0.TLDEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12X Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.TLDTWXM</td><td>13.0</td><td>3.9 GB</td><td>2024-12-11</td><td><a href="/hyperos/psyche/stable beta/OS1.0.6.0.TLDTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12X Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.8.0.TLDMIXM</td><td>13.0</td><td>3.9 GB</td><td>2024-12-10</td><td><a href="/hyperos/psyche/stable beta/OS1.0.8.0.TLDMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12X Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.TLDRUXM</td><td>13.0</td><td>4.0 GB</td><td>2024-12-10</td><td><a href="/hyperos/psyche/stable beta/OS1.0.7.0.TLDRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12X EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.TLDEUXM</td><td>13.0</td><td>3.9 GB</td><td>2024-10-25</td><td><a href="/hyperos/psyche/stable/OS1.0.7.0.TLDEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.TLDEUXM</td><td>13.0</td><td>5.6 GB</td><td>2024-10-14</td><td><a href="/hyperos/psyche/stable/OS1.0.7.0.TLDEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.TLDRUXM</td><td>13.0</td><td>4.0 GB</td><td>2024-10-25</td><td><a href="/hyperos/psyche/stable/OS1.0.6.0.TLDRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.TLDRUXM</td><td>13.0</td><td>5.6 GB</td><td>2024-10-14</td><td><a href="/hyperos/psyche/stable/OS1.0.6.0.TLDRUXM/">Download</a></td></tr>
@@ -97,8 +101,8 @@ permalink: /archive/hyperos/psyche/
 <tr><td>Xiaomi 12X Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.TLDRUXM</td><td>13.0</td><td>5.7 GB</td><td>2024-05-06</td><td><a href="/hyperos/psyche/stable/OS1.0.2.0.TLDRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TLDEUXM</td><td>13.0</td><td>4.1 GB</td><td>2024-04-10</td><td><a href="/hyperos/psyche/stable/OS1.0.1.0.TLDEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.TLDEUXM</td><td>13.0</td><td>5.7 GB</td><td>2024-03-12</td><td><a href="/hyperos/psyche/stable/OS1.0.1.0.TLDEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12X Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TLDTWXM</td><td>13.0</td><td>4.0 GB</td><td>2024-04-10</td><td><a href="/hyperos/psyche/stable/OS1.0.1.0.TLDTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.TLDTWXM</td><td>13.0</td><td>5.2 GB</td><td>2024-03-20</td><td><a href="/hyperos/psyche/stable/OS1.0.1.0.TLDTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12X Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TLDTWXM</td><td>13.0</td><td>4.0 GB</td><td>2024-04-10</td><td><a href="/hyperos/psyche/stable/OS1.0.1.0.TLDTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.TLDRUXM</td><td>13.0</td><td>5.7 GB</td><td>2024-03-13</td><td><a href="/hyperos/psyche/stable/OS1.0.1.0.TLDRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TLDRUXM</td><td>13.0</td><td>4.0 GB</td><td>2024-04-03</td><td><a href="/hyperos/psyche/stable/OS1.0.1.0.TLDRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.TLDCNXM</td><td>13.0</td><td>4.0 GB</td><td>2024-01-29</td><td><a href="/hyperos/psyche/stable/OS1.0.2.0.TLDCNXM/">Download</a></td></tr>

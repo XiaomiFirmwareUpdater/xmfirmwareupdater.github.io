@@ -1188,6 +1188,12 @@
   version: OS1.0.3.0.ULGCNXM
 - android: '14.0'
   codename: daumier
+  date: '2024-12-16'
+  download: https://bigota.d.miui.com/OS1.0.12.0.ULGCNXM/fw_daumier_miui_DAUMIER_OS1.0.12.0.ULGCNXM_54a7f7228e_14.0.zip
+  name: Xiaomi 12 Pro Dimensity
+  version: OS1.0.12.0.ULGCNXM
+- android: '14.0'
+  codename: daumier
   date: '2024-10-16'
   download: https://bigota.d.miui.com/OS1.0.9.0.ULGCNXM/fw_daumier_miui_DAUMIER_OS1.0.9.0.ULGCNXM_6ce5b67b3c_14.0.zip
   name: Xiaomi 12 Pro Dimensity
@@ -1372,6 +1378,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.ULFMIXM/fw_diting_miui_DITINGGlobal_OS1.0.6.0.ULFMIXM_4edbe14bc2_14.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: OS1.0.6.0.ULFMIXM
+- android: '14.0'
+  codename: diting
+  date: '2024-12-16'
+  download: https://bigota.d.miui.com/OS1.0.13.0.ULFEUXM/fw_diting_miui_DITINGEEAGlobal_OS1.0.13.0.ULFEUXM_bb0ae9824d_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.13.0.ULFEUXM
 - android: '14.0'
   codename: diting
   date: '2024-04-16'
@@ -1642,6 +1654,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNLMIXM/fw_duchamp_miui_DUCHAMPGlobal_OS1.0.4.0.UNLMIXM_b6144d1e98_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS1.0.4.0.UNLMIXM
+- android: '15.0'
+  codename: duchamp
+  date: '2024-12-16'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VNLCNXM/fw_duchamp_duchamp-ota_full-OS2.0.3.0.VNLCNXM-user-15.0-3c95a2bbd6.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS2.0.3.0.VNLCNXM
 - android: '14.0'
   codename: duchamp
   date: '2023-12-15'
@@ -2536,6 +2554,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UGPEUXM/fw_gale_miui_GALEEEAGlobal_OS1.0.5.0.UGPEUXM_331f60c580_14.0.zip
   name: Redmi 13C/POCO C65
   version: OS1.0.5.0.UGPEUXM
+- android: '15.0'
+  codename: gale
+  date: '2024-12-16'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VGPMIXM/fw_gale_global_gale_global-ota_full-OS2.0.2.0.VGPMIXM-user-15.0-95ffe4c9a3.zip
+  name: Redmi 13C/POCO C65
+  version: OS2.0.2.0.VGPMIXM
 - android: '14.0'
   codename: gale
   date: '2024-09-11'
@@ -4464,6 +4488,12 @@
   version: OS1.0.2.0.ULKCNXM
 - android: '14.0'
   codename: matisse
+  date: '2024-12-16'
+  download: https://bigota.d.miui.com/OS1.0.15.0.ULKCNXM/fw_matisse_miui_MATISSE_OS1.0.15.0.ULKCNXM_d366fee66a_14.0.zip
+  name: Redmi K50 Pro
+  version: OS1.0.15.0.ULKCNXM
+- android: '14.0'
+  codename: matisse
   date: '2024-10-16'
   download: https://bigota.d.miui.com/OS1.0.12.0.ULKCNXM/fw_matisse_miui_MATISSE_OS1.0.12.0.ULKCNXM_d45483b061_14.0.zip
   name: Redmi K50 Pro
@@ -5956,6 +5986,18 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.ULQEUXM/fw_plato_miui_PLATOEEAGlobal_OS1.0.8.0.ULQEUXM_751280393d_14.0.zip
   name: Xiaomi 12T
   version: OS1.0.8.0.ULQEUXM
+- android: '14.0'
+  codename: plato
+  date: '2024-12-16'
+  download: https://bigota.d.miui.com/OS1.0.16.0.ULQEUXM/fw_plato_miui_PLATOEEAGlobal_OS1.0.16.0.ULQEUXM_09be0f0549_14.0.zip
+  name: Xiaomi 12T
+  version: OS1.0.16.0.ULQEUXM
+- android: '14.0'
+  codename: plato
+  date: '2024-12-16'
+  download: https://bigota.d.miui.com/OS1.0.14.0.ULQMIXM/fw_plato_miui_PLATOGlobal_OS1.0.14.0.ULQMIXM_cf24459620_14.0.zip
+  name: Xiaomi 12T
+  version: OS1.0.14.0.ULQMIXM
 - android: '14.0'
   codename: plato
   date: '2024-07-16'
@@ -7680,6 +7722,12 @@
   version: OS1.0.3.0.UMKCNXM
 - android: '14.0'
   codename: socrates
+  date: '2024-12-16'
+  download: https://bigota.d.miui.com/OS1.0.16.0.UMKCNXM/fw_socrates_miui_SOCRATES_OS1.0.16.0.UMKCNXM_d791351f8d_14.0.zip
+  name: Redmi K60 Pro
+  version: OS1.0.16.0.UMKCNXM
+- android: '14.0'
+  codename: socrates
   date: '2024-01-12'
   download: https://bigota.d.miui.com/OS1.0.4.0.UMKCNXM/fw_socrates_miui_SOCRATES_OS1.0.4.0.UMKCNXM_57d472fecf_14.0.zip
   name: Redmi K60 Pro
@@ -9124,6 +9172,18 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.ULOMIXM/fw_xaga_miui_XAGAGlobal_OS1.0.1.0.ULOMIXM_26ddf1e698_14.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: OS1.0.1.0.ULOMIXM
+- android: '14.0'
+  codename: xaga
+  date: '2024-12-16'
+  download: https://bigota.d.miui.com/OS1.0.8.0.ULOEUXM/fw_xaga_miui_XAGAEEAGlobal_OS1.0.8.0.ULOEUXM_b30e21bbd0_14.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS1.0.8.0.ULOEUXM
+- android: '14.0'
+  codename: xaga
+  date: '2024-12-16'
+  download: https://bigota.d.miui.com/OS1.0.7.0.ULOMIXM/fw_xaga_miui_XAGAGlobal_OS1.0.7.0.ULOMIXM_bb583c2203_14.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS1.0.7.0.ULOMIXM
 - android: '14.0'
   codename: xaga
   date: '2024-11-15'

@@ -55,6 +55,7 @@ permalink: /hyperos/daumier/
                 <tr><td>Xiaomi 12 Pro Dimensity China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.ULGCNXM</td><td>14.0</td><td>7.5 GB</td><td>2024-10-25</td><td><a href="/hyperos/daumier/stable/OS1.0.10.0.ULGCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Dimensity China</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.ULGCNXM</td><td>14.0</td><td>6.1 GB</td><td>2024-11-08</td><td><a href="/hyperos/daumier/stable/OS1.0.10.0.ULGCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Dimensity China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>6.1 GB</td><td>2024-01-12</td><td><a href="/hyperos/daumier/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Pro Dimensity China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.12.0.ULGCNXM</td><td>14.0</td><td>6.1 GB</td><td>2024-12-12</td><td><a href="/hyperos/daumier/stable beta/OS1.0.12.0.ULGCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
