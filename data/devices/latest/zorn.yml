@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2024-11-30'
+  date: '2024-12-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zorn/releases/download/stable-01.12.2024/fw_zorn_zorn-ota_full-OS2.0.9.0.VOKCNXM-user-15.0-39f58e5e5a.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zorn/fw_zorn_zorn-ota_full-OS2.0.9.0.VOKCNXM-user-15.0-39f58e5e5a.zip
-  filename: fw_zorn_zorn-ota_full-OS2.0.9.0.VOKCNXM-user-15.0-39f58e5e5a.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zorn/releases/download/stable-17.12.2024/fw_zorn_zorn-ota_full-OS2.0.12.0.VOKCNXM-user-15.0-44c050c43e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zorn/fw_zorn_zorn-ota_full-OS2.0.12.0.VOKCNXM-user-15.0-44c050c43e.zip
+  filename: fw_zorn_zorn-ota_full-OS2.0.12.0.VOKCNXM-user-15.0-44c050c43e.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.9.0.VOKCNXM
+    miui: OS2.0.12.0.VOKCNXM
