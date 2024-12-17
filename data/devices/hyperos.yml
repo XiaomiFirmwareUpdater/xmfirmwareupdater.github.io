@@ -6640,6 +6640,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UFSINXM/fw_ruan_miui_RUANINGlobal_OS1.0.1.0.UFSINXM_42dad36ffb_14.0.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS1.0.1.0.UFSINXM
+- android: '15.0'
+  codename: ruan
+  date: '2024-12-17'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VFSEUXM/fw_ruan_eea_global_ruan_eea_global-ota_full-OS2.0.2.0.VFSEUXM-user-15.0-367d14e9f3.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS2.0.2.0.VFSEUXM
 - android: '14.0'
   codename: ruan
   date: '2024-10-16'
@@ -7006,6 +7012,12 @@
   download: https://bigota.d.miui.com/OS1.0.11.0.UNICNXM/fw_ruyi_miui_RUYI_OS1.0.11.0.UNICNXM_3daab9578e_14.0.zip
   name: MIX Flip
   version: OS1.0.11.0.UNICNXM
+- android: '14.0'
+  codename: ruyi
+  date: '2024-12-17'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UNIMIXM/fw_ruyi_miui_RUYIGlobal_OS1.0.13.0.UNIMIXM_31a0687fe2_14.0.zip
+  name: MIX Flip
+  version: OS1.0.13.0.UNIMIXM
 - android: '14.0'
   codename: ruyi
   date: '2024-12-14'
@@ -9154,6 +9166,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UGVINXM/fw_warm_miui_WARMINGlobal_OS1.0.4.0.UGVINXM_7751a0c4a1_14.0.zip
   name: Redmi A4 5G/POCO C75 5G
   version: OS1.0.4.0.UGVINXM
+- android: '14.0'
+  codename: warm
+  date: '2024-12-17'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UGVINXM/fw_warm_miui_WARMINGlobal_OS1.0.7.0.UGVINXM_f5f6ddf889_14.0.zip
+  name: Redmi A4 5G/POCO C75 5G
+  version: OS1.0.7.0.UGVINXM
 - android: '14.0'
   codename: warm
   date: '2024-12-03'

@@ -4739,15 +4739,15 @@
     android: '14.0'
     miui: OS1.0.8.0.UFSCNXM
 - branch: stable
-  date: '2024-12-11'
+  date: '2024-12-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-11.12.2024/fw_ruan_miui_RUANEEAGlobal_OS1.0.9.0.UFSEUXM_633a0d0c02_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruan/fw_ruan_miui_RUANEEAGlobal_OS1.0.9.0.UFSEUXM_633a0d0c02_14.0.zip
-  filename: fw_ruan_miui_RUANEEAGlobal_OS1.0.9.0.UFSEUXM_633a0d0c02_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-17.12.2024/fw_ruan_eea_global_ruan_eea_global-ota_full-OS2.0.2.0.VFSEUXM-user-15.0-367d14e9f3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruan/fw_ruan_eea_global_ruan_eea_global-ota_full-OS2.0.2.0.VFSEUXM-user-15.0-367d14e9f3.zip
+  filename: fw_ruan_eea_global_ruan_eea_global-ota_full-OS2.0.2.0.VFSEUXM-user-15.0-367d14e9f3.zip
   region: Europe
   versions:
-    android: '14.0'
-    miui: OS1.0.9.0.UFSEUXM
+    android: '15.0'
+    miui: OS2.0.2.0.VFSEUXM
 - branch: stable
   date: '2024-11-30'
   downloads:
@@ -4809,15 +4809,15 @@
     android: '14.0'
     miui: OS1.0.8.0.UMOINXM
 - branch: stable
-  date: '2024-11-12'
+  date: '2024-12-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-12.11.2024/fw_ruyi_miui_RUYIGlobal_OS1.0.12.0.UNIMIXM_7670240b73_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruyi/fw_ruyi_miui_RUYIGlobal_OS1.0.12.0.UNIMIXM_7670240b73_14.0.zip
-  filename: fw_ruyi_miui_RUYIGlobal_OS1.0.12.0.UNIMIXM_7670240b73_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-17.12.2024/fw_ruyi_miui_RUYIGlobal_OS1.0.13.0.UNIMIXM_31a0687fe2_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruyi/fw_ruyi_miui_RUYIGlobal_OS1.0.13.0.UNIMIXM_31a0687fe2_14.0.zip
+  filename: fw_ruyi_miui_RUYIGlobal_OS1.0.13.0.UNIMIXM_31a0687fe2_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.12.0.UNIMIXM
+    miui: OS1.0.13.0.UNIMIXM
 - branch: stable
   date: '2024-11-13'
   downloads:
@@ -6089,15 +6089,15 @@
     android: '13.0'
     miui: OS1.0.3.0.TGDEUXM
 - branch: stable
-  date: '2024-12-03'
+  date: '2024-12-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warm/releases/download/stable-03.12.2024/fw_warm_miui_WARMINGlobal_OS1.0.5.0.UGVINXM_4353e221a6_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/warm/fw_warm_miui_WARMINGlobal_OS1.0.5.0.UGVINXM_4353e221a6_14.0.zip
-  filename: fw_warm_miui_WARMINGlobal_OS1.0.5.0.UGVINXM_4353e221a6_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warm/releases/download/stable-17.12.2024/fw_warm_miui_WARMINGlobal_OS1.0.7.0.UGVINXM_f5f6ddf889_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/warm/fw_warm_miui_WARMINGlobal_OS1.0.7.0.UGVINXM_f5f6ddf889_14.0.zip
+  filename: fw_warm_miui_WARMINGlobal_OS1.0.7.0.UGVINXM_f5f6ddf889_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UGVINXM
+    miui: OS1.0.7.0.UGVINXM
 - branch: stable
   date: '2024-11-22'
   downloads:
