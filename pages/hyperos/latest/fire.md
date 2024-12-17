@@ -63,9 +63,9 @@ permalink: /hyperos/fire/
 <tr><td>Redmi 12 India</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UMXINXM</td><td>14.0</td><td>4.3 GB</td><td>2024-10-28</td><td><a href="/hyperos/fire/stable/OS1.0.5.0.UMXINXM/">Download</a></td></tr>
 <tr><td>Redmi 12 Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UMXRUXM</td><td>14.0</td><td>6.8 GB</td><td>2024-11-11</td><td><a href="/hyperos/fire/stable/OS1.0.8.0.UMXRUXM/">Download</a></td></tr>
 <tr><td>Redmi 12 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UMXRUXM</td><td>14.0</td><td>4.3 GB</td><td>2024-11-21</td><td><a href="/hyperos/fire/stable/OS1.0.8.0.UMXRUXM/">Download</a></td></tr>
+<tr><td>Redmi 12 Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.VMXRUXM</td><td>15.0</td><td>4.5 GB</td><td>2024-12-13</td><td><a href="/hyperos/fire/stable beta/OS2.0.1.0.VMXRUXM/">Download</a></td></tr>
 <tr><td>Redmi 12 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UMXTRXM</td><td>14.0</td><td>6.0 GB</td><td>2024-11-11</td><td><a href="/hyperos/fire/stable/OS1.0.7.0.UMXTRXM/">Download</a></td></tr>
 <tr><td>Redmi 12 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UMXTRXM</td><td>14.0</td><td>4.3 GB</td><td>2024-11-21</td><td><a href="/hyperos/fire/stable/OS1.0.7.0.UMXTRXM/">Download</a></td></tr>
-<tr><td>Redmi 12 Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.VMXRUXM</td><td>15.0</td><td>4.5 GB</td><td>2024-12-13</td><td><a href="/hyperos/fire/stable beta/OS2.0.1.0.VMXRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
