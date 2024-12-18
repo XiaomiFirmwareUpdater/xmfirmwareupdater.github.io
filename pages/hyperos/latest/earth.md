@@ -52,9 +52,8 @@ permalink: /hyperos/earth/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 12C China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UCVCNXM</td><td>14.0</td><td>5.2 GB</td><td>2024-09-10</td><td><a href="/hyperos/earth/stable/OS1.0.4.0.UCVCNXM/">Download</a></td></tr>
-<tr><td>Redmi 12C China</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UCVCNXM</td><td>14.0</td><td>4.0 GB</td><td>2024-09-19</td><td><a href="/hyperos/earth/stable/OS1.0.4.0.UCVCNXM/">Download</a></td></tr>
-<tr><td>Redmi 12C China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.UCVCNXM</td><td>14.0</td><td>4.0 GB</td><td>2024-12-03</td><td><a href="/hyperos/earth/stable beta/OS1.0.5.0.UCVCNXM/">Download</a></td></tr>
+                <tr><td>Redmi 12C China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UCVCNXM</td><td>14.0</td><td>5.2 GB</td><td>2024-11-21</td><td><a href="/hyperos/earth/stable/OS1.0.5.0.UCVCNXM/">Download</a></td></tr>
+<tr><td>Redmi 12C China</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UCVCNXM</td><td>14.0</td><td>4.0 GB</td><td>2024-12-03</td><td><a href="/hyperos/earth/stable/OS1.0.5.0.UCVCNXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UCVEUXM</td><td>14.0</td><td>6.5 GB</td><td>2024-10-10</td><td><a href="/hyperos/earth/stable/OS1.0.6.0.UCVEUXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UCVEUXM</td><td>14.0</td><td>4.2 GB</td><td>2024-10-17</td><td><a href="/hyperos/earth/stable/OS1.0.6.0.UCVEUXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UCVMIXM</td><td>14.0</td><td>7.1 GB</td><td>2024-10-10</td><td><a href="/hyperos/earth/stable/OS1.0.7.0.UCVMIXM/">Download</a></td></tr>
