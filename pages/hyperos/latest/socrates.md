@@ -52,10 +52,9 @@ permalink: /hyperos/socrates/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.13.0.UMKCNXM</td><td>14.0</td><td>7.7 GB</td><td>2024-10-09</td><td><a href="/hyperos/socrates/stable/OS1.0.13.0.UMKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.13.0.UMKCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-10-21</td><td><a href="/hyperos/socrates/stable/OS1.0.13.0.UMKCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.16.0.UMKCNXM</td><td>14.0</td><td>7.7 GB</td><td>2024-11-25</td><td><a href="/hyperos/socrates/stable/OS1.0.16.0.UMKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.16.0.UMKCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-12-09</td><td><a href="/hyperos/socrates/stable/OS1.0.16.0.UMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>6.4 GB</td><td>2024-01-12</td><td><a href="/hyperos/socrates/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
-<tr><td>Redmi K60 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.16.0.UMKCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-12-09</td><td><a href="/hyperos/socrates/stable beta/OS1.0.16.0.UMKCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

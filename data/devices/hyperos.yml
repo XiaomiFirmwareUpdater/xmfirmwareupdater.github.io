@@ -288,6 +288,12 @@
   version: OS1.0.14.0.UMFEUXM
 - android: '14.0'
   codename: aristotle
+  date: '2024-12-19'
+  download: https://bigota.d.miui.com/OS1.0.17.0.UMFEUXM/fw_aristotle_miui_ARISTOTLEEEAGlobal_OS1.0.17.0.UMFEUXM_38be2f2355_14.0.zip
+  name: Xiaomi 13T
+  version: OS1.0.17.0.UMFEUXM
+- android: '14.0'
+  codename: aristotle
   date: '2024-05-18'
   download: https://bigota.d.miui.com/OS1.0.7.0.UMFEUXM/fw_aristotle_miui_ARISTOTLEEEAGlobal_OS1.0.7.0.UMFEUXM_ed8c49dcbc_14.0.zip
   name: Xiaomi 13T
