@@ -2568,6 +2568,12 @@
   version: OS1.0.5.0.UGPMIXM
 - android: '14.0'
   codename: gale
+  date: '2024-12-19'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UGPEUXM/fw_gale_miui_GALEEEAGlobal_OS1.0.7.0.UGPEUXM_b7e8228314_14.0.zip
+  name: Redmi 13C/POCO C65
+  version: OS1.0.7.0.UGPEUXM
+- android: '14.0'
+  codename: gale
   date: '2024-09-18'
   download: https://bigota.d.miui.com/OS1.0.5.0.UGPEUXM/fw_gale_miui_GALEEEAGlobal_OS1.0.5.0.UGPEUXM_331f60c580_14.0.zip
   name: Redmi 13C/POCO C65
@@ -3832,6 +3838,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UGTMIXM/fw_lake_miui_LAKEGlobal_OS1.0.5.0.UGTMIXM_99d12c8d45_14.0.zip
   name: Redmi 14C/POCO C75/Redmi A3 Pro
   version: OS1.0.5.0.UGTMIXM
+- android: '14.0'
+  codename: lake
+  date: '2024-12-19'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UGTEUXM/fw_lake_miui_LAKEEEAGlobal_OS1.0.6.0.UGTEUXM_fada46d343_14.0.zip
+  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  version: OS1.0.6.0.UGTEUXM
 - android: '14.0'
   codename: lake
   date: '2024-10-08'
@@ -9976,6 +9988,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UNOCNXM/fw_zircon_miui_ZIRCON_OS1.0.2.0.UNOCNXM_6c10262097_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.2.0.UNOCNXM
+- android: '14.0'
+  codename: zircon
+  date: '2024-12-19'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UNOMIXM/fw_zircon_miui_ZIRCONGlobal_OS1.0.9.0.UNOMIXM_444e14ab3f_14.0.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS1.0.9.0.UNOMIXM
 - android: '14.0'
   codename: zircon
   date: '2024-11-18'

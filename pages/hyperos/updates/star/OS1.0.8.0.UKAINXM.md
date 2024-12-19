@@ -3,7 +3,7 @@ title: Mi 11 Ultra India HyperOS OS1.0.8.0.UKAINXM Update
 layout: download
 name: Mi 11 Ultra India
 codename: star
-permalink: /hyperos/star/stable beta/OS1.0.8.0.UKAINXM/
+permalink: /hyperos/star/stable/OS1.0.8.0.UKAINXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/star/stable beta/OS1.0.8.0.UKAINXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.8.0.UKAINXM Stable Beta Official Update for Mi 11 Ultra India (star)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.8.0.UKAINXM Stable Official Update for Mi 11 Ultra India (star)</h3>
     <h5>This page shows the OS1.0.8.0.UKAINXM update only. If you're looking for other updates check
         <a href="/hyperos/star/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/star/stable beta/OS1.0.8.0.UKAINXM/
                     <h5><b>Version: </b>OS1.0.8.0.UKAINXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/star/stable beta/OS1.0.8.0.UKAINXM/
                             aria-expanded="false" aria-controls="star_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="star_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to November 2024. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Mi 11 Ultra India</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/star/" target="_blank">star</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.8.0.UKAINXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>5.9 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-11-07</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">star_in_global_images_OS1.0.8.0.UKAINXM_20241107.0000.00_14.0_in_c285167e66.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">c285167e66d2cf519915e208164c158c</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.8.0.UKAINXM/star_in_global_images_OS1.0.8.0.UKAINXM_20241107.0000.00_14.0_in_c285167e66.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.8.0.UKAINXM/star_in_global_images_OS1.0.8.0.UKAINXM_20241107.0000.00_14.0_in_c285167e66.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.8.0.UKAINXM/star_in_global_images_OS1.0.8.0.UKAINXM_20241107.0000.00_14.0_in_c285167e66.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.8.0.UKAINXM/star_in_global_images_OS1.0.8.0.UKAINXM_20241107.0000.00_14.0_in_c285167e66.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.8.0.UKAINXM/star_in_global_images_OS1.0.8.0.UKAINXM_20241107.0000.00_14.0_in_c285167e66.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#star_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="star_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="star_2_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to November 2024. Increased system security.</p>
                     </div>
                 </li>
