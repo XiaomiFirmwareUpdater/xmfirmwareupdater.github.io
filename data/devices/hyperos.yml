@@ -2286,6 +2286,12 @@
   version: OS1.0.7.0.TKEINXM
 - android: '13.0'
   codename: fleur
+  date: '2024-12-19'
+  download: https://bigota.d.miui.com/OS1.0.9.0.TKEMIXM/fw_fleur_miui_FLEURGlobal_OS1.0.9.0.TKEMIXM_a89e6e55df_13.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: OS1.0.9.0.TKEMIXM
+- android: '13.0'
+  codename: fleur
   date: '2024-07-19'
   download: https://bigota.d.miui.com/OS1.0.2.0.TKEEUXM/fw_fleur_miui_FLEUREEAGlobal_OS1.0.2.0.TKEEUXM_7e516cdea6_13.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
@@ -3364,6 +3370,12 @@
   download: https://bigota.d.miui.com/OS1.0.15.0.UNCMIXM/fw_houji_miui_HOUJIGlobal_OS1.0.15.0.UNCMIXM_17e1f93655_14.0.zip
   name: Xiaomi 14
   version: OS1.0.15.0.UNCMIXM
+- android: '15.0'
+  codename: houji
+  date: '2024-12-19'
+  download: https://bigota.d.miui.com/OS2.0.1.0.VNCEUXM/fw_houji_eea_global_houji_eea_global-ota_full-OS2.0.1.0.VNCEUXM-user-15.0-a671fce3aa.zip
+  name: Xiaomi 14
+  version: OS2.0.1.0.VNCEUXM
 - android: '15.0'
   codename: houji
   date: '2024-11-19'
