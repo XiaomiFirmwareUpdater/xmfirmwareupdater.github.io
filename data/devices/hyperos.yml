@@ -418,6 +418,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UNACNXM/fw_aurora_miui_AURORA_OS1.0.7.0.UNACNXM_81a48e3c20_14.0.zip
   name: Xiaomi 14 Ultra
   version: OS1.0.7.0.UNACNXM
+- android: '15.0'
+  codename: aurora
+  date: '2024-12-20'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VNAINXM/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.4.0.VNAINXM-user-15.0-e09ea47c8f.zip
+  name: Xiaomi 14 Ultra
+  version: OS2.0.4.0.VNAINXM
 - android: '14.0'
   codename: aurora
   date: '2024-09-20'
@@ -976,6 +982,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.ULCEUXM/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.9.0.ULCEUXM_cf04937f46_14.0.zip
   name: Xiaomi 12
   version: OS1.0.9.0.ULCEUXM
+- android: '14.0'
+  codename: cupid
+  date: '2024-12-20'
+  download: https://bigota.d.miui.com/OS1.0.16.0.ULCEUXM/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.16.0.ULCEUXM_d68ecc1ddf_14.0.zip
+  name: Xiaomi 12
+  version: OS1.0.16.0.ULCEUXM
 - android: '14.0'
   codename: cupid
   date: '2024-05-20'
