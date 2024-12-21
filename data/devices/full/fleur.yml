@@ -149,6 +149,16 @@
     android: '11.0'
     miui: V13.0.7.0.RKEMIXM
 - branch: stable
+  date: '2024-12-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-21.12.2024/fw_fleur_miui_FLEUREEAGlobal_OS1.0.11.0.TKEEUXM_e853850afb_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fleur/fw_fleur_miui_FLEUREEAGlobal_OS1.0.11.0.TKEEUXM_e853850afb_13.0.zip
+  filename: fw_fleur_miui_FLEUREEAGlobal_OS1.0.11.0.TKEEUXM_e853850afb_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: OS1.0.11.0.TKEEUXM
+- branch: stable
   date: '2024-10-21'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-21.10.2024/fw_fleur_miui_FLEURGlobal_OS1.0.5.0.TKEMIXM_254e9cebb7_13.0.zip
