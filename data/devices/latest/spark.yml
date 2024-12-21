@@ -19,12 +19,12 @@
     android: '14.0'
     miui: OS1.0.6.0.UHYEUXM
 - branch: stable
-  date: '2024-10-09'
+  date: '2024-12-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spark/releases/download/stable-09.10.2024/fw_spark_miui_SPARKINGlobal_OS1.0.3.0.UHYINXM_1d4ec22cf4_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/spark/fw_spark_miui_SPARKINGlobal_OS1.0.3.0.UHYINXM_1d4ec22cf4_14.0.zip
-  filename: fw_spark_miui_SPARKINGlobal_OS1.0.3.0.UHYINXM_1d4ec22cf4_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spark/releases/download/stable-21.12.2024/fw_spark_miui_SPARKINGlobal_OS1.0.4.0.UHYINXM_0d9976cc94_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/spark/fw_spark_miui_SPARKINGlobal_OS1.0.4.0.UHYINXM_0d9976cc94_14.0.zip
+  filename: fw_spark_miui_SPARKINGlobal_OS1.0.4.0.UHYINXM_0d9976cc94_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.3.0.UHYINXM
+    miui: OS1.0.4.0.UHYINXM
