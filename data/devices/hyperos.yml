@@ -8532,6 +8532,12 @@
   version: OS1.0.11.0.UMGEUXM
 - android: '14.0'
   codename: topaz
+  date: '2024-12-22'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UMGMIXM/fw_topaz_miui_TOPAZGlobal_OS1.0.8.0.UMGMIXM_78393763f7_14.0.zip
+  name: Redmi Note 12 4G NFC
+  version: OS1.0.8.0.UMGMIXM
+- android: '14.0'
+  codename: topaz
   date: '2024-01-22'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMGEUXM/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.2.0.UMGEUXM_8f6a8b7267_14.0.zip
   name: Redmi Note 12 4G NFC

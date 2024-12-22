@@ -52,7 +52,9 @@ permalink: /archive/hyperos/topaz/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12 4G NFC Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UMGRUXM</td><td>14.0</td><td>4.4 GB</td><td>2024-12-10</td><td><a href="/hyperos/topaz/stable/OS1.0.8.0.UMGRUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12 4G NFC Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UMGMIXM</td><td>14.0</td><td>4.5 GB</td><td>2024-12-13</td><td><a href="/hyperos/topaz/stable/OS1.0.8.0.UMGMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 4G NFC Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UMGMIXM</td><td>14.0</td><td>7.5 GB</td><td>2024-12-07</td><td><a href="/hyperos/topaz/stable/OS1.0.8.0.UMGMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 4G NFC Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UMGRUXM</td><td>14.0</td><td>4.4 GB</td><td>2024-12-10</td><td><a href="/hyperos/topaz/stable/OS1.0.8.0.UMGRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G NFC Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UMGRUXM</td><td>14.0</td><td>7.2 GB</td><td>2024-12-03</td><td><a href="/hyperos/topaz/stable/OS1.0.8.0.UMGRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G NFC EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.14.0.UMGEUXM</td><td>14.0</td><td>4.5 GB</td><td>2024-11-21</td><td><a href="/hyperos/topaz/stable/OS1.0.14.0.UMGEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G NFC EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.14.0.UMGEUXM</td><td>14.0</td><td>7.0 GB</td><td>2024-11-15</td><td><a href="/hyperos/topaz/stable/OS1.0.14.0.UMGEUXM/">Download</a></td></tr>
