@@ -52,7 +52,8 @@ permalink: /archive/hyperos/miro/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K80 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.11.0.VOMCNXM</td><td>15.0</td><td>8.3 GB</td><td>2024-12-03</td><td><a href="/hyperos/miro/stable/OS2.0.11.0.VOMCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K80 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.15.0.VOMCNXM</td><td>15.0</td><td>8.3 GB</td><td>2024-12-21</td><td><a href="/hyperos/miro/stable beta/OS2.0.15.0.VOMCNXM/">Download</a></td></tr>
+<tr><td>Redmi K80 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.11.0.VOMCNXM</td><td>15.0</td><td>8.3 GB</td><td>2024-12-03</td><td><a href="/hyperos/miro/stable/OS2.0.11.0.VOMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.11.0.VOMCNXM</td><td>15.0</td><td>10.2 GB</td><td>2024-11-30</td><td><a href="/hyperos/miro/stable/OS2.0.11.0.VOMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.10.0.VOMCNXM</td><td>15.0</td><td>8.3 GB</td><td>2024-11-28</td><td><a href="/hyperos/miro/stable/OS2.0.10.0.VOMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.10.0.VOMCNXM</td><td>15.0</td><td>10.2 GB</td><td>2024-11-25</td><td><a href="/hyperos/miro/stable/OS2.0.10.0.VOMCNXM/">Download</a></td></tr>
