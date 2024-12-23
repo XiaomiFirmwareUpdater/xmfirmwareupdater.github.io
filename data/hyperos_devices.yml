@@ -1,3 +1,4 @@
+agate: Xiaomi 11T
 air: Redmi 13R 5G/13C 5G/POCO M6 5G
 amethyst: Redmi Note 14 Pro+ 5G
 aristotle: Xiaomi 13T
@@ -36,7 +37,6 @@ liuqin: Xiaomi Pad 6 Pro
 malachite: Redmi Note 14 Pro 5G/POCO X7
 manet: Redmi K70 Pro
 matisse: Redmi K50 Pro
-mayfly: Xiaomi 12S
 miro: Redmi K80 Pro
 mondrian: Redmi K60/POCO F5 Pro
 moon: Redmi 13/POCO M6
@@ -49,7 +49,6 @@ peridot: Redmi Turbo 3/POCO F6
 pipa: Xiaomi Pad 6
 pissarro: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
 psyche: Xiaomi 12X
-redwood: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
 rembrandt: Redmi K60E
 rock: POCO M5/Redmi 11 Prime 4G
 rothko: Redmi K70 Ultra/Xiaomi 14T Pro
@@ -57,6 +56,7 @@ ruan: Redmi Pad Pro 5G/POCO Pad 5G
 ruyi: MIX Flip
 sapphire: Redmi Note 13
 sapphiren: Redmi Note 13 NFC
+sea: Redmi Note 12S
 sheng: Xiaomi Pad 6S Pro 12.4
 shennong: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
 spark: Redmi Pad SE 8.7 4G
@@ -76,4 +76,5 @@ yudi: Xiaomi Pad 6 Max 14
 yuechu: Xiaomi Civi 3
 zijin: Xiaomi Civi 1S
 zircon: Redmi Note 13 Pro+ 5G
+zizhan: Xiaomi MIX Fold 2
 zorn: Redmi K80/POCO F7 Pro

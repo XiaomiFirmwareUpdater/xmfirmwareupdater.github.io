@@ -12,6 +12,18 @@
   version: OS1.0.8.0.UKWMIXM
 - android: '14.0'
   codename: agate
+  date: '2024-12-23'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UKWEUXM/fw_agate_miui_AGATEEEAGlobal_OS1.0.9.0.UKWEUXM_abffe7411a_14.0.zip
+  name: Xiaomi 11T
+  version: OS1.0.9.0.UKWEUXM
+- android: '14.0'
+  codename: agate
+  date: '2024-12-23'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UKWMIXM/fw_agate_miui_AGATEGlobal_OS1.0.10.0.UKWMIXM_17bb3b557c_14.0.zip
+  name: Xiaomi 11T
+  version: OS1.0.10.0.UKWMIXM
+- android: '14.0'
+  codename: agate
   date: '2024-11-22'
   download: https://bigota.d.miui.com/OS1.0.8.0.UKWEUXM/fw_agate_miui_AGATEEEAGlobal_OS1.0.8.0.UKWEUXM_a8b2bb6069_14.0.zip
   name: Xiaomi 11T
@@ -2014,6 +2026,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.6.0.UNFMIXM_0f0c0947bc_14.0.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro
   version: OS1.0.6.0.UNFMIXM
+- android: '14.0'
+  codename: emerald
+  date: '2024-12-23'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.10.0.UNFMIXM_b99b009f3d_14.0.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  version: OS1.0.10.0.UNFMIXM
 - android: '14.0'
   codename: emerald
   date: '2024-08-22'
@@ -5784,6 +5802,18 @@
   version: OS1.0.7.0.UMZCNXM
 - android: '14.0'
   codename: pipa
+  date: '2024-12-23'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UMZEUXM/fw_pipa_miui_PIPAEEAGlobal_OS1.0.13.0.UMZEUXM_879701ac46_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.13.0.UMZEUXM
+- android: '14.0'
+  codename: pipa
+  date: '2024-12-23'
+  download: https://bigota.d.miui.com/OS1.0.15.0.UMZMIXM/fw_pipa_miui_PIPAGlobal_OS1.0.15.0.UMZMIXM_d2ba6c0171_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.15.0.UMZMIXM
+- android: '14.0'
+  codename: pipa
   date: '2024-07-22'
   download: https://bigota.d.miui.com/OS1.0.9.0.UMZMIXM/fw_pipa_miui_PIPAGlobal_OS1.0.9.0.UMZMIXM_7c75835663_14.0.zip
   name: Xiaomi Pad 6
@@ -7258,6 +7288,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UNHEUXM/fw_sapphiren_miui_SAPPHIRENEEAGlobal_OS1.0.5.0.UNHEUXM_aad01d8884_14.0.zip
   name: Redmi Note 13 NFC
   version: OS1.0.5.0.UNHEUXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2024-12-23'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VNHMIXM/fw_sapphiren_global_sapphiren_global-ota_full-OS2.0.6.0.VNHMIXM-user-15.0-f55cfcf226.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.6.0.VNHMIXM
 - android: '14.0'
   codename: sapphiren
   date: '2024-11-22'
@@ -7360,6 +7396,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UHZMIXM/fw_sea_miui_SEAGlobal_OS1.0.7.0.UHZMIXM_e5c0231c12_14.0.zip
   name: Redmi Note 12S
   version: OS1.0.7.0.UHZMIXM
+- android: '14.0'
+  codename: sea
+  date: '2024-12-23'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UHZEUXM/fw_sea_miui_SEAEEAGlobal_OS1.0.12.0.UHZEUXM_cc730ae497_14.0.zip
+  name: Redmi Note 12S
+  version: OS1.0.12.0.UHZEUXM
 - android: '14.0'
   codename: sea
   date: '2024-11-22'
@@ -10348,6 +10390,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULRCNXM/fw_zizhan_miui_ZIZHAN_OS1.0.2.0.ULRCNXM_145e69abdf_14.0.zip
   name: Xiaomi MIX Fold 2
   version: OS1.0.2.0.ULRCNXM
+- android: '14.0'
+  codename: zizhan
+  date: '2024-12-23'
+  download: https://bigota.d.miui.com/OS1.0.14.0.ULRCNXM/fw_zizhan_miui_ZIZHAN_OS1.0.14.0.ULRCNXM_67862173b3_14.0.zip
+  name: Xiaomi MIX Fold 2
+  version: OS1.0.14.0.ULRCNXM
 - android: '14.0'
   codename: zizhan
   date: '2024-03-21'

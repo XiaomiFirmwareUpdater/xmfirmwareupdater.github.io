@@ -89,6 +89,26 @@
     android: '14.0'
     miui: OS1.0.7.0.UMZCNXM
 - branch: stable
+  date: '2024-12-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-23.12.2024/fw_pipa_miui_PIPAEEAGlobal_OS1.0.13.0.UMZEUXM_879701ac46_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pipa/fw_pipa_miui_PIPAEEAGlobal_OS1.0.13.0.UMZEUXM_879701ac46_14.0.zip
+  filename: fw_pipa_miui_PIPAEEAGlobal_OS1.0.13.0.UMZEUXM_879701ac46_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.13.0.UMZEUXM
+- branch: stable
+  date: '2024-12-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-23.12.2024/fw_pipa_miui_PIPAGlobal_OS1.0.15.0.UMZMIXM_d2ba6c0171_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pipa/fw_pipa_miui_PIPAGlobal_OS1.0.15.0.UMZMIXM_d2ba6c0171_14.0.zip
+  filename: fw_pipa_miui_PIPAGlobal_OS1.0.15.0.UMZMIXM_d2ba6c0171_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.15.0.UMZMIXM
+- branch: stable
   date: '2023-10-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-23.10.2023/fw_pipa_miui_PIPA_V14.0.10.0.TMZCNXM_29505395c6_13.0.zip
