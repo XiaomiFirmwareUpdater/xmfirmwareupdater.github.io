@@ -8034,6 +8034,12 @@
   version: OS1.0.1.0.TGCINXM
 - android: '13.0'
   codename: spesn
+  date: '2024-12-23'
+  download: https://bigota.d.miui.com/OS1.0.6.0.TGKEUXM/fw_spesn_miui_SPESNEEAGlobal_OS1.0.6.0.TGKEUXM_145a5c9f74_13.0.zip
+  name: Redmi Note 11 NFC
+  version: OS1.0.6.0.TGKEUXM
+- android: '13.0'
+  codename: spesn
   date: '2024-08-23'
   download: https://bigota.d.miui.com/OS1.0.5.0.TGKEUXM/fw_spesn_miui_SPESNEEAGlobal_OS1.0.5.0.TGKEUXM_ec6f2d8fc4_13.0.zip
   name: Redmi Note 11 NFC
@@ -9724,6 +9730,18 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.ULYEUXM/fw_yunluo_miui_YUNLUOEEAGlobal_OS1.0.5.0.ULYEUXM_60f26021e6_14.0.zip
   name: Redmi Pad
   version: OS1.0.5.0.ULYEUXM
+- android: '14.0'
+  codename: yunluo
+  date: '2024-12-23'
+  download: https://bigota.d.miui.com/OS1.0.9.0.ULYEUXM/fw_yunluo_miui_YUNLUOEEAGlobal_OS1.0.9.0.ULYEUXM_d93d18db52_14.0.zip
+  name: Redmi Pad
+  version: OS1.0.9.0.ULYEUXM
+- android: '14.0'
+  codename: yunluo
+  date: '2024-12-23'
+  download: https://bigota.d.miui.com/OS1.0.7.0.ULYMIXM/fw_yunluo_miui_YUNLUOGlobal_OS1.0.7.0.ULYMIXM_a2b3f779df_14.0.zip
+  name: Redmi Pad
+  version: OS1.0.7.0.ULYMIXM
 - android: '14.0'
   codename: yunluo
   date: '2024-02-23'
