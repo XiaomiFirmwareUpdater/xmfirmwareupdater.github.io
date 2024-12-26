@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-12-09'
+  date: '2024-12-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-09.12.2024/fw_duchamp_miui_DUCHAMPGlobal_OS1.0.15.0.UNLMIXM_4c311f2d69_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/duchamp/fw_duchamp_miui_DUCHAMPGlobal_OS1.0.15.0.UNLMIXM_4c311f2d69_14.0.zip
-  filename: fw_duchamp_miui_DUCHAMPGlobal_OS1.0.15.0.UNLMIXM_4c311f2d69_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-26.12.2024/fw_duchamp_miui_DUCHAMPGlobal_OS1.0.17.0.UNLMIXM_c9707e92fc_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/duchamp/fw_duchamp_miui_DUCHAMPGlobal_OS1.0.17.0.UNLMIXM_c9707e92fc_14.0.zip
+  filename: fw_duchamp_miui_DUCHAMPGlobal_OS1.0.17.0.UNLMIXM_c9707e92fc_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.15.0.UNLMIXM
+    miui: OS1.0.17.0.UNLMIXM
 - branch: stable
   date: '2024-12-16'
   downloads:

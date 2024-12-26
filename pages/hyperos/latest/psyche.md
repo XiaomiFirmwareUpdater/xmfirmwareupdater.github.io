@@ -54,9 +54,8 @@ permalink: /hyperos/psyche/
                 <tbody>
                 <tr><td>Xiaomi 12X China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.TLDCNXM</td><td>13.0</td><td>6.2 GB</td><td>2024-10-10</td><td><a href="/hyperos/psyche/stable/OS1.0.10.0.TLDCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X China</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.TLDCNXM</td><td>13.0</td><td>4.1 GB</td><td>2024-10-18</td><td><a href="/hyperos/psyche/stable/OS1.0.10.0.TLDCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12X EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.TLDEUXM</td><td>13.0</td><td>5.6 GB</td><td>2024-10-14</td><td><a href="/hyperos/psyche/stable/OS1.0.7.0.TLDEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12X EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.TLDEUXM</td><td>13.0</td><td>3.9 GB</td><td>2024-10-25</td><td><a href="/hyperos/psyche/stable/OS1.0.7.0.TLDEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12X EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.8.0.TLDEUXM</td><td>13.0</td><td>3.9 GB</td><td>2024-12-11</td><td><a href="/hyperos/psyche/stable beta/OS1.0.8.0.TLDEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12X EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.TLDEUXM</td><td>13.0</td><td>5.6 GB</td><td>2024-11-25</td><td><a href="/hyperos/psyche/stable/OS1.0.8.0.TLDEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12X EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.TLDEUXM</td><td>13.0</td><td>3.9 GB</td><td>2024-12-11</td><td><a href="/hyperos/psyche/stable/OS1.0.8.0.TLDEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.TLDMIXM</td><td>13.0</td><td>5.8 GB</td><td>2024-11-26</td><td><a href="/hyperos/psyche/stable/OS1.0.8.0.TLDMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.TLDMIXM</td><td>13.0</td><td>3.9 GB</td><td>2024-12-10</td><td><a href="/hyperos/psyche/stable/OS1.0.8.0.TLDMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.TLDRUXM</td><td>13.0</td><td>5.6 GB</td><td>2024-11-25</td><td><a href="/hyperos/psyche/stable/OS1.0.7.0.TLDRUXM/">Download</a></td></tr>
