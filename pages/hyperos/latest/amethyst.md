@@ -52,9 +52,9 @@ permalink: /hyperos/amethyst/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 14 Pro+ 5G China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.20.0.UOPCNXM</td><td>14.0</td><td>7.7 GB</td><td>2024-11-14</td><td><a href="/hyperos/amethyst/stable/OS1.0.20.0.UOPCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 Pro+ 5G China</td><td>Stable</td><td>Recovery</td><td>OS1.0.21.0.UOPCNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-12-06</td><td><a href="/hyperos/amethyst/stable/OS1.0.21.0.UOPCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 Pro+ 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.23.0.UOPCNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-12-12</td><td><a href="/hyperos/amethyst/stable beta/OS1.0.23.0.UOPCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 14 Pro+ 5G China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.23.0.UOPCNXM</td><td>14.0</td><td>7.6 GB</td><td>2024-12-10</td><td><a href="/hyperos/amethyst/stable/OS1.0.23.0.UOPCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro+ 5G China</td><td>Stable</td><td>Recovery</td><td>OS1.0.23.0.UOPCNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-12-12</td><td><a href="/hyperos/amethyst/stable/OS1.0.23.0.UOPCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro+ 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.12.0.UOPCNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-09-26</td><td><a href="/hyperos/amethyst/stable beta/OS1.0.12.0.UOPCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro+ 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UOPEUXM</td><td>14.0</td><td>7.6 GB</td><td>2024-11-12</td><td><a href="/hyperos/amethyst/stable/OS1.0.3.0.UOPEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro+ 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UOPEUXM</td><td>14.0</td><td>5.4 GB</td><td>2024-12-24</td><td><a href="/hyperos/amethyst/stable/OS1.0.3.0.UOPEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro+ 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UOPMIXM</td><td>14.0</td><td>7.9 GB</td><td>2024-12-05</td><td><a href="/hyperos/amethyst/stable/OS1.0.5.0.UOPMIXM/">Download</a></td></tr>
