@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-11-29'
+  date: '2024-12-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sheng/releases/download/stable-29.11.2024/fw_sheng_global_sheng_global-ota_full-OS2.0.6.0.VNXMIXM-user-15.0-9d70ee21db.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sheng/fw_sheng_global_sheng_global-ota_full-OS2.0.6.0.VNXMIXM-user-15.0-9d70ee21db.zip
-  filename: fw_sheng_global_sheng_global-ota_full-OS2.0.6.0.VNXMIXM-user-15.0-9d70ee21db.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sheng/releases/download/stable-27.12.2024/fw_sheng_global_sheng_global-ota_full-OS2.0.7.0.VNXMIXM-user-15.0-1b4f7cf2cd.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sheng/fw_sheng_global_sheng_global-ota_full-OS2.0.7.0.VNXMIXM-user-15.0-1b4f7cf2cd.zip
+  filename: fw_sheng_global_sheng_global-ota_full-OS2.0.7.0.VNXMIXM-user-15.0-1b4f7cf2cd.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.6.0.VNXMIXM
+    miui: OS2.0.7.0.VNXMIXM
 - branch: stable
   date: '2024-12-16'
   downloads:

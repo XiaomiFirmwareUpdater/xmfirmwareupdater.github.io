@@ -2188,6 +2188,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UMXEUXM/fw_fire_miui_FIREEEAGlobal_OS1.0.10.0.UMXEUXM_c310c4cbdf_14.0.zip
   name: Redmi 12
   version: OS1.0.10.0.UMXEUXM
+- android: '15.0'
+  codename: fire
+  date: '2024-12-27'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VMXEUXM/fw_fire_eea_global_fire_eea_global-ota_full-OS2.0.3.0.VMXEUXM-user-15.0-4ac1e78f40.zip
+  name: Redmi 12
+  version: OS2.0.3.0.VMXEUXM
 - android: '14.0'
   codename: fire
   date: '2024-04-27'
@@ -7576,6 +7582,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UNXCNXM/fw_sheng_miui_SHENG_OS1.0.7.0.UNXCNXM_44a9846911_14.0.zip
   name: Xiaomi Pad 6S Pro 12.4
   version: OS1.0.7.0.UNXCNXM
+- android: '15.0'
+  codename: sheng
+  date: '2024-12-27'
+  download: https://bigota.d.miui.com/OS2.0.7.0.VNXMIXM/fw_sheng_global_sheng_global-ota_full-OS2.0.7.0.VNXMIXM-user-15.0-1b4f7cf2cd.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS2.0.7.0.VNXMIXM
 - android: '14.0'
   codename: sheng
   date: '2024-04-24'
@@ -7708,6 +7720,12 @@
   download: https://bigota.d.miui.com/OS1.0.39.0.UNBCNXM/fw_shennong_miui_SHENNONG_OS1.0.39.0.UNBCNXM_c67d65e7de_14.0.zip
   name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
   version: OS1.0.39.0.UNBCNXM
+- android: '15.0'
+  codename: shennong
+  date: '2024-12-27'
+  download: https://bigota.d.miui.com/OS2.0.11.0.VNBCNXM/fw_shennong_shennong-ota_full-OS2.0.11.0.VNBCNXM-user-15.0-4c9c55f2ea.zip
+  name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
+  version: OS2.0.11.0.VNBCNXM
 - android: '14.0'
   codename: shennongt
   date: '2024-02-27'
