@@ -2479,15 +2479,15 @@
     android: '14.0'
     miui: OS1.0.16.0.UMAMIXM
 - branch: stable
-  date: '2024-12-02'
+  date: '2024-12-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-02.12.2024/fw_ishtar_miui_ISHTAR_OS1.0.20.0.UMACNXM_371076313a_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ishtar/fw_ishtar_miui_ISHTAR_OS1.0.20.0.UMACNXM_371076313a_14.0.zip
-  filename: fw_ishtar_miui_ISHTAR_OS1.0.20.0.UMACNXM_371076313a_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-27.12.2024/fw_ishtar_ishtar-ota_full-OS2.0.3.0.VMACNXM-user-15.0-d68e1afecf.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ishtar/fw_ishtar_ishtar-ota_full-OS2.0.3.0.VMACNXM-user-15.0-d68e1afecf.zip
+  filename: fw_ishtar_ishtar-ota_full-OS2.0.3.0.VMACNXM-user-15.0-d68e1afecf.zip
   region: China
   versions:
-    android: '14.0'
-    miui: OS1.0.20.0.UMACNXM
+    android: '15.0'
+    miui: OS2.0.3.0.VMACNXM
 - branch: stable
   date: '2024-12-05'
   downloads:
@@ -3679,15 +3679,15 @@
     android: '14.0'
     miui: OS1.0.12.0.UMBMIXM
 - branch: stable
-  date: '2024-12-04'
+  date: '2024-12-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-04.12.2024/fw_nuwa_miui_NUWA_OS1.0.16.0.UMBCNXM_70accbaa41_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWA_OS1.0.16.0.UMBCNXM_70accbaa41_14.0.zip
-  filename: fw_nuwa_miui_NUWA_OS1.0.16.0.UMBCNXM_70accbaa41_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-27.12.2024/fw_nuwa_nuwa-ota_full-OS2.0.3.0.VMBCNXM-user-15.0-515298c113.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/nuwa/fw_nuwa_nuwa-ota_full-OS2.0.3.0.VMBCNXM-user-15.0-515298c113.zip
+  filename: fw_nuwa_nuwa-ota_full-OS2.0.3.0.VMBCNXM-user-15.0-515298c113.zip
   region: China
   versions:
-    android: '14.0'
-    miui: OS1.0.16.0.UMBCNXM
+    android: '15.0'
+    miui: OS2.0.3.0.VMBCNXM
 - branch: stable
   date: '2024-12-06'
   downloads:
@@ -6359,15 +6359,15 @@
     android: '8.1'
     miui: 9.2.28
 - branch: stable
-  date: '2024-12-09'
+  date: '2024-12-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-09.12.2024/fw_yudi_miui_YUDI_OS1.0.16.0.UMHCNXM_1fdd0e6d55_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yudi/fw_yudi_miui_YUDI_OS1.0.16.0.UMHCNXM_1fdd0e6d55_14.0.zip
-  filename: fw_yudi_miui_YUDI_OS1.0.16.0.UMHCNXM_1fdd0e6d55_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-27.12.2024/fw_yudi_miui_YUDI_OS1.0.17.0.UMHCNXM_016e5304b7_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yudi/fw_yudi_miui_YUDI_OS1.0.17.0.UMHCNXM_016e5304b7_14.0.zip
+  filename: fw_yudi_miui_YUDI_OS1.0.17.0.UMHCNXM_016e5304b7_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.16.0.UMHCNXM
+    miui: OS1.0.17.0.UMHCNXM
 - branch: stable
   date: '2024-12-09'
   downloads:

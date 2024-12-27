@@ -9,15 +9,15 @@
     android: '14.0'
     miui: OS1.0.12.0.UMBMIXM
 - branch: stable
-  date: '2024-12-04'
+  date: '2024-12-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-04.12.2024/fw_nuwa_miui_NUWA_OS1.0.16.0.UMBCNXM_70accbaa41_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWA_OS1.0.16.0.UMBCNXM_70accbaa41_14.0.zip
-  filename: fw_nuwa_miui_NUWA_OS1.0.16.0.UMBCNXM_70accbaa41_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-27.12.2024/fw_nuwa_nuwa-ota_full-OS2.0.3.0.VMBCNXM-user-15.0-515298c113.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/nuwa/fw_nuwa_nuwa-ota_full-OS2.0.3.0.VMBCNXM-user-15.0-515298c113.zip
+  filename: fw_nuwa_nuwa-ota_full-OS2.0.3.0.VMBCNXM-user-15.0-515298c113.zip
   region: China
   versions:
-    android: '14.0'
-    miui: OS1.0.16.0.UMBCNXM
+    android: '15.0'
+    miui: OS2.0.3.0.VMBCNXM
 - branch: stable
   date: '2024-12-06'
   downloads:

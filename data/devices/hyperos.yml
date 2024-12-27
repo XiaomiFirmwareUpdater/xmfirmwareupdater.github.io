@@ -3832,6 +3832,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UMAEUXM/fw_ishtar_miui_ISHTAREEAGlobal_OS1.0.8.0.UMAEUXM_324d3c1c41_14.0.zip
   name: Xiaomi 13 Ultra
   version: OS1.0.8.0.UMAEUXM
+- android: '15.0'
+  codename: ishtar
+  date: '2024-12-27'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VMACNXM/fw_ishtar_ishtar-ota_full-OS2.0.3.0.VMACNXM-user-15.0-d68e1afecf.zip
+  name: Xiaomi 13 Ultra
+  version: OS2.0.3.0.VMACNXM
 - android: '14.0'
   codename: ishtar
   date: '2024-08-25'
@@ -5380,6 +5386,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UMBCNXM/fw_nuwa_miui_NUWA_OS1.0.6.0.UMBCNXM_6c3873b190_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.6.0.UMBCNXM
+- android: '15.0'
+  codename: nuwa
+  date: '2024-12-27'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VMBCNXM/fw_nuwa_nuwa-ota_full-OS2.0.3.0.VMBCNXM-user-15.0-515298c113.zip
+  name: Xiaomi 13 Pro
+  version: OS2.0.3.0.VMBCNXM
 - android: '14.0'
   codename: nuwa
   date: '2024-09-27'
@@ -9760,6 +9772,12 @@
   download: https://bigota.d.miui.com/OS1.0.15.0.UMHCNXM/fw_yudi_miui_YUDI_OS1.0.15.0.UMHCNXM_642885fe4c_14.0.zip
   name: Xiaomi Pad 6 Max 14
   version: OS1.0.15.0.UMHCNXM
+- android: '14.0'
+  codename: yudi
+  date: '2024-12-27'
+  download: https://bigota.d.miui.com/OS1.0.17.0.UMHCNXM/fw_yudi_miui_YUDI_OS1.0.17.0.UMHCNXM_016e5304b7_14.0.zip
+  name: Xiaomi Pad 6 Max 14
+  version: OS1.0.17.0.UMHCNXM
 - android: '14.0'
   codename: yudi
   date: '2024-08-27'
