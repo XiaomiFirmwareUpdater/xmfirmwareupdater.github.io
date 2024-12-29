@@ -8572,6 +8572,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.10.0.ULIEUXM_68a74ddb9c_14.0.zip
   name: Xiaomi 12 Lite
   version: OS1.0.10.0.ULIEUXM
+- android: '15.0'
+  codename: tapas
+  date: '2024-12-29'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VMTINXM/fw_tapas_in_global_tapas_in_global-ota_full-OS2.0.2.0.VMTINXM-user-15.0-96fc130e17.zip
+  name: Redmi Note 12 4G
+  version: OS2.0.2.0.VMTINXM
 - android: '14.0'
   codename: tapas
   date: '2024-04-22'
