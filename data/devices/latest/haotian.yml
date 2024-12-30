@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2024-12-12'
+  date: '2024-12-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haotian/releases/download/stable-12.12.2024/fw_haotian_haotian-ota_full-OS2.0.26.0.VOBCNXM-user-15.0-ee21b72f4d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/haotian/fw_haotian_haotian-ota_full-OS2.0.26.0.VOBCNXM-user-15.0-ee21b72f4d.zip
-  filename: fw_haotian_haotian-ota_full-OS2.0.26.0.VOBCNXM-user-15.0-ee21b72f4d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haotian/releases/download/stable-31.12.2024/fw_haotian_haotian-ota_full-OS2.0.28.0.VOBCNXM-user-15.0-862b05f803.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/haotian/fw_haotian_haotian-ota_full-OS2.0.28.0.VOBCNXM-user-15.0-862b05f803.zip
+  filename: fw_haotian_haotian-ota_full-OS2.0.28.0.VOBCNXM-user-15.0-862b05f803.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.26.0.VOBCNXM
+    miui: OS2.0.28.0.VOBCNXM

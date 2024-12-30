@@ -1219,15 +1219,15 @@
     android: '12.0'
     miui: V14.0.3.0.SJWINXM
 - branch: stable
-  date: '2024-12-12'
+  date: '2024-12-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dada/releases/download/stable-12.12.2024/fw_dada_dada-ota_full-OS2.0.26.0.VOCCNXM-user-15.0-dcfe511191.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dada/fw_dada_dada-ota_full-OS2.0.26.0.VOCCNXM-user-15.0-dcfe511191.zip
-  filename: fw_dada_dada-ota_full-OS2.0.26.0.VOCCNXM-user-15.0-dcfe511191.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dada/releases/download/stable-31.12.2024/fw_dada_dada-ota_full-OS2.0.28.0.VOCCNXM-user-15.0-90ae2f7f5f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dada/fw_dada_dada-ota_full-OS2.0.28.0.VOCCNXM-user-15.0-90ae2f7f5f.zip
+  filename: fw_dada_dada-ota_full-OS2.0.28.0.VOCCNXM-user-15.0-90ae2f7f5f.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.26.0.VOCCNXM
+    miui: OS2.0.28.0.VOCCNXM
 - branch: stable
   date: '2024-12-09'
   downloads:
@@ -2199,15 +2199,15 @@
     android: '11.0'
     miui: V12.5.1.0.RFBEUXM
 - branch: stable
-  date: '2024-12-12'
+  date: '2024-12-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haotian/releases/download/stable-12.12.2024/fw_haotian_haotian-ota_full-OS2.0.26.0.VOBCNXM-user-15.0-ee21b72f4d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/haotian/fw_haotian_haotian-ota_full-OS2.0.26.0.VOBCNXM-user-15.0-ee21b72f4d.zip
-  filename: fw_haotian_haotian-ota_full-OS2.0.26.0.VOBCNXM-user-15.0-ee21b72f4d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haotian/releases/download/stable-31.12.2024/fw_haotian_haotian-ota_full-OS2.0.28.0.VOBCNXM-user-15.0-862b05f803.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/haotian/fw_haotian_haotian-ota_full-OS2.0.28.0.VOBCNXM-user-15.0-862b05f803.zip
+  filename: fw_haotian_haotian-ota_full-OS2.0.28.0.VOBCNXM-user-15.0-862b05f803.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.26.0.VOBCNXM
+    miui: OS2.0.28.0.VOBCNXM
 - branch: stable
   date: '2024-11-29'
   downloads:
