@@ -8388,6 +8388,12 @@
   version: OS1.0.3.0.UKACNXM
 - android: '14.0'
   codename: sunstone
+  date: '2024-12-30'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UMQMIXM/fw_sunstone_miui_SUNSTONEGlobal_OS1.0.9.0.UMQMIXM_e0a2d289d5_14.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: OS1.0.9.0.UMQMIXM
+- android: '14.0'
+  codename: sunstone
   date: '2024-06-29'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMQMIXM/fw_sunstone_miui_SUNSTONEGlobal_OS1.0.5.0.UMQMIXM_5187649eac_14.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
@@ -9034,6 +9040,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UKBMIXM/fw_venus_miui_VENUSGlobal_OS1.0.3.0.UKBMIXM_1eb20d7656_14.0.zip
   name: Mi 11
   version: OS1.0.3.0.UKBMIXM
+- android: '15.0'
+  codename: vermeer
+  date: '2024-12-30'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VNKMIXM/fw_vermeer_global_vermeer_global-ota_full-OS2.0.2.0.VNKMIXM-user-15.0-7b60049787.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS2.0.2.0.VNKMIXM
 - android: '14.0'
   codename: vermeer
   date: '2024-10-30'
