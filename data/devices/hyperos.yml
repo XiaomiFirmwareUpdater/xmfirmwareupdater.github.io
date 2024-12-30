@@ -696,6 +696,12 @@
   version: OS1.0.3.0.UMVCNXM
 - android: '14.0'
   codename: beryl
+  date: '2024-12-30'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UOQCNXM/fw_beryl_miui_BERYL_OS1.0.5.0.UOQCNXM_b2da294bda_14.0.zip
+  name: Redmi Note 14 5G
+  version: OS1.0.5.0.UOQCNXM
+- android: '14.0'
+  codename: beryl
   date: '2024-10-28'
   download: https://bigota.d.miui.com/OS1.0.3.0.UOQCNXM/fw_beryl_miui_BERYL_OS1.0.3.0.UOQCNXM_96cb3b6017_14.0.zip
   name: Redmi Note 14 5G
@@ -2518,6 +2524,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.TKEINXM/fw_fleur_miui_FLEURINGlobal_OS1.0.2.0.TKEINXM_f8f80a48fb_13.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: OS1.0.2.0.TKEINXM
+- android: '15.0'
+  codename: fuxi
+  date: '2024-12-30'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VMCCNXM/fw_fuxi_fuxi-ota_full-OS2.0.3.0.VMCCNXM-user-15.0-14d261942c.zip
+  name: Xiaomi 13
+  version: OS2.0.3.0.VMCCNXM
 - android: '14.0'
   codename: fuxi
   date: '2024-07-30'
@@ -4456,6 +4468,12 @@
   download: https://bigota.d.miui.com/OS1.0.22.0.UNMCNXM/fw_manet_miui_MANET_OS1.0.22.0.UNMCNXM_fabcc29173_14.0.zip
   name: Redmi K70 Pro
   version: OS1.0.22.0.UNMCNXM
+- android: '14.0'
+  codename: marble
+  date: '2024-12-30'
+  download: https://bigota.d.miui.com/OS1.0.17.0.UMREUXM/fw_marble_miui_MARBLEEEAGlobal_OS1.0.17.0.UMREUXM_5b9056af0d_14.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS1.0.17.0.UMREUXM
 - android: '14.0'
   codename: marble
   date: '2024-10-30'
