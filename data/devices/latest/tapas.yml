@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-12-17'
+  date: '2024-12-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-17.12.2024/fw_tapas_miui_TAPASGlobal_OS1.0.12.0.UMTMIXM_7ac90a0ee7_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/tapas/fw_tapas_miui_TAPASGlobal_OS1.0.12.0.UMTMIXM_7ac90a0ee7_14.0.zip
-  filename: fw_tapas_miui_TAPASGlobal_OS1.0.12.0.UMTMIXM_7ac90a0ee7_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-30.12.2024/fw_tapas_global_tapas_global-ota_full-OS2.0.8.0.VMTMIXM-user-15.0-9fe821fd64.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/tapas/fw_tapas_global_tapas_global-ota_full-OS2.0.8.0.VMTMIXM-user-15.0-9fe821fd64.zip
+  filename: fw_tapas_global_tapas_global-ota_full-OS2.0.8.0.VMTMIXM-user-15.0-9fe821fd64.zip
   region: Global
   versions:
-    android: '14.0'
-    miui: OS1.0.12.0.UMTMIXM
+    android: '15.0'
+    miui: OS2.0.8.0.VMTMIXM
 - branch: stable
   date: '2024-12-29'
   downloads:

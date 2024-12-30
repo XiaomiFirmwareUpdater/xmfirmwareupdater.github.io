@@ -53,6 +53,7 @@ permalink: /archive/hyperos/tapas/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Note 12 4G India</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.2.0.VMTINXM</td><td>15.0</td><td>4.5 GB</td><td>2024-12-26</td><td><a href="/hyperos/tapas/stable beta/OS2.0.2.0.VMTINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 4G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.8.0.VMTMIXM</td><td>15.0</td><td>4.7 GB</td><td>2024-12-23</td><td><a href="/hyperos/tapas/stable beta/OS2.0.8.0.VMTMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.12.0.UMTMIXM</td><td>14.0</td><td>4.4 GB</td><td>2024-12-15</td><td><a href="/hyperos/tapas/stable/OS1.0.12.0.UMTMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.12.0.UMTMIXM</td><td>14.0</td><td>7.2 GB</td><td>2024-12-11</td><td><a href="/hyperos/tapas/stable/OS1.0.12.0.UMTMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UMTINXM</td><td>14.0</td><td>4.3 GB</td><td>2024-11-18</td><td><a href="/hyperos/tapas/stable/OS1.0.7.0.UMTINXM/">Download</a></td></tr>

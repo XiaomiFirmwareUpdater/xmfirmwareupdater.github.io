@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-10-28'
+  date: '2024-12-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-28.10.2024/fw_sky_miui_SKYGlobal_OS1.0.11.0.UMWMIXM_e72055f099_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sky/fw_sky_miui_SKYGlobal_OS1.0.11.0.UMWMIXM_e72055f099_14.0.zip
-  filename: fw_sky_miui_SKYGlobal_OS1.0.11.0.UMWMIXM_e72055f099_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-30.12.2024/fw_sky_global_sky_global-ota_full-OS2.0.3.0.VMWMIXM-user-15.0-41bf410c94.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sky/fw_sky_global_sky_global-ota_full-OS2.0.3.0.VMWMIXM-user-15.0-41bf410c94.zip
+  filename: fw_sky_global_sky_global-ota_full-OS2.0.3.0.VMWMIXM-user-15.0-41bf410c94.zip
   region: Global
   versions:
-    android: '14.0'
-    miui: OS1.0.11.0.UMWMIXM
+    android: '15.0'
+    miui: OS2.0.3.0.VMWMIXM
 - branch: stable
   date: '2024-11-20'
   downloads:
@@ -19,15 +19,15 @@
     android: '14.0'
     miui: OS1.0.10.0.UMWCNXM
 - branch: stable
-  date: '2024-11-04'
+  date: '2024-12-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-04.11.2024/fw_sky_miui_SKYEEAGlobal_OS1.0.10.0.UMWEUXM_e192953101_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sky/fw_sky_miui_SKYEEAGlobal_OS1.0.10.0.UMWEUXM_e192953101_14.0.zip
-  filename: fw_sky_miui_SKYEEAGlobal_OS1.0.10.0.UMWEUXM_e192953101_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-30.12.2024/fw_sky_miui_SKYEEAGlobal_OS1.0.12.0.UMWEUXM_e168b99772_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sky/fw_sky_miui_SKYEEAGlobal_OS1.0.12.0.UMWEUXM_e168b99772_14.0.zip
+  filename: fw_sky_miui_SKYEEAGlobal_OS1.0.12.0.UMWEUXM_e168b99772_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.10.0.UMWEUXM
+    miui: OS1.0.12.0.UMWEUXM
 - branch: stable
   date: '2024-12-12'
   downloads:
