@@ -1349,15 +1349,15 @@
     android: '11.0'
     miui: V12.1.4.0.RFJINXM
 - branch: stable
-  date: '2024-12-07'
+  date: '2024-12-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_degas/releases/download/stable-07.12.2024/fw_degas_miui_DEGASGlobal_OS1.0.8.0.UNEMIXM_ba07561dc0_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/degas/fw_degas_miui_DEGASGlobal_OS1.0.8.0.UNEMIXM_ba07561dc0_14.0.zip
-  filename: fw_degas_miui_DEGASGlobal_OS1.0.8.0.UNEMIXM_ba07561dc0_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_degas/releases/download/stable-31.12.2024/fw_degas_global_degas_global-ota_full-OS2.0.2.0.VNEMIXM-user-15.0-ec7bc23995.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/degas/fw_degas_global_degas_global-ota_full-OS2.0.2.0.VNEMIXM-user-15.0-ec7bc23995.zip
+  filename: fw_degas_global_degas_global-ota_full-OS2.0.2.0.VNEMIXM-user-15.0-ec7bc23995.zip
   region: Global
   versions:
-    android: '14.0'
-    miui: OS1.0.8.0.UNEMIXM
+    android: '15.0'
+    miui: OS2.0.2.0.VNEMIXM
 - branch: stable
   date: '2024-12-06'
   downloads:
@@ -1929,15 +1929,15 @@
     android: '14.0'
     miui: OS1.0.17.0.UNRMIXM
 - branch: stable
-  date: '2024-12-03'
+  date: '2024-12-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-03.12.2024/fw_garnet_miui_GARNET_OS1.0.14.0.UNRCNXM_da1875a852_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/garnet/fw_garnet_miui_GARNET_OS1.0.14.0.UNRCNXM_da1875a852_14.0.zip
-  filename: fw_garnet_miui_GARNET_OS1.0.14.0.UNRCNXM_da1875a852_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-31.12.2024/fw_garnet_miui_GARNET_OS1.0.16.0.UNRCNXM_a11124aa5b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/garnet/fw_garnet_miui_GARNET_OS1.0.16.0.UNRCNXM_a11124aa5b_14.0.zip
+  filename: fw_garnet_miui_GARNET_OS1.0.16.0.UNRCNXM_a11124aa5b_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.14.0.UNRCNXM
+    miui: OS1.0.16.0.UNRCNXM
 - branch: stable
   date: '2024-11-27'
   downloads:
@@ -3939,15 +3939,15 @@
     android: '14.0'
     miui: OS1.0.8.0.ULHCNXM
 - branch: stable
-  date: '2024-12-05'
+  date: '2024-12-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-05.12.2024/fw_peridot_miui_PERIDOTGlobal_OS1.0.10.0.UNPMIXM_e91a581e37_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/peridot/fw_peridot_miui_PERIDOTGlobal_OS1.0.10.0.UNPMIXM_e91a581e37_14.0.zip
-  filename: fw_peridot_miui_PERIDOTGlobal_OS1.0.10.0.UNPMIXM_e91a581e37_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-31.12.2024/fw_peridot_miui_PERIDOTGlobal_OS1.0.12.0.UNPMIXM_2fdc6b9e19_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/peridot/fw_peridot_miui_PERIDOTGlobal_OS1.0.12.0.UNPMIXM_2fdc6b9e19_14.0.zip
+  filename: fw_peridot_miui_PERIDOTGlobal_OS1.0.12.0.UNPMIXM_2fdc6b9e19_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.10.0.UNPMIXM
+    miui: OS1.0.12.0.UNPMIXM
 - branch: stable
   date: '2024-11-26'
   downloads:
@@ -4739,15 +4739,15 @@
     android: '15.0'
     miui: OS2.0.13.0.VNNCNXM
 - branch: stable
-  date: '2024-11-28'
+  date: '2024-12-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-28.11.2024/fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.11.0.VNNEUXM-user-15.0-beefb44f76.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rothko/fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.11.0.VNNEUXM-user-15.0-beefb44f76.zip
-  filename: fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.11.0.VNNEUXM-user-15.0-beefb44f76.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-31.12.2024/fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.12.0.VNNEUXM-user-15.0-9e98b72019.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rothko/fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.12.0.VNNEUXM-user-15.0-9e98b72019.zip
+  filename: fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.12.0.VNNEUXM-user-15.0-9e98b72019.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.11.0.VNNEUXM
+    miui: OS2.0.12.0.VNNEUXM
 - branch: stable
   date: '2024-12-08'
   downloads:
