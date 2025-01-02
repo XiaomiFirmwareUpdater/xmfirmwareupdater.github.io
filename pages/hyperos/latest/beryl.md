@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 14 5G (beryl) HyperOS Downloads
+title: Redmi Note 14 5G/POCO M7 Pro 5G (beryl) HyperOS Downloads
 layout: download
-name: Redmi Note 14 5G
+name: Redmi Note 14 5G/POCO M7 Pro 5G
 codename: beryl
 permalink: /hyperos/beryl/
 ---
@@ -9,7 +9,7 @@ permalink: /hyperos/beryl/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/beryl/">Redmi Note 14 5G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/beryl/">Redmi Note 14 5G/POCO M7 Pro 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -55,8 +55,8 @@ permalink: /hyperos/beryl/
                 <tr><td>Redmi Note 14 5G China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UOQCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-11-15</td><td><a href="/hyperos/beryl/stable/OS1.0.4.0.UOQCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 5G China</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UOQCNXM</td><td>14.0</td><td>5.3 GB</td><td>2024-11-27</td><td><a href="/hyperos/beryl/stable/OS1.0.4.0.UOQCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.UOQCNXM</td><td>14.0</td><td>5.3 GB</td><td>2024-12-27</td><td><a href="/hyperos/beryl/stable beta/OS1.0.5.0.UOQCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 5G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UOQINXM</td><td>14.0</td><td>6.3 GB</td><td>2024-11-18</td><td><a href="/hyperos/beryl/stable/OS1.0.4.0.UOQINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 5G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UOQINXM</td><td>14.0</td><td>4.6 GB</td><td>2024-12-09</td><td><a href="/hyperos/beryl/stable/OS1.0.4.0.UOQINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 5G / POCO M7 Pro 5G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UOQINXM</td><td>14.0</td><td>6.3 GB</td><td>2024-11-18</td><td><a href="/hyperos/beryl/stable/OS1.0.4.0.UOQINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 5G / POCO M7 Pro 5G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UOQINXM</td><td>14.0</td><td>4.6 GB</td><td>2024-12-09</td><td><a href="/hyperos/beryl/stable/OS1.0.4.0.UOQINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

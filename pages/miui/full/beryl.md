@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 14 5G (beryl) MIUI Downloads
+title: Redmi Note 14 5G/POCO M7 Pro 5G (beryl) MIUI Downloads
 layout: download
-name: Redmi Note 14 5G
+name: Redmi Note 14 5G/POCO M7 Pro 5G
 codename: beryl
 permalink: /archive/miui/beryl/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/miui/beryl/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/beryl/">Redmi Note 14 5G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/beryl/">Redmi Note 14 5G/POCO M7 Pro 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

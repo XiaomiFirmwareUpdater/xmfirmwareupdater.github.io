@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 14 5G India HyperOS OS1.0.4.0.UOQINXM Update
+title: Redmi Note 14 5G / POCO M7 Pro 5G India HyperOS OS1.0.4.0.UOQINXM Update
 layout: download
-name: Redmi Note 14 5G India
+name: Redmi Note 14 5G / POCO M7 Pro 5G India
 codename: beryl
 permalink: /hyperos/beryl/stable/OS1.0.4.0.UOQINXM/
 ---
@@ -9,7 +9,7 @@ permalink: /hyperos/beryl/stable/OS1.0.4.0.UOQINXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/beryl/">Redmi Note 14 5G India</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/beryl/">Redmi Note 14 5G / POCO M7 Pro 5G India</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS1.0.4.0.UOQINXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /hyperos/beryl/stable/OS1.0.4.0.UOQINXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.4.0.UOQINXM Stable Official Update for Redmi Note 14 5G India (beryl)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.4.0.UOQINXM Stable Official Update for Redmi Note 14 5G / POCO M7 Pro 5G India (beryl)</h3>
     <h5>This page shows the OS1.0.4.0.UOQINXM update only. If you're looking for other updates check
         <a href="/hyperos/beryl/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -44,7 +44,7 @@ permalink: /hyperos/beryl/stable/OS1.0.4.0.UOQINXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 14 5G India</h5>
+                    <h5><b>Device: </b>Redmi Note 14 5G / POCO M7 Pro 5G India</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/beryl/" target="_blank">beryl</a> </h5>
@@ -87,7 +87,7 @@ permalink: /hyperos/beryl/stable/OS1.0.4.0.UOQINXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 14 5G India</h5>
+                    <h5><b>Device: </b>Redmi Note 14 5G / POCO M7 Pro 5G India</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/beryl/" target="_blank">beryl</a> </h5>
