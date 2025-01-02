@@ -1,7 +1,7 @@
 ---
-title: Redmi Turbo 4 (rodin) Firmware Downloads
+title: Redmi Turbo 4/POCO X7 Pro (rodin) Firmware Downloads
 layout: download
-name: Redmi Turbo 4
+name: Redmi Turbo 4/POCO X7 Pro
 codename: rodin
 permalink: /archive/firmware/rodin/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/rodin/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/rodin/">Redmi Turbo 4</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/rodin/">Redmi Turbo 4/POCO X7 Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
