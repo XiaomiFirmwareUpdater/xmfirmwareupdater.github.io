@@ -39,15 +39,15 @@
     android: '14.0'
     miui: OS1.0.2.0.UGQCNXM
 - branch: stable
-  date: '2024-11-01'
+  date: '2025-01-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-01.11.2024/fw_air_miui_AIREEAGlobal_OS1.0.4.0.UGQEUXM_45d6085bdb_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/air/fw_air_miui_AIREEAGlobal_OS1.0.4.0.UGQEUXM_45d6085bdb_14.0.zip
-  filename: fw_air_miui_AIREEAGlobal_OS1.0.4.0.UGQEUXM_45d6085bdb_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-02.01.2025/fw_air_miui_AIREEAGlobal_OS1.0.5.0.UGQEUXM_8b15b3bd6d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/air/fw_air_miui_AIREEAGlobal_OS1.0.5.0.UGQEUXM_8b15b3bd6d_14.0.zip
+  filename: fw_air_miui_AIREEAGlobal_OS1.0.5.0.UGQEUXM_8b15b3bd6d_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.UGQEUXM
+    miui: OS1.0.5.0.UGQEUXM
 - branch: stable
   date: '2024-12-23'
   downloads:
@@ -3329,15 +3329,15 @@
     android: '7.0'
     miui: 9.9.26
 - branch: stable
-  date: '2024-12-23'
+  date: '2025-01-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-23.12.2024/fw_miro_miro-ota_full-OS2.0.15.0.VOMCNXM-user-15.0-bdfa3a076c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro-ota_full-OS2.0.15.0.VOMCNXM-user-15.0-bdfa3a076c.zip
-  filename: fw_miro_miro-ota_full-OS2.0.15.0.VOMCNXM-user-15.0-bdfa3a076c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-02.01.2025/fw_miro_miro-ota_full-OS2.0.102.0.VOMCNXM-user-15.0-35854d9910.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro-ota_full-OS2.0.102.0.VOMCNXM-user-15.0-35854d9910.zip
+  filename: fw_miro_miro-ota_full-OS2.0.102.0.VOMCNXM-user-15.0-35854d9910.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.15.0.VOMCNXM
+    miui: OS2.0.102.0.VOMCNXM
 - branch: stable
   date: '2023-10-27'
   downloads:

@@ -54,12 +54,10 @@ permalink: /hyperos/yunluo/
                 <tbody>
                 <tr><td>Redmi Pad China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.ULYCNXM</td><td>14.0</td><td>5.1 GB</td><td>2024-10-28</td><td><a href="/hyperos/yunluo/stable/OS1.0.8.0.ULYCNXM/">Download</a></td></tr>
 <tr><td>Redmi Pad China</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.ULYCNXM</td><td>14.0</td><td>4.3 GB</td><td>2024-11-14</td><td><a href="/hyperos/yunluo/stable/OS1.0.8.0.ULYCNXM/">Download</a></td></tr>
-<tr><td>Redmi Pad EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.ULYEUXM</td><td>14.0</td><td>4.7 GB</td><td>2024-09-30</td><td><a href="/hyperos/yunluo/stable/OS1.0.8.0.ULYEUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.ULYEUXM</td><td>14.0</td><td>4.2 GB</td><td>2024-10-16</td><td><a href="/hyperos/yunluo/stable/OS1.0.8.0.ULYEUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.9.0.ULYEUXM</td><td>14.0</td><td>4.2 GB</td><td>2024-12-20</td><td><a href="/hyperos/yunluo/stable beta/OS1.0.9.0.ULYEUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.ULYMIXM</td><td>14.0</td><td>4.8 GB</td><td>2024-09-30</td><td><a href="/hyperos/yunluo/stable/OS1.0.6.0.ULYMIXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.ULYMIXM</td><td>14.0</td><td>4.2 GB</td><td>2024-10-16</td><td><a href="/hyperos/yunluo/stable/OS1.0.6.0.ULYMIXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.ULYMIXM</td><td>14.0</td><td>4.2 GB</td><td>2024-12-20</td><td><a href="/hyperos/yunluo/stable beta/OS1.0.7.0.ULYMIXM/">Download</a></td></tr>
+<tr><td>Redmi Pad EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.ULYEUXM</td><td>14.0</td><td>4.7 GB</td><td>2024-12-03</td><td><a href="/hyperos/yunluo/stable/OS1.0.9.0.ULYEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.ULYEUXM</td><td>14.0</td><td>4.2 GB</td><td>2024-12-20</td><td><a href="/hyperos/yunluo/stable/OS1.0.9.0.ULYEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.ULYMIXM</td><td>14.0</td><td>4.8 GB</td><td>2024-12-03</td><td><a href="/hyperos/yunluo/stable/OS1.0.7.0.ULYMIXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.ULYMIXM</td><td>14.0</td><td>4.2 GB</td><td>2024-12-20</td><td><a href="/hyperos/yunluo/stable/OS1.0.7.0.ULYMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.ULYIDXM</td><td>14.0</td><td>4.7 GB</td><td>2024-10-30</td><td><a href="/hyperos/yunluo/stable/OS1.0.3.0.ULYIDXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.ULYIDXM</td><td>14.0</td><td>4.2 GB</td><td>2024-11-14</td><td><a href="/hyperos/yunluo/stable/OS1.0.3.0.ULYIDXM/">Download</a></td></tr>
 <tr><td>Redmi Pad India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.ULYINXM</td><td>14.0</td><td>4.5 GB</td><td>2024-10-30</td><td><a href="/hyperos/yunluo/stable/OS1.0.6.0.ULYINXM/">Download</a></td></tr>
