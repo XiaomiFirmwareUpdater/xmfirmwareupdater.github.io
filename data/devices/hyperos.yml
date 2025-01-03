@@ -1042,6 +1042,12 @@
   download: https://bigota.d.miui.com/OS1.0.22.0.UMLCNXM/fw_corot_miui_COROT_OS1.0.22.0.UMLCNXM_7b539d7cbd_14.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
   version: OS1.0.22.0.UMLCNXM
+- android: '15.0'
+  codename: corot
+  date: '2025-01-03'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VMLCNXM/fw_corot_corot-ota_full-OS2.0.4.0.VMLCNXM-user-15.0-61baeb7ff8.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS2.0.4.0.VMLCNXM
 - android: '14.0'
   codename: corot
   date: '2024-07-01'
@@ -5075,6 +5081,12 @@
   name: Redmi K60/POCO F5 Pro
   version: OS1.0.10.0.UMNCNXM
 - android: '14.0'
+  codename: mondrian
+  date: '2025-01-03'
+  download: https://bigota.d.miui.com/OS1.0.14.0.UMNMIXM/fw_mondrian_miui_MONDRIANGlobal_OS1.0.14.0.UMNMIXM_b71f25feca_14.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS1.0.14.0.UMNMIXM
+- android: '14.0'
   codename: moon
   date: '2024-09-30'
   download: https://bigota.d.miui.com/OS1.0.7.0.UNTMIXM/fw_moon_miui_MOONGlobal_OS1.0.7.0.UNTMIXM_ef1313045c_14.0.zip
@@ -8998,6 +9010,12 @@
   download: https://bigota.d.miui.com/OS1.0.14.0.UMGEUXM/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.14.0.UMGEUXM_47eb023eb7_14.0.zip
   name: Redmi Note 12 4G NFC
   version: OS1.0.14.0.UMGEUXM
+- android: '15.0'
+  codename: topaz
+  date: '2025-01-03'
+  download: https://bigota.d.miui.com/OS2.0.1.0.VMGEUXM/fw_topaz_eea_global_topaz_eea_global-ota_full-OS2.0.1.0.VMGEUXM-user-15.0-3326d4c521.zip
+  name: Redmi Note 12 4G NFC
+  version: OS2.0.1.0.VMGEUXM
 - android: '15.0'
   codename: topaz
   date: '2025-01-01'
