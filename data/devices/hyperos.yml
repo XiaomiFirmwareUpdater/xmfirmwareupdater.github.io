@@ -3064,6 +3064,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UNVCNXM/fw_goku_miui_GOKU_OS1.0.9.0.UNVCNXM_3b46da1b28_14.0.zip
   name: MIX Fold 4
   version: OS1.0.9.0.UNVCNXM
+- android: '15.0'
+  codename: goku
+  date: '2025-01-03'
+  download: https://bigota.d.miui.com/OS2.0.8.0.VNVCNXM/fw_goku_goku-ota_full-OS2.0.8.0.VNVCNXM-user-15.0-7cf54a236b.zip
+  name: MIX Fold 4
+  version: OS2.0.8.0.VNVCNXM
 - android: '14.0'
   codename: gold
   date: '2024-05-31'
@@ -5428,6 +5434,12 @@
   download: https://bigota.d.miui.com/OS2.0.6.0.VOYCNXM/fw_muyu_muyu-ota_full-OS2.0.6.0.VOYCNXM-user-15.0-de700ef3c0.zip
   name: Xiaomi Pad 7 Pro
   version: OS2.0.6.0.VOYCNXM
+- android: '15.0'
+  codename: muyu
+  date: '2025-01-03'
+  download: https://bigota.d.miui.com/OS2.0.12.0.VOYCNXM/fw_muyu_muyu-ota_full-OS2.0.12.0.VOYCNXM-user-15.0-94bad304f3.zip
+  name: Xiaomi Pad 7 Pro
+  version: OS2.0.12.0.VOYCNXM
 - android: '15.0'
   codename: muyu
   date: '2024-12-02'
