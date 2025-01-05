@@ -5158,6 +5158,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNTMIXM/fw_moon_miui_MOONGlobal_OS1.0.4.0.UNTMIXM_9fcb952d2b_14.0.zip
   name: Redmi 13/POCO M6
   version: OS1.0.4.0.UNTMIXM
+- android: '15.0'
+  codename: moon
+  date: '2025-01-05'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VNTMIXM/fw_moon_global_moon_global-ota_full-OS2.0.3.0.VNTMIXM-user-15.0-e2f2771617.zip
+  name: Redmi 13/POCO M6
+  version: OS2.0.3.0.VNTMIXM
 - android: '14.0'
   codename: moonstone
   date: '2024-12-30'
