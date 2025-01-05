@@ -2400,6 +2400,12 @@
   version: OS1.0.4.0.UHXEUXM
 - android: '14.0'
   codename: flare
+  date: '2025-01-05'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UHXEUXM/fw_flare_miui_FLAREEEAGlobal_OS1.0.6.0.UHXEUXM_42b4380546_14.0.zip
+  name: Redmi Pad SE 8.7 5G
+  version: OS1.0.6.0.UHXEUXM
+- android: '14.0'
+  codename: flare
   date: '2024-12-02'
   download: https://bigota.d.miui.com/OS1.0.5.0.UHXEUXM/fw_flare_miui_FLAREEEAGlobal_OS1.0.5.0.UHXEUXM_d3998ab7c6_14.0.zip
   name: Redmi Pad SE 8.7 5G
