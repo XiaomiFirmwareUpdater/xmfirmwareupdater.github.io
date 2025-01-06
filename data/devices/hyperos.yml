@@ -370,6 +370,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UMFEUXM/fw_aristotle_miui_ARISTOTLEEEAGlobal_OS1.0.6.0.UMFEUXM_3cfffbb320_14.0.zip
   name: Xiaomi 13T
   version: OS1.0.6.0.UMFEUXM
+- android: '15.0'
+  codename: aristotle
+  date: '2025-01-06'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VMFEUXM/fw_aristotle_eea_global_aristotle_eea_global-ota_full-OS2.0.2.0.VMFEUXM-user-15.0-c59e651003.zip
+  name: Xiaomi 13T
+  version: OS2.0.2.0.VMFEUXM
 - android: '14.0'
   codename: aristotle
   date: '2024-08-05'
@@ -610,6 +616,12 @@
   download: https://bigota.d.miui.com/OS1.0.11.3.UNACNXM/fw_aurora_miui_AURORA_OS1.0.11.3.UNACNXM_e5360f6279_14.0.zip
   name: Xiaomi 14 Ultra
   version: OS1.0.11.3.UNACNXM
+- android: '15.0'
+  codename: aurora
+  date: '2025-01-06'
+  download: https://bigota.d.miui.com/OS2.0.101.0.VNACNXM/fw_aurora_aurora-ota_full-OS2.0.101.0.VNACNXM-user-15.0-a58015b6d2.zip
+  name: Xiaomi 14 Ultra
+  version: OS2.0.101.0.VNACNXM
 - android: '15.0'
   codename: aurora
   date: '2024-12-05'
@@ -2076,6 +2088,12 @@
   version: OS1.0.3.0.UCVMIXM
 - android: '14.0'
   codename: earth
+  date: '2025-01-06'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UCVEUXM/fw_earth_miui_EARTHEEAGlobal_OS1.0.7.0.UCVEUXM_167d1cac72_14.0.zip
+  name: Redmi 12C/POCO C55
+  version: OS1.0.7.0.UCVEUXM
+- android: '14.0'
+  codename: earth
   date: '2024-07-05'
   download: https://bigota.d.miui.com/OS1.0.4.0.UCVEUXM/fw_earth_miui_EARTHEEAGlobal_OS1.0.4.0.UCVEUXM_4d29130fe2_14.0.zip
   name: Redmi 12C/POCO C55
@@ -2194,6 +2212,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UNFEUXM/fw_emerald_miui_EMERALDEEAGlobal_OS1.0.7.0.UNFEUXM_ebc53bb5c8_14.0.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro
   version: OS1.0.7.0.UNFEUXM
+- android: '14.0'
+  codename: emerald
+  date: '2025-01-06'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UNFEUXM/fw_emerald_miui_EMERALDEEAGlobal_OS1.0.8.0.UNFEUXM_187b557dea_14.0.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  version: OS1.0.8.0.UNFEUXM
 - android: '14.0'
   codename: emerald
   date: '2024-12-04'
@@ -5776,6 +5800,12 @@
   download: https://bigota.d.miui.com/OS1.0.15.0.UMBCNXM/fw_nuwa_miui_NUWA_OS1.0.15.0.UMBCNXM_650d1d27e1_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.15.0.UMBCNXM
+- android: '15.0'
+  codename: nuwa
+  date: '2025-01-06'
+  download: https://bigota.d.miui.com/OS2.0.1.0.VMBEUXM/fw_nuwa_eea_global_nuwa_eea_global-ota_full-OS2.0.1.0.VMBEUXM-user-15.0-bd9b0a2984.zip
+  name: Xiaomi 13 Pro
+  version: OS2.0.1.0.VMBEUXM
 - android: '14.0'
   codename: nuwa
   date: '2025-01-06'
@@ -8074,6 +8104,12 @@
   download: https://bigota.d.miui.com/OS1.0.16.0.UNBCNXM/fw_shennong_miui_SHENNONG_OS1.0.16.0.UNBCNXM_64565c3275_14.0.zip
   name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
   version: OS1.0.16.0.UNBCNXM
+- android: '15.0'
+  codename: shennong
+  date: '2025-01-06'
+  download: https://bigota.d.miui.com/OS2.0.101.0.VNBCNXM/fw_shennong_shennong-ota_full-OS2.0.101.0.VNBCNXM-user-15.0-cd58edf925.zip
+  name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
+  version: OS2.0.101.0.VNBCNXM
 - android: '14.0'
   codename: shennong
   date: '2024-06-05'
