@@ -29,12 +29,12 @@
     android: '14.0'
     miui: OS1.0.7.0.UCVEUXM
 - branch: stable
-  date: '2024-10-28'
+  date: '2025-01-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-28.10.2024/fw_earth_miui_EARTHINGlobal_OS1.0.7.0.UCVINXM_72384ccb4b_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHINGlobal_OS1.0.7.0.UCVINXM_72384ccb4b_14.0.zip
-  filename: fw_earth_miui_EARTHINGlobal_OS1.0.7.0.UCVINXM_72384ccb4b_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-07.01.2025/fw_earth_miui_EARTHINGlobal_OS1.0.8.0.UCVINXM_44571cf9bd_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHINGlobal_OS1.0.8.0.UCVINXM_44571cf9bd_14.0.zip
+  filename: fw_earth_miui_EARTHINGlobal_OS1.0.8.0.UCVINXM_44571cf9bd_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.7.0.UCVINXM
+    miui: OS1.0.8.0.UCVINXM
