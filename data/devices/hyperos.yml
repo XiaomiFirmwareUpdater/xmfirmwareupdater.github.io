@@ -1344,6 +1344,12 @@
   version: OS1.0.10.0.ULGCNXM
 - android: '14.0'
   codename: daumier
+  date: '2025-01-06'
+  download: https://bigota.d.miui.com/OS1.0.14.0.ULGCNXM/fw_daumier_miui_DAUMIER_OS1.0.14.0.ULGCNXM_fd9fdb4c69_14.0.zip
+  name: Xiaomi 12 Pro Dimensity
+  version: OS1.0.14.0.ULGCNXM
+- android: '14.0'
+  codename: daumier
   date: '2024-09-05'
   download: https://bigota.d.miui.com/OS1.0.6.0.ULGCNXM/fw_daumier_miui_DAUMIER_OS1.0.6.0.ULGCNXM_0c4c3cc112_14.0.zip
   name: Xiaomi 12 Pro Dimensity
@@ -5476,6 +5482,18 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.ULMMIXM/fw_munch_miui_MUNCHGlobal_OS1.0.1.0.ULMMIXM_fcd5899d29_14.0.zip
   name: Redmi K40S/POCO F4
   version: OS1.0.1.0.ULMMIXM
+- android: '14.0'
+  codename: munch
+  date: '2025-01-06'
+  download: https://bigota.d.miui.com/OS1.0.8.0.ULMMIXM/fw_munch_miui_MUNCHGlobal_OS1.0.8.0.ULMMIXM_a35c5168d9_14.0.zip
+  name: Redmi K40S/POCO F4
+  version: OS1.0.8.0.ULMMIXM
+- android: '14.0'
+  codename: munch
+  date: '2025-01-06'
+  download: https://bigota.d.miui.com/OS1.0.8.0.ULMCNXM/fw_munch_miui_MUNCH_OS1.0.8.0.ULMCNXM_a2ac8e13d5_14.0.zip
+  name: Redmi K40S/POCO F4
+  version: OS1.0.8.0.ULMCNXM
 - android: '14.0'
   codename: munch
   date: '2024-08-05'
