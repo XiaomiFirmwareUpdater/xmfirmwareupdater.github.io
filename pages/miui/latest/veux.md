@@ -54,6 +54,7 @@ permalink: /miui/veux/
                 <tbody>
                 <tr><td>Redmi Note 11E Pro China</td><td>Public Beta</td><td>Fastboot</td><td>V13.0.1.1.37.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-06-07</td><td><a href="/miui/veux/public beta/V13.0.1.1.37.DEV/">Download</a></td></tr>
 <tr><td>Redmi Note 11E Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.24.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-10-28</td><td><a href="/miui/veux/public beta/V13.1.22.10.24.DEV/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TKCIDXM</td><td>13.0</td><td>3.9 GB</td><td>2024-03-17</td><td><a href="/miui/veux/stable beta/V14.0.5.0.TKCIDXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
