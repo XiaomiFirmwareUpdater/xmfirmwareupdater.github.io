@@ -9,15 +9,15 @@
     android: '14.0'
     miui: OS1.0.14.0.UMNMIXM
 - branch: stable
-  date: '2024-12-09'
+  date: '2025-01-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-09.12.2024/fw_mondrian_miui_MONDRIAN_OS1.0.16.0.UMNCNXM_548484eef3_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/mondrian/fw_mondrian_miui_MONDRIAN_OS1.0.16.0.UMNCNXM_548484eef3_14.0.zip
-  filename: fw_mondrian_miui_MONDRIAN_OS1.0.16.0.UMNCNXM_548484eef3_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-07.01.2025/fw_mondrian_mondrian-ota_full-OS2.0.3.0.VMNCNXM-user-15.0-5693033baf.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mondrian/fw_mondrian_mondrian-ota_full-OS2.0.3.0.VMNCNXM-user-15.0-5693033baf.zip
+  filename: fw_mondrian_mondrian-ota_full-OS2.0.3.0.VMNCNXM-user-15.0-5693033baf.zip
   region: China
   versions:
-    android: '14.0'
-    miui: OS1.0.16.0.UMNCNXM
+    android: '15.0'
+    miui: OS2.0.3.0.VMNCNXM
 - branch: stable
   date: '2024-12-16'
   downloads:

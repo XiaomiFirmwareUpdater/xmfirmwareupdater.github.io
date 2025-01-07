@@ -539,6 +539,16 @@
     android: '14.0'
     miui: OS1.0.6.0.ULCEUXM
 - branch: stable
+  date: '2025-01-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-07.01.2025/fw_cupid_miui_CUPID_OS1.0.12.0.ULCCNXM_e5ab3c821b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/cupid/fw_cupid_miui_CUPID_OS1.0.12.0.ULCCNXM_e5ab3c821b_14.0.zip
+  filename: fw_cupid_miui_CUPID_OS1.0.12.0.ULCCNXM_e5ab3c821b_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.12.0.ULCCNXM
+- branch: stable
   date: '2024-08-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-05.08.2024/fw_cupid_miui_CUPIDGlobal_OS1.0.4.0.ULCMIXM_8bbe01b2d0_14.0.zip

@@ -1169,15 +1169,15 @@
     android: '14.0'
     miui: OS1.0.9.0.ULCMIXM
 - branch: stable
-  date: '2024-12-16'
+  date: '2025-01-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-16.12.2024/fw_cupid_miui_CUPID_OS1.0.11.0.ULCCNXM_9a494253a0_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/cupid/fw_cupid_miui_CUPID_OS1.0.11.0.ULCCNXM_9a494253a0_14.0.zip
-  filename: fw_cupid_miui_CUPID_OS1.0.11.0.ULCCNXM_9a494253a0_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-07.01.2025/fw_cupid_miui_CUPID_OS1.0.12.0.ULCCNXM_e5ab3c821b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/cupid/fw_cupid_miui_CUPID_OS1.0.12.0.ULCCNXM_e5ab3c821b_14.0.zip
+  filename: fw_cupid_miui_CUPID_OS1.0.12.0.ULCCNXM_e5ab3c821b_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.11.0.ULCCNXM
+    miui: OS1.0.12.0.ULCCNXM
 - branch: stable
   date: '2024-12-20'
   downloads:
@@ -3399,15 +3399,15 @@
     android: '14.0'
     miui: OS1.0.14.0.UMNMIXM
 - branch: stable
-  date: '2024-12-09'
+  date: '2025-01-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-09.12.2024/fw_mondrian_miui_MONDRIAN_OS1.0.16.0.UMNCNXM_548484eef3_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/mondrian/fw_mondrian_miui_MONDRIAN_OS1.0.16.0.UMNCNXM_548484eef3_14.0.zip
-  filename: fw_mondrian_miui_MONDRIAN_OS1.0.16.0.UMNCNXM_548484eef3_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-07.01.2025/fw_mondrian_mondrian-ota_full-OS2.0.3.0.VMNCNXM-user-15.0-5693033baf.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mondrian/fw_mondrian_mondrian-ota_full-OS2.0.3.0.VMNCNXM-user-15.0-5693033baf.zip
+  filename: fw_mondrian_mondrian-ota_full-OS2.0.3.0.VMNCNXM-user-15.0-5693033baf.zip
   region: China
   versions:
-    android: '14.0'
-    miui: OS1.0.16.0.UMNCNXM
+    android: '15.0'
+    miui: OS2.0.3.0.VMNCNXM
 - branch: stable
   date: '2024-12-16'
   downloads:
@@ -5499,15 +5499,15 @@
     android: '15.0'
     miui: OS2.0.2.0.VMTINXM
 - branch: stable
-  date: '2024-12-09'
+  date: '2025-01-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-09.12.2024/fw_thor_miui_THOR_OS1.0.14.0.ULACNXM_f5e17ed08d_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/thor/fw_thor_miui_THOR_OS1.0.14.0.ULACNXM_f5e17ed08d_14.0.zip
-  filename: fw_thor_miui_THOR_OS1.0.14.0.ULACNXM_f5e17ed08d_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-07.01.2025/fw_thor_miui_THOR_OS1.0.16.0.ULACNXM_2d1b0e6d67_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/thor/fw_thor_miui_THOR_OS1.0.16.0.ULACNXM_2d1b0e6d67_14.0.zip
+  filename: fw_thor_miui_THOR_OS1.0.16.0.ULACNXM_2d1b0e6d67_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.14.0.ULACNXM
+    miui: OS1.0.16.0.ULACNXM
 - branch: stable
   date: '2024-06-12'
   downloads:
@@ -5919,15 +5919,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2024-12-02'
+  date: '2025-01-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-02.12.2024/fw_venus_miui_VENUSEEAGlobal_OS1.0.10.0.UKBEUXM_4abfac5114_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/venus/fw_venus_miui_VENUSEEAGlobal_OS1.0.10.0.UKBEUXM_4abfac5114_14.0.zip
-  filename: fw_venus_miui_VENUSEEAGlobal_OS1.0.10.0.UKBEUXM_4abfac5114_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-07.01.2025/fw_venus_miui_VENUSEEAGlobal_OS1.0.12.0.UKBEUXM_3041f13a9f_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/venus/fw_venus_miui_VENUSEEAGlobal_OS1.0.12.0.UKBEUXM_3041f13a9f_14.0.zip
+  filename: fw_venus_miui_VENUSEEAGlobal_OS1.0.12.0.UKBEUXM_3041f13a9f_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.10.0.UKBEUXM
+    miui: OS1.0.12.0.UKBEUXM
 - branch: stable
   date: '2024-12-30'
   downloads:
