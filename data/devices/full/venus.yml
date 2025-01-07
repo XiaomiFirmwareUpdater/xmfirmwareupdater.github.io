@@ -1099,6 +1099,16 @@
     android: '11.0'
     miui: V12.5.2.0.RKBCNXM
 - branch: stable
+  date: '2025-01-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-08.01.2025/fw_venus_miui_VENUS_OS1.0.11.0.UKBCNXM_1bf4d90cb6_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/venus/fw_venus_miui_VENUS_OS1.0.11.0.UKBCNXM_1bf4d90cb6_14.0.zip
+  filename: fw_venus_miui_VENUS_OS1.0.11.0.UKBCNXM_1bf4d90cb6_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.11.0.UKBCNXM
+- branch: stable
   date: '2022-07-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-07.07.2022/fw_venus_miui_VENUSEEAGlobal_V13.0.7.0.SKBEUXM_62599e235f_12.0.zip
