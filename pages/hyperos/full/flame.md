@@ -52,7 +52,9 @@ permalink: /archive/hyperos/flame/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 14R 5G China</td><td>Stable</td><td>Recovery</td><td>OS1.0.12.0.UGUCNXM</td><td>14.0</td><td>4.2 GB</td><td>2024-12-12</td><td><a href="/hyperos/flame/stable/OS1.0.12.0.UGUCNXM/">Download</a></td></tr>
+                <tr><td>Redmi 14C 5G / POCO M7 5G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UGUINXM</td><td>14.0</td><td>4.2 GB</td><td>2025-01-07</td><td><a href="/hyperos/flame/stable/OS1.0.2.0.UGUINXM/">Download</a></td></tr>
+<tr><td>Redmi 14C 5G / POCO M7 5G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UGUINXM</td><td>14.0</td><td>5.9 GB</td><td>2024-12-16</td><td><a href="/hyperos/flame/stable/OS1.0.2.0.UGUINXM/">Download</a></td></tr>
+<tr><td>Redmi 14R 5G China</td><td>Stable</td><td>Recovery</td><td>OS1.0.12.0.UGUCNXM</td><td>14.0</td><td>4.2 GB</td><td>2024-12-12</td><td><a href="/hyperos/flame/stable/OS1.0.12.0.UGUCNXM/">Download</a></td></tr>
 <tr><td>Redmi 14R 5G China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.12.0.UGUCNXM</td><td>14.0</td><td>5.7 GB</td><td>2024-12-05</td><td><a href="/hyperos/flame/stable/OS1.0.12.0.UGUCNXM/">Download</a></td></tr>
 <tr><td>Redmi 14R 5G China</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UGUCNXM</td><td>14.0</td><td>4.2 GB</td><td>2024-11-07</td><td><a href="/hyperos/flame/stable/OS1.0.11.0.UGUCNXM/">Download</a></td></tr>
 <tr><td>Redmi 14R 5G China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UGUCNXM</td><td>14.0</td><td>5.6 GB</td><td>2024-11-01</td><td><a href="/hyperos/flame/stable/OS1.0.11.0.UGUCNXM/">Download</a></td></tr>

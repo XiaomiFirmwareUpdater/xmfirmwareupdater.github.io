@@ -78,7 +78,7 @@ permalink: /hyperos/thor/stable beta/OS1.0.16.0.ULACNXM/
                             aria-expanded="false" aria-controls="thor_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="thor_1_changelog">
-                        <p id="changelog_text">[System]<br>Updated the security patch to December 2024. Increased system security.</p>
+                        <p id="changelog_text">[System]<br>Optimization: System stability</p>
                     </div>
                 </li>
             </ul>

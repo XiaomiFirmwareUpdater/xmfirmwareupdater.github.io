@@ -56,6 +56,7 @@ permalink: /hyperos/chenfeng/
 <tr><td>Xiaomi Civi 4 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.VNJCNXM</td><td>15.0</td><td>7.1 GB</td><td>2024-12-22</td><td><a href="/hyperos/chenfeng/stable/OS2.0.5.0.VNJCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 4 Pro India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.UNJINXM</td><td>14.0</td><td>6.8 GB</td><td>2024-11-13</td><td><a href="/hyperos/chenfeng/stable/OS1.0.9.0.UNJINXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 4 Pro India</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UNJINXM</td><td>14.0</td><td>5.8 GB</td><td>2024-12-04</td><td><a href="/hyperos/chenfeng/stable/OS1.0.9.0.UNJINXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 4 Pro India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.10.0.UNJINXM</td><td>14.0</td><td>5.8 GB</td><td>2025-01-02</td><td><a href="/hyperos/chenfeng/stable beta/OS1.0.10.0.UNJINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

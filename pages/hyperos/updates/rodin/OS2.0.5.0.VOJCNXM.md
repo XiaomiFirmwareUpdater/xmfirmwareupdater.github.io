@@ -102,7 +102,7 @@ permalink: /hyperos/rodin/stable/OS2.0.5.0.VOJCNXM/
                     <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>484 Bytes</h5>
+                    <h5><b>Size: </b>9.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-12-26</h5>

@@ -882,6 +882,12 @@
   version: OS1.0.14.0.UNJCNXM
 - android: '14.0'
   codename: chenfeng
+  date: '2025-01-07'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UNJINXM/fw_chenfeng_miui_CHENFENGINGlobal_OS1.0.10.0.UNJINXM_5bc8e7a8e8_14.0.zip
+  name: Xiaomi Civi 4 Pro
+  version: OS1.0.10.0.UNJINXM
+- android: '14.0'
+  codename: chenfeng
   date: '2024-09-04'
   download: https://bigota.d.miui.com/OS1.0.5.0.UNJINXM/fw_chenfeng_miui_CHENFENGINGlobal_OS1.0.5.0.UNJINXM_711314f76c_14.0.zip
   name: Xiaomi Civi 4 Pro
@@ -1594,6 +1600,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULFEUXM/fw_diting_miui_DITINGEEAGlobal_OS1.0.2.0.ULFEUXM_e23a2c465c_14.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: OS1.0.2.0.ULFEUXM
+- android: '14.0'
+  codename: diting
+  date: '2025-01-07'
+  download: https://bigota.d.miui.com/OS1.0.13.0.ULFCNXM/fw_diting_miui_DITING_OS1.0.13.0.ULFCNXM_258880d212_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.13.0.ULFCNXM
 - android: '14.0'
   codename: diting
   date: '2024-08-02'
@@ -2428,6 +2440,12 @@
   download: https://bigota.d.miui.com/OS1.0.11.0.UGUCNXM/fw_flame_miui_FLAME_OS1.0.11.0.UGUCNXM_f998e608d6_14.0.zip
   name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
   version: OS1.0.11.0.UGUCNXM
+- android: '14.0'
+  codename: flame
+  date: '2025-01-07'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UGUINXM/fw_flame_miui_FLAMEINGlobal_OS1.0.2.0.UGUINXM_f6015ae108_14.0.zip
+  name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
+  version: OS1.0.2.0.UGUINXM
 - android: '14.0'
   codename: flare
   date: '2024-08-28'
@@ -4456,6 +4474,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UKOMIXM/fw_lisa_miui_LISAGlobal_OS1.0.7.0.UKOMIXM_b50ba54f27_14.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
   version: OS1.0.7.0.UKOMIXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-01-07'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UKOCNXM/fw_lisa_miui_LISA_OS1.0.9.0.UKOCNXM_e6c30298ad_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.9.0.UKOCNXM
 - android: '14.0'
   codename: lisa
   date: '2024-03-04'
