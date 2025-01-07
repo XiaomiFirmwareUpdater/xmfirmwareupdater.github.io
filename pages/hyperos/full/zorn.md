@@ -52,12 +52,13 @@ permalink: /archive/hyperos/zorn/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K80 China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.101.0.VOKCNXM</td><td>15.0</td><td>7.1 GB</td><td>2024-12-27</td><td><a href="/hyperos/zorn/stable beta/OS2.0.101.0.VOKCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K80 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VOKCNXM</td><td>15.0</td><td>9.2 GB</td><td>2025-01-07</td><td><a href="/hyperos/zorn/stable/OS2.0.101.0.VOKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K80 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.101.0.VOKCNXM</td><td>15.0</td><td>7.1 GB</td><td>2024-12-27</td><td><a href="/hyperos/zorn/stable/OS2.0.101.0.VOKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.13.0.VOKCNXM</td><td>15.0</td><td>7.1 GB</td><td>2024-12-21</td><td><a href="/hyperos/zorn/stable/OS2.0.13.0.VOKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.13.0.VOKCNXM</td><td>15.0</td><td>9.1 GB</td><td>2024-12-19</td><td><a href="/hyperos/zorn/stable/OS2.0.13.0.VOKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K80 China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.12.0.VOKCNXM</td><td>15.0</td><td>7.1 GB</td><td>2024-12-12</td><td><a href="/hyperos/zorn/stable beta/OS2.0.12.0.VOKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.9.0.VOKCNXM</td><td>15.0</td><td>7.1 GB</td><td>2024-11-28</td><td><a href="/hyperos/zorn/stable/OS2.0.9.0.VOKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.9.0.VOKCNXM</td><td>15.0</td><td>9.0 GB</td><td>2024-11-26</td><td><a href="/hyperos/zorn/stable/OS2.0.9.0.VOKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K80 China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.12.0.VOKCNXM</td><td>15.0</td><td>7.1 GB</td><td>2024-12-12</td><td><a href="/hyperos/zorn/stable beta/OS2.0.12.0.VOKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.8.0.VOKCNXM</td><td>15.0</td><td>7.1 GB</td><td>2024-11-27</td><td><a href="/hyperos/zorn/stable beta/OS2.0.8.0.VOKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.2.0.VOKCNXM</td><td>15.0</td><td>7.1 GB</td><td>2024-11-27</td><td><a href="/hyperos/zorn/stable beta/OS2.0.2.0.VOKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.6.0.VOKCNXM</td><td>15.0</td><td>7.1 GB</td><td>2024-11-27</td><td><a href="/hyperos/zorn/stable/OS2.0.6.0.VOKCNXM/">Download</a></td></tr>
