@@ -3,7 +3,7 @@ title: Redmi Pad Pro / POCO Pad Global HyperOS OS2.0.1.0.VNSMIXM Update
 layout: download
 name: Redmi Pad Pro / POCO Pad Global
 codename: dizi
-permalink: /hyperos/dizi/stable beta/OS2.0.1.0.VNSMIXM/
+permalink: /hyperos/dizi/stable/OS2.0.1.0.VNSMIXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/dizi/stable beta/OS2.0.1.0.VNSMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.1.0.VNSMIXM Stable Beta Official Update for Redmi Pad Pro / POCO Pad Global (dizi)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.1.0.VNSMIXM Stable Official Update for Redmi Pad Pro / POCO Pad Global (dizi)</h3>
     <h5>This page shows the OS2.0.1.0.VNSMIXM update only. If you're looking for other updates check
         <a href="/hyperos/dizi/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/dizi/stable beta/OS2.0.1.0.VNSMIXM/
                     <h5><b>Version: </b>OS2.0.1.0.VNSMIXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/dizi/stable beta/OS2.0.1.0.VNSMIXM/
                             aria-expanded="false" aria-controls="dizi_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="dizi_1_changelog">
+                        <p id="changelog_text">[Alive Design Philosophy]<br>Alive Design Philosophy unveils fresh, vibrant design across the whole system, making every interaction feel smooth and alive.<br>All-new Gallery:<br>With AI and reorganized collections, Gallery makes your memories even more vivid.<br>All-new Weather<br>Real-time Weather Engine 2.0 shows you the sky and clouds just like in real life – even lets you see rainbows and the Milky Way.<br>All-new Calendar:<br>The new Desktop calendar adds a touch of ritual to your day.<br>All-new Clock:<br>Updated Clock uses a more refined display structure for a more elegant, easy-to-read look.<br>Updated animations:<br>A full-scale animation upgrade makes every interaction flow smoothly and feel stable, responsive, and comfortable.<br>[Xiaomi HyperCore]<br>Xiaomi HyperCore, Xiaomi's proprietary core technology platform, enhances performance, graphics, network, and security.<br>[Xiaomi HyperConnect]<br>Upgraded cross-device connectivity framework.<br>Upgraded Home screen+:<br>You can drag phone apps onto Xiaomi tablets or add them as native apps.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi Pad Pro / POCO Pad Global</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/dizi/" target="_blank">dizi</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.1.0.VNSMIXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>5.7 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-12-16</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dizi_global_images_OS2.0.1.0.VNSMIXM_20241216.0000.00_15.0_global_6e6f43889c.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6e6f43889c7e135cf73831449e0081d7</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.1.0.VNSMIXM/dizi_global_images_OS2.0.1.0.VNSMIXM_20241216.0000.00_15.0_global_6e6f43889c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.1.0.VNSMIXM/dizi_global_images_OS2.0.1.0.VNSMIXM_20241216.0000.00_15.0_global_6e6f43889c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.1.0.VNSMIXM/dizi_global_images_OS2.0.1.0.VNSMIXM_20241216.0000.00_15.0_global_6e6f43889c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.1.0.VNSMIXM/dizi_global_images_OS2.0.1.0.VNSMIXM_20241216.0000.00_15.0_global_6e6f43889c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.1.0.VNSMIXM/dizi_global_images_OS2.0.1.0.VNSMIXM_20241216.0000.00_15.0_global_6e6f43889c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#dizi_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="dizi_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="dizi_2_changelog">
                         <p id="changelog_text">[Alive Design Philosophy]<br>Alive Design Philosophy unveils fresh, vibrant design across the whole system, making every interaction feel smooth and alive.<br>All-new Gallery:<br>With AI and reorganized collections, Gallery makes your memories even more vivid.<br>All-new Weather<br>Real-time Weather Engine 2.0 shows you the sky and clouds just like in real life – even lets you see rainbows and the Milky Way.<br>All-new Calendar:<br>The new Desktop calendar adds a touch of ritual to your day.<br>All-new Clock:<br>Updated Clock uses a more refined display structure for a more elegant, easy-to-read look.<br>Updated animations:<br>A full-scale animation upgrade makes every interaction flow smoothly and feel stable, responsive, and comfortable.<br>[Xiaomi HyperCore]<br>Xiaomi HyperCore, Xiaomi's proprietary core technology platform, enhances performance, graphics, network, and security.<br>[Xiaomi HyperConnect]<br>Upgraded cross-device connectivity framework.<br>Upgraded Home screen+:<br>You can drag phone apps onto Xiaomi tablets or add them as native apps.</p>
                     </div>
                 </li>
