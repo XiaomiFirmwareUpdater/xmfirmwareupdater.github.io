@@ -2106,6 +2106,12 @@
   version: OS1.0.5.0.UCVCNXM
 - android: '14.0'
   codename: earth
+  date: '2025-01-08'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UCVMIXM/fw_earth_miui_EARTHGlobal_OS1.0.8.0.UCVMIXM_0fffafb91c_14.0.zip
+  name: Redmi 12C/POCO C55
+  version: OS1.0.8.0.UCVMIXM
+- android: '14.0'
+  codename: earth
   date: '2025-01-06'
   download: https://bigota.d.miui.com/OS1.0.8.0.UCVINXM/fw_earth_miui_EARTHINGlobal_OS1.0.8.0.UCVINXM_44571cf9bd_14.0.zip
   name: Redmi 12C/POCO C55
@@ -2770,6 +2776,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UMCMIXM/fw_fuxi_miui_FUXIGlobal_OS1.0.10.0.UMCMIXM_3c59bd0eea_14.0.zip
   name: Xiaomi 13
   version: OS1.0.10.0.UMCMIXM
+- android: '14.0'
+  codename: fuxi
+  date: '2025-01-08'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UMCEUXM/fw_fuxi_miui_FUXIEEAGlobal_OS1.0.11.0.UMCEUXM_20acbf1fee_14.0.zip
+  name: Xiaomi 13
+  version: OS1.0.11.0.UMCEUXM
 - android: '14.0'
   codename: fuxi
   date: '2024-02-05'
@@ -7254,6 +7266,12 @@
   version: OS1.0.3.0.UFSEUXM
 - android: '14.0'
   codename: ruan
+  date: '2025-01-08'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UFSCNXM/fw_ruan_miui_RUAN_OS1.0.10.0.UFSCNXM_8fcf980cf0_14.0.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS1.0.10.0.UFSCNXM
+- android: '14.0'
+  codename: ruan
   date: '2024-11-06'
   download: https://bigota.d.miui.com/OS1.0.7.0.UFSMIXM/fw_ruan_miui_RUANGlobal_OS1.0.7.0.UFSMIXM_b40b382c5e_14.0.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
@@ -10600,6 +10618,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.ULBEUXM/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.9.0.ULBEUXM_80411efc9c_14.0.zip
   name: Xiaomi 12 Pro
   version: OS1.0.9.0.ULBEUXM
+- android: '14.0'
+  codename: zeus
+  date: '2025-01-08'
+  download: https://bigota.d.miui.com/OS1.0.17.0.ULBEUXM/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.17.0.ULBEUXM_004449d5de_14.0.zip
+  name: Xiaomi 12 Pro
+  version: OS1.0.17.0.ULBEUXM
 - android: '14.0'
   codename: zeus
   date: '2024-03-05'
