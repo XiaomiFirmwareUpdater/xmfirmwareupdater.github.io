@@ -1891,13 +1891,13 @@
 - branch: stable
   date: '2025-01-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-08.01.2025/fw_fuxi_miui_FUXIEEAGlobal_OS1.0.11.0.UMCEUXM_20acbf1fee_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fuxi/fw_fuxi_miui_FUXIEEAGlobal_OS1.0.11.0.UMCEUXM_20acbf1fee_14.0.zip
-  filename: fw_fuxi_miui_FUXIEEAGlobal_OS1.0.11.0.UMCEUXM_20acbf1fee_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-08.01.2025/fw_fuxi_eea_global_fuxi_eea_global-ota_full-OS2.0.2.0.VMCEUXM-user-15.0-9b7d7c7038.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/fuxi/fw_fuxi_eea_global_fuxi_eea_global-ota_full-OS2.0.2.0.VMCEUXM-user-15.0-9b7d7c7038.zip
+  filename: fw_fuxi_eea_global_fuxi_eea_global-ota_full-OS2.0.2.0.VMCEUXM-user-15.0-9b7d7c7038.zip
   region: Europe
   versions:
-    android: '14.0'
-    miui: OS1.0.11.0.UMCEUXM
+    android: '15.0'
+    miui: OS2.0.2.0.VMCEUXM
 - branch: stable
   date: '2025-01-06'
   downloads:
@@ -3199,15 +3199,15 @@
     android: '14.0'
     miui: OS1.0.17.0.UMREUXM
 - branch: stable
-  date: '2024-12-09'
+  date: '2025-01-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-09.12.2024/fw_marble_miui_MARBLEINGlobal_OS1.0.15.0.UMRINXM_ec1d808689_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEINGlobal_OS1.0.15.0.UMRINXM_ec1d808689_14.0.zip
-  filename: fw_marble_miui_MARBLEINGlobal_OS1.0.15.0.UMRINXM_ec1d808689_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-08.01.2025/fw_marble_miui_MARBLEINGlobal_OS1.0.17.0.UMRINXM_3acce875ad_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEINGlobal_OS1.0.17.0.UMRINXM_3acce875ad_14.0.zip
+  filename: fw_marble_miui_MARBLEINGlobal_OS1.0.17.0.UMRINXM_3acce875ad_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.15.0.UMRINXM
+    miui: OS1.0.17.0.UMRINXM
 - branch: stable
   date: '2019-05-20'
   downloads:
