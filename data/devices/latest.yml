@@ -1239,15 +1239,15 @@
     android: '12.0'
     miui: V14.0.3.0.SJWINXM
 - branch: stable
-  date: '2024-12-30'
+  date: '2025-01-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dada/releases/download/stable-31.12.2024/fw_dada_dada-ota_full-OS2.0.28.0.VOCCNXM-user-15.0-90ae2f7f5f.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dada/fw_dada_dada-ota_full-OS2.0.28.0.VOCCNXM-user-15.0-90ae2f7f5f.zip
-  filename: fw_dada_dada-ota_full-OS2.0.28.0.VOCCNXM-user-15.0-90ae2f7f5f.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dada/releases/download/stable-09.01.2025/fw_dada_dada-ota_full-OS2.0.101.0.VOCCNXM-user-15.0-8cd21e2a29.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dada/fw_dada_dada-ota_full-OS2.0.101.0.VOCCNXM-user-15.0-8cd21e2a29.zip
+  filename: fw_dada_dada-ota_full-OS2.0.101.0.VOCCNXM-user-15.0-8cd21e2a29.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.28.0.VOCCNXM
+    miui: OS2.0.101.0.VOCCNXM
 - branch: stable
   date: '2024-12-09'
   downloads:
@@ -2229,15 +2229,15 @@
     android: '11.0'
     miui: V12.5.1.0.RFBEUXM
 - branch: stable
-  date: '2024-12-30'
+  date: '2025-01-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haotian/releases/download/stable-31.12.2024/fw_haotian_haotian-ota_full-OS2.0.28.0.VOBCNXM-user-15.0-862b05f803.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/haotian/fw_haotian_haotian-ota_full-OS2.0.28.0.VOBCNXM-user-15.0-862b05f803.zip
-  filename: fw_haotian_haotian-ota_full-OS2.0.28.0.VOBCNXM-user-15.0-862b05f803.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haotian/releases/download/stable-09.01.2025/fw_haotian_haotian-ota_full-OS2.0.101.0.VOBCNXM-user-15.0-f098ac3091.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/haotian/fw_haotian_haotian-ota_full-OS2.0.101.0.VOBCNXM-user-15.0-f098ac3091.zip
+  filename: fw_haotian_haotian-ota_full-OS2.0.101.0.VOBCNXM-user-15.0-f098ac3091.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.28.0.VOBCNXM
+    miui: OS2.0.101.0.VOBCNXM
 - branch: stable
   date: '2024-12-31'
   downloads:
@@ -4639,6 +4639,16 @@
     android: '14.0'
     miui: OS1.0.8.0.ULUINXM
 - branch: stable
+  date: '2025-01-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-09.01.2025/fw_rodin_global_rodin_global-ota_full-OS2.0.8.0.VOJMIXM-user-15.0-f4d55ab50b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rodin/fw_rodin_global_rodin_global-ota_full-OS2.0.8.0.VOJMIXM-user-15.0-f4d55ab50b.zip
+  filename: fw_rodin_global_rodin_global-ota_full-OS2.0.8.0.VOJMIXM-user-15.0-f4d55ab50b.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.8.0.VOJMIXM
+- branch: stable
   date: '2025-01-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-02.01.2025/fw_rodin_rodin-ota_full-OS2.0.5.0.VOJCNXM-user-15.0-a8d6646bde.zip
@@ -4648,6 +4658,16 @@
   versions:
     android: '15.0'
     miui: OS2.0.5.0.VOJCNXM
+- branch: stable
+  date: '2025-01-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-09.01.2025/fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.10.0.VOJEUXM-user-15.0-f9989105e6.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rodin/fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.10.0.VOJEUXM-user-15.0-f9989105e6.zip
+  filename: fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.10.0.VOJEUXM-user-15.0-f9989105e6.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.10.0.VOJEUXM
 - branch: stable
   date: '2019-08-19'
   downloads:
@@ -6489,15 +6509,15 @@
     android: '14.0'
     miui: OS1.0.17.0.ULBEUXM
 - branch: stable
-  date: '2024-12-02'
+  date: '2025-01-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-02.12.2024/fw_zeus_miui_ZEUSINGlobal_OS1.0.8.0.ULBINXM_caa870f915_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zeus/fw_zeus_miui_ZEUSINGlobal_OS1.0.8.0.ULBINXM_caa870f915_14.0.zip
-  filename: fw_zeus_miui_ZEUSINGlobal_OS1.0.8.0.ULBINXM_caa870f915_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-09.01.2025/fw_zeus_miui_ZEUSINGlobal_OS1.0.9.0.ULBINXM_aa312c17fd_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zeus/fw_zeus_miui_ZEUSINGlobal_OS1.0.9.0.ULBINXM_aa312c17fd_14.0.zip
+  filename: fw_zeus_miui_ZEUSINGlobal_OS1.0.9.0.ULBINXM_aa312c17fd_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.8.0.ULBINXM
+    miui: OS1.0.9.0.ULBINXM
 - branch: stable
   date: '2024-12-12'
   downloads:

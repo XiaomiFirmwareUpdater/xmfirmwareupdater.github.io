@@ -52,9 +52,9 @@ permalink: /hyperos/corot/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K60 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.25.0.UMLCNXM</td><td>14.0</td><td>8.2 GB</td><td>2024-11-27</td><td><a href="/hyperos/corot/stable/OS1.0.25.0.UMLCNXM/">Download</a></td></tr>
-<tr><td>Redmi K60 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.25.0.UMLCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-12-12</td><td><a href="/hyperos/corot/stable/OS1.0.25.0.UMLCNXM/">Download</a></td></tr>
-<tr><td>Redmi K60 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.4.0.VMLCNXM</td><td>15.0</td><td>6.8 GB</td><td>2024-12-25</td><td><a href="/hyperos/corot/stable beta/OS2.0.4.0.VMLCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K60 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.4.0.VMLCNXM</td><td>15.0</td><td>8.7 GB</td><td>2024-12-20</td><td><a href="/hyperos/corot/stable/OS2.0.4.0.VMLCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.4.0.VMLCNXM</td><td>15.0</td><td>6.8 GB</td><td>2024-12-25</td><td><a href="/hyperos/corot/stable/OS2.0.4.0.VMLCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.17.0.UMLCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-07-05</td><td><a href="/hyperos/corot/stable beta/OS1.0.17.0.UMLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.9.0.VMLEUXM</td><td>15.0</td><td>8.0 GB</td><td>2024-11-22</td><td><a href="/hyperos/corot/stable/OS2.0.9.0.VMLEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.9.0.VMLEUXM</td><td>15.0</td><td>6.2 GB</td><td>2024-11-26</td><td><a href="/hyperos/corot/stable/OS2.0.9.0.VMLEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.1.5.0.VMLEUXM</td><td>15.0</td><td>6.1 GB</td><td>2024-11-01</td><td><a href="/hyperos/corot/stable beta/OS1.1.5.0.VMLEUXM/">Download</a></td></tr>
