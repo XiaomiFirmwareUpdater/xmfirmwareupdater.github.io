@@ -966,72 +966,6 @@
   version: V13.0.1.0.SJFINXM
 - android: '12.0'
   codename: cmi
-  date: '2022-03-25'
-  download: https://bigota.d.miui.com/22.3.23/fw_cmi_miui_CMIPRE_22.3.23_5aa5aaf8d2_12.0.zip
-  name: Mi 10 Pro
-  version: 22.3.23
-- android: '12.0'
-  codename: cmi
-  date: '2022-02-25'
-  download: https://bigota.d.miui.com/22.2.23/fw_cmi_miui_CMIPRE_22.2.23_d095b5b82f_12.0.zip
-  name: Mi 10 Pro
-  version: 22.2.23
-- android: '12.0'
-  codename: cmi
-  date: '2022-01-21'
-  download: https://bigota.d.miui.com/22.1.19/fw_cmi_miui_CMIPRE_22.1.19_5f3a7ea416_12.0.zip
-  name: Mi 10 Pro
-  version: 22.1.19
-- android: '12.0'
-  codename: cmi
-  date: '2022-02-18'
-  download: https://bigota.d.miui.com/22.2.16/fw_cmi_miui_CMIPRE_22.2.16_133b38b78d_12.0.zip
-  name: Mi 10 Pro
-  version: 22.2.16
-- android: '12.0'
-  codename: cmi
-  date: '2022-02-13'
-  download: https://bigota.d.miui.com/22.2.9/fw_cmi_miui_CMIPRE_22.2.9_6b2be2c483_12.0.zip
-  name: Mi 10 Pro
-  version: 22.2.9
-- android: '12.0'
-  codename: cmi
-  date: '2022-03-04'
-  download: https://bigota.d.miui.com/22.3.3/fw_cmi_miui_CMIPRE_22.3.3_c989015a70_12.0.zip
-  name: Mi 10 Pro
-  version: 22.3.3
-- android: '12.0'
-  codename: cmi
-  date: '2022-07-28'
-  download: https://bigota.d.miui.com/V13.0.3.0.SJAMIXM/fw_cmi_miui_CMIGlobal_V13.0.3.0.SJAMIXM_b264ab5702_12.0.zip
-  name: Mi 10 Pro
-  version: V13.0.3.0.SJAMIXM
-- android: '12.0'
-  codename: cmi
-  date: '2022-04-28'
-  download: https://bigota.d.miui.com/V13.0.2.0.SJAMIXM/fw_cmi_miui_CMIGlobal_V13.0.2.0.SJAMIXM_144a191a3d_12.0.zip
-  name: Mi 10 Pro
-  version: V13.0.2.0.SJAMIXM
-- android: '12.0'
-  codename: cmi
-  date: '2022-04-20'
-  download: https://bigota.d.miui.com/V13.0.2.0.SJAEUXM/fw_cmi_miui_CMIEEAGlobal_V13.0.2.0.SJAEUXM_f41362a8f6_12.0.zip
-  name: Mi 10 Pro
-  version: V13.0.2.0.SJAEUXM
-- android: '12.0'
-  codename: cmi
-  date: '2022-09-19'
-  download: https://bigota.d.miui.com/V13.0.4.0.SJAEUXM/fw_cmi_miui_CMIEEAGlobal_V13.0.4.0.SJAEUXM_a4e38e6e5a_12.0.zip
-  name: Mi 10 Pro
-  version: V13.0.4.0.SJAEUXM
-- android: '12.0'
-  codename: cmi
-  date: '2022-06-19'
-  download: https://bigota.d.miui.com/V13.0.3.0.SJAEUXM/fw_cmi_miui_CMIEEAGlobal_V13.0.3.0.SJAEUXM_9657b3ddc0_12.0.zip
-  name: Mi 10 Pro
-  version: V13.0.3.0.SJAEUXM
-- android: '12.0'
-  codename: cmi
   date: '2022-03-17'
   download: https://bigota.d.miui.com/V13.0.3.0.SJACNXM/fw_cmi_miui_CMI_V13.0.3.0.SJACNXM_ff3957663c_12.0.zip
   name: Mi 10 Pro
@@ -1342,42 +1276,6 @@
   download: https://bigota.d.miui.com/V13.0.2.0.SJWEUXM/fw_curtana_miui_CURTANAEEAGlobal_V13.0.2.0.SJWEUXM_7f096d8a04_12.0.zip
   name: Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite
   version: V13.0.2.0.SJWEUXM
-- android: '12.0'
-  codename: dagu
-  date: '2022-10-27'
-  download: https://bigota.d.miui.com/V13.1.7.0.SLZCNXM/fw_dagu_miui_DAGU_V13.1.7.0.SLZCNXM_19dc3af3c2_12.0.zip
-  name: Xiaomi Pad 5 Pro 12.4
-  version: V13.1.7.0.SLZCNXM
-- android: '12.0'
-  codename: dagu
-  date: '2022-08-16'
-  download: https://bigota.d.miui.com/V13.1.4.0.SLZCNXM/fw_dagu_miui_DAGU_V13.1.4.0.SLZCNXM_ef396bc25c_12.0.zip
-  name: Xiaomi Pad 5 Pro 12.4
-  version: V13.1.4.0.SLZCNXM
-- android: '12.0'
-  codename: daumier
-  date: '2022-10-24'
-  download: https://bigota.d.miui.com/V13.0.15.0.SLGCNXM/fw_daumier_miui_DAUMIER_V13.0.15.0.SLGCNXM_dc1f650281_12.0.zip
-  name: Xiaomi 12 Pro Dimensity
-  version: V13.0.15.0.SLGCNXM
-- android: '12.0'
-  codename: daumier
-  date: '2022-07-12'
-  download: https://bigota.d.miui.com/V13.0.8.0.SLGCNXM/fw_daumier_miui_DAUMIER_V13.0.8.0.SLGCNXM_afd5a12cc7_12.0.zip
-  name: Xiaomi 12 Pro Dimensity
-  version: V13.0.8.0.SLGCNXM
-- android: '12.0'
-  codename: daumier
-  date: '2022-08-08'
-  download: https://bigota.d.miui.com/V13.0.13.0.SLGCNXM/fw_daumier_miui_DAUMIER_V13.0.13.0.SLGCNXM_1f66e033c0_12.0.zip
-  name: Xiaomi 12 Pro Dimensity
-  version: V13.0.13.0.SLGCNXM
-- android: '12.0'
-  codename: daumier
-  date: '2022-07-07'
-  download: https://bigota.d.miui.com/V13.0.2.0.SLGCNXM/fw_daumier_miui_DAUMIER_V13.0.2.0.SLGCNXM_84f184b409_12.0.zip
-  name: Xiaomi 12 Pro Dimensity
-  version: V13.0.2.0.SLGCNXM
 - android: '12.0'
   codename: diting
   date: '2022-08-22'

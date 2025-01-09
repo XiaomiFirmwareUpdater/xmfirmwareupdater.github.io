@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2023-05-29'
+  date: '2022-09-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-29.05.2023/fw_cmi_miui_CMIGlobal_V14.0.5.0.TJAMIXM_3a405e0f11_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/cmi/fw_cmi_miui_CMIGlobal_V14.0.5.0.TJAMIXM_3a405e0f11_13.0.zip
-  filename: fw_cmi_miui_CMIGlobal_V14.0.5.0.TJAMIXM_3a405e0f11_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-01.09.2022/fw_cmi_miui_CMIGlobal_V13.0.4.0.SJAMIXM_b30f26c6f2_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cmi/fw_cmi_miui_CMIGlobal_V13.0.4.0.SJAMIXM_b30f26c6f2_12.0.zip
+  filename: fw_cmi_miui_CMIGlobal_V13.0.4.0.SJAMIXM_b30f26c6f2_12.0.zip
   region: Global
   versions:
-    android: '13.0'
-    miui: V14.0.5.0.TJAMIXM
+    android: '12.0'
+    miui: V13.0.4.0.SJAMIXM
 - branch: stable
   date: '2023-05-15'
   downloads:
@@ -18,23 +18,13 @@
   versions:
     android: '13.0'
     miui: V14.0.3.0.TJACNXM
-- branch: weekly
-  date: '2022-03-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/weekly-25.03.2022/fw_cmi_miui_CMIPRE_22.3.23_5aa5aaf8d2_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.23/cmi/fw_cmi_miui_CMIPRE_22.3.23_5aa5aaf8d2_12.0.zip
-  filename: fw_cmi_miui_CMIPRE_22.3.23_5aa5aaf8d2_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 22.3.23
 - branch: stable
-  date: '2023-05-29'
+  date: '2023-02-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-29.05.2023/fw_cmi_miui_CMIEEAGlobal_V14.0.3.0.TJAEUXM_d97dc491ac_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/cmi/fw_cmi_miui_CMIEEAGlobal_V14.0.3.0.TJAEUXM_d97dc491ac_13.0.zip
-  filename: fw_cmi_miui_CMIEEAGlobal_V14.0.3.0.TJAEUXM_d97dc491ac_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-01.02.2023/fw_cmi_miui_CMIEEAGlobal_V13.0.6.0.SJAEUXM_cd48ee1b15_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cmi/fw_cmi_miui_CMIEEAGlobal_V13.0.6.0.SJAEUXM_cd48ee1b15_12.0.zip
+  filename: fw_cmi_miui_CMIEEAGlobal_V13.0.6.0.SJAEUXM_cd48ee1b15_12.0.zip
   region: Europe
   versions:
-    android: '13.0'
-    miui: V14.0.3.0.TJAEUXM
+    android: '12.0'
+    miui: V13.0.6.0.SJAEUXM

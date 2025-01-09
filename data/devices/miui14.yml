@@ -510,18 +510,6 @@
   version: V14.0.2.0.SJFMIXM
 - android: '13.0'
   codename: cmi
-  date: '2023-05-29'
-  download: https://bigota.d.miui.com/V14.0.3.0.TJAEUXM/fw_cmi_miui_CMIEEAGlobal_V14.0.3.0.TJAEUXM_d97dc491ac_13.0.zip
-  name: Mi 10 Pro
-  version: V14.0.3.0.TJAEUXM
-- android: '13.0'
-  codename: cmi
-  date: '2023-05-29'
-  download: https://bigota.d.miui.com/V14.0.5.0.TJAMIXM/fw_cmi_miui_CMIGlobal_V14.0.5.0.TJAMIXM_3a405e0f11_13.0.zip
-  name: Mi 10 Pro
-  version: V14.0.5.0.TJAMIXM
-- android: '13.0'
-  codename: cmi
   date: '2023-05-15'
   download: https://bigota.d.miui.com/V14.0.3.0.TJACNXM/fw_cmi_miui_CMI_V14.0.3.0.TJACNXM_03a653ca7b_13.0.zip
   name: Mi 10 Pro
@@ -742,36 +730,6 @@
   download: https://bigota.d.miui.com/V14.0.3.0.SJWINXM/fw_curtana_miui_CURTANAINGlobal_V14.0.3.0.SJWINXM_9bf6b6a7ef_12.0.zip
   name: Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite
   version: V14.0.3.0.SJWINXM
-- android: '13.0'
-  codename: dagu
-  date: '2023-08-03'
-  download: https://bigota.d.miui.com/V14.0.11.0.TLZCNXM/fw_dagu_miui_DAGU_V14.0.11.0.TLZCNXM_4a23a11fd2_13.0.zip
-  name: Xiaomi Pad 5 Pro 12.4
-  version: V14.0.11.0.TLZCNXM
-- android: '13.0'
-  codename: daumier
-  date: '2023-05-28'
-  download: https://bigota.d.miui.com/V14.0.8.0.TLGCNXM/fw_daumier_miui_DAUMIER_V14.0.8.0.TLGCNXM_a3aff9f955_13.0.zip
-  name: Xiaomi 12 Pro Dimensity
-  version: V14.0.8.0.TLGCNXM
-- android: '13.0'
-  codename: daumier
-  date: '2023-02-27'
-  download: https://bigota.d.miui.com/V14.0.7.0.TLGCNXM/fw_daumier_miui_DAUMIER_V14.0.7.0.TLGCNXM_d53e0f5903_13.0.zip
-  name: Xiaomi 12 Pro Dimensity
-  version: V14.0.7.0.TLGCNXM
-- android: '13.0'
-  codename: daumier
-  date: '2023-08-22'
-  download: https://bigota.d.miui.com/V14.0.9.0.TLGCNXM/fw_daumier_miui_DAUMIER_V14.0.9.0.TLGCNXM_0052e3f6cc_13.0.zip
-  name: Xiaomi 12 Pro Dimensity
-  version: V14.0.9.0.TLGCNXM
-- android: '13.0'
-  codename: daumier
-  date: '2023-02-14'
-  download: https://bigota.d.miui.com/V14.0.3.0.TLGCNXM/fw_daumier_miui_DAUMIER_V14.0.3.0.TLGCNXM_9b5595d1b1_13.0.zip
-  name: Xiaomi 12 Pro Dimensity
-  version: V14.0.3.0.TLGCNXM
 - android: '13.0'
   codename: diting
   date: '2023-08-23'
