@@ -19,12 +19,12 @@
     android: '15.0'
     miui: OS2.0.3.0.VMXEUXM
 - branch: stable
-  date: '2024-11-12'
+  date: '2025-01-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-12.11.2024/fw_fire_miui_FIREINGlobal_OS1.0.5.0.UMXINXM_33ea4a629f_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fire/fw_fire_miui_FIREINGlobal_OS1.0.5.0.UMXINXM_33ea4a629f_14.0.zip
-  filename: fw_fire_miui_FIREINGlobal_OS1.0.5.0.UMXINXM_33ea4a629f_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-11.01.2025/fw_fire_miui_FIREINGlobal_OS1.0.8.0.UMXINXM_8ad4a2d8ca_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fire/fw_fire_miui_FIREINGlobal_OS1.0.8.0.UMXINXM_8ad4a2d8ca_14.0.zip
+  filename: fw_fire_miui_FIREINGlobal_OS1.0.8.0.UMXINXM_8ad4a2d8ca_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UMXINXM
+    miui: OS1.0.8.0.UMXINXM
