@@ -3439,15 +3439,15 @@
     android: '15.0'
     miui: OS2.0.3.0.VMNCNXM
 - branch: stable
-  date: '2024-12-16'
+  date: '2025-01-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-16.12.2024/fw_mondrian_miui_MONDRIANEEAGlobal_OS1.0.10.0.UMNEUXM_698c6f676a_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/mondrian/fw_mondrian_miui_MONDRIANEEAGlobal_OS1.0.10.0.UMNEUXM_698c6f676a_14.0.zip
-  filename: fw_mondrian_miui_MONDRIANEEAGlobal_OS1.0.10.0.UMNEUXM_698c6f676a_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-10.01.2025/fw_mondrian_miui_MONDRIANEEAGlobal_OS1.0.11.0.UMNEUXM_a26f4aba36_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/mondrian/fw_mondrian_miui_MONDRIANEEAGlobal_OS1.0.11.0.UMNEUXM_a26f4aba36_14.0.zip
+  filename: fw_mondrian_miui_MONDRIANEEAGlobal_OS1.0.11.0.UMNEUXM_a26f4aba36_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.10.0.UMNEUXM
+    miui: OS1.0.11.0.UMNEUXM
 - branch: stable
   date: '2022-11-17'
   downloads:
@@ -5439,15 +5439,15 @@
     android: '14.0'
     miui: OS1.0.13.0.UMQEUXM
 - branch: stable
-  date: '2024-10-21'
+  date: '2025-01-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-21.10.2024/fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.5.0.UMQINXM_a8a7bc6ef7_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sunstone/fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.5.0.UMQINXM_a8a7bc6ef7_14.0.zip
-  filename: fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.5.0.UMQINXM_a8a7bc6ef7_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-10.01.2025/fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.6.0.UMQINXM_6c0e91c28e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sunstone/fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.6.0.UMQINXM_6c0e91c28e_14.0.zip
+  filename: fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.6.0.UMQINXM_6c0e91c28e_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UMQINXM
+    miui: OS1.0.6.0.UMQINXM
 - branch: stable
   date: '2023-07-28'
   downloads:
@@ -5999,15 +5999,15 @@
     android: '15.0'
     miui: OS2.0.9.0.VNKCNXM
 - branch: stable
-  date: '2024-11-25'
+  date: '2025-01-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-25.11.2024/fw_vermeer_miui_VERMEEREEAGlobal_OS1.0.9.0.UNKEUXM_0e17a8e951_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vermeer/fw_vermeer_miui_VERMEEREEAGlobal_OS1.0.9.0.UNKEUXM_0e17a8e951_14.0.zip
-  filename: fw_vermeer_miui_VERMEEREEAGlobal_OS1.0.9.0.UNKEUXM_0e17a8e951_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-10.01.2025/fw_vermeer_eea_global_vermeer_eea_global-ota_full-OS2.0.2.0.VNKEUXM-user-15.0-9980fdd444.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/vermeer/fw_vermeer_eea_global_vermeer_eea_global-ota_full-OS2.0.2.0.VNKEUXM-user-15.0-9980fdd444.zip
+  filename: fw_vermeer_eea_global_vermeer_eea_global-ota_full-OS2.0.2.0.VNKEUXM-user-15.0-9980fdd444.zip
   region: Europe
   versions:
-    android: '14.0'
-    miui: OS1.0.9.0.UNKEUXM
+    android: '15.0'
+    miui: OS2.0.2.0.VNKEUXM
 - branch: stable
   date: '2024-12-16'
   downloads:
