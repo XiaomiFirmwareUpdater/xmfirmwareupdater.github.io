@@ -784,6 +784,12 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.VNUINXM/fw_breeze_in_global_breeze_in_global-ota_full-OS2.0.3.0.VNUINXM-user-15.0-c535dc4d4d.zip
   name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
   version: OS2.0.3.0.VNUINXM
+- android: '15.0'
+  codename: breeze
+  date: '2025-01-10'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VNUINXM/fw_breeze_in_global_breeze_in_global-ota_full-OS2.0.4.0.VNUINXM-user-15.0-d03dd417cf.zip
+  name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
+  version: OS2.0.4.0.VNUINXM
 - android: '14.0'
   codename: breeze
   date: '2024-07-09'
@@ -3984,6 +3990,12 @@
   version: OS1.0.5.0.ULJCNXM
 - android: '14.0'
   codename: ingres
+  date: '2025-01-10'
+  download: https://bigota.d.miui.com/OS1.0.9.0.ULJCNXM/fw_ingres_miui_INGRES_OS1.0.9.0.ULJCNXM_00a206f2bb_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.9.0.ULJCNXM
+- android: '14.0'
+  codename: ingres
   date: '2024-12-09'
   download: https://bigota.d.miui.com/OS1.0.8.0.ULJEUXM/fw_ingres_miui_INGRESEEAGlobal_OS1.0.8.0.ULJEUXM_a99eab0f52_14.0.zip
   name: Redmi K50G/POCO F4 GT
@@ -4174,6 +4186,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMAMIXM/fw_ishtar_miui_ISHTARGlobal_OS1.0.4.0.UMAMIXM_2835e1645d_14.0.zip
   name: Xiaomi 13 Ultra
   version: OS1.0.4.0.UMAMIXM
+- android: '15.0'
+  codename: ishtar
+  date: '2025-01-10'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VMAMIXM/fw_ishtar_global_ishtar_global-ota_full-OS2.0.2.0.VMAMIXM-user-15.0-458d7cc414.zip
+  name: Xiaomi 13 Ultra
+  version: OS2.0.2.0.VMAMIXM
 - android: '14.0'
   codename: ishtar
   date: '2024-08-06'
@@ -5020,6 +5038,12 @@
   download: https://bigota.d.miui.com/OS1.0.11.0.ULTCNXM/fw_mayfly_miui_MAYFLY_OS1.0.11.0.ULTCNXM_ae8d2aa0d0_14.0.zip
   name: Xiaomi 12S
   version: OS1.0.11.0.ULTCNXM
+- android: '14.0'
+  codename: mayfly
+  date: '2025-01-10'
+  download: https://bigota.d.miui.com/OS1.0.14.0.ULTCNXM/fw_mayfly_miui_MAYFLY_OS1.0.14.0.ULTCNXM_ae11669a2c_14.0.zip
+  name: Xiaomi 12S
+  version: OS1.0.14.0.ULTCNXM
 - android: '14.0'
   codename: mayfly
   date: '2024-04-07'

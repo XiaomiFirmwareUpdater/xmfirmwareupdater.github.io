@@ -579,15 +579,15 @@
     android: '14.0'
     miui: OS1.0.9.0.UNUCNXM
 - branch: stable
-  date: '2024-12-11'
+  date: '2025-01-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-11.12.2024/fw_breeze_in_global_breeze_in_global-ota_full-OS2.0.3.0.VNUINXM-user-15.0-c535dc4d4d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/breeze/fw_breeze_in_global_breeze_in_global-ota_full-OS2.0.3.0.VNUINXM-user-15.0-c535dc4d4d.zip
-  filename: fw_breeze_in_global_breeze_in_global-ota_full-OS2.0.3.0.VNUINXM-user-15.0-c535dc4d4d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-10.01.2025/fw_breeze_in_global_breeze_in_global-ota_full-OS2.0.4.0.VNUINXM-user-15.0-d03dd417cf.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/breeze/fw_breeze_in_global_breeze_in_global-ota_full-OS2.0.4.0.VNUINXM-user-15.0-d03dd417cf.zip
+  filename: fw_breeze_in_global_breeze_in_global-ota_full-OS2.0.4.0.VNUINXM-user-15.0-d03dd417cf.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.3.0.VNUINXM
+    miui: OS2.0.4.0.VNUINXM
 - branch: stable
   date: '2020-09-22'
   downloads:
@@ -2479,15 +2479,15 @@
     android: '14.0'
     miui: OS1.0.8.0.ULJMIXM
 - branch: stable
-  date: '2024-12-09'
+  date: '2025-01-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-09.12.2024/fw_ingres_miui_INGRES_OS1.0.8.0.ULJCNXM_3795e1a0b4_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ingres/fw_ingres_miui_INGRES_OS1.0.8.0.ULJCNXM_3795e1a0b4_14.0.zip
-  filename: fw_ingres_miui_INGRES_OS1.0.8.0.ULJCNXM_3795e1a0b4_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-10.01.2025/fw_ingres_miui_INGRES_OS1.0.9.0.ULJCNXM_00a206f2bb_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ingres/fw_ingres_miui_INGRES_OS1.0.9.0.ULJCNXM_00a206f2bb_14.0.zip
+  filename: fw_ingres_miui_INGRES_OS1.0.9.0.ULJCNXM_00a206f2bb_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.8.0.ULJCNXM
+    miui: OS1.0.9.0.ULJCNXM
 - branch: stable
   date: '2024-12-09'
   downloads:
@@ -2499,15 +2499,15 @@
     android: '14.0'
     miui: OS1.0.8.0.ULJEUXM
 - branch: stable
-  date: '2024-12-02'
+  date: '2025-01-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-02.12.2024/fw_ishtar_miui_ISHTARGlobal_OS1.0.16.0.UMAMIXM_c0849b42c0_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ishtar/fw_ishtar_miui_ISHTARGlobal_OS1.0.16.0.UMAMIXM_c0849b42c0_14.0.zip
-  filename: fw_ishtar_miui_ISHTARGlobal_OS1.0.16.0.UMAMIXM_c0849b42c0_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-10.01.2025/fw_ishtar_global_ishtar_global-ota_full-OS2.0.2.0.VMAMIXM-user-15.0-458d7cc414.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ishtar/fw_ishtar_global_ishtar_global-ota_full-OS2.0.2.0.VMAMIXM-user-15.0-458d7cc414.zip
+  filename: fw_ishtar_global_ishtar_global-ota_full-OS2.0.2.0.VMAMIXM-user-15.0-458d7cc414.zip
   region: Global
   versions:
-    android: '14.0'
-    miui: OS1.0.16.0.UMAMIXM
+    android: '15.0'
+    miui: OS2.0.2.0.VMAMIXM
 - branch: stable
   date: '2024-12-27'
   downloads:
@@ -3269,15 +3269,15 @@
     android: '14.0'
     miui: OS1.0.15.0.ULKCNXM
 - branch: stable
-  date: '2024-12-16'
+  date: '2025-01-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-16.12.2024/fw_mayfly_miui_MAYFLY_OS1.0.12.0.ULTCNXM_b3b343b184_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/mayfly/fw_mayfly_miui_MAYFLY_OS1.0.12.0.ULTCNXM_b3b343b184_14.0.zip
-  filename: fw_mayfly_miui_MAYFLY_OS1.0.12.0.ULTCNXM_b3b343b184_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-10.01.2025/fw_mayfly_miui_MAYFLY_OS1.0.14.0.ULTCNXM_ae11669a2c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/mayfly/fw_mayfly_miui_MAYFLY_OS1.0.14.0.ULTCNXM_ae11669a2c_14.0.zip
+  filename: fw_mayfly_miui_MAYFLY_OS1.0.14.0.ULTCNXM_ae11669a2c_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.12.0.ULTCNXM
+    miui: OS1.0.14.0.ULTCNXM
 - branch: stable
   date: '2022-10-28'
   downloads:
