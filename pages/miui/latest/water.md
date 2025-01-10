@@ -53,7 +53,7 @@ permalink: /miui/water/
                 </thead>
                 <tbody>
                 <tr><td>Redmi A2 / A2+ / POCO C51 EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.21.0.TGOEUXM</td><td>13.0</td><td>2.3 GB</td><td>2024-11-29</td><td><a href="/miui/water/stable/V14.0.21.0.TGOEUXM/">Download</a></td></tr>
-<tr><td>Redmi A2 / A2+ / POCO C51 EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.20.0.TGOEUXM</td><td>13.0</td><td>1.6 GB</td><td>2024-10-23</td><td><a href="/miui/water/stable/V14.0.20.0.TGOEUXM/">Download</a></td></tr>
+<tr><td>Redmi A2 / A2+ / POCO C51 EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.21.0.TGOEUXM</td><td>13.0</td><td>1.6 GB</td><td>2024-12-20</td><td><a href="/miui/water/stable/V14.0.21.0.TGOEUXM/">Download</a></td></tr>
 <tr><td>Redmi A2 / A2+ / POCO C51 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.11.0.TGOEUXM</td><td>13.0</td><td>1.5 GB</td><td>2023-10-20</td><td><a href="/miui/water/stable beta/V14.0.11.0.TGOEUXM/">Download</a></td></tr>
 <tr><td>Redmi A2 / A2+ / POCO C51 Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.36.0.TGOMIXM</td><td>13.0</td><td>2.2 GB</td><td>2024-11-04</td><td><a href="/miui/water/stable/V14.0.36.0.TGOMIXM/">Download</a></td></tr>
 <tr><td>Redmi A2 / A2+ / POCO C51 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.36.0.TGOMIXM</td><td>13.0</td><td>1.5 GB</td><td>2024-11-22</td><td><a href="/miui/water/stable/V14.0.36.0.TGOMIXM/">Download</a></td></tr>
