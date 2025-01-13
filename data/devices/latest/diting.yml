@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-12-09'
+  date: '2025-01-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-09.12.2024/fw_diting_miui_DITINGGlobal_OS1.0.9.0.ULFMIXM_26d5b3b037_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/diting/fw_diting_miui_DITINGGlobal_OS1.0.9.0.ULFMIXM_26d5b3b037_14.0.zip
-  filename: fw_diting_miui_DITINGGlobal_OS1.0.9.0.ULFMIXM_26d5b3b037_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-13.01.2025/fw_diting_miui_DITINGGlobal_OS1.0.10.0.ULFMIXM_48f1b8659d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/diting/fw_diting_miui_DITINGGlobal_OS1.0.10.0.ULFMIXM_48f1b8659d_14.0.zip
+  filename: fw_diting_miui_DITINGGlobal_OS1.0.10.0.ULFMIXM_48f1b8659d_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.9.0.ULFMIXM
+    miui: OS1.0.10.0.ULFMIXM
 - branch: stable
   date: '2025-01-07'
   downloads:
@@ -19,12 +19,12 @@
     android: '14.0'
     miui: OS1.0.13.0.ULFCNXM
 - branch: stable
-  date: '2024-12-16'
+  date: '2025-01-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-16.12.2024/fw_diting_miui_DITINGEEAGlobal_OS1.0.13.0.ULFEUXM_bb0ae9824d_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/diting/fw_diting_miui_DITINGEEAGlobal_OS1.0.13.0.ULFEUXM_bb0ae9824d_14.0.zip
-  filename: fw_diting_miui_DITINGEEAGlobal_OS1.0.13.0.ULFEUXM_bb0ae9824d_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-13.01.2025/fw_diting_miui_DITINGEEAGlobal_OS1.0.14.0.ULFEUXM_7ca8fb9647_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/diting/fw_diting_miui_DITINGEEAGlobal_OS1.0.14.0.ULFEUXM_7ca8fb9647_14.0.zip
+  filename: fw_diting_miui_DITINGEEAGlobal_OS1.0.14.0.ULFEUXM_7ca8fb9647_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.13.0.ULFEUXM
+    miui: OS1.0.14.0.ULFEUXM

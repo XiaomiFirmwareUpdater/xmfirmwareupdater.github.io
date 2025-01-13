@@ -52,10 +52,9 @@ permalink: /hyperos/thor/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12S Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.14.0.ULACNXM</td><td>14.0</td><td>7.5 GB</td><td>2024-11-27</td><td><a href="/hyperos/thor/stable/OS1.0.14.0.ULACNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12S Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.14.0.ULACNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-12-04</td><td><a href="/hyperos/thor/stable/OS1.0.14.0.ULACNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12S Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.16.0.ULACNXM</td><td>14.0</td><td>7.5 GB</td><td>2024-12-24</td><td><a href="/hyperos/thor/stable/OS1.0.16.0.ULACNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12S Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.16.0.ULACNXM</td><td>14.0</td><td>6.0 GB</td><td>2025-01-04</td><td><a href="/hyperos/thor/stable/OS1.0.16.0.ULACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Ultra China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>6.0 GB</td><td>2024-01-12</td><td><a href="/hyperos/thor/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi 12S Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.16.0.ULACNXM</td><td>14.0</td><td>6.0 GB</td><td>2025-01-04</td><td><a href="/hyperos/thor/stable beta/OS1.0.16.0.ULACNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

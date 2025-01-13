@@ -1584,6 +1584,18 @@
   version: OS1.0.3.0.ULFCNXM
 - android: '14.0'
   codename: diting
+  date: '2025-01-13'
+  download: https://bigota.d.miui.com/OS1.0.14.0.ULFEUXM/fw_diting_miui_DITINGEEAGlobal_OS1.0.14.0.ULFEUXM_7ca8fb9647_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.14.0.ULFEUXM
+- android: '14.0'
+  codename: diting
+  date: '2025-01-13'
+  download: https://bigota.d.miui.com/OS1.0.10.0.ULFMIXM/fw_diting_miui_DITINGGlobal_OS1.0.10.0.ULFMIXM_48f1b8659d_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.10.0.ULFMIXM
+- android: '14.0'
+  codename: diting
   date: '2024-12-12'
   download: https://bigota.d.miui.com/OS1.0.12.0.ULFCNXM/fw_diting_miui_DITING_OS1.0.12.0.ULFCNXM_da70d0ec1f_14.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
@@ -2506,6 +2518,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UHXEUXM/fw_flare_miui_FLAREEEAGlobal_OS1.0.4.0.UHXEUXM_8f997cd9d0_14.0.zip
   name: Redmi Pad SE 8.7 5G
   version: OS1.0.4.0.UHXEUXM
+- android: '14.0'
+  codename: flare
+  date: '2025-01-13'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UHXMIXM/fw_flare_miui_FLAREGlobal_OS1.0.8.0.UHXMIXM_c68d943d51_14.0.zip
+  name: Redmi Pad SE 8.7 5G
+  version: OS1.0.8.0.UHXMIXM
 - android: '14.0'
   codename: flare
   date: '2025-01-05'
@@ -4518,6 +4536,18 @@
   version: OS1.0.2.0.UKOCNXM
 - android: '14.0'
   codename: lisa
+  date: '2025-01-13'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UKOMIXM/fw_lisa_miui_LISAGlobal_OS1.0.11.0.UKOMIXM_708d1935b0_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.11.0.UKOMIXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-01-13'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UKOINXM/fw_lisa_miui_LISAINGlobal_OS1.0.12.0.UKOINXM_7b31df0bf4_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.12.0.UKOINXM
+- android: '14.0'
+  codename: lisa
   date: '2024-12-09'
   download: https://bigota.d.miui.com/OS1.0.11.0.UKOEUXM/fw_lisa_miui_LISAEEAGlobal_OS1.0.11.0.UKOEUXM_f7430eaa66_14.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
@@ -5610,6 +5640,12 @@
   version: OS1.0.1.0.ULMEUXM
 - android: '14.0'
   codename: munch
+  date: '2025-01-13'
+  download: https://bigota.d.miui.com/OS1.0.6.0.ULMINXM/fw_munch_miui_MUNCHINGlobal_OS1.0.6.0.ULMINXM_7c4d03567f_14.0.zip
+  name: Redmi K40S/POCO F4
+  version: OS1.0.6.0.ULMINXM
+- android: '14.0'
+  codename: munch
   date: '2024-08-12'
   download: https://bigota.d.miui.com/OS1.0.3.0.ULMEUXM/fw_munch_miui_MUNCHEEAGlobal_OS1.0.3.0.ULMEUXM_833573c38d_14.0.zip
   name: Redmi K40S/POCO F4
@@ -5914,6 +5950,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UMBEUXM/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.7.0.UMBEUXM_ab1eab36df_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.7.0.UMBEUXM
+- android: '14.0'
+  codename: nuwa
+  date: '2025-01-13'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UMBMIXM/fw_nuwa_miui_NUWAGlobal_OS1.0.13.0.UMBMIXM_0e507b50b1_14.0.zip
+  name: Xiaomi 13 Pro
+  version: OS1.0.13.0.UMBMIXM
 - android: '14.0'
   codename: nuwa
   date: '2024-01-12'
@@ -9354,6 +9396,12 @@
   version: OS2.0.10.0.VOZCNXM
 - android: '15.0'
   codename: uke
+  date: '2025-01-13'
+  download: https://bigota.d.miui.com/OS2.0.9.0.VOZINXM/fw_uke_in_global_uke_in_global-ota_full-OS2.0.9.0.VOZINXM-user-15.0-d69e221444.zip
+  name: Xiaomi Pad 7
+  version: OS2.0.9.0.VOZINXM
+- android: '15.0'
+  codename: uke
   date: '2024-11-05'
   download: https://bigota.d.miui.com/OS2.0.8.0.VOZCNXM/fw_uke_uke-ota_full-OS2.0.8.0.VOZCNXM-user-15.0-c20facf95e.zip
   name: Xiaomi Pad 7
@@ -10320,6 +10368,12 @@
   version: OS1.0.3.0.UMUEUXM
 - android: '14.0'
   codename: xun
+  date: '2025-01-13'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UMUINXM/fw_xun_miui_XUNINGlobal_OS1.0.4.0.UMUINXM_0646712eb2_14.0.zip
+  name: Redmi Pad SE
+  version: OS1.0.4.0.UMUINXM
+- android: '14.0'
+  codename: xun
   date: '2024-12-12'
   download: https://bigota.d.miui.com/OS1.0.6.0.UMUMIXM/fw_xun_miui_XUNGlobal_OS1.0.6.0.UMUMIXM_4617b2b9c9_14.0.zip
   name: Redmi Pad SE
@@ -11098,6 +11152,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.ULLCNXM/fw_ziyi_miui_ZIYI_OS1.0.6.0.ULLCNXM_e68288a120_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.6.0.ULLCNXM
+- android: '14.0'
+  codename: ziyi
+  date: '2025-01-13'
+  download: https://bigota.d.miui.com/OS1.0.12.0.ULLMIXM/fw_ziyi_miui_ZIYIGlobal_OS1.0.12.0.ULLMIXM_5df176bd92_14.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS1.0.12.0.ULLMIXM
 - android: '14.0'
   codename: ziyi
   date: '2024-09-10'
