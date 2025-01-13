@@ -249,6 +249,16 @@
     android: '14.0'
     miui: OS1.0.4.0.UMWINXM
 - branch: stable
+  date: '2025-01-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-13.01.2025/fw_sky_eea_global_sky_eea_global-ota_full-OS2.0.3.0.VMWEUXM-user-15.0-c1694df2b3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sky/fw_sky_eea_global_sky_eea_global-ota_full-OS2.0.3.0.VMWEUXM-user-15.0-c1694df2b3.zip
+  filename: fw_sky_eea_global_sky_eea_global-ota_full-OS2.0.3.0.VMWEUXM-user-15.0-c1694df2b3.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.3.0.VMWEUXM
+- branch: stable
   date: '2024-12-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-12.12.2024/fw_sky_in_global_sky_in_global-ota_full-OS2.0.3.0.VMWINXM-user-15.0-20f9b232cf.zip

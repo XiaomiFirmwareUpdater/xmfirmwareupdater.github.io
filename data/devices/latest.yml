@@ -4809,15 +4809,15 @@
     android: '15.0'
     miui: OS2.0.1.0.VNNMIXM
 - branch: stable
-  date: '2024-12-06'
+  date: '2025-01-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-06.12.2024/fw_rothko_rothko-ota_full-OS2.0.13.0.VNNCNXM-user-15.0-6c068bf94b.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rothko/fw_rothko_rothko-ota_full-OS2.0.13.0.VNNCNXM-user-15.0-6c068bf94b.zip
-  filename: fw_rothko_rothko-ota_full-OS2.0.13.0.VNNCNXM-user-15.0-6c068bf94b.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-13.01.2025/fw_rothko_rothko-ota_full-OS2.0.103.0.VNNCNXM-user-15.0-f3d9998d73.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rothko/fw_rothko_rothko-ota_full-OS2.0.103.0.VNNCNXM-user-15.0-f3d9998d73.zip
+  filename: fw_rothko_rothko-ota_full-OS2.0.103.0.VNNCNXM-user-15.0-f3d9998d73.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.13.0.VNNCNXM
+    miui: OS2.0.103.0.VNNCNXM
 - branch: stable
   date: '2024-12-31'
   downloads:
@@ -5279,15 +5279,15 @@
     android: '14.0'
     miui: OS1.0.10.0.UMWCNXM
 - branch: stable
-  date: '2024-12-30'
+  date: '2025-01-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-30.12.2024/fw_sky_miui_SKYEEAGlobal_OS1.0.12.0.UMWEUXM_e168b99772_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sky/fw_sky_miui_SKYEEAGlobal_OS1.0.12.0.UMWEUXM_e168b99772_14.0.zip
-  filename: fw_sky_miui_SKYEEAGlobal_OS1.0.12.0.UMWEUXM_e168b99772_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-13.01.2025/fw_sky_eea_global_sky_eea_global-ota_full-OS2.0.3.0.VMWEUXM-user-15.0-c1694df2b3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sky/fw_sky_eea_global_sky_eea_global-ota_full-OS2.0.3.0.VMWEUXM-user-15.0-c1694df2b3.zip
+  filename: fw_sky_eea_global_sky_eea_global-ota_full-OS2.0.3.0.VMWEUXM-user-15.0-c1694df2b3.zip
   region: Europe
   versions:
-    android: '14.0'
-    miui: OS1.0.12.0.UMWEUXM
+    android: '15.0'
+    miui: OS2.0.3.0.VMWEUXM
 - branch: stable
   date: '2024-12-12'
   downloads:
@@ -6339,25 +6339,25 @@
     android: '14.0'
     miui: OS1.0.7.0.ULOMIXM
 - branch: stable
-  date: '2024-12-10'
+  date: '2025-01-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-11.12.2024/fw_xaga_miui_XAGA_OS1.0.8.0.ULOCNXM_a8cc94e747_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/xaga/fw_xaga_miui_XAGA_OS1.0.8.0.ULOCNXM_a8cc94e747_14.0.zip
-  filename: fw_xaga_miui_XAGA_OS1.0.8.0.ULOCNXM_a8cc94e747_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-13.01.2025/fw_xaga_miui_XAGA_OS1.0.10.0.ULOCNXM_8b256c3667_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/xaga/fw_xaga_miui_XAGA_OS1.0.10.0.ULOCNXM_8b256c3667_14.0.zip
+  filename: fw_xaga_miui_XAGA_OS1.0.10.0.ULOCNXM_8b256c3667_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.8.0.ULOCNXM
+    miui: OS1.0.10.0.ULOCNXM
 - branch: stable
-  date: '2024-12-16'
+  date: '2025-01-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-16.12.2024/fw_xaga_miui_XAGAEEAGlobal_OS1.0.8.0.ULOEUXM_b30e21bbd0_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/xaga/fw_xaga_miui_XAGAEEAGlobal_OS1.0.8.0.ULOEUXM_b30e21bbd0_14.0.zip
-  filename: fw_xaga_miui_XAGAEEAGlobal_OS1.0.8.0.ULOEUXM_b30e21bbd0_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-13.01.2025/fw_xaga_miui_XAGAEEAGlobal_OS1.0.9.0.ULOEUXM_5bc5704f46_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/xaga/fw_xaga_miui_XAGAEEAGlobal_OS1.0.9.0.ULOEUXM_5bc5704f46_14.0.zip
+  filename: fw_xaga_miui_XAGAEEAGlobal_OS1.0.9.0.ULOEUXM_5bc5704f46_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.8.0.ULOEUXM
+    miui: OS1.0.9.0.ULOEUXM
 - branch: stable
   date: '2024-12-10'
   downloads:

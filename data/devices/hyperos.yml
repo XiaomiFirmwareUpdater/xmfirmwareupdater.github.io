@@ -7294,6 +7294,12 @@
   download: https://bigota.d.miui.com/OS2.0.1.0.VNNMIXM/fw_rothko_global_rothko_global-ota_full-OS2.0.1.0.VNNMIXM-user-15.0-441cf38187.zip
   name: Redmi K70 Ultra/Xiaomi 14T Pro
   version: OS2.0.1.0.VNNMIXM
+- android: '15.0'
+  codename: rothko
+  date: '2025-01-13'
+  download: https://bigota.d.miui.com/OS2.0.103.0.VNNCNXM/fw_rothko_rothko-ota_full-OS2.0.103.0.VNNCNXM-user-15.0-f3d9998d73.zip
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
+  version: OS2.0.103.0.VNNCNXM
 - android: '14.0'
   codename: rothko
   date: '2024-08-07'
@@ -8476,6 +8482,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMWINXM/fw_sky_miui_SKYINGlobal_OS1.0.4.0.UMWINXM_917110d0c5_14.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
   version: OS1.0.4.0.UMWINXM
+- android: '15.0'
+  codename: sky
+  date: '2025-01-13'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VMWEUXM/fw_sky_eea_global_sky_eea_global-ota_full-OS2.0.3.0.VMWEUXM-user-15.0-c1694df2b3.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS2.0.3.0.VMWEUXM
 - android: '15.0'
   codename: sky
   date: '2024-12-12'
@@ -10246,6 +10258,18 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULOMIXM/fw_xaga_miui_XAGAGlobal_OS1.0.3.0.ULOMIXM_2039059443_14.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: OS1.0.3.0.ULOMIXM
+- android: '14.0'
+  codename: xaga
+  date: '2025-01-13'
+  download: https://bigota.d.miui.com/OS1.0.9.0.ULOEUXM/fw_xaga_miui_XAGAEEAGlobal_OS1.0.9.0.ULOEUXM_5bc5704f46_14.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS1.0.9.0.ULOEUXM
+- android: '14.0'
+  codename: xaga
+  date: '2025-01-13'
+  download: https://bigota.d.miui.com/OS1.0.10.0.ULOCNXM/fw_xaga_miui_XAGA_OS1.0.10.0.ULOCNXM_8b256c3667_14.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS1.0.10.0.ULOCNXM
 - android: '14.0'
   codename: xaga
   date: '2024-12-10'
