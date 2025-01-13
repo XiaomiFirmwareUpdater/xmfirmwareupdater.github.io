@@ -1338,6 +1338,12 @@
   version: OS1.0.4.0.ULZCNXM
 - android: '14.0'
   codename: dagu
+  date: '2025-01-13'
+  download: https://bigota.d.miui.com/OS1.0.14.0.ULZCNXM/fw_dagu_miui_DAGU_OS1.0.14.0.ULZCNXM_0d0ac5d262_14.0.zip
+  name: Xiaomi Pad 5 Pro 12.4
+  version: OS1.0.14.0.ULZCNXM
+- android: '14.0'
+  codename: dagu
   date: '2024-12-09'
   download: https://bigota.d.miui.com/OS1.0.11.0.ULZCNXM/fw_dagu_miui_DAGU_OS1.0.11.0.ULZCNXM_9ba695747f_14.0.zip
   name: Xiaomi Pad 5 Pro 12.4
@@ -3100,6 +3106,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UNRINXM/fw_garnet_miui_GARNETINGlobal_OS1.0.8.0.UNRINXM_8eb1dc2e4c_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS1.0.8.0.UNRINXM
+- android: '14.0'
+  codename: garnet
+  date: '2025-01-13'
+  download: https://bigota.d.miui.com/OS1.0.16.0.UNRINXM/fw_garnet_miui_GARNETINGlobal_OS1.0.16.0.UNRINXM_903937c8ff_14.0.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS1.0.16.0.UNRINXM
 - android: '14.0'
   codename: garnet
   date: '2024-10-12'
@@ -5046,6 +5058,12 @@
   version: OS1.0.12.0.ULKCNXM
 - android: '14.0'
   codename: matisse
+  date: '2025-01-13'
+  download: https://bigota.d.miui.com/OS1.0.17.0.ULKCNXM/fw_matisse_miui_MATISSE_OS1.0.17.0.ULKCNXM_1a7f3da7db_14.0.zip
+  name: Redmi K50 Pro
+  version: OS1.0.17.0.ULKCNXM
+- android: '14.0'
+  codename: matisse
   date: '2024-11-11'
   download: https://bigota.d.miui.com/OS1.0.13.0.ULKCNXM/fw_matisse_miui_MATISSE_OS1.0.13.0.ULKCNXM_d1dfc7b32b_14.0.zip
   name: Redmi K50 Pro
@@ -6058,6 +6076,18 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UMBINXM/fw_nuwa_miui_NUWAINGlobal_OS1.0.10.0.UMBINXM_b1d5a68759_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.10.0.UMBINXM
+- android: '14.0'
+  codename: obsidian
+  date: '2025-01-13'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UOFEUXM/fw_obsidian_miui_OBSIDIANEEAGlobal_OS1.0.2.0.UOFEUXM_ba587fa987_14.0.zip
+  name: Redmi Note 14 Pro 4G
+  version: OS1.0.2.0.UOFEUXM
+- android: '14.0'
+  codename: obsidian
+  date: '2025-01-13'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UOFMIXM/fw_obsidian_miui_OBSIDIANGlobal_OS1.0.3.0.UOFMIXM_4c5ca499f5_14.0.zip
+  name: Redmi Note 14 Pro 4G
+  version: OS1.0.3.0.UOFMIXM
 - android: '14.0'
   codename: odin
   date: '2024-06-24'
@@ -9046,6 +9076,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.6.0.UMQEUXM_c406abd3d1_14.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
   version: OS1.0.6.0.UMQEUXM
+- android: '14.0'
+  codename: tanzanite
+  date: '2025-01-13'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UOGMIXM/fw_tanzanite_miui_TANZANITEGlobal_OS1.0.4.0.UOGMIXM_732e24fa29_14.0.zip
+  name: Redmi Note 14 4G
+  version: OS1.0.4.0.UOGMIXM
 - android: '14.0'
   codename: taoyao
   date: '2024-07-30'

@@ -54,9 +54,9 @@ permalink: /hyperos/moon/
                 <tbody>
                 <tr><td>Redmi 13 / POCO M6 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UNTEUXM</td><td>14.0</td><td>6.7 GB</td><td>2024-11-22</td><td><a href="/hyperos/moon/stable/OS1.0.7.0.UNTEUXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UNTEUXM</td><td>14.0</td><td>4.5 GB</td><td>2024-12-02</td><td><a href="/hyperos/moon/stable/OS1.0.7.0.UNTEUXM/">Download</a></td></tr>
-<tr><td>Redmi 13 / POCO M6 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UNTMIXM</td><td>14.0</td><td>7.3 GB</td><td>2024-11-05</td><td><a href="/hyperos/moon/stable/OS1.0.8.0.UNTMIXM/">Download</a></td></tr>
-<tr><td>Redmi 13 / POCO M6 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UNTMIXM</td><td>14.0</td><td>4.4 GB</td><td>2024-11-11</td><td><a href="/hyperos/moon/stable/OS1.0.8.0.UNTMIXM/">Download</a></td></tr>
-<tr><td>Redmi 13 / POCO M6 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.3.0.VNTMIXM</td><td>15.0</td><td>4.5 GB</td><td>2024-12-29</td><td><a href="/hyperos/moon/stable beta/OS2.0.3.0.VNTMIXM/">Download</a></td></tr>
+<tr><td>Redmi 13 / POCO M6 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.VNTMIXM</td><td>15.0</td><td>7.2 GB</td><td>2024-12-25</td><td><a href="/hyperos/moon/stable/OS2.0.3.0.VNTMIXM/">Download</a></td></tr>
+<tr><td>Redmi 13 / POCO M6 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VNTMIXM</td><td>15.0</td><td>4.5 GB</td><td>2024-12-29</td><td><a href="/hyperos/moon/stable/OS2.0.3.0.VNTMIXM/">Download</a></td></tr>
+<tr><td>Redmi 13 / POCO M6 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.2.0.VNTMIXM</td><td>15.0</td><td>4.5 GB</td><td>2024-12-10</td><td><a href="/hyperos/moon/stable beta/OS2.0.2.0.VNTMIXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UNTIDXM</td><td>14.0</td><td>6.6 GB</td><td>2024-11-22</td><td><a href="/hyperos/moon/stable/OS1.0.6.0.UNTIDXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UNTIDXM</td><td>14.0</td><td>4.4 GB</td><td>2024-12-03</td><td><a href="/hyperos/moon/stable/OS1.0.6.0.UNTIDXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UNTRUXM</td><td>14.0</td><td>7.0 GB</td><td>2024-11-22</td><td><a href="/hyperos/moon/stable/OS1.0.7.0.UNTRUXM/">Download</a></td></tr>
@@ -71,6 +71,7 @@ permalink: /hyperos/moon/
 <tr><td>POCO X5 5G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.12.0.UMPMIXM</td><td>14.0</td><td>3.9 GB</td><td>2024-12-25</td><td><a href="/hyperos/moonstone/stable/OS1.0.12.0.UMPMIXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.UMPIDXM</td><td>14.0</td><td>5.9 GB</td><td>2024-12-24</td><td><a href="/hyperos/moonstone/stable/OS1.0.9.0.UMPIDXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UMPIDXM</td><td>14.0</td><td>3.9 GB</td><td>2025-01-02</td><td><a href="/hyperos/moonstone/stable/OS1.0.9.0.UMPIDXM/">Download</a></td></tr>
+<tr><td>POCO X5 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UMPIDXM</td><td>14.0</td><td>3.9 GB</td><td>2024-03-04</td><td><a href="/hyperos/moonstone/stable beta/OS1.0.1.0.UMPIDXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.UMPINXM</td><td>14.0</td><td>5.2 GB</td><td>2024-11-07</td><td><a href="/hyperos/moonstone/stable/OS1.0.9.0.UMPINXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UMPINXM</td><td>14.0</td><td>3.7 GB</td><td>2024-11-18</td><td><a href="/hyperos/moonstone/stable/OS1.0.9.0.UMPINXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.10.0.UMPINXM</td><td>14.0</td><td>3.7 GB</td><td>2025-01-06</td><td><a href="/hyperos/moonstone/stable beta/OS1.0.10.0.UMPINXM/">Download</a></td></tr>

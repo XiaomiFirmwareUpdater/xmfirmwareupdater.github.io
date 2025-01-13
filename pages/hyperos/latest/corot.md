@@ -69,8 +69,10 @@ permalink: /hyperos/corot/
 <tr><td>Xiaomi 13T Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.12.0.UMLRUXM</td><td>14.0</td><td>5.7 GB</td><td>2025-01-08</td><td><a href="/hyperos/corot/stable beta/OS1.0.12.0.UMLRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UMLTRXM</td><td>14.0</td><td>7.1 GB</td><td>2024-11-29</td><td><a href="/hyperos/corot/stable/OS1.0.8.0.UMLTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UMLTRXM</td><td>14.0</td><td>5.8 GB</td><td>2024-12-12</td><td><a href="/hyperos/corot/stable/OS1.0.8.0.UMLTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.9.0.UMLTRXM</td><td>14.0</td><td>5.8 GB</td><td>2025-01-08</td><td><a href="/hyperos/corot/stable beta/OS1.0.9.0.UMLTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.12.0.UMLTWXM</td><td>14.0</td><td>7.0 GB</td><td>2024-11-29</td><td><a href="/hyperos/corot/stable/OS1.0.12.0.UMLTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.12.0.UMLTWXM</td><td>14.0</td><td>5.8 GB</td><td>2024-12-12</td><td><a href="/hyperos/corot/stable/OS1.0.12.0.UMLTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.13.0.UMLTWXM</td><td>14.0</td><td>5.8 GB</td><td>2025-01-08</td><td><a href="/hyperos/corot/stable beta/OS1.0.13.0.UMLTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

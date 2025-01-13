@@ -1249,15 +1249,15 @@
     android: '15.0'
     miui: OS2.0.101.0.VOCCNXM
 - branch: stable
-  date: '2024-12-09'
+  date: '2025-01-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dagu/releases/download/stable-09.12.2024/fw_dagu_miui_DAGU_OS1.0.11.0.ULZCNXM_9ba695747f_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/dagu/fw_dagu_miui_DAGU_OS1.0.11.0.ULZCNXM_9ba695747f_14.0.zip
-  filename: fw_dagu_miui_DAGU_OS1.0.11.0.ULZCNXM_9ba695747f_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dagu/releases/download/stable-13.01.2025/fw_dagu_miui_DAGU_OS1.0.14.0.ULZCNXM_0d0ac5d262_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/dagu/fw_dagu_miui_DAGU_OS1.0.14.0.ULZCNXM_0d0ac5d262_14.0.zip
+  filename: fw_dagu_miui_DAGU_OS1.0.14.0.ULZCNXM_0d0ac5d262_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.11.0.ULZCNXM
+    miui: OS1.0.14.0.ULZCNXM
 - branch: stable
   date: '2021-07-13'
   downloads:
@@ -1979,15 +1979,15 @@
     android: '14.0'
     miui: OS1.0.22.0.UNREUXM
 - branch: stable
-  date: '2024-12-03'
+  date: '2025-01-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-03.12.2024/fw_garnet_miui_GARNETINGlobal_OS1.0.15.0.UNRINXM_8722a54740_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/garnet/fw_garnet_miui_GARNETINGlobal_OS1.0.15.0.UNRINXM_8722a54740_14.0.zip
-  filename: fw_garnet_miui_GARNETINGlobal_OS1.0.15.0.UNRINXM_8722a54740_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-13.01.2025/fw_garnet_miui_GARNETINGlobal_OS1.0.16.0.UNRINXM_903937c8ff_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/garnet/fw_garnet_miui_GARNETINGlobal_OS1.0.16.0.UNRINXM_903937c8ff_14.0.zip
+  filename: fw_garnet_miui_GARNETINGlobal_OS1.0.16.0.UNRINXM_903937c8ff_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.15.0.UNRINXM
+    miui: OS1.0.16.0.UNRINXM
 - branch: stable
   date: '2023-05-18'
   downloads:
@@ -3279,15 +3279,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2024-12-16'
+  date: '2025-01-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-16.12.2024/fw_matisse_miui_MATISSE_OS1.0.15.0.ULKCNXM_d366fee66a_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/matisse/fw_matisse_miui_MATISSE_OS1.0.15.0.ULKCNXM_d366fee66a_14.0.zip
-  filename: fw_matisse_miui_MATISSE_OS1.0.15.0.ULKCNXM_d366fee66a_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-13.01.2025/fw_matisse_miui_MATISSE_OS1.0.17.0.ULKCNXM_1a7f3da7db_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/matisse/fw_matisse_miui_MATISSE_OS1.0.17.0.ULKCNXM_1a7f3da7db_14.0.zip
+  filename: fw_matisse_miui_MATISSE_OS1.0.17.0.ULKCNXM_1a7f3da7db_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.15.0.ULKCNXM
+    miui: OS1.0.17.0.ULKCNXM
 - branch: stable
   date: '2025-01-10'
   downloads:
@@ -3758,6 +3758,26 @@
   versions:
     android: '14.0'
     miui: OS1.0.12.0.UMBINXM
+- branch: stable
+  date: '2025-01-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_obsidian/releases/download/stable-13.01.2025/fw_obsidian_miui_OBSIDIANGlobal_OS1.0.3.0.UOFMIXM_4c5ca499f5_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/obsidian/fw_obsidian_miui_OBSIDIANGlobal_OS1.0.3.0.UOFMIXM_4c5ca499f5_14.0.zip
+  filename: fw_obsidian_miui_OBSIDIANGlobal_OS1.0.3.0.UOFMIXM_4c5ca499f5_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.UOFMIXM
+- branch: stable
+  date: '2025-01-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_obsidian/releases/download/stable-13.01.2025/fw_obsidian_miui_OBSIDIANEEAGlobal_OS1.0.2.0.UOFEUXM_ba587fa987_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/obsidian/fw_obsidian_miui_OBSIDIANEEAGlobal_OS1.0.2.0.UOFEUXM_ba587fa987_14.0.zip
+  filename: fw_obsidian_miui_OBSIDIANEEAGlobal_OS1.0.2.0.UOFEUXM_ba587fa987_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.UOFEUXM
 - branch: stable
   date: '2024-08-21'
   downloads:
@@ -5528,6 +5548,16 @@
   versions:
     android: '13.0'
     miui: V14.0.1.0.TKFINXM
+- branch: stable
+  date: '2025-01-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tanzanite/releases/download/stable-13.01.2025/fw_tanzanite_miui_TANZANITEGlobal_OS1.0.4.0.UOGMIXM_732e24fa29_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/tanzanite/fw_tanzanite_miui_TANZANITEGlobal_OS1.0.4.0.UOGMIXM_732e24fa29_14.0.zip
+  filename: fw_tanzanite_miui_TANZANITEGlobal_OS1.0.4.0.UOGMIXM_732e24fa29_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UOGMIXM
 - branch: stable
   date: '2024-12-10'
   downloads:
