@@ -3106,6 +3106,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UNREUXM/fw_garnet_miui_GARNETEEAGlobal_OS1.0.12.0.UNREUXM_28badb0bec_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS1.0.12.0.UNREUXM
+- android: '15.0'
+  codename: garnet
+  date: '2025-01-14'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VNREUXM/fw_garnet_eea_global_garnet_eea_global-ota_full-OS2.0.3.0.VNREUXM-user-15.0-d71b530b64.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS2.0.3.0.VNREUXM
 - android: '14.0'
   codename: garnet
   date: '2024-10-12'
@@ -7264,6 +7270,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULUEUXM/fw_rock_miui_ROCKEEAGlobal_OS1.0.2.0.ULUEUXM_0e560ef2a3_14.0.zip
   name: POCO M5/Redmi 11 Prime 4G
   version: OS1.0.2.0.ULUEUXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-01-14'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VOJINXM/fw_rodin_in_global_rodin_in_global-ota_full-OS2.0.2.0.VOJINXM-user-15.0-60249425a2.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.2.0.VOJINXM
 - android: '15.0'
   codename: rodin
   date: '2025-01-09'
