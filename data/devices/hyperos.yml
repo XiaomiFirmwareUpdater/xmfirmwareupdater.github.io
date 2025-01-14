@@ -1152,6 +1152,18 @@
   version: OS1.0.8.0.ULCEUXM
 - android: '14.0'
   codename: cupid
+  date: '2025-01-14'
+  download: https://bigota.d.miui.com/OS1.0.17.0.ULCEUXM/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.17.0.ULCEUXM_c6d9c216ce_14.0.zip
+  name: Xiaomi 12
+  version: OS1.0.17.0.ULCEUXM
+- android: '14.0'
+  codename: cupid
+  date: '2025-01-14'
+  download: https://bigota.d.miui.com/OS1.0.10.0.ULCMIXM/fw_cupid_miui_CUPIDGlobal_OS1.0.10.0.ULCMIXM_c474fc0301_14.0.zip
+  name: Xiaomi 12
+  version: OS1.0.10.0.ULCMIXM
+- android: '14.0'
+  codename: cupid
   date: '2024-08-13'
   download: https://bigota.d.miui.com/OS1.0.7.0.ULCCNXM/fw_cupid_miui_CUPID_OS1.0.7.0.ULCCNXM_b131abf145_14.0.zip
   name: Xiaomi 12
@@ -3994,6 +4006,18 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.ULJCNXM/fw_ingres_miui_INGRES_OS1.0.4.0.ULJCNXM_b6a1dd4d29_14.0.zip
   name: Redmi K50G/POCO F4 GT
   version: OS1.0.4.0.ULJCNXM
+- android: '14.0'
+  codename: ingres
+  date: '2025-01-14'
+  download: https://bigota.d.miui.com/OS1.0.9.0.ULJEUXM/fw_ingres_miui_INGRESEEAGlobal_OS1.0.9.0.ULJEUXM_2530703663_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.9.0.ULJEUXM
+- android: '14.0'
+  codename: ingres
+  date: '2025-01-14'
+  download: https://bigota.d.miui.com/OS1.0.9.0.ULJMIXM/fw_ingres_miui_INGRESGlobal_OS1.0.9.0.ULJMIXM_5afdf88014_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.9.0.ULJMIXM
 - android: '14.0'
   codename: ingres
   date: '2024-10-12'
