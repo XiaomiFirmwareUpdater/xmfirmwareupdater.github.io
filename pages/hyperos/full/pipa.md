@@ -52,7 +52,8 @@ permalink: /archive/hyperos/pipa/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 6 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.14.0.UMZCNXM</td><td>14.0</td><td>5.0 GB</td><td>2025-01-07</td><td><a href="/hyperos/pipa/stable beta/OS1.0.14.0.UMZCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 6 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.14.0.UMZCNXM</td><td>14.0</td><td>5.0 GB</td><td>2025-01-07</td><td><a href="/hyperos/pipa/stable/OS1.0.14.0.UMZCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.14.0.UMZCNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-12-30</td><td><a href="/hyperos/pipa/stable/OS1.0.14.0.UMZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UMZTWXM</td><td>14.0</td><td>4.2 GB</td><td>2024-12-18</td><td><a href="/hyperos/pipa/stable/OS1.0.11.0.UMZTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UMZTWXM</td><td>14.0</td><td>5.1 GB</td><td>2024-12-10</td><td><a href="/hyperos/pipa/stable/OS1.0.11.0.UMZTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UMZIDXM</td><td>14.0</td><td>4.3 GB</td><td>2024-12-18</td><td><a href="/hyperos/pipa/stable/OS1.0.11.0.UMZIDXM/">Download</a></td></tr>
