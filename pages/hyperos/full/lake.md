@@ -52,7 +52,8 @@ permalink: /archive/hyperos/lake/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UGTIDXM</td><td>14.0</td><td>4.2 GB</td><td>2024-12-18</td><td><a href="/hyperos/lake/stable/OS1.0.4.0.UGTIDXM/">Download</a></td></tr>
+                <tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.11.0.UGTMIXM</td><td>14.0</td><td>4.2 GB</td><td>2025-01-11</td><td><a href="/hyperos/lake/stable beta/OS1.0.11.0.UGTMIXM/">Download</a></td></tr>
+<tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UGTIDXM</td><td>14.0</td><td>4.2 GB</td><td>2024-12-18</td><td><a href="/hyperos/lake/stable/OS1.0.4.0.UGTIDXM/">Download</a></td></tr>
 <tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UGTIDXM</td><td>14.0</td><td>6.4 GB</td><td>2024-12-02</td><td><a href="/hyperos/lake/stable/OS1.0.4.0.UGTIDXM/">Download</a></td></tr>
 <tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UGTTWXM</td><td>14.0</td><td>4.1 GB</td><td>2024-12-16</td><td><a href="/hyperos/lake/stable/OS1.0.5.0.UGTTWXM/">Download</a></td></tr>
 <tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UGTTWXM</td><td>14.0</td><td>5.7 GB</td><td>2024-12-02</td><td><a href="/hyperos/lake/stable/OS1.0.5.0.UGTTWXM/">Download</a></td></tr>

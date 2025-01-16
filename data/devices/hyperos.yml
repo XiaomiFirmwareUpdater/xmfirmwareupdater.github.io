@@ -4380,6 +4380,12 @@
   version: OS1.0.6.0.UGTEUXM
 - android: '14.0'
   codename: lake
+  date: '2025-01-16'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UGTMIXM/fw_lake_miui_LAKEGlobal_OS1.0.11.0.UGTMIXM_6de4047946_14.0.zip
+  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  version: OS1.0.11.0.UGTMIXM
+- android: '14.0'
+  codename: lake
   date: '2024-10-08'
   download: https://bigota.d.miui.com/OS1.0.4.0.UGTEUXM/fw_lake_miui_LAKEEEAGlobal_OS1.0.4.0.UGTEUXM_3000f18ca6_14.0.zip
   name: Redmi 14C/POCO C75/Redmi A3 Pro
@@ -6394,6 +6400,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UNPINXM/fw_peridot_miui_PERIDOTINGlobal_OS1.0.3.0.UNPINXM_f6d628b90b_14.0.zip
   name: Redmi Turbo 3/POCO F6
   version: OS1.0.3.0.UNPINXM
+- android: '15.0'
+  codename: peridot
+  date: '2025-01-16'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VNPCNXM/fw_peridot_peridot-ota_full-OS2.0.6.0.VNPCNXM-user-15.0-43a8eb035b.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS2.0.6.0.VNPCNXM
 - android: '14.0'
   codename: peridot
   date: '2024-09-14'
