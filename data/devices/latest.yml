@@ -1469,15 +1469,15 @@
     android: '15.0'
     miui: OS2.0.1.0.VNSMIXM
 - branch: stable
-  date: '2025-01-06'
+  date: '2025-01-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-06.01.2025/fw_dizi_miui_DIZI_OS1.0.19.0.UNSCNXM_ec70c6dda2_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/dizi/fw_dizi_miui_DIZI_OS1.0.19.0.UNSCNXM_ec70c6dda2_14.0.zip
-  filename: fw_dizi_miui_DIZI_OS1.0.19.0.UNSCNXM_ec70c6dda2_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-16.01.2025/fw_dizi_dizi-ota_full-OS2.0.2.0.VNSCNXM-user-15.0-e811c407d2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dizi/fw_dizi_dizi-ota_full-OS2.0.2.0.VNSCNXM-user-15.0-e811c407d2.zip
+  filename: fw_dizi_dizi-ota_full-OS2.0.2.0.VNSCNXM-user-15.0-e811c407d2.zip
   region: China
   versions:
-    android: '14.0'
-    miui: OS1.0.19.0.UNSCNXM
+    android: '15.0'
+    miui: OS2.0.2.0.VNSCNXM
 - branch: stable
   date: '2024-12-18'
   downloads:
@@ -1599,15 +1599,15 @@
     android: '11.0'
     miui: 22.3.24
 - branch: stable
-  date: '2024-12-23'
+  date: '2025-01-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-23.12.2024/fw_emerald_miui_EMERALDGlobal_OS1.0.10.0.UNFMIXM_b99b009f3d_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/emerald/fw_emerald_miui_EMERALDGlobal_OS1.0.10.0.UNFMIXM_b99b009f3d_14.0.zip
-  filename: fw_emerald_miui_EMERALDGlobal_OS1.0.10.0.UNFMIXM_b99b009f3d_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-16.01.2025/fw_emerald_global_emerald_global-ota_full-OS2.0.2.0.VNFMIXM-user-15.0-c61adec515.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/emerald/fw_emerald_global_emerald_global-ota_full-OS2.0.2.0.VNFMIXM-user-15.0-c61adec515.zip
+  filename: fw_emerald_global_emerald_global-ota_full-OS2.0.2.0.VNFMIXM-user-15.0-c61adec515.zip
   region: Global
   versions:
-    android: '14.0'
-    miui: OS1.0.10.0.UNFMIXM
+    android: '15.0'
+    miui: OS2.0.2.0.VNFMIXM
 - branch: stable
   date: '2025-01-06'
   downloads:
@@ -1889,15 +1889,15 @@
     android: '11.0'
     miui: V13.0.12.0.RGFEUXM
 - branch: stable
-  date: '2025-01-15'
+  date: '2025-01-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-15.01.2025/fw_fuxi_miui_FUXIGlobal_OS1.0.11.0.UMCMIXM_44bac3409f_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fuxi/fw_fuxi_miui_FUXIGlobal_OS1.0.11.0.UMCMIXM_44bac3409f_14.0.zip
-  filename: fw_fuxi_miui_FUXIGlobal_OS1.0.11.0.UMCMIXM_44bac3409f_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-16.01.2025/fw_fuxi_global_fuxi_global-ota_full-OS2.0.2.0.VMCMIXM-user-15.0-a9645f8d32.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/fuxi/fw_fuxi_global_fuxi_global-ota_full-OS2.0.2.0.VMCMIXM-user-15.0-a9645f8d32.zip
+  filename: fw_fuxi_global_fuxi_global-ota_full-OS2.0.2.0.VMCMIXM-user-15.0-a9645f8d32.zip
   region: Global
   versions:
-    android: '14.0'
-    miui: OS1.0.11.0.UMCMIXM
+    android: '15.0'
+    miui: OS2.0.2.0.VMCMIXM
 - branch: stable
   date: '2024-12-30'
   downloads:
@@ -3169,15 +3169,15 @@
     android: '14.0'
     miui: OS1.0.7.0.UOOMIXM
 - branch: stable
-  date: '2024-11-29'
+  date: '2025-01-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-29.11.2024/fw_malachite_miui_MALACHITE_OS1.0.11.0.UOOCNXM_8145b27e5b_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/malachite/fw_malachite_miui_MALACHITE_OS1.0.11.0.UOOCNXM_8145b27e5b_14.0.zip
-  filename: fw_malachite_miui_MALACHITE_OS1.0.11.0.UOOCNXM_8145b27e5b_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-16.01.2025/fw_malachite_malachite-ota_full-OS2.0.5.0.VOOCNXM-user-15.0-17d7f47d77.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/malachite/fw_malachite_malachite-ota_full-OS2.0.5.0.VOOCNXM-user-15.0-17d7f47d77.zip
+  filename: fw_malachite_malachite-ota_full-OS2.0.5.0.VOOCNXM-user-15.0-17d7f47d77.zip
   region: China
   versions:
-    android: '14.0'
-    miui: OS1.0.11.0.UOOCNXM
+    android: '15.0'
+    miui: OS2.0.5.0.VOOCNXM
 - branch: stable
   date: '2025-01-11'
   downloads:
@@ -3559,15 +3559,15 @@
     android: '14.0'
     miui: OS1.0.8.0.ULMCNXM
 - branch: stable
-  date: '2024-10-08'
+  date: '2025-01-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-08.10.2024/fw_munch_miui_MUNCHEEAGlobal_OS1.0.6.0.ULMEUXM_2aa9901846_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/munch/fw_munch_miui_MUNCHEEAGlobal_OS1.0.6.0.ULMEUXM_2aa9901846_14.0.zip
-  filename: fw_munch_miui_MUNCHEEAGlobal_OS1.0.6.0.ULMEUXM_2aa9901846_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-16.01.2025/fw_munch_miui_MUNCHEEAGlobal_OS1.0.7.0.ULMEUXM_c40c919fc6_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/munch/fw_munch_miui_MUNCHEEAGlobal_OS1.0.7.0.ULMEUXM_c40c919fc6_14.0.zip
+  filename: fw_munch_miui_MUNCHEEAGlobal_OS1.0.7.0.ULMEUXM_c40c919fc6_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.ULMEUXM
+    miui: OS1.0.7.0.ULMEUXM
 - branch: stable
   date: '2025-01-13'
   downloads:
@@ -3719,15 +3719,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2025-01-13'
+  date: '2025-01-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-13.01.2025/fw_nuwa_miui_NUWAGlobal_OS1.0.13.0.UMBMIXM_0e507b50b1_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAGlobal_OS1.0.13.0.UMBMIXM_0e507b50b1_14.0.zip
-  filename: fw_nuwa_miui_NUWAGlobal_OS1.0.13.0.UMBMIXM_0e507b50b1_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-16.01.2025/fw_nuwa_global_nuwa_global-ota_full-OS2.0.2.0.VMBMIXM-user-15.0-56494d533e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/nuwa/fw_nuwa_global_nuwa_global-ota_full-OS2.0.2.0.VMBMIXM-user-15.0-56494d533e.zip
+  filename: fw_nuwa_global_nuwa_global-ota_full-OS2.0.2.0.VMBMIXM-user-15.0-56494d533e.zip
   region: Global
   versions:
-    android: '14.0'
-    miui: OS1.0.13.0.UMBMIXM
+    android: '15.0'
+    miui: OS2.0.2.0.VMBMIXM
 - branch: stable
   date: '2024-12-27'
   downloads:
@@ -6419,15 +6419,15 @@
     android: '14.0'
     miui: OS1.0.7.0.UMUMIXM
 - branch: stable
-  date: '2024-09-18'
+  date: '2025-01-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-18.09.2024/fw_xun_miui_XUN_OS1.0.7.0.UMUCNXM_98a9fca627_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/xun/fw_xun_miui_XUN_OS1.0.7.0.UMUCNXM_98a9fca627_14.0.zip
-  filename: fw_xun_miui_XUN_OS1.0.7.0.UMUCNXM_98a9fca627_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-16.01.2025/fw_xun_xun-ota_full-OS2.0.1.0.VMUCNXM-user-15.0-3ab7a9fd61.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xun/fw_xun_xun-ota_full-OS2.0.1.0.VMUCNXM-user-15.0-3ab7a9fd61.zip
+  filename: fw_xun_xun-ota_full-OS2.0.1.0.VMUCNXM-user-15.0-3ab7a9fd61.zip
   region: China
   versions:
-    android: '14.0'
-    miui: OS1.0.7.0.UMUCNXM
+    android: '15.0'
+    miui: OS2.0.1.0.VMUCNXM
 - branch: stable
   date: '2024-12-18'
   downloads:
