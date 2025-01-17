@@ -59,6 +59,16 @@
     android: '14.0'
     miui: OS1.0.9.0.UMHCNXM
 - branch: stable
+  date: '2025-01-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-17.01.2025/fw_yudi_yudi-ota_full-OS2.0.4.0.VMHCNXM-user-15.0-2d4a366530.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/yudi/fw_yudi_yudi-ota_full-OS2.0.4.0.VMHCNXM-user-15.0-2d4a366530.zip
+  filename: fw_yudi_yudi-ota_full-OS2.0.4.0.VMHCNXM-user-15.0-2d4a366530.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.4.0.VMHCNXM
+- branch: stable
   date: '2023-12-11'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-11.12.2023/fw_yudi_miui_YUDI_OS1.0.2.0.UMHCNXM_34efc69cc0_14.0.zip

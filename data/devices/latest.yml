@@ -479,15 +479,15 @@
     android: '14.0'
     miui: OS1.0.5.0.UOQMIXM
 - branch: stable
-  date: '2024-12-30'
+  date: '2025-01-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-30.12.2024/fw_beryl_miui_BERYL_OS1.0.5.0.UOQCNXM_b2da294bda_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/beryl/fw_beryl_miui_BERYL_OS1.0.5.0.UOQCNXM_b2da294bda_14.0.zip
-  filename: fw_beryl_miui_BERYL_OS1.0.5.0.UOQCNXM_b2da294bda_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-17.01.2025/fw_beryl_beryl-ota_full-OS2.0.2.0.VOQCNXM-user-15.0-03a06b7f84.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/beryl/fw_beryl_beryl-ota_full-OS2.0.2.0.VOQCNXM-user-15.0-03a06b7f84.zip
+  filename: fw_beryl_beryl-ota_full-OS2.0.2.0.VOQCNXM-user-15.0-03a06b7f84.zip
   region: China
   versions:
-    android: '14.0'
-    miui: OS1.0.5.0.UOQCNXM
+    android: '15.0'
+    miui: OS2.0.2.0.VOQCNXM
 - branch: stable
   date: '2025-01-09'
   downloads:
@@ -3749,15 +3749,15 @@
     android: '15.0'
     miui: OS2.0.1.0.VMBEUXM
 - branch: stable
-  date: '2025-01-06'
+  date: '2025-01-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-06.01.2025/fw_nuwa_miui_NUWAINGlobal_OS1.0.12.0.UMBINXM_db225d852a_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/nuwa/fw_nuwa_miui_NUWAINGlobal_OS1.0.12.0.UMBINXM_db225d852a_14.0.zip
-  filename: fw_nuwa_miui_NUWAINGlobal_OS1.0.12.0.UMBINXM_db225d852a_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-17.01.2025/fw_nuwa_in_global_nuwa_in_global-ota_full-OS2.0.2.0.VMBINXM-user-15.0-dbb4f1b6ba.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/nuwa/fw_nuwa_in_global_nuwa_in_global-ota_full-OS2.0.2.0.VMBINXM-user-15.0-dbb4f1b6ba.zip
+  filename: fw_nuwa_in_global_nuwa_in_global-ota_full-OS2.0.2.0.VMBINXM-user-15.0-dbb4f1b6ba.zip
   region: India
   versions:
-    android: '14.0'
-    miui: OS1.0.12.0.UMBINXM
+    android: '15.0'
+    miui: OS2.0.2.0.VMBINXM
 - branch: stable
   date: '2025-01-13'
   downloads:
@@ -6489,15 +6489,15 @@
     android: '8.1'
     miui: 9.2.28
 - branch: stable
-  date: '2024-12-27'
+  date: '2025-01-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-27.12.2024/fw_yudi_miui_YUDI_OS1.0.17.0.UMHCNXM_016e5304b7_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yudi/fw_yudi_miui_YUDI_OS1.0.17.0.UMHCNXM_016e5304b7_14.0.zip
-  filename: fw_yudi_miui_YUDI_OS1.0.17.0.UMHCNXM_016e5304b7_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-17.01.2025/fw_yudi_yudi-ota_full-OS2.0.4.0.VMHCNXM-user-15.0-2d4a366530.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/yudi/fw_yudi_yudi-ota_full-OS2.0.4.0.VMHCNXM-user-15.0-2d4a366530.zip
+  filename: fw_yudi_yudi-ota_full-OS2.0.4.0.VMHCNXM-user-15.0-2d4a366530.zip
   region: China
   versions:
-    android: '14.0'
-    miui: OS1.0.17.0.UMHCNXM
+    android: '15.0'
+    miui: OS2.0.4.0.VMHCNXM
 - branch: stable
   date: '2024-12-09'
   downloads:

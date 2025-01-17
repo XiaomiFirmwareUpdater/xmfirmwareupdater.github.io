@@ -52,9 +52,8 @@ permalink: /miui/klein/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi A3x Global</td><td>Stable</td><td>Fastboot</td><td>V816.0.7.0.UGSMIXM</td><td>14.0</td><td>4.6 GB</td><td>2024-12-06</td><td><a href="/miui/klein/stable/V816.0.7.0.UGSMIXM/">Download</a></td></tr>
-<tr><td>Redmi A3x Global</td><td>Stable</td><td>Recovery</td><td>V816.0.7.0.UGSMIXM</td><td>14.0</td><td>2.8 GB</td><td>2024-12-12</td><td><a href="/miui/klein/stable/V816.0.7.0.UGSMIXM/">Download</a></td></tr>
-<tr><td>Redmi A3x Global</td><td>Stable Beta</td><td>Recovery</td><td>V816.0.1.0.VGSMIXM</td><td>15.0</td><td>2.9 GB</td><td>2025-01-16</td><td><a href="/miui/klein/stable beta/V816.0.1.0.VGSMIXM/">Download</a></td></tr>
+                <tr><td>Redmi A3x Global</td><td>Stable</td><td>Fastboot</td><td>V816.0.1.0.VGSMIXM</td><td>15.0</td><td>4.8 GB</td><td>2025-01-06</td><td><a href="/miui/klein/stable/V816.0.1.0.VGSMIXM/">Download</a></td></tr>
+<tr><td>Redmi A3x Global</td><td>Stable</td><td>Recovery</td><td>V816.0.1.0.VGSMIXM</td><td>15.0</td><td>2.9 GB</td><td>2025-01-16</td><td><a href="/miui/klein/stable/V816.0.1.0.VGSMIXM/">Download</a></td></tr>
 <tr><td>Redmi A3x India</td><td>Stable</td><td>Fastboot</td><td>V816.0.7.0.UGSINXM</td><td>14.0</td><td>3.5 GB</td><td>2024-12-06</td><td><a href="/miui/klein/stable/V816.0.7.0.UGSINXM/">Download</a></td></tr>
 <tr><td>Redmi A3x India</td><td>Stable</td><td>Recovery</td><td>V816.0.7.0.UGSINXM</td><td>14.0</td><td>2.7 GB</td><td>2024-12-13</td><td><a href="/miui/klein/stable/V816.0.7.0.UGSINXM/">Download</a></td></tr>
 <tr><td>Redmi A3x Russia</td><td>Stable</td><td>Fastboot</td><td>V816.0.7.0.UGSRUXM</td><td>14.0</td><td>4.1 GB</td><td>2024-11-14</td><td><a href="/miui/klein/stable/V816.0.7.0.UGSRUXM/">Download</a></td></tr>

@@ -52,10 +52,9 @@ permalink: /hyperos/diting/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.12.0.ULFCNXM</td><td>14.0</td><td>7.0 GB</td><td>2024-11-14</td><td><a href="/hyperos/diting/stable/OS1.0.12.0.ULFCNXM/">Download</a></td></tr>
-<tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.12.0.ULFCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-12-05</td><td><a href="/hyperos/diting/stable/OS1.0.12.0.ULFCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.13.0.ULFCNXM</td><td>14.0</td><td>7.0 GB</td><td>2024-12-16</td><td><a href="/hyperos/diting/stable/OS1.0.13.0.ULFCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.13.0.ULFCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-12-31</td><td><a href="/hyperos/diting/stable/OS1.0.13.0.ULFCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.8 GB</td><td>2024-01-12</td><td><a href="/hyperos/diting/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
-<tr><td>Redmi K50 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.13.0.ULFCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-12-31</td><td><a href="/hyperos/diting/stable beta/OS1.0.13.0.ULFCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.13.0.ULFEUXM</td><td>14.0</td><td>6.6 GB</td><td>2024-11-19</td><td><a href="/hyperos/diting/stable/OS1.0.13.0.ULFEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.13.0.ULFEUXM</td><td>14.0</td><td>5.3 GB</td><td>2024-12-12</td><td><a href="/hyperos/diting/stable/OS1.0.13.0.ULFEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.14.0.ULFEUXM</td><td>14.0</td><td>5.3 GB</td><td>2025-01-07</td><td><a href="/hyperos/diting/stable beta/OS1.0.14.0.ULFEUXM/">Download</a></td></tr>
