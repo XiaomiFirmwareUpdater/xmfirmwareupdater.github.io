@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2025-01-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tanzanite/releases/download/stable-17.01.2025/fw_tanzanite_miui_TANZANITEEEAGlobal_OS1.0.2.0.UOGEUXM_619b16e8d6_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/tanzanite/fw_tanzanite_miui_TANZANITEEEAGlobal_OS1.0.2.0.UOGEUXM_619b16e8d6_14.0.zip
+  filename: fw_tanzanite_miui_TANZANITEEEAGlobal_OS1.0.2.0.UOGEUXM_619b16e8d6_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.UOGEUXM
+- branch: stable
   date: '2025-01-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tanzanite/releases/download/stable-13.01.2025/fw_tanzanite_miui_TANZANITEGlobal_OS1.0.4.0.UOGMIXM_732e24fa29_14.0.zip

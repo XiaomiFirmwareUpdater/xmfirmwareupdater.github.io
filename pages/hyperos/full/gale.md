@@ -52,7 +52,8 @@ permalink: /archive/hyperos/gale/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 13C / POCO C65 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UGPRUXM</td><td>14.0</td><td>4.2 GB</td><td>2025-01-04</td><td><a href="/hyperos/gale/stable/OS1.0.7.0.UGPRUXM/">Download</a></td></tr>
+                <tr><td>Redmi 13C / POCO C65 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.VGPIDXM</td><td>15.0</td><td>4.4 GB</td><td>2025-01-14</td><td><a href="/hyperos/gale/stable beta/OS2.0.1.0.VGPIDXM/">Download</a></td></tr>
+<tr><td>Redmi 13C / POCO C65 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UGPRUXM</td><td>14.0</td><td>4.2 GB</td><td>2025-01-04</td><td><a href="/hyperos/gale/stable/OS1.0.7.0.UGPRUXM/">Download</a></td></tr>
 <tr><td>Redmi 13C / POCO C65 Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UGPRUXM</td><td>14.0</td><td>7.0 GB</td><td>2024-12-22</td><td><a href="/hyperos/gale/stable/OS1.0.7.0.UGPRUXM/">Download</a></td></tr>
 <tr><td>Redmi 13C / POCO C65 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UGPTRXM</td><td>14.0</td><td>4.2 GB</td><td>2025-01-03</td><td><a href="/hyperos/gale/stable/OS1.0.6.0.UGPTRXM/">Download</a></td></tr>
 <tr><td>Redmi 13C / POCO C65 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UGPTRXM</td><td>14.0</td><td>6.2 GB</td><td>2024-12-22</td><td><a href="/hyperos/gale/stable/OS1.0.6.0.UGPTRXM/">Download</a></td></tr>
