@@ -52,7 +52,8 @@ permalink: /archive/miui/rosemary/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO M5S Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.8.0.TFFIDXM</td><td>13.0</td><td>3.8 GB</td><td>2025-01-13</td><td><a href="/miui/rosemary/stable beta/V14.0.8.0.TFFIDXM/">Download</a></td></tr>
+                <tr><td>POCO M5S Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.13.0.TFFRUXM</td><td>13.0</td><td>3.8 GB</td><td>2025-01-14</td><td><a href="/miui/rosemary/stable beta/V14.0.13.0.TFFRUXM/">Download</a></td></tr>
+<tr><td>POCO M5S Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.8.0.TFFIDXM</td><td>13.0</td><td>3.8 GB</td><td>2025-01-13</td><td><a href="/miui/rosemary/stable beta/V14.0.8.0.TFFIDXM/">Download</a></td></tr>
 <tr><td>POCO M5S Global</td><td>Stable</td><td>Recovery</td><td>V14.0.17.0.TFFMIXM</td><td>13.0</td><td>3.8 GB</td><td>2025-01-03</td><td><a href="/miui/rosemary/stable/V14.0.17.0.TFFMIXM/">Download</a></td></tr>
 <tr><td>POCO M5S Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.17.0.TFFMIXM</td><td>13.0</td><td>6.5 GB</td><td>2024-12-17</td><td><a href="/miui/rosemary/stable/V14.0.17.0.TFFMIXM/">Download</a></td></tr>
 <tr><td>POCO M5S EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.15.0.TFFEUXM</td><td>13.0</td><td>3.8 GB</td><td>2024-12-13</td><td><a href="/miui/rosemary/stable/V14.0.15.0.TFFEUXM/">Download</a></td></tr>
@@ -316,8 +317,8 @@ permalink: /archive/miui/rosemary/
 <tr><td>Redmi Note 10S / Redmi Note 11 SE India</td><td>Stable</td><td>Fastboot</td><td>V12.5.15.0.RKLINXM</td><td>11.0</td><td>3.8 GB</td><td>2022-06-21</td><td><a href="/miui/rosemary/stable/V12.5.15.0.RKLINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.18.0.RKLEUXM</td><td>11.0</td><td>2.8 GB</td><td>2022-06-23</td><td><a href="/miui/rosemary/stable/V12.5.18.0.RKLEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.18.0.RKLEUXM</td><td>11.0</td><td>4.9 GB</td><td>2022-06-16</td><td><a href="/miui/rosemary/stable/V12.5.18.0.RKLEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10S Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SKLIDXM</td><td>12.0</td><td>3.1 GB</td><td>2022-06-23</td><td><a href="/miui/rosemary/stable/V13.0.1.0.SKLIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SKLIDXM</td><td>12.0</td><td>5.4 GB</td><td>2022-06-16</td><td><a href="/miui/rosemary/stable/V13.0.1.0.SKLIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10S Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SKLIDXM</td><td>12.0</td><td>3.1 GB</td><td>2022-06-23</td><td><a href="/miui/rosemary/stable/V13.0.1.0.SKLIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.8.0.RKLTRXM</td><td>11.0</td><td>2.7 GB</td><td>2022-06-08</td><td><a href="/miui/rosemary/stable/V12.5.8.0.RKLTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.8.0.RKLTRXM</td><td>11.0</td><td>4.8 GB</td><td>2022-05-31</td><td><a href="/miui/rosemary/stable/V12.5.8.0.RKLTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Global</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SKLMIXM</td><td>12.0</td><td>3.1 GB</td><td>2022-06-06</td><td><a href="/miui/rosemary/stable/V13.0.6.0.SKLMIXM/">Download</a></td></tr>

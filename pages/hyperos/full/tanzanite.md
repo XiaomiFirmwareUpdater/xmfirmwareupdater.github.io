@@ -54,6 +54,10 @@ permalink: /archive/hyperos/tanzanite/
                 <tbody>
                 <tr><td>Redmi Note 14 4G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UOGEUXM</td><td>14.0</td><td>4.6 GB</td><td>2025-01-17</td><td><a href="/hyperos/tanzanite/stable/OS1.0.2.0.UOGEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 4G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UOGEUXM</td><td>14.0</td><td>6.9 GB</td><td>2024-11-22</td><td><a href="/hyperos/tanzanite/stable/OS1.0.2.0.UOGEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 4G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UOGEUXM</td><td>14.0</td><td>4.6 GB</td><td>2025-01-17</td><td><a href="/hyperos/tanzanite/stable/OS1.0.3.0.UOGEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 4G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UOGEUXM</td><td>14.0</td><td>6.7 GB</td><td>2024-12-12</td><td><a href="/hyperos/tanzanite/stable/OS1.0.3.0.UOGEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 4G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UOGTRXM</td><td>14.0</td><td>4.5 GB</td><td>2025-01-17</td><td><a href="/hyperos/tanzanite/stable/OS1.0.1.0.UOGTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 4G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UOGTRXM</td><td>14.0</td><td>6.4 GB</td><td>2024-11-29</td><td><a href="/hyperos/tanzanite/stable/OS1.0.1.0.UOGTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 4G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UOGRUXM</td><td>14.0</td><td>4.5 GB</td><td>2025-01-15</td><td><a href="/hyperos/tanzanite/stable/OS1.0.2.0.UOGRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 4G Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UOGRUXM</td><td>14.0</td><td>7.8 GB</td><td>2025-01-06</td><td><a href="/hyperos/tanzanite/stable/OS1.0.2.0.UOGRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 4G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UOGTWXM</td><td>14.0</td><td>4.5 GB</td><td>2025-01-15</td><td><a href="/hyperos/tanzanite/stable/OS1.0.1.0.UOGTWXM/">Download</a></td></tr>
