@@ -79,6 +79,16 @@
     android: '14.0'
     miui: OS1.0.4.0.UNFEUXM
 - branch: stable
+  date: '2025-01-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-20.01.2025/fw_emerald_miui_EMERALDEEAGlobal_OS1.0.9.0.UNFEUXM_ba8d7309c7_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/emerald/fw_emerald_miui_EMERALDEEAGlobal_OS1.0.9.0.UNFEUXM_ba8d7309c7_14.0.zip
+  filename: fw_emerald_miui_EMERALDEEAGlobal_OS1.0.9.0.UNFEUXM_ba8d7309c7_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.9.0.UNFEUXM
+- branch: stable
   date: '2024-02-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-19.02.2024/fw_emerald_miui_EMERALDEEAGlobal_V14.0.5.0.TNFEUXM_45fedc584e_13.0.zip
