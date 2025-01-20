@@ -3,7 +3,7 @@ title: Xiaomi 13T Pro Turkey HyperOS OS1.0.9.0.UMLTRXM Update
 layout: download
 name: Xiaomi 13T Pro Turkey
 codename: corot
-permalink: /hyperos/corot/stable beta/OS1.0.9.0.UMLTRXM/
+permalink: /hyperos/corot/stable/OS1.0.9.0.UMLTRXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/corot/stable beta/OS1.0.9.0.UMLTRXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.9.0.UMLTRXM Stable Beta Official Update for Xiaomi 13T Pro Turkey (corot)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.9.0.UMLTRXM Stable Official Update for Xiaomi 13T Pro Turkey (corot)</h3>
     <h5>This page shows the OS1.0.9.0.UMLTRXM update only. If you're looking for other updates check
         <a href="/hyperos/corot/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/corot/stable beta/OS1.0.9.0.UMLTRXM/
                     <h5><b>Version: </b>OS1.0.9.0.UMLTRXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/corot/stable beta/OS1.0.9.0.UMLTRXM/
                             aria-expanded="false" aria-controls="corot_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="corot_1_changelog">
+                        <p id="changelog_text">[System]<br>Optimization: System stability<br>Fix: Errors occurred in some cases</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi 13T Pro Turkey</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/corot/" target="_blank">corot</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.9.0.UMLTRXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>7.1 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2024-12-23</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">corot_tr_global_images_OS1.0.9.0.UMLTRXM_20241223.0000.00_14.0_tr_615fe736f3.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">615fe736f35808bb46e1e7312401ef54</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.9.0.UMLTRXM/corot_tr_global_images_OS1.0.9.0.UMLTRXM_20241223.0000.00_14.0_tr_615fe736f3.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.9.0.UMLTRXM/corot_tr_global_images_OS1.0.9.0.UMLTRXM_20241223.0000.00_14.0_tr_615fe736f3.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.9.0.UMLTRXM/corot_tr_global_images_OS1.0.9.0.UMLTRXM_20241223.0000.00_14.0_tr_615fe736f3.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.9.0.UMLTRXM/corot_tr_global_images_OS1.0.9.0.UMLTRXM_20241223.0000.00_14.0_tr_615fe736f3.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.9.0.UMLTRXM/corot_tr_global_images_OS1.0.9.0.UMLTRXM_20241223.0000.00_14.0_tr_615fe736f3.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#corot_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="corot_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="corot_2_changelog">
                         <p id="changelog_text">[System]<br>Optimization: System stability<br>Fix: Errors occurred in some cases</p>
                     </div>
                 </li>

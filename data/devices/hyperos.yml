@@ -36,6 +36,12 @@
   version: OS1.0.9.0.UKWMIXM
 - android: '14.0'
   codename: agate
+  date: '2025-01-20'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UKWMIXM/fw_agate_miui_AGATEGlobal_OS1.0.11.0.UKWMIXM_9fb35fc82d_14.0.zip
+  name: Xiaomi 11T
+  version: OS1.0.11.0.UKWMIXM
+- android: '14.0'
+  codename: agate
   date: '2024-10-12'
   download: https://bigota.d.miui.com/OS1.0.6.0.UKWEUXM/fw_agate_miui_AGATEEEAGlobal_OS1.0.6.0.UKWEUXM_73ceba98fd_14.0.zip
   name: Xiaomi 11T
@@ -742,6 +748,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UOQCNXM/fw_beryl_miui_BERYL_OS1.0.3.0.UOQCNXM_96cb3b6017_14.0.zip
   name: Redmi Note 14 5G/POCO M7 Pro 5G
   version: OS1.0.3.0.UOQCNXM
+- android: '14.0'
+  codename: beryl
+  date: '2025-01-20'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UOQINXM/fw_beryl_miui_BERYLINGlobal_OS1.0.5.0.UOQINXM_9ad3710ff1_14.0.zip
+  name: Redmi Note 14 5G/POCO M7 Pro 5G
+  version: OS1.0.5.0.UOQINXM
 - android: '15.0'
   codename: beryl
   date: '2025-01-17'
@@ -4732,6 +4744,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMYCNXM/fw_liuqin_miui_LIUQIN_OS1.0.2.0.UMYCNXM_f2c7b6c511_14.0.zip
   name: Xiaomi Pad 6 Pro
   version: OS1.0.2.0.UMYCNXM
+- android: '15.0'
+  codename: liuqin
+  date: '2025-01-20'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VMYCNXM/fw_liuqin_liuqin-ota_full-OS2.0.4.0.VMYCNXM-user-15.0-80529e7ef5.zip
+  name: Xiaomi Pad 6 Pro
+  version: OS2.0.4.0.VMYCNXM
 - android: '14.0'
   codename: liuqin
   date: '2024-07-17'
@@ -5854,6 +5872,12 @@
   download: https://bigota.d.miui.com/OS2.0.1.0.VOYCNXM/fw_muyu_muyu-ota_full-OS2.0.1.0.VOYCNXM-user-15.0-400e270942.zip
   name: Xiaomi Pad 7 Pro
   version: OS2.0.1.0.VOYCNXM
+- android: '15.0'
+  codename: muyu
+  date: '2025-01-20'
+  download: https://bigota.d.miui.com/OS2.0.102.0.VOYCNXM/fw_muyu_muyu-ota_full-OS2.0.102.0.VOYCNXM-user-15.0-865e739d4e.zip
+  name: Xiaomi Pad 7 Pro
+  version: OS2.0.102.0.VOYCNXM
 - android: '15.0'
   codename: muyu
   date: '2024-12-16'
@@ -7266,6 +7290,12 @@
   version: OS1.0.3.0.UMSMIXM
 - android: '14.0'
   codename: rembrandt
+  date: '2025-01-20'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UMMCNXM/fw_rembrandt_miui_REMBRANDT_OS1.0.12.0.UMMCNXM_8b3ee40c03_14.0.zip
+  name: Redmi K60E
+  version: OS1.0.12.0.UMMCNXM
+- android: '14.0'
+  codename: rembrandt
   date: '2024-05-16'
   download: https://bigota.d.miui.com/OS1.0.3.0.UMMCNXM/fw_rembrandt_miui_REMBRANDT_OS1.0.3.0.UMMCNXM_3bb9158b29_14.0.zip
   name: Redmi K60E
@@ -7686,6 +7716,12 @@
   version: OS1.0.10.0.ULNCNXM
 - android: '14.0'
   codename: rubens
+  date: '2025-01-20'
+  download: https://bigota.d.miui.com/OS1.0.16.0.ULNCNXM/fw_rubens_miui_RUBENS_OS1.0.16.0.ULNCNXM_35f6ff1971_14.0.zip
+  name: Redmi K50
+  version: OS1.0.16.0.ULNCNXM
+- android: '14.0'
+  codename: rubens
   date: '2024-12-10'
   download: https://bigota.d.miui.com/OS1.0.14.0.ULNCNXM/fw_rubens_miui_RUBENS_OS1.0.14.0.ULNCNXM_e6d36af76c_14.0.zip
   name: Redmi K50
@@ -7978,6 +8014,18 @@
   download: https://bigota.d.miui.com/OS1.0.11.0.UNICNXM/fw_ruyi_miui_RUYI_OS1.0.11.0.UNICNXM_3daab9578e_14.0.zip
   name: MIX Flip
   version: OS1.0.11.0.UNICNXM
+- android: '15.0'
+  codename: ruyi
+  date: '2025-01-20'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VNIEUXM/fw_ruyi_eea_global_ruyi_eea_global-ota_full-OS2.0.4.0.VNIEUXM-user-15.0-fa2d48c2d5.zip
+  name: MIX Flip
+  version: OS2.0.4.0.VNIEUXM
+- android: '15.0'
+  codename: ruyi
+  date: '2025-01-20'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VNIMIXM/fw_ruyi_global_ruyi_global-ota_full-OS2.0.3.0.VNIMIXM-user-15.0-2a57b464d9.zip
+  name: MIX Flip
+  version: OS2.0.3.0.VNIMIXM
 - android: '14.0'
   codename: ruyi
   date: '2024-12-17'
@@ -8134,6 +8182,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UNHMIXM/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.9.0.UNHMIXM_aed6407a4c_14.0.zip
   name: Redmi Note 13 NFC
   version: OS1.0.9.0.UNHMIXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-01-20'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VNHEUXM/fw_sapphiren_eea_global_sapphiren_eea_global-ota_full-OS2.0.2.0.VNHEUXM-user-15.0-48ea1b534a.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.2.0.VNHEUXM
 - android: '14.0'
   codename: sapphiren
   date: '2024-07-19'
@@ -8854,6 +8908,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UHYINXM/fw_spark_miui_SPARKINGlobal_OS1.0.4.0.UHYINXM_0d9976cc94_14.0.zip
   name: Redmi Pad SE 8.7 4G
   version: OS1.0.4.0.UHYINXM
+- android: '15.0'
+  codename: spark
+  date: '2025-01-20'
+  download: https://bigota.d.miui.com/OS2.0.1.0.VHYMIXM/fw_spark_global_spark_global-ota_full-OS2.0.1.0.VHYMIXM-user-15.0-a5e6472834.zip
+  name: Redmi Pad SE 8.7 4G
+  version: OS2.0.1.0.VHYMIXM
 - android: '14.0'
   codename: spark
   date: '2024-08-15'
