@@ -1942,6 +1942,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UNLINXM/fw_duchamp_miui_DUCHAMPINGlobal_OS1.0.5.0.UNLINXM_688b2fd297_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS1.0.5.0.UNLINXM
+- android: '15.0'
+  codename: duchamp
+  date: '2025-01-20'
+  download: https://bigota.d.miui.com/OS2.0.1.0.VNLMIXM/fw_duchamp_global_duchamp_global-ota_full-OS2.0.1.0.VNLMIXM-user-15.0-681cd7a65d.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS2.0.1.0.VNLMIXM
 - android: '14.0'
   codename: duchamp
   date: '2024-08-19'
@@ -5670,6 +5676,12 @@
   version: OS1.0.2.0.UMPINXM
 - android: '14.0'
   codename: moonstone
+  date: '2025-01-20'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UMPINXM/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.11.0.UMPINXM_c9023d0fed_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.11.0.UMPINXM
+- android: '14.0'
+  codename: moonstone
   date: '2024-04-19'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMPMIXM/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.5.0.UMPMIXM_39a4f11957_14.0.zip
   name: POCO X5 5G
@@ -7644,6 +7656,12 @@
   version: OS1.0.1.0.UFSINXM
 - android: '15.0'
   codename: ruan
+  date: '2025-01-20'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VFSCNXM/fw_ruan_ruan-ota_full-OS2.0.2.0.VFSCNXM-user-15.0-439f3ebbb1.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS2.0.2.0.VFSCNXM
+- android: '15.0'
+  codename: ruan
   date: '2024-12-17'
   download: https://bigota.d.miui.com/OS2.0.2.0.VFSEUXM/fw_ruan_eea_global_ruan_eea_global-ota_full-OS2.0.2.0.VFSEUXM-user-15.0-367d14e9f3.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
@@ -8086,6 +8104,12 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.VNIMIXM/fw_ruyi_global_ruyi_global-ota_full-OS2.0.3.0.VNIMIXM-user-15.0-2a57b464d9.zip
   name: MIX Flip
   version: OS2.0.3.0.VNIMIXM
+- android: '15.0'
+  codename: ruyi
+  date: '2025-01-20'
+  download: https://bigota.d.miui.com/OS2.0.100.0.VNICNXM/fw_ruyi_ruyi-ota_full-OS2.0.100.0.VNICNXM-user-15.0-96ae28664f.zip
+  name: MIX Flip
+  version: OS2.0.100.0.VNICNXM
 - android: '14.0'
   codename: ruyi
   date: '2024-12-17'
@@ -11710,6 +11734,12 @@
   download: https://bigota.d.miui.com/OS2.0.13.0.VOKCNXM/fw_zorn_zorn-ota_full-OS2.0.13.0.VOKCNXM-user-15.0-345a4e8dbb.zip
   name: Redmi K80/POCO F7 Pro
   version: OS2.0.13.0.VOKCNXM
+- android: '15.0'
+  codename: zorn
+  date: '2025-01-20'
+  download: https://bigota.d.miui.com/OS2.0.102.0.VOKCNXM/fw_zorn_zorn-ota_full-OS2.0.102.0.VOKCNXM-user-15.0-38033d7197.zip
+  name: Redmi K80/POCO F7 Pro
+  version: OS2.0.102.0.VOKCNXM
 - android: '15.0'
   codename: zorn
   date: '2024-12-17'
