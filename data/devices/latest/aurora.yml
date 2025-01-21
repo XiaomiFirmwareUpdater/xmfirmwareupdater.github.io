@@ -9,15 +9,15 @@
     android: '15.0'
     miui: OS2.0.6.0.VNAMIXM
 - branch: stable
-  date: '2025-01-06'
+  date: '2025-01-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-06.01.2025/fw_aurora_aurora-ota_full-OS2.0.101.0.VNACNXM-user-15.0-a58015b6d2.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora-ota_full-OS2.0.101.0.VNACNXM-user-15.0-a58015b6d2.zip
-  filename: fw_aurora_aurora-ota_full-OS2.0.101.0.VNACNXM-user-15.0-a58015b6d2.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-21.01.2025/fw_aurora_aurora-ota_full-OS2.0.102.0.VNACNXM-user-15.0-99a8f5e1d4.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora-ota_full-OS2.0.102.0.VNACNXM-user-15.0-99a8f5e1d4.zip
+  filename: fw_aurora_aurora-ota_full-OS2.0.102.0.VNACNXM-user-15.0-99a8f5e1d4.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.101.0.VNACNXM
+    miui: OS2.0.102.0.VNACNXM
 - branch: stable
   date: '2024-12-25'
   downloads:

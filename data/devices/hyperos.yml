@@ -504,6 +504,12 @@
   version: OS1.0.7.0.UNACNXM
 - android: '15.0'
   codename: aurora
+  date: '2025-01-21'
+  download: https://bigota.d.miui.com/OS2.0.102.0.VNACNXM/fw_aurora_aurora-ota_full-OS2.0.102.0.VNACNXM-user-15.0-99a8f5e1d4.zip
+  name: Xiaomi 14 Ultra
+  version: OS2.0.102.0.VNACNXM
+- android: '15.0'
+  codename: aurora
   date: '2024-12-20'
   download: https://bigota.d.miui.com/OS2.0.4.0.VNAINXM/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.4.0.VNAINXM-user-15.0-e09ea47c8f.zip
   name: Xiaomi 14 Ultra
@@ -6682,6 +6688,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMZINXM/fw_pipa_miui_PIPAINGlobal_OS1.0.3.0.UMZINXM_53efbe0084_14.0.zip
   name: Xiaomi Pad 6
   version: OS1.0.3.0.UMZINXM
+- android: '14.0'
+  codename: pipa
+  date: '2025-01-21'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UMZINXM/fw_pipa_miui_PIPAINGlobal_OS1.0.11.0.UMZINXM_339b01ef9a_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.11.0.UMZINXM
 - android: '14.0'
   codename: pipa
   date: '2024-05-20'
