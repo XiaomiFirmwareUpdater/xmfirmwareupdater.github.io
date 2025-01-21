@@ -56,29 +56,29 @@ permalink: /hyperos/lisa/stable/OS1.0.3.0.UKOTWXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.8 GB</h5>
+                    <h5><b>Size: </b>5.7 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-04-11</h5>
+                    <h5><b>Release Date: </b>2024-03-14</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_LISATWGlobal_OS1.0.3.0.UKOTWXM_31f0324322_14.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">lisa_tw_global_images_OS1.0.3.0.UKOTWXM_20240314.0000.00_14.0_tw_62dc2f26a8.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">31f032432232e3d0045d582711217a2b</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">62dc2f26a8367123a8aa3a086091feac</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.3.0.UKOTWXM/miui_LISATWGlobal_OS1.0.3.0.UKOTWXM_31f0324322_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.3.0.UKOTWXM/miui_LISATWGlobal_OS1.0.3.0.UKOTWXM_31f0324322_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.3.0.UKOTWXM/miui_LISATWGlobal_OS1.0.3.0.UKOTWXM_31f0324322_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.UKOTWXM/miui_LISATWGlobal_OS1.0.3.0.UKOTWXM_31f0324322_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.3.0.UKOTWXM/miui_LISATWGlobal_OS1.0.3.0.UKOTWXM_31f0324322_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.3.0.UKOTWXM/lisa_tw_global_images_OS1.0.3.0.UKOTWXM_20240314.0000.00_14.0_tw_62dc2f26a8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.3.0.UKOTWXM/lisa_tw_global_images_OS1.0.3.0.UKOTWXM_20240314.0000.00_14.0_tw_62dc2f26a8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.3.0.UKOTWXM/lisa_tw_global_images_OS1.0.3.0.UKOTWXM_20240314.0000.00_14.0_tw_62dc2f26a8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.UKOTWXM/lisa_tw_global_images_OS1.0.3.0.UKOTWXM_20240314.0000.00_14.0_tw_62dc2f26a8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.3.0.UKOTWXM/lisa_tw_global_images_OS1.0.3.0.UKOTWXM_20240314.0000.00_14.0_tw_62dc2f26a8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#lisa_1_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="lisa_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="lisa_1_changelog">
-                        <p id="changelog_text">[System]<br>Updated Android Security Patch to March 2024. Increased system security.<br>[Vibrant aesthetics]<br>Global aesthetics draw inspiration from life itself and change the way your device looks and feels<br>New animation language makes interactions with your device wholesome and intuitive<br>Natural colors bring vibrancy and vitality to every corner of your device<br>Our all-new system font supports multiple writing systems<br>Redesigned Weather app not only gives you important information, but also shows you how it feels outside<br>Notifications are focused on important information, presenting it to you in the most efficient way<br>New Home screen icons refresh familiar items with new shapes and colors<br>Multitasking is now even more straightforward and convenient with an upgraded multi-window interface</p>
+                        <p id="changelog_text">Bug fixes and system optimizations.</p>
                     </div>
                 </li>
             </ul>
@@ -99,29 +99,29 @@ permalink: /hyperos/lisa/stable/OS1.0.3.0.UKOTWXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.7 GB</h5>
+                    <h5><b>Size: </b>4.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-03-14</h5>
+                    <h5><b>Release Date: </b>2024-04-11</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">lisa_tw_global_images_OS1.0.3.0.UKOTWXM_20240314.0000.00_14.0_tw_62dc2f26a8.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_LISATWGlobal_OS1.0.3.0.UKOTWXM_31f0324322_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">62dc2f26a8367123a8aa3a086091feac</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">31f032432232e3d0045d582711217a2b</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.3.0.UKOTWXM/lisa_tw_global_images_OS1.0.3.0.UKOTWXM_20240314.0000.00_14.0_tw_62dc2f26a8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.3.0.UKOTWXM/lisa_tw_global_images_OS1.0.3.0.UKOTWXM_20240314.0000.00_14.0_tw_62dc2f26a8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.3.0.UKOTWXM/lisa_tw_global_images_OS1.0.3.0.UKOTWXM_20240314.0000.00_14.0_tw_62dc2f26a8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.UKOTWXM/lisa_tw_global_images_OS1.0.3.0.UKOTWXM_20240314.0000.00_14.0_tw_62dc2f26a8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.3.0.UKOTWXM/lisa_tw_global_images_OS1.0.3.0.UKOTWXM_20240314.0000.00_14.0_tw_62dc2f26a8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.3.0.UKOTWXM/miui_LISATWGlobal_OS1.0.3.0.UKOTWXM_31f0324322_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.3.0.UKOTWXM/miui_LISATWGlobal_OS1.0.3.0.UKOTWXM_31f0324322_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.3.0.UKOTWXM/miui_LISATWGlobal_OS1.0.3.0.UKOTWXM_31f0324322_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.3.0.UKOTWXM/miui_LISATWGlobal_OS1.0.3.0.UKOTWXM_31f0324322_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.3.0.UKOTWXM/miui_LISATWGlobal_OS1.0.3.0.UKOTWXM_31f0324322_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#lisa_2_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="lisa_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="lisa_2_changelog">
-                        <p id="changelog_text">Bug fixes and system optimizations.</p>
+                        <p id="changelog_text">[System]<br>Updated Android Security Patch to March 2024. Increased system security.<br>[Vibrant aesthetics]<br>Global aesthetics draw inspiration from life itself and change the way your device looks and feels<br>New animation language makes interactions with your device wholesome and intuitive<br>Natural colors bring vibrancy and vitality to every corner of your device<br>Our all-new system font supports multiple writing systems<br>Redesigned Weather app not only gives you important information, but also shows you how it feels outside<br>Notifications are focused on important information, presenting it to you in the most efficient way<br>New Home screen icons refresh familiar items with new shapes and colors<br>Multitasking is now even more straightforward and convenient with an upgraded multi-window interface</p>
                     </div>
                 </li>
             </ul>
