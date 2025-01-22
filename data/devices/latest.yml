@@ -3199,15 +3199,15 @@
     android: '14.0'
     miui: OS1.0.2.0.UOOINXM
 - branch: stable
-  date: '2025-01-02'
+  date: '2025-01-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-02.01.2025/fw_manet_manet-ota_full-OS2.0.7.0.VNMCNXM-user-15.0-68ad993489.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/manet/fw_manet_manet-ota_full-OS2.0.7.0.VNMCNXM-user-15.0-68ad993489.zip
-  filename: fw_manet_manet-ota_full-OS2.0.7.0.VNMCNXM-user-15.0-68ad993489.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-22.01.2025/fw_manet_manet-ota_full-OS2.0.101.0.VNMCNXM-user-15.0-bedfaaa689.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/manet/fw_manet_manet-ota_full-OS2.0.101.0.VNMCNXM-user-15.0-bedfaaa689.zip
+  filename: fw_manet_manet-ota_full-OS2.0.101.0.VNMCNXM-user-15.0-bedfaaa689.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.7.0.VNMCNXM
+    miui: OS2.0.101.0.VNMCNXM
 - branch: stable
   date: '2025-01-06'
   downloads:
