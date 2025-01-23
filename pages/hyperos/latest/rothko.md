@@ -66,6 +66,7 @@ permalink: /hyperos/rothko/
 <tr><td>Xiaomi 14T Pro India</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VNNIDXM</td><td>15.0</td><td>6.2 GB</td><td>2024-12-10</td><td><a href="/hyperos/rothko/stable/OS2.0.1.0.VNNIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Japan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UNNJPXM</td><td>14.0</td><td>7.1 GB</td><td>2024-12-03</td><td><a href="/hyperos/rothko/stable/OS1.0.6.0.UNNJPXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Japan</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UNNJPXM</td><td>14.0</td><td>5.8 GB</td><td>2024-12-06</td><td><a href="/hyperos/rothko/stable/OS1.0.6.0.UNNJPXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Pro Japan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.UNNJPXM</td><td>14.0</td><td>5.8 GB</td><td>2025-01-23</td><td><a href="/hyperos/rothko/stable beta/OS1.0.7.0.UNNJPXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UNNRUXM</td><td>14.0</td><td>7.6 GB</td><td>2024-11-27</td><td><a href="/hyperos/rothko/stable/OS1.0.7.0.UNNRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UNNRUXM</td><td>14.0</td><td>5.8 GB</td><td>2024-12-19</td><td><a href="/hyperos/rothko/stable/OS1.0.7.0.UNNRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UNNRUXM</td><td>14.0</td><td>5.6 GB</td><td>2024-09-26</td><td><a href="/hyperos/rothko/stable beta/OS1.0.3.0.UNNRUXM/">Download</a></td></tr>

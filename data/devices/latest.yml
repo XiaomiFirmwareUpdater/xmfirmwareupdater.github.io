@@ -5159,15 +5159,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2024-12-30'
+  date: '2025-01-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-30.12.2024/fw_sea_miui_SEAGlobal_OS1.0.13.0.UHZMIXM_450aa8eb2c_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sea/fw_sea_miui_SEAGlobal_OS1.0.13.0.UHZMIXM_450aa8eb2c_14.0.zip
-  filename: fw_sea_miui_SEAGlobal_OS1.0.13.0.UHZMIXM_450aa8eb2c_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-23.01.2025/fw_sea_miui_SEAGlobal_OS1.0.14.0.UHZMIXM_a0a4ebfde0_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sea/fw_sea_miui_SEAGlobal_OS1.0.14.0.UHZMIXM_a0a4ebfde0_14.0.zip
+  filename: fw_sea_miui_SEAGlobal_OS1.0.14.0.UHZMIXM_a0a4ebfde0_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.13.0.UHZMIXM
+    miui: OS1.0.14.0.UHZMIXM
 - branch: stable
   date: '2024-12-23'
   downloads:
@@ -6289,15 +6289,15 @@
     android: '13.0'
     miui: V14.0.21.0.TGOEUXM
 - branch: stable
-  date: '2024-11-22'
+  date: '2025-01-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-22.11.2024/fw_water_miui_WATERINGlobal_V14.0.19.0.TGOINXM_2ee7341820_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERINGlobal_V14.0.19.0.TGOINXM_2ee7341820_13.0.zip
-  filename: fw_water_miui_WATERINGlobal_V14.0.19.0.TGOINXM_2ee7341820_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-23.01.2025/fw_water_miui_WATERINGlobal_V14.0.20.0.TGOINXM_05438b1ed5_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERINGlobal_V14.0.20.0.TGOINXM_05438b1ed5_13.0.zip
+  filename: fw_water_miui_WATERINGlobal_V14.0.20.0.TGOINXM_05438b1ed5_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: V14.0.19.0.TGOINXM
+    miui: V14.0.20.0.TGOINXM
 - branch: stable
   date: '2021-04-08'
   downloads:
