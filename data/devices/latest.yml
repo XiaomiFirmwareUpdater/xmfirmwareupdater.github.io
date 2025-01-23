@@ -2269,25 +2269,25 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2024-12-31'
+  date: '2025-01-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-31.12.2024/fw_haydn_miui_HAYDNEEAGlobal_OS1.0.13.0.UKKEUXM_cdd34c0640_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/haydn/fw_haydn_miui_HAYDNEEAGlobal_OS1.0.13.0.UKKEUXM_cdd34c0640_14.0.zip
-  filename: fw_haydn_miui_HAYDNEEAGlobal_OS1.0.13.0.UKKEUXM_cdd34c0640_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-23.01.2025/fw_haydn_miui_HAYDNEEAGlobal_OS1.0.14.0.UKKEUXM_91b3fac3c5_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/haydn/fw_haydn_miui_HAYDNEEAGlobal_OS1.0.14.0.UKKEUXM_91b3fac3c5_14.0.zip
+  filename: fw_haydn_miui_HAYDNEEAGlobal_OS1.0.14.0.UKKEUXM_91b3fac3c5_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.13.0.UKKEUXM
+    miui: OS1.0.14.0.UKKEUXM
 - branch: stable
-  date: '2024-12-31'
+  date: '2025-01-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-31.12.2024/fw_haydn_miui_HAYDNINGlobal_OS1.0.10.0.UKKINXM_d04511486b_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/haydn/fw_haydn_miui_HAYDNINGlobal_OS1.0.10.0.UKKINXM_d04511486b_14.0.zip
-  filename: fw_haydn_miui_HAYDNINGlobal_OS1.0.10.0.UKKINXM_d04511486b_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-23.01.2025/fw_haydn_miui_HAYDNINGlobal_OS1.0.11.0.UKKINXM_8dda2ae170_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/haydn/fw_haydn_miui_HAYDNINGlobal_OS1.0.11.0.UKKINXM_8dda2ae170_14.0.zip
+  filename: fw_haydn_miui_HAYDNINGlobal_OS1.0.11.0.UKKINXM_8dda2ae170_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.10.0.UKKINXM
+    miui: OS1.0.11.0.UKKINXM
 - branch: stable
   date: '2019-05-13'
   downloads:
@@ -3189,15 +3189,15 @@
     android: '14.0'
     miui: OS1.0.6.0.UOOEUXM
 - branch: stable
-  date: '2024-12-09'
+  date: '2025-01-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-09.12.2024/fw_malachite_miui_MALACHITEINGlobal_OS1.0.2.0.UOOINXM_3f541e2f7e_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/malachite/fw_malachite_miui_MALACHITEINGlobal_OS1.0.2.0.UOOINXM_3f541e2f7e_14.0.zip
-  filename: fw_malachite_miui_MALACHITEINGlobal_OS1.0.2.0.UOOINXM_3f541e2f7e_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-23.01.2025/fw_malachite_miui_MALACHITEINGlobal_OS1.0.3.0.UOOINXM_f8008f08e4_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/malachite/fw_malachite_miui_MALACHITEINGlobal_OS1.0.3.0.UOOINXM_f8008f08e4_14.0.zip
+  filename: fw_malachite_miui_MALACHITEINGlobal_OS1.0.3.0.UOOINXM_f8008f08e4_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.2.0.UOOINXM
+    miui: OS1.0.3.0.UOOINXM
 - branch: stable
   date: '2025-01-22'
   downloads:
@@ -6069,15 +6069,15 @@
     android: '15.0'
     miui: OS2.0.2.0.VNKMIXM
 - branch: stable
-  date: '2025-01-09'
+  date: '2025-01-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-09.01.2025/fw_vermeer_vermeer-ota_full-OS2.0.9.0.VNKCNXM-user-15.0-58e62df84a.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/vermeer/fw_vermeer_vermeer-ota_full-OS2.0.9.0.VNKCNXM-user-15.0-58e62df84a.zip
-  filename: fw_vermeer_vermeer-ota_full-OS2.0.9.0.VNKCNXM-user-15.0-58e62df84a.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-23.01.2025/fw_vermeer_vermeer-ota_full-OS2.0.101.0.VNKCNXM-user-15.0-455f6fe662.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/vermeer/fw_vermeer_vermeer-ota_full-OS2.0.101.0.VNKCNXM-user-15.0-455f6fe662.zip
+  filename: fw_vermeer_vermeer-ota_full-OS2.0.101.0.VNKCNXM-user-15.0-455f6fe662.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.9.0.VNKCNXM
+    miui: OS2.0.101.0.VNKCNXM
 - branch: stable
   date: '2025-01-10'
   downloads:
@@ -6559,15 +6559,15 @@
     android: '14.0'
     miui: OS1.0.6.0.ULYINXM
 - branch: stable
-  date: '2024-12-02'
+  date: '2025-01-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-02.12.2024/fw_zeus_miui_ZEUSGlobal_OS1.0.8.0.ULBMIXM_a43baf1e2e_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zeus/fw_zeus_miui_ZEUSGlobal_OS1.0.8.0.ULBMIXM_a43baf1e2e_14.0.zip
-  filename: fw_zeus_miui_ZEUSGlobal_OS1.0.8.0.ULBMIXM_a43baf1e2e_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-23.01.2025/fw_zeus_miui_ZEUSGlobal_OS1.0.10.0.ULBMIXM_9d3fd280c8_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zeus/fw_zeus_miui_ZEUSGlobal_OS1.0.10.0.ULBMIXM_9d3fd280c8_14.0.zip
+  filename: fw_zeus_miui_ZEUSGlobal_OS1.0.10.0.ULBMIXM_9d3fd280c8_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.8.0.ULBMIXM
+    miui: OS1.0.10.0.ULBMIXM
 - branch: stable
   date: '2024-12-31'
   downloads:

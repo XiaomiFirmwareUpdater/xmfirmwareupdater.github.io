@@ -29,6 +29,16 @@
     android: '14.0'
     miui: OS1.0.10.0.UOOCNXM
 - branch: stable
+  date: '2025-01-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-23.01.2025/fw_malachite_miui_MALACHITEINGlobal_OS1.0.3.0.UOOINXM_f8008f08e4_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/malachite/fw_malachite_miui_MALACHITEINGlobal_OS1.0.3.0.UOOINXM_f8008f08e4_14.0.zip
+  filename: fw_malachite_miui_MALACHITEINGlobal_OS1.0.3.0.UOOINXM_f8008f08e4_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.UOOINXM
+- branch: stable
   date: '2025-01-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-17.01.2025/fw_malachite_miui_MALACHITEEEAGlobal_OS1.0.6.0.UOOEUXM_3641168ec7_14.0.zip
