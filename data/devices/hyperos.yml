@@ -814,6 +814,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UNUCNXM/fw_breeze_miui_BREEZE_OS1.0.9.0.UNUCNXM_b46ba36d4c_14.0.zip
   name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
   version: OS1.0.9.0.UNUCNXM
+- android: '15.0'
+  codename: breeze
+  date: '2025-01-24'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VNUCNXM/fw_breeze_breeze-ota_full-OS2.0.3.0.VNUCNXM-user-15.0-e8c2cffbba.zip
+  name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
+  version: OS2.0.3.0.VNUCNXM
 - android: '14.0'
   codename: breeze
   date: '2024-09-15'
@@ -1936,6 +1942,12 @@
   download: https://bigota.d.miui.com/OS1.0.16.0.UNLINXM/fw_duchamp_miui_DUCHAMPINGlobal_OS1.0.16.0.UNLINXM_45d4dce885_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS1.0.16.0.UNLINXM
+- android: '15.0'
+  codename: duchamp
+  date: '2025-01-24'
+  download: https://bigota.d.miui.com/OS2.0.102.0.VNLCNXM/fw_duchamp_duchamp-ota_full-OS2.0.102.0.VNLCNXM-user-15.0-21f565d0bb.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS2.0.102.0.VNLCNXM
 - android: '15.0'
   codename: duchamp
   date: '2024-12-23'

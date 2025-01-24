@@ -3,7 +3,7 @@ title: Xiaomi Pad 6S Pro 12.4 China HyperOS OS2.0.102.0.VNXCNXM Update
 layout: download
 name: Xiaomi Pad 6S Pro 12.4 China
 codename: sheng
-permalink: /hyperos/sheng/stable beta/OS2.0.102.0.VNXCNXM/
+permalink: /hyperos/sheng/stable/OS2.0.102.0.VNXCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/sheng/stable beta/OS2.0.102.0.VNXCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.102.0.VNXCNXM Stable Beta Official Update for Xiaomi Pad 6S Pro 12.4 China (sheng)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.102.0.VNXCNXM Stable Official Update for Xiaomi Pad 6S Pro 12.4 China (sheng)</h3>
     <h5>This page shows the OS2.0.102.0.VNXCNXM update only. If you're looking for other updates check
         <a href="/hyperos/sheng/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/sheng/stable beta/OS2.0.102.0.VNXCNXM/
                     <h5><b>Version: </b>OS2.0.102.0.VNXCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>9.1 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-01-24</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sheng_images_OS2.0.102.0.VNXCNXM_20250107.0000.00_15.0_cn_b1256f5386.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">b1256f538671c551cbeddcd4703b4fbc</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.102.0.VNXCNXM/sheng_images_OS2.0.102.0.VNXCNXM_20250107.0000.00_15.0_cn_b1256f5386.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.102.0.VNXCNXM/sheng_images_OS2.0.102.0.VNXCNXM_20250107.0000.00_15.0_cn_b1256f5386.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.102.0.VNXCNXM/sheng_images_OS2.0.102.0.VNXCNXM_20250107.0000.00_15.0_cn_b1256f5386.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.102.0.VNXCNXM/sheng_images_OS2.0.102.0.VNXCNXM_20250107.0000.00_15.0_cn_b1256f5386.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.102.0.VNXCNXM/sheng_images_OS2.0.102.0.VNXCNXM_20250107.0000.00_15.0_cn_b1256f5386.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#sheng_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="sheng_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="sheng_1_changelog">
+                        <p id="changelog_text">[System]<br>New: Support for one-tap clipboard clearing<br>Optimization: Bluetooth status bar icon<br>[Xiaomi HyperConnect]<br>New: Support for file transfers between different devices using different Xiaomi Accounts<br>Optimization: Device connection pop-ups<br>[Gallery]<br>Optimization: "On this day" feature now supports hiding content<br>Optimization: Day and month views are available for the start page<br>Optimization: Search results page can now show the progress of Gallery analysis by AI<br>Optimization: Search results for identification documents<br>Optimization: Display layouts for Gallery items<br>Optimization: Gallery now supports deleting and hiding items via long pressing<br>Optimization: Search results for time and location keywords<br>Fix: CAD images were mistakenly placed in Gallery<br>[Xiaomi Hyper XiaoAi]<br>Your smart personal assistant<br>· New visuals with multiple ways to activate the assistant anytime you need it.<br>Multimodal interaction: Perceive the world around you with your camera and easily recognize objects that appear on your screen.<br>· Improved search: Supports natural language searches for photos, videos, documents, notes, and recordings.<br>Smart scenes: Seamlessly integrates system features, letting you perform complex tasks with a single step. This feature also learns your patterns to offer helpful services proactively.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi Pad 6S Pro 12.4 China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/sheng/" target="_blank">sheng</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.102.0.VNXCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -74,10 +117,10 @@ permalink: /hyperos/sheng/stable beta/OS2.0.102.0.VNXCNXM/
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS2.0.102.0.VNXCNXM/sheng-ota_incremental-OS2.0.3.0.VNXCNXM-OS2.0.102.0.VNXCNXM-user-15.0-1ff25b5d2e.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.102.0.VNXCNXM/sheng-ota_full-OS2.0.102.0.VNXCNXM-user-15.0-f80a1ec4b7.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.102.0.VNXCNXM/sheng-ota_full-OS2.0.102.0.VNXCNXM-user-15.0-f80a1ec4b7.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.102.0.VNXCNXM/sheng-ota_full-OS2.0.102.0.VNXCNXM-user-15.0-f80a1ec4b7.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.102.0.VNXCNXM/sheng-ota_full-OS2.0.102.0.VNXCNXM-user-15.0-f80a1ec4b7.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.102.0.VNXCNXM/sheng-ota_full-OS2.0.102.0.VNXCNXM-user-15.0-f80a1ec4b7.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#sheng_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="sheng_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#sheng_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="sheng_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="sheng_1_changelog">
+                    <div class="collapse" id="sheng_2_changelog">
                         <p id="changelog_text">[System]<br>New: Support for one-tap clipboard clearing<br>Optimization: Bluetooth status bar icon<br>[Xiaomi HyperConnect]<br>New: Support for file transfers between different devices using different Xiaomi Accounts<br>Optimization: Device connection pop-ups<br>[Gallery]<br>Optimization: "On this day" feature now supports hiding content<br>Optimization: Day and month views are available for the start page<br>Optimization: Search results page can now show the progress of Gallery analysis by AI<br>Optimization: Search results for identification documents<br>Optimization: Display layouts for Gallery items<br>Optimization: Gallery now supports deleting and hiding items via long pressing<br>Optimization: Search results for time and location keywords<br>Fix: CAD images were mistakenly placed in Gallery<br>[Xiaomi Hyper XiaoAi]<br>Your smart personal assistant<br>· New visuals with multiple ways to activate the assistant anytime you need it.<br>Multimodal interaction: Perceive the world around you with your camera and easily recognize objects that appear on your screen.<br>· Improved search: Supports natural language searches for photos, videos, documents, notes, and recordings.<br>Smart scenes: Seamlessly integrates system features, letting you perform complex tasks with a single step. This feature also learns your patterns to offer helpful services proactively.</p>
                     </div>
                 </li>

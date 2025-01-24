@@ -569,15 +569,15 @@
     android: '11.0'
     miui: 22.3.2
 - branch: stable
-  date: '2024-11-25'
+  date: '2025-01-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-25.11.2024/fw_breeze_miui_BREEZE_OS1.0.9.0.UNUCNXM_b46ba36d4c_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/breeze/fw_breeze_miui_BREEZE_OS1.0.9.0.UNUCNXM_b46ba36d4c_14.0.zip
-  filename: fw_breeze_miui_BREEZE_OS1.0.9.0.UNUCNXM_b46ba36d4c_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-24.01.2025/fw_breeze_breeze-ota_full-OS2.0.3.0.VNUCNXM-user-15.0-e8c2cffbba.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/breeze/fw_breeze_breeze-ota_full-OS2.0.3.0.VNUCNXM-user-15.0-e8c2cffbba.zip
+  filename: fw_breeze_breeze-ota_full-OS2.0.3.0.VNUCNXM-user-15.0-e8c2cffbba.zip
   region: China
   versions:
-    android: '14.0'
-    miui: OS1.0.9.0.UNUCNXM
+    android: '15.0'
+    miui: OS2.0.3.0.VNUCNXM
 - branch: stable
   date: '2025-01-10'
   downloads:
@@ -1509,15 +1509,15 @@
     android: '15.0'
     miui: OS2.0.1.0.VNLMIXM
 - branch: stable
-  date: '2024-12-16'
+  date: '2025-01-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-16.12.2024/fw_duchamp_duchamp-ota_full-OS2.0.3.0.VNLCNXM-user-15.0-3c95a2bbd6.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/duchamp/fw_duchamp_duchamp-ota_full-OS2.0.3.0.VNLCNXM-user-15.0-3c95a2bbd6.zip
-  filename: fw_duchamp_duchamp-ota_full-OS2.0.3.0.VNLCNXM-user-15.0-3c95a2bbd6.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-24.01.2025/fw_duchamp_duchamp-ota_full-OS2.0.102.0.VNLCNXM-user-15.0-21f565d0bb.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/duchamp/fw_duchamp_duchamp-ota_full-OS2.0.102.0.VNLCNXM-user-15.0-21f565d0bb.zip
+  filename: fw_duchamp_duchamp-ota_full-OS2.0.102.0.VNLCNXM-user-15.0-21f565d0bb.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.3.0.VNLCNXM
+    miui: OS2.0.102.0.VNLCNXM
 - branch: stable
   date: '2024-12-23'
   downloads:
