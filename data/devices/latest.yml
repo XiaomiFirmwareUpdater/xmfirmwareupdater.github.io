@@ -2239,25 +2239,25 @@
     android: '15.0'
     miui: OS2.0.104.0.VOBCNXM
 - branch: stable
-  date: '2024-12-31'
+  date: '2025-01-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-31.12.2024/fw_haydn_miui_HAYDNGlobal_OS1.0.13.0.UKKMIXM_fee25caebe_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/haydn/fw_haydn_miui_HAYDNGlobal_OS1.0.13.0.UKKMIXM_fee25caebe_14.0.zip
-  filename: fw_haydn_miui_HAYDNGlobal_OS1.0.13.0.UKKMIXM_fee25caebe_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-24.01.2025/fw_haydn_miui_HAYDNGlobal_OS1.0.14.0.UKKMIXM_81a852e9d9_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/haydn/fw_haydn_miui_HAYDNGlobal_OS1.0.14.0.UKKMIXM_81a852e9d9_14.0.zip
+  filename: fw_haydn_miui_HAYDNGlobal_OS1.0.14.0.UKKMIXM_81a852e9d9_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.13.0.UKKMIXM
+    miui: OS1.0.14.0.UKKMIXM
 - branch: stable
-  date: '2024-12-31'
+  date: '2025-01-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-31.12.2024/fw_haydn_miui_HAYDN_OS1.0.10.0.UKKCNXM_7cc624af85_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/haydn/fw_haydn_miui_HAYDN_OS1.0.10.0.UKKCNXM_7cc624af85_14.0.zip
-  filename: fw_haydn_miui_HAYDN_OS1.0.10.0.UKKCNXM_7cc624af85_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-24.01.2025/fw_haydn_miui_HAYDN_OS1.0.11.0.UKKCNXM_6e320ee7f4_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/haydn/fw_haydn_miui_HAYDN_OS1.0.11.0.UKKCNXM_6e320ee7f4_14.0.zip
+  filename: fw_haydn_miui_HAYDN_OS1.0.11.0.UKKCNXM_6e320ee7f4_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.10.0.UKKCNXM
+    miui: OS1.0.11.0.UKKCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -3729,15 +3729,15 @@
     android: '15.0'
     miui: OS2.0.2.0.VMBMIXM
 - branch: stable
-  date: '2024-12-27'
+  date: '2025-01-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-27.12.2024/fw_nuwa_nuwa-ota_full-OS2.0.3.0.VMBCNXM-user-15.0-515298c113.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/nuwa/fw_nuwa_nuwa-ota_full-OS2.0.3.0.VMBCNXM-user-15.0-515298c113.zip
-  filename: fw_nuwa_nuwa-ota_full-OS2.0.3.0.VMBCNXM-user-15.0-515298c113.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-24.01.2025/fw_nuwa_nuwa-ota_full-OS2.0.100.0.VMBCNXM-user-15.0-632fc8251d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/nuwa/fw_nuwa_nuwa-ota_full-OS2.0.100.0.VMBCNXM-user-15.0-632fc8251d.zip
+  filename: fw_nuwa_nuwa-ota_full-OS2.0.100.0.VMBCNXM-user-15.0-632fc8251d.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.3.0.VMBCNXM
+    miui: OS2.0.100.0.VMBCNXM
 - branch: stable
   date: '2025-01-06'
   downloads:
@@ -6599,15 +6599,15 @@
     android: '14.0'
     miui: OS1.0.9.0.ULBINXM
 - branch: stable
-  date: '2024-12-12'
+  date: '2025-01-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zijin/releases/download/stable-12.12.2024/fw_zijin_miui_ZIJIN_OS1.0.10.0.ULPCNXM_049ccec9c1_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zijin/fw_zijin_miui_ZIJIN_OS1.0.10.0.ULPCNXM_049ccec9c1_14.0.zip
-  filename: fw_zijin_miui_ZIJIN_OS1.0.10.0.ULPCNXM_049ccec9c1_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zijin/releases/download/stable-24.01.2025/fw_zijin_miui_ZIJIN_OS1.0.11.0.ULPCNXM_f1e8568223_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zijin/fw_zijin_miui_ZIJIN_OS1.0.11.0.ULPCNXM_f1e8568223_14.0.zip
+  filename: fw_zijin_miui_ZIJIN_OS1.0.11.0.ULPCNXM_f1e8568223_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.10.0.ULPCNXM
+    miui: OS1.0.11.0.ULPCNXM
 - branch: stable
   date: '2025-01-17'
   downloads:

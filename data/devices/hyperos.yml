@@ -3774,6 +3774,18 @@
   version: OS1.0.5.0.UKKCNXM
 - android: '14.0'
   codename: haydn
+  date: '2025-01-24'
+  download: https://bigota.d.miui.com/OS1.0.14.0.UKKMIXM/fw_haydn_miui_HAYDNGlobal_OS1.0.14.0.UKKMIXM_81a852e9d9_14.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: OS1.0.14.0.UKKMIXM
+- android: '14.0'
+  codename: haydn
+  date: '2025-01-24'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UKKCNXM/fw_haydn_miui_HAYDN_OS1.0.11.0.UKKCNXM_6e320ee7f4_14.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: OS1.0.11.0.UKKCNXM
+- android: '14.0'
+  codename: haydn
   date: '2025-01-23'
   download: https://bigota.d.miui.com/OS1.0.14.0.UKKEUXM/fw_haydn_miui_HAYDNEEAGlobal_OS1.0.14.0.UKKEUXM_91b3fac3c5_14.0.zip
   name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
@@ -6172,6 +6184,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UMBMIXM/fw_nuwa_miui_NUWAGlobal_OS1.0.7.0.UMBMIXM_5dc3074d31_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.7.0.UMBMIXM
+- android: '15.0'
+  codename: nuwa
+  date: '2025-01-24'
+  download: https://bigota.d.miui.com/OS2.0.100.0.VMBCNXM/fw_nuwa_nuwa-ota_full-OS2.0.100.0.VMBCNXM-user-15.0-632fc8251d.zip
+  name: Xiaomi 13 Pro
+  version: OS2.0.100.0.VMBCNXM
 - android: '14.0'
   codename: nuwa
   date: '2024-08-23'
@@ -11386,6 +11404,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.ULBINXM/fw_zeus_miui_ZEUSINGlobal_OS1.0.8.0.ULBINXM_caa870f915_14.0.zip
   name: Xiaomi 12 Pro
   version: OS1.0.8.0.ULBINXM
+- android: '14.0'
+  codename: zijin
+  date: '2025-01-24'
+  download: https://bigota.d.miui.com/OS1.0.11.0.ULPCNXM/fw_zijin_miui_ZIJIN_OS1.0.11.0.ULPCNXM_f1e8568223_14.0.zip
+  name: Xiaomi Civi 1S
+  version: OS1.0.11.0.ULPCNXM
 - android: '14.0'
   codename: zijin
   date: '2024-08-16'

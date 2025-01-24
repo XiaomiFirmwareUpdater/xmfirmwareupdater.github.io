@@ -3,7 +3,7 @@ title: MIX Fold 4 China HyperOS OS2.0.102.0.VNVCNXM Update
 layout: download
 name: MIX Fold 4 China
 codename: goku
-permalink: /hyperos/goku/stable beta/OS2.0.102.0.VNVCNXM/
+permalink: /hyperos/goku/stable/OS2.0.102.0.VNVCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/goku/stable beta/OS2.0.102.0.VNVCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.102.0.VNVCNXM Stable Beta Official Update for MIX Fold 4 China (goku)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.102.0.VNVCNXM Stable Official Update for MIX Fold 4 China (goku)</h3>
     <h5>This page shows the OS2.0.102.0.VNVCNXM update only. If you're looking for other updates check
         <a href="/hyperos/goku/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/goku/stable beta/OS2.0.102.0.VNVCNXM/
                     <h5><b>Version: </b>OS2.0.102.0.VNVCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>10.0 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-01-24</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">goku_images_OS2.0.102.0.VNVCNXM_20250111.0000.00_15.0_cn_e68c695a6f.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">e68c695a6ffd41f778ab73ac0c695b5f</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.102.0.VNVCNXM/goku_images_OS2.0.102.0.VNVCNXM_20250111.0000.00_15.0_cn_e68c695a6f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.102.0.VNVCNXM/goku_images_OS2.0.102.0.VNVCNXM_20250111.0000.00_15.0_cn_e68c695a6f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.102.0.VNVCNXM/goku_images_OS2.0.102.0.VNVCNXM_20250111.0000.00_15.0_cn_e68c695a6f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.102.0.VNVCNXM/goku_images_OS2.0.102.0.VNVCNXM_20250111.0000.00_15.0_cn_e68c695a6f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.102.0.VNVCNXM/goku_images_OS2.0.102.0.VNVCNXM_20250111.0000.00_15.0_cn_e68c695a6f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#goku_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="goku_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="goku_1_changelog">
+                        <p id="changelog_text">[System]<br>New: Support for one-tap clipboard clearing<br>Optimization: Bluetooth status bar icon<br>[Control center]<br>New: Flashlight brightness adjustment page<br>New: Certain devices now support adjustable flashlight brightness<br>New: Notification spotlight for flashlight<br>[Xiaomi HyperConnect]<br>New: Support for file transfers between different devices using different Xiaomi Accounts<br>Optimization: Device connection pop-ups<br>[Gallery]<br>Optimization: "On this day" feature now supports hiding content<br>Optimization: Day and month views are available for the start page<br>Optimization: Search results page can now show the progress of Gallery analysis by AI<br>Optimization: Search results for identification documents<br>Optimization: Display layouts for Gallery items<br>Optimization: Gallery now supports deleting and hiding items via long pressing<br>Optimization: Search results for time and location keywords<br>Fix: CAD images were mistakenly placed in Gallery<br>[Xiaomi Hyper XiaoAi]<br>Your smart personal assistant<br>· New visuals with multiple ways to activate the assistant anytime you need it.<br>Multimodal interaction: Perceive the world around you with your camera and easily recognize objects that appear on your screen.<br>· Improved search: Supports natural language searches for photos, videos, documents, notes, and recordings.<br>Smart scenes: Seamlessly integrates system features, letting you perform complex tasks with a single step. This feature also learns your patterns to offer helpful services proactively.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>MIX Fold 4 China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/goku/" target="_blank">goku</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.102.0.VNVCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -74,10 +117,10 @@ permalink: /hyperos/goku/stable beta/OS2.0.102.0.VNVCNXM/
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS2.0.102.0.VNVCNXM/goku-ota_incremental-OS2.0.8.0.VNVCNXM-OS2.0.102.0.VNVCNXM-user-15.0-cc9298bdda.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.102.0.VNVCNXM/goku-ota_full-OS2.0.102.0.VNVCNXM-user-15.0-2c00a2c2b7.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.102.0.VNVCNXM/goku-ota_full-OS2.0.102.0.VNVCNXM-user-15.0-2c00a2c2b7.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.102.0.VNVCNXM/goku-ota_full-OS2.0.102.0.VNVCNXM-user-15.0-2c00a2c2b7.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.102.0.VNVCNXM/goku-ota_full-OS2.0.102.0.VNVCNXM-user-15.0-2c00a2c2b7.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.102.0.VNVCNXM/goku-ota_full-OS2.0.102.0.VNVCNXM-user-15.0-2c00a2c2b7.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#goku_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="goku_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#goku_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="goku_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="goku_1_changelog">
+                    <div class="collapse" id="goku_2_changelog">
                         <p id="changelog_text">[System]<br>New: Support for one-tap clipboard clearing<br>Optimization: Bluetooth status bar icon<br>[Control center]<br>New: Flashlight brightness adjustment page<br>New: Certain devices now support adjustable flashlight brightness<br>New: Notification spotlight for flashlight<br>[Xiaomi HyperConnect]<br>New: Support for file transfers between different devices using different Xiaomi Accounts<br>Optimization: Device connection pop-ups<br>[Gallery]<br>Optimization: "On this day" feature now supports hiding content<br>Optimization: Day and month views are available for the start page<br>Optimization: Search results page can now show the progress of Gallery analysis by AI<br>Optimization: Search results for identification documents<br>Optimization: Display layouts for Gallery items<br>Optimization: Gallery now supports deleting and hiding items via long pressing<br>Optimization: Search results for time and location keywords<br>Fix: CAD images were mistakenly placed in Gallery<br>[Xiaomi Hyper XiaoAi]<br>Your smart personal assistant<br>· New visuals with multiple ways to activate the assistant anytime you need it.<br>Multimodal interaction: Perceive the world around you with your camera and easily recognize objects that appear on your screen.<br>· Improved search: Supports natural language searches for photos, videos, documents, notes, and recordings.<br>Smart scenes: Seamlessly integrates system features, letting you perform complex tasks with a single step. This feature also learns your patterns to offer helpful services proactively.</p>
                     </div>
                 </li>

@@ -639,6 +639,26 @@
     android: '13.0'
     miui: V14.0.6.0.TKKMIXM
 - branch: stable
+  date: '2025-01-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-24.01.2025/fw_haydn_miui_HAYDNGlobal_OS1.0.14.0.UKKMIXM_81a852e9d9_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/haydn/fw_haydn_miui_HAYDNGlobal_OS1.0.14.0.UKKMIXM_81a852e9d9_14.0.zip
+  filename: fw_haydn_miui_HAYDNGlobal_OS1.0.14.0.UKKMIXM_81a852e9d9_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.14.0.UKKMIXM
+- branch: stable
+  date: '2025-01-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-24.01.2025/fw_haydn_miui_HAYDN_OS1.0.11.0.UKKCNXM_6e320ee7f4_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/haydn/fw_haydn_miui_HAYDN_OS1.0.11.0.UKKCNXM_6e320ee7f4_14.0.zip
+  filename: fw_haydn_miui_HAYDN_OS1.0.11.0.UKKCNXM_6e320ee7f4_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.11.0.UKKCNXM
+- branch: stable
   date: '2021-07-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-23.07.2021/fw_haydn_miui_HAYDNINGlobal_V12.5.2.0.RKKINXM_7cf92f7234_11.0.zip
