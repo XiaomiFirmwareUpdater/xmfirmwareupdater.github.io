@@ -4384,6 +4384,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UMAMIXM/fw_ishtar_miui_ISHTARGlobal_OS1.0.7.0.UMAMIXM_4162714934_14.0.zip
   name: Xiaomi 13 Ultra
   version: OS1.0.7.0.UMAMIXM
+- android: '15.0'
+  codename: ishtar
+  date: '2025-01-25'
+  download: https://bigota.d.miui.com/OS2.0.100.0.VMACNXM/fw_ishtar_ishtar-ota_full-OS2.0.100.0.VMACNXM-user-15.0-5af877fc7e.zip
+  name: Xiaomi 13 Ultra
+  version: OS2.0.100.0.VMACNXM
 - android: '14.0'
   codename: ishtar
   date: '2024-07-23'
