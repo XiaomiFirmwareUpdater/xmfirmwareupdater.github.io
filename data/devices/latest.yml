@@ -9,15 +9,15 @@
     android: '14.0'
     miui: OS1.0.11.0.UKWMIXM
 - branch: stable
-  date: '2024-12-23'
+  date: '2025-01-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-23.12.2024/fw_agate_miui_AGATEEEAGlobal_OS1.0.9.0.UKWEUXM_abffe7411a_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/agate/fw_agate_miui_AGATEEEAGlobal_OS1.0.9.0.UKWEUXM_abffe7411a_14.0.zip
-  filename: fw_agate_miui_AGATEEEAGlobal_OS1.0.9.0.UKWEUXM_abffe7411a_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-26.01.2025/fw_agate_miui_AGATEEEAGlobal_OS1.0.10.0.UKWEUXM_6e09feeec4_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/agate/fw_agate_miui_AGATEEEAGlobal_OS1.0.10.0.UKWEUXM_6e09feeec4_14.0.zip
+  filename: fw_agate_miui_AGATEEEAGlobal_OS1.0.10.0.UKWEUXM_6e09feeec4_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.9.0.UKWEUXM
+    miui: OS1.0.10.0.UKWEUXM
 - branch: stable
   date: '2024-12-14'
   downloads:
@@ -5169,15 +5169,15 @@
     android: '14.0'
     miui: OS1.0.14.0.UHZMIXM
 - branch: stable
-  date: '2024-12-23'
+  date: '2025-01-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-23.12.2024/fw_sea_miui_SEAEEAGlobal_OS1.0.12.0.UHZEUXM_cc730ae497_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sea/fw_sea_miui_SEAEEAGlobal_OS1.0.12.0.UHZEUXM_cc730ae497_14.0.zip
-  filename: fw_sea_miui_SEAEEAGlobal_OS1.0.12.0.UHZEUXM_cc730ae497_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-26.01.2025/fw_sea_miui_SEAEEAGlobal_OS1.0.13.0.UHZEUXM_fcbe2a1381_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sea/fw_sea_miui_SEAEEAGlobal_OS1.0.13.0.UHZEUXM_fcbe2a1381_14.0.zip
+  filename: fw_sea_miui_SEAEEAGlobal_OS1.0.13.0.UHZEUXM_fcbe2a1381_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.12.0.UHZEUXM
+    miui: OS1.0.13.0.UHZEUXM
 - branch: stable
   date: '2024-05-13'
   downloads:
