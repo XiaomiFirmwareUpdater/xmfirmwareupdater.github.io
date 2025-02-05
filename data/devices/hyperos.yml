@@ -1138,6 +1138,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UMLEUXM/fw_corot_miui_COROTEEAGlobal_OS1.0.7.0.UMLEUXM_f12bc976f6_14.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
   version: OS1.0.7.0.UMLEUXM
+- android: '15.0'
+  codename: corot
+  date: '2025-02-05'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VMLMIXM/fw_corot_global_corot_global-ota_full-OS2.0.6.0.VMLMIXM-user-15.0-53a52447e3.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS2.0.6.0.VMLMIXM
 - android: '14.0'
   codename: corot
   date: '2023-12-03'
@@ -1738,6 +1744,18 @@
   download: https://bigota.d.miui.com/OS1.0.13.0.ULFCNXM/fw_diting_miui_DITING_OS1.0.13.0.ULFCNXM_258880d212_14.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: OS1.0.13.0.ULFCNXM
+- android: '14.0'
+  codename: diting
+  date: '2025-02-05'
+  download: https://bigota.d.miui.com/OS1.0.11.0.ULFMIXM/fw_diting_miui_DITINGGlobal_OS1.0.11.0.ULFMIXM_cc95677d50_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.11.0.ULFMIXM
+- android: '14.0'
+  codename: diting
+  date: '2025-02-05'
+  download: https://bigota.d.miui.com/OS1.0.15.0.ULFCNXM/fw_diting_miui_DITING_OS1.0.15.0.ULFCNXM_bad3962680_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.15.0.ULFCNXM
 - android: '14.0'
   codename: diting
   date: '2024-08-02'
@@ -4836,6 +4854,18 @@
   version: OS1.0.9.0.UKOCNXM
 - android: '14.0'
   codename: lisa
+  date: '2025-02-05'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UKOEUXM/fw_lisa_miui_LISAEEAGlobal_OS1.0.12.0.UKOEUXM_b6c4c09664_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.12.0.UKOEUXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-02-05'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UKOCNXM/fw_lisa_miui_LISA_OS1.0.10.0.UKOCNXM_5edac9f765_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.10.0.UKOCNXM
+- android: '14.0'
+  codename: lisa
   date: '2024-03-04'
   download: https://bigota.d.miui.com/OS1.0.1.0.UKOEUXM/fw_lisa_miui_LISAEEAGlobal_OS1.0.1.0.UKOEUXM_3f709c9a4c_14.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
@@ -5416,6 +5446,12 @@
   download: https://bigota.d.miui.com/OS2.0.11.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.11.0.VOMCNXM-user-15.0-53cc500554.zip
   name: Redmi K80 Pro
   version: OS2.0.11.0.VOMCNXM
+- android: '15.0'
+  codename: miro
+  date: '2025-02-05'
+  download: https://bigota.d.miui.com/OS2.0.104.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.104.0.VOMCNXM-user-15.0-f810008bcf.zip
+  name: Redmi K80 Pro
+  version: OS2.0.104.0.VOMCNXM
 - android: '15.0'
   codename: miro
   date: '2025-01-02'
@@ -7720,6 +7756,12 @@
   download: https://bigota.d.miui.com/OS2.0.13.0.VNNCNXM/fw_rothko_rothko-ota_full-OS2.0.13.0.VNNCNXM-user-15.0-6c068bf94b.zip
   name: Redmi K70 Ultra/Xiaomi 14T Pro
   version: OS2.0.13.0.VNNCNXM
+- android: '15.0'
+  codename: rothko
+  date: '2025-02-05'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VNNMIXM/fw_rothko_global_rothko_global-ota_full-OS2.0.3.0.VNNMIXM-user-15.0-c01e21e3e9.zip
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
+  version: OS2.0.3.0.VNNMIXM
 - android: '14.0'
   codename: rothko
   date: '2024-11-02'
@@ -8152,6 +8194,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMOMIXM/fw_ruby_miui_RUBYGlobal_OS1.0.4.0.UMOMIXM_46e945c5b0_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: OS1.0.4.0.UMOMIXM
+- android: '14.0'
+  codename: ruby
+  date: '2025-02-05'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UMOINXM/fw_ruby_miui_RUBYINGlobal_OS1.0.10.0.UMOINXM_77403cd10e_14.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS1.0.10.0.UMOINXM
 - android: '14.0'
   codename: ruby
   date: '2024-08-02'
@@ -10978,6 +11026,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMUINXM/fw_xun_miui_XUNINGlobal_OS1.0.2.0.UMUINXM_e2e7af4743_14.0.zip
   name: Redmi Pad SE
   version: OS1.0.2.0.UMUINXM
+- android: '15.0'
+  codename: xun
+  date: '2025-02-05'
+  download: https://bigota.d.miui.com/OS2.0.1.0.VMUMIXM/fw_xun_global_xun_global-ota_full-OS2.0.1.0.VMUMIXM-user-15.0-2de2c70e8d.zip
+  name: Redmi Pad SE
+  version: OS2.0.1.0.VMUMIXM
 - android: '14.0'
   codename: xun
   date: '2024-11-03'
