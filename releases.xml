@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 05 Feb 2025 19:09:08 </lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 01:15:53 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.6.0.VMLMIXM</title>
@@ -39,6 +39,11 @@
         <item>
             <title>Redmi K80 Pro (miro) - OS2.0.104.0.VOMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/miro/</link>
+            <pubDate>Wed, 05 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K60E (rembrandt) - OS2.0.3.0.UMMCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rembrandt/</link>
             <pubDate>Wed, 05 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -289,11 +294,6 @@
         <item>
             <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS1.0.11.0.UMSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
-            <pubDate>Mon, 20 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60E (rembrandt) - OS1.0.12.0.UMMCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rembrandt/</link>
             <pubDate>Mon, 20 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>

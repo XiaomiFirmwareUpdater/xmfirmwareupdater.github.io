@@ -7542,6 +7542,12 @@
   version: OS1.0.9.0.UMMCNXM
 - android: '14.0'
   codename: rembrandt
+  date: '2025-02-05'
+  download: https://bigota.d.miui.com/OS2.0.3.0.UMMCNXM/fw_rembrandt_rembrandt-ota_full-OS2.0.3.0.UMMCNXM-user-14.0-f9a5decd04.zip
+  name: Redmi K60E
+  version: OS2.0.3.0.UMMCNXM
+- android: '14.0'
+  codename: rembrandt
   date: '2024-08-05'
   download: https://bigota.d.miui.com/OS1.0.6.0.UMMCNXM/fw_rembrandt_miui_REMBRANDT_OS1.0.6.0.UMMCNXM_8ed8d81fcc_14.0.zip
   name: Redmi K60E
