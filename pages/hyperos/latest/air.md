@@ -52,9 +52,8 @@ permalink: /hyperos/air/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 13R 5G / 13C 5G China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UGQCNXM</td><td>14.0</td><td>5.7 GB</td><td>2024-08-30</td><td><a href="/hyperos/air/stable/OS1.0.2.0.UGQCNXM/">Download</a></td></tr>
-<tr><td>Redmi 13R 5G / 13C 5G China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UGQCNXM</td><td>14.0</td><td>4.3 GB</td><td>2024-09-06</td><td><a href="/hyperos/air/stable/OS1.0.2.0.UGQCNXM/">Download</a></td></tr>
-<tr><td>Redmi 13R 5G / 13C 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.VGQCNXM</td><td>15.0</td><td>4.7 GB</td><td>2025-01-14</td><td><a href="/hyperos/air/stable beta/OS2.0.1.0.VGQCNXM/">Download</a></td></tr>
+                <tr><td>Redmi 13R 5G / 13C 5G China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.VGQCNXM</td><td>15.0</td><td>6.1 GB</td><td>2024-12-26</td><td><a href="/hyperos/air/stable/OS2.0.1.0.VGQCNXM/">Download</a></td></tr>
+<tr><td>Redmi 13R 5G / 13C 5G China</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VGQCNXM</td><td>15.0</td><td>4.7 GB</td><td>2025-01-14</td><td><a href="/hyperos/air/stable/OS2.0.1.0.VGQCNXM/">Download</a></td></tr>
 <tr><td>Redmi 13R 5G / 13C 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UGQEUXM</td><td>14.0</td><td>6.6 GB</td><td>2024-12-11</td><td><a href="/hyperos/air/stable/OS1.0.5.0.UGQEUXM/">Download</a></td></tr>
 <tr><td>Redmi 13R 5G / 13C 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UGQEUXM</td><td>14.0</td><td>4.6 GB</td><td>2024-12-18</td><td><a href="/hyperos/air/stable/OS1.0.5.0.UGQEUXM/">Download</a></td></tr>
 <tr><td>Redmi 13R 5G / 13C 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UGQMIXM</td><td>14.0</td><td>7.2 GB</td><td>2024-11-27</td><td><a href="/hyperos/air/stable/OS1.0.4.0.UGQMIXM/">Download</a></td></tr>

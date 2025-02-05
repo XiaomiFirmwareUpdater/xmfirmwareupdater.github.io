@@ -4164,6 +4164,12 @@
   version: OS1.0.35.0.UNCCNXM
 - android: '15.0'
   codename: houji
+  date: '2025-02-05'
+  download: https://bigota.d.miui.com/OS2.0.8.0.VNCMIXM/fw_houji_global_houji_global-ota_full-OS2.0.8.0.VNCMIXM-user-15.0-7287fecb98.zip
+  name: Xiaomi 14
+  version: OS2.0.8.0.VNCMIXM
+- android: '15.0'
+  codename: houji
   date: '2024-12-04'
   download: https://bigota.d.miui.com/OS2.0.7.0.VNCCNXM/fw_houji_houji-ota_full-OS2.0.7.0.VNCCNXM-user-15.0-c831ec4f6f.zip
   name: Xiaomi 14
@@ -7918,6 +7924,18 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UFSEUXM/fw_ruan_miui_RUANEEAGlobal_OS1.0.4.0.UFSEUXM_f9cf76e825_14.0.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS1.0.4.0.UFSEUXM
+- android: '15.0'
+  codename: ruan
+  date: '2025-02-05'
+  download: https://bigota.d.miui.com/OS2.0.1.0.VFSMIXM/fw_ruan_global_ruan_global-ota_full-OS2.0.1.0.VFSMIXM-user-15.0-44acadea50.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS2.0.1.0.VFSMIXM
+- android: '15.0'
+  codename: ruan
+  date: '2025-02-05'
+  download: https://bigota.d.miui.com/OS2.0.1.0.VFSINXM/fw_ruan_in_global_ruan_in_global-ota_full-OS2.0.1.0.VFSINXM-user-15.0-04fefb62c8.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS2.0.1.0.VFSINXM
 - android: '14.0'
   codename: rubens
   date: '2024-10-30'
@@ -8374,6 +8392,12 @@
   download: https://bigota.d.miui.com/OS2.0.5.0.VNGMIXM/fw_sapphire_global_sapphire_global-ota_full-OS2.0.5.0.VNGMIXM-user-15.0-0c3063ffc8.zip
   name: Redmi Note 13
   version: OS2.0.5.0.VNGMIXM
+- android: '15.0'
+  codename: sapphire
+  date: '2025-02-05'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VNGMIXM/fw_sapphire_global_sapphire_global-ota_full-OS2.0.6.0.VNGMIXM-user-15.0-8e1a3c4dea.zip
+  name: Redmi Note 13
+  version: OS2.0.6.0.VNGMIXM
 - android: '14.0'
   codename: sapphire
   date: '2024-11-04'

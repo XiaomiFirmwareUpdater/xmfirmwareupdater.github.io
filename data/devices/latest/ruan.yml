@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2024-12-08'
+  date: '2025-02-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-08.12.2024/fw_ruan_miui_RUANGlobal_OS1.0.8.0.UFSMIXM_4f7061db22_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruan/fw_ruan_miui_RUANGlobal_OS1.0.8.0.UFSMIXM_4f7061db22_14.0.zip
-  filename: fw_ruan_miui_RUANGlobal_OS1.0.8.0.UFSMIXM_4f7061db22_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-05.02.2025/fw_ruan_global_ruan_global-ota_full-OS2.0.1.0.VFSMIXM-user-15.0-44acadea50.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruan/fw_ruan_global_ruan_global-ota_full-OS2.0.1.0.VFSMIXM-user-15.0-44acadea50.zip
+  filename: fw_ruan_global_ruan_global-ota_full-OS2.0.1.0.VFSMIXM-user-15.0-44acadea50.zip
   region: Global
   versions:
-    android: '14.0'
-    miui: OS1.0.8.0.UFSMIXM
+    android: '15.0'
+    miui: OS2.0.1.0.VFSMIXM
 - branch: stable
   date: '2025-01-20'
   downloads:
@@ -29,12 +29,12 @@
     android: '15.0'
     miui: OS2.0.2.0.VFSEUXM
 - branch: stable
-  date: '2025-01-06'
+  date: '2025-02-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-06.01.2025/fw_ruan_miui_RUANINGlobal_OS1.0.9.0.UFSINXM_586e79aa90_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruan/fw_ruan_miui_RUANINGlobal_OS1.0.9.0.UFSINXM_586e79aa90_14.0.zip
-  filename: fw_ruan_miui_RUANINGlobal_OS1.0.9.0.UFSINXM_586e79aa90_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-05.02.2025/fw_ruan_in_global_ruan_in_global-ota_full-OS2.0.1.0.VFSINXM-user-15.0-04fefb62c8.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruan/fw_ruan_in_global_ruan_in_global-ota_full-OS2.0.1.0.VFSINXM-user-15.0-04fefb62c8.zip
+  filename: fw_ruan_in_global_ruan_in_global-ota_full-OS2.0.1.0.VFSINXM-user-15.0-04fefb62c8.zip
   region: India
   versions:
-    android: '14.0'
-    miui: OS1.0.9.0.UFSINXM
+    android: '15.0'
+    miui: OS2.0.1.0.VFSINXM

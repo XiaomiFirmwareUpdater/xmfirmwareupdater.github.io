@@ -2329,15 +2329,15 @@
     android: '7.0'
     miui: 8.4.12
 - branch: stable
-  date: '2024-12-16'
+  date: '2025-02-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-16.12.2024/fw_houji_global_houji_global-ota_full-OS2.0.6.0.VNCMIXM-user-15.0-4b6e42f980.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_global_houji_global-ota_full-OS2.0.6.0.VNCMIXM-user-15.0-4b6e42f980.zip
-  filename: fw_houji_global_houji_global-ota_full-OS2.0.6.0.VNCMIXM-user-15.0-4b6e42f980.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-05.02.2025/fw_houji_global_houji_global-ota_full-OS2.0.8.0.VNCMIXM-user-15.0-7287fecb98.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_global_houji_global-ota_full-OS2.0.8.0.VNCMIXM-user-15.0-7287fecb98.zip
+  filename: fw_houji_global_houji_global-ota_full-OS2.0.8.0.VNCMIXM-user-15.0-7287fecb98.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.6.0.VNCMIXM
+    miui: OS2.0.8.0.VNCMIXM
 - branch: stable
   date: '2025-01-09'
   downloads:
@@ -4859,15 +4859,15 @@
     android: '15.0'
     miui: OS2.0.12.0.VNNEUXM
 - branch: stable
-  date: '2024-12-08'
+  date: '2025-02-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-08.12.2024/fw_ruan_miui_RUANGlobal_OS1.0.8.0.UFSMIXM_4f7061db22_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruan/fw_ruan_miui_RUANGlobal_OS1.0.8.0.UFSMIXM_4f7061db22_14.0.zip
-  filename: fw_ruan_miui_RUANGlobal_OS1.0.8.0.UFSMIXM_4f7061db22_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-05.02.2025/fw_ruan_global_ruan_global-ota_full-OS2.0.1.0.VFSMIXM-user-15.0-44acadea50.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruan/fw_ruan_global_ruan_global-ota_full-OS2.0.1.0.VFSMIXM-user-15.0-44acadea50.zip
+  filename: fw_ruan_global_ruan_global-ota_full-OS2.0.1.0.VFSMIXM-user-15.0-44acadea50.zip
   region: Global
   versions:
-    android: '14.0'
-    miui: OS1.0.8.0.UFSMIXM
+    android: '15.0'
+    miui: OS2.0.1.0.VFSMIXM
 - branch: stable
   date: '2025-01-20'
   downloads:
@@ -4889,15 +4889,15 @@
     android: '15.0'
     miui: OS2.0.2.0.VFSEUXM
 - branch: stable
-  date: '2025-01-06'
+  date: '2025-02-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-06.01.2025/fw_ruan_miui_RUANINGlobal_OS1.0.9.0.UFSINXM_586e79aa90_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruan/fw_ruan_miui_RUANINGlobal_OS1.0.9.0.UFSINXM_586e79aa90_14.0.zip
-  filename: fw_ruan_miui_RUANINGlobal_OS1.0.9.0.UFSINXM_586e79aa90_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-05.02.2025/fw_ruan_in_global_ruan_in_global-ota_full-OS2.0.1.0.VFSINXM-user-15.0-04fefb62c8.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruan/fw_ruan_in_global_ruan_in_global-ota_full-OS2.0.1.0.VFSINXM-user-15.0-04fefb62c8.zip
+  filename: fw_ruan_in_global_ruan_in_global-ota_full-OS2.0.1.0.VFSINXM-user-15.0-04fefb62c8.zip
   region: India
   versions:
-    android: '14.0'
-    miui: OS1.0.9.0.UFSINXM
+    android: '15.0'
+    miui: OS2.0.1.0.VFSINXM
 - branch: stable
   date: '2025-01-20'
   downloads:
@@ -5089,15 +5089,15 @@
     android: '7.1'
     miui: 9.10.10
 - branch: stable
-  date: '2025-01-09'
+  date: '2025-02-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphire/releases/download/stable-09.01.2025/fw_sapphire_global_sapphire_global-ota_full-OS2.0.5.0.VNGMIXM-user-15.0-0c3063ffc8.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sapphire/fw_sapphire_global_sapphire_global-ota_full-OS2.0.5.0.VNGMIXM-user-15.0-0c3063ffc8.zip
-  filename: fw_sapphire_global_sapphire_global-ota_full-OS2.0.5.0.VNGMIXM-user-15.0-0c3063ffc8.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphire/releases/download/stable-05.02.2025/fw_sapphire_global_sapphire_global-ota_full-OS2.0.6.0.VNGMIXM-user-15.0-8e1a3c4dea.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sapphire/fw_sapphire_global_sapphire_global-ota_full-OS2.0.6.0.VNGMIXM-user-15.0-8e1a3c4dea.zip
+  filename: fw_sapphire_global_sapphire_global-ota_full-OS2.0.6.0.VNGMIXM-user-15.0-8e1a3c4dea.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.5.0.VNGMIXM
+    miui: OS2.0.6.0.VNGMIXM
 - branch: stable
   date: '2024-12-23'
   downloads:

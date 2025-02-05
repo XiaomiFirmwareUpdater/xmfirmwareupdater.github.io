@@ -52,7 +52,8 @@ permalink: /archive/hyperos/houji/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 14 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.3.0.VNCEUXM</td><td>15.0</td><td>6.4 GB</td><td>2025-01-15</td><td><a href="/hyperos/houji/stable beta/OS2.0.3.0.VNCEUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 14 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.8.0.VNCMIXM</td><td>15.0</td><td>6.3 GB</td><td>2025-01-23</td><td><a href="/hyperos/houji/stable beta/OS2.0.8.0.VNCMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.3.0.VNCEUXM</td><td>15.0</td><td>6.4 GB</td><td>2025-01-15</td><td><a href="/hyperos/houji/stable beta/OS2.0.3.0.VNCEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VNCCNXM</td><td>15.0</td><td>9.4 GB</td><td>2025-01-10</td><td><a href="/hyperos/houji/stable/OS2.0.101.0.VNCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.101.0.VNCCNXM</td><td>15.0</td><td>6.3 GB</td><td>2024-12-27</td><td><a href="/hyperos/houji/stable/OS2.0.101.0.VNCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VNCRUXM</td><td>15.0</td><td>6.2 GB</td><td>2025-01-07</td><td><a href="/hyperos/houji/stable/OS2.0.2.0.VNCRUXM/">Download</a></td></tr>
