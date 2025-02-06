@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 06 Feb 2025 07:52:34 </lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 14:19:14 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS1.0.9.0.UOOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
+            <pubDate>Thu, 06 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.2.0.VNPMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
+            <pubDate>Thu, 06 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.2.0.VNPEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
             <pubDate>Thu, 06 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -19,6 +29,16 @@
         <item>
             <title>Xiaomi Pad 6 (pipa) - OS1.0.14.0.UMZEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
+            <pubDate>Thu, 06 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 NFC (sapphiren) - OS2.0.7.0.VNHMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
+            <pubDate>Thu, 06 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12S Ultra (thor) - OS2.0.1.0.VLACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/thor/</link>
             <pubDate>Thu, 06 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -777,11 +797,6 @@
             <pubDate>Tue, 07 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12S Ultra (thor) - OS1.0.16.0.ULACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/thor/</link>
-            <pubDate>Tue, 07 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Mi 11 (venus) - OS1.0.11.0.UKBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/venus/</link>
             <pubDate>Tue, 07 Jan 2025 00:00:00 </pubDate>
@@ -932,11 +947,6 @@
             <pubDate>Tue, 31 Dec 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Turbo 3/POCO F6 (peridot) - OS1.0.12.0.UNPMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.12.0.VNNEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
             <pubDate>Tue, 31 Dec 2024 00:00:00 </pubDate>
@@ -1042,11 +1052,6 @@
             <pubDate>Tue, 24 Dec 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Turbo 3/POCO F6 (peridot) - OS1.0.9.0.UNPEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
-            <pubDate>Tue, 24 Dec 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Turbo 3/POCO F6 (peridot) - OS1.0.10.0.UNPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
             <pubDate>Tue, 24 Dec 2024 00:00:00 </pubDate>
@@ -1059,11 +1064,6 @@
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.2.0.VNLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Mon, 23 Dec 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 NFC (sapphiren) - OS2.0.6.0.VNHMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
             <pubDate>Mon, 23 Dec 2024 00:00:00 </pubDate>
         </item>
         <item>

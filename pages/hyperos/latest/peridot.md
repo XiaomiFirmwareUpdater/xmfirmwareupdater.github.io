@@ -63,10 +63,12 @@ permalink: /hyperos/peridot/
 <tr><td>POCO F6 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UNPIDXM</td><td>14.0</td><td>5.6 GB</td><td>2024-12-20</td><td><a href="/hyperos/peridot/stable/OS1.0.8.0.UNPIDXM/">Download</a></td></tr>
 <tr><td>POCO F6 India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.UNPINXM</td><td>14.0</td><td>7.3 GB</td><td>2024-12-11</td><td><a href="/hyperos/peridot/stable/OS1.0.10.0.UNPINXM/">Download</a></td></tr>
 <tr><td>POCO F6 India</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.UNPINXM</td><td>14.0</td><td>5.5 GB</td><td>2024-12-20</td><td><a href="/hyperos/peridot/stable/OS1.0.10.0.UNPINXM/">Download</a></td></tr>
+<tr><td>POCO F6 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.2.0.VNPEUXM</td><td>15.0</td><td>5.9 GB</td><td>2025-01-22</td><td><a href="/hyperos/peridot/stable beta/OS2.0.2.0.VNPEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.UNPRUXM</td><td>14.0</td><td>8.6 GB</td><td>2024-12-11</td><td><a href="/hyperos/peridot/stable/OS1.0.9.0.UNPRUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UNPRUXM</td><td>14.0</td><td>5.5 GB</td><td>2024-12-20</td><td><a href="/hyperos/peridot/stable/OS1.0.9.0.UNPRUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.UNPTWXM</td><td>14.0</td><td>7.2 GB</td><td>2024-12-11</td><td><a href="/hyperos/peridot/stable/OS1.0.9.0.UNPTWXM/">Download</a></td></tr>
 <tr><td>POCO F6 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UNPTWXM</td><td>14.0</td><td>5.5 GB</td><td>2024-12-20</td><td><a href="/hyperos/peridot/stable/OS1.0.9.0.UNPTWXM/">Download</a></td></tr>
+<tr><td>POCO F6 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.2.0.VNPMIXM</td><td>15.0</td><td>5.9 GB</td><td>2025-01-22</td><td><a href="/hyperos/peridot/stable beta/OS2.0.2.0.VNPMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

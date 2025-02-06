@@ -4009,15 +4009,15 @@
     android: '14.0'
     miui: OS1.0.10.0.ULHCNXM
 - branch: stable
-  date: '2024-12-31'
+  date: '2025-02-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-31.12.2024/fw_peridot_miui_PERIDOTGlobal_OS1.0.12.0.UNPMIXM_2fdc6b9e19_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/peridot/fw_peridot_miui_PERIDOTGlobal_OS1.0.12.0.UNPMIXM_2fdc6b9e19_14.0.zip
-  filename: fw_peridot_miui_PERIDOTGlobal_OS1.0.12.0.UNPMIXM_2fdc6b9e19_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-06.02.2025/fw_peridot_global_peridot_global-ota_full-OS2.0.2.0.VNPMIXM-user-15.0-e83a905f77.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/peridot/fw_peridot_global_peridot_global-ota_full-OS2.0.2.0.VNPMIXM-user-15.0-e83a905f77.zip
+  filename: fw_peridot_global_peridot_global-ota_full-OS2.0.2.0.VNPMIXM-user-15.0-e83a905f77.zip
   region: Global
   versions:
-    android: '14.0'
-    miui: OS1.0.12.0.UNPMIXM
+    android: '15.0'
+    miui: OS2.0.2.0.VNPMIXM
 - branch: stable
   date: '2025-01-16'
   downloads:
@@ -4029,15 +4029,15 @@
     android: '15.0'
     miui: OS2.0.6.0.VNPCNXM
 - branch: stable
-  date: '2024-12-24'
+  date: '2025-02-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-24.12.2024/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.9.0.UNPEUXM_99b86b566c_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/peridot/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.9.0.UNPEUXM_99b86b566c_14.0.zip
-  filename: fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.9.0.UNPEUXM_99b86b566c_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-06.02.2025/fw_peridot_eea_global_peridot_eea_global-ota_full-OS2.0.2.0.VNPEUXM-user-15.0-55a97f1f0f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/peridot/fw_peridot_eea_global_peridot_eea_global-ota_full-OS2.0.2.0.VNPEUXM-user-15.0-55a97f1f0f.zip
+  filename: fw_peridot_eea_global_peridot_eea_global-ota_full-OS2.0.2.0.VNPEUXM-user-15.0-55a97f1f0f.zip
   region: Europe
   versions:
-    android: '14.0'
-    miui: OS1.0.9.0.UNPEUXM
+    android: '15.0'
+    miui: OS2.0.2.0.VNPEUXM
 - branch: stable
   date: '2024-12-24'
   downloads:
@@ -5099,15 +5099,15 @@
     android: '15.0'
     miui: OS2.0.6.0.VNGMIXM
 - branch: stable
-  date: '2024-12-23'
+  date: '2025-02-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphiren/releases/download/stable-23.12.2024/fw_sapphiren_global_sapphiren_global-ota_full-OS2.0.6.0.VNHMIXM-user-15.0-f55cfcf226.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sapphiren/fw_sapphiren_global_sapphiren_global-ota_full-OS2.0.6.0.VNHMIXM-user-15.0-f55cfcf226.zip
-  filename: fw_sapphiren_global_sapphiren_global-ota_full-OS2.0.6.0.VNHMIXM-user-15.0-f55cfcf226.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphiren/releases/download/stable-06.02.2025/fw_sapphiren_global_sapphiren_global-ota_full-OS2.0.7.0.VNHMIXM-user-15.0-ac0a4e7772.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sapphiren/fw_sapphiren_global_sapphiren_global-ota_full-OS2.0.7.0.VNHMIXM-user-15.0-ac0a4e7772.zip
+  filename: fw_sapphiren_global_sapphiren_global-ota_full-OS2.0.7.0.VNHMIXM-user-15.0-ac0a4e7772.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.6.0.VNHMIXM
+    miui: OS2.0.7.0.VNHMIXM
 - branch: stable
   date: '2025-01-20'
   downloads:
@@ -5619,15 +5619,15 @@
     android: '15.0'
     miui: OS2.0.2.0.VMTINXM
 - branch: stable
-  date: '2025-01-07'
+  date: '2025-02-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-07.01.2025/fw_thor_miui_THOR_OS1.0.16.0.ULACNXM_2d1b0e6d67_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/thor/fw_thor_miui_THOR_OS1.0.16.0.ULACNXM_2d1b0e6d67_14.0.zip
-  filename: fw_thor_miui_THOR_OS1.0.16.0.ULACNXM_2d1b0e6d67_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-06.02.2025/fw_thor_thor-ota_full-OS2.0.1.0.VLACNXM-user-15.0-8ebdc506ad.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/thor/fw_thor_thor-ota_full-OS2.0.1.0.VLACNXM-user-15.0-8ebdc506ad.zip
+  filename: fw_thor_thor-ota_full-OS2.0.1.0.VLACNXM-user-15.0-8ebdc506ad.zip
   region: China
   versions:
-    android: '14.0'
-    miui: OS1.0.16.0.ULACNXM
+    android: '15.0'
+    miui: OS2.0.1.0.VLACNXM
 - branch: stable
   date: '2024-06-12'
   downloads:

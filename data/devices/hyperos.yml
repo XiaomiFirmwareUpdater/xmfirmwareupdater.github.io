@@ -6712,6 +6712,18 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNPMIXM/fw_peridot_miui_PERIDOTGlobal_OS1.0.4.0.UNPMIXM_a6bae69297_14.0.zip
   name: Redmi Turbo 3/POCO F6
   version: OS1.0.4.0.UNPMIXM
+- android: '15.0'
+  codename: peridot
+  date: '2025-02-06'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VNPEUXM/fw_peridot_eea_global_peridot_eea_global-ota_full-OS2.0.2.0.VNPEUXM-user-15.0-55a97f1f0f.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS2.0.2.0.VNPEUXM
+- android: '15.0'
+  codename: peridot
+  date: '2025-02-06'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VNPMIXM/fw_peridot_global_peridot_global-ota_full-OS2.0.2.0.VNPMIXM-user-15.0-e83a905f77.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS2.0.2.0.VNPMIXM
 - android: '14.0'
   codename: peridot
   date: '2024-12-05'
@@ -8530,6 +8542,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UNHMIXM/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.2.0.UNHMIXM_5c2104f430_14.0.zip
   name: Redmi Note 13 NFC
   version: OS1.0.2.0.UNHMIXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-02-06'
+  download: https://bigota.d.miui.com/OS2.0.7.0.VNHMIXM/fw_sapphiren_global_sapphiren_global-ota_full-OS2.0.7.0.VNHMIXM-user-15.0-ac0a4e7772.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.7.0.VNHMIXM
 - android: '14.0'
   codename: sapphiren
   date: '2024-09-02'
@@ -9880,6 +9898,12 @@
   download: https://bigota.d.miui.com/OS1.0.16.0.ULACNXM/fw_thor_miui_THOR_OS1.0.16.0.ULACNXM_2d1b0e6d67_14.0.zip
   name: Xiaomi 12S Ultra
   version: OS1.0.16.0.ULACNXM
+- android: '15.0'
+  codename: thor
+  date: '2025-02-06'
+  download: https://bigota.d.miui.com/OS2.0.1.0.VLACNXM/fw_thor_thor-ota_full-OS2.0.1.0.VLACNXM-user-15.0-8ebdc506ad.zip
+  name: Xiaomi 12S Ultra
+  version: OS2.0.1.0.VLACNXM
 - android: '14.0'
   codename: thor
   date: '2024-08-03'
