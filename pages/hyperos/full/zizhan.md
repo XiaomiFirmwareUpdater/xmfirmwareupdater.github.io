@@ -52,7 +52,8 @@ permalink: /archive/hyperos/zizhan/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.14.0.ULRCNXM</td><td>14.0</td><td>5.9 GB</td><td>2024-12-18</td><td><a href="/hyperos/zizhan/stable/OS1.0.14.0.ULRCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.15.0.ULRCNXM</td><td>14.0</td><td>5.9 GB</td><td>2025-01-21</td><td><a href="/hyperos/zizhan/stable beta/OS1.0.15.0.ULRCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.14.0.ULRCNXM</td><td>14.0</td><td>5.9 GB</td><td>2024-12-18</td><td><a href="/hyperos/zizhan/stable/OS1.0.14.0.ULRCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.14.0.ULRCNXM</td><td>14.0</td><td>7.6 GB</td><td>2024-12-10</td><td><a href="/hyperos/zizhan/stable/OS1.0.14.0.ULRCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.13.0.ULRCNXM</td><td>14.0</td><td>5.9 GB</td><td>2024-11-08</td><td><a href="/hyperos/zizhan/stable/OS1.0.13.0.ULRCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.13.0.ULRCNXM</td><td>14.0</td><td>7.6 GB</td><td>2024-10-31</td><td><a href="/hyperos/zizhan/stable/OS1.0.13.0.ULRCNXM/">Download</a></td></tr>

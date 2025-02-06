@@ -3159,15 +3159,15 @@
     android: '8.1'
     miui: 20.1.2
 - branch: stable
-  date: '2025-01-11'
+  date: '2025-02-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-11.01.2025/fw_malachite_miui_MALACHITEGlobal_OS1.0.7.0.UOOMIXM_153d627ceb_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/malachite/fw_malachite_miui_MALACHITEGlobal_OS1.0.7.0.UOOMIXM_153d627ceb_14.0.zip
-  filename: fw_malachite_miui_MALACHITEGlobal_OS1.0.7.0.UOOMIXM_153d627ceb_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-06.02.2025/fw_malachite_miui_MALACHITEGlobal_OS1.0.9.0.UOOMIXM_7ec9edf92e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/malachite/fw_malachite_miui_MALACHITEGlobal_OS1.0.9.0.UOOMIXM_7ec9edf92e_14.0.zip
+  filename: fw_malachite_miui_MALACHITEGlobal_OS1.0.9.0.UOOMIXM_7ec9edf92e_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.7.0.UOOMIXM
+    miui: OS1.0.9.0.UOOMIXM
 - branch: stable
   date: '2025-01-16'
   downloads:
@@ -4179,15 +4179,15 @@
     android: '10.0'
     miui: V12.5.1.0.QCMINXM
 - branch: stable
-  date: '2024-12-23'
+  date: '2025-02-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-23.12.2024/fw_pipa_miui_PIPAGlobal_OS1.0.15.0.UMZMIXM_d2ba6c0171_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pipa/fw_pipa_miui_PIPAGlobal_OS1.0.15.0.UMZMIXM_d2ba6c0171_14.0.zip
-  filename: fw_pipa_miui_PIPAGlobal_OS1.0.15.0.UMZMIXM_d2ba6c0171_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-06.02.2025/fw_pipa_miui_PIPAGlobal_OS1.0.16.0.UMZMIXM_3d3c4350ca_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pipa/fw_pipa_miui_PIPAGlobal_OS1.0.16.0.UMZMIXM_3d3c4350ca_14.0.zip
+  filename: fw_pipa_miui_PIPAGlobal_OS1.0.16.0.UMZMIXM_3d3c4350ca_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.15.0.UMZMIXM
+    miui: OS1.0.16.0.UMZMIXM
 - branch: stable
   date: '2025-01-10'
   downloads:
@@ -4199,15 +4199,15 @@
     android: '14.0'
     miui: OS1.0.14.0.UMZCNXM
 - branch: stable
-  date: '2024-12-23'
+  date: '2025-02-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-23.12.2024/fw_pipa_miui_PIPAEEAGlobal_OS1.0.13.0.UMZEUXM_879701ac46_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pipa/fw_pipa_miui_PIPAEEAGlobal_OS1.0.13.0.UMZEUXM_879701ac46_14.0.zip
-  filename: fw_pipa_miui_PIPAEEAGlobal_OS1.0.13.0.UMZEUXM_879701ac46_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-06.02.2025/fw_pipa_miui_PIPAEEAGlobal_OS1.0.14.0.UMZEUXM_e235a522b2_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pipa/fw_pipa_miui_PIPAEEAGlobal_OS1.0.14.0.UMZEUXM_e235a522b2_14.0.zip
+  filename: fw_pipa_miui_PIPAEEAGlobal_OS1.0.14.0.UMZEUXM_e235a522b2_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.13.0.UMZEUXM
+    miui: OS1.0.14.0.UMZEUXM
 - branch: stable
   date: '2025-01-21'
   downloads:
@@ -6659,15 +6659,15 @@
     android: '14.0'
     miui: OS1.0.12.0.ULLMIXM
 - branch: stable
-  date: '2024-12-30'
+  date: '2025-02-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-30.12.2024/fw_ziyi_miui_ZIYI_OS1.0.12.0.ULLCNXM_6469bf97b9_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ziyi/fw_ziyi_miui_ZIYI_OS1.0.12.0.ULLCNXM_6469bf97b9_14.0.zip
-  filename: fw_ziyi_miui_ZIYI_OS1.0.12.0.ULLCNXM_6469bf97b9_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-06.02.2025/fw_ziyi_miui_ZIYI_OS1.0.14.0.ULLCNXM_cd66e10f24_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ziyi/fw_ziyi_miui_ZIYI_OS1.0.14.0.ULLCNXM_cd66e10f24_14.0.zip
+  filename: fw_ziyi_miui_ZIYI_OS1.0.14.0.ULLCNXM_cd66e10f24_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.12.0.ULLCNXM
+    miui: OS1.0.14.0.ULLCNXM
 - branch: stable
   date: '2024-12-30'
   downloads:
@@ -6679,15 +6679,15 @@
     android: '14.0'
     miui: OS1.0.13.0.ULLEUXM
 - branch: stable
-  date: '2024-12-23'
+  date: '2025-02-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zizhan/releases/download/stable-23.12.2024/fw_zizhan_miui_ZIZHAN_OS1.0.14.0.ULRCNXM_67862173b3_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zizhan/fw_zizhan_miui_ZIZHAN_OS1.0.14.0.ULRCNXM_67862173b3_14.0.zip
-  filename: fw_zizhan_miui_ZIZHAN_OS1.0.14.0.ULRCNXM_67862173b3_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zizhan/releases/download/stable-06.02.2025/fw_zizhan_miui_ZIZHAN_OS1.0.15.0.ULRCNXM_868bd4a6f8_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zizhan/fw_zizhan_miui_ZIZHAN_OS1.0.15.0.ULRCNXM_868bd4a6f8_14.0.zip
+  filename: fw_zizhan_miui_ZIZHAN_OS1.0.15.0.ULRCNXM_868bd4a6f8_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.14.0.ULRCNXM
+    miui: OS1.0.15.0.ULRCNXM
 - branch: stable
   date: '2025-01-20'
   downloads:

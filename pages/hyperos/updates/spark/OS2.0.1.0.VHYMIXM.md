@@ -3,7 +3,7 @@ title: Redmi Pad SE 8.7 4G Global HyperOS OS2.0.1.0.VHYMIXM Update
 layout: download
 name: Redmi Pad SE 8.7 4G Global
 codename: spark
-permalink: /hyperos/spark/stable beta/OS2.0.1.0.VHYMIXM/
+permalink: /hyperos/spark/stable/OS2.0.1.0.VHYMIXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/spark/stable beta/OS2.0.1.0.VHYMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.1.0.VHYMIXM Stable Beta Official Update for Redmi Pad SE 8.7 4G Global (spark)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.1.0.VHYMIXM Stable Official Update for Redmi Pad SE 8.7 4G Global (spark)</h3>
     <h5>This page shows the OS2.0.1.0.VHYMIXM update only. If you're looking for other updates check
         <a href="/hyperos/spark/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/spark/stable beta/OS2.0.1.0.VHYMIXM/
                     <h5><b>Version: </b>OS2.0.1.0.VHYMIXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/spark/stable beta/OS2.0.1.0.VHYMIXM/
                             aria-expanded="false" aria-controls="spark_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="spark_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to January 2025. Increased system security.<br>[Alive Design Philosophy]<br>Alive Design Philosophy unveils fresh, vibrant design across the whole system, making every interaction feel smooth and alive.<br>All-new Gallery:<br>With AI and reorganized collections, Gallery makes your memories even more vivid.<br>All-new Weather<br>Real-time Weather Engine 2.0 shows you the sky and clouds just like in real life – even lets you see rainbows and the Milky Way.<br>All-new Calendar:<br>The new Desktop calendar adds a touch of ritual to your day.<br>All-new Clock:<br>Updated Clock uses a more refined display structure for a more elegant, easy-to-read look.<br>Updated animations:<br>A full-scale animation upgrade makes every interaction flow smoothly and feel stable, responsive, and comfortable.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi Pad SE 8.7 4G Global</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/spark/" target="_blank">spark</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.1.0.VHYMIXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>5.5 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-01-08</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">spark_global_images_OS2.0.1.0.VHYMIXM_20250108.0000.00_15.0_global_a0f98c9e87.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">a0f98c9e87d314afdf88c4d0e800ae8e</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.1.0.VHYMIXM/spark_global_images_OS2.0.1.0.VHYMIXM_20250108.0000.00_15.0_global_a0f98c9e87.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.1.0.VHYMIXM/spark_global_images_OS2.0.1.0.VHYMIXM_20250108.0000.00_15.0_global_a0f98c9e87.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.1.0.VHYMIXM/spark_global_images_OS2.0.1.0.VHYMIXM_20250108.0000.00_15.0_global_a0f98c9e87.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.1.0.VHYMIXM/spark_global_images_OS2.0.1.0.VHYMIXM_20250108.0000.00_15.0_global_a0f98c9e87.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.1.0.VHYMIXM/spark_global_images_OS2.0.1.0.VHYMIXM_20250108.0000.00_15.0_global_a0f98c9e87.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#spark_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="spark_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="spark_2_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to January 2025. Increased system security.<br>[Alive Design Philosophy]<br>Alive Design Philosophy unveils fresh, vibrant design across the whole system, making every interaction feel smooth and alive.<br>All-new Gallery:<br>With AI and reorganized collections, Gallery makes your memories even more vivid.<br>All-new Weather<br>Real-time Weather Engine 2.0 shows you the sky and clouds just like in real life – even lets you see rainbows and the Milky Way.<br>All-new Calendar:<br>The new Desktop calendar adds a touch of ritual to your day.<br>All-new Clock:<br>Updated Clock uses a more refined display structure for a more elegant, easy-to-read look.<br>Updated animations:<br>A full-scale animation upgrade makes every interaction flow smoothly and feel stable, responsive, and comfortable.</p>
                     </div>
                 </li>

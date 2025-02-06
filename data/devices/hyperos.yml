@@ -5016,6 +5016,12 @@
   version: OS1.0.2.0.UOOINXM
 - android: '14.0'
   codename: malachite
+  date: '2025-02-06'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UOOMIXM/fw_malachite_miui_MALACHITEGlobal_OS1.0.9.0.UOOMIXM_7ec9edf92e_14.0.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS1.0.9.0.UOOMIXM
+- android: '14.0'
+  codename: malachite
   date: '2024-10-03'
   download: https://bigota.d.miui.com/OS1.0.8.0.UOOCNXM/fw_malachite_miui_MALACHITE_OS1.0.8.0.UOOCNXM_b70842734a_14.0.zip
   name: Redmi Note 14 Pro 5G/POCO X7
@@ -6928,6 +6934,18 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UMZEUXM/fw_pipa_miui_PIPAEEAGlobal_OS1.0.7.0.UMZEUXM_51f6323c13_14.0.zip
   name: Xiaomi Pad 6
   version: OS1.0.7.0.UMZEUXM
+- android: '14.0'
+  codename: pipa
+  date: '2025-02-06'
+  download: https://bigota.d.miui.com/OS1.0.14.0.UMZEUXM/fw_pipa_miui_PIPAEEAGlobal_OS1.0.14.0.UMZEUXM_e235a522b2_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.14.0.UMZEUXM
+- android: '14.0'
+  codename: pipa
+  date: '2025-02-06'
+  download: https://bigota.d.miui.com/OS1.0.16.0.UMZMIXM/fw_pipa_miui_PIPAGlobal_OS1.0.16.0.UMZMIXM_3d3c4350ca_14.0.zip
+  name: Xiaomi Pad 6
+  version: OS1.0.16.0.UMZMIXM
 - android: '14.0'
   codename: pipa
   date: '2024-06-04'
@@ -11898,6 +11916,12 @@
   version: OS1.0.7.0.ULLMIXM
 - android: '14.0'
   codename: ziyi
+  date: '2025-02-06'
+  download: https://bigota.d.miui.com/OS1.0.14.0.ULLCNXM/fw_ziyi_miui_ZIYI_OS1.0.14.0.ULLCNXM_cd66e10f24_14.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS1.0.14.0.ULLCNXM
+- android: '14.0'
+  codename: ziyi
   date: '2024-09-03'
   download: https://bigota.d.miui.com/OS1.0.7.0.ULLEUXM/fw_ziyi_miui_ZIYIEEAGlobal_OS1.0.7.0.ULLEUXM_2694385f89_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
@@ -11968,6 +11992,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.ULRCNXM/fw_zizhan_miui_ZIZHAN_OS1.0.5.0.ULRCNXM_fd3cf395bc_14.0.zip
   name: Xiaomi MIX Fold 2
   version: OS1.0.5.0.ULRCNXM
+- android: '14.0'
+  codename: zizhan
+  date: '2025-02-06'
+  download: https://bigota.d.miui.com/OS1.0.15.0.ULRCNXM/fw_zizhan_miui_ZIZHAN_OS1.0.15.0.ULRCNXM_868bd4a6f8_14.0.zip
+  name: Xiaomi MIX Fold 2
+  version: OS1.0.15.0.ULRCNXM
 - android: '15.0'
   codename: zorn
   date: '2024-11-28'
