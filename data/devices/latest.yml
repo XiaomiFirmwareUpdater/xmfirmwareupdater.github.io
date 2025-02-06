@@ -4019,15 +4019,15 @@
     android: '15.0'
     miui: OS2.0.2.0.VNPMIXM
 - branch: stable
-  date: '2025-01-16'
+  date: '2025-02-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-16.01.2025/fw_peridot_peridot-ota_full-OS2.0.6.0.VNPCNXM-user-15.0-43a8eb035b.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/peridot/fw_peridot_peridot-ota_full-OS2.0.6.0.VNPCNXM-user-15.0-43a8eb035b.zip
-  filename: fw_peridot_peridot-ota_full-OS2.0.6.0.VNPCNXM-user-15.0-43a8eb035b.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-06.02.2025/fw_peridot_peridot-ota_full-OS2.0.101.0.VNPCNXM-user-15.0-fb3912f0c3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/peridot/fw_peridot_peridot-ota_full-OS2.0.101.0.VNPCNXM-user-15.0-fb3912f0c3.zip
+  filename: fw_peridot_peridot-ota_full-OS2.0.101.0.VNPCNXM-user-15.0-fb3912f0c3.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.6.0.VNPCNXM
+    miui: OS2.0.101.0.VNPCNXM
 - branch: stable
   date: '2025-02-06'
   downloads:
