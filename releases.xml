@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 07 Feb 2025 13:26:22 </lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 19:23:14 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>MIX Fold 3 (babylon) - OS2.0.101.0.VMVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
+            <pubDate>Fri, 07 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.9.0.VOJMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
+            <pubDate>Fri, 07 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.101.0.VOJCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
             <pubDate>Fri, 07 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -762,11 +772,6 @@
             <pubDate>Thu, 09 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.8.0.VOJMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
-            <pubDate>Thu, 09 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.10.0.VOJEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
             <pubDate>Thu, 09 Jan 2025 00:00:00 </pubDate>
@@ -919,11 +924,6 @@
         <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS1.0.14.0.UNQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gold/</link>
-            <pubDate>Thu, 02 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.5.0.VOJCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
             <pubDate>Thu, 02 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
