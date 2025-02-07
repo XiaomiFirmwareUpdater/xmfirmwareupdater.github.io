@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 07 Feb 2025 01:02:57 </lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 07:12:27 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.14.0.VNNEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
+            <pubDate>Fri, 07 Feb 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS1.0.9.0.UOOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
@@ -944,11 +949,6 @@
         <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.14.0.UMRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.12.0.VNNEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
             <pubDate>Tue, 31 Dec 2024 00:00:00 </pubDate>
         </item>
         <item>
