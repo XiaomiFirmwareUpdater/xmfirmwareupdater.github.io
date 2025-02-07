@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 07 Feb 2025 07:12:27 </lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 13:26:22 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>MIX Fold 3 (babylon) - OS2.0.101.0.VMVCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
+            <pubDate>Fri, 07 Feb 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.14.0.VNNEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
+            <pubDate>Fri, 07 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K60 Pro (socrates) - OS2.0.102.0.VMKCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/socrates/</link>
             <pubDate>Fri, 07 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -817,11 +827,6 @@
             <pubDate>Mon, 06 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>MIX Fold 3 (babylon) - OS2.0.5.0.VMVCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
-            <pubDate>Mon, 06 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12 Pro Dimensity (daumier) - OS1.0.14.0.ULGCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/daumier/</link>
             <pubDate>Mon, 06 Jan 2025 00:00:00 </pubDate>
@@ -919,11 +924,6 @@
         <item>
             <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.5.0.VOJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
-            <pubDate>Thu, 02 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60 Pro (socrates) - OS2.0.3.0.VMKCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/socrates/</link>
             <pubDate>Thu, 02 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>

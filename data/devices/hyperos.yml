@@ -738,6 +738,12 @@
   version: OS1.0.9.0.UMVCNXM
 - android: '15.0'
   codename: babylon
+  date: '2025-02-07'
+  download: https://bigota.d.miui.com/OS2.0.101.0.VMVCNXM/fw_babylon_babylon-ota_full-OS2.0.101.0.VMVCNXM-user-15.0-494e2e378c.zip
+  name: MIX Fold 3
+  version: OS2.0.101.0.VMVCNXM
+- android: '15.0'
+  codename: babylon
   date: '2025-01-06'
   download: https://bigota.d.miui.com/OS2.0.5.0.VMVCNXM/fw_babylon_babylon-ota_full-OS2.0.5.0.VMVCNXM-user-15.0-0d07e7b433.zip
   name: MIX Fold 3
@@ -9214,6 +9220,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMKCNXM/fw_socrates_miui_SOCRATES_OS1.0.4.0.UMKCNXM_57d472fecf_14.0.zip
   name: Redmi K60 Pro
   version: OS1.0.4.0.UMKCNXM
+- android: '15.0'
+  codename: socrates
+  date: '2025-02-07'
+  download: https://bigota.d.miui.com/OS2.0.102.0.VMKCNXM/fw_socrates_socrates-ota_full-OS2.0.102.0.VMKCNXM-user-15.0-6a57ce40f7.zip
+  name: Redmi K60 Pro
+  version: OS2.0.102.0.VMKCNXM
 - android: '14.0'
   codename: socrates
   date: '2024-06-03'

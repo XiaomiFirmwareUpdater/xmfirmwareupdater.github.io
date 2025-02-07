@@ -409,15 +409,15 @@
     android: '15.0'
     miui: OS2.0.4.0.VNAINXM
 - branch: stable
-  date: '2025-01-06'
+  date: '2025-02-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_babylon/releases/download/stable-06.01.2025/fw_babylon_babylon-ota_full-OS2.0.5.0.VMVCNXM-user-15.0-0d07e7b433.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/babylon/fw_babylon_babylon-ota_full-OS2.0.5.0.VMVCNXM-user-15.0-0d07e7b433.zip
-  filename: fw_babylon_babylon-ota_full-OS2.0.5.0.VMVCNXM-user-15.0-0d07e7b433.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_babylon/releases/download/stable-07.02.2025/fw_babylon_babylon-ota_full-OS2.0.101.0.VMVCNXM-user-15.0-494e2e378c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/babylon/fw_babylon_babylon-ota_full-OS2.0.101.0.VMVCNXM-user-15.0-494e2e378c.zip
+  filename: fw_babylon_babylon-ota_full-OS2.0.101.0.VMVCNXM-user-15.0-494e2e378c.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.5.0.VMVCNXM
+    miui: OS2.0.101.0.VMVCNXM
 - branch: stable
   date: '2022-06-19'
   downloads:
@@ -5329,15 +5329,15 @@
     android: '15.0'
     miui: OS2.0.3.0.VMWINXM
 - branch: stable
-  date: '2025-01-02'
+  date: '2025-02-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_socrates/releases/download/stable-02.01.2025/fw_socrates_socrates-ota_full-OS2.0.3.0.VMKCNXM-user-15.0-4b2a0681aa.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/socrates/fw_socrates_socrates-ota_full-OS2.0.3.0.VMKCNXM-user-15.0-4b2a0681aa.zip
-  filename: fw_socrates_socrates-ota_full-OS2.0.3.0.VMKCNXM-user-15.0-4b2a0681aa.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_socrates/releases/download/stable-07.02.2025/fw_socrates_socrates-ota_full-OS2.0.102.0.VMKCNXM-user-15.0-6a57ce40f7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/socrates/fw_socrates_socrates-ota_full-OS2.0.102.0.VMKCNXM-user-15.0-6a57ce40f7.zip
+  filename: fw_socrates_socrates-ota_full-OS2.0.102.0.VMKCNXM-user-15.0-6a57ce40f7.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.3.0.VMKCNXM
+    miui: OS2.0.102.0.VMKCNXM
 - branch: stable
   date: '2025-01-20'
   downloads:
