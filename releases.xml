@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 08 Feb 2025 01:02:02 </lastBuildDate>
+        <lastBuildDate>Sat, 08 Feb 2025 07:23:02 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.102.0.VMLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/corot/</link>
+            <pubDate>Sat, 08 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 3 (yuechu) - OS1.0.17.0.UMICNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/yuechu/</link>
+            <pubDate>Sat, 08 Feb 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>MIX Fold 3 (babylon) - OS2.0.101.0.VMVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
@@ -517,11 +527,6 @@
             <pubDate>Fri, 17 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Civi 3 (yuechu) - OS1.0.16.0.UMICNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/yuechu/</link>
-            <pubDate>Fri, 17 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.4.0.VNOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Fri, 17 Jan 2025 00:00:00 </pubDate>
@@ -890,11 +895,6 @@
             <title>Redmi 13/POCO M6 (moon) - OS2.0.3.0.VNTMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moon/</link>
             <pubDate>Sun, 05 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.4.0.VMLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Fri, 03 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.14.0.UMNMIXM</title>

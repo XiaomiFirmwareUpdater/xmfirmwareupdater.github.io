@@ -1126,6 +1126,12 @@
   download: https://bigota.d.miui.com/OS1.0.17.0.UMLCNXM/fw_corot_miui_COROT_OS1.0.17.0.UMLCNXM_df5b9ad2c6_14.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
   version: OS1.0.17.0.UMLCNXM
+- android: '15.0'
+  codename: corot
+  date: '2025-02-08'
+  download: https://bigota.d.miui.com/OS2.0.102.0.VMLCNXM/fw_corot_corot-ota_full-OS2.0.102.0.VMLCNXM-user-15.0-e53413e586.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS2.0.102.0.VMLCNXM
 - android: '14.0'
   codename: corot
   date: '2024-04-07'
@@ -11224,6 +11230,12 @@
   download: https://bigota.d.miui.com/OS1.0.14.0.UMICNXM/fw_yuechu_miui_YUECHU_OS1.0.14.0.UMICNXM_efd9540957_14.0.zip
   name: Xiaomi Civi 3
   version: OS1.0.14.0.UMICNXM
+- android: '14.0'
+  codename: yuechu
+  date: '2025-02-08'
+  download: https://bigota.d.miui.com/OS1.0.17.0.UMICNXM/fw_yuechu_miui_YUECHU_OS1.0.17.0.UMICNXM_b61dd21d41_14.0.zip
+  name: Xiaomi Civi 3
+  version: OS1.0.17.0.UMICNXM
 - android: '14.0'
   codename: yuechu
   date: '2024-04-07'

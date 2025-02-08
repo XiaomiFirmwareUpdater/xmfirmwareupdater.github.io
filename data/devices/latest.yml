@@ -1109,15 +1109,15 @@
     android: '15.0'
     miui: OS2.0.6.0.VMLMIXM
 - branch: stable
-  date: '2025-01-03'
+  date: '2025-02-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-03.01.2025/fw_corot_corot-ota_full-OS2.0.4.0.VMLCNXM-user-15.0-61baeb7ff8.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/corot/fw_corot_corot-ota_full-OS2.0.4.0.VMLCNXM-user-15.0-61baeb7ff8.zip
-  filename: fw_corot_corot-ota_full-OS2.0.4.0.VMLCNXM-user-15.0-61baeb7ff8.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-08.02.2025/fw_corot_corot-ota_full-OS2.0.102.0.VMLCNXM-user-15.0-e53413e586.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/corot/fw_corot_corot-ota_full-OS2.0.102.0.VMLCNXM-user-15.0-e53413e586.zip
+  filename: fw_corot_corot-ota_full-OS2.0.102.0.VMLCNXM-user-15.0-e53413e586.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.4.0.VMLCNXM
+    miui: OS2.0.102.0.VMLCNXM
 - branch: stable
   date: '2025-01-17'
   downloads:
@@ -6509,15 +6509,15 @@
     android: '15.0'
     miui: OS2.0.4.0.VMHCNXM
 - branch: stable
-  date: '2025-01-17'
+  date: '2025-02-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yuechu/releases/download/stable-17.01.2025/fw_yuechu_miui_YUECHU_OS1.0.16.0.UMICNXM_0ccb9bcde3_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yuechu/fw_yuechu_miui_YUECHU_OS1.0.16.0.UMICNXM_0ccb9bcde3_14.0.zip
-  filename: fw_yuechu_miui_YUECHU_OS1.0.16.0.UMICNXM_0ccb9bcde3_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yuechu/releases/download/stable-08.02.2025/fw_yuechu_miui_YUECHU_OS1.0.17.0.UMICNXM_b61dd21d41_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yuechu/fw_yuechu_miui_YUECHU_OS1.0.17.0.UMICNXM_b61dd21d41_14.0.zip
+  filename: fw_yuechu_miui_YUECHU_OS1.0.17.0.UMICNXM_b61dd21d41_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.16.0.UMICNXM
+    miui: OS1.0.17.0.UMICNXM
 - branch: stable
   date: '2024-12-23'
   downloads:
