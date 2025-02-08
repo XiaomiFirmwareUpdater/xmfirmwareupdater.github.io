@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 08 Feb 2025 07:23:02 </lastBuildDate>
+        <lastBuildDate>Sat, 08 Feb 2025 13:13:03 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.102.0.VMLCNXM</title>
@@ -14,6 +14,11 @@
         <item>
             <title>Xiaomi Civi 3 (yuechu) - OS1.0.17.0.UMICNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/yuechu/</link>
+            <pubDate>Sat, 08 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - OS2.0.1.0.VLBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Sat, 08 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -949,11 +954,6 @@
         <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.14.0.UMRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Pro (zeus) - OS1.0.12.0.ULBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Tue, 31 Dec 2024 00:00:00 </pubDate>
         </item>
         <item>
