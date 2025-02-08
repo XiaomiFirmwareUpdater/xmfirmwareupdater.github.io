@@ -52,7 +52,8 @@ permalink: /archive/hyperos/malachite/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 14 Pro 5G / POCO X7 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.8.0.UOOIDXM</td><td>14.0</td><td>5.6 GB</td><td>2025-02-06</td><td><a href="/hyperos/malachite/stable beta/OS1.0.8.0.UOOIDXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 14 Pro 5G / POCO X7 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.UOOTWXM</td><td>14.0</td><td>5.5 GB</td><td>2025-02-08</td><td><a href="/hyperos/malachite/stable beta/OS1.0.5.0.UOOTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro 5G / POCO X7 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.8.0.UOOIDXM</td><td>14.0</td><td>5.6 GB</td><td>2025-02-06</td><td><a href="/hyperos/malachite/stable beta/OS1.0.8.0.UOOIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UOOIDXM</td><td>14.0</td><td>5.6 GB</td><td>2025-02-04</td><td><a href="/hyperos/malachite/stable/OS1.0.7.0.UOOIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UOOIDXM</td><td>14.0</td><td>8.2 GB</td><td>2025-01-14</td><td><a href="/hyperos/malachite/stable/OS1.0.7.0.UOOIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.9.0.UOOMIXM</td><td>14.0</td><td>5.7 GB</td><td>2025-01-23</td><td><a href="/hyperos/malachite/stable beta/OS1.0.9.0.UOOMIXM/">Download</a></td></tr>
