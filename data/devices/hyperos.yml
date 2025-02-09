@@ -2652,6 +2652,12 @@
   version: OS1.0.9.0.UGUCNXM
 - android: '14.0'
   codename: flame
+  date: '2025-02-09'
+  download: https://bigota.d.miui.com/OS1.0.14.0.UGUCNXM/fw_flame_miui_FLAME_OS1.0.14.0.UGUCNXM_21f0e30bb9_14.0.zip
+  name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
+  version: OS1.0.14.0.UGUCNXM
+- android: '14.0'
+  codename: flame
   date: '2024-11-07'
   download: https://bigota.d.miui.com/OS1.0.11.0.UGUCNXM/fw_flame_miui_FLAME_OS1.0.11.0.UGUCNXM_f998e608d6_14.0.zip
   name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
