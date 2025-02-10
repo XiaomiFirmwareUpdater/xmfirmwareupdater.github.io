@@ -63,9 +63,8 @@ permalink: /hyperos/agate/
 <tr><td>Xiaomi 11T Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UKWRUXM</td><td>14.0</td><td>4.9 GB</td><td>2025-01-21</td><td><a href="/hyperos/agate/stable/OS1.0.9.0.UKWRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UKWTRXM</td><td>14.0</td><td>6.1 GB</td><td>2025-01-15</td><td><a href="/hyperos/agate/stable/OS1.0.8.0.UKWTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UKWTRXM</td><td>14.0</td><td>4.9 GB</td><td>2025-01-22</td><td><a href="/hyperos/agate/stable/OS1.0.8.0.UKWTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11T Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UKWTWXM</td><td>14.0</td><td>5.7 GB</td><td>2024-12-19</td><td><a href="/hyperos/agate/stable/OS1.0.7.0.UKWTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11T Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UKWTWXM</td><td>14.0</td><td>4.7 GB</td><td>2024-12-31</td><td><a href="/hyperos/agate/stable/OS1.0.7.0.UKWTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11T Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.8.0.UKWTWXM</td><td>14.0</td><td>4.7 GB</td><td>2025-01-26</td><td><a href="/hyperos/agate/stable beta/OS1.0.8.0.UKWTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UKWTWXM</td><td>14.0</td><td>5.7 GB</td><td>2025-01-15</td><td><a href="/hyperos/agate/stable/OS1.0.8.0.UKWTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UKWTWXM</td><td>14.0</td><td>4.7 GB</td><td>2025-01-26</td><td><a href="/hyperos/agate/stable/OS1.0.8.0.UKWTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

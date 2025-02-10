@@ -52,7 +52,8 @@ permalink: /archive/hyperos/ruan/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad Pro 5G / POCO Pad 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.VFSMIXM</td><td>15.0</td><td>4.7 GB</td><td>2025-01-17</td><td><a href="/hyperos/ruan/stable beta/OS2.0.1.0.VFSMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad Pro 5G / POCO Pad 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VFSMIXM</td><td>15.0</td><td>4.7 GB</td><td>2025-01-17</td><td><a href="/hyperos/ruan/stable/OS2.0.1.0.VFSMIXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro 5G / POCO Pad 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.VFSMIXM</td><td>15.0</td><td>5.8 GB</td><td>2025-01-08</td><td><a href="/hyperos/ruan/stable/OS2.0.1.0.VFSMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G / POCO Pad 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.VFSINXM</td><td>15.0</td><td>4.5 GB</td><td>2025-01-17</td><td><a href="/hyperos/ruan/stable beta/OS2.0.1.0.VFSINXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G China</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VFSCNXM</td><td>15.0</td><td>5.2 GB</td><td>2025-01-13</td><td><a href="/hyperos/ruan/stable/OS2.0.2.0.VFSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VFSCNXM</td><td>15.0</td><td>6.4 GB</td><td>2025-01-02</td><td><a href="/hyperos/ruan/stable/OS2.0.2.0.VFSCNXM/">Download</a></td></tr>

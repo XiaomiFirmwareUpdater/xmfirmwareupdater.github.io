@@ -19,15 +19,15 @@
     android: '14.0'
     miui: OS1.0.10.0.UKWEUXM
 - branch: stable
-  date: '2024-12-14'
+  date: '2025-02-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-14.12.2024/fw_air_miui_AIRGlobal_OS1.0.4.0.UGQMIXM_1883599413_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/air/fw_air_miui_AIRGlobal_OS1.0.4.0.UGQMIXM_1883599413_14.0.zip
-  filename: fw_air_miui_AIRGlobal_OS1.0.4.0.UGQMIXM_1883599413_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-10.02.2025/fw_air_global_air_global-ota_full-OS2.0.1.0.VGQMIXM-user-15.0-33214877f3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/air/fw_air_global_air_global-ota_full-OS2.0.1.0.VGQMIXM-user-15.0-33214877f3.zip
+  filename: fw_air_global_air_global-ota_full-OS2.0.1.0.VGQMIXM-user-15.0-33214877f3.zip
   region: Global
   versions:
-    android: '14.0'
-    miui: OS1.0.4.0.UGQMIXM
+    android: '15.0'
+    miui: OS2.0.1.0.VGQMIXM
 - branch: stable
   date: '2025-01-17'
   downloads:
@@ -109,15 +109,15 @@
     android: '13.0'
     miui: OS1.0.2.0.TKHINXM
 - branch: stable
-  date: '2024-12-24'
+  date: '2025-02-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-24.12.2024/fw_amethyst_miui_AMETHYSTGlobal_OS1.0.5.0.UOPMIXM_74ee10dc55_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/amethyst/fw_amethyst_miui_AMETHYSTGlobal_OS1.0.5.0.UOPMIXM_74ee10dc55_14.0.zip
-  filename: fw_amethyst_miui_AMETHYSTGlobal_OS1.0.5.0.UOPMIXM_74ee10dc55_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-10.02.2025/fw_amethyst_miui_AMETHYSTGlobal_OS1.0.6.0.UOPMIXM_b72e6ecc42_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/amethyst/fw_amethyst_miui_AMETHYSTGlobal_OS1.0.6.0.UOPMIXM_b72e6ecc42_14.0.zip
+  filename: fw_amethyst_miui_AMETHYSTGlobal_OS1.0.6.0.UOPMIXM_b72e6ecc42_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.5.0.UOPMIXM
+    miui: OS1.0.6.0.UOPMIXM
 - branch: stable
   date: '2024-12-16'
   downloads:
@@ -1759,15 +1759,15 @@
     android: '15.0'
     miui: OS2.0.3.0.VMXEUXM
 - branch: stable
-  date: '2025-01-10'
+  date: '2025-02-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-11.01.2025/fw_fire_miui_FIREINGlobal_OS1.0.8.0.UMXINXM_8ad4a2d8ca_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/fire/fw_fire_miui_FIREINGlobal_OS1.0.8.0.UMXINXM_8ad4a2d8ca_14.0.zip
-  filename: fw_fire_miui_FIREINGlobal_OS1.0.8.0.UMXINXM_8ad4a2d8ca_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-10.02.2025/fw_fire_in_global_fire_in_global-ota_full-OS2.0.2.0.VMXINXM-user-15.0-4a912b222a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/fire/fw_fire_in_global_fire_in_global-ota_full-OS2.0.2.0.VMXINXM-user-15.0-4a912b222a.zip
+  filename: fw_fire_in_global_fire_in_global-ota_full-OS2.0.2.0.VMXINXM-user-15.0-4a912b222a.zip
   region: India
   versions:
-    android: '14.0'
-    miui: OS1.0.8.0.UMXINXM
+    android: '15.0'
+    miui: OS2.0.2.0.VMXINXM
 - branch: stable
   date: '2025-02-09'
   downloads:
@@ -2149,15 +2149,15 @@
     android: '14.0'
     miui: OS1.0.15.0.UNQMIXM
 - branch: stable
-  date: '2025-01-02'
+  date: '2025-02-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-02.01.2025/fw_gold_miui_GOLD_OS1.0.9.0.UNQCNXM_4ddefa4dba_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/gold/fw_gold_miui_GOLD_OS1.0.9.0.UNQCNXM_4ddefa4dba_14.0.zip
-  filename: fw_gold_miui_GOLD_OS1.0.9.0.UNQCNXM_4ddefa4dba_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-10.02.2025/fw_gold_miui_GOLD_OS1.0.11.0.UNQCNXM_3ef440e9de_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/gold/fw_gold_miui_GOLD_OS1.0.11.0.UNQCNXM_3ef440e9de_14.0.zip
+  filename: fw_gold_miui_GOLD_OS1.0.11.0.UNQCNXM_3ef440e9de_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.9.0.UNQCNXM
+    miui: OS1.0.11.0.UNQCNXM
 - branch: stable
   date: '2025-01-02'
   downloads:
@@ -2689,15 +2689,15 @@
     android: '14.0'
     miui: OS1.0.11.0.UGTMIXM
 - branch: stable
-  date: '2024-12-19'
+  date: '2025-02-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-19.12.2024/fw_lake_miui_LAKEEEAGlobal_OS1.0.6.0.UGTEUXM_fada46d343_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/lake/fw_lake_miui_LAKEEEAGlobal_OS1.0.6.0.UGTEUXM_fada46d343_14.0.zip
-  filename: fw_lake_miui_LAKEEEAGlobal_OS1.0.6.0.UGTEUXM_fada46d343_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-10.02.2025/fw_lake_miui_LAKEEEAGlobal_OS1.0.7.0.UGTEUXM_1158150761_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/lake/fw_lake_miui_LAKEEEAGlobal_OS1.0.7.0.UGTEUXM_1158150761_14.0.zip
+  filename: fw_lake_miui_LAKEEEAGlobal_OS1.0.7.0.UGTEUXM_1158150761_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.UGTEUXM
+    miui: OS1.0.7.0.UGTEUXM
 - branch: stable
   date: '2023-02-03'
   downloads:
