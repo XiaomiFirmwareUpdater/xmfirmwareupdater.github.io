@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 10 Feb 2025 13:36:12 </lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 19:13:23 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.1.0.VGQMIXM</title>
@@ -43,6 +43,11 @@
         </item>
         <item>
             <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS1.0.8.0.UOOEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
+            <pubDate>Mon, 10 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS1.0.4.0.UOOINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
             <pubDate>Mon, 10 Feb 2025 00:00:00 </pubDate>
         </item>
@@ -279,11 +284,6 @@
         <item>
             <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - OS1.0.11.0.UKKINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/haydn/</link>
-            <pubDate>Thu, 23 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS1.0.3.0.UOOINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
             <pubDate>Thu, 23 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
