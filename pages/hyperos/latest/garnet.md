@@ -68,9 +68,8 @@ permalink: /hyperos/garnet/
 <tr><td>Redmi Note 13 Pro 5G / POCO X6 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.12.0.UNRTRXM</td><td>14.0</td><td>7.1 GB</td><td>2024-12-23</td><td><a href="/hyperos/garnet/stable/OS1.0.12.0.UNRTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 5G / POCO X6 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.12.0.UNRTRXM</td><td>14.0</td><td>5.0 GB</td><td>2025-01-07</td><td><a href="/hyperos/garnet/stable/OS1.0.12.0.UNRTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 5G / POCO X6 5G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.3.0.VNRTRXM</td><td>15.0</td><td>5.3 GB</td><td>2025-01-21</td><td><a href="/hyperos/garnet/stable beta/OS2.0.3.0.VNRTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 5G / POCO X6 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UNRTWXM</td><td>14.0</td><td>6.8 GB</td><td>2024-12-23</td><td><a href="/hyperos/garnet/stable/OS1.0.11.0.UNRTWXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 5G / POCO X6 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UNRTWXM</td><td>14.0</td><td>4.9 GB</td><td>2025-01-07</td><td><a href="/hyperos/garnet/stable/OS1.0.11.0.UNRTWXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 5G / POCO X6 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.3.0.VNRTWXM</td><td>15.0</td><td>5.2 GB</td><td>2025-01-21</td><td><a href="/hyperos/garnet/stable beta/OS2.0.3.0.VNRTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 5G / POCO X6 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.VNRTWXM</td><td>15.0</td><td>7.1 GB</td><td>2025-01-14</td><td><a href="/hyperos/garnet/stable/OS2.0.3.0.VNRTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 5G / POCO X6 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VNRTWXM</td><td>15.0</td><td>5.2 GB</td><td>2025-01-21</td><td><a href="/hyperos/garnet/stable/OS2.0.3.0.VNRTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 10 Feb 2025 07:42:15 </lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 13:36:12 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.1.0.VGQMIXM</title>
@@ -17,8 +17,18 @@
             <pubDate>Mon, 10 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 12 (cupid) - OS2.0.2.0.VLCCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/cupid/</link>
+            <pubDate>Mon, 10 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi 12 (fire) - OS2.0.2.0.VMXINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fire/</link>
+            <pubDate>Mon, 10 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE 8.7 5G (flare) - OS2.0.1.0.VHXMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
             <pubDate>Mon, 10 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -29,6 +39,16 @@
         <item>
             <title>Redmi 14C/POCO C75/Redmi A3 Pro (lake) - OS1.0.7.0.UGTEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lake/</link>
+            <pubDate>Mon, 10 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS1.0.8.0.UOOEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
+            <pubDate>Mon, 10 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad (yunluo) - OS1.0.7.0.ULYINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/yunluo/</link>
             <pubDate>Mon, 10 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -502,11 +522,6 @@
             <pubDate>Fri, 17 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS1.0.6.0.UOOEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
-            <pubDate>Fri, 17 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>POCO X5 5G (moonstone) - OS1.0.13.0.UMPMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moonstone/</link>
             <pubDate>Fri, 17 Jan 2025 00:00:00 </pubDate>
@@ -664,11 +679,6 @@
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS1.0.14.0.ULFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/diting/</link>
-            <pubDate>Mon, 13 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad SE 8.7 5G (flare) - OS1.0.8.0.UHXMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
             <pubDate>Mon, 13 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -835,11 +845,6 @@
             <title>Xiaomi 12 Pro (zeus) - OS1.0.17.0.ULBEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Wed, 08 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 (cupid) - OS1.0.12.0.ULCCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/cupid/</link>
-            <pubDate>Tue, 07 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS1.0.2.0.UGUINXM</title>
@@ -1278,11 +1283,6 @@
         </item>
         <item>
             <title>Redmi Pad (yunluo) - OS1.0.8.0.ULYCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/yunluo/</link>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad (yunluo) - OS1.0.6.0.ULYINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/yunluo/</link>
             <pubDate>Mon, 18 Nov 2024 00:00:00 </pubDate>
         </item>
