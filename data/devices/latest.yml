@@ -3739,15 +3739,15 @@
     android: '15.0'
     miui: OS2.0.100.0.VMBCNXM
 - branch: stable
-  date: '2025-01-06'
+  date: '2025-02-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-06.01.2025/fw_nuwa_eea_global_nuwa_eea_global-ota_full-OS2.0.1.0.VMBEUXM-user-15.0-bd9b0a2984.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/nuwa/fw_nuwa_eea_global_nuwa_eea_global-ota_full-OS2.0.1.0.VMBEUXM-user-15.0-bd9b0a2984.zip
-  filename: fw_nuwa_eea_global_nuwa_eea_global-ota_full-OS2.0.1.0.VMBEUXM-user-15.0-bd9b0a2984.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-11.02.2025/fw_nuwa_eea_global_nuwa_eea_global-ota_full-OS2.0.2.0.VMBEUXM-user-15.0-11fea07fbb.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/nuwa/fw_nuwa_eea_global_nuwa_eea_global-ota_full-OS2.0.2.0.VMBEUXM-user-15.0-11fea07fbb.zip
+  filename: fw_nuwa_eea_global_nuwa_eea_global-ota_full-OS2.0.2.0.VMBEUXM-user-15.0-11fea07fbb.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.1.0.VMBEUXM
+    miui: OS2.0.2.0.VMBEUXM
 - branch: stable
   date: '2025-01-17'
   downloads:
@@ -4699,15 +4699,15 @@
     android: '15.0'
     miui: OS2.0.101.0.VOJCNXM
 - branch: stable
-  date: '2025-01-09'
+  date: '2025-02-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-09.01.2025/fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.10.0.VOJEUXM-user-15.0-f9989105e6.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rodin/fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.10.0.VOJEUXM-user-15.0-f9989105e6.zip
-  filename: fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.10.0.VOJEUXM-user-15.0-f9989105e6.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-11.02.2025/fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.11.0.VOJEUXM-user-15.0-0155f4105f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rodin/fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.11.0.VOJEUXM-user-15.0-0155f4105f.zip
+  filename: fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.11.0.VOJEUXM-user-15.0-0155f4105f.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.10.0.VOJEUXM
+    miui: OS2.0.11.0.VOJEUXM
 - branch: stable
   date: '2025-01-14'
   downloads:

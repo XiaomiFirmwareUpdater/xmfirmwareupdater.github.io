@@ -6442,6 +6442,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMBCNXM/fw_nuwa_miui_NUWA_OS1.0.4.0.UMBCNXM_903b6aa354_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.4.0.UMBCNXM
+- android: '15.0'
+  codename: nuwa
+  date: '2025-02-11'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VMBEUXM/fw_nuwa_eea_global_nuwa_eea_global-ota_full-OS2.0.2.0.VMBEUXM-user-15.0-11fea07fbb.zip
+  name: Xiaomi 13 Pro
+  version: OS2.0.2.0.VMBEUXM
 - android: '14.0'
   codename: nuwa
   date: '2024-11-07'
@@ -7774,6 +7780,12 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VOJINXM/fw_rodin_in_global_rodin_in_global-ota_full-OS2.0.2.0.VOJINXM-user-15.0-60249425a2.zip
   name: Redmi Turbo 4/POCO X7 Pro
   version: OS2.0.2.0.VOJINXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-02-11'
+  download: https://bigota.d.miui.com/OS2.0.11.0.VOJEUXM/fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.11.0.VOJEUXM-user-15.0-0155f4105f.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.11.0.VOJEUXM
 - android: '15.0'
   codename: rodin
   date: '2025-01-09'
