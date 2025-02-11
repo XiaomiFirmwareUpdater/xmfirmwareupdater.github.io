@@ -1558,6 +1558,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNEEUXM/fw_degas_miui_DEGASEEAGlobal_OS1.0.4.0.UNEEUXM_de3482d8d7_14.0.zip
   name: Xiaomi 14T
   version: OS1.0.4.0.UNEEUXM
+- android: '15.0'
+  codename: degas
+  date: '2025-02-11'
+  download: https://bigota.d.miui.com/OS2.0.5.0.VNEEUXM/fw_degas_eea_global_degas_eea_global-ota_full-OS2.0.5.0.VNEEUXM-user-15.0-4b8cfd7cc6.zip
+  name: Xiaomi 14T
+  version: OS2.0.5.0.VNEEUXM
 - android: '14.0'
   codename: degas
   date: '2024-12-07'

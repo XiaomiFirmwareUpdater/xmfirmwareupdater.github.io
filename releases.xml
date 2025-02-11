@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 11 Feb 2025 13:28:43 </lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 19:31:20 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14T (degas) - OS2.0.5.0.VNEEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/degas/</link>
+            <pubDate>Tue, 11 Feb 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 13 Pro (nuwa) - OS2.0.2.0.VMBEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
@@ -1245,11 +1250,6 @@
             <title>Xiaomi 11T Pro (vili) - OS1.0.9.0.UKDEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vili/</link>
             <pubDate>Tue, 10 Dec 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14T (degas) - OS2.0.2.0.VNEEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/degas/</link>
-            <pubDate>Fri, 06 Dec 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS2.0.3.0.VNXEUXM</title>
