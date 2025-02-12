@@ -159,6 +159,16 @@
     android: '14.0'
     miui: OS1.0.5.0.UNSMIXM
 - branch: stable
+  date: '2025-02-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-12.02.2025/fw_dizi_miui_DIZIEEAGlobal_OS1.0.10.0.UNSEUXM_ddefbb12c2_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/dizi/fw_dizi_miui_DIZIEEAGlobal_OS1.0.10.0.UNSEUXM_ddefbb12c2_14.0.zip
+  filename: fw_dizi_miui_DIZIEEAGlobal_OS1.0.10.0.UNSEUXM_ddefbb12c2_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.10.0.UNSEUXM
+- branch: stable
   date: '2024-06-11'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-11.06.2024/fw_dizi_miui_DIZIGlobal_OS1.0.1.0.UNSMIXM_61ffc2b631_14.0.zip
