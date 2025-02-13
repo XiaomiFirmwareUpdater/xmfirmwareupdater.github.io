@@ -66,9 +66,8 @@ permalink: /hyperos/malachite/
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UOOINXM</td><td>14.0</td><td>5.5 GB</td><td>2025-02-07</td><td><a href="/hyperos/malachite/stable beta/OS1.0.4.0.UOOINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UOOTRXM</td><td>14.0</td><td>7.7 GB</td><td>2024-12-17</td><td><a href="/hyperos/malachite/stable/OS1.0.3.0.UOOTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UOOTRXM</td><td>14.0</td><td>5.6 GB</td><td>2025-01-20</td><td><a href="/hyperos/malachite/stable/OS1.0.3.0.UOOTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 Pro 5G / POCO X7 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UOOTWXM</td><td>14.0</td><td>7.4 GB</td><td>2024-12-17</td><td><a href="/hyperos/malachite/stable/OS1.0.3.0.UOOTWXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 Pro 5G / POCO X7 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UOOTWXM</td><td>14.0</td><td>5.5 GB</td><td>2025-01-11</td><td><a href="/hyperos/malachite/stable/OS1.0.3.0.UOOTWXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 Pro 5G / POCO X7 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.UOOTWXM</td><td>14.0</td><td>5.5 GB</td><td>2025-02-08</td><td><a href="/hyperos/malachite/stable beta/OS1.0.5.0.UOOTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro 5G / POCO X7 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UOOTWXM</td><td>14.0</td><td>7.5 GB</td><td>2025-01-22</td><td><a href="/hyperos/malachite/stable/OS1.0.5.0.UOOTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro 5G / POCO X7 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UOOTWXM</td><td>14.0</td><td>5.5 GB</td><td>2025-02-08</td><td><a href="/hyperos/malachite/stable/OS1.0.5.0.UOOTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

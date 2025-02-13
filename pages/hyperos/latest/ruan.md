@@ -63,6 +63,7 @@ permalink: /hyperos/ruan/
 <tr><td>Redmi Pad Pro 5G / POCO Pad 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UFSRUXM</td><td>14.0</td><td>5.6 GB</td><td>2024-11-29</td><td><a href="/hyperos/ruan/stable/OS1.0.7.0.UFSRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G / POCO Pad 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UFSRUXM</td><td>14.0</td><td>4.3 GB</td><td>2024-12-13</td><td><a href="/hyperos/ruan/stable/OS1.0.7.0.UFSRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G / POCO Pad 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.VFSINXM</td><td>15.0</td><td>4.5 GB</td><td>2025-01-17</td><td><a href="/hyperos/ruan/stable beta/OS2.0.1.0.VFSINXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro 5G / POCO Pad 5G Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.VFSRUXM</td><td>15.0</td><td>4.6 GB</td><td>2025-02-08</td><td><a href="/hyperos/ruan/stable beta/OS2.0.1.0.VFSRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

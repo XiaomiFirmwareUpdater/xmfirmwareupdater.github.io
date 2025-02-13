@@ -298,6 +298,12 @@
   download: https://bigota.d.miui.com/OS1.0.23.0.UOPCNXM/fw_amethyst_miui_AMETHYST_OS1.0.23.0.UOPCNXM_c27907cd54_14.0.zip
   name: Redmi Note 14 Pro+ 5G
   version: OS1.0.23.0.UOPCNXM
+- android: '15.0'
+  codename: amethyst
+  date: '2025-02-13'
+  download: https://bigota.d.miui.com/OS2.0.7.0.VOPCNXM/fw_amethyst_amethyst-ota_full-OS2.0.7.0.VOPCNXM-user-15.0-8d972646d2.zip
+  name: Redmi Note 14 Pro+ 5G
+  version: OS2.0.7.0.VOPCNXM
 - android: '14.0'
   codename: amethyst
   date: '2025-02-10'
@@ -5322,6 +5328,12 @@
   version: OS1.0.7.0.UMRMIXM
 - android: '14.0'
   codename: marble
+  date: '2025-02-13'
+  download: https://bigota.d.miui.com/OS1.0.18.0.UMRINXM/fw_marble_miui_MARBLEINGlobal_OS1.0.18.0.UMRINXM_f02a1ea925_14.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS1.0.18.0.UMRINXM
+- android: '14.0'
+  codename: marble
   date: '2025-02-12'
   download: https://bigota.d.miui.com/OS1.0.19.0.UMREUXM/fw_marble_miui_MARBLEEEAGlobal_OS1.0.19.0.UMREUXM_41ff0c8c35_14.0.zip
   name: Redmi Note 12 Turbo/POCO F5
@@ -10018,6 +10030,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMTINXM/fw_tapas_miui_TAPASINGlobal_OS1.0.5.0.UMTINXM_83ecfa64de_14.0.zip
   name: Redmi Note 12 4G
   version: OS1.0.5.0.UMTINXM
+- android: '15.0'
+  codename: tapas
+  date: '2025-02-13'
+  download: https://bigota.d.miui.com/OS2.0.9.0.VMTMIXM/fw_tapas_global_tapas_global-ota_full-OS2.0.9.0.VMTMIXM-user-15.0-9faab52234.zip
+  name: Redmi Note 12 4G
+  version: OS2.0.9.0.VMTMIXM
 - android: '14.0'
   codename: tapas
   date: '2024-01-12'
@@ -11674,6 +11692,18 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULBINXM/fw_zeus_miui_ZEUSINGlobal_OS1.0.3.0.ULBINXM_f875063553_14.0.zip
   name: Xiaomi 12 Pro
   version: OS1.0.3.0.ULBINXM
+- android: '14.0'
+  codename: zeus
+  date: '2025-02-13'
+  download: https://bigota.d.miui.com/OS1.0.18.0.ULBEUXM/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.18.0.ULBEUXM_1dfea3bbcb_14.0.zip
+  name: Xiaomi 12 Pro
+  version: OS1.0.18.0.ULBEUXM
+- android: '14.0'
+  codename: zeus
+  date: '2025-02-13'
+  download: https://bigota.d.miui.com/OS1.0.10.0.ULBINXM/fw_zeus_miui_ZEUSINGlobal_OS1.0.10.0.ULBINXM_3d288f7fd1_14.0.zip
+  name: Xiaomi 12 Pro
+  version: OS1.0.10.0.ULBINXM
 - android: '14.0'
   codename: zeus
   date: '2024-09-12'

@@ -539,6 +539,26 @@
     android: '12.0'
     miui: V13.0.41.0.SLBCNXM
 - branch: stable
+  date: '2025-02-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-13.02.2025/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.18.0.ULBEUXM_1dfea3bbcb_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zeus/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.18.0.ULBEUXM_1dfea3bbcb_14.0.zip
+  filename: fw_zeus_miui_ZEUSEEAGlobal_OS1.0.18.0.ULBEUXM_1dfea3bbcb_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.18.0.ULBEUXM
+- branch: stable
+  date: '2025-02-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-13.02.2025/fw_zeus_miui_ZEUSINGlobal_OS1.0.10.0.ULBINXM_3d288f7fd1_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zeus/fw_zeus_miui_ZEUSINGlobal_OS1.0.10.0.ULBINXM_3d288f7fd1_14.0.zip
+  filename: fw_zeus_miui_ZEUSINGlobal_OS1.0.10.0.ULBINXM_3d288f7fd1_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.10.0.ULBINXM
+- branch: stable
   date: '2024-09-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-12.09.2024/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.12.0.ULBEUXM_3de4f1ef7e_14.0.zip

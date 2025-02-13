@@ -69,6 +69,7 @@ permalink: /hyperos/beryl/
 <tr><td>Redmi Note 14 5G / POCO M7 Pro 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UOQTRXM</td><td>14.0</td><td>4.7 GB</td><td>2025-01-23</td><td><a href="/hyperos/beryl/stable/OS1.0.2.0.UOQTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 5G / POCO M7 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UOQTWXM</td><td>14.0</td><td>6.4 GB</td><td>2024-12-19</td><td><a href="/hyperos/beryl/stable/OS1.0.2.0.UOQTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 5G / POCO M7 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UOQTWXM</td><td>14.0</td><td>4.6 GB</td><td>2025-01-09</td><td><a href="/hyperos/beryl/stable/OS1.0.2.0.UOQTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 5G / POCO M7 Pro 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UOQTWXM</td><td>14.0</td><td>4.6 GB</td><td>2025-02-13</td><td><a href="/hyperos/beryl/stable beta/OS1.0.3.0.UOQTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

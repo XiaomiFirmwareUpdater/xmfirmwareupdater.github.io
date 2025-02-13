@@ -52,7 +52,8 @@ permalink: /archive/hyperos/beryl/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 14 5G / POCO M7 Pro 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.UOQIDXM</td><td>14.0</td><td>4.7 GB</td><td>2025-02-12</td><td><a href="/hyperos/beryl/stable beta/OS1.0.7.0.UOQIDXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 14 5G / POCO M7 Pro 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UOQTWXM</td><td>14.0</td><td>4.6 GB</td><td>2025-02-13</td><td><a href="/hyperos/beryl/stable beta/OS1.0.3.0.UOQTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 5G / POCO M7 Pro 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.UOQIDXM</td><td>14.0</td><td>4.7 GB</td><td>2025-02-12</td><td><a href="/hyperos/beryl/stable beta/OS1.0.7.0.UOQIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 5G / POCO M7 Pro 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.UOQMIXM</td><td>14.0</td><td>4.7 GB</td><td>2025-02-08</td><td><a href="/hyperos/beryl/stable beta/OS1.0.6.0.UOQMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 5G / POCO M7 Pro 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UOQIDXM</td><td>14.0</td><td>4.7 GB</td><td>2025-01-24</td><td><a href="/hyperos/beryl/stable/OS1.0.6.0.UOQIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 5G / POCO M7 Pro 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UOQIDXM</td><td>14.0</td><td>7.0 GB</td><td>2024-12-24</td><td><a href="/hyperos/beryl/stable/OS1.0.6.0.UOQIDXM/">Download</a></td></tr>
