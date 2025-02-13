@@ -62,9 +62,8 @@ permalink: /hyperos/emerald/
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UNFRUXM</td><td>14.0</td><td>7.6 GB</td><td>2024-12-17</td><td><a href="/hyperos/emerald/stable/OS1.0.8.0.UNFRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UNFRUXM</td><td>14.0</td><td>4.6 GB</td><td>2024-12-27</td><td><a href="/hyperos/emerald/stable/OS1.0.8.0.UNFRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.9.0.UNFRUXM</td><td>14.0</td><td>4.6 GB</td><td>2025-01-21</td><td><a href="/hyperos/emerald/stable beta/OS1.0.9.0.UNFRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UNFTRXM</td><td>14.0</td><td>6.6 GB</td><td>2024-12-17</td><td><a href="/hyperos/emerald/stable/OS1.0.8.0.UNFTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UNFTRXM</td><td>14.0</td><td>4.6 GB</td><td>2024-12-27</td><td><a href="/hyperos/emerald/stable/OS1.0.8.0.UNFTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.9.0.UNFTRXM</td><td>14.0</td><td>4.6 GB</td><td>2025-01-21</td><td><a href="/hyperos/emerald/stable beta/OS1.0.9.0.UNFTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.UNFTRXM</td><td>14.0</td><td>6.8 GB</td><td>2025-01-13</td><td><a href="/hyperos/emerald/stable/OS1.0.9.0.UNFTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UNFTRXM</td><td>14.0</td><td>4.6 GB</td><td>2025-01-21</td><td><a href="/hyperos/emerald/stable/OS1.0.9.0.UNFTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
