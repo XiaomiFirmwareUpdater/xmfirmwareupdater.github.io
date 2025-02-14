@@ -19,12 +19,12 @@
     android: '14.0'
     miui: OS1.0.14.0.ULLCNXM
 - branch: stable
-  date: '2024-12-30'
+  date: '2025-02-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-30.12.2024/fw_ziyi_miui_ZIYIEEAGlobal_OS1.0.13.0.ULLEUXM_d4ac70cc32_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ziyi/fw_ziyi_miui_ZIYIEEAGlobal_OS1.0.13.0.ULLEUXM_d4ac70cc32_14.0.zip
-  filename: fw_ziyi_miui_ZIYIEEAGlobal_OS1.0.13.0.ULLEUXM_d4ac70cc32_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-14.02.2025/fw_ziyi_miui_ZIYIEEAGlobal_OS1.0.14.0.ULLEUXM_a2e8bb30b6_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ziyi/fw_ziyi_miui_ZIYIEEAGlobal_OS1.0.14.0.ULLEUXM_a2e8bb30b6_14.0.zip
+  filename: fw_ziyi_miui_ZIYIEEAGlobal_OS1.0.14.0.ULLEUXM_a2e8bb30b6_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.13.0.ULLEUXM
+    miui: OS1.0.14.0.ULLEUXM

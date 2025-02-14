@@ -4320,6 +4320,18 @@
   version: OS1.0.4.0.ULJCNXM
 - android: '14.0'
   codename: ingres
+  date: '2025-02-14'
+  download: https://bigota.d.miui.com/OS1.0.10.0.ULJEUXM/fw_ingres_miui_INGRESEEAGlobal_OS1.0.10.0.ULJEUXM_bd88182f3c_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.10.0.ULJEUXM
+- android: '14.0'
+  codename: ingres
+  date: '2025-02-14'
+  download: https://bigota.d.miui.com/OS1.0.10.0.ULJMIXM/fw_ingres_miui_INGRESGlobal_OS1.0.10.0.ULJMIXM_e08f7f1b2f_14.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS1.0.10.0.ULJMIXM
+- android: '14.0'
+  codename: ingres
   date: '2025-01-14'
   download: https://bigota.d.miui.com/OS1.0.9.0.ULJEUXM/fw_ingres_miui_INGRESEEAGlobal_OS1.0.9.0.ULJEUXM_2530703663_14.0.zip
   name: Redmi K50G/POCO F4 GT
@@ -8082,6 +8094,12 @@
   version: OS1.0.6.0.UFSMIXM
 - android: '14.0'
   codename: ruan
+  date: '2025-02-14'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UFSEUXM/fw_ruan_miui_RUANEEAGlobal_OS1.0.10.0.UFSEUXM_69e32ebe75_14.0.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS1.0.10.0.UFSEUXM
+- android: '14.0'
+  codename: ruan
   date: '2024-12-11'
   download: https://bigota.d.miui.com/OS1.0.9.0.UFSEUXM/fw_ruan_miui_RUANEEAGlobal_OS1.0.9.0.UFSEUXM_633a0d0c02_14.0.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
@@ -8410,6 +8428,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMOCNXM/fw_ruby_miui_RUBY_OS1.0.4.0.UMOCNXM_14c0492905_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: OS1.0.4.0.UMOCNXM
+- android: '14.0'
+  codename: ruby
+  date: '2025-02-14'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UMOCNXM/fw_ruby_miui_RUBY_OS1.0.13.0.UMOCNXM_0292fc3f08_14.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS1.0.13.0.UMOCNXM
 - android: '14.0'
   codename: ruby
   date: '2024-08-12'
@@ -11248,6 +11272,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UMUEUXM/fw_xun_miui_XUNEEAGlobal_OS1.0.1.0.UMUEUXM_9675f5ccd4_14.0.zip
   name: Redmi Pad SE
   version: OS1.0.1.0.UMUEUXM
+- android: '15.0'
+  codename: xun
+  date: '2025-02-14'
+  download: https://bigota.d.miui.com/OS2.0.1.0.VMUEUXM/fw_xun_eea_global_xun_eea_global-ota_full-OS2.0.1.0.VMUEUXM-user-15.0-07cc292470.zip
+  name: Redmi Pad SE
+  version: OS2.0.1.0.VMUEUXM
 - android: '14.0'
   codename: xun
   date: '2024-08-13'
@@ -12130,6 +12160,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULLCNXM/fw_ziyi_miui_ZIYI_OS1.0.3.0.ULLCNXM_cc6915aa21_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.3.0.ULLCNXM
+- android: '14.0'
+  codename: ziyi
+  date: '2025-02-14'
+  download: https://bigota.d.miui.com/OS1.0.14.0.ULLEUXM/fw_ziyi_miui_ZIYIEEAGlobal_OS1.0.14.0.ULLEUXM_a2e8bb30b6_14.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS1.0.14.0.ULLEUXM
 - android: '14.0'
   codename: ziyi
   date: '2025-02-14'
