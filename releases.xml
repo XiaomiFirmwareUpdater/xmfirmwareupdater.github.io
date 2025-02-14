@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 14 Feb 2025 14:02:52 </lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 19:13:56 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K50G/POCO F4 GT (ingres) - OS1.0.10.0.ULJMIXM</title>
@@ -34,6 +34,11 @@
         <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.13.0.UMOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Fri, 14 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - OS1.0.11.0.ULOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xaga/</link>
             <pubDate>Fri, 14 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -844,11 +849,6 @@
         <item>
             <title>Xiaomi Pad 7 (uke) - OS2.0.9.0.VOZINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/uke/</link>
-            <pubDate>Mon, 13 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - OS1.0.10.0.ULOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/xaga/</link>
             <pubDate>Mon, 13 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
