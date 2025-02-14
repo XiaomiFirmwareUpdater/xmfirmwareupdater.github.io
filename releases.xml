@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 14 Feb 2025 19:13:56 </lastBuildDate>
+        <lastBuildDate>Sat, 15 Feb 2025 01:17:12 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 15 Pro (haotian) - OS2.0.105.0.VOBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/haotian/</link>
+            <pubDate>Fri, 14 Feb 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K50G/POCO F4 GT (ingres) - OS1.0.10.0.ULJMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ingres/</link>
@@ -469,11 +474,6 @@
         <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS2.0.2.0.VNRMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
-            <pubDate>Wed, 22 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 Pro (haotian) - OS2.0.104.0.VOBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/haotian/</link>
             <pubDate>Wed, 22 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
