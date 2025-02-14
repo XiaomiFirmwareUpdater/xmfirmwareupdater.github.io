@@ -7854,6 +7854,12 @@
   version: OS1.0.2.0.ULUEUXM
 - android: '15.0'
   codename: rodin
+  date: '2025-02-14'
+  download: https://bigota.d.miui.com/OS2.0.103.0.VOJCNXM/fw_rodin_rodin-ota_full-OS2.0.103.0.VOJCNXM-user-15.0-7e30f0941c.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.103.0.VOJCNXM
+- android: '15.0'
+  codename: rodin
   date: '2025-01-14'
   download: https://bigota.d.miui.com/OS2.0.2.0.VOJINXM/fw_rodin_in_global_rodin_in_global-ota_full-OS2.0.2.0.VOJINXM-user-15.0-60249425a2.zip
   name: Redmi Turbo 4/POCO X7 Pro
@@ -12124,6 +12130,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULLCNXM/fw_ziyi_miui_ZIYI_OS1.0.3.0.ULLCNXM_cc6915aa21_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.3.0.ULLCNXM
+- android: '14.0'
+  codename: ziyi
+  date: '2025-02-14'
+  download: https://bigota.d.miui.com/OS1.0.13.0.ULLMIXM/fw_ziyi_miui_ZIYIGlobal_OS1.0.13.0.ULLMIXM_9797f46890_14.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS1.0.13.0.ULLMIXM
 - android: '14.0'
   codename: ziyi
   date: '2024-08-13'
