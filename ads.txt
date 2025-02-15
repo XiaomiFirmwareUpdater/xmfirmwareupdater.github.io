@@ -96,10 +96,6 @@ freewheel.tv, 24377, RESELLER
 #Rtbhouse
 rtbhouse.com, ccuiLWtBFp9akdIipqRO, DIRECT
 
-#Triplelift
-triplelift.com, 10992, RESELLER, 6c33edb13117fd86
-triplelift.com, 10992-EB, DIRECT, 6c33edb13117fd86
-
 #Unruly
 video.unrulymedia.com, 2276989117, DIRECT
 rhythmone.com, 2276989117, DIRECT, a670c89d4a324e47
@@ -247,9 +243,10 @@ pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
 google.com, pub-3872674820285626, RESELLER, f08c47fec0942fa0
 rtbdemand.com, 23064872270, RESELLER
 33across.com, 001Pg00000HDbTOIA1, DIRECT, bbea06d9c4d2853c
+google.com, pub-2749054827332983, RESELLER, f08c47fec0942fa0
 xapads.com, 139660, DIRECT
-google.com, pub-3990748024667386, DIRECT, f08c47fec0942fa0
-video.unrulymedia.com, 524101463, RESELLER, 29bc7d05d309e1bc
+aps.amazon.com, 822c7bc2-d58f-4911-b8a2-95ee49e044c8, DIRECT
+appnexus.com, 16916, RESELLER, f5ab79cb980f11d1
 zetaglobal.net, 7293207, DIRECT
 amxrtb.com, 105199574, DIRECT
 bizzclick.com, 286, RESELLER, 7e936b1feafdaa61
@@ -262,13 +259,15 @@ streamkey.tv, 18715, DIRECT
 appnexus.com, 14246, RESELLER, f5ab79cb980f11d1
 zetaglobal.net, 7293207, RESELLER
 sharethrough.com, UvcAx8IL, RESELLER, d53b998a7bd4ecd2
+triplelift.com, 10992, RESELLER, 6c33edb13117fd86
+triplelift.com, 10992-EB, DIRECT, 6c33edb13117fd86
 risecodes.com, 64c00194c612210001c76f6f, DIRECT
 pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
 xandr.com, 14082, RESELLER, f5ab79cb980f11d1
 rubiconproject.com, 23876, RESELLER, 0bfd66d529a55807
 openx.com, 537140488, RESELLER, 6a698e2ec38604c6
 sharethrough.com, 5926d422, RESELLER, d53b998a7bd4ecd2
-themediagrid.com, 4DQHAP, RESELLER, 35d5010d7789b49d
+themediagrid.com, HW1PGR, RESELLER, 35d5010d7789b49d
 media.net, 8CUQ6928Q, RESELLER
 sonobi.com, 4a289cdd79, RESELLER, d1a215d9eb5aee9e
 video.unrulymedia.com, 335119963, RESELLER
@@ -285,6 +284,8 @@ adform.com, 3119, RESELLER, 9f5210a2f0999e32
 lijit.com, 405318, RESELLER, fafdf38b16bf6b2b
 adyoulike.com, 78afbc34fac571736717317117dfa247, RESELLER
 smaato.com, 1100057444, RESELLER, 07bcf65f187117b4
+zetaglobal.net, 716, RESELLER
+improvedigital.com, 2446, RESELLER
 adxplorers.com, 195015, RESELLER
 google.com, pub-6167667955106437, DIRECT, f08c47fec0942fa0
 hindsightsolutions.net, 323-b5957, RESELLER, 20e30b2ae1f670f2
@@ -336,6 +337,13 @@ lijit.com, 270592, DIRECT, fafdf38b16bf6b2b
 gumgum.com, 13661, DIRECT, ffdef49475d318a9
 triplelift.com, 6231, DIRECT, 6c33edb13117fd86
 xandr.com, 1908, RESELLER, f5ab79cb980f11d1
+google.com, pub-2749054827332983, DIRECT, f08c47fec0942fa0
+radiantfusion.co, 219451864, DIRECT
+insticator.com, 6d6dacb8-916a-497b-8764-bef3fff17098, RESELLER, b3511ffcafb23a32
+sharethrough.com, Q9IzHdvp, RESELLER, d53b998a7bd4ecd2
+rubiconproject.com, 17062, RESELLER, 0bfd66d529a55807
+pubmatic.com, 95054, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 136898039, RESELLER
 
 #Smartadserver
 smartadserver.com, 4304, RESELLER
@@ -551,6 +559,7 @@ emxdgt.com, 1799, RESELLER, 1e1d41537f7cad7f
 yieldmo.com, 3624960084913628105, RESELLER
 
 #Rise
+themediagrid.com, 4DQHAP, RESELLER, 35d5010d7789b49d
 
 #Inmobi
 inmobi.com, 06b09228a2a14e3aa7ac745233622b31, RESELLER, 83e75a7ae333ca9d
