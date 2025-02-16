@@ -5622,6 +5622,12 @@
   version: OS2.0.15.0.VOMCNXM
 - android: '15.0'
   codename: miro
+  date: '2025-02-16'
+  download: https://bigota.d.miui.com/OS2.0.105.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.105.0.VOMCNXM-user-15.0-2b557b7092.zip
+  name: Redmi K80 Pro
+  version: OS2.0.105.0.VOMCNXM
+- android: '15.0'
+  codename: miro
   date: '2024-12-06'
   download: https://bigota.d.miui.com/OS2.0.11.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.11.0.VOMCNXM-user-15.0-53cc500554.zip
   name: Redmi K80 Pro
