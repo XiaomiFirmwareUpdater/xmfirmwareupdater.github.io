@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 16 Feb 2025 13:15:51 </lastBuildDate>
+        <lastBuildDate>Sun, 16 Feb 2025 19:11:53 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS2.0.3.0.VNRINXM</title>
@@ -14,6 +14,11 @@
         <item>
             <title>Redmi K80 Pro (miro) - OS2.0.105.0.VOMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/miro/</link>
+            <pubDate>Sun, 16 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.3.0.VOJINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
             <pubDate>Sun, 16 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -789,11 +794,6 @@
         <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS2.0.3.0.VNREUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
-            <pubDate>Tue, 14 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.2.0.VOJINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
             <pubDate>Tue, 14 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
