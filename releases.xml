@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 16 Feb 2025 01:02:06 </lastBuildDate>
+        <lastBuildDate>Sun, 16 Feb 2025 07:11:09 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS2.0.3.0.VNRINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
+            <pubDate>Sun, 16 Feb 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 12 (fire) - OS2.0.4.0.VMXMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fire/</link>
@@ -799,11 +804,6 @@
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS1.0.14.0.ULFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/diting/</link>
-            <pubDate>Mon, 13 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS1.0.16.0.UNRINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
             <pubDate>Mon, 13 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
