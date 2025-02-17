@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 17 Feb 2025 19:30:15 </lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 01:11:43 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS2.0.103.0.VNACNXM</title>
@@ -49,6 +49,11 @@
         <item>
             <title>Redmi K50 Pro (matisse) - OS1.0.19.0.ULKCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/matisse/</link>
+            <pubDate>Mon, 17 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 6 (pipa) - OS2.0.4.0.UMZCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
             <pubDate>Mon, 17 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -914,11 +919,6 @@
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS1.0.11.0.UMNEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
-            <pubDate>Fri, 10 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 (pipa) - OS1.0.14.0.UMZCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
             <pubDate>Fri, 10 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
