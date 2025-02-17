@@ -52,10 +52,9 @@ permalink: /hyperos/mayfly/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12S China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.14.0.ULTCNXM</td><td>14.0</td><td>7.2 GB</td><td>2024-12-24</td><td><a href="/hyperos/mayfly/stable/OS1.0.14.0.ULTCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12S China</td><td>Stable</td><td>Recovery</td><td>OS1.0.14.0.ULTCNXM</td><td>14.0</td><td>5.8 GB</td><td>2025-01-07</td><td><a href="/hyperos/mayfly/stable/OS1.0.14.0.ULTCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12S China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.VLTCNXM</td><td>15.0</td><td>7.5 GB</td><td>2025-01-09</td><td><a href="/hyperos/mayfly/stable/OS2.0.1.0.VLTCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12S China</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VLTCNXM</td><td>15.0</td><td>6.1 GB</td><td>2025-01-24</td><td><a href="/hyperos/mayfly/stable/OS2.0.1.0.VLTCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.8 GB</td><td>2024-01-12</td><td><a href="/hyperos/mayfly/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi 12S China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.VLTCNXM</td><td>15.0</td><td>6.1 GB</td><td>2025-01-24</td><td><a href="/hyperos/mayfly/stable beta/OS2.0.1.0.VLTCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

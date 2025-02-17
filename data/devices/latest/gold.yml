@@ -19,22 +19,22 @@
     android: '14.0'
     miui: OS1.0.11.0.UNQCNXM
 - branch: stable
-  date: '2025-01-02'
+  date: '2025-02-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-02.01.2025/fw_gold_miui_GOLDEEAGlobal_OS1.0.17.0.UNQEUXM_32b7416ddf_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/gold/fw_gold_miui_GOLDEEAGlobal_OS1.0.17.0.UNQEUXM_32b7416ddf_14.0.zip
-  filename: fw_gold_miui_GOLDEEAGlobal_OS1.0.17.0.UNQEUXM_32b7416ddf_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-17.02.2025/fw_gold_miui_GOLDEEAGlobal_OS1.0.18.0.UNQEUXM_9c0f1d674d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/gold/fw_gold_miui_GOLDEEAGlobal_OS1.0.18.0.UNQEUXM_9c0f1d674d_14.0.zip
+  filename: fw_gold_miui_GOLDEEAGlobal_OS1.0.18.0.UNQEUXM_9c0f1d674d_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.17.0.UNQEUXM
+    miui: OS1.0.18.0.UNQEUXM
 - branch: stable
-  date: '2025-01-02'
+  date: '2025-02-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-02.01.2025/fw_gold_miui_GOLDINGlobal_OS1.0.14.0.UNQINXM_3fe39d6ac7_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/gold/fw_gold_miui_GOLDINGlobal_OS1.0.14.0.UNQINXM_3fe39d6ac7_14.0.zip
-  filename: fw_gold_miui_GOLDINGlobal_OS1.0.14.0.UNQINXM_3fe39d6ac7_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-17.02.2025/fw_gold_miui_GOLDINGlobal_OS1.0.15.0.UNQINXM_c6477c416b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/gold/fw_gold_miui_GOLDINGlobal_OS1.0.15.0.UNQINXM_c6477c416b_14.0.zip
+  filename: fw_gold_miui_GOLDINGlobal_OS1.0.15.0.UNQINXM_c6477c416b_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.14.0.UNQINXM
+    miui: OS1.0.15.0.UNQINXM
