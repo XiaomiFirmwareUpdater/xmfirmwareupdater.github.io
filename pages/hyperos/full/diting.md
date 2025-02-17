@@ -52,9 +52,14 @@ permalink: /archive/hyperos/diting/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.15.0.ULFCNXM</td><td>14.0</td><td>5.9 GB</td><td>2025-01-23</td><td><a href="/hyperos/diting/stable beta/OS1.0.15.0.ULFCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12T Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.9.0.ULFTRXM</td><td>14.0</td><td>5.2 GB</td><td>2025-02-14</td><td><a href="/hyperos/diting/stable beta/OS1.0.9.0.ULFTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Japan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.9.0.ULFJPXM</td><td>14.0</td><td>5.2 GB</td><td>2025-02-12</td><td><a href="/hyperos/diting/stable beta/OS1.0.9.0.ULFJPXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.9.0.ULFRUXM</td><td>14.0</td><td>5.2 GB</td><td>2025-02-12</td><td><a href="/hyperos/diting/stable beta/OS1.0.9.0.ULFRUXM/">Download</a></td></tr>
+<tr><td>Redmi K50 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.15.0.ULFCNXM</td><td>14.0</td><td>5.9 GB</td><td>2025-01-23</td><td><a href="/hyperos/diting/stable beta/OS1.0.15.0.ULFCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.ULFMIXM</td><td>14.0</td><td>5.3 GB</td><td>2025-01-23</td><td><a href="/hyperos/diting/stable/OS1.0.11.0.ULFMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.ULFMIXM</td><td>14.0</td><td>6.5 GB</td><td>2025-01-08</td><td><a href="/hyperos/diting/stable/OS1.0.11.0.ULFMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.16.0.ULFEUXM</td><td>14.0</td><td>5.3 GB</td><td>2025-01-21</td><td><a href="/hyperos/diting/stable/OS1.0.16.0.ULFEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.16.0.ULFEUXM</td><td>14.0</td><td>6.4 GB</td><td>2025-01-13</td><td><a href="/hyperos/diting/stable/OS1.0.16.0.ULFEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Japan</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.ULFJPXM</td><td>14.0</td><td>5.2 GB</td><td>2025-01-07</td><td><a href="/hyperos/diting/stable/OS1.0.8.0.ULFJPXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Japan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.ULFJPXM</td><td>14.0</td><td>6.3 GB</td><td>2024-12-18</td><td><a href="/hyperos/diting/stable/OS1.0.8.0.ULFJPXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.ULFMIXM</td><td>14.0</td><td>5.3 GB</td><td>2025-01-07</td><td><a href="/hyperos/diting/stable/OS1.0.10.0.ULFMIXM/">Download</a></td></tr>
@@ -85,18 +90,20 @@ permalink: /archive/hyperos/diting/
 <tr><td>Xiaomi 12T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.ULFMIXM</td><td>14.0</td><td>6.8 GB</td><td>2024-11-12</td><td><a href="/hyperos/diting/stable/OS1.0.9.0.ULFMIXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.ULFCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-10-22</td><td><a href="/hyperos/diting/stable/OS1.0.10.0.ULFCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.ULFCNXM</td><td>14.0</td><td>7.0 GB</td><td>2024-10-10</td><td><a href="/hyperos/diting/stable/OS1.0.10.0.ULFCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Pro Japan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.ULFJPXM</td><td>14.0</td><td>6.3 GB</td><td>2024-10-14</td><td><a href="/hyperos/diting/stable/OS1.0.6.0.ULFJPXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Pro Japan</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.ULFJPXM</td><td>14.0</td><td>5.2 GB</td><td>2024-10-29</td><td><a href="/hyperos/diting/stable/OS1.0.6.0.ULFJPXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.ULFRUXM</td><td>14.0</td><td>6.4 GB</td><td>2024-10-14</td><td><a href="/hyperos/diting/stable/OS1.0.6.0.ULFRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.ULFRUXM</td><td>14.0</td><td>5.2 GB</td><td>2024-10-29</td><td><a href="/hyperos/diting/stable/OS1.0.6.0.ULFRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.ULFTWXM</td><td>14.0</td><td>6.1 GB</td><td>2024-10-14</td><td><a href="/hyperos/diting/stable/OS1.0.8.0.ULFTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.ULFTWXM</td><td>14.0</td><td>5.2 GB</td><td>2024-10-29</td><td><a href="/hyperos/diting/stable/OS1.0.8.0.ULFTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.ULFEUXM</td><td>14.0</td><td>6.6 GB</td><td>2024-10-14</td><td><a href="/hyperos/diting/stable/OS1.0.11.0.ULFEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.ULFEUXM</td><td>14.0</td><td>5.3 GB</td><td>2024-10-28</td><td><a href="/hyperos/diting/stable/OS1.0.11.0.ULFEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.ULFTRXM</td><td>14.0</td><td>5.2 GB</td><td>2024-10-29</td><td><a href="/hyperos/diting/stable/OS1.0.6.0.ULFTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.ULFTRXM</td><td>14.0</td><td>6.2 GB</td><td>2024-10-14</td><td><a href="/hyperos/diting/stable/OS1.0.6.0.ULFTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Japan</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.ULFJPXM</td><td>14.0</td><td>5.2 GB</td><td>2024-10-29</td><td><a href="/hyperos/diting/stable/OS1.0.6.0.ULFJPXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Japan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.ULFJPXM</td><td>14.0</td><td>6.3 GB</td><td>2024-10-14</td><td><a href="/hyperos/diting/stable/OS1.0.6.0.ULFJPXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.ULFTWXM</td><td>14.0</td><td>5.2 GB</td><td>2024-10-29</td><td><a href="/hyperos/diting/stable/OS1.0.8.0.ULFTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.ULFTWXM</td><td>14.0</td><td>6.1 GB</td><td>2024-10-14</td><td><a href="/hyperos/diting/stable/OS1.0.8.0.ULFTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.12.0.ULFEUXM</td><td>14.0</td><td>5.3 GB</td><td>2024-10-29</td><td><a href="/hyperos/diting/stable/OS1.0.12.0.ULFEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.12.0.ULFEUXM</td><td>14.0</td><td>6.6 GB</td><td>2024-10-22</td><td><a href="/hyperos/diting/stable/OS1.0.12.0.ULFEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.ULFRUXM</td><td>14.0</td><td>5.2 GB</td><td>2024-10-29</td><td><a href="/hyperos/diting/stable/OS1.0.6.0.ULFRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.ULFRUXM</td><td>14.0</td><td>6.4 GB</td><td>2024-10-14</td><td><a href="/hyperos/diting/stable/OS1.0.6.0.ULFRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.ULFEUXM</td><td>14.0</td><td>5.3 GB</td><td>2024-10-28</td><td><a href="/hyperos/diting/stable/OS1.0.11.0.ULFEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.ULFEUXM</td><td>14.0</td><td>6.6 GB</td><td>2024-10-14</td><td><a href="/hyperos/diting/stable/OS1.0.11.0.ULFEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.ULFMIXM</td><td>14.0</td><td>5.3 GB</td><td>2024-10-22</td><td><a href="/hyperos/diting/stable/OS1.0.8.0.ULFMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.ULFMIXM</td><td>14.0</td><td>6.8 GB</td><td>2024-10-08</td><td><a href="/hyperos/diting/stable/OS1.0.8.0.ULFMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.ULFTWXM</td><td>14.0</td><td>5.2 GB</td><td>2024-09-23</td><td><a href="/hyperos/diting/stable/OS1.0.7.0.ULFTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.ULFTWXM</td><td>14.0</td><td>6.1 GB</td><td>2024-09-10</td><td><a href="/hyperos/diting/stable/OS1.0.7.0.ULFTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.ULFEUXM</td><td>14.0</td><td>5.3 GB</td><td>2024-09-23</td><td><a href="/hyperos/diting/stable/OS1.0.10.0.ULFEUXM/">Download</a></td></tr>
@@ -107,8 +114,6 @@ permalink: /archive/hyperos/diting/
 <tr><td>Xiaomi 12T Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.ULFTRXM</td><td>14.0</td><td>6.2 GB</td><td>2024-09-10</td><td><a href="/hyperos/diting/stable/OS1.0.5.0.ULFTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Japan</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.ULFJPXM</td><td>14.0</td><td>5.2 GB</td><td>2024-09-23</td><td><a href="/hyperos/diting/stable/OS1.0.5.0.ULFJPXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Japan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.ULFJPXM</td><td>14.0</td><td>6.3 GB</td><td>2024-09-10</td><td><a href="/hyperos/diting/stable/OS1.0.5.0.ULFJPXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.ULFMIXM</td><td>14.0</td><td>5.3 GB</td><td>2024-10-22</td><td><a href="/hyperos/diting/stable/OS1.0.8.0.ULFMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.ULFMIXM</td><td>14.0</td><td>6.8 GB</td><td>2024-10-08</td><td><a href="/hyperos/diting/stable/OS1.0.8.0.ULFMIXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.ULFCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-09-20</td><td><a href="/hyperos/diting/stable/OS1.0.8.0.ULFCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.ULFCNXM</td><td>14.0</td><td>7.0 GB</td><td>2024-09-11</td><td><a href="/hyperos/diting/stable/OS1.0.8.0.ULFCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.ULFMIXM</td><td>14.0</td><td>5.3 GB</td><td>2024-09-11</td><td><a href="/hyperos/diting/stable/OS1.0.7.0.ULFMIXM/">Download</a></td></tr>
@@ -146,10 +151,10 @@ permalink: /archive/hyperos/diting/
 <tr><td>Xiaomi 12T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.ULFMIXM</td><td>14.0</td><td>5.3 GB</td><td>2024-07-16</td><td><a href="/hyperos/diting/stable/OS1.0.5.0.ULFMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.ULFMIXM</td><td>14.0</td><td>6.8 GB</td><td>2024-07-08</td><td><a href="/hyperos/diting/stable/OS1.0.5.0.ULFMIXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.ULFCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-07-09</td><td><a href="/hyperos/diting/stable/OS1.0.5.0.ULFCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Pro Japan</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.ULFJPXM</td><td>14.0</td><td>5.2 GB</td><td>2024-06-26</td><td><a href="/hyperos/diting/stable/OS1.0.1.0.ULFJPXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Pro Japan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.ULFJPXM</td><td>14.0</td><td>6.3 GB</td><td>2024-05-07</td><td><a href="/hyperos/diting/stable/OS1.0.1.0.ULFJPXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.ULFEUXM</td><td>14.0</td><td>5.3 GB</td><td>2024-06-17</td><td><a href="/hyperos/diting/stable/OS1.0.5.0.ULFEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.ULFEUXM</td><td>14.0</td><td>6.7 GB</td><td>2024-06-03</td><td><a href="/hyperos/diting/stable/OS1.0.5.0.ULFEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Japan</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.ULFJPXM</td><td>14.0</td><td>5.2 GB</td><td>2024-06-26</td><td><a href="/hyperos/diting/stable/OS1.0.1.0.ULFJPXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Japan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.ULFJPXM</td><td>14.0</td><td>6.3 GB</td><td>2024-05-07</td><td><a href="/hyperos/diting/stable/OS1.0.1.0.ULFJPXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULFTRXM</td><td>14.0</td><td>5.0 GB</td><td>2024-05-31</td><td><a href="/hyperos/diting/stable/OS1.0.2.0.ULFTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULFTRXM</td><td>14.0</td><td>6.3 GB</td><td>2024-05-13</td><td><a href="/hyperos/diting/stable/OS1.0.2.0.ULFTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.ULFTWXM</td><td>14.0</td><td>5.0 GB</td><td>2024-05-31</td><td><a href="/hyperos/diting/stable/OS1.0.4.0.ULFTWXM/">Download</a></td></tr>
@@ -185,10 +190,10 @@ permalink: /archive/hyperos/diting/
 <tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.ULFEUXM</td><td>14.0</td><td>5.3 GB</td><td>2024-01-16</td><td><a href="/hyperos/diting/stable/OS1.0.1.0.ULFEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULFMIXM</td><td>14.0</td><td>5.3 GB</td><td>2024-01-30</td><td><a href="/hyperos/diting/stable/OS1.0.2.0.ULFMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULFMIXM</td><td>14.0</td><td>6.9 GB</td><td>2024-01-19</td><td><a href="/hyperos/diting/stable/OS1.0.2.0.ULFMIXM/">Download</a></td></tr>
-<tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.18.DEV</td><td>14.0</td><td>5.8 GB</td><td>2023-12-22</td><td><a href="/hyperos/diting/public beta/OS1.0.23.12.18.DEV/">Download</a></td></tr>
-<tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.11.DEV</td><td>14.0</td><td>5.8 GB</td><td>2023-12-15</td><td><a href="/hyperos/diting/public beta/OS1.0.23.12.11.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULFCNXM</td><td>14.0</td><td>7.1 GB</td><td>2024-01-11</td><td><a href="/hyperos/diting/stable/OS1.0.2.0.ULFCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULFCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-01-02</td><td><a href="/hyperos/diting/stable/OS1.0.2.0.ULFCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.18.DEV</td><td>14.0</td><td>5.8 GB</td><td>2023-12-22</td><td><a href="/hyperos/diting/public beta/OS1.0.23.12.18.DEV/">Download</a></td></tr>
+<tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.11.DEV</td><td>14.0</td><td>5.8 GB</td><td>2023-12-15</td><td><a href="/hyperos/diting/public beta/OS1.0.23.12.11.DEV/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

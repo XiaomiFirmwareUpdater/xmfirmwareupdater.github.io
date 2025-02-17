@@ -52,7 +52,8 @@ permalink: /archive/hyperos/ingres/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F4 GT Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.11.0.ULJTRXM</td><td>14.0</td><td>5.0 GB</td><td>2025-02-11</td><td><a href="/hyperos/ingres/stable beta/OS1.0.11.0.ULJTRXM/">Download</a></td></tr>
+                <tr><td>POCO F4 GT Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.11.0.ULJRUXM</td><td>14.0</td><td>5.0 GB</td><td>2025-02-14</td><td><a href="/hyperos/ingres/stable beta/OS1.0.11.0.ULJRUXM/">Download</a></td></tr>
+<tr><td>POCO F4 GT Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.11.0.ULJTRXM</td><td>14.0</td><td>5.0 GB</td><td>2025-02-11</td><td><a href="/hyperos/ingres/stable beta/OS1.0.11.0.ULJTRXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.10.0.ULJEUXM</td><td>14.0</td><td>5.0 GB</td><td>2025-02-11</td><td><a href="/hyperos/ingres/stable beta/OS1.0.10.0.ULJEUXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.12.0.ULJTWXM</td><td>14.0</td><td>4.9 GB</td><td>2025-02-11</td><td><a href="/hyperos/ingres/stable beta/OS1.0.12.0.ULJTWXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.10.0.ULJMIXM</td><td>14.0</td><td>5.2 GB</td><td>2025-02-11</td><td><a href="/hyperos/ingres/stable beta/OS1.0.10.0.ULJMIXM/">Download</a></td></tr>

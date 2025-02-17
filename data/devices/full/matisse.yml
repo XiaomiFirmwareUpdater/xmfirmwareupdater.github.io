@@ -89,6 +89,16 @@
     android: '12.0'
     miui: V13.0.26.0.SLKCNXM
 - branch: stable
+  date: '2025-02-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-17.02.2025/fw_matisse_miui_MATISSE_OS1.0.19.0.ULKCNXM_4f31a20953_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/matisse/fw_matisse_miui_MATISSE_OS1.0.19.0.ULKCNXM_4f31a20953_14.0.zip
+  filename: fw_matisse_miui_MATISSE_OS1.0.19.0.ULKCNXM_4f31a20953_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.19.0.ULKCNXM
+- branch: stable
   date: '2023-01-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-17.01.2023/fw_matisse_miui_MATISSE_V14.0.9.0.TLKCNXM_57f70ca1f5_13.0.zip
