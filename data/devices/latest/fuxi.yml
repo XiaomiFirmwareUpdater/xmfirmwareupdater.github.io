@@ -19,12 +19,12 @@
     android: '15.0'
     miui: OS2.0.100.0.VMCCNXM
 - branch: stable
-  date: '2025-01-08'
+  date: '2025-02-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-08.01.2025/fw_fuxi_eea_global_fuxi_eea_global-ota_full-OS2.0.2.0.VMCEUXM-user-15.0-9b7d7c7038.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/fuxi/fw_fuxi_eea_global_fuxi_eea_global-ota_full-OS2.0.2.0.VMCEUXM-user-15.0-9b7d7c7038.zip
-  filename: fw_fuxi_eea_global_fuxi_eea_global-ota_full-OS2.0.2.0.VMCEUXM-user-15.0-9b7d7c7038.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-18.02.2025/fw_fuxi_eea_global_fuxi_eea_global-ota_full-OS2.0.3.0.VMCEUXM-user-15.0-33b3fb8985.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/fuxi/fw_fuxi_eea_global_fuxi_eea_global-ota_full-OS2.0.3.0.VMCEUXM-user-15.0-33b3fb8985.zip
+  filename: fw_fuxi_eea_global_fuxi_eea_global-ota_full-OS2.0.3.0.VMCEUXM-user-15.0-33b3fb8985.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.2.0.VMCEUXM
+    miui: OS2.0.3.0.VMCEUXM

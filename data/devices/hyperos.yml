@@ -748,6 +748,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.4.0.UMVCNXM_3d0618b4ae_14.0.zip
   name: MIX Fold 3
   version: OS1.0.4.0.UMVCNXM
+- android: '15.0'
+  codename: babylon
+  date: '2025-02-18'
+  download: https://bigota.d.miui.com/OS2.0.102.0.VMVCNXM/fw_babylon_babylon-ota_full-OS2.0.102.0.VMVCNXM-user-15.0-c877582234.zip
+  name: MIX Fold 3
+  version: OS2.0.102.0.VMVCNXM
 - android: '14.0'
   codename: babylon
   date: '2024-10-17'
@@ -2122,6 +2128,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UNLMIXM/fw_duchamp_miui_DUCHAMPGlobal_OS1.0.12.0.UNLMIXM_20b6105f34_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS1.0.12.0.UNLMIXM
+- android: '15.0'
+  codename: duchamp
+  date: '2025-02-18'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VNLINXM/fw_duchamp_in_global_duchamp_in_global-ota_full-OS2.0.2.0.VNLINXM-user-15.0-d7923bcf2a.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS2.0.2.0.VNLINXM
 - android: '14.0'
   codename: duchamp
   date: '2024-02-17'
@@ -3058,6 +3070,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMCEUXM/fw_fuxi_miui_FUXIEEAGlobal_OS1.0.5.0.UMCEUXM_3363bfcfac_14.0.zip
   name: Xiaomi 13
   version: OS1.0.5.0.UMCEUXM
+- android: '15.0'
+  codename: fuxi
+  date: '2025-02-18'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VMCEUXM/fw_fuxi_eea_global_fuxi_eea_global-ota_full-OS2.0.3.0.VMCEUXM-user-15.0-33b3fb8985.zip
+  name: Xiaomi 13
+  version: OS2.0.3.0.VMCEUXM
 - android: '14.0'
   codename: fuxi
   date: '2024-04-16'
@@ -4198,6 +4216,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UNCINXM/fw_houji_miui_HOUJIINGlobal_OS1.0.8.0.UNCINXM_192dd038d6_14.0.zip
   name: Xiaomi 14
   version: OS1.0.8.0.UNCINXM
+- android: '15.0'
+  codename: houji
+  date: '2025-02-18'
+  download: https://bigota.d.miui.com/OS2.0.104.0.VNCCNXM/fw_houji_houji-ota_full-OS2.0.104.0.VNCCNXM-user-15.0-9300a7608a.zip
+  name: Xiaomi 14
+  version: OS2.0.104.0.VNCCNXM
 - android: '14.0'
   codename: houji
   date: '2024-04-17'
@@ -5800,6 +5824,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMNEUXM/fw_mondrian_miui_MONDRIANEEAGlobal_OS1.0.3.0.UMNEUXM_1bec6ffeca_14.0.zip
   name: Redmi K60/POCO F5 Pro
   version: OS1.0.3.0.UMNEUXM
+- android: '15.0'
+  codename: mondrian
+  date: '2025-02-18'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VMNMIXM/fw_mondrian_global_mondrian_global-ota_full-OS2.0.3.0.VMNMIXM-user-15.0-c482ff9deb.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS2.0.3.0.VMNMIXM
 - android: '14.0'
   codename: mondrian
   date: '2024-12-16'
@@ -8656,6 +8686,12 @@
   download: https://bigota.d.miui.com/OS2.0.100.0.VNICNXM/fw_ruyi_ruyi-ota_full-OS2.0.100.0.VNICNXM-user-15.0-96ae28664f.zip
   name: MIX Flip
   version: OS2.0.100.0.VNICNXM
+- android: '15.0'
+  codename: ruyi
+  date: '2025-02-18'
+  download: https://bigota.d.miui.com/OS2.0.102.0.VNICNXM/fw_ruyi_ruyi-ota_full-OS2.0.102.0.VNICNXM-user-15.0-d6b4cf0abf.zip
+  name: MIX Flip
+  version: OS2.0.102.0.VNICNXM
 - android: '14.0'
   codename: ruyi
   date: '2024-12-17'
@@ -9232,6 +9268,12 @@
   download: https://bigota.d.miui.com/OS2.0.6.0.VNBCNXM/fw_shennong_shennong-ota_full-OS2.0.6.0.VNBCNXM-user-15.0-c166aacb6c.zip
   name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
   version: OS2.0.6.0.VNBCNXM
+- android: '15.0'
+  codename: shennong
+  date: '2025-02-18'
+  download: https://bigota.d.miui.com/OS2.0.104.0.VNBCNXM/fw_shennong_shennong-ota_full-OS2.0.104.0.VNBCNXM-user-15.0-31c6513eb3.zip
+  name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
+  version: OS2.0.104.0.VNBCNXM
 - android: '14.0'
   codename: shennong
   date: '2024-04-17'

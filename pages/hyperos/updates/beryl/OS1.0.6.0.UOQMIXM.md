@@ -3,7 +3,7 @@ title: Redmi Note 14 5G / POCO M7 Pro 5G Global HyperOS OS1.0.6.0.UOQMIXM Update
 layout: download
 name: Redmi Note 14 5G / POCO M7 Pro 5G Global
 codename: beryl
-permalink: /hyperos/beryl/stable beta/OS1.0.6.0.UOQMIXM/
+permalink: /hyperos/beryl/stable/OS1.0.6.0.UOQMIXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/beryl/stable beta/OS1.0.6.0.UOQMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.6.0.UOQMIXM Stable Beta Official Update for Redmi Note 14 5G / POCO M7 Pro 5G Global (beryl)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.6.0.UOQMIXM Stable Official Update for Redmi Note 14 5G / POCO M7 Pro 5G Global (beryl)</h3>
     <h5>This page shows the OS1.0.6.0.UOQMIXM update only. If you're looking for other updates check
         <a href="/hyperos/beryl/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/beryl/stable beta/OS1.0.6.0.UOQMIXM/
                     <h5><b>Version: </b>OS1.0.6.0.UOQMIXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/beryl/stable beta/OS1.0.6.0.UOQMIXM/
                             aria-expanded="false" aria-controls="beryl_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="beryl_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to January 2025. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi Note 14 5G / POCO M7 Pro 5G Global</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/beryl/" target="_blank">beryl</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.6.0.UOQMIXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>8.0 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-01-18</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">beryl_global_images_OS1.0.6.0.UOQMIXM_20250118.0000.00_14.0_global_de00002e81.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">de00002e817a304e2cbdd84bf338df54</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.UOQMIXM/beryl_global_images_OS1.0.6.0.UOQMIXM_20250118.0000.00_14.0_global_de00002e81.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.6.0.UOQMIXM/beryl_global_images_OS1.0.6.0.UOQMIXM_20250118.0000.00_14.0_global_de00002e81.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.6.0.UOQMIXM/beryl_global_images_OS1.0.6.0.UOQMIXM_20250118.0000.00_14.0_global_de00002e81.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.UOQMIXM/beryl_global_images_OS1.0.6.0.UOQMIXM_20250118.0000.00_14.0_global_de00002e81.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.6.0.UOQMIXM/beryl_global_images_OS1.0.6.0.UOQMIXM_20250118.0000.00_14.0_global_de00002e81.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#beryl_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="beryl_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="beryl_2_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to January 2025. Increased system security.</p>
                     </div>
                 </li>
