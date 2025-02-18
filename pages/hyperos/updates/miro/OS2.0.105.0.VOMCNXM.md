@@ -3,7 +3,7 @@ title: Redmi K80 Pro China HyperOS OS2.0.105.0.VOMCNXM Update
 layout: download
 name: Redmi K80 Pro China
 codename: miro
-permalink: /hyperos/miro/stable beta/OS2.0.105.0.VOMCNXM/
+permalink: /hyperos/miro/stable/OS2.0.105.0.VOMCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/miro/stable beta/OS2.0.105.0.VOMCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.105.0.VOMCNXM Stable Beta Official Update for Redmi K80 Pro China (miro)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.105.0.VOMCNXM Stable Official Update for Redmi K80 Pro China (miro)</h3>
     <h5>This page shows the OS2.0.105.0.VOMCNXM update only. If you're looking for other updates check
         <a href="/hyperos/miro/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/miro/stable beta/OS2.0.105.0.VOMCNXM/
                     <h5><b>Version: </b>OS2.0.105.0.VOMCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>10.3 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-02-18</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miro_images_OS2.0.105.0.VOMCNXM_20250124.0000.00_15.0_cn_b08c75ff97.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">b08c75ff97ee718f16f54cc03e58771e</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.105.0.VOMCNXM/miro_images_OS2.0.105.0.VOMCNXM_20250124.0000.00_15.0_cn_b08c75ff97.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.105.0.VOMCNXM/miro_images_OS2.0.105.0.VOMCNXM_20250124.0000.00_15.0_cn_b08c75ff97.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.105.0.VOMCNXM/miro_images_OS2.0.105.0.VOMCNXM_20250124.0000.00_15.0_cn_b08c75ff97.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.105.0.VOMCNXM/miro_images_OS2.0.105.0.VOMCNXM_20250124.0000.00_15.0_cn_b08c75ff97.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.105.0.VOMCNXM/miro_images_OS2.0.105.0.VOMCNXM_20250124.0000.00_15.0_cn_b08c75ff97.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#miro_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="miro_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="miro_1_changelog">
+                        <p id="changelog_text">[System]<br>Optimization: System stability<br>Fix: Errors occurred in some cases</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi K80 Pro China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/miro/" target="_blank">miro</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.105.0.VOMCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -74,10 +117,10 @@ permalink: /hyperos/miro/stable beta/OS2.0.105.0.VOMCNXM/
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS2.0.105.0.VOMCNXM/miro-ota_incremental-OS2.0.104.0.VOMCNXM-OS2.0.105.0.VOMCNXM-user-15.0-d4a76d7560.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.105.0.VOMCNXM/miro-ota_full-OS2.0.105.0.VOMCNXM-user-15.0-2b557b7092.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.105.0.VOMCNXM/miro-ota_full-OS2.0.105.0.VOMCNXM-user-15.0-2b557b7092.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.105.0.VOMCNXM/miro-ota_full-OS2.0.105.0.VOMCNXM-user-15.0-2b557b7092.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.105.0.VOMCNXM/miro-ota_full-OS2.0.105.0.VOMCNXM-user-15.0-2b557b7092.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.105.0.VOMCNXM/miro-ota_full-OS2.0.105.0.VOMCNXM-user-15.0-2b557b7092.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#miro_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="miro_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#miro_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="miro_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="miro_1_changelog">
+                    <div class="collapse" id="miro_2_changelog">
                         <p id="changelog_text">[System]<br>Optimization: System stability<br>Fix: Errors occurred in some cases</p>
                     </div>
                 </li>

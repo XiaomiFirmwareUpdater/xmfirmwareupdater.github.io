@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 18 Feb 2025 08:12:18 </lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 13:38:19 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>MIX Fold 3 (babylon) - OS2.0.102.0.VMVCNXM</title>
@@ -24,6 +24,11 @@
         <item>
             <title>Xiaomi 14 (houji) - OS2.0.104.0.VNCCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Tue, 18 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS1.0.11.0.UKOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
             <pubDate>Tue, 18 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -459,11 +464,6 @@
         <item>
             <title>Xiaomi 14 (houji) - OS2.0.8.0.VNCMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/houji/</link>
-            <pubDate>Wed, 05 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS1.0.10.0.UKOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
             <pubDate>Wed, 05 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
