@@ -199,6 +199,16 @@
     android: '13.0'
     miui: V14.0.5.0.TMWCNXM
 - branch: stable
+  date: '2025-02-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-19.02.2025/fw_sky_sky-ota_full-OS2.0.2.0.VMWCNXM-user-15.0-eeb8a4da80.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sky/fw_sky_sky-ota_full-OS2.0.2.0.VMWCNXM-user-15.0-eeb8a4da80.zip
+  filename: fw_sky_sky-ota_full-OS2.0.2.0.VMWCNXM-user-15.0-eeb8a4da80.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.2.0.VMWCNXM
+- branch: stable
   date: '2023-10-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-17.10.2023/fw_sky_miui_SKYINGlobal_V14.0.5.0.TMWINXM_8a2b317d27_13.0.zip

@@ -9,15 +9,15 @@
     android: '15.0'
     miui: OS2.0.3.0.VMWMIXM
 - branch: stable
-  date: '2024-11-20'
+  date: '2025-02-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-20.11.2024/fw_sky_miui_SKY_OS1.0.10.0.UMWCNXM_4931ef9f78_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sky/fw_sky_miui_SKY_OS1.0.10.0.UMWCNXM_4931ef9f78_14.0.zip
-  filename: fw_sky_miui_SKY_OS1.0.10.0.UMWCNXM_4931ef9f78_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-19.02.2025/fw_sky_sky-ota_full-OS2.0.2.0.VMWCNXM-user-15.0-eeb8a4da80.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sky/fw_sky_sky-ota_full-OS2.0.2.0.VMWCNXM-user-15.0-eeb8a4da80.zip
+  filename: fw_sky_sky-ota_full-OS2.0.2.0.VMWCNXM-user-15.0-eeb8a4da80.zip
   region: China
   versions:
-    android: '14.0'
-    miui: OS1.0.10.0.UMWCNXM
+    android: '15.0'
+    miui: OS2.0.2.0.VMWCNXM
 - branch: stable
   date: '2025-01-13'
   downloads:

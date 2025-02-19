@@ -1266,6 +1266,12 @@
   version: OS1.0.3.0.ULCMIXM
 - android: '14.0'
   codename: cupid
+  date: '2025-02-19'
+  download: https://bigota.d.miui.com/OS1.0.11.0.ULCMIXM/fw_cupid_miui_CUPIDGlobal_OS1.0.11.0.ULCMIXM_9fea041e8c_14.0.zip
+  name: Xiaomi 12
+  version: OS1.0.11.0.ULCMIXM
+- android: '14.0'
+  codename: cupid
   date: '2024-07-18'
   download: https://bigota.d.miui.com/OS1.0.10.0.ULCEUXM/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.10.0.ULCEUXM_4bac834d6c_14.0.zip
   name: Xiaomi 12
@@ -9442,6 +9448,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMWINXM/fw_sky_miui_SKYINGlobal_OS1.0.2.0.UMWINXM_797f38efb0_14.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
   version: OS1.0.2.0.UMWINXM
+- android: '15.0'
+  codename: sky
+  date: '2025-02-19'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VMWCNXM/fw_sky_sky-ota_full-OS2.0.2.0.VMWCNXM-user-15.0-eeb8a4da80.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS2.0.2.0.VMWCNXM
 - android: '14.0'
   codename: sky
   date: '2024-05-13'
