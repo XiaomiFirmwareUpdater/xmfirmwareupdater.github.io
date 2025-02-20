@@ -52,7 +52,8 @@ permalink: /archive/hyperos/vermeer/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F6 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.3.0.VNKMIXM</td><td>15.0</td><td>6.7 GB</td><td>2025-02-12</td><td><a href="/hyperos/vermeer/stable beta/OS2.0.3.0.VNKMIXM/">Download</a></td></tr>
+                <tr><td>Redmi K70 China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.102.0.VNKCNXM</td><td>15.0</td><td>7.3 GB</td><td>2025-02-14</td><td><a href="/hyperos/vermeer/stable beta/OS2.0.102.0.VNKCNXM/">Download</a></td></tr>
+<tr><td>POCO F6 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.3.0.VNKMIXM</td><td>15.0</td><td>6.7 GB</td><td>2025-02-12</td><td><a href="/hyperos/vermeer/stable beta/OS2.0.3.0.VNKMIXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.3.0.VNKEUXM</td><td>15.0</td><td>6.7 GB</td><td>2025-02-12</td><td><a href="/hyperos/vermeer/stable beta/OS2.0.3.0.VNKEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.3.0.VNKRUXM</td><td>15.0</td><td>6.5 GB</td><td>2025-02-12</td><td><a href="/hyperos/vermeer/stable beta/OS2.0.3.0.VNKRUXM/">Download</a></td></tr>
 <tr><td>Redmi K70 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VNKCNXM</td><td>15.0</td><td>9.6 GB</td><td>2025-02-06</td><td><a href="/hyperos/vermeer/stable/OS2.0.101.0.VNKCNXM/">Download</a></td></tr>
@@ -63,8 +64,6 @@ permalink: /archive/hyperos/vermeer/
 <tr><td>POCO F6 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.VNKRUXM</td><td>15.0</td><td>9.9 GB</td><td>2024-12-26</td><td><a href="/hyperos/vermeer/stable/OS2.0.1.0.VNKRUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VNKEUXM</td><td>15.0</td><td>6.7 GB</td><td>2025-01-06</td><td><a href="/hyperos/vermeer/stable/OS2.0.2.0.VNKEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VNKEUXM</td><td>15.0</td><td>8.9 GB</td><td>2024-12-26</td><td><a href="/hyperos/vermeer/stable/OS2.0.2.0.VNKEUXM/">Download</a></td></tr>
-<tr><td>POCO F6 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VNKTWXM</td><td>15.0</td><td>6.5 GB</td><td>2025-01-03</td><td><a href="/hyperos/vermeer/stable/OS2.0.2.0.VNKTWXM/">Download</a></td></tr>
-<tr><td>POCO F6 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VNKTWXM</td><td>15.0</td><td>8.4 GB</td><td>2024-12-26</td><td><a href="/hyperos/vermeer/stable/OS2.0.2.0.VNKTWXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UNKRUXM</td><td>14.0</td><td>6.2 GB</td><td>2024-11-26</td><td><a href="/hyperos/vermeer/stable/OS1.0.7.0.UNKRUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UNKRUXM</td><td>14.0</td><td>9.2 GB</td><td>2024-11-18</td><td><a href="/hyperos/vermeer/stable/OS1.0.7.0.UNKRUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UNKTWXM</td><td>14.0</td><td>6.2 GB</td><td>2024-11-25</td><td><a href="/hyperos/vermeer/stable/OS1.0.6.0.UNKTWXM/">Download</a></td></tr>
@@ -73,6 +72,8 @@ permalink: /archive/hyperos/vermeer/
 <tr><td>POCO F6 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UNKMIXM</td><td>14.0</td><td>9.3 GB</td><td>2024-11-18</td><td><a href="/hyperos/vermeer/stable/OS1.0.11.0.UNKMIXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UNKEUXM</td><td>14.0</td><td>6.3 GB</td><td>2024-11-21</td><td><a href="/hyperos/vermeer/stable/OS1.0.9.0.UNKEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.UNKEUXM</td><td>14.0</td><td>8.7 GB</td><td>2024-11-18</td><td><a href="/hyperos/vermeer/stable/OS1.0.9.0.UNKEUXM/">Download</a></td></tr>
+<tr><td>POCO F6 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VNKTWXM</td><td>15.0</td><td>6.5 GB</td><td>2025-01-03</td><td><a href="/hyperos/vermeer/stable/OS2.0.2.0.VNKTWXM/">Download</a></td></tr>
+<tr><td>POCO F6 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VNKTWXM</td><td>15.0</td><td>8.4 GB</td><td>2024-12-26</td><td><a href="/hyperos/vermeer/stable/OS2.0.2.0.VNKTWXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VNKMIXM</td><td>15.0</td><td>6.7 GB</td><td>2024-12-26</td><td><a href="/hyperos/vermeer/stable/OS2.0.2.0.VNKMIXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VNKMIXM</td><td>15.0</td><td>9.5 GB</td><td>2024-12-19</td><td><a href="/hyperos/vermeer/stable/OS2.0.2.0.VNKMIXM/">Download</a></td></tr>
 <tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.20.0.UNKCNXM</td><td>14.0</td><td>7.1 GB</td><td>2024-10-25</td><td><a href="/hyperos/vermeer/stable/OS1.0.20.0.UNKCNXM/">Download</a></td></tr>
@@ -85,10 +86,10 @@ permalink: /archive/hyperos/vermeer/
 <tr><td>POCO F6 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UNKTWXM</td><td>14.0</td><td>8.2 GB</td><td>2024-09-24</td><td><a href="/hyperos/vermeer/stable/OS1.0.4.0.UNKTWXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UNKRUXM</td><td>14.0</td><td>6.2 GB</td><td>2024-10-09</td><td><a href="/hyperos/vermeer/stable/OS1.0.5.0.UNKRUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UNKRUXM</td><td>14.0</td><td>9.3 GB</td><td>2024-09-24</td><td><a href="/hyperos/vermeer/stable/OS1.0.5.0.UNKRUXM/">Download</a></td></tr>
-<tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.19.0.UNKCNXM</td><td>14.0</td><td>7.1 GB</td><td>2024-09-12</td><td><a href="/hyperos/vermeer/stable/OS1.0.19.0.UNKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K70 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.19.0.UNKCNXM</td><td>14.0</td><td>9.0 GB</td><td>2024-09-05</td><td><a href="/hyperos/vermeer/stable/OS1.0.19.0.UNKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.5.0.VNKCNXM</td><td>15.0</td><td>9.5 GB</td><td>2024-11-30</td><td><a href="/hyperos/vermeer/stable/OS2.0.5.0.VNKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.VNKCNXM</td><td>15.0</td><td>7.4 GB</td><td>2024-11-30</td><td><a href="/hyperos/vermeer/stable/OS2.0.5.0.VNKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.19.0.UNKCNXM</td><td>14.0</td><td>7.1 GB</td><td>2024-09-12</td><td><a href="/hyperos/vermeer/stable/OS1.0.19.0.UNKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K70 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.19.0.UNKCNXM</td><td>14.0</td><td>9.0 GB</td><td>2024-09-05</td><td><a href="/hyperos/vermeer/stable/OS1.0.19.0.UNKCNXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UNKMIXM</td><td>14.0</td><td>6.3 GB</td><td>2024-08-20</td><td><a href="/hyperos/vermeer/stable/OS1.0.6.0.UNKMIXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UNKMIXM</td><td>14.0</td><td>9.4 GB</td><td>2024-08-08</td><td><a href="/hyperos/vermeer/stable/OS1.0.6.0.UNKMIXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UNKEUXM</td><td>14.0</td><td>6.3 GB</td><td>2024-08-20</td><td><a href="/hyperos/vermeer/stable/OS1.0.6.0.UNKEUXM/">Download</a></td></tr>
@@ -101,16 +102,16 @@ permalink: /archive/hyperos/vermeer/
 <tr><td>Redmi K70 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.18.0.UNKCNXM</td><td>14.0</td><td>8.9 GB</td><td>2024-08-01</td><td><a href="/hyperos/vermeer/stable/OS1.0.18.0.UNKCNXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UNKMIXM</td><td>14.0</td><td>6.3 GB</td><td>2024-07-15</td><td><a href="/hyperos/vermeer/stable/OS1.0.5.0.UNKMIXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UNKMIXM</td><td>14.0</td><td>9.4 GB</td><td>2024-07-04</td><td><a href="/hyperos/vermeer/stable/OS1.0.5.0.UNKMIXM/">Download</a></td></tr>
+<tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNKEUXM</td><td>14.0</td><td>6.3 GB</td><td>2024-06-27</td><td><a href="/hyperos/vermeer/stable/OS1.0.4.0.UNKEUXM/">Download</a></td></tr>
+<tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UNKEUXM</td><td>14.0</td><td>9.0 GB</td><td>2024-06-21</td><td><a href="/hyperos/vermeer/stable/OS1.0.4.0.UNKEUXM/">Download</a></td></tr>
+<tr><td>POCO F6 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNKMIXM</td><td>14.0</td><td>6.4 GB</td><td>2024-06-21</td><td><a href="/hyperos/vermeer/stable/OS1.0.4.0.UNKMIXM/">Download</a></td></tr>
+<tr><td>POCO F6 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UNKMIXM</td><td>14.0</td><td>9.4 GB</td><td>2024-06-15</td><td><a href="/hyperos/vermeer/stable/OS1.0.4.0.UNKMIXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UNKEUXM</td><td>14.0</td><td>6.3 GB</td><td>2024-07-12</td><td><a href="/hyperos/vermeer/stable/OS1.0.5.0.UNKEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UNKEUXM</td><td>14.0</td><td>9.0 GB</td><td>2024-07-04</td><td><a href="/hyperos/vermeer/stable/OS1.0.5.0.UNKEUXM/">Download</a></td></tr>
 <tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.17.0.UNKCNXM</td><td>14.0</td><td>7.0 GB</td><td>2024-07-09</td><td><a href="/hyperos/vermeer/stable/OS1.0.17.0.UNKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.17.0.UNKCNXM</td><td>14.0</td><td>8.9 GB</td><td>2024-07-04</td><td><a href="/hyperos/vermeer/stable/OS1.0.17.0.UNKCNXM/">Download</a></td></tr>
-<tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNKEUXM</td><td>14.0</td><td>6.3 GB</td><td>2024-06-27</td><td><a href="/hyperos/vermeer/stable/OS1.0.4.0.UNKEUXM/">Download</a></td></tr>
-<tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UNKEUXM</td><td>14.0</td><td>9.0 GB</td><td>2024-06-21</td><td><a href="/hyperos/vermeer/stable/OS1.0.4.0.UNKEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UNKTWXM</td><td>14.0</td><td>6.3 GB</td><td>2024-06-27</td><td><a href="/hyperos/vermeer/stable/OS1.0.2.0.UNKTWXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UNKTWXM</td><td>14.0</td><td>8.2 GB</td><td>2024-06-21</td><td><a href="/hyperos/vermeer/stable/OS1.0.2.0.UNKTWXM/">Download</a></td></tr>
-<tr><td>POCO F6 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UNKMIXM</td><td>14.0</td><td>6.4 GB</td><td>2024-06-21</td><td><a href="/hyperos/vermeer/stable/OS1.0.4.0.UNKMIXM/">Download</a></td></tr>
-<tr><td>POCO F6 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UNKMIXM</td><td>14.0</td><td>9.4 GB</td><td>2024-06-15</td><td><a href="/hyperos/vermeer/stable/OS1.0.4.0.UNKMIXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UNKRUXM</td><td>14.0</td><td>6.3 GB</td><td>2024-06-21</td><td><a href="/hyperos/vermeer/stable/OS1.0.3.0.UNKRUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UNKRUXM</td><td>14.0</td><td>9.4 GB</td><td>2024-06-15</td><td><a href="/hyperos/vermeer/stable/OS1.0.3.0.UNKRUXM/">Download</a></td></tr>
 <tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.16.0.UNKCNXM</td><td>14.0</td><td>7.0 GB</td><td>2024-05-28</td><td><a href="/hyperos/vermeer/stable/OS1.0.16.0.UNKCNXM/">Download</a></td></tr>
@@ -133,10 +134,10 @@ permalink: /archive/hyperos/vermeer/
 <tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.14.0.UNKCNXM</td><td>14.0</td><td>7.0 GB</td><td>2024-01-31</td><td><a href="/hyperos/vermeer/stable/OS1.0.14.0.UNKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.13.0.UNKCNXM</td><td>14.0</td><td>8.6 GB</td><td>2024-01-23</td><td><a href="/hyperos/vermeer/stable/OS1.0.13.0.UNKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.13.0.UNKCNXM</td><td>14.0</td><td>7.0 GB</td><td>2024-01-16</td><td><a href="/hyperos/vermeer/stable/OS1.0.13.0.UNKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K70 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UNKCNXM</td><td>14.0</td><td>8.6 GB</td><td>2024-01-06</td><td><a href="/hyperos/vermeer/stable/OS1.0.11.0.UNKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UNKCNXM</td><td>14.0</td><td>7.0 GB</td><td>2023-12-29</td><td><a href="/hyperos/vermeer/stable/OS1.0.11.0.UNKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.UNKCNXM</td><td>14.0</td><td>8.6 GB</td><td>2023-12-30</td><td><a href="/hyperos/vermeer/stable/OS1.0.9.0.UNKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UNKCNXM</td><td>14.0</td><td>7.0 GB</td><td>2023-12-23</td><td><a href="/hyperos/vermeer/stable/OS1.0.9.0.UNKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K70 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UNKCNXM</td><td>14.0</td><td>8.6 GB</td><td>2024-01-06</td><td><a href="/hyperos/vermeer/stable/OS1.0.11.0.UNKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UNKCNXM</td><td>14.0</td><td>7.0 GB</td><td>2023-12-29</td><td><a href="/hyperos/vermeer/stable/OS1.0.11.0.UNKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UNKCNXM</td><td>14.0</td><td>8.5 GB</td><td>2023-12-19</td><td><a href="/hyperos/vermeer/stable/OS1.0.8.0.UNKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UNKCNXM</td><td>14.0</td><td>7.0 GB</td><td>2023-12-15</td><td><a href="/hyperos/vermeer/stable/OS1.0.8.0.UNKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UNKCNXM</td><td>14.0</td><td>8.6 GB</td><td>2023-12-13</td><td><a href="/hyperos/vermeer/stable/OS1.0.7.0.UNKCNXM/">Download</a></td></tr>
