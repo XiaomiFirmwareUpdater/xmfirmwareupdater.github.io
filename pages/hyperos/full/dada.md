@@ -52,7 +52,8 @@ permalink: /archive/hyperos/dada/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 15 China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.105.0.VOCCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-02-07</td><td><a href="/hyperos/dada/stable beta/OS2.0.105.0.VOCCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 15 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.105.0.VOCCNXM</td><td>15.0</td><td>10.8 GB</td><td>2025-02-20</td><td><a href="/hyperos/dada/stable/OS2.0.105.0.VOCCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.105.0.VOCCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-02-07</td><td><a href="/hyperos/dada/stable/OS2.0.105.0.VOCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.104.0.VOCCNXM</td><td>15.0</td><td>7.6 GB</td><td>2025-01-21</td><td><a href="/hyperos/dada/stable beta/OS2.0.104.0.VOCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VOCCNXM</td><td>15.0</td><td>10.9 GB</td><td>2025-01-10</td><td><a href="/hyperos/dada/stable/OS2.0.101.0.VOCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.101.0.VOCCNXM</td><td>15.0</td><td>7.6 GB</td><td>2024-12-27</td><td><a href="/hyperos/dada/stable/OS2.0.101.0.VOCCNXM/">Download</a></td></tr>
