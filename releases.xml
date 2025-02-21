@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 21 Feb 2025 07:13:03 </lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 13:44:08 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.103.0.VMLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/corot/</link>
+            <pubDate>Fri, 21 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 (fuxi) - OS2.0.104.0.VMCCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
+            <pubDate>Fri, 21 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 (houji) - OS2.0.6.0.VNCINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Fri, 21 Feb 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 12S Pro (unicorn) - OS2.0.1.0.VLECNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/unicorn/</link>
@@ -392,11 +407,6 @@
             <pubDate>Sun, 09 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.102.0.VMLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Sat, 08 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Civi 3 (yuechu) - OS1.0.17.0.UMICNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/yuechu/</link>
             <pubDate>Sat, 08 Feb 2025 00:00:00 </pubDate>
@@ -559,11 +569,6 @@
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.102.0.VNLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Fri, 24 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 (fuxi) - OS2.0.100.0.VMCCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
             <pubDate>Fri, 24 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1170,11 +1175,6 @@
             <title>Redmi A4 5G/POCO C75 5G (warm) - OS1.0.7.0.UGVINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/warm/</link>
             <pubDate>Tue, 17 Dec 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 (houji) - OS2.0.4.0.VNCINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/houji/</link>
-            <pubDate>Mon, 16 Dec 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 12X (psyche) - OS1.0.8.0.TLDMIXM</title>

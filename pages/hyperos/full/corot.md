@@ -52,7 +52,8 @@ permalink: /archive/hyperos/corot/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K60 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VMLCNXM</td><td>15.0</td><td>8.7 GB</td><td>2025-02-12</td><td><a href="/hyperos/corot/stable/OS2.0.102.0.VMLCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K60 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.103.0.VMLCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-02-18</td><td><a href="/hyperos/corot/stable beta/OS2.0.103.0.VMLCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VMLCNXM</td><td>15.0</td><td>8.7 GB</td><td>2025-02-12</td><td><a href="/hyperos/corot/stable/OS2.0.102.0.VMLCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VMLCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-01-21</td><td><a href="/hyperos/corot/stable/OS2.0.102.0.VMLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.2.0.VMLRUXM</td><td>15.0</td><td>6.0 GB</td><td>2025-02-08</td><td><a href="/hyperos/corot/stable beta/OS2.0.2.0.VMLRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VMLTRXM</td><td>15.0</td><td>6.1 GB</td><td>2025-02-08</td><td><a href="/hyperos/corot/stable/OS2.0.2.0.VMLTRXM/">Download</a></td></tr>
@@ -67,10 +68,10 @@ permalink: /archive/hyperos/corot/
 <tr><td>Xiaomi 13T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.12.0.UMLRUXM</td><td>14.0</td><td>7.8 GB</td><td>2024-12-24</td><td><a href="/hyperos/corot/stable/OS1.0.12.0.UMLRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.10.0.VMLEUXM</td><td>15.0</td><td>6.2 GB</td><td>2025-01-06</td><td><a href="/hyperos/corot/stable/OS2.0.10.0.VMLEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.10.0.VMLEUXM</td><td>15.0</td><td>8.0 GB</td><td>2024-12-26</td><td><a href="/hyperos/corot/stable/OS2.0.10.0.VMLEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.6.0.VMLMIXM</td><td>15.0</td><td>6.1 GB</td><td>2025-01-04</td><td><a href="/hyperos/corot/stable/OS2.0.6.0.VMLMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.6.0.VMLMIXM</td><td>15.0</td><td>8.3 GB</td><td>2024-12-24</td><td><a href="/hyperos/corot/stable/OS2.0.6.0.VMLMIXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.4.0.VMLCNXM</td><td>15.0</td><td>6.8 GB</td><td>2024-12-25</td><td><a href="/hyperos/corot/stable/OS2.0.4.0.VMLCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.4.0.VMLCNXM</td><td>15.0</td><td>8.7 GB</td><td>2024-12-20</td><td><a href="/hyperos/corot/stable/OS2.0.4.0.VMLCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.6.0.VMLMIXM</td><td>15.0</td><td>6.1 GB</td><td>2025-01-04</td><td><a href="/hyperos/corot/stable/OS2.0.6.0.VMLMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.6.0.VMLMIXM</td><td>15.0</td><td>8.3 GB</td><td>2024-12-24</td><td><a href="/hyperos/corot/stable/OS2.0.6.0.VMLMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UMLRUXM</td><td>14.0</td><td>5.7 GB</td><td>2024-12-12</td><td><a href="/hyperos/corot/stable/OS1.0.11.0.UMLRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UMLRUXM</td><td>14.0</td><td>7.8 GB</td><td>2024-11-29</td><td><a href="/hyperos/corot/stable/OS1.0.11.0.UMLRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UMLTRXM</td><td>14.0</td><td>5.8 GB</td><td>2024-12-12</td><td><a href="/hyperos/corot/stable/OS1.0.8.0.UMLTRXM/">Download</a></td></tr>
