@@ -9156,6 +9156,12 @@
   version: OS1.0.10.0.UNXCNXM
 - android: '15.0'
   codename: sheng
+  date: '2025-02-21'
+  download: https://bigota.d.miui.com/OS2.0.100.0.VNXMIXM/fw_sheng_global_sheng_global-ota_full-OS2.0.100.0.VNXMIXM-user-15.0-d2ff39e976.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS2.0.100.0.VNXMIXM
+- android: '15.0'
+  codename: sheng
   date: '2024-12-16'
   download: https://bigota.d.miui.com/OS2.0.3.0.VNXCNXM/fw_sheng_sheng-ota_full-OS2.0.3.0.VNXCNXM-user-15.0-1c0f3fff6c.zip
   name: Xiaomi Pad 6S Pro 12.4
