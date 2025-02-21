@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 21 Feb 2025 01:02:50 </lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 07:13:03 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 12S Pro (unicorn) - OS2.0.1.0.VLECNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/unicorn/</link>
+            <pubDate>Fri, 21 Feb 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS2.0.4.0.VNREUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
@@ -1104,11 +1109,6 @@
         <item>
             <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS2.0.7.0.VNXMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
-            <pubDate>Fri, 27 Dec 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12S Pro (unicorn) - OS1.0.13.0.ULECNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/unicorn/</link>
             <pubDate>Fri, 27 Dec 2024 00:00:00 </pubDate>
         </item>
         <item>
