@@ -2509,15 +2509,15 @@
     android: '15.0'
     miui: OS2.0.2.0.VMAMIXM
 - branch: stable
-  date: '2025-01-25'
+  date: '2025-02-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-25.01.2025/fw_ishtar_ishtar-ota_full-OS2.0.100.0.VMACNXM-user-15.0-5af877fc7e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ishtar/fw_ishtar_ishtar-ota_full-OS2.0.100.0.VMACNXM-user-15.0-5af877fc7e.zip
-  filename: fw_ishtar_ishtar-ota_full-OS2.0.100.0.VMACNXM-user-15.0-5af877fc7e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-22.02.2025/fw_ishtar_ishtar-ota_full-OS2.0.102.0.VMACNXM-user-15.0-415a486721.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ishtar/fw_ishtar_ishtar-ota_full-OS2.0.102.0.VMACNXM-user-15.0-415a486721.zip
+  filename: fw_ishtar_ishtar-ota_full-OS2.0.102.0.VMACNXM-user-15.0-415a486721.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.100.0.VMACNXM
+    miui: OS2.0.102.0.VMACNXM
 - branch: stable
   date: '2025-01-20'
   downloads:
@@ -3729,15 +3729,15 @@
     android: '15.0'
     miui: OS2.0.2.0.VMBMIXM
 - branch: stable
-  date: '2025-01-24'
+  date: '2025-02-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-24.01.2025/fw_nuwa_nuwa-ota_full-OS2.0.100.0.VMBCNXM-user-15.0-632fc8251d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/nuwa/fw_nuwa_nuwa-ota_full-OS2.0.100.0.VMBCNXM-user-15.0-632fc8251d.zip
-  filename: fw_nuwa_nuwa-ota_full-OS2.0.100.0.VMBCNXM-user-15.0-632fc8251d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-22.02.2025/fw_nuwa_nuwa-ota_full-OS2.0.103.0.VMBCNXM-user-15.0-e6b2b498cd.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/nuwa/fw_nuwa_nuwa-ota_full-OS2.0.103.0.VMBCNXM-user-15.0-e6b2b498cd.zip
+  filename: fw_nuwa_nuwa-ota_full-OS2.0.103.0.VMBCNXM-user-15.0-e6b2b498cd.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.100.0.VMBCNXM
+    miui: OS2.0.103.0.VMBCNXM
 - branch: stable
   date: '2025-02-11'
   downloads:

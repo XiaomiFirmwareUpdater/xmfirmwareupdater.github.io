@@ -4666,6 +4666,12 @@
   download: https://bigota.d.miui.com/OS1.0.15.0.UMACNXM/fw_ishtar_miui_ISHTAR_OS1.0.15.0.UMACNXM_adc943f023_14.0.zip
   name: Xiaomi 13 Ultra
   version: OS1.0.15.0.UMACNXM
+- android: '15.0'
+  codename: ishtar
+  date: '2025-02-22'
+  download: https://bigota.d.miui.com/OS2.0.102.0.VMACNXM/fw_ishtar_ishtar-ota_full-OS2.0.102.0.VMACNXM-user-15.0-415a486721.zip
+  name: Xiaomi 13 Ultra
+  version: OS2.0.102.0.VMACNXM
 - android: '14.0'
   codename: ishtar
   date: '2024-09-20'
@@ -6556,6 +6562,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UMBINXM/fw_nuwa_miui_NUWAINGlobal_OS1.0.7.0.UMBINXM_c5ff558276_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.7.0.UMBINXM
+- android: '15.0'
+  codename: nuwa
+  date: '2025-02-22'
+  download: https://bigota.d.miui.com/OS2.0.103.0.VMBCNXM/fw_nuwa_nuwa-ota_full-OS2.0.103.0.VMBCNXM-user-15.0-e6b2b498cd.zip
+  name: Xiaomi 13 Pro
+  version: OS2.0.103.0.VMBCNXM
 - android: '14.0'
   codename: nuwa
   date: '2024-08-21'
