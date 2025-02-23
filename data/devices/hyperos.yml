@@ -6378,6 +6378,12 @@
   version: OS2.0.1.0.VOYCNXM
 - android: '15.0'
   codename: muyu
+  date: '2025-02-23'
+  download: https://bigota.d.miui.com/OS2.0.104.0.VOYCNXM/fw_muyu_muyu-ota_full-OS2.0.104.0.VOYCNXM-user-15.0-eb335d19db.zip
+  name: Xiaomi Pad 7 Pro
+  version: OS2.0.104.0.VOYCNXM
+- android: '15.0'
+  codename: muyu
   date: '2025-01-20'
   download: https://bigota.d.miui.com/OS2.0.102.0.VOYCNXM/fw_muyu_muyu-ota_full-OS2.0.102.0.VOYCNXM-user-15.0-865e739d4e.zip
   name: Xiaomi Pad 7 Pro
