@@ -10572,6 +10572,12 @@
   version: OS2.0.7.0.VOZCNXM
 - android: '15.0'
   codename: uke
+  date: '2025-02-24'
+  download: https://bigota.d.miui.com/OS2.0.102.0.VOZCNXM/fw_uke_uke-ota_full-OS2.0.102.0.VOZCNXM-user-15.0-dd52eb80d7.zip
+  name: Xiaomi Pad 7
+  version: OS2.0.102.0.VOZCNXM
+- android: '15.0'
+  codename: uke
   date: '2025-01-19'
   download: https://bigota.d.miui.com/OS2.0.100.0.VOZCNXM/fw_uke_uke-ota_full-OS2.0.100.0.VOZCNXM-user-15.0-c2816e4ff3.zip
   name: Xiaomi Pad 7
@@ -12244,6 +12250,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UNOEUXM/fw_zircon_miui_ZIRCONEEAGlobal_OS1.0.2.0.UNOEUXM_dd2d069c0d_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.2.0.UNOEUXM
+- android: '15.0'
+  codename: zircon
+  date: '2025-02-24'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VNOCNXM/fw_zircon_zircon-ota_full-OS2.0.3.0.VNOCNXM-user-15.0-1ef6ea7bf8.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS2.0.3.0.VNOCNXM
 - android: '14.0'
   codename: zircon
   date: '2024-07-22'
