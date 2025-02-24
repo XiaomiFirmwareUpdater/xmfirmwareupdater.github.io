@@ -52,7 +52,8 @@ permalink: /archive/hyperos/light/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 10 5G / POCO M4 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.ULSEUXM</td><td>14.0</td><td>3.9 GB</td><td>2024-11-19</td><td><a href="/hyperos/light/stable/OS1.0.6.0.ULSEUXM/">Download</a></td></tr>
+                <tr><td>Redmi 10 5G / POCO M4 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.ULSEUXM</td><td>14.0</td><td>3.9 GB</td><td>2025-02-19</td><td><a href="/hyperos/light/stable beta/OS1.0.7.0.ULSEUXM/">Download</a></td></tr>
+<tr><td>Redmi 10 5G / POCO M4 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.ULSEUXM</td><td>14.0</td><td>3.9 GB</td><td>2024-11-19</td><td><a href="/hyperos/light/stable/OS1.0.6.0.ULSEUXM/">Download</a></td></tr>
 <tr><td>Redmi 10 5G / POCO M4 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.ULSEUXM</td><td>14.0</td><td>5.7 GB</td><td>2024-11-12</td><td><a href="/hyperos/light/stable/OS1.0.6.0.ULSEUXM/">Download</a></td></tr>
 <tr><td>Redmi 10 5G / POCO M4 5G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.ULSMIXM</td><td>14.0</td><td>3.9 GB</td><td>2024-11-11</td><td><a href="/hyperos/light/stable/OS1.0.7.0.ULSMIXM/">Download</a></td></tr>
 <tr><td>Redmi 10 5G / POCO M4 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.ULSMIXM</td><td>14.0</td><td>6.1 GB</td><td>2024-10-24</td><td><a href="/hyperos/light/stable/OS1.0.7.0.ULSMIXM/">Download</a></td></tr>
@@ -92,8 +93,8 @@ permalink: /archive/hyperos/light/
 <tr><td>Redmi 10 5G / POCO M4 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.ULSRUXM</td><td>14.0</td><td>3.8 GB</td><td>2024-03-25</td><td><a href="/hyperos/light/stable/OS1.0.1.0.ULSRUXM/">Download</a></td></tr>
 <tr><td>Redmi 10 5G / POCO M4 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.ULSTRXM</td><td>14.0</td><td>5.7 GB</td><td>2024-02-29</td><td><a href="/hyperos/light/stable/OS1.0.1.0.ULSTRXM/">Download</a></td></tr>
 <tr><td>Redmi 10 5G / POCO M4 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.ULSTRXM</td><td>14.0</td><td>3.9 GB</td><td>2024-03-25</td><td><a href="/hyperos/light/stable/OS1.0.1.0.ULSTRXM/">Download</a></td></tr>
-<tr><td>Redmi 10 5G / POCO M4 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.ULSTWXM</td><td>14.0</td><td>5.4 GB</td><td>2024-02-20</td><td><a href="/hyperos/light/stable/OS1.0.1.0.ULSTWXM/">Download</a></td></tr>
 <tr><td>Redmi 10 5G / POCO M4 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.ULSTWXM</td><td>14.0</td><td>3.8 GB</td><td>2024-03-01</td><td><a href="/hyperos/light/stable/OS1.0.1.0.ULSTWXM/">Download</a></td></tr>
+<tr><td>Redmi 10 5G / POCO M4 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.ULSTWXM</td><td>14.0</td><td>5.4 GB</td><td>2024-02-20</td><td><a href="/hyperos/light/stable/OS1.0.1.0.ULSTWXM/">Download</a></td></tr>
 <tr><td>Redmi 10 5G / POCO M4 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.ULSIDXM</td><td>14.0</td><td>3.9 GB</td><td>2024-02-29</td><td><a href="/hyperos/light/stable/OS1.0.1.0.ULSIDXM/">Download</a></td></tr>
 <tr><td>Redmi 10 5G / POCO M4 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.ULSIDXM</td><td>14.0</td><td>5.7 GB</td><td>2024-02-20</td><td><a href="/hyperos/light/stable/OS1.0.1.0.ULSIDXM/">Download</a></td></tr>
 <tr><td>Redmi 10 5G / POCO M4 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULSEUXM</td><td>14.0</td><td>3.9 GB</td><td>2024-02-22</td><td><a href="/hyperos/light/stable/OS1.0.2.0.ULSEUXM/">Download</a></td></tr>

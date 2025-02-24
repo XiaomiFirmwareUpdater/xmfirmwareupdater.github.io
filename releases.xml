@@ -4,8 +4,28 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 24 Feb 2025 01:02:16 </lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 08:02:13 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - OS1.0.7.0.ULSEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/light/</link>
+            <pubDate>Mon, 24 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad Pro 5G/POCO Pad 5G (ruan) - OS2.0.3.0.VFSEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ruan/</link>
+            <pubDate>Mon, 24 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 4G NFC (topaz) - OS2.0.9.0.VMGMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/topaz/</link>
+            <pubDate>Mon, 24 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS2.0.4.0.VLLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
+            <pubDate>Mon, 24 Feb 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi Pad 7 Pro (muyu) - OS2.0.104.0.VOYCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
@@ -252,11 +272,6 @@
             <pubDate>Fri, 14 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad Pro 5G/POCO Pad 5G (ruan) - OS1.0.10.0.UFSEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ruan/</link>
-            <pubDate>Fri, 14 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.13.0.UMOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Fri, 14 Feb 2025 00:00:00 </pubDate>
@@ -499,11 +514,6 @@
         <item>
             <title>Xiaomi 12S Ultra (thor) - OS2.0.1.0.VLACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/thor/</link>
-            <pubDate>Thu, 06 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS1.0.14.0.ULLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Thu, 06 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1062,11 +1072,6 @@
             <pubDate>Thu, 02 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 4G NFC (topaz) - OS2.0.8.0.VMGMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/topaz/</link>
-            <pubDate>Wed, 01 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 14T (degas) - OS2.0.2.0.VNEMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/degas/</link>
             <pubDate>Tue, 31 Dec 2024 00:00:00 </pubDate>
@@ -1270,11 +1275,6 @@
             <title>Redmi Pad SE 8.7 4G (spark) - OS1.0.6.0.UHYEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spark/</link>
             <pubDate>Wed, 27 Nov 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - OS1.0.6.0.ULSEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/light/</link>
-            <pubDate>Fri, 22 Nov 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 10C (fog) - V14.0.9.0.TGEEUXM</title>

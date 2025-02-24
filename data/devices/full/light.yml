@@ -149,6 +149,16 @@
     android: '14.0'
     miui: OS1.0.3.0.ULSINXM
 - branch: stable
+  date: '2025-02-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-24.02.2025/fw_light_miui_LIGHTEEAGlobal_OS1.0.7.0.ULSEUXM_d0cf7a0ba2_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/light/fw_light_miui_LIGHTEEAGlobal_OS1.0.7.0.ULSEUXM_d0cf7a0ba2_14.0.zip
+  filename: fw_light_miui_LIGHTEEAGlobal_OS1.0.7.0.ULSEUXM_d0cf7a0ba2_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.7.0.ULSEUXM
+- branch: stable
   date: '2023-07-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-23.07.2023/fw_light_miui_LIGHTGlobal_V14.0.4.0.TLSMIXM_c8b1d47ee5_13.0.zip

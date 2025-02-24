@@ -4866,6 +4866,12 @@
   version: OS1.0.3.0.ULSINXM
 - android: '14.0'
   codename: light
+  date: '2025-02-24'
+  download: https://bigota.d.miui.com/OS1.0.7.0.ULSEUXM/fw_light_miui_LIGHTEEAGlobal_OS1.0.7.0.ULSEUXM_d0cf7a0ba2_14.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: OS1.0.7.0.ULSEUXM
+- android: '14.0'
+  codename: light
   date: '2024-11-22'
   download: https://bigota.d.miui.com/OS1.0.6.0.ULSEUXM/fw_light_miui_LIGHTEEAGlobal_OS1.0.6.0.ULSEUXM_12ce21789f_14.0.zip
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
@@ -8236,6 +8242,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UFSCNXM/fw_ruan_miui_RUAN_OS1.0.6.0.UFSCNXM_880cc8d4ec_14.0.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS1.0.6.0.UFSCNXM
+- android: '15.0'
+  codename: ruan
+  date: '2025-02-24'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VFSEUXM/fw_ruan_eea_global_ruan_eea_global-ota_full-OS2.0.3.0.VFSEUXM-user-15.0-0be2936fb1.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS2.0.3.0.VFSEUXM
 - android: '14.0'
   codename: ruan
   date: '2024-08-23'
@@ -10408,6 +10420,12 @@
   download: https://bigota.d.miui.com/OS1.0.11.0.UMGEUXM/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.11.0.UMGEUXM_6752cd711a_14.0.zip
   name: Redmi Note 12 4G NFC
   version: OS1.0.11.0.UMGEUXM
+- android: '15.0'
+  codename: topaz
+  date: '2025-02-24'
+  download: https://bigota.d.miui.com/OS2.0.9.0.VMGMIXM/fw_topaz_global_topaz_global-ota_full-OS2.0.9.0.VMGMIXM-user-15.0-a475abe4ad.zip
+  name: Redmi Note 12 4G NFC
+  version: OS2.0.9.0.VMGMIXM
 - android: '14.0'
   codename: topaz
   date: '2024-12-22'
@@ -12406,6 +12424,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.ULLEUXM/fw_ziyi_miui_ZIYIEEAGlobal_OS1.0.6.0.ULLEUXM_a1eaba7c5e_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.6.0.ULLEUXM
+- android: '15.0'
+  codename: ziyi
+  date: '2025-02-24'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VLLCNXM/fw_ziyi_ziyi-ota_full-OS2.0.4.0.VLLCNXM-user-15.0-f8c1b935f4.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS2.0.4.0.VLLCNXM
 - android: '14.0'
   codename: ziyi
   date: '2024-07-23'
