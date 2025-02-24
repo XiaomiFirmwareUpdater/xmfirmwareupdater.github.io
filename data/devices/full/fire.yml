@@ -119,6 +119,16 @@
     android: '14.0'
     miui: OS1.0.8.0.UMXEUXM
 - branch: stable
+  date: '2025-02-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-24.02.2025/fw_fire_eea_global_fire_eea_global-ota_full-OS2.0.4.0.VMXEUXM-user-15.0-0b196c9052.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/fire/fw_fire_eea_global_fire_eea_global-ota_full-OS2.0.4.0.VMXEUXM-user-15.0-0b196c9052.zip
+  filename: fw_fire_eea_global_fire_eea_global-ota_full-OS2.0.4.0.VMXEUXM-user-15.0-0b196c9052.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.4.0.VMXEUXM
+- branch: stable
   date: '2024-08-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-23.08.2024/fw_fire_miui_FIREEEAGlobal_OS1.0.9.0.UMXEUXM_b8a3ce053e_14.0.zip

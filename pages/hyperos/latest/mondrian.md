@@ -66,6 +66,8 @@ permalink: /hyperos/mondrian/
 <tr><td>POCO F5 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UMNTRXM</td><td>14.0</td><td>5.0 GB</td><td>2025-01-06</td><td><a href="/hyperos/mondrian/stable/OS1.0.11.0.UMNTRXM/">Download</a></td></tr>
 <tr><td>POCO F5 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UMNTWXM</td><td>14.0</td><td>6.6 GB</td><td>2024-12-18</td><td><a href="/hyperos/mondrian/stable/OS1.0.11.0.UMNTWXM/">Download</a></td></tr>
 <tr><td>POCO F5 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UMNTWXM</td><td>14.0</td><td>5.0 GB</td><td>2025-01-06</td><td><a href="/hyperos/mondrian/stable/OS1.0.11.0.UMNTWXM/">Download</a></td></tr>
+<tr><td>POCO F5 Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.VMNTRXM</td><td>15.0</td><td>5.4 GB</td><td>2025-02-19</td><td><a href="/hyperos/mondrian/stable beta/OS2.0.1.0.VMNTRXM/">Download</a></td></tr>
+<tr><td>POCO F5 Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.VMNTWXM</td><td>15.0</td><td>5.3 GB</td><td>2025-02-19</td><td><a href="/hyperos/mondrian/stable beta/OS2.0.1.0.VMNTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

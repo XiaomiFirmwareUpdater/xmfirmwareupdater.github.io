@@ -70,6 +70,7 @@ permalink: /hyperos/xun/
 <tr><td>Redmi Pad SE Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UMUTRXM</td><td>14.0</td><td>4.1 GB</td><td>2024-12-13</td><td><a href="/hyperos/xun/stable/OS1.0.2.0.UMUTRXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMUTWXM</td><td>14.0</td><td>5.0 GB</td><td>2024-10-25</td><td><a href="/hyperos/xun/stable/OS1.0.4.0.UMUTWXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMUTWXM</td><td>14.0</td><td>4.0 GB</td><td>2024-11-22</td><td><a href="/hyperos/xun/stable/OS1.0.4.0.UMUTWXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.VMUTWXM</td><td>15.0</td><td>4.3 GB</td><td>2025-02-21</td><td><a href="/hyperos/xun/stable beta/OS2.0.1.0.VMUTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
