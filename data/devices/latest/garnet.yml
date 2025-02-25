@@ -1,23 +1,23 @@
 - branch: stable
-  date: '2025-01-22'
+  date: '2025-02-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-22.01.2025/fw_garnet_global_garnet_global-ota_full-OS2.0.2.0.VNRMIXM-user-15.0-fe24c4430f.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/garnet/fw_garnet_global_garnet_global-ota_full-OS2.0.2.0.VNRMIXM-user-15.0-fe24c4430f.zip
-  filename: fw_garnet_global_garnet_global-ota_full-OS2.0.2.0.VNRMIXM-user-15.0-fe24c4430f.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-25.02.2025/fw_garnet_global_garnet_global-ota_full-OS2.0.4.0.VNRMIXM-user-15.0-4432530127.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/garnet/fw_garnet_global_garnet_global-ota_full-OS2.0.4.0.VNRMIXM-user-15.0-4432530127.zip
+  filename: fw_garnet_global_garnet_global-ota_full-OS2.0.4.0.VNRMIXM-user-15.0-4432530127.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.2.0.VNRMIXM
+    miui: OS2.0.4.0.VNRMIXM
 - branch: stable
-  date: '2024-12-31'
+  date: '2025-02-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-31.12.2024/fw_garnet_miui_GARNET_OS1.0.16.0.UNRCNXM_a11124aa5b_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/garnet/fw_garnet_miui_GARNET_OS1.0.16.0.UNRCNXM_a11124aa5b_14.0.zip
-  filename: fw_garnet_miui_GARNET_OS1.0.16.0.UNRCNXM_a11124aa5b_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-25.02.2025/fw_garnet_garnet-ota_full-OS2.0.4.0.VNRCNXM-user-15.0-84ad36dbab.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/garnet/fw_garnet_garnet-ota_full-OS2.0.4.0.VNRCNXM-user-15.0-84ad36dbab.zip
+  filename: fw_garnet_garnet-ota_full-OS2.0.4.0.VNRCNXM-user-15.0-84ad36dbab.zip
   region: China
   versions:
-    android: '14.0'
-    miui: OS1.0.16.0.UNRCNXM
+    android: '15.0'
+    miui: OS2.0.4.0.VNRCNXM
 - branch: stable
   date: '2025-02-20'
   downloads:

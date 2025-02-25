@@ -52,9 +52,8 @@ permalink: /hyperos/pearl/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12T Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.ULHCNXM</td><td>14.0</td><td>7.5 GB</td><td>2025-01-07</td><td><a href="/hyperos/pearl/stable/OS1.0.10.0.ULHCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12T Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.ULHCNXM</td><td>14.0</td><td>6.0 GB</td><td>2025-01-14</td><td><a href="/hyperos/pearl/stable/OS1.0.10.0.ULHCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12T Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.11.0.ULHCNXM</td><td>14.0</td><td>6.0 GB</td><td>2025-02-10</td><td><a href="/hyperos/pearl/stable beta/OS1.0.11.0.ULHCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12T Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.ULHCNXM</td><td>14.0</td><td>7.4 GB</td><td>2025-01-20</td><td><a href="/hyperos/pearl/stable/OS1.0.11.0.ULHCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12T Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.ULHCNXM</td><td>14.0</td><td>6.0 GB</td><td>2025-02-10</td><td><a href="/hyperos/pearl/stable/OS1.0.11.0.ULHCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

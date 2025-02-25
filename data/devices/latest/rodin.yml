@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-02-07'
+  date: '2025-02-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-07.02.2025/fw_rodin_global_rodin_global-ota_full-OS2.0.9.0.VOJMIXM-user-15.0-d077b00098.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rodin/fw_rodin_global_rodin_global-ota_full-OS2.0.9.0.VOJMIXM-user-15.0-d077b00098.zip
-  filename: fw_rodin_global_rodin_global-ota_full-OS2.0.9.0.VOJMIXM-user-15.0-d077b00098.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-25.02.2025/fw_rodin_global_rodin_global-ota_full-OS2.0.10.0.VOJMIXM-user-15.0-eed6f9b94d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rodin/fw_rodin_global_rodin_global-ota_full-OS2.0.10.0.VOJMIXM-user-15.0-eed6f9b94d.zip
+  filename: fw_rodin_global_rodin_global-ota_full-OS2.0.10.0.VOJMIXM-user-15.0-eed6f9b94d.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.9.0.VOJMIXM
+    miui: OS2.0.10.0.VOJMIXM
 - branch: stable
   date: '2025-02-14'
   downloads:
