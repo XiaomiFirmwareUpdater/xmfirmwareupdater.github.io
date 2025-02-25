@@ -2479,15 +2479,15 @@
     android: '14.0'
     miui: OS1.0.10.0.ULJMIXM
 - branch: stable
-  date: '2025-01-10'
+  date: '2025-02-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-10.01.2025/fw_ingres_miui_INGRES_OS1.0.9.0.ULJCNXM_00a206f2bb_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ingres/fw_ingres_miui_INGRES_OS1.0.9.0.ULJCNXM_00a206f2bb_14.0.zip
-  filename: fw_ingres_miui_INGRES_OS1.0.9.0.ULJCNXM_00a206f2bb_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-25.02.2025/fw_ingres_miui_INGRES_OS1.0.10.0.ULJCNXM_61afddff6b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ingres/fw_ingres_miui_INGRES_OS1.0.10.0.ULJCNXM_61afddff6b_14.0.zip
+  filename: fw_ingres_miui_INGRES_OS1.0.10.0.ULJCNXM_61afddff6b_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS1.0.9.0.ULJCNXM
+    miui: OS1.0.10.0.ULJCNXM
 - branch: stable
   date: '2025-02-14'
   downloads:
@@ -2659,11 +2659,11 @@
     android: '6.0'
     miui: 8.11.22
 - branch: stable
-  date: '2025-02-24'
+  date: '2025-02-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klein/releases/download/stable-24.02.2025/fw_kle_miui_KLEINGlobal_V816.0.3.0.VGSMIXM_9864f461ef_15.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V816/klein/fw_kle_miui_KLEINGlobal_V816.0.3.0.VGSMIXM_9864f461ef_15.0.zip
-  filename: fw_kle_miui_KLEINGlobal_V816.0.3.0.VGSMIXM_9864f461ef_15.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klein/releases/download/stable-24.02.2025/fw_klein_miui_KLEINGlobal_V816.0.3.0.VGSMIXM_9864f461ef_15.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V816/klein/fw_klein_miui_KLEINGlobal_V816.0.3.0.VGSMIXM_9864f461ef_15.0.zip
+  filename: fw_klein_miui_KLEINGlobal_V816.0.3.0.VGSMIXM_9864f461ef_15.0.zip
   region: Global
   versions:
     android: '15.0'

@@ -39,6 +39,16 @@
     android: '14.0'
     miui: OS1.0.3.0.ULJMIXM
 - branch: stable
+  date: '2025-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-25.02.2025/fw_ingres_miui_INGRES_OS1.0.10.0.ULJCNXM_61afddff6b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ingres/fw_ingres_miui_INGRES_OS1.0.10.0.ULJCNXM_61afddff6b_14.0.zip
+  filename: fw_ingres_miui_INGRES_OS1.0.10.0.ULJCNXM_61afddff6b_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.10.0.ULJCNXM
+- branch: stable
   date: '2023-01-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-25.01.2023/fw_ingres_miui_INGRESGlobal_V14.0.1.0.TLJMIXM_3620095d7a_13.0.zip
