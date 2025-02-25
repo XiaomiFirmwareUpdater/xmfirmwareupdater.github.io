@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 25 Feb 2025 13:13:39 </lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 19:45:29 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 14T (degas) - OS2.0.3.0.VNEMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/degas/</link>
+            <pubDate>Tue, 25 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 12C/POCO C55 (earth) - OS1.0.8.0.UCVEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/earth/</link>
             <pubDate>Tue, 25 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -37,6 +42,11 @@
             <pubDate>Tue, 25 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>POCO X5 5G (moonstone) - OS1.0.14.0.UMPMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/moonstone/</link>
+            <pubDate>Tue, 25 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Xiaomi 13 Pro (nuwa) - OS2.0.101.0.VMBEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Tue, 25 Feb 2025 00:00:00 </pubDate>
@@ -54,6 +64,11 @@
         <item>
             <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - OS1.0.11.0.UKAMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/star/</link>
+            <pubDate>Tue, 25 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS1.0.10.0.UMQMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Tue, 25 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -872,11 +887,6 @@
             <pubDate>Fri, 17 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>POCO X5 5G (moonstone) - OS1.0.13.0.UMPMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/moonstone/</link>
-            <pubDate>Fri, 17 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>POCO X5 5G (moonstone) - OS1.0.11.0.UMPEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moonstone/</link>
             <pubDate>Fri, 17 Jan 2025 00:00:00 </pubDate>
@@ -1057,11 +1067,6 @@
             <pubDate>Mon, 06 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 12C/POCO C55 (earth) - OS1.0.7.0.UCVEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Mon, 06 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.8.0.UCVINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/earth/</link>
             <pubDate>Mon, 06 Jan 2025 00:00:00 </pubDate>
@@ -1104,11 +1109,6 @@
         <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS2.0.3.0.VMWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sky/</link>
-            <pubDate>Mon, 30 Dec 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS1.0.9.0.UMQMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Mon, 30 Dec 2024 00:00:00 </pubDate>
         </item>
         <item>
