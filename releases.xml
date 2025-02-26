@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 26 Feb 2025 14:10:35 </lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 20:14:48 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.11.0.VMLEUXM</title>
@@ -22,8 +22,23 @@
             <pubDate>Wed, 26 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS1.0.15.0.UKOEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
+            <pubDate>Wed, 26 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.13.0.VOJEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
+            <pubDate>Wed, 26 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 13 (sapphire) - OS2.0.8.0.VNGMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sapphire/</link>
+            <pubDate>Wed, 26 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 11 (venus) - OS1.0.12.0.UKBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/venus/</link>
             <pubDate>Wed, 26 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -522,11 +537,6 @@
             <pubDate>Tue, 11 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.11.0.VOJEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
-            <pubDate>Tue, 11 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.1.0.VNOINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Tue, 11 Feb 2025 00:00:00 </pubDate>
@@ -669,11 +679,6 @@
         <item>
             <title>Xiaomi 14 (houji) - OS2.0.8.0.VNCMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/houji/</link>
-            <pubDate>Wed, 05 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS1.0.12.0.UKOEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
             <pubDate>Wed, 05 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1044,11 +1049,6 @@
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS2.0.3.0.VMNCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
-            <pubDate>Tue, 07 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 (venus) - OS1.0.11.0.UKBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/venus/</link>
             <pubDate>Tue, 07 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>

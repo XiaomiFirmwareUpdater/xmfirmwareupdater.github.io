@@ -5064,6 +5064,12 @@
   version: OS1.0.10.0.UKOMIXM
 - android: '14.0'
   codename: lisa
+  date: '2025-02-26'
+  download: https://bigota.d.miui.com/OS1.0.15.0.UKOEUXM/fw_lisa_miui_LISAEEAGlobal_OS1.0.15.0.UKOEUXM_e646642cc3_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.15.0.UKOEUXM
+- android: '14.0'
+  codename: lisa
   date: '2024-06-25'
   download: https://bigota.d.miui.com/OS1.0.5.0.UKOEUXM/fw_lisa_miui_LISAEEAGlobal_OS1.0.5.0.UKOEUXM_ab63f51caf_14.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
@@ -8154,6 +8160,12 @@
   version: OS1.0.2.0.ULUEUXM
 - android: '15.0'
   codename: rodin
+  date: '2025-02-26'
+  download: https://bigota.d.miui.com/OS2.0.13.0.VOJEUXM/fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.13.0.VOJEUXM-user-15.0-ae03c09391.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.13.0.VOJEUXM
+- android: '15.0'
+  codename: rodin
   date: '2025-02-25'
   download: https://bigota.d.miui.com/OS2.0.10.0.VOJMIXM/fw_rodin_global_rodin_global-ota_full-OS2.0.10.0.VOJMIXM-user-15.0-eed6f9b94d.zip
   name: Redmi Turbo 4/POCO X7 Pro
@@ -10792,6 +10804,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UKBEUXM/fw_venus_miui_VENUSEEAGlobal_OS1.0.3.0.UKBEUXM_1f68647b70_14.0.zip
   name: Mi 11
   version: OS1.0.3.0.UKBEUXM
+- android: '14.0'
+  codename: venus
+  date: '2025-02-26'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UKBCNXM/fw_venus_miui_VENUS_OS1.0.12.0.UKBCNXM_77aa77ab20_14.0.zip
+  name: Mi 11
+  version: OS1.0.12.0.UKBCNXM
 - android: '14.0'
   codename: venus
   date: '2024-04-22'
