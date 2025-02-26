@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 26 Feb 2025 20:14:48 </lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 01:25:41 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.11.0.VMLEUXM</title>
@@ -39,6 +39,11 @@
         <item>
             <title>Mi 11 (venus) - OS1.0.12.0.UKBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/venus/</link>
+            <pubDate>Wed, 26 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.4.0.VNOEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Wed, 26 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -775,11 +780,6 @@
             <title>Redmi K70 Pro (manet) - OS2.0.101.0.VNMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/manet/</link>
             <pubDate>Wed, 22 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.3.0.VNOEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
-            <pubDate>Tue, 21 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 11T (agate) - OS1.0.11.0.UKWMIXM</title>

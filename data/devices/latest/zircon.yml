@@ -19,15 +19,15 @@
     android: '15.0'
     miui: OS2.0.3.0.VNOCNXM
 - branch: stable
-  date: '2025-01-21'
+  date: '2025-02-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-21.01.2025/fw_zircon_eea_global_zircon_eea_global-ota_full-OS2.0.3.0.VNOEUXM-user-15.0-f80bcf99c1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zircon/fw_zircon_eea_global_zircon_eea_global-ota_full-OS2.0.3.0.VNOEUXM-user-15.0-f80bcf99c1.zip
-  filename: fw_zircon_eea_global_zircon_eea_global-ota_full-OS2.0.3.0.VNOEUXM-user-15.0-f80bcf99c1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-27.02.2025/fw_zircon_eea_global_zircon_eea_global-ota_full-OS2.0.4.0.VNOEUXM-user-15.0-7d6a99b3a8.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zircon/fw_zircon_eea_global_zircon_eea_global-ota_full-OS2.0.4.0.VNOEUXM-user-15.0-7d6a99b3a8.zip
+  filename: fw_zircon_eea_global_zircon_eea_global-ota_full-OS2.0.4.0.VNOEUXM-user-15.0-7d6a99b3a8.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.3.0.VNOEUXM
+    miui: OS2.0.4.0.VNOEUXM
 - branch: stable
   date: '2025-02-11'
   downloads:
