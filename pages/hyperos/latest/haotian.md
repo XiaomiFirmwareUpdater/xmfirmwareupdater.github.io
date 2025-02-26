@@ -54,7 +54,7 @@ permalink: /hyperos/haotian/
                 <tbody>
                 <tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.105.0.VOBCNXM</td><td>15.0</td><td>10.9 GB</td><td>2025-02-17</td><td><a href="/hyperos/haotian/stable/OS2.0.105.0.VOBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.105.0.VOBCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-02-07</td><td><a href="/hyperos/haotian/stable/OS2.0.105.0.VOBCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.104.0.VOBCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-01-21</td><td><a href="/hyperos/haotian/stable beta/OS2.0.104.0.VOBCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.107.0.VOBCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-02-20</td><td><a href="/hyperos/haotian/stable beta/OS2.0.107.0.VOBCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

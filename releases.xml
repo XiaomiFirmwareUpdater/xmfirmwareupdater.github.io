@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 26 Feb 2025 01:04:08 </lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 07:17:12 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 15 Pro (haotian) - OS2.0.107.0.VOBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/haotian/</link>
+            <pubDate>Wed, 26 Feb 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 14T (degas) - OS2.0.3.0.VNEMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/degas/</link>
@@ -375,11 +380,6 @@
             <title>Redmi 12 (fire) - OS2.0.4.0.VMXMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fire/</link>
             <pubDate>Sat, 15 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 Pro (haotian) - OS2.0.105.0.VOBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/haotian/</link>
-            <pubDate>Fri, 14 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K50G/POCO F4 GT (ingres) - OS1.0.10.0.ULJMIXM</title>
