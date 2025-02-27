@@ -12,6 +12,12 @@
   version: OS1.0.8.0.UKWMIXM
 - android: '14.0'
   codename: agate
+  date: '2025-02-27'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UKWMIXM/fw_agate_miui_AGATEGlobal_OS1.0.12.0.UKWMIXM_7cc2084312_14.0.zip
+  name: Xiaomi 11T
+  version: OS1.0.12.0.UKWMIXM
+- android: '14.0'
+  codename: agate
   date: '2025-01-26'
   download: https://bigota.d.miui.com/OS1.0.10.0.UKWEUXM/fw_agate_miui_AGATEEEAGlobal_OS1.0.10.0.UKWEUXM_6e09feeec4_14.0.zip
   name: Xiaomi 11T
@@ -5308,6 +5314,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UOOCNXM/fw_malachite_miui_MALACHITE_OS1.0.10.0.UOOCNXM_ebaec547a8_14.0.zip
   name: Redmi Note 14 Pro 5G/POCO X7
   version: OS1.0.10.0.UOOCNXM
+- android: '14.0'
+  codename: malachite
+  date: '2025-02-27'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UOOCNXM/fw_malachite_miui_MALACHITE_OS1.0.12.0.UOOCNXM_a4d3a5a2ae_14.0.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS1.0.12.0.UOOCNXM
 - android: '14.0'
   codename: malachite
   date: '2025-01-23'
