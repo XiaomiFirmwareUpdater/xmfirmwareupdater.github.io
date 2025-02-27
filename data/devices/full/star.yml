@@ -409,6 +409,16 @@
     android: '13.0'
     miui: V14.0.1.0.TKAINXM
 - branch: stable
+  date: '2025-02-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-27.02.2025/fw_star_miui_STAR_OS1.0.13.0.UKACNXM_b7ceb79cd7_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/star/fw_star_miui_STAR_OS1.0.13.0.UKACNXM_b7ceb79cd7_14.0.zip
+  filename: fw_star_miui_STAR_OS1.0.13.0.UKACNXM_b7ceb79cd7_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.13.0.UKACNXM
+- branch: stable
   date: '2021-09-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-26.09.2021/fw_star_miui_STAREEAGlobal_V12.5.8.0.RKAEUXM_65d4d2bc59_11.0.zip

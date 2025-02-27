@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 27 Feb 2025 07:22:17 </lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 13:59:54 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 11T (agate) - OS1.0.12.0.UKWMIXM</title>
@@ -12,8 +12,33 @@
             <pubDate>Thu, 27 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 11T (agate) - OS1.0.11.0.UKWEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/agate/</link>
+            <pubDate>Thu, 27 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro Dimensity (daumier) - OS1.0.16.0.ULGCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/daumier/</link>
+            <pubDate>Thu, 27 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS1.0.12.0.UOOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
+            <pubDate>Thu, 27 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K60/POCO F5 Pro (mondrian) - OS2.0.5.0.VMNCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
+            <pubDate>Thu, 27 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.102.0.VNPCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
+            <pubDate>Thu, 27 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - OS1.0.13.0.UKACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/star/</link>
             <pubDate>Thu, 27 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -642,11 +667,6 @@
             <pubDate>Thu, 06 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.101.0.VNPCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
-            <pubDate>Thu, 06 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.2.0.VNPEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
             <pubDate>Thu, 06 Feb 2025 00:00:00 </pubDate>
@@ -720,11 +740,6 @@
             <title>Redmi Pad SE (xun) - OS2.0.1.0.VMUMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xun/</link>
             <pubDate>Wed, 05 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 11T (agate) - OS1.0.10.0.UKWEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/agate/</link>
-            <pubDate>Sun, 26 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12S (sea) - OS1.0.13.0.UHZEUXM</title>
@@ -1047,11 +1062,6 @@
             <pubDate>Wed, 08 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K60/POCO F5 Pro (mondrian) - OS2.0.3.0.VMNCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
-            <pubDate>Tue, 07 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Mi 11 (venus) - OS1.0.12.0.UKBEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/venus/</link>
             <pubDate>Tue, 07 Jan 2025 00:00:00 </pubDate>
@@ -1059,11 +1069,6 @@
         <item>
             <title>Xiaomi 13T (aristotle) - OS2.0.2.0.VMFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
-            <pubDate>Mon, 06 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Pro Dimensity (daumier) - OS1.0.14.0.ULGCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/daumier/</link>
             <pubDate>Mon, 06 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1220,11 +1225,6 @@
             <title>Xiaomi 11T Pro (vili) - OS1.0.8.0.UKDINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vili/</link>
             <pubDate>Mon, 16 Dec 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - OS1.0.8.0.UKACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/star/</link>
-            <pubDate>Thu, 12 Dec 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.5.0.UCVCNXM</title>

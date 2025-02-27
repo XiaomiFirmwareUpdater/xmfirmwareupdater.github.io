@@ -91,6 +91,16 @@
 - branch: stable
   date: '2025-02-27'
   downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-27.02.2025/fw_agate_miui_AGATEEEAGlobal_OS1.0.11.0.UKWEUXM_ad3750b77c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/agate/fw_agate_miui_AGATEEEAGlobal_OS1.0.11.0.UKWEUXM_ad3750b77c_14.0.zip
+  filename: fw_agate_miui_AGATEEEAGlobal_OS1.0.11.0.UKWEUXM_ad3750b77c_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.11.0.UKWEUXM
+- branch: stable
+  date: '2025-02-27'
+  downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-27.02.2025/fw_agate_miui_AGATEGlobal_OS1.0.12.0.UKWMIXM_7cc2084312_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/agate/fw_agate_miui_AGATEGlobal_OS1.0.12.0.UKWMIXM_7cc2084312_14.0.zip
   filename: fw_agate_miui_AGATEGlobal_OS1.0.12.0.UKWMIXM_7cc2084312_14.0.zip
