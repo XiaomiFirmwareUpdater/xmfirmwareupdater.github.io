@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 27 Feb 2025 13:59:54 </lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 19:39:33 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 11T (agate) - OS1.0.12.0.UKWMIXM</title>
@@ -39,6 +39,16 @@
         <item>
             <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - OS1.0.13.0.UKACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/star/</link>
+            <pubDate>Thu, 27 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A2/A2+/POCO C51 (water) - V14.0.22.0.TGOEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/water/</link>
+            <pubDate>Thu, 27 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.102.0.VOACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Thu, 27 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1049,11 +1059,6 @@
         <item>
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS1.0.6.0.UMQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sunstone/</link>
-            <pubDate>Fri, 10 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A2/A2+/POCO C51 (water) - V14.0.21.0.TGOEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/water/</link>
             <pubDate>Fri, 10 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>

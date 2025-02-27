@@ -6279,15 +6279,15 @@
     android: '13.0'
     miui: V14.0.37.0.TGOMIXM
 - branch: stable
-  date: '2025-01-10'
+  date: '2025-02-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-10.01.2025/fw_water_miui_WATEREEAGlobal_V14.0.21.0.TGOEUXM_1a8773a083_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATEREEAGlobal_V14.0.21.0.TGOEUXM_1a8773a083_13.0.zip
-  filename: fw_water_miui_WATEREEAGlobal_V14.0.21.0.TGOEUXM_1a8773a083_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-27.02.2025/fw_water_miui_WATEREEAGlobal_V14.0.22.0.TGOEUXM_e84fae6268_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATEREEAGlobal_V14.0.22.0.TGOEUXM_e84fae6268_13.0.zip
+  filename: fw_water_miui_WATEREEAGlobal_V14.0.22.0.TGOEUXM_e84fae6268_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.21.0.TGOEUXM
+    miui: V14.0.22.0.TGOEUXM
 - branch: stable
   date: '2025-01-23'
   downloads:
@@ -6418,6 +6418,16 @@
   versions:
     android: '14.0'
     miui: OS1.0.8.0.ULOINXM
+- branch: stable
+  date: '2025-02-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xuanyuan/releases/download/stable-27.02.2025/fw_xuanyuan_xuanyuan-ota_full-OS2.0.102.0.VOACNXM-user-15.0-57ae5d127a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xuanyuan/fw_xuanyuan_xuanyuan-ota_full-OS2.0.102.0.VOACNXM-user-15.0-57ae5d127a.zip
+  filename: fw_xuanyuan_xuanyuan-ota_full-OS2.0.102.0.VOACNXM-user-15.0-57ae5d127a.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.102.0.VOACNXM
 - branch: stable
   date: '2025-02-05'
   downloads:
