@@ -4,11 +4,36 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 28 Feb 2025 13:27:07 </lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 20:23:41 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS2.0.102.0.VNAMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 (cupid) - OS1.0.18.0.ULCEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/cupid/</link>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 13 (fuxi) - OS2.0.102.0.VMCEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.20.0.UMREUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12T Pro (pearl) - OS2.0.1.0.VLHCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/pearl/</link>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 6 (pipa) - OS2.0.2.0.UMZMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
             <pubDate>Fri, 28 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -517,11 +542,6 @@
             <pubDate>Thu, 13 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12T Pro (pearl) - OS1.0.11.0.ULHCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pearl/</link>
-            <pubDate>Thu, 13 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 4G (tapas) - OS2.0.9.0.VMTMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tapas/</link>
             <pubDate>Thu, 13 Feb 2025 00:00:00 </pubDate>
@@ -563,11 +583,6 @@
         </item>
         <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.17.0.UMRCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Wed, 12 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.19.0.UMREUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/marble/</link>
             <pubDate>Wed, 12 Feb 2025 00:00:00 </pubDate>
         </item>
@@ -679,11 +694,6 @@
         <item>
             <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.2.0.VNPEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
-            <pubDate>Thu, 06 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 (pipa) - OS1.0.16.0.UMZMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
             <pubDate>Thu, 06 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -947,11 +957,6 @@
             <pubDate>Fri, 17 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS2.0.6.0.VNAMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Thu, 16 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS2.0.2.0.VNSCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
             <pubDate>Thu, 16 Jan 2025 00:00:00 </pubDate>
@@ -990,11 +995,6 @@
             <title>Xiaomi Civi 4 Pro (chenfeng) - OS2.0.2.0.VNJINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
             <pubDate>Wed, 15 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 (cupid) - OS1.0.17.0.ULCEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/cupid/</link>
-            <pubDate>Tue, 14 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi Pad 5 Pro 12.4 (dagu) - OS1.0.14.0.ULZCNXM</title>
