@@ -3076,6 +3076,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.3.UMCCNXM/fw_fuxi_miui_FUXI_OS1.0.7.3.UMCCNXM_97b211da3f_14.0.zip
   name: Xiaomi 13
   version: OS1.0.7.3.UMCCNXM
+- android: '15.0'
+  codename: fuxi
+  date: '2025-02-28'
+  download: https://bigota.d.miui.com/OS2.0.102.0.VMCEUXM/fw_fuxi_eea_global_fuxi_eea_global-ota_full-OS2.0.102.0.VMCEUXM-user-15.0-0ce0c6ece5.zip
+  name: Xiaomi 13
+  version: OS2.0.102.0.VMCEUXM
 - android: '14.0'
   codename: fuxi
   date: '2024-09-27'
@@ -12412,6 +12418,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UNOEUXM/fw_zircon_miui_ZIRCONEEAGlobal_OS1.0.2.0.UNOEUXM_dd2d069c0d_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.2.0.UNOEUXM
+- android: '15.0'
+  codename: zircon
+  date: '2025-02-28'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VNOMIXM/fw_zircon_global_zircon_global-ota_full-OS2.0.6.0.VNOMIXM-user-15.0-27a575ecc8.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS2.0.6.0.VNOMIXM
 - android: '15.0'
   codename: zircon
   date: '2025-02-26'

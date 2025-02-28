@@ -61,7 +61,8 @@ permalink: /hyperos/fuxi/
 <tr><td>Xiaomi 13 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UMCMIXM</td><td>14.0</td><td>7.5 GB</td><td>2024-12-20</td><td><a href="/hyperos/fuxi/stable/OS1.0.11.0.UMCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UMCMIXM</td><td>14.0</td><td>5.8 GB</td><td>2025-01-02</td><td><a href="/hyperos/fuxi/stable/OS1.0.11.0.UMCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.UMCRUXM</td><td>14.0</td><td>7.4 GB</td><td>2024-12-20</td><td><a href="/hyperos/fuxi/stable/OS1.0.10.0.UMCRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VMCRUXM</td><td>15.0</td><td>6.0 GB</td><td>2025-01-22</td><td><a href="/hyperos/fuxi/stable/OS2.0.2.0.VMCRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.UMCRUXM</td><td>14.0</td><td>5.7 GB</td><td>2025-01-02</td><td><a href="/hyperos/fuxi/stable/OS1.0.10.0.UMCRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.102.0.VMCEUXM</td><td>15.0</td><td>6.1 GB</td><td>2025-02-24</td><td><a href="/hyperos/fuxi/stable beta/OS2.0.102.0.VMCEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VMCTWXM</td><td>15.0</td><td>6.9 GB</td><td>2025-01-14</td><td><a href="/hyperos/fuxi/stable/OS2.0.2.0.VMCTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VMCTWXM</td><td>15.0</td><td>5.9 GB</td><td>2025-01-21</td><td><a href="/hyperos/fuxi/stable/OS2.0.2.0.VMCTWXM/">Download</a></td></tr>
 

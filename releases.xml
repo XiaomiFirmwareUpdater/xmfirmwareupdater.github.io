@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 28 Feb 2025 01:03:26 </lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 07:22:48 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13 (fuxi) - OS2.0.102.0.VMCEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.6.0.VNOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 11T (agate) - OS1.0.12.0.UKWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/agate/</link>
@@ -322,11 +332,6 @@
             <pubDate>Tue, 18 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13 (fuxi) - OS2.0.3.0.VMCEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Tue, 18 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 14 (houji) - OS2.0.104.0.VNCCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/houji/</link>
             <pubDate>Tue, 18 Feb 2025 00:00:00 </pubDate>
@@ -529,11 +534,6 @@
         <item>
             <title>Xiaomi 12 Pro (zeus) - OS1.0.10.0.ULBINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Thu, 13 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.5.0.VNOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Thu, 13 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
