@@ -102,7 +102,7 @@ permalink: /hyperos/xuanyuan/stable/OS2.0.102.0.VOACNXM/
                     <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>491 Bytes</h5>
+                    <h5><b>Size: </b>11.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>None</h5>

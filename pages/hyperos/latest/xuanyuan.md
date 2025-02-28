@@ -52,7 +52,7 @@ permalink: /hyperos/xuanyuan/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 15 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VOACNXM</td><td>15.0</td><td>491 Bytes</td><td>None</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.102.0.VOACNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 15 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VOACNXM</td><td>15.0</td><td>11.5 GB</td><td>None</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.102.0.VOACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VOACNXM</td><td>15.0</td><td>9.1 GB</td><td>2025-02-27</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.102.0.VOACNXM/">Download</a></td></tr>
 
                 </tbody>

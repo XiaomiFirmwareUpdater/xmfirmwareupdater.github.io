@@ -52,7 +52,9 @@ permalink: /archive/hyperos/rodin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO X7 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.13.0.VOJEUXM</td><td>15.0</td><td>5.9 GB</td><td>2025-02-23</td><td><a href="/hyperos/rodin/stable beta/OS2.0.13.0.VOJEUXM/">Download</a></td></tr>
+                <tr><td>POCO X7 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VOJIDXM</td><td>15.0</td><td>5.9 GB</td><td>2025-02-28</td><td><a href="/hyperos/rodin/stable/OS2.0.3.0.VOJIDXM/">Download</a></td></tr>
+<tr><td>POCO X7 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.VOJIDXM</td><td>15.0</td><td>8.5 GB</td><td>2025-02-07</td><td><a href="/hyperos/rodin/stable/OS2.0.3.0.VOJIDXM/">Download</a></td></tr>
+<tr><td>POCO X7 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.13.0.VOJEUXM</td><td>15.0</td><td>5.9 GB</td><td>2025-02-23</td><td><a href="/hyperos/rodin/stable beta/OS2.0.13.0.VOJEUXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.10.0.VOJMIXM</td><td>15.0</td><td>5.9 GB</td><td>2025-02-21</td><td><a href="/hyperos/rodin/stable beta/OS2.0.10.0.VOJMIXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro India</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VOJINXM</td><td>15.0</td><td>5.7 GB</td><td>2025-02-16</td><td><a href="/hyperos/rodin/stable/OS2.0.3.0.VOJINXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.VOJINXM</td><td>15.0</td><td>7.6 GB</td><td>2025-02-10</td><td><a href="/hyperos/rodin/stable/OS2.0.3.0.VOJINXM/">Download</a></td></tr>
