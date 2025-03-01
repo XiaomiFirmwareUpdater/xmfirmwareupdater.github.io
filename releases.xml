@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 01 Mar 2025 20:05:58 </lastBuildDate>
+        <lastBuildDate>Sun, 02 Mar 2025 01:35:20 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS2.0.3.0.VNSEUXM</title>
@@ -14,6 +14,21 @@
         <item>
             <title>Xiaomi Pad 7 Pro (muyu) - OS2.0.101.0.VOYMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
+            <pubDate>Sat, 01 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 7 Pro (muyu) - OS2.0.101.0.VOYEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
+            <pubDate>Sat, 01 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.109.0.VNNCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
+            <pubDate>Sat, 01 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 7 (uke) - OS2.0.102.0.VOZMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/uke/</link>
             <pubDate>Sat, 01 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -474,11 +489,6 @@
         <item>
             <title>Xiaomi Pad 6 (pipa) - OS1.0.12.0.UMZINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
-            <pubDate>Mon, 17 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.105.0.VNNCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
             <pubDate>Mon, 17 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>

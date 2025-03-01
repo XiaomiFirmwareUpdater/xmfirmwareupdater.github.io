@@ -18,3 +18,13 @@
   versions:
     android: '15.0'
     miui: OS2.0.104.0.VOYCNXM
+- branch: stable
+  date: '2025-03-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_muyu/releases/download/stable-02.03.2025/fw_muyu_eea_global_muyu_eea_global-ota_full-OS2.0.101.0.VOYEUXM-user-15.0-c9e39af4a0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/muyu/fw_muyu_eea_global_muyu_eea_global-ota_full-OS2.0.101.0.VOYEUXM-user-15.0-c9e39af4a0.zip
+  filename: fw_muyu_eea_global_muyu_eea_global-ota_full-OS2.0.101.0.VOYEUXM-user-15.0-c9e39af4a0.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.101.0.VOYEUXM
