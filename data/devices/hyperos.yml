@@ -2074,6 +2074,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UNSMIXM/fw_dizi_miui_DIZIGlobal_OS1.0.8.0.UNSMIXM_60340cb57c_14.0.zip
   name: Redmi Pad Pro/POCO Pad
   version: OS1.0.8.0.UNSMIXM
+- android: '15.0'
+  codename: dizi
+  date: '2025-03-01'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VNSEUXM/fw_dizi_eea_global_dizi_eea_global-ota_full-OS2.0.3.0.VNSEUXM-user-15.0-1aa8eacd37.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS2.0.3.0.VNSEUXM
 - android: '14.0'
   codename: duchamp
   date: '2023-11-30'
