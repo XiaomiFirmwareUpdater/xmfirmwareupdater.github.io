@@ -4,10 +4,15 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 28 Feb 2025 20:23:41 </lastBuildDate>
+        <lastBuildDate>Sat, 01 Mar 2025 02:23:25 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS2.0.102.0.VNAMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS2.0.102.0.VNAINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
             <pubDate>Fri, 28 Feb 2025 00:00:00 </pubDate>
         </item>
@@ -34,6 +39,36 @@
         <item>
             <title>Xiaomi Pad 6 (pipa) - OS2.0.2.0.UMZMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12S (sea) - OS1.0.16.0.UHZMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sea/</link>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Lite (taoyao) - OS1.0.14.0.ULIMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/taoyao/</link>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Lite (taoyao) - OS1.0.21.0.ULIEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/taoyao/</link>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 11T Pro (vili) - OS1.0.10.0.UKDMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/vili/</link>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 11T Pro (vili) - OS1.0.12.0.UKDEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/vili/</link>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 11T Pro (vili) - OS1.0.10.0.UKDINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/vili/</link>
             <pubDate>Fri, 28 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -792,11 +827,6 @@
             <pubDate>Thu, 23 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12S (sea) - OS1.0.14.0.UHZMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sea/</link>
-            <pubDate>Thu, 23 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.37.0.TGOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/water/</link>
             <pubDate>Thu, 23 Jan 2025 00:00:00 </pubDate>
@@ -1192,11 +1222,6 @@
             <pubDate>Sat, 21 Dec 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS2.0.4.0.VNAINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Fri, 20 Dec 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - OS1.0.9.0.TKEMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fleur/</link>
             <pubDate>Thu, 19 Dec 2024 00:00:00 </pubDate>
@@ -1227,11 +1252,6 @@
             <pubDate>Mon, 16 Dec 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 11T Pro (vili) - OS1.0.8.0.UKDINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/vili/</link>
-            <pubDate>Mon, 16 Dec 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.5.0.UCVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/earth/</link>
             <pubDate>Tue, 10 Dec 2024 00:00:00 </pubDate>
@@ -1249,26 +1269,6 @@
         <item>
             <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - OS1.0.8.0.UKAEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/star/</link>
-            <pubDate>Tue, 10 Dec 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Lite (taoyao) - OS1.0.12.0.ULIMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/taoyao/</link>
-            <pubDate>Tue, 10 Dec 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Lite (taoyao) - OS1.0.17.0.ULIEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/taoyao/</link>
-            <pubDate>Tue, 10 Dec 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 11T Pro (vili) - OS1.0.8.0.UKDMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/vili/</link>
-            <pubDate>Tue, 10 Dec 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 11T Pro (vili) - OS1.0.9.0.UKDEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/vili/</link>
             <pubDate>Tue, 10 Dec 2024 00:00:00 </pubDate>
         </item>
         <item>

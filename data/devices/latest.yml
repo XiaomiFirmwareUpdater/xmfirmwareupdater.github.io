@@ -399,15 +399,15 @@
     android: '15.0'
     miui: OS2.0.102.0.VNAEUXM
 - branch: stable
-  date: '2024-12-20'
+  date: '2025-02-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-20.12.2024/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.4.0.VNAINXM-user-15.0-e09ea47c8f.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.4.0.VNAINXM-user-15.0-e09ea47c8f.zip
-  filename: fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.4.0.VNAINXM-user-15.0-e09ea47c8f.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-01.03.2025/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.102.0.VNAINXM-user-15.0-18cf3fc5bc.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.102.0.VNAINXM-user-15.0-18cf3fc5bc.zip
+  filename: fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.102.0.VNAINXM-user-15.0-18cf3fc5bc.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.4.0.VNAINXM
+    miui: OS2.0.102.0.VNAINXM
 - branch: stable
   date: '2025-02-18'
   downloads:
@@ -5159,15 +5159,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2025-01-23'
+  date: '2025-02-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-23.01.2025/fw_sea_miui_SEAGlobal_OS1.0.14.0.UHZMIXM_a0a4ebfde0_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sea/fw_sea_miui_SEAGlobal_OS1.0.14.0.UHZMIXM_a0a4ebfde0_14.0.zip
-  filename: fw_sea_miui_SEAGlobal_OS1.0.14.0.UHZMIXM_a0a4ebfde0_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-01.03.2025/fw_sea_miui_SEAGlobal_OS1.0.16.0.UHZMIXM_d77f6bfd3b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sea/fw_sea_miui_SEAGlobal_OS1.0.16.0.UHZMIXM_d77f6bfd3b_14.0.zip
+  filename: fw_sea_miui_SEAGlobal_OS1.0.16.0.UHZMIXM_d77f6bfd3b_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.14.0.UHZMIXM
+    miui: OS1.0.16.0.UHZMIXM
 - branch: stable
   date: '2025-01-26'
   downloads:
@@ -5579,25 +5579,25 @@
     android: '14.0'
     miui: OS1.0.5.0.UOGEUXM
 - branch: stable
-  date: '2024-12-10'
+  date: '2025-02-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-10.12.2024/fw_taoyao_miui_TAOYAOGlobal_OS1.0.12.0.ULIMIXM_fdd69c35c3_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOGlobal_OS1.0.12.0.ULIMIXM_fdd69c35c3_14.0.zip
-  filename: fw_taoyao_miui_TAOYAOGlobal_OS1.0.12.0.ULIMIXM_fdd69c35c3_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-01.03.2025/fw_taoyao_miui_TAOYAOGlobal_OS1.0.14.0.ULIMIXM_18973182a0_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOGlobal_OS1.0.14.0.ULIMIXM_18973182a0_14.0.zip
+  filename: fw_taoyao_miui_TAOYAOGlobal_OS1.0.14.0.ULIMIXM_18973182a0_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.12.0.ULIMIXM
+    miui: OS1.0.14.0.ULIMIXM
 - branch: stable
-  date: '2024-12-10'
+  date: '2025-02-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-10.12.2024/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.17.0.ULIEUXM_d4bef666c5_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.17.0.ULIEUXM_d4bef666c5_14.0.zip
-  filename: fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.17.0.ULIEUXM_d4bef666c5_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-01.03.2025/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.21.0.ULIEUXM_10efdd9f4c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.21.0.ULIEUXM_10efdd9f4c_14.0.zip
+  filename: fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.21.0.ULIEUXM_10efdd9f4c_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.17.0.ULIEUXM
+    miui: OS1.0.21.0.ULIEUXM
 - branch: stable
   date: '2025-02-13'
   downloads:
@@ -6139,35 +6139,35 @@
     android: '13.0'
     miui: OS1.0.4.0.TGDINXM
 - branch: stable
-  date: '2024-12-10'
+  date: '2025-02-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-10.12.2024/fw_vili_miui_VILIGlobal_OS1.0.8.0.UKDMIXM_508d3c7c44_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vili/fw_vili_miui_VILIGlobal_OS1.0.8.0.UKDMIXM_508d3c7c44_14.0.zip
-  filename: fw_vili_miui_VILIGlobal_OS1.0.8.0.UKDMIXM_508d3c7c44_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-01.03.2025/fw_vili_miui_VILIGlobal_OS1.0.10.0.UKDMIXM_0a1d5a3368_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vili/fw_vili_miui_VILIGlobal_OS1.0.10.0.UKDMIXM_0a1d5a3368_14.0.zip
+  filename: fw_vili_miui_VILIGlobal_OS1.0.10.0.UKDMIXM_0a1d5a3368_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.8.0.UKDMIXM
+    miui: OS1.0.10.0.UKDMIXM
 - branch: stable
-  date: '2024-12-10'
+  date: '2025-02-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-10.12.2024/fw_vili_miui_VILIEEAGlobal_OS1.0.9.0.UKDEUXM_b7c8c5c29a_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vili/fw_vili_miui_VILIEEAGlobal_OS1.0.9.0.UKDEUXM_b7c8c5c29a_14.0.zip
-  filename: fw_vili_miui_VILIEEAGlobal_OS1.0.9.0.UKDEUXM_b7c8c5c29a_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-01.03.2025/fw_vili_miui_VILIEEAGlobal_OS1.0.12.0.UKDEUXM_10150f6b6d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vili/fw_vili_miui_VILIEEAGlobal_OS1.0.12.0.UKDEUXM_10150f6b6d_14.0.zip
+  filename: fw_vili_miui_VILIEEAGlobal_OS1.0.12.0.UKDEUXM_10150f6b6d_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.9.0.UKDEUXM
+    miui: OS1.0.12.0.UKDEUXM
 - branch: stable
-  date: '2024-12-16'
+  date: '2025-02-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-16.12.2024/fw_vili_miui_VILIINGlobal_OS1.0.8.0.UKDINXM_d5b97bfaf3_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vili/fw_vili_miui_VILIINGlobal_OS1.0.8.0.UKDINXM_d5b97bfaf3_14.0.zip
-  filename: fw_vili_miui_VILIINGlobal_OS1.0.8.0.UKDINXM_d5b97bfaf3_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-01.03.2025/fw_vili_miui_VILIINGlobal_OS1.0.10.0.UKDINXM_6c4b650ae1_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vili/fw_vili_miui_VILIINGlobal_OS1.0.10.0.UKDINXM_6c4b650ae1_14.0.zip
+  filename: fw_vili_miui_VILIINGlobal_OS1.0.10.0.UKDINXM_6c4b650ae1_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.8.0.UKDINXM
+    miui: OS1.0.10.0.UKDINXM
 - branch: stable
   date: '2019-11-26'
   downloads:
