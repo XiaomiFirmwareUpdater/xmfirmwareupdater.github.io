@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 02 Mar 2025 13:33:35 </lastBuildDate>
+        <lastBuildDate>Sun, 02 Mar 2025 20:41:42 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 15 (dada) - OS2.0.106.0.VOCMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
+            <pubDate>Sun, 02 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 (dada) - OS2.0.102.0.VOCEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
+            <pubDate>Sun, 02 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 (dada) - OS2.0.103.0.VOCINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
+            <pubDate>Sun, 02 Mar 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 14 (houji) - OS2.0.6.0.VNCEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/houji/</link>
@@ -17,7 +32,17 @@
             <pubDate>Sun, 02 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.6.0.VOAMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
+            <pubDate>Sun, 02 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.103.0.VOACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
+            <pubDate>Sun, 02 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.8.0.VOAEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Sun, 02 Mar 2025 00:00:00 </pubDate>
         </item>

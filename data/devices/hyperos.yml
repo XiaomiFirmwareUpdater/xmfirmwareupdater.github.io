@@ -1540,6 +1540,24 @@
   download: https://bigota.d.miui.com/OS2.0.25.0.VOCCNXM/fw_dada_dada-ota_full-OS2.0.25.0.VOCCNXM-user-15.0-b1b572d127.zip
   name: Xiaomi 15
   version: OS2.0.25.0.VOCCNXM
+- android: '15.0'
+  codename: dada
+  date: '2025-03-02'
+  download: https://bigota.d.miui.com/OS2.0.102.0.VOCEUXM/fw_dada_eea_global_dada_eea_global-ota_full-OS2.0.102.0.VOCEUXM-user-15.0-c33e0578b2.zip
+  name: Xiaomi 15
+  version: OS2.0.102.0.VOCEUXM
+- android: '15.0'
+  codename: dada
+  date: '2025-03-02'
+  download: https://bigota.d.miui.com/OS2.0.106.0.VOCMIXM/fw_dada_global_dada_global-ota_full-OS2.0.106.0.VOCMIXM-user-15.0-f42026da68.zip
+  name: Xiaomi 15
+  version: OS2.0.106.0.VOCMIXM
+- android: '15.0'
+  codename: dada
+  date: '2025-03-02'
+  download: https://bigota.d.miui.com/OS2.0.103.0.VOCINXM/fw_dada_in_global_dada_in_global-ota_full-OS2.0.103.0.VOCINXM-user-15.0-53771cdc67.zip
+  name: Xiaomi 15
+  version: OS2.0.103.0.VOCINXM
 - android: '14.0'
   codename: dagu
   date: '2024-05-30'
@@ -11836,6 +11854,18 @@
   download: https://bigota.d.miui.com/OS2.0.102.0.VOACNXM/fw_xuanyuan_xuanyuan-ota_full-OS2.0.102.0.VOACNXM-user-15.0-57ae5d127a.zip
   name: Xiaomi 15 Ultra
   version: OS2.0.102.0.VOACNXM
+- android: '15.0'
+  codename: xuanyuan
+  date: '2025-03-02'
+  download: https://bigota.d.miui.com/OS2.0.8.0.VOAEUXM/fw_xuanyuan_eea_global_xuanyuan_eea_global-ota_full-OS2.0.8.0.VOAEUXM-user-15.0-5bff93d8c8.zip
+  name: Xiaomi 15 Ultra
+  version: OS2.0.8.0.VOAEUXM
+- android: '15.0'
+  codename: xuanyuan
+  date: '2025-03-02'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VOAMIXM/fw_xuanyuan_global_xuanyuan_global-ota_full-OS2.0.6.0.VOAMIXM-user-15.0-799bc8ca38.zip
+  name: Xiaomi 15 Ultra
+  version: OS2.0.6.0.VOAMIXM
 - android: '15.0'
   codename: xuanyuan
   date: '2025-03-02'

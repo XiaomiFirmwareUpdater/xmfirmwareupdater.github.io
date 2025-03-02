@@ -54,6 +54,20 @@ permalink: /archive/hyperos/xuanyuan/
                 <tbody>
                 <tr><td>Xiaomi 15 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.103.0.VOACNXM</td><td>15.0</td><td>9.1 GB</td><td>2025-03-02</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.103.0.VOACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.103.0.VOACNXM</td><td>15.0</td><td>11.5 GB</td><td>2025-03-02</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.103.0.VOACNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Ultra Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.6.0.VOAMIXM</td><td>15.0</td><td>8.3 GB</td><td>2025-03-02</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.6.0.VOAMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Ultra Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.6.0.VOAMIXM</td><td>15.0</td><td>10.8 GB</td><td>2025-02-18</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.6.0.VOAMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.8.0.VOAEUXM</td><td>15.0</td><td>8.3 GB</td><td>2025-03-02</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.8.0.VOAEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.8.0.VOAEUXM</td><td>15.0</td><td>10.2 GB</td><td>2025-01-25</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.8.0.VOAEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Ultra Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VOAIDDM</td><td>15.0</td><td>8.3 GB</td><td>2025-03-02</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.2.0.VOAIDDM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Ultra Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VOAIDDM</td><td>15.0</td><td>10.2 GB</td><td>2025-01-16</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.2.0.VOAIDDM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Ultra Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VOATWXM</td><td>15.0</td><td>8.1 GB</td><td>2025-03-02</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.3.0.VOATWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Ultra Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.VOATWXM</td><td>15.0</td><td>9.4 GB</td><td>2025-01-16</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.3.0.VOATWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.9.0.VOAEUXM</td><td>15.0</td><td>8.4 GB</td><td>2025-03-02</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.9.0.VOAEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.9.0.VOAEUXM</td><td>15.0</td><td>10.3 GB</td><td>2025-02-18</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.9.0.VOAEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Ultra Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VOATRXM</td><td>15.0</td><td>8.3 GB</td><td>2025-03-02</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.2.0.VOATRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Ultra Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VOATRXM</td><td>15.0</td><td>9.9 GB</td><td>2025-01-16</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.2.0.VOATRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Ultra Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VOARUXM</td><td>15.0</td><td>8.2 GB</td><td>2025-03-02</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.3.0.VOARUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Ultra Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.VOARUXM</td><td>15.0</td><td>10.6 GB</td><td>2025-01-16</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.3.0.VOARUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VOACNXM</td><td>15.0</td><td>9.1 GB</td><td>2025-02-27</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.102.0.VOACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VOACNXM</td><td>15.0</td><td>11.5 GB</td><td>None</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.102.0.VOACNXM/">Download</a></td></tr>
 
