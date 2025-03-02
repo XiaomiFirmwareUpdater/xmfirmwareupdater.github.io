@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 02 Mar 2025 01:35:20 </lastBuildDate>
+        <lastBuildDate>Sun, 02 Mar 2025 07:39:13 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 (houji) - OS2.0.6.0.VNCEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Sun, 02 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70 Pro (manet) - OS2.0.104.0.VNMCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/manet/</link>
+            <pubDate>Sun, 02 Mar 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS2.0.3.0.VNSEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
@@ -859,16 +869,6 @@
         <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS1.0.10.0.UNSMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
-            <pubDate>Wed, 22 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 (houji) - OS2.0.3.0.VNCEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/houji/</link>
-            <pubDate>Wed, 22 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70 Pro (manet) - OS2.0.101.0.VNMCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/manet/</link>
             <pubDate>Wed, 22 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
