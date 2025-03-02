@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 02 Mar 2025 07:39:13 </lastBuildDate>
+        <lastBuildDate>Sun, 02 Mar 2025 13:33:35 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 14 (houji) - OS2.0.6.0.VNCEUXM</title>
@@ -14,6 +14,11 @@
         <item>
             <title>Redmi K70 Pro (manet) - OS2.0.104.0.VNMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/manet/</link>
+            <pubDate>Sun, 02 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.103.0.VOACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Sun, 02 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -149,11 +154,6 @@
         <item>
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.22.0.TGOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/water/</link>
-            <pubDate>Thu, 27 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.102.0.VOACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Thu, 27 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
