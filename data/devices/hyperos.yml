@@ -202,6 +202,12 @@
   download: https://bigota.d.miui.com/OS2.0.1.0.VGQMIXM/fw_air_global_air_global-ota_full-OS2.0.1.0.VGQMIXM-user-15.0-33214877f3.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
   version: OS2.0.1.0.VGQMIXM
+- android: '15.0'
+  codename: air
+  date: '2025-03-03'
+  download: https://bigota.d.miui.com/OS2.0.1.0.VGQEUXM/fw_air_eea_global_air_eea_global-ota_full-OS2.0.1.0.VGQEUXM-user-15.0-c3ddf54557.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS2.0.1.0.VGQEUXM
 - android: '14.0'
   codename: air
   date: '2025-01-02'
@@ -2398,6 +2404,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UNLEUXM/fw_duchamp_miui_DUCHAMPEEAGlobal_OS1.0.8.0.UNLEUXM_9d2dfcd32e_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS1.0.8.0.UNLEUXM
+- android: '15.0'
+  codename: duchamp
+  date: '2025-03-03'
+  download: https://bigota.d.miui.com/OS2.0.100.0.VNLMIXM/fw_duchamp_global_duchamp_global-ota_full-OS2.0.100.0.VNLMIXM-user-15.0-7dd6434acf.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS2.0.100.0.VNLMIXM
 - android: '14.0'
   codename: earth
   date: '2024-08-30'
@@ -4552,6 +4564,12 @@
   download: https://bigota.d.miui.com/OS1.0.42.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.42.0.UNCCNXM_71976c4264_14.0.zip
   name: Xiaomi 14
   version: OS1.0.42.0.UNCCNXM
+- android: '15.0'
+  codename: houji
+  date: '2025-03-03'
+  download: https://bigota.d.miui.com/OS2.0.100.0.VNCMIXM/fw_houji_global_houji_global-ota_full-OS2.0.100.0.VNCMIXM-user-15.0-8b699f49f5.zip
+  name: Xiaomi 14
+  version: OS2.0.100.0.VNCMIXM
 - android: '14.0'
   codename: houji
   date: '2023-11-02'
@@ -7834,6 +7852,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.ULQEUXM/fw_plato_miui_PLATOEEAGlobal_OS1.0.12.0.ULQEUXM_94738c2aec_14.0.zip
   name: Xiaomi 12T
   version: OS1.0.12.0.ULQEUXM
+- android: '15.0'
+  codename: plato
+  date: '2025-03-03'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VLQMIXM/fw_plato_global_plato_global-ota_full-OS2.0.2.0.VLQMIXM-user-15.0-2d16cd2bfd.zip
+  name: Xiaomi 12T
+  version: OS2.0.2.0.VLQMIXM
 - android: '14.0'
   codename: plato
   date: '2024-04-01'
@@ -8104,6 +8128,18 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMSINXM/fw_redwood_miui_REDWOODINGlobal_OS1.0.4.0.UMSINXM_40c2aa4795_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: OS1.0.4.0.UMSINXM
+- android: '14.0'
+  codename: redwood
+  date: '2025-03-03'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UMSEUXM/fw_redwood_miui_REDWOODEEAGlobal_OS1.0.12.0.UMSEUXM_edf6c8219f_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.12.0.UMSEUXM
+- android: '14.0'
+  codename: redwood
+  date: '2025-03-03'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UMSMIXM/fw_redwood_miui_REDWOODGlobal_OS1.0.13.0.UMSMIXM_b3adf6acf3_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.13.0.UMSMIXM
 - android: '14.0'
   codename: redwood
   date: '2024-02-03'

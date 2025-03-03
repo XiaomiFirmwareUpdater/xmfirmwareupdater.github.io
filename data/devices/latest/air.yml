@@ -19,15 +19,15 @@
     android: '15.0'
     miui: OS2.0.1.0.VGQCNXM
 - branch: stable
-  date: '2025-01-02'
+  date: '2025-03-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-02.01.2025/fw_air_miui_AIREEAGlobal_OS1.0.5.0.UGQEUXM_8b15b3bd6d_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/air/fw_air_miui_AIREEAGlobal_OS1.0.5.0.UGQEUXM_8b15b3bd6d_14.0.zip
-  filename: fw_air_miui_AIREEAGlobal_OS1.0.5.0.UGQEUXM_8b15b3bd6d_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-03.03.2025/fw_air_eea_global_air_eea_global-ota_full-OS2.0.1.0.VGQEUXM-user-15.0-c3ddf54557.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/air/fw_air_eea_global_air_eea_global-ota_full-OS2.0.1.0.VGQEUXM-user-15.0-c3ddf54557.zip
+  filename: fw_air_eea_global_air_eea_global-ota_full-OS2.0.1.0.VGQEUXM-user-15.0-c3ddf54557.zip
   region: Europe
   versions:
-    android: '14.0'
-    miui: OS1.0.5.0.UGQEUXM
+    android: '15.0'
+    miui: OS2.0.1.0.VGQEUXM
 - branch: stable
   date: '2024-12-23'
   downloads:
