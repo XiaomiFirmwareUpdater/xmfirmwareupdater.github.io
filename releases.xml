@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 03 Mar 2025 14:53:09 </lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 20:02:56 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.1.0.VGQEUXM</title>
@@ -23,6 +23,11 @@
         </item>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.100.0.VNLMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.102.0.VNLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
         </item>
@@ -57,6 +62,16 @@
             <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS1.0.12.0.UMSINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
+            <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.101.0.VNNEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
+            <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.14.0.UMOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
@@ -79,6 +94,11 @@
         <item>
             <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS2.0.2.0.VLLMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
+            <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi MIX Fold 2 (zizhan) - OS2.0.3.0.VLRCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zizhan/</link>
             <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -812,11 +832,6 @@
             <pubDate>Sat, 08 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.14.0.VNNEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
-            <pubDate>Fri, 07 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K60 Pro (socrates) - OS2.0.102.0.VMKCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/socrates/</link>
             <pubDate>Fri, 07 Feb 2025 00:00:00 </pubDate>
@@ -849,11 +864,6 @@
         <item>
             <title>Xiaomi 12S Ultra (thor) - OS2.0.1.0.VLACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/thor/</link>
-            <pubDate>Thu, 06 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi MIX Fold 2 (zizhan) - OS1.0.15.0.ULRCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zizhan/</link>
             <pubDate>Thu, 06 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -979,11 +989,6 @@
         <item>
             <title>POCO X5 5G (moonstone) - OS1.0.11.0.UMPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moonstone/</link>
-            <pubDate>Mon, 20 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS1.0.11.0.UMSINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
             <pubDate>Mon, 20 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1229,11 +1234,6 @@
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS1.0.5.0.UGQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
-            <pubDate>Mon, 23 Dec 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.2.0.VNLEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Mon, 23 Dec 2024 00:00:00 </pubDate>
         </item>
         <item>

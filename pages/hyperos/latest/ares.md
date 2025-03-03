@@ -54,6 +54,7 @@ permalink: /hyperos/ares/
                 <tbody>
                 <tr><td>Redmi K40 Gaming China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.TKJCNXM</td><td>13.0</td><td>6.2 GB</td><td>2024-02-26</td><td><a href="/hyperos/ares/stable/OS1.0.2.0.TKJCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40 Gaming China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.TKJCNXM</td><td>13.0</td><td>4.2 GB</td><td>2024-03-05</td><td><a href="/hyperos/ares/stable/OS1.0.2.0.TKJCNXM/">Download</a></td></tr>
+<tr><td>Redmi K40 Gaming China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.TKJCNXM</td><td>13.0</td><td>4.2 GB</td><td>2025-02-25</td><td><a href="/hyperos/ares/stable beta/OS1.0.4.0.TKJCNXM/">Download</a></td></tr>
 <tr><td>POCO F3 GT India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.TKJINXM</td><td>13.0</td><td>5.1 GB</td><td>2024-03-25</td><td><a href="/hyperos/ares/stable/OS1.0.2.0.TKJINXM/">Download</a></td></tr>
 <tr><td>POCO F3 GT India</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.TKJINXM</td><td>13.0</td><td>3.8 GB</td><td>2024-04-01</td><td><a href="/hyperos/ares/stable/OS1.0.2.0.TKJINXM/">Download</a></td></tr>
 

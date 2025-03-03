@@ -1549,15 +1549,15 @@
     android: '15.0'
     miui: OS2.0.102.0.VNLCNXM
 - branch: stable
-  date: '2024-12-23'
+  date: '2025-03-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-23.12.2024/fw_duchamp_eea_global_duchamp_eea_global-ota_full-OS2.0.2.0.VNLEUXM-user-15.0-f72d3e9b10.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/duchamp/fw_duchamp_eea_global_duchamp_eea_global-ota_full-OS2.0.2.0.VNLEUXM-user-15.0-f72d3e9b10.zip
-  filename: fw_duchamp_eea_global_duchamp_eea_global-ota_full-OS2.0.2.0.VNLEUXM-user-15.0-f72d3e9b10.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-03.03.2025/fw_duchamp_eea_global_duchamp_eea_global-ota_full-OS2.0.102.0.VNLEUXM-user-15.0-1937d9053b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/duchamp/fw_duchamp_eea_global_duchamp_eea_global-ota_full-OS2.0.102.0.VNLEUXM-user-15.0-1937d9053b.zip
+  filename: fw_duchamp_eea_global_duchamp_eea_global-ota_full-OS2.0.102.0.VNLEUXM-user-15.0-1937d9053b.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.2.0.VNLEUXM
+    miui: OS2.0.102.0.VNLEUXM
 - branch: stable
   date: '2025-02-24'
   downloads:
@@ -4599,15 +4599,15 @@
     android: '14.0'
     miui: OS1.0.12.0.UMSEUXM
 - branch: stable
-  date: '2025-01-20'
+  date: '2025-03-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-20.01.2025/fw_redwood_miui_REDWOODINGlobal_OS1.0.11.0.UMSINXM_6b18025759_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/redwood/fw_redwood_miui_REDWOODINGlobal_OS1.0.11.0.UMSINXM_6b18025759_14.0.zip
-  filename: fw_redwood_miui_REDWOODINGlobal_OS1.0.11.0.UMSINXM_6b18025759_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-03.03.2025/fw_redwood_miui_REDWOODINGlobal_OS1.0.12.0.UMSINXM_4843f64422_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/redwood/fw_redwood_miui_REDWOODINGlobal_OS1.0.12.0.UMSINXM_4843f64422_14.0.zip
+  filename: fw_redwood_miui_REDWOODINGlobal_OS1.0.12.0.UMSINXM_4843f64422_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.11.0.UMSINXM
+    miui: OS1.0.12.0.UMSINXM
 - branch: stable
   date: '2025-02-25'
   downloads:
@@ -4899,15 +4899,15 @@
     android: '15.0'
     miui: OS2.0.109.0.VNNCNXM
 - branch: stable
-  date: '2025-02-07'
+  date: '2025-03-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-07.02.2025/fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.14.0.VNNEUXM-user-15.0-6956cb5fc1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rothko/fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.14.0.VNNEUXM-user-15.0-6956cb5fc1.zip
-  filename: fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.14.0.VNNEUXM-user-15.0-6956cb5fc1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-03.03.2025/fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.101.0.VNNEUXM-user-15.0-dee211b461.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rothko/fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.101.0.VNNEUXM-user-15.0-dee211b461.zip
+  filename: fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.101.0.VNNEUXM-user-15.0-dee211b461.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.14.0.VNNEUXM
+    miui: OS2.0.101.0.VNNEUXM
 - branch: stable
   date: '2025-02-05'
   downloads:
@@ -6769,15 +6769,15 @@
     android: '14.0'
     miui: OS1.0.14.0.ULLEUXM
 - branch: stable
-  date: '2025-02-06'
+  date: '2025-03-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zizhan/releases/download/stable-06.02.2025/fw_zizhan_miui_ZIZHAN_OS1.0.15.0.ULRCNXM_868bd4a6f8_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zizhan/fw_zizhan_miui_ZIZHAN_OS1.0.15.0.ULRCNXM_868bd4a6f8_14.0.zip
-  filename: fw_zizhan_miui_ZIZHAN_OS1.0.15.0.ULRCNXM_868bd4a6f8_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zizhan/releases/download/stable-03.03.2025/fw_zizhan_zizhan-ota_full-OS2.0.3.0.VLRCNXM-user-15.0-b30c68986b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zizhan/fw_zizhan_zizhan-ota_full-OS2.0.3.0.VLRCNXM-user-15.0-b30c68986b.zip
+  filename: fw_zizhan_zizhan-ota_full-OS2.0.3.0.VLRCNXM-user-15.0-b30c68986b.zip
   region: China
   versions:
-    android: '14.0'
-    miui: OS1.0.15.0.ULRCNXM
+    android: '15.0'
+    miui: OS2.0.3.0.VLRCNXM
 - branch: stable
   date: '2025-02-22'
   downloads:
