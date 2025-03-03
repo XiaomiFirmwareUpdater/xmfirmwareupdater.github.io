@@ -2562,6 +2562,12 @@
   version: OS1.0.5.0.UCVINXM
 - android: '14.0'
   codename: earth
+  date: '2025-03-03'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UCVINXM/fw_earth_miui_EARTHINGlobal_OS1.0.9.0.UCVINXM_c43b29ae0a_14.0.zip
+  name: Redmi 12C/POCO C55
+  version: OS1.0.9.0.UCVINXM
+- android: '14.0'
+  codename: earth
   date: '2024-09-01'
   download: https://bigota.d.miui.com/OS1.0.6.0.UCVINXM/fw_earth_miui_EARTHINGlobal_OS1.0.6.0.UCVINXM_47b19aa971_14.0.zip
   name: Redmi 12C/POCO C55
@@ -11932,6 +11938,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.ULOINXM/fw_xaga_miui_XAGAINGlobal_OS1.0.4.0.ULOINXM_b1015ce10f_14.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: OS1.0.4.0.ULOINXM
+- android: '14.0'
+  codename: xaga
+  date: '2025-03-03'
+  download: https://bigota.d.miui.com/OS1.0.11.0.ULOEUXM/fw_xaga_miui_XAGAEEAGlobal_OS1.0.11.0.ULOEUXM_cb870c7291_14.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS1.0.11.0.ULOEUXM
 - android: '14.0'
   codename: xaga
   date: '2024-08-03'
