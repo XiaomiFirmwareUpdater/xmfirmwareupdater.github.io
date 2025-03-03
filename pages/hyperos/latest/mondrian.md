@@ -57,19 +57,15 @@ permalink: /hyperos/mondrian/
 <tr><td>Redmi K60 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.8 GB</td><td>2024-01-12</td><td><a href="/hyperos/mondrian/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
 <tr><td>Redmi K60 China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.5.0.VMNCNXM</td><td>15.0</td><td>6.2 GB</td><td>2025-02-20</td><td><a href="/hyperos/mondrian/stable beta/OS2.0.5.0.VMNCNXM/">Download</a></td></tr>
 <tr><td>POCO F5 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UMNEUXM</td><td>14.0</td><td>7.1 GB</td><td>2024-12-18</td><td><a href="/hyperos/mondrian/stable/OS1.0.11.0.UMNEUXM/">Download</a></td></tr>
-<tr><td>POCO F5 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UMNEUXM</td><td>14.0</td><td>5.2 GB</td><td>2025-01-06</td><td><a href="/hyperos/mondrian/stable/OS1.0.11.0.UMNEUXM/">Download</a></td></tr>
-<tr><td>POCO F5 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.3.0.VMNEUXM</td><td>15.0</td><td>5.4 GB</td><td>2025-02-19</td><td><a href="/hyperos/mondrian/stable beta/OS2.0.3.0.VMNEUXM/">Download</a></td></tr>
-<tr><td>POCO F5 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.VMNMIXM</td><td>15.0</td><td>7.8 GB</td><td>2025-01-13</td><td><a href="/hyperos/mondrian/stable/OS2.0.3.0.VMNMIXM/">Download</a></td></tr>
+<tr><td>POCO F5 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VMNEUXM</td><td>15.0</td><td>5.4 GB</td><td>2025-02-19</td><td><a href="/hyperos/mondrian/stable/OS2.0.3.0.VMNEUXM/">Download</a></td></tr>
+<tr><td>POCO F5 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.14.0.UMNMIXM</td><td>14.0</td><td>7.5 GB</td><td>2024-12-16</td><td><a href="/hyperos/mondrian/stable/OS1.0.14.0.UMNMIXM/">Download</a></td></tr>
 <tr><td>POCO F5 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.14.0.UMNMIXM</td><td>14.0</td><td>5.2 GB</td><td>2024-12-30</td><td><a href="/hyperos/mondrian/stable/OS1.0.14.0.UMNMIXM/">Download</a></td></tr>
-<tr><td>POCO F5 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.UMNRUXM</td><td>14.0</td><td>7.5 GB</td><td>2024-12-18</td><td><a href="/hyperos/mondrian/stable/OS1.0.10.0.UMNRUXM/">Download</a></td></tr>
+<tr><td>POCO F5 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.VMNRUXM</td><td>15.0</td><td>7.9 GB</td><td>2025-02-07</td><td><a href="/hyperos/mondrian/stable/OS2.0.3.0.VMNRUXM/">Download</a></td></tr>
 <tr><td>POCO F5 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.UMNRUXM</td><td>14.0</td><td>5.2 GB</td><td>2025-01-06</td><td><a href="/hyperos/mondrian/stable/OS1.0.10.0.UMNRUXM/">Download</a></td></tr>
 <tr><td>POCO F5 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UMNTRXM</td><td>14.0</td><td>6.7 GB</td><td>2024-12-18</td><td><a href="/hyperos/mondrian/stable/OS1.0.11.0.UMNTRXM/">Download</a></td></tr>
-<tr><td>POCO F5 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UMNTRXM</td><td>14.0</td><td>5.0 GB</td><td>2025-01-06</td><td><a href="/hyperos/mondrian/stable/OS1.0.11.0.UMNTRXM/">Download</a></td></tr>
 <tr><td>POCO F5 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UMNTWXM</td><td>14.0</td><td>6.6 GB</td><td>2024-12-18</td><td><a href="/hyperos/mondrian/stable/OS1.0.11.0.UMNTWXM/">Download</a></td></tr>
-<tr><td>POCO F5 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UMNTWXM</td><td>14.0</td><td>5.0 GB</td><td>2025-01-06</td><td><a href="/hyperos/mondrian/stable/OS1.0.11.0.UMNTWXM/">Download</a></td></tr>
-<tr><td>POCO F5 Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.3.0.VMNRUXM</td><td>15.0</td><td>5.5 GB</td><td>2025-02-19</td><td><a href="/hyperos/mondrian/stable beta/OS2.0.3.0.VMNRUXM/">Download</a></td></tr>
-<tr><td>POCO F5 Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.VMNTRXM</td><td>15.0</td><td>5.4 GB</td><td>2025-02-19</td><td><a href="/hyperos/mondrian/stable beta/OS2.0.1.0.VMNTRXM/">Download</a></td></tr>
-<tr><td>POCO F5 Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.VMNTWXM</td><td>15.0</td><td>5.3 GB</td><td>2025-02-19</td><td><a href="/hyperos/mondrian/stable beta/OS2.0.1.0.VMNTWXM/">Download</a></td></tr>
+<tr><td>POCO F5 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VMNTRXM</td><td>15.0</td><td>5.4 GB</td><td>2025-02-19</td><td><a href="/hyperos/mondrian/stable/OS2.0.1.0.VMNTRXM/">Download</a></td></tr>
+<tr><td>POCO F5 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VMNTWXM</td><td>15.0</td><td>5.3 GB</td><td>2025-02-19</td><td><a href="/hyperos/mondrian/stable/OS2.0.1.0.VMNTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

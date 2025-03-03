@@ -52,7 +52,8 @@ permalink: /archive/hyperos/zeus/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12 Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.10.0.ULBRUXM</td><td>14.0</td><td>5.0 GB</td><td>2025-02-24</td><td><a href="/hyperos/zeus/stable beta/OS1.0.10.0.ULBRUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.2.0.VLBEUXM</td><td>15.0</td><td>5.6 GB</td><td>2025-02-25</td><td><a href="/hyperos/zeus/stable beta/OS2.0.2.0.VLBEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.10.0.ULBRUXM</td><td>14.0</td><td>5.0 GB</td><td>2025-02-24</td><td><a href="/hyperos/zeus/stable beta/OS1.0.10.0.ULBRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro India</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.ULBINXM</td><td>14.0</td><td>5.2 GB</td><td>2025-02-10</td><td><a href="/hyperos/zeus/stable/OS1.0.10.0.ULBINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.ULBINXM</td><td>14.0</td><td>5.8 GB</td><td>2025-01-21</td><td><a href="/hyperos/zeus/stable/OS1.0.10.0.ULBINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.ULBTWXM</td><td>14.0</td><td>4.9 GB</td><td>2025-02-10</td><td><a href="/hyperos/zeus/stable/OS1.0.10.0.ULBTWXM/">Download</a></td></tr>
@@ -61,12 +62,12 @@ permalink: /archive/hyperos/zeus/
 <tr><td>Xiaomi 12 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.ULBIDXM</td><td>14.0</td><td>6.3 GB</td><td>2025-01-21</td><td><a href="/hyperos/zeus/stable/OS1.0.10.0.ULBIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.ULBTRXM</td><td>14.0</td><td>5.2 GB</td><td>2025-02-08</td><td><a href="/hyperos/zeus/stable/OS1.0.10.0.ULBTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.ULBTRXM</td><td>14.0</td><td>6.0 GB</td><td>2025-01-21</td><td><a href="/hyperos/zeus/stable/OS1.0.10.0.ULBTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VLBCNXM</td><td>15.0</td><td>6.1 GB</td><td>2025-01-24</td><td><a href="/hyperos/zeus/stable/OS2.0.1.0.VLBCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.VLBCNXM</td><td>15.0</td><td>7.9 GB</td><td>2025-01-08</td><td><a href="/hyperos/zeus/stable/OS2.0.1.0.VLBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.18.0.ULBEUXM</td><td>14.0</td><td>5.3 GB</td><td>2025-01-23</td><td><a href="/hyperos/zeus/stable/OS1.0.18.0.ULBEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.18.0.ULBEUXM</td><td>14.0</td><td>6.3 GB</td><td>2025-01-16</td><td><a href="/hyperos/zeus/stable/OS1.0.18.0.ULBEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.ULBMIXM</td><td>14.0</td><td>5.3 GB</td><td>2025-01-20</td><td><a href="/hyperos/zeus/stable/OS1.0.10.0.ULBMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.ULBMIXM</td><td>14.0</td><td>6.5 GB</td><td>2025-01-07</td><td><a href="/hyperos/zeus/stable/OS1.0.10.0.ULBMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VLBCNXM</td><td>15.0</td><td>6.1 GB</td><td>2025-01-24</td><td><a href="/hyperos/zeus/stable/OS2.0.1.0.VLBCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.VLBCNXM</td><td>15.0</td><td>7.9 GB</td><td>2025-01-08</td><td><a href="/hyperos/zeus/stable/OS2.0.1.0.VLBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.ULBTRXM</td><td>14.0</td><td>5.2 GB</td><td>2025-01-07</td><td><a href="/hyperos/zeus/stable/OS1.0.9.0.ULBTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.ULBTRXM</td><td>14.0</td><td>6.0 GB</td><td>2024-12-19</td><td><a href="/hyperos/zeus/stable/OS1.0.9.0.ULBTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro India</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.ULBINXM</td><td>14.0</td><td>5.2 GB</td><td>2025-01-06</td><td><a href="/hyperos/zeus/stable/OS1.0.9.0.ULBINXM/">Download</a></td></tr>
@@ -181,28 +182,28 @@ permalink: /archive/hyperos/zeus/
 <tr><td>Xiaomi 12 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULBMIXM</td><td>14.0</td><td>6.7 GB</td><td>2024-04-07</td><td><a href="/hyperos/zeus/stable/OS1.0.2.0.ULBMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULBRUXM</td><td>14.0</td><td>5.0 GB</td><td>2024-04-01</td><td><a href="/hyperos/zeus/stable/OS1.0.2.0.ULBRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULBRUXM</td><td>14.0</td><td>6.3 GB</td><td>2024-02-26</td><td><a href="/hyperos/zeus/stable/OS1.0.2.0.ULBRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULBTRXM</td><td>14.0</td><td>5.0 GB</td><td>2024-04-01</td><td><a href="/hyperos/zeus/stable/OS1.0.2.0.ULBTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULBTRXM</td><td>14.0</td><td>6.2 GB</td><td>2024-02-26</td><td><a href="/hyperos/zeus/stable/OS1.0.2.0.ULBTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULBTWXM</td><td>14.0</td><td>4.9 GB</td><td>2024-03-22</td><td><a href="/hyperos/zeus/stable/OS1.0.2.0.ULBTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULBTWXM</td><td>14.0</td><td>5.8 GB</td><td>2024-02-26</td><td><a href="/hyperos/zeus/stable/OS1.0.2.0.ULBTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.ULBCNXM</td><td>14.0</td><td>5.7 GB</td><td>2024-03-18</td><td><a href="/hyperos/zeus/stable/OS1.0.3.0.ULBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.ULBCNXM</td><td>14.0</td><td>7.5 GB</td><td>2024-03-07</td><td><a href="/hyperos/zeus/stable/OS1.0.3.0.ULBCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULBTWXM</td><td>14.0</td><td>5.8 GB</td><td>2024-02-26</td><td><a href="/hyperos/zeus/stable/OS1.0.2.0.ULBTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULBTWXM</td><td>14.0</td><td>4.9 GB</td><td>2024-03-22</td><td><a href="/hyperos/zeus/stable/OS1.0.2.0.ULBTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULBIDXM</td><td>14.0</td><td>6.5 GB</td><td>2024-02-26</td><td><a href="/hyperos/zeus/stable/OS1.0.2.0.ULBIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULBIDXM</td><td>14.0</td><td>5.0 GB</td><td>2024-03-06</td><td><a href="/hyperos/zeus/stable/OS1.0.2.0.ULBIDXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.7 GB</td><td>2024-01-12</td><td><a href="/hyperos/zeus/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULBTRXM</td><td>14.0</td><td>5.0 GB</td><td>2024-04-01</td><td><a href="/hyperos/zeus/stable/OS1.0.2.0.ULBTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULBTRXM</td><td>14.0</td><td>6.2 GB</td><td>2024-02-26</td><td><a href="/hyperos/zeus/stable/OS1.0.2.0.ULBTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.ULBEUXM</td><td>14.0</td><td>5.3 GB</td><td>2024-03-04</td><td><a href="/hyperos/zeus/stable/OS1.0.5.0.ULBEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.ULBEUXM</td><td>14.0</td><td>6.4 GB</td><td>2024-03-04</td><td><a href="/hyperos/zeus/stable/OS1.0.5.0.ULBEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.7 GB</td><td>2024-01-12</td><td><a href="/hyperos/zeus/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro India</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULBINXM</td><td>14.0</td><td>5.2 GB</td><td>2024-03-01</td><td><a href="/hyperos/zeus/stable/OS1.0.2.0.ULBINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULBINXM</td><td>14.0</td><td>5.8 GB</td><td>2024-02-26</td><td><a href="/hyperos/zeus/stable/OS1.0.2.0.ULBINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.ULBMIXM</td><td>14.0</td><td>6.8 GB</td><td>2024-02-28</td><td><a href="/hyperos/zeus/stable/OS1.0.1.0.ULBMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.ULBMIXM</td><td>14.0</td><td>5.3 GB</td><td>2024-02-19</td><td><a href="/hyperos/zeus/stable/OS1.0.1.0.ULBMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.2.DEV</td><td>14.0</td><td>5.7 GB</td><td>2024-01-05</td><td><a href="/hyperos/zeus/public beta/OS1.0.24.1.2.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.25.DEV</td><td>14.0</td><td>5.8 GB</td><td>2023-12-29</td><td><a href="/hyperos/zeus/public beta/OS1.0.23.12.25.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULBCNXM</td><td>14.0</td><td>7.5 GB</td><td>2024-02-19</td><td><a href="/hyperos/zeus/stable/OS1.0.2.0.ULBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULBCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-01-29</td><td><a href="/hyperos/zeus/stable/OS1.0.2.0.ULBCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.18.DEV</td><td>14.0</td><td>5.8 GB</td><td>2023-12-22</td><td><a href="/hyperos/zeus/public beta/OS1.0.23.12.18.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.2.DEV</td><td>14.0</td><td>5.7 GB</td><td>2024-01-05</td><td><a href="/hyperos/zeus/public beta/OS1.0.24.1.2.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.25.DEV</td><td>14.0</td><td>5.8 GB</td><td>2023-12-29</td><td><a href="/hyperos/zeus/public beta/OS1.0.23.12.25.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULBEUXM</td><td>14.0</td><td>6.5 GB</td><td>2024-02-02</td><td><a href="/hyperos/zeus/stable/OS1.0.2.0.ULBEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULBEUXM</td><td>14.0</td><td>5.3 GB</td><td>2024-01-19</td><td><a href="/hyperos/zeus/stable/OS1.0.2.0.ULBEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.18.DEV</td><td>14.0</td><td>5.8 GB</td><td>2023-12-22</td><td><a href="/hyperos/zeus/public beta/OS1.0.23.12.18.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.11.DEV</td><td>14.0</td><td>5.8 GB</td><td>2023-12-15</td><td><a href="/hyperos/zeus/public beta/OS1.0.23.12.11.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.4.DEV</td><td>14.0</td><td>5.7 GB</td><td>2023-12-08</td><td><a href="/hyperos/zeus/public beta/OS1.0.23.12.4.DEV/">Download</a></td></tr>
 
