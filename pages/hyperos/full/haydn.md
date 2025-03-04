@@ -52,7 +52,8 @@ permalink: /archive/hyperos/haydn/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K40 Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>OS1.0.12.0.UKKCNXM</td><td>14.0</td><td>5.6 GB</td><td>2025-02-06</td><td><a href="/hyperos/haydn/stable/OS1.0.12.0.UKKCNXM/">Download</a></td></tr>
+                <tr><td>Mi 11i EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.17.0.UKKEUXM</td><td>14.0</td><td>5.0 GB</td><td>2025-02-20</td><td><a href="/hyperos/haydn/stable beta/OS1.0.17.0.UKKEUXM/">Download</a></td></tr>
+<tr><td>Redmi K40 Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>OS1.0.12.0.UKKCNXM</td><td>14.0</td><td>5.6 GB</td><td>2025-02-06</td><td><a href="/hyperos/haydn/stable/OS1.0.12.0.UKKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40 Pro / Pro+ China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.12.0.UKKCNXM</td><td>14.0</td><td>6.4 GB</td><td>2025-02-05</td><td><a href="/hyperos/haydn/stable/OS1.0.12.0.UKKCNXM/">Download</a></td></tr>
 <tr><td>Mi 11i Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.14.0.UKKMIXM</td><td>14.0</td><td>5.0 GB</td><td>2025-01-21</td><td><a href="/hyperos/haydn/stable beta/OS1.0.14.0.UKKMIXM/">Download</a></td></tr>
 <tr><td>Mi 11i EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.14.0.UKKEUXM</td><td>14.0</td><td>5.0 GB</td><td>2025-01-20</td><td><a href="/hyperos/haydn/stable beta/OS1.0.14.0.UKKEUXM/">Download</a></td></tr>

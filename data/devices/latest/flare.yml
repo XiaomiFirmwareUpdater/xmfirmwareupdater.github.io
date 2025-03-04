@@ -9,12 +9,12 @@
     android: '15.0'
     miui: OS2.0.1.0.VHXMIXM
 - branch: stable
-  date: '2025-01-05'
+  date: '2025-03-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flare/releases/download/stable-06.01.2025/fw_flare_miui_FLAREEEAGlobal_OS1.0.6.0.UHXEUXM_42b4380546_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/flare/fw_flare_miui_FLAREEEAGlobal_OS1.0.6.0.UHXEUXM_42b4380546_14.0.zip
-  filename: fw_flare_miui_FLAREEEAGlobal_OS1.0.6.0.UHXEUXM_42b4380546_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flare/releases/download/stable-04.03.2025/fw_flare_eea_global_flare_eea_global-ota_full-OS2.0.2.0.VHXEUXM-user-15.0-0e735aa55d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/flare/fw_flare_eea_global_flare_eea_global-ota_full-OS2.0.2.0.VHXEUXM-user-15.0-0e735aa55d.zip
+  filename: fw_flare_eea_global_flare_eea_global-ota_full-OS2.0.2.0.VHXEUXM-user-15.0-0e735aa55d.zip
   region: Europe
   versions:
-    android: '14.0'
-    miui: OS1.0.6.0.UHXEUXM
+    android: '15.0'
+    miui: OS2.0.2.0.VHXEUXM

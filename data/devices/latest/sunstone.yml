@@ -19,22 +19,22 @@
     android: '14.0'
     miui: OS1.0.4.0.UMQCNXM
 - branch: stable
-  date: '2025-01-20'
+  date: '2025-03-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-20.01.2025/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.14.0.UMQEUXM_99748f36c5_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sunstone/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.14.0.UMQEUXM_99748f36c5_14.0.zip
-  filename: fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.14.0.UMQEUXM_99748f36c5_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-04.03.2025/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.15.0.UMQEUXM_10e0d0cbec_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sunstone/fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.15.0.UMQEUXM_10e0d0cbec_14.0.zip
+  filename: fw_sunstone_miui_SUNSTONEEEAGlobal_OS1.0.15.0.UMQEUXM_10e0d0cbec_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.14.0.UMQEUXM
+    miui: OS1.0.15.0.UMQEUXM
 - branch: stable
-  date: '2025-01-10'
+  date: '2025-03-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-10.01.2025/fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.6.0.UMQINXM_6c0e91c28e_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sunstone/fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.6.0.UMQINXM_6c0e91c28e_14.0.zip
-  filename: fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.6.0.UMQINXM_6c0e91c28e_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-04.03.2025/fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.7.0.UMQINXM_bf780c0faf_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/sunstone/fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.7.0.UMQINXM_bf780c0faf_14.0.zip
+  filename: fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.7.0.UMQINXM_bf780c0faf_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.6.0.UMQINXM
+    miui: OS1.0.7.0.UMQINXM
