@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 05 Mar 2025 07:35:07 </lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 13:39:41 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS1.0.16.0.ULFCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/diting/</link>
+            <pubDate>Wed, 05 Mar 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>MIX Flip (ruyi) - OS2.0.103.0.VNICNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruyi/</link>
@@ -938,11 +943,6 @@
         </item>
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS1.0.11.0.ULFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/diting/</link>
-            <pubDate>Wed, 05 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS1.0.15.0.ULFCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/diting/</link>
             <pubDate>Wed, 05 Feb 2025 00:00:00 </pubDate>
         </item>
