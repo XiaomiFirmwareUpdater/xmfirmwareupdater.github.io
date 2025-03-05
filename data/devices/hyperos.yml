@@ -9214,6 +9214,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UNIMIXM/fw_ruyi_miui_RUYIGlobal_OS1.0.9.0.UNIMIXM_9388d18249_14.0.zip
   name: MIX Flip
   version: OS1.0.9.0.UNIMIXM
+- android: '15.0'
+  codename: ruyi
+  date: '2025-03-05'
+  download: https://bigota.d.miui.com/OS2.0.103.0.VNICNXM/fw_ruyi_ruyi-ota_full-OS2.0.103.0.VNICNXM-user-15.0-2cceda3b7d.zip
+  name: MIX Flip
+  version: OS2.0.103.0.VNICNXM
 - android: '14.0'
   codename: sapphire
   date: '2024-03-29'
