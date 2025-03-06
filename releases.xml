@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 06 Mar 2025 07:16:21 </lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 13:43:14 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 13T (aristotle) - OS2.0.3.0.VMFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
+            <pubDate>Thu, 06 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - OS1.0.10.0.UKAEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/star/</link>
+            <pubDate>Thu, 06 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - OS1.0.10.0.UKAINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/star/</link>
             <pubDate>Thu, 06 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1057,11 +1067,6 @@
             <pubDate>Mon, 20 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - OS1.0.9.0.UKAINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/star/</link>
-            <pubDate>Mon, 20 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS1.0.10.0.UNSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
             <pubDate>Sun, 19 Jan 2025 00:00:00 </pubDate>
@@ -1304,11 +1309,6 @@
         <item>
             <title>Redmi A1/POCO C50/A1+ (ice) - V13.0.17.0.SGMINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ice/</link>
-            <pubDate>Tue, 10 Dec 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - OS1.0.8.0.UKAEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/star/</link>
             <pubDate>Tue, 10 Dec 2024 00:00:00 </pubDate>
         </item>
         <item>
