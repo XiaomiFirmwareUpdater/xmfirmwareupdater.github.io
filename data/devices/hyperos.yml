@@ -10882,6 +10882,12 @@
   download: https://bigota.d.miui.com/OS1.0.14.0.ULACNXM/fw_thor_miui_THOR_OS1.0.14.0.ULACNXM_f5e17ed08d_14.0.zip
   name: Xiaomi 12S Ultra
   version: OS1.0.14.0.ULACNXM
+- android: '15.0'
+  codename: thor
+  date: '2025-03-06'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VLACNXM/fw_thor_thor-ota_full-OS2.0.4.0.VLACNXM-user-15.0-3b592783d4.zip
+  name: Xiaomi 12S Ultra
+  version: OS2.0.4.0.VLACNXM
 - android: '14.0'
   codename: thor
   date: '2025-01-07'

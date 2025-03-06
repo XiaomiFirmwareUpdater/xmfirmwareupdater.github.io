@@ -109,6 +109,16 @@
     android: '14.0'
     miui: OS1.0.14.0.ULACNXM
 - branch: stable
+  date: '2025-03-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-07.03.2025/fw_thor_thor-ota_full-OS2.0.4.0.VLACNXM-user-15.0-3b592783d4.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/thor/fw_thor_thor-ota_full-OS2.0.4.0.VLACNXM-user-15.0-3b592783d4.zip
+  filename: fw_thor_thor-ota_full-OS2.0.4.0.VLACNXM-user-15.0-3b592783d4.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.4.0.VLACNXM
+- branch: stable
   date: '2025-01-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-07.01.2025/fw_thor_miui_THOR_OS1.0.16.0.ULACNXM_2d1b0e6d67_14.0.zip
