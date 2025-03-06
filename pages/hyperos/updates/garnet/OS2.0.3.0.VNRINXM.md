@@ -3,7 +3,7 @@ title: Redmi Note 13 Pro 5G / POCO X6 5G India HyperOS OS2.0.3.0.VNRINXM Update
 layout: download
 name: Redmi Note 13 Pro 5G / POCO X6 5G India
 codename: garnet
-permalink: /hyperos/garnet/stable beta/OS2.0.3.0.VNRINXM/
+permalink: /hyperos/garnet/stable/OS2.0.3.0.VNRINXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/garnet/stable beta/OS2.0.3.0.VNRINXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.3.0.VNRINXM Stable Beta Official Update for Redmi Note 13 Pro 5G / POCO X6 5G India (garnet)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.3.0.VNRINXM Stable Official Update for Redmi Note 13 Pro 5G / POCO X6 5G India (garnet)</h3>
     <h5>This page shows the OS2.0.3.0.VNRINXM update only. If you're looking for other updates check
         <a href="/hyperos/garnet/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/garnet/stable beta/OS2.0.3.0.VNRINXM/
                     <h5><b>Version: </b>OS2.0.3.0.VNRINXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/garnet/stable beta/OS2.0.3.0.VNRINXM/
                             aria-expanded="false" aria-controls="garnet_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="garnet_1_changelog">
+                        <p id="changelog_text">[Alive Design Philosophy]<br>Alive Design Philosophy unveils fresh, vibrant design across the whole system, making every interaction feel smooth and alive.<br>All-new Artistic Lock screen:<br>Artistic Lock screen brings new templates and effects inspired by classic designs, giving your device a cinematic look every time you unlock it.<br>All-new Gallery:<br>With AI and reorganized collections, Gallery makes your memories even more vivid.<br>All-new Weather<br>Real-time Weather Engine 2.0 shows you the sky and clouds just like in real life – even lets you see rainbows and the Milky Way.<br>All-new Calendar:<br>The new Desktop calendar adds a touch of ritual to your day.<br>All-new Clock:<br>Updated Clock uses a more refined display structure for a more elegant, easy-to-read look.<br>Updated animations:<br>A full-scale animation upgrade makes every interaction flow smoothly and feel stable, responsive, and comfortable.<br>[Xiaomi HyperCore]<br>Xiaomi HyperCore, Xiaomi's proprietary core technology platform, enhances performance, graphics, network, and security.<br>New dynamic memory:<br>New technology allows precise resource allocation, so apps start up faster.<br>Upgraded rendering:<br>Upgraded rendering for multitasking extends battery life.<br>Heterogeneous computing:<br>Enhanced rendering pipeline boosts hardware performance for faster, more efficient visuals.<br>[Xiaomi HyperConnect]<br>Upgraded cross-device connectivity framework.<br>Upgraded Home screen+:<br>You can drag phone apps onto Xiaomi tablets or add them as native apps.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi Note 13 Pro 5G / POCO X6 5G India</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/garnet/" target="_blank">garnet</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.3.0.VNRINXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>7.0 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-01-15</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">garnet_in_global_images_OS2.0.3.0.VNRINXM_20250115.0000.00_15.0_in_ebd22e59bc.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ebd22e59bc02ad752bdb940e70cabf83</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.3.0.VNRINXM/garnet_in_global_images_OS2.0.3.0.VNRINXM_20250115.0000.00_15.0_in_ebd22e59bc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.3.0.VNRINXM/garnet_in_global_images_OS2.0.3.0.VNRINXM_20250115.0000.00_15.0_in_ebd22e59bc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.3.0.VNRINXM/garnet_in_global_images_OS2.0.3.0.VNRINXM_20250115.0000.00_15.0_in_ebd22e59bc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.3.0.VNRINXM/garnet_in_global_images_OS2.0.3.0.VNRINXM_20250115.0000.00_15.0_in_ebd22e59bc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.3.0.VNRINXM/garnet_in_global_images_OS2.0.3.0.VNRINXM_20250115.0000.00_15.0_in_ebd22e59bc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#garnet_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="garnet_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="garnet_2_changelog">
                         <p id="changelog_text">[Alive Design Philosophy]<br>Alive Design Philosophy unveils fresh, vibrant design across the whole system, making every interaction feel smooth and alive.<br>All-new Artistic Lock screen:<br>Artistic Lock screen brings new templates and effects inspired by classic designs, giving your device a cinematic look every time you unlock it.<br>All-new Gallery:<br>With AI and reorganized collections, Gallery makes your memories even more vivid.<br>All-new Weather<br>Real-time Weather Engine 2.0 shows you the sky and clouds just like in real life – even lets you see rainbows and the Milky Way.<br>All-new Calendar:<br>The new Desktop calendar adds a touch of ritual to your day.<br>All-new Clock:<br>Updated Clock uses a more refined display structure for a more elegant, easy-to-read look.<br>Updated animations:<br>A full-scale animation upgrade makes every interaction flow smoothly and feel stable, responsive, and comfortable.<br>[Xiaomi HyperCore]<br>Xiaomi HyperCore, Xiaomi's proprietary core technology platform, enhances performance, graphics, network, and security.<br>New dynamic memory:<br>New technology allows precise resource allocation, so apps start up faster.<br>Upgraded rendering:<br>Upgraded rendering for multitasking extends battery life.<br>Heterogeneous computing:<br>Enhanced rendering pipeline boosts hardware performance for faster, more efficient visuals.<br>[Xiaomi HyperConnect]<br>Upgraded cross-device connectivity framework.<br>Upgraded Home screen+:<br>You can drag phone apps onto Xiaomi tablets or add them as native apps.</p>
                     </div>
                 </li>

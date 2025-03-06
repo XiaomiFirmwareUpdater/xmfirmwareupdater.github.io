@@ -149,6 +149,16 @@
     android: '14.0'
     miui: OS1.0.6.0.UMFEUXM
 - branch: stable
+  date: '2025-03-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aristotle/releases/download/stable-06.03.2025/fw_aristotle_global_aristotle_global-ota_full-OS2.0.3.0.VMFMIXM-user-15.0-6a0c5ce211.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aristotle/fw_aristotle_global_aristotle_global-ota_full-OS2.0.3.0.VMFMIXM-user-15.0-6a0c5ce211.zip
+  filename: fw_aristotle_global_aristotle_global-ota_full-OS2.0.3.0.VMFMIXM-user-15.0-6a0c5ce211.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.3.0.VMFMIXM
+- branch: stable
   date: '2025-01-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aristotle/releases/download/stable-06.01.2025/fw_aristotle_eea_global_aristotle_eea_global-ota_full-OS2.0.2.0.VMFEUXM-user-15.0-c59e651003.zip
