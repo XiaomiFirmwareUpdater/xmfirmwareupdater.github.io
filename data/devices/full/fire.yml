@@ -359,6 +359,16 @@
     android: '13.0'
     miui: V14.0.9.0.TMXMIXM
 - branch: stable
+  date: '2025-03-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-07.03.2025/fw_fire_in_global_fire_in_global-ota_full-OS2.0.3.0.VMXINXM-user-15.0-6ce4915511.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/fire/fw_fire_in_global_fire_in_global-ota_full-OS2.0.3.0.VMXINXM-user-15.0-6ce4915511.zip
+  filename: fw_fire_in_global_fire_in_global-ota_full-OS2.0.3.0.VMXINXM-user-15.0-6ce4915511.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.3.0.VMXINXM
+- branch: stable
   date: '2023-07-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-06.07.2023/fw_fire_miui_FIREEEAGlobal_V14.0.6.0.TMXEUXM_70971d745a_13.0.zip

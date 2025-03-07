@@ -119,6 +119,16 @@
     android: '14.0'
     miui: OS1.0.6.0.UMICNXM
 - branch: stable
+  date: '2025-03-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yuechu/releases/download/stable-07.03.2025/fw_yuechu_yuechu-ota_full-OS2.0.2.0.VMICNXM-user-15.0-a171fa4d1a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/yuechu/fw_yuechu_yuechu-ota_full-OS2.0.2.0.VMICNXM-user-15.0-a171fa4d1a.zip
+  filename: fw_yuechu_yuechu-ota_full-OS2.0.2.0.VMICNXM-user-15.0-a171fa4d1a.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.2.0.VMICNXM
+- branch: stable
   date: '2024-08-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yuechu/releases/download/stable-05.08.2024/fw_yuechu_miui_YUECHU_OS1.0.7.0.UMICNXM_c0c6958baf_14.0.zip

@@ -239,6 +239,26 @@
     android: '14.0'
     miui: OS1.0.2.0.UNHMIXM
 - branch: stable
+  date: '2025-03-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphiren/releases/download/stable-07.03.2025/fw_sapphiren_eea_global_sapphiren_eea_global-ota_full-OS2.0.4.0.VNHEUXM-user-15.0-e84f6478aa.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sapphiren/fw_sapphiren_eea_global_sapphiren_eea_global-ota_full-OS2.0.4.0.VNHEUXM-user-15.0-e84f6478aa.zip
+  filename: fw_sapphiren_eea_global_sapphiren_eea_global-ota_full-OS2.0.4.0.VNHEUXM-user-15.0-e84f6478aa.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.4.0.VNHEUXM
+- branch: stable
+  date: '2025-03-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphiren/releases/download/stable-07.03.2025/fw_sapphiren_global_sapphiren_global-ota_full-OS2.0.9.0.VNHMIXM-user-15.0-c2516df1fd.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sapphiren/fw_sapphiren_global_sapphiren_global-ota_full-OS2.0.9.0.VNHMIXM-user-15.0-c2516df1fd.zip
+  filename: fw_sapphiren_global_sapphiren_global-ota_full-OS2.0.9.0.VNHMIXM-user-15.0-c2516df1fd.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.9.0.VNHMIXM
+- branch: stable
   date: '2025-02-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphiren/releases/download/stable-06.02.2025/fw_sapphiren_global_sapphiren_global-ota_full-OS2.0.7.0.VNHMIXM-user-15.0-ac0a4e7772.zip
