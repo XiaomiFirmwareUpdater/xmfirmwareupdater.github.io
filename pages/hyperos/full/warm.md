@@ -52,7 +52,9 @@ permalink: /archive/hyperos/warm/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UGVINXM</td><td>14.0</td><td>3.9 GB</td><td>2024-12-17</td><td><a href="/hyperos/warm/stable/OS1.0.7.0.UGVINXM/">Download</a></td></tr>
+                <tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UGVINXM</td><td>14.0</td><td>3.9 GB</td><td>2025-02-24</td><td><a href="/hyperos/warm/stable/OS1.0.8.0.UGVINXM/">Download</a></td></tr>
+<tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UGVINXM</td><td>14.0</td><td>5.6 GB</td><td>2025-02-14</td><td><a href="/hyperos/warm/stable/OS1.0.8.0.UGVINXM/">Download</a></td></tr>
+<tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UGVINXM</td><td>14.0</td><td>3.9 GB</td><td>2024-12-17</td><td><a href="/hyperos/warm/stable/OS1.0.7.0.UGVINXM/">Download</a></td></tr>
 <tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UGVINXM</td><td>14.0</td><td>5.5 GB</td><td>2024-12-12</td><td><a href="/hyperos/warm/stable/OS1.0.7.0.UGVINXM/">Download</a></td></tr>
 <tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UGVINXM</td><td>14.0</td><td>3.9 GB</td><td>2024-12-03</td><td><a href="/hyperos/warm/stable/OS1.0.5.0.UGVINXM/">Download</a></td></tr>
 <tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UGVINXM</td><td>14.0</td><td>5.5 GB</td><td>2024-11-25</td><td><a href="/hyperos/warm/stable/OS1.0.5.0.UGVINXM/">Download</a></td></tr>

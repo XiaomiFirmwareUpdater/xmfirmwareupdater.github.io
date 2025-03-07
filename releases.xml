@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 07 Mar 2025 01:33:40 </lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 07:39:46 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS1.0.15.0.UMSCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
+            <pubDate>Fri, 07 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A4 5G/POCO C75 5G (warm) - OS1.0.8.0.UGVINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/warm/</link>
+            <pubDate>Fri, 07 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS2.0.2.0.VLLEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
+            <pubDate>Fri, 07 Mar 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 13T (aristotle) - OS2.0.3.0.VMFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
@@ -792,11 +807,6 @@
             <pubDate>Fri, 14 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS1.0.14.0.ULLEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
-            <pubDate>Fri, 14 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS2.0.7.0.VOPCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
             <pubDate>Thu, 13 Feb 2025 00:00:00 </pubDate>
@@ -1277,11 +1287,6 @@
             <pubDate>Thu, 19 Dec 2024 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi A4 5G/POCO C75 5G (warm) - OS1.0.7.0.UGVINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/warm/</link>
-            <pubDate>Tue, 17 Dec 2024 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12X (psyche) - OS1.0.8.0.TLDMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/psyche/</link>
             <pubDate>Mon, 16 Dec 2024 00:00:00 </pubDate>
@@ -1289,11 +1294,6 @@
         <item>
             <title>Xiaomi 12X (psyche) - OS1.0.8.0.TLDEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/psyche/</link>
-            <pubDate>Mon, 16 Dec 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS1.0.13.0.UMSCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
             <pubDate>Mon, 16 Dec 2024 00:00:00 </pubDate>
         </item>
         <item>
