@@ -78,7 +78,7 @@ permalink: /hyperos/ruyi/stable beta/OS2.0.103.0.VNICNXM/
                             aria-expanded="false" aria-controls="ruyi_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="ruyi_1_changelog">
-                        <p id="changelog_text">[System]<br>Optimization: Wallpaper display<br>Fix: Home screen became unresponsive after switching between landscape and portrait orientation<br>Fix: Some devices rebooted unexpectedly<br>Updated the security patch to February 2025. Increased system security.<br>[Home screen]<br>Fix: Home screen shortcuts decreased in size in some cases<br>[Wallpaper]<br>Fix: Issues with outer screen wallpaper settings<br>[Widgets]<br>Fix: Data update errors for certain widgets in App vault</p>
+                        <p id="changelog_text">[Attention]<br>System updates won't delete any of your data, but it's a good idea to back it up before updating, just in case.<br>The software update package will be deleted once the update is complete and won't occupy storage space on your device.<br>If you run into any issues, you can get help or share your feedback through the "Service & feedback" app.<br>Learn more about Xiaomi HyperOS in Xiaomi Community</p>
                     </div>
                 </li>
             </ul>

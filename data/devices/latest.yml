@@ -5339,15 +5339,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2024-12-30'
+  date: '2025-03-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-30.12.2024/fw_sky_global_sky_global-ota_full-OS2.0.3.0.VMWMIXM-user-15.0-41bf410c94.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sky/fw_sky_global_sky_global-ota_full-OS2.0.3.0.VMWMIXM-user-15.0-41bf410c94.zip
-  filename: fw_sky_global_sky_global-ota_full-OS2.0.3.0.VMWMIXM-user-15.0-41bf410c94.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-07.03.2025/fw_sky_global_sky_global-ota_full-OS2.0.4.0.VMWMIXM-user-15.0-ea8721c043.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sky/fw_sky_global_sky_global-ota_full-OS2.0.4.0.VMWMIXM-user-15.0-ea8721c043.zip
+  filename: fw_sky_global_sky_global-ota_full-OS2.0.4.0.VMWMIXM-user-15.0-ea8721c043.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.3.0.VMWMIXM
+    miui: OS2.0.4.0.VMWMIXM
 - branch: stable
   date: '2025-02-19'
   downloads:
@@ -5359,15 +5359,15 @@
     android: '15.0'
     miui: OS2.0.2.0.VMWCNXM
 - branch: stable
-  date: '2025-01-13'
+  date: '2025-03-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-13.01.2025/fw_sky_eea_global_sky_eea_global-ota_full-OS2.0.3.0.VMWEUXM-user-15.0-c1694df2b3.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sky/fw_sky_eea_global_sky_eea_global-ota_full-OS2.0.3.0.VMWEUXM-user-15.0-c1694df2b3.zip
-  filename: fw_sky_eea_global_sky_eea_global-ota_full-OS2.0.3.0.VMWEUXM-user-15.0-c1694df2b3.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-07.03.2025/fw_sky_eea_global_sky_eea_global-ota_full-OS2.0.5.0.VMWEUXM-user-15.0-0c811cb5a7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sky/fw_sky_eea_global_sky_eea_global-ota_full-OS2.0.5.0.VMWEUXM-user-15.0-0c811cb5a7.zip
+  filename: fw_sky_eea_global_sky_eea_global-ota_full-OS2.0.5.0.VMWEUXM-user-15.0-0c811cb5a7.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.3.0.VMWEUXM
+    miui: OS2.0.5.0.VMWEUXM
 - branch: stable
   date: '2025-02-24'
   downloads:

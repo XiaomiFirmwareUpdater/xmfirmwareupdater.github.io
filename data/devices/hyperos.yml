@@ -10054,6 +10054,18 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UMWMIXM/fw_sky_miui_SKYGlobal_OS1.0.6.0.UMWMIXM_bd1a6d34b1_14.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
   version: OS1.0.6.0.UMWMIXM
+- android: '15.0'
+  codename: sky
+  date: '2025-03-07'
+  download: https://bigota.d.miui.com/OS2.0.5.0.VMWEUXM/fw_sky_eea_global_sky_eea_global-ota_full-OS2.0.5.0.VMWEUXM-user-15.0-0c811cb5a7.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS2.0.5.0.VMWEUXM
+- android: '15.0'
+  codename: sky
+  date: '2025-03-07'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VMWMIXM/fw_sky_global_sky_global-ota_full-OS2.0.4.0.VMWMIXM-user-15.0-ea8721c043.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS2.0.4.0.VMWMIXM
 - android: '14.0'
   codename: sky
   date: '2024-11-06'
