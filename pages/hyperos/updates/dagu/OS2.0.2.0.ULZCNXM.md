@@ -3,7 +3,7 @@ title: Xiaomi Pad 5 Pro 12.4 China HyperOS OS2.0.2.0.ULZCNXM Update
 layout: download
 name: Xiaomi Pad 5 Pro 12.4 China
 codename: dagu
-permalink: /hyperos/dagu/stable beta/OS2.0.2.0.ULZCNXM/
+permalink: /hyperos/dagu/stable/OS2.0.2.0.ULZCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/dagu/stable beta/OS2.0.2.0.ULZCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.2.0.ULZCNXM Stable Beta Official Update for Xiaomi Pad 5 Pro 12.4 China (dagu)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.2.0.ULZCNXM Stable Official Update for Xiaomi Pad 5 Pro 12.4 China (dagu)</h3>
     <h5>This page shows the OS2.0.2.0.ULZCNXM update only. If you're looking for other updates check
         <a href="/hyperos/dagu/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/dagu/stable beta/OS2.0.2.0.ULZCNXM/
                     <h5><b>Version: </b>OS2.0.2.0.ULZCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/dagu/stable beta/OS2.0.2.0.ULZCNXM/
                             aria-expanded="false" aria-controls="dagu_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="dagu_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to January 2025. Increased system security.<br>[Alive Design Philosophy]<br>Alive Design Philosophy unveils fresh, vibrant design across the whole system, making every interaction feel smooth and alive.<br>All-new Gallery:<br>With AI and reorganized collections, Gallery makes your memories even more vivid.<br>All-new Weather<br>Real-time Weather Engine 2.0 shows you the sky and clouds just like in real life – even lets you see rainbows and the Milky Way.<br>All-new Calendar:<br>The new Desktop calendar adds a touch of ritual to your day.<br>All-new Clock:<br>Updated Clock uses a more refined display structure for a more elegant, easy-to-read look.<br>Updated widgets:<br>Enhanced widgets allow you to customize and combine information on your Home screen for a more efficient, stylish experience.<br>Updated animations:<br>A full-scale animation upgrade makes every interaction flow smoothly and feel stable, responsive, and comfortable.<br>[Xiaomi HyperCore]<br>Xiaomi HyperCore, Xiaomi's proprietary core technology platform, enhances performance, graphics, network, and security.<br>New microarchitecture scheduler:<br>A new in-house microarchitecture scheduler manages tasks more efficiently.<br>New dynamic memory:<br>New technology allows precise resource allocation, so apps start up faster.<br>Upgraded rendering:<br>Upgraded rendering for multitasking extends battery life.<br>Heterogeneous computing:<br>Enhanced rendering pipeline boosts hardware performance for faster, more efficient visuals.<br>Enhanced wireless compatibility:<br>Enhanced wireless compatibility boosts network stability for more reliable connections.<br>[Xiaomi HyperConnect]<br>Upgraded cross-device connectivity framework.<br>Updated shared clipboard:<br>Shared clipboard allows you to batch copy text for easier multi-device sharing.<br>Documents:<br>Take document editing to a new level with over 100 supported file formats, including documents, spreadsheets, and presentations across devices.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi Pad 5 Pro 12.4 China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/dagu/" target="_blank">dagu</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.2.0.ULZCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>5.5 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-02-22</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dagu_images_OS2.0.2.0.ULZCNXM_20250222.0000.00_14.0_cn_05c87aaf0f.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">05c87aaf0f946eb1f823d8ceaaadab3c</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.2.0.ULZCNXM/dagu_images_OS2.0.2.0.ULZCNXM_20250222.0000.00_14.0_cn_05c87aaf0f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.2.0.ULZCNXM/dagu_images_OS2.0.2.0.ULZCNXM_20250222.0000.00_14.0_cn_05c87aaf0f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.2.0.ULZCNXM/dagu_images_OS2.0.2.0.ULZCNXM_20250222.0000.00_14.0_cn_05c87aaf0f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.2.0.ULZCNXM/dagu_images_OS2.0.2.0.ULZCNXM_20250222.0000.00_14.0_cn_05c87aaf0f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.2.0.ULZCNXM/dagu_images_OS2.0.2.0.ULZCNXM_20250222.0000.00_14.0_cn_05c87aaf0f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#dagu_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="dagu_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="dagu_2_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to January 2025. Increased system security.<br>[Alive Design Philosophy]<br>Alive Design Philosophy unveils fresh, vibrant design across the whole system, making every interaction feel smooth and alive.<br>All-new Gallery:<br>With AI and reorganized collections, Gallery makes your memories even more vivid.<br>All-new Weather<br>Real-time Weather Engine 2.0 shows you the sky and clouds just like in real life – even lets you see rainbows and the Milky Way.<br>All-new Calendar:<br>The new Desktop calendar adds a touch of ritual to your day.<br>All-new Clock:<br>Updated Clock uses a more refined display structure for a more elegant, easy-to-read look.<br>Updated widgets:<br>Enhanced widgets allow you to customize and combine information on your Home screen for a more efficient, stylish experience.<br>Updated animations:<br>A full-scale animation upgrade makes every interaction flow smoothly and feel stable, responsive, and comfortable.<br>[Xiaomi HyperCore]<br>Xiaomi HyperCore, Xiaomi's proprietary core technology platform, enhances performance, graphics, network, and security.<br>New microarchitecture scheduler:<br>A new in-house microarchitecture scheduler manages tasks more efficiently.<br>New dynamic memory:<br>New technology allows precise resource allocation, so apps start up faster.<br>Upgraded rendering:<br>Upgraded rendering for multitasking extends battery life.<br>Heterogeneous computing:<br>Enhanced rendering pipeline boosts hardware performance for faster, more efficient visuals.<br>Enhanced wireless compatibility:<br>Enhanced wireless compatibility boosts network stability for more reliable connections.<br>[Xiaomi HyperConnect]<br>Upgraded cross-device connectivity framework.<br>Updated shared clipboard:<br>Shared clipboard allows you to batch copy text for easier multi-device sharing.<br>Documents:<br>Take document editing to a new level with over 100 supported file formats, including documents, spreadsheets, and presentations across devices.</p>
                     </div>
                 </li>

@@ -52,7 +52,8 @@ permalink: /archive/hyperos/dagu/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.2.0.ULZCNXM</td><td>14.0</td><td>4.6 GB</td><td>2025-02-26</td><td><a href="/hyperos/dagu/stable beta/OS2.0.2.0.ULZCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.ULZCNXM</td><td>14.0</td><td>4.6 GB</td><td>2025-02-26</td><td><a href="/hyperos/dagu/stable/OS2.0.2.0.ULZCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.ULZCNXM</td><td>14.0</td><td>5.5 GB</td><td>2025-02-22</td><td><a href="/hyperos/dagu/stable/OS2.0.2.0.ULZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.14.0.ULZCNXM</td><td>14.0</td><td>4.4 GB</td><td>2025-01-09</td><td><a href="/hyperos/dagu/stable/OS1.0.14.0.ULZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.14.0.ULZCNXM</td><td>14.0</td><td>5.4 GB</td><td>2025-01-02</td><td><a href="/hyperos/dagu/stable/OS1.0.14.0.ULZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.ULZCNXM</td><td>14.0</td><td>4.4 GB</td><td>2024-12-04</td><td><a href="/hyperos/dagu/stable/OS1.0.11.0.ULZCNXM/">Download</a></td></tr>
@@ -64,13 +65,13 @@ permalink: /archive/hyperos/dagu/
 <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.ULZCNXM</td><td>14.0</td><td>5.4 GB</td><td>2024-07-30</td><td><a href="/hyperos/dagu/stable/OS1.0.4.0.ULZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.ULZCNXM</td><td>14.0</td><td>4.4 GB</td><td>2024-05-27</td><td><a href="/hyperos/dagu/stable/OS1.0.2.0.ULZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.ULZCNXM</td><td>14.0</td><td>5.4 GB</td><td>2024-05-13</td><td><a href="/hyperos/dagu/stable/OS1.0.2.0.ULZCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.ULZCNXM</td><td>14.0</td><td>5.4 GB</td><td>2024-02-22</td><td><a href="/hyperos/dagu/stable/OS1.0.1.0.ULZCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.ULZCNXM</td><td>14.0</td><td>4.5 GB</td><td>2024-01-31</td><td><a href="/hyperos/dagu/stable/OS1.0.1.0.ULZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>4.5 GB</td><td>2024-01-12</td><td><a href="/hyperos/dagu/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.1.DEV</td><td>14.0</td><td>4.5 GB</td><td>2024-01-05</td><td><a href="/hyperos/dagu/public beta/OS1.0.24.1.1.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.28.DEV</td><td>14.0</td><td>4.5 GB</td><td>2023-12-29</td><td><a href="/hyperos/dagu/public beta/OS1.0.23.12.28.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.18.DEV</td><td>14.0</td><td>4.5 GB</td><td>2023-12-22</td><td><a href="/hyperos/dagu/public beta/OS1.0.23.12.18.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.11.DEV</td><td>14.0</td><td>4.5 GB</td><td>2023-12-15</td><td><a href="/hyperos/dagu/public beta/OS1.0.23.12.11.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.ULZCNXM</td><td>14.0</td><td>5.4 GB</td><td>2024-02-22</td><td><a href="/hyperos/dagu/stable/OS1.0.1.0.ULZCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.ULZCNXM</td><td>14.0</td><td>4.5 GB</td><td>2024-01-31</td><td><a href="/hyperos/dagu/stable/OS1.0.1.0.ULZCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
