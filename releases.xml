@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 08 Mar 2025 07:05:04 </lastBuildDate>
+        <lastBuildDate>Sat, 08 Mar 2025 13:14:17 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS1.0.7.0.UGQINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/air/</link>
+            <pubDate>Sat, 08 Mar 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 15 (dada) - OS2.0.108.0.VOCCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dada/</link>
@@ -1245,11 +1250,6 @@
             <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - OS1.0.10.0.TKEINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fleur/</link>
             <pubDate>Fri, 27 Dec 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS1.0.5.0.UGQINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/air/</link>
-            <pubDate>Mon, 23 Dec 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 11 NFC (spesn) - OS1.0.6.0.TGKEUXM</title>
