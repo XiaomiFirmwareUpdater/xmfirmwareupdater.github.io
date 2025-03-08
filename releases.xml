@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 08 Mar 2025 13:14:17 </lastBuildDate>
+        <lastBuildDate>Sat, 08 Mar 2025 19:21:58 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS1.0.7.0.UGQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
+            <pubDate>Sat, 08 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.110.0.VNNCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
             <pubDate>Sat, 08 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -349,11 +354,6 @@
         <item>
             <title>Xiaomi Pad 7 Pro (muyu) - OS2.0.101.0.VOYEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
-            <pubDate>Sat, 01 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.109.0.VNNCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
             <pubDate>Sat, 01 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
