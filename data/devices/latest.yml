@@ -1869,15 +1869,15 @@
     android: '13.0'
     miui: OS1.0.10.0.TKEINXM
 - branch: stable
-  date: '2024-09-11'
+  date: '2025-03-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-12.09.2024/fw_fog_miui_FOGGlobal_V14.0.8.0.TGEMIXM_3123a0a1a4_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fog/fw_fog_miui_FOGGlobal_V14.0.8.0.TGEMIXM_3123a0a1a4_13.0.zip
-  filename: fw_fog_miui_FOGGlobal_V14.0.8.0.TGEMIXM_3123a0a1a4_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-10.03.2025/fw_fog_miui_FOGGlobal_V14.0.9.0.TGEMIXM_b5d8d5dca0_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fog/fw_fog_miui_FOGGlobal_V14.0.9.0.TGEMIXM_b5d8d5dca0_13.0.zip
+  filename: fw_fog_miui_FOGGlobal_V14.0.9.0.TGEMIXM_b5d8d5dca0_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.8.0.TGEMIXM
+    miui: V14.0.9.0.TGEMIXM
 - branch: stable
   date: '2024-11-20'
   downloads:
@@ -2159,15 +2159,15 @@
     android: '11.0'
     miui: V12.5.2.0.RCOINXM
 - branch: stable
-  date: '2025-01-20'
+  date: '2025-03-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goku/releases/download/stable-20.01.2025/fw_goku_goku-ota_full-OS2.0.102.0.VNVCNXM-user-15.0-2c00a2c2b7.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/goku/fw_goku_goku-ota_full-OS2.0.102.0.VNVCNXM-user-15.0-2c00a2c2b7.zip
-  filename: fw_goku_goku-ota_full-OS2.0.102.0.VNVCNXM-user-15.0-2c00a2c2b7.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goku/releases/download/stable-10.03.2025/fw_goku_goku-ota_full-OS2.0.104.0.VNVCNXM-user-15.0-2e76c8b5f1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/goku/fw_goku_goku-ota_full-OS2.0.104.0.VNVCNXM-user-15.0-2e76c8b5f1.zip
+  filename: fw_goku_goku-ota_full-OS2.0.104.0.VNVCNXM-user-15.0-2e76c8b5f1.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.102.0.VNVCNXM
+    miui: OS2.0.104.0.VNVCNXM
 - branch: stable
   date: '2025-02-12'
   downloads:
@@ -4879,15 +4879,15 @@
     android: '8.1'
     miui: 9.10.10
 - branch: stable
-  date: '2025-02-05'
+  date: '2025-03-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-05.02.2025/fw_rothko_global_rothko_global-ota_full-OS2.0.3.0.VNNMIXM-user-15.0-c01e21e3e9.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rothko/fw_rothko_global_rothko_global-ota_full-OS2.0.3.0.VNNMIXM-user-15.0-c01e21e3e9.zip
-  filename: fw_rothko_global_rothko_global-ota_full-OS2.0.3.0.VNNMIXM-user-15.0-c01e21e3e9.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-10.03.2025/fw_rothko_global_rothko_global-ota_full-OS2.0.102.0.VNNMIXM-user-15.0-561d16995b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rothko/fw_rothko_global_rothko_global-ota_full-OS2.0.102.0.VNNMIXM-user-15.0-561d16995b.zip
+  filename: fw_rothko_global_rothko_global-ota_full-OS2.0.102.0.VNNMIXM-user-15.0-561d16995b.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.3.0.VNNMIXM
+    miui: OS2.0.102.0.VNNMIXM
 - branch: stable
   date: '2025-03-08'
   downloads:

@@ -3784,6 +3784,12 @@
   download: https://bigota.d.miui.com/OS1.0.11.0.UNVCNXM/fw_goku_miui_GOKU_OS1.0.11.0.UNVCNXM_d6db9703d1_14.0.zip
   name: MIX Fold 4
   version: OS1.0.11.0.UNVCNXM
+- android: '15.0'
+  codename: goku
+  date: '2025-03-10'
+  download: https://bigota.d.miui.com/OS2.0.104.0.VNVCNXM/fw_goku_goku-ota_full-OS2.0.104.0.VNVCNXM-user-15.0-2e76c8b5f1.zip
+  name: MIX Fold 4
+  version: OS2.0.104.0.VNVCNXM
 - android: '14.0'
   codename: goku
   date: '2024-11-08'
@@ -8644,6 +8650,12 @@
   download: https://bigota.d.miui.com/OS2.0.103.0.VNNCNXM/fw_rothko_rothko-ota_full-OS2.0.103.0.VNNCNXM-user-15.0-f3d9998d73.zip
   name: Redmi K70 Ultra/Xiaomi 14T Pro
   version: OS2.0.103.0.VNNCNXM
+- android: '15.0'
+  codename: rothko
+  date: '2025-03-10'
+  download: https://bigota.d.miui.com/OS2.0.102.0.VNNMIXM/fw_rothko_global_rothko_global-ota_full-OS2.0.102.0.VNNMIXM-user-15.0-561d16995b.zip
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
+  version: OS2.0.102.0.VNNMIXM
 - android: '14.0'
   codename: rothko
   date: '2024-08-07'

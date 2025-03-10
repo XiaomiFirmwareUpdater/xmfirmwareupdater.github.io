@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 10 Mar 2025 13:17:26 </lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 20:01:29 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.105.0.VNLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Mon, 10 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 10C (fog) - V14.0.9.0.TGEMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/fog/</link>
+            <pubDate>Mon, 10 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>MIX Fold 4 (goku) - OS2.0.104.0.VNVCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/goku/</link>
             <pubDate>Mon, 10 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -19,6 +29,11 @@
         <item>
             <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.100.0.VNPMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
+            <pubDate>Mon, 10 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.102.0.VNNMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
             <pubDate>Mon, 10 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1012,11 +1027,6 @@
             <pubDate>Wed, 05 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.3.0.VNNMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
-            <pubDate>Wed, 05 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad Pro 5G/POCO Pad 5G (ruan) - OS2.0.1.0.VFSMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruan/</link>
             <pubDate>Wed, 05 Feb 2025 00:00:00 </pubDate>
@@ -1069,11 +1079,6 @@
         <item>
             <title>Xiaomi Civi 4 Pro (chenfeng) - OS2.0.100.0.VNJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
-            <pubDate>Mon, 20 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>MIX Fold 4 (goku) - OS2.0.102.0.VNVCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/goku/</link>
             <pubDate>Mon, 20 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1410,11 +1415,6 @@
             <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.18.0.RCZEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dandelion/</link>
             <pubDate>Thu, 12 Sep 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 10C (fog) - V14.0.8.0.TGEMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/fog/</link>
-            <pubDate>Wed, 11 Sep 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi A1/POCO C50/A1+ (ice) - V13.0.24.0.SGMMIXM</title>
