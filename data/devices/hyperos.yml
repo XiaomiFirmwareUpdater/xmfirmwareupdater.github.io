@@ -9150,6 +9150,12 @@
   version: OS1.0.4.0.UMOEUXM
 - android: '14.0'
   codename: ruby
+  date: '2025-03-10'
+  download: https://bigota.d.miui.com/OS1.0.16.0.UMOCNXM/fw_ruby_miui_RUBY_OS1.0.16.0.UMOCNXM_1ca459eebd_14.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS1.0.16.0.UMOCNXM
+- android: '14.0'
+  codename: ruby
   date: '2024-03-11'
   download: https://bigota.d.miui.com/OS1.0.1.0.UMOINXM/fw_ruby_miui_RUBYINGlobal_OS1.0.1.0.UMOINXM_3efecd9f47_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G

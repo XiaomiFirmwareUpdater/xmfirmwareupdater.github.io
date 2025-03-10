@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 10 Mar 2025 20:01:29 </lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 01:17:20 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.105.0.VNLCNXM</title>
@@ -34,6 +34,11 @@
         <item>
             <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.102.0.VNNMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
+            <pubDate>Mon, 10 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.16.0.UMOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Mon, 10 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -884,11 +889,6 @@
         <item>
             <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.103.0.VOJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
-            <pubDate>Fri, 14 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.13.0.UMOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Fri, 14 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
