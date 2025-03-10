@@ -52,7 +52,8 @@ permalink: /archive/hyperos/nabu/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 5 India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.16.0.TKXINXM</td><td>13.0</td><td>3.5 GB</td><td>2025-02-10</td><td><a href="/hyperos/nabu/stable beta/OS1.0.16.0.TKXINXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 5 India</td><td>Stable</td><td>Recovery</td><td>OS1.0.16.0.TKXINXM</td><td>13.0</td><td>3.5 GB</td><td>2025-02-10</td><td><a href="/hyperos/nabu/stable/OS1.0.16.0.TKXINXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.16.0.TKXINXM</td><td>13.0</td><td>4.3 GB</td><td>2025-01-21</td><td><a href="/hyperos/nabu/stable/OS1.0.16.0.TKXINXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 India</td><td>Stable</td><td>Recovery</td><td>OS1.0.14.0.TKXINXM</td><td>13.0</td><td>3.7 GB</td><td>2025-01-10</td><td><a href="/hyperos/nabu/stable/OS1.0.14.0.TKXINXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.14.0.TKXINXM</td><td>13.0</td><td>4.3 GB</td><td>2025-01-02</td><td><a href="/hyperos/nabu/stable/OS1.0.14.0.TKXINXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 India</td><td>Stable</td><td>Recovery</td><td>OS1.0.13.0.TKXINXM</td><td>13.0</td><td>3.5 GB</td><td>2024-12-02</td><td><a href="/hyperos/nabu/stable/OS1.0.13.0.TKXINXM/">Download</a></td></tr>
@@ -99,8 +100,8 @@ permalink: /archive/hyperos/nabu/
 <tr><td>Xiaomi Pad 5 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.TKXCNXM</td><td>13.0</td><td>5.2 GB</td><td>2024-05-16</td><td><a href="/hyperos/nabu/stable/OS1.0.3.0.TKXCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TKXRUXM</td><td>13.0</td><td>3.7 GB</td><td>2024-04-10</td><td><a href="/hyperos/nabu/stable/OS1.0.1.0.TKXRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.TKXRUXM</td><td>13.0</td><td>4.6 GB</td><td>2024-03-15</td><td><a href="/hyperos/nabu/stable/OS1.0.1.0.TKXRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.TKXTRXM</td><td>13.0</td><td>3.7 GB</td><td>2024-04-10</td><td><a href="/hyperos/nabu/stable/OS1.0.2.0.TKXTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.TKXTRXM</td><td>13.0</td><td>4.4 GB</td><td>2024-03-15</td><td><a href="/hyperos/nabu/stable/OS1.0.2.0.TKXTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.TKXTRXM</td><td>13.0</td><td>3.7 GB</td><td>2024-04-10</td><td><a href="/hyperos/nabu/stable/OS1.0.2.0.TKXTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.TKXTWXM</td><td>13.0</td><td>4.3 GB</td><td>2024-03-15</td><td><a href="/hyperos/nabu/stable/OS1.0.2.0.TKXTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.TKXTWXM</td><td>13.0</td><td>3.5 GB</td><td>2024-04-10</td><td><a href="/hyperos/nabu/stable/OS1.0.2.0.TKXTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TKXEUXM</td><td>13.0</td><td>3.7 GB</td><td>2024-04-07</td><td><a href="/hyperos/nabu/stable/OS1.0.1.0.TKXEUXM/">Download</a></td></tr>

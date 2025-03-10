@@ -2370,6 +2370,12 @@
   version: OS1.0.6.0.UNLINXM
 - android: '15.0'
   codename: duchamp
+  date: '2025-03-10'
+  download: https://bigota.d.miui.com/OS2.0.105.0.VNLCNXM/fw_duchamp_duchamp-ota_full-OS2.0.105.0.VNLCNXM-user-15.0-4f7d3a6230.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS2.0.105.0.VNLCNXM
+- android: '15.0'
+  codename: duchamp
   date: '2024-12-09'
   download: https://bigota.d.miui.com/OS2.0.2.0.VNLCNXM/fw_duchamp_duchamp-ota_full-OS2.0.2.0.VNLCNXM-user-15.0-061e77512c.zip
   name: Redmi K70E/POCO X6 Pro 5G
@@ -5832,6 +5838,12 @@
   version: OS1.0.8.0.UMRINXM
 - android: '14.0'
   codename: marble
+  date: '2025-03-10'
+  download: https://bigota.d.miui.com/OS1.0.17.0.UMRMIXM/fw_marble_miui_MARBLEGlobal_OS1.0.17.0.UMRMIXM_09efd8415e_14.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS1.0.17.0.UMRMIXM
+- android: '14.0'
+  codename: marble
   date: '2024-12-09'
   download: https://bigota.d.miui.com/OS1.0.15.0.UMRINXM/fw_marble_miui_MARBLEINGlobal_OS1.0.15.0.UMRINXM_ec1d808689_14.0.zip
   name: Redmi Note 12 Turbo/POCO F5
@@ -7420,6 +7432,12 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VNPINXM/fw_peridot_in_global_peridot_in_global-ota_full-OS2.0.2.0.VNPINXM-user-15.0-769325900e.zip
   name: Redmi Turbo 3/POCO F6
   version: OS2.0.2.0.VNPINXM
+- android: '15.0'
+  codename: peridot
+  date: '2025-03-10'
+  download: https://bigota.d.miui.com/OS2.0.100.0.VNPMIXM/fw_peridot_global_peridot_global-ota_full-OS2.0.100.0.VNPMIXM-user-15.0-1ac00aa063.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS2.0.100.0.VNPMIXM
 - android: '14.0'
   codename: peridot
   date: '2024-10-08'
@@ -12300,6 +12318,12 @@
   version: OS1.0.2.0.UMUEUXM
 - android: '14.0'
   codename: xun
+  date: '2025-03-10'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UMUCNXM/fw_xun_miui_XUN_OS1.0.10.0.UMUCNXM_e846ec8b58_14.0.zip
+  name: Redmi Pad SE
+  version: OS1.0.10.0.UMUCNXM
+- android: '14.0'
+  codename: xun
   date: '2024-12-09'
   download: https://bigota.d.miui.com/OS1.0.6.0.UMUEUXM/fw_xun_miui_XUNEEAGlobal_OS1.0.6.0.UMUEUXM_67a76e57ce_14.0.zip
   name: Redmi Pad SE
@@ -12766,6 +12790,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.ULBEUXM/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.8.0.ULBEUXM_fb21fd4c87_14.0.zip
   name: Xiaomi 12 Pro
   version: OS1.0.8.0.ULBEUXM
+- android: '14.0'
+  codename: zeus
+  date: '2025-03-10'
+  download: https://bigota.d.miui.com/OS1.0.13.0.ULBINXM/fw_zeus_miui_ZEUSINGlobal_OS1.0.13.0.ULBINXM_60aa9c1583_14.0.zip
+  name: Xiaomi 12 Pro
+  version: OS1.0.13.0.ULBINXM
 - android: '14.0'
   codename: zeus
   date: '2024-09-09'

@@ -54,7 +54,7 @@ permalink: /hyperos/duchamp/
                 <tbody>
                 <tr><td>Redmi K70E China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VNLCNXM</td><td>15.0</td><td>9.0 GB</td><td>2025-02-08</td><td><a href="/hyperos/duchamp/stable/OS2.0.102.0.VNLCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70E China</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VNLCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-01-14</td><td><a href="/hyperos/duchamp/stable/OS2.0.102.0.VNLCNXM/">Download</a></td></tr>
-<tr><td>Redmi K70E China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UNLCNXM</td><td>14.0</td><td>6.3 GB</td><td>2023-11-30</td><td><a href="/hyperos/duchamp/stable beta/OS1.0.4.0.UNLCNXM/">Download</a></td></tr>
+<tr><td>Redmi K70E China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.105.0.VNLCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-03-06</td><td><a href="/hyperos/duchamp/stable beta/OS2.0.105.0.VNLCNXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.15.0.UNLMIXM</td><td>14.0</td><td>5.5 GB</td><td>2024-12-05</td><td><a href="/hyperos/duchamp/stable beta/OS1.0.15.0.UNLMIXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.VNLIDXM</td><td>15.0</td><td>8.2 GB</td><td>2025-02-08</td><td><a href="/hyperos/duchamp/stable/OS2.0.3.0.VNLIDXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VNLIDXM</td><td>15.0</td><td>5.7 GB</td><td>2025-02-12</td><td><a href="/hyperos/duchamp/stable/OS2.0.3.0.VNLIDXM/">Download</a></td></tr>

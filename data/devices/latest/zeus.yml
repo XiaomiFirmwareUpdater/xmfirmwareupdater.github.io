@@ -29,12 +29,12 @@
     android: '15.0'
     miui: OS2.0.2.0.VLBEUXM
 - branch: stable
-  date: '2025-02-13'
+  date: '2025-03-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-13.02.2025/fw_zeus_miui_ZEUSINGlobal_OS1.0.10.0.ULBINXM_3d288f7fd1_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zeus/fw_zeus_miui_ZEUSINGlobal_OS1.0.10.0.ULBINXM_3d288f7fd1_14.0.zip
-  filename: fw_zeus_miui_ZEUSINGlobal_OS1.0.10.0.ULBINXM_3d288f7fd1_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-10.03.2025/fw_zeus_miui_ZEUSINGlobal_OS1.0.13.0.ULBINXM_60aa9c1583_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zeus/fw_zeus_miui_ZEUSINGlobal_OS1.0.13.0.ULBINXM_60aa9c1583_14.0.zip
+  filename: fw_zeus_miui_ZEUSINGlobal_OS1.0.13.0.ULBINXM_60aa9c1583_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.10.0.ULBINXM
+    miui: OS1.0.13.0.ULBINXM
