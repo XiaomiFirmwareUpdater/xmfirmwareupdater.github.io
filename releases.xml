@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 11 Mar 2025 13:44:47 </lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 20:08:57 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS1.0.7.0.UOQINXM</title>
@@ -54,6 +54,16 @@
         <item>
             <title>Xiaomi Pad 6 Pro (liuqin) - OS2.0.5.0.VMYCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/liuqin/</link>
+            <pubDate>Tue, 11 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 13/POCO M6 (moon) - OS2.0.4.0.VNTEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/moon/</link>
+            <pubDate>Tue, 11 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - OS2.0.100.0.VMBMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Tue, 11 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1117,11 +1127,6 @@
             <pubDate>Mon, 20 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 13/POCO M6 (moon) - OS2.0.3.0.VNTEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/moon/</link>
-            <pubDate>Mon, 20 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad Pro 5G/POCO Pad 5G (ruan) - OS2.0.2.0.VFSCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruan/</link>
             <pubDate>Mon, 20 Jan 2025 00:00:00 </pubDate>
@@ -1174,11 +1179,6 @@
         <item>
             <title>Redmi K40S/POCO F4 (munch) - OS1.0.7.0.ULMEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/munch/</link>
-            <pubDate>Thu, 16 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Pro (nuwa) - OS2.0.2.0.VMBMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Thu, 16 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>

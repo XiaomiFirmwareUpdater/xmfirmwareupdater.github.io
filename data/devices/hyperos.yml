@@ -6430,6 +6430,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UNTEUXM/fw_moon_miui_MOONEEAGlobal_OS1.0.1.0.UNTEUXM_da6a18f056_14.0.zip
   name: Redmi 13/POCO M6
   version: OS1.0.1.0.UNTEUXM
+- android: '15.0'
+  codename: moon
+  date: '2025-03-11'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VNTEUXM/fw_moon_eea_global_moon_eea_global-ota_full-OS2.0.4.0.VNTEUXM-user-15.0-855231ac4e.zip
+  name: Redmi 13/POCO M6
+  version: OS2.0.4.0.VNTEUXM
 - android: '14.0'
   codename: moon
   date: '2024-10-08'
@@ -7132,6 +7138,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMBCNXM/fw_nuwa_miui_NUWA_OS1.0.4.0.UMBCNXM_903b6aa354_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.4.0.UMBCNXM
+- android: '15.0'
+  codename: nuwa
+  date: '2025-03-11'
+  download: https://bigota.d.miui.com/OS2.0.100.0.VMBMIXM/fw_nuwa_global_nuwa_global-ota_full-OS2.0.100.0.VMBMIXM-user-15.0-9c4a8812d6.zip
+  name: Xiaomi 13 Pro
+  version: OS2.0.100.0.VMBMIXM
 - android: '15.0'
   codename: nuwa
   date: '2025-02-11'

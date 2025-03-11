@@ -52,7 +52,8 @@ permalink: /archive/hyperos/pipa/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 6 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.2.0.UMZMIXM</td><td>14.0</td><td>4.7 GB</td><td>2025-02-25</td><td><a href="/hyperos/pipa/stable beta/OS2.0.2.0.UMZMIXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 6 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.UMZMIXM</td><td>14.0</td><td>4.7 GB</td><td>2025-02-25</td><td><a href="/hyperos/pipa/stable/OS2.0.2.0.UMZMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.UMZMIXM</td><td>14.0</td><td>5.8 GB</td><td>2025-02-13</td><td><a href="/hyperos/pipa/stable/OS2.0.2.0.UMZMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.4.0.UMZCNXM</td><td>14.0</td><td>5.6 GB</td><td>2025-02-11</td><td><a href="/hyperos/pipa/stable/OS2.0.4.0.UMZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.4.0.UMZCNXM</td><td>14.0</td><td>6.4 GB</td><td>2025-02-05</td><td><a href="/hyperos/pipa/stable/OS2.0.4.0.UMZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.14.0.UMZEUXM</td><td>14.0</td><td>4.3 GB</td><td>2025-01-24</td><td><a href="/hyperos/pipa/stable/OS1.0.14.0.UMZEUXM/">Download</a></td></tr>
@@ -201,10 +202,10 @@ permalink: /archive/hyperos/pipa/
 <tr><td>Xiaomi Pad 6 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UMZRUXM</td><td>14.0</td><td>4.2 GB</td><td>2024-02-23</td><td><a href="/hyperos/pipa/stable/OS1.0.3.0.UMZRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMZEUXM</td><td>14.0</td><td>4.8 GB</td><td>2024-03-02</td><td><a href="/hyperos/pipa/stable/OS1.0.4.0.UMZEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMZEUXM</td><td>14.0</td><td>4.3 GB</td><td>2024-02-05</td><td><a href="/hyperos/pipa/stable/OS1.0.4.0.UMZEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UMZIDXM</td><td>14.0</td><td>4.8 GB</td><td>2024-02-18</td><td><a href="/hyperos/pipa/stable/OS1.0.2.0.UMZIDXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UMZIDXM</td><td>14.0</td><td>4.3 GB</td><td>2024-01-30</td><td><a href="/hyperos/pipa/stable/OS1.0.2.0.UMZIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMZCNXM</td><td>14.0</td><td>5.8 GB</td><td>2024-02-03</td><td><a href="/hyperos/pipa/stable/OS1.0.4.0.UMZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMZCNXM</td><td>14.0</td><td>5.0 GB</td><td>2024-01-26</td><td><a href="/hyperos/pipa/stable/OS1.0.4.0.UMZCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UMZIDXM</td><td>14.0</td><td>4.8 GB</td><td>2024-02-18</td><td><a href="/hyperos/pipa/stable/OS1.0.2.0.UMZIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UMZIDXM</td><td>14.0</td><td>4.3 GB</td><td>2024-01-30</td><td><a href="/hyperos/pipa/stable/OS1.0.2.0.UMZIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.UMZRUXM</td><td>14.0</td><td>5.2 GB</td><td>2024-02-18</td><td><a href="/hyperos/pipa/stable/OS1.0.2.0.UMZRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.UMZRUXM</td><td>14.0</td><td>4.2 GB</td><td>2024-01-30</td><td><a href="/hyperos/pipa/stable/OS1.0.2.0.UMZRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMZMIXM</td><td>14.0</td><td>4.9 GB</td><td>2024-02-04</td><td><a href="/hyperos/pipa/stable/OS1.0.4.0.UMZMIXM/">Download</a></td></tr>
