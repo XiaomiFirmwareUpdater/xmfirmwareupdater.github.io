@@ -6096,6 +6096,12 @@
   version: OS1.0.11.0.ULTCNXM
 - android: '15.0'
   codename: mayfly
+  date: '2025-03-11'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VLTCNXM/fw_mayfly_mayfly-ota_full-OS2.0.4.0.VLTCNXM-user-15.0-c2ffe2bf8c.zip
+  name: Xiaomi 12S
+  version: OS2.0.4.0.VLTCNXM
+- android: '15.0'
+  codename: mayfly
   date: '2025-02-12'
   download: https://bigota.d.miui.com/OS2.0.1.0.VLTCNXM/fw_mayfly_mayfly-ota_full-OS2.0.1.0.VLTCNXM-user-15.0-49a4c240c4.zip
   name: Xiaomi 12S

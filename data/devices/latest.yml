@@ -3319,15 +3319,15 @@
     android: '14.0'
     miui: OS1.0.19.0.ULKCNXM
 - branch: stable
-  date: '2025-02-12'
+  date: '2025-03-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-12.02.2025/fw_mayfly_mayfly-ota_full-OS2.0.1.0.VLTCNXM-user-15.0-49a4c240c4.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mayfly/fw_mayfly_mayfly-ota_full-OS2.0.1.0.VLTCNXM-user-15.0-49a4c240c4.zip
-  filename: fw_mayfly_mayfly-ota_full-OS2.0.1.0.VLTCNXM-user-15.0-49a4c240c4.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-12.03.2025/fw_mayfly_mayfly-ota_full-OS2.0.4.0.VLTCNXM-user-15.0-c2ffe2bf8c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mayfly/fw_mayfly_mayfly-ota_full-OS2.0.4.0.VLTCNXM-user-15.0-c2ffe2bf8c.zip
+  filename: fw_mayfly_mayfly-ota_full-OS2.0.4.0.VLTCNXM-user-15.0-c2ffe2bf8c.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.1.0.VLTCNXM
+    miui: OS2.0.4.0.VLTCNXM
 - branch: stable
   date: '2022-10-28'
   downloads:

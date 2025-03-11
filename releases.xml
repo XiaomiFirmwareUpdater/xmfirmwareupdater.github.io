@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 11 Mar 2025 20:08:57 </lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 01:34:05 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS1.0.7.0.UOQINXM</title>
@@ -54,6 +54,11 @@
         <item>
             <title>Xiaomi Pad 6 Pro (liuqin) - OS2.0.5.0.VMYCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/liuqin/</link>
+            <pubDate>Tue, 11 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12S (mayfly) - OS2.0.4.0.VLTCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/mayfly/</link>
             <pubDate>Tue, 11 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -989,11 +994,6 @@
         <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.17.0.UMRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Wed, 12 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12S (mayfly) - OS2.0.1.0.VLTCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/mayfly/</link>
             <pubDate>Wed, 12 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
