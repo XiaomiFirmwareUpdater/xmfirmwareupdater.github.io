@@ -121,7 +121,7 @@ permalink: /hyperos/manet/stable/OS2.0.104.0.VNMCNXM/
                             aria-expanded="false" aria-controls="manet_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="manet_2_changelog">
-                        <p id="changelog_text">[System]<br>Optimization: System stability<br>Fix: Errors occurred in some cases<br>Updated the security patch to February 2025. Increased system security.</p>
+                        <p id="changelog_text">[System]<br>Optimization: System stability<br>Fix: Errors occurred in some cases<br>Updated the security patch to February 2025. Increased system security.<br>[Alive Design Philosophy]<br>New cinematic Lock screen:<br>AI depth technology layers your wallpaper and clock, creating a unique, movie-like effect.</p>
                     </div>
                 </li>
             </ul>

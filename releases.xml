@@ -4,8 +4,48 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 11 Mar 2025 01:17:20 </lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 10:11:59 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS1.0.7.0.UOQINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
+            <pubDate>Tue, 11 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 4 Pro (chenfeng) - OS2.0.104.0.VNJCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
+            <pubDate>Tue, 11 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 (fuxi) - OS2.0.100.0.VMCMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
+            <pubDate>Tue, 11 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K50G/POCO F4 GT (ingres) - OS1.0.11.0.ULJMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ingres/</link>
+            <pubDate>Tue, 11 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS1.0.13.0.UKOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
+            <pubDate>Tue, 11 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS1.0.14.0.UKOINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
+            <pubDate>Tue, 11 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 6 Pro (liuqin) - OS2.0.5.0.VMYCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/liuqin/</link>
+            <pubDate>Tue, 11 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE 8.7 4G (spark) - OS2.0.2.0.VHYEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/spark/</link>
+            <pubDate>Tue, 11 Mar 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.105.0.VNLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
@@ -872,11 +912,6 @@
             <pubDate>Sat, 15 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K50G/POCO F4 GT (ingres) - OS1.0.10.0.ULJMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ingres/</link>
-            <pubDate>Fri, 14 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K50G/POCO F4 GT (ingres) - OS1.0.10.0.ULJEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ingres/</link>
             <pubDate>Fri, 14 Feb 2025 00:00:00 </pubDate>
@@ -1072,23 +1107,8 @@
             <pubDate>Mon, 20 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS1.0.5.0.UOQINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
-            <pubDate>Mon, 20 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 4 Pro (chenfeng) - OS2.0.100.0.VNJCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
-            <pubDate>Mon, 20 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS2.0.1.0.VMAEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
-            <pubDate>Mon, 20 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 Pro (liuqin) - OS2.0.4.0.VMYCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/liuqin/</link>
             <pubDate>Mon, 20 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1142,11 +1162,6 @@
             <pubDate>Thu, 16 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13 (fuxi) - OS2.0.2.0.VMCMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Thu, 16 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 14C/POCO C75/Redmi A3 Pro (lake) - OS1.0.11.0.UGTMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lake/</link>
             <pubDate>Thu, 16 Jan 2025 00:00:00 </pubDate>
@@ -1165,16 +1180,6 @@
             <title>Xiaomi Civi 4 Pro (chenfeng) - OS2.0.2.0.VNJINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
             <pubDate>Wed, 15 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS1.0.11.0.UKOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
-            <pubDate>Mon, 13 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS1.0.12.0.UKOINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
-            <pubDate>Mon, 13 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K40S/POCO F4 (munch) - OS1.0.6.0.ULMINXM</title>
@@ -1320,11 +1325,6 @@
             <title>Mi 11 (venus) - OS1.0.10.0.UKBMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/venus/</link>
             <pubDate>Mon, 02 Dec 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad SE 8.7 4G (spark) - OS1.0.6.0.UHYEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/spark/</link>
-            <pubDate>Wed, 27 Nov 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 10C (fog) - V14.0.9.0.TGEEUXM</title>

@@ -52,7 +52,9 @@ permalink: /archive/hyperos/spark/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad SE 8.7 4G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VHYMIXM</td><td>15.0</td><td>4.3 GB</td><td>2025-01-17</td><td><a href="/hyperos/spark/stable/OS2.0.1.0.VHYMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad SE 8.7 4G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VHYEUXM</td><td>15.0</td><td>4.3 GB</td><td>2025-02-26</td><td><a href="/hyperos/spark/stable/OS2.0.2.0.VHYEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE 8.7 4G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VHYEUXM</td><td>15.0</td><td>5.3 GB</td><td>2025-02-19</td><td><a href="/hyperos/spark/stable/OS2.0.2.0.VHYEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE 8.7 4G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VHYMIXM</td><td>15.0</td><td>4.3 GB</td><td>2025-01-17</td><td><a href="/hyperos/spark/stable/OS2.0.1.0.VHYMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 4G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.VHYMIXM</td><td>15.0</td><td>5.5 GB</td><td>2025-01-08</td><td><a href="/hyperos/spark/stable/OS2.0.1.0.VHYMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 4G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UHYINXM</td><td>14.0</td><td>3.9 GB</td><td>2024-12-18</td><td><a href="/hyperos/spark/stable/OS1.0.4.0.UHYINXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 4G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UHYINXM</td><td>14.0</td><td>4.5 GB</td><td>2024-12-03</td><td><a href="/hyperos/spark/stable/OS1.0.4.0.UHYINXM/">Download</a></td></tr>
