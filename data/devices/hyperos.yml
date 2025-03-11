@@ -952,6 +952,18 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.VNUINXM/fw_breeze_in_global_breeze_in_global-ota_full-OS2.0.3.0.VNUINXM-user-15.0-c535dc4d4d.zip
   name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
   version: OS2.0.3.0.VNUINXM
+- android: '14.0'
+  codename: breeze
+  date: '2025-03-11'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UNUINXM/fw_breeze_miui_BREEZEINGlobal_OS1.0.11.0.UNUINXM_373595fd85_14.0.zip
+  name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
+  version: OS1.0.11.0.UNUINXM
+- android: '14.0'
+  codename: breeze
+  date: '2025-03-11'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UNUCNXM/fw_breeze_miui_BREEZE_OS1.0.10.0.UNUCNXM_8308518da1_14.0.zip
+  name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
+  version: OS1.0.10.0.UNUCNXM
 - android: '15.0'
   codename: breeze
   date: '2025-01-10'
@@ -3706,6 +3718,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UNRCNXM/fw_garnet_miui_GARNET_OS1.0.10.0.UNRCNXM_041d9ef5c4_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS1.0.10.0.UNRCNXM
+- android: '15.0'
+  codename: garnet
+  date: '2025-03-11'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VNREUXM/fw_garnet_eea_global_garnet_eea_global-ota_full-OS2.0.6.0.VNREUXM-user-15.0-bebf500b00.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS2.0.6.0.VNREUXM
 - android: '14.0'
   codename: garnet
   date: '2024-03-11'

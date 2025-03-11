@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 11 Mar 2025 10:11:59 </lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 13:44:47 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS1.0.7.0.UOQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
+            <pubDate>Tue, 11 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS1.0.10.0.UNUCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
+            <pubDate>Tue, 11 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS1.0.11.0.UNUINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
             <pubDate>Tue, 11 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -19,6 +29,11 @@
         <item>
             <title>Xiaomi 13 (fuxi) - OS2.0.100.0.VMCMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
+            <pubDate>Tue, 11 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS2.0.6.0.VNREUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
             <pubDate>Tue, 11 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -782,11 +797,6 @@
             <pubDate>Fri, 21 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS2.0.4.0.VNREUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
-            <pubDate>Thu, 20 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K70/POCO F6 Pro (vermeer) - OS2.0.102.0.VNKCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Thu, 20 Feb 2025 00:00:00 </pubDate>
@@ -1077,11 +1087,6 @@
             <pubDate>Wed, 05 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS2.0.3.0.VNUCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
-            <pubDate>Fri, 24 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.37.0.TGOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/water/</link>
             <pubDate>Thu, 23 Jan 2025 00:00:00 </pubDate>
@@ -1205,11 +1210,6 @@
             <title>Redmi Pad SE (xun) - OS1.0.4.0.UMUINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xun/</link>
             <pubDate>Mon, 13 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS2.0.4.0.VNUINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
-            <pubDate>Fri, 10 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi 11 (venus) - OS1.0.12.0.UKBEUXM</title>

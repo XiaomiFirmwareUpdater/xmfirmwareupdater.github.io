@@ -19,15 +19,15 @@
     android: '15.0'
     miui: OS2.0.4.0.VNRCNXM
 - branch: stable
-  date: '2025-02-20'
+  date: '2025-03-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-20.02.2025/fw_garnet_eea_global_garnet_eea_global-ota_full-OS2.0.4.0.VNREUXM-user-15.0-9cc0c36a24.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/garnet/fw_garnet_eea_global_garnet_eea_global-ota_full-OS2.0.4.0.VNREUXM-user-15.0-9cc0c36a24.zip
-  filename: fw_garnet_eea_global_garnet_eea_global-ota_full-OS2.0.4.0.VNREUXM-user-15.0-9cc0c36a24.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-11.03.2025/fw_garnet_eea_global_garnet_eea_global-ota_full-OS2.0.6.0.VNREUXM-user-15.0-bebf500b00.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/garnet/fw_garnet_eea_global_garnet_eea_global-ota_full-OS2.0.6.0.VNREUXM-user-15.0-bebf500b00.zip
+  filename: fw_garnet_eea_global_garnet_eea_global-ota_full-OS2.0.6.0.VNREUXM-user-15.0-bebf500b00.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.4.0.VNREUXM
+    miui: OS2.0.6.0.VNREUXM
 - branch: stable
   date: '2025-02-16'
   downloads:
