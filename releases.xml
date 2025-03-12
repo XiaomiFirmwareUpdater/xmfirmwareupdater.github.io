@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 12 Mar 2025 14:16:45 </lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 19:21:36 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS1.0.8.0.UOPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
+            <pubDate>Wed, 12 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro Dimensity (daumier) - OS2.0.1.0.ULGCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/daumier/</link>
             <pubDate>Wed, 12 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -594,11 +599,6 @@
         <item>
             <title>Xiaomi 11T (agate) - OS1.0.11.0.UKWEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/agate/</link>
-            <pubDate>Thu, 27 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Pro Dimensity (daumier) - OS1.0.16.0.ULGCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/daumier/</link>
             <pubDate>Thu, 27 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
