@@ -199,6 +199,16 @@
     android: '15.0'
     miui: OS2.0.9.0.VMTMIXM
 - branch: stable
+  date: '2025-03-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-12.03.2025/fw_tapas_in_global_tapas_in_global-ota_full-OS2.0.3.0.VMTINXM-user-15.0-75bf461532.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/tapas/fw_tapas_in_global_tapas_in_global-ota_full-OS2.0.3.0.VMTINXM-user-15.0-75bf461532.zip
+  filename: fw_tapas_in_global_tapas_in_global-ota_full-OS2.0.3.0.VMTINXM-user-15.0-75bf461532.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.3.0.VMTINXM
+- branch: stable
   date: '2024-01-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-12.01.2024/fw_tapas_miui_TAPASGlobal_OS1.0.2.0.UMTMIXM_9d39c3791b_14.0.zip

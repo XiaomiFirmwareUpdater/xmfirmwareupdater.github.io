@@ -330,6 +330,12 @@
   version: OS2.0.7.0.VOPCNXM
 - android: '14.0'
   codename: amethyst
+  date: '2025-03-12'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UOPINXM/fw_amethyst_miui_AMETHYSTINGlobal_OS1.0.8.0.UOPINXM_1a2fd5d521_14.0.zip
+  name: Redmi Note 14 Pro+ 5G
+  version: OS1.0.8.0.UOPINXM
+- android: '14.0'
+  codename: amethyst
   date: '2025-02-10'
   download: https://bigota.d.miui.com/OS1.0.6.0.UOPMIXM/fw_amethyst_miui_AMETHYSTGlobal_OS1.0.6.0.UOPMIXM_b72e6ecc42_14.0.zip
   name: Redmi Note 14 Pro+ 5G
@@ -3478,6 +3484,12 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VGPMIXM/fw_gale_global_gale_global-ota_full-OS2.0.2.0.VGPMIXM-user-15.0-95ffe4c9a3.zip
   name: Redmi 13C/POCO C65
   version: OS2.0.2.0.VGPMIXM
+- android: '15.0'
+  codename: gale
+  date: '2025-03-12'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VGPEUXM/fw_gale_eea_global_gale_eea_global-ota_full-OS2.0.6.0.VGPEUXM-user-15.0-171b4f170b.zip
+  name: Redmi 13C/POCO C65
+  version: OS2.0.6.0.VGPEUXM
 - android: '14.0'
   codename: gale
   date: '2024-09-11'
@@ -5604,6 +5616,12 @@
   version: OS2.0.5.0.VOOCNXM
 - android: '14.0'
   codename: malachite
+  date: '2025-03-12'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UOOMIXM/fw_malachite_miui_MALACHITEGlobal_OS1.0.10.0.UOOMIXM_ba11bb65ab_14.0.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS1.0.10.0.UOOMIXM
+- android: '14.0'
+  codename: malachite
   date: '2025-01-11'
   download: https://bigota.d.miui.com/OS1.0.4.0.UOOEUXM/fw_malachite_miui_MALACHITEEEAGlobal_OS1.0.4.0.UOOEUXM_460cfa0199_14.0.zip
   name: Redmi Note 14 Pro 5G/POCO X7
@@ -5866,6 +5884,12 @@
   download: https://bigota.d.miui.com/OS1.0.18.0.UMRINXM/fw_marble_miui_MARBLEINGlobal_OS1.0.18.0.UMRINXM_f02a1ea925_14.0.zip
   name: Redmi Note 12 Turbo/POCO F5
   version: OS1.0.18.0.UMRINXM
+- android: '14.0'
+  codename: marble
+  date: '2025-03-12'
+  download: https://bigota.d.miui.com/OS1.0.20.0.UMRINXM/fw_marble_miui_MARBLEINGlobal_OS1.0.20.0.UMRINXM_8023e711c2_14.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS1.0.20.0.UMRINXM
 - android: '14.0'
   codename: marble
   date: '2025-02-12'
@@ -11056,6 +11080,12 @@
   download: https://bigota.d.miui.com/OS2.0.9.0.VMTMIXM/fw_tapas_global_tapas_global-ota_full-OS2.0.9.0.VMTMIXM-user-15.0-9faab52234.zip
   name: Redmi Note 12 4G
   version: OS2.0.9.0.VMTMIXM
+- android: '15.0'
+  codename: tapas
+  date: '2025-03-12'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VMTINXM/fw_tapas_in_global_tapas_in_global-ota_full-OS2.0.3.0.VMTINXM-user-15.0-75bf461532.zip
+  name: Redmi Note 12 4G
+  version: OS2.0.3.0.VMTINXM
 - android: '14.0'
   codename: tapas
   date: '2024-01-12'

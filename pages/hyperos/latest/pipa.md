@@ -71,6 +71,7 @@ permalink: /hyperos/pipa/
 <tr><td>Xiaomi Pad 6 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.12.0.UMZTWXM</td><td>14.0</td><td>5.1 GB</td><td>2025-01-17</td><td><a href="/hyperos/pipa/stable/OS1.0.12.0.UMZTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.12.0.UMZTWXM</td><td>14.0</td><td>4.2 GB</td><td>2025-01-24</td><td><a href="/hyperos/pipa/stable/OS1.0.12.0.UMZTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 India</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.UMZINXM</td><td>14.0</td><td>4.6 GB</td><td>2025-03-04</td><td><a href="/hyperos/pipa/stable beta/OS2.0.1.0.UMZINXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.UMZTRXM</td><td>14.0</td><td>4.7 GB</td><td>2025-03-12</td><td><a href="/hyperos/pipa/stable beta/OS2.0.1.0.UMZTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

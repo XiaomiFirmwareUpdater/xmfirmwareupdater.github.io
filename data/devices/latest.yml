@@ -139,15 +139,15 @@
     android: '14.0'
     miui: OS1.0.6.0.UOPEUXM
 - branch: stable
-  date: '2024-12-21'
+  date: '2025-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-21.12.2024/fw_amethyst_miui_AMETHYSTINGlobal_OS1.0.2.0.UOPINXM_fda0b4b09f_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/amethyst/fw_amethyst_miui_AMETHYSTINGlobal_OS1.0.2.0.UOPINXM_fda0b4b09f_14.0.zip
-  filename: fw_amethyst_miui_AMETHYSTINGlobal_OS1.0.2.0.UOPINXM_fda0b4b09f_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-12.03.2025/fw_amethyst_miui_AMETHYSTINGlobal_OS1.0.8.0.UOPINXM_1a2fd5d521_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/amethyst/fw_amethyst_miui_AMETHYSTINGlobal_OS1.0.8.0.UOPINXM_1a2fd5d521_14.0.zip
+  filename: fw_amethyst_miui_AMETHYSTINGlobal_OS1.0.8.0.UOPINXM_1a2fd5d521_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.2.0.UOPINXM
+    miui: OS1.0.8.0.UOPINXM
 - branch: stable
   date: '2021-03-29'
   downloads:
@@ -1959,15 +1959,15 @@
     android: '15.0'
     miui: OS2.0.3.0.VGPMIXM
 - branch: stable
-  date: '2025-02-17'
+  date: '2025-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-17.02.2025/fw_gale_eea_global_gale_eea_global-ota_full-OS2.0.3.0.VGPEUXM-user-15.0-29d4b99c52.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gale/fw_gale_eea_global_gale_eea_global-ota_full-OS2.0.3.0.VGPEUXM-user-15.0-29d4b99c52.zip
-  filename: fw_gale_eea_global_gale_eea_global-ota_full-OS2.0.3.0.VGPEUXM-user-15.0-29d4b99c52.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-12.03.2025/fw_gale_eea_global_gale_eea_global-ota_full-OS2.0.6.0.VGPEUXM-user-15.0-171b4f170b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gale/fw_gale_eea_global_gale_eea_global-ota_full-OS2.0.6.0.VGPEUXM-user-15.0-171b4f170b.zip
+  filename: fw_gale_eea_global_gale_eea_global-ota_full-OS2.0.6.0.VGPEUXM-user-15.0-171b4f170b.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.3.0.VGPEUXM
+    miui: OS2.0.6.0.VGPEUXM
 - branch: stable
   date: '2025-01-06'
   downloads:
@@ -3189,15 +3189,15 @@
     android: '8.1'
     miui: 20.1.2
 - branch: stable
-  date: '2025-02-06'
+  date: '2025-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-06.02.2025/fw_malachite_miui_MALACHITEGlobal_OS1.0.9.0.UOOMIXM_7ec9edf92e_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/malachite/fw_malachite_miui_MALACHITEGlobal_OS1.0.9.0.UOOMIXM_7ec9edf92e_14.0.zip
-  filename: fw_malachite_miui_MALACHITEGlobal_OS1.0.9.0.UOOMIXM_7ec9edf92e_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-12.03.2025/fw_malachite_miui_MALACHITEGlobal_OS1.0.10.0.UOOMIXM_ba11bb65ab_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/malachite/fw_malachite_miui_MALACHITEGlobal_OS1.0.10.0.UOOMIXM_ba11bb65ab_14.0.zip
+  filename: fw_malachite_miui_MALACHITEGlobal_OS1.0.10.0.UOOMIXM_ba11bb65ab_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.9.0.UOOMIXM
+    miui: OS1.0.10.0.UOOMIXM
 - branch: stable
   date: '2025-03-07'
   downloads:
@@ -3269,15 +3269,15 @@
     android: '14.0'
     miui: OS1.0.20.0.UMREUXM
 - branch: stable
-  date: '2025-02-13'
+  date: '2025-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-13.02.2025/fw_marble_miui_MARBLEINGlobal_OS1.0.18.0.UMRINXM_f02a1ea925_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEINGlobal_OS1.0.18.0.UMRINXM_f02a1ea925_14.0.zip
-  filename: fw_marble_miui_MARBLEINGlobal_OS1.0.18.0.UMRINXM_f02a1ea925_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-12.03.2025/fw_marble_miui_MARBLEINGlobal_OS1.0.20.0.UMRINXM_8023e711c2_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEINGlobal_OS1.0.20.0.UMRINXM_8023e711c2_14.0.zip
+  filename: fw_marble_miui_MARBLEINGlobal_OS1.0.20.0.UMRINXM_8023e711c2_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.18.0.UMRINXM
+    miui: OS1.0.20.0.UMRINXM
 - branch: stable
   date: '2019-05-20'
   downloads:
@@ -5659,15 +5659,15 @@
     android: '15.0'
     miui: OS2.0.9.0.VMTMIXM
 - branch: stable
-  date: '2024-12-29'
+  date: '2025-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-29.12.2024/fw_tapas_in_global_tapas_in_global-ota_full-OS2.0.2.0.VMTINXM-user-15.0-96fc130e17.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/tapas/fw_tapas_in_global_tapas_in_global-ota_full-OS2.0.2.0.VMTINXM-user-15.0-96fc130e17.zip
-  filename: fw_tapas_in_global_tapas_in_global-ota_full-OS2.0.2.0.VMTINXM-user-15.0-96fc130e17.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-12.03.2025/fw_tapas_in_global_tapas_in_global-ota_full-OS2.0.3.0.VMTINXM-user-15.0-75bf461532.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/tapas/fw_tapas_in_global_tapas_in_global-ota_full-OS2.0.3.0.VMTINXM-user-15.0-75bf461532.zip
+  filename: fw_tapas_in_global_tapas_in_global-ota_full-OS2.0.3.0.VMTINXM-user-15.0-75bf461532.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.2.0.VMTINXM
+    miui: OS2.0.3.0.VMTINXM
 - branch: stable
   date: '2025-03-06'
   downloads:

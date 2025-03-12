@@ -52,7 +52,10 @@ permalink: /archive/hyperos/amethyst/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 14 Pro+ 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UOPIDXM</td><td>14.0</td><td>5.3 GB</td><td>2025-02-18</td><td><a href="/hyperos/amethyst/stable/OS1.0.5.0.UOPIDXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 14 Pro+ 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UOPTRXM</td><td>14.0</td><td>5.3 GB</td><td>2025-03-12</td><td><a href="/hyperos/amethyst/stable/OS1.0.3.0.UOPTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro+ 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UOPTRXM</td><td>14.0</td><td>7.2 GB</td><td>2024-12-09</td><td><a href="/hyperos/amethyst/stable/OS1.0.3.0.UOPTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro+ 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.8.0.UOPINXM</td><td>14.0</td><td>5.2 GB</td><td>2025-03-07</td><td><a href="/hyperos/amethyst/stable beta/OS1.0.8.0.UOPINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro+ 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UOPIDXM</td><td>14.0</td><td>5.3 GB</td><td>2025-02-18</td><td><a href="/hyperos/amethyst/stable/OS1.0.5.0.UOPIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro+ 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UOPIDXM</td><td>14.0</td><td>7.8 GB</td><td>2025-01-21</td><td><a href="/hyperos/amethyst/stable/OS1.0.5.0.UOPIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro+ 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UOPRUXM</td><td>14.0</td><td>5.2 GB</td><td>2025-02-18</td><td><a href="/hyperos/amethyst/stable/OS1.0.3.0.UOPRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro+ 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UOPRUXM</td><td>14.0</td><td>8.2 GB</td><td>2024-12-23</td><td><a href="/hyperos/amethyst/stable/OS1.0.3.0.UOPRUXM/">Download</a></td></tr>
