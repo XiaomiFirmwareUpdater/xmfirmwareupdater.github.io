@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 12 Mar 2025 01:34:05 </lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 07:27:18 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Pad 6 (pipa) - OS2.0.1.0.UMZEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
+            <pubDate>Wed, 12 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 6 (pipa) - OS2.0.1.0.UMZINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
+            <pubDate>Wed, 12 Mar 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS1.0.7.0.UOQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
@@ -892,11 +902,6 @@
             <pubDate>Mon, 17 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 6 (pipa) - OS1.0.12.0.UMZINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
-            <pubDate>Mon, 17 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K50 (rubens) - OS1.0.17.0.ULNCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rubens/</link>
             <pubDate>Mon, 17 Feb 2025 00:00:00 </pubDate>
@@ -1064,11 +1069,6 @@
         <item>
             <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS1.0.9.0.UOOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
-            <pubDate>Thu, 06 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 (pipa) - OS1.0.14.0.UMZEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
             <pubDate>Thu, 06 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
