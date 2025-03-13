@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 13 Mar 2025 19:44:06 </lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 01:15:21 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS2.0.8.0.VOPCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
+            <pubDate>Thu, 13 Mar 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>MIX Fold 3 (babylon) - OS2.0.106.0.VMVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
@@ -1000,11 +1005,6 @@
             <title>Redmi Pad SE (xun) - OS2.0.1.0.VMUEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xun/</link>
             <pubDate>Fri, 14 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS2.0.7.0.VOPCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
-            <pubDate>Thu, 13 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12 4G (tapas) - OS2.0.9.0.VMTMIXM</title>
