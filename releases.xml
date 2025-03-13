@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 13 Mar 2025 13:34:03 </lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 19:44:06 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>MIX Fold 3 (babylon) - OS2.0.106.0.VMVCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
+            <pubDate>Thu, 13 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro 4G/POCO M6 Pro (emerald) - OS2.0.4.0.VNFMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
+            <pubDate>Thu, 13 Mar 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.101.0.VNPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
@@ -872,11 +882,6 @@
             <pubDate>Wed, 19 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>MIX Fold 3 (babylon) - OS2.0.102.0.VMVCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
-            <pubDate>Tue, 18 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 14 (houji) - OS2.0.104.0.VNCCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/houji/</link>
             <pubDate>Tue, 18 Feb 2025 00:00:00 </pubDate>
@@ -1174,11 +1179,6 @@
         <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS2.0.2.0.VNSCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
-            <pubDate>Thu, 16 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro 4G/POCO M6 Pro (emerald) - OS2.0.2.0.VNFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
             <pubDate>Thu, 16 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>

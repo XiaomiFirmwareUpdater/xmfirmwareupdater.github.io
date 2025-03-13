@@ -820,6 +820,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.2.0.UMVCNXM_d95abfe6ba_14.0.zip
   name: MIX Fold 3
   version: OS1.0.2.0.UMVCNXM
+- android: '15.0'
+  codename: babylon
+  date: '2025-03-13'
+  download: https://bigota.d.miui.com/OS2.0.106.0.VMVCNXM/fw_babylon_babylon-ota_full-OS2.0.106.0.VMVCNXM-user-15.0-ba93424fc2.zip
+  name: MIX Fold 3
+  version: OS2.0.106.0.VMVCNXM
 - android: '14.0'
   codename: babylon
   date: '2024-07-11'
@@ -2740,6 +2746,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.4.0.UNFMIXM_9ad81db509_14.0.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro
   version: OS1.0.4.0.UNFMIXM
+- android: '15.0'
+  codename: emerald
+  date: '2025-03-13'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VNFMIXM/fw_emerald_global_emerald_global-ota_full-OS2.0.4.0.VNFMIXM-user-15.0-2332928b70.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  version: OS2.0.4.0.VNFMIXM
 - android: '14.0'
   codename: emerald
   date: '2024-06-12'
