@@ -58,12 +58,11 @@ permalink: /hyperos/emerald/
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VNFMIXM</td><td>15.0</td><td>4.8 GB</td><td>2025-01-08</td><td><a href="/hyperos/emerald/stable/OS2.0.2.0.VNFMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.UNFRUXM</td><td>14.0</td><td>7.8 GB</td><td>2025-01-13</td><td><a href="/hyperos/emerald/stable/OS1.0.9.0.UNFRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UNFRUXM</td><td>14.0</td><td>4.6 GB</td><td>2025-01-21</td><td><a href="/hyperos/emerald/stable/OS1.0.9.0.UNFRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.UNFTRXM</td><td>14.0</td><td>6.8 GB</td><td>2025-01-13</td><td><a href="/hyperos/emerald/stable/OS1.0.9.0.UNFTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UNFTRXM</td><td>14.0</td><td>4.6 GB</td><td>2025-01-21</td><td><a href="/hyperos/emerald/stable/OS1.0.9.0.UNFTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.VNFIDXM</td><td>15.0</td><td>7.2 GB</td><td>2025-02-05</td><td><a href="/hyperos/emerald/stable/OS2.0.1.0.VNFIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VNFIDXM</td><td>15.0</td><td>4.8 GB</td><td>2025-02-20</td><td><a href="/hyperos/emerald/stable/OS2.0.1.0.VNFIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.VNFRUXM</td><td>15.0</td><td>4.7 GB</td><td>2025-03-03</td><td><a href="/hyperos/emerald/stable beta/OS2.0.1.0.VNFRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.VNFTRXM</td><td>15.0</td><td>4.8 GB</td><td>2025-03-03</td><td><a href="/hyperos/emerald/stable beta/OS2.0.1.0.VNFTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.VNFTRXM</td><td>15.0</td><td>6.9 GB</td><td>2025-02-17</td><td><a href="/hyperos/emerald/stable/OS2.0.1.0.VNFTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VNFTRXM</td><td>15.0</td><td>4.8 GB</td><td>2025-03-03</td><td><a href="/hyperos/emerald/stable/OS2.0.1.0.VNFTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
