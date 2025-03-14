@@ -54,7 +54,7 @@ permalink: /miui/fog/
                 <tbody>
                 <tr><td>Redmi 10C EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.9.0.TGEEUXM</td><td>13.0</td><td>5.8 GB</td><td>2024-08-30</td><td><a href="/miui/fog/stable/V14.0.9.0.TGEEUXM/">Download</a></td></tr>
 <tr><td>Redmi 10C EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.9.0.TGEEUXM</td><td>13.0</td><td>3.5 GB</td><td>2024-10-31</td><td><a href="/miui/fog/stable/V14.0.9.0.TGEEUXM/">Download</a></td></tr>
-<tr><td>Redmi 10C EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SGEEUXM</td><td>12.0</td><td>2.8 GB</td><td>2022-08-10</td><td><a href="/miui/fog/stable beta/V13.0.1.0.SGEEUXM/">Download</a></td></tr>
+<tr><td>Redmi 10C EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.10.0.TGEEUXM</td><td>13.0</td><td>3.5 GB</td><td>2025-03-10</td><td><a href="/miui/fog/stable beta/V14.0.10.0.TGEEUXM/">Download</a></td></tr>
 <tr><td>Redmi 10C Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.8.0.TGEMIXM</td><td>13.0</td><td>6.0 GB</td><td>2024-08-28</td><td><a href="/miui/fog/stable/V14.0.8.0.TGEMIXM/">Download</a></td></tr>
 <tr><td>Redmi 10C Global</td><td>Stable</td><td>Recovery</td><td>V14.0.8.0.TGEMIXM</td><td>13.0</td><td>3.7 GB</td><td>2024-09-07</td><td><a href="/miui/fog/stable/V14.0.8.0.TGEMIXM/">Download</a></td></tr>
 <tr><td>Redmi 10C Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.9.0.TGEMIXM</td><td>13.0</td><td>3.7 GB</td><td>2025-03-04</td><td><a href="/miui/fog/stable beta/V14.0.9.0.TGEMIXM/">Download</a></td></tr>

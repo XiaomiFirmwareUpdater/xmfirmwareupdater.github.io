@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 14 Mar 2025 07:39:27 </lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 13:12:01 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 10C (fog) - V14.0.10.0.TGEEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/fog/</link>
+            <pubDate>Fri, 14 Mar 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.100.0.VOJEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
@@ -1325,11 +1330,6 @@
             <title>Mi 11 (venus) - OS1.0.10.0.UKBMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/venus/</link>
             <pubDate>Mon, 02 Dec 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 10C (fog) - V14.0.9.0.TGEEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/fog/</link>
-            <pubDate>Wed, 20 Nov 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Pad (yunluo) - OS1.0.8.0.ULYCNXM</title>
