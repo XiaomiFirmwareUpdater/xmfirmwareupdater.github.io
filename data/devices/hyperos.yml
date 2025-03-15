@@ -894,6 +894,12 @@
   version: OS2.0.2.0.VOQCNXM
 - android: '14.0'
   codename: beryl
+  date: '2025-03-15'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UOQMIXM/fw_beryl_miui_BERYLGlobal_OS1.0.8.0.UOQMIXM_8c25bf3da3_14.0.zip
+  name: Redmi Note 14 5G/POCO M7 Pro 5G
+  version: OS1.0.8.0.UOQMIXM
+- android: '14.0'
+  codename: beryl
   date: '2025-02-12'
   download: https://bigota.d.miui.com/OS1.0.8.0.UOQEUXM/fw_beryl_miui_BERYLEEAGlobal_OS1.0.8.0.UOQEUXM_627066f53d_14.0.zip
   name: Redmi Note 14 5G/POCO M7 Pro 5G

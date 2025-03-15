@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 15 Mar 2025 13:06:30 </lastBuildDate>
+        <lastBuildDate>Sat, 15 Mar 2025 19:22:50 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS1.0.8.0.UOQMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
+            <pubDate>Sat, 15 Mar 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 10C (fog) - V14.0.10.0.TGEEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fog/</link>
@@ -1015,11 +1020,6 @@
             <title>Redmi Note 12 4G (tapas) - OS2.0.9.0.VMTMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tapas/</link>
             <pubDate>Thu, 13 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS1.0.6.0.UOQMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
-            <pubDate>Wed, 12 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS1.0.8.0.UOQEUXM</title>
