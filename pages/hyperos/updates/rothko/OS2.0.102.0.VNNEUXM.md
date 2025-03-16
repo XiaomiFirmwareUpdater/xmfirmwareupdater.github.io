@@ -78,7 +78,7 @@ permalink: /hyperos/rothko/stable beta/OS2.0.102.0.VNNEUXM/
                             aria-expanded="false" aria-controls="rothko_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="rothko_1_changelog">
-                        <p id="changelog_text">[Attention]<br>System updates won't delete any of your data, but it's a good idea to back it up before updating, just in case.<br>The software update package will be deleted once the update is complete and won't occupy storage space on your device.<br>If you run into any issues, you can get help or share your feedback through the "Service & feedback" app.<br>Learn more about Xiaomi HyperOS in Xiaomi Community</p>
+                        <p id="changelog_text"></p>
                     </div>
                 </li>
             </ul>
