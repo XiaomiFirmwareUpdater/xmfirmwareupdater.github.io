@@ -19,15 +19,15 @@
     android: '14.0'
     miui: OS1.0.6.0.UOQCNXM
 - branch: stable
-  date: '2025-02-12'
+  date: '2025-03-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-12.02.2025/fw_beryl_miui_BERYLEEAGlobal_OS1.0.8.0.UOQEUXM_627066f53d_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/beryl/fw_beryl_miui_BERYLEEAGlobal_OS1.0.8.0.UOQEUXM_627066f53d_14.0.zip
-  filename: fw_beryl_miui_BERYLEEAGlobal_OS1.0.8.0.UOQEUXM_627066f53d_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-16.03.2025/fw_beryl_miui_BERYLEEAGlobal_OS1.0.10.0.UOQEUXM_0ee588cf56_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/beryl/fw_beryl_miui_BERYLEEAGlobal_OS1.0.10.0.UOQEUXM_0ee588cf56_14.0.zip
+  filename: fw_beryl_miui_BERYLEEAGlobal_OS1.0.10.0.UOQEUXM_0ee588cf56_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.8.0.UOQEUXM
+    miui: OS1.0.10.0.UOQEUXM
 - branch: stable
   date: '2025-03-11'
   downloads:
