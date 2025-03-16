@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 16 Mar 2025 13:22:35 </lastBuildDate>
+        <lastBuildDate>Sun, 16 Mar 2025 19:19:49 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS1.0.10.0.UOQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
+            <pubDate>Sun, 16 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.102.0.VNNEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
             <pubDate>Sun, 16 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -474,11 +479,6 @@
         <item>
             <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS1.0.12.0.UMSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
-            <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.101.0.VNNEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
             <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
