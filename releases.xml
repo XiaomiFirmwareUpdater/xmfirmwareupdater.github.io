@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 17 Mar 2025 08:15:06 </lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 14:16:04 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS1.0.7.0.UOQCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
+            <pubDate>Mon, 17 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 (dada) - OS2.0.107.0.VOCMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
+            <pubDate>Mon, 17 Mar 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS1.0.12.0.ULFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/diting/</link>
@@ -17,13 +27,28 @@
             <pubDate>Mon, 17 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi 13/POCO M6 (moon) - OS1.0.9.0.UNTMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/moon/</link>
+            <pubDate>Mon, 17 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>MIX Flip (ruyi) - OS2.0.102.0.VNIMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruyi/</link>
             <pubDate>Mon, 17 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 12S Pro (unicorn) - OS2.0.5.0.VLECNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/unicorn/</link>
+            <pubDate>Mon, 17 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.10.0.VOAEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
+            <pubDate>Mon, 17 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - OS2.0.5.0.VLBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Mon, 17 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -477,11 +502,6 @@
             <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 13/POCO M6 (moon) - OS2.0.4.0.VNTMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/moon/</link>
-            <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12T (plato) - OS2.0.2.0.VLQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/plato/</link>
             <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
@@ -512,11 +532,6 @@
             <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12S Pro (unicorn) - OS2.0.3.0.VLECNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/unicorn/</link>
-            <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - OS1.0.11.0.ULOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xaga/</link>
             <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
@@ -535,11 +550,6 @@
             <title>Xiaomi MIX Fold 2 (zizhan) - OS2.0.3.0.VLRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zizhan/</link>
             <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 (dada) - OS2.0.106.0.VOCMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
-            <pubDate>Sun, 02 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 15 (dada) - OS2.0.102.0.VOCEUXM</title>
@@ -775,11 +785,6 @@
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS1.0.10.0.UMQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Tue, 25 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS1.0.6.0.UOQCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
-            <pubDate>Mon, 24 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.3.0.VNLINXM</title>
@@ -1100,11 +1105,6 @@
             <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS1.0.14.0.UGUCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flame/</link>
             <pubDate>Sun, 09 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Pro (zeus) - OS2.0.1.0.VLBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Sat, 08 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K60 Pro (socrates) - OS2.0.102.0.VMKCNXM</title>

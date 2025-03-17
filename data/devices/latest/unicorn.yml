@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2025-03-03'
+  date: '2025-03-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_unicorn/releases/download/stable-03.03.2025/fw_unicorn_unicorn-ota_full-OS2.0.3.0.VLECNXM-user-15.0-1692fbbf05.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/unicorn/fw_unicorn_unicorn-ota_full-OS2.0.3.0.VLECNXM-user-15.0-1692fbbf05.zip
-  filename: fw_unicorn_unicorn-ota_full-OS2.0.3.0.VLECNXM-user-15.0-1692fbbf05.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_unicorn/releases/download/stable-17.03.2025/fw_unicorn_unicorn-ota_full-OS2.0.5.0.VLECNXM-user-15.0-d261b86117.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/unicorn/fw_unicorn_unicorn-ota_full-OS2.0.5.0.VLECNXM-user-15.0-d261b86117.zip
+  filename: fw_unicorn_unicorn-ota_full-OS2.0.5.0.VLECNXM-user-15.0-d261b86117.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.3.0.VLECNXM
+    miui: OS2.0.5.0.VLECNXM
