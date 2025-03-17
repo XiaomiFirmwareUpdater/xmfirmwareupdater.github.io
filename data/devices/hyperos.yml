@@ -1932,6 +1932,12 @@
   version: OS1.0.6.0.ULFMIXM
 - android: '14.0'
   codename: diting
+  date: '2025-03-17'
+  download: https://bigota.d.miui.com/OS1.0.12.0.ULFMIXM/fw_diting_miui_DITINGGlobal_OS1.0.12.0.ULFMIXM_76247935ec_14.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS1.0.12.0.ULFMIXM
+- android: '14.0'
+  codename: diting
   date: '2025-02-17'
   download: https://bigota.d.miui.com/OS1.0.16.0.ULFEUXM/fw_diting_miui_DITINGEEAGlobal_OS1.0.16.0.ULFEUXM_40f7b30dee_14.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
@@ -3508,6 +3514,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UGPEUXM/fw_gale_miui_GALEEEAGlobal_OS1.0.5.0.UGPEUXM_331f60c580_14.0.zip
   name: Redmi 13C/POCO C65
   version: OS1.0.5.0.UGPEUXM
+- android: '15.0'
+  codename: gale
+  date: '2025-03-17'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VGPINXM/fw_gale_in_global_gale_in_global-ota_full-OS2.0.3.0.VGPINXM-user-15.0-64088c4e58.zip
+  name: Redmi 13C/POCO C65
+  version: OS2.0.3.0.VGPINXM
 - android: '15.0'
   codename: gale
   date: '2025-02-17'
@@ -9454,6 +9466,12 @@
   download: https://bigota.d.miui.com/OS1.0.13.0.UNIMIXM/fw_ruyi_miui_RUYIGlobal_OS1.0.13.0.UNIMIXM_31a0687fe2_14.0.zip
   name: MIX Flip
   version: OS1.0.13.0.UNIMIXM
+- android: '15.0'
+  codename: ruyi
+  date: '2025-03-17'
+  download: https://bigota.d.miui.com/OS2.0.102.0.VNIMIXM/fw_ruyi_global_ruyi_global-ota_full-OS2.0.102.0.VNIMIXM-user-15.0-588089bda1.zip
+  name: MIX Flip
+  version: OS2.0.102.0.VNIMIXM
 - android: '14.0'
   codename: ruyi
   date: '2024-12-14'
@@ -12394,6 +12412,12 @@
   download: https://bigota.d.miui.com/OS2.0.102.0.VOACNXM/fw_xuanyuan_xuanyuan-ota_full-OS2.0.102.0.VOACNXM-user-15.0-57ae5d127a.zip
   name: Xiaomi 15 Ultra
   version: OS2.0.102.0.VOACNXM
+- android: '15.0'
+  codename: xuanyuan
+  date: '2025-03-17'
+  download: https://bigota.d.miui.com/OS2.0.10.0.VOAEUXM/fw_xuanyuan_eea_global_xuanyuan_eea_global-ota_full-OS2.0.10.0.VOAEUXM-user-15.0-36c71af083.zip
+  name: Xiaomi 15 Ultra
+  version: OS2.0.10.0.VOAEUXM
 - android: '15.0'
   codename: xuanyuan
   date: '2025-03-13'

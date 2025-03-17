@@ -61,6 +61,7 @@ permalink: /hyperos/topaz/
 <tr><td>Redmi Note 12 4G NFC Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.2.0.VMGIDXM</td><td>15.0</td><td>4.6 GB</td><td>2025-03-07</td><td><a href="/hyperos/topaz/stable beta/OS2.0.2.0.VMGIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G NFC Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UMGRUXM</td><td>14.0</td><td>7.2 GB</td><td>2024-12-03</td><td><a href="/hyperos/topaz/stable/OS1.0.8.0.UMGRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G NFC Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VMGRUXM</td><td>15.0</td><td>4.6 GB</td><td>2025-01-13</td><td><a href="/hyperos/topaz/stable/OS2.0.1.0.VMGRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 4G NFC Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.2.0.VMGRUXM</td><td>15.0</td><td>4.6 GB</td><td>2025-03-12</td><td><a href="/hyperos/topaz/stable beta/OS2.0.2.0.VMGRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
