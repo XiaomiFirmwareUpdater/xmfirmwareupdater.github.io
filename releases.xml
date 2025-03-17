@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 17 Mar 2025 14:16:04 </lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 19:52:27 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS1.0.7.0.UOQCNXM</title>
@@ -24,6 +24,16 @@
         <item>
             <title>Redmi 13C/POCO C65 (gale) - OS2.0.3.0.VGPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gale/</link>
+            <pubDate>Mon, 17 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS2.0.6.0.VNRMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
+            <pubDate>Mon, 17 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.18.0.UMRCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
             <pubDate>Mon, 17 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -732,11 +742,6 @@
             <pubDate>Tue, 25 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS2.0.4.0.VNRMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
-            <pubDate>Tue, 25 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS2.0.4.0.VNRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
             <pubDate>Tue, 25 Feb 2025 00:00:00 </pubDate>
@@ -1049,11 +1054,6 @@
         <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS2.0.2.0.VNQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gold/</link>
-            <pubDate>Wed, 12 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.17.0.UMRCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
             <pubDate>Wed, 12 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>

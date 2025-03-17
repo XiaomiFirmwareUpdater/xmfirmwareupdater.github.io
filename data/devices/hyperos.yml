@@ -3712,6 +3712,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UNRINXM/fw_garnet_miui_GARNETINGlobal_OS1.0.7.0.UNRINXM_84036df082_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS1.0.7.0.UNRINXM
+- android: '15.0'
+  codename: garnet
+  date: '2025-03-17'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VNRMIXM/fw_garnet_global_garnet_global-ota_full-OS2.0.6.0.VNRMIXM-user-15.0-7bfdfa66f5.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS2.0.6.0.VNRMIXM
 - android: '14.0'
   codename: garnet
   date: '2024-11-16'
@@ -5932,6 +5938,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UMREUXM/fw_marble_miui_MARBLEEEAGlobal_OS1.0.7.0.UMREUXM_c244889592_14.0.zip
   name: Redmi Note 12 Turbo/POCO F5
   version: OS1.0.7.0.UMREUXM
+- android: '14.0'
+  codename: marble
+  date: '2025-03-17'
+  download: https://bigota.d.miui.com/OS1.0.18.0.UMRCNXM/fw_marble_miui_MARBLE_OS1.0.18.0.UMRCNXM_2ceea3f630_14.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS1.0.18.0.UMRCNXM
 - android: '14.0'
   codename: marble
   date: '2024-08-14'
