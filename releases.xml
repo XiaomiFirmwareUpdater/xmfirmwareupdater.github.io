@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 18 Mar 2025 13:36:39 </lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 20:17:09 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.101.0.VMLEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/corot/</link>
+            <pubDate>Tue, 18 Mar 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.1.0.UKOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
@@ -24,6 +29,11 @@
         <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.15.0.UMOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Tue, 18 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.110.0.VOACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Tue, 18 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -134,11 +144,6 @@
         <item>
             <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.101.0.VNPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
-            <pubDate>Thu, 13 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.107.0.VOACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Thu, 13 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -720,11 +725,6 @@
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.22.0.TGOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/water/</link>
             <pubDate>Thu, 27 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.11.0.VMLEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Wed, 26 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS1.0.15.0.UKOEUXM</title>
