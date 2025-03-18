@@ -5460,6 +5460,12 @@
   version: OS1.0.3.0.UKOINXM
 - android: '14.0'
   codename: lisa
+  date: '2025-03-18'
+  download: https://bigota.d.miui.com/OS2.0.1.0.UKOCNXM/fw_lisa_lisa-ota_full-OS2.0.1.0.UKOCNXM-user-14.0-2febfe6978.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.1.0.UKOCNXM
+- android: '14.0'
+  codename: lisa
   date: '2025-02-18'
   download: https://bigota.d.miui.com/OS1.0.11.0.UKOCNXM/fw_lisa_miui_LISA_OS1.0.11.0.UKOCNXM_5d14291d36_14.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
@@ -6382,6 +6388,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMNEUXM/fw_mondrian_miui_MONDRIANEEAGlobal_OS1.0.3.0.UMNEUXM_1bec6ffeca_14.0.zip
   name: Redmi K60/POCO F5 Pro
   version: OS1.0.3.0.UMNEUXM
+- android: '15.0'
+  codename: mondrian
+  date: '2025-03-18'
+  download: https://bigota.d.miui.com/OS2.0.5.0.VMNMIXM/fw_mondrian_global_mondrian_global-ota_full-OS2.0.5.0.VMNMIXM-user-15.0-91db079f27.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS2.0.5.0.VMNMIXM
 - android: '15.0'
   codename: mondrian
   date: '2025-02-18'
