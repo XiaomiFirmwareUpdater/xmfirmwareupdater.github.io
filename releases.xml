@@ -4,11 +4,26 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 19 Mar 2025 07:24:03 </lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 13:44:43 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13C/POCO C65 (gale) - OS2.0.4.0.VGPMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gale/</link>
+            <pubDate>Wed, 19 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.1.0.UMOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Wed, 19 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS2.0.2.0.UMQCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sunstone/</link>
+            <pubDate>Wed, 19 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 4G (tanzanite) - OS1.0.7.0.UOGMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/tanzanite/</link>
             <pubDate>Wed, 19 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -294,11 +309,6 @@
         <item>
             <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.102.0.VNNMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
-            <pubDate>Mon, 10 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.16.0.UMOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Mon, 10 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1002,11 +1012,6 @@
             <pubDate>Mon, 17 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 14 4G (tanzanite) - OS1.0.6.0.UOGMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/tanzanite/</link>
-            <pubDate>Mon, 17 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K70/POCO F6 Pro (vermeer) - OS2.0.3.0.VNKEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Mon, 17 Feb 2025 00:00:00 </pubDate>
@@ -1189,11 +1194,6 @@
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.1.0.VGQCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
-            <pubDate>Fri, 17 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS1.0.4.0.UMQCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Fri, 17 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
