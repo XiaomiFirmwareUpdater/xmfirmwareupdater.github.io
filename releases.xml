@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 19 Mar 2025 01:10:08 </lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 07:24:03 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 13C/POCO C65 (gale) - OS2.0.4.0.VGPMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/gale/</link>
+            <pubDate>Wed, 19 Mar 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.101.0.VMLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/corot/</link>
@@ -1235,11 +1240,6 @@
             <title>Mi 11 (venus) - OS1.0.12.0.UKBEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/venus/</link>
             <pubDate>Tue, 07 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 13C/POCO C65 (gale) - OS2.0.3.0.VGPMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/gale/</link>
-            <pubDate>Mon, 06 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K40S/POCO F4 (munch) - OS1.0.8.0.ULMMIXM</title>
