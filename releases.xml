@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 20 Mar 2025 01:08:04 </lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 07:53:20 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS1.0.7.0.UOPEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
+            <pubDate>Thu, 20 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 7 Pro (muyu) - OS2.0.106.0.VOYCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
+            <pubDate>Thu, 20 Mar 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 13C/POCO C65 (gale) - OS2.0.4.0.VGPMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gale/</link>
@@ -907,11 +917,6 @@
             <pubDate>Mon, 24 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 7 Pro (muyu) - OS2.0.104.0.VOYCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
-            <pubDate>Sun, 23 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS2.0.102.0.VMACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
             <pubDate>Sat, 22 Feb 2025 00:00:00 </pubDate>
@@ -1160,11 +1165,6 @@
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS1.0.10.0.UNSMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
             <pubDate>Wed, 22 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS1.0.6.0.UOPEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
-            <pubDate>Mon, 20 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS2.0.1.0.VMAEUXM</title>
