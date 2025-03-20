@@ -2128,6 +2128,12 @@
   download: https://bigota.d.miui.com/OS1.0.14.0.UNSCNXM/fw_dizi_miui_DIZI_OS1.0.14.0.UNSCNXM_d50bb9df9d_14.0.zip
   name: Redmi Pad Pro/POCO Pad
   version: OS1.0.14.0.UNSCNXM
+- android: '15.0'
+  codename: dizi
+  date: '2025-03-20'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VNSCNXM/fw_dizi_dizi-ota_full-OS2.0.4.0.VNSCNXM-user-15.0-9026d32eb8.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS2.0.4.0.VNSCNXM
 - android: '14.0'
   codename: dizi
   date: '2024-07-19'
@@ -4638,6 +4644,12 @@
   version: OS2.0.6.0.VNCINXM
 - android: '15.0'
   codename: houji
+  date: '2025-03-20'
+  download: https://bigota.d.miui.com/OS2.0.7.0.VNCEUXM/fw_houji_eea_global_houji_eea_global-ota_full-OS2.0.7.0.VNCEUXM-user-15.0-e1a572672e.zip
+  name: Xiaomi 14
+  version: OS2.0.7.0.VNCEUXM
+- android: '15.0'
+  codename: houji
   date: '2024-12-19'
   download: https://bigota.d.miui.com/OS2.0.1.0.VNCEUXM/fw_houji_eea_global_houji_eea_global-ota_full-OS2.0.1.0.VNCEUXM-user-15.0-a671fce3aa.zip
   name: Xiaomi 14
@@ -6706,6 +6718,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMPINXM/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.2.0.UMPINXM_3bff7cbe6c_14.0.zip
   name: POCO X5 5G
   version: OS1.0.2.0.UMPINXM
+- android: '14.0'
+  codename: moonstone
+  date: '2025-03-20'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UMPEUXM/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.13.0.UMPEUXM_26d07fdbf8_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.13.0.UMPEUXM
 - android: '14.0'
   codename: moonstone
   date: '2025-01-20'
@@ -10044,6 +10062,12 @@
   version: OS2.0.100.0.VNXMIXM
 - android: '15.0'
   codename: sheng
+  date: '2025-03-20'
+  download: https://bigota.d.miui.com/OS2.0.101.0.VNXMIXM/fw_sheng_global_sheng_global-ota_full-OS2.0.101.0.VNXMIXM-user-15.0-9f5dcb3d31.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS2.0.101.0.VNXMIXM
+- android: '15.0'
+  codename: sheng
   date: '2024-12-16'
   download: https://bigota.d.miui.com/OS2.0.3.0.VNXCNXM/fw_sheng_sheng-ota_full-OS2.0.3.0.VNXCNXM-user-15.0-1c0f3fff6c.zip
   name: Xiaomi Pad 6S Pro 12.4
@@ -12298,6 +12322,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UGVINXM/fw_warm_miui_WARMINGlobal_OS1.0.4.0.UGVINXM_7751a0c4a1_14.0.zip
   name: Redmi A4 5G/POCO C75 5G
   version: OS1.0.4.0.UGVINXM
+- android: '14.0'
+  codename: warm
+  date: '2025-03-20'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UGVINXM/fw_warm_miui_WARMINGlobal_OS1.0.9.0.UGVINXM_8e6c6ea9f1_14.0.zip
+  name: Redmi A4 5G/POCO C75 5G
+  version: OS1.0.9.0.UGVINXM
 - android: '14.0'
   codename: warm
   date: '2024-12-17'
