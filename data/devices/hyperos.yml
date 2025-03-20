@@ -6708,6 +6708,12 @@
   version: OS1.0.3.0.UMPEUXM
 - android: '14.0'
   codename: moonstone
+  date: '2025-03-20'
+  download: https://bigota.d.miui.com/OS1.0.15.0.UMPMIXM/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.15.0.UMPMIXM_ae61017a1d_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.15.0.UMPMIXM
+- android: '14.0'
+  codename: moonstone
   date: '2024-08-20'
   download: https://bigota.d.miui.com/OS1.0.8.0.UMPMIXM/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.8.0.UMPMIXM_1b327cce13_14.0.zip
   name: POCO X5 5G
