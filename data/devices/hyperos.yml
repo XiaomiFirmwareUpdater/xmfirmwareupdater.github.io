@@ -156,6 +156,12 @@
   version: OS1.0.1.0.UGQCNXM
 - android: '14.0'
   codename: air
+  date: '2025-03-20'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UGQEUXM/fw_air_miui_AIREEAGlobal_OS1.0.6.0.UGQEUXM_ad3c2fcf17_14.0.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS1.0.6.0.UGQEUXM
+- android: '14.0'
+  codename: air
   date: '2024-07-18'
   download: https://bigota.d.miui.com/OS1.0.1.0.UGQEUXM/fw_air_miui_AIREEAGlobal_OS1.0.1.0.UGQEUXM_d704cd62c8_14.0.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
@@ -11632,6 +11638,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UKBCNXM/fw_venus_miui_VENUS_OS1.0.1.0.UKBCNXM_f461404e5a_14.0.zip
   name: Mi 11
   version: OS1.0.1.0.UKBCNXM
+- android: '14.0'
+  codename: venus
+  date: '2025-03-20'
+  download: https://bigota.d.miui.com/OS2.0.2.0.UKBCNXM/fw_venus_venus-ota_full-OS2.0.2.0.UKBCNXM-user-14.0-f875a6f2f6.zip
+  name: Mi 11
+  version: OS2.0.2.0.UKBCNXM
 - android: '14.0'
   codename: venus
   date: '2024-07-19'

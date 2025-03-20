@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 20 Mar 2025 07:53:20 </lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 13:28:11 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS1.0.6.0.UGQEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/air/</link>
+            <pubDate>Thu, 20 Mar 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS1.0.7.0.UOPEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
@@ -14,6 +19,11 @@
         <item>
             <title>Xiaomi Pad 7 Pro (muyu) - OS2.0.106.0.VOYCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
+            <pubDate>Thu, 20 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 11 (venus) - OS2.0.2.0.UKBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/venus/</link>
             <pubDate>Thu, 20 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -522,11 +532,6 @@
             <pubDate>Tue, 04 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.1.0.VGQEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/air/</link>
-            <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13T (aristotle) - OS2.0.3.0.VMFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
             <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
@@ -759,11 +764,6 @@
         <item>
             <title>Redmi Note 13 (sapphire) - OS2.0.8.0.VNGMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sapphire/</link>
-            <pubDate>Wed, 26 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 (venus) - OS1.0.12.0.UKBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/venus/</link>
             <pubDate>Wed, 26 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
