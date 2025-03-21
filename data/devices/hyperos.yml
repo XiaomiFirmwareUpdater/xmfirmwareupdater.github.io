@@ -318,6 +318,18 @@
   version: OS1.0.2.0.UOPINXM
 - android: '14.0'
   codename: amethyst
+  date: '2025-03-21'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UOPEUXM/fw_amethyst_miui_AMETHYSTEEAGlobal_OS1.0.9.0.UOPEUXM_e481dcf2ad_14.0.zip
+  name: Redmi Note 14 Pro+ 5G
+  version: OS1.0.9.0.UOPEUXM
+- android: '14.0'
+  codename: amethyst
+  date: '2025-03-21'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UOPMIXM/fw_amethyst_miui_AMETHYSTGlobal_OS1.0.7.0.UOPMIXM_5761c7063c_14.0.zip
+  name: Redmi Note 14 Pro+ 5G
+  version: OS1.0.7.0.UOPMIXM
+- android: '14.0'
+  codename: amethyst
   date: '2025-03-20'
   download: https://bigota.d.miui.com/OS1.0.7.0.UOPEUXM/fw_amethyst_miui_AMETHYSTEEAGlobal_OS1.0.7.0.UOPEUXM_319edae753_14.0.zip
   name: Redmi Note 14 Pro+ 5G
@@ -2329,6 +2341,12 @@
 - android: '15.0'
   codename: duchamp
   date: '2025-03-21'
+  download: https://bigota.d.miui.com/OS2.0.103.0.VNLEUXM/fw_duchamp_eea_global_duchamp_eea_global-ota_full-OS2.0.103.0.VNLEUXM-user-15.0-e3e172fca9.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS2.0.103.0.VNLEUXM
+- android: '15.0'
+  codename: duchamp
+  date: '2025-03-21'
   download: https://bigota.d.miui.com/OS2.0.101.0.VNLMIXM/fw_duchamp_global_duchamp_global-ota_full-OS2.0.101.0.VNLMIXM-user-15.0-13c1dac60f.zip
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS2.0.101.0.VNLMIXM
@@ -2738,121 +2756,121 @@
   codename: emerald
   date: '2024-08-30'
   download: https://bigota.d.miui.com/OS1.0.5.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.5.0.UNFMIXM_74c2396ed4_14.0.zip
-  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.5.0.UNFMIXM
 - android: '14.0'
   codename: emerald
   date: '2024-10-28'
   download: https://bigota.d.miui.com/OS1.0.6.0.UNFEUXM/fw_emerald_miui_EMERALDEEAGlobal_OS1.0.6.0.UNFEUXM_6d286f8c36_14.0.zip
-  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.6.0.UNFEUXM
 - android: '14.0'
   codename: emerald
   date: '2024-09-27'
   download: https://bigota.d.miui.com/OS1.0.5.0.UNFEUXM/fw_emerald_miui_EMERALDEEAGlobal_OS1.0.5.0.UNFEUXM_d438dc07c5_14.0.zip
-  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.5.0.UNFEUXM
 - android: '14.0'
   codename: emerald
   date: '2024-07-26'
   download: https://bigota.d.miui.com/OS1.0.3.0.UNFEUXM/fw_emerald_miui_EMERALDEEAGlobal_OS1.0.3.0.UNFEUXM_e4402fa6fe_14.0.zip
-  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.3.0.UNFEUXM
 - android: '14.0'
   codename: emerald
   date: '2024-09-25'
   download: https://bigota.d.miui.com/OS1.0.6.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.6.0.UNFMIXM_0f0c0947bc_14.0.zip
-  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.6.0.UNFMIXM
 - android: '15.0'
   codename: emerald
   date: '2025-02-24'
   download: https://bigota.d.miui.com/OS2.0.1.0.VNFEUXM/fw_emerald_eea_global_emerald_eea_global-ota_full-OS2.0.1.0.VNFEUXM-user-15.0-22aa28182b.zip
-  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS2.0.1.0.VNFEUXM
 - android: '14.0'
   codename: emerald
   date: '2024-12-23'
   download: https://bigota.d.miui.com/OS1.0.10.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.10.0.UNFMIXM_b99b009f3d_14.0.zip
-  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.10.0.UNFMIXM
 - android: '14.0'
   codename: emerald
   date: '2024-08-22'
   download: https://bigota.d.miui.com/OS1.0.4.0.UNFEUXM/fw_emerald_miui_EMERALDEEAGlobal_OS1.0.4.0.UNFEUXM_dae8157bf9_14.0.zip
-  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.4.0.UNFEUXM
 - android: '14.0'
   codename: emerald
   date: '2025-01-20'
   download: https://bigota.d.miui.com/OS1.0.9.0.UNFEUXM/fw_emerald_miui_EMERALDEEAGlobal_OS1.0.9.0.UNFEUXM_ba8d7309c7_14.0.zip
-  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.9.0.UNFEUXM
 - android: '14.0'
   codename: emerald
   date: '2024-05-16'
   download: https://bigota.d.miui.com/OS1.0.3.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.3.0.UNFMIXM_68eb6f61a9_14.0.zip
-  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.3.0.UNFMIXM
 - android: '15.0'
   codename: emerald
   date: '2025-01-16'
   download: https://bigota.d.miui.com/OS2.0.2.0.VNFMIXM/fw_emerald_global_emerald_global-ota_full-OS2.0.2.0.VNFMIXM-user-15.0-c61adec515.zip
-  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS2.0.2.0.VNFMIXM
 - android: '14.0'
   codename: emerald
   date: '2024-04-15'
   download: https://bigota.d.miui.com/OS1.0.1.0.UNFEUXM/fw_emerald_miui_EMERALDEEAGlobal_OS1.0.1.0.UNFEUXM_1085ee4a08_14.0.zip
-  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.1.0.UNFEUXM
 - android: '14.0'
   codename: emerald
   date: '2024-10-14'
   download: https://bigota.d.miui.com/OS1.0.7.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.7.0.UNFMIXM_5007a2d96e_14.0.zip
-  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.7.0.UNFMIXM
 - android: '14.0'
   codename: emerald
   date: '2024-08-13'
   download: https://bigota.d.miui.com/OS1.0.4.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.4.0.UNFMIXM_9ad81db509_14.0.zip
-  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.4.0.UNFMIXM
 - android: '15.0'
   codename: emerald
   date: '2025-03-13'
   download: https://bigota.d.miui.com/OS2.0.4.0.VNFMIXM/fw_emerald_global_emerald_global-ota_full-OS2.0.4.0.VNFMIXM-user-15.0-2332928b70.zip
-  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS2.0.4.0.VNFMIXM
 - android: '14.0'
   codename: emerald
   date: '2024-06-12'
   download: https://bigota.d.miui.com/OS1.0.2.0.UNFEUXM/fw_emerald_miui_EMERALDEEAGlobal_OS1.0.2.0.UNFEUXM_1d3de83f72_14.0.zip
-  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.2.0.UNFEUXM
 - android: '14.0'
   codename: emerald
   date: '2024-03-12'
   download: https://bigota.d.miui.com/OS1.0.1.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.1.0.UNFMIXM_69840715c1_14.0.zip
-  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.1.0.UNFMIXM
 - android: '14.0'
   codename: emerald
   date: '2024-12-09'
   download: https://bigota.d.miui.com/OS1.0.7.0.UNFEUXM/fw_emerald_miui_EMERALDEEAGlobal_OS1.0.7.0.UNFEUXM_ebc53bb5c8_14.0.zip
-  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.7.0.UNFEUXM
 - android: '14.0'
   codename: emerald
   date: '2025-01-06'
   download: https://bigota.d.miui.com/OS1.0.8.0.UNFEUXM/fw_emerald_miui_EMERALDEEAGlobal_OS1.0.8.0.UNFEUXM_187b557dea_14.0.zip
-  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.8.0.UNFEUXM
 - android: '14.0'
   codename: emerald
   date: '2024-12-04'
   download: https://bigota.d.miui.com/OS1.0.9.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.9.0.UNFMIXM_c3c33acdc9_14.0.zip
-  name: Redmi Note 13 Pro 4G/POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.9.0.UNFMIXM
 - android: '13.0'
   codename: enuma
@@ -5128,6 +5146,12 @@
   download: https://bigota.d.miui.com/OS2.0.102.0.VMACNXM/fw_ishtar_ishtar-ota_full-OS2.0.102.0.VMACNXM-user-15.0-415a486721.zip
   name: Xiaomi 13 Ultra
   version: OS2.0.102.0.VMACNXM
+- android: '15.0'
+  codename: ishtar
+  date: '2025-03-21'
+  download: https://bigota.d.miui.com/OS2.0.100.0.VMAEUXM/fw_ishtar_eea_global_ishtar_eea_global-ota_full-OS2.0.100.0.VMAEUXM-user-15.0-ccd0f93c44.zip
+  name: Xiaomi 13 Ultra
+  version: OS2.0.100.0.VMAEUXM
 - android: '14.0'
   codename: ishtar
   date: '2024-09-20'
@@ -6284,43 +6308,43 @@
   codename: miro
   date: '2024-11-30'
   download: https://bigota.d.miui.com/OS2.0.10.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.10.0.VOMCNXM-user-15.0-69a61b38e5.zip
-  name: Redmi K80 Pro
+  name: Redmi K80 Pro/POCO F7 Ultra
   version: OS2.0.10.0.VOMCNXM
 - android: '15.0'
   codename: miro
   date: '2024-11-28'
   download: https://bigota.d.miui.com/OS2.0.9.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.9.0.VOMCNXM-user-15.0-8bfd45400f.zip
-  name: Redmi K80 Pro
+  name: Redmi K80 Pro/POCO F7 Ultra
   version: OS2.0.9.0.VOMCNXM
 - android: '15.0'
   codename: miro
   date: '2024-12-23'
   download: https://bigota.d.miui.com/OS2.0.15.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.15.0.VOMCNXM-user-15.0-bdfa3a076c.zip
-  name: Redmi K80 Pro
+  name: Redmi K80 Pro/POCO F7 Ultra
   version: OS2.0.15.0.VOMCNXM
 - android: '15.0'
   codename: miro
   date: '2025-02-16'
   download: https://bigota.d.miui.com/OS2.0.105.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.105.0.VOMCNXM-user-15.0-2b557b7092.zip
-  name: Redmi K80 Pro
+  name: Redmi K80 Pro/POCO F7 Ultra
   version: OS2.0.105.0.VOMCNXM
 - android: '15.0'
   codename: miro
   date: '2024-12-06'
   download: https://bigota.d.miui.com/OS2.0.11.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.11.0.VOMCNXM-user-15.0-53cc500554.zip
-  name: Redmi K80 Pro
+  name: Redmi K80 Pro/POCO F7 Ultra
   version: OS2.0.11.0.VOMCNXM
 - android: '15.0'
   codename: miro
   date: '2025-02-05'
   download: https://bigota.d.miui.com/OS2.0.104.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.104.0.VOMCNXM-user-15.0-f810008bcf.zip
-  name: Redmi K80 Pro
+  name: Redmi K80 Pro/POCO F7 Ultra
   version: OS2.0.104.0.VOMCNXM
 - android: '15.0'
   codename: miro
   date: '2025-01-02'
   download: https://bigota.d.miui.com/OS2.0.102.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.102.0.VOMCNXM-user-15.0-35854d9910.zip
-  name: Redmi K80 Pro
+  name: Redmi K80 Pro/POCO F7 Ultra
   version: OS2.0.102.0.VOMCNXM
 - android: '13.0'
   codename: mona
@@ -7429,6 +7453,12 @@
 - android: '14.0'
   codename: obsidian
   date: '2025-03-21'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UOFEUXM/fw_obsidian_miui_OBSIDIANEEAGlobal_OS1.0.4.0.UOFEUXM_1fa5da6b85_14.0.zip
+  name: Redmi Note 14 Pro 4G
+  version: OS1.0.4.0.UOFEUXM
+- android: '14.0'
+  codename: obsidian
+  date: '2025-03-21'
   download: https://bigota.d.miui.com/OS1.0.4.0.UOFMIXM/fw_obsidian_miui_OBSIDIANGlobal_OS1.0.4.0.UOFMIXM_da2a9c9b73_14.0.zip
   name: Redmi Note 14 Pro 4G
   version: OS1.0.4.0.UOFMIXM
@@ -8446,6 +8476,24 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UMSCNXM/fw_redwood_miui_REDWOOD_OS1.0.6.0.UMSCNXM_f7ddaf58a6_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: OS1.0.6.0.UMSCNXM
+- android: '14.0'
+  codename: redwood
+  date: '2025-03-21'
+  download: https://bigota.d.miui.com/OS1.0.14.0.UMSEUXM/fw_redwood_miui_REDWOODEEAGlobal_OS1.0.14.0.UMSEUXM_deb35514e7_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.14.0.UMSEUXM
+- android: '14.0'
+  codename: redwood
+  date: '2025-03-21'
+  download: https://bigota.d.miui.com/OS1.0.15.0.UMSMIXM/fw_redwood_miui_REDWOODGlobal_OS1.0.15.0.UMSMIXM_4992e21d99_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.15.0.UMSMIXM
+- android: '14.0'
+  codename: redwood
+  date: '2025-03-21'
+  download: https://bigota.d.miui.com/OS1.0.14.0.UMSINXM/fw_redwood_miui_REDWOODINGlobal_OS1.0.14.0.UMSINXM_b53d2f410f_14.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS1.0.14.0.UMSINXM
 - android: '14.0'
   codename: redwood
   date: '2024-08-20'
@@ -12598,6 +12646,12 @@
   download: https://bigota.d.miui.com/OS2.0.102.0.VOACNXM/fw_xuanyuan_xuanyuan-ota_full-OS2.0.102.0.VOACNXM-user-15.0-57ae5d127a.zip
   name: Xiaomi 15 Ultra
   version: OS2.0.102.0.VOACNXM
+- android: '15.0'
+  codename: xuanyuan
+  date: '2025-03-21'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VOAINXM/fw_xuanyuan_in_global_xuanyuan_in_global-ota_full-OS2.0.2.0.VOAINXM-user-15.0-de5075c849.zip
+  name: Xiaomi 15 Ultra
+  version: OS2.0.2.0.VOAINXM
 - android: '15.0'
   codename: xuanyuan
   date: '2025-03-18'

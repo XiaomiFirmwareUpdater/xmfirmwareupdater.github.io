@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 13 Pro 4G/POCO M6 Pro (emerald) MIUI Downloads
+title: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) MIUI Downloads
 layout: download
-name: Redmi Note 13 Pro 4G/POCO M6 Pro
+name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
 codename: emerald
 permalink: /archive/miui/emerald/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/miui/emerald/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/emerald/">Redmi Note 13 Pro 4G/POCO M6 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/emerald/">Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

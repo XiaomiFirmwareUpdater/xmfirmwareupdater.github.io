@@ -54,10 +54,12 @@ permalink: /archive/hyperos/marble/
                 <tbody>
                 <tr><td>POCO F5 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.16.0.UMRTRXM</td><td>14.0</td><td>5.2 GB</td><td>2025-03-10</td><td><a href="/hyperos/marble/stable/OS1.0.16.0.UMRTRXM/">Download</a></td></tr>
 <tr><td>POCO F5 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.16.0.UMRTRXM</td><td>14.0</td><td>7.1 GB</td><td>2025-02-25</td><td><a href="/hyperos/marble/stable/OS1.0.16.0.UMRTRXM/">Download</a></td></tr>
-<tr><td>POCO F5 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.16.0.UMRIDXM</td><td>14.0</td><td>5.2 GB</td><td>2025-03-10</td><td><a href="/hyperos/marble/stable beta/OS1.0.16.0.UMRIDXM/">Download</a></td></tr>
+<tr><td>POCO F5 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.16.0.UMRIDXM</td><td>14.0</td><td>5.2 GB</td><td>2025-03-10</td><td><a href="/hyperos/marble/stable/OS1.0.16.0.UMRIDXM/">Download</a></td></tr>
+<tr><td>POCO F5 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.16.0.UMRIDXM</td><td>14.0</td><td>7.4 GB</td><td>2025-02-25</td><td><a href="/hyperos/marble/stable/OS1.0.16.0.UMRIDXM/">Download</a></td></tr>
 <tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.15.0.UMRTWXM</td><td>14.0</td><td>5.0 GB</td><td>2025-03-10</td><td><a href="/hyperos/marble/stable/OS1.0.15.0.UMRTWXM/">Download</a></td></tr>
 <tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.15.0.UMRTWXM</td><td>14.0</td><td>6.8 GB</td><td>2025-02-25</td><td><a href="/hyperos/marble/stable/OS1.0.15.0.UMRTWXM/">Download</a></td></tr>
-<tr><td>POCO F5 Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.16.0.UMRRUXM</td><td>14.0</td><td>5.0 GB</td><td>2025-03-05</td><td><a href="/hyperos/marble/stable beta/OS1.0.16.0.UMRRUXM/">Download</a></td></tr>
+<tr><td>POCO F5 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.16.0.UMRRUXM</td><td>14.0</td><td>5.0 GB</td><td>2025-03-05</td><td><a href="/hyperos/marble/stable/OS1.0.16.0.UMRRUXM/">Download</a></td></tr>
+<tr><td>POCO F5 Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.16.0.UMRRUXM</td><td>14.0</td><td>8.1 GB</td><td>2025-02-25</td><td><a href="/hyperos/marble/stable/OS1.0.16.0.UMRRUXM/">Download</a></td></tr>
 <tr><td>POCO F5 India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.20.0.UMRINXM</td><td>14.0</td><td>5.0 GB</td><td>2025-03-04</td><td><a href="/hyperos/marble/stable beta/OS1.0.20.0.UMRINXM/">Download</a></td></tr>
 <tr><td>POCO F5 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.17.0.UMRMIXM</td><td>14.0</td><td>5.3 GB</td><td>2025-03-04</td><td><a href="/hyperos/marble/stable beta/OS1.0.17.0.UMRMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Turbo China</td><td>Stable</td><td>Recovery</td><td>OS1.0.18.0.UMRCNXM</td><td>14.0</td><td>5.9 GB</td><td>2025-02-25</td><td><a href="/hyperos/marble/stable/OS1.0.18.0.UMRCNXM/">Download</a></td></tr>

@@ -1,7 +1,7 @@
 ---
-title: Redmi K80 Pro (miro) Firmware Downloads
+title: Redmi K80 Pro/POCO F7 Ultra (miro) Firmware Downloads
 layout: download
-name: Redmi K80 Pro
+name: Redmi K80 Pro/POCO F7 Ultra
 codename: miro
 permalink: /firmware/miro/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/miro/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/miro/">Redmi K80 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/miro/">Redmi K80 Pro/POCO F7 Ultra</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

@@ -4,10 +4,25 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 21 Mar 2025 08:49:40 </lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 19:54:10 </lastBuildDate>
         <language>en-us</language>
         <item>
+            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS1.0.7.0.UOPMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
+            <pubDate>Fri, 21 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS1.0.9.0.UOPEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
+            <pubDate>Fri, 21 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.101.0.VNLMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Fri, 21 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.103.0.VNLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Fri, 21 Mar 2025 00:00:00 </pubDate>
         </item>
@@ -17,8 +32,33 @@
             <pubDate>Fri, 21 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 13 Ultra (ishtar) - OS2.0.100.0.VMAEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
+            <pubDate>Fri, 21 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 14 Pro 4G (obsidian) - OS1.0.4.0.UOFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
+            <pubDate>Fri, 21 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro 4G (obsidian) - OS1.0.4.0.UOFEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
+            <pubDate>Fri, 21 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS1.0.15.0.UMSMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
+            <pubDate>Fri, 21 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS1.0.14.0.UMSEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
+            <pubDate>Fri, 21 Mar 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS1.0.14.0.UMSINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
             <pubDate>Fri, 21 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -32,13 +72,13 @@
             <pubDate>Fri, 21 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS1.0.6.0.UGQEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/air/</link>
-            <pubDate>Thu, 20 Mar 2025 00:00:00 </pubDate>
+            <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.2.0.VOAINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
+            <pubDate>Fri, 21 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS1.0.7.0.UOPEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
+            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS1.0.6.0.UGQEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/air/</link>
             <pubDate>Thu, 20 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -232,7 +272,7 @@
             <pubDate>Thu, 13 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 Pro 4G/POCO M6 Pro (emerald) - OS2.0.4.0.VNFMIXM</title>
+            <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.4.0.VNFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
             <pubDate>Thu, 13 Mar 2025 00:00:00 </pubDate>
         </item>
@@ -582,11 +622,6 @@
             <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.102.0.VNLEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.9.0.UCVINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/earth/</link>
             <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
@@ -604,21 +639,6 @@
         <item>
             <title>Xiaomi 12T (plato) - OS2.0.2.0.VLQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/plato/</link>
-            <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS1.0.13.0.UMSMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
-            <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS1.0.12.0.UMSEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
-            <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS1.0.12.0.UMSINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
             <pubDate>Mon, 03 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -862,7 +882,7 @@
             <pubDate>Mon, 24 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 Pro 4G/POCO M6 Pro (emerald) - OS2.0.1.0.VNFEUXM</title>
+            <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.1.0.VNFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
             <pubDate>Mon, 24 Feb 2025 00:00:00 </pubDate>
         </item>
@@ -1037,7 +1057,7 @@
             <pubDate>Sun, 16 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K80 Pro (miro) - OS2.0.105.0.VOMCNXM</title>
+            <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS2.0.105.0.VOMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/miro/</link>
             <pubDate>Sun, 16 Feb 2025 00:00:00 </pubDate>
         </item>
@@ -1099,11 +1119,6 @@
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.1.0.VGQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
-            <pubDate>Mon, 10 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS1.0.6.0.UOPMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
             <pubDate>Mon, 10 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1177,11 +1192,6 @@
             <pubDate>Wed, 22 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13 Ultra (ishtar) - OS2.0.1.0.VMAEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
-            <pubDate>Mon, 20 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad Pro 5G/POCO Pad 5G (ruan) - OS2.0.2.0.VFSCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruan/</link>
             <pubDate>Mon, 20 Jan 2025 00:00:00 </pubDate>
@@ -1219,11 +1229,6 @@
         <item>
             <title>Redmi K40S/POCO F4 (munch) - OS1.0.6.0.ULMINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/munch/</link>
-            <pubDate>Mon, 13 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 Pro 4G (obsidian) - OS1.0.2.0.UOFEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
             <pubDate>Mon, 13 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
