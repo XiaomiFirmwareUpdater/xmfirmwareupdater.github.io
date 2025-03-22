@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 22 Mar 2025 13:06:43 </lastBuildDate>
+        <lastBuildDate>Sat, 22 Mar 2025 19:17:34 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS1.0.10.0.UOOEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
+            <pubDate>Sat, 22 Mar 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.22.0.TGOINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/water/</link>
@@ -1139,11 +1144,6 @@
         <item>
             <title>Redmi 14C/POCO C75/Redmi A3 Pro (lake) - OS1.0.7.0.UGTEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lake/</link>
-            <pubDate>Mon, 10 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS1.0.8.0.UOOEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
             <pubDate>Mon, 10 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
