@@ -6349,15 +6349,15 @@
     android: '13.0'
     miui: V14.0.22.0.TGOEUXM
 - branch: stable
-  date: '2025-01-23'
+  date: '2025-03-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-23.01.2025/fw_water_miui_WATERINGlobal_V14.0.20.0.TGOINXM_05438b1ed5_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERINGlobal_V14.0.20.0.TGOINXM_05438b1ed5_13.0.zip
-  filename: fw_water_miui_WATERINGlobal_V14.0.20.0.TGOINXM_05438b1ed5_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-22.03.2025/fw_water_miui_WATERINGlobal_V14.0.22.0.TGOINXM_d8ab6d66cf_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERINGlobal_V14.0.22.0.TGOINXM_d8ab6d66cf_13.0.zip
+  filename: fw_water_miui_WATERINGlobal_V14.0.22.0.TGOINXM_d8ab6d66cf_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: V14.0.20.0.TGOINXM
+    miui: V14.0.22.0.TGOINXM
 - branch: stable
   date: '2021-04-08'
   downloads:

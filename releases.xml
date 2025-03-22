@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 22 Mar 2025 01:06:38 </lastBuildDate>
+        <lastBuildDate>Sat, 22 Mar 2025 07:12:19 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi A2/A2+/POCO C51 (water) - V14.0.22.0.TGOINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/water/</link>
+            <pubDate>Sat, 22 Mar 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS1.0.7.0.UOPMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
@@ -1178,11 +1183,6 @@
         </item>
         <item>
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.37.0.TGOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/water/</link>
-            <pubDate>Thu, 23 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A2/A2+/POCO C51 (water) - V14.0.20.0.TGOINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/water/</link>
             <pubDate>Thu, 23 Jan 2025 00:00:00 </pubDate>
         </item>
