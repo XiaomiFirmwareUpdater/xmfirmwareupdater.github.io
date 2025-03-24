@@ -169,6 +169,16 @@
     android: '14.0'
     miui: OS1.0.9.0.ULCEUXM
 - branch: stable
+  date: '2025-03-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-24.03.2025/fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.2.0.VLCEUXM-user-15.0-9e004eb0e4.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/cupid/fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.2.0.VLCEUXM-user-15.0-9e004eb0e4.zip
+  filename: fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.2.0.VLCEUXM-user-15.0-9e004eb0e4.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.2.0.VLCEUXM
+- branch: stable
   date: '2024-01-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-22.01.2024/fw_cupid_miui_CUPIDGlobal_V14.0.8.0.TLCMIXM_c8a95a39e8_13.0.zip

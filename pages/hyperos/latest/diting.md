@@ -67,9 +67,8 @@ permalink: /hyperos/diting/
 <tr><td>Xiaomi 12T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.ULFRUXM</td><td>14.0</td><td>6.4 GB</td><td>2025-01-13</td><td><a href="/hyperos/diting/stable/OS1.0.9.0.ULFRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.ULFRUXM</td><td>14.0</td><td>5.2 GB</td><td>2025-02-12</td><td><a href="/hyperos/diting/stable/OS1.0.9.0.ULFRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.11.0.ULFRUXM</td><td>14.0</td><td>5.2 GB</td><td>2025-03-18</td><td><a href="/hyperos/diting/stable beta/OS1.0.11.0.ULFRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.ULFTRXM</td><td>14.0</td><td>6.2 GB</td><td>2025-01-14</td><td><a href="/hyperos/diting/stable/OS1.0.9.0.ULFTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.ULFTRXM</td><td>14.0</td><td>5.2 GB</td><td>2025-02-14</td><td><a href="/hyperos/diting/stable/OS1.0.9.0.ULFTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.10.0.ULFTRXM</td><td>14.0</td><td>5.2 GB</td><td>2025-03-11</td><td><a href="/hyperos/diting/stable beta/OS1.0.10.0.ULFTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.ULFTRXM</td><td>14.0</td><td>6.1 GB</td><td>2025-02-26</td><td><a href="/hyperos/diting/stable/OS1.0.10.0.ULFTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.ULFTRXM</td><td>14.0</td><td>5.2 GB</td><td>2025-03-11</td><td><a href="/hyperos/diting/stable/OS1.0.10.0.ULFTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.12.0.ULFTWXM</td><td>14.0</td><td>6.1 GB</td><td>2025-02-26</td><td><a href="/hyperos/diting/stable/OS1.0.12.0.ULFTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.12.0.ULFTWXM</td><td>14.0</td><td>5.2 GB</td><td>2025-03-11</td><td><a href="/hyperos/diting/stable/OS1.0.12.0.ULFTWXM/">Download</a></td></tr>
 

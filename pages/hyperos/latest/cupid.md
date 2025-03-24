@@ -55,8 +55,8 @@ permalink: /hyperos/cupid/
                 <tr><td>Xiaomi 12 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VLCCNXM</td><td>15.0</td><td>7.5 GB</td><td>2025-01-21</td><td><a href="/hyperos/cupid/stable/OS2.0.2.0.VLCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VLCCNXM</td><td>15.0</td><td>6.0 GB</td><td>2025-01-27</td><td><a href="/hyperos/cupid/stable/OS2.0.2.0.VLCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.7 GB</td><td>2024-01-12</td><td><a href="/hyperos/cupid/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi 12 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.18.0.ULCEUXM</td><td>14.0</td><td>6.2 GB</td><td>2025-01-15</td><td><a href="/hyperos/cupid/stable/OS1.0.18.0.ULCEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.18.0.ULCEUXM</td><td>14.0</td><td>5.2 GB</td><td>2025-01-23</td><td><a href="/hyperos/cupid/stable/OS1.0.18.0.ULCEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VLCEUXM</td><td>15.0</td><td>6.5 GB</td><td>2025-02-21</td><td><a href="/hyperos/cupid/stable/OS2.0.2.0.VLCEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VLCEUXM</td><td>15.0</td><td>5.6 GB</td><td>2025-03-11</td><td><a href="/hyperos/cupid/stable/OS2.0.2.0.VLCEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.ULCMIXM</td><td>14.0</td><td>6.4 GB</td><td>2025-01-17</td><td><a href="/hyperos/cupid/stable/OS1.0.11.0.ULCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.ULCMIXM</td><td>14.0</td><td>5.2 GB</td><td>2025-02-07</td><td><a href="/hyperos/cupid/stable/OS1.0.11.0.ULCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.ULCIDXM</td><td>14.0</td><td>6.3 GB</td><td>2025-01-22</td><td><a href="/hyperos/cupid/stable/OS1.0.11.0.ULCIDXM/">Download</a></td></tr>
