@@ -54,6 +54,7 @@ permalink: /hyperos/xaga/
                 <tbody>
                 <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.ULOCNXM</td><td>14.0</td><td>7.2 GB</td><td>2025-01-17</td><td><a href="/hyperos/xaga/stable/OS1.0.11.0.ULOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.ULOCNXM</td><td>14.0</td><td>6.0 GB</td><td>2025-02-11</td><td><a href="/hyperos/xaga/stable/OS1.0.11.0.ULOCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.2.0.ULOCNXM</td><td>14.0</td><td>6.2 GB</td><td>2025-03-20</td><td><a href="/hyperos/xaga/stable beta/OS2.0.2.0.ULOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.ULOEUXM</td><td>14.0</td><td>6.8 GB</td><td>2025-02-17</td><td><a href="/hyperos/xaga/stable/OS1.0.11.0.ULOEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.ULOEUXM</td><td>14.0</td><td>5.3 GB</td><td>2025-02-26</td><td><a href="/hyperos/xaga/stable/OS1.0.11.0.ULOEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.ULOMIXM</td><td>14.0</td><td>7.1 GB</td><td>2025-02-12</td><td><a href="/hyperos/xaga/stable/OS1.0.10.0.ULOMIXM/">Download</a></td></tr>

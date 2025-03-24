@@ -52,7 +52,8 @@ permalink: /archive/hyperos/dada/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 15 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.107.0.VOCMIXM</td><td>15.0</td><td>7.6 GB</td><td>2025-03-17</td><td><a href="/hyperos/dada/stable/OS2.0.107.0.VOCMIXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 15 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.106.0.VOCEUXM</td><td>15.0</td><td>7.6 GB</td><td>2025-03-18</td><td><a href="/hyperos/dada/stable beta/OS2.0.106.0.VOCEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.107.0.VOCMIXM</td><td>15.0</td><td>7.6 GB</td><td>2025-03-17</td><td><a href="/hyperos/dada/stable/OS2.0.107.0.VOCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.107.0.VOCMIXM</td><td>15.0</td><td>10.2 GB</td><td>2025-03-17</td><td><a href="/hyperos/dada/stable/OS2.0.107.0.VOCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.108.0.VOCCNXM</td><td>15.0</td><td>10.8 GB</td><td>2025-03-10</td><td><a href="/hyperos/dada/stable/OS2.0.108.0.VOCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.108.0.VOCCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-03-04</td><td><a href="/hyperos/dada/stable/OS2.0.108.0.VOCCNXM/">Download</a></td></tr>
@@ -64,11 +65,11 @@ permalink: /archive/hyperos/dada/
 <tr><td>Xiaomi 15 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VOCEUXM</td><td>15.0</td><td>9.6 GB</td><td>2025-03-02</td><td><a href="/hyperos/dada/stable/OS2.0.102.0.VOCEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.105.0.VOCCNXM</td><td>15.0</td><td>10.8 GB</td><td>2025-02-20</td><td><a href="/hyperos/dada/stable/OS2.0.105.0.VOCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.105.0.VOCCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-02-07</td><td><a href="/hyperos/dada/stable/OS2.0.105.0.VOCCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15 China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.104.0.VOCCNXM</td><td>15.0</td><td>7.6 GB</td><td>2025-01-21</td><td><a href="/hyperos/dada/stable beta/OS2.0.104.0.VOCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VOCIDXM</td><td>15.0</td><td>7.6 GB</td><td>2025-03-02</td><td><a href="/hyperos/dada/stable/OS2.0.102.0.VOCIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VOCIDXM</td><td>15.0</td><td>9.5 GB</td><td>2025-03-02</td><td><a href="/hyperos/dada/stable/OS2.0.102.0.VOCIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VOCTWXM</td><td>15.0</td><td>7.4 GB</td><td>2025-03-02</td><td><a href="/hyperos/dada/stable/OS2.0.102.0.VOCTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VOCTWXM</td><td>15.0</td><td>8.7 GB</td><td>2025-03-02</td><td><a href="/hyperos/dada/stable/OS2.0.102.0.VOCTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.104.0.VOCCNXM</td><td>15.0</td><td>7.6 GB</td><td>2025-01-21</td><td><a href="/hyperos/dada/stable beta/OS2.0.104.0.VOCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.28.0.VOCCNXM</td><td>15.0</td><td>7.6 GB</td><td>2024-12-18</td><td><a href="/hyperos/dada/stable/OS2.0.28.0.VOCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.28.0.VOCCNXM</td><td>15.0</td><td>10.6 GB</td><td>2024-12-12</td><td><a href="/hyperos/dada/stable/OS2.0.28.0.VOCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.26.0.VOCCNXM</td><td>15.0</td><td>7.6 GB</td><td>2024-12-10</td><td><a href="/hyperos/dada/stable/OS2.0.26.0.VOCCNXM/">Download</a></td></tr>
