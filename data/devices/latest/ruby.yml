@@ -29,12 +29,12 @@
     android: '14.0'
     miui: OS1.0.15.0.UMOEUXM
 - branch: stable
-  date: '2025-03-04'
+  date: '2025-03-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-04.03.2025/fw_ruby_miui_RUBYINGlobal_OS1.0.11.0.UMOINXM_4137d556ba_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruby/fw_ruby_miui_RUBYINGlobal_OS1.0.11.0.UMOINXM_4137d556ba_14.0.zip
-  filename: fw_ruby_miui_RUBYINGlobal_OS1.0.11.0.UMOINXM_4137d556ba_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-25.03.2025/fw_ruby_miui_RUBYINGlobal_OS1.0.12.0.UMOINXM_1d3d692e7a_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruby/fw_ruby_miui_RUBYINGlobal_OS1.0.12.0.UMOINXM_1d3d692e7a_14.0.zip
+  filename: fw_ruby_miui_RUBYINGlobal_OS1.0.12.0.UMOINXM_1d3d692e7a_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.11.0.UMOINXM
+    miui: OS1.0.12.0.UMOINXM
