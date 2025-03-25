@@ -4666,6 +4666,12 @@
   download: https://bigota.d.miui.com/OS1.0.31.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.31.0.UNCCNXM_5bfc75981b_14.0.zip
   name: Xiaomi 14
   version: OS1.0.31.0.UNCCNXM
+- android: '15.0'
+  codename: houji
+  date: '2025-03-25'
+  download: https://bigota.d.miui.com/OS2.0.107.0.VNCCNXM/fw_houji_houji-ota_full-OS2.0.107.0.VNCCNXM-user-15.0-a8574b1da1.zip
+  name: Xiaomi 14
+  version: OS2.0.107.0.VNCCNXM
 - android: '14.0'
   codename: houji
   date: '2023-11-23'
@@ -10180,6 +10186,12 @@
   download: https://bigota.d.miui.com/OS2.0.7.0.VNXMIXM/fw_sheng_global_sheng_global-ota_full-OS2.0.7.0.VNXMIXM-user-15.0-1b4f7cf2cd.zip
   name: Xiaomi Pad 6S Pro 12.4
   version: OS2.0.7.0.VNXMIXM
+- android: '15.0'
+  codename: sheng
+  date: '2025-03-25'
+  download: https://bigota.d.miui.com/OS2.0.108.0.VNXCNXM/fw_sheng_sheng-ota_full-OS2.0.108.0.VNXCNXM-user-15.0-dea1cfa83d.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS2.0.108.0.VNXCNXM
 - android: '14.0'
   codename: sheng
   date: '2024-04-24'
