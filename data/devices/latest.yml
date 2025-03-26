@@ -569,15 +569,15 @@
     android: '11.0'
     miui: 22.3.2
 - branch: stable
-  date: '2025-03-11'
+  date: '2025-03-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-11.03.2025/fw_breeze_miui_BREEZE_OS1.0.10.0.UNUCNXM_8308518da1_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/breeze/fw_breeze_miui_BREEZE_OS1.0.10.0.UNUCNXM_8308518da1_14.0.zip
-  filename: fw_breeze_miui_BREEZE_OS1.0.10.0.UNUCNXM_8308518da1_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-26.03.2025/fw_breeze_breeze-ota_full-OS2.0.5.0.VNUCNXM-user-15.0-9cc4d5aeed.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/breeze/fw_breeze_breeze-ota_full-OS2.0.5.0.VNUCNXM-user-15.0-9cc4d5aeed.zip
+  filename: fw_breeze_breeze-ota_full-OS2.0.5.0.VNUCNXM-user-15.0-9cc4d5aeed.zip
   region: China
   versions:
-    android: '14.0'
-    miui: OS1.0.10.0.UNUCNXM
+    android: '15.0'
+    miui: OS2.0.5.0.VNUCNXM
 - branch: stable
   date: '2025-03-11'
   downloads:
@@ -1519,15 +1519,15 @@
     android: '15.0'
     miui: OS2.0.3.0.VNSEUXM
 - branch: stable
-  date: '2025-01-19'
+  date: '2025-03-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-19.01.2025/fw_dizi_miui_DIZIINGlobal_OS1.0.10.0.UNSINXM_9a24181acb_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/dizi/fw_dizi_miui_DIZIINGlobal_OS1.0.10.0.UNSINXM_9a24181acb_14.0.zip
-  filename: fw_dizi_miui_DIZIINGlobal_OS1.0.10.0.UNSINXM_9a24181acb_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-26.03.2025/fw_dizi_in_global_dizi_in_global-ota_full-OS2.0.3.0.VNSINXM-user-15.0-a39f3547b6.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dizi/fw_dizi_in_global_dizi_in_global-ota_full-OS2.0.3.0.VNSINXM-user-15.0-a39f3547b6.zip
+  filename: fw_dizi_in_global_dizi_in_global-ota_full-OS2.0.3.0.VNSINXM-user-15.0-a39f3547b6.zip
   region: India
   versions:
-    android: '14.0'
-    miui: OS1.0.10.0.UNSINXM
+    android: '15.0'
+    miui: OS2.0.3.0.VNSINXM
 - branch: stable
   date: '2025-03-21'
   downloads:
@@ -4239,15 +4239,15 @@
     android: '14.0'
     miui: OS2.0.2.0.UMZMIXM
 - branch: stable
-  date: '2025-02-17'
+  date: '2025-03-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-18.02.2025/fw_pipa_pipa-ota_full-OS2.0.4.0.UMZCNXM-user-14.0-2a7d3a6314.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/pipa/fw_pipa_pipa-ota_full-OS2.0.4.0.UMZCNXM-user-14.0-2a7d3a6314.zip
-  filename: fw_pipa_pipa-ota_full-OS2.0.4.0.UMZCNXM-user-14.0-2a7d3a6314.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-26.03.2025/fw_pipa_pipa-ota_full-OS2.0.6.0.UMZCNXM-user-14.0-564470a7dd.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/pipa/fw_pipa_pipa-ota_full-OS2.0.6.0.UMZCNXM-user-14.0-564470a7dd.zip
+  filename: fw_pipa_pipa-ota_full-OS2.0.6.0.UMZCNXM-user-14.0-564470a7dd.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS2.0.4.0.UMZCNXM
+    miui: OS2.0.6.0.UMZCNXM
 - branch: stable
   date: '2025-03-12'
   downloads:
@@ -5379,15 +5379,15 @@
     android: '15.0'
     miui: OS2.0.4.0.VMWINXM
 - branch: stable
-  date: '2025-02-07'
+  date: '2025-03-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_socrates/releases/download/stable-07.02.2025/fw_socrates_socrates-ota_full-OS2.0.102.0.VMKCNXM-user-15.0-6a57ce40f7.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/socrates/fw_socrates_socrates-ota_full-OS2.0.102.0.VMKCNXM-user-15.0-6a57ce40f7.zip
-  filename: fw_socrates_socrates-ota_full-OS2.0.102.0.VMKCNXM-user-15.0-6a57ce40f7.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_socrates/releases/download/stable-26.03.2025/fw_socrates_socrates-ota_full-OS2.0.103.0.VMKCNXM-user-15.0-159f4f86b2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/socrates/fw_socrates_socrates-ota_full-OS2.0.103.0.VMKCNXM-user-15.0-159f4f86b2.zip
+  filename: fw_socrates_socrates-ota_full-OS2.0.103.0.VMKCNXM-user-15.0-159f4f86b2.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.102.0.VMKCNXM
+    miui: OS2.0.103.0.VMKCNXM
 - branch: stable
   date: '2025-01-20'
   downloads:
