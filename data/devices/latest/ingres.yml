@@ -19,12 +19,12 @@
     android: '14.0'
     miui: OS2.0.2.0.ULJCNXM
 - branch: stable
-  date: '2025-02-14'
+  date: '2025-03-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-14.02.2025/fw_ingres_miui_INGRESEEAGlobal_OS1.0.10.0.ULJEUXM_bd88182f3c_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ingres/fw_ingres_miui_INGRESEEAGlobal_OS1.0.10.0.ULJEUXM_bd88182f3c_14.0.zip
-  filename: fw_ingres_miui_INGRESEEAGlobal_OS1.0.10.0.ULJEUXM_bd88182f3c_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-28.03.2025/fw_ingres_eea_global_ingres_eea_global-ota_full-OS2.0.1.0.ULJEUXM-user-14.0-10e4a386df.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ingres/fw_ingres_eea_global_ingres_eea_global-ota_full-OS2.0.1.0.ULJEUXM-user-14.0-10e4a386df.zip
+  filename: fw_ingres_eea_global_ingres_eea_global-ota_full-OS2.0.1.0.ULJEUXM-user-14.0-10e4a386df.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.10.0.ULJEUXM
+    miui: OS2.0.1.0.ULJEUXM
