@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-02-05'
+  date: '2025-03-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-05.02.2025/fw_ruan_global_ruan_global-ota_full-OS2.0.1.0.VFSMIXM-user-15.0-44acadea50.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruan/fw_ruan_global_ruan_global-ota_full-OS2.0.1.0.VFSMIXM-user-15.0-44acadea50.zip
-  filename: fw_ruan_global_ruan_global-ota_full-OS2.0.1.0.VFSMIXM-user-15.0-44acadea50.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-28.03.2025/fw_ruan_miui_RUANGlobal_OS1.0.12.0.UFSMIXM_f83fc4b607_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ruan/fw_ruan_miui_RUANGlobal_OS1.0.12.0.UFSMIXM_f83fc4b607_14.0.zip
+  filename: fw_ruan_miui_RUANGlobal_OS1.0.12.0.UFSMIXM_f83fc4b607_14.0.zip
   region: Global
   versions:
-    android: '15.0'
-    miui: OS2.0.1.0.VFSMIXM
+    android: '14.0'
+    miui: OS1.0.12.0.UFSMIXM
 - branch: stable
   date: '2025-03-27'
   downloads:
