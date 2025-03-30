@@ -29,6 +29,16 @@
     android: '14.0'
     miui: OS1.0.42.0.UNBCNXM
 - branch: stable
+  date: '2025-03-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-30.03.2025/fw_shennong_shennong-ota_full-OS2.0.109.0.VNBCNXM-user-15.0-a5759dd626.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/shennong/fw_shennong_shennong-ota_full-OS2.0.109.0.VNBCNXM-user-15.0-a5759dd626.zip
+  filename: fw_shennong_shennong-ota_full-OS2.0.109.0.VNBCNXM-user-15.0-a5759dd626.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.109.0.VNBCNXM
+- branch: stable
   date: '2023-10-29'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-29.10.2023/fw_shennong_miui_SHENNONG_OS1.0.9.0.UNBCNXM_856989d73f_14.0.zip
