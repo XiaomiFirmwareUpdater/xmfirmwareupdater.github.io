@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2025-03-03'
+  date: '2025-03-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zizhan/releases/download/stable-03.03.2025/fw_zizhan_zizhan-ota_full-OS2.0.3.0.VLRCNXM-user-15.0-b30c68986b.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zizhan/fw_zizhan_zizhan-ota_full-OS2.0.3.0.VLRCNXM-user-15.0-b30c68986b.zip
-  filename: fw_zizhan_zizhan-ota_full-OS2.0.3.0.VLRCNXM-user-15.0-b30c68986b.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zizhan/releases/download/stable-31.03.2025/fw_zizhan_zizhan-ota_full-OS2.0.8.0.VLRCNXM-user-15.0-757d3e50b2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zizhan/fw_zizhan_zizhan-ota_full-OS2.0.8.0.VLRCNXM-user-15.0-757d3e50b2.zip
+  filename: fw_zizhan_zizhan-ota_full-OS2.0.8.0.VLRCNXM-user-15.0-757d3e50b2.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.3.0.VLRCNXM
+    miui: OS2.0.8.0.VLRCNXM
