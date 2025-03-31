@@ -5159,15 +5159,15 @@
     android: '7.1'
     miui: 9.10.10
 - branch: stable
-  date: '2025-02-26'
+  date: '2025-03-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphire/releases/download/stable-26.02.2025/fw_sapphire_global_sapphire_global-ota_full-OS2.0.8.0.VNGMIXM-user-15.0-5b05f734e6.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sapphire/fw_sapphire_global_sapphire_global-ota_full-OS2.0.8.0.VNGMIXM-user-15.0-5b05f734e6.zip
-  filename: fw_sapphire_global_sapphire_global-ota_full-OS2.0.8.0.VNGMIXM-user-15.0-5b05f734e6.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphire/releases/download/stable-31.03.2025/fw_sapphire_global_sapphire_global-ota_full-OS2.0.10.0.VNGMIXM-user-15.0-78e8820ac6.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sapphire/fw_sapphire_global_sapphire_global-ota_full-OS2.0.10.0.VNGMIXM-user-15.0-78e8820ac6.zip
+  filename: fw_sapphire_global_sapphire_global-ota_full-OS2.0.10.0.VNGMIXM-user-15.0-78e8820ac6.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.8.0.VNGMIXM
+    miui: OS2.0.10.0.VNGMIXM
 - branch: stable
   date: '2025-03-07'
   downloads:
