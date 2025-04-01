@@ -29,12 +29,12 @@
     android: '14.0'
     miui: OS1.0.12.0.UOQEUXM
 - branch: stable
-  date: '2025-03-11'
+  date: '2025-04-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-11.03.2025/fw_beryl_miui_BERYLINGlobal_OS1.0.7.0.UOQINXM_07b59bbab0_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/beryl/fw_beryl_miui_BERYLINGlobal_OS1.0.7.0.UOQINXM_07b59bbab0_14.0.zip
-  filename: fw_beryl_miui_BERYLINGlobal_OS1.0.7.0.UOQINXM_07b59bbab0_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-01.04.2025/fw_beryl_in_global_beryl_in_global-ota_full-OS2.0.3.0.VOQINXM-user-15.0-b72aeda189.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/beryl/fw_beryl_in_global_beryl_in_global-ota_full-OS2.0.3.0.VOQINXM-user-15.0-b72aeda189.zip
+  filename: fw_beryl_in_global_beryl_in_global-ota_full-OS2.0.3.0.VOQINXM-user-15.0-b72aeda189.zip
   region: India
   versions:
-    android: '14.0'
-    miui: OS1.0.7.0.UOQINXM
+    android: '15.0'
+    miui: OS2.0.3.0.VOQINXM
