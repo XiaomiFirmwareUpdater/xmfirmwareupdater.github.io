@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-02-24'
+  date: '2025-04-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-24.02.2025/fw_xaga_miui_XAGAGlobal_OS1.0.10.0.ULOMIXM_ca795bbd95_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/xaga/fw_xaga_miui_XAGAGlobal_OS1.0.10.0.ULOMIXM_ca795bbd95_14.0.zip
-  filename: fw_xaga_miui_XAGAGlobal_OS1.0.10.0.ULOMIXM_ca795bbd95_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-01.04.2025/fw_xaga_miui_XAGAGlobal_OS1.0.11.0.ULOMIXM_f6409c1b5c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/xaga/fw_xaga_miui_XAGAGlobal_OS1.0.11.0.ULOMIXM_f6409c1b5c_14.0.zip
+  filename: fw_xaga_miui_XAGAGlobal_OS1.0.11.0.ULOMIXM_f6409c1b5c_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.10.0.ULOMIXM
+    miui: OS1.0.11.0.ULOMIXM
 - branch: stable
   date: '2025-03-24'
   downloads:
