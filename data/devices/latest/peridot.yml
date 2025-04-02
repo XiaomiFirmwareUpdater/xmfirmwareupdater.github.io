@@ -9,25 +9,25 @@
     android: '15.0'
     miui: OS2.0.100.0.VNPMIXM
 - branch: stable
-  date: '2025-02-27'
+  date: '2025-04-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-27.02.2025/fw_peridot_peridot-ota_full-OS2.0.102.0.VNPCNXM-user-15.0-a506a661b1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/peridot/fw_peridot_peridot-ota_full-OS2.0.102.0.VNPCNXM-user-15.0-a506a661b1.zip
-  filename: fw_peridot_peridot-ota_full-OS2.0.102.0.VNPCNXM-user-15.0-a506a661b1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-02.04.2025/fw_peridot_peridot-ota_full-OS2.0.104.0.VNPCNXM-user-15.0-591f1715d0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/peridot/fw_peridot_peridot-ota_full-OS2.0.104.0.VNPCNXM-user-15.0-591f1715d0.zip
+  filename: fw_peridot_peridot-ota_full-OS2.0.104.0.VNPCNXM-user-15.0-591f1715d0.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.102.0.VNPCNXM
+    miui: OS2.0.104.0.VNPCNXM
 - branch: stable
-  date: '2025-03-04'
+  date: '2025-04-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-04.03.2025/fw_peridot_eea_global_peridot_eea_global-ota_full-OS2.0.102.0.VNPEUXM-user-15.0-b4bd1919c2.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/peridot/fw_peridot_eea_global_peridot_eea_global-ota_full-OS2.0.102.0.VNPEUXM-user-15.0-b4bd1919c2.zip
-  filename: fw_peridot_eea_global_peridot_eea_global-ota_full-OS2.0.102.0.VNPEUXM-user-15.0-b4bd1919c2.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-02.04.2025/fw_peridot_eea_global_peridot_eea_global-ota_full-OS2.0.105.0.VNPEUXM-user-15.0-d566887742.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/peridot/fw_peridot_eea_global_peridot_eea_global-ota_full-OS2.0.105.0.VNPEUXM-user-15.0-d566887742.zip
+  filename: fw_peridot_eea_global_peridot_eea_global-ota_full-OS2.0.105.0.VNPEUXM-user-15.0-d566887742.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.102.0.VNPEUXM
+    miui: OS2.0.105.0.VNPEUXM
 - branch: stable
   date: '2025-03-13'
   downloads:
