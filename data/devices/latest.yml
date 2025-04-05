@@ -5289,6 +5289,16 @@
     android: '13.0'
     miui: V14.0.2.0.TKUCNXM
 - branch: stable
+  date: '2025-04-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_serenity/releases/download/stable-05.04.2025/fw_serenity_miui_SERENITYGlobal_A15.0.1.0.VGWMIXM_e55967b692_15.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/A15/serenity/fw_serenity_miui_SERENITYGlobal_A15.0.1.0.VGWMIXM_e55967b692_15.0.zip
+  filename: fw_serenity_miui_SERENITYGlobal_A15.0.1.0.VGWMIXM_e55967b692_15.0.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: A15.0.1.0.VGWMIXM
+- branch: stable
   date: '2025-03-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sheng/releases/download/stable-20.03.2025/fw_sheng_global_sheng_global-ota_full-OS2.0.101.0.VNXMIXM-user-15.0-9f5dcb3d31.zip
