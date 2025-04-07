@@ -9,12 +9,12 @@
     android: '14.0'
     miui: OS1.0.13.0.UKWMIXM
 - branch: stable
-  date: '2025-02-27'
+  date: '2025-04-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-27.02.2025/fw_agate_miui_AGATEEEAGlobal_OS1.0.11.0.UKWEUXM_ad3750b77c_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/agate/fw_agate_miui_AGATEEEAGlobal_OS1.0.11.0.UKWEUXM_ad3750b77c_14.0.zip
-  filename: fw_agate_miui_AGATEEEAGlobal_OS1.0.11.0.UKWEUXM_ad3750b77c_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-07.04.2025/fw_agate_miui_AGATEEEAGlobal_OS1.0.12.0.UKWEUXM_eccdc76f94_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/agate/fw_agate_miui_AGATEEEAGlobal_OS1.0.12.0.UKWEUXM_eccdc76f94_14.0.zip
+  filename: fw_agate_miui_AGATEEEAGlobal_OS1.0.12.0.UKWEUXM_eccdc76f94_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.11.0.UKWEUXM
+    miui: OS1.0.12.0.UKWEUXM
