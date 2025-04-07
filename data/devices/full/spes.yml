@@ -259,6 +259,16 @@
     android: '13.0'
     miui: V14.0.1.0.TGCINXM
 - branch: stable
+  date: '2025-04-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spes/releases/download/stable-07.04.2025/fw_spes_miui_SPESINGlobal_OS1.0.6.0.TGCINXM_7df4fefe56_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/spes/fw_spes_miui_SPESINGlobal_OS1.0.6.0.TGCINXM_7df4fefe56_13.0.zip
+  filename: fw_spes_miui_SPESINGlobal_OS1.0.6.0.TGCINXM_7df4fefe56_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: OS1.0.6.0.TGCINXM
+- branch: stable
   date: '2023-06-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spes/releases/download/stable-06.06.2023/fw_spes_miui_SPESGlobal_V14.0.2.0.TGCMIXM_f4e2e7b209_13.0.zip

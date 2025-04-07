@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2025-03-07'
+  date: '2025-04-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-07.03.2025/fw_yudi_yudi-ota_full-OS2.0.6.0.VMHCNXM-user-15.0-ee905a8d50.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/yudi/fw_yudi_yudi-ota_full-OS2.0.6.0.VMHCNXM-user-15.0-ee905a8d50.zip
-  filename: fw_yudi_yudi-ota_full-OS2.0.6.0.VMHCNXM-user-15.0-ee905a8d50.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-07.04.2025/fw_yudi_yudi-ota_full-OS2.0.7.0.VMHCNXM-user-15.0-e5ddb7b375.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/yudi/fw_yudi_yudi-ota_full-OS2.0.7.0.VMHCNXM-user-15.0-e5ddb7b375.zip
+  filename: fw_yudi_yudi-ota_full-OS2.0.7.0.VMHCNXM-user-15.0-e5ddb7b375.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.6.0.VMHCNXM
+    miui: OS2.0.7.0.VMHCNXM

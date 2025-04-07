@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-02-05'
+  date: '2025-04-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-05.02.2025/fw_xun_global_xun_global-ota_full-OS2.0.1.0.VMUMIXM-user-15.0-2de2c70e8d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xun/fw_xun_global_xun_global-ota_full-OS2.0.1.0.VMUMIXM-user-15.0-2de2c70e8d.zip
-  filename: fw_xun_global_xun_global-ota_full-OS2.0.1.0.VMUMIXM-user-15.0-2de2c70e8d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-07.04.2025/fw_xun_global_xun_global-ota_full-OS2.0.2.0.VMUMIXM-user-15.0-d04012abfb.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xun/fw_xun_global_xun_global-ota_full-OS2.0.2.0.VMUMIXM-user-15.0-d04012abfb.zip
+  filename: fw_xun_global_xun_global-ota_full-OS2.0.2.0.VMUMIXM-user-15.0-d04012abfb.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.1.0.VMUMIXM
+    miui: OS2.0.2.0.VMUMIXM
 - branch: stable
   date: '2025-03-10'
   downloads:
