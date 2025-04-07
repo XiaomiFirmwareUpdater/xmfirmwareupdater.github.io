@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-03-11'
+  date: '2025-04-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-11.03.2025/fw_ingres_miui_INGRESGlobal_OS1.0.11.0.ULJMIXM_8baf00dde1_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/ingres/fw_ingres_miui_INGRESGlobal_OS1.0.11.0.ULJMIXM_8baf00dde1_14.0.zip
-  filename: fw_ingres_miui_INGRESGlobal_OS1.0.11.0.ULJMIXM_8baf00dde1_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-07.04.2025/fw_ingres_global_ingres_global-ota_full-OS2.0.1.0.ULJMIXM-user-14.0-dc40fefa1e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ingres/fw_ingres_global_ingres_global-ota_full-OS2.0.1.0.ULJMIXM-user-14.0-dc40fefa1e.zip
+  filename: fw_ingres_global_ingres_global-ota_full-OS2.0.1.0.ULJMIXM-user-14.0-dc40fefa1e.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.11.0.ULJMIXM
+    miui: OS2.0.1.0.ULJMIXM
 - branch: stable
   date: '2025-03-27'
   downloads:
