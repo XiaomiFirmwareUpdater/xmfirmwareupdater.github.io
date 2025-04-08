@@ -9,12 +9,12 @@
     android: '15.0'
     miui: OS2.0.5.0.VNUCNXM
 - branch: stable
-  date: '2025-03-11'
+  date: '2025-04-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-11.03.2025/fw_breeze_miui_BREEZEINGlobal_OS1.0.11.0.UNUINXM_373595fd85_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/breeze/fw_breeze_miui_BREEZEINGlobal_OS1.0.11.0.UNUINXM_373595fd85_14.0.zip
-  filename: fw_breeze_miui_BREEZEINGlobal_OS1.0.11.0.UNUINXM_373595fd85_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-08.04.2025/fw_breeze_in_global_breeze_in_global-ota_full-OS2.0.5.0.VNUINXM-user-15.0-5351e77f95.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/breeze/fw_breeze_in_global_breeze_in_global-ota_full-OS2.0.5.0.VNUINXM-user-15.0-5351e77f95.zip
+  filename: fw_breeze_in_global_breeze_in_global-ota_full-OS2.0.5.0.VNUINXM-user-15.0-5351e77f95.zip
   region: India
   versions:
-    android: '14.0'
-    miui: OS1.0.11.0.UNUINXM
+    android: '15.0'
+    miui: OS2.0.5.0.VNUINXM
