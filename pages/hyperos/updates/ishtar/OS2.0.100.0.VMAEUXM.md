@@ -3,7 +3,7 @@ title: Xiaomi 13 Ultra EEA HyperOS OS2.0.100.0.VMAEUXM Update
 layout: download
 name: Xiaomi 13 Ultra EEA
 codename: ishtar
-permalink: /hyperos/ishtar/stable beta/OS2.0.100.0.VMAEUXM/
+permalink: /hyperos/ishtar/stable/OS2.0.100.0.VMAEUXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/ishtar/stable beta/OS2.0.100.0.VMAEUXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.100.0.VMAEUXM Stable Beta Official Update for Xiaomi 13 Ultra EEA (ishtar)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.100.0.VMAEUXM Stable Official Update for Xiaomi 13 Ultra EEA (ishtar)</h3>
     <h5>This page shows the OS2.0.100.0.VMAEUXM update only. If you're looking for other updates check
         <a href="/hyperos/ishtar/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/ishtar/stable beta/OS2.0.100.0.VMAEUXM/
                     <h5><b>Version: </b>OS2.0.100.0.VMAEUXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>8.1 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-03-26</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">ishtar_eea_global_images_OS2.0.100.0.VMAEUXM_20250218.0000.00_15.0_eea_3d092db773.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">3d092db773c8c4da3d9d228d07694baf</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.100.0.VMAEUXM/ishtar_eea_global_images_OS2.0.100.0.VMAEUXM_20250218.0000.00_15.0_eea_3d092db773.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.100.0.VMAEUXM/ishtar_eea_global_images_OS2.0.100.0.VMAEUXM_20250218.0000.00_15.0_eea_3d092db773.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.100.0.VMAEUXM/ishtar_eea_global_images_OS2.0.100.0.VMAEUXM_20250218.0000.00_15.0_eea_3d092db773.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.100.0.VMAEUXM/ishtar_eea_global_images_OS2.0.100.0.VMAEUXM_20250218.0000.00_15.0_eea_3d092db773.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.100.0.VMAEUXM/ishtar_eea_global_images_OS2.0.100.0.VMAEUXM_20250218.0000.00_15.0_eea_3d092db773.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#ishtar_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="ishtar_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="ishtar_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to February 2025. Increased system security.<br>[Home screen]<br>New: After turning off the Home screen search bar, a 4×6 layout option becomes available<br>[Control center]<br>New: Flashlight brightness adjustment page<br>New: Certain devices now support adjustable flashlight brightness<br>New: Notification spotlight for flashlight<br>[Privacy protection]<br>Optimization: Permissions icons in the status bar flickered<br>[Recents]<br>Fix: Recents couldn't be cleared in some cases</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi 13 Ultra EEA</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/ishtar/" target="_blank">ishtar</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.100.0.VMAEUXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -74,10 +117,10 @@ permalink: /hyperos/ishtar/stable beta/OS2.0.100.0.VMAEUXM/
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS2.0.100.0.VMAEUXM/ishtar_eea_global-ota_incremental-OS2.0.1.0.VMAEUXM-OS2.0.100.0.VMAEUXM-user-15.0-f4dcebdf2d.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.100.0.VMAEUXM/ishtar_eea_global-ota_full-OS2.0.100.0.VMAEUXM-user-15.0-ccd0f93c44.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.100.0.VMAEUXM/ishtar_eea_global-ota_full-OS2.0.100.0.VMAEUXM-user-15.0-ccd0f93c44.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.100.0.VMAEUXM/ishtar_eea_global-ota_full-OS2.0.100.0.VMAEUXM-user-15.0-ccd0f93c44.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.100.0.VMAEUXM/ishtar_eea_global-ota_full-OS2.0.100.0.VMAEUXM-user-15.0-ccd0f93c44.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.100.0.VMAEUXM/ishtar_eea_global-ota_full-OS2.0.100.0.VMAEUXM-user-15.0-ccd0f93c44.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#ishtar_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="ishtar_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#ishtar_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="ishtar_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="ishtar_1_changelog">
+                    <div class="collapse" id="ishtar_2_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to February 2025. Increased system security.<br>[Home screen]<br>New: After turning off the Home screen search bar, a 4×6 layout option becomes available<br>[Control center]<br>New: Flashlight brightness adjustment page<br>New: Certain devices now support adjustable flashlight brightness<br>New: Notification spotlight for flashlight<br>[Privacy protection]<br>Optimization: Permissions icons in the status bar flickered<br>[Recents]<br>Fix: Recents couldn't be cleared in some cases</p>
                     </div>
                 </li>

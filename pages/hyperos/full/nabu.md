@@ -52,7 +52,10 @@ permalink: /archive/hyperos/nabu/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 5 India</td><td>Stable</td><td>Recovery</td><td>OS1.0.16.0.TKXINXM</td><td>13.0</td><td>3.5 GB</td><td>2025-02-10</td><td><a href="/hyperos/nabu/stable/OS1.0.16.0.TKXINXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 5 India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.18.0.TKXINXM</td><td>13.0</td><td>3.5 GB</td><td>2025-04-01</td><td><a href="/hyperos/nabu/stable beta/OS1.0.18.0.TKXINXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 India</td><td>Stable</td><td>Recovery</td><td>OS1.0.17.0.TKXINXM</td><td>13.0</td><td>3.5 GB</td><td>2025-03-06</td><td><a href="/hyperos/nabu/stable/OS1.0.17.0.TKXINXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.17.0.TKXINXM</td><td>13.0</td><td>4.3 GB</td><td>2025-02-25</td><td><a href="/hyperos/nabu/stable/OS1.0.17.0.TKXINXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 India</td><td>Stable</td><td>Recovery</td><td>OS1.0.16.0.TKXINXM</td><td>13.0</td><td>3.5 GB</td><td>2025-02-10</td><td><a href="/hyperos/nabu/stable/OS1.0.16.0.TKXINXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.16.0.TKXINXM</td><td>13.0</td><td>4.3 GB</td><td>2025-01-21</td><td><a href="/hyperos/nabu/stable/OS1.0.16.0.TKXINXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 India</td><td>Stable</td><td>Recovery</td><td>OS1.0.14.0.TKXINXM</td><td>13.0</td><td>3.7 GB</td><td>2025-01-10</td><td><a href="/hyperos/nabu/stable/OS1.0.14.0.TKXINXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.14.0.TKXINXM</td><td>13.0</td><td>4.3 GB</td><td>2025-01-02</td><td><a href="/hyperos/nabu/stable/OS1.0.14.0.TKXINXM/">Download</a></td></tr>
