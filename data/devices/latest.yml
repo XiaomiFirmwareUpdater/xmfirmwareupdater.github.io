@@ -5299,6 +5299,16 @@
     android: '15.0'
     miui: A15.0.1.0.VGWMIXM
 - branch: stable
+  date: '2025-04-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_serenity/releases/download/stable-09.04.2025/fw_serenity_miui_SERENITYINGlobal_A15.0.2.0.VGWINXM_755e02a318_15.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/A15/serenity/fw_serenity_miui_SERENITYINGlobal_A15.0.2.0.VGWINXM_755e02a318_15.0.zip
+  filename: fw_serenity_miui_SERENITYINGlobal_A15.0.2.0.VGWINXM_755e02a318_15.0.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: A15.0.2.0.VGWINXM
+- branch: stable
   date: '2025-03-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sheng/releases/download/stable-20.03.2025/fw_sheng_global_sheng_global-ota_full-OS2.0.101.0.VNXMIXM-user-15.0-9f5dcb3d31.zip

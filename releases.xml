@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 09 Apr 2025 18:02:59 </lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 19:17:01 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - OS1.0.13.0.UKKCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/haydn/</link>
+            <pubDate>Wed, 09 Apr 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A5/POCO C71 (serenity) - A15.0.2.0.VGWINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
             <pubDate>Wed, 09 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
