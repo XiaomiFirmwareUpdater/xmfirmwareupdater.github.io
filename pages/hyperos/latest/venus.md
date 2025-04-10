@@ -57,6 +57,7 @@ permalink: /hyperos/venus/
 <tr><td>Mi 11 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.12.0.UKBCNXM</td><td>14.0</td><td>5.7 GB</td><td>2025-01-21</td><td><a href="/hyperos/venus/stable beta/OS1.0.12.0.UKBCNXM/">Download</a></td></tr>
 <tr><td>Mi 11 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.12.0.UKBEUXM</td><td>14.0</td><td>6.5 GB</td><td>2024-12-24</td><td><a href="/hyperos/venus/stable/OS1.0.12.0.UKBEUXM/">Download</a></td></tr>
 <tr><td>Mi 11 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.12.0.UKBEUXM</td><td>14.0</td><td>5.0 GB</td><td>2024-12-31</td><td><a href="/hyperos/venus/stable/OS1.0.12.0.UKBEUXM/">Download</a></td></tr>
+<tr><td>Mi 11 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.UKBEUXM</td><td>14.0</td><td>5.3 GB</td><td>2025-04-07</td><td><a href="/hyperos/venus/stable beta/OS2.0.1.0.UKBEUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.UKBMIXM</td><td>14.0</td><td>6.5 GB</td><td>2024-11-13</td><td><a href="/hyperos/venus/stable/OS1.0.10.0.UKBMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.UKBMIXM</td><td>14.0</td><td>5.2 GB</td><td>2024-11-27</td><td><a href="/hyperos/venus/stable/OS1.0.10.0.UKBMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.UKBMIXM</td><td>14.0</td><td>5.3 GB</td><td>2025-04-02</td><td><a href="/hyperos/venus/stable beta/OS2.0.1.0.UKBMIXM/">Download</a></td></tr>
@@ -68,6 +69,7 @@ permalink: /hyperos/venus/
 <tr><td>Mi 11 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UKBTRXM</td><td>14.0</td><td>5.0 GB</td><td>2024-12-31</td><td><a href="/hyperos/venus/stable/OS1.0.9.0.UKBTRXM/">Download</a></td></tr>
 <tr><td>Mi 11 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.UKBTWXM</td><td>14.0</td><td>5.9 GB</td><td>2024-12-24</td><td><a href="/hyperos/venus/stable/OS1.0.9.0.UKBTWXM/">Download</a></td></tr>
 <tr><td>Mi 11 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UKBTWXM</td><td>14.0</td><td>4.9 GB</td><td>2024-12-31</td><td><a href="/hyperos/venus/stable/OS1.0.9.0.UKBTWXM/">Download</a></td></tr>
+<tr><td>Mi 11 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.UKBTWXM</td><td>14.0</td><td>5.0 GB</td><td>2025-04-07</td><td><a href="/hyperos/venus/stable beta/OS2.0.1.0.UKBTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
