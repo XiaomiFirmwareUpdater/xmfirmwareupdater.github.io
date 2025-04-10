@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 10 Apr 2025 14:04:39 </lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 19:34:57 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.106.0.VMLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/corot/</link>
+            <pubDate>Thu, 10 Apr 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - OS1.0.18.0.UKKMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/haydn/</link>
@@ -1235,11 +1240,6 @@
             <title>Xiaomi Civi 1S (zijin) - OS1.0.12.0.ULPCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zijin/</link>
             <pubDate>Mon, 24 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.103.0.VMLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Fri, 21 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K70/POCO F6 Pro (vermeer) - OS2.0.102.0.VNKCNXM</title>
