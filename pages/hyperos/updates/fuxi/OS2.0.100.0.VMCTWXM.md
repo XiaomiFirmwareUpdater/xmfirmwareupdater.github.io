@@ -3,7 +3,7 @@ title: Xiaomi 13 Taiwan HyperOS OS2.0.100.0.VMCTWXM Update
 layout: download
 name: Xiaomi 13 Taiwan
 codename: fuxi
-permalink: /hyperos/fuxi/stable beta/OS2.0.100.0.VMCTWXM/
+permalink: /hyperos/fuxi/stable/OS2.0.100.0.VMCTWXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/fuxi/stable beta/OS2.0.100.0.VMCTWXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.100.0.VMCTWXM Stable Beta Official Update for Xiaomi 13 Taiwan (fuxi)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.100.0.VMCTWXM Stable Official Update for Xiaomi 13 Taiwan (fuxi)</h3>
     <h5>This page shows the OS2.0.100.0.VMCTWXM update only. If you're looking for other updates check
         <a href="/hyperos/fuxi/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/fuxi/stable beta/OS2.0.100.0.VMCTWXM/
                     <h5><b>Version: </b>OS2.0.100.0.VMCTWXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>6.9 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-04-11</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">fuxi_tw_global_images_OS2.0.100.0.VMCTWXM_20250221.0000.00_15.0_tw_9dffe72747.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">9dffe72747fd4e9988ca37da8b77fa4e</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.100.0.VMCTWXM/fuxi_tw_global_images_OS2.0.100.0.VMCTWXM_20250221.0000.00_15.0_tw_9dffe72747.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.100.0.VMCTWXM/fuxi_tw_global_images_OS2.0.100.0.VMCTWXM_20250221.0000.00_15.0_tw_9dffe72747.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.100.0.VMCTWXM/fuxi_tw_global_images_OS2.0.100.0.VMCTWXM_20250221.0000.00_15.0_tw_9dffe72747.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.100.0.VMCTWXM/fuxi_tw_global_images_OS2.0.100.0.VMCTWXM_20250221.0000.00_15.0_tw_9dffe72747.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.100.0.VMCTWXM/fuxi_tw_global_images_OS2.0.100.0.VMCTWXM_20250221.0000.00_15.0_tw_9dffe72747.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#fuxi_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="fuxi_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="fuxi_1_changelog">
+                        <p id="changelog_text">[System animations]<br>New: During the process of opening or closing apps, the full screen indicator follows the window's movement<br>New: When quickly opening and closing apps, multiple app animations are displayed simultaneously<br>[Home screen]<br>New: After turning off the Home screen search bar, a 4×6 layout option becomes available<br>[Control center]<br>New: Flashlight brightness adjustment page<br>New: Certain devices now support adjustable flashlight brightness<br>New: Notification spotlight for flashlight<br>[Recents]<br>Fix: Recents couldn't be cleared in some cases<br>[Game speed booster]<br>New: Game Turbo performance dashboard<br>Optimization: Game Turbo interface improvements</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi 13 Taiwan</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/fuxi/" target="_blank">fuxi</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.100.0.VMCTWXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -74,10 +117,10 @@ permalink: /hyperos/fuxi/stable beta/OS2.0.100.0.VMCTWXM/
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS2.0.100.0.VMCTWXM/fuxi_tw_global-ota_incremental-OS2.0.2.0.VMCTWXM-OS2.0.100.0.VMCTWXM-user-15.0-452b848af1.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.100.0.VMCTWXM/fuxi_tw_global-ota_full-OS2.0.100.0.VMCTWXM-user-15.0-d5bfe25c53.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.100.0.VMCTWXM/fuxi_tw_global-ota_full-OS2.0.100.0.VMCTWXM-user-15.0-d5bfe25c53.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.100.0.VMCTWXM/fuxi_tw_global-ota_full-OS2.0.100.0.VMCTWXM-user-15.0-d5bfe25c53.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.100.0.VMCTWXM/fuxi_tw_global-ota_full-OS2.0.100.0.VMCTWXM-user-15.0-d5bfe25c53.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.100.0.VMCTWXM/fuxi_tw_global-ota_full-OS2.0.100.0.VMCTWXM-user-15.0-d5bfe25c53.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#fuxi_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="fuxi_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#fuxi_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="fuxi_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="fuxi_1_changelog">
+                    <div class="collapse" id="fuxi_2_changelog">
                         <p id="changelog_text">[System animations]<br>New: During the process of opening or closing apps, the full screen indicator follows the window's movement<br>New: When quickly opening and closing apps, multiple app animations are displayed simultaneously<br>[Home screen]<br>New: After turning off the Home screen search bar, a 4×6 layout option becomes available<br>[Control center]<br>New: Flashlight brightness adjustment page<br>New: Certain devices now support adjustable flashlight brightness<br>New: Notification spotlight for flashlight<br>[Recents]<br>Fix: Recents couldn't be cleared in some cases<br>[Game speed booster]<br>New: Game Turbo performance dashboard<br>Optimization: Game Turbo interface improvements</p>
                     </div>
                 </li>

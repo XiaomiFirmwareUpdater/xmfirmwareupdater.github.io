@@ -3,7 +3,7 @@ title: Xiaomi 12 Turkey HyperOS OS2.0.1.0.VLCTRXM Update
 layout: download
 name: Xiaomi 12 Turkey
 codename: cupid
-permalink: /hyperos/cupid/stable beta/OS2.0.1.0.VLCTRXM/
+permalink: /hyperos/cupid/stable/OS2.0.1.0.VLCTRXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/cupid/stable beta/OS2.0.1.0.VLCTRXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.1.0.VLCTRXM Stable Beta Official Update for Xiaomi 12 Turkey (cupid)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.1.0.VLCTRXM Stable Official Update for Xiaomi 12 Turkey (cupid)</h3>
     <h5>This page shows the OS2.0.1.0.VLCTRXM update only. If you're looking for other updates check
         <a href="/hyperos/cupid/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/cupid/stable beta/OS2.0.1.0.VLCTRXM/
                     <h5><b>Version: </b>OS2.0.1.0.VLCTRXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/cupid/stable beta/OS2.0.1.0.VLCTRXM/
                             aria-expanded="false" aria-controls="cupid_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="cupid_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to March 2025. Increased system security.<br>[Alive Design Philosophy]<br>Alive Design Philosophy unveils fresh, vibrant design across the whole system, making every interaction feel smooth and alive.<br>All-new Artistic Lock screen:<br>Artistic Lock screen brings new templates and effects inspired by classic designs, giving your device a cinematic look every time you unlock it.<br>All-new Weather<br>Real-time Weather Engine 2.0 shows you the sky and clouds just like in real life – even lets you see rainbows and the Milky Way.<br>All-new Calendar:<br>The new Desktop calendar adds a touch of ritual to your day.<br>All-new Clock:<br>Updated Clock uses a more refined display structure for a more elegant, easy-to-read look.<br>Updated animations:<br>A full-scale animation upgrade makes every interaction flow smoothly and feel stable, responsive, and comfortable.<br>[Xiaomi HyperCore]<br>Xiaomi HyperCore, Xiaomi's proprietary core technology platform, enhances performance, graphics, network, and security.<br>New dynamic memory:<br>New technology allows precise resource allocation, so apps start up faster.<br>Upgraded rendering:<br>Upgraded rendering for multitasking extends battery life.<br>Heterogeneous computing:<br>Enhanced rendering pipeline boosts hardware performance for faster, more efficient visuals.<br>[Xiaomi HyperConnect]<br>Upgraded cross-device connectivity framework.<br>Upgraded Home screen+:<br>You can drag phone apps onto Xiaomi tablets or add them as native apps.<br>Updated cross-device camera:<br>The upgraded cross-device camera allows you to use two cameras simultaneously for multi-angle live streaming.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi 12 Turkey</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/cupid/" target="_blank">cupid</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.1.0.VLCTRXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>6.4 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-03-19</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">cupid_tr_global_images_OS2.0.1.0.VLCTRXM_20250319.0000.00_15.0_tr_834529c368.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">834529c368e3c27604b077aea79d2fd2</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.1.0.VLCTRXM/cupid_tr_global_images_OS2.0.1.0.VLCTRXM_20250319.0000.00_15.0_tr_834529c368.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.1.0.VLCTRXM/cupid_tr_global_images_OS2.0.1.0.VLCTRXM_20250319.0000.00_15.0_tr_834529c368.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.1.0.VLCTRXM/cupid_tr_global_images_OS2.0.1.0.VLCTRXM_20250319.0000.00_15.0_tr_834529c368.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.1.0.VLCTRXM/cupid_tr_global_images_OS2.0.1.0.VLCTRXM_20250319.0000.00_15.0_tr_834529c368.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.1.0.VLCTRXM/cupid_tr_global_images_OS2.0.1.0.VLCTRXM_20250319.0000.00_15.0_tr_834529c368.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#cupid_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="cupid_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="cupid_2_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to March 2025. Increased system security.<br>[Alive Design Philosophy]<br>Alive Design Philosophy unveils fresh, vibrant design across the whole system, making every interaction feel smooth and alive.<br>All-new Artistic Lock screen:<br>Artistic Lock screen brings new templates and effects inspired by classic designs, giving your device a cinematic look every time you unlock it.<br>All-new Weather<br>Real-time Weather Engine 2.0 shows you the sky and clouds just like in real life – even lets you see rainbows and the Milky Way.<br>All-new Calendar:<br>The new Desktop calendar adds a touch of ritual to your day.<br>All-new Clock:<br>Updated Clock uses a more refined display structure for a more elegant, easy-to-read look.<br>Updated animations:<br>A full-scale animation upgrade makes every interaction flow smoothly and feel stable, responsive, and comfortable.<br>[Xiaomi HyperCore]<br>Xiaomi HyperCore, Xiaomi's proprietary core technology platform, enhances performance, graphics, network, and security.<br>New dynamic memory:<br>New technology allows precise resource allocation, so apps start up faster.<br>Upgraded rendering:<br>Upgraded rendering for multitasking extends battery life.<br>Heterogeneous computing:<br>Enhanced rendering pipeline boosts hardware performance for faster, more efficient visuals.<br>[Xiaomi HyperConnect]<br>Upgraded cross-device connectivity framework.<br>Upgraded Home screen+:<br>You can drag phone apps onto Xiaomi tablets or add them as native apps.<br>Updated cross-device camera:<br>The upgraded cross-device camera allows you to use two cameras simultaneously for multi-angle live streaming.</p>
                     </div>
                 </li>
