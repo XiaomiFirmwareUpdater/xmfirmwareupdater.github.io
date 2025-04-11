@@ -930,6 +930,12 @@
   version: OS1.0.9.0.UMVCNXM
 - android: '15.0'
   codename: babylon
+  date: '2025-04-11'
+  download: https://bigota.d.miui.com/OS2.0.109.0.VMVCNXM/fw_babylon_babylon-ota_full-OS2.0.109.0.VMVCNXM-user-15.0-12badb9e70.zip
+  name: MIX Fold 3
+  version: OS2.0.109.0.VMVCNXM
+- android: '15.0'
+  codename: babylon
   date: '2025-02-07'
   download: https://bigota.d.miui.com/OS2.0.101.0.VMVCNXM/fw_babylon_babylon-ota_full-OS2.0.101.0.VMVCNXM-user-15.0-494e2e378c.zip
   name: MIX Fold 3
@@ -8530,6 +8536,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.12.0.UMZCNXM_c8d7ab829f_14.0.zip
   name: Xiaomi Pad 6
   version: OS1.0.12.0.UMZCNXM
+- android: '14.0'
+  codename: pipa
+  date: '2025-04-11'
+  download: https://bigota.d.miui.com/OS2.0.2.0.UMZEUXM/fw_pipa_eea_global_pipa_eea_global-ota_full-OS2.0.2.0.UMZEUXM-user-14.0-faf2cf15b3.zip
+  name: Xiaomi Pad 6
+  version: OS2.0.2.0.UMZEUXM
 - android: '14.0'
   codename: pipa
   date: '2025-01-10'

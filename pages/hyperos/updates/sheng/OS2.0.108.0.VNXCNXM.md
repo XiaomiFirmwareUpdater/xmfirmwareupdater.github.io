@@ -121,7 +121,7 @@ permalink: /hyperos/sheng/stable/OS2.0.108.0.VNXCNXM/
                             aria-expanded="false" aria-controls="sheng_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="sheng_2_changelog">
-                        <p id="changelog_text">[System]<br>Optimization: System stability<br>Fix: Errors occurred in some cases<br>Updated the security patch to February 2025. Increased system security.</p>
+                        <p id="changelog_text">[System]<br>Optimization: System stability<br>Fix: Errors occurred in some cases</p>
                     </div>
                 </li>
             </ul>

@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 11 Apr 2025 07:40:45 </lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 13:43:06 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>MIX Fold 3 (babylon) - OS2.0.109.0.VMVCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 12 (fire) - OS2.0.5.0.VMXMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fire/</link>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 6 (pipa) - OS2.0.2.0.UMZEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
             <pubDate>Fri, 11 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -952,11 +962,6 @@
             <pubDate>Thu, 13 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>MIX Fold 3 (babylon) - OS2.0.106.0.VMVCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
-            <pubDate>Thu, 13 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.4.0.VNFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
             <pubDate>Thu, 13 Mar 2025 00:00:00 </pubDate>
@@ -979,11 +984,6 @@
         <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.20.0.UMRINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Wed, 12 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 (pipa) - OS2.0.1.0.UMZEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
             <pubDate>Wed, 12 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
