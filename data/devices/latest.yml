@@ -119,15 +119,15 @@
     android: '15.0'
     miui: OS2.0.2.0.VOPMIXM
 - branch: stable
-  date: '2025-03-13'
+  date: '2025-04-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-14.03.2025/fw_amethyst_amethyst-ota_full-OS2.0.8.0.VOPCNXM-user-15.0-73c5967bea.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/amethyst/fw_amethyst_amethyst-ota_full-OS2.0.8.0.VOPCNXM-user-15.0-73c5967bea.zip
-  filename: fw_amethyst_amethyst-ota_full-OS2.0.8.0.VOPCNXM-user-15.0-73c5967bea.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-11.04.2025/fw_amethyst_miui_AMETHYST_OS1.0.26.0.UOPCNXM_b0e91a9dd1_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/amethyst/fw_amethyst_miui_AMETHYST_OS1.0.26.0.UOPCNXM_b0e91a9dd1_14.0.zip
+  filename: fw_amethyst_miui_AMETHYST_OS1.0.26.0.UOPCNXM_b0e91a9dd1_14.0.zip
   region: China
   versions:
-    android: '15.0'
-    miui: OS2.0.8.0.VOPCNXM
+    android: '14.0'
+    miui: OS1.0.26.0.UOPCNXM
 - branch: stable
   date: '2025-04-08'
   downloads:
@@ -4109,15 +4109,15 @@
     android: '15.0'
     miui: OS2.0.105.0.VNPEUXM
 - branch: stable
-  date: '2025-03-13'
+  date: '2025-04-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-13.03.2025/fw_peridot_in_global_peridot_in_global-ota_full-OS2.0.101.0.VNPINXM-user-15.0-f13d0eeef4.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/peridot/fw_peridot_in_global_peridot_in_global-ota_full-OS2.0.101.0.VNPINXM-user-15.0-f13d0eeef4.zip
-  filename: fw_peridot_in_global_peridot_in_global-ota_full-OS2.0.101.0.VNPINXM-user-15.0-f13d0eeef4.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-11.04.2025/fw_peridot_in_global_peridot_in_global-ota_full-OS2.0.102.0.VNPINXM-user-15.0-04934990fd.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/peridot/fw_peridot_in_global_peridot_in_global-ota_full-OS2.0.102.0.VNPINXM-user-15.0-04934990fd.zip
+  filename: fw_peridot_in_global_peridot_in_global-ota_full-OS2.0.102.0.VNPINXM-user-15.0-04934990fd.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.101.0.VNPINXM
+    miui: OS2.0.102.0.VNPINXM
 - branch: stable
   date: '2020-11-20'
   downloads:
@@ -4249,15 +4249,15 @@
     android: '10.0'
     miui: V12.5.1.0.QCMINXM
 - branch: stable
-  date: '2025-02-28'
+  date: '2025-04-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-28.02.2025/fw_pipa_global_pipa_global-ota_full-OS2.0.2.0.UMZMIXM-user-14.0-66c0cc1906.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/pipa/fw_pipa_global_pipa_global-ota_full-OS2.0.2.0.UMZMIXM-user-14.0-66c0cc1906.zip
-  filename: fw_pipa_global_pipa_global-ota_full-OS2.0.2.0.UMZMIXM-user-14.0-66c0cc1906.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-11.04.2025/fw_pipa_global_pipa_global-ota_full-OS2.0.3.0.UMZMIXM-user-14.0-b32e833a2a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/pipa/fw_pipa_global_pipa_global-ota_full-OS2.0.3.0.UMZMIXM-user-14.0-b32e833a2a.zip
+  filename: fw_pipa_global_pipa_global-ota_full-OS2.0.3.0.UMZMIXM-user-14.0-b32e833a2a.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS2.0.2.0.UMZMIXM
+    miui: OS2.0.3.0.UMZMIXM
 - branch: stable
   date: '2025-03-26'
   downloads:
@@ -4279,15 +4279,15 @@
     android: '14.0'
     miui: OS2.0.2.0.UMZEUXM
 - branch: stable
-  date: '2025-03-12'
+  date: '2025-04-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-12.03.2025/fw_pipa_in_global_pipa_in_global-ota_full-OS2.0.1.0.UMZINXM-user-14.0-42941f8a5b.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/pipa/fw_pipa_in_global_pipa_in_global-ota_full-OS2.0.1.0.UMZINXM-user-14.0-42941f8a5b.zip
-  filename: fw_pipa_in_global_pipa_in_global-ota_full-OS2.0.1.0.UMZINXM-user-14.0-42941f8a5b.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-11.04.2025/fw_pipa_in_global_pipa_in_global-ota_full-OS2.0.2.0.UMZINXM-user-14.0-0e3c907b51.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/pipa/fw_pipa_in_global_pipa_in_global-ota_full-OS2.0.2.0.UMZINXM-user-14.0-0e3c907b51.zip
+  filename: fw_pipa_in_global_pipa_in_global-ota_full-OS2.0.2.0.UMZINXM-user-14.0-0e3c907b51.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS2.0.1.0.UMZINXM
+    miui: OS2.0.2.0.UMZINXM
 - branch: stable
   date: '2024-10-09'
   downloads:
@@ -6659,15 +6659,15 @@
     android: '15.0'
     miui: OS2.0.7.0.VMHCNXM
 - branch: stable
-  date: '2025-03-24'
+  date: '2025-04-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yuechu/releases/download/stable-24.03.2025/fw_yuechu_yuechu-ota_full-OS2.0.3.0.VMICNXM-user-15.0-ab285c13bc.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/yuechu/fw_yuechu_yuechu-ota_full-OS2.0.3.0.VMICNXM-user-15.0-ab285c13bc.zip
-  filename: fw_yuechu_yuechu-ota_full-OS2.0.3.0.VMICNXM-user-15.0-ab285c13bc.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yuechu/releases/download/stable-11.04.2025/fw_yuechu_yuechu-ota_full-OS2.0.4.0.VMICNXM-user-15.0-f18d05b535.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/yuechu/fw_yuechu_yuechu-ota_full-OS2.0.4.0.VMICNXM-user-15.0-f18d05b535.zip
+  filename: fw_yuechu_yuechu-ota_full-OS2.0.4.0.VMICNXM-user-15.0-f18d05b535.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.3.0.VMICNXM
+    miui: OS2.0.4.0.VMICNXM
 - branch: stable
   date: '2024-12-23'
   downloads:

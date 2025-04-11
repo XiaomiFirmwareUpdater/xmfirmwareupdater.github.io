@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 11 Apr 2025 13:43:06 </lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 20:11:50 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS1.0.26.0.UOPCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>MIX Fold 3 (babylon) - OS2.0.109.0.VMVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
@@ -17,8 +22,28 @@
             <pubDate>Fri, 11 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.102.0.VNPINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 6 (pipa) - OS2.0.3.0.UMZMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Xiaomi Pad 6 (pipa) - OS2.0.2.0.UMZEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 6 (pipa) - OS2.0.2.0.UMZINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 3 (yuechu) - OS2.0.4.0.VMICNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/yuechu/</link>
             <pubDate>Fri, 11 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -762,11 +787,6 @@
             <pubDate>Mon, 24 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Civi 3 (yuechu) - OS2.0.3.0.VMICNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/yuechu/</link>
-            <pubDate>Mon, 24 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.102.0.VMLMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/corot/</link>
             <pubDate>Sun, 23 Mar 2025 00:00:00 </pubDate>
@@ -957,18 +977,8 @@
             <pubDate>Fri, 14 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS2.0.8.0.VOPCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
-            <pubDate>Thu, 13 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.4.0.VNFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
-            <pubDate>Thu, 13 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.101.0.VNPINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
             <pubDate>Thu, 13 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -984,11 +994,6 @@
         <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.20.0.UMRINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Wed, 12 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 (pipa) - OS2.0.1.0.UMZINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
             <pubDate>Wed, 12 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1174,11 +1179,6 @@
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS2.0.102.0.VNAINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Fri, 28 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 (pipa) - OS2.0.2.0.UMZMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
             <pubDate>Fri, 28 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>

@@ -408,6 +408,12 @@
   version: OS1.0.8.0.UOPINXM
 - android: '14.0'
   codename: amethyst
+  date: '2025-04-11'
+  download: https://bigota.d.miui.com/OS1.0.26.0.UOPCNXM/fw_amethyst_miui_AMETHYST_OS1.0.26.0.UOPCNXM_b0e91a9dd1_14.0.zip
+  name: Redmi Note 14 Pro+ 5G
+  version: OS1.0.26.0.UOPCNXM
+- android: '14.0'
+  codename: amethyst
   date: '2025-02-10'
   download: https://bigota.d.miui.com/OS1.0.6.0.UOPMIXM/fw_amethyst_miui_AMETHYSTGlobal_OS1.0.6.0.UOPMIXM_b72e6ecc42_14.0.zip
   name: Redmi Note 14 Pro+ 5G
@@ -8256,6 +8262,12 @@
   version: OS2.0.2.0.VNPINXM
 - android: '15.0'
   codename: peridot
+  date: '2025-04-11'
+  download: https://bigota.d.miui.com/OS2.0.102.0.VNPINXM/fw_peridot_in_global_peridot_in_global-ota_full-OS2.0.102.0.VNPINXM-user-15.0-04934990fd.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS2.0.102.0.VNPINXM
+- android: '15.0'
+  codename: peridot
   date: '2025-03-10'
   download: https://bigota.d.miui.com/OS2.0.100.0.VNPMIXM/fw_peridot_global_peridot_global-ota_full-OS2.0.100.0.VNPMIXM-user-15.0-1ac00aa063.zip
   name: Redmi Turbo 3/POCO F6
@@ -8542,6 +8554,18 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.UMZEUXM/fw_pipa_eea_global_pipa_eea_global-ota_full-OS2.0.2.0.UMZEUXM-user-14.0-faf2cf15b3.zip
   name: Xiaomi Pad 6
   version: OS2.0.2.0.UMZEUXM
+- android: '14.0'
+  codename: pipa
+  date: '2025-04-11'
+  download: https://bigota.d.miui.com/OS2.0.3.0.UMZMIXM/fw_pipa_global_pipa_global-ota_full-OS2.0.3.0.UMZMIXM-user-14.0-b32e833a2a.zip
+  name: Xiaomi Pad 6
+  version: OS2.0.3.0.UMZMIXM
+- android: '14.0'
+  codename: pipa
+  date: '2025-04-11'
+  download: https://bigota.d.miui.com/OS2.0.2.0.UMZINXM/fw_pipa_in_global_pipa_in_global-ota_full-OS2.0.2.0.UMZINXM-user-14.0-0e3c907b51.zip
+  name: Xiaomi Pad 6
+  version: OS2.0.2.0.UMZINXM
 - android: '14.0'
   codename: pipa
   date: '2025-01-10'
@@ -13798,6 +13822,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMICNXM/fw_yuechu_miui_YUECHU_OS1.0.4.0.UMICNXM_14e7bad1d9_14.0.zip
   name: Xiaomi Civi 3
   version: OS1.0.4.0.UMICNXM
+- android: '15.0'
+  codename: yuechu
+  date: '2025-04-11'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VMICNXM/fw_yuechu_yuechu-ota_full-OS2.0.4.0.VMICNXM-user-15.0-f18d05b535.zip
+  name: Xiaomi Civi 3
+  version: OS2.0.4.0.VMICNXM
 - android: '14.0'
   codename: yuechu
   date: '2024-12-09'
