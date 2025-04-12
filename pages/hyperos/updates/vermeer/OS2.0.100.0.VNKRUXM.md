@@ -1,16 +1,16 @@
 ---
-title: POCO F6 Pro EEA HyperOS OS2.0.102.0.VNKEUXM Update
+title: POCO F6 Pro Russia HyperOS OS2.0.100.0.VNKRUXM Update
 layout: download
-name: POCO F6 Pro EEA
+name: POCO F6 Pro Russia
 codename: vermeer
-permalink: /hyperos/vermeer/stable/OS2.0.102.0.VNKEUXM/
+permalink: /hyperos/vermeer/stable/OS2.0.100.0.VNKRUXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/vermeer/">POCO F6 Pro EEA</a></li>
-        <li class="breadcrumb-item active" aria-current="page">OS2.0.102.0.VNKEUXM</li>
+        <li class="breadcrumb-item"><a href="/hyperos/vermeer/">POCO F6 Pro Russia</a></li>
+        <li class="breadcrumb-item active" aria-current="page">OS2.0.100.0.VNKRUXM</li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -21,8 +21,8 @@ permalink: /hyperos/vermeer/stable/OS2.0.102.0.VNKEUXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.102.0.VNKEUXM Stable Official Update for POCO F6 Pro EEA (vermeer)</h3>
-    <h5>This page shows the OS2.0.102.0.VNKEUXM update only. If you're looking for other updates check
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.100.0.VNKRUXM Stable Official Update for POCO F6 Pro Russia (vermeer)</h3>
+    <h5>This page shows the OS2.0.100.0.VNKRUXM update only. If you're looking for other updates check
         <a href="/hyperos/vermeer/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
         It's not owned, modified or edited by XM Firmware Updater.</p>
@@ -44,13 +44,13 @@ permalink: /hyperos/vermeer/stable/OS2.0.102.0.VNKEUXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>POCO F6 Pro EEA</h5>
+                    <h5><b>Device: </b>POCO F6 Pro Russia</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/vermeer/" target="_blank">vermeer</a> </h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS2.0.102.0.VNKEUXM</h5>
+                    <h5><b>Version: </b>OS2.0.100.0.VNKRUXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Branch: </b>Stable</h5>
@@ -59,19 +59,19 @@ permalink: /hyperos/vermeer/stable/OS2.0.102.0.VNKEUXM/
                     <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>9.4 GB</h5>
+                    <h5><b>Size: </b>10.1 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-04-12</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">vermeer_eea_global_images_OS2.0.102.0.VNKEUXM_20250321.0000.00_15.0_eea_8d5afeba7d.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">vermeer_ru_global_images_OS2.0.100.0.VNKRUXM_20250321.0000.00_15.0_ru_83a00b7ea9.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">8d5afeba7dbd0e7cba2ddfd4cafffd4d</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">83a00b7ea90e137017f7eb11e316b724</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.102.0.VNKEUXM/vermeer_eea_global_images_OS2.0.102.0.VNKEUXM_20250321.0000.00_15.0_eea_8d5afeba7d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.102.0.VNKEUXM/vermeer_eea_global_images_OS2.0.102.0.VNKEUXM_20250321.0000.00_15.0_eea_8d5afeba7d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.102.0.VNKEUXM/vermeer_eea_global_images_OS2.0.102.0.VNKEUXM_20250321.0000.00_15.0_eea_8d5afeba7d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.102.0.VNKEUXM/vermeer_eea_global_images_OS2.0.102.0.VNKEUXM_20250321.0000.00_15.0_eea_8d5afeba7d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.102.0.VNKEUXM/vermeer_eea_global_images_OS2.0.102.0.VNKEUXM_20250321.0000.00_15.0_eea_8d5afeba7d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.100.0.VNKRUXM/vermeer_ru_global_images_OS2.0.100.0.VNKRUXM_20250321.0000.00_15.0_ru_83a00b7ea9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.100.0.VNKRUXM/vermeer_ru_global_images_OS2.0.100.0.VNKRUXM_20250321.0000.00_15.0_ru_83a00b7ea9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.100.0.VNKRUXM/vermeer_ru_global_images_OS2.0.100.0.VNKRUXM_20250321.0000.00_15.0_ru_83a00b7ea9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.100.0.VNKRUXM/vermeer_ru_global_images_OS2.0.100.0.VNKRUXM_20250321.0000.00_15.0_ru_83a00b7ea9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.100.0.VNKRUXM/vermeer_ru_global_images_OS2.0.100.0.VNKRUXM_20250321.0000.00_15.0_ru_83a00b7ea9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#vermeer_1_changelog" data-toggle="collapse" role="button"
@@ -87,13 +87,13 @@ permalink: /hyperos/vermeer/stable/OS2.0.102.0.VNKEUXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>POCO F6 Pro EEA</h5>
+                    <h5><b>Device: </b>POCO F6 Pro Russia</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/vermeer/" target="_blank">vermeer</a> </h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS2.0.102.0.VNKEUXM</h5>
+                    <h5><b>Version: </b>OS2.0.100.0.VNKRUXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Branch: </b>Stable</h5>
@@ -108,13 +108,13 @@ permalink: /hyperos/vermeer/stable/OS2.0.102.0.VNKEUXM/
                     <h5><b>Release Date: </b>2025-04-02</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">vermeer_eea_global-ota_full-OS2.0.102.0.VNKEUXM-user-15.0-c8f7508ec1.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">vermeer_ru_global-ota_full-OS2.0.100.0.VNKRUXM-user-15.0-b012892f6a.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c8f7508ec170fa092dabb36916f68a9d</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">b012892f6a00160ccd1c13e01a8191b0</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS2.0.102.0.VNKEUXM/vermeer_eea_global-ota_incremental-OS2.0.3.0.VNKEUXM-OS2.0.102.0.VNKEUXM-user-15.0-49ed41c3e6.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.102.0.VNKEUXM/vermeer_eea_global-ota_full-OS2.0.102.0.VNKEUXM-user-15.0-c8f7508ec1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.102.0.VNKEUXM/vermeer_eea_global-ota_full-OS2.0.102.0.VNKEUXM-user-15.0-c8f7508ec1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.102.0.VNKEUXM/vermeer_eea_global-ota_full-OS2.0.102.0.VNKEUXM-user-15.0-c8f7508ec1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.102.0.VNKEUXM/vermeer_eea_global-ota_full-OS2.0.102.0.VNKEUXM-user-15.0-c8f7508ec1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.102.0.VNKEUXM/vermeer_eea_global-ota_full-OS2.0.102.0.VNKEUXM-user-15.0-c8f7508ec1.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.100.0.VNKRUXM/vermeer_ru_global-ota_full-OS2.0.100.0.VNKRUXM-user-15.0-b012892f6a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.100.0.VNKRUXM/vermeer_ru_global-ota_full-OS2.0.100.0.VNKRUXM-user-15.0-b012892f6a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.100.0.VNKRUXM/vermeer_ru_global-ota_full-OS2.0.100.0.VNKRUXM-user-15.0-b012892f6a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.100.0.VNKRUXM/vermeer_ru_global-ota_full-OS2.0.100.0.VNKRUXM-user-15.0-b012892f6a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.100.0.VNKRUXM/vermeer_ru_global-ota_full-OS2.0.100.0.VNKRUXM-user-15.0-b012892f6a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#vermeer_2_changelog" data-toggle="collapse" role="button"
