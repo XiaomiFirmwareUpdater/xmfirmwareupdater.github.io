@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 13 Apr 2025 07:08:12 </lastBuildDate>
+        <lastBuildDate>Sun, 13 Apr 2025 13:32:48 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS2.0.108.0.VNACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Sun, 13 Apr 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE (xun) - OS2.0.2.0.VMUEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xun/</link>
+            <pubDate>Sun, 13 Apr 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS1.0.26.0.UOPCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
@@ -697,11 +707,6 @@
             <pubDate>Wed, 26 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS2.0.107.0.VNACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Tue, 25 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 14 (houji) - OS2.0.107.0.VNCCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/houji/</link>
             <pubDate>Tue, 25 Mar 2025 00:00:00 </pubDate>
@@ -1255,11 +1260,6 @@
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS2.0.2.0.VMWCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sky/</link>
             <pubDate>Wed, 19 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad SE (xun) - OS2.0.1.0.VMUEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/xun/</link>
-            <pubDate>Fri, 14 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.1.0.VNOINXM</title>

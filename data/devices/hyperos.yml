@@ -748,6 +748,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UNACNXM/fw_aurora_miui_AURORA_OS1.0.12.0.UNACNXM_c98a167708_14.0.zip
   name: Xiaomi 14 Ultra
   version: OS1.0.12.0.UNACNXM
+- android: '15.0'
+  codename: aurora
+  date: '2025-04-13'
+  download: https://bigota.d.miui.com/OS2.0.108.0.VNACNXM/fw_aurora_aurora-ota_full-OS2.0.108.0.VNACNXM-user-15.0-d13c9063e5.zip
+  name: Xiaomi 14 Ultra
+  version: OS2.0.108.0.VNACNXM
 - android: '14.0'
   codename: aurora
   date: '2024-10-12'
@@ -13654,6 +13660,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMUEUXM/fw_xun_miui_XUNEEAGlobal_OS1.0.3.0.UMUEUXM_aaefb98dfa_14.0.zip
   name: Redmi Pad SE
   version: OS1.0.3.0.UMUEUXM
+- android: '15.0'
+  codename: xun
+  date: '2025-04-13'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VMUEUXM/fw_xun_eea_global_xun_eea_global-ota_full-OS2.0.2.0.VMUEUXM-user-15.0-603d466d0a.zip
+  name: Redmi Pad SE
+  version: OS2.0.2.0.VMUEUXM
 - android: '14.0'
   codename: xun
   date: '2025-01-13'
