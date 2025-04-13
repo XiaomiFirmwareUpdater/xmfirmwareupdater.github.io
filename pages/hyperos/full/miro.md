@@ -52,7 +52,8 @@ permalink: /archive/hyperos/miro/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K80 Pro / POCO F7 Ultra Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.101.0.VOMRUXM</td><td>15.0</td><td>7.0 GB</td><td>2025-04-08</td><td><a href="/hyperos/miro/stable beta/OS2.0.101.0.VOMRUXM/">Download</a></td></tr>
+                <tr><td>Redmi K80 Pro / POCO F7 Ultra Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VOMRUXM</td><td>15.0</td><td>9.3 GB</td><td>2025-04-13</td><td><a href="/hyperos/miro/stable/OS2.0.101.0.VOMRUXM/">Download</a></td></tr>
+<tr><td>Redmi K80 Pro / POCO F7 Ultra Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.101.0.VOMRUXM</td><td>15.0</td><td>7.0 GB</td><td>2025-04-08</td><td><a href="/hyperos/miro/stable/OS2.0.101.0.VOMRUXM/">Download</a></td></tr>
 <tr><td>Redmi K80 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.108.0.VOMCNXM</td><td>15.0</td><td>10.3 GB</td><td>2025-03-31</td><td><a href="/hyperos/miro/stable/OS2.0.108.0.VOMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.108.0.VOMCNXM</td><td>15.0</td><td>8.3 GB</td><td>2025-03-21</td><td><a href="/hyperos/miro/stable/OS2.0.108.0.VOMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 Pro / POCO F7 Ultra Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.103.0.VOMIDXM</td><td>15.0</td><td>8.8 GB</td><td>2025-03-27</td><td><a href="/hyperos/miro/stable/OS2.0.103.0.VOMIDXM/">Download</a></td></tr>
@@ -75,10 +76,10 @@ permalink: /archive/hyperos/miro/
 <tr><td>Redmi K80 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.104.0.VOMCNXM</td><td>15.0</td><td>8.3 GB</td><td>2025-01-20</td><td><a href="/hyperos/miro/stable/OS2.0.104.0.VOMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.15.0.VOMCNXM</td><td>15.0</td><td>8.3 GB</td><td>2024-12-21</td><td><a href="/hyperos/miro/stable/OS2.0.15.0.VOMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.15.0.VOMCNXM</td><td>15.0</td><td>10.3 GB</td><td>2024-12-19</td><td><a href="/hyperos/miro/stable/OS2.0.15.0.VOMCNXM/">Download</a></td></tr>
-<tr><td>Redmi K80 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.11.0.VOMCNXM</td><td>15.0</td><td>8.3 GB</td><td>2024-12-03</td><td><a href="/hyperos/miro/stable/OS2.0.11.0.VOMCNXM/">Download</a></td></tr>
-<tr><td>Redmi K80 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.11.0.VOMCNXM</td><td>15.0</td><td>10.2 GB</td><td>2024-11-30</td><td><a href="/hyperos/miro/stable/OS2.0.11.0.VOMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VOMCNXM</td><td>15.0</td><td>10.4 GB</td><td>2025-01-07</td><td><a href="/hyperos/miro/stable/OS2.0.102.0.VOMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VOMCNXM</td><td>15.0</td><td>8.3 GB</td><td>2024-12-27</td><td><a href="/hyperos/miro/stable/OS2.0.102.0.VOMCNXM/">Download</a></td></tr>
+<tr><td>Redmi K80 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.11.0.VOMCNXM</td><td>15.0</td><td>8.3 GB</td><td>2024-12-03</td><td><a href="/hyperos/miro/stable/OS2.0.11.0.VOMCNXM/">Download</a></td></tr>
+<tr><td>Redmi K80 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.11.0.VOMCNXM</td><td>15.0</td><td>10.2 GB</td><td>2024-11-30</td><td><a href="/hyperos/miro/stable/OS2.0.11.0.VOMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.10.0.VOMCNXM</td><td>15.0</td><td>8.3 GB</td><td>2024-11-28</td><td><a href="/hyperos/miro/stable/OS2.0.10.0.VOMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.10.0.VOMCNXM</td><td>15.0</td><td>10.2 GB</td><td>2024-11-25</td><td><a href="/hyperos/miro/stable/OS2.0.10.0.VOMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.9.0.VOMCNXM</td><td>15.0</td><td>8.3 GB</td><td>2024-11-27</td><td><a href="/hyperos/miro/stable/OS2.0.9.0.VOMCNXM/">Download</a></td></tr>
