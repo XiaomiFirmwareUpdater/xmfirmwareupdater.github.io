@@ -3,7 +3,7 @@ title: Redmi K50 Pro China HyperOS OS2.0.1.0.ULKCNXM Update
 layout: download
 name: Redmi K50 Pro China
 codename: matisse
-permalink: /hyperos/matisse/stable beta/OS2.0.1.0.ULKCNXM/
+permalink: /hyperos/matisse/stable/OS2.0.1.0.ULKCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/matisse/stable beta/OS2.0.1.0.ULKCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.1.0.ULKCNXM Stable Beta Official Update for Redmi K50 Pro China (matisse)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.1.0.ULKCNXM Stable Official Update for Redmi K50 Pro China (matisse)</h3>
     <h5>This page shows the OS2.0.1.0.ULKCNXM update only. If you're looking for other updates check
         <a href="/hyperos/matisse/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/matisse/stable beta/OS2.0.1.0.ULKCNXM/
                     <h5><b>Version: </b>OS2.0.1.0.ULKCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/matisse/stable beta/OS2.0.1.0.ULKCNXM/
                             aria-expanded="false" aria-controls="matisse_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="matisse_1_changelog">
+                        <p id="changelog_text">[Alive Design Philosophy]<br>Alive Design Philosophy unveils fresh, vibrant design across the whole system, making every interaction feel smooth and alive.<br>[Xiaomi HyperCore]<br>Xiaomi HyperCore, Xiaomi's proprietary core technology platform, enhances performance, graphics, network, and security.<br>New dynamic memory:<br>New technology allows precise resource allocation, so apps start up faster.<br>Heterogeneous computing:<br>Enhanced rendering pipeline boosts hardware performance for faster, more efficient visuals.<br>[Xiaomi HyperConnect]<br>Smart home devices:<br>Smart home upgrades improve the consistency of control experience of various terminal devices, covering Xiaomi Smart Hub, Home screen widgets, and the Xiaomi Home app.<br>Documents:<br>Take document editing to a new level with over 100 supported file formats, including documents, spreadsheets, and presentations across devices.<br>Upgraded Xiaomi Smart Hub<br>In upgraded Xiaomi Smart Hub, you can add sticky notes to your TV screensaver and use PiP.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi K50 Pro China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/matisse/" target="_blank">matisse</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.1.0.ULKCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>7.4 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-03-03</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">matisse_images_OS2.0.1.0.ULKCNXM_20250303.0000.00_14.0_cn_eef7affc1b.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">eef7affc1b686618aabb63f693dbd8e5</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.1.0.ULKCNXM/matisse_images_OS2.0.1.0.ULKCNXM_20250303.0000.00_14.0_cn_eef7affc1b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.1.0.ULKCNXM/matisse_images_OS2.0.1.0.ULKCNXM_20250303.0000.00_14.0_cn_eef7affc1b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.1.0.ULKCNXM/matisse_images_OS2.0.1.0.ULKCNXM_20250303.0000.00_14.0_cn_eef7affc1b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.1.0.ULKCNXM/matisse_images_OS2.0.1.0.ULKCNXM_20250303.0000.00_14.0_cn_eef7affc1b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.1.0.ULKCNXM/matisse_images_OS2.0.1.0.ULKCNXM_20250303.0000.00_14.0_cn_eef7affc1b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#matisse_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="matisse_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="matisse_2_changelog">
                         <p id="changelog_text">[Alive Design Philosophy]<br>Alive Design Philosophy unveils fresh, vibrant design across the whole system, making every interaction feel smooth and alive.<br>[Xiaomi HyperCore]<br>Xiaomi HyperCore, Xiaomi's proprietary core technology platform, enhances performance, graphics, network, and security.<br>New dynamic memory:<br>New technology allows precise resource allocation, so apps start up faster.<br>Heterogeneous computing:<br>Enhanced rendering pipeline boosts hardware performance for faster, more efficient visuals.<br>[Xiaomi HyperConnect]<br>Smart home devices:<br>Smart home upgrades improve the consistency of control experience of various terminal devices, covering Xiaomi Smart Hub, Home screen widgets, and the Xiaomi Home app.<br>Documents:<br>Take document editing to a new level with over 100 supported file formats, including documents, spreadsheets, and presentations across devices.<br>Upgraded Xiaomi Smart Hub<br>In upgraded Xiaomi Smart Hub, you can add sticky notes to your TV screensaver and use PiP.</p>
                     </div>
                 </li>

@@ -3,7 +3,7 @@ title: Xiaomi 13 Global HyperOS OS2.0.101.0.VMCMIXM Update
 layout: download
 name: Xiaomi 13 Global
 codename: fuxi
-permalink: /hyperos/fuxi/stable beta/OS2.0.101.0.VMCMIXM/
+permalink: /hyperos/fuxi/stable/OS2.0.101.0.VMCMIXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/fuxi/stable beta/OS2.0.101.0.VMCMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.101.0.VMCMIXM Stable Beta Official Update for Xiaomi 13 Global (fuxi)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.101.0.VMCMIXM Stable Official Update for Xiaomi 13 Global (fuxi)</h3>
     <h5>This page shows the OS2.0.101.0.VMCMIXM update only. If you're looking for other updates check
         <a href="/hyperos/fuxi/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/fuxi/stable beta/OS2.0.101.0.VMCMIXM/
                     <h5><b>Version: </b>OS2.0.101.0.VMCMIXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>7.8 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-04-14</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">fuxi_global_images_OS2.0.101.0.VMCMIXM_20250324.0000.00_15.0_global_aa4fb6b4c8.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">aa4fb6b4c81e3340a4e9edf17abfcba1</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.101.0.VMCMIXM/fuxi_global_images_OS2.0.101.0.VMCMIXM_20250324.0000.00_15.0_global_aa4fb6b4c8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.101.0.VMCMIXM/fuxi_global_images_OS2.0.101.0.VMCMIXM_20250324.0000.00_15.0_global_aa4fb6b4c8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.101.0.VMCMIXM/fuxi_global_images_OS2.0.101.0.VMCMIXM_20250324.0000.00_15.0_global_aa4fb6b4c8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.101.0.VMCMIXM/fuxi_global_images_OS2.0.101.0.VMCMIXM_20250324.0000.00_15.0_global_aa4fb6b4c8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.101.0.VMCMIXM/fuxi_global_images_OS2.0.101.0.VMCMIXM_20250324.0000.00_15.0_global_aa4fb6b4c8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#fuxi_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="fuxi_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="fuxi_1_changelog">
+                        <p id="changelog_text">[System]<br>Optimization: System stability<br>Fix: Errors occurred in some cases<br>Updated the security patch to March 2025. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi 13 Global</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/fuxi/" target="_blank">fuxi</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.101.0.VMCMIXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -74,10 +117,10 @@ permalink: /hyperos/fuxi/stable beta/OS2.0.101.0.VMCMIXM/
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS2.0.101.0.VMCMIXM/fuxi_global-ota_incremental-OS2.0.100.0.VMCMIXM-OS2.0.101.0.VMCMIXM-user-15.0-3d38f4b9f3.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.101.0.VMCMIXM/fuxi_global-ota_full-OS2.0.101.0.VMCMIXM-user-15.0-12f3fa0cb5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.101.0.VMCMIXM/fuxi_global-ota_full-OS2.0.101.0.VMCMIXM-user-15.0-12f3fa0cb5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.101.0.VMCMIXM/fuxi_global-ota_full-OS2.0.101.0.VMCMIXM-user-15.0-12f3fa0cb5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.101.0.VMCMIXM/fuxi_global-ota_full-OS2.0.101.0.VMCMIXM-user-15.0-12f3fa0cb5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.101.0.VMCMIXM/fuxi_global-ota_full-OS2.0.101.0.VMCMIXM-user-15.0-12f3fa0cb5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#fuxi_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="fuxi_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#fuxi_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="fuxi_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="fuxi_1_changelog">
+                    <div class="collapse" id="fuxi_2_changelog">
                         <p id="changelog_text">[System]<br>Optimization: System stability<br>Fix: Errors occurred in some cases<br>Updated the security patch to March 2025. Increased system security.</p>
                     </div>
                 </li>
