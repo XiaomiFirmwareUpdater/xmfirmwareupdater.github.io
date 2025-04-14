@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 14 Apr 2025 19:53:20 </lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 01:47:29 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi Civi 4 Pro (chenfeng) - OS2.0.102.0.VNJINXM</title>
@@ -47,6 +47,11 @@
             <pubDate>Mon, 14 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 12S (mayfly) - OS2.0.5.0.VLTCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/mayfly/</link>
+            <pubDate>Mon, 14 Apr 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi K40S/POCO F4 (munch) - OS1.0.10.0.ULMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/munch/</link>
             <pubDate>Mon, 14 Apr 2025 00:00:00 </pubDate>
@@ -69,6 +74,11 @@
         <item>
             <title>Redmi Note 12S (sea) - OS2.0.3.0.VHZMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sea/</link>
+            <pubDate>Mon, 14 Apr 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70/POCO F6 Pro (vermeer) - OS2.0.102.0.VNKMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Mon, 14 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1057,11 +1067,6 @@
             <pubDate>Tue, 11 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12S (mayfly) - OS2.0.4.0.VLTCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/mayfly/</link>
-            <pubDate>Tue, 11 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 13/POCO M6 (moon) - OS2.0.4.0.VNTEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moon/</link>
             <pubDate>Tue, 11 Mar 2025 00:00:00 </pubDate>
@@ -1114,11 +1119,6 @@
         <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS2.0.5.0.VMWEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sky/</link>
-            <pubDate>Fri, 07 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70/POCO F6 Pro (vermeer) - OS2.0.100.0.VNKMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Fri, 07 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>

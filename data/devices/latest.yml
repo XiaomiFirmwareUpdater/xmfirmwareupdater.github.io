@@ -3319,15 +3319,15 @@
     android: '14.0'
     miui: OS2.0.2.0.ULKCNXM
 - branch: stable
-  date: '2025-03-11'
+  date: '2025-04-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-12.03.2025/fw_mayfly_mayfly-ota_full-OS2.0.4.0.VLTCNXM-user-15.0-c2ffe2bf8c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mayfly/fw_mayfly_mayfly-ota_full-OS2.0.4.0.VLTCNXM-user-15.0-c2ffe2bf8c.zip
-  filename: fw_mayfly_mayfly-ota_full-OS2.0.4.0.VLTCNXM-user-15.0-c2ffe2bf8c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-15.04.2025/fw_mayfly_mayfly-ota_full-OS2.0.5.0.VLTCNXM-user-15.0-a2296cac9f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mayfly/fw_mayfly_mayfly-ota_full-OS2.0.5.0.VLTCNXM-user-15.0-a2296cac9f.zip
+  filename: fw_mayfly_mayfly-ota_full-OS2.0.5.0.VLTCNXM-user-15.0-a2296cac9f.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.4.0.VLTCNXM
+    miui: OS2.0.5.0.VLTCNXM
 - branch: stable
   date: '2022-10-28'
   downloads:
@@ -6169,15 +6169,15 @@
     android: '14.0'
     miui: OS2.0.1.0.UKBEUXM
 - branch: stable
-  date: '2025-03-07'
+  date: '2025-04-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-07.03.2025/fw_vermeer_global_vermeer_global-ota_full-OS2.0.100.0.VNKMIXM-user-15.0-d63c2bb143.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/vermeer/fw_vermeer_global_vermeer_global-ota_full-OS2.0.100.0.VNKMIXM-user-15.0-d63c2bb143.zip
-  filename: fw_vermeer_global_vermeer_global-ota_full-OS2.0.100.0.VNKMIXM-user-15.0-d63c2bb143.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-15.04.2025/fw_vermeer_global_vermeer_global-ota_full-OS2.0.102.0.VNKMIXM-user-15.0-588f2cc52a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/vermeer/fw_vermeer_global_vermeer_global-ota_full-OS2.0.102.0.VNKMIXM-user-15.0-588f2cc52a.zip
+  filename: fw_vermeer_global_vermeer_global-ota_full-OS2.0.102.0.VNKMIXM-user-15.0-588f2cc52a.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.100.0.VNKMIXM
+    miui: OS2.0.102.0.VNKMIXM
 - branch: stable
   date: '2025-02-20'
   downloads:
