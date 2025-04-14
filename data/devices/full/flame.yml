@@ -39,6 +39,16 @@
     android: '14.0'
     miui: OS1.0.7.0.UGUCNXM
 - branch: stable
+  date: '2025-04-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flame/releases/download/stable-14.04.2025/fw_flame_miui_FLAME_OS1.0.16.0.UGUCNXM_01af639e33_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/flame/fw_flame_miui_FLAME_OS1.0.16.0.UGUCNXM_01af639e33_14.0.zip
+  filename: fw_flame_miui_FLAME_OS1.0.16.0.UGUCNXM_01af639e33_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.16.0.UGUCNXM
+- branch: stable
   date: '2024-12-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flame/releases/download/stable-12.12.2024/fw_flame_miui_FLAME_OS1.0.12.0.UGUCNXM_dd13e6662a_14.0.zip
