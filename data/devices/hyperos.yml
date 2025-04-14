@@ -1962,6 +1962,12 @@
   version: OS1.0.9.0.ULGCNXM
 - android: '14.0'
   codename: daumier
+  date: '2025-04-14'
+  download: https://bigota.d.miui.com/OS2.0.3.0.ULGCNXM/fw_daumier_daumier-ota_full-OS2.0.3.0.ULGCNXM-user-14.0-9320893e31.zip
+  name: Xiaomi 12 Pro Dimensity
+  version: OS2.0.3.0.ULGCNXM
+- android: '14.0'
+  codename: daumier
   date: '2024-11-12'
   download: https://bigota.d.miui.com/OS1.0.10.0.ULGCNXM/fw_daumier_miui_DAUMIER_OS1.0.10.0.ULGCNXM_e45b3f7697_14.0.zip
   name: Xiaomi 12 Pro Dimensity
@@ -2218,6 +2224,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULFCNXM/fw_diting_miui_DITING_OS1.0.3.0.ULFCNXM_853473331d_14.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: OS1.0.3.0.ULFCNXM
+- android: '15.0'
+  codename: diting
+  date: '2025-04-14'
+  download: https://bigota.d.miui.com/OS2.0.1.0.VLFMIXM/fw_diting_global_diting_global-ota_full-OS2.0.1.0.VLFMIXM-user-15.0-6034db0699.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS2.0.1.0.VLFMIXM
 - android: '14.0'
   codename: diting
   date: '2025-01-13'
@@ -6700,6 +6712,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.ULKCNXM/fw_matisse_miui_MATISSE_OS1.0.12.0.ULKCNXM_d45483b061_14.0.zip
   name: Redmi K50 Pro
   version: OS1.0.12.0.ULKCNXM
+- android: '14.0'
+  codename: matisse
+  date: '2025-04-14'
+  download: https://bigota.d.miui.com/OS2.0.2.0.ULKCNXM/fw_matisse_matisse-ota_full-OS2.0.2.0.ULKCNXM-user-14.0-c6fec65231.zip
+  name: Redmi K50 Pro
+  version: OS2.0.2.0.ULKCNXM
 - android: '14.0'
   codename: matisse
   date: '2025-01-13'

@@ -60,6 +60,7 @@ permalink: /hyperos/diting/
 <tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.17.0.ULFEUXM</td><td>14.0</td><td>5.3 GB</td><td>2025-03-11</td><td><a href="/hyperos/diting/stable/OS1.0.17.0.ULFEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.12.0.ULFMIXM</td><td>14.0</td><td>6.4 GB</td><td>2025-02-24</td><td><a href="/hyperos/diting/stable/OS1.0.12.0.ULFMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.12.0.ULFMIXM</td><td>14.0</td><td>5.3 GB</td><td>2025-03-11</td><td><a href="/hyperos/diting/stable/OS1.0.12.0.ULFMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.VLFMIXM</td><td>15.0</td><td>5.5 GB</td><td>2025-04-11</td><td><a href="/hyperos/diting/stable beta/OS2.0.1.0.VLFMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Japan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.ULFJPXM</td><td>14.0</td><td>6.2 GB</td><td>2025-03-07</td><td><a href="/hyperos/diting/stable/OS1.0.11.0.ULFJPXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Japan</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.ULFJPXM</td><td>14.0</td><td>5.2 GB</td><td>2025-03-18</td><td><a href="/hyperos/diting/stable/OS1.0.11.0.ULFJPXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.ULFRUXM</td><td>14.0</td><td>6.4 GB</td><td>2025-03-07</td><td><a href="/hyperos/diting/stable/OS1.0.11.0.ULFRUXM/">Download</a></td></tr>
