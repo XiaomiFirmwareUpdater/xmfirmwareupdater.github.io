@@ -5116,6 +5116,12 @@
   download: https://bigota.d.miui.com/OS1.0.16.0.UNCEUXM/fw_houji_miui_HOUJIEEAGlobal_OS1.0.16.0.UNCEUXM_ffc0ba5581_14.0.zip
   name: Xiaomi 14
   version: OS1.0.16.0.UNCEUXM
+- android: '15.0'
+  codename: houji
+  date: '2025-04-15'
+  download: https://bigota.d.miui.com/OS2.0.109.0.VNCCNXM/fw_houji_houji-ota_full-OS2.0.109.0.VNCCNXM-user-15.0-6e3f6be5fc.zip
+  name: Xiaomi 14
+  version: OS2.0.109.0.VNCCNXM
 - android: '14.0'
   codename: houji
   date: '2024-08-14'
