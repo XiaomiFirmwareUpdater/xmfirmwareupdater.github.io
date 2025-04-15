@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 15 Apr 2025 13:46:17 </lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 19:20:01 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 14 (houji) - OS2.0.109.0.VNCCNXM</title>
@@ -19,6 +19,11 @@
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS2.0.7.0.VMNMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
+            <pubDate>Tue, 15 Apr 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K40S/POCO F4 (munch) - OS1.0.9.0.ULMMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/munch/</link>
             <pubDate>Tue, 15 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1305,11 +1310,6 @@
             <title>Redmi K40S/POCO F4 (munch) - OS1.0.6.0.ULMINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/munch/</link>
             <pubDate>Mon, 13 Jan 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40S/POCO F4 (munch) - OS1.0.8.0.ULMMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/munch/</link>
-            <pubDate>Mon, 06 Jan 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - OS1.0.10.0.TKCCNXM</title>

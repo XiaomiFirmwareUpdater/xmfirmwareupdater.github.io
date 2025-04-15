@@ -7506,6 +7506,12 @@
   version: OS1.0.7.0.ULMEUXM
 - android: '14.0'
   codename: munch
+  date: '2025-04-15'
+  download: https://bigota.d.miui.com/OS1.0.9.0.ULMMIXM/fw_munch_miui_MUNCHGlobal_OS1.0.9.0.ULMMIXM_7b798621ce_14.0.zip
+  name: Redmi K40S/POCO F4
+  version: OS1.0.9.0.ULMMIXM
+- android: '14.0'
+  codename: munch
   date: '2025-04-14'
   download: https://bigota.d.miui.com/OS1.0.10.0.ULMCNXM/fw_munch_miui_MUNCH_OS1.0.10.0.ULMCNXM_176cdc282f_14.0.zip
   name: Redmi K40S/POCO F4
