@@ -4,11 +4,26 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 15 Apr 2025 07:22:19 </lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 13:46:17 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 14 (houji) - OS2.0.109.0.VNCCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Tue, 15 Apr 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.22.0.UMRINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
+            <pubDate>Tue, 15 Apr 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K60/POCO F5 Pro (mondrian) - OS2.0.7.0.VMNMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
+            <pubDate>Tue, 15 Apr 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A4 5G/POCO C75 5G (warm) - OS2.0.1.0.VGVINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/warm/</link>
             <pubDate>Tue, 15 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -952,11 +967,6 @@
             <pubDate>Thu, 20 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi A4 5G/POCO C75 5G (warm) - OS1.0.9.0.UGVINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/warm/</link>
-            <pubDate>Thu, 20 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 13C/POCO C65 (gale) - OS2.0.4.0.VGPMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gale/</link>
             <pubDate>Wed, 19 Mar 2025 00:00:00 </pubDate>
@@ -974,11 +984,6 @@
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.101.0.VMLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Tue, 18 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60/POCO F5 Pro (mondrian) - OS2.0.5.0.VMNMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
             <pubDate>Tue, 18 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1039,11 +1044,6 @@
         <item>
             <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS1.0.10.0.UOOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
-            <pubDate>Wed, 12 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS1.0.20.0.UMRINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
             <pubDate>Wed, 12 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>

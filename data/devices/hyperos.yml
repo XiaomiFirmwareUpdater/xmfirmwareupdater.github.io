@@ -6504,6 +6504,12 @@
   version: OS1.0.18.0.UMRCNXM
 - android: '14.0'
   codename: marble
+  date: '2025-04-15'
+  download: https://bigota.d.miui.com/OS1.0.22.0.UMRINXM/fw_marble_miui_MARBLEINGlobal_OS1.0.22.0.UMRINXM_d07d085814_14.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS1.0.22.0.UMRINXM
+- android: '14.0'
+  codename: marble
   date: '2024-08-14'
   download: https://bigota.d.miui.com/OS1.0.7.0.UMRMIXM/fw_marble_miui_MARBLEGlobal_OS1.0.7.0.UMRMIXM_323d68c175_14.0.zip
   name: Redmi Note 12 Turbo/POCO F5
@@ -7030,6 +7036,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMNEUXM/fw_mondrian_miui_MONDRIANEEAGlobal_OS1.0.5.0.UMNEUXM_15078e7e61_14.0.zip
   name: Redmi K60/POCO F5 Pro
   version: OS1.0.5.0.UMNEUXM
+- android: '15.0'
+  codename: mondrian
+  date: '2025-04-15'
+  download: https://bigota.d.miui.com/OS2.0.7.0.VMNMIXM/fw_mondrian_global_mondrian_global-ota_full-OS2.0.7.0.VMNMIXM-user-15.0-120fafa9a4.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS2.0.7.0.VMNMIXM
 - android: '14.0'
   codename: mondrian
   date: '2024-09-14'
@@ -13348,6 +13360,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UGVINXM/fw_warm_miui_WARMINGlobal_OS1.0.7.0.UGVINXM_f5f6ddf889_14.0.zip
   name: Redmi A4 5G/POCO C75 5G
   version: OS1.0.7.0.UGVINXM
+- android: '15.0'
+  codename: warm
+  date: '2025-04-15'
+  download: https://bigota.d.miui.com/OS2.0.1.0.VGVINXM/fw_warm_in_global_warm_in_global-ota_full-OS2.0.1.0.VGVINXM-user-15.0-6d178f5c6c.zip
+  name: Redmi A4 5G/POCO C75 5G
+  version: OS2.0.1.0.VGVINXM
 - android: '14.0'
   codename: warm
   date: '2025-03-07'

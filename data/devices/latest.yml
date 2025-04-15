@@ -3269,15 +3269,15 @@
     android: '14.0'
     miui: OS1.0.22.0.UMREUXM
 - branch: stable
-  date: '2025-03-12'
+  date: '2025-04-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-12.03.2025/fw_marble_miui_MARBLEINGlobal_OS1.0.20.0.UMRINXM_8023e711c2_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEINGlobal_OS1.0.20.0.UMRINXM_8023e711c2_14.0.zip
-  filename: fw_marble_miui_MARBLEINGlobal_OS1.0.20.0.UMRINXM_8023e711c2_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-15.04.2025/fw_marble_miui_MARBLEINGlobal_OS1.0.22.0.UMRINXM_d07d085814_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEINGlobal_OS1.0.22.0.UMRINXM_d07d085814_14.0.zip
+  filename: fw_marble_miui_MARBLEINGlobal_OS1.0.22.0.UMRINXM_d07d085814_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.20.0.UMRINXM
+    miui: OS1.0.22.0.UMRINXM
 - branch: stable
   date: '2019-05-20'
   downloads:
@@ -3489,15 +3489,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2025-03-18'
+  date: '2025-04-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-18.03.2025/fw_mondrian_global_mondrian_global-ota_full-OS2.0.5.0.VMNMIXM-user-15.0-91db079f27.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mondrian/fw_mondrian_global_mondrian_global-ota_full-OS2.0.5.0.VMNMIXM-user-15.0-91db079f27.zip
-  filename: fw_mondrian_global_mondrian_global-ota_full-OS2.0.5.0.VMNMIXM-user-15.0-91db079f27.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-15.04.2025/fw_mondrian_global_mondrian_global-ota_full-OS2.0.7.0.VMNMIXM-user-15.0-120fafa9a4.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mondrian/fw_mondrian_global_mondrian_global-ota_full-OS2.0.7.0.VMNMIXM-user-15.0-120fafa9a4.zip
+  filename: fw_mondrian_global_mondrian_global-ota_full-OS2.0.7.0.VMNMIXM-user-15.0-120fafa9a4.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.5.0.VMNMIXM
+    miui: OS2.0.7.0.VMNMIXM
 - branch: stable
   date: '2025-02-27'
   downloads:
@@ -6369,15 +6369,15 @@
     android: '13.0'
     miui: OS1.0.3.0.TGDEUXM
 - branch: stable
-  date: '2025-03-20'
+  date: '2025-04-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warm/releases/download/stable-20.03.2025/fw_warm_miui_WARMINGlobal_OS1.0.9.0.UGVINXM_8e6c6ea9f1_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/warm/fw_warm_miui_WARMINGlobal_OS1.0.9.0.UGVINXM_8e6c6ea9f1_14.0.zip
-  filename: fw_warm_miui_WARMINGlobal_OS1.0.9.0.UGVINXM_8e6c6ea9f1_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warm/releases/download/stable-15.04.2025/fw_warm_in_global_warm_in_global-ota_full-OS2.0.1.0.VGVINXM-user-15.0-6d178f5c6c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/warm/fw_warm_in_global_warm_in_global-ota_full-OS2.0.1.0.VGVINXM-user-15.0-6d178f5c6c.zip
+  filename: fw_warm_in_global_warm_in_global-ota_full-OS2.0.1.0.VGVINXM-user-15.0-6d178f5c6c.zip
   region: India
   versions:
-    android: '14.0'
-    miui: OS1.0.9.0.UGVINXM
+    android: '15.0'
+    miui: OS2.0.1.0.VGVINXM
 - branch: stable
   date: '2025-01-23'
   downloads:

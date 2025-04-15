@@ -60,6 +60,7 @@ permalink: /hyperos/mondrian/
 <tr><td>POCO F5 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.4.0.VMNEUXM</td><td>15.0</td><td>5.5 GB</td><td>2025-03-20</td><td><a href="/hyperos/mondrian/stable/OS2.0.4.0.VMNEUXM/">Download</a></td></tr>
 <tr><td>POCO F5 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.5.0.VMNMIXM</td><td>15.0</td><td>7.9 GB</td><td>2025-03-10</td><td><a href="/hyperos/mondrian/stable/OS2.0.5.0.VMNMIXM/">Download</a></td></tr>
 <tr><td>POCO F5 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.VMNMIXM</td><td>15.0</td><td>5.4 GB</td><td>2025-03-15</td><td><a href="/hyperos/mondrian/stable/OS2.0.5.0.VMNMIXM/">Download</a></td></tr>
+<tr><td>POCO F5 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.7.0.VMNMIXM</td><td>15.0</td><td>5.4 GB</td><td>2025-04-11</td><td><a href="/hyperos/mondrian/stable beta/OS2.0.7.0.VMNMIXM/">Download</a></td></tr>
 <tr><td>POCO F5 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.4.0.VMNRUXM</td><td>15.0</td><td>7.9 GB</td><td>2025-03-12</td><td><a href="/hyperos/mondrian/stable/OS2.0.4.0.VMNRUXM/">Download</a></td></tr>
 <tr><td>POCO F5 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.4.0.VMNRUXM</td><td>15.0</td><td>5.5 GB</td><td>2025-03-27</td><td><a href="/hyperos/mondrian/stable/OS2.0.4.0.VMNRUXM/">Download</a></td></tr>
 <tr><td>POCO F5 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VMNTRXM</td><td>15.0</td><td>7.0 GB</td><td>2025-03-12</td><td><a href="/hyperos/mondrian/stable/OS2.0.2.0.VMNTRXM/">Download</a></td></tr>

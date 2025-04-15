@@ -53,9 +53,12 @@ permalink: /archive/hyperos/marble/
                 </thead>
                 <tbody>
                 <tr><td>POCO F5 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.22.0.UMREUXM</td><td>14.0</td><td>5.0 GB</td><td>2025-04-02</td><td><a href="/hyperos/marble/stable beta/OS1.0.22.0.UMREUXM/">Download</a></td></tr>
+<tr><td>POCO F5 India</td><td>Stable</td><td>Recovery</td><td>OS1.0.22.0.UMRINXM</td><td>14.0</td><td>4.9 GB</td><td>2025-04-02</td><td><a href="/hyperos/marble/stable/OS1.0.22.0.UMRINXM/">Download</a></td></tr>
+<tr><td>POCO F5 India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.22.0.UMRINXM</td><td>14.0</td><td>6.5 GB</td><td>2025-03-14</td><td><a href="/hyperos/marble/stable/OS1.0.22.0.UMRINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Turbo China</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.VMRCNXM</td><td>15.0</td><td>6.3 GB</td><td>2025-03-28</td><td><a href="/hyperos/marble/stable/OS2.0.5.0.VMRCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Turbo China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.5.0.VMRCNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-03-24</td><td><a href="/hyperos/marble/stable/OS2.0.5.0.VMRCNXM/">Download</a></td></tr>
-<tr><td>POCO F5 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.18.0.UMRMIXM</td><td>14.0</td><td>5.2 GB</td><td>2025-03-28</td><td><a href="/hyperos/marble/stable beta/OS1.0.18.0.UMRMIXM/">Download</a></td></tr>
+<tr><td>POCO F5 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.18.0.UMRMIXM</td><td>14.0</td><td>5.2 GB</td><td>2025-03-28</td><td><a href="/hyperos/marble/stable/OS1.0.18.0.UMRMIXM/">Download</a></td></tr>
+<tr><td>POCO F5 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.18.0.UMRMIXM</td><td>14.0</td><td>7.8 GB</td><td>2025-03-19</td><td><a href="/hyperos/marble/stable/OS1.0.18.0.UMRMIXM/">Download</a></td></tr>
 <tr><td>POCO F5 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.17.0.UMRIDXM</td><td>14.0</td><td>5.2 GB</td><td>2025-03-27</td><td><a href="/hyperos/marble/stable/OS1.0.17.0.UMRIDXM/">Download</a></td></tr>
 <tr><td>POCO F5 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.17.0.UMRIDXM</td><td>14.0</td><td>7.4 GB</td><td>2025-03-19</td><td><a href="/hyperos/marble/stable/OS1.0.17.0.UMRIDXM/">Download</a></td></tr>
 <tr><td>POCO F5 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.17.0.UMRTRXM</td><td>14.0</td><td>5.0 GB</td><td>2025-03-27</td><td><a href="/hyperos/marble/stable/OS1.0.17.0.UMRTRXM/">Download</a></td></tr>
