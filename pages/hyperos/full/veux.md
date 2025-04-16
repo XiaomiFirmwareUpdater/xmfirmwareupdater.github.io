@@ -52,7 +52,8 @@ permalink: /archive/hyperos/veux/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.12.0.TKCEUXM</td><td>13.0</td><td>3.9 GB</td><td>2025-04-02</td><td><a href="/hyperos/veux/stable beta/OS1.0.12.0.TKCEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.12.0.TKCEUXM</td><td>13.0</td><td>3.9 GB</td><td>2025-04-02</td><td><a href="/hyperos/veux/stable/OS1.0.12.0.TKCEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.12.0.TKCEUXM</td><td>13.0</td><td>5.8 GB</td><td>2025-03-25</td><td><a href="/hyperos/veux/stable/OS1.0.12.0.TKCEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.TKCRUXM</td><td>13.0</td><td>3.9 GB</td><td>2024-12-27</td><td><a href="/hyperos/veux/stable/OS1.0.9.0.TKCRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.TKCRUXM</td><td>13.0</td><td>5.9 GB</td><td>2024-12-18</td><td><a href="/hyperos/veux/stable/OS1.0.9.0.TKCRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11E Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.TKCCNXM</td><td>13.0</td><td>4.5 GB</td><td>2024-12-27</td><td><a href="/hyperos/veux/stable/OS1.0.10.0.TKCCNXM/">Download</a></td></tr>

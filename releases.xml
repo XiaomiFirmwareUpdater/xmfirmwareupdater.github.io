@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 16 Apr 2025 07:09:25 </lastBuildDate>
+        <lastBuildDate>Wed, 16 Apr 2025 14:43:25 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>POCO X5 5G (moonstone) - OS1.0.14.0.UMPINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/moonstone/</link>
+            <pubDate>Wed, 16 Apr 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS2.0.5.0.VLLEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
+            <pubDate>Wed, 16 Apr 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K80/POCO F7 Pro (zorn) - OS2.0.109.0.VOKCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zorn/</link>
+            <pubDate>Wed, 16 Apr 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 14 (houji) - OS2.0.109.0.VNCCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/houji/</link>
@@ -497,11 +512,6 @@
             <pubDate>Wed, 02 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K80/POCO F7 Pro (zorn) - OS2.0.108.0.VOKCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zorn/</link>
-            <pubDate>Wed, 02 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 11T (agate) - OS1.0.13.0.UKWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/agate/</link>
             <pubDate>Tue, 01 Apr 2025 00:00:00 </pubDate>
@@ -604,11 +614,6 @@
         <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.5.0.VMRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Mon, 31 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO X5 5G (moonstone) - OS1.0.13.0.UMPINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/moonstone/</link>
             <pubDate>Mon, 31 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1124,11 +1129,6 @@
         <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS2.0.5.0.VMWEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sky/</link>
-            <pubDate>Fri, 07 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS2.0.2.0.VLLEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Fri, 07 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
