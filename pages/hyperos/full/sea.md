@@ -53,7 +53,8 @@ permalink: /archive/hyperos/sea/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Note 12S Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.3.0.VHZMIXM</td><td>15.0</td><td>4.6 GB</td><td>2025-04-10</td><td><a href="/hyperos/sea/stable beta/OS2.0.3.0.VHZMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12S Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.VHZRUXM</td><td>15.0</td><td>4.6 GB</td><td>2025-03-31</td><td><a href="/hyperos/sea/stable beta/OS2.0.1.0.VHZRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12S Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VHZRUXM</td><td>15.0</td><td>4.6 GB</td><td>2025-03-31</td><td><a href="/hyperos/sea/stable/OS2.0.1.0.VHZRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12S Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.VHZRUXM</td><td>15.0</td><td>7.1 GB</td><td>2025-03-25</td><td><a href="/hyperos/sea/stable/OS2.0.1.0.VHZRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12S Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VHZTRXM</td><td>15.0</td><td>4.6 GB</td><td>2025-03-31</td><td><a href="/hyperos/sea/stable/OS2.0.1.0.VHZTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12S Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.VHZTRXM</td><td>15.0</td><td>6.3 GB</td><td>2025-03-25</td><td><a href="/hyperos/sea/stable/OS2.0.1.0.VHZTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12S Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VHZTWXM</td><td>15.0</td><td>4.4 GB</td><td>2025-03-26</td><td><a href="/hyperos/sea/stable/OS2.0.1.0.VHZTWXM/">Download</a></td></tr>
