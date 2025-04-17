@@ -1914,6 +1914,12 @@
   version: OS1.0.1.0.ULZCNXM
 - android: '14.0'
   codename: dagu
+  date: '2025-04-17'
+  download: https://bigota.d.miui.com/OS2.0.6.0.ULZCNXM/fw_dagu_dagu-ota_full-OS2.0.6.0.ULZCNXM-user-14.0-da56169ee4.zip
+  name: Xiaomi Pad 5 Pro 12.4
+  version: OS2.0.6.0.ULZCNXM
+- android: '14.0'
+  codename: dagu
   date: '2024-08-13'
   download: https://bigota.d.miui.com/OS1.0.4.0.ULZCNXM/fw_dagu_miui_DAGU_OS1.0.4.0.ULZCNXM_0c1ca65491_14.0.zip
   name: Xiaomi Pad 5 Pro 12.4
@@ -9712,6 +9718,12 @@
   download: https://bigota.d.miui.com/OS1.0.27.0.UNNCNXM/fw_rothko_miui_ROTHKO_OS1.0.27.0.UNNCNXM_4f58497328_14.0.zip
   name: Redmi K70 Ultra/Xiaomi 14T Pro
   version: OS1.0.27.0.UNNCNXM
+- android: '15.0'
+  codename: rothko
+  date: '2025-04-17'
+  download: https://bigota.d.miui.com/OS2.0.104.0.VNNMIXM/fw_rothko_global_rothko_global-ota_full-OS2.0.104.0.VNNMIXM-user-15.0-a4c3659d86.zip
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
+  version: OS2.0.104.0.VNNMIXM
 - android: '15.0'
   codename: rothko
   date: '2025-02-17'
