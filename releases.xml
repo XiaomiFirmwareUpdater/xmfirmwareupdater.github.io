@@ -4,11 +4,26 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 16 Apr 2025 19:18:45 </lastBuildDate>
+        <lastBuildDate>Thu, 17 Apr 2025 02:18:09 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS2.0.103.0.VNAMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Wed, 16 Apr 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS2.0.103.0.VNAINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Wed, 16 Apr 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>POCO X5 5G (moonstone) - OS1.0.14.0.UMPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moonstone/</link>
+            <pubDate>Wed, 16 Apr 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12S Pro (unicorn) - OS2.0.7.0.VLECNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/unicorn/</link>
             <pubDate>Wed, 16 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1032,11 +1047,6 @@
             <pubDate>Mon, 17 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12S Pro (unicorn) - OS2.0.5.0.VLECNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/unicorn/</link>
-            <pubDate>Mon, 17 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 14 4G (tanzanite) - OS1.0.7.0.UOGEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tanzanite/</link>
             <pubDate>Sun, 16 Mar 2025 00:00:00 </pubDate>
@@ -1185,16 +1195,6 @@
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS2.0.3.0.VNSEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
             <pubDate>Sat, 01 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS2.0.102.0.VNAMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Fri, 28 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS2.0.102.0.VNAINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Fri, 28 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.6.0.VNOMIXM</title>
