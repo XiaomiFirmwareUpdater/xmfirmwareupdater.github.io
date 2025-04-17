@@ -5988,6 +5988,12 @@
   version: OS1.0.11.0.UKOCNXM
 - android: '14.0'
   codename: lisa
+  date: '2025-04-17'
+  download: https://bigota.d.miui.com/OS2.0.1.0.UKOMIXM/fw_lisa_global_lisa_global-ota_full-OS2.0.1.0.UKOMIXM-user-14.0-56b17f7a30.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.1.0.UKOMIXM
+- android: '14.0'
+  codename: lisa
   date: '2024-09-14'
   download: https://bigota.d.miui.com/OS1.0.6.0.UKOEUXM/fw_lisa_miui_LISAEEAGlobal_OS1.0.6.0.UKOEUXM_162b70fc0e_14.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
@@ -6868,6 +6874,12 @@
   download: https://bigota.d.miui.com/OS2.0.15.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.15.0.VOMCNXM-user-15.0-bdfa3a076c.zip
   name: Redmi K80 Pro/POCO F7 Ultra
   version: OS2.0.15.0.VOMCNXM
+- android: '15.0'
+  codename: miro
+  date: '2025-04-17'
+  download: https://bigota.d.miui.com/OS2.0.108.0.VOMEUXM/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.108.0.VOMEUXM-user-15.0-0e69508f2e.zip
+  name: Redmi K80 Pro/POCO F7 Ultra
+  version: OS2.0.108.0.VOMEUXM
 - android: '15.0'
   codename: miro
   date: '2025-02-16'

@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 17 Apr 2025 07:25:44 </lastBuildDate>
+        <lastBuildDate>Thu, 17 Apr 2025 13:41:02 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.1.0.UKOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
+            <pubDate>Thu, 17 Apr 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS2.0.108.0.VOMEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/miro/</link>
+            <pubDate>Thu, 17 Apr 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 NFC (sapphiren) - OS2.0.10.0.VNHMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
@@ -767,11 +777,6 @@
             <pubDate>Thu, 27 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS2.0.107.0.VOMEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/miro/</link>
-            <pubDate>Thu, 27 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12T (plato) - OS2.0.1.0.VLQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/plato/</link>
             <pubDate>Thu, 27 Mar 2025 00:00:00 </pubDate>
@@ -1079,11 +1084,6 @@
         <item>
             <title>Xiaomi Civi 4 Pro (chenfeng) - OS2.0.104.0.VNJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
-            <pubDate>Tue, 11 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS1.0.13.0.UKOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
             <pubDate>Tue, 11 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
