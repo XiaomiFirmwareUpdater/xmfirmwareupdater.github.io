@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 17 Apr 2025 19:46:14 </lastBuildDate>
+        <lastBuildDate>Fri, 18 Apr 2025 01:20:42 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi Pad 5 Pro 12.4 (dagu) - OS2.0.6.0.ULZCNXM</title>
@@ -29,6 +29,11 @@
         <item>
             <title>Redmi Note 13 NFC (sapphiren) - OS2.0.10.0.VNHMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
+            <pubDate>Thu, 17 Apr 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite (shennong) - OS2.0.111.0.VNBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/shennong/</link>
             <pubDate>Thu, 17 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -685,11 +690,6 @@
             <title>Xiaomi MIX Fold 2 (zizhan) - OS2.0.8.0.VLRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zizhan/</link>
             <pubDate>Mon, 31 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite (shennong) - OS2.0.109.0.VNBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/shennong/</link>
-            <pubDate>Sun, 30 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 12S Ultra (thor) - OS2.0.10.0.VLACNXM</title>
