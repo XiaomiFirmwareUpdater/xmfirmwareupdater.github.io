@@ -52,7 +52,9 @@ permalink: /archive/hyperos/emerald/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 14S Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UFORUXM</td><td>14.0</td><td>4.5 GB</td><td>2025-04-16</td><td><a href="/hyperos/emerald/stable/OS1.0.1.0.UFORUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 14S Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UFORUXM</td><td>14.0</td><td>4.5 GB</td><td>2025-04-17</td><td><a href="/hyperos/emerald/stable/OS1.0.3.0.UFORUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14S Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UFORUXM</td><td>14.0</td><td>7.7 GB</td><td>2025-03-20</td><td><a href="/hyperos/emerald/stable/OS1.0.3.0.UFORUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14S Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UFORUXM</td><td>14.0</td><td>4.5 GB</td><td>2025-04-16</td><td><a href="/hyperos/emerald/stable/OS1.0.1.0.UFORUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14S Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.1.0.UFORUXM</td><td>14.0</td><td>7.8 GB</td><td>2025-01-27</td><td><a href="/hyperos/emerald/stable/OS1.0.1.0.UFORUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.2.0.VNFIDXM</td><td>15.0</td><td>4.8 GB</td><td>2025-04-01</td><td><a href="/hyperos/emerald/stable beta/OS2.0.2.0.VNFIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14S Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UFOTRXM</td><td>14.0</td><td>4.6 GB</td><td>2025-03-28</td><td><a href="/hyperos/emerald/stable/OS1.0.3.0.UFOTRXM/">Download</a></td></tr>
