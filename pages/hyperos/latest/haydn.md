@@ -61,9 +61,9 @@ permalink: /hyperos/haydn/
 <tr><td>Mi 11i Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.18.0.UKKMIXM</td><td>14.0</td><td>6.5 GB</td><td>2025-03-21</td><td><a href="/hyperos/haydn/stable/OS1.0.18.0.UKKMIXM/">Download</a></td></tr>
 <tr><td>Mi 11i Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.18.0.UKKMIXM</td><td>14.0</td><td>5.0 GB</td><td>2025-04-07</td><td><a href="/hyperos/haydn/stable/OS1.0.18.0.UKKMIXM/">Download</a></td></tr>
 <tr><td>Mi 11i Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.14.0.UKKMIXM</td><td>14.0</td><td>5.0 GB</td><td>2025-01-21</td><td><a href="/hyperos/haydn/stable beta/OS1.0.14.0.UKKMIXM/">Download</a></td></tr>
-<tr><td>Mi 11X Pro India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.14.0.UKKINXM</td><td>14.0</td><td>5.5 GB</td><td>2025-02-12</td><td><a href="/hyperos/haydn/stable/OS1.0.14.0.UKKINXM/">Download</a></td></tr>
-<tr><td>Mi 11X Pro India</td><td>Stable</td><td>Recovery</td><td>OS1.0.14.0.UKKINXM</td><td>14.0</td><td>4.8 GB</td><td>2025-02-20</td><td><a href="/hyperos/haydn/stable/OS1.0.14.0.UKKINXM/">Download</a></td></tr>
-<tr><td>Mi 11X Pro India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.15.0.UKKINXM</td><td>14.0</td><td>4.8 GB</td><td>2025-04-07</td><td><a href="/hyperos/haydn/stable beta/OS1.0.15.0.UKKINXM/">Download</a></td></tr>
+<tr><td>Mi 11X Pro India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.15.0.UKKINXM</td><td>14.0</td><td>5.5 GB</td><td>2025-03-26</td><td><a href="/hyperos/haydn/stable/OS1.0.15.0.UKKINXM/">Download</a></td></tr>
+<tr><td>Mi 11X Pro India</td><td>Stable</td><td>Recovery</td><td>OS1.0.15.0.UKKINXM</td><td>14.0</td><td>4.8 GB</td><td>2025-04-07</td><td><a href="/hyperos/haydn/stable/OS1.0.15.0.UKKINXM/">Download</a></td></tr>
+<tr><td>Mi 11X Pro India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.11.0.UKKINXM</td><td>14.0</td><td>4.8 GB</td><td>2025-01-20</td><td><a href="/hyperos/haydn/stable beta/OS1.0.11.0.UKKINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
