@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 18 Apr 2025 19:40:57 </lastBuildDate>
+        <lastBuildDate>Sat, 19 Apr 2025 01:49:49 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Civi 4 Pro (chenfeng) - OS2.0.105.0.VNJCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
+            <pubDate>Fri, 18 Apr 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS1.0.19.0.ULFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/diting/</link>
+            <pubDate>Fri, 18 Apr 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 Pro (haotian) - OS2.0.116.0.VOBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/haotian/</link>
             <pubDate>Fri, 18 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -484,11 +494,6 @@
         <item>
             <title>Xiaomi 15 (dada) - OS2.0.107.0.VOCINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dada/</link>
-            <pubDate>Thu, 03 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 Pro (haotian) - OS2.0.112.0.VOBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/haotian/</link>
             <pubDate>Thu, 03 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1080,11 +1085,6 @@
             <title>Redmi Note 12 4G (tapas) - OS2.0.3.0.VMTINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tapas/</link>
             <pubDate>Wed, 12 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 4 Pro (chenfeng) - OS2.0.104.0.VNJCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
-            <pubDate>Tue, 11 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS1.0.14.0.UKOINXM</title>
