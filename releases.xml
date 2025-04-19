@@ -4,16 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 19 Apr 2025 01:49:49 </lastBuildDate>
+        <lastBuildDate>Sat, 19 Apr 2025 07:31:30 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS2.0.2.0.VLFEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/diting/</link>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi Civi 4 Pro (chenfeng) - OS2.0.105.0.VNJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
-            <pubDate>Fri, 18 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS1.0.19.0.ULFEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/diting/</link>
             <pubDate>Fri, 18 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>

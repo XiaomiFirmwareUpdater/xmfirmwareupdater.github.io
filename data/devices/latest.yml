@@ -1479,15 +1479,15 @@
     android: '15.0'
     miui: OS2.0.5.0.VLFCNXM
 - branch: stable
-  date: '2025-04-18'
+  date: '2025-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-18.04.2025/fw_diting_miui_DITINGEEAGlobal_OS1.0.19.0.ULFEUXM_b62fd965e7_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/diting/fw_diting_miui_DITINGEEAGlobal_OS1.0.19.0.ULFEUXM_b62fd965e7_14.0.zip
-  filename: fw_diting_miui_DITINGEEAGlobal_OS1.0.19.0.ULFEUXM_b62fd965e7_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-19.04.2025/fw_diting_eea_global_diting_eea_global-ota_full-OS2.0.2.0.VLFEUXM-user-15.0-13fb4934fd.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/diting/fw_diting_eea_global_diting_eea_global-ota_full-OS2.0.2.0.VLFEUXM-user-15.0-13fb4934fd.zip
+  filename: fw_diting_eea_global_diting_eea_global-ota_full-OS2.0.2.0.VLFEUXM-user-15.0-13fb4934fd.zip
   region: Europe
   versions:
-    android: '14.0'
-    miui: OS1.0.19.0.ULFEUXM
+    android: '15.0'
+    miui: OS2.0.2.0.VLFEUXM
 - branch: stable
   date: '2025-03-24'
   downloads:
