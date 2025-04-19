@@ -1812,6 +1812,12 @@
   version: OS2.0.104.0.VOCCNXM
 - android: '15.0'
   codename: dada
+  date: '2025-04-19'
+  download: https://bigota.d.miui.com/OS2.0.116.0.VOCCNXM/fw_dada_dada-ota_full-OS2.0.116.0.VOCCNXM-user-15.0-5315ce10b7.zip
+  name: Xiaomi 15
+  version: OS2.0.116.0.VOCCNXM
+- android: '15.0'
+  codename: dada
   date: '2025-03-17'
   download: https://bigota.d.miui.com/OS2.0.107.0.VOCMIXM/fw_dada_global_dada_global-ota_full-OS2.0.107.0.VOCMIXM-user-15.0-323e54d0d4.zip
   name: Xiaomi 15

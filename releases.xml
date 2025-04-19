@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 19 Apr 2025 13:09:20 </lastBuildDate>
+        <lastBuildDate>Sat, 19 Apr 2025 19:25:16 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 15 (dada) - OS2.0.116.0.VOCCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS2.0.2.0.VLFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/diting/</link>
@@ -299,11 +304,6 @@
         <item>
             <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS2.0.5.0.VNUINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
-            <pubDate>Tue, 08 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 (dada) - OS2.0.110.0.VOCCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
             <pubDate>Tue, 08 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
