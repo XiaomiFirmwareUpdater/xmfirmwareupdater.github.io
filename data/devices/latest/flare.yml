@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-02-10'
+  date: '2025-04-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flare/releases/download/stable-10.02.2025/fw_flare_global_flare_global-ota_full-OS2.0.1.0.VHXMIXM-user-15.0-f4b05c0782.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/flare/fw_flare_global_flare_global-ota_full-OS2.0.1.0.VHXMIXM-user-15.0-f4b05c0782.zip
-  filename: fw_flare_global_flare_global-ota_full-OS2.0.1.0.VHXMIXM-user-15.0-f4b05c0782.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flare/releases/download/stable-21.04.2025/fw_flare_global_flare_global-ota_full-OS2.0.3.0.VHXMIXM-user-15.0-f43e5c2a05.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/flare/fw_flare_global_flare_global-ota_full-OS2.0.3.0.VHXMIXM-user-15.0-f43e5c2a05.zip
+  filename: fw_flare_global_flare_global-ota_full-OS2.0.3.0.VHXMIXM-user-15.0-f43e5c2a05.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.1.0.VHXMIXM
+    miui: OS2.0.3.0.VHXMIXM
 - branch: stable
   date: '2025-03-04'
   downloads:

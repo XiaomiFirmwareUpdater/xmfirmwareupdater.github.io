@@ -52,10 +52,9 @@ permalink: /hyperos/matisse/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.ULKCNXM</td><td>14.0</td><td>7.4 GB</td><td>2025-03-03</td><td><a href="/hyperos/matisse/stable/OS2.0.1.0.ULKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.ULKCNXM</td><td>14.0</td><td>6.2 GB</td><td>2025-03-24</td><td><a href="/hyperos/matisse/stable/OS2.0.1.0.ULKCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.ULKCNXM</td><td>14.0</td><td>7.4 GB</td><td>2025-04-01</td><td><a href="/hyperos/matisse/stable/OS2.0.2.0.ULKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.ULKCNXM</td><td>14.0</td><td>6.2 GB</td><td>2025-04-08</td><td><a href="/hyperos/matisse/stable/OS2.0.2.0.ULKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>6.0 GB</td><td>2024-01-12</td><td><a href="/hyperos/matisse/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
-<tr><td>Redmi K50 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.2.0.ULKCNXM</td><td>14.0</td><td>6.2 GB</td><td>2025-04-08</td><td><a href="/hyperos/matisse/stable beta/OS2.0.2.0.ULKCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

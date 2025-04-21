@@ -52,9 +52,8 @@ permalink: /hyperos/munch/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K40S China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.ULMCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-12-16</td><td><a href="/hyperos/munch/stable/OS1.0.8.0.ULMCNXM/">Download</a></td></tr>
-<tr><td>Redmi K40S China</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.ULMCNXM</td><td>14.0</td><td>5.4 GB</td><td>2025-01-03</td><td><a href="/hyperos/munch/stable/OS1.0.8.0.ULMCNXM/">Download</a></td></tr>
-<tr><td>Redmi K40S China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.10.0.ULMCNXM</td><td>14.0</td><td>5.4 GB</td><td>2025-04-10</td><td><a href="/hyperos/munch/stable beta/OS1.0.10.0.ULMCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K40S China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.ULMCNXM</td><td>14.0</td><td>6.4 GB</td><td>2025-04-02</td><td><a href="/hyperos/munch/stable/OS1.0.10.0.ULMCNXM/">Download</a></td></tr>
+<tr><td>Redmi K40S China</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.ULMCNXM</td><td>14.0</td><td>5.4 GB</td><td>2025-04-10</td><td><a href="/hyperos/munch/stable/OS1.0.10.0.ULMCNXM/">Download</a></td></tr>
 <tr><td>POCO F4 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.ULMEUXM</td><td>14.0</td><td>6.0 GB</td><td>2024-12-18</td><td><a href="/hyperos/munch/stable/OS1.0.7.0.ULMEUXM/">Download</a></td></tr>
 <tr><td>POCO F4 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.ULMEUXM</td><td>14.0</td><td>4.7 GB</td><td>2025-01-13</td><td><a href="/hyperos/munch/stable/OS1.0.7.0.ULMEUXM/">Download</a></td></tr>
 <tr><td>POCO F4 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.ULMMIXM</td><td>14.0</td><td>6.4 GB</td><td>2024-12-16</td><td><a href="/hyperos/munch/stable/OS1.0.8.0.ULMMIXM/">Download</a></td></tr>

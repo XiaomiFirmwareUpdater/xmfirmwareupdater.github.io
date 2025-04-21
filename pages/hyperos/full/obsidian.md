@@ -52,7 +52,8 @@ permalink: /archive/hyperos/obsidian/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 14 Pro 4G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UOFTRXM</td><td>14.0</td><td>4.6 GB</td><td>2025-03-22</td><td><a href="/hyperos/obsidian/stable/OS1.0.4.0.UOFTRXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 14 Pro 4G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.UOFEUXM</td><td>14.0</td><td>4.6 GB</td><td>2025-04-17</td><td><a href="/hyperos/obsidian/stable beta/OS1.0.6.0.UOFEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro 4G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UOFTRXM</td><td>14.0</td><td>4.6 GB</td><td>2025-03-22</td><td><a href="/hyperos/obsidian/stable/OS1.0.4.0.UOFTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 4G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UOFTRXM</td><td>14.0</td><td>6.8 GB</td><td>2025-03-18</td><td><a href="/hyperos/obsidian/stable/OS1.0.4.0.UOFTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 4G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UOFRUXM</td><td>14.0</td><td>4.5 GB</td><td>2025-03-22</td><td><a href="/hyperos/obsidian/stable/OS1.0.5.0.UOFRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 4G Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UOFRUXM</td><td>14.0</td><td>7.8 GB</td><td>2025-03-18</td><td><a href="/hyperos/obsidian/stable/OS1.0.5.0.UOFRUXM/">Download</a></td></tr>
