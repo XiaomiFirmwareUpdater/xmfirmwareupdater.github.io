@@ -69,6 +69,7 @@ permalink: /hyperos/amethyst/
 <tr><td>Redmi Note 14 Pro+ 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UOPTRXM</td><td>14.0</td><td>5.3 GB</td><td>2025-03-12</td><td><a href="/hyperos/amethyst/stable/OS1.0.3.0.UOPTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro+ 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UOPTWXM</td><td>14.0</td><td>7.2 GB</td><td>2025-03-14</td><td><a href="/hyperos/amethyst/stable/OS1.0.5.0.UOPTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro+ 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UOPTWXM</td><td>14.0</td><td>5.3 GB</td><td>2025-03-26</td><td><a href="/hyperos/amethyst/stable/OS1.0.5.0.UOPTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro+ 5G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.2.0.VOPTRXM</td><td>15.0</td><td>5.6 GB</td><td>2025-04-21</td><td><a href="/hyperos/amethyst/stable beta/OS2.0.2.0.VOPTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

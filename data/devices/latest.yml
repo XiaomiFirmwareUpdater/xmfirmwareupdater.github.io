@@ -1809,15 +1809,15 @@
     android: '14.0'
     miui: OS1.0.16.0.UGUCNXM
 - branch: stable
-  date: '2025-02-24'
+  date: '2025-04-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flame/releases/download/stable-24.02.2025/fw_flame_miui_FLAMEINGlobal_OS1.0.4.0.UGUINXM_5e89d7a0b7_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/flame/fw_flame_miui_FLAMEINGlobal_OS1.0.4.0.UGUINXM_5e89d7a0b7_14.0.zip
-  filename: fw_flame_miui_FLAMEINGlobal_OS1.0.4.0.UGUINXM_5e89d7a0b7_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flame/releases/download/stable-21.04.2025/fw_flame_miui_FLAMEINGlobal_OS1.0.5.0.UGUINXM_93c01860cd_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/flame/fw_flame_miui_FLAMEINGlobal_OS1.0.5.0.UGUINXM_93c01860cd_14.0.zip
+  filename: fw_flame_miui_FLAMEINGlobal_OS1.0.5.0.UGUINXM_93c01860cd_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.UGUINXM
+    miui: OS1.0.5.0.UGUINXM
 - branch: stable
   date: '2025-04-21'
   downloads:
@@ -2189,15 +2189,15 @@
     android: '15.0'
     miui: OS2.0.2.0.VNQCNXM
 - branch: stable
-  date: '2025-03-03'
+  date: '2025-04-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-03.03.2025/fw_gold_eea_global_gold_eea_global-ota_full-OS2.0.1.0.VNQEUXM-user-15.0-9c93b38257.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gold/fw_gold_eea_global_gold_eea_global-ota_full-OS2.0.1.0.VNQEUXM-user-15.0-9c93b38257.zip
-  filename: fw_gold_eea_global_gold_eea_global-ota_full-OS2.0.1.0.VNQEUXM-user-15.0-9c93b38257.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-21.04.2025/fw_gold_eea_global_gold_eea_global-ota_full-OS2.0.4.0.VNQEUXM-user-15.0-01309676cf.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gold/fw_gold_eea_global_gold_eea_global-ota_full-OS2.0.4.0.VNQEUXM-user-15.0-01309676cf.zip
+  filename: fw_gold_eea_global_gold_eea_global-ota_full-OS2.0.4.0.VNQEUXM-user-15.0-01309676cf.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.1.0.VNQEUXM
+    miui: OS2.0.4.0.VNQEUXM
 - branch: stable
   date: '2025-03-31'
   downloads:
@@ -3209,15 +3209,15 @@
     android: '15.0'
     miui: OS2.0.10.0.VOOCNXM
 - branch: stable
-  date: '2025-04-03'
+  date: '2025-04-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-03.04.2025/fw_malachite_miui_MALACHITEEEAGlobal_OS1.0.11.0.UOOEUXM_090da2e585_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/malachite/fw_malachite_miui_MALACHITEEEAGlobal_OS1.0.11.0.UOOEUXM_090da2e585_14.0.zip
-  filename: fw_malachite_miui_MALACHITEEEAGlobal_OS1.0.11.0.UOOEUXM_090da2e585_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-21.04.2025/fw_malachite_miui_MALACHITEEEAGlobal_OS1.0.13.0.UOOEUXM_99a562965d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/malachite/fw_malachite_miui_MALACHITEEEAGlobal_OS1.0.13.0.UOOEUXM_99a562965d_14.0.zip
+  filename: fw_malachite_miui_MALACHITEEEAGlobal_OS1.0.13.0.UOOEUXM_99a562965d_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.11.0.UOOEUXM
+    miui: OS1.0.13.0.UOOEUXM
 - branch: stable
   date: '2025-04-08'
   downloads:
