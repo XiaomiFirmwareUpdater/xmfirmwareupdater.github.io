@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-03-04'
+  date: '2025-04-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-04.03.2025/fw_earth_miui_EARTHGlobal_OS1.0.9.0.UCVMIXM_7a833889b8_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHGlobal_OS1.0.9.0.UCVMIXM_7a833889b8_14.0.zip
-  filename: fw_earth_miui_EARTHGlobal_OS1.0.9.0.UCVMIXM_7a833889b8_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-21.04.2025/fw_earth_miui_EARTHGlobal_OS1.0.10.0.UCVMIXM_66190b76e6_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHGlobal_OS1.0.10.0.UCVMIXM_66190b76e6_14.0.zip
+  filename: fw_earth_miui_EARTHGlobal_OS1.0.10.0.UCVMIXM_66190b76e6_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.9.0.UCVMIXM
+    miui: OS1.0.10.0.UCVMIXM
 - branch: stable
   date: '2025-04-21'
   downloads:
@@ -19,15 +19,15 @@
     android: '14.0'
     miui: OS1.0.6.0.UCVCNXM
 - branch: stable
-  date: '2025-02-25'
+  date: '2025-04-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-25.02.2025/fw_earth_miui_EARTHEEAGlobal_OS1.0.8.0.UCVEUXM_3a40edbd1d_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHEEAGlobal_OS1.0.8.0.UCVEUXM_3a40edbd1d_14.0.zip
-  filename: fw_earth_miui_EARTHEEAGlobal_OS1.0.8.0.UCVEUXM_3a40edbd1d_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-21.04.2025/fw_earth_miui_EARTHEEAGlobal_OS1.0.9.0.UCVEUXM_61dcf0e024_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHEEAGlobal_OS1.0.9.0.UCVEUXM_61dcf0e024_14.0.zip
+  filename: fw_earth_miui_EARTHEEAGlobal_OS1.0.9.0.UCVEUXM_61dcf0e024_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.8.0.UCVEUXM
+    miui: OS1.0.9.0.UCVEUXM
 - branch: stable
   date: '2025-03-03'
   downloads:
