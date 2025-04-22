@@ -4619,15 +4619,15 @@
     android: '14.0'
     miui: OS2.0.3.0.UMSEUXM
 - branch: stable
-  date: '2025-03-21'
+  date: '2025-04-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-21.03.2025/fw_redwood_miui_REDWOODINGlobal_OS1.0.14.0.UMSINXM_b53d2f410f_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/redwood/fw_redwood_miui_REDWOODINGlobal_OS1.0.14.0.UMSINXM_b53d2f410f_14.0.zip
-  filename: fw_redwood_miui_REDWOODINGlobal_OS1.0.14.0.UMSINXM_b53d2f410f_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-22.04.2025/fw_redwood_in_global_redwood_in_global-ota_full-OS2.0.3.0.UMSINXM-user-14.0-128c6f4440.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/redwood/fw_redwood_in_global_redwood_in_global-ota_full-OS2.0.3.0.UMSINXM-user-14.0-128c6f4440.zip
+  filename: fw_redwood_in_global_redwood_in_global-ota_full-OS2.0.3.0.UMSINXM-user-14.0-128c6f4440.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.14.0.UMSINXM
+    miui: OS2.0.3.0.UMSINXM
 - branch: stable
   date: '2025-03-28'
   downloads:
