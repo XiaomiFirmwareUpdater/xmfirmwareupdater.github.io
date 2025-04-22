@@ -354,6 +354,12 @@
   version: OS1.0.5.0.UOPMIXM
 - android: '14.0'
   codename: amethyst
+  date: '2025-04-22'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UOPEUXM/fw_amethyst_miui_AMETHYSTEEAGlobal_OS1.0.10.0.UOPEUXM_b06f91b032_14.0.zip
+  name: Redmi Note 14 Pro+ 5G
+  version: OS1.0.10.0.UOPEUXM
+- android: '14.0'
+  codename: amethyst
   date: '2024-12-21'
   download: https://bigota.d.miui.com/OS1.0.2.0.UOPINXM/fw_amethyst_miui_AMETHYSTINGlobal_OS1.0.2.0.UOPINXM_fda0b4b09f_14.0.zip
   name: Redmi Note 14 Pro+ 5G
