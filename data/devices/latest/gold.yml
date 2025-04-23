@@ -29,12 +29,12 @@
     android: '15.0'
     miui: OS2.0.4.0.VNQEUXM
 - branch: stable
-  date: '2025-03-31'
+  date: '2025-04-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-31.03.2025/fw_gold_miui_GOLDINGlobal_OS1.0.17.0.UNQINXM_d9ae4ffbdb_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/gold/fw_gold_miui_GOLDINGlobal_OS1.0.17.0.UNQINXM_d9ae4ffbdb_14.0.zip
-  filename: fw_gold_miui_GOLDINGlobal_OS1.0.17.0.UNQINXM_d9ae4ffbdb_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-24.04.2025/fw_gold_in_global_gold_in_global-ota_full-OS2.0.4.0.VNQINXM-user-15.0-4b254f2c43.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gold/fw_gold_in_global_gold_in_global-ota_full-OS2.0.4.0.VNQINXM-user-15.0-4b254f2c43.zip
+  filename: fw_gold_in_global_gold_in_global-ota_full-OS2.0.4.0.VNQINXM-user-15.0-4b254f2c43.zip
   region: India
   versions:
-    android: '14.0'
-    miui: OS1.0.17.0.UNQINXM
+    android: '15.0'
+    miui: OS2.0.4.0.VNQINXM

@@ -1109,15 +1109,15 @@
     android: '15.0'
     miui: OS2.0.102.0.VMLMIXM
 - branch: stable
-  date: '2025-04-10'
+  date: '2025-04-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-10.04.2025/fw_corot_corot-ota_full-OS2.0.106.0.VMLCNXM-user-15.0-97bf6ba933.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/corot/fw_corot_corot-ota_full-OS2.0.106.0.VMLCNXM-user-15.0-97bf6ba933.zip
-  filename: fw_corot_corot-ota_full-OS2.0.106.0.VMLCNXM-user-15.0-97bf6ba933.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-24.04.2025/fw_corot_corot-ota_full-OS2.0.107.0.VMLCNXM-user-15.0-215c833c40.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/corot/fw_corot_corot-ota_full-OS2.0.107.0.VMLCNXM-user-15.0-215c833c40.zip
+  filename: fw_corot_corot-ota_full-OS2.0.107.0.VMLCNXM-user-15.0-215c833c40.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.106.0.VMLCNXM
+    miui: OS2.0.107.0.VMLCNXM
 - branch: stable
   date: '2025-03-18'
   downloads:
@@ -1539,15 +1539,15 @@
     android: '15.0'
     miui: OS2.0.101.0.VNLMIXM
 - branch: stable
-  date: '2025-03-10'
+  date: '2025-04-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-10.03.2025/fw_duchamp_duchamp-ota_full-OS2.0.105.0.VNLCNXM-user-15.0-4f7d3a6230.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/duchamp/fw_duchamp_duchamp-ota_full-OS2.0.105.0.VNLCNXM-user-15.0-4f7d3a6230.zip
-  filename: fw_duchamp_duchamp-ota_full-OS2.0.105.0.VNLCNXM-user-15.0-4f7d3a6230.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-24.04.2025/fw_duchamp_duchamp-ota_full-OS2.0.108.0.VNLCNXM-user-15.0-5fb1b02029.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/duchamp/fw_duchamp_duchamp-ota_full-OS2.0.108.0.VNLCNXM-user-15.0-5fb1b02029.zip
+  filename: fw_duchamp_duchamp-ota_full-OS2.0.108.0.VNLCNXM-user-15.0-5fb1b02029.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.105.0.VNLCNXM
+    miui: OS2.0.108.0.VNLCNXM
 - branch: stable
   date: '2025-03-21'
   downloads:
@@ -2199,15 +2199,15 @@
     android: '15.0'
     miui: OS2.0.4.0.VNQEUXM
 - branch: stable
-  date: '2025-03-31'
+  date: '2025-04-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-31.03.2025/fw_gold_miui_GOLDINGlobal_OS1.0.17.0.UNQINXM_d9ae4ffbdb_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/gold/fw_gold_miui_GOLDINGlobal_OS1.0.17.0.UNQINXM_d9ae4ffbdb_14.0.zip
-  filename: fw_gold_miui_GOLDINGlobal_OS1.0.17.0.UNQINXM_d9ae4ffbdb_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-24.04.2025/fw_gold_in_global_gold_in_global-ota_full-OS2.0.4.0.VNQINXM-user-15.0-4b254f2c43.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gold/fw_gold_in_global_gold_in_global-ota_full-OS2.0.4.0.VNQINXM-user-15.0-4b254f2c43.zip
+  filename: fw_gold_in_global_gold_in_global-ota_full-OS2.0.4.0.VNQINXM-user-15.0-4b254f2c43.zip
   region: India
   versions:
-    android: '14.0'
-    miui: OS1.0.17.0.UNQINXM
+    android: '15.0'
+    miui: OS2.0.4.0.VNQINXM
 - branch: stable
   date: '2023-07-24'
   downloads:
