@@ -2437,6 +2437,18 @@
 - android: '15.0'
   codename: dizi
   date: '2025-04-25'
+  download: https://bigota.d.miui.com/OS2.0.5.0.VNSCNXM/fw_dizi_dizi-ota_full-OS2.0.5.0.VNSCNXM-user-15.0-0ae8a985c5.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS2.0.5.0.VNSCNXM
+- android: '15.0'
+  codename: dizi
+  date: '2025-04-25'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VNSMIXM/fw_dizi_global_dizi_global-ota_full-OS2.0.4.0.VNSMIXM-user-15.0-93f1a5b87a.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS2.0.4.0.VNSMIXM
+- android: '15.0'
+  codename: dizi
+  date: '2025-04-25'
   download: https://bigota.d.miui.com/OS2.0.4.0.VNSINXM/fw_dizi_in_global_dizi_in_global-ota_full-OS2.0.4.0.VNSINXM-user-15.0-f69a0a0a32.zip
   name: Redmi Pad Pro/POCO Pad
   version: OS2.0.4.0.VNSINXM
@@ -3142,6 +3154,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.6.0.UNFMIXM_0f0c0947bc_14.0.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.6.0.UNFMIXM
+- android: '14.0'
+  codename: emeraldr
+  date: '2025-04-25'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UFOMIXM/fw_emeraldr_miui_EMERALDRGlobal_OS1.0.6.0.UFOMIXM_c01fdf7c83_14.0.zip
+  name: POCO M6 Pro
+  version: OS1.0.6.0.UFOMIXM
 - android: '14.0'
   codename: emeraldr
   date: '2025-03-25'
@@ -11056,6 +11074,12 @@
   download: https://bigota.d.miui.com/OS1.0.11.0.UHZMIXM/fw_sea_miui_SEAGlobal_OS1.0.11.0.UHZMIXM_e1fd4e0c6d_14.0.zip
   name: Redmi Note 12S
   version: OS1.0.11.0.UHZMIXM
+- android: '15.0'
+  codename: sea
+  date: '2025-04-25'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VHZEUXM/fw_sea_eea_global_sea_eea_global-ota_full-OS2.0.4.0.VHZEUXM-user-15.0-7b343b1fa7.zip
+  name: Redmi Note 12S
+  version: OS2.0.4.0.VHZEUXM
 - android: '15.0'
   codename: sea
   date: '2025-03-25'
