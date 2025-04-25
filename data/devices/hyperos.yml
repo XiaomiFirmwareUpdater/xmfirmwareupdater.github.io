@@ -156,6 +156,12 @@
   version: OS1.0.5.0.UGQMIXM
 - android: '15.0'
   codename: air
+  date: '2025-04-25'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VGQCNXM/fw_air_air-ota_full-OS2.0.2.0.VGQCNXM-user-15.0-93d776ddda.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS2.0.2.0.VGQCNXM
+- android: '15.0'
+  codename: air
   date: '2025-03-24'
   download: https://bigota.d.miui.com/OS2.0.1.0.VGQINXM/fw_air_in_global_air_in_global-ota_full-OS2.0.1.0.VGQINXM-user-15.0-96f99c55c6.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
@@ -7332,6 +7338,12 @@
   version: OS1.0.6.0.UNTMIXM
 - android: '14.0'
   codename: moon
+  date: '2025-04-25'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UNTMIXM/fw_moon_miui_MOONGlobal_OS1.0.10.0.UNTMIXM_642e268a4b_14.0.zip
+  name: Redmi 13/POCO M6
+  version: OS1.0.10.0.UNTMIXM
+- android: '14.0'
+  codename: moon
   date: '2024-11-22'
   download: https://bigota.d.miui.com/OS1.0.8.0.UNTMIXM/fw_moon_miui_MOONGlobal_OS1.0.8.0.UNTMIXM_33874dce35_14.0.zip
   name: Redmi 13/POCO M6
@@ -7654,6 +7666,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.ULMEUXM/fw_munch_miui_MUNCHEEAGlobal_OS1.0.5.0.ULMEUXM_631d511ff4_14.0.zip
   name: Redmi K40S/POCO F4
   version: OS1.0.5.0.ULMEUXM
+- android: '14.0'
+  codename: munch
+  date: '2025-04-25'
+  download: https://bigota.d.miui.com/OS1.0.8.0.ULMEUXM/fw_munch_miui_MUNCHEEAGlobal_OS1.0.8.0.ULMEUXM_de36f8362c_14.0.zip
+  name: Redmi K40S/POCO F4
+  version: OS1.0.8.0.ULMEUXM
 - android: '14.0'
   codename: munch
   date: '2025-04-25'
@@ -8320,6 +8338,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UKMCNXM/fw_odin_miui_ODIN_OS1.0.2.0.UKMCNXM_af3b0d3530_14.0.zip
   name: MIX 4
   version: OS1.0.2.0.UKMCNXM
+- android: '15.0'
+  codename: onyx
+  date: '2025-04-25'
+  download: https://bigota.d.miui.com/OS2.0.114.0.VOLCNXM/fw_onyx_onyx-ota_full-OS2.0.114.0.VOLCNXM-user-15.0-4ff83d67a1.zip
+  name: Redmi Turbo 4 Pro
+  version: OS2.0.114.0.VOLCNXM
 - android: '13.0'
   codename: opal
   date: '2024-08-25'
@@ -9804,6 +9828,12 @@
   version: OS2.0.13.0.VOJEUXM
 - android: '15.0'
   codename: rodin
+  date: '2025-04-25'
+  download: https://bigota.d.miui.com/OS2.0.101.0.VOJINXM/fw_rodin_in_global_rodin_in_global-ota_full-OS2.0.101.0.VOJINXM-user-15.0-cc9f86000b.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.101.0.VOJINXM
+- android: '15.0'
+  codename: rodin
   date: '2025-02-25'
   download: https://bigota.d.miui.com/OS2.0.10.0.VOJMIXM/fw_rodin_global_rodin_global-ota_full-OS2.0.10.0.VOJMIXM-user-15.0-eed6f9b94d.zip
   name: Redmi Turbo 4/POCO X7 Pro
@@ -11182,6 +11212,12 @@
   download: https://bigota.d.miui.com/OS2.0.7.0.VNXMIXM/fw_sheng_global_sheng_global-ota_full-OS2.0.7.0.VNXMIXM-user-15.0-1b4f7cf2cd.zip
   name: Xiaomi Pad 6S Pro 12.4
   version: OS2.0.7.0.VNXMIXM
+- android: '15.0'
+  codename: sheng
+  date: '2025-04-25'
+  download: https://bigota.d.miui.com/OS2.0.111.0.VNXCNXM/fw_sheng_sheng-ota_full-OS2.0.111.0.VNXCNXM-user-15.0-d4263498e1.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS2.0.111.0.VNXCNXM
 - android: '15.0'
   codename: sheng
   date: '2025-03-25'
@@ -15136,6 +15172,12 @@
   download: https://bigota.d.miui.com/OS1.0.11.0.ULLCNXM/fw_ziyi_miui_ZIYI_OS1.0.11.0.ULLCNXM_7264b8c00d_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.11.0.ULLCNXM
+- android: '15.0'
+  codename: ziyi
+  date: '2025-04-25'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VLLMIXM/fw_ziyi_global_ziyi_global-ota_full-OS2.0.3.0.VLLMIXM-user-15.0-5aca7b8c87.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS2.0.3.0.VLLMIXM
 - android: '14.0'
   codename: ziyi
   date: '2024-10-24'
@@ -15388,6 +15430,12 @@
   download: https://bigota.d.miui.com/OS2.0.103.0.VOKMIXM/fw_zorn_global_zorn_global-ota_full-OS2.0.103.0.VOKMIXM-user-15.0-aea6f4fbfd.zip
   name: Redmi K80/POCO F7 Pro
   version: OS2.0.103.0.VOKMIXM
+- android: '15.0'
+  codename: zorn
+  date: '2025-04-25'
+  download: https://bigota.d.miui.com/OS2.0.108.0.VOKEUXM/fw_zorn_eea_global_zorn_eea_global-ota_full-OS2.0.108.0.VOKEUXM-user-15.0-b3e595cb50.zip
+  name: Redmi K80/POCO F7 Pro
+  version: OS2.0.108.0.VOKEUXM
 - android: '15.0'
   codename: zorn
   date: '2025-03-24'

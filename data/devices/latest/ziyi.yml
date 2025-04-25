@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-03-03'
+  date: '2025-04-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-03.03.2025/fw_ziyi_global_ziyi_global-ota_full-OS2.0.2.0.VLLMIXM-user-15.0-668a0581d7.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ziyi/fw_ziyi_global_ziyi_global-ota_full-OS2.0.2.0.VLLMIXM-user-15.0-668a0581d7.zip
-  filename: fw_ziyi_global_ziyi_global-ota_full-OS2.0.2.0.VLLMIXM-user-15.0-668a0581d7.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-25.04.2025/fw_ziyi_global_ziyi_global-ota_full-OS2.0.3.0.VLLMIXM-user-15.0-5aca7b8c87.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ziyi/fw_ziyi_global_ziyi_global-ota_full-OS2.0.3.0.VLLMIXM-user-15.0-5aca7b8c87.zip
+  filename: fw_ziyi_global_ziyi_global-ota_full-OS2.0.3.0.VLLMIXM-user-15.0-5aca7b8c87.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.2.0.VLLMIXM
+    miui: OS2.0.3.0.VLLMIXM
 - branch: stable
   date: '2025-04-07'
   downloads:

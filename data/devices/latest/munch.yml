@@ -19,15 +19,15 @@
     android: '14.0'
     miui: OS1.0.10.0.ULMCNXM
 - branch: stable
-  date: '2025-01-16'
+  date: '2025-04-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-16.01.2025/fw_munch_miui_MUNCHEEAGlobal_OS1.0.7.0.ULMEUXM_c40c919fc6_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/munch/fw_munch_miui_MUNCHEEAGlobal_OS1.0.7.0.ULMEUXM_c40c919fc6_14.0.zip
-  filename: fw_munch_miui_MUNCHEEAGlobal_OS1.0.7.0.ULMEUXM_c40c919fc6_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-25.04.2025/fw_munch_miui_MUNCHEEAGlobal_OS1.0.8.0.ULMEUXM_de36f8362c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/munch/fw_munch_miui_MUNCHEEAGlobal_OS1.0.8.0.ULMEUXM_de36f8362c_14.0.zip
+  filename: fw_munch_miui_MUNCHEEAGlobal_OS1.0.8.0.ULMEUXM_de36f8362c_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.7.0.ULMEUXM
+    miui: OS1.0.8.0.ULMEUXM
 - branch: stable
   date: '2025-04-25'
   downloads:
