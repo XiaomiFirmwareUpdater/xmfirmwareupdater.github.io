@@ -119,15 +119,15 @@
     android: '15.0'
     miui: OS2.0.2.0.VOPMIXM
 - branch: stable
-  date: '2025-04-11'
+  date: '2025-04-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-11.04.2025/fw_amethyst_miui_AMETHYST_OS1.0.26.0.UOPCNXM_b0e91a9dd1_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/amethyst/fw_amethyst_miui_AMETHYST_OS1.0.26.0.UOPCNXM_b0e91a9dd1_14.0.zip
-  filename: fw_amethyst_miui_AMETHYST_OS1.0.26.0.UOPCNXM_b0e91a9dd1_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-26.04.2025/fw_amethyst_amethyst-ota_full-OS2.0.10.0.VOPCNXM-user-15.0-12182e8372.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/amethyst/fw_amethyst_amethyst-ota_full-OS2.0.10.0.VOPCNXM-user-15.0-12182e8372.zip
+  filename: fw_amethyst_amethyst-ota_full-OS2.0.10.0.VOPCNXM-user-15.0-12182e8372.zip
   region: China
   versions:
-    android: '14.0'
-    miui: OS1.0.26.0.UOPCNXM
+    android: '15.0'
+    miui: OS2.0.10.0.VOPCNXM
 - branch: stable
   date: '2025-04-22'
   downloads:
@@ -3639,15 +3639,15 @@
     android: '15.0'
     miui: OS2.0.103.0.VOYMIXM
 - branch: stable
-  date: '2025-03-20'
+  date: '2025-04-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_muyu/releases/download/stable-20.03.2025/fw_muyu_muyu-ota_full-OS2.0.106.0.VOYCNXM-user-15.0-818b5e7259.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/muyu/fw_muyu_muyu-ota_full-OS2.0.106.0.VOYCNXM-user-15.0-818b5e7259.zip
-  filename: fw_muyu_muyu-ota_full-OS2.0.106.0.VOYCNXM-user-15.0-818b5e7259.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_muyu/releases/download/stable-26.04.2025/fw_muyu_muyu-ota_full-OS2.0.107.0.VOYCNXM-user-15.0-95a1f67bff.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/muyu/fw_muyu_muyu-ota_full-OS2.0.107.0.VOYCNXM-user-15.0-95a1f67bff.zip
+  filename: fw_muyu_muyu-ota_full-OS2.0.107.0.VOYCNXM-user-15.0-95a1f67bff.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.106.0.VOYCNXM
+    miui: OS2.0.107.0.VOYCNXM
 - branch: stable
   date: '2025-04-02'
   downloads:
