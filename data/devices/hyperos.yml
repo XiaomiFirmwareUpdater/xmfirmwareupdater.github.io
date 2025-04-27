@@ -11844,6 +11844,12 @@
   version: OS1.0.8.0.UMKCNXM
 - android: '15.0'
   codename: socrates
+  date: '2025-04-27'
+  download: https://bigota.d.miui.com/OS2.0.106.0.VMKCNXM/fw_socrates_socrates-ota_full-OS2.0.106.0.VMKCNXM-user-15.0-ba098e2aa1.zip
+  name: Redmi K60 Pro
+  version: OS2.0.106.0.VMKCNXM
+- android: '15.0'
+  codename: socrates
   date: '2025-03-26'
   download: https://bigota.d.miui.com/OS2.0.103.0.VMKCNXM/fw_socrates_socrates-ota_full-OS2.0.103.0.VMKCNXM-user-15.0-159f4f86b2.zip
   name: Redmi K60 Pro

@@ -52,7 +52,8 @@ permalink: /archive/hyperos/socrates/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.103.0.VMKCNXM</td><td>15.0</td><td>8.1 GB</td><td>2025-03-31</td><td><a href="/hyperos/socrates/stable/OS2.0.103.0.VMKCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K60 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.106.0.VMKCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-04-25</td><td><a href="/hyperos/socrates/stable beta/OS2.0.106.0.VMKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.103.0.VMKCNXM</td><td>15.0</td><td>8.1 GB</td><td>2025-03-31</td><td><a href="/hyperos/socrates/stable/OS2.0.103.0.VMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.103.0.VMKCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-03-24</td><td><a href="/hyperos/socrates/stable/OS2.0.103.0.VMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VMKCNXM</td><td>15.0</td><td>8.1 GB</td><td>2025-02-14</td><td><a href="/hyperos/socrates/stable/OS2.0.102.0.VMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VMKCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-02-07</td><td><a href="/hyperos/socrates/stable/OS2.0.102.0.VMKCNXM/">Download</a></td></tr>
