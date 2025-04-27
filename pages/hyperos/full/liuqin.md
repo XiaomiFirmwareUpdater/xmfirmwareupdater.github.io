@@ -52,7 +52,8 @@ permalink: /archive/hyperos/liuqin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 6 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.6.0.VMYCNXM</td><td>15.0</td><td>6.1 GB</td><td>2025-03-25</td><td><a href="/hyperos/liuqin/stable/OS2.0.6.0.VMYCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 6 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.8.0.VMYCNXM</td><td>15.0</td><td>6.1 GB</td><td>2025-04-25</td><td><a href="/hyperos/liuqin/stable beta/OS2.0.8.0.VMYCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.6.0.VMYCNXM</td><td>15.0</td><td>6.1 GB</td><td>2025-03-25</td><td><a href="/hyperos/liuqin/stable/OS2.0.6.0.VMYCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.6.0.VMYCNXM</td><td>15.0</td><td>7.1 GB</td><td>2025-03-18</td><td><a href="/hyperos/liuqin/stable/OS2.0.6.0.VMYCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.VMYCNXM</td><td>15.0</td><td>6.1 GB</td><td>2025-03-06</td><td><a href="/hyperos/liuqin/stable/OS2.0.5.0.VMYCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.5.0.VMYCNXM</td><td>15.0</td><td>7.1 GB</td><td>2025-02-27</td><td><a href="/hyperos/liuqin/stable/OS2.0.5.0.VMYCNXM/">Download</a></td></tr>

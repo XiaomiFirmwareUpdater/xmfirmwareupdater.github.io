@@ -12,6 +12,12 @@
   version: OS1.0.8.0.UKWMIXM
 - android: '14.0'
   codename: agate
+  date: '2025-04-27'
+  download: https://bigota.d.miui.com/OS1.0.14.0.UKWMIXM/fw_agate_miui_AGATEGlobal_OS1.0.14.0.UKWMIXM_2a7bba7e75_14.0.zip
+  name: Xiaomi 11T
+  version: OS1.0.14.0.UKWMIXM
+- android: '14.0'
+  codename: agate
   date: '2025-02-27'
   download: https://bigota.d.miui.com/OS1.0.11.0.UKWEUXM/fw_agate_miui_AGATEEEAGlobal_OS1.0.11.0.UKWEUXM_ad3750b77c_14.0.zip
   name: Xiaomi 11T
@@ -3328,6 +3334,12 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.VMXEUXM/fw_fire_eea_global_fire_eea_global-ota_full-OS2.0.3.0.VMXEUXM-user-15.0-4ac1e78f40.zip
   name: Redmi 12
   version: OS2.0.3.0.VMXEUXM
+- android: '15.0'
+  codename: fire
+  date: '2025-04-27'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VMXINXM/fw_fire_in_global_fire_in_global-ota_full-OS2.0.4.0.VMXINXM-user-15.0-592cb7c97b.zip
+  name: Redmi 12
+  version: OS2.0.4.0.VMXINXM
 - android: '14.0'
   codename: fire
   date: '2024-04-27'
@@ -4156,6 +4168,12 @@
   download: https://bigota.d.miui.com/OS1.0.22.0.UNREUXM/fw_garnet_miui_GARNETEEAGlobal_OS1.0.22.0.UNREUXM_5a07878481_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS1.0.22.0.UNREUXM
+- android: '15.0'
+  codename: garnet
+  date: '2025-04-27'
+  download: https://bigota.d.miui.com/OS2.0.9.0.VNRMIXM/fw_garnet_global_garnet_global-ota_full-OS2.0.9.0.VNRMIXM-user-15.0-a4a2d6cf2c.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS2.0.9.0.VNRMIXM
 - android: '15.0'
   codename: garnet
   date: '2025-03-26'
@@ -6298,6 +6316,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UMYCNXM/fw_liuqin_miui_LIUQIN_OS1.0.12.0.UMYCNXM_d1f94db059_14.0.zip
   name: Xiaomi Pad 6 Pro
   version: OS1.0.12.0.UMYCNXM
+- android: '15.0'
+  codename: liuqin
+  date: '2025-04-27'
+  download: https://bigota.d.miui.com/OS2.0.8.0.VMYCNXM/fw_liuqin_liuqin-ota_full-OS2.0.8.0.VMYCNXM-user-15.0-ce74fb3ee8.zip
+  name: Xiaomi Pad 6 Pro
+  version: OS2.0.8.0.VMYCNXM
 - android: '15.0'
   codename: liuqin
   date: '2025-03-27'
@@ -10434,6 +10458,12 @@
   version: OS1.0.7.0.UMOMIXM
 - android: '14.0'
   codename: ruby
+  date: '2025-04-27'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UMOINXM/fw_ruby_miui_RUBYINGlobal_OS1.0.13.0.UMOINXM_8b486967f2_14.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS1.0.13.0.UMOINXM
+- android: '14.0'
+  codename: ruby
   date: '2024-12-25'
   download: https://bigota.d.miui.com/OS1.0.9.0.UMOINXM/fw_ruby_miui_RUBYINGlobal_OS1.0.9.0.UMOINXM_4cecd71468_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
@@ -12880,6 +12910,12 @@
   download: https://bigota.d.miui.com/OS2.0.7.0.VOZCNXM/fw_uke_uke-ota_full-OS2.0.7.0.VOZCNXM-user-15.0-febddd1fcd.zip
   name: Xiaomi Pad 7
   version: OS2.0.7.0.VOZCNXM
+- android: '15.0'
+  codename: uke
+  date: '2025-04-27'
+  download: https://bigota.d.miui.com/OS2.0.105.0.VOZEUXM/fw_uke_eea_global_uke_eea_global-ota_full-OS2.0.105.0.VOZEUXM-user-15.0-ea625ed470.zip
+  name: Xiaomi Pad 7
+  version: OS2.0.105.0.VOZEUXM
 - android: '15.0'
   codename: uke
   date: '2025-02-24'
