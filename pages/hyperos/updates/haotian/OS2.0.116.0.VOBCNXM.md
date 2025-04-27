@@ -121,7 +121,7 @@ permalink: /hyperos/haotian/stable/OS2.0.116.0.VOBCNXM/
                             aria-expanded="false" aria-controls="haotian_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="haotian_2_changelog">
-                        <p id="changelog_text">[System]<br>Fix: Third-party app compatibility issues<br>Updated the security patch to March 2025. Increased system security.</p>
+                        <p id="changelog_text">[System]<br>Fix: Third-party app compatibility issues</p>
                     </div>
                 </li>
             </ul>

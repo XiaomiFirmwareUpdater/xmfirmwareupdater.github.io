@@ -3,7 +3,7 @@ title: Redmi K80 Pro / POCO F7 Ultra Turkey HyperOS OS2.0.101.0.VOMTRXM Update
 layout: download
 name: Redmi K80 Pro / POCO F7 Ultra Turkey
 codename: miro
-permalink: /hyperos/miro/stable beta/OS2.0.101.0.VOMTRXM/
+permalink: /hyperos/miro/stable/OS2.0.101.0.VOMTRXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/miro/stable beta/OS2.0.101.0.VOMTRXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.101.0.VOMTRXM Stable Beta Official Update for Redmi K80 Pro / POCO F7 Ultra Turkey (miro)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.101.0.VOMTRXM Stable Official Update for Redmi K80 Pro / POCO F7 Ultra Turkey (miro)</h3>
     <h5>This page shows the OS2.0.101.0.VOMTRXM update only. If you're looking for other updates check
         <a href="/hyperos/miro/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/miro/stable beta/OS2.0.101.0.VOMTRXM/
                     <h5><b>Version: </b>OS2.0.101.0.VOMTRXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>8.6 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-04-27</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miro_tr_global_images_OS2.0.101.0.VOMTRXM_20250407.0000.00_15.0_tr_6e0c22f37f.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6e0c22f37f7d49b76e2696d9dd4df811</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.101.0.VOMTRXM/miro_tr_global_images_OS2.0.101.0.VOMTRXM_20250407.0000.00_15.0_tr_6e0c22f37f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.101.0.VOMTRXM/miro_tr_global_images_OS2.0.101.0.VOMTRXM_20250407.0000.00_15.0_tr_6e0c22f37f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.101.0.VOMTRXM/miro_tr_global_images_OS2.0.101.0.VOMTRXM_20250407.0000.00_15.0_tr_6e0c22f37f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.101.0.VOMTRXM/miro_tr_global_images_OS2.0.101.0.VOMTRXM_20250407.0000.00_15.0_tr_6e0c22f37f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.101.0.VOMTRXM/miro_tr_global_images_OS2.0.101.0.VOMTRXM_20250407.0000.00_15.0_tr_6e0c22f37f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#miro_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="miro_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="miro_1_changelog">
+                        <p id="changelog_text">[System animations]<br>New: During the process of opening or closing apps, the full screen indicator follows the window's movement<br>[System]<br>Optimization: System stability<br>Optimization: Improved charging experience in certain situations<br>Fix: Errors occurred in some cases<br>Updated the security patch to March 2025. Increased system security.<br>[Home screen]<br>New: After turning off the Home screen search bar, a 4×6 layout option becomes available<br>[Recents]<br>Fix: Recents couldn't be cleared in some cases</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi K80 Pro / POCO F7 Ultra Turkey</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/miro/" target="_blank">miro</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.101.0.VOMTRXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -74,10 +117,10 @@ permalink: /hyperos/miro/stable beta/OS2.0.101.0.VOMTRXM/
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS2.0.101.0.VOMTRXM/miro_tr_global-ota_incremental-OS2.0.1.0.VOMTRXM-OS2.0.101.0.VOMTRXM-user-15.0-1ad34e8b79.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.101.0.VOMTRXM/miro_tr_global-ota_full-OS2.0.101.0.VOMTRXM-user-15.0-1eca9295b0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.101.0.VOMTRXM/miro_tr_global-ota_full-OS2.0.101.0.VOMTRXM-user-15.0-1eca9295b0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.101.0.VOMTRXM/miro_tr_global-ota_full-OS2.0.101.0.VOMTRXM-user-15.0-1eca9295b0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.101.0.VOMTRXM/miro_tr_global-ota_full-OS2.0.101.0.VOMTRXM-user-15.0-1eca9295b0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.101.0.VOMTRXM/miro_tr_global-ota_full-OS2.0.101.0.VOMTRXM-user-15.0-1eca9295b0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#miro_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="miro_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#miro_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="miro_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="miro_1_changelog">
+                    <div class="collapse" id="miro_2_changelog">
                         <p id="changelog_text">[System animations]<br>New: During the process of opening or closing apps, the full screen indicator follows the window's movement<br>[System]<br>Optimization: System stability<br>Optimization: Improved charging experience in certain situations<br>Fix: Errors occurred in some cases<br>Updated the security patch to March 2025. Increased system security.<br>[Home screen]<br>New: After turning off the Home screen search bar, a 4×6 layout option becomes available<br>[Recents]<br>Fix: Recents couldn't be cleared in some cases</p>
                     </div>
                 </li>

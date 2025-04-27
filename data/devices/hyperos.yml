@@ -3798,6 +3798,12 @@
   version: OS1.0.14.0.UMCCNXM
 - android: '15.0'
   codename: fuxi
+  date: '2025-04-27'
+  download: https://bigota.d.miui.com/OS2.0.108.0.VMCCNXM/fw_fuxi_fuxi-ota_full-OS2.0.108.0.VMCCNXM-user-15.0-84005adff5.zip
+  name: Xiaomi 13
+  version: OS2.0.108.0.VMCCNXM
+- android: '15.0'
+  codename: fuxi
   date: '2025-01-24'
   download: https://bigota.d.miui.com/OS2.0.100.0.VMCCNXM/fw_fuxi_fuxi-ota_full-OS2.0.100.0.VMCCNXM-user-15.0-136d06a2d1.zip
   name: Xiaomi 13
@@ -5170,6 +5176,12 @@
   download: https://bigota.d.miui.com/OS1.0.20.0.UNCEUXM/fw_houji_miui_HOUJIEEAGlobal_OS1.0.20.0.UNCEUXM_4916378ca5_14.0.zip
   name: Xiaomi 14
   version: OS1.0.20.0.UNCEUXM
+- android: '15.0'
+  codename: houji
+  date: '2025-04-27'
+  download: https://bigota.d.miui.com/OS2.0.102.0.VNCINXM/fw_houji_in_global_houji_in_global-ota_full-OS2.0.102.0.VNCINXM-user-15.0-14ca0f8681.zip
+  name: Xiaomi 14
+  version: OS2.0.102.0.VNCINXM
 - android: '14.0'
   codename: houji
   date: '2024-01-27'
@@ -6544,6 +6556,12 @@
   download: https://bigota.d.miui.com/OS1.0.21.0.UNMCNXM/fw_manet_miui_MANET_OS1.0.21.0.UNMCNXM_6e249564a8_14.0.zip
   name: Redmi K70 Pro
   version: OS1.0.21.0.UNMCNXM
+- android: '15.0'
+  codename: manet
+  date: '2025-04-27'
+  download: https://bigota.d.miui.com/OS2.0.110.0.VNMCNXM/fw_manet_manet-ota_full-OS2.0.110.0.VNMCNXM-user-15.0-3f988ec299.zip
+  name: Redmi K70 Pro
+  version: OS2.0.110.0.VNMCNXM
 - android: '14.0'
   codename: manet
   date: '2024-01-22'
@@ -8080,6 +8098,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMBINXM/fw_nuwa_miui_NUWAINGlobal_OS1.0.4.0.UMBINXM_f305370c9b_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.4.0.UMBINXM
+- android: '15.0'
+  codename: nuwa
+  date: '2025-04-27'
+  download: https://bigota.d.miui.com/OS2.0.107.0.VMBCNXM/fw_nuwa_nuwa-ota_full-OS2.0.107.0.VMBCNXM-user-15.0-ae21c2ef9d.zip
+  name: Xiaomi 13 Pro
+  version: OS2.0.107.0.VMBCNXM
 - android: '14.0'
   codename: nuwa
   date: '2024-02-26'
@@ -10192,6 +10216,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UFSCNXM/fw_ruan_miui_RUAN_OS1.0.6.0.UFSCNXM_880cc8d4ec_14.0.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS1.0.6.0.UFSCNXM
+- android: '15.0'
+  codename: ruan
+  date: '2025-04-27'
+  download: https://bigota.d.miui.com/OS2.0.5.0.VFSCNXM/fw_ruan_ruan-ota_full-OS2.0.5.0.VFSCNXM-user-15.0-04a7d5b1de.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS2.0.5.0.VFSCNXM
 - android: '15.0'
   codename: ruan
   date: '2025-03-27'
@@ -12918,6 +12948,12 @@
   version: OS2.0.105.0.VOZEUXM
 - android: '15.0'
   codename: uke
+  date: '2025-04-27'
+  download: https://bigota.d.miui.com/OS2.0.105.0.VOZMIXM/fw_uke_global_uke_global-ota_full-OS2.0.105.0.VOZMIXM-user-15.0-d9a1495249.zip
+  name: Xiaomi Pad 7
+  version: OS2.0.105.0.VOZMIXM
+- android: '15.0'
+  codename: uke
   date: '2025-02-24'
   download: https://bigota.d.miui.com/OS2.0.102.0.VOZCNXM/fw_uke_uke-ota_full-OS2.0.102.0.VOZCNXM-user-15.0-dd52eb80d7.zip
   name: Xiaomi Pad 7
@@ -15502,6 +15538,12 @@
   download: https://bigota.d.miui.com/OS2.0.8.0.VOKCNXM/fw_zorn_zorn-ota_full-OS2.0.8.0.VOKCNXM-user-15.0-a64ceb13b1.zip
   name: Redmi K80/POCO F7 Pro
   version: OS2.0.8.0.VOKCNXM
+- android: '15.0'
+  codename: zorn
+  date: '2025-04-27'
+  download: https://bigota.d.miui.com/OS2.0.104.0.VOKMIXM/fw_zorn_global_zorn_global-ota_full-OS2.0.104.0.VOKMIXM-user-15.0-ea4024ca0f.zip
+  name: Redmi K80/POCO F7 Pro
+  version: OS2.0.104.0.VOKMIXM
 - android: '15.0'
   codename: zorn
   date: '2025-03-27'

@@ -52,9 +52,8 @@ permalink: /hyperos/plato/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12T EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.18.0.ULQEUXM</td><td>14.0</td><td>6.5 GB</td><td>2025-01-13</td><td><a href="/hyperos/plato/stable/OS1.0.18.0.ULQEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VLQEUXM</td><td>15.0</td><td>5.8 GB</td><td>2025-03-10</td><td><a href="/hyperos/plato/stable/OS2.0.1.0.VLQEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.6.0.VLQEUXM</td><td>15.0</td><td>5.8 GB</td><td>2025-04-18</td><td><a href="/hyperos/plato/stable beta/OS2.0.6.0.VLQEUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12T EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.6.0.VLQEUXM</td><td>15.0</td><td>6.9 GB</td><td>2025-04-14</td><td><a href="/hyperos/plato/stable/OS2.0.6.0.VLQEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.6.0.VLQEUXM</td><td>15.0</td><td>5.8 GB</td><td>2025-04-18</td><td><a href="/hyperos/plato/stable/OS2.0.6.0.VLQEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.5.0.VLQMIXM</td><td>15.0</td><td>7.0 GB</td><td>2025-03-28</td><td><a href="/hyperos/plato/stable/OS2.0.5.0.VLQMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.VLQMIXM</td><td>15.0</td><td>5.7 GB</td><td>2025-04-01</td><td><a href="/hyperos/plato/stable/OS2.0.5.0.VLQMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.VLQIDXM</td><td>15.0</td><td>6.6 GB</td><td>2025-02-27</td><td><a href="/hyperos/plato/stable/OS2.0.1.0.VLQIDXM/">Download</a></td></tr>
