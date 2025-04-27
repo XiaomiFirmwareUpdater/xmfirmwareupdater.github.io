@@ -3,7 +3,7 @@ title: Xiaomi 13 Ultra Russia HyperOS OS2.0.101.0.VMARUXM Update
 layout: download
 name: Xiaomi 13 Ultra Russia
 codename: ishtar
-permalink: /hyperos/ishtar/stable beta/OS2.0.101.0.VMARUXM/
+permalink: /hyperos/ishtar/stable/OS2.0.101.0.VMARUXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/ishtar/stable beta/OS2.0.101.0.VMARUXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.101.0.VMARUXM Stable Beta Official Update for Xiaomi 13 Ultra Russia (ishtar)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.101.0.VMARUXM Stable Official Update for Xiaomi 13 Ultra Russia (ishtar)</h3>
     <h5>This page shows the OS2.0.101.0.VMARUXM update only. If you're looking for other updates check
         <a href="/hyperos/ishtar/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/ishtar/stable beta/OS2.0.101.0.VMARUXM/
                     <h5><b>Version: </b>OS2.0.101.0.VMARUXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>8.1 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-04-27</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">ishtar_ru_global_images_OS2.0.101.0.VMARUXM_20250408.0000.00_15.0_ru_46c1203f28.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">46c1203f28aaab8642683a881e814e86</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.101.0.VMARUXM/ishtar_ru_global_images_OS2.0.101.0.VMARUXM_20250408.0000.00_15.0_ru_46c1203f28.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.101.0.VMARUXM/ishtar_ru_global_images_OS2.0.101.0.VMARUXM_20250408.0000.00_15.0_ru_46c1203f28.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.101.0.VMARUXM/ishtar_ru_global_images_OS2.0.101.0.VMARUXM_20250408.0000.00_15.0_ru_46c1203f28.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.101.0.VMARUXM/ishtar_ru_global_images_OS2.0.101.0.VMARUXM_20250408.0000.00_15.0_ru_46c1203f28.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.101.0.VMARUXM/ishtar_ru_global_images_OS2.0.101.0.VMARUXM_20250408.0000.00_15.0_ru_46c1203f28.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#ishtar_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="ishtar_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="ishtar_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to April 2025. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi 13 Ultra Russia</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/ishtar/" target="_blank">ishtar</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.101.0.VMARUXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -74,10 +117,10 @@ permalink: /hyperos/ishtar/stable beta/OS2.0.101.0.VMARUXM/
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS2.0.101.0.VMARUXM/ishtar_ru_global-ota_incremental-OS2.0.100.0.VMARUXM-OS2.0.101.0.VMARUXM-user-15.0-08841e9a4b.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.101.0.VMARUXM/ishtar_ru_global-ota_full-OS2.0.101.0.VMARUXM-user-15.0-f0120aefc5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.101.0.VMARUXM/ishtar_ru_global-ota_full-OS2.0.101.0.VMARUXM-user-15.0-f0120aefc5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.101.0.VMARUXM/ishtar_ru_global-ota_full-OS2.0.101.0.VMARUXM-user-15.0-f0120aefc5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.101.0.VMARUXM/ishtar_ru_global-ota_full-OS2.0.101.0.VMARUXM-user-15.0-f0120aefc5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.101.0.VMARUXM/ishtar_ru_global-ota_full-OS2.0.101.0.VMARUXM-user-15.0-f0120aefc5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#ishtar_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="ishtar_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#ishtar_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="ishtar_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="ishtar_1_changelog">
+                    <div class="collapse" id="ishtar_2_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to April 2025. Increased system security.</p>
                     </div>
                 </li>

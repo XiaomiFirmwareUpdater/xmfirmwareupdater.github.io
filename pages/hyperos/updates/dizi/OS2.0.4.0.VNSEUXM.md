@@ -3,7 +3,7 @@ title: Redmi Pad Pro / POCO Pad EEA HyperOS OS2.0.4.0.VNSEUXM Update
 layout: download
 name: Redmi Pad Pro / POCO Pad EEA
 codename: dizi
-permalink: /hyperos/dizi/stable beta/OS2.0.4.0.VNSEUXM/
+permalink: /hyperos/dizi/stable/OS2.0.4.0.VNSEUXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/dizi/stable beta/OS2.0.4.0.VNSEUXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.4.0.VNSEUXM Stable Beta Official Update for Redmi Pad Pro / POCO Pad EEA (dizi)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.4.0.VNSEUXM Stable Official Update for Redmi Pad Pro / POCO Pad EEA (dizi)</h3>
     <h5>This page shows the OS2.0.4.0.VNSEUXM update only. If you're looking for other updates check
         <a href="/hyperos/dizi/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/dizi/stable beta/OS2.0.4.0.VNSEUXM/
                     <h5><b>Version: </b>OS2.0.4.0.VNSEUXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/dizi/stable beta/OS2.0.4.0.VNSEUXM/
                             aria-expanded="false" aria-controls="dizi_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="dizi_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to April 2025. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi Pad Pro / POCO Pad EEA</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/dizi/" target="_blank">dizi</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.4.0.VNSEUXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>5.5 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-04-09</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dizi_eea_global_images_OS2.0.4.0.VNSEUXM_20250409.0000.00_15.0_eea_ce05d2712d.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ce05d2712dd4f6b02c1d56f6facd3223</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.4.0.VNSEUXM/dizi_eea_global_images_OS2.0.4.0.VNSEUXM_20250409.0000.00_15.0_eea_ce05d2712d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.4.0.VNSEUXM/dizi_eea_global_images_OS2.0.4.0.VNSEUXM_20250409.0000.00_15.0_eea_ce05d2712d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.4.0.VNSEUXM/dizi_eea_global_images_OS2.0.4.0.VNSEUXM_20250409.0000.00_15.0_eea_ce05d2712d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.4.0.VNSEUXM/dizi_eea_global_images_OS2.0.4.0.VNSEUXM_20250409.0000.00_15.0_eea_ce05d2712d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.4.0.VNSEUXM/dizi_eea_global_images_OS2.0.4.0.VNSEUXM_20250409.0000.00_15.0_eea_ce05d2712d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#dizi_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="dizi_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="dizi_2_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to April 2025. Increased system security.</p>
                     </div>
                 </li>

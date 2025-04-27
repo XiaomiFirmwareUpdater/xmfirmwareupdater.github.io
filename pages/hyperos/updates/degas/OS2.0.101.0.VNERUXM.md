@@ -3,7 +3,7 @@ title: Xiaomi 14T Russia HyperOS OS2.0.101.0.VNERUXM Update
 layout: download
 name: Xiaomi 14T Russia
 codename: degas
-permalink: /hyperos/degas/stable beta/OS2.0.101.0.VNERUXM/
+permalink: /hyperos/degas/stable/OS2.0.101.0.VNERUXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/degas/stable beta/OS2.0.101.0.VNERUXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.101.0.VNERUXM Stable Beta Official Update for Xiaomi 14T Russia (degas)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.101.0.VNERUXM Stable Official Update for Xiaomi 14T Russia (degas)</h3>
     <h5>This page shows the OS2.0.101.0.VNERUXM update only. If you're looking for other updates check
         <a href="/hyperos/degas/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/degas/stable beta/OS2.0.101.0.VNERUXM/
                     <h5><b>Version: </b>OS2.0.101.0.VNERUXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>8.5 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-04-27</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">degas_ru_global_images_OS2.0.101.0.VNERUXM_20250326.0000.00_15.0_ru_fc19b64b6a.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">fc19b64b6a6856e5e99b8c8185b5f4b7</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.101.0.VNERUXM/degas_ru_global_images_OS2.0.101.0.VNERUXM_20250326.0000.00_15.0_ru_fc19b64b6a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.101.0.VNERUXM/degas_ru_global_images_OS2.0.101.0.VNERUXM_20250326.0000.00_15.0_ru_fc19b64b6a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.101.0.VNERUXM/degas_ru_global_images_OS2.0.101.0.VNERUXM_20250326.0000.00_15.0_ru_fc19b64b6a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.101.0.VNERUXM/degas_ru_global_images_OS2.0.101.0.VNERUXM_20250326.0000.00_15.0_ru_fc19b64b6a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.101.0.VNERUXM/degas_ru_global_images_OS2.0.101.0.VNERUXM_20250326.0000.00_15.0_ru_fc19b64b6a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#degas_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="degas_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="degas_1_changelog">
+                        <p id="changelog_text">[System animations]<br>New: During the process of opening or closing apps, the full screen indicator follows the window's movement<br>New: When quickly opening and closing apps, multiple app animations are displayed simultaneously<br>[Home screen]<br>New: After turning off the Home screen search bar, a 4×6 layout option becomes available<br>[Camera]<br>Optimization: Watermark display adjustments<br>[Game speed booster]<br>New: Game Turbo performance dashboard<br>Optimization: Game Turbo interface improvements</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi 14T Russia</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/degas/" target="_blank">degas</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.101.0.VNERUXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -74,10 +117,10 @@ permalink: /hyperos/degas/stable beta/OS2.0.101.0.VNERUXM/
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS2.0.101.0.VNERUXM/degas_ru_global-ota_incremental-OS2.0.4.0.VNERUXM-OS2.0.101.0.VNERUXM-user-15.0-e4c1db49ce.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.101.0.VNERUXM/degas_ru_global-ota_full-OS2.0.101.0.VNERUXM-user-15.0-d855e54015.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.101.0.VNERUXM/degas_ru_global-ota_full-OS2.0.101.0.VNERUXM-user-15.0-d855e54015.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.101.0.VNERUXM/degas_ru_global-ota_full-OS2.0.101.0.VNERUXM-user-15.0-d855e54015.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.101.0.VNERUXM/degas_ru_global-ota_full-OS2.0.101.0.VNERUXM-user-15.0-d855e54015.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.101.0.VNERUXM/degas_ru_global-ota_full-OS2.0.101.0.VNERUXM-user-15.0-d855e54015.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#degas_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="degas_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#degas_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="degas_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="degas_1_changelog">
+                    <div class="collapse" id="degas_2_changelog">
                         <p id="changelog_text">[System animations]<br>New: During the process of opening or closing apps, the full screen indicator follows the window's movement<br>New: When quickly opening and closing apps, multiple app animations are displayed simultaneously<br>[Home screen]<br>New: After turning off the Home screen search bar, a 4×6 layout option becomes available<br>[Camera]<br>Optimization: Watermark display adjustments<br>[Game speed booster]<br>New: Game Turbo performance dashboard<br>Optimization: Game Turbo interface improvements</p>
                     </div>
                 </li>
