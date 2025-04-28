@@ -2964,6 +2964,12 @@
   version: OS1.0.7.0.UCVINXM
 - android: '14.0'
   codename: earth
+  date: '2025-04-28'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UCVINXM/fw_earth_miui_EARTHINGlobal_OS1.0.10.0.UCVINXM_5f5984659f_14.0.zip
+  name: Redmi 12C/POCO C55
+  version: OS1.0.10.0.UCVINXM
+- android: '14.0'
+  codename: earth
   date: '2025-02-25'
   download: https://bigota.d.miui.com/OS1.0.8.0.UCVEUXM/fw_earth_miui_EARTHEEAGlobal_OS1.0.8.0.UCVEUXM_3a40edbd1d_14.0.zip
   name: Redmi 12C/POCO C55
@@ -8472,6 +8478,12 @@
   version: OS1.0.3.0.ULHCNXM
 - android: '15.0'
   codename: pearl
+  date: '2025-04-28'
+  download: https://bigota.d.miui.com/OS2.0.7.0.VLHCNXM/fw_pearl_pearl-ota_full-OS2.0.7.0.VLHCNXM-user-15.0-4c3814976c.zip
+  name: Redmi Note 12T Pro
+  version: OS2.0.7.0.VLHCNXM
+- android: '15.0'
+  codename: pearl
   date: '2025-02-28'
   download: https://bigota.d.miui.com/OS2.0.1.0.VLHCNXM/fw_pearl_pearl-ota_full-OS2.0.1.0.VLHCNXM-user-15.0-de8d1cdd43.zip
   name: Redmi Note 12T Pro
@@ -8554,6 +8566,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UNPMIXM/fw_peridot_miui_PERIDOTGlobal_OS1.0.9.0.UNPMIXM_d38ec24514_14.0.zip
   name: Redmi Turbo 3/POCO F6
   version: OS1.0.9.0.UNPMIXM
+- android: '15.0'
+  codename: peridot
+  date: '2025-04-28'
+  download: https://bigota.d.miui.com/OS2.0.107.0.VNPEUXM/fw_peridot_eea_global_peridot_eea_global-ota_full-OS2.0.107.0.VNPEUXM-user-15.0-f06adc6edc.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS2.0.107.0.VNPEUXM
 - android: '15.0'
   codename: peridot
   date: '2025-02-27'
@@ -12540,6 +12558,12 @@
   version: OS1.0.4.0.ULIMIXM
 - android: '14.0'
   codename: taoyao
+  date: '2025-04-28'
+  download: https://bigota.d.miui.com/OS1.0.17.0.ULIMIXM/fw_taoyao_miui_TAOYAOGlobal_OS1.0.17.0.ULIMIXM_e7c6186222_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.17.0.ULIMIXM
+- android: '14.0'
+  codename: taoyao
   date: '2025-03-28'
   download: https://bigota.d.miui.com/OS1.0.23.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.23.0.ULIEUXM_e6e8add423_14.0.zip
   name: Xiaomi 12 Lite
@@ -12946,6 +12970,12 @@
   download: https://bigota.d.miui.com/OS2.0.7.0.VOZCNXM/fw_uke_uke-ota_full-OS2.0.7.0.VOZCNXM-user-15.0-febddd1fcd.zip
   name: Xiaomi Pad 7
   version: OS2.0.7.0.VOZCNXM
+- android: '15.0'
+  codename: uke
+  date: '2025-04-28'
+  download: https://bigota.d.miui.com/OS2.0.101.0.VOZINXM/fw_uke_in_global_uke_in_global-ota_full-OS2.0.101.0.VOZINXM-user-15.0-53a3798b28.zip
+  name: Xiaomi Pad 7
+  version: OS2.0.101.0.VOZINXM
 - android: '15.0'
   codename: uke
   date: '2025-04-27'
@@ -14152,6 +14182,12 @@
   download: https://bigota.d.miui.com/OS2.0.113.0.VOACNXM/fw_xuanyuan_xuanyuan-ota_full-OS2.0.113.0.VOACNXM-user-15.0-a44c460b3c.zip
   name: Xiaomi 15 Ultra
   version: OS2.0.113.0.VOACNXM
+- android: '15.0'
+  codename: xuanyuan
+  date: '2025-04-28'
+  download: https://bigota.d.miui.com/OS2.0.102.0.VOAINXM/fw_xuanyuan_in_global_xuanyuan_in_global-ota_full-OS2.0.102.0.VOAINXM-user-15.0-eeea73b349.zip
+  name: Xiaomi 15 Ultra
+  version: OS2.0.102.0.VOAINXM
 - android: '15.0'
   codename: xuanyuan
   date: '2025-03-28'

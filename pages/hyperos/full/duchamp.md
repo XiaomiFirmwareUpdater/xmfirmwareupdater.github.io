@@ -52,9 +52,10 @@ permalink: /archive/hyperos/duchamp/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO X6 Pro 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VNLINXM</td><td>15.0</td><td>7.5 GB</td><td>2025-04-25</td><td><a href="/hyperos/duchamp/stable/OS2.0.101.0.VNLINXM/">Download</a></td></tr>
+                <tr><td>Redmi K70E China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.108.0.VNLCNXM</td><td>15.0</td><td>8.9 GB</td><td>2025-04-28</td><td><a href="/hyperos/duchamp/stable/OS2.0.108.0.VNLCNXM/">Download</a></td></tr>
+<tr><td>Redmi K70E China</td><td>Stable</td><td>Recovery</td><td>OS2.0.108.0.VNLCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-04-22</td><td><a href="/hyperos/duchamp/stable/OS2.0.108.0.VNLCNXM/">Download</a></td></tr>
+<tr><td>POCO X6 Pro 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VNLINXM</td><td>15.0</td><td>7.5 GB</td><td>2025-04-25</td><td><a href="/hyperos/duchamp/stable/OS2.0.101.0.VNLINXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.101.0.VNLINXM</td><td>15.0</td><td>5.5 GB</td><td>2025-04-03</td><td><a href="/hyperos/duchamp/stable/OS2.0.101.0.VNLINXM/">Download</a></td></tr>
-<tr><td>Redmi K70E China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.108.0.VNLCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-04-22</td><td><a href="/hyperos/duchamp/stable beta/OS2.0.108.0.VNLCNXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.100.0.VNLIDXM</td><td>15.0</td><td>5.7 GB</td><td>2025-04-18</td><td><a href="/hyperos/duchamp/stable beta/OS2.0.100.0.VNLIDXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VNLRUXM</td><td>15.0</td><td>9.0 GB</td><td>2025-04-03</td><td><a href="/hyperos/duchamp/stable/OS2.0.101.0.VNLRUXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.101.0.VNLRUXM</td><td>15.0</td><td>5.6 GB</td><td>2025-03-18</td><td><a href="/hyperos/duchamp/stable/OS2.0.101.0.VNLRUXM/">Download</a></td></tr>
@@ -62,8 +63,8 @@ permalink: /archive/hyperos/duchamp/
 <tr><td>POCO X6 Pro 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.101.0.VNLMIXM</td><td>15.0</td><td>5.7 GB</td><td>2025-03-14</td><td><a href="/hyperos/duchamp/stable/OS2.0.101.0.VNLMIXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.103.0.VNLEUXM</td><td>15.0</td><td>8.3 GB</td><td>2025-03-28</td><td><a href="/hyperos/duchamp/stable/OS2.0.103.0.VNLEUXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.103.0.VNLEUXM</td><td>15.0</td><td>5.7 GB</td><td>2025-03-17</td><td><a href="/hyperos/duchamp/stable/OS2.0.103.0.VNLEUXM/">Download</a></td></tr>
-<tr><td>POCO X6 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VNLTWXM</td><td>15.0</td><td>7.5 GB</td><td>2025-03-26</td><td><a href="/hyperos/duchamp/stable/OS2.0.101.0.VNLTWXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.101.0.VNLTWXM</td><td>15.0</td><td>5.5 GB</td><td>2025-03-18</td><td><a href="/hyperos/duchamp/stable/OS2.0.101.0.VNLTWXM/">Download</a></td></tr>
+<tr><td>POCO X6 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VNLTWXM</td><td>15.0</td><td>7.5 GB</td><td>2025-03-26</td><td><a href="/hyperos/duchamp/stable/OS2.0.101.0.VNLTWXM/">Download</a></td></tr>
 <tr><td>Redmi K70E China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.105.0.VNLCNXM</td><td>15.0</td><td>9.0 GB</td><td>2025-03-13</td><td><a href="/hyperos/duchamp/stable/OS2.0.105.0.VNLCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70E China</td><td>Stable</td><td>Recovery</td><td>OS2.0.105.0.VNLCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-03-06</td><td><a href="/hyperos/duchamp/stable/OS2.0.105.0.VNLCNXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VNLEUXM</td><td>15.0</td><td>8.3 GB</td><td>2025-03-11</td><td><a href="/hyperos/duchamp/stable/OS2.0.102.0.VNLEUXM/">Download</a></td></tr>

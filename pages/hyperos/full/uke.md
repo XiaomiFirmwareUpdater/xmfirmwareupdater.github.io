@@ -52,11 +52,13 @@ permalink: /archive/hyperos/uke/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 7 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.105.0.VOZMIXM</td><td>15.0</td><td>6.0 GB</td><td>2025-04-23</td><td><a href="/hyperos/uke/stable beta/OS2.0.105.0.VOZMIXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 7 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VOZTWXM</td><td>15.0</td><td>7.0 GB</td><td>2025-04-28</td><td><a href="/hyperos/uke/stable/OS2.0.102.0.VOZTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VOZTWXM</td><td>15.0</td><td>5.9 GB</td><td>2025-04-23</td><td><a href="/hyperos/uke/stable/OS2.0.102.0.VOZTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.105.0.VOZMIXM</td><td>15.0</td><td>6.0 GB</td><td>2025-04-23</td><td><a href="/hyperos/uke/stable beta/OS2.0.105.0.VOZMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.105.0.VOZEUXM</td><td>15.0</td><td>6.1 GB</td><td>2025-04-23</td><td><a href="/hyperos/uke/stable beta/OS2.0.105.0.VOZEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.102.0.VOZIDXM</td><td>15.0</td><td>6.0 GB</td><td>2025-04-23</td><td><a href="/hyperos/uke/stable beta/OS2.0.102.0.VOZIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.102.0.VOZRUXM</td><td>15.0</td><td>5.9 GB</td><td>2025-04-23</td><td><a href="/hyperos/uke/stable beta/OS2.0.102.0.VOZRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.102.0.VOZTWXM</td><td>15.0</td><td>5.9 GB</td><td>2025-04-23</td><td><a href="/hyperos/uke/stable beta/OS2.0.102.0.VOZTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 India</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.101.0.VOZINXM</td><td>15.0</td><td>5.9 GB</td><td>2025-04-23</td><td><a href="/hyperos/uke/stable beta/OS2.0.101.0.VOZINXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.100.0.VOZINXM</td><td>15.0</td><td>6.6 GB</td><td>2025-04-11</td><td><a href="/hyperos/uke/stable/OS2.0.100.0.VOZINXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 India</td><td>Stable</td><td>Recovery</td><td>OS2.0.100.0.VOZINXM</td><td>15.0</td><td>5.9 GB</td><td>2025-04-01</td><td><a href="/hyperos/uke/stable/OS2.0.100.0.VOZINXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.104.0.VOZMIXM</td><td>15.0</td><td>7.3 GB</td><td>2025-04-09</td><td><a href="/hyperos/uke/stable/OS2.0.104.0.VOZMIXM/">Download</a></td></tr>
@@ -75,16 +77,16 @@ permalink: /archive/hyperos/uke/
 <tr><td>Xiaomi Pad 7 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VOZCNXM</td><td>15.0</td><td>8.1 GB</td><td>2025-02-21</td><td><a href="/hyperos/uke/stable/OS2.0.102.0.VOZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VOZMIXM</td><td>15.0</td><td>6.0 GB</td><td>2025-03-01</td><td><a href="/hyperos/uke/stable/OS2.0.102.0.VOZMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VOZMIXM</td><td>15.0</td><td>7.3 GB</td><td>2025-03-01</td><td><a href="/hyperos/uke/stable/OS2.0.102.0.VOZMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.101.0.VOZEUXM</td><td>15.0</td><td>6.1 GB</td><td>2025-03-01</td><td><a href="/hyperos/uke/stable/OS2.0.101.0.VOZEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VOZEUXM</td><td>15.0</td><td>7.1 GB</td><td>2025-03-01</td><td><a href="/hyperos/uke/stable/OS2.0.101.0.VOZEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.14.0.VOZCNXM</td><td>15.0</td><td>7.9 GB</td><td>2024-11-29</td><td><a href="/hyperos/uke/stable/OS2.0.14.0.VOZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.14.0.VOZCNXM</td><td>15.0</td><td>9.1 GB</td><td>2024-11-23</td><td><a href="/hyperos/uke/stable/OS2.0.14.0.VOZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.10.0.VOZCNXM</td><td>15.0</td><td>7.9 GB</td><td>2024-11-11</td><td><a href="/hyperos/uke/stable/OS2.0.10.0.VOZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.10.0.VOZCNXM</td><td>15.0</td><td>9.1 GB</td><td>2024-11-07</td><td><a href="/hyperos/uke/stable/OS2.0.10.0.VOZCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.100.0.VOZIDXM</td><td>15.0</td><td>6.0 GB</td><td>2025-03-01</td><td><a href="/hyperos/uke/stable/OS2.0.100.0.VOZIDXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.100.0.VOZIDXM</td><td>15.0</td><td>7.1 GB</td><td>2025-03-01</td><td><a href="/hyperos/uke/stable/OS2.0.100.0.VOZIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.8.0.VOZCNXM</td><td>15.0</td><td>7.9 GB</td><td>2024-11-05</td><td><a href="/hyperos/uke/stable/OS2.0.8.0.VOZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.8.0.VOZCNXM</td><td>15.0</td><td>9.1 GB</td><td>2024-10-31</td><td><a href="/hyperos/uke/stable/OS2.0.8.0.VOZCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.101.0.VOZEUXM</td><td>15.0</td><td>6.1 GB</td><td>2025-03-01</td><td><a href="/hyperos/uke/stable/OS2.0.101.0.VOZEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VOZEUXM</td><td>15.0</td><td>7.1 GB</td><td>2025-03-01</td><td><a href="/hyperos/uke/stable/OS2.0.101.0.VOZEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.100.0.VOZIDXM</td><td>15.0</td><td>6.0 GB</td><td>2025-03-01</td><td><a href="/hyperos/uke/stable/OS2.0.100.0.VOZIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.100.0.VOZIDXM</td><td>15.0</td><td>7.1 GB</td><td>2025-03-01</td><td><a href="/hyperos/uke/stable/OS2.0.100.0.VOZIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.100.0.VOZRUXM</td><td>15.0</td><td>5.9 GB</td><td>2025-03-01</td><td><a href="/hyperos/uke/stable/OS2.0.100.0.VOZRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.100.0.VOZRUXM</td><td>15.0</td><td>7.8 GB</td><td>2025-03-01</td><td><a href="/hyperos/uke/stable/OS2.0.100.0.VOZRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.100.0.VOZTWXM</td><td>15.0</td><td>5.9 GB</td><td>2025-03-01</td><td><a href="/hyperos/uke/stable/OS2.0.100.0.VOZTWXM/">Download</a></td></tr>
