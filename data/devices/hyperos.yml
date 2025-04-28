@@ -10494,6 +10494,12 @@
   version: OS1.0.9.0.UMOCNXM
 - android: '14.0'
   codename: ruby
+  date: '2025-04-28'
+  download: https://bigota.d.miui.com/OS2.0.2.0.UMOMIXM/fw_ruby_global_ruby_global-ota_full-OS2.0.2.0.UMOMIXM-user-14.0-e74f4c9e1f.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS2.0.2.0.UMOMIXM
+- android: '14.0'
+  codename: ruby
   date: '2024-08-27'
   download: https://bigota.d.miui.com/OS1.0.6.0.UMOEUXM/fw_ruby_miui_RUBYEEAGlobal_OS1.0.6.0.UMOEUXM_8e9b58c16f_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
@@ -11338,6 +11344,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UNXCNXM/fw_sheng_miui_SHENG_OS1.0.7.0.UNXCNXM_44a9846911_14.0.zip
   name: Xiaomi Pad 6S Pro 12.4
   version: OS1.0.7.0.UNXCNXM
+- android: '15.0'
+  codename: sheng
+  date: '2025-04-28'
+  download: https://bigota.d.miui.com/OS2.0.105.0.VNXMIXM/fw_sheng_global_sheng_global-ota_full-OS2.0.105.0.VNXMIXM-user-15.0-5c90fea500.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS2.0.105.0.VNXMIXM
 - android: '15.0'
   codename: sheng
   date: '2024-12-27'
