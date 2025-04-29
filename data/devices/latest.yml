@@ -3239,15 +3239,15 @@
     android: '15.0'
     miui: OS2.0.110.0.VNMCNXM
 - branch: stable
-  date: '2025-04-03'
+  date: '2025-04-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-03.04.2025/fw_marble_miui_MARBLEGlobal_OS1.0.18.0.UMRMIXM_7249d26a3a_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEGlobal_OS1.0.18.0.UMRMIXM_7249d26a3a_14.0.zip
-  filename: fw_marble_miui_MARBLEGlobal_OS1.0.18.0.UMRMIXM_7249d26a3a_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-29.04.2025/fw_marble_global_marble_global-ota_full-OS2.0.4.0.VMRMIXM-user-15.0-ba378fd07e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/marble/fw_marble_global_marble_global-ota_full-OS2.0.4.0.VMRMIXM-user-15.0-ba378fd07e.zip
+  filename: fw_marble_global_marble_global-ota_full-OS2.0.4.0.VMRMIXM-user-15.0-ba378fd07e.zip
   region: Global
   versions:
-    android: '14.0'
-    miui: OS1.0.18.0.UMRMIXM
+    android: '15.0'
+    miui: OS2.0.4.0.VMRMIXM
 - branch: stable
   date: '2025-03-31'
   downloads:
@@ -3819,15 +3819,15 @@
     android: '15.0'
     miui: OS2.0.106.0.VMBEUXM
 - branch: stable
-  date: '2025-04-07'
+  date: '2025-04-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-07.04.2025/fw_nuwa_in_global_nuwa_in_global-ota_full-OS2.0.102.0.VMBINXM-user-15.0-6a69e5b27c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/nuwa/fw_nuwa_in_global_nuwa_in_global-ota_full-OS2.0.102.0.VMBINXM-user-15.0-6a69e5b27c.zip
-  filename: fw_nuwa_in_global_nuwa_in_global-ota_full-OS2.0.102.0.VMBINXM-user-15.0-6a69e5b27c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-29.04.2025/fw_nuwa_in_global_nuwa_in_global-ota_full-OS2.0.103.0.VMBINXM-user-15.0-da50ec6608.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/nuwa/fw_nuwa_in_global_nuwa_in_global-ota_full-OS2.0.103.0.VMBINXM-user-15.0-da50ec6608.zip
+  filename: fw_nuwa_in_global_nuwa_in_global-ota_full-OS2.0.103.0.VMBINXM-user-15.0-da50ec6608.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.102.0.VMBINXM
+    miui: OS2.0.103.0.VMBINXM
 - branch: stable
   date: '2025-03-21'
   downloads:
@@ -4099,15 +4099,15 @@
     android: '15.0'
     miui: OS2.0.102.0.VNPMIXM
 - branch: stable
-  date: '2025-04-02'
+  date: '2025-04-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-02.04.2025/fw_peridot_peridot-ota_full-OS2.0.104.0.VNPCNXM-user-15.0-591f1715d0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/peridot/fw_peridot_peridot-ota_full-OS2.0.104.0.VNPCNXM-user-15.0-591f1715d0.zip
-  filename: fw_peridot_peridot-ota_full-OS2.0.104.0.VNPCNXM-user-15.0-591f1715d0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-29.04.2025/fw_peridot_peridot-ota_full-OS2.0.106.0.VNPCNXM-user-15.0-ba000d67ea.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/peridot/fw_peridot_peridot-ota_full-OS2.0.106.0.VNPCNXM-user-15.0-ba000d67ea.zip
+  filename: fw_peridot_peridot-ota_full-OS2.0.106.0.VNPCNXM-user-15.0-ba000d67ea.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.104.0.VNPCNXM
+    miui: OS2.0.106.0.VNPCNXM
 - branch: stable
   date: '2025-04-28'
   downloads:

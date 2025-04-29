@@ -6700,6 +6700,12 @@
   download: https://bigota.d.miui.com/OS1.0.11.0.UMRINXM/fw_marble_miui_MARBLEINGlobal_OS1.0.11.0.UMRINXM_426e58b712_14.0.zip
   name: Redmi Note 12 Turbo/POCO F5
   version: OS1.0.11.0.UMRINXM
+- android: '15.0'
+  codename: marble
+  date: '2025-04-29'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VMRMIXM/fw_marble_global_marble_global-ota_full-OS2.0.4.0.VMRMIXM-user-15.0-ba378fd07e.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS2.0.4.0.VMRMIXM
 - android: '14.0'
   codename: marble
   date: '2024-03-28'
@@ -8104,6 +8110,12 @@
   download: https://bigota.d.miui.com/OS2.0.103.0.VMBMIXM/fw_nuwa_global_nuwa_global-ota_full-OS2.0.103.0.VMBMIXM-user-15.0-30977f318f.zip
   name: Xiaomi 13 Pro
   version: OS2.0.103.0.VMBMIXM
+- android: '15.0'
+  codename: nuwa
+  date: '2025-04-29'
+  download: https://bigota.d.miui.com/OS2.0.103.0.VMBINXM/fw_nuwa_in_global_nuwa_in_global-ota_full-OS2.0.103.0.VMBINXM-user-15.0-da50ec6608.zip
+  name: Xiaomi 13 Pro
+  version: OS2.0.103.0.VMBINXM
 - android: '14.0'
   codename: nuwa
   date: '2024-03-28'
@@ -8584,6 +8596,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UNPEUXM/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.3.0.UNPEUXM_bba0ad15ad_14.0.zip
   name: Redmi Turbo 3/POCO F6
   version: OS1.0.3.0.UNPEUXM
+- android: '15.0'
+  codename: peridot
+  date: '2025-04-29'
+  download: https://bigota.d.miui.com/OS2.0.106.0.VNPCNXM/fw_peridot_peridot-ota_full-OS2.0.106.0.VNPCNXM-user-15.0-ba000d67ea.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS2.0.106.0.VNPCNXM
 - android: '14.0'
   codename: peridot
   date: '2024-10-28'
