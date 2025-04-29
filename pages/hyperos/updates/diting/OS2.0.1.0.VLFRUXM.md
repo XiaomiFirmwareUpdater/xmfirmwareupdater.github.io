@@ -3,7 +3,7 @@ title: Xiaomi 12T Pro Russia HyperOS OS2.0.1.0.VLFRUXM Update
 layout: download
 name: Xiaomi 12T Pro Russia
 codename: diting
-permalink: /hyperos/diting/stable beta/OS2.0.1.0.VLFRUXM/
+permalink: /hyperos/diting/stable/OS2.0.1.0.VLFRUXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/diting/stable beta/OS2.0.1.0.VLFRUXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.1.0.VLFRUXM Stable Beta Official Update for Xiaomi 12T Pro Russia (diting)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.1.0.VLFRUXM Stable Official Update for Xiaomi 12T Pro Russia (diting)</h3>
     <h5>This page shows the OS2.0.1.0.VLFRUXM update only. If you're looking for other updates check
         <a href="/hyperos/diting/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/diting/stable beta/OS2.0.1.0.VLFRUXM/
                     <h5><b>Version: </b>OS2.0.1.0.VLFRUXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/diting/stable beta/OS2.0.1.0.VLFRUXM/
                             aria-expanded="false" aria-controls="diting_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="diting_1_changelog">
+                        <p id="changelog_text">[Alive Design Philosophy]<br>Alive Design Philosophy unveils fresh, vibrant design across the whole system, making every interaction feel smooth and alive.<br>All-new Artistic Lock screen:<br>Artistic Lock screen brings new templates and effects inspired by classic designs, giving your device a cinematic look every time you unlock it.<br>All-new Gallery:<br>With AI and reorganized collections, Gallery makes your memories even more vivid.<br>All-new Weather<br>Real-time Weather Engine 2.0 shows you the sky and clouds just like in real life – even lets you see rainbows and the Milky Way.<br>All-new Calendar:<br>The new Desktop calendar adds a touch of ritual to your day.<br>All-new Clock:<br>Updated Clock uses a more refined display structure for a more elegant, easy-to-read look.<br>Updated animations:<br>A full-scale animation upgrade makes every interaction flow smoothly and feel stable, responsive, and comfortable.<br>[Xiaomi HyperCore]<br>Xiaomi HyperCore, Xiaomi's proprietary core technology platform, enhances performance, graphics, network, and security.<br>Upgraded rendering:<br>Upgraded rendering for multitasking extends battery life.<br>Heterogeneous computing:<br>Enhanced rendering pipeline boosts hardware performance for faster, more efficient visuals.<br>[Xiaomi HyperConnect]<br>Upgraded cross-device connectivity framework.<br>Upgraded Home screen+:<br>You can drag phone apps onto Xiaomi tablets or add them as native apps.<br>Updated shared clipboard:<br>Shared clipboard allows you to batch copy text for easier multi-device sharing.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi 12T Pro Russia</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/diting/" target="_blank">diting</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.1.0.VLFRUXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>6.8 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-04-08</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">diting_ru_global_images_OS2.0.1.0.VLFRUXM_20250408.0000.00_15.0_ru_e94e03ca93.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">e94e03ca9327bcfafe20bb2173b17fed</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.1.0.VLFRUXM/diting_ru_global_images_OS2.0.1.0.VLFRUXM_20250408.0000.00_15.0_ru_e94e03ca93.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.1.0.VLFRUXM/diting_ru_global_images_OS2.0.1.0.VLFRUXM_20250408.0000.00_15.0_ru_e94e03ca93.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.1.0.VLFRUXM/diting_ru_global_images_OS2.0.1.0.VLFRUXM_20250408.0000.00_15.0_ru_e94e03ca93.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.1.0.VLFRUXM/diting_ru_global_images_OS2.0.1.0.VLFRUXM_20250408.0000.00_15.0_ru_e94e03ca93.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.1.0.VLFRUXM/diting_ru_global_images_OS2.0.1.0.VLFRUXM_20250408.0000.00_15.0_ru_e94e03ca93.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#diting_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="diting_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="diting_2_changelog">
                         <p id="changelog_text">[Alive Design Philosophy]<br>Alive Design Philosophy unveils fresh, vibrant design across the whole system, making every interaction feel smooth and alive.<br>All-new Artistic Lock screen:<br>Artistic Lock screen brings new templates and effects inspired by classic designs, giving your device a cinematic look every time you unlock it.<br>All-new Gallery:<br>With AI and reorganized collections, Gallery makes your memories even more vivid.<br>All-new Weather<br>Real-time Weather Engine 2.0 shows you the sky and clouds just like in real life – even lets you see rainbows and the Milky Way.<br>All-new Calendar:<br>The new Desktop calendar adds a touch of ritual to your day.<br>All-new Clock:<br>Updated Clock uses a more refined display structure for a more elegant, easy-to-read look.<br>Updated animations:<br>A full-scale animation upgrade makes every interaction flow smoothly and feel stable, responsive, and comfortable.<br>[Xiaomi HyperCore]<br>Xiaomi HyperCore, Xiaomi's proprietary core technology platform, enhances performance, graphics, network, and security.<br>Upgraded rendering:<br>Upgraded rendering for multitasking extends battery life.<br>Heterogeneous computing:<br>Enhanced rendering pipeline boosts hardware performance for faster, more efficient visuals.<br>[Xiaomi HyperConnect]<br>Upgraded cross-device connectivity framework.<br>Upgraded Home screen+:<br>You can drag phone apps onto Xiaomi tablets or add them as native apps.<br>Updated shared clipboard:<br>Shared clipboard allows you to batch copy text for easier multi-device sharing.</p>
                     </div>
                 </li>

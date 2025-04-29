@@ -3829,15 +3829,15 @@
     android: '15.0'
     miui: OS2.0.103.0.VMBINXM
 - branch: stable
-  date: '2025-03-21'
+  date: '2025-04-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_obsidian/releases/download/stable-21.03.2025/fw_obsidian_miui_OBSIDIANGlobal_OS1.0.4.0.UOFMIXM_da2a9c9b73_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/obsidian/fw_obsidian_miui_OBSIDIANGlobal_OS1.0.4.0.UOFMIXM_da2a9c9b73_14.0.zip
-  filename: fw_obsidian_miui_OBSIDIANGlobal_OS1.0.4.0.UOFMIXM_da2a9c9b73_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_obsidian/releases/download/stable-29.04.2025/fw_obsidian_miui_OBSIDIANGlobal_OS1.0.7.0.UOFMIXM_ce13da80d5_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/obsidian/fw_obsidian_miui_OBSIDIANGlobal_OS1.0.7.0.UOFMIXM_ce13da80d5_14.0.zip
+  filename: fw_obsidian_miui_OBSIDIANGlobal_OS1.0.7.0.UOFMIXM_ce13da80d5_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.4.0.UOFMIXM
+    miui: OS1.0.7.0.UOFMIXM
 - branch: stable
   date: '2025-04-21'
   downloads:
@@ -5589,15 +5589,15 @@
     android: '14.0'
     miui: OS2.0.1.0.UMQEUXM
 - branch: stable
-  date: '2025-04-22'
+  date: '2025-04-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-22.04.2025/fw_sunstone_in_global_sunstone_in_global-ota_full-OS2.0.1.0.UMQINXM-user-14.0-d4b09de449.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sunstone/fw_sunstone_in_global_sunstone_in_global-ota_full-OS2.0.1.0.UMQINXM-user-14.0-d4b09de449.zip
-  filename: fw_sunstone_in_global_sunstone_in_global-ota_full-OS2.0.1.0.UMQINXM-user-14.0-d4b09de449.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-29.04.2025/fw_sunstone_in_global_sunstone_in_global-ota_full-OS2.0.2.0.UMQINXM-user-14.0-1848c0699d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sunstone/fw_sunstone_in_global_sunstone_in_global-ota_full-OS2.0.2.0.UMQINXM-user-14.0-1848c0699d.zip
+  filename: fw_sunstone_in_global_sunstone_in_global-ota_full-OS2.0.2.0.UMQINXM-user-14.0-1848c0699d.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS2.0.1.0.UMQINXM
+    miui: OS2.0.2.0.UMQINXM
 - branch: stable
   date: '2023-07-28'
   downloads:

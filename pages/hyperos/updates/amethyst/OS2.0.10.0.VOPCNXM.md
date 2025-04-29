@@ -3,7 +3,7 @@ title: Redmi Note 14 Pro+ 5G China HyperOS OS2.0.10.0.VOPCNXM Update
 layout: download
 name: Redmi Note 14 Pro+ 5G China
 codename: amethyst
-permalink: /hyperos/amethyst/stable beta/OS2.0.10.0.VOPCNXM/
+permalink: /hyperos/amethyst/stable/OS2.0.10.0.VOPCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/amethyst/stable beta/OS2.0.10.0.VOPCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.10.0.VOPCNXM Stable Beta Official Update for Redmi Note 14 Pro+ 5G China (amethyst)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.10.0.VOPCNXM Stable Official Update for Redmi Note 14 Pro+ 5G China (amethyst)</h3>
     <h5>This page shows the OS2.0.10.0.VOPCNXM update only. If you're looking for other updates check
         <a href="/hyperos/amethyst/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/amethyst/stable beta/OS2.0.10.0.VOPCNXM/
                     <h5><b>Version: </b>OS2.0.10.0.VOPCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/amethyst/stable beta/OS2.0.10.0.VOPCNXM/
                             aria-expanded="false" aria-controls="amethyst_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="amethyst_1_changelog">
+                        <p id="changelog_text">[Basic improvements]<br>Optimization: Optimized animation strategies in certain scenarios, improving overall system fluidity<br>[System]<br>Updated the security patch to April 2025. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi Note 14 Pro+ 5G China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/amethyst/" target="_blank">amethyst</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.10.0.VOPCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>8.3 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-04-16</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">amethyst_images_OS2.0.10.0.VOPCNXM_20250416.0000.00_15.0_cn_bc9c93781e.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">bc9c93781ed2323ed7617613bdc3c271</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.10.0.VOPCNXM/amethyst_images_OS2.0.10.0.VOPCNXM_20250416.0000.00_15.0_cn_bc9c93781e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.10.0.VOPCNXM/amethyst_images_OS2.0.10.0.VOPCNXM_20250416.0000.00_15.0_cn_bc9c93781e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.10.0.VOPCNXM/amethyst_images_OS2.0.10.0.VOPCNXM_20250416.0000.00_15.0_cn_bc9c93781e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.10.0.VOPCNXM/amethyst_images_OS2.0.10.0.VOPCNXM_20250416.0000.00_15.0_cn_bc9c93781e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.10.0.VOPCNXM/amethyst_images_OS2.0.10.0.VOPCNXM_20250416.0000.00_15.0_cn_bc9c93781e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#amethyst_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="amethyst_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="amethyst_2_changelog">
                         <p id="changelog_text">[Basic improvements]<br>Optimization: Optimized animation strategies in certain scenarios, improving overall system fluidity<br>[System]<br>Updated the security patch to April 2025. Increased system security.</p>
                     </div>
                 </li>

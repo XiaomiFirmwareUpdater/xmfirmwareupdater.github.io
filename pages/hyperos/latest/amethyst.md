@@ -52,9 +52,9 @@ permalink: /hyperos/amethyst/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 14 Pro+ 5G China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.26.0.UOPCNXM</td><td>14.0</td><td>7.8 GB</td><td>2025-03-29</td><td><a href="/hyperos/amethyst/stable/OS1.0.26.0.UOPCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 Pro+ 5G China</td><td>Stable</td><td>Recovery</td><td>OS1.0.26.0.UOPCNXM</td><td>14.0</td><td>6.0 GB</td><td>2025-04-03</td><td><a href="/hyperos/amethyst/stable/OS1.0.26.0.UOPCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 Pro+ 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.10.0.VOPCNXM</td><td>15.0</td><td>6.3 GB</td><td>2025-04-22</td><td><a href="/hyperos/amethyst/stable beta/OS2.0.10.0.VOPCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 14 Pro+ 5G China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.10.0.VOPCNXM</td><td>15.0</td><td>8.3 GB</td><td>2025-04-16</td><td><a href="/hyperos/amethyst/stable/OS2.0.10.0.VOPCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro+ 5G China</td><td>Stable</td><td>Recovery</td><td>OS2.0.10.0.VOPCNXM</td><td>15.0</td><td>6.3 GB</td><td>2025-04-22</td><td><a href="/hyperos/amethyst/stable/OS2.0.10.0.VOPCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro+ 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.12.0.UOPCNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-09-26</td><td><a href="/hyperos/amethyst/stable beta/OS1.0.12.0.UOPCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro+ 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.UOPEUXM</td><td>14.0</td><td>8.1 GB</td><td>2025-04-04</td><td><a href="/hyperos/amethyst/stable/OS1.0.10.0.UOPEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro+ 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.UOPEUXM</td><td>14.0</td><td>5.4 GB</td><td>2025-04-11</td><td><a href="/hyperos/amethyst/stable/OS1.0.10.0.UOPEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro+ 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VOPMIXM</td><td>15.0</td><td>8.9 GB</td><td>2025-03-13</td><td><a href="/hyperos/amethyst/stable/OS2.0.2.0.VOPMIXM/">Download</a></td></tr>
