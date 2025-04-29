@@ -3778,6 +3778,18 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UMCCNXM/fw_fuxi_miui_FUXI_OS1.0.8.0.UMCCNXM_af6dc55799_14.0.zip
   name: Xiaomi 13
   version: OS1.0.8.0.UMCCNXM
+- android: '15.0'
+  codename: fuxi
+  date: '2025-04-29'
+  download: https://bigota.d.miui.com/OS2.0.104.0.VMCEUXM/fw_fuxi_eea_global_fuxi_eea_global-ota_full-OS2.0.104.0.VMCEUXM-user-15.0-06ef6404c8.zip
+  name: Xiaomi 13
+  version: OS2.0.104.0.VMCEUXM
+- android: '15.0'
+  codename: fuxi
+  date: '2025-04-29'
+  download: https://bigota.d.miui.com/OS2.0.102.0.VMCMIXM/fw_fuxi_global_fuxi_global-ota_full-OS2.0.102.0.VMCMIXM-user-15.0-a42259d1f8.zip
+  name: Xiaomi 13
+  version: OS2.0.102.0.VMCMIXM
 - android: '14.0'
   codename: fuxi
   date: '2024-09-28'
@@ -8080,6 +8092,18 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UMBMIXM/fw_nuwa_miui_NUWAGlobal_OS1.0.10.0.UMBMIXM_2693afc2d5_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.10.0.UMBMIXM
+- android: '15.0'
+  codename: nuwa
+  date: '2025-04-29'
+  download: https://bigota.d.miui.com/OS2.0.106.0.VMBEUXM/fw_nuwa_eea_global_nuwa_eea_global-ota_full-OS2.0.106.0.VMBEUXM-user-15.0-f955ada4e9.zip
+  name: Xiaomi 13 Pro
+  version: OS2.0.106.0.VMBEUXM
+- android: '15.0'
+  codename: nuwa
+  date: '2025-04-29'
+  download: https://bigota.d.miui.com/OS2.0.103.0.VMBMIXM/fw_nuwa_global_nuwa_global-ota_full-OS2.0.103.0.VMBMIXM-user-15.0-30977f318f.zip
+  name: Xiaomi 13 Pro
+  version: OS2.0.103.0.VMBMIXM
 - android: '14.0'
   codename: nuwa
   date: '2024-03-28'
@@ -10216,6 +10240,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UFSCNXM/fw_ruan_miui_RUAN_OS1.0.8.0.UFSCNXM_71ca5896cf_14.0.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS1.0.8.0.UFSCNXM
+- android: '15.0'
+  codename: ruan
+  date: '2025-04-29'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VFSMIXM/fw_ruan_global_ruan_global-ota_full-OS2.0.2.0.VFSMIXM-user-15.0-02d761f37d.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS2.0.2.0.VFSMIXM
 - android: '14.0'
   codename: ruan
   date: '2024-08-28'
@@ -12558,6 +12588,12 @@
   version: OS1.0.8.0.ULIMIXM
 - android: '14.0'
   codename: taoyao
+  date: '2025-04-29'
+  download: https://bigota.d.miui.com/OS1.0.24.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.24.0.ULIEUXM_0a98b78334_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.24.0.ULIEUXM
+- android: '14.0'
+  codename: taoyao
   date: '2024-03-29'
   download: https://bigota.d.miui.com/OS1.0.5.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.5.0.ULIEUXM_992483824d_14.0.zip
   name: Xiaomi 12 Lite
@@ -13714,6 +13750,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.TGDINXM/fw_vida_miui_VIDAINGlobal_OS1.0.3.0.TGDINXM_1004dd4f10_13.0.zip
   name: Redmi Note 11 Pro 4G
   version: OS1.0.3.0.TGDINXM
+- android: '14.0'
+  codename: vili
+  date: '2025-04-29'
+  download: https://bigota.d.miui.com/OS1.0.16.0.UKDEUXM/fw_vili_miui_VILIEEAGlobal_OS1.0.16.0.UKDEUXM_585c024665_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.16.0.UKDEUXM
 - android: '14.0'
   codename: vili
   date: '2024-07-24'

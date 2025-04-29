@@ -39,6 +39,26 @@
     android: '13.0'
     miui: V14.0.22.0.TMBCNXM
 - branch: stable
+  date: '2025-04-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-29.04.2025/fw_nuwa_eea_global_nuwa_eea_global-ota_full-OS2.0.106.0.VMBEUXM-user-15.0-f955ada4e9.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/nuwa/fw_nuwa_eea_global_nuwa_eea_global-ota_full-OS2.0.106.0.VMBEUXM-user-15.0-f955ada4e9.zip
+  filename: fw_nuwa_eea_global_nuwa_eea_global-ota_full-OS2.0.106.0.VMBEUXM-user-15.0-f955ada4e9.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.106.0.VMBEUXM
+- branch: stable
+  date: '2025-04-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-29.04.2025/fw_nuwa_global_nuwa_global-ota_full-OS2.0.103.0.VMBMIXM-user-15.0-30977f318f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/nuwa/fw_nuwa_global_nuwa_global-ota_full-OS2.0.103.0.VMBMIXM-user-15.0-30977f318f.zip
+  filename: fw_nuwa_global_nuwa_global-ota_full-OS2.0.103.0.VMBMIXM-user-15.0-30977f318f.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.103.0.VMBMIXM
+- branch: stable
   date: '2024-03-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-29.03.2024/fw_nuwa_miui_NUWA_OS1.0.6.0.UMBCNXM_6c3873b190_14.0.zip
