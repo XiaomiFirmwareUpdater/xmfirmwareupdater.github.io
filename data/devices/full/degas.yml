@@ -19,6 +19,16 @@
     android: '14.0'
     miui: OS1.0.2.0.UNEMIXM
 - branch: stable
+  date: '2025-04-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_degas/releases/download/stable-30.04.2025/fw_degas_eea_global_degas_eea_global-ota_full-OS2.0.105.0.VNEEUXM-user-15.0-1e03a43669.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/degas/fw_degas_eea_global_degas_eea_global-ota_full-OS2.0.105.0.VNEEUXM-user-15.0-1e03a43669.zip
+  filename: fw_degas_eea_global_degas_eea_global-ota_full-OS2.0.105.0.VNEEUXM-user-15.0-1e03a43669.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.105.0.VNEEUXM
+- branch: stable
   date: '2024-10-29'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_degas/releases/download/stable-29.10.2024/fw_degas_miui_DEGASEEAGlobal_OS1.0.11.0.UNEEUXM_9b56aed682_14.0.zip

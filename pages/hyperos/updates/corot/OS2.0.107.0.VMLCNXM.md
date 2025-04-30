@@ -3,7 +3,7 @@ title: Redmi K60 Ultra China HyperOS OS2.0.107.0.VMLCNXM Update
 layout: download
 name: Redmi K60 Ultra China
 codename: corot
-permalink: /hyperos/corot/stable beta/OS2.0.107.0.VMLCNXM/
+permalink: /hyperos/corot/stable/OS2.0.107.0.VMLCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/corot/stable beta/OS2.0.107.0.VMLCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.107.0.VMLCNXM Stable Beta Official Update for Redmi K60 Ultra China (corot)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.107.0.VMLCNXM Stable Official Update for Redmi K60 Ultra China (corot)</h3>
     <h5>This page shows the OS2.0.107.0.VMLCNXM update only. If you're looking for other updates check
         <a href="/hyperos/corot/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/corot/stable beta/OS2.0.107.0.VMLCNXM/
                     <h5><b>Version: </b>OS2.0.107.0.VMLCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>8.7 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-04-30</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">corot_images_OS2.0.107.0.VMLCNXM_20250416.0000.00_15.0_cn_101f0c1e27.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">101f0c1e27e17c8bcd4fde1be00f4a7d</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.107.0.VMLCNXM/corot_images_OS2.0.107.0.VMLCNXM_20250416.0000.00_15.0_cn_101f0c1e27.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.107.0.VMLCNXM/corot_images_OS2.0.107.0.VMLCNXM_20250416.0000.00_15.0_cn_101f0c1e27.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.107.0.VMLCNXM/corot_images_OS2.0.107.0.VMLCNXM_20250416.0000.00_15.0_cn_101f0c1e27.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.107.0.VMLCNXM/corot_images_OS2.0.107.0.VMLCNXM_20250416.0000.00_15.0_cn_101f0c1e27.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.107.0.VMLCNXM/corot_images_OS2.0.107.0.VMLCNXM_20250416.0000.00_15.0_cn_101f0c1e27.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#corot_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="corot_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="corot_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to April 2025. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi K60 Ultra China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/corot/" target="_blank">corot</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.107.0.VMLCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -74,10 +117,10 @@ permalink: /hyperos/corot/stable beta/OS2.0.107.0.VMLCNXM/
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS2.0.107.0.VMLCNXM/corot-ota_incremental-OS2.0.106.0.VMLCNXM-OS2.0.107.0.VMLCNXM-user-15.0-1fe4b2d6e0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.107.0.VMLCNXM/corot-ota_full-OS2.0.107.0.VMLCNXM-user-15.0-215c833c40.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.107.0.VMLCNXM/corot-ota_full-OS2.0.107.0.VMLCNXM-user-15.0-215c833c40.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.107.0.VMLCNXM/corot-ota_full-OS2.0.107.0.VMLCNXM-user-15.0-215c833c40.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.107.0.VMLCNXM/corot-ota_full-OS2.0.107.0.VMLCNXM-user-15.0-215c833c40.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.107.0.VMLCNXM/corot-ota_full-OS2.0.107.0.VMLCNXM-user-15.0-215c833c40.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#corot_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="corot_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#corot_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="corot_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="corot_1_changelog">
+                    <div class="collapse" id="corot_2_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to April 2025. Increased system security.</p>
                     </div>
                 </li>
