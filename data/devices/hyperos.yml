@@ -14340,6 +14340,12 @@
   version: OS2.0.117.0.VOACNXM
 - android: '15.0'
   codename: xuanyuan
+  date: '2025-05-01'
+  download: https://bigota.d.miui.com/OS2.0.105.0.VOAMIXM/fw_xuanyuan_global_xuanyuan_global-ota_full-OS2.0.105.0.VOAMIXM-user-15.0-037492f449.zip
+  name: Xiaomi 15 Ultra
+  version: OS2.0.105.0.VOAMIXM
+- android: '15.0'
+  codename: xuanyuan
   date: '2025-03-02'
   download: https://bigota.d.miui.com/OS2.0.8.0.VOAEUXM/fw_xuanyuan_eea_global_xuanyuan_eea_global-ota_full-OS2.0.8.0.VOAEUXM-user-15.0-5bff93d8c8.zip
   name: Xiaomi 15 Ultra
