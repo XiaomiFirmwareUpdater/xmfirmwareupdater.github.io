@@ -63,8 +63,9 @@ permalink: /hyperos/xun/
 <tr><td>Redmi Pad SE Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VMUIDXM</td><td>15.0</td><td>4.4 GB</td><td>2025-04-11</td><td><a href="/hyperos/xun/stable/OS2.0.2.0.VMUIDXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.VMUINXM</td><td>15.0</td><td>5.0 GB</td><td>2025-03-10</td><td><a href="/hyperos/xun/stable/OS2.0.1.0.VMUINXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE India</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VMUINXM</td><td>15.0</td><td>4.3 GB</td><td>2025-03-19</td><td><a href="/hyperos/xun/stable/OS2.0.1.0.VMUINXM/">Download</a></td></tr>
-<tr><td>Redmi Pad SE Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UMURUXM</td><td>14.0</td><td>5.8 GB</td><td>2025-01-08</td><td><a href="/hyperos/xun/stable/OS1.0.6.0.UMURUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UMURUXM</td><td>14.0</td><td>4.0 GB</td><td>2025-01-14</td><td><a href="/hyperos/xun/stable/OS1.0.6.0.UMURUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.2.0.VMURUXM</td><td>15.0</td><td>4.4 GB</td><td>2025-04-28</td><td><a href="/hyperos/xun/stable beta/OS2.0.2.0.VMURUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.VMURUXM</td><td>15.0</td><td>6.1 GB</td><td>2025-02-18</td><td><a href="/hyperos/xun/stable/OS2.0.1.0.VMURUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.VMUTRXM</td><td>15.0</td><td>5.5 GB</td><td>2025-03-03</td><td><a href="/hyperos/xun/stable/OS2.0.1.0.VMUTRXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VMUTRXM</td><td>15.0</td><td>4.4 GB</td><td>2025-03-10</td><td><a href="/hyperos/xun/stable/OS2.0.1.0.VMUTRXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.VMUTWXM</td><td>15.0</td><td>5.3 GB</td><td>2025-02-12</td><td><a href="/hyperos/xun/stable/OS2.0.1.0.VMUTWXM/">Download</a></td></tr>
