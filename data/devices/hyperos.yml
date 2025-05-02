@@ -7182,6 +7182,12 @@
   version: OS2.0.104.0.VOMCNXM
 - android: '15.0'
   codename: miro
+  date: '2025-05-02'
+  download: https://bigota.d.miui.com/OS2.0.110.0.VOMEUXM/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.110.0.VOMEUXM-user-15.0-8e1c3d365c.zip
+  name: Redmi K80 Pro/POCO F7 Ultra
+  version: OS2.0.110.0.VOMEUXM
+- android: '15.0'
+  codename: miro
   date: '2025-01-02'
   download: https://bigota.d.miui.com/OS2.0.102.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.102.0.VOMCNXM-user-15.0-35854d9910.zip
   name: Redmi K80 Pro/POCO F7 Ultra
