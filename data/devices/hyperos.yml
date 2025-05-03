@@ -7188,6 +7188,12 @@
   version: OS2.0.104.0.VOMCNXM
 - android: '15.0'
   codename: miro
+  date: '2025-05-03'
+  download: https://bigota.d.miui.com/OS2.0.110.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.110.0.VOMCNXM-user-15.0-15010307e8.zip
+  name: Redmi K80 Pro/POCO F7 Ultra
+  version: OS2.0.110.0.VOMCNXM
+- android: '15.0'
+  codename: miro
   date: '2025-05-02'
   download: https://bigota.d.miui.com/OS2.0.110.0.VOMEUXM/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.110.0.VOMEUXM-user-15.0-8e1c3d365c.zip
   name: Redmi K80 Pro/POCO F7 Ultra
@@ -7990,6 +7996,12 @@
   download: https://bigota.d.miui.com/OS2.0.6.0.VOYCNXM/fw_muyu_muyu-ota_full-OS2.0.6.0.VOYCNXM-user-15.0-de700ef3c0.zip
   name: Xiaomi Pad 7 Pro
   version: OS2.0.6.0.VOYCNXM
+- android: '15.0'
+  codename: muyu
+  date: '2025-05-03'
+  download: https://bigota.d.miui.com/OS2.0.104.0.VOYMIXM/fw_muyu_global_muyu_global-ota_full-OS2.0.104.0.VOYMIXM-user-15.0-34705d4742.zip
+  name: Xiaomi Pad 7 Pro
+  version: OS2.0.104.0.VOYMIXM
 - android: '15.0'
   codename: muyu
   date: '2025-01-03'
