@@ -439,6 +439,26 @@
     android: '13.0'
     miui: V14.0.14.0.TLLCNXM
 - branch: stable
+  date: '2025-05-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-06.05.2025/fw_ziyi_eea_global_ziyi_eea_global-ota_full-OS2.0.6.0.VLLEUXM-user-15.0-15d489efff.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ziyi/fw_ziyi_eea_global_ziyi_eea_global-ota_full-OS2.0.6.0.VLLEUXM-user-15.0-15d489efff.zip
+  filename: fw_ziyi_eea_global_ziyi_eea_global-ota_full-OS2.0.6.0.VLLEUXM-user-15.0-15d489efff.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.6.0.VLLEUXM
+- branch: stable
+  date: '2025-05-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-06.05.2025/fw_ziyi_ziyi-ota_full-OS2.0.7.0.VLLCNXM-user-15.0-5a393b0bc6.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ziyi/fw_ziyi_ziyi-ota_full-OS2.0.7.0.VLLCNXM-user-15.0-5a393b0bc6.zip
+  filename: fw_ziyi_ziyi-ota_full-OS2.0.7.0.VLLCNXM-user-15.0-5a393b0bc6.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.7.0.VLLCNXM
+- branch: stable
   date: '2025-02-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-06.02.2025/fw_ziyi_miui_ZIYI_OS1.0.14.0.ULLCNXM_cd66e10f24_14.0.zip

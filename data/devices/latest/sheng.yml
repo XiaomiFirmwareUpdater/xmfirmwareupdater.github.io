@@ -19,12 +19,12 @@
     android: '15.0'
     miui: OS2.0.111.0.VNXCNXM
 - branch: stable
-  date: '2025-03-24'
+  date: '2025-05-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sheng/releases/download/stable-24.03.2025/fw_sheng_eea_global_sheng_eea_global-ota_full-OS2.0.101.0.VNXEUXM-user-15.0-2813eeb554.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sheng/fw_sheng_eea_global_sheng_eea_global-ota_full-OS2.0.101.0.VNXEUXM-user-15.0-2813eeb554.zip
-  filename: fw_sheng_eea_global_sheng_eea_global-ota_full-OS2.0.101.0.VNXEUXM-user-15.0-2813eeb554.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sheng/releases/download/stable-06.05.2025/fw_sheng_eea_global_sheng_eea_global-ota_full-OS2.0.103.0.VNXEUXM-user-15.0-848bfe60d7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sheng/fw_sheng_eea_global_sheng_eea_global-ota_full-OS2.0.103.0.VNXEUXM-user-15.0-848bfe60d7.zip
+  filename: fw_sheng_eea_global_sheng_eea_global-ota_full-OS2.0.103.0.VNXEUXM-user-15.0-848bfe60d7.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.101.0.VNXEUXM
+    miui: OS2.0.103.0.VNXEUXM
