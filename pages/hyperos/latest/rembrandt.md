@@ -54,6 +54,7 @@ permalink: /hyperos/rembrandt/
                 <tbody>
                 <tr><td>Redmi K60E China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.7.0.UMMCNXM</td><td>14.0</td><td>7.4 GB</td><td>2025-03-19</td><td><a href="/hyperos/rembrandt/stable/OS2.0.7.0.UMMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60E China</td><td>Stable</td><td>Recovery</td><td>OS2.0.7.0.UMMCNXM</td><td>14.0</td><td>6.1 GB</td><td>2025-03-26</td><td><a href="/hyperos/rembrandt/stable/OS2.0.7.0.UMMCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60E China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.10.0.UMMCNXM</td><td>14.0</td><td>6.1 GB</td><td>2025-04-30</td><td><a href="/hyperos/rembrandt/stable beta/OS2.0.10.0.UMMCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

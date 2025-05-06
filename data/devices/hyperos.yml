@@ -1564,6 +1564,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMLEUXM/fw_corot_miui_COROTEEAGlobal_OS1.0.4.0.UMLEUXM_71d7dc436c_14.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
   version: OS1.0.4.0.UMLEUXM
+- android: '15.0'
+  codename: corot
+  date: '2025-05-06'
+  download: https://bigota.d.miui.com/OS2.0.102.0.VMLEUXM/fw_corot_eea_global_corot_eea_global-ota_full-OS2.0.102.0.VMLEUXM-user-15.0-74a58d5d1b.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS2.0.102.0.VMLEUXM
 - android: '14.0'
   codename: corot
   date: '2024-05-06'
@@ -1792,6 +1798,18 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.ULCCNXM/fw_cupid_miui_CUPID_OS1.0.12.0.ULCCNXM_e5ab3c821b_14.0.zip
   name: Xiaomi 12
   version: OS1.0.12.0.ULCCNXM
+- android: '15.0'
+  codename: cupid
+  date: '2025-05-06'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VLCEUXM/fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.4.0.VLCEUXM-user-15.0-b68f27993d.zip
+  name: Xiaomi 12
+  version: OS2.0.4.0.VLCEUXM
+- android: '15.0'
+  codename: cupid
+  date: '2025-05-06'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VLCMIXM/fw_cupid_global_cupid_global-ota_full-OS2.0.3.0.VLCMIXM-user-15.0-8a26412d7c.zip
+  name: Xiaomi 12
+  version: OS2.0.3.0.VLCMIXM
 - android: '14.0'
   codename: cupid
   date: '2024-08-05'
@@ -1924,6 +1942,12 @@
   download: https://bigota.d.miui.com/OS2.0.16.0.VOCCNXM/fw_dada_dada-ota_full-OS2.0.16.0.VOCCNXM-user-15.0-016777baa5.zip
   name: Xiaomi 15
   version: OS2.0.16.0.VOCCNXM
+- android: '15.0'
+  codename: dada
+  date: '2025-05-06'
+  download: https://bigota.d.miui.com/OS2.0.112.0.VOCMIXM/fw_dada_global_dada_global-ota_full-OS2.0.112.0.VOCMIXM-user-15.0-231c4fdb51.zip
+  name: Xiaomi 15
+  version: OS2.0.112.0.VOCMIXM
 - android: '15.0'
   codename: dada
   date: '2024-12-05'
@@ -2908,6 +2932,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UNLINXM/fw_duchamp_miui_DUCHAMPINGlobal_OS1.0.8.0.UNLINXM_b6457b4ca2_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS1.0.8.0.UNLINXM
+- android: '15.0'
+  codename: duchamp
+  date: '2025-05-06'
+  download: https://bigota.d.miui.com/OS2.0.104.0.VNLEUXM/fw_duchamp_eea_global_duchamp_eea_global-ota_full-OS2.0.104.0.VNLEUXM-user-15.0-230e487891.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS2.0.104.0.VNLEUXM
 - android: '14.0'
   codename: duchamp
   date: '2024-03-06'
@@ -4414,6 +4444,12 @@
   download: https://bigota.d.miui.com/OS1.0.16.0.UNREUXM/fw_garnet_miui_GARNETEEAGlobal_OS1.0.16.0.UNREUXM_21a87ea0cf_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS1.0.16.0.UNREUXM
+- android: '15.0'
+  codename: garnet
+  date: '2025-05-06'
+  download: https://bigota.d.miui.com/OS2.0.7.0.VNRINXM/fw_garnet_in_global_garnet_in_global-ota_full-OS2.0.7.0.VNRINXM-user-15.0-1d577cb8e3.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS2.0.7.0.VNRINXM
 - android: '14.0'
   codename: garnet
   date: '2024-11-05'

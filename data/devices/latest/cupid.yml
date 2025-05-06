@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-03-28'
+  date: '2025-05-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-28.03.2025/fw_cupid_global_cupid_global-ota_full-OS2.0.1.0.VLCMIXM-user-15.0-15bdd076dc.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/cupid/fw_cupid_global_cupid_global-ota_full-OS2.0.1.0.VLCMIXM-user-15.0-15bdd076dc.zip
-  filename: fw_cupid_global_cupid_global-ota_full-OS2.0.1.0.VLCMIXM-user-15.0-15bdd076dc.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-06.05.2025/fw_cupid_global_cupid_global-ota_full-OS2.0.3.0.VLCMIXM-user-15.0-8a26412d7c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/cupid/fw_cupid_global_cupid_global-ota_full-OS2.0.3.0.VLCMIXM-user-15.0-8a26412d7c.zip
+  filename: fw_cupid_global_cupid_global-ota_full-OS2.0.3.0.VLCMIXM-user-15.0-8a26412d7c.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.1.0.VLCMIXM
+    miui: OS2.0.3.0.VLCMIXM
 - branch: stable
   date: '2025-03-28'
   downloads:
@@ -19,12 +19,12 @@
     android: '15.0'
     miui: OS2.0.7.0.VLCCNXM
 - branch: stable
-  date: '2025-04-07'
+  date: '2025-05-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-07.04.2025/fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.3.0.VLCEUXM-user-15.0-ae15dc41db.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/cupid/fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.3.0.VLCEUXM-user-15.0-ae15dc41db.zip
-  filename: fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.3.0.VLCEUXM-user-15.0-ae15dc41db.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-06.05.2025/fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.4.0.VLCEUXM-user-15.0-b68f27993d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/cupid/fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.4.0.VLCEUXM-user-15.0-b68f27993d.zip
+  filename: fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.4.0.VLCEUXM-user-15.0-b68f27993d.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.3.0.VLCEUXM
+    miui: OS2.0.4.0.VLCEUXM

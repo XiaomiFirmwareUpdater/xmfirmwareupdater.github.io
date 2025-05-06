@@ -56,22 +56,22 @@ permalink: /hyperos/sheng/stable/OS2.0.100.0.VNXIDXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.8 GB</h5>
+                    <h5><b>Size: </b>6.9 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-02-24</h5>
+                    <h5><b>Release Date: </b>2025-03-04</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sheng_id_global-ota_full-OS2.0.100.0.VNXIDXM-user-15.0-6e691aa1c5.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sheng_id_global_images_OS2.0.100.0.VNXIDXM_20250210.0000.00_15.0_id_3a6a1a5432.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">6e691aa1c598d103e9c50cb7d2bf6f17</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">3a6a1a54329d343d3e16b8ca631d8697</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS2.0.100.0.VNXIDXM/sheng_id_global-ota_incremental-OS2.0.2.0.VNXIDXM-OS2.0.100.0.VNXIDXM-user-15.0-b0c0be458c.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.100.0.VNXIDXM/sheng_id_global-ota_full-OS2.0.100.0.VNXIDXM-user-15.0-6e691aa1c5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.100.0.VNXIDXM/sheng_id_global-ota_full-OS2.0.100.0.VNXIDXM-user-15.0-6e691aa1c5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.100.0.VNXIDXM/sheng_id_global-ota_full-OS2.0.100.0.VNXIDXM-user-15.0-6e691aa1c5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.100.0.VNXIDXM/sheng_id_global-ota_full-OS2.0.100.0.VNXIDXM-user-15.0-6e691aa1c5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.100.0.VNXIDXM/sheng_id_global-ota_full-OS2.0.100.0.VNXIDXM-user-15.0-6e691aa1c5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.100.0.VNXIDXM/sheng_id_global_images_OS2.0.100.0.VNXIDXM_20250210.0000.00_15.0_id_3a6a1a5432.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.100.0.VNXIDXM/sheng_id_global_images_OS2.0.100.0.VNXIDXM_20250210.0000.00_15.0_id_3a6a1a5432.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.100.0.VNXIDXM/sheng_id_global_images_OS2.0.100.0.VNXIDXM_20250210.0000.00_15.0_id_3a6a1a5432.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.100.0.VNXIDXM/sheng_id_global_images_OS2.0.100.0.VNXIDXM_20250210.0000.00_15.0_id_3a6a1a5432.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.100.0.VNXIDXM/sheng_id_global_images_OS2.0.100.0.VNXIDXM_20250210.0000.00_15.0_id_3a6a1a5432.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#sheng_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/sheng/stable/OS2.0.100.0.VNXIDXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.9 GB</h5>
+                    <h5><b>Size: </b>5.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-03-04</h5>
+                    <h5><b>Release Date: </b>2025-02-24</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sheng_id_global_images_OS2.0.100.0.VNXIDXM_20250210.0000.00_15.0_id_3a6a1a5432.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sheng_id_global-ota_full-OS2.0.100.0.VNXIDXM-user-15.0-6e691aa1c5.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">3a6a1a54329d343d3e16b8ca631d8697</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6e691aa1c598d103e9c50cb7d2bf6f17</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.100.0.VNXIDXM/sheng_id_global_images_OS2.0.100.0.VNXIDXM_20250210.0000.00_15.0_id_3a6a1a5432.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.100.0.VNXIDXM/sheng_id_global_images_OS2.0.100.0.VNXIDXM_20250210.0000.00_15.0_id_3a6a1a5432.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.100.0.VNXIDXM/sheng_id_global_images_OS2.0.100.0.VNXIDXM_20250210.0000.00_15.0_id_3a6a1a5432.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.100.0.VNXIDXM/sheng_id_global_images_OS2.0.100.0.VNXIDXM_20250210.0000.00_15.0_id_3a6a1a5432.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.100.0.VNXIDXM/sheng_id_global_images_OS2.0.100.0.VNXIDXM_20250210.0000.00_15.0_id_3a6a1a5432.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS2.0.100.0.VNXIDXM/sheng_id_global-ota_incremental-OS2.0.2.0.VNXIDXM-OS2.0.100.0.VNXIDXM-user-15.0-b0c0be458c.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.100.0.VNXIDXM/sheng_id_global-ota_full-OS2.0.100.0.VNXIDXM-user-15.0-6e691aa1c5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.100.0.VNXIDXM/sheng_id_global-ota_full-OS2.0.100.0.VNXIDXM-user-15.0-6e691aa1c5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.100.0.VNXIDXM/sheng_id_global-ota_full-OS2.0.100.0.VNXIDXM-user-15.0-6e691aa1c5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.100.0.VNXIDXM/sheng_id_global-ota_full-OS2.0.100.0.VNXIDXM-user-15.0-6e691aa1c5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.100.0.VNXIDXM/sheng_id_global-ota_full-OS2.0.100.0.VNXIDXM-user-15.0-6e691aa1c5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#sheng_2_changelog" data-toggle="collapse" role="button"

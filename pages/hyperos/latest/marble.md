@@ -68,8 +68,12 @@ permalink: /hyperos/marble/
 <tr><td>POCO F5 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.17.0.UMRRUXM</td><td>14.0</td><td>5.0 GB</td><td>2025-03-27</td><td><a href="/hyperos/marble/stable/OS1.0.17.0.UMRRUXM/">Download</a></td></tr>
 <tr><td>POCO F5 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.17.0.UMRTRXM</td><td>14.0</td><td>7.1 GB</td><td>2025-03-19</td><td><a href="/hyperos/marble/stable/OS1.0.17.0.UMRTRXM/">Download</a></td></tr>
 <tr><td>POCO F5 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.17.0.UMRTRXM</td><td>14.0</td><td>5.0 GB</td><td>2025-03-27</td><td><a href="/hyperos/marble/stable/OS1.0.17.0.UMRTRXM/">Download</a></td></tr>
+<tr><td>POCO F5 India</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.3.0.VMRINXM</td><td>15.0</td><td>5.3 GB</td><td>2025-04-24</td><td><a href="/hyperos/marble/stable beta/OS2.0.3.0.VMRINXM/">Download</a></td></tr>
+<tr><td>POCO F5 Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.3.0.VMRRUXM</td><td>15.0</td><td>5.4 GB</td><td>2025-04-29</td><td><a href="/hyperos/marble/stable beta/OS2.0.3.0.VMRRUXM/">Download</a></td></tr>
+<tr><td>POCO F5 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.3.0.VMRTRXM</td><td>15.0</td><td>5.5 GB</td><td>2025-04-29</td><td><a href="/hyperos/marble/stable beta/OS2.0.3.0.VMRTRXM/">Download</a></td></tr>
 <tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.16.0.UMRTWXM</td><td>14.0</td><td>6.7 GB</td><td>2025-03-19</td><td><a href="/hyperos/marble/stable/OS1.0.16.0.UMRTWXM/">Download</a></td></tr>
 <tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.16.0.UMRTWXM</td><td>14.0</td><td>5.0 GB</td><td>2025-03-27</td><td><a href="/hyperos/marble/stable/OS1.0.16.0.UMRTWXM/">Download</a></td></tr>
+<tr><td>POCO F5 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.3.0.VMRTWXM</td><td>15.0</td><td>5.4 GB</td><td>2025-04-29</td><td><a href="/hyperos/marble/stable beta/OS2.0.3.0.VMRTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
