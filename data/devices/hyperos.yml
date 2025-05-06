@@ -1134,6 +1134,12 @@
   version: OS1.0.13.0.UOQEUXM
 - android: '14.0'
   codename: beryl
+  date: '2025-05-06'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UOQMIXM/fw_beryl_miui_BERYLGlobal_OS1.0.11.0.UOQMIXM_c575215db2_14.0.zip
+  name: Redmi Note 14 5G/POCO M7 Pro 5G
+  version: OS1.0.11.0.UOQMIXM
+- android: '14.0'
+  codename: beryl
   date: '2025-04-02'
   download: https://bigota.d.miui.com/OS1.0.9.0.UOQMIXM/fw_beryl_miui_BERYLGlobal_OS1.0.9.0.UOQMIXM_b622d5d47e_14.0.zip
   name: Redmi Note 14 5G/POCO M7 Pro 5G
@@ -5722,6 +5728,12 @@
   download: https://bigota.d.miui.com/OS2.0.1.0.ULJMIXM/fw_ingres_global_ingres_global-ota_full-OS2.0.1.0.ULJMIXM-user-14.0-dc40fefa1e.zip
   name: Redmi K50G/POCO F4 GT
   version: OS2.0.1.0.ULJMIXM
+- android: '14.0'
+  codename: ingres
+  date: '2025-05-06'
+  download: https://bigota.d.miui.com/OS2.0.2.0.ULJEUXM/fw_ingres_eea_global_ingres_eea_global-ota_full-OS2.0.2.0.ULJEUXM-user-14.0-afb0a4dbbc.zip
+  name: Redmi K50G/POCO F4 GT
+  version: OS2.0.2.0.ULJEUXM
 - android: '14.0'
   codename: ingres
   date: '2025-05-06'
@@ -13054,6 +13066,12 @@
   download: https://bigota.d.miui.com/OS1.0.16.0.ULACNXM/fw_thor_miui_THOR_OS1.0.16.0.ULACNXM_2d1b0e6d67_14.0.zip
   name: Xiaomi 12S Ultra
   version: OS1.0.16.0.ULACNXM
+- android: '15.0'
+  codename: thor
+  date: '2025-05-06'
+  download: https://bigota.d.miui.com/OS2.0.12.0.VLACNXM/fw_thor_thor-ota_full-OS2.0.12.0.VLACNXM-user-15.0-b2338392ee.zip
+  name: Xiaomi 12S Ultra
+  version: OS2.0.12.0.VLACNXM
 - android: '15.0'
   codename: thor
   date: '2025-02-06'
