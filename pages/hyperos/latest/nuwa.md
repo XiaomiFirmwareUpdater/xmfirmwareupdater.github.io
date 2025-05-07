@@ -52,10 +52,9 @@ permalink: /hyperos/nuwa/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 13 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.106.0.VMBCNXM</td><td>15.0</td><td>8.6 GB</td><td>2025-04-09</td><td><a href="/hyperos/nuwa/stable/OS2.0.106.0.VMBCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.106.0.VMBCNXM</td><td>15.0</td><td>6.9 GB</td><td>2025-03-28</td><td><a href="/hyperos/nuwa/stable/OS2.0.106.0.VMBCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 13 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.107.0.VMBCNXM</td><td>15.0</td><td>8.6 GB</td><td>2025-05-07</td><td><a href="/hyperos/nuwa/stable/OS2.0.107.0.VMBCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.107.0.VMBCNXM</td><td>15.0</td><td>6.9 GB</td><td>2025-04-24</td><td><a href="/hyperos/nuwa/stable/OS2.0.107.0.VMBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>6.5 GB</td><td>2024-01-12</td><td><a href="/hyperos/nuwa/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.107.0.VMBCNXM</td><td>15.0</td><td>6.9 GB</td><td>2025-04-24</td><td><a href="/hyperos/nuwa/stable beta/OS2.0.107.0.VMBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.105.0.VMBEUXM</td><td>15.0</td><td>6.9 GB</td><td>2025-04-11</td><td><a href="/hyperos/nuwa/stable/OS2.0.105.0.VMBEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.105.0.VMBEUXM</td><td>15.0</td><td>6.2 GB</td><td>2025-04-03</td><td><a href="/hyperos/nuwa/stable/OS2.0.105.0.VMBEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.106.0.VMBEUXM</td><td>15.0</td><td>6.2 GB</td><td>2025-04-25</td><td><a href="/hyperos/nuwa/stable beta/OS2.0.106.0.VMBEUXM/">Download</a></td></tr>
