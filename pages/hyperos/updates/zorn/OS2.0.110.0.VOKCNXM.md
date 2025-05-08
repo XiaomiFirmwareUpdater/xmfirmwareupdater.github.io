@@ -3,7 +3,7 @@ title: Redmi K80 China HyperOS OS2.0.110.0.VOKCNXM Update
 layout: download
 name: Redmi K80 China
 codename: zorn
-permalink: /hyperos/zorn/stable beta/OS2.0.110.0.VOKCNXM/
+permalink: /hyperos/zorn/stable/OS2.0.110.0.VOKCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/zorn/stable beta/OS2.0.110.0.VOKCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.110.0.VOKCNXM Stable Beta Official Update for Redmi K80 China (zorn)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.110.0.VOKCNXM Stable Official Update for Redmi K80 China (zorn)</h3>
     <h5>This page shows the OS2.0.110.0.VOKCNXM update only. If you're looking for other updates check
         <a href="/hyperos/zorn/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/zorn/stable beta/OS2.0.110.0.VOKCNXM/
                     <h5><b>Version: </b>OS2.0.110.0.VOKCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>9.3 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-05-08</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">zorn_images_OS2.0.110.0.VOKCNXM_20250427.0000.00_15.0_cn_253f977b70.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">253f977b7036100452a8c3bd83f5900d</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.110.0.VOKCNXM/zorn_images_OS2.0.110.0.VOKCNXM_20250427.0000.00_15.0_cn_253f977b70.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.110.0.VOKCNXM/zorn_images_OS2.0.110.0.VOKCNXM_20250427.0000.00_15.0_cn_253f977b70.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.110.0.VOKCNXM/zorn_images_OS2.0.110.0.VOKCNXM_20250427.0000.00_15.0_cn_253f977b70.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.110.0.VOKCNXM/zorn_images_OS2.0.110.0.VOKCNXM_20250427.0000.00_15.0_cn_253f977b70.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.110.0.VOKCNXM/zorn_images_OS2.0.110.0.VOKCNXM_20250427.0000.00_15.0_cn_253f977b70.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#zorn_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="zorn_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="zorn_1_changelog">
+                        <p id="changelog_text">[Highlights]<br>Fix: Misalignment issue in the volume rocker in certain scenarios</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi K80 China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/zorn/" target="_blank">zorn</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.110.0.VOKCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -74,10 +117,10 @@ permalink: /hyperos/zorn/stable beta/OS2.0.110.0.VOKCNXM/
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS2.0.110.0.VOKCNXM/zorn-ota_incremental-OS2.0.109.0.VOKCNXM-OS2.0.110.0.VOKCNXM-user-15.0-dbe7dd190e.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.110.0.VOKCNXM/zorn-ota_full-OS2.0.110.0.VOKCNXM-user-15.0-7aed5e9c28.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.110.0.VOKCNXM/zorn-ota_full-OS2.0.110.0.VOKCNXM-user-15.0-7aed5e9c28.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.110.0.VOKCNXM/zorn-ota_full-OS2.0.110.0.VOKCNXM-user-15.0-7aed5e9c28.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.110.0.VOKCNXM/zorn-ota_full-OS2.0.110.0.VOKCNXM-user-15.0-7aed5e9c28.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.110.0.VOKCNXM/zorn-ota_full-OS2.0.110.0.VOKCNXM-user-15.0-7aed5e9c28.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#zorn_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="zorn_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#zorn_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="zorn_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="zorn_1_changelog">
+                    <div class="collapse" id="zorn_2_changelog">
                         <p id="changelog_text">[Highlights]<br>Fix: Misalignment issue in the volume rocker in certain scenarios</p>
                     </div>
                 </li>
