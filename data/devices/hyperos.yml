@@ -844,6 +844,12 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.VNAINXM/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.3.0.VNAINXM-user-15.0-fd41d0457b.zip
   name: Xiaomi 14 Ultra
   version: OS2.0.3.0.VNAINXM
+- android: '15.0'
+  codename: aurora
+  date: '2025-05-09'
+  download: https://bigota.d.miui.com/OS2.0.110.0.VNACNXM/fw_aurora_aurora-ota_full-OS2.0.110.0.VNACNXM-user-15.0-f6b4c3cbd7.zip
+  name: Xiaomi 14 Ultra
+  version: OS2.0.110.0.VNACNXM
 - android: '14.0'
   codename: aurora
   date: '2024-04-08'
@@ -1216,6 +1222,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNUINXM/fw_breeze_miui_BREEZEINGlobal_OS1.0.4.0.UNUINXM_0f4314a62b_14.0.zip
   name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
   version: OS1.0.4.0.UNUINXM
+- android: '15.0'
+  codename: breeze
+  date: '2025-05-09'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VNUCNXM/fw_breeze_breeze-ota_full-OS2.0.6.0.VNUCNXM-user-15.0-0a6bc7c22d.zip
+  name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
+  version: OS2.0.6.0.VNUCNXM
 - android: '14.0'
   codename: breeze
   date: '2024-07-08'
