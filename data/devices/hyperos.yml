@@ -3522,6 +3522,12 @@
   version: OS1.0.8.0.UMXINXM
 - android: '15.0'
   codename: fire
+  date: '2025-05-09'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VMXEUXM/fw_fire_eea_global_fire_eea_global-ota_full-OS2.0.6.0.VMXEUXM-user-15.0-332fb4b233.zip
+  name: Redmi 12
+  version: OS2.0.6.0.VMXEUXM
+- android: '15.0'
+  codename: fire
   date: '2025-02-10'
   download: https://bigota.d.miui.com/OS2.0.2.0.VMXINXM/fw_fire_in_global_fire_in_global-ota_full-OS2.0.2.0.VMXINXM-user-15.0-4a912b222a.zip
   name: Redmi 12
@@ -8634,6 +8640,12 @@
   version: OS2.0.114.0.VOLCNXM
 - android: '15.0'
   codename: onyx
+  date: '2025-05-09'
+  download: https://bigota.d.miui.com/OS2.0.126.0.VOLCNXM/fw_onyx_onyx-ota_full-OS2.0.126.0.VOLCNXM-user-15.0-c5134083da.zip
+  name: Redmi Turbo 4 Pro
+  version: OS2.0.126.0.VOLCNXM
+- android: '15.0'
+  codename: onyx
   date: '2025-05-06'
   download: https://bigota.d.miui.com/OS2.0.124.0.VOLCNXM/fw_onyx_onyx-ota_full-OS2.0.124.0.VOLCNXM-user-15.0-624da2200e.zip
   name: Redmi Turbo 4 Pro
@@ -8920,6 +8932,12 @@
   download: https://bigota.d.miui.com/OS2.0.102.0.VNPINXM/fw_peridot_in_global_peridot_in_global-ota_full-OS2.0.102.0.VNPINXM-user-15.0-04934990fd.zip
   name: Redmi Turbo 3/POCO F6
   version: OS2.0.102.0.VNPINXM
+- android: '15.0'
+  codename: peridot
+  date: '2025-05-09'
+  download: https://bigota.d.miui.com/OS2.0.103.0.VNPMIXM/fw_peridot_global_peridot_global-ota_full-OS2.0.103.0.VNPMIXM-user-15.0-d5633616f7.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS2.0.103.0.VNPMIXM
 - android: '15.0'
   codename: peridot
   date: '2025-03-10'
