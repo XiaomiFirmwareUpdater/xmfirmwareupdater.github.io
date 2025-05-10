@@ -19,15 +19,15 @@
     android: '14.0'
     miui: OS1.0.14.0.UKWEUXM
 - branch: stable
-  date: '2025-03-28'
+  date: '2025-05-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-28.03.2025/fw_air_miui_AIRGlobal_OS1.0.5.0.UGQMIXM_550a3e1d14_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/air/fw_air_miui_AIRGlobal_OS1.0.5.0.UGQMIXM_550a3e1d14_14.0.zip
-  filename: fw_air_miui_AIRGlobal_OS1.0.5.0.UGQMIXM_550a3e1d14_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-10.05.2025/fw_air_global_air_global-ota_full-OS2.0.2.0.VGQMIXM-user-15.0-3b2261ebb1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/air/fw_air_global_air_global-ota_full-OS2.0.2.0.VGQMIXM-user-15.0-3b2261ebb1.zip
+  filename: fw_air_global_air_global-ota_full-OS2.0.2.0.VGQMIXM-user-15.0-3b2261ebb1.zip
   region: Global
   versions:
-    android: '14.0'
-    miui: OS1.0.5.0.UGQMIXM
+    android: '15.0'
+    miui: OS2.0.2.0.VGQMIXM
 - branch: stable
   date: '2025-04-25'
   downloads:
@@ -2549,15 +2549,15 @@
     android: '15.0'
     miui: OS2.0.103.0.VMAMIXM
 - branch: stable
-  date: '2025-03-31'
+  date: '2025-05-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-31.03.2025/fw_ishtar_ishtar-ota_full-OS2.0.108.0.VMACNXM-user-15.0-2c25a16f22.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ishtar/fw_ishtar_ishtar-ota_full-OS2.0.108.0.VMACNXM-user-15.0-2c25a16f22.zip
-  filename: fw_ishtar_ishtar-ota_full-OS2.0.108.0.VMACNXM-user-15.0-2c25a16f22.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-10.05.2025/fw_ishtar_ishtar-ota_full-OS2.0.109.0.VMACNXM-user-15.0-fda44c9dd8.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ishtar/fw_ishtar_ishtar-ota_full-OS2.0.109.0.VMACNXM-user-15.0-fda44c9dd8.zip
+  filename: fw_ishtar_ishtar-ota_full-OS2.0.109.0.VMACNXM-user-15.0-fda44c9dd8.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.108.0.VMACNXM
+    miui: OS2.0.109.0.VMACNXM
 - branch: stable
   date: '2025-04-21'
   downloads:

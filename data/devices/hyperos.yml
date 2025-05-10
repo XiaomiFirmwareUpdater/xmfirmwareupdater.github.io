@@ -246,6 +246,12 @@
   version: OS1.0.2.0.UGQCNXM
 - android: '15.0'
   codename: air
+  date: '2025-05-10'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VGQMIXM/fw_air_global_air_global-ota_full-OS2.0.2.0.VGQMIXM-user-15.0-3b2261ebb1.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS2.0.2.0.VGQMIXM
+- android: '15.0'
+  codename: air
   date: '2025-02-10'
   download: https://bigota.d.miui.com/OS2.0.1.0.VGQMIXM/fw_air_global_air_global-ota_full-OS2.0.1.0.VGQMIXM-user-15.0-33214877f3.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
@@ -5956,6 +5962,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMAMIXM/fw_ishtar_miui_ISHTARGlobal_OS1.0.4.0.UMAMIXM_2835e1645d_14.0.zip
   name: Xiaomi 13 Ultra
   version: OS1.0.4.0.UMAMIXM
+- android: '15.0'
+  codename: ishtar
+  date: '2025-05-10'
+  download: https://bigota.d.miui.com/OS2.0.109.0.VMACNXM/fw_ishtar_ishtar-ota_full-OS2.0.109.0.VMACNXM-user-15.0-fda44c9dd8.zip
+  name: Xiaomi 13 Ultra
+  version: OS2.0.109.0.VMACNXM
 - android: '15.0'
   codename: ishtar
   date: '2025-01-10'
