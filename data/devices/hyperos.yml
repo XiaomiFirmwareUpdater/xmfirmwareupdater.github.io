@@ -4188,6 +4188,12 @@
   version: OS2.0.2.0.VGPMIXM
 - android: '15.0'
   codename: gale
+  date: '2025-05-11'
+  download: https://bigota.d.miui.com/OS2.0.8.0.VGPEUXM/fw_gale_eea_global_gale_eea_global-ota_full-OS2.0.8.0.VGPEUXM-user-15.0-27e0309629.zip
+  name: Redmi 13C/POCO C65
+  version: OS2.0.8.0.VGPEUXM
+- android: '15.0'
+  codename: gale
   date: '2025-03-12'
   download: https://bigota.d.miui.com/OS2.0.6.0.VGPEUXM/fw_gale_eea_global_gale_eea_global-ota_full-OS2.0.6.0.VGPEUXM-user-15.0-171b4f170b.zip
   name: Redmi 13C/POCO C65
