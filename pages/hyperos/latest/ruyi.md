@@ -61,10 +61,10 @@ permalink: /hyperos/ruyi/
 <tr><td>MIX Flip Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.104.0.VNIMIXM</td><td>15.0</td><td>8.1 GB</td><td>2025-04-27</td><td><a href="/hyperos/ruyi/stable/OS2.0.104.0.VNIMIXM/">Download</a></td></tr>
 <tr><td>MIX Flip Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.104.0.VNIMIXM</td><td>15.0</td><td>6.8 GB</td><td>2025-04-18</td><td><a href="/hyperos/ruyi/stable/OS2.0.104.0.VNIMIXM/">Download</a></td></tr>
 <tr><td>MIX Flip Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.106.0.VNIMIXM</td><td>15.0</td><td>6.8 GB</td><td>2025-05-09</td><td><a href="/hyperos/ruyi/stable beta/OS2.0.106.0.VNIMIXM/">Download</a></td></tr>
-<tr><td>MIX Flip Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UNIRUXM</td><td>14.0</td><td>6.4 GB</td><td>2024-12-13</td><td><a href="/hyperos/ruyi/stable/OS1.0.8.0.UNIRUXM/">Download</a></td></tr>
-<tr><td>MIX Flip Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UNITWXM</td><td>14.0</td><td>6.4 GB</td><td>2024-12-13</td><td><a href="/hyperos/ruyi/stable/OS1.0.11.0.UNITWXM/">Download</a></td></tr>
 <tr><td>MIX Flip Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VNIRUXM</td><td>15.0</td><td>9.1 GB</td><td>2025-04-07</td><td><a href="/hyperos/ruyi/stable/OS2.0.101.0.VNIRUXM/">Download</a></td></tr>
+<tr><td>MIX Flip Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.101.0.VNIRUXM</td><td>15.0</td><td>6.8 GB</td><td>2025-03-28</td><td><a href="/hyperos/ruyi/stable/OS2.0.101.0.VNIRUXM/">Download</a></td></tr>
 <tr><td>MIX Flip Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VNITWXM</td><td>15.0</td><td>7.8 GB</td><td>2025-04-07</td><td><a href="/hyperos/ruyi/stable/OS2.0.101.0.VNITWXM/">Download</a></td></tr>
+<tr><td>MIX Flip Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.101.0.VNITWXM</td><td>15.0</td><td>6.7 GB</td><td>2025-03-28</td><td><a href="/hyperos/ruyi/stable/OS2.0.101.0.VNITWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
