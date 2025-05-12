@@ -199,6 +199,16 @@
     android: '14.0'
     miui: OS1.0.12.0.UNIMIXM
 - branch: stable
+  date: '2025-05-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-12.05.2025/fw_ruyi_eea_global_ruyi_eea_global-ota_full-OS2.0.103.0.VNIEUXM-user-15.0-019589fe81.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruyi/fw_ruyi_eea_global_ruyi_eea_global-ota_full-OS2.0.103.0.VNIEUXM-user-15.0-019589fe81.zip
+  filename: fw_ruyi_eea_global_ruyi_eea_global-ota_full-OS2.0.103.0.VNIEUXM-user-15.0-019589fe81.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.103.0.VNIEUXM
+- branch: stable
   date: '2024-10-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-09.10.2024/fw_ruyi_miui_RUYIEEAGlobal_OS1.0.8.0.UNIEUXM_35b495e4f0_14.0.zip

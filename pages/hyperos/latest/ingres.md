@@ -68,9 +68,8 @@ permalink: /hyperos/ingres/
 <tr><td>POCO F4 GT Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.ULJTRXM</td><td>14.0</td><td>5.4 GB</td><td>2025-04-23</td><td><a href="/hyperos/ingres/stable/OS2.0.1.0.ULJTRXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.ULJTRXM</td><td>14.0</td><td>6.4 GB</td><td>2025-03-25</td><td><a href="/hyperos/ingres/stable/OS2.0.1.0.ULJTRXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.2.0.ULJTRXM</td><td>14.0</td><td>5.4 GB</td><td>2025-04-30</td><td><a href="/hyperos/ingres/stable beta/OS2.0.2.0.ULJTRXM/">Download</a></td></tr>
-<tr><td>POCO F4 GT Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.ULJTWXM</td><td>14.0</td><td>5.2 GB</td><td>2025-04-07</td><td><a href="/hyperos/ingres/stable/OS2.0.1.0.ULJTWXM/">Download</a></td></tr>
-<tr><td>POCO F4 GT Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.ULJTWXM</td><td>14.0</td><td>6.1 GB</td><td>2025-03-25</td><td><a href="/hyperos/ingres/stable/OS2.0.1.0.ULJTWXM/">Download</a></td></tr>
-<tr><td>POCO F4 GT Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.2.0.ULJTWXM</td><td>14.0</td><td>5.2 GB</td><td>2025-04-30</td><td><a href="/hyperos/ingres/stable beta/OS2.0.2.0.ULJTWXM/">Download</a></td></tr>
+<tr><td>POCO F4 GT Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.ULJTWXM</td><td>14.0</td><td>6.1 GB</td><td>2025-04-21</td><td><a href="/hyperos/ingres/stable/OS2.0.2.0.ULJTWXM/">Download</a></td></tr>
+<tr><td>POCO F4 GT Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.ULJTWXM</td><td>14.0</td><td>5.2 GB</td><td>2025-04-30</td><td><a href="/hyperos/ingres/stable/OS2.0.2.0.ULJTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

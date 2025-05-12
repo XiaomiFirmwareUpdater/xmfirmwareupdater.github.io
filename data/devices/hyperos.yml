@@ -232,6 +232,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UGQMIXM/fw_air_miui_AIRGlobal_OS1.0.4.0.UGQMIXM_1883599413_14.0.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
   version: OS1.0.4.0.UGQMIXM
+- android: '15.0'
+  codename: air
+  date: '2025-05-12'
+  download: https://bigota.d.miui.com/OS2.0.5.0.VGQEUXM/fw_air_eea_global_air_eea_global-ota_full-OS2.0.5.0.VGQEUXM-user-15.0-a0087c1011.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS2.0.5.0.VGQEUXM
 - android: '14.0'
   codename: air
   date: '2024-10-11'
@@ -1096,6 +1102,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UOQMIXM/fw_beryl_miui_BERYLGlobal_OS1.0.8.0.UOQMIXM_8c25bf3da3_14.0.zip
   name: Redmi Note 14 5G/POCO M7 Pro 5G
   version: OS1.0.8.0.UOQMIXM
+- android: '15.0'
+  codename: beryl
+  date: '2025-05-12'
+  download: https://bigota.d.miui.com/OS2.0.10.0.VOQCNXM/fw_beryl_beryl-ota_full-OS2.0.10.0.VOQCNXM-user-15.0-e8ce7c34e6.zip
+  name: Redmi Note 14 5G/POCO M7 Pro 5G
+  version: OS2.0.10.0.VOQCNXM
 - android: '14.0'
   codename: beryl
   date: '2025-02-12'
@@ -3672,6 +3684,12 @@
   version: OS1.0.8.0.UHXMIXM
 - android: '15.0'
   codename: flare
+  date: '2025-05-12'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VHXEUXM/fw_flare_eea_global_flare_eea_global-ota_full-OS2.0.3.0.VHXEUXM-user-15.0-1f0dac307a.zip
+  name: Redmi Pad SE 8.7 5G
+  version: OS2.0.3.0.VHXEUXM
+- android: '15.0'
+  codename: flare
   date: '2025-02-10'
   download: https://bigota.d.miui.com/OS2.0.1.0.VHXMIXM/fw_flare_global_flare_global-ota_full-OS2.0.1.0.VHXMIXM-user-15.0-f4b05c0782.zip
   name: Redmi Pad SE 8.7 5G
@@ -4780,6 +4798,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UNQMIXM/fw_gold_miui_GOLDGlobal_OS1.0.12.0.UNQMIXM_0dda83858c_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: OS1.0.12.0.UNQMIXM
+- android: '15.0'
+  codename: gold
+  date: '2025-05-12'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VNQMIXM/fw_gold_global_gold_global-ota_full-OS2.0.6.0.VNQMIXM-user-15.0-72ddb0b05a.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS2.0.6.0.VNQMIXM
 - android: '15.0'
   codename: gold
   date: '2025-02-12'
@@ -10576,6 +10600,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UFSEUXM/fw_ruan_miui_RUANEEAGlobal_OS1.0.10.0.UFSEUXM_69e32ebe75_14.0.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS1.0.10.0.UFSEUXM
+- android: '15.0'
+  codename: ruan
+  date: '2025-05-12'
+  download: https://bigota.d.miui.com/OS2.0.5.0.VFSEUXM/fw_ruan_eea_global_ruan_eea_global-ota_full-OS2.0.5.0.VFSEUXM-user-15.0-a63f6340c4.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS2.0.5.0.VFSEUXM
 - android: '14.0'
   codename: ruan
   date: '2024-12-11'
@@ -11188,6 +11218,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UNIMIXM/fw_ruyi_miui_RUYIGlobal_OS1.0.12.0.UNIMIXM_7670240b73_14.0.zip
   name: MIX Flip
   version: OS1.0.12.0.UNIMIXM
+- android: '15.0'
+  codename: ruyi
+  date: '2025-05-12'
+  download: https://bigota.d.miui.com/OS2.0.103.0.VNIEUXM/fw_ruyi_eea_global_ruyi_eea_global-ota_full-OS2.0.103.0.VNIEUXM-user-15.0-019589fe81.zip
+  name: MIX Flip
+  version: OS2.0.103.0.VNIEUXM
 - android: '14.0'
   codename: ruyi
   date: '2024-10-09'
