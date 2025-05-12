@@ -54,6 +54,7 @@ permalink: /archive/hyperos/rodin/
                 <tbody>
                 <tr><td>POCO X7 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VOJTWXM</td><td>15.0</td><td>7.9 GB</td><td>2025-04-30</td><td><a href="/hyperos/rodin/stable/OS2.0.101.0.VOJTWXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.101.0.VOJTWXM</td><td>15.0</td><td>5.8 GB</td><td>2025-04-24</td><td><a href="/hyperos/rodin/stable/OS2.0.101.0.VOJTWXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 4 China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.110.0.VOJCNXM</td><td>15.0</td><td>7.1 GB</td><td>2025-04-30</td><td><a href="/hyperos/rodin/stable beta/OS2.0.110.0.VOJCNXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VOJINXM</td><td>15.0</td><td>7.7 GB</td><td>2025-04-29</td><td><a href="/hyperos/rodin/stable/OS2.0.101.0.VOJINXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro India</td><td>Stable</td><td>Recovery</td><td>OS2.0.101.0.VOJINXM</td><td>15.0</td><td>5.7 GB</td><td>2025-04-21</td><td><a href="/hyperos/rodin/stable/OS2.0.101.0.VOJINXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VOJRUXM</td><td>15.0</td><td>9.3 GB</td><td>2025-04-29</td><td><a href="/hyperos/rodin/stable/OS2.0.101.0.VOJRUXM/">Download</a></td></tr>

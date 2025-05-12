@@ -499,15 +499,15 @@
     android: '14.0'
     miui: OS1.0.16.0.UOQEUXM
 - branch: stable
-  date: '2025-04-01'
+  date: '2025-05-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-01.04.2025/fw_beryl_in_global_beryl_in_global-ota_full-OS2.0.3.0.VOQINXM-user-15.0-b72aeda189.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/beryl/fw_beryl_in_global_beryl_in_global-ota_full-OS2.0.3.0.VOQINXM-user-15.0-b72aeda189.zip
-  filename: fw_beryl_in_global_beryl_in_global-ota_full-OS2.0.3.0.VOQINXM-user-15.0-b72aeda189.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-12.05.2025/fw_beryl_in_global_beryl_in_global-ota_full-OS2.0.4.0.VOQINXM-user-15.0-93ecf745bd.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/beryl/fw_beryl_in_global_beryl_in_global-ota_full-OS2.0.4.0.VOQINXM-user-15.0-93ecf745bd.zip
+  filename: fw_beryl_in_global_beryl_in_global-ota_full-OS2.0.4.0.VOQINXM-user-15.0-93ecf745bd.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.3.0.VOQINXM
+    miui: OS2.0.4.0.VOQINXM
 - branch: stable
   date: '2021-01-12'
   downloads:
@@ -4779,15 +4779,15 @@
     android: '15.0'
     miui: OS2.0.101.0.VOJMIXM
 - branch: stable
-  date: '2025-04-14'
+  date: '2025-05-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-14.04.2025/fw_rodin_rodin-ota_full-OS2.0.109.0.VOJCNXM-user-15.0-9ed36383e6.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rodin/fw_rodin_rodin-ota_full-OS2.0.109.0.VOJCNXM-user-15.0-9ed36383e6.zip
-  filename: fw_rodin_rodin-ota_full-OS2.0.109.0.VOJCNXM-user-15.0-9ed36383e6.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-12.05.2025/fw_rodin_rodin-ota_full-OS2.0.110.0.VOJCNXM-user-15.0-1f74964ee3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rodin/fw_rodin_rodin-ota_full-OS2.0.110.0.VOJCNXM-user-15.0-1f74964ee3.zip
+  filename: fw_rodin_rodin-ota_full-OS2.0.110.0.VOJCNXM-user-15.0-1f74964ee3.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.109.0.VOJCNXM
+    miui: OS2.0.110.0.VOJCNXM
 - branch: stable
   date: '2025-03-28'
   downloads:
@@ -5039,15 +5039,15 @@
     android: '14.0'
     miui: OS1.0.13.0.UMOINXM
 - branch: stable
-  date: '2025-04-22'
+  date: '2025-05-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-22.04.2025/fw_ruyi_global_ruyi_global-ota_full-OS2.0.104.0.VNIMIXM-user-15.0-2cf75879fb.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruyi/fw_ruyi_global_ruyi_global-ota_full-OS2.0.104.0.VNIMIXM-user-15.0-2cf75879fb.zip
-  filename: fw_ruyi_global_ruyi_global-ota_full-OS2.0.104.0.VNIMIXM-user-15.0-2cf75879fb.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-12.05.2025/fw_ruyi_global_ruyi_global-ota_full-OS2.0.106.0.VNIMIXM-user-15.0-1c256c475d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruyi/fw_ruyi_global_ruyi_global-ota_full-OS2.0.106.0.VNIMIXM-user-15.0-1c256c475d.zip
+  filename: fw_ruyi_global_ruyi_global-ota_full-OS2.0.106.0.VNIMIXM-user-15.0-1c256c475d.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.104.0.VNIMIXM
+    miui: OS2.0.106.0.VNIMIXM
 - branch: stable
   date: '2025-04-14'
   downloads:
@@ -5459,15 +5459,15 @@
     android: '15.0'
     miui: OS2.0.3.0.VHYMIXM
 - branch: stable
-  date: '2025-03-11'
+  date: '2025-05-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spark/releases/download/stable-11.03.2025/fw_spark_eea_global_spark_eea_global-ota_full-OS2.0.2.0.VHYEUXM-user-15.0-3cd32adf16.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/spark/fw_spark_eea_global_spark_eea_global-ota_full-OS2.0.2.0.VHYEUXM-user-15.0-3cd32adf16.zip
-  filename: fw_spark_eea_global_spark_eea_global-ota_full-OS2.0.2.0.VHYEUXM-user-15.0-3cd32adf16.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spark/releases/download/stable-12.05.2025/fw_spark_eea_global_spark_eea_global-ota_full-OS2.0.3.0.VHYEUXM-user-15.0-1c4ed59a35.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/spark/fw_spark_eea_global_spark_eea_global-ota_full-OS2.0.3.0.VHYEUXM-user-15.0-1c4ed59a35.zip
+  filename: fw_spark_eea_global_spark_eea_global-ota_full-OS2.0.3.0.VHYEUXM-user-15.0-1c4ed59a35.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.2.0.VHYEUXM
+    miui: OS2.0.3.0.VHYEUXM
 - branch: stable
   date: '2025-04-21'
   downloads:
