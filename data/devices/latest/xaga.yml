@@ -9,15 +9,15 @@
     android: '14.0'
     miui: OS2.0.1.0.ULOMIXM
 - branch: stable
-  date: '2025-04-03'
+  date: '2025-05-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-03.04.2025/fw_xaga_xaga-ota_full-OS2.0.3.0.ULOCNXM-user-14.0-bce49e44e5.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xaga/fw_xaga_xaga-ota_full-OS2.0.3.0.ULOCNXM-user-14.0-bce49e44e5.zip
-  filename: fw_xaga_xaga-ota_full-OS2.0.3.0.ULOCNXM-user-14.0-bce49e44e5.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-12.05.2025/fw_xaga_xaga-ota_full-OS2.0.5.0.ULOCNXM-user-14.0-615ce04f91.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xaga/fw_xaga_xaga-ota_full-OS2.0.5.0.ULOCNXM-user-14.0-615ce04f91.zip
+  filename: fw_xaga_xaga-ota_full-OS2.0.5.0.ULOCNXM-user-14.0-615ce04f91.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS2.0.3.0.ULOCNXM
+    miui: OS2.0.5.0.ULOCNXM
 - branch: stable
   date: '2025-04-21'
   downloads:

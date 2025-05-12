@@ -9,15 +9,15 @@
     android: '14.0'
     miui: OS2.0.2.0.ULJMIXM
 - branch: stable
-  date: '2025-03-27'
+  date: '2025-05-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-27.03.2025/fw_ingres_ingres-ota_full-OS2.0.2.0.ULJCNXM-user-14.0-1d532d9906.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ingres/fw_ingres_ingres-ota_full-OS2.0.2.0.ULJCNXM-user-14.0-1d532d9906.zip
-  filename: fw_ingres_ingres-ota_full-OS2.0.2.0.ULJCNXM-user-14.0-1d532d9906.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-12.05.2025/fw_ingres_ingres-ota_full-OS2.0.5.0.ULJCNXM-user-14.0-f4c2771903.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ingres/fw_ingres_ingres-ota_full-OS2.0.5.0.ULJCNXM-user-14.0-f4c2771903.zip
+  filename: fw_ingres_ingres-ota_full-OS2.0.5.0.ULJCNXM-user-14.0-f4c2771903.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS2.0.2.0.ULJCNXM
+    miui: OS2.0.5.0.ULJCNXM
 - branch: stable
   date: '2025-05-06'
   downloads:
