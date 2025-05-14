@@ -12988,6 +12988,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UOGEUXM/fw_tanzanite_miui_TANZANITEEEAGlobal_OS1.0.7.0.UOGEUXM_f488b974a2_14.0.zip
   name: Redmi Note 14 4G
   version: OS1.0.7.0.UOGEUXM
+- android: '15.0'
+  codename: tanzanite
+  date: '2025-05-14'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VOGEUXM/fw_tanzanite_eea_global_tanzanite_eea_global-ota_full-OS2.0.6.0.VOGEUXM-user-15.0-c8b22562d2.zip
+  name: Redmi Note 14 4G
+  version: OS2.0.6.0.VOGEUXM
 - android: '14.0'
   codename: tanzanite
   date: '2025-01-13'
