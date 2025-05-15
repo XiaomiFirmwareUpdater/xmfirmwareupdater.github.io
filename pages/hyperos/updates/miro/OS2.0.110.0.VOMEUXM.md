@@ -121,7 +121,7 @@ permalink: /hyperos/miro/stable/OS2.0.110.0.VOMEUXM/
                             aria-expanded="false" aria-controls="miro_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="miro_2_changelog">
-                        <p id="changelog_text">[System]<br>Optimization: System stability<br>Fix: Errors occurred in some cases</p>
+                        <p id="changelog_text">[System]<br>Optimization: System stability<br>Fix: Errors occurred in some cases<br>[Control center]<br>New: Labels can now be displayed while editing Control center<br>Optimization: The process of switching device controls</p>
                     </div>
                 </li>
             </ul>
