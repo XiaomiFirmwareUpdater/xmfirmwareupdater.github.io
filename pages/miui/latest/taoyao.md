@@ -53,6 +53,7 @@ permalink: /miui/taoyao/
                 </thead>
                 <tbody>
                 <tr><td>Xiaomi 12 Lite EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.21.0.TLIEUXM</td><td>13.0</td><td>4.9 GB</td><td>2023-10-25</td><td><a href="/miui/taoyao/stable beta/V14.0.21.0.TLIEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Lite Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SLIMIXM</td><td>12.0</td><td>4.2 GB</td><td>2022-07-11</td><td><a href="/miui/taoyao/stable beta/V13.0.1.0.SLIMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
