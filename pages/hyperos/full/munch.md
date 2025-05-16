@@ -52,8 +52,10 @@ permalink: /archive/hyperos/munch/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F4 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.ULMTRXM</td><td>14.0</td><td>4.7 GB</td><td>2025-05-07</td><td><a href="/hyperos/munch/stable beta/OS1.0.7.0.ULMTRXM/">Download</a></td></tr>
-<tr><td>POCO F4 Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.ULMRUXM</td><td>14.0</td><td>4.7 GB</td><td>2025-05-07</td><td><a href="/hyperos/munch/stable beta/OS1.0.7.0.ULMRUXM/">Download</a></td></tr>
+                <tr><td>POCO F4 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.ULMTRXM</td><td>14.0</td><td>4.7 GB</td><td>2025-05-07</td><td><a href="/hyperos/munch/stable/OS1.0.7.0.ULMTRXM/">Download</a></td></tr>
+<tr><td>POCO F4 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.ULMTRXM</td><td>14.0</td><td>5.9 GB</td><td>2025-04-09</td><td><a href="/hyperos/munch/stable/OS1.0.7.0.ULMTRXM/">Download</a></td></tr>
+<tr><td>POCO F4 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.ULMRUXM</td><td>14.0</td><td>4.7 GB</td><td>2025-05-07</td><td><a href="/hyperos/munch/stable/OS1.0.7.0.ULMRUXM/">Download</a></td></tr>
+<tr><td>POCO F4 Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.ULMRUXM</td><td>14.0</td><td>6.1 GB</td><td>2025-04-09</td><td><a href="/hyperos/munch/stable/OS1.0.7.0.ULMRUXM/">Download</a></td></tr>
 <tr><td>POCO F4 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.ULMIDXM</td><td>14.0</td><td>4.6 GB</td><td>2025-04-29</td><td><a href="/hyperos/munch/stable/OS1.0.8.0.ULMIDXM/">Download</a></td></tr>
 <tr><td>POCO F4 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.ULMIDXM</td><td>14.0</td><td>6.1 GB</td><td>2025-04-09</td><td><a href="/hyperos/munch/stable/OS1.0.8.0.ULMIDXM/">Download</a></td></tr>
 <tr><td>POCO F4 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.ULMEUXM</td><td>14.0</td><td>4.7 GB</td><td>2025-04-22</td><td><a href="/hyperos/munch/stable/OS1.0.8.0.ULMEUXM/">Download</a></td></tr>
