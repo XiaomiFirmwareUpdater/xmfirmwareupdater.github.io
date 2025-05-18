@@ -1,9 +1,9 @@
 - branch: stable
-  date: '2025-04-22'
+  date: '2025-05-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klein/releases/download/stable-22.04.2025/fw_kle_miui_KLEINGlobal_V816.0.4.0.VGSMIXM_ceb4fa83d2_15.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V816/klein/fw_kle_miui_KLEINGlobal_V816.0.4.0.VGSMIXM_ceb4fa83d2_15.0.zip
-  filename: fw_kle_miui_KLEINGlobal_V816.0.4.0.VGSMIXM_ceb4fa83d2_15.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klein/releases/download/stable-22.04.2025/fw_klein_miui_KLEINGlobal_V816.0.4.0.VGSMIXM_ceb4fa83d2_15.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V816/klein/fw_klein_miui_KLEINGlobal_V816.0.4.0.VGSMIXM_ceb4fa83d2_15.0.zip
+  filename: fw_klein_miui_KLEINGlobal_V816.0.4.0.VGSMIXM_ceb4fa83d2_15.0.zip
   region: Global
   versions:
     android: '15.0'
