@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 19 May 2025 00:35:15 </lastBuildDate>
+        <lastBuildDate>Mon, 19 May 2025 07:43:42 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS1.0.17.0.UOQEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
+            <pubDate>Mon, 19 May 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 11T Pro (vili) - OS1.0.13.0.UKDMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/vili/</link>
+            <pubDate>Mon, 19 May 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 11T Pro (vili) - OS1.0.12.0.UKDINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/vili/</link>
+            <pubDate>Mon, 19 May 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi A3x (klein) - V816.0.4.0.VGSMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/klein/</link>
@@ -757,11 +772,6 @@
             <pubDate>Wed, 23 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS1.0.16.0.UOQEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
-            <pubDate>Tue, 22 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS2.0.3.0.UMSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
             <pubDate>Tue, 22 Apr 2025 00:00:00 </pubDate>
@@ -1129,16 +1139,6 @@
         <item>
             <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - OS1.0.12.0.TKCEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/veux/</link>
-            <pubDate>Mon, 07 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 11T Pro (vili) - OS1.0.11.0.UKDMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/vili/</link>
-            <pubDate>Mon, 07 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 11T Pro (vili) - OS1.0.11.0.UKDINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/vili/</link>
             <pubDate>Mon, 07 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>

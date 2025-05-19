@@ -1092,6 +1092,12 @@
   version: OS1.0.5.0.UOQINXM
 - android: '14.0'
   codename: beryl
+  date: '2025-05-19'
+  download: https://bigota.d.miui.com/OS1.0.17.0.UOQEUXM/fw_beryl_miui_BERYLEEAGlobal_OS1.0.17.0.UOQEUXM_764c50ea55_14.0.zip
+  name: Redmi Note 14 5G/POCO M7 Pro 5G
+  version: OS1.0.17.0.UOQEUXM
+- android: '14.0'
+  codename: beryl
   date: '2025-03-17'
   download: https://bigota.d.miui.com/OS1.0.7.0.UOQCNXM/fw_beryl_miui_BERYL_OS1.0.7.0.UOQCNXM_2f6026433f_14.0.zip
   name: Redmi Note 14 5G/POCO M7 Pro 5G
@@ -14284,6 +14290,18 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UKDMIXM/fw_vili_miui_VILIGlobal_OS1.0.4.0.UKDMIXM_4d9b862c7d_14.0.zip
   name: Xiaomi 11T Pro
   version: OS1.0.4.0.UKDMIXM
+- android: '14.0'
+  codename: vili
+  date: '2025-05-19'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UKDMIXM/fw_vili_miui_VILIGlobal_OS1.0.13.0.UKDMIXM_bcccfd8ec2_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.13.0.UKDMIXM
+- android: '14.0'
+  codename: vili
+  date: '2025-05-19'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UKDINXM/fw_vili_miui_VILIINGlobal_OS1.0.12.0.UKDINXM_e7b2a6f6ac_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.12.0.UKDINXM
 - android: '14.0'
   codename: vili
   date: '2024-11-18'

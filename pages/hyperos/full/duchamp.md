@@ -52,12 +52,13 @@ permalink: /archive/hyperos/duchamp/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO X6 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.104.0.VNLEUXM</td><td>15.0</td><td>8.4 GB</td><td>2025-05-14</td><td><a href="/hyperos/duchamp/stable/OS2.0.104.0.VNLEUXM/">Download</a></td></tr>
+                <tr><td>POCO X6 Pro 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VNLIDXM</td><td>15.0</td><td>8.2 GB</td><td>2025-05-19</td><td><a href="/hyperos/duchamp/stable/OS2.0.102.0.VNLIDXM/">Download</a></td></tr>
+<tr><td>POCO X6 Pro 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VNLIDXM</td><td>15.0</td><td>5.7 GB</td><td>2025-05-07</td><td><a href="/hyperos/duchamp/stable/OS2.0.102.0.VNLIDXM/">Download</a></td></tr>
+<tr><td>POCO X6 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.104.0.VNLEUXM</td><td>15.0</td><td>8.4 GB</td><td>2025-05-14</td><td><a href="/hyperos/duchamp/stable/OS2.0.104.0.VNLEUXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.104.0.VNLEUXM</td><td>15.0</td><td>5.7 GB</td><td>2025-04-29</td><td><a href="/hyperos/duchamp/stable/OS2.0.104.0.VNLEUXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VNLTWXM</td><td>15.0</td><td>7.6 GB</td><td>2025-05-14</td><td><a href="/hyperos/duchamp/stable/OS2.0.102.0.VNLTWXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VNLTWXM</td><td>15.0</td><td>5.6 GB</td><td>2025-04-28</td><td><a href="/hyperos/duchamp/stable/OS2.0.102.0.VNLTWXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.103.0.VNLMIXM</td><td>15.0</td><td>5.7 GB</td><td>2025-05-13</td><td><a href="/hyperos/duchamp/stable beta/OS2.0.103.0.VNLMIXM/">Download</a></td></tr>
-<tr><td>POCO X6 Pro 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.102.0.VNLIDXM</td><td>15.0</td><td>5.7 GB</td><td>2025-05-07</td><td><a href="/hyperos/duchamp/stable beta/OS2.0.102.0.VNLIDXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.100.0.VNLIDXM</td><td>15.0</td><td>8.2 GB</td><td>2025-05-06</td><td><a href="/hyperos/duchamp/stable/OS2.0.100.0.VNLIDXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.100.0.VNLIDXM</td><td>15.0</td><td>5.7 GB</td><td>2025-04-18</td><td><a href="/hyperos/duchamp/stable/OS2.0.100.0.VNLIDXM/">Download</a></td></tr>
 <tr><td>Redmi K70E China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.108.0.VNLCNXM</td><td>15.0</td><td>8.9 GB</td><td>2025-04-28</td><td><a href="/hyperos/duchamp/stable/OS2.0.108.0.VNLCNXM/">Download</a></td></tr>

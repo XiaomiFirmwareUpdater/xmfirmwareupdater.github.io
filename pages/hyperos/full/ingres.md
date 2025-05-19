@@ -52,7 +52,8 @@ permalink: /archive/hyperos/ingres/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50G China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.5.0.ULJCNXM</td><td>14.0</td><td>6.1 GB</td><td>2025-05-07</td><td><a href="/hyperos/ingres/stable beta/OS2.0.5.0.ULJCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K50G China</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.ULJCNXM</td><td>14.0</td><td>6.1 GB</td><td>2025-05-07</td><td><a href="/hyperos/ingres/stable/OS2.0.5.0.ULJCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50G China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.5.0.ULJCNXM</td><td>14.0</td><td>7.1 GB</td><td>2025-04-27</td><td><a href="/hyperos/ingres/stable/OS2.0.5.0.ULJCNXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.ULJIDXM</td><td>14.0</td><td>5.3 GB</td><td>2025-05-07</td><td><a href="/hyperos/ingres/stable/OS2.0.2.0.ULJIDXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.ULJIDXM</td><td>14.0</td><td>6.6 GB</td><td>2025-04-21</td><td><a href="/hyperos/ingres/stable/OS2.0.2.0.ULJIDXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.ULJRUXM</td><td>14.0</td><td>5.3 GB</td><td>2025-05-07</td><td><a href="/hyperos/ingres/stable/OS2.0.2.0.ULJRUXM/">Download</a></td></tr>

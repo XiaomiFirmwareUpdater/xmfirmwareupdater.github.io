@@ -3,7 +3,7 @@ title: POCO X6 Pro 5G Indonesia HyperOS OS2.0.102.0.VNLIDXM Update
 layout: download
 name: POCO X6 Pro 5G Indonesia
 codename: duchamp
-permalink: /hyperos/duchamp/stable beta/OS2.0.102.0.VNLIDXM/
+permalink: /hyperos/duchamp/stable/OS2.0.102.0.VNLIDXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/duchamp/stable beta/OS2.0.102.0.VNLIDXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.102.0.VNLIDXM Stable Beta Official Update for POCO X6 Pro 5G Indonesia (duchamp)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.102.0.VNLIDXM Stable Official Update for POCO X6 Pro 5G Indonesia (duchamp)</h3>
     <h5>This page shows the OS2.0.102.0.VNLIDXM update only. If you're looking for other updates check
         <a href="/hyperos/duchamp/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/duchamp/stable beta/OS2.0.102.0.VNLIDXM/
                     <h5><b>Version: </b>OS2.0.102.0.VNLIDXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>8.2 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-05-19</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">duchamp_id_global_images_OS2.0.102.0.VNLIDXM_20250428.0000.00_15.0_id_b36634a2cd.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">b36634a2cd72a01471bedd8668b06f07</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.102.0.VNLIDXM/duchamp_id_global_images_OS2.0.102.0.VNLIDXM_20250428.0000.00_15.0_id_b36634a2cd.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.102.0.VNLIDXM/duchamp_id_global_images_OS2.0.102.0.VNLIDXM_20250428.0000.00_15.0_id_b36634a2cd.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.102.0.VNLIDXM/duchamp_id_global_images_OS2.0.102.0.VNLIDXM_20250428.0000.00_15.0_id_b36634a2cd.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.102.0.VNLIDXM/duchamp_id_global_images_OS2.0.102.0.VNLIDXM_20250428.0000.00_15.0_id_b36634a2cd.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.102.0.VNLIDXM/duchamp_id_global_images_OS2.0.102.0.VNLIDXM_20250428.0000.00_15.0_id_b36634a2cd.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#duchamp_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="duchamp_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="duchamp_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to April 2025. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>POCO X6 Pro 5G Indonesia</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/duchamp/" target="_blank">duchamp</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.102.0.VNLIDXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -74,10 +117,10 @@ permalink: /hyperos/duchamp/stable beta/OS2.0.102.0.VNLIDXM/
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS2.0.102.0.VNLIDXM/duchamp_id_global-ota_incremental-OS2.0.100.0.VNLIDXM-OS2.0.102.0.VNLIDXM-user-15.0-61c6430642.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.102.0.VNLIDXM/duchamp_id_global-ota_full-OS2.0.102.0.VNLIDXM-user-15.0-f926b75830.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.102.0.VNLIDXM/duchamp_id_global-ota_full-OS2.0.102.0.VNLIDXM-user-15.0-f926b75830.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.102.0.VNLIDXM/duchamp_id_global-ota_full-OS2.0.102.0.VNLIDXM-user-15.0-f926b75830.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.102.0.VNLIDXM/duchamp_id_global-ota_full-OS2.0.102.0.VNLIDXM-user-15.0-f926b75830.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.102.0.VNLIDXM/duchamp_id_global-ota_full-OS2.0.102.0.VNLIDXM-user-15.0-f926b75830.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#duchamp_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="duchamp_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#duchamp_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="duchamp_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="duchamp_1_changelog">
+                    <div class="collapse" id="duchamp_2_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to April 2025. Increased system security.</p>
                     </div>
                 </li>
