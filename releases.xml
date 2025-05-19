@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 19 May 2025 07:43:42 </lastBuildDate>
+        <lastBuildDate>Mon, 19 May 2025 13:15:28 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS1.0.17.0.UOQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
+            <pubDate>Mon, 19 May 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>POCO M6 Pro (emeraldr) - OS1.0.6.0.UFOEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/emeraldr/</link>
             <pubDate>Mon, 19 May 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1180,11 +1185,6 @@
             <title>Redmi Pad SE (xun) - OS2.0.1.0.VMUINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xun/</link>
             <pubDate>Wed, 02 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.2.0.VNFEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
-            <pubDate>Tue, 01 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - OS1.0.9.0.ULOINXM</title>

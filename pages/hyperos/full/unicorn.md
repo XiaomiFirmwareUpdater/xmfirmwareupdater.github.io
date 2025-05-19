@@ -52,7 +52,8 @@ permalink: /archive/hyperos/unicorn/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12S Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.8.0.VLECNXM</td><td>15.0</td><td>6.2 GB</td><td>2025-05-08</td><td><a href="/hyperos/unicorn/stable beta/OS2.0.8.0.VLECNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12S Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.8.0.VLECNXM</td><td>15.0</td><td>6.2 GB</td><td>2025-05-08</td><td><a href="/hyperos/unicorn/stable/OS2.0.8.0.VLECNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12S Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.8.0.VLECNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-04-23</td><td><a href="/hyperos/unicorn/stable/OS2.0.8.0.VLECNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.7.0.VLECNXM</td><td>15.0</td><td>6.2 GB</td><td>2025-04-14</td><td><a href="/hyperos/unicorn/stable/OS2.0.7.0.VLECNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.7.0.VLECNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-04-03</td><td><a href="/hyperos/unicorn/stable/OS2.0.7.0.VLECNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.VLECNXM</td><td>15.0</td><td>6.2 GB</td><td>2025-03-09</td><td><a href="/hyperos/unicorn/stable/OS2.0.5.0.VLECNXM/">Download</a></td></tr>

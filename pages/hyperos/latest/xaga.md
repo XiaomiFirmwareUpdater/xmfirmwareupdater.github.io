@@ -52,24 +52,20 @@ permalink: /hyperos/xaga/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.ULOCNXM</td><td>14.0</td><td>7.3 GB</td><td>2025-03-25</td><td><a href="/hyperos/xaga/stable/OS2.0.3.0.ULOCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.ULOCNXM</td><td>14.0</td><td>6.2 GB</td><td>2025-03-28</td><td><a href="/hyperos/xaga/stable/OS2.0.3.0.ULOCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.5.0.ULOCNXM</td><td>14.0</td><td>6.2 GB</td><td>2025-05-09</td><td><a href="/hyperos/xaga/stable beta/OS2.0.5.0.ULOCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.5.0.ULOCNXM</td><td>14.0</td><td>7.3 GB</td><td>2025-04-29</td><td><a href="/hyperos/xaga/stable/OS2.0.5.0.ULOCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.ULOCNXM</td><td>14.0</td><td>6.2 GB</td><td>2025-05-09</td><td><a href="/hyperos/xaga/stable/OS2.0.5.0.ULOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.ULOEUXM</td><td>14.0</td><td>7.1 GB</td><td>2025-04-09</td><td><a href="/hyperos/xaga/stable/OS2.0.2.0.ULOEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.ULOEUXM</td><td>14.0</td><td>5.6 GB</td><td>2025-04-17</td><td><a href="/hyperos/xaga/stable/OS2.0.2.0.ULOEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.ULOMIXM</td><td>14.0</td><td>7.4 GB</td><td>2025-04-09</td><td><a href="/hyperos/xaga/stable/OS2.0.1.0.ULOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.ULOMIXM</td><td>14.0</td><td>5.6 GB</td><td>2025-04-17</td><td><a href="/hyperos/xaga/stable/OS2.0.1.0.ULOMIXM/">Download</a></td></tr>
 <tr><td>Redmi K50i / Pro India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.ULOINXM</td><td>14.0</td><td>6.5 GB</td><td>2025-03-21</td><td><a href="/hyperos/xaga/stable/OS1.0.9.0.ULOINXM/">Download</a></td></tr>
 <tr><td>Redmi K50i / Pro India</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.ULOINXM</td><td>14.0</td><td>5.4 GB</td><td>2025-03-27</td><td><a href="/hyperos/xaga/stable/OS1.0.9.0.ULOINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.ULORUXM</td><td>14.0</td><td>7.0 GB</td><td>2025-03-26</td><td><a href="/hyperos/xaga/stable/OS1.0.10.0.ULORUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.ULORUXM</td><td>14.0</td><td>5.3 GB</td><td>2025-04-10</td><td><a href="/hyperos/xaga/stable/OS1.0.10.0.ULORUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.ULOTRXM</td><td>14.0</td><td>6.8 GB</td><td>2025-03-26</td><td><a href="/hyperos/xaga/stable/OS1.0.9.0.ULOTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.ULOTRXM</td><td>14.0</td><td>5.3 GB</td><td>2025-04-10</td><td><a href="/hyperos/xaga/stable/OS1.0.9.0.ULOTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.ULORUXM</td><td>14.0</td><td>5.5 GB</td><td>2025-05-07</td><td><a href="/hyperos/xaga/stable beta/OS2.0.1.0.ULORUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.ULOTRXM</td><td>14.0</td><td>5.5 GB</td><td>2025-05-07</td><td><a href="/hyperos/xaga/stable beta/OS2.0.1.0.ULOTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.ULOTWXM</td><td>14.0</td><td>6.7 GB</td><td>2025-03-26</td><td><a href="/hyperos/xaga/stable/OS1.0.9.0.ULOTWXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.ULOTWXM</td><td>14.0</td><td>5.2 GB</td><td>2025-04-10</td><td><a href="/hyperos/xaga/stable/OS1.0.9.0.ULOTWXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.ULOTWXM</td><td>14.0</td><td>5.4 GB</td><td>2025-05-07</td><td><a href="/hyperos/xaga/stable beta/OS2.0.1.0.ULOTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.ULORUXM</td><td>14.0</td><td>7.1 GB</td><td>2025-04-17</td><td><a href="/hyperos/xaga/stable/OS2.0.1.0.ULORUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.ULORUXM</td><td>14.0</td><td>5.5 GB</td><td>2025-05-07</td><td><a href="/hyperos/xaga/stable/OS2.0.1.0.ULORUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.ULOTRXM</td><td>14.0</td><td>7.0 GB</td><td>2025-04-17</td><td><a href="/hyperos/xaga/stable/OS2.0.1.0.ULOTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.ULOTRXM</td><td>14.0</td><td>5.5 GB</td><td>2025-05-07</td><td><a href="/hyperos/xaga/stable/OS2.0.1.0.ULOTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.ULOTWXM</td><td>14.0</td><td>6.8 GB</td><td>2025-04-17</td><td><a href="/hyperos/xaga/stable/OS2.0.1.0.ULOTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.ULOTWXM</td><td>14.0</td><td>5.4 GB</td><td>2025-05-07</td><td><a href="/hyperos/xaga/stable/OS2.0.1.0.ULOTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

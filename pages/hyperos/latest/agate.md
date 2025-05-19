@@ -60,9 +60,8 @@ permalink: /hyperos/agate/
 <tr><td>Xiaomi 11T Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UKWIDXM</td><td>14.0</td><td>4.9 GB</td><td>2025-04-30</td><td><a href="/hyperos/agate/stable/OS1.0.11.0.UKWIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UKWRUXM</td><td>14.0</td><td>6.1 GB</td><td>2025-03-20</td><td><a href="/hyperos/agate/stable/OS1.0.11.0.UKWRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UKWRUXM</td><td>14.0</td><td>4.9 GB</td><td>2025-04-02</td><td><a href="/hyperos/agate/stable/OS1.0.11.0.UKWRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11T Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.UKWTRXM</td><td>14.0</td><td>6.1 GB</td><td>2025-03-28</td><td><a href="/hyperos/agate/stable/OS1.0.10.0.UKWTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11T Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.UKWTRXM</td><td>14.0</td><td>4.9 GB</td><td>2025-04-07</td><td><a href="/hyperos/agate/stable/OS1.0.10.0.UKWTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11T Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.11.0.UKWTRXM</td><td>14.0</td><td>4.9 GB</td><td>2025-05-07</td><td><a href="/hyperos/agate/stable beta/OS1.0.11.0.UKWTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UKWTRXM</td><td>14.0</td><td>6.1 GB</td><td>2025-04-24</td><td><a href="/hyperos/agate/stable/OS1.0.11.0.UKWTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UKWTRXM</td><td>14.0</td><td>4.9 GB</td><td>2025-05-07</td><td><a href="/hyperos/agate/stable/OS1.0.11.0.UKWTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UKWTWXM</td><td>14.0</td><td>5.7 GB</td><td>2025-04-24</td><td><a href="/hyperos/agate/stable/OS1.0.11.0.UKWTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UKWTWXM</td><td>14.0</td><td>4.7 GB</td><td>2025-05-07</td><td><a href="/hyperos/agate/stable/OS1.0.11.0.UKWTWXM/">Download</a></td></tr>
 
