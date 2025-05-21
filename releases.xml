@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 21 May 2025 12:36:08 </lastBuildDate>
+        <lastBuildDate>Wed, 21 May 2025 18:51:28 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 11T (agate) - OS1.0.15.0.UKWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/agate/</link>
+            <pubDate>Wed, 21 May 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro 4G (obsidian) - OS2.0.3.0.VOFEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
             <pubDate>Wed, 21 May 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -844,11 +849,6 @@
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS2.0.7.0.VMNCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
-            <pubDate>Mon, 21 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 Pro 4G (obsidian) - OS1.0.6.0.UOFEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
             <pubDate>Mon, 21 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
