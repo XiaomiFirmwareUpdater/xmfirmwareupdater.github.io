@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 22 May 2025 18:49:12 </lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 00:57:12 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS2.0.104.0.VNAINXM</title>
@@ -22,8 +22,18 @@
             <pubDate>Thu, 22 May 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi Civi 5 Pro (luming) - OS2.0.105.0.VOICNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/luming/</link>
+            <pubDate>Thu, 22 May 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 14 Pro 4G (obsidian) - OS2.0.5.0.VOFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
+            <pubDate>Thu, 22 May 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K80/POCO F7 Pro (zorn) - OS2.0.105.0.VOKMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zorn/</link>
             <pubDate>Thu, 22 May 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -704,11 +714,6 @@
         <item>
             <title>Xiaomi Pad 7 (uke) - OS2.0.105.0.VOZEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/uke/</link>
-            <pubDate>Sun, 27 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K80/POCO F7 Pro (zorn) - OS2.0.104.0.VOKMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zorn/</link>
             <pubDate>Sun, 27 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>

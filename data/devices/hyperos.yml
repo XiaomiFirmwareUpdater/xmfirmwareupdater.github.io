@@ -6688,6 +6688,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMYCNXM/fw_liuqin_miui_LIUQIN_OS1.0.4.0.UMYCNXM_6271a83b02_14.0.zip
   name: Xiaomi Pad 6 Pro
   version: OS1.0.4.0.UMYCNXM
+- android: '15.0'
+  codename: luming
+  date: '2025-05-22'
+  download: https://bigota.d.miui.com/OS2.0.105.0.VOICNXM/fw_luming_luming-ota_full-OS2.0.105.0.VOICNXM-user-15.0-e2a1b1f0c8.zip
+  name: Xiaomi Civi 5 Pro
+  version: OS2.0.105.0.VOICNXM
 - android: '14.0'
   codename: malachite
   date: '2024-09-30'
@@ -16318,6 +16324,12 @@
   download: https://bigota.d.miui.com/OS2.0.107.0.VOKCNXM/fw_zorn_zorn-ota_full-OS2.0.107.0.VOKCNXM-user-15.0-d068343303.zip
   name: Redmi K80/POCO F7 Pro
   version: OS2.0.107.0.VOKCNXM
+- android: '15.0'
+  codename: zorn
+  date: '2025-05-22'
+  download: https://bigota.d.miui.com/OS2.0.105.0.VOKMIXM/fw_zorn_global_zorn_global-ota_full-OS2.0.105.0.VOKMIXM-user-15.0-6dd5e0ed6d.zip
+  name: Redmi K80/POCO F7 Pro
+  version: OS2.0.105.0.VOKMIXM
 - android: '15.0'
   codename: zorn
   date: '2025-02-22'

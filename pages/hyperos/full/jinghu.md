@@ -54,6 +54,8 @@ permalink: /archive/hyperos/jinghu/
                 <tbody>
                 <tr><td>Xiaomi Pad 7 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.104.0.VOXCNXM</td><td>15.0</td><td>7.5 GB</td><td>2025-05-22</td><td><a href="/hyperos/jinghu/stable/OS2.0.104.0.VOXCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.104.0.VOXCNXM</td><td>15.0</td><td>498 Bytes</td><td>2025-04-14</td><td><a href="/hyperos/jinghu/stable/OS2.0.104.0.VOXCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.108.0.VOXCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-05-22</td><td><a href="/hyperos/jinghu/stable/OS2.0.108.0.VOXCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.108.0.VOXCNXM</td><td>15.0</td><td>8.6 GB</td><td>2025-05-20</td><td><a href="/hyperos/jinghu/stable/OS2.0.108.0.VOXCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
