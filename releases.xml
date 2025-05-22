@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 22 May 2025 00:35:53 </lastBuildDate>
+        <lastBuildDate>Thu, 22 May 2025 06:47:48 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 14 Pro 4G (obsidian) - OS2.0.5.0.VOFMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
+            <pubDate>Thu, 22 May 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 11T (agate) - OS1.0.15.0.UKWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/agate/</link>
@@ -549,11 +554,6 @@
         <item>
             <title>Xiaomi 13 Pro (nuwa) - OS2.0.103.0.VMBINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Tue, 29 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 Pro 4G (obsidian) - OS1.0.7.0.UOFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
             <pubDate>Tue, 29 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>

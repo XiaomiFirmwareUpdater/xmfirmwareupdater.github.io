@@ -54,8 +54,8 @@ permalink: /hyperos/obsidian/
                 <tbody>
                 <tr><td>Redmi Note 14 Pro 4G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.VOFEUXM</td><td>15.0</td><td>7.5 GB</td><td>2025-04-22</td><td><a href="/hyperos/obsidian/stable/OS2.0.3.0.VOFEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 4G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VOFEUXM</td><td>15.0</td><td>4.8 GB</td><td>2025-05-07</td><td><a href="/hyperos/obsidian/stable/OS2.0.3.0.VOFEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 Pro 4G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UOFMIXM</td><td>14.0</td><td>7.9 GB</td><td>2025-04-13</td><td><a href="/hyperos/obsidian/stable/OS1.0.7.0.UOFMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 Pro 4G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UOFMIXM</td><td>14.0</td><td>4.6 GB</td><td>2025-04-17</td><td><a href="/hyperos/obsidian/stable/OS1.0.7.0.UOFMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro 4G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.5.0.VOFMIXM</td><td>15.0</td><td>8.2 GB</td><td>2025-04-23</td><td><a href="/hyperos/obsidian/stable/OS2.0.5.0.VOFMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro 4G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.VOFMIXM</td><td>15.0</td><td>4.9 GB</td><td>2025-05-07</td><td><a href="/hyperos/obsidian/stable/OS2.0.5.0.VOFMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 4G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UOFMIXM</td><td>14.0</td><td>4.6 GB</td><td>2025-01-13</td><td><a href="/hyperos/obsidian/stable beta/OS1.0.2.0.UOFMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 4G Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UOFRUXM</td><td>14.0</td><td>7.8 GB</td><td>2025-04-15</td><td><a href="/hyperos/obsidian/stable/OS1.0.7.0.UOFRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 4G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UOFRUXM</td><td>14.0</td><td>4.5 GB</td><td>2025-04-22</td><td><a href="/hyperos/obsidian/stable/OS1.0.7.0.UOFRUXM/">Download</a></td></tr>

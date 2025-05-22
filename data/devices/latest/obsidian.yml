@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-04-29'
+  date: '2025-05-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_obsidian/releases/download/stable-29.04.2025/fw_obsidian_miui_OBSIDIANGlobal_OS1.0.7.0.UOFMIXM_ce13da80d5_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/obsidian/fw_obsidian_miui_OBSIDIANGlobal_OS1.0.7.0.UOFMIXM_ce13da80d5_14.0.zip
-  filename: fw_obsidian_miui_OBSIDIANGlobal_OS1.0.7.0.UOFMIXM_ce13da80d5_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_obsidian/releases/download/stable-22.05.2025/fw_obsidian_global_obsidian_global-ota_full-OS2.0.5.0.VOFMIXM-user-15.0-bcda53812b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/obsidian/fw_obsidian_global_obsidian_global-ota_full-OS2.0.5.0.VOFMIXM-user-15.0-bcda53812b.zip
+  filename: fw_obsidian_global_obsidian_global-ota_full-OS2.0.5.0.VOFMIXM-user-15.0-bcda53812b.zip
   region: Global
   versions:
-    android: '14.0'
-    miui: OS1.0.7.0.UOFMIXM
+    android: '15.0'
+    miui: OS2.0.5.0.VOFMIXM
 - branch: stable
   date: '2025-05-21'
   downloads:

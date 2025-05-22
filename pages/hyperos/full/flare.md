@@ -52,7 +52,8 @@ permalink: /archive/hyperos/flare/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad SE 8.7 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.3.0.VHXEUXM</td><td>15.0</td><td>4.3 GB</td><td>2025-05-08</td><td><a href="/hyperos/flare/stable beta/OS2.0.3.0.VHXEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad SE 8.7 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VHXEUXM</td><td>15.0</td><td>4.3 GB</td><td>2025-05-08</td><td><a href="/hyperos/flare/stable/OS2.0.3.0.VHXEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE 8.7 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.VHXEUXM</td><td>15.0</td><td>5.2 GB</td><td>2025-04-22</td><td><a href="/hyperos/flare/stable/OS2.0.3.0.VHXEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UHXIDXM</td><td>14.0</td><td>4.1 GB</td><td>2025-04-30</td><td><a href="/hyperos/flare/stable/OS1.0.3.0.UHXIDXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UHXIDXM</td><td>14.0</td><td>5.0 GB</td><td>2025-04-22</td><td><a href="/hyperos/flare/stable/OS1.0.3.0.UHXIDXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VHXMIXM</td><td>15.0</td><td>4.2 GB</td><td>2025-04-18</td><td><a href="/hyperos/flare/stable/OS2.0.3.0.VHXMIXM/">Download</a></td></tr>
@@ -77,10 +78,10 @@ permalink: /archive/hyperos/flare/
 <tr><td>Redmi Pad SE 8.7 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UHXTRXM</td><td>14.0</td><td>4.8 GB</td><td>2024-11-21</td><td><a href="/hyperos/flare/stable/OS1.0.4.0.UHXTRXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.UHXMIXM</td><td>14.0</td><td>4.0 GB</td><td>2024-11-29</td><td><a href="/hyperos/flare/stable/OS1.0.7.0.UHXMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UHXMIXM</td><td>14.0</td><td>5.1 GB</td><td>2024-11-21</td><td><a href="/hyperos/flare/stable/OS1.0.7.0.UHXMIXM/">Download</a></td></tr>
-<tr><td>Redmi Pad SE 8.7 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UHXEUXM</td><td>14.0</td><td>4.1 GB</td><td>2024-11-24</td><td><a href="/hyperos/flare/stable/OS1.0.5.0.UHXEUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad SE 8.7 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UHXEUXM</td><td>14.0</td><td>4.9 GB</td><td>2024-11-11</td><td><a href="/hyperos/flare/stable/OS1.0.5.0.UHXEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VHXMIXM</td><td>15.0</td><td>4.2 GB</td><td>2025-01-17</td><td><a href="/hyperos/flare/stable/OS2.0.1.0.VHXMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.VHXMIXM</td><td>15.0</td><td>5.4 GB</td><td>2025-01-08</td><td><a href="/hyperos/flare/stable/OS2.0.1.0.VHXMIXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE 8.7 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.UHXEUXM</td><td>14.0</td><td>4.1 GB</td><td>2024-11-24</td><td><a href="/hyperos/flare/stable/OS1.0.5.0.UHXEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE 8.7 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.UHXEUXM</td><td>14.0</td><td>4.9 GB</td><td>2024-11-11</td><td><a href="/hyperos/flare/stable/OS1.0.5.0.UHXEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UHXRUXM</td><td>14.0</td><td>4.0 GB</td><td>2024-11-22</td><td><a href="/hyperos/flare/stable/OS1.0.4.0.UHXRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UHXRUXM</td><td>14.0</td><td>5.3 GB</td><td>2024-11-15</td><td><a href="/hyperos/flare/stable/OS1.0.4.0.UHXRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UHXTWXM</td><td>14.0</td><td>4.0 GB</td><td>2024-10-22</td><td><a href="/hyperos/flare/stable/OS1.0.3.0.UHXTWXM/">Download</a></td></tr>
