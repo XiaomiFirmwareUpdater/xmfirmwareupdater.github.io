@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 22 May 2025 12:51:17 </lastBuildDate>
+        <lastBuildDate>Thu, 22 May 2025 18:49:12 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS2.0.104.0.VNAINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Thu, 22 May 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15S Pro (dijun) - OS2.0.121.0.VODCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dijun/</link>
+            <pubDate>Thu, 22 May 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 7 Ultra (jinghu) - OS2.0.104.0.VOXCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/jinghu/</link>
             <pubDate>Thu, 22 May 2025 00:00:00 </pubDate>
         </item>
         <item>

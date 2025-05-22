@@ -2272,6 +2272,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UNEMIXM/fw_degas_miui_DEGASGlobal_OS1.0.7.0.UNEMIXM_498fe4dcb3_14.0.zip
   name: Xiaomi 14T
   version: OS1.0.7.0.UNEMIXM
+- android: '15.0'
+  codename: dijun
+  date: '2025-05-22'
+  download: https://bigota.d.miui.com/OS2.0.121.0.VODCNXM/fw_dijun_dijun-ota_full-OS2.0.121.0.VODCNXM-user-15.0-06c0ede3f3.zip
+  name: Xiaomi 15S Pro
+  version: OS2.0.121.0.VODCNXM
 - android: '14.0'
   codename: diting
   date: '2024-10-28'
@@ -6148,6 +6154,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UMAEUXM/fw_ishtar_miui_ISHTAREEAGlobal_OS1.0.9.0.UMAEUXM_e22e179fd8_14.0.zip
   name: Xiaomi 13 Ultra
   version: OS1.0.9.0.UMAEUXM
+- android: '15.0'
+  codename: jinghu
+  date: '2025-05-22'
+  download: https://bigota.d.miui.com/OS2.0.104.0.VOXCNXM/fw_jinghu_jinghu-ota_full-OS2.0.104.0.VOXCNXM-user-15.0-52a8adc79d.zip
+  name: Xiaomi Pad 7 Ultra
+  version: OS2.0.104.0.VOXCNXM
 - android: '14.0'
   codename: lake
   date: '2025-03-31'
