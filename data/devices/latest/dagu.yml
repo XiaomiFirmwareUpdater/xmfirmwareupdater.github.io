@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2025-04-17'
+  date: '2025-05-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dagu/releases/download/stable-17.04.2025/fw_dagu_dagu-ota_full-OS2.0.6.0.ULZCNXM-user-14.0-da56169ee4.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dagu/fw_dagu_dagu-ota_full-OS2.0.6.0.ULZCNXM-user-14.0-da56169ee4.zip
-  filename: fw_dagu_dagu-ota_full-OS2.0.6.0.ULZCNXM-user-14.0-da56169ee4.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dagu/releases/download/stable-23.05.2025/fw_dagu_dagu-ota_full-OS2.0.8.0.ULZCNXM-user-14.0-eaf8e895af.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dagu/fw_dagu_dagu-ota_full-OS2.0.8.0.ULZCNXM-user-14.0-eaf8e895af.zip
+  filename: fw_dagu_dagu-ota_full-OS2.0.8.0.ULZCNXM-user-14.0-eaf8e895af.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS2.0.6.0.ULZCNXM
+    miui: OS2.0.8.0.ULZCNXM

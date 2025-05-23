@@ -66,8 +66,8 @@ permalink: /hyperos/munch/
 <tr><td>POCO F4 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.ULMRUXM</td><td>14.0</td><td>4.7 GB</td><td>2025-05-07</td><td><a href="/hyperos/munch/stable/OS1.0.7.0.ULMRUXM/">Download</a></td></tr>
 <tr><td>POCO F4 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.ULMTRXM</td><td>14.0</td><td>5.9 GB</td><td>2025-04-09</td><td><a href="/hyperos/munch/stable/OS1.0.7.0.ULMTRXM/">Download</a></td></tr>
 <tr><td>POCO F4 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.ULMTRXM</td><td>14.0</td><td>4.7 GB</td><td>2025-05-07</td><td><a href="/hyperos/munch/stable/OS1.0.7.0.ULMTRXM/">Download</a></td></tr>
-<tr><td>POCO F4 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.ULMTWXM</td><td>14.0</td><td>5.7 GB</td><td>2024-12-18</td><td><a href="/hyperos/munch/stable/OS1.0.6.0.ULMTWXM/">Download</a></td></tr>
-<tr><td>POCO F4 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.ULMTWXM</td><td>14.0</td><td>4.5 GB</td><td>2025-01-13</td><td><a href="/hyperos/munch/stable/OS1.0.6.0.ULMTWXM/">Download</a></td></tr>
+<tr><td>POCO F4 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.ULMTWXM</td><td>14.0</td><td>5.6 GB</td><td>2025-05-06</td><td><a href="/hyperos/munch/stable/OS1.0.8.0.ULMTWXM/">Download</a></td></tr>
+<tr><td>POCO F4 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.ULMTWXM</td><td>14.0</td><td>4.5 GB</td><td>2025-05-14</td><td><a href="/hyperos/munch/stable/OS1.0.8.0.ULMTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

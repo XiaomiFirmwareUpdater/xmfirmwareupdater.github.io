@@ -2082,6 +2082,12 @@
   version: OS1.0.5.0.ULZCNXM
 - android: '14.0'
   codename: dagu
+  date: '2025-05-23'
+  download: https://bigota.d.miui.com/OS2.0.8.0.ULZCNXM/fw_dagu_dagu-ota_full-OS2.0.8.0.ULZCNXM-user-14.0-eaf8e895af.zip
+  name: Xiaomi Pad 5 Pro 12.4
+  version: OS2.0.8.0.ULZCNXM
+- android: '14.0'
+  codename: dagu
   date: '2024-02-18'
   download: https://bigota.d.miui.com/OS1.0.1.0.ULZCNXM/fw_dagu_miui_DAGU_OS1.0.1.0.ULZCNXM_eda29421b4_14.0.zip
   name: Xiaomi Pad 5 Pro 12.4
@@ -3658,6 +3664,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UGUINXM/fw_flame_miui_FLAMEINGlobal_OS1.0.4.0.UGUINXM_5e89d7a0b7_14.0.zip
   name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
   version: OS1.0.4.0.UGUINXM
+- android: '15.0'
+  codename: flame
+  date: '2025-05-23'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VGUCNXM/fw_flame_flame-ota_full-OS2.0.4.0.VGUCNXM-user-15.0-4584432072.zip
+  name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
+  version: OS2.0.4.0.VGUCNXM
 - android: '14.0'
   codename: flame
   date: '2025-04-21'
@@ -6724,6 +6736,12 @@
   download: https://bigota.d.miui.com/OS2.0.5.0.VOOMIXM/fw_malachite_global_malachite_global-ota_full-OS2.0.5.0.VOOMIXM-user-15.0-a4dfa156a3.zip
   name: Redmi Note 14 Pro 5G/POCO X7
   version: OS2.0.5.0.VOOMIXM
+- android: '15.0'
+  codename: malachite
+  date: '2025-05-23'
+  download: https://bigota.d.miui.com/OS2.0.11.0.VOOCNXM/fw_malachite_malachite-ota_full-OS2.0.11.0.VOOCNXM-user-15.0-864e8df88f.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS2.0.11.0.VOOCNXM
 - android: '14.0'
   codename: malachite
   date: '2025-01-23'
@@ -7434,6 +7452,12 @@
   version: OS2.0.15.0.VOMCNXM
 - android: '15.0'
   codename: miro
+  date: '2025-05-23'
+  download: https://bigota.d.miui.com/OS2.0.109.0.VOMMIXM/fw_miro_global_miro_global-ota_full-OS2.0.109.0.VOMMIXM-user-15.0-e21d33e651.zip
+  name: Redmi K80 Pro/POCO F7 Ultra
+  version: OS2.0.109.0.VOMMIXM
+- android: '15.0'
+  codename: miro
   date: '2025-04-21'
   download: https://bigota.d.miui.com/OS2.0.107.0.VOMMIXM/fw_miro_global_miro_global-ota_full-OS2.0.107.0.VOMMIXM-user-15.0-c077305aef.zip
   name: Redmi K80 Pro/POCO F7 Ultra
@@ -7750,6 +7774,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UNTMIXM/fw_moon_miui_MOONGlobal_OS1.0.10.0.UNTMIXM_642e268a4b_14.0.zip
   name: Redmi 13/POCO M6
   version: OS1.0.10.0.UNTMIXM
+- android: '14.0'
+  codename: moon
+  date: '2025-05-23'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UNTEUXM/fw_moon_miui_MOONEEAGlobal_OS1.0.8.0.UNTEUXM_3575f1b232_14.0.zip
+  name: Redmi 13/POCO M6
+  version: OS1.0.8.0.UNTEUXM
 - android: '14.0'
   codename: moon
   date: '2024-11-22'
@@ -14944,6 +14974,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMUMIXM/fw_xun_miui_XUNGlobal_OS1.0.4.0.UMUMIXM_b6eda7b271_14.0.zip
   name: Redmi Pad SE
   version: OS1.0.4.0.UMUMIXM
+- android: '15.0'
+  codename: xun
+  date: '2025-05-23'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VMUCNXM/fw_xun_xun-ota_full-OS2.0.2.0.VMUCNXM-user-15.0-bc20d0a7d1.zip
+  name: Redmi Pad SE
+  version: OS2.0.2.0.VMUCNXM
 - android: '14.0'
   codename: xun
   date: '2024-11-22'
@@ -15106,6 +15142,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UMHCNXM/fw_yudi_miui_YUDI_OS1.0.12.0.UMHCNXM_795f353142_14.0.zip
   name: Xiaomi Pad 6 Max 14
   version: OS1.0.12.0.UMHCNXM
+- android: '15.0'
+  codename: yudi
+  date: '2025-05-23'
+  download: https://bigota.d.miui.com/OS2.0.8.0.VMHCNXM/fw_yudi_yudi-ota_full-OS2.0.8.0.VMHCNXM-user-15.0-c3af3fbd5b.zip
+  name: Xiaomi Pad 6 Max 14
+  version: OS2.0.8.0.VMHCNXM
 - android: '14.0'
   codename: yudi
   date: '2024-06-17'

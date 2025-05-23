@@ -52,20 +52,20 @@ permalink: /hyperos/malachite/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 14 Pro 5G / POCO X7 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.10.0.VOOCNXM</td><td>15.0</td><td>9.0 GB</td><td>2025-04-16</td><td><a href="/hyperos/malachite/stable/OS2.0.10.0.VOOCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 Pro 5G / POCO X7 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.10.0.VOOCNXM</td><td>15.0</td><td>6.9 GB</td><td>2025-04-17</td><td><a href="/hyperos/malachite/stable/OS2.0.10.0.VOOCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 14 Pro 5G / POCO X7 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.11.0.VOOCNXM</td><td>15.0</td><td>9.0 GB</td><td>2025-05-08</td><td><a href="/hyperos/malachite/stable/OS2.0.11.0.VOOCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro 5G / POCO X7 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.11.0.VOOCNXM</td><td>15.0</td><td>6.9 GB</td><td>2025-05-14</td><td><a href="/hyperos/malachite/stable/OS2.0.11.0.VOOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.13.0.UOOEUXM</td><td>14.0</td><td>8.6 GB</td><td>2025-04-16</td><td><a href="/hyperos/malachite/stable/OS1.0.13.0.UOOEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VOOEUXM</td><td>15.0</td><td>6.1 GB</td><td>2025-04-23</td><td><a href="/hyperos/malachite/stable/OS2.0.3.0.VOOEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.5.0.VOOMIXM</td><td>15.0</td><td>9.6 GB</td><td>2025-04-14</td><td><a href="/hyperos/malachite/stable/OS2.0.5.0.VOOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.VOOMIXM</td><td>15.0</td><td>6.1 GB</td><td>2025-04-17</td><td><a href="/hyperos/malachite/stable/OS2.0.5.0.VOOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.VOOIDXM</td><td>15.0</td><td>8.7 GB</td><td>2025-04-18</td><td><a href="/hyperos/malachite/stable/OS2.0.1.0.VOOIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VOOIDXM</td><td>15.0</td><td>6.0 GB</td><td>2025-05-06</td><td><a href="/hyperos/malachite/stable/OS2.0.1.0.VOOIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro 5G / POCO X7 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VOOTRXM</td><td>15.0</td><td>8.5 GB</td><td>2025-05-12</td><td><a href="/hyperos/malachite/stable/OS2.0.2.0.VOOTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro 5G / POCO X7 Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VOOTRXM</td><td>15.0</td><td>6.0 GB</td><td>2025-05-19</td><td><a href="/hyperos/malachite/stable/OS2.0.2.0.VOOTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VOOINXM</td><td>15.0</td><td>8.1 GB</td><td>2025-03-21</td><td><a href="/hyperos/malachite/stable/OS2.0.2.0.VOOINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 India</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VOOINXM</td><td>15.0</td><td>5.9 GB</td><td>2025-03-28</td><td><a href="/hyperos/malachite/stable/OS2.0.2.0.VOOINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.VOORUXM</td><td>15.0</td><td>9.5 GB</td><td>2025-04-18</td><td><a href="/hyperos/malachite/stable/OS2.0.1.0.VOORUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VOORUXM</td><td>15.0</td><td>6.0 GB</td><td>2025-04-24</td><td><a href="/hyperos/malachite/stable/OS2.0.1.0.VOORUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 Pro 5G / POCO X7 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.VOOTRXM</td><td>15.0</td><td>8.6 GB</td><td>2025-04-18</td><td><a href="/hyperos/malachite/stable/OS2.0.1.0.VOOTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 Pro 5G / POCO X7 Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VOOTRXM</td><td>15.0</td><td>6.0 GB</td><td>2025-05-06</td><td><a href="/hyperos/malachite/stable/OS2.0.1.0.VOOTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.VOOTWXM</td><td>15.0</td><td>8.0 GB</td><td>2025-04-18</td><td><a href="/hyperos/malachite/stable/OS2.0.1.0.VOOTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VOOTWXM</td><td>15.0</td><td>5.9 GB</td><td>2025-04-27</td><td><a href="/hyperos/malachite/stable/OS2.0.1.0.VOOTWXM/">Download</a></td></tr>
 

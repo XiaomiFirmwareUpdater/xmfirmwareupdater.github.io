@@ -52,7 +52,11 @@ permalink: /archive/hyperos/obsidian/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 14 Pro 4G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VOFEUXM</td><td>15.0</td><td>4.8 GB</td><td>2025-05-07</td><td><a href="/hyperos/obsidian/stable/OS2.0.3.0.VOFEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 14 Pro 4G Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VOFRUXM</td><td>15.0</td><td>4.7 GB</td><td>2025-05-14</td><td><a href="/hyperos/obsidian/stable/OS2.0.3.0.VOFRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro 4G Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.VOFRUXM</td><td>15.0</td><td>8.1 GB</td><td>2025-04-29</td><td><a href="/hyperos/obsidian/stable/OS2.0.3.0.VOFRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro 4G Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VOFTRXM</td><td>15.0</td><td>4.8 GB</td><td>2025-05-14</td><td><a href="/hyperos/obsidian/stable/OS2.0.3.0.VOFTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro 4G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.VOFTRXM</td><td>15.0</td><td>7.2 GB</td><td>2025-04-29</td><td><a href="/hyperos/obsidian/stable/OS2.0.3.0.VOFTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro 4G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VOFEUXM</td><td>15.0</td><td>4.8 GB</td><td>2025-05-07</td><td><a href="/hyperos/obsidian/stable/OS2.0.3.0.VOFEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 4G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.VOFEUXM</td><td>15.0</td><td>7.5 GB</td><td>2025-04-22</td><td><a href="/hyperos/obsidian/stable/OS2.0.3.0.VOFEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 4G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.VOFMIXM</td><td>15.0</td><td>4.9 GB</td><td>2025-05-07</td><td><a href="/hyperos/obsidian/stable/OS2.0.5.0.VOFMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 4G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.5.0.VOFMIXM</td><td>15.0</td><td>8.2 GB</td><td>2025-04-23</td><td><a href="/hyperos/obsidian/stable/OS2.0.5.0.VOFMIXM/">Download</a></td></tr>
