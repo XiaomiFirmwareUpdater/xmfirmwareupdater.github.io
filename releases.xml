@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 23 May 2025 14:07:00 </lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 19:16:05 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi Pad 5 Pro 12.4 (dagu) - OS2.0.8.0.ULZCNXM</title>
@@ -14,6 +14,11 @@
         <item>
             <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS2.0.4.0.VGUCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flame/</link>
+            <pubDate>Fri, 23 May 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>MIX Fold 4 (goku) - OS2.0.108.0.VNVCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/goku/</link>
             <pubDate>Fri, 23 May 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -39,6 +44,11 @@
         <item>
             <title>Xiaomi Pad 6 Max 14 (yudi) - OS2.0.8.0.VMHCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/yudi/</link>
+            <pubDate>Fri, 23 May 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 3 (yuechu) - OS2.0.6.0.VMICNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/yuechu/</link>
             <pubDate>Fri, 23 May 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1022,11 +1032,6 @@
             <pubDate>Mon, 14 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>MIX Fold 4 (goku) - OS2.0.106.0.VNVCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/goku/</link>
-            <pubDate>Mon, 14 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS2.0.103.0.VMAMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
             <pubDate>Mon, 14 Apr 2025 00:00:00 </pubDate>
@@ -1089,11 +1094,6 @@
         <item>
             <title>Xiaomi Pad 6 (pipa) - OS2.0.2.0.UMZINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
-            <pubDate>Fri, 11 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 3 (yuechu) - OS2.0.4.0.VMICNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/yuechu/</link>
             <pubDate>Fri, 11 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>

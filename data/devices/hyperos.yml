@@ -4654,6 +4654,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UNRCNXM/fw_garnet_miui_GARNET_OS1.0.7.0.UNRCNXM_1a1ed56e95_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS1.0.7.0.UNRCNXM
+- android: '15.0'
+  codename: goku
+  date: '2025-05-23'
+  download: https://bigota.d.miui.com/OS2.0.108.0.VNVCNXM/fw_goku_goku-ota_full-OS2.0.108.0.VNVCNXM-user-15.0-4fb806ef0f.zip
+  name: MIX Fold 4
+  version: OS2.0.108.0.VNVCNXM
 - android: '14.0'
   codename: goku
   date: '2024-07-22'
@@ -15202,6 +15208,12 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.VMICNXM/fw_yuechu_yuechu-ota_full-OS2.0.3.0.VMICNXM-user-15.0-ab285c13bc.zip
   name: Xiaomi Civi 3
   version: OS2.0.3.0.VMICNXM
+- android: '15.0'
+  codename: yuechu
+  date: '2025-05-23'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VMICNXM/fw_yuechu_yuechu-ota_full-OS2.0.6.0.VMICNXM-user-15.0-94495c3e86.zip
+  name: Xiaomi Civi 3
+  version: OS2.0.6.0.VMICNXM
 - android: '14.0'
   codename: yuechu
   date: '2025-01-17'
