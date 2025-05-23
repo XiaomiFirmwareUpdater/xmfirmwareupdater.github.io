@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 23 May 2025 19:16:05 </lastBuildDate>
+        <lastBuildDate>Sat, 24 May 2025 00:41:47 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi Pad 5 Pro 12.4 (dagu) - OS2.0.8.0.ULZCNXM</title>
@@ -34,6 +34,11 @@
         <item>
             <title>Redmi 13/POCO M6 (moon) - OS1.0.8.0.UNTEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moon/</link>
+            <pubDate>Fri, 23 May 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 4G (tanzanite) - OS2.0.3.0.VOGMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/tanzanite/</link>
             <pubDate>Fri, 23 May 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -564,11 +569,6 @@
         <item>
             <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS2.0.110.0.VOMEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/miro/</link>
-            <pubDate>Fri, 02 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 4G (tanzanite) - OS2.0.2.0.VOGMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/tanzanite/</link>
             <pubDate>Fri, 02 May 2025 00:00:00 </pubDate>
         </item>
         <item>
