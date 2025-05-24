@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 24 May 2025 06:35:28 </lastBuildDate>
+        <lastBuildDate>Sat, 24 May 2025 13:03:28 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.108.0.VNPEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
+            <pubDate>Sat, 24 May 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi Pad 5 Pro 12.4 (dagu) - OS2.0.8.0.ULZCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dagu/</link>
@@ -649,11 +654,6 @@
         <item>
             <title>Redmi Note 12T Pro (pearl) - OS2.0.7.0.VLHCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pearl/</link>
-            <pubDate>Mon, 28 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.107.0.VNPEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
             <pubDate>Mon, 28 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>

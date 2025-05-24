@@ -9064,6 +9064,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UNPINXM/fw_peridot_miui_PERIDOTINGlobal_OS1.0.10.0.UNPINXM_93b83f4f0f_14.0.zip
   name: Redmi Turbo 3/POCO F6
   version: OS1.0.10.0.UNPINXM
+- android: '15.0'
+  codename: peridot
+  date: '2025-05-24'
+  download: https://bigota.d.miui.com/OS2.0.108.0.VNPEUXM/fw_peridot_eea_global_peridot_eea_global-ota_full-OS2.0.108.0.VNPEUXM-user-15.0-8e96f27d1c.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS2.0.108.0.VNPEUXM
 - android: '14.0'
   codename: peridot
   date: '2024-05-23'
