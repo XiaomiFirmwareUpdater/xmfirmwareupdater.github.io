@@ -52,8 +52,10 @@ permalink: /archive/hyperos/spes/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 NFC Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.11.0.TGKMIXM</td><td>13.0</td><td>3.9 GB</td><td>2025-05-14</td><td><a href="/hyperos/spesn/stable beta/OS1.0.11.0.TGKMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 NFC Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.TGKRUXM</td><td>13.0</td><td>3.7 GB</td><td>2025-05-14</td><td><a href="/hyperos/spesn/stable beta/OS1.0.6.0.TGKRUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 NFC Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.TGKMIXM</td><td>13.0</td><td>3.9 GB</td><td>2025-05-14</td><td><a href="/hyperos/spesn/stable/OS1.0.11.0.TGKMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 NFC Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.TGKMIXM</td><td>13.0</td><td>6.0 GB</td><td>2025-04-17</td><td><a href="/hyperos/spesn/stable/OS1.0.11.0.TGKMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 NFC Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.TGKRUXM</td><td>13.0</td><td>3.7 GB</td><td>2025-05-14</td><td><a href="/hyperos/spesn/stable/OS1.0.6.0.TGKRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 NFC Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.TGKRUXM</td><td>13.0</td><td>5.7 GB</td><td>2025-04-17</td><td><a href="/hyperos/spesn/stable/OS1.0.6.0.TGKRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.TGKEUXM</td><td>13.0</td><td>3.8 GB</td><td>2025-04-02</td><td><a href="/hyperos/spesn/stable/OS1.0.11.0.TGKEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.TGKEUXM</td><td>13.0</td><td>5.8 GB</td><td>2025-03-24</td><td><a href="/hyperos/spesn/stable/OS1.0.11.0.TGKEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 India</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.TGCINXM</td><td>13.0</td><td>3.7 GB</td><td>2025-03-31</td><td><a href="/hyperos/spes/stable/OS1.0.6.0.TGCINXM/">Download</a></td></tr>
