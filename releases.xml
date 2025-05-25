@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 25 May 2025 19:28:58 </lastBuildDate>
+        <lastBuildDate>Mon, 26 May 2025 00:47:37 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13C/POCO C65 (gale) - OS2.0.6.0.VGPMIXM</title>
@@ -14,6 +14,11 @@
         <item>
             <title>Redmi 13C/POCO C65 (gale) - OS2.0.5.0.VGPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gale/</link>
+            <pubDate>Sun, 25 May 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS2.0.9.0.VNQCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/gold/</link>
             <pubDate>Sun, 25 May 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -565,11 +570,6 @@
             <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.104.0.VOAEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Mon, 05 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS2.0.7.0.VNQCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/gold/</link>
-            <pubDate>Sun, 04 May 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 11T (agate) - OS1.0.14.0.UKWEUXM</title>
