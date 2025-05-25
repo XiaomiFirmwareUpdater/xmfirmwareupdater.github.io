@@ -4234,6 +4234,18 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UGPINXM/fw_gale_miui_GALEINGlobal_OS1.0.6.0.UGPINXM_3db612e10d_14.0.zip
   name: Redmi 13C/POCO C65
   version: OS1.0.6.0.UGPINXM
+- android: '15.0'
+  codename: gale
+  date: '2025-05-25'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VGPMIXM/fw_gale_global_gale_global-ota_full-OS2.0.6.0.VGPMIXM-user-15.0-4941536823.zip
+  name: Redmi 13C/POCO C65
+  version: OS2.0.6.0.VGPMIXM
+- android: '15.0'
+  codename: gale
+  date: '2025-05-25'
+  download: https://bigota.d.miui.com/OS2.0.5.0.VGPINXM/fw_gale_in_global_gale_in_global-ota_full-OS2.0.5.0.VGPINXM-user-15.0-09542fae35.zip
+  name: Redmi 13C/POCO C65
+  version: OS2.0.5.0.VGPINXM
 - android: '14.0'
   codename: gale
   date: '2024-06-24'
@@ -10762,6 +10774,12 @@
   download: https://bigota.d.miui.com/OS2.0.4.0.VFSCNXM/fw_ruan_ruan-ota_full-OS2.0.4.0.VFSCNXM-user-15.0-5e2b78c612.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS2.0.4.0.VFSCNXM
+- android: '15.0'
+  codename: ruan
+  date: '2025-05-25'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VFSMIXM/fw_ruan_global_ruan_global-ota_full-OS2.0.4.0.VFSMIXM-user-15.0-baab24f2c4.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS2.0.4.0.VFSMIXM
 - android: '15.0'
   codename: ruan
   date: '2025-02-24'
