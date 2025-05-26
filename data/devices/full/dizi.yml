@@ -49,6 +49,26 @@
     android: '14.0'
     miui: OS1.0.15.0.UNSCNXM
 - branch: stable
+  date: '2025-05-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-26.05.2025/fw_dizi_eea_global_dizi_eea_global-ota_full-OS2.0.6.0.VNSEUXM-user-15.0-7ad07f83af.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dizi/fw_dizi_eea_global_dizi_eea_global-ota_full-OS2.0.6.0.VNSEUXM-user-15.0-7ad07f83af.zip
+  filename: fw_dizi_eea_global_dizi_eea_global-ota_full-OS2.0.6.0.VNSEUXM-user-15.0-7ad07f83af.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.6.0.VNSEUXM
+- branch: stable
+  date: '2025-05-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-26.05.2025/fw_dizi_global_dizi_global-ota_full-OS2.0.5.0.VNSMIXM-user-15.0-8ef573306f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dizi/fw_dizi_global_dizi_global-ota_full-OS2.0.5.0.VNSMIXM-user-15.0-8ef573306f.zip
+  filename: fw_dizi_global_dizi_global-ota_full-OS2.0.5.0.VNSMIXM-user-15.0-8ef573306f.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.5.0.VNSMIXM
+- branch: stable
   date: '2025-03-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-26.03.2025/fw_dizi_in_global_dizi_in_global-ota_full-OS2.0.3.0.VNSINXM-user-15.0-a39f3547b6.zip

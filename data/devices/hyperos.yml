@@ -30,6 +30,12 @@
   version: OS1.0.12.0.UKWMIXM
 - android: '14.0'
   codename: agate
+  date: '2025-05-26'
+  download: https://bigota.d.miui.com/OS1.0.15.0.UKWEUXM/fw_agate_miui_AGATEEEAGlobal_OS1.0.15.0.UKWEUXM_63c3d97db7_14.0.zip
+  name: Xiaomi 11T
+  version: OS1.0.15.0.UKWEUXM
+- android: '14.0'
+  codename: agate
   date: '2025-01-26'
   download: https://bigota.d.miui.com/OS1.0.10.0.UKWEUXM/fw_agate_miui_AGATEEEAGlobal_OS1.0.10.0.UKWEUXM_6e09feeec4_14.0.zip
   name: Xiaomi 11T
@@ -520,6 +526,12 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VMFMIXM/fw_aristotle_global_aristotle_global-ota_full-OS2.0.2.0.VMFMIXM-user-15.0-1a14ff369b.zip
   name: Xiaomi 13T
   version: OS2.0.2.0.VMFMIXM
+- android: '15.0'
+  codename: aristotle
+  date: '2025-05-26'
+  download: https://bigota.d.miui.com/OS2.0.104.0.VMFEUXM/fw_aristotle_eea_global_aristotle_eea_global-ota_full-OS2.0.104.0.VMFEUXM-user-15.0-0ad2872c78.zip
+  name: Xiaomi 13T
+  version: OS2.0.104.0.VMFEUXM
 - android: '14.0'
   codename: aristotle
   date: '2024-02-26'
@@ -694,6 +706,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UNACNXM/fw_aurora_miui_AURORA_OS1.0.3.0.UNACNXM_1c74075993_14.0.zip
   name: Xiaomi 14 Ultra
   version: OS1.0.3.0.UNACNXM
+- android: '15.0'
+  codename: aurora
+  date: '2025-05-26'
+  download: https://bigota.d.miui.com/OS2.0.104.0.VNAEUXM/fw_aurora_eea_global_aurora_eea_global-ota_full-OS2.0.104.0.VNAEUXM-user-15.0-b847c667b6.zip
+  name: Xiaomi 14 Ultra
+  version: OS2.0.104.0.VNAEUXM
 - android: '14.0'
   codename: aurora
   date: '2024-04-26'
@@ -970,6 +988,12 @@
   download: https://bigota.d.miui.com/OS1.0.14.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.14.0.UMVCNXM_fb983c93f0_14.0.zip
   name: MIX Fold 3
   version: OS1.0.14.0.UMVCNXM
+- android: '15.0'
+  codename: babylon
+  date: '2025-05-26'
+  download: https://bigota.d.miui.com/OS2.0.110.0.VMVCNXM/fw_babylon_babylon-ota_full-OS2.0.110.0.VMVCNXM-user-15.0-5335bb5add.zip
+  name: MIX Fold 3
+  version: OS2.0.110.0.VMVCNXM
 - android: '14.0'
   codename: babylon
   date: '2024-08-22'
@@ -2590,6 +2614,18 @@
   download: https://bigota.d.miui.com/OS1.0.15.0.UNSCNXM/fw_dizi_miui_DIZI_OS1.0.15.0.UNSCNXM_49b143db32_14.0.zip
   name: Redmi Pad Pro/POCO Pad
   version: OS1.0.15.0.UNSCNXM
+- android: '15.0'
+  codename: dizi
+  date: '2025-05-26'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VNSEUXM/fw_dizi_eea_global_dizi_eea_global-ota_full-OS2.0.6.0.VNSEUXM-user-15.0-7ad07f83af.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS2.0.6.0.VNSEUXM
+- android: '15.0'
+  codename: dizi
+  date: '2025-05-26'
+  download: https://bigota.d.miui.com/OS2.0.5.0.VNSMIXM/fw_dizi_global_dizi_global-ota_full-OS2.0.5.0.VNSMIXM-user-15.0-8ef573306f.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS2.0.5.0.VNSMIXM
 - android: '15.0'
   codename: dizi
   date: '2025-03-26'
@@ -6028,6 +6064,12 @@
   download: https://bigota.d.miui.com/OS1.0.11.0.UMAEUXM/fw_ishtar_miui_ISHTAREEAGlobal_OS1.0.11.0.UMAEUXM_52ce413c30_14.0.zip
   name: Xiaomi 13 Ultra
   version: OS1.0.11.0.UMAEUXM
+- android: '15.0'
+  codename: ishtar
+  date: '2025-05-26'
+  download: https://bigota.d.miui.com/OS2.0.104.0.VMAMIXM/fw_ishtar_global_ishtar_global-ota_full-OS2.0.104.0.VMAMIXM-user-15.0-950e807716.zip
+  name: Xiaomi 13 Ultra
+  version: OS2.0.104.0.VMAMIXM
 - android: '14.0'
   codename: ishtar
   date: '2024-10-25'
@@ -8898,6 +8940,12 @@
   version: OS2.0.121.0.VOLCNXM
 - android: '15.0'
   codename: onyx
+  date: '2025-05-26'
+  download: https://bigota.d.miui.com/OS2.0.130.0.VOLCNXM/fw_onyx_onyx-ota_full-OS2.0.130.0.VOLCNXM-user-15.0-73acf1c717.zip
+  name: Redmi Turbo 4 Pro
+  version: OS2.0.130.0.VOLCNXM
+- android: '15.0'
+  codename: onyx
   date: '2025-04-25'
   download: https://bigota.d.miui.com/OS2.0.114.0.VOLCNXM/fw_onyx_onyx-ota_full-OS2.0.114.0.VOLCNXM-user-15.0-4ff83d67a1.zip
   name: Redmi Turbo 4 Pro
@@ -10456,6 +10504,18 @@
   download: https://bigota.d.miui.com/OS2.0.101.0.VOJEUXM/fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.101.0.VOJEUXM-user-15.0-c3f10ad369.zip
   name: Redmi Turbo 4/POCO X7 Pro
   version: OS2.0.101.0.VOJEUXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-05-26'
+  download: https://bigota.d.miui.com/OS2.0.102.0.VOJEUXM/fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.102.0.VOJEUXM-user-15.0-3fd6746344.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.102.0.VOJEUXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-05-26'
+  download: https://bigota.d.miui.com/OS2.0.103.0.VOJMIXM/fw_rodin_global_rodin_global-ota_full-OS2.0.103.0.VOJMIXM-user-15.0-21dd0b4bf0.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.103.0.VOJMIXM
 - android: '15.0'
   codename: rodin
   date: '2025-02-26'

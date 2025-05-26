@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-04-25'
+  date: '2025-05-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-25.04.2025/fw_dizi_global_dizi_global-ota_full-OS2.0.4.0.VNSMIXM-user-15.0-93f1a5b87a.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dizi/fw_dizi_global_dizi_global-ota_full-OS2.0.4.0.VNSMIXM-user-15.0-93f1a5b87a.zip
-  filename: fw_dizi_global_dizi_global-ota_full-OS2.0.4.0.VNSMIXM-user-15.0-93f1a5b87a.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-26.05.2025/fw_dizi_global_dizi_global-ota_full-OS2.0.5.0.VNSMIXM-user-15.0-8ef573306f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dizi/fw_dizi_global_dizi_global-ota_full-OS2.0.5.0.VNSMIXM-user-15.0-8ef573306f.zip
+  filename: fw_dizi_global_dizi_global-ota_full-OS2.0.5.0.VNSMIXM-user-15.0-8ef573306f.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.4.0.VNSMIXM
+    miui: OS2.0.5.0.VNSMIXM
 - branch: stable
   date: '2025-04-25'
   downloads:
@@ -19,15 +19,15 @@
     android: '15.0'
     miui: OS2.0.5.0.VNSCNXM
 - branch: stable
-  date: '2025-04-21'
+  date: '2025-05-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-21.04.2025/fw_dizi_eea_global_dizi_eea_global-ota_full-OS2.0.4.0.VNSEUXM-user-15.0-22720a053a.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dizi/fw_dizi_eea_global_dizi_eea_global-ota_full-OS2.0.4.0.VNSEUXM-user-15.0-22720a053a.zip
-  filename: fw_dizi_eea_global_dizi_eea_global-ota_full-OS2.0.4.0.VNSEUXM-user-15.0-22720a053a.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-26.05.2025/fw_dizi_eea_global_dizi_eea_global-ota_full-OS2.0.6.0.VNSEUXM-user-15.0-7ad07f83af.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dizi/fw_dizi_eea_global_dizi_eea_global-ota_full-OS2.0.6.0.VNSEUXM-user-15.0-7ad07f83af.zip
+  filename: fw_dizi_eea_global_dizi_eea_global-ota_full-OS2.0.6.0.VNSEUXM-user-15.0-7ad07f83af.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.4.0.VNSEUXM
+    miui: OS2.0.6.0.VNSEUXM
 - branch: stable
   date: '2025-04-25'
   downloads:
