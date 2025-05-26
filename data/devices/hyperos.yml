@@ -1072,6 +1072,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UOQCNXM/fw_beryl_miui_BERYL_OS1.0.3.0.UOQCNXM_96cb3b6017_14.0.zip
   name: Redmi Note 14 5G/POCO M7 Pro 5G
   version: OS1.0.3.0.UOQCNXM
+- android: '15.0'
+  codename: beryl
+  date: '2025-05-26'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VOQMIXM/fw_beryl_global_beryl_global-ota_full-OS2.0.2.0.VOQMIXM-user-15.0-1e39eb7937.zip
+  name: Redmi Note 14 5G/POCO M7 Pro 5G
+  version: OS2.0.2.0.VOQMIXM
 - android: '14.0'
   codename: beryl
   date: '2025-03-25'
@@ -2230,6 +2236,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNEEUXM/fw_degas_miui_DEGASEEAGlobal_OS1.0.4.0.UNEEUXM_de3482d8d7_14.0.zip
   name: Xiaomi 14T
   version: OS1.0.4.0.UNEEUXM
+- android: '15.0'
+  codename: degas
+  date: '2025-05-26'
+  download: https://bigota.d.miui.com/OS2.0.103.0.VNEMIXM/fw_degas_global_degas_global-ota_full-OS2.0.103.0.VNEMIXM-user-15.0-92e9227eab.zip
+  name: Xiaomi 14T
+  version: OS2.0.103.0.VNEMIXM
 - android: '15.0'
   codename: degas
   date: '2025-02-25'
