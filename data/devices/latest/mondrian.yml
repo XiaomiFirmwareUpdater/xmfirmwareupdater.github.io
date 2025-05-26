@@ -19,12 +19,12 @@
     android: '15.0'
     miui: OS2.0.7.0.VMNCNXM
 - branch: stable
-  date: '2025-03-24'
+  date: '2025-05-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-24.03.2025/fw_mondrian_eea_global_mondrian_eea_global-ota_full-OS2.0.4.0.VMNEUXM-user-15.0-16379f0f10.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mondrian/fw_mondrian_eea_global_mondrian_eea_global-ota_full-OS2.0.4.0.VMNEUXM-user-15.0-16379f0f10.zip
-  filename: fw_mondrian_eea_global_mondrian_eea_global-ota_full-OS2.0.4.0.VMNEUXM-user-15.0-16379f0f10.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-26.05.2025/fw_mondrian_eea_global_mondrian_eea_global-ota_full-OS2.0.6.0.VMNEUXM-user-15.0-c74dab42b3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mondrian/fw_mondrian_eea_global_mondrian_eea_global-ota_full-OS2.0.6.0.VMNEUXM-user-15.0-c74dab42b3.zip
+  filename: fw_mondrian_eea_global_mondrian_eea_global-ota_full-OS2.0.6.0.VMNEUXM-user-15.0-c74dab42b3.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.4.0.VMNEUXM
+    miui: OS2.0.6.0.VMNEUXM

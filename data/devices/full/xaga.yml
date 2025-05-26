@@ -139,6 +139,16 @@
     android: '12.0'
     miui: V13.0.8.0.SLOINXM
 - branch: stable
+  date: '2025-05-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-26.05.2025/fw_xaga_in_global_xaga_in_global-ota_full-OS2.0.2.0.ULOINXM-user-14.0-864f3ec2cb.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xaga/fw_xaga_in_global_xaga_in_global-ota_full-OS2.0.2.0.ULOINXM-user-14.0-864f3ec2cb.zip
+  filename: fw_xaga_in_global_xaga_in_global-ota_full-OS2.0.2.0.ULOINXM-user-14.0-864f3ec2cb.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS2.0.2.0.ULOINXM
+- branch: stable
   date: '2022-07-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-25.07.2022/fw_xaga_miui_XAGA_V13.0.11.0.SLOCNXM_da7d1e2cfb_12.0.zip

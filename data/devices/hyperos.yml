@@ -7626,6 +7626,12 @@
   version: OS1.0.7.0.UMNEUXM
 - android: '15.0'
   codename: mondrian
+  date: '2025-05-26'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VMNEUXM/fw_mondrian_eea_global_mondrian_eea_global-ota_full-OS2.0.6.0.VMNEUXM-user-15.0-c74dab42b3.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS2.0.6.0.VMNEUXM
+- android: '15.0'
+  codename: mondrian
   date: '2025-02-25'
   download: https://bigota.d.miui.com/OS2.0.3.0.VMNEUXM/fw_mondrian_eea_global_mondrian_eea_global-ota_full-OS2.0.3.0.VMNEUXM-user-15.0-b4b46ad0f0.zip
   name: Redmi K60/POCO F5 Pro
@@ -11692,6 +11698,18 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UNHEUXM/fw_sapphiren_miui_SAPPHIRENEEAGlobal_OS1.0.2.0.UNHEUXM_e5806849b0_14.0.zip
   name: Redmi Note 13 NFC
   version: OS1.0.2.0.UNHEUXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-05-26'
+  download: https://bigota.d.miui.com/OS2.0.7.0.VNHEUXM/fw_sapphiren_eea_global_sapphiren_eea_global-ota_full-OS2.0.7.0.VNHEUXM-user-15.0-e6e3042c21.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.7.0.VNHEUXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-05-26'
+  download: https://bigota.d.miui.com/OS2.0.11.0.VNHMIXM/fw_sapphiren_global_sapphiren_global-ota_full-OS2.0.11.0.VNHMIXM-user-15.0-e54857f0dd.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.11.0.VNHMIXM
 - android: '14.0'
   codename: sapphiren
   date: '2024-05-26'
@@ -12394,6 +12412,18 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UMWINXM/fw_sky_miui_SKYINGlobal_OS1.0.6.0.UMWINXM_a2bb8d048f_14.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
   version: OS1.0.6.0.UMWINXM
+- android: '15.0'
+  codename: sky
+  date: '2025-05-26'
+  download: https://bigota.d.miui.com/OS2.0.8.0.VMWEUXM/fw_sky_eea_global_sky_eea_global-ota_full-OS2.0.8.0.VMWEUXM-user-15.0-8b95fdd89a.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS2.0.8.0.VMWEUXM
+- android: '15.0'
+  codename: sky
+  date: '2025-05-26'
+  download: https://bigota.d.miui.com/OS2.0.8.0.VMWMIXM/fw_sky_global_sky_global-ota_full-OS2.0.8.0.VMWMIXM-user-15.0-a3874bf09e.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS2.0.8.0.VMWMIXM
 - android: '14.0'
   codename: sky
   date: '2024-06-24'
@@ -14740,6 +14770,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.ULOINXM/fw_xaga_miui_XAGAINGlobal_OS1.0.1.0.ULOINXM_fb3b9fb999_14.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: OS1.0.1.0.ULOINXM
+- android: '14.0'
+  codename: xaga
+  date: '2025-05-26'
+  download: https://bigota.d.miui.com/OS2.0.2.0.ULOINXM/fw_xaga_in_global_xaga_in_global-ota_full-OS2.0.2.0.ULOINXM-user-14.0-864f3ec2cb.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS2.0.2.0.ULOINXM
 - android: '14.0'
   codename: xaga
   date: '2025-03-24'
