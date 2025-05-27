@@ -29,6 +29,26 @@
     android: '14.0'
     miui: OS1.0.10.0.UOOCNXM
 - branch: stable
+  date: '2025-05-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-27.05.2025/fw_malachite_global_malachite_global-ota_full-OS2.0.6.0.VOOMIXM-user-15.0-3ca77f000f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/malachite/fw_malachite_global_malachite_global-ota_full-OS2.0.6.0.VOOMIXM-user-15.0-3ca77f000f.zip
+  filename: fw_malachite_global_malachite_global-ota_full-OS2.0.6.0.VOOMIXM-user-15.0-3ca77f000f.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.6.0.VOOMIXM
+- branch: stable
+  date: '2025-05-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-27.05.2025/fw_malachite_in_global_malachite_in_global-ota_full-OS2.0.3.0.VOOINXM-user-15.0-57c387d415.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/malachite/fw_malachite_in_global_malachite_in_global-ota_full-OS2.0.3.0.VOOINXM-user-15.0-57c387d415.zip
+  filename: fw_malachite_in_global_malachite_in_global-ota_full-OS2.0.3.0.VOOINXM-user-15.0-57c387d415.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.3.0.VOOINXM
+- branch: stable
   date: '2025-02-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-27.02.2025/fw_malachite_miui_MALACHITE_OS1.0.12.0.UOOCNXM_a4d3a5a2ae_14.0.zip
