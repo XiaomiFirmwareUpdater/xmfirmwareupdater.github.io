@@ -66,8 +66,8 @@ permalink: /hyperos/miro/
 <tr><td>Redmi K80 Pro / POCO F7 Ultra Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.103.0.VOMRUXM</td><td>15.0</td><td>7.0 GB</td><td>2025-05-15</td><td><a href="/hyperos/miro/stable/OS2.0.103.0.VOMRUXM/">Download</a></td></tr>
 <tr><td>Redmi K80 Pro / POCO F7 Ultra Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.101.0.VOMTRXM</td><td>15.0</td><td>7.1 GB</td><td>2025-04-23</td><td><a href="/hyperos/miro/stable/OS2.0.101.0.VOMTRXM/">Download</a></td></tr>
 <tr><td>Redmi K80 Pro / POCO F7 Ultra Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VOMTRXM</td><td>15.0</td><td>8.6 GB</td><td>2025-04-27</td><td><a href="/hyperos/miro/stable/OS2.0.101.0.VOMTRXM/">Download</a></td></tr>
-<tr><td>Redmi K80 Pro / POCO F7 Ultra Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VOMTWXM</td><td>15.0</td><td>8.1 GB</td><td>2025-04-23</td><td><a href="/hyperos/miro/stable/OS2.0.102.0.VOMTWXM/">Download</a></td></tr>
-<tr><td>Redmi K80 Pro / POCO F7 Ultra Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VOMTWXM</td><td>15.0</td><td>7.0 GB</td><td>2025-04-14</td><td><a href="/hyperos/miro/stable/OS2.0.102.0.VOMTWXM/">Download</a></td></tr>
+<tr><td>Redmi K80 Pro / POCO F7 Ultra Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.104.0.VOMTWXM</td><td>15.0</td><td>8.1 GB</td><td>2025-05-12</td><td><a href="/hyperos/miro/stable/OS2.0.104.0.VOMTWXM/">Download</a></td></tr>
+<tr><td>Redmi K80 Pro / POCO F7 Ultra Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.104.0.VOMTWXM</td><td>15.0</td><td>7.0 GB</td><td>2025-05-20</td><td><a href="/hyperos/miro/stable/OS2.0.104.0.VOMTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
