@@ -29,12 +29,12 @@
     android: '15.0'
     miui: OS2.0.8.0.VMWEUXM
 - branch: stable
-  date: '2025-02-24'
+  date: '2025-05-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-24.02.2025/fw_sky_in_global_sky_in_global-ota_full-OS2.0.4.0.VMWINXM-user-15.0-047678448e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sky/fw_sky_in_global_sky_in_global-ota_full-OS2.0.4.0.VMWINXM-user-15.0-047678448e.zip
-  filename: fw_sky_in_global_sky_in_global-ota_full-OS2.0.4.0.VMWINXM-user-15.0-047678448e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-28.05.2025/fw_sky_in_global_sky_in_global-ota_full-OS2.0.8.0.VMWINXM-user-15.0-e500d1bd68.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sky/fw_sky_in_global_sky_in_global-ota_full-OS2.0.8.0.VMWINXM-user-15.0-e500d1bd68.zip
+  filename: fw_sky_in_global_sky_in_global-ota_full-OS2.0.8.0.VMWINXM-user-15.0-e500d1bd68.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.4.0.VMWINXM
+    miui: OS2.0.8.0.VMWINXM

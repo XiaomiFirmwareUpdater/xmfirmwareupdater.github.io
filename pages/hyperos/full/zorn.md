@@ -52,7 +52,9 @@ permalink: /archive/hyperos/zorn/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F7 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.105.0.VOKMIXM</td><td>15.0</td><td>6.1 GB</td><td>2025-05-14</td><td><a href="/hyperos/zorn/stable/OS2.0.105.0.VOKMIXM/">Download</a></td></tr>
+                <tr><td>POCO F7 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.104.0.VOKIDXM</td><td>15.0</td><td>6.1 GB</td><td>2025-05-23</td><td><a href="/hyperos/zorn/stable/OS2.0.104.0.VOKIDXM/">Download</a></td></tr>
+<tr><td>POCO F7 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.104.0.VOKIDXM</td><td>15.0</td><td>8.8 GB</td><td>2025-05-13</td><td><a href="/hyperos/zorn/stable/OS2.0.104.0.VOKIDXM/">Download</a></td></tr>
+<tr><td>POCO F7 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.105.0.VOKMIXM</td><td>15.0</td><td>6.1 GB</td><td>2025-05-14</td><td><a href="/hyperos/zorn/stable/OS2.0.105.0.VOKMIXM/">Download</a></td></tr>
 <tr><td>POCO F7 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.105.0.VOKMIXM</td><td>15.0</td><td>9.5 GB</td><td>2025-05-07</td><td><a href="/hyperos/zorn/stable/OS2.0.105.0.VOKMIXM/">Download</a></td></tr>
 <tr><td>POCO F7 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.103.0.VOKTWXM</td><td>15.0</td><td>5.9 GB</td><td>2025-05-14</td><td><a href="/hyperos/zorn/stable/OS2.0.103.0.VOKTWXM/">Download</a></td></tr>
 <tr><td>POCO F7 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.103.0.VOKTWXM</td><td>15.0</td><td>7.9 GB</td><td>2025-05-07</td><td><a href="/hyperos/zorn/stable/OS2.0.103.0.VOKTWXM/">Download</a></td></tr>
