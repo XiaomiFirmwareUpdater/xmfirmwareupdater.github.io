@@ -11220,6 +11220,12 @@
   version: OS1.0.7.0.UMOCNXM
 - android: '14.0'
   codename: ruby
+  date: '2025-05-29'
+  download: https://bigota.d.miui.com/OS2.0.4.0.UMOCNXM/fw_ruby_ruby-ota_full-OS2.0.4.0.UMOCNXM-user-14.0-1f6d594372.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS2.0.4.0.UMOCNXM
+- android: '14.0'
+  codename: ruby
   date: '2024-03-29'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMOEUXM/fw_ruby_miui_RUBYEEAGlobal_OS1.0.2.0.UMOEUXM_001eaf5922_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
@@ -16348,6 +16354,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.ULLCNXM/fw_ziyi_miui_ZIYI_OS1.0.12.0.ULLCNXM_6469bf97b9_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.12.0.ULLCNXM
+- android: '15.0'
+  codename: ziyi
+  date: '2025-05-29'
+  download: https://bigota.d.miui.com/OS2.0.5.0.VLLMIXM/fw_ziyi_global_ziyi_global-ota_full-OS2.0.5.0.VLLMIXM-user-15.0-e3f6ef3683.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS2.0.5.0.VLLMIXM
 - android: '14.0'
   codename: ziyi
   date: '2024-10-28'

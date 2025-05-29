@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 29 May 2025 18:38:12 </lastBuildDate>
+        <lastBuildDate>Fri, 30 May 2025 01:23:17 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS2.0.6.0.VNSCNXM</title>
@@ -14,6 +14,16 @@
         <item>
             <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.102.0.VOJINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
+            <pubDate>Thu, 29 May 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.4.0.UMOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Thu, 29 May 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS2.0.5.0.VLLMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Thu, 29 May 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -972,11 +982,6 @@
             <pubDate>Fri, 25 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS2.0.3.0.VLLMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
-            <pubDate>Fri, 25 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K80/POCO F7 Pro (zorn) - OS2.0.108.0.VOKEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zorn/</link>
             <pubDate>Fri, 25 Apr 2025 00:00:00 </pubDate>
@@ -984,11 +989,6 @@
         <item>
             <title>Xiaomi 14 (houji) - OS2.0.102.0.VNCMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/houji/</link>
-            <pubDate>Thu, 24 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.3.0.UMOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Thu, 24 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
