@@ -3406,6 +3406,12 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.VNFEUXM/fw_emerald_eea_global_emerald_eea_global-ota_full-OS2.0.3.0.VNFEUXM-user-15.0-55b8e52514.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS2.0.3.0.VNFEUXM
+- android: '15.0'
+  codename: emerald
+  date: '2025-05-30'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VNFMIXM/fw_emerald_global_emerald_global-ota_full-OS2.0.6.0.VNFMIXM-user-15.0-6aeb35fc99.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
+  version: OS2.0.6.0.VNFMIXM
 - android: '14.0'
   codename: emerald
   date: '2024-10-28'
@@ -6528,6 +6534,12 @@
   version: OS1.0.5.0.UKOCNXM
 - android: '14.0'
   codename: lisa
+  date: '2025-05-30'
+  download: https://bigota.d.miui.com/OS2.0.2.0.UKOEUXM/fw_lisa_eea_global_lisa_eea_global-ota_full-OS2.0.2.0.UKOEUXM-user-14.0-5092f15ee6.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.2.0.UKOEUXM
+- android: '14.0'
+  codename: lisa
   date: '2024-10-28'
   download: https://bigota.d.miui.com/OS1.0.9.0.UKOMIXM/fw_lisa_miui_LISAGlobal_OS1.0.9.0.UKOMIXM_66a083f06a_14.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
@@ -7510,6 +7522,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.ULKCNXM/fw_matisse_miui_MATISSE_OS1.0.9.0.ULKCNXM_a37e37e3c4_14.0.zip
   name: Redmi K50 Pro
   version: OS1.0.9.0.ULKCNXM
+- android: '15.0'
+  codename: mayfly
+  date: '2025-05-30'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VLTCNXM/fw_mayfly_mayfly-ota_full-OS2.0.6.0.VLTCNXM-user-15.0-39f907dd8e.zip
+  name: Xiaomi 12S
+  version: OS2.0.6.0.VLTCNXM
 - android: '14.0'
   codename: mayfly
   date: '2024-10-21'
@@ -9466,6 +9484,18 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMZINXM/fw_pipa_miui_PIPAINGlobal_OS1.0.5.0.UMZINXM_98b65c88cf_14.0.zip
   name: Xiaomi Pad 6
   version: OS1.0.5.0.UMZINXM
+- android: '14.0'
+  codename: pipa
+  date: '2025-05-30'
+  download: https://bigota.d.miui.com/OS2.0.4.0.UMZMIXM/fw_pipa_global_pipa_global-ota_full-OS2.0.4.0.UMZMIXM-user-14.0-7285a708c4.zip
+  name: Xiaomi Pad 6
+  version: OS2.0.4.0.UMZMIXM
+- android: '14.0'
+  codename: pipa
+  date: '2025-05-30'
+  download: https://bigota.d.miui.com/OS2.0.8.0.UMZCNXM/fw_pipa_pipa-ota_full-OS2.0.8.0.UMZCNXM-user-14.0-dee3af6e7b.zip
+  name: Xiaomi Pad 6
+  version: OS2.0.8.0.UMZCNXM
 - android: '14.0'
   codename: pipa
   date: '2024-01-30'
@@ -13188,6 +13218,12 @@
   version: OS1.0.9.0.UMQMIXM
 - android: '14.0'
   codename: sunstone
+  date: '2025-05-30'
+  download: https://bigota.d.miui.com/OS2.0.4.0.UMQCNXM/fw_sunstone_sunstone-ota_full-OS2.0.4.0.UMQCNXM-user-14.0-d5dce2ab6f.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: OS2.0.4.0.UMQCNXM
+- android: '14.0'
+  codename: sunstone
   date: '2024-06-29'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMQMIXM/fw_sunstone_miui_SUNSTONEGlobal_OS1.0.5.0.UMQMIXM_5187649eac_14.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
@@ -13896,6 +13932,12 @@
   version: OS2.0.7.0.VOZCNXM
 - android: '15.0'
   codename: uke
+  date: '2025-05-30'
+  download: https://bigota.d.miui.com/OS2.0.102.0.VOZINXM/fw_uke_in_global_uke_in_global-ota_full-OS2.0.102.0.VOZINXM-user-15.0-9a5617fd0a.zip
+  name: Xiaomi Pad 7
+  version: OS2.0.102.0.VOZINXM
+- android: '15.0'
+  codename: uke
   date: '2025-04-28'
   download: https://bigota.d.miui.com/OS2.0.101.0.VOZINXM/fw_uke_in_global_uke_in_global-ota_full-OS2.0.101.0.VOZINXM-user-15.0-53a3798b28.zip
   name: Xiaomi Pad 7
@@ -14236,6 +14278,12 @@
   download: https://bigota.d.miui.com/OS1.0.20.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.20.0.UNKCNXM_9de24d741c_14.0.zip
   name: Redmi K70/POCO F6 Pro
   version: OS1.0.20.0.UNKCNXM
+- android: '15.0'
+  codename: vermeer
+  date: '2025-05-30'
+  download: https://bigota.d.miui.com/OS2.0.103.0.VNKMIXM/fw_vermeer_global_vermeer_global-ota_full-OS2.0.103.0.VNKMIXM-user-15.0-70daecbbc6.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS2.0.103.0.VNKMIXM
 - android: '14.0'
   codename: vermeer
   date: '2024-03-29'
