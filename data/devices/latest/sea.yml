@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-04-14'
+  date: '2025-05-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-14.04.2025/fw_sea_global_sea_global-ota_full-OS2.0.3.0.VHZMIXM-user-15.0-9259b84309.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sea/fw_sea_global_sea_global-ota_full-OS2.0.3.0.VHZMIXM-user-15.0-9259b84309.zip
-  filename: fw_sea_global_sea_global-ota_full-OS2.0.3.0.VHZMIXM-user-15.0-9259b84309.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-30.05.2025/fw_sea_global_sea_global-ota_full-OS2.0.4.0.VHZMIXM-user-15.0-ecd7277b3a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sea/fw_sea_global_sea_global-ota_full-OS2.0.4.0.VHZMIXM-user-15.0-ecd7277b3a.zip
+  filename: fw_sea_global_sea_global-ota_full-OS2.0.4.0.VHZMIXM-user-15.0-ecd7277b3a.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.3.0.VHZMIXM
+    miui: OS2.0.4.0.VHZMIXM
 - branch: stable
   date: '2025-04-25'
   downloads:
