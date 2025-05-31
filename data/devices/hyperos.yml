@@ -1762,6 +1762,12 @@
   download: https://bigota.d.miui.com/OS1.0.15.0.UMLCNXM/fw_corot_miui_COROT_OS1.0.15.0.UMLCNXM_c8567484cb_14.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
   version: OS1.0.15.0.UMLCNXM
+- android: '15.0'
+  codename: corot
+  date: '2025-05-31'
+  download: https://bigota.d.miui.com/OS2.0.111.0.VMLCNXM/fw_corot_corot-ota_full-OS2.0.111.0.VMLCNXM-user-15.0-0c36e3dc19.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS2.0.111.0.VMLCNXM
 - android: '14.0'
   codename: cupid
   date: '2024-01-29'

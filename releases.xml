@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 31 May 2025 20:26:21 </lastBuildDate>
+        <lastBuildDate>Sun, 01 Jun 2025 00:44:15 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS2.0.3.0.VOPMIXM</title>
@@ -24,6 +24,11 @@
         <item>
             <title>Xiaomi Civi 4 Pro (chenfeng) - OS2.0.105.0.VNJINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
+            <pubDate>Sat, 31 May 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.111.0.VMLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/corot/</link>
             <pubDate>Sat, 31 May 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1060,11 +1065,6 @@
             <title>Redmi Note 12S (sea) - OS2.0.4.0.VHZEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sea/</link>
             <pubDate>Fri, 25 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.107.0.VMLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Wed, 23 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.108.0.VNLCNXM</title>
