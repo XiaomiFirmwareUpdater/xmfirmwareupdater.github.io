@@ -9480,6 +9480,18 @@
   version: OS1.0.6.0.UNPEUXM
 - android: '14.0'
   codename: pipa
+  date: '2025-05-31'
+  download: https://bigota.d.miui.com/OS2.0.3.0.UMZEUXM/fw_pipa_eea_global_pipa_eea_global-ota_full-OS2.0.3.0.UMZEUXM-user-14.0-b5f4b111ca.zip
+  name: Xiaomi Pad 6
+  version: OS2.0.3.0.UMZEUXM
+- android: '14.0'
+  codename: pipa
+  date: '2025-05-31'
+  download: https://bigota.d.miui.com/OS2.0.3.0.UMZINXM/fw_pipa_in_global_pipa_in_global-ota_full-OS2.0.3.0.UMZINXM-user-14.0-25635373f3.zip
+  name: Xiaomi Pad 6
+  version: OS2.0.3.0.UMZINXM
+- android: '14.0'
+  codename: pipa
   date: '2024-07-30'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMZINXM/fw_pipa_miui_PIPAINGlobal_OS1.0.5.0.UMZINXM_98b65c88cf_14.0.zip
   name: Xiaomi Pad 6
@@ -16702,6 +16714,12 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.VLRCNXM/fw_zizhan_zizhan-ota_full-OS2.0.3.0.VLRCNXM-user-15.0-b30c68986b.zip
   name: Xiaomi MIX Fold 2
   version: OS2.0.3.0.VLRCNXM
+- android: '15.0'
+  codename: zorn
+  date: '2025-05-31'
+  download: https://bigota.d.miui.com/OS2.0.111.0.VOKEUXM/fw_zorn_eea_global_zorn_eea_global-ota_full-OS2.0.111.0.VOKEUXM-user-15.0-831a49256f.zip
+  name: Redmi K80/POCO F7 Pro
+  version: OS2.0.111.0.VOKEUXM
 - android: '15.0'
   codename: zorn
   date: '2024-11-28'
