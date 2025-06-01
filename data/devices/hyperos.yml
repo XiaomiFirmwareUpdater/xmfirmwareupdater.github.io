@@ -1270,6 +1270,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UOQCNXM/fw_beryl_miui_BERYL_OS1.0.4.0.UOQCNXM_b2a9397244_14.0.zip
   name: Redmi Note 14 5G/POCO M7 Pro 5G
   version: OS1.0.4.0.UOQCNXM
+- android: '14.0'
+  codename: beryl
+  date: '2025-06-01'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UOQMIXM/fw_beryl_miui_BERYLGlobal_OS1.0.12.0.UOQMIXM_7518c4ecda_14.0.zip
+  name: Redmi Note 14 5G/POCO M7 Pro 5G
+  version: OS1.0.12.0.UOQMIXM
 - android: '15.0'
   codename: beryl
   date: '2025-04-01'

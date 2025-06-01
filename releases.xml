@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 01 Jun 2025 06:36:01 </lastBuildDate>
+        <lastBuildDate>Sun, 01 Jun 2025 12:50:11 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS1.0.12.0.UOQMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
+            <pubDate>Sun, 01 Jun 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS2.0.3.0.VOPMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
@@ -279,11 +284,6 @@
         <item>
             <title>MIX Fold 3 (babylon) - OS2.0.110.0.VMVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
-            <pubDate>Mon, 26 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS2.0.2.0.VOQMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
             <pubDate>Mon, 26 May 2025 00:00:00 </pubDate>
         </item>
         <item>
