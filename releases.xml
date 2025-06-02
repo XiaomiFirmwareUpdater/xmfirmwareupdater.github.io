@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 02 Jun 2025 12:34:46 </lastBuildDate>
+        <lastBuildDate>Mon, 02 Jun 2025 18:54:23 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.4.0.VNOINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
+            <pubDate>Mon, 02 Jun 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS1.0.12.0.UOQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
@@ -1148,11 +1153,6 @@
         </item>
         <item>
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.8.0.VNOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
-            <pubDate>Mon, 21 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.3.0.VNOINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Mon, 21 Apr 2025 00:00:00 </pubDate>
         </item>
