@@ -2292,6 +2292,12 @@
   version: OS1.0.6.0.ULGCNXM
 - android: '14.0'
   codename: daumier
+  date: '2025-06-03'
+  download: https://bigota.d.miui.com/OS2.0.5.0.ULGCNXM/fw_daumier_daumier-ota_full-OS2.0.5.0.ULGCNXM-user-14.0-f66754ac63.zip
+  name: Xiaomi 12 Pro Dimensity
+  version: OS2.0.5.0.ULGCNXM
+- android: '14.0'
+  codename: daumier
   date: '2024-02-03'
   download: https://bigota.d.miui.com/OS1.0.2.0.ULGCNXM/fw_daumier_miui_DAUMIER_OS1.0.2.0.ULGCNXM_d84b64c895_14.0.zip
   name: Xiaomi 12 Pro Dimensity
@@ -4828,6 +4834,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UNRMIXM/fw_garnet_miui_GARNETGlobal_OS1.0.12.0.UNRMIXM_920b566a45_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS1.0.12.0.UNRMIXM
+- android: '15.0'
+  codename: garnet
+  date: '2025-06-03'
+  download: https://bigota.d.miui.com/OS2.0.10.0.VNRMIXM/fw_garnet_global_garnet_global-ota_full-OS2.0.10.0.VNRMIXM-user-15.0-52ad2f3605.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS2.0.10.0.VNRMIXM
 - android: '14.0'
   codename: garnet
   date: '2024-07-01'
@@ -7096,6 +7108,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UOOCNXM/fw_malachite_miui_MALACHITE_OS1.0.8.0.UOOCNXM_b70842734a_14.0.zip
   name: Redmi Note 14 Pro 5G/POCO X7
   version: OS1.0.8.0.UOOCNXM
+- android: '15.0'
+  codename: malachite
+  date: '2025-06-03'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VOOEUXM/fw_malachite_eea_global_malachite_eea_global-ota_full-OS2.0.4.0.VOOEUXM-user-15.0-49f82b0f43.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS2.0.4.0.VOOEUXM
 - android: '14.0'
   codename: malachite
   date: '2025-04-03'

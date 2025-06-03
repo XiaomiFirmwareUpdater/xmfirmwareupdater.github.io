@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2025-04-14'
+  date: '2025-06-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_daumier/releases/download/stable-14.04.2025/fw_daumier_daumier-ota_full-OS2.0.3.0.ULGCNXM-user-14.0-9320893e31.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/daumier/fw_daumier_daumier-ota_full-OS2.0.3.0.ULGCNXM-user-14.0-9320893e31.zip
-  filename: fw_daumier_daumier-ota_full-OS2.0.3.0.ULGCNXM-user-14.0-9320893e31.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_daumier/releases/download/stable-03.06.2025/fw_daumier_daumier-ota_full-OS2.0.5.0.ULGCNXM-user-14.0-f66754ac63.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/daumier/fw_daumier_daumier-ota_full-OS2.0.5.0.ULGCNXM-user-14.0-f66754ac63.zip
+  filename: fw_daumier_daumier-ota_full-OS2.0.5.0.ULGCNXM-user-14.0-f66754ac63.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS2.0.3.0.ULGCNXM
+    miui: OS2.0.5.0.ULGCNXM
