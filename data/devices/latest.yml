@@ -579,15 +579,15 @@
     android: '15.0'
     miui: OS2.0.6.0.VNUCNXM
 - branch: stable
-  date: '2025-04-08'
+  date: '2025-06-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-08.04.2025/fw_breeze_in_global_breeze_in_global-ota_full-OS2.0.5.0.VNUINXM-user-15.0-5351e77f95.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/breeze/fw_breeze_in_global_breeze_in_global-ota_full-OS2.0.5.0.VNUINXM-user-15.0-5351e77f95.zip
-  filename: fw_breeze_in_global_breeze_in_global-ota_full-OS2.0.5.0.VNUINXM-user-15.0-5351e77f95.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-03.06.2025/fw_breeze_in_global_breeze_in_global-ota_full-OS2.0.7.0.VNUINXM-user-15.0-80b4253740.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/breeze/fw_breeze_in_global_breeze_in_global-ota_full-OS2.0.7.0.VNUINXM-user-15.0-80b4253740.zip
+  filename: fw_breeze_in_global_breeze_in_global-ota_full-OS2.0.7.0.VNUINXM-user-15.0-80b4253740.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.5.0.VNUINXM
+    miui: OS2.0.7.0.VNUINXM
 - branch: stable
   date: '2020-09-22'
   downloads:
@@ -1419,15 +1419,15 @@
     android: '15.0'
     miui: OS2.0.105.0.VNEEUXM
 - branch: stable
-  date: '2025-05-22'
+  date: '2025-06-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dijun/releases/download/stable-22.05.2025/fw_dijun_dijun-ota_full-OS2.0.121.0.VODCNXM-user-15.0-06c0ede3f3.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dijun/fw_dijun_dijun-ota_full-OS2.0.121.0.VODCNXM-user-15.0-06c0ede3f3.zip
-  filename: fw_dijun_dijun-ota_full-OS2.0.121.0.VODCNXM-user-15.0-06c0ede3f3.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dijun/releases/download/stable-03.06.2025/fw_dijun_dijun-ota_full-OS2.0.126.0.VODCNXM-user-15.0-d906bf0baf.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dijun/fw_dijun_dijun-ota_full-OS2.0.126.0.VODCNXM-user-15.0-d906bf0baf.zip
+  filename: fw_dijun_dijun-ota_full-OS2.0.126.0.VODCNXM-user-15.0-d906bf0baf.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.121.0.VODCNXM
+    miui: OS2.0.126.0.VODCNXM
 - branch: stable
   date: '2021-12-27'
   downloads:
@@ -2209,15 +2209,15 @@
     android: '15.0'
     miui: OS2.0.9.0.VNQCNXM
 - branch: stable
-  date: '2025-04-21'
+  date: '2025-06-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-21.04.2025/fw_gold_eea_global_gold_eea_global-ota_full-OS2.0.4.0.VNQEUXM-user-15.0-01309676cf.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gold/fw_gold_eea_global_gold_eea_global-ota_full-OS2.0.4.0.VNQEUXM-user-15.0-01309676cf.zip
-  filename: fw_gold_eea_global_gold_eea_global-ota_full-OS2.0.4.0.VNQEUXM-user-15.0-01309676cf.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-03.06.2025/fw_gold_eea_global_gold_eea_global-ota_full-OS2.0.5.0.VNQEUXM-user-15.0-38079beb10.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gold/fw_gold_eea_global_gold_eea_global-ota_full-OS2.0.5.0.VNQEUXM-user-15.0-38079beb10.zip
+  filename: fw_gold_eea_global_gold_eea_global-ota_full-OS2.0.5.0.VNQEUXM-user-15.0-38079beb10.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.4.0.VNQEUXM
+    miui: OS2.0.5.0.VNQEUXM
 - branch: stable
   date: '2025-05-07'
   downloads:

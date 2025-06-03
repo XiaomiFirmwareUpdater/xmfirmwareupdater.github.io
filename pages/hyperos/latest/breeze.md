@@ -54,8 +54,8 @@ permalink: /hyperos/breeze/
                 <tbody>
                 <tr><td>Redmi Note 13R China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.6.0.VNUCNXM</td><td>15.0</td><td>7.9 GB</td><td>2025-04-28</td><td><a href="/hyperos/breeze/stable/OS2.0.6.0.VNUCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13R China</td><td>Stable</td><td>Recovery</td><td>OS2.0.6.0.VNUCNXM</td><td>15.0</td><td>5.2 GB</td><td>2025-05-06</td><td><a href="/hyperos/breeze/stable/OS2.0.6.0.VNUCNXM/">Download</a></td></tr>
-<tr><td>Redmi 13 5G / POCO M6 Plus 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.5.0.VNUINXM</td><td>15.0</td><td>7.2 GB</td><td>2025-03-11</td><td><a href="/hyperos/breeze/stable/OS2.0.5.0.VNUINXM/">Download</a></td></tr>
-<tr><td>Redmi 13 5G / POCO M6 Plus 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.VNUINXM</td><td>15.0</td><td>4.4 GB</td><td>2025-03-26</td><td><a href="/hyperos/breeze/stable/OS2.0.5.0.VNUINXM/">Download</a></td></tr>
+<tr><td>Redmi 13 5G / POCO M6 Plus 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.7.0.VNUINXM</td><td>15.0</td><td>7.1 GB</td><td>2025-05-18</td><td><a href="/hyperos/breeze/stable/OS2.0.7.0.VNUINXM/">Download</a></td></tr>
+<tr><td>Redmi 13 5G / POCO M6 Plus 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.7.0.VNUINXM</td><td>15.0</td><td>4.4 GB</td><td>2025-05-22</td><td><a href="/hyperos/breeze/stable/OS2.0.7.0.VNUINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
