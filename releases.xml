@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 03 Jun 2025 07:07:48 </lastBuildDate>
+        <lastBuildDate>Tue, 03 Jun 2025 13:47:27 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS2.0.7.0.VNUINXM</title>
@@ -17,8 +17,23 @@
             <pubDate>Tue, 03 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.110.0.VNLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Tue, 03 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS2.0.5.0.VNQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gold/</link>
+            <pubDate>Tue, 03 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS2.0.107.0.VNXMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
+            <pubDate>Tue, 03 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS2.0.104.0.VNXEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
             <pubDate>Tue, 03 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -862,11 +877,6 @@
             <pubDate>Tue, 06 May 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS2.0.103.0.VNXEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
-            <pubDate>Tue, 06 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12S Ultra (thor) - OS2.0.12.0.VLACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/thor/</link>
             <pubDate>Tue, 06 May 2025 00:00:00 </pubDate>
@@ -997,11 +1007,6 @@
             <pubDate>Mon, 28 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS2.0.105.0.VNXMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
-            <pubDate>Mon, 28 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12 Lite (taoyao) - OS1.0.17.0.ULIMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taoyao/</link>
             <pubDate>Mon, 28 Apr 2025 00:00:00 </pubDate>
@@ -1080,11 +1085,6 @@
             <title>Redmi Note 12S (sea) - OS2.0.4.0.VHZEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sea/</link>
             <pubDate>Fri, 25 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.108.0.VNLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Wed, 23 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS2.0.3.0.UMSINXM</title>

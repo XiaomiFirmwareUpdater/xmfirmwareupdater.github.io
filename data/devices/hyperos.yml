@@ -3226,6 +3226,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UNLCNXM/fw_duchamp_miui_DUCHAMP_OS1.0.5.0.UNLCNXM_e4365a30e5_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS1.0.5.0.UNLCNXM
+- android: '15.0'
+  codename: duchamp
+  date: '2025-06-03'
+  download: https://bigota.d.miui.com/OS2.0.110.0.VNLCNXM/fw_duchamp_duchamp-ota_full-OS2.0.110.0.VNLCNXM-user-15.0-cf461f73cd.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS2.0.110.0.VNLCNXM
 - android: '14.0'
   codename: duchamp
   date: '2024-06-03'
@@ -12418,6 +12424,18 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UNXMIXM/fw_sheng_miui_SHENGGlobal_OS1.0.5.0.UNXMIXM_445f9940fd_14.0.zip
   name: Xiaomi Pad 6S Pro 12.4
   version: OS1.0.5.0.UNXMIXM
+- android: '15.0'
+  codename: sheng
+  date: '2025-06-03'
+  download: https://bigota.d.miui.com/OS2.0.104.0.VNXEUXM/fw_sheng_eea_global_sheng_eea_global-ota_full-OS2.0.104.0.VNXEUXM-user-15.0-59e904216a.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS2.0.104.0.VNXEUXM
+- android: '15.0'
+  codename: sheng
+  date: '2025-06-03'
+  download: https://bigota.d.miui.com/OS2.0.107.0.VNXMIXM/fw_sheng_global_sheng_global-ota_full-OS2.0.107.0.VNXMIXM-user-15.0-5c1ec11d06.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS2.0.107.0.VNXMIXM
 - android: '14.0'
   codename: sheng
   date: '2024-04-03'
