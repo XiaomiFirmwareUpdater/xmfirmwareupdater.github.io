@@ -13830,6 +13830,12 @@
   version: OS1.0.10.0.UMTMIXM
 - android: '15.0'
   codename: tapas
+  date: '2025-06-04'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VMTINXM/fw_tapas_in_global_tapas_in_global-ota_full-OS2.0.4.0.VMTINXM-user-15.0-978775bf68.zip
+  name: Redmi Note 12 4G
+  version: OS2.0.4.0.VMTINXM
+- android: '15.0'
+  codename: tapas
   date: '2025-04-02'
   download: https://bigota.d.miui.com/OS2.0.11.0.VMTMIXM/fw_tapas_global_tapas_global-ota_full-OS2.0.11.0.VMTMIXM-user-15.0-eafcb8922d.zip
   name: Redmi Note 12 4G
