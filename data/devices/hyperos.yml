@@ -6400,6 +6400,12 @@
   download: https://bigota.d.miui.com/OS2.0.104.0.VOXCNXM/fw_jinghu_jinghu-ota_full-OS2.0.104.0.VOXCNXM-user-15.0-52a8adc79d.zip
   name: Xiaomi Pad 7 Ultra
   version: OS2.0.104.0.VOXCNXM
+- android: '15.0'
+  codename: jinghu
+  date: '2025-06-04'
+  download: https://bigota.d.miui.com/OS2.0.110.0.VOXCNXM/fw_jinghu_jinghu-ota_full-OS2.0.110.0.VOXCNXM-user-15.0-b31d1e2501.zip
+  name: Xiaomi Pad 7 Ultra
+  version: OS2.0.110.0.VOXCNXM
 - android: '14.0'
   codename: lake
   date: '2025-03-31'
@@ -16738,6 +16744,12 @@
   download: https://bigota.d.miui.com/OS1.0.14.0.ULLCNXM/fw_ziyi_miui_ZIYI_OS1.0.14.0.ULLCNXM_cd66e10f24_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.14.0.ULLCNXM
+- android: '15.0'
+  codename: ziyi
+  date: '2025-06-04'
+  download: https://bigota.d.miui.com/OS2.0.8.0.VLLCNXM/fw_ziyi_ziyi-ota_full-OS2.0.8.0.VLLCNXM-user-15.0-cc39a7560c.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS2.0.8.0.VLLCNXM
 - android: '14.0'
   codename: ziyi
   date: '2024-09-03'

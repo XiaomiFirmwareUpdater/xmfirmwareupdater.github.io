@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 04 Jun 2025 12:41:16 </lastBuildDate>
+        <lastBuildDate>Wed, 04 Jun 2025 19:05:41 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Pad 7 Ultra (jinghu) - OS2.0.110.0.VOXCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/jinghu/</link>
+            <pubDate>Wed, 04 Jun 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 12 4G (tapas) - OS2.0.4.0.VMTINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tapas/</link>
+            <pubDate>Wed, 04 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS2.0.8.0.VLLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Wed, 04 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -487,11 +497,6 @@
             <pubDate>Thu, 22 May 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 7 Ultra (jinghu) - OS2.0.104.0.VOXCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/jinghu/</link>
-            <pubDate>Thu, 22 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Civi 5 Pro (luming) - OS2.0.105.0.VOICNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/luming/</link>
             <pubDate>Thu, 22 May 2025 00:00:00 </pubDate>
@@ -914,11 +919,6 @@
         <item>
             <title>Xiaomi 12 Pro (zeus) - OS2.0.6.0.VLBEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Tue, 06 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS2.0.7.0.VLLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Tue, 06 May 2025 00:00:00 </pubDate>
         </item>
         <item>
