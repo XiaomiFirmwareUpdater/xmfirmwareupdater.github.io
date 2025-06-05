@@ -60,9 +60,9 @@ permalink: /hyperos/sheng/
 <tr><td>Xiaomi Pad 6S Pro 12.4 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.107.0.VNXMIXM</td><td>15.0</td><td>7.2 GB</td><td>2025-05-08</td><td><a href="/hyperos/sheng/stable/OS2.0.107.0.VNXMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6S Pro 12.4 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.107.0.VNXMIXM</td><td>15.0</td><td>5.9 GB</td><td>2025-05-22</td><td><a href="/hyperos/sheng/stable/OS2.0.107.0.VNXMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6S Pro 12.4 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.103.0.VNXIDXM</td><td>15.0</td><td>7.0 GB</td><td>2025-05-12</td><td><a href="/hyperos/sheng/stable/OS2.0.103.0.VNXIDXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6S Pro 12.4 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.103.0.VNXIDXM</td><td>15.0</td><td>5.9 GB</td><td>2025-04-30</td><td><a href="/hyperos/sheng/stable/OS2.0.103.0.VNXIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6S Pro 12.4 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.104.0.VNXIDXM</td><td>15.0</td><td>5.9 GB</td><td>2025-05-26</td><td><a href="/hyperos/sheng/stable/OS2.0.104.0.VNXIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6S Pro 12.4 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.103.0.VNXRUXM</td><td>15.0</td><td>7.7 GB</td><td>2025-05-12</td><td><a href="/hyperos/sheng/stable/OS2.0.103.0.VNXRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6S Pro 12.4 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.103.0.VNXRUXM</td><td>15.0</td><td>5.9 GB</td><td>2025-04-30</td><td><a href="/hyperos/sheng/stable/OS2.0.103.0.VNXRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6S Pro 12.4 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.104.0.VNXRUXM</td><td>15.0</td><td>5.9 GB</td><td>2025-05-26</td><td><a href="/hyperos/sheng/stable/OS2.0.104.0.VNXRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
