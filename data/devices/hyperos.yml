@@ -5182,6 +5182,12 @@
   download: https://bigota.d.miui.com/OS1.0.13.0.UNQEUXM/fw_gold_miui_GOLDEEAGlobal_OS1.0.13.0.UNQEUXM_02114c0d29_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: OS1.0.13.0.UNQEUXM
+- android: '15.0'
+  codename: gold
+  date: '2025-06-05'
+  download: https://bigota.d.miui.com/OS2.0.8.0.VNQINXM/fw_gold_in_global_gold_in_global-ota_full-OS2.0.8.0.VNQINXM-user-15.0-91dd9498da.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS2.0.8.0.VNQINXM
 - android: '14.0'
   codename: gold
   date: '2024-05-05'
@@ -11658,6 +11664,12 @@
   version: OS1.0.4.0.UMOMIXM
 - android: '14.0'
   codename: ruby
+  date: '2025-06-05'
+  download: https://bigota.d.miui.com/OS2.0.1.0.UMOINXM/fw_ruby_in_global_ruby_in_global-ota_full-OS2.0.1.0.UMOINXM-user-14.0-73b422685e.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS2.0.1.0.UMOINXM
+- android: '14.0'
+  codename: ruby
   date: '2025-02-05'
   download: https://bigota.d.miui.com/OS1.0.10.0.UMOINXM/fw_ruby_miui_RUBYINGlobal_OS1.0.10.0.UMOINXM_77403cd10e_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
@@ -15414,6 +15426,12 @@
   version: OS2.0.117.0.VOACNXM
 - android: '15.0'
   codename: xuanyuan
+  date: '2025-06-05'
+  download: https://bigota.d.miui.com/OS2.0.105.0.VOAEUXM/fw_xuanyuan_eea_global_xuanyuan_eea_global-ota_full-OS2.0.105.0.VOAEUXM-user-15.0-1e99e38d65.zip
+  name: Xiaomi 15 Ultra
+  version: OS2.0.105.0.VOAEUXM
+- android: '15.0'
+  codename: xuanyuan
   date: '2025-05-05'
   download: https://bigota.d.miui.com/OS2.0.104.0.VOAEUXM/fw_xuanyuan_eea_global_xuanyuan_eea_global-ota_full-OS2.0.104.0.VOAEUXM-user-15.0-6c579a041e.zip
   name: Xiaomi 15 Ultra
@@ -16498,6 +16516,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UNOCNXM/fw_zircon_miui_ZIRCON_OS1.0.5.0.UNOCNXM_0211284d9f_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.5.0.UNOCNXM
+- android: '15.0'
+  codename: zircon
+  date: '2025-06-05'
+  download: https://bigota.d.miui.com/OS2.0.9.0.VNOMIXM/fw_zircon_global_zircon_global-ota_full-OS2.0.9.0.VNOMIXM-user-15.0-6fefbc79d2.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS2.0.9.0.VNOMIXM
 - android: '14.0'
   codename: zircon
   date: '2024-03-05'

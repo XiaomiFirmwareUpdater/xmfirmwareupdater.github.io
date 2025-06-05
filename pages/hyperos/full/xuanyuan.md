@@ -52,7 +52,9 @@ permalink: /archive/hyperos/xuanyuan/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 15 Ultra Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.104.0.VOARUXM</td><td>15.0</td><td>8.3 GB</td><td>2025-05-23</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.104.0.VOARUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 15 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.105.0.VOAEUXM</td><td>15.0</td><td>8.5 GB</td><td>2025-05-26</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.105.0.VOAEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.105.0.VOAEUXM</td><td>15.0</td><td>10.4 GB</td><td>2025-05-14</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.105.0.VOAEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Ultra Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.104.0.VOARUXM</td><td>15.0</td><td>8.3 GB</td><td>2025-05-23</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.104.0.VOARUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Ultra Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.104.0.VOARUXM</td><td>15.0</td><td>10.6 GB</td><td>2025-05-21</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.104.0.VOARUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Ultra Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.103.0.VOAIDXM</td><td>15.0</td><td>8.4 GB</td><td>2025-05-21</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.103.0.VOAIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Ultra Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.103.0.VOAIDXM</td><td>15.0</td><td>10.0 GB</td><td>2025-05-12</td><td><a href="/hyperos/xuanyuan/stable/OS2.0.103.0.VOAIDXM/">Download</a></td></tr>

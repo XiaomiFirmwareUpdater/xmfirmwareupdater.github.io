@@ -52,7 +52,11 @@ permalink: /archive/miui/serenity/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi A5 / POCO C71 Global</td><td>Stable</td><td>Recovery</td><td>A15.0.7.0.VGWMIXM</td><td>15.0</td><td>2.9 GB</td><td>2025-05-30</td><td><a href="/miui/serenity/stable/A15.0.7.0.VGWMIXM/">Download</a></td></tr>
+                <tr><td>Redmi A5 / POCO C71 Indonesia</td><td>Stable</td><td>Recovery</td><td>A15.0.4.0.VGWIDXM</td><td>15.0</td><td>3.0 GB</td><td>2025-06-05</td><td><a href="/miui/serenity/stable/A15.0.4.0.VGWIDXM/">Download</a></td></tr>
+<tr><td>Redmi A5 / POCO C71 Indonesia</td><td>Stable</td><td>Fastboot</td><td>A15.0.4.0.VGWIDXM</td><td>15.0</td><td>3.8 GB</td><td>2025-05-27</td><td><a href="/miui/serenity/stable/A15.0.4.0.VGWIDXM/">Download</a></td></tr>
+<tr><td>Redmi A5 / POCO C71 Russia</td><td>Stable</td><td>Recovery</td><td>A15.0.5.0.VGWRUXM</td><td>15.0</td><td>2.9 GB</td><td>2025-06-05</td><td><a href="/miui/serenity/stable/A15.0.5.0.VGWRUXM/">Download</a></td></tr>
+<tr><td>Redmi A5 / POCO C71 Russia</td><td>Stable</td><td>Fastboot</td><td>A15.0.5.0.VGWRUXM</td><td>15.0</td><td>3.5 GB</td><td>2025-05-27</td><td><a href="/miui/serenity/stable/A15.0.5.0.VGWRUXM/">Download</a></td></tr>
+<tr><td>Redmi A5 / POCO C71 Global</td><td>Stable</td><td>Recovery</td><td>A15.0.7.0.VGWMIXM</td><td>15.0</td><td>2.9 GB</td><td>2025-05-30</td><td><a href="/miui/serenity/stable/A15.0.7.0.VGWMIXM/">Download</a></td></tr>
 <tr><td>Redmi A5 / POCO C71 Global</td><td>Stable</td><td>Fastboot</td><td>A15.0.7.0.VGWMIXM</td><td>15.0</td><td>4.4 GB</td><td>2025-05-22</td><td><a href="/miui/serenity/stable/A15.0.7.0.VGWMIXM/">Download</a></td></tr>
 <tr><td>Redmi A5 / POCO C71 EEA</td><td>Stable</td><td>Recovery</td><td>A15.0.6.0.VGWEUXM</td><td>15.0</td><td>3.0 GB</td><td>2025-05-30</td><td><a href="/miui/serenity/stable/A15.0.6.0.VGWEUXM/">Download</a></td></tr>
 <tr><td>Redmi A5 / POCO C71 EEA</td><td>Stable</td><td>Fastboot</td><td>A15.0.6.0.VGWEUXM</td><td>15.0</td><td>3.9 GB</td><td>2025-05-22</td><td><a href="/miui/serenity/stable/A15.0.6.0.VGWEUXM/">Download</a></td></tr>

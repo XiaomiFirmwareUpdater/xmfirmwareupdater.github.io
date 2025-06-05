@@ -509,6 +509,16 @@
     android: '14.0'
     miui: OS1.0.5.0.UNOCNXM
 - branch: stable
+  date: '2025-06-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-05.06.2025/fw_zircon_global_zircon_global-ota_full-OS2.0.9.0.VNOMIXM-user-15.0-6fefbc79d2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zircon/fw_zircon_global_zircon_global-ota_full-OS2.0.9.0.VNOMIXM-user-15.0-6fefbc79d2.zip
+  filename: fw_zircon_global_zircon_global-ota_full-OS2.0.9.0.VNOMIXM-user-15.0-6fefbc79d2.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.9.0.VNOMIXM
+- branch: stable
   date: '2024-03-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-05.03.2024/fw_zircon_miui_ZIRCONINGlobal_OS1.0.3.0.UNOINXM_52a1f3fb64_14.0.zip

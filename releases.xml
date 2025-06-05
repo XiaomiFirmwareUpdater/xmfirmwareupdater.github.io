@@ -4,8 +4,28 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 05 Jun 2025 12:38:25 </lastBuildDate>
+        <lastBuildDate>Thu, 05 Jun 2025 20:10:51 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS2.0.8.0.VNQINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/gold/</link>
+            <pubDate>Thu, 05 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.1.0.UMOINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Thu, 05 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.105.0.VOAEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
+            <pubDate>Thu, 05 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.9.0.VNOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
+            <pubDate>Thu, 05 Jun 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi MIX Fold 2 (zizhan) - OS2.0.11.0.VLRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zizhan/</link>
@@ -807,11 +827,6 @@
             <pubDate>Thu, 08 May 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS2.0.7.0.VNQINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/gold/</link>
-            <pubDate>Wed, 07 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 15 Pro (haotian) - OS2.0.117.0.VOBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/haotian/</link>
             <pubDate>Wed, 07 May 2025 00:00:00 </pubDate>
@@ -925,11 +940,6 @@
             <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS2.0.6.0.VLLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Tue, 06 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.104.0.VOAEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
-            <pubDate>Mon, 05 May 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS2.0.110.0.VOMCNXM</title>
@@ -1057,11 +1067,6 @@
             <pubDate>Sun, 27 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS1.0.13.0.UMOINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Sun, 27 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 7 (uke) - OS2.0.105.0.VOZMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/uke/</link>
             <pubDate>Sun, 27 Apr 2025 00:00:00 </pubDate>
@@ -1164,11 +1169,6 @@
         <item>
             <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.120.0.VOACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
-            <pubDate>Mon, 21 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.8.0.VNOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Mon, 21 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
