@@ -105,7 +105,7 @@ permalink: /hyperos/nuwa/stable/OS1.0.9.0.UMBEUXM/
                     <h5><b>Size: </b>6.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>None</h5>
+                    <h5><b>Release Date: </b>2024-09-03</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Package Name: </b><span id="filename" class="text-dark">nuwa_eea_global_images_OS1.0.9.0.UMBEUXM_20240903.0000.00_14.0_eea_0fffac265b.tgz</span></h5>

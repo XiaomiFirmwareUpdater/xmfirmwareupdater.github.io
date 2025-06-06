@@ -126,8 +126,8 @@ permalink: /archive/hyperos/rodin/
 <tr><td>POCO X7 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.10.0.VOJEUXM</td><td>15.0</td><td>8.6 GB</td><td>2025-01-09</td><td><a href="/hyperos/rodin/stable/OS2.0.10.0.VOJEUXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 4 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.VOJCNXM</td><td>15.0</td><td>7.1 GB</td><td>2025-01-02</td><td><a href="/hyperos/rodin/stable/OS2.0.5.0.VOJCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 4 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.5.0.VOJCNXM</td><td>15.0</td><td>9.2 GB</td><td>2024-12-26</td><td><a href="/hyperos/rodin/stable/OS2.0.5.0.VOJCNXM/">Download</a></td></tr>
-<tr><td>Redmi Turbo 4 China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.2.0.VOJCNXM</td><td>15.0</td><td>7.1 GB</td><td>None</td><td><a href="/hyperos/rodin/stable beta/OS2.0.2.0.VOJCNXM/">Download</a></td></tr>
-<tr><td>Redmi Turbo 4 China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.3.0.VOJCNXM</td><td>15.0</td><td>7.1 GB</td><td>None</td><td><a href="/hyperos/rodin/stable beta/OS2.0.3.0.VOJCNXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 4 China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.2.0.VOJCNXM</td><td>15.0</td><td>471 Bytes</td><td>None</td><td><a href="/hyperos/rodin/stable beta/OS2.0.2.0.VOJCNXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 4 China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.3.0.VOJCNXM</td><td>15.0</td><td>471 Bytes</td><td>None</td><td><a href="/hyperos/rodin/stable beta/OS2.0.3.0.VOJCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

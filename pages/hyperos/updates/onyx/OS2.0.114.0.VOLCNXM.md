@@ -105,7 +105,7 @@ permalink: /hyperos/onyx/stable/OS2.0.114.0.VOLCNXM/
                     <h5><b>Size: </b>487 Bytes</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>None</h5>
+                    <h5><b>Release Date: </b>2025-04-19</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Package Name: </b><span id="filename" class="text-dark">onyx_images_OS2.0.114.0.VOLCNXM_20250419.0000.00_15.0_cn_a71f1bc559.tgz</span></h5>

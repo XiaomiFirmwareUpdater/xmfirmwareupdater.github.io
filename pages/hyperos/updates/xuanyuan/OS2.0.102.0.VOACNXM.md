@@ -105,7 +105,7 @@ permalink: /hyperos/xuanyuan/stable/OS2.0.102.0.VOACNXM/
                     <h5><b>Size: </b>11.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>None</h5>
+                    <h5><b>Release Date: </b>2025-02-19</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Package Name: </b><span id="filename" class="text-dark">xuanyuan_images_OS2.0.102.0.VOACNXM_20250219.0000.00_15.0_cn_6a1fba4502.tgz</span></h5>

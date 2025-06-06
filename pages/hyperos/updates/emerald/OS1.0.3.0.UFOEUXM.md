@@ -102,7 +102,7 @@ permalink: /hyperos/emerald/stable/OS1.0.3.0.UFOEUXM/
                     <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.6 GB</h5>
+                    <h5><b>Size: </b>474 Bytes</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>None</h5>

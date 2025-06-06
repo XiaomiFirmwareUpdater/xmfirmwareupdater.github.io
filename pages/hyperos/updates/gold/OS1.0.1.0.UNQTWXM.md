@@ -105,7 +105,7 @@ permalink: /hyperos/gold/stable/OS1.0.1.0.UNQTWXM/
                     <h5><b>Size: </b>6.3 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>None</h5>
+                    <h5><b>Release Date: </b>2024-03-11</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Package Name: </b><span id="filename" class="text-dark">gold_tw_global_images_OS1.0.1.0.UNQTWXM_20240311.0000.00_14.0_tw_86efec501e.tgz</span></h5>

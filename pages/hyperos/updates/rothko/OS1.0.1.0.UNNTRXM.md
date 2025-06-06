@@ -105,7 +105,7 @@ permalink: /hyperos/rothko/stable/OS1.0.1.0.UNNTRXM/
                     <h5><b>Size: </b>7.0 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>None</h5>
+                    <h5><b>Release Date: </b>2024-08-01</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Package Name: </b><span id="filename" class="text-dark">rothko_tr_global_images_OS1.0.1.0.UNNTRXM_20240801.0000.00_14.0_tr_27a880f445.tgz</span></h5>

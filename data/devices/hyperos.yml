@@ -6418,6 +6418,18 @@
   download: https://bigota.d.miui.com/OS2.0.110.0.VOXCNXM/fw_jinghu_jinghu-ota_full-OS2.0.110.0.VOXCNXM-user-15.0-b31d1e2501.zip
   name: Xiaomi Pad 7 Ultra
   version: OS2.0.110.0.VOXCNXM
+- android: '15.0'
+  codename: koto
+  date: '2025-06-06'
+  download: https://bigota.d.miui.com/OS2.0.104.0.VOWEUXM/fw_koto_eea_global_koto_eea_global-ota_full-OS2.0.104.0.VOWEUXM-user-15.0-0928066d70.zip
+  name: Redmi Pad 2 4G
+  version: OS2.0.104.0.VOWEUXM
+- android: '15.0'
+  codename: koto
+  date: '2025-06-06'
+  download: https://bigota.d.miui.com/OS2.0.100.0.VOWMIXM/fw_koto_global_koto_global-ota_full-OS2.0.100.0.VOWMIXM-user-15.0-2735a3a69e.zip
+  name: Redmi Pad 2 4G
+  version: OS2.0.100.0.VOWMIXM
 - android: '14.0'
   codename: lake
   date: '2025-03-31'

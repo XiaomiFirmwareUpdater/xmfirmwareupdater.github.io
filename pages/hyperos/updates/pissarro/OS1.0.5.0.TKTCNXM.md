@@ -105,7 +105,7 @@ permalink: /hyperos/pissarro/stable/OS1.0.5.0.TKTCNXM/
                     <h5><b>Size: </b>6.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>None</h5>
+                    <h5><b>Release Date: </b>2024-08-28</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Package Name: </b><span id="filename" class="text-dark">pissarro_images_OS1.0.5.0.TKTCNXM_20240828.0000.00_13.0_cn_99b47746a1.tgz</span></h5>

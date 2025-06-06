@@ -59,7 +59,7 @@ permalink: /hyperos/onyx/stable beta/OS2.0.110.0.VOLCNXM/
                     <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.8 GB</h5>
+                    <h5><b>Size: </b>474 Bytes</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>None</h5>

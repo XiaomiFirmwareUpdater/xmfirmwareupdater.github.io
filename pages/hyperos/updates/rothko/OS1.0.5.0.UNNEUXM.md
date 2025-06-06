@@ -62,7 +62,7 @@ permalink: /hyperos/rothko/stable beta/OS1.0.5.0.UNNEUXM/
                     <h5><b>Size: </b>5.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>None</h5>
+                    <h5><b>Release Date: </b>2024-09-26</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_ROTHKOEEAGlobal_OS1.0.5.0.UNNEUXM_a69b53a3df_14.0.zip</span></h5>
