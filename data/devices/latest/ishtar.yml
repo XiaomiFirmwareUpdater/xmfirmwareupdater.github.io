@@ -19,12 +19,12 @@
     android: '15.0'
     miui: OS2.0.109.0.VMACNXM
 - branch: stable
-  date: '2025-04-21'
+  date: '2025-06-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-21.04.2025/fw_ishtar_eea_global_ishtar_eea_global-ota_full-OS2.0.101.0.VMAEUXM-user-15.0-be444dfec6.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ishtar/fw_ishtar_eea_global_ishtar_eea_global-ota_full-OS2.0.101.0.VMAEUXM-user-15.0-be444dfec6.zip
-  filename: fw_ishtar_eea_global_ishtar_eea_global-ota_full-OS2.0.101.0.VMAEUXM-user-15.0-be444dfec6.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-06.06.2025/fw_ishtar_eea_global_ishtar_eea_global-ota_full-OS2.0.102.0.VMAEUXM-user-15.0-1befd4df12.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ishtar/fw_ishtar_eea_global_ishtar_eea_global-ota_full-OS2.0.102.0.VMAEUXM-user-15.0-1befd4df12.zip
+  filename: fw_ishtar_eea_global_ishtar_eea_global-ota_full-OS2.0.102.0.VMAEUXM-user-15.0-1befd4df12.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.101.0.VMAEUXM
+    miui: OS2.0.102.0.VMAEUXM
