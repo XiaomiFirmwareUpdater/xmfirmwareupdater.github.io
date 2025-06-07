@@ -1259,15 +1259,15 @@
     android: '15.0'
     miui: OS2.0.116.0.VOCCNXM
 - branch: stable
-  date: '2025-05-06'
+  date: '2025-06-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dada/releases/download/stable-06.05.2025/fw_dada_eea_global_dada_eea_global-ota_full-OS2.0.107.0.VOCEUXM-user-15.0-1baa2aed96.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dada/fw_dada_eea_global_dada_eea_global-ota_full-OS2.0.107.0.VOCEUXM-user-15.0-1baa2aed96.zip
-  filename: fw_dada_eea_global_dada_eea_global-ota_full-OS2.0.107.0.VOCEUXM-user-15.0-1baa2aed96.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dada/releases/download/stable-08.06.2025/fw_dada_eea_global_dada_eea_global-ota_full-OS2.0.109.0.VOCEUXM-user-15.0-348b04aeb5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dada/fw_dada_eea_global_dada_eea_global-ota_full-OS2.0.109.0.VOCEUXM-user-15.0-348b04aeb5.zip
+  filename: fw_dada_eea_global_dada_eea_global-ota_full-OS2.0.109.0.VOCEUXM-user-15.0-348b04aeb5.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.107.0.VOCEUXM
+    miui: OS2.0.109.0.VOCEUXM
 - branch: stable
   date: '2025-05-28'
   downloads:
@@ -6609,15 +6609,15 @@
     android: '14.0'
     miui: OS2.0.2.0.ULOINXM
 - branch: stable
-  date: '2025-05-01'
+  date: '2025-06-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xuanyuan/releases/download/stable-02.05.2025/fw_xuanyuan_global_xuanyuan_global-ota_full-OS2.0.105.0.VOAMIXM-user-15.0-037492f449.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xuanyuan/fw_xuanyuan_global_xuanyuan_global-ota_full-OS2.0.105.0.VOAMIXM-user-15.0-037492f449.zip
-  filename: fw_xuanyuan_global_xuanyuan_global-ota_full-OS2.0.105.0.VOAMIXM-user-15.0-037492f449.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xuanyuan/releases/download/stable-08.06.2025/fw_xuanyuan_global_xuanyuan_global-ota_full-OS2.0.106.0.VOAMIXM-user-15.0-a3f3ddc14f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xuanyuan/fw_xuanyuan_global_xuanyuan_global-ota_full-OS2.0.106.0.VOAMIXM-user-15.0-a3f3ddc14f.zip
+  filename: fw_xuanyuan_global_xuanyuan_global-ota_full-OS2.0.106.0.VOAMIXM-user-15.0-a3f3ddc14f.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.105.0.VOAMIXM
+    miui: OS2.0.106.0.VOAMIXM
 - branch: stable
   date: '2025-04-21'
   downloads:
