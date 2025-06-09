@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2025-04-28'
+  date: '2025-06-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-28.04.2025/fw_taoyao_miui_TAOYAOGlobal_OS1.0.17.0.ULIMIXM_e7c6186222_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOGlobal_OS1.0.17.0.ULIMIXM_e7c6186222_14.0.zip
-  filename: fw_taoyao_miui_TAOYAOGlobal_OS1.0.17.0.ULIMIXM_e7c6186222_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-09.06.2025/fw_taoyao_miui_TAOYAOGlobal_OS1.0.18.0.ULIMIXM_5d7d815383_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOGlobal_OS1.0.18.0.ULIMIXM_5d7d815383_14.0.zip
+  filename: fw_taoyao_miui_TAOYAOGlobal_OS1.0.18.0.ULIMIXM_5d7d815383_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.17.0.ULIMIXM
+    miui: OS1.0.18.0.ULIMIXM
 - branch: stable
-  date: '2025-04-29'
+  date: '2025-06-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-29.04.2025/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.24.0.ULIEUXM_0a98b78334_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.24.0.ULIEUXM_0a98b78334_14.0.zip
-  filename: fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.24.0.ULIEUXM_0a98b78334_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-09.06.2025/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.26.0.ULIEUXM_0b89c2ff50_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.26.0.ULIEUXM_0b89c2ff50_14.0.zip
+  filename: fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.26.0.ULIEUXM_0b89c2ff50_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.24.0.ULIEUXM
+    miui: OS1.0.26.0.ULIEUXM

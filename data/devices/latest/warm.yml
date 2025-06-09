@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2025-04-15'
+  date: '2025-06-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warm/releases/download/stable-15.04.2025/fw_warm_in_global_warm_in_global-ota_full-OS2.0.1.0.VGVINXM-user-15.0-6d178f5c6c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/warm/fw_warm_in_global_warm_in_global-ota_full-OS2.0.1.0.VGVINXM-user-15.0-6d178f5c6c.zip
-  filename: fw_warm_in_global_warm_in_global-ota_full-OS2.0.1.0.VGVINXM-user-15.0-6d178f5c6c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warm/releases/download/stable-09.06.2025/fw_warm_in_global_warm_in_global-ota_full-OS2.0.2.0.VGVINXM-user-15.0-e9633e132a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/warm/fw_warm_in_global_warm_in_global-ota_full-OS2.0.2.0.VGVINXM-user-15.0-e9633e132a.zip
+  filename: fw_warm_in_global_warm_in_global-ota_full-OS2.0.2.0.VGVINXM-user-15.0-e9633e132a.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.1.0.VGVINXM
+    miui: OS2.0.2.0.VGVINXM

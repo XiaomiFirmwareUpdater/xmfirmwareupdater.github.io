@@ -2406,6 +2406,12 @@
   version: OS2.0.121.0.VODCNXM
 - android: '15.0'
   codename: dijun
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS2.0.128.0.VODCNXM/fw_dijun_dijun-ota_full-OS2.0.128.0.VODCNXM-user-15.0-f3d2fad6af.zip
+  name: Xiaomi 15S Pro
+  version: OS2.0.128.0.VODCNXM
+- android: '15.0'
+  codename: dijun
   date: '2025-06-03'
   download: https://bigota.d.miui.com/OS2.0.126.0.VODCNXM/fw_dijun_dijun-ota_full-OS2.0.126.0.VODCNXM-user-15.0-d906bf0baf.zip
   name: Xiaomi 15S Pro
@@ -4900,6 +4906,12 @@
   download: https://bigota.d.miui.com/OS2.0.104.0.VNVCNXM/fw_goku_goku-ota_full-OS2.0.104.0.VNVCNXM-user-15.0-2e76c8b5f1.zip
   name: MIX Fold 4
   version: OS2.0.104.0.VNVCNXM
+- android: '15.0'
+  codename: goku
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNVCNXM/fw_goku_goku-ota_full-OS2.0.204.0.VNVCNXM-user-15.0-436aa6d19e.zip
+  name: MIX Fold 4
+  version: OS2.0.204.0.VNVCNXM
 - android: '14.0'
   codename: goku
   date: '2024-11-08'
@@ -10686,6 +10698,12 @@
   version: OS1.0.8.0.UMMCNXM
 - android: '14.0'
   codename: rembrandt
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS2.0.11.0.UMMCNXM/fw_rembrandt_rembrandt-ota_full-OS2.0.11.0.UMMCNXM-user-14.0-e1f3f6f8a9.zip
+  name: Redmi K60E
+  version: OS2.0.11.0.UMMCNXM
+- android: '14.0'
+  codename: rembrandt
   date: '2024-10-08'
   download: https://bigota.d.miui.com/OS1.0.9.0.UMMCNXM/fw_rembrandt_miui_REMBRANDT_OS1.0.9.0.UMMCNXM_cabc27c4ab_14.0.zip
   name: Redmi K60E
@@ -12334,6 +12352,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UHZMIXM/fw_sea_miui_SEAGlobal_OS1.0.3.0.UHZMIXM_d4c318c44e_14.0.zip
   name: Redmi Note 12S
   version: OS1.0.3.0.UHZMIXM
+- android: '15.0'
+  codename: sea
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS2.0.5.0.VHZEUXM/fw_sea_eea_global_sea_eea_global-ota_full-OS2.0.5.0.VHZEUXM-user-15.0-a400942576.zip
+  name: Redmi Note 12S
+  version: OS2.0.5.0.VHZEUXM
 - android: '14.0'
   codename: sea
   date: '2024-05-06'
@@ -13584,6 +13608,12 @@
   version: OS1.0.6.0.UMQINXM
 - android: '14.0'
   codename: sunstone
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS2.0.3.0.UMQEUXM/fw_sunstone_eea_global_sunstone_eea_global-ota_full-OS2.0.3.0.UMQEUXM-user-14.0-2e3a21890e.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: OS2.0.3.0.UMQEUXM
+- android: '14.0'
+  codename: sunstone
   date: '2024-05-07'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMQCNXM/fw_sunstone_miui_SUNSTONE_OS1.0.2.0.UMQCNXM_484735b030_14.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
@@ -13786,6 +13816,18 @@
   download: https://bigota.d.miui.com/OS1.0.13.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.13.0.ULIEUXM_fb1aed7ca3_14.0.zip
   name: Xiaomi 12 Lite
   version: OS1.0.13.0.ULIEUXM
+- android: '14.0'
+  codename: taoyao
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS1.0.26.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.26.0.ULIEUXM_0b89c2ff50_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.26.0.ULIEUXM
+- android: '14.0'
+  codename: taoyao
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS1.0.18.0.ULIMIXM/fw_taoyao_miui_TAOYAOGlobal_OS1.0.18.0.ULIMIXM_5d7d815383_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.18.0.ULIMIXM
 - android: '14.0'
   codename: taoyao
   date: '2024-11-08'
@@ -15036,6 +15078,24 @@
   version: OS1.0.8.0.UKDMIXM
 - android: '14.0'
   codename: vili
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS1.0.17.0.UKDEUXM/fw_vili_miui_VILIEEAGlobal_OS1.0.17.0.UKDEUXM_001d524705_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.17.0.UKDEUXM
+- android: '14.0'
+  codename: vili
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS1.0.14.0.UKDMIXM/fw_vili_miui_VILIGlobal_OS1.0.14.0.UKDMIXM_7328d3271e_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.14.0.UKDMIXM
+- android: '14.0'
+  codename: vili
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UKDINXM/fw_vili_miui_VILIINGlobal_OS1.0.13.0.UKDINXM_cac4248446_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.13.0.UKDINXM
+- android: '14.0'
+  codename: vili
   date: '2024-05-09'
   download: https://bigota.d.miui.com/OS1.0.2.0.UKDMIXM/fw_vili_miui_VILIGlobal_OS1.0.2.0.UKDMIXM_4666382f76_14.0.zip
   name: Xiaomi 11T Pro
@@ -15154,6 +15214,12 @@
   download: https://bigota.d.miui.com/OS2.0.1.0.VGVINXM/fw_warm_in_global_warm_in_global-ota_full-OS2.0.1.0.VGVINXM-user-15.0-6d178f5c6c.zip
   name: Redmi A4 5G/POCO C75 5G
   version: OS2.0.1.0.VGVINXM
+- android: '15.0'
+  codename: warm
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VGVINXM/fw_warm_in_global_warm_in_global-ota_full-OS2.0.2.0.VGVINXM-user-15.0-e9633e132a.zip
+  name: Redmi A4 5G/POCO C75 5G
+  version: OS2.0.2.0.VGVINXM
 - android: '14.0'
   codename: warm
   date: '2025-03-07'
@@ -17056,6 +17122,12 @@
   download: https://bigota.d.miui.com/OS2.0.109.0.VOKCNXM/fw_zorn_zorn-ota_full-OS2.0.109.0.VOKCNXM-user-15.0-d936df248c.zip
   name: Redmi K80/POCO F7 Pro
   version: OS2.0.109.0.VOKCNXM
+- android: '15.0'
+  codename: zorn
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VOKCNXM/fw_zorn_zorn-ota_full-OS2.0.202.0.VOKCNXM-user-15.0-463de5580d.zip
+  name: Redmi K80/POCO F7 Pro
+  version: OS2.0.202.0.VOKCNXM
 - android: '15.0'
   codename: zorn
   date: '2025-03-04'
