@@ -5146,6 +5146,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNQCNXM/fw_gold_miui_GOLD_OS1.0.4.0.UNQCNXM_9d3fc3f1f5_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: OS1.0.4.0.UNQCNXM
+- android: '15.0'
+  codename: gold
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS2.0.10.0.VNQCNXM/fw_gold_gold-ota_full-OS2.0.10.0.VNQCNXM-user-15.0-5a27b6a4d1.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS2.0.10.0.VNQCNXM
 - android: '14.0'
   codename: gold
   date: '2024-08-08'
@@ -6492,6 +6498,12 @@
   version: OS1.0.7.0.UGTEUXM
 - android: '14.0'
   codename: lake
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UGTEUXM/fw_lake_miui_LAKEEEAGlobal_OS1.0.9.0.UGTEUXM_e2c155ba02_14.0.zip
+  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  version: OS1.0.9.0.UGTEUXM
+- android: '14.0'
+  codename: lake
   date: '2024-10-08'
   download: https://bigota.d.miui.com/OS1.0.4.0.UGTEUXM/fw_lake_miui_LAKEEEAGlobal_OS1.0.4.0.UGTEUXM_3000f18ca6_14.0.zip
   name: Redmi 14C/POCO C75/Redmi A3 Pro
@@ -7794,6 +7806,12 @@
   version: OS2.0.105.0.VOMCNXM
 - android: '15.0'
   codename: miro
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.201.0.VOMCNXM-user-15.0-6a22ad7d2a.zip
+  name: Redmi K80 Pro/POCO F7 Ultra
+  version: OS2.0.201.0.VOMCNXM
+- android: '15.0'
+  codename: miro
   date: '2024-12-06'
   download: https://bigota.d.miui.com/OS2.0.11.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.11.0.VOMCNXM-user-15.0-53cc500554.zip
   name: Redmi K80 Pro/POCO F7 Ultra
@@ -8658,6 +8676,18 @@
   version: OS2.0.7.0.VOYCNXM
 - android: '15.0'
   codename: muyu
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS2.0.107.0.VOYEUXM/fw_muyu_eea_global_muyu_eea_global-ota_full-OS2.0.107.0.VOYEUXM-user-15.0-9ab203ee01.zip
+  name: Xiaomi Pad 7 Pro
+  version: OS2.0.107.0.VOYEUXM
+- android: '15.0'
+  codename: muyu
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS2.0.105.0.VOYMIXM/fw_muyu_global_muyu_global-ota_full-OS2.0.105.0.VOYMIXM-user-15.0-627e0f6270.zip
+  name: Xiaomi Pad 7 Pro
+  version: OS2.0.105.0.VOYMIXM
+- android: '15.0'
+  codename: muyu
   date: '2024-11-05'
   download: https://bigota.d.miui.com/OS2.0.6.0.VOYCNXM/fw_muyu_muyu-ota_full-OS2.0.6.0.VOYCNXM-user-15.0-de700ef3c0.zip
   name: Xiaomi Pad 7 Pro
@@ -9010,6 +9040,24 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VMBEUXM/fw_nuwa_eea_global_nuwa_eea_global-ota_full-OS2.0.2.0.VMBEUXM-user-15.0-11fea07fbb.zip
   name: Xiaomi 13 Pro
   version: OS2.0.2.0.VMBEUXM
+- android: '15.0'
+  codename: nuwa
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS2.0.107.0.VMBEUXM/fw_nuwa_eea_global_nuwa_eea_global-ota_full-OS2.0.107.0.VMBEUXM-user-15.0-0855381b16.zip
+  name: Xiaomi 13 Pro
+  version: OS2.0.107.0.VMBEUXM
+- android: '15.0'
+  codename: nuwa
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS2.0.104.0.VMBMIXM/fw_nuwa_global_nuwa_global-ota_full-OS2.0.104.0.VMBMIXM-user-15.0-d6039362e9.zip
+  name: Xiaomi 13 Pro
+  version: OS2.0.104.0.VMBMIXM
+- android: '15.0'
+  codename: nuwa
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS2.0.104.0.VMBINXM/fw_nuwa_in_global_nuwa_in_global-ota_full-OS2.0.104.0.VMBINXM-user-15.0-3f88130dc9.zip
+  name: Xiaomi 13 Pro
+  version: OS2.0.104.0.VMBINXM
 - android: '14.0'
   codename: nuwa
   date: '2024-11-07'
@@ -11250,6 +11298,12 @@
   version: OS1.0.3.0.UFSCNXM
 - android: '14.0'
   codename: ruan
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UFSCNXM/fw_ruan_miui_RUAN_OS1.0.11.0.UFSCNXM_f8537b2afb_14.0.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS1.0.11.0.UFSCNXM
+- android: '14.0'
+  codename: ruan
   date: '2024-12-08'
   download: https://bigota.d.miui.com/OS1.0.8.0.UFSMIXM/fw_ruan_miui_RUANGlobal_OS1.0.8.0.UFSMIXM_4f7061db22_14.0.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
@@ -11884,6 +11938,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UNIMIXM/fw_ruyi_miui_RUYIGlobal_OS1.0.9.0.UNIMIXM_9388d18249_14.0.zip
   name: MIX Flip
   version: OS1.0.9.0.UNIMIXM
+- android: '15.0'
+  codename: ruyi
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VNICNXM/fw_ruyi_ruyi-ota_full-OS2.0.206.0.VNICNXM-user-15.0-96b832f706.zip
+  name: MIX Flip
+  version: OS2.0.206.0.VNICNXM
 - android: '15.0'
   codename: ruyi
   date: '2025-03-05'

@@ -52,7 +52,9 @@ permalink: /archive/hyperos/zircon/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 13 Pro+ 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.9.0.VNOMIXM</td><td>15.0</td><td>6.1 GB</td><td>2025-05-23</td><td><a href="/hyperos/zircon/stable/OS2.0.9.0.VNOMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 13 Pro+ 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.6.0.VNORUXM</td><td>15.0</td><td>6.0 GB</td><td>2025-05-28</td><td><a href="/hyperos/zircon/stable/OS2.0.6.0.VNORUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro+ 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.6.0.VNORUXM</td><td>15.0</td><td>9.4 GB</td><td>2025-05-08</td><td><a href="/hyperos/zircon/stable/OS2.0.6.0.VNORUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro+ 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.9.0.VNOMIXM</td><td>15.0</td><td>6.1 GB</td><td>2025-05-23</td><td><a href="/hyperos/zircon/stable/OS2.0.9.0.VNOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro+ 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.9.0.VNOMIXM</td><td>15.0</td><td>9.4 GB</td><td>2025-05-08</td><td><a href="/hyperos/zircon/stable/OS2.0.9.0.VNOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro+ 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.VNOIDXM</td><td>15.0</td><td>6.0 GB</td><td>2025-05-21</td><td><a href="/hyperos/zircon/stable/OS2.0.5.0.VNOIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro+ 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.5.0.VNOIDXM</td><td>15.0</td><td>8.6 GB</td><td>2025-05-08</td><td><a href="/hyperos/zircon/stable/OS2.0.5.0.VNOIDXM/">Download</a></td></tr>
