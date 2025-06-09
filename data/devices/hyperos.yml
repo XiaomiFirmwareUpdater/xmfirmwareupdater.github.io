@@ -4776,6 +4776,12 @@
   version: OS1.0.3.0.UNRINXM
 - android: '15.0'
   codename: garnet
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS2.0.8.0.VNRINXM/fw_garnet_in_global_garnet_in_global-ota_full-OS2.0.8.0.VNRINXM-user-15.0-6e40224e64.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS2.0.8.0.VNRINXM
+- android: '15.0'
+  codename: garnet
   date: '2025-05-09'
   download: https://bigota.d.miui.com/OS2.0.7.0.VNRCNXM/fw_garnet_garnet-ota_full-OS2.0.7.0.VNRCNXM-user-15.0-d51010abce.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
@@ -8700,6 +8706,12 @@
   version: OS2.0.105.0.VOYMIXM
 - android: '15.0'
   codename: muyu
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VOYCNXM/fw_muyu_muyu-ota_full-OS2.0.202.0.VOYCNXM-user-15.0-28354b5641.zip
+  name: Xiaomi Pad 7 Pro
+  version: OS2.0.202.0.VOYCNXM
+- android: '15.0'
+  codename: muyu
   date: '2024-11-05'
   download: https://bigota.d.miui.com/OS2.0.6.0.VOYCNXM/fw_muyu_muyu-ota_full-OS2.0.6.0.VOYCNXM-user-15.0-de700ef3c0.zip
   name: Xiaomi Pad 7 Pro
@@ -9592,6 +9604,12 @@
   download: https://bigota.d.miui.com/OS2.0.100.0.VNPMIXM/fw_peridot_global_peridot_global-ota_full-OS2.0.100.0.VNPMIXM-user-15.0-1ac00aa063.zip
   name: Redmi Turbo 3/POCO F6
   version: OS2.0.100.0.VNPMIXM
+- android: '15.0'
+  codename: peridot
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS2.0.104.0.VNPINXM/fw_peridot_in_global_peridot_in_global-ota_full-OS2.0.104.0.VNPINXM-user-15.0-df47191526.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS2.0.104.0.VNPINXM
 - android: '14.0'
   codename: peridot
   date: '2024-10-08'
@@ -12744,6 +12762,12 @@
   version: OS1.0.16.0.UNBCNXM
 - android: '15.0'
   codename: shennong
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VNBCNXM/fw_shennong_shennong-ota_full-OS2.0.206.0.VNBCNXM-user-15.0-84518f8d63.zip
+  name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
+  version: OS2.0.206.0.VNBCNXM
+- android: '15.0'
+  codename: shennong
   date: '2025-01-06'
   download: https://bigota.d.miui.com/OS2.0.101.0.VNBCNXM/fw_shennong_shennong-ota_full-OS2.0.101.0.VNBCNXM-user-15.0-cd58edf925.zip
   name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
@@ -14256,6 +14280,12 @@
   version: OS2.0.9.0.VOZINXM
 - android: '15.0'
   codename: uke
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VOZCNXM/fw_uke_uke-ota_full-OS2.0.202.0.VOZCNXM-user-15.0-92b8c5ed49.zip
+  name: Xiaomi Pad 7
+  version: OS2.0.202.0.VOZCNXM
+- android: '15.0'
+  codename: uke
   date: '2025-05-07'
   download: https://bigota.d.miui.com/OS2.0.106.0.VOZCNXM/fw_uke_uke-ota_full-OS2.0.106.0.VOZCNXM-user-15.0-7faa631b48.zip
   name: Xiaomi Pad 7
@@ -15568,6 +15598,12 @@
   download: https://bigota.d.miui.com/OS2.0.107.0.VOACNXM/fw_xuanyuan_xuanyuan-ota_full-OS2.0.107.0.VOACNXM-user-15.0-907083f7b6.zip
   name: Xiaomi 15 Ultra
   version: OS2.0.107.0.VOACNXM
+- android: '15.0'
+  codename: xuanyuan
+  date: '2025-06-09'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VOACNXM/fw_xuanyuan_xuanyuan-ota_full-OS2.0.205.0.VOACNXM-user-15.0-2552a0e474.zip
+  name: Xiaomi 15 Ultra
+  version: OS2.0.205.0.VOACNXM
 - android: '15.0'
   codename: xuanyuan
   date: '2025-06-07'

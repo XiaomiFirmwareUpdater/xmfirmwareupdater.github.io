@@ -359,6 +359,16 @@
     android: '15.0'
     miui: OS2.0.100.0.VNPMIXM
 - branch: stable
+  date: '2025-06-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-09.06.2025/fw_peridot_in_global_peridot_in_global-ota_full-OS2.0.104.0.VNPINXM-user-15.0-df47191526.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/peridot/fw_peridot_in_global_peridot_in_global-ota_full-OS2.0.104.0.VNPINXM-user-15.0-df47191526.zip
+  filename: fw_peridot_in_global_peridot_in_global-ota_full-OS2.0.104.0.VNPINXM-user-15.0-df47191526.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.104.0.VNPINXM
+- branch: stable
   date: '2024-10-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-08.10.2024/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.5.0.UNPEUXM_5fcb82d608_14.0.zip
