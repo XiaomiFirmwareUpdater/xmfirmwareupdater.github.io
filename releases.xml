@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 10 Jun 2025 13:27:11 </lastBuildDate>
+        <lastBuildDate>Tue, 10 Jun 2025 19:30:51 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS2.0.207.0.VNACNXM</title>
@@ -14,6 +14,11 @@
         <item>
             <title>Xiaomi 14 (houji) - OS2.0.207.0.VNCCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Tue, 10 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 4 Pro (onyx) - OS2.0.206.0.VOLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
             <pubDate>Tue, 10 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -564,11 +569,6 @@
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS2.0.6.0.VMNEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
-            <pubDate>Mon, 26 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 4 Pro (onyx) - OS2.0.130.0.VOLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
             <pubDate>Mon, 26 May 2025 00:00:00 </pubDate>
         </item>
         <item>
