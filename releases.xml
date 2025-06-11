@@ -4,8 +4,28 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 11 Jun 2025 01:29:09 </lastBuildDate>
+        <lastBuildDate>Wed, 11 Jun 2025 07:40:39 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>POCO M6 Pro (emeraldr) - OS1.0.8.0.UFOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/emeraldr/</link>
+            <pubDate>Wed, 11 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS2.0.7.0.VNQMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/gold/</link>
+            <pubDate>Wed, 11 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 14C/POCO C75/Redmi A3 Pro (lake) - OS2.0.3.0.VGTMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lake/</link>
+            <pubDate>Wed, 11 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS2.0.204.0.VNXCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
+            <pubDate>Wed, 11 Jun 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS2.0.207.0.VNACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
@@ -357,11 +377,6 @@
             <pubDate>Sat, 31 May 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.6.0.VNFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
-            <pubDate>Fri, 30 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.3.0.VNFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
             <pubDate>Fri, 30 May 2025 00:00:00 </pubDate>
@@ -479,11 +494,6 @@
         <item>
             <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.105.0.VNNMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
-            <pubDate>Wed, 28 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS2.0.114.0.VNXCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
             <pubDate>Wed, 28 May 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -847,18 +857,8 @@
             <pubDate>Mon, 12 May 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS2.0.6.0.VNQMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/gold/</link>
-            <pubDate>Mon, 12 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K50G/POCO F4 GT (ingres) - OS2.0.5.0.ULJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ingres/</link>
-            <pubDate>Mon, 12 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 14C/POCO C75/Redmi A3 Pro (lake) - OS2.0.1.0.VGTMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lake/</link>
             <pubDate>Mon, 12 May 2025 00:00:00 </pubDate>
         </item>
         <item>

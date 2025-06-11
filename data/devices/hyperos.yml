@@ -3617,6 +3617,12 @@
   name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.1.0.UNFMIXM
 - android: '14.0'
+  codename: emeraldr
+  date: '2025-06-11'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UFOMIXM/fw_emeraldr_miui_EMERALDRGlobal_OS1.0.8.0.UFOMIXM_e1ac0653cc_14.0.zip
+  name: POCO M6 Pro
+  version: OS1.0.8.0.UFOMIXM
+- android: '14.0'
   codename: emerald
   date: '2024-12-09'
   download: https://bigota.d.miui.com/OS1.0.7.0.UNFEUXM/fw_emerald_miui_EMERALDEEAGlobal_OS1.0.7.0.UNFEUXM_ebc53bb5c8_14.0.zip
@@ -5134,6 +5140,12 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VNQMIXM/fw_gold_global_gold_global-ota_full-OS2.0.2.0.VNQMIXM-user-15.0-bd6fa587c4.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: OS2.0.2.0.VNQMIXM
+- android: '15.0'
+  codename: gold
+  date: '2025-06-11'
+  download: https://bigota.d.miui.com/OS2.0.7.0.VNQMIXM/fw_gold_global_gold_global-ota_full-OS2.0.7.0.VNQMIXM-user-15.0-8c35297662.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS2.0.7.0.VNQMIXM
 - android: '14.0'
   codename: gold
   date: '2024-10-10'
@@ -6532,6 +6544,12 @@
   download: https://bigota.d.miui.com/OS2.0.1.0.VGTMIXM/fw_lake_global_lake_global-ota_full-OS2.0.1.0.VGTMIXM-user-15.0-0b7da9e179.zip
   name: Redmi 14C/POCO C75/Redmi A3 Pro
   version: OS2.0.1.0.VGTMIXM
+- android: '15.0'
+  codename: lake
+  date: '2025-06-11'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VGTMIXM/fw_lake_global_lake_global-ota_full-OS2.0.3.0.VGTMIXM-user-15.0-b69c2238cb.zip
+  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  version: OS2.0.3.0.VGTMIXM
 - android: '14.0'
   codename: lake
   date: '2025-02-10'
@@ -12580,6 +12598,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UNXCNXM/fw_sheng_miui_SHENG_OS1.0.5.0.UNXCNXM_c360e030b8_14.0.zip
   name: Xiaomi Pad 6S Pro 12.4
   version: OS1.0.5.0.UNXCNXM
+- android: '15.0'
+  codename: sheng
+  date: '2025-06-11'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNXCNXM/fw_sheng_sheng-ota_full-OS2.0.204.0.VNXCNXM-user-15.0-e535f2e9a1.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS2.0.204.0.VNXCNXM
 - android: '14.0'
   codename: sheng
   date: '2024-09-09'
