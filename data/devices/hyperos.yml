@@ -490,6 +490,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UOPINXM/fw_amethyst_miui_AMETHYSTINGlobal_OS1.0.8.0.UOPINXM_1a2fd5d521_14.0.zip
   name: Redmi Note 14 Pro+ 5G
   version: OS1.0.8.0.UOPINXM
+- android: '15.0'
+  codename: amethyst
+  date: '2025-06-11'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VOPCNXM/fw_amethyst_amethyst-ota_full-OS2.0.203.0.VOPCNXM-user-15.0-3afb150a3b.zip
+  name: Redmi Note 14 Pro+ 5G
+  version: OS2.0.203.0.VOPCNXM
 - android: '14.0'
   codename: amethyst
   date: '2025-04-11'
@@ -1222,6 +1228,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UOQMIXM/fw_beryl_miui_BERYLGlobal_OS1.0.6.0.UOQMIXM_39746e92ff_14.0.zip
   name: Redmi Note 14 5G/POCO M7 Pro 5G
   version: OS1.0.6.0.UOQMIXM
+- android: '15.0'
+  codename: beryl
+  date: '2025-06-11'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VOQCNXM/fw_beryl_beryl-ota_full-OS2.0.206.0.VOQCNXM-user-15.0-087435d404.zip
+  name: Redmi Note 14 5G/POCO M7 Pro 5G
+  version: OS2.0.206.0.VOQCNXM
 - android: '14.0'
   codename: beryl
   date: '2025-03-11'
@@ -2866,6 +2878,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UNSEUXM/fw_dizi_miui_DIZIEEAGlobal_OS1.0.10.0.UNSEUXM_ddefbb12c2_14.0.zip
   name: Redmi Pad Pro/POCO Pad
   version: OS1.0.10.0.UNSEUXM
+- android: '14.0'
+  codename: dizi
+  date: '2025-06-11'
+  download: https://bigota.d.miui.com/OS1.0.20.0.UNSCNXM/fw_dizi_miui_DIZI_OS1.0.20.0.UNSCNXM_1a84671370_14.0.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS1.0.20.0.UNSCNXM
 - android: '14.0'
   codename: dizi
   date: '2024-06-11'
