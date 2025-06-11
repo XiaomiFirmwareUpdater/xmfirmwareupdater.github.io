@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 11 Jun 2025 13:23:59 </lastBuildDate>
+        <lastBuildDate>Wed, 11 Jun 2025 19:40:31 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS2.0.203.0.VOPCNXM</title>
@@ -22,8 +22,18 @@
             <pubDate>Wed, 11 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.204.0.VNLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Wed, 11 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>POCO M6 Pro (emeraldr) - OS1.0.8.0.UFOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/emeraldr/</link>
+            <pubDate>Wed, 11 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS2.0.3.0.VGUINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flame/</link>
             <pubDate>Wed, 11 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -34,6 +44,11 @@
         <item>
             <title>Redmi 14C/POCO C75/Redmi A3 Pro (lake) - OS2.0.3.0.VGTMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lake/</link>
+            <pubDate>Wed, 11 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS2.0.204.0.VOOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
             <pubDate>Wed, 11 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -289,11 +304,6 @@
         <item>
             <title>Xiaomi 12 Pro Dimensity (daumier) - OS2.0.5.0.ULGCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/daumier/</link>
-            <pubDate>Tue, 03 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.110.0.VNLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Tue, 03 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -667,11 +677,6 @@
             <pubDate>Fri, 23 May 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS2.0.11.0.VOOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
-            <pubDate>Fri, 23 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS2.0.109.0.VOMMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/miro/</link>
             <pubDate>Fri, 23 May 2025 00:00:00 </pubDate>
@@ -915,11 +920,6 @@
             <title>Xiaomi 12 Pro (zeus) - OS2.0.3.0.VLBINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Mon, 12 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS1.0.6.0.UGUINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flame/</link>
-            <pubDate>Sun, 11 May 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 13C/POCO C65 (gale) - OS2.0.8.0.VGPEUXM</title>

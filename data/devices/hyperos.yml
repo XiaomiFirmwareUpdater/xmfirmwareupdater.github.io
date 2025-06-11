@@ -3190,6 +3190,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UNLCNXM/fw_duchamp_miui_DUCHAMP_OS1.0.8.0.UNLCNXM_9062417d30_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS1.0.8.0.UNLCNXM
+- android: '15.0'
+  codename: duchamp
+  date: '2025-06-11'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNLCNXM/fw_duchamp_duchamp-ota_full-OS2.0.204.0.VNLCNXM-user-15.0-2af11982a0.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS2.0.204.0.VNLCNXM
 - android: '14.0'
   codename: duchamp
   date: '2024-06-11'
@@ -3916,6 +3922,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UGUCNXM/fw_flame_miui_FLAME_OS1.0.12.0.UGUCNXM_dd13e6662a_14.0.zip
   name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
   version: OS1.0.12.0.UGUCNXM
+- android: '15.0'
+  codename: flame
+  date: '2025-06-11'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VGUINXM/fw_flame_in_global_flame_in_global-ota_full-OS2.0.3.0.VGUINXM-user-15.0-938a61843b.zip
+  name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
+  version: OS2.0.3.0.VGUINXM
 - android: '14.0'
   codename: flame
   date: '2025-05-11'
@@ -7174,6 +7186,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UOOMIXM/fw_malachite_miui_MALACHITEGlobal_OS1.0.10.0.UOOMIXM_ba11bb65ab_14.0.zip
   name: Redmi Note 14 Pro 5G/POCO X7
   version: OS1.0.10.0.UOOMIXM
+- android: '15.0'
+  codename: malachite
+  date: '2025-06-11'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VOOCNXM/fw_malachite_malachite-ota_full-OS2.0.204.0.VOOCNXM-user-15.0-820841aea5.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS2.0.204.0.VOOCNXM
 - android: '14.0'
   codename: malachite
   date: '2025-01-11'
