@@ -14838,6 +14838,12 @@
   version: OS1.0.7.0.UNKMIXM
 - android: '15.0'
   codename: vermeer
+  date: '2025-06-11'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VNKCNXM/fw_vermeer_vermeer-ota_full-OS2.0.205.0.VNKCNXM-user-15.0-e2d65601bb.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS2.0.205.0.VNKCNXM
+- android: '15.0'
+  codename: vermeer
   date: '2025-05-12'
   download: https://bigota.d.miui.com/OS2.0.103.0.VNKEUXM/fw_vermeer_eea_global_vermeer_eea_global-ota_full-OS2.0.103.0.VNKEUXM-user-15.0-9b75a6ada6.zip
   name: Redmi K70/POCO F6 Pro
@@ -16990,6 +16996,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.ULLMIXM/fw_ziyi_miui_ZIYIGlobal_OS1.0.12.0.ULLMIXM_5df176bd92_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.12.0.ULLMIXM
+- android: '15.0'
+  codename: ziyi
+  date: '2025-06-11'
+  download: https://bigota.d.miui.com/OS2.0.7.0.VLLEUXM/fw_ziyi_eea_global_ziyi_eea_global-ota_full-OS2.0.7.0.VLLEUXM-user-15.0-bd3f8278c2.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS2.0.7.0.VLLEUXM
 - android: '14.0'
   codename: ziyi
   date: '2024-09-10'
