@@ -7096,6 +7096,12 @@
   download: https://bigota.d.miui.com/OS2.0.105.0.VOICNXM/fw_luming_luming-ota_full-OS2.0.105.0.VOICNXM-user-15.0-e2a1b1f0c8.zip
   name: Xiaomi Civi 5 Pro
   version: OS2.0.105.0.VOICNXM
+- android: '15.0'
+  codename: luming
+  date: '2025-06-12'
+  download: https://bigota.d.miui.com/OS2.0.107.0.VOICNXM/fw_luming_luming-ota_full-OS2.0.107.0.VOICNXM-user-15.0-80d1641286.zip
+  name: Xiaomi Civi 5 Pro
+  version: OS2.0.107.0.VOICNXM
 - android: '14.0'
   codename: malachite
   date: '2024-09-30'
@@ -7318,6 +7324,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UNMCNXM/fw_manet_miui_MANET_OS1.0.7.0.UNMCNXM_8dba150437_14.0.zip
   name: Redmi K70 Pro
   version: OS1.0.7.0.UNMCNXM
+- android: '15.0'
+  codename: manet
+  date: '2025-06-12'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VNMCNXM/fw_manet_manet-ota_full-OS2.0.203.0.VNMCNXM-user-15.0-4c6c5d2bac.zip
+  name: Redmi K70 Pro
+  version: OS2.0.203.0.VNMCNXM
 - android: '14.0'
   codename: manet
   date: '2024-01-12'

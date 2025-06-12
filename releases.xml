@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 12 Jun 2025 01:10:46 </lastBuildDate>
+        <lastBuildDate>Thu, 12 Jun 2025 07:10:42 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Civi 5 Pro (luming) - OS2.0.107.0.VOICNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/luming/</link>
+            <pubDate>Thu, 12 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70 Pro (manet) - OS2.0.203.0.VNMCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/manet/</link>
+            <pubDate>Thu, 12 Jun 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS2.0.203.0.VOPCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
@@ -717,11 +727,6 @@
             <pubDate>Thu, 22 May 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Civi 5 Pro (luming) - OS2.0.105.0.VOICNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/luming/</link>
-            <pubDate>Thu, 22 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 14 Pro 4G (obsidian) - OS2.0.5.0.VOFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
             <pubDate>Thu, 22 May 2025 00:00:00 </pubDate>
@@ -1114,11 +1119,6 @@
         <item>
             <title>Xiaomi 13 (fuxi) - OS2.0.108.0.VMCCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Sun, 27 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70 Pro (manet) - OS2.0.110.0.VNMCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/manet/</link>
             <pubDate>Sun, 27 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
