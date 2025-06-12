@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 12 Jun 2025 13:18:39 </lastBuildDate>
+        <lastBuildDate>Thu, 12 Jun 2025 19:03:50 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS2.0.3.0.VLFEUXM</title>
@@ -24,6 +24,11 @@
         <item>
             <title>Redmi K70 Pro (manet) - OS2.0.203.0.VNMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/manet/</link>
+            <pubDate>Thu, 12 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.203.0.VOJCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
             <pubDate>Thu, 12 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -889,11 +894,6 @@
         <item>
             <title>Redmi K50G/POCO F4 GT (ingres) - OS2.0.5.0.ULJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ingres/</link>
-            <pubDate>Mon, 12 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.110.0.VOJCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
             <pubDate>Mon, 12 May 2025 00:00:00 </pubDate>
         </item>
         <item>
