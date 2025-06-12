@@ -2644,6 +2644,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.ULFEUXM/fw_diting_miui_DITINGEEAGlobal_OS1.0.9.0.ULFEUXM_68e4cbd70c_14.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: OS1.0.9.0.ULFEUXM
+- android: '15.0'
+  codename: diting
+  date: '2025-06-12'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VLFEUXM/fw_diting_eea_global_diting_eea_global-ota_full-OS2.0.3.0.VLFEUXM-user-15.0-03c198844c.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS2.0.3.0.VLFEUXM
 - android: '14.0'
   codename: diting
   date: '2024-11-11'
@@ -4354,6 +4360,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UMCEUXM/fw_fuxi_miui_FUXIEEAGlobal_OS1.0.10.0.UMCEUXM_d976b0852b_14.0.zip
   name: Xiaomi 13
   version: OS1.0.10.0.UMCEUXM
+- android: '15.0'
+  codename: fuxi
+  date: '2025-06-12'
+  download: https://bigota.d.miui.com/OS2.0.103.0.VMCMIXM/fw_fuxi_global_fuxi_global-ota_full-OS2.0.103.0.VMCMIXM-user-15.0-87f25d7732.zip
+  name: Xiaomi 13
+  version: OS2.0.103.0.VMCMIXM
 - android: '14.0'
   codename: fuxi
   date: '2024-01-12'
@@ -11200,6 +11212,12 @@
   download: https://bigota.d.miui.com/OS2.0.103.0.VNNCNXM/fw_rothko_rothko-ota_full-OS2.0.103.0.VNNCNXM-user-15.0-f3d9998d73.zip
   name: Redmi K70 Ultra/Xiaomi 14T Pro
   version: OS2.0.103.0.VNNCNXM
+- android: '15.0'
+  codename: rothko
+  date: '2025-06-12'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VNNCNXM/fw_rothko_rothko-ota_full-OS2.0.203.0.VNNCNXM-user-15.0-c322df444c.zip
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
+  version: OS2.0.203.0.VNNCNXM
 - android: '15.0'
   codename: rothko
   date: '2025-03-10'
