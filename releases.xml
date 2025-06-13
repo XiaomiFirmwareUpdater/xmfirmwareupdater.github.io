@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 13 Jun 2025 06:35:11 </lastBuildDate>
+        <lastBuildDate>Fri, 13 Jun 2025 12:44:55 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 (houji) - OS2.0.107.0.VNCEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Fri, 13 Jun 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS2.0.3.0.VLFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/diting/</link>
@@ -1300,11 +1305,6 @@
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS2.0.1.0.UMQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Mon, 31 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 (houji) - OS2.0.105.0.VNCEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/houji/</link>
-            <pubDate>Fri, 28 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - OS2.0.1.0.UKACNXM</title>
