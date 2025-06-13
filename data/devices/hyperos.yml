@@ -6528,6 +6528,12 @@
   version: OS2.0.104.0.VOXCNXM
 - android: '15.0'
   codename: jinghu
+  date: '2025-06-13'
+  download: https://bigota.d.miui.com/OS2.0.111.0.VOXCNXM/fw_jinghu_jinghu-ota_full-OS2.0.111.0.VOXCNXM-user-15.0-d886d02628.zip
+  name: Xiaomi Pad 7 Ultra
+  version: OS2.0.111.0.VOXCNXM
+- android: '15.0'
+  codename: jinghu
   date: '2025-06-04'
   download: https://bigota.d.miui.com/OS2.0.110.0.VOXCNXM/fw_jinghu_jinghu-ota_full-OS2.0.110.0.VOXCNXM-user-15.0-b31d1e2501.zip
   name: Xiaomi Pad 7 Ultra
@@ -7546,6 +7552,12 @@
   download: https://bigota.d.miui.com/OS2.0.6.0.VMRCNXM/fw_marble_marble-ota_full-OS2.0.6.0.VMRCNXM-user-15.0-7799bd2e4d.zip
   name: Redmi Note 12 Turbo/POCO F5
   version: OS2.0.6.0.VMRCNXM
+- android: '15.0'
+  codename: marble
+  date: '2025-06-13'
+  download: https://bigota.d.miui.com/OS2.0.7.0.VMRCNXM/fw_marble_marble-ota_full-OS2.0.7.0.VMRCNXM-user-15.0-b6d209be60.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS2.0.7.0.VMRCNXM
 - android: '14.0'
   codename: marble
   date: '2025-02-13'

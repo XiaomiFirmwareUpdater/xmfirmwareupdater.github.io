@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 13 Jun 2025 12:44:55 </lastBuildDate>
+        <lastBuildDate>Fri, 13 Jun 2025 19:24:38 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 14 (houji) - OS2.0.107.0.VNCEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Fri, 13 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 7 Ultra (jinghu) - OS2.0.111.0.VOXCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/jinghu/</link>
+            <pubDate>Fri, 13 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.7.0.VMRCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
             <pubDate>Fri, 13 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -325,11 +335,6 @@
             <title>Xiaomi MIX Fold 2 (zizhan) - OS2.0.11.0.VLRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zizhan/</link>
             <pubDate>Thu, 05 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 7 Ultra (jinghu) - OS2.0.110.0.VOXCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/jinghu/</link>
-            <pubDate>Wed, 04 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12 4G (tapas) - OS2.0.4.0.VMTINXM</title>
@@ -829,11 +834,6 @@
         <item>
             <title>Redmi A3x (klein) - V816.0.5.0.VGSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/klein/</link>
-            <pubDate>Wed, 14 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.6.0.VMRCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
             <pubDate>Wed, 14 May 2025 00:00:00 </pubDate>
         </item>
         <item>
