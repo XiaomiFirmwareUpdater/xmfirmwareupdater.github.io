@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 13 Jun 2025 19:24:38 </lastBuildDate>
+        <lastBuildDate>Sat, 14 Jun 2025 01:01:10 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 14 (houji) - OS2.0.107.0.VNCEUXM</title>
@@ -19,6 +19,11 @@
         <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.7.0.VMRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/marble/</link>
+            <pubDate>Fri, 13 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS2.0.110.0.VOMMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/miro/</link>
             <pubDate>Fri, 13 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -719,11 +724,6 @@
         <item>
             <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS2.0.4.0.VGUCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flame/</link>
-            <pubDate>Fri, 23 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS2.0.109.0.VOMMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/miro/</link>
             <pubDate>Fri, 23 May 2025 00:00:00 </pubDate>
         </item>
         <item>
