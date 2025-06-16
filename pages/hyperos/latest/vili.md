@@ -52,9 +52,8 @@ permalink: /hyperos/vili/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 11T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.16.0.UKDEUXM</td><td>14.0</td><td>6.4 GB</td><td>2025-04-15</td><td><a href="/hyperos/vili/stable/OS1.0.16.0.UKDEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.16.0.UKDEUXM</td><td>14.0</td><td>5.2 GB</td><td>2025-04-25</td><td><a href="/hyperos/vili/stable/OS1.0.16.0.UKDEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11T Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.17.0.UKDEUXM</td><td>14.0</td><td>5.2 GB</td><td>2025-06-05</td><td><a href="/hyperos/vili/stable beta/OS1.0.17.0.UKDEUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 11T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.17.0.UKDEUXM</td><td>14.0</td><td>6.4 GB</td><td>2025-05-23</td><td><a href="/hyperos/vili/stable/OS1.0.17.0.UKDEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.17.0.UKDEUXM</td><td>14.0</td><td>5.2 GB</td><td>2025-06-05</td><td><a href="/hyperos/vili/stable/OS1.0.17.0.UKDEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.13.0.UKDMIXM</td><td>14.0</td><td>6.5 GB</td><td>2025-04-22</td><td><a href="/hyperos/vili/stable/OS1.0.13.0.UKDMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.13.0.UKDMIXM</td><td>14.0</td><td>5.3 GB</td><td>2025-05-15</td><td><a href="/hyperos/vili/stable/OS1.0.13.0.UKDMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.14.0.UKDMIXM</td><td>14.0</td><td>5.3 GB</td><td>2025-06-05</td><td><a href="/hyperos/vili/stable beta/OS1.0.14.0.UKDMIXM/">Download</a></td></tr>

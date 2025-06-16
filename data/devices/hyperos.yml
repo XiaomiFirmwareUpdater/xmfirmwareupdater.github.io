@@ -3599,6 +3599,12 @@
   name: POCO M6 Pro
   version: OS1.0.6.0.UFOEUXM
 - android: '14.0'
+  codename: emeraldr
+  date: '2025-06-16'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UFOEUXM/fw_emeraldr_miui_EMERALDREEAGlobal_OS1.0.8.0.UFOEUXM_af60e66438_14.0.zip
+  name: POCO M6 Pro
+  version: OS1.0.8.0.UFOEUXM
+- android: '14.0'
   codename: emerald
   date: '2024-05-16'
   download: https://bigota.d.miui.com/OS1.0.3.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.3.0.UNFMIXM_68eb6f61a9_14.0.zip
@@ -4330,6 +4336,12 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.VMCEUXM/fw_fuxi_eea_global_fuxi_eea_global-ota_full-OS2.0.3.0.VMCEUXM-user-15.0-33b3fb8985.zip
   name: Xiaomi 13
   version: OS2.0.3.0.VMCEUXM
+- android: '15.0'
+  codename: fuxi
+  date: '2025-06-16'
+  download: https://bigota.d.miui.com/OS2.0.105.0.VMCEUXM/fw_fuxi_eea_global_fuxi_eea_global-ota_full-OS2.0.105.0.VMCEUXM-user-15.0-1f73290903.zip
+  name: Xiaomi 13
+  version: OS2.0.105.0.VMCEUXM
 - android: '14.0'
   codename: fuxi
   date: '2024-04-16'
@@ -16456,6 +16468,12 @@
   download: https://bigota.d.miui.com/OS2.0.5.0.VLBCNXM/fw_zeus_zeus-ota_full-OS2.0.5.0.VLBCNXM-user-15.0-8237f0b8a9.zip
   name: Xiaomi 12 Pro
   version: OS2.0.5.0.VLBCNXM
+- android: '15.0'
+  codename: zeus
+  date: '2025-06-16'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VLBMIXM/fw_zeus_global_zeus_global-ota_full-OS2.0.6.0.VLBMIXM-user-15.0-9f59e8bce0.zip
+  name: Xiaomi 12 Pro
+  version: OS2.0.6.0.VLBMIXM
 - android: '14.0'
   codename: zeus
   date: '2024-05-13'
