@@ -49,15 +49,15 @@
     android: '15.0'
     miui: OS2.0.5.0.VGQEUXM
 - branch: stable
-  date: '2025-03-24'
+  date: '2025-06-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-24.03.2025/fw_air_in_global_air_in_global-ota_full-OS2.0.1.0.VGQINXM-user-15.0-96f99c55c6.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/air/fw_air_in_global_air_in_global-ota_full-OS2.0.1.0.VGQINXM-user-15.0-96f99c55c6.zip
-  filename: fw_air_in_global_air_in_global-ota_full-OS2.0.1.0.VGQINXM-user-15.0-96f99c55c6.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-16.06.2025/fw_air_in_global_air_in_global-ota_full-OS2.0.2.0.VGQINXM-user-15.0-b378663f4c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/air/fw_air_in_global_air_in_global-ota_full-OS2.0.2.0.VGQINXM-user-15.0-b378663f4c.zip
+  filename: fw_air_in_global_air_in_global-ota_full-OS2.0.2.0.VGQINXM-user-15.0-b378663f4c.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.1.0.VGQINXM
+    miui: OS2.0.2.0.VGQINXM
 - branch: stable
   date: '2024-06-25'
   downloads:
@@ -1829,15 +1829,15 @@
     android: '15.0'
     miui: OS2.0.3.0.VGUINXM
 - branch: stable
-  date: '2025-04-21'
+  date: '2025-06-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flare/releases/download/stable-21.04.2025/fw_flare_global_flare_global-ota_full-OS2.0.3.0.VHXMIXM-user-15.0-f43e5c2a05.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/flare/fw_flare_global_flare_global-ota_full-OS2.0.3.0.VHXMIXM-user-15.0-f43e5c2a05.zip
-  filename: fw_flare_global_flare_global-ota_full-OS2.0.3.0.VHXMIXM-user-15.0-f43e5c2a05.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flare/releases/download/stable-16.06.2025/fw_flare_global_flare_global-ota_full-OS2.0.5.0.VHXMIXM-user-15.0-0116ce0fd3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/flare/fw_flare_global_flare_global-ota_full-OS2.0.5.0.VHXMIXM-user-15.0-0116ce0fd3.zip
+  filename: fw_flare_global_flare_global-ota_full-OS2.0.5.0.VHXMIXM-user-15.0-0116ce0fd3.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.3.0.VHXMIXM
+    miui: OS2.0.5.0.VHXMIXM
 - branch: stable
   date: '2025-05-08'
   downloads:
@@ -3379,15 +3379,15 @@
     android: '14.0'
     miui: OS2.0.2.0.ULKCNXM
 - branch: stable
-  date: '2025-05-30'
+  date: '2025-06-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-30.05.2025/fw_mayfly_mayfly-ota_full-OS2.0.6.0.VLTCNXM-user-15.0-39f907dd8e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mayfly/fw_mayfly_mayfly-ota_full-OS2.0.6.0.VLTCNXM-user-15.0-39f907dd8e.zip
-  filename: fw_mayfly_mayfly-ota_full-OS2.0.6.0.VLTCNXM-user-15.0-39f907dd8e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-16.06.2025/fw_mayfly_mayfly-ota_full-OS2.0.7.0.VLTCNXM-user-15.0-e407b0e102.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mayfly/fw_mayfly_mayfly-ota_full-OS2.0.7.0.VLTCNXM-user-15.0-e407b0e102.zip
+  filename: fw_mayfly_mayfly-ota_full-OS2.0.7.0.VLTCNXM-user-15.0-e407b0e102.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.6.0.VLTCNXM
+    miui: OS2.0.7.0.VLTCNXM
 - branch: stable
   date: '2022-10-28'
   downloads:
@@ -5469,15 +5469,15 @@
     android: '15.0'
     miui: OS2.0.8.0.VMWMIXM
 - branch: stable
-  date: '2025-02-19'
+  date: '2025-06-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-19.02.2025/fw_sky_sky-ota_full-OS2.0.2.0.VMWCNXM-user-15.0-eeb8a4da80.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sky/fw_sky_sky-ota_full-OS2.0.2.0.VMWCNXM-user-15.0-eeb8a4da80.zip
-  filename: fw_sky_sky-ota_full-OS2.0.2.0.VMWCNXM-user-15.0-eeb8a4da80.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-16.06.2025/fw_sky_sky-ota_full-OS2.0.4.0.VMWCNXM-user-15.0-eb4c395223.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sky/fw_sky_sky-ota_full-OS2.0.4.0.VMWCNXM-user-15.0-eb4c395223.zip
+  filename: fw_sky_sky-ota_full-OS2.0.4.0.VMWCNXM-user-15.0-eb4c395223.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.2.0.VMWCNXM
+    miui: OS2.0.4.0.VMWCNXM
 - branch: stable
   date: '2025-05-26'
   downloads:

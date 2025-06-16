@@ -232,6 +232,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UGQMIXM/fw_air_miui_AIRGlobal_OS1.0.3.0.UGQMIXM_d69b759c5c_14.0.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
   version: OS1.0.3.0.UGQMIXM
+- android: '15.0'
+  codename: air
+  date: '2025-06-16'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VGQINXM/fw_air_in_global_air_in_global-ota_full-OS2.0.2.0.VGQINXM-user-15.0-b378663f4c.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS2.0.2.0.VGQINXM
 - android: '14.0'
   codename: air
   date: '2024-11-15'
@@ -4000,6 +4006,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UHXEUXM/fw_flare_miui_FLAREEEAGlobal_OS1.0.4.0.UHXEUXM_8f997cd9d0_14.0.zip
   name: Redmi Pad SE 8.7 5G
   version: OS1.0.4.0.UHXEUXM
+- android: '15.0'
+  codename: flare
+  date: '2025-06-16'
+  download: https://bigota.d.miui.com/OS2.0.5.0.VHXMIXM/fw_flare_global_flare_global-ota_full-OS2.0.5.0.VHXMIXM-user-15.0-0116ce0fd3.zip
+  name: Redmi Pad SE 8.7 5G
+  version: OS2.0.5.0.VHXMIXM
 - android: '14.0'
   codename: flare
   date: '2025-01-13'
@@ -7840,6 +7852,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.ULTCNXM/fw_mayfly_miui_MAYFLY_OS1.0.12.0.ULTCNXM_b3b343b184_14.0.zip
   name: Xiaomi 12S
   version: OS1.0.12.0.ULTCNXM
+- android: '15.0'
+  codename: mayfly
+  date: '2025-06-16'
+  download: https://bigota.d.miui.com/OS2.0.7.0.VLTCNXM/fw_mayfly_mayfly-ota_full-OS2.0.7.0.VLTCNXM-user-15.0-e407b0e102.zip
+  name: Xiaomi 12S
+  version: OS2.0.7.0.VLTCNXM
 - android: '14.0'
   codename: mayfly
   date: '2024-11-15'
@@ -13078,6 +13096,12 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VMWCNXM/fw_sky_sky-ota_full-OS2.0.2.0.VMWCNXM-user-15.0-eeb8a4da80.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
   version: OS2.0.2.0.VMWCNXM
+- android: '15.0'
+  codename: sky
+  date: '2025-06-16'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VMWCNXM/fw_sky_sky-ota_full-OS2.0.4.0.VMWCNXM-user-15.0-eb4c395223.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS2.0.4.0.VMWCNXM
 - android: '14.0'
   codename: sky
   date: '2024-05-13'
