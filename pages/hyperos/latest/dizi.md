@@ -66,8 +66,8 @@ permalink: /hyperos/dizi/
 <tr><td>Redmi Pad Pro / POCO Pad India</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.VNSINXM</td><td>15.0</td><td>4.4 GB</td><td>2025-05-19</td><td><a href="/hyperos/dizi/stable/OS2.0.5.0.VNSINXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro / POCO Pad Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.5.0.VNSRUXM</td><td>15.0</td><td>6.2 GB</td><td>2025-05-11</td><td><a href="/hyperos/dizi/stable/OS2.0.5.0.VNSRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro / POCO Pad Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.VNSRUXM</td><td>15.0</td><td>4.5 GB</td><td>2025-05-19</td><td><a href="/hyperos/dizi/stable/OS2.0.5.0.VNSRUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Pro / POCO Pad Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.5.0.VNSTRXM</td><td>15.0</td><td>5.6 GB</td><td>2025-05-11</td><td><a href="/hyperos/dizi/stable/OS2.0.5.0.VNSTRXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Pro / POCO Pad Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.VNSTRXM</td><td>15.0</td><td>4.5 GB</td><td>2025-05-19</td><td><a href="/hyperos/dizi/stable/OS2.0.5.0.VNSTRXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro / POCO Pad Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.6.0.VNSTRXM</td><td>15.0</td><td>5.6 GB</td><td>2025-05-27</td><td><a href="/hyperos/dizi/stable/OS2.0.6.0.VNSTRXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro / POCO Pad Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.6.0.VNSTRXM</td><td>15.0</td><td>4.5 GB</td><td>2025-06-10</td><td><a href="/hyperos/dizi/stable/OS2.0.6.0.VNSTRXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro / POCO Pad Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.5.0.VNSTWXM</td><td>15.0</td><td>5.4 GB</td><td>2025-05-11</td><td><a href="/hyperos/dizi/stable/OS2.0.5.0.VNSTWXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro / POCO Pad Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.VNSTWXM</td><td>15.0</td><td>4.4 GB</td><td>2025-05-19</td><td><a href="/hyperos/dizi/stable/OS2.0.5.0.VNSTWXM/">Download</a></td></tr>
 
