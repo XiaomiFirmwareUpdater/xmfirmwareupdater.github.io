@@ -52,8 +52,8 @@ permalink: /hyperos/yudi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.8.0.VMHCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-04-18</td><td><a href="/hyperos/yudi/stable/OS2.0.8.0.VMHCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.8.0.VMHCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-05-14</td><td><a href="/hyperos/yudi/stable/OS2.0.8.0.VMHCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VMHCNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-05-31</td><td><a href="/hyperos/yudi/stable/OS2.0.201.0.VMHCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VMHCNXM</td><td>15.0</td><td>6.9 GB</td><td>2025-06-10</td><td><a href="/hyperos/yudi/stable/OS2.0.201.0.VMHCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

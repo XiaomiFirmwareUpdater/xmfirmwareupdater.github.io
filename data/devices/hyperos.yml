@@ -16066,6 +16066,12 @@
   download: https://bigota.d.miui.com/OS2.0.8.0.VMHCNXM/fw_yudi_yudi-ota_full-OS2.0.8.0.VMHCNXM-user-15.0-c3af3fbd5b.zip
   name: Xiaomi Pad 6 Max 14
   version: OS2.0.8.0.VMHCNXM
+- android: '15.0'
+  codename: yudi
+  date: '2025-06-17'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VMHCNXM/fw_yudi_yudi-ota_full-OS2.0.201.0.VMHCNXM-user-15.0-43fba22191.zip
+  name: Xiaomi Pad 6 Max 14
+  version: OS2.0.201.0.VMHCNXM
 - android: '14.0'
   codename: yudi
   date: '2024-06-17'
