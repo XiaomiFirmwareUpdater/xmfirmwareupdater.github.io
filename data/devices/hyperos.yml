@@ -5164,6 +5164,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UNQCNXM/fw_gold_miui_GOLD_OS1.0.3.0.UNQCNXM_28fcdf7bdc_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: OS1.0.3.0.UNQCNXM
+- android: '15.0'
+  codename: gold
+  date: '2025-06-18'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VNQEUXM/fw_gold_eea_global_gold_eea_global-ota_full-OS2.0.6.0.VNQEUXM-user-15.0-8ce9a684b4.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS2.0.6.0.VNQEUXM
 - android: '14.0'
   codename: gold
   date: '2024-06-18'
@@ -6568,6 +6574,12 @@
   download: https://bigota.d.miui.com/OS2.0.110.0.VOXCNXM/fw_jinghu_jinghu-ota_full-OS2.0.110.0.VOXCNXM-user-15.0-b31d1e2501.zip
   name: Xiaomi Pad 7 Ultra
   version: OS2.0.110.0.VOXCNXM
+- android: '15.0'
+  codename: koto
+  date: '2025-06-18'
+  download: https://bigota.d.miui.com/OS2.0.101.0.VOWINXM/fw_koto_in_global_koto_in_global-ota_full-OS2.0.101.0.VOWINXM-user-15.0-2fedaf5cff.zip
+  name: Redmi Pad 2 4G
+  version: OS2.0.101.0.VOWINXM
 - android: '15.0'
   codename: koto
   date: '2025-06-06'
@@ -11080,6 +11092,12 @@
   download: https://bigota.d.miui.com/OS2.0.100.0.VOJINXM/fw_rodin_in_global_rodin_in_global-ota_full-OS2.0.100.0.VOJINXM-user-15.0-ff1420b959.zip
   name: Redmi Turbo 4/POCO X7 Pro
   version: OS2.0.100.0.VOJINXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-06-18'
+  download: https://bigota.d.miui.com/OS2.0.104.0.VOJMIXM/fw_rodin_global_rodin_global-ota_full-OS2.0.104.0.VOJMIXM-user-15.0-681f6c5397.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.104.0.VOJMIXM
 - android: '15.0'
   codename: rodin
   date: '2025-02-16'
