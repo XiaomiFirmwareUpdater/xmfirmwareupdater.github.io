@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 18 Jun 2025 07:10:23 </lastBuildDate>
+        <lastBuildDate>Wed, 18 Jun 2025 13:18:32 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS2.0.11.0.VNREUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
+            <pubDate>Wed, 18 Jun 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>MIX Flip (ruyi) - OS2.0.107.0.VNIMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruyi/</link>
@@ -14,6 +19,11 @@
         <item>
             <title>MIX Flip (ruyi) - OS2.0.104.0.VNIEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruyi/</link>
+            <pubDate>Wed, 18 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12S Pro (unicorn) - OS2.0.10.0.VLECNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/unicorn/</link>
             <pubDate>Wed, 18 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -927,11 +937,6 @@
             <pubDate>Mon, 12 May 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS2.0.10.0.VNREUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
-            <pubDate>Mon, 12 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K50G/POCO F4 GT (ingres) - OS2.0.5.0.ULJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ingres/</link>
             <pubDate>Mon, 12 May 2025 00:00:00 </pubDate>
@@ -944,11 +949,6 @@
         <item>
             <title>Redmi Pad SE 8.7 4G (spark) - OS2.0.3.0.VHYEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spark/</link>
-            <pubDate>Mon, 12 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12S Pro (unicorn) - OS2.0.8.0.VLECNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/unicorn/</link>
             <pubDate>Mon, 12 May 2025 00:00:00 </pubDate>
         </item>
         <item>
