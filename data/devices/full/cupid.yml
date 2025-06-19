@@ -229,6 +229,36 @@
     android: '14.0'
     miui: OS1.0.3.0.ULCMIXM
 - branch: stable
+  date: '2025-06-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-19.06.2025/fw_cupid_cupid-ota_full-OS2.0.10.0.VLCCNXM-user-15.0-1f651b0f8b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/cupid/fw_cupid_cupid-ota_full-OS2.0.10.0.VLCCNXM-user-15.0-1f651b0f8b.zip
+  filename: fw_cupid_cupid-ota_full-OS2.0.10.0.VLCCNXM-user-15.0-1f651b0f8b.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.10.0.VLCCNXM
+- branch: stable
+  date: '2025-06-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-19.06.2025/fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.5.0.VLCEUXM-user-15.0-3d5710d5ba.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/cupid/fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.5.0.VLCEUXM-user-15.0-3d5710d5ba.zip
+  filename: fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.5.0.VLCEUXM-user-15.0-3d5710d5ba.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.5.0.VLCEUXM
+- branch: stable
+  date: '2025-06-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-19.06.2025/fw_cupid_global_cupid_global-ota_full-OS2.0.4.0.VLCMIXM-user-15.0-46a4ad0cea.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/cupid/fw_cupid_global_cupid_global-ota_full-OS2.0.4.0.VLCMIXM-user-15.0-46a4ad0cea.zip
+  filename: fw_cupid_global_cupid_global-ota_full-OS2.0.4.0.VLCMIXM-user-15.0-46a4ad0cea.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.4.0.VLCMIXM
+- branch: stable
   date: '2025-02-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-19.02.2025/fw_cupid_miui_CUPIDGlobal_OS1.0.11.0.ULCMIXM_9fea041e8c_14.0.zip

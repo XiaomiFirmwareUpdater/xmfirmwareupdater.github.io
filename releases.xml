@@ -4,8 +4,33 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 19 Jun 2025 00:36:23 </lastBuildDate>
+        <lastBuildDate>Thu, 19 Jun 2025 07:36:55 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 12 (cupid) - OS2.0.4.0.VLCMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/cupid/</link>
+            <pubDate>Thu, 19 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 (cupid) - OS2.0.10.0.VLCCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/cupid/</link>
+            <pubDate>Thu, 19 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 (cupid) - OS2.0.5.0.VLCEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/cupid/</link>
+            <pubDate>Thu, 19 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - OS2.0.9.0.VLBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
+            <pubDate>Thu, 19 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - OS2.0.4.0.VLBINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
+            <pubDate>Thu, 19 Jun 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS2.0.11.0.VNREUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
@@ -877,11 +902,6 @@
             <pubDate>Thu, 15 May 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12 (cupid) - OS2.0.9.0.VLCCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/cupid/</link>
-            <pubDate>Wed, 14 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi A3x (klein) - V816.0.5.0.VGSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/klein/</link>
             <pubDate>Wed, 14 May 2025 00:00:00 </pubDate>
@@ -977,11 +997,6 @@
             <pubDate>Mon, 12 May 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12 Pro (zeus) - OS2.0.3.0.VLBINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Mon, 12 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 13C/POCO C65 (gale) - OS2.0.8.0.VGPEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gale/</link>
             <pubDate>Sun, 11 May 2025 00:00:00 </pubDate>
@@ -1027,23 +1042,8 @@
             <pubDate>Thu, 08 May 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12 Pro (zeus) - OS2.0.8.0.VLBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Wed, 07 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.102.0.VMLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Tue, 06 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 (cupid) - OS2.0.3.0.VLCMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/cupid/</link>
-            <pubDate>Tue, 06 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 (cupid) - OS2.0.4.0.VLCEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/cupid/</link>
             <pubDate>Tue, 06 May 2025 00:00:00 </pubDate>
         </item>
         <item>

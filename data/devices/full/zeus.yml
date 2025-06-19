@@ -389,6 +389,26 @@
     android: '12.0'
     miui: V13.0.9.0.SLBINXM
 - branch: stable
+  date: '2025-06-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-19.06.2025/fw_zeus_in_global_zeus_in_global-ota_full-OS2.0.4.0.VLBINXM-user-15.0-962a6d004e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_in_global_zeus_in_global-ota_full-OS2.0.4.0.VLBINXM-user-15.0-962a6d004e.zip
+  filename: fw_zeus_in_global_zeus_in_global-ota_full-OS2.0.4.0.VLBINXM-user-15.0-962a6d004e.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.4.0.VLBINXM
+- branch: stable
+  date: '2025-06-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-19.06.2025/fw_zeus_zeus-ota_full-OS2.0.9.0.VLBCNXM-user-15.0-8ca35e8953.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_zeus-ota_full-OS2.0.9.0.VLBCNXM-user-15.0-8ca35e8953.zip
+  filename: fw_zeus_zeus-ota_full-OS2.0.9.0.VLBCNXM-user-15.0-8ca35e8953.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.9.0.VLBCNXM
+- branch: stable
   date: '2022-06-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-19.06.2022/fw_zeus_miui_ZEUS_V13.0.33.0.SLBCNXM_f7568400f7_12.0.zip

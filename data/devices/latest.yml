@@ -1179,35 +1179,35 @@
     android: '11.0'
     miui: 21.11.24
 - branch: stable
-  date: '2025-05-06'
+  date: '2025-06-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-06.05.2025/fw_cupid_global_cupid_global-ota_full-OS2.0.3.0.VLCMIXM-user-15.0-8a26412d7c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/cupid/fw_cupid_global_cupid_global-ota_full-OS2.0.3.0.VLCMIXM-user-15.0-8a26412d7c.zip
-  filename: fw_cupid_global_cupid_global-ota_full-OS2.0.3.0.VLCMIXM-user-15.0-8a26412d7c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-19.06.2025/fw_cupid_global_cupid_global-ota_full-OS2.0.4.0.VLCMIXM-user-15.0-46a4ad0cea.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/cupid/fw_cupid_global_cupid_global-ota_full-OS2.0.4.0.VLCMIXM-user-15.0-46a4ad0cea.zip
+  filename: fw_cupid_global_cupid_global-ota_full-OS2.0.4.0.VLCMIXM-user-15.0-46a4ad0cea.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.3.0.VLCMIXM
+    miui: OS2.0.4.0.VLCMIXM
 - branch: stable
-  date: '2025-05-14'
+  date: '2025-06-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-14.05.2025/fw_cupid_cupid-ota_full-OS2.0.9.0.VLCCNXM-user-15.0-c99db6d4eb.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/cupid/fw_cupid_cupid-ota_full-OS2.0.9.0.VLCCNXM-user-15.0-c99db6d4eb.zip
-  filename: fw_cupid_cupid-ota_full-OS2.0.9.0.VLCCNXM-user-15.0-c99db6d4eb.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-19.06.2025/fw_cupid_cupid-ota_full-OS2.0.10.0.VLCCNXM-user-15.0-1f651b0f8b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/cupid/fw_cupid_cupid-ota_full-OS2.0.10.0.VLCCNXM-user-15.0-1f651b0f8b.zip
+  filename: fw_cupid_cupid-ota_full-OS2.0.10.0.VLCCNXM-user-15.0-1f651b0f8b.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.9.0.VLCCNXM
+    miui: OS2.0.10.0.VLCCNXM
 - branch: stable
-  date: '2025-05-06'
+  date: '2025-06-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-06.05.2025/fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.4.0.VLCEUXM-user-15.0-b68f27993d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/cupid/fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.4.0.VLCEUXM-user-15.0-b68f27993d.zip
-  filename: fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.4.0.VLCEUXM-user-15.0-b68f27993d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-19.06.2025/fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.5.0.VLCEUXM-user-15.0-3d5710d5ba.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/cupid/fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.5.0.VLCEUXM-user-15.0-3d5710d5ba.zip
+  filename: fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.5.0.VLCEUXM-user-15.0-3d5710d5ba.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.4.0.VLCEUXM
+    miui: OS2.0.5.0.VLCEUXM
 - branch: stable
   date: '2023-06-28'
   downloads:
@@ -6809,15 +6809,15 @@
     android: '15.0'
     miui: OS2.0.6.0.VLBMIXM
 - branch: stable
-  date: '2025-05-07'
+  date: '2025-06-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-07.05.2025/fw_zeus_zeus-ota_full-OS2.0.8.0.VLBCNXM-user-15.0-dd26a194d4.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_zeus-ota_full-OS2.0.8.0.VLBCNXM-user-15.0-dd26a194d4.zip
-  filename: fw_zeus_zeus-ota_full-OS2.0.8.0.VLBCNXM-user-15.0-dd26a194d4.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-19.06.2025/fw_zeus_zeus-ota_full-OS2.0.9.0.VLBCNXM-user-15.0-8ca35e8953.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_zeus-ota_full-OS2.0.9.0.VLBCNXM-user-15.0-8ca35e8953.zip
+  filename: fw_zeus_zeus-ota_full-OS2.0.9.0.VLBCNXM-user-15.0-8ca35e8953.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.8.0.VLBCNXM
+    miui: OS2.0.9.0.VLBCNXM
 - branch: stable
   date: '2025-05-06'
   downloads:
@@ -6829,15 +6829,15 @@
     android: '15.0'
     miui: OS2.0.6.0.VLBEUXM
 - branch: stable
-  date: '2025-05-12'
+  date: '2025-06-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-12.05.2025/fw_zeus_in_global_zeus_in_global-ota_full-OS2.0.3.0.VLBINXM-user-15.0-fa3225a886.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_in_global_zeus_in_global-ota_full-OS2.0.3.0.VLBINXM-user-15.0-fa3225a886.zip
-  filename: fw_zeus_in_global_zeus_in_global-ota_full-OS2.0.3.0.VLBINXM-user-15.0-fa3225a886.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-19.06.2025/fw_zeus_in_global_zeus_in_global-ota_full-OS2.0.4.0.VLBINXM-user-15.0-962a6d004e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_in_global_zeus_in_global-ota_full-OS2.0.4.0.VLBINXM-user-15.0-962a6d004e.zip
+  filename: fw_zeus_in_global_zeus_in_global-ota_full-OS2.0.4.0.VLBINXM-user-15.0-962a6d004e.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.3.0.VLBINXM
+    miui: OS2.0.4.0.VLBINXM
 - branch: stable
   date: '2025-02-24'
   downloads:

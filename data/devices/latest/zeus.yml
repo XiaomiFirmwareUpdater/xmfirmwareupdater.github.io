@@ -9,15 +9,15 @@
     android: '15.0'
     miui: OS2.0.6.0.VLBMIXM
 - branch: stable
-  date: '2025-05-07'
+  date: '2025-06-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-07.05.2025/fw_zeus_zeus-ota_full-OS2.0.8.0.VLBCNXM-user-15.0-dd26a194d4.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_zeus-ota_full-OS2.0.8.0.VLBCNXM-user-15.0-dd26a194d4.zip
-  filename: fw_zeus_zeus-ota_full-OS2.0.8.0.VLBCNXM-user-15.0-dd26a194d4.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-19.06.2025/fw_zeus_zeus-ota_full-OS2.0.9.0.VLBCNXM-user-15.0-8ca35e8953.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_zeus-ota_full-OS2.0.9.0.VLBCNXM-user-15.0-8ca35e8953.zip
+  filename: fw_zeus_zeus-ota_full-OS2.0.9.0.VLBCNXM-user-15.0-8ca35e8953.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.8.0.VLBCNXM
+    miui: OS2.0.9.0.VLBCNXM
 - branch: stable
   date: '2025-05-06'
   downloads:
@@ -29,12 +29,12 @@
     android: '15.0'
     miui: OS2.0.6.0.VLBEUXM
 - branch: stable
-  date: '2025-05-12'
+  date: '2025-06-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-12.05.2025/fw_zeus_in_global_zeus_in_global-ota_full-OS2.0.3.0.VLBINXM-user-15.0-fa3225a886.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_in_global_zeus_in_global-ota_full-OS2.0.3.0.VLBINXM-user-15.0-fa3225a886.zip
-  filename: fw_zeus_in_global_zeus_in_global-ota_full-OS2.0.3.0.VLBINXM-user-15.0-fa3225a886.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-19.06.2025/fw_zeus_in_global_zeus_in_global-ota_full-OS2.0.4.0.VLBINXM-user-15.0-962a6d004e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_in_global_zeus_in_global-ota_full-OS2.0.4.0.VLBINXM-user-15.0-962a6d004e.zip
+  filename: fw_zeus_in_global_zeus_in_global-ota_full-OS2.0.4.0.VLBINXM-user-15.0-962a6d004e.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.3.0.VLBINXM
+    miui: OS2.0.4.0.VLBINXM
