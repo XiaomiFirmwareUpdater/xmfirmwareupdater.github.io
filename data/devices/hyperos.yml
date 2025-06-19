@@ -9538,6 +9538,12 @@
   download: https://bigota.d.miui.com/OS2.0.1.0.VLHCNXM/fw_pearl_pearl-ota_full-OS2.0.1.0.VLHCNXM-user-15.0-de8d1cdd43.zip
   name: Redmi Note 12T Pro
   version: OS2.0.1.0.VLHCNXM
+- android: '15.0'
+  codename: pearl
+  date: '2025-06-19'
+  download: https://bigota.d.miui.com/OS2.0.8.0.VLHCNXM/fw_pearl_pearl-ota_full-OS2.0.8.0.VLHCNXM-user-15.0-8971f36f12.zip
+  name: Redmi Note 12T Pro
+  version: OS2.0.8.0.VLHCNXM
 - android: '14.0'
   codename: pearl
   date: '2025-01-17'
@@ -10720,6 +10726,30 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UMSCNXM/fw_redwood_miui_REDWOOD_OS1.0.7.0.UMSCNXM_87fd4a2a7d_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: OS1.0.7.0.UMSCNXM
+- android: '14.0'
+  codename: redwood
+  date: '2025-06-19'
+  download: https://bigota.d.miui.com/OS2.0.4.0.UMSEUXM/fw_redwood_eea_global_redwood_eea_global-ota_full-OS2.0.4.0.UMSEUXM-user-14.0-79bc490064.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS2.0.4.0.UMSEUXM
+- android: '14.0'
+  codename: redwood
+  date: '2025-06-19'
+  download: https://bigota.d.miui.com/OS2.0.4.0.UMSMIXM/fw_redwood_global_redwood_global-ota_full-OS2.0.4.0.UMSMIXM-user-14.0-dbfb6e0a66.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS2.0.4.0.UMSMIXM
+- android: '14.0'
+  codename: redwood
+  date: '2025-06-19'
+  download: https://bigota.d.miui.com/OS2.0.4.0.UMSINXM/fw_redwood_in_global_redwood_in_global-ota_full-OS2.0.4.0.UMSINXM-user-14.0-86c4d5eaa6.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS2.0.4.0.UMSINXM
+- android: '14.0'
+  codename: redwood
+  date: '2025-06-19'
+  download: https://bigota.d.miui.com/OS2.0.10.0.UMSCNXM/fw_redwood_redwood-ota_full-OS2.0.10.0.UMSCNXM-user-14.0-bf2b34dd6b.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS2.0.10.0.UMSCNXM
 - android: '14.0'
   codename: redwood
   date: '2024-09-18'
@@ -16540,6 +16570,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.ULBCNXM/fw_zeus_miui_ZEUS_OS1.0.7.0.ULBCNXM_3ffc892e83_14.0.zip
   name: Xiaomi 12 Pro
   version: OS1.0.7.0.ULBCNXM
+- android: '15.0'
+  codename: zeus
+  date: '2025-06-19'
+  download: https://bigota.d.miui.com/OS2.0.7.0.VLBEUXM/fw_zeus_eea_global_zeus_eea_global-ota_full-OS2.0.7.0.VLBEUXM-user-15.0-3e38051732.zip
+  name: Xiaomi 12 Pro
+  version: OS2.0.7.0.VLBEUXM
 - android: '15.0'
   codename: zeus
   date: '2025-06-19'

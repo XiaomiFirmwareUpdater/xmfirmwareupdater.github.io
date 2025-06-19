@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 19 Jun 2025 07:36:55 </lastBuildDate>
+        <lastBuildDate>Thu, 19 Jun 2025 13:58:29 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 12 (cupid) - OS2.0.4.0.VLCMIXM</title>
@@ -22,7 +22,37 @@
             <pubDate>Thu, 19 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Note 12T Pro (pearl) - OS2.0.8.0.VLHCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/pearl/</link>
+            <pubDate>Thu, 19 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS2.0.4.0.UMSMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
+            <pubDate>Thu, 19 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS2.0.10.0.UMSCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
+            <pubDate>Thu, 19 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS2.0.4.0.UMSEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
+            <pubDate>Thu, 19 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS2.0.4.0.UMSINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
+            <pubDate>Thu, 19 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Xiaomi 12 Pro (zeus) - OS2.0.9.0.VLBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
+            <pubDate>Thu, 19 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - OS2.0.7.0.VLBEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Thu, 19 Jun 2025 00:00:00 </pubDate>
         </item>
@@ -1082,11 +1112,6 @@
             <pubDate>Tue, 06 May 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS2.0.8.0.UMSCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
-            <pubDate>Tue, 06 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 (sapphire) - OS2.0.11.0.VNGMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sapphire/</link>
             <pubDate>Tue, 06 May 2025 00:00:00 </pubDate>
@@ -1099,11 +1124,6 @@
         <item>
             <title>Redmi Note 12 4G NFC (topaz) - OS2.0.10.0.VMGMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/topaz/</link>
-            <pubDate>Tue, 06 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Pro (zeus) - OS2.0.6.0.VLBEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Tue, 06 May 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1134,11 +1154,6 @@
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.10.0.UCVINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Mon, 28 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12T Pro (pearl) - OS2.0.7.0.VLHCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pearl/</link>
             <pubDate>Mon, 28 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1182,11 +1197,6 @@
             <pubDate>Fri, 25 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS2.0.3.0.UMSINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
-            <pubDate>Tue, 22 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.10.0.UCVMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/earth/</link>
             <pubDate>Mon, 21 Apr 2025 00:00:00 </pubDate>
@@ -1199,16 +1209,6 @@
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.9.0.UCVEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Mon, 21 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS2.0.3.0.UMSMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
-            <pubDate>Mon, 21 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS2.0.3.0.UMSEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
             <pubDate>Mon, 21 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>

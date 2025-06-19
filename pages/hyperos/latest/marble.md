@@ -61,15 +61,13 @@ permalink: /hyperos/marble/
 <tr><td>POCO F5 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.VMRIDXM</td><td>15.0</td><td>7.7 GB</td><td>2025-04-21</td><td><a href="/hyperos/marble/stable/OS2.0.3.0.VMRIDXM/">Download</a></td></tr>
 <tr><td>POCO F5 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VMRIDXM</td><td>15.0</td><td>5.5 GB</td><td>2025-05-13</td><td><a href="/hyperos/marble/stable/OS2.0.3.0.VMRIDXM/">Download</a></td></tr>
 <tr><td>POCO F5 India</td><td>Stable</td><td>Recovery</td><td>OS1.0.22.0.UMRINXM</td><td>14.0</td><td>4.9 GB</td><td>2025-04-02</td><td><a href="/hyperos/marble/stable/OS1.0.22.0.UMRINXM/">Download</a></td></tr>
-<tr><td>POCO F5 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.17.0.UMRTRXM</td><td>14.0</td><td>7.1 GB</td><td>2025-03-19</td><td><a href="/hyperos/marble/stable/OS1.0.17.0.UMRTRXM/">Download</a></td></tr>
+<tr><td>POCO F5 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.4.0.VMRTRXM</td><td>15.0</td><td>7.5 GB</td><td>2025-05-15</td><td><a href="/hyperos/marble/stable/OS2.0.4.0.VMRTRXM/">Download</a></td></tr>
+<tr><td>POCO F5 Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.4.0.VMRTRXM</td><td>15.0</td><td>5.5 GB</td><td>2025-06-10</td><td><a href="/hyperos/marble/stable/OS2.0.4.0.VMRTRXM/">Download</a></td></tr>
 <tr><td>POCO F5 India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.VMRINXM</td><td>15.0</td><td>6.8 GB</td><td>2025-04-18</td><td><a href="/hyperos/marble/stable/OS2.0.3.0.VMRINXM/">Download</a></td></tr>
 <tr><td>POCO F5 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.VMRRUXM</td><td>15.0</td><td>8.4 GB</td><td>2025-04-21</td><td><a href="/hyperos/marble/stable/OS2.0.3.0.VMRRUXM/">Download</a></td></tr>
 <tr><td>POCO F5 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VMRRUXM</td><td>15.0</td><td>5.4 GB</td><td>2025-04-29</td><td><a href="/hyperos/marble/stable/OS2.0.3.0.VMRRUXM/">Download</a></td></tr>
-<tr><td>POCO F5 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.4.0.VMRTRXM</td><td>15.0</td><td>5.5 GB</td><td>2025-06-10</td><td><a href="/hyperos/marble/stable beta/OS2.0.4.0.VMRTRXM/">Download</a></td></tr>
-<tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.16.0.UMRTWXM</td><td>14.0</td><td>6.7 GB</td><td>2025-03-19</td><td><a href="/hyperos/marble/stable/OS1.0.16.0.UMRTWXM/">Download</a></td></tr>
-<tr><td>POCO F5 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.4.0.VMRTWXM</td><td>15.0</td><td>5.4 GB</td><td>2025-06-10</td><td><a href="/hyperos/marble/stable beta/OS2.0.4.0.VMRTWXM/">Download</a></td></tr>
-<tr><td>POCO F5 Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VMRTRXM</td><td>15.0</td><td>5.5 GB</td><td>2025-04-29</td><td><a href="/hyperos/marble/stable/OS2.0.3.0.VMRTRXM/">Download</a></td></tr>
-<tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VMRTWXM</td><td>15.0</td><td>5.4 GB</td><td>2025-04-29</td><td><a href="/hyperos/marble/stable/OS2.0.3.0.VMRTWXM/">Download</a></td></tr>
+<tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.4.0.VMRTWXM</td><td>15.0</td><td>7.0 GB</td><td>2025-05-15</td><td><a href="/hyperos/marble/stable/OS2.0.4.0.VMRTWXM/">Download</a></td></tr>
+<tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.4.0.VMRTWXM</td><td>15.0</td><td>5.4 GB</td><td>2025-06-10</td><td><a href="/hyperos/marble/stable/OS2.0.4.0.VMRTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
