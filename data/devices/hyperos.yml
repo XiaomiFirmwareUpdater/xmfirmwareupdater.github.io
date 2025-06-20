@@ -6936,6 +6936,12 @@
   version: OS1.0.6.0.UKOCNXM
 - android: '14.0'
   codename: lisa
+  date: '2025-06-20'
+  download: https://bigota.d.miui.com/OS2.0.7.0.UKOCNXM/fw_lisa_lisa-ota_full-OS2.0.7.0.UKOCNXM-user-14.0-a1c8e4c09a.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.7.0.UKOCNXM
+- android: '14.0'
+  codename: lisa
   date: '2024-08-19'
   download: https://bigota.d.miui.com/OS1.0.5.0.UKOMIXM/fw_lisa_miui_LISAGlobal_OS1.0.5.0.UKOMIXM_5bb7b78a99_14.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
@@ -8530,6 +8536,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UMPMIXM/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.8.0.UMPMIXM_1b327cce13_14.0.zip
   name: POCO X5 5G
   version: OS1.0.8.0.UMPMIXM
+- android: '14.0'
+  codename: moonstone
+  date: '2025-06-20'
+  download: https://bigota.d.miui.com/OS1.0.18.0.UMPMIXM/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.18.0.UMPMIXM_84f7696541_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.18.0.UMPMIXM
 - android: '14.0'
   codename: moonstone
   date: '2024-04-20'
@@ -13984,6 +13996,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UOGEUXM/fw_tanzanite_miui_TANZANITEEEAGlobal_OS1.0.9.0.UOGEUXM_6553ef5eef_14.0.zip
   name: Redmi Note 14 4G
   version: OS1.0.9.0.UOGEUXM
+- android: '15.0'
+  codename: tanzanite
+  date: '2025-06-20'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VOGMIXM/fw_tanzanite_global_tanzanite_global-ota_full-OS2.0.4.0.VOGMIXM-user-15.0-02cc66cc4c.zip
+  name: Redmi Note 14 4G
+  version: OS2.0.4.0.VOGMIXM
 - android: '14.0'
   codename: tanzanite
   date: '2025-03-19'
@@ -14314,6 +14332,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.ULACNXM/fw_thor_miui_THOR_OS1.0.8.0.ULACNXM_2fdf7fa07d_14.0.zip
   name: Xiaomi 12S Ultra
   version: OS1.0.8.0.ULACNXM
+- android: '15.0'
+  codename: thor
+  date: '2025-06-20'
+  download: https://bigota.d.miui.com/OS2.0.13.0.VLACNXM/fw_thor_thor-ota_full-OS2.0.13.0.VLACNXM-user-15.0-85a03aebe3.zip
+  name: Xiaomi 12S Ultra
+  version: OS2.0.13.0.VLACNXM
 - android: '14.0'
   codename: thor
   date: '2024-04-18'
@@ -15880,6 +15904,12 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VOAINXM/fw_xuanyuan_in_global_xuanyuan_in_global-ota_full-OS2.0.2.0.VOAINXM-user-15.0-de5075c849.zip
   name: Xiaomi 15 Ultra
   version: OS2.0.2.0.VOAINXM
+- android: '15.0'
+  codename: xuanyuan
+  date: '2025-06-20'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VOACNXM/fw_xuanyuan_xuanyuan-ota_full-OS2.0.207.0.VOACNXM-user-15.0-a7c3fb1b3c.zip
+  name: Xiaomi 15 Ultra
+  version: OS2.0.207.0.VOACNXM
 - android: '15.0'
   codename: xuanyuan
   date: '2025-03-18'

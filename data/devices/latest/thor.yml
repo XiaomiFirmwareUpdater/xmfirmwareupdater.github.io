@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2025-05-06'
+  date: '2025-06-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-06.05.2025/fw_thor_thor-ota_full-OS2.0.12.0.VLACNXM-user-15.0-b2338392ee.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/thor/fw_thor_thor-ota_full-OS2.0.12.0.VLACNXM-user-15.0-b2338392ee.zip
-  filename: fw_thor_thor-ota_full-OS2.0.12.0.VLACNXM-user-15.0-b2338392ee.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-20.06.2025/fw_thor_thor-ota_full-OS2.0.13.0.VLACNXM-user-15.0-85a03aebe3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/thor/fw_thor_thor-ota_full-OS2.0.13.0.VLACNXM-user-15.0-85a03aebe3.zip
+  filename: fw_thor_thor-ota_full-OS2.0.13.0.VLACNXM-user-15.0-85a03aebe3.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.12.0.VLACNXM
+    miui: OS2.0.13.0.VLACNXM
