@@ -2454,6 +2454,12 @@
   version: OS2.0.121.0.VODCNXM
 - android: '15.0'
   codename: dijun
+  date: '2025-06-20'
+  download: https://bigota.d.miui.com/OS2.0.132.0.VODCNXM/fw_dijun_dijun-ota_full-OS2.0.132.0.VODCNXM-user-15.0-11be016805.zip
+  name: Xiaomi 15S Pro
+  version: OS2.0.132.0.VODCNXM
+- android: '15.0'
+  codename: dijun
   date: '2025-06-09'
   download: https://bigota.d.miui.com/OS2.0.128.0.VODCNXM/fw_dijun_dijun-ota_full-OS2.0.128.0.VODCNXM-user-15.0-f3d2fad6af.zip
   name: Xiaomi 15S Pro
@@ -12304,6 +12310,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UNGMIXM/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.6.0.UNGMIXM_298086a98b_14.0.zip
   name: Redmi Note 13
   version: OS1.0.6.0.UNGMIXM
+- android: '15.0'
+  codename: sapphire
+  date: '2025-06-20'
+  download: https://bigota.d.miui.com/OS2.0.12.0.VNGMIXM/fw_sapphire_global_sapphire_global-ota_full-OS2.0.12.0.VNGMIXM-user-15.0-0d83972b99.zip
+  name: Redmi Note 13
+  version: OS2.0.12.0.VNGMIXM
 - android: '14.0'
   codename: sapphire
   date: '2024-09-15'

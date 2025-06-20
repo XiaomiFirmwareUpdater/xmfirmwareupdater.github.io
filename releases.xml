@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 20 Jun 2025 14:19:08 </lastBuildDate>
+        <lastBuildDate>Fri, 20 Jun 2025 19:09:47 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 15S Pro (dijun) - OS2.0.132.0.VODCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dijun/</link>
+            <pubDate>Fri, 20 Jun 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.7.0.UKOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
@@ -14,6 +19,11 @@
         <item>
             <title>POCO X5 5G (moonstone) - OS1.0.18.0.UMPMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moonstone/</link>
+            <pubDate>Fri, 20 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 (sapphire) - OS2.0.12.0.VNGMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sapphire/</link>
             <pubDate>Fri, 20 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -315,11 +325,6 @@
             <title>Xiaomi Pad 7 (uke) - OS2.0.106.0.VOZEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/uke/</link>
             <pubDate>Tue, 10 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15S Pro (dijun) - OS2.0.128.0.VODCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dijun/</link>
-            <pubDate>Mon, 09 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS2.0.8.0.VNRINXM</title>
@@ -1114,11 +1119,6 @@
         <item>
             <title>Xiaomi 12T (plato) - OS2.0.7.0.VLQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/plato/</link>
-            <pubDate>Tue, 06 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 (sapphire) - OS2.0.11.0.VNGMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sapphire/</link>
             <pubDate>Tue, 06 May 2025 00:00:00 </pubDate>
         </item>
         <item>

@@ -1419,15 +1419,15 @@
     android: '15.0'
     miui: OS2.0.105.0.VNEEUXM
 - branch: stable
-  date: '2025-06-09'
+  date: '2025-06-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dijun/releases/download/stable-09.06.2025/fw_dijun_dijun-ota_full-OS2.0.128.0.VODCNXM-user-15.0-f3d2fad6af.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dijun/fw_dijun_dijun-ota_full-OS2.0.128.0.VODCNXM-user-15.0-f3d2fad6af.zip
-  filename: fw_dijun_dijun-ota_full-OS2.0.128.0.VODCNXM-user-15.0-f3d2fad6af.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dijun/releases/download/stable-20.06.2025/fw_dijun_dijun-ota_full-OS2.0.132.0.VODCNXM-user-15.0-11be016805.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dijun/fw_dijun_dijun-ota_full-OS2.0.132.0.VODCNXM-user-15.0-11be016805.zip
+  filename: fw_dijun_dijun-ota_full-OS2.0.132.0.VODCNXM-user-15.0-11be016805.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.128.0.VODCNXM
+    miui: OS2.0.132.0.VODCNXM
 - branch: stable
   date: '2021-12-27'
   downloads:
@@ -5239,15 +5239,15 @@
     android: '7.1'
     miui: 9.10.10
 - branch: stable
-  date: '2025-05-06'
+  date: '2025-06-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphire/releases/download/stable-06.05.2025/fw_sapphire_global_sapphire_global-ota_full-OS2.0.11.0.VNGMIXM-user-15.0-c9b31d1dfe.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sapphire/fw_sapphire_global_sapphire_global-ota_full-OS2.0.11.0.VNGMIXM-user-15.0-c9b31d1dfe.zip
-  filename: fw_sapphire_global_sapphire_global-ota_full-OS2.0.11.0.VNGMIXM-user-15.0-c9b31d1dfe.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphire/releases/download/stable-20.06.2025/fw_sapphire_global_sapphire_global-ota_full-OS2.0.12.0.VNGMIXM-user-15.0-0d83972b99.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sapphire/fw_sapphire_global_sapphire_global-ota_full-OS2.0.12.0.VNGMIXM-user-15.0-0d83972b99.zip
+  filename: fw_sapphire_global_sapphire_global-ota_full-OS2.0.12.0.VNGMIXM-user-15.0-0d83972b99.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.11.0.VNGMIXM
+    miui: OS2.0.12.0.VNGMIXM
 - branch: stable
   date: '2025-05-26'
   downloads:
