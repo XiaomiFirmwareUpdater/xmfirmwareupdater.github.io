@@ -2850,6 +2850,12 @@
   version: OS1.0.10.0.UNSMIXM
 - android: '15.0'
   codename: dizi
+  date: '2025-06-21'
+  download: https://bigota.d.miui.com/OS2.0.7.0.VNSEUXM/fw_dizi_eea_global_dizi_eea_global-ota_full-OS2.0.7.0.VNSEUXM-user-15.0-25be1f5030.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS2.0.7.0.VNSEUXM
+- android: '15.0'
+  codename: dizi
   date: '2025-04-21'
   download: https://bigota.d.miui.com/OS2.0.4.0.VNSEUXM/fw_dizi_eea_global_dizi_eea_global-ota_full-OS2.0.4.0.VNSEUXM-user-15.0-22720a053a.zip
   name: Redmi Pad Pro/POCO Pad
