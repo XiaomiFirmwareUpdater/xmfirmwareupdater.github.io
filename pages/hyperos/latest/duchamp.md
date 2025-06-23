@@ -72,6 +72,7 @@ permalink: /hyperos/duchamp/
 <tr><td>POCO X6 Pro 5G Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.10.0.UNLRUXM</td><td>14.0</td><td>5.4 GB</td><td>2024-12-10</td><td><a href="/hyperos/duchamp/stable beta/OS1.0.10.0.UNLRUXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VNLTWXM</td><td>15.0</td><td>7.6 GB</td><td>2025-05-14</td><td><a href="/hyperos/duchamp/stable/OS2.0.102.0.VNLTWXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VNLTWXM</td><td>15.0</td><td>5.6 GB</td><td>2025-04-28</td><td><a href="/hyperos/duchamp/stable/OS2.0.102.0.VNLTWXM/">Download</a></td></tr>
+<tr><td>POCO X6 Pro 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.103.0.VNLTWXM</td><td>15.0</td><td>5.6 GB</td><td>2025-06-12</td><td><a href="/hyperos/duchamp/stable beta/OS2.0.103.0.VNLTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
