@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 23 Jun 2025 14:03:20 </lastBuildDate>
+        <lastBuildDate>Mon, 23 Jun 2025 19:07:36 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS2.0.6.0.VNSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
+            <pubDate>Mon, 23 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.7.0.VNFMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
             <pubDate>Mon, 23 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -284,11 +289,6 @@
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.204.0.VNLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Wed, 11 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO M6 Pro (emeraldr) - OS1.0.8.0.UFOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/emeraldr/</link>
             <pubDate>Wed, 11 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
