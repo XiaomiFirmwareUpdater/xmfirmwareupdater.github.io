@@ -9178,6 +9178,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UMBCNXM/fw_nuwa_miui_NUWA_OS1.0.8.0.UMBCNXM_db7987aadb_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.8.0.UMBCNXM
+- android: '15.0'
+  codename: nuwa
+  date: '2025-06-23'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VMBCNXM/fw_nuwa_nuwa-ota_full-OS2.0.203.0.VMBCNXM-user-15.0-452801a3d4.zip
+  name: Xiaomi 13 Pro
+  version: OS2.0.203.0.VMBCNXM
 - android: '14.0'
   codename: nuwa
   date: '2024-06-24'
@@ -11200,6 +11206,12 @@
   download: https://bigota.d.miui.com/OS2.0.10.0.VOJMIXM/fw_rodin_global_rodin_global-ota_full-OS2.0.10.0.VOJMIXM-user-15.0-eed6f9b94d.zip
   name: Redmi Turbo 4/POCO X7 Pro
   version: OS2.0.10.0.VOJMIXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-06-23'
+  download: https://bigota.d.miui.com/OS2.0.103.0.VOJINXM/fw_rodin_in_global_rodin_in_global-ota_full-OS2.0.103.0.VOJINXM-user-15.0-f1bd573554.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.103.0.VOJINXM
 - android: '15.0'
   codename: rodin
   date: '2025-03-24'
@@ -15706,6 +15718,12 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.ULOINXM/fw_xaga_in_global_xaga_in_global-ota_full-OS2.0.2.0.ULOINXM-user-14.0-864f3ec2cb.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: OS2.0.2.0.ULOINXM
+- android: '14.0'
+  codename: xaga
+  date: '2025-06-23'
+  download: https://bigota.d.miui.com/OS2.0.6.0.ULOCNXM/fw_xaga_xaga-ota_full-OS2.0.6.0.ULOCNXM-user-14.0-b3772f6a3f.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS2.0.6.0.ULOCNXM
 - android: '14.0'
   codename: xaga
   date: '2025-03-24'
