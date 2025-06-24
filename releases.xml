@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 24 Jun 2025 18:35:55 </lastBuildDate>
+        <lastBuildDate>Wed, 25 Jun 2025 00:45:26 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>MIX Fold 3 (babylon) - OS2.0.202.0.VMVCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
+            <pubDate>Tue, 24 Jun 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS2.0.6.0.VOQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
@@ -839,11 +844,6 @@
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS2.0.104.0.VNAEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Mon, 26 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>MIX Fold 3 (babylon) - OS2.0.110.0.VMVCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
             <pubDate>Mon, 26 May 2025 00:00:00 </pubDate>
         </item>
         <item>
