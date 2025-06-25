@@ -1279,15 +1279,15 @@
     android: '15.0'
     miui: OS2.0.108.0.VOCINXM
 - branch: stable
-  date: '2025-05-23'
+  date: '2025-06-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dagu/releases/download/stable-23.05.2025/fw_dagu_dagu-ota_full-OS2.0.8.0.ULZCNXM-user-14.0-eaf8e895af.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dagu/fw_dagu_dagu-ota_full-OS2.0.8.0.ULZCNXM-user-14.0-eaf8e895af.zip
-  filename: fw_dagu_dagu-ota_full-OS2.0.8.0.ULZCNXM-user-14.0-eaf8e895af.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dagu/releases/download/stable-25.06.2025/fw_dagu_dagu-ota_full-OS2.0.9.0.ULZCNXM-user-14.0-512aaf3699.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dagu/fw_dagu_dagu-ota_full-OS2.0.9.0.ULZCNXM-user-14.0-512aaf3699.zip
+  filename: fw_dagu_dagu-ota_full-OS2.0.9.0.ULZCNXM-user-14.0-512aaf3699.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS2.0.8.0.ULZCNXM
+    miui: OS2.0.9.0.ULZCNXM
 - branch: stable
   date: '2021-07-13'
   downloads:
@@ -3119,15 +3119,15 @@
     android: '14.0'
     miui: OS2.0.2.0.UKOEUXM
 - branch: stable
-  date: '2025-05-27'
+  date: '2025-06-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-27.05.2025/fw_lisa_in_global_lisa_in_global-ota_full-OS2.0.2.0.UKOINXM-user-14.0-3840359301.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lisa/fw_lisa_in_global_lisa_in_global-ota_full-OS2.0.2.0.UKOINXM-user-14.0-3840359301.zip
-  filename: fw_lisa_in_global_lisa_in_global-ota_full-OS2.0.2.0.UKOINXM-user-14.0-3840359301.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-25.06.2025/fw_lisa_in_global_lisa_in_global-ota_full-OS2.0.3.0.UKOINXM-user-14.0-574117ba58.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lisa/fw_lisa_in_global_lisa_in_global-ota_full-OS2.0.3.0.UKOINXM-user-14.0-574117ba58.zip
+  filename: fw_lisa_in_global_lisa_in_global-ota_full-OS2.0.3.0.UKOINXM-user-14.0-574117ba58.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS2.0.2.0.UKOINXM
+    miui: OS2.0.3.0.UKOINXM
 - branch: stable
   date: '2019-11-08'
   downloads:
@@ -3899,15 +3899,15 @@
     android: '15.0'
     miui: OS2.0.104.0.VMBINXM
 - branch: stable
-  date: '2025-05-22'
+  date: '2025-06-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_obsidian/releases/download/stable-22.05.2025/fw_obsidian_global_obsidian_global-ota_full-OS2.0.5.0.VOFMIXM-user-15.0-bcda53812b.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/obsidian/fw_obsidian_global_obsidian_global-ota_full-OS2.0.5.0.VOFMIXM-user-15.0-bcda53812b.zip
-  filename: fw_obsidian_global_obsidian_global-ota_full-OS2.0.5.0.VOFMIXM-user-15.0-bcda53812b.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_obsidian/releases/download/stable-25.06.2025/fw_obsidian_global_obsidian_global-ota_full-OS2.0.6.0.VOFMIXM-user-15.0-c1c65e24e4.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/obsidian/fw_obsidian_global_obsidian_global-ota_full-OS2.0.6.0.VOFMIXM-user-15.0-c1c65e24e4.zip
+  filename: fw_obsidian_global_obsidian_global-ota_full-OS2.0.6.0.VOFMIXM-user-15.0-c1c65e24e4.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.5.0.VOFMIXM
+    miui: OS2.0.6.0.VOFMIXM
 - branch: stable
   date: '2025-05-21'
   downloads:

@@ -4,11 +4,26 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 25 Jun 2025 06:43:49 </lastBuildDate>
+        <lastBuildDate>Wed, 25 Jun 2025 13:34:14 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Pad 5 Pro 12.4 (dagu) - OS2.0.9.0.ULZCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dagu/</link>
+            <pubDate>Wed, 25 Jun 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 13 (fuxi) - OS2.0.203.0.VMCCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
+            <pubDate>Wed, 25 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.3.0.UKOINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
+            <pubDate>Wed, 25 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro 4G (obsidian) - OS2.0.6.0.VOFMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
             <pubDate>Wed, 25 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -822,11 +837,6 @@
             <pubDate>Tue, 27 May 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.2.0.UKOINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
-            <pubDate>Tue, 27 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS2.0.6.0.VOOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
             <pubDate>Tue, 27 May 2025 00:00:00 </pubDate>
@@ -917,11 +927,6 @@
             <pubDate>Sat, 24 May 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 5 Pro 12.4 (dagu) - OS2.0.8.0.ULZCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dagu/</link>
-            <pubDate>Fri, 23 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS2.0.4.0.VGUCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flame/</link>
             <pubDate>Fri, 23 May 2025 00:00:00 </pubDate>
@@ -944,11 +949,6 @@
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS2.0.104.0.VNAINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Thu, 22 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 Pro 4G (obsidian) - OS2.0.5.0.VOFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
             <pubDate>Thu, 22 May 2025 00:00:00 </pubDate>
         </item>
         <item>
