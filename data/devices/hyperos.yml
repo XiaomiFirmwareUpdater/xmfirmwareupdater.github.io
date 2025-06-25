@@ -4338,6 +4338,12 @@
   version: OS2.0.108.0.VMCCNXM
 - android: '15.0'
   codename: fuxi
+  date: '2025-06-25'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VMCCNXM/fw_fuxi_fuxi-ota_full-OS2.0.203.0.VMCCNXM-user-15.0-c635d55d5c.zip
+  name: Xiaomi 13
+  version: OS2.0.203.0.VMCCNXM
+- android: '15.0'
+  codename: fuxi
   date: '2025-01-24'
   download: https://bigota.d.miui.com/OS2.0.100.0.VMCCNXM/fw_fuxi_fuxi-ota_full-OS2.0.100.0.VMCCNXM-user-15.0-136d06a2d1.zip
   name: Xiaomi 13

@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 25 Jun 2025 00:45:26 </lastBuildDate>
+        <lastBuildDate>Wed, 25 Jun 2025 06:43:49 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13 (fuxi) - OS2.0.203.0.VMCCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
+            <pubDate>Wed, 25 Jun 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>MIX Fold 3 (babylon) - OS2.0.202.0.VMVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
@@ -1174,11 +1179,6 @@
         <item>
             <title>Redmi 12 (fire) - OS2.0.4.0.VMXINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fire/</link>
-            <pubDate>Sun, 27 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 (fuxi) - OS2.0.108.0.VMCCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
             <pubDate>Sun, 27 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
