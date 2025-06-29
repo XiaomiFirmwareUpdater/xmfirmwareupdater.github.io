@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-05-28'
+  date: '2025-06-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-28.05.2025/fw_lisa_global_lisa_global-ota_full-OS2.0.2.0.UKOMIXM-user-14.0-9078c0c360.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lisa/fw_lisa_global_lisa_global-ota_full-OS2.0.2.0.UKOMIXM-user-14.0-9078c0c360.zip
-  filename: fw_lisa_global_lisa_global-ota_full-OS2.0.2.0.UKOMIXM-user-14.0-9078c0c360.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-26.06.2025/fw_lisa_global_lisa_global-ota_full-OS2.0.3.0.UKOMIXM-user-14.0-e2580e552b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lisa/fw_lisa_global_lisa_global-ota_full-OS2.0.3.0.UKOMIXM-user-14.0-e2580e552b.zip
+  filename: fw_lisa_global_lisa_global-ota_full-OS2.0.3.0.UKOMIXM-user-14.0-e2580e552b.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS2.0.2.0.UKOMIXM
+    miui: OS2.0.3.0.UKOMIXM
 - branch: stable
   date: '2025-06-20'
   downloads:
@@ -29,15 +29,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2025-05-30'
+  date: '2025-06-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-30.05.2025/fw_lisa_eea_global_lisa_eea_global-ota_full-OS2.0.2.0.UKOEUXM-user-14.0-5092f15ee6.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lisa/fw_lisa_eea_global_lisa_eea_global-ota_full-OS2.0.2.0.UKOEUXM-user-14.0-5092f15ee6.zip
-  filename: fw_lisa_eea_global_lisa_eea_global-ota_full-OS2.0.2.0.UKOEUXM-user-14.0-5092f15ee6.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-26.06.2025/fw_lisa_eea_global_lisa_eea_global-ota_full-OS2.0.3.0.UKOEUXM-user-14.0-9f71341662.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lisa/fw_lisa_eea_global_lisa_eea_global-ota_full-OS2.0.3.0.UKOEUXM-user-14.0-9f71341662.zip
+  filename: fw_lisa_eea_global_lisa_eea_global-ota_full-OS2.0.3.0.UKOEUXM-user-14.0-9f71341662.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS2.0.2.0.UKOEUXM
+    miui: OS2.0.3.0.UKOEUXM
 - branch: stable
   date: '2025-06-25'
   downloads:

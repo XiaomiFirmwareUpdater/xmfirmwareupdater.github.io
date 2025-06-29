@@ -1,7 +1,7 @@
 ---
-title: Redmi Turbo 4 Pro (onyx) Firmware Downloads
+title: Redmi Turbo 4 Pro/POCO F7 (onyx) Firmware Downloads
 layout: download
-name: Redmi Turbo 4 Pro
+name: Redmi Turbo 4 Pro/POCO F7
 codename: onyx
 permalink: /archive/firmware/onyx/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/onyx/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/onyx/">Redmi Turbo 4 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/onyx/">Redmi Turbo 4 Pro/POCO F7</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

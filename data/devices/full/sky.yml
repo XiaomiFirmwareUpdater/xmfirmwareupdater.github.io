@@ -69,6 +69,36 @@
     android: '13.0'
     miui: V14.0.8.0.TMWCNXM
 - branch: stable
+  date: '2025-06-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-27.06.2025/fw_sky_eea_global_sky_eea_global-ota_full-OS2.0.9.0.VMWEUXM-user-15.0-89ce298b4d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sky/fw_sky_eea_global_sky_eea_global-ota_full-OS2.0.9.0.VMWEUXM-user-15.0-89ce298b4d.zip
+  filename: fw_sky_eea_global_sky_eea_global-ota_full-OS2.0.9.0.VMWEUXM-user-15.0-89ce298b4d.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.9.0.VMWEUXM
+- branch: stable
+  date: '2025-06-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-27.06.2025/fw_sky_global_sky_global-ota_full-OS2.0.9.0.VMWMIXM-user-15.0-60b0ee9770.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sky/fw_sky_global_sky_global-ota_full-OS2.0.9.0.VMWMIXM-user-15.0-60b0ee9770.zip
+  filename: fw_sky_global_sky_global-ota_full-OS2.0.9.0.VMWMIXM-user-15.0-60b0ee9770.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.9.0.VMWMIXM
+- branch: stable
+  date: '2025-06-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-27.06.2025/fw_sky_in_global_sky_in_global-ota_full-OS2.0.9.0.VMWINXM-user-15.0-8ead68c725.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sky/fw_sky_in_global_sky_in_global-ota_full-OS2.0.9.0.VMWINXM-user-15.0-8ead68c725.zip
+  filename: fw_sky_in_global_sky_in_global-ota_full-OS2.0.9.0.VMWINXM-user-15.0-8ead68c725.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.9.0.VMWINXM
+- branch: stable
   date: '2024-01-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-27.01.2024/fw_sky_miui_SKYGlobal_OS1.0.3.0.UMWMIXM_1e2037e27c_14.0.zip

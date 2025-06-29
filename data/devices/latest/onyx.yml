@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2025-06-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-27.06.2025/fw_onyx_global_onyx_global-ota_full-OS2.0.102.0.VOLMIXM-user-15.0-a6f16bccbc.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/onyx/fw_onyx_global_onyx_global-ota_full-OS2.0.102.0.VOLMIXM-user-15.0-a6f16bccbc.zip
+  filename: fw_onyx_global_onyx_global-ota_full-OS2.0.102.0.VOLMIXM-user-15.0-a6f16bccbc.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.102.0.VOLMIXM
+- branch: stable
   date: '2025-06-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-25.06.2025/fw_onyx_onyx-ota_full-OS2.0.207.0.VOLCNXM-user-15.0-5d0eded270.zip
@@ -8,3 +18,23 @@
   versions:
     android: '15.0'
     miui: OS2.0.207.0.VOLCNXM
+- branch: stable
+  date: '2025-06-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-26.06.2025/fw_onyx_eea_global_onyx_eea_global-ota_full-OS2.0.103.0.VOLEUXM-user-15.0-795f6e1455.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/onyx/fw_onyx_eea_global_onyx_eea_global-ota_full-OS2.0.103.0.VOLEUXM-user-15.0-795f6e1455.zip
+  filename: fw_onyx_eea_global_onyx_eea_global-ota_full-OS2.0.103.0.VOLEUXM-user-15.0-795f6e1455.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.103.0.VOLEUXM
+- branch: stable
+  date: '2025-06-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-26.06.2025/fw_onyx_in_global_onyx_in_global-ota_full-OS2.0.101.0.VOLINXM-user-15.0-98013df2e2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/onyx/fw_onyx_in_global_onyx_in_global-ota_full-OS2.0.101.0.VOLINXM-user-15.0-98013df2e2.zip
+  filename: fw_onyx_in_global_onyx_in_global-ota_full-OS2.0.101.0.VOLINXM-user-15.0-98013df2e2.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.101.0.VOLINXM

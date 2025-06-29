@@ -52,8 +52,8 @@ permalink: /hyperos/garnet/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 13 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.7.0.VNRCNXM</td><td>15.0</td><td>8.0 GB</td><td>2025-04-24</td><td><a href="/hyperos/garnet/stable/OS2.0.7.0.VNRCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>OS2.0.7.0.VNRCNXM</td><td>15.0</td><td>6.0 GB</td><td>2025-05-06</td><td><a href="/hyperos/garnet/stable/OS2.0.7.0.VNRCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 13 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.9.0.VNRCNXM</td><td>15.0</td><td>8.0 GB</td><td>2025-06-02</td><td><a href="/hyperos/garnet/stable/OS2.0.9.0.VNRCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>OS2.0.9.0.VNRCNXM</td><td>15.0</td><td>6.0 GB</td><td>2025-06-12</td><td><a href="/hyperos/garnet/stable/OS2.0.9.0.VNRCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 5G / POCO X6 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.11.0.VNREUXM</td><td>15.0</td><td>8.1 GB</td><td>2025-05-16</td><td><a href="/hyperos/garnet/stable/OS2.0.11.0.VNREUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 5G / POCO X6 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.11.0.VNREUXM</td><td>15.0</td><td>5.5 GB</td><td>2025-05-28</td><td><a href="/hyperos/garnet/stable/OS2.0.11.0.VNREUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 5G / POCO X6 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.10.0.VNRMIXM</td><td>15.0</td><td>8.7 GB</td><td>2025-05-07</td><td><a href="/hyperos/garnet/stable/OS2.0.10.0.VNRMIXM/">Download</a></td></tr>

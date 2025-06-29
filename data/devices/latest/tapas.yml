@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-04-02'
+  date: '2025-06-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-02.04.2025/fw_tapas_global_tapas_global-ota_full-OS2.0.11.0.VMTMIXM-user-15.0-eafcb8922d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/tapas/fw_tapas_global_tapas_global-ota_full-OS2.0.11.0.VMTMIXM-user-15.0-eafcb8922d.zip
-  filename: fw_tapas_global_tapas_global-ota_full-OS2.0.11.0.VMTMIXM-user-15.0-eafcb8922d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-27.06.2025/fw_tapas_global_tapas_global-ota_full-OS2.0.12.0.VMTMIXM-user-15.0-589efed2ad.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/tapas/fw_tapas_global_tapas_global-ota_full-OS2.0.12.0.VMTMIXM-user-15.0-589efed2ad.zip
+  filename: fw_tapas_global_tapas_global-ota_full-OS2.0.12.0.VMTMIXM-user-15.0-589efed2ad.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.11.0.VMTMIXM
+    miui: OS2.0.12.0.VMTMIXM
 - branch: stable
   date: '2025-06-04'
   downloads:

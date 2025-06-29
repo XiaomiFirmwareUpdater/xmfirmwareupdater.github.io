@@ -1,7 +1,7 @@
 ---
-title: Redmi Turbo 4 Pro (onyx) HyperOS Downloads
+title: Redmi Turbo 4 Pro/POCO F7 (onyx) HyperOS Downloads
 layout: download
-name: Redmi Turbo 4 Pro
+name: Redmi Turbo 4 Pro/POCO F7
 codename: onyx
 permalink: /archive/hyperos/onyx/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/hyperos/onyx/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/onyx/">Redmi Turbo 4 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/onyx/">Redmi Turbo 4 Pro/POCO F7</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -52,14 +52,26 @@ permalink: /archive/hyperos/onyx/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Turbo 4 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VOLCNXM</td><td>15.0</td><td>7.9 GB</td><td>2025-06-18</td><td><a href="/hyperos/onyx/stable/OS2.0.207.0.VOLCNXM/">Download</a></td></tr>
+                <tr><td>POCO F7 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VOLMIXM</td><td>15.0</td><td>6.8 GB</td><td>2025-06-27</td><td><a href="/hyperos/onyx/stable/OS2.0.102.0.VOLMIXM/">Download</a></td></tr>
+<tr><td>POCO F7 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VOLMIXM</td><td>15.0</td><td>10.1 GB</td><td>2025-06-12</td><td><a href="/hyperos/onyx/stable/OS2.0.102.0.VOLMIXM/">Download</a></td></tr>
+<tr><td>POCO F7 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.103.0.VOLEUXM</td><td>15.0</td><td>6.8 GB</td><td>2025-06-26</td><td><a href="/hyperos/onyx/stable/OS2.0.103.0.VOLEUXM/">Download</a></td></tr>
+<tr><td>POCO F7 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.103.0.VOLEUXM</td><td>15.0</td><td>9.5 GB</td><td>2025-06-06</td><td><a href="/hyperos/onyx/stable/OS2.0.103.0.VOLEUXM/">Download</a></td></tr>
+<tr><td>POCO F7 India</td><td>Stable</td><td>Recovery</td><td>OS2.0.101.0.VOLINXM</td><td>15.0</td><td>6.5 GB</td><td>2025-06-26</td><td><a href="/hyperos/onyx/stable/OS2.0.101.0.VOLINXM/">Download</a></td></tr>
+<tr><td>POCO F7 India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VOLINXM</td><td>15.0</td><td>8.6 GB</td><td>2025-06-12</td><td><a href="/hyperos/onyx/stable/OS2.0.101.0.VOLINXM/">Download</a></td></tr>
+<tr><td>POCO F7 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.101.0.VOLTWXM</td><td>15.0</td><td>6.7 GB</td><td>2025-06-25</td><td><a href="/hyperos/onyx/stable/OS2.0.101.0.VOLTWXM/">Download</a></td></tr>
+<tr><td>POCO F7 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VOLTWXM</td><td>15.0</td><td>8.5 GB</td><td>2025-06-12</td><td><a href="/hyperos/onyx/stable/OS2.0.101.0.VOLTWXM/">Download</a></td></tr>
+<tr><td>POCO F7 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.101.0.VOLIDXM</td><td>15.0</td><td>6.8 GB</td><td>2025-06-25</td><td><a href="/hyperos/onyx/stable/OS2.0.101.0.VOLIDXM/">Download</a></td></tr>
+<tr><td>POCO F7 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VOLIDXM</td><td>15.0</td><td>9.3 GB</td><td>2025-06-12</td><td><a href="/hyperos/onyx/stable/OS2.0.101.0.VOLIDXM/">Download</a></td></tr>
+<tr><td>POCO F7 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.101.0.VOLRUXM</td><td>15.0</td><td>6.8 GB</td><td>2025-06-25</td><td><a href="/hyperos/onyx/stable/OS2.0.101.0.VOLRUXM/">Download</a></td></tr>
+<tr><td>POCO F7 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VOLRUXM</td><td>15.0</td><td>10.1 GB</td><td>2025-06-12</td><td><a href="/hyperos/onyx/stable/OS2.0.101.0.VOLRUXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 4 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VOLCNXM</td><td>15.0</td><td>7.9 GB</td><td>2025-06-18</td><td><a href="/hyperos/onyx/stable/OS2.0.207.0.VOLCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 4 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VOLCNXM</td><td>15.0</td><td>10.0 GB</td><td>2025-06-11</td><td><a href="/hyperos/onyx/stable/OS2.0.207.0.VOLCNXM/">Download</a></td></tr>
-<tr><td>Redmi Turbo 4 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VOLCNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-06-04</td><td><a href="/hyperos/onyx/stable/OS2.0.206.0.VOLCNXM/">Download</a></td></tr>
-<tr><td>Redmi Turbo 4 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VOLCNXM</td><td>15.0</td><td>9.9 GB</td><td>2025-05-30</td><td><a href="/hyperos/onyx/stable/OS2.0.206.0.VOLCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 4 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.130.0.VOLCNXM</td><td>15.0</td><td>7.9 GB</td><td>2025-05-16</td><td><a href="/hyperos/onyx/stable/OS2.0.130.0.VOLCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 4 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.130.0.VOLCNXM</td><td>15.0</td><td>10.0 GB</td><td>2025-05-15</td><td><a href="/hyperos/onyx/stable/OS2.0.130.0.VOLCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 4 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.127.0.VOLCNXM</td><td>15.0</td><td>9.9 GB</td><td>2025-05-12</td><td><a href="/hyperos/onyx/stable/OS2.0.127.0.VOLCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 4 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.127.0.VOLCNXM</td><td>15.0</td><td>7.9 GB</td><td>2025-05-11</td><td><a href="/hyperos/onyx/stable/OS2.0.127.0.VOLCNXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 4 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VOLCNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-06-04</td><td><a href="/hyperos/onyx/stable/OS2.0.206.0.VOLCNXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 4 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VOLCNXM</td><td>15.0</td><td>9.9 GB</td><td>2025-05-30</td><td><a href="/hyperos/onyx/stable/OS2.0.206.0.VOLCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 4 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.126.0.VOLCNXM</td><td>15.0</td><td>9.9 GB</td><td>2025-05-10</td><td><a href="/hyperos/onyx/stable/OS2.0.126.0.VOLCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 4 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.126.0.VOLCNXM</td><td>15.0</td><td>7.9 GB</td><td>2025-05-09</td><td><a href="/hyperos/onyx/stable/OS2.0.126.0.VOLCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 4 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.124.0.VOLCNXM</td><td>15.0</td><td>9.9 GB</td><td>2025-05-07</td><td><a href="/hyperos/onyx/stable/OS2.0.124.0.VOLCNXM/">Download</a></td></tr>

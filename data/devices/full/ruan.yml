@@ -89,6 +89,36 @@
     android: '14.0'
     miui: OS1.0.6.0.UFSCNXM
 - branch: stable
+  date: '2025-06-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-27.06.2025/fw_ruan_eea_global_ruan_eea_global-ota_full-OS2.0.201.0.VFSEUXM-user-15.0-afdda0257c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruan/fw_ruan_eea_global_ruan_eea_global-ota_full-OS2.0.201.0.VFSEUXM-user-15.0-afdda0257c.zip
+  filename: fw_ruan_eea_global_ruan_eea_global-ota_full-OS2.0.201.0.VFSEUXM-user-15.0-afdda0257c.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.201.0.VFSEUXM
+- branch: stable
+  date: '2025-06-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-27.06.2025/fw_ruan_global_ruan_global-ota_full-OS2.0.5.0.VFSMIXM-user-15.0-9a9c51ae4a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruan/fw_ruan_global_ruan_global-ota_full-OS2.0.5.0.VFSMIXM-user-15.0-9a9c51ae4a.zip
+  filename: fw_ruan_global_ruan_global-ota_full-OS2.0.5.0.VFSMIXM-user-15.0-9a9c51ae4a.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.5.0.VFSMIXM
+- branch: stable
+  date: '2025-06-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-27.06.2025/fw_ruan_in_global_ruan_in_global-ota_full-OS2.0.4.0.VFSINXM-user-15.0-c587cb38b2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruan/fw_ruan_in_global_ruan_in_global-ota_full-OS2.0.4.0.VFSINXM-user-15.0-c587cb38b2.zip
+  filename: fw_ruan_in_global_ruan_in_global-ota_full-OS2.0.4.0.VFSINXM-user-15.0-c587cb38b2.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.4.0.VFSINXM
+- branch: stable
   date: '2025-04-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-27.04.2025/fw_ruan_ruan-ota_full-OS2.0.5.0.VFSCNXM-user-15.0-04a7d5b1de.zip
