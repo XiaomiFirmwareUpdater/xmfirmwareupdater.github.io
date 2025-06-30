@@ -58,12 +58,16 @@ permalink: /hyperos/ziyi/
 <tr><td>Xiaomi Civi 2 / 13 Lite EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.7.0.VLLEUXM</td><td>15.0</td><td>5.7 GB</td><td>2025-05-26</td><td><a href="/hyperos/ziyi/stable/OS2.0.7.0.VLLEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.5.0.VLLMIXM</td><td>15.0</td><td>7.2 GB</td><td>2025-05-06</td><td><a href="/hyperos/ziyi/stable/OS2.0.5.0.VLLMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.VLLMIXM</td><td>15.0</td><td>5.6 GB</td><td>2025-05-16</td><td><a href="/hyperos/ziyi/stable/OS2.0.5.0.VLLMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 2 / 13 Lite Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.6.0.VLLMIXM</td><td>15.0</td><td>5.6 GB</td><td>2025-06-19</td><td><a href="/hyperos/ziyi/stable beta/OS2.0.6.0.VLLMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.5.0.VLLRUXM</td><td>15.0</td><td>7.1 GB</td><td>2025-05-06</td><td><a href="/hyperos/ziyi/stable/OS2.0.5.0.VLLRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.VLLRUXM</td><td>15.0</td><td>5.5 GB</td><td>2025-05-16</td><td><a href="/hyperos/ziyi/stable/OS2.0.5.0.VLLRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 2 / 13 Lite Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.6.0.VLLRUXM</td><td>15.0</td><td>5.5 GB</td><td>2025-06-19</td><td><a href="/hyperos/ziyi/stable beta/OS2.0.6.0.VLLRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Lite Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.4.0.VLLTRXM</td><td>15.0</td><td>6.9 GB</td><td>2025-05-12</td><td><a href="/hyperos/ziyi/stable/OS2.0.4.0.VLLTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Lite Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.4.0.VLLTRXM</td><td>15.0</td><td>5.6 GB</td><td>2025-05-19</td><td><a href="/hyperos/ziyi/stable/OS2.0.4.0.VLLTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Lite Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.5.0.VLLTRXM</td><td>15.0</td><td>5.6 GB</td><td>2025-06-24</td><td><a href="/hyperos/ziyi/stable beta/OS2.0.5.0.VLLTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.4.0.VLLTWXM</td><td>15.0</td><td>6.8 GB</td><td>2025-05-06</td><td><a href="/hyperos/ziyi/stable/OS2.0.4.0.VLLTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.4.0.VLLTWXM</td><td>15.0</td><td>5.4 GB</td><td>2025-05-16</td><td><a href="/hyperos/ziyi/stable/OS2.0.4.0.VLLTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.5.0.VLLTWXM</td><td>15.0</td><td>5.4 GB</td><td>2025-06-24</td><td><a href="/hyperos/ziyi/stable beta/OS2.0.5.0.VLLTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

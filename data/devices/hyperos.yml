@@ -14862,6 +14862,12 @@
   version: OS2.0.8.0.VMGMIXM
 - android: '15.0'
   codename: turner
+  date: '2025-06-30'
+  download: https://bigota.d.miui.com/OS2.0.211.0.VAOCNXM/fw_turner_turner-ota_full-OS2.0.211.0.VAOCNXM-user-15.0-6e2c8b7f5f.zip
+  name: Redmi K Pad
+  version: OS2.0.211.0.VAOCNXM
+- android: '15.0'
+  codename: turner
   date: '2025-06-27'
   download: https://bigota.d.miui.com/OS2.0.208.0.VAOCNXM/fw_turner_turner-ota_full-OS2.0.208.0.VAOCNXM-user-15.0-74daccb165.zip
   name: Redmi K Pad
