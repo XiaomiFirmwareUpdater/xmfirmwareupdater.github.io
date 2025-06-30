@@ -29,6 +29,16 @@
     android: '15.0'
     miui: OS2.0.12.0.VOCCNXM
 - branch: stable
+  date: '2025-06-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dada/releases/download/stable-30.06.2025/fw_dada_eea_global_dada_eea_global-ota_full-OS2.0.201.0.VOCEUXM-user-15.0-9229e6cb79.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dada/fw_dada_eea_global_dada_eea_global-ota_full-OS2.0.201.0.VOCEUXM-user-15.0-9229e6cb79.zip
+  filename: fw_dada_eea_global_dada_eea_global-ota_full-OS2.0.201.0.VOCEUXM-user-15.0-9229e6cb79.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.201.0.VOCEUXM
+- branch: stable
   date: '2025-05-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dada/releases/download/stable-28.05.2025/fw_dada_in_global_dada_in_global-ota_full-OS2.0.108.0.VOCINXM-user-15.0-1b328f15e4.zip

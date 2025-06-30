@@ -52,9 +52,8 @@ permalink: /hyperos/emerald/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.VNFEUXM</td><td>15.0</td><td>7.4 GB</td><td>2025-05-09</td><td><a href="/hyperos/emerald/stable/OS2.0.3.0.VNFEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VNFEUXM</td><td>15.0</td><td>4.8 GB</td><td>2025-05-20</td><td><a href="/hyperos/emerald/stable/OS2.0.3.0.VNFEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.4.0.VNFEUXM</td><td>15.0</td><td>4.8 GB</td><td>2025-06-16</td><td><a href="/hyperos/emerald/stable beta/OS2.0.4.0.VNFEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.4.0.VNFEUXM</td><td>15.0</td><td>7.3 GB</td><td>2025-05-28</td><td><a href="/hyperos/emerald/stable/OS2.0.4.0.VNFEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.4.0.VNFEUXM</td><td>15.0</td><td>4.8 GB</td><td>2025-06-16</td><td><a href="/hyperos/emerald/stable/OS2.0.4.0.VNFEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.7.0.VNFMIXM</td><td>15.0</td><td>7.9 GB</td><td>2025-05-20</td><td><a href="/hyperos/emerald/stable/OS2.0.7.0.VNFMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.7.0.VNFMIXM</td><td>15.0</td><td>4.8 GB</td><td>2025-06-11</td><td><a href="/hyperos/emerald/stable/OS2.0.7.0.VNFMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.4.0.VNFIDXM</td><td>15.0</td><td>7.1 GB</td><td>2025-05-20</td><td><a href="/hyperos/emerald/stable/OS2.0.4.0.VNFIDXM/">Download</a></td></tr>

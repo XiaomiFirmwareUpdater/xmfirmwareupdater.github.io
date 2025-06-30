@@ -57,10 +57,14 @@ permalink: /hyperos/taiko/
 <tr><td>Redmi Pad 2 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.102.0.VOVEUXM</td><td>15.0</td><td>486 Bytes</td><td>None</td><td><a href="/hyperos/taiko/stable beta/OS2.0.102.0.VOVEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.103.0.VOVMIXM</td><td>15.0</td><td>6.0 GB</td><td>2025-05-27</td><td><a href="/hyperos/taiko/stable/OS2.0.103.0.VOVMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.103.0.VOVMIXM</td><td>15.0</td><td>4.4 GB</td><td>None</td><td><a href="/hyperos/taiko/stable/OS2.0.103.0.VOVMIXM/">Download</a></td></tr>
-<tr><td>Redmi Pad 2 India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.100.0.VOVINXM</td><td>15.0</td><td>498 Bytes</td><td>2025-05-11</td><td><a href="/hyperos/taiko/stable/OS2.0.100.0.VOVINXM/">Download</a></td></tr>
-<tr><td>Redmi Pad 2 India</td><td>Stable</td><td>Recovery</td><td>OS2.0.100.0.VOVINXM</td><td>15.0</td><td>4.2 GB</td><td>None</td><td><a href="/hyperos/taiko/stable/OS2.0.100.0.VOVINXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.104.0.VOVIDXM</td><td>15.0</td><td>5.8 GB</td><td>2025-06-05</td><td><a href="/hyperos/taiko/stable/OS2.0.104.0.VOVIDXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.104.0.VOVIDXM</td><td>15.0</td><td>4.4 GB</td><td>2025-06-30</td><td><a href="/hyperos/taiko/stable/OS2.0.104.0.VOVIDXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VOVTWXM</td><td>15.0</td><td>5.7 GB</td><td>2025-06-11</td><td><a href="/hyperos/taiko/stable/OS2.0.102.0.VOVTWXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VOVTWXM</td><td>15.0</td><td>4.3 GB</td><td>2025-06-20</td><td><a href="/hyperos/taiko/stable/OS2.0.102.0.VOVTWXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.100.0.VOVINXM</td><td>15.0</td><td>498 Bytes</td><td>2025-05-11</td><td><a href="/hyperos/taiko/stable/OS2.0.100.0.VOVINXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 India</td><td>Stable</td><td>Recovery</td><td>OS2.0.100.0.VOVINXM</td><td>15.0</td><td>4.2 GB</td><td>None</td><td><a href="/hyperos/taiko/stable/OS2.0.100.0.VOVINXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VOVTRXM</td><td>15.0</td><td>6.0 GB</td><td>2025-04-16</td><td><a href="/hyperos/taiko/stable/OS2.0.101.0.VOVTRXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.101.0.VOVTRXM</td><td>15.0</td><td>4.5 GB</td><td>2025-06-30</td><td><a href="/hyperos/taiko/stable/OS2.0.101.0.VOVTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

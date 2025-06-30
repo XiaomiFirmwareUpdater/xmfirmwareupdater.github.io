@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-04-09'
+  date: '2025-06-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-09.04.2025/fw_venus_global_venus_global-ota_full-OS2.0.1.0.UKBMIXM-user-14.0-9b03acd95a.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/venus/fw_venus_global_venus_global-ota_full-OS2.0.1.0.UKBMIXM-user-14.0-9b03acd95a.zip
-  filename: fw_venus_global_venus_global-ota_full-OS2.0.1.0.UKBMIXM-user-14.0-9b03acd95a.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-30.06.2025/fw_venus_global_venus_global-ota_full-OS2.0.2.0.UKBMIXM-user-14.0-6bf754b1c7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/venus/fw_venus_global_venus_global-ota_full-OS2.0.2.0.UKBMIXM-user-14.0-6bf754b1c7.zip
+  filename: fw_venus_global_venus_global-ota_full-OS2.0.2.0.UKBMIXM-user-14.0-6bf754b1c7.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS2.0.1.0.UKBMIXM
+    miui: OS2.0.2.0.UKBMIXM
 - branch: stable
   date: '2025-03-20'
   downloads:

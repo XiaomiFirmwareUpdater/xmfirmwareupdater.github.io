@@ -52,7 +52,11 @@ permalink: /archive/hyperos/taiko/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad 2 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VOVTWXM</td><td>15.0</td><td>4.3 GB</td><td>2025-06-20</td><td><a href="/hyperos/taiko/stable/OS2.0.102.0.VOVTWXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad 2 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.104.0.VOVIDXM</td><td>15.0</td><td>4.4 GB</td><td>2025-06-30</td><td><a href="/hyperos/taiko/stable/OS2.0.104.0.VOVIDXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.104.0.VOVIDXM</td><td>15.0</td><td>5.8 GB</td><td>2025-06-05</td><td><a href="/hyperos/taiko/stable/OS2.0.104.0.VOVIDXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.101.0.VOVTRXM</td><td>15.0</td><td>4.5 GB</td><td>2025-06-30</td><td><a href="/hyperos/taiko/stable/OS2.0.101.0.VOVTRXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VOVTRXM</td><td>15.0</td><td>6.0 GB</td><td>2025-04-16</td><td><a href="/hyperos/taiko/stable/OS2.0.101.0.VOVTRXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VOVTWXM</td><td>15.0</td><td>4.3 GB</td><td>2025-06-20</td><td><a href="/hyperos/taiko/stable/OS2.0.102.0.VOVTWXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VOVTWXM</td><td>15.0</td><td>5.7 GB</td><td>2025-06-11</td><td><a href="/hyperos/taiko/stable/OS2.0.102.0.VOVTWXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.105.0.VOVEUXM</td><td>15.0</td><td>486 Bytes</td><td>2025-06-04</td><td><a href="/hyperos/taiko/stable/OS2.0.105.0.VOVEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.105.0.VOVEUXM</td><td>15.0</td><td>500 Bytes</td><td>2025-05-27</td><td><a href="/hyperos/taiko/stable/OS2.0.105.0.VOVEUXM/">Download</a></td></tr>

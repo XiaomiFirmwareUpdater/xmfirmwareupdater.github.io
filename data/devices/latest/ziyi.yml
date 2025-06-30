@@ -9,15 +9,15 @@
     android: '15.0'
     miui: OS2.0.5.0.VLLMIXM
 - branch: stable
-  date: '2025-06-04'
+  date: '2025-06-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-04.06.2025/fw_ziyi_ziyi-ota_full-OS2.0.8.0.VLLCNXM-user-15.0-cc39a7560c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ziyi/fw_ziyi_ziyi-ota_full-OS2.0.8.0.VLLCNXM-user-15.0-cc39a7560c.zip
-  filename: fw_ziyi_ziyi-ota_full-OS2.0.8.0.VLLCNXM-user-15.0-cc39a7560c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-30.06.2025/fw_ziyi_ziyi-ota_full-OS2.0.9.0.VLLCNXM-user-15.0-8cf3c1b6dd.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ziyi/fw_ziyi_ziyi-ota_full-OS2.0.9.0.VLLCNXM-user-15.0-8cf3c1b6dd.zip
+  filename: fw_ziyi_ziyi-ota_full-OS2.0.9.0.VLLCNXM-user-15.0-8cf3c1b6dd.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.8.0.VLLCNXM
+    miui: OS2.0.9.0.VLLCNXM
 - branch: stable
   date: '2025-06-11'
   downloads:

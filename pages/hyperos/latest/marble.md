@@ -54,9 +54,8 @@ permalink: /hyperos/marble/
                 <tbody>
                 <tr><td>Redmi Note 12 Turbo China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.7.0.VMRCNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-05-20</td><td><a href="/hyperos/marble/stable/OS2.0.7.0.VMRCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Turbo China</td><td>Stable</td><td>Recovery</td><td>OS2.0.7.0.VMRCNXM</td><td>15.0</td><td>6.3 GB</td><td>2025-06-03</td><td><a href="/hyperos/marble/stable/OS2.0.7.0.VMRCNXM/">Download</a></td></tr>
-<tr><td>POCO F5 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VMREUXM</td><td>15.0</td><td>7.4 GB</td><td>2025-04-18</td><td><a href="/hyperos/marble/stable/OS2.0.2.0.VMREUXM/">Download</a></td></tr>
-<tr><td>POCO F5 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VMREUXM</td><td>15.0</td><td>5.5 GB</td><td>2025-05-13</td><td><a href="/hyperos/marble/stable/OS2.0.2.0.VMREUXM/">Download</a></td></tr>
-<tr><td>POCO F5 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.3.0.VMREUXM</td><td>15.0</td><td>5.5 GB</td><td>2025-06-20</td><td><a href="/hyperos/marble/stable beta/OS2.0.3.0.VMREUXM/">Download</a></td></tr>
+<tr><td>POCO F5 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.VMREUXM</td><td>15.0</td><td>7.3 GB</td><td>2025-06-09</td><td><a href="/hyperos/marble/stable/OS2.0.3.0.VMREUXM/">Download</a></td></tr>
+<tr><td>POCO F5 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VMREUXM</td><td>15.0</td><td>5.5 GB</td><td>2025-06-20</td><td><a href="/hyperos/marble/stable/OS2.0.3.0.VMREUXM/">Download</a></td></tr>
 <tr><td>POCO F5 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.5.0.VMRMIXM</td><td>15.0</td><td>8.0 GB</td><td>2025-05-12</td><td><a href="/hyperos/marble/stable/OS2.0.5.0.VMRMIXM/">Download</a></td></tr>
 <tr><td>POCO F5 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.VMRMIXM</td><td>15.0</td><td>5.5 GB</td><td>2025-06-10</td><td><a href="/hyperos/marble/stable/OS2.0.5.0.VMRMIXM/">Download</a></td></tr>
 <tr><td>POCO F5 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.4.0.VMRIDXM</td><td>15.0</td><td>7.7 GB</td><td>2025-05-12</td><td><a href="/hyperos/marble/stable/OS2.0.4.0.VMRIDXM/">Download</a></td></tr>
