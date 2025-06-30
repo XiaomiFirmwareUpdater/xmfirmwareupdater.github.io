@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 01 Jul 2025 00:09:56 </lastBuildDate>
+        <lastBuildDate>Tue, 01 Jul 2025 00:40:38 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.201.0.VGQEUXM</title>
@@ -88,6 +88,11 @@
         </item>
         <item>
             <title>Redmi A5/POCO C71 (serenity) - A15.0.11.0.VGWMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
+            <pubDate>Mon, 30 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A5/POCO C71 (serenity) - A15.0.7.0.VGWEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
             <pubDate>Mon, 30 Jun 2025 00:00:00 </pubDate>
         </item>
@@ -955,11 +960,6 @@
             <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - OS2.0.2.0.ULOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xaga/</link>
             <pubDate>Sat, 31 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A5/POCO C71 (serenity) - A15.0.6.0.VGWEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
-            <pubDate>Fri, 30 May 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi Pad 7 (uke) - OS2.0.102.0.VOZINXM</title>
