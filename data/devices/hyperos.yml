@@ -4126,6 +4126,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UGUINXM/fw_flame_miui_FLAMEINGlobal_OS1.0.2.0.UGUINXM_f6015ae108_14.0.zip
   name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
   version: OS1.0.2.0.UGUINXM
+- android: '15.0'
+  codename: flame
+  date: '2025-07-02'
+  download: https://bigota.d.miui.com/OS2.0.5.0.VGUCNXM/fw_flame_flame-ota_full-OS2.0.5.0.VGUCNXM-user-15.0-b555dde565.zip
+  name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
+  version: OS2.0.5.0.VGUCNXM
 - android: '14.0'
   codename: flare
   date: '2024-08-28'
@@ -6784,6 +6790,12 @@
   download: https://bigota.d.miui.com/OS2.0.100.0.VOWMIXM/fw_koto_global_koto_global-ota_full-OS2.0.100.0.VOWMIXM-user-15.0-2735a3a69e.zip
   name: Redmi Pad 2 4G
   version: OS2.0.100.0.VOWMIXM
+- android: '15.0'
+  codename: koto
+  date: '2025-07-02'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VOWEUXM/fw_koto_eea_global_koto_eea_global-ota_full-OS2.0.201.0.VOWEUXM-user-15.0-7122b89b4a.zip
+  name: Redmi Pad 2 4G
+  version: OS2.0.201.0.VOWEUXM
 - android: '14.0'
   codename: lake
   date: '2025-03-31'
@@ -8680,6 +8692,12 @@
   download: https://bigota.d.miui.com/OS2.0.4.0.VNTMIXM/fw_moon_global_moon_global-ota_full-OS2.0.4.0.VNTMIXM-user-15.0-618fd874fe.zip
   name: Redmi 13/POCO M6
   version: OS2.0.4.0.VNTMIXM
+- android: '15.0'
+  codename: moon
+  date: '2025-07-02'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VNTEUXM/fw_moon_eea_global_moon_eea_global-ota_full-OS2.0.201.0.VNTEUXM-user-15.0-5e31983d6e.zip
+  name: Redmi 13/POCO M6
+  version: OS2.0.201.0.VNTEUXM
 - android: '14.0'
   codename: moonstone
   date: '2025-03-31'
@@ -14417,6 +14435,12 @@
   name: Redmi Note 12 5G/Note 12R Pro
   version: OS1.0.6.0.UMQEUXM
 - android: '15.0'
+  codename: taiko
+  date: '2025-07-02'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VOVEUXM/fw_taiko_eea_global_taiko_eea_global-ota_full-OS2.0.201.0.VOVEUXM-user-15.0-013770da2d.zip
+  name: Redmi Pad 2
+  version: OS2.0.201.0.VOVEUXM
+- android: '15.0'
   codename: tanzanite
   date: '2025-03-26'
   download: https://bigota.d.miui.com/OS2.0.1.0.VOGMIXM/fw_tanzanite_global_tanzanite_global-ota_full-OS2.0.1.0.VOGMIXM-user-15.0-1a56c3d2e6.zip
@@ -16324,6 +16348,12 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.ULOCNXM/fw_xaga_xaga-ota_full-OS2.0.3.0.ULOCNXM-user-14.0-bce49e44e5.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: OS2.0.3.0.ULOCNXM
+- android: '14.0'
+  codename: xaga
+  date: '2025-07-02'
+  download: https://bigota.d.miui.com/OS2.0.3.0.ULOINXM/fw_xaga_in_global_xaga_in_global-ota_full-OS2.0.3.0.ULOINXM-user-14.0-7a33ff9654.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS2.0.3.0.ULOINXM
 - android: '14.0'
   codename: xaga
   date: '2024-07-01'

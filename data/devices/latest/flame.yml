@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-05-23'
+  date: '2025-07-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flame/releases/download/stable-23.05.2025/fw_flame_flame-ota_full-OS2.0.4.0.VGUCNXM-user-15.0-4584432072.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/flame/fw_flame_flame-ota_full-OS2.0.4.0.VGUCNXM-user-15.0-4584432072.zip
-  filename: fw_flame_flame-ota_full-OS2.0.4.0.VGUCNXM-user-15.0-4584432072.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flame/releases/download/stable-02.07.2025/fw_flame_flame-ota_full-OS2.0.5.0.VGUCNXM-user-15.0-b555dde565.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/flame/fw_flame_flame-ota_full-OS2.0.5.0.VGUCNXM-user-15.0-b555dde565.zip
+  filename: fw_flame_flame-ota_full-OS2.0.5.0.VGUCNXM-user-15.0-b555dde565.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.4.0.VGUCNXM
+    miui: OS2.0.5.0.VGUCNXM
 - branch: stable
   date: '2025-06-11'
   downloads:

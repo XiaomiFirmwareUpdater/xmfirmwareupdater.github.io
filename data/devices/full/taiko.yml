@@ -1,1 +1,10 @@
-[]
+- branch: stable
+  date: '2025-07-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taiko/releases/download/stable-02.07.2025/fw_taiko_eea_global_taiko_eea_global-ota_full-OS2.0.201.0.VOVEUXM-user-15.0-013770da2d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/taiko/fw_taiko_eea_global_taiko_eea_global-ota_full-OS2.0.201.0.VOVEUXM-user-15.0-013770da2d.zip
+  filename: fw_taiko_eea_global_taiko_eea_global-ota_full-OS2.0.201.0.VOVEUXM-user-15.0-013770da2d.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.201.0.VOVEUXM
