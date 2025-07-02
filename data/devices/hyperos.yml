@@ -10224,6 +10224,12 @@
   version: OS2.0.102.0.VNPEUXM
 - android: '15.0'
   codename: peridot
+  date: '2025-07-02'
+  download: https://bigota.d.miui.com/OS2.0.105.0.VNPMIXM/fw_peridot_global_peridot_global-ota_full-OS2.0.105.0.VNPMIXM-user-15.0-1d9c56508c.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS2.0.105.0.VNPMIXM
+- android: '15.0'
+  codename: peridot
   date: '2025-04-02'
   download: https://bigota.d.miui.com/OS2.0.105.0.VNPEUXM/fw_peridot_eea_global_peridot_eea_global-ota_full-OS2.0.105.0.VNPEUXM-user-15.0-d566887742.zip
   name: Redmi Turbo 3/POCO F6
