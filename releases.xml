@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 03 Jul 2025 00:36:56 </lastBuildDate>
+        <lastBuildDate>Thu, 03 Jul 2025 06:52:00 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Pad SE (xun) - OS2.0.3.0.VMUINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xun/</link>
+            <pubDate>Thu, 03 Jul 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS2.0.5.0.VGUCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flame/</link>
@@ -1350,11 +1355,6 @@
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.6.0.VNOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Thu, 03 Apr 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad SE (xun) - OS2.0.1.0.VMUINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/xun/</link>
-            <pubDate>Wed, 02 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS2.0.1.0.UMQMIXM</title>
