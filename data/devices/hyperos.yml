@@ -3834,6 +3834,12 @@
   version: OS1.0.9.0.UNFMIXM
 - android: '15.0'
   codename: emerald
+  date: '2025-07-03'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VFOEUXM/fw_emerald_r_eea_global_emerald_r_eea_global-ota_full-OS2.0.202.0.VFOEUXM-user-15.0-22ec84bb9e.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
+  version: OS2.0.202.0.VFOEUXM
+- android: '15.0'
+  codename: emerald
   date: '2025-04-01'
   download: https://bigota.d.miui.com/OS2.0.2.0.VNFEUXM/fw_emerald_eea_global_emerald_eea_global-ota_full-OS2.0.2.0.VNFEUXM-user-15.0-7c6118e589.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
@@ -16348,6 +16354,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULOCNXM/fw_xaga_miui_XAGA_OS1.0.3.0.ULOCNXM_ddae354606_14.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: OS1.0.3.0.ULOCNXM
+- android: '14.0'
+  codename: xaga
+  date: '2025-07-03'
+  download: https://bigota.d.miui.com/OS2.0.3.0.ULOMIXM/fw_xaga_global_xaga_global-ota_full-OS2.0.3.0.ULOMIXM-user-14.0-70c3a91ba3.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS2.0.3.0.ULOMIXM
 - android: '14.0'
   codename: xaga
   date: '2025-04-03'

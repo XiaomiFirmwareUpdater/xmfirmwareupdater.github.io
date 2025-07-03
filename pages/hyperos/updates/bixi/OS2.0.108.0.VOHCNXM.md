@@ -102,7 +102,7 @@ permalink: /hyperos/bixi/stable/OS2.0.108.0.VOHCNXM/
                     <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>487 Bytes</h5>
+                    <h5><b>Size: </b>11.1 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-06-24</h5>
