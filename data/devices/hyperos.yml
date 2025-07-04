@@ -672,6 +672,12 @@
   version: OS1.0.6.0.UMFMIXM
 - android: '15.0'
   codename: aristotle
+  date: '2025-07-04'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VMFEUXM/fw_aristotle_eea_global_aristotle_eea_global-ota_full-OS2.0.202.0.VMFEUXM-user-15.0-99d02e6834.zip
+  name: Xiaomi 13T
+  version: OS2.0.202.0.VMFEUXM
+- android: '15.0'
+  codename: aristotle
   date: '2025-03-03'
   download: https://bigota.d.miui.com/OS2.0.3.0.VMFEUXM/fw_aristotle_eea_global_aristotle_eea_global-ota_full-OS2.0.3.0.VMFEUXM-user-15.0-6803633936.zip
   name: Xiaomi 13T
@@ -1306,6 +1312,12 @@
   download: https://bigota.d.miui.com/OS1.0.11.0.UOQMIXM/fw_beryl_miui_BERYLGlobal_OS1.0.11.0.UOQMIXM_c575215db2_14.0.zip
   name: Redmi Note 14 5G/POCO M7 Pro 5G
   version: OS1.0.11.0.UOQMIXM
+- android: '15.0'
+  codename: beryl
+  date: '2025-07-04'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VOQEUXM/fw_beryl_eea_global_beryl_eea_global-ota_full-OS2.0.202.0.VOQEUXM-user-15.0-c32cd11522.zip
+  name: Redmi Note 14 5G/POCO M7 Pro 5G
+  version: OS2.0.202.0.VOQEUXM
 - android: '14.0'
   codename: beryl
   date: '2025-04-02'
@@ -5098,6 +5110,12 @@
   download: https://bigota.d.miui.com/OS1.0.21.0.UNREUXM/fw_garnet_miui_GARNETEEAGlobal_OS1.0.21.0.UNREUXM_91cb2ae185_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS1.0.21.0.UNREUXM
+- android: '15.0'
+  codename: garnet
+  date: '2025-07-04'
+  download: https://bigota.d.miui.com/OS2.0.11.0.VNRMIXM/fw_garnet_global_garnet_global-ota_full-OS2.0.11.0.VNRMIXM-user-15.0-41bad0caf0.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS2.0.11.0.VNRMIXM
 - android: '14.0'
   codename: garnet
   date: '2024-12-03'
@@ -5518,6 +5536,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UNQEUXM/fw_gold_miui_GOLDEEAGlobal_OS1.0.3.0.UNQEUXM_fa3220b6a8_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: OS1.0.3.0.UNQEUXM
+- android: '15.0'
+  codename: gold
+  date: '2025-07-04'
+  download: https://bigota.d.miui.com/OS2.0.8.0.VNQEUXM/fw_gold_eea_global_gold_eea_global-ota_full-OS2.0.8.0.VNQEUXM-user-15.0-7919aa91e8.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS2.0.8.0.VNQEUXM
 - android: '15.0'
   codename: gold
   date: '2025-05-04'

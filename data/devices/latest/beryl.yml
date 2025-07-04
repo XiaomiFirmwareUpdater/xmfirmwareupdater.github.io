@@ -19,15 +19,15 @@
     android: '15.0'
     miui: OS2.0.206.0.VOQCNXM
 - branch: stable
-  date: '2025-06-24'
+  date: '2025-07-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-24.06.2025/fw_beryl_eea_global_beryl_eea_global-ota_full-OS2.0.6.0.VOQEUXM-user-15.0-416eeaae56.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/beryl/fw_beryl_eea_global_beryl_eea_global-ota_full-OS2.0.6.0.VOQEUXM-user-15.0-416eeaae56.zip
-  filename: fw_beryl_eea_global_beryl_eea_global-ota_full-OS2.0.6.0.VOQEUXM-user-15.0-416eeaae56.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-04.07.2025/fw_beryl_eea_global_beryl_eea_global-ota_full-OS2.0.202.0.VOQEUXM-user-15.0-c32cd11522.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/beryl/fw_beryl_eea_global_beryl_eea_global-ota_full-OS2.0.202.0.VOQEUXM-user-15.0-c32cd11522.zip
+  filename: fw_beryl_eea_global_beryl_eea_global-ota_full-OS2.0.202.0.VOQEUXM-user-15.0-c32cd11522.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.6.0.VOQEUXM
+    miui: OS2.0.202.0.VOQEUXM
 - branch: stable
   date: '2025-06-24'
   downloads:
