@@ -108,3 +108,13 @@
   versions:
     android: '15.0'
     miui: OS2.0.124.0.VOLCNXM
+- branch: stable
+  date: '2025-07-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-04.07.2025/fw_onyx_eea_global_onyx_eea_global-ota_full-OS2.0.202.0.VOLEUXM-user-15.0-304cadeef8.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/onyx/fw_onyx_eea_global_onyx_eea_global-ota_full-OS2.0.202.0.VOLEUXM-user-15.0-304cadeef8.zip
+  filename: fw_onyx_eea_global_onyx_eea_global-ota_full-OS2.0.202.0.VOLEUXM-user-15.0-304cadeef8.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.202.0.VOLEUXM

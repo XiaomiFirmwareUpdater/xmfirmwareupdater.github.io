@@ -6798,6 +6798,12 @@
   version: OS2.0.100.0.VOWMIXM
 - android: '15.0'
   codename: koto
+  date: '2025-07-04'
+  download: https://bigota.d.miui.com/OS2.0.106.0.VOWMIXM/fw_koto_global_koto_global-ota_full-OS2.0.106.0.VOWMIXM-user-15.0-06fd539349.zip
+  name: Redmi Pad 2 4G
+  version: OS2.0.106.0.VOWMIXM
+- android: '15.0'
+  codename: koto
   date: '2025-07-02'
   download: https://bigota.d.miui.com/OS2.0.201.0.VOWEUXM/fw_koto_eea_global_koto_eea_global-ota_full-OS2.0.201.0.VOWEUXM-user-15.0-7122b89b4a.zip
   name: Redmi Pad 2 4G
@@ -9832,6 +9838,12 @@
   download: https://bigota.d.miui.com/OS2.0.124.0.VOLCNXM/fw_onyx_onyx-ota_full-OS2.0.124.0.VOLCNXM-user-15.0-624da2200e.zip
   name: Redmi Turbo 4 Pro/POCO F7
   version: OS2.0.124.0.VOLCNXM
+- android: '15.0'
+  codename: onyx
+  date: '2025-07-04'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VOLEUXM/fw_onyx_eea_global_onyx_eea_global-ota_full-OS2.0.202.0.VOLEUXM-user-15.0-304cadeef8.zip
+  name: Redmi Turbo 4 Pro/POCO F7
+  version: OS2.0.202.0.VOLEUXM
 - android: '13.0'
   codename: opal
   date: '2024-08-25'
@@ -10222,6 +10234,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UNPINXM/fw_peridot_miui_PERIDOTINGlobal_OS1.0.7.0.UNPINXM_e3351c5e82_14.0.zip
   name: Redmi Turbo 3/POCO F6
   version: OS1.0.7.0.UNPINXM
+- android: '15.0'
+  codename: peridot
+  date: '2025-07-04'
+  download: https://bigota.d.miui.com/OS2.0.105.0.VNPINXM/fw_peridot_in_global_peridot_in_global-ota_full-OS2.0.105.0.VNPINXM-user-15.0-b220cb4d8c.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS2.0.105.0.VNPINXM
 - android: '15.0'
   codename: peridot
   date: '2025-03-04'
@@ -12070,6 +12088,12 @@
   download: https://bigota.d.miui.com/OS2.0.1.0.VFSINXM/fw_ruan_in_global_ruan_in_global-ota_full-OS2.0.1.0.VFSINXM-user-15.0-04fefb62c8.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS2.0.1.0.VFSINXM
+- android: '15.0'
+  codename: ruan
+  date: '2025-07-04'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VFSCNXM/fw_ruan_ruan-ota_full-OS2.0.202.0.VFSCNXM-user-15.0-901f87c8f3.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS2.0.202.0.VFSCNXM
 - android: '15.0'
   codename: ruan
   date: '2025-04-01'
@@ -13936,6 +13960,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UHYINXM/fw_spark_miui_SPARKINGlobal_OS1.0.3.0.UHYINXM_1d4ec22cf4_14.0.zip
   name: Redmi Pad SE 8.7 4G
   version: OS1.0.3.0.UHYINXM
+- android: '15.0'
+  codename: spark
+  date: '2025-07-04'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VHYEUXM/fw_spark_eea_global_spark_eea_global-ota_full-OS2.0.201.0.VHYEUXM-user-15.0-522a3ae83f.zip
+  name: Redmi Pad SE 8.7 4G
+  version: OS2.0.201.0.VHYEUXM
 - android: '13.0'
   codename: spes
   date: '2024-06-24'
@@ -14518,6 +14548,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UOGMIXM/fw_tanzanite_miui_TANZANITEGlobal_OS1.0.4.0.UOGMIXM_732e24fa29_14.0.zip
   name: Redmi Note 14 4G
   version: OS1.0.4.0.UOGMIXM
+- android: '15.0'
+  codename: tanzanite
+  date: '2025-07-04'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VOGEUXM/fw_tanzanite_eea_global_tanzanite_eea_global-ota_full-OS2.0.202.0.VOGEUXM-user-15.0-359307d6ae.zip
+  name: Redmi Note 14 4G
+  version: OS2.0.202.0.VOGEUXM
 - android: '15.0'
   codename: tanzanite
   date: '2025-05-02'
