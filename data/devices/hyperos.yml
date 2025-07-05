@@ -1348,6 +1348,12 @@
   download: https://bigota.d.miui.com/OS2.0.108.0.VOHCNXM/fw_bixi_bixi-ota_full-OS2.0.108.0.VOHCNXM-user-15.0-95497b9791.zip
   name: MIX Flip 2
   version: OS2.0.108.0.VOHCNXM
+- android: '15.0'
+  codename: bixi
+  date: '2025-07-05'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VOHCNXM/fw_bixi_bixi-ota_full-OS2.0.204.0.VOHCNXM-user-15.0-6c119c7cde.zip
+  name: MIX Flip 2
+  version: OS2.0.204.0.VOHCNXM
 - android: '14.0'
   codename: breeze
   date: '2024-05-31'
