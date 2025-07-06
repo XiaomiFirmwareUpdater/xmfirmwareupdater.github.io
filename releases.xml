@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 06 Jul 2025 06:36:05 </lastBuildDate>
+        <lastBuildDate>Sun, 06 Jul 2025 12:43:59 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.104.0.VNLMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Sun, 06 Jul 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>MIX Flip 2 (bixi) - OS2.0.204.0.VOHCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/bixi/</link>
@@ -1115,11 +1120,6 @@
             <title>Redmi A3x (klein) - V816.0.4.0.VGSMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/klein/</link>
             <pubDate>Sun, 18 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.103.0.VNLMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Sat, 17 May 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 11 NFC (spesn) - OS1.0.11.0.TGKMIXM</title>
