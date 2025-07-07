@@ -65,8 +65,8 @@ permalink: /hyperos/dada/
 <tr><td>Xiaomi 15 India</td><td>Stable</td><td>Recovery</td><td>OS2.0.109.0.VOCINXM</td><td>15.0</td><td>7.4 GB</td><td>2025-06-17</td><td><a href="/hyperos/dada/stable/OS2.0.109.0.VOCINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.105.0.VOCRUXM</td><td>15.0</td><td>9.8 GB</td><td>2025-06-06</td><td><a href="/hyperos/dada/stable/OS2.0.105.0.VOCRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.105.0.VOCRUXM</td><td>15.0</td><td>7.5 GB</td><td>2025-06-17</td><td><a href="/hyperos/dada/stable/OS2.0.105.0.VOCRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.104.0.VOCTWXM</td><td>15.0</td><td>8.6 GB</td><td>2025-05-08</td><td><a href="/hyperos/dada/stable/OS2.0.104.0.VOCTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.104.0.VOCTWXM</td><td>15.0</td><td>7.4 GB</td><td>2025-05-20</td><td><a href="/hyperos/dada/stable/OS2.0.104.0.VOCTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.107.0.VOCTWXM</td><td>15.0</td><td>8.5 GB</td><td>2025-06-24</td><td><a href="/hyperos/dada/stable/OS2.0.107.0.VOCTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.107.0.VOCTWXM</td><td>15.0</td><td>7.4 GB</td><td>2025-06-27</td><td><a href="/hyperos/dada/stable/OS2.0.107.0.VOCTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

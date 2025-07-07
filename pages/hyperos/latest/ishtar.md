@@ -52,17 +52,17 @@ permalink: /hyperos/ishtar/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 13 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.109.0.VMACNXM</td><td>15.0</td><td>9.0 GB</td><td>2025-05-15</td><td><a href="/hyperos/ishtar/stable/OS2.0.109.0.VMACNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>6.7 GB</td><td>2024-01-12</td><td><a href="/hyperos/ishtar/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
+                <tr><td>Xiaomi 13 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VMACNXM</td><td>15.0</td><td>9.0 GB</td><td>2025-06-10</td><td><a href="/hyperos/ishtar/stable/OS2.0.202.0.VMACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VMACNXM</td><td>15.0</td><td>7.2 GB</td><td>2025-06-14</td><td><a href="/hyperos/ishtar/stable/OS2.0.202.0.VMACNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VMAEUXM</td><td>15.0</td><td>8.2 GB</td><td>2025-05-13</td><td><a href="/hyperos/ishtar/stable/OS2.0.102.0.VMAEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VMAEUXM</td><td>15.0</td><td>6.5 GB</td><td>2025-05-27</td><td><a href="/hyperos/ishtar/stable/OS2.0.102.0.VMAEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>6.7 GB</td><td>2024-01-12</td><td><a href="/hyperos/ishtar/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.103.0.VMAEUXM</td><td>15.0</td><td>8.2 GB</td><td>2025-05-27</td><td><a href="/hyperos/ishtar/stable/OS2.0.103.0.VMAEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.103.0.VMAEUXM</td><td>15.0</td><td>6.5 GB</td><td>2025-06-27</td><td><a href="/hyperos/ishtar/stable/OS2.0.103.0.VMAEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.105.0.VMAMIXM</td><td>15.0</td><td>8.3 GB</td><td>2025-05-27</td><td><a href="/hyperos/ishtar/stable/OS2.0.105.0.VMAMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.105.0.VMAMIXM</td><td>15.0</td><td>6.5 GB</td><td>2025-06-10</td><td><a href="/hyperos/ishtar/stable/OS2.0.105.0.VMAMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VMARUXM</td><td>15.0</td><td>8.1 GB</td><td>2025-05-13</td><td><a href="/hyperos/ishtar/stable/OS2.0.102.0.VMARUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VMARUXM</td><td>15.0</td><td>6.4 GB</td><td>2025-05-27</td><td><a href="/hyperos/ishtar/stable/OS2.0.102.0.VMARUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VMATWXM</td><td>15.0</td><td>7.5 GB</td><td>2025-05-13</td><td><a href="/hyperos/ishtar/stable/OS2.0.102.0.VMATWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VMATWXM</td><td>15.0</td><td>6.4 GB</td><td>2025-05-27</td><td><a href="/hyperos/ishtar/stable/OS2.0.102.0.VMATWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Ultra Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.103.0.VMARUXM</td><td>15.0</td><td>8.1 GB</td><td>2025-05-27</td><td><a href="/hyperos/ishtar/stable/OS2.0.103.0.VMARUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Ultra Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.103.0.VMARUXM</td><td>15.0</td><td>6.4 GB</td><td>2025-06-27</td><td><a href="/hyperos/ishtar/stable/OS2.0.103.0.VMARUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Ultra Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.103.0.VMATWXM</td><td>15.0</td><td>7.5 GB</td><td>2025-05-27</td><td><a href="/hyperos/ishtar/stable/OS2.0.103.0.VMATWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Ultra Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.103.0.VMATWXM</td><td>15.0</td><td>6.4 GB</td><td>2025-06-27</td><td><a href="/hyperos/ishtar/stable/OS2.0.103.0.VMATWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
