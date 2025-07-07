@@ -3064,6 +3064,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UNSCNXM/fw_dizi_miui_DIZI_OS1.0.12.0.UNSCNXM_a03b3ccfc3_14.0.zip
   name: Redmi Pad Pro/POCO Pad
   version: OS1.0.12.0.UNSCNXM
+- android: '15.0'
+  codename: dizi
+  date: '2025-07-07'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VNSCNXM/fw_dizi_dizi-ota_full-OS2.0.202.0.VNSCNXM-user-15.0-96205b9f1c.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS2.0.202.0.VNSCNXM
 - android: '14.0'
   codename: dizi
   date: '2024-11-06'
@@ -4662,6 +4668,12 @@
   version: OS1.0.11.0.UMCEUXM
 - android: '15.0'
   codename: fuxi
+  date: '2025-07-07'
+  download: https://bigota.d.miui.com/OS2.0.111.0.VMCEUXM/fw_fuxi_eea_global_fuxi_eea_global-ota_full-OS2.0.111.0.VMCEUXM-user-15.0-3cf6de6ba2.zip
+  name: Xiaomi 13
+  version: OS2.0.111.0.VMCEUXM
+- android: '15.0'
+  codename: fuxi
   date: '2025-04-06'
   download: https://bigota.d.miui.com/OS2.0.101.0.VMCMIXM/fw_fuxi_global_fuxi_global-ota_full-OS2.0.101.0.VMCMIXM-user-15.0-12f3fa0cb5.zip
   name: Xiaomi 13
@@ -5128,6 +5140,12 @@
   download: https://bigota.d.miui.com/OS2.0.6.0.VNRCNXM/fw_garnet_garnet-ota_full-OS2.0.6.0.VNRCNXM-user-15.0-0d51957846.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS2.0.6.0.VNRCNXM
+- android: '15.0'
+  codename: garnet
+  date: '2025-07-07'
+  download: https://bigota.d.miui.com/OS2.0.12.0.VNREUXM/fw_garnet_eea_global_garnet_eea_global-ota_full-OS2.0.12.0.VNREUXM-user-15.0-e5f27a1293.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS2.0.12.0.VNREUXM
 - android: '14.0'
   codename: garnet
   date: '2024-09-06'
@@ -12558,6 +12576,12 @@
   version: OS1.0.4.0.UMOMIXM
 - android: '14.0'
   codename: ruby
+  date: '2025-07-07'
+  download: https://bigota.d.miui.com/OS2.0.4.0.UMOMIXM/fw_ruby_global_ruby_global-ota_full-OS2.0.4.0.UMOMIXM-user-14.0-5af2f08f90.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS2.0.4.0.UMOMIXM
+- android: '14.0'
+  codename: ruby
   date: '2025-06-05'
   download: https://bigota.d.miui.com/OS2.0.1.0.UMOINXM/fw_ruby_in_global_ruby_in_global-ota_full-OS2.0.1.0.UMOINXM-user-14.0-73b422685e.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
@@ -16596,6 +16620,12 @@
   version: OS2.0.106.0.VOAMIXM
 - android: '15.0'
   codename: xuanyuan
+  date: '2025-07-07'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VOAINXM/fw_xuanyuan_in_global_xuanyuan_in_global-ota_full-OS2.0.202.0.VOAINXM-user-15.0-5d1e293122.zip
+  name: Xiaomi 15 Ultra
+  version: OS2.0.202.0.VOAINXM
+- android: '15.0'
+  codename: xuanyuan
   date: '2025-04-06'
   download: https://bigota.d.miui.com/OS2.0.117.0.VOACNXM/fw_xuanyuan_xuanyuan-ota_full-OS2.0.117.0.VOACNXM-user-15.0-afc165faa8.zip
   name: Xiaomi 15 Ultra
@@ -17734,6 +17764,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UNOCNXM/fw_zircon_miui_ZIRCON_OS1.0.7.0.UNOCNXM_38f0b8b8a6_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.7.0.UNOCNXM
+- android: '15.0'
+  codename: zircon
+  date: '2025-07-07'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VNOEUXM/fw_zircon_eea_global_zircon_eea_global-ota_full-OS2.0.201.0.VNOEUXM-user-15.0-7f37969cc9.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS2.0.201.0.VNOEUXM
 - android: '14.0'
   codename: zircon
   date: '2024-08-05'
