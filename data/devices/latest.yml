@@ -5799,6 +5799,16 @@
     android: '15.0'
     miui: OS2.0.201.0.VOVEUXM
 - branch: stable
+  date: '2025-07-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taiko/releases/download/stable-10.07.2025/fw_taiko_in_global_taiko_in_global-ota_full-OS2.0.200.0.VOVINXM-user-15.0-741a22709e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/taiko/fw_taiko_in_global_taiko_in_global-ota_full-OS2.0.200.0.VOVINXM-user-15.0-741a22709e.zip
+  filename: fw_taiko_in_global_taiko_in_global-ota_full-OS2.0.200.0.VOVINXM-user-15.0-741a22709e.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.200.0.VOVINXM
+- branch: stable
   date: '2025-06-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tanzanite/releases/download/stable-20.06.2025/fw_tanzanite_global_tanzanite_global-ota_full-OS2.0.4.0.VOGMIXM-user-15.0-02cc66cc4c.zip

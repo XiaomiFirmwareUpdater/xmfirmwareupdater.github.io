@@ -52,7 +52,11 @@ permalink: /archive/hyperos/taiko/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad 2 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.104.0.VOVIDXM</td><td>15.0</td><td>4.4 GB</td><td>2025-06-30</td><td><a href="/hyperos/taiko/stable/OS2.0.104.0.VOVIDXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad 2 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.200.0.VOVRUXM</td><td>15.0</td><td>4.3 GB</td><td>2025-07-10</td><td><a href="/hyperos/taiko/stable/OS2.0.200.0.VOVRUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.200.0.VOVRUXM</td><td>15.0</td><td>6.5 GB</td><td>2025-06-20</td><td><a href="/hyperos/taiko/stable/OS2.0.200.0.VOVRUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 India</td><td>Stable</td><td>Recovery</td><td>OS2.0.200.0.VOVINXM</td><td>15.0</td><td>4.2 GB</td><td>2025-07-08</td><td><a href="/hyperos/taiko/stable/OS2.0.200.0.VOVINXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.200.0.VOVINXM</td><td>15.0</td><td>5.3 GB</td><td>2025-06-20</td><td><a href="/hyperos/taiko/stable/OS2.0.200.0.VOVINXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.104.0.VOVIDXM</td><td>15.0</td><td>4.4 GB</td><td>2025-06-30</td><td><a href="/hyperos/taiko/stable/OS2.0.104.0.VOVIDXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.104.0.VOVIDXM</td><td>15.0</td><td>5.8 GB</td><td>2025-06-05</td><td><a href="/hyperos/taiko/stable/OS2.0.104.0.VOVIDXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.101.0.VOVTRXM</td><td>15.0</td><td>4.5 GB</td><td>2025-06-30</td><td><a href="/hyperos/taiko/stable/OS2.0.101.0.VOVTRXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VOVTRXM</td><td>15.0</td><td>6.0 GB</td><td>2025-04-16</td><td><a href="/hyperos/taiko/stable/OS2.0.101.0.VOVTRXM/">Download</a></td></tr>

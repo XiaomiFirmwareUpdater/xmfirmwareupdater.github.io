@@ -3,7 +3,7 @@ title: Xiaomi 13T Indonesia HyperOS OS2.0.202.0.VMFIDXM Update
 layout: download
 name: Xiaomi 13T Indonesia
 codename: aristotle
-permalink: /hyperos/aristotle/stable beta/OS2.0.202.0.VMFIDXM/
+permalink: /hyperos/aristotle/stable/OS2.0.202.0.VMFIDXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/aristotle/stable beta/OS2.0.202.0.VMFIDXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.202.0.VMFIDXM Stable Beta Official Update for Xiaomi 13T Indonesia (aristotle)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.202.0.VMFIDXM Stable Official Update for Xiaomi 13T Indonesia (aristotle)</h3>
     <h5>This page shows the OS2.0.202.0.VMFIDXM update only. If you're looking for other updates check
         <a href="/hyperos/aristotle/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/aristotle/stable beta/OS2.0.202.0.VMFIDXM/
                     <h5><b>Version: </b>OS2.0.202.0.VMFIDXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/aristotle/stable beta/OS2.0.202.0.VMFIDXM/
                             aria-expanded="false" aria-controls="aristotle_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="aristotle_1_changelog">
+                        <p id="changelog_text">Bug fixes and system optimizations.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi 13T Indonesia</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/aristotle/" target="_blank">aristotle</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.202.0.VMFIDXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>7.3 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-06-17</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">aristotle_id_global_images_OS2.0.202.0.VMFIDXM_20250617.0000.00_15.0_id_7aee10a4c0.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">7aee10a4c0072ff63e27d06db100d14c</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.202.0.VMFIDXM/aristotle_id_global_images_OS2.0.202.0.VMFIDXM_20250617.0000.00_15.0_id_7aee10a4c0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.202.0.VMFIDXM/aristotle_id_global_images_OS2.0.202.0.VMFIDXM_20250617.0000.00_15.0_id_7aee10a4c0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.202.0.VMFIDXM/aristotle_id_global_images_OS2.0.202.0.VMFIDXM_20250617.0000.00_15.0_id_7aee10a4c0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.202.0.VMFIDXM/aristotle_id_global_images_OS2.0.202.0.VMFIDXM_20250617.0000.00_15.0_id_7aee10a4c0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.202.0.VMFIDXM/aristotle_id_global_images_OS2.0.202.0.VMFIDXM_20250617.0000.00_15.0_id_7aee10a4c0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#aristotle_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="aristotle_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="aristotle_2_changelog">
                         <p id="changelog_text">Bug fixes and system optimizations.</p>
                     </div>
                 </li>
