@@ -4864,6 +4864,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UGPMIXM/fw_gale_miui_GALEGlobal_OS1.0.2.0.UGPMIXM_a69fb77e05_14.0.zip
   name: Redmi 13C/POCO C65
   version: OS1.0.2.0.UGPMIXM
+- android: '15.0'
+  codename: gale
+  date: '2025-07-10'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VGPEUXM/fw_gale_eea_global_gale_eea_global-ota_full-OS2.0.201.0.VGPEUXM-user-15.0-e1f30e9a5c.zip
+  name: Redmi 13C/POCO C65
+  version: OS2.0.201.0.VGPEUXM
 - android: '14.0'
   codename: gale
   date: '2024-09-08'
@@ -13266,6 +13272,12 @@
   version: OS1.0.3.0.UHZMIXM
 - android: '15.0'
   codename: sea
+  date: '2025-07-10'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VHZEUXM/fw_sea_eea_global_sea_eea_global-ota_full-OS2.0.201.0.VHZEUXM-user-15.0-13df571254.zip
+  name: Redmi Note 12S
+  version: OS2.0.201.0.VHZEUXM
+- android: '15.0'
+  codename: sea
   date: '2025-06-09'
   download: https://bigota.d.miui.com/OS2.0.5.0.VHZEUXM/fw_sea_eea_global_sea_eea_global-ota_full-OS2.0.5.0.VHZEUXM-user-15.0-a400942576.zip
   name: Redmi Note 12S
@@ -16546,6 +16558,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.ULOCNXM/fw_xaga_miui_XAGA_OS1.0.5.0.ULOCNXM_7c181e4a9c_14.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: OS1.0.5.0.ULOCNXM
+- android: '14.0'
+  codename: xaga
+  date: '2025-07-10'
+  download: https://bigota.d.miui.com/OS2.0.7.0.ULOCNXM/fw_xaga_xaga-ota_full-OS2.0.7.0.ULOCNXM-user-14.0-0a3527e071.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS2.0.7.0.ULOCNXM
 - android: '14.0'
   codename: xaga
   date: '2024-10-08'
