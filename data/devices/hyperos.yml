@@ -5148,6 +5148,12 @@
   version: OS1.0.3.0.UNRINXM
 - android: '15.0'
   codename: garnet
+  date: '2025-07-10'
+  download: https://bigota.d.miui.com/OS2.0.9.0.VNRINXM/fw_garnet_in_global_garnet_in_global-ota_full-OS2.0.9.0.VNRINXM-user-15.0-efa3206748.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS2.0.9.0.VNRINXM
+- android: '15.0'
+  codename: garnet
   date: '2025-06-09'
   download: https://bigota.d.miui.com/OS2.0.8.0.VNRINXM/fw_garnet_in_global_garnet_in_global-ota_full-OS2.0.8.0.VNRINXM-user-15.0-6e40224e64.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
@@ -9886,6 +9892,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UOFMIXM/fw_obsidian_miui_OBSIDIANGlobal_OS1.0.3.0.UOFMIXM_4c5ca499f5_14.0.zip
   name: Redmi Note 14 Pro 4G
   version: OS1.0.3.0.UOFMIXM
+- android: '15.0'
+  codename: obsidian
+  date: '2025-07-10'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VOFEUXM/fw_obsidian_eea_global_obsidian_eea_global-ota_full-OS2.0.202.0.VOFEUXM-user-15.0-f7219b1c2a.zip
+  name: Redmi Note 14 Pro 4G
+  version: OS2.0.202.0.VOFEUXM
 - android: '14.0'
   codename: odin
   date: '2024-06-24'

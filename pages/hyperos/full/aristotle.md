@@ -54,6 +54,7 @@ permalink: /archive/hyperos/aristotle/
                 <tbody>
                 <tr><td>Xiaomi 13T Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VMFRUXM</td><td>15.0</td><td>5.9 GB</td><td>2025-06-28</td><td><a href="/hyperos/aristotle/stable/OS2.0.202.0.VMFRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VMFRUXM</td><td>15.0</td><td>8.0 GB</td><td>2025-06-17</td><td><a href="/hyperos/aristotle/stable/OS2.0.202.0.VMFRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.202.0.VMFIDXM</td><td>15.0</td><td>5.9 GB</td><td>2025-06-28</td><td><a href="/hyperos/aristotle/stable beta/OS2.0.202.0.VMFIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VMFTRXM</td><td>15.0</td><td>5.9 GB</td><td>2025-06-28</td><td><a href="/hyperos/aristotle/stable/OS2.0.202.0.VMFTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VMFTRXM</td><td>15.0</td><td>7.3 GB</td><td>2025-06-17</td><td><a href="/hyperos/aristotle/stable/OS2.0.202.0.VMFTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VMFRUXM</td><td>15.0</td><td>5.8 GB</td><td>2025-05-22</td><td><a href="/hyperos/aristotle/stable/OS2.0.102.0.VMFRUXM/">Download</a></td></tr>
@@ -66,12 +67,12 @@ permalink: /archive/hyperos/aristotle/
 <tr><td>Xiaomi 13T Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VMFIDXM</td><td>15.0</td><td>7.3 GB</td><td>2025-05-08</td><td><a href="/hyperos/aristotle/stable/OS2.0.102.0.VMFIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.104.0.VMFEUXM</td><td>15.0</td><td>6.0 GB</td><td>2025-05-16</td><td><a href="/hyperos/aristotle/stable/OS2.0.104.0.VMFEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.104.0.VMFEUXM</td><td>15.0</td><td>7.3 GB</td><td>2025-05-06</td><td><a href="/hyperos/aristotle/stable/OS2.0.104.0.VMFEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13T Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.104.0.VMFMIXM</td><td>15.0</td><td>5.9 GB</td><td>2025-05-16</td><td><a href="/hyperos/aristotle/stable/OS2.0.104.0.VMFMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13T Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.104.0.VMFMIXM</td><td>15.0</td><td>7.9 GB</td><td>2025-05-08</td><td><a href="/hyperos/aristotle/stable/OS2.0.104.0.VMFMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VMFTWXM</td><td>15.0</td><td>5.8 GB</td><td>2025-06-28</td><td><a href="/hyperos/aristotle/stable/OS2.0.202.0.VMFTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VMFTWXM</td><td>15.0</td><td>6.8 GB</td><td>2025-06-17</td><td><a href="/hyperos/aristotle/stable/OS2.0.202.0.VMFTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VMFMIXM</td><td>15.0</td><td>5.9 GB</td><td>2025-06-27</td><td><a href="/hyperos/aristotle/stable/OS2.0.203.0.VMFMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VMFMIXM</td><td>15.0</td><td>7.8 GB</td><td>2025-06-18</td><td><a href="/hyperos/aristotle/stable/OS2.0.203.0.VMFMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.104.0.VMFMIXM</td><td>15.0</td><td>5.9 GB</td><td>2025-05-16</td><td><a href="/hyperos/aristotle/stable/OS2.0.104.0.VMFMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.104.0.VMFMIXM</td><td>15.0</td><td>7.9 GB</td><td>2025-05-08</td><td><a href="/hyperos/aristotle/stable/OS2.0.104.0.VMFMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VMFEUXM</td><td>15.0</td><td>6.0 GB</td><td>2025-06-23</td><td><a href="/hyperos/aristotle/stable/OS2.0.202.0.VMFEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VMFEUXM</td><td>15.0</td><td>7.3 GB</td><td>2025-06-16</td><td><a href="/hyperos/aristotle/stable/OS2.0.202.0.VMFEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VMFRUXM</td><td>15.0</td><td>5.8 GB</td><td>2025-02-27</td><td><a href="/hyperos/aristotle/stable/OS2.0.2.0.VMFRUXM/">Download</a></td></tr>

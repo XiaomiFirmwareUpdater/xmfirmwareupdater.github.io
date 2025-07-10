@@ -66,8 +66,8 @@ permalink: /hyperos/degas/
 <tr><td>Xiaomi 14T Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UNERUXM</td><td>14.0</td><td>5.6 GB</td><td>2024-09-26</td><td><a href="/hyperos/degas/stable beta/OS1.0.1.0.UNERUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VNETRXM</td><td>15.0</td><td>7.7 GB</td><td>2025-05-06</td><td><a href="/hyperos/degas/stable/OS2.0.102.0.VNETRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VNETRXM</td><td>15.0</td><td>6.1 GB</td><td>2025-05-14</td><td><a href="/hyperos/degas/stable/OS2.0.102.0.VNETRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14T Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VNETWXM</td><td>15.0</td><td>7.4 GB</td><td>2025-05-06</td><td><a href="/hyperos/degas/stable/OS2.0.102.0.VNETWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14T Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VNETWXM</td><td>15.0</td><td>6.0 GB</td><td>2025-05-14</td><td><a href="/hyperos/degas/stable/OS2.0.102.0.VNETWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VNETWXM</td><td>15.0</td><td>7.2 GB</td><td>2025-06-26</td><td><a href="/hyperos/degas/stable/OS2.0.202.0.VNETWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VNETWXM</td><td>15.0</td><td>6.0 GB</td><td>2025-06-29</td><td><a href="/hyperos/degas/stable/OS2.0.202.0.VNETWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

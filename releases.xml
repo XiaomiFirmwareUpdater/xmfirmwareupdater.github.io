@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 10 Jul 2025 00:37:48 </lastBuildDate>
+        <lastBuildDate>Thu, 10 Jul 2025 06:51:18 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS2.0.9.0.VNRINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
+            <pubDate>Thu, 10 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro 4G (obsidian) - OS2.0.202.0.VOFEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
+            <pubDate>Thu, 10 Jul 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS2.0.201.0.VOPMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
@@ -887,11 +897,6 @@
             <pubDate>Tue, 10 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS2.0.8.0.VNRINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
-            <pubDate>Mon, 09 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS2.0.201.0.VOMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/miro/</link>
             <pubDate>Mon, 09 Jun 2025 00:00:00 </pubDate>
@@ -1139,11 +1144,6 @@
         <item>
             <title>Xiaomi 11T (agate) - OS1.0.15.0.UKWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/agate/</link>
-            <pubDate>Wed, 21 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 Pro 4G (obsidian) - OS2.0.3.0.VOFEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
             <pubDate>Wed, 21 May 2025 00:00:00 </pubDate>
         </item>
         <item>
