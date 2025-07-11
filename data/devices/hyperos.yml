@@ -11932,6 +11932,12 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VNNCNXM/fw_rothko_rothko-ota_full-OS2.0.203.0.VNNCNXM-user-15.0-c322df444c.zip
   name: Redmi K70 Ultra/Xiaomi 14T Pro
   version: OS2.0.203.0.VNNCNXM
+- android: '16.0'
+  codename: rothko
+  date: '2025-07-11'
+  download: https://bigota.d.miui.com/OS2.0.215.0.WNNMIXM/fw_rothko_global_rothko_global-ota_full-OS2.0.215.0.WNNMIXM-user-16.0-11a44b58fb.zip
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
+  version: OS2.0.215.0.WNNMIXM
 - android: '15.0'
   codename: rothko
   date: '2025-03-10'
@@ -17818,6 +17824,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNOMIXM/fw_zircon_miui_ZIRCONGlobal_OS1.0.4.0.UNOMIXM_dd13084ffb_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.4.0.UNOMIXM
+- android: '15.0'
+  codename: zircon
+  date: '2025-07-11'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VNOINXM/fw_zircon_in_global_zircon_in_global-ota_full-OS2.0.203.0.VNOINXM-user-15.0-54440c7f4f.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS2.0.203.0.VNOINXM
 - android: '14.0'
   codename: zircon
   date: '2024-07-11'
