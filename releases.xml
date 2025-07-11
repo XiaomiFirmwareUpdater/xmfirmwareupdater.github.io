@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 11 Jul 2025 07:05:11 </lastBuildDate>
+        <lastBuildDate>Fri, 11 Jul 2025 13:31:10 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.215.0.WNNMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
+            <pubDate>Fri, 11 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.215.0.WNNEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
+            <pubDate>Fri, 11 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 NFC (sapphiren) - OS2.0.202.0.VNHEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
             <pubDate>Fri, 11 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -324,11 +334,6 @@
         <item>
             <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.201.0.VOJEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
-            <pubDate>Mon, 30 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.203.0.VNNEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
             <pubDate>Mon, 30 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1124,11 +1129,6 @@
         <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS2.0.104.0.VMAMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
-            <pubDate>Mon, 26 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 NFC (sapphiren) - OS2.0.7.0.VNHEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
             <pubDate>Mon, 26 May 2025 00:00:00 </pubDate>
         </item>
         <item>
