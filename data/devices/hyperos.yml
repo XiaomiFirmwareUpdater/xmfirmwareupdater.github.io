@@ -3892,6 +3892,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.1.0.UNFMIXM_69840715c1_14.0.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.1.0.UNFMIXM
+- android: '15.0'
+  codename: emerald
+  date: '2025-07-11'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VFOMIXM/fw_emerald_r_global_emerald_r_global-ota_full-OS2.0.202.0.VFOMIXM-user-15.0-89e98e8643.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
+  version: OS2.0.202.0.VFOMIXM
 - android: '14.0'
   codename: emeraldr
   date: '2025-06-11'
@@ -5536,6 +5542,12 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VNQMIXM/fw_gold_global_gold_global-ota_full-OS2.0.2.0.VNQMIXM-user-15.0-bd6fa587c4.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: OS2.0.2.0.VNQMIXM
+- android: '15.0'
+  codename: gold
+  date: '2025-07-11'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VNQCNXM/fw_gold_gold-ota_full-OS2.0.203.0.VNQCNXM-user-15.0-100daaf157.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS2.0.203.0.VNQCNXM
 - android: '15.0'
   codename: gold
   date: '2025-06-11'
@@ -9058,6 +9070,24 @@
   download: https://bigota.d.miui.com/OS1.0.15.0.UMPINXM/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.15.0.UMPINXM_0aeff40c77_14.0.zip
   name: POCO X5 5G
   version: OS1.0.15.0.UMPINXM
+- android: '14.0'
+  codename: moonstone
+  date: '2025-07-11'
+  download: https://bigota.d.miui.com/OS1.0.18.0.UMPEUXM/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.18.0.UMPEUXM_70a30487d9_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.18.0.UMPEUXM
+- android: '14.0'
+  codename: moonstone
+  date: '2025-07-11'
+  download: https://bigota.d.miui.com/OS1.0.19.0.UMPMIXM/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.19.0.UMPMIXM_f2416b1148_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.19.0.UMPMIXM
+- android: '14.0'
+  codename: moonstone
+  date: '2025-07-11'
+  download: https://bigota.d.miui.com/OS1.0.17.0.UMPINXM/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.17.0.UMPINXM_a7f58ddb4f_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.17.0.UMPINXM
 - android: '14.0'
   codename: moonstone
   date: '2024-10-09'
