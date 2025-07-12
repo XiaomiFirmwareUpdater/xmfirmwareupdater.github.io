@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 12 Jul 2025 00:36:27 </lastBuildDate>
+        <lastBuildDate>Sat, 12 Jul 2025 06:46:55 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS2.0.203.0.VOMCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/miro/</link>
+            <pubDate>Sat, 12 Jul 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.202.0.VFOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
@@ -920,11 +925,6 @@
             <title>Xiaomi Pad 7 (uke) - OS2.0.106.0.VOZEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/uke/</link>
             <pubDate>Tue, 10 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS2.0.201.0.VOMCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/miro/</link>
-            <pubDate>Mon, 09 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi Pad 7 Pro (muyu) - OS2.0.105.0.VOYMIXM</title>
