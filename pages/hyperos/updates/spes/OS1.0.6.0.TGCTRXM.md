@@ -1,16 +1,16 @@
 ---
-title: Redmi Note 11 Turkey HyperOS OS1.0.4.0.TGCTRXM Update
+title: Redmi Note 11 Turkey HyperOS OS1.0.6.0.TGCTRXM Update
 layout: download
 name: Redmi Note 11 Turkey
 codename: spes
-permalink: /hyperos/spes/stable/OS1.0.4.0.TGCTRXM/
+permalink: /hyperos/spes/stable/OS1.0.6.0.TGCTRXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/spes/">Redmi Note 11 Turkey</a></li>
-        <li class="breadcrumb-item active" aria-current="page">OS1.0.4.0.TGCTRXM</li>
+        <li class="breadcrumb-item active" aria-current="page">OS1.0.6.0.TGCTRXM</li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -21,8 +21,8 @@ permalink: /hyperos/spes/stable/OS1.0.4.0.TGCTRXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.4.0.TGCTRXM Stable Official Update for Redmi Note 11 Turkey (spes)</h3>
-    <h5>This page shows the OS1.0.4.0.TGCTRXM update only. If you're looking for other updates check
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.6.0.TGCTRXM Stable Official Update for Redmi Note 11 Turkey (spes)</h3>
+    <h5>This page shows the OS1.0.6.0.TGCTRXM update only. If you're looking for other updates check
         <a href="/hyperos/spes/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
         It's not owned, modified or edited by XM Firmware Updater.</p>
@@ -50,7 +50,7 @@ permalink: /hyperos/spes/stable/OS1.0.4.0.TGCTRXM/
                     <h5><b>Codename: </b> <a href="/hyperos/spes/" target="_blank">spes</a> </h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS1.0.4.0.TGCTRXM</h5>
+                    <h5><b>Version: </b>OS1.0.6.0.TGCTRXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Branch: </b>Stable</h5>
@@ -62,23 +62,23 @@ permalink: /hyperos/spes/stable/OS1.0.4.0.TGCTRXM/
                     <h5><b>Size: </b>3.7 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-10-17</h5>
+                    <h5><b>Release Date: </b>2025-07-01</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_SPESTRGlobal_OS1.0.4.0.TGCTRXM_8907693855_13.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_SPESTRGlobal_OS1.0.6.0.TGCTRXM_ccdd4370f4_13.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">8907693855640437dc74288678970dd1</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ccdd4370f4328c896ef87da1c2d834ac</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.TGCTRXM/miui-blockota-spes_tr_global-OS1.0.3.0.TGCTRXM-OS1.0.4.0.TGCTRXM-5f2b882bcb-13.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.4.0.TGCTRXM/miui_SPESTRGlobal_OS1.0.4.0.TGCTRXM_8907693855_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.4.0.TGCTRXM/miui_SPESTRGlobal_OS1.0.4.0.TGCTRXM_8907693855_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.4.0.TGCTRXM/miui_SPESTRGlobal_OS1.0.4.0.TGCTRXM_8907693855_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.TGCTRXM/miui_SPESTRGlobal_OS1.0.4.0.TGCTRXM_8907693855_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.4.0.TGCTRXM/miui_SPESTRGlobal_OS1.0.4.0.TGCTRXM_8907693855_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.TGCTRXM/miui_SPESTRGlobal_OS1.0.6.0.TGCTRXM_ccdd4370f4_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.6.0.TGCTRXM/miui_SPESTRGlobal_OS1.0.6.0.TGCTRXM_ccdd4370f4_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.6.0.TGCTRXM/miui_SPESTRGlobal_OS1.0.6.0.TGCTRXM_ccdd4370f4_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.TGCTRXM/miui_SPESTRGlobal_OS1.0.6.0.TGCTRXM_ccdd4370f4_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.6.0.TGCTRXM/miui_SPESTRGlobal_OS1.0.6.0.TGCTRXM_ccdd4370f4_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#spes_1_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="spes_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="spes_1_changelog">
-                        <p id="changelog_text">[System]<br>Updated the security patch to October 2024. Increased system security.</p>
+                        <p id="changelog_text">[System]<br>Updated the security patch to May 2025. Increased system security.</p>
                     </div>
                 </li>
             </ul>
@@ -93,7 +93,7 @@ permalink: /hyperos/spes/stable/OS1.0.4.0.TGCTRXM/
                     <h5><b>Codename: </b> <a href="/hyperos/spes/" target="_blank">spes</a> </h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS1.0.4.0.TGCTRXM</h5>
+                    <h5><b>Version: </b>OS1.0.6.0.TGCTRXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Branch: </b>Stable</h5>
@@ -102,26 +102,26 @@ permalink: /hyperos/spes/stable/OS1.0.4.0.TGCTRXM/
                     <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.6 GB</h5>
+                    <h5><b>Size: </b>5.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-09-29</h5>
+                    <h5><b>Release Date: </b>2025-05-26</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">spes_tr_global_images_OS1.0.4.0.TGCTRXM_20240929.0000.00_13.0_tr_c43be7d94c.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">spes_tr_global_images_OS1.0.6.0.TGCTRXM_20250526.0000.00_13.0_tr_9924417ad7.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c43be7d94cc8a57bacf37d1874797b11</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">9924417ad79b12848129cba2af019944</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.4.0.TGCTRXM/spes_tr_global_images_OS1.0.4.0.TGCTRXM_20240929.0000.00_13.0_tr_c43be7d94c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.4.0.TGCTRXM/spes_tr_global_images_OS1.0.4.0.TGCTRXM_20240929.0000.00_13.0_tr_c43be7d94c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.4.0.TGCTRXM/spes_tr_global_images_OS1.0.4.0.TGCTRXM_20240929.0000.00_13.0_tr_c43be7d94c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.4.0.TGCTRXM/spes_tr_global_images_OS1.0.4.0.TGCTRXM_20240929.0000.00_13.0_tr_c43be7d94c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.4.0.TGCTRXM/spes_tr_global_images_OS1.0.4.0.TGCTRXM_20240929.0000.00_13.0_tr_c43be7d94c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.6.0.TGCTRXM/spes_tr_global_images_OS1.0.6.0.TGCTRXM_20250526.0000.00_13.0_tr_9924417ad7.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.6.0.TGCTRXM/spes_tr_global_images_OS1.0.6.0.TGCTRXM_20250526.0000.00_13.0_tr_9924417ad7.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.6.0.TGCTRXM/spes_tr_global_images_OS1.0.6.0.TGCTRXM_20250526.0000.00_13.0_tr_9924417ad7.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.6.0.TGCTRXM/spes_tr_global_images_OS1.0.6.0.TGCTRXM_20250526.0000.00_13.0_tr_9924417ad7.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.6.0.TGCTRXM/spes_tr_global_images_OS1.0.6.0.TGCTRXM_20250526.0000.00_13.0_tr_9924417ad7.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#spes_2_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="spes_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="spes_2_changelog">
-                        <p id="changelog_text">[System]<br>Updated the security patch to October 2024. Increased system security.</p>
+                        <p id="changelog_text">[System]<br>Updated the security patch to May 2025. Increased system security.</p>
                     </div>
                 </li>
             </ul>
