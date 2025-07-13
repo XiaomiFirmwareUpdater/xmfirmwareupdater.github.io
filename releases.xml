@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 13 Jul 2025 12:36:10 </lastBuildDate>
+        <lastBuildDate>Sun, 13 Jul 2025 18:42:34 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 12 (fire) - OS2.0.201.0.VMXEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/fire/</link>
+            <pubDate>Sun, 13 Jul 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS2.0.203.0.VOMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/miro/</link>
@@ -1214,11 +1219,6 @@
         <item>
             <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS2.0.6.0.VNUCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
-            <pubDate>Fri, 09 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12 (fire) - OS2.0.6.0.VMXEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/fire/</link>
             <pubDate>Fri, 09 May 2025 00:00:00 </pubDate>
         </item>
         <item>
