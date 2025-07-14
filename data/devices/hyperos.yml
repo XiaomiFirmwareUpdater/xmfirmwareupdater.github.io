@@ -2460,6 +2460,12 @@
   version: OS1.0.9.0.ULGCNXM
 - android: '14.0'
   codename: daumier
+  date: '2025-07-14'
+  download: https://bigota.d.miui.com/OS2.0.6.0.ULGCNXM/fw_daumier_daumier-ota_full-OS2.0.6.0.ULGCNXM-user-14.0-507b0b4906.zip
+  name: Xiaomi 12 Pro Dimensity
+  version: OS2.0.6.0.ULGCNXM
+- android: '14.0'
+  codename: daumier
   date: '2025-04-14'
   download: https://bigota.d.miui.com/OS2.0.3.0.ULGCNXM/fw_daumier_daumier-ota_full-OS2.0.3.0.ULGCNXM-user-14.0-9320893e31.zip
   name: Xiaomi 12 Pro Dimensity
@@ -2554,6 +2560,12 @@
   download: https://bigota.d.miui.com/OS2.0.103.0.VNEEUXM/fw_degas_eea_global_degas_eea_global-ota_full-OS2.0.103.0.VNEEUXM-user-15.0-879989d0fe.zip
   name: Xiaomi 14T
   version: OS2.0.103.0.VNEEUXM
+- android: '15.0'
+  codename: degas
+  date: '2025-07-14'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VNEMIXM/fw_degas_global_degas_global-ota_full-OS2.0.202.0.VNEMIXM-user-15.0-85e4eb9aa6.zip
+  name: Xiaomi 14T
+  version: OS2.0.202.0.VNEMIXM
 - android: '15.0'
   codename: degas
   date: '2025-02-11'

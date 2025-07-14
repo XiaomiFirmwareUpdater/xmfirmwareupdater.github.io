@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 14 Jul 2025 13:29:38 </lastBuildDate>
+        <lastBuildDate>Mon, 14 Jul 2025 18:54:08 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.3.0.VGQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
+            <pubDate>Mon, 14 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro Dimensity (daumier) - OS2.0.6.0.ULGCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/daumier/</link>
+            <pubDate>Mon, 14 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14T (degas) - OS2.0.202.0.VNEMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/degas/</link>
             <pubDate>Mon, 14 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1067,11 +1077,6 @@
             <pubDate>Tue, 03 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12 Pro Dimensity (daumier) - OS2.0.5.0.ULGCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/daumier/</link>
-            <pubDate>Tue, 03 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS2.0.107.0.VNXMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
             <pubDate>Tue, 03 Jun 2025 00:00:00 </pubDate>
@@ -1129,11 +1134,6 @@
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS2.0.104.0.VNAEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Mon, 26 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14T (degas) - OS2.0.103.0.VNEMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/degas/</link>
             <pubDate>Mon, 26 May 2025 00:00:00 </pubDate>
         </item>
         <item>
