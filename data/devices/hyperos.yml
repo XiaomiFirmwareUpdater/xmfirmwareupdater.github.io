@@ -264,6 +264,12 @@
   version: OS1.0.4.0.UGQMIXM
 - android: '15.0'
   codename: air
+  date: '2025-07-14'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VGQMIXM/fw_air_global_air_global-ota_full-OS2.0.3.0.VGQMIXM-user-15.0-b463d0c546.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS2.0.3.0.VGQMIXM
+- android: '15.0'
+  codename: air
   date: '2025-05-12'
   download: https://bigota.d.miui.com/OS2.0.5.0.VGQEUXM/fw_air_eea_global_air_eea_global-ota_full-OS2.0.5.0.VGQEUXM-user-15.0-a0087c1011.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
@@ -16240,6 +16246,12 @@
   download: https://bigota.d.miui.com/OS1.0.17.0.UKDMIXM/fw_vili_miui_VILIGlobal_OS1.0.17.0.UKDMIXM_c197324d45_14.0.zip
   name: Xiaomi 11T Pro
   version: OS1.0.17.0.UKDMIXM
+- android: '14.0'
+  codename: vili
+  date: '2025-07-14'
+  download: https://bigota.d.miui.com/OS1.0.16.0.UKDINXM/fw_vili_miui_VILIINGlobal_OS1.0.16.0.UKDINXM_3414c59c53_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.16.0.UKDINXM
 - android: '14.0'
   codename: vili
   date: '2024-09-11'

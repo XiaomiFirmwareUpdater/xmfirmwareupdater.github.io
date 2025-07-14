@@ -19,15 +19,15 @@
     android: '14.0'
     miui: OS1.0.16.0.UKWEUXM
 - branch: stable
-  date: '2025-05-10'
+  date: '2025-07-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-10.05.2025/fw_air_global_air_global-ota_full-OS2.0.2.0.VGQMIXM-user-15.0-3b2261ebb1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/air/fw_air_global_air_global-ota_full-OS2.0.2.0.VGQMIXM-user-15.0-3b2261ebb1.zip
-  filename: fw_air_global_air_global-ota_full-OS2.0.2.0.VGQMIXM-user-15.0-3b2261ebb1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-14.07.2025/fw_air_global_air_global-ota_full-OS2.0.3.0.VGQMIXM-user-15.0-b463d0c546.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/air/fw_air_global_air_global-ota_full-OS2.0.3.0.VGQMIXM-user-15.0-b463d0c546.zip
+  filename: fw_air_global_air_global-ota_full-OS2.0.3.0.VGQMIXM-user-15.0-b463d0c546.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.2.0.VGQMIXM
+    miui: OS2.0.3.0.VGQMIXM
 - branch: stable
   date: '2025-04-25'
   downloads:
@@ -6439,15 +6439,15 @@
     android: '14.0'
     miui: OS1.0.20.0.UKDEUXM
 - branch: stable
-  date: '2025-06-09'
+  date: '2025-07-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-09.06.2025/fw_vili_miui_VILIINGlobal_OS1.0.13.0.UKDINXM_cac4248446_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vili/fw_vili_miui_VILIINGlobal_OS1.0.13.0.UKDINXM_cac4248446_14.0.zip
-  filename: fw_vili_miui_VILIINGlobal_OS1.0.13.0.UKDINXM_cac4248446_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-14.07.2025/fw_vili_miui_VILIINGlobal_OS1.0.16.0.UKDINXM_3414c59c53_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vili/fw_vili_miui_VILIINGlobal_OS1.0.16.0.UKDINXM_3414c59c53_14.0.zip
+  filename: fw_vili_miui_VILIINGlobal_OS1.0.16.0.UKDINXM_3414c59c53_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.13.0.UKDINXM
+    miui: OS1.0.16.0.UKDINXM
 - branch: stable
   date: '2019-11-26'
   downloads:
