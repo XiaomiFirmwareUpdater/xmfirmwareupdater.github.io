@@ -3376,6 +3376,18 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UNLEUXM/fw_duchamp_miui_DUCHAMPEEAGlobal_OS1.0.12.0.UNLEUXM_04b7c5cd11_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS1.0.12.0.UNLEUXM
+- android: '15.0'
+  codename: duchamp
+  date: '2025-07-14'
+  download: https://bigota.d.miui.com/OS2.0.200.0.VNLMIXM/fw_duchamp_global_duchamp_global-ota_full-OS2.0.200.0.VNLMIXM-user-15.0-7fddb30aa0.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS2.0.200.0.VNLMIXM
+- android: '15.0'
+  codename: duchamp
+  date: '2025-07-14'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VNLINXM/fw_duchamp_in_global_duchamp_in_global-ota_full-OS2.0.201.0.VNLINXM-user-15.0-8838bd5bfd.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS2.0.201.0.VNLINXM
 - android: '14.0'
   codename: duchamp
   date: '2024-07-13'
@@ -12858,6 +12870,12 @@
   version: OS1.0.11.0.UNIEUXM
 - android: '15.0'
   codename: ruyi
+  date: '2025-07-14'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VNICNXM/fw_ruyi_ruyi-ota_full-OS2.0.207.0.VNICNXM-user-15.0-41f8ee0fc4.zip
+  name: MIX Flip
+  version: OS2.0.207.0.VNICNXM
+- android: '15.0'
+  codename: ruyi
   date: '2025-05-14'
   download: https://bigota.d.miui.com/OS2.0.106.0.VNICNXM/fw_ruyi_ruyi-ota_full-OS2.0.106.0.VNICNXM-user-15.0-c592dacf61.zip
   name: MIX Flip
@@ -14868,6 +14886,18 @@
   version: OS1.0.7.0.ULIEUXM
 - android: '14.0'
   codename: taoyao
+  date: '2025-07-14'
+  download: https://bigota.d.miui.com/OS1.0.30.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.30.0.ULIEUXM_729591b3a8_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.30.0.ULIEUXM
+- android: '14.0'
+  codename: taoyao
+  date: '2025-07-14'
+  download: https://bigota.d.miui.com/OS1.0.21.0.ULIMIXM/fw_taoyao_miui_TAOYAOGlobal_OS1.0.21.0.ULIMIXM_1fc94659cf_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.21.0.ULIMIXM
+- android: '14.0'
+  codename: taoyao
   date: '2024-08-12'
   download: https://bigota.d.miui.com/OS1.0.12.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.12.0.ULIEUXM_286fa7cf2e_14.0.zip
   name: Xiaomi 12 Lite
@@ -16198,6 +16228,18 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UKDMIXM/fw_vili_miui_VILIGlobal_OS1.0.6.0.UKDMIXM_3344f36bac_14.0.zip
   name: Xiaomi 11T Pro
   version: OS1.0.6.0.UKDMIXM
+- android: '14.0'
+  codename: vili
+  date: '2025-07-14'
+  download: https://bigota.d.miui.com/OS1.0.20.0.UKDEUXM/fw_vili_miui_VILIEEAGlobal_OS1.0.20.0.UKDEUXM_1018c33eaa_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.20.0.UKDEUXM
+- android: '14.0'
+  codename: vili
+  date: '2025-07-14'
+  download: https://bigota.d.miui.com/OS1.0.17.0.UKDMIXM/fw_vili_miui_VILIGlobal_OS1.0.17.0.UKDMIXM_c197324d45_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.17.0.UKDMIXM
 - android: '14.0'
   codename: vili
   date: '2024-09-11'
