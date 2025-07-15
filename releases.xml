@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 15 Jul 2025 06:35:59 </lastBuildDate>
+        <lastBuildDate>Tue, 15 Jul 2025 12:42:10 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Pad 2 4G (koto) - OS2.0.200.0.VOWINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/koto/</link>
+            <pubDate>Tue, 15 Jul 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.3.0.VGQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
@@ -815,11 +820,6 @@
             <title>Xiaomi 12 Pro (zeus) - OS2.0.4.0.VLBINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Thu, 19 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad 2 4G (koto) - OS2.0.101.0.VOWINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/koto/</link>
-            <pubDate>Wed, 18 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.104.0.VOJMIXM</title>
