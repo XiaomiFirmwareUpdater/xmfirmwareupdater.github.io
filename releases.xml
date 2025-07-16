@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 16 Jul 2025 00:36:14 </lastBuildDate>
+        <lastBuildDate>Wed, 16 Jul 2025 07:15:46 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>MIX Flip 2 (bixi) - OS2.0.206.0.VOHCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/bixi/</link>
+            <pubDate>Wed, 16 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - OS2.0.110.0.VMBEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Wed, 16 Jul 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Pad 2 4G (koto) - OS2.0.200.0.VOWINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/koto/</link>
@@ -169,11 +179,6 @@
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS2.0.201.0.VNAINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Wed, 09 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>MIX Flip 2 (bixi) - OS2.0.205.0.VOHCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/bixi/</link>
             <pubDate>Wed, 09 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -504,11 +509,6 @@
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS2.0.202.0.VMNCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
-            <pubDate>Fri, 27 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Pro (nuwa) - OS2.0.109.0.VMBEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Fri, 27 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
