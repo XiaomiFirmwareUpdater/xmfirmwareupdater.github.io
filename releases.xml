@@ -4,16 +4,41 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 16 Jul 2025 07:15:46 </lastBuildDate>
+        <lastBuildDate>Wed, 16 Jul 2025 13:59:13 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS2.0.201.0.VOQMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
+            <pubDate>Wed, 16 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS1.0.9.0.UOQCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
+            <pubDate>Wed, 16 Jul 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>MIX Flip 2 (bixi) - OS2.0.206.0.VOHCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/bixi/</link>
             <pubDate>Wed, 16 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 15S Pro (dijun) - OS2.0.205.0.VODCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dijun/</link>
+            <pubDate>Wed, 16 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 7 Ultra (jinghu) - OS2.0.205.0.VOXCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/jinghu/</link>
+            <pubDate>Wed, 16 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Xiaomi 13 Pro (nuwa) - OS2.0.110.0.VMBEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Wed, 16 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K Pad (turner) - OS2.0.213.0.VAOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/turner/</link>
             <pubDate>Wed, 16 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -452,11 +477,6 @@
             <pubDate>Mon, 30 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K Pad (turner) - OS2.0.211.0.VAOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/turner/</link>
-            <pubDate>Mon, 30 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Mi 11 (venus) - OS2.0.2.0.UKBMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/venus/</link>
             <pubDate>Mon, 30 Jun 2025 00:00:00 </pubDate>
@@ -732,11 +752,6 @@
             <pubDate>Mon, 23 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 15S Pro (dijun) - OS2.0.132.0.VODCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dijun/</link>
-            <pubDate>Fri, 20 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.7.0.UKOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
             <pubDate>Fri, 20 Jun 2025 00:00:00 </pubDate>
@@ -872,11 +887,6 @@
             <pubDate>Mon, 16 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 7 Ultra (jinghu) - OS2.0.111.0.VOXCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/jinghu/</link>
-            <pubDate>Fri, 13 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.7.0.VMRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/marble/</link>
             <pubDate>Fri, 13 Jun 2025 00:00:00 </pubDate>
@@ -905,11 +915,6 @@
             <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.203.0.VNNCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
             <pubDate>Thu, 12 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS2.0.206.0.VOQCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
-            <pubDate>Wed, 11 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.204.0.VNLCNXM</title>
@@ -1085,11 +1090,6 @@
             <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS2.0.104.0.VNXEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
             <pubDate>Tue, 03 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS1.0.12.0.UOQMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
-            <pubDate>Sun, 01 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 14 (houji) - OS2.0.103.0.VNCMIXM</title>

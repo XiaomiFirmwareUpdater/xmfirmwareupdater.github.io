@@ -3,7 +3,7 @@ title: POCO X5 5G Taiwan HyperOS OS1.0.16.0.UMPTWXM Update
 layout: download
 name: POCO X5 5G Taiwan
 codename: moon
-permalink: /hyperos/moon/stable beta/OS1.0.16.0.UMPTWXM/
+permalink: /hyperos/moon/stable/OS1.0.16.0.UMPTWXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/moon/stable beta/OS1.0.16.0.UMPTWXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.16.0.UMPTWXM Stable Beta Official Update for POCO X5 5G Taiwan (moon)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS1.0.16.0.UMPTWXM Stable Official Update for POCO X5 5G Taiwan (moon)</h3>
     <h5>This page shows the OS1.0.16.0.UMPTWXM update only. If you're looking for other updates check
         <a href="/hyperos/moon/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/moon/stable beta/OS1.0.16.0.UMPTWXM/
                     <h5><b>Version: </b>OS1.0.16.0.UMPTWXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>5.4 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-07-04</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">moonstone_tw_global_images_OS1.0.16.0.UMPTWXM_20250704.0000.00_14.0_tw_cacbd29664.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">cacbd29664fe7bce4b176ebec0ffa352</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.16.0.UMPTWXM/moonstone_tw_global_images_OS1.0.16.0.UMPTWXM_20250704.0000.00_14.0_tw_cacbd29664.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.16.0.UMPTWXM/moonstone_tw_global_images_OS1.0.16.0.UMPTWXM_20250704.0000.00_14.0_tw_cacbd29664.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.16.0.UMPTWXM/moonstone_tw_global_images_OS1.0.16.0.UMPTWXM_20250704.0000.00_14.0_tw_cacbd29664.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.16.0.UMPTWXM/moonstone_tw_global_images_OS1.0.16.0.UMPTWXM_20250704.0000.00_14.0_tw_cacbd29664.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.16.0.UMPTWXM/moonstone_tw_global_images_OS1.0.16.0.UMPTWXM_20250704.0000.00_14.0_tw_cacbd29664.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#moonstone_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="moonstone_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="moonstone_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to July 2025. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>POCO X5 5G Taiwan</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/moonstone/" target="_blank">moonstone</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS1.0.16.0.UMPTWXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -74,10 +117,10 @@ permalink: /hyperos/moon/stable beta/OS1.0.16.0.UMPTWXM/
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.16.0.UMPTWXM/miui-blockota-moonstone_tw_global-OS1.0.15.0.UMPTWXM-OS1.0.16.0.UMPTWXM-7080620636-14.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.16.0.UMPTWXM/miui_MOONSTONETWGlobal_OS1.0.16.0.UMPTWXM_d5393ccd1c_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.16.0.UMPTWXM/miui_MOONSTONETWGlobal_OS1.0.16.0.UMPTWXM_d5393ccd1c_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.16.0.UMPTWXM/miui_MOONSTONETWGlobal_OS1.0.16.0.UMPTWXM_d5393ccd1c_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.16.0.UMPTWXM/miui_MOONSTONETWGlobal_OS1.0.16.0.UMPTWXM_d5393ccd1c_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.16.0.UMPTWXM/miui_MOONSTONETWGlobal_OS1.0.16.0.UMPTWXM_d5393ccd1c_14.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#moonstone_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="moonstone_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#moonstone_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="moonstone_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="moonstone_1_changelog">
+                    <div class="collapse" id="moonstone_2_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to July 2025. Increased system security.</p>
                     </div>
                 </li>
