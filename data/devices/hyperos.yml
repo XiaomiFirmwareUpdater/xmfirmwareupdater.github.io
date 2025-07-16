@@ -12395,6 +12395,78 @@
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS2.0.4.0.VFSEUXM
 - android: '14.0'
+  codename: rubens
+  date: '2024-10-30'
+  download: https://bigota.d.miui.com/OS1.0.12.0.ULNCNXM/fw_rubens_miui_RUBENS_OS1.0.12.0.ULNCNXM_f5426b2ac2_14.0.zip
+  name: Redmi K50
+  version: OS1.0.12.0.ULNCNXM
+- android: '14.0'
+  codename: rubens
+  date: '2024-03-29'
+  download: https://bigota.d.miui.com/OS1.0.6.0.ULNCNXM/fw_rubens_miui_RUBENS_OS1.0.6.0.ULNCNXM_da485c3f4e_14.0.zip
+  name: Redmi K50
+  version: OS1.0.6.0.ULNCNXM
+- android: '14.0'
+  codename: rubens
+  date: '2024-06-27'
+  download: https://bigota.d.miui.com/OS1.0.7.0.ULNCNXM/fw_rubens_miui_RUBENS_OS1.0.7.0.ULNCNXM_4c4ea6059c_14.0.zip
+  name: Redmi K50
+  version: OS1.0.7.0.ULNCNXM
+- android: '14.0'
+  codename: rubens
+  date: '2024-08-23'
+  download: https://bigota.d.miui.com/OS1.0.10.0.ULNCNXM/fw_rubens_miui_RUBENS_OS1.0.10.0.ULNCNXM_b22feefbed_14.0.zip
+  name: Redmi K50
+  version: OS1.0.10.0.ULNCNXM
+- android: '14.0'
+  codename: rubens
+  date: '2025-01-20'
+  download: https://bigota.d.miui.com/OS1.0.16.0.ULNCNXM/fw_rubens_miui_RUBENS_OS1.0.16.0.ULNCNXM_35f6ff1971_14.0.zip
+  name: Redmi K50
+  version: OS1.0.16.0.ULNCNXM
+- android: '14.0'
+  codename: rubens
+  date: '2025-02-17'
+  download: https://bigota.d.miui.com/OS1.0.17.0.ULNCNXM/fw_rubens_miui_RUBENS_OS1.0.17.0.ULNCNXM_012d9c32ad_14.0.zip
+  name: Redmi K50
+  version: OS1.0.17.0.ULNCNXM
+- android: '14.0'
+  codename: rubens
+  date: '2025-05-13'
+  download: https://bigota.d.miui.com/OS2.0.5.0.ULNCNXM/fw_rubens_rubens-ota_full-OS2.0.5.0.ULNCNXM-user-14.0-ff82bed26d.zip
+  name: Redmi K50
+  version: OS2.0.5.0.ULNCNXM
+- android: '14.0'
+  codename: rubens
+  date: '2024-12-10'
+  download: https://bigota.d.miui.com/OS1.0.14.0.ULNCNXM/fw_rubens_miui_RUBENS_OS1.0.14.0.ULNCNXM_e6d36af76c_14.0.zip
+  name: Redmi K50
+  version: OS1.0.14.0.ULNCNXM
+- android: '14.0'
+  codename: rubens
+  date: '2024-10-10'
+  download: https://bigota.d.miui.com/OS1.0.11.0.ULNCNXM/fw_rubens_miui_RUBENS_OS1.0.11.0.ULNCNXM_7f6ee6418f_14.0.zip
+  name: Redmi K50
+  version: OS1.0.11.0.ULNCNXM
+- android: '14.0'
+  codename: rubens
+  date: '2024-02-04'
+  download: https://bigota.d.miui.com/OS1.0.2.0.ULNCNXM/fw_rubens_miui_RUBENS_OS1.0.2.0.ULNCNXM_96bcefdc4e_14.0.zip
+  name: Redmi K50
+  version: OS1.0.2.0.ULNCNXM
+- android: '14.0'
+  codename: rubens
+  date: '2024-08-01'
+  download: https://bigota.d.miui.com/OS1.0.8.0.ULNCNXM/fw_rubens_miui_RUBENS_OS1.0.8.0.ULNCNXM_d1ed876616_14.0.zip
+  name: Redmi K50
+  version: OS1.0.8.0.ULNCNXM
+- android: '14.0'
+  codename: rubens
+  date: '2025-04-01'
+  download: https://bigota.d.miui.com/OS2.0.3.0.ULNCNXM/fw_rubens_rubens-ota_full-OS2.0.3.0.ULNCNXM-user-14.0-2d1e319a9d.zip
+  name: Redmi K50
+  version: OS2.0.3.0.ULNCNXM
+- android: '14.0'
   codename: ruby
   date: '2024-08-31'
   download: https://bigota.d.miui.com/OS1.0.5.0.UMOINXM/fw_ruby_miui_RUBYINGlobal_OS1.0.5.0.UMOINXM_34e917150c_14.0.zip
@@ -17164,6 +17236,12 @@
   download: https://bigota.d.miui.com/OS2.0.6.0.VMICNXM/fw_yuechu_yuechu-ota_full-OS2.0.6.0.VMICNXM-user-15.0-94495c3e86.zip
   name: Xiaomi Civi 3
   version: OS2.0.6.0.VMICNXM
+- android: '15.0'
+  codename: yuechu
+  date: '2025-07-16'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VMICNXM/fw_yuechu_yuechu-ota_full-OS2.0.203.0.VMICNXM-user-15.0-0027a866ff.zip
+  name: Xiaomi Civi 3
+  version: OS2.0.203.0.VMICNXM
 - android: '14.0'
   codename: yuechu
   date: '2025-01-17'

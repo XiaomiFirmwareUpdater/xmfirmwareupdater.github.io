@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 16 Jul 2025 18:59:20 </lastBuildDate>
+        <lastBuildDate>Thu, 17 Jul 2025 00:45:04 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS2.0.202.0.VNAMIXM</title>
@@ -49,6 +49,11 @@
         <item>
             <title>Redmi K Pad (turner) - OS2.0.213.0.VAOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/turner/</link>
+            <pubDate>Wed, 16 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 3 (yuechu) - OS2.0.203.0.VMICNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/yuechu/</link>
             <pubDate>Wed, 16 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1157,11 +1162,6 @@
             <pubDate>Fri, 23 May 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Civi 3 (yuechu) - OS2.0.6.0.VMICNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/yuechu/</link>
-            <pubDate>Fri, 23 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 11T (agate) - OS1.0.15.0.UKWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/agate/</link>
             <pubDate>Wed, 21 May 2025 00:00:00 </pubDate>
@@ -1190,6 +1190,11 @@
             <title>Redmi Note 12 4G NFC (topaz) - OS2.0.3.0.VMGEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/topaz/</link>
             <pubDate>Wed, 14 May 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K50 (rubens) - OS2.0.5.0.ULNCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rubens/</link>
+            <pubDate>Tue, 13 May 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K50G/POCO F4 GT (ingres) - OS2.0.5.0.ULJCNXM</title>
