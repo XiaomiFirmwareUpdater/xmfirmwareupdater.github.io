@@ -3833,42 +3833,6 @@
   name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
   version: V14.0.2.0.TKLEUXM
 - android: '13.0'
-  codename: rubens
-  date: '2023-07-24'
-  download: https://bigota.d.miui.com/V14.0.7.0.TLNCNXM/fw_rubens_miui_RUBENS_V14.0.7.0.TLNCNXM_c0ff116acf_13.0.zip
-  name: Redmi K50
-  version: V14.0.7.0.TLNCNXM
-- android: '13.0'
-  codename: rubens
-  date: '2023-10-19'
-  download: https://bigota.d.miui.com/V14.0.8.0.TLNCNXM/fw_rubens_miui_RUBENS_V14.0.8.0.TLNCNXM_21f06b0d74_13.0.zip
-  name: Redmi K50
-  version: V14.0.8.0.TLNCNXM
-- android: '13.0'
-  codename: rubens
-  date: '2023-12-18'
-  download: https://bigota.d.miui.com/V14.0.10.0.TLNCNXM/fw_rubens_miui_RUBENS_V14.0.10.0.TLNCNXM_a39a2fa711_13.0.zip
-  name: Redmi K50
-  version: V14.0.10.0.TLNCNXM
-- android: '13.0'
-  codename: rubens
-  date: '2023-04-18'
-  download: https://bigota.d.miui.com/V14.0.6.0.TLNCNXM/fw_rubens_miui_RUBENS_V14.0.6.0.TLNCNXM_93dd11c7a1_13.0.zip
-  name: Redmi K50
-  version: V14.0.6.0.TLNCNXM
-- android: '13.0'
-  codename: rubens
-  date: '2023-03-14'
-  download: https://bigota.d.miui.com/V14.0.5.0.TLNCNXM/fw_rubens_miui_RUBENS_V14.0.5.0.TLNCNXM_d3b227642e_13.0.zip
-  name: Redmi K50
-  version: V14.0.5.0.TLNCNXM
-- android: '13.0'
-  codename: rubens
-  date: '2023-01-04'
-  download: https://bigota.d.miui.com/V14.0.4.0.TLNCNXM/fw_rubens_miui_RUBENS_V14.0.4.0.TLNCNXM_834ec7e175_13.0.zip
-  name: Redmi K50
-  version: V14.0.4.0.TLNCNXM
-- android: '13.0'
   codename: ruby
   date: '2023-10-31'
   download: https://bigota.d.miui.com/V14.0.5.0.TMOMIXM/fw_ruby_miui_RUBYGlobal_V14.0.5.0.TMOMIXM_6d41b1ceae_13.0.zip

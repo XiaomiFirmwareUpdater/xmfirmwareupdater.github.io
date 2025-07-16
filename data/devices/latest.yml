@@ -369,15 +369,15 @@
     android: '11.0'
     miui: 22.3.2
 - branch: stable
-  date: '2025-05-28'
+  date: '2025-07-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-28.05.2025/fw_aurora_global_aurora_global-ota_full-OS2.0.104.0.VNAMIXM-user-15.0-cbf59d5fa0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_global_aurora_global-ota_full-OS2.0.104.0.VNAMIXM-user-15.0-cbf59d5fa0.zip
-  filename: fw_aurora_global_aurora_global-ota_full-OS2.0.104.0.VNAMIXM-user-15.0-cbf59d5fa0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-16.07.2025/fw_aurora_global_aurora_global-ota_full-OS2.0.202.0.VNAMIXM-user-15.0-10b203dec6.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_global_aurora_global-ota_full-OS2.0.202.0.VNAMIXM-user-15.0-10b203dec6.zip
+  filename: fw_aurora_global_aurora_global-ota_full-OS2.0.202.0.VNAMIXM-user-15.0-10b203dec6.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.104.0.VNAMIXM
+    miui: OS2.0.202.0.VNAMIXM
 - branch: stable
   date: '2025-06-10'
   downloads:
@@ -4759,15 +4759,15 @@
     android: '14.0'
     miui: OS2.0.4.0.UMSINXM
 - branch: stable
-  date: '2025-06-09'
+  date: '2025-07-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rembrandt/releases/download/stable-09.06.2025/fw_rembrandt_rembrandt-ota_full-OS2.0.11.0.UMMCNXM-user-14.0-e1f3f6f8a9.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rembrandt/fw_rembrandt_rembrandt-ota_full-OS2.0.11.0.UMMCNXM-user-14.0-e1f3f6f8a9.zip
-  filename: fw_rembrandt_rembrandt-ota_full-OS2.0.11.0.UMMCNXM-user-14.0-e1f3f6f8a9.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rembrandt/releases/download/stable-16.07.2025/fw_rembrandt_rembrandt-ota_full-OS2.0.12.0.UMMCNXM-user-14.0-ce3502a21b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rembrandt/fw_rembrandt_rembrandt-ota_full-OS2.0.12.0.UMMCNXM-user-14.0-ce3502a21b.zip
+  filename: fw_rembrandt_rembrandt-ota_full-OS2.0.12.0.UMMCNXM-user-14.0-ce3502a21b.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS2.0.11.0.UMMCNXM
+    miui: OS2.0.12.0.UMMCNXM
 - branch: stable
   date: '2024-01-12'
   downloads:
@@ -5098,16 +5098,6 @@
   versions:
     android: '15.0'
     miui: OS2.0.4.0.VFSINXM
-- branch: stable
-  date: '2025-05-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rubens/releases/download/stable-13.05.2025/fw_rubens_rubens-ota_full-OS2.0.5.0.ULNCNXM-user-14.0-ff82bed26d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rubens/fw_rubens_rubens-ota_full-OS2.0.5.0.ULNCNXM-user-14.0-ff82bed26d.zip
-  filename: fw_rubens_rubens-ota_full-OS2.0.5.0.ULNCNXM-user-14.0-ff82bed26d.zip
-  region: China
-  versions:
-    android: '14.0'
-    miui: OS2.0.5.0.ULNCNXM
 - branch: stable
   date: '2025-07-07'
   downloads:

@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2025-06-09'
+  date: '2025-07-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rembrandt/releases/download/stable-09.06.2025/fw_rembrandt_rembrandt-ota_full-OS2.0.11.0.UMMCNXM-user-14.0-e1f3f6f8a9.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rembrandt/fw_rembrandt_rembrandt-ota_full-OS2.0.11.0.UMMCNXM-user-14.0-e1f3f6f8a9.zip
-  filename: fw_rembrandt_rembrandt-ota_full-OS2.0.11.0.UMMCNXM-user-14.0-e1f3f6f8a9.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rembrandt/releases/download/stable-16.07.2025/fw_rembrandt_rembrandt-ota_full-OS2.0.12.0.UMMCNXM-user-14.0-ce3502a21b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rembrandt/fw_rembrandt_rembrandt-ota_full-OS2.0.12.0.UMMCNXM-user-14.0-ce3502a21b.zip
+  filename: fw_rembrandt_rembrandt-ota_full-OS2.0.12.0.UMMCNXM-user-14.0-ce3502a21b.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS2.0.11.0.UMMCNXM
+    miui: OS2.0.12.0.UMMCNXM
