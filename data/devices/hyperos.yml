@@ -12006,6 +12006,12 @@
   version: OS1.0.27.0.UNNCNXM
 - android: '15.0'
   codename: rothko
+  date: '2025-07-17'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VNNCNXM/fw_rothko_rothko-ota_full-OS2.0.205.0.VNNCNXM-user-15.0-26b8ca878d.zip
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
+  version: OS2.0.205.0.VNNCNXM
+- android: '15.0'
+  codename: rothko
   date: '2025-04-17'
   download: https://bigota.d.miui.com/OS2.0.104.0.VNNMIXM/fw_rothko_global_rothko_global-ota_full-OS2.0.104.0.VNNMIXM-user-15.0-a4c3659d86.zip
   name: Redmi K70 Ultra/Xiaomi 14T Pro

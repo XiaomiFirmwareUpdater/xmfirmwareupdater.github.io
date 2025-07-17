@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 17 Jul 2025 00:45:04 </lastBuildDate>
+        <lastBuildDate>Thu, 17 Jul 2025 07:02:23 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.205.0.VNNCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
+            <pubDate>Thu, 17 Jul 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS2.0.202.0.VNAMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
@@ -924,11 +929,6 @@
         <item>
             <title>Redmi K70 Pro (manet) - OS2.0.203.0.VNMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/manet/</link>
-            <pubDate>Thu, 12 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.203.0.VNNCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
             <pubDate>Thu, 12 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
