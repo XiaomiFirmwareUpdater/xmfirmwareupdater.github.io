@@ -4,11 +4,26 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 17 Jul 2025 07:02:23 </lastBuildDate>
+        <lastBuildDate>Thu, 17 Jul 2025 13:43:03 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13 Ultra (ishtar) - OS2.0.203.0.VMACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
+            <pubDate>Thu, 17 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.201.0.VOJMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
+            <pubDate>Thu, 17 Jul 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.205.0.VNNCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
+            <pubDate>Thu, 17 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.202.0.VOAMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Thu, 17 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -717,11 +732,6 @@
             <pubDate>Tue, 24 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13 Ultra (ishtar) - OS2.0.202.0.VMACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
-            <pubDate>Tue, 24 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 13/POCO M6 (moon) - OS2.0.6.0.VNTMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moon/</link>
             <pubDate>Tue, 24 Jun 2025 00:00:00 </pubDate>
@@ -855,11 +865,6 @@
             <title>Xiaomi 12 Pro (zeus) - OS2.0.4.0.VLBINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Thu, 19 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.104.0.VOJMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
-            <pubDate>Wed, 18 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>MIX Flip (ruyi) - OS2.0.107.0.VNIMIXM</title>
@@ -1050,11 +1055,6 @@
             <title>Redmi K80/POCO F7 Pro (zorn) - OS2.0.202.0.VOKCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zorn/</link>
             <pubDate>Mon, 09 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.106.0.VOAMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
-            <pubDate>Sat, 07 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS2.0.102.0.VMAEUXM</title>
