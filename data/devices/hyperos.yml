@@ -4246,6 +4246,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UGUCNXM/fw_flame_miui_FLAME_OS1.0.7.0.UGUCNXM_c75fb07ee3_14.0.zip
   name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
   version: OS1.0.7.0.UGUCNXM
+- android: '15.0'
+  codename: flame
+  date: '2025-07-18'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VGUCNXM/fw_flame_flame-ota_full-OS2.0.201.0.VGUCNXM-user-15.0-cf5ba24b6f.zip
+  name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
+  version: OS2.0.201.0.VGUCNXM
 - android: '14.0'
   codename: flame
   date: '2025-04-14'
@@ -7744,6 +7750,12 @@
   download: https://bigota.d.miui.com/OS2.0.10.0.VOOCNXM/fw_malachite_malachite-ota_full-OS2.0.10.0.VOOCNXM-user-15.0-13718ddde6.zip
   name: Redmi Note 14 Pro 5G/POCO X7
   version: OS2.0.10.0.VOOCNXM
+- android: '14.0'
+  codename: malachite
+  date: '2025-07-18'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UOOCNXM/fw_malachite_miui_MALACHITE_OS1.0.13.0.UOOCNXM_e630a3e60c_14.0.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS1.0.13.0.UOOCNXM
 - android: '14.0'
   codename: malachite
   date: '2025-01-17'

@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 18 Jul 2025 00:36:06 </lastBuildDate>
+        <lastBuildDate>Fri, 18 Jul 2025 06:50:33 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS2.0.201.0.VGUCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flame/</link>
+            <pubDate>Fri, 18 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS1.0.13.0.UOOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
+            <pubDate>Fri, 18 Jul 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS2.0.203.0.VMACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
@@ -390,11 +400,6 @@
             <title>Redmi Pad SE (xun) - OS2.0.3.0.VMUINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xun/</link>
             <pubDate>Thu, 03 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS2.0.5.0.VGUCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flame/</link>
-            <pubDate>Wed, 02 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Pad 2 4G (koto) - OS2.0.201.0.VOWEUXM</title>
@@ -954,11 +959,6 @@
         <item>
             <title>Redmi 14C/POCO C75/Redmi A3 Pro (lake) - OS2.0.3.0.VGTMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lake/</link>
-            <pubDate>Wed, 11 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS2.0.204.0.VOOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
             <pubDate>Wed, 11 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>

@@ -9,15 +9,15 @@
     android: '15.0'
     miui: OS2.0.7.0.VOOMIXM
 - branch: stable
-  date: '2025-06-11'
+  date: '2025-07-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-11.06.2025/fw_malachite_malachite-ota_full-OS2.0.204.0.VOOCNXM-user-15.0-820841aea5.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/malachite/fw_malachite_malachite-ota_full-OS2.0.204.0.VOOCNXM-user-15.0-820841aea5.zip
-  filename: fw_malachite_malachite-ota_full-OS2.0.204.0.VOOCNXM-user-15.0-820841aea5.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-18.07.2025/fw_malachite_miui_MALACHITE_OS1.0.13.0.UOOCNXM_e630a3e60c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/malachite/fw_malachite_miui_MALACHITE_OS1.0.13.0.UOOCNXM_e630a3e60c_14.0.zip
+  filename: fw_malachite_miui_MALACHITE_OS1.0.13.0.UOOCNXM_e630a3e60c_14.0.zip
   region: China
   versions:
-    android: '15.0'
-    miui: OS2.0.204.0.VOOCNXM
+    android: '14.0'
+    miui: OS1.0.13.0.UOOCNXM
 - branch: stable
   date: '2025-06-30'
   downloads:
