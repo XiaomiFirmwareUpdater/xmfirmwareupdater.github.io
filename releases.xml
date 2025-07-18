@@ -4,16 +4,36 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 18 Jul 2025 12:38:34 </lastBuildDate>
+        <lastBuildDate>Fri, 18 Jul 2025 19:15:09 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.203.0.VMLEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/corot/</link>
+            <pubDate>Fri, 18 Jul 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS2.0.201.0.VGUCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flame/</link>
             <pubDate>Fri, 18 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>MIX Fold 4 (goku) - OS2.0.206.0.VNVCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/goku/</link>
+            <pubDate>Fri, 18 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS1.0.13.0.UOOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
+            <pubDate>Fri, 18 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - OS2.0.103.0.VOLMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
+            <pubDate>Fri, 18 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.212.0.VOACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Fri, 18 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -557,11 +577,6 @@
             <pubDate>Fri, 27 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>MIX Fold 4 (goku) - OS2.0.205.0.VNVCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/goku/</link>
-            <pubDate>Fri, 27 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 6 Pro (liuqin) - OS2.0.203.0.VMYCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/liuqin/</link>
             <pubDate>Fri, 27 Jun 2025 00:00:00 </pubDate>
@@ -569,11 +584,6 @@
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS2.0.202.0.VMNCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
-            <pubDate>Fri, 27 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - OS2.0.102.0.VOLMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
             <pubDate>Fri, 27 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -804,11 +814,6 @@
         <item>
             <title>Xiaomi 12S Ultra (thor) - OS2.0.13.0.VLACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/thor/</link>
-            <pubDate>Fri, 20 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.207.0.VOACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Fri, 20 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1225,11 +1230,6 @@
             <title>Redmi Pad SE 8.7 5G (flare) - OS1.0.3.0.UHXIDXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flare/</link>
             <pubDate>Thu, 08 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.102.0.VMLEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Tue, 06 May 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 15 (dada) - OS2.0.112.0.VOCMIXM</title>

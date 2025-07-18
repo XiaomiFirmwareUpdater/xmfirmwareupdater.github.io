@@ -1818,6 +1818,12 @@
   version: OS2.0.9.0.VMLEUXM
 - android: '15.0'
   codename: corot
+  date: '2025-07-18'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VMLEUXM/fw_corot_eea_global_corot_eea_global-ota_full-OS2.0.203.0.VMLEUXM-user-15.0-19af9a70ca.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS2.0.203.0.VMLEUXM
+- android: '15.0'
+  codename: corot
   date: '2025-03-18'
   download: https://bigota.d.miui.com/OS2.0.101.0.VMLEUXM/fw_corot_eea_global_corot_eea_global-ota_full-OS2.0.101.0.VMLEUXM-user-15.0-ddc49cf72f.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
@@ -5368,6 +5374,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UNVCNXM/fw_goku_miui_GOKU_OS1.0.7.0.UNVCNXM_72a459b259_14.0.zip
   name: MIX Fold 4
   version: OS1.0.7.0.UNVCNXM
+- android: '15.0'
+  codename: goku
+  date: '2025-07-18'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VNVCNXM/fw_goku_goku-ota_full-OS2.0.206.0.VNVCNXM-user-15.0-26031e675b.zip
+  name: MIX Fold 4
+  version: OS2.0.206.0.VNVCNXM
 - android: '14.0'
   codename: goku
   date: '2024-10-14'
@@ -10102,6 +10114,12 @@
   download: https://bigota.d.miui.com/OS2.0.114.0.VOLCNXM/fw_onyx_onyx-ota_full-OS2.0.114.0.VOLCNXM-user-15.0-4ff83d67a1.zip
   name: Redmi Turbo 4 Pro/POCO F7
   version: OS2.0.114.0.VOLCNXM
+- android: '15.0'
+  codename: onyx
+  date: '2025-07-18'
+  download: https://bigota.d.miui.com/OS2.0.103.0.VOLMIXM/fw_onyx_global_onyx_global-ota_full-OS2.0.103.0.VOLMIXM-user-15.0-60fb8212dc.zip
+  name: Redmi Turbo 4 Pro/POCO F7
+  version: OS2.0.103.0.VOLMIXM
 - android: '15.0'
   codename: onyx
   date: '2025-05-12'
@@ -16888,6 +16906,12 @@
   download: https://bigota.d.miui.com/OS2.0.207.0.VOACNXM/fw_xuanyuan_xuanyuan-ota_full-OS2.0.207.0.VOACNXM-user-15.0-a7c3fb1b3c.zip
   name: Xiaomi 15 Ultra
   version: OS2.0.207.0.VOACNXM
+- android: '15.0'
+  codename: xuanyuan
+  date: '2025-07-18'
+  download: https://bigota.d.miui.com/OS2.0.212.0.VOACNXM/fw_xuanyuan_xuanyuan-ota_full-OS2.0.212.0.VOACNXM-user-15.0-5395f5a1d0.zip
+  name: Xiaomi 15 Ultra
+  version: OS2.0.212.0.VOACNXM
 - android: '15.0'
   codename: xuanyuan
   date: '2025-03-18'

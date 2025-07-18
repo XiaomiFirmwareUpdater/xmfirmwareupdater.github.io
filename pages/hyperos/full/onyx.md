@@ -52,7 +52,9 @@ permalink: /archive/hyperos/onyx/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F7 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VOLEUXM</td><td>15.0</td><td>6.9 GB</td><td>2025-06-27</td><td><a href="/hyperos/onyx/stable/OS2.0.202.0.VOLEUXM/">Download</a></td></tr>
+                <tr><td>POCO F7 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.103.0.VOLMIXM</td><td>15.0</td><td>6.8 GB</td><td>2025-07-09</td><td><a href="/hyperos/onyx/stable/OS2.0.103.0.VOLMIXM/">Download</a></td></tr>
+<tr><td>POCO F7 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.103.0.VOLMIXM</td><td>15.0</td><td>10.0 GB</td><td>2025-07-04</td><td><a href="/hyperos/onyx/stable/OS2.0.103.0.VOLMIXM/">Download</a></td></tr>
+<tr><td>POCO F7 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VOLEUXM</td><td>15.0</td><td>6.9 GB</td><td>2025-06-27</td><td><a href="/hyperos/onyx/stable/OS2.0.202.0.VOLEUXM/">Download</a></td></tr>
 <tr><td>POCO F7 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VOLEUXM</td><td>15.0</td><td>9.4 GB</td><td>2025-06-20</td><td><a href="/hyperos/onyx/stable/OS2.0.202.0.VOLEUXM/">Download</a></td></tr>
 <tr><td>POCO F7 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VOLMIXM</td><td>15.0</td><td>6.8 GB</td><td>2025-06-27</td><td><a href="/hyperos/onyx/stable/OS2.0.102.0.VOLMIXM/">Download</a></td></tr>
 <tr><td>POCO F7 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VOLMIXM</td><td>15.0</td><td>10.1 GB</td><td>2025-06-12</td><td><a href="/hyperos/onyx/stable/OS2.0.102.0.VOLMIXM/">Download</a></td></tr>
