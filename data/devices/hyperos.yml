@@ -18466,6 +18466,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULRCNXM/fw_zizhan_miui_ZIZHAN_OS1.0.3.0.ULRCNXM_8d7d994eb5_14.0.zip
   name: Xiaomi MIX Fold 2
   version: OS1.0.3.0.ULRCNXM
+- android: '15.0'
+  codename: zizhan
+  date: '2025-07-19'
+  download: https://bigota.d.miui.com/OS2.0.16.0.VLRCNXM/fw_zizhan_zizhan-ota_full-OS2.0.16.0.VLRCNXM-user-15.0-dfc4086c7f.zip
+  name: Xiaomi MIX Fold 2
+  version: OS2.0.16.0.VLRCNXM
 - android: '14.0'
   codename: zizhan
   date: '2024-10-17'
