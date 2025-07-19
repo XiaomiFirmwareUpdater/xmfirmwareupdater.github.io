@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 19 Jul 2025 06:36:02 </lastBuildDate>
+        <lastBuildDate>Sat, 19 Jul 2025 12:50:38 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K80/POCO F7 Pro (zorn) - OS2.0.207.0.VOKCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zorn/</link>
+            <pubDate>Sat, 19 Jul 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.203.0.VMLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/corot/</link>
@@ -1054,11 +1059,6 @@
         <item>
             <title>Redmi A4 5G/POCO C75 5G (warm) - OS2.0.2.0.VGVINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/warm/</link>
-            <pubDate>Mon, 09 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K80/POCO F7 Pro (zorn) - OS2.0.202.0.VOKCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zorn/</link>
             <pubDate>Mon, 09 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
