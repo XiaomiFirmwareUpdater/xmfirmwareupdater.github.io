@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 20 Jul 2025 06:36:35 </lastBuildDate>
+        <lastBuildDate>Sun, 20 Jul 2025 12:45:38 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Pad 5 Pro 12.4 (dagu) - OS2.0.10.0.ULZCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dagu/</link>
+            <pubDate>Sun, 20 Jul 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi MIX Fold 2 (zizhan) - OS2.0.16.0.VLRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zizhan/</link>
@@ -709,11 +714,6 @@
         <item>
             <title>Xiaomi 15 (dada) - OS2.0.109.0.VOCINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dada/</link>
-            <pubDate>Wed, 25 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 5 Pro 12.4 (dagu) - OS2.0.9.0.ULZCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dagu/</link>
             <pubDate>Wed, 25 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
