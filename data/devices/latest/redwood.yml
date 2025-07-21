@@ -19,15 +19,15 @@
     android: '14.0'
     miui: OS2.0.14.0.UMSCNXM
 - branch: stable
-  date: '2025-06-19'
+  date: '2025-07-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-19.06.2025/fw_redwood_eea_global_redwood_eea_global-ota_full-OS2.0.4.0.UMSEUXM-user-14.0-79bc490064.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/redwood/fw_redwood_eea_global_redwood_eea_global-ota_full-OS2.0.4.0.UMSEUXM-user-14.0-79bc490064.zip
-  filename: fw_redwood_eea_global_redwood_eea_global-ota_full-OS2.0.4.0.UMSEUXM-user-14.0-79bc490064.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-21.07.2025/fw_redwood_eea_global_redwood_eea_global-ota_full-OS2.0.8.0.UMSEUXM-user-14.0-ca061d02b7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/redwood/fw_redwood_eea_global_redwood_eea_global-ota_full-OS2.0.8.0.UMSEUXM-user-14.0-ca061d02b7.zip
+  filename: fw_redwood_eea_global_redwood_eea_global-ota_full-OS2.0.8.0.UMSEUXM-user-14.0-ca061d02b7.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS2.0.4.0.UMSEUXM
+    miui: OS2.0.8.0.UMSEUXM
 - branch: stable
   date: '2025-07-21'
   downloads:

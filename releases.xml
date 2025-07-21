@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 21 Jul 2025 08:30:03 </lastBuildDate>
+        <lastBuildDate>Mon, 21 Jul 2025 13:31:00 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.201.0.VGQCNXM</title>
@@ -12,8 +12,18 @@
             <pubDate>Mon, 21 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS2.0.203.0.VNAEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Mon, 21 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>MIX Flip 2 (bixi) - OS2.0.207.0.VOHCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/bixi/</link>
+            <pubDate>Mon, 21 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS2.0.4.0.VLFMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/diting/</link>
             <pubDate>Mon, 21 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -37,8 +47,18 @@
             <pubDate>Mon, 21 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS2.0.8.0.UMSEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
+            <pubDate>Mon, 21 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS2.0.7.0.UMSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
+            <pubDate>Mon, 21 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A4 5G/POCO C75 5G (warm) - OS2.0.4.0.VGVINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/warm/</link>
             <pubDate>Mon, 21 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -877,11 +897,6 @@
             <pubDate>Thu, 19 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS2.0.4.0.UMSEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
-            <pubDate>Thu, 19 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12 Pro (zeus) - OS2.0.9.0.VLBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Thu, 19 Jun 2025 00:00:00 </pubDate>
@@ -1072,11 +1087,6 @@
             <pubDate>Mon, 09 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi A4 5G/POCO C75 5G (warm) - OS2.0.2.0.VGVINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/warm/</link>
-            <pubDate>Mon, 09 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS2.0.102.0.VMAEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
             <pubDate>Fri, 06 Jun 2025 00:00:00 </pubDate>
@@ -1145,16 +1155,6 @@
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.103.0.VMLMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/corot/</link>
             <pubDate>Wed, 28 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS2.0.2.0.VLFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/diting/</link>
-            <pubDate>Wed, 28 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS2.0.104.0.VNAEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Mon, 26 May 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS2.0.104.0.VMAMIXM</title>

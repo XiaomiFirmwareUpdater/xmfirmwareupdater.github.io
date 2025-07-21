@@ -864,6 +864,12 @@
   version: OS1.0.7.0.UNACNXM
 - android: '15.0'
   codename: aurora
+  date: '2025-07-21'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VNAEUXM/fw_aurora_eea_global_aurora_eea_global-ota_full-OS2.0.203.0.VNAEUXM-user-15.0-dbd04eb507.zip
+  name: Xiaomi 14 Ultra
+  version: OS2.0.203.0.VNAEUXM
+- android: '15.0'
+  codename: aurora
   date: '2025-01-21'
   download: https://bigota.d.miui.com/OS2.0.102.0.VNACNXM/fw_aurora_aurora-ota_full-OS2.0.102.0.VNACNXM-user-15.0-99a8f5e1d4.zip
   name: Xiaomi 14 Ultra
@@ -2758,6 +2764,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.ULFCNXM/fw_diting_miui_DITING_OS1.0.5.0.ULFCNXM_3e49c8ad44_14.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: OS1.0.5.0.ULFCNXM
+- android: '15.0'
+  codename: diting
+  date: '2025-07-21'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VLFMIXM/fw_diting_global_diting_global-ota_full-OS2.0.4.0.VLFMIXM-user-15.0-b39052204f.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS2.0.4.0.VLFMIXM
 - android: '14.0'
   codename: diting
   date: '2024-01-21'
@@ -11395,6 +11407,12 @@
 - android: '14.0'
   codename: redwood
   date: '2025-07-21'
+  download: https://bigota.d.miui.com/OS2.0.8.0.UMSEUXM/fw_redwood_eea_global_redwood_eea_global-ota_full-OS2.0.8.0.UMSEUXM-user-14.0-ca061d02b7.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS2.0.8.0.UMSEUXM
+- android: '14.0'
+  codename: redwood
+  date: '2025-07-21'
   download: https://bigota.d.miui.com/OS2.0.7.0.UMSMIXM/fw_redwood_global_redwood_global-ota_full-OS2.0.7.0.UMSMIXM-user-14.0-3030a6c862.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: OS2.0.7.0.UMSMIXM
@@ -16570,6 +16588,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UGVINXM/fw_warm_miui_WARMINGlobal_OS1.0.4.0.UGVINXM_7751a0c4a1_14.0.zip
   name: Redmi A4 5G/POCO C75 5G
   version: OS1.0.4.0.UGVINXM
+- android: '15.0'
+  codename: warm
+  date: '2025-07-21'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VGVINXM/fw_warm_in_global_warm_in_global-ota_full-OS2.0.4.0.VGVINXM-user-15.0-65fda9bcc0.zip
+  name: Redmi A4 5G/POCO C75 5G
+  version: OS2.0.4.0.VGVINXM
 - android: '14.0'
   codename: warm
   date: '2025-03-20'
