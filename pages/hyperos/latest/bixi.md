@@ -52,8 +52,8 @@ permalink: /hyperos/bixi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>MIX Flip 2 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VOHCNXM</td><td>15.0</td><td>11.1 GB</td><td>2025-07-07</td><td><a href="/hyperos/bixi/stable/OS2.0.206.0.VOHCNXM/">Download</a></td></tr>
-<tr><td>MIX Flip 2 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VOHCNXM</td><td>15.0</td><td>8.9 GB</td><td>2025-07-11</td><td><a href="/hyperos/bixi/stable/OS2.0.206.0.VOHCNXM/">Download</a></td></tr>
+                <tr><td>MIX Flip 2 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VOHCNXM</td><td>15.0</td><td>11.2 GB</td><td>2025-07-12</td><td><a href="/hyperos/bixi/stable/OS2.0.207.0.VOHCNXM/">Download</a></td></tr>
+<tr><td>MIX Flip 2 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VOHCNXM</td><td>15.0</td><td>8.9 GB</td><td>2025-07-16</td><td><a href="/hyperos/bixi/stable/OS2.0.207.0.VOHCNXM/">Download</a></td></tr>
 <tr><td>MIX Flip 2 China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.104.0.VOHCNXM</td><td>15.0</td><td>8.3 GB</td><td>None</td><td><a href="/hyperos/bixi/stable beta/OS2.0.104.0.VOHCNXM/">Download</a></td></tr>
 
                 </tbody>

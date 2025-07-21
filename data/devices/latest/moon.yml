@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-06-24'
+  date: '2025-07-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moon/releases/download/stable-24.06.2025/fw_moon_global_moon_global-ota_full-OS2.0.6.0.VNTMIXM-user-15.0-f791dd7af6.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/moon/fw_moon_global_moon_global-ota_full-OS2.0.6.0.VNTMIXM-user-15.0-f791dd7af6.zip
-  filename: fw_moon_global_moon_global-ota_full-OS2.0.6.0.VNTMIXM-user-15.0-f791dd7af6.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moon/releases/download/stable-21.07.2025/fw_moon_global_moon_global-ota_full-OS2.0.201.0.VNTMIXM-user-15.0-5fd2d4aa61.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/moon/fw_moon_global_moon_global-ota_full-OS2.0.201.0.VNTMIXM-user-15.0-5fd2d4aa61.zip
+  filename: fw_moon_global_moon_global-ota_full-OS2.0.201.0.VNTMIXM-user-15.0-5fd2d4aa61.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.6.0.VNTMIXM
+    miui: OS2.0.201.0.VNTMIXM
 - branch: stable
   date: '2025-07-02'
   downloads:

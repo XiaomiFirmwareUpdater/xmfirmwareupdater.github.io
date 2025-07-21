@@ -208,6 +208,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UGQINXM/fw_air_miui_AIRINGlobal_OS1.0.5.0.UGQINXM_d1081078a4_14.0.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
   version: OS1.0.5.0.UGQINXM
+- android: '15.0'
+  codename: air
+  date: '2025-07-21'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VGQCNXM/fw_air_air-ota_full-OS2.0.201.0.VGQCNXM-user-15.0-b8e12e6082.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS2.0.201.0.VGQCNXM
 - android: '14.0'
   codename: air
   date: '2024-06-21'
@@ -1414,6 +1420,12 @@
   download: https://bigota.d.miui.com/OS2.0.108.0.VOHCNXM/fw_bixi_bixi-ota_full-OS2.0.108.0.VOHCNXM-user-15.0-95497b9791.zip
   name: MIX Flip 2
   version: OS2.0.108.0.VOHCNXM
+- android: '15.0'
+  codename: bixi
+  date: '2025-07-21'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VOHCNXM/fw_bixi_bixi-ota_full-OS2.0.207.0.VOHCNXM-user-15.0-dd88ff181c.zip
+  name: MIX Flip 2
+  version: OS2.0.207.0.VOHCNXM
 - android: '15.0'
   codename: bixi
   date: '2025-07-16'
@@ -4120,6 +4132,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UMXINXM/fw_fire_miui_FIREINGlobal_OS1.0.1.0.UMXINXM_944394f9fa_14.0.zip
   name: Redmi 12
   version: OS1.0.1.0.UMXINXM
+- android: '15.0'
+  codename: fire
+  date: '2025-07-21'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VMXMIXM/fw_fire_global_fire_global-ota_full-OS2.0.202.0.VMXMIXM-user-15.0-4539b05f80.zip
+  name: Redmi 12
+  version: OS2.0.202.0.VMXMIXM
 - android: '14.0'
   codename: fire
   date: '2024-06-18'
@@ -8902,6 +8920,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UNTMIXM/fw_moon_miui_MOONGlobal_OS1.0.8.0.UNTMIXM_33874dce35_14.0.zip
   name: Redmi 13/POCO M6
   version: OS1.0.8.0.UNTMIXM
+- android: '15.0'
+  codename: moon
+  date: '2025-07-21'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VNTMIXM/fw_moon_global_moon_global-ota_full-OS2.0.201.0.VNTMIXM-user-15.0-5fd2d4aa61.zip
+  name: Redmi 13/POCO M6
+  version: OS2.0.201.0.VNTMIXM
 - android: '14.0'
   codename: moon
   date: '2024-06-20'
@@ -11368,6 +11392,24 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UMSCNXM/fw_redwood_miui_REDWOOD_OS1.0.6.0.UMSCNXM_f7ddaf58a6_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: OS1.0.6.0.UMSCNXM
+- android: '14.0'
+  codename: redwood
+  date: '2025-07-21'
+  download: https://bigota.d.miui.com/OS2.0.7.0.UMSMIXM/fw_redwood_global_redwood_global-ota_full-OS2.0.7.0.UMSMIXM-user-14.0-3030a6c862.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS2.0.7.0.UMSMIXM
+- android: '14.0'
+  codename: redwood
+  date: '2025-07-21'
+  download: https://bigota.d.miui.com/OS2.0.7.0.UMSINXM/fw_redwood_in_global_redwood_in_global-ota_full-OS2.0.7.0.UMSINXM-user-14.0-ca1f8825be.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS2.0.7.0.UMSINXM
+- android: '14.0'
+  codename: redwood
+  date: '2025-07-21'
+  download: https://bigota.d.miui.com/OS2.0.14.0.UMSCNXM/fw_redwood_redwood-ota_full-OS2.0.14.0.UMSCNXM-user-14.0-eb88dfd897.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS2.0.14.0.UMSCNXM
 - android: '14.0'
   codename: redwood
   date: '2025-04-21'
