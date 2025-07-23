@@ -52,8 +52,8 @@ permalink: /hyperos/marble/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12 Turbo China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.7.0.VMRCNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-05-20</td><td><a href="/hyperos/marble/stable/OS2.0.7.0.VMRCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 Turbo China</td><td>Stable</td><td>Recovery</td><td>OS2.0.7.0.VMRCNXM</td><td>15.0</td><td>6.3 GB</td><td>2025-06-03</td><td><a href="/hyperos/marble/stable/OS2.0.7.0.VMRCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12 Turbo China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VMRCNXM</td><td>15.0</td><td>7.6 GB</td><td>2025-07-08</td><td><a href="/hyperos/marble/stable/OS2.0.203.0.VMRCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 Turbo China</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VMRCNXM</td><td>15.0</td><td>6.2 GB</td><td>2025-07-15</td><td><a href="/hyperos/marble/stable/OS2.0.203.0.VMRCNXM/">Download</a></td></tr>
 <tr><td>POCO F5 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.VMREUXM</td><td>15.0</td><td>7.3 GB</td><td>2025-06-09</td><td><a href="/hyperos/marble/stable/OS2.0.3.0.VMREUXM/">Download</a></td></tr>
 <tr><td>POCO F5 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VMREUXM</td><td>15.0</td><td>5.5 GB</td><td>2025-06-20</td><td><a href="/hyperos/marble/stable/OS2.0.3.0.VMREUXM/">Download</a></td></tr>
 <tr><td>POCO F5 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.5.0.VMRMIXM</td><td>15.0</td><td>8.0 GB</td><td>2025-05-12</td><td><a href="/hyperos/marble/stable/OS2.0.5.0.VMRMIXM/">Download</a></td></tr>
