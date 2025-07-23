@@ -29,6 +29,16 @@
     android: '15.0'
     miui: OS2.0.202.0.VMVCNXM
 - branch: stable
+  date: '2025-07-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_babylon/releases/download/stable-23.07.2025/fw_babylon_babylon-ota_full-OS2.0.204.0.VMVCNXM-user-15.0-82ee58acea.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/babylon/fw_babylon_babylon-ota_full-OS2.0.204.0.VMVCNXM-user-15.0-82ee58acea.zip
+  filename: fw_babylon_babylon-ota_full-OS2.0.204.0.VMVCNXM-user-15.0-82ee58acea.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.204.0.VMVCNXM
+- branch: stable
   date: '2023-09-21'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_babylon/releases/download/stable-22.09.2023/fw_babylon_miui_BABYLON_V14.1.9.0.TMVCNXM_2275df6b37_13.0.zip

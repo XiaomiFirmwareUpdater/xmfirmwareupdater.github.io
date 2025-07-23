@@ -409,15 +409,15 @@
     android: '15.0'
     miui: OS2.0.201.0.VNAINXM
 - branch: stable
-  date: '2025-06-24'
+  date: '2025-07-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_babylon/releases/download/stable-25.06.2025/fw_babylon_babylon-ota_full-OS2.0.202.0.VMVCNXM-user-15.0-e482d15b20.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/babylon/fw_babylon_babylon-ota_full-OS2.0.202.0.VMVCNXM-user-15.0-e482d15b20.zip
-  filename: fw_babylon_babylon-ota_full-OS2.0.202.0.VMVCNXM-user-15.0-e482d15b20.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_babylon/releases/download/stable-23.07.2025/fw_babylon_babylon-ota_full-OS2.0.204.0.VMVCNXM-user-15.0-82ee58acea.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/babylon/fw_babylon_babylon-ota_full-OS2.0.204.0.VMVCNXM-user-15.0-82ee58acea.zip
+  filename: fw_babylon_babylon-ota_full-OS2.0.204.0.VMVCNXM-user-15.0-82ee58acea.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.202.0.VMVCNXM
+    miui: OS2.0.204.0.VMVCNXM
 - branch: stable
   date: '2022-06-19'
   downloads:
@@ -5949,15 +5949,15 @@
     android: '15.0'
     miui: OS2.0.10.0.VMGMIXM
 - branch: stable
-  date: '2025-05-14'
+  date: '2025-07-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_topaz/releases/download/stable-14.05.2025/fw_topaz_eea_global_topaz_eea_global-ota_full-OS2.0.3.0.VMGEUXM-user-15.0-7d600d5d01.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/topaz/fw_topaz_eea_global_topaz_eea_global-ota_full-OS2.0.3.0.VMGEUXM-user-15.0-7d600d5d01.zip
-  filename: fw_topaz_eea_global_topaz_eea_global-ota_full-OS2.0.3.0.VMGEUXM-user-15.0-7d600d5d01.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_topaz/releases/download/stable-23.07.2025/fw_topaz_eea_global_topaz_eea_global-ota_full-OS2.0.203.0.VMGEUXM-user-15.0-3968ea1830.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/topaz/fw_topaz_eea_global_topaz_eea_global-ota_full-OS2.0.203.0.VMGEUXM-user-15.0-3968ea1830.zip
+  filename: fw_topaz_eea_global_topaz_eea_global-ota_full-OS2.0.203.0.VMGEUXM-user-15.0-3968ea1830.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.3.0.VMGEUXM
+    miui: OS2.0.203.0.VMGEUXM
 - branch: stable
   date: '2022-09-21'
   downloads:
