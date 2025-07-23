@@ -1492,6 +1492,12 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.VNUCNXM/fw_breeze_breeze-ota_full-OS2.0.3.0.VNUCNXM-user-15.0-e8c2cffbba.zip
   name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
   version: OS2.0.3.0.VNUCNXM
+- android: '15.0'
+  codename: breeze
+  date: '2025-07-23'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VNUCNXM/fw_breeze_breeze-ota_full-OS2.0.201.0.VNUCNXM-user-15.0-1613abda2e.zip
+  name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
+  version: OS2.0.201.0.VNUCNXM
 - android: '14.0'
   codename: breeze
   date: '2024-09-15'
@@ -2302,6 +2308,12 @@
   download: https://bigota.d.miui.com/OS2.0.106.0.VOCEUXM/fw_dada_eea_global_dada_eea_global-ota_full-OS2.0.106.0.VOCEUXM-user-15.0-6feaa136cd.zip
   name: Xiaomi 15
   version: OS2.0.106.0.VOCEUXM
+- android: '16.0'
+  codename: dada
+  date: '2025-07-23'
+  download: https://bigota.d.miui.com/OS2.0.218.0.WOCMIXM/fw_dada_global_dada_global-ota_full-OS2.0.218.0.WOCMIXM-user-16.0-ebb1fa23a5.zip
+  name: Xiaomi 15
+  version: OS2.0.218.0.WOCMIXM
 - android: '15.0'
   codename: dada
   date: '2025-01-22'

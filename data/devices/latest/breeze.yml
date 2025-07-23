@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-05-09'
+  date: '2025-07-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-09.05.2025/fw_breeze_breeze-ota_full-OS2.0.6.0.VNUCNXM-user-15.0-0a6bc7c22d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/breeze/fw_breeze_breeze-ota_full-OS2.0.6.0.VNUCNXM-user-15.0-0a6bc7c22d.zip
-  filename: fw_breeze_breeze-ota_full-OS2.0.6.0.VNUCNXM-user-15.0-0a6bc7c22d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-23.07.2025/fw_breeze_breeze-ota_full-OS2.0.201.0.VNUCNXM-user-15.0-1613abda2e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/breeze/fw_breeze_breeze-ota_full-OS2.0.201.0.VNUCNXM-user-15.0-1613abda2e.zip
+  filename: fw_breeze_breeze-ota_full-OS2.0.201.0.VNUCNXM-user-15.0-1613abda2e.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.6.0.VNUCNXM
+    miui: OS2.0.201.0.VNUCNXM
 - branch: stable
   date: '2025-06-03'
   downloads:

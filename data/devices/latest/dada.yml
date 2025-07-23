@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-05-06'
+  date: '2025-07-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dada/releases/download/stable-06.05.2025/fw_dada_global_dada_global-ota_full-OS2.0.112.0.VOCMIXM-user-15.0-231c4fdb51.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dada/fw_dada_global_dada_global-ota_full-OS2.0.112.0.VOCMIXM-user-15.0-231c4fdb51.zip
-  filename: fw_dada_global_dada_global-ota_full-OS2.0.112.0.VOCMIXM-user-15.0-231c4fdb51.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dada/releases/download/stable-23.07.2025/fw_dada_global_dada_global-ota_full-OS2.0.218.0.WOCMIXM-user-16.0-ebb1fa23a5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dada/fw_dada_global_dada_global-ota_full-OS2.0.218.0.WOCMIXM-user-16.0-ebb1fa23a5.zip
+  filename: fw_dada_global_dada_global-ota_full-OS2.0.218.0.WOCMIXM-user-16.0-ebb1fa23a5.zip
   region: Global
   versions:
-    android: '15.0'
-    miui: OS2.0.112.0.VOCMIXM
+    android: '16.0'
+    miui: OS2.0.218.0.WOCMIXM
 - branch: stable
   date: '2025-06-10'
   downloads:
