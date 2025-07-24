@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 24 Jul 2025 12:56:23 </lastBuildDate>
+        <lastBuildDate>Thu, 24 Jul 2025 18:45:58 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS2.0.204.0.VNRCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
+            <pubDate>Thu, 24 Jul 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Pad Pro 5G/POCO Pad 5G (ruan) - OS2.0.201.0.VFSMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruan/</link>
@@ -64,6 +69,16 @@
         <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS2.0.201.0.VNSMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
+            <pubDate>Tue, 22 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS2.0.10.0.VNQMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/gold/</link>
+            <pubDate>Tue, 22 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS2.0.11.0.VNQINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/gold/</link>
             <pubDate>Tue, 22 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -317,6 +332,11 @@
             <pubDate>Fri, 11 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS2.0.203.0.VNQCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/gold/</link>
+            <pubDate>Fri, 11 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>POCO X5 5G (moonstone) - OS1.0.19.0.UMPMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moonstone/</link>
             <pubDate>Fri, 11 Jul 2025 00:00:00 </pubDate>
@@ -504,6 +524,11 @@
         <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS2.0.11.0.VNRMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
+            <pubDate>Fri, 04 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS2.0.8.0.VNQEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/gold/</link>
             <pubDate>Fri, 04 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -774,11 +799,6 @@
         <item>
             <title>Redmi K80 Ultra (dali) - OS2.0.210.0.VONCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dali/</link>
-            <pubDate>Thu, 26 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS2.0.9.0.VNRCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
             <pubDate>Thu, 26 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -2517,6 +2537,11 @@
             <pubDate>Fri, 26 Nov 2021 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 21.11.24</title>
+            <link>https://xmfirmwareupdater.com/firmware/raphael/</link>
+            <pubDate>Fri, 26 Nov 2021 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Mi CC 9 Meitu Edition (vela) - 21.11.24</title>
             <link>https://xmfirmwareupdater.com/firmware/vela/</link>
             <pubDate>Fri, 26 Nov 2021 00:00:00 </pubDate>
@@ -2555,6 +2580,11 @@
             <title>Redmi Y3 (onc) - V12.5.3.0.QFLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/onc/</link>
             <pubDate>Thu, 11 Nov 2021 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V12.5.6.0.RFKCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/raphael/</link>
+            <pubDate>Tue, 09 Nov 2021 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 8 (olive) - V12.5.2.0.QCNINXM</title>
@@ -2617,6 +2647,11 @@
             <pubDate>Tue, 24 Aug 2021 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V12.5.2.0.RFKMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/raphael/</link>
+            <pubDate>Mon, 16 Aug 2021 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi K20/Mi 9T (davinci) - V12.1.4.0.RFJMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/davinci/</link>
             <pubDate>Wed, 11 Aug 2021 00:00:00 </pubDate>
@@ -2650,6 +2685,11 @@
             <title>Mi A2 Lite (daisy) - V11.0.21.0.QDLMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/daisy/</link>
             <pubDate>Tue, 13 Jul 2021 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V12.5.1.0.RFKEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/raphael/</link>
+            <pubDate>Tue, 06 Jul 2021 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi 9 SE (grus) - V12.5.1.0.RFBEUXM</title>
