@@ -1549,15 +1549,15 @@
     android: '15.0'
     miui: OS2.0.202.0.VNSEUXM
 - branch: stable
-  date: '2025-06-23'
+  date: '2025-07-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-23.06.2025/fw_dizi_in_global_dizi_in_global-ota_full-OS2.0.6.0.VNSINXM-user-15.0-ead8509317.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dizi/fw_dizi_in_global_dizi_in_global-ota_full-OS2.0.6.0.VNSINXM-user-15.0-ead8509317.zip
-  filename: fw_dizi_in_global_dizi_in_global-ota_full-OS2.0.6.0.VNSINXM-user-15.0-ead8509317.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-25.07.2025/fw_dizi_in_global_dizi_in_global-ota_full-OS2.0.201.0.VNSINXM-user-15.0-f32ce6eb48.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dizi/fw_dizi_in_global_dizi_in_global-ota_full-OS2.0.201.0.VNSINXM-user-15.0-f32ce6eb48.zip
+  filename: fw_dizi_in_global_dizi_in_global-ota_full-OS2.0.201.0.VNSINXM-user-15.0-f32ce6eb48.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.6.0.VNSINXM
+    miui: OS2.0.201.0.VNSINXM
 - branch: stable
   date: '2025-07-14'
   downloads:
@@ -2789,15 +2789,15 @@
     android: '15.0'
     miui: OS2.0.200.0.VOWINXM
 - branch: stable
-  date: '2025-06-11'
+  date: '2025-07-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-11.06.2025/fw_lake_global_lake_global-ota_full-OS2.0.3.0.VGTMIXM-user-15.0-b69c2238cb.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lake/fw_lake_global_lake_global-ota_full-OS2.0.3.0.VGTMIXM-user-15.0-b69c2238cb.zip
-  filename: fw_lake_global_lake_global-ota_full-OS2.0.3.0.VGTMIXM-user-15.0-b69c2238cb.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-25.07.2025/fw_lake_global_lake_global-ota_full-OS2.0.4.0.VGTMIXM-user-15.0-6df1d5e03a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lake/fw_lake_global_lake_global-ota_full-OS2.0.4.0.VGTMIXM-user-15.0-6df1d5e03a.zip
+  filename: fw_lake_global_lake_global-ota_full-OS2.0.4.0.VGTMIXM-user-15.0-6df1d5e03a.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.3.0.VGTMIXM
+    miui: OS2.0.4.0.VGTMIXM
 - branch: stable
   date: '2025-07-07'
   downloads:
@@ -5559,15 +5559,15 @@
     android: '15.0'
     miui: OS2.0.9.0.VMWINXM
 - branch: stable
-  date: '2025-06-23'
+  date: '2025-07-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_socrates/releases/download/stable-23.06.2025/fw_socrates_socrates-ota_full-OS2.0.202.0.VMKCNXM-user-15.0-ec11de0582.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/socrates/fw_socrates_socrates-ota_full-OS2.0.202.0.VMKCNXM-user-15.0-ec11de0582.zip
-  filename: fw_socrates_socrates-ota_full-OS2.0.202.0.VMKCNXM-user-15.0-ec11de0582.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_socrates/releases/download/stable-25.07.2025/fw_socrates_socrates-ota_full-OS2.0.206.0.VMKCNXM-user-15.0-0493b2ed00.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/socrates/fw_socrates_socrates-ota_full-OS2.0.206.0.VMKCNXM-user-15.0-0493b2ed00.zip
+  filename: fw_socrates_socrates-ota_full-OS2.0.206.0.VMKCNXM-user-15.0-0493b2ed00.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.202.0.VMKCNXM
+    miui: OS2.0.206.0.VMKCNXM
 - branch: stable
   date: '2025-06-30'
   downloads:
