@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2025-06-26'
+  date: '2025-07-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dali/releases/download/stable-26.06.2025/fw_dali_dali-ota_full-OS2.0.210.0.VONCNXM-user-15.0-b059d1e9e4.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dali/fw_dali_dali-ota_full-OS2.0.210.0.VONCNXM-user-15.0-b059d1e9e4.zip
-  filename: fw_dali_dali-ota_full-OS2.0.210.0.VONCNXM-user-15.0-b059d1e9e4.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dali/releases/download/stable-25.07.2025/fw_dali_dali-ota_full-OS2.0.214.0.VONCNXM-user-15.0-ab1be72000.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dali/fw_dali_dali-ota_full-OS2.0.214.0.VONCNXM-user-15.0-ab1be72000.zip
+  filename: fw_dali_dali-ota_full-OS2.0.214.0.VONCNXM-user-15.0-ab1be72000.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.210.0.VONCNXM
+    miui: OS2.0.214.0.VONCNXM

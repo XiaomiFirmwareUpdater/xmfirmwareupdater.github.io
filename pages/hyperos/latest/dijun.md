@@ -52,8 +52,8 @@ permalink: /hyperos/dijun/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VODCNXM</td><td>15.0</td><td>9.3 GB</td><td>2025-07-03</td><td><a href="/hyperos/dijun/stable/OS2.0.205.0.VODCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VODCNXM</td><td>15.0</td><td>7.0 GB</td><td>2025-07-08</td><td><a href="/hyperos/dijun/stable/OS2.0.205.0.VODCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VODCNXM</td><td>15.0</td><td>9.3 GB</td><td>2025-07-11</td><td><a href="/hyperos/dijun/stable/OS2.0.207.0.VODCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VODCNXM</td><td>15.0</td><td>7.0 GB</td><td>2025-07-18</td><td><a href="/hyperos/dijun/stable/OS2.0.207.0.VODCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

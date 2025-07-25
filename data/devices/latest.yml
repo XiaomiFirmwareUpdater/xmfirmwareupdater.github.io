@@ -1309,15 +1309,15 @@
     android: '10.0'
     miui: V11.0.21.0.QDLMIXM
 - branch: stable
-  date: '2025-06-26'
+  date: '2025-07-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dali/releases/download/stable-26.06.2025/fw_dali_dali-ota_full-OS2.0.210.0.VONCNXM-user-15.0-b059d1e9e4.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dali/fw_dali_dali-ota_full-OS2.0.210.0.VONCNXM-user-15.0-b059d1e9e4.zip
-  filename: fw_dali_dali-ota_full-OS2.0.210.0.VONCNXM-user-15.0-b059d1e9e4.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dali/releases/download/stable-25.07.2025/fw_dali_dali-ota_full-OS2.0.214.0.VONCNXM-user-15.0-ab1be72000.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dali/fw_dali_dali-ota_full-OS2.0.214.0.VONCNXM-user-15.0-ab1be72000.zip
+  filename: fw_dali_dali-ota_full-OS2.0.214.0.VONCNXM-user-15.0-ab1be72000.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.210.0.VONCNXM
+    miui: OS2.0.214.0.VONCNXM
 - branch: stable
   date: '2024-03-28'
   downloads:
@@ -1439,15 +1439,15 @@
     android: '15.0'
     miui: OS2.0.105.0.VNEEUXM
 - branch: stable
-  date: '2025-07-16'
+  date: '2025-07-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dijun/releases/download/stable-16.07.2025/fw_dijun_dijun-ota_full-OS2.0.205.0.VODCNXM-user-15.0-60d544e8e0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dijun/fw_dijun_dijun-ota_full-OS2.0.205.0.VODCNXM-user-15.0-60d544e8e0.zip
-  filename: fw_dijun_dijun-ota_full-OS2.0.205.0.VODCNXM-user-15.0-60d544e8e0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dijun/releases/download/stable-25.07.2025/fw_dijun_dijun-ota_full-OS2.0.207.0.VODCNXM-user-15.0-5a044d2e85.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dijun/fw_dijun_dijun-ota_full-OS2.0.207.0.VODCNXM-user-15.0-5a044d2e85.zip
+  filename: fw_dijun_dijun-ota_full-OS2.0.207.0.VODCNXM-user-15.0-5a044d2e85.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.205.0.VODCNXM
+    miui: OS2.0.207.0.VODCNXM
 - branch: stable
   date: '2021-12-27'
   downloads:
@@ -6199,15 +6199,15 @@
     android: '13.0'
     miui: V14.0.6.0.TJBINXM
 - branch: stable
-  date: '2025-06-18'
+  date: '2025-07-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_unicorn/releases/download/stable-18.06.2025/fw_unicorn_unicorn-ota_full-OS2.0.10.0.VLECNXM-user-15.0-01bdf1a703.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/unicorn/fw_unicorn_unicorn-ota_full-OS2.0.10.0.VLECNXM-user-15.0-01bdf1a703.zip
-  filename: fw_unicorn_unicorn-ota_full-OS2.0.10.0.VLECNXM-user-15.0-01bdf1a703.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_unicorn/releases/download/stable-25.07.2025/fw_unicorn_unicorn-ota_full-OS2.0.203.0.VLECNXM-user-15.0-876a1695c6.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/unicorn/fw_unicorn_unicorn-ota_full-OS2.0.203.0.VLECNXM-user-15.0-876a1695c6.zip
+  filename: fw_unicorn_unicorn-ota_full-OS2.0.203.0.VLECNXM-user-15.0-876a1695c6.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.10.0.VLECNXM
+    miui: OS2.0.203.0.VLECNXM
 - branch: stable
   date: '2021-04-12'
   downloads:
