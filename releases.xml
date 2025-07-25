@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 25 Jul 2025 13:05:27 </lastBuildDate>
+        <lastBuildDate>Fri, 25 Jul 2025 20:22:00 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>MIX Flip 2 (bixi) - OS2.0.208.0.VOHCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/bixi/</link>
+            <pubDate>Fri, 25 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 (dada) - OS2.0.214.0.VOCCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
+            <pubDate>Fri, 25 Jul 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K80 Ultra (dali) - OS2.0.214.0.VONCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dali/</link>
@@ -17,8 +27,23 @@
             <pubDate>Fri, 25 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 15 Pro (haotian) - OS2.0.214.0.VOBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/haotian/</link>
+            <pubDate>Fri, 25 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12S Ultra (thor) - OS2.0.202.0.VLACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/thor/</link>
+            <pubDate>Fri, 25 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Xiaomi 12S Pro (unicorn) - OS2.0.203.0.VLECNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/unicorn/</link>
+            <pubDate>Fri, 25 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 6 Max 14 (yudi) - OS2.0.203.0.VMHCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/yudi/</link>
             <pubDate>Fri, 25 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -129,11 +154,6 @@
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS2.0.203.0.VNAEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Mon, 21 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>MIX Flip 2 (bixi) - OS2.0.207.0.VOHCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/bixi/</link>
             <pubDate>Mon, 21 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -932,11 +952,6 @@
             <pubDate>Fri, 20 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12S Ultra (thor) - OS2.0.13.0.VLACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/thor/</link>
-            <pubDate>Fri, 20 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12 (cupid) - OS2.0.4.0.VLCMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/cupid/</link>
             <pubDate>Thu, 19 Jun 2025 00:00:00 </pubDate>
@@ -965,11 +980,6 @@
             <title>MIX Flip (ruyi) - OS2.0.104.0.VNIEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruyi/</link>
             <pubDate>Wed, 18 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 Max 14 (yudi) - OS2.0.201.0.VMHCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/yudi/</link>
-            <pubDate>Tue, 17 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.2.0.VGQINXM</title>
@@ -1044,16 +1054,6 @@
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS2.0.207.0.VNACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Tue, 10 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 (dada) - OS2.0.206.0.VOCCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
-            <pubDate>Tue, 10 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 Pro (haotian) - OS2.0.206.0.VOBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/haotian/</link>
             <pubDate>Tue, 10 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
