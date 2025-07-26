@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 26 Jul 2025 00:36:36 </lastBuildDate>
+        <lastBuildDate>Sat, 26 Jul 2025 06:51:45 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS2.0.206.0.VOOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
+            <pubDate>Sat, 26 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS2.0.4.0.UMQEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sunstone/</link>
+            <pubDate>Sat, 26 Jul 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>MIX Flip 2 (bixi) - OS2.0.208.0.VOHCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/bixi/</link>
@@ -224,11 +234,6 @@
         <item>
             <title>MIX Fold 4 (goku) - OS2.0.206.0.VNVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/goku/</link>
-            <pubDate>Fri, 18 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS1.0.13.0.UOOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
             <pubDate>Fri, 18 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1099,11 +1104,6 @@
         <item>
             <title>Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite (shennong) - OS2.0.206.0.VNBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/shennong/</link>
-            <pubDate>Mon, 09 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS2.0.3.0.UMQEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Mon, 09 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
