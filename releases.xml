@@ -4,10 +4,20 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 26 Jul 2025 12:37:04 </lastBuildDate>
+        <lastBuildDate>Sat, 26 Jul 2025 19:10:14 </lastBuildDate>
         <language>en-us</language>
         <item>
+            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.203.0.VMLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/corot/</link>
+            <pubDate>Sat, 26 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS2.0.206.0.VOOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
+            <pubDate>Sat, 26 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS2.0.202.0.VOOINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
             <pubDate>Sat, 26 Jul 2025 00:00:00 </pubDate>
         </item>
@@ -687,11 +697,6 @@
             <pubDate>Mon, 30 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS2.0.5.0.VOOINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
-            <pubDate>Mon, 30 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS2.0.202.0.VOMEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/miro/</link>
             <pubDate>Mon, 30 Jun 2025 00:00:00 </pubDate>
@@ -840,11 +845,6 @@
             <title>Xiaomi Pad 7S Pro 12.5 (violin) - OS2.0.208.0.VOTCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/violin/</link>
             <pubDate>Fri, 27 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.202.0.VMLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Thu, 26 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.3.0.UKOMIXM</title>

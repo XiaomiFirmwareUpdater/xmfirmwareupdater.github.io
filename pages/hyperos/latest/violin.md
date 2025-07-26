@@ -52,8 +52,8 @@ permalink: /hyperos/violin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 7S Pro 12.5 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VOTCNXM</td><td>15.0</td><td>9.5 GB</td><td>2025-06-21</td><td><a href="/hyperos/violin/stable/OS2.0.208.0.VOTCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7S Pro 12.5 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VOTCNXM</td><td>15.0</td><td>8.2 GB</td><td>2025-06-26</td><td><a href="/hyperos/violin/stable/OS2.0.208.0.VOTCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 7S Pro 12.5 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.213.0.VOTCNXM</td><td>15.0</td><td>9.5 GB</td><td>2025-07-10</td><td><a href="/hyperos/violin/stable/OS2.0.213.0.VOTCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7S Pro 12.5 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.213.0.VOTCNXM</td><td>15.0</td><td>8.2 GB</td><td>2025-07-16</td><td><a href="/hyperos/violin/stable/OS2.0.213.0.VOTCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7S Pro 12.5 China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.203.0.VOTCNXM</td><td>15.0</td><td>7.9 GB</td><td>2025-06-26</td><td><a href="/hyperos/violin/stable beta/OS2.0.203.0.VOTCNXM/">Download</a></td></tr>
 
                 </tbody>
