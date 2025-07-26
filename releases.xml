@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 26 Jul 2025 19:10:14 </lastBuildDate>
+        <lastBuildDate>Sun, 27 Jul 2025 00:46:41 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.203.0.VMLCNXM</title>
@@ -24,6 +24,11 @@
         <item>
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS2.0.4.0.UMQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sunstone/</link>
+            <pubDate>Sat, 26 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 7S Pro 12.5 (violin) - OS2.0.213.0.VOTCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/violin/</link>
             <pubDate>Sat, 26 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -839,11 +844,6 @@
         <item>
             <title>Mi 11 (venus) - OS2.0.2.0.UKBEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/venus/</link>
-            <pubDate>Fri, 27 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 7S Pro 12.5 (violin) - OS2.0.208.0.VOTCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/violin/</link>
             <pubDate>Fri, 27 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>

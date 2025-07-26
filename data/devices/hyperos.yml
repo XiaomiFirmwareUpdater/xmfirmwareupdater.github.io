@@ -16722,6 +16722,12 @@
   version: OS1.0.10.0.UKDINXM
 - android: '15.0'
   codename: violin
+  date: '2025-07-26'
+  download: https://bigota.d.miui.com/OS2.0.213.0.VOTCNXM/fw_violin_violin-ota_full-OS2.0.213.0.VOTCNXM-user-15.0-b064ffc7d8.zip
+  name: Xiaomi Pad 7S Pro 12.5
+  version: OS2.0.213.0.VOTCNXM
+- android: '15.0'
+  codename: violin
   date: '2025-06-27'
   download: https://bigota.d.miui.com/OS2.0.208.0.VOTCNXM/fw_violin_violin-ota_full-OS2.0.208.0.VOTCNXM-user-15.0-2fdf4996f7.zip
   name: Xiaomi Pad 7S Pro 12.5
