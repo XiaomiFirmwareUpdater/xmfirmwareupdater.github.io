@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 27 Jul 2025 19:30:13 </lastBuildDate>
+        <lastBuildDate>Mon, 28 Jul 2025 00:42:37 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>MIX Flip (ruyi) - OS2.0.204.0.VNIEUXM</title>
@@ -14,6 +14,11 @@
         <item>
             <title>Redmi Note 13 (sapphire) - OS2.0.201.0.VNGMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sapphire/</link>
+            <pubDate>Sun, 27 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12S (sea) - OS2.0.202.0.VHZMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sea/</link>
             <pubDate>Sun, 27 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -929,11 +934,6 @@
         <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.5.0.UMOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Tue, 24 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12S (sea) - OS2.0.5.0.VHZMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sea/</link>
             <pubDate>Tue, 24 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
