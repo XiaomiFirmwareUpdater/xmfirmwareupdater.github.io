@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 27 Jul 2025 12:55:14 </lastBuildDate>
+        <lastBuildDate>Sun, 27 Jul 2025 19:30:13 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>MIX Flip (ruyi) - OS2.0.204.0.VNIEUXM</title>
@@ -14,6 +14,16 @@
         <item>
             <title>Redmi Note 13 (sapphire) - OS2.0.201.0.VNGMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sapphire/</link>
+            <pubDate>Sun, 27 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS2.0.8.0.VLLMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
+            <pubDate>Sun, 27 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS2.0.10.0.VLLEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Sun, 27 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1052,11 +1062,6 @@
             <pubDate>Wed, 11 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS2.0.7.0.VLLEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
-            <pubDate>Wed, 11 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 14 Ultra (aurora) - OS2.0.207.0.VNACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
             <pubDate>Tue, 10 Jun 2025 00:00:00 </pubDate>
@@ -1165,11 +1170,6 @@
             <title>Xiaomi Pad 7 (uke) - OS2.0.102.0.VOZINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/uke/</link>
             <pubDate>Fri, 30 May 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS2.0.5.0.VLLMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
-            <pubDate>Thu, 29 May 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.103.0.VMLMIXM</title>

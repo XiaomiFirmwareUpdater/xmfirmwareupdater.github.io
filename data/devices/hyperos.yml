@@ -18490,6 +18490,18 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.ULLMIXM/fw_ziyi_miui_ZIYIGlobal_OS1.0.9.0.ULLMIXM_b6330e0438_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.9.0.ULLMIXM
+- android: '15.0'
+  codename: ziyi
+  date: '2025-07-27'
+  download: https://bigota.d.miui.com/OS2.0.10.0.VLLEUXM/fw_ziyi_eea_global_ziyi_eea_global-ota_full-OS2.0.10.0.VLLEUXM-user-15.0-a113260c96.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS2.0.10.0.VLLEUXM
+- android: '15.0'
+  codename: ziyi
+  date: '2025-07-27'
+  download: https://bigota.d.miui.com/OS2.0.8.0.VLLMIXM/fw_ziyi_global_ziyi_global-ota_full-OS2.0.8.0.VLLMIXM-user-15.0-c06251e8d2.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS2.0.8.0.VLLMIXM
 - android: '14.0'
   codename: ziyi
   date: '2024-05-27'
