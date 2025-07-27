@@ -13102,6 +13102,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UNICNXM/fw_ruyi_miui_RUYI_OS1.0.8.0.UNICNXM_fc66e674c8_14.0.zip
   name: MIX Flip
   version: OS1.0.8.0.UNICNXM
+- android: '15.0'
+  codename: ruyi
+  date: '2025-07-27'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNIEUXM/fw_ruyi_eea_global_ruyi_eea_global-ota_full-OS2.0.204.0.VNIEUXM-user-15.0-99dd3079a3.zip
+  name: MIX Flip
+  version: OS2.0.204.0.VNIEUXM
 - android: '14.0'
   codename: ruyi
   date: '2024-07-26'
@@ -13288,6 +13294,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UNGMIXM/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.2.0.UNGMIXM_6ceb1dc76b_14.0.zip
   name: Redmi Note 13
   version: OS1.0.2.0.UNGMIXM
+- android: '15.0'
+  codename: sapphire
+  date: '2025-07-27'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VNGMIXM/fw_sapphire_global_sapphire_global-ota_full-OS2.0.201.0.VNGMIXM-user-15.0-5e38728bf4.zip
+  name: Redmi Note 13
+  version: OS2.0.201.0.VNGMIXM
 - android: '15.0'
   codename: sapphire
   date: '2025-02-26'

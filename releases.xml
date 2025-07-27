@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 27 Jul 2025 06:35:35 </lastBuildDate>
+        <lastBuildDate>Sun, 27 Jul 2025 12:55:14 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>MIX Flip (ruyi) - OS2.0.204.0.VNIEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ruyi/</link>
+            <pubDate>Sun, 27 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 (sapphire) - OS2.0.201.0.VNGMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sapphire/</link>
+            <pubDate>Sun, 27 Jul 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.203.0.VMLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/corot/</link>
@@ -947,11 +957,6 @@
             <pubDate>Fri, 20 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 (sapphire) - OS2.0.12.0.VNGMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sapphire/</link>
-            <pubDate>Fri, 20 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 14 4G (tanzanite) - OS2.0.4.0.VOGMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tanzanite/</link>
             <pubDate>Fri, 20 Jun 2025 00:00:00 </pubDate>
@@ -978,11 +983,6 @@
         </item>
         <item>
             <title>MIX Flip (ruyi) - OS2.0.107.0.VNIMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ruyi/</link>
-            <pubDate>Wed, 18 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>MIX Flip (ruyi) - OS2.0.104.0.VNIEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruyi/</link>
             <pubDate>Wed, 18 Jun 2025 00:00:00 </pubDate>
         </item>
