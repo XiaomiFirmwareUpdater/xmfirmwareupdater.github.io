@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-06-25'
+  date: '2025-07-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-25.06.2025/fw_chenfeng_chenfeng-ota_full-OS2.0.201.0.VNJCNXM-user-15.0-1639f82e12.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/chenfeng/fw_chenfeng_chenfeng-ota_full-OS2.0.201.0.VNJCNXM-user-15.0-1639f82e12.zip
-  filename: fw_chenfeng_chenfeng-ota_full-OS2.0.201.0.VNJCNXM-user-15.0-1639f82e12.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-28.07.2025/fw_chenfeng_chenfeng-ota_full-OS2.0.202.0.VNJCNXM-user-15.0-0c4da3740c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/chenfeng/fw_chenfeng_chenfeng-ota_full-OS2.0.202.0.VNJCNXM-user-15.0-0c4da3740c.zip
+  filename: fw_chenfeng_chenfeng-ota_full-OS2.0.202.0.VNJCNXM-user-15.0-0c4da3740c.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.201.0.VNJCNXM
+    miui: OS2.0.202.0.VNJCNXM
 - branch: stable
   date: '2025-06-30'
   downloads:

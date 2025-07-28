@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-06-05'
+  date: '2025-07-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-05.06.2025/fw_zircon_global_zircon_global-ota_full-OS2.0.9.0.VNOMIXM-user-15.0-6fefbc79d2.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zircon/fw_zircon_global_zircon_global-ota_full-OS2.0.9.0.VNOMIXM-user-15.0-6fefbc79d2.zip
-  filename: fw_zircon_global_zircon_global-ota_full-OS2.0.9.0.VNOMIXM-user-15.0-6fefbc79d2.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-28.07.2025/fw_zircon_global_zircon_global-ota_full-OS2.0.202.0.VNOMIXM-user-15.0-07d0d37757.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zircon/fw_zircon_global_zircon_global-ota_full-OS2.0.202.0.VNOMIXM-user-15.0-07d0d37757.zip
+  filename: fw_zircon_global_zircon_global-ota_full-OS2.0.202.0.VNOMIXM-user-15.0-07d0d37757.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.9.0.VNOMIXM
+    miui: OS2.0.202.0.VNOMIXM
 - branch: stable
   date: '2025-06-30'
   downloads:

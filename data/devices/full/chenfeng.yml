@@ -29,6 +29,16 @@
     android: '14.0'
     miui: OS1.0.17.0.UNJCNXM
 - branch: stable
+  date: '2025-07-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-28.07.2025/fw_chenfeng_chenfeng-ota_full-OS2.0.202.0.VNJCNXM-user-15.0-0c4da3740c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/chenfeng/fw_chenfeng_chenfeng-ota_full-OS2.0.202.0.VNJCNXM-user-15.0-0c4da3740c.zip
+  filename: fw_chenfeng_chenfeng-ota_full-OS2.0.202.0.VNJCNXM-user-15.0-0c4da3740c.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.202.0.VNJCNXM
+- branch: stable
   date: '2024-03-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-28.03.2024/fw_chenfeng_miui_CHENFENG_OS1.0.4.0.UNJCNXM_6dd643228e_14.0.zip
