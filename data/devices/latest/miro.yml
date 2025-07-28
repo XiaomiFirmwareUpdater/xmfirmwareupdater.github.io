@@ -19,12 +19,12 @@
     android: '15.0'
     miui: OS2.0.203.0.VOMCNXM
 - branch: stable
-  date: '2025-06-30'
+  date: '2025-07-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-30.06.2025/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.202.0.VOMEUXM-user-15.0-ab74ce49cc.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.202.0.VOMEUXM-user-15.0-ab74ce49cc.zip
-  filename: fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.202.0.VOMEUXM-user-15.0-ab74ce49cc.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-28.07.2025/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.203.0.VOMEUXM-user-15.0-068f1cb187.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.203.0.VOMEUXM-user-15.0-068f1cb187.zip
+  filename: fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.203.0.VOMEUXM-user-15.0-068f1cb187.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.202.0.VOMEUXM
+    miui: OS2.0.203.0.VOMEUXM
