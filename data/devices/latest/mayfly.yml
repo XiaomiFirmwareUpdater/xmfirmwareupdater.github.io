@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2025-06-16'
+  date: '2025-07-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-16.06.2025/fw_mayfly_mayfly-ota_full-OS2.0.7.0.VLTCNXM-user-15.0-e407b0e102.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mayfly/fw_mayfly_mayfly-ota_full-OS2.0.7.0.VLTCNXM-user-15.0-e407b0e102.zip
-  filename: fw_mayfly_mayfly-ota_full-OS2.0.7.0.VLTCNXM-user-15.0-e407b0e102.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-29.07.2025/fw_mayfly_mayfly-ota_full-OS2.0.202.0.VLTCNXM-user-15.0-2f4d12241d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mayfly/fw_mayfly_mayfly-ota_full-OS2.0.202.0.VLTCNXM-user-15.0-2f4d12241d.zip
+  filename: fw_mayfly_mayfly-ota_full-OS2.0.202.0.VLTCNXM-user-15.0-2f4d12241d.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.7.0.VLTCNXM
+    miui: OS2.0.202.0.VLTCNXM

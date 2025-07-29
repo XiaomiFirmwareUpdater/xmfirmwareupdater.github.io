@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 29 Jul 2025 12:43:03 </lastBuildDate>
+        <lastBuildDate>Tue, 29 Jul 2025 18:58:11 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS2.0.201.0.VGUINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flame/</link>
+            <pubDate>Tue, 29 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad 2 4G (koto) - OS2.0.202.0.VOWMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/koto/</link>
             <pubDate>Tue, 29 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -17,8 +22,18 @@
             <pubDate>Tue, 29 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 12S (mayfly) - OS2.0.202.0.VLTCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/mayfly/</link>
+            <pubDate>Tue, 29 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Pad Pro 5G/POCO Pad 5G (ruan) - OS2.0.201.0.VFSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruan/</link>
+            <pubDate>Tue, 29 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 NFC (sapphiren) - OS2.0.201.0.VNHMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
             <pubDate>Tue, 29 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -722,11 +737,6 @@
             <pubDate>Fri, 04 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad 2 4G (koto) - OS2.0.106.0.VOWMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/koto/</link>
-            <pubDate>Fri, 04 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - OS2.0.202.0.VOLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
             <pubDate>Fri, 04 Jul 2025 00:00:00 </pubDate>
@@ -897,11 +907,6 @@
             <pubDate>Fri, 27 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 NFC (sapphiren) - OS2.0.12.0.VNHMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
-            <pubDate>Fri, 27 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS2.0.9.0.VMWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sky/</link>
             <pubDate>Fri, 27 Jun 2025 00:00:00 </pubDate>
@@ -1034,11 +1039,6 @@
         <item>
             <title>Redmi Pad SE 8.7 5G (flare) - OS2.0.5.0.VHXMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flare/</link>
-            <pubDate>Mon, 16 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12S (mayfly) - OS2.0.7.0.VLTCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/mayfly/</link>
             <pubDate>Mon, 16 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>

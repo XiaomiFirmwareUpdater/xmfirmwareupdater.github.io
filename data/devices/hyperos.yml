@@ -7212,6 +7212,12 @@
   version: OS2.0.110.0.VOXCNXM
 - android: '15.0'
   codename: koto
+  date: '2025-07-29'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VOWMIXM/fw_koto_global_koto_global-ota_full-OS2.0.202.0.VOWMIXM-user-15.0-f0ee0bb8f3.zip
+  name: Redmi Pad 2 4G
+  version: OS2.0.202.0.VOWMIXM
+- android: '15.0'
+  codename: koto
   date: '2025-06-18'
   download: https://bigota.d.miui.com/OS2.0.101.0.VOWINXM/fw_koto_in_global_koto_in_global-ota_full-OS2.0.101.0.VOWINXM-user-15.0-2fedaf5cff.zip
   name: Redmi Pad 2 4G
@@ -8614,6 +8620,12 @@
   download: https://bigota.d.miui.com/OS2.0.6.0.VLTCNXM/fw_mayfly_mayfly-ota_full-OS2.0.6.0.VLTCNXM-user-15.0-39f907dd8e.zip
   name: Xiaomi 12S
   version: OS2.0.6.0.VLTCNXM
+- android: '15.0'
+  codename: mayfly
+  date: '2025-07-29'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VLTCNXM/fw_mayfly_mayfly-ota_full-OS2.0.202.0.VLTCNXM-user-15.0-2f4d12241d.zip
+  name: Xiaomi 12S
+  version: OS2.0.202.0.VLTCNXM
 - android: '14.0'
   codename: mayfly
   date: '2024-10-21'
@@ -13492,6 +13504,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UNHMIXM/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.6.0.UNHMIXM_fa59d04aa5_14.0.zip
   name: Redmi Note 13 NFC
   version: OS1.0.6.0.UNHMIXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-07-29'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VNHMIXM/fw_sapphiren_global_sapphiren_global-ota_full-OS2.0.201.0.VNHMIXM-user-15.0-e849542f7f.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.201.0.VNHMIXM
 - android: '14.0'
   codename: sapphiren
   date: '2024-10-28'
