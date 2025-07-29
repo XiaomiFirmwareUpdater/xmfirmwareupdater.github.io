@@ -4366,6 +4366,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMXEUXM/fw_fire_miui_FIREEEAGlobal_OS1.0.2.0.UMXEUXM_a32447ba31_14.0.zip
   name: Redmi 12
   version: OS1.0.2.0.UMXEUXM
+- android: '15.0'
+  codename: flame
+  date: '2025-07-29'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VGUINXM/fw_flame_in_global_flame_in_global-ota_full-OS2.0.201.0.VGUINXM-user-15.0-bfd15c666c.zip
+  name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
+  version: OS2.0.201.0.VGUINXM
 - android: '14.0'
   codename: flame
   date: '2024-09-26'

@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 29 Jul 2025 06:49:42 </lastBuildDate>
+        <lastBuildDate>Tue, 29 Jul 2025 12:43:03 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS2.0.201.0.VGUINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flame/</link>
+            <pubDate>Tue, 29 Jul 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS2.0.204.0.VOOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
@@ -1069,11 +1074,6 @@
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.204.0.VNLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Wed, 11 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS2.0.3.0.VGUINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flame/</link>
             <pubDate>Wed, 11 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>

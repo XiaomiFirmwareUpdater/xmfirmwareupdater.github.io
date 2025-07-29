@@ -64,10 +64,10 @@ permalink: /hyperos/marble/
 <tr><td>POCO F5 India</td><td>Stable</td><td>Recovery</td><td>OS2.0.4.0.VMRINXM</td><td>15.0</td><td>5.3 GB</td><td>2025-06-10</td><td><a href="/hyperos/marble/stable/OS2.0.4.0.VMRINXM/">Download</a></td></tr>
 <tr><td>POCO F5 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.4.0.VMRRUXM</td><td>15.0</td><td>8.4 GB</td><td>2025-05-15</td><td><a href="/hyperos/marble/stable/OS2.0.4.0.VMRRUXM/">Download</a></td></tr>
 <tr><td>POCO F5 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.4.0.VMRRUXM</td><td>15.0</td><td>5.4 GB</td><td>2025-06-10</td><td><a href="/hyperos/marble/stable/OS2.0.4.0.VMRRUXM/">Download</a></td></tr>
-<tr><td>POCO F5 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.4.0.VMRTRXM</td><td>15.0</td><td>7.5 GB</td><td>2025-05-15</td><td><a href="/hyperos/marble/stable/OS2.0.4.0.VMRTRXM/">Download</a></td></tr>
-<tr><td>POCO F5 Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.4.0.VMRTRXM</td><td>15.0</td><td>5.5 GB</td><td>2025-06-10</td><td><a href="/hyperos/marble/stable/OS2.0.4.0.VMRTRXM/">Download</a></td></tr>
-<tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.4.0.VMRTWXM</td><td>15.0</td><td>7.0 GB</td><td>2025-05-15</td><td><a href="/hyperos/marble/stable/OS2.0.4.0.VMRTWXM/">Download</a></td></tr>
-<tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.4.0.VMRTWXM</td><td>15.0</td><td>5.4 GB</td><td>2025-06-10</td><td><a href="/hyperos/marble/stable/OS2.0.4.0.VMRTWXM/">Download</a></td></tr>
+<tr><td>POCO F5 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VMRTRXM</td><td>15.0</td><td>7.5 GB</td><td>2025-07-11</td><td><a href="/hyperos/marble/stable/OS2.0.203.0.VMRTRXM/">Download</a></td></tr>
+<tr><td>POCO F5 Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VMRTRXM</td><td>15.0</td><td>5.5 GB</td><td>2025-07-22</td><td><a href="/hyperos/marble/stable/OS2.0.203.0.VMRTRXM/">Download</a></td></tr>
+<tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VMRTWXM</td><td>15.0</td><td>6.8 GB</td><td>2025-07-11</td><td><a href="/hyperos/marble/stable/OS2.0.203.0.VMRTWXM/">Download</a></td></tr>
+<tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VMRTWXM</td><td>15.0</td><td>5.4 GB</td><td>2025-07-22</td><td><a href="/hyperos/marble/stable/OS2.0.203.0.VMRTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
