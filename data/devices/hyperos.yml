@@ -7896,6 +7896,12 @@
   version: OS1.0.11.0.UOOCNXM
 - android: '15.0'
   codename: malachite
+  date: '2025-07-29'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VOOEUXM/fw_malachite_eea_global_malachite_eea_global-ota_full-OS2.0.204.0.VOOEUXM-user-15.0-9c5195a051.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS2.0.204.0.VOOEUXM
+- android: '15.0'
+  codename: malachite
   date: '2025-07-28'
   download: https://bigota.d.miui.com/OS2.0.203.0.VOOMIXM/fw_malachite_global_malachite_global-ota_full-OS2.0.203.0.VOOMIXM-user-15.0-200d8c9feb.zip
   name: Redmi Note 14 Pro 5G/POCO X7
@@ -12502,6 +12508,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UFSCNXM/fw_ruan_miui_RUAN_OS1.0.8.0.UFSCNXM_71ca5896cf_14.0.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS1.0.8.0.UFSCNXM
+- android: '15.0'
+  codename: ruan
+  date: '2025-07-29'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VFSINXM/fw_ruan_in_global_ruan_in_global-ota_full-OS2.0.201.0.VFSINXM-user-15.0-b1eeb79888.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS2.0.201.0.VFSINXM
 - android: '15.0'
   codename: ruan
   date: '2025-04-29'
