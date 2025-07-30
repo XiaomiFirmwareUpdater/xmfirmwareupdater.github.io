@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 30 Jul 2025 13:02:24 </lastBuildDate>
+        <lastBuildDate>Wed, 30 Jul 2025 18:50:58 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 14 (houji) - OS2.0.201.0.VNCMIXM</title>
@@ -12,8 +12,18 @@
             <pubDate>Wed, 30 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.203.0.VMRINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
+            <pubDate>Wed, 30 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS2.0.201.0.VOMMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/miro/</link>
+            <pubDate>Wed, 30 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro 4G (obsidian) - OS2.0.201.0.VOFMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
             <pubDate>Wed, 30 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -982,11 +992,6 @@
             <pubDate>Wed, 25 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 14 Pro 4G (obsidian) - OS2.0.6.0.VOFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
-            <pubDate>Wed, 25 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - OS2.0.207.0.VOLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
             <pubDate>Wed, 25 Jun 2025 00:00:00 </pubDate>
@@ -1003,11 +1008,6 @@
         </item>
         <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.5.0.VMRMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Mon, 23 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.4.0.VMRINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/marble/</link>
             <pubDate>Mon, 23 Jun 2025 00:00:00 </pubDate>
         </item>
