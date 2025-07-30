@@ -6354,6 +6354,12 @@
   version: OS2.0.103.0.VNCINXM
 - android: '15.0'
   codename: houji
+  date: '2025-07-30'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VNCMIXM/fw_houji_global_houji_global-ota_full-OS2.0.201.0.VNCMIXM-user-15.0-a6f5b7a87f.zip
+  name: Xiaomi 14
+  version: OS2.0.201.0.VNCMIXM
+- android: '15.0'
+  codename: houji
   date: '2025-06-30'
   download: https://bigota.d.miui.com/OS2.0.108.0.VNCEUXM/fw_houji_eea_global_houji_eea_global-ota_full-OS2.0.108.0.VNCEUXM-user-15.0-3a64a91d4e.zip
   name: Xiaomi 14
@@ -10534,6 +10540,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UNPINXM/fw_peridot_miui_PERIDOTINGlobal_OS1.0.6.0.UNPINXM_f20e0a401e_14.0.zip
   name: Redmi Turbo 3/POCO F6
   version: OS1.0.6.0.UNPINXM
+- android: '15.0'
+  codename: peridot
+  date: '2025-07-30'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VNPEUXM/fw_peridot_eea_global_peridot_eea_global-ota_full-OS2.0.202.0.VNPEUXM-user-15.0-316b82091c.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS2.0.202.0.VNPEUXM
 - android: '14.0'
   codename: peridot
   date: '2024-07-29'
