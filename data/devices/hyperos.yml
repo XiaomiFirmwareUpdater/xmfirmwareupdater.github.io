@@ -8706,6 +8706,12 @@
   version: OS2.0.10.0.VOMCNXM
 - android: '15.0'
   codename: miro
+  date: '2025-07-30'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VOMMIXM/fw_miro_global_miro_global-ota_full-OS2.0.201.0.VOMMIXM-user-15.0-684039a5df.zip
+  name: Redmi K80 Pro/POCO F7 Ultra
+  version: OS2.0.201.0.VOMMIXM
+- android: '15.0'
+  codename: miro
   date: '2025-06-30'
   download: https://bigota.d.miui.com/OS2.0.202.0.VOMEUXM/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.202.0.VOMEUXM-user-15.0-ab74ce49cc.zip
   name: Redmi K80 Pro/POCO F7 Ultra
@@ -12106,6 +12112,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULUEUXM/fw_rock_miui_ROCKEEAGlobal_OS1.0.2.0.ULUEUXM_0e560ef2a3_14.0.zip
   name: POCO M5/Redmi 11 Prime 4G
   version: OS1.0.2.0.ULUEUXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-07-30'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VOJEUXM/fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.203.0.VOJEUXM-user-15.0-8169a45876.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.203.0.VOJEUXM
 - android: '15.0'
   codename: rodin
   date: '2025-06-30'
@@ -17956,6 +17968,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.ULBINXM/fw_zeus_miui_ZEUSINGlobal_OS1.0.6.0.ULBINXM_718506dbf7_14.0.zip
   name: Xiaomi 12 Pro
   version: OS1.0.6.0.ULBINXM
+- android: '15.0'
+  codename: zeus
+  date: '2025-07-30'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VLBMIXM/fw_zeus_global_zeus_global-ota_full-OS2.0.202.0.VLBMIXM-user-15.0-63a121f5d7.zip
+  name: Xiaomi 12 Pro
+  version: OS2.0.202.0.VLBMIXM
 - android: '14.0'
   codename: zeus
   date: '2024-10-28'
