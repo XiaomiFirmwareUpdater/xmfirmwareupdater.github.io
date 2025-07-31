@@ -1768,6 +1768,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UNJCNXM/fw_chenfeng_miui_CHENFENG_OS1.0.12.0.UNJCNXM_90850b252e_14.0.zip
   name: Xiaomi Civi 4 Pro
   version: OS1.0.12.0.UNJCNXM
+- android: '15.0'
+  codename: chenfeng
+  date: '2025-07-31'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VNJINXM/fw_chenfeng_in_global_chenfeng_in_global-ota_full-OS2.0.202.0.VNJINXM-user-15.0-557401607a.zip
+  name: Xiaomi Civi 4 Pro
+  version: OS2.0.202.0.VNJINXM
 - android: '14.0'
   codename: chenfeng
   date: '2024-07-01'
@@ -8248,6 +8254,12 @@
   download: https://bigota.d.miui.com/OS1.0.22.0.UNMCNXM/fw_manet_miui_MANET_OS1.0.22.0.UNMCNXM_fabcc29173_14.0.zip
   name: Redmi K70 Pro
   version: OS1.0.22.0.UNMCNXM
+- android: '15.0'
+  codename: manet
+  date: '2025-07-31'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNMCNXM/fw_manet_manet-ota_full-OS2.0.204.0.VNMCNXM-user-15.0-3c8ee66cf6.zip
+  name: Redmi K70 Pro
+  version: OS2.0.204.0.VNMCNXM
 - android: '14.0'
   codename: marble
   date: '2024-12-31'
@@ -9184,6 +9196,12 @@
   download: https://bigota.d.miui.com/OS1.0.14.0.UMNMIXM/fw_mondrian_miui_MONDRIANGlobal_OS1.0.14.0.UMNMIXM_b71f25feca_14.0.zip
   name: Redmi K60/POCO F5 Pro
   version: OS1.0.14.0.UMNMIXM
+- android: '15.0'
+  codename: mondrian
+  date: '2025-07-31'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VMNMIXM/fw_mondrian_global_mondrian_global-ota_full-OS2.0.201.0.VMNMIXM-user-15.0-acb7b60b4e.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS2.0.201.0.VMNMIXM
 - android: '14.0'
   codename: moon
   date: '2024-09-30'

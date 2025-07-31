@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 31 Jul 2025 20:29:15 </lastBuildDate>
+        <lastBuildDate>Fri, 01 Aug 2025 01:02:29 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS2.0.209.0.VNACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Thu, 31 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 4 Pro (chenfeng) - OS2.0.202.0.VNJINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
             <pubDate>Thu, 31 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -42,6 +47,11 @@
             <pubDate>Thu, 31 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi K70 Pro (manet) - OS2.0.204.0.VNMCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/manet/</link>
+            <pubDate>Thu, 31 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.203.0.VMRMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/marble/</link>
             <pubDate>Thu, 31 Jul 2025 00:00:00 </pubDate>
@@ -49,6 +59,11 @@
         <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.204.0.VMREUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/marble/</link>
+            <pubDate>Thu, 31 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K60/POCO F5 Pro (mondrian) - OS2.0.201.0.VMNMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
             <pubDate>Thu, 31 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -937,11 +952,6 @@
             <pubDate>Mon, 30 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Civi 4 Pro (chenfeng) - OS2.0.106.0.VNJINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
-            <pubDate>Mon, 30 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.201.0.VNLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Mon, 30 Jun 2025 00:00:00 </pubDate>
@@ -1102,11 +1112,6 @@
             <pubDate>Thu, 12 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K70 Pro (manet) - OS2.0.203.0.VNMCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/manet/</link>
-            <pubDate>Thu, 12 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.204.0.VNLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Wed, 11 Jun 2025 00:00:00 </pubDate>
@@ -1185,11 +1190,6 @@
             <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS2.0.104.0.VNXEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
             <pubDate>Tue, 03 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60/POCO F5 Pro (mondrian) - OS2.0.8.0.VMNMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
-            <pubDate>Sat, 31 May 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi Pad 7 (uke) - OS2.0.102.0.VOZINXM</title>
