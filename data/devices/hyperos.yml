@@ -2656,6 +2656,12 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VNEMIXM/fw_degas_global_degas_global-ota_full-OS2.0.2.0.VNEMIXM-user-15.0-ec7bc23995.zip
   name: Xiaomi 14T
   version: OS2.0.2.0.VNEMIXM
+- android: '15.0'
+  codename: degas
+  date: '2025-07-31'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNEEUXM/fw_degas_eea_global_degas_eea_global-ota_full-OS2.0.204.0.VNEEUXM-user-15.0-4a36673e96.zip
+  name: Xiaomi 14T
+  version: OS2.0.204.0.VNEEUXM
 - android: '14.0'
   codename: degas
   date: '2024-09-30'
@@ -2782,6 +2788,12 @@
   download: https://bigota.d.miui.com/OS2.0.126.0.VODCNXM/fw_dijun_dijun-ota_full-OS2.0.126.0.VODCNXM-user-15.0-d906bf0baf.zip
   name: Xiaomi 15S Pro
   version: OS2.0.126.0.VODCNXM
+- android: '15.0'
+  codename: diting
+  date: '2025-07-31'
+  download: https://bigota.d.miui.com/OS2.0.5.0.VLFEUXM/fw_diting_eea_global_diting_eea_global-ota_full-OS2.0.5.0.VLFEUXM-user-15.0-ccd9252cee.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS2.0.5.0.VLFEUXM
 - android: '14.0'
   codename: diting
   date: '2024-10-28'
@@ -6346,6 +6358,12 @@
   download: https://bigota.d.miui.com/OS1.0.11.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.11.0.UNCCNXM_8541c46b8d_14.0.zip
   name: Xiaomi 14
   version: OS1.0.11.0.UNCCNXM
+- android: '15.0'
+  codename: houji
+  date: '2025-07-31'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VNCINXM/fw_houji_in_global_houji_in_global-ota_full-OS2.0.202.0.VNCINXM-user-15.0-adb530ca4d.zip
+  name: Xiaomi 14
+  version: OS2.0.202.0.VNCINXM
 - android: '15.0'
   codename: houji
   date: '2025-05-31'
@@ -12898,6 +12916,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UMOCNXM/fw_ruby_miui_RUBY_OS1.0.7.0.UMOCNXM_8f9bdb3542_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: OS1.0.7.0.UMOCNXM
+- android: '14.0'
+  codename: ruby
+  date: '2025-07-31'
+  download: https://bigota.d.miui.com/OS2.0.7.0.UMOCNXM/fw_ruby_ruby-ota_full-OS2.0.7.0.UMOCNXM-user-14.0-02eb979db2.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS2.0.7.0.UMOCNXM
 - android: '14.0'
   codename: ruby
   date: '2025-05-29'
