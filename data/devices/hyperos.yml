@@ -754,6 +754,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMFEUXM/fw_aristotle_miui_ARISTOTLEEEAGlobal_OS1.0.5.0.UMFEUXM_0b4c8fdf0a_14.0.zip
   name: Xiaomi 13T
   version: OS1.0.5.0.UMFEUXM
+- android: '15.0'
+  codename: aurora
+  date: '2025-07-31'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VNACNXM/fw_aurora_aurora-ota_full-OS2.0.209.0.VNACNXM-user-15.0-5813f4d571.zip
+  name: Xiaomi 14 Ultra
+  version: OS2.0.209.0.VNACNXM
 - android: '14.0'
   codename: aurora
   date: '2024-03-30'

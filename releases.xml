@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 31 Jul 2025 00:37:06 </lastBuildDate>
+        <lastBuildDate>Thu, 31 Jul 2025 06:47:35 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS2.0.209.0.VNACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Thu, 31 Jul 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 14 (houji) - OS2.0.201.0.VNCMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/houji/</link>
@@ -1085,11 +1090,6 @@
             <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS2.0.204.0.VNXCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
             <pubDate>Wed, 11 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS2.0.207.0.VNACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Tue, 10 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 14 (houji) - OS2.0.207.0.VNCCNXM</title>
