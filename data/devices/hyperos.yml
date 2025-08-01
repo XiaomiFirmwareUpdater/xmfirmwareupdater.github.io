@@ -15377,6 +15377,12 @@
   name: Redmi Pad 2
   version: OS2.0.201.0.VOVEUXM
 - android: '15.0'
+  codename: taiko
+  date: '2025-08-01'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VOVMIXM/fw_taiko_global_taiko_global-ota_full-OS2.0.202.0.VOVMIXM-user-15.0-ba201ed9d0.zip
+  name: Redmi Pad 2
+  version: OS2.0.202.0.VOVMIXM
+- android: '15.0'
   codename: tanzanite
   date: '2025-03-26'
   download: https://bigota.d.miui.com/OS2.0.1.0.VOGMIXM/fw_tanzanite_global_tanzanite_global-ota_full-OS2.0.1.0.VOGMIXM-user-15.0-1a56c3d2e6.zip
