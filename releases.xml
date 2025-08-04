@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 04 Aug 2025 12:38:08 </lastBuildDate>
+        <lastBuildDate>Mon, 04 Aug 2025 19:05:30 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.201.0.VGQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
+            <pubDate>Mon, 04 Aug 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>MIX Flip 2 (bixi) - OS2.0.209.0.VOHCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/bixi/</link>
+            <pubDate>Mon, 04 Aug 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.216.0.WNNMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
             <pubDate>Mon, 04 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -367,11 +377,6 @@
             <pubDate>Sat, 26 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>MIX Flip 2 (bixi) - OS2.0.208.0.VOHCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/bixi/</link>
-            <pubDate>Fri, 25 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 15 (dada) - OS2.0.214.0.VOCCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dada/</link>
             <pubDate>Fri, 25 Jul 2025 00:00:00 </pubDate>
@@ -724,11 +729,6 @@
         <item>
             <title>POCO X5 5G (moonstone) - OS1.0.17.0.UMPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moonstone/</link>
-            <pubDate>Fri, 11 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.215.0.WNNMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
             <pubDate>Fri, 11 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>

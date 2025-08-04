@@ -1492,6 +1492,12 @@
   download: https://bigota.d.miui.com/OS2.0.204.0.VOHCNXM/fw_bixi_bixi-ota_full-OS2.0.204.0.VOHCNXM-user-15.0-6c119c7cde.zip
   name: MIX Flip 2
   version: OS2.0.204.0.VOHCNXM
+- android: '15.0'
+  codename: bixi
+  date: '2025-08-04'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VOHCNXM/fw_bixi_bixi-ota_full-OS2.0.209.0.VOHCNXM-user-15.0-09739ed7be.zip
+  name: MIX Flip 2
+  version: OS2.0.209.0.VOHCNXM
 - android: '14.0'
   codename: breeze
   date: '2024-05-31'
@@ -12610,6 +12616,12 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.VNNMIXM/fw_rothko_global_rothko_global-ota_full-OS2.0.3.0.VNNMIXM-user-15.0-c01e21e3e9.zip
   name: Redmi K70 Ultra/Xiaomi 14T Pro
   version: OS2.0.3.0.VNNMIXM
+- android: '16.0'
+  codename: rothko
+  date: '2025-08-04'
+  download: https://bigota.d.miui.com/OS2.0.216.0.WNNMIXM/fw_rothko_global_rothko_global-ota_full-OS2.0.216.0.WNNMIXM-user-16.0-2ab95f2e79.zip
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
+  version: OS2.0.216.0.WNNMIXM
 - android: '15.0'
   codename: rothko
   date: '2025-03-03'
