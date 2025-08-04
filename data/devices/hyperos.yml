@@ -318,6 +318,12 @@
   version: OS1.0.7.0.UGQINXM
 - android: '15.0'
   codename: air
+  date: '2025-08-04'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VGQMIXM/fw_air_global_air_global-ota_full-OS2.0.201.0.VGQMIXM-user-15.0-ba2baa3c87.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS2.0.201.0.VGQMIXM
+- android: '15.0'
+  codename: air
   date: '2025-04-04'
   download: https://bigota.d.miui.com/OS2.0.3.0.VGQEUXM/fw_air_eea_global_air_eea_global-ota_full-OS2.0.3.0.VGQEUXM-user-15.0-17521f5363.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
@@ -14170,6 +14176,24 @@
   download: https://bigota.d.miui.com/OS2.0.103.0.VNXEUXM/fw_sheng_eea_global_sheng_eea_global-ota_full-OS2.0.103.0.VNXEUXM-user-15.0-848bfe60d7.zip
   name: Xiaomi Pad 6S Pro 12.4
   version: OS2.0.103.0.VNXEUXM
+- android: '15.0'
+  codename: sheng
+  date: '2025-08-04'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNXEUXM/fw_sheng_eea_global_sheng_eea_global-ota_full-OS2.0.204.0.VNXEUXM-user-15.0-1e48a67f30.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS2.0.204.0.VNXEUXM
+- android: '15.0'
+  codename: sheng
+  date: '2025-08-04'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VNXMIXM/fw_sheng_global_sheng_global-ota_full-OS2.0.203.0.VNXMIXM-user-15.0-347c38c972.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS2.0.203.0.VNXMIXM
+- android: '15.0'
+  codename: sheng
+  date: '2025-08-04'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VNXCNXM/fw_sheng_sheng-ota_full-OS2.0.205.0.VNXCNXM-user-15.0-ff1ab1912a.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS2.0.205.0.VNXCNXM
 - android: '14.0'
   codename: sheng
   date: '2024-06-04'
@@ -14620,6 +14644,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UMWEUXM/fw_sky_miui_SKYEEAGlobal_OS1.0.10.0.UMWEUXM_e192953101_14.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
   version: OS1.0.10.0.UMWEUXM
+- android: '15.0'
+  codename: sky
+  date: '2025-08-04'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VMWEUXM/fw_sky_eea_global_sky_eea_global-ota_full-OS2.0.206.0.VMWEUXM-user-15.0-231b8422df.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS2.0.206.0.VMWEUXM
 - android: '14.0'
   codename: sky
   date: '2024-09-03'
@@ -17116,6 +17146,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UGVINXM/fw_warm_miui_WARMINGlobal_OS1.0.8.0.UGVINXM_4dcaa9f305_14.0.zip
   name: Redmi A4 5G/POCO C75 5G
   version: OS1.0.8.0.UGVINXM
+- android: '14.0'
+  codename: warm
+  date: '2025-08-04'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UGVINXM/fw_warm_miui_WARMINGlobal_OS1.0.10.0.UGVINXM_8954f337bf_14.0.zip
+  name: Redmi A4 5G/POCO C75 5G
+  version: OS1.0.10.0.UGVINXM
 - android: '14.0'
   codename: warm
   date: '2024-12-03'
