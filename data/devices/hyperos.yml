@@ -2596,6 +2596,12 @@
   download: https://bigota.d.miui.com/OS2.0.214.0.VONCNXM/fw_dali_dali-ota_full-OS2.0.214.0.VONCNXM-user-15.0-ab1be72000.zip
   name: Redmi K80 Ultra
   version: OS2.0.214.0.VONCNXM
+- android: '15.0'
+  codename: dali
+  date: '2025-08-05'
+  download: https://bigota.d.miui.com/OS2.0.215.0.VONCNXM/fw_dali_dali-ota_full-OS2.0.215.0.VONCNXM-user-15.0-9f97adbf9a.zip
+  name: Redmi K80 Ultra
+  version: OS2.0.215.0.VONCNXM
 - android: '14.0'
   codename: daumier
   date: '2025-02-27'

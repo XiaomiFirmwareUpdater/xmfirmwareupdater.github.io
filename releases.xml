@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 05 Aug 2025 06:34:51 </lastBuildDate>
+        <lastBuildDate>Tue, 05 Aug 2025 12:46:01 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K80 Ultra (dali) - OS2.0.215.0.VONCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dali/</link>
+            <pubDate>Tue, 05 Aug 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.201.0.VGQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
@@ -379,11 +384,6 @@
         <item>
             <title>Xiaomi 15 (dada) - OS2.0.214.0.VOCCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dada/</link>
-            <pubDate>Fri, 25 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K80 Ultra (dali) - OS2.0.214.0.VONCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dali/</link>
             <pubDate>Fri, 25 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
