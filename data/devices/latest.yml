@@ -129,15 +129,15 @@
     android: '15.0'
     miui: OS2.0.204.0.VOPCNXM
 - branch: stable
-  date: '2025-07-07'
+  date: '2025-08-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-07.07.2025/fw_amethyst_eea_global_amethyst_eea_global-ota_full-OS2.0.202.0.VOPEUXM-user-15.0-631125fa71.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/amethyst/fw_amethyst_eea_global_amethyst_eea_global-ota_full-OS2.0.202.0.VOPEUXM-user-15.0-631125fa71.zip
-  filename: fw_amethyst_eea_global_amethyst_eea_global-ota_full-OS2.0.202.0.VOPEUXM-user-15.0-631125fa71.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-06.08.2025/fw_amethyst_eea_global_amethyst_eea_global-ota_full-OS2.0.203.0.VOPEUXM-user-15.0-f0dae74727.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/amethyst/fw_amethyst_eea_global_amethyst_eea_global-ota_full-OS2.0.203.0.VOPEUXM-user-15.0-f0dae74727.zip
+  filename: fw_amethyst_eea_global_amethyst_eea_global-ota_full-OS2.0.203.0.VOPEUXM-user-15.0-f0dae74727.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.202.0.VOPEUXM
+    miui: OS2.0.203.0.VOPEUXM
 - branch: stable
   date: '2025-07-09'
   downloads:
@@ -3509,15 +3509,15 @@
     android: '15.0'
     miui: OS2.0.201.0.VOMMIXM
 - branch: stable
-  date: '2025-07-12'
+  date: '2025-08-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-12.07.2025/fw_miro_miro-ota_full-OS2.0.203.0.VOMCNXM-user-15.0-eb7753bd65.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro-ota_full-OS2.0.203.0.VOMCNXM-user-15.0-eb7753bd65.zip
-  filename: fw_miro_miro-ota_full-OS2.0.203.0.VOMCNXM-user-15.0-eb7753bd65.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-06.08.2025/fw_miro_miro-ota_full-OS2.0.204.0.VOMCNXM-user-15.0-0be8535a72.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro-ota_full-OS2.0.204.0.VOMCNXM-user-15.0-0be8535a72.zip
+  filename: fw_miro_miro-ota_full-OS2.0.204.0.VOMCNXM-user-15.0-0be8535a72.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.203.0.VOMCNXM
+    miui: OS2.0.204.0.VOMCNXM
 - branch: stable
   date: '2025-07-28'
   downloads:
@@ -5139,15 +5139,15 @@
     android: '14.0'
     miui: OS2.0.5.0.UMOEUXM
 - branch: stable
-  date: '2025-06-05'
+  date: '2025-08-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-05.06.2025/fw_ruby_in_global_ruby_in_global-ota_full-OS2.0.1.0.UMOINXM-user-14.0-73b422685e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruby/fw_ruby_in_global_ruby_in_global-ota_full-OS2.0.1.0.UMOINXM-user-14.0-73b422685e.zip
-  filename: fw_ruby_in_global_ruby_in_global-ota_full-OS2.0.1.0.UMOINXM-user-14.0-73b422685e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-06.08.2025/fw_ruby_in_global_ruby_in_global-ota_full-OS2.0.3.0.UMOINXM-user-14.0-b09c3ebded.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruby/fw_ruby_in_global_ruby_in_global-ota_full-OS2.0.3.0.UMOINXM-user-14.0-b09c3ebded.zip
+  filename: fw_ruby_in_global_ruby_in_global-ota_full-OS2.0.3.0.UMOINXM-user-14.0-b09c3ebded.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS2.0.1.0.UMOINXM
+    miui: OS2.0.3.0.UMOINXM
 - branch: stable
   date: '2025-07-31'
   downloads:
@@ -5809,15 +5809,15 @@
     android: '15.0'
     miui: OS2.0.201.0.VOVEUXM
 - branch: stable
-  date: '2025-07-10'
+  date: '2025-08-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taiko/releases/download/stable-10.07.2025/fw_taiko_in_global_taiko_in_global-ota_full-OS2.0.200.0.VOVINXM-user-15.0-741a22709e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/taiko/fw_taiko_in_global_taiko_in_global-ota_full-OS2.0.200.0.VOVINXM-user-15.0-741a22709e.zip
-  filename: fw_taiko_in_global_taiko_in_global-ota_full-OS2.0.200.0.VOVINXM-user-15.0-741a22709e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taiko/releases/download/stable-06.08.2025/fw_taiko_in_global_taiko_in_global-ota_full-OS2.0.202.0.VOVINXM-user-15.0-82ed2a2047.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/taiko/fw_taiko_in_global_taiko_in_global-ota_full-OS2.0.202.0.VOVINXM-user-15.0-82ed2a2047.zip
+  filename: fw_taiko_in_global_taiko_in_global-ota_full-OS2.0.202.0.VOVINXM-user-15.0-82ed2a2047.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.200.0.VOVINXM
+    miui: OS2.0.202.0.VOVINXM
 - branch: stable
   date: '2025-06-20'
   downloads:
@@ -7039,15 +7039,15 @@
     android: '15.0'
     miui: OS2.0.201.0.VOKMIXM
 - branch: stable
-  date: '2025-07-19'
+  date: '2025-08-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zorn/releases/download/stable-19.07.2025/fw_zorn_zorn-ota_full-OS2.0.207.0.VOKCNXM-user-15.0-dd18c2a9bc.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zorn/fw_zorn_zorn-ota_full-OS2.0.207.0.VOKCNXM-user-15.0-dd18c2a9bc.zip
-  filename: fw_zorn_zorn-ota_full-OS2.0.207.0.VOKCNXM-user-15.0-dd18c2a9bc.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zorn/releases/download/stable-06.08.2025/fw_zorn_zorn-ota_full-OS2.0.208.0.VOKCNXM-user-15.0-48f290c974.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zorn/fw_zorn_zorn-ota_full-OS2.0.208.0.VOKCNXM-user-15.0-48f290c974.zip
+  filename: fw_zorn_zorn-ota_full-OS2.0.208.0.VOKCNXM-user-15.0-48f290c974.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.207.0.VOKCNXM
+    miui: OS2.0.208.0.VOKCNXM
 - branch: stable
   date: '2025-07-31'
   downloads:

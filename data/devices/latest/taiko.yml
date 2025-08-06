@@ -19,12 +19,12 @@
     android: '15.0'
     miui: OS2.0.201.0.VOVEUXM
 - branch: stable
-  date: '2025-07-10'
+  date: '2025-08-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taiko/releases/download/stable-10.07.2025/fw_taiko_in_global_taiko_in_global-ota_full-OS2.0.200.0.VOVINXM-user-15.0-741a22709e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/taiko/fw_taiko_in_global_taiko_in_global-ota_full-OS2.0.200.0.VOVINXM-user-15.0-741a22709e.zip
-  filename: fw_taiko_in_global_taiko_in_global-ota_full-OS2.0.200.0.VOVINXM-user-15.0-741a22709e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taiko/releases/download/stable-06.08.2025/fw_taiko_in_global_taiko_in_global-ota_full-OS2.0.202.0.VOVINXM-user-15.0-82ed2a2047.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/taiko/fw_taiko_in_global_taiko_in_global-ota_full-OS2.0.202.0.VOVINXM-user-15.0-82ed2a2047.zip
+  filename: fw_taiko_in_global_taiko_in_global-ota_full-OS2.0.202.0.VOVINXM-user-15.0-82ed2a2047.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.200.0.VOVINXM
+    miui: OS2.0.202.0.VOVINXM
