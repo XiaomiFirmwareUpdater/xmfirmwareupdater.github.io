@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 06 Aug 2025 19:00:04 </lastBuildDate>
+        <lastBuildDate>Thu, 07 Aug 2025 00:45:57 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS2.0.203.0.VOPEUXM</title>
@@ -29,6 +29,11 @@
         <item>
             <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS2.0.204.0.VOMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/miro/</link>
+            <pubDate>Wed, 06 Aug 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.206.0.VNNCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
             <pubDate>Wed, 06 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -634,11 +639,6 @@
         <item>
             <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.201.0.VOJMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
-            <pubDate>Thu, 17 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.205.0.VNNCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
             <pubDate>Thu, 17 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
