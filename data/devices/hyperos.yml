@@ -712,6 +712,12 @@
   download: https://bigota.d.miui.com/OS2.0.103.0.VMFEUXM/fw_aristotle_eea_global_aristotle_eea_global-ota_full-OS2.0.103.0.VMFEUXM-user-15.0-c33a70a1ec.zip
   name: Xiaomi 13T
   version: OS2.0.103.0.VMFEUXM
+- android: '15.0'
+  codename: aristotle
+  date: '2025-08-06'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VMFMIXM/fw_aristotle_global_aristotle_global-ota_full-OS2.0.205.0.VMFMIXM-user-15.0-41a47b3bad.zip
+  name: Xiaomi 13T
+  version: OS2.0.205.0.VMFMIXM
 - android: '14.0'
   codename: aristotle
   date: '2024-05-06'
@@ -7936,6 +7942,12 @@
   download: https://bigota.d.miui.com/OS2.0.5.0.VMYCNXM/fw_liuqin_liuqin-ota_full-OS2.0.5.0.VMYCNXM-user-15.0-6edebce863.zip
   name: Xiaomi Pad 6 Pro
   version: OS2.0.5.0.VMYCNXM
+- android: '15.0'
+  codename: liuqin
+  date: '2025-08-06'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VMYCNXM/fw_liuqin_liuqin-ota_full-OS2.0.207.0.VMYCNXM-user-15.0-9f8a119635.zip
+  name: Xiaomi Pad 6 Pro
+  version: OS2.0.207.0.VMYCNXM
 - android: '14.0'
   codename: liuqin
   date: '2024-02-01'
