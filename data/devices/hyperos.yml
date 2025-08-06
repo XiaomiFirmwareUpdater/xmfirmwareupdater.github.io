@@ -4174,6 +4174,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VNFEUXM/fw_emerald_eea_global_emerald_eea_global-ota_full-OS2.0.202.0.VNFEUXM-user-15.0-cd7afc8979.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS2.0.202.0.VNFEUXM
+- android: '15.0'
+  codename: emerald
+  date: '2025-08-06'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VFOMIXM/fw_emerald_r_global_emerald_r_global-ota_full-OS2.0.203.0.VFOMIXM-user-15.0-8ee3218b36.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
+  version: OS2.0.203.0.VFOMIXM
 - android: '14.0'
   codename: emerald
   date: '2025-01-06'

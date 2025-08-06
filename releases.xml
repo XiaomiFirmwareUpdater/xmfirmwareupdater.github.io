@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 06 Aug 2025 00:36:24 </lastBuildDate>
+        <lastBuildDate>Wed, 06 Aug 2025 06:42:04 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.203.0.VFOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
+            <pubDate>Wed, 06 Aug 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K80 Ultra (dali) - OS2.0.215.0.VONCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dali/</link>
@@ -249,11 +254,6 @@
         <item>
             <title>Xiaomi 15 (dada) - OS2.0.218.0.WOCEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dada/</link>
-            <pubDate>Mon, 28 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.204.0.VNFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
             <pubDate>Mon, 28 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
