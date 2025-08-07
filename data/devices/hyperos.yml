@@ -7314,6 +7314,12 @@
   version: OS2.0.200.0.VOWINXM
 - android: '15.0'
   codename: koto
+  date: '2025-08-07'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VOWINXM/fw_koto_in_global_koto_in_global-ota_full-OS2.0.202.0.VOWINXM-user-15.0-6d0c0da8e2.zip
+  name: Redmi Pad 2 4G
+  version: OS2.0.202.0.VOWINXM
+- android: '15.0'
+  codename: koto
   date: '2025-06-06'
   download: https://bigota.d.miui.com/OS2.0.104.0.VOWEUXM/fw_koto_eea_global_koto_eea_global-ota_full-OS2.0.104.0.VOWEUXM-user-15.0-0928066d70.zip
   name: Redmi Pad 2 4G
@@ -19216,6 +19222,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.ULRCNXM/fw_zizhan_miui_ZIZHAN_OS1.0.5.0.ULRCNXM_fd3cf395bc_14.0.zip
   name: Xiaomi MIX Fold 2
   version: OS1.0.5.0.ULRCNXM
+- android: '15.0'
+  codename: zizhan
+  date: '2025-08-07'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VLRCNXM/fw_zizhan_zizhan-ota_full-OS2.0.202.0.VLRCNXM-user-15.0-392793ef33.zip
+  name: Xiaomi MIX Fold 2
+  version: OS2.0.202.0.VLRCNXM
 - android: '15.0'
   codename: zizhan
   date: '2025-05-07'

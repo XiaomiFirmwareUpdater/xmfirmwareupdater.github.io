@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 07 Aug 2025 06:37:27 </lastBuildDate>
+        <lastBuildDate>Thu, 07 Aug 2025 12:51:10 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Pad 2 4G (koto) - OS2.0.202.0.VOWINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/koto/</link>
+            <pubDate>Thu, 07 Aug 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi MIX Fold 2 (zizhan) - OS2.0.202.0.VLRCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zizhan/</link>
+            <pubDate>Thu, 07 Aug 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS2.0.203.0.VOPEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
@@ -602,11 +612,6 @@
             <pubDate>Sun, 20 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi MIX Fold 2 (zizhan) - OS2.0.16.0.VLRCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zizhan/</link>
-            <pubDate>Sat, 19 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.203.0.VMLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/corot/</link>
             <pubDate>Fri, 18 Jul 2025 00:00:00 </pubDate>
@@ -680,11 +685,6 @@
             <title>Xiaomi Civi 3 (yuechu) - OS2.0.203.0.VMICNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/yuechu/</link>
             <pubDate>Wed, 16 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad 2 4G (koto) - OS2.0.200.0.VOWINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/koto/</link>
-            <pubDate>Tue, 15 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 12 Pro Dimensity (daumier) - OS2.0.6.0.ULGCNXM</title>
