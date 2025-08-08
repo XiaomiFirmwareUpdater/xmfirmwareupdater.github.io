@@ -1,7 +1,7 @@
 ---
-title: Xiaomi Pad 7 EEA Firmware OS2.0.101.0.VOZEUXM Update
+title: Xiaomi Pad 7 / POCO Pad X1 EEA Firmware OS2.0.101.0.VOZEUXM Update
 layout: download
-name: Xiaomi Pad 7 EEA
+name: Xiaomi Pad 7 / POCO Pad X1 EEA
 codename: uke
 permalink: /firmware/uke/stable/OS2.0.101.0.VOZEUXM/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/uke/stable/OS2.0.101.0.VOZEUXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item"><a href="/firmware/uke/">Xiaomi Pad 7 EEA</a></li>
+        <li class="breadcrumb-item"><a href="/firmware/uke/">Xiaomi Pad 7 / POCO Pad X1 EEA</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS2.0.101.0.VOZEUXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /firmware/uke/stable/OS2.0.101.0.VOZEUXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">Firmware OS2.0.101.0.VOZEUXM Stable Release for Xiaomi Pad 7 EEA (uke)</h3>
+    <h3 class="title bg-light p-2 rounded">Firmware OS2.0.101.0.VOZEUXM Stable Release for Xiaomi Pad 7 / POCO Pad X1 EEA (uke)</h3>
     <h5>This page shows the OS2.0.101.0.VOZEUXM update only. If you're looking for other updates check
         <a href="/firmware/uke/">here.</a></h5>
     <div class="card">
@@ -42,7 +42,7 @@ permalink: /firmware/uke/stable/OS2.0.101.0.VOZEUXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Xiaomi Pad 7 EEA</h5>
+                    <h5><b>Device: </b>Xiaomi Pad 7 / POCO Pad X1 EEA</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/firmware/uke/" target="_blank">uke</a> </h5>

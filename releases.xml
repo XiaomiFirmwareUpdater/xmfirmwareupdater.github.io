@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 08 Aug 2025 13:01:57 </lastBuildDate>
+        <lastBuildDate>Sat, 09 Aug 2025 00:44:45 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 13 Pro (nuwa) - OS2.0.105.0.VMBINXM</title>
@@ -17,8 +17,18 @@
             <pubDate>Fri, 08 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.202.0.VNPMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
+            <pubDate>Fri, 08 Aug 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.205.0.VOJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
+            <pubDate>Fri, 08 Aug 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS2.0.202.0.VOUEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/spring/</link>
             <pubDate>Fri, 08 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -972,11 +982,6 @@
             <pubDate>Wed, 02 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.105.0.VNPMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
-            <pubDate>Wed, 02 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad 2 (taiko) - OS2.0.201.0.VOVEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
             <pubDate>Wed, 02 Jul 2025 00:00:00 </pubDate>
@@ -1147,12 +1152,12 @@
             <pubDate>Wed, 11 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 7 (uke) - OS2.0.106.0.VOZMIXM</title>
+            <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS2.0.106.0.VOZMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/uke/</link>
             <pubDate>Tue, 10 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 7 (uke) - OS2.0.106.0.VOZEUXM</title>
+            <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS2.0.106.0.VOZEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/uke/</link>
             <pubDate>Tue, 10 Jun 2025 00:00:00 </pubDate>
         </item>
@@ -1177,7 +1182,7 @@
             <pubDate>Mon, 09 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 7 (uke) - OS2.0.202.0.VOZCNXM</title>
+            <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS2.0.202.0.VOZCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/uke/</link>
             <pubDate>Mon, 09 Jun 2025 00:00:00 </pubDate>
         </item>
@@ -1197,7 +1202,7 @@
             <pubDate>Tue, 03 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 7 (uke) - OS2.0.102.0.VOZINXM</title>
+            <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS2.0.102.0.VOZINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/uke/</link>
             <pubDate>Fri, 30 May 2025 00:00:00 </pubDate>
         </item>

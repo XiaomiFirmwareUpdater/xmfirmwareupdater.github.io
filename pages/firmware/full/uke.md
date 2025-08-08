@@ -1,7 +1,7 @@
 ---
-title: Xiaomi Pad 7 (uke) Firmware Downloads
+title: Xiaomi Pad 7/POCO Pad X1 (uke) Firmware Downloads
 layout: download
-name: Xiaomi Pad 7
+name: Xiaomi Pad 7/POCO Pad X1
 codename: uke
 permalink: /archive/firmware/uke/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/uke/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/uke/">Xiaomi Pad 7</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/uke/">Xiaomi Pad 7/POCO Pad X1</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

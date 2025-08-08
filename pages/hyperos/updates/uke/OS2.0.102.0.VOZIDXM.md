@@ -1,7 +1,7 @@
 ---
-title: Xiaomi Pad 7 Indonesia HyperOS OS2.0.102.0.VOZIDXM Update
+title: Xiaomi Pad 7 / POCO Pad X1 Indonesia HyperOS OS2.0.102.0.VOZIDXM Update
 layout: download
-name: Xiaomi Pad 7 Indonesia
+name: Xiaomi Pad 7 / POCO Pad X1 Indonesia
 codename: uke
 permalink: /hyperos/uke/stable/OS2.0.102.0.VOZIDXM/
 ---
@@ -9,7 +9,7 @@ permalink: /hyperos/uke/stable/OS2.0.102.0.VOZIDXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/uke/">Xiaomi Pad 7 Indonesia</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/uke/">Xiaomi Pad 7 / POCO Pad X1 Indonesia</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS2.0.102.0.VOZIDXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /hyperos/uke/stable/OS2.0.102.0.VOZIDXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.102.0.VOZIDXM Stable Official Update for Xiaomi Pad 7 Indonesia (uke)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.102.0.VOZIDXM Stable Official Update for Xiaomi Pad 7 / POCO Pad X1 Indonesia (uke)</h3>
     <h5>This page shows the OS2.0.102.0.VOZIDXM update only. If you're looking for other updates check
         <a href="/hyperos/uke/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -44,7 +44,7 @@ permalink: /hyperos/uke/stable/OS2.0.102.0.VOZIDXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Xiaomi Pad 7 Indonesia</h5>
+                    <h5><b>Device: </b>Xiaomi Pad 7 / POCO Pad X1 Indonesia</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/uke/" target="_blank">uke</a> </h5>
@@ -87,7 +87,7 @@ permalink: /hyperos/uke/stable/OS2.0.102.0.VOZIDXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Xiaomi Pad 7 Indonesia</h5>
+                    <h5><b>Device: </b>Xiaomi Pad 7 / POCO Pad X1 Indonesia</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/uke/" target="_blank">uke</a> </h5>
