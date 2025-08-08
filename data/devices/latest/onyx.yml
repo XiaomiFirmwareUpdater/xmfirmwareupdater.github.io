@@ -29,12 +29,12 @@
     android: '15.0'
     miui: OS2.0.202.0.VOLEUXM
 - branch: stable
-  date: '2025-06-26'
+  date: '2025-08-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-26.06.2025/fw_onyx_in_global_onyx_in_global-ota_full-OS2.0.101.0.VOLINXM-user-15.0-98013df2e2.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/onyx/fw_onyx_in_global_onyx_in_global-ota_full-OS2.0.101.0.VOLINXM-user-15.0-98013df2e2.zip
-  filename: fw_onyx_in_global_onyx_in_global-ota_full-OS2.0.101.0.VOLINXM-user-15.0-98013df2e2.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-08.08.2025/fw_onyx_in_global_onyx_in_global-ota_full-OS2.0.102.0.VOLINXM-user-15.0-8effe527c0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/onyx/fw_onyx_in_global_onyx_in_global-ota_full-OS2.0.102.0.VOLINXM-user-15.0-8effe527c0.zip
+  filename: fw_onyx_in_global_onyx_in_global-ota_full-OS2.0.102.0.VOLINXM-user-15.0-8effe527c0.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.101.0.VOLINXM
+    miui: OS2.0.102.0.VOLINXM

@@ -29,12 +29,12 @@
     android: '15.0'
     miui: OS2.0.110.0.VMBEUXM
 - branch: stable
-  date: '2025-06-09'
+  date: '2025-08-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-09.06.2025/fw_nuwa_in_global_nuwa_in_global-ota_full-OS2.0.104.0.VMBINXM-user-15.0-3f88130dc9.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/nuwa/fw_nuwa_in_global_nuwa_in_global-ota_full-OS2.0.104.0.VMBINXM-user-15.0-3f88130dc9.zip
-  filename: fw_nuwa_in_global_nuwa_in_global-ota_full-OS2.0.104.0.VMBINXM-user-15.0-3f88130dc9.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-08.08.2025/fw_nuwa_in_global_nuwa_in_global-ota_full-OS2.0.105.0.VMBINXM-user-15.0-3455e0f4d7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/nuwa/fw_nuwa_in_global_nuwa_in_global-ota_full-OS2.0.105.0.VMBINXM-user-15.0-3455e0f4d7.zip
+  filename: fw_nuwa_in_global_nuwa_in_global-ota_full-OS2.0.105.0.VMBINXM-user-15.0-3455e0f4d7.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.104.0.VMBINXM
+    miui: OS2.0.105.0.VMBINXM
