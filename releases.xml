@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 09 Aug 2025 06:41:23 </lastBuildDate>
+        <lastBuildDate>Sat, 09 Aug 2025 12:46:34 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Pad 7 Ultra (jinghu) - OS2.0.206.0.VOXCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/jinghu/</link>
+            <pubDate>Sat, 09 Aug 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS2.0.203.0.VOUMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spring/</link>
@@ -689,11 +694,6 @@
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS2.0.201.0.VOQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
-            <pubDate>Wed, 16 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 7 Ultra (jinghu) - OS2.0.205.0.VOXCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/jinghu/</link>
             <pubDate>Wed, 16 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>

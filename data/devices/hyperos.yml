@@ -7290,6 +7290,12 @@
   version: OS2.0.111.0.VOXCNXM
 - android: '15.0'
   codename: jinghu
+  date: '2025-08-09'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VOXCNXM/fw_jinghu_jinghu-ota_full-OS2.0.206.0.VOXCNXM-user-15.0-edfb73601b.zip
+  name: Xiaomi Pad 7 Ultra
+  version: OS2.0.206.0.VOXCNXM
+- android: '15.0'
+  codename: jinghu
   date: '2025-06-04'
   download: https://bigota.d.miui.com/OS2.0.110.0.VOXCNXM/fw_jinghu_jinghu-ota_full-OS2.0.110.0.VOXCNXM-user-15.0-b31d1e2501.zip
   name: Xiaomi Pad 7 Ultra
