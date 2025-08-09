@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 09 Aug 2025 18:50:39 </lastBuildDate>
+        <lastBuildDate>Sun, 10 Aug 2025 00:47:54 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 15 (dada) - OS2.0.201.0.VOCINXM</title>
@@ -24,6 +24,11 @@
         <item>
             <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS2.0.203.0.VOUMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spring/</link>
+            <pubDate>Sat, 09 Aug 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K Pad (turner) - OS2.0.216.0.VAOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/turner/</link>
             <pubDate>Sat, 09 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -714,11 +719,6 @@
         <item>
             <title>Redmi K60E (rembrandt) - OS2.0.12.0.UMMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rembrandt/</link>
-            <pubDate>Wed, 16 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K Pad (turner) - OS2.0.213.0.VAOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/turner/</link>
             <pubDate>Wed, 16 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>

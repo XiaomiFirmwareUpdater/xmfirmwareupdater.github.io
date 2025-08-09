@@ -16139,6 +16139,12 @@
   name: Redmi K Pad
   version: OS2.0.213.0.VAOCNXM
 - android: '15.0'
+  codename: turner
+  date: '2025-08-09'
+  download: https://bigota.d.miui.com/OS2.0.216.0.VAOCNXM/fw_turner_turner-ota_full-OS2.0.216.0.VAOCNXM-user-15.0-ca8fa3442d.zip
+  name: Redmi K Pad
+  version: OS2.0.216.0.VAOCNXM
+- android: '15.0'
   codename: uke
   date: '2024-10-30'
   download: https://bigota.d.miui.com/OS2.0.7.0.VOZCNXM/fw_uke_uke-ota_full-OS2.0.7.0.VOZCNXM-user-15.0-febddd1fcd.zip
