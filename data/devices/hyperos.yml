@@ -2448,6 +2448,12 @@
   version: OS2.0.17.0.VOCCNXM
 - android: '15.0'
   codename: dada
+  date: '2025-08-09'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VOCINXM/fw_dada_in_global_dada_in_global-ota_full-OS2.0.201.0.VOCINXM-user-15.0-b84b27c206.zip
+  name: Xiaomi 15
+  version: OS2.0.201.0.VOCINXM
+- android: '15.0'
+  codename: dada
   date: '2025-01-09'
   download: https://bigota.d.miui.com/OS2.0.101.0.VOCCNXM/fw_dada_dada-ota_full-OS2.0.101.0.VOCCNXM-user-15.0-8cd21e2a29.zip
   name: Xiaomi 15
@@ -5188,6 +5194,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UGPINXM/fw_gale_miui_GALEINGlobal_OS1.0.4.0.UGPINXM_c2a63a1fbb_14.0.zip
   name: Redmi 13C/POCO C65
   version: OS1.0.4.0.UGPINXM
+- android: '15.0'
+  codename: gale
+  date: '2025-08-09'
+  download: https://bigota.d.miui.com/OS2.0.7.0.VGPMIXM/fw_gale_global_gale_global-ota_full-OS2.0.7.0.VGPMIXM-user-15.0-59aa839b99.zip
+  name: Redmi 13C/POCO C65
+  version: OS2.0.7.0.VGPMIXM
 - android: '14.0'
   codename: gale
   date: '2024-07-09'
