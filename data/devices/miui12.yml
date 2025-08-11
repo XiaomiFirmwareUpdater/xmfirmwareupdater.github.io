@@ -5542,6 +5542,90 @@
   download: https://bigota.d.miui.com/20.6.4/miui_MIMIX2S_20.6.4_cc8d36bd27_10.0.zip
   name: Mi MIX 2S
   version: 20.6.4
+- android: '10.0'
+  codename: pyxis
+  date: '2020-10-31'
+  download: https://bigota.d.miui.com/20.10.30/miui_PYXIS_20.10.30_8ca34e09be_10.0.zip
+  name: Mi CC 9/Mi 9 Lite
+  version: 20.10.30
+- android: '10.0'
+  codename: pyxis
+  date: '2020-07-30'
+  download: https://bigota.d.miui.com/20.7.30/miui_PYXIS_20.7.30_8c598cb42a_10.0.zip
+  name: Mi CC 9/Mi 9 Lite
+  version: 20.7.30
+- android: '11.0'
+  codename: pyxis
+  date: '2021-11-26'
+  download: https://bigota.d.miui.com/21.11.24/miui_PYXIS_21.11.24_6de4b7c8f1_11.0.zip
+  name: Mi CC 9/Mi 9 Lite
+  version: 21.11.24
+- android: '10.0'
+  codename: pyxis
+  date: '2020-09-24'
+  download: https://bigota.d.miui.com/20.9.24/miui_PYXIS_20.9.24_e87ac7c74a_10.0.zip
+  name: Mi CC 9/Mi 9 Lite
+  version: 20.9.24
+- android: '10.0'
+  codename: pyxis
+  date: '2020-10-22'
+  download: https://bigota.d.miui.com/20.10.22/miui_PYXIS_20.10.22_4c987e6032_10.0.zip
+  name: Mi CC 9/Mi 9 Lite
+  version: 20.10.22
+- android: '11.0'
+  codename: pyxis
+  date: '2021-05-20'
+  download: https://bigota.d.miui.com/21.5.20/miui_PYXIS_21.5.20_0ccb763322_11.0.zip
+  name: Mi CC 9/Mi 9 Lite
+  version: 21.5.20
+- android: '11.0'
+  codename: pyxis
+  date: '2021-06-18'
+  download: https://bigota.d.miui.com/21.6.16/miui_PYXIS_21.6.16_fb04ad56a3_11.0.zip
+  name: Mi CC 9/Mi 9 Lite
+  version: 21.6.16
+- android: '11.0'
+  codename: pyxis
+  date: '2021-04-16'
+  download: https://bigota.d.miui.com/21.4.14/miui_PYXIS_21.4.14_2236e5a6a8_11.0.zip
+  name: Mi CC 9/Mi 9 Lite
+  version: 21.4.14
+- android: '10.0'
+  codename: pyxis
+  date: '2020-10-15'
+  download: https://bigota.d.miui.com/20.10.15/miui_PYXIS_20.10.15_25aa41c798_10.0.zip
+  name: Mi CC 9/Mi 9 Lite
+  version: 20.10.15
+- android: '10.0'
+  codename: pyxis
+  date: '2020-08-13'
+  download: https://bigota.d.miui.com/20.8.13/miui_PYXIS_20.8.13_e67ee8c48b_10.0.zip
+  name: Mi CC 9/Mi 9 Lite
+  version: 20.8.13
+- android: '10.0'
+  codename: pyxis
+  date: '2020-12-10'
+  download: https://bigota.d.miui.com/20.12.9/miui_PYXIS_20.12.9_1ac3c93766_10.0.zip
+  name: Mi CC 9/Mi 9 Lite
+  version: 20.12.9
+- android: '10.0'
+  codename: pyxis
+  date: '2020-05-08'
+  download: https://bigota.d.miui.com/20.5.7/miui_PYXIS_20.5.7_3324c10e52_10.0.zip
+  name: Mi CC 9/Mi 9 Lite
+  version: 20.5.7
+- android: '11.0'
+  codename: pyxis
+  date: '2021-04-08'
+  download: https://bigota.d.miui.com/21.4.7/miui_PYXIS_21.4.7_21170309bf_11.0.zip
+  name: Mi CC 9/Mi 9 Lite
+  version: 21.4.7
+- android: '10.0'
+  codename: pyxis
+  date: '2020-12-03'
+  download: https://bigota.d.miui.com/20.12.2/miui_PYXIS_20.12.2_06fbb9608c_10.0.zip
+  name: Mi CC 9/Mi 9 Lite
+  version: 20.12.2
 - android: '11.0'
   codename: raphael
   date: '2020-12-31'

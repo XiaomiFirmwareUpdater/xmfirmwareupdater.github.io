@@ -12359,6 +12359,192 @@
   name: POCO M5/Redmi 11 Prime 4G
   version: OS1.0.2.0.ULUEUXM
 - android: '15.0'
+  codename: rodin
+  date: '2025-07-30'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VOJEUXM/fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.203.0.VOJEUXM-user-15.0-8169a45876.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.203.0.VOJEUXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-06-30'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VOJEUXM/fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.201.0.VOJEUXM-user-15.0-b7e2b38a40.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.201.0.VOJEUXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-05-29'
+  download: https://bigota.d.miui.com/OS2.0.102.0.VOJINXM/fw_rodin_in_global_rodin_in_global-ota_full-OS2.0.102.0.VOJINXM-user-15.0-79fc7b7e0b.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.102.0.VOJINXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-03-29'
+  download: https://bigota.d.miui.com/OS2.0.101.0.VOJMIXM/fw_rodin_global_rodin_global-ota_full-OS2.0.101.0.VOJMIXM-user-15.0-3fa3c6e8d1.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.101.0.VOJMIXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-03-28'
+  download: https://bigota.d.miui.com/OS2.0.108.0.VOJCNXM/fw_rodin_rodin-ota_full-OS2.0.108.0.VOJCNXM-user-15.0-998c5a40d7.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.108.0.VOJCNXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-07-28'
+  download: https://bigota.d.miui.com/OS2.0.200.0.VOJINXM/fw_rodin_in_global_rodin_in_global-ota_full-OS2.0.200.0.VOJINXM-user-15.0-9175562ace.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.200.0.VOJINXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-03-28'
+  download: https://bigota.d.miui.com/OS2.0.101.0.VOJEUXM/fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.101.0.VOJEUXM-user-15.0-c3f10ad369.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.101.0.VOJEUXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-05-26'
+  download: https://bigota.d.miui.com/OS2.0.102.0.VOJEUXM/fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.102.0.VOJEUXM-user-15.0-3fd6746344.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.102.0.VOJEUXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-05-26'
+  download: https://bigota.d.miui.com/OS2.0.103.0.VOJMIXM/fw_rodin_global_rodin_global-ota_full-OS2.0.103.0.VOJMIXM-user-15.0-21dd0b4bf0.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.103.0.VOJMIXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-02-26'
+  download: https://bigota.d.miui.com/OS2.0.13.0.VOJEUXM/fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.13.0.VOJEUXM-user-15.0-ae03c09391.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.13.0.VOJEUXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-04-25'
+  download: https://bigota.d.miui.com/OS2.0.101.0.VOJINXM/fw_rodin_in_global_rodin_in_global-ota_full-OS2.0.101.0.VOJINXM-user-15.0-cc9f86000b.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.101.0.VOJINXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-02-25'
+  download: https://bigota.d.miui.com/OS2.0.10.0.VOJMIXM/fw_rodin_global_rodin_global-ota_full-OS2.0.10.0.VOJMIXM-user-15.0-eed6f9b94d.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.10.0.VOJMIXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-06-23'
+  download: https://bigota.d.miui.com/OS2.0.103.0.VOJINXM/fw_rodin_in_global_rodin_in_global-ota_full-OS2.0.103.0.VOJINXM-user-15.0-f1bd573554.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.103.0.VOJINXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-03-24'
+  download: https://bigota.d.miui.com/OS2.0.100.0.VOJINXM/fw_rodin_in_global_rodin_in_global-ota_full-OS2.0.100.0.VOJINXM-user-15.0-ff1420b959.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.100.0.VOJINXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-06-18'
+  download: https://bigota.d.miui.com/OS2.0.104.0.VOJMIXM/fw_rodin_global_rodin_global-ota_full-OS2.0.104.0.VOJMIXM-user-15.0-681f6c5397.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.104.0.VOJMIXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-07-17'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VOJMIXM/fw_rodin_global_rodin_global-ota_full-OS2.0.201.0.VOJMIXM-user-15.0-2deee8e849.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.201.0.VOJMIXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-02-16'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VOJINXM/fw_rodin_in_global_rodin_in_global-ota_full-OS2.0.3.0.VOJINXM-user-15.0-e555119622.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.3.0.VOJINXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-04-14'
+  download: https://bigota.d.miui.com/OS2.0.109.0.VOJCNXM/fw_rodin_rodin-ota_full-OS2.0.109.0.VOJCNXM-user-15.0-9ed36383e6.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.109.0.VOJCNXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-03-14'
+  download: https://bigota.d.miui.com/OS2.0.100.0.VOJEUXM/fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.100.0.VOJEUXM-user-15.0-9fd56831db.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.100.0.VOJEUXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-02-14'
+  download: https://bigota.d.miui.com/OS2.0.103.0.VOJCNXM/fw_rodin_rodin-ota_full-OS2.0.103.0.VOJCNXM-user-15.0-7e30f0941c.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.103.0.VOJCNXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-01-14'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VOJINXM/fw_rodin_in_global_rodin_in_global-ota_full-OS2.0.2.0.VOJINXM-user-15.0-60249425a2.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.2.0.VOJINXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-06-12'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VOJCNXM/fw_rodin_rodin-ota_full-OS2.0.203.0.VOJCNXM-user-15.0-c2eaa1cc00.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.203.0.VOJCNXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-05-12'
+  download: https://bigota.d.miui.com/OS2.0.110.0.VOJCNXM/fw_rodin_rodin-ota_full-OS2.0.110.0.VOJCNXM-user-15.0-1f74964ee3.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.110.0.VOJCNXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-02-11'
+  download: https://bigota.d.miui.com/OS2.0.11.0.VOJEUXM/fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.11.0.VOJEUXM-user-15.0-0155f4105f.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.11.0.VOJEUXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-07-09'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VOJCNXM/fw_rodin_rodin-ota_full-OS2.0.204.0.VOJCNXM-user-15.0-5bf2bb68bb.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.204.0.VOJCNXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-01-09'
+  download: https://bigota.d.miui.com/OS2.0.10.0.VOJEUXM/fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.10.0.VOJEUXM-user-15.0-f9989105e6.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.10.0.VOJEUXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-01-09'
+  download: https://bigota.d.miui.com/OS2.0.8.0.VOJMIXM/fw_rodin_global_rodin_global-ota_full-OS2.0.8.0.VOJMIXM-user-15.0-f4d55ab50b.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.8.0.VOJMIXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-08-08'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VOJCNXM/fw_rodin_rodin-ota_full-OS2.0.205.0.VOJCNXM-user-15.0-e4a3789b7a.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.205.0.VOJCNXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-02-07'
+  download: https://bigota.d.miui.com/OS2.0.9.0.VOJMIXM/fw_rodin_global_rodin_global-ota_full-OS2.0.9.0.VOJMIXM-user-15.0-d077b00098.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.9.0.VOJMIXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-02-07'
+  download: https://bigota.d.miui.com/OS2.0.101.0.VOJCNXM/fw_rodin_rodin-ota_full-OS2.0.101.0.VOJCNXM-user-15.0-e8226fb7ab.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.101.0.VOJCNXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-01-02'
+  download: https://bigota.d.miui.com/OS2.0.5.0.VOJCNXM/fw_rodin_rodin-ota_full-OS2.0.5.0.VOJCNXM-user-15.0-a8d6646bde.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.5.0.VOJCNXM
+- android: '15.0'
   codename: rothko
   date: '2024-12-31'
   download: https://bigota.d.miui.com/OS2.0.12.0.VNNEUXM/fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.12.0.VNNEUXM-user-15.0-9e98b72019.zip

@@ -4629,6 +4629,46 @@
     android: '13.0'
     miui: OS1.0.8.0.TLDEUXM
 - branch: stable
+  date: '2021-07-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pyxis/releases/download/stable-23.07.2021/fw_pyxis_miui_PYXISGlobal_V12.5.2.0.RFCMIXM_ceaf059ed1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pyxis/fw_pyxis_miui_PYXISGlobal_V12.5.2.0.RFCMIXM_ceaf059ed1_11.0.zip
+  filename: fw_pyxis_miui_PYXISGlobal_V12.5.2.0.RFCMIXM_ceaf059ed1_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RFCMIXM
+- branch: stable
+  date: '2021-11-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pyxis/releases/download/stable-15.11.2021/fw_pyxis_miui_PYXIS_V12.5.5.0.RFCCNXM_c3b5b178ff_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pyxis/fw_pyxis_miui_PYXIS_V12.5.5.0.RFCCNXM_c3b5b178ff_11.0.zip
+  filename: fw_pyxis_miui_PYXIS_V12.5.5.0.RFCCNXM_c3b5b178ff_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RFCCNXM
+- branch: weekly
+  date: '2021-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pyxis/releases/download/weekly-26.11.2021/fw_pyxis_miui_PYXIS_21.11.24_6de4b7c8f1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.24/pyxis/fw_pyxis_miui_PYXIS_21.11.24_6de4b7c8f1_11.0.zip
+  filename: fw_pyxis_miui_PYXIS_21.11.24_6de4b7c8f1_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.11.24
+- branch: stable
+  date: '2022-08-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pyxis/releases/download/stable-20.08.2022/fw_pyxis_miui_PYXISEEAGlobal_V12.5.3.0.RFCEUXM_031fb02bfb_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pyxis/fw_pyxis_miui_PYXISEEAGlobal_V12.5.3.0.RFCEUXM_031fb02bfb_11.0.zip
+  filename: fw_pyxis_miui_PYXISEEAGlobal_V12.5.3.0.RFCEUXM_031fb02bfb_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RFCEUXM
+- branch: stable
   date: '2021-08-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphael/releases/download/stable-16.08.2021/fw_raphael_miui_RAPHAELGlobal_V12.5.2.0.RFKMIXM_edbf5f63e8_11.0.zip
@@ -4838,6 +4878,46 @@
   versions:
     android: '14.0'
     miui: OS1.0.8.0.ULUINXM
+- branch: stable
+  date: '2025-07-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-17.07.2025/fw_rodin_global_rodin_global-ota_full-OS2.0.201.0.VOJMIXM-user-15.0-2deee8e849.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rodin/fw_rodin_global_rodin_global-ota_full-OS2.0.201.0.VOJMIXM-user-15.0-2deee8e849.zip
+  filename: fw_rodin_global_rodin_global-ota_full-OS2.0.201.0.VOJMIXM-user-15.0-2deee8e849.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.201.0.VOJMIXM
+- branch: stable
+  date: '2025-08-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-08.08.2025/fw_rodin_rodin-ota_full-OS2.0.205.0.VOJCNXM-user-15.0-e4a3789b7a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rodin/fw_rodin_rodin-ota_full-OS2.0.205.0.VOJCNXM-user-15.0-e4a3789b7a.zip
+  filename: fw_rodin_rodin-ota_full-OS2.0.205.0.VOJCNXM-user-15.0-e4a3789b7a.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.205.0.VOJCNXM
+- branch: stable
+  date: '2025-07-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-30.07.2025/fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.203.0.VOJEUXM-user-15.0-8169a45876.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rodin/fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.203.0.VOJEUXM-user-15.0-8169a45876.zip
+  filename: fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.203.0.VOJEUXM-user-15.0-8169a45876.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.203.0.VOJEUXM
+- branch: stable
+  date: '2025-07-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-28.07.2025/fw_rodin_in_global_rodin_in_global-ota_full-OS2.0.200.0.VOJINXM-user-15.0-9175562ace.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rodin/fw_rodin_in_global_rodin_in_global-ota_full-OS2.0.200.0.VOJINXM-user-15.0-9175562ace.zip
+  filename: fw_rodin_in_global_rodin_in_global-ota_full-OS2.0.200.0.VOJINXM-user-15.0-9175562ace.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.200.0.VOJINXM
 - branch: stable
   date: '2019-08-19'
   downloads:
