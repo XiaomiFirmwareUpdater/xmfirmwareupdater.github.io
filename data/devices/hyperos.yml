@@ -114,6 +114,12 @@
   version: OS1.0.6.0.UKWMIXM
 - android: '14.0'
   codename: agate
+  date: '2025-08-11'
+  download: https://bigota.d.miui.com/OS1.0.17.0.UKWMIXM/fw_agate_miui_AGATEGlobal_OS1.0.17.0.UKWMIXM_2deb69168e_14.0.zip
+  name: Xiaomi 11T
+  version: OS1.0.17.0.UKWMIXM
+- android: '14.0'
+  codename: agate
   date: '2024-07-08'
   download: https://bigota.d.miui.com/OS1.0.5.0.UKWMIXM/fw_agate_miui_AGATEGlobal_OS1.0.5.0.UKWMIXM_e09f6580fe_14.0.zip
   name: Xiaomi 11T
@@ -4170,6 +4176,12 @@
   version: OS1.0.1.0.UNFMIXM
 - android: '15.0'
   codename: emerald
+  date: '2025-08-11'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VFOEUXM/fw_emerald_r_eea_global_emerald_r_eea_global-ota_full-OS2.0.203.0.VFOEUXM-user-15.0-d697522a5b.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
+  version: OS2.0.203.0.VFOEUXM
+- android: '15.0'
+  codename: emerald
   date: '2025-07-11'
   download: https://bigota.d.miui.com/OS2.0.202.0.VFOMIXM/fw_emerald_r_global_emerald_r_global-ota_full-OS2.0.202.0.VFOMIXM-user-15.0-89e98e8643.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
@@ -4384,6 +4396,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMXINXM/fw_fire_miui_FIREINGlobal_OS1.0.5.0.UMXINXM_33ea4a629f_14.0.zip
   name: Redmi 12
   version: OS1.0.5.0.UMXINXM
+- android: '15.0'
+  codename: fire
+  date: '2025-08-11'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VMXEUXM/fw_fire_eea_global_fire_eea_global-ota_full-OS2.0.202.0.VMXEUXM-user-15.0-87c79ba145.zip
+  name: Redmi 12
+  version: OS2.0.202.0.VMXEUXM
 - android: '15.0'
   codename: fire
   date: '2025-04-11'
@@ -7786,6 +7804,18 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UKOINXM/fw_lisa_miui_LISAINGlobal_OS1.0.12.0.UKOINXM_7b31df0bf4_14.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
   version: OS1.0.12.0.UKOINXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-08-11'
+  download: https://bigota.d.miui.com/OS2.0.6.0.UKOMIXM/fw_lisa_global_lisa_global-ota_full-OS2.0.6.0.UKOMIXM-user-14.0-41b68f2c06.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.6.0.UKOMIXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-08-11'
+  download: https://bigota.d.miui.com/OS2.0.4.0.UKOINXM/fw_lisa_in_global_lisa_in_global-ota_full-OS2.0.4.0.UKOINXM-user-14.0-a52b50f222.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.4.0.UKOINXM
 - android: '14.0'
   codename: lisa
   date: '2025-03-11'
@@ -15606,6 +15636,12 @@
   version: OS1.0.4.0.UOGMIXM
 - android: '15.0'
   codename: tanzanite
+  date: '2025-08-11'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VOGMIXM/fw_tanzanite_global_tanzanite_global-ota_full-OS2.0.202.0.VOGMIXM-user-15.0-117090ba63.zip
+  name: Redmi Note 14 4G
+  version: OS2.0.202.0.VOGMIXM
+- android: '15.0'
+  codename: tanzanite
   date: '2025-07-04'
   download: https://bigota.d.miui.com/OS2.0.202.0.VOGEUXM/fw_tanzanite_eea_global_tanzanite_eea_global-ota_full-OS2.0.202.0.VOGEUXM-user-15.0-359307d6ae.zip
   name: Redmi Note 14 4G
@@ -17674,6 +17710,12 @@
   download: https://bigota.d.miui.com/OS2.0.107.0.VOACNXM/fw_xuanyuan_xuanyuan-ota_full-OS2.0.107.0.VOACNXM-user-15.0-907083f7b6.zip
   name: Xiaomi 15 Ultra
   version: OS2.0.107.0.VOACNXM
+- android: '15.0'
+  codename: xuanyuan
+  date: '2025-08-11'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VOAEUXM/fw_xuanyuan_eea_global_xuanyuan_eea_global-ota_full-OS2.0.204.0.VOAEUXM-user-15.0-36197b970a.zip
+  name: Xiaomi 15 Ultra
+  version: OS2.0.204.0.VOAEUXM
 - android: '15.0'
   codename: xuanyuan
   date: '2025-06-09'
