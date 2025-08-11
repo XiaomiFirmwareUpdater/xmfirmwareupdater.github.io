@@ -115,6 +115,12 @@
 - android: '14.0'
   codename: agate
   date: '2025-08-11'
+  download: https://bigota.d.miui.com/OS1.0.17.0.UKWEUXM/fw_agate_miui_AGATEEEAGlobal_OS1.0.17.0.UKWEUXM_feb642c43a_14.0.zip
+  name: Xiaomi 11T
+  version: OS1.0.17.0.UKWEUXM
+- android: '14.0'
+  codename: agate
+  date: '2025-08-11'
   download: https://bigota.d.miui.com/OS1.0.17.0.UKWMIXM/fw_agate_miui_AGATEGlobal_OS1.0.17.0.UKWMIXM_2deb69168e_14.0.zip
   name: Xiaomi 11T
   version: OS1.0.17.0.UKWMIXM
@@ -7804,6 +7810,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UKOINXM/fw_lisa_miui_LISAINGlobal_OS1.0.12.0.UKOINXM_7b31df0bf4_14.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
   version: OS1.0.12.0.UKOINXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-08-11'
+  download: https://bigota.d.miui.com/OS2.0.4.0.UKOEUXM/fw_lisa_eea_global_lisa_eea_global-ota_full-OS2.0.4.0.UKOEUXM-user-14.0-d808c0269a.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.4.0.UKOEUXM
 - android: '14.0'
   codename: lisa
   date: '2025-08-11'
