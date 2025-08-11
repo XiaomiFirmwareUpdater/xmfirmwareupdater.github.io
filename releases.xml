@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 11 Aug 2025 12:52:08 </lastBuildDate>
+        <lastBuildDate>Mon, 11 Aug 2025 18:36:01 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 11T (agate) - OS1.0.17.0.UKWMIXM</title>
@@ -89,11 +89,6 @@
         <item>
             <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.202.0.VNPMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
-            <pubDate>Fri, 08 Aug 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.205.0.VOJCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
             <pubDate>Fri, 08 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -342,11 +337,6 @@
             <pubDate>Wed, 30 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.203.0.VOJEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
-            <pubDate>Wed, 30 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12 Pro (zeus) - OS2.0.202.0.VLBMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Wed, 30 Jul 2025 00:00:00 </pubDate>
@@ -444,11 +434,6 @@
         <item>
             <title>Xiaomi Pad 6 (pipa) - OS2.0.5.0.UMZINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
-            <pubDate>Mon, 28 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.200.0.VOJINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
             <pubDate>Mon, 28 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -729,11 +714,6 @@
         <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS2.0.203.0.VMACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
-            <pubDate>Thu, 17 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.201.0.VOJMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
             <pubDate>Thu, 17 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -2212,11 +2192,6 @@
             <pubDate>Thu, 25 Aug 2022 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Mi CC 9/Mi 9 Lite (pyxis) - V12.5.3.0.RFCEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pyxis/</link>
-            <pubDate>Fri, 19 Aug 2022 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 8 (ginkgo) - V12.5.5.0.RCOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ginkgo/</link>
             <pubDate>Wed, 10 Aug 2022 00:00:00 </pubDate>
@@ -2547,11 +2522,6 @@
             <pubDate>Fri, 26 Nov 2021 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Mi CC 9/Mi 9 Lite (pyxis) - 21.11.24</title>
-            <link>https://xmfirmwareupdater.com/firmware/pyxis/</link>
-            <pubDate>Fri, 26 Nov 2021 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 21.11.24</title>
             <link>https://xmfirmwareupdater.com/firmware/raphael/</link>
             <pubDate>Fri, 26 Nov 2021 00:00:00 </pubDate>
@@ -2580,11 +2550,6 @@
             <title>Redmi Note 7 Pro (violet) - V12.5.4.0.QFHCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/violet/</link>
             <pubDate>Wed, 17 Nov 2021 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi CC 9/Mi 9 Lite (pyxis) - V12.5.5.0.RFCCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pyxis/</link>
-            <pubDate>Mon, 15 Nov 2021 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi CC 9 Meitu Edition (vela) - V12.5.5.0.RFECNXM</title>
@@ -2670,11 +2635,6 @@
             <title>Redmi K20/Mi 9T (davinci) - V12.1.4.0.RFJMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/davinci/</link>
             <pubDate>Wed, 11 Aug 2021 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi CC 9/Mi 9 Lite (pyxis) - V12.5.2.0.RFCMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pyxis/</link>
-            <pubDate>Fri, 23 Jul 2021 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K20 (davinciin) - V12.1.4.0.RFJINXM</title>
