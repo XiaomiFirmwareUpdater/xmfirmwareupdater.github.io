@@ -1,1 +1,840 @@
-[]
+- branch: weekly
+  date: '2021-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/weekly-26.11.2021/fw_pissarro_miui_PISSARRO_21.11.24_f4729a3078_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.24/pissarro/fw_pissarro_miui_PISSARRO_21.11.24_f4729a3078_11.0.zip
+  filename: fw_pissarro_miui_PISSARRO_21.11.24_f4729a3078_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.11.24
+- branch: weekly
+  date: '2022-03-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/weekly-25.03.2022/fw_pissarro_miui_PISSARROPRE_22.3.23_0ee6b5837f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.23/pissarro/fw_pissarro_miui_PISSARROPRE_22.3.23_0ee6b5837f_12.0.zip
+  filename: fw_pissarro_miui_PISSARROPRE_22.3.23_0ee6b5837f_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.3.23
+- branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/weekly-25.02.2022/fw_pissarro_miui_PISSARROPRE_22.2.23_da2e4718de_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/pissarro/fw_pissarro_miui_PISSARROPRE_22.2.23_da2e4718de_12.0.zip
+  filename: fw_pissarro_miui_PISSARROPRE_22.2.23_da2e4718de_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
+- branch: weekly
+  date: '2022-01-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/weekly-21.01.2022/fw_pissarro_miui_PISSARROPRE_22.1.19_bb509f4bbb_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.1.19/pissarro/fw_pissarro_miui_PISSARROPRE_22.1.19_bb509f4bbb_12.0.zip
+  filename: fw_pissarro_miui_PISSARROPRE_22.1.19_bb509f4bbb_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.1.19
+- branch: weekly
+  date: '2021-11-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/weekly-19.11.2021/fw_pissarro_miui_PISSARRO_21.11.17_2789d9f808_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.17/pissarro/fw_pissarro_miui_PISSARRO_21.11.17_2789d9f808_11.0.zip
+  filename: fw_pissarro_miui_PISSARRO_21.11.17_2789d9f808_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.11.17
+- branch: weekly
+  date: '2022-02-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/weekly-13.02.2022/fw_pissarro_miui_PISSARROPRE_22.2.9_8ea6fe8581_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.9/pissarro/fw_pissarro_miui_PISSARROPRE_22.2.9_8ea6fe8581_12.0.zip
+  filename: fw_pissarro_miui_PISSARROPRE_22.2.9_8ea6fe8581_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.9
+- branch: weekly
+  date: '2021-12-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/weekly-10.12.2021/fw_pissarro_miui_PISSARRO_21.12.8_86fd07cb82_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.8/pissarro/fw_pissarro_miui_PISSARRO_21.12.8_86fd07cb82_11.0.zip
+  filename: fw_pissarro_miui_PISSARRO_21.12.8_86fd07cb82_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.12.8
+- branch: weekly
+  date: '2021-12-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/weekly-04.12.2021/fw_pissarro_miui_PISSARRO_21.12.2_7ad7f4e877_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.2/pissarro/fw_pissarro_miui_PISSARRO_21.12.2_7ad7f4e877_11.0.zip
+  filename: fw_pissarro_miui_PISSARRO_21.12.2_7ad7f4e877_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.12.2
+- branch: weekly
+  date: '2022-03-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/weekly-04.03.2022/fw_pissarro_miui_PISSARROPRE_22.3.3_3215637862_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.3/pissarro/fw_pissarro_miui_PISSARROPRE_22.3.3_3215637862_12.0.zip
+  filename: fw_pissarro_miui_PISSARROPRE_22.3.3_3215637862_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.3.3
+- branch: stable
+  date: '2022-04-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-29.04.2022/fw_pissarro_miui_PISSARROEEAGlobal_V12.5.4.0.RKTEUXM_2be680fb23_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARROEEAGlobal_V12.5.4.0.RKTEUXM_2be680fb23_11.0.zip
+  filename: fw_pissarro_miui_PISSARROEEAGlobal_V12.5.4.0.RKTEUXM_2be680fb23_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RKTEUXM
+- branch: stable
+  date: '2024-03-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-29.03.2024/fw_pissarro_miui_PISSARROGlobal_OS1.0.2.0.TKTMIXM_5d0ada11d6_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARROGlobal_OS1.0.2.0.TKTMIXM_5d0ada11d6_13.0.zip
+  filename: fw_pissarro_miui_PISSARROGlobal_OS1.0.2.0.TKTMIXM_5d0ada11d6_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: OS1.0.2.0.TKTMIXM
+- branch: stable
+  date: '2022-10-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-28.10.2022/fw_pissarro_miui_PISSARRO_V13.0.6.0.SKTCNXM_e57dffb0ac_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARRO_V13.0.6.0.SKTCNXM_e57dffb0ac_12.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V13.0.6.0.SKTCNXM_e57dffb0ac_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.6.0.SKTCNXM
+- branch: stable
+  date: '2022-09-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-28.09.2022/fw_pissarro_miui_PISSARROGlobal_V13.0.3.0.SKTMIXM_a1da78598b_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARROGlobal_V13.0.3.0.SKTMIXM_a1da78598b_12.0.zip
+  filename: fw_pissarro_miui_PISSARROGlobal_V13.0.3.0.SKTMIXM_a1da78598b_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SKTMIXM
+- branch: stable
+  date: '2023-08-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-28.08.2023/fw_pissarro_miui_PISSARROGlobal_V14.0.6.0.TKTMIXM_ba40b9e726_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARROGlobal_V14.0.6.0.TKTMIXM_ba40b9e726_13.0.zip
+  filename: fw_pissarro_miui_PISSARROGlobal_V14.0.6.0.TKTMIXM_ba40b9e726_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TKTMIXM
+- branch: stable
+  date: '2022-06-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-28.06.2022/fw_pissarro_miui_PISSARRO_V13.0.4.0.SKTCNXM_ddcdc166e3_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARRO_V13.0.4.0.SKTCNXM_ddcdc166e3_12.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V13.0.4.0.SKTCNXM_ddcdc166e3_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SKTCNXM
+- branch: stable
+  date: '2023-03-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-28.03.2023/fw_pissarro_miui_PISSARRO_V14.0.5.0.TKTCNXM_83e0c47619_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARRO_V14.0.5.0.TKTCNXM_83e0c47619_13.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V14.0.5.0.TKTCNXM_83e0c47619_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TKTCNXM
+- branch: stable
+  date: '2024-08-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-27.08.2024/fw_pissarro_miui_PISSARRO_OS1.0.4.0.TKTCNXM_c03c7faae1_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARRO_OS1.0.4.0.TKTCNXM_c03c7faae1_13.0.zip
+  filename: fw_pissarro_miui_PISSARRO_OS1.0.4.0.TKTCNXM_c03c7faae1_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: OS1.0.4.0.TKTCNXM
+- branch: stable
+  date: '2023-05-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-27.05.2023/fw_pissarro_miui_PISSARROINGlobal_V14.0.3.0.TKTINXM_6c6810bd50_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARROINGlobal_V14.0.3.0.TKTINXM_6c6810bd50_13.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_V14.0.3.0.TKTINXM_6c6810bd50_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TKTINXM
+- branch: stable
+  date: '2023-03-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-27.03.2023/fw_pissarro_miui_PISSARROEEAGlobal_V14.0.3.0.TKTEUXM_c2f97abcba_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARROEEAGlobal_V14.0.3.0.TKTEUXM_c2f97abcba_13.0.zip
+  filename: fw_pissarro_miui_PISSARROEEAGlobal_V14.0.3.0.TKTEUXM_c2f97abcba_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TKTEUXM
+- branch: stable
+  date: '2024-02-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-27.02.2024/fw_pissarro_miui_PISSARRO_OS1.0.2.0.TKTCNXM_13f7d12d41_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARRO_OS1.0.2.0.TKTCNXM_13f7d12d41_13.0.zip
+  filename: fw_pissarro_miui_PISSARRO_OS1.0.2.0.TKTCNXM_13f7d12d41_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: OS1.0.2.0.TKTCNXM
+- branch: stable
+  date: '2024-08-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-26.08.2024/fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.5.0.TKTEUXM_de8a30c1ff_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.5.0.TKTEUXM_de8a30c1ff_13.0.zip
+  filename: fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.5.0.TKTEUXM_de8a30c1ff_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: OS1.0.5.0.TKTEUXM
+- branch: stable
+  date: '2024-06-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-26.06.2024/fw_pissarro_miui_PISSARROINGlobal_OS1.0.3.0.TKTINXM_4f7813c882_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARROINGlobal_OS1.0.3.0.TKTINXM_4f7813c882_13.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_OS1.0.3.0.TKTINXM_4f7813c882_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: OS1.0.3.0.TKTINXM
+- branch: stable
+  date: '2023-05-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-26.05.2023/fw_pissarro_miui_PISSARROGlobal_V14.0.5.0.TKTMIXM_1874280b0e_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARROGlobal_V14.0.5.0.TKTMIXM_1874280b0e_13.0.zip
+  filename: fw_pissarro_miui_PISSARROGlobal_V14.0.5.0.TKTMIXM_1874280b0e_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TKTMIXM
+- branch: stable
+  date: '2021-12-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-25.12.2021/fw_pissarro_miui_PISSARRO_V12.5.14.0.RKTCNXM_10012a679e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARRO_V12.5.14.0.RKTCNXM_10012a679e_11.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V12.5.14.0.RKTCNXM_10012a679e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.14.0.RKTCNXM
+- branch: stable
+  date: '2023-11-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-24.11.2023/fw_pissarro_miui_PISSARROINGlobal_V14.0.5.0.TKTINXM_259774d831_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARROINGlobal_V14.0.5.0.TKTINXM_259774d831_13.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_V14.0.5.0.TKTINXM_259774d831_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TKTINXM
+- branch: stable
+  date: '2023-05-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-24.05.2023/fw_pissarro_miui_PISSARROEEAGlobal_V14.0.4.0.TKTEUXM_5581eb02dd_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARROEEAGlobal_V14.0.4.0.TKTEUXM_5581eb02dd_13.0.zip
+  filename: fw_pissarro_miui_PISSARROEEAGlobal_V14.0.4.0.TKTEUXM_5581eb02dd_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TKTEUXM
+- branch: stable
+  date: '2022-01-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-24.01.2022/fw_pissarro_miui_PISSARRO_V12.5.15.0.RKTCNXM_a919e80e3e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARRO_V12.5.15.0.RKTCNXM_a919e80e3e_11.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V12.5.15.0.RKTCNXM_a919e80e3e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.15.0.RKTCNXM
+- branch: stable
+  date: '2022-12-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-23.12.2022/fw_pissarro_miui_PISSARROGlobal_V13.0.7.0.SKTMIXM_c9c093d5a0_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARROGlobal_V13.0.7.0.SKTMIXM_c9c093d5a0_12.0.zip
+  filename: fw_pissarro_miui_PISSARROGlobal_V13.0.7.0.SKTMIXM_c9c093d5a0_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.7.0.SKTMIXM
+- branch: stable
+  date: '2024-09-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-23.09.2024/fw_pissarro_miui_PISSARRO_OS1.0.5.0.TKTCNXM_a1d94328ca_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARRO_OS1.0.5.0.TKTCNXM_a1d94328ca_13.0.zip
+  filename: fw_pissarro_miui_PISSARRO_OS1.0.5.0.TKTCNXM_a1d94328ca_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: OS1.0.5.0.TKTCNXM
+- branch: stable
+  date: '2024-02-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-23.02.2024/fw_pissarro_miui_PISSARROEEAGlobal_V14.0.10.0.TKTEUXM_433e3c6a0e_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARROEEAGlobal_V14.0.10.0.TKTEUXM_433e3c6a0e_13.0.zip
+  filename: fw_pissarro_miui_PISSARROEEAGlobal_V14.0.10.0.TKTEUXM_433e3c6a0e_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.10.0.TKTEUXM
+- branch: stable
+  date: '2023-08-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-22.08.2023/fw_pissarro_miui_PISSARROINGlobal_V14.0.4.0.TKTINXM_279de1457e_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARROINGlobal_V14.0.4.0.TKTINXM_279de1457e_13.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_V14.0.4.0.TKTINXM_279de1457e_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TKTINXM
+- branch: stable
+  date: '2022-08-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-22.08.2022/fw_pissarro_miui_PISSARROINGlobal_V13.0.4.0.SKTINXM_9283da06fc_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARROINGlobal_V13.0.4.0.SKTINXM_9283da06fc_12.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_V13.0.4.0.SKTINXM_9283da06fc_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SKTINXM
+- branch: stable
+  date: '2023-08-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-21.08.2023/fw_pissarro_miui_PISSARRO_V14.0.6.0.TKTCNXM_f2c3da7a64_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARRO_V14.0.6.0.TKTCNXM_f2c3da7a64_13.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V14.0.6.0.TKTCNXM_f2c3da7a64_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TKTCNXM
+- branch: stable
+  date: '2023-03-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-21.03.2023/fw_pissarro_miui_PISSARROGlobal_V14.0.4.0.TKTMIXM_8f50b7ddb8_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARROGlobal_V14.0.4.0.TKTMIXM_8f50b7ddb8_13.0.zip
+  filename: fw_pissarro_miui_PISSARROGlobal_V14.0.4.0.TKTMIXM_8f50b7ddb8_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TKTMIXM
+- branch: stable
+  date: '2023-11-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-20.11.2023/fw_pissarro_miui_PISSARROGlobal_V14.0.7.0.TKTMIXM_3cc01c5fa2_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARROGlobal_V14.0.7.0.TKTMIXM_3cc01c5fa2_13.0.zip
+  filename: fw_pissarro_miui_PISSARROGlobal_V14.0.7.0.TKTMIXM_3cc01c5fa2_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.7.0.TKTMIXM
+- branch: stable
+  date: '2021-11-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-20.11.2021/fw_pissarro_miui_PISSARRO_V12.5.10.0.RKTCNXM_b85aab631f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARRO_V12.5.10.0.RKTCNXM_b85aab631f_11.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V12.5.10.0.RKTCNXM_b85aab631f_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.10.0.RKTCNXM
+- branch: stable
+  date: '2023-07-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-20.07.2023/fw_pissarro_miui_PISSARROEEAGlobal_V14.0.5.0.TKTEUXM_fb45bc74e0_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARROEEAGlobal_V14.0.5.0.TKTEUXM_fb45bc74e0_13.0.zip
+  filename: fw_pissarro_miui_PISSARROEEAGlobal_V14.0.5.0.TKTEUXM_fb45bc74e0_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TKTEUXM
+- branch: stable
+  date: '2023-12-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-19.12.2023/fw_pissarro_miui_PISSARROGlobal_V14.0.8.0.TKTMIXM_aa555af4f5_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARROGlobal_V14.0.8.0.TKTMIXM_aa555af4f5_13.0.zip
+  filename: fw_pissarro_miui_PISSARROGlobal_V14.0.8.0.TKTMIXM_aa555af4f5_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.8.0.TKTMIXM
+- branch: stable
+  date: '2023-12-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-19.12.2023/fw_pissarro_miui_PISSARROINGlobal_V14.0.6.0.TKTINXM_3bc1169eb4_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARROINGlobal_V14.0.6.0.TKTINXM_3bc1169eb4_13.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_V14.0.6.0.TKTINXM_3bc1169eb4_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TKTINXM
+- branch: stable
+  date: '2022-01-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-19.01.2022/fw_pissarro_miui_PISSARROINGlobal_V12.5.2.0.RKTINXM_0eb36b1b52_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARROINGlobal_V12.5.2.0.RKTINXM_0eb36b1b52_11.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_V12.5.2.0.RKTINXM_0eb36b1b52_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RKTINXM
+- branch: stable
+  date: '2023-10-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-18.10.2023/fw_pissarro_miui_PISSARRO_V14.0.7.0.TKTCNXM_9b45f29b41_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARRO_V14.0.7.0.TKTCNXM_9b45f29b41_13.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V14.0.7.0.TKTCNXM_9b45f29b41_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.7.0.TKTCNXM
+- branch: stable
+  date: '2024-06-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-18.06.2024/fw_pissarro_miui_PISSARROGlobal_OS1.0.3.0.TKTMIXM_8487a2e85b_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARROGlobal_OS1.0.3.0.TKTMIXM_8487a2e85b_13.0.zip
+  filename: fw_pissarro_miui_PISSARROGlobal_OS1.0.3.0.TKTMIXM_8487a2e85b_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: OS1.0.3.0.TKTMIXM
+- branch: stable
+  date: '2022-11-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-17.11.2022/fw_pissarro_miui_PISSARROGlobal_V13.0.6.0.SKTMIXM_399e7faeac_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARROGlobal_V13.0.6.0.SKTMIXM_399e7faeac_12.0.zip
+  filename: fw_pissarro_miui_PISSARROGlobal_V13.0.6.0.SKTMIXM_399e7faeac_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.6.0.SKTMIXM
+- branch: stable
+  date: '2022-03-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-17.03.2022/fw_pissarro_miui_PISSARROINGlobal_V12.5.5.0.RKTINXM_78c2e33676_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARROINGlobal_V12.5.5.0.RKTINXM_78c2e33676_11.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_V12.5.5.0.RKTINXM_78c2e33676_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RKTINXM
+- branch: stable
+  date: '2024-10-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-16.10.2024/fw_pissarro_miui_PISSARRO_OS1.0.6.0.TKTCNXM_acb2780ad1_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARRO_OS1.0.6.0.TKTCNXM_acb2780ad1_13.0.zip
+  filename: fw_pissarro_miui_PISSARRO_OS1.0.6.0.TKTCNXM_acb2780ad1_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: OS1.0.6.0.TKTCNXM
+- branch: stable
+  date: '2022-05-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-16.05.2022/fw_pissarro_miui_PISSARRO_V13.0.2.0.SKTCNXM_26423b9da8_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARRO_V13.0.2.0.SKTCNXM_26423b9da8_12.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V13.0.2.0.SKTCNXM_26423b9da8_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SKTCNXM
+- branch: stable
+  date: '2023-01-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-16.01.2023/fw_pissarro_miui_PISSARROINGlobal_V13.0.8.0.SKTINXM_78ac6e178f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARROINGlobal_V13.0.8.0.SKTINXM_78ac6e178f_12.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_V13.0.8.0.SKTINXM_78ac6e178f_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.8.0.SKTINXM
+- branch: stable
+  date: '2023-09-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-15.09.2023/fw_pissarro_miui_PISSARROEEAGlobal_V14.0.6.0.TKTEUXM_2de29ecb59_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARROEEAGlobal_V14.0.6.0.TKTEUXM_2de29ecb59_13.0.zip
+  filename: fw_pissarro_miui_PISSARROEEAGlobal_V14.0.6.0.TKTEUXM_2de29ecb59_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TKTEUXM
+- branch: stable
+  date: '2024-08-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-15.08.2024/fw_pissarro_miui_PISSARROINGlobal_OS1.0.4.0.TKTINXM_bd75e8bbb9_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARROINGlobal_OS1.0.4.0.TKTINXM_bd75e8bbb9_13.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_OS1.0.4.0.TKTINXM_bd75e8bbb9_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: OS1.0.4.0.TKTINXM
+- branch: stable
+  date: '2022-11-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-14.11.2022/fw_pissarro_miui_PISSARROEEAGlobal_V13.0.5.0.SKTEUXM_40b689affa_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARROEEAGlobal_V13.0.5.0.SKTEUXM_40b689affa_12.0.zip
+  filename: fw_pissarro_miui_PISSARROEEAGlobal_V13.0.5.0.SKTEUXM_40b689affa_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SKTEUXM
+- branch: stable
+  date: '2023-03-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-14.03.2023/fw_pissarro_miui_PISSARROEEAGlobal_V14.0.2.0.TKTEUXM_8f9fca8887_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARROEEAGlobal_V14.0.2.0.TKTEUXM_8f9fca8887_13.0.zip
+  filename: fw_pissarro_miui_PISSARROEEAGlobal_V14.0.2.0.TKTEUXM_8f9fca8887_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TKTEUXM
+- branch: stable
+  date: '2023-03-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-14.03.2023/fw_pissarro_miui_PISSARROINGlobal_V14.0.1.0.TKTINXM_fa55b44bd0_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARROINGlobal_V14.0.1.0.TKTINXM_fa55b44bd0_13.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_V14.0.1.0.TKTINXM_fa55b44bd0_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.1.0.TKTINXM
+- branch: stable
+  date: '2023-03-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-14.03.2023/fw_pissarro_miui_PISSARRO_V14.0.4.0.TKTCNXM_7313fcbb01_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARRO_V14.0.4.0.TKTCNXM_7313fcbb01_13.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V14.0.4.0.TKTCNXM_7313fcbb01_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TKTCNXM
+- branch: stable
+  date: '2022-05-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-13.05.2022/fw_pissarro_miui_PISSARROGlobal_V13.0.1.0.SKTMIXM_c4ed23626c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARROGlobal_V13.0.1.0.SKTMIXM_c4ed23626c_12.0.zip
+  filename: fw_pissarro_miui_PISSARROGlobal_V13.0.1.0.SKTMIXM_c4ed23626c_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.1.0.SKTMIXM
+- branch: stable
+  date: '2021-11-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-12.11.2021/fw_pissarro_miui_PISSARRO_V12.5.8.0.RKTCNXM_c4277311fd_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARRO_V12.5.8.0.RKTCNXM_c4277311fd_11.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V12.5.8.0.RKTCNXM_c4277311fd_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.8.0.RKTCNXM
+- branch: stable
+  date: '2024-10-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-12.10.2024/fw_pissarro_miui_PISSARROINGlobal_OS1.0.7.0.TKTINXM_0ab0f514a1_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARROINGlobal_OS1.0.7.0.TKTINXM_0ab0f514a1_13.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_OS1.0.7.0.TKTINXM_0ab0f514a1_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: OS1.0.7.0.TKTINXM
+- branch: stable
+  date: '2024-08-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-12.08.2024/fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.4.0.TKTEUXM_fa82b665c5_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.4.0.TKTEUXM_fa82b665c5_13.0.zip
+  filename: fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.4.0.TKTEUXM_fa82b665c5_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: OS1.0.4.0.TKTEUXM
+- branch: stable
+  date: '2022-08-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-12.08.2022/fw_pissarro_miui_PISSARROEEAGlobal_V13.0.4.0.SKTEUXM_f4a1d294bc_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARROEEAGlobal_V13.0.4.0.SKTEUXM_f4a1d294bc_12.0.zip
+  filename: fw_pissarro_miui_PISSARROEEAGlobal_V13.0.4.0.SKTEUXM_f4a1d294bc_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SKTEUXM
+- branch: stable
+  date: '2023-12-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-11.12.2023/fw_pissarro_miui_PISSARRO_V14.0.8.0.TKTCNXM_d84e6e6d48_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARRO_V14.0.8.0.TKTCNXM_d84e6e6d48_13.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V14.0.8.0.TKTCNXM_d84e6e6d48_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.8.0.TKTCNXM
+- branch: stable
+  date: '2021-12-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-11.12.2021/fw_pissarro_miui_PISSARRO_V12.5.12.0.RKTCNXM_db5e05102b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARRO_V12.5.12.0.RKTCNXM_db5e05102b_11.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V12.5.12.0.RKTCNXM_db5e05102b_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.12.0.RKTCNXM
+- branch: stable
+  date: '2022-07-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-11.07.2022/fw_pissarro_miui_PISSARROEEAGlobal_V13.0.3.0.SKTEUXM_6cceaca9a7_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARROEEAGlobal_V13.0.3.0.SKTEUXM_6cceaca9a7_12.0.zip
+  filename: fw_pissarro_miui_PISSARROEEAGlobal_V13.0.3.0.SKTEUXM_6cceaca9a7_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SKTEUXM
+- branch: stable
+  date: '2022-07-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-11.07.2022/fw_pissarro_miui_PISSARROGlobal_V13.0.2.0.SKTMIXM_d527e1cb7e_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARROGlobal_V13.0.2.0.SKTMIXM_d527e1cb7e_12.0.zip
+  filename: fw_pissarro_miui_PISSARROGlobal_V13.0.2.0.SKTMIXM_d527e1cb7e_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SKTMIXM
+- branch: stable
+  date: '2022-05-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-11.05.2022/fw_pissarro_miui_PISSARROINGlobal_V12.5.6.0.RKTINXM_f99a2a0d67_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARROINGlobal_V12.5.6.0.RKTINXM_f99a2a0d67_11.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_V12.5.6.0.RKTINXM_f99a2a0d67_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.6.0.RKTINXM
+- branch: stable
+  date: '2022-11-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-10.11.2022/fw_pissarro_miui_PISSARRO_V13.0.7.0.SKTCNXM_4529201b71_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARRO_V13.0.7.0.SKTCNXM_4529201b71_12.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V13.0.7.0.SKTCNXM_4529201b71_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.7.0.SKTCNXM
+- branch: stable
+  date: '2024-09-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-10.09.2024/fw_pissarro_miui_PISSARROGlobal_OS1.0.5.0.TKTMIXM_af2aba1405_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARROGlobal_OS1.0.5.0.TKTMIXM_af2aba1405_13.0.zip
+  filename: fw_pissarro_miui_PISSARROGlobal_OS1.0.5.0.TKTMIXM_af2aba1405_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: OS1.0.5.0.TKTMIXM
+- branch: stable
+  date: '2024-09-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-10.09.2024/fw_pissarro_miui_PISSARROINGlobal_OS1.0.5.0.TKTINXM_cce142ab28_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARROINGlobal_OS1.0.5.0.TKTINXM_cce142ab28_13.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_OS1.0.5.0.TKTINXM_cce142ab28_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: OS1.0.5.0.TKTINXM
+- branch: stable
+  date: '2022-05-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-10.05.2022/fw_pissarro_miui_PISSARROGlobal_V12.5.7.0.RKTMIXM_d8acfdfbe0_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARROGlobal_V12.5.7.0.RKTMIXM_d8acfdfbe0_11.0.zip
+  filename: fw_pissarro_miui_PISSARROGlobal_V12.5.7.0.RKTMIXM_d8acfdfbe0_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.7.0.RKTMIXM
+- branch: stable
+  date: '2024-10-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-09.10.2024/fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.7.0.TKTEUXM_7e4d8b0524_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.7.0.TKTEUXM_7e4d8b0524_13.0.zip
+  filename: fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.7.0.TKTEUXM_7e4d8b0524_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: OS1.0.7.0.TKTEUXM
+- branch: stable
+  date: '2024-10-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-09.10.2024/fw_pissarro_miui_PISSARROGlobal_OS1.0.8.0.TKTMIXM_f98e65f36a_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARROGlobal_OS1.0.8.0.TKTMIXM_f98e65f36a_13.0.zip
+  filename: fw_pissarro_miui_PISSARROGlobal_OS1.0.8.0.TKTMIXM_f98e65f36a_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: OS1.0.8.0.TKTMIXM
+- branch: stable
+  date: '2023-12-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-08.12.2023/fw_pissarro_miui_PISSARROEEAGlobal_V14.0.7.0.TKTEUXM_3d56d5a5ec_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARROEEAGlobal_V14.0.7.0.TKTEUXM_3d56d5a5ec_13.0.zip
+  filename: fw_pissarro_miui_PISSARROEEAGlobal_V14.0.7.0.TKTEUXM_3d56d5a5ec_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.7.0.TKTEUXM
+- branch: stable
+  date: '2024-07-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-08.07.2024/fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.3.0.TKTEUXM_73c66a7832_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.3.0.TKTEUXM_73c66a7832_13.0.zip
+  filename: fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.3.0.TKTEUXM_73c66a7832_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: OS1.0.3.0.TKTEUXM
+- branch: stable
+  date: '2024-04-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-08.04.2024/fw_pissarro_miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_OS1.0.2.0.TKTINXM_171c178675_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: OS1.0.2.0.TKTINXM
+- branch: stable
+  date: '2022-07-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-07.07.2022/fw_pissarro_miui_PISSARROINGlobal_V13.0.3.0.SKTINXM_3f79bd3fec_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARROINGlobal_V13.0.3.0.SKTINXM_3f79bd3fec_12.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_V13.0.3.0.SKTINXM_3f79bd3fec_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SKTINXM
+- branch: stable
+  date: '2023-02-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-07.02.2023/fw_pissarro_miui_PISSARROGlobal_V14.0.2.0.TKTMIXM_ab7958a8e2_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARROGlobal_V14.0.2.0.TKTMIXM_ab7958a8e2_13.0.zip
+  filename: fw_pissarro_miui_PISSARROGlobal_V14.0.2.0.TKTMIXM_ab7958a8e2_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TKTMIXM
+- branch: stable
+  date: '2022-05-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-06.05.2022/fw_pissarro_miui_PISSARROEEAGlobal_V13.0.2.0.SKTEUXM_e33b5fdfc1_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARROEEAGlobal_V13.0.2.0.SKTEUXM_e33b5fdfc1_12.0.zip
+  filename: fw_pissarro_miui_PISSARROEEAGlobal_V13.0.2.0.SKTEUXM_e33b5fdfc1_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SKTEUXM
+- branch: stable
+  date: '2023-01-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-06.01.2023/fw_pissarro_miui_PISSARRO_V14.0.2.0.TKTCNXM_4d70a38aaa_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARRO_V14.0.2.0.TKTCNXM_4d70a38aaa_13.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V14.0.2.0.TKTCNXM_4d70a38aaa_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TKTCNXM
+- branch: stable
+  date: '2022-11-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-04.11.2022/fw_pissarro_miui_PISSARROINGlobal_V13.0.5.0.SKTINXM_e47f935dee_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARROINGlobal_V13.0.5.0.SKTINXM_e47f935dee_12.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_V13.0.5.0.SKTINXM_e47f935dee_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SKTINXM
+- branch: stable
+  date: '2021-11-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-03.11.2021/fw_pissarro_miui_PISSARRO_V12.5.6.0.RKTCNXM_bd2b41e328_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARRO_V12.5.6.0.RKTCNXM_bd2b41e328_11.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V12.5.6.0.RKTCNXM_bd2b41e328_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.6.0.RKTCNXM
+- branch: stable
+  date: '2024-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-03.06.2024/fw_pissarro_miui_PISSARRO_OS1.0.3.0.TKTCNXM_dbd078ff4c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARRO_OS1.0.3.0.TKTCNXM_dbd078ff4c_13.0.zip
+  filename: fw_pissarro_miui_PISSARRO_OS1.0.3.0.TKTCNXM_dbd078ff4c_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: OS1.0.3.0.TKTCNXM
+- branch: stable
+  date: '2022-02-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-03.02.2022/fw_pissarro_miui_PISSARROINGlobal_V12.5.4.0.RKTINXM_d98eb7f31c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARROINGlobal_V12.5.4.0.RKTINXM_d98eb7f31c_11.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_V12.5.4.0.RKTINXM_d98eb7f31c_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RKTINXM
+- branch: stable
+  date: '2022-03-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-02.03.2022/fw_pissarro_miui_PISSARRO_V12.5.18.0.RKTCNXM_7f590c153f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARRO_V12.5.18.0.RKTCNXM_7f590c153f_11.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V12.5.18.0.RKTCNXM_7f590c153f_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.18.0.RKTCNXM
+- branch: stable
+  date: '2021-11-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-01.11.2021/fw_pissarro_miui_PISSARRO_V12.5.5.0.RKTCNXM_5a815ec6ae_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARRO_V12.5.5.0.RKTCNXM_5a815ec6ae_11.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V12.5.5.0.RKTCNXM_5a815ec6ae_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RKTCNXM
+- branch: stable
+  date: '2024-08-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-01.08.2024/fw_pissarro_miui_PISSARROGlobal_OS1.0.4.0.TKTMIXM_26e900be9b_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARROGlobal_OS1.0.4.0.TKTMIXM_26e900be9b_13.0.zip
+  filename: fw_pissarro_miui_PISSARROGlobal_OS1.0.4.0.TKTMIXM_26e900be9b_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: OS1.0.4.0.TKTMIXM
+- branch: stable
+  date: '2024-04-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-01.04.2024/fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.2.0.TKTEUXM_d172ed0f80_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/pissarro/fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.2.0.TKTEUXM_d172ed0f80_13.0.zip
+  filename: fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.2.0.TKTEUXM_d172ed0f80_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: OS1.0.2.0.TKTEUXM

@@ -1,1 +1,10 @@
-[]
+- branch: stable
+  date: '2025-07-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphire/releases/download/stable-27.07.2025/fw_sapphire_global_sapphire_global-ota_full-OS2.0.201.0.VNGMIXM-user-15.0-5e38728bf4.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sapphire/fw_sapphire_global_sapphire_global-ota_full-OS2.0.201.0.VNGMIXM-user-15.0-5e38728bf4.zip
+  filename: fw_sapphire_global_sapphire_global-ota_full-OS2.0.201.0.VNGMIXM-user-15.0-5e38728bf4.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.201.0.VNGMIXM

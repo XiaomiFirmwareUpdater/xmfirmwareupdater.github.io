@@ -1,1 +1,40 @@
-[]
+- branch: stable
+  date: '2025-06-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-30.06.2025/fw_xun_global_xun_global-ota_full-OS2.0.5.0.VMUMIXM-user-15.0-6a95e7171e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xun/fw_xun_global_xun_global-ota_full-OS2.0.5.0.VMUMIXM-user-15.0-6a95e7171e.zip
+  filename: fw_xun_global_xun_global-ota_full-OS2.0.5.0.VMUMIXM-user-15.0-6a95e7171e.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.5.0.VMUMIXM
+- branch: stable
+  date: '2025-07-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-28.07.2025/fw_xun_xun-ota_full-OS2.0.203.0.VMUCNXM-user-15.0-b9461f3dd1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xun/fw_xun_xun-ota_full-OS2.0.203.0.VMUCNXM-user-15.0-b9461f3dd1.zip
+  filename: fw_xun_xun-ota_full-OS2.0.203.0.VMUCNXM-user-15.0-b9461f3dd1.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.203.0.VMUCNXM
+- branch: stable
+  date: '2025-07-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-07.07.2025/fw_xun_eea_global_xun_eea_global-ota_full-OS2.0.3.0.VMUEUXM-user-15.0-1c8210c47b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xun/fw_xun_eea_global_xun_eea_global-ota_full-OS2.0.3.0.VMUEUXM-user-15.0-1c8210c47b.zip
+  filename: fw_xun_eea_global_xun_eea_global-ota_full-OS2.0.3.0.VMUEUXM-user-15.0-1c8210c47b.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.3.0.VMUEUXM
+- branch: stable
+  date: '2025-07-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-03.07.2025/fw_xun_in_global_xun_in_global-ota_full-OS2.0.3.0.VMUINXM-user-15.0-8e25dcccb3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xun/fw_xun_in_global_xun_in_global-ota_full-OS2.0.3.0.VMUINXM-user-15.0-8e25dcccb3.zip
+  filename: fw_xun_in_global_xun_in_global-ota_full-OS2.0.3.0.VMUINXM-user-15.0-8e25dcccb3.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.3.0.VMUINXM

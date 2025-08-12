@@ -1,1 +1,90 @@
-[]
+- branch: stable
+  date: '2024-11-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warm/releases/download/stable-28.11.2024/fw_warm_miui_WARMINGlobal_OS1.0.4.0.UGVINXM_7751a0c4a1_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/warm/fw_warm_miui_WARMINGlobal_OS1.0.4.0.UGVINXM_7751a0c4a1_14.0.zip
+  filename: fw_warm_miui_WARMINGlobal_OS1.0.4.0.UGVINXM_7751a0c4a1_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UGVINXM
+- branch: stable
+  date: '2025-07-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warm/releases/download/stable-21.07.2025/fw_warm_in_global_warm_in_global-ota_full-OS2.0.4.0.VGVINXM-user-15.0-65fda9bcc0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/warm/fw_warm_in_global_warm_in_global-ota_full-OS2.0.4.0.VGVINXM-user-15.0-65fda9bcc0.zip
+  filename: fw_warm_in_global_warm_in_global-ota_full-OS2.0.4.0.VGVINXM-user-15.0-65fda9bcc0.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.4.0.VGVINXM
+- branch: stable
+  date: '2025-03-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warm/releases/download/stable-20.03.2025/fw_warm_miui_WARMINGlobal_OS1.0.9.0.UGVINXM_8e6c6ea9f1_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/warm/fw_warm_miui_WARMINGlobal_OS1.0.9.0.UGVINXM_8e6c6ea9f1_14.0.zip
+  filename: fw_warm_miui_WARMINGlobal_OS1.0.9.0.UGVINXM_8e6c6ea9f1_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.9.0.UGVINXM
+- branch: stable
+  date: '2024-12-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warm/releases/download/stable-17.12.2024/fw_warm_miui_WARMINGlobal_OS1.0.7.0.UGVINXM_f5f6ddf889_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/warm/fw_warm_miui_WARMINGlobal_OS1.0.7.0.UGVINXM_f5f6ddf889_14.0.zip
+  filename: fw_warm_miui_WARMINGlobal_OS1.0.7.0.UGVINXM_f5f6ddf889_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.7.0.UGVINXM
+- branch: stable
+  date: '2025-04-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warm/releases/download/stable-15.04.2025/fw_warm_in_global_warm_in_global-ota_full-OS2.0.1.0.VGVINXM-user-15.0-6d178f5c6c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/warm/fw_warm_in_global_warm_in_global-ota_full-OS2.0.1.0.VGVINXM-user-15.0-6d178f5c6c.zip
+  filename: fw_warm_in_global_warm_in_global-ota_full-OS2.0.1.0.VGVINXM-user-15.0-6d178f5c6c.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.1.0.VGVINXM
+- branch: stable
+  date: '2025-06-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warm/releases/download/stable-09.06.2025/fw_warm_in_global_warm_in_global-ota_full-OS2.0.2.0.VGVINXM-user-15.0-e9633e132a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/warm/fw_warm_in_global_warm_in_global-ota_full-OS2.0.2.0.VGVINXM-user-15.0-e9633e132a.zip
+  filename: fw_warm_in_global_warm_in_global-ota_full-OS2.0.2.0.VGVINXM-user-15.0-e9633e132a.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.2.0.VGVINXM
+- branch: stable
+  date: '2025-03-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warm/releases/download/stable-07.03.2025/fw_warm_miui_WARMINGlobal_OS1.0.8.0.UGVINXM_4dcaa9f305_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/warm/fw_warm_miui_WARMINGlobal_OS1.0.8.0.UGVINXM_4dcaa9f305_14.0.zip
+  filename: fw_warm_miui_WARMINGlobal_OS1.0.8.0.UGVINXM_4dcaa9f305_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.8.0.UGVINXM
+- branch: stable
+  date: '2025-08-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warm/releases/download/stable-04.08.2025/fw_warm_miui_WARMINGlobal_OS1.0.10.0.UGVINXM_8954f337bf_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/warm/fw_warm_miui_WARMINGlobal_OS1.0.10.0.UGVINXM_8954f337bf_14.0.zip
+  filename: fw_warm_miui_WARMINGlobal_OS1.0.10.0.UGVINXM_8954f337bf_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.10.0.UGVINXM
+- branch: stable
+  date: '2024-12-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warm/releases/download/stable-03.12.2024/fw_warm_miui_WARMINGlobal_OS1.0.5.0.UGVINXM_4353e221a6_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/warm/fw_warm_miui_WARMINGlobal_OS1.0.5.0.UGVINXM_4353e221a6_14.0.zip
+  filename: fw_warm_miui_WARMINGlobal_OS1.0.5.0.UGVINXM_4353e221a6_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.5.0.UGVINXM

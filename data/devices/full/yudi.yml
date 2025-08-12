@@ -1,1 +1,150 @@
-[]
+- branch: stable
+  date: '2024-09-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-30.09.2024/fw_yudi_miui_YUDI_OS1.0.13.0.UMHCNXM_0fa7448917_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yudi/fw_yudi_miui_YUDI_OS1.0.13.0.UMHCNXM_0fa7448917_14.0.zip
+  filename: fw_yudi_miui_YUDI_OS1.0.13.0.UMHCNXM_0fa7448917_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.13.0.UMHCNXM
+- branch: stable
+  date: '2024-10-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-28.10.2024/fw_yudi_miui_YUDI_OS1.0.15.0.UMHCNXM_642885fe4c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yudi/fw_yudi_miui_YUDI_OS1.0.15.0.UMHCNXM_642885fe4c_14.0.zip
+  filename: fw_yudi_miui_YUDI_OS1.0.15.0.UMHCNXM_642885fe4c_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.15.0.UMHCNXM
+- branch: stable
+  date: '2024-12-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-27.12.2024/fw_yudi_miui_YUDI_OS1.0.17.0.UMHCNXM_016e5304b7_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yudi/fw_yudi_miui_YUDI_OS1.0.17.0.UMHCNXM_016e5304b7_14.0.zip
+  filename: fw_yudi_miui_YUDI_OS1.0.17.0.UMHCNXM_016e5304b7_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.17.0.UMHCNXM
+- branch: stable
+  date: '2024-08-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-27.08.2024/fw_yudi_miui_YUDI_OS1.0.12.0.UMHCNXM_795f353142_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yudi/fw_yudi_miui_YUDI_OS1.0.12.0.UMHCNXM_795f353142_14.0.zip
+  filename: fw_yudi_miui_YUDI_OS1.0.12.0.UMHCNXM_795f353142_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.12.0.UMHCNXM
+- branch: stable
+  date: '2025-07-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-25.07.2025/fw_yudi_yudi-ota_full-OS2.0.203.0.VMHCNXM-user-15.0-4e5f2843a0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/yudi/fw_yudi_yudi-ota_full-OS2.0.203.0.VMHCNXM-user-15.0-4e5f2843a0.zip
+  filename: fw_yudi_yudi-ota_full-OS2.0.203.0.VMHCNXM-user-15.0-4e5f2843a0.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.203.0.VMHCNXM
+- branch: stable
+  date: '2025-05-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-23.05.2025/fw_yudi_yudi-ota_full-OS2.0.8.0.VMHCNXM-user-15.0-c3af3fbd5b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/yudi/fw_yudi_yudi-ota_full-OS2.0.8.0.VMHCNXM-user-15.0-c3af3fbd5b.zip
+  filename: fw_yudi_yudi-ota_full-OS2.0.8.0.VMHCNXM-user-15.0-c3af3fbd5b.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.8.0.VMHCNXM
+- branch: stable
+  date: '2023-09-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-22.09.2023/fw_yudi_miui_YUDI_V14.0.6.0.TMHCNXM_e089ca23f1_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/yudi/fw_yudi_miui_YUDI_V14.0.6.0.TMHCNXM_e089ca23f1_13.0.zip
+  filename: fw_yudi_miui_YUDI_V14.0.6.0.TMHCNXM_e089ca23f1_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TMHCNXM
+- branch: stable
+  date: '2025-06-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-18.06.2025/fw_yudi_yudi-ota_full-OS2.0.201.0.VMHCNXM-user-15.0-43fba22191.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/yudi/fw_yudi_yudi-ota_full-OS2.0.201.0.VMHCNXM-user-15.0-43fba22191.zip
+  filename: fw_yudi_yudi-ota_full-OS2.0.201.0.VMHCNXM-user-15.0-43fba22191.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.201.0.VMHCNXM
+- branch: stable
+  date: '2024-06-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-17.06.2024/fw_yudi_miui_YUDI_OS1.0.9.0.UMHCNXM_d02ffd2afe_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yudi/fw_yudi_miui_YUDI_OS1.0.9.0.UMHCNXM_d02ffd2afe_14.0.zip
+  filename: fw_yudi_miui_YUDI_OS1.0.9.0.UMHCNXM_d02ffd2afe_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.9.0.UMHCNXM
+- branch: stable
+  date: '2025-01-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-17.01.2025/fw_yudi_yudi-ota_full-OS2.0.4.0.VMHCNXM-user-15.0-2d4a366530.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/yudi/fw_yudi_yudi-ota_full-OS2.0.4.0.VMHCNXM-user-15.0-2d4a366530.zip
+  filename: fw_yudi_yudi-ota_full-OS2.0.4.0.VMHCNXM-user-15.0-2d4a366530.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.4.0.VMHCNXM
+- branch: stable
+  date: '2023-12-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-11.12.2023/fw_yudi_miui_YUDI_OS1.0.2.0.UMHCNXM_34efc69cc0_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yudi/fw_yudi_miui_YUDI_OS1.0.2.0.UMHCNXM_34efc69cc0_14.0.zip
+  filename: fw_yudi_miui_YUDI_OS1.0.2.0.UMHCNXM_34efc69cc0_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.UMHCNXM
+- branch: stable
+  date: '2024-12-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-09.12.2024/fw_yudi_miui_YUDI_OS1.0.16.0.UMHCNXM_1fdd0e6d55_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yudi/fw_yudi_miui_YUDI_OS1.0.16.0.UMHCNXM_1fdd0e6d55_14.0.zip
+  filename: fw_yudi_miui_YUDI_OS1.0.16.0.UMHCNXM_1fdd0e6d55_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.16.0.UMHCNXM
+- branch: stable
+  date: '2025-04-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-07.04.2025/fw_yudi_yudi-ota_full-OS2.0.7.0.VMHCNXM-user-15.0-e5ddb7b375.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/yudi/fw_yudi_yudi-ota_full-OS2.0.7.0.VMHCNXM-user-15.0-e5ddb7b375.zip
+  filename: fw_yudi_yudi-ota_full-OS2.0.7.0.VMHCNXM-user-15.0-e5ddb7b375.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.7.0.VMHCNXM
+- branch: stable
+  date: '2024-04-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-07.04.2024/fw_yudi_miui_YUDI_OS1.0.8.0.UMHCNXM_e30fc423ba_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yudi/fw_yudi_miui_YUDI_OS1.0.8.0.UMHCNXM_e30fc423ba_14.0.zip
+  filename: fw_yudi_miui_YUDI_OS1.0.8.0.UMHCNXM_e30fc423ba_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.8.0.UMHCNXM
+- branch: stable
+  date: '2025-03-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-07.03.2025/fw_yudi_yudi-ota_full-OS2.0.6.0.VMHCNXM-user-15.0-ee905a8d50.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/yudi/fw_yudi_yudi-ota_full-OS2.0.6.0.VMHCNXM-user-15.0-ee905a8d50.zip
+  filename: fw_yudi_yudi-ota_full-OS2.0.6.0.VMHCNXM-user-15.0-ee905a8d50.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.6.0.VMHCNXM

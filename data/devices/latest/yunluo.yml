@@ -1,1 +1,40 @@
-[]
+- branch: stable
+  date: '2025-05-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-12.05.2025/fw_yunluo_miui_YUNLUOGlobal_OS1.0.9.0.ULYMIXM_f523fe7fc3_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yunluo/fw_yunluo_miui_YUNLUOGlobal_OS1.0.9.0.ULYMIXM_f523fe7fc3_14.0.zip
+  filename: fw_yunluo_miui_YUNLUOGlobal_OS1.0.9.0.ULYMIXM_f523fe7fc3_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.9.0.ULYMIXM
+- branch: stable
+  date: '2024-11-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-18.11.2024/fw_yunluo_miui_YUNLUO_OS1.0.8.0.ULYCNXM_0f98c0db8c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yunluo/fw_yunluo_miui_YUNLUO_OS1.0.8.0.ULYCNXM_0f98c0db8c_14.0.zip
+  filename: fw_yunluo_miui_YUNLUO_OS1.0.8.0.ULYCNXM_0f98c0db8c_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.8.0.ULYCNXM
+- branch: stable
+  date: '2025-05-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-12.05.2025/fw_yunluo_miui_YUNLUOEEAGlobal_OS1.0.11.0.ULYEUXM_9ce0ffabdb_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yunluo/fw_yunluo_miui_YUNLUOEEAGlobal_OS1.0.11.0.ULYEUXM_9ce0ffabdb_14.0.zip
+  filename: fw_yunluo_miui_YUNLUOEEAGlobal_OS1.0.11.0.ULYEUXM_9ce0ffabdb_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.11.0.ULYEUXM
+- branch: stable
+  date: '2025-02-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-10.02.2025/fw_yunluo_miui_YUNLUOINGlobal_OS1.0.7.0.ULYINXM_3fa1cd003e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/yunluo/fw_yunluo_miui_YUNLUOINGlobal_OS1.0.7.0.ULYINXM_3fa1cd003e_14.0.zip
+  filename: fw_yunluo_miui_YUNLUOINGlobal_OS1.0.7.0.ULYINXM_3fa1cd003e_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.7.0.ULYINXM

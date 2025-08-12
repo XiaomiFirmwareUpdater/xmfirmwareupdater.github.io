@@ -1,1 +1,150 @@
-[]
+- branch: stable
+  date: '2025-06-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goku/releases/download/stable-27.06.2025/fw_goku_goku-ota_full-OS2.0.205.0.VNVCNXM-user-15.0-88547c9cf5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/goku/fw_goku_goku-ota_full-OS2.0.205.0.VNVCNXM-user-15.0-88547c9cf5.zip
+  filename: fw_goku_goku-ota_full-OS2.0.205.0.VNVCNXM-user-15.0-88547c9cf5.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.205.0.VNVCNXM
+- branch: stable
+  date: '2025-05-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goku/releases/download/stable-23.05.2025/fw_goku_goku-ota_full-OS2.0.108.0.VNVCNXM-user-15.0-4fb806ef0f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/goku/fw_goku_goku-ota_full-OS2.0.108.0.VNVCNXM-user-15.0-4fb806ef0f.zip
+  filename: fw_goku_goku-ota_full-OS2.0.108.0.VNVCNXM-user-15.0-4fb806ef0f.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.108.0.VNVCNXM
+- branch: stable
+  date: '2024-07-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goku/releases/download/stable-22.07.2024/fw_goku_miui_GOKU_OS1.0.8.0.UNVCNXM_17508372ba_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/goku/fw_goku_miui_GOKU_OS1.0.8.0.UNVCNXM_17508372ba_14.0.zip
+  filename: fw_goku_miui_GOKU_OS1.0.8.0.UNVCNXM_17508372ba_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.8.0.UNVCNXM
+- branch: stable
+  date: '2025-01-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goku/releases/download/stable-20.01.2025/fw_goku_goku-ota_full-OS2.0.102.0.VNVCNXM-user-15.0-2c00a2c2b7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/goku/fw_goku_goku-ota_full-OS2.0.102.0.VNVCNXM-user-15.0-2c00a2c2b7.zip
+  filename: fw_goku_goku-ota_full-OS2.0.102.0.VNVCNXM-user-15.0-2c00a2c2b7.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.102.0.VNVCNXM
+- branch: stable
+  date: '2024-07-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goku/releases/download/stable-19.07.2024/fw_goku_miui_GOKU_OS1.0.7.0.UNVCNXM_72a459b259_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/goku/fw_goku_miui_GOKU_OS1.0.7.0.UNVCNXM_72a459b259_14.0.zip
+  filename: fw_goku_miui_GOKU_OS1.0.7.0.UNVCNXM_72a459b259_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.7.0.UNVCNXM
+- branch: stable
+  date: '2025-07-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goku/releases/download/stable-18.07.2025/fw_goku_goku-ota_full-OS2.0.206.0.VNVCNXM-user-15.0-26031e675b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/goku/fw_goku_goku-ota_full-OS2.0.206.0.VNVCNXM-user-15.0-26031e675b.zip
+  filename: fw_goku_goku-ota_full-OS2.0.206.0.VNVCNXM-user-15.0-26031e675b.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.206.0.VNVCNXM
+- branch: stable
+  date: '2024-10-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goku/releases/download/stable-14.10.2024/fw_goku_miui_GOKU_OS1.0.13.0.UNVCNXM_fb1ecb5403_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/goku/fw_goku_miui_GOKU_OS1.0.13.0.UNVCNXM_fb1ecb5403_14.0.zip
+  filename: fw_goku_miui_GOKU_OS1.0.13.0.UNVCNXM_fb1ecb5403_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.13.0.UNVCNXM
+- branch: stable
+  date: '2025-04-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goku/releases/download/stable-14.04.2025/fw_goku_goku-ota_full-OS2.0.106.0.VNVCNXM-user-15.0-64d2a743ab.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/goku/fw_goku_goku-ota_full-OS2.0.106.0.VNVCNXM-user-15.0-64d2a743ab.zip
+  filename: fw_goku_goku-ota_full-OS2.0.106.0.VNVCNXM-user-15.0-64d2a743ab.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.106.0.VNVCNXM
+- branch: stable
+  date: '2024-09-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goku/releases/download/stable-10.09.2024/fw_goku_miui_GOKU_OS1.0.11.0.UNVCNXM_d6db9703d1_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/goku/fw_goku_miui_GOKU_OS1.0.11.0.UNVCNXM_d6db9703d1_14.0.zip
+  filename: fw_goku_miui_GOKU_OS1.0.11.0.UNVCNXM_d6db9703d1_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.11.0.UNVCNXM
+- branch: stable
+  date: '2025-03-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goku/releases/download/stable-10.03.2025/fw_goku_goku-ota_full-OS2.0.104.0.VNVCNXM-user-15.0-2e76c8b5f1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/goku/fw_goku_goku-ota_full-OS2.0.104.0.VNVCNXM-user-15.0-2e76c8b5f1.zip
+  filename: fw_goku_goku-ota_full-OS2.0.104.0.VNVCNXM-user-15.0-2e76c8b5f1.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.104.0.VNVCNXM
+- branch: stable
+  date: '2025-06-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goku/releases/download/stable-09.06.2025/fw_goku_goku-ota_full-OS2.0.204.0.VNVCNXM-user-15.0-436aa6d19e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/goku/fw_goku_goku-ota_full-OS2.0.204.0.VNVCNXM-user-15.0-436aa6d19e.zip
+  filename: fw_goku_goku-ota_full-OS2.0.204.0.VNVCNXM-user-15.0-436aa6d19e.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.204.0.VNVCNXM
+- branch: stable
+  date: '2024-11-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goku/releases/download/stable-08.11.2024/fw_goku_miui_GOKU_OS1.0.15.0.UNVCNXM_7c07300a92_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/goku/fw_goku_miui_GOKU_OS1.0.15.0.UNVCNXM_7c07300a92_14.0.zip
+  filename: fw_goku_miui_GOKU_OS1.0.15.0.UNVCNXM_7c07300a92_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.15.0.UNVCNXM
+- branch: stable
+  date: '2024-12-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goku/releases/download/stable-05.12.2024/fw_goku_goku-ota_full-OS2.0.5.0.VNVCNXM-user-15.0-51d6fb7f5f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/goku/fw_goku_goku-ota_full-OS2.0.5.0.VNVCNXM-user-15.0-51d6fb7f5f.zip
+  filename: fw_goku_goku-ota_full-OS2.0.5.0.VNVCNXM-user-15.0-51d6fb7f5f.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.5.0.VNVCNXM
+- branch: stable
+  date: '2024-08-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goku/releases/download/stable-03.08.2024/fw_goku_miui_GOKU_OS1.0.9.0.UNVCNXM_3b46da1b28_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/goku/fw_goku_miui_GOKU_OS1.0.9.0.UNVCNXM_3b46da1b28_14.0.zip
+  filename: fw_goku_miui_GOKU_OS1.0.9.0.UNVCNXM_3b46da1b28_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.9.0.UNVCNXM
+- branch: stable
+  date: '2025-01-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goku/releases/download/stable-03.01.2025/fw_goku_goku-ota_full-OS2.0.8.0.VNVCNXM-user-15.0-7cf54a236b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/goku/fw_goku_goku-ota_full-OS2.0.8.0.VNVCNXM-user-15.0-7cf54a236b.zip
+  filename: fw_goku_goku-ota_full-OS2.0.8.0.VNVCNXM-user-15.0-7cf54a236b.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.8.0.VNVCNXM

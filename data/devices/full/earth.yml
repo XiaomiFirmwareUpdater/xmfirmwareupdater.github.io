@@ -1,1 +1,630 @@
-[]
+- branch: stable
+  date: '2023-10-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-31.10.2023/fw_earth_miui_EARTH_V13.0.10.0.SCVCNXM_d252e1bf0e_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/earth/fw_earth_miui_EARTH_V13.0.10.0.SCVCNXM_d252e1bf0e_12.0.zip
+  filename: fw_earth_miui_EARTH_V13.0.10.0.SCVCNXM_d252e1bf0e_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.10.0.SCVCNXM
+- branch: stable
+  date: '2024-08-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-30.08.2024/fw_earth_miui_EARTHEEAGlobal_OS1.0.5.0.UCVEUXM_cb6382cef1_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHEEAGlobal_OS1.0.5.0.UCVEUXM_cb6382cef1_14.0.zip
+  filename: fw_earth_miui_EARTHEEAGlobal_OS1.0.5.0.UCVEUXM_cb6382cef1_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.5.0.UCVEUXM
+- branch: stable
+  date: '2023-05-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-29.05.2023/fw_earth_miui_EARTH_V14.0.1.0.TCVCNXM_16aa946429_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/earth/fw_earth_miui_EARTH_V14.0.1.0.TCVCNXM_16aa946429_13.0.zip
+  filename: fw_earth_miui_EARTH_V14.0.1.0.TCVCNXM_16aa946429_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.1.0.TCVCNXM
+- branch: stable
+  date: '2024-01-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-29.01.2024/fw_earth_miui_EARTH_OS1.0.1.0.UCVCNXM_68302d0f82_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTH_OS1.0.1.0.UCVCNXM_68302d0f82_14.0.zip
+  filename: fw_earth_miui_EARTH_OS1.0.1.0.UCVCNXM_68302d0f82_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.1.0.UCVCNXM
+- branch: stable
+  date: '2024-10-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-28.10.2024/fw_earth_miui_EARTHINGlobal_OS1.0.7.0.UCVINXM_72384ccb4b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHINGlobal_OS1.0.7.0.UCVINXM_72384ccb4b_14.0.zip
+  filename: fw_earth_miui_EARTHINGlobal_OS1.0.7.0.UCVINXM_72384ccb4b_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.7.0.UCVINXM
+- branch: stable
+  date: '2023-06-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-28.06.2023/fw_earth_miui_EARTHEEAGlobal_V14.0.3.0.TCVEUXM_d1c1828972_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/earth/fw_earth_miui_EARTHEEAGlobal_V14.0.3.0.TCVEUXM_d1c1828972_13.0.zip
+  filename: fw_earth_miui_EARTHEEAGlobal_V14.0.3.0.TCVEUXM_d1c1828972_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TCVEUXM
+- branch: stable
+  date: '2025-04-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-28.04.2025/fw_earth_miui_EARTHINGlobal_OS1.0.10.0.UCVINXM_5f5984659f_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHINGlobal_OS1.0.10.0.UCVINXM_5f5984659f_14.0.zip
+  filename: fw_earth_miui_EARTHINGlobal_OS1.0.10.0.UCVINXM_5f5984659f_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.10.0.UCVINXM
+- branch: stable
+  date: '2025-06-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-27.06.2025/fw_earth_miui_EARTHEEAGlobal_OS1.0.11.0.UCVEUXM_ac8b79cf1d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHEEAGlobal_OS1.0.11.0.UCVEUXM_ac8b79cf1d_14.0.zip
+  filename: fw_earth_miui_EARTHEEAGlobal_OS1.0.11.0.UCVEUXM_ac8b79cf1d_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.11.0.UCVEUXM
+- branch: stable
+  date: '2025-06-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-27.06.2025/fw_earth_miui_EARTHGlobal_OS1.0.12.0.UCVMIXM_b27a47b3dc_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHGlobal_OS1.0.12.0.UCVMIXM_b27a47b3dc_14.0.zip
+  filename: fw_earth_miui_EARTHGlobal_OS1.0.12.0.UCVMIXM_b27a47b3dc_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.12.0.UCVMIXM
+- branch: stable
+  date: '2023-04-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-27.04.2023/fw_earth_miui_EARTH_V13.0.7.0.SCVCNXM_0837c6a70d_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/earth/fw_earth_miui_EARTH_V13.0.7.0.SCVCNXM_0837c6a70d_12.0.zip
+  filename: fw_earth_miui_EARTH_V13.0.7.0.SCVCNXM_0837c6a70d_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.7.0.SCVCNXM
+- branch: stable
+  date: '2023-05-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-26.05.2023/fw_earth_miui_EARTHEEAGlobal_V13.0.8.0.SCVEUXM_e06861504f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/earth/fw_earth_miui_EARTHEEAGlobal_V13.0.8.0.SCVEUXM_e06861504f_12.0.zip
+  filename: fw_earth_miui_EARTHEEAGlobal_V13.0.8.0.SCVEUXM_e06861504f_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.8.0.SCVEUXM
+- branch: stable
+  date: '2023-05-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-26.05.2023/fw_earth_miui_EARTHGlobal_V13.0.7.0.SCVMIXM_df45be6a45_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/earth/fw_earth_miui_EARTHGlobal_V13.0.7.0.SCVMIXM_df45be6a45_12.0.zip
+  filename: fw_earth_miui_EARTHGlobal_V13.0.7.0.SCVMIXM_df45be6a45_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.7.0.SCVMIXM
+- branch: stable
+  date: '2024-01-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-26.01.2024/fw_earth_miui_EARTHEEAGlobal_V14.0.8.0.TCVEUXM_25f69159a8_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/earth/fw_earth_miui_EARTHEEAGlobal_V14.0.8.0.TCVEUXM_25f69159a8_13.0.zip
+  filename: fw_earth_miui_EARTHEEAGlobal_V14.0.8.0.TCVEUXM_25f69159a8_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.8.0.TCVEUXM
+- branch: stable
+  date: '2025-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-25.02.2025/fw_earth_miui_EARTHEEAGlobal_OS1.0.8.0.UCVEUXM_3a40edbd1d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHEEAGlobal_OS1.0.8.0.UCVEUXM_3a40edbd1d_14.0.zip
+  filename: fw_earth_miui_EARTHEEAGlobal_OS1.0.8.0.UCVEUXM_3a40edbd1d_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.8.0.UCVEUXM
+- branch: stable
+  date: '2024-09-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-24.09.2024/fw_earth_miui_EARTH_OS1.0.4.0.UCVCNXM_64bf4d162a_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTH_OS1.0.4.0.UCVCNXM_64bf4d162a_14.0.zip
+  filename: fw_earth_miui_EARTH_OS1.0.4.0.UCVCNXM_64bf4d162a_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UCVCNXM
+- branch: stable
+  date: '2023-03-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-23.03.2023/fw_earth_miui_EARTHGlobal_V13.0.5.0.SCVMIXM_65e757e671_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/earth/fw_earth_miui_EARTHGlobal_V13.0.5.0.SCVMIXM_65e757e671_12.0.zip
+  filename: fw_earth_miui_EARTHGlobal_V13.0.5.0.SCVMIXM_65e757e671_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SCVMIXM
+- branch: stable
+  date: '2023-07-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-22.07.2023/fw_earth_miui_EARTHGlobal_V14.0.4.0.TCVMIXM_a9aa86c158_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/earth/fw_earth_miui_EARTHGlobal_V14.0.4.0.TCVMIXM_a9aa86c158_13.0.zip
+  filename: fw_earth_miui_EARTHGlobal_V14.0.4.0.TCVMIXM_a9aa86c158_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TCVMIXM
+- branch: stable
+  date: '2023-05-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-22.05.2023/fw_earth_miui_EARTHINGlobal_V13.0.3.0.SCVINXM_1bfad882c9_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/earth/fw_earth_miui_EARTHINGlobal_V13.0.3.0.SCVINXM_1bfad882c9_12.0.zip
+  filename: fw_earth_miui_EARTHINGlobal_V13.0.3.0.SCVINXM_1bfad882c9_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SCVINXM
+- branch: stable
+  date: '2023-02-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-22.02.2023/fw_earth_miui_EARTH_V13.0.5.0.SCVCNXM_7ff5e2ee27_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/earth/fw_earth_miui_EARTH_V13.0.5.0.SCVCNXM_7ff5e2ee27_12.0.zip
+  filename: fw_earth_miui_EARTH_V13.0.5.0.SCVCNXM_7ff5e2ee27_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SCVCNXM
+- branch: stable
+  date: '2024-01-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-22.01.2024/fw_earth_miui_EARTHINGlobal_OS1.0.2.0.UCVINXM_d3d972cf43_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHINGlobal_OS1.0.2.0.UCVINXM_d3d972cf43_14.0.zip
+  filename: fw_earth_miui_EARTHINGlobal_OS1.0.2.0.UCVINXM_d3d972cf43_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.UCVINXM
+- branch: stable
+  date: '2024-10-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-21.10.2024/fw_earth_miui_EARTHEEAGlobal_OS1.0.6.0.UCVEUXM_6e5692bf52_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHEEAGlobal_OS1.0.6.0.UCVEUXM_6e5692bf52_14.0.zip
+  filename: fw_earth_miui_EARTHEEAGlobal_OS1.0.6.0.UCVEUXM_6e5692bf52_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.6.0.UCVEUXM
+- branch: stable
+  date: '2024-10-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-21.10.2024/fw_earth_miui_EARTHGlobal_OS1.0.7.0.UCVMIXM_f673a65dd4_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHGlobal_OS1.0.7.0.UCVMIXM_f673a65dd4_14.0.zip
+  filename: fw_earth_miui_EARTHGlobal_OS1.0.7.0.UCVMIXM_f673a65dd4_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.7.0.UCVMIXM
+- branch: stable
+  date: '2025-04-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-21.04.2025/fw_earth_miui_EARTHEEAGlobal_OS1.0.9.0.UCVEUXM_61dcf0e024_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHEEAGlobal_OS1.0.9.0.UCVEUXM_61dcf0e024_14.0.zip
+  filename: fw_earth_miui_EARTHEEAGlobal_OS1.0.9.0.UCVEUXM_61dcf0e024_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.9.0.UCVEUXM
+- branch: stable
+  date: '2025-04-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-21.04.2025/fw_earth_miui_EARTHGlobal_OS1.0.10.0.UCVMIXM_66190b76e6_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHGlobal_OS1.0.10.0.UCVMIXM_66190b76e6_14.0.zip
+  filename: fw_earth_miui_EARTHGlobal_OS1.0.10.0.UCVMIXM_66190b76e6_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.10.0.UCVMIXM
+- branch: stable
+  date: '2025-04-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-21.04.2025/fw_earth_miui_EARTH_OS1.0.6.0.UCVCNXM_e6378e0dc5_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTH_OS1.0.6.0.UCVCNXM_e6378e0dc5_14.0.zip
+  filename: fw_earth_miui_EARTH_OS1.0.6.0.UCVCNXM_e6378e0dc5_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.6.0.UCVCNXM
+- branch: stable
+  date: '2023-11-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-20.11.2023/fw_earth_miui_EARTHINGlobal_V14.0.4.0.TCVINXM_e6f9b34a7d_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/earth/fw_earth_miui_EARTHINGlobal_V14.0.4.0.TCVINXM_e6f9b34a7d_13.0.zip
+  filename: fw_earth_miui_EARTHINGlobal_V14.0.4.0.TCVINXM_e6f9b34a7d_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TCVINXM
+- branch: stable
+  date: '2023-08-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-20.08.2023/fw_earth_miui_EARTHINGlobal_V13.0.4.0.SCVINXM_e07f536966_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/earth/fw_earth_miui_EARTHINGlobal_V13.0.4.0.SCVINXM_e07f536966_12.0.zip
+  filename: fw_earth_miui_EARTHINGlobal_V13.0.4.0.SCVINXM_e07f536966_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SCVINXM
+- branch: stable
+  date: '2024-05-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-20.05.2024/fw_earth_miui_EARTHINGlobal_OS1.0.4.0.UCVINXM_daadda12eb_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHINGlobal_OS1.0.4.0.UCVINXM_daadda12eb_14.0.zip
+  filename: fw_earth_miui_EARTHINGlobal_OS1.0.4.0.UCVINXM_daadda12eb_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UCVINXM
+- branch: stable
+  date: '2023-09-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-19.09.2023/fw_earth_miui_EARTHINGlobal_V14.0.3.0.TCVINXM_65206f3e94_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/earth/fw_earth_miui_EARTHINGlobal_V14.0.3.0.TCVINXM_65206f3e94_13.0.zip
+  filename: fw_earth_miui_EARTHINGlobal_V14.0.3.0.TCVINXM_65206f3e94_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TCVINXM
+- branch: stable
+  date: '2023-01-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-19.01.2023/fw_earth_miui_EARTH_V13.0.4.0.SCVCNXM_de102f96ee_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/earth/fw_earth_miui_EARTH_V13.0.4.0.SCVCNXM_de102f96ee_12.0.zip
+  filename: fw_earth_miui_EARTH_V13.0.4.0.SCVCNXM_de102f96ee_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SCVCNXM
+- branch: stable
+  date: '2023-12-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-18.12.2023/fw_earth_miui_EARTHGlobal_V14.0.7.0.TCVMIXM_b83820f33d_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/earth/fw_earth_miui_EARTHGlobal_V14.0.7.0.TCVMIXM_b83820f33d_13.0.zip
+  filename: fw_earth_miui_EARTHGlobal_V14.0.7.0.TCVMIXM_b83820f33d_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.7.0.TCVMIXM
+- branch: stable
+  date: '2023-11-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-18.11.2023/fw_earth_miui_EARTH_V14.0.4.0.TCVCNXM_1238757265_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/earth/fw_earth_miui_EARTH_V14.0.4.0.TCVCNXM_1238757265_13.0.zip
+  filename: fw_earth_miui_EARTH_V14.0.4.0.TCVCNXM_1238757265_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TCVCNXM
+- branch: stable
+  date: '2024-08-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-18.08.2024/fw_earth_miui_EARTHGlobal_OS1.0.6.0.UCVMIXM_6472bc4245_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHGlobal_OS1.0.6.0.UCVMIXM_6472bc4245_14.0.zip
+  filename: fw_earth_miui_EARTHGlobal_OS1.0.6.0.UCVMIXM_6472bc4245_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.6.0.UCVMIXM
+- branch: stable
+  date: '2023-05-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-18.05.2023/fw_earth_miui_EARTH_V13.0.8.0.SCVCNXM_dbc7475907_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/earth/fw_earth_miui_EARTH_V13.0.8.0.SCVCNXM_dbc7475907_12.0.zip
+  filename: fw_earth_miui_EARTH_V13.0.8.0.SCVCNXM_dbc7475907_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.8.0.SCVCNXM
+- branch: stable
+  date: '2024-03-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-18.03.2024/fw_earth_miui_EARTHINGlobal_OS1.0.3.0.UCVINXM_56e9f15fb1_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHINGlobal_OS1.0.3.0.UCVINXM_56e9f15fb1_14.0.zip
+  filename: fw_earth_miui_EARTHINGlobal_OS1.0.3.0.UCVINXM_56e9f15fb1_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.UCVINXM
+- branch: stable
+  date: '2024-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-18.02.2024/fw_earth_miui_EARTHEEAGlobal_OS1.0.1.0.UCVEUXM_fabf22927d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHEEAGlobal_OS1.0.1.0.UCVEUXM_fabf22927d_14.0.zip
+  filename: fw_earth_miui_EARTHEEAGlobal_OS1.0.1.0.UCVEUXM_fabf22927d_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.1.0.UCVEUXM
+- branch: stable
+  date: '2023-11-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-17.11.2023/fw_earth_miui_EARTHEEAGlobal_V14.0.7.0.TCVEUXM_db2fd86fd3_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/earth/fw_earth_miui_EARTHEEAGlobal_V14.0.7.0.TCVEUXM_db2fd86fd3_13.0.zip
+  filename: fw_earth_miui_EARTHEEAGlobal_V14.0.7.0.TCVEUXM_db2fd86fd3_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.7.0.TCVEUXM
+- branch: stable
+  date: '2023-10-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-16.10.2023/fw_earth_miui_EARTHGlobal_V14.0.6.0.TCVMIXM_200a18e40f_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/earth/fw_earth_miui_EARTHGlobal_V14.0.6.0.TCVMIXM_200a18e40f_13.0.zip
+  filename: fw_earth_miui_EARTHGlobal_V14.0.6.0.TCVMIXM_200a18e40f_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TCVMIXM
+- branch: stable
+  date: '2024-07-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-15.07.2024/fw_earth_miui_EARTH_OS1.0.3.0.UCVCNXM_dd472d6d24_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTH_OS1.0.3.0.UCVCNXM_dd472d6d24_14.0.zip
+  filename: fw_earth_miui_EARTH_OS1.0.3.0.UCVCNXM_dd472d6d24_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.UCVCNXM
+- branch: stable
+  date: '2024-05-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-15.05.2024/fw_earth_miui_EARTHGlobal_OS1.0.4.0.UCVMIXM_4e31fc54fa_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHGlobal_OS1.0.4.0.UCVMIXM_4e31fc54fa_14.0.zip
+  filename: fw_earth_miui_EARTHGlobal_OS1.0.4.0.UCVMIXM_4e31fc54fa_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UCVMIXM
+- branch: stable
+  date: '2023-09-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-14.09.2023/fw_earth_miui_EARTHEEAGlobal_V14.0.4.0.TCVEUXM_13a5ae398b_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/earth/fw_earth_miui_EARTHEEAGlobal_V14.0.4.0.TCVEUXM_13a5ae398b_13.0.zip
+  filename: fw_earth_miui_EARTHEEAGlobal_V14.0.4.0.TCVEUXM_13a5ae398b_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TCVEUXM
+- branch: stable
+  date: '2024-07-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-12.07.2024/fw_earth_miui_EARTHGlobal_OS1.0.5.0.UCVMIXM_162be118bc_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHGlobal_OS1.0.5.0.UCVMIXM_162be118bc_14.0.zip
+  filename: fw_earth_miui_EARTHGlobal_OS1.0.5.0.UCVMIXM_162be118bc_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.5.0.UCVMIXM
+- branch: stable
+  date: '2023-03-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-12.03.2023/fw_earth_miui_EARTHEEAGlobal_V13.0.5.0.SCVEUXM_01d0e61c75_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/earth/fw_earth_miui_EARTHEEAGlobal_V13.0.5.0.SCVEUXM_01d0e61c75_12.0.zip
+  filename: fw_earth_miui_EARTHEEAGlobal_V13.0.5.0.SCVEUXM_01d0e61c75_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SCVEUXM
+- branch: stable
+  date: '2024-01-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-12.01.2024/fw_earth_miui_EARTHGlobal_OS1.0.2.0.UCVMIXM_594f88abfe_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHGlobal_OS1.0.2.0.UCVMIXM_594f88abfe_14.0.zip
+  filename: fw_earth_miui_EARTHGlobal_OS1.0.2.0.UCVMIXM_594f88abfe_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.UCVMIXM
+- branch: stable
+  date: '2023-03-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-11.03.2023/fw_earth_miui_EARTH_V13.0.6.0.SCVCNXM_916002e6e1_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/earth/fw_earth_miui_EARTH_V13.0.6.0.SCVCNXM_916002e6e1_12.0.zip
+  filename: fw_earth_miui_EARTH_V13.0.6.0.SCVCNXM_916002e6e1_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.6.0.SCVCNXM
+- branch: stable
+  date: '2024-12-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-10.12.2024/fw_earth_miui_EARTH_OS1.0.5.0.UCVCNXM_f3ec4d80d3_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTH_OS1.0.5.0.UCVCNXM_f3ec4d80d3_14.0.zip
+  filename: fw_earth_miui_EARTH_OS1.0.5.0.UCVCNXM_f3ec4d80d3_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.5.0.UCVCNXM
+- branch: stable
+  date: '2023-07-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-09.07.2023/fw_earth_miui_EARTHINGlobal_V14.0.2.0.TCVINXM_44134a2261_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/earth/fw_earth_miui_EARTHINGlobal_V14.0.2.0.TCVINXM_44134a2261_13.0.zip
+  filename: fw_earth_miui_EARTHINGlobal_V14.0.2.0.TCVINXM_44134a2261_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TCVINXM
+- branch: stable
+  date: '2025-01-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-08.01.2025/fw_earth_miui_EARTHGlobal_OS1.0.8.0.UCVMIXM_0fffafb91c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHGlobal_OS1.0.8.0.UCVMIXM_0fffafb91c_14.0.zip
+  filename: fw_earth_miui_EARTHGlobal_OS1.0.8.0.UCVMIXM_0fffafb91c_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.8.0.UCVMIXM
+- branch: stable
+  date: '2025-07-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-07.07.2025/fw_earth_miui_EARTHINGlobal_OS1.0.11.0.UCVINXM_adab505113_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHINGlobal_OS1.0.11.0.UCVINXM_adab505113_14.0.zip
+  filename: fw_earth_miui_EARTHINGlobal_OS1.0.11.0.UCVINXM_adab505113_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.11.0.UCVINXM
+- branch: stable
+  date: '2023-03-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-07.03.2023/fw_earth_miui_EARTHINGlobal_V13.0.2.0.SCVINXM_16af528b85_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/earth/fw_earth_miui_EARTHINGlobal_V13.0.2.0.SCVINXM_16af528b85_12.0.zip
+  filename: fw_earth_miui_EARTHINGlobal_V13.0.2.0.SCVINXM_16af528b85_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SCVINXM
+- branch: stable
+  date: '2025-01-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-07.01.2025/fw_earth_miui_EARTHINGlobal_OS1.0.8.0.UCVINXM_44571cf9bd_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHINGlobal_OS1.0.8.0.UCVINXM_44571cf9bd_14.0.zip
+  filename: fw_earth_miui_EARTHINGlobal_OS1.0.8.0.UCVINXM_44571cf9bd_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.8.0.UCVINXM
+- branch: stable
+  date: '2024-03-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-06.03.2024/fw_earth_miui_EARTHGlobal_OS1.0.3.0.UCVMIXM_d2ad88204e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHGlobal_OS1.0.3.0.UCVMIXM_d2ad88204e_14.0.zip
+  filename: fw_earth_miui_EARTHGlobal_OS1.0.3.0.UCVMIXM_d2ad88204e_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.UCVMIXM
+- branch: stable
+  date: '2025-01-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-06.01.2025/fw_earth_miui_EARTHEEAGlobal_OS1.0.7.0.UCVEUXM_167d1cac72_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHEEAGlobal_OS1.0.7.0.UCVEUXM_167d1cac72_14.0.zip
+  filename: fw_earth_miui_EARTHEEAGlobal_OS1.0.7.0.UCVEUXM_167d1cac72_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.7.0.UCVEUXM
+- branch: stable
+  date: '2023-09-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-05.09.2023/fw_earth_miui_EARTHGlobal_V13.0.8.0.SCVMIXM_317676a8b4_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/earth/fw_earth_miui_EARTHGlobal_V13.0.8.0.SCVMIXM_317676a8b4_12.0.zip
+  filename: fw_earth_miui_EARTHGlobal_V13.0.8.0.SCVMIXM_317676a8b4_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.8.0.SCVMIXM
+- branch: stable
+  date: '2024-07-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-05.07.2024/fw_earth_miui_EARTHEEAGlobal_OS1.0.4.0.UCVEUXM_4d29130fe2_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHEEAGlobal_OS1.0.4.0.UCVEUXM_4d29130fe2_14.0.zip
+  filename: fw_earth_miui_EARTHEEAGlobal_OS1.0.4.0.UCVEUXM_4d29130fe2_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UCVEUXM
+- branch: stable
+  date: '2024-05-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-05.05.2024/fw_earth_miui_EARTHEEAGlobal_OS1.0.3.0.UCVEUXM_8bdf19ee7f_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHEEAGlobal_OS1.0.3.0.UCVEUXM_8bdf19ee7f_14.0.zip
+  filename: fw_earth_miui_EARTHEEAGlobal_OS1.0.3.0.UCVEUXM_8bdf19ee7f_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.UCVEUXM
+- branch: stable
+  date: '2023-09-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-04.09.2023/fw_earth_miui_EARTHEEAGlobal_V13.0.9.0.SCVEUXM_6dbbe8a75e_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/earth/fw_earth_miui_EARTHEEAGlobal_V13.0.9.0.SCVEUXM_6dbbe8a75e_12.0.zip
+  filename: fw_earth_miui_EARTHEEAGlobal_V13.0.9.0.SCVEUXM_6dbbe8a75e_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.9.0.SCVEUXM
+- branch: stable
+  date: '2024-07-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-04.07.2024/fw_earth_miui_EARTHINGlobal_OS1.0.5.0.UCVINXM_3564c7864b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHINGlobal_OS1.0.5.0.UCVINXM_3564c7864b_14.0.zip
+  filename: fw_earth_miui_EARTHINGlobal_OS1.0.5.0.UCVINXM_3564c7864b_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.5.0.UCVINXM
+- branch: stable
+  date: '2025-03-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-04.03.2025/fw_earth_miui_EARTHGlobal_OS1.0.9.0.UCVMIXM_7a833889b8_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHGlobal_OS1.0.9.0.UCVMIXM_7a833889b8_14.0.zip
+  filename: fw_earth_miui_EARTHGlobal_OS1.0.9.0.UCVMIXM_7a833889b8_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.9.0.UCVMIXM
+- branch: stable
+  date: '2025-03-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-04.03.2025/fw_earth_miui_EARTHINGlobal_OS1.0.9.0.UCVINXM_c43b29ae0a_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHINGlobal_OS1.0.9.0.UCVINXM_c43b29ae0a_14.0.zip
+  filename: fw_earth_miui_EARTHINGlobal_OS1.0.9.0.UCVINXM_c43b29ae0a_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.9.0.UCVINXM
+- branch: stable
+  date: '2023-08-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-02.08.2023/fw_earth_miui_EARTH_V13.0.9.0.SCVCNXM_3a8732bfab_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/earth/fw_earth_miui_EARTH_V13.0.9.0.SCVCNXM_3a8732bfab_12.0.zip
+  filename: fw_earth_miui_EARTH_V13.0.9.0.SCVCNXM_3a8732bfab_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.9.0.SCVCNXM
+- branch: stable
+  date: '2024-09-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-01.09.2024/fw_earth_miui_EARTHINGlobal_OS1.0.6.0.UCVINXM_47b19aa971_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHINGlobal_OS1.0.6.0.UCVINXM_47b19aa971_14.0.zip
+  filename: fw_earth_miui_EARTHINGlobal_OS1.0.6.0.UCVINXM_47b19aa971_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.6.0.UCVINXM
+- branch: stable
+  date: '2023-09-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-01.09.2023/fw_earth_miui_EARTH_V14.0.2.0.TCVCNXM_a172f552a0_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/earth/fw_earth_miui_EARTH_V14.0.2.0.TCVCNXM_a172f552a0_13.0.zip
+  filename: fw_earth_miui_EARTH_V14.0.2.0.TCVCNXM_a172f552a0_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TCVCNXM

@@ -1,1 +1,40 @@
-[]
+- branch: stable
+  date: '2022-09-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-21.09.2022/fw_tucana_miui_TUCANAGlobal_V13.0.2.0.RFDMIXM_30046080e8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/tucana/fw_tucana_miui_TUCANAGlobal_V13.0.2.0.RFDMIXM_30046080e8_11.0.zip
+  filename: fw_tucana_miui_TUCANAGlobal_V13.0.2.0.RFDMIXM_30046080e8_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V13.0.2.0.RFDMIXM
+- branch: stable
+  date: '2022-09-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-03.09.2022/fw_tucana_miui_TUCANA_V13.0.4.0.RFDCNXM_9253c83a9f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/tucana/fw_tucana_miui_TUCANA_V13.0.4.0.RFDCNXM_9253c83a9f_11.0.zip
+  filename: fw_tucana_miui_TUCANA_V13.0.4.0.RFDCNXM_9253c83a9f_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V13.0.4.0.RFDCNXM
+- branch: weekly
+  date: '2022-03-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-04.03.2022/fw_tucana_miui_TUCANA_22.3.2_e735556b82_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.2/tucana/fw_tucana_miui_TUCANA_22.3.2_e735556b82_11.0.zip
+  filename: fw_tucana_miui_TUCANA_22.3.2_e735556b82_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 22.3.2
+- branch: stable
+  date: '2022-09-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-13.09.2022/fw_tucana_miui_TUCANAEEAGlobal_V13.0.2.0.RFDEUXM_4c2cbbe0bf_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/tucana/fw_tucana_miui_TUCANAEEAGlobal_V13.0.2.0.RFDEUXM_4c2cbbe0bf_11.0.zip
+  filename: fw_tucana_miui_TUCANAEEAGlobal_V13.0.2.0.RFDEUXM_4c2cbbe0bf_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V13.0.2.0.RFDEUXM

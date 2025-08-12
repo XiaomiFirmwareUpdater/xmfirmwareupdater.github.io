@@ -1108,3 +1108,113 @@
   versions:
     android: '10.0'
     miui: V12.0.26.0.QCDINXM
+- branch: stable
+  date: '2022-04-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-04.04.2022/fw_dandelion_miui_DANDELION_V12.5.11.0.RCDCNXM_3b8ba97e5a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELION_V12.5.11.0.RCDCNXM_3b8ba97e5a_11.0.zip
+  filename: fw_dandelion_miui_DANDELION_V12.5.11.0.RCDCNXM_3b8ba97e5a_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.11.0.RCDCNXM
+- branch: stable
+  date: '2022-01-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-04.01.2022/fw_dandelion_miui_DANDELIONGlobal_V12.5.1.0.RCDMIXM_5fd2913a80_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONGlobal_V12.5.1.0.RCDMIXM_5fd2913a80_11.0.zip
+  filename: fw_dandelion_miui_DANDELIONGlobal_V12.5.1.0.RCDMIXM_5fd2913a80_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RCDMIXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-03.12.2020/fw_dandelion_miui_DANDELIONINGlobal_V12.0.7.0.QCDINXM_cc0a5a3da2_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONINGlobal_V12.0.7.0.QCDINXM_cc0a5a3da2_10.0.zip
+  filename: fw_dandelion_miui_DANDELIONINGlobal_V12.0.7.0.QCDINXM_cc0a5a3da2_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.7.0.QCDINXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-03.11.2020/fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.8.0.QCDEUXM_9d77205f0b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.8.0.QCDEUXM_9d77205f0b_10.0.zip
+  filename: fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.8.0.QCDEUXM_9d77205f0b_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.8.0.QCDEUXM
+- branch: stable
+  date: '2022-03-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-03.03.2022/fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.18.0.QCDEUXM_bd3f373c0d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.18.0.QCDEUXM_bd3f373c0d_10.0.zip
+  filename: fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.18.0.QCDEUXM_bd3f373c0d_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.18.0.QCDEUXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-03.03.2021/fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.11.0.QCDEUXM_00f37af87c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.11.0.QCDEUXM_00f37af87c_10.0.zip
+  filename: fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.11.0.QCDEUXM_00f37af87c_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.11.0.QCDEUXM
+- branch: stable
+  date: '2021-09-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-02.09.2021/fw_dandelion_miui_DANDELIONGlobal_V12.0.16.0.QCDMIXM_836dd92bc8_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONGlobal_V12.0.16.0.QCDMIXM_836dd92bc8_10.0.zip
+  filename: fw_dandelion_miui_DANDELIONGlobal_V12.0.16.0.QCDMIXM_836dd92bc8_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.16.0.QCDMIXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-01.12.2020/fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.9.0.QCDEUXM_1d37d66a22_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.9.0.QCDEUXM_1d37d66a22_10.0.zip
+  filename: fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.9.0.QCDEUXM_1d37d66a22_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.9.0.QCDEUXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-01.09.2020/fw_dandelion_miui_DANDELIONGlobal_V12.0.5.0.QCDMIXM_7d5800d303_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONGlobal_V12.0.5.0.QCDMIXM_7d5800d303_10.0.zip
+  filename: fw_dandelion_miui_DANDELIONGlobal_V12.0.5.0.QCDMIXM_7d5800d303_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.5.0.QCDMIXM
+- branch: stable
+  date: '2022-07-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-01.07.2022/fw_dandelion_miui_DANDELIONINGlobal_V12.0.24.0.QCDINXM_5ff1110d05_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONINGlobal_V12.0.24.0.QCDINXM_5ff1110d05_10.0.zip
+  filename: fw_dandelion_miui_DANDELIONINGlobal_V12.0.24.0.QCDINXM_5ff1110d05_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.24.0.QCDINXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-01.03.2021/fw_dandelion_miui_DANDELIONGlobal_V12.0.11.0.QCDMIXM_8af74ff57e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONGlobal_V12.0.11.0.QCDMIXM_8af74ff57e_10.0.zip
+  filename: fw_dandelion_miui_DANDELIONGlobal_V12.0.11.0.QCDMIXM_8af74ff57e_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.11.0.QCDMIXM

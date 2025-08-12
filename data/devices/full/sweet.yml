@@ -1,1 +1,340 @@
-[]
+- branch: stable
+  date: '2023-04-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-27.04.2023/fw_sweet_miui_SWEETGlobal_V14.0.2.0.TKFMIXM_897d928055_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sweet/fw_sweet_miui_SWEETGlobal_V14.0.2.0.TKFMIXM_897d928055_13.0.zip
+  filename: fw_sweet_miui_SWEETGlobal_V14.0.2.0.TKFMIXM_897d928055_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TKFMIXM
+- branch: stable
+  date: '2022-10-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-24.10.2022/fw_sweet_miui_SWEETGlobal_V13.0.14.0.SKFMIXM_8b77a32f09_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sweet/fw_sweet_miui_SWEETGlobal_V13.0.14.0.SKFMIXM_8b77a32f09_12.0.zip
+  filename: fw_sweet_miui_SWEETGlobal_V13.0.14.0.SKFMIXM_8b77a32f09_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.14.0.SKFMIXM
+- branch: stable
+  date: '2021-09-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-22.09.2021/fw_sweet_miui_SWEETGlobal_V12.5.8.0.RKFMIXM_61c0e33df5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETGlobal_V12.5.8.0.RKFMIXM_61c0e33df5_11.0.zip
+  filename: fw_sweet_miui_SWEETGlobal_V12.5.8.0.RKFMIXM_61c0e33df5_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.8.0.RKFMIXM
+- branch: stable
+  date: '2022-06-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-21.06.2022/fw_sweet_miui_SWEETEEAGlobal_V13.0.10.0.SKFEUXM_4ce18080e3_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sweet/fw_sweet_miui_SWEETEEAGlobal_V13.0.10.0.SKFEUXM_4ce18080e3_12.0.zip
+  filename: fw_sweet_miui_SWEETEEAGlobal_V13.0.10.0.SKFEUXM_4ce18080e3_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.10.0.SKFEUXM
+- branch: stable
+  date: '2023-07-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-20.07.2023/fw_sweet_miui_SWEETGlobal_V14.0.4.0.TKFMIXM_8f4f7797e0_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sweet/fw_sweet_miui_SWEETGlobal_V14.0.4.0.TKFMIXM_8f4f7797e0_13.0.zip
+  filename: fw_sweet_miui_SWEETGlobal_V14.0.4.0.TKFMIXM_8f4f7797e0_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TKFMIXM
+- branch: stable
+  date: '2022-08-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-19.08.2022/fw_sweet_miui_SWEETEEAGlobal_V13.0.13.0.SKFEUXM_37e1416a38_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sweet/fw_sweet_miui_SWEETEEAGlobal_V13.0.13.0.SKFEUXM_37e1416a38_12.0.zip
+  filename: fw_sweet_miui_SWEETEEAGlobal_V13.0.13.0.SKFEUXM_37e1416a38_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.13.0.SKFEUXM
+- branch: stable
+  date: '2023-07-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-19.07.2023/fw_sweet_miui_SWEETEEAGlobal_V14.0.5.0.TKFEUXM_0c4ebca0e8_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sweet/fw_sweet_miui_SWEETEEAGlobal_V14.0.5.0.TKFEUXM_0c4ebca0e8_13.0.zip
+  filename: fw_sweet_miui_SWEETEEAGlobal_V14.0.5.0.TKFEUXM_0c4ebca0e8_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TKFEUXM
+- branch: stable
+  date: '2022-01-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-19.01.2022/fw_sweet_miui_SWEETEEAGlobal_V12.5.7.0.RKFEUXM_03d5ef5aec_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETEEAGlobal_V12.5.7.0.RKFEUXM_03d5ef5aec_11.0.zip
+  filename: fw_sweet_miui_SWEETEEAGlobal_V12.5.7.0.RKFEUXM_03d5ef5aec_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.7.0.RKFEUXM
+- branch: stable
+  date: '2023-12-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-18.12.2023/fw_sweet_miui_SWEETEEAGlobal_V14.0.9.0.TKFEUXM_79417d5d99_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sweet/fw_sweet_miui_SWEETEEAGlobal_V14.0.9.0.TKFEUXM_79417d5d99_13.0.zip
+  filename: fw_sweet_miui_SWEETEEAGlobal_V14.0.9.0.TKFEUXM_79417d5d99_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.9.0.TKFEUXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-17.03.2021/fw_sweet_miui_SWEETGlobal_V12.0.6.0.RKFMIXM_d4bf9d26c7_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETGlobal_V12.0.6.0.RKFMIXM_d4bf9d26c7_11.0.zip
+  filename: fw_sweet_miui_SWEETGlobal_V12.0.6.0.RKFMIXM_d4bf9d26c7_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.0.6.0.RKFMIXM
+- branch: stable
+  date: '2023-01-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-17.01.2023/fw_sweet_miui_SWEETEEAGlobal_V13.0.17.0.SKFEUXM_e791b1011e_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sweet/fw_sweet_miui_SWEETEEAGlobal_V13.0.17.0.SKFEUXM_e791b1011e_12.0.zip
+  filename: fw_sweet_miui_SWEETEEAGlobal_V13.0.17.0.SKFEUXM_e791b1011e_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.17.0.SKFEUXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-16.04.2021/fw_sweet_miui_SWEETGlobal_V12.0.12.0.RKFMIXM_dbdf0029df_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETGlobal_V12.0.12.0.RKFMIXM_dbdf0029df_11.0.zip
+  filename: fw_sweet_miui_SWEETGlobal_V12.0.12.0.RKFMIXM_dbdf0029df_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.0.12.0.RKFMIXM
+- branch: stable
+  date: '2023-03-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-16.03.2023/fw_sweet_miui_SWEETGlobal_V14.0.1.0.TKFMIXM_dd214aa68d_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sweet/fw_sweet_miui_SWEETGlobal_V14.0.1.0.TKFMIXM_dd214aa68d_13.0.zip
+  filename: fw_sweet_miui_SWEETGlobal_V14.0.1.0.TKFMIXM_dd214aa68d_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.1.0.TKFMIXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-16.03.2021/fw_sweet_miui_SWEETGlobal_V12.0.1.0.RKFMIXM_32cbe442d4_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETGlobal_V12.0.1.0.RKFMIXM_32cbe442d4_11.0.zip
+  filename: fw_sweet_miui_SWEETGlobal_V12.0.1.0.RKFMIXM_32cbe442d4_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.0.1.0.RKFMIXM
+- branch: stable
+  date: '2021-12-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-14.12.2021/fw_sweet_miui_SWEETGlobal_V12.5.9.0.RKFMIXM_9a9a09a8de_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETGlobal_V12.5.9.0.RKFMIXM_9a9a09a8de_11.0.zip
+  filename: fw_sweet_miui_SWEETGlobal_V12.5.9.0.RKFMIXM_9a9a09a8de_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.9.0.RKFMIXM
+- branch: stable
+  date: '2023-10-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-14.10.2023/fw_sweet_miui_SWEETEEAGlobal_V14.0.6.0.TKFEUXM_a273252490_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sweet/fw_sweet_miui_SWEETEEAGlobal_V14.0.6.0.TKFEUXM_a273252490_13.0.zip
+  filename: fw_sweet_miui_SWEETEEAGlobal_V14.0.6.0.TKFEUXM_a273252490_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TKFEUXM
+- branch: stable
+  date: '2022-10-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-14.10.2022/fw_sweet_miui_SWEETEEAGlobal_V13.0.15.0.SKFEUXM_a3e1874530_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sweet/fw_sweet_miui_SWEETEEAGlobal_V13.0.15.0.SKFEUXM_a3e1874530_12.0.zip
+  filename: fw_sweet_miui_SWEETEEAGlobal_V13.0.15.0.SKFEUXM_a3e1874530_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.15.0.SKFEUXM
+- branch: stable
+  date: '2022-04-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-14.04.2022/fw_sweet_miui_SWEETEEAGlobal_V13.0.8.0.SKFEUXM_690f890203_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sweet/fw_sweet_miui_SWEETEEAGlobal_V13.0.8.0.SKFEUXM_690f890203_12.0.zip
+  filename: fw_sweet_miui_SWEETEEAGlobal_V13.0.8.0.SKFEUXM_690f890203_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.8.0.SKFEUXM
+- branch: stable
+  date: '2021-08-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-13.08.2021/fw_sweet_miui_SWEETEEAGlobal_V12.5.4.0.RKFEUXM_ffb48eb125_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETEEAGlobal_V12.5.4.0.RKFEUXM_ffb48eb125_11.0.zip
+  filename: fw_sweet_miui_SWEETEEAGlobal_V12.5.4.0.RKFEUXM_ffb48eb125_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RKFEUXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-12.04.2021/fw_sweet_miui_SWEETEEAGlobal_V12.0.13.0.RKFEUXM_9fd58b7ea4_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETEEAGlobal_V12.0.13.0.RKFEUXM_9fd58b7ea4_11.0.zip
+  filename: fw_sweet_miui_SWEETEEAGlobal_V12.0.13.0.RKFEUXM_9fd58b7ea4_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.0.13.0.RKFEUXM
+- branch: stable
+  date: '2021-05-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-10.05.2021/fw_sweet_miui_SWEETEEAGlobal_V12.0.16.0.RKFEUXM_1a28feefd0_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETEEAGlobal_V12.0.16.0.RKFEUXM_1a28feefd0_11.0.zip
+  filename: fw_sweet_miui_SWEETEEAGlobal_V12.0.16.0.RKFEUXM_1a28feefd0_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.0.16.0.RKFEUXM
+- branch: stable
+  date: '2021-05-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-10.05.2021/fw_sweet_miui_SWEETGlobal_V12.0.15.0.RKFMIXM_7b4c843ba4_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETGlobal_V12.0.15.0.RKFMIXM_7b4c843ba4_11.0.zip
+  filename: fw_sweet_miui_SWEETGlobal_V12.0.15.0.RKFMIXM_7b4c843ba4_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.0.15.0.RKFMIXM
+- branch: stable
+  date: '2021-06-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-09.06.2021/fw_sweet_miui_SWEETGlobal_V12.5.3.0.RKFMIXM_0788aca67c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETGlobal_V12.5.3.0.RKFMIXM_0788aca67c_11.0.zip
+  filename: fw_sweet_miui_SWEETGlobal_V12.5.3.0.RKFMIXM_0788aca67c_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RKFMIXM
+- branch: stable
+  date: '2022-12-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-08.12.2022/fw_sweet_miui_SWEETEEAGlobal_V13.0.16.0.SKFEUXM_37bbd7e56e_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sweet/fw_sweet_miui_SWEETEEAGlobal_V13.0.16.0.SKFEUXM_37bbd7e56e_12.0.zip
+  filename: fw_sweet_miui_SWEETEEAGlobal_V13.0.16.0.SKFEUXM_37bbd7e56e_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.16.0.SKFEUXM
+- branch: stable
+  date: '2022-12-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-08.12.2022/fw_sweet_miui_SWEETGlobal_V13.0.15.0.SKFMIXM_872d66a0a6_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sweet/fw_sweet_miui_SWEETGlobal_V13.0.15.0.SKFMIXM_872d66a0a6_12.0.zip
+  filename: fw_sweet_miui_SWEETGlobal_V13.0.15.0.SKFMIXM_872d66a0a6_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.15.0.SKFMIXM
+- branch: stable
+  date: '2023-11-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-06.11.2023/fw_sweet_miui_SWEETGlobal_V14.0.8.0.TKFMIXM_3e19ed98ed_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sweet/fw_sweet_miui_SWEETGlobal_V14.0.8.0.TKFMIXM_3e19ed98ed_13.0.zip
+  filename: fw_sweet_miui_SWEETGlobal_V14.0.8.0.TKFMIXM_3e19ed98ed_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.8.0.TKFMIXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-06.03.2021/fw_sweet_miui_SWEETEEAGlobal_V12.0.3.0.RKFEUXM_403495b64c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETEEAGlobal_V12.0.3.0.RKFEUXM_403495b64c_11.0.zip
+  filename: fw_sweet_miui_SWEETEEAGlobal_V12.0.3.0.RKFEUXM_403495b64c_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.0.3.0.RKFEUXM
+- branch: stable
+  date: '2022-05-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-05.05.2022/fw_sweet_miui_SWEETGlobal_V13.0.7.0.SKFMIXM_8101dff359_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sweet/fw_sweet_miui_SWEETGlobal_V13.0.7.0.SKFMIXM_8101dff359_12.0.zip
+  filename: fw_sweet_miui_SWEETGlobal_V13.0.7.0.SKFMIXM_8101dff359_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.7.0.SKFMIXM
+- branch: stable
+  date: '2021-06-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-04.06.2021/fw_sweet_miui_SWEETEEAGlobal_V12.5.2.0.RKFEUXM_c329118eb2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETEEAGlobal_V12.5.2.0.RKFEUXM_c329118eb2_11.0.zip
+  filename: fw_sweet_miui_SWEETEEAGlobal_V12.5.2.0.RKFEUXM_c329118eb2_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RKFEUXM
+- branch: stable
+  date: '2021-11-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-02.11.2021/fw_sweet_miui_SWEETEEAGlobal_V12.5.6.0.RKFEUXM_8b336d066c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETEEAGlobal_V12.5.6.0.RKFEUXM_8b336d066c_11.0.zip
+  filename: fw_sweet_miui_SWEETEEAGlobal_V12.5.6.0.RKFEUXM_8b336d066c_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.6.0.RKFEUXM
+- branch: stable
+  date: '2021-08-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-02.08.2021/fw_sweet_miui_SWEETGlobal_V12.5.6.0.RKFMIXM_dbe755ebdf_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETGlobal_V12.5.6.0.RKFMIXM_dbe755ebdf_11.0.zip
+  filename: fw_sweet_miui_SWEETGlobal_V12.5.6.0.RKFMIXM_dbe755ebdf_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.6.0.RKFMIXM
+- branch: stable
+  date: '2021-07-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-02.07.2021/fw_sweet_miui_SWEETEEAGlobal_V12.5.3.0.RKFEUXM_dc8f116d70_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETEEAGlobal_V12.5.3.0.RKFEUXM_dc8f116d70_11.0.zip
+  filename: fw_sweet_miui_SWEETEEAGlobal_V12.5.3.0.RKFEUXM_dc8f116d70_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RKFEUXM
+- branch: stable
+  date: '2021-07-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-02.07.2021/fw_sweet_miui_SWEETGlobal_V12.5.4.0.RKFMIXM_4c15a9c8b3_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETGlobal_V12.5.4.0.RKFMIXM_4c15a9c8b3_11.0.zip
+  filename: fw_sweet_miui_SWEETGlobal_V12.5.4.0.RKFMIXM_4c15a9c8b3_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RKFMIXM
+- branch: stable
+  date: '2023-02-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-02.02.2023/fw_sweet_miui_SWEETGlobal_V13.0.16.0.SKFMIXM_0f3eb965ad_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sweet/fw_sweet_miui_SWEETGlobal_V13.0.16.0.SKFMIXM_0f3eb965ad_12.0.zip
+  filename: fw_sweet_miui_SWEETGlobal_V13.0.16.0.SKFMIXM_0f3eb965ad_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.16.0.SKFMIXM

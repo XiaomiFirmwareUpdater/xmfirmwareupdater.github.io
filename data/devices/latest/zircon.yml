@@ -1,1 +1,40 @@
-[]
+- branch: stable
+  date: '2025-07-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-28.07.2025/fw_zircon_global_zircon_global-ota_full-OS2.0.202.0.VNOMIXM-user-15.0-07d0d37757.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zircon/fw_zircon_global_zircon_global-ota_full-OS2.0.202.0.VNOMIXM-user-15.0-07d0d37757.zip
+  filename: fw_zircon_global_zircon_global-ota_full-OS2.0.202.0.VNOMIXM-user-15.0-07d0d37757.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.202.0.VNOMIXM
+- branch: stable
+  date: '2025-06-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-30.06.2025/fw_zircon_zircon-ota_full-OS2.0.202.0.VNOCNXM-user-15.0-bbf917626e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zircon/fw_zircon_zircon-ota_full-OS2.0.202.0.VNOCNXM-user-15.0-bbf917626e.zip
+  filename: fw_zircon_zircon-ota_full-OS2.0.202.0.VNOCNXM-user-15.0-bbf917626e.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.202.0.VNOCNXM
+- branch: stable
+  date: '2025-07-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-07.07.2025/fw_zircon_eea_global_zircon_eea_global-ota_full-OS2.0.201.0.VNOEUXM-user-15.0-7f37969cc9.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zircon/fw_zircon_eea_global_zircon_eea_global-ota_full-OS2.0.201.0.VNOEUXM-user-15.0-7f37969cc9.zip
+  filename: fw_zircon_eea_global_zircon_eea_global-ota_full-OS2.0.201.0.VNOEUXM-user-15.0-7f37969cc9.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.201.0.VNOEUXM
+- branch: stable
+  date: '2025-07-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-11.07.2025/fw_zircon_in_global_zircon_in_global-ota_full-OS2.0.203.0.VNOINXM-user-15.0-54440c7f4f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zircon/fw_zircon_in_global_zircon_in_global-ota_full-OS2.0.203.0.VNOINXM-user-15.0-54440c7f4f.zip
+  filename: fw_zircon_in_global_zircon_in_global-ota_full-OS2.0.203.0.VNOINXM-user-15.0-54440c7f4f.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.203.0.VNOINXM

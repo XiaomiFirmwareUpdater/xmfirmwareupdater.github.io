@@ -1,1 +1,200 @@
-[]
+- branch: stable
+  date: '2025-03-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-30.03.2025/fw_thor_thor-ota_full-OS2.0.10.0.VLACNXM-user-15.0-4c8b52bbe3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/thor/fw_thor_thor-ota_full-OS2.0.10.0.VLACNXM-user-15.0-4c8b52bbe3.zip
+  filename: fw_thor_thor-ota_full-OS2.0.10.0.VLACNXM-user-15.0-4c8b52bbe3.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.10.0.VLACNXM
+- branch: stable
+  date: '2024-01-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-29.01.2024/fw_thor_miui_THOR_OS1.0.4.0.ULACNXM_12b58f6ae6_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/thor/fw_thor_miui_THOR_OS1.0.4.0.ULACNXM_12b58f6ae6_14.0.zip
+  filename: fw_thor_miui_THOR_OS1.0.4.0.ULACNXM_12b58f6ae6_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.ULACNXM
+- branch: stable
+  date: '2025-07-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-25.07.2025/fw_thor_thor-ota_full-OS2.0.202.0.VLACNXM-user-15.0-37c12a186d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/thor/fw_thor_thor-ota_full-OS2.0.202.0.VLACNXM-user-15.0-37c12a186d.zip
+  filename: fw_thor_thor-ota_full-OS2.0.202.0.VLACNXM-user-15.0-37c12a186d.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.202.0.VLACNXM
+- branch: stable
+  date: '2022-10-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-24.10.2022/fw_thor_miui_THOR_V13.0.11.0.SLACNXM_bc8999b368_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/thor/fw_thor_miui_THOR_V13.0.11.0.SLACNXM_bc8999b368_12.0.zip
+  filename: fw_thor_miui_THOR_V13.0.11.0.SLACNXM_bc8999b368_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.11.0.SLACNXM
+- branch: stable
+  date: '2024-10-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-23.10.2024/fw_thor_miui_THOR_OS1.0.10.0.ULACNXM_5fc2f218ab_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/thor/fw_thor_miui_THOR_OS1.0.10.0.ULACNXM_5fc2f218ab_14.0.zip
+  filename: fw_thor_miui_THOR_OS1.0.10.0.ULACNXM_5fc2f218ab_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.10.0.ULACNXM
+- branch: stable
+  date: '2024-09-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-21.09.2024/fw_thor_miui_THOR_OS1.0.8.0.ULACNXM_2fdf7fa07d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/thor/fw_thor_miui_THOR_OS1.0.8.0.ULACNXM_2fdf7fa07d_14.0.zip
+  filename: fw_thor_miui_THOR_OS1.0.8.0.ULACNXM_2fdf7fa07d_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.8.0.ULACNXM
+- branch: stable
+  date: '2025-06-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-20.06.2025/fw_thor_thor-ota_full-OS2.0.13.0.VLACNXM-user-15.0-85a03aebe3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/thor/fw_thor_thor-ota_full-OS2.0.13.0.VLACNXM-user-15.0-85a03aebe3.zip
+  filename: fw_thor_thor-ota_full-OS2.0.13.0.VLACNXM-user-15.0-85a03aebe3.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.13.0.VLACNXM
+- branch: stable
+  date: '2023-12-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-18.12.2023/fw_thor_miui_THOR_V14.0.15.0.TLACNXM_e42922877b_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/thor/fw_thor_miui_THOR_V14.0.15.0.TLACNXM_e42922877b_13.0.zip
+  filename: fw_thor_miui_THOR_V14.0.15.0.TLACNXM_e42922877b_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.15.0.TLACNXM
+- branch: stable
+  date: '2024-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-18.04.2024/fw_thor_miui_THOR_OS1.0.5.0.ULACNXM_5282e8adc1_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/thor/fw_thor_miui_THOR_OS1.0.5.0.ULACNXM_5282e8adc1_14.0.zip
+  filename: fw_thor_miui_THOR_OS1.0.5.0.ULACNXM_5282e8adc1_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.5.0.ULACNXM
+- branch: stable
+  date: '2024-08-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-17.08.2024/fw_thor_miui_THOR_OS1.0.7.0.ULACNXM_3300674e49_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/thor/fw_thor_miui_THOR_OS1.0.7.0.ULACNXM_3300674e49_14.0.zip
+  filename: fw_thor_miui_THOR_OS1.0.7.0.ULACNXM_3300674e49_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.7.0.ULACNXM
+- branch: stable
+  date: '2023-03-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-15.03.2023/fw_thor_miui_THOR_V14.0.10.0.TLACNXM_44494aa81d_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/thor/fw_thor_miui_THOR_V14.0.10.0.TLACNXM_44494aa81d_13.0.zip
+  filename: fw_thor_miui_THOR_V14.0.10.0.TLACNXM_44494aa81d_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.10.0.TLACNXM
+- branch: stable
+  date: '2023-01-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-15.01.2023/fw_thor_miui_THOR_V14.0.5.0.TLACNXM_5c17bcc84b_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/thor/fw_thor_miui_THOR_V14.0.5.0.TLACNXM_5c17bcc84b_13.0.zip
+  filename: fw_thor_miui_THOR_V14.0.5.0.TLACNXM_5c17bcc84b_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TLACNXM
+- branch: stable
+  date: '2022-08-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-12.08.2022/fw_thor_miui_THOR_V13.0.8.0.SLACNXM_4ea300db1b_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/thor/fw_thor_miui_THOR_V13.0.8.0.SLACNXM_4ea300db1b_12.0.zip
+  filename: fw_thor_miui_THOR_V13.0.8.0.SLACNXM_4ea300db1b_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.8.0.SLACNXM
+- branch: stable
+  date: '2024-12-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-09.12.2024/fw_thor_miui_THOR_OS1.0.14.0.ULACNXM_f5e17ed08d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/thor/fw_thor_miui_THOR_OS1.0.14.0.ULACNXM_f5e17ed08d_14.0.zip
+  filename: fw_thor_miui_THOR_OS1.0.14.0.ULACNXM_f5e17ed08d_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.14.0.ULACNXM
+- branch: stable
+  date: '2025-03-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-07.03.2025/fw_thor_thor-ota_full-OS2.0.4.0.VLACNXM-user-15.0-3b592783d4.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/thor/fw_thor_thor-ota_full-OS2.0.4.0.VLACNXM-user-15.0-3b592783d4.zip
+  filename: fw_thor_thor-ota_full-OS2.0.4.0.VLACNXM-user-15.0-3b592783d4.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.4.0.VLACNXM
+- branch: stable
+  date: '2025-01-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-07.01.2025/fw_thor_miui_THOR_OS1.0.16.0.ULACNXM_2d1b0e6d67_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/thor/fw_thor_miui_THOR_OS1.0.16.0.ULACNXM_2d1b0e6d67_14.0.zip
+  filename: fw_thor_miui_THOR_OS1.0.16.0.ULACNXM_2d1b0e6d67_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.16.0.ULACNXM
+- branch: stable
+  date: '2025-05-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-06.05.2025/fw_thor_thor-ota_full-OS2.0.12.0.VLACNXM-user-15.0-b2338392ee.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/thor/fw_thor_thor-ota_full-OS2.0.12.0.VLACNXM-user-15.0-b2338392ee.zip
+  filename: fw_thor_thor-ota_full-OS2.0.12.0.VLACNXM-user-15.0-b2338392ee.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.12.0.VLACNXM
+- branch: stable
+  date: '2025-02-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-06.02.2025/fw_thor_thor-ota_full-OS2.0.1.0.VLACNXM-user-15.0-8ebdc506ad.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/thor/fw_thor_thor-ota_full-OS2.0.1.0.VLACNXM-user-15.0-8ebdc506ad.zip
+  filename: fw_thor_thor-ota_full-OS2.0.1.0.VLACNXM-user-15.0-8ebdc506ad.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.1.0.VLACNXM
+- branch: stable
+  date: '2023-10-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-03.10.2023/fw_thor_miui_THOR_V14.0.14.0.TLACNXM_675baff4c1_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/thor/fw_thor_miui_THOR_V14.0.14.0.TLACNXM_675baff4c1_13.0.zip
+  filename: fw_thor_miui_THOR_V14.0.14.0.TLACNXM_675baff4c1_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.14.0.TLACNXM
+- branch: stable
+  date: '2024-08-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-03.08.2024/fw_thor_miui_THOR_OS1.0.6.0.ULACNXM_99e5738060_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/thor/fw_thor_miui_THOR_OS1.0.6.0.ULACNXM_99e5738060_14.0.zip
+  filename: fw_thor_miui_THOR_OS1.0.6.0.ULACNXM_99e5738060_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.6.0.ULACNXM

@@ -1,1 +1,180 @@
-[]
+- branch: stable
+  date: '2025-03-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-31.03.2025/fw_lake_miui_LAKEEEAGlobal_OS1.0.8.0.UGTEUXM_417bdb121d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/lake/fw_lake_miui_LAKEEEAGlobal_OS1.0.8.0.UGTEUXM_417bdb121d_14.0.zip
+  filename: fw_lake_miui_LAKEEEAGlobal_OS1.0.8.0.UGTEUXM_417bdb121d_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.8.0.UGTEUXM
+- branch: stable
+  date: '2024-09-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-30.09.2024/fw_lake_miui_LAKEGlobal_OS1.0.6.0.UGTMIXM_f4d94f023d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/lake/fw_lake_miui_LAKEGlobal_OS1.0.6.0.UGTMIXM_f4d94f023d_14.0.zip
+  filename: fw_lake_miui_LAKEGlobal_OS1.0.6.0.UGTMIXM_f4d94f023d_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.6.0.UGTMIXM
+- branch: stable
+  date: '2024-10-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-29.10.2024/fw_lake_miui_LAKEEEAGlobal_OS1.0.5.0.UGTEUXM_651b9e2c99_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/lake/fw_lake_miui_LAKEEEAGlobal_OS1.0.5.0.UGTEUXM_651b9e2c99_14.0.zip
+  filename: fw_lake_miui_LAKEEEAGlobal_OS1.0.5.0.UGTEUXM_651b9e2c99_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.5.0.UGTEUXM
+- branch: stable
+  date: '2024-10-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-29.10.2024/fw_lake_miui_LAKEGlobal_OS1.0.9.0.UGTMIXM_32bfceef6d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/lake/fw_lake_miui_LAKEGlobal_OS1.0.9.0.UGTMIXM_32bfceef6d_14.0.zip
+  filename: fw_lake_miui_LAKEGlobal_OS1.0.9.0.UGTMIXM_32bfceef6d_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.9.0.UGTMIXM
+- branch: stable
+  date: '2024-09-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-25.09.2024/fw_lake_miui_LAKEGlobal_OS1.0.5.0.UGTMIXM_99d12c8d45_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/lake/fw_lake_miui_LAKEGlobal_OS1.0.5.0.UGTMIXM_99d12c8d45_14.0.zip
+  filename: fw_lake_miui_LAKEGlobal_OS1.0.5.0.UGTMIXM_99d12c8d45_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.5.0.UGTMIXM
+- branch: stable
+  date: '2025-07-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-25.07.2025/fw_lake_global_lake_global-ota_full-OS2.0.4.0.VGTMIXM-user-15.0-6df1d5e03a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lake/fw_lake_global_lake_global-ota_full-OS2.0.4.0.VGTMIXM-user-15.0-6df1d5e03a.zip
+  filename: fw_lake_global_lake_global-ota_full-OS2.0.4.0.VGTMIXM-user-15.0-6df1d5e03a.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.4.0.VGTMIXM
+- branch: stable
+  date: '2024-12-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-19.12.2024/fw_lake_miui_LAKEEEAGlobal_OS1.0.6.0.UGTEUXM_fada46d343_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/lake/fw_lake_miui_LAKEEEAGlobal_OS1.0.6.0.UGTEUXM_fada46d343_14.0.zip
+  filename: fw_lake_miui_LAKEEEAGlobal_OS1.0.6.0.UGTEUXM_fada46d343_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.6.0.UGTEUXM
+- branch: stable
+  date: '2025-01-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-16.01.2025/fw_lake_miui_LAKEGlobal_OS1.0.11.0.UGTMIXM_6de4047946_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/lake/fw_lake_miui_LAKEGlobal_OS1.0.11.0.UGTMIXM_6de4047946_14.0.zip
+  filename: fw_lake_miui_LAKEGlobal_OS1.0.11.0.UGTMIXM_6de4047946_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.11.0.UGTMIXM
+- branch: stable
+  date: '2025-05-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-12.05.2025/fw_lake_global_lake_global-ota_full-OS2.0.1.0.VGTMIXM-user-15.0-0b7da9e179.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lake/fw_lake_global_lake_global-ota_full-OS2.0.1.0.VGTMIXM-user-15.0-0b7da9e179.zip
+  filename: fw_lake_global_lake_global-ota_full-OS2.0.1.0.VGTMIXM-user-15.0-0b7da9e179.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.1.0.VGTMIXM
+- branch: stable
+  date: '2025-06-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-11.06.2025/fw_lake_global_lake_global-ota_full-OS2.0.3.0.VGTMIXM-user-15.0-b69c2238cb.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lake/fw_lake_global_lake_global-ota_full-OS2.0.3.0.VGTMIXM-user-15.0-b69c2238cb.zip
+  filename: fw_lake_global_lake_global-ota_full-OS2.0.3.0.VGTMIXM-user-15.0-b69c2238cb.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.3.0.VGTMIXM
+- branch: stable
+  date: '2025-02-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-10.02.2025/fw_lake_miui_LAKEEEAGlobal_OS1.0.7.0.UGTEUXM_1158150761_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/lake/fw_lake_miui_LAKEEEAGlobal_OS1.0.7.0.UGTEUXM_1158150761_14.0.zip
+  filename: fw_lake_miui_LAKEEEAGlobal_OS1.0.7.0.UGTEUXM_1158150761_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.7.0.UGTEUXM
+- branch: stable
+  date: '2025-06-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-09.06.2025/fw_lake_miui_LAKEEEAGlobal_OS1.0.9.0.UGTEUXM_e2c155ba02_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/lake/fw_lake_miui_LAKEEEAGlobal_OS1.0.9.0.UGTEUXM_e2c155ba02_14.0.zip
+  filename: fw_lake_miui_LAKEEEAGlobal_OS1.0.9.0.UGTEUXM_e2c155ba02_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.9.0.UGTEUXM
+- branch: stable
+  date: '2024-10-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-08.10.2024/fw_lake_miui_LAKEEEAGlobal_OS1.0.4.0.UGTEUXM_3000f18ca6_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/lake/fw_lake_miui_LAKEEEAGlobal_OS1.0.4.0.UGTEUXM_3000f18ca6_14.0.zip
+  filename: fw_lake_miui_LAKEEEAGlobal_OS1.0.4.0.UGTEUXM_3000f18ca6_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UGTEUXM
+- branch: stable
+  date: '2025-07-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-07.07.2025/fw_lake_eea_global_lake_eea_global-ota_full-OS2.0.202.0.VGTEUXM-user-15.0-54fb735326.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lake/fw_lake_eea_global_lake_eea_global-ota_full-OS2.0.202.0.VGTEUXM-user-15.0-54fb735326.zip
+  filename: fw_lake_eea_global_lake_eea_global-ota_full-OS2.0.202.0.VGTEUXM-user-15.0-54fb735326.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.202.0.VGTEUXM
+- branch: stable
+  date: '2024-09-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-05.09.2024/fw_lake_miui_LAKEGlobal_OS1.0.4.0.UGTMIXM_3001eee04b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/lake/fw_lake_miui_LAKEGlobal_OS1.0.4.0.UGTMIXM_3001eee04b_14.0.zip
+  filename: fw_lake_miui_LAKEGlobal_OS1.0.4.0.UGTMIXM_3001eee04b_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UGTMIXM
+- branch: stable
+  date: '2024-12-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-03.12.2024/fw_lake_miui_LAKEGlobal_OS1.0.10.0.UGTMIXM_aa1c80c252_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/lake/fw_lake_miui_LAKEGlobal_OS1.0.10.0.UGTMIXM_aa1c80c252_14.0.zip
+  filename: fw_lake_miui_LAKEGlobal_OS1.0.10.0.UGTMIXM_aa1c80c252_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.10.0.UGTMIXM
+- branch: stable
+  date: '2024-10-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-03.10.2024/fw_lake_miui_LAKEEEAGlobal_OS1.0.3.0.UGTEUXM_0a6000233f_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/lake/fw_lake_miui_LAKEEEAGlobal_OS1.0.3.0.UGTEUXM_0a6000233f_14.0.zip
+  filename: fw_lake_miui_LAKEEEAGlobal_OS1.0.3.0.UGTEUXM_0a6000233f_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.UGTEUXM
+- branch: stable
+  date: '2025-04-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-03.04.2025/fw_lake_miui_LAKEGlobal_OS1.0.13.0.UGTMIXM_6472e60862_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/lake/fw_lake_miui_LAKEGlobal_OS1.0.13.0.UGTMIXM_6472e60862_14.0.zip
+  filename: fw_lake_miui_LAKEGlobal_OS1.0.13.0.UGTMIXM_6472e60862_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.13.0.UGTMIXM

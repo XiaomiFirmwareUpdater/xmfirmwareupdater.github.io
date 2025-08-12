@@ -1,1 +1,40 @@
-[]
+- branch: stable
+  date: '2024-12-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-16.12.2024/fw_veux_miui_VEUXGlobal_OS1.0.12.0.TKCMIXM_c42114b47d_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/veux/fw_veux_miui_VEUXGlobal_OS1.0.12.0.TKCMIXM_c42114b47d_13.0.zip
+  filename: fw_veux_miui_VEUXGlobal_OS1.0.12.0.TKCMIXM_c42114b47d_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: OS1.0.12.0.TKCMIXM
+- branch: stable
+  date: '2024-12-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-30.12.2024/fw_veux_miui_VEUX_OS1.0.10.0.TKCCNXM_ab3d587cf1_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/veux/fw_veux_miui_VEUX_OS1.0.10.0.TKCCNXM_ab3d587cf1_13.0.zip
+  filename: fw_veux_miui_VEUX_OS1.0.10.0.TKCCNXM_ab3d587cf1_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: OS1.0.10.0.TKCCNXM
+- branch: stable
+  date: '2025-04-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-07.04.2025/fw_veux_miui_VEUXEEAGlobal_OS1.0.12.0.TKCEUXM_9ebeaa4461_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/veux/fw_veux_miui_VEUXEEAGlobal_OS1.0.12.0.TKCEUXM_9ebeaa4461_13.0.zip
+  filename: fw_veux_miui_VEUXEEAGlobal_OS1.0.12.0.TKCEUXM_9ebeaa4461_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: OS1.0.12.0.TKCEUXM
+- branch: stable
+  date: '2024-12-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-30.12.2024/fw_veux_miui_VEUXINGlobal_OS1.0.9.0.TKCINXM_51ad1ccfae_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/veux/fw_veux_miui_VEUXINGlobal_OS1.0.9.0.TKCINXM_51ad1ccfae_13.0.zip
+  filename: fw_veux_miui_VEUXINGlobal_OS1.0.9.0.TKCINXM_51ad1ccfae_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: OS1.0.9.0.TKCINXM

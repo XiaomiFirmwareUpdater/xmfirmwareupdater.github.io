@@ -1,1 +1,10 @@
-[]
+- branch: stable
+  date: '2025-04-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-14.04.2025/fw_matisse_matisse-ota_full-OS2.0.2.0.ULKCNXM-user-14.0-c6fec65231.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/matisse/fw_matisse_matisse-ota_full-OS2.0.2.0.ULKCNXM-user-14.0-c6fec65231.zip
+  filename: fw_matisse_matisse-ota_full-OS2.0.2.0.ULKCNXM-user-14.0-c6fec65231.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS2.0.2.0.ULKCNXM

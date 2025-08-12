@@ -1,1 +1,840 @@
-[]
+- branch: stable
+  date: '2024-12-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-31.12.2024/fw_marble_miui_MARBLE_OS1.0.14.0.UMRCNXM_7254cbedd7_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLE_OS1.0.14.0.UMRCNXM_7254cbedd7_14.0.zip
+  filename: fw_marble_miui_MARBLE_OS1.0.14.0.UMRCNXM_7254cbedd7_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.14.0.UMRCNXM
+- branch: stable
+  date: '2025-07-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-31.07.2025/fw_marble_eea_global_marble_eea_global-ota_full-OS2.0.204.0.VMREUXM-user-15.0-2425246a29.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/marble/fw_marble_eea_global_marble_eea_global-ota_full-OS2.0.204.0.VMREUXM-user-15.0-2425246a29.zip
+  filename: fw_marble_eea_global_marble_eea_global-ota_full-OS2.0.204.0.VMREUXM-user-15.0-2425246a29.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.204.0.VMREUXM
+- branch: stable
+  date: '2025-07-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-31.07.2025/fw_marble_global_marble_global-ota_full-OS2.0.203.0.VMRMIXM-user-15.0-22893f0590.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/marble/fw_marble_global_marble_global-ota_full-OS2.0.203.0.VMRMIXM-user-15.0-22893f0590.zip
+  filename: fw_marble_global_marble_global-ota_full-OS2.0.203.0.VMRMIXM-user-15.0-22893f0590.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.203.0.VMRMIXM
+- branch: stable
+  date: '2025-03-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-31.03.2025/fw_marble_marble-ota_full-OS2.0.5.0.VMRCNXM-user-15.0-360119838b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/marble/fw_marble_marble-ota_full-OS2.0.5.0.VMRCNXM-user-15.0-360119838b.zip
+  filename: fw_marble_marble-ota_full-OS2.0.5.0.VMRCNXM-user-15.0-360119838b.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.5.0.VMRCNXM
+- branch: stable
+  date: '2024-12-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-30.12.2024/fw_marble_miui_MARBLEEEAGlobal_OS1.0.17.0.UMREUXM_5b9056af0d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEEEAGlobal_OS1.0.17.0.UMREUXM_5b9056af0d_14.0.zip
+  filename: fw_marble_miui_MARBLEEEAGlobal_OS1.0.17.0.UMREUXM_5b9056af0d_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.17.0.UMREUXM
+- branch: stable
+  date: '2024-10-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-30.10.2024/fw_marble_miui_MARBLE_OS1.0.9.0.UMRCNXM_b344a079ab_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLE_OS1.0.9.0.UMRCNXM_b344a079ab_14.0.zip
+  filename: fw_marble_miui_MARBLE_OS1.0.9.0.UMRCNXM_b344a079ab_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.9.0.UMRCNXM
+- branch: stable
+  date: '2025-07-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-30.07.2025/fw_marble_in_global_marble_in_global-ota_full-OS2.0.203.0.VMRINXM-user-15.0-6b46df06bf.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/marble/fw_marble_in_global_marble_in_global-ota_full-OS2.0.203.0.VMRINXM-user-15.0-6b46df06bf.zip
+  filename: fw_marble_in_global_marble_in_global-ota_full-OS2.0.203.0.VMRINXM-user-15.0-6b46df06bf.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.203.0.VMRINXM
+- branch: stable
+  date: '2024-08-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-29.08.2024/fw_marble_miui_MARBLEEEAGlobal_OS1.0.10.0.UMREUXM_bd999cf028_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEEEAGlobal_OS1.0.10.0.UMREUXM_bd999cf028_14.0.zip
+  filename: fw_marble_miui_MARBLEEEAGlobal_OS1.0.10.0.UMREUXM_bd999cf028_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.10.0.UMREUXM
+- branch: stable
+  date: '2024-08-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-29.08.2024/fw_marble_miui_MARBLEGlobal_OS1.0.8.0.UMRMIXM_34e945ae40_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEGlobal_OS1.0.8.0.UMRMIXM_34e945ae40_14.0.zip
+  filename: fw_marble_miui_MARBLEGlobal_OS1.0.8.0.UMRMIXM_34e945ae40_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.8.0.UMRMIXM
+- branch: stable
+  date: '2024-08-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-29.08.2024/fw_marble_miui_MARBLEINGlobal_OS1.0.11.0.UMRINXM_426e58b712_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEINGlobal_OS1.0.11.0.UMRINXM_426e58b712_14.0.zip
+  filename: fw_marble_miui_MARBLEINGlobal_OS1.0.11.0.UMRINXM_426e58b712_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.11.0.UMRINXM
+- branch: stable
+  date: '2025-04-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-29.04.2025/fw_marble_global_marble_global-ota_full-OS2.0.4.0.VMRMIXM-user-15.0-ba378fd07e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/marble/fw_marble_global_marble_global-ota_full-OS2.0.4.0.VMRMIXM-user-15.0-ba378fd07e.zip
+  filename: fw_marble_global_marble_global-ota_full-OS2.0.4.0.VMRMIXM-user-15.0-ba378fd07e.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.4.0.VMRMIXM
+- branch: stable
+  date: '2024-03-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-29.03.2024/fw_marble_miui_MARBLEINGlobal_OS1.0.7.0.UMRINXM_b55585ea9e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEINGlobal_OS1.0.7.0.UMRINXM_b55585ea9e_14.0.zip
+  filename: fw_marble_miui_MARBLEINGlobal_OS1.0.7.0.UMRINXM_b55585ea9e_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.7.0.UMRINXM
+- branch: stable
+  date: '2023-03-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-29.03.2023/fw_marble_miui_MARBLE_V14.0.2.0.TMRCNXM_e73d3a18f4_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLE_V14.0.2.0.TMRCNXM_e73d3a18f4_13.0.zip
+  filename: fw_marble_miui_MARBLE_V14.0.2.0.TMRCNXM_e73d3a18f4_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TMRCNXM
+- branch: stable
+  date: '2025-02-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-28.02.2025/fw_marble_miui_MARBLEEEAGlobal_OS1.0.20.0.UMREUXM_23692e5f5c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEEEAGlobal_OS1.0.20.0.UMREUXM_23692e5f5c_14.0.zip
+  filename: fw_marble_miui_MARBLEEEAGlobal_OS1.0.20.0.UMREUXM_23692e5f5c_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.20.0.UMREUXM
+- branch: stable
+  date: '2024-09-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-26.09.2024/fw_marble_miui_MARBLEEEAGlobal_OS1.0.11.0.UMREUXM_8ab451659b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEEEAGlobal_OS1.0.11.0.UMREUXM_8ab451659b_14.0.zip
+  filename: fw_marble_miui_MARBLEEEAGlobal_OS1.0.11.0.UMREUXM_8ab451659b_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.11.0.UMREUXM
+- branch: stable
+  date: '2024-02-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-26.02.2024/fw_marble_miui_MARBLEGlobal_OS1.0.3.0.UMRMIXM_ff84ee3e8f_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEGlobal_OS1.0.3.0.UMRMIXM_ff84ee3e8f_14.0.zip
+  filename: fw_marble_miui_MARBLEGlobal_OS1.0.3.0.UMRMIXM_ff84ee3e8f_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.UMRMIXM
+- branch: stable
+  date: '2024-11-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-25.11.2024/fw_marble_miui_MARBLEEEAGlobal_OS1.0.15.0.UMREUXM_2250c062f5_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEEEAGlobal_OS1.0.15.0.UMREUXM_2250c062f5_14.0.zip
+  filename: fw_marble_miui_MARBLEEEAGlobal_OS1.0.15.0.UMREUXM_2250c062f5_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.15.0.UMREUXM
+- branch: stable
+  date: '2024-10-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-25.10.2024/fw_marble_miui_MARBLEEEAGlobal_OS1.0.13.0.UMREUXM_951912f408_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEEEAGlobal_OS1.0.13.0.UMREUXM_951912f408_14.0.zip
+  filename: fw_marble_miui_MARBLEEEAGlobal_OS1.0.13.0.UMREUXM_951912f408_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.13.0.UMREUXM
+- branch: stable
+  date: '2024-09-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-25.09.2024/fw_marble_miui_MARBLE_OS1.0.7.0.UMRCNXM_a87408032e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLE_OS1.0.7.0.UMRCNXM_a87408032e_14.0.zip
+  filename: fw_marble_miui_MARBLE_OS1.0.7.0.UMRCNXM_a87408032e_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.7.0.UMRCNXM
+- branch: stable
+  date: '2024-06-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-25.06.2024/fw_marble_miui_MARBLEEEAGlobal_OS1.0.8.0.UMREUXM_c6f0e5cf41_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEEEAGlobal_OS1.0.8.0.UMREUXM_c6f0e5cf41_14.0.zip
+  filename: fw_marble_miui_MARBLEEEAGlobal_OS1.0.8.0.UMREUXM_c6f0e5cf41_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.8.0.UMREUXM
+- branch: stable
+  date: '2023-06-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-25.06.2023/fw_marble_miui_MARBLEEEAGlobal_V14.0.7.0.TMREUXM_6b217a90d3_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEEEAGlobal_V14.0.7.0.TMREUXM_6b217a90d3_13.0.zip
+  filename: fw_marble_miui_MARBLEEEAGlobal_V14.0.7.0.TMREUXM_6b217a90d3_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.7.0.TMREUXM
+- branch: stable
+  date: '2023-06-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-25.06.2023/fw_marble_miui_MARBLEGlobal_V14.0.5.0.TMRMIXM_7c12a4a6ea_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEGlobal_V14.0.5.0.TMRMIXM_7c12a4a6ea_13.0.zip
+  filename: fw_marble_miui_MARBLEGlobal_V14.0.5.0.TMRMIXM_7c12a4a6ea_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TMRMIXM
+- branch: stable
+  date: '2025-07-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-23.07.2025/fw_marble_marble-ota_full-OS2.0.203.0.VMRCNXM-user-15.0-9cd6729f4e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/marble/fw_marble_marble-ota_full-OS2.0.203.0.VMRCNXM-user-15.0-9cd6729f4e.zip
+  filename: fw_marble_marble-ota_full-OS2.0.203.0.VMRCNXM-user-15.0-9cd6729f4e.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.203.0.VMRCNXM
+- branch: stable
+  date: '2025-06-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-23.06.2025/fw_marble_global_marble_global-ota_full-OS2.0.5.0.VMRMIXM-user-15.0-c1aedf24a4.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/marble/fw_marble_global_marble_global-ota_full-OS2.0.5.0.VMRMIXM-user-15.0-c1aedf24a4.zip
+  filename: fw_marble_global_marble_global-ota_full-OS2.0.5.0.VMRMIXM-user-15.0-c1aedf24a4.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.5.0.VMRMIXM
+- branch: stable
+  date: '2025-06-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-23.06.2025/fw_marble_in_global_marble_in_global-ota_full-OS2.0.4.0.VMRINXM-user-15.0-7af4809043.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/marble/fw_marble_in_global_marble_in_global-ota_full-OS2.0.4.0.VMRINXM-user-15.0-7af4809043.zip
+  filename: fw_marble_in_global_marble_in_global-ota_full-OS2.0.4.0.VMRINXM-user-15.0-7af4809043.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.4.0.VMRINXM
+- branch: stable
+  date: '2023-06-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-23.06.2023/fw_marble_miui_MARBLEINGlobal_V14.0.4.0.TMRINXM_f28e3f3c33_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEINGlobal_V14.0.4.0.TMRINXM_f28e3f3c33_13.0.zip
+  filename: fw_marble_miui_MARBLEINGlobal_V14.0.4.0.TMRINXM_f28e3f3c33_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TMRINXM
+- branch: stable
+  date: '2024-02-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-23.02.2024/fw_marble_miui_MARBLE_OS1.0.2.0.UMRCNXM_65288a855a_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLE_OS1.0.2.0.UMRCNXM_65288a855a_14.0.zip
+  filename: fw_marble_miui_MARBLE_OS1.0.2.0.UMRCNXM_65288a855a_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.UMRCNXM
+- branch: stable
+  date: '2023-12-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-22.12.2023/fw_marble_miui_MARBLEEEAGlobal_OS1.0.4.0.UMREUXM_733c4626e6_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEEEAGlobal_OS1.0.4.0.UMREUXM_733c4626e6_14.0.zip
+  filename: fw_marble_miui_MARBLEEEAGlobal_OS1.0.4.0.UMREUXM_733c4626e6_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.4.0.UMREUXM
+- branch: stable
+  date: '2023-08-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-22.08.2023/fw_marble_miui_MARBLEINGlobal_V14.0.5.0.TMRINXM_496883a5c6_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEINGlobal_V14.0.5.0.TMRINXM_496883a5c6_13.0.zip
+  filename: fw_marble_miui_MARBLEINGlobal_V14.0.5.0.TMRINXM_496883a5c6_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TMRINXM
+- branch: stable
+  date: '2023-08-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-21.08.2023/fw_marble_miui_MARBLEEEAGlobal_V14.0.8.0.TMREUXM_f31f7dd9c2_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEEEAGlobal_V14.0.8.0.TMREUXM_f31f7dd9c2_13.0.zip
+  filename: fw_marble_miui_MARBLEEEAGlobal_V14.0.8.0.TMREUXM_f31f7dd9c2_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.8.0.TMREUXM
+- branch: stable
+  date: '2023-10-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-20.10.2023/fw_marble_miui_MARBLEINGlobal_V14.0.6.0.TMRINXM_7cce6c6ef5_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEINGlobal_V14.0.6.0.TMRINXM_7cce6c6ef5_13.0.zip
+  filename: fw_marble_miui_MARBLEINGlobal_V14.0.6.0.TMRINXM_7cce6c6ef5_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TMRINXM
+- branch: stable
+  date: '2023-09-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-19.09.2023/fw_marble_miui_MARBLEEEAGlobal_V14.0.9.0.TMREUXM_5b40c23287_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEEEAGlobal_V14.0.9.0.TMREUXM_5b40c23287_13.0.zip
+  filename: fw_marble_miui_MARBLEEEAGlobal_V14.0.9.0.TMREUXM_5b40c23287_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.9.0.TMREUXM
+- branch: stable
+  date: '2023-09-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-19.09.2023/fw_marble_miui_MARBLEGlobal_V14.0.7.0.TMRMIXM_5bc2ea5402_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEGlobal_V14.0.7.0.TMRMIXM_5bc2ea5402_13.0.zip
+  filename: fw_marble_miui_MARBLEGlobal_V14.0.7.0.TMRMIXM_5bc2ea5402_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.7.0.TMRMIXM
+- branch: stable
+  date: '2024-01-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-19.01.2024/fw_marble_miui_MARBLEINGlobal_OS1.0.5.0.UMRINXM_497e50893d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEINGlobal_OS1.0.5.0.UMRINXM_497e50893d_14.0.zip
+  filename: fw_marble_miui_MARBLEINGlobal_OS1.0.5.0.UMRINXM_497e50893d_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.5.0.UMRINXM
+- branch: stable
+  date: '2023-12-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-18.12.2023/fw_marble_miui_MARBLEGlobal_V14.0.8.0.TMRMIXM_2b4b4a3113_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEGlobal_V14.0.8.0.TMRMIXM_2b4b4a3113_13.0.zip
+  filename: fw_marble_miui_MARBLEGlobal_V14.0.8.0.TMRMIXM_2b4b4a3113_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.8.0.TMRMIXM
+- branch: stable
+  date: '2023-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-18.04.2023/fw_marble_miui_MARBLE_V14.0.16.0.TMRCNXM_af816f3572_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLE_V14.0.16.0.TMRCNXM_af816f3572_13.0.zip
+  filename: fw_marble_miui_MARBLE_V14.0.16.0.TMRCNXM_af816f3572_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.16.0.TMRCNXM
+- branch: stable
+  date: '2023-10-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-17.10.2023/fw_marble_miui_MARBLE_V14.0.25.0.TMRCNXM_9189e7c3a9_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLE_V14.0.25.0.TMRCNXM_9189e7c3a9_13.0.zip
+  filename: fw_marble_miui_MARBLE_V14.0.25.0.TMRCNXM_9189e7c3a9_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.25.0.TMRCNXM
+- branch: stable
+  date: '2024-05-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-17.05.2024/fw_marble_miui_MARBLEEEAGlobal_OS1.0.7.0.UMREUXM_c244889592_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEEEAGlobal_OS1.0.7.0.UMREUXM_c244889592_14.0.zip
+  filename: fw_marble_miui_MARBLEEEAGlobal_OS1.0.7.0.UMREUXM_c244889592_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.7.0.UMREUXM
+- branch: stable
+  date: '2025-03-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-17.03.2025/fw_marble_miui_MARBLE_OS1.0.18.0.UMRCNXM_2ceea3f630_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLE_OS1.0.18.0.UMRCNXM_2ceea3f630_14.0.zip
+  filename: fw_marble_miui_MARBLE_OS1.0.18.0.UMRCNXM_2ceea3f630_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.18.0.UMRCNXM
+- branch: stable
+  date: '2025-05-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-16.05.2025/fw_marble_eea_global_marble_eea_global-ota_full-OS2.0.2.0.VMREUXM-user-15.0-f60b589d4b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/marble/fw_marble_eea_global_marble_eea_global-ota_full-OS2.0.2.0.VMREUXM-user-15.0-f60b589d4b.zip
+  filename: fw_marble_eea_global_marble_eea_global-ota_full-OS2.0.2.0.VMREUXM-user-15.0-f60b589d4b.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.2.0.VMREUXM
+- branch: stable
+  date: '2025-04-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-15.04.2025/fw_marble_miui_MARBLEINGlobal_OS1.0.22.0.UMRINXM_d07d085814_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEINGlobal_OS1.0.22.0.UMRINXM_d07d085814_14.0.zip
+  filename: fw_marble_miui_MARBLEINGlobal_OS1.0.22.0.UMRINXM_d07d085814_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.22.0.UMRINXM
+- branch: stable
+  date: '2024-08-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-14.08.2024/fw_marble_miui_MARBLEGlobal_OS1.0.7.0.UMRMIXM_323d68c175_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEGlobal_OS1.0.7.0.UMRMIXM_323d68c175_14.0.zip
+  filename: fw_marble_miui_MARBLEGlobal_OS1.0.7.0.UMRMIXM_323d68c175_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.7.0.UMRMIXM
+- branch: stable
+  date: '2025-05-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-14.05.2025/fw_marble_marble-ota_full-OS2.0.6.0.VMRCNXM-user-15.0-7799bd2e4d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/marble/fw_marble_marble-ota_full-OS2.0.6.0.VMRCNXM-user-15.0-7799bd2e4d.zip
+  filename: fw_marble_marble-ota_full-OS2.0.6.0.VMRCNXM-user-15.0-7799bd2e4d.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.6.0.VMRCNXM
+- branch: stable
+  date: '2023-08-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-13.08.2023/fw_marble_miui_MARBLEGlobal_V14.0.6.0.TMRMIXM_d2bfe5501e_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEGlobal_V14.0.6.0.TMRMIXM_d2bfe5501e_13.0.zip
+  filename: fw_marble_miui_MARBLEGlobal_V14.0.6.0.TMRMIXM_d2bfe5501e_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TMRMIXM
+- branch: stable
+  date: '2025-06-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-13.06.2025/fw_marble_marble-ota_full-OS2.0.7.0.VMRCNXM-user-15.0-b6d209be60.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/marble/fw_marble_marble-ota_full-OS2.0.7.0.VMRCNXM-user-15.0-b6d209be60.zip
+  filename: fw_marble_marble-ota_full-OS2.0.7.0.VMRCNXM-user-15.0-b6d209be60.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.7.0.VMRCNXM
+- branch: stable
+  date: '2025-02-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-13.02.2025/fw_marble_miui_MARBLEINGlobal_OS1.0.18.0.UMRINXM_f02a1ea925_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEINGlobal_OS1.0.18.0.UMRINXM_f02a1ea925_14.0.zip
+  filename: fw_marble_miui_MARBLEINGlobal_OS1.0.18.0.UMRINXM_f02a1ea925_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.18.0.UMRINXM
+- branch: stable
+  date: '2023-07-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-12.07.2023/fw_marble_miui_MARBLE_V14.0.21.0.TMRCNXM_8aa9899d82_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLE_V14.0.21.0.TMRCNXM_8aa9899d82_13.0.zip
+  filename: fw_marble_miui_MARBLE_V14.0.21.0.TMRCNXM_8aa9899d82_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.21.0.TMRCNXM
+- branch: stable
+  date: '2025-03-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-12.03.2025/fw_marble_miui_MARBLEINGlobal_OS1.0.20.0.UMRINXM_8023e711c2_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEINGlobal_OS1.0.20.0.UMRINXM_8023e711c2_14.0.zip
+  filename: fw_marble_miui_MARBLEINGlobal_OS1.0.20.0.UMRINXM_8023e711c2_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.20.0.UMRINXM
+- branch: stable
+  date: '2025-02-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-12.02.2025/fw_marble_miui_MARBLEEEAGlobal_OS1.0.19.0.UMREUXM_41ff0c8c35_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEEEAGlobal_OS1.0.19.0.UMREUXM_41ff0c8c35_14.0.zip
+  filename: fw_marble_miui_MARBLEEEAGlobal_OS1.0.19.0.UMREUXM_41ff0c8c35_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.19.0.UMREUXM
+- branch: stable
+  date: '2025-02-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-12.02.2025/fw_marble_miui_MARBLEGlobal_OS1.0.15.0.UMRMIXM_34ea320fa2_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEGlobal_OS1.0.15.0.UMRMIXM_34ea320fa2_14.0.zip
+  filename: fw_marble_miui_MARBLEGlobal_OS1.0.15.0.UMRMIXM_34ea320fa2_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.15.0.UMRMIXM
+- branch: stable
+  date: '2025-02-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-12.02.2025/fw_marble_miui_MARBLE_OS1.0.17.0.UMRCNXM_580da257f2_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLE_OS1.0.17.0.UMRCNXM_580da257f2_14.0.zip
+  filename: fw_marble_miui_MARBLE_OS1.0.17.0.UMRCNXM_580da257f2_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.17.0.UMRCNXM
+- branch: stable
+  date: '2024-01-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-12.01.2024/fw_marble_miui_MARBLEGlobal_OS1.0.2.0.UMRMIXM_5e39b4ed67_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEGlobal_OS1.0.2.0.UMRMIXM_5e39b4ed67_14.0.zip
+  filename: fw_marble_miui_MARBLEGlobal_OS1.0.2.0.UMRMIXM_5e39b4ed67_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.2.0.UMRMIXM
+- branch: stable
+  date: '2024-01-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-12.01.2024/fw_marble_miui_MARBLE_V14.0.27.0.TMRCNXM_07a1238ff9_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLE_V14.0.27.0.TMRCNXM_07a1238ff9_13.0.zip
+  filename: fw_marble_miui_MARBLE_V14.0.27.0.TMRCNXM_07a1238ff9_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.27.0.TMRCNXM
+- branch: stable
+  date: '2024-05-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-11.05.2024/fw_marble_miui_MARBLEGlobal_OS1.0.5.0.UMRMIXM_f73d8393bf_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEGlobal_OS1.0.5.0.UMRMIXM_f73d8393bf_14.0.zip
+  filename: fw_marble_miui_MARBLEGlobal_OS1.0.5.0.UMRMIXM_f73d8393bf_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.5.0.UMRMIXM
+- branch: stable
+  date: '2024-05-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-11.05.2024/fw_marble_miui_MARBLEINGlobal_OS1.0.8.0.UMRINXM_3cfd47fff9_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEINGlobal_OS1.0.8.0.UMRINXM_3cfd47fff9_14.0.zip
+  filename: fw_marble_miui_MARBLEINGlobal_OS1.0.8.0.UMRINXM_3cfd47fff9_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.8.0.UMRINXM
+- branch: stable
+  date: '2025-03-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-10.03.2025/fw_marble_miui_MARBLEGlobal_OS1.0.17.0.UMRMIXM_09efd8415e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEGlobal_OS1.0.17.0.UMRMIXM_09efd8415e_14.0.zip
+  filename: fw_marble_miui_MARBLEGlobal_OS1.0.17.0.UMRMIXM_09efd8415e_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.17.0.UMRMIXM
+- branch: stable
+  date: '2024-12-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-09.12.2024/fw_marble_miui_MARBLEINGlobal_OS1.0.15.0.UMRINXM_ec1d808689_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEINGlobal_OS1.0.15.0.UMRINXM_ec1d808689_14.0.zip
+  filename: fw_marble_miui_MARBLEINGlobal_OS1.0.15.0.UMRINXM_ec1d808689_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.15.0.UMRINXM
+- branch: stable
+  date: '2024-12-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-09.12.2024/fw_marble_miui_MARBLE_OS1.0.12.0.UMRCNXM_d8d76fa31c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLE_OS1.0.12.0.UMRCNXM_d8d76fa31c_14.0.zip
+  filename: fw_marble_miui_MARBLE_OS1.0.12.0.UMRCNXM_d8d76fa31c_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.12.0.UMRCNXM
+- branch: stable
+  date: '2024-10-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-09.10.2024/fw_marble_miui_MARBLEINGlobal_OS1.0.12.0.UMRINXM_c49221852e_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEINGlobal_OS1.0.12.0.UMRINXM_c49221852e_14.0.zip
+  filename: fw_marble_miui_MARBLEINGlobal_OS1.0.12.0.UMRINXM_c49221852e_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.12.0.UMRINXM
+- branch: stable
+  date: '2024-08-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-09.08.2024/fw_marble_miui_MARBLEINGlobal_OS1.0.10.0.UMRINXM_2060850bfc_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEINGlobal_OS1.0.10.0.UMRINXM_2060850bfc_14.0.zip
+  filename: fw_marble_miui_MARBLEINGlobal_OS1.0.10.0.UMRINXM_2060850bfc_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.10.0.UMRINXM
+- branch: stable
+  date: '2024-05-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-09.05.2024/fw_marble_miui_MARBLE_OS1.0.3.0.UMRCNXM_20479f8881_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLE_OS1.0.3.0.UMRCNXM_20479f8881_14.0.zip
+  filename: fw_marble_miui_MARBLE_OS1.0.3.0.UMRCNXM_20479f8881_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.3.0.UMRCNXM
+- branch: stable
+  date: '2023-05-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-09.05.2023/fw_marble_miui_MARBLEEEAGlobal_V14.0.6.0.TMREUXM_a36d076463_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEEEAGlobal_V14.0.6.0.TMREUXM_a36d076463_13.0.zip
+  filename: fw_marble_miui_MARBLEEEAGlobal_V14.0.6.0.TMREUXM_a36d076463_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TMREUXM
+- branch: stable
+  date: '2023-05-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-09.05.2023/fw_marble_miui_MARBLEINGlobal_V14.0.3.0.TMRINXM_2f826d56fd_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEINGlobal_V14.0.3.0.TMRINXM_2f826d56fd_13.0.zip
+  filename: fw_marble_miui_MARBLEINGlobal_V14.0.3.0.TMRINXM_2f826d56fd_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TMRINXM
+- branch: stable
+  date: '2024-10-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-08.10.2024/fw_marble_miui_MARBLEGlobal_OS1.0.9.0.UMRMIXM_4cac937698_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEGlobal_OS1.0.9.0.UMRMIXM_4cac937698_14.0.zip
+  filename: fw_marble_miui_MARBLEGlobal_OS1.0.9.0.UMRMIXM_4cac937698_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.9.0.UMRMIXM
+- branch: stable
+  date: '2024-07-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-08.07.2024/fw_marble_miui_MARBLEGlobal_OS1.0.6.0.UMRMIXM_bf30e0baf5_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEGlobal_OS1.0.6.0.UMRMIXM_bf30e0baf5_14.0.zip
+  filename: fw_marble_miui_MARBLEGlobal_OS1.0.6.0.UMRMIXM_bf30e0baf5_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.6.0.UMRMIXM
+- branch: stable
+  date: '2023-06-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-08.06.2023/fw_marble_miui_MARBLE_V14.0.20.0.TMRCNXM_f50020a18f_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLE_V14.0.20.0.TMRCNXM_f50020a18f_13.0.zip
+  filename: fw_marble_miui_MARBLE_V14.0.20.0.TMRCNXM_f50020a18f_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.20.0.TMRCNXM
+- branch: stable
+  date: '2023-05-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-08.05.2023/fw_marble_miui_MARBLEGlobal_V14.0.4.0.TMRMIXM_77ed0ac710_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEGlobal_V14.0.4.0.TMRMIXM_77ed0ac710_13.0.zip
+  filename: fw_marble_miui_MARBLEGlobal_V14.0.4.0.TMRMIXM_77ed0ac710_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TMRMIXM
+- branch: stable
+  date: '2025-01-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-08.01.2025/fw_marble_miui_MARBLEINGlobal_OS1.0.17.0.UMRINXM_3acce875ad_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEINGlobal_OS1.0.17.0.UMRINXM_3acce875ad_14.0.zip
+  filename: fw_marble_miui_MARBLEINGlobal_OS1.0.17.0.UMRINXM_3acce875ad_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.17.0.UMRINXM
+- branch: stable
+  date: '2023-05-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-07.05.2023/fw_marble_miui_MARBLEEEAGlobal_V14.0.2.0.TMREUXM_2b6bb342a9_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEEEAGlobal_V14.0.2.0.TMREUXM_2b6bb342a9_13.0.zip
+  filename: fw_marble_miui_MARBLEEEAGlobal_V14.0.2.0.TMREUXM_2b6bb342a9_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TMREUXM
+- branch: stable
+  date: '2023-05-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-07.05.2023/fw_marble_miui_MARBLEGlobal_V14.0.1.0.TMRMIXM_2805f4cc27_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEGlobal_V14.0.1.0.TMRMIXM_2805f4cc27_13.0.zip
+  filename: fw_marble_miui_MARBLEGlobal_V14.0.1.0.TMRMIXM_2805f4cc27_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.1.0.TMRMIXM
+- branch: stable
+  date: '2023-05-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-07.05.2023/fw_marble_miui_MARBLEINGlobal_V14.0.1.0.TMRINXM_67f467e04d_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEINGlobal_V14.0.1.0.TMRINXM_67f467e04d_13.0.zip
+  filename: fw_marble_miui_MARBLEINGlobal_V14.0.1.0.TMRINXM_67f467e04d_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.1.0.TMRINXM
+- branch: stable
+  date: '2025-04-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-07.04.2025/fw_marble_miui_MARBLEEEAGlobal_OS1.0.22.0.UMREUXM_7ebdefc920_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEEEAGlobal_OS1.0.22.0.UMREUXM_7ebdefc920_14.0.zip
+  filename: fw_marble_miui_MARBLEEEAGlobal_OS1.0.22.0.UMREUXM_7ebdefc920_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.22.0.UMREUXM
+- branch: stable
+  date: '2024-08-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-06.08.2024/fw_marble_miui_MARBLE_OS1.0.5.0.UMRCNXM_76f9ecb72a_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLE_OS1.0.5.0.UMRCNXM_76f9ecb72a_14.0.zip
+  filename: fw_marble_miui_MARBLE_OS1.0.5.0.UMRCNXM_76f9ecb72a_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.5.0.UMRCNXM
+- branch: stable
+  date: '2025-05-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-06.05.2025/fw_marble_in_global_marble_in_global-ota_full-OS2.0.3.0.VMRINXM-user-15.0-18739a277e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/marble/fw_marble_in_global_marble_in_global-ota_full-OS2.0.3.0.VMRINXM-user-15.0-18739a277e.zip
+  filename: fw_marble_in_global_marble_in_global-ota_full-OS2.0.3.0.VMRINXM-user-15.0-18739a277e.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.3.0.VMRINXM
+- branch: stable
+  date: '2025-01-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-06.01.2025/fw_marble_miui_MARBLEGlobal_OS1.0.14.0.UMRMIXM_d0014e432a_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEGlobal_OS1.0.14.0.UMRMIXM_d0014e432a_14.0.zip
+  filename: fw_marble_miui_MARBLEGlobal_OS1.0.14.0.UMRMIXM_d0014e432a_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.14.0.UMRMIXM
+- branch: stable
+  date: '2024-09-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-05.09.2024/fw_marble_miui_MARBLE_OS1.0.6.0.UMRCNXM_3cb03aa779_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLE_OS1.0.6.0.UMRCNXM_3cb03aa779_14.0.zip
+  filename: fw_marble_miui_MARBLE_OS1.0.6.0.UMRCNXM_3cb03aa779_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.6.0.UMRCNXM
+- branch: stable
+  date: '2024-08-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-05.08.2024/fw_marble_miui_MARBLEEEAGlobal_OS1.0.9.0.UMREUXM_fdaf5c8f41_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEEEAGlobal_OS1.0.9.0.UMREUXM_fdaf5c8f41_14.0.zip
+  filename: fw_marble_miui_MARBLEEEAGlobal_OS1.0.9.0.UMREUXM_fdaf5c8f41_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.9.0.UMREUXM
+- branch: stable
+  date: '2024-11-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-04.11.2024/fw_marble_miui_MARBLEGlobal_OS1.0.10.0.UMRMIXM_f2f23aea01_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEGlobal_OS1.0.10.0.UMRMIXM_f2f23aea01_14.0.zip
+  filename: fw_marble_miui_MARBLEGlobal_OS1.0.10.0.UMRMIXM_f2f23aea01_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.10.0.UMRMIXM
+- branch: stable
+  date: '2024-11-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-04.11.2024/fw_marble_miui_MARBLEINGlobal_OS1.0.13.0.UMRINXM_5667388d03_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEINGlobal_OS1.0.13.0.UMRINXM_5667388d03_14.0.zip
+  filename: fw_marble_miui_MARBLEINGlobal_OS1.0.13.0.UMRINXM_5667388d03_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.13.0.UMRINXM
+- branch: stable
+  date: '2024-03-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-04.03.2024/fw_marble_miui_MARBLEEEAGlobal_OS1.0.5.0.UMREUXM_58f0b22821_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEEEAGlobal_OS1.0.5.0.UMREUXM_58f0b22821_14.0.zip
+  filename: fw_marble_miui_MARBLEEEAGlobal_OS1.0.5.0.UMREUXM_58f0b22821_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.5.0.UMREUXM
+- branch: stable
+  date: '2025-04-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-03.04.2025/fw_marble_miui_MARBLEGlobal_OS1.0.18.0.UMRMIXM_7249d26a3a_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEGlobal_OS1.0.18.0.UMRMIXM_7249d26a3a_14.0.zip
+  filename: fw_marble_miui_MARBLEGlobal_OS1.0.18.0.UMRMIXM_7249d26a3a_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.18.0.UMRMIXM
+- branch: stable
+  date: '2024-12-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-02.12.2024/fw_marble_miui_MARBLEGlobal_OS1.0.12.0.UMRMIXM_5f2b552fd2_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEGlobal_OS1.0.12.0.UMRMIXM_5f2b552fd2_14.0.zip
+  filename: fw_marble_miui_MARBLEGlobal_OS1.0.12.0.UMRMIXM_5f2b552fd2_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.12.0.UMRMIXM
+- branch: stable
+  date: '2024-07-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-02.07.2024/fw_marble_miui_MARBLEINGlobal_OS1.0.9.0.UMRINXM_39750c7751_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/marble/fw_marble_miui_MARBLEINGlobal_OS1.0.9.0.UMRINXM_39750c7751_14.0.zip
+  filename: fw_marble_miui_MARBLEINGlobal_OS1.0.9.0.UMRINXM_39750c7751_14.0.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS1.0.9.0.UMRINXM
+- branch: stable
+  date: '2023-05-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-01.05.2023/fw_marble_miui_MARBLE_V14.0.19.0.TMRCNXM_cdffc8d82e_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLE_V14.0.19.0.TMRCNXM_cdffc8d82e_13.0.zip
+  filename: fw_marble_miui_MARBLE_V14.0.19.0.TMRCNXM_cdffc8d82e_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.19.0.TMRCNXM

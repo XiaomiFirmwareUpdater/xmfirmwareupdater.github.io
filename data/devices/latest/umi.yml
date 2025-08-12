@@ -9,15 +9,15 @@
     android: '13.0'
     miui: V14.0.5.0.TJBMIXM
 - branch: stable
-  date: '2021-12-22'
+  date: '2023-05-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-22.12.2021/fw_umi_miui_UMI_V12.5.11.0.RJBCNXM_9e63647935_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMI_V12.5.11.0.RJBCNXM_9e63647935_11.0.zip
-  filename: fw_umi_miui_UMI_V12.5.11.0.RJBCNXM_9e63647935_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-15.05.2023/fw_umi_miui_UMI_V14.0.3.0.TJBCNXM_cb59eddd11_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/umi/fw_umi_miui_UMI_V14.0.3.0.TJBCNXM_cb59eddd11_13.0.zip
+  filename: fw_umi_miui_UMI_V14.0.3.0.TJBCNXM_cb59eddd11_13.0.zip
   region: China
   versions:
-    android: '11.0'
-    miui: V12.5.11.0.RJBCNXM
+    android: '13.0'
+    miui: V14.0.3.0.TJBCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -39,12 +39,12 @@
     android: '13.0'
     miui: V14.0.2.0.TJBEUXM
 - branch: stable
-  date: '2022-04-24'
+  date: '2023-06-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-24.04.2022/fw_umi_miui_UMIINGlobal_V13.0.3.0.SJBINXM_dd98ef8576_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/umi/fw_umi_miui_UMIINGlobal_V13.0.3.0.SJBINXM_dd98ef8576_12.0.zip
-  filename: fw_umi_miui_UMIINGlobal_V13.0.3.0.SJBINXM_dd98ef8576_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-02.06.2023/fw_umi_miui_UMIINGlobal_V14.0.6.0.TJBINXM_5e5f644a80_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/umi/fw_umi_miui_UMIINGlobal_V14.0.6.0.TJBINXM_5e5f644a80_13.0.zip
+  filename: fw_umi_miui_UMIINGlobal_V14.0.6.0.TJBINXM_5e5f644a80_13.0.zip
   region: India
   versions:
-    android: '12.0'
-    miui: V13.0.3.0.SJBINXM
+    android: '13.0'
+    miui: V14.0.6.0.TJBINXM

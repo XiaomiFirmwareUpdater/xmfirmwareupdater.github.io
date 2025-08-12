@@ -1,1 +1,220 @@
-[]
+- branch: weekly
+  date: '2021-10-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/weekly-29.10.2021/fw_mona_miui_MONA_21.10.27_329f9b328d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.27/mona/fw_mona_miui_MONA_21.10.27_329f9b328d_11.0.zip
+  filename: fw_mona_miui_MONA_21.10.27_329f9b328d_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.10.27
+- branch: weekly
+  date: '2021-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/weekly-26.11.2021/fw_mona_miui_MONA_21.11.25_a4871f9efb_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.25/mona/fw_mona_miui_MONA_21.11.25_a4871f9efb_12.0.zip
+  filename: fw_mona_miui_MONA_21.11.25_a4871f9efb_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 21.11.25
+- branch: weekly
+  date: '2022-03-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/weekly-25.03.2022/fw_mona_miui_MONAPRE_22.3.23_2db23136ed_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.23/mona/fw_mona_miui_MONAPRE_22.3.23_2db23136ed_12.0.zip
+  filename: fw_mona_miui_MONAPRE_22.3.23_2db23136ed_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.3.23
+- branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/weekly-25.02.2022/fw_mona_miui_MONAPRE_22.2.23_f2f7b5a6ef_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/mona/fw_mona_miui_MONAPRE_22.2.23_f2f7b5a6ef_12.0.zip
+  filename: fw_mona_miui_MONAPRE_22.2.23_f2f7b5a6ef_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
+- branch: weekly
+  date: '2022-01-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/weekly-21.01.2022/fw_mona_miui_MONAPRE_22.1.19_79f25aee0c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.1.19/mona/fw_mona_miui_MONAPRE_22.1.19_79f25aee0c_12.0.zip
+  filename: fw_mona_miui_MONAPRE_22.1.19_79f25aee0c_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.1.19
+- branch: weekly
+  date: '2021-11-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/weekly-19.11.2021/fw_mona_miui_MONA_21.11.17_a8590745ce_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.17/mona/fw_mona_miui_MONA_21.11.17_a8590745ce_12.0.zip
+  filename: fw_mona_miui_MONA_21.11.17_a8590745ce_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 21.11.17
+- branch: weekly
+  date: '2022-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/weekly-18.02.2022/fw_mona_miui_MONAPRE_22.2.17_452de71163_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.17/mona/fw_mona_miui_MONAPRE_22.2.17_452de71163_12.0.zip
+  filename: fw_mona_miui_MONAPRE_22.2.17_452de71163_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.17
+- branch: weekly
+  date: '2022-02-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/weekly-14.02.2022/fw_mona_miui_MONAPRE_22.2.9_63a0d3ad5b_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.9/mona/fw_mona_miui_MONAPRE_22.2.9_63a0d3ad5b_12.0.zip
+  filename: fw_mona_miui_MONAPRE_22.2.9_63a0d3ad5b_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.9
+- branch: weekly
+  date: '2022-01-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/weekly-14.01.2022/fw_mona_miui_MONAPRE_22.1.13_172bf41114_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.1.13/mona/fw_mona_miui_MONAPRE_22.1.13_172bf41114_12.0.zip
+  filename: fw_mona_miui_MONAPRE_22.1.13_172bf41114_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.1.13
+- branch: weekly
+  date: '2021-12-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/weekly-10.12.2021/fw_mona_miui_MONA_21.12.8_ecf164e27f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.8/mona/fw_mona_miui_MONA_21.12.8_ecf164e27f_12.0.zip
+  filename: fw_mona_miui_MONA_21.12.8_ecf164e27f_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 21.12.8
+- branch: weekly
+  date: '2021-12-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/weekly-04.12.2021/fw_mona_miui_MONA_21.12.1_eb60db5048_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.1/mona/fw_mona_miui_MONA_21.12.1_eb60db5048_12.0.zip
+  filename: fw_mona_miui_MONA_21.12.1_eb60db5048_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 21.12.1
+- branch: weekly
+  date: '2022-03-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/weekly-04.03.2022/fw_mona_miui_MONAPRE_22.3.3_4320e11b63_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.3/mona/fw_mona_miui_MONAPRE_22.3.3_4320e11b63_12.0.zip
+  filename: fw_mona_miui_MONAPRE_22.3.3_4320e11b63_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.3.3
+- branch: stable
+  date: '2022-02-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/stable-28.02.2022/fw_mona_miui_MONA_V13.0.3.0.SKVCNXM_f52499d7bf_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/mona/fw_mona_miui_MONA_V13.0.3.0.SKVCNXM_f52499d7bf_12.0.zip
+  filename: fw_mona_miui_MONA_V13.0.3.0.SKVCNXM_f52499d7bf_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SKVCNXM
+- branch: stable
+  date: '2024-02-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/stable-26.02.2024/fw_mona_miui_MONA_OS1.0.2.0.TKVCNXM_697bd03a16_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/mona/fw_mona_miui_MONA_OS1.0.2.0.TKVCNXM_697bd03a16_13.0.zip
+  filename: fw_mona_miui_MONA_OS1.0.2.0.TKVCNXM_697bd03a16_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: OS1.0.2.0.TKVCNXM
+- branch: stable
+  date: '2023-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/stable-26.02.2023/fw_mona_miui_MONA_V14.0.2.0.TKVCNXM_ad8252fa6b_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mona/fw_mona_miui_MONA_V14.0.2.0.TKVCNXM_ad8252fa6b_13.0.zip
+  filename: fw_mona_miui_MONA_V14.0.2.0.TKVCNXM_ad8252fa6b_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TKVCNXM
+- branch: stable
+  date: '2023-09-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/stable-23.09.2023/fw_mona_miui_MONA_V14.0.6.0.TKVCNXM_2182d8b5d0_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mona/fw_mona_miui_MONA_V14.0.6.0.TKVCNXM_2182d8b5d0_13.0.zip
+  filename: fw_mona_miui_MONA_V14.0.6.0.TKVCNXM_2182d8b5d0_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TKVCNXM
+- branch: stable
+  date: '2021-12-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/stable-20.12.2021/fw_mona_miui_MONA_V12.5.9.0.RKVCNXM_fff41dc658_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/mona/fw_mona_miui_MONA_V12.5.9.0.RKVCNXM_fff41dc658_11.0.zip
+  filename: fw_mona_miui_MONA_V12.5.9.0.RKVCNXM_fff41dc658_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.9.0.RKVCNXM
+- branch: stable
+  date: '2021-11-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/stable-19.11.2021/fw_mona_miui_MONA_V12.5.8.0.RKVCNXM_2720db21d3_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/mona/fw_mona_miui_MONA_V12.5.8.0.RKVCNXM_2720db21d3_11.0.zip
+  filename: fw_mona_miui_MONA_V12.5.8.0.RKVCNXM_2720db21d3_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.8.0.RKVCNXM
+- branch: stable
+  date: '2022-06-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/stable-19.06.2022/fw_mona_miui_MONA_V13.0.5.0.SKVCNXM_6f3078996e_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/mona/fw_mona_miui_MONA_V13.0.5.0.SKVCNXM_6f3078996e_12.0.zip
+  filename: fw_mona_miui_MONA_V13.0.5.0.SKVCNXM_6f3078996e_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SKVCNXM
+- branch: stable
+  date: '2023-06-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/stable-18.06.2023/fw_mona_miui_MONA_V14.0.4.0.TKVCNXM_40da7725be_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mona/fw_mona_miui_MONA_V14.0.4.0.TKVCNXM_40da7725be_13.0.zip
+  filename: fw_mona_miui_MONA_V14.0.4.0.TKVCNXM_40da7725be_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TKVCNXM
+- branch: stable
+  date: '2021-11-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/stable-01.11.2021/fw_mona_miui_MONA_V12.5.7.0.RKVCNXM_ddbe5bce60_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/mona/fw_mona_miui_MONA_V12.5.7.0.RKVCNXM_ddbe5bce60_11.0.zip
+  filename: fw_mona_miui_MONA_V12.5.7.0.RKVCNXM_ddbe5bce60_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.7.0.RKVCNXM
+- branch: stable
+  date: '2022-09-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/stable-01.09.2022/fw_mona_miui_MONA_V13.0.6.0.SKVCNXM_a07bd21017_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/mona/fw_mona_miui_MONA_V13.0.6.0.SKVCNXM_a07bd21017_12.0.zip
+  filename: fw_mona_miui_MONA_V13.0.6.0.SKVCNXM_a07bd21017_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.6.0.SKVCNXM
