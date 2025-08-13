@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 13 Aug 2025 06:44:58 </lastBuildDate>
+        <lastBuildDate>Wed, 13 Aug 2025 12:44:25 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 13T (aristotle) - OS2.0.203.0.VMFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
+            <pubDate>Wed, 13 Aug 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 (fuxi) - OS2.0.104.0.VMCMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
             <pubDate>Wed, 13 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1150,11 +1155,6 @@
             <title>Redmi Pad SE 8.7 5G (flare) - OS2.0.5.0.VHXMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flare/</link>
             <pubDate>Mon, 16 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 (fuxi) - OS2.0.103.0.VMCMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Thu, 12 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.204.0.VNLCNXM</title>

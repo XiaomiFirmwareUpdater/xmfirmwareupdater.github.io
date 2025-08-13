@@ -5010,6 +5010,12 @@
   version: OS1.0.10.0.UMCEUXM
 - android: '15.0'
   codename: fuxi
+  date: '2025-08-13'
+  download: https://bigota.d.miui.com/OS2.0.104.0.VMCMIXM/fw_fuxi_global_fuxi_global-ota_full-OS2.0.104.0.VMCMIXM-user-15.0-babca7fab1.zip
+  name: Xiaomi 13
+  version: OS2.0.104.0.VMCMIXM
+- android: '15.0'
+  codename: fuxi
   date: '2025-06-12'
   download: https://bigota.d.miui.com/OS2.0.103.0.VMCMIXM/fw_fuxi_global_fuxi_global-ota_full-OS2.0.103.0.VMCMIXM-user-15.0-87f25d7732.zip
   name: Xiaomi 13
