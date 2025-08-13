@@ -389,6 +389,36 @@
     android: '13.0'
     miui: V14.0.6.0.TNOCNXM
 - branch: stable
+  date: '2025-08-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-13.08.2025/fw_zircon_eea_global_zircon_eea_global-ota_full-OS2.0.202.0.VNOEUXM-user-15.0-8bfa80eb94.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zircon/fw_zircon_eea_global_zircon_eea_global-ota_full-OS2.0.202.0.VNOEUXM-user-15.0-8bfa80eb94.zip
+  filename: fw_zircon_eea_global_zircon_eea_global-ota_full-OS2.0.202.0.VNOEUXM-user-15.0-8bfa80eb94.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.202.0.VNOEUXM
+- branch: stable
+  date: '2025-08-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-13.08.2025/fw_zircon_in_global_zircon_in_global-ota_full-OS2.0.204.0.VNOINXM-user-15.0-da501ac1d6.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zircon/fw_zircon_in_global_zircon_in_global-ota_full-OS2.0.204.0.VNOINXM-user-15.0-da501ac1d6.zip
+  filename: fw_zircon_in_global_zircon_in_global-ota_full-OS2.0.204.0.VNOINXM-user-15.0-da501ac1d6.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.204.0.VNOINXM
+- branch: stable
+  date: '2025-08-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-13.08.2025/fw_zircon_zircon-ota_full-OS2.0.205.0.VNOCNXM-user-15.0-c446b05fc3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zircon/fw_zircon_zircon-ota_full-OS2.0.205.0.VNOCNXM-user-15.0-c446b05fc3.zip
+  filename: fw_zircon_zircon-ota_full-OS2.0.205.0.VNOCNXM-user-15.0-c446b05fc3.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.205.0.VNOCNXM
+- branch: stable
   date: '2024-08-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-13.08.2024/fw_zircon_miui_ZIRCONINGlobal_OS1.0.9.0.UNOINXM_aed271c5c9_14.0.zip

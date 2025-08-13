@@ -3676,6 +3676,12 @@
   download: https://bigota.d.miui.com/OS2.0.201.0.VNLINXM/fw_duchamp_in_global_duchamp_in_global-ota_full-OS2.0.201.0.VNLINXM-user-15.0-8838bd5bfd.zip
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS2.0.201.0.VNLINXM
+- android: '15.0'
+  codename: duchamp
+  date: '2025-08-13'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VNLCNXM/fw_duchamp_duchamp-ota_full-OS2.0.209.0.VNLCNXM-user-15.0-3089c81490.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS2.0.209.0.VNLCNXM
 - android: '14.0'
   codename: duchamp
   date: '2024-07-13'
@@ -18904,6 +18910,24 @@
   download: https://bigota.d.miui.com/OS1.0.11.0.UNOCNXM/fw_zircon_miui_ZIRCON_OS1.0.11.0.UNOCNXM_69ddd15a3c_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.11.0.UNOCNXM
+- android: '15.0'
+  codename: zircon
+  date: '2025-08-13'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VNOEUXM/fw_zircon_eea_global_zircon_eea_global-ota_full-OS2.0.202.0.VNOEUXM-user-15.0-8bfa80eb94.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS2.0.202.0.VNOEUXM
+- android: '15.0'
+  codename: zircon
+  date: '2025-08-13'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNOINXM/fw_zircon_in_global_zircon_in_global-ota_full-OS2.0.204.0.VNOINXM-user-15.0-da501ac1d6.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS2.0.204.0.VNOINXM
+- android: '15.0'
+  codename: zircon
+  date: '2025-08-13'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VNOCNXM/fw_zircon_zircon-ota_full-OS2.0.205.0.VNOCNXM-user-15.0-c446b05fc3.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS2.0.205.0.VNOCNXM
 - android: '14.0'
   codename: zircon
   date: '2024-08-13'
