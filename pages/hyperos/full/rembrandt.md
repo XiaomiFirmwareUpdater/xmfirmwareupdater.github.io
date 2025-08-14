@@ -52,7 +52,9 @@ permalink: /archive/hyperos/rembrandt/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K60E China</td><td>Stable</td><td>Recovery</td><td>OS2.0.12.0.UMMCNXM</td><td>14.0</td><td>6.1 GB</td><td>2025-07-02</td><td><a href="/hyperos/rembrandt/stable/OS2.0.12.0.UMMCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K60E China</td><td>Stable</td><td>Recovery</td><td>OS2.0.16.0.UMMCNXM</td><td>14.0</td><td>6.1 GB</td><td>2025-08-03</td><td><a href="/hyperos/rembrandt/stable/OS2.0.16.0.UMMCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60E China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.16.0.UMMCNXM</td><td>14.0</td><td>7.2 GB</td><td>2025-08-01</td><td><a href="/hyperos/rembrandt/stable/OS2.0.16.0.UMMCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60E China</td><td>Stable</td><td>Recovery</td><td>OS2.0.12.0.UMMCNXM</td><td>14.0</td><td>6.1 GB</td><td>2025-07-02</td><td><a href="/hyperos/rembrandt/stable/OS2.0.12.0.UMMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60E China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.12.0.UMMCNXM</td><td>14.0</td><td>7.2 GB</td><td>2025-06-13</td><td><a href="/hyperos/rembrandt/stable/OS2.0.12.0.UMMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60E China</td><td>Stable</td><td>Recovery</td><td>OS2.0.11.0.UMMCNXM</td><td>14.0</td><td>6.1 GB</td><td>2025-05-28</td><td><a href="/hyperos/rembrandt/stable/OS2.0.11.0.UMMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60E China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.11.0.UMMCNXM</td><td>14.0</td><td>7.2 GB</td><td>2025-05-20</td><td><a href="/hyperos/rembrandt/stable/OS2.0.11.0.UMMCNXM/">Download</a></td></tr>
@@ -62,20 +64,20 @@ permalink: /archive/hyperos/rembrandt/
 <tr><td>Redmi K60E China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.7.0.UMMCNXM</td><td>14.0</td><td>7.4 GB</td><td>2025-03-19</td><td><a href="/hyperos/rembrandt/stable/OS2.0.7.0.UMMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60E China</td><td>Stable</td><td>Recovery</td><td>OS2.0.4.0.UMMCNXM</td><td>14.0</td><td>6.1 GB</td><td>2025-02-20</td><td><a href="/hyperos/rembrandt/stable/OS2.0.4.0.UMMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60E China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.4.0.UMMCNXM</td><td>14.0</td><td>7.4 GB</td><td>2025-02-12</td><td><a href="/hyperos/rembrandt/stable/OS2.0.4.0.UMMCNXM/">Download</a></td></tr>
-<tr><td>Redmi K60E China</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.UMMCNXM</td><td>14.0</td><td>6.1 GB</td><td>2025-01-26</td><td><a href="/hyperos/rembrandt/stable/OS2.0.3.0.UMMCNXM/">Download</a></td></tr>
-<tr><td>Redmi K60E China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.UMMCNXM</td><td>14.0</td><td>7.4 GB</td><td>2025-01-23</td><td><a href="/hyperos/rembrandt/stable/OS2.0.3.0.UMMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60E China</td><td>Stable</td><td>Recovery</td><td>OS1.0.12.0.UMMCNXM</td><td>14.0</td><td>5.9 GB</td><td>2025-01-15</td><td><a href="/hyperos/rembrandt/stable/OS1.0.12.0.UMMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60E China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.12.0.UMMCNXM</td><td>14.0</td><td>7.2 GB</td><td>2024-12-26</td><td><a href="/hyperos/rembrandt/stable/OS1.0.12.0.UMMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60E China</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UMMCNXM</td><td>14.0</td><td>5.9 GB</td><td>2024-11-29</td><td><a href="/hyperos/rembrandt/stable/OS1.0.11.0.UMMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60E China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UMMCNXM</td><td>14.0</td><td>7.2 GB</td><td>2024-11-19</td><td><a href="/hyperos/rembrandt/stable/OS1.0.11.0.UMMCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60E China</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.UMMCNXM</td><td>14.0</td><td>6.1 GB</td><td>2025-01-26</td><td><a href="/hyperos/rembrandt/stable/OS2.0.3.0.UMMCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60E China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.UMMCNXM</td><td>14.0</td><td>7.4 GB</td><td>2025-01-23</td><td><a href="/hyperos/rembrandt/stable/OS2.0.3.0.UMMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60E China</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.UMMCNXM</td><td>14.0</td><td>5.9 GB</td><td>2024-10-29</td><td><a href="/hyperos/rembrandt/stable/OS1.0.10.0.UMMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60E China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.UMMCNXM</td><td>14.0</td><td>7.2 GB</td><td>2024-10-15</td><td><a href="/hyperos/rembrandt/stable/OS1.0.10.0.UMMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60E China</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UMMCNXM</td><td>14.0</td><td>5.9 GB</td><td>2024-09-29</td><td><a href="/hyperos/rembrandt/stable/OS1.0.9.0.UMMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60E China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.UMMCNXM</td><td>14.0</td><td>7.2 GB</td><td>2024-09-23</td><td><a href="/hyperos/rembrandt/stable/OS1.0.9.0.UMMCNXM/">Download</a></td></tr>
-<tr><td>Redmi K60E China</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UMMCNXM</td><td>14.0</td><td>5.9 GB</td><td>2024-07-30</td><td><a href="/hyperos/rembrandt/stable/OS1.0.6.0.UMMCNXM/">Download</a></td></tr>
-<tr><td>Redmi K60E China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UMMCNXM</td><td>14.0</td><td>7.2 GB</td><td>2024-07-19</td><td><a href="/hyperos/rembrandt/stable/OS1.0.6.0.UMMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60E China</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.UMMCNXM</td><td>14.0</td><td>5.9 GB</td><td>2024-09-04</td><td><a href="/hyperos/rembrandt/stable/OS1.0.8.0.UMMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60E China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.UMMCNXM</td><td>14.0</td><td>7.2 GB</td><td>2024-08-28</td><td><a href="/hyperos/rembrandt/stable/OS1.0.8.0.UMMCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60E China</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UMMCNXM</td><td>14.0</td><td>5.9 GB</td><td>2024-07-30</td><td><a href="/hyperos/rembrandt/stable/OS1.0.6.0.UMMCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60E China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UMMCNXM</td><td>14.0</td><td>7.2 GB</td><td>2024-07-19</td><td><a href="/hyperos/rembrandt/stable/OS1.0.6.0.UMMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60E China</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UMMCNXM</td><td>14.0</td><td>5.9 GB</td><td>2024-05-09</td><td><a href="/hyperos/rembrandt/stable/OS1.0.3.0.UMMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60E China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.UMMCNXM</td><td>14.0</td><td>7.2 GB</td><td>2024-05-06</td><td><a href="/hyperos/rembrandt/stable/OS1.0.3.0.UMMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60E China</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.UMMCNXM</td><td>14.0</td><td>5.9 GB</td><td>2024-04-08</td><td><a href="/hyperos/rembrandt/stable/OS1.0.1.0.UMMCNXM/">Download</a></td></tr>

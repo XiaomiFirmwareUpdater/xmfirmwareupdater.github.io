@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 14 Aug 2025 00:36:22 </lastBuildDate>
+        <lastBuildDate>Thu, 14 Aug 2025 06:44:49 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K60E (rembrandt) - OS2.0.16.0.UMMCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rembrandt/</link>
+            <pubDate>Thu, 14 Aug 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 13T (aristotle) - OS2.0.203.0.VMFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
@@ -794,11 +799,6 @@
         <item>
             <title>Xiaomi 13 Pro (nuwa) - OS2.0.110.0.VMBEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Wed, 16 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60E (rembrandt) - OS2.0.12.0.UMMCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rembrandt/</link>
             <pubDate>Wed, 16 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
