@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 14 Aug 2025 06:44:49 </lastBuildDate>
+        <lastBuildDate>Thu, 14 Aug 2025 12:45:05 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K60E (rembrandt) - OS2.0.16.0.UMMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rembrandt/</link>
+            <pubDate>Thu, 14 Aug 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad 2 (taiko) - OS2.0.203.0.VOVCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
             <pubDate>Thu, 14 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>
