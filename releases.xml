@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 15 Aug 2025 12:37:21 </lastBuildDate>
+        <lastBuildDate>Fri, 15 Aug 2025 19:00:35 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 15S Pro (dijun) - OS2.0.208.0.VODCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dijun/</link>
+            <pubDate>Fri, 15 Aug 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS2.0.206.0.VNQCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/gold/</link>
+            <pubDate>Fri, 15 Aug 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS2.0.9.0.VNQEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/gold/</link>
+            <pubDate>Fri, 15 Aug 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - OS2.0.204.0.VOLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
@@ -462,11 +477,6 @@
             <pubDate>Mon, 28 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS2.0.204.0.VNQCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/gold/</link>
-            <pubDate>Mon, 28 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS2.0.203.0.VMAMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
             <pubDate>Mon, 28 Jul 2025 00:00:00 </pubDate>
@@ -589,11 +599,6 @@
         <item>
             <title>Xiaomi 15 (dada) - OS2.0.214.0.VOCCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dada/</link>
-            <pubDate>Fri, 25 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15S Pro (dijun) - OS2.0.207.0.VODCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dijun/</link>
             <pubDate>Fri, 25 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -994,11 +999,6 @@
         <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS2.0.11.0.VNRMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
-            <pubDate>Fri, 04 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS2.0.8.0.VNQEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/gold/</link>
             <pubDate>Fri, 04 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>

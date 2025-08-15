@@ -399,6 +399,26 @@
     android: '13.0'
     miui: V14.0.7.0.TNQINXM
 - branch: stable
+  date: '2025-08-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-15.08.2025/fw_gold_eea_global_gold_eea_global-ota_full-OS2.0.9.0.VNQEUXM-user-15.0-d9d653792a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gold/fw_gold_eea_global_gold_eea_global-ota_full-OS2.0.9.0.VNQEUXM-user-15.0-d9d653792a.zip
+  filename: fw_gold_eea_global_gold_eea_global-ota_full-OS2.0.9.0.VNQEUXM-user-15.0-d9d653792a.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.9.0.VNQEUXM
+- branch: stable
+  date: '2025-08-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-15.08.2025/fw_gold_gold-ota_full-OS2.0.206.0.VNQCNXM-user-15.0-b725d7238b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gold/fw_gold_gold-ota_full-OS2.0.206.0.VNQCNXM-user-15.0-b725d7238b.zip
+  filename: fw_gold_gold-ota_full-OS2.0.206.0.VNQCNXM-user-15.0-b725d7238b.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.206.0.VNQCNXM
+- branch: stable
   date: '2024-05-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-15.05.2024/fw_gold_miui_GOLDEEAGlobal_OS1.0.8.0.UNQEUXM_d231f817ad_14.0.zip
