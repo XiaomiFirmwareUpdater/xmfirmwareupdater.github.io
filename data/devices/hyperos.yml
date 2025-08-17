@@ -2087,6 +2087,12 @@
   name: Redmi K60 Ultra/Xiaomi 13T Pro
   version: OS2.0.111.0.VMLCNXM
 - android: '15.0'
+  codename: creek
+  date: '2025-08-17'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VBOMIXM/fw_creek_global_creek_global-ota_full-OS2.0.205.0.VBOMIXM-user-15.0-9b32f4c505.zip
+  name: Redmi 15/POCO M7
+  version: OS2.0.205.0.VBOMIXM
+- android: '15.0'
   codename: cupid
   date: '2025-07-31'
   download: https://bigota.d.miui.com/OS2.0.201.0.VLCMIXM/fw_cupid_global_cupid_global-ota_full-OS2.0.201.0.VLCMIXM-user-15.0-971ce20819.zip

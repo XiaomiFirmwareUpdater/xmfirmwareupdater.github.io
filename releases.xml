@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 17 Aug 2025 12:36:22 </lastBuildDate>
+        <lastBuildDate>Sun, 17 Aug 2025 18:42:15 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 15/POCO M7 (creek) - OS2.0.205.0.VBOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/creek/</link>
+            <pubDate>Sun, 17 Aug 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 15S Pro (dijun) - OS2.0.208.0.VODCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dijun/</link>
