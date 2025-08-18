@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 18 Aug 2025 06:44:18 </lastBuildDate>
+        <lastBuildDate>Mon, 18 Aug 2025 12:50:52 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.206.0.VNLEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Mon, 18 Aug 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS2.0.206.0.VNQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gold/</link>
+            <pubDate>Mon, 18 Aug 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad (yunluo) - OS1.0.10.0.ULYINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/yunluo/</link>
             <pubDate>Mon, 18 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1067,11 +1077,6 @@
             <pubDate>Mon, 30 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.201.0.VNLEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Mon, 30 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 14 (houji) - OS2.0.108.0.VNCEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/houji/</link>
             <pubDate>Mon, 30 Jun 2025 00:00:00 </pubDate>
@@ -1440,11 +1445,6 @@
             <title>Xiaomi Civi 1S (zijin) - OS1.0.12.0.ULPCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zijin/</link>
             <pubDate>Mon, 24 Feb 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad (yunluo) - OS1.0.7.0.ULYINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/yunluo/</link>
-            <pubDate>Mon, 10 Feb 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.37.0.TGOMIXM</title>
