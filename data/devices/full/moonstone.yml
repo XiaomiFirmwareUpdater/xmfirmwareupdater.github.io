@@ -309,6 +309,16 @@
     android: '14.0'
     miui: OS1.0.8.0.UMPEUXM
 - branch: stable
+  date: '2025-08-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-18.08.2025/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.21.0.UMPMIXM_42ee7f6b2d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moonstone/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.21.0.UMPMIXM_42ee7f6b2d_14.0.zip
+  filename: fw_moonstone_miui_MOONSTONEGlobal_OS1.0.21.0.UMPMIXM_42ee7f6b2d_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.21.0.UMPMIXM
+- branch: stable
   date: '2025-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-18.04.2025/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.14.0.UMPEUXM_386dd6121e_14.0.zip

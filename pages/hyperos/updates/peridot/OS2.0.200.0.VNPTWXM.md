@@ -3,7 +3,7 @@ title: POCO F6 Taiwan HyperOS OS2.0.200.0.VNPTWXM Update
 layout: download
 name: POCO F6 Taiwan
 codename: peridot
-permalink: /hyperos/peridot/stable beta/OS2.0.200.0.VNPTWXM/
+permalink: /hyperos/peridot/stable/OS2.0.200.0.VNPTWXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/peridot/stable beta/OS2.0.200.0.VNPTWXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.200.0.VNPTWXM Stable Beta Official Update for POCO F6 Taiwan (peridot)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.200.0.VNPTWXM Stable Official Update for POCO F6 Taiwan (peridot)</h3>
     <h5>This page shows the OS2.0.200.0.VNPTWXM update only. If you're looking for other updates check
         <a href="/hyperos/peridot/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/peridot/stable beta/OS2.0.200.0.VNPTWXM/
                     <h5><b>Version: </b>OS2.0.200.0.VNPTWXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/peridot/stable beta/OS2.0.200.0.VNPTWXM/
                             aria-expanded="false" aria-controls="peridot_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="peridot_1_changelog">
+                        <p id="changelog_text">Bug fixes and system optimizations.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>POCO F6 Taiwan</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/peridot/" target="_blank">peridot</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.200.0.VNPTWXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>7.4 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-07-16</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">peridot_tw_global_images_OS2.0.200.0.VNPTWXM_20250716.0000.00_15.0_tw_7c819b6a22.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">7c819b6a2294de5335421a102e2630d6</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.200.0.VNPTWXM/peridot_tw_global_images_OS2.0.200.0.VNPTWXM_20250716.0000.00_15.0_tw_7c819b6a22.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.200.0.VNPTWXM/peridot_tw_global_images_OS2.0.200.0.VNPTWXM_20250716.0000.00_15.0_tw_7c819b6a22.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.200.0.VNPTWXM/peridot_tw_global_images_OS2.0.200.0.VNPTWXM_20250716.0000.00_15.0_tw_7c819b6a22.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.200.0.VNPTWXM/peridot_tw_global_images_OS2.0.200.0.VNPTWXM_20250716.0000.00_15.0_tw_7c819b6a22.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.200.0.VNPTWXM/peridot_tw_global_images_OS2.0.200.0.VNPTWXM_20250716.0000.00_15.0_tw_7c819b6a22.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#peridot_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="peridot_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="peridot_2_changelog">
                         <p id="changelog_text">Bug fixes and system optimizations.</p>
                     </div>
                 </li>
