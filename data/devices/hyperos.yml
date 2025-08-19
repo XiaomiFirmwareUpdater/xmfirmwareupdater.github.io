@@ -17398,6 +17398,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UGVINXM/fw_warm_miui_WARMINGlobal_OS1.0.9.0.UGVINXM_8e6c6ea9f1_14.0.zip
   name: Redmi A4 5G/POCO C75 5G
   version: OS1.0.9.0.UGVINXM
+- android: '15.0'
+  codename: warm
+  date: '2025-08-19'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VGVINXM/fw_warm_in_global_warm_in_global-ota_full-OS2.0.201.0.VGVINXM-user-15.0-6489a1d9d5.zip
+  name: Redmi A4 5G/POCO C75 5G
+  version: OS2.0.201.0.VGVINXM
 - android: '14.0'
   codename: warm
   date: '2024-12-17'
@@ -17782,6 +17788,12 @@
   download: https://bigota.d.miui.com/OS2.0.207.0.VOACNXM/fw_xuanyuan_xuanyuan-ota_full-OS2.0.207.0.VOACNXM-user-15.0-a7c3fb1b3c.zip
   name: Xiaomi 15 Ultra
   version: OS2.0.207.0.VOACNXM
+- android: '15.0'
+  codename: xuanyuan
+  date: '2025-08-19'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VOAINXM/fw_xuanyuan_in_global_xuanyuan_in_global-ota_full-OS2.0.203.0.VOAINXM-user-15.0-931b1df3d0.zip
+  name: Xiaomi 15 Ultra
+  version: OS2.0.203.0.VOAINXM
 - android: '15.0'
   codename: xuanyuan
   date: '2025-07-18'

@@ -6599,15 +6599,15 @@
     android: '13.0'
     miui: OS1.0.3.0.TGDEUXM
 - branch: stable
-  date: '2025-08-04'
+  date: '2025-08-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warm/releases/download/stable-04.08.2025/fw_warm_miui_WARMINGlobal_OS1.0.10.0.UGVINXM_8954f337bf_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/warm/fw_warm_miui_WARMINGlobal_OS1.0.10.0.UGVINXM_8954f337bf_14.0.zip
-  filename: fw_warm_miui_WARMINGlobal_OS1.0.10.0.UGVINXM_8954f337bf_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warm/releases/download/stable-19.08.2025/fw_warm_in_global_warm_in_global-ota_full-OS2.0.201.0.VGVINXM-user-15.0-6489a1d9d5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/warm/fw_warm_in_global_warm_in_global-ota_full-OS2.0.201.0.VGVINXM-user-15.0-6489a1d9d5.zip
+  filename: fw_warm_in_global_warm_in_global-ota_full-OS2.0.201.0.VGVINXM-user-15.0-6489a1d9d5.zip
   region: India
   versions:
-    android: '14.0'
-    miui: OS1.0.10.0.UGVINXM
+    android: '15.0'
+    miui: OS2.0.201.0.VGVINXM
 - branch: stable
   date: '2025-01-23'
   downloads:
@@ -6789,15 +6789,15 @@
     android: '15.0'
     miui: OS2.0.204.0.VOAEUXM
 - branch: stable
-  date: '2025-07-07'
+  date: '2025-08-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xuanyuan/releases/download/stable-07.07.2025/fw_xuanyuan_in_global_xuanyuan_in_global-ota_full-OS2.0.202.0.VOAINXM-user-15.0-5d1e293122.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xuanyuan/fw_xuanyuan_in_global_xuanyuan_in_global-ota_full-OS2.0.202.0.VOAINXM-user-15.0-5d1e293122.zip
-  filename: fw_xuanyuan_in_global_xuanyuan_in_global-ota_full-OS2.0.202.0.VOAINXM-user-15.0-5d1e293122.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xuanyuan/releases/download/stable-19.08.2025/fw_xuanyuan_in_global_xuanyuan_in_global-ota_full-OS2.0.203.0.VOAINXM-user-15.0-931b1df3d0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xuanyuan/fw_xuanyuan_in_global_xuanyuan_in_global-ota_full-OS2.0.203.0.VOAINXM-user-15.0-931b1df3d0.zip
+  filename: fw_xuanyuan_in_global_xuanyuan_in_global-ota_full-OS2.0.203.0.VOAINXM-user-15.0-931b1df3d0.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.202.0.VOAINXM
+    miui: OS2.0.203.0.VOAINXM
 - branch: stable
   date: '2025-06-30'
   downloads:

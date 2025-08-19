@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 19 Aug 2025 00:37:21 </lastBuildDate>
+        <lastBuildDate>Tue, 19 Aug 2025 06:52:36 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi A4 5G/POCO C75 5G (warm) - OS2.0.201.0.VGVINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/warm/</link>
+            <pubDate>Tue, 19 Aug 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.203.0.VOAINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
+            <pubDate>Tue, 19 Aug 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.206.0.VNLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
@@ -294,11 +304,6 @@
         <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS2.0.206.0.VMWEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sky/</link>
-            <pubDate>Mon, 04 Aug 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A4 5G/POCO C75 5G (warm) - OS1.0.10.0.UGVINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/warm/</link>
             <pubDate>Mon, 04 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -994,11 +999,6 @@
         <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.4.0.UMOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Mon, 07 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.202.0.VOAINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Mon, 07 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
