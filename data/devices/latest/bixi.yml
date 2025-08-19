@@ -1,10 +1,1 @@
-- branch: stable
-  date: '2025-08-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bixi/releases/download/stable-04.08.2025/fw_bixi_bixi-ota_full-OS2.0.209.0.VOHCNXM-user-15.0-09739ed7be.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/bixi/fw_bixi_bixi-ota_full-OS2.0.209.0.VOHCNXM-user-15.0-09739ed7be.zip
-  filename: fw_bixi_bixi-ota_full-OS2.0.209.0.VOHCNXM-user-15.0-09739ed7be.zip
-  region: China
-  versions:
-    android: '15.0'
-    miui: OS2.0.209.0.VOHCNXM
+[]

@@ -1498,48 +1498,6 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.VOQINXM/fw_beryl_in_global_beryl_in_global-ota_full-OS2.0.3.0.VOQINXM-user-15.0-b72aeda189.zip
   name: Redmi Note 14 5G/POCO M7 Pro 5G
   version: OS2.0.3.0.VOQINXM
-- android: '15.0'
-  codename: bixi
-  date: '2025-06-26'
-  download: https://bigota.d.miui.com/OS2.0.108.0.VOHCNXM/fw_bixi_bixi-ota_full-OS2.0.108.0.VOHCNXM-user-15.0-95497b9791.zip
-  name: MIX Flip 2
-  version: OS2.0.108.0.VOHCNXM
-- android: '15.0'
-  codename: bixi
-  date: '2025-07-25'
-  download: https://bigota.d.miui.com/OS2.0.208.0.VOHCNXM/fw_bixi_bixi-ota_full-OS2.0.208.0.VOHCNXM-user-15.0-c9b15648b5.zip
-  name: MIX Flip 2
-  version: OS2.0.208.0.VOHCNXM
-- android: '15.0'
-  codename: bixi
-  date: '2025-07-21'
-  download: https://bigota.d.miui.com/OS2.0.207.0.VOHCNXM/fw_bixi_bixi-ota_full-OS2.0.207.0.VOHCNXM-user-15.0-dd88ff181c.zip
-  name: MIX Flip 2
-  version: OS2.0.207.0.VOHCNXM
-- android: '15.0'
-  codename: bixi
-  date: '2025-07-16'
-  download: https://bigota.d.miui.com/OS2.0.206.0.VOHCNXM/fw_bixi_bixi-ota_full-OS2.0.206.0.VOHCNXM-user-15.0-ed079e8d2b.zip
-  name: MIX Flip 2
-  version: OS2.0.206.0.VOHCNXM
-- android: '15.0'
-  codename: bixi
-  date: '2025-07-09'
-  download: https://bigota.d.miui.com/OS2.0.205.0.VOHCNXM/fw_bixi_bixi-ota_full-OS2.0.205.0.VOHCNXM-user-15.0-8634c38fc1.zip
-  name: MIX Flip 2
-  version: OS2.0.205.0.VOHCNXM
-- android: '15.0'
-  codename: bixi
-  date: '2025-07-05'
-  download: https://bigota.d.miui.com/OS2.0.204.0.VOHCNXM/fw_bixi_bixi-ota_full-OS2.0.204.0.VOHCNXM-user-15.0-6c119c7cde.zip
-  name: MIX Flip 2
-  version: OS2.0.204.0.VOHCNXM
-- android: '15.0'
-  codename: bixi
-  date: '2025-08-04'
-  download: https://bigota.d.miui.com/OS2.0.209.0.VOHCNXM/fw_bixi_bixi-ota_full-OS2.0.209.0.VOHCNXM-user-15.0-09739ed7be.zip
-  name: MIX Flip 2
-  version: OS2.0.209.0.VOHCNXM
 - android: '14.0'
   codename: breeze
   date: '2024-05-31'
@@ -4606,96 +4564,6 @@
   download: https://bigota.d.miui.com/OS2.0.5.0.VGUCNXM/fw_flame_flame-ota_full-OS2.0.5.0.VGUCNXM-user-15.0-b555dde565.zip
   name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
   version: OS2.0.5.0.VGUCNXM
-- android: '14.0'
-  codename: flare
-  date: '2024-08-28'
-  download: https://bigota.d.miui.com/OS1.0.3.0.UHXEUXM/fw_flare_miui_FLAREEEAGlobal_OS1.0.3.0.UHXEUXM_497ec4a320_14.0.zip
-  name: Redmi Pad SE 8.7 5G
-  version: OS1.0.3.0.UHXEUXM
-- android: '14.0'
-  codename: flare
-  date: '2024-08-29'
-  download: https://bigota.d.miui.com/OS1.0.5.0.UHXMIXM/fw_flare_miui_FLAREGlobal_OS1.0.5.0.UHXMIXM_28120a5745_14.0.zip
-  name: Redmi Pad SE 8.7 5G
-  version: OS1.0.5.0.UHXMIXM
-- android: '14.0'
-  codename: flare
-  date: '2024-09-23'
-  download: https://bigota.d.miui.com/OS1.0.6.0.UHXMIXM/fw_flare_miui_FLAREGlobal_OS1.0.6.0.UHXMIXM_9304f289d8_14.0.zip
-  name: Redmi Pad SE 8.7 5G
-  version: OS1.0.6.0.UHXMIXM
-- android: '15.0'
-  codename: flare
-  date: '2025-04-21'
-  download: https://bigota.d.miui.com/OS2.0.3.0.VHXMIXM/fw_flare_global_flare_global-ota_full-OS2.0.3.0.VHXMIXM-user-15.0-f43e5c2a05.zip
-  name: Redmi Pad SE 8.7 5G
-  version: OS2.0.3.0.VHXMIXM
-- android: '14.0'
-  codename: flare
-  date: '2024-09-18'
-  download: https://bigota.d.miui.com/OS1.0.4.0.UHXEUXM/fw_flare_miui_FLAREEEAGlobal_OS1.0.4.0.UHXEUXM_8f997cd9d0_14.0.zip
-  name: Redmi Pad SE 8.7 5G
-  version: OS1.0.4.0.UHXEUXM
-- android: '15.0'
-  codename: flare
-  date: '2025-06-16'
-  download: https://bigota.d.miui.com/OS2.0.5.0.VHXMIXM/fw_flare_global_flare_global-ota_full-OS2.0.5.0.VHXMIXM-user-15.0-0116ce0fd3.zip
-  name: Redmi Pad SE 8.7 5G
-  version: OS2.0.5.0.VHXMIXM
-- android: '14.0'
-  codename: flare
-  date: '2025-01-13'
-  download: https://bigota.d.miui.com/OS1.0.8.0.UHXMIXM/fw_flare_miui_FLAREGlobal_OS1.0.8.0.UHXMIXM_c68d943d51_14.0.zip
-  name: Redmi Pad SE 8.7 5G
-  version: OS1.0.8.0.UHXMIXM
-- android: '15.0'
-  codename: flare
-  date: '2025-05-12'
-  download: https://bigota.d.miui.com/OS2.0.3.0.VHXEUXM/fw_flare_eea_global_flare_eea_global-ota_full-OS2.0.3.0.VHXEUXM-user-15.0-1f0dac307a.zip
-  name: Redmi Pad SE 8.7 5G
-  version: OS2.0.3.0.VHXEUXM
-- android: '15.0'
-  codename: flare
-  date: '2025-02-10'
-  download: https://bigota.d.miui.com/OS2.0.1.0.VHXMIXM/fw_flare_global_flare_global-ota_full-OS2.0.1.0.VHXMIXM-user-15.0-f4b05c0782.zip
-  name: Redmi Pad SE 8.7 5G
-  version: OS2.0.1.0.VHXMIXM
-- android: '14.0'
-  codename: flare
-  date: '2025-05-08'
-  download: https://bigota.d.miui.com/OS1.0.3.0.UHXIDXM/fw_flare_miui_FLAREIDGlobal_OS1.0.3.0.UHXIDXM_2ebca9629d_14.0.zip
-  name: Redmi Pad SE 8.7 5G
-  version: OS1.0.3.0.UHXIDXM
-- android: '15.0'
-  codename: flare
-  date: '2025-07-07'
-  download: https://bigota.d.miui.com/OS2.0.201.0.VHXEUXM/fw_flare_eea_global_flare_eea_global-ota_full-OS2.0.201.0.VHXEUXM-user-15.0-97d5251635.zip
-  name: Redmi Pad SE 8.7 5G
-  version: OS2.0.201.0.VHXEUXM
-- android: '14.0'
-  codename: flare
-  date: '2025-01-05'
-  download: https://bigota.d.miui.com/OS1.0.6.0.UHXEUXM/fw_flare_miui_FLAREEEAGlobal_OS1.0.6.0.UHXEUXM_42b4380546_14.0.zip
-  name: Redmi Pad SE 8.7 5G
-  version: OS1.0.6.0.UHXEUXM
-- android: '15.0'
-  codename: flare
-  date: '2025-03-04'
-  download: https://bigota.d.miui.com/OS2.0.2.0.VHXEUXM/fw_flare_eea_global_flare_eea_global-ota_full-OS2.0.2.0.VHXEUXM-user-15.0-0e735aa55d.zip
-  name: Redmi Pad SE 8.7 5G
-  version: OS2.0.2.0.VHXEUXM
-- android: '14.0'
-  codename: flare
-  date: '2024-12-02'
-  download: https://bigota.d.miui.com/OS1.0.5.0.UHXEUXM/fw_flare_miui_FLAREEEAGlobal_OS1.0.5.0.UHXEUXM_d3998ab7c6_14.0.zip
-  name: Redmi Pad SE 8.7 5G
-  version: OS1.0.5.0.UHXEUXM
-- android: '14.0'
-  codename: flare
-  date: '2024-12-02'
-  download: https://bigota.d.miui.com/OS1.0.7.0.UHXMIXM/fw_flare_miui_FLAREGlobal_OS1.0.7.0.UHXMIXM_fca118761f_14.0.zip
-  name: Redmi Pad SE 8.7 5G
-  version: OS1.0.7.0.UHXMIXM
 - android: '13.0'
   codename: fleur
   date: '2024-08-31'
@@ -15208,18 +15076,6 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.TGKMIXM/fw_spesn_miui_SPESNGlobal_OS1.0.3.0.TGKMIXM_21b3b58697_13.0.zip
   name: Redmi Note 11 NFC
   version: OS1.0.3.0.TGKMIXM
-- android: '15.0'
-  codename: spring
-  date: '2025-08-08'
-  download: https://bigota.d.miui.com/OS2.0.202.0.VOUEUXM/fw_spring_eea_global_spring_eea_global-ota_full-OS2.0.202.0.VOUEUXM-user-15.0-77083e7879.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
-  version: OS2.0.202.0.VOUEUXM
-- android: '15.0'
-  codename: spring
-  date: '2025-08-09'
-  download: https://bigota.d.miui.com/OS2.0.203.0.VOUMIXM/fw_spring_global_spring_global-ota_full-OS2.0.203.0.VOUMIXM-user-15.0-55ad2855de.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
-  version: OS2.0.203.0.VOUMIXM
 - android: '14.0'
   codename: star
   date: '2024-08-29'
