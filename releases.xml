@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 19 Aug 2025 18:46:25 </lastBuildDate>
+        <lastBuildDate>Wed, 20 Aug 2025 00:38:09 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi A5/POCO C71 (serenity) - A15.0.12.0.VGWMIXM</title>
@@ -182,6 +182,11 @@
             <pubDate>Sat, 09 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS2.0.203.0.VOUMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/spring/</link>
+            <pubDate>Sat, 09 Aug 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi K Pad (turner) - OS2.0.216.0.VAOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/turner/</link>
             <pubDate>Sat, 09 Aug 2025 00:00:00 </pubDate>
@@ -204,6 +209,11 @@
         <item>
             <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.205.0.VOJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
+            <pubDate>Fri, 08 Aug 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS2.0.202.0.VOUEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/spring/</link>
             <pubDate>Fri, 08 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -269,6 +279,11 @@
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.201.0.VGQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
+            <pubDate>Mon, 04 Aug 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>MIX Flip 2 (bixi) - OS2.0.209.0.VOHCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/bixi/</link>
             <pubDate>Mon, 04 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -967,6 +982,11 @@
             <pubDate>Mon, 07 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Pad SE 8.7 5G (flare) - OS2.0.201.0.VHXEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
+            <pubDate>Mon, 07 Jul 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Xiaomi 13 (fuxi) - OS2.0.111.0.VMCEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
             <pubDate>Mon, 07 Jul 2025 00:00:00 </pubDate>
@@ -1152,6 +1172,11 @@
             <pubDate>Mon, 16 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Pad SE 8.7 5G (flare) - OS2.0.5.0.VHXMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
+            <pubDate>Mon, 16 Jun 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS2.0.106.0.VOZMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/uke/</link>
             <pubDate>Tue, 10 Jun 2025 00:00:00 </pubDate>
@@ -1217,9 +1242,19 @@
             <pubDate>Sun, 25 May 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi A3x (klein) - V816.0.4.0.VGSMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/klein/</link>
+            <pubDate>Sun, 18 May 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 11 NFC (spesn) - OS1.0.11.0.TGKMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spesn/</link>
             <pubDate>Sat, 17 May 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A3x (klein) - V816.0.5.0.VGSINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/klein/</link>
+            <pubDate>Wed, 14 May 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K50 (rubens) - OS2.0.5.0.ULNCNXM</title>
@@ -1240,6 +1275,11 @@
             <title>Redmi Pad (yunluo) - OS1.0.11.0.ULYEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/yunluo/</link>
             <pubDate>Mon, 12 May 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE 8.7 5G (flare) - OS1.0.3.0.UHXIDXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
+            <pubDate>Thu, 08 May 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K50G/POCO F4 GT (ingres) - OS2.0.2.0.ULJMIXM</title>
