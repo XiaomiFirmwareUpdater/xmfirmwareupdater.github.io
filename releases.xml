@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 20 Aug 2025 12:48:12 </lastBuildDate>
+        <lastBuildDate>Wed, 20 Aug 2025 18:37:12 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>MIX Flip (ruyi) - OS2.0.208.0.VNICNXM</title>
@@ -2787,6 +2787,11 @@
             <pubDate>Mon, 29 Mar 2021 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Mi 8 Lite (platina) - V12.0.2.0.QDTCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/platina/</link>
+            <pubDate>Thu, 25 Mar 2021 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Y3 (onc) - V11.0.2.0.QFLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/onc/</link>
             <pubDate>Sat, 20 Mar 2021 00:00:00 </pubDate>
@@ -2877,6 +2882,11 @@
             <pubDate>Mon, 21 Sep 2020 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Mi 8 Lite (platina) - V12.0.3.0.QDTMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/platina/</link>
+            <pubDate>Mon, 21 Sep 2020 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Mi MIX 2 (chiron) - V12.0.1.0.PDECNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chiron/</link>
             <pubDate>Thu, 10 Sep 2020 00:00:00 </pubDate>
@@ -2899,6 +2909,11 @@
         <item>
             <title>Mi MIX 3 (perseus) - 20.9.4</title>
             <link>https://xmfirmwareupdater.com/firmware/perseus/</link>
+            <pubDate>Sat, 05 Sep 2020 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 8 Lite (platina) - 20.9.4</title>
+            <link>https://xmfirmwareupdater.com/firmware/platina/</link>
             <pubDate>Sat, 05 Sep 2020 00:00:00 </pubDate>
         </item>
         <item>
@@ -3284,6 +3299,11 @@
         <item>
             <title>Mi MIX 3 (perseus) - 9.6.27</title>
             <link>https://xmfirmwareupdater.com/firmware/perseus/</link>
+            <pubDate>Fri, 28 Jun 2019 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 8 Lite (platina) - 9.6.27</title>
+            <link>https://xmfirmwareupdater.com/firmware/platina/</link>
             <pubDate>Fri, 28 Jun 2019 00:00:00 </pubDate>
         </item>
         <item>
