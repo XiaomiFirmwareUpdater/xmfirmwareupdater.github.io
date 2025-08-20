@@ -52,8 +52,8 @@ permalink: /hyperos/ruyi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>MIX Flip China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VNICNXM</td><td>15.0</td><td>9.5 GB</td><td>2025-06-23</td><td><a href="/hyperos/ruyi/stable/OS2.0.207.0.VNICNXM/">Download</a></td></tr>
-<tr><td>MIX Flip China</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VNICNXM</td><td>15.0</td><td>7.5 GB</td><td>2025-07-04</td><td><a href="/hyperos/ruyi/stable/OS2.0.207.0.VNICNXM/">Download</a></td></tr>
+                <tr><td>MIX Flip China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VNICNXM</td><td>15.0</td><td>9.5 GB</td><td>2025-07-22</td><td><a href="/hyperos/ruyi/stable/OS2.0.208.0.VNICNXM/">Download</a></td></tr>
+<tr><td>MIX Flip China</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VNICNXM</td><td>15.0</td><td>7.5 GB</td><td>2025-08-13</td><td><a href="/hyperos/ruyi/stable/OS2.0.208.0.VNICNXM/">Download</a></td></tr>
 <tr><td>MIX Flip China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UNICNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-07-21</td><td><a href="/hyperos/ruyi/stable beta/OS1.0.3.0.UNICNXM/">Download</a></td></tr>
 <tr><td>MIX Flip EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VNIEUXM</td><td>15.0</td><td>8.2 GB</td><td>2025-07-10</td><td><a href="/hyperos/ruyi/stable/OS2.0.204.0.VNIEUXM/">Download</a></td></tr>
 <tr><td>MIX Flip EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VNIEUXM</td><td>15.0</td><td>6.9 GB</td><td>2025-07-18</td><td><a href="/hyperos/ruyi/stable/OS2.0.204.0.VNIEUXM/">Download</a></td></tr>
