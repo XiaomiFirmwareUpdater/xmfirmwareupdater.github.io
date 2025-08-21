@@ -1570,6 +1570,12 @@
   download: https://bigota.d.miui.com/OS2.0.201.0.VNUCNXM/fw_breeze_breeze-ota_full-OS2.0.201.0.VNUCNXM-user-15.0-1613abda2e.zip
   name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
   version: OS2.0.201.0.VNUCNXM
+- android: '15.0'
+  codename: breeze
+  date: '2025-08-21'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VNUINXM/fw_breeze_in_global_breeze_in_global-ota_full-OS2.0.201.0.VNUINXM-user-15.0-fa0fe716c2.zip
+  name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
+  version: OS2.0.201.0.VNUINXM
 - android: '14.0'
   codename: breeze
   date: '2024-09-15'

@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 21 Aug 2025 06:37:14 </lastBuildDate>
+        <lastBuildDate>Thu, 21 Aug 2025 12:46:19 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS2.0.201.0.VNUINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
+            <pubDate>Thu, 21 Aug 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>MIX Flip (ruyi) - OS2.0.208.0.VNICNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruyi/</link>
@@ -1220,11 +1225,6 @@
             <title>Redmi Note 12 4G (tapas) - OS2.0.4.0.VMTINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tapas/</link>
             <pubDate>Wed, 04 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS2.0.7.0.VNUINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
-            <pubDate>Tue, 03 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS2.0.102.0.VOZINXM</title>
