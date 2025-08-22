@@ -369,6 +369,16 @@
     android: '13.0'
     miui: V14.0.6.0.TMOEUXM
 - branch: stable
+  date: '2025-08-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-22.08.2025/fw_ruby_eea_global_ruby_eea_global-ota_full-OS2.0.6.0.UMOEUXM-user-14.0-121ecaac27.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruby/fw_ruby_eea_global_ruby_eea_global-ota_full-OS2.0.6.0.UMOEUXM-user-14.0-121ecaac27.zip
+  filename: fw_ruby_eea_global_ruby_eea_global-ota_full-OS2.0.6.0.UMOEUXM-user-14.0-121ecaac27.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS2.0.6.0.UMOEUXM
+- branch: stable
   date: '2023-08-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-22.08.2023/fw_ruby_miui_RUBYEEAGlobal_V14.0.4.0.TMOEUXM_4f912b117e_13.0.zip

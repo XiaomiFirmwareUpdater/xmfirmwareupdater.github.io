@@ -894,6 +894,12 @@
   version: OS1.0.19.0.UNACNXM
 - android: '15.0'
   codename: aurora
+  date: '2025-08-22'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNAMIXM/fw_aurora_global_aurora_global-ota_full-OS2.0.204.0.VNAMIXM-user-15.0-5ffe815c0c.zip
+  name: Xiaomi 14 Ultra
+  version: OS2.0.204.0.VNAMIXM
+- android: '15.0'
+  codename: aurora
   date: '2025-05-22'
   download: https://bigota.d.miui.com/OS2.0.104.0.VNAINXM/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.104.0.VNAINXM-user-15.0-2743d2afd3.zip
   name: Xiaomi 14 Ultra
@@ -1924,6 +1930,12 @@
   download: https://bigota.d.miui.com/OS2.0.102.0.VMLMIXM/fw_corot_global_corot_global-ota_full-OS2.0.102.0.VMLMIXM-user-15.0-4101874f9d.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
   version: OS2.0.102.0.VMLMIXM
+- android: '15.0'
+  codename: corot
+  date: '2025-08-22'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VMLEUXM/fw_corot_eea_global_corot_eea_global-ota_full-OS2.0.204.0.VMLEUXM-user-15.0-475d576ae2.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS2.0.204.0.VMLEUXM
 - android: '14.0'
   codename: corot
   date: '2024-04-22'
@@ -4847,6 +4859,12 @@
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: OS1.0.2.0.TKEINXM
 - android: '15.0'
+  codename: flourite
+  date: '2025-08-21'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VPRCNXM/fw_flourite_flourite-ota_full-OS2.0.204.0.VPRCNXM-user-15.0-d9f804b3ea.zip
+  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro
+  version: OS2.0.204.0.VPRCNXM
+- android: '15.0'
   codename: fuxi
   date: '2024-12-30'
   download: https://bigota.d.miui.com/OS2.0.3.0.VMCCNXM/fw_fuxi_fuxi-ota_full-OS2.0.3.0.VMCCNXM-user-15.0-14d261942c.zip
@@ -7456,6 +7474,12 @@
   download: https://bigota.d.miui.com/OS2.0.201.0.VOWEUXM/fw_koto_eea_global_koto_eea_global-ota_full-OS2.0.201.0.VOWEUXM-user-15.0-7122b89b4a.zip
   name: Redmi Pad 2 4G
   version: OS2.0.201.0.VOWEUXM
+- android: '15.0'
+  codename: kunzite
+  date: '2025-08-21'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VPQCNXM/fw_kunzite_kunzite-ota_full-OS2.0.203.0.VPQCNXM-user-15.0-0f386094dc.zip
+  name: Redmi Note 15 5G
+  version: OS2.0.203.0.VPQCNXM
 - android: '14.0'
   codename: lake
   date: '2025-03-31'
@@ -7564,6 +7588,12 @@
   download: https://bigota.d.miui.com/OS1.0.13.0.UGTMIXM/fw_lake_miui_LAKEGlobal_OS1.0.13.0.UGTMIXM_6472e60862_14.0.zip
   name: Redmi 14C/POCO C75/Redmi A3 Pro
   version: OS1.0.13.0.UGTMIXM
+- android: '15.0'
+  codename: lapis
+  date: '2025-08-22'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VPPCNXM/fw_lapis_lapis-ota_full-OS2.0.204.0.VPPCNXM-user-15.0-73838c8323.zip
+  name: Redmi Note 15 Pro
+  version: OS2.0.204.0.VPPCNXM
 - android: '14.0'
   codename: light
   date: '2024-03-28'
@@ -9604,6 +9634,18 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMPMIXM/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.3.0.UMPMIXM_9531a81bb0_14.0.zip
   name: POCO X5 5G
   version: OS1.0.3.0.UMPMIXM
+- android: '14.0'
+  codename: moonstone
+  date: '2025-08-22'
+  download: https://bigota.d.miui.com/OS1.0.20.0.UMPEUXM/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.20.0.UMPEUXM_1b7bbde95f_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.20.0.UMPEUXM
+- android: '14.0'
+  codename: moonstone
+  date: '2025-08-22'
+  download: https://bigota.d.miui.com/OS1.0.18.0.UMPINXM/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.18.0.UMPINXM_b4a13ad8e4_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.18.0.UMPINXM
 - android: '14.0'
   codename: moonstone
   date: '2025-04-21'
@@ -13372,6 +13414,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UMOMIXM/fw_ruby_miui_RUBYGlobal_OS1.0.12.0.UMOMIXM_b53de30e6a_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: OS1.0.12.0.UMOMIXM
+- android: '14.0'
+  codename: ruby
+  date: '2025-08-22'
+  download: https://bigota.d.miui.com/OS2.0.6.0.UMOEUXM/fw_ruby_eea_global_ruby_eea_global-ota_full-OS2.0.6.0.UMOEUXM-user-14.0-121ecaac27.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS2.0.6.0.UMOEUXM
 - android: '14.0'
   codename: ruby
   date: '2024-10-21'
@@ -17788,6 +17836,12 @@
   download: https://bigota.d.miui.com/OS2.0.102.0.VOACNXM/fw_xuanyuan_xuanyuan-ota_full-OS2.0.102.0.VOACNXM-user-15.0-57ae5d127a.zip
   name: Xiaomi 15 Ultra
   version: OS2.0.102.0.VOACNXM
+- android: '15.0'
+  codename: xuanyuan
+  date: '2025-08-22'
+  download: https://bigota.d.miui.com/OS2.0.215.0.VOACNXM/fw_xuanyuan_xuanyuan-ota_full-OS2.0.215.0.VOACNXM-user-15.0-01bf68da5c.zip
+  name: Xiaomi 15 Ultra
+  version: OS2.0.215.0.VOACNXM
 - android: '15.0'
   codename: xuanyuan
   date: '2025-04-21'
