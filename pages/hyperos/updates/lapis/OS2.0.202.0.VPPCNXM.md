@@ -3,7 +3,7 @@ title: Redmi Note 15 Pro China HyperOS OS2.0.202.0.VPPCNXM Update
 layout: download
 name: Redmi Note 15 Pro China
 codename: lapis
-permalink: /hyperos/lapis/stable beta/OS2.0.202.0.VPPCNXM/
+permalink: /hyperos/lapis/stable/OS2.0.202.0.VPPCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/lapis/stable beta/OS2.0.202.0.VPPCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.202.0.VPPCNXM Stable Beta Official Update for Redmi Note 15 Pro China (lapis)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.202.0.VPPCNXM Stable Official Update for Redmi Note 15 Pro China (lapis)</h3>
     <h5>This page shows the OS2.0.202.0.VPPCNXM update only. If you're looking for other updates check
         <a href="/hyperos/lapis/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/lapis/stable beta/OS2.0.202.0.VPPCNXM/
                     <h5><b>Version: </b>OS2.0.202.0.VPPCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/lapis/stable beta/OS2.0.202.0.VPPCNXM/
                             aria-expanded="false" aria-controls="lapis_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="lapis_1_changelog">
+                        <p id="changelog_text">[System animations]<br>Optimization: Interrupt animation when entering subpages within apps<br>Optimization: Interrupt animation during app transitions<br>Optimization: Interrupt animation when closing apps in Landscape mode<br>[System]<br>New: Home screen wallpaper now supports a blur effect<br>Optimization: Immersive effect for full screen indicator in certain scenarios<br>Optimization: Updated styles for some classic pages<br>Optimization: Animation effects when launching apps<br>Optimization: In certain screens, larger text sizes are now supported<br>Optimization: Stability of animations when opening and closing apps<br>Optimization: Scrolling performance on content feeds in some third party apps<br>Fix: Issues with animations when opening or closing apps<br>Fix: Gestures didn't work properly in certain scenarios<br>Fix: Wallpapers disappeared in rare cases when opening or closing apps<br>Fix: Occasional display glitches when opening or closing apps<br>[Home screen]<br>New: Home screen icon text now displays shadows over light wallpaper areas for better readability<br>[Basic experience]<br>Optimization: Tweaked the Storage refresh algorithm so it activates more often<br>[App vault]<br>New: Travel assistant now supports adding trips manually<br>[Lock screen]<br>New: Eastern aesthetics lock screen templates<br>New: Lock screen wallpapers now support lens effect<br>New: Customizable Lock screen shortcuts<br>Optimization: Fingerprint unlock now supports new animations<br>[Settings]<br>Optimization: Added a shortcut to system navigation settings in Home screen settings<br>[Status bar, Notification shade]<br>New: Some status bar icons now support custom display<br>Optimization: Custom notifications now support unfolding<br>Optimization: HD signal icon no longer permanently shown in the status bar<br>[Accessibility]<br>Fix: Touch gestures stopped working in TalkBack mode<br>Fix: Volume buttons didn't work in TalkBack mode<br>Fix: Issues that prevented Recorder from capturing TalkBack audio<br>Fix: Issues with announcements for unselected items in Calendar and other apps<br>Fix: Some buttons weren't announced in several apps, including Settings, Control center, Messaging, Contacts, Weather, Notes, and Browser<br>More accessibility fixes are available in Xiaomi Community</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi Note 15 Pro China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/lapis/" target="_blank">lapis</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.202.0.VPPCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>9.5 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-07-29</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">lapis_images_OS2.0.202.0.VPPCNXM_20250729.0000.00_15.0_cn_74f7fc6552.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">74f7fc6552a2cba72c916e8873d9b2ac</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.202.0.VPPCNXM/lapis_images_OS2.0.202.0.VPPCNXM_20250729.0000.00_15.0_cn_74f7fc6552.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.202.0.VPPCNXM/lapis_images_OS2.0.202.0.VPPCNXM_20250729.0000.00_15.0_cn_74f7fc6552.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.202.0.VPPCNXM/lapis_images_OS2.0.202.0.VPPCNXM_20250729.0000.00_15.0_cn_74f7fc6552.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.202.0.VPPCNXM/lapis_images_OS2.0.202.0.VPPCNXM_20250729.0000.00_15.0_cn_74f7fc6552.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.202.0.VPPCNXM/lapis_images_OS2.0.202.0.VPPCNXM_20250729.0000.00_15.0_cn_74f7fc6552.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#lapis_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="lapis_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="lapis_2_changelog">
                         <p id="changelog_text">[System animations]<br>Optimization: Interrupt animation when entering subpages within apps<br>Optimization: Interrupt animation during app transitions<br>Optimization: Interrupt animation when closing apps in Landscape mode<br>[System]<br>New: Home screen wallpaper now supports a blur effect<br>Optimization: Immersive effect for full screen indicator in certain scenarios<br>Optimization: Updated styles for some classic pages<br>Optimization: Animation effects when launching apps<br>Optimization: In certain screens, larger text sizes are now supported<br>Optimization: Stability of animations when opening and closing apps<br>Optimization: Scrolling performance on content feeds in some third party apps<br>Fix: Issues with animations when opening or closing apps<br>Fix: Gestures didn't work properly in certain scenarios<br>Fix: Wallpapers disappeared in rare cases when opening or closing apps<br>Fix: Occasional display glitches when opening or closing apps<br>[Home screen]<br>New: Home screen icon text now displays shadows over light wallpaper areas for better readability<br>[Basic experience]<br>Optimization: Tweaked the Storage refresh algorithm so it activates more often<br>[App vault]<br>New: Travel assistant now supports adding trips manually<br>[Lock screen]<br>New: Eastern aesthetics lock screen templates<br>New: Lock screen wallpapers now support lens effect<br>New: Customizable Lock screen shortcuts<br>Optimization: Fingerprint unlock now supports new animations<br>[Settings]<br>Optimization: Added a shortcut to system navigation settings in Home screen settings<br>[Status bar, Notification shade]<br>New: Some status bar icons now support custom display<br>Optimization: Custom notifications now support unfolding<br>Optimization: HD signal icon no longer permanently shown in the status bar<br>[Accessibility]<br>Fix: Touch gestures stopped working in TalkBack mode<br>Fix: Volume buttons didn't work in TalkBack mode<br>Fix: Issues that prevented Recorder from capturing TalkBack audio<br>Fix: Issues with announcements for unselected items in Calendar and other apps<br>Fix: Some buttons weren't announced in several apps, including Settings, Control center, Messaging, Contacts, Weather, Notes, and Browser<br>More accessibility fixes are available in Xiaomi Community</p>
                     </div>
                 </li>
