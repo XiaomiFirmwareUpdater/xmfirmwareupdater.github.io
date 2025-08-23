@@ -5119,15 +5119,15 @@
     android: '15.0'
     miui: OS2.0.202.0.VFSCNXM
 - branch: stable
-  date: '2025-06-27'
+  date: '2025-08-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-27.06.2025/fw_ruan_eea_global_ruan_eea_global-ota_full-OS2.0.201.0.VFSEUXM-user-15.0-afdda0257c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruan/fw_ruan_eea_global_ruan_eea_global-ota_full-OS2.0.201.0.VFSEUXM-user-15.0-afdda0257c.zip
-  filename: fw_ruan_eea_global_ruan_eea_global-ota_full-OS2.0.201.0.VFSEUXM-user-15.0-afdda0257c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-23.08.2025/fw_ruan_eea_global_ruan_eea_global-ota_full-OS2.0.202.0.VFSEUXM-user-15.0-6a2aebb3c0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruan/fw_ruan_eea_global_ruan_eea_global-ota_full-OS2.0.202.0.VFSEUXM-user-15.0-6a2aebb3c0.zip
+  filename: fw_ruan_eea_global_ruan_eea_global-ota_full-OS2.0.202.0.VFSEUXM-user-15.0-6a2aebb3c0.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.201.0.VFSEUXM
+    miui: OS2.0.202.0.VFSEUXM
 - branch: stable
   date: '2025-07-29'
   downloads:
@@ -5909,25 +5909,25 @@
     android: '15.0'
     miui: OS2.0.202.0.VOGEUXM
 - branch: stable
-  date: '2025-07-14'
+  date: '2025-08-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-14.07.2025/fw_taoyao_miui_TAOYAOGlobal_OS1.0.21.0.ULIMIXM_1fc94659cf_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOGlobal_OS1.0.21.0.ULIMIXM_1fc94659cf_14.0.zip
-  filename: fw_taoyao_miui_TAOYAOGlobal_OS1.0.21.0.ULIMIXM_1fc94659cf_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-23.08.2025/fw_taoyao_miui_TAOYAOGlobal_OS1.0.23.0.ULIMIXM_342f4c2bcd_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOGlobal_OS1.0.23.0.ULIMIXM_342f4c2bcd_14.0.zip
+  filename: fw_taoyao_miui_TAOYAOGlobal_OS1.0.23.0.ULIMIXM_342f4c2bcd_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.21.0.ULIMIXM
+    miui: OS1.0.23.0.ULIMIXM
 - branch: stable
-  date: '2025-07-14'
+  date: '2025-08-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-14.07.2025/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.30.0.ULIEUXM_729591b3a8_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.30.0.ULIEUXM_729591b3a8_14.0.zip
-  filename: fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.30.0.ULIEUXM_729591b3a8_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-23.08.2025/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.31.0.ULIEUXM_aa30534c48_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.31.0.ULIEUXM_aa30534c48_14.0.zip
+  filename: fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.31.0.ULIEUXM_aa30534c48_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.30.0.ULIEUXM
+    miui: OS1.0.31.0.ULIEUXM
 - branch: stable
   date: '2025-06-27'
   downloads:

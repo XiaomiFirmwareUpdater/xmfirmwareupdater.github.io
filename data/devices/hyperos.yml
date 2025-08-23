@@ -13030,6 +13030,12 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.VFSEUXM/fw_ruan_eea_global_ruan_eea_global-ota_full-OS2.0.3.0.VFSEUXM-user-15.0-0be2936fb1.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS2.0.3.0.VFSEUXM
+- android: '15.0'
+  codename: ruan
+  date: '2025-08-23'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VFSEUXM/fw_ruan_eea_global_ruan_eea_global-ota_full-OS2.0.202.0.VFSEUXM-user-15.0-6a2aebb3c0.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS2.0.202.0.VFSEUXM
 - android: '14.0'
   codename: ruan
   date: '2024-08-23'
@@ -15880,6 +15886,18 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.2.0.ULIEUXM_bc84777c39_14.0.zip
   name: Xiaomi 12 Lite
   version: OS1.0.2.0.ULIEUXM
+- android: '14.0'
+  codename: taoyao
+  date: '2025-08-23'
+  download: https://bigota.d.miui.com/OS1.0.31.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.31.0.ULIEUXM_aa30534c48_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.31.0.ULIEUXM
+- android: '14.0'
+  codename: taoyao
+  date: '2025-08-23'
+  download: https://bigota.d.miui.com/OS1.0.23.0.ULIMIXM/fw_taoyao_miui_TAOYAOGlobal_OS1.0.23.0.ULIMIXM_342f4c2bcd_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.23.0.ULIMIXM
 - android: '14.0'
   codename: taoyao
   date: '2024-01-23'
