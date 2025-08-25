@@ -6529,15 +6529,15 @@
     android: '14.0'
     miui: OS1.0.24.0.UKDEUXM
 - branch: stable
-  date: '2025-07-14'
+  date: '2025-08-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-14.07.2025/fw_vili_miui_VILIINGlobal_OS1.0.16.0.UKDINXM_3414c59c53_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vili/fw_vili_miui_VILIINGlobal_OS1.0.16.0.UKDINXM_3414c59c53_14.0.zip
-  filename: fw_vili_miui_VILIINGlobal_OS1.0.16.0.UKDINXM_3414c59c53_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-26.08.2025/fw_vili_miui_VILIINGlobal_OS1.0.19.0.UKDINXM_30e92cdf40_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vili/fw_vili_miui_VILIINGlobal_OS1.0.19.0.UKDINXM_30e92cdf40_14.0.zip
+  filename: fw_vili_miui_VILIINGlobal_OS1.0.19.0.UKDINXM_30e92cdf40_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.16.0.UKDINXM
+    miui: OS1.0.19.0.UKDINXM
 - branch: stable
   date: '2019-11-26'
   downloads:
