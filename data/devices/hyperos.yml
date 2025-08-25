@@ -2112,6 +2112,12 @@
   version: OS2.0.111.0.VMLCNXM
 - android: '15.0'
   codename: creek
+  date: '2025-08-25'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VBOEUXM/fw_creek_eea_global_creek_eea_global-ota_full-OS2.0.203.0.VBOEUXM-user-15.0-edad663cd5.zip
+  name: Redmi 15/POCO M7
+  version: OS2.0.203.0.VBOEUXM
+- android: '15.0'
+  codename: creek
   date: '2025-08-17'
   download: https://bigota.d.miui.com/OS2.0.205.0.VBOMIXM/fw_creek_global_creek_global-ota_full-OS2.0.205.0.VBOMIXM-user-15.0-9b32f4c505.zip
   name: Redmi 15/POCO M7
@@ -3262,6 +3268,12 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.VNSINXM/fw_dizi_in_global_dizi_in_global-ota_full-OS2.0.3.0.VNSINXM-user-15.0-a39f3547b6.zip
   name: Redmi Pad Pro/POCO Pad
   version: OS2.0.3.0.VNSINXM
+- android: '15.0'
+  codename: dizi
+  date: '2025-08-25'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VNSEUXM/fw_dizi_eea_global_dizi_eea_global-ota_full-OS2.0.203.0.VNSEUXM-user-15.0-fcb0f881c6.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS2.0.203.0.VNSEUXM
 - android: '15.0'
   codename: dizi
   date: '2025-07-24'
@@ -8134,6 +8146,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMYCNXM/fw_liuqin_miui_LIUQIN_OS1.0.4.0.UMYCNXM_6271a83b02_14.0.zip
   name: Xiaomi Pad 6 Pro
   version: OS1.0.4.0.UMYCNXM
+- android: '15.0'
+  codename: luming
+  date: '2025-08-25'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VOICNXM/fw_luming_luming-ota_full-OS2.0.203.0.VOICNXM-user-15.0-3ae6a6226d.zip
+  name: Xiaomi Civi 5 Pro
+  version: OS2.0.203.0.VOICNXM
 - android: '15.0'
   codename: luming
   date: '2025-05-22'
@@ -19660,6 +19678,12 @@
   download: https://bigota.d.miui.com/OS2.0.103.0.VOKMIXM/fw_zorn_global_zorn_global-ota_full-OS2.0.103.0.VOKMIXM-user-15.0-aea6f4fbfd.zip
   name: Redmi K80/POCO F7 Pro
   version: OS2.0.103.0.VOKMIXM
+- android: '15.0'
+  codename: zorn
+  date: '2025-08-25'
+  download: https://bigota.d.miui.com/OS2.0.213.0.VOKCNXM/fw_zorn_zorn-ota_full-OS2.0.213.0.VOKCNXM-user-15.0-03e5634683.zip
+  name: Redmi K80/POCO F7 Pro
+  version: OS2.0.213.0.VOKCNXM
 - android: '15.0'
   codename: zorn
   date: '2025-06-25'

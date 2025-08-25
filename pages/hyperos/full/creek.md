@@ -52,7 +52,9 @@ permalink: /archive/hyperos/creek/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 15 / POCO M7 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VBOTWXM</td><td>15.0</td><td>4.6 GB</td><td>2025-08-19</td><td><a href="/hyperos/creek/stable/OS2.0.202.0.VBOTWXM/">Download</a></td></tr>
+                <tr><td>Redmi 15 / POCO M7 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VBOEUXM</td><td>15.0</td><td>4.7 GB</td><td>2025-08-25</td><td><a href="/hyperos/creek/stable/OS2.0.203.0.VBOEUXM/">Download</a></td></tr>
+<tr><td>Redmi 15 / POCO M7 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VBOEUXM</td><td>15.0</td><td>7.2 GB</td><td>2025-07-23</td><td><a href="/hyperos/creek/stable/OS2.0.203.0.VBOEUXM/">Download</a></td></tr>
+<tr><td>Redmi 15 / POCO M7 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VBOTWXM</td><td>15.0</td><td>4.6 GB</td><td>2025-08-19</td><td><a href="/hyperos/creek/stable/OS2.0.202.0.VBOTWXM/">Download</a></td></tr>
 <tr><td>Redmi 15 / POCO M7 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VBOTWXM</td><td>15.0</td><td>5.6 GB</td><td>2025-07-24</td><td><a href="/hyperos/creek/stable/OS2.0.202.0.VBOTWXM/">Download</a></td></tr>
 <tr><td>Redmi 15 / POCO M7 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.205.0.VBOMIXM</td><td>15.0</td><td>4.7 GB</td><td>2025-08-15</td><td><a href="/hyperos/creek/stable beta/OS2.0.205.0.VBOMIXM/">Download</a></td></tr>
 <tr><td>Redmi 15 / POCO M7 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VBOMIXM</td><td>15.0</td><td>4.7 GB</td><td>2025-08-14</td><td><a href="/hyperos/creek/stable/OS2.0.207.0.VBOMIXM/">Download</a></td></tr>

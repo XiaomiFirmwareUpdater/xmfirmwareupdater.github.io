@@ -52,14 +52,15 @@ permalink: /hyperos/zorn/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K80 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VOKCNXM</td><td>15.0</td><td>9.5 GB</td><td>2025-07-16</td><td><a href="/hyperos/zorn/stable/OS2.0.208.0.VOKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K80 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VOKCNXM</td><td>15.0</td><td>7.2 GB</td><td>2025-07-23</td><td><a href="/hyperos/zorn/stable/OS2.0.208.0.VOKCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K80 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.213.0.VOKCNXM</td><td>15.0</td><td>9.5 GB</td><td>2025-08-13</td><td><a href="/hyperos/zorn/stable/OS2.0.213.0.VOKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K80 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.213.0.VOKCNXM</td><td>15.0</td><td>7.2 GB</td><td>2025-08-18</td><td><a href="/hyperos/zorn/stable/OS2.0.213.0.VOKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.12.0.VOKCNXM</td><td>15.0</td><td>7.1 GB</td><td>2024-12-12</td><td><a href="/hyperos/zorn/stable beta/OS2.0.12.0.VOKCNXM/">Download</a></td></tr>
 <tr><td>POCO F7 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VOKEUXM</td><td>15.0</td><td>8.7 GB</td><td>2025-07-17</td><td><a href="/hyperos/zorn/stable/OS2.0.203.0.VOKEUXM/">Download</a></td></tr>
 <tr><td>POCO F7 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VOKEUXM</td><td>15.0</td><td>6.1 GB</td><td>2025-07-23</td><td><a href="/hyperos/zorn/stable/OS2.0.203.0.VOKEUXM/">Download</a></td></tr>
 <tr><td>POCO F7 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.2.0.VOKEUXM</td><td>15.0</td><td>6.0 GB</td><td>2025-03-27</td><td><a href="/hyperos/zorn/stable beta/OS2.0.2.0.VOKEUXM/">Download</a></td></tr>
 <tr><td>POCO F7 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VOKMIXM</td><td>15.0</td><td>9.4 GB</td><td>2025-06-22</td><td><a href="/hyperos/zorn/stable/OS2.0.201.0.VOKMIXM/">Download</a></td></tr>
 <tr><td>POCO F7 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VOKMIXM</td><td>15.0</td><td>6.1 GB</td><td>2025-07-23</td><td><a href="/hyperos/zorn/stable/OS2.0.201.0.VOKMIXM/">Download</a></td></tr>
+<tr><td>POCO F7 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.106.0.VOKTWXM</td><td>15.0</td><td>7.8 GB</td><td>2025-06-04</td><td><a href="/hyperos/zorn/stable/OS2.0.106.0.VOKTWXM/">Download</a></td></tr>
 <tr><td>POCO F7 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.200.0.VOKIDXM</td><td>15.0</td><td>9.0 GB</td><td>2025-07-11</td><td><a href="/hyperos/zorn/stable/OS2.0.200.0.VOKIDXM/">Download</a></td></tr>
 <tr><td>POCO F7 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.200.0.VOKIDXM</td><td>15.0</td><td>6.1 GB</td><td>2025-07-23</td><td><a href="/hyperos/zorn/stable/OS2.0.200.0.VOKIDXM/">Download</a></td></tr>
 <tr><td>POCO F7 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.200.0.VOKRUXM</td><td>15.0</td><td>9.3 GB</td><td>2025-07-11</td><td><a href="/hyperos/zorn/stable/OS2.0.200.0.VOKRUXM/">Download</a></td></tr>
@@ -67,7 +68,6 @@ permalink: /hyperos/zorn/
 <tr><td>POCO F7 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VOKTRXM</td><td>15.0</td><td>8.3 GB</td><td>2025-02-24</td><td><a href="/hyperos/zorn/stable/OS2.0.2.0.VOKTRXM/">Download</a></td></tr>
 <tr><td>POCO F7 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VOKTRXM</td><td>15.0</td><td>6.0 GB</td><td>2025-03-27</td><td><a href="/hyperos/zorn/stable/OS2.0.2.0.VOKTRXM/">Download</a></td></tr>
 <tr><td>POCO F7 Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.VOKTRXM</td><td>15.0</td><td>6.0 GB</td><td>2025-03-27</td><td><a href="/hyperos/zorn/stable beta/OS2.0.1.0.VOKTRXM/">Download</a></td></tr>
-<tr><td>POCO F7 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.200.0.VOKTWXM</td><td>15.0</td><td>7.1 GB</td><td>2025-07-11</td><td><a href="/hyperos/zorn/stable/OS2.0.200.0.VOKTWXM/">Download</a></td></tr>
 <tr><td>POCO F7 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.200.0.VOKTWXM</td><td>15.0</td><td>6.0 GB</td><td>2025-07-23</td><td><a href="/hyperos/zorn/stable/OS2.0.200.0.VOKTWXM/">Download</a></td></tr>
 
                 </tbody>
