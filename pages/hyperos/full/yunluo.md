@@ -52,7 +52,8 @@ permalink: /archive/hyperos/yunluo/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad India</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.10.0.ULYINXM</td><td>14.0</td><td>4.1 GB</td><td>2025-08-15</td><td><a href="/hyperos/yunluo/stable beta/OS1.0.10.0.ULYINXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad India</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.ULYINXM</td><td>14.0</td><td>4.1 GB</td><td>2025-08-15</td><td><a href="/hyperos/yunluo/stable/OS1.0.10.0.ULYINXM/">Download</a></td></tr>
+<tr><td>Redmi Pad India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.ULYINXM</td><td>14.0</td><td>4.5 GB</td><td>2025-07-30</td><td><a href="/hyperos/yunluo/stable/OS1.0.10.0.ULYINXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.ULYIDXM</td><td>14.0</td><td>4.2 GB</td><td>2025-08-15</td><td><a href="/hyperos/yunluo/stable/OS1.0.8.0.ULYIDXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.ULYIDXM</td><td>14.0</td><td>4.8 GB</td><td>2025-07-30</td><td><a href="/hyperos/yunluo/stable/OS1.0.8.0.ULYIDXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.ULYTWXM</td><td>14.0</td><td>4.1 GB</td><td>2025-08-15</td><td><a href="/hyperos/yunluo/stable/OS1.0.10.0.ULYTWXM/">Download</a></td></tr>

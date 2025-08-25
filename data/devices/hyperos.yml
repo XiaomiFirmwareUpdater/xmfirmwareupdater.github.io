@@ -1312,6 +1312,12 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VOQMIXM/fw_beryl_global_beryl_global-ota_full-OS2.0.2.0.VOQMIXM-user-15.0-1e39eb7937.zip
   name: Redmi Note 14 5G/POCO M7 Pro 5G
   version: OS2.0.2.0.VOQMIXM
+- android: '15.0'
+  codename: beryl
+  date: '2025-08-25'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VOQMIXM/fw_beryl_global_beryl_global-ota_full-OS2.0.205.0.VOQMIXM-user-15.0-a284e16c78.zip
+  name: Redmi Note 14 5G/POCO M7 Pro 5G
+  version: OS2.0.205.0.VOQMIXM
 - android: '14.0'
   codename: beryl
   date: '2025-03-25'
@@ -18040,6 +18046,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMUMIXM/fw_xun_miui_XUNGlobal_OS1.0.4.0.UMUMIXM_b6eda7b271_14.0.zip
   name: Redmi Pad SE
   version: OS1.0.4.0.UMUMIXM
+- android: '15.0'
+  codename: xun
+  date: '2025-08-25'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VMUMIXM/fw_xun_global_xun_global-ota_full-OS2.0.204.0.VMUMIXM-user-15.0-f812c2f83f.zip
+  name: Redmi Pad SE
+  version: OS2.0.204.0.VMUMIXM
 - android: '15.0'
   codename: xun
   date: '2025-05-23'

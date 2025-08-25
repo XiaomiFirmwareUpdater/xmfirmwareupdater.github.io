@@ -469,15 +469,15 @@
     android: '11.0'
     miui: V12.5.10.0.RGGINXM
 - branch: stable
-  date: '2025-07-16'
+  date: '2025-08-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-16.07.2025/fw_beryl_global_beryl_global-ota_full-OS2.0.201.0.VOQMIXM-user-15.0-a92c5e44ae.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/beryl/fw_beryl_global_beryl_global-ota_full-OS2.0.201.0.VOQMIXM-user-15.0-a92c5e44ae.zip
-  filename: fw_beryl_global_beryl_global-ota_full-OS2.0.201.0.VOQMIXM-user-15.0-a92c5e44ae.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-25.08.2025/fw_beryl_global_beryl_global-ota_full-OS2.0.205.0.VOQMIXM-user-15.0-a284e16c78.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/beryl/fw_beryl_global_beryl_global-ota_full-OS2.0.205.0.VOQMIXM-user-15.0-a284e16c78.zip
+  filename: fw_beryl_global_beryl_global-ota_full-OS2.0.205.0.VOQMIXM-user-15.0-a284e16c78.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.201.0.VOQMIXM
+    miui: OS2.0.205.0.VOQMIXM
 - branch: stable
   date: '2025-07-28'
   downloads:
@@ -6829,15 +6829,15 @@
     android: '15.0'
     miui: OS2.0.203.0.VOAINXM
 - branch: stable
-  date: '2025-06-30'
+  date: '2025-08-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-30.06.2025/fw_xun_global_xun_global-ota_full-OS2.0.5.0.VMUMIXM-user-15.0-6a95e7171e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xun/fw_xun_global_xun_global-ota_full-OS2.0.5.0.VMUMIXM-user-15.0-6a95e7171e.zip
-  filename: fw_xun_global_xun_global-ota_full-OS2.0.5.0.VMUMIXM-user-15.0-6a95e7171e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-25.08.2025/fw_xun_global_xun_global-ota_full-OS2.0.204.0.VMUMIXM-user-15.0-f812c2f83f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xun/fw_xun_global_xun_global-ota_full-OS2.0.204.0.VMUMIXM-user-15.0-f812c2f83f.zip
+  filename: fw_xun_global_xun_global-ota_full-OS2.0.204.0.VMUMIXM-user-15.0-f812c2f83f.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.5.0.VMUMIXM
+    miui: OS2.0.204.0.VMUMIXM
 - branch: stable
   date: '2025-07-28'
   downloads:

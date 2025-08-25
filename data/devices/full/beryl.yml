@@ -39,6 +39,16 @@
     android: '15.0'
     miui: OS2.0.2.0.VOQMIXM
 - branch: stable
+  date: '2025-08-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-25.08.2025/fw_beryl_global_beryl_global-ota_full-OS2.0.205.0.VOQMIXM-user-15.0-a284e16c78.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/beryl/fw_beryl_global_beryl_global-ota_full-OS2.0.205.0.VOQMIXM-user-15.0-a284e16c78.zip
+  filename: fw_beryl_global_beryl_global-ota_full-OS2.0.205.0.VOQMIXM-user-15.0-a284e16c78.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.205.0.VOQMIXM
+- branch: stable
   date: '2025-03-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-25.03.2025/fw_beryl_miui_BERYLEEAGlobal_OS1.0.12.0.UOQEUXM_4da6bd7dc1_14.0.zip

@@ -64,8 +64,8 @@ permalink: /hyperos/pipa/
 <tr><td>Xiaomi Pad 6 India</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.UMZINXM</td><td>14.0</td><td>4.5 GB</td><td>2025-07-17</td><td><a href="/hyperos/pipa/stable/OS2.0.5.0.UMZINXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.5.0.UMZRUXM</td><td>14.0</td><td>6.3 GB</td><td>2025-07-03</td><td><a href="/hyperos/pipa/stable/OS2.0.5.0.UMZRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.UMZRUXM</td><td>14.0</td><td>4.6 GB</td><td>2025-07-17</td><td><a href="/hyperos/pipa/stable/OS2.0.5.0.UMZRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.5.0.UMZTRXM</td><td>14.0</td><td>5.7 GB</td><td>2025-07-03</td><td><a href="/hyperos/pipa/stable/OS2.0.5.0.UMZTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.UMZTRXM</td><td>14.0</td><td>4.7 GB</td><td>2025-07-17</td><td><a href="/hyperos/pipa/stable/OS2.0.5.0.UMZTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.6.0.UMZTRXM</td><td>14.0</td><td>5.7 GB</td><td>2025-08-09</td><td><a href="/hyperos/pipa/stable/OS2.0.6.0.UMZTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.6.0.UMZTRXM</td><td>14.0</td><td>4.7 GB</td><td>2025-08-19</td><td><a href="/hyperos/pipa/stable/OS2.0.6.0.UMZTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.5.0.UMZTWXM</td><td>14.0</td><td>5.3 GB</td><td>2025-07-03</td><td><a href="/hyperos/pipa/stable/OS2.0.5.0.UMZTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.UMZTWXM</td><td>14.0</td><td>4.6 GB</td><td>2025-07-17</td><td><a href="/hyperos/pipa/stable/OS2.0.5.0.UMZTWXM/">Download</a></td></tr>
 
