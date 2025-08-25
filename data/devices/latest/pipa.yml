@@ -9,15 +9,15 @@
     android: '14.0'
     miui: OS2.0.6.0.UMZMIXM
 - branch: stable
-  date: '2025-07-28'
+  date: '2025-08-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-28.07.2025/fw_pipa_pipa-ota_full-OS2.0.10.0.UMZCNXM-user-14.0-0d89d2e7bf.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/pipa/fw_pipa_pipa-ota_full-OS2.0.10.0.UMZCNXM-user-14.0-0d89d2e7bf.zip
-  filename: fw_pipa_pipa-ota_full-OS2.0.10.0.UMZCNXM-user-14.0-0d89d2e7bf.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-25.08.2025/fw_pipa_pipa-ota_full-OS2.0.11.0.UMZCNXM-user-14.0-d7c9759768.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/pipa/fw_pipa_pipa-ota_full-OS2.0.11.0.UMZCNXM-user-14.0-d7c9759768.zip
+  filename: fw_pipa_pipa-ota_full-OS2.0.11.0.UMZCNXM-user-14.0-d7c9759768.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS2.0.10.0.UMZCNXM
+    miui: OS2.0.11.0.UMZCNXM
 - branch: stable
   date: '2025-07-28'
   downloads:

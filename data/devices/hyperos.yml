@@ -5860,6 +5860,12 @@
   download: https://bigota.d.miui.com/OS1.0.14.0.UNQMIXM/fw_gold_miui_GOLDGlobal_OS1.0.14.0.UNQMIXM_50bcb37a98_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: OS1.0.14.0.UNQMIXM
+- android: '15.0'
+  codename: gold
+  date: '2025-08-25'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNQINXM/fw_gold_in_global_gold_in_global-ota_full-OS2.0.204.0.VNQINXM-user-15.0-ee97300938.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS2.0.204.0.VNQINXM
 - android: '14.0'
   codename: gold
   date: '2024-02-25'
@@ -11382,6 +11388,12 @@
   version: OS1.0.14.0.UMZMIXM
 - android: '14.0'
   codename: pipa
+  date: '2025-08-25'
+  download: https://bigota.d.miui.com/OS2.0.11.0.UMZCNXM/fw_pipa_pipa-ota_full-OS2.0.11.0.UMZCNXM-user-14.0-d7c9759768.zip
+  name: Xiaomi Pad 6
+  version: OS2.0.11.0.UMZCNXM
+- android: '14.0'
+  codename: pipa
   date: '2024-06-25'
   download: https://bigota.d.miui.com/OS1.0.7.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.7.0.UMZCNXM_a0d8c7820c_14.0.zip
   name: Xiaomi Pad 6
@@ -13042,6 +13054,12 @@
   download: https://bigota.d.miui.com/OS2.0.4.0.VFSCNXM/fw_ruan_ruan-ota_full-OS2.0.4.0.VFSCNXM-user-15.0-5e2b78c612.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS2.0.4.0.VFSCNXM
+- android: '15.0'
+  codename: ruan
+  date: '2025-08-25'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VFSCNXM/fw_ruan_ruan-ota_full-OS2.0.203.0.VFSCNXM-user-15.0-cf2271c51c.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS2.0.203.0.VFSCNXM
 - android: '15.0'
   codename: ruan
   date: '2025-05-25'
@@ -17248,6 +17266,18 @@
   download: https://bigota.d.miui.com/OS1.0.16.0.UKDEUXM/fw_vili_miui_VILIEEAGlobal_OS1.0.16.0.UKDEUXM_585c024665_14.0.zip
   name: Xiaomi 11T Pro
   version: OS1.0.16.0.UKDEUXM
+- android: '14.0'
+  codename: vili
+  date: '2025-08-25'
+  download: https://bigota.d.miui.com/OS1.0.24.0.UKDEUXM/fw_vili_miui_VILIEEAGlobal_OS1.0.24.0.UKDEUXM_9aaf4a8c2d_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.24.0.UKDEUXM
+- android: '14.0'
+  codename: vili
+  date: '2025-08-25'
+  download: https://bigota.d.miui.com/OS1.0.21.0.UKDMIXM/fw_vili_miui_VILIGlobal_OS1.0.21.0.UKDMIXM_7bf3b06718_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.21.0.UKDMIXM
 - android: '14.0'
   codename: vili
   date: '2024-07-24'
