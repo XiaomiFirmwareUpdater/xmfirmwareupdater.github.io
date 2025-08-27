@@ -1188,6 +1188,12 @@
   version: OS1.0.14.0.UMVCNXM
 - android: '15.0'
   codename: babylon
+  date: '2025-08-27'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VMVCNXM/fw_babylon_babylon-ota_full-OS2.0.205.0.VMVCNXM-user-15.0-f0db26acf4.zip
+  name: MIX Fold 3
+  version: OS2.0.205.0.VMVCNXM
+- android: '15.0'
+  codename: babylon
   date: '2025-05-26'
   download: https://bigota.d.miui.com/OS2.0.110.0.VMVCNXM/fw_babylon_babylon-ota_full-OS2.0.110.0.VMVCNXM-user-15.0-5335bb5add.zip
   name: MIX Fold 3
@@ -7228,6 +7234,12 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.VMACNXM/fw_ishtar_ishtar-ota_full-OS2.0.3.0.VMACNXM-user-15.0-d68e1afecf.zip
   name: Xiaomi 13 Ultra
   version: OS2.0.3.0.VMACNXM
+- android: '15.0'
+  codename: ishtar
+  date: '2025-08-27'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VMACNXM/fw_ishtar_ishtar-ota_full-OS2.0.205.0.VMACNXM-user-15.0-c46a333251.zip
+  name: Xiaomi 13 Ultra
+  version: OS2.0.205.0.VMACNXM
 - android: '14.0'
   codename: ishtar
   date: '2024-08-25'
@@ -15372,6 +15384,12 @@
   version: OS1.0.3.0.TGKMIXM
 - android: '15.0'
   codename: spring
+  date: '2025-08-27'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VOUINXM/fw_spring_in_global_spring_in_global-ota_full-OS2.0.203.0.VOUINXM-user-15.0-97420328f8.zip
+  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  version: OS2.0.203.0.VOUINXM
+- android: '15.0'
+  codename: spring
   date: '2025-08-08'
   download: https://bigota.d.miui.com/OS2.0.202.0.VOUEUXM/fw_spring_eea_global_spring_eea_global-ota_full-OS2.0.202.0.VOUEUXM-user-15.0-77083e7879.zip
   name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
@@ -16108,6 +16126,12 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VMTINXM/fw_tapas_in_global_tapas_in_global-ota_full-OS2.0.2.0.VMTINXM-user-15.0-96fc130e17.zip
   name: Redmi Note 12 4G
   version: OS2.0.2.0.VMTINXM
+- android: '15.0'
+  codename: tapas
+  date: '2025-08-27'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VMTMIXM/fw_tapas_global_tapas_global-ota_full-OS2.0.201.0.VMTMIXM-user-15.0-c08dcb7391.zip
+  name: Redmi Note 12 4G
+  version: OS2.0.201.0.VMTMIXM
 - android: '15.0'
   codename: tapas
   date: '2025-06-27'

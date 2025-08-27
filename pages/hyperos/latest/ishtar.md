@@ -52,8 +52,8 @@ permalink: /hyperos/ishtar/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 13 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VMACNXM</td><td>15.0</td><td>9.0 GB</td><td>2025-06-30</td><td><a href="/hyperos/ishtar/stable/OS2.0.203.0.VMACNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VMACNXM</td><td>15.0</td><td>7.2 GB</td><td>2025-07-07</td><td><a href="/hyperos/ishtar/stable/OS2.0.203.0.VMACNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 13 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VMACNXM</td><td>15.0</td><td>9.0 GB</td><td>2025-08-11</td><td><a href="/hyperos/ishtar/stable/OS2.0.205.0.VMACNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VMACNXM</td><td>15.0</td><td>7.2 GB</td><td>2025-08-20</td><td><a href="/hyperos/ishtar/stable/OS2.0.205.0.VMACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>6.7 GB</td><td>2024-01-12</td><td><a href="/hyperos/ishtar/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VMAEUXM</td><td>15.0</td><td>8.1 GB</td><td>2025-07-22</td><td><a href="/hyperos/ishtar/stable/OS2.0.201.0.VMAEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VMAEUXM</td><td>15.0</td><td>6.5 GB</td><td>2025-08-15</td><td><a href="/hyperos/ishtar/stable/OS2.0.201.0.VMAEUXM/">Download</a></td></tr>
