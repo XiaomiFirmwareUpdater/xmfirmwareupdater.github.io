@@ -9066,6 +9066,12 @@
   version: OS2.0.103.0.VOMMIXM
 - android: '15.0'
   codename: miro
+  date: '2025-08-27'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VOMEUXM/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.204.0.VOMEUXM-user-15.0-b9fe41b398.zip
+  name: Redmi K80 Pro/POCO F7 Ultra
+  version: OS2.0.204.0.VOMEUXM
+- android: '15.0'
+  codename: miro
   date: '2025-03-27'
   download: https://bigota.d.miui.com/OS2.0.107.0.VOMEUXM/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.107.0.VOMEUXM-user-15.0-278992e0ce.zip
   name: Redmi K80 Pro/POCO F7 Ultra
@@ -10860,6 +10866,12 @@
   version: OS2.0.1.0.VLHCNXM
 - android: '15.0'
   codename: pearl
+  date: '2025-08-27'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VLHCNXM/fw_pearl_pearl-ota_full-OS2.0.207.0.VLHCNXM-user-15.0-6dc8011b22.zip
+  name: Redmi Note 12T Pro
+  version: OS2.0.207.0.VLHCNXM
+- android: '15.0'
+  codename: pearl
   date: '2025-07-22'
   download: https://bigota.d.miui.com/OS2.0.205.0.VLHCNXM/fw_pearl_pearl-ota_full-OS2.0.205.0.VLHCNXM-user-15.0-764327793f.zip
   name: Redmi Note 12T Pro
@@ -12046,6 +12058,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMSCNXM/fw_redwood_miui_REDWOOD_OS1.0.4.0.UMSCNXM_33c3abb2d0_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: OS1.0.4.0.UMSCNXM
+- android: '14.0'
+  codename: redwood
+  date: '2025-08-27'
+  download: https://bigota.d.miui.com/OS2.0.17.0.UMSCNXM/fw_redwood_redwood-ota_full-OS2.0.17.0.UMSCNXM-user-14.0-c241408bc6.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS2.0.17.0.UMSCNXM
 - android: '14.0'
   codename: redwood
   date: '2024-05-27'
@@ -14422,6 +14440,12 @@
   download: https://bigota.d.miui.com/OS2.0.7.0.VNXMIXM/fw_sheng_global_sheng_global-ota_full-OS2.0.7.0.VNXMIXM-user-15.0-1b4f7cf2cd.zip
   name: Xiaomi Pad 6S Pro 12.4
   version: OS2.0.7.0.VNXMIXM
+- android: '15.0'
+  codename: sheng
+  date: '2025-08-27'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VNXEUXM/fw_sheng_eea_global_sheng_eea_global-ota_full-OS2.0.207.0.VNXEUXM-user-15.0-14cc0fcfec.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS2.0.207.0.VNXEUXM
 - android: '15.0'
   codename: sheng
   date: '2025-04-25'
@@ -18286,6 +18310,12 @@
   download: https://bigota.d.miui.com/OS1.0.17.0.UMHCNXM/fw_yudi_miui_YUDI_OS1.0.17.0.UMHCNXM_016e5304b7_14.0.zip
   name: Xiaomi Pad 6 Max 14
   version: OS1.0.17.0.UMHCNXM
+- android: '15.0'
+  codename: yudi
+  date: '2025-08-27'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VMHCNXM/fw_yudi_yudi-ota_full-OS2.0.204.0.VMHCNXM-user-15.0-091de147d8.zip
+  name: Xiaomi Pad 6 Max 14
+  version: OS2.0.204.0.VMHCNXM
 - android: '14.0'
   codename: yudi
   date: '2024-08-27'
@@ -18352,6 +18382,12 @@
   download: https://bigota.d.miui.com/OS2.0.6.0.VMHCNXM/fw_yudi_yudi-ota_full-OS2.0.6.0.VMHCNXM-user-15.0-ee905a8d50.zip
   name: Xiaomi Pad 6 Max 14
   version: OS2.0.6.0.VMHCNXM
+- android: '15.0'
+  codename: yuechu
+  date: '2025-08-27'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VMICNXM/fw_yuechu_yuechu-ota_full-OS2.0.204.0.VMICNXM-user-15.0-99c5088966.zip
+  name: Xiaomi Civi 3
+  version: OS2.0.204.0.VMICNXM
 - android: '14.0'
   codename: yuechu
   date: '2024-09-24'

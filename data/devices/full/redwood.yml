@@ -29,6 +29,16 @@
     android: '14.0'
     miui: OS1.0.4.0.UMSCNXM
 - branch: stable
+  date: '2025-08-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-27.08.2025/fw_redwood_redwood-ota_full-OS2.0.17.0.UMSCNXM-user-14.0-c241408bc6.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/redwood/fw_redwood_redwood-ota_full-OS2.0.17.0.UMSCNXM-user-14.0-c241408bc6.zip
+  filename: fw_redwood_redwood-ota_full-OS2.0.17.0.UMSCNXM-user-14.0-c241408bc6.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS2.0.17.0.UMSCNXM
+- branch: stable
   date: '2024-05-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-27.05.2024/fw_redwood_miui_REDWOODGlobal_OS1.0.4.0.UMSMIXM_53cb65de24_14.0.zip
