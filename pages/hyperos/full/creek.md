@@ -52,7 +52,11 @@ permalink: /archive/hyperos/creek/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 15 / POCO M7 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VBOEUXM</td><td>15.0</td><td>4.7 GB</td><td>2025-08-25</td><td><a href="/hyperos/creek/stable/OS2.0.203.0.VBOEUXM/">Download</a></td></tr>
+                <tr><td>Redmi 15 / POCO M7 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VBOIDXM</td><td>15.0</td><td>4.7 GB</td><td>2025-08-28</td><td><a href="/hyperos/creek/stable/OS2.0.203.0.VBOIDXM/">Download</a></td></tr>
+<tr><td>Redmi 15 / POCO M7 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VBOIDXM</td><td>15.0</td><td>7.2 GB</td><td>2025-07-23</td><td><a href="/hyperos/creek/stable/OS2.0.203.0.VBOIDXM/">Download</a></td></tr>
+<tr><td>Redmi 15 / POCO M7 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VBORUXM</td><td>15.0</td><td>4.6 GB</td><td>2025-08-28</td><td><a href="/hyperos/creek/stable/OS2.0.204.0.VBORUXM/">Download</a></td></tr>
+<tr><td>Redmi 15 / POCO M7 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VBORUXM</td><td>15.0</td><td>8.0 GB</td><td>2025-08-05</td><td><a href="/hyperos/creek/stable/OS2.0.204.0.VBORUXM/">Download</a></td></tr>
+<tr><td>Redmi 15 / POCO M7 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VBOEUXM</td><td>15.0</td><td>4.7 GB</td><td>2025-08-25</td><td><a href="/hyperos/creek/stable/OS2.0.203.0.VBOEUXM/">Download</a></td></tr>
 <tr><td>Redmi 15 / POCO M7 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VBOEUXM</td><td>15.0</td><td>7.2 GB</td><td>2025-07-23</td><td><a href="/hyperos/creek/stable/OS2.0.203.0.VBOEUXM/">Download</a></td></tr>
 <tr><td>Redmi 15 / POCO M7 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VBOTWXM</td><td>15.0</td><td>4.6 GB</td><td>2025-08-19</td><td><a href="/hyperos/creek/stable/OS2.0.202.0.VBOTWXM/">Download</a></td></tr>
 <tr><td>Redmi 15 / POCO M7 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VBOTWXM</td><td>15.0</td><td>5.6 GB</td><td>2025-07-24</td><td><a href="/hyperos/creek/stable/OS2.0.202.0.VBOTWXM/">Download</a></td></tr>
