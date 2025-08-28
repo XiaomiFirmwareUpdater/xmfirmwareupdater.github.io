@@ -4156,6 +4156,18 @@
   download: https://bigota.d.miui.com/OS2.0.6.0.VNFMIXM/fw_emerald_global_emerald_global-ota_full-OS2.0.6.0.VNFMIXM-user-15.0-6aeb35fc99.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS2.0.6.0.VNFMIXM
+- android: '15.0'
+  codename: emerald
+  date: '2025-08-28'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VNFEUXM/fw_emerald_eea_global_emerald_eea_global-ota_full-OS2.0.205.0.VNFEUXM-user-15.0-39337e55f1.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
+  version: OS2.0.205.0.VNFEUXM
+- android: '15.0'
+  codename: emerald
+  date: '2025-08-28'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VNFMIXM/fw_emerald_global_emerald_global-ota_full-OS2.0.206.0.VNFMIXM-user-15.0-d86456795c.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
+  version: OS2.0.206.0.VNFMIXM
 - android: '14.0'
   codename: emerald
   date: '2024-10-28'
@@ -15688,6 +15700,12 @@
   download: https://bigota.d.miui.com/OS2.0.4.0.UMQCNXM/fw_sunstone_sunstone-ota_full-OS2.0.4.0.UMQCNXM-user-14.0-d5dce2ab6f.zip
   name: Redmi Note 12 5G/Note 12R Pro
   version: OS2.0.4.0.UMQCNXM
+- android: '14.0'
+  codename: sunstone
+  date: '2025-08-28'
+  download: https://bigota.d.miui.com/OS2.0.6.0.UMQCNXM/fw_sunstone_sunstone-ota_full-OS2.0.6.0.UMQCNXM-user-14.0-a871f6a54b.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: OS2.0.6.0.UMQCNXM
 - android: '14.0'
   codename: sunstone
   date: '2024-06-29'
