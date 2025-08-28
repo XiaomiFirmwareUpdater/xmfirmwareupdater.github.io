@@ -59,8 +59,8 @@ permalink: /hyperos/onyx/
 <tr><td>POCO F7 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VOLEUXM</td><td>15.0</td><td>6.9 GB</td><td>2025-08-03</td><td><a href="/hyperos/onyx/stable/OS2.0.204.0.VOLEUXM/">Download</a></td></tr>
 <tr><td>POCO F7 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.103.0.VOLMIXM</td><td>15.0</td><td>10.0 GB</td><td>2025-07-04</td><td><a href="/hyperos/onyx/stable/OS2.0.103.0.VOLMIXM/">Download</a></td></tr>
 <tr><td>POCO F7 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.103.0.VOLMIXM</td><td>15.0</td><td>6.8 GB</td><td>2025-07-09</td><td><a href="/hyperos/onyx/stable/OS2.0.103.0.VOLMIXM/">Download</a></td></tr>
-<tr><td>POCO F7 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VOLIDXM</td><td>15.0</td><td>9.4 GB</td><td>2025-07-10</td><td><a href="/hyperos/onyx/stable/OS2.0.102.0.VOLIDXM/">Download</a></td></tr>
-<tr><td>POCO F7 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VOLIDXM</td><td>15.0</td><td>6.8 GB</td><td>2025-07-19</td><td><a href="/hyperos/onyx/stable/OS2.0.102.0.VOLIDXM/">Download</a></td></tr>
+<tr><td>POCO F7 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VOLIDXM</td><td>15.0</td><td>9.5 GB</td><td>2025-08-13</td><td><a href="/hyperos/onyx/stable/OS2.0.201.0.VOLIDXM/">Download</a></td></tr>
+<tr><td>POCO F7 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VOLIDXM</td><td>15.0</td><td>6.9 GB</td><td>2025-08-19</td><td><a href="/hyperos/onyx/stable/OS2.0.201.0.VOLIDXM/">Download</a></td></tr>
 <tr><td>POCO F7 India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VOLINXM</td><td>15.0</td><td>8.7 GB</td><td>2025-07-18</td><td><a href="/hyperos/onyx/stable/OS2.0.102.0.VOLINXM/">Download</a></td></tr>
 <tr><td>POCO F7 India</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VOLINXM</td><td>15.0</td><td>6.7 GB</td><td>2025-07-29</td><td><a href="/hyperos/onyx/stable/OS2.0.102.0.VOLINXM/">Download</a></td></tr>
 <tr><td>POCO F7 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VOLRUXM</td><td>15.0</td><td>10.0 GB</td><td>2025-07-10</td><td><a href="/hyperos/onyx/stable/OS2.0.102.0.VOLRUXM/">Download</a></td></tr>
