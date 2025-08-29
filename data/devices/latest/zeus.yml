@@ -9,25 +9,25 @@
     android: '15.0'
     miui: OS2.0.203.0.VLBMIXM
 - branch: stable
-  date: '2025-07-23'
+  date: '2025-08-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-23.07.2025/fw_zeus_zeus-ota_full-OS2.0.205.0.VLBCNXM-user-15.0-66a7b16c8c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_zeus-ota_full-OS2.0.205.0.VLBCNXM-user-15.0-66a7b16c8c.zip
-  filename: fw_zeus_zeus-ota_full-OS2.0.205.0.VLBCNXM-user-15.0-66a7b16c8c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-29.08.2025/fw_zeus_zeus-ota_full-OS2.0.207.0.VLBCNXM-user-15.0-7f7a64de8f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_zeus-ota_full-OS2.0.207.0.VLBCNXM-user-15.0-7f7a64de8f.zip
+  filename: fw_zeus_zeus-ota_full-OS2.0.207.0.VLBCNXM-user-15.0-7f7a64de8f.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.205.0.VLBCNXM
+    miui: OS2.0.207.0.VLBCNXM
 - branch: stable
-  date: '2025-07-28'
+  date: '2025-08-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-28.07.2025/fw_zeus_eea_global_zeus_eea_global-ota_full-OS2.0.204.0.VLBEUXM-user-15.0-8e24d1d4f9.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_eea_global_zeus_eea_global-ota_full-OS2.0.204.0.VLBEUXM-user-15.0-8e24d1d4f9.zip
-  filename: fw_zeus_eea_global_zeus_eea_global-ota_full-OS2.0.204.0.VLBEUXM-user-15.0-8e24d1d4f9.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-29.08.2025/fw_zeus_eea_global_zeus_eea_global-ota_full-OS2.0.205.0.VLBEUXM-user-15.0-778c18c480.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_eea_global_zeus_eea_global-ota_full-OS2.0.205.0.VLBEUXM-user-15.0-778c18c480.zip
+  filename: fw_zeus_eea_global_zeus_eea_global-ota_full-OS2.0.205.0.VLBEUXM-user-15.0-778c18c480.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.204.0.VLBEUXM
+    miui: OS2.0.205.0.VLBEUXM
 - branch: stable
   date: '2025-08-28'
   downloads:
