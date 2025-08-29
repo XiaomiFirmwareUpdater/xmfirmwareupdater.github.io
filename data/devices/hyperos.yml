@@ -1312,6 +1312,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UOQCNXM/fw_beryl_miui_BERYL_OS1.0.5.0.UOQCNXM_b2da294bda_14.0.zip
   name: Redmi Note 14 5G/POCO M7 Pro 5G
   version: OS1.0.5.0.UOQCNXM
+- android: '15.0'
+  codename: beryl
+  date: '2025-08-29'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VOQCNXM/fw_beryl_beryl-ota_full-OS2.0.208.0.VOQCNXM-user-15.0-cd663d1bbf.zip
+  name: Redmi Note 14 5G/POCO M7 Pro 5G
+  version: OS2.0.208.0.VOQCNXM
 - android: '14.0'
   codename: beryl
   date: '2024-10-28'
@@ -11412,6 +11418,12 @@
   version: OS1.0.4.0.UMZCNXM
 - android: '14.0'
   codename: pipa
+  date: '2025-08-29'
+  download: https://bigota.d.miui.com/OS2.0.6.0.UMZEUXM/fw_pipa_eea_global_pipa_eea_global-ota_full-OS2.0.6.0.UMZEUXM-user-14.0-7656845f25.zip
+  name: Xiaomi Pad 6
+  version: OS2.0.6.0.UMZEUXM
+- android: '14.0'
+  codename: pipa
   date: '2024-03-28'
   download: https://bigota.d.miui.com/OS1.0.6.0.UMZMIXM/fw_pipa_miui_PIPAGlobal_OS1.0.6.0.UMZMIXM_cb615bac0c_14.0.zip
   name: Xiaomi Pad 6
@@ -13110,6 +13122,12 @@
   version: OS1.0.8.0.UFSCNXM
 - android: '15.0'
   codename: ruan
+  date: '2025-08-29'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VFSMIXM/fw_ruan_global_ruan_global-ota_full-OS2.0.202.0.VFSMIXM-user-15.0-96a70b09a2.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS2.0.202.0.VFSMIXM
+- android: '15.0'
+  codename: ruan
   date: '2025-07-29'
   download: https://bigota.d.miui.com/OS2.0.201.0.VFSINXM/fw_ruan_in_global_ruan_in_global-ota_full-OS2.0.201.0.VFSINXM-user-15.0-b1eeb79888.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
@@ -14314,6 +14332,12 @@
   download: https://bigota.d.miui.com/OS2.0.4.0.VHZMIXM/fw_sea_global_sea_global-ota_full-OS2.0.4.0.VHZMIXM-user-15.0-ecd7277b3a.zip
   name: Redmi Note 12S
   version: OS2.0.4.0.VHZMIXM
+- android: '15.0'
+  codename: sea
+  date: '2025-08-29'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VHZEUXM/fw_sea_eea_global_sea_eea_global-ota_full-OS2.0.202.0.VHZEUXM-user-15.0-2a0ac27bbe.zip
+  name: Redmi Note 12S
+  version: OS2.0.202.0.VHZEUXM
 - android: '14.0'
   codename: sea
   date: '2024-08-29'

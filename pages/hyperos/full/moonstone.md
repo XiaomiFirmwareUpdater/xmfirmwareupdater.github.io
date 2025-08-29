@@ -52,7 +52,9 @@ permalink: /archive/hyperos/moonstone/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO X5 5G Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.17.0.UMPRUXM</td><td>14.0</td><td>3.9 GB</td><td>2025-08-20</td><td><a href="/hyperos/moonstone/stable beta/OS1.0.17.0.UMPRUXM/">Download</a></td></tr>
+                <tr><td>POCO X5 5G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.16.0.UMPTRXM</td><td>14.0</td><td>3.9 GB</td><td>2025-08-21</td><td><a href="/hyperos/moonstone/stable beta/OS1.0.16.0.UMPTRXM/">Download</a></td></tr>
+<tr><td>POCO X5 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.17.0.UMPTWXM</td><td>14.0</td><td>3.8 GB</td><td>2025-08-21</td><td><a href="/hyperos/moonstone/stable beta/OS1.0.17.0.UMPTWXM/">Download</a></td></tr>
+<tr><td>POCO X5 5G Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.17.0.UMPRUXM</td><td>14.0</td><td>3.9 GB</td><td>2025-08-20</td><td><a href="/hyperos/moonstone/stable beta/OS1.0.17.0.UMPRUXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.18.0.UMPINXM</td><td>14.0</td><td>3.8 GB</td><td>2025-08-19</td><td><a href="/hyperos/moonstone/stable/OS1.0.18.0.UMPINXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.18.0.UMPINXM</td><td>14.0</td><td>5.1 GB</td><td>2025-08-12</td><td><a href="/hyperos/moonstone/stable/OS1.0.18.0.UMPINXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.20.0.UMPEUXM</td><td>14.0</td><td>3.9 GB</td><td>2025-08-19</td><td><a href="/hyperos/moonstone/stable/OS1.0.20.0.UMPEUXM/">Download</a></td></tr>
