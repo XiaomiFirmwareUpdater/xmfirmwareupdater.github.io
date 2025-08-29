@@ -2915,6 +2915,18 @@
   name: Xiaomi 14T
   version: OS1.0.7.0.UNEMIXM
 - android: '15.0'
+  codename: dew
+  date: '2025-08-29'
+  download: https://bigota.d.miui.com/OS2.0.211.0.VBNEUXM/fw_dew_eea_global_dew_eea_global-ota_full-OS2.0.211.0.VBNEUXM-user-15.0-c1920da282.zip
+  name: Redmi 15C/POCO C85
+  version: OS2.0.211.0.VBNEUXM
+- android: '15.0'
+  codename: dew
+  date: '2025-08-29'
+  download: https://bigota.d.miui.com/OS2.0.211.0.VBNMIXM/fw_dew_global_dew_global-ota_full-OS2.0.211.0.VBNMIXM-user-15.0-6523ff79d0.zip
+  name: Redmi 15C/POCO C85
+  version: OS2.0.211.0.VBNMIXM
+- android: '15.0'
   codename: dijun
   date: '2025-07-25'
   download: https://bigota.d.miui.com/OS2.0.207.0.VODCNXM/fw_dijun_dijun-ota_full-OS2.0.207.0.VODCNXM-user-15.0-5a044d2e85.zip
@@ -4974,6 +4986,12 @@
   version: OS1.0.8.0.UMCCNXM
 - android: '15.0'
   codename: fuxi
+  date: '2025-08-29'
+  download: https://bigota.d.miui.com/OS2.0.112.0.VMCEUXM/fw_fuxi_eea_global_fuxi_eea_global-ota_full-OS2.0.112.0.VMCEUXM-user-15.0-88542bdc4d.zip
+  name: Xiaomi 13
+  version: OS2.0.112.0.VMCEUXM
+- android: '15.0'
+  codename: fuxi
   date: '2025-04-29'
   download: https://bigota.d.miui.com/OS2.0.104.0.VMCEUXM/fw_fuxi_eea_global_fuxi_eea_global-ota_full-OS2.0.104.0.VMCEUXM-user-15.0-06ef6404c8.zip
   name: Xiaomi 13
@@ -6694,6 +6712,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UNCCNXM/fw_houji_miui_HOUJI_OS1.0.9.0.UNCCNXM_e5644d702d_14.0.zip
   name: Xiaomi 14
   version: OS1.0.9.0.UNCCNXM
+- android: '15.0'
+  codename: houji
+  date: '2025-08-29'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VNCINXM/fw_houji_in_global_houji_in_global-ota_full-OS2.0.203.0.VNCINXM-user-15.0-e26e80650c.zip
+  name: Xiaomi 14
+  version: OS2.0.203.0.VNCINXM
 - android: '14.0'
   codename: houji
   date: '2024-03-28'
@@ -7270,6 +7294,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UMAMIXM/fw_ishtar_miui_ISHTARGlobal_OS1.0.12.0.UMAMIXM_e3c2a16cbf_14.0.zip
   name: Xiaomi 13 Ultra
   version: OS1.0.12.0.UMAMIXM
+- android: '15.0'
+  codename: ishtar
+  date: '2025-08-29'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VMAMIXM/fw_ishtar_global_ishtar_global-ota_full-OS2.0.205.0.VMAMIXM-user-15.0-f2109431e1.zip
+  name: Xiaomi 13 Ultra
+  version: OS2.0.205.0.VMAMIXM
 - android: '14.0'
   codename: ishtar
   date: '2024-02-29'
@@ -7546,6 +7576,12 @@
   download: https://bigota.d.miui.com/OS2.0.110.0.VOXCNXM/fw_jinghu_jinghu-ota_full-OS2.0.110.0.VOXCNXM-user-15.0-b31d1e2501.zip
   name: Xiaomi Pad 7 Ultra
   version: OS2.0.110.0.VOXCNXM
+- android: '15.0'
+  codename: koto
+  date: '2025-08-29'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VOWEUXM/fw_koto_eea_global_koto_eea_global-ota_full-OS2.0.202.0.VOWEUXM-user-15.0-c7e35309ff.zip
+  name: Redmi Pad 2 4G
+  version: OS2.0.202.0.VOWEUXM
 - android: '15.0'
   codename: koto
   date: '2025-07-29'
@@ -7870,6 +7906,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UKOINXM/fw_lisa_miui_LISAINGlobal_OS1.0.10.0.UKOINXM_59f2dd1fc0_14.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
   version: OS1.0.10.0.UKOINXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-08-29'
+  download: https://bigota.d.miui.com/OS2.0.11.0.UKOCNXM/fw_lisa_lisa-ota_full-OS2.0.11.0.UKOCNXM-user-14.0-5ac9f2158e.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.11.0.UKOCNXM
 - android: '14.0'
   codename: lisa
   date: '2024-03-28'
@@ -10854,6 +10896,12 @@
   version: OS2.0.121.0.VOLCNXM
 - android: '15.0'
   codename: onyx
+  date: '2025-08-29'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VOLMIXM/fw_onyx_global_onyx_global-ota_full-OS2.0.201.0.VOLMIXM-user-15.0-14951c2a2c.zip
+  name: Redmi Turbo 4 Pro/POCO F7
+  version: OS2.0.201.0.VOLMIXM
+- android: '15.0'
+  codename: onyx
   date: '2025-06-27'
   download: https://bigota.d.miui.com/OS2.0.102.0.VOLMIXM/fw_onyx_global_onyx_global-ota_full-OS2.0.102.0.VOLMIXM-user-15.0-a6f16bccbc.zip
   name: Redmi Turbo 4 Pro/POCO F7
@@ -11092,6 +11140,12 @@
   download: https://bigota.d.miui.com/OS2.0.201.0.VNPCNXM/fw_peridot_peridot-ota_full-OS2.0.201.0.VNPCNXM-user-15.0-4f8daca116.zip
   name: Redmi Turbo 3/POCO F6
   version: OS2.0.201.0.VNPCNXM
+- android: '15.0'
+  codename: peridot
+  date: '2025-08-29'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNPEUXM/fw_peridot_eea_global_peridot_eea_global-ota_full-OS2.0.204.0.VNPEUXM-user-15.0-199f0b6df2.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS2.0.204.0.VNPEUXM
 - android: '15.0'
   codename: peridot
   date: '2025-04-29'
@@ -11446,6 +11500,12 @@
   download: https://bigota.d.miui.com/OS2.0.6.0.UMZEUXM/fw_pipa_eea_global_pipa_eea_global-ota_full-OS2.0.6.0.UMZEUXM-user-14.0-7656845f25.zip
   name: Xiaomi Pad 6
   version: OS2.0.6.0.UMZEUXM
+- android: '14.0'
+  codename: pipa
+  date: '2025-08-29'
+  download: https://bigota.d.miui.com/OS2.0.7.0.UMZMIXM/fw_pipa_global_pipa_global-ota_full-OS2.0.7.0.UMZMIXM-user-14.0-f1e80d0d53.zip
+  name: Xiaomi Pad 6
+  version: OS2.0.7.0.UMZMIXM
 - android: '14.0'
   codename: pipa
   date: '2025-08-29'
@@ -12736,6 +12796,12 @@
   download: https://bigota.d.miui.com/OS2.0.204.0.VOJEUXM/fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.204.0.VOJEUXM-user-15.0-ba73caa314.zip
   name: Redmi Turbo 4/POCO X7 Pro
   version: OS2.0.204.0.VOJEUXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-08-29'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VOJMIXM/fw_rodin_global_rodin_global-ota_full-OS2.0.203.0.VOJMIXM-user-15.0-56cb977ae0.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.203.0.VOJMIXM
 - android: '15.0'
   codename: rodin
   date: '2025-08-29'
@@ -15556,6 +15622,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.TGKMIXM/fw_spesn_miui_SPESNGlobal_OS1.0.3.0.TGKMIXM_21b3b58697_13.0.zip
   name: Redmi Note 11 NFC
   version: OS1.0.3.0.TGKMIXM
+- android: '15.0'
+  codename: spring
+  date: '2025-08-29'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VOUCNXM/fw_spring_spring-ota_full-OS2.0.203.0.VOUCNXM-user-15.0-1301088748.zip
+  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  version: OS2.0.203.0.VOUCNXM
 - android: '15.0'
   codename: spring
   date: '2025-08-27'

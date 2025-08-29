@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2025-08-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spring/releases/download/stable-29.08.2025/fw_spring_spring-ota_full-OS2.0.203.0.VOUCNXM-user-15.0-1301088748.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/spring/fw_spring_spring-ota_full-OS2.0.203.0.VOUCNXM-user-15.0-1301088748.zip
+  filename: fw_spring_spring-ota_full-OS2.0.203.0.VOUCNXM-user-15.0-1301088748.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.203.0.VOUCNXM
+- branch: stable
   date: '2025-08-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spring/releases/download/stable-27.08.2025/fw_spring_in_global_spring_in_global-ota_full-OS2.0.203.0.VOUINXM-user-15.0-97420328f8.zip

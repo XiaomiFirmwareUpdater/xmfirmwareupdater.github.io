@@ -52,7 +52,9 @@ permalink: /hyperos/spring/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 15 5G / POCO M7 Plus 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VOUEUXM</td><td>15.0</td><td>7.4 GB</td><td>2025-08-01</td><td><a href="/hyperos/spring/stable/OS2.0.202.0.VOUEUXM/">Download</a></td></tr>
+                <tr><td>Redmi 15R 5G China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VOUCNXM</td><td>15.0</td><td>7.4 GB</td><td>2025-08-28</td><td><a href="/hyperos/spring/stable/OS2.0.203.0.VOUCNXM/">Download</a></td></tr>
+<tr><td>Redmi 15R 5G China</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VOUCNXM</td><td>15.0</td><td>5.4 GB</td><td>2025-08-29</td><td><a href="/hyperos/spring/stable/OS2.0.203.0.VOUCNXM/">Download</a></td></tr>
+<tr><td>Redmi 15 5G / POCO M7 Plus 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VOUEUXM</td><td>15.0</td><td>7.4 GB</td><td>2025-08-01</td><td><a href="/hyperos/spring/stable/OS2.0.202.0.VOUEUXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / POCO M7 Plus 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VOUEUXM</td><td>15.0</td><td>4.7 GB</td><td>2025-08-08</td><td><a href="/hyperos/spring/stable/OS2.0.202.0.VOUEUXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / POCO M7 Plus 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VOUMIXM</td><td>15.0</td><td>7.6 GB</td><td>2025-07-30</td><td><a href="/hyperos/spring/stable/OS2.0.203.0.VOUMIXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / POCO M7 Plus 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VOUMIXM</td><td>15.0</td><td>4.7 GB</td><td>2025-08-08</td><td><a href="/hyperos/spring/stable/OS2.0.203.0.VOUMIXM/">Download</a></td></tr>
