@@ -9,6 +9,16 @@
     android: '12.0'
     miui: V13.0.10.0.SCVCNXM
 - branch: stable
+  date: '2025-08-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-30.08.2025/fw_earth_miui_EARTH_OS1.0.8.0.UCVCNXM_8f78403c28_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTH_OS1.0.8.0.UCVCNXM_8f78403c28_14.0.zip
+  filename: fw_earth_miui_EARTH_OS1.0.8.0.UCVCNXM_8f78403c28_14.0.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS1.0.8.0.UCVCNXM
+- branch: stable
   date: '2024-08-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-30.08.2024/fw_earth_miui_EARTHEEAGlobal_OS1.0.5.0.UCVEUXM_cb6382cef1_14.0.zip

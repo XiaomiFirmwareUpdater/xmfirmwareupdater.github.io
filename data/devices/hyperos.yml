@@ -3954,6 +3954,12 @@
   version: OS2.0.100.0.VNLMIXM
 - android: '14.0'
   codename: earth
+  date: '2025-08-29'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UCVCNXM/fw_earth_miui_EARTH_OS1.0.8.0.UCVCNXM_8f78403c28_14.0.zip
+  name: Redmi 12C/POCO C55
+  version: OS1.0.8.0.UCVCNXM
+- android: '14.0'
+  codename: earth
   date: '2024-08-30'
   download: https://bigota.d.miui.com/OS1.0.5.0.UCVEUXM/fw_earth_miui_EARTHEEAGlobal_OS1.0.5.0.UCVEUXM_cb6382cef1_14.0.zip
   name: Redmi 12C/POCO C55
@@ -13602,6 +13608,12 @@
   version: OS2.0.7.0.UMOCNXM
 - android: '14.0'
   codename: ruby
+  date: '2025-08-29'
+  download: https://bigota.d.miui.com/OS2.0.8.0.UMOCNXM/fw_ruby_ruby-ota_full-OS2.0.8.0.UMOCNXM-user-14.0-88c35df3c7.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS2.0.8.0.UMOCNXM
+- android: '14.0'
+  codename: ruby
   date: '2025-05-29'
   download: https://bigota.d.miui.com/OS2.0.4.0.UMOCNXM/fw_ruby_ruby-ota_full-OS2.0.4.0.UMOCNXM-user-14.0-1f6d594372.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
@@ -13978,6 +13990,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UNIEUXM/fw_ruyi_miui_RUYIEEAGlobal_OS1.0.2.0.UNIEUXM_32f94e6e54_14.0.zip
   name: MIX Flip
   version: OS1.0.2.0.UNIEUXM
+- android: '15.0'
+  codename: ruyi
+  date: '2025-08-29'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VNIMIXM/fw_ruyi_global_ruyi_global-ota_full-OS2.0.203.0.VNIMIXM-user-15.0-112d8e99b2.zip
+  name: MIX Flip
+  version: OS2.0.203.0.VNIMIXM
 - android: '14.0'
   codename: ruyi
   date: '2024-07-28'
