@@ -52,8 +52,8 @@ permalink: /hyperos/aurora/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 14 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.209.0.VNACNXM</td><td>15.0</td><td>9.9 GB</td><td>2025-07-18</td><td><a href="/hyperos/aurora/stable/OS2.0.209.0.VNACNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.209.0.VNACNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-07-23</td><td><a href="/hyperos/aurora/stable/OS2.0.209.0.VNACNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 14 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.210.0.VNACNXM</td><td>15.0</td><td>9.9 GB</td><td>2025-08-20</td><td><a href="/hyperos/aurora/stable/OS2.0.210.0.VNACNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.210.0.VNACNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-08-25</td><td><a href="/hyperos/aurora/stable/OS2.0.210.0.VNACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.UNACNXM</td><td>14.0</td><td>7.3 GB</td><td>2024-03-18</td><td><a href="/hyperos/aurora/stable beta/OS1.0.7.0.UNACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VNAEUXM</td><td>15.0</td><td>8.7 GB</td><td>2025-07-22</td><td><a href="/hyperos/aurora/stable/OS2.0.205.0.VNAEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VNAEUXM</td><td>15.0</td><td>7.1 GB</td><td>2025-07-31</td><td><a href="/hyperos/aurora/stable/OS2.0.205.0.VNAEUXM/">Download</a></td></tr>

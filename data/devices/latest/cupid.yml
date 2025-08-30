@@ -1,23 +1,23 @@
 - branch: stable
-  date: '2025-07-31'
+  date: '2025-08-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-31.07.2025/fw_cupid_global_cupid_global-ota_full-OS2.0.201.0.VLCMIXM-user-15.0-971ce20819.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/cupid/fw_cupid_global_cupid_global-ota_full-OS2.0.201.0.VLCMIXM-user-15.0-971ce20819.zip
-  filename: fw_cupid_global_cupid_global-ota_full-OS2.0.201.0.VLCMIXM-user-15.0-971ce20819.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-30.08.2025/fw_cupid_global_cupid_global-ota_full-OS2.0.202.0.VLCMIXM-user-15.0-633f765d74.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/cupid/fw_cupid_global_cupid_global-ota_full-OS2.0.202.0.VLCMIXM-user-15.0-633f765d74.zip
+  filename: fw_cupid_global_cupid_global-ota_full-OS2.0.202.0.VLCMIXM-user-15.0-633f765d74.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.201.0.VLCMIXM
+    miui: OS2.0.202.0.VLCMIXM
 - branch: stable
-  date: '2025-07-23'
+  date: '2025-08-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-23.07.2025/fw_cupid_cupid-ota_full-OS2.0.204.0.VLCCNXM-user-15.0-92d6f79bc9.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/cupid/fw_cupid_cupid-ota_full-OS2.0.204.0.VLCCNXM-user-15.0-92d6f79bc9.zip
-  filename: fw_cupid_cupid-ota_full-OS2.0.204.0.VLCCNXM-user-15.0-92d6f79bc9.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-30.08.2025/fw_cupid_cupid-ota_full-OS2.0.208.0.VLCCNXM-user-15.0-fcd8fdbdb0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/cupid/fw_cupid_cupid-ota_full-OS2.0.208.0.VLCCNXM-user-15.0-fcd8fdbdb0.zip
+  filename: fw_cupid_cupid-ota_full-OS2.0.208.0.VLCCNXM-user-15.0-fcd8fdbdb0.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.204.0.VLCCNXM
+    miui: OS2.0.208.0.VLCCNXM
 - branch: stable
   date: '2025-07-28'
   downloads:
