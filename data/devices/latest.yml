@@ -1599,15 +1599,15 @@
     android: '15.0'
     miui: OS2.0.203.0.VNSEUXM
 - branch: stable
-  date: '2025-07-24'
+  date: '2025-08-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-25.07.2025/fw_dizi_in_global_dizi_in_global-ota_full-OS2.0.201.0.VNSINXM-user-15.0-f32ce6eb48.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dizi/fw_dizi_in_global_dizi_in_global-ota_full-OS2.0.201.0.VNSINXM-user-15.0-f32ce6eb48.zip
-  filename: fw_dizi_in_global_dizi_in_global-ota_full-OS2.0.201.0.VNSINXM-user-15.0-f32ce6eb48.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-30.08.2025/fw_dizi_in_global_dizi_in_global-ota_full-OS2.0.202.0.VNSINXM-user-15.0-d56c8f2b77.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dizi/fw_dizi_in_global_dizi_in_global-ota_full-OS2.0.202.0.VNSINXM-user-15.0-d56c8f2b77.zip
+  filename: fw_dizi_in_global_dizi_in_global-ota_full-OS2.0.202.0.VNSINXM-user-15.0-d56c8f2b77.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.201.0.VNSINXM
+    miui: OS2.0.202.0.VNSINXM
 - branch: stable
   date: '2025-07-14'
   downloads:
@@ -1919,15 +1919,15 @@
     android: '14.0'
     miui: OS1.0.3.0.UHXIDXM
 - branch: stable
-  date: '2025-07-07'
+  date: '2025-08-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flare/releases/download/stable-07.07.2025/fw_flare_eea_global_flare_eea_global-ota_full-OS2.0.201.0.VHXEUXM-user-15.0-97d5251635.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/flare/fw_flare_eea_global_flare_eea_global-ota_full-OS2.0.201.0.VHXEUXM-user-15.0-97d5251635.zip
-  filename: fw_flare_eea_global_flare_eea_global-ota_full-OS2.0.201.0.VHXEUXM-user-15.0-97d5251635.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flare/releases/download/stable-30.08.2025/fw_flare_eea_global_flare_eea_global-ota_full-OS2.0.203.0.VHXEUXM-user-15.0-e09c9eec2c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/flare/fw_flare_eea_global_flare_eea_global-ota_full-OS2.0.203.0.VHXEUXM-user-15.0-e09c9eec2c.zip
+  filename: fw_flare_eea_global_flare_eea_global-ota_full-OS2.0.203.0.VHXEUXM-user-15.0-e09c9eec2c.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.201.0.VHXEUXM
+    miui: OS2.0.203.0.VHXEUXM
 - branch: stable
   date: '2024-12-19'
   downloads:
@@ -5649,15 +5649,15 @@
     android: '15.0'
     miui: OS2.0.208.0.VMKCNXM
 - branch: stable
-  date: '2025-06-30'
+  date: '2025-08-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spark/releases/download/stable-30.06.2025/fw_spark_global_spark_global-ota_full-OS2.0.4.0.VHYMIXM-user-15.0-8cf0c885ee.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/spark/fw_spark_global_spark_global-ota_full-OS2.0.4.0.VHYMIXM-user-15.0-8cf0c885ee.zip
-  filename: fw_spark_global_spark_global-ota_full-OS2.0.4.0.VHYMIXM-user-15.0-8cf0c885ee.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spark/releases/download/stable-30.08.2025/fw_spark_global_spark_global-ota_full-OS2.0.202.0.VHYMIXM-user-15.0-cde269dafd.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/spark/fw_spark_global_spark_global-ota_full-OS2.0.202.0.VHYMIXM-user-15.0-cde269dafd.zip
+  filename: fw_spark_global_spark_global-ota_full-OS2.0.202.0.VHYMIXM-user-15.0-cde269dafd.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.4.0.VHYMIXM
+    miui: OS2.0.202.0.VHYMIXM
 - branch: stable
   date: '2025-08-28'
   downloads:

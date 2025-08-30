@@ -19,6 +19,16 @@
     android: '15.0'
     miui: OS2.0.1.0.VNSINXM
 - branch: stable
+  date: '2025-08-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-30.08.2025/fw_dizi_in_global_dizi_in_global-ota_full-OS2.0.202.0.VNSINXM-user-15.0-d56c8f2b77.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dizi/fw_dizi_in_global_dizi_in_global-ota_full-OS2.0.202.0.VNSINXM-user-15.0-d56c8f2b77.zip
+  filename: fw_dizi_in_global_dizi_in_global-ota_full-OS2.0.202.0.VNSINXM-user-15.0-d56c8f2b77.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.202.0.VNSINXM
+- branch: stable
   date: '2024-08-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-30.08.2024/fw_dizi_miui_DIZIGlobal_OS1.0.7.0.UNSMIXM_240c10987b_14.0.zip
