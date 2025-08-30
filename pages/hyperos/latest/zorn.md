@@ -64,11 +64,11 @@ permalink: /hyperos/zorn/
 <tr><td>POCO F7 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VOKIDXM</td><td>15.0</td><td>6.1 GB</td><td>2025-08-21</td><td><a href="/hyperos/zorn/stable/OS2.0.201.0.VOKIDXM/">Download</a></td></tr>
 <tr><td>POCO F7 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VOKRUXM</td><td>15.0</td><td>9.4 GB</td><td>2025-08-13</td><td><a href="/hyperos/zorn/stable/OS2.0.201.0.VOKRUXM/">Download</a></td></tr>
 <tr><td>POCO F7 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VOKRUXM</td><td>15.0</td><td>6.0 GB</td><td>2025-08-21</td><td><a href="/hyperos/zorn/stable/OS2.0.201.0.VOKRUXM/">Download</a></td></tr>
+<tr><td>POCO F7 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VOKTWXM</td><td>15.0</td><td>7.1 GB</td><td>2025-08-12</td><td><a href="/hyperos/zorn/stable/OS2.0.201.0.VOKTWXM/">Download</a></td></tr>
+<tr><td>POCO F7 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VOKTWXM</td><td>15.0</td><td>6.0 GB</td><td>2025-08-22</td><td><a href="/hyperos/zorn/stable/OS2.0.201.0.VOKTWXM/">Download</a></td></tr>
 <tr><td>POCO F7 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VOKTRXM</td><td>15.0</td><td>8.3 GB</td><td>2025-02-24</td><td><a href="/hyperos/zorn/stable/OS2.0.2.0.VOKTRXM/">Download</a></td></tr>
 <tr><td>POCO F7 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VOKTRXM</td><td>15.0</td><td>6.0 GB</td><td>2025-03-27</td><td><a href="/hyperos/zorn/stable/OS2.0.2.0.VOKTRXM/">Download</a></td></tr>
 <tr><td>POCO F7 Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.VOKTRXM</td><td>15.0</td><td>6.0 GB</td><td>2025-03-27</td><td><a href="/hyperos/zorn/stable beta/OS2.0.1.0.VOKTRXM/">Download</a></td></tr>
-<tr><td>POCO F7 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.200.0.VOKTWXM</td><td>15.0</td><td>7.1 GB</td><td>2025-07-11</td><td><a href="/hyperos/zorn/stable/OS2.0.200.0.VOKTWXM/">Download</a></td></tr>
-<tr><td>POCO F7 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.200.0.VOKTWXM</td><td>15.0</td><td>6.0 GB</td><td>2025-07-23</td><td><a href="/hyperos/zorn/stable/OS2.0.200.0.VOKTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
