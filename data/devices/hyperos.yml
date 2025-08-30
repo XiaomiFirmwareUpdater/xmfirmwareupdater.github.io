@@ -180,6 +180,12 @@
   version: OS1.0.13.0.UKWMIXM
 - android: '15.0'
   codename: air
+  date: '2025-08-30'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VGQEUXM/fw_air_eea_global_air_eea_global-ota_full-OS2.0.204.0.VGQEUXM-user-15.0-e419553267.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS2.0.204.0.VGQEUXM
+- android: '15.0'
+  codename: air
   date: '2025-06-30'
   download: https://bigota.d.miui.com/OS2.0.201.0.VGQEUXM/fw_air_eea_global_air_eea_global-ota_full-OS2.0.201.0.VGQEUXM-user-15.0-484c5991e3.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
@@ -11194,6 +11200,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UNPMIXM/fw_peridot_miui_PERIDOTGlobal_OS1.0.12.0.UNPMIXM_2fdc6b9e19_14.0.zip
   name: Redmi Turbo 3/POCO F6
   version: OS1.0.12.0.UNPMIXM
+- android: '15.0'
+  codename: peridot
+  date: '2025-08-30'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNPMIXM/fw_peridot_global_peridot_global-ota_full-OS2.0.204.0.VNPMIXM-user-15.0-13c6a9ca52.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS2.0.204.0.VNPMIXM
 - android: '14.0'
   codename: peridot
   date: '2024-09-30'
@@ -12058,6 +12070,18 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.TKTEUXM/fw_pissarro_miui_PISSARROEEAGlobal_OS1.0.2.0.TKTEUXM_d172ed0f80_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
   version: OS1.0.2.0.TKTEUXM
+- android: '15.0'
+  codename: plato
+  date: '2025-08-30'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VLQEUXM/fw_plato_eea_global_plato_eea_global-ota_full-OS2.0.202.0.VLQEUXM-user-15.0-f234abd7a9.zip
+  name: Xiaomi 12T
+  version: OS2.0.202.0.VLQEUXM
+- android: '15.0'
+  codename: plato
+  date: '2025-08-30'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VLQMIXM/fw_plato_global_plato_global-ota_full-OS2.0.204.0.VLQMIXM-user-15.0-669d2b49cc.zip
+  name: Xiaomi 12T
+  version: OS2.0.204.0.VLQMIXM
 - android: '15.0'
   codename: plato
   date: '2025-03-27'
@@ -14274,6 +14298,12 @@
   version: OS2.0.102.0.VNIEUXM
 - android: '15.0'
   codename: sapphire
+  date: '2025-08-30'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VNGMIXM/fw_sapphire_global_sapphire_global-ota_full-OS2.0.203.0.VNGMIXM-user-15.0-e6064e3044.zip
+  name: Redmi Note 13
+  version: OS2.0.203.0.VNGMIXM
+- android: '15.0'
+  codename: sapphire
   date: '2025-03-31'
   download: https://bigota.d.miui.com/OS2.0.10.0.VNGMIXM/fw_sapphire_global_sapphire_global-ota_full-OS2.0.10.0.VNGMIXM-user-15.0-78e8820ac6.zip
   name: Redmi Note 13
@@ -14362,6 +14392,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UNGMIXM/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.10.0.UNGMIXM_b2dd8a307b_14.0.zip
   name: Redmi Note 13
   version: OS1.0.10.0.UNGMIXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-08-30'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VNHEUXM/fw_sapphiren_eea_global_sapphiren_eea_global-ota_full-OS2.0.203.0.VNHEUXM-user-15.0-bae2a2635c.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.203.0.VNHEUXM
 - android: '14.0'
   codename: sapphiren
   date: '2024-09-30'
