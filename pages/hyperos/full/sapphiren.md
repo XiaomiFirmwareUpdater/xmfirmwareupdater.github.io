@@ -52,7 +52,8 @@ permalink: /archive/hyperos/sapphiren/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 13 NFC Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VNHTWXM</td><td>15.0</td><td>4.6 GB</td><td>2025-08-21</td><td><a href="/hyperos/sapphiren/stable/OS2.0.202.0.VNHTWXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 13 NFC Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.202.0.VNHMIXM</td><td>15.0</td><td>4.8 GB</td><td>2025-08-21</td><td><a href="/hyperos/sapphiren/stable beta/OS2.0.202.0.VNHMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 NFC Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VNHTWXM</td><td>15.0</td><td>4.6 GB</td><td>2025-08-21</td><td><a href="/hyperos/sapphiren/stable/OS2.0.202.0.VNHTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VNHTWXM</td><td>15.0</td><td>6.0 GB</td><td>2025-08-13</td><td><a href="/hyperos/sapphiren/stable/OS2.0.202.0.VNHTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VNHEUXM</td><td>15.0</td><td>4.8 GB</td><td>2025-08-20</td><td><a href="/hyperos/sapphiren/stable/OS2.0.203.0.VNHEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VNHEUXM</td><td>15.0</td><td>7.2 GB</td><td>2025-08-13</td><td><a href="/hyperos/sapphiren/stable/OS2.0.203.0.VNHEUXM/">Download</a></td></tr>

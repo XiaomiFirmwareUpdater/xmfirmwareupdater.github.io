@@ -3,7 +3,7 @@ title: Redmi Note 13 Pro 4G / POCO M6 Pro Russia HyperOS OS2.0.208.0.VNFRUXM Upd
 layout: download
 name: Redmi Note 13 Pro 4G / POCO M6 Pro Russia
 codename: emerald
-permalink: /hyperos/emerald/stable beta/OS2.0.208.0.VNFRUXM/
+permalink: /hyperos/emerald/stable/OS2.0.208.0.VNFRUXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/emerald/stable beta/OS2.0.208.0.VNFRUXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.208.0.VNFRUXM Stable Beta Official Update for Redmi Note 13 Pro 4G / POCO M6 Pro Russia (emerald)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.208.0.VNFRUXM Stable Official Update for Redmi Note 13 Pro 4G / POCO M6 Pro Russia (emerald)</h3>
     <h5>This page shows the OS2.0.208.0.VNFRUXM update only. If you're looking for other updates check
         <a href="/hyperos/emerald/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/emerald/stable beta/OS2.0.208.0.VNFRUXM/
                     <h5><b>Version: </b>OS2.0.208.0.VNFRUXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/emerald/stable beta/OS2.0.208.0.VNFRUXM/
                             aria-expanded="false" aria-controls="emerald_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="emerald_1_changelog">
+                        <p id="changelog_text">Bug fixes and system optimizations.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi Note 13 Pro 4G / POCO M6 Pro Russia</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/emerald/" target="_blank">emerald</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.208.0.VNFRUXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>8.0 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-08-12</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">emerald_ru_global_images_OS2.0.208.0.VNFRUXM_20250812.0000.00_15.0_ru_3304195804.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">3304195804a90848e9cc32d5709cf92c</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.208.0.VNFRUXM/emerald_ru_global_images_OS2.0.208.0.VNFRUXM_20250812.0000.00_15.0_ru_3304195804.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.208.0.VNFRUXM/emerald_ru_global_images_OS2.0.208.0.VNFRUXM_20250812.0000.00_15.0_ru_3304195804.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.208.0.VNFRUXM/emerald_ru_global_images_OS2.0.208.0.VNFRUXM_20250812.0000.00_15.0_ru_3304195804.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.208.0.VNFRUXM/emerald_ru_global_images_OS2.0.208.0.VNFRUXM_20250812.0000.00_15.0_ru_3304195804.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.208.0.VNFRUXM/emerald_ru_global_images_OS2.0.208.0.VNFRUXM_20250812.0000.00_15.0_ru_3304195804.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#emerald_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="emerald_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="emerald_2_changelog">
                         <p id="changelog_text">Bug fixes and system optimizations.</p>
                     </div>
                 </li>
