@@ -9,6 +9,16 @@
     android: '14.0'
     miui: OS1.0.7.0.UFSCNXM
 - branch: stable
+  date: '2025-08-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-31.08.2025/fw_ruan_in_global_ruan_in_global-ota_full-OS2.0.202.0.VFSINXM-user-15.0-22ece45293.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruan/fw_ruan_in_global_ruan_in_global-ota_full-OS2.0.202.0.VFSINXM-user-15.0-22ece45293.zip
+  filename: fw_ruan_in_global_ruan_in_global-ota_full-OS2.0.202.0.VFSINXM-user-15.0-22ece45293.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.202.0.VFSINXM
+- branch: stable
   date: '2025-03-31'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-31.03.2025/fw_ruan_in_global_ruan_in_global-ota_full-OS2.0.2.0.VFSINXM-user-15.0-c853300b68.zip

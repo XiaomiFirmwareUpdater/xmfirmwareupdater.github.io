@@ -52,7 +52,9 @@ permalink: /archive/hyperos/onyx/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F7 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VOLMIXM</td><td>15.0</td><td>6.9 GB</td><td>2025-08-21</td><td><a href="/hyperos/onyx/stable/OS2.0.201.0.VOLMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Turbo 4 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.212.0.VOLCNXM</td><td>15.0</td><td>7.9 GB</td><td>2025-08-22</td><td><a href="/hyperos/onyx/stable/OS2.0.212.0.VOLCNXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 4 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.212.0.VOLCNXM</td><td>15.0</td><td>10.0 GB</td><td>2025-08-13</td><td><a href="/hyperos/onyx/stable/OS2.0.212.0.VOLCNXM/">Download</a></td></tr>
+<tr><td>POCO F7 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VOLMIXM</td><td>15.0</td><td>6.9 GB</td><td>2025-08-21</td><td><a href="/hyperos/onyx/stable/OS2.0.201.0.VOLMIXM/">Download</a></td></tr>
 <tr><td>POCO F7 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VOLMIXM</td><td>15.0</td><td>10.2 GB</td><td>2025-08-13</td><td><a href="/hyperos/onyx/stable/OS2.0.201.0.VOLMIXM/">Download</a></td></tr>
 <tr><td>POCO F7 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VOLIDXM</td><td>15.0</td><td>6.9 GB</td><td>2025-08-19</td><td><a href="/hyperos/onyx/stable/OS2.0.201.0.VOLIDXM/">Download</a></td></tr>
 <tr><td>POCO F7 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VOLIDXM</td><td>15.0</td><td>9.5 GB</td><td>2025-08-13</td><td><a href="/hyperos/onyx/stable/OS2.0.201.0.VOLIDXM/">Download</a></td></tr>
