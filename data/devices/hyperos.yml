@@ -5944,6 +5944,18 @@
   download: https://bigota.d.miui.com/OS2.0.201.0.VNREUXM/fw_garnet_eea_global_garnet_eea_global-ota_full-OS2.0.201.0.VNREUXM-user-15.0-0ce7fd86a3.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS2.0.201.0.VNREUXM
+- android: '15.0'
+  codename: garnet
+  date: '2025-09-01'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VNRMIXM/fw_garnet_global_garnet_global-ota_full-OS2.0.202.0.VNRMIXM-user-15.0-82fbfa4f44.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS2.0.202.0.VNRMIXM
+- android: '15.0'
+  codename: garnet
+  date: '2025-09-01'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VNRINXM/fw_garnet_in_global_garnet_in_global-ota_full-OS2.0.202.0.VNRINXM-user-15.0-6e38de7f5f.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS2.0.202.0.VNRINXM
 - android: '14.0'
   codename: garnet
   date: '2024-07-01'
@@ -15389,6 +15401,12 @@
   name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
   version: OS1.0.14.0.UNBCNXM
 - android: '15.0'
+  codename: shennong
+  date: '2025-09-01'
+  download: https://bigota.d.miui.com/OS2.0.217.0.VNBCNXM/fw_shennong_shennong-ota_full-OS2.0.217.0.VNBCNXM-user-15.0-dcb51c4ebb.zip
+  name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
+  version: OS2.0.217.0.VNBCNXM
+- android: '15.0'
   codename: sky
   date: '2025-07-31'
   download: https://bigota.d.miui.com/OS2.0.204.0.VMWCNXM/fw_sky_sky-ota_full-OS2.0.204.0.VMWCNXM-user-15.0-5b8f723fe7.zip
@@ -20284,6 +20302,12 @@
   download: https://bigota.d.miui.com/OS1.0.11.0.ULLMIXM/fw_ziyi_miui_ZIYIGlobal_OS1.0.11.0.ULLMIXM_7bbfa8358e_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.11.0.ULLMIXM
+- android: '15.0'
+  codename: ziyi
+  date: '2025-09-01'
+  download: https://bigota.d.miui.com/OS2.0.200.0.VLLMIXM/fw_ziyi_global_ziyi_global-ota_full-OS2.0.200.0.VLLMIXM-user-15.0-9248aee463.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS2.0.200.0.VLLMIXM
 - android: '14.0'
   codename: ziyi
   date: '2024-04-01'
