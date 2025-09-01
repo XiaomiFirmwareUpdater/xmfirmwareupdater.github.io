@@ -129,15 +129,15 @@
     android: '15.0'
     miui: OS2.0.209.0.VOPCNXM
 - branch: stable
-  date: '2025-08-06'
+  date: '2025-09-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-06.08.2025/fw_amethyst_eea_global_amethyst_eea_global-ota_full-OS2.0.203.0.VOPEUXM-user-15.0-f0dae74727.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/amethyst/fw_amethyst_eea_global_amethyst_eea_global-ota_full-OS2.0.203.0.VOPEUXM-user-15.0-f0dae74727.zip
-  filename: fw_amethyst_eea_global_amethyst_eea_global-ota_full-OS2.0.203.0.VOPEUXM-user-15.0-f0dae74727.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-01.09.2025/fw_amethyst_eea_global_amethyst_eea_global-ota_full-OS2.0.206.0.VOPEUXM-user-15.0-b614e873a1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/amethyst/fw_amethyst_eea_global_amethyst_eea_global-ota_full-OS2.0.206.0.VOPEUXM-user-15.0-b614e873a1.zip
+  filename: fw_amethyst_eea_global_amethyst_eea_global-ota_full-OS2.0.206.0.VOPEUXM-user-15.0-b614e873a1.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.203.0.VOPEUXM
+    miui: OS2.0.206.0.VOPEUXM
 - branch: stable
   date: '2025-07-09'
   downloads:
@@ -339,15 +339,15 @@
     android: '15.0'
     miui: OS2.0.208.0.VMFMIXM
 - branch: stable
-  date: '2025-08-13'
+  date: '2025-09-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aristotle/releases/download/stable-13.08.2025/fw_aristotle_eea_global_aristotle_eea_global-ota_full-OS2.0.203.0.VMFEUXM-user-15.0-e3bddc17f1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aristotle/fw_aristotle_eea_global_aristotle_eea_global-ota_full-OS2.0.203.0.VMFEUXM-user-15.0-e3bddc17f1.zip
-  filename: fw_aristotle_eea_global_aristotle_eea_global-ota_full-OS2.0.203.0.VMFEUXM-user-15.0-e3bddc17f1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aristotle/releases/download/stable-01.09.2025/fw_aristotle_eea_global_aristotle_eea_global-ota_full-OS2.0.205.0.VMFEUXM-user-15.0-f18e218900.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aristotle/fw_aristotle_eea_global_aristotle_eea_global-ota_full-OS2.0.205.0.VMFEUXM-user-15.0-f18e218900.zip
+  filename: fw_aristotle_eea_global_aristotle_eea_global-ota_full-OS2.0.205.0.VMFEUXM-user-15.0-f18e218900.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.203.0.VMFEUXM
+    miui: OS2.0.205.0.VMFEUXM
 - branch: stable
   date: '2023-02-16'
   downloads:
