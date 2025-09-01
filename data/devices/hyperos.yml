@@ -790,6 +790,12 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.VMFEUXM/fw_aristotle_eea_global_aristotle_eea_global-ota_full-OS2.0.3.0.VMFEUXM-user-15.0-6803633936.zip
   name: Xiaomi 13T
   version: OS2.0.3.0.VMFEUXM
+- android: '15.0'
+  codename: aristotle
+  date: '2025-09-01'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VMFMIXM/fw_aristotle_global_aristotle_global-ota_full-OS2.0.208.0.VMFMIXM-user-15.0-7c8fda1b7d.zip
+  name: Xiaomi 13T
+  version: OS2.0.208.0.VMFMIXM
 - android: '14.0'
   codename: aristotle
   date: '2024-07-01'
@@ -4248,6 +4254,12 @@
   version: OS1.0.9.0.UCVINXM
 - android: '14.0'
   codename: earth
+  date: '2025-09-01'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UCVEUXM/fw_earth_miui_EARTHEEAGlobal_OS1.0.12.0.UCVEUXM_314c2c8692_14.0.zip
+  name: Redmi 12C/POCO C55
+  version: OS1.0.12.0.UCVEUXM
+- android: '14.0'
+  codename: earth
   date: '2024-09-01'
   download: https://bigota.d.miui.com/OS1.0.6.0.UCVINXM/fw_earth_miui_EARTHINGlobal_OS1.0.6.0.UCVINXM_47b19aa971_14.0.zip
   name: Redmi 12C/POCO C55
@@ -5548,6 +5560,18 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VGPINXM/fw_gale_in_global_gale_in_global-ota_full-OS2.0.2.0.VGPINXM-user-15.0-3eb97571f1.zip
   name: Redmi 13C/POCO C65
   version: OS2.0.2.0.VGPINXM
+- android: '15.0'
+  codename: gale
+  date: '2025-09-01'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VGPEUXM/fw_gale_eea_global_gale_eea_global-ota_full-OS2.0.203.0.VGPEUXM-user-15.0-8295d494e8.zip
+  name: Redmi 13C/POCO C65
+  version: OS2.0.203.0.VGPEUXM
+- android: '15.0'
+  codename: gale
+  date: '2025-09-01'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VGPMIXM/fw_gale_global_gale_global-ota_full-OS2.0.202.0.VGPMIXM-user-15.0-96eae4e5da.zip
+  name: Redmi 13C/POCO C65
+  version: OS2.0.202.0.VGPMIXM
 - android: '14.0'
   codename: garnet
   date: '2024-12-31'
@@ -5902,6 +5926,12 @@
   download: https://bigota.d.miui.com/OS2.0.10.0.VNRMIXM/fw_garnet_global_garnet_global-ota_full-OS2.0.10.0.VNRMIXM-user-15.0-52ad2f3605.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS2.0.10.0.VNRMIXM
+- android: '15.0'
+  codename: garnet
+  date: '2025-09-01'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VNREUXM/fw_garnet_eea_global_garnet_eea_global-ota_full-OS2.0.201.0.VNREUXM-user-15.0-0ce7fd86a3.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS2.0.201.0.VNREUXM
 - android: '14.0'
   codename: garnet
   date: '2024-07-01'
@@ -18892,6 +18922,12 @@
   download: https://bigota.d.miui.com/OS2.0.1.0.VMUINXM/fw_xun_in_global_xun_in_global-ota_full-OS2.0.1.0.VMUINXM-user-15.0-67e2835795.zip
   name: Redmi Pad SE
   version: OS2.0.1.0.VMUINXM
+- android: '15.0'
+  codename: xun
+  date: '2025-09-01'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VMUEUXM/fw_xun_eea_global_xun_eea_global-ota_full-OS2.0.202.0.VMUEUXM-user-15.0-c8453d83bd.zip
+  name: Redmi Pad SE
+  version: OS2.0.202.0.VMUEUXM
 - android: '14.0'
   codename: yudi
   date: '2024-09-30'

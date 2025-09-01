@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-08-06'
+  date: '2025-09-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aristotle/releases/download/stable-06.08.2025/fw_aristotle_global_aristotle_global-ota_full-OS2.0.205.0.VMFMIXM-user-15.0-41a47b3bad.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aristotle/fw_aristotle_global_aristotle_global-ota_full-OS2.0.205.0.VMFMIXM-user-15.0-41a47b3bad.zip
-  filename: fw_aristotle_global_aristotle_global-ota_full-OS2.0.205.0.VMFMIXM-user-15.0-41a47b3bad.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aristotle/releases/download/stable-01.09.2025/fw_aristotle_global_aristotle_global-ota_full-OS2.0.208.0.VMFMIXM-user-15.0-7c8fda1b7d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aristotle/fw_aristotle_global_aristotle_global-ota_full-OS2.0.208.0.VMFMIXM-user-15.0-7c8fda1b7d.zip
+  filename: fw_aristotle_global_aristotle_global-ota_full-OS2.0.208.0.VMFMIXM-user-15.0-7c8fda1b7d.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.205.0.VMFMIXM
+    miui: OS2.0.208.0.VMFMIXM
 - branch: stable
   date: '2025-08-13'
   downloads:
