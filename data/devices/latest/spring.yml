@@ -19,15 +19,15 @@
     android: '15.0'
     miui: OS2.0.203.0.VOUCNXM
 - branch: stable
-  date: '2025-08-08'
+  date: '2025-09-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spring/releases/download/stable-09.08.2025/fw_spring_eea_global_spring_eea_global-ota_full-OS2.0.202.0.VOUEUXM-user-15.0-77083e7879.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/spring/fw_spring_eea_global_spring_eea_global-ota_full-OS2.0.202.0.VOUEUXM-user-15.0-77083e7879.zip
-  filename: fw_spring_eea_global_spring_eea_global-ota_full-OS2.0.202.0.VOUEUXM-user-15.0-77083e7879.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spring/releases/download/stable-02.09.2025/fw_spring_eea_global_spring_eea_global-ota_full-OS2.0.203.0.VOUEUXM-user-15.0-851ccd1b0d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/spring/fw_spring_eea_global_spring_eea_global-ota_full-OS2.0.203.0.VOUEUXM-user-15.0-851ccd1b0d.zip
+  filename: fw_spring_eea_global_spring_eea_global-ota_full-OS2.0.203.0.VOUEUXM-user-15.0-851ccd1b0d.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.202.0.VOUEUXM
+    miui: OS2.0.203.0.VOUEUXM
 - branch: stable
   date: '2025-08-27'
   downloads:

@@ -8358,6 +8358,12 @@
   version: OS1.0.8.0.UKOCNXM
 - android: '14.0'
   codename: lisa
+  date: '2025-09-02'
+  download: https://bigota.d.miui.com/OS2.0.8.0.UKOMIXM/fw_lisa_global_lisa_global-ota_full-OS2.0.8.0.UKOMIXM-user-14.0-5b7c32625a.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.8.0.UKOMIXM
+- android: '14.0'
+  codename: lisa
   date: '2025-04-02'
   download: https://bigota.d.miui.com/OS2.0.1.0.UKOEUXM/fw_lisa_eea_global_lisa_eea_global-ota_full-OS2.0.1.0.UKOEUXM-user-14.0-04311e8d04.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
@@ -15982,6 +15988,12 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VOUMIXM/fw_spring_global_spring_global-ota_full-OS2.0.203.0.VOUMIXM-user-15.0-55ad2855de.zip
   name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
   version: OS2.0.203.0.VOUMIXM
+- android: '15.0'
+  codename: spring
+  date: '2025-09-02'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VOUEUXM/fw_spring_eea_global_spring_eea_global-ota_full-OS2.0.203.0.VOUEUXM-user-15.0-851ccd1b0d.zip
+  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  version: OS2.0.203.0.VOUEUXM
 - android: '14.0'
   codename: star
   date: '2024-08-29'
@@ -20416,6 +20428,12 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.VLRCNXM/fw_zizhan_zizhan-ota_full-OS2.0.3.0.VLRCNXM-user-15.0-b30c68986b.zip
   name: Xiaomi MIX Fold 2
   version: OS2.0.3.0.VLRCNXM
+- android: '15.0'
+  codename: zizhan
+  date: '2025-09-02'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VLRCNXM/fw_zizhan_zizhan-ota_full-OS2.0.203.0.VLRCNXM-user-15.0-48d996dae2.zip
+  name: Xiaomi MIX Fold 2
+  version: OS2.0.203.0.VLRCNXM
 - android: '15.0'
   codename: zorn
   date: '2025-07-31'
