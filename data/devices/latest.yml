@@ -5119,15 +5119,15 @@
     android: '16.0'
     miui: OS2.0.216.0.WNNMIXM
 - branch: stable
-  date: '2025-08-06'
+  date: '2025-09-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-07.08.2025/fw_rothko_rothko-ota_full-OS2.0.206.0.VNNCNXM-user-15.0-429ff410a9.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rothko/fw_rothko_rothko-ota_full-OS2.0.206.0.VNNCNXM-user-15.0-429ff410a9.zip
-  filename: fw_rothko_rothko-ota_full-OS2.0.206.0.VNNCNXM-user-15.0-429ff410a9.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-02.09.2025/fw_rothko_rothko-ota_full-OS2.0.208.0.VNNCNXM-user-15.0-677147aa23.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rothko/fw_rothko_rothko-ota_full-OS2.0.208.0.VNNCNXM-user-15.0-677147aa23.zip
+  filename: fw_rothko_rothko-ota_full-OS2.0.208.0.VNNCNXM-user-15.0-677147aa23.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.206.0.VNNCNXM
+    miui: OS2.0.208.0.VNNCNXM
 - branch: stable
   date: '2025-08-12'
   downloads:
