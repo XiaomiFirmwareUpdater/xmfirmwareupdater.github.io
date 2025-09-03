@@ -7812,6 +7812,12 @@
   version: OS2.0.106.0.VOWMIXM
 - android: '15.0'
   codename: koto
+  date: '2025-09-03'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VOWMIXM/fw_koto_global_koto_global-ota_full-OS2.0.203.0.VOWMIXM-user-15.0-0d7134dae5.zip
+  name: Redmi Pad 2 4G
+  version: OS2.0.203.0.VOWMIXM
+- android: '15.0'
+  codename: koto
   date: '2025-07-02'
   download: https://bigota.d.miui.com/OS2.0.201.0.VOWEUXM/fw_koto_eea_global_koto_eea_global-ota_full-OS2.0.201.0.VOWEUXM-user-15.0-7122b89b4a.zip
   name: Redmi Pad 2 4G
@@ -11710,6 +11716,12 @@
   download: https://bigota.d.miui.com/OS2.0.102.0.VNPEUXM/fw_peridot_eea_global_peridot_eea_global-ota_full-OS2.0.102.0.VNPEUXM-user-15.0-b4bd1919c2.zip
   name: Redmi Turbo 3/POCO F6
   version: OS2.0.102.0.VNPEUXM
+- android: '15.0'
+  codename: peridot
+  date: '2025-09-03'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VNPINXM/fw_peridot_in_global_peridot_in_global-ota_full-OS2.0.202.0.VNPINXM-user-15.0-c132d6d0d3.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS2.0.202.0.VNPINXM
 - android: '15.0'
   codename: peridot
   date: '2025-07-02'
