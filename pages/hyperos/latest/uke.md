@@ -54,8 +54,8 @@ permalink: /hyperos/uke/
                 <tbody>
                 <tr><td>Xiaomi Pad 7 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VOZCNXM</td><td>15.0</td><td>9.5 GB</td><td>2025-05-30</td><td><a href="/hyperos/uke/stable/OS2.0.202.0.VOZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VOZCNXM</td><td>15.0</td><td>8.3 GB</td><td>2025-06-03</td><td><a href="/hyperos/uke/stable/OS2.0.202.0.VOZCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 / POCO Pad X1 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.106.0.VOZEUXM</td><td>15.0</td><td>7.2 GB</td><td>2025-05-20</td><td><a href="/hyperos/uke/stable/OS2.0.106.0.VOZEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 / POCO Pad X1 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.106.0.VOZEUXM</td><td>15.0</td><td>6.1 GB</td><td>2025-05-30</td><td><a href="/hyperos/uke/stable/OS2.0.106.0.VOZEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 / POCO Pad X1 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VOZEUXM</td><td>15.0</td><td>7.4 GB</td><td>2025-08-12</td><td><a href="/hyperos/uke/stable/OS2.0.202.0.VOZEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 / POCO Pad X1 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VOZEUXM</td><td>15.0</td><td>6.3 GB</td><td>2025-08-27</td><td><a href="/hyperos/uke/stable/OS2.0.202.0.VOZEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 / POCO Pad X1 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.106.0.VOZMIXM</td><td>15.0</td><td>7.4 GB</td><td>2025-05-20</td><td><a href="/hyperos/uke/stable/OS2.0.106.0.VOZMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 / POCO Pad X1 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.106.0.VOZMIXM</td><td>15.0</td><td>6.1 GB</td><td>2025-05-30</td><td><a href="/hyperos/uke/stable/OS2.0.106.0.VOZMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 / POCO Pad X1 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.103.0.VOZIDXM</td><td>15.0</td><td>7.1 GB</td><td>2025-05-14</td><td><a href="/hyperos/uke/stable/OS2.0.103.0.VOZIDXM/">Download</a></td></tr>
