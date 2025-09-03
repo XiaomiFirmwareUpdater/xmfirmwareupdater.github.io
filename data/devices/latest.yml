@@ -139,15 +139,15 @@
     android: '15.0'
     miui: OS2.0.206.0.VOPEUXM
 - branch: stable
-  date: '2025-07-09'
+  date: '2025-09-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-09.07.2025/fw_amethyst_in_global_amethyst_in_global-ota_full-OS2.0.201.0.VOPINXM-user-15.0-0943020699.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/amethyst/fw_amethyst_in_global_amethyst_in_global-ota_full-OS2.0.201.0.VOPINXM-user-15.0-0943020699.zip
-  filename: fw_amethyst_in_global_amethyst_in_global-ota_full-OS2.0.201.0.VOPINXM-user-15.0-0943020699.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-03.09.2025/fw_amethyst_in_global_amethyst_in_global-ota_full-OS2.0.203.0.VOPINXM-user-15.0-ec9e0a8f5f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/amethyst/fw_amethyst_in_global_amethyst_in_global-ota_full-OS2.0.203.0.VOPINXM-user-15.0-ec9e0a8f5f.zip
+  filename: fw_amethyst_in_global_amethyst_in_global-ota_full-OS2.0.203.0.VOPINXM-user-15.0-ec9e0a8f5f.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.201.0.VOPINXM
+    miui: OS2.0.203.0.VOPINXM
 - branch: stable
   date: '2021-03-29'
   downloads:
@@ -3349,15 +3349,15 @@
     android: '8.1'
     miui: 20.1.2
 - branch: stable
-  date: '2025-08-25'
+  date: '2025-09-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_luming/releases/download/stable-25.08.2025/fw_luming_luming-ota_full-OS2.0.203.0.VOICNXM-user-15.0-3ae6a6226d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/luming/fw_luming_luming-ota_full-OS2.0.203.0.VOICNXM-user-15.0-3ae6a6226d.zip
-  filename: fw_luming_luming-ota_full-OS2.0.203.0.VOICNXM-user-15.0-3ae6a6226d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_luming/releases/download/stable-03.09.2025/fw_luming_luming-ota_full-OS2.0.204.0.VOICNXM-user-15.0-a8d2a6676f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/luming/fw_luming_luming-ota_full-OS2.0.204.0.VOICNXM-user-15.0-a8d2a6676f.zip
+  filename: fw_luming_luming-ota_full-OS2.0.204.0.VOICNXM-user-15.0-a8d2a6676f.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.203.0.VOICNXM
+    miui: OS2.0.204.0.VOICNXM
 - branch: stable
   date: '2025-08-28'
   downloads:
