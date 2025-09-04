@@ -7924,6 +7924,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UGTMIXM/fw_lake_miui_LAKEGlobal_OS1.0.4.0.UGTMIXM_3001eee04b_14.0.zip
   name: Redmi 14C/POCO C75/Redmi A3 Pro
   version: OS1.0.4.0.UGTMIXM
+- android: '15.0'
+  codename: lake
+  date: '2025-09-04'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VGTMIXM/fw_lake_global_lake_global-ota_full-OS2.0.202.0.VGTMIXM-user-15.0-4ba2b1c659.zip
+  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  version: OS2.0.202.0.VGTMIXM
 - android: '14.0'
   codename: lake
   date: '2024-12-02'
@@ -9556,6 +9562,12 @@
   download: https://bigota.d.miui.com/OS2.0.104.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.104.0.VOMCNXM-user-15.0-f810008bcf.zip
   name: Redmi K80 Pro/POCO F7 Ultra
   version: OS2.0.104.0.VOMCNXM
+- android: '15.0'
+  codename: miro
+  date: '2025-09-04'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.206.0.VOMCNXM-user-15.0-cc75a573f3.zip
+  name: Redmi K80 Pro/POCO F7 Ultra
+  version: OS2.0.206.0.VOMCNXM
 - android: '15.0'
   codename: miro
   date: '2025-05-03'
