@@ -16488,6 +16488,12 @@
   version: OS2.0.202.0.VOVINXM
 - android: '15.0'
   codename: taiko
+  date: '2025-09-05'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VOVMIXM/fw_taiko_global_taiko_global-ota_full-OS2.0.203.0.VOVMIXM-user-15.0-f11900e24b.zip
+  name: Redmi Pad 2
+  version: OS2.0.203.0.VOVMIXM
+- android: '15.0'
+  codename: taiko
   date: '2025-07-02'
   download: https://bigota.d.miui.com/OS2.0.201.0.VOVEUXM/fw_taiko_eea_global_taiko_eea_global-ota_full-OS2.0.201.0.VOVEUXM-user-15.0-013770da2d.zip
   name: Redmi Pad 2
@@ -20038,6 +20044,12 @@
   download: https://bigota.d.miui.com/OS2.0.201.0.VNOEUXM/fw_zircon_eea_global_zircon_eea_global-ota_full-OS2.0.201.0.VNOEUXM-user-15.0-7f37969cc9.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS2.0.201.0.VNOEUXM
+- android: '15.0'
+  codename: zircon
+  date: '2025-09-05'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VNOCNXM/fw_zircon_zircon-ota_full-OS2.0.207.0.VNOCNXM-user-15.0-4149e06135.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS2.0.207.0.VNOCNXM
 - android: '14.0'
   codename: zircon
   date: '2024-08-05'

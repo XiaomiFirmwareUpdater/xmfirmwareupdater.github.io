@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-08-01'
+  date: '2025-09-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taiko/releases/download/stable-01.08.2025/fw_taiko_global_taiko_global-ota_full-OS2.0.202.0.VOVMIXM-user-15.0-ba201ed9d0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/taiko/fw_taiko_global_taiko_global-ota_full-OS2.0.202.0.VOVMIXM-user-15.0-ba201ed9d0.zip
-  filename: fw_taiko_global_taiko_global-ota_full-OS2.0.202.0.VOVMIXM-user-15.0-ba201ed9d0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taiko/releases/download/stable-05.09.2025/fw_taiko_global_taiko_global-ota_full-OS2.0.203.0.VOVMIXM-user-15.0-f11900e24b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/taiko/fw_taiko_global_taiko_global-ota_full-OS2.0.203.0.VOVMIXM-user-15.0-f11900e24b.zip
+  filename: fw_taiko_global_taiko_global-ota_full-OS2.0.203.0.VOVMIXM-user-15.0-f11900e24b.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.202.0.VOVMIXM
+    miui: OS2.0.203.0.VOVMIXM
 - branch: stable
   date: '2025-08-14'
   downloads:
