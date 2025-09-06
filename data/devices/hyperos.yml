@@ -17244,6 +17244,12 @@
   version: OS2.0.8.0.VOZCNXM
 - android: '15.0'
   codename: uke
+  date: '2025-09-06'
+  download: https://bigota.d.miui.com/OS2.0.200.0.VOZMIXM/fw_uke_global_uke_global-ota_full-OS2.0.200.0.VOZMIXM-user-15.0-7f2e0909a3.zip
+  name: Xiaomi Pad 7/POCO Pad X1
+  version: OS2.0.200.0.VOZMIXM
+- android: '15.0'
+  codename: uke
   date: '2025-04-04'
   download: https://bigota.d.miui.com/OS2.0.104.0.VOZMIXM/fw_uke_global_uke_global-ota_full-OS2.0.104.0.VOZMIXM-user-15.0-3a716cf797.zip
   name: Xiaomi Pad 7/POCO Pad X1
