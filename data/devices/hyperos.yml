@@ -14250,6 +14250,12 @@
   version: OS1.0.4.0.UMOMIXM
 - android: '14.0'
   codename: ruby
+  date: '2025-09-07'
+  download: https://bigota.d.miui.com/OS2.0.7.0.UMOEUXM/fw_ruby_eea_global_ruby_eea_global-ota_full-OS2.0.7.0.UMOEUXM-user-14.0-0f16a6ab96.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS2.0.7.0.UMOEUXM
+- android: '14.0'
+  codename: ruby
   date: '2025-07-07'
   download: https://bigota.d.miui.com/OS2.0.4.0.UMOMIXM/fw_ruby_global_ruby_global-ota_full-OS2.0.4.0.UMOMIXM-user-14.0-5af2f08f90.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
@@ -16480,6 +16486,12 @@
   download: https://bigota.d.miui.com/OS2.0.200.0.VOVINXM/fw_taiko_in_global_taiko_in_global-ota_full-OS2.0.200.0.VOVINXM-user-15.0-741a22709e.zip
   name: Redmi Pad 2
   version: OS2.0.200.0.VOVINXM
+- android: '15.0'
+  codename: taiko
+  date: '2025-09-07'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VOVINXM/fw_taiko_in_global_taiko_in_global-ota_full-OS2.0.203.0.VOVINXM-user-15.0-c9a6d66667.zip
+  name: Redmi Pad 2
+  version: OS2.0.203.0.VOVINXM
 - android: '15.0'
   codename: taiko
   date: '2025-08-06'

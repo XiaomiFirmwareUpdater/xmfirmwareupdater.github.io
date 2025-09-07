@@ -54,8 +54,8 @@ permalink: /hyperos/ruby/
                 <tbody>
                 <tr><td>Redmi Note 12 Pro / Pro+ / Discovery 5G China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.8.0.UMOCNXM</td><td>14.0</td><td>7.0 GB</td><td>2025-08-05</td><td><a href="/hyperos/ruby/stable/OS2.0.8.0.UMOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ / Discovery 5G China</td><td>Stable</td><td>Recovery</td><td>OS2.0.8.0.UMOCNXM</td><td>14.0</td><td>5.7 GB</td><td>2025-08-21</td><td><a href="/hyperos/ruby/stable/OS2.0.8.0.UMOCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 Pro / Pro+ 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.6.0.UMOEUXM</td><td>14.0</td><td>6.8 GB</td><td>2025-07-31</td><td><a href="/hyperos/ruby/stable/OS2.0.6.0.UMOEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 Pro / Pro+ 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.6.0.UMOEUXM</td><td>14.0</td><td>5.2 GB</td><td>2025-08-08</td><td><a href="/hyperos/ruby/stable/OS2.0.6.0.UMOEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 Pro / Pro+ 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.7.0.UMOEUXM</td><td>14.0</td><td>6.8 GB</td><td>2025-08-14</td><td><a href="/hyperos/ruby/stable/OS2.0.7.0.UMOEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 Pro / Pro+ 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.7.0.UMOEUXM</td><td>14.0</td><td>5.2 GB</td><td>2025-08-28</td><td><a href="/hyperos/ruby/stable/OS2.0.7.0.UMOEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.7.0.UMOMIXM</td><td>14.0</td><td>7.0 GB</td><td>2025-08-27</td><td><a href="/hyperos/ruby/stable/OS2.0.7.0.UMOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.7.0.UMOMIXM</td><td>14.0</td><td>5.0 GB</td><td>2025-08-29</td><td><a href="/hyperos/ruby/stable/OS2.0.7.0.UMOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.4.0.UMOIDXM</td><td>14.0</td><td>6.8 GB</td><td>2025-07-21</td><td><a href="/hyperos/ruby/stable/OS2.0.4.0.UMOIDXM/">Download</a></td></tr>
