@@ -9,12 +9,12 @@
     android: '15.0'
     miui: OS2.0.202.0.VOGMIXM
 - branch: stable
-  date: '2025-07-04'
+  date: '2025-09-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tanzanite/releases/download/stable-04.07.2025/fw_tanzanite_eea_global_tanzanite_eea_global-ota_full-OS2.0.202.0.VOGEUXM-user-15.0-359307d6ae.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/tanzanite/fw_tanzanite_eea_global_tanzanite_eea_global-ota_full-OS2.0.202.0.VOGEUXM-user-15.0-359307d6ae.zip
-  filename: fw_tanzanite_eea_global_tanzanite_eea_global-ota_full-OS2.0.202.0.VOGEUXM-user-15.0-359307d6ae.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tanzanite/releases/download/stable-08.09.2025/fw_tanzanite_eea_global_tanzanite_eea_global-ota_full-OS2.0.205.0.VOGEUXM-user-15.0-ad073f79bd.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/tanzanite/fw_tanzanite_eea_global_tanzanite_eea_global-ota_full-OS2.0.205.0.VOGEUXM-user-15.0-ad073f79bd.zip
+  filename: fw_tanzanite_eea_global_tanzanite_eea_global-ota_full-OS2.0.205.0.VOGEUXM-user-15.0-ad073f79bd.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.202.0.VOGEUXM
+    miui: OS2.0.205.0.VOGEUXM
