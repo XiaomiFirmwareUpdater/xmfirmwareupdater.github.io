@@ -7192,6 +7192,12 @@
   download: https://bigota.d.miui.com/OS2.0.101.0.VNCCNXM/fw_houji_houji-ota_full-OS2.0.101.0.VNCCNXM-user-15.0-602de5f1f8.zip
   name: Xiaomi 14
   version: OS2.0.101.0.VNCCNXM
+- android: '15.0'
+  codename: houji
+  date: '2025-09-08'
+  download: https://bigota.d.miui.com/OS2.0.109.0.VNCEUXM/fw_houji_eea_global_houji_eea_global-ota_full-OS2.0.109.0.VNCEUXM-user-15.0-db22819349.zip
+  name: Xiaomi 14
+  version: OS2.0.109.0.VNCEUXM
 - android: '14.0'
   codename: houji
   date: '2023-11-07'
@@ -9208,6 +9214,18 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UMRMIXM/fw_marble_miui_MARBLEGlobal_OS1.0.9.0.UMRMIXM_4cac937698_14.0.zip
   name: Redmi Note 12 Turbo/POCO F5
   version: OS1.0.9.0.UMRMIXM
+- android: '15.0'
+  codename: marble
+  date: '2025-09-08'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VMREUXM/fw_marble_eea_global_marble_eea_global-ota_full-OS2.0.206.0.VMREUXM-user-15.0-d87c0e2760.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS2.0.206.0.VMREUXM
+- android: '15.0'
+  codename: marble
+  date: '2025-09-08'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VMRINXM/fw_marble_in_global_marble_in_global-ota_full-OS2.0.205.0.VMRINXM-user-15.0-02dc1ed848.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS2.0.205.0.VMRINXM
 - android: '14.0'
   codename: marble
   date: '2024-07-08'
