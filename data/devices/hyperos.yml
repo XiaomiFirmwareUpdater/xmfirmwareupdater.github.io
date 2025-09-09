@@ -11310,6 +11310,12 @@
   version: OS2.0.126.0.VOLCNXM
 - android: '15.0'
   codename: onyx
+  date: '2025-09-09'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VOLINXM/fw_onyx_in_global_onyx_in_global-ota_full-OS2.0.201.0.VOLINXM-user-15.0-421b71f385.zip
+  name: Redmi Turbo 4 Pro/POCO F7
+  version: OS2.0.201.0.VOLINXM
+- android: '15.0'
+  codename: onyx
   date: '2025-08-08'
   download: https://bigota.d.miui.com/OS2.0.102.0.VOLINXM/fw_onyx_in_global_onyx_in_global-ota_full-OS2.0.102.0.VOLINXM-user-15.0-8effe527c0.zip
   name: Redmi Turbo 4 Pro/POCO F7
@@ -17308,6 +17314,12 @@
   download: https://bigota.d.miui.com/OS2.0.106.0.VOZMIXM/fw_uke_global_uke_global-ota_full-OS2.0.106.0.VOZMIXM-user-15.0-8ec3178876.zip
   name: Xiaomi Pad 7/POCO Pad X1
   version: OS2.0.106.0.VOZMIXM
+- android: '15.0'
+  codename: uke
+  date: '2025-09-09'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VOZCNXM/fw_uke_uke-ota_full-OS2.0.205.0.VOZCNXM-user-15.0-bd73602900.zip
+  name: Xiaomi Pad 7/POCO Pad X1
+  version: OS2.0.205.0.VOZCNXM
 - android: '15.0'
   codename: uke
   date: '2025-06-09'
