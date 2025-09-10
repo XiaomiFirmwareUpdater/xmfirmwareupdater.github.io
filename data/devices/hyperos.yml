@@ -1686,6 +1686,12 @@
   version: OS1.0.10.0.UNUCNXM
 - android: '15.0'
   codename: breeze
+  date: '2025-09-10'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VNUCNXM/fw_breeze_breeze-ota_full-OS2.0.203.0.VNUCNXM-user-15.0-9f16d93495.zip
+  name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
+  version: OS2.0.203.0.VNUCNXM
+- android: '15.0'
+  codename: breeze
   date: '2025-01-10'
   download: https://bigota.d.miui.com/OS2.0.4.0.VNUINXM/fw_breeze_in_global_breeze_in_global-ota_full-OS2.0.4.0.VNUINXM-user-15.0-d03dd417cf.zip
   name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
@@ -13558,6 +13564,12 @@
   download: https://bigota.d.miui.com/OS2.0.222.0.WNNEUXM/fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.222.0.WNNEUXM-user-16.0-b4e7187d4d.zip
   name: Redmi K70 Ultra/Xiaomi 14T Pro
   version: OS2.0.222.0.WNNEUXM
+- android: '16.0'
+  codename: rothko
+  date: '2025-09-10'
+  download: https://bigota.d.miui.com/OS2.0.221.0.WNNMIXM/fw_rothko_global_rothko_global-ota_full-OS2.0.221.0.WNNMIXM-user-16.0-b7696773fa.zip
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
+  version: OS2.0.221.0.WNNMIXM
 - android: '15.0'
   codename: rothko
   date: '2025-03-10'

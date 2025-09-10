@@ -579,15 +579,15 @@
     android: '11.0'
     miui: 22.3.2
 - branch: stable
-  date: '2025-07-23'
+  date: '2025-09-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-23.07.2025/fw_breeze_breeze-ota_full-OS2.0.201.0.VNUCNXM-user-15.0-1613abda2e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/breeze/fw_breeze_breeze-ota_full-OS2.0.201.0.VNUCNXM-user-15.0-1613abda2e.zip
-  filename: fw_breeze_breeze-ota_full-OS2.0.201.0.VNUCNXM-user-15.0-1613abda2e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-10.09.2025/fw_breeze_breeze-ota_full-OS2.0.203.0.VNUCNXM-user-15.0-9f16d93495.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/breeze/fw_breeze_breeze-ota_full-OS2.0.203.0.VNUCNXM-user-15.0-9f16d93495.zip
+  filename: fw_breeze_breeze-ota_full-OS2.0.203.0.VNUCNXM-user-15.0-9f16d93495.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.201.0.VNUCNXM
+    miui: OS2.0.203.0.VNUCNXM
 - branch: stable
   date: '2025-08-21'
   downloads:
@@ -5109,15 +5109,15 @@
     android: '8.1'
     miui: 9.10.10
 - branch: stable
-  date: '2025-08-04'
+  date: '2025-09-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-04.08.2025/fw_rothko_global_rothko_global-ota_full-OS2.0.216.0.WNNMIXM-user-16.0-2ab95f2e79.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rothko/fw_rothko_global_rothko_global-ota_full-OS2.0.216.0.WNNMIXM-user-16.0-2ab95f2e79.zip
-  filename: fw_rothko_global_rothko_global-ota_full-OS2.0.216.0.WNNMIXM-user-16.0-2ab95f2e79.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-10.09.2025/fw_rothko_global_rothko_global-ota_full-OS2.0.221.0.WNNMIXM-user-16.0-b7696773fa.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rothko/fw_rothko_global_rothko_global-ota_full-OS2.0.221.0.WNNMIXM-user-16.0-b7696773fa.zip
+  filename: fw_rothko_global_rothko_global-ota_full-OS2.0.221.0.WNNMIXM-user-16.0-b7696773fa.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS2.0.216.0.WNNMIXM
+    miui: OS2.0.221.0.WNNMIXM
 - branch: stable
   date: '2025-09-02'
   downloads:
