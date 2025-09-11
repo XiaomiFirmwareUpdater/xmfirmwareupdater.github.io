@@ -564,6 +564,12 @@
   version: OS1.0.8.0.UOPINXM
 - android: '15.0'
   codename: amethyst
+  date: '2025-09-11'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VOPEUXM/fw_amethyst_eea_global_amethyst_eea_global-ota_full-OS2.0.207.0.VOPEUXM-user-15.0-128c49b09f.zip
+  name: Redmi Note 14 Pro+ 5G
+  version: OS2.0.207.0.VOPEUXM
+- android: '15.0'
+  codename: amethyst
   date: '2025-06-11'
   download: https://bigota.d.miui.com/OS2.0.203.0.VOPCNXM/fw_amethyst_amethyst-ota_full-OS2.0.203.0.VOPCNXM-user-15.0-3afb150a3b.zip
   name: Redmi Note 14 Pro+ 5G
@@ -7720,6 +7726,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMAMIXM/fw_ishtar_miui_ISHTARGlobal_OS1.0.4.0.UMAMIXM_2835e1645d_14.0.zip
   name: Xiaomi 13 Ultra
   version: OS1.0.4.0.UMAMIXM
+- android: '15.0'
+  codename: ishtar
+  date: '2025-09-11'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VMAEUXM/fw_ishtar_eea_global_ishtar_eea_global-ota_full-OS2.0.202.0.VMAEUXM-user-15.0-ec5c8c1545.zip
+  name: Xiaomi 13 Ultra
+  version: OS2.0.202.0.VMAEUXM
 - android: '15.0'
   codename: ishtar
   date: '2025-05-10'
@@ -15730,6 +15742,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMWCNXM/fw_sky_miui_SKY_OS1.0.5.0.UMWCNXM_eeb6f6c209_14.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
   version: OS1.0.5.0.UMWCNXM
+- android: '15.0'
+  codename: sky
+  date: '2025-09-11'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VMWMIXM/fw_sky_global_sky_global-ota_full-OS2.0.204.0.VMWMIXM-user-15.0-cbe4ca7c4c.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS2.0.204.0.VMWMIXM
 - android: '14.0'
   codename: sky
   date: '2024-06-11'
