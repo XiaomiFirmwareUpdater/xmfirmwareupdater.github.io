@@ -52,8 +52,8 @@ permalink: /hyperos/flourite/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 15 Pro+ 5G China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VPRCNXM</td><td>15.0</td><td>8.8 GB</td><td>2025-08-16</td><td><a href="/hyperos/flourite/stable/OS2.0.204.0.VPRCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 Pro+ 5G China</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VPRCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-08-21</td><td><a href="/hyperos/flourite/stable/OS2.0.204.0.VPRCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 15 Pro+ 5G China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VPRCNXM</td><td>15.0</td><td>8.8 GB</td><td>2025-09-01</td><td><a href="/hyperos/flourite/stable/OS2.0.205.0.VPRCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro+ 5G China</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VPRCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-09-04</td><td><a href="/hyperos/flourite/stable/OS2.0.205.0.VPRCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro+ 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.202.0.VPRCNXM</td><td>15.0</td><td>6.8 GB</td><td>None</td><td><a href="/hyperos/flourite/stable beta/OS2.0.202.0.VPRCNXM/">Download</a></td></tr>
 
                 </tbody>
