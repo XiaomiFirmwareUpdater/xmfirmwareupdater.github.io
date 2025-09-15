@@ -54,8 +54,8 @@ permalink: /hyperos/vermeer/
                 <tbody>
                 <tr><td>Redmi K70 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.214.0.VNKCNXM</td><td>15.0</td><td>9.4 GB</td><td>2025-08-26</td><td><a href="/hyperos/vermeer/stable/OS2.0.214.0.VNKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.214.0.VNKCNXM</td><td>15.0</td><td>7.4 GB</td><td>2025-08-27</td><td><a href="/hyperos/vermeer/stable/OS2.0.214.0.VNKCNXM/">Download</a></td></tr>
-<tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VNKEUXM</td><td>15.0</td><td>9.4 GB</td><td>2025-07-09</td><td><a href="/hyperos/vermeer/stable/OS2.0.204.0.VNKEUXM/">Download</a></td></tr>
-<tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VNKEUXM</td><td>15.0</td><td>6.8 GB</td><td>2025-07-15</td><td><a href="/hyperos/vermeer/stable/OS2.0.204.0.VNKEUXM/">Download</a></td></tr>
+<tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VNKEUXM</td><td>15.0</td><td>9.4 GB</td><td>2025-08-29</td><td><a href="/hyperos/vermeer/stable/OS2.0.208.0.VNKEUXM/">Download</a></td></tr>
+<tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VNKEUXM</td><td>15.0</td><td>6.8 GB</td><td>2025-09-07</td><td><a href="/hyperos/vermeer/stable/OS2.0.208.0.VNKEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VNKMIXM</td><td>15.0</td><td>10.0 GB</td><td>2025-08-26</td><td><a href="/hyperos/vermeer/stable/OS2.0.205.0.VNKMIXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VNKMIXM</td><td>15.0</td><td>6.8 GB</td><td>2025-08-29</td><td><a href="/hyperos/vermeer/stable/OS2.0.205.0.VNKMIXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VNKRUXM</td><td>15.0</td><td>10.1 GB</td><td>2025-08-27</td><td><a href="/hyperos/vermeer/stable/OS2.0.205.0.VNKRUXM/">Download</a></td></tr>

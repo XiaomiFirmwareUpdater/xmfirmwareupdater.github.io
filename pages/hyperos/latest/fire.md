@@ -60,9 +60,9 @@ permalink: /hyperos/fire/
 <tr><td>Redmi 12 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.4.0.VMXIDXM</td><td>15.0</td><td>4.5 GB</td><td>2025-05-07</td><td><a href="/hyperos/fire/stable/OS2.0.4.0.VMXIDXM/">Download</a></td></tr>
 <tr><td>Redmi 12 India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.4.0.VMXINXM</td><td>15.0</td><td>5.8 GB</td><td>2025-04-16</td><td><a href="/hyperos/fire/stable/OS2.0.4.0.VMXINXM/">Download</a></td></tr>
 <tr><td>Redmi 12 India</td><td>Stable</td><td>Recovery</td><td>OS2.0.4.0.VMXINXM</td><td>15.0</td><td>4.4 GB</td><td>2025-04-24</td><td><a href="/hyperos/fire/stable/OS2.0.4.0.VMXINXM/">Download</a></td></tr>
-<tr><td>Redmi 12 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VMXRUXM</td><td>15.0</td><td>7.0 GB</td><td>2025-07-10</td><td><a href="/hyperos/fire/stable/OS2.0.201.0.VMXRUXM/">Download</a></td></tr>
-<tr><td>Redmi 12 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VMXRUXM</td><td>15.0</td><td>4.5 GB</td><td>2025-07-22</td><td><a href="/hyperos/fire/stable/OS2.0.201.0.VMXRUXM/">Download</a></td></tr>
-<tr><td>Redmi 12 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.VMXTRXM</td><td>15.0</td><td>6.2 GB</td><td>2025-04-29</td><td><a href="/hyperos/fire/stable/OS2.0.3.0.VMXTRXM/">Download</a></td></tr>
+<tr><td>Redmi 12 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VMXRUXM</td><td>15.0</td><td>7.0 GB</td><td>2025-08-26</td><td><a href="/hyperos/fire/stable/OS2.0.202.0.VMXRUXM/">Download</a></td></tr>
+<tr><td>Redmi 12 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VMXRUXM</td><td>15.0</td><td>4.5 GB</td><td>2025-09-03</td><td><a href="/hyperos/fire/stable/OS2.0.202.0.VMXRUXM/">Download</a></td></tr>
+<tr><td>Redmi 12 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VMXTRXM</td><td>15.0</td><td>6.2 GB</td><td>2025-07-15</td><td><a href="/hyperos/fire/stable/OS2.0.201.0.VMXTRXM/">Download</a></td></tr>
 <tr><td>Redmi 12 Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VMXTRXM</td><td>15.0</td><td>4.5 GB</td><td>2025-07-29</td><td><a href="/hyperos/fire/stable/OS2.0.201.0.VMXTRXM/">Download</a></td></tr>
 
                 </tbody>
