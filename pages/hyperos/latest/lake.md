@@ -61,10 +61,10 @@ permalink: /hyperos/lake/
 <tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VGTIDXM</td><td>15.0</td><td>4.5 GB</td><td>2025-07-17</td><td><a href="/hyperos/lake/stable/OS2.0.2.0.VGTIDXM/">Download</a></td></tr>
 <tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.200.0.VGTRUXM</td><td>15.0</td><td>7.5 GB</td><td>2025-08-27</td><td><a href="/hyperos/lake/stable/OS2.0.200.0.VGTRUXM/">Download</a></td></tr>
 <tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.200.0.VGTRUXM</td><td>15.0</td><td>4.4 GB</td><td>2025-09-09</td><td><a href="/hyperos/lake/stable/OS2.0.200.0.VGTRUXM/">Download</a></td></tr>
-<tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VGTTRXM</td><td>15.0</td><td>6.7 GB</td><td>2025-07-10</td><td><a href="/hyperos/lake/stable/OS2.0.2.0.VGTTRXM/">Download</a></td></tr>
-<tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VGTTRXM</td><td>15.0</td><td>4.5 GB</td><td>2025-07-17</td><td><a href="/hyperos/lake/stable/OS2.0.2.0.VGTTRXM/">Download</a></td></tr>
 <tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VGTTWXM</td><td>15.0</td><td>5.4 GB</td><td>2025-07-10</td><td><a href="/hyperos/lake/stable/OS2.0.2.0.VGTTWXM/">Download</a></td></tr>
 <tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VGTTWXM</td><td>15.0</td><td>4.3 GB</td><td>2025-07-17</td><td><a href="/hyperos/lake/stable/OS2.0.2.0.VGTTWXM/">Download</a></td></tr>
+<tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.200.0.VGTTRXM</td><td>15.0</td><td>6.8 GB</td><td>2025-08-27</td><td><a href="/hyperos/lake/stable/OS2.0.200.0.VGTTRXM/">Download</a></td></tr>
+<tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.200.0.VGTTRXM</td><td>15.0</td><td>4.5 GB</td><td>2025-09-09</td><td><a href="/hyperos/lake/stable/OS2.0.200.0.VGTTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
