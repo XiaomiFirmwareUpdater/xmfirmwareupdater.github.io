@@ -4969,15 +4969,15 @@
     android: '15.0'
     miui: OS2.0.203.0.VOJMIXM
 - branch: stable
-  date: '2025-08-08'
+  date: '2025-09-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-08.08.2025/fw_rodin_rodin-ota_full-OS2.0.205.0.VOJCNXM-user-15.0-e4a3789b7a.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rodin/fw_rodin_rodin-ota_full-OS2.0.205.0.VOJCNXM-user-15.0-e4a3789b7a.zip
-  filename: fw_rodin_rodin-ota_full-OS2.0.205.0.VOJCNXM-user-15.0-e4a3789b7a.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-17.09.2025/fw_rodin_rodin-ota_full-OS2.0.206.0.VOJCNXM-user-15.0-284d108a5c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rodin/fw_rodin_rodin-ota_full-OS2.0.206.0.VOJCNXM-user-15.0-284d108a5c.zip
+  filename: fw_rodin_rodin-ota_full-OS2.0.206.0.VOJCNXM-user-15.0-284d108a5c.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.205.0.VOJCNXM
+    miui: OS2.0.206.0.VOJCNXM
 - branch: stable
   date: '2025-08-29'
   downloads:
@@ -7039,15 +7039,15 @@
     android: '15.0'
     miui: OS2.0.203.0.VLBMIXM
 - branch: stable
-  date: '2025-08-29'
+  date: '2025-09-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-29.08.2025/fw_zeus_zeus-ota_full-OS2.0.207.0.VLBCNXM-user-15.0-7f7a64de8f.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_zeus-ota_full-OS2.0.207.0.VLBCNXM-user-15.0-7f7a64de8f.zip
-  filename: fw_zeus_zeus-ota_full-OS2.0.207.0.VLBCNXM-user-15.0-7f7a64de8f.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-17.09.2025/fw_zeus_zeus-ota_full-OS2.0.208.0.VLBCNXM-user-15.0-3cddddf301.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_zeus-ota_full-OS2.0.208.0.VLBCNXM-user-15.0-3cddddf301.zip
+  filename: fw_zeus_zeus-ota_full-OS2.0.208.0.VLBCNXM-user-15.0-3cddddf301.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.207.0.VLBCNXM
+    miui: OS2.0.208.0.VLBCNXM
 - branch: stable
   date: '2025-08-29'
   downloads:

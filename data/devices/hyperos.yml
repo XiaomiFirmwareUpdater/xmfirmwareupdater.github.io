@@ -13368,6 +13368,12 @@
   version: OS2.0.104.0.VOJMIXM
 - android: '15.0'
   codename: rodin
+  date: '2025-09-17'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VOJCNXM/fw_rodin_rodin-ota_full-OS2.0.206.0.VOJCNXM-user-15.0-284d108a5c.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.206.0.VOJCNXM
+- android: '15.0'
+  codename: rodin
   date: '2025-07-17'
   download: https://bigota.d.miui.com/OS2.0.201.0.VOJMIXM/fw_rodin_global_rodin_global-ota_full-OS2.0.201.0.VOJMIXM-user-15.0-2deee8e849.zip
   name: Redmi Turbo 4/POCO X7 Pro
@@ -19846,6 +19852,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULBMIXM/fw_zeus_miui_ZEUSGlobal_OS1.0.2.0.ULBMIXM_e24deeead7_14.0.zip
   name: Xiaomi 12 Pro
   version: OS1.0.2.0.ULBMIXM
+- android: '15.0'
+  codename: zeus
+  date: '2025-09-17'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VLBCNXM/fw_zeus_zeus-ota_full-OS2.0.208.0.VLBCNXM-user-15.0-3cddddf301.zip
+  name: Xiaomi 12 Pro
+  version: OS2.0.208.0.VLBCNXM
 - android: '15.0'
   codename: zeus
   date: '2025-03-17'

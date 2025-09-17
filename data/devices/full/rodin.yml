@@ -179,6 +179,16 @@
     android: '15.0'
     miui: OS2.0.104.0.VOJMIXM
 - branch: stable
+  date: '2025-09-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-17.09.2025/fw_rodin_rodin-ota_full-OS2.0.206.0.VOJCNXM-user-15.0-284d108a5c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rodin/fw_rodin_rodin-ota_full-OS2.0.206.0.VOJCNXM-user-15.0-284d108a5c.zip
+  filename: fw_rodin_rodin-ota_full-OS2.0.206.0.VOJCNXM-user-15.0-284d108a5c.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.206.0.VOJCNXM
+- branch: stable
   date: '2025-07-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-17.07.2025/fw_rodin_global_rodin_global-ota_full-OS2.0.201.0.VOJMIXM-user-15.0-2deee8e849.zip
