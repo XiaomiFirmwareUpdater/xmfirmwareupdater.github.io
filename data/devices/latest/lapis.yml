@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2025-09-02'
+  date: '2025-09-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-02.09.2025/fw_lapis_lapis-ota_full-OS2.0.205.0.VPPCNXM-user-15.0-634b7a4d88.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lapis/fw_lapis_lapis-ota_full-OS2.0.205.0.VPPCNXM-user-15.0-634b7a4d88.zip
-  filename: fw_lapis_lapis-ota_full-OS2.0.205.0.VPPCNXM-user-15.0-634b7a4d88.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-18.09.2025/fw_lapis_lapis-ota_full-OS2.0.206.0.VPPCNXM-user-15.0-156350797d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lapis/fw_lapis_lapis-ota_full-OS2.0.206.0.VPPCNXM-user-15.0-156350797d.zip
+  filename: fw_lapis_lapis-ota_full-OS2.0.206.0.VPPCNXM-user-15.0-156350797d.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.205.0.VPPCNXM
+    miui: OS2.0.206.0.VPPCNXM

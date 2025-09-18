@@ -2959,15 +2959,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2025-09-02'
+  date: '2025-09-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-02.09.2025/fw_lapis_lapis-ota_full-OS2.0.205.0.VPPCNXM-user-15.0-634b7a4d88.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lapis/fw_lapis_lapis-ota_full-OS2.0.205.0.VPPCNXM-user-15.0-634b7a4d88.zip
-  filename: fw_lapis_lapis-ota_full-OS2.0.205.0.VPPCNXM-user-15.0-634b7a4d88.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-18.09.2025/fw_lapis_lapis-ota_full-OS2.0.206.0.VPPCNXM-user-15.0-156350797d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lapis/fw_lapis_lapis-ota_full-OS2.0.206.0.VPPCNXM-user-15.0-156350797d.zip
+  filename: fw_lapis_lapis-ota_full-OS2.0.206.0.VPPCNXM-user-15.0-156350797d.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.205.0.VPPCNXM
+    miui: OS2.0.206.0.VPPCNXM
 - branch: stable
   date: '2022-04-15'
   downloads:
@@ -5519,15 +5519,15 @@
     android: '15.0'
     miui: A15.0.7.0.VGWEUXM
 - branch: stable
-  date: '2025-06-30'
+  date: '2025-09-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_serenity/releases/download/stable-30.06.2025/fw_serenity_miui_SERENITYINGlobal_A15.0.7.0.VGWINXM_f7a10435fc_15.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/A15/serenity/fw_serenity_miui_SERENITYINGlobal_A15.0.7.0.VGWINXM_f7a10435fc_15.0.zip
-  filename: fw_serenity_miui_SERENITYINGlobal_A15.0.7.0.VGWINXM_f7a10435fc_15.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_serenity/releases/download/stable-18.09.2025/fw_serenity_miui_SERENITYINGlobal_A15.0.8.0.VGWINXM_d78328e4f2_15.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/A15/serenity/fw_serenity_miui_SERENITYINGlobal_A15.0.8.0.VGWINXM_d78328e4f2_15.0.zip
+  filename: fw_serenity_miui_SERENITYINGlobal_A15.0.8.0.VGWINXM_d78328e4f2_15.0.zip
   region: India
   versions:
     android: '15.0'
-    miui: A15.0.7.0.VGWINXM
+    miui: A15.0.8.0.VGWINXM
 - branch: stable
   date: '2025-08-27'
   downloads:
@@ -6159,15 +6159,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: stable
-  date: '2025-08-09'
+  date: '2025-09-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-10.08.2025/fw_turner_turner-ota_full-OS2.0.216.0.VAOCNXM-user-15.0-ca8fa3442d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/turner/fw_turner_turner-ota_full-OS2.0.216.0.VAOCNXM-user-15.0-ca8fa3442d.zip
-  filename: fw_turner_turner-ota_full-OS2.0.216.0.VAOCNXM-user-15.0-ca8fa3442d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-18.09.2025/fw_turner_turner-ota_full-OS2.0.217.0.VAOCNXM-user-15.0-60cdb96e9d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/turner/fw_turner_turner-ota_full-OS2.0.217.0.VAOCNXM-user-15.0-60cdb96e9d.zip
+  filename: fw_turner_turner-ota_full-OS2.0.217.0.VAOCNXM-user-15.0-60cdb96e9d.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.216.0.VAOCNXM
+    miui: OS2.0.217.0.VAOCNXM
 - branch: stable
   date: '2019-11-05'
   downloads:
@@ -6699,15 +6699,15 @@
     android: '15.0'
     miui: OS2.0.201.0.VGVINXM
 - branch: stable
-  date: '2025-01-23'
+  date: '2025-09-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-24.01.2025/fw_water_miui_WATERGlobal_V14.0.37.0.TGOMIXM_5764676a21_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERGlobal_V14.0.37.0.TGOMIXM_5764676a21_13.0.zip
-  filename: fw_water_miui_WATERGlobal_V14.0.37.0.TGOMIXM_5764676a21_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-18.09.2025/fw_water_miui_WATERGlobal_V14.0.40.0.TGOMIXM_2107d4a455_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERGlobal_V14.0.40.0.TGOMIXM_2107d4a455_13.0.zip
+  filename: fw_water_miui_WATERGlobal_V14.0.40.0.TGOMIXM_2107d4a455_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.37.0.TGOMIXM
+    miui: V14.0.40.0.TGOMIXM
 - branch: stable
   date: '2025-09-04'
   downloads:
@@ -6719,15 +6719,15 @@
     android: '13.0'
     miui: V14.0.28.0.TGOEUXM
 - branch: stable
-  date: '2025-03-22'
+  date: '2025-09-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-22.03.2025/fw_water_miui_WATERINGlobal_V14.0.22.0.TGOINXM_d8ab6d66cf_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERINGlobal_V14.0.22.0.TGOINXM_d8ab6d66cf_13.0.zip
-  filename: fw_water_miui_WATERINGlobal_V14.0.22.0.TGOINXM_d8ab6d66cf_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-18.09.2025/fw_water_miui_WATERINGlobal_V14.0.24.0.TGOINXM_45c9c5ce3a_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERINGlobal_V14.0.24.0.TGOINXM_45c9c5ce3a_13.0.zip
+  filename: fw_water_miui_WATERINGlobal_V14.0.24.0.TGOINXM_45c9c5ce3a_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: V14.0.22.0.TGOINXM
+    miui: V14.0.24.0.TGOINXM
 - branch: stable
   date: '2021-04-08'
   downloads:

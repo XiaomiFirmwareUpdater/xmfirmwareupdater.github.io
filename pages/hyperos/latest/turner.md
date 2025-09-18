@@ -52,8 +52,8 @@ permalink: /hyperos/turner/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K Pad China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.216.0.VAOCNXM</td><td>15.0</td><td>8.4 GB</td><td>2025-07-29</td><td><a href="/hyperos/turner/stable/OS2.0.216.0.VAOCNXM/">Download</a></td></tr>
-<tr><td>Redmi K Pad China</td><td>Stable</td><td>Recovery</td><td>OS2.0.216.0.VAOCNXM</td><td>15.0</td><td>7.3 GB</td><td>2025-08-01</td><td><a href="/hyperos/turner/stable/OS2.0.216.0.VAOCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K Pad China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.217.0.VAOCNXM</td><td>15.0</td><td>8.4 GB</td><td>2025-08-22</td><td><a href="/hyperos/turner/stable/OS2.0.217.0.VAOCNXM/">Download</a></td></tr>
+<tr><td>Redmi K Pad China</td><td>Stable</td><td>Recovery</td><td>OS2.0.217.0.VAOCNXM</td><td>15.0</td><td>7.3 GB</td><td>2025-09-10</td><td><a href="/hyperos/turner/stable/OS2.0.217.0.VAOCNXM/">Download</a></td></tr>
 <tr><td>Redmi K Pad China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.203.0.VAOCNXM</td><td>15.0</td><td>7.3 GB</td><td>2025-06-26</td><td><a href="/hyperos/turner/stable beta/OS2.0.203.0.VAOCNXM/">Download</a></td></tr>
 
                 </tbody>

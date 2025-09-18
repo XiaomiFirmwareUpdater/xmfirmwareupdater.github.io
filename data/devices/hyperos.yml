@@ -8082,6 +8082,12 @@
   version: OS2.0.204.0.VPPCNXM
 - android: '15.0'
   codename: lapis
+  date: '2025-09-18'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VPPCNXM/fw_lapis_lapis-ota_full-OS2.0.206.0.VPPCNXM-user-15.0-156350797d.zip
+  name: Redmi Note 15 Pro
+  version: OS2.0.206.0.VPPCNXM
+- android: '15.0'
+  codename: lapis
   date: '2025-09-02'
   download: https://bigota.d.miui.com/OS2.0.205.0.VPPCNXM/fw_lapis_lapis-ota_full-OS2.0.205.0.VPPCNXM-user-15.0-634b7a4d88.zip
   name: Redmi Note 15 Pro
@@ -17392,6 +17398,12 @@
   download: https://bigota.d.miui.com/OS2.0.208.0.VAOCNXM/fw_turner_turner-ota_full-OS2.0.208.0.VAOCNXM-user-15.0-74daccb165.zip
   name: Redmi K Pad
   version: OS2.0.208.0.VAOCNXM
+- android: '15.0'
+  codename: turner
+  date: '2025-09-18'
+  download: https://bigota.d.miui.com/OS2.0.217.0.VAOCNXM/fw_turner_turner-ota_full-OS2.0.217.0.VAOCNXM-user-15.0-60cdb96e9d.zip
+  name: Redmi K Pad
+  version: OS2.0.217.0.VAOCNXM
 - android: '15.0'
   codename: turner
   date: '2025-07-16'
