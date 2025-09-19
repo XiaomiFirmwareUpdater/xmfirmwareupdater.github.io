@@ -4972,6 +4972,12 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.VHXMIXM/fw_flare_global_flare_global-ota_full-OS2.0.3.0.VHXMIXM-user-15.0-f43e5c2a05.zip
   name: Redmi Pad SE 8.7 5G
   version: OS2.0.3.0.VHXMIXM
+- android: '15.0'
+  codename: flare
+  date: '2025-09-19'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VHXIDXM/fw_flare_id_global_flare_id_global-ota_full-OS2.0.201.0.VHXIDXM-user-15.0-965915084d.zip
+  name: Redmi Pad SE 8.7 5G
+  version: OS2.0.201.0.VHXIDXM
 - android: '14.0'
   codename: flare
   date: '2024-09-18'
@@ -19006,6 +19012,12 @@
   download: https://bigota.d.miui.com/OS2.0.207.0.VOACNXM/fw_xuanyuan_xuanyuan-ota_full-OS2.0.207.0.VOACNXM-user-15.0-a7c3fb1b3c.zip
   name: Xiaomi 15 Ultra
   version: OS2.0.207.0.VOACNXM
+- android: '15.0'
+  codename: xuanyuan
+  date: '2025-09-19'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VOAINXM/fw_xuanyuan_in_global_xuanyuan_in_global-ota_full-OS2.0.204.0.VOAINXM-user-15.0-844f58d10b.zip
+  name: Xiaomi 15 Ultra
+  version: OS2.0.204.0.VOAINXM
 - android: '15.0'
   codename: xuanyuan
   date: '2025-08-19'
