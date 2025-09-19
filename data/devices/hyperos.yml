@@ -11394,6 +11394,12 @@
   version: OS2.0.114.0.VOLCNXM
 - android: '15.0'
   codename: onyx
+  date: '2025-09-19'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VOLEUXM/fw_onyx_eea_global_onyx_eea_global-ota_full-OS2.0.206.0.VOLEUXM-user-15.0-08b801c7f8.zip
+  name: Redmi Turbo 4 Pro/POCO F7
+  version: OS2.0.206.0.VOLEUXM
+- android: '15.0'
+  codename: onyx
   date: '2025-07-18'
   download: https://bigota.d.miui.com/OS2.0.103.0.VOLMIXM/fw_onyx_global_onyx_global-ota_full-OS2.0.103.0.VOLMIXM-user-15.0-60fb8212dc.zip
   name: Redmi Turbo 4 Pro/POCO F7
@@ -17386,6 +17392,12 @@
   download: https://bigota.d.miui.com/OS2.0.8.0.VMGMIXM/fw_topaz_global_topaz_global-ota_full-OS2.0.8.0.VMGMIXM-user-15.0-35847f9d26.zip
   name: Redmi Note 12 4G NFC
   version: OS2.0.8.0.VMGMIXM
+- android: '15.0'
+  codename: tornado
+  date: '2025-09-19'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VPOMIXM/fw_tornado_global_tornado_global-ota_full-OS2.0.202.0.VPOMIXM-user-15.0-9ca795b8a9.zip
+  name: Redmi 15C 5G/15R 5G
+  version: OS2.0.202.0.VPOMIXM
 - android: '15.0'
   codename: turner
   date: '2025-06-30'

@@ -4199,15 +4199,15 @@
     android: '15.0'
     miui: OS2.0.212.0.VOLCNXM
 - branch: stable
-  date: '2025-08-15'
+  date: '2025-09-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-15.08.2025/fw_onyx_eea_global_onyx_eea_global-ota_full-OS2.0.204.0.VOLEUXM-user-15.0-122f7878d8.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/onyx/fw_onyx_eea_global_onyx_eea_global-ota_full-OS2.0.204.0.VOLEUXM-user-15.0-122f7878d8.zip
-  filename: fw_onyx_eea_global_onyx_eea_global-ota_full-OS2.0.204.0.VOLEUXM-user-15.0-122f7878d8.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-19.09.2025/fw_onyx_eea_global_onyx_eea_global-ota_full-OS2.0.206.0.VOLEUXM-user-15.0-08b801c7f8.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/onyx/fw_onyx_eea_global_onyx_eea_global-ota_full-OS2.0.206.0.VOLEUXM-user-15.0-08b801c7f8.zip
+  filename: fw_onyx_eea_global_onyx_eea_global-ota_full-OS2.0.206.0.VOLEUXM-user-15.0-08b801c7f8.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.204.0.VOLEUXM
+    miui: OS2.0.206.0.VOLEUXM
 - branch: stable
   date: '2025-09-09'
   downloads:
@@ -6098,6 +6098,16 @@
   versions:
     android: '15.0'
     miui: OS2.0.203.0.VMGEUXM
+- branch: stable
+  date: '2025-09-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tornado/releases/download/stable-19.09.2025/fw_tornado_global_tornado_global-ota_full-OS2.0.202.0.VPOMIXM-user-15.0-9ca795b8a9.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/tornado/fw_tornado_global_tornado_global-ota_full-OS2.0.202.0.VPOMIXM-user-15.0-9ca795b8a9.zip
+  filename: fw_tornado_global_tornado_global-ota_full-OS2.0.202.0.VPOMIXM-user-15.0-9ca795b8a9.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.202.0.VPOMIXM
 - branch: stable
   date: '2022-09-21'
   downloads:
