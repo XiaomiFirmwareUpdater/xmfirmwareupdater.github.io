@@ -18622,6 +18622,12 @@
   download: https://bigota.d.miui.com/OS2.0.4.0.VGVINXM/fw_warm_in_global_warm_in_global-ota_full-OS2.0.4.0.VGVINXM-user-15.0-65fda9bcc0.zip
   name: Redmi A4 5G/POCO C75 5G
   version: OS2.0.4.0.VGVINXM
+- android: '15.0'
+  codename: warm
+  date: '2025-09-20'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VGVINXM/fw_warm_in_global_warm_in_global-ota_full-OS2.0.202.0.VGVINXM-user-15.0-9c35ed68bf.zip
+  name: Redmi A4 5G/POCO C75 5G
+  version: OS2.0.202.0.VGVINXM
 - android: '14.0'
   codename: warm
   date: '2025-03-20'
