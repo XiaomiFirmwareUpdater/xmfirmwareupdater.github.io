@@ -5196,6 +5196,12 @@
   version: OS2.0.204.0.VPRCNXM
 - android: '15.0'
   codename: flourite
+  date: '2025-09-21'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VPRCNXM/fw_flourite_flourite-ota_full-OS2.0.206.0.VPRCNXM-user-15.0-356815d47a.zip
+  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro
+  version: OS2.0.206.0.VPRCNXM
+- android: '15.0'
+  codename: flourite
   date: '2025-09-12'
   download: https://bigota.d.miui.com/OS2.0.205.0.VPRCNXM/fw_flourite_flourite-ota_full-OS2.0.205.0.VPRCNXM-user-15.0-0e2d6b8c87.zip
   name: Redmi Note 15 Pro+ 5G/POCO M8 Pro
@@ -15352,6 +15358,12 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VNXCNXM/fw_sheng_sheng-ota_full-OS2.0.2.0.VNXCNXM-user-15.0-c1cdedf39b.zip
   name: Xiaomi Pad 6S Pro 12.4
   version: OS2.0.2.0.VNXCNXM
+- android: '15.0'
+  codename: sheng
+  date: '2025-09-21'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VNXCNXM/fw_sheng_sheng-ota_full-OS2.0.209.0.VNXCNXM-user-15.0-2071eecc79.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS2.0.209.0.VNXCNXM
 - android: '14.0'
   codename: sheng
   date: '2024-08-21'
