@@ -1620,6 +1620,12 @@
   version: OS2.0.208.0.VOHCNXM
 - android: '15.0'
   codename: bixi
+  date: '2025-09-22'
+  download: https://bigota.d.miui.com/OS2.0.212.0.VOHCNXM/fw_bixi_bixi-ota_full-OS2.0.212.0.VOHCNXM-user-15.0-b322311bcb.zip
+  name: MIX Flip 2
+  version: OS2.0.212.0.VOHCNXM
+- android: '15.0'
+  codename: bixi
   date: '2025-07-21'
   download: https://bigota.d.miui.com/OS2.0.207.0.VOHCNXM/fw_bixi_bixi-ota_full-OS2.0.207.0.VOHCNXM-user-15.0-dd88ff181c.zip
   name: MIX Flip 2
@@ -3064,6 +3070,12 @@
   download: https://bigota.d.miui.com/OS2.0.211.0.VBNMIXM/fw_dew_global_dew_global-ota_full-OS2.0.211.0.VBNMIXM-user-15.0-6523ff79d0.zip
   name: Redmi 15C/POCO C85
   version: OS2.0.211.0.VBNMIXM
+- android: '15.0'
+  codename: dew
+  date: '2025-09-22'
+  download: https://bigota.d.miui.com/OS2.0.212.0.VBNEUXM/fw_dew_eea_global_dew_eea_global-ota_full-OS2.0.212.0.VBNEUXM-user-15.0-72e2b93bbe.zip
+  name: Redmi 15C/POCO C85
+  version: OS2.0.212.0.VBNEUXM
 - android: '15.0'
   codename: dijun
   date: '2025-07-25'
@@ -10294,6 +10306,24 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMPMIXM/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.3.0.UMPMIXM_9531a81bb0_14.0.zip
   name: POCO X5 5G
   version: OS1.0.3.0.UMPMIXM
+- android: '14.0'
+  codename: moonstone
+  date: '2025-09-22'
+  download: https://bigota.d.miui.com/OS1.0.21.0.UMPEUXM/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.21.0.UMPEUXM_a506dfbfe0_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.21.0.UMPEUXM
+- android: '14.0'
+  codename: moonstone
+  date: '2025-09-22'
+  download: https://bigota.d.miui.com/OS1.0.22.0.UMPMIXM/fw_moonstone_miui_MOONSTONEGlobal_OS1.0.22.0.UMPMIXM_e7332e4c04_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.22.0.UMPMIXM
+- android: '14.0'
+  codename: moonstone
+  date: '2025-09-22'
+  download: https://bigota.d.miui.com/OS1.0.19.0.UMPINXM/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.19.0.UMPINXM_80a48b1144_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.19.0.UMPINXM
 - android: '14.0'
   codename: moonstone
   date: '2025-08-22'
@@ -17962,6 +17992,12 @@
   download: https://bigota.d.miui.com/OS2.0.101.0.VNKCNXM/fw_vermeer_vermeer-ota_full-OS2.0.101.0.VNKCNXM-user-15.0-455f6fe662.zip
   name: Redmi K70/POCO F6 Pro
   version: OS2.0.101.0.VNKCNXM
+- android: '15.0'
+  codename: vermeer
+  date: '2025-09-22'
+  download: https://bigota.d.miui.com/OS2.0.215.0.VNKCNXM/fw_vermeer_vermeer-ota_full-OS2.0.215.0.VNKCNXM-user-15.0-67fb4c687b.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS2.0.215.0.VNKCNXM
 - android: '14.0'
   codename: vermeer
   date: '2024-05-22'
@@ -18376,6 +18412,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UKDEUXM/fw_vili_miui_VILIEEAGlobal_OS1.0.3.0.UKDEUXM_4a34e11f69_14.0.zip
   name: Xiaomi 11T Pro
   version: OS1.0.3.0.UKDEUXM
+- android: '14.0'
+  codename: vili
+  date: '2025-09-22'
+  download: https://bigota.d.miui.com/OS1.0.22.0.UKDMIXM/fw_vili_miui_VILIGlobal_OS1.0.22.0.UKDMIXM_c8ed341b17_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.22.0.UKDMIXM
 - android: '14.0'
   codename: vili
   date: '2024-08-20'
