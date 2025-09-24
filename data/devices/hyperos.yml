@@ -1680,6 +1680,12 @@
   version: OS1.0.9.0.UNUCNXM
 - android: '15.0'
   codename: breeze
+  date: '2025-09-24'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VNUINXM/fw_breeze_in_global_breeze_in_global-ota_full-OS2.0.203.0.VNUINXM-user-15.0-cd0b1334eb.zip
+  name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
+  version: OS2.0.203.0.VNUINXM
+- android: '15.0'
+  codename: breeze
   date: '2025-01-24'
   download: https://bigota.d.miui.com/OS2.0.3.0.VNUCNXM/fw_breeze_breeze-ota_full-OS2.0.3.0.VNUCNXM-user-15.0-e8c2cffbba.zip
   name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
@@ -4870,6 +4876,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UGUCNXM/fw_flame_miui_FLAME_OS1.0.8.0.UGUCNXM_dd2158bc97_14.0.zip
   name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
   version: OS1.0.8.0.UGUCNXM
+- android: '14.0'
+  codename: flame
+  date: '2025-09-24'
+  download: https://bigota.d.miui.com/OS1.0.18.0.UGUCNXM/fw_flame_miui_FLAME_OS1.0.18.0.UGUCNXM_ade9962a67_14.0.zip
+  name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
+  version: OS1.0.18.0.UGUCNXM
 - android: '15.0'
   codename: flame
   date: '2025-03-24'
