@@ -1,7 +1,7 @@
 ---
-title: Redmi 15C 5G/15R 5G (tornado) Firmware Downloads
+title: Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) Firmware Downloads
 layout: download
-name: Redmi 15C 5G/15R 5G
+name: Redmi 15C 5G/15R 5G/POCO C85 5G
 codename: tornado
 permalink: /firmware/tornado/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/tornado/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/tornado/">Redmi 15C 5G/15R 5G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/tornado/">Redmi 15C 5G/15R 5G/POCO C85 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

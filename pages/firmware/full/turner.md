@@ -1,7 +1,7 @@
 ---
-title: Redmi K Pad (turner) Firmware Downloads
+title: Redmi K Pad/Xiaomi Pad Mini (turner) Firmware Downloads
 layout: download
-name: Redmi K Pad
+name: Redmi K Pad/Xiaomi Pad Mini
 codename: turner
 permalink: /archive/firmware/turner/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/turner/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/turner/">Redmi K Pad</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/turner/">Redmi K Pad/Xiaomi Pad Mini</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

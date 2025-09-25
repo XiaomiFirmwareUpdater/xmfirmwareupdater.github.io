@@ -1,40 +1,40 @@
 - branch: stable
-  date: '2025-08-29'
+  date: '2025-09-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-29.08.2025/fw_redwood_global_redwood_global-ota_full-OS2.0.9.0.UMSMIXM-user-14.0-a16b4125f8.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/redwood/fw_redwood_global_redwood_global-ota_full-OS2.0.9.0.UMSMIXM-user-14.0-a16b4125f8.zip
-  filename: fw_redwood_global_redwood_global-ota_full-OS2.0.9.0.UMSMIXM-user-14.0-a16b4125f8.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-25.09.2025/fw_redwood_global_redwood_global-ota_full-OS2.0.10.0.UMSMIXM-user-14.0-f7f2dd62e9.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/redwood/fw_redwood_global_redwood_global-ota_full-OS2.0.10.0.UMSMIXM-user-14.0-f7f2dd62e9.zip
+  filename: fw_redwood_global_redwood_global-ota_full-OS2.0.10.0.UMSMIXM-user-14.0-f7f2dd62e9.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS2.0.9.0.UMSMIXM
+    miui: OS2.0.10.0.UMSMIXM
 - branch: stable
-  date: '2025-08-27'
+  date: '2025-09-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-27.08.2025/fw_redwood_redwood-ota_full-OS2.0.17.0.UMSCNXM-user-14.0-c241408bc6.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/redwood/fw_redwood_redwood-ota_full-OS2.0.17.0.UMSCNXM-user-14.0-c241408bc6.zip
-  filename: fw_redwood_redwood-ota_full-OS2.0.17.0.UMSCNXM-user-14.0-c241408bc6.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-25.09.2025/fw_redwood_redwood-ota_full-OS2.0.18.0.UMSCNXM-user-14.0-41ba09394e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/redwood/fw_redwood_redwood-ota_full-OS2.0.18.0.UMSCNXM-user-14.0-41ba09394e.zip
+  filename: fw_redwood_redwood-ota_full-OS2.0.18.0.UMSCNXM-user-14.0-41ba09394e.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS2.0.17.0.UMSCNXM
+    miui: OS2.0.18.0.UMSCNXM
 - branch: stable
-  date: '2025-08-29'
+  date: '2025-09-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-29.08.2025/fw_redwood_eea_global_redwood_eea_global-ota_full-OS2.0.9.0.UMSEUXM-user-14.0-95927d9fca.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/redwood/fw_redwood_eea_global_redwood_eea_global-ota_full-OS2.0.9.0.UMSEUXM-user-14.0-95927d9fca.zip
-  filename: fw_redwood_eea_global_redwood_eea_global-ota_full-OS2.0.9.0.UMSEUXM-user-14.0-95927d9fca.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-25.09.2025/fw_redwood_eea_global_redwood_eea_global-ota_full-OS2.0.10.0.UMSEUXM-user-14.0-14def95422.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/redwood/fw_redwood_eea_global_redwood_eea_global-ota_full-OS2.0.10.0.UMSEUXM-user-14.0-14def95422.zip
+  filename: fw_redwood_eea_global_redwood_eea_global-ota_full-OS2.0.10.0.UMSEUXM-user-14.0-14def95422.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS2.0.9.0.UMSEUXM
+    miui: OS2.0.10.0.UMSEUXM
 - branch: stable
-  date: '2025-08-29'
+  date: '2025-09-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-29.08.2025/fw_redwood_in_global_redwood_in_global-ota_full-OS2.0.9.0.UMSINXM-user-14.0-07d5007d75.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/redwood/fw_redwood_in_global_redwood_in_global-ota_full-OS2.0.9.0.UMSINXM-user-14.0-07d5007d75.zip
-  filename: fw_redwood_in_global_redwood_in_global-ota_full-OS2.0.9.0.UMSINXM-user-14.0-07d5007d75.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-25.09.2025/fw_redwood_in_global_redwood_in_global-ota_full-OS2.0.10.0.UMSINXM-user-14.0-f216d69a9e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/redwood/fw_redwood_in_global_redwood_in_global-ota_full-OS2.0.10.0.UMSINXM-user-14.0-f216d69a9e.zip
+  filename: fw_redwood_in_global_redwood_in_global-ota_full-OS2.0.10.0.UMSINXM-user-14.0-f216d69a9e.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS2.0.9.0.UMSINXM
+    miui: OS2.0.10.0.UMSINXM

@@ -1,7 +1,7 @@
 ---
-title: Redmi K Pad (turner) HyperOS Downloads
+title: Redmi K Pad/Xiaomi Pad Mini (turner) HyperOS Downloads
 layout: download
-name: Redmi K Pad
+name: Redmi K Pad/Xiaomi Pad Mini
 codename: turner
 permalink: /archive/hyperos/turner/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/hyperos/turner/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/turner/">Redmi K Pad</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/turner/">Redmi K Pad/Xiaomi Pad Mini</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
