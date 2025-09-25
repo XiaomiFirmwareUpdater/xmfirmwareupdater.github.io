@@ -54,6 +54,7 @@ permalink: /archive/hyperos/yupei/
                 <tbody>
                 <tr><td>Xiaomi Pad 8 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WPZCNXM</td><td>16.0</td><td>9.4 GB</td><td>2025-09-25</td><td><a href="/hyperos/yupei/stable/OS3.0.4.0.WPZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WPZCNXM</td><td>16.0</td><td>11.0 GB</td><td>2025-09-18</td><td><a href="/hyperos/yupei/stable/OS3.0.4.0.WPZCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 8 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WPZCNXM</td><td>16.0</td><td>9.3 GB</td><td>2025-09-25</td><td><a href="/hyperos/yupei/stable beta/OS3.0.3.0.WPZCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

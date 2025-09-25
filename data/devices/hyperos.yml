@@ -5286,6 +5286,12 @@
   version: OS2.0.205.0.VPRCNXM
 - android: '15.0'
   codename: flute
+  date: '2025-09-25'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VPWMIXM/fw_flute_global_flute_global-ota_full-OS2.0.203.0.VPWMIXM-user-15.0-6b755e5413.zip
+  name: Redmi Pad 2 Pro/POCO Pad M1
+  version: OS2.0.203.0.VPWMIXM
+- android: '15.0'
+  codename: flute
   date: '2025-09-24'
   download: https://bigota.d.miui.com/OS2.0.207.0.VPWEUXM/fw_flute_eea_global_flute_eea_global-ota_full-OS2.0.207.0.VPWEUXM-user-15.0-8f5f743f75.zip
   name: Redmi Pad 2 Pro/POCO Pad M1
@@ -9970,6 +9976,12 @@
   download: https://bigota.d.miui.com/OS2.0.5.0.VMNCNXM/fw_mondrian_mondrian-ota_full-OS2.0.5.0.VMNCNXM-user-15.0-822a25931f.zip
   name: Redmi K60/POCO F5 Pro
   version: OS2.0.5.0.VMNCNXM
+- android: '15.0'
+  codename: mondrian
+  date: '2025-09-25'
+  download: https://bigota.d.miui.com/OS2.0.213.0.VMNCNXM/fw_mondrian_mondrian-ota_full-OS2.0.213.0.VMNCNXM-user-15.0-5dc0424ead.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS2.0.213.0.VMNCNXM
 - android: '14.0'
   codename: mondrian
   date: '2024-09-26'

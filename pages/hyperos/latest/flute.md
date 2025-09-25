@@ -56,9 +56,13 @@ permalink: /hyperos/flute/
 <tr><td>Redmi Pad 2 Pro / POCO Pad M1 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VPWEUXM</td><td>15.0</td><td>4.9 GB</td><td>2025-09-24</td><td><a href="/hyperos/flute/stable/OS2.0.207.0.VPWEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Pro / POCO Pad M1 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.205.0.VPWEUXM</td><td>15.0</td><td>4.8 GB</td><td>2025-09-24</td><td><a href="/hyperos/flute/stable beta/OS2.0.205.0.VPWEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Pro / POCO Pad M1 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VPWMIXM</td><td>15.0</td><td>6.5 GB</td><td>2025-09-12</td><td><a href="/hyperos/flute/stable/OS2.0.203.0.VPWMIXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Pro / POCO Pad M1 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VPWMIXM</td><td>15.0</td><td>4.9 GB</td><td>2025-09-25</td><td><a href="/hyperos/flute/stable/OS2.0.203.0.VPWMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Pro / POCO Pad M1 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VPWRUXM</td><td>15.0</td><td>6.7 GB</td><td>2025-09-02</td><td><a href="/hyperos/flute/stable/OS2.0.202.0.VPWRUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Pro / POCO Pad M1 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VPWRUXM</td><td>15.0</td><td>4.7 GB</td><td>2025-09-25</td><td><a href="/hyperos/flute/stable/OS2.0.202.0.VPWRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Pro / POCO Pad M1 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VPWTRXM</td><td>15.0</td><td>6.0 GB</td><td>2025-09-05</td><td><a href="/hyperos/flute/stable/OS2.0.203.0.VPWTRXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Pro / POCO Pad M1 Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VPWTRXM</td><td>15.0</td><td>4.9 GB</td><td>2025-09-25</td><td><a href="/hyperos/flute/stable/OS2.0.203.0.VPWTRXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Pro / POCO Pad M1 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VPWTWXM</td><td>15.0</td><td>5.7 GB</td><td>2025-09-12</td><td><a href="/hyperos/flute/stable/OS2.0.203.0.VPWTWXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Pro / POCO Pad M1 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VPWTWXM</td><td>15.0</td><td>4.8 GB</td><td>2025-09-25</td><td><a href="/hyperos/flute/stable/OS2.0.203.0.VPWTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -1969,6 +1969,16 @@
     android: '15.0'
     miui: OS2.0.206.0.VPRCNXM
 - branch: stable
+  date: '2025-09-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flute/releases/download/stable-26.09.2025/fw_flute_global_flute_global-ota_full-OS2.0.203.0.VPWMIXM-user-15.0-6b755e5413.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/flute/fw_flute_global_flute_global-ota_full-OS2.0.203.0.VPWMIXM-user-15.0-6b755e5413.zip
+  filename: fw_flute_global_flute_global-ota_full-OS2.0.203.0.VPWMIXM-user-15.0-6b755e5413.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.203.0.VPWMIXM
+- branch: stable
   date: '2025-09-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flute/releases/download/stable-25.09.2025/fw_flute_eea_global_flute_eea_global-ota_full-OS2.0.207.0.VPWEUXM-user-15.0-8f5f743f75.zip
@@ -3719,15 +3729,15 @@
     android: '15.0'
     miui: OS2.0.203.0.VMNMIXM
 - branch: stable
-  date: '2025-08-31'
+  date: '2025-09-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-31.08.2025/fw_mondrian_mondrian-ota_full-OS2.0.210.0.VMNCNXM-user-15.0-7f2f11adc8.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mondrian/fw_mondrian_mondrian-ota_full-OS2.0.210.0.VMNCNXM-user-15.0-7f2f11adc8.zip
-  filename: fw_mondrian_mondrian-ota_full-OS2.0.210.0.VMNCNXM-user-15.0-7f2f11adc8.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-26.09.2025/fw_mondrian_mondrian-ota_full-OS2.0.213.0.VMNCNXM-user-15.0-5dc0424ead.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mondrian/fw_mondrian_mondrian-ota_full-OS2.0.213.0.VMNCNXM-user-15.0-5dc0424ead.zip
+  filename: fw_mondrian_mondrian-ota_full-OS2.0.213.0.VMNCNXM-user-15.0-5dc0424ead.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.210.0.VMNCNXM
+    miui: OS2.0.213.0.VMNCNXM
 - branch: stable
   date: '2025-08-28'
   downloads:
