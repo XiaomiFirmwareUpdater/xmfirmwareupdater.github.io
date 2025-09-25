@@ -2332,6 +2332,12 @@
   download: https://bigota.d.miui.com/OS1.0.18.0.ULCEUXM/fw_cupid_miui_CUPIDEEAGlobal_OS1.0.18.0.ULCEUXM_cd525c98fc_14.0.zip
   name: Xiaomi 12
   version: OS1.0.18.0.ULCEUXM
+- android: '15.0'
+  codename: cupid
+  date: '2025-09-25'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VLCEUXM/fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.206.0.VLCEUXM-user-15.0-1799313fd1.zip
+  name: Xiaomi 12
+  version: OS2.0.206.0.VLCEUXM
 - android: '14.0'
   codename: cupid
   date: '2024-06-24'
@@ -4738,6 +4744,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UMXMIXM/fw_fire_miui_FIREGlobal_OS1.0.8.0.UMXMIXM_25bc31067f_14.0.zip
   name: Redmi 12
   version: OS1.0.8.0.UMXMIXM
+- android: '15.0'
+  codename: fire
+  date: '2025-09-25'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VMXEUXM/fw_fire_eea_global_fire_eea_global-ota_full-OS2.0.203.0.VMXEUXM-user-15.0-cd73a4b522.zip
+  name: Redmi 12
+  version: OS2.0.203.0.VMXEUXM
 - android: '14.0'
   codename: fire
   date: '2024-06-24'

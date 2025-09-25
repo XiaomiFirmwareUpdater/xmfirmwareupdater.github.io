@@ -1239,15 +1239,15 @@
     android: '15.0'
     miui: OS2.0.209.0.VLCCNXM
 - branch: stable
-  date: '2025-08-31'
+  date: '2025-09-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-31.08.2025/fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.205.0.VLCEUXM-user-15.0-22e4af5f23.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/cupid/fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.205.0.VLCEUXM-user-15.0-22e4af5f23.zip
-  filename: fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.205.0.VLCEUXM-user-15.0-22e4af5f23.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-25.09.2025/fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.206.0.VLCEUXM-user-15.0-1799313fd1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/cupid/fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.206.0.VLCEUXM-user-15.0-1799313fd1.zip
+  filename: fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.206.0.VLCEUXM-user-15.0-1799313fd1.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.205.0.VLCEUXM
+    miui: OS2.0.206.0.VLCEUXM
 - branch: stable
   date: '2023-06-28'
   downloads:
@@ -1859,15 +1859,15 @@
     android: '15.0'
     miui: OS2.0.204.0.VMXMIXM
 - branch: stable
-  date: '2025-08-11'
+  date: '2025-09-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-11.08.2025/fw_fire_eea_global_fire_eea_global-ota_full-OS2.0.202.0.VMXEUXM-user-15.0-87c79ba145.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/fire/fw_fire_eea_global_fire_eea_global-ota_full-OS2.0.202.0.VMXEUXM-user-15.0-87c79ba145.zip
-  filename: fw_fire_eea_global_fire_eea_global-ota_full-OS2.0.202.0.VMXEUXM-user-15.0-87c79ba145.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-25.09.2025/fw_fire_eea_global_fire_eea_global-ota_full-OS2.0.203.0.VMXEUXM-user-15.0-cd73a4b522.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/fire/fw_fire_eea_global_fire_eea_global-ota_full-OS2.0.203.0.VMXEUXM-user-15.0-cd73a4b522.zip
+  filename: fw_fire_eea_global_fire_eea_global-ota_full-OS2.0.203.0.VMXEUXM-user-15.0-cd73a4b522.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.202.0.VMXEUXM
+    miui: OS2.0.203.0.VMXEUXM
 - branch: stable
   date: '2025-09-22'
   downloads:
