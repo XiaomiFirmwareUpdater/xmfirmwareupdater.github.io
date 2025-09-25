@@ -1,7 +1,7 @@
 ---
-title: Xiaomi 15T Pro India HyperOS OS2.0.202.0.VOSIDXM Update
+title: Xiaomi 15T Pro Indonesia HyperOS OS2.0.202.0.VOSIDXM Update
 layout: download
-name: Xiaomi 15T Pro India
+name: Xiaomi 15T Pro Indonesia
 codename: klimt
 permalink: /hyperos/klimt/stable/OS2.0.202.0.VOSIDXM/
 ---
@@ -9,7 +9,7 @@ permalink: /hyperos/klimt/stable/OS2.0.202.0.VOSIDXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/klimt/">Xiaomi 15T Pro India</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/klimt/">Xiaomi 15T Pro Indonesia</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS2.0.202.0.VOSIDXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /hyperos/klimt/stable/OS2.0.202.0.VOSIDXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.202.0.VOSIDXM Stable Official Update for Xiaomi 15T Pro India (klimt)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.202.0.VOSIDXM Stable Official Update for Xiaomi 15T Pro Indonesia (klimt)</h3>
     <h5>This page shows the OS2.0.202.0.VOSIDXM update only. If you're looking for other updates check
         <a href="/hyperos/klimt/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -44,7 +44,7 @@ permalink: /hyperos/klimt/stable/OS2.0.202.0.VOSIDXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Xiaomi 15T Pro India</h5>
+                    <h5><b>Device: </b>Xiaomi 15T Pro Indonesia</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/klimt/" target="_blank">klimt</a> </h5>
@@ -87,7 +87,7 @@ permalink: /hyperos/klimt/stable/OS2.0.202.0.VOSIDXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Xiaomi 15T Pro India</h5>
+                    <h5><b>Device: </b>Xiaomi 15T Pro Indonesia</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/klimt/" target="_blank">klimt</a> </h5>

@@ -5640,6 +5640,12 @@
   version: OS1.0.6.0.UGPINXM
 - android: '15.0'
   codename: gale
+  date: '2025-09-25'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VGPEUXM/fw_gale_eea_global_gale_eea_global-ota_full-OS2.0.204.0.VGPEUXM-user-15.0-03c9ad9b23.zip
+  name: Redmi 13C/POCO C65
+  version: OS2.0.204.0.VGPEUXM
+- android: '15.0'
+  codename: gale
   date: '2025-05-25'
   download: https://bigota.d.miui.com/OS2.0.6.0.VGPMIXM/fw_gale_global_gale_global-ota_full-OS2.0.6.0.VGPMIXM-user-15.0-4941536823.zip
   name: Redmi 13C/POCO C65
@@ -11680,6 +11686,12 @@
   download: https://bigota.d.miui.com/OS2.0.207.0.VLHCNXM/fw_pearl_pearl-ota_full-OS2.0.207.0.VLHCNXM-user-15.0-6dc8011b22.zip
   name: Redmi Note 12T Pro
   version: OS2.0.207.0.VLHCNXM
+- android: '15.0'
+  codename: pearl
+  date: '2025-09-25'
+  download: https://bigota.d.miui.com/OS2.0.210.0.VLHCNXM/fw_pearl_pearl-ota_full-OS2.0.210.0.VLHCNXM-user-15.0-97de372545.zip
+  name: Redmi Note 12T Pro
+  version: OS2.0.210.0.VLHCNXM
 - android: '15.0'
   codename: pearl
   date: '2025-07-22'
