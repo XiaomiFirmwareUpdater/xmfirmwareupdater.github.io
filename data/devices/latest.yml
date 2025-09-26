@@ -39,15 +39,15 @@
     android: '15.0'
     miui: OS2.0.201.0.VGQCNXM
 - branch: stable
-  date: '2025-08-30'
+  date: '2025-09-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-31.08.2025/fw_air_eea_global_air_eea_global-ota_full-OS2.0.204.0.VGQEUXM-user-15.0-e419553267.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/air/fw_air_eea_global_air_eea_global-ota_full-OS2.0.204.0.VGQEUXM-user-15.0-e419553267.zip
-  filename: fw_air_eea_global_air_eea_global-ota_full-OS2.0.204.0.VGQEUXM-user-15.0-e419553267.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-26.09.2025/fw_air_eea_global_air_eea_global-ota_full-OS2.0.205.0.VGQEUXM-user-15.0-19ba823095.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/air/fw_air_eea_global_air_eea_global-ota_full-OS2.0.205.0.VGQEUXM-user-15.0-19ba823095.zip
+  filename: fw_air_eea_global_air_eea_global-ota_full-OS2.0.205.0.VGQEUXM-user-15.0-19ba823095.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.204.0.VGQEUXM
+    miui: OS2.0.205.0.VGQEUXM
 - branch: stable
   date: '2025-08-27'
   downloads:
@@ -379,15 +379,15 @@
     android: '15.0'
     miui: OS2.0.204.0.VNAMIXM
 - branch: stable
-  date: '2025-08-30'
+  date: '2025-09-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-30.08.2025/fw_aurora_aurora-ota_full-OS2.0.210.0.VNACNXM-user-15.0-54686ac4d8.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora-ota_full-OS2.0.210.0.VNACNXM-user-15.0-54686ac4d8.zip
-  filename: fw_aurora_aurora-ota_full-OS2.0.210.0.VNACNXM-user-15.0-54686ac4d8.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-26.09.2025/fw_aurora_aurora-ota_full-OS2.0.212.0.VNACNXM-user-15.0-554744c254.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora-ota_full-OS2.0.212.0.VNACNXM-user-15.0-554744c254.zip
+  filename: fw_aurora_aurora-ota_full-OS2.0.212.0.VNACNXM-user-15.0-554744c254.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.210.0.VNACNXM
+    miui: OS2.0.212.0.VNACNXM
 - branch: stable
   date: '2025-09-15'
   downloads:
@@ -1119,15 +1119,15 @@
     android: '15.0'
     miui: OS2.0.201.0.VMLMIXM
 - branch: stable
-  date: '2025-07-26'
+  date: '2025-09-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-26.07.2025/fw_corot_corot-ota_full-OS2.0.203.0.VMLCNXM-user-15.0-3469af61e5.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/corot/fw_corot_corot-ota_full-OS2.0.203.0.VMLCNXM-user-15.0-3469af61e5.zip
-  filename: fw_corot_corot-ota_full-OS2.0.203.0.VMLCNXM-user-15.0-3469af61e5.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-26.09.2025/fw_corot_corot-ota_full-OS2.0.208.0.VMLCNXM-user-15.0-98c9c54a10.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/corot/fw_corot_corot-ota_full-OS2.0.208.0.VMLCNXM-user-15.0-98c9c54a10.zip
+  filename: fw_corot_corot-ota_full-OS2.0.208.0.VMLCNXM-user-15.0-98c9c54a10.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.203.0.VMLCNXM
+    miui: OS2.0.208.0.VMLCNXM
 - branch: stable
   date: '2025-08-22'
   downloads:
@@ -1719,15 +1719,15 @@
     android: '15.0'
     miui: OS2.0.204.0.VFOMIXM
 - branch: stable
-  date: '2025-09-10'
+  date: '2025-09-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-10.09.2025/fw_emerald_r_eea_global_emerald_r_eea_global-ota_full-OS2.0.204.0.VFOEUXM-user-15.0-9190529951.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/emerald/fw_emerald_r_eea_global_emerald_r_eea_global-ota_full-OS2.0.204.0.VFOEUXM-user-15.0-9190529951.zip
-  filename: fw_emerald_r_eea_global_emerald_r_eea_global-ota_full-OS2.0.204.0.VFOEUXM-user-15.0-9190529951.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-26.09.2025/fw_emerald_eea_global_emerald_eea_global-ota_full-OS2.0.207.0.VNFEUXM-user-15.0-bdba6bdef8.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/emerald/fw_emerald_eea_global_emerald_eea_global-ota_full-OS2.0.207.0.VNFEUXM-user-15.0-bdba6bdef8.zip
+  filename: fw_emerald_eea_global_emerald_eea_global-ota_full-OS2.0.207.0.VNFEUXM-user-15.0-bdba6bdef8.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.204.0.VFOEUXM
+    miui: OS2.0.207.0.VNFEUXM
 - branch: stable
   date: '2024-05-20'
   downloads:

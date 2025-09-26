@@ -9,15 +9,15 @@
     android: '15.0'
     miui: OS2.0.201.0.VMLMIXM
 - branch: stable
-  date: '2025-07-26'
+  date: '2025-09-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-26.07.2025/fw_corot_corot-ota_full-OS2.0.203.0.VMLCNXM-user-15.0-3469af61e5.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/corot/fw_corot_corot-ota_full-OS2.0.203.0.VMLCNXM-user-15.0-3469af61e5.zip
-  filename: fw_corot_corot-ota_full-OS2.0.203.0.VMLCNXM-user-15.0-3469af61e5.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-26.09.2025/fw_corot_corot-ota_full-OS2.0.208.0.VMLCNXM-user-15.0-98c9c54a10.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/corot/fw_corot_corot-ota_full-OS2.0.208.0.VMLCNXM-user-15.0-98c9c54a10.zip
+  filename: fw_corot_corot-ota_full-OS2.0.208.0.VMLCNXM-user-15.0-98c9c54a10.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.203.0.VMLCNXM
+    miui: OS2.0.208.0.VMLCNXM
 - branch: stable
   date: '2025-08-22'
   downloads:

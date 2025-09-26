@@ -228,6 +228,12 @@
   version: OS2.0.203.0.VGQINXM
 - android: '15.0'
   codename: air
+  date: '2025-09-26'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VGQEUXM/fw_air_eea_global_air_eea_global-ota_full-OS2.0.205.0.VGQEUXM-user-15.0-19ba823095.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS2.0.205.0.VGQEUXM
+- android: '15.0'
+  codename: air
   date: '2025-04-25'
   download: https://bigota.d.miui.com/OS2.0.2.0.VGQCNXM/fw_air_air-ota_full-OS2.0.2.0.VGQCNXM-user-15.0-93d776ddda.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
@@ -928,6 +934,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UNACNXM/fw_aurora_miui_AURORA_OS1.0.3.0.UNACNXM_1c74075993_14.0.zip
   name: Xiaomi 14 Ultra
   version: OS1.0.3.0.UNACNXM
+- android: '15.0'
+  codename: aurora
+  date: '2025-09-26'
+  download: https://bigota.d.miui.com/OS2.0.212.0.VNACNXM/fw_aurora_aurora-ota_full-OS2.0.212.0.VNACNXM-user-15.0-554744c254.zip
+  name: Xiaomi 14 Ultra
+  version: OS2.0.212.0.VNACNXM
 - android: '15.0'
   codename: aurora
   date: '2025-05-26'
@@ -2020,6 +2032,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMLMIXM/fw_corot_miui_COROTGlobal_OS1.0.3.0.UMLMIXM_5f0f078eb2_14.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
   version: OS1.0.3.0.UMLMIXM
+- android: '15.0'
+  codename: corot
+  date: '2025-09-26'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VMLCNXM/fw_corot_corot-ota_full-OS2.0.208.0.VMLCNXM-user-15.0-98c9c54a10.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS2.0.208.0.VMLCNXM
 - android: '14.0'
   codename: corot
   date: '2024-08-26'
@@ -4474,6 +4492,12 @@
   download: https://bigota.d.miui.com/OS2.0.5.0.VNFMIXM/fw_emerald_global_emerald_global-ota_full-OS2.0.5.0.VNFMIXM-user-15.0-33fc5d166b.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS2.0.5.0.VNFMIXM
+- android: '15.0'
+  codename: emerald
+  date: '2025-09-26'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VNFEUXM/fw_emerald_eea_global_emerald_eea_global-ota_full-OS2.0.207.0.VNFEUXM-user-15.0-bdba6bdef8.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
+  version: OS2.0.207.0.VNFEUXM
 - android: '14.0'
   codename: emerald
   date: '2024-07-26'

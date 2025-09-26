@@ -52,7 +52,9 @@ permalink: /hyperos/pudding/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 17 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.7.0.WPCCNXM</td><td>16.0</td><td>10.9 GB</td><td>2025-09-18</td><td><a href="/hyperos/pudding/stable/OS3.0.7.0.WPCCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 17 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.9.0.WPCCNXM</td><td>16.0</td><td>11.1 GB</td><td>2025-09-23</td><td><a href="/hyperos/pudding/stable/OS3.0.9.0.WPCCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.9.0.WPCCNXM</td><td>16.0</td><td>7.6 GB</td><td>2025-09-26</td><td><a href="/hyperos/pudding/stable/OS3.0.9.0.WPCCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WPCCNXM</td><td>16.0</td><td>7.5 GB</td><td>2025-09-26</td><td><a href="/hyperos/pudding/stable beta/OS3.0.3.0.WPCCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
