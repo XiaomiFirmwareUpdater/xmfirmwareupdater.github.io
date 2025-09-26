@@ -54,8 +54,8 @@ permalink: /miui/serenity/
                 <tbody>
                 <tr><td>Redmi A5 / POCO C71 EEA</td><td>Stable</td><td>Fastboot</td><td>A15.0.9.0.VGWEUXM</td><td>15.0</td><td>3.9 GB</td><td>2025-09-10</td><td><a href="/miui/serenity/stable/A15.0.9.0.VGWEUXM/">Download</a></td></tr>
 <tr><td>Redmi A5 / POCO C71 EEA</td><td>Stable</td><td>Recovery</td><td>A15.0.9.0.VGWEUXM</td><td>15.0</td><td>3.0 GB</td><td>2025-09-22</td><td><a href="/miui/serenity/stable/A15.0.9.0.VGWEUXM/">Download</a></td></tr>
-<tr><td>Redmi A5 / POCO C71 Global</td><td>Stable</td><td>Fastboot</td><td>A15.0.12.0.VGWMIXM</td><td>15.0</td><td>4.6 GB</td><td>2025-08-11</td><td><a href="/miui/serenity/stable/A15.0.12.0.VGWMIXM/">Download</a></td></tr>
-<tr><td>Redmi A5 / POCO C71 Global</td><td>Stable</td><td>Recovery</td><td>A15.0.12.0.VGWMIXM</td><td>15.0</td><td>3.0 GB</td><td>2025-08-19</td><td><a href="/miui/serenity/stable/A15.0.12.0.VGWMIXM/">Download</a></td></tr>
+<tr><td>Redmi A5 / POCO C71 Global</td><td>Stable</td><td>Fastboot</td><td>A15.0.13.0.VGWMIXM</td><td>15.0</td><td>4.7 GB</td><td>2025-09-16</td><td><a href="/miui/serenity/stable/A15.0.13.0.VGWMIXM/">Download</a></td></tr>
+<tr><td>Redmi A5 / POCO C71 Global</td><td>Stable</td><td>Recovery</td><td>A15.0.13.0.VGWMIXM</td><td>15.0</td><td>3.0 GB</td><td>2025-09-26</td><td><a href="/miui/serenity/stable/A15.0.13.0.VGWMIXM/">Download</a></td></tr>
 <tr><td>Redmi A5 / POCO C71 Global</td><td>Stable Beta</td><td>Recovery</td><td>A15.0.1.0.VGWMIXM</td><td>15.0</td><td>2.9 GB</td><td>2025-04-02</td><td><a href="/miui/serenity/stable beta/A15.0.1.0.VGWMIXM/">Download</a></td></tr>
 <tr><td>Redmi A5 / POCO C71 Indonesia</td><td>Stable</td><td>Fastboot</td><td>A15.0.6.0.VGWIDXM</td><td>15.0</td><td>3.9 GB</td><td>2025-08-15</td><td><a href="/miui/serenity/stable/A15.0.6.0.VGWIDXM/">Download</a></td></tr>
 <tr><td>Redmi A5 / POCO C71 Indonesia</td><td>Stable</td><td>Recovery</td><td>A15.0.6.0.VGWIDXM</td><td>15.0</td><td>3.0 GB</td><td>2025-08-22</td><td><a href="/miui/serenity/stable/A15.0.6.0.VGWIDXM/">Download</a></td></tr>

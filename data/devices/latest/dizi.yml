@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-07-22'
+  date: '2025-09-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-22.07.2025/fw_dizi_global_dizi_global-ota_full-OS2.0.201.0.VNSMIXM-user-15.0-ac7fb2bde1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dizi/fw_dizi_global_dizi_global-ota_full-OS2.0.201.0.VNSMIXM-user-15.0-ac7fb2bde1.zip
-  filename: fw_dizi_global_dizi_global-ota_full-OS2.0.201.0.VNSMIXM-user-15.0-ac7fb2bde1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-26.09.2025/fw_dizi_global_dizi_global-ota_full-OS2.0.203.0.VNSMIXM-user-15.0-5b61374674.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dizi/fw_dizi_global_dizi_global-ota_full-OS2.0.203.0.VNSMIXM-user-15.0-5b61374674.zip
+  filename: fw_dizi_global_dizi_global-ota_full-OS2.0.203.0.VNSMIXM-user-15.0-5b61374674.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.201.0.VNSMIXM
+    miui: OS2.0.203.0.VNSMIXM
 - branch: stable
   date: '2025-08-28'
   downloads:

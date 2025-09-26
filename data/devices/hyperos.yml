@@ -3544,6 +3544,12 @@
   download: https://bigota.d.miui.com/OS2.0.5.0.VNSINXM/fw_dizi_in_global_dizi_in_global-ota_full-OS2.0.5.0.VNSINXM-user-15.0-6859ad57dd.zip
   name: Redmi Pad Pro/POCO Pad
   version: OS2.0.5.0.VNSINXM
+- android: '15.0'
+  codename: dizi
+  date: '2025-09-26'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VNSMIXM/fw_dizi_global_dizi_global-ota_full-OS2.0.203.0.VNSMIXM-user-15.0-5b61374674.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS2.0.203.0.VNSMIXM
 - android: '14.0'
   codename: dizi
   date: '2024-08-26'
@@ -5874,6 +5880,12 @@
   version: OS2.0.9.0.VNRMIXM
 - android: '15.0'
   codename: garnet
+  date: '2025-09-26'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VNREUXM/fw_garnet_eea_global_garnet_eea_global-ota_full-OS2.0.202.0.VNREUXM-user-15.0-e746be95d4.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS2.0.202.0.VNREUXM
+- android: '15.0'
+  codename: garnet
   date: '2025-06-26'
   download: https://bigota.d.miui.com/OS2.0.9.0.VNRCNXM/fw_garnet_garnet-ota_full-OS2.0.9.0.VNRCNXM-user-15.0-5ce1dfbc96.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
@@ -6222,6 +6234,12 @@
   version: OS2.0.205.0.VNVCNXM
 - android: '15.0'
   codename: goku
+  date: '2025-09-26'
+  download: https://bigota.d.miui.com/OS2.0.210.0.VNVCNXM/fw_goku_goku-ota_full-OS2.0.210.0.VNVCNXM-user-15.0-d7916f0237.zip
+  name: MIX Fold 4
+  version: OS2.0.210.0.VNVCNXM
+- android: '15.0'
+  codename: goku
   date: '2025-05-23'
   download: https://bigota.d.miui.com/OS2.0.108.0.VNVCNXM/fw_goku_goku-ota_full-OS2.0.108.0.VNVCNXM-user-15.0-4fb806ef0f.zip
   name: MIX Fold 4
@@ -6346,6 +6364,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UNQINXM/fw_gold_miui_GOLDINGlobal_OS1.0.6.0.UNQINXM_01f5dddab5_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: OS1.0.6.0.UNQINXM
+- android: '15.0'
+  codename: gold
+  date: '2025-09-26'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VNQMIXM/fw_gold_global_gold_global-ota_full-OS2.0.208.0.VNQMIXM-user-15.0-d60e34ad27.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS2.0.208.0.VNQMIXM
 - android: '14.0'
   codename: gold
   date: '2024-09-25'
@@ -8130,6 +8154,12 @@
   version: OS2.0.201.0.VOWEUXM
 - android: '15.0'
   codename: kunzite
+  date: '2025-09-26'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VPQCNXM/fw_kunzite_kunzite-ota_full-OS2.0.204.0.VPQCNXM-user-15.0-39520b594a.zip
+  name: Redmi Note 15 5G
+  version: OS2.0.204.0.VPQCNXM
+- android: '15.0'
+  codename: kunzite
   date: '2025-08-21'
   download: https://bigota.d.miui.com/OS2.0.203.0.VPQCNXM/fw_kunzite_kunzite-ota_full-OS2.0.203.0.VPQCNXM-user-15.0-0f386094dc.zip
   name: Redmi Note 15 5G
@@ -8752,6 +8782,12 @@
   download: https://bigota.d.miui.com/OS2.0.6.0.VMYCNXM/fw_liuqin_liuqin-ota_full-OS2.0.6.0.VMYCNXM-user-15.0-ff2b5906a3.zip
   name: Xiaomi Pad 6 Pro
   version: OS2.0.6.0.VMYCNXM
+- android: '15.0'
+  codename: liuqin
+  date: '2025-09-26'
+  download: https://bigota.d.miui.com/OS2.0.211.0.VMYCNXM/fw_liuqin_liuqin-ota_full-OS2.0.211.0.VMYCNXM-user-15.0-83947b6aa4.zip
+  name: Xiaomi Pad 6 Pro
+  version: OS2.0.211.0.VMYCNXM
 - android: '14.0'
   codename: liuqin
   date: '2023-12-25'
@@ -9822,6 +9858,12 @@
   version: OS2.0.106.0.VOMMIXM
 - android: '15.0'
   codename: miro
+  date: '2025-09-26'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VOMEUXM/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.205.0.VOMEUXM-user-15.0-befbd93e18.zip
+  name: Redmi K80 Pro/POCO F7 Ultra
+  version: OS2.0.205.0.VOMEUXM
+- android: '15.0'
+  codename: miro
   date: '2025-03-24'
   download: https://bigota.d.miui.com/OS2.0.108.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.108.0.VOMCNXM-user-15.0-afaabb8574.zip
   name: Redmi K80 Pro/POCO F7 Ultra
@@ -10240,6 +10282,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UNTMIXM/fw_moon_miui_MOONGlobal_OS1.0.7.0.UNTMIXM_ef1313045c_14.0.zip
   name: Redmi 13/POCO M6
   version: OS1.0.7.0.UNTMIXM
+- android: '15.0'
+  codename: moon
+  date: '2025-09-26'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VNTEUXM/fw_moon_eea_global_moon_eea_global-ota_full-OS2.0.203.0.VNTEUXM-user-15.0-a19b19cb18.zip
+  name: Redmi 13/POCO M6
+  version: OS2.0.203.0.VNTEUXM
 - android: '14.0'
   codename: moon
   date: '2024-07-26'
@@ -11578,6 +11626,12 @@
   download: https://bigota.d.miui.com/OS2.0.102.0.VOLMIXM/fw_onyx_global_onyx_global-ota_full-OS2.0.102.0.VOLMIXM-user-15.0-a6f16bccbc.zip
   name: Redmi Turbo 4 Pro/POCO F7
   version: OS2.0.102.0.VOLMIXM
+- android: '15.0'
+  codename: onyx
+  date: '2025-09-26'
+  download: https://bigota.d.miui.com/OS2.0.214.0.VOLCNXM/fw_onyx_onyx-ota_full-OS2.0.214.0.VOLCNXM-user-15.0-ad9d1d86b7.zip
+  name: Redmi Turbo 4 Pro/POCO F7
+  version: OS2.0.214.0.VOLCNXM
 - android: '15.0'
   codename: onyx
   date: '2025-06-26'
