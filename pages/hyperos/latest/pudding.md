@@ -1,55 +1,61 @@
 ---
-title: Xiaomi 17 (pudding) Firmware Downloads
+title: Xiaomi 17 (pudding) HyperOS Downloads
 layout: download
 name: Xiaomi 17
 codename: pudding
-permalink: /firmware/pudding/
+permalink: /hyperos/pudding/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
-        <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/pudding/">Xiaomi 17</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/pudding/">Xiaomi 17</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
-    Follow XM Firmware Updater on <a href="https://t.me/XiaomiFirmwareUpdater" class="alert-link">Telegram</a>
+    Follow HyperOS Updates Tracker on <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">Telegram</a>
      or <a href="https://twitter.com/MiFwUpdater" class="alert-link">Twitter</a> to get notified when a new update is out!
     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
-<h3>Latest Firmware <span class="badge badge-light"><a href="/releases.xml" class="icon solid fa-rss">
-<span class="label">RSS</span></a></span></h3>
+
+### Latest HyperOS Official ROMs
+*Note*: All files listed here are official untouched HyperOS ROMs. It's not owned, modified or modded by XM Firmware Updater.
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-    <p class="card-text">This page shows the latest firmware downloads only.
+    <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/firmware/pudding/" class="card-link">Firmware Archive</a>
-    <a href="/hyperos/pudding/" class="card-link">HyperOS Downloads</a>
+    <a href="/archive/hyperos/pudding/" class="card-link">HyperOS Archive</a>
+    <a href="/firmware/pudding/" class="card-link">Firmware Downloads</a>
     <a href="/vendor/pudding/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
-
 {%include ads.html%}
 <div class="row justify-content-center">
     <div class="col-10">
-        {%include vli_ad_320x50_1.html%}
         <div class="table-responsive-md" style="margin-top: 25px;">
-            <table id="firmware" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
+            {%include vli_ad_320x50_1.html%}
+            <table id="miui" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
                 <thead class="thead-dark">
                     <tr>
+                        <th data-ref="device">Device</th>
                         <th data-ref="branch">Branch</th>
+                        <th data-ref="type">Type</th>
                         <th data-ref="miui">HyperOS</th>
                         <th data-ref="android">Android</th>
-                        <th data-ref="region">Region</th>
+                        <th data-ref="size">Size</th>
+                        <th data-ref="size">Date</th>
                         <th data-ref="link">Link</th>
-                        <th data-ref="updated">Updated</th>
                     </tr>
                 </thead>
-                <script>loadFirmwareDownloads('pudding', 'latest')</script>
+                <tbody>
+                <tr><td>Xiaomi 17 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.7.0.WPCCNXM</td><td>16.0</td><td>10.9 GB</td><td>2025-09-18</td><td><a href="/hyperos/pudding/stable/OS3.0.7.0.WPCCNXM/">Download</a></td></tr>
+
+                </tbody>
+                <script>loadMiuiDownloads()</script>
             </table>
         </div>
     </div>
