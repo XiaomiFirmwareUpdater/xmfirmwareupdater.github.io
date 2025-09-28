@@ -83,6 +83,49 @@ permalink: /hyperos/sapphire/stable/OS2.0.201.0.VNGMIXM/
                 </li>
             </ul>
         </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi Note 13 Global</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/sapphire/" target="_blank">sapphire</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.201.0.VNGMIXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>7.7 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-07-09</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sapphire_global_images_OS2.0.201.0.VNGMIXM_20250709.0000.00_15.0_global_4a7fc10c0c.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">4a7fc10c0c5148c111295222adf72aec</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.201.0.VNGMIXM/sapphire_global_images_OS2.0.201.0.VNGMIXM_20250709.0000.00_15.0_global_4a7fc10c0c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.201.0.VNGMIXM/sapphire_global_images_OS2.0.201.0.VNGMIXM_20250709.0000.00_15.0_global_4a7fc10c0c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.201.0.VNGMIXM/sapphire_global_images_OS2.0.201.0.VNGMIXM_20250709.0000.00_15.0_global_4a7fc10c0c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.201.0.VNGMIXM/sapphire_global_images_OS2.0.201.0.VNGMIXM_20250709.0000.00_15.0_global_4a7fc10c0c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.201.0.VNGMIXM/sapphire_global_images_OS2.0.201.0.VNGMIXM_20250709.0000.00_15.0_global_4a7fc10c0c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#sapphire_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="sapphire_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="sapphire_2_changelog">
+                        <p id="changelog_text">[System animations]<br>Optimization: Interrupt animation when entering subpages within apps<br>Optimization: Interrupt animation during app transitions<br>[System]<br>New: Home screen wallpaper now supports a blur effect<br>Optimization: Updated styles for some classic pages<br>[Basic experience]<br>Optimization: Tweaked the Storage refresh algorithm so it activates more often<br>[Lock screen]<br>New: Customizable Lock screen shortcuts<br>[Settings]<br>Optimization: Added a shortcut to system navigation settings in Home screen settings<br>[Status bar, Notification shade]<br>New: Some status bar icons now support custom display<br>[Accessibility]<br>Fix: Touch gestures stopped working in TalkBack mode<br>Fix: Volume buttons didn't work in TalkBack mode<br>Fix: Issues that prevented Recorder from capturing TalkBack audio<br>Fix: Issues with announcements for unselected items in Calendar and other apps<br>Fix: Some buttons weren't announced in several apps, including Settings, Control center, Messaging, Contacts, Weather, Notes, and Browser</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
 
         </div>
         {%include vli_ad_160x600_1.html%}

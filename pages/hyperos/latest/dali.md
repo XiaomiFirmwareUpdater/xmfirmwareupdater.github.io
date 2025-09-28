@@ -52,8 +52,8 @@ permalink: /hyperos/dali/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K80 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.218.0.VONCNXM</td><td>15.0</td><td>10.2 GB</td><td>2025-08-14</td><td><a href="/hyperos/dali/stable/OS2.0.218.0.VONCNXM/">Download</a></td></tr>
-<tr><td>Redmi K80 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.218.0.VONCNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-08-19</td><td><a href="/hyperos/dali/stable/OS2.0.218.0.VONCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K80 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.220.0.VONCNXM</td><td>15.0</td><td>10.2 GB</td><td>2025-09-08</td><td><a href="/hyperos/dali/stable/OS2.0.220.0.VONCNXM/">Download</a></td></tr>
+<tr><td>Redmi K80 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.220.0.VONCNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-09-18</td><td><a href="/hyperos/dali/stable/OS2.0.220.0.VONCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.208.0.VONCNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-06-26</td><td><a href="/hyperos/dali/stable beta/OS2.0.208.0.VONCNXM/">Download</a></td></tr>
 
                 </tbody>
