@@ -3,7 +3,7 @@ title: Xiaomi Pad 6S Pro 12.4 Global HyperOS OS2.0.207.0.VNXMIXM Update
 layout: download
 name: Xiaomi Pad 6S Pro 12.4 Global
 codename: sheng
-permalink: /hyperos/sheng/stable beta/OS2.0.207.0.VNXMIXM/
+permalink: /hyperos/sheng/stable/OS2.0.207.0.VNXMIXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/sheng/stable beta/OS2.0.207.0.VNXMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.207.0.VNXMIXM Stable Beta Official Update for Xiaomi Pad 6S Pro 12.4 Global (sheng)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.207.0.VNXMIXM Stable Official Update for Xiaomi Pad 6S Pro 12.4 Global (sheng)</h3>
     <h5>This page shows the OS2.0.207.0.VNXMIXM update only. If you're looking for other updates check
         <a href="/hyperos/sheng/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/sheng/stable beta/OS2.0.207.0.VNXMIXM/
                     <h5><b>Version: </b>OS2.0.207.0.VNXMIXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/sheng/stable beta/OS2.0.207.0.VNXMIXM/
                             aria-expanded="false" aria-controls="sheng_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="sheng_1_changelog">
+                        <p id="changelog_text">Bug fixes and system optimizations.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi Pad 6S Pro 12.4 Global</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/sheng/" target="_blank">sheng</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.207.0.VNXMIXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>7.3 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-09-11</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sheng_global_images_OS2.0.207.0.VNXMIXM_20250911.0000.00_15.0_global_b9695d5e95.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">b9695d5e958de96f88775b0545381c80</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.207.0.VNXMIXM/sheng_global_images_OS2.0.207.0.VNXMIXM_20250911.0000.00_15.0_global_b9695d5e95.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.207.0.VNXMIXM/sheng_global_images_OS2.0.207.0.VNXMIXM_20250911.0000.00_15.0_global_b9695d5e95.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.207.0.VNXMIXM/sheng_global_images_OS2.0.207.0.VNXMIXM_20250911.0000.00_15.0_global_b9695d5e95.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.207.0.VNXMIXM/sheng_global_images_OS2.0.207.0.VNXMIXM_20250911.0000.00_15.0_global_b9695d5e95.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.207.0.VNXMIXM/sheng_global_images_OS2.0.207.0.VNXMIXM_20250911.0000.00_15.0_global_b9695d5e95.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#sheng_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="sheng_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="sheng_2_changelog">
                         <p id="changelog_text">Bug fixes and system optimizations.</p>
                     </div>
                 </li>
