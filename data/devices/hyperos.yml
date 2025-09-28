@@ -11676,6 +11676,12 @@
   version: OS2.0.121.0.VOLCNXM
 - android: '15.0'
   codename: onyx
+  date: '2025-09-28'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VOLMIXM/fw_onyx_global_onyx_global-ota_full-OS2.0.202.0.VOLMIXM-user-15.0-5ff284f373.zip
+  name: Redmi Turbo 4 Pro/POCO F7
+  version: OS2.0.202.0.VOLMIXM
+- android: '15.0'
+  codename: onyx
   date: '2025-08-29'
   download: https://bigota.d.miui.com/OS2.0.201.0.VOLMIXM/fw_onyx_global_onyx_global-ota_full-OS2.0.201.0.VOLMIXM-user-15.0-14951c2a2c.zip
   name: Redmi Turbo 4 Pro/POCO F7
