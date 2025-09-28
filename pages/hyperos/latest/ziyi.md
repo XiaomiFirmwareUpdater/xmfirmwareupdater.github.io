@@ -60,8 +60,8 @@ permalink: /hyperos/ziyi/
 <tr><td>Xiaomi Civi 2 / 13 Lite Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.200.0.VLLMIXM</td><td>15.0</td><td>5.6 GB</td><td>2025-08-24</td><td><a href="/hyperos/ziyi/stable/OS2.0.200.0.VLLMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.8.0.VLLRUXM</td><td>15.0</td><td>7.1 GB</td><td>2025-07-09</td><td><a href="/hyperos/ziyi/stable/OS2.0.8.0.VLLRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.8.0.VLLRUXM</td><td>15.0</td><td>5.5 GB</td><td>2025-07-22</td><td><a href="/hyperos/ziyi/stable/OS2.0.8.0.VLLRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Lite Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.200.0.VLLTRXM</td><td>15.0</td><td>6.9 GB</td><td>2025-08-13</td><td><a href="/hyperos/ziyi/stable/OS2.0.200.0.VLLTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Lite Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.200.0.VLLTRXM</td><td>15.0</td><td>5.6 GB</td><td>2025-08-22</td><td><a href="/hyperos/ziyi/stable/OS2.0.200.0.VLLTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Lite Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VLLTRXM</td><td>15.0</td><td>6.9 GB</td><td>2025-09-08</td><td><a href="/hyperos/ziyi/stable/OS2.0.201.0.VLLTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Lite Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VLLTRXM</td><td>15.0</td><td>5.6 GB</td><td>2025-09-19</td><td><a href="/hyperos/ziyi/stable/OS2.0.201.0.VLLTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VLLTWXM</td><td>15.0</td><td>6.8 GB</td><td>2025-09-08</td><td><a href="/hyperos/ziyi/stable/OS2.0.201.0.VLLTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VLLTWXM</td><td>15.0</td><td>5.5 GB</td><td>2025-09-16</td><td><a href="/hyperos/ziyi/stable/OS2.0.201.0.VLLTWXM/">Download</a></td></tr>
 

@@ -6360,6 +6360,18 @@
   version: OS1.0.6.0.UNQCNXM
 - android: '15.0'
   codename: gold
+  date: '2025-09-28'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNQEUXM/fw_gold_eea_global_gold_eea_global-ota_full-OS2.0.204.0.VNQEUXM-user-15.0-d9d0da8218.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS2.0.204.0.VNQEUXM
+- android: '15.0'
+  codename: gold
+  date: '2025-09-28'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VNQINXM/fw_gold_in_global_gold_in_global-ota_full-OS2.0.206.0.VNQINXM-user-15.0-ba0e2a971f.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS2.0.206.0.VNQINXM
+- android: '15.0'
+  codename: gold
   date: '2025-07-28'
   download: https://bigota.d.miui.com/OS2.0.204.0.VNQCNXM/fw_gold_gold-ota_full-OS2.0.204.0.VNQCNXM-user-15.0-c8c31bb65a.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
@@ -8314,6 +8326,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.ULSCNXM/fw_light_miui_LIGHT_OS1.0.7.0.ULSCNXM_3517584d40_14.0.zip
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
   version: OS1.0.7.0.ULSCNXM
+- android: '14.0'
+  codename: light
+  date: '2025-09-28'
+  download: https://bigota.d.miui.com/OS1.0.8.0.ULSEUXM/fw_light_miui_LIGHTEEAGlobal_OS1.0.8.0.ULSEUXM_e7b8cb8fbf_14.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: OS1.0.8.0.ULSEUXM
 - android: '14.0'
   codename: light
   date: '2024-02-28'
@@ -10936,6 +10954,18 @@
   download: https://bigota.d.miui.com/OS2.0.1.0.VOYCNXM/fw_muyu_muyu-ota_full-OS2.0.1.0.VOYCNXM-user-15.0-400e270942.zip
   name: Xiaomi Pad 7 Pro
   version: OS2.0.1.0.VOYCNXM
+- android: '15.0'
+  codename: muyu
+  date: '2025-09-28'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VOYEUXM/fw_muyu_eea_global_muyu_eea_global-ota_full-OS2.0.203.0.VOYEUXM-user-15.0-8dd5642f8b.zip
+  name: Xiaomi Pad 7 Pro
+  version: OS2.0.203.0.VOYEUXM
+- android: '15.0'
+  codename: muyu
+  date: '2025-09-28'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VOYMIXM/fw_muyu_global_muyu_global-ota_full-OS2.0.201.0.VOYMIXM-user-15.0-d9eb5b4a4c.zip
+  name: Xiaomi Pad 7 Pro
+  version: OS2.0.201.0.VOYMIXM
 - android: '15.0'
   codename: muyu
   date: '2025-04-26'
