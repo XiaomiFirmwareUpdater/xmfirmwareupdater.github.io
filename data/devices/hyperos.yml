@@ -1828,6 +1828,18 @@
   download: https://bigota.d.miui.com/OS2.0.106.0.VNJINXM/fw_chenfeng_in_global_chenfeng_in_global-ota_full-OS2.0.106.0.VNJINXM-user-15.0-ec7e9598cd.zip
   name: Xiaomi Civi 4 Pro
   version: OS2.0.106.0.VNJINXM
+- android: '15.0'
+  codename: chenfeng
+  date: '2025-09-29'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VNJCNXM/fw_chenfeng_chenfeng-ota_full-OS2.0.205.0.VNJCNXM-user-15.0-1a0fb64119.zip
+  name: Xiaomi Civi 4 Pro
+  version: OS2.0.205.0.VNJCNXM
+- android: '15.0'
+  codename: chenfeng
+  date: '2025-09-29'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VNJINXM/fw_chenfeng_in_global_chenfeng_in_global-ota_full-OS2.0.205.0.VNJINXM-user-15.0-d00c62b26c.zip
+  name: Xiaomi Civi 4 Pro
+  version: OS2.0.205.0.VNJINXM
 - android: '14.0'
   codename: chenfeng
   date: '2024-10-28'
@@ -3048,6 +3060,12 @@
   version: OS1.0.11.0.UNEEUXM
 - android: '15.0'
   codename: degas
+  date: '2025-09-29'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VNEEUXM/fw_degas_eea_global_degas_eea_global-ota_full-OS2.0.206.0.VNEEUXM-user-15.0-4e274b29f1.zip
+  name: Xiaomi 14T
+  version: OS2.0.206.0.VNEEUXM
+- android: '15.0'
+  codename: degas
   date: '2025-08-29'
   download: https://bigota.d.miui.com/OS2.0.203.0.VNEMIXM/fw_degas_global_degas_global-ota_full-OS2.0.203.0.VNEMIXM-user-15.0-292abd35da.zip
   name: Xiaomi 14T
@@ -3538,6 +3556,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UNSMIXM/fw_dizi_miui_DIZIGlobal_OS1.0.7.0.UNSMIXM_240c10987b_14.0.zip
   name: Redmi Pad Pro/POCO Pad
   version: OS1.0.7.0.UNSMIXM
+- android: '15.0'
+  codename: dizi
+  date: '2025-09-29'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNSCNXM/fw_dizi_dizi-ota_full-OS2.0.204.0.VNSCNXM-user-15.0-240e6a0031.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS2.0.204.0.VNSCNXM
 - android: '15.0'
   codename: dizi
   date: '2025-05-29'
@@ -8506,6 +8530,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UKOINXM/fw_lisa_miui_LISAINGlobal_OS1.0.10.0.UKOINXM_59f2dd1fc0_14.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
   version: OS1.0.10.0.UKOINXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-09-29'
+  download: https://bigota.d.miui.com/OS2.0.12.0.UKOCNXM/fw_lisa_lisa-ota_full-OS2.0.12.0.UKOCNXM-user-14.0-323709ecb8.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.12.0.UKOCNXM
 - android: '14.0'
   codename: lisa
   date: '2025-08-29'

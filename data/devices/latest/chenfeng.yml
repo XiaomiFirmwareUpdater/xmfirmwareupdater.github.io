@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2025-08-31'
+  date: '2025-09-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-31.08.2025/fw_chenfeng_chenfeng-ota_full-OS2.0.204.0.VNJCNXM-user-15.0-48f3536b3b.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/chenfeng/fw_chenfeng_chenfeng-ota_full-OS2.0.204.0.VNJCNXM-user-15.0-48f3536b3b.zip
-  filename: fw_chenfeng_chenfeng-ota_full-OS2.0.204.0.VNJCNXM-user-15.0-48f3536b3b.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-29.09.2025/fw_chenfeng_chenfeng-ota_full-OS2.0.205.0.VNJCNXM-user-15.0-1a0fb64119.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/chenfeng/fw_chenfeng_chenfeng-ota_full-OS2.0.205.0.VNJCNXM-user-15.0-1a0fb64119.zip
+  filename: fw_chenfeng_chenfeng-ota_full-OS2.0.205.0.VNJCNXM-user-15.0-1a0fb64119.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.204.0.VNJCNXM
+    miui: OS2.0.205.0.VNJCNXM
 - branch: stable
-  date: '2025-08-31'
+  date: '2025-09-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-01.09.2025/fw_chenfeng_in_global_chenfeng_in_global-ota_full-OS2.0.204.0.VNJINXM-user-15.0-1ff875e367.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/chenfeng/fw_chenfeng_in_global_chenfeng_in_global-ota_full-OS2.0.204.0.VNJINXM-user-15.0-1ff875e367.zip
-  filename: fw_chenfeng_in_global_chenfeng_in_global-ota_full-OS2.0.204.0.VNJINXM-user-15.0-1ff875e367.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-29.09.2025/fw_chenfeng_in_global_chenfeng_in_global-ota_full-OS2.0.205.0.VNJINXM-user-15.0-d00c62b26c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/chenfeng/fw_chenfeng_in_global_chenfeng_in_global-ota_full-OS2.0.205.0.VNJINXM-user-15.0-d00c62b26c.zip
+  filename: fw_chenfeng_in_global_chenfeng_in_global-ota_full-OS2.0.205.0.VNJINXM-user-15.0-d00c62b26c.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.204.0.VNJINXM
+    miui: OS2.0.205.0.VNJINXM

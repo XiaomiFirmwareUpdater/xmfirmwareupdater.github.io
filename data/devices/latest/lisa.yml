@@ -9,15 +9,15 @@
     android: '14.0'
     miui: OS2.0.8.0.UKOMIXM
 - branch: stable
-  date: '2025-08-29'
+  date: '2025-09-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-29.08.2025/fw_lisa_lisa-ota_full-OS2.0.11.0.UKOCNXM-user-14.0-5ac9f2158e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lisa/fw_lisa_lisa-ota_full-OS2.0.11.0.UKOCNXM-user-14.0-5ac9f2158e.zip
-  filename: fw_lisa_lisa-ota_full-OS2.0.11.0.UKOCNXM-user-14.0-5ac9f2158e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-29.09.2025/fw_lisa_lisa-ota_full-OS2.0.12.0.UKOCNXM-user-14.0-323709ecb8.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lisa/fw_lisa_lisa-ota_full-OS2.0.12.0.UKOCNXM-user-14.0-323709ecb8.zip
+  filename: fw_lisa_lisa-ota_full-OS2.0.12.0.UKOCNXM-user-14.0-323709ecb8.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS2.0.11.0.UKOCNXM
+    miui: OS2.0.12.0.UKOCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
