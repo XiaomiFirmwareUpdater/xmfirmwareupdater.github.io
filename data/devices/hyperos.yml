@@ -2278,6 +2278,12 @@
   download: https://bigota.d.miui.com/OS2.0.4.0.VMLCNXM/fw_corot_corot-ota_full-OS2.0.4.0.VMLCNXM-user-15.0-61baeb7ff8.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
   version: OS2.0.4.0.VMLCNXM
+- android: '15.0'
+  codename: corot
+  date: '2025-09-30'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VMLEUXM/fw_corot_eea_global_corot_eea_global-ota_full-OS2.0.205.0.VMLEUXM-user-15.0-5af42db9e9.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS2.0.205.0.VMLEUXM
 - android: '14.0'
   codename: corot
   date: '2024-07-01'
@@ -3148,6 +3154,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UNEMIXM/fw_degas_miui_DEGASGlobal_OS1.0.7.0.UNEMIXM_498fe4dcb3_14.0.zip
   name: Xiaomi 14T
   version: OS1.0.7.0.UNEMIXM
+- android: '15.0'
+  codename: degas
+  date: '2025-09-30'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNEMIXM/fw_degas_global_degas_global-ota_full-OS2.0.204.0.VNEMIXM-user-15.0-d642e6b169.zip
+  name: Xiaomi 14T
+  version: OS2.0.204.0.VNEMIXM
 - android: '15.0'
   codename: dew
   date: '2025-08-29'
@@ -5706,6 +5718,12 @@
   version: OS2.0.107.0.VMCCNXM
 - android: '15.0'
   codename: fuxi
+  date: '2025-09-30'
+  download: https://bigota.d.miui.com/OS2.0.211.0.VMCCNXM/fw_fuxi_fuxi-ota_full-OS2.0.211.0.VMCCNXM-user-15.0-32be9194bc.zip
+  name: Xiaomi 13
+  version: OS2.0.211.0.VMCCNXM
+- android: '15.0'
+  codename: fuxi
   date: '2025-04-01'
   download: https://bigota.d.miui.com/OS2.0.103.0.VMCEUXM/fw_fuxi_eea_global_fuxi_eea_global-ota_full-OS2.0.103.0.VMCEUXM-user-15.0-f16d90eb13.zip
   name: Xiaomi 13
@@ -7618,6 +7636,18 @@
   download: https://bigota.d.miui.com/OS2.0.6.0.VNCEUXM/fw_houji_eea_global_houji_eea_global-ota_full-OS2.0.6.0.VNCEUXM-user-15.0-97fe4f9bfa.zip
   name: Xiaomi 14
   version: OS2.0.6.0.VNCEUXM
+- android: '15.0'
+  codename: houji
+  date: '2025-09-30'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNCMIXM/fw_houji_global_houji_global-ota_full-OS2.0.204.0.VNCMIXM-user-15.0-92598154a2.zip
+  name: Xiaomi 14
+  version: OS2.0.204.0.VNCMIXM
+- android: '15.0'
+  codename: houji
+  date: '2025-09-30'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VNCINXM/fw_houji_in_global_houji_in_global-ota_full-OS2.0.205.0.VNCINXM-user-15.0-518bf28c33.zip
+  name: Xiaomi 14
+  version: OS2.0.205.0.VNCINXM
 - android: '14.0'
   codename: ingres
   date: '2024-04-29'
@@ -8236,6 +8266,12 @@
   download: https://bigota.d.miui.com/OS2.0.201.0.VOWEUXM/fw_koto_eea_global_koto_eea_global-ota_full-OS2.0.201.0.VOWEUXM-user-15.0-7122b89b4a.zip
   name: Redmi Pad 2 4G
   version: OS2.0.201.0.VOWEUXM
+- android: '15.0'
+  codename: koto
+  date: '2025-09-30'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VOWEUXM/fw_koto_eea_global_koto_eea_global-ota_full-OS2.0.204.0.VOWEUXM-user-15.0-3ef236311b.zip
+  name: Redmi Pad 2 4G
+  version: OS2.0.204.0.VOWEUXM
 - android: '15.0'
   codename: kunzite
   date: '2025-09-26'
@@ -9748,6 +9784,18 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UMRINXM/fw_marble_miui_MARBLEINGlobal_OS1.0.9.0.UMRINXM_39750c7751_14.0.zip
   name: Redmi Note 12 Turbo/POCO F5
   version: OS1.0.9.0.UMRINXM
+- android: '15.0'
+  codename: marble
+  date: '2025-09-30'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VMRMIXM/fw_marble_global_marble_global-ota_full-OS2.0.209.0.VMRMIXM-user-15.0-65bddf0f46.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS2.0.209.0.VMRMIXM
+- android: '15.0'
+  codename: marble
+  date: '2025-09-30'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VMRCNXM/fw_marble_marble-ota_full-OS2.0.209.0.VMRCNXM-user-15.0-e346f9d7f7.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS2.0.209.0.VMRCNXM
 - android: '14.0'
   codename: matisse
   date: '2025-03-28'
@@ -10072,6 +10120,12 @@
   download: https://bigota.d.miui.com/OS2.0.102.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.102.0.VOMCNXM-user-15.0-35854d9910.zip
   name: Redmi K80 Pro/POCO F7 Ultra
   version: OS2.0.102.0.VOMCNXM
+- android: '15.0'
+  codename: miro
+  date: '2025-09-30'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VOMMIXM/fw_miro_global_miro_global-ota_full-OS2.0.203.0.VOMMIXM-user-15.0-5edc28d5df.zip
+  name: Redmi K80 Pro/POCO F7 Ultra
+  version: OS2.0.203.0.VOMMIXM
 - android: '13.0'
   codename: mona
   date: '2024-02-26'
