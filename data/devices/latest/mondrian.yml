@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-08-30'
+  date: '2025-09-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-30.08.2025/fw_mondrian_global_mondrian_global-ota_full-OS2.0.203.0.VMNMIXM-user-15.0-c88c5fd62e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mondrian/fw_mondrian_global_mondrian_global-ota_full-OS2.0.203.0.VMNMIXM-user-15.0-c88c5fd62e.zip
-  filename: fw_mondrian_global_mondrian_global-ota_full-OS2.0.203.0.VMNMIXM-user-15.0-c88c5fd62e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-30.09.2025/fw_mondrian_global_mondrian_global-ota_full-OS2.0.206.0.VMNMIXM-user-15.0-16c679008a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mondrian/fw_mondrian_global_mondrian_global-ota_full-OS2.0.206.0.VMNMIXM-user-15.0-16c679008a.zip
+  filename: fw_mondrian_global_mondrian_global-ota_full-OS2.0.206.0.VMNMIXM-user-15.0-16c679008a.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.203.0.VMNMIXM
+    miui: OS2.0.206.0.VMNMIXM
 - branch: stable
   date: '2025-09-25'
   downloads:
@@ -19,12 +19,12 @@
     android: '15.0'
     miui: OS2.0.213.0.VMNCNXM
 - branch: stable
-  date: '2025-08-28'
+  date: '2025-09-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-28.08.2025/fw_mondrian_eea_global_mondrian_eea_global-ota_full-OS2.0.203.0.VMNEUXM-user-15.0-e4e4762459.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mondrian/fw_mondrian_eea_global_mondrian_eea_global-ota_full-OS2.0.203.0.VMNEUXM-user-15.0-e4e4762459.zip
-  filename: fw_mondrian_eea_global_mondrian_eea_global-ota_full-OS2.0.203.0.VMNEUXM-user-15.0-e4e4762459.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-30.09.2025/fw_mondrian_eea_global_mondrian_eea_global-ota_full-OS2.0.204.0.VMNEUXM-user-15.0-cdc9d81b0d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mondrian/fw_mondrian_eea_global_mondrian_eea_global-ota_full-OS2.0.204.0.VMNEUXM-user-15.0-cdc9d81b0d.zip
+  filename: fw_mondrian_eea_global_mondrian_eea_global-ota_full-OS2.0.204.0.VMNEUXM-user-15.0-cdc9d81b0d.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.203.0.VMNEUXM
+    miui: OS2.0.204.0.VMNEUXM

@@ -62,8 +62,8 @@ permalink: /hyperos/dew/
 <tr><td>Redmi 15C / POCO C85 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VBNRUXM</td><td>15.0</td><td>4.5 GB</td><td>2025-09-05</td><td><a href="/hyperos/dew/stable/OS2.0.204.0.VBNRUXM/">Download</a></td></tr>
 <tr><td>Redmi 15C / POCO C85 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VBNTRXM</td><td>15.0</td><td>6.9 GB</td><td>2025-08-22</td><td><a href="/hyperos/dew/stable/OS2.0.202.0.VBNTRXM/">Download</a></td></tr>
 <tr><td>Redmi 15C / POCO C85 Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VBNTRXM</td><td>15.0</td><td>4.6 GB</td><td>2025-09-05</td><td><a href="/hyperos/dew/stable/OS2.0.202.0.VBNTRXM/">Download</a></td></tr>
-<tr><td>Redmi 15C / POCO C85 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VBNTWXM</td><td>15.0</td><td>5.5 GB</td><td>2025-08-22</td><td><a href="/hyperos/dew/stable/OS2.0.202.0.VBNTWXM/">Download</a></td></tr>
-<tr><td>Redmi 15C / POCO C85 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VBNTWXM</td><td>15.0</td><td>4.5 GB</td><td>2025-09-05</td><td><a href="/hyperos/dew/stable/OS2.0.202.0.VBNTWXM/">Download</a></td></tr>
+<tr><td>Redmi 15C / POCO C85 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VBNTWXM</td><td>15.0</td><td>5.5 GB</td><td>2025-09-20</td><td><a href="/hyperos/dew/stable/OS2.0.203.0.VBNTWXM/">Download</a></td></tr>
+<tr><td>Redmi 15C / POCO C85 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VBNTWXM</td><td>15.0</td><td>4.5 GB</td><td>2025-09-26</td><td><a href="/hyperos/dew/stable/OS2.0.203.0.VBNTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
