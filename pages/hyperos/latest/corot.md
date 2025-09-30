@@ -55,20 +55,20 @@ permalink: /hyperos/corot/
                 <tr><td>Redmi K60 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VMLCNXM</td><td>15.0</td><td>8.6 GB</td><td>2025-09-14</td><td><a href="/hyperos/corot/stable/OS2.0.208.0.VMLCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VMLCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-09-19</td><td><a href="/hyperos/corot/stable/OS2.0.208.0.VMLCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.17.0.UMLCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-07-05</td><td><a href="/hyperos/corot/stable beta/OS1.0.17.0.UMLCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VMLEUXM</td><td>15.0</td><td>7.8 GB</td><td>2025-07-14</td><td><a href="/hyperos/corot/stable/OS2.0.204.0.VMLEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VMLEUXM</td><td>15.0</td><td>6.2 GB</td><td>2025-07-31</td><td><a href="/hyperos/corot/stable/OS2.0.204.0.VMLEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VMLEUXM</td><td>15.0</td><td>7.8 GB</td><td>2025-09-18</td><td><a href="/hyperos/corot/stable/OS2.0.205.0.VMLEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VMLEUXM</td><td>15.0</td><td>6.2 GB</td><td>2025-09-27</td><td><a href="/hyperos/corot/stable/OS2.0.205.0.VMLEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.1.5.0.VMLEUXM</td><td>15.0</td><td>6.1 GB</td><td>2024-11-01</td><td><a href="/hyperos/corot/stable beta/OS1.1.5.0.VMLEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VMLMIXM</td><td>15.0</td><td>8.1 GB</td><td>2025-08-12</td><td><a href="/hyperos/corot/stable/OS2.0.201.0.VMLMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VMLMIXM</td><td>15.0</td><td>6.1 GB</td><td>2025-08-18</td><td><a href="/hyperos/corot/stable/OS2.0.201.0.VMLMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VMLMIXM</td><td>15.0</td><td>8.1 GB</td><td>2025-09-18</td><td><a href="/hyperos/corot/stable/OS2.0.202.0.VMLMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VMLMIXM</td><td>15.0</td><td>6.1 GB</td><td>2025-09-25</td><td><a href="/hyperos/corot/stable/OS2.0.202.0.VMLMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.1.4.0.VMLMIXM</td><td>15.0</td><td>6.0 GB</td><td>2024-11-05</td><td><a href="/hyperos/corot/stable beta/OS1.1.4.0.VMLMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13T Pro Japan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VMLJPXM</td><td>15.0</td><td>7.5 GB</td><td>2025-07-23</td><td><a href="/hyperos/corot/stable/OS2.0.202.0.VMLJPXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13T Pro Japan</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VMLJPXM</td><td>15.0</td><td>6.1 GB</td><td>2025-07-28</td><td><a href="/hyperos/corot/stable/OS2.0.202.0.VMLJPXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VMLRUXM</td><td>15.0</td><td>8.0 GB</td><td>2025-08-12</td><td><a href="/hyperos/corot/stable/OS2.0.202.0.VMLRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13T Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VMLRUXM</td><td>15.0</td><td>6.0 GB</td><td>2025-08-21</td><td><a href="/hyperos/corot/stable/OS2.0.202.0.VMLRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13T Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VMLTRXM</td><td>15.0</td><td>7.4 GB</td><td>2025-08-12</td><td><a href="/hyperos/corot/stable/OS2.0.202.0.VMLTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VMLTRXM</td><td>15.0</td><td>6.1 GB</td><td>2025-08-21</td><td><a href="/hyperos/corot/stable/OS2.0.202.0.VMLTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VMLTWXM</td><td>15.0</td><td>7.2 GB</td><td>2025-08-12</td><td><a href="/hyperos/corot/stable/OS2.0.201.0.VMLTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VMLTWXM</td><td>15.0</td><td>6.0 GB</td><td>2025-08-21</td><td><a href="/hyperos/corot/stable/OS2.0.201.0.VMLTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Pro Japan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VMLJPXM</td><td>15.0</td><td>7.5 GB</td><td>2025-09-18</td><td><a href="/hyperos/corot/stable/OS2.0.203.0.VMLJPXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Pro Japan</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VMLJPXM</td><td>15.0</td><td>6.1 GB</td><td>2025-09-27</td><td><a href="/hyperos/corot/stable/OS2.0.203.0.VMLJPXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VMLRUXM</td><td>15.0</td><td>8.0 GB</td><td>2025-09-18</td><td><a href="/hyperos/corot/stable/OS2.0.203.0.VMLRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VMLRUXM</td><td>15.0</td><td>6.0 GB</td><td>2025-09-27</td><td><a href="/hyperos/corot/stable/OS2.0.203.0.VMLRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VMLTRXM</td><td>15.0</td><td>7.4 GB</td><td>2025-09-18</td><td><a href="/hyperos/corot/stable/OS2.0.203.0.VMLTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VMLTRXM</td><td>15.0</td><td>6.1 GB</td><td>2025-09-27</td><td><a href="/hyperos/corot/stable/OS2.0.203.0.VMLTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VMLTWXM</td><td>15.0</td><td>7.2 GB</td><td>2025-09-18</td><td><a href="/hyperos/corot/stable/OS2.0.202.0.VMLTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VMLTWXM</td><td>15.0</td><td>6.0 GB</td><td>2025-09-27</td><td><a href="/hyperos/corot/stable/OS2.0.202.0.VMLTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
