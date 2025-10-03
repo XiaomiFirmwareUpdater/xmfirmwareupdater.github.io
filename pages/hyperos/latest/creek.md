@@ -54,8 +54,8 @@ permalink: /hyperos/creek/
                 <tbody>
                 <tr><td>Redmi 15 / POCO M7 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VBOEUXM</td><td>15.0</td><td>7.2 GB</td><td>2025-09-17</td><td><a href="/hyperos/creek/stable/OS2.0.204.0.VBOEUXM/">Download</a></td></tr>
 <tr><td>Redmi 15 / POCO M7 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VBOEUXM</td><td>15.0</td><td>4.8 GB</td><td>2025-09-22</td><td><a href="/hyperos/creek/stable/OS2.0.204.0.VBOEUXM/">Download</a></td></tr>
-<tr><td>Redmi 15 / POCO M7 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VBOMIXM</td><td>15.0</td><td>7.9 GB</td><td>2025-08-06</td><td><a href="/hyperos/creek/stable/OS2.0.207.0.VBOMIXM/">Download</a></td></tr>
-<tr><td>Redmi 15 / POCO M7 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VBOMIXM</td><td>15.0</td><td>4.7 GB</td><td>2025-08-14</td><td><a href="/hyperos/creek/stable/OS2.0.207.0.VBOMIXM/">Download</a></td></tr>
+<tr><td>Redmi 15 / POCO M7 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.209.0.VBOMIXM</td><td>15.0</td><td>8.2 GB</td><td>2025-09-17</td><td><a href="/hyperos/creek/stable/OS2.0.209.0.VBOMIXM/">Download</a></td></tr>
+<tr><td>Redmi 15 / POCO M7 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.209.0.VBOMIXM</td><td>15.0</td><td>4.8 GB</td><td>2025-09-22</td><td><a href="/hyperos/creek/stable/OS2.0.209.0.VBOMIXM/">Download</a></td></tr>
 <tr><td>Redmi 15 / POCO M7 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.205.0.VBOMIXM</td><td>15.0</td><td>4.7 GB</td><td>2025-08-15</td><td><a href="/hyperos/creek/stable beta/OS2.0.205.0.VBOMIXM/">Download</a></td></tr>
 <tr><td>Redmi 15 / POCO M7 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VBOIDXM</td><td>15.0</td><td>7.4 GB</td><td>2025-09-17</td><td><a href="/hyperos/creek/stable/OS2.0.204.0.VBOIDXM/">Download</a></td></tr>
 <tr><td>Redmi 15 / POCO M7 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VBOIDXM</td><td>15.0</td><td>4.8 GB</td><td>2025-09-23</td><td><a href="/hyperos/creek/stable/OS2.0.204.0.VBOIDXM/">Download</a></td></tr>
