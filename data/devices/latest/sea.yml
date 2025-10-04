@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2025-08-31'
+  date: '2025-10-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-31.08.2025/fw_sea_global_sea_global-ota_full-OS2.0.203.0.VHZMIXM-user-15.0-5490a55fb3.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sea/fw_sea_global_sea_global-ota_full-OS2.0.203.0.VHZMIXM-user-15.0-5490a55fb3.zip
-  filename: fw_sea_global_sea_global-ota_full-OS2.0.203.0.VHZMIXM-user-15.0-5490a55fb3.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-05.10.2025/fw_sea_sea_global-ota_full-OS2.0.204.0.VHZMIXM-user-15.0-0360e980d0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sea/fw_sea_sea_global-ota_full-OS2.0.204.0.VHZMIXM-user-15.0-0360e980d0.zip
+  filename: fw_sea_sea_global-ota_full-OS2.0.204.0.VHZMIXM-user-15.0-0360e980d0.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.203.0.VHZMIXM
+    miui: OS2.0.204.0.VHZMIXM
 - branch: stable
-  date: '2025-08-29'
+  date: '2025-10-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-29.08.2025/fw_sea_eea_global_sea_eea_global-ota_full-OS2.0.202.0.VHZEUXM-user-15.0-2a0ac27bbe.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sea/fw_sea_eea_global_sea_eea_global-ota_full-OS2.0.202.0.VHZEUXM-user-15.0-2a0ac27bbe.zip
-  filename: fw_sea_eea_global_sea_eea_global-ota_full-OS2.0.202.0.VHZEUXM-user-15.0-2a0ac27bbe.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-05.10.2025/fw_sea_sea_eea_global-ota_full-OS2.0.203.0.VHZEUXM-user-15.0-ae124e1efa.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sea/fw_sea_sea_eea_global-ota_full-OS2.0.203.0.VHZEUXM-user-15.0-ae124e1efa.zip
+  filename: fw_sea_sea_eea_global-ota_full-OS2.0.203.0.VHZEUXM-user-15.0-ae124e1efa.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.202.0.VHZEUXM
+    miui: OS2.0.203.0.VHZEUXM

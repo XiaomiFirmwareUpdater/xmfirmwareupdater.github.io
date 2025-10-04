@@ -12864,6 +12864,24 @@
   version: OS1.0.16.0.UMZMIXM
 - android: '14.0'
   codename: pipa
+  date: '2025-10-04'
+  download: https://bigota.d.miui.com/OS2.0.7.0.UMZEUXM/fw_pipa_pipa_eea_global-ota_full-OS2.0.7.0.UMZEUXM-user-14.0-4fc578c84f.zip
+  name: Xiaomi Pad 6
+  version: OS2.0.7.0.UMZEUXM
+- android: '14.0'
+  codename: pipa
+  date: '2025-10-04'
+  download: https://bigota.d.miui.com/OS2.0.8.0.UMZMIXM/fw_pipa_pipa_global-ota_full-OS2.0.8.0.UMZMIXM-user-14.0-610b6849c0.zip
+  name: Xiaomi Pad 6
+  version: OS2.0.8.0.UMZMIXM
+- android: '14.0'
+  codename: pipa
+  date: '2025-10-04'
+  download: https://bigota.d.miui.com/OS2.0.7.0.UMZINXM/fw_pipa_pipa_in_global-ota_full-OS2.0.7.0.UMZINXM-user-14.0-4f2a31ad2a.zip
+  name: Xiaomi Pad 6
+  version: OS2.0.7.0.UMZINXM
+- android: '14.0'
+  codename: pipa
   date: '2024-06-04'
   download: https://bigota.d.miui.com/OS1.0.6.0.UMZEUXM/fw_pipa_miui_PIPAEEAGlobal_OS1.0.6.0.UMZEUXM_abe5e4ddbd_14.0.zip
   name: Xiaomi Pad 6
@@ -13174,6 +13192,18 @@
   download: https://bigota.d.miui.com/OS2.0.5.0.VLQMIXM/fw_plato_global_plato_global-ota_full-OS2.0.5.0.VLQMIXM-user-15.0-0f809b9ff6.zip
   name: Xiaomi 12T
   version: OS2.0.5.0.VLQMIXM
+- android: '15.0'
+  codename: plato
+  date: '2025-10-04'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VLQEUXM/fw_plato_plato_eea_global-ota_full-OS2.0.203.0.VLQEUXM-user-15.0-854146668c.zip
+  name: Xiaomi 12T
+  version: OS2.0.203.0.VLQEUXM
+- android: '15.0'
+  codename: plato
+  date: '2025-10-04'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VLQMIXM/fw_plato_plato_global-ota_full-OS2.0.205.0.VLQMIXM-user-15.0-2ad3b1bc73.zip
+  name: Xiaomi 12T
+  version: OS2.0.205.0.VLQMIXM
 - android: '15.0'
   codename: plato
   date: '2025-03-03'
@@ -14070,6 +14100,18 @@
   version: OS2.0.101.0.VOJCNXM
 - android: '15.0'
   codename: rodin
+  date: '2025-10-04'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VOJEUXM/fw_rodin_rodin_eea_global-ota_full-OS2.0.205.0.VOJEUXM-user-15.0-15591c29aa.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.205.0.VOJEUXM
+- android: '15.0'
+  codename: rodin
+  date: '2025-10-04'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VOJINXM/fw_rodin_rodin_in_global-ota_full-OS2.0.202.0.VOJINXM-user-15.0-3039e5ed86.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.202.0.VOJINXM
+- android: '15.0'
+  codename: rodin
   date: '2025-01-02'
   download: https://bigota.d.miui.com/OS2.0.5.0.VOJCNXM/fw_rodin_rodin-ota_full-OS2.0.5.0.VOJCNXM-user-15.0-a8d6646bde.zip
   name: Redmi Turbo 4/POCO X7 Pro
@@ -14616,6 +14658,30 @@
   version: OS2.0.1.0.VFSINXM
 - android: '15.0'
   codename: ruan
+  date: '2025-10-04'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VFSCNXM/fw_ruan_ruan-ota_full-OS2.0.204.0.VFSCNXM-user-15.0-7ae738d815.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS2.0.204.0.VFSCNXM
+- android: '15.0'
+  codename: ruan
+  date: '2025-10-04'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VFSEUXM/fw_ruan_ruan_eea_global-ota_full-OS2.0.203.0.VFSEUXM-user-15.0-873d8c9940.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS2.0.203.0.VFSEUXM
+- android: '15.0'
+  codename: ruan
+  date: '2025-10-04'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VFSMIXM/fw_ruan_ruan_global-ota_full-OS2.0.203.0.VFSMIXM-user-15.0-f63f3689bd.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS2.0.203.0.VFSMIXM
+- android: '15.0'
+  codename: ruan
+  date: '2025-10-04'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VFSINXM/fw_ruan_ruan_in_global-ota_full-OS2.0.203.0.VFSINXM-user-15.0-5ba740a5d8.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS2.0.203.0.VFSINXM
+- android: '15.0'
+  codename: ruan
   date: '2025-07-04'
   download: https://bigota.d.miui.com/OS2.0.202.0.VFSCNXM/fw_ruan_ruan-ota_full-OS2.0.202.0.VFSCNXM-user-15.0-901f87c8f3.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
@@ -15060,6 +15126,12 @@
   version: OS1.0.10.0.UMOINXM
 - android: '14.0'
   codename: ruby
+  date: '2025-10-04'
+  download: https://bigota.d.miui.com/OS2.0.12.0.UMOCNXM/fw_ruby_ruby-ota_full-OS2.0.12.0.UMOCNXM-user-14.0-2aacb7315d.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS2.0.12.0.UMOCNXM
+- android: '14.0'
+  codename: ruby
   date: '2025-03-04'
   download: https://bigota.d.miui.com/OS1.0.16.0.UMOMIXM/fw_ruby_miui_RUBYGlobal_OS1.0.16.0.UMOMIXM_c56e879018_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
@@ -15306,6 +15378,18 @@
   version: OS2.0.103.0.VNICNXM
 - android: '15.0'
   codename: ruyi
+  date: '2025-10-04'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VNICNXM/fw_ruyi_ruyi-ota_full-OS2.0.209.0.VNICNXM-user-15.0-2e31d1c2d6.zip
+  name: MIX Flip
+  version: OS2.0.209.0.VNICNXM
+- android: '15.0'
+  codename: ruyi
+  date: '2025-10-04'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VNIMIXM/fw_ruyi_ruyi_global-ota_full-OS2.0.207.0.VNIMIXM-user-15.0-931c244f28.zip
+  name: MIX Flip
+  version: OS2.0.207.0.VNIMIXM
+- android: '15.0'
+  codename: ruyi
   date: '2025-04-01'
   download: https://bigota.d.miui.com/OS2.0.102.0.VNIEUXM/fw_ruyi_eea_global_ruyi_eea_global-ota_full-OS2.0.102.0.VNIEUXM-user-15.0-60a2d9fbab.zip
   name: MIX Flip
@@ -15406,6 +15490,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UNGMIXM/fw_sapphire_miui_SAPPHIREGlobal_OS1.0.10.0.UNGMIXM_b2dd8a307b_14.0.zip
   name: Redmi Note 13
   version: OS1.0.10.0.UNGMIXM
+- android: '15.0'
+  codename: sapphire
+  date: '2025-10-04'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VNGMIXM/fw_sapphire_sapphire_global-ota_full-OS2.0.205.0.VNGMIXM-user-15.0-8f094cff3e.zip
+  name: Redmi Note 13
+  version: OS2.0.205.0.VNGMIXM
 - android: '15.0'
   codename: sapphiren
   date: '2025-08-30'
@@ -15580,6 +15670,12 @@
   download: https://bigota.d.miui.com/OS2.0.7.0.VNHMIXM/fw_sapphiren_global_sapphiren_global-ota_full-OS2.0.7.0.VNHMIXM-user-15.0-ac0a4e7772.zip
   name: Redmi Note 13 NFC
   version: OS2.0.7.0.VNHMIXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-10-04'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNHEUXM/fw_sapphiren_sapphiren_eea_global-ota_full-OS2.0.204.0.VNHEUXM-user-15.0-098dd52f6f.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.204.0.VNHEUXM
 - android: '14.0'
   codename: sapphiren
   date: '2024-09-02'
@@ -15772,6 +15868,18 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UHZMIXM/fw_sea_miui_SEAGlobal_OS1.0.6.0.UHZMIXM_a3d9cf5609_14.0.zip
   name: Redmi Note 12S
   version: OS1.0.6.0.UHZMIXM
+- android: '15.0'
+  codename: sea
+  date: '2025-10-04'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VHZEUXM/fw_sea_sea_eea_global-ota_full-OS2.0.203.0.VHZEUXM-user-15.0-ae124e1efa.zip
+  name: Redmi Note 12S
+  version: OS2.0.203.0.VHZEUXM
+- android: '15.0'
+  codename: sea
+  date: '2025-10-04'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VHZMIXM/fw_sea_sea_global-ota_full-OS2.0.204.0.VHZMIXM-user-15.0-0360e980d0.zip
+  name: Redmi Note 12S
+  version: OS2.0.204.0.VHZMIXM
 - android: '14.0'
   codename: sea
   date: '2024-08-03'

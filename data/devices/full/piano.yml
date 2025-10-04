@@ -1,1 +1,10 @@
-[]
+- branch: stable
+  date: '2025-10-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_piano/releases/download/stable-04.10.2025/fw_piano_piano-ota_full-OS3.0.3.0.WPYCNXM-user-16.0-0b43cc7a9a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/piano/piano/fw_piano_piano-ota_full-OS3.0.3.0.WPYCNXM-user-16.0-0b43cc7a9a.zip
+  filename: fw_piano_piano-ota_full-OS3.0.3.0.WPYCNXM-user-16.0-0b43cc7a9a.zip
+  region: China
+  versions:
+    android: full-OS3.0.3.0.WPYCNXM-user-16.0-0b43cc7a9a
+    miui: piano

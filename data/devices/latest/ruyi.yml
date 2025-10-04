@@ -1,23 +1,23 @@
 - branch: stable
-  date: '2025-08-29'
+  date: '2025-10-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-30.08.2025/fw_ruyi_global_ruyi_global-ota_full-OS2.0.203.0.VNIMIXM-user-15.0-112d8e99b2.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruyi/fw_ruyi_global_ruyi_global-ota_full-OS2.0.203.0.VNIMIXM-user-15.0-112d8e99b2.zip
-  filename: fw_ruyi_global_ruyi_global-ota_full-OS2.0.203.0.VNIMIXM-user-15.0-112d8e99b2.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-04.10.2025/fw_ruyi_ruyi_global-ota_full-OS2.0.207.0.VNIMIXM-user-15.0-931c244f28.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruyi/fw_ruyi_ruyi_global-ota_full-OS2.0.207.0.VNIMIXM-user-15.0-931c244f28.zip
+  filename: fw_ruyi_ruyi_global-ota_full-OS2.0.207.0.VNIMIXM-user-15.0-931c244f28.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.203.0.VNIMIXM
+    miui: OS2.0.207.0.VNIMIXM
 - branch: stable
-  date: '2025-08-20'
+  date: '2025-10-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-20.08.2025/fw_ruyi_ruyi-ota_full-OS2.0.208.0.VNICNXM-user-15.0-84ed5ad476.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruyi/fw_ruyi_ruyi-ota_full-OS2.0.208.0.VNICNXM-user-15.0-84ed5ad476.zip
-  filename: fw_ruyi_ruyi-ota_full-OS2.0.208.0.VNICNXM-user-15.0-84ed5ad476.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-04.10.2025/fw_ruyi_ruyi-ota_full-OS2.0.209.0.VNICNXM-user-15.0-2e31d1c2d6.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruyi/fw_ruyi_ruyi-ota_full-OS2.0.209.0.VNICNXM-user-15.0-2e31d1c2d6.zip
+  filename: fw_ruyi_ruyi-ota_full-OS2.0.209.0.VNICNXM-user-15.0-2e31d1c2d6.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.208.0.VNICNXM
+    miui: OS2.0.209.0.VNICNXM
 - branch: stable
   date: '2025-08-31'
   downloads:
