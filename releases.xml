@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 05 Oct 2025 23:38:26 </lastBuildDate>
+        <lastBuildDate>Mon, 06 Oct 2025 00:53:02 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 17 Pro (pandora) - pandora</title>
@@ -14,6 +14,11 @@
         <item>
             <title>Redmi Note 12T Pro (pearl) - OS2.0.212.0.VLHCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pearl/</link>
+            <pubDate>Sun, 05 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17 Pro Max (popsicle) - popsicle</title>
+            <link>https://xmfirmwareupdater.com/firmware/popsicle/</link>
             <pubDate>Sun, 05 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -79,11 +84,6 @@
         <item>
             <title>Xiaomi 12T (plato) - OS2.0.203.0.VLQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/plato/</link>
-            <pubDate>Sat, 04 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17 Pro Max (popsicle) - popsicle</title>
-            <link>https://xmfirmwareupdater.com/firmware/popsicle/</link>
             <pubDate>Sat, 04 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
