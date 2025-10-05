@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 05 Oct 2025 18:59:36 </lastBuildDate>
+        <lastBuildDate>Sun, 05 Oct 2025 23:38:26 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 17 Pro (pandora) - pandora</title>
+            <link>https://xmfirmwareupdater.com/firmware/pandora/</link>
+            <pubDate>Sun, 05 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12T Pro (pearl) - OS2.0.212.0.VLHCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/pearl/</link>
+            <pubDate>Sun, 05 Oct 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 12 Pro (zeus) - OS2.0.206.0.VLBINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
@@ -40,11 +50,6 @@
             <title>Redmi K80/POCO F7 Pro (zorn) - OS2.0.206.0.VOKEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zorn/</link>
             <pubDate>Sun, 05 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17 Pro (pandora) - pandora</title>
-            <link>https://xmfirmwareupdater.com/firmware/pandora/</link>
-            <pubDate>Sat, 04 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi Pad 8 Pro (piano) - piano</title>
@@ -559,11 +564,6 @@
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS2.0.213.0.VMNCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
-            <pubDate>Thu, 25 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12T Pro (pearl) - OS2.0.210.0.VLHCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pearl/</link>
             <pubDate>Thu, 25 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>

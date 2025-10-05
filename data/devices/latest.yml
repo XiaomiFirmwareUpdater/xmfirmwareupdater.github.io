@@ -4339,25 +4339,25 @@
     android: '7.1'
     miui: 9.10.10
 - branch: stable
-  date: '2025-10-04'
+  date: '2025-10-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pandora/releases/download/stable-04.10.2025/fw_pandora_pandora-ota_full-OS3.0.7.0.WBLCNXM-user-16.0-d6daec1326.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/pandora/pandora/fw_pandora_pandora-ota_full-OS3.0.7.0.WBLCNXM-user-16.0-d6daec1326.zip
-  filename: fw_pandora_pandora-ota_full-OS3.0.7.0.WBLCNXM-user-16.0-d6daec1326.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pandora/releases/download/stable-05.10.2025/fw_pandora_pandora-ota_full-OS3.0.16.0.WBLCNXM-user-16.0-13dfb82f31.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/pandora/pandora/fw_pandora_pandora-ota_full-OS3.0.16.0.WBLCNXM-user-16.0-13dfb82f31.zip
+  filename: fw_pandora_pandora-ota_full-OS3.0.16.0.WBLCNXM-user-16.0-13dfb82f31.zip
   region: China
   versions:
-    android: full-OS3.0.7.0.WBLCNXM-user-16.0-d6daec1326
+    android: full-OS3.0.16.0.WBLCNXM-user-16.0-13dfb82f31
     miui: pandora
 - branch: stable
-  date: '2025-09-25'
+  date: '2025-10-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pearl/releases/download/stable-25.09.2025/fw_pearl_pearl-ota_full-OS2.0.210.0.VLHCNXM-user-15.0-97de372545.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/pearl/fw_pearl_pearl-ota_full-OS2.0.210.0.VLHCNXM-user-15.0-97de372545.zip
-  filename: fw_pearl_pearl-ota_full-OS2.0.210.0.VLHCNXM-user-15.0-97de372545.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pearl/releases/download/stable-05.10.2025/fw_pearl_pearl-ota_full-OS2.0.212.0.VLHCNXM-user-15.0-04d7821b0f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/pearl/fw_pearl_pearl-ota_full-OS2.0.212.0.VLHCNXM-user-15.0-04d7821b0f.zip
+  filename: fw_pearl_pearl-ota_full-OS2.0.212.0.VLHCNXM-user-15.0-04d7821b0f.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.210.0.VLHCNXM
+    miui: OS2.0.212.0.VLHCNXM
 - branch: stable
   date: '2025-09-24'
   downloads:
