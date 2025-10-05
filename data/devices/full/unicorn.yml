@@ -189,6 +189,16 @@
     android: '12.0'
     miui: V13.0.7.0.SLECNXM
 - branch: stable
+  date: '2025-10-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_unicorn/releases/download/stable-05.10.2025/fw_unicorn_unicorn-ota_full-OS2.0.207.0.VLECNXM-user-15.0-9f529c12f6.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/unicorn/fw_unicorn_unicorn-ota_full-OS2.0.207.0.VLECNXM-user-15.0-9f529c12f6.zip
+  filename: fw_unicorn_unicorn-ota_full-OS2.0.207.0.VLECNXM-user-15.0-9f529c12f6.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.207.0.VLECNXM
+- branch: stable
   date: '2023-10-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_unicorn/releases/download/stable-03.10.2023/fw_unicorn_miui_UNICORN_V14.0.10.0.TLECNXM_7de59603f2_13.0.zip

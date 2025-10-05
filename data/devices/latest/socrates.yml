@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2025-08-29'
+  date: '2025-10-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_socrates/releases/download/stable-29.08.2025/fw_socrates_socrates-ota_full-OS2.0.208.0.VMKCNXM-user-15.0-4a2a129db7.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/socrates/fw_socrates_socrates-ota_full-OS2.0.208.0.VMKCNXM-user-15.0-4a2a129db7.zip
-  filename: fw_socrates_socrates-ota_full-OS2.0.208.0.VMKCNXM-user-15.0-4a2a129db7.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_socrates/releases/download/stable-05.10.2025/fw_socrates_socrates-ota_full-OS2.0.209.0.VMKCNXM-user-15.0-3308094ae6.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/socrates/fw_socrates_socrates-ota_full-OS2.0.209.0.VMKCNXM-user-15.0-3308094ae6.zip
+  filename: fw_socrates_socrates-ota_full-OS2.0.209.0.VMKCNXM-user-15.0-3308094ae6.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.208.0.VMKCNXM
+    miui: OS2.0.209.0.VMKCNXM
