@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 07 Oct 2025 12:38:24 </lastBuildDate>
+        <lastBuildDate>Tue, 07 Oct 2025 18:45:50 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.204.0.VGQCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/air/</link>
+            <pubDate>Tue, 07 Oct 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 17 Pro (pandora) - pandora</title>
             <link>https://xmfirmwareupdater.com/firmware/pandora/</link>
@@ -1345,11 +1350,6 @@
             <title>Redmi Note 12 4G NFC (topaz) - OS2.0.203.0.VMGEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/topaz/</link>
             <pubDate>Wed, 23 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.201.0.VGQCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/air/</link>
-            <pubDate>Mon, 21 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 13/POCO M6 (moon) - OS2.0.201.0.VNTMIXM</title>
