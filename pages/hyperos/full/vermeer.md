@@ -52,7 +52,8 @@ permalink: /archive/hyperos/vermeer/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.215.0.VNKCNXM</td><td>15.0</td><td>7.4 GB</td><td>2025-09-12</td><td><a href="/hyperos/vermeer/stable/OS2.0.215.0.VNKCNXM/">Download</a></td></tr>
+                <tr><td>POCO F6 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.206.0.VNKMIXM</td><td>15.0</td><td>6.8 GB</td><td>2025-09-14</td><td><a href="/hyperos/vermeer/stable beta/OS2.0.206.0.VNKMIXM/">Download</a></td></tr>
+<tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.215.0.VNKCNXM</td><td>15.0</td><td>7.4 GB</td><td>2025-09-12</td><td><a href="/hyperos/vermeer/stable/OS2.0.215.0.VNKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.215.0.VNKCNXM</td><td>15.0</td><td>9.5 GB</td><td>2025-09-03</td><td><a href="/hyperos/vermeer/stable/OS2.0.215.0.VNKCNXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VNKEUXM</td><td>15.0</td><td>6.8 GB</td><td>2025-09-07</td><td><a href="/hyperos/vermeer/stable/OS2.0.208.0.VNKEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VNKEUXM</td><td>15.0</td><td>9.4 GB</td><td>2025-08-29</td><td><a href="/hyperos/vermeer/stable/OS2.0.208.0.VNKEUXM/">Download</a></td></tr>
@@ -68,10 +69,10 @@ permalink: /archive/hyperos/vermeer/
 <tr><td>Redmi K70 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VNKCNXM</td><td>15.0</td><td>9.4 GB</td><td>2025-07-09</td><td><a href="/hyperos/vermeer/stable/OS2.0.208.0.VNKCNXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.103.0.VNKMIXM</td><td>15.0</td><td>6.7 GB</td><td>2025-05-19</td><td><a href="/hyperos/vermeer/stable/OS2.0.103.0.VNKMIXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.103.0.VNKMIXM</td><td>15.0</td><td>10.0 GB</td><td>2025-05-09</td><td><a href="/hyperos/vermeer/stable/OS2.0.103.0.VNKMIXM/">Download</a></td></tr>
-<tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.109.0.VNKCNXM</td><td>15.0</td><td>7.4 GB</td><td>2025-05-19</td><td><a href="/hyperos/vermeer/stable/OS2.0.109.0.VNKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K70 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.109.0.VNKCNXM</td><td>15.0</td><td>9.4 GB</td><td>2025-05-08</td><td><a href="/hyperos/vermeer/stable/OS2.0.109.0.VNKCNXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VNKEUXM</td><td>15.0</td><td>6.8 GB</td><td>2025-07-15</td><td><a href="/hyperos/vermeer/stable/OS2.0.204.0.VNKEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VNKEUXM</td><td>15.0</td><td>9.4 GB</td><td>2025-07-09</td><td><a href="/hyperos/vermeer/stable/OS2.0.204.0.VNKEUXM/">Download</a></td></tr>
+<tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.109.0.VNKCNXM</td><td>15.0</td><td>7.4 GB</td><td>2025-05-19</td><td><a href="/hyperos/vermeer/stable/OS2.0.109.0.VNKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K70 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.109.0.VNKCNXM</td><td>15.0</td><td>9.4 GB</td><td>2025-05-08</td><td><a href="/hyperos/vermeer/stable/OS2.0.109.0.VNKCNXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.103.0.VNKEUXM</td><td>15.0</td><td>9.4 GB</td><td>2025-05-19</td><td><a href="/hyperos/vermeer/stable/OS2.0.103.0.VNKEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.103.0.VNKEUXM</td><td>15.0</td><td>6.7 GB</td><td>2025-05-08</td><td><a href="/hyperos/vermeer/stable/OS2.0.103.0.VNKEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.101.0.VNKTWXM</td><td>15.0</td><td>8.6 GB</td><td>2025-05-19</td><td><a href="/hyperos/vermeer/stable/OS2.0.101.0.VNKTWXM/">Download</a></td></tr>
