@@ -319,6 +319,16 @@
     android: '14.0'
     miui: OS1.0.6.0.UMUEUXM
 - branch: stable
+  date: '2025-10-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-09.10.2025/fw_xun_xun-ota_full-OS2.0.205.0.VMUCNXM-user-15.0-71122c2c9e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xun/fw_xun_xun-ota_full-OS2.0.205.0.VMUCNXM-user-15.0-71122c2c9e.zip
+  filename: fw_xun_xun-ota_full-OS2.0.205.0.VMUCNXM-user-15.0-71122c2c9e.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.205.0.VMUCNXM
+- branch: stable
   date: '2024-07-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-08.07.2024/fw_xun_miui_XUN_OS1.0.5.0.UMUCNXM_892043337f_14.0.zip
