@@ -53,6 +53,7 @@ permalink: /hyperos/organ/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Pad 2 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VPXEUXM</td><td>15.0</td><td>6.1 GB</td><td>2025-09-11</td><td><a href="/hyperos/organ/stable/OS2.0.201.0.VPXEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VPXEUXM</td><td>15.0</td><td>4.9 GB</td><td>2025-10-09</td><td><a href="/hyperos/organ/stable/OS2.0.201.0.VPXEUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
