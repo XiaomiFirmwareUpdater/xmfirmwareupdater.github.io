@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 09 Oct 2025 13:31:07 </lastBuildDate>
+        <lastBuildDate>Thu, 09 Oct 2025 18:54:32 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS2.0.205.0.VOQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
+            <pubDate>Thu, 09 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 13C/POCO C65 (gale) - OS2.0.205.0.VGPEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/gale/</link>
             <pubDate>Thu, 09 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -584,11 +589,6 @@
         <item>
             <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS2.0.203.0.VPWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flute/</link>
-            <pubDate>Thu, 25 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 13C/POCO C65 (gale) - OS2.0.204.0.VGPEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/gale/</link>
             <pubDate>Thu, 25 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
