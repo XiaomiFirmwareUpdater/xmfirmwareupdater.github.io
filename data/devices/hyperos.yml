@@ -6228,6 +6228,12 @@
   version: OS1.0.3.0.UNRINXM
 - android: '15.0'
   codename: garnet
+  date: '2025-10-10'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VNRINXM/fw_garnet_garnet_in_global-ota_full-OS2.0.203.0.VNRINXM-user-15.0-8d8679ea04.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS2.0.203.0.VNRINXM
+- android: '15.0'
+  codename: garnet
   date: '2025-07-10'
   download: https://bigota.d.miui.com/OS2.0.9.0.VNRINXM/fw_garnet_in_global_garnet_in_global-ota_full-OS2.0.9.0.VNRINXM-user-15.0-efa3206748.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
@@ -16858,6 +16864,12 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VHYEUXM/fw_spark_eea_global_spark_eea_global-ota_full-OS2.0.2.0.VHYEUXM-user-15.0-3cd32adf16.zip
   name: Redmi Pad SE 8.7 4G
   version: OS2.0.2.0.VHYEUXM
+- android: '15.0'
+  codename: spark
+  date: '2025-10-10'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VHYINXM/fw_spark_spark_in_global-ota_full-OS2.0.202.0.VHYINXM-user-15.0-e828c225b9.zip
+  name: Redmi Pad SE 8.7 4G
+  version: OS2.0.202.0.VHYINXM
 - android: '14.0'
   codename: spark
   date: '2024-10-09'
