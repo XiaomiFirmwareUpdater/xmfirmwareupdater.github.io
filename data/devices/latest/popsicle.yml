@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2025-10-05'
+  date: '2025-10-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_popsicle/releases/download/stable-06.10.2025/fw_popsicle_popsicle-ota_full-OS3.0.16.0.WPBCNXM-user-16.0-d9477785f5.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/popsicle/popsicle/fw_popsicle_popsicle-ota_full-OS3.0.16.0.WPBCNXM-user-16.0-d9477785f5.zip
-  filename: fw_popsicle_popsicle-ota_full-OS3.0.16.0.WPBCNXM-user-16.0-d9477785f5.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_popsicle/releases/download/stable-11.10.2025/fw_popsicle_popsicle-ota_full-OS3.0.17.0.WPBCNXM-user-16.0-e928550d8d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/popsicle/popsicle/fw_popsicle_popsicle-ota_full-OS3.0.17.0.WPBCNXM-user-16.0-e928550d8d.zip
+  filename: fw_popsicle_popsicle-ota_full-OS3.0.17.0.WPBCNXM-user-16.0-e928550d8d.zip
   region: China
   versions:
-    android: full-OS3.0.16.0.WPBCNXM-user-16.0-d9477785f5
+    android: full-OS3.0.17.0.WPBCNXM-user-16.0-e928550d8d
     miui: popsicle

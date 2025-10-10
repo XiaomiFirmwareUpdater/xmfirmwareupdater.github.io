@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2025-10-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pandora/releases/download/stable-11.10.2025/fw_pandora_pandora-ota_full-OS3.0.17.0.WBLCNXM-user-16.0-5a560dba3b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/pandora/pandora/fw_pandora_pandora-ota_full-OS3.0.17.0.WBLCNXM-user-16.0-5a560dba3b.zip
+  filename: fw_pandora_pandora-ota_full-OS3.0.17.0.WBLCNXM-user-16.0-5a560dba3b.zip
+  region: China
+  versions:
+    android: full-OS3.0.17.0.WBLCNXM-user-16.0-5a560dba3b
+    miui: pandora
+- branch: stable
   date: '2025-10-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pandora/releases/download/stable-05.10.2025/fw_pandora_pandora-ota_full-OS3.0.16.0.WBLCNXM-user-16.0-13dfb82f31.zip
