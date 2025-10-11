@@ -4,11 +4,26 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 11 Oct 2025 06:52:56 </lastBuildDate>
+        <lastBuildDate>Sat, 11 Oct 2025 12:59:19 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.205.0.VFOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
+            <pubDate>Sat, 11 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS2.0.203.0.VNRMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
+            <pubDate>Sat, 11 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad 2 Pro 5G (organ) - OS2.0.202.0.VPXMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/organ/</link>
+            <pubDate>Sat, 11 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.6.0.UMOINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Sat, 11 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1152,11 +1167,6 @@
             <pubDate>Mon, 01 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS2.0.202.0.VNRMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
-            <pubDate>Mon, 01 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite (shennong) - OS2.0.217.0.VNBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/shennong/</link>
             <pubDate>Mon, 01 Sep 2025 00:00:00 </pubDate>
@@ -1350,11 +1360,6 @@
             <title>Xiaomi Pad 7 Ultra (jinghu) - OS2.0.206.0.VOXCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/jinghu/</link>
             <pubDate>Sat, 09 Aug 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.3.0.UMOINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Wed, 06 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS2.0.206.0.VMWEUXM</title>

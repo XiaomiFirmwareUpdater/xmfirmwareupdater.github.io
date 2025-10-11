@@ -6214,6 +6214,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNRMIXM/fw_garnet_miui_GARNETGlobal_OS1.0.4.0.UNRMIXM_8ea6bb5539_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS1.0.4.0.UNRMIXM
+- android: '15.0'
+  codename: garnet
+  date: '2025-10-11'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VNRMIXM/fw_garnet_garnet_global-ota_full-OS2.0.203.0.VNRMIXM-user-15.0-fff0f5dde9.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS2.0.203.0.VNRMIXM
 - android: '14.0'
   codename: garnet
   date: '2024-09-11'
@@ -12030,6 +12036,12 @@
   version: OS1.0.1.0.TGLMIXM
 - android: '15.0'
   codename: organ
+  date: '2025-10-11'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VPXMIXM/fw_organ_organ_global-ota_full-OS2.0.202.0.VPXMIXM-user-15.0-f88d4df8c3.zip
+  name: Redmi Pad 2 Pro 5G
+  version: OS2.0.202.0.VPXMIXM
+- android: '15.0'
+  codename: organ
   date: '2025-10-09'
   download: https://bigota.d.miui.com/OS2.0.201.0.VPXEUXM/fw_organ_organ_eea_global-ota_full-OS2.0.201.0.VPXEUXM-user-15.0-c0fade579a.zip
   name: Redmi Pad 2 Pro 5G
@@ -15100,6 +15112,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMOEUXM/fw_ruby_miui_RUBYEEAGlobal_OS1.0.5.0.UMOEUXM_13e9d7e5cb_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: OS1.0.5.0.UMOEUXM
+- android: '14.0'
+  codename: ruby
+  date: '2025-10-11'
+  download: https://bigota.d.miui.com/OS2.0.6.0.UMOINXM/fw_ruby_ruby_in_global-ota_full-OS2.0.6.0.UMOINXM-user-14.0-c470847cb9.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS2.0.6.0.UMOINXM
 - android: '14.0'
   codename: ruby
   date: '2024-06-11'

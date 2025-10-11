@@ -56,6 +56,49 @@ permalink: /hyperos/organ/stable/OS2.0.202.0.VPXMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Recovery</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>4.9 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-10-11</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">organ_global-ota_full-OS2.0.202.0.VPXMIXM-user-15.0-f88d4df8c3.zip</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f88d4df8c3d4aff6f7c8cef4aeb619b1</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.202.0.VPXMIXM/organ_global-ota_full-OS2.0.202.0.VPXMIXM-user-15.0-f88d4df8c3.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.202.0.VPXMIXM/organ_global-ota_full-OS2.0.202.0.VPXMIXM-user-15.0-f88d4df8c3.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.202.0.VPXMIXM/organ_global-ota_full-OS2.0.202.0.VPXMIXM-user-15.0-f88d4df8c3.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.202.0.VPXMIXM/organ_global-ota_full-OS2.0.202.0.VPXMIXM-user-15.0-f88d4df8c3.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.202.0.VPXMIXM/organ_global-ota_full-OS2.0.202.0.VPXMIXM-user-15.0-f88d4df8c3.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#organ_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="organ_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="organ_1_changelog">
+                        <p id="changelog_text">[Basic experience]<br>Optimization: Tweaked the Storage refresh algorithm so it activates more often<br>[System animations]<br>Optimization: Interrupt animation during app transitions<br>Optimization: Interrupt animation when entering subpages within apps<br>[System]<br>New: Home screen wallpaper now supports a blur effect<br>Optimization: Updated styles for some classic pages<br>Optimization: Animation effects when launching apps<br>Optimization: Stability of animations when opening and closing apps<br>Fix: Wallpapers disappeared in rare cases when opening or closing apps<br>Fix: Occasional display glitches when opening or closing apps<br>Updated the security patch to September 2025. Increased system security.<br>[Lock screen]<br>New: Lock screen wallpapers now support lens effect<br>[Settings]<br>Optimization: Added a shortcut to system navigation settings in Home screen settings<br>[Status bar, Notification shade]<br>New: Some status bar icons now support custom display</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi Pad 2 Pro 5G Global</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/organ/" target="_blank">organ</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.202.0.VPXMIXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
@@ -74,10 +117,10 @@ permalink: /hyperos/organ/stable/OS2.0.202.0.VPXMIXM/
                     <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.202.0.VPXMIXM/organ_global_images_OS2.0.202.0.VPXMIXM_20250923.0000.00_15.0_global_99e85b1fd2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.202.0.VPXMIXM/organ_global_images_OS2.0.202.0.VPXMIXM_20250923.0000.00_15.0_global_99e85b1fd2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.202.0.VPXMIXM/organ_global_images_OS2.0.202.0.VPXMIXM_20250923.0000.00_15.0_global_99e85b1fd2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.202.0.VPXMIXM/organ_global_images_OS2.0.202.0.VPXMIXM_20250923.0000.00_15.0_global_99e85b1fd2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.202.0.VPXMIXM/organ_global_images_OS2.0.202.0.VPXMIXM_20250923.0000.00_15.0_global_99e85b1fd2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#organ_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="organ_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#organ_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="organ_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="organ_1_changelog">
+                    <div class="collapse" id="organ_2_changelog">
                         <p id="changelog_text">Bug fixes and system optimizations.</p>
                     </div>
                 </li>
