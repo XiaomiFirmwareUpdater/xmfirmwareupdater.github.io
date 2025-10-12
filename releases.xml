@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 12 Oct 2025 06:39:58 </lastBuildDate>
+        <lastBuildDate>Sun, 12 Oct 2025 12:49:07 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Pad 8 (yupei) - yupei</title>
+            <link>https://xmfirmwareupdater.com/firmware/yupei/</link>
+            <pubDate>Sun, 12 Oct 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.205.0.VFOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
@@ -304,11 +309,6 @@
         <item>
             <title>Xiaomi Civi 3 (yuechu) - OS2.0.206.0.VMICNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/yuechu/</link>
-            <pubDate>Sat, 04 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 8 (yupei) - yupei</title>
-            <link>https://xmfirmwareupdater.com/firmware/yupei/</link>
             <pubDate>Sat, 04 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
