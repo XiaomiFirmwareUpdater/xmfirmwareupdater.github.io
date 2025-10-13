@@ -4716,6 +4716,12 @@
   version: OS1.0.4.0.UNFMIXM
 - android: '15.0'
   codename: emerald
+  date: '2025-10-13'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VFOMIXM/fw_emerald_emerald_r_global-ota_full-OS2.0.205.0.VFOMIXM-user-15.0-7bad128a6c.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
+  version: OS2.0.205.0.VFOMIXM
+- android: '15.0'
+  codename: emerald
   date: '2025-03-13'
   download: https://bigota.d.miui.com/OS2.0.4.0.VNFMIXM/fw_emerald_global_emerald_global-ota_full-OS2.0.4.0.VNFMIXM-user-15.0-2332928b70.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
@@ -9406,6 +9412,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UNMCNXM/fw_manet_miui_MANET_OS1.0.7.0.UNMCNXM_8dba150437_14.0.zip
   name: Redmi K70 Pro
   version: OS1.0.7.0.UNMCNXM
+- android: '15.0'
+  codename: manet
+  date: '2025-10-13'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VNMCNXM/fw_manet_manet-ota_full-OS2.0.208.0.VNMCNXM-user-15.0-a72c0b6da6.zip
+  name: Redmi K70 Pro
+  version: OS2.0.208.0.VNMCNXM
 - android: '15.0'
   codename: manet
   date: '2025-06-12'
