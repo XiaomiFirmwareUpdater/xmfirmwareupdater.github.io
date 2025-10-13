@@ -1549,15 +1549,15 @@
     android: '15.0'
     miui: OS2.0.203.0.VLFMIXM
 - branch: stable
-  date: '2025-08-30'
+  date: '2025-10-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-30.08.2025/fw_diting_diting-ota_full-OS2.0.206.0.VLFCNXM-user-15.0-ffb9d90a59.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/diting/fw_diting_diting-ota_full-OS2.0.206.0.VLFCNXM-user-15.0-ffb9d90a59.zip
-  filename: fw_diting_diting-ota_full-OS2.0.206.0.VLFCNXM-user-15.0-ffb9d90a59.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-13.10.2025/fw_diting_diting-ota_full-OS2.0.208.0.VLFCNXM-user-15.0-8b9edc220d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/diting/fw_diting_diting-ota_full-OS2.0.208.0.VLFCNXM-user-15.0-8b9edc220d.zip
+  filename: fw_diting_diting-ota_full-OS2.0.208.0.VLFCNXM-user-15.0-8b9edc220d.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.206.0.VLFCNXM
+    miui: OS2.0.208.0.VLFCNXM
 - branch: stable
   date: '2025-09-07'
   downloads:
@@ -3409,15 +3409,15 @@
     android: '8.1'
     miui: 20.1.2
 - branch: stable
-  date: '2025-09-03'
+  date: '2025-10-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_luming/releases/download/stable-03.09.2025/fw_luming_luming-ota_full-OS2.0.204.0.VOICNXM-user-15.0-a8d2a6676f.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/luming/fw_luming_luming-ota_full-OS2.0.204.0.VOICNXM-user-15.0-a8d2a6676f.zip
-  filename: fw_luming_luming-ota_full-OS2.0.204.0.VOICNXM-user-15.0-a8d2a6676f.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_luming/releases/download/stable-13.10.2025/fw_luming_luming-ota_full-OS2.0.205.0.VOICNXM-user-15.0-66ba385872.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/luming/fw_luming_luming-ota_full-OS2.0.205.0.VOICNXM-user-15.0-66ba385872.zip
+  filename: fw_luming_luming-ota_full-OS2.0.205.0.VOICNXM-user-15.0-66ba385872.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.204.0.VOICNXM
+    miui: OS2.0.205.0.VOICNXM
 - branch: stable
   date: '2025-09-30'
   downloads:
@@ -4699,15 +4699,15 @@
     android: '15.0'
     miui: OS2.0.205.0.VLQMIXM
 - branch: stable
-  date: '2025-10-04'
+  date: '2025-10-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-04.10.2025/fw_plato_plato_eea_global-ota_full-OS2.0.203.0.VLQEUXM-user-15.0-854146668c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/plato/fw_plato_plato_eea_global-ota_full-OS2.0.203.0.VLQEUXM-user-15.0-854146668c.zip
-  filename: fw_plato_plato_eea_global-ota_full-OS2.0.203.0.VLQEUXM-user-15.0-854146668c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-13.10.2025/fw_plato_plato_eea_global-ota_full-OS2.0.204.0.VLQEUXM-user-15.0-f1a035e6e9.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/plato/fw_plato_plato_eea_global-ota_full-OS2.0.204.0.VLQEUXM-user-15.0-f1a035e6e9.zip
+  filename: fw_plato_plato_eea_global-ota_full-OS2.0.204.0.VLQEUXM-user-15.0-f1a035e6e9.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.203.0.VLQEUXM
+    miui: OS2.0.204.0.VLQEUXM
 - branch: stable
   date: '2021-01-04'
   downloads:
@@ -5679,15 +5679,15 @@
     android: '15.0'
     miui: OS2.0.207.0.VNXEUXM
 - branch: stable
-  date: '2025-09-01'
+  date: '2025-10-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-01.09.2025/fw_shennong_shennong-ota_full-OS2.0.217.0.VNBCNXM-user-15.0-dcb51c4ebb.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/shennong/fw_shennong_shennong-ota_full-OS2.0.217.0.VNBCNXM-user-15.0-dcb51c4ebb.zip
-  filename: fw_shennong_shennong-ota_full-OS2.0.217.0.VNBCNXM-user-15.0-dcb51c4ebb.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-13.10.2025/fw_shennong_shennong-ota_full-OS2.0.221.0.VNBCNXM-user-15.0-8be13bf613.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/shennong/fw_shennong_shennong-ota_full-OS2.0.221.0.VNBCNXM-user-15.0-8be13bf613.zip
+  filename: fw_shennong_shennong-ota_full-OS2.0.221.0.VNBCNXM-user-15.0-8be13bf613.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.217.0.VNBCNXM
+    miui: OS2.0.221.0.VNBCNXM
 - branch: stable
   date: '2022-08-03'
   downloads:
@@ -6639,15 +6639,15 @@
     android: '15.0'
     miui: OS2.0.205.0.VNKMIXM
 - branch: stable
-  date: '2025-09-22'
+  date: '2025-10-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-22.09.2025/fw_vermeer_vermeer-ota_full-OS2.0.215.0.VNKCNXM-user-15.0-67fb4c687b.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/vermeer/fw_vermeer_vermeer-ota_full-OS2.0.215.0.VNKCNXM-user-15.0-67fb4c687b.zip
-  filename: fw_vermeer_vermeer-ota_full-OS2.0.215.0.VNKCNXM-user-15.0-67fb4c687b.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-13.10.2025/fw_vermeer_vermeer-ota_full-OS2.0.217.0.VNKCNXM-user-15.0-dd4ca75e12.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/vermeer/fw_vermeer_vermeer-ota_full-OS2.0.217.0.VNKCNXM-user-15.0-dd4ca75e12.zip
+  filename: fw_vermeer_vermeer-ota_full-OS2.0.217.0.VNKCNXM-user-15.0-dd4ca75e12.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.215.0.VNKCNXM
+    miui: OS2.0.217.0.VNKCNXM
 - branch: stable
   date: '2025-09-15'
   downloads:
