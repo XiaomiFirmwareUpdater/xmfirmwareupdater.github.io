@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 14 Oct 2025 18:53:08 </lastBuildDate>
+        <lastBuildDate>Wed, 15 Oct 2025 00:48:26 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi Pad 8 Pro (piano) - piano</title>
@@ -14,6 +14,11 @@
         <item>
             <title>Xiaomi 17 (pudding) - pudding</title>
             <link>https://xmfirmwareupdater.com/firmware/pudding/</link>
+            <pubDate>Tue, 14 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.210.0.VNNCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
             <pubDate>Tue, 14 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1154,11 +1159,6 @@
         <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.8.0.UKOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
-            <pubDate>Tue, 02 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.208.0.VNNCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
             <pubDate>Tue, 02 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
