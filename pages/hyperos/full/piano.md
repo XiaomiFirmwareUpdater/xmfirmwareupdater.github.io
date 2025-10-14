@@ -52,7 +52,9 @@ permalink: /archive/hyperos/piano/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 8 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WPYCNXM</td><td>16.0</td><td>9.7 GB</td><td>2025-09-25</td><td><a href="/hyperos/piano/stable beta/OS3.0.3.0.WPYCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 8 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WPYCNXM</td><td>16.0</td><td>9.8 GB</td><td>2025-10-09</td><td><a href="/hyperos/piano/stable/OS3.0.5.0.WPYCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 8 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WPYCNXM</td><td>16.0</td><td>11.3 GB</td><td>2025-10-03</td><td><a href="/hyperos/piano/stable/OS3.0.5.0.WPYCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 8 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WPYCNXM</td><td>16.0</td><td>9.7 GB</td><td>2025-09-25</td><td><a href="/hyperos/piano/stable beta/OS3.0.3.0.WPYCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WPYCNXM</td><td>16.0</td><td>9.8 GB</td><td>2025-09-20</td><td><a href="/hyperos/piano/stable/OS3.0.4.0.WPYCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WPYCNXM</td><td>16.0</td><td>11.3 GB</td><td>2025-09-18</td><td><a href="/hyperos/piano/stable/OS3.0.4.0.WPYCNXM/">Download</a></td></tr>
 
