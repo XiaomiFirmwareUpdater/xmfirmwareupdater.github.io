@@ -59,7 +59,7 @@ permalink: /hyperos/tornado/stable/OS2.0.202.0.VPOEUXM/
                     <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>502 Bytes</h5>
+                    <h5><b>Size: </b>8.0 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-08-25</h5>
