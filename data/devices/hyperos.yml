@@ -8116,6 +8116,12 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VMACNXM/fw_ishtar_ishtar-ota_full-OS2.0.203.0.VMACNXM-user-15.0-51df8bc3dd.zip
   name: Xiaomi 13 Ultra
   version: OS2.0.203.0.VMACNXM
+- android: '15.0'
+  codename: ishtar
+  date: '2025-10-15'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VMACNXM/fw_ishtar_ishtar-ota_full-OS2.0.207.0.VMACNXM-user-15.0-d6d72ca58c.zip
+  name: Xiaomi 13 Ultra
+  version: OS2.0.207.0.VMACNXM
 - android: '14.0'
   codename: ishtar
   date: '2023-12-14'
@@ -18274,6 +18280,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VPOMIXM/fw_tornado_global_tornado_global-ota_full-OS2.0.202.0.VPOMIXM-user-15.0-9ca795b8a9.zip
   name: Redmi 15C 5G/15R 5G/POCO C85 5G
   version: OS2.0.202.0.VPOMIXM
+- android: '15.0'
+  codename: tornado
+  date: '2025-10-15'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VPOMIXM/fw_tornado_tornado_global-ota_full-OS2.0.203.0.VPOMIXM-user-15.0-ae994d5ee2.zip
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  version: OS2.0.203.0.VPOMIXM
 - android: '15.0'
   codename: turner
   date: '2025-06-30'

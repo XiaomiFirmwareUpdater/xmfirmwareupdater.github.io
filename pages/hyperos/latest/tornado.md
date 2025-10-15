@@ -56,8 +56,8 @@ permalink: /hyperos/tornado/
 <tr><td>Redmi 15C 5G / 15R 5G China</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VPOCNXM</td><td>15.0</td><td>5.3 GB</td><td>2025-09-23</td><td><a href="/hyperos/tornado/stable/OS2.0.202.0.VPOCNXM/">Download</a></td></tr>
 <tr><td>Redmi 15C 5G / 15R 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VPOEUXM</td><td>15.0</td><td>8.0 GB</td><td>2025-08-25</td><td><a href="/hyperos/tornado/stable/OS2.0.202.0.VPOEUXM/">Download</a></td></tr>
 <tr><td>Redmi 15C 5G / 15R 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VPOEUXM</td><td>15.0</td><td>5.4 GB</td><td>None</td><td><a href="/hyperos/tornado/stable/OS2.0.202.0.VPOEUXM/">Download</a></td></tr>
-<tr><td>Redmi 15C 5G / 15R 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VPOMIXM</td><td>15.0</td><td>8.3 GB</td><td>2025-08-19</td><td><a href="/hyperos/tornado/stable/OS2.0.202.0.VPOMIXM/">Download</a></td></tr>
-<tr><td>Redmi 15C 5G / 15R 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VPOMIXM</td><td>15.0</td><td>5.3 GB</td><td>2025-09-19</td><td><a href="/hyperos/tornado/stable/OS2.0.202.0.VPOMIXM/">Download</a></td></tr>
+<tr><td>Redmi 15C 5G / 15R 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VPOMIXM</td><td>15.0</td><td>8.4 GB</td><td>2025-09-23</td><td><a href="/hyperos/tornado/stable/OS2.0.203.0.VPOMIXM/">Download</a></td></tr>
+<tr><td>Redmi 15C 5G / 15R 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VPOMIXM</td><td>15.0</td><td>5.4 GB</td><td>2025-10-11</td><td><a href="/hyperos/tornado/stable/OS2.0.203.0.VPOMIXM/">Download</a></td></tr>
 <tr><td>Redmi 15C 5G / 15R 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VPOTRXM</td><td>15.0</td><td>7.5 GB</td><td>2025-09-06</td><td><a href="/hyperos/tornado/stable/OS2.0.201.0.VPOTRXM/">Download</a></td></tr>
 <tr><td>Redmi 15C 5G / 15R 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VPOTRXM</td><td>15.0</td><td>5.4 GB</td><td>2025-09-29</td><td><a href="/hyperos/tornado/stable/OS2.0.201.0.VPOTRXM/">Download</a></td></tr>
 

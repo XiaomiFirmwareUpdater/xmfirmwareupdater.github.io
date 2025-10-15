@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 15 Oct 2025 13:52:20 </lastBuildDate>
+        <lastBuildDate>Wed, 15 Oct 2025 19:30:37 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13 Ultra (ishtar) - OS2.0.207.0.VMACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
+            <pubDate>Wed, 15 Oct 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 13/POCO M6 (moon) - OS2.0.202.0.VNTMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moon/</link>
@@ -19,6 +24,11 @@
         <item>
             <title>Xiaomi 17 Pro Max (popsicle) - popsicle</title>
             <link>https://xmfirmwareupdater.com/firmware/popsicle/</link>
+            <pubDate>Wed, 15 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) - OS2.0.203.0.VPOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
             <pubDate>Wed, 15 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -852,18 +862,8 @@
             <pubDate>Fri, 19 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13 Ultra (ishtar) - OS2.0.206.0.VMACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
-            <pubDate>Fri, 19 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - OS2.0.206.0.VOLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
-            <pubDate>Fri, 19 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) - OS2.0.202.0.VPOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
             <pubDate>Fri, 19 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
