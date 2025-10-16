@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 16 Oct 2025 00:41:40 </lastBuildDate>
+        <lastBuildDate>Thu, 16 Oct 2025 06:55:56 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13T (aristotle) - OS2.0.209.0.VMFMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
+            <pubDate>Thu, 16 Oct 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS2.0.207.0.VMACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
@@ -1165,11 +1170,6 @@
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.8.0.UKOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
             <pubDate>Tue, 02 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13T (aristotle) - OS2.0.208.0.VMFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
-            <pubDate>Mon, 01 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 13T (aristotle) - OS2.0.205.0.VMFEUXM</title>
