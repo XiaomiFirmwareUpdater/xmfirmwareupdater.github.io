@@ -2049,15 +2049,15 @@
     android: '15.0'
     miui: OS2.0.201.0.VMCMIXM
 - branch: stable
-  date: '2025-09-30'
+  date: '2025-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-01.10.2025/fw_fuxi_fuxi-ota_full-OS2.0.211.0.VMCCNXM-user-15.0-32be9194bc.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/fuxi/fw_fuxi_fuxi-ota_full-OS2.0.211.0.VMCCNXM-user-15.0-32be9194bc.zip
-  filename: fw_fuxi_fuxi-ota_full-OS2.0.211.0.VMCCNXM-user-15.0-32be9194bc.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-17.10.2025/fw_fuxi_fuxi-ota_full-OS2.0.213.0.VMCCNXM-user-15.0-25795949d2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/fuxi/fw_fuxi_fuxi-ota_full-OS2.0.213.0.VMCCNXM-user-15.0-25795949d2.zip
+  filename: fw_fuxi_fuxi-ota_full-OS2.0.213.0.VMCCNXM-user-15.0-25795949d2.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.211.0.VMCCNXM
+    miui: OS2.0.213.0.VMCCNXM
 - branch: stable
   date: '2025-09-15'
   downloads:
@@ -5639,15 +5639,15 @@
     android: '15.0'
     miui: A15.0.9.0.VGWEUXM
 - branch: stable
-  date: '2025-09-18'
+  date: '2025-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_serenity/releases/download/stable-18.09.2025/fw_serenity_miui_SERENITYINGlobal_A15.0.8.0.VGWINXM_d78328e4f2_15.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/A15/serenity/fw_serenity_miui_SERENITYINGlobal_A15.0.8.0.VGWINXM_d78328e4f2_15.0.zip
-  filename: fw_serenity_miui_SERENITYINGlobal_A15.0.8.0.VGWINXM_d78328e4f2_15.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_serenity/releases/download/stable-17.10.2025/fw_serenity_miui_SERENITYINGlobal_A15.0.12.0.VGWINXM_9702a21ccf_15.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/A15/serenity/fw_serenity_miui_SERENITYINGlobal_A15.0.12.0.VGWINXM_9702a21ccf_15.0.zip
+  filename: fw_serenity_miui_SERENITYINGlobal_A15.0.12.0.VGWINXM_9702a21ccf_15.0.zip
   region: India
   versions:
     android: '15.0'
-    miui: A15.0.8.0.VGWINXM
+    miui: A15.0.12.0.VGWINXM
 - branch: stable
   date: '2025-08-27'
   downloads:
@@ -6089,25 +6089,25 @@
     android: '15.0'
     miui: OS2.0.207.0.VOGEUXM
 - branch: stable
-  date: '2025-09-16'
+  date: '2025-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-16.09.2025/fw_taoyao_miui_TAOYAOGlobal_OS1.0.26.0.ULIMIXM_749aec8e38_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOGlobal_OS1.0.26.0.ULIMIXM_749aec8e38_14.0.zip
-  filename: fw_taoyao_miui_TAOYAOGlobal_OS1.0.26.0.ULIMIXM_749aec8e38_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-17.10.2025/fw_taoyao_miui_TAOYAOGlobal_OS1.0.27.0.ULIMIXM_ff7887df9d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOGlobal_OS1.0.27.0.ULIMIXM_ff7887df9d_14.0.zip
+  filename: fw_taoyao_miui_TAOYAOGlobal_OS1.0.27.0.ULIMIXM_ff7887df9d_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.26.0.ULIMIXM
+    miui: OS1.0.27.0.ULIMIXM
 - branch: stable
-  date: '2025-09-16'
+  date: '2025-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-16.09.2025/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.32.0.ULIEUXM_7d4e6ecd36_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.32.0.ULIEUXM_7d4e6ecd36_14.0.zip
-  filename: fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.32.0.ULIEUXM_7d4e6ecd36_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-17.10.2025/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.33.0.ULIEUXM_31dc26156f_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.33.0.ULIEUXM_31dc26156f_14.0.zip
+  filename: fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.33.0.ULIEUXM_31dc26156f_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.32.0.ULIEUXM
+    miui: OS1.0.33.0.ULIEUXM
 - branch: stable
   date: '2025-08-27'
   downloads:
@@ -6309,15 +6309,15 @@
     android: '15.0'
     miui: OS2.0.205.0.VAOMIXM
 - branch: stable
-  date: '2025-09-18'
+  date: '2025-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-18.09.2025/fw_turner_turner-ota_full-OS2.0.217.0.VAOCNXM-user-15.0-60cdb96e9d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/turner/fw_turner_turner-ota_full-OS2.0.217.0.VAOCNXM-user-15.0-60cdb96e9d.zip
-  filename: fw_turner_turner-ota_full-OS2.0.217.0.VAOCNXM-user-15.0-60cdb96e9d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-17.10.2025/fw_turner_turner-ota_full-OS2.0.218.0.VAOCNXM-user-15.0-8f9cf6895c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/turner/fw_turner_turner-ota_full-OS2.0.218.0.VAOCNXM-user-15.0-8f9cf6895c.zip
+  filename: fw_turner_turner-ota_full-OS2.0.218.0.VAOCNXM-user-15.0-8f9cf6895c.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.217.0.VAOCNXM
+    miui: OS2.0.218.0.VAOCNXM
 - branch: stable
   date: '2019-11-05'
   downloads:

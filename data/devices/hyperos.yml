@@ -5640,6 +5640,12 @@
   version: OS2.0.3.0.VMCEUXM
 - android: '15.0'
   codename: fuxi
+  date: '2025-10-17'
+  download: https://bigota.d.miui.com/OS2.0.213.0.VMCCNXM/fw_fuxi_fuxi-ota_full-OS2.0.213.0.VMCCNXM-user-15.0-25795949d2.zip
+  name: Xiaomi 13
+  version: OS2.0.213.0.VMCCNXM
+- android: '15.0'
+  codename: fuxi
   date: '2025-06-16'
   download: https://bigota.d.miui.com/OS2.0.105.0.VMCEUXM/fw_fuxi_eea_global_fuxi_eea_global-ota_full-OS2.0.105.0.VMCEUXM-user-15.0-1f73290903.zip
   name: Xiaomi 13
@@ -17796,6 +17802,18 @@
   version: OS1.0.7.0.ULIEUXM
 - android: '14.0'
   codename: taoyao
+  date: '2025-10-17'
+  download: https://bigota.d.miui.com/OS1.0.33.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.33.0.ULIEUXM_31dc26156f_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.33.0.ULIEUXM
+- android: '14.0'
+  codename: taoyao
+  date: '2025-10-17'
+  download: https://bigota.d.miui.com/OS1.0.27.0.ULIMIXM/fw_taoyao_miui_TAOYAOGlobal_OS1.0.27.0.ULIMIXM_ff7887df9d_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.27.0.ULIMIXM
+- android: '14.0'
+  codename: taoyao
   date: '2025-09-16'
   download: https://bigota.d.miui.com/OS1.0.32.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.32.0.ULIEUXM_7d4e6ecd36_14.0.zip
   name: Xiaomi 12 Lite
@@ -18310,6 +18328,12 @@
   download: https://bigota.d.miui.com/OS2.0.217.0.VAOCNXM/fw_turner_turner-ota_full-OS2.0.217.0.VAOCNXM-user-15.0-60cdb96e9d.zip
   name: Redmi K Pad/Xiaomi Pad Mini
   version: OS2.0.217.0.VAOCNXM
+- android: '15.0'
+  codename: turner
+  date: '2025-10-17'
+  download: https://bigota.d.miui.com/OS2.0.218.0.VAOCNXM/fw_turner_turner-ota_full-OS2.0.218.0.VAOCNXM-user-15.0-8f9cf6895c.zip
+  name: Redmi K Pad/Xiaomi Pad Mini
+  version: OS2.0.218.0.VAOCNXM
 - android: '15.0'
   codename: turner
   date: '2025-07-16'
