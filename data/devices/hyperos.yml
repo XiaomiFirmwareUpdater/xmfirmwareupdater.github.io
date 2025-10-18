@@ -2494,6 +2494,12 @@
   download: https://bigota.d.miui.com/OS1.0.11.0.ULCMIXM/fw_cupid_miui_CUPIDGlobal_OS1.0.11.0.ULCMIXM_9fea041e8c_14.0.zip
   name: Xiaomi 12
   version: OS1.0.11.0.ULCMIXM
+- android: '15.0'
+  codename: cupid
+  date: '2025-10-18'
+  download: https://bigota.d.miui.com/OS2.0.210.0.VLCCNXM/fw_cupid_cupid-ota_full-OS2.0.210.0.VLCCNXM-user-15.0-478584f351.zip
+  name: Xiaomi 12
+  version: OS2.0.210.0.VLCCNXM
 - android: '14.0'
   codename: cupid
   date: '2024-07-18'
@@ -20914,6 +20920,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULBMIXM/fw_zeus_miui_ZEUSGlobal_OS1.0.2.0.ULBMIXM_e24deeead7_14.0.zip
   name: Xiaomi 12 Pro
   version: OS1.0.2.0.ULBMIXM
+- android: '15.0'
+  codename: zeus
+  date: '2025-10-18'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VLBCNXM/fw_zeus_zeus-ota_full-OS2.0.209.0.VLBCNXM-user-15.0-29a570bfb0.zip
+  name: Xiaomi 12 Pro
+  version: OS2.0.209.0.VLBCNXM
 - android: '15.0'
   codename: zeus
   date: '2025-09-17'

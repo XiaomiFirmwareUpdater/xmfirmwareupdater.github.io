@@ -52,8 +52,8 @@ permalink: /hyperos/cupid/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.209.0.VLCCNXM</td><td>15.0</td><td>7.5 GB</td><td>2025-09-02</td><td><a href="/hyperos/cupid/stable/OS2.0.209.0.VLCCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.209.0.VLCCNXM</td><td>15.0</td><td>6.0 GB</td><td>2025-09-11</td><td><a href="/hyperos/cupid/stable/OS2.0.209.0.VLCCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.210.0.VLCCNXM</td><td>15.0</td><td>7.5 GB</td><td>2025-09-23</td><td><a href="/hyperos/cupid/stable/OS2.0.210.0.VLCCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.210.0.VLCCNXM</td><td>15.0</td><td>6.0 GB</td><td>2025-10-10</td><td><a href="/hyperos/cupid/stable/OS2.0.210.0.VLCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.7 GB</td><td>2024-01-12</td><td><a href="/hyperos/cupid/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VLCEUXM</td><td>15.0</td><td>6.6 GB</td><td>2025-09-02</td><td><a href="/hyperos/cupid/stable/OS2.0.206.0.VLCEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VLCEUXM</td><td>15.0</td><td>5.6 GB</td><td>2025-09-08</td><td><a href="/hyperos/cupid/stable/OS2.0.206.0.VLCEUXM/">Download</a></td></tr>
