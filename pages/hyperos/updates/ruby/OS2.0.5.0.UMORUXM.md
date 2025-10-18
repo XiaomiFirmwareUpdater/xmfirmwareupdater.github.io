@@ -3,7 +3,7 @@ title: Redmi Note 12 Pro / Pro+ 5G Russia HyperOS OS2.0.5.0.UMORUXM Update
 layout: download
 name: Redmi Note 12 Pro / Pro+ 5G Russia
 codename: ruby
-permalink: /hyperos/ruby/stable beta/OS2.0.5.0.UMORUXM/
+permalink: /hyperos/ruby/stable/OS2.0.5.0.UMORUXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/ruby/stable beta/OS2.0.5.0.UMORUXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.5.0.UMORUXM Stable Beta Official Update for Redmi Note 12 Pro / Pro+ 5G Russia (ruby)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.5.0.UMORUXM Stable Official Update for Redmi Note 12 Pro / Pro+ 5G Russia (ruby)</h3>
     <h5>This page shows the OS2.0.5.0.UMORUXM update only. If you're looking for other updates check
         <a href="/hyperos/ruby/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/ruby/stable beta/OS2.0.5.0.UMORUXM/
                     <h5><b>Version: </b>OS2.0.5.0.UMORUXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/ruby/stable beta/OS2.0.5.0.UMORUXM/
                             aria-expanded="false" aria-controls="ruby_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="ruby_1_changelog">
+                        <p id="changelog_text">Bug fixes and system optimizations.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi Note 12 Pro / Pro+ 5G Russia</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/ruby/" target="_blank">ruby</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.5.0.UMORUXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>7.1 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-09-18</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">ruby_ru_global_images_OS2.0.5.0.UMORUXM_20250918.0000.00_14.0_ru_a9aa56f19c.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">a9aa56f19c62243df618e867cbef4f60</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.5.0.UMORUXM/ruby_ru_global_images_OS2.0.5.0.UMORUXM_20250918.0000.00_14.0_ru_a9aa56f19c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.5.0.UMORUXM/ruby_ru_global_images_OS2.0.5.0.UMORUXM_20250918.0000.00_14.0_ru_a9aa56f19c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.5.0.UMORUXM/ruby_ru_global_images_OS2.0.5.0.UMORUXM_20250918.0000.00_14.0_ru_a9aa56f19c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.5.0.UMORUXM/ruby_ru_global_images_OS2.0.5.0.UMORUXM_20250918.0000.00_14.0_ru_a9aa56f19c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.5.0.UMORUXM/ruby_ru_global_images_OS2.0.5.0.UMORUXM_20250918.0000.00_14.0_ru_a9aa56f19c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#ruby_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="ruby_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="ruby_2_changelog">
                         <p id="changelog_text">Bug fixes and system optimizations.</p>
                     </div>
                 </li>
