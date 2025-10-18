@@ -21244,6 +21244,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UNOCNXM/fw_zircon_miui_ZIRCON_OS1.0.9.0.UNOCNXM_4fb78913f2_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.9.0.UNOCNXM
+- android: '15.0'
+  codename: zircon
+  date: '2025-10-18'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VNOMIXM/fw_zircon_zircon_global-ota_full-OS2.0.206.0.VNOMIXM-user-15.0-a31e77bf20.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS2.0.206.0.VNOMIXM
 - android: '14.0'
   codename: zircon
   date: '2024-09-18'
