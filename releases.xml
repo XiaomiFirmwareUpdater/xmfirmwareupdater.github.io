@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 19 Oct 2025 00:39:08 </lastBuildDate>
+        <lastBuildDate>Sun, 19 Oct 2025 06:44:45 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 11T Pro (vili) - OS1.0.21.0.UKDINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/vili/</link>
+            <pubDate>Sun, 19 Oct 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 12 (cupid) - OS2.0.210.0.VLCCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/cupid/</link>
@@ -734,11 +739,6 @@
         <item>
             <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS2.0.10.0.UMSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
-            <pubDate>Thu, 25 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 11T Pro (vili) - OS1.0.20.0.UKDINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/vili/</link>
             <pubDate>Thu, 25 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
