@@ -1692,6 +1692,12 @@
   version: OS2.0.207.0.VOHCNXM
 - android: '15.0'
   codename: bixi
+  date: '2025-10-20'
+  download: https://bigota.d.miui.com/OS2.0.213.0.VOHCNXM/fw_bixi_bixi-ota_full-OS2.0.213.0.VOHCNXM-user-15.0-d5ba1518a2.zip
+  name: MIX Flip 2
+  version: OS2.0.213.0.VOHCNXM
+- android: '15.0'
+  codename: bixi
   date: '2025-07-16'
   download: https://bigota.d.miui.com/OS2.0.206.0.VOHCNXM/fw_bixi_bixi-ota_full-OS2.0.206.0.VOHCNXM-user-15.0-ed079e8d2b.zip
   name: MIX Flip 2
@@ -10618,6 +10624,12 @@
   download: https://bigota.d.miui.com/OS2.0.201.0.VNTMIXM/fw_moon_global_moon_global-ota_full-OS2.0.201.0.VNTMIXM-user-15.0-5fd2d4aa61.zip
   name: Redmi 13/POCO M6
   version: OS2.0.201.0.VNTMIXM
+- android: '15.0'
+  codename: moon
+  date: '2025-10-20'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNTEUXM/fw_moon_moon_eea_global-ota_full-OS2.0.204.0.VNTEUXM-user-15.0-e59ad9f80f.zip
+  name: Redmi 13/POCO M6
+  version: OS2.0.204.0.VNTEUXM
 - android: '14.0'
   codename: moon
   date: '2024-06-20'
@@ -18310,6 +18322,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VPOCNXM/fw_tornado_tornado-ota_full-OS2.0.202.0.VPOCNXM-user-15.0-d9730a074c.zip
   name: Redmi 15C 5G/15R 5G/POCO C85 5G
   version: OS2.0.202.0.VPOCNXM
+- android: '15.0'
+  codename: tornado
+  date: '2025-10-20'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VPOEUXM/fw_tornado_tornado_eea_global-ota_full-OS2.0.203.0.VPOEUXM-user-15.0-43388b1b49.zip
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  version: OS2.0.203.0.VPOEUXM
 - android: '15.0'
   codename: tornado
   date: '2025-09-19'

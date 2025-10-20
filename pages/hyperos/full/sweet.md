@@ -52,7 +52,11 @@ permalink: /archive/hyperos/sweet/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12 Pro 4G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.23.0.THGRUXM</td><td>13.0</td><td>4.1 GB</td><td>2025-09-20</td><td><a href="/hyperos/sweet/stable/OS1.0.23.0.THGRUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12 Pro 4G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.22.0.THGTRXM</td><td>13.0</td><td>4.1 GB</td><td>2025-10-16</td><td><a href="/hyperos/sweet/stable beta/OS1.0.22.0.THGTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 Pro 4G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.27.0.THGEUXM</td><td>13.0</td><td>4.1 GB</td><td>2025-10-16</td><td><a href="/hyperos/sweet/stable beta/OS1.0.27.0.THGEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 Pro 4G Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.24.0.THGRUXM</td><td>13.0</td><td>4.1 GB</td><td>2025-10-16</td><td><a href="/hyperos/sweet/stable beta/OS1.0.24.0.THGRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 Pro 4G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.22.0.THGIDXM</td><td>13.0</td><td>4.1 GB</td><td>2025-10-16</td><td><a href="/hyperos/sweet/stable beta/OS1.0.22.0.THGIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 Pro 4G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.23.0.THGRUXM</td><td>13.0</td><td>4.1 GB</td><td>2025-09-20</td><td><a href="/hyperos/sweet/stable/OS1.0.23.0.THGRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro 4G Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.23.0.THGRUXM</td><td>13.0</td><td>6.4 GB</td><td>2025-09-15</td><td><a href="/hyperos/sweet/stable/OS1.0.23.0.THGRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro 4G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.21.0.THGTRXM</td><td>13.0</td><td>4.1 GB</td><td>2025-09-20</td><td><a href="/hyperos/sweet/stable/OS1.0.21.0.THGTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro 4G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.21.0.THGTRXM</td><td>13.0</td><td>5.8 GB</td><td>2025-09-16</td><td><a href="/hyperos/sweet/stable/OS1.0.21.0.THGTRXM/">Download</a></td></tr>

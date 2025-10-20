@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 20 Oct 2025 00:38:59 </lastBuildDate>
+        <lastBuildDate>Mon, 20 Oct 2025 07:13:29 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>MIX Flip 2 (bixi) - OS2.0.213.0.VOHCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/bixi/</link>
+            <pubDate>Mon, 20 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 13/POCO M6 (moon) - OS2.0.204.0.VNTEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/moon/</link>
+            <pubDate>Mon, 20 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) - OS2.0.203.0.VPOEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
+            <pubDate>Mon, 20 Oct 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 11T Pro (vili) - OS1.0.21.0.UKDINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vili/</link>
@@ -687,11 +702,6 @@
             <pubDate>Fri, 26 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 13/POCO M6 (moon) - OS2.0.203.0.VNTEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/moon/</link>
-            <pubDate>Fri, 26 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - OS2.0.214.0.VOLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
             <pubDate>Fri, 26 Sep 2025 00:00:00 </pubDate>
@@ -830,11 +840,6 @@
             <title>Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) - OS2.0.202.0.VPOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
             <pubDate>Tue, 23 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>MIX Flip 2 (bixi) - OS2.0.212.0.VOHCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/bixi/</link>
-            <pubDate>Mon, 22 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 15C/POCO C85 (dew) - OS2.0.212.0.VBNEUXM</title>
