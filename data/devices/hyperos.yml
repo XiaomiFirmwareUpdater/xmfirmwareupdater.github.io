@@ -11274,6 +11274,12 @@
   version: OS2.0.104.0.VOYCNXM
 - android: '15.0'
   codename: muyu
+  date: '2025-10-20'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VOYCNXM/fw_muyu_muyu-ota_full-OS2.0.208.0.VOYCNXM-user-15.0-610b765278.zip
+  name: Xiaomi Pad 7 Pro
+  version: OS2.0.208.0.VOYCNXM
+- android: '15.0'
+  codename: muyu
   date: '2025-03-20'
   download: https://bigota.d.miui.com/OS2.0.106.0.VOYCNXM/fw_muyu_muyu-ota_full-OS2.0.106.0.VOYCNXM-user-15.0-818b5e7259.zip
   name: Xiaomi Pad 7 Pro
@@ -12112,6 +12118,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.TGLMIXM/fw_opal_miui_OPALGlobal_OS1.0.1.0.TGLMIXM_49655ebbfa_13.0.zip
   name: Redmi Note 11S 5G
   version: OS1.0.1.0.TGLMIXM
+- android: '15.0'
+  codename: organ
+  date: '2025-10-20'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VPXEUXM/fw_organ_organ_eea_global-ota_full-OS2.0.203.0.VPXEUXM-user-15.0-8db5dd42e4.zip
+  name: Redmi Pad 2 Pro 5G
+  version: OS2.0.203.0.VPXEUXM
 - android: '15.0'
   codename: organ
   date: '2025-10-11'
@@ -15382,6 +15394,12 @@
   download: https://bigota.d.miui.com/OS2.0.5.0.VNICNXM/fw_ruyi_ruyi-ota_full-OS2.0.5.0.VNICNXM-user-15.0-e713a508a2.zip
   name: MIX Flip
   version: OS2.0.5.0.VNICNXM
+- android: '15.0'
+  codename: ruyi
+  date: '2025-10-20'
+  download: https://bigota.d.miui.com/OS2.0.210.0.VNICNXM/fw_ruyi_ruyi-ota_full-OS2.0.210.0.VNICNXM-user-15.0-3204f623a0.zip
+  name: MIX Flip
+  version: OS2.0.210.0.VNICNXM
 - android: '15.0'
   codename: ruyi
   date: '2025-08-20'

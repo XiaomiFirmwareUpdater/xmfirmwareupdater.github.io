@@ -3869,15 +3869,15 @@
     android: '15.0'
     miui: OS2.0.201.0.VOYMIXM
 - branch: stable
-  date: '2025-09-24'
+  date: '2025-10-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_muyu/releases/download/stable-24.09.2025/fw_muyu_muyu-ota_full-OS2.0.206.0.VOYCNXM-user-15.0-d9964f29d3.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/muyu/fw_muyu_muyu-ota_full-OS2.0.206.0.VOYCNXM-user-15.0-d9964f29d3.zip
-  filename: fw_muyu_muyu-ota_full-OS2.0.206.0.VOYCNXM-user-15.0-d9964f29d3.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_muyu/releases/download/stable-20.10.2025/fw_muyu_muyu-ota_full-OS2.0.208.0.VOYCNXM-user-15.0-610b765278.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/muyu/fw_muyu_muyu-ota_full-OS2.0.208.0.VOYCNXM-user-15.0-610b765278.zip
+  filename: fw_muyu_muyu-ota_full-OS2.0.208.0.VOYCNXM-user-15.0-610b765278.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.206.0.VOYCNXM
+    miui: OS2.0.208.0.VOYCNXM
 - branch: stable
   date: '2025-09-28'
   downloads:
@@ -4309,15 +4309,15 @@
     android: '15.0'
     miui: OS2.0.202.0.VPXMIXM
 - branch: stable
-  date: '2025-10-09'
+  date: '2025-10-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_organ/releases/download/stable-09.10.2025/fw_organ_organ_eea_global-ota_full-OS2.0.201.0.VPXEUXM-user-15.0-c0fade579a.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/organ/fw_organ_organ_eea_global-ota_full-OS2.0.201.0.VPXEUXM-user-15.0-c0fade579a.zip
-  filename: fw_organ_organ_eea_global-ota_full-OS2.0.201.0.VPXEUXM-user-15.0-c0fade579a.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_organ/releases/download/stable-20.10.2025/fw_organ_organ_eea_global-ota_full-OS2.0.203.0.VPXEUXM-user-15.0-8db5dd42e4.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/organ/fw_organ_organ_eea_global-ota_full-OS2.0.203.0.VPXEUXM-user-15.0-8db5dd42e4.zip
+  filename: fw_organ_organ_eea_global-ota_full-OS2.0.203.0.VPXEUXM-user-15.0-8db5dd42e4.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.201.0.VPXEUXM
+    miui: OS2.0.203.0.VPXEUXM
 - branch: stable
   date: '2019-11-11'
   downloads:
@@ -5359,15 +5359,15 @@
     android: '15.0'
     miui: OS2.0.207.0.VNIMIXM
 - branch: stable
-  date: '2025-10-04'
+  date: '2025-10-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-04.10.2025/fw_ruyi_ruyi-ota_full-OS2.0.209.0.VNICNXM-user-15.0-2e31d1c2d6.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruyi/fw_ruyi_ruyi-ota_full-OS2.0.209.0.VNICNXM-user-15.0-2e31d1c2d6.zip
-  filename: fw_ruyi_ruyi-ota_full-OS2.0.209.0.VNICNXM-user-15.0-2e31d1c2d6.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-20.10.2025/fw_ruyi_ruyi-ota_full-OS2.0.210.0.VNICNXM-user-15.0-3204f623a0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruyi/fw_ruyi_ruyi-ota_full-OS2.0.210.0.VNICNXM-user-15.0-3204f623a0.zip
+  filename: fw_ruyi_ruyi-ota_full-OS2.0.210.0.VNICNXM-user-15.0-3204f623a0.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.209.0.VNICNXM
+    miui: OS2.0.210.0.VNICNXM
 - branch: stable
   date: '2025-08-31'
   downloads:
