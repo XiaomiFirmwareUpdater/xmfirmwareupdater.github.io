@@ -17154,6 +17154,12 @@
   version: OS2.0.203.0.VOUINXM
 - android: '15.0'
   codename: spring
+  date: '2025-10-21'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VOUCNXM/fw_spring_spring-ota_full-OS2.0.204.0.VOUCNXM-user-15.0-5fdd6a5a46.zip
+  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  version: OS2.0.204.0.VOUCNXM
+- android: '15.0'
+  codename: spring
   date: '2025-09-12'
   download: https://bigota.d.miui.com/OS2.0.204.0.VOUMIXM/fw_spring_global_spring_global-ota_full-OS2.0.204.0.VOUMIXM-user-15.0-7d8d811f0c.zip
   name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G

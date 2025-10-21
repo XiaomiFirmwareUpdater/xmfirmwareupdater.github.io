@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 21 Oct 2025 13:44:19 </lastBuildDate>
+        <lastBuildDate>Tue, 21 Oct 2025 19:02:13 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 17 (pudding) - pudding</title>
+            <link>https://xmfirmwareupdater.com/firmware/pudding/</link>
+            <pubDate>Tue, 21 Oct 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.205.0.VOJMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
@@ -14,6 +19,11 @@
         <item>
             <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.208.0.VOJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
+            <pubDate>Tue, 21 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS2.0.204.0.VOUCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/spring/</link>
             <pubDate>Tue, 21 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -159,11 +169,6 @@
         <item>
             <title>Xiaomi Pad 8 Pro (piano) - piano</title>
             <link>https://xmfirmwareupdater.com/firmware/piano/</link>
-            <pubDate>Tue, 14 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17 (pudding) - pudding</title>
-            <link>https://xmfirmwareupdater.com/firmware/pudding/</link>
             <pubDate>Tue, 14 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1269,11 +1274,6 @@
         <item>
             <title>Redmi 13C/POCO C65 (gale) - OS2.0.202.0.VGPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gale/</link>
-            <pubDate>Fri, 29 Aug 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS2.0.203.0.VOUCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/spring/</link>
             <pubDate>Fri, 29 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>
