@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 21 Oct 2025 06:38:41 </lastBuildDate>
+        <lastBuildDate>Tue, 21 Oct 2025 13:44:19 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.205.0.VOJMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
+            <pubDate>Tue, 21 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.208.0.VOJCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
+            <pubDate>Tue, 21 Oct 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>MIX Flip 2 (bixi) - OS2.0.213.0.VOHCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/bixi/</link>
@@ -957,11 +967,6 @@
             <pubDate>Thu, 18 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.204.0.VOJMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
-            <pubDate>Thu, 18 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.40.0.TGOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/water/</link>
             <pubDate>Thu, 18 Sep 2025 00:00:00 </pubDate>
@@ -979,11 +984,6 @@
         <item>
             <title>Redmi K60E (rembrandt) - OS2.0.17.0.UMMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rembrandt/</link>
-            <pubDate>Wed, 17 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.206.0.VOJCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
             <pubDate>Wed, 17 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>

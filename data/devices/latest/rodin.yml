@@ -1,23 +1,23 @@
 - branch: stable
-  date: '2025-09-18'
+  date: '2025-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-18.09.2025/fw_rodin_global_rodin_global-ota_full-OS2.0.204.0.VOJMIXM-user-15.0-17ba2e1869.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rodin/fw_rodin_global_rodin_global-ota_full-OS2.0.204.0.VOJMIXM-user-15.0-17ba2e1869.zip
-  filename: fw_rodin_global_rodin_global-ota_full-OS2.0.204.0.VOJMIXM-user-15.0-17ba2e1869.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-21.10.2025/fw_rodin_rodin_global-ota_full-OS2.0.205.0.VOJMIXM-user-15.0-24541da7f5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rodin/fw_rodin_rodin_global-ota_full-OS2.0.205.0.VOJMIXM-user-15.0-24541da7f5.zip
+  filename: fw_rodin_rodin_global-ota_full-OS2.0.205.0.VOJMIXM-user-15.0-24541da7f5.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.204.0.VOJMIXM
+    miui: OS2.0.205.0.VOJMIXM
 - branch: stable
-  date: '2025-09-17'
+  date: '2025-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-17.09.2025/fw_rodin_rodin-ota_full-OS2.0.206.0.VOJCNXM-user-15.0-284d108a5c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rodin/fw_rodin_rodin-ota_full-OS2.0.206.0.VOJCNXM-user-15.0-284d108a5c.zip
-  filename: fw_rodin_rodin-ota_full-OS2.0.206.0.VOJCNXM-user-15.0-284d108a5c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-21.10.2025/fw_rodin_rodin-ota_full-OS2.0.208.0.VOJCNXM-user-15.0-7342995578.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rodin/fw_rodin_rodin-ota_full-OS2.0.208.0.VOJCNXM-user-15.0-7342995578.zip
+  filename: fw_rodin_rodin-ota_full-OS2.0.208.0.VOJCNXM-user-15.0-7342995578.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.206.0.VOJCNXM
+    miui: OS2.0.208.0.VOJCNXM
 - branch: stable
   date: '2025-10-04'
   downloads:
