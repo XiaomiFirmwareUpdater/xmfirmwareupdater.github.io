@@ -2476,6 +2476,12 @@
   download: https://bigota.d.miui.com/OS2.0.204.0.VLCCNXM/fw_cupid_cupid-ota_full-OS2.0.204.0.VLCCNXM-user-15.0-92d6f79bc9.zip
   name: Xiaomi 12
   version: OS2.0.204.0.VLCCNXM
+- android: '15.0'
+  codename: cupid
+  date: '2025-10-22'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VLCMIXM/fw_cupid_cupid_global-ota_full-OS2.0.204.0.VLCMIXM-user-15.0-4ec28846cf.zip
+  name: Xiaomi 12
+  version: OS2.0.204.0.VLCMIXM
 - android: '14.0'
   codename: cupid
   date: '2024-12-20'
@@ -6660,6 +6666,12 @@
   version: OS1.0.11.0.UNQMIXM
 - android: '15.0'
   codename: gold
+  date: '2025-10-22'
+  download: https://bigota.d.miui.com/OS2.0.214.0.VNQCNXM/fw_gold_gold-ota_full-OS2.0.214.0.VNQCNXM-user-15.0-0a8c616c01.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS2.0.214.0.VNQCNXM
+- android: '15.0'
+  codename: gold
   date: '2025-07-22'
   download: https://bigota.d.miui.com/OS2.0.10.0.VNQMIXM/fw_gold_global_gold_global-ota_full-OS2.0.10.0.VNQMIXM-user-15.0-85bf4c6751.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
@@ -8104,6 +8116,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMAEUXM/fw_ishtar_miui_ISHTAREEAGlobal_OS1.0.5.0.UMAEUXM_70d6c1e142_14.0.zip
   name: Xiaomi 13 Ultra
   version: OS1.0.5.0.UMAEUXM
+- android: '15.0'
+  codename: ishtar
+  date: '2025-10-22'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VMAMIXM/fw_ishtar_ishtar_global-ota_full-OS2.0.207.0.VMAMIXM-user-15.0-0c9c2cb2e4.zip
+  name: Xiaomi 13 Ultra
+  version: OS2.0.207.0.VMAMIXM
 - android: '14.0'
   codename: ishtar
   date: '2024-08-22'
@@ -17670,6 +17688,12 @@
   version: OS2.0.203.0.VOVEUXM
 - android: '15.0'
   codename: taiko
+  date: '2025-10-22'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VOVCNXM/fw_taiko_taiko-ota_full-OS2.0.205.0.VOVCNXM-user-15.0-2a51381009.zip
+  name: Redmi Pad 2
+  version: OS2.0.205.0.VOVCNXM
+- android: '15.0'
+  codename: taiko
   date: '2025-08-14'
   download: https://bigota.d.miui.com/OS2.0.203.0.VOVCNXM/fw_taiko_taiko-ota_full-OS2.0.203.0.VOVCNXM-user-15.0-1dbd4b57f2.zip
   name: Redmi Pad 2
@@ -18982,6 +19006,12 @@
   download: https://bigota.d.miui.com/OS2.0.101.0.VNKCNXM/fw_vermeer_vermeer-ota_full-OS2.0.101.0.VNKCNXM-user-15.0-455f6fe662.zip
   name: Redmi K70/POCO F6 Pro
   version: OS2.0.101.0.VNKCNXM
+- android: '15.0'
+  codename: vermeer
+  date: '2025-10-22'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VNKEUXM/fw_vermeer_vermeer_eea_global-ota_full-OS2.0.209.0.VNKEUXM-user-15.0-f2d42ca10d.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS2.0.209.0.VNKEUXM
 - android: '15.0'
   codename: vermeer
   date: '2025-09-22'

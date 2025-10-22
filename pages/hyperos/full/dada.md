@@ -52,7 +52,9 @@ permalink: /archive/hyperos/dada/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 15 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VOCIDXM</td><td>15.0</td><td>7.6 GB</td><td>2025-09-10</td><td><a href="/hyperos/dada/stable/OS2.0.201.0.VOCIDXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 15 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WOCCNXM</td><td>16.0</td><td>8.1 GB</td><td>2025-10-14</td><td><a href="/hyperos/dada/stable/OS3.0.2.0.WOCCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WOCCNXM</td><td>16.0</td><td>11.5 GB</td><td>2025-10-11</td><td><a href="/hyperos/dada/stable/OS3.0.2.0.WOCCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VOCIDXM</td><td>15.0</td><td>7.6 GB</td><td>2025-09-10</td><td><a href="/hyperos/dada/stable/OS2.0.201.0.VOCIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VOCIDXM</td><td>15.0</td><td>9.5 GB</td><td>2025-08-26</td><td><a href="/hyperos/dada/stable/OS2.0.201.0.VOCIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VOCRUXM</td><td>15.0</td><td>7.6 GB</td><td>2025-09-10</td><td><a href="/hyperos/dada/stable/OS2.0.202.0.VOCRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VOCRUXM</td><td>15.0</td><td>9.9 GB</td><td>2025-08-26</td><td><a href="/hyperos/dada/stable/OS2.0.202.0.VOCRUXM/">Download</a></td></tr>

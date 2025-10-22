@@ -9,15 +9,15 @@
     android: '15.0'
     miui: OS2.0.203.0.VOMMIXM
 - branch: stable
-  date: '2025-09-04'
+  date: '2025-10-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-04.09.2025/fw_miro_miro-ota_full-OS2.0.206.0.VOMCNXM-user-15.0-cc75a573f3.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro-ota_full-OS2.0.206.0.VOMCNXM-user-15.0-cc75a573f3.zip
-  filename: fw_miro_miro-ota_full-OS2.0.206.0.VOMCNXM-user-15.0-cc75a573f3.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-22.10.2025/fw_miro_miro-ota_full-OS3.0.2.0.WOMCNXM-user-16.0-a4d1cd7090.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/miro/miro/fw_miro_miro-ota_full-OS3.0.2.0.WOMCNXM-user-16.0-a4d1cd7090.zip
+  filename: fw_miro_miro-ota_full-OS3.0.2.0.WOMCNXM-user-16.0-a4d1cd7090.zip
   region: China
   versions:
-    android: '15.0'
-    miui: OS2.0.206.0.VOMCNXM
+    android: full-OS3.0.2.0.WOMCNXM-user-16.0-a4d1cd7090
+    miui: miro
 - branch: stable
   date: '2025-09-26'
   downloads:
