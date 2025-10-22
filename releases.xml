@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 22 Oct 2025 18:40:37 </lastBuildDate>
+        <lastBuildDate>Thu, 23 Oct 2025 01:16:04 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>MIX Fold 3 (babylon) - OS2.0.208.0.VMVCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
+            <pubDate>Wed, 22 Oct 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS2.0.207.0.VOQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
@@ -42,8 +47,18 @@
             <pubDate>Wed, 22 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.13.0.UKOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
+            <pubDate>Wed, 22 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi K80 Pro/POCO F7 Ultra (miro) - miro</title>
             <link>https://xmfirmwareupdater.com/firmware/miro/</link>
+            <pubDate>Wed, 22 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.206.0.VNPEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
             <pubDate>Wed, 22 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -59,6 +74,11 @@
         <item>
             <title>Redmi Pad 2 (taiko) - OS2.0.205.0.VOVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
+            <pubDate>Wed, 22 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS2.0.208.0.VOZCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/uke/</link>
             <pubDate>Wed, 22 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -682,17 +702,7 @@
             <pubDate>Mon, 29 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.12.0.UKOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
-            <pubDate>Mon, 29 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.205.0.VNPCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
-            <pubDate>Mon, 29 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.205.0.VNPEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
             <pubDate>Mon, 29 Sep 2025 00:00:00 </pubDate>
         </item>
@@ -850,11 +860,6 @@
             <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS2.0.10.0.UMSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
             <pubDate>Thu, 25 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>MIX Fold 3 (babylon) - OS2.0.207.0.VMVCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
-            <pubDate>Wed, 24 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS2.0.203.0.VNUINXM</title>
@@ -1099,11 +1104,6 @@
         <item>
             <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - OS2.0.201.0.VOLINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
-            <pubDate>Tue, 09 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS2.0.205.0.VOZCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/uke/</link>
             <pubDate>Tue, 09 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>

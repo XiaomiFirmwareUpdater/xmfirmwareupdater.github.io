@@ -1326,6 +1326,12 @@
   version: OS2.0.207.0.VMVCNXM
 - android: '15.0'
   codename: babylon
+  date: '2025-10-22'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VMVCNXM/fw_babylon_babylon-ota_full-OS2.0.208.0.VMVCNXM-user-15.0-4b4566321c.zip
+  name: MIX Fold 3
+  version: OS2.0.208.0.VMVCNXM
+- android: '15.0'
+  codename: babylon
   date: '2025-07-23'
   download: https://bigota.d.miui.com/OS2.0.204.0.VMVCNXM/fw_babylon_babylon-ota_full-OS2.0.204.0.VMVCNXM-user-15.0-82ee58acea.zip
   name: MIX Fold 3
@@ -8802,6 +8808,12 @@
   version: OS1.0.5.0.UKOEUXM
 - android: '14.0'
   codename: lisa
+  date: '2025-10-22'
+  download: https://bigota.d.miui.com/OS2.0.13.0.UKOCNXM/fw_lisa_lisa-ota_full-OS2.0.13.0.UKOCNXM-user-14.0-54f36ae9c2.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.13.0.UKOCNXM
+- android: '14.0'
+  codename: lisa
   date: '2024-09-23'
   download: https://bigota.d.miui.com/OS1.0.9.0.UKOEUXM/fw_lisa_miui_LISAEEAGlobal_OS1.0.9.0.UKOEUXM_8e6352deee_14.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
@@ -12442,6 +12454,12 @@
   download: https://bigota.d.miui.com/OS2.0.108.0.VNPEUXM/fw_peridot_eea_global_peridot_eea_global-ota_full-OS2.0.108.0.VNPEUXM-user-15.0-8e96f27d1c.zip
   name: Redmi Turbo 3/POCO F6
   version: OS2.0.108.0.VNPEUXM
+- android: '15.0'
+  codename: peridot
+  date: '2025-10-22'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VNPEUXM/fw_peridot_peridot_eea_global-ota_full-OS2.0.206.0.VNPEUXM-user-15.0-b9e474db09.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS2.0.206.0.VNPEUXM
 - android: '14.0'
   codename: peridot
   date: '2024-05-23'
@@ -18520,6 +18538,12 @@
   download: https://bigota.d.miui.com/OS2.0.102.0.VOZCNXM/fw_uke_uke-ota_full-OS2.0.102.0.VOZCNXM-user-15.0-dd52eb80d7.zip
   name: Xiaomi Pad 7/POCO Pad X1
   version: OS2.0.102.0.VOZCNXM
+- android: '15.0'
+  codename: uke
+  date: '2025-10-22'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VOZCNXM/fw_uke_uke-ota_full-OS2.0.208.0.VOZCNXM-user-15.0-3f41482738.zip
+  name: Xiaomi Pad 7/POCO Pad X1
+  version: OS2.0.208.0.VOZCNXM
 - android: '15.0'
   codename: uke
   date: '2025-03-21'

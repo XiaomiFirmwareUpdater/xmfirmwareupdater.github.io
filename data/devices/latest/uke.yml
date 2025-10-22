@@ -9,15 +9,15 @@
     android: '15.0'
     miui: OS2.0.201.0.VOZMIXM
 - branch: stable
-  date: '2025-09-09'
+  date: '2025-10-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-09.09.2025/fw_uke_uke-ota_full-OS2.0.205.0.VOZCNXM-user-15.0-bd73602900.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/uke/fw_uke_uke-ota_full-OS2.0.205.0.VOZCNXM-user-15.0-bd73602900.zip
-  filename: fw_uke_uke-ota_full-OS2.0.205.0.VOZCNXM-user-15.0-bd73602900.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-23.10.2025/fw_uke_uke-ota_full-OS2.0.208.0.VOZCNXM-user-15.0-3f41482738.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/uke/fw_uke_uke-ota_full-OS2.0.208.0.VOZCNXM-user-15.0-3f41482738.zip
+  filename: fw_uke_uke-ota_full-OS2.0.208.0.VOZCNXM-user-15.0-3f41482738.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.205.0.VOZCNXM
+    miui: OS2.0.208.0.VOZCNXM
 - branch: stable
   date: '2025-10-04'
   downloads:
