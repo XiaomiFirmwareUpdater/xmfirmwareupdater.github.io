@@ -1494,6 +1494,18 @@
   version: OS1.0.6.0.UOQCNXM
 - android: '15.0'
   codename: beryl
+  date: '2025-10-22'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VOQMIXM/fw_beryl_beryl_global-ota_full-OS2.0.207.0.VOQMIXM-user-15.0-d55fd3b37a.zip
+  name: Redmi Note 14 5G/POCO M7 Pro 5G
+  version: OS2.0.207.0.VOQMIXM
+- android: '15.0'
+  codename: beryl
+  date: '2025-10-22'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VOQINXM/fw_beryl_beryl_in_global-ota_full-OS2.0.206.0.VOQINXM-user-15.0-9a056cc809.zip
+  name: Redmi Note 14 5G/POCO M7 Pro 5G
+  version: OS2.0.206.0.VOQINXM
+- android: '15.0'
+  codename: beryl
   date: '2025-07-22'
   download: https://bigota.d.miui.com/OS2.0.201.0.VOQINXM/fw_beryl_in_global_beryl_in_global-ota_full-OS2.0.201.0.VOQINXM-user-15.0-1cf61319d5.zip
   name: Redmi Note 14 5G/POCO M7 Pro 5G
@@ -12826,6 +12838,12 @@
   download: https://bigota.d.miui.com/OS1.0.15.0.UMZMIXM/fw_pipa_miui_PIPAGlobal_OS1.0.15.0.UMZMIXM_d2ba6c0171_14.0.zip
   name: Xiaomi Pad 6
   version: OS1.0.15.0.UMZMIXM
+- android: '14.0'
+  codename: pipa
+  date: '2025-10-22'
+  download: https://bigota.d.miui.com/OS2.0.13.0.UMZCNXM/fw_pipa_pipa-ota_full-OS2.0.13.0.UMZCNXM-user-14.0-a905ad5ecc.zip
+  name: Xiaomi Pad 6
+  version: OS2.0.13.0.UMZCNXM
 - android: '14.0'
   codename: pipa
   date: '2024-07-22'
