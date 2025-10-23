@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 23 Oct 2025 14:39:50 </lastBuildDate>
+        <lastBuildDate>Thu, 23 Oct 2025 19:38:42 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.212.0.VNLCNXM</title>
@@ -14,6 +14,11 @@
         <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS2.0.208.0.VNRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
+            <pubDate>Thu, 23 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17 Pro (pandora) - pandora</title>
+            <link>https://xmfirmwareupdater.com/firmware/pandora/</link>
             <pubDate>Thu, 23 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -264,11 +269,6 @@
         <item>
             <title>Redmi 13/POCO M6 (moon) - OS2.0.202.0.VNTMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moon/</link>
-            <pubDate>Wed, 15 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17 Pro (pandora) - pandora</title>
-            <link>https://xmfirmwareupdater.com/firmware/pandora/</link>
             <pubDate>Wed, 15 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
