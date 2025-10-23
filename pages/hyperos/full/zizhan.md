@@ -52,7 +52,9 @@ permalink: /archive/hyperos/zizhan/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VLRCNXM</td><td>15.0</td><td>6.2 GB</td><td>2025-09-23</td><td><a href="/hyperos/zizhan/stable/OS2.0.205.0.VLRCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VLRCNXM</td><td>15.0</td><td>6.2 GB</td><td>2025-10-16</td><td><a href="/hyperos/zizhan/stable/OS2.0.206.0.VLRCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VLRCNXM</td><td>15.0</td><td>7.9 GB</td><td>2025-09-25</td><td><a href="/hyperos/zizhan/stable/OS2.0.206.0.VLRCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VLRCNXM</td><td>15.0</td><td>6.2 GB</td><td>2025-09-23</td><td><a href="/hyperos/zizhan/stable/OS2.0.205.0.VLRCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VLRCNXM</td><td>15.0</td><td>7.9 GB</td><td>2025-09-18</td><td><a href="/hyperos/zizhan/stable/OS2.0.205.0.VLRCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VLRCNXM</td><td>15.0</td><td>6.2 GB</td><td>2025-08-26</td><td><a href="/hyperos/zizhan/stable/OS2.0.203.0.VLRCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VLRCNXM</td><td>15.0</td><td>7.9 GB</td><td>2025-08-11</td><td><a href="/hyperos/zizhan/stable/OS2.0.203.0.VLRCNXM/">Download</a></td></tr>
@@ -78,14 +80,14 @@ permalink: /archive/hyperos/zizhan/
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.12.0.ULRCNXM</td><td>14.0</td><td>7.6 GB</td><td>2024-10-08</td><td><a href="/hyperos/zizhan/stable/OS1.0.12.0.ULRCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.ULRCNXM</td><td>14.0</td><td>5.9 GB</td><td>2024-09-23</td><td><a href="/hyperos/zizhan/stable/OS1.0.11.0.ULRCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.ULRCNXM</td><td>14.0</td><td>7.6 GB</td><td>2024-09-11</td><td><a href="/hyperos/zizhan/stable/OS1.0.11.0.ULRCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.ULRCNXM</td><td>14.0</td><td>5.9 GB</td><td>2024-08-20</td><td><a href="/hyperos/zizhan/stable/OS1.0.9.0.ULRCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.ULRCNXM</td><td>14.0</td><td>7.6 GB</td><td>2024-08-08</td><td><a href="/hyperos/zizhan/stable/OS1.0.9.0.ULRCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.ULRCNXM</td><td>14.0</td><td>5.9 GB</td><td>2024-07-25</td><td><a href="/hyperos/zizhan/stable/OS1.0.7.0.ULRCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.ULRCNXM</td><td>14.0</td><td>7.6 GB</td><td>2024-07-18</td><td><a href="/hyperos/zizhan/stable/OS1.0.7.0.ULRCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.ULRCNXM</td><td>14.0</td><td>5.9 GB</td><td>2024-06-06</td><td><a href="/hyperos/zizhan/stable/OS1.0.5.0.ULRCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.ULRCNXM</td><td>14.0</td><td>7.6 GB</td><td>2024-05-27</td><td><a href="/hyperos/zizhan/stable/OS1.0.5.0.ULRCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.ULRCNXM</td><td>14.0</td><td>5.9 GB</td><td>2024-03-18</td><td><a href="/hyperos/zizhan/stable/OS1.0.3.0.ULRCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.ULRCNXM</td><td>14.0</td><td>7.6 GB</td><td>2024-02-29</td><td><a href="/hyperos/zizhan/stable/OS1.0.3.0.ULRCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.ULRCNXM</td><td>14.0</td><td>5.9 GB</td><td>2024-08-20</td><td><a href="/hyperos/zizhan/stable/OS1.0.9.0.ULRCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.ULRCNXM</td><td>14.0</td><td>7.6 GB</td><td>2024-08-08</td><td><a href="/hyperos/zizhan/stable/OS1.0.9.0.ULRCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.9 GB</td><td>2024-01-12</td><td><a href="/hyperos/zizhan/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.1.DEV</td><td>14.0</td><td>5.9 GB</td><td>2024-01-05</td><td><a href="/hyperos/zizhan/public beta/OS1.0.24.1.1.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.23.12.28.DEV</td><td>14.0</td><td>6.0 GB</td><td>2023-12-29</td><td><a href="/hyperos/zizhan/public beta/OS1.0.23.12.28.DEV/">Download</a></td></tr>

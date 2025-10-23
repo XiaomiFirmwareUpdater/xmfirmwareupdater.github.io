@@ -4054,6 +4054,12 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VNLEUXM/fw_duchamp_eea_global_duchamp_eea_global-ota_full-OS2.0.2.0.VNLEUXM-user-15.0-f72d3e9b10.zip
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS2.0.2.0.VNLEUXM
+- android: '15.0'
+  codename: duchamp
+  date: '2025-10-23'
+  download: https://bigota.d.miui.com/OS2.0.212.0.VNLCNXM/fw_duchamp_duchamp-ota_full-OS2.0.212.0.VNLCNXM-user-15.0-f1e9df3044.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS2.0.212.0.VNLCNXM
 - android: '14.0'
   codename: duchamp
   date: '2024-10-21'
@@ -6136,6 +6142,12 @@
   download: https://bigota.d.miui.com/OS1.0.14.0.UNREUXM/fw_garnet_miui_GARNETEEAGlobal_OS1.0.14.0.UNREUXM_371f861d71_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS1.0.14.0.UNREUXM
+- android: '15.0'
+  codename: garnet
+  date: '2025-10-23'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VNRCNXM/fw_garnet_garnet-ota_full-OS2.0.208.0.VNRCNXM-user-15.0-0546f26515.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS2.0.208.0.VNRCNXM
 - android: '14.0'
   codename: garnet
   date: '2024-08-23'
@@ -16924,6 +16936,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMKCNXM/fw_socrates_miui_SOCRATES_OS1.0.5.0.UMKCNXM_29370676f8_14.0.zip
   name: Redmi K60 Pro
   version: OS1.0.5.0.UMKCNXM
+- android: '15.0'
+  codename: socrates
+  date: '2025-10-23'
+  download: https://bigota.d.miui.com/OS2.0.210.0.VMKCNXM/fw_socrates_socrates-ota_full-OS2.0.210.0.VMKCNXM-user-15.0-45c38c55e7.zip
+  name: Redmi K60 Pro
+  version: OS2.0.210.0.VMKCNXM
 - android: '14.0'
   codename: socrates
   date: '2024-08-23'
@@ -21364,6 +21382,18 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.VNOCNXM/fw_zircon_zircon-ota_full-OS2.0.3.0.VNOCNXM-user-15.0-1ef6ea7bf8.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS2.0.3.0.VNOCNXM
+- android: '15.0'
+  codename: zircon
+  date: '2025-10-23'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNOEUXM/fw_zircon_zircon_eea_global-ota_full-OS2.0.204.0.VNOEUXM-user-15.0-8097de3b01.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS2.0.204.0.VNOEUXM
+- android: '15.0'
+  codename: zircon
+  date: '2025-10-23'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VNOINXM/fw_zircon_zircon_in_global-ota_full-OS2.0.206.0.VNOINXM-user-15.0-a668187b01.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS2.0.206.0.VNOINXM
 - android: '14.0'
   codename: zircon
   date: '2024-07-22'
@@ -22000,6 +22030,12 @@
   download: https://bigota.d.miui.com/OS1.0.14.0.ULRCNXM/fw_zizhan_miui_ZIZHAN_OS1.0.14.0.ULRCNXM_67862173b3_14.0.zip
   name: Xiaomi MIX Fold 2
   version: OS1.0.14.0.ULRCNXM
+- android: '15.0'
+  codename: zizhan
+  date: '2025-10-23'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VLRCNXM/fw_zizhan_zizhan-ota_full-OS2.0.206.0.VLRCNXM-user-15.0-1ff4ec269d.zip
+  name: Xiaomi MIX Fold 2
+  version: OS2.0.206.0.VLRCNXM
 - android: '14.0'
   codename: zizhan
   date: '2024-03-21'

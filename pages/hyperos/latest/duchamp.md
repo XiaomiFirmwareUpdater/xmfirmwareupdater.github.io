@@ -52,8 +52,8 @@ permalink: /hyperos/duchamp/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K70E China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.210.0.VNLCNXM</td><td>15.0</td><td>8.8 GB</td><td>2025-09-05</td><td><a href="/hyperos/duchamp/stable/OS2.0.210.0.VNLCNXM/">Download</a></td></tr>
-<tr><td>Redmi K70E China</td><td>Stable</td><td>Recovery</td><td>OS2.0.210.0.VNLCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-09-16</td><td><a href="/hyperos/duchamp/stable/OS2.0.210.0.VNLCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K70E China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.212.0.VNLCNXM</td><td>15.0</td><td>8.8 GB</td><td>2025-09-25</td><td><a href="/hyperos/duchamp/stable/OS2.0.212.0.VNLCNXM/">Download</a></td></tr>
+<tr><td>Redmi K70E China</td><td>Stable</td><td>Recovery</td><td>OS2.0.212.0.VNLCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-10-16</td><td><a href="/hyperos/duchamp/stable/OS2.0.212.0.VNLCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70E China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UNLCNXM</td><td>14.0</td><td>6.3 GB</td><td>2023-11-30</td><td><a href="/hyperos/duchamp/stable beta/OS1.0.4.0.UNLCNXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VNLEUXM</td><td>15.0</td><td>8.2 GB</td><td>2025-09-16</td><td><a href="/hyperos/duchamp/stable/OS2.0.207.0.VNLEUXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VNLEUXM</td><td>15.0</td><td>5.9 GB</td><td>2025-09-22</td><td><a href="/hyperos/duchamp/stable/OS2.0.207.0.VNLEUXM/">Download</a></td></tr>
