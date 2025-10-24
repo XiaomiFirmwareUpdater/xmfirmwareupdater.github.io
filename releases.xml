@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 24 Oct 2025 00:43:03 </lastBuildDate>
+        <lastBuildDate>Fri, 24 Oct 2025 07:08:41 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS2.0.204.0.VNAINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Fri, 24 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 Pro (lapis) - OS2.0.207.0.VPPCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
+            <pubDate>Fri, 24 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17 Pro Max (popsicle) - popsicle</title>
+            <link>https://xmfirmwareupdater.com/firmware/popsicle/</link>
+            <pubDate>Fri, 24 Oct 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.212.0.VNLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
@@ -269,11 +284,6 @@
         <item>
             <title>Redmi 13/POCO M6 (moon) - OS2.0.202.0.VNTMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moon/</link>
-            <pubDate>Wed, 15 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17 Pro Max (popsicle) - popsicle</title>
-            <link>https://xmfirmwareupdater.com/firmware/popsicle/</link>
             <pubDate>Wed, 15 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1017,11 +1027,6 @@
             <pubDate>Thu, 18 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 15 Pro (lapis) - OS2.0.206.0.VPPCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
-            <pubDate>Thu, 18 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.40.0.TGOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/water/</link>
             <pubDate>Thu, 18 Sep 2025 00:00:00 </pubDate>
@@ -1030,11 +1035,6 @@
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.24.0.TGOINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/water/</link>
             <pubDate>Thu, 18 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS2.0.203.0.VNAINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Wed, 17 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K60E (rembrandt) - OS2.0.17.0.UMMCNXM</title>

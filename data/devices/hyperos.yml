@@ -988,6 +988,12 @@
   download: https://bigota.d.miui.com/OS2.0.107.0.VNACNXM/fw_aurora_aurora-ota_full-OS2.0.107.0.VNACNXM-user-15.0-de86e19c0a.zip
   name: Xiaomi 14 Ultra
   version: OS2.0.107.0.VNACNXM
+- android: '15.0'
+  codename: aurora
+  date: '2025-10-24'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNAINXM/fw_aurora_aurora_in_global-ota_full-OS2.0.204.0.VNAINXM-user-15.0-117a7371a3.zip
+  name: Xiaomi 14 Ultra
+  version: OS2.0.204.0.VNAINXM
 - android: '14.0'
   codename: aurora
   date: '2024-08-24'
@@ -8566,6 +8572,12 @@
   download: https://bigota.d.miui.com/OS1.0.13.0.UGTMIXM/fw_lake_miui_LAKEGlobal_OS1.0.13.0.UGTMIXM_6472e60862_14.0.zip
   name: Redmi 14C/POCO C75/Redmi A3 Pro
   version: OS1.0.13.0.UGTMIXM
+- android: '15.0'
+  codename: lapis
+  date: '2025-10-24'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VPPCNXM/fw_lapis_lapis-ota_full-OS2.0.207.0.VPPCNXM-user-15.0-e339e326bc.zip
+  name: Redmi Note 15 Pro
+  version: OS2.0.207.0.VPPCNXM
 - android: '15.0'
   codename: lapis
   date: '2025-08-22'

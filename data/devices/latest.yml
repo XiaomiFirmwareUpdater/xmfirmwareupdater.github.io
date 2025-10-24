@@ -399,15 +399,15 @@
     android: '15.0'
     miui: OS2.0.207.0.VNAEUXM
 - branch: stable
-  date: '2025-09-17'
+  date: '2025-10-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-17.09.2025/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.203.0.VNAINXM-user-15.0-824e59157a.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.203.0.VNAINXM-user-15.0-824e59157a.zip
-  filename: fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.203.0.VNAINXM-user-15.0-824e59157a.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-24.10.2025/fw_aurora_aurora_in_global-ota_full-OS2.0.204.0.VNAINXM-user-15.0-117a7371a3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora_in_global-ota_full-OS2.0.204.0.VNAINXM-user-15.0-117a7371a3.zip
+  filename: fw_aurora_aurora_in_global-ota_full-OS2.0.204.0.VNAINXM-user-15.0-117a7371a3.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.203.0.VNAINXM
+    miui: OS2.0.204.0.VNAINXM
 - branch: stable
   date: '2025-10-22'
   downloads:
@@ -3019,15 +3019,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2025-09-18'
+  date: '2025-10-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-18.09.2025/fw_lapis_lapis-ota_full-OS2.0.206.0.VPPCNXM-user-15.0-156350797d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lapis/fw_lapis_lapis-ota_full-OS2.0.206.0.VPPCNXM-user-15.0-156350797d.zip
-  filename: fw_lapis_lapis-ota_full-OS2.0.206.0.VPPCNXM-user-15.0-156350797d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-24.10.2025/fw_lapis_lapis-ota_full-OS2.0.207.0.VPPCNXM-user-15.0-e339e326bc.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lapis/fw_lapis_lapis-ota_full-OS2.0.207.0.VPPCNXM-user-15.0-e339e326bc.zip
+  filename: fw_lapis_lapis-ota_full-OS2.0.207.0.VPPCNXM-user-15.0-e339e326bc.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.206.0.VPPCNXM
+    miui: OS2.0.207.0.VPPCNXM
 - branch: stable
   date: '2022-04-15'
   downloads:
@@ -4749,14 +4749,14 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2025-10-15'
+  date: '2025-10-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_popsicle/releases/download/stable-15.10.2025/fw_popsicle_popsicle-ota_full-OS3.0.20.0.WPBCNXM-user-16.0-23b18a436b.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/popsicle/popsicle/fw_popsicle_popsicle-ota_full-OS3.0.20.0.WPBCNXM-user-16.0-23b18a436b.zip
-  filename: fw_popsicle_popsicle-ota_full-OS3.0.20.0.WPBCNXM-user-16.0-23b18a436b.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_popsicle/releases/download/stable-24.10.2025/fw_popsicle_popsicle-ota_full-OS3.0.24.0.WPBCNXM-user-16.0-cd3413c4f1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/popsicle/popsicle/fw_popsicle_popsicle-ota_full-OS3.0.24.0.WPBCNXM-user-16.0-cd3413c4f1.zip
+  filename: fw_popsicle_popsicle-ota_full-OS3.0.24.0.WPBCNXM-user-16.0-cd3413c4f1.zip
   region: China
   versions:
-    android: full-OS3.0.20.0.WPBCNXM-user-16.0-23b18a436b
+    android: full-OS3.0.24.0.WPBCNXM-user-16.0-cd3413c4f1
     miui: popsicle
 - branch: stable
   date: '2019-05-21'
