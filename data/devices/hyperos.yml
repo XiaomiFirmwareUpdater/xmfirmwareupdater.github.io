@@ -514,6 +514,18 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UOPMIXM/fw_amethyst_miui_AMETHYSTGlobal_OS1.0.5.0.UOPMIXM_74ee10dc55_14.0.zip
   name: Redmi Note 14 Pro+ 5G
   version: OS1.0.5.0.UOPMIXM
+- android: '15.0'
+  codename: amethyst
+  date: '2025-10-24'
+  download: https://bigota.d.miui.com/OS2.0.211.0.VOPEUXM/fw_amethyst_amethyst_eea_global-ota_full-OS2.0.211.0.VOPEUXM-user-15.0-ff5d18ce23.zip
+  name: Redmi Note 14 Pro+ 5G
+  version: OS2.0.211.0.VOPEUXM
+- android: '15.0'
+  codename: amethyst
+  date: '2025-10-24'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VOPMIXM/fw_amethyst_amethyst_global-ota_full-OS2.0.208.0.VOPMIXM-user-15.0-403cd4dd4a.zip
+  name: Redmi Note 14 Pro+ 5G
+  version: OS2.0.208.0.VOPMIXM
 - android: '14.0'
   codename: amethyst
   date: '2025-04-22'
@@ -718,6 +730,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMFEUXM/fw_aristotle_miui_ARISTOTLEEEAGlobal_OS1.0.3.0.UMFEUXM_e8e60fffbf_14.0.zip
   name: Xiaomi 13T
   version: OS1.0.3.0.UMFEUXM
+- android: '15.0'
+  codename: aristotle
+  date: '2025-10-24'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VMFEUXM/fw_aristotle_aristotle_eea_global-ota_full-OS2.0.208.0.VMFEUXM-user-15.0-5cfa9f0063.zip
+  name: Xiaomi 13T
+  version: OS2.0.208.0.VMFEUXM
 - android: '14.0'
   codename: aristotle
   date: '2024-09-23'

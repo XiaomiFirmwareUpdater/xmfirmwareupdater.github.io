@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 24 Oct 2025 07:08:41 </lastBuildDate>
+        <lastBuildDate>Fri, 24 Oct 2025 13:21:46 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS2.0.208.0.VOPMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
+            <pubDate>Fri, 24 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS2.0.211.0.VOPEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
+            <pubDate>Fri, 24 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13T (aristotle) - OS2.0.208.0.VMFEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
+            <pubDate>Fri, 24 Oct 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS2.0.204.0.VNAINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
@@ -1072,11 +1087,6 @@
             <pubDate>Fri, 12 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS2.0.207.0.VOPEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
-            <pubDate>Thu, 11 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS2.0.202.0.VMAEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
             <pubDate>Thu, 11 Sep 2025 00:00:00 </pubDate>
@@ -1120,11 +1130,6 @@
             <title>Redmi K70/POCO F6 Pro (vermeer) - OS2.0.205.0.VNKMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Tue, 09 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS2.0.205.0.VOPMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
-            <pubDate>Mon, 08 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 14 (houji) - OS2.0.109.0.VNCEUXM</title>
@@ -1210,11 +1215,6 @@
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.8.0.UKOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
             <pubDate>Tue, 02 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13T (aristotle) - OS2.0.205.0.VMFEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
-            <pubDate>Mon, 01 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.12.0.UCVEUXM</title>
