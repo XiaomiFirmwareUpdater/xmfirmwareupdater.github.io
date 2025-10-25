@@ -79,6 +79,36 @@
     android: '14.0'
     miui: OS1.0.4.0.UMSMIXM
 - branch: stable
+  date: '2025-10-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-25.10.2025/fw_redwood_redwood-ota_full-OS2.0.19.0.UMSCNXM-user-14.0-7eafbd5185.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/redwood/fw_redwood_redwood-ota_full-OS2.0.19.0.UMSCNXM-user-14.0-7eafbd5185.zip
+  filename: fw_redwood_redwood-ota_full-OS2.0.19.0.UMSCNXM-user-14.0-7eafbd5185.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS2.0.19.0.UMSCNXM
+- branch: stable
+  date: '2025-10-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-25.10.2025/fw_redwood_redwood_eea_global-ota_full-OS2.0.11.0.UMSEUXM-user-14.0-6f1951573d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/redwood/fw_redwood_redwood_eea_global-ota_full-OS2.0.11.0.UMSEUXM-user-14.0-6f1951573d.zip
+  filename: fw_redwood_redwood_eea_global-ota_full-OS2.0.11.0.UMSEUXM-user-14.0-6f1951573d.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS2.0.11.0.UMSEUXM
+- branch: stable
+  date: '2025-10-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-25.10.2025/fw_redwood_redwood_global-ota_full-OS2.0.11.0.UMSMIXM-user-14.0-f77404ede1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/redwood/fw_redwood_redwood_global-ota_full-OS2.0.11.0.UMSMIXM-user-14.0-f77404ede1.zip
+  filename: fw_redwood_redwood_global-ota_full-OS2.0.11.0.UMSMIXM-user-14.0-f77404ede1.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS2.0.11.0.UMSMIXM
+- branch: stable
   date: '2025-09-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-25.09.2025/fw_redwood_eea_global_redwood_eea_global-ota_full-OS2.0.10.0.UMSEUXM-user-14.0-14def95422.zip
