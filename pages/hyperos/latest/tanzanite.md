@@ -54,8 +54,8 @@ permalink: /hyperos/tanzanite/
                 <tbody>
                 <tr><td>Redmi Note 14 4G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VOGEUXM</td><td>15.0</td><td>7.3 GB</td><td>2025-09-17</td><td><a href="/hyperos/tanzanite/stable/OS2.0.207.0.VOGEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 4G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VOGEUXM</td><td>15.0</td><td>5.0 GB</td><td>2025-09-22</td><td><a href="/hyperos/tanzanite/stable/OS2.0.207.0.VOGEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 4G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VOGMIXM</td><td>15.0</td><td>8.1 GB</td><td>2025-09-15</td><td><a href="/hyperos/tanzanite/stable/OS2.0.205.0.VOGMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 4G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VOGMIXM</td><td>15.0</td><td>4.9 GB</td><td>2025-09-21</td><td><a href="/hyperos/tanzanite/stable/OS2.0.205.0.VOGMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 4G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VOGMIXM</td><td>15.0</td><td>8.2 GB</td><td>2025-09-29</td><td><a href="/hyperos/tanzanite/stable/OS2.0.206.0.VOGMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 4G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VOGMIXM</td><td>15.0</td><td>4.9 GB</td><td>2025-10-14</td><td><a href="/hyperos/tanzanite/stable/OS2.0.206.0.VOGMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 4G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UOGMIXM</td><td>14.0</td><td>4.6 GB</td><td>2025-01-13</td><td><a href="/hyperos/tanzanite/stable beta/OS1.0.1.0.UOGMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 4G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VOGIDXM</td><td>15.0</td><td>7.4 GB</td><td>2025-09-17</td><td><a href="/hyperos/tanzanite/stable/OS2.0.204.0.VOGIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 4G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VOGIDXM</td><td>15.0</td><td>4.9 GB</td><td>2025-09-21</td><td><a href="/hyperos/tanzanite/stable/OS2.0.204.0.VOGIDXM/">Download</a></td></tr>

@@ -3750,6 +3750,12 @@
   version: OS2.0.3.0.VNSINXM
 - android: '15.0'
   codename: dizi
+  date: '2025-10-25'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNSMIXM/fw_dizi_dizi_global-ota_full-OS2.0.204.0.VNSMIXM-user-15.0-fe41e59e75.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS2.0.204.0.VNSMIXM
+- android: '15.0'
+  codename: dizi
   date: '2025-08-25'
   download: https://bigota.d.miui.com/OS2.0.203.0.VNSEUXM/fw_dizi_eea_global_dizi_eea_global-ota_full-OS2.0.203.0.VNSEUXM-user-15.0-fcb0f881c6.zip
   name: Redmi Pad Pro/POCO Pad
@@ -14304,6 +14310,12 @@
   version: OS2.0.206.0.VOJEUXM
 - android: '15.0'
   codename: rodin
+  date: '2025-10-25'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VOJINXM/fw_rodin_rodin_in_global-ota_full-OS2.0.203.0.VOJINXM-user-15.0-74f30aa119.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS2.0.203.0.VOJINXM
+- android: '15.0'
+  codename: rodin
   date: '2025-04-25'
   download: https://bigota.d.miui.com/OS2.0.101.0.VOJINXM/fw_rodin_in_global_rodin_in_global-ota_full-OS2.0.101.0.VOJINXM-user-15.0-cc9f86000b.zip
   name: Redmi Turbo 4/POCO X7 Pro
@@ -14836,6 +14848,12 @@
   download: https://bigota.d.miui.com/OS2.0.204.0.VFSEUXM/fw_ruan_ruan_eea_global-ota_full-OS2.0.204.0.VFSEUXM-user-15.0-490e1feeed.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS2.0.204.0.VFSEUXM
+- android: '15.0'
+  codename: ruan
+  date: '2025-10-25'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VFSMIXM/fw_ruan_ruan_global-ota_full-OS2.0.204.0.VFSMIXM-user-15.0-d42f0829e4.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS2.0.204.0.VFSMIXM
 - android: '15.0'
   codename: ruan
   date: '2025-08-25'
@@ -17902,6 +17920,12 @@
   download: https://bigota.d.miui.com/OS2.0.1.0.VOGMIXM/fw_tanzanite_global_tanzanite_global-ota_full-OS2.0.1.0.VOGMIXM-user-15.0-1a56c3d2e6.zip
   name: Redmi Note 14 4G
   version: OS2.0.1.0.VOGMIXM
+- android: '15.0'
+  codename: tanzanite
+  date: '2025-10-25'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VOGMIXM/fw_tanzanite_tanzanite_global-ota_full-OS2.0.206.0.VOGMIXM-user-15.0-adf54f45bc.zip
+  name: Redmi Note 14 4G
+  version: OS2.0.206.0.VOGMIXM
 - android: '15.0'
   codename: tanzanite
   date: '2025-05-23'

@@ -56,22 +56,22 @@ permalink: /hyperos/vermeer/stable/OS2.0.206.0.VNKRUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.7 GB</h5>
+                    <h5><b>Size: </b>10.1 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-10-14</h5>
+                    <h5><b>Release Date: </b>2025-09-18</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">vermeer_ru_global-ota_full-OS2.0.206.0.VNKRUXM-user-15.0-8394d2aa51.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">vermeer_ru_global_images_OS2.0.206.0.VNKRUXM_20250918.0000.00_15.0_ru_3ed783fbd2.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">8394d2aa514b0d92d6b9e1fdf11d6a54</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">3ed783fbd22ddd125c32aa0bd3aea605</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.206.0.VNKRUXM/vermeer_ru_global-ota_full-OS2.0.206.0.VNKRUXM-user-15.0-8394d2aa51.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.206.0.VNKRUXM/vermeer_ru_global-ota_full-OS2.0.206.0.VNKRUXM-user-15.0-8394d2aa51.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.206.0.VNKRUXM/vermeer_ru_global-ota_full-OS2.0.206.0.VNKRUXM-user-15.0-8394d2aa51.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.206.0.VNKRUXM/vermeer_ru_global-ota_full-OS2.0.206.0.VNKRUXM-user-15.0-8394d2aa51.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.206.0.VNKRUXM/vermeer_ru_global-ota_full-OS2.0.206.0.VNKRUXM-user-15.0-8394d2aa51.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.206.0.VNKRUXM/vermeer_ru_global_images_OS2.0.206.0.VNKRUXM_20250918.0000.00_15.0_ru_3ed783fbd2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.206.0.VNKRUXM/vermeer_ru_global_images_OS2.0.206.0.VNKRUXM_20250918.0000.00_15.0_ru_3ed783fbd2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.206.0.VNKRUXM/vermeer_ru_global_images_OS2.0.206.0.VNKRUXM_20250918.0000.00_15.0_ru_3ed783fbd2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.206.0.VNKRUXM/vermeer_ru_global_images_OS2.0.206.0.VNKRUXM_20250918.0000.00_15.0_ru_3ed783fbd2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.206.0.VNKRUXM/vermeer_ru_global_images_OS2.0.206.0.VNKRUXM_20250918.0000.00_15.0_ru_3ed783fbd2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#vermeer_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/vermeer/stable/OS2.0.206.0.VNKRUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>10.1 GB</h5>
+                    <h5><b>Size: </b>6.7 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-09-18</h5>
+                    <h5><b>Release Date: </b>2025-10-14</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">vermeer_ru_global_images_OS2.0.206.0.VNKRUXM_20250918.0000.00_15.0_ru_3ed783fbd2.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">vermeer_ru_global-ota_full-OS2.0.206.0.VNKRUXM-user-15.0-8394d2aa51.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">3ed783fbd22ddd125c32aa0bd3aea605</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">8394d2aa514b0d92d6b9e1fdf11d6a54</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.206.0.VNKRUXM/vermeer_ru_global_images_OS2.0.206.0.VNKRUXM_20250918.0000.00_15.0_ru_3ed783fbd2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.206.0.VNKRUXM/vermeer_ru_global_images_OS2.0.206.0.VNKRUXM_20250918.0000.00_15.0_ru_3ed783fbd2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.206.0.VNKRUXM/vermeer_ru_global_images_OS2.0.206.0.VNKRUXM_20250918.0000.00_15.0_ru_3ed783fbd2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.206.0.VNKRUXM/vermeer_ru_global_images_OS2.0.206.0.VNKRUXM_20250918.0000.00_15.0_ru_3ed783fbd2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.206.0.VNKRUXM/vermeer_ru_global_images_OS2.0.206.0.VNKRUXM_20250918.0000.00_15.0_ru_3ed783fbd2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.206.0.VNKRUXM/vermeer_ru_global-ota_full-OS2.0.206.0.VNKRUXM-user-15.0-8394d2aa51.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.206.0.VNKRUXM/vermeer_ru_global-ota_full-OS2.0.206.0.VNKRUXM-user-15.0-8394d2aa51.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.206.0.VNKRUXM/vermeer_ru_global-ota_full-OS2.0.206.0.VNKRUXM-user-15.0-8394d2aa51.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.206.0.VNKRUXM/vermeer_ru_global-ota_full-OS2.0.206.0.VNKRUXM-user-15.0-8394d2aa51.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.206.0.VNKRUXM/vermeer_ru_global-ota_full-OS2.0.206.0.VNKRUXM-user-15.0-8394d2aa51.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#vermeer_2_changelog" data-toggle="collapse" role="button"
