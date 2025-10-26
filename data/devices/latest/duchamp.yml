@@ -19,15 +19,15 @@
     android: '15.0'
     miui: OS2.0.212.0.VNLCNXM
 - branch: stable
-  date: '2025-10-01'
+  date: '2025-10-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-01.10.2025/fw_duchamp_eea_global_duchamp_eea_global-ota_full-OS2.0.207.0.VNLEUXM-user-15.0-927e3f4376.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/duchamp/fw_duchamp_eea_global_duchamp_eea_global-ota_full-OS2.0.207.0.VNLEUXM-user-15.0-927e3f4376.zip
-  filename: fw_duchamp_eea_global_duchamp_eea_global-ota_full-OS2.0.207.0.VNLEUXM-user-15.0-927e3f4376.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-26.10.2025/fw_duchamp_duchamp_eea_global-ota_full-OS2.0.208.0.VNLEUXM-user-15.0-84b4c3191d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/duchamp/fw_duchamp_duchamp_eea_global-ota_full-OS2.0.208.0.VNLEUXM-user-15.0-84b4c3191d.zip
+  filename: fw_duchamp_duchamp_eea_global-ota_full-OS2.0.208.0.VNLEUXM-user-15.0-84b4c3191d.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.207.0.VNLEUXM
+    miui: OS2.0.208.0.VNLEUXM
 - branch: stable
   date: '2025-08-31'
   downloads:
