@@ -19,22 +19,22 @@
     android: '15.0'
     miui: OS2.0.209.0.VLBCNXM
 - branch: stable
-  date: '2025-09-19'
+  date: '2025-10-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-19.09.2025/fw_zeus_eea_global_zeus_eea_global-ota_full-OS2.0.206.0.VLBEUXM-user-15.0-1e6c134d2b.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_eea_global_zeus_eea_global-ota_full-OS2.0.206.0.VLBEUXM-user-15.0-1e6c134d2b.zip
-  filename: fw_zeus_eea_global_zeus_eea_global-ota_full-OS2.0.206.0.VLBEUXM-user-15.0-1e6c134d2b.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-27.10.2025/fw_zeus_zeus_eea_global-ota_full-OS2.0.207.0.VLBEUXM-user-15.0-ae2cb0a88c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_zeus_eea_global-ota_full-OS2.0.207.0.VLBEUXM-user-15.0-ae2cb0a88c.zip
+  filename: fw_zeus_zeus_eea_global-ota_full-OS2.0.207.0.VLBEUXM-user-15.0-ae2cb0a88c.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.206.0.VLBEUXM
+    miui: OS2.0.207.0.VLBEUXM
 - branch: stable
-  date: '2025-10-05'
+  date: '2025-10-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-05.10.2025/fw_zeus_zeus_in_global-ota_full-OS2.0.206.0.VLBINXM-user-15.0-5b6621588d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_zeus_in_global-ota_full-OS2.0.206.0.VLBINXM-user-15.0-5b6621588d.zip
-  filename: fw_zeus_zeus_in_global-ota_full-OS2.0.206.0.VLBINXM-user-15.0-5b6621588d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-27.10.2025/fw_zeus_zeus_in_global-ota_full-OS2.0.207.0.VLBINXM-user-15.0-62eb109830.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_zeus_in_global-ota_full-OS2.0.207.0.VLBINXM-user-15.0-62eb109830.zip
+  filename: fw_zeus_zeus_in_global-ota_full-OS2.0.207.0.VLBINXM-user-15.0-62eb109830.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.206.0.VLBINXM
+    miui: OS2.0.207.0.VLBINXM

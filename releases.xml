@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 27 Oct 2025 13:49:10 </lastBuildDate>
+        <lastBuildDate>Mon, 27 Oct 2025 20:43:42 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 15/POCO M7 (creek) - OS2.0.210.0.VBOMIXM</title>
@@ -29,6 +29,11 @@
         <item>
             <title>Redmi 15C/POCO C85 (dew) - OS2.0.213.0.VBNEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dew/</link>
+            <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS2.0.209.0.VLFCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/diting/</link>
             <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -77,6 +82,16 @@
             <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS2.0.12.0.UMSINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
+            <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K60E (rembrandt) - OS2.0.18.0.UMMCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rembrandt/</link>
+            <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS2.0.224.0.WNNMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
             <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
@@ -107,8 +122,23 @@
             <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 12S Ultra (thor) - OS2.0.207.0.VLACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/thor/</link>
+            <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 12 4G NFC (topaz) - OS2.0.202.0.VMGMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/topaz/</link>
+            <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - OS2.0.207.0.VLBEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
+            <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - OS2.0.207.0.VLBINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -547,11 +577,6 @@
             <pubDate>Tue, 14 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS2.0.208.0.VLFCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/diting/</link>
-            <pubDate>Mon, 13 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.205.0.VFOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
             <pubDate>Mon, 13 Oct 2025 00:00:00 </pubDate>
@@ -647,11 +672,6 @@
             <pubDate>Sun, 05 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12 Pro (zeus) - OS2.0.206.0.VLBINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Sun, 05 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS2.0.201.0.VLLMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Sun, 05 Oct 2025 00:00:00 </pubDate>
@@ -739,11 +759,6 @@
         <item>
             <title>Redmi Note 14 4G (tanzanite) - OS2.0.207.0.VOGEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tanzanite/</link>
-            <pubDate>Sat, 04 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12S Ultra (thor) - OS2.0.206.0.VLACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/thor/</link>
             <pubDate>Sat, 04 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -992,11 +1007,6 @@
             <pubDate>Thu, 25 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS2.0.10.0.UMSINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
-            <pubDate>Thu, 25 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS2.0.203.0.VNUINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
             <pubDate>Wed, 24 Sep 2025 00:00:00 </pubDate>
@@ -1102,11 +1112,6 @@
             <pubDate>Fri, 19 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12 Pro (zeus) - OS2.0.206.0.VLBEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Fri, 19 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS2.0.204.0.VLLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Fri, 19 Sep 2025 00:00:00 </pubDate>
@@ -1125,11 +1130,6 @@
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.24.0.TGOINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/water/</link>
             <pubDate>Thu, 18 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60E (rembrandt) - OS2.0.17.0.UMMCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rembrandt/</link>
-            <pubDate>Wed, 17 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.13.0.UCVMIXM</title>
