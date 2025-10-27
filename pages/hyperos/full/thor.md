@@ -52,7 +52,9 @@ permalink: /archive/hyperos/thor/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12S Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VLACNXM</td><td>15.0</td><td>6.3 GB</td><td>2025-09-17</td><td><a href="/hyperos/thor/stable/OS2.0.206.0.VLACNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12S Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VLACNXM</td><td>15.0</td><td>6.3 GB</td><td>2025-10-14</td><td><a href="/hyperos/thor/stable/OS2.0.207.0.VLACNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12S Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VLACNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-09-25</td><td><a href="/hyperos/thor/stable/OS2.0.207.0.VLACNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12S Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VLACNXM</td><td>15.0</td><td>6.3 GB</td><td>2025-09-17</td><td><a href="/hyperos/thor/stable/OS2.0.206.0.VLACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VLACNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-09-11</td><td><a href="/hyperos/thor/stable/OS2.0.206.0.VLACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VLACNXM</td><td>15.0</td><td>6.3 GB</td><td>2025-08-20</td><td><a href="/hyperos/thor/stable/OS2.0.205.0.VLACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VLACNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-08-15</td><td><a href="/hyperos/thor/stable/OS2.0.205.0.VLACNXM/">Download</a></td></tr>

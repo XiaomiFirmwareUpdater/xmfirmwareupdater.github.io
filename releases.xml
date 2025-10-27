@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 27 Oct 2025 09:59:04 </lastBuildDate>
+        <lastBuildDate>Mon, 27 Oct 2025 13:49:10 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 15/POCO M7 (creek) - OS2.0.210.0.VBOMIXM</title>
@@ -14,6 +14,21 @@
         <item>
             <title>Xiaomi 15 (dada) - OS2.0.225.0.WOCEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dada/</link>
+            <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14T (degas) - OS2.0.207.0.VNEEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/degas/</link>
+            <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15C/POCO C85 (dew) - OS2.0.213.0.VBNMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dew/</link>
+            <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15C/POCO C85 (dew) - OS2.0.213.0.VBNEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dew/</link>
             <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -882,11 +897,6 @@
             <pubDate>Mon, 29 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 14T (degas) - OS2.0.206.0.VNEEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/degas/</link>
-            <pubDate>Mon, 29 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS2.0.204.0.VNSCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
             <pubDate>Mon, 29 Sep 2025 00:00:00 </pubDate>
@@ -992,11 +1002,6 @@
             <pubDate>Wed, 24 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 15C/POCO C85 (dew) - OS2.0.212.0.VBNMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dew/</link>
-            <pubDate>Wed, 24 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS2.0.203.0.VLFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/diting/</link>
             <pubDate>Wed, 24 Sep 2025 00:00:00 </pubDate>
@@ -1045,11 +1050,6 @@
             <title>Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) - OS2.0.202.0.VPOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
             <pubDate>Tue, 23 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 15C/POCO C85 (dew) - OS2.0.212.0.VBNEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dew/</link>
-            <pubDate>Mon, 22 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 12 (fire) - OS2.0.202.0.VMXINXM</title>

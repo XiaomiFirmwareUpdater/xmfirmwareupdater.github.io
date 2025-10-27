@@ -1469,35 +1469,35 @@
     android: '15.0'
     miui: OS2.0.204.0.VNEMIXM
 - branch: stable
-  date: '2025-09-29'
+  date: '2025-10-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_degas/releases/download/stable-29.09.2025/fw_degas_eea_global_degas_eea_global-ota_full-OS2.0.206.0.VNEEUXM-user-15.0-4e274b29f1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/degas/fw_degas_eea_global_degas_eea_global-ota_full-OS2.0.206.0.VNEEUXM-user-15.0-4e274b29f1.zip
-  filename: fw_degas_eea_global_degas_eea_global-ota_full-OS2.0.206.0.VNEEUXM-user-15.0-4e274b29f1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_degas/releases/download/stable-27.10.2025/fw_degas_degas_eea_global-ota_full-OS2.0.207.0.VNEEUXM-user-15.0-1177b78a94.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/degas/fw_degas_degas_eea_global-ota_full-OS2.0.207.0.VNEEUXM-user-15.0-1177b78a94.zip
+  filename: fw_degas_degas_eea_global-ota_full-OS2.0.207.0.VNEEUXM-user-15.0-1177b78a94.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.206.0.VNEEUXM
+    miui: OS2.0.207.0.VNEEUXM
 - branch: stable
-  date: '2025-09-24'
+  date: '2025-10-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dew/releases/download/stable-24.09.2025/fw_dew_global_dew_global-ota_full-OS2.0.212.0.VBNMIXM-user-15.0-0daeef7228.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dew/fw_dew_global_dew_global-ota_full-OS2.0.212.0.VBNMIXM-user-15.0-0daeef7228.zip
-  filename: fw_dew_global_dew_global-ota_full-OS2.0.212.0.VBNMIXM-user-15.0-0daeef7228.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dew/releases/download/stable-27.10.2025/fw_dew_dew_global-ota_full-OS2.0.213.0.VBNMIXM-user-15.0-a594b6e665.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dew/fw_dew_dew_global-ota_full-OS2.0.213.0.VBNMIXM-user-15.0-a594b6e665.zip
+  filename: fw_dew_dew_global-ota_full-OS2.0.213.0.VBNMIXM-user-15.0-a594b6e665.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.212.0.VBNMIXM
+    miui: OS2.0.213.0.VBNMIXM
 - branch: stable
-  date: '2025-09-22'
+  date: '2025-10-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dew/releases/download/stable-22.09.2025/fw_dew_eea_global_dew_eea_global-ota_full-OS2.0.212.0.VBNEUXM-user-15.0-72e2b93bbe.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dew/fw_dew_eea_global_dew_eea_global-ota_full-OS2.0.212.0.VBNEUXM-user-15.0-72e2b93bbe.zip
-  filename: fw_dew_eea_global_dew_eea_global-ota_full-OS2.0.212.0.VBNEUXM-user-15.0-72e2b93bbe.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dew/releases/download/stable-27.10.2025/fw_dew_dew_eea_global-ota_full-OS2.0.213.0.VBNEUXM-user-15.0-3733282d69.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dew/fw_dew_dew_eea_global-ota_full-OS2.0.213.0.VBNEUXM-user-15.0-3733282d69.zip
+  filename: fw_dew_dew_eea_global-ota_full-OS2.0.213.0.VBNEUXM-user-15.0-3733282d69.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.212.0.VBNEUXM
+    miui: OS2.0.213.0.VBNEUXM
 - branch: stable
   date: '2025-08-15'
   downloads:

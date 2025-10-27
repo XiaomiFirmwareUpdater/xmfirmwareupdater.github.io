@@ -3208,6 +3208,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNEMIXM/fw_degas_miui_DEGASGlobal_OS1.0.4.0.UNEMIXM_ecc0b069d5_14.0.zip
   name: Xiaomi 14T
   version: OS1.0.4.0.UNEMIXM
+- android: '15.0'
+  codename: degas
+  date: '2025-10-27'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VNEEUXM/fw_degas_degas_eea_global-ota_full-OS2.0.207.0.VNEEUXM-user-15.0-1177b78a94.zip
+  name: Xiaomi 14T
+  version: OS2.0.207.0.VNEEUXM
 - android: '14.0'
   codename: degas
   date: '2024-09-27'
@@ -3292,6 +3298,18 @@
   download: https://bigota.d.miui.com/OS2.0.211.0.VBNMIXM/fw_dew_global_dew_global-ota_full-OS2.0.211.0.VBNMIXM-user-15.0-6523ff79d0.zip
   name: Redmi 15C/POCO C85
   version: OS2.0.211.0.VBNMIXM
+- android: '15.0'
+  codename: dew
+  date: '2025-10-27'
+  download: https://bigota.d.miui.com/OS2.0.213.0.VBNEUXM/fw_dew_dew_eea_global-ota_full-OS2.0.213.0.VBNEUXM-user-15.0-3733282d69.zip
+  name: Redmi 15C/POCO C85
+  version: OS2.0.213.0.VBNEUXM
+- android: '15.0'
+  codename: dew
+  date: '2025-10-27'
+  download: https://bigota.d.miui.com/OS2.0.213.0.VBNMIXM/fw_dew_dew_global-ota_full-OS2.0.213.0.VBNMIXM-user-15.0-a594b6e665.zip
+  name: Redmi 15C/POCO C85
+  version: OS2.0.213.0.VBNMIXM
 - android: '15.0'
   codename: dew
   date: '2025-09-24'
