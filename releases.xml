@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 27 Oct 2025 20:43:42 </lastBuildDate>
+        <lastBuildDate>Tue, 28 Oct 2025 01:02:08 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 15/POCO M7 (creek) - OS2.0.210.0.VBOMIXM</title>
@@ -39,6 +39,16 @@
         <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS2.0.205.0.VNSEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
+            <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad Pro/POCO Pad (dizi) - OS2.0.204.0.VNSINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
+            <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 (houji) - OS2.0.215.0.VNCCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/houji/</link>
             <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -822,11 +832,6 @@
             <pubDate>Tue, 30 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad Pro/POCO Pad (dizi) - OS2.0.203.0.VNSINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
-            <pubDate>Tue, 30 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13 (fuxi) - OS2.0.201.0.VMCMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
             <pubDate>Tue, 30 Sep 2025 00:00:00 </pubDate>
@@ -1284,11 +1289,6 @@
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.205.0.VNLINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Sun, 31 Aug 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 (houji) - OS2.0.212.0.VNCCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/houji/</link>
             <pubDate>Sun, 31 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>

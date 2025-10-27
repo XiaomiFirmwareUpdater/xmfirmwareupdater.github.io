@@ -3744,6 +3744,12 @@
   version: OS2.0.6.0.VNSCNXM
 - android: '15.0'
   codename: dizi
+  date: '2025-10-27'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNSINXM/fw_dizi_dizi_in_global-ota_full-OS2.0.204.0.VNSINXM-user-15.0-6cf1a265b6.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS2.0.204.0.VNSINXM
+- android: '15.0'
+  codename: dizi
   date: '2025-08-28'
   download: https://bigota.d.miui.com/OS2.0.203.0.VNSCNXM/fw_dizi_dizi-ota_full-OS2.0.203.0.VNSCNXM-user-15.0-4cb8fe2701.zip
   name: Redmi Pad Pro/POCO Pad
@@ -7558,6 +7564,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UNCINXM/fw_houji_miui_HOUJIINGlobal_OS1.0.2.0.UNCINXM_a054e6ddb8_14.0.zip
   name: Xiaomi 14
   version: OS1.0.2.0.UNCINXM
+- android: '15.0'
+  codename: houji
+  date: '2025-10-27'
+  download: https://bigota.d.miui.com/OS2.0.215.0.VNCCNXM/fw_houji_houji-ota_full-OS2.0.215.0.VNCCNXM-user-15.0-aebb1dbf56.zip
+  name: Xiaomi 14
+  version: OS2.0.215.0.VNCCNXM
 - android: '15.0'
   codename: houji
   date: '2025-03-28'
