@@ -159,6 +159,26 @@
     android: '14.0'
     miui: OS2.0.2.0.UMZMIXM
 - branch: stable
+  date: '2025-10-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-27.10.2025/fw_pipa_pipa_eea_global-ota_full-OS2.0.8.0.UMZEUXM-user-14.0-2f2613b1e3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/pipa/fw_pipa_pipa_eea_global-ota_full-OS2.0.8.0.UMZEUXM-user-14.0-2f2613b1e3.zip
+  filename: fw_pipa_pipa_eea_global-ota_full-OS2.0.8.0.UMZEUXM-user-14.0-2f2613b1e3.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS2.0.8.0.UMZEUXM
+- branch: stable
+  date: '2025-10-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-27.10.2025/fw_pipa_pipa_in_global-ota_full-OS2.0.8.0.UMZINXM-user-14.0-765329ddd2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/pipa/fw_pipa_pipa_in_global-ota_full-OS2.0.8.0.UMZINXM-user-14.0-765329ddd2.zip
+  filename: fw_pipa_pipa_in_global-ota_full-OS2.0.8.0.UMZINXM-user-14.0-765329ddd2.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS2.0.8.0.UMZINXM
+- branch: stable
   date: '2025-06-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-27.06.2025/fw_pipa_eea_global_pipa_eea_global-ota_full-OS2.0.4.0.UMZEUXM-user-14.0-affac95d65.zip

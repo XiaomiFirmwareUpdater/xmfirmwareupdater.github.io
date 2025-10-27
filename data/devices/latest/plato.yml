@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2025-10-04'
+  date: '2025-10-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-04.10.2025/fw_plato_plato_global-ota_full-OS2.0.205.0.VLQMIXM-user-15.0-2ad3b1bc73.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/plato/fw_plato_plato_global-ota_full-OS2.0.205.0.VLQMIXM-user-15.0-2ad3b1bc73.zip
-  filename: fw_plato_plato_global-ota_full-OS2.0.205.0.VLQMIXM-user-15.0-2ad3b1bc73.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-27.10.2025/fw_plato_plato_global-ota_full-OS2.0.207.0.VLQMIXM-user-15.0-84fa88cb3d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/plato/fw_plato_plato_global-ota_full-OS2.0.207.0.VLQMIXM-user-15.0-84fa88cb3d.zip
+  filename: fw_plato_plato_global-ota_full-OS2.0.207.0.VLQMIXM-user-15.0-84fa88cb3d.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.205.0.VLQMIXM
+    miui: OS2.0.207.0.VLQMIXM
 - branch: stable
-  date: '2025-10-13'
+  date: '2025-10-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-13.10.2025/fw_plato_plato_eea_global-ota_full-OS2.0.204.0.VLQEUXM-user-15.0-f1a035e6e9.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/plato/fw_plato_plato_eea_global-ota_full-OS2.0.204.0.VLQEUXM-user-15.0-f1a035e6e9.zip
-  filename: fw_plato_plato_eea_global-ota_full-OS2.0.204.0.VLQEUXM-user-15.0-f1a035e6e9.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-27.10.2025/fw_plato_plato_eea_global-ota_full-OS2.0.206.0.VLQEUXM-user-15.0-84261fd812.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/plato/fw_plato_plato_eea_global-ota_full-OS2.0.206.0.VLQEUXM-user-15.0-84261fd812.zip
+  filename: fw_plato_plato_eea_global-ota_full-OS2.0.206.0.VLQEUXM-user-15.0-84261fd812.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.204.0.VLQEUXM
+    miui: OS2.0.206.0.VLQEUXM

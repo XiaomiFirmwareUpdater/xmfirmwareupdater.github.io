@@ -29,6 +29,16 @@
     android: '15.0'
     miui: OS2.0.203.0.VBOIDXM
 - branch: stable
+  date: '2025-10-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_creek/releases/download/stable-27.10.2025/fw_creek_creek_global-ota_full-OS2.0.210.0.VBOMIXM-user-15.0-e723881768.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/creek/fw_creek_creek_global-ota_full-OS2.0.210.0.VBOMIXM-user-15.0-e723881768.zip
+  filename: fw_creek_creek_global-ota_full-OS2.0.210.0.VBOMIXM-user-15.0-e723881768.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.210.0.VBOMIXM
+- branch: stable
   date: '2025-08-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_creek/releases/download/stable-25.08.2025/fw_creek_eea_global_creek_eea_global-ota_full-OS2.0.203.0.VBOEUXM-user-15.0-edad663cd5.zip
