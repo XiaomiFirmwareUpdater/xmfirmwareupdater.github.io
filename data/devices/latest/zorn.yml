@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-10-05'
+  date: '2025-10-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zorn/releases/download/stable-05.10.2025/fw_zorn_zorn_global-ota_full-OS2.0.203.0.VOKMIXM-user-15.0-fdb30ab362.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zorn/fw_zorn_zorn_global-ota_full-OS2.0.203.0.VOKMIXM-user-15.0-fdb30ab362.zip
-  filename: fw_zorn_zorn_global-ota_full-OS2.0.203.0.VOKMIXM-user-15.0-fdb30ab362.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zorn/releases/download/stable-28.10.2025/fw_zorn_zorn_global-ota_full-OS2.0.204.0.VOKMIXM-user-15.0-86c7be8bd6.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zorn/fw_zorn_zorn_global-ota_full-OS2.0.204.0.VOKMIXM-user-15.0-86c7be8bd6.zip
+  filename: fw_zorn_zorn_global-ota_full-OS2.0.204.0.VOKMIXM-user-15.0-86c7be8bd6.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.203.0.VOKMIXM
+    miui: OS2.0.204.0.VOKMIXM
 - branch: stable
   date: '2025-10-05'
   downloads:
