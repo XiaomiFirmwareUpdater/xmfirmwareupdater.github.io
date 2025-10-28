@@ -19,22 +19,22 @@
     android: '15.0'
     miui: OS2.0.208.0.VOZCNXM
 - branch: stable
-  date: '2025-10-04'
+  date: '2025-10-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-05.10.2025/fw_uke_uke_eea_global-ota_full-OS2.0.203.0.VOZEUXM-user-15.0-041f5592b1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/uke/fw_uke_uke_eea_global-ota_full-OS2.0.203.0.VOZEUXM-user-15.0-041f5592b1.zip
-  filename: fw_uke_uke_eea_global-ota_full-OS2.0.203.0.VOZEUXM-user-15.0-041f5592b1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-28.10.2025/fw_uke_uke_eea_global-ota_full-OS2.0.204.0.VOZEUXM-user-15.0-bf1cd286e2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/uke/fw_uke_uke_eea_global-ota_full-OS2.0.204.0.VOZEUXM-user-15.0-bf1cd286e2.zip
+  filename: fw_uke_uke_eea_global-ota_full-OS2.0.204.0.VOZEUXM-user-15.0-bf1cd286e2.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.203.0.VOZEUXM
+    miui: OS2.0.204.0.VOZEUXM
 - branch: stable
-  date: '2025-10-04'
+  date: '2025-10-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-05.10.2025/fw_uke_uke_in_global-ota_full-OS2.0.201.0.VOZINXM-user-15.0-81a67ff1d6.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/uke/fw_uke_uke_in_global-ota_full-OS2.0.201.0.VOZINXM-user-15.0-81a67ff1d6.zip
-  filename: fw_uke_uke_in_global-ota_full-OS2.0.201.0.VOZINXM-user-15.0-81a67ff1d6.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-28.10.2025/fw_uke_uke_in_global-ota_full-OS2.0.202.0.VOZINXM-user-15.0-ba79e9ea0b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/uke/fw_uke_uke_in_global-ota_full-OS2.0.202.0.VOZINXM-user-15.0-ba79e9ea0b.zip
+  filename: fw_uke_uke_in_global-ota_full-OS2.0.202.0.VOZINXM-user-15.0-ba79e9ea0b.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.201.0.VOZINXM
+    miui: OS2.0.202.0.VOZINXM

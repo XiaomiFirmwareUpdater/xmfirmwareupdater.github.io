@@ -4735,6 +4735,12 @@
 - android: '15.0'
   codename: emerald
   date: '2025-10-28'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VNFEUXM/fw_emerald_emerald_eea_global-ota_full-OS2.0.208.0.VNFEUXM-user-15.0-c115f785ea.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
+  version: OS2.0.208.0.VNFEUXM
+- android: '15.0'
+  codename: emerald
+  date: '2025-10-28'
   download: https://bigota.d.miui.com/OS2.0.209.0.VNFMIXM/fw_emerald_emerald_global-ota_full-OS2.0.209.0.VNFMIXM-user-15.0-fac9f9ae74.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS2.0.209.0.VNFMIXM
@@ -15378,6 +15384,12 @@
   version: OS1.0.1.0.UMOMIXM
 - android: '14.0'
   codename: ruby
+  date: '2025-10-28'
+  download: https://bigota.d.miui.com/OS2.0.8.0.UMOMIXM/fw_ruby_ruby_global-ota_full-OS2.0.8.0.UMOMIXM-user-14.0-44e9870be1.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS2.0.8.0.UMOMIXM
+- android: '14.0'
+  codename: ruby
   date: '2024-10-28'
   download: https://bigota.d.miui.com/OS1.0.7.0.UMOINXM/fw_ruby_miui_RUBYINGlobal_OS1.0.7.0.UMOINXM_eec90313c5_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
@@ -15766,6 +15778,12 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VNIMIXM/fw_ruyi_global_ruyi_global-ota_full-OS2.0.203.0.VNIMIXM-user-15.0-112d8e99b2.zip
   name: MIX Flip
   version: OS2.0.203.0.VNIMIXM
+- android: '15.0'
+  codename: ruyi
+  date: '2025-10-28'
+  download: https://bigota.d.miui.com/OS2.0.211.0.VNIEUXM/fw_ruyi_ruyi_eea_global-ota_full-OS2.0.211.0.VNIEUXM-user-15.0-1742f0f062.zip
+  name: MIX Flip
+  version: OS2.0.211.0.VNIEUXM
 - android: '14.0'
   codename: ruyi
   date: '2024-07-28'
@@ -16528,6 +16546,24 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UNXCNXM/fw_sheng_miui_SHENG_OS1.0.7.0.UNXCNXM_44a9846911_14.0.zip
   name: Xiaomi Pad 6S Pro 12.4
   version: OS1.0.7.0.UNXCNXM
+- android: '15.0'
+  codename: sheng
+  date: '2025-10-28'
+  download: https://bigota.d.miui.com/OS2.0.211.0.VNXCNXM/fw_sheng_sheng-ota_full-OS2.0.211.0.VNXCNXM-user-15.0-b89bcc4fbf.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS2.0.211.0.VNXCNXM
+- android: '15.0'
+  codename: sheng
+  date: '2025-10-28'
+  download: https://bigota.d.miui.com/OS2.0.211.0.VNXEUXM/fw_sheng_sheng_eea_global-ota_full-OS2.0.211.0.VNXEUXM-user-15.0-d5826f6fb1.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS2.0.211.0.VNXEUXM
+- android: '15.0'
+  codename: sheng
+  date: '2025-10-28'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VNXMIXM/fw_sheng_sheng_global-ota_full-OS2.0.209.0.VNXMIXM-user-15.0-82c5c62a89.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS2.0.209.0.VNXMIXM
 - android: '15.0'
   codename: sheng
   date: '2025-05-28'
@@ -17554,6 +17590,12 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VOUCNXM/fw_spring_spring-ota_full-OS2.0.203.0.VOUCNXM-user-15.0-1301088748.zip
   name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
   version: OS2.0.203.0.VOUCNXM
+- android: '15.0'
+  codename: spring
+  date: '2025-10-28'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VOUMIXM/fw_spring_spring_global-ota_full-OS2.0.205.0.VOUMIXM-user-15.0-b652ad01b1.zip
+  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  version: OS2.0.205.0.VOUMIXM
 - android: '15.0'
   codename: spring
   date: '2025-08-27'
@@ -18922,6 +18964,18 @@
   download: https://bigota.d.miui.com/OS2.0.102.0.VOZINXM/fw_uke_in_global_uke_in_global-ota_full-OS2.0.102.0.VOZINXM-user-15.0-9a5617fd0a.zip
   name: Xiaomi Pad 7/POCO Pad X1
   version: OS2.0.102.0.VOZINXM
+- android: '15.0'
+  codename: uke
+  date: '2025-10-28'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VOZEUXM/fw_uke_uke_eea_global-ota_full-OS2.0.204.0.VOZEUXM-user-15.0-bf1cd286e2.zip
+  name: Xiaomi Pad 7/POCO Pad X1
+  version: OS2.0.204.0.VOZEUXM
+- android: '15.0'
+  codename: uke
+  date: '2025-10-28'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VOZINXM/fw_uke_uke_in_global-ota_full-OS2.0.202.0.VOZINXM-user-15.0-ba79e9ea0b.zip
+  name: Xiaomi Pad 7/POCO Pad X1
+  version: OS2.0.202.0.VOZINXM
 - android: '15.0'
   codename: uke
   date: '2025-04-28'
