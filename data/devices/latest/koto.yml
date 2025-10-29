@@ -9,15 +9,15 @@
     android: '15.0'
     miui: OS2.0.203.0.VOWMIXM
 - branch: stable
-  date: '2025-09-30'
+  date: '2025-10-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_koto/releases/download/stable-01.10.2025/fw_koto_eea_global_koto_eea_global-ota_full-OS2.0.204.0.VOWEUXM-user-15.0-3ef236311b.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/koto/fw_koto_eea_global_koto_eea_global-ota_full-OS2.0.204.0.VOWEUXM-user-15.0-3ef236311b.zip
-  filename: fw_koto_eea_global_koto_eea_global-ota_full-OS2.0.204.0.VOWEUXM-user-15.0-3ef236311b.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_koto/releases/download/stable-29.10.2025/fw_koto_koto_eea_global-ota_full-OS2.0.205.0.VOWEUXM-user-15.0-8dba936bb7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/koto/fw_koto_koto_eea_global-ota_full-OS2.0.205.0.VOWEUXM-user-15.0-8dba936bb7.zip
+  filename: fw_koto_koto_eea_global-ota_full-OS2.0.205.0.VOWEUXM-user-15.0-8dba936bb7.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.204.0.VOWEUXM
+    miui: OS2.0.205.0.VOWEUXM
 - branch: stable
   date: '2025-10-20'
   downloads:

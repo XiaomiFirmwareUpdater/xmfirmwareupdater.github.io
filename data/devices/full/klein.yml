@@ -39,6 +39,26 @@
     android: '15.0'
     miui: V816.0.2.0.VGSINXM
 - branch: stable
+  date: '2025-10-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klein/releases/download/stable-29.10.2025/fw_klein_miui_KLEINGlobal_V816.0.7.0.VGSMIXM_a80314fad4_15.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V816/klein/fw_klein_miui_KLEINGlobal_V816.0.7.0.VGSMIXM_a80314fad4_15.0.zip
+  filename: fw_klein_miui_KLEINGlobal_V816.0.7.0.VGSMIXM_a80314fad4_15.0.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: V816.0.7.0.VGSMIXM
+- branch: stable
+  date: '2025-10-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klein/releases/download/stable-29.10.2025/fw_klein_miui_KLEININGlobal_V816.0.8.0.VGSINXM_1baa146b2c_15.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V816/klein/fw_klein_miui_KLEININGlobal_V816.0.8.0.VGSINXM_1baa146b2c_15.0.zip
+  filename: fw_klein_miui_KLEININGlobal_V816.0.8.0.VGSINXM_1baa146b2c_15.0.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: V816.0.8.0.VGSINXM
+- branch: stable
   date: '2025-02-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klein/releases/download/stable-26.09.2024/fw_klein_miui_KLEINGlobal_V816.0.6.0.UGSMIXM_3c7f197952_14.0.zip

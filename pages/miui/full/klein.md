@@ -52,7 +52,11 @@ permalink: /archive/miui/klein/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi A3x Russia</td><td>Stable</td><td>Recovery</td><td>V816.0.6.0.VGSRUXM</td><td>15.0</td><td>2.8 GB</td><td>2025-10-13</td><td><a href="/miui/klein/stable/V816.0.6.0.VGSRUXM/">Download</a></td></tr>
+                <tr><td>Redmi A3x Global</td><td>Stable</td><td>Recovery</td><td>V816.0.7.0.VGSMIXM</td><td>15.0</td><td>2.9 GB</td><td>2025-10-29</td><td><a href="/miui/klein/stable/V816.0.7.0.VGSMIXM/">Download</a></td></tr>
+<tr><td>Redmi A3x Global</td><td>Stable</td><td>Fastboot</td><td>V816.0.7.0.VGSMIXM</td><td>15.0</td><td>4.7 GB</td><td>2025-10-20</td><td><a href="/miui/klein/stable/V816.0.7.0.VGSMIXM/">Download</a></td></tr>
+<tr><td>Redmi A3x India</td><td>Stable</td><td>Recovery</td><td>V816.0.8.0.VGSINXM</td><td>15.0</td><td>2.9 GB</td><td>2025-10-29</td><td><a href="/miui/klein/stable/V816.0.8.0.VGSINXM/">Download</a></td></tr>
+<tr><td>Redmi A3x India</td><td>Stable</td><td>Fastboot</td><td>V816.0.8.0.VGSINXM</td><td>15.0</td><td>3.7 GB</td><td>2025-10-20</td><td><a href="/miui/klein/stable/V816.0.8.0.VGSINXM/">Download</a></td></tr>
+<tr><td>Redmi A3x Russia</td><td>Stable</td><td>Recovery</td><td>V816.0.6.0.VGSRUXM</td><td>15.0</td><td>2.8 GB</td><td>2025-10-13</td><td><a href="/miui/klein/stable/V816.0.6.0.VGSRUXM/">Download</a></td></tr>
 <tr><td>Redmi A3x Russia</td><td>Stable</td><td>Fastboot</td><td>V816.0.6.0.VGSRUXM</td><td>15.0</td><td>4.4 GB</td><td>2025-09-29</td><td><a href="/miui/klein/stable/V816.0.6.0.VGSRUXM/">Download</a></td></tr>
 <tr><td>Redmi A3x India</td><td>Stable</td><td>Recovery</td><td>V816.0.7.0.VGSINXM</td><td>15.0</td><td>2.9 GB</td><td>2025-09-05</td><td><a href="/miui/klein/stable/V816.0.7.0.VGSINXM/">Download</a></td></tr>
 <tr><td>Redmi A3x India</td><td>Stable</td><td>Fastboot</td><td>V816.0.7.0.VGSINXM</td><td>15.0</td><td>3.7 GB</td><td>2025-08-21</td><td><a href="/miui/klein/stable/V816.0.7.0.VGSINXM/">Download</a></td></tr>

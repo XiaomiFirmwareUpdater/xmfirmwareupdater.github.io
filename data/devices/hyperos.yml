@@ -922,6 +922,12 @@
   download: https://bigota.d.miui.com/OS2.0.5.0.VNAMIXM/fw_aurora_global_aurora_global-ota_full-OS2.0.5.0.VNAMIXM-user-15.0-ca5dc3710f.zip
   name: Xiaomi 14 Ultra
   version: OS2.0.5.0.VNAMIXM
+- android: '15.0'
+  codename: aurora
+  date: '2025-10-29'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VNAMIXM/fw_aurora_aurora_global-ota_full-OS2.0.206.0.VNAMIXM-user-15.0-f8a3061610.zip
+  name: Xiaomi 14 Ultra
+  version: OS2.0.206.0.VNAMIXM
 - android: '14.0'
   codename: aurora
   date: '2024-05-29'
@@ -6172,6 +6178,12 @@
   download: https://bigota.d.miui.com/OS2.0.206.0.VNRCNXM/fw_garnet_garnet-ota_full-OS2.0.206.0.VNRCNXM-user-15.0-964b0c9f4f.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS2.0.206.0.VNRCNXM
+- android: '15.0'
+  codename: garnet
+  date: '2025-10-29'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNRMIXM/fw_garnet_garnet_global-ota_full-OS2.0.204.0.VNRMIXM-user-15.0-49eb38e23a.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS2.0.204.0.VNRMIXM
 - android: '14.0'
   codename: garnet
   date: '2024-10-29'
@@ -6688,6 +6700,12 @@
   download: https://bigota.d.miui.com/OS1.0.17.0.UNQINXM/fw_gold_miui_GOLDINGlobal_OS1.0.17.0.UNQINXM_d9ae4ffbdb_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: OS1.0.17.0.UNQINXM
+- android: '15.0'
+  codename: gold
+  date: '2025-10-29'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VNQMIXM/fw_gold_gold_global-ota_full-OS2.0.209.0.VNQMIXM-user-15.0-52de452494.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS2.0.209.0.VNQMIXM
 - android: '14.0'
   codename: gold
   date: '2024-05-29'
@@ -8512,6 +8530,12 @@
   download: https://bigota.d.miui.com/OS2.0.205.0.VOSMIXM/fw_klimt_global_klimt_global-ota_full-OS2.0.205.0.VOSMIXM-user-15.0-a97ad20a5e.zip
   name: Xiaomi 15T Pro
   version: OS2.0.205.0.VOSMIXM
+- android: '15.0'
+  codename: koto
+  date: '2025-10-29'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VOWEUXM/fw_koto_koto_eea_global-ota_full-OS2.0.205.0.VOWEUXM-user-15.0-8dba936bb7.zip
+  name: Redmi Pad 2 4G
+  version: OS2.0.205.0.VOWEUXM
 - android: '15.0'
   codename: koto
   date: '2025-08-29'
