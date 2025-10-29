@@ -9,22 +9,22 @@
     android: '15.0'
     miui: OS2.0.201.0.VLLMIXM
 - branch: stable
-  date: '2025-09-19'
+  date: '2025-10-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-19.09.2025/fw_ziyi_ziyi-ota_full-OS2.0.204.0.VLLCNXM-user-15.0-f031841310.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ziyi/fw_ziyi_ziyi-ota_full-OS2.0.204.0.VLLCNXM-user-15.0-f031841310.zip
-  filename: fw_ziyi_ziyi-ota_full-OS2.0.204.0.VLLCNXM-user-15.0-f031841310.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-29.10.2025/fw_ziyi_ziyi-ota_full-OS2.0.205.0.VLLCNXM-user-15.0-7222501388.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ziyi/fw_ziyi_ziyi-ota_full-OS2.0.205.0.VLLCNXM-user-15.0-7222501388.zip
+  filename: fw_ziyi_ziyi-ota_full-OS2.0.205.0.VLLCNXM-user-15.0-7222501388.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.204.0.VLLCNXM
+    miui: OS2.0.205.0.VLLCNXM
 - branch: stable
-  date: '2025-10-05'
+  date: '2025-10-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-05.10.2025/fw_ziyi_ziyi_eea_global-ota_full-OS2.0.201.0.VLLEUXM-user-15.0-02625b2d64.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ziyi/fw_ziyi_ziyi_eea_global-ota_full-OS2.0.201.0.VLLEUXM-user-15.0-02625b2d64.zip
-  filename: fw_ziyi_ziyi_eea_global-ota_full-OS2.0.201.0.VLLEUXM-user-15.0-02625b2d64.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-29.10.2025/fw_ziyi_ziyi_eea_global-ota_full-OS2.0.202.0.VLLEUXM-user-15.0-57656d737f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ziyi/fw_ziyi_ziyi_eea_global-ota_full-OS2.0.202.0.VLLEUXM-user-15.0-57656d737f.zip
+  filename: fw_ziyi_ziyi_eea_global-ota_full-OS2.0.202.0.VLLEUXM-user-15.0-57656d737f.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.201.0.VLLEUXM
+    miui: OS2.0.202.0.VLLEUXM
