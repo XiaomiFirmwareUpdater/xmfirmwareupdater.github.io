@@ -63,10 +63,10 @@ permalink: /hyperos/onyx/
 <tr><td>POCO F7 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VOLIDXM</td><td>15.0</td><td>6.9 GB</td><td>2025-09-17</td><td><a href="/hyperos/onyx/stable/OS2.0.202.0.VOLIDXM/">Download</a></td></tr>
 <tr><td>POCO F7 India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VOLINXM</td><td>15.0</td><td>8.7 GB</td><td>2025-08-22</td><td><a href="/hyperos/onyx/stable/OS2.0.201.0.VOLINXM/">Download</a></td></tr>
 <tr><td>POCO F7 India</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VOLINXM</td><td>15.0</td><td>6.7 GB</td><td>2025-08-29</td><td><a href="/hyperos/onyx/stable/OS2.0.201.0.VOLINXM/">Download</a></td></tr>
-<tr><td>POCO F7 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VOLRUXM</td><td>15.0</td><td>10.2 GB</td><td>2025-08-21</td><td><a href="/hyperos/onyx/stable/OS2.0.202.0.VOLRUXM/">Download</a></td></tr>
-<tr><td>POCO F7 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VOLRUXM</td><td>15.0</td><td>6.8 GB</td><td>2025-08-29</td><td><a href="/hyperos/onyx/stable/OS2.0.202.0.VOLRUXM/">Download</a></td></tr>
-<tr><td>POCO F7 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VOLTWXM</td><td>15.0</td><td>7.8 GB</td><td>2025-08-19</td><td><a href="/hyperos/onyx/stable/OS2.0.201.0.VOLTWXM/">Download</a></td></tr>
-<tr><td>POCO F7 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VOLTWXM</td><td>15.0</td><td>6.7 GB</td><td>2025-08-29</td><td><a href="/hyperos/onyx/stable/OS2.0.201.0.VOLTWXM/">Download</a></td></tr>
+<tr><td>POCO F7 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VOLRUXM</td><td>15.0</td><td>10.2 GB</td><td>2025-10-15</td><td><a href="/hyperos/onyx/stable/OS2.0.203.0.VOLRUXM/">Download</a></td></tr>
+<tr><td>POCO F7 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VOLRUXM</td><td>15.0</td><td>6.8 GB</td><td>2025-10-27</td><td><a href="/hyperos/onyx/stable/OS2.0.203.0.VOLRUXM/">Download</a></td></tr>
+<tr><td>POCO F7 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VOLTWXM</td><td>15.0</td><td>7.8 GB</td><td>2025-10-15</td><td><a href="/hyperos/onyx/stable/OS2.0.202.0.VOLTWXM/">Download</a></td></tr>
+<tr><td>POCO F7 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VOLTWXM</td><td>15.0</td><td>6.7 GB</td><td>2025-10-27</td><td><a href="/hyperos/onyx/stable/OS2.0.202.0.VOLTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
