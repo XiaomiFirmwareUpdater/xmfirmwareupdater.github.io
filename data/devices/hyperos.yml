@@ -900,6 +900,12 @@
   version: OS1.0.5.0.UMFEUXM
 - android: '15.0'
   codename: aurora
+  date: '2025-10-30'
+  download: https://bigota.d.miui.com/OS2.0.213.0.VNACNXM/fw_aurora_aurora-ota_full-OS2.0.213.0.VNACNXM-user-15.0-1a039ac8c1.zip
+  name: Xiaomi 14 Ultra
+  version: OS2.0.213.0.VNACNXM
+- android: '15.0'
+  codename: aurora
   date: '2025-07-31'
   download: https://bigota.d.miui.com/OS2.0.209.0.VNACNXM/fw_aurora_aurora-ota_full-OS2.0.209.0.VNACNXM-user-15.0-5813f4d571.zip
   name: Xiaomi 14 Ultra
@@ -8562,6 +8568,12 @@
   version: OS2.0.205.0.VOSMIXM
 - android: '15.0'
   codename: koto
+  date: '2025-10-30'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VOWMIXM/fw_koto_koto_global-ota_full-OS2.0.204.0.VOWMIXM-user-15.0-f6bb6199a9.zip
+  name: Redmi Pad 2 4G
+  version: OS2.0.204.0.VOWMIXM
+- android: '15.0'
+  codename: koto
   date: '2025-10-29'
   download: https://bigota.d.miui.com/OS2.0.205.0.VOWEUXM/fw_koto_koto_eea_global-ota_full-OS2.0.205.0.VOWEUXM-user-15.0-8dba936bb7.zip
   name: Redmi Pad 2 4G
@@ -10564,6 +10576,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.TKVCNXM/fw_mona_miui_MONA_OS1.0.2.0.TKVCNXM_697bd03a16_13.0.zip
   name: Xiaomi Civi
   version: OS1.0.2.0.TKVCNXM
+- android: '15.0'
+  codename: mondrian
+  date: '2025-10-30'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VMNEUXM/fw_mondrian_mondrian_eea_global-ota_full-OS2.0.205.0.VMNEUXM-user-15.0-c1127c879b.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS2.0.205.0.VMNEUXM
 - android: '15.0'
   codename: mondrian
   date: '2025-08-31'
@@ -15844,6 +15862,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UMOEUXM/fw_ruby_miui_RUBYEEAGlobal_OS1.0.1.0.UMOEUXM_d22f47926d_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: OS1.0.1.0.UMOEUXM
+- android: '15.0'
+  codename: ruyi
+  date: '2025-10-30'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VNIMIXM/fw_ruyi_ruyi_global-ota_full-OS2.0.208.0.VNIMIXM-user-15.0-6c25dc16e9.zip
+  name: MIX Flip
+  version: OS2.0.208.0.VNIMIXM
 - android: '15.0'
   codename: ruyi
   date: '2025-08-31'

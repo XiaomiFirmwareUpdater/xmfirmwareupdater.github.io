@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-10-04'
+  date: '2025-10-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-04.10.2025/fw_ruyi_ruyi_global-ota_full-OS2.0.207.0.VNIMIXM-user-15.0-931c244f28.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruyi/fw_ruyi_ruyi_global-ota_full-OS2.0.207.0.VNIMIXM-user-15.0-931c244f28.zip
-  filename: fw_ruyi_ruyi_global-ota_full-OS2.0.207.0.VNIMIXM-user-15.0-931c244f28.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-31.10.2025/fw_ruyi_ruyi_global-ota_full-OS2.0.208.0.VNIMIXM-user-15.0-6c25dc16e9.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruyi/fw_ruyi_ruyi_global-ota_full-OS2.0.208.0.VNIMIXM-user-15.0-6c25dc16e9.zip
+  filename: fw_ruyi_ruyi_global-ota_full-OS2.0.208.0.VNIMIXM-user-15.0-6c25dc16e9.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.207.0.VNIMIXM
+    miui: OS2.0.208.0.VNIMIXM
 - branch: stable
   date: '2025-10-20'
   downloads:
