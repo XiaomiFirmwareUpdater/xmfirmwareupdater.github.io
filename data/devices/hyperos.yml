@@ -1914,6 +1914,12 @@
   version: OS2.0.105.0.VNJINXM
 - android: '15.0'
   codename: chenfeng
+  date: '2025-10-30'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VNJINXM/fw_chenfeng_chenfeng_in_global-ota_full-OS2.0.207.0.VNJINXM-user-15.0-a2bfb3de6b.zip
+  name: Xiaomi Civi 4 Pro
+  version: OS2.0.207.0.VNJINXM
+- android: '15.0'
+  codename: chenfeng
   date: '2025-06-30'
   download: https://bigota.d.miui.com/OS2.0.106.0.VNJINXM/fw_chenfeng_in_global_chenfeng_in_global-ota_full-OS2.0.106.0.VNJINXM-user-15.0-ec7e9598cd.zip
   name: Xiaomi Civi 4 Pro
@@ -2122,6 +2128,18 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UMLMIXM/fw_corot_miui_COROTGlobal_OS1.0.10.0.UMLMIXM_4f5d0387ce_14.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
   version: OS1.0.10.0.UMLMIXM
+- android: '15.0'
+  codename: corot
+  date: '2025-10-30'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VMLEUXM/fw_corot_corot_eea_global-ota_full-OS2.0.207.0.VMLEUXM-user-15.0-67ed5bdc40.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS2.0.207.0.VMLEUXM
+- android: '15.0'
+  codename: corot
+  date: '2025-10-30'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VMLMIXM/fw_corot_corot_global-ota_full-OS2.0.203.0.VMLMIXM-user-15.0-7dac96db6a.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS2.0.203.0.VMLMIXM
 - android: '15.0'
   codename: corot
   date: '2025-08-30'
@@ -12306,6 +12324,12 @@
   version: OS2.0.209.0.VOLCNXM
 - android: '15.0'
   codename: onyx
+  date: '2025-10-30'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VOLEUXM/fw_onyx_onyx_eea_global-ota_full-OS2.0.207.0.VOLEUXM-user-15.0-1f0791d2d1.zip
+  name: Redmi Turbo 4 Pro/POCO F7
+  version: OS2.0.207.0.VOLEUXM
+- android: '15.0'
+  codename: onyx
   date: '2025-04-30'
   download: https://bigota.d.miui.com/OS2.0.121.0.VOLCNXM/fw_onyx_onyx-ota_full-OS2.0.121.0.VOLCNXM-user-15.0-834ed85d6d.zip
   name: Redmi Turbo 4 Pro/POCO F7
@@ -12592,6 +12616,12 @@
   download: https://bigota.d.miui.com/OS2.0.204.0.VNPMIXM/fw_peridot_global_peridot_global-ota_full-OS2.0.204.0.VNPMIXM-user-15.0-13c6a9ca52.zip
   name: Redmi Turbo 3/POCO F6
   version: OS2.0.204.0.VNPMIXM
+- android: '15.0'
+  codename: peridot
+  date: '2025-10-30'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VNPMIXM/fw_peridot_peridot_global-ota_full-OS2.0.206.0.VNPMIXM-user-15.0-a3cdb89640.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS2.0.206.0.VNPMIXM
 - android: '15.0'
   codename: peridot
   date: '2025-09-29'
@@ -20344,6 +20374,12 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.ULOMIXM/fw_xaga_global_xaga_global-ota_full-OS2.0.2.0.ULOMIXM-user-14.0-210a53d8de.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: OS2.0.2.0.ULOMIXM
+- android: '14.0'
+  codename: xaga
+  date: '2025-10-30'
+  download: https://bigota.d.miui.com/OS2.0.12.0.ULOCNXM/fw_xaga_xaga-ota_full-OS2.0.12.0.ULOCNXM-user-14.0-5c4e2efff9.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: OS2.0.12.0.ULOCNXM
 - android: '14.0'
   codename: xaga
   date: '2024-08-29'

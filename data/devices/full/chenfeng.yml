@@ -19,6 +19,16 @@
     android: '15.0'
     miui: OS2.0.105.0.VNJINXM
 - branch: stable
+  date: '2025-10-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-30.10.2025/fw_chenfeng_chenfeng_in_global-ota_full-OS2.0.207.0.VNJINXM-user-15.0-a2bfb3de6b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/chenfeng/fw_chenfeng_chenfeng_in_global-ota_full-OS2.0.207.0.VNJINXM-user-15.0-a2bfb3de6b.zip
+  filename: fw_chenfeng_chenfeng_in_global-ota_full-OS2.0.207.0.VNJINXM-user-15.0-a2bfb3de6b.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.207.0.VNJINXM
+- branch: stable
   date: '2025-06-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-30.06.2025/fw_chenfeng_in_global_chenfeng_in_global-ota_full-OS2.0.106.0.VNJINXM-user-15.0-ec7e9598cd.zip
