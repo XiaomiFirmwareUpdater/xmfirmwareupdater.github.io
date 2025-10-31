@@ -66,10 +66,10 @@ permalink: /hyperos/dizi/
 <tr><td>Redmi Pad Pro / POCO Pad India</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VNSINXM</td><td>15.0</td><td>4.7 GB</td><td>2025-10-20</td><td><a href="/hyperos/dizi/stable/OS2.0.204.0.VNSINXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro / POCO Pad Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VNSRUXM</td><td>15.0</td><td>6.5 GB</td><td>2025-09-12</td><td><a href="/hyperos/dizi/stable/OS2.0.203.0.VNSRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro / POCO Pad Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VNSRUXM</td><td>15.0</td><td>4.7 GB</td><td>2025-09-18</td><td><a href="/hyperos/dizi/stable/OS2.0.203.0.VNSRUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Pro / POCO Pad Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VNSTRXM</td><td>15.0</td><td>5.8 GB</td><td>2025-09-15</td><td><a href="/hyperos/dizi/stable/OS2.0.203.0.VNSTRXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Pro / POCO Pad Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VNSTRXM</td><td>15.0</td><td>4.8 GB</td><td>2025-09-22</td><td><a href="/hyperos/dizi/stable/OS2.0.203.0.VNSTRXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Pro / POCO Pad Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VNSTWXM</td><td>15.0</td><td>5.5 GB</td><td>2025-09-15</td><td><a href="/hyperos/dizi/stable/OS2.0.203.0.VNSTWXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Pro / POCO Pad Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VNSTWXM</td><td>15.0</td><td>4.7 GB</td><td>2025-09-22</td><td><a href="/hyperos/dizi/stable/OS2.0.203.0.VNSTWXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro / POCO Pad Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VNSTRXM</td><td>15.0</td><td>5.9 GB</td><td>2025-10-17</td><td><a href="/hyperos/dizi/stable/OS2.0.204.0.VNSTRXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro / POCO Pad Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VNSTRXM</td><td>15.0</td><td>4.8 GB</td><td>2025-10-23</td><td><a href="/hyperos/dizi/stable/OS2.0.204.0.VNSTRXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro / POCO Pad Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VNSTWXM</td><td>15.0</td><td>5.5 GB</td><td>2025-10-17</td><td><a href="/hyperos/dizi/stable/OS2.0.204.0.VNSTWXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro / POCO Pad Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VNSTWXM</td><td>15.0</td><td>4.7 GB</td><td>2025-10-23</td><td><a href="/hyperos/dizi/stable/OS2.0.204.0.VNSTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
