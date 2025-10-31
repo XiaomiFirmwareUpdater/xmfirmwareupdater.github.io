@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-09-30'
+  date: '2025-10-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-30.09.2025/fw_nuwa_global_nuwa_global-ota_full-OS2.0.201.0.VMBMIXM-user-15.0-fad01de483.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/nuwa/fw_nuwa_global_nuwa_global-ota_full-OS2.0.201.0.VMBMIXM-user-15.0-fad01de483.zip
-  filename: fw_nuwa_global_nuwa_global-ota_full-OS2.0.201.0.VMBMIXM-user-15.0-fad01de483.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-31.10.2025/fw_nuwa_nuwa_global-ota_full-OS2.0.203.0.VMBMIXM-user-15.0-62d8547e5c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/nuwa/fw_nuwa_nuwa_global-ota_full-OS2.0.203.0.VMBMIXM-user-15.0-62d8547e5c.zip
+  filename: fw_nuwa_nuwa_global-ota_full-OS2.0.203.0.VMBMIXM-user-15.0-62d8547e5c.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.201.0.VMBMIXM
+    miui: OS2.0.203.0.VMBMIXM
 - branch: stable
   date: '2025-09-30'
   downloads:

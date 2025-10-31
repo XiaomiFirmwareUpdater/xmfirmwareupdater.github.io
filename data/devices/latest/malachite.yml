@@ -19,15 +19,15 @@
     android: '15.0'
     miui: OS2.0.211.0.VOOCNXM
 - branch: stable
-  date: '2025-08-28'
+  date: '2025-10-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-28.08.2025/fw_malachite_eea_global_malachite_eea_global-ota_full-OS2.0.208.0.VOOEUXM-user-15.0-3d3fbfd4fb.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/malachite/fw_malachite_eea_global_malachite_eea_global-ota_full-OS2.0.208.0.VOOEUXM-user-15.0-3d3fbfd4fb.zip
-  filename: fw_malachite_eea_global_malachite_eea_global-ota_full-OS2.0.208.0.VOOEUXM-user-15.0-3d3fbfd4fb.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-31.10.2025/fw_malachite_malachite_eea_global-ota_full-OS2.0.211.0.VOOEUXM-user-15.0-86ed443dda.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/malachite/fw_malachite_malachite_eea_global-ota_full-OS2.0.211.0.VOOEUXM-user-15.0-86ed443dda.zip
+  filename: fw_malachite_malachite_eea_global-ota_full-OS2.0.211.0.VOOEUXM-user-15.0-86ed443dda.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.208.0.VOOEUXM
+    miui: OS2.0.211.0.VOOEUXM
 - branch: stable
   date: '2025-10-28'
   downloads:

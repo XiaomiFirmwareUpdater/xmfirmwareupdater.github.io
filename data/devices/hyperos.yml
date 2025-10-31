@@ -2136,6 +2136,12 @@
   version: OS1.0.10.0.UMLMIXM
 - android: '15.0'
   codename: corot
+  date: '2025-10-31'
+  download: https://bigota.d.miui.com/OS2.0.210.0.VMLCNXM/fw_corot_corot-ota_full-OS2.0.210.0.VMLCNXM-user-15.0-d36db44c1d.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS2.0.210.0.VMLCNXM
+- android: '15.0'
+  codename: corot
   date: '2025-10-30'
   download: https://bigota.d.miui.com/OS2.0.207.0.VMLEUXM/fw_corot_corot_eea_global-ota_full-OS2.0.207.0.VMLEUXM-user-15.0-67ed5bdc40.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
@@ -3204,6 +3210,12 @@
   version: OS2.0.2.0.VNEMIXM
 - android: '15.0'
   codename: degas
+  date: '2025-10-31'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VNEMIXM/fw_degas_degas_global-ota_full-OS2.0.205.0.VNEMIXM-user-15.0-d3339cfc3d.zip
+  name: Xiaomi 14T
+  version: OS2.0.205.0.VNEMIXM
+- android: '15.0'
+  codename: degas
   date: '2025-08-31'
   download: https://bigota.d.miui.com/OS2.0.205.0.VNEEUXM/fw_degas_eea_global_degas_eea_global-ota_full-OS2.0.205.0.VNEEUXM-user-15.0-4e38355fd2.zip
   name: Xiaomi 14T
@@ -4072,6 +4084,12 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.VNSEUXM/fw_dizi_eea_global_dizi_eea_global-ota_full-OS2.0.3.0.VNSEUXM-user-15.0-1aa8eacd37.zip
   name: Redmi Pad Pro/POCO Pad
   version: OS2.0.3.0.VNSEUXM
+- android: '15.0'
+  codename: duchamp
+  date: '2025-10-31'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VNLINXM/fw_duchamp_duchamp_in_global-ota_full-OS2.0.207.0.VNLINXM-user-15.0-f19ce594a3.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS2.0.207.0.VNLINXM
 - android: '15.0'
   codename: duchamp
   date: '2025-08-31'
@@ -7188,6 +7206,12 @@
   version: OS1.0.8.0.UNQMIXM
 - android: '15.0'
   codename: goya
+  date: '2025-10-31'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VOEEUXM/fw_goya_goya_eea_global-ota_full-OS2.0.209.0.VOEEUXM-user-15.0-83555c9bb0.zip
+  name: Xiaomi 15T
+  version: OS2.0.209.0.VOEEUXM
+- android: '15.0'
+  codename: goya
   date: '2025-09-24'
   download: https://bigota.d.miui.com/OS2.0.208.0.VOEEUXM/fw_goya_eea_global_goya_eea_global-ota_full-OS2.0.208.0.VOEEUXM-user-15.0-10bea4ea06.zip
   name: Xiaomi 15T
@@ -9436,6 +9460,12 @@
   download: https://bigota.d.miui.com/OS2.0.204.0.VOICNXM/fw_luming_luming-ota_full-OS2.0.204.0.VOICNXM-user-15.0-a8d2a6676f.zip
   name: Xiaomi Civi 5 Pro
   version: OS2.0.204.0.VOICNXM
+- android: '15.0'
+  codename: malachite
+  date: '2025-10-31'
+  download: https://bigota.d.miui.com/OS2.0.211.0.VOOEUXM/fw_malachite_malachite_eea_global-ota_full-OS2.0.211.0.VOOEUXM-user-15.0-86ed443dda.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS2.0.211.0.VOOEUXM
 - android: '15.0'
   codename: malachite
   date: '2025-09-30'
@@ -11826,6 +11856,12 @@
   version: OS1.0.3.0.TKXCNXM
 - android: '15.0'
   codename: nuwa
+  date: '2025-10-31'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VMBMIXM/fw_nuwa_nuwa_global-ota_full-OS2.0.203.0.VMBMIXM-user-15.0-62d8547e5c.zip
+  name: Xiaomi 13 Pro
+  version: OS2.0.203.0.VMBMIXM
+- android: '15.0'
+  codename: nuwa
   date: '2025-08-31'
   download: https://bigota.d.miui.com/OS2.0.212.0.VMBCNXM/fw_nuwa_nuwa-ota_full-OS2.0.212.0.VMBCNXM-user-15.0-539dd64054.zip
   name: Xiaomi 13 Pro
@@ -12346,6 +12382,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UKMCNXM/fw_odin_miui_ODIN_OS1.0.2.0.UKMCNXM_af3b0d3530_14.0.zip
   name: MIX 4
   version: OS1.0.2.0.UKMCNXM
+- android: '15.0'
+  codename: onyx
+  date: '2025-10-31'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VOLINXM/fw_onyx_onyx_in_global-ota_full-OS2.0.205.0.VOLINXM-user-15.0-34e6fb6cbf.zip
+  name: Redmi Turbo 4 Pro/POCO F7
+  version: OS2.0.205.0.VOLINXM
 - android: '15.0'
   codename: onyx
   date: '2025-08-31'
@@ -18628,6 +18670,12 @@
   download: https://bigota.d.miui.com/OS1.0.14.0.ULIMIXM/fw_taoyao_miui_TAOYAOGlobal_OS1.0.14.0.ULIMIXM_18973182a0_14.0.zip
   name: Xiaomi 12 Lite
   version: OS1.0.14.0.ULIMIXM
+- android: '15.0'
+  codename: tapas
+  date: '2025-10-31'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VMTINXM/fw_tapas_tapas_in_global-ota_full-OS2.0.202.0.VMTINXM-user-15.0-9bb0471cce.zip
+  name: Redmi Note 12 4G
+  version: OS2.0.202.0.VMTINXM
 - android: '15.0'
   codename: tapas
   date: '2024-12-30'
