@@ -4,11 +4,51 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 31 Oct 2025 18:45:34 </lastBuildDate>
+        <lastBuildDate>Sat, 01 Nov 2025 03:33:40 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.210.0.VMRMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
+            <pubDate>Sat, 01 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.206.0.VMRINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
+            <pubDate>Sat, 01 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>POCO X5 5G (moonstone) - OS1.0.24.0.UMPMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/moonstone/</link>
+            <pubDate>Sat, 01 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - OS2.0.205.0.VMBEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Sat, 01 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - OS2.0.202.0.VMBINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Sat, 01 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.14.0.UMOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Sat, 01 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS2.0.204.0.VOPINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
+            <pubDate>Fri, 31 Oct 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.210.0.VMLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/corot/</link>
+            <pubDate>Fri, 31 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 (dada) - OS2.0.204.0.VOCINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
             <pubDate>Fri, 31 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -17,13 +57,33 @@
             <pubDate>Fri, 31 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Pad Pro/POCO Pad (dizi) - OS2.0.205.0.VNSCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
+            <pubDate>Fri, 31 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.206.0.VNLMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Fri, 31 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.207.0.VNLINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Fri, 31 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 13 (fuxi) - OS2.0.203.0.VMCEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
+            <pubDate>Fri, 31 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Xiaomi 15T (goya) - OS2.0.209.0.VOEEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/goya/</link>
+            <pubDate>Fri, 31 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 (houji) - OS2.0.206.0.VNCINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/houji/</link>
             <pubDate>Fri, 31 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -34,6 +94,16 @@
         <item>
             <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS2.0.211.0.VOOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
+            <pubDate>Fri, 31 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.210.0.VMRCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
+            <pubDate>Fri, 31 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.207.0.VMREUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
             <pubDate>Fri, 31 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -792,11 +862,6 @@
             <pubDate>Mon, 20 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>POCO X5 5G (moonstone) - OS1.0.23.0.UMPMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/moonstone/</link>
-            <pubDate>Mon, 20 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>POCO X5 5G (moonstone) - OS1.0.22.0.UMPEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moonstone/</link>
             <pubDate>Mon, 20 Oct 2025 00:00:00 </pubDate>
@@ -1002,11 +1067,6 @@
             <pubDate>Sat, 04 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.12.0.UMOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Sat, 04 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 (sapphire) - OS2.0.205.0.VNGMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sapphire/</link>
             <pubDate>Sat, 04 Oct 2025 00:00:00 </pubDate>
@@ -1057,21 +1117,6 @@
             <pubDate>Tue, 30 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 14 (houji) - OS2.0.205.0.VNCINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/houji/</link>
-            <pubDate>Tue, 30 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.209.0.VMRMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Tue, 30 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.209.0.VMRCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Tue, 30 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS2.0.206.0.VMNMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
             <pubDate>Tue, 30 Sep 2025 00:00:00 </pubDate>
@@ -1080,21 +1125,6 @@
             <title>Xiaomi 13 Pro (nuwa) - OS2.0.215.0.VMBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Tue, 30 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Pro (nuwa) - OS2.0.203.0.VMBEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Tue, 30 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Pro (nuwa) - OS2.0.201.0.VMBINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Tue, 30 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad Pro/POCO Pad (dizi) - OS2.0.204.0.VNSCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
-            <pubDate>Mon, 29 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 15/POCO M7 (creek) - OS2.0.204.0.VBOIDXM</title>
@@ -1212,11 +1242,6 @@
             <pubDate>Fri, 19 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 15 (dada) - OS2.0.202.0.VOCINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
-            <pubDate>Thu, 18 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.24.0.TGOINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/water/</link>
             <pubDate>Thu, 18 Sep 2025 00:00:00 </pubDate>
@@ -1229,11 +1254,6 @@
         <item>
             <title>Xiaomi 11T (agate) - OS1.0.19.0.UKWEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/agate/</link>
-            <pubDate>Mon, 15 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 (fuxi) - OS2.0.202.0.VMCEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
             <pubDate>Mon, 15 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1267,16 +1287,6 @@
             <pubDate>Mon, 08 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.206.0.VMREUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Mon, 08 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.205.0.VMRINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Mon, 08 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS2.0.4.0.UMQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Mon, 08 Sep 2025 00:00:00 </pubDate>
@@ -1307,11 +1317,6 @@
             <pubDate>Thu, 04 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS2.0.203.0.VOPINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
-            <pubDate>Wed, 03 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.8.0.UKOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
             <pubDate>Tue, 02 Sep 2025 00:00:00 </pubDate>
@@ -1330,11 +1335,6 @@
             <title>Redmi Pad SE (xun) - OS2.0.202.0.VMUEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xun/</link>
             <pubDate>Mon, 01 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.204.0.VNLMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Sun, 31 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 12S (mayfly) - OS2.0.204.0.VLTCNXM</title>

@@ -29,12 +29,12 @@
     android: '15.0'
     miui: OS2.0.110.0.VNCEUXM
 - branch: stable
-  date: '2025-09-30'
+  date: '2025-10-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-01.10.2025/fw_houji_in_global_houji_in_global-ota_full-OS2.0.205.0.VNCINXM-user-15.0-518bf28c33.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_in_global_houji_in_global-ota_full-OS2.0.205.0.VNCINXM-user-15.0-518bf28c33.zip
-  filename: fw_houji_in_global_houji_in_global-ota_full-OS2.0.205.0.VNCINXM-user-15.0-518bf28c33.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-01.11.2025/fw_houji_houji_in_global-ota_full-OS2.0.206.0.VNCINXM-user-15.0-1ec10ad4a2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_houji_in_global-ota_full-OS2.0.206.0.VNCINXM-user-15.0-1ec10ad4a2.zip
+  filename: fw_houji_houji_in_global-ota_full-OS2.0.206.0.VNCINXM-user-15.0-1ec10ad4a2.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.205.0.VNCINXM
+    miui: OS2.0.206.0.VNCINXM

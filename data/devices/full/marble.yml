@@ -869,6 +869,46 @@
     android: '14.0'
     miui: OS1.0.9.0.UMRINXM
 - branch: stable
+  date: '2025-10-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-01.11.2025/fw_marble_marble-ota_full-OS2.0.210.0.VMRCNXM-user-15.0-f5d6ffba6e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/marble/fw_marble_marble-ota_full-OS2.0.210.0.VMRCNXM-user-15.0-f5d6ffba6e.zip
+  filename: fw_marble_marble-ota_full-OS2.0.210.0.VMRCNXM-user-15.0-f5d6ffba6e.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.210.0.VMRCNXM
+- branch: stable
+  date: '2025-10-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-01.11.2025/fw_marble_marble_eea_global-ota_full-OS2.0.207.0.VMREUXM-user-15.0-8a5de5d65f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/marble/fw_marble_marble_eea_global-ota_full-OS2.0.207.0.VMREUXM-user-15.0-8a5de5d65f.zip
+  filename: fw_marble_marble_eea_global-ota_full-OS2.0.207.0.VMREUXM-user-15.0-8a5de5d65f.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.207.0.VMREUXM
+- branch: stable
+  date: '2025-11-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-01.11.2025/fw_marble_marble_global-ota_full-OS2.0.210.0.VMRMIXM-user-15.0-a47031ce42.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/marble/fw_marble_marble_global-ota_full-OS2.0.210.0.VMRMIXM-user-15.0-a47031ce42.zip
+  filename: fw_marble_marble_global-ota_full-OS2.0.210.0.VMRMIXM-user-15.0-a47031ce42.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.210.0.VMRMIXM
+- branch: stable
+  date: '2025-11-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-01.11.2025/fw_marble_marble_in_global-ota_full-OS2.0.206.0.VMRINXM-user-15.0-439b7fd3c5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/marble/fw_marble_marble_in_global-ota_full-OS2.0.206.0.VMRINXM-user-15.0-439b7fd3c5.zip
+  filename: fw_marble_marble_in_global-ota_full-OS2.0.206.0.VMRINXM-user-15.0-439b7fd3c5.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.206.0.VMRINXM
+- branch: stable
   date: '2025-09-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-01.10.2025/fw_marble_global_marble_global-ota_full-OS2.0.209.0.VMRMIXM-user-15.0-65bddf0f46.zip
