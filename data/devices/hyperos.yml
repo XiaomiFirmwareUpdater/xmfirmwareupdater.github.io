@@ -8040,6 +8040,12 @@
   version: OS2.0.6.0.VNCEUXM
 - android: '15.0'
   codename: houji
+  date: '2025-11-01'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VNCMIXM/fw_houji_houji_global-ota_full-OS2.0.205.0.VNCMIXM-user-15.0-b1144eb11d.zip
+  name: Xiaomi 14
+  version: OS2.0.205.0.VNCMIXM
+- android: '15.0'
+  codename: houji
   date: '2025-10-31'
   download: https://bigota.d.miui.com/OS2.0.206.0.VNCINXM/fw_houji_houji_in_global-ota_full-OS2.0.206.0.VNCINXM-user-15.0-1ec10ad4a2.zip
   name: Xiaomi 14
