@@ -18,3 +18,13 @@
   versions:
     android: '15.0'
     miui: OS2.0.207.0.VPWEUXM
+- branch: stable
+  date: '2025-11-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flute/releases/download/stable-02.11.2025/fw_flute_flute_eea_global-ota_full-OS2.0.209.0.VPWEUXM-user-15.0-fc3baee340.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/flute/fw_flute_flute_eea_global-ota_full-OS2.0.209.0.VPWEUXM-user-15.0-fc3baee340.zip
+  filename: fw_flute_flute_eea_global-ota_full-OS2.0.209.0.VPWEUXM-user-15.0-fc3baee340.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.209.0.VPWEUXM
