@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 02 Nov 2025 13:12:49 </lastBuildDate>
+        <lastBuildDate>Sun, 02 Nov 2025 18:46:30 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS2.0.209.0.VPWEUXM</title>
@@ -14,6 +14,11 @@
         <item>
             <title>Xiaomi 13 (fuxi) - OS2.0.202.0.VMCMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
+            <pubDate>Sun, 02 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15T (goya) - OS2.0.207.0.VOEMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/goya/</link>
             <pubDate>Sun, 02 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1179,11 +1184,6 @@
         <item>
             <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS1.0.18.0.UGUCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flame/</link>
-            <pubDate>Wed, 24 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15T (goya) - OS2.0.206.0.VOEMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/goya/</link>
             <pubDate>Wed, 24 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>

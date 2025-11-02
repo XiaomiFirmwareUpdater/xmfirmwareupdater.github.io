@@ -7265,6 +7265,12 @@
   name: Xiaomi 15T
   version: OS2.0.206.0.VOEMIXM
 - android: '15.0'
+  codename: goya
+  date: '2025-11-02'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VOEMIXM/fw_goya_goya_global-ota_full-OS2.0.207.0.VOEMIXM-user-15.0-28ac5e040b.zip
+  name: Xiaomi 15T
+  version: OS2.0.207.0.VOEMIXM
+- android: '15.0'
   codename: haotian
   date: '2024-12-30'
   download: https://bigota.d.miui.com/OS2.0.28.0.VOBCNXM/fw_haotian_haotian-ota_full-OS2.0.28.0.VOBCNXM-user-15.0-862b05f803.zip

@@ -28,3 +28,13 @@
   versions:
     android: '15.0'
     miui: OS2.0.206.0.VOEMIXM
+- branch: stable
+  date: '2025-11-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-02.11.2025/fw_goya_goya_global-ota_full-OS2.0.207.0.VOEMIXM-user-15.0-28ac5e040b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/goya/fw_goya_goya_global-ota_full-OS2.0.207.0.VOEMIXM-user-15.0-28ac5e040b.zip
+  filename: fw_goya_goya_global-ota_full-OS2.0.207.0.VOEMIXM-user-15.0-28ac5e040b.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.207.0.VOEMIXM
