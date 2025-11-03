@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 03 Nov 2025 07:19:42 </lastBuildDate>
+        <lastBuildDate>Mon, 03 Nov 2025 13:26:47 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.14.0.UCVMIXM</title>
@@ -17,8 +17,23 @@
             <pubDate>Mon, 03 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Pad SE 8.7 5G (flare) - OS2.0.203.0.VHXMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
+            <pubDate>Mon, 03 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE 8.7 4G (spark) - OS2.0.203.0.VHYMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/spark/</link>
+            <pubDate>Mon, 03 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS2.0.206.0.VOUINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spring/</link>
+            <pubDate>Mon, 03 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.207.0.VOAEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Mon, 03 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1262,11 +1277,6 @@
             <pubDate>Mon, 15 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.205.0.VOAEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
-            <pubDate>Fri, 12 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS2.0.204.0.VMWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sky/</link>
             <pubDate>Thu, 11 Sep 2025 00:00:00 </pubDate>
@@ -1342,18 +1352,8 @@
             <pubDate>Sun, 31 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad SE 8.7 5G (flare) - OS2.0.202.0.VHXMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
-            <pubDate>Sat, 30 Aug 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad SE 8.7 5G (flare) - OS2.0.203.0.VHXEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flare/</link>
-            <pubDate>Sat, 30 Aug 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad SE 8.7 4G (spark) - OS2.0.202.0.VHYMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/spark/</link>
             <pubDate>Sat, 30 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>

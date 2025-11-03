@@ -289,6 +289,16 @@
     android: '15.0'
     miui: OS2.0.104.0.VOAEUXM
 - branch: stable
+  date: '2025-11-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xuanyuan/releases/download/stable-03.11.2025/fw_xuanyuan_xuanyuan_eea_global-ota_full-OS2.0.207.0.VOAEUXM-user-15.0-1b794a5277.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xuanyuan/fw_xuanyuan_xuanyuan_eea_global-ota_full-OS2.0.207.0.VOAEUXM-user-15.0-1b794a5277.zip
+  filename: fw_xuanyuan_xuanyuan_eea_global-ota_full-OS2.0.207.0.VOAEUXM-user-15.0-1b794a5277.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.207.0.VOAEUXM
+- branch: stable
   date: '2025-05-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xuanyuan/releases/download/stable-02.05.2025/fw_xuanyuan_global_xuanyuan_global-ota_full-OS2.0.105.0.VOAMIXM-user-15.0-037492f449.zip
