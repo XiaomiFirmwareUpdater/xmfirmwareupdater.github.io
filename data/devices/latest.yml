@@ -6219,26 +6219,6 @@
     android: '12.0'
     miui: V13.0.6.0.SFNEUXM
 - branch: stable
-  date: '2025-10-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_topaz/releases/download/stable-27.10.2025/fw_topaz_topaz_global-ota_full-OS2.0.202.0.VMGMIXM-user-15.0-7331847ec5.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/topaz/fw_topaz_topaz_global-ota_full-OS2.0.202.0.VMGMIXM-user-15.0-7331847ec5.zip
-  filename: fw_topaz_topaz_global-ota_full-OS2.0.202.0.VMGMIXM-user-15.0-7331847ec5.zip
-  region: Global
-  versions:
-    android: '15.0'
-    miui: OS2.0.202.0.VMGMIXM
-- branch: stable
-  date: '2025-07-23'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_topaz/releases/download/stable-23.07.2025/fw_topaz_eea_global_topaz_eea_global-ota_full-OS2.0.203.0.VMGEUXM-user-15.0-3968ea1830.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/topaz/fw_topaz_eea_global_topaz_eea_global-ota_full-OS2.0.203.0.VMGEUXM-user-15.0-3968ea1830.zip
-  filename: fw_topaz_eea_global_topaz_eea_global-ota_full-OS2.0.203.0.VMGEUXM-user-15.0-3968ea1830.zip
-  region: Europe
-  versions:
-    android: '15.0'
-    miui: OS2.0.203.0.VMGEUXM
-- branch: stable
   date: '2025-10-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tornado/releases/download/stable-15.10.2025/fw_tornado_tornado_global-ota_full-OS2.0.203.0.VPOMIXM-user-15.0-ae994d5ee2.zip
@@ -6384,46 +6364,6 @@
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugg/releases/download/weekly-17.10.2019/fw_ugg_miui_HMNote5A_9.10.10_064266a851_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.10/ugg/fw_ugg_miui_HMNote5A_9.10.10_064266a851_7.1.zip
   filename: fw_ugg_miui_HMNote5A_9.10.10_064266a851_7.1.zip
-  region: China
-  versions:
-    android: '7.1'
-    miui: 9.10.10
-- branch: stable
-  date: '2019-11-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugglite/releases/download/stable-05.11.2019/fw_ugglite_miui_HMNote5ALITEGlobal_V11.0.3.0.NDFMIXM_542160087b_7.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ugglite/fw_ugglite_miui_HMNote5ALITEGlobal_V11.0.3.0.NDFMIXM_542160087b_7.1.zip
-  filename: fw_ugglite_miui_HMNote5ALITEGlobal_V11.0.3.0.NDFMIXM_542160087b_7.1.zip
-  region: Global
-  versions:
-    android: '7.1'
-    miui: V11.0.3.0.NDFMIXM
-- branch: stable
-  date: '2019-10-31'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugglite/releases/download/stable-31.10.2019/fw_ugglite_miui_HMNote5ALITE_V11.0.2.0.NDFCNXM_531a889895_7.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ugglite/fw_ugglite_miui_HMNote5ALITE_V11.0.2.0.NDFCNXM_531a889895_7.1.zip
-  filename: fw_ugglite_miui_HMNote5ALITE_V11.0.2.0.NDFCNXM_531a889895_7.1.zip
-  region: China
-  versions:
-    android: '7.1'
-    miui: V11.0.2.0.NDFCNXM
-- branch: weekly
-  date: '2019-06-28'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugglite/releases/download/weekly-28.06.2019/fw_ugglite_miui_HMNote5ALITEGlobal_9.6.27_c86076cad3_7.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/ugglite/fw_ugglite_miui_HMNote5ALITEGlobal_9.6.27_c86076cad3_7.1.zip
-  filename: fw_ugglite_miui_HMNote5ALITEGlobal_9.6.27_c86076cad3_7.1.zip
-  region: Global
-  versions:
-    android: '7.1'
-    miui: 9.6.27
-- branch: weekly
-  date: '2019-10-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugglite/releases/download/weekly-17.10.2019/fw_ugglite_miui_HMNote5ALITE_9.10.10_59dbf39bc3_7.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.10/ugglite/fw_ugglite_miui_HMNote5ALITE_9.10.10_59dbf39bc3_7.1.zip
-  filename: fw_ugglite_miui_HMNote5ALITE_9.10.10_59dbf39bc3_7.1.zip
   region: China
   versions:
     android: '7.1'
