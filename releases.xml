@@ -4,8 +4,28 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 03 Nov 2025 00:38:16 </lastBuildDate>
+        <lastBuildDate>Mon, 03 Nov 2025 07:19:42 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 12C/POCO C55 (earth) - OS1.0.14.0.UCVMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/earth/</link>
+            <pubDate>Mon, 03 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 12C/POCO C55 (earth) - OS1.0.13.0.UCVEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/earth/</link>
+            <pubDate>Mon, 03 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS2.0.206.0.VOUINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/spring/</link>
+            <pubDate>Mon, 03 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.207.0.VNOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
+            <pubDate>Mon, 03 Nov 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS2.0.209.0.VPWEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flute/</link>
@@ -937,11 +957,6 @@
             <pubDate>Sat, 18 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.206.0.VNOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
-            <pubDate>Sat, 18 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 14 Ultra (aurora) - OS2.0.207.0.VNAEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
             <pubDate>Fri, 17 Oct 2025 00:00:00 </pubDate>
@@ -1107,11 +1122,6 @@
             <pubDate>Sat, 04 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS2.0.205.0.VOUINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/spring/</link>
-            <pubDate>Sat, 04 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.29.0.TGOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/water/</link>
             <pubDate>Sat, 04 Oct 2025 00:00:00 </pubDate>
@@ -1247,11 +1257,6 @@
             <pubDate>Thu, 18 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 12C/POCO C55 (earth) - OS1.0.13.0.UCVMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Tue, 16 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 11T (agate) - OS1.0.19.0.UKWEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/agate/</link>
             <pubDate>Mon, 15 Sep 2025 00:00:00 </pubDate>
@@ -1320,11 +1325,6 @@
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.8.0.UKOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
             <pubDate>Tue, 02 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12C/POCO C55 (earth) - OS1.0.12.0.UCVEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Mon, 01 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 13C/POCO C65 (gale) - OS2.0.202.0.VGPMIXM</title>
