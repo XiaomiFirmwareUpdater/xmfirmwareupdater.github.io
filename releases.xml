@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 03 Nov 2025 18:42:01 </lastBuildDate>
+        <lastBuildDate>Tue, 04 Nov 2025 00:39:57 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.14.0.UCVMIXM</title>
@@ -604,6 +604,11 @@
         <item>
             <title>Xiaomi 12S Ultra (thor) - OS2.0.207.0.VLACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/thor/</link>
+            <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 4G NFC (topaz) - OS2.0.202.0.VMGMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/topaz/</link>
             <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1400,6 +1405,11 @@
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.4.0.UKOINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
             <pubDate>Mon, 11 Aug 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 4G NFC (topaz) - OS2.0.203.0.VMGEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/topaz/</link>
+            <pubDate>Wed, 23 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi Pad 5 Pro 12.4 (dagu) - OS2.0.10.0.ULZCNXM</title>
@@ -3247,6 +3257,11 @@
             <pubDate>Tue, 05 Nov 2019 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Note 5A (2GB) (ugglite) - V11.0.3.0.NDFMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ugglite/</link>
+            <pubDate>Tue, 05 Nov 2019 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 5/Note 5 Pro (whyred) - V11.0.2.0.PEICNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/whyred/</link>
             <pubDate>Mon, 04 Nov 2019 00:00:00 </pubDate>
@@ -3254,6 +3269,11 @@
         <item>
             <title>Redmi Note 5A Prime (ugg) - V11.0.1.0.NDKCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ugg/</link>
+            <pubDate>Thu, 31 Oct 2019 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 5A (2GB) (ugglite) - V11.0.2.0.NDFCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ugglite/</link>
             <pubDate>Thu, 31 Oct 2019 00:00:00 </pubDate>
         </item>
         <item>
@@ -3309,6 +3329,11 @@
         <item>
             <title>Redmi Note 5A Prime (ugg) - 9.10.10</title>
             <link>https://xmfirmwareupdater.com/firmware/ugg/</link>
+            <pubDate>Thu, 17 Oct 2019 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 5A (2GB) (ugglite) - 9.10.10</title>
+            <link>https://xmfirmwareupdater.com/firmware/ugglite/</link>
             <pubDate>Thu, 17 Oct 2019 00:00:00 </pubDate>
         </item>
         <item>
@@ -3459,6 +3484,11 @@
         <item>
             <title>Redmi Note 5A Prime (ugg) - 9.6.27</title>
             <link>https://xmfirmwareupdater.com/firmware/ugg/</link>
+            <pubDate>Fri, 28 Jun 2019 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 5A (2GB) (ugglite) - 9.6.27</title>
+            <link>https://xmfirmwareupdater.com/firmware/ugglite/</link>
             <pubDate>Fri, 28 Jun 2019 00:00:00 </pubDate>
         </item>
         <item>

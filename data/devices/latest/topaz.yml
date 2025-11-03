@@ -1,1 +1,20 @@
-[]
+- branch: stable
+  date: '2025-10-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_topaz/releases/download/stable-27.10.2025/fw_topaz_topaz_global-ota_full-OS2.0.202.0.VMGMIXM-user-15.0-7331847ec5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/topaz/fw_topaz_topaz_global-ota_full-OS2.0.202.0.VMGMIXM-user-15.0-7331847ec5.zip
+  filename: fw_topaz_topaz_global-ota_full-OS2.0.202.0.VMGMIXM-user-15.0-7331847ec5.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.202.0.VMGMIXM
+- branch: stable
+  date: '2025-07-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_topaz/releases/download/stable-23.07.2025/fw_topaz_eea_global_topaz_eea_global-ota_full-OS2.0.203.0.VMGEUXM-user-15.0-3968ea1830.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/topaz/fw_topaz_eea_global_topaz_eea_global-ota_full-OS2.0.203.0.VMGEUXM-user-15.0-3968ea1830.zip
+  filename: fw_topaz_eea_global_topaz_eea_global-ota_full-OS2.0.203.0.VMGEUXM-user-15.0-3968ea1830.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.203.0.VMGEUXM
