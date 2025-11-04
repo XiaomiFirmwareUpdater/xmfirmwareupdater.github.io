@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 04 Nov 2025 00:39:57 </lastBuildDate>
+        <lastBuildDate>Tue, 04 Nov 2025 07:02:30 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Civi 5 Pro (luming) - luming</title>
+            <link>https://xmfirmwareupdater.com/firmware/luming/</link>
+            <pubDate>Tue, 04 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 Ultra (xuanyuan) - xuanyuan</title>
+            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
+            <pubDate>Tue, 04 Nov 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.14.0.UCVMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/earth/</link>
@@ -1027,11 +1037,6 @@
             <pubDate>Tue, 14 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Civi 5 Pro (luming) - OS2.0.205.0.VOICNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/luming/</link>
-            <pubDate>Mon, 13 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K70 Pro (manet) - OS2.0.208.0.VNMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/manet/</link>
             <pubDate>Mon, 13 Oct 2025 00:00:00 </pubDate>
@@ -1380,11 +1385,6 @@
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.203.0.VGQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
             <pubDate>Wed, 27 Aug 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.215.0.VOACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
-            <pubDate>Fri, 22 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Pad (yunluo) - OS1.0.10.0.ULYINXM</title>

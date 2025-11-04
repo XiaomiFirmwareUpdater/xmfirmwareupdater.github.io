@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2025-10-13'
+  date: '2025-11-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_luming/releases/download/stable-13.10.2025/fw_luming_luming-ota_full-OS2.0.205.0.VOICNXM-user-15.0-66ba385872.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/luming/fw_luming_luming-ota_full-OS2.0.205.0.VOICNXM-user-15.0-66ba385872.zip
-  filename: fw_luming_luming-ota_full-OS2.0.205.0.VOICNXM-user-15.0-66ba385872.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_luming/releases/download/stable-04.11.2025/fw_luming_luming-ota_full-OS3.0.3.0.WOICNXM-user-16.0-d87c5b1d55.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/luming/luming/fw_luming_luming-ota_full-OS3.0.3.0.WOICNXM-user-16.0-d87c5b1d55.zip
+  filename: fw_luming_luming-ota_full-OS3.0.3.0.WOICNXM-user-16.0-d87c5b1d55.zip
   region: China
   versions:
-    android: '15.0'
-    miui: OS2.0.205.0.VOICNXM
+    android: full-OS3.0.3.0.WOICNXM-user-16.0-d87c5b1d55
+    miui: luming
