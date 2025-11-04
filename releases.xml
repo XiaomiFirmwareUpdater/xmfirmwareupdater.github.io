@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 04 Nov 2025 12:40:22 </lastBuildDate>
+        <lastBuildDate>Tue, 04 Nov 2025 19:33:06 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>MIX Flip 2 (bixi) - bixi</title>
+            <link>https://xmfirmwareupdater.com/firmware/bixi/</link>
+            <pubDate>Tue, 04 Nov 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi Civi 5 Pro (luming) - luming</title>
             <link>https://xmfirmwareupdater.com/firmware/luming/</link>
+            <pubDate>Tue, 04 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - rodin</title>
+            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
             <pubDate>Tue, 04 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -902,19 +912,9 @@
             <pubDate>Tue, 21 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.208.0.VOJCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
-            <pubDate>Tue, 21 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS2.0.204.0.VOUCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spring/</link>
             <pubDate>Tue, 21 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>MIX Flip 2 (bixi) - OS2.0.213.0.VOHCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/bixi/</link>
-            <pubDate>Mon, 20 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Pad 2 4G (koto) - OS2.0.205.0.VOWINXM</title>

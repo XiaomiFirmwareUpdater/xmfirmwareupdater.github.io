@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2025-10-20'
+  date: '2025-11-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bixi/releases/download/stable-20.10.2025/fw_bixi_bixi-ota_full-OS2.0.213.0.VOHCNXM-user-15.0-d5ba1518a2.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/bixi/fw_bixi_bixi-ota_full-OS2.0.213.0.VOHCNXM-user-15.0-d5ba1518a2.zip
-  filename: fw_bixi_bixi-ota_full-OS2.0.213.0.VOHCNXM-user-15.0-d5ba1518a2.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bixi/releases/download/stable-04.11.2025/fw_bixi_bixi-ota_full-OS3.0.3.0.WOHCNXM-user-16.0-feaa771064.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/bixi/bixi/fw_bixi_bixi-ota_full-OS3.0.3.0.WOHCNXM-user-16.0-feaa771064.zip
+  filename: fw_bixi_bixi-ota_full-OS3.0.3.0.WOHCNXM-user-16.0-feaa771064.zip
   region: China
   versions:
-    android: '15.0'
-    miui: OS2.0.213.0.VOHCNXM
+    android: full-OS3.0.3.0.WOHCNXM-user-16.0-feaa771064
+    miui: bixi

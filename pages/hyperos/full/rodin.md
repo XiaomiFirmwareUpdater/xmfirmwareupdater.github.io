@@ -52,7 +52,9 @@ permalink: /archive/hyperos/rodin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO X7 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VOJTRXM</td><td>15.0</td><td>6.1 GB</td><td>2025-10-20</td><td><a href="/hyperos/rodin/stable/OS2.0.203.0.VOJTRXM/">Download</a></td></tr>
+                <tr><td>Redmi Turbo 4 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WOJCNXM</td><td>16.0</td><td>7.4 GB</td><td>2025-10-28</td><td><a href="/hyperos/rodin/stable/OS3.0.2.0.WOJCNXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 4 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WOJCNXM</td><td>16.0</td><td>9.6 GB</td><td>2025-10-17</td><td><a href="/hyperos/rodin/stable/OS3.0.2.0.WOJCNXM/">Download</a></td></tr>
+<tr><td>POCO X7 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VOJTRXM</td><td>15.0</td><td>6.1 GB</td><td>2025-10-20</td><td><a href="/hyperos/rodin/stable/OS2.0.203.0.VOJTRXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VOJTRXM</td><td>15.0</td><td>8.3 GB</td><td>2025-10-10</td><td><a href="/hyperos/rodin/stable/OS2.0.203.0.VOJTRXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VOJTWXM</td><td>15.0</td><td>5.9 GB</td><td>2025-10-20</td><td><a href="/hyperos/rodin/stable/OS2.0.203.0.VOJTWXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VOJTWXM</td><td>15.0</td><td>7.1 GB</td><td>2025-10-10</td><td><a href="/hyperos/rodin/stable/OS2.0.203.0.VOJTWXM/">Download</a></td></tr>
