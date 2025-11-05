@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-09-24'
+  date: '2025-11-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-24.09.2025/fw_klimt_global_klimt_global-ota_full-OS2.0.205.0.VOSMIXM-user-15.0-a97ad20a5e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/klimt/fw_klimt_global_klimt_global-ota_full-OS2.0.205.0.VOSMIXM-user-15.0-a97ad20a5e.zip
-  filename: fw_klimt_global_klimt_global-ota_full-OS2.0.205.0.VOSMIXM-user-15.0-a97ad20a5e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-05.11.2025/fw_klimt_klimt_global-ota_full-OS2.0.206.0.VOSMIXM-user-15.0-a3c26c1395.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/klimt/fw_klimt_klimt_global-ota_full-OS2.0.206.0.VOSMIXM-user-15.0-a3c26c1395.zip
+  filename: fw_klimt_klimt_global-ota_full-OS2.0.206.0.VOSMIXM-user-15.0-a3c26c1395.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.205.0.VOSMIXM
+    miui: OS2.0.206.0.VOSMIXM
 - branch: stable
   date: '2025-09-24'
   downloads:

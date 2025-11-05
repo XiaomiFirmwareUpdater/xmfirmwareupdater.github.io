@@ -52,7 +52,11 @@ permalink: /archive/hyperos/klimt/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 15T Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VOSIDXM</td><td>15.0</td><td>6.8 GB</td><td>2025-09-25</td><td><a href="/hyperos/klimt/stable/OS2.0.203.0.VOSIDXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 15T Pro Japan</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VOSJPXM</td><td>15.0</td><td>6.8 GB</td><td>2025-10-31</td><td><a href="/hyperos/klimt/stable/OS2.0.203.0.VOSJPXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Pro Japan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VOSJPXM</td><td>15.0</td><td>8.4 GB</td><td>2025-10-23</td><td><a href="/hyperos/klimt/stable/OS2.0.203.0.VOSJPXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VOSMIXM</td><td>15.0</td><td>6.8 GB</td><td>2025-10-28</td><td><a href="/hyperos/klimt/stable/OS2.0.206.0.VOSMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VOSMIXM</td><td>15.0</td><td>9.4 GB</td><td>2025-10-09</td><td><a href="/hyperos/klimt/stable/OS2.0.206.0.VOSMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VOSIDXM</td><td>15.0</td><td>6.8 GB</td><td>2025-09-25</td><td><a href="/hyperos/klimt/stable/OS2.0.203.0.VOSIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VOSIDXM</td><td>15.0</td><td>8.6 GB</td><td>2025-09-09</td><td><a href="/hyperos/klimt/stable/OS2.0.203.0.VOSIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VOSRUXM</td><td>15.0</td><td>6.7 GB</td><td>2025-09-25</td><td><a href="/hyperos/klimt/stable/OS2.0.203.0.VOSRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VOSRUXM</td><td>15.0</td><td>9.1 GB</td><td>2025-08-28</td><td><a href="/hyperos/klimt/stable/OS2.0.203.0.VOSRUXM/">Download</a></td></tr>

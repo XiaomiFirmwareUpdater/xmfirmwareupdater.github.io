@@ -5056,6 +5056,12 @@
   download: https://bigota.d.miui.com/OS2.0.206.0.VFOEUXM/fw_emerald_emerald_r_eea_global-ota_full-OS2.0.206.0.VFOEUXM-user-15.0-f69c86010c.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS2.0.206.0.VFOEUXM
+- android: '15.0'
+  codename: emerald
+  date: '2025-11-05'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VFOMIXM/fw_emerald_emerald_r_global-ota_full-OS2.0.206.0.VFOMIXM-user-15.0-244a89b9b6.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
+  version: OS2.0.206.0.VFOMIXM
 - android: '14.0'
   codename: emerald
   date: '2024-12-04'
@@ -8674,6 +8680,12 @@
   download: https://bigota.d.miui.com/OS2.0.205.0.VOSMIXM/fw_klimt_global_klimt_global-ota_full-OS2.0.205.0.VOSMIXM-user-15.0-a97ad20a5e.zip
   name: Xiaomi 15T Pro
   version: OS2.0.205.0.VOSMIXM
+- android: '15.0'
+  codename: klimt
+  date: '2025-11-05'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VOSMIXM/fw_klimt_klimt_global-ota_full-OS2.0.206.0.VOSMIXM-user-15.0-a3c26c1395.zip
+  name: Xiaomi 15T Pro
+  version: OS2.0.206.0.VOSMIXM
 - android: '15.0'
   codename: koto
   date: '2025-10-30'
