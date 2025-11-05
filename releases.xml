@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 05 Nov 2025 00:38:42 </lastBuildDate>
+        <lastBuildDate>Wed, 05 Nov 2025 06:45:43 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.206.0.VFOEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
+            <pubDate>Wed, 05 Nov 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>MIX Flip 2 (bixi) - bixi</title>
             <link>https://xmfirmwareupdater.com/firmware/bixi/</link>
@@ -383,11 +388,6 @@
         </item>
         <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.209.0.VNFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
-            <pubDate>Tue, 28 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.208.0.VNFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
             <pubDate>Tue, 28 Oct 2025 00:00:00 </pubDate>
         </item>
