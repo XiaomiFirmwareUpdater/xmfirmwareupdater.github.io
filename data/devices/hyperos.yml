@@ -5723,6 +5723,12 @@
   name: Redmi Note 15 Pro+ 5G/POCO M8 Pro
   version: OS2.0.205.0.VPRCNXM
 - android: '15.0'
+  codename: flourite
+  date: '2025-11-06'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VPRCNXM/fw_flourite_flourite-ota_full-OS2.0.209.0.VPRCNXM-user-15.0-ed76995ddb.zip
+  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro
+  version: OS2.0.209.0.VPRCNXM
+- android: '15.0'
   codename: flute
   date: '2025-09-25'
   download: https://bigota.d.miui.com/OS2.0.203.0.VPWMIXM/fw_flute_global_flute_global-ota_full-OS2.0.203.0.VPWMIXM-user-15.0-6b755e5413.zip

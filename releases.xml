@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 06 Nov 2025 06:37:05 </lastBuildDate>
+        <lastBuildDate>Thu, 06 Nov 2025 13:20:59 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro (flourite) - OS2.0.209.0.VPRCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
+            <pubDate>Thu, 06 Nov 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.206.0.VFOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
@@ -1250,11 +1255,6 @@
             <title>Xiaomi 11T Pro (vili) - OS1.0.22.0.UKDMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vili/</link>
             <pubDate>Mon, 22 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro (flourite) - OS2.0.206.0.VPRCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
-            <pubDate>Sun, 21 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi A4 5G/POCO C75 5G (warm) - OS2.0.202.0.VGVINXM</title>
