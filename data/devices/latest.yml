@@ -2349,6 +2349,16 @@
     android: '15.0'
     miui: OS2.0.207.0.VOEMIXM
 - branch: stable
+  date: '2025-11-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-07.11.2025/fw_goya_goya_eea_global-ota_full-OS3.0.3.0.WOEEUXM-user-16.0-efa5a81817.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/eea/goya/fw_goya_goya_eea_global-ota_full-OS3.0.3.0.WOEEUXM-user-16.0-efa5a81817.zip
+  filename: fw_goya_goya_eea_global-ota_full-OS3.0.3.0.WOEEUXM-user-16.0-efa5a81817.zip
+  region: China
+  versions:
+    android: full-OS3.0.3.0.WOEEUXM-user-16.0-efa5a81817
+    miui: eea
+- branch: stable
   date: '2025-10-31'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-31.10.2025/fw_goya_goya_eea_global-ota_full-OS2.0.209.0.VOEEUXM-user-15.0-83555c9bb0.zip
@@ -2929,15 +2939,15 @@
     android: '15.0'
     miui: OS2.0.206.0.VPQCNXM
 - branch: stable
-  date: '2025-09-04'
+  date: '2025-11-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-04.09.2025/fw_lake_global_lake_global-ota_full-OS2.0.202.0.VGTMIXM-user-15.0-4ba2b1c659.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lake/fw_lake_global_lake_global-ota_full-OS2.0.202.0.VGTMIXM-user-15.0-4ba2b1c659.zip
-  filename: fw_lake_global_lake_global-ota_full-OS2.0.202.0.VGTMIXM-user-15.0-4ba2b1c659.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-07.11.2025/fw_lake_lake_global-ota_full-OS2.0.203.0.VGTMIXM-user-15.0-b4af488383.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lake/fw_lake_lake_global-ota_full-OS2.0.203.0.VGTMIXM-user-15.0-b4af488383.zip
+  filename: fw_lake_lake_global-ota_full-OS2.0.203.0.VGTMIXM-user-15.0-b4af488383.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.202.0.VGTMIXM
+    miui: OS2.0.203.0.VGTMIXM
 - branch: stable
   date: '2025-10-30'
   downloads:
@@ -3659,15 +3669,15 @@
     android: '15.0'
     miui: OS2.0.204.0.VOMMIXM
 - branch: stable
-  date: '2025-10-22'
+  date: '2025-11-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-22.10.2025/fw_miro_miro-ota_full-OS3.0.2.0.WOMCNXM-user-16.0-a4d1cd7090.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/miro/miro/fw_miro_miro-ota_full-OS3.0.2.0.WOMCNXM-user-16.0-a4d1cd7090.zip
-  filename: fw_miro_miro-ota_full-OS3.0.2.0.WOMCNXM-user-16.0-a4d1cd7090.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-07.11.2025/fw_miro_miro_eea_global-ota_full-OS3.0.3.0.WOMEUXM-user-16.0-50e3e6e0c0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/eea/miro/fw_miro_miro_eea_global-ota_full-OS3.0.3.0.WOMEUXM-user-16.0-50e3e6e0c0.zip
+  filename: fw_miro_miro_eea_global-ota_full-OS3.0.3.0.WOMEUXM-user-16.0-50e3e6e0c0.zip
   region: China
   versions:
-    android: full-OS3.0.2.0.WOMCNXM-user-16.0-a4d1cd7090
-    miui: miro
+    android: full-OS3.0.3.0.WOMEUXM-user-16.0-50e3e6e0c0
+    miui: eea
 - branch: stable
   date: '2025-10-25'
   downloads:
@@ -5509,15 +5519,15 @@
     android: '7.1'
     miui: 9.10.10
 - branch: stable
-  date: '2025-10-04'
+  date: '2025-11-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphire/releases/download/stable-04.10.2025/fw_sapphire_sapphire_global-ota_full-OS2.0.205.0.VNGMIXM-user-15.0-8f094cff3e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sapphire/fw_sapphire_sapphire_global-ota_full-OS2.0.205.0.VNGMIXM-user-15.0-8f094cff3e.zip
-  filename: fw_sapphire_sapphire_global-ota_full-OS2.0.205.0.VNGMIXM-user-15.0-8f094cff3e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphire/releases/download/stable-07.11.2025/fw_sapphire_sapphire_global-ota_full-OS2.0.206.0.VNGMIXM-user-15.0-66bfbbb217.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sapphire/fw_sapphire_sapphire_global-ota_full-OS2.0.206.0.VNGMIXM-user-15.0-66bfbbb217.zip
+  filename: fw_sapphire_sapphire_global-ota_full-OS2.0.206.0.VNGMIXM-user-15.0-66bfbbb217.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.205.0.VNGMIXM
+    miui: OS2.0.206.0.VNGMIXM
 - branch: stable
   date: '2025-10-27'
   downloads:

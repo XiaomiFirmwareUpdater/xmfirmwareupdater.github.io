@@ -4,11 +4,31 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 06 Nov 2025 18:50:57 </lastBuildDate>
+        <lastBuildDate>Fri, 07 Nov 2025 01:20:10 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro (flourite) - OS2.0.209.0.VPRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
+            <pubDate>Thu, 06 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15T (goya) - eea</title>
+            <link>https://xmfirmwareupdater.com/firmware/goya/</link>
+            <pubDate>Thu, 06 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 14C/POCO C75/Redmi A3 Pro (lake) - OS2.0.203.0.VGTMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lake/</link>
+            <pubDate>Thu, 06 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K80 Pro/POCO F7 Ultra (miro) - eea</title>
+            <link>https://xmfirmwareupdater.com/firmware/miro/</link>
+            <pubDate>Thu, 06 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 (sapphire) - OS2.0.206.0.VNGMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sapphire/</link>
             <pubDate>Thu, 06 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -882,11 +902,6 @@
             <pubDate>Wed, 22 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K80 Pro/POCO F7 Ultra (miro) - miro</title>
-            <link>https://xmfirmwareupdater.com/firmware/miro/</link>
-            <pubDate>Wed, 22 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.206.0.VNPEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
             <pubDate>Wed, 22 Oct 2025 00:00:00 </pubDate>
@@ -1132,11 +1147,6 @@
             <pubDate>Sat, 04 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 (sapphire) - OS2.0.205.0.VNGMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sapphire/</link>
-            <pubDate>Sat, 04 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 NFC (sapphiren) - OS2.0.204.0.VNHEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
             <pubDate>Sat, 04 Oct 2025 00:00:00 </pubDate>
@@ -1330,11 +1340,6 @@
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.7.0.UMOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Sun, 07 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 14C/POCO C75/Redmi A3 Pro (lake) - OS2.0.202.0.VGTMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lake/</link>
-            <pubDate>Thu, 04 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.8.0.UKOMIXM</title>

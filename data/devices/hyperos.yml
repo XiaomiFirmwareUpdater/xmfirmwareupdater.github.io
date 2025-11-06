@@ -8892,6 +8892,12 @@
   version: OS1.0.4.0.UGTEUXM
 - android: '15.0'
   codename: lake
+  date: '2025-11-06'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VGTMIXM/fw_lake_lake_global-ota_full-OS2.0.203.0.VGTMIXM-user-15.0-b4af488383.zip
+  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  version: OS2.0.203.0.VGTMIXM
+- android: '15.0'
+  codename: lake
   date: '2025-07-07'
   download: https://bigota.d.miui.com/OS2.0.202.0.VGTEUXM/fw_lake_eea_global_lake_eea_global-ota_full-OS2.0.202.0.VGTEUXM-user-15.0-54fb735326.zip
   name: Redmi 14C/POCO C75/Redmi A3 Pro
@@ -16396,6 +16402,12 @@
   download: https://bigota.d.miui.com/OS2.0.5.0.VNGMIXM/fw_sapphire_global_sapphire_global-ota_full-OS2.0.5.0.VNGMIXM-user-15.0-0c3063ffc8.zip
   name: Redmi Note 13
   version: OS2.0.5.0.VNGMIXM
+- android: '15.0'
+  codename: sapphire
+  date: '2025-11-06'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VNGMIXM/fw_sapphire_sapphire_global-ota_full-OS2.0.206.0.VNGMIXM-user-15.0-66bfbbb217.zip
+  name: Redmi Note 13
+  version: OS2.0.206.0.VNGMIXM
 - android: '15.0'
   codename: sapphire
   date: '2025-05-06'
