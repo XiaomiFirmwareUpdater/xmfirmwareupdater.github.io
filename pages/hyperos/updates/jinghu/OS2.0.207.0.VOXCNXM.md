@@ -56,49 +56,6 @@ permalink: /hyperos/jinghu/stable/OS2.0.207.0.VOXCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.8 GB</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-10-11</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">jinghu-ota_full-OS2.0.207.0.VOXCNXM-user-15.0-e175184523.zip</span></h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">e175184523b3f81f8f3be63e07f62948</span></h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.207.0.VOXCNXM/jinghu-ota_full-OS2.0.207.0.VOXCNXM-user-15.0-e175184523.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.207.0.VOXCNXM/jinghu-ota_full-OS2.0.207.0.VOXCNXM-user-15.0-e175184523.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.207.0.VOXCNXM/jinghu-ota_full-OS2.0.207.0.VOXCNXM-user-15.0-e175184523.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.207.0.VOXCNXM/jinghu-ota_full-OS2.0.207.0.VOXCNXM-user-15.0-e175184523.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.207.0.VOXCNXM/jinghu-ota_full-OS2.0.207.0.VOXCNXM-user-15.0-e175184523.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#jinghu_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="jinghu_1_changelog"> <i class="fa fa-arrow-down"
-                                aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="jinghu_1_changelog">
-                        <p id="changelog_text">[System]<br>Updated the security patch to September 2025. Increased system security.</p>
-                    </div>
-                </li>
-            </ul>
-        </div>
-        <div class="card card-body">
-            {%include vli_ad_320x50_1.html%}
-            <ul class="list-unstyled">
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Xiaomi Pad 7 Ultra China</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Codename: </b> <a href="/hyperos/jinghu/" target="_blank">jinghu</a> </h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS2.0.207.0.VOXCNXM</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
@@ -117,10 +74,10 @@ permalink: /hyperos/jinghu/stable/OS2.0.207.0.VOXCNXM/
                     <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.207.0.VOXCNXM/jinghu-images-OS2.0.207.0.VOXCNXM-user-20250924.0000.00-15.0-cn-4c76c60898.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.207.0.VOXCNXM/jinghu-images-OS2.0.207.0.VOXCNXM-user-20250924.0000.00-15.0-cn-4c76c60898.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.207.0.VOXCNXM/jinghu-images-OS2.0.207.0.VOXCNXM-user-20250924.0000.00-15.0-cn-4c76c60898.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.207.0.VOXCNXM/jinghu-images-OS2.0.207.0.VOXCNXM-user-20250924.0000.00-15.0-cn-4c76c60898.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.207.0.VOXCNXM/jinghu-images-OS2.0.207.0.VOXCNXM-user-20250924.0000.00-15.0-cn-4c76c60898.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#jinghu_2_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="jinghu_2_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#jinghu_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="jinghu_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="jinghu_2_changelog">
+                    <div class="collapse" id="jinghu_1_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to September 2025. Increased system security.</p>
                     </div>
                 </li>
