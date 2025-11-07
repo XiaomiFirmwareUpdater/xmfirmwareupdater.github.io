@@ -5428,6 +5428,12 @@
   download: https://bigota.d.miui.com/OS1.0.14.0.UGUCNXM/fw_flame_miui_FLAME_OS1.0.14.0.UGUCNXM_21f0e30bb9_14.0.zip
   name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
   version: OS1.0.14.0.UGUCNXM
+- android: '15.0'
+  codename: flame
+  date: '2025-11-07'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VGUINXM/fw_flame_flame_in_global-ota_full-OS2.0.203.0.VGUINXM-user-15.0-e161cefe63.zip
+  name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
+  version: OS2.0.203.0.VGUINXM
 - android: '14.0'
   codename: flame
   date: '2024-11-07'
@@ -18406,6 +18412,18 @@
   download: https://bigota.d.miui.com/OS2.0.6.0.UMQINXM/fw_sunstone_in_global_sunstone_in_global-ota_full-OS2.0.6.0.UMQINXM-user-14.0-e4b2765578.zip
   name: Redmi Note 12 5G/Note 12R Pro
   version: OS2.0.6.0.UMQINXM
+- android: '14.0'
+  codename: sunstone
+  date: '2025-11-07'
+  download: https://bigota.d.miui.com/OS2.0.6.0.UMQEUXM/fw_sunstone_sunstone_eea_global-ota_full-OS2.0.6.0.UMQEUXM-user-14.0-a50da93a59.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: OS2.0.6.0.UMQEUXM
+- android: '14.0'
+  codename: sunstone
+  date: '2025-11-07'
+  download: https://bigota.d.miui.com/OS2.0.5.0.UMQMIXM/fw_sunstone_sunstone_global-ota_full-OS2.0.5.0.UMQMIXM-user-14.0-3e521d5bf6.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: OS2.0.5.0.UMQMIXM
 - android: '14.0'
   codename: sunstone
   date: '2024-05-07'
