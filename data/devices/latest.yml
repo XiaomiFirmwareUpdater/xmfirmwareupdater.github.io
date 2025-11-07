@@ -1979,15 +1979,15 @@
     android: '15.0'
     miui: OS2.0.209.0.VPRCNXM
 - branch: stable
-  date: '2025-09-25'
+  date: '2025-11-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flute/releases/download/stable-26.09.2025/fw_flute_global_flute_global-ota_full-OS2.0.203.0.VPWMIXM-user-15.0-6b755e5413.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/flute/fw_flute_global_flute_global-ota_full-OS2.0.203.0.VPWMIXM-user-15.0-6b755e5413.zip
-  filename: fw_flute_global_flute_global-ota_full-OS2.0.203.0.VPWMIXM-user-15.0-6b755e5413.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flute/releases/download/stable-07.11.2025/fw_flute_flute_global-ota_full-OS2.0.204.0.VPWMIXM-user-15.0-a594e7ead8.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/flute/fw_flute_flute_global-ota_full-OS2.0.204.0.VPWMIXM-user-15.0-a594e7ead8.zip
+  filename: fw_flute_flute_global-ota_full-OS2.0.204.0.VPWMIXM-user-15.0-a594e7ead8.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.203.0.VPWMIXM
+    miui: OS2.0.204.0.VPWMIXM
 - branch: stable
   date: '2025-11-02'
   downloads:
