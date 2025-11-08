@@ -56,22 +56,22 @@ permalink: /hyperos/duchamp/stable/OS2.0.208.0.VNLEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.2 GB</h5>
+                    <h5><b>Size: </b>5.9 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-09-25</h5>
+                    <h5><b>Release Date: </b>2025-10-16</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">duchamp_eea_global_images_OS2.0.208.0.VNLEUXM_20250925.0000.00_15.0_eea_cc8e3486fc.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">duchamp_eea_global-ota_full-OS2.0.208.0.VNLEUXM-user-15.0-84b4c3191d.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">cc8e3486fcea39612f6d6f5e6b9a4352</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">84b4c3191d95665c3060ac6eec37aa0f</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.208.0.VNLEUXM/duchamp_eea_global_images_OS2.0.208.0.VNLEUXM_20250925.0000.00_15.0_eea_cc8e3486fc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.208.0.VNLEUXM/duchamp_eea_global_images_OS2.0.208.0.VNLEUXM_20250925.0000.00_15.0_eea_cc8e3486fc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.208.0.VNLEUXM/duchamp_eea_global_images_OS2.0.208.0.VNLEUXM_20250925.0000.00_15.0_eea_cc8e3486fc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.208.0.VNLEUXM/duchamp_eea_global_images_OS2.0.208.0.VNLEUXM_20250925.0000.00_15.0_eea_cc8e3486fc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.208.0.VNLEUXM/duchamp_eea_global_images_OS2.0.208.0.VNLEUXM_20250925.0000.00_15.0_eea_cc8e3486fc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.208.0.VNLEUXM/duchamp_eea_global-ota_full-OS2.0.208.0.VNLEUXM-user-15.0-84b4c3191d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.208.0.VNLEUXM/duchamp_eea_global-ota_full-OS2.0.208.0.VNLEUXM-user-15.0-84b4c3191d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.208.0.VNLEUXM/duchamp_eea_global-ota_full-OS2.0.208.0.VNLEUXM-user-15.0-84b4c3191d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.208.0.VNLEUXM/duchamp_eea_global-ota_full-OS2.0.208.0.VNLEUXM-user-15.0-84b4c3191d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.208.0.VNLEUXM/duchamp_eea_global-ota_full-OS2.0.208.0.VNLEUXM-user-15.0-84b4c3191d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#duchamp_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/duchamp/stable/OS2.0.208.0.VNLEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.9 GB</h5>
+                    <h5><b>Size: </b>8.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-10-16</h5>
+                    <h5><b>Release Date: </b>2025-09-25</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">duchamp_eea_global-ota_full-OS2.0.208.0.VNLEUXM-user-15.0-84b4c3191d.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">duchamp_eea_global_images_OS2.0.208.0.VNLEUXM_20250925.0000.00_15.0_eea_cc8e3486fc.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">84b4c3191d95665c3060ac6eec37aa0f</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">cc8e3486fcea39612f6d6f5e6b9a4352</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.208.0.VNLEUXM/duchamp_eea_global-ota_full-OS2.0.208.0.VNLEUXM-user-15.0-84b4c3191d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.208.0.VNLEUXM/duchamp_eea_global-ota_full-OS2.0.208.0.VNLEUXM-user-15.0-84b4c3191d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.208.0.VNLEUXM/duchamp_eea_global-ota_full-OS2.0.208.0.VNLEUXM-user-15.0-84b4c3191d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.208.0.VNLEUXM/duchamp_eea_global-ota_full-OS2.0.208.0.VNLEUXM-user-15.0-84b4c3191d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.208.0.VNLEUXM/duchamp_eea_global-ota_full-OS2.0.208.0.VNLEUXM-user-15.0-84b4c3191d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.208.0.VNLEUXM/duchamp_eea_global_images_OS2.0.208.0.VNLEUXM_20250925.0000.00_15.0_eea_cc8e3486fc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.208.0.VNLEUXM/duchamp_eea_global_images_OS2.0.208.0.VNLEUXM_20250925.0000.00_15.0_eea_cc8e3486fc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.208.0.VNLEUXM/duchamp_eea_global_images_OS2.0.208.0.VNLEUXM_20250925.0000.00_15.0_eea_cc8e3486fc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.208.0.VNLEUXM/duchamp_eea_global_images_OS2.0.208.0.VNLEUXM_20250925.0000.00_15.0_eea_cc8e3486fc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.208.0.VNLEUXM/duchamp_eea_global_images_OS2.0.208.0.VNLEUXM_20250925.0000.00_15.0_eea_cc8e3486fc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#duchamp_2_changelog" data-toggle="collapse" role="button"

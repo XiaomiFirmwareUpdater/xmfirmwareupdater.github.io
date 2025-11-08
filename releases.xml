@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 07 Nov 2025 13:13:10 </lastBuildDate>
+        <lastBuildDate>Sat, 08 Nov 2025 06:36:50 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 12 (fire) - OS2.0.205.0.VMXMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/fire/</link>
+            <pubDate>Fri, 07 Nov 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS2.0.203.0.VGUINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flame/</link>
@@ -14,6 +19,11 @@
         <item>
             <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS2.0.204.0.VPWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flute/</link>
+            <pubDate>Fri, 07 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 (fuxi) - OS2.0.215.0.VMCCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
             <pubDate>Fri, 07 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1037,11 +1047,6 @@
             <pubDate>Fri, 17 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13 (fuxi) - OS2.0.213.0.VMCCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Fri, 17 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi A5/POCO C71 (serenity) - A15.0.12.0.VGWINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
             <pubDate>Fri, 17 Oct 2025 00:00:00 </pubDate>
@@ -1309,11 +1314,6 @@
         <item>
             <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS2.0.203.0.VNUCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
-            <pubDate>Wed, 10 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12 (fire) - OS2.0.204.0.VMXMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/fire/</link>
             <pubDate>Wed, 10 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>

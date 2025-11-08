@@ -56,22 +56,22 @@ permalink: /hyperos/onyx/stable/OS2.0.216.0.VOLCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>10.1 GB</h5>
+                    <h5><b>Size: </b>8.1 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-09-29</h5>
+                    <h5><b>Release Date: </b>2025-10-16</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">onyx_images_OS2.0.216.0.VOLCNXM_20250929.0000.00_15.0_cn_4b150e2fbc.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">onyx-ota_full-OS2.0.216.0.VOLCNXM-user-15.0-6e1ac7510e.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">4b150e2fbc23bd6c5c582d392f36c921</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6e1ac7510e18671fc781e5a7b826ffc9</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.216.0.VOLCNXM/onyx_images_OS2.0.216.0.VOLCNXM_20250929.0000.00_15.0_cn_4b150e2fbc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.216.0.VOLCNXM/onyx_images_OS2.0.216.0.VOLCNXM_20250929.0000.00_15.0_cn_4b150e2fbc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.216.0.VOLCNXM/onyx_images_OS2.0.216.0.VOLCNXM_20250929.0000.00_15.0_cn_4b150e2fbc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.216.0.VOLCNXM/onyx_images_OS2.0.216.0.VOLCNXM_20250929.0000.00_15.0_cn_4b150e2fbc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.216.0.VOLCNXM/onyx_images_OS2.0.216.0.VOLCNXM_20250929.0000.00_15.0_cn_4b150e2fbc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.216.0.VOLCNXM/onyx-ota_full-OS2.0.216.0.VOLCNXM-user-15.0-6e1ac7510e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.216.0.VOLCNXM/onyx-ota_full-OS2.0.216.0.VOLCNXM-user-15.0-6e1ac7510e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.216.0.VOLCNXM/onyx-ota_full-OS2.0.216.0.VOLCNXM-user-15.0-6e1ac7510e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.216.0.VOLCNXM/onyx-ota_full-OS2.0.216.0.VOLCNXM-user-15.0-6e1ac7510e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.216.0.VOLCNXM/onyx-ota_full-OS2.0.216.0.VOLCNXM-user-15.0-6e1ac7510e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#onyx_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/onyx/stable/OS2.0.216.0.VOLCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.1 GB</h5>
+                    <h5><b>Size: </b>10.1 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-10-16</h5>
+                    <h5><b>Release Date: </b>2025-09-29</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">onyx-ota_full-OS2.0.216.0.VOLCNXM-user-15.0-6e1ac7510e.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">onyx_images_OS2.0.216.0.VOLCNXM_20250929.0000.00_15.0_cn_4b150e2fbc.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">6e1ac7510e18671fc781e5a7b826ffc9</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">4b150e2fbc23bd6c5c582d392f36c921</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.216.0.VOLCNXM/onyx-ota_full-OS2.0.216.0.VOLCNXM-user-15.0-6e1ac7510e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.216.0.VOLCNXM/onyx-ota_full-OS2.0.216.0.VOLCNXM-user-15.0-6e1ac7510e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.216.0.VOLCNXM/onyx-ota_full-OS2.0.216.0.VOLCNXM-user-15.0-6e1ac7510e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.216.0.VOLCNXM/onyx-ota_full-OS2.0.216.0.VOLCNXM-user-15.0-6e1ac7510e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.216.0.VOLCNXM/onyx-ota_full-OS2.0.216.0.VOLCNXM-user-15.0-6e1ac7510e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.216.0.VOLCNXM/onyx_images_OS2.0.216.0.VOLCNXM_20250929.0000.00_15.0_cn_4b150e2fbc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.216.0.VOLCNXM/onyx_images_OS2.0.216.0.VOLCNXM_20250929.0000.00_15.0_cn_4b150e2fbc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.216.0.VOLCNXM/onyx_images_OS2.0.216.0.VOLCNXM_20250929.0000.00_15.0_cn_4b150e2fbc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.216.0.VOLCNXM/onyx_images_OS2.0.216.0.VOLCNXM_20250929.0000.00_15.0_cn_4b150e2fbc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.216.0.VOLCNXM/onyx_images_OS2.0.216.0.VOLCNXM_20250929.0000.00_15.0_cn_4b150e2fbc.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#onyx_2_changelog" data-toggle="collapse" role="button"
