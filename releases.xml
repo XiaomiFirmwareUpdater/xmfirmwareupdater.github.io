@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 09 Nov 2025 19:56:48 </lastBuildDate>
+        <lastBuildDate>Mon, 10 Nov 2025 00:44:35 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K Pad/Xiaomi Pad Mini (turner) - turner</title>
+            <link>https://xmfirmwareupdater.com/firmware/turner/</link>
+            <pubDate>Sun, 09 Nov 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 12 (fire) - OS2.0.205.0.VMXMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fire/</link>
@@ -1059,11 +1064,6 @@
         <item>
             <title>Xiaomi 12 Lite (taoyao) - OS1.0.33.0.ULIEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taoyao/</link>
-            <pubDate>Fri, 17 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K Pad/Xiaomi Pad Mini (turner) - OS2.0.218.0.VAOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/turner/</link>
             <pubDate>Fri, 17 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
