@@ -52,7 +52,9 @@ permalink: /archive/hyperos/myron/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K90 Pro Max China</td><td>Stable</td><td>Recovery</td><td>OS3.0.13.0.WPMCNXM</td><td>16.0</td><td>9.4 GB</td><td>2025-10-27</td><td><a href="/hyperos/myron/stable/OS3.0.13.0.WPMCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K90 Pro Max China</td><td>Stable</td><td>Recovery</td><td>OS3.0.14.0.WPMCNXM</td><td>16.0</td><td>9.4 GB</td><td>2025-10-30</td><td><a href="/hyperos/myron/stable/OS3.0.14.0.WPMCNXM/">Download</a></td></tr>
+<tr><td>Redmi K90 Pro Max China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.14.0.WPMCNXM</td><td>16.0</td><td>12.1 GB</td><td>2025-10-28</td><td><a href="/hyperos/myron/stable/OS3.0.14.0.WPMCNXM/">Download</a></td></tr>
+<tr><td>Redmi K90 Pro Max China</td><td>Stable</td><td>Recovery</td><td>OS3.0.13.0.WPMCNXM</td><td>16.0</td><td>9.4 GB</td><td>2025-10-27</td><td><a href="/hyperos/myron/stable/OS3.0.13.0.WPMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K90 Pro Max China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.13.0.WPMCNXM</td><td>16.0</td><td>12.1 GB</td><td>2025-10-27</td><td><a href="/hyperos/myron/stable/OS3.0.13.0.WPMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K90 Pro Max China</td><td>Stable</td><td>Recovery</td><td>OS3.0.11.0.WPMCNXM</td><td>16.0</td><td>9.4 GB</td><td>2025-10-23</td><td><a href="/hyperos/myron/stable/OS3.0.11.0.WPMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K90 Pro Max China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.11.0.WPMCNXM</td><td>16.0</td><td>12.1 GB</td><td>2025-10-20</td><td><a href="/hyperos/myron/stable/OS3.0.11.0.WPMCNXM/">Download</a></td></tr>
