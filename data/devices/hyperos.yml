@@ -816,6 +816,12 @@
   version: OS2.0.203.0.VMFEUXM
 - android: '15.0'
   codename: aristotle
+  date: '2025-11-10'
+  download: https://bigota.d.miui.com/OS2.0.211.0.VMFEUXM/fw_aristotle_aristotle_eea_global-ota_full-OS2.0.211.0.VMFEUXM-user-15.0-dcad5ae43a.zip
+  name: Xiaomi 13T
+  version: OS2.0.211.0.VMFEUXM
+- android: '15.0'
+  codename: aristotle
   date: '2025-07-09'
   download: https://bigota.d.miui.com/OS2.0.203.0.VMFMIXM/fw_aristotle_global_aristotle_global-ota_full-OS2.0.203.0.VMFMIXM-user-15.0-58db77488e.zip
   name: Xiaomi 13T
@@ -11218,6 +11224,12 @@
   download: https://bigota.d.miui.com/OS2.0.4.0.VNTEUXM/fw_moon_eea_global_moon_eea_global-ota_full-OS2.0.4.0.VNTEUXM-user-15.0-855231ac4e.zip
   name: Redmi 13/POCO M6
   version: OS2.0.4.0.VNTEUXM
+- android: '15.0'
+  codename: moon
+  date: '2025-11-10'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VNTMIXM/fw_moon_moon_global-ota_full-OS2.0.203.0.VNTMIXM-user-15.0-a0402b0330.zip
+  name: Redmi 13/POCO M6
+  version: OS2.0.203.0.VNTMIXM
 - android: '14.0'
   codename: moon
   date: '2024-10-08'
@@ -11536,6 +11548,18 @@
   download: https://bigota.d.miui.com/OS1.0.17.0.UMPINXM/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.17.0.UMPINXM_a7f58ddb4f_14.0.zip
   name: POCO X5 5G
   version: OS1.0.17.0.UMPINXM
+- android: '14.0'
+  codename: moonstone
+  date: '2025-11-10'
+  download: https://bigota.d.miui.com/OS1.0.23.0.UMPEUXM/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.23.0.UMPEUXM_99f1e6748c_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.23.0.UMPEUXM
+- android: '14.0'
+  codename: moonstone
+  date: '2025-11-10'
+  download: https://bigota.d.miui.com/OS1.0.21.0.UMPINXM/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.21.0.UMPINXM_876fae1d86_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.21.0.UMPINXM
 - android: '14.0'
   codename: moonstone
   date: '2024-10-09'
@@ -12748,6 +12772,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VPXMIXM/fw_organ_organ_global-ota_full-OS2.0.202.0.VPXMIXM-user-15.0-f88d4df8c3.zip
   name: Redmi Pad 2 Pro 5G
   version: OS2.0.202.0.VPXMIXM
+- android: '15.0'
+  codename: organ
+  date: '2025-11-10'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VPXMIXM/fw_organ_organ_global-ota_full-OS2.0.203.0.VPXMIXM-user-15.0-3cbb44952b.zip
+  name: Redmi Pad 2 Pro 5G
+  version: OS2.0.203.0.VPXMIXM
 - android: '15.0'
   codename: organ
   date: '2025-10-09'
@@ -19301,6 +19331,12 @@
   name: Redmi 15C 5G/15R 5G/POCO C85 5G
   version: OS2.0.203.0.VPOMIXM
 - android: '15.0'
+  codename: tornado
+  date: '2025-11-10'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VPOCNXM/fw_tornado_tornado-ota_full-OS2.0.203.0.VPOCNXM-user-15.0-c475aea23c.zip
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  version: OS2.0.203.0.VPOCNXM
+- android: '15.0'
   codename: turner
   date: '2025-06-30'
   download: https://bigota.d.miui.com/OS2.0.211.0.VAOCNXM/fw_turner_turner-ota_full-OS2.0.211.0.VAOCNXM-user-15.0-6e2c8b7f5f.zip
@@ -20646,6 +20682,12 @@
   version: OS2.0.1.0.VGVINXM
 - android: '15.0'
   codename: warm
+  date: '2025-11-10'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VGVINXM/fw_warm_warm_in_global-ota_full-OS2.0.203.0.VGVINXM-user-15.0-75f5c1cd84.zip
+  name: Redmi A4 5G/POCO C75 5G
+  version: OS2.0.203.0.VGVINXM
+- android: '15.0'
+  codename: warm
   date: '2025-06-09'
   download: https://bigota.d.miui.com/OS2.0.2.0.VGVINXM/fw_warm_in_global_warm_in_global-ota_full-OS2.0.2.0.VGVINXM-user-15.0-e9633e132a.zip
   name: Redmi A4 5G/POCO C75 5G
@@ -21310,6 +21352,18 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UMUMIXM/fw_xun_miui_XUNGlobal_OS1.0.6.0.UMUMIXM_4617b2b9c9_14.0.zip
   name: Redmi Pad SE
   version: OS1.0.6.0.UMUMIXM
+- android: '15.0'
+  codename: xun
+  date: '2025-11-10'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VMUEUXM/fw_xun_xun_eea_global-ota_full-OS2.0.203.0.VMUEUXM-user-15.0-521774df82.zip
+  name: Redmi Pad SE
+  version: OS2.0.203.0.VMUEUXM
+- android: '15.0'
+  codename: xun
+  date: '2025-11-10'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VMUINXM/fw_xun_xun_in_global-ota_full-OS2.0.202.0.VMUINXM-user-15.0-11d8f13f58.zip
+  name: Redmi Pad SE
+  version: OS2.0.202.0.VMUINXM
 - android: '14.0'
   codename: xun
   date: '2024-05-10'

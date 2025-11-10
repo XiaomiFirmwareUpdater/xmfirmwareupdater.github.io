@@ -52,7 +52,9 @@ permalink: /archive/hyperos/mayfly/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12S China</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VLTCNXM</td><td>15.0</td><td>6.1 GB</td><td>2025-08-25</td><td><a href="/hyperos/mayfly/stable/OS2.0.204.0.VLTCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12S China</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VLTCNXM</td><td>15.0</td><td>6.1 GB</td><td>2025-09-25</td><td><a href="/hyperos/mayfly/stable/OS2.0.206.0.VLTCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12S China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VLTCNXM</td><td>15.0</td><td>7.4 GB</td><td>2025-09-17</td><td><a href="/hyperos/mayfly/stable/OS2.0.206.0.VLTCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12S China</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VLTCNXM</td><td>15.0</td><td>6.1 GB</td><td>2025-08-25</td><td><a href="/hyperos/mayfly/stable/OS2.0.204.0.VLTCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VLTCNXM</td><td>15.0</td><td>7.4 GB</td><td>2025-08-20</td><td><a href="/hyperos/mayfly/stable/OS2.0.204.0.VLTCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VLTCNXM</td><td>15.0</td><td>6.1 GB</td><td>2025-07-16</td><td><a href="/hyperos/mayfly/stable/OS2.0.202.0.VLTCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VLTCNXM</td><td>15.0</td><td>7.4 GB</td><td>2025-07-08</td><td><a href="/hyperos/mayfly/stable/OS2.0.202.0.VLTCNXM/">Download</a></td></tr>

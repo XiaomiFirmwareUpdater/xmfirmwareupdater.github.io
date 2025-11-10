@@ -9,22 +9,22 @@
     android: '14.0'
     miui: OS1.0.24.0.UMPMIXM
 - branch: stable
-  date: '2025-10-20'
+  date: '2025-11-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-21.10.2025/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.22.0.UMPEUXM_9be043aa42_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moonstone/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.22.0.UMPEUXM_9be043aa42_14.0.zip
-  filename: fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.22.0.UMPEUXM_9be043aa42_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-10.11.2025/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.23.0.UMPEUXM_99f1e6748c_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moonstone/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.23.0.UMPEUXM_99f1e6748c_14.0.zip
+  filename: fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.23.0.UMPEUXM_99f1e6748c_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.22.0.UMPEUXM
+    miui: OS1.0.23.0.UMPEUXM
 - branch: stable
-  date: '2025-10-20'
+  date: '2025-11-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-21.10.2025/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.20.0.UMPINXM_e0e7631111_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moonstone/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.20.0.UMPINXM_e0e7631111_14.0.zip
-  filename: fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.20.0.UMPINXM_e0e7631111_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-10.11.2025/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.21.0.UMPINXM_876fae1d86_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/moonstone/fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.21.0.UMPINXM_876fae1d86_14.0.zip
+  filename: fw_moonstone_miui_MOONSTONEINGlobal_OS1.0.21.0.UMPINXM_876fae1d86_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.20.0.UMPINXM
+    miui: OS1.0.21.0.UMPINXM

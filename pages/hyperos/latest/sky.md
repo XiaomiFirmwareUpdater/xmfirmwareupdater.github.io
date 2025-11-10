@@ -62,8 +62,8 @@ permalink: /hyperos/sky/
 <tr><td>Redmi 12 5G / POCO M6 Pro 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VMWINXM</td><td>15.0</td><td>4.6 GB</td><td>2025-09-19</td><td><a href="/hyperos/sky/stable/OS2.0.201.0.VMWINXM/">Download</a></td></tr>
 <tr><td>Redmi 12 5G Japan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VMWJPXM</td><td>15.0</td><td>6.8 GB</td><td>2025-09-04</td><td><a href="/hyperos/sky/stable/OS2.0.201.0.VMWJPXM/">Download</a></td></tr>
 <tr><td>Redmi 12 5G Japan</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VMWJPXM</td><td>15.0</td><td>4.8 GB</td><td>2025-09-19</td><td><a href="/hyperos/sky/stable/OS2.0.201.0.VMWJPXM/">Download</a></td></tr>
-<tr><td>Redmi 12 5G / POCO M6 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.VMWTWXM</td><td>15.0</td><td>6.5 GB</td><td>2025-03-12</td><td><a href="/hyperos/sky/stable/OS2.0.3.0.VMWTWXM/">Download</a></td></tr>
-<tr><td>Redmi 12 5G / POCO M6 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VMWTWXM</td><td>15.0</td><td>4.6 GB</td><td>2025-03-27</td><td><a href="/hyperos/sky/stable/OS2.0.3.0.VMWTWXM/">Download</a></td></tr>
+<tr><td>Redmi 12 5G / POCO M6 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VMWTWXM</td><td>15.0</td><td>6.2 GB</td><td>2025-10-16</td><td><a href="/hyperos/sky/stable/OS2.0.206.0.VMWTWXM/">Download</a></td></tr>
+<tr><td>Redmi 12 5G / POCO M6 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VMWTWXM</td><td>15.0</td><td>4.8 GB</td><td>2025-10-31</td><td><a href="/hyperos/sky/stable/OS2.0.206.0.VMWTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
