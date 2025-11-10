@@ -339,15 +339,15 @@
     android: '13.0'
     miui: OS1.0.2.0.TKJINXM
 - branch: stable
-  date: '2025-10-16'
+  date: '2025-11-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aristotle/releases/download/stable-16.10.2025/fw_aristotle_aristotle_global-ota_full-OS2.0.209.0.VMFMIXM-user-15.0-fd9dcf9c7f.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aristotle/fw_aristotle_aristotle_global-ota_full-OS2.0.209.0.VMFMIXM-user-15.0-fd9dcf9c7f.zip
-  filename: fw_aristotle_aristotle_global-ota_full-OS2.0.209.0.VMFMIXM-user-15.0-fd9dcf9c7f.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aristotle/releases/download/stable-10.11.2025/fw_aristotle_aristotle_global-ota_full-OS2.0.210.0.VMFMIXM-user-15.0-cc5831dde8.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aristotle/fw_aristotle_aristotle_global-ota_full-OS2.0.210.0.VMFMIXM-user-15.0-cc5831dde8.zip
+  filename: fw_aristotle_aristotle_global-ota_full-OS2.0.210.0.VMFMIXM-user-15.0-cc5831dde8.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.209.0.VMFMIXM
+    miui: OS2.0.210.0.VMFMIXM
 - branch: stable
   date: '2025-11-10'
   downloads:
@@ -3569,15 +3569,15 @@
     android: '14.0'
     miui: OS2.0.2.0.ULKCNXM
 - branch: stable
-  date: '2025-08-31'
+  date: '2025-11-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-01.09.2025/fw_mayfly_mayfly-ota_full-OS2.0.204.0.VLTCNXM-user-15.0-220b628d10.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mayfly/fw_mayfly_mayfly-ota_full-OS2.0.204.0.VLTCNXM-user-15.0-220b628d10.zip
-  filename: fw_mayfly_mayfly-ota_full-OS2.0.204.0.VLTCNXM-user-15.0-220b628d10.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-10.11.2025/fw_mayfly_mayfly-ota_full-OS2.0.206.0.VLTCNXM-user-15.0-fec5b64204.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mayfly/fw_mayfly_mayfly-ota_full-OS2.0.206.0.VLTCNXM-user-15.0-fec5b64204.zip
+  filename: fw_mayfly_mayfly-ota_full-OS2.0.206.0.VLTCNXM-user-15.0-fec5b64204.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.204.0.VLTCNXM
+    miui: OS2.0.206.0.VLTCNXM
 - branch: stable
   date: '2022-10-28'
   downloads:

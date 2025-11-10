@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 10 Nov 2025 07:53:12 </lastBuildDate>
+        <lastBuildDate>Mon, 10 Nov 2025 14:03:20 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13T (aristotle) - OS2.0.210.0.VMFMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
+            <pubDate>Mon, 10 Nov 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 13T (aristotle) - OS2.0.211.0.VMFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
+            <pubDate>Mon, 10 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12S (mayfly) - OS2.0.206.0.VLTCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/mayfly/</link>
             <pubDate>Mon, 10 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1097,11 +1107,6 @@
             <pubDate>Fri, 17 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13T (aristotle) - OS2.0.209.0.VMFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
-            <pubDate>Thu, 16 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS2.0.207.0.VMACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
             <pubDate>Wed, 15 Oct 2025 00:00:00 </pubDate>
@@ -1360,11 +1365,6 @@
             <title>Redmi 13C/POCO C65 (gale) - OS2.0.202.0.VGPMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gale/</link>
             <pubDate>Mon, 01 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12S (mayfly) - OS2.0.204.0.VLTCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/mayfly/</link>
-            <pubDate>Sun, 31 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Pad SE 8.7 5G (flare) - OS2.0.203.0.VHXEUXM</title>
