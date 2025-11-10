@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 10 Nov 2025 23:03:49 </lastBuildDate>
+        <lastBuildDate>Tue, 11 Nov 2025 00:49:19 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 13T (aristotle) - OS2.0.210.0.VMFMIXM</title>
@@ -39,6 +39,11 @@
         <item>
             <title>Xiaomi Pad 7 Pro (muyu) - muyu</title>
             <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
+            <pubDate>Mon, 10 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K90 Pro Max/POCO F8 Ultra (myron) - myron</title>
+            <link>https://xmfirmwareupdater.com/firmware/myron/</link>
             <pubDate>Mon, 10 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -339,11 +344,6 @@
         <item>
             <title>Xiaomi Pad 7 Pro (muyu) - OS2.0.204.0.VOYEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
-            <pubDate>Fri, 31 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K90 Pro Max/POCO F8 Ultra (myron) - myron</title>
-            <link>https://xmfirmwareupdater.com/firmware/myron/</link>
             <pubDate>Fri, 31 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>

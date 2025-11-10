@@ -3909,14 +3909,14 @@
     android: '15.0'
     miui: OS2.0.204.0.VOYEUXM
 - branch: stable
-  date: '2025-10-31'
+  date: '2025-11-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_myron/releases/download/stable-31.10.2025/fw_myron_myron-ota_full-OS3.0.13.0.WPMCNXM-user-16.0-18cc0bfb5e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/myron/myron/fw_myron_myron-ota_full-OS3.0.13.0.WPMCNXM-user-16.0-18cc0bfb5e.zip
-  filename: fw_myron_myron-ota_full-OS3.0.13.0.WPMCNXM-user-16.0-18cc0bfb5e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_myron/releases/download/stable-11.11.2025/fw_myron_myron-ota_full-OS3.0.14.0.WPMCNXM-user-16.0-e7b2bab2c8.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/myron/myron/fw_myron_myron-ota_full-OS3.0.14.0.WPMCNXM-user-16.0-e7b2bab2c8.zip
+  filename: fw_myron_myron-ota_full-OS3.0.14.0.WPMCNXM-user-16.0-e7b2bab2c8.zip
   region: China
   versions:
-    android: full-OS3.0.13.0.WPMCNXM-user-16.0-18cc0bfb5e
+    android: full-OS3.0.14.0.WPMCNXM-user-16.0-e7b2bab2c8
     miui: myron
 - branch: stable
   date: '2024-10-08'
