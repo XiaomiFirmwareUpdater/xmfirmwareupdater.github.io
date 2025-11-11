@@ -9,12 +9,12 @@
     android: '15.0'
     miui: OS2.0.206.0.VOSMIXM
 - branch: stable
-  date: '2025-09-24'
+  date: '2025-11-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-25.09.2025/fw_klimt_eea_global_klimt_eea_global-ota_full-OS2.0.208.0.VOSEUXM-user-15.0-2fd44903b0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/klimt/fw_klimt_eea_global_klimt_eea_global-ota_full-OS2.0.208.0.VOSEUXM-user-15.0-2fd44903b0.zip
-  filename: fw_klimt_eea_global_klimt_eea_global-ota_full-OS2.0.208.0.VOSEUXM-user-15.0-2fd44903b0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-11.11.2025/fw_klimt_klimt_eea_global-ota_full-OS2.0.209.0.VOSEUXM-user-15.0-b4c74a8ea3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/klimt/fw_klimt_klimt_eea_global-ota_full-OS2.0.209.0.VOSEUXM-user-15.0-b4c74a8ea3.zip
+  filename: fw_klimt_klimt_eea_global-ota_full-OS2.0.209.0.VOSEUXM-user-15.0-b4c74a8ea3.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.208.0.VOSEUXM
+    miui: OS2.0.209.0.VOSEUXM
