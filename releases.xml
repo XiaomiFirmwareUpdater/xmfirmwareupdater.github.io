@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 12 Nov 2025 06:44:44 </lastBuildDate>
+        <lastBuildDate>Wed, 12 Nov 2025 14:22:00 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Pad SE 8.7 4G (spark) - OS2.0.205.0.VHYEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spark/</link>
+            <pubDate>Wed, 12 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70/POCO F6 Pro (vermeer) - OS2.0.210.0.VNKEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
+            <pubDate>Wed, 12 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.205.0.VNOEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Wed, 12 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -952,11 +962,6 @@
             <pubDate>Thu, 23 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.204.0.VNOEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
-            <pubDate>Thu, 23 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.206.0.VNOINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Thu, 23 Oct 2025 00:00:00 </pubDate>
@@ -1029,11 +1034,6 @@
         <item>
             <title>Redmi Pad 2 (taiko) - OS2.0.205.0.VOVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
-            <pubDate>Wed, 22 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70/POCO F6 Pro (vermeer) - OS2.0.209.0.VNKEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Wed, 22 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
