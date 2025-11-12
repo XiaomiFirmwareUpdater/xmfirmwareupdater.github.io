@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 12 Nov 2025 14:22:00 </lastBuildDate>
+        <lastBuildDate>Wed, 12 Nov 2025 19:28:54 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13 Ultra (ishtar) - OS2.0.208.0.VMACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
+            <pubDate>Wed, 12 Nov 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Pad SE 8.7 4G (spark) - OS2.0.205.0.VHYEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spark/</link>
@@ -1115,11 +1120,6 @@
             <title>Xiaomi 12 Lite (taoyao) - OS1.0.33.0.ULIEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taoyao/</link>
             <pubDate>Fri, 17 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Ultra (ishtar) - OS2.0.207.0.VMACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
-            <pubDate>Wed, 15 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) - OS2.0.203.0.VPOMIXM</title>
