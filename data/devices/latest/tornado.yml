@@ -28,3 +28,13 @@
   versions:
     android: '15.0'
     miui: OS2.0.203.0.VPOEUXM
+- branch: stable
+  date: '2025-11-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tornado/releases/download/stable-13.11.2025/fw_tornado_tornado_in_global-ota_full-OS2.0.202.0.VPOINXM-user-15.0-955fd223a5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/tornado/fw_tornado_tornado_in_global-ota_full-OS2.0.202.0.VPOINXM-user-15.0-955fd223a5.zip
+  filename: fw_tornado_tornado_in_global-ota_full-OS2.0.202.0.VPOINXM-user-15.0-955fd223a5.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.202.0.VPOINXM
