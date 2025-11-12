@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 12 Nov 2025 00:42:01 </lastBuildDate>
+        <lastBuildDate>Wed, 12 Nov 2025 06:44:44 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Pad SE 8.7 4G (spark) - OS2.0.205.0.VHYEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/spark/</link>
+            <pubDate>Wed, 12 Nov 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 15T Pro (klimt) - OS2.0.209.0.VOSEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
@@ -1380,11 +1385,6 @@
             <title>Redmi 13C/POCO C65 (gale) - OS2.0.202.0.VGPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gale/</link>
             <pubDate>Fri, 29 Aug 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad SE 8.7 4G (spark) - OS2.0.203.0.VHYEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/spark/</link>
-            <pubDate>Thu, 28 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS2.0.6.0.UMQCNXM</title>

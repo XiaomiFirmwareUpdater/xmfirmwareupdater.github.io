@@ -17874,6 +17874,12 @@
   version: OS1.0.5.0.UHYEUXM
 - android: '15.0'
   codename: spark
+  date: '2025-11-12'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VHYEUXM/fw_spark_spark_eea_global-ota_full-OS2.0.205.0.VHYEUXM-user-15.0-a7f84559e1.zip
+  name: Redmi Pad SE 8.7 4G
+  version: OS2.0.205.0.VHYEUXM
+- android: '15.0'
+  codename: spark
   date: '2025-05-12'
   download: https://bigota.d.miui.com/OS2.0.3.0.VHYEUXM/fw_spark_eea_global_spark_eea_global-ota_full-OS2.0.3.0.VHYEUXM-user-15.0-1c4ed59a35.zip
   name: Redmi Pad SE 8.7 4G
