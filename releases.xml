@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 13 Nov 2025 13:47:15 </lastBuildDate>
+        <lastBuildDate>Thu, 13 Nov 2025 20:29:04 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 15 (dada) - eea</title>
             <link>https://xmfirmwareupdater.com/firmware/dada/</link>
+            <pubDate>Thu, 13 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A3x (klein) - V816.0.1.0.WGSMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/klein/</link>
+            <pubDate>Thu, 13 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - onyx</title>
+            <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
             <pubDate>Thu, 13 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -542,11 +552,6 @@
             <pubDate>Wed, 29 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi A3x (klein) - V816.0.7.0.VGSMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/klein/</link>
-            <pubDate>Wed, 29 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi A3x (klein) - V816.0.8.0.VGSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/klein/</link>
             <pubDate>Wed, 29 Oct 2025 00:00:00 </pubDate>
@@ -869,11 +874,6 @@
         <item>
             <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS2.0.207.0.VOMEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/miro/</link>
-            <pubDate>Sat, 25 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - OS2.0.216.0.VOLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
             <pubDate>Sat, 25 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>

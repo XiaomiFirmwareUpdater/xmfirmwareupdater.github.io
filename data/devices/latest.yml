@@ -2859,15 +2859,15 @@
     android: '6.0'
     miui: 8.11.22
 - branch: stable
-  date: '2025-10-29'
+  date: '2025-11-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klein/releases/download/stable-29.10.2025/fw_klein_miui_KLEINGlobal_V816.0.7.0.VGSMIXM_a80314fad4_15.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V816/klein/fw_klein_miui_KLEINGlobal_V816.0.7.0.VGSMIXM_a80314fad4_15.0.zip
-  filename: fw_klein_miui_KLEINGlobal_V816.0.7.0.VGSMIXM_a80314fad4_15.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klein/releases/download/stable-13.11.2025/fw_klein_miui_KLEINGlobal_V816.0.1.0.WGSMIXM_3791f0c123_16.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V816/klein/fw_klein_miui_KLEINGlobal_V816.0.1.0.WGSMIXM_3791f0c123_16.0.zip
+  filename: fw_klein_miui_KLEINGlobal_V816.0.1.0.WGSMIXM_3791f0c123_16.0.zip
   region: Global
   versions:
-    android: '15.0'
-    miui: V816.0.7.0.VGSMIXM
+    android: '16.0'
+    miui: V816.0.1.0.WGSMIXM
 - branch: stable
   date: '2025-10-29'
   downloads:
@@ -4279,15 +4279,15 @@
     android: '15.0'
     miui: OS2.0.204.0.VOLMIXM
 - branch: stable
-  date: '2025-10-25'
+  date: '2025-11-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-25.10.2025/fw_onyx_onyx-ota_full-OS2.0.216.0.VOLCNXM-user-15.0-6e1ac7510e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/onyx/fw_onyx_onyx-ota_full-OS2.0.216.0.VOLCNXM-user-15.0-6e1ac7510e.zip
-  filename: fw_onyx_onyx-ota_full-OS2.0.216.0.VOLCNXM-user-15.0-6e1ac7510e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-13.11.2025/fw_onyx_onyx-ota_full-OS3.0.4.0.WOLCNXM-user-16.0-8390fb1aa7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/onyx/onyx/fw_onyx_onyx-ota_full-OS3.0.4.0.WOLCNXM-user-16.0-8390fb1aa7.zip
+  filename: fw_onyx_onyx-ota_full-OS3.0.4.0.WOLCNXM-user-16.0-8390fb1aa7.zip
   region: China
   versions:
-    android: '15.0'
-    miui: OS2.0.216.0.VOLCNXM
+    android: full-OS3.0.4.0.WOLCNXM-user-16.0-8390fb1aa7
+    miui: onyx
 - branch: stable
   date: '2025-10-30'
   downloads:
