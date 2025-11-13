@@ -1299,15 +1299,15 @@
     android: '16.0'
     miui: OS2.0.227.0.WOCMIXM
 - branch: stable
-  date: '2025-10-22'
+  date: '2025-11-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dada/releases/download/stable-22.10.2025/fw_dada_dada-ota_full-OS3.0.2.0.WOCCNXM-user-16.0-eedf69a07b.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/dada/dada/fw_dada_dada-ota_full-OS3.0.2.0.WOCCNXM-user-16.0-eedf69a07b.zip
-  filename: fw_dada_dada-ota_full-OS3.0.2.0.WOCCNXM-user-16.0-eedf69a07b.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dada/releases/download/stable-13.11.2025/fw_dada_dada_eea_global-ota_full-OS3.0.4.0.WOCEUXM-user-16.0-9186bc5ba4.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/eea/dada/fw_dada_dada_eea_global-ota_full-OS3.0.4.0.WOCEUXM-user-16.0-9186bc5ba4.zip
+  filename: fw_dada_dada_eea_global-ota_full-OS3.0.4.0.WOCEUXM-user-16.0-9186bc5ba4.zip
   region: China
   versions:
-    android: full-OS3.0.2.0.WOCCNXM-user-16.0-eedf69a07b
-    miui: dada
+    android: full-OS3.0.4.0.WOCEUXM-user-16.0-9186bc5ba4
+    miui: eea
 - branch: stable
   date: '2025-10-27'
   downloads:
@@ -5749,15 +5749,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2025-09-11'
+  date: '2025-11-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-11.09.2025/fw_sky_global_sky_global-ota_full-OS2.0.204.0.VMWMIXM-user-15.0-cbe4ca7c4c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sky/fw_sky_global_sky_global-ota_full-OS2.0.204.0.VMWMIXM-user-15.0-cbe4ca7c4c.zip
-  filename: fw_sky_global_sky_global-ota_full-OS2.0.204.0.VMWMIXM-user-15.0-cbe4ca7c4c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-13.11.2025/fw_sky_sky_global-ota_full-OS2.0.205.0.VMWMIXM-user-15.0-1ca2e27277.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sky/fw_sky_sky_global-ota_full-OS2.0.205.0.VMWMIXM-user-15.0-1ca2e27277.zip
+  filename: fw_sky_sky_global-ota_full-OS2.0.205.0.VMWMIXM-user-15.0-1ca2e27277.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.204.0.VMWMIXM
+    miui: OS2.0.205.0.VMWMIXM
 - branch: stable
   date: '2025-10-04'
   downloads:
@@ -7049,24 +7049,24 @@
     android: '14.0'
     miui: OS2.0.3.0.ULOINXM
 - branch: stable
-  date: '2025-09-19'
+  date: '2025-11-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xuanyuan/releases/download/stable-19.09.2025/fw_xuanyuan_global_xuanyuan_global-ota_full-OS2.0.205.0.VOAMIXM-user-15.0-946109ba7c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xuanyuan/fw_xuanyuan_global_xuanyuan_global-ota_full-OS2.0.205.0.VOAMIXM-user-15.0-946109ba7c.zip
-  filename: fw_xuanyuan_global_xuanyuan_global-ota_full-OS2.0.205.0.VOAMIXM-user-15.0-946109ba7c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xuanyuan/releases/download/stable-13.11.2025/fw_xuanyuan_xuanyuan_global-ota_full-OS2.0.206.0.VOAMIXM-user-15.0-93eb8bea23.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xuanyuan/fw_xuanyuan_xuanyuan_global-ota_full-OS2.0.206.0.VOAMIXM-user-15.0-93eb8bea23.zip
+  filename: fw_xuanyuan_xuanyuan_global-ota_full-OS2.0.206.0.VOAMIXM-user-15.0-93eb8bea23.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.205.0.VOAMIXM
+    miui: OS2.0.206.0.VOAMIXM
 - branch: stable
-  date: '2025-11-04'
+  date: '2025-11-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xuanyuan/releases/download/stable-04.11.2025/fw_xuanyuan_xuanyuan-ota_full-OS3.0.3.0.WOACNXM-user-16.0-818a28ff4e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/xuanyuan/xuanyuan/fw_xuanyuan_xuanyuan-ota_full-OS3.0.3.0.WOACNXM-user-16.0-818a28ff4e.zip
-  filename: fw_xuanyuan_xuanyuan-ota_full-OS3.0.3.0.WOACNXM-user-16.0-818a28ff4e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xuanyuan/releases/download/stable-13.11.2025/fw_xuanyuan_xuanyuan-ota_full-OS3.0.6.0.WOACNXM-user-16.0-2fbc58db80.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/xuanyuan/xuanyuan/fw_xuanyuan_xuanyuan-ota_full-OS3.0.6.0.WOACNXM-user-16.0-2fbc58db80.zip
+  filename: fw_xuanyuan_xuanyuan-ota_full-OS3.0.6.0.WOACNXM-user-16.0-2fbc58db80.zip
   region: China
   versions:
-    android: full-OS3.0.3.0.WOACNXM-user-16.0-818a28ff4e
+    android: full-OS3.0.6.0.WOACNXM-user-16.0-2fbc58db80
     miui: xuanyuan
 - branch: stable
   date: '2025-11-03'

@@ -17568,6 +17568,12 @@
   version: OS1.0.4.0.UMWINXM
 - android: '15.0'
   codename: sky
+  date: '2025-11-13'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VMWMIXM/fw_sky_sky_global-ota_full-OS2.0.205.0.VMWMIXM-user-15.0-1ca2e27277.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS2.0.205.0.VMWMIXM
+- android: '15.0'
+  codename: sky
   date: '2025-01-13'
   download: https://bigota.d.miui.com/OS2.0.3.0.VMWEUXM/fw_sky_eea_global_sky_eea_global-ota_full-OS2.0.3.0.VMWEUXM-user-15.0-c1694df2b3.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
@@ -21178,6 +21184,12 @@
   download: https://bigota.d.miui.com/OS2.0.103.0.VOAMIXM/fw_xuanyuan_global_xuanyuan_global-ota_full-OS2.0.103.0.VOAMIXM-user-15.0-da9c1b58bd.zip
   name: Xiaomi 15 Ultra
   version: OS2.0.103.0.VOAMIXM
+- android: '15.0'
+  codename: xuanyuan
+  date: '2025-11-13'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VOAMIXM/fw_xuanyuan_xuanyuan_global-ota_full-OS2.0.206.0.VOAMIXM-user-15.0-93eb8bea23.zip
+  name: Xiaomi 15 Ultra
+  version: OS2.0.206.0.VOAMIXM
 - android: '15.0'
   codename: xuanyuan
   date: '2025-09-12'
