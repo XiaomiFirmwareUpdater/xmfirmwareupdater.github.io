@@ -4,8 +4,28 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 14 Nov 2025 06:41:09 </lastBuildDate>
+        <lastBuildDate>Fri, 14 Nov 2025 15:49:32 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS2.0.204.0.VNUCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
+            <pubDate>Fri, 14 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE 8.7 5G (flare) - OS2.0.205.0.VHXEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
+            <pubDate>Fri, 14 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12T Pro (pearl) - OS2.0.214.0.VLHCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/pearl/</link>
+            <pubDate>Fri, 14 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 NFC (sapphiren) - OS2.0.205.0.VNHEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
+            <pubDate>Fri, 14 Nov 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi A5/POCO C71 (serenity) - A15.0.14.0.VGWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
@@ -1212,11 +1232,6 @@
             <pubDate>Tue, 07 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12T Pro (pearl) - OS2.0.212.0.VLHCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pearl/</link>
-            <pubDate>Sun, 05 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K80/POCO F7 Pro (zorn) - OS2.0.206.0.VOKEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zorn/</link>
             <pubDate>Sun, 05 Oct 2025 00:00:00 </pubDate>
@@ -1224,11 +1239,6 @@
         <item>
             <title>Xiaomi Pad 6 (pipa) - OS2.0.8.0.UMZMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
-            <pubDate>Sat, 04 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 NFC (sapphiren) - OS2.0.204.0.VNHEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
             <pubDate>Sat, 04 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1337,11 +1347,6 @@
             <pubDate>Mon, 15 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS2.0.203.0.VNUCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
-            <pubDate>Wed, 10 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K70/POCO F6 Pro (vermeer) - OS2.0.205.0.VNKMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Tue, 09 Sep 2025 00:00:00 </pubDate>
@@ -1375,11 +1380,6 @@
             <title>Redmi 13C/POCO C65 (gale) - OS2.0.202.0.VGPMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gale/</link>
             <pubDate>Mon, 01 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad SE 8.7 5G (flare) - OS2.0.203.0.VHXEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
-            <pubDate>Sat, 30 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.8.0.UCVCNXM</title>

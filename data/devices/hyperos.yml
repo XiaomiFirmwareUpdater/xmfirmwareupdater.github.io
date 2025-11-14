@@ -1848,6 +1848,12 @@
   version: OS1.0.9.0.UNUINXM
 - android: '15.0'
   codename: breeze
+  date: '2025-11-14'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNUCNXM/fw_breeze_breeze-ota_full-OS2.0.204.0.VNUCNXM-user-15.0-23df26361c.zip
+  name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
+  version: OS2.0.204.0.VNUCNXM
+- android: '15.0'
+  codename: breeze
   date: '2024-12-11'
   download: https://bigota.d.miui.com/OS2.0.3.0.VNUINXM/fw_breeze_in_global_breeze_in_global-ota_full-OS2.0.3.0.VNUINXM-user-15.0-c535dc4d4d.zip
   name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
@@ -5524,6 +5530,12 @@
   download: https://bigota.d.miui.com/OS2.0.5.0.VHXMIXM/fw_flare_global_flare_global-ota_full-OS2.0.5.0.VHXMIXM-user-15.0-0116ce0fd3.zip
   name: Redmi Pad SE 8.7 5G
   version: OS2.0.5.0.VHXMIXM
+- android: '15.0'
+  codename: flare
+  date: '2025-11-14'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VHXEUXM/fw_flare_flare_eea_global-ota_full-OS2.0.205.0.VHXEUXM-user-15.0-cba72919c1.zip
+  name: Redmi Pad SE 8.7 5G
+  version: OS2.0.205.0.VHXEUXM
 - android: '14.0'
   codename: flare
   date: '2025-01-13'
@@ -12868,6 +12880,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.ULHCNXM/fw_pearl_miui_PEARL_OS1.0.5.0.ULHCNXM_43b5bc657b_14.0.zip
   name: Redmi Note 12T Pro
   version: OS1.0.5.0.ULHCNXM
+- android: '15.0'
+  codename: pearl
+  date: '2025-11-14'
+  download: https://bigota.d.miui.com/OS2.0.214.0.VLHCNXM/fw_pearl_pearl-ota_full-OS2.0.214.0.VLHCNXM-user-15.0-4da6a8bb39.zip
+  name: Redmi Note 12T Pro
+  version: OS2.0.214.0.VLHCNXM
 - android: '14.0'
   codename: pearl
   date: '2024-05-13'
@@ -16636,6 +16654,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UNHEUXM/fw_sapphiren_miui_SAPPHIRENEEAGlobal_OS1.0.1.0.UNHEUXM_3e12bdc8b2_14.0.zip
   name: Redmi Note 13 NFC
   version: OS1.0.1.0.UNHEUXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-11-14'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VNHEUXM/fw_sapphiren_sapphiren_eea_global-ota_full-OS2.0.205.0.VNHEUXM-user-15.0-e35017afd0.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.205.0.VNHEUXM
 - android: '15.0'
   codename: sapphiren
   date: '2025-07-11'

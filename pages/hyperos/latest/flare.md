@@ -52,8 +52,8 @@ permalink: /hyperos/flare/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad SE 8.7 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VHXEUXM</td><td>15.0</td><td>5.4 GB</td><td>2025-08-12</td><td><a href="/hyperos/flare/stable/OS2.0.203.0.VHXEUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad SE 8.7 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VHXEUXM</td><td>15.0</td><td>4.5 GB</td><td>2025-08-22</td><td><a href="/hyperos/flare/stable/OS2.0.203.0.VHXEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad SE 8.7 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VHXEUXM</td><td>15.0</td><td>5.5 GB</td><td>2025-10-24</td><td><a href="/hyperos/flare/stable/OS2.0.205.0.VHXEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE 8.7 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VHXEUXM</td><td>15.0</td><td>4.5 GB</td><td>2025-11-04</td><td><a href="/hyperos/flare/stable/OS2.0.205.0.VHXEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UHXEUXM</td><td>14.0</td><td>4.0 GB</td><td>2024-08-27</td><td><a href="/hyperos/flare/stable beta/OS1.0.1.0.UHXEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VHXMIXM</td><td>15.0</td><td>5.7 GB</td><td>2025-09-22</td><td><a href="/hyperos/flare/stable/OS2.0.203.0.VHXMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VHXMIXM</td><td>15.0</td><td>4.5 GB</td><td>2025-10-24</td><td><a href="/hyperos/flare/stable/OS2.0.203.0.VHXMIXM/">Download</a></td></tr>

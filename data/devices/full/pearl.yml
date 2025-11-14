@@ -139,6 +139,16 @@
     android: '14.0'
     miui: OS1.0.5.0.ULHCNXM
 - branch: stable
+  date: '2025-11-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pearl/releases/download/stable-14.11.2025/fw_pearl_pearl-ota_full-OS2.0.214.0.VLHCNXM-user-15.0-4da6a8bb39.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/pearl/fw_pearl_pearl-ota_full-OS2.0.214.0.VLHCNXM-user-15.0-4da6a8bb39.zip
+  filename: fw_pearl_pearl-ota_full-OS2.0.214.0.VLHCNXM-user-15.0-4da6a8bb39.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.214.0.VLHCNXM
+- branch: stable
   date: '2024-05-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pearl/releases/download/stable-14.05.2024/fw_pearl_miui_PEARL_OS1.0.1.0.ULHCNXM_bbacc31521_14.0.zip
