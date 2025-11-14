@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 14 Nov 2025 00:38:28 </lastBuildDate>
+        <lastBuildDate>Fri, 14 Nov 2025 06:41:09 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi A5/POCO C71 (serenity) - A15.0.14.0.VGWMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
+            <pubDate>Fri, 14 Nov 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 15 (dada) - eea</title>
             <link>https://xmfirmwareupdater.com/firmware/dada/</link>
@@ -1224,11 +1229,6 @@
         <item>
             <title>Redmi Note 13 NFC (sapphiren) - OS2.0.204.0.VNHEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
-            <pubDate>Sat, 04 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A5/POCO C71 (serenity) - A15.0.13.0.VGWMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
             <pubDate>Sat, 04 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
