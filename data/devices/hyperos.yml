@@ -2652,6 +2652,12 @@
   version: OS1.0.7.0.ULCEUXM
 - android: '15.0'
   codename: cupid
+  date: '2025-11-14'
+  download: https://bigota.d.miui.com/OS2.0.212.0.VLCCNXM/fw_cupid_cupid-ota_full-OS2.0.212.0.VLCCNXM-user-15.0-c6b15d4567.zip
+  name: Xiaomi 12
+  version: OS2.0.212.0.VLCCNXM
+- android: '15.0'
+  codename: cupid
   date: '2025-05-14'
   download: https://bigota.d.miui.com/OS2.0.9.0.VLCCNXM/fw_cupid_cupid-ota_full-OS2.0.9.0.VLCCNXM-user-15.0-c99db6d4eb.zip
   name: Xiaomi 12
@@ -8584,6 +8590,18 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMACNXM/fw_ishtar_miui_ISHTAR_OS1.0.4.0.UMACNXM_0801f3ef9d_14.0.zip
   name: Xiaomi 13 Ultra
   version: OS1.0.4.0.UMACNXM
+- android: '15.0'
+  codename: ishtar
+  date: '2025-11-14'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VMAEUXM/fw_ishtar_ishtar_eea_global-ota_full-OS2.0.204.0.VMAEUXM-user-15.0-37620b25f0.zip
+  name: Xiaomi 13 Ultra
+  version: OS2.0.204.0.VMAEUXM
+- android: '15.0'
+  codename: ishtar
+  date: '2025-11-14'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VMAMIXM/fw_ishtar_ishtar_global-ota_full-OS2.0.208.0.VMAMIXM-user-15.0-a205ba7bf8.zip
+  name: Xiaomi 13 Ultra
+  version: OS2.0.208.0.VMAMIXM
 - android: '14.0'
   codename: ishtar
   date: '2024-05-14'
@@ -9010,6 +9028,12 @@
   download: https://bigota.d.miui.com/OS2.0.206.0.VPPCNXM/fw_lapis_lapis-ota_full-OS2.0.206.0.VPPCNXM-user-15.0-156350797d.zip
   name: Redmi Note 15 Pro
   version: OS2.0.206.0.VPPCNXM
+- android: '15.0'
+  codename: lapis
+  date: '2025-11-14'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VPPCNXM/fw_lapis_lapis-ota_full-OS2.0.208.0.VPPCNXM-user-15.0-43f9c29064.zip
+  name: Redmi Note 15 Pro
+  version: OS2.0.208.0.VPPCNXM
 - android: '15.0'
   codename: lapis
   date: '2025-09-02'

@@ -29,6 +29,16 @@
     android: '15.0'
     miui: OS2.0.206.0.VOEMIXM
 - branch: stable
+  date: '2025-11-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-14.11.2025/fw_goya_goya_eea_global-ota_full-OS3.0.4.0.WOEEUXM-user-16.0-d1377fec0c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/eea/goya/fw_goya_goya_eea_global-ota_full-OS3.0.4.0.WOEEUXM-user-16.0-d1377fec0c.zip
+  filename: fw_goya_goya_eea_global-ota_full-OS3.0.4.0.WOEEUXM-user-16.0-d1377fec0c.zip
+  region: China
+  versions:
+    android: full-OS3.0.4.0.WOEEUXM-user-16.0-d1377fec0c
+    miui: eea
+- branch: stable
   date: '2025-11-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-07.11.2025/fw_goya_goya_eea_global-ota_full-OS3.0.3.0.WOEEUXM-user-16.0-efa5a81817.zip

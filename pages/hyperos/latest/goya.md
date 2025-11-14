@@ -52,8 +52,8 @@ permalink: /hyperos/goya/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 15T EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOEEUXM</td><td>16.0</td><td>8.6 GB</td><td>2025-10-24</td><td><a href="/hyperos/goya/stable/OS3.0.3.0.WOEEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15T EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOEEUXM</td><td>16.0</td><td>6.9 GB</td><td>2025-10-25</td><td><a href="/hyperos/goya/stable/OS3.0.3.0.WOEEUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 15T EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WOEEUXM</td><td>16.0</td><td>8.6 GB</td><td>2025-11-05</td><td><a href="/hyperos/goya/stable/OS3.0.4.0.WOEEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WOEEUXM</td><td>16.0</td><td>6.9 GB</td><td>2025-11-07</td><td><a href="/hyperos/goya/stable/OS3.0.4.0.WOEEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.203.0.VOEEUXM</td><td>15.0</td><td>6.4 GB</td><td>2025-09-24</td><td><a href="/hyperos/goya/stable beta/OS2.0.203.0.VOEEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VOEMIXM</td><td>15.0</td><td>8.9 GB</td><td>2025-10-20</td><td><a href="/hyperos/goya/stable/OS2.0.207.0.VOEMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VOEMIXM</td><td>15.0</td><td>6.3 GB</td><td>2025-10-28</td><td><a href="/hyperos/goya/stable/OS2.0.207.0.VOEMIXM/">Download</a></td></tr>

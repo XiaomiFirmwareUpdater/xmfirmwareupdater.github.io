@@ -409,6 +409,26 @@
     android: '14.0'
     miui: OS1.0.4.0.UMACNXM
 - branch: stable
+  date: '2025-11-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-14.11.2025/fw_ishtar_ishtar_eea_global-ota_full-OS2.0.204.0.VMAEUXM-user-15.0-37620b25f0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ishtar/fw_ishtar_ishtar_eea_global-ota_full-OS2.0.204.0.VMAEUXM-user-15.0-37620b25f0.zip
+  filename: fw_ishtar_ishtar_eea_global-ota_full-OS2.0.204.0.VMAEUXM-user-15.0-37620b25f0.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.204.0.VMAEUXM
+- branch: stable
+  date: '2025-11-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-14.11.2025/fw_ishtar_ishtar_global-ota_full-OS2.0.208.0.VMAMIXM-user-15.0-a205ba7bf8.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ishtar/fw_ishtar_ishtar_global-ota_full-OS2.0.208.0.VMAMIXM-user-15.0-a205ba7bf8.zip
+  filename: fw_ishtar_ishtar_global-ota_full-OS2.0.208.0.VMAMIXM-user-15.0-a205ba7bf8.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.208.0.VMAMIXM
+- branch: stable
   date: '2024-05-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-14.05.2024/fw_ishtar_miui_ISHTAR_OS1.0.9.0.UMACNXM_a6fadf1e8b_14.0.zip
