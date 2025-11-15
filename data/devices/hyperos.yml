@@ -16342,6 +16342,12 @@
   download: https://bigota.d.miui.com/OS2.0.102.0.VNIMIXM/fw_ruyi_global_ruyi_global-ota_full-OS2.0.102.0.VNIMIXM-user-15.0-588089bda1.zip
   name: MIX Flip
   version: OS2.0.102.0.VNIMIXM
+- android: '15.0'
+  codename: ruyi
+  date: '2025-11-15'
+  download: https://bigota.d.miui.com/OS2.0.213.0.VNIEUXM/fw_ruyi_ruyi_eea_global-ota_full-OS2.0.213.0.VNIEUXM-user-15.0-5d821cb98e.zip
+  name: MIX Flip
+  version: OS2.0.213.0.VNIEUXM
 - android: '14.0'
   codename: ruyi
   date: '2024-12-14'
