@@ -199,6 +199,16 @@
     android: '13.0'
     miui: V14.0.8.0.TGPMIXM
 - branch: stable
+  date: '2025-11-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-17.11.2025/fw_gale_gale_in_global-ota_full-OS2.0.203.0.VGPINXM-user-15.0-46046ca902.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gale/fw_gale_gale_in_global-ota_full-OS2.0.203.0.VGPINXM-user-15.0-46046ca902.zip
+  filename: fw_gale_gale_in_global-ota_full-OS2.0.203.0.VGPINXM-user-15.0-46046ca902.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.203.0.VGPINXM
+- branch: stable
   date: '2024-04-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-17.04.2024/fw_gale_miui_GALEINGlobal_V14.0.5.0.TGPINXM_13d4997127_13.0.zip

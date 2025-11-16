@@ -56,22 +56,22 @@ permalink: /hyperos/corot/stable/OS2.0.210.0.VMLCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.6 GB</h5>
+                    <h5><b>Size: </b>6.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-10-24</h5>
+                    <h5><b>Release Date: </b>2025-10-27</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">corot_images_OS2.0.210.0.VMLCNXM_20251024.0000.00_15.0_cn_db24fc724d.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">corot-ota_full-OS2.0.210.0.VMLCNXM-user-15.0-d36db44c1d.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">db24fc724d13d8db7fa905fe43abed0b</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">d36db44c1dd064e260376179c3798140</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.210.0.VMLCNXM/corot_images_OS2.0.210.0.VMLCNXM_20251024.0000.00_15.0_cn_db24fc724d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.210.0.VMLCNXM/corot_images_OS2.0.210.0.VMLCNXM_20251024.0000.00_15.0_cn_db24fc724d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.210.0.VMLCNXM/corot_images_OS2.0.210.0.VMLCNXM_20251024.0000.00_15.0_cn_db24fc724d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.210.0.VMLCNXM/corot_images_OS2.0.210.0.VMLCNXM_20251024.0000.00_15.0_cn_db24fc724d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.210.0.VMLCNXM/corot_images_OS2.0.210.0.VMLCNXM_20251024.0000.00_15.0_cn_db24fc724d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.210.0.VMLCNXM/corot-ota_full-OS2.0.210.0.VMLCNXM-user-15.0-d36db44c1d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.210.0.VMLCNXM/corot-ota_full-OS2.0.210.0.VMLCNXM-user-15.0-d36db44c1d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.210.0.VMLCNXM/corot-ota_full-OS2.0.210.0.VMLCNXM-user-15.0-d36db44c1d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.210.0.VMLCNXM/corot-ota_full-OS2.0.210.0.VMLCNXM-user-15.0-d36db44c1d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.210.0.VMLCNXM/corot-ota_full-OS2.0.210.0.VMLCNXM-user-15.0-d36db44c1d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#corot_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/corot/stable/OS2.0.210.0.VMLCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.8 GB</h5>
+                    <h5><b>Size: </b>8.6 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-10-27</h5>
+                    <h5><b>Release Date: </b>2025-10-24</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">corot-ota_full-OS2.0.210.0.VMLCNXM-user-15.0-d36db44c1d.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">corot_images_OS2.0.210.0.VMLCNXM_20251024.0000.00_15.0_cn_db24fc724d.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">d36db44c1dd064e260376179c3798140</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">db24fc724d13d8db7fa905fe43abed0b</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.210.0.VMLCNXM/corot-ota_full-OS2.0.210.0.VMLCNXM-user-15.0-d36db44c1d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.210.0.VMLCNXM/corot-ota_full-OS2.0.210.0.VMLCNXM-user-15.0-d36db44c1d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.210.0.VMLCNXM/corot-ota_full-OS2.0.210.0.VMLCNXM-user-15.0-d36db44c1d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.210.0.VMLCNXM/corot-ota_full-OS2.0.210.0.VMLCNXM-user-15.0-d36db44c1d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.210.0.VMLCNXM/corot-ota_full-OS2.0.210.0.VMLCNXM-user-15.0-d36db44c1d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.210.0.VMLCNXM/corot_images_OS2.0.210.0.VMLCNXM_20251024.0000.00_15.0_cn_db24fc724d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.210.0.VMLCNXM/corot_images_OS2.0.210.0.VMLCNXM_20251024.0000.00_15.0_cn_db24fc724d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.210.0.VMLCNXM/corot_images_OS2.0.210.0.VMLCNXM_20251024.0000.00_15.0_cn_db24fc724d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.210.0.VMLCNXM/corot_images_OS2.0.210.0.VMLCNXM_20251024.0000.00_15.0_cn_db24fc724d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.210.0.VMLCNXM/corot_images_OS2.0.210.0.VMLCNXM_20251024.0000.00_15.0_cn_db24fc724d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#corot_2_changelog" data-toggle="collapse" role="button"

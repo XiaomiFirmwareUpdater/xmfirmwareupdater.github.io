@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 16 Nov 2025 12:43:11 </lastBuildDate>
+        <lastBuildDate>Mon, 17 Nov 2025 00:43:26 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 13C/POCO C65 (gale) - OS2.0.203.0.VGPINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/gale/</link>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi Pad 7 Ultra (jinghu) - jinghu</title>
             <link>https://xmfirmwareupdater.com/firmware/jinghu/</link>
@@ -1384,11 +1389,6 @@
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.8.0.UCVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Fri, 29 Aug 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 13C/POCO C65 (gale) - OS2.0.202.0.VGPINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/gale/</link>
             <pubDate>Fri, 29 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>
