@@ -1,16 +1,16 @@
 ---
-title: Redmi 15C / POCO C85 Taiwan HyperOS OS2.0.204.0.VBNTWXM Update
+title: Redmi 15C / POCO C85 Indonesia HyperOS OS2.0.205.0.VBNIDXM Update
 layout: download
-name: Redmi 15C / POCO C85 Taiwan
+name: Redmi 15C / POCO C85 Indonesia
 codename: dew
-permalink: /hyperos/dew/stable/OS2.0.204.0.VBNTWXM/
+permalink: /hyperos/dew/stable/OS2.0.205.0.VBNIDXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/dew/">Redmi 15C / POCO C85 Taiwan</a></li>
-        <li class="breadcrumb-item active" aria-current="page">OS2.0.204.0.VBNTWXM</li>
+        <li class="breadcrumb-item"><a href="/hyperos/dew/">Redmi 15C / POCO C85 Indonesia</a></li>
+        <li class="breadcrumb-item active" aria-current="page">OS2.0.205.0.VBNIDXM</li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -21,8 +21,8 @@ permalink: /hyperos/dew/stable/OS2.0.204.0.VBNTWXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.204.0.VBNTWXM Stable Official Update for Redmi 15C / POCO C85 Taiwan (dew)</h3>
-    <h5>This page shows the OS2.0.204.0.VBNTWXM update only. If you're looking for other updates check
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.205.0.VBNIDXM Stable Official Update for Redmi 15C / POCO C85 Indonesia (dew)</h3>
+    <h5>This page shows the OS2.0.205.0.VBNIDXM update only. If you're looking for other updates check
         <a href="/hyperos/dew/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
         It's not owned, modified or edited by XM Firmware Updater.</p>
@@ -44,13 +44,13 @@ permalink: /hyperos/dew/stable/OS2.0.204.0.VBNTWXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi 15C / POCO C85 Taiwan</h5>
+                    <h5><b>Device: </b>Redmi 15C / POCO C85 Indonesia</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/dew/" target="_blank">dew</a> </h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS2.0.204.0.VBNTWXM</h5>
+                    <h5><b>Version: </b>OS2.0.205.0.VBNIDXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Branch: </b>Stable</h5>
@@ -59,19 +59,19 @@ permalink: /hyperos/dew/stable/OS2.0.204.0.VBNTWXM/
                     <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.6 GB</h5>
+                    <h5><b>Size: </b>7.3 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-10-30</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dew_tw_global_images_OS2.0.204.0.VBNTWXM_20251030.0000.00_15.0_tw_39835b3462.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dew_id_global_images_OS2.0.205.0.VBNIDXM_20251030.0000.00_15.0_id_9b693ade89.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">39835b346254082f7a76628cb61491b5</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">9b693ade89e1f92be831b507b3ff6f07</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.204.0.VBNTWXM/dew_tw_global_images_OS2.0.204.0.VBNTWXM_20251030.0000.00_15.0_tw_39835b3462.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.204.0.VBNTWXM/dew_tw_global_images_OS2.0.204.0.VBNTWXM_20251030.0000.00_15.0_tw_39835b3462.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.204.0.VBNTWXM/dew_tw_global_images_OS2.0.204.0.VBNTWXM_20251030.0000.00_15.0_tw_39835b3462.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.204.0.VBNTWXM/dew_tw_global_images_OS2.0.204.0.VBNTWXM_20251030.0000.00_15.0_tw_39835b3462.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.204.0.VBNTWXM/dew_tw_global_images_OS2.0.204.0.VBNTWXM_20251030.0000.00_15.0_tw_39835b3462.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.205.0.VBNIDXM/dew_id_global_images_OS2.0.205.0.VBNIDXM_20251030.0000.00_15.0_id_9b693ade89.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.205.0.VBNIDXM/dew_id_global_images_OS2.0.205.0.VBNIDXM_20251030.0000.00_15.0_id_9b693ade89.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.205.0.VBNIDXM/dew_id_global_images_OS2.0.205.0.VBNIDXM_20251030.0000.00_15.0_id_9b693ade89.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.205.0.VBNIDXM/dew_id_global_images_OS2.0.205.0.VBNIDXM_20251030.0000.00_15.0_id_9b693ade89.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.205.0.VBNIDXM/dew_id_global_images_OS2.0.205.0.VBNIDXM_20251030.0000.00_15.0_id_9b693ade89.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#dew_1_changelog" data-toggle="collapse" role="button"
@@ -87,13 +87,13 @@ permalink: /hyperos/dew/stable/OS2.0.204.0.VBNTWXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi 15C / POCO C85 Taiwan</h5>
+                    <h5><b>Device: </b>Redmi 15C / POCO C85 Indonesia</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/dew/" target="_blank">dew</a> </h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS2.0.204.0.VBNTWXM</h5>
+                    <h5><b>Version: </b>OS2.0.205.0.VBNIDXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Branch: </b>Stable</h5>
@@ -102,19 +102,19 @@ permalink: /hyperos/dew/stable/OS2.0.204.0.VBNTWXM/
                     <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.5 GB</h5>
+                    <h5><b>Size: </b>4.6 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-11-07</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dew_tw_global-ota_full-OS2.0.204.0.VBNTWXM-user-15.0-2443cabed8.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dew_id_global-ota_full-OS2.0.205.0.VBNIDXM-user-15.0-401ac952e8.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">2443cabed84adc265074ce2958ea6be3</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">401ac952e8207d3f323ab66a8c5cac92</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.204.0.VBNTWXM/dew_tw_global-ota_full-OS2.0.204.0.VBNTWXM-user-15.0-2443cabed8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.204.0.VBNTWXM/dew_tw_global-ota_full-OS2.0.204.0.VBNTWXM-user-15.0-2443cabed8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.204.0.VBNTWXM/dew_tw_global-ota_full-OS2.0.204.0.VBNTWXM-user-15.0-2443cabed8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.204.0.VBNTWXM/dew_tw_global-ota_full-OS2.0.204.0.VBNTWXM-user-15.0-2443cabed8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.204.0.VBNTWXM/dew_tw_global-ota_full-OS2.0.204.0.VBNTWXM-user-15.0-2443cabed8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.205.0.VBNIDXM/dew_id_global-ota_full-OS2.0.205.0.VBNIDXM-user-15.0-401ac952e8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.205.0.VBNIDXM/dew_id_global-ota_full-OS2.0.205.0.VBNIDXM-user-15.0-401ac952e8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.205.0.VBNIDXM/dew_id_global-ota_full-OS2.0.205.0.VBNIDXM-user-15.0-401ac952e8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.205.0.VBNIDXM/dew_id_global-ota_full-OS2.0.205.0.VBNIDXM-user-15.0-401ac952e8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.205.0.VBNIDXM/dew_id_global-ota_full-OS2.0.205.0.VBNIDXM-user-15.0-401ac952e8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#dew_2_changelog" data-toggle="collapse" role="button"
