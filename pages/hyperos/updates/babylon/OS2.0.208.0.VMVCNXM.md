@@ -56,22 +56,22 @@ permalink: /hyperos/babylon/stable/OS2.0.208.0.VMVCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.9 GB</h5>
+                    <h5><b>Size: </b>7.1 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-09-28</h5>
+                    <h5><b>Release Date: </b>2025-10-14</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">babylon_images_OS2.0.208.0.VMVCNXM_20250928.0000.00_15.0_cn_c309ab3302.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">babylon-ota_full-OS2.0.208.0.VMVCNXM-user-15.0-4b4566321c.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c309ab33021fcc3fd1b1884ea2ab3933</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">4b4566321caf526b063129c29d72aae7</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.208.0.VMVCNXM/babylon_images_OS2.0.208.0.VMVCNXM_20250928.0000.00_15.0_cn_c309ab3302.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.208.0.VMVCNXM/babylon_images_OS2.0.208.0.VMVCNXM_20250928.0000.00_15.0_cn_c309ab3302.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.208.0.VMVCNXM/babylon_images_OS2.0.208.0.VMVCNXM_20250928.0000.00_15.0_cn_c309ab3302.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.208.0.VMVCNXM/babylon_images_OS2.0.208.0.VMVCNXM_20250928.0000.00_15.0_cn_c309ab3302.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.208.0.VMVCNXM/babylon_images_OS2.0.208.0.VMVCNXM_20250928.0000.00_15.0_cn_c309ab3302.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.208.0.VMVCNXM/babylon-ota_full-OS2.0.208.0.VMVCNXM-user-15.0-4b4566321c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.208.0.VMVCNXM/babylon-ota_full-OS2.0.208.0.VMVCNXM-user-15.0-4b4566321c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.208.0.VMVCNXM/babylon-ota_full-OS2.0.208.0.VMVCNXM-user-15.0-4b4566321c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.208.0.VMVCNXM/babylon-ota_full-OS2.0.208.0.VMVCNXM-user-15.0-4b4566321c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.208.0.VMVCNXM/babylon-ota_full-OS2.0.208.0.VMVCNXM-user-15.0-4b4566321c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#babylon_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/babylon/stable/OS2.0.208.0.VMVCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.1 GB</h5>
+                    <h5><b>Size: </b>8.9 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-10-14</h5>
+                    <h5><b>Release Date: </b>2025-09-28</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">babylon-ota_full-OS2.0.208.0.VMVCNXM-user-15.0-4b4566321c.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">babylon_images_OS2.0.208.0.VMVCNXM_20250928.0000.00_15.0_cn_c309ab3302.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">4b4566321caf526b063129c29d72aae7</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">c309ab33021fcc3fd1b1884ea2ab3933</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.208.0.VMVCNXM/babylon-ota_full-OS2.0.208.0.VMVCNXM-user-15.0-4b4566321c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.208.0.VMVCNXM/babylon-ota_full-OS2.0.208.0.VMVCNXM-user-15.0-4b4566321c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.208.0.VMVCNXM/babylon-ota_full-OS2.0.208.0.VMVCNXM-user-15.0-4b4566321c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.208.0.VMVCNXM/babylon-ota_full-OS2.0.208.0.VMVCNXM-user-15.0-4b4566321c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.208.0.VMVCNXM/babylon-ota_full-OS2.0.208.0.VMVCNXM-user-15.0-4b4566321c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.208.0.VMVCNXM/babylon_images_OS2.0.208.0.VMVCNXM_20250928.0000.00_15.0_cn_c309ab3302.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.208.0.VMVCNXM/babylon_images_OS2.0.208.0.VMVCNXM_20250928.0000.00_15.0_cn_c309ab3302.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.208.0.VMVCNXM/babylon_images_OS2.0.208.0.VMVCNXM_20250928.0000.00_15.0_cn_c309ab3302.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.208.0.VMVCNXM/babylon_images_OS2.0.208.0.VMVCNXM_20250928.0000.00_15.0_cn_c309ab3302.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.208.0.VMVCNXM/babylon_images_OS2.0.208.0.VMVCNXM_20250928.0000.00_15.0_cn_c309ab3302.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#babylon_2_changelog" data-toggle="collapse" role="button"
