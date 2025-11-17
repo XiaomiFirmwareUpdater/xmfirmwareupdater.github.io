@@ -292,6 +292,12 @@
   download: https://bigota.d.miui.com/OS2.0.1.0.VGQCNXM/fw_air_air-ota_full-OS2.0.1.0.VGQCNXM-user-15.0-66f3fdc1e0.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
   version: OS2.0.1.0.VGQCNXM
+- android: '15.0'
+  codename: air
+  date: '2025-11-17'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VGQMIXM/fw_air_air_global-ota_full-OS2.0.203.0.VGQMIXM-user-15.0-5aef06643b.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS2.0.203.0.VGQMIXM
 - android: '14.0'
   codename: air
   date: '2024-09-16'
@@ -8814,6 +8820,12 @@
   version: OS2.0.101.0.VOWINXM
 - android: '15.0'
   codename: koto
+  date: '2025-11-17'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VOWINXM/fw_koto_koto_in_global-ota_full-OS2.0.206.0.VOWINXM-user-15.0-955f77372d.zip
+  name: Redmi Pad 2 4G
+  version: OS2.0.206.0.VOWINXM
+- android: '15.0'
+  codename: koto
   date: '2025-07-15'
   download: https://bigota.d.miui.com/OS2.0.200.0.VOWINXM/fw_koto_in_global_koto_in_global-ota_full-OS2.0.200.0.VOWINXM-user-15.0-85a025237e.zip
   name: Redmi Pad 2 4G
@@ -9844,6 +9856,12 @@
   download: https://bigota.d.miui.com/OS1.0.13.0.UOOCNXM/fw_malachite_miui_MALACHITE_OS1.0.13.0.UOOCNXM_e630a3e60c_14.0.zip
   name: Redmi Note 14 Pro 5G/POCO X7
   version: OS1.0.13.0.UOOCNXM
+- android: '15.0'
+  codename: malachite
+  date: '2025-11-17'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VOOMIXM/fw_malachite_malachite_global-ota_full-OS2.0.208.0.VOOMIXM-user-15.0-4b22dfd9d8.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS2.0.208.0.VOOMIXM
 - android: '14.0'
   codename: malachite
   date: '2025-01-17'
@@ -11248,6 +11266,12 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.VNTEUXM/fw_moon_eea_global_moon_eea_global-ota_full-OS2.0.3.0.VNTEUXM-user-15.0-8fc5e51dbd.zip
   name: Redmi 13/POCO M6
   version: OS2.0.3.0.VNTEUXM
+- android: '15.0'
+  codename: moon
+  date: '2025-11-17'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VNTEUXM/fw_moon_moon_eea_global-ota_full-OS2.0.205.0.VNTEUXM-user-15.0-19f5399fdc.zip
+  name: Redmi 13/POCO M6
+  version: OS2.0.205.0.VNTEUXM
 - android: '15.0'
   codename: moon
   date: '2025-09-17'
@@ -16504,6 +16528,12 @@
   download: https://bigota.d.miui.com/OS2.0.12.0.VNGMIXM/fw_sapphire_global_sapphire_global-ota_full-OS2.0.12.0.VNGMIXM-user-15.0-0d83972b99.zip
   name: Redmi Note 13
   version: OS2.0.12.0.VNGMIXM
+- android: '15.0'
+  codename: sapphire
+  date: '2025-11-17'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VNGMIXM/fw_sapphire_sapphire_global-ota_full-OS2.0.207.0.VNGMIXM-user-15.0-2d9459505b.zip
+  name: Redmi Note 13
+  version: OS2.0.207.0.VNGMIXM
 - android: '14.0'
   codename: sapphire
   date: '2024-09-15'
@@ -16666,6 +16696,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UNHEUXM/fw_sapphiren_miui_SAPPHIRENEEAGlobal_OS1.0.3.0.UNHEUXM_a5a82b7948_14.0.zip
   name: Redmi Note 13 NFC
   version: OS1.0.3.0.UNHEUXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-11-17'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VNHMIXM/fw_sapphiren_sapphiren_global-ota_full-OS2.0.206.0.VNHMIXM-user-15.0-cfd201b5dd.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.206.0.VNHMIXM
 - android: '15.0'
   codename: sapphiren
   date: '2025-04-17'
@@ -18640,6 +18676,12 @@
   download: https://bigota.d.miui.com/OS2.0.205.0.VOVCNXM/fw_taiko_taiko-ota_full-OS2.0.205.0.VOVCNXM-user-15.0-2a51381009.zip
   name: Redmi Pad 2
   version: OS2.0.205.0.VOVCNXM
+- android: '15.0'
+  codename: taiko
+  date: '2025-11-17'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VOVINXM/fw_taiko_taiko_in_global-ota_full-OS2.0.206.0.VOVINXM-user-15.0-ebb70f2f26.zip
+  name: Redmi Pad 2
+  version: OS2.0.206.0.VOVINXM
 - android: '15.0'
   codename: taiko
   date: '2025-08-14'
@@ -22564,6 +22606,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UNOINXM/fw_zircon_miui_ZIRCONINGlobal_OS1.0.8.0.UNOINXM_07ce5a5c64_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.8.0.UNOINXM
+- android: '15.0'
+  codename: zircon
+  date: '2025-11-17'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VNOINXM/fw_zircon_zircon_in_global-ota_full-OS2.0.207.0.VNOINXM-user-15.0-65e094711c.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS2.0.207.0.VNOINXM
 - android: '14.0'
   codename: zircon
   date: '2024-06-17'

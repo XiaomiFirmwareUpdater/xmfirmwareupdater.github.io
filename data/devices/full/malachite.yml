@@ -309,6 +309,16 @@
     android: '14.0'
     miui: OS1.0.13.0.UOOCNXM
 - branch: stable
+  date: '2025-11-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-17.11.2025/fw_malachite_malachite_global-ota_full-OS2.0.208.0.VOOMIXM-user-15.0-4b22dfd9d8.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/malachite/fw_malachite_malachite_global-ota_full-OS2.0.208.0.VOOMIXM-user-15.0-4b22dfd9d8.zip
+  filename: fw_malachite_malachite_global-ota_full-OS2.0.208.0.VOOMIXM-user-15.0-4b22dfd9d8.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.208.0.VOOMIXM
+- branch: stable
   date: '2025-01-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-17.01.2025/fw_malachite_miui_MALACHITEEEAGlobal_OS1.0.6.0.UOOEUXM_3641168ec7_14.0.zip
