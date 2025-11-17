@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 17 Nov 2025 07:46:31 </lastBuildDate>
+        <lastBuildDate>Mon, 17 Nov 2025 13:12:08 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.203.0.VGQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
+            <pubDate>Mon, 17 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 (dada) - dada</title>
+            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
             <pubDate>Mon, 17 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -19,6 +24,11 @@
         <item>
             <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS2.0.208.0.VOOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
+            <pubDate>Mon, 17 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12S (mayfly) - OS2.0.207.0.VLTCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/mayfly/</link>
             <pubDate>Mon, 17 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -112,11 +122,6 @@
             <pubDate>Fri, 14 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 15 (dada) - eea</title>
-            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi A3x (klein) - V816.0.1.0.WGSMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/klein/</link>
             <pubDate>Thu, 13 Nov 2025 00:00:00 </pubDate>
@@ -204,11 +209,6 @@
         <item>
             <title>Xiaomi 13T (aristotle) - OS2.0.211.0.VMFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
-            <pubDate>Mon, 10 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12S (mayfly) - OS2.0.206.0.VLTCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/mayfly/</link>
             <pubDate>Mon, 10 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
