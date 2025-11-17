@@ -56,22 +56,22 @@ permalink: /hyperos/dada/stable/OS2.0.204.0.VOCINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.4 GB</h5>
+                    <h5><b>Size: </b>8.3 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-10-23</h5>
+                    <h5><b>Release Date: </b>2025-10-14</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dada_in_global-ota_full-OS2.0.204.0.VOCINXM-user-15.0-51d5728f95.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dada_in_global_images_OS2.0.204.0.VOCINXM_20251014.0000.00_15.0_in_6d65c8fa01.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">51d5728f95e25ee0ebc09e1d47638f58</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6d65c8fa010c2de1b66d2b28d7af8951</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.204.0.VOCINXM/dada_in_global-ota_full-OS2.0.204.0.VOCINXM-user-15.0-51d5728f95.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.204.0.VOCINXM/dada_in_global-ota_full-OS2.0.204.0.VOCINXM-user-15.0-51d5728f95.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.204.0.VOCINXM/dada_in_global-ota_full-OS2.0.204.0.VOCINXM-user-15.0-51d5728f95.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.204.0.VOCINXM/dada_in_global-ota_full-OS2.0.204.0.VOCINXM-user-15.0-51d5728f95.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.204.0.VOCINXM/dada_in_global-ota_full-OS2.0.204.0.VOCINXM-user-15.0-51d5728f95.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.204.0.VOCINXM/dada_in_global_images_OS2.0.204.0.VOCINXM_20251014.0000.00_15.0_in_6d65c8fa01.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.204.0.VOCINXM/dada_in_global_images_OS2.0.204.0.VOCINXM_20251014.0000.00_15.0_in_6d65c8fa01.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.204.0.VOCINXM/dada_in_global_images_OS2.0.204.0.VOCINXM_20251014.0000.00_15.0_in_6d65c8fa01.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.204.0.VOCINXM/dada_in_global_images_OS2.0.204.0.VOCINXM_20251014.0000.00_15.0_in_6d65c8fa01.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.204.0.VOCINXM/dada_in_global_images_OS2.0.204.0.VOCINXM_20251014.0000.00_15.0_in_6d65c8fa01.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#dada_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/dada/stable/OS2.0.204.0.VOCINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.3 GB</h5>
+                    <h5><b>Size: </b>7.4 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-10-14</h5>
+                    <h5><b>Release Date: </b>2025-10-23</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dada_in_global_images_OS2.0.204.0.VOCINXM_20251014.0000.00_15.0_in_6d65c8fa01.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dada_in_global-ota_full-OS2.0.204.0.VOCINXM-user-15.0-51d5728f95.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">6d65c8fa010c2de1b66d2b28d7af8951</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">51d5728f95e25ee0ebc09e1d47638f58</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.204.0.VOCINXM/dada_in_global_images_OS2.0.204.0.VOCINXM_20251014.0000.00_15.0_in_6d65c8fa01.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.204.0.VOCINXM/dada_in_global_images_OS2.0.204.0.VOCINXM_20251014.0000.00_15.0_in_6d65c8fa01.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.204.0.VOCINXM/dada_in_global_images_OS2.0.204.0.VOCINXM_20251014.0000.00_15.0_in_6d65c8fa01.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.204.0.VOCINXM/dada_in_global_images_OS2.0.204.0.VOCINXM_20251014.0000.00_15.0_in_6d65c8fa01.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.204.0.VOCINXM/dada_in_global_images_OS2.0.204.0.VOCINXM_20251014.0000.00_15.0_in_6d65c8fa01.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.204.0.VOCINXM/dada_in_global-ota_full-OS2.0.204.0.VOCINXM-user-15.0-51d5728f95.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.204.0.VOCINXM/dada_in_global-ota_full-OS2.0.204.0.VOCINXM-user-15.0-51d5728f95.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.204.0.VOCINXM/dada_in_global-ota_full-OS2.0.204.0.VOCINXM-user-15.0-51d5728f95.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.204.0.VOCINXM/dada_in_global-ota_full-OS2.0.204.0.VOCINXM-user-15.0-51d5728f95.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.204.0.VOCINXM/dada_in_global-ota_full-OS2.0.204.0.VOCINXM-user-15.0-51d5728f95.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#dada_2_changelog" data-toggle="collapse" role="button"
