@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 18 Nov 2025 00:44:26 </lastBuildDate>
+        <lastBuildDate>Tue, 18 Nov 2025 07:06:47 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K80 Pro/POCO F7 Ultra (miro) - miro</title>
+            <link>https://xmfirmwareupdater.com/firmware/miro/</link>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70/POCO F6 Pro (vermeer) - OS2.0.207.0.VNKMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - OS2.0.210.0.VLBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.203.0.VGQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
@@ -314,11 +329,6 @@
         <item>
             <title>Redmi 14C/POCO C75/Redmi A3 Pro (lake) - OS2.0.203.0.VGTMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lake/</link>
-            <pubDate>Thu, 06 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K80 Pro/POCO F7 Ultra (miro) - eea</title>
-            <link>https://xmfirmwareupdater.com/firmware/miro/</link>
             <pubDate>Thu, 06 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1157,11 +1167,6 @@
             <pubDate>Mon, 20 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12 Pro (zeus) - OS2.0.209.0.VLBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Sat, 18 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 14 Ultra (aurora) - OS2.0.207.0.VNAEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
             <pubDate>Fri, 17 Oct 2025 00:00:00 </pubDate>
@@ -1350,11 +1355,6 @@
             <title>Xiaomi 11T (agate) - OS1.0.19.0.UKWEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/agate/</link>
             <pubDate>Mon, 15 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70/POCO F6 Pro (vermeer) - OS2.0.205.0.VNKMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
-            <pubDate>Tue, 09 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.5.0.UKOEUXM</title>
