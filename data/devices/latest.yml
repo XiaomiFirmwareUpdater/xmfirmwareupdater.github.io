@@ -229,14 +229,14 @@
     android: '10.0'
     miui: V12.0.14.0.QCSEUXM
 - branch: stable
-  date: '2025-10-25'
+  date: '2025-11-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-25.10.2025/fw_annibale_annibale-ota_full-OS3.0.9.0.WPKCNXM-user-16.0-e06570ff2d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/annibale/annibale/fw_annibale_annibale-ota_full-OS3.0.9.0.WPKCNXM-user-16.0-e06570ff2d.zip
-  filename: fw_annibale_annibale-ota_full-OS3.0.9.0.WPKCNXM-user-16.0-e06570ff2d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-19.11.2025/fw_annibale_annibale-ota_full-OS3.0.13.0.WPKCNXM-user-16.0-f28d23c6a2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/annibale/annibale/fw_annibale_annibale-ota_full-OS3.0.13.0.WPKCNXM-user-16.0-f28d23c6a2.zip
+  filename: fw_annibale_annibale-ota_full-OS3.0.13.0.WPKCNXM-user-16.0-f28d23c6a2.zip
   region: China
   versions:
-    android: full-OS3.0.9.0.WPKCNXM-user-16.0-e06570ff2d
+    android: full-OS3.0.13.0.WPKCNXM-user-16.0-f28d23c6a2
     miui: annibale
 - branch: stable
   date: '2023-07-25'
@@ -5109,15 +5109,15 @@
     android: '14.0'
     miui: OS1.0.8.0.ULUINXM
 - branch: stable
-  date: '2025-10-21'
+  date: '2025-11-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-21.10.2025/fw_rodin_rodin_global-ota_full-OS2.0.205.0.VOJMIXM-user-15.0-24541da7f5.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rodin/fw_rodin_rodin_global-ota_full-OS2.0.205.0.VOJMIXM-user-15.0-24541da7f5.zip
-  filename: fw_rodin_rodin_global-ota_full-OS2.0.205.0.VOJMIXM-user-15.0-24541da7f5.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-19.11.2025/fw_rodin_rodin_global-ota_full-OS2.0.206.0.VOJMIXM-user-15.0-8495cf74b4.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rodin/fw_rodin_rodin_global-ota_full-OS2.0.206.0.VOJMIXM-user-15.0-8495cf74b4.zip
+  filename: fw_rodin_rodin_global-ota_full-OS2.0.206.0.VOJMIXM-user-15.0-8495cf74b4.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.205.0.VOJMIXM
+    miui: OS2.0.206.0.VOJMIXM
 - branch: stable
   date: '2025-11-04'
   downloads:
@@ -5659,15 +5659,15 @@
     android: '15.0'
     miui: A15.0.14.0.VGWMIXM
 - branch: stable
-  date: '2025-09-22'
+  date: '2025-11-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_serenity/releases/download/stable-22.09.2025/fw_serenity_miui_SERENITYEEAGlobal_A15.0.9.0.VGWEUXM_3f76a4a1b7_15.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/A15/serenity/fw_serenity_miui_SERENITYEEAGlobal_A15.0.9.0.VGWEUXM_3f76a4a1b7_15.0.zip
-  filename: fw_serenity_miui_SERENITYEEAGlobal_A15.0.9.0.VGWEUXM_3f76a4a1b7_15.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_serenity/releases/download/stable-19.11.2025/fw_serenity_miui_SERENITYEEAGlobal_A15.0.10.0.VGWEUXM_695ca72419_15.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/A15/serenity/fw_serenity_miui_SERENITYEEAGlobal_A15.0.10.0.VGWEUXM_695ca72419_15.0.zip
+  filename: fw_serenity_miui_SERENITYEEAGlobal_A15.0.10.0.VGWEUXM_695ca72419_15.0.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: A15.0.9.0.VGWEUXM
+    miui: A15.0.10.0.VGWEUXM
 - branch: stable
   date: '2025-10-17'
   downloads:

@@ -4,11 +4,26 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 18 Nov 2025 12:45:31 </lastBuildDate>
+        <lastBuildDate>Wed, 19 Nov 2025 01:11:01 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K90/POCO F8 Pro (annibale) - annibale</title>
+            <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K80 Pro/POCO F7 Ultra (miro) - miro</title>
             <link>https://xmfirmwareupdater.com/firmware/miro/</link>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.206.0.VOJMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A5/POCO C71 (serenity) - A15.0.10.0.VGWEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
             <pubDate>Tue, 18 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -942,11 +957,6 @@
             <pubDate>Sun, 26 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K90/POCO F8 Pro (annibale) - annibale</title>
-            <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
-            <pubDate>Sat, 25 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS2.0.204.0.VNSMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
             <pubDate>Sat, 25 Oct 2025 00:00:00 </pubDate>
@@ -1130,11 +1140,6 @@
             <title>Xiaomi Pad 8 (yupei) - yupei</title>
             <link>https://xmfirmwareupdater.com/firmware/yupei/</link>
             <pubDate>Wed, 22 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.205.0.VOJMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
-            <pubDate>Tue, 21 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS2.0.204.0.VOUCNXM</title>
@@ -1329,11 +1334,6 @@
         <item>
             <title>Redmi 12 (fire) - OS2.0.202.0.VMXINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fire/</link>
-            <pubDate>Mon, 22 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A5/POCO C71 (serenity) - A15.0.9.0.VGWEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
             <pubDate>Mon, 22 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
