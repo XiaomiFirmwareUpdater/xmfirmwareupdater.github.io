@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 19 Nov 2025 15:50:03 </lastBuildDate>
+        <lastBuildDate>Wed, 19 Nov 2025 21:42:21 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>MIX Fold 3 (babylon) - OS2.0.209.0.VMVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
+            <pubDate>Wed, 19 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.209.0.VNLEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Wed, 19 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -949,11 +954,6 @@
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS2.0.210.0.VOPCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
-            <pubDate>Sun, 26 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.208.0.VNLEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Sun, 26 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
