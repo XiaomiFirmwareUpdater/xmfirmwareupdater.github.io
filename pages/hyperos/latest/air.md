@@ -60,8 +60,8 @@ permalink: /hyperos/air/
 <tr><td>Redmi 13R 5G / 13C 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VGQMIXM</td><td>15.0</td><td>4.8 GB</td><td>2025-11-05</td><td><a href="/hyperos/air/stable/OS2.0.203.0.VGQMIXM/">Download</a></td></tr>
 <tr><td>Redmi 13R 5G / POCO M6 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VGQINXM</td><td>15.0</td><td>6.2 GB</td><td>2025-08-15</td><td><a href="/hyperos/air/stable/OS2.0.203.0.VGQINXM/">Download</a></td></tr>
 <tr><td>Redmi 13R 5G / POCO M6 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VGQINXM</td><td>15.0</td><td>4.5 GB</td><td>2025-08-19</td><td><a href="/hyperos/air/stable/OS2.0.203.0.VGQINXM/">Download</a></td></tr>
-<tr><td>Redmi 13R 5G / 13C 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VGQTWXM</td><td>15.0</td><td>5.7 GB</td><td>2025-08-22</td><td><a href="/hyperos/air/stable/OS2.0.201.0.VGQTWXM/">Download</a></td></tr>
-<tr><td>Redmi 13R 5G / 13C 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VGQTWXM</td><td>15.0</td><td>4.6 GB</td><td>2025-09-24</td><td><a href="/hyperos/air/stable/OS2.0.201.0.VGQTWXM/">Download</a></td></tr>
+<tr><td>Redmi 13R 5G / 13C 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VGQTWXM</td><td>15.0</td><td>5.8 GB</td><td>2025-10-27</td><td><a href="/hyperos/air/stable/OS2.0.202.0.VGQTWXM/">Download</a></td></tr>
+<tr><td>Redmi 13R 5G / 13C 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VGQTWXM</td><td>15.0</td><td>4.6 GB</td><td>2025-11-10</td><td><a href="/hyperos/air/stable/OS2.0.202.0.VGQTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

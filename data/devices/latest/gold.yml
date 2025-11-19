@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-10-29'
+  date: '2025-11-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-29.10.2025/fw_gold_gold_global-ota_full-OS2.0.209.0.VNQMIXM-user-15.0-52de452494.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gold/fw_gold_gold_global-ota_full-OS2.0.209.0.VNQMIXM-user-15.0-52de452494.zip
-  filename: fw_gold_gold_global-ota_full-OS2.0.209.0.VNQMIXM-user-15.0-52de452494.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-19.11.2025/fw_gold_gold_global-ota_full-OS2.0.210.0.VNQMIXM-user-15.0-441b1ca45b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gold/fw_gold_gold_global-ota_full-OS2.0.210.0.VNQMIXM-user-15.0-441b1ca45b.zip
+  filename: fw_gold_gold_global-ota_full-OS2.0.210.0.VNQMIXM-user-15.0-441b1ca45b.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.209.0.VNQMIXM
+    miui: OS2.0.210.0.VNQMIXM
 - branch: stable
   date: '2025-10-22'
   downloads:
