@@ -4,8 +4,48 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 19 Nov 2025 21:42:21 </lastBuildDate>
+        <lastBuildDate>Thu, 20 Nov 2025 08:04:44 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS2.0.205.0.VNAINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15/POCO M7 (creek) - OS2.0.211.0.VBOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/creek/</link>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS2.0.215.0.VNQCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/gold/</link>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 Pro (haotian) - haotian</title>
+            <link>https://xmfirmwareupdater.com/firmware/haotian/</link>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 7 Pro (muyu) - muyu</title>
+            <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 7/POCO Pad X1 (uke) - uke</title>
+            <link>https://xmfirmwareupdater.com/firmware/uke/</link>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - OS2.0.206.0.VLBMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS2.0.206.0.VLLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>MIX Fold 3 (babylon) - OS2.0.209.0.VMVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
@@ -242,11 +282,6 @@
             <pubDate>Tue, 11 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 7/POCO Pad X1 (uke) - uke</title>
-            <link>https://xmfirmwareupdater.com/firmware/uke/</link>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 11T Pro (vili) - OS1.0.22.0.UKDINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vili/</link>
             <pubDate>Tue, 11 Nov 2025 00:00:00 </pubDate>
@@ -274,11 +309,6 @@
         <item>
             <title>POCO X5 5G (moonstone) - OS1.0.21.0.UMPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moonstone/</link>
-            <pubDate>Mon, 10 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 7 Pro (muyu) - muyu</title>
-            <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
             <pubDate>Mon, 10 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -707,11 +737,6 @@
             <pubDate>Wed, 29 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS2.0.205.0.VLLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
-            <pubDate>Wed, 29 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS2.0.202.0.VLLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Wed, 29 Oct 2025 00:00:00 </pubDate>
@@ -810,11 +835,6 @@
             <title>Redmi K80/POCO F7 Pro (zorn) - OS2.0.204.0.VOKMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zorn/</link>
             <pubDate>Tue, 28 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 15/POCO M7 (creek) - OS2.0.210.0.VBOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/creek/</link>
-            <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 15 (dada) - OS2.0.225.0.WOCEUXM</title>
@@ -1012,11 +1032,6 @@
             <pubDate>Fri, 24 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS2.0.204.0.VNAINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Fri, 24 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 12 (fire) - OS2.0.204.0.VMXEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fire/</link>
             <pubDate>Fri, 24 Oct 2025 00:00:00 </pubDate>
@@ -1102,16 +1117,6 @@
             <pubDate>Wed, 22 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS2.0.214.0.VNQCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/gold/</link>
-            <pubDate>Wed, 22 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 Pro (haotian) - haotian</title>
-            <link>https://xmfirmwareupdater.com/firmware/haotian/</link>
-            <pubDate>Wed, 22 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.13.0.UKOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
             <pubDate>Wed, 22 Oct 2025 00:00:00 </pubDate>
@@ -1164,11 +1169,6 @@
         <item>
             <title>Xiaomi 11T Pro (vili) - OS1.0.26.0.UKDEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vili/</link>
-            <pubDate>Mon, 20 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Pro (zeus) - OS2.0.205.0.VLBMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Mon, 20 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
