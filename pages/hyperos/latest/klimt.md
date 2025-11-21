@@ -52,8 +52,8 @@ permalink: /hyperos/klimt/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 15T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.209.0.VOSEUXM</td><td>15.0</td><td>8.6 GB</td><td>2025-10-14</td><td><a href="/hyperos/klimt/stable/OS2.0.209.0.VOSEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.209.0.VOSEUXM</td><td>15.0</td><td>6.9 GB</td><td>2025-10-24</td><td><a href="/hyperos/klimt/stable/OS2.0.209.0.VOSEUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 15T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WOSEUXM</td><td>16.0</td><td>9.0 GB</td><td>2025-11-05</td><td><a href="/hyperos/klimt/stable/OS3.0.5.0.WOSEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WOSEUXM</td><td>16.0</td><td>7.3 GB</td><td>2025-11-08</td><td><a href="/hyperos/klimt/stable/OS3.0.5.0.WOSEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.203.0.VOSEUXM</td><td>15.0</td><td>6.8 GB</td><td>2025-09-24</td><td><a href="/hyperos/klimt/stable beta/OS2.0.203.0.VOSEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VOSMIXM</td><td>15.0</td><td>9.4 GB</td><td>2025-10-09</td><td><a href="/hyperos/klimt/stable/OS2.0.206.0.VOSMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VOSMIXM</td><td>15.0</td><td>6.8 GB</td><td>2025-10-28</td><td><a href="/hyperos/klimt/stable/OS2.0.206.0.VOSMIXM/">Download</a></td></tr>
