@@ -56,22 +56,22 @@ permalink: /hyperos/dada/stable/OS3.0.5.0.WOCCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>11.7 GB</h5>
+                    <h5><b>Size: </b>8.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-10-29</h5>
+                    <h5><b>Release Date: </b>2025-11-05</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dada_images_OS3.0.5.0.WOCCNXM_20251029.0000.00_16.0_cn_f85dc266e9.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dada-ota_full-OS3.0.5.0.WOCCNXM-user-16.0-7d3a2e9c2a.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">f85dc266e90e3633f394d782f98e3bb5</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">7d3a2e9c2a9f8e9247ee9388d863f10b</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.5.0.WOCCNXM/dada_images_OS3.0.5.0.WOCCNXM_20251029.0000.00_16.0_cn_f85dc266e9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.5.0.WOCCNXM/dada_images_OS3.0.5.0.WOCCNXM_20251029.0000.00_16.0_cn_f85dc266e9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.5.0.WOCCNXM/dada_images_OS3.0.5.0.WOCCNXM_20251029.0000.00_16.0_cn_f85dc266e9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.5.0.WOCCNXM/dada_images_OS3.0.5.0.WOCCNXM_20251029.0000.00_16.0_cn_f85dc266e9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.5.0.WOCCNXM/dada_images_OS3.0.5.0.WOCCNXM_20251029.0000.00_16.0_cn_f85dc266e9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.5.0.WOCCNXM/dada-ota_full-OS3.0.5.0.WOCCNXM-user-16.0-7d3a2e9c2a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.5.0.WOCCNXM/dada-ota_full-OS3.0.5.0.WOCCNXM-user-16.0-7d3a2e9c2a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.5.0.WOCCNXM/dada-ota_full-OS3.0.5.0.WOCCNXM-user-16.0-7d3a2e9c2a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.5.0.WOCCNXM/dada-ota_full-OS3.0.5.0.WOCCNXM-user-16.0-7d3a2e9c2a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.5.0.WOCCNXM/dada-ota_full-OS3.0.5.0.WOCCNXM-user-16.0-7d3a2e9c2a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#dada_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/dada/stable/OS3.0.5.0.WOCCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.2 GB</h5>
+                    <h5><b>Size: </b>11.7 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-05</h5>
+                    <h5><b>Release Date: </b>2025-10-29</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dada-ota_full-OS3.0.5.0.WOCCNXM-user-16.0-7d3a2e9c2a.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dada_images_OS3.0.5.0.WOCCNXM_20251029.0000.00_16.0_cn_f85dc266e9.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">7d3a2e9c2a9f8e9247ee9388d863f10b</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f85dc266e90e3633f394d782f98e3bb5</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.5.0.WOCCNXM/dada-ota_full-OS3.0.5.0.WOCCNXM-user-16.0-7d3a2e9c2a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.5.0.WOCCNXM/dada-ota_full-OS3.0.5.0.WOCCNXM-user-16.0-7d3a2e9c2a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.5.0.WOCCNXM/dada-ota_full-OS3.0.5.0.WOCCNXM-user-16.0-7d3a2e9c2a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.5.0.WOCCNXM/dada-ota_full-OS3.0.5.0.WOCCNXM-user-16.0-7d3a2e9c2a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.5.0.WOCCNXM/dada-ota_full-OS3.0.5.0.WOCCNXM-user-16.0-7d3a2e9c2a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.5.0.WOCCNXM/dada_images_OS3.0.5.0.WOCCNXM_20251029.0000.00_16.0_cn_f85dc266e9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.5.0.WOCCNXM/dada_images_OS3.0.5.0.WOCCNXM_20251029.0000.00_16.0_cn_f85dc266e9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.5.0.WOCCNXM/dada_images_OS3.0.5.0.WOCCNXM_20251029.0000.00_16.0_cn_f85dc266e9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.5.0.WOCCNXM/dada_images_OS3.0.5.0.WOCCNXM_20251029.0000.00_16.0_cn_f85dc266e9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.5.0.WOCCNXM/dada_images_OS3.0.5.0.WOCCNXM_20251029.0000.00_16.0_cn_f85dc266e9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#dada_2_changelog" data-toggle="collapse" role="button"
