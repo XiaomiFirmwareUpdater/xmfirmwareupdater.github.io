@@ -56,29 +56,29 @@ permalink: /hyperos/flute/stable/OS2.0.206.0.VPWIDDM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.0 GB</h5>
+                    <h5><b>Size: </b>6.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-19</h5>
+                    <h5><b>Release Date: </b>2025-11-13</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">flute_id_global-ota_full-OS2.0.206.0.VPWIDDM-user-15.0-c0ec09f81d.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">flute_id_global_images_OS2.0.206.0.VPWIDDM_20251113.0000.00_15.0_id_9ef08decad.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c0ec09f81d798181303348a1c92768dd</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">9ef08decad5429bec5db38a2ec4156ac</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.206.0.VPWIDDM/flute_id_global-ota_full-OS2.0.206.0.VPWIDDM-user-15.0-c0ec09f81d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.206.0.VPWIDDM/flute_id_global-ota_full-OS2.0.206.0.VPWIDDM-user-15.0-c0ec09f81d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.206.0.VPWIDDM/flute_id_global-ota_full-OS2.0.206.0.VPWIDDM-user-15.0-c0ec09f81d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.206.0.VPWIDDM/flute_id_global-ota_full-OS2.0.206.0.VPWIDDM-user-15.0-c0ec09f81d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.206.0.VPWIDDM/flute_id_global-ota_full-OS2.0.206.0.VPWIDDM-user-15.0-c0ec09f81d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.206.0.VPWIDDM/flute_id_global_images_OS2.0.206.0.VPWIDDM_20251113.0000.00_15.0_id_9ef08decad.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.206.0.VPWIDDM/flute_id_global_images_OS2.0.206.0.VPWIDDM_20251113.0000.00_15.0_id_9ef08decad.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.206.0.VPWIDDM/flute_id_global_images_OS2.0.206.0.VPWIDDM_20251113.0000.00_15.0_id_9ef08decad.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.206.0.VPWIDDM/flute_id_global_images_OS2.0.206.0.VPWIDDM_20251113.0000.00_15.0_id_9ef08decad.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.206.0.VPWIDDM/flute_id_global_images_OS2.0.206.0.VPWIDDM_20251113.0000.00_15.0_id_9ef08decad.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#flute_1_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="flute_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="flute_1_changelog">
-                        <p id="changelog_text">[System]<br>Updated the security patch to November 2025. Increased system security.</p>
+                        <p id="changelog_text">Bug fixes and system optimizations.</p>
                     </div>
                 </li>
             </ul>
@@ -99,29 +99,29 @@ permalink: /hyperos/flute/stable/OS2.0.206.0.VPWIDDM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.2 GB</h5>
+                    <h5><b>Size: </b>5.0 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-13</h5>
+                    <h5><b>Release Date: </b>2025-11-19</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">flute_id_global_images_OS2.0.206.0.VPWIDDM_20251113.0000.00_15.0_id_9ef08decad.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">flute_id_global-ota_full-OS2.0.206.0.VPWIDDM-user-15.0-c0ec09f81d.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">9ef08decad5429bec5db38a2ec4156ac</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">c0ec09f81d798181303348a1c92768dd</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.206.0.VPWIDDM/flute_id_global_images_OS2.0.206.0.VPWIDDM_20251113.0000.00_15.0_id_9ef08decad.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.206.0.VPWIDDM/flute_id_global_images_OS2.0.206.0.VPWIDDM_20251113.0000.00_15.0_id_9ef08decad.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.206.0.VPWIDDM/flute_id_global_images_OS2.0.206.0.VPWIDDM_20251113.0000.00_15.0_id_9ef08decad.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.206.0.VPWIDDM/flute_id_global_images_OS2.0.206.0.VPWIDDM_20251113.0000.00_15.0_id_9ef08decad.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.206.0.VPWIDDM/flute_id_global_images_OS2.0.206.0.VPWIDDM_20251113.0000.00_15.0_id_9ef08decad.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.206.0.VPWIDDM/flute_id_global-ota_full-OS2.0.206.0.VPWIDDM-user-15.0-c0ec09f81d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.206.0.VPWIDDM/flute_id_global-ota_full-OS2.0.206.0.VPWIDDM-user-15.0-c0ec09f81d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.206.0.VPWIDDM/flute_id_global-ota_full-OS2.0.206.0.VPWIDDM-user-15.0-c0ec09f81d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.206.0.VPWIDDM/flute_id_global-ota_full-OS2.0.206.0.VPWIDDM-user-15.0-c0ec09f81d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.206.0.VPWIDDM/flute_id_global-ota_full-OS2.0.206.0.VPWIDDM-user-15.0-c0ec09f81d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#flute_2_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="flute_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="flute_2_changelog">
-                        <p id="changelog_text">Bug fixes and system optimizations.</p>
+                        <p id="changelog_text">[System]<br>Updated the security patch to November 2025. Increased system security.</p>
                     </div>
                 </li>
             </ul>
