@@ -52,7 +52,9 @@ permalink: /archive/hyperos/manet/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K70 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VNMCNXM</td><td>15.0</td><td>7.1 GB</td><td>2025-09-25</td><td><a href="/hyperos/manet/stable/OS2.0.208.0.VNMCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K70 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WNMCNXM</td><td>16.0</td><td>7.1 GB</td><td>2025-11-13</td><td><a href="/hyperos/manet/stable/OS3.0.4.0.WNMCNXM/">Download</a></td></tr>
+<tr><td>Redmi K70 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WNMCNXM</td><td>16.0</td><td>9.1 GB</td><td>2025-11-09</td><td><a href="/hyperos/manet/stable/OS3.0.4.0.WNMCNXM/">Download</a></td></tr>
+<tr><td>Redmi K70 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VNMCNXM</td><td>15.0</td><td>7.1 GB</td><td>2025-09-25</td><td><a href="/hyperos/manet/stable/OS2.0.208.0.VNMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VNMCNXM</td><td>15.0</td><td>9.0 GB</td><td>2025-09-18</td><td><a href="/hyperos/manet/stable/OS2.0.208.0.VNMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VNMCNXM</td><td>15.0</td><td>7.1 GB</td><td>2025-08-20</td><td><a href="/hyperos/manet/stable/OS2.0.206.0.VNMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VNMCNXM</td><td>15.0</td><td>9.0 GB</td><td>2025-08-13</td><td><a href="/hyperos/manet/stable/OS2.0.206.0.VNMCNXM/">Download</a></td></tr>
