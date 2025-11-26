@@ -54,7 +54,13 @@ permalink: /hyperos/myron/
                 <tbody>
                 <tr><td>Redmi K90 Pro Max China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.14.0.WPMCNXM</td><td>16.0</td><td>12.1 GB</td><td>2025-10-28</td><td><a href="/hyperos/myron/stable/OS3.0.14.0.WPMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K90 Pro Max China</td><td>Stable</td><td>Recovery</td><td>OS3.0.14.0.WPMCNXM</td><td>16.0</td><td>9.4 GB</td><td>2025-10-30</td><td><a href="/hyperos/myron/stable/OS3.0.14.0.WPMCNXM/">Download</a></td></tr>
+<tr><td>Redmi K90 Pro Max / POCO F8 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WPMEUXM</td><td>16.0</td><td>9.8 GB</td><td>2025-11-23</td><td><a href="/hyperos/myron/stable/OS3.0.4.0.WPMEUXM/">Download</a></td></tr>
+<tr><td>Redmi K90 Pro Max / POCO F8 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WPMEUXM</td><td>16.0</td><td>8.1 GB</td><td>2025-11-26</td><td><a href="/hyperos/myron/stable/OS3.0.4.0.WPMEUXM/">Download</a></td></tr>
 <tr><td>Redmi K90 Pro Max China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.4.0.WPMCNXM</td><td>16.0</td><td>9.4 GB</td><td>2025-10-23</td><td><a href="/hyperos/myron/stable beta/OS3.0.4.0.WPMCNXM/">Download</a></td></tr>
+<tr><td>Redmi K90 Pro Max / POCO F8 Ultra Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.8.0.WPMMIXM</td><td>16.0</td><td>10.6 GB</td><td>2025-11-24</td><td><a href="/hyperos/myron/stable/OS3.0.8.0.WPMMIXM/">Download</a></td></tr>
+<tr><td>Redmi K90 Pro Max / POCO F8 Ultra Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.8.0.WPMMIXM</td><td>16.0</td><td>8.1 GB</td><td>2025-11-26</td><td><a href="/hyperos/myron/stable/OS3.0.8.0.WPMMIXM/">Download</a></td></tr>
+<tr><td>Redmi K90 Pro Max / POCO F8 Ultra Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WPMTWXM</td><td>16.0</td><td>8.9 GB</td><td>2025-11-05</td><td><a href="/hyperos/myron/stable/OS3.0.1.0.WPMTWXM/">Download</a></td></tr>
+<tr><td>Redmi K90 Pro Max / POCO F8 Ultra Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WPMTWXM</td><td>16.0</td><td>7.8 GB</td><td>2025-11-26</td><td><a href="/hyperos/myron/stable/OS3.0.1.0.WPMTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
