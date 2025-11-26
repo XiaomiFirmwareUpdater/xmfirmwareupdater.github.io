@@ -1,16 +1,16 @@
 ---
-title: Redmi Note 13 NFC Global HyperOS OS2.0.206.0.VNHMIXM Update
+title: Redmi Note 13 NFC Taiwan HyperOS OS2.0.207.0.VNHTWXM Update
 layout: download
-name: Redmi Note 13 NFC Global
+name: Redmi Note 13 NFC Taiwan
 codename: sapphire
-permalink: /hyperos/sapphire/stable/OS2.0.206.0.VNHMIXM/
+permalink: /hyperos/sapphire/stable/OS2.0.207.0.VNHTWXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/sapphire/">Redmi Note 13 NFC Global</a></li>
-        <li class="breadcrumb-item active" aria-current="page">OS2.0.206.0.VNHMIXM</li>
+        <li class="breadcrumb-item"><a href="/hyperos/sapphire/">Redmi Note 13 NFC Taiwan</a></li>
+        <li class="breadcrumb-item active" aria-current="page">OS2.0.207.0.VNHTWXM</li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -21,8 +21,8 @@ permalink: /hyperos/sapphire/stable/OS2.0.206.0.VNHMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.206.0.VNHMIXM Stable Official Update for Redmi Note 13 NFC Global (sapphire)</h3>
-    <h5>This page shows the OS2.0.206.0.VNHMIXM update only. If you're looking for other updates check
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.207.0.VNHTWXM Stable Official Update for Redmi Note 13 NFC Taiwan (sapphire)</h3>
+    <h5>This page shows the OS2.0.207.0.VNHTWXM update only. If you're looking for other updates check
         <a href="/hyperos/sapphire/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
         It's not owned, modified or edited by XM Firmware Updater.</p>
@@ -44,13 +44,13 @@ permalink: /hyperos/sapphire/stable/OS2.0.206.0.VNHMIXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 13 NFC Global</h5>
+                    <h5><b>Device: </b>Redmi Note 13 NFC Taiwan</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/sapphiren/" target="_blank">sapphiren</a> </h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS2.0.206.0.VNHMIXM</h5>
+                    <h5><b>Version: </b>OS2.0.207.0.VNHTWXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Branch: </b>Stable</h5>
@@ -59,19 +59,19 @@ permalink: /hyperos/sapphire/stable/OS2.0.206.0.VNHMIXM/
                     <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.6 GB</h5>
+                    <h5><b>Size: </b>6.0 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-03</h5>
+                    <h5><b>Release Date: </b>2025-11-07</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sapphiren_global_images_OS2.0.206.0.VNHMIXM_20251103.0000.00_15.0_global_ab8bdec2d9.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sapphiren_tw_global_images_OS2.0.207.0.VNHTWXM_20251107.0000.00_15.0_tw_790b3e13ef.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">ab8bdec2d98e851cb83eee2f5cb68448</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">790b3e13ef9a791d25383cbcff0e1da6</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.206.0.VNHMIXM/sapphiren_global_images_OS2.0.206.0.VNHMIXM_20251103.0000.00_15.0_global_ab8bdec2d9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.206.0.VNHMIXM/sapphiren_global_images_OS2.0.206.0.VNHMIXM_20251103.0000.00_15.0_global_ab8bdec2d9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.206.0.VNHMIXM/sapphiren_global_images_OS2.0.206.0.VNHMIXM_20251103.0000.00_15.0_global_ab8bdec2d9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.206.0.VNHMIXM/sapphiren_global_images_OS2.0.206.0.VNHMIXM_20251103.0000.00_15.0_global_ab8bdec2d9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.206.0.VNHMIXM/sapphiren_global_images_OS2.0.206.0.VNHMIXM_20251103.0000.00_15.0_global_ab8bdec2d9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.207.0.VNHTWXM/sapphiren_tw_global_images_OS2.0.207.0.VNHTWXM_20251107.0000.00_15.0_tw_790b3e13ef.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.207.0.VNHTWXM/sapphiren_tw_global_images_OS2.0.207.0.VNHTWXM_20251107.0000.00_15.0_tw_790b3e13ef.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.207.0.VNHTWXM/sapphiren_tw_global_images_OS2.0.207.0.VNHTWXM_20251107.0000.00_15.0_tw_790b3e13ef.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.207.0.VNHTWXM/sapphiren_tw_global_images_OS2.0.207.0.VNHTWXM_20251107.0000.00_15.0_tw_790b3e13ef.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.207.0.VNHTWXM/sapphiren_tw_global_images_OS2.0.207.0.VNHTWXM_20251107.0000.00_15.0_tw_790b3e13ef.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#sapphiren_1_changelog" data-toggle="collapse" role="button"
@@ -87,13 +87,13 @@ permalink: /hyperos/sapphire/stable/OS2.0.206.0.VNHMIXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 13 NFC Global</h5>
+                    <h5><b>Device: </b>Redmi Note 13 NFC Taiwan</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/sapphiren/" target="_blank">sapphiren</a> </h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS2.0.206.0.VNHMIXM</h5>
+                    <h5><b>Version: </b>OS2.0.207.0.VNHTWXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Branch: </b>Stable</h5>
@@ -102,19 +102,19 @@ permalink: /hyperos/sapphire/stable/OS2.0.206.0.VNHMIXM/
                     <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.8 GB</h5>
+                    <h5><b>Size: </b>4.6 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-06</h5>
+                    <h5><b>Release Date: </b>2025-11-17</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sapphiren_global-ota_full-OS2.0.206.0.VNHMIXM-user-15.0-cfd201b5dd.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sapphiren_tw_global-ota_full-OS2.0.207.0.VNHTWXM-user-15.0-734efaf392.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">cfd201b5dd4ab7a9436adbacc2feb96e</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">734efaf3928646a17410ae6703c03b75</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.206.0.VNHMIXM/sapphiren_global-ota_full-OS2.0.206.0.VNHMIXM-user-15.0-cfd201b5dd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.206.0.VNHMIXM/sapphiren_global-ota_full-OS2.0.206.0.VNHMIXM-user-15.0-cfd201b5dd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.206.0.VNHMIXM/sapphiren_global-ota_full-OS2.0.206.0.VNHMIXM-user-15.0-cfd201b5dd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.206.0.VNHMIXM/sapphiren_global-ota_full-OS2.0.206.0.VNHMIXM-user-15.0-cfd201b5dd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.206.0.VNHMIXM/sapphiren_global-ota_full-OS2.0.206.0.VNHMIXM-user-15.0-cfd201b5dd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.207.0.VNHTWXM/sapphiren_tw_global-ota_full-OS2.0.207.0.VNHTWXM-user-15.0-734efaf392.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.207.0.VNHTWXM/sapphiren_tw_global-ota_full-OS2.0.207.0.VNHTWXM-user-15.0-734efaf392.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.207.0.VNHTWXM/sapphiren_tw_global-ota_full-OS2.0.207.0.VNHTWXM-user-15.0-734efaf392.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.207.0.VNHTWXM/sapphiren_tw_global-ota_full-OS2.0.207.0.VNHTWXM-user-15.0-734efaf392.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.207.0.VNHTWXM/sapphiren_tw_global-ota_full-OS2.0.207.0.VNHTWXM-user-15.0-734efaf392.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#sapphiren_2_changelog" data-toggle="collapse" role="button"

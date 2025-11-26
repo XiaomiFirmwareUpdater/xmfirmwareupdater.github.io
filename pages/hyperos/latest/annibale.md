@@ -54,6 +54,7 @@ permalink: /hyperos/annibale/
                 <tbody>
                 <tr><td>Redmi K90 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.13.0.WPKCNXM</td><td>16.0</td><td>11.4 GB</td><td>2025-11-07</td><td><a href="/hyperos/annibale/stable/OS3.0.13.0.WPKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K90 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.13.0.WPKCNXM</td><td>16.0</td><td>8.8 GB</td><td>2025-11-10</td><td><a href="/hyperos/annibale/stable/OS3.0.13.0.WPKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K90 / POCO F8 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WPKRUXM</td><td>16.0</td><td>11.1 GB</td><td>2025-10-31</td><td><a href="/hyperos/annibale/stable/OS3.0.2.0.WPKRUXM/">Download</a></td></tr>
 <tr><td>Redmi K90 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.4.0.WPKCNXM</td><td>16.0</td><td>8.8 GB</td><td>2025-10-23</td><td><a href="/hyperos/annibale/stable beta/OS3.0.4.0.WPKCNXM/">Download</a></td></tr>
 
                 </tbody>
