@@ -1,40 +1,40 @@
 - branch: stable
-  date: '2025-10-29'
+  date: '2025-11-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-29.10.2025/fw_garnet_garnet_global-ota_full-OS2.0.204.0.VNRMIXM-user-15.0-49eb38e23a.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/garnet/fw_garnet_garnet_global-ota_full-OS2.0.204.0.VNRMIXM-user-15.0-49eb38e23a.zip
-  filename: fw_garnet_garnet_global-ota_full-OS2.0.204.0.VNRMIXM-user-15.0-49eb38e23a.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-27.11.2025/fw_garnet_garnet_global-ota_full-OS2.0.205.0.VNRMIXM-user-15.0-8910d742f2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/garnet/fw_garnet_garnet_global-ota_full-OS2.0.205.0.VNRMIXM-user-15.0-8910d742f2.zip
+  filename: fw_garnet_garnet_global-ota_full-OS2.0.205.0.VNRMIXM-user-15.0-8910d742f2.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.204.0.VNRMIXM
+    miui: OS2.0.205.0.VNRMIXM
 - branch: stable
-  date: '2025-10-23'
+  date: '2025-11-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-23.10.2025/fw_garnet_garnet-ota_full-OS2.0.208.0.VNRCNXM-user-15.0-0546f26515.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/garnet/fw_garnet_garnet-ota_full-OS2.0.208.0.VNRCNXM-user-15.0-0546f26515.zip
-  filename: fw_garnet_garnet-ota_full-OS2.0.208.0.VNRCNXM-user-15.0-0546f26515.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-27.11.2025/fw_garnet_garnet-ota_full-OS2.0.209.0.VNRCNXM-user-15.0-65412153fa.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/garnet/fw_garnet_garnet-ota_full-OS2.0.209.0.VNRCNXM-user-15.0-65412153fa.zip
+  filename: fw_garnet_garnet-ota_full-OS2.0.209.0.VNRCNXM-user-15.0-65412153fa.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.208.0.VNRCNXM
+    miui: OS2.0.209.0.VNRCNXM
 - branch: stable
-  date: '2025-10-25'
+  date: '2025-11-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-25.10.2025/fw_garnet_garnet_eea_global-ota_full-OS2.0.203.0.VNREUXM-user-15.0-e56700f232.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/garnet/fw_garnet_garnet_eea_global-ota_full-OS2.0.203.0.VNREUXM-user-15.0-e56700f232.zip
-  filename: fw_garnet_garnet_eea_global-ota_full-OS2.0.203.0.VNREUXM-user-15.0-e56700f232.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-27.11.2025/fw_garnet_garnet_eea_global-ota_full-OS2.0.204.0.VNREUXM-user-15.0-ae2971ddfa.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/garnet/fw_garnet_garnet_eea_global-ota_full-OS2.0.204.0.VNREUXM-user-15.0-ae2971ddfa.zip
+  filename: fw_garnet_garnet_eea_global-ota_full-OS2.0.204.0.VNREUXM-user-15.0-ae2971ddfa.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.203.0.VNREUXM
+    miui: OS2.0.204.0.VNREUXM
 - branch: stable
-  date: '2025-10-29'
+  date: '2025-11-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-30.10.2025/fw_garnet_garnet_in_global-ota_full-OS2.0.204.0.VNRINXM-user-15.0-1ee07f57dd.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/garnet/fw_garnet_garnet_in_global-ota_full-OS2.0.204.0.VNRINXM-user-15.0-1ee07f57dd.zip
-  filename: fw_garnet_garnet_in_global-ota_full-OS2.0.204.0.VNRINXM-user-15.0-1ee07f57dd.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-27.11.2025/fw_garnet_garnet_in_global-ota_full-OS2.0.205.0.VNRINXM-user-15.0-077240fa88.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/garnet/fw_garnet_garnet_in_global-ota_full-OS2.0.205.0.VNRINXM-user-15.0-077240fa88.zip
+  filename: fw_garnet_garnet_in_global-ota_full-OS2.0.205.0.VNRINXM-user-15.0-077240fa88.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.204.0.VNRINXM
+    miui: OS2.0.205.0.VNRINXM

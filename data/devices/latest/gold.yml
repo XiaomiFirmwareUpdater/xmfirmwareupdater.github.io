@@ -19,22 +19,22 @@
     android: '15.0'
     miui: OS2.0.215.0.VNQCNXM
 - branch: stable
-  date: '2025-10-28'
+  date: '2025-11-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-28.10.2025/fw_gold_gold_eea_global-ota_full-OS2.0.205.0.VNQEUXM-user-15.0-c19de83a25.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gold/fw_gold_gold_eea_global-ota_full-OS2.0.205.0.VNQEUXM-user-15.0-c19de83a25.zip
-  filename: fw_gold_gold_eea_global-ota_full-OS2.0.205.0.VNQEUXM-user-15.0-c19de83a25.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-27.11.2025/fw_gold_gold_eea_global-ota_full-OS2.0.206.0.VNQEUXM-user-15.0-d824377c7f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gold/fw_gold_gold_eea_global-ota_full-OS2.0.206.0.VNQEUXM-user-15.0-d824377c7f.zip
+  filename: fw_gold_gold_eea_global-ota_full-OS2.0.206.0.VNQEUXM-user-15.0-d824377c7f.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.205.0.VNQEUXM
+    miui: OS2.0.206.0.VNQEUXM
 - branch: stable
-  date: '2025-10-28'
+  date: '2025-11-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-28.10.2025/fw_gold_gold_in_global-ota_full-OS2.0.208.0.VNQINXM-user-15.0-78ef41dcdb.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gold/fw_gold_gold_in_global-ota_full-OS2.0.208.0.VNQINXM-user-15.0-78ef41dcdb.zip
-  filename: fw_gold_gold_in_global-ota_full-OS2.0.208.0.VNQINXM-user-15.0-78ef41dcdb.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-27.11.2025/fw_gold_gold_in_global-ota_full-OS2.0.209.0.VNQINXM-user-15.0-9f2b0d3136.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gold/fw_gold_gold_in_global-ota_full-OS2.0.209.0.VNQINXM-user-15.0-9f2b0d3136.zip
+  filename: fw_gold_gold_in_global-ota_full-OS2.0.209.0.VNQINXM-user-15.0-9f2b0d3136.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.208.0.VNQINXM
+    miui: OS2.0.209.0.VNQINXM

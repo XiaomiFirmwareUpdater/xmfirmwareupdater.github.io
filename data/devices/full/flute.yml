@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2025-11-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flute/releases/download/stable-27.11.2025/fw_flute_flute_in_global-ota_full-OS2.0.202.0.VPWINXM-user-15.0-8650999d5d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/flute/fw_flute_flute_in_global-ota_full-OS2.0.202.0.VPWINXM-user-15.0-8650999d5d.zip
+  filename: fw_flute_flute_in_global-ota_full-OS2.0.202.0.VPWINXM-user-15.0-8650999d5d.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.202.0.VPWINXM
+- branch: stable
   date: '2025-09-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flute/releases/download/stable-26.09.2025/fw_flute_global_flute_global-ota_full-OS2.0.203.0.VPWMIXM-user-15.0-6b755e5413.zip

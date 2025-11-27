@@ -9,15 +9,15 @@
     android: '15.0'
     miui: OS2.0.206.0.VNLMIXM
 - branch: stable
-  date: '2025-10-23'
+  date: '2025-11-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-23.10.2025/fw_duchamp_duchamp-ota_full-OS2.0.212.0.VNLCNXM-user-15.0-f1e9df3044.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/duchamp/fw_duchamp_duchamp-ota_full-OS2.0.212.0.VNLCNXM-user-15.0-f1e9df3044.zip
-  filename: fw_duchamp_duchamp-ota_full-OS2.0.212.0.VNLCNXM-user-15.0-f1e9df3044.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-27.11.2025/fw_duchamp_duchamp-ota_full-OS3.0.2.0.WNLCNXM-user-16.0-fc5ab29dcc.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/duchamp/duchamp/fw_duchamp_duchamp-ota_full-OS3.0.2.0.WNLCNXM-user-16.0-fc5ab29dcc.zip
+  filename: fw_duchamp_duchamp-ota_full-OS3.0.2.0.WNLCNXM-user-16.0-fc5ab29dcc.zip
   region: China
   versions:
-    android: '15.0'
-    miui: OS2.0.212.0.VNLCNXM
+    android: full-OS3.0.2.0.WNLCNXM-user-16.0-fc5ab29dcc
+    miui: duchamp
 - branch: stable
   date: '2025-11-19'
   downloads:
@@ -29,12 +29,12 @@
     android: '15.0'
     miui: OS2.0.209.0.VNLEUXM
 - branch: stable
-  date: '2025-10-31'
+  date: '2025-11-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-31.10.2025/fw_duchamp_duchamp_in_global-ota_full-OS2.0.207.0.VNLINXM-user-15.0-f19ce594a3.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/duchamp/fw_duchamp_duchamp_in_global-ota_full-OS2.0.207.0.VNLINXM-user-15.0-f19ce594a3.zip
-  filename: fw_duchamp_duchamp_in_global-ota_full-OS2.0.207.0.VNLINXM-user-15.0-f19ce594a3.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-27.11.2025/fw_duchamp_duchamp_in_global-ota_full-OS2.0.208.0.VNLINXM-user-15.0-4a0987f359.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/duchamp/fw_duchamp_duchamp_in_global-ota_full-OS2.0.208.0.VNLINXM-user-15.0-4a0987f359.zip
+  filename: fw_duchamp_duchamp_in_global-ota_full-OS2.0.208.0.VNLINXM-user-15.0-4a0987f359.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.207.0.VNLINXM
+    miui: OS2.0.208.0.VNLINXM
