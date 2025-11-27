@@ -62,8 +62,8 @@ permalink: /hyperos/uke/
 <tr><td>Xiaomi Pad 7 / POCO Pad X1 India</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VOZINXM</td><td>15.0</td><td>6.1 GB</td><td>2025-10-18</td><td><a href="/hyperos/uke/stable/OS2.0.202.0.VOZINXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 / POCO Pad X1 Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WOZMIXM</td><td>16.0</td><td>8.0 GB</td><td>2025-10-28</td><td><a href="/hyperos/uke/stable/OS3.0.2.0.WOZMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 / POCO Pad X1 Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WOZMIXM</td><td>16.0</td><td>6.3 GB</td><td>2025-11-07</td><td><a href="/hyperos/uke/stable/OS3.0.2.0.WOZMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 / POCO Pad X1 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VOZRUXM</td><td>15.0</td><td>8.2 GB</td><td>2025-10-15</td><td><a href="/hyperos/uke/stable/OS2.0.205.0.VOZRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 / POCO Pad X1 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VOZRUXM</td><td>15.0</td><td>6.2 GB</td><td>2025-10-22</td><td><a href="/hyperos/uke/stable/OS2.0.205.0.VOZRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 / POCO Pad X1 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VOZRUXM</td><td>15.0</td><td>8.2 GB</td><td>2025-11-13</td><td><a href="/hyperos/uke/stable/OS2.0.206.0.VOZRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 / POCO Pad X1 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VOZRUXM</td><td>15.0</td><td>6.2 GB</td><td>2025-11-19</td><td><a href="/hyperos/uke/stable/OS2.0.206.0.VOZRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 / POCO Pad X1 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VOZTWXM</td><td>15.0</td><td>7.0 GB</td><td>2025-10-15</td><td><a href="/hyperos/uke/stable/OS2.0.202.0.VOZTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 / POCO Pad X1 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VOZTWXM</td><td>15.0</td><td>6.1 GB</td><td>2025-10-21</td><td><a href="/hyperos/uke/stable/OS2.0.202.0.VOZTWXM/">Download</a></td></tr>
 
