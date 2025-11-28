@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 29 Nov 2025 00:28:21 </lastBuildDate>
+        <lastBuildDate>Sat, 29 Nov 2025 01:09:55 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS2.0.211.0.VOPCNXM</title>
@@ -284,6 +284,11 @@
         <item>
             <title>Xiaomi MIX Fold 2 (zizhan) - OS2.0.207.0.VLRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zizhan/</link>
+            <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K80/POCO F7 Pro (zorn) - zorn</title>
+            <link>https://xmfirmwareupdater.com/firmware/zorn/</link>
             <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -859,11 +864,6 @@
         <item>
             <title>Xiaomi 15T Pro (klimt) - OS2.0.206.0.VOSMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
-            <pubDate>Wed, 05 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K80/POCO F7 Pro (zorn) - zorn</title>
-            <link>https://xmfirmwareupdater.com/firmware/zorn/</link>
             <pubDate>Wed, 05 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>

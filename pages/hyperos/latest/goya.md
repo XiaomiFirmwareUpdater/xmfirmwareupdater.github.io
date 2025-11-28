@@ -64,8 +64,8 @@ permalink: /hyperos/goya/
 <tr><td>Xiaomi 15T Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VOERUXM</td><td>15.0</td><td>6.3 GB</td><td>2025-10-28</td><td><a href="/hyperos/goya/stable/OS2.0.204.0.VOERUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VOETRXM</td><td>15.0</td><td>7.7 GB</td><td>2025-10-20</td><td><a href="/hyperos/goya/stable/OS2.0.206.0.VOETRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VOETRXM</td><td>15.0</td><td>6.3 GB</td><td>2025-10-28</td><td><a href="/hyperos/goya/stable/OS2.0.206.0.VOETRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15T Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VOETWXM</td><td>15.0</td><td>7.2 GB</td><td>2025-10-14</td><td><a href="/hyperos/goya/stable/OS2.0.204.0.VOETWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15T Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VOETWXM</td><td>15.0</td><td>6.2 GB</td><td>2025-10-23</td><td><a href="/hyperos/goya/stable/OS2.0.204.0.VOETWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOETWXM</td><td>16.0</td><td>7.8 GB</td><td>2025-11-18</td><td><a href="/hyperos/goya/stable/OS3.0.3.0.WOETWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOETWXM</td><td>16.0</td><td>6.7 GB</td><td>2025-11-19</td><td><a href="/hyperos/goya/stable/OS3.0.3.0.WOETWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

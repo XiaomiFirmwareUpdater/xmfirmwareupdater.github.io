@@ -9,14 +9,14 @@
     android: '15.0'
     miui: OS2.0.204.0.VOKMIXM
 - branch: stable
-  date: '2025-11-05'
+  date: '2025-11-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zorn/releases/download/stable-05.11.2025/fw_zorn_zorn-ota_full-OS3.0.3.0.WOKCNXM-user-16.0-0fb53068dc.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/zorn/zorn/fw_zorn_zorn-ota_full-OS3.0.3.0.WOKCNXM-user-16.0-0fb53068dc.zip
-  filename: fw_zorn_zorn-ota_full-OS3.0.3.0.WOKCNXM-user-16.0-0fb53068dc.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zorn/releases/download/stable-29.11.2025/fw_zorn_zorn-ota_full-OS3.0.4.0.WOKCNXM-user-16.0-072795b4bb.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/zorn/zorn/fw_zorn_zorn-ota_full-OS3.0.4.0.WOKCNXM-user-16.0-072795b4bb.zip
+  filename: fw_zorn_zorn-ota_full-OS3.0.4.0.WOKCNXM-user-16.0-072795b4bb.zip
   region: China
   versions:
-    android: full-OS3.0.3.0.WOKCNXM-user-16.0-0fb53068dc
+    android: full-OS3.0.4.0.WOKCNXM-user-16.0-072795b4bb
     miui: zorn
 - branch: stable
   date: '2025-10-05'
