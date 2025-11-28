@@ -9,6 +9,26 @@
     android: full-OS3.0.13.0.WPMCNXM-user-16.0-18cc0bfb5e
     miui: myron
 - branch: stable
+  date: '2025-11-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_myron/releases/download/stable-28.11.2025/fw_myron_myron_eea_global-ota_full-OS3.0.4.0.WPMEUXM-user-16.0-0d22480797.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/eea/myron/fw_myron_myron_eea_global-ota_full-OS3.0.4.0.WPMEUXM-user-16.0-0d22480797.zip
+  filename: fw_myron_myron_eea_global-ota_full-OS3.0.4.0.WPMEUXM-user-16.0-0d22480797.zip
+  region: China
+  versions:
+    android: full-OS3.0.4.0.WPMEUXM-user-16.0-0d22480797
+    miui: eea
+- branch: stable
+  date: '2025-11-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_myron/releases/download/stable-28.11.2025/fw_myron_myron_global-ota_full-OS3.0.8.0.WPMMIXM-user-16.0-7ab77c059d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/myron/myron/fw_myron_myron_global-ota_full-OS3.0.8.0.WPMMIXM-user-16.0-7ab77c059d.zip
+  filename: fw_myron_myron_global-ota_full-OS3.0.8.0.WPMMIXM-user-16.0-7ab77c059d.zip
+  region: China
+  versions:
+    android: full-OS3.0.8.0.WPMMIXM-user-16.0-7ab77c059d
+    miui: myron
+- branch: stable
   date: '2025-10-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_myron/releases/download/stable-25.10.2025/fw_myron_myron-ota_full-OS3.0.11.0.WPMCNXM-user-16.0-b08afa05e5.zip

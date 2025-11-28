@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-10-27'
+  date: '2025-11-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-27.10.2025/fw_rothko_rothko_global-ota_full-OS2.0.224.0.WNNMIXM-user-16.0-c042fe2865.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rothko/fw_rothko_rothko_global-ota_full-OS2.0.224.0.WNNMIXM-user-16.0-c042fe2865.zip
-  filename: fw_rothko_rothko_global-ota_full-OS2.0.224.0.WNNMIXM-user-16.0-c042fe2865.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-28.11.2025/fw_rothko_rothko_global-ota_full-OS2.0.225.0.WNNMIXM-user-16.0-a5ba71859d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rothko/fw_rothko_rothko_global-ota_full-OS2.0.225.0.WNNMIXM-user-16.0-a5ba71859d.zip
+  filename: fw_rothko_rothko_global-ota_full-OS2.0.225.0.WNNMIXM-user-16.0-a5ba71859d.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS2.0.224.0.WNNMIXM
+    miui: OS2.0.225.0.WNNMIXM
 - branch: stable
   date: '2025-10-14'
   downloads:
@@ -19,12 +19,12 @@
     android: '15.0'
     miui: OS2.0.210.0.VNNCNXM
 - branch: stable
-  date: '2025-10-27'
+  date: '2025-11-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-27.10.2025/fw_rothko_rothko_eea_global-ota_full-OS2.0.225.0.WNNEUXM-user-16.0-8744f7aa2a.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rothko/fw_rothko_rothko_eea_global-ota_full-OS2.0.225.0.WNNEUXM-user-16.0-8744f7aa2a.zip
-  filename: fw_rothko_rothko_eea_global-ota_full-OS2.0.225.0.WNNEUXM-user-16.0-8744f7aa2a.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-28.11.2025/fw_rothko_rothko_eea_global-ota_full-OS2.0.226.0.WNNEUXM-user-16.0-4cea27ab05.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rothko/fw_rothko_rothko_eea_global-ota_full-OS2.0.226.0.WNNEUXM-user-16.0-4cea27ab05.zip
+  filename: fw_rothko_rothko_eea_global-ota_full-OS2.0.226.0.WNNEUXM-user-16.0-4cea27ab05.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS2.0.225.0.WNNEUXM
+    miui: OS2.0.226.0.WNNEUXM
