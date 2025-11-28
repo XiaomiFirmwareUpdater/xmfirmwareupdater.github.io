@@ -19,6 +19,16 @@
     android: '15.0'
     miui: OS2.0.211.0.VBNMIXM
 - branch: stable
+  date: '2025-11-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dew/releases/download/stable-28.11.2025/fw_dew_dew_global-ota_full-OS2.0.214.0.VBNMIXM-user-15.0-5e4c358fd7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dew/fw_dew_dew_global-ota_full-OS2.0.214.0.VBNMIXM-user-15.0-5e4c358fd7.zip
+  filename: fw_dew_dew_global-ota_full-OS2.0.214.0.VBNMIXM-user-15.0-5e4c358fd7.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.214.0.VBNMIXM
+- branch: stable
   date: '2025-10-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dew/releases/download/stable-27.10.2025/fw_dew_dew_eea_global-ota_full-OS2.0.213.0.VBNEUXM-user-15.0-3733282d69.zip

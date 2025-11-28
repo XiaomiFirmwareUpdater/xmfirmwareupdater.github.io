@@ -9,15 +9,15 @@
     android: '15.0'
     miui: OS2.0.208.0.VOPMIXM
 - branch: stable
-  date: '2025-10-26'
+  date: '2025-11-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-26.10.2025/fw_amethyst_amethyst-ota_full-OS2.0.210.0.VOPCNXM-user-15.0-19d532127d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/amethyst/fw_amethyst_amethyst-ota_full-OS2.0.210.0.VOPCNXM-user-15.0-19d532127d.zip
-  filename: fw_amethyst_amethyst-ota_full-OS2.0.210.0.VOPCNXM-user-15.0-19d532127d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-28.11.2025/fw_amethyst_amethyst-ota_full-OS2.0.211.0.VOPCNXM-user-15.0-28eed370ba.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/amethyst/fw_amethyst_amethyst-ota_full-OS2.0.211.0.VOPCNXM-user-15.0-28eed370ba.zip
+  filename: fw_amethyst_amethyst-ota_full-OS2.0.211.0.VOPCNXM-user-15.0-28eed370ba.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.210.0.VOPCNXM
+    miui: OS2.0.211.0.VOPCNXM
 - branch: stable
   date: '2025-10-24'
   downloads:

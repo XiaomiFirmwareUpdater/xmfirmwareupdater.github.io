@@ -69,8 +69,8 @@ permalink: /hyperos/emerald/
 <tr><td>Redmi Note 14S Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VFOTRXM</td><td>15.0</td><td>4.9 GB</td><td>2025-10-29</td><td><a href="/hyperos/emerald/stable/OS2.0.206.0.VFOTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.212.0.VNFRUXM</td><td>15.0</td><td>8.0 GB</td><td>2025-11-05</td><td><a href="/hyperos/emerald/stable/OS2.0.212.0.VNFRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.212.0.VNFRUXM</td><td>15.0</td><td>4.8 GB</td><td>2025-11-13</td><td><a href="/hyperos/emerald/stable/OS2.0.212.0.VNFRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.209.0.VNFTRXM</td><td>15.0</td><td>7.0 GB</td><td>2025-09-26</td><td><a href="/hyperos/emerald/stable/OS2.0.209.0.VNFTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.209.0.VNFTRXM</td><td>15.0</td><td>4.9 GB</td><td>2025-10-15</td><td><a href="/hyperos/emerald/stable/OS2.0.209.0.VNFTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.210.0.VNFTRXM</td><td>15.0</td><td>7.0 GB</td><td>2025-11-05</td><td><a href="/hyperos/emerald/stable/OS2.0.210.0.VNFTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro 4G / POCO M6 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.210.0.VNFTRXM</td><td>15.0</td><td>4.9 GB</td><td>2025-11-18</td><td><a href="/hyperos/emerald/stable/OS2.0.210.0.VNFTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
