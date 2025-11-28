@@ -19680,6 +19680,12 @@
   version: OS1.0.12.0.UMGEUXM
 - android: '15.0'
   codename: topaz
+  date: '2025-11-28'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VMGEUXM/fw_topaz_topaz_eea_global-ota_full-OS2.0.205.0.VMGEUXM-user-15.0-d731c59ce5.zip
+  name: Redmi Note 12 4G NFC
+  version: OS2.0.205.0.VMGEUXM
+- android: '15.0'
+  codename: topaz
   date: '2025-08-28'
   download: https://bigota.d.miui.com/OS2.0.201.0.VMGMIXM/fw_topaz_global_topaz_global-ota_full-OS2.0.201.0.VMGMIXM-user-15.0-e213f22a28.zip
   name: Redmi Note 12 4G NFC
@@ -19816,6 +19822,12 @@
   download: https://bigota.d.miui.com/OS2.0.8.0.VMGMIXM/fw_topaz_global_topaz_global-ota_full-OS2.0.8.0.VMGMIXM-user-15.0-35847f9d26.zip
   name: Redmi Note 12 4G NFC
   version: OS2.0.8.0.VMGMIXM
+- android: '15.0'
+  codename: tornado
+  date: '2025-11-28'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VPOEUXM/fw_tornado_tornado_eea_global-ota_full-OS2.0.204.0.VPOEUXM-user-15.0-987bf0b62b.zip
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  version: OS2.0.204.0.VPOEUXM
 - android: '15.0'
   codename: tornado
   date: '2025-09-23'
@@ -22402,6 +22414,18 @@
   download: https://bigota.d.miui.com/OS2.0.207.0.VLBCNXM/fw_zeus_zeus-ota_full-OS2.0.207.0.VLBCNXM-user-15.0-7f7a64de8f.zip
   name: Xiaomi 12 Pro
   version: OS2.0.207.0.VLBCNXM
+- android: '15.0'
+  codename: zeus
+  date: '2025-11-28'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VLBEUXM/fw_zeus_zeus_eea_global-ota_full-OS2.0.208.0.VLBEUXM-user-15.0-0f80e00ca4.zip
+  name: Xiaomi 12 Pro
+  version: OS2.0.208.0.VLBEUXM
+- android: '15.0'
+  codename: zeus
+  date: '2025-11-28'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VLBINXM/fw_zeus_zeus_in_global-ota_full-OS2.0.208.0.VLBINXM-user-15.0-02577ceee1.zip
+  name: Xiaomi 12 Pro
+  version: OS2.0.208.0.VLBINXM
 - android: '14.0'
   codename: zeus
   date: '2024-10-28'
@@ -22866,6 +22890,12 @@
   version: OS1.0.2.0.UNOEUXM
 - android: '15.0'
   codename: zircon
+  date: '2025-11-28'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VNOCNXM/fw_zircon_zircon-ota_full-OS2.0.209.0.VNOCNXM-user-15.0-2a80ab41ff.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS2.0.209.0.VNOCNXM
+- android: '15.0'
+  codename: zircon
   date: '2025-07-28'
   download: https://bigota.d.miui.com/OS2.0.202.0.VNOMIXM/fw_zircon_global_zircon_global-ota_full-OS2.0.202.0.VNOMIXM-user-15.0-07d0d37757.zip
   name: Redmi Note 13 Pro+ 5G
@@ -23272,6 +23302,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VLLEUXM/fw_ziyi_ziyi_eea_global-ota_full-OS2.0.202.0.VLLEUXM-user-15.0-57656d737f.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS2.0.202.0.VLLEUXM
+- android: '15.0'
+  codename: ziyi
+  date: '2025-11-28'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VLLEUXM/fw_ziyi_ziyi_eea_global-ota_full-OS2.0.203.0.VLLEUXM-user-15.0-0f08e0496d.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS2.0.203.0.VLLEUXM
 - android: '14.0'
   codename: ziyi
   date: '2024-10-28'
@@ -23548,6 +23584,12 @@
   download: https://bigota.d.miui.com/OS2.0.8.0.VLRCNXM/fw_zizhan_zizhan-ota_full-OS2.0.8.0.VLRCNXM-user-15.0-757d3e50b2.zip
   name: Xiaomi MIX Fold 2
   version: OS2.0.8.0.VLRCNXM
+- android: '15.0'
+  codename: zizhan
+  date: '2025-11-28'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VLRCNXM/fw_zizhan_zizhan-ota_full-OS2.0.207.0.VLRCNXM-user-15.0-f7a997777a.zip
+  name: Xiaomi MIX Fold 2
+  version: OS2.0.207.0.VLRCNXM
 - android: '14.0'
   codename: zizhan
   date: '2024-07-28'
