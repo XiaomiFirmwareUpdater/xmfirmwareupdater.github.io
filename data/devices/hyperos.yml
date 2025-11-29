@@ -14376,6 +14376,18 @@
   version: OS2.0.204.0.VLQMIXM
 - android: '15.0'
   codename: plato
+  date: '2025-11-29'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VLQEUXM/fw_plato_plato_eea_global-ota_full-OS2.0.207.0.VLQEUXM-user-15.0-64549fb03b.zip
+  name: Xiaomi 12T
+  version: OS2.0.207.0.VLQEUXM
+- android: '15.0'
+  codename: plato
+  date: '2025-11-29'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VLQMIXM/fw_plato_plato_global-ota_full-OS2.0.209.0.VLQMIXM-user-15.0-68d8ad7d33.zip
+  name: Xiaomi 12T
+  version: OS2.0.209.0.VLQMIXM
+- android: '15.0'
+  codename: plato
   date: '2025-10-27'
   download: https://bigota.d.miui.com/OS2.0.206.0.VLQEUXM/fw_plato_plato_eea_global-ota_full-OS2.0.206.0.VLQEUXM-user-15.0-84261fd812.zip
   name: Xiaomi 12T
@@ -20092,6 +20104,12 @@
   download: https://bigota.d.miui.com/OS2.0.205.0.VAOMIXM/fw_turner_turner_global-ota_full-OS2.0.205.0.VAOMIXM-user-15.0-2688131090.zip
   name: Redmi K Pad/Xiaomi Pad Mini
   version: OS2.0.205.0.VAOMIXM
+- android: '15.0'
+  codename: uke
+  date: '2025-11-29'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VOZINXM/fw_uke_uke_in_global-ota_full-OS2.0.203.0.VOZINXM-user-15.0-88b8822786.zip
+  name: Xiaomi Pad 7/POCO Pad X1
+  version: OS2.0.203.0.VOZINXM
 - android: '15.0'
   codename: uke
   date: '2025-10-29'
