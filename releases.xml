@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 29 Nov 2025 01:09:55 </lastBuildDate>
+        <lastBuildDate>Sat, 29 Nov 2025 07:13:37 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 14 Pro 4G (obsidian) - OS2.0.211.0.VOFMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
+            <pubDate>Sat, 29 Nov 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.207.0.VNPEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
+            <pubDate>Sat, 29 Nov 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS2.0.211.0.VOPCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
@@ -1152,11 +1162,6 @@
             <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 14 Pro 4G (obsidian) - OS2.0.210.0.VOFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
-            <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 14 Pro 4G (obsidian) - OS2.0.207.0.VOFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
             <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
@@ -1254,11 +1259,6 @@
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS2.0.207.0.VOQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
-            <pubDate>Wed, 22 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.206.0.VNPEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
             <pubDate>Wed, 22 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
