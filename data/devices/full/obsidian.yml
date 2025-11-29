@@ -51,6 +51,16 @@
 - branch: stable
   date: '2025-11-29'
   downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_obsidian/releases/download/stable-29.11.2025/fw_obsidian_obsidian_eea_global-ota_full-OS2.0.208.0.VOFEUXM-user-15.0-4a12688ad3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/obsidian/fw_obsidian_obsidian_eea_global-ota_full-OS2.0.208.0.VOFEUXM-user-15.0-4a12688ad3.zip
+  filename: fw_obsidian_obsidian_eea_global-ota_full-OS2.0.208.0.VOFEUXM-user-15.0-4a12688ad3.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.208.0.VOFEUXM
+- branch: stable
+  date: '2025-11-29'
+  downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_obsidian/releases/download/stable-29.11.2025/fw_obsidian_obsidian_global-ota_full-OS2.0.211.0.VOFMIXM-user-15.0-f51b870bf6.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/obsidian/fw_obsidian_obsidian_global-ota_full-OS2.0.211.0.VOFMIXM-user-15.0-f51b870bf6.zip
   filename: fw_obsidian_obsidian_global-ota_full-OS2.0.211.0.VOFMIXM-user-15.0-f51b870bf6.zip

@@ -52,7 +52,9 @@ permalink: /archive/hyperos/turner/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K Pad China</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WAOCNXM</td><td>16.0</td><td>7.4 GB</td><td>2025-10-28</td><td><a href="/hyperos/turner/stable/OS3.0.3.0.WAOCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K Pad China</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WAOCNXM</td><td>16.0</td><td>7.4 GB</td><td>2025-11-09</td><td><a href="/hyperos/turner/stable/OS3.0.4.0.WAOCNXM/">Download</a></td></tr>
+<tr><td>Redmi K Pad China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WAOCNXM</td><td>16.0</td><td>8.5 GB</td><td>2025-11-05</td><td><a href="/hyperos/turner/stable/OS3.0.4.0.WAOCNXM/">Download</a></td></tr>
+<tr><td>Redmi K Pad China</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WAOCNXM</td><td>16.0</td><td>7.4 GB</td><td>2025-10-28</td><td><a href="/hyperos/turner/stable/OS3.0.3.0.WAOCNXM/">Download</a></td></tr>
 <tr><td>Redmi K Pad China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WAOCNXM</td><td>16.0</td><td>8.5 GB</td><td>2025-10-24</td><td><a href="/hyperos/turner/stable/OS3.0.3.0.WAOCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad Mini Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VAOMIXM</td><td>15.0</td><td>5.8 GB</td><td>2025-10-23</td><td><a href="/hyperos/turner/stable/OS2.0.206.0.VAOMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad Mini Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VAOMIXM</td><td>15.0</td><td>7.4 GB</td><td>2025-10-16</td><td><a href="/hyperos/turner/stable/OS2.0.206.0.VAOMIXM/">Download</a></td></tr>

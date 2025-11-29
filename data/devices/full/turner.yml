@@ -9,6 +9,16 @@
     android: '15.0'
     miui: OS2.0.211.0.VAOCNXM
 - branch: stable
+  date: '2025-11-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-29.11.2025/fw_turner_turner-ota_full-OS3.0.4.0.WAOCNXM-user-16.0-25ab0170bb.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/turner/turner/fw_turner_turner-ota_full-OS3.0.4.0.WAOCNXM-user-16.0-25ab0170bb.zip
+  filename: fw_turner_turner-ota_full-OS3.0.4.0.WAOCNXM-user-16.0-25ab0170bb.zip
+  region: China
+  versions:
+    android: full-OS3.0.4.0.WAOCNXM-user-16.0-25ab0170bb
+    miui: turner
+- branch: stable
   date: '2025-10-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-28.10.2025/fw_turner_turner_global-ota_full-OS2.0.206.0.VAOMIXM-user-15.0-fad3d8a7d3.zip
