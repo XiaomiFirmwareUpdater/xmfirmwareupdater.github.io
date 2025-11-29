@@ -52,24 +52,22 @@ permalink: /hyperos/diting/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.209.0.VLFCNXM</td><td>15.0</td><td>7.4 GB</td><td>2025-10-09</td><td><a href="/hyperos/diting/stable/OS2.0.209.0.VLFCNXM/">Download</a></td></tr>
-<tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.209.0.VLFCNXM</td><td>15.0</td><td>6.3 GB</td><td>2025-10-23</td><td><a href="/hyperos/diting/stable/OS2.0.209.0.VLFCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.210.0.VLFCNXM</td><td>15.0</td><td>7.4 GB</td><td>2025-11-07</td><td><a href="/hyperos/diting/stable/OS2.0.210.0.VLFCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS2.0.210.0.VLFCNXM</td><td>15.0</td><td>6.3 GB</td><td>2025-11-25</td><td><a href="/hyperos/diting/stable/OS2.0.210.0.VLFCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.8 GB</td><td>2024-01-12</td><td><a href="/hyperos/diting/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.15.0.ULFCNXM</td><td>14.0</td><td>5.9 GB</td><td>2025-01-23</td><td><a href="/hyperos/diting/stable beta/OS1.0.15.0.ULFCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VLFEUXM</td><td>15.0</td><td>6.8 GB</td><td>2025-10-24</td><td><a href="/hyperos/diting/stable/OS2.0.204.0.VLFEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VLFEUXM</td><td>15.0</td><td>5.7 GB</td><td>2025-11-05</td><td><a href="/hyperos/diting/stable/OS2.0.204.0.VLFEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VLFMIXM</td><td>15.0</td><td>6.7 GB</td><td>2025-10-10</td><td><a href="/hyperos/diting/stable/OS2.0.204.0.VLFMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VLFMIXM</td><td>15.0</td><td>5.6 GB</td><td>2025-10-23</td><td><a href="/hyperos/diting/stable/OS2.0.204.0.VLFMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Pro Japan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.19.0.ULFJPXM</td><td>14.0</td><td>6.2 GB</td><td>2025-09-30</td><td><a href="/hyperos/diting/stable/OS1.0.19.0.ULFJPXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Pro Japan</td><td>Stable</td><td>Recovery</td><td>OS1.0.19.0.ULFJPXM</td><td>14.0</td><td>5.2 GB</td><td>2025-10-23</td><td><a href="/hyperos/diting/stable/OS1.0.19.0.ULFJPXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Pro Japan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.21.0.ULFJPXM</td><td>14.0</td><td>5.2 GB</td><td>2025-11-24</td><td><a href="/hyperos/diting/stable beta/OS1.0.21.0.ULFJPXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Japan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.21.0.ULFJPXM</td><td>14.0</td><td>6.2 GB</td><td>2025-11-14</td><td><a href="/hyperos/diting/stable/OS1.0.21.0.ULFJPXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Japan</td><td>Stable</td><td>Recovery</td><td>OS1.0.21.0.ULFJPXM</td><td>14.0</td><td>5.2 GB</td><td>2025-11-24</td><td><a href="/hyperos/diting/stable/OS1.0.21.0.ULFJPXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VLFRUXM</td><td>15.0</td><td>6.7 GB</td><td>2025-09-18</td><td><a href="/hyperos/diting/stable/OS2.0.202.0.VLFRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VLFRUXM</td><td>15.0</td><td>5.6 GB</td><td>2025-10-13</td><td><a href="/hyperos/diting/stable/OS2.0.202.0.VLFRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VLFTRXM</td><td>15.0</td><td>6.5 GB</td><td>2025-09-18</td><td><a href="/hyperos/diting/stable/OS2.0.202.0.VLFTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VLFTRXM</td><td>15.0</td><td>5.6 GB</td><td>2025-10-13</td><td><a href="/hyperos/diting/stable/OS2.0.202.0.VLFTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VLFTWXM</td><td>15.0</td><td>6.3 GB</td><td>2025-09-18</td><td><a href="/hyperos/diting/stable/OS2.0.202.0.VLFTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VLFTWXM</td><td>15.0</td><td>5.5 GB</td><td>2025-10-13</td><td><a href="/hyperos/diting/stable/OS2.0.202.0.VLFTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.203.0.VLFTWXM</td><td>15.0</td><td>5.5 GB</td><td>2025-11-24</td><td><a href="/hyperos/diting/stable beta/OS2.0.203.0.VLFTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VLFTWXM</td><td>15.0</td><td>6.3 GB</td><td>2025-11-07</td><td><a href="/hyperos/diting/stable/OS2.0.203.0.VLFTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VLFTWXM</td><td>15.0</td><td>5.5 GB</td><td>2025-11-24</td><td><a href="/hyperos/diting/stable/OS2.0.203.0.VLFTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
