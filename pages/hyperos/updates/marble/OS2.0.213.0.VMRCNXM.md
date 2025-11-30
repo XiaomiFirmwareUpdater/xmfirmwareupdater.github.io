@@ -56,22 +56,22 @@ permalink: /hyperos/marble/stable/OS2.0.213.0.VMRCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.7 GB</h5>
+                    <h5><b>Size: </b>6.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-18</h5>
+                    <h5><b>Release Date: </b>2025-11-21</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">marble_images_OS2.0.213.0.VMRCNXM_20251118.0000.00_15.0_cn_fea73635ba.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">marble-ota_full-OS2.0.213.0.VMRCNXM-user-15.0-cb5d1cbe92.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">fea73635bac2f0088b3b1e0deee52cb9</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">cb5d1cbe92e667df495128946174d812</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.213.0.VMRCNXM/marble_images_OS2.0.213.0.VMRCNXM_20251118.0000.00_15.0_cn_fea73635ba.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.213.0.VMRCNXM/marble_images_OS2.0.213.0.VMRCNXM_20251118.0000.00_15.0_cn_fea73635ba.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.213.0.VMRCNXM/marble_images_OS2.0.213.0.VMRCNXM_20251118.0000.00_15.0_cn_fea73635ba.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.213.0.VMRCNXM/marble_images_OS2.0.213.0.VMRCNXM_20251118.0000.00_15.0_cn_fea73635ba.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.213.0.VMRCNXM/marble_images_OS2.0.213.0.VMRCNXM_20251118.0000.00_15.0_cn_fea73635ba.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.213.0.VMRCNXM/marble-ota_full-OS2.0.213.0.VMRCNXM-user-15.0-cb5d1cbe92.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.213.0.VMRCNXM/marble-ota_full-OS2.0.213.0.VMRCNXM-user-15.0-cb5d1cbe92.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.213.0.VMRCNXM/marble-ota_full-OS2.0.213.0.VMRCNXM-user-15.0-cb5d1cbe92.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.213.0.VMRCNXM/marble-ota_full-OS2.0.213.0.VMRCNXM-user-15.0-cb5d1cbe92.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.213.0.VMRCNXM/marble-ota_full-OS2.0.213.0.VMRCNXM-user-15.0-cb5d1cbe92.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#marble_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/marble/stable/OS2.0.213.0.VMRCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.2 GB</h5>
+                    <h5><b>Size: </b>7.7 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-21</h5>
+                    <h5><b>Release Date: </b>2025-11-18</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">marble-ota_full-OS2.0.213.0.VMRCNXM-user-15.0-cb5d1cbe92.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">marble_images_OS2.0.213.0.VMRCNXM_20251118.0000.00_15.0_cn_fea73635ba.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">cb5d1cbe92e667df495128946174d812</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">fea73635bac2f0088b3b1e0deee52cb9</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.213.0.VMRCNXM/marble-ota_full-OS2.0.213.0.VMRCNXM-user-15.0-cb5d1cbe92.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.213.0.VMRCNXM/marble-ota_full-OS2.0.213.0.VMRCNXM-user-15.0-cb5d1cbe92.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.213.0.VMRCNXM/marble-ota_full-OS2.0.213.0.VMRCNXM-user-15.0-cb5d1cbe92.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.213.0.VMRCNXM/marble-ota_full-OS2.0.213.0.VMRCNXM-user-15.0-cb5d1cbe92.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.213.0.VMRCNXM/marble-ota_full-OS2.0.213.0.VMRCNXM-user-15.0-cb5d1cbe92.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.213.0.VMRCNXM/marble_images_OS2.0.213.0.VMRCNXM_20251118.0000.00_15.0_cn_fea73635ba.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.213.0.VMRCNXM/marble_images_OS2.0.213.0.VMRCNXM_20251118.0000.00_15.0_cn_fea73635ba.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.213.0.VMRCNXM/marble_images_OS2.0.213.0.VMRCNXM_20251118.0000.00_15.0_cn_fea73635ba.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.213.0.VMRCNXM/marble_images_OS2.0.213.0.VMRCNXM_20251118.0000.00_15.0_cn_fea73635ba.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.213.0.VMRCNXM/marble_images_OS2.0.213.0.VMRCNXM_20251118.0000.00_15.0_cn_fea73635ba.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#marble_2_changelog" data-toggle="collapse" role="button"

@@ -328,3 +328,13 @@
   versions:
     android: '15.0'
     miui: OS2.0.102.0.VOZMIXM
+- branch: stable
+  date: '2025-11-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-01.12.2025/fw_uke_uke_eea_global-ota_full-OS2.0.205.0.VOZEUXM-user-15.0-27b8f2ad31.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/uke/fw_uke_uke_eea_global-ota_full-OS2.0.205.0.VOZEUXM-user-15.0-27b8f2ad31.zip
+  filename: fw_uke_uke_eea_global-ota_full-OS2.0.205.0.VOZEUXM-user-15.0-27b8f2ad31.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.205.0.VOZEUXM
