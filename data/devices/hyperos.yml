@@ -3936,6 +3936,12 @@
   version: OS2.0.1.0.VNSINXM
 - android: '15.0'
   codename: dizi
+  date: '2025-11-30'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VNSCNXM/fw_dizi_dizi-ota_full-OS2.0.206.0.VNSCNXM-user-15.0-65a613af90.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS2.0.206.0.VNSCNXM
+- android: '15.0'
+  codename: dizi
   date: '2025-09-30'
   download: https://bigota.d.miui.com/OS2.0.203.0.VNSINXM/fw_dizi_in_global_dizi_in_global-ota_full-OS2.0.203.0.VNSINXM-user-15.0-c67be78395.zip
   name: Redmi Pad Pro/POCO Pad
@@ -15886,6 +15892,12 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VFSINXM/fw_ruan_in_global_ruan_in_global-ota_full-OS2.0.2.0.VFSINXM-user-15.0-c853300b68.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS2.0.2.0.VFSINXM
+- android: '15.0'
+  codename: ruan
+  date: '2025-11-30'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VFSINXM/fw_ruan_ruan_in_global-ota_full-OS2.0.205.0.VFSINXM-user-15.0-a90130750f.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS2.0.205.0.VFSINXM
 - android: '14.0'
   codename: ruan
   date: '2024-11-30'
@@ -17332,6 +17344,12 @@
   download: https://bigota.d.miui.com/OS1.0.13.0.UHZMIXM/fw_sea_miui_SEAGlobal_OS1.0.13.0.UHZMIXM_450aa8eb2c_14.0.zip
   name: Redmi Note 12S
   version: OS1.0.13.0.UHZMIXM
+- android: '15.0'
+  codename: sea
+  date: '2025-11-30'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VHZEUXM/fw_sea_sea_eea_global-ota_full-OS2.0.206.0.VHZEUXM-user-15.0-b661916568.zip
+  name: Redmi Note 12S
+  version: OS2.0.206.0.VHZEUXM
 - android: '14.0'
   codename: sea
   date: '2024-09-30'
