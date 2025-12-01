@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 01 Dec 2025 01:27:41 </lastBuildDate>
+        <lastBuildDate>Mon, 01 Dec 2025 07:09:59 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 15/POCO M7 (creek) - OS2.0.205.0.VBOEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/creek/</link>
+            <pubDate>Mon, 01 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS2.0.205.0.VLFMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/diting/</link>
+            <pubDate>Mon, 01 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS2.0.206.0.VOUMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/spring/</link>
+            <pubDate>Mon, 01 Dec 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS2.0.208.0.VOQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
@@ -1202,11 +1217,6 @@
             <pubDate>Tue, 28 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS2.0.205.0.VOUMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/spring/</link>
-            <pubDate>Tue, 28 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K Pad/Xiaomi Pad Mini (turner) - OS2.0.206.0.VAOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/turner/</link>
             <pubDate>Tue, 28 Oct 2025 00:00:00 </pubDate>
@@ -1352,11 +1362,6 @@
             <pubDate>Sat, 04 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 15/POCO M7 (creek) - OS2.0.204.0.VBOEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/creek/</link>
-            <pubDate>Tue, 30 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 15/POCO M7 (creek) - OS2.0.204.0.VBOIDXM</title>
             <link>https://xmfirmwareupdater.com/firmware/creek/</link>
             <pubDate>Sun, 28 Sep 2025 00:00:00 </pubDate>
@@ -1365,11 +1370,6 @@
             <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - OS1.0.8.0.ULSEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/light/</link>
             <pubDate>Sun, 28 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS2.0.203.0.VLFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/diting/</link>
-            <pubDate>Wed, 24 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS1.0.18.0.UGUCNXM</title>
