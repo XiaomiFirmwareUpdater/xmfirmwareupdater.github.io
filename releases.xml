@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 01 Dec 2025 12:50:56 </lastBuildDate>
+        <lastBuildDate>Mon, 01 Dec 2025 21:45:13 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 15/POCO M7 (creek) - OS2.0.205.0.VBOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/creek/</link>
+            <pubDate>Mon, 01 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15S Pro (dijun) - dijun</title>
+            <link>https://xmfirmwareupdater.com/firmware/dijun/</link>
             <pubDate>Mon, 01 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1425,11 +1430,6 @@
             <title>Redmi Pad (yunluo) - OS1.0.10.0.ULYINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/yunluo/</link>
             <pubDate>Mon, 18 Aug 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15S Pro (dijun) - OS2.0.208.0.VODCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dijun/</link>
-            <pubDate>Fri, 15 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 11T (agate) - OS1.0.17.0.UKWMIXM</title>
