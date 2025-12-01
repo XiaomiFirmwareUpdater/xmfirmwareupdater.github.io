@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 01 Dec 2025 21:45:13 </lastBuildDate>
+        <lastBuildDate>Tue, 02 Dec 2025 00:45:23 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 15/POCO M7 (creek) - OS2.0.205.0.VBOEUXM</title>
@@ -24,6 +24,11 @@
         <item>
             <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS2.0.206.0.VOUMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spring/</link>
+            <pubDate>Mon, 01 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) - OS2.0.205.0.VPOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
             <pubDate>Mon, 01 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1325,11 +1330,6 @@
             <title>Redmi A5/POCO C71 (serenity) - A15.0.12.0.VGWINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
             <pubDate>Fri, 17 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) - OS2.0.203.0.VPOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
-            <pubDate>Wed, 15 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.6.0.UMOINXM</title>
