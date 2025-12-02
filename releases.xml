@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 02 Dec 2025 00:45:23 </lastBuildDate>
+        <lastBuildDate>Tue, 02 Dec 2025 06:47:37 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K90 Pro Max/POCO F8 Ultra (myron) - myron</title>
+            <link>https://xmfirmwareupdater.com/firmware/myron/</link>
+            <pubDate>Tue, 02 Dec 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 15/POCO M7 (creek) - OS2.0.205.0.VBOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/creek/</link>
@@ -254,11 +259,6 @@
         <item>
             <title>Xiaomi Pad 6 Pro (liuqin) - OS2.0.213.0.VMYCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/liuqin/</link>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K90 Pro Max/POCO F8 Ultra (myron) - myron</title>
-            <link>https://xmfirmwareupdater.com/firmware/myron/</link>
             <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>

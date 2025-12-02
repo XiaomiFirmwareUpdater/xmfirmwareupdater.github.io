@@ -3929,14 +3929,14 @@
     android: '15.0'
     miui: OS2.0.204.0.VOYEUXM
 - branch: stable
-  date: '2025-11-28'
+  date: '2025-12-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_myron/releases/download/stable-28.11.2025/fw_myron_myron_global-ota_full-OS3.0.8.0.WPMMIXM-user-16.0-7ab77c059d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/myron/myron/fw_myron_myron_global-ota_full-OS3.0.8.0.WPMMIXM-user-16.0-7ab77c059d.zip
-  filename: fw_myron_myron_global-ota_full-OS3.0.8.0.WPMMIXM-user-16.0-7ab77c059d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_myron/releases/download/stable-02.12.2025/fw_myron_myron-ota_full-OS3.0.16.0.WPMCNXM-user-16.0-8526128cc2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/myron/myron/fw_myron_myron-ota_full-OS3.0.16.0.WPMCNXM-user-16.0-8526128cc2.zip
+  filename: fw_myron_myron-ota_full-OS3.0.16.0.WPMCNXM-user-16.0-8526128cc2.zip
   region: China
   versions:
-    android: full-OS3.0.8.0.WPMMIXM-user-16.0-7ab77c059d
+    android: full-OS3.0.16.0.WPMCNXM-user-16.0-8526128cc2
     miui: myron
 - branch: stable
   date: '2024-10-08'
