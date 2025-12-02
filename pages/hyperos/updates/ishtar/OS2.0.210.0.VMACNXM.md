@@ -56,22 +56,22 @@ permalink: /hyperos/ishtar/stable/OS2.0.210.0.VMACNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>9.0 GB</h5>
+                    <h5><b>Size: </b>7.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-14</h5>
+                    <h5><b>Release Date: </b>2025-11-18</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">ishtar_images_OS2.0.210.0.VMACNXM_20251114.0000.00_15.0_cn_12e2e8fb10.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">ishtar-ota_full-OS2.0.210.0.VMACNXM-user-15.0-139ea346cd.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">12e2e8fb10eac5a8ea718f0facaf0f4f</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">139ea346cd35a22375555437eba024de</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.210.0.VMACNXM/ishtar_images_OS2.0.210.0.VMACNXM_20251114.0000.00_15.0_cn_12e2e8fb10.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.210.0.VMACNXM/ishtar_images_OS2.0.210.0.VMACNXM_20251114.0000.00_15.0_cn_12e2e8fb10.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.210.0.VMACNXM/ishtar_images_OS2.0.210.0.VMACNXM_20251114.0000.00_15.0_cn_12e2e8fb10.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.210.0.VMACNXM/ishtar_images_OS2.0.210.0.VMACNXM_20251114.0000.00_15.0_cn_12e2e8fb10.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.210.0.VMACNXM/ishtar_images_OS2.0.210.0.VMACNXM_20251114.0000.00_15.0_cn_12e2e8fb10.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.210.0.VMACNXM/ishtar-ota_full-OS2.0.210.0.VMACNXM-user-15.0-139ea346cd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.210.0.VMACNXM/ishtar-ota_full-OS2.0.210.0.VMACNXM-user-15.0-139ea346cd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.210.0.VMACNXM/ishtar-ota_full-OS2.0.210.0.VMACNXM-user-15.0-139ea346cd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.210.0.VMACNXM/ishtar-ota_full-OS2.0.210.0.VMACNXM-user-15.0-139ea346cd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.210.0.VMACNXM/ishtar-ota_full-OS2.0.210.0.VMACNXM-user-15.0-139ea346cd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#ishtar_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/ishtar/stable/OS2.0.210.0.VMACNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.2 GB</h5>
+                    <h5><b>Size: </b>9.0 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-18</h5>
+                    <h5><b>Release Date: </b>2025-11-14</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">ishtar-ota_full-OS2.0.210.0.VMACNXM-user-15.0-139ea346cd.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">ishtar_images_OS2.0.210.0.VMACNXM_20251114.0000.00_15.0_cn_12e2e8fb10.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">139ea346cd35a22375555437eba024de</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">12e2e8fb10eac5a8ea718f0facaf0f4f</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.210.0.VMACNXM/ishtar-ota_full-OS2.0.210.0.VMACNXM-user-15.0-139ea346cd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.210.0.VMACNXM/ishtar-ota_full-OS2.0.210.0.VMACNXM-user-15.0-139ea346cd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.210.0.VMACNXM/ishtar-ota_full-OS2.0.210.0.VMACNXM-user-15.0-139ea346cd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.210.0.VMACNXM/ishtar-ota_full-OS2.0.210.0.VMACNXM-user-15.0-139ea346cd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.210.0.VMACNXM/ishtar-ota_full-OS2.0.210.0.VMACNXM-user-15.0-139ea346cd.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.210.0.VMACNXM/ishtar_images_OS2.0.210.0.VMACNXM_20251114.0000.00_15.0_cn_12e2e8fb10.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.210.0.VMACNXM/ishtar_images_OS2.0.210.0.VMACNXM_20251114.0000.00_15.0_cn_12e2e8fb10.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.210.0.VMACNXM/ishtar_images_OS2.0.210.0.VMACNXM_20251114.0000.00_15.0_cn_12e2e8fb10.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.210.0.VMACNXM/ishtar_images_OS2.0.210.0.VMACNXM_20251114.0000.00_15.0_cn_12e2e8fb10.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.210.0.VMACNXM/ishtar_images_OS2.0.210.0.VMACNXM_20251114.0000.00_15.0_cn_12e2e8fb10.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#ishtar_2_changelog" data-toggle="collapse" role="button"

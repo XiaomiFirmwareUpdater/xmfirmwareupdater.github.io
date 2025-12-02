@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 02 Dec 2025 12:49:54 </lastBuildDate>
+        <lastBuildDate>Wed, 03 Dec 2025 00:38:56 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS2.0.206.0.VPWMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flute/</link>
+            <pubDate>Tue, 02 Dec 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS2.0.211.0.VPWEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flute/</link>
@@ -1029,11 +1034,6 @@
         <item>
             <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS2.0.203.0.VGUINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flame/</link>
-            <pubDate>Fri, 07 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS2.0.204.0.VPWMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flute/</link>
             <pubDate>Fri, 07 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>

@@ -56,22 +56,22 @@ permalink: /hyperos/sweet/stable/OS1.0.23.0.THGIDXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.9 GB</h5>
+                    <h5><b>Size: </b>4.1 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-05</h5>
+                    <h5><b>Release Date: </b>2025-11-19</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sweet_k6a_id_global_images_OS1.0.23.0.THGIDXM_20251105.0000.00_13.0_id_e8342aefb6.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_SWEETK6AIDGlobal_OS1.0.23.0.THGIDXM_e4338ed2ed_13.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">e8342aefb6de08b620a908caf343aa08</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">e4338ed2ed2304f5e851411bf2a1e204</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.23.0.THGIDXM/sweet_k6a_id_global_images_OS1.0.23.0.THGIDXM_20251105.0000.00_13.0_id_e8342aefb6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.23.0.THGIDXM/sweet_k6a_id_global_images_OS1.0.23.0.THGIDXM_20251105.0000.00_13.0_id_e8342aefb6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.23.0.THGIDXM/sweet_k6a_id_global_images_OS1.0.23.0.THGIDXM_20251105.0000.00_13.0_id_e8342aefb6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.23.0.THGIDXM/sweet_k6a_id_global_images_OS1.0.23.0.THGIDXM_20251105.0000.00_13.0_id_e8342aefb6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.23.0.THGIDXM/sweet_k6a_id_global_images_OS1.0.23.0.THGIDXM_20251105.0000.00_13.0_id_e8342aefb6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.23.0.THGIDXM/miui-blockota-sweet_k6a_id_global-OS1.0.22.0.THGIDXM-OS1.0.23.0.THGIDXM-615ec87881-13.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.23.0.THGIDXM/miui_SWEETK6AIDGlobal_OS1.0.23.0.THGIDXM_e4338ed2ed_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.23.0.THGIDXM/miui_SWEETK6AIDGlobal_OS1.0.23.0.THGIDXM_e4338ed2ed_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.23.0.THGIDXM/miui_SWEETK6AIDGlobal_OS1.0.23.0.THGIDXM_e4338ed2ed_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.23.0.THGIDXM/miui_SWEETK6AIDGlobal_OS1.0.23.0.THGIDXM_e4338ed2ed_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.23.0.THGIDXM/miui_SWEETK6AIDGlobal_OS1.0.23.0.THGIDXM_e4338ed2ed_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#sweet_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/sweet/stable/OS1.0.23.0.THGIDXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.1 GB</h5>
+                    <h5><b>Size: </b>5.9 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-19</h5>
+                    <h5><b>Release Date: </b>2025-11-05</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_SWEETK6AIDGlobal_OS1.0.23.0.THGIDXM_e4338ed2ed_13.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sweet_k6a_id_global_images_OS1.0.23.0.THGIDXM_20251105.0000.00_13.0_id_e8342aefb6.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">e4338ed2ed2304f5e851411bf2a1e204</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">e8342aefb6de08b620a908caf343aa08</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.23.0.THGIDXM/miui-blockota-sweet_k6a_id_global-OS1.0.22.0.THGIDXM-OS1.0.23.0.THGIDXM-615ec87881-13.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.23.0.THGIDXM/miui_SWEETK6AIDGlobal_OS1.0.23.0.THGIDXM_e4338ed2ed_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.23.0.THGIDXM/miui_SWEETK6AIDGlobal_OS1.0.23.0.THGIDXM_e4338ed2ed_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.23.0.THGIDXM/miui_SWEETK6AIDGlobal_OS1.0.23.0.THGIDXM_e4338ed2ed_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.23.0.THGIDXM/miui_SWEETK6AIDGlobal_OS1.0.23.0.THGIDXM_e4338ed2ed_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.23.0.THGIDXM/miui_SWEETK6AIDGlobal_OS1.0.23.0.THGIDXM_e4338ed2ed_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.23.0.THGIDXM/sweet_k6a_id_global_images_OS1.0.23.0.THGIDXM_20251105.0000.00_13.0_id_e8342aefb6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.23.0.THGIDXM/sweet_k6a_id_global_images_OS1.0.23.0.THGIDXM_20251105.0000.00_13.0_id_e8342aefb6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.23.0.THGIDXM/sweet_k6a_id_global_images_OS1.0.23.0.THGIDXM_20251105.0000.00_13.0_id_e8342aefb6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.23.0.THGIDXM/sweet_k6a_id_global_images_OS1.0.23.0.THGIDXM_20251105.0000.00_13.0_id_e8342aefb6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.23.0.THGIDXM/sweet_k6a_id_global_images_OS1.0.23.0.THGIDXM_20251105.0000.00_13.0_id_e8342aefb6.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#sweet_2_changelog" data-toggle="collapse" role="button"

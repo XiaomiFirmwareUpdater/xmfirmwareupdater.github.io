@@ -56,22 +56,22 @@ permalink: /hyperos/rothko/stable/OS2.0.225.0.WNNMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.9 GB</h5>
+                    <h5><b>Size: </b>6.4 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-05</h5>
+                    <h5><b>Release Date: </b>2025-11-13</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">rothko_global_images_OS2.0.225.0.WNNMIXM_20251105.0000.00_16.0_global_8fac6966f2.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">rothko_global-ota_full-OS2.0.225.0.WNNMIXM-user-16.0-a5ba71859d.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">8fac6966f25552fbe1b825c153e4eafe</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">a5ba71859dcbbd4e1b1330670df5364c</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.225.0.WNNMIXM/rothko_global_images_OS2.0.225.0.WNNMIXM_20251105.0000.00_16.0_global_8fac6966f2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.225.0.WNNMIXM/rothko_global_images_OS2.0.225.0.WNNMIXM_20251105.0000.00_16.0_global_8fac6966f2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.225.0.WNNMIXM/rothko_global_images_OS2.0.225.0.WNNMIXM_20251105.0000.00_16.0_global_8fac6966f2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.225.0.WNNMIXM/rothko_global_images_OS2.0.225.0.WNNMIXM_20251105.0000.00_16.0_global_8fac6966f2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.225.0.WNNMIXM/rothko_global_images_OS2.0.225.0.WNNMIXM_20251105.0000.00_16.0_global_8fac6966f2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.225.0.WNNMIXM/rothko_global-ota_full-OS2.0.225.0.WNNMIXM-user-16.0-a5ba71859d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.225.0.WNNMIXM/rothko_global-ota_full-OS2.0.225.0.WNNMIXM-user-16.0-a5ba71859d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.225.0.WNNMIXM/rothko_global-ota_full-OS2.0.225.0.WNNMIXM-user-16.0-a5ba71859d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.225.0.WNNMIXM/rothko_global-ota_full-OS2.0.225.0.WNNMIXM-user-16.0-a5ba71859d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.225.0.WNNMIXM/rothko_global-ota_full-OS2.0.225.0.WNNMIXM-user-16.0-a5ba71859d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#rothko_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/rothko/stable/OS2.0.225.0.WNNMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.4 GB</h5>
+                    <h5><b>Size: </b>8.9 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-13</h5>
+                    <h5><b>Release Date: </b>2025-11-05</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">rothko_global-ota_full-OS2.0.225.0.WNNMIXM-user-16.0-a5ba71859d.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">rothko_global_images_OS2.0.225.0.WNNMIXM_20251105.0000.00_16.0_global_8fac6966f2.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">a5ba71859dcbbd4e1b1330670df5364c</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">8fac6966f25552fbe1b825c153e4eafe</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.225.0.WNNMIXM/rothko_global-ota_full-OS2.0.225.0.WNNMIXM-user-16.0-a5ba71859d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.225.0.WNNMIXM/rothko_global-ota_full-OS2.0.225.0.WNNMIXM-user-16.0-a5ba71859d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.225.0.WNNMIXM/rothko_global-ota_full-OS2.0.225.0.WNNMIXM-user-16.0-a5ba71859d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.225.0.WNNMIXM/rothko_global-ota_full-OS2.0.225.0.WNNMIXM-user-16.0-a5ba71859d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.225.0.WNNMIXM/rothko_global-ota_full-OS2.0.225.0.WNNMIXM-user-16.0-a5ba71859d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.225.0.WNNMIXM/rothko_global_images_OS2.0.225.0.WNNMIXM_20251105.0000.00_16.0_global_8fac6966f2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.225.0.WNNMIXM/rothko_global_images_OS2.0.225.0.WNNMIXM_20251105.0000.00_16.0_global_8fac6966f2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.225.0.WNNMIXM/rothko_global_images_OS2.0.225.0.WNNMIXM_20251105.0000.00_16.0_global_8fac6966f2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.225.0.WNNMIXM/rothko_global_images_OS2.0.225.0.WNNMIXM_20251105.0000.00_16.0_global_8fac6966f2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.225.0.WNNMIXM/rothko_global_images_OS2.0.225.0.WNNMIXM_20251105.0000.00_16.0_global_8fac6966f2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#rothko_2_changelog" data-toggle="collapse" role="button"
