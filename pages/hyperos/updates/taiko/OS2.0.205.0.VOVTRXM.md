@@ -56,22 +56,22 @@ permalink: /hyperos/taiko/stable/OS2.0.205.0.VOVTRXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.4 GB</h5>
+                    <h5><b>Size: </b>6.0 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-24</h5>
+                    <h5><b>Release Date: </b>2025-11-14</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">taiko_tr_global-ota_full-OS2.0.205.0.VOVTRXM-user-15.0-0f6c4714ad.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">taiko_tr_global_images_OS2.0.205.0.VOVTRXM_20251114.0000.00_15.0_tr_d6ceed71af.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">0f6c4714ad0912f424617eef67f95c9e</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">d6ceed71aff3d7e41c5991b1678cd823</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.205.0.VOVTRXM/taiko_tr_global-ota_full-OS2.0.205.0.VOVTRXM-user-15.0-0f6c4714ad.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.205.0.VOVTRXM/taiko_tr_global-ota_full-OS2.0.205.0.VOVTRXM-user-15.0-0f6c4714ad.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.205.0.VOVTRXM/taiko_tr_global-ota_full-OS2.0.205.0.VOVTRXM-user-15.0-0f6c4714ad.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.205.0.VOVTRXM/taiko_tr_global-ota_full-OS2.0.205.0.VOVTRXM-user-15.0-0f6c4714ad.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.205.0.VOVTRXM/taiko_tr_global-ota_full-OS2.0.205.0.VOVTRXM-user-15.0-0f6c4714ad.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.205.0.VOVTRXM/taiko_tr_global_images_OS2.0.205.0.VOVTRXM_20251114.0000.00_15.0_tr_d6ceed71af.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.205.0.VOVTRXM/taiko_tr_global_images_OS2.0.205.0.VOVTRXM_20251114.0000.00_15.0_tr_d6ceed71af.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.205.0.VOVTRXM/taiko_tr_global_images_OS2.0.205.0.VOVTRXM_20251114.0000.00_15.0_tr_d6ceed71af.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.205.0.VOVTRXM/taiko_tr_global_images_OS2.0.205.0.VOVTRXM_20251114.0000.00_15.0_tr_d6ceed71af.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.205.0.VOVTRXM/taiko_tr_global_images_OS2.0.205.0.VOVTRXM_20251114.0000.00_15.0_tr_d6ceed71af.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#taiko_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/taiko/stable/OS2.0.205.0.VOVTRXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.0 GB</h5>
+                    <h5><b>Size: </b>4.4 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-14</h5>
+                    <h5><b>Release Date: </b>2025-11-24</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">taiko_tr_global_images_OS2.0.205.0.VOVTRXM_20251114.0000.00_15.0_tr_d6ceed71af.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">taiko_tr_global-ota_full-OS2.0.205.0.VOVTRXM-user-15.0-0f6c4714ad.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">d6ceed71aff3d7e41c5991b1678cd823</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">0f6c4714ad0912f424617eef67f95c9e</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.205.0.VOVTRXM/taiko_tr_global_images_OS2.0.205.0.VOVTRXM_20251114.0000.00_15.0_tr_d6ceed71af.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.205.0.VOVTRXM/taiko_tr_global_images_OS2.0.205.0.VOVTRXM_20251114.0000.00_15.0_tr_d6ceed71af.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.205.0.VOVTRXM/taiko_tr_global_images_OS2.0.205.0.VOVTRXM_20251114.0000.00_15.0_tr_d6ceed71af.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.205.0.VOVTRXM/taiko_tr_global_images_OS2.0.205.0.VOVTRXM_20251114.0000.00_15.0_tr_d6ceed71af.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.205.0.VOVTRXM/taiko_tr_global_images_OS2.0.205.0.VOVTRXM_20251114.0000.00_15.0_tr_d6ceed71af.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.205.0.VOVTRXM/taiko_tr_global-ota_full-OS2.0.205.0.VOVTRXM-user-15.0-0f6c4714ad.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.205.0.VOVTRXM/taiko_tr_global-ota_full-OS2.0.205.0.VOVTRXM-user-15.0-0f6c4714ad.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.205.0.VOVTRXM/taiko_tr_global-ota_full-OS2.0.205.0.VOVTRXM-user-15.0-0f6c4714ad.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.205.0.VOVTRXM/taiko_tr_global-ota_full-OS2.0.205.0.VOVTRXM-user-15.0-0f6c4714ad.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.205.0.VOVTRXM/taiko_tr_global-ota_full-OS2.0.205.0.VOVTRXM-user-15.0-0f6c4714ad.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#taiko_2_changelog" data-toggle="collapse" role="button"

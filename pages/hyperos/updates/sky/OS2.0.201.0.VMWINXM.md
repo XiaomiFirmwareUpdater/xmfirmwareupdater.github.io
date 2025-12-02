@@ -56,22 +56,22 @@ permalink: /hyperos/sky/stable/OS2.0.201.0.VMWINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.6 GB</h5>
+                    <h5><b>Size: </b>6.3 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-09-19</h5>
+                    <h5><b>Release Date: </b>2025-09-05</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sky_in_global-ota_full-OS2.0.201.0.VMWINXM-user-15.0-213480bc39.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sky_in_global_images_OS2.0.201.0.VMWINXM_20250905.0000.00_15.0_in_13817edc15.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">213480bc3992f818d6ba5abd34f34499</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">13817edc15742b590ef2f6204ab43c7a</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.201.0.VMWINXM/sky_in_global-ota_full-OS2.0.201.0.VMWINXM-user-15.0-213480bc39.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.201.0.VMWINXM/sky_in_global-ota_full-OS2.0.201.0.VMWINXM-user-15.0-213480bc39.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.201.0.VMWINXM/sky_in_global-ota_full-OS2.0.201.0.VMWINXM-user-15.0-213480bc39.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.201.0.VMWINXM/sky_in_global-ota_full-OS2.0.201.0.VMWINXM-user-15.0-213480bc39.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.201.0.VMWINXM/sky_in_global-ota_full-OS2.0.201.0.VMWINXM-user-15.0-213480bc39.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.201.0.VMWINXM/sky_in_global_images_OS2.0.201.0.VMWINXM_20250905.0000.00_15.0_in_13817edc15.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.201.0.VMWINXM/sky_in_global_images_OS2.0.201.0.VMWINXM_20250905.0000.00_15.0_in_13817edc15.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.201.0.VMWINXM/sky_in_global_images_OS2.0.201.0.VMWINXM_20250905.0000.00_15.0_in_13817edc15.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.201.0.VMWINXM/sky_in_global_images_OS2.0.201.0.VMWINXM_20250905.0000.00_15.0_in_13817edc15.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.201.0.VMWINXM/sky_in_global_images_OS2.0.201.0.VMWINXM_20250905.0000.00_15.0_in_13817edc15.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#sky_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/sky/stable/OS2.0.201.0.VMWINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.3 GB</h5>
+                    <h5><b>Size: </b>4.6 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-09-05</h5>
+                    <h5><b>Release Date: </b>2025-09-19</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sky_in_global_images_OS2.0.201.0.VMWINXM_20250905.0000.00_15.0_in_13817edc15.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sky_in_global-ota_full-OS2.0.201.0.VMWINXM-user-15.0-213480bc39.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">13817edc15742b590ef2f6204ab43c7a</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">213480bc3992f818d6ba5abd34f34499</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.201.0.VMWINXM/sky_in_global_images_OS2.0.201.0.VMWINXM_20250905.0000.00_15.0_in_13817edc15.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.201.0.VMWINXM/sky_in_global_images_OS2.0.201.0.VMWINXM_20250905.0000.00_15.0_in_13817edc15.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.201.0.VMWINXM/sky_in_global_images_OS2.0.201.0.VMWINXM_20250905.0000.00_15.0_in_13817edc15.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.201.0.VMWINXM/sky_in_global_images_OS2.0.201.0.VMWINXM_20250905.0000.00_15.0_in_13817edc15.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.201.0.VMWINXM/sky_in_global_images_OS2.0.201.0.VMWINXM_20250905.0000.00_15.0_in_13817edc15.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.201.0.VMWINXM/sky_in_global-ota_full-OS2.0.201.0.VMWINXM-user-15.0-213480bc39.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.201.0.VMWINXM/sky_in_global-ota_full-OS2.0.201.0.VMWINXM-user-15.0-213480bc39.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.201.0.VMWINXM/sky_in_global-ota_full-OS2.0.201.0.VMWINXM-user-15.0-213480bc39.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.201.0.VMWINXM/sky_in_global-ota_full-OS2.0.201.0.VMWINXM-user-15.0-213480bc39.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.201.0.VMWINXM/sky_in_global-ota_full-OS2.0.201.0.VMWINXM-user-15.0-213480bc39.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#sky_2_changelog" data-toggle="collapse" role="button"

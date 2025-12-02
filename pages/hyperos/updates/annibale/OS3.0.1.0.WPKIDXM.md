@@ -56,22 +56,22 @@ permalink: /hyperos/annibale/stable/OS3.0.1.0.WPKIDXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.7 GB</h5>
+                    <h5><b>Size: </b>10.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-26</h5>
+                    <h5><b>Release Date: </b>2025-11-03</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">annibale_id_global-ota_full-OS3.0.1.0.WPKIDXM-user-16.0-bca36db9c2.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">annibale_id_global_images_OS3.0.1.0.WPKIDXM_20251103.0000.00_16.0_id_87518ebaba.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">bca36db9c21880725d7f90aa8319ccbb</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">87518ebaba34ed262e776aa1d8444d8f</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.1.0.WPKIDXM/annibale_id_global-ota_full-OS3.0.1.0.WPKIDXM-user-16.0-bca36db9c2.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.1.0.WPKIDXM/annibale_id_global-ota_full-OS3.0.1.0.WPKIDXM-user-16.0-bca36db9c2.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.1.0.WPKIDXM/annibale_id_global-ota_full-OS3.0.1.0.WPKIDXM-user-16.0-bca36db9c2.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.1.0.WPKIDXM/annibale_id_global-ota_full-OS3.0.1.0.WPKIDXM-user-16.0-bca36db9c2.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.1.0.WPKIDXM/annibale_id_global-ota_full-OS3.0.1.0.WPKIDXM-user-16.0-bca36db9c2.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.1.0.WPKIDXM/annibale_id_global_images_OS3.0.1.0.WPKIDXM_20251103.0000.00_16.0_id_87518ebaba.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.1.0.WPKIDXM/annibale_id_global_images_OS3.0.1.0.WPKIDXM_20251103.0000.00_16.0_id_87518ebaba.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.1.0.WPKIDXM/annibale_id_global_images_OS3.0.1.0.WPKIDXM_20251103.0000.00_16.0_id_87518ebaba.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.1.0.WPKIDXM/annibale_id_global_images_OS3.0.1.0.WPKIDXM_20251103.0000.00_16.0_id_87518ebaba.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.1.0.WPKIDXM/annibale_id_global_images_OS3.0.1.0.WPKIDXM_20251103.0000.00_16.0_id_87518ebaba.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#annibale_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/annibale/stable/OS3.0.1.0.WPKIDXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>10.8 GB</h5>
+                    <h5><b>Size: </b>7.7 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-03</h5>
+                    <h5><b>Release Date: </b>2025-11-26</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">annibale_id_global_images_OS3.0.1.0.WPKIDXM_20251103.0000.00_16.0_id_87518ebaba.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">annibale_id_global-ota_full-OS3.0.1.0.WPKIDXM-user-16.0-bca36db9c2.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">87518ebaba34ed262e776aa1d8444d8f</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">bca36db9c21880725d7f90aa8319ccbb</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.1.0.WPKIDXM/annibale_id_global_images_OS3.0.1.0.WPKIDXM_20251103.0000.00_16.0_id_87518ebaba.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.1.0.WPKIDXM/annibale_id_global_images_OS3.0.1.0.WPKIDXM_20251103.0000.00_16.0_id_87518ebaba.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.1.0.WPKIDXM/annibale_id_global_images_OS3.0.1.0.WPKIDXM_20251103.0000.00_16.0_id_87518ebaba.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.1.0.WPKIDXM/annibale_id_global_images_OS3.0.1.0.WPKIDXM_20251103.0000.00_16.0_id_87518ebaba.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.1.0.WPKIDXM/annibale_id_global_images_OS3.0.1.0.WPKIDXM_20251103.0000.00_16.0_id_87518ebaba.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.1.0.WPKIDXM/annibale_id_global-ota_full-OS3.0.1.0.WPKIDXM-user-16.0-bca36db9c2.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.1.0.WPKIDXM/annibale_id_global-ota_full-OS3.0.1.0.WPKIDXM-user-16.0-bca36db9c2.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.1.0.WPKIDXM/annibale_id_global-ota_full-OS3.0.1.0.WPKIDXM-user-16.0-bca36db9c2.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.1.0.WPKIDXM/annibale_id_global-ota_full-OS3.0.1.0.WPKIDXM-user-16.0-bca36db9c2.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.1.0.WPKIDXM/annibale_id_global-ota_full-OS3.0.1.0.WPKIDXM-user-16.0-bca36db9c2.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#annibale_2_changelog" data-toggle="collapse" role="button"

@@ -83,49 +83,6 @@ permalink: /hyperos/muyu/stable/OS3.0.2.0.WOYIDXM/
                 </li>
             </ul>
         </div>
-        <div class="card card-body">
-            {%include vli_ad_320x50_1.html%}
-            <ul class="list-unstyled">
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Xiaomi Pad 7 Pro Indonesia</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Codename: </b> <a href="/hyperos/muyu/" target="_blank">muyu</a> </h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS3.0.2.0.WOYIDXM</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.4 GB</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-10-31</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">muyu_id_global_images_OS3.0.2.0.WOYIDXM_20251031.0000.00_16.0_id_99f3629cc2.tgz</span></h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">99f3629cc258222188e8290364c1c2f0</span></h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.2.0.WOYIDXM/muyu_id_global_images_OS3.0.2.0.WOYIDXM_20251031.0000.00_16.0_id_99f3629cc2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.2.0.WOYIDXM/muyu_id_global_images_OS3.0.2.0.WOYIDXM_20251031.0000.00_16.0_id_99f3629cc2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.2.0.WOYIDXM/muyu_id_global_images_OS3.0.2.0.WOYIDXM_20251031.0000.00_16.0_id_99f3629cc2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.2.0.WOYIDXM/muyu_id_global_images_OS3.0.2.0.WOYIDXM_20251031.0000.00_16.0_id_99f3629cc2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.2.0.WOYIDXM/muyu_id_global_images_OS3.0.2.0.WOYIDXM_20251031.0000.00_16.0_id_99f3629cc2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#muyu_2_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="muyu_2_changelog"> <i class="fa fa-arrow-down"
-                                aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="muyu_2_changelog">
-                        <p id="changelog_text">[Basic experience]<br>Smoother and more stable<br>Performance enhancements:<br>Optimization: Refined compiler instructions enhance performance and responsiveness while lowering power use.<br>Optimization: Improved memory allocation and recovery increases available system memory.<br>Optimization: Improved integrated frequency scheduling boosts system efficiency and reduces power consumption.<br>Optimization: Improved short-video playback efficiency for better battery life.<br> <br>Optimized graphics:<br>A new window-rendering mechanism reduces graphics-rendering load.<br>  <br>Smoother system animations:<br>Optimization: Fine-tuned animations across 100+ system scenes for smoother, more natural motion.<br>[Revamped visuals]<br>Cleaner, more refined visuals throughout.<br>Redesigned Home screen icons now look sharper and more detailed.<br>The status bar has a new, cleaner design that's more refined and easier to read.<br>A new design system improves color comfort, unifies rounded corners across the entire system, and makes controls easier to use for a more consistent look and feel.<br>A new large-clock Lock screen adds more depth and layers to the layout.<br>A new all-in-one editor allows you to adjust both the Home screen and Lock screen wallpapers at the same time.<br>[Comprehensive system app optimization]<br>Interaction with apps has become more intuitive and direct.<br>Gallery:<br>New: New Gallery widgets allow you to select your preferred collections for display.<br>New: You can pin albums now to have quick access to your favorite photos anytime.<br>Optimization: Improved search for quicker, more accurate results for photos.<br>   <br>Calendar:<br>New: Week view gives you a clear look at your weekly schedule.<br>Optimization: Improved month-view visuals give you clearer highlights for holidays and important events.<br>     <br>Recorder:<br>Optimization: Accurate start page categories let you locate recordings faster with icons.<br>Optimization: Improved playback brings you smart noise reduction for clearer voices.<br>[Interconnectivity]<br>Cross-ecosystem interconnectivity offers deep compatibility with the Apple ecosystem.<br>Casting:<br>You can now extend windows for screen mirroring and select which app window to cast.<br>               <br>Cross-device unlocking:<br>Use the fingerprint or password on your Xiaomi tablet to unlock your Xiaomi phone.<br>[Privacy and security]<br>Enhanced protection keeps your data private and safe.<br>The system's privacy and password features have been redesigned with a cleaner, fresher interface.<br>Advanced data protection now uses post-quantum encryption to keep personal data even more secure.</p>
-                    </div>
-                </li>
-            </ul>
-        </div>
 
         </div>
         {%include vli_ad_160x600_1.html%}
