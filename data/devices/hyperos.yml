@@ -6018,6 +6018,12 @@
   version: OS2.0.204.0.VPWMIXM
 - android: '15.0'
   codename: flute
+  date: '2025-12-02'
+  download: https://bigota.d.miui.com/OS2.0.211.0.VPWEUXM/fw_flute_flute_eea_global-ota_full-OS2.0.211.0.VPWEUXM-user-15.0-a8987ca1f1.zip
+  name: Redmi Pad 2 Pro/POCO Pad M1
+  version: OS2.0.211.0.VPWEUXM
+- android: '15.0'
+  codename: flute
   date: '2025-11-02'
   download: https://bigota.d.miui.com/OS2.0.209.0.VPWEUXM/fw_flute_flute_eea_global-ota_full-OS2.0.209.0.VPWEUXM-user-15.0-fc3baee340.zip
   name: Redmi Pad 2 Pro/POCO Pad M1

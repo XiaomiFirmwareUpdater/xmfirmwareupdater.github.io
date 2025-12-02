@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 02 Dec 2025 06:47:37 </lastBuildDate>
+        <lastBuildDate>Tue, 02 Dec 2025 12:49:54 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS2.0.211.0.VPWEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flute/</link>
+            <pubDate>Tue, 02 Dec 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K90 Pro Max/POCO F8 Ultra (myron) - myron</title>
             <link>https://xmfirmwareupdater.com/firmware/myron/</link>
@@ -1110,11 +1115,6 @@
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.207.0.VNOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Mon, 03 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS2.0.209.0.VPWEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flute/</link>
-            <pubDate>Sun, 02 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 13 (fuxi) - OS2.0.202.0.VMCMIXM</title>
