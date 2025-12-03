@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 03 Dec 2025 12:56:48 </lastBuildDate>
+        <lastBuildDate>Wed, 03 Dec 2025 19:17:15 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 15 (dada) - eea</title>
+            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
+            <pubDate>Wed, 03 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 Pro (lapis) - OS2.0.209.0.VPPCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
+            <pubDate>Wed, 03 Dec 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi A5/POCO C71 (serenity) - A15.0.15.0.VGWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
@@ -807,11 +817,6 @@
             <pubDate>Mon, 17 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 15 (dada) - dada</title>
-            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
-            <pubDate>Mon, 17 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad 2 4G (koto) - OS2.0.206.0.VOWINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/koto/</link>
             <pubDate>Mon, 17 Nov 2025 00:00:00 </pubDate>
@@ -894,11 +899,6 @@
         <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS2.0.204.0.VMAEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
-            <pubDate>Fri, 14 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 Pro (lapis) - OS2.0.208.0.VPPCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
             <pubDate>Fri, 14 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>

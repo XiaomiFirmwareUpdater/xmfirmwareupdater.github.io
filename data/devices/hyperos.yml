@@ -9390,6 +9390,12 @@
   version: OS2.0.208.0.VPPCNXM
 - android: '15.0'
   codename: lapis
+  date: '2025-12-03'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VPPCNXM/fw_lapis_lapis-ota_full-OS2.0.209.0.VPPCNXM-user-15.0-69ee5ae0bf.zip
+  name: Redmi Note 15 Pro
+  version: OS2.0.209.0.VPPCNXM
+- android: '15.0'
+  codename: lapis
   date: '2025-09-02'
   download: https://bigota.d.miui.com/OS2.0.205.0.VPPCNXM/fw_lapis_lapis-ota_full-OS2.0.205.0.VPPCNXM-user-15.0-634b7a4d88.zip
   name: Redmi Note 15 Pro
