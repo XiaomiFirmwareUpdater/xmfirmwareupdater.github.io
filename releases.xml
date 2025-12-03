@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 03 Dec 2025 06:38:03 </lastBuildDate>
+        <lastBuildDate>Wed, 03 Dec 2025 12:56:48 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi A5/POCO C71 (serenity) - A15.0.15.0.VGWMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
+            <pubDate>Wed, 03 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 7/POCO Pad X1 (uke) - uke</title>
+            <link>https://xmfirmwareupdater.com/firmware/uke/</link>
+            <pubDate>Wed, 03 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A2/A2+/POCO C51 (water) - V14.0.30.0.TGOEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/water/</link>
+            <pubDate>Wed, 03 Dec 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS2.0.206.0.VPWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flute/</link>
@@ -732,11 +747,6 @@
             <pubDate>Thu, 20 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 7/POCO Pad X1 (uke) - uke</title>
-            <link>https://xmfirmwareupdater.com/firmware/uke/</link>
-            <pubDate>Thu, 20 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12 Pro (zeus) - OS2.0.206.0.VLBMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Thu, 20 Nov 2025 00:00:00 </pubDate>
@@ -894,11 +904,6 @@
         <item>
             <title>Redmi Note 12T Pro (pearl) - OS2.0.214.0.VLHCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pearl/</link>
-            <pubDate>Fri, 14 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A5/POCO C71 (serenity) - A15.0.14.0.VGWMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
             <pubDate>Fri, 14 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1359,11 +1364,6 @@
         <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS2.0.205.0.VMWCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sky/</link>
-            <pubDate>Sat, 04 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A2/A2+/POCO C51 (water) - V14.0.29.0.TGOEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/water/</link>
             <pubDate>Sat, 04 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>

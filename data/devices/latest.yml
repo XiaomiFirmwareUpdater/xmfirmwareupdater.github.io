@@ -5679,15 +5679,15 @@
     android: '13.0'
     miui: V14.0.2.0.TKUCNXM
 - branch: stable
-  date: '2025-11-14'
+  date: '2025-12-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_serenity/releases/download/stable-14.11.2025/fw_serenity_miui_SERENITYGlobal_A15.0.14.0.VGWMIXM_26e10ada3f_15.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/A15/serenity/fw_serenity_miui_SERENITYGlobal_A15.0.14.0.VGWMIXM_26e10ada3f_15.0.zip
-  filename: fw_serenity_miui_SERENITYGlobal_A15.0.14.0.VGWMIXM_26e10ada3f_15.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_serenity/releases/download/stable-03.12.2025/fw_serenity_miui_SERENITYGlobal_A15.0.15.0.VGWMIXM_e8a4e72a9d_15.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/A15/serenity/fw_serenity_miui_SERENITYGlobal_A15.0.15.0.VGWMIXM_e8a4e72a9d_15.0.zip
+  filename: fw_serenity_miui_SERENITYGlobal_A15.0.15.0.VGWMIXM_e8a4e72a9d_15.0.zip
   region: Global
   versions:
     android: '15.0'
-    miui: A15.0.14.0.VGWMIXM
+    miui: A15.0.15.0.VGWMIXM
 - branch: stable
   date: '2025-11-18'
   downloads:
@@ -6489,14 +6489,14 @@
     android: '15.0'
     miui: OS2.0.204.0.VOZMIXM
 - branch: stable
-  date: '2025-11-20'
+  date: '2025-12-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-20.11.2025/fw_uke_uke_global-ota_full-OS3.0.2.0.WOZMIXM-user-16.0-39f4dcfbb0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/uke/uke/fw_uke_uke_global-ota_full-OS3.0.2.0.WOZMIXM-user-16.0-39f4dcfbb0.zip
-  filename: fw_uke_uke_global-ota_full-OS3.0.2.0.WOZMIXM-user-16.0-39f4dcfbb0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-03.12.2025/fw_uke_uke_global-ota_full-OS3.0.4.0.WOZMIXM-user-16.0-9109bab011.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/uke/uke/fw_uke_uke_global-ota_full-OS3.0.4.0.WOZMIXM-user-16.0-9109bab011.zip
+  filename: fw_uke_uke_global-ota_full-OS3.0.4.0.WOZMIXM-user-16.0-9109bab011.zip
   region: China
   versions:
-    android: full-OS3.0.2.0.WOZMIXM-user-16.0-39f4dcfbb0
+    android: full-OS3.0.4.0.WOZMIXM-user-16.0-9109bab011
     miui: uke
 - branch: stable
   date: '2025-11-30'
@@ -6939,15 +6939,15 @@
     android: '13.0'
     miui: V14.0.41.0.TGOMIXM
 - branch: stable
-  date: '2025-10-04'
+  date: '2025-12-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-05.10.2025/fw_water_miui_WATEREEAGlobal_V14.0.29.0.TGOEUXM_9ffad44301_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATEREEAGlobal_V14.0.29.0.TGOEUXM_9ffad44301_13.0.zip
-  filename: fw_water_miui_WATEREEAGlobal_V14.0.29.0.TGOEUXM_9ffad44301_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-03.12.2025/fw_water_miui_WATEREEAGlobal_V14.0.30.0.TGOEUXM_228a194065_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATEREEAGlobal_V14.0.30.0.TGOEUXM_228a194065_13.0.zip
+  filename: fw_water_miui_WATEREEAGlobal_V14.0.30.0.TGOEUXM_228a194065_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.29.0.TGOEUXM
+    miui: V14.0.30.0.TGOEUXM
 - branch: stable
   date: '2025-09-18'
   downloads:
