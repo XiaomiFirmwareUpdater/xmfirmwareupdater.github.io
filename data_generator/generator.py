@@ -748,7 +748,7 @@ def main():
     generate_fw_md()
     generate_fw_updates_md()
     generate_miui_md()
-    load_vendor_devices()
+    # load_vendor_devices()
     generate_rss()
 
 
