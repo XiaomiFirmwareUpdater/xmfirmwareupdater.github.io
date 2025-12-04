@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """XMFirmwareUpdater website data generator"""
+
 import re
 from datetime import datetime
 from os import environ
@@ -15,7 +16,7 @@ from database.database import get_device_latest, get_device_roms, get_incrementa
 from database.firmware import get_all_updates
 
 # Variables
-HEADER = {"Authorization": f'token {environ["GIT_OAUTH_TOKEN_XFU"]}'}
+HEADER = {"Authorization": f"token {environ['GIT_OAUTH_TOKEN_XFU']}"}
 VARIANTS = [
     ["stable", "Global"],
     ["stable", "China"],
@@ -263,7 +264,7 @@ def load_releases():
                 version_array = version.split(".")
                 # MIUI 13 Beta starts from 21.12.27
                 if (
-                        version_array[1] == "12" and version_array[2] >= "27"
+                    version_array[1] == "12" and version_array[2] >= "27"
                 ) or version_array[0] == "22":
                     codename = update["filename"].split("_")[1]
                     miui13.append(
@@ -273,7 +274,7 @@ def load_releases():
                             "date": update["date"],
                             "version": version,
                             "android": update["versions"]["android"],
-                            "download": f'https://bigota.d.miui.com/{version}/{update["filename"]}',
+                            "download": f"https://bigota.d.miui.com/{version}/{update['filename']}",
                         }
                     )
         else:
@@ -293,7 +294,7 @@ def load_releases():
                             "date": update["date"],
                             "version": update["versions"]["miui"],
                             "android": update["versions"]["android"],
-                            "download": f'https://bigota.d.miui.com/{update["versions"]["miui"]}/{update["filename"]}',
+                            "download": f"https://bigota.d.miui.com/{update['versions']['miui']}/{update['filename']}",
                         }
                     )
 
@@ -519,7 +520,9 @@ def generate_versions_pages(updates):
 
 
 def get_os_type_and_content(branch: str, codename: str) -> list[tuple[str, str]]:
-    roms = get_device_latest(codename) if branch == "latest" else get_device_roms(codename)
+    roms = (
+        get_device_latest(codename) if branch == "latest" else get_device_roms(codename)
+    )
     data, hyperos_data, miui_data = [], [], []
     for rom in roms:
         if rom.version.startswith("OS"):
@@ -527,13 +530,9 @@ def get_os_type_and_content(branch: str, codename: str) -> list[tuple[str, str]]
         else:
             miui_data.append(rom)
     if hyperos_data:
-        data.append(
-            ("hyperos", generate_versions_pages(hyperos_data))
-        )
+        data.append(("hyperos", generate_versions_pages(hyperos_data)))
     if miui_data:
-        data.append(
-            ("miui", generate_versions_pages(miui_data))
-        )
+        data.append(("miui", generate_versions_pages(miui_data)))
     return data
 
 
@@ -549,7 +548,11 @@ def generate_miui_md():
             data = get_os_type_and_content(branch, codename)
             for item in data:
                 os_type, table_content = item
-                link = f"/{os_type}/{codename}/" if branch == "latest" else f"/archive/{os_type}/{codename}/"
+                link = (
+                    f"/{os_type}/{codename}/"
+                    if branch == "latest"
+                    else f"/archive/{os_type}/{codename}/"
+                )
                 markdown = Template(Path(filename).read_text()).safe_substitute(
                     codename=codename,
                     name=name,
@@ -580,8 +583,8 @@ def load_vendor_devices():
 
     codenames = set()
     url = (
-        f"https://api.github.com/repos/TryHardDood/mi-vendor-updater/releases"
-        f"?per_page=100"
+        "https://api.github.com/repos/TryHardDood/mi-vendor-updater/releases"
+        "?per_page=100"
     )
     data = get_data_from_github(url)
     # with open('vendor.json', 'w', encoding='utf-8') as json_file:
@@ -657,7 +660,7 @@ def load_vendor_devices():
             for i in VARIANTS:
                 filter_latest(i[0], i[1])
         with open(
-                f"../data/vendor/latest/{codename}.yml", "w", encoding="utf-8"
+            f"../data/vendor/latest/{codename}.yml", "w", encoding="utf-8"
         ) as out:
             yaml.dump(latest, out, Dumper=yaml.CDumper)
         for i in latest:
@@ -681,7 +684,7 @@ def load_vendor_devices():
                 link = f"/archive/vendor/{codename}/"
             markdown = Template(markdown).safe_substitute(link=link)
             with open(
-                    f"../pages/vendor/{branch}/{codename}.md", "w", encoding="utf-8"
+                f"../pages/vendor/{branch}/{codename}.md", "w", encoding="utf-8"
             ) as out:
                 out.write(markdown)
 
@@ -721,9 +724,9 @@ def generate_rss():
     rss_items_body = ""
     for item in rss_items:
         rss_items_body += f"""<item>
-            <title>{item['title']}</title>
-            <link>{item['link']}</link>
-            <pubDate>{item['pubDate']}</pubDate>
+            <title>{item["title"]}</title>
+            <link>{item["link"]}</link>
+            <pubDate>{item["pubDate"]}</pubDate>
         </item>
         """
 
