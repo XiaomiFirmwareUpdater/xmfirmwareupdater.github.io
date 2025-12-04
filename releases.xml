@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 04 Dec 2025 06:38:24 </lastBuildDate>
+        <lastBuildDate>Thu, 04 Dec 2025 13:04:40 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS2.0.205.0.VOMMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/miro/</link>
+            <pubDate>Thu, 04 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS2.0.205.0.VOUEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/spring/</link>
+            <pubDate>Thu, 04 Dec 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 15 (dada) - eea</title>
             <link>https://xmfirmwareupdater.com/firmware/dada/</link>
@@ -1167,11 +1177,6 @@
             <pubDate>Fri, 31 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS2.0.204.0.VOMMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/miro/</link>
-            <pubDate>Fri, 31 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 7 Pro (muyu) - OS2.0.204.0.VOYEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
             <pubDate>Fri, 31 Oct 2025 00:00:00 </pubDate>
@@ -1349,11 +1354,6 @@
         <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS2.0.201.0.VMWINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sky/</link>
-            <pubDate>Thu, 09 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS2.0.204.0.VOUEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/spring/</link>
             <pubDate>Thu, 09 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>

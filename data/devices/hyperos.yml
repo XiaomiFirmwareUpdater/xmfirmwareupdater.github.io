@@ -11220,6 +11220,12 @@
   version: OS2.0.104.0.VOMCNXM
 - android: '15.0'
   codename: miro
+  date: '2025-12-04'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VOMMIXM/fw_miro_miro_global-ota_full-OS2.0.205.0.VOMMIXM-user-15.0-be9724610d.zip
+  name: Redmi K80 Pro/POCO F7 Ultra
+  version: OS2.0.205.0.VOMMIXM
+- android: '15.0'
+  codename: miro
   date: '2025-09-04'
   download: https://bigota.d.miui.com/OS2.0.206.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.206.0.VOMCNXM-user-15.0-cc75a573f3.zip
   name: Redmi K80 Pro/POCO F7 Ultra
@@ -18820,6 +18826,12 @@
   download: https://bigota.d.miui.com/OS2.0.205.0.VOUINXM/fw_spring_spring_in_global-ota_full-OS2.0.205.0.VOUINXM-user-15.0-393bf7ce73.zip
   name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
   version: OS2.0.205.0.VOUINXM
+- android: '15.0'
+  codename: spring
+  date: '2025-12-04'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VOUEUXM/fw_spring_spring_eea_global-ota_full-OS2.0.205.0.VOUEUXM-user-15.0-b0bd543cb3.zip
+  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  version: OS2.0.205.0.VOUEUXM
 - android: '15.0'
   codename: spring
   date: '2025-11-03'
