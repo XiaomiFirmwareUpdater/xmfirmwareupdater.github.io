@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """XMFirmwareUpdater website data generator"""
+import re
 from datetime import datetime
 from os import environ
 from pathlib import Path
@@ -139,7 +140,7 @@ def load_releases():
             for asset in item["assets"]:
                 date = asset["updated_at"][:10]
                 filename = asset["name"]
-                if "-OS2." in filename:
+                if re.search(r"-OS(?:2|3)\.", filename):
                     # fw_dada_dada-ota_full-OS2.0.12.0.VOCCNXM-user-15.0-5b863df2e2.zip
                     miui_version = filename.split("-")[2]
                     android = filename.split("-")[-2]
