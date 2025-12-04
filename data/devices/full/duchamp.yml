@@ -82,12 +82,12 @@
   date: '2025-11-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-27.11.2025/fw_duchamp_duchamp-ota_full-OS3.0.2.0.WNLCNXM-user-16.0-fc5ab29dcc.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/duchamp/duchamp/fw_duchamp_duchamp-ota_full-OS3.0.2.0.WNLCNXM-user-16.0-fc5ab29dcc.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/duchamp/fw_duchamp_duchamp-ota_full-OS3.0.2.0.WNLCNXM-user-16.0-fc5ab29dcc.zip
   filename: fw_duchamp_duchamp-ota_full-OS3.0.2.0.WNLCNXM-user-16.0-fc5ab29dcc.zip
   region: China
   versions:
-    android: full-OS3.0.2.0.WNLCNXM-user-16.0-fc5ab29dcc
-    miui: duchamp
+    android: '16.0'
+    miui: OS3.0.2.0.WNLCNXM
 - branch: stable
   date: '2025-11-27'
   downloads:

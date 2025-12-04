@@ -12,12 +12,12 @@
   date: '2025-11-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sheng/releases/download/stable-28.11.2025/fw_sheng_sheng-ota_full-OS3.0.3.0.WNXCNXM-user-16.0-26e1a7b1c3.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/sheng/sheng/fw_sheng_sheng-ota_full-OS3.0.3.0.WNXCNXM-user-16.0-26e1a7b1c3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/sheng/fw_sheng_sheng-ota_full-OS3.0.3.0.WNXCNXM-user-16.0-26e1a7b1c3.zip
   filename: fw_sheng_sheng-ota_full-OS3.0.3.0.WNXCNXM-user-16.0-26e1a7b1c3.zip
   region: China
   versions:
-    android: full-OS3.0.3.0.WNXCNXM-user-16.0-26e1a7b1c3
-    miui: sheng
+    android: '16.0'
+    miui: OS3.0.3.0.WNXCNXM
 - branch: stable
   date: '2025-11-28'
   downloads:

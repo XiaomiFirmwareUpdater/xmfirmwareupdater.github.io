@@ -202,12 +202,12 @@
   date: '2025-11-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-27.11.2025/fw_houji_houji-ota_full-OS3.0.4.0.WNCCNXM-user-16.0-d196dc8e93.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/houji/houji/fw_houji_houji-ota_full-OS3.0.4.0.WNCCNXM-user-16.0-d196dc8e93.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji-ota_full-OS3.0.4.0.WNCCNXM-user-16.0-d196dc8e93.zip
   filename: fw_houji_houji-ota_full-OS3.0.4.0.WNCCNXM-user-16.0-d196dc8e93.zip
   region: China
   versions:
-    android: full-OS3.0.4.0.WNCCNXM-user-16.0-d196dc8e93
-    miui: houji
+    android: '16.0'
+    miui: OS3.0.4.0.WNCCNXM
 - branch: stable
   date: '2025-11-27'
   downloads:

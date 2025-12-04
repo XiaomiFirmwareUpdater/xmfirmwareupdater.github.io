@@ -2,9 +2,9 @@
   date: '2025-12-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dijun/releases/download/stable-01.12.2025/fw_dijun_dijun-ota_full-OS3.0.7.0.WODCNXM-user-16.0-7fd6379fb0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/dijun/dijun/fw_dijun_dijun-ota_full-OS3.0.7.0.WODCNXM-user-16.0-7fd6379fb0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dijun/fw_dijun_dijun-ota_full-OS3.0.7.0.WODCNXM-user-16.0-7fd6379fb0.zip
   filename: fw_dijun_dijun-ota_full-OS3.0.7.0.WODCNXM-user-16.0-7fd6379fb0.zip
   region: China
   versions:
-    android: full-OS3.0.7.0.WODCNXM-user-16.0-7fd6379fb0
-    miui: dijun
+    android: '16.0'
+    miui: OS3.0.7.0.WODCNXM

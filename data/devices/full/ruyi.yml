@@ -52,12 +52,12 @@
   date: '2025-11-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-28.11.2025/fw_ruyi_ruyi-ota_full-OS3.0.3.0.WNICNXM-user-16.0-277708fbc4.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/ruyi/ruyi/fw_ruyi_ruyi-ota_full-OS3.0.3.0.WNICNXM-user-16.0-277708fbc4.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ruyi/fw_ruyi_ruyi-ota_full-OS3.0.3.0.WNICNXM-user-16.0-277708fbc4.zip
   filename: fw_ruyi_ruyi-ota_full-OS3.0.3.0.WNICNXM-user-16.0-277708fbc4.zip
   region: China
   versions:
-    android: full-OS3.0.3.0.WNICNXM-user-16.0-277708fbc4
-    miui: ruyi
+    android: '16.0'
+    miui: OS3.0.3.0.WNICNXM
 - branch: stable
   date: '2025-11-28'
   downloads:

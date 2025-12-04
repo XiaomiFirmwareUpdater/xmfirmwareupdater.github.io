@@ -72,12 +72,12 @@
   date: '2025-11-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-28.11.2025/fw_shennong_shennong-ota_full-OS3.0.4.0.WNBCNXM-user-16.0-7b1eba8b7e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/shennong/shennong/fw_shennong_shennong-ota_full-OS3.0.4.0.WNBCNXM-user-16.0-7b1eba8b7e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/shennong/fw_shennong_shennong-ota_full-OS3.0.4.0.WNBCNXM-user-16.0-7b1eba8b7e.zip
   filename: fw_shennong_shennong-ota_full-OS3.0.4.0.WNBCNXM-user-16.0-7b1eba8b7e.zip
   region: China
   versions:
-    android: full-OS3.0.4.0.WNBCNXM-user-16.0-7b1eba8b7e
-    miui: shennong
+    android: '16.0'
+    miui: OS3.0.4.0.WNBCNXM
 - branch: stable
   date: '2025-05-28'
   downloads:

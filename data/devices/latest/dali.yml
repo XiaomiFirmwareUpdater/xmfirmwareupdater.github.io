@@ -2,9 +2,9 @@
   date: '2025-11-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dali/releases/download/stable-27.11.2025/fw_dali_dali-ota_full-OS3.0.4.0.WONCNXM-user-16.0-c9a624f36e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/dali/dali/fw_dali_dali-ota_full-OS3.0.4.0.WONCNXM-user-16.0-c9a624f36e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dali/fw_dali_dali-ota_full-OS3.0.4.0.WONCNXM-user-16.0-c9a624f36e.zip
   filename: fw_dali_dali-ota_full-OS3.0.4.0.WONCNXM-user-16.0-c9a624f36e.zip
   region: China
   versions:
-    android: full-OS3.0.4.0.WONCNXM-user-16.0-c9a624f36e
-    miui: dali
+    android: '16.0'
+    miui: OS3.0.4.0.WONCNXM

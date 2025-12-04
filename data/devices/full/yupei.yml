@@ -2,39 +2,39 @@
   date: '2025-11-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yupei/releases/download/stable-28.11.2025/fw_yupei_yupei-ota_full-OS3.0.9.0.WPZCNXM-user-16.0-780378d178.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/yupei/yupei/fw_yupei_yupei-ota_full-OS3.0.9.0.WPZCNXM-user-16.0-780378d178.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/yupei/fw_yupei_yupei-ota_full-OS3.0.9.0.WPZCNXM-user-16.0-780378d178.zip
   filename: fw_yupei_yupei-ota_full-OS3.0.9.0.WPZCNXM-user-16.0-780378d178.zip
   region: China
   versions:
-    android: full-OS3.0.9.0.WPZCNXM-user-16.0-780378d178
-    miui: yupei
+    android: '16.0'
+    miui: OS3.0.9.0.WPZCNXM
 - branch: stable
   date: '2025-10-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yupei/releases/download/stable-22.10.2025/fw_yupei_yupei-ota_full-OS3.0.7.0.WPZCNXM-user-16.0-1317db49b9.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/yupei/yupei/fw_yupei_yupei-ota_full-OS3.0.7.0.WPZCNXM-user-16.0-1317db49b9.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/yupei/fw_yupei_yupei-ota_full-OS3.0.7.0.WPZCNXM-user-16.0-1317db49b9.zip
   filename: fw_yupei_yupei-ota_full-OS3.0.7.0.WPZCNXM-user-16.0-1317db49b9.zip
   region: China
   versions:
-    android: full-OS3.0.7.0.WPZCNXM-user-16.0-1317db49b9
-    miui: yupei
+    android: '16.0'
+    miui: OS3.0.7.0.WPZCNXM
 - branch: stable
   date: '2025-10-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yupei/releases/download/stable-12.10.2025/fw_yupei_yupei-ota_full-OS3.0.6.0.WPZCNXM-user-16.0-7e9c97fdb5.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/yupei/yupei/fw_yupei_yupei-ota_full-OS3.0.6.0.WPZCNXM-user-16.0-7e9c97fdb5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/yupei/fw_yupei_yupei-ota_full-OS3.0.6.0.WPZCNXM-user-16.0-7e9c97fdb5.zip
   filename: fw_yupei_yupei-ota_full-OS3.0.6.0.WPZCNXM-user-16.0-7e9c97fdb5.zip
   region: China
   versions:
-    android: full-OS3.0.6.0.WPZCNXM-user-16.0-7e9c97fdb5
-    miui: yupei
+    android: '16.0'
+    miui: OS3.0.6.0.WPZCNXM
 - branch: stable
   date: '2025-10-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yupei/releases/download/stable-05.10.2025/fw_yupei_yupei-ota_full-OS3.0.5.0.WPZCNXM-user-16.0-a0022f84a2.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/yupei/yupei/fw_yupei_yupei-ota_full-OS3.0.5.0.WPZCNXM-user-16.0-a0022f84a2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/yupei/fw_yupei_yupei-ota_full-OS3.0.5.0.WPZCNXM-user-16.0-a0022f84a2.zip
   filename: fw_yupei_yupei-ota_full-OS3.0.5.0.WPZCNXM-user-16.0-a0022f84a2.zip
   region: China
   versions:
-    android: full-OS3.0.5.0.WPZCNXM-user-16.0-a0022f84a2
-    miui: yupei
+    android: '16.0'
+    miui: OS3.0.5.0.WPZCNXM

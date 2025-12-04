@@ -62,12 +62,12 @@
   date: '2025-11-29'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-29.11.2025/fw_amethyst_amethyst_global-ota_full-OS3.0.2.0.WOPMIXM-user-16.0-f3a5bbcb00.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/amethyst/amethyst/fw_amethyst_amethyst_global-ota_full-OS3.0.2.0.WOPMIXM-user-16.0-f3a5bbcb00.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/amethyst/fw_amethyst_amethyst_global-ota_full-OS3.0.2.0.WOPMIXM-user-16.0-f3a5bbcb00.zip
   filename: fw_amethyst_amethyst_global-ota_full-OS3.0.2.0.WOPMIXM-user-16.0-f3a5bbcb00.zip
-  region: China
+  region: Global
   versions:
-    android: full-OS3.0.2.0.WOPMIXM-user-16.0-f3a5bbcb00
-    miui: amethyst
+    android: '16.0'
+    miui: OS3.0.2.0.WOPMIXM
 - branch: stable
   date: '2025-11-28'
   downloads:

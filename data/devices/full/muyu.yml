@@ -42,12 +42,12 @@
   date: '2025-11-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_muyu/releases/download/stable-28.11.2025/fw_muyu_muyu_eea_global-ota_full-OS3.0.3.0.WOYEUXM-user-16.0-3d96ad4de6.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/eea/muyu/fw_muyu_muyu_eea_global-ota_full-OS3.0.3.0.WOYEUXM-user-16.0-3d96ad4de6.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/muyu/fw_muyu_muyu_eea_global-ota_full-OS3.0.3.0.WOYEUXM-user-16.0-3d96ad4de6.zip
   filename: fw_muyu_muyu_eea_global-ota_full-OS3.0.3.0.WOYEUXM-user-16.0-3d96ad4de6.zip
-  region: China
+  region: Europe
   versions:
-    android: full-OS3.0.3.0.WOYEUXM-user-16.0-3d96ad4de6
-    miui: eea
+    android: '16.0'
+    miui: OS3.0.3.0.WOYEUXM
 - branch: stable
   date: '2025-09-28'
   downloads:
@@ -112,12 +112,12 @@
   date: '2025-11-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_muyu/releases/download/stable-20.11.2025/fw_muyu_muyu-ota_full-OS3.0.4.0.WOYCNXM-user-16.0-039f1226dc.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/muyu/muyu/fw_muyu_muyu-ota_full-OS3.0.4.0.WOYCNXM-user-16.0-039f1226dc.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/muyu/fw_muyu_muyu-ota_full-OS3.0.4.0.WOYCNXM-user-16.0-039f1226dc.zip
   filename: fw_muyu_muyu-ota_full-OS3.0.4.0.WOYCNXM-user-16.0-039f1226dc.zip
   region: China
   versions:
-    android: full-OS3.0.4.0.WOYCNXM-user-16.0-039f1226dc
-    miui: muyu
+    android: '16.0'
+    miui: OS3.0.4.0.WOYCNXM
 - branch: stable
   date: '2025-10-20'
   downloads:
@@ -172,12 +172,12 @@
   date: '2025-11-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_muyu/releases/download/stable-10.11.2025/fw_muyu_muyu_global-ota_full-OS3.0.3.0.WOYMIXM-user-16.0-e5f35a4b86.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/muyu/muyu/fw_muyu_muyu_global-ota_full-OS3.0.3.0.WOYMIXM-user-16.0-e5f35a4b86.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/muyu/fw_muyu_muyu_global-ota_full-OS3.0.3.0.WOYMIXM-user-16.0-e5f35a4b86.zip
   filename: fw_muyu_muyu_global-ota_full-OS3.0.3.0.WOYMIXM-user-16.0-e5f35a4b86.zip
-  region: China
+  region: Global
   versions:
-    android: full-OS3.0.3.0.WOYMIXM-user-16.0-e5f35a4b86
-    miui: muyu
+    android: '16.0'
+    miui: OS3.0.3.0.WOYMIXM
 - branch: stable
   date: '2025-06-09'
   downloads:

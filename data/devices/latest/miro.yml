@@ -12,19 +12,19 @@
   date: '2025-11-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-18.11.2025/fw_miro_miro-ota_full-OS3.0.3.0.WOMCNXM-user-16.0-5c9639845d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/miro/miro/fw_miro_miro-ota_full-OS3.0.3.0.WOMCNXM-user-16.0-5c9639845d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/miro/fw_miro_miro-ota_full-OS3.0.3.0.WOMCNXM-user-16.0-5c9639845d.zip
   filename: fw_miro_miro-ota_full-OS3.0.3.0.WOMCNXM-user-16.0-5c9639845d.zip
   region: China
   versions:
-    android: full-OS3.0.3.0.WOMCNXM-user-16.0-5c9639845d
-    miui: miro
+    android: '16.0'
+    miui: OS3.0.3.0.WOMCNXM
 - branch: stable
-  date: '2025-10-25'
+  date: '2025-11-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-25.10.2025/fw_miro_miro_eea_global-ota_full-OS2.0.207.0.VOMEUXM-user-15.0-fcfca94a2e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro_eea_global-ota_full-OS2.0.207.0.VOMEUXM-user-15.0-fcfca94a2e.zip
-  filename: fw_miro_miro_eea_global-ota_full-OS2.0.207.0.VOMEUXM-user-15.0-fcfca94a2e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-07.11.2025/fw_miro_miro_eea_global-ota_full-OS3.0.3.0.WOMEUXM-user-16.0-50e3e6e0c0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/miro/fw_miro_miro_eea_global-ota_full-OS3.0.3.0.WOMEUXM-user-16.0-50e3e6e0c0.zip
+  filename: fw_miro_miro_eea_global-ota_full-OS3.0.3.0.WOMEUXM-user-16.0-50e3e6e0c0.zip
   region: Europe
   versions:
-    android: '15.0'
-    miui: OS2.0.207.0.VOMEUXM
+    android: '16.0'
+    miui: OS3.0.3.0.WOMEUXM

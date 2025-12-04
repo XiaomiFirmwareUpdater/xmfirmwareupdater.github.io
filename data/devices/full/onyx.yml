@@ -72,12 +72,12 @@
   date: '2025-11-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-28.11.2025/fw_onyx_onyx-ota_full-OS3.0.5.0.WOLCNXM-user-16.0-6995f031ab.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/onyx/onyx/fw_onyx_onyx-ota_full-OS3.0.5.0.WOLCNXM-user-16.0-6995f031ab.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/onyx/fw_onyx_onyx-ota_full-OS3.0.5.0.WOLCNXM-user-16.0-6995f031ab.zip
   filename: fw_onyx_onyx-ota_full-OS3.0.5.0.WOLCNXM-user-16.0-6995f031ab.zip
   region: China
   versions:
-    android: full-OS3.0.5.0.WOLCNXM-user-16.0-6995f031ab
-    miui: onyx
+    android: '16.0'
+    miui: OS3.0.5.0.WOLCNXM
 - branch: stable
   date: '2025-11-28'
   downloads:
@@ -212,12 +212,12 @@
   date: '2025-11-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-13.11.2025/fw_onyx_onyx-ota_full-OS3.0.4.0.WOLCNXM-user-16.0-8390fb1aa7.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/onyx/onyx/fw_onyx_onyx-ota_full-OS3.0.4.0.WOLCNXM-user-16.0-8390fb1aa7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/onyx/fw_onyx_onyx-ota_full-OS3.0.4.0.WOLCNXM-user-16.0-8390fb1aa7.zip
   filename: fw_onyx_onyx-ota_full-OS3.0.4.0.WOLCNXM-user-16.0-8390fb1aa7.zip
   region: China
   versions:
-    android: full-OS3.0.4.0.WOLCNXM-user-16.0-8390fb1aa7
-    miui: onyx
+    android: '16.0'
+    miui: OS3.0.4.0.WOLCNXM
 - branch: stable
   date: '2025-05-12'
   downloads:

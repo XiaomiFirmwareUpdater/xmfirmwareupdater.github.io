@@ -2,49 +2,49 @@
   date: '2025-11-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-28.11.2025/fw_annibale_annibale_global-ota_full-OS3.0.6.0.WPKMIXM-user-16.0-78b7a83a6a.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/annibale/annibale/fw_annibale_annibale_global-ota_full-OS3.0.6.0.WPKMIXM-user-16.0-78b7a83a6a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale_global-ota_full-OS3.0.6.0.WPKMIXM-user-16.0-78b7a83a6a.zip
   filename: fw_annibale_annibale_global-ota_full-OS3.0.6.0.WPKMIXM-user-16.0-78b7a83a6a.zip
-  region: China
+  region: Global
   versions:
-    android: full-OS3.0.6.0.WPKMIXM-user-16.0-78b7a83a6a
-    miui: annibale
+    android: '16.0'
+    miui: OS3.0.6.0.WPKMIXM
 - branch: stable
   date: '2025-11-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-27.11.2025/fw_annibale_annibale_eea_global-ota_full-OS3.0.5.0.WPKEUXM-user-16.0-9bc85c19ae.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/eea/annibale/fw_annibale_annibale_eea_global-ota_full-OS3.0.5.0.WPKEUXM-user-16.0-9bc85c19ae.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale_eea_global-ota_full-OS3.0.5.0.WPKEUXM-user-16.0-9bc85c19ae.zip
   filename: fw_annibale_annibale_eea_global-ota_full-OS3.0.5.0.WPKEUXM-user-16.0-9bc85c19ae.zip
-  region: China
+  region: Europe
   versions:
-    android: full-OS3.0.5.0.WPKEUXM-user-16.0-9bc85c19ae
-    miui: eea
+    android: '16.0'
+    miui: OS3.0.5.0.WPKEUXM
 - branch: stable
   date: '2025-11-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-27.11.2025/fw_annibale_annibale_global-ota_full-OS3.0.4.0.WPKMIXM-user-16.0-7a437517f0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/annibale/annibale/fw_annibale_annibale_global-ota_full-OS3.0.4.0.WPKMIXM-user-16.0-7a437517f0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale_global-ota_full-OS3.0.4.0.WPKMIXM-user-16.0-7a437517f0.zip
   filename: fw_annibale_annibale_global-ota_full-OS3.0.4.0.WPKMIXM-user-16.0-7a437517f0.zip
-  region: China
+  region: Global
   versions:
-    android: full-OS3.0.4.0.WPKMIXM-user-16.0-7a437517f0
-    miui: annibale
+    android: '16.0'
+    miui: OS3.0.4.0.WPKMIXM
 - branch: stable
   date: '2025-10-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-25.10.2025/fw_annibale_annibale-ota_full-OS3.0.9.0.WPKCNXM-user-16.0-e06570ff2d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/annibale/annibale/fw_annibale_annibale-ota_full-OS3.0.9.0.WPKCNXM-user-16.0-e06570ff2d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale-ota_full-OS3.0.9.0.WPKCNXM-user-16.0-e06570ff2d.zip
   filename: fw_annibale_annibale-ota_full-OS3.0.9.0.WPKCNXM-user-16.0-e06570ff2d.zip
   region: China
   versions:
-    android: full-OS3.0.9.0.WPKCNXM-user-16.0-e06570ff2d
-    miui: annibale
+    android: '16.0'
+    miui: OS3.0.9.0.WPKCNXM
 - branch: stable
   date: '2025-11-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-19.11.2025/fw_annibale_annibale-ota_full-OS3.0.13.0.WPKCNXM-user-16.0-f28d23c6a2.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/annibale/annibale/fw_annibale_annibale-ota_full-OS3.0.13.0.WPKCNXM-user-16.0-f28d23c6a2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale-ota_full-OS3.0.13.0.WPKCNXM-user-16.0-f28d23c6a2.zip
   filename: fw_annibale_annibale-ota_full-OS3.0.13.0.WPKCNXM-user-16.0-f28d23c6a2.zip
   region: China
   versions:
-    android: full-OS3.0.13.0.WPKCNXM-user-16.0-f28d23c6a2
-    miui: annibale
+    android: '16.0'
+    miui: OS3.0.13.0.WPKCNXM

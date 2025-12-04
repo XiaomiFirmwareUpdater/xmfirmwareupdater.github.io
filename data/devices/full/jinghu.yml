@@ -2,12 +2,12 @@
   date: '2025-10-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_jinghu/releases/download/stable-28.10.2025/fw_jinghu_jinghu-ota_full-OS3.0.4.0.WOXCNXM-user-16.0-b8dd5aa8e4.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/jinghu/jinghu/fw_jinghu_jinghu-ota_full-OS3.0.4.0.WOXCNXM-user-16.0-b8dd5aa8e4.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/jinghu/fw_jinghu_jinghu-ota_full-OS3.0.4.0.WOXCNXM-user-16.0-b8dd5aa8e4.zip
   filename: fw_jinghu_jinghu-ota_full-OS3.0.4.0.WOXCNXM-user-16.0-b8dd5aa8e4.zip
   region: China
   versions:
-    android: full-OS3.0.4.0.WOXCNXM-user-16.0-b8dd5aa8e4
-    miui: jinghu
+    android: '16.0'
+    miui: OS3.0.4.0.WOXCNXM
 - branch: stable
   date: '2025-05-22'
   downloads:
@@ -22,12 +22,12 @@
   date: '2025-11-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_jinghu/releases/download/stable-16.11.2025/fw_jinghu_jinghu-ota_full-OS3.0.5.0.WOXCNXM-user-16.0-1df6d3fec2.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/jinghu/jinghu/fw_jinghu_jinghu-ota_full-OS3.0.5.0.WOXCNXM-user-16.0-1df6d3fec2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/jinghu/fw_jinghu_jinghu-ota_full-OS3.0.5.0.WOXCNXM-user-16.0-1df6d3fec2.zip
   filename: fw_jinghu_jinghu-ota_full-OS3.0.5.0.WOXCNXM-user-16.0-1df6d3fec2.zip
   region: China
   versions:
-    android: full-OS3.0.5.0.WOXCNXM-user-16.0-1df6d3fec2
-    miui: jinghu
+    android: '16.0'
+    miui: OS3.0.5.0.WOXCNXM
 - branch: stable
   date: '2025-07-16'
   downloads:
