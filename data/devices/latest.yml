@@ -1749,15 +1749,15 @@
     android: '15.0'
     miui: OS2.0.207.0.VFOMIXM
 - branch: stable
-  date: '2025-11-27'
+  date: '2025-12-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-27.11.2025/fw_emerald_emerald_eea_global-ota_full-OS2.0.209.0.VNFEUXM-user-15.0-2f2a741b10.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/emerald/fw_emerald_emerald_eea_global-ota_full-OS2.0.209.0.VNFEUXM-user-15.0-2f2a741b10.zip
-  filename: fw_emerald_emerald_eea_global-ota_full-OS2.0.209.0.VNFEUXM-user-15.0-2f2a741b10.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-07.12.2025/fw_emerald_emerald_r_eea_global-ota_full-OS2.0.207.0.VFOEUXM-user-15.0-cc24b613e9.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/emerald/fw_emerald_emerald_r_eea_global-ota_full-OS2.0.207.0.VFOEUXM-user-15.0-cc24b613e9.zip
+  filename: fw_emerald_emerald_r_eea_global-ota_full-OS2.0.207.0.VFOEUXM-user-15.0-cc24b613e9.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.209.0.VNFEUXM
+    miui: OS2.0.207.0.VFOEUXM
 - branch: stable
   date: '2024-05-20'
   downloads:
