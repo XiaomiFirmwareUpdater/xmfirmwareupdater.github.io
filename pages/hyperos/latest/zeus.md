@@ -52,8 +52,8 @@ permalink: /hyperos/zeus/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.210.0.VLBCNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-10-27</td><td><a href="/hyperos/zeus/stable/OS2.0.210.0.VLBCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.210.0.VLBCNXM</td><td>15.0</td><td>6.1 GB</td><td>2025-11-10</td><td><a href="/hyperos/zeus/stable/OS2.0.210.0.VLBCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.213.0.VLBCNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-11-21</td><td><a href="/hyperos/zeus/stable/OS2.0.213.0.VLBCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.213.0.VLBCNXM</td><td>15.0</td><td>6.1 GB</td><td>2025-12-01</td><td><a href="/hyperos/zeus/stable/OS2.0.213.0.VLBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.7 GB</td><td>2024-01-12</td><td><a href="/hyperos/zeus/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VLBEUXM</td><td>15.0</td><td>6.7 GB</td><td>2025-10-31</td><td><a href="/hyperos/zeus/stable/OS2.0.208.0.VLBEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VLBEUXM</td><td>15.0</td><td>5.7 GB</td><td>2025-11-10</td><td><a href="/hyperos/zeus/stable/OS2.0.208.0.VLBEUXM/">Download</a></td></tr>
