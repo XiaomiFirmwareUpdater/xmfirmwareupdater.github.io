@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 08 Dec 2025 18:40:01 </lastBuildDate>
+        <lastBuildDate>Tue, 09 Dec 2025 00:49:38 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - OS2.0.213.0.VLBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
+            <pubDate>Mon, 08 Dec 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.207.0.VFOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
@@ -859,11 +864,6 @@
         <item>
             <title>Redmi K70/POCO F6 Pro (vermeer) - OS2.0.207.0.VNKMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
-            <pubDate>Tue, 18 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Pro (zeus) - OS2.0.210.0.VLBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Tue, 18 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
