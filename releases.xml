@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 09 Dec 2025 06:40:07 </lastBuildDate>
+        <lastBuildDate>Tue, 09 Dec 2025 12:52:20 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 15 Ultra (xuanyuan) - OS3.0.6.0.WOAINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
+            <pubDate>Tue, 09 Dec 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 12 Pro (zeus) - OS2.0.213.0.VLBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
@@ -1259,11 +1264,6 @@
         <item>
             <title>Redmi Pad 2 4G (koto) - OS2.0.205.0.VOWEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/koto/</link>
-            <pubDate>Wed, 29 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.206.0.VOAINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Wed, 29 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
