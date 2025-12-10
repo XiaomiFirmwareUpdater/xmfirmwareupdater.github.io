@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 10 Dec 2025 00:40:10 </lastBuildDate>
+        <lastBuildDate>Wed, 10 Dec 2025 06:49:50 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 15T Pro (klimt) - OS3.0.5.0.WOSMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
+            <pubDate>Wed, 10 Dec 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 15 Ultra (xuanyuan) - OS3.0.6.0.WOAINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
@@ -1130,11 +1135,6 @@
             <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS3.0.3.0.WOMEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/miro/</link>
             <pubDate>Thu, 06 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15T Pro (klimt) - OS2.0.206.0.VOSMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
-            <pubDate>Wed, 05 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>MIX Flip 2 (bixi) - OS3.0.3.0.WOHCNXM</title>

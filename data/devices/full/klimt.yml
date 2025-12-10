@@ -39,6 +39,16 @@
     android: '15.0'
     miui: OS2.0.209.0.VOSEUXM
 - branch: stable
+  date: '2025-12-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-10.12.2025/fw_klimt_klimt_global-ota_full-OS3.0.5.0.WOSMIXM-user-16.0-627ca56f26.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_global-ota_full-OS3.0.5.0.WOSMIXM-user-16.0-627ca56f26.zip
+  filename: fw_klimt_klimt_global-ota_full-OS3.0.5.0.WOSMIXM-user-16.0-627ca56f26.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.5.0.WOSMIXM
+- branch: stable
   date: '2025-11-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-05.11.2025/fw_klimt_klimt_global-ota_full-OS2.0.206.0.VOSMIXM-user-15.0-a3c26c1395.zip
