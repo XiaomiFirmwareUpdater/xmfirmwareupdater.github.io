@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 11 Dec 2025 12:54:52 </lastBuildDate>
+        <lastBuildDate>Thu, 11 Dec 2025 19:39:34 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 15T (goya) - OS3.0.5.0.WOEMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/goya/</link>
+            <pubDate>Thu, 11 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K Pad/Xiaomi Pad Mini (turner) - OS3.0.2.0.WAOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/turner/</link>
             <pubDate>Thu, 11 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1269,11 +1274,6 @@
         <item>
             <title>Xiaomi Civi 4 Pro (chenfeng) - OS2.0.207.0.VNJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
-            <pubDate>Tue, 28 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K Pad/Xiaomi Pad Mini (turner) - OS2.0.206.0.VAOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/turner/</link>
             <pubDate>Tue, 28 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
