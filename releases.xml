@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 12 Dec 2025 00:42:57 </lastBuildDate>
+        <lastBuildDate>Fri, 12 Dec 2025 06:43:36 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.3.0.WNLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Fri, 12 Dec 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 15T (goya) - OS3.0.5.0.WOEMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/goya/</link>
@@ -674,11 +679,6 @@
         <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS2.0.206.0.VNSEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
-            <pubDate>Thu, 27 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.2.0.WNLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Thu, 27 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
