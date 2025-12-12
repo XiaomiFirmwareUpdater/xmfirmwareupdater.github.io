@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 12 Dec 2025 06:43:36 </lastBuildDate>
+        <lastBuildDate>Fri, 12 Dec 2025 12:46:48 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.3.0.WNLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Fri, 12 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 3 (yuechu) - OS2.0.213.0.VMICNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/yuechu/</link>
             <pubDate>Fri, 12 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -554,11 +559,6 @@
         <item>
             <title>Xiaomi Pad 6 Max 14 (yudi) - OS2.0.209.0.VMHCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/yudi/</link>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 3 (yuechu) - OS2.0.211.0.VMICNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/yuechu/</link>
             <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>

@@ -22540,6 +22540,12 @@
   download: https://bigota.d.miui.com/OS1.0.16.0.UMICNXM/fw_yuechu_miui_YUECHU_OS1.0.16.0.UMICNXM_0ccb9bcde3_14.0.zip
   name: Xiaomi Civi 3
   version: OS1.0.16.0.UMICNXM
+- android: '15.0'
+  codename: yuechu
+  date: '2025-12-12'
+  download: https://bigota.d.miui.com/OS2.0.213.0.VMICNXM/fw_yuechu_yuechu-ota_full-OS2.0.213.0.VMICNXM-user-15.0-744fc925ff.zip
+  name: Xiaomi Civi 3
+  version: OS2.0.213.0.VMICNXM
 - android: '14.0'
   codename: yuechu
   date: '2024-01-12'
