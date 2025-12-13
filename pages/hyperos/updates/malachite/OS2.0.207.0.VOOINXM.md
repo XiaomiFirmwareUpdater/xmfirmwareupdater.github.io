@@ -56,22 +56,22 @@ permalink: /hyperos/malachite/stable/OS2.0.207.0.VOOINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.0 GB</h5>
+                    <h5><b>Size: </b>5.9 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-05</h5>
+                    <h5><b>Release Date: </b>2025-11-14</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">malachite_in_global_images_OS2.0.207.0.VOOINXM_20251105.0000.00_15.0_in_d90a8a5be2.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">malachite_in_global-ota_full-OS2.0.207.0.VOOINXM-user-15.0-9d293eb92f.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">d90a8a5be27c69c8c9442e0a44f32857</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">9d293eb92f30370069edd65389312594</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.207.0.VOOINXM/malachite_in_global_images_OS2.0.207.0.VOOINXM_20251105.0000.00_15.0_in_d90a8a5be2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.207.0.VOOINXM/malachite_in_global_images_OS2.0.207.0.VOOINXM_20251105.0000.00_15.0_in_d90a8a5be2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.207.0.VOOINXM/malachite_in_global_images_OS2.0.207.0.VOOINXM_20251105.0000.00_15.0_in_d90a8a5be2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.207.0.VOOINXM/malachite_in_global_images_OS2.0.207.0.VOOINXM_20251105.0000.00_15.0_in_d90a8a5be2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.207.0.VOOINXM/malachite_in_global_images_OS2.0.207.0.VOOINXM_20251105.0000.00_15.0_in_d90a8a5be2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.207.0.VOOINXM/malachite_in_global-ota_full-OS2.0.207.0.VOOINXM-user-15.0-9d293eb92f.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.207.0.VOOINXM/malachite_in_global-ota_full-OS2.0.207.0.VOOINXM-user-15.0-9d293eb92f.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.207.0.VOOINXM/malachite_in_global-ota_full-OS2.0.207.0.VOOINXM-user-15.0-9d293eb92f.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.207.0.VOOINXM/malachite_in_global-ota_full-OS2.0.207.0.VOOINXM-user-15.0-9d293eb92f.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.207.0.VOOINXM/malachite_in_global-ota_full-OS2.0.207.0.VOOINXM-user-15.0-9d293eb92f.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#malachite_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/malachite/stable/OS2.0.207.0.VOOINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.9 GB</h5>
+                    <h5><b>Size: </b>8.0 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-14</h5>
+                    <h5><b>Release Date: </b>2025-11-05</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">malachite_in_global-ota_full-OS2.0.207.0.VOOINXM-user-15.0-9d293eb92f.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">malachite_in_global_images_OS2.0.207.0.VOOINXM_20251105.0000.00_15.0_in_d90a8a5be2.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">9d293eb92f30370069edd65389312594</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">d90a8a5be27c69c8c9442e0a44f32857</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.207.0.VOOINXM/malachite_in_global-ota_full-OS2.0.207.0.VOOINXM-user-15.0-9d293eb92f.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.207.0.VOOINXM/malachite_in_global-ota_full-OS2.0.207.0.VOOINXM-user-15.0-9d293eb92f.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.207.0.VOOINXM/malachite_in_global-ota_full-OS2.0.207.0.VOOINXM-user-15.0-9d293eb92f.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.207.0.VOOINXM/malachite_in_global-ota_full-OS2.0.207.0.VOOINXM-user-15.0-9d293eb92f.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.207.0.VOOINXM/malachite_in_global-ota_full-OS2.0.207.0.VOOINXM-user-15.0-9d293eb92f.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.207.0.VOOINXM/malachite_in_global_images_OS2.0.207.0.VOOINXM_20251105.0000.00_15.0_in_d90a8a5be2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.207.0.VOOINXM/malachite_in_global_images_OS2.0.207.0.VOOINXM_20251105.0000.00_15.0_in_d90a8a5be2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.207.0.VOOINXM/malachite_in_global_images_OS2.0.207.0.VOOINXM_20251105.0000.00_15.0_in_d90a8a5be2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.207.0.VOOINXM/malachite_in_global_images_OS2.0.207.0.VOOINXM_20251105.0000.00_15.0_in_d90a8a5be2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.207.0.VOOINXM/malachite_in_global_images_OS2.0.207.0.VOOINXM_20251105.0000.00_15.0_in_d90a8a5be2.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#malachite_2_changelog" data-toggle="collapse" role="button"
