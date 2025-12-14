@@ -56,22 +56,22 @@ permalink: /hyperos/creek/stable/OS3.0.6.0.WBOMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.5 GB</h5>
+                    <h5><b>Size: </b>4.9 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-25</h5>
+                    <h5><b>Release Date: </b>2025-12-01</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">creek_global_images_OS3.0.6.0.WBOMIXM_20251125.0000.00_16.0_global_e963721f98.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">creek_global-ota_full-OS3.0.6.0.WBOMIXM-user-16.0-39abc46c0c.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">e963721f987071bc110305b511bf4a01</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">39abc46c0c693ade0ee428f047511cd1</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.6.0.WBOMIXM/creek_global_images_OS3.0.6.0.WBOMIXM_20251125.0000.00_16.0_global_e963721f98.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.6.0.WBOMIXM/creek_global_images_OS3.0.6.0.WBOMIXM_20251125.0000.00_16.0_global_e963721f98.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.6.0.WBOMIXM/creek_global_images_OS3.0.6.0.WBOMIXM_20251125.0000.00_16.0_global_e963721f98.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.6.0.WBOMIXM/creek_global_images_OS3.0.6.0.WBOMIXM_20251125.0000.00_16.0_global_e963721f98.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.6.0.WBOMIXM/creek_global_images_OS3.0.6.0.WBOMIXM_20251125.0000.00_16.0_global_e963721f98.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.6.0.WBOMIXM/creek_global-ota_full-OS3.0.6.0.WBOMIXM-user-16.0-39abc46c0c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.6.0.WBOMIXM/creek_global-ota_full-OS3.0.6.0.WBOMIXM-user-16.0-39abc46c0c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.6.0.WBOMIXM/creek_global-ota_full-OS3.0.6.0.WBOMIXM-user-16.0-39abc46c0c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.6.0.WBOMIXM/creek_global-ota_full-OS3.0.6.0.WBOMIXM-user-16.0-39abc46c0c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.6.0.WBOMIXM/creek_global-ota_full-OS3.0.6.0.WBOMIXM-user-16.0-39abc46c0c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#creek_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/creek/stable/OS3.0.6.0.WBOMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.9 GB</h5>
+                    <h5><b>Size: </b>8.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-12-01</h5>
+                    <h5><b>Release Date: </b>2025-11-25</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">creek_global-ota_full-OS3.0.6.0.WBOMIXM-user-16.0-39abc46c0c.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">creek_global_images_OS3.0.6.0.WBOMIXM_20251125.0000.00_16.0_global_e963721f98.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">39abc46c0c693ade0ee428f047511cd1</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">e963721f987071bc110305b511bf4a01</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.6.0.WBOMIXM/creek_global-ota_full-OS3.0.6.0.WBOMIXM-user-16.0-39abc46c0c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.6.0.WBOMIXM/creek_global-ota_full-OS3.0.6.0.WBOMIXM-user-16.0-39abc46c0c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.6.0.WBOMIXM/creek_global-ota_full-OS3.0.6.0.WBOMIXM-user-16.0-39abc46c0c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.6.0.WBOMIXM/creek_global-ota_full-OS3.0.6.0.WBOMIXM-user-16.0-39abc46c0c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.6.0.WBOMIXM/creek_global-ota_full-OS3.0.6.0.WBOMIXM-user-16.0-39abc46c0c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.6.0.WBOMIXM/creek_global_images_OS3.0.6.0.WBOMIXM_20251125.0000.00_16.0_global_e963721f98.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.6.0.WBOMIXM/creek_global_images_OS3.0.6.0.WBOMIXM_20251125.0000.00_16.0_global_e963721f98.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.6.0.WBOMIXM/creek_global_images_OS3.0.6.0.WBOMIXM_20251125.0000.00_16.0_global_e963721f98.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.6.0.WBOMIXM/creek_global_images_OS3.0.6.0.WBOMIXM_20251125.0000.00_16.0_global_e963721f98.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.6.0.WBOMIXM/creek_global_images_OS3.0.6.0.WBOMIXM_20251125.0000.00_16.0_global_e963721f98.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#creek_2_changelog" data-toggle="collapse" role="button"

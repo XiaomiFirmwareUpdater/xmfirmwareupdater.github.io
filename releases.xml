@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 14 Dec 2025 06:36:33 </lastBuildDate>
+        <lastBuildDate>Sun, 14 Dec 2025 19:19:06 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 15T Pro (klimt) - OS3.0.6.0.WOSEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
+            <pubDate>Sun, 14 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad 2 Pro 5G (organ) - OS2.0.204.0.VPXEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/organ/</link>
+            <pubDate>Sun, 14 Dec 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 15/POCO M7 (creek) - OS3.0.6.0.WBOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/creek/</link>
@@ -762,11 +772,6 @@
             <pubDate>Thu, 27 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 15T Pro (klimt) - OS3.0.5.0.WOSEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
-            <pubDate>Thu, 27 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.14.0.UKOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
             <pubDate>Thu, 27 Nov 2025 00:00:00 </pubDate>
@@ -1340,11 +1345,6 @@
             <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS2.0.204.0.VOUCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spring/</link>
             <pubDate>Tue, 21 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad 2 Pro 5G (organ) - OS2.0.203.0.VPXEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/organ/</link>
-            <pubDate>Mon, 20 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 11T Pro (vili) - OS1.0.26.0.UKDEUXM</title>

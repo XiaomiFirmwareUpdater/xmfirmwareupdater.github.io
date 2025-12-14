@@ -54,6 +54,8 @@ permalink: /archive/hyperos/organ/
                 <tbody>
                 <tr><td>Redmi Pad 2 Pro 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VPXRUXM</td><td>15.0</td><td>4.9 GB</td><td>2025-12-08</td><td><a href="/hyperos/organ/stable/OS2.0.202.0.VPXRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Pro 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VPXRUXM</td><td>15.0</td><td>6.9 GB</td><td>2025-11-28</td><td><a href="/hyperos/organ/stable/OS2.0.202.0.VPXRUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VPXEUXM</td><td>15.0</td><td>5.0 GB</td><td>2025-12-05</td><td><a href="/hyperos/organ/stable/OS2.0.204.0.VPXEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VPXEUXM</td><td>15.0</td><td>6.2 GB</td><td>2025-11-28</td><td><a href="/hyperos/organ/stable/OS2.0.204.0.VPXEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Pro 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VPXINXM</td><td>15.0</td><td>4.7 GB</td><td>2025-11-21</td><td><a href="/hyperos/organ/stable/OS2.0.201.0.VPXINXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Pro 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VPXINXM</td><td>15.0</td><td>5.5 GB</td><td>2025-10-29</td><td><a href="/hyperos/organ/stable/OS2.0.201.0.VPXINXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Pro 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VPXMIXM</td><td>15.0</td><td>4.9 GB</td><td>2025-11-04</td><td><a href="/hyperos/organ/stable/OS2.0.203.0.VPXMIXM/">Download</a></td></tr>
@@ -62,12 +64,12 @@ permalink: /archive/hyperos/organ/
 <tr><td>Redmi Pad 2 Pro 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VPXRUXM</td><td>15.0</td><td>6.8 GB</td><td>2025-09-16</td><td><a href="/hyperos/organ/stable/OS2.0.201.0.VPXRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VPXEUXM</td><td>15.0</td><td>4.9 GB</td><td>2025-10-15</td><td><a href="/hyperos/organ/stable/OS2.0.203.0.VPXEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VPXEUXM</td><td>15.0</td><td>6.1 GB</td><td>2025-09-29</td><td><a href="/hyperos/organ/stable/OS2.0.203.0.VPXEUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad 2 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VPXTWXM</td><td>15.0</td><td>4.8 GB</td><td>2025-10-14</td><td><a href="/hyperos/organ/stable/OS2.0.201.0.VPXTWXM/">Download</a></td></tr>
-<tr><td>Redmi Pad 2 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VPXTWXM</td><td>15.0</td><td>5.7 GB</td><td>2025-09-24</td><td><a href="/hyperos/organ/stable/OS2.0.201.0.VPXTWXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Pro 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VPXMIXM</td><td>15.0</td><td>6.6 GB</td><td>2025-09-23</td><td><a href="/hyperos/organ/stable/OS2.0.202.0.VPXMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Pro 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VPXMIXM</td><td>15.0</td><td>4.9 GB</td><td>2025-10-11</td><td><a href="/hyperos/organ/stable/OS2.0.202.0.VPXMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VPXEUXM</td><td>15.0</td><td>6.1 GB</td><td>2025-09-11</td><td><a href="/hyperos/organ/stable/OS2.0.201.0.VPXEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VPXEUXM</td><td>15.0</td><td>4.9 GB</td><td>2025-10-09</td><td><a href="/hyperos/organ/stable/OS2.0.201.0.VPXEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VPXTWXM</td><td>15.0</td><td>4.8 GB</td><td>2025-10-14</td><td><a href="/hyperos/organ/stable/OS2.0.201.0.VPXTWXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VPXTWXM</td><td>15.0</td><td>5.7 GB</td><td>2025-09-24</td><td><a href="/hyperos/organ/stable/OS2.0.201.0.VPXTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

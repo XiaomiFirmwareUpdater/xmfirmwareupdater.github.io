@@ -2909,15 +2909,15 @@
     android: '16.0'
     miui: OS3.0.5.0.WOSMIXM
 - branch: stable
-  date: '2025-11-27'
+  date: '2025-12-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-27.11.2025/fw_klimt_klimt_eea_global-ota_full-OS3.0.5.0.WOSEUXM-user-16.0-edaee74d4f.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_eea_global-ota_full-OS3.0.5.0.WOSEUXM-user-16.0-edaee74d4f.zip
-  filename: fw_klimt_klimt_eea_global-ota_full-OS3.0.5.0.WOSEUXM-user-16.0-edaee74d4f.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-14.12.2025/fw_klimt_klimt_eea_global-ota_full-OS3.0.6.0.WOSEUXM-user-16.0-64a02bc4ce.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_eea_global-ota_full-OS3.0.6.0.WOSEUXM-user-16.0-64a02bc4ce.zip
+  filename: fw_klimt_klimt_eea_global-ota_full-OS3.0.6.0.WOSEUXM-user-16.0-64a02bc4ce.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.5.0.WOSEUXM
+    miui: OS3.0.6.0.WOSEUXM
 - branch: stable
   date: '2025-11-29'
   downloads:
@@ -4379,15 +4379,15 @@
     android: '15.0'
     miui: OS2.0.203.0.VPXMIXM
 - branch: stable
-  date: '2025-10-20'
+  date: '2025-12-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_organ/releases/download/stable-20.10.2025/fw_organ_organ_eea_global-ota_full-OS2.0.203.0.VPXEUXM-user-15.0-8db5dd42e4.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/organ/fw_organ_organ_eea_global-ota_full-OS2.0.203.0.VPXEUXM-user-15.0-8db5dd42e4.zip
-  filename: fw_organ_organ_eea_global-ota_full-OS2.0.203.0.VPXEUXM-user-15.0-8db5dd42e4.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_organ/releases/download/stable-14.12.2025/fw_organ_organ_eea_global-ota_full-OS2.0.204.0.VPXEUXM-user-15.0-59405db2d3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/organ/fw_organ_organ_eea_global-ota_full-OS2.0.204.0.VPXEUXM-user-15.0-59405db2d3.zip
+  filename: fw_organ_organ_eea_global-ota_full-OS2.0.204.0.VPXEUXM-user-15.0-59405db2d3.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.203.0.VPXEUXM
+    miui: OS2.0.204.0.VPXEUXM
 - branch: stable
   date: '2025-11-28'
   downloads:

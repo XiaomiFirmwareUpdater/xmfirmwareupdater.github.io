@@ -13338,6 +13338,12 @@
   version: OS2.0.203.0.VPXEUXM
 - android: '15.0'
   codename: organ
+  date: '2025-12-14'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VPXEUXM/fw_organ_organ_eea_global-ota_full-OS2.0.204.0.VPXEUXM-user-15.0-59405db2d3.zip
+  name: Redmi Pad 2 Pro 5G
+  version: OS2.0.204.0.VPXEUXM
+- android: '15.0'
+  codename: organ
   date: '2025-10-11'
   download: https://bigota.d.miui.com/OS2.0.202.0.VPXMIXM/fw_organ_organ_global-ota_full-OS2.0.202.0.VPXMIXM-user-15.0-f88d4df8c3.zip
   name: Redmi Pad 2 Pro 5G
