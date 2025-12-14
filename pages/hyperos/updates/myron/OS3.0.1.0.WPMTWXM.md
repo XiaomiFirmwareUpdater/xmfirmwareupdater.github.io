@@ -56,22 +56,22 @@ permalink: /hyperos/myron/stable/OS3.0.1.0.WPMTWXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.8 GB</h5>
+                    <h5><b>Size: </b>8.9 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-26</h5>
+                    <h5><b>Release Date: </b>2025-11-05</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">myron_tw_global-ota_full-OS3.0.1.0.WPMTWXM-user-16.0-a855bdf01d.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">myron_tw_global_images_OS3.0.1.0.WPMTWXM_20251105.0000.00_16.0_tw_bb58596f1f.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">a855bdf01d578d80cb54e493c916e31f</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">bb58596f1f84699fede1e5563bdf14ee</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.1.0.WPMTWXM/myron_tw_global-ota_full-OS3.0.1.0.WPMTWXM-user-16.0-a855bdf01d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.1.0.WPMTWXM/myron_tw_global-ota_full-OS3.0.1.0.WPMTWXM-user-16.0-a855bdf01d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.1.0.WPMTWXM/myron_tw_global-ota_full-OS3.0.1.0.WPMTWXM-user-16.0-a855bdf01d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.1.0.WPMTWXM/myron_tw_global-ota_full-OS3.0.1.0.WPMTWXM-user-16.0-a855bdf01d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.1.0.WPMTWXM/myron_tw_global-ota_full-OS3.0.1.0.WPMTWXM-user-16.0-a855bdf01d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.1.0.WPMTWXM/myron_tw_global_images_OS3.0.1.0.WPMTWXM_20251105.0000.00_16.0_tw_bb58596f1f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.1.0.WPMTWXM/myron_tw_global_images_OS3.0.1.0.WPMTWXM_20251105.0000.00_16.0_tw_bb58596f1f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.1.0.WPMTWXM/myron_tw_global_images_OS3.0.1.0.WPMTWXM_20251105.0000.00_16.0_tw_bb58596f1f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.1.0.WPMTWXM/myron_tw_global_images_OS3.0.1.0.WPMTWXM_20251105.0000.00_16.0_tw_bb58596f1f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.1.0.WPMTWXM/myron_tw_global_images_OS3.0.1.0.WPMTWXM_20251105.0000.00_16.0_tw_bb58596f1f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#myron_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/myron/stable/OS3.0.1.0.WPMTWXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.9 GB</h5>
+                    <h5><b>Size: </b>7.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-05</h5>
+                    <h5><b>Release Date: </b>2025-11-26</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">myron_tw_global_images_OS3.0.1.0.WPMTWXM_20251105.0000.00_16.0_tw_bb58596f1f.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">myron_tw_global-ota_full-OS3.0.1.0.WPMTWXM-user-16.0-a855bdf01d.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">bb58596f1f84699fede1e5563bdf14ee</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">a855bdf01d578d80cb54e493c916e31f</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.1.0.WPMTWXM/myron_tw_global_images_OS3.0.1.0.WPMTWXM_20251105.0000.00_16.0_tw_bb58596f1f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.1.0.WPMTWXM/myron_tw_global_images_OS3.0.1.0.WPMTWXM_20251105.0000.00_16.0_tw_bb58596f1f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.1.0.WPMTWXM/myron_tw_global_images_OS3.0.1.0.WPMTWXM_20251105.0000.00_16.0_tw_bb58596f1f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.1.0.WPMTWXM/myron_tw_global_images_OS3.0.1.0.WPMTWXM_20251105.0000.00_16.0_tw_bb58596f1f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.1.0.WPMTWXM/myron_tw_global_images_OS3.0.1.0.WPMTWXM_20251105.0000.00_16.0_tw_bb58596f1f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.1.0.WPMTWXM/myron_tw_global-ota_full-OS3.0.1.0.WPMTWXM-user-16.0-a855bdf01d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.1.0.WPMTWXM/myron_tw_global-ota_full-OS3.0.1.0.WPMTWXM-user-16.0-a855bdf01d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.1.0.WPMTWXM/myron_tw_global-ota_full-OS3.0.1.0.WPMTWXM-user-16.0-a855bdf01d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.1.0.WPMTWXM/myron_tw_global-ota_full-OS3.0.1.0.WPMTWXM-user-16.0-a855bdf01d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.1.0.WPMTWXM/myron_tw_global-ota_full-OS3.0.1.0.WPMTWXM-user-16.0-a855bdf01d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#myron_2_changelog" data-toggle="collapse" role="button"

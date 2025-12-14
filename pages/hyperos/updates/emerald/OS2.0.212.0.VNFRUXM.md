@@ -56,22 +56,22 @@ permalink: /hyperos/emerald/stable/OS2.0.212.0.VNFRUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.8 GB</h5>
+                    <h5><b>Size: </b>8.0 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-13</h5>
+                    <h5><b>Release Date: </b>2025-11-05</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">emerald_ru_global-ota_full-OS2.0.212.0.VNFRUXM-user-15.0-55e0d56d7d.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">emerald_ru_global_images_OS2.0.212.0.VNFRUXM_20251105.0000.00_15.0_ru_43e3a71104.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">55e0d56d7d1d9374f91f87b4981beb22</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">43e3a71104acdb8b62ccb78dbf95ac59</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.212.0.VNFRUXM/emerald_ru_global-ota_full-OS2.0.212.0.VNFRUXM-user-15.0-55e0d56d7d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.212.0.VNFRUXM/emerald_ru_global-ota_full-OS2.0.212.0.VNFRUXM-user-15.0-55e0d56d7d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.212.0.VNFRUXM/emerald_ru_global-ota_full-OS2.0.212.0.VNFRUXM-user-15.0-55e0d56d7d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.212.0.VNFRUXM/emerald_ru_global-ota_full-OS2.0.212.0.VNFRUXM-user-15.0-55e0d56d7d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.212.0.VNFRUXM/emerald_ru_global-ota_full-OS2.0.212.0.VNFRUXM-user-15.0-55e0d56d7d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.212.0.VNFRUXM/emerald_ru_global_images_OS2.0.212.0.VNFRUXM_20251105.0000.00_15.0_ru_43e3a71104.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.212.0.VNFRUXM/emerald_ru_global_images_OS2.0.212.0.VNFRUXM_20251105.0000.00_15.0_ru_43e3a71104.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.212.0.VNFRUXM/emerald_ru_global_images_OS2.0.212.0.VNFRUXM_20251105.0000.00_15.0_ru_43e3a71104.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.212.0.VNFRUXM/emerald_ru_global_images_OS2.0.212.0.VNFRUXM_20251105.0000.00_15.0_ru_43e3a71104.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.212.0.VNFRUXM/emerald_ru_global_images_OS2.0.212.0.VNFRUXM_20251105.0000.00_15.0_ru_43e3a71104.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#emerald_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/emerald/stable/OS2.0.212.0.VNFRUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.0 GB</h5>
+                    <h5><b>Size: </b>4.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-05</h5>
+                    <h5><b>Release Date: </b>2025-11-13</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">emerald_ru_global_images_OS2.0.212.0.VNFRUXM_20251105.0000.00_15.0_ru_43e3a71104.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">emerald_ru_global-ota_full-OS2.0.212.0.VNFRUXM-user-15.0-55e0d56d7d.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">43e3a71104acdb8b62ccb78dbf95ac59</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">55e0d56d7d1d9374f91f87b4981beb22</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.212.0.VNFRUXM/emerald_ru_global_images_OS2.0.212.0.VNFRUXM_20251105.0000.00_15.0_ru_43e3a71104.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.212.0.VNFRUXM/emerald_ru_global_images_OS2.0.212.0.VNFRUXM_20251105.0000.00_15.0_ru_43e3a71104.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.212.0.VNFRUXM/emerald_ru_global_images_OS2.0.212.0.VNFRUXM_20251105.0000.00_15.0_ru_43e3a71104.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.212.0.VNFRUXM/emerald_ru_global_images_OS2.0.212.0.VNFRUXM_20251105.0000.00_15.0_ru_43e3a71104.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.212.0.VNFRUXM/emerald_ru_global_images_OS2.0.212.0.VNFRUXM_20251105.0000.00_15.0_ru_43e3a71104.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.212.0.VNFRUXM/emerald_ru_global-ota_full-OS2.0.212.0.VNFRUXM-user-15.0-55e0d56d7d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.212.0.VNFRUXM/emerald_ru_global-ota_full-OS2.0.212.0.VNFRUXM-user-15.0-55e0d56d7d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.212.0.VNFRUXM/emerald_ru_global-ota_full-OS2.0.212.0.VNFRUXM-user-15.0-55e0d56d7d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.212.0.VNFRUXM/emerald_ru_global-ota_full-OS2.0.212.0.VNFRUXM-user-15.0-55e0d56d7d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.212.0.VNFRUXM/emerald_ru_global-ota_full-OS2.0.212.0.VNFRUXM-user-15.0-55e0d56d7d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#emerald_2_changelog" data-toggle="collapse" role="button"
