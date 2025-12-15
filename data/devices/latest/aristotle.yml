@@ -9,12 +9,12 @@
     android: '15.0'
     miui: OS2.0.210.0.VMFMIXM
 - branch: stable
-  date: '2025-11-10'
+  date: '2025-12-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aristotle/releases/download/stable-10.11.2025/fw_aristotle_aristotle_eea_global-ota_full-OS2.0.211.0.VMFEUXM-user-15.0-dcad5ae43a.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aristotle/fw_aristotle_aristotle_eea_global-ota_full-OS2.0.211.0.VMFEUXM-user-15.0-dcad5ae43a.zip
-  filename: fw_aristotle_aristotle_eea_global-ota_full-OS2.0.211.0.VMFEUXM-user-15.0-dcad5ae43a.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aristotle/releases/download/stable-15.12.2025/fw_aristotle_aristotle_eea_global-ota_full-OS2.0.212.0.VMFEUXM-user-15.0-549a2e2ffb.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aristotle/fw_aristotle_aristotle_eea_global-ota_full-OS2.0.212.0.VMFEUXM-user-15.0-549a2e2ffb.zip
+  filename: fw_aristotle_aristotle_eea_global-ota_full-OS2.0.212.0.VMFEUXM-user-15.0-549a2e2ffb.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.211.0.VMFEUXM
+    miui: OS2.0.212.0.VMFEUXM
