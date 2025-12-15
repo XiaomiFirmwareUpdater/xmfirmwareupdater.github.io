@@ -52,7 +52,9 @@ permalink: /archive/hyperos/rodin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO X7 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VOJIDXM</td><td>15.0</td><td>6.1 GB</td><td>2025-11-17</td><td><a href="/hyperos/rodin/stable/OS2.0.205.0.VOJIDXM/">Download</a></td></tr>
+                <tr><td>POCO X7 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOJEUXM</td><td>16.0</td><td>6.7 GB</td><td>2025-12-01</td><td><a href="/hyperos/rodin/stable/OS3.0.3.0.WOJEUXM/">Download</a></td></tr>
+<tr><td>POCO X7 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOJEUXM</td><td>16.0</td><td>9.2 GB</td><td>2025-11-26</td><td><a href="/hyperos/rodin/stable/OS3.0.3.0.WOJEUXM/">Download</a></td></tr>
+<tr><td>POCO X7 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VOJIDXM</td><td>15.0</td><td>6.1 GB</td><td>2025-11-17</td><td><a href="/hyperos/rodin/stable/OS2.0.205.0.VOJIDXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VOJIDXM</td><td>15.0</td><td>8.8 GB</td><td>2025-11-07</td><td><a href="/hyperos/rodin/stable/OS2.0.205.0.VOJIDXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VOJRUXM</td><td>15.0</td><td>6.0 GB</td><td>2025-11-17</td><td><a href="/hyperos/rodin/stable/OS2.0.204.0.VOJRUXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VOJRUXM</td><td>15.0</td><td>9.6 GB</td><td>2025-11-07</td><td><a href="/hyperos/rodin/stable/OS2.0.204.0.VOJRUXM/">Download</a></td></tr>
@@ -76,10 +78,10 @@ permalink: /archive/hyperos/rodin/
 <tr><td>POCO X7 Pro India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VOJINXM</td><td>15.0</td><td>8.0 GB</td><td>2025-10-10</td><td><a href="/hyperos/rodin/stable/OS2.0.203.0.VOJINXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VOJEUXM</td><td>15.0</td><td>6.1 GB</td><td>2025-10-15</td><td><a href="/hyperos/rodin/stable/OS2.0.206.0.VOJEUXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VOJEUXM</td><td>15.0</td><td>8.7 GB</td><td>2025-09-29</td><td><a href="/hyperos/rodin/stable/OS2.0.206.0.VOJEUXM/">Download</a></td></tr>
-<tr><td>Redmi Turbo 4 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VOJCNXM</td><td>15.0</td><td>7.1 GB</td><td>2025-10-14</td><td><a href="/hyperos/rodin/stable/OS2.0.208.0.VOJCNXM/">Download</a></td></tr>
-<tr><td>Redmi Turbo 4 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VOJCNXM</td><td>15.0</td><td>9.2 GB</td><td>2025-10-09</td><td><a href="/hyperos/rodin/stable/OS2.0.208.0.VOJCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 4 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WOJCNXM</td><td>16.0</td><td>7.4 GB</td><td>2025-10-28</td><td><a href="/hyperos/rodin/stable/OS3.0.2.0.WOJCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 4 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WOJCNXM</td><td>16.0</td><td>9.6 GB</td><td>2025-10-17</td><td><a href="/hyperos/rodin/stable/OS3.0.2.0.WOJCNXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 4 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VOJCNXM</td><td>15.0</td><td>7.1 GB</td><td>2025-10-14</td><td><a href="/hyperos/rodin/stable/OS2.0.208.0.VOJCNXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 4 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VOJCNXM</td><td>15.0</td><td>9.2 GB</td><td>2025-10-09</td><td><a href="/hyperos/rodin/stable/OS2.0.208.0.VOJCNXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VOJMIXM</td><td>15.0</td><td>6.1 GB</td><td>2025-10-10</td><td><a href="/hyperos/rodin/stable/OS2.0.205.0.VOJMIXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VOJMIXM</td><td>15.0</td><td>9.6 GB</td><td>2025-09-25</td><td><a href="/hyperos/rodin/stable/OS2.0.205.0.VOJMIXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VOJTRXM</td><td>15.0</td><td>6.0 GB</td><td>2025-09-24</td><td><a href="/hyperos/rodin/stable/OS2.0.202.0.VOJTRXM/">Download</a></td></tr>

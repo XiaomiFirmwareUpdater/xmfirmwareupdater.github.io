@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 15 Dec 2025 00:37:29 </lastBuildDate>
+        <lastBuildDate>Mon, 15 Dec 2025 06:52:26 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.2.0.WOQINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
+            <pubDate>Mon, 15 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad 2 4G (koto) - OS3.0.2.0.WOWEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/koto/</link>
+            <pubDate>Mon, 15 Dec 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 15T Pro (klimt) - OS3.0.6.0.WOSEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
@@ -344,11 +354,6 @@
         <item>
             <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.6.0.WPKMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS2.0.207.0.VOQINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
             <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1269,11 +1274,6 @@
         <item>
             <title>Redmi A3x (klein) - V816.0.8.0.VGSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/klein/</link>
-            <pubDate>Wed, 29 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad 2 4G (koto) - OS2.0.205.0.VOWEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/koto/</link>
             <pubDate>Wed, 29 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>

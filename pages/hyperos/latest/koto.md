@@ -52,8 +52,8 @@ permalink: /hyperos/koto/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad 2 4G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VOWEUXM</td><td>15.0</td><td>6.0 GB</td><td>2025-10-14</td><td><a href="/hyperos/koto/stable/OS2.0.205.0.VOWEUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad 2 4G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VOWEUXM</td><td>15.0</td><td>4.5 GB</td><td>2025-10-21</td><td><a href="/hyperos/koto/stable/OS2.0.205.0.VOWEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad 2 4G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WOWEUXM</td><td>16.0</td><td>6.9 GB</td><td>2025-11-28</td><td><a href="/hyperos/koto/stable/OS3.0.2.0.WOWEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 4G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WOWEUXM</td><td>16.0</td><td>5.5 GB</td><td>2025-12-05</td><td><a href="/hyperos/koto/stable/OS3.0.2.0.WOWEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 4G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VOWMIXM</td><td>15.0</td><td>6.5 GB</td><td>2025-11-10</td><td><a href="/hyperos/koto/stable/OS2.0.205.0.VOWMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 4G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VOWMIXM</td><td>15.0</td><td>4.5 GB</td><td>2025-11-19</td><td><a href="/hyperos/koto/stable/OS2.0.205.0.VOWMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 4G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VOWINXM</td><td>15.0</td><td>5.5 GB</td><td>2025-10-29</td><td><a href="/hyperos/koto/stable/OS2.0.206.0.VOWINXM/">Download</a></td></tr>

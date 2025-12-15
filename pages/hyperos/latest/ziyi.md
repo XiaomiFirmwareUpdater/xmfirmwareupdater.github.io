@@ -52,8 +52,8 @@ permalink: /hyperos/ziyi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VLLCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-10-28</td><td><a href="/hyperos/ziyi/stable/OS2.0.206.0.VLLCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VLLCNXM</td><td>15.0</td><td>6.1 GB</td><td>2025-11-11</td><td><a href="/hyperos/ziyi/stable/OS2.0.206.0.VLLCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VLLCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-11-26</td><td><a href="/hyperos/ziyi/stable/OS2.0.207.0.VLLCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VLLCNXM</td><td>15.0</td><td>6.1 GB</td><td>2025-12-08</td><td><a href="/hyperos/ziyi/stable/OS2.0.207.0.VLLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VLLEUXM</td><td>15.0</td><td>7.2 GB</td><td>2025-10-28</td><td><a href="/hyperos/ziyi/stable/OS2.0.203.0.VLLEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VLLEUXM</td><td>15.0</td><td>5.7 GB</td><td>2025-11-11</td><td><a href="/hyperos/ziyi/stable/OS2.0.203.0.VLLEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VLLMIXM</td><td>15.0</td><td>7.2 GB</td><td>2025-11-07</td><td><a href="/hyperos/ziyi/stable/OS2.0.203.0.VLLMIXM/">Download</a></td></tr>
