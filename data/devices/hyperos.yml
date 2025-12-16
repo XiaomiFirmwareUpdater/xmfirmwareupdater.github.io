@@ -19704,6 +19704,12 @@
   version: OS1.0.7.0.ULIEUXM
 - android: '14.0'
   codename: taoyao
+  date: '2025-12-16'
+  download: https://bigota.d.miui.com/OS1.0.29.0.ULIMIXM/fw_taoyao_miui_TAOYAOGlobal_OS1.0.29.0.ULIMIXM_3178566a85_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.29.0.ULIMIXM
+- android: '14.0'
+  codename: taoyao
   date: '2025-10-17'
   download: https://bigota.d.miui.com/OS1.0.33.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.33.0.ULIEUXM_31dc26156f_14.0.zip
   name: Xiaomi 12 Lite
