@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 16 Dec 2025 06:57:07 </lastBuildDate>
+        <lastBuildDate>Tue, 16 Dec 2025 12:52:22 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 (houji) - OS3.0.4.0.WNCMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Tue, 16 Dec 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 17 (pudding) - OS3.0.34.0.WPCCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pudding/</link>
@@ -14,6 +19,11 @@
         <item>
             <title>Xiaomi 12 Lite (taoyao) - OS1.0.35.0.ULIEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taoyao/</link>
+            <pubDate>Tue, 16 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS3.0.1.0.WOZINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/uke/</link>
             <pubDate>Tue, 16 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -437,11 +447,6 @@
             <pubDate>Sat, 29 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS2.0.203.0.VOZINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/uke/</link>
-            <pubDate>Sat, 29 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS2.0.211.0.VOPCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
             <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
@@ -844,11 +849,6 @@
         <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS2.0.209.0.VNQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gold/</link>
-            <pubDate>Thu, 27 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 (houji) - OS2.0.206.0.VNCMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/houji/</link>
             <pubDate>Thu, 27 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
