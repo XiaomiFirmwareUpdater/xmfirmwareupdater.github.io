@@ -19710,6 +19710,12 @@
   version: OS1.0.27.0.ULIMIXM
 - android: '14.0'
   codename: taoyao
+  date: '2025-12-16'
+  download: https://bigota.d.miui.com/OS1.0.35.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.35.0.ULIEUXM_1f4b4b602e_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.35.0.ULIEUXM
+- android: '14.0'
+  codename: taoyao
   date: '2025-09-16'
   download: https://bigota.d.miui.com/OS1.0.32.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.32.0.ULIEUXM_7d4e6ecd36_14.0.zip
   name: Xiaomi 12 Lite
@@ -23902,6 +23908,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULLCNXM/fw_ziyi_miui_ZIYI_OS1.0.3.0.ULLCNXM_cc6915aa21_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.3.0.ULLCNXM
+- android: '15.0'
+  codename: ziyi
+  date: '2025-12-16'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VLLCNXM/fw_ziyi_ziyi-ota_full-OS2.0.207.0.VLLCNXM-user-15.0-5c016dc600.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS2.0.207.0.VLLCNXM
 - android: '15.0'
   codename: ziyi
   date: '2025-04-16'

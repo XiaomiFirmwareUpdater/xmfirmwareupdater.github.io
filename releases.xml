@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 16 Dec 2025 00:37:56 </lastBuildDate>
+        <lastBuildDate>Tue, 16 Dec 2025 06:57:07 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 17 (pudding) - OS3.0.34.0.WPCCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/pudding/</link>
+            <pubDate>Tue, 16 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Lite (taoyao) - OS1.0.35.0.ULIEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/taoyao/</link>
+            <pubDate>Tue, 16 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS2.0.207.0.VLLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
+            <pubDate>Tue, 16 Dec 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 13T (aristotle) - OS2.0.211.0.VMFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
@@ -169,11 +184,6 @@
         <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.207.0.VFOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
-            <pubDate>Fri, 05 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17 (pudding) - OS3.0.32.0.WPCCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pudding/</link>
             <pubDate>Fri, 05 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -922,11 +932,6 @@
             <pubDate>Thu, 20 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS2.0.206.0.VLLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
-            <pubDate>Thu, 20 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>MIX Fold 3 (babylon) - OS2.0.209.0.VMVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
             <pubDate>Wed, 19 Nov 2025 00:00:00 </pubDate>
@@ -1068,11 +1073,6 @@
         </item>
         <item>
             <title>Xiaomi 12 Lite (taoyao) - OS1.0.28.0.ULIMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/taoyao/</link>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Lite (taoyao) - OS1.0.34.0.ULIEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taoyao/</link>
             <pubDate>Thu, 13 Nov 2025 00:00:00 </pubDate>
         </item>
