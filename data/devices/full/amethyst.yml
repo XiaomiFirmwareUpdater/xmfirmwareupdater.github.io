@@ -219,6 +219,16 @@
     android: '14.0'
     miui: OS1.0.6.0.UOPEUXM
 - branch: stable
+  date: '2025-12-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-16.12.2025/fw_amethyst_amethyst_eea_global-ota_full-OS2.0.213.0.VOPEUXM-user-15.0-7192561a1d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/amethyst/fw_amethyst_amethyst_eea_global-ota_full-OS2.0.213.0.VOPEUXM-user-15.0-7192561a1d.zip
+  filename: fw_amethyst_amethyst_eea_global-ota_full-OS2.0.213.0.VOPEUXM-user-15.0-7192561a1d.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.213.0.VOPEUXM
+- branch: stable
   date: '2024-12-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-16.12.2024/fw_amethyst_miui_AMETHYST_OS1.0.23.0.UOPCNXM_c27907cd54_14.0.zip
