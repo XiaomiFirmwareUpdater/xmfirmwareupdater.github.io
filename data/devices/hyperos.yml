@@ -13398,6 +13398,12 @@
   version: OS2.0.203.0.VPXEUXM
 - android: '15.0'
   codename: organ
+  date: '2025-12-17'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VPXINXM/fw_organ_organ_in_global-ota_full-OS2.0.202.0.VPXINXM-user-15.0-d88c711cf8.zip
+  name: Redmi Pad 2 Pro 5G
+  version: OS2.0.202.0.VPXINXM
+- android: '15.0'
+  codename: organ
   date: '2025-12-14'
   download: https://bigota.d.miui.com/OS2.0.204.0.VPXEUXM/fw_organ_organ_eea_global-ota_full-OS2.0.204.0.VPXEUXM-user-15.0-59405db2d3.zip
   name: Redmi Pad 2 Pro 5G
@@ -20044,6 +20050,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.ULACNXM/fw_thor_miui_THOR_OS1.0.5.0.ULACNXM_5282e8adc1_14.0.zip
   name: Xiaomi 12S Ultra
   version: OS1.0.5.0.ULACNXM
+- android: '15.0'
+  codename: thor
+  date: '2025-12-17'
+  download: https://bigota.d.miui.com/OS2.0.210.0.VLACNXM/fw_thor_thor-ota_full-OS2.0.210.0.VLACNXM-user-15.0-d78c951b83.zip
+  name: Xiaomi 12S Ultra
+  version: OS2.0.210.0.VLACNXM
 - android: '14.0'
   codename: thor
   date: '2024-08-16'
