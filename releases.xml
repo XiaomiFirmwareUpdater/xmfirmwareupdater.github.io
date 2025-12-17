@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 17 Dec 2025 12:55:07 </lastBuildDate>
+        <lastBuildDate>Wed, 17 Dec 2025 18:59:22 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi A3x (klein) - V816.0.1.0.WGSINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/klein/</link>
+            <pubDate>Wed, 17 Dec 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Pad 2 Pro 5G (organ) - OS2.0.205.0.VPXMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/organ/</link>
@@ -1295,11 +1300,6 @@
             <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - OS2.0.12.0.ULOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xaga/</link>
             <pubDate>Thu, 30 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A3x (klein) - V816.0.8.0.VGSINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/klein/</link>
-            <pubDate>Wed, 29 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi Civi 4 Pro (chenfeng) - OS2.0.207.0.VNJCNXM</title>
