@@ -19,6 +19,16 @@
     android: '15.0'
     miui: OS2.0.204.0.VPPCNXM
 - branch: stable
+  date: '2025-12-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-18.12.2025/fw_lapis_lapis-ota_full-OS3.0.4.0.WPPCNXM-user-16.0-3fee4ec73e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/lapis/fw_lapis_lapis-ota_full-OS3.0.4.0.WPPCNXM-user-16.0-3fee4ec73e.zip
+  filename: fw_lapis_lapis-ota_full-OS3.0.4.0.WPPCNXM-user-16.0-3fee4ec73e.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.4.0.WPPCNXM
+- branch: stable
   date: '2025-09-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-18.09.2025/fw_lapis_lapis-ota_full-OS2.0.206.0.VPPCNXM-user-15.0-156350797d.zip

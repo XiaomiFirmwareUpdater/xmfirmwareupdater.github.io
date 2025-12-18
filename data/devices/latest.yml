@@ -2149,15 +2149,15 @@
     android: '15.0'
     miui: OS2.0.205.0.VNRMIXM
 - branch: stable
-  date: '2025-11-27'
+  date: '2025-12-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-27.11.2025/fw_garnet_garnet-ota_full-OS2.0.209.0.VNRCNXM-user-15.0-65412153fa.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/garnet/fw_garnet_garnet-ota_full-OS2.0.209.0.VNRCNXM-user-15.0-65412153fa.zip
-  filename: fw_garnet_garnet-ota_full-OS2.0.209.0.VNRCNXM-user-15.0-65412153fa.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-18.12.2025/fw_garnet_garnet-ota_full-OS3.0.2.0.WNRCNXM-user-16.0-b487e82659.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/garnet/fw_garnet_garnet-ota_full-OS3.0.2.0.WNRCNXM-user-16.0-b487e82659.zip
+  filename: fw_garnet_garnet-ota_full-OS3.0.2.0.WNRCNXM-user-16.0-b487e82659.zip
   region: China
   versions:
-    android: '15.0'
-    miui: OS2.0.209.0.VNRCNXM
+    android: '16.0'
+    miui: OS3.0.2.0.WNRCNXM
 - branch: stable
   date: '2025-11-27'
   downloads:
@@ -3059,15 +3059,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2025-12-03'
+  date: '2025-12-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-03.12.2025/fw_lapis_lapis-ota_full-OS2.0.209.0.VPPCNXM-user-15.0-69ee5ae0bf.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lapis/fw_lapis_lapis-ota_full-OS2.0.209.0.VPPCNXM-user-15.0-69ee5ae0bf.zip
-  filename: fw_lapis_lapis-ota_full-OS2.0.209.0.VPPCNXM-user-15.0-69ee5ae0bf.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-18.12.2025/fw_lapis_lapis-ota_full-OS3.0.4.0.WPPCNXM-user-16.0-3fee4ec73e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/lapis/fw_lapis_lapis-ota_full-OS3.0.4.0.WPPCNXM-user-16.0-3fee4ec73e.zip
+  filename: fw_lapis_lapis-ota_full-OS3.0.4.0.WPPCNXM-user-16.0-3fee4ec73e.zip
   region: China
   versions:
-    android: '15.0'
-    miui: OS2.0.209.0.VPPCNXM
+    android: '16.0'
+    miui: OS3.0.4.0.WPPCNXM
 - branch: stable
   date: '2022-04-15'
   downloads:
@@ -5359,15 +5359,15 @@
     android: '15.0'
     miui: OS2.0.206.0.VFSCNXM
 - branch: stable
-  date: '2025-11-28'
+  date: '2025-12-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-28.11.2025/fw_ruan_ruan_eea_global-ota_full-OS2.0.205.0.VFSEUXM-user-15.0-15cf4d30bd.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruan/fw_ruan_ruan_eea_global-ota_full-OS2.0.205.0.VFSEUXM-user-15.0-15cf4d30bd.zip
-  filename: fw_ruan_ruan_eea_global-ota_full-OS2.0.205.0.VFSEUXM-user-15.0-15cf4d30bd.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-18.12.2025/fw_ruan_ruan_eea_global-ota_full-OS2.0.206.0.VFSEUXM-user-15.0-652cee6850.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruan/fw_ruan_ruan_eea_global-ota_full-OS2.0.206.0.VFSEUXM-user-15.0-652cee6850.zip
+  filename: fw_ruan_ruan_eea_global-ota_full-OS2.0.206.0.VFSEUXM-user-15.0-652cee6850.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.205.0.VFSEUXM
+    miui: OS2.0.206.0.VFSEUXM
 - branch: stable
   date: '2025-11-30'
   downloads:

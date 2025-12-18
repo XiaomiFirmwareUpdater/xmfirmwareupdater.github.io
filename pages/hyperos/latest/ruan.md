@@ -54,8 +54,8 @@ permalink: /hyperos/ruan/
                 <tbody>
                 <tr><td>Redmi Pad Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VFSCNXM</td><td>15.0</td><td>6.6 GB</td><td>2025-11-04</td><td><a href="/hyperos/ruan/stable/OS2.0.206.0.VFSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G China</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VFSCNXM</td><td>15.0</td><td>5.4 GB</td><td>2025-11-23</td><td><a href="/hyperos/ruan/stable/OS2.0.206.0.VFSCNXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Pro 5G / POCO Pad 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VFSEUXM</td><td>15.0</td><td>6.2 GB</td><td>2025-10-31</td><td><a href="/hyperos/ruan/stable/OS2.0.205.0.VFSEUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Pro 5G / POCO Pad 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VFSEUXM</td><td>15.0</td><td>5.2 GB</td><td>2025-11-11</td><td><a href="/hyperos/ruan/stable/OS2.0.205.0.VFSEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro 5G / POCO Pad 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VFSEUXM</td><td>15.0</td><td>6.2 GB</td><td>2025-11-27</td><td><a href="/hyperos/ruan/stable/OS2.0.206.0.VFSEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro 5G / POCO Pad 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VFSEUXM</td><td>15.0</td><td>5.2 GB</td><td>2025-12-09</td><td><a href="/hyperos/ruan/stable/OS2.0.206.0.VFSEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G / POCO Pad 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VFSMIXM</td><td>15.0</td><td>6.5 GB</td><td>2025-11-04</td><td><a href="/hyperos/ruan/stable/OS2.0.205.0.VFSMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G / POCO Pad 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VFSMIXM</td><td>15.0</td><td>5.0 GB</td><td>2025-11-11</td><td><a href="/hyperos/ruan/stable/OS2.0.205.0.VFSMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G / POCO Pad 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VFSINXM</td><td>15.0</td><td>5.5 GB</td><td>2025-11-04</td><td><a href="/hyperos/ruan/stable/OS2.0.205.0.VFSINXM/">Download</a></td></tr>

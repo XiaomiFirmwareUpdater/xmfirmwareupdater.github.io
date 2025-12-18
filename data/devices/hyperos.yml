@@ -16266,6 +16266,12 @@
   version: OS2.0.2.0.VFSCNXM
 - android: '15.0'
   codename: ruan
+  date: '2025-12-18'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VFSEUXM/fw_ruan_ruan_eea_global-ota_full-OS2.0.206.0.VFSEUXM-user-15.0-652cee6850.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS2.0.206.0.VFSEUXM
+- android: '15.0'
+  codename: ruan
   date: '2024-12-17'
   download: https://bigota.d.miui.com/OS2.0.2.0.VFSEUXM/fw_ruan_eea_global_ruan_eea_global-ota_full-OS2.0.2.0.VFSEUXM-user-15.0-367d14e9f3.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
