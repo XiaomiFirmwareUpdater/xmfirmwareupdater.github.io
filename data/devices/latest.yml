@@ -1989,15 +1989,15 @@
     android: '13.0'
     miui: OS1.0.10.0.TKEINXM
 - branch: stable
-  date: '2025-11-06'
+  date: '2025-12-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flourite/releases/download/stable-06.11.2025/fw_flourite_flourite-ota_full-OS2.0.209.0.VPRCNXM-user-15.0-ed76995ddb.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/flourite/fw_flourite_flourite-ota_full-OS2.0.209.0.VPRCNXM-user-15.0-ed76995ddb.zip
-  filename: fw_flourite_flourite-ota_full-OS2.0.209.0.VPRCNXM-user-15.0-ed76995ddb.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flourite/releases/download/stable-18.12.2025/fw_flourite_flourite-ota_full-OS3.0.2.0.WPRCNXM-user-16.0-9c6218762a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/flourite/fw_flourite_flourite-ota_full-OS3.0.2.0.WPRCNXM-user-16.0-9c6218762a.zip
+  filename: fw_flourite_flourite-ota_full-OS3.0.2.0.WPRCNXM-user-16.0-9c6218762a.zip
   region: China
   versions:
-    android: '15.0'
-    miui: OS2.0.209.0.VPRCNXM
+    android: '16.0'
+    miui: OS3.0.2.0.WPRCNXM
 - branch: stable
   date: '2025-12-02'
   downloads:
@@ -2719,15 +2719,15 @@
     android: '15.0'
     miui: OS2.0.208.0.VMAMIXM
 - branch: stable
-  date: '2025-11-27'
+  date: '2025-12-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-27.11.2025/fw_ishtar_ishtar-ota_full-OS2.0.210.0.VMACNXM-user-15.0-139ea346cd.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ishtar/fw_ishtar_ishtar-ota_full-OS2.0.210.0.VMACNXM-user-15.0-139ea346cd.zip
-  filename: fw_ishtar_ishtar-ota_full-OS2.0.210.0.VMACNXM-user-15.0-139ea346cd.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-18.12.2025/fw_ishtar_ishtar-ota_full-OS3.0.3.0.WMACNXM-user-16.0-7592563019.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ishtar/fw_ishtar_ishtar-ota_full-OS3.0.3.0.WMACNXM-user-16.0-7592563019.zip
+  filename: fw_ishtar_ishtar-ota_full-OS3.0.3.0.WMACNXM-user-16.0-7592563019.zip
   region: China
   versions:
-    android: '15.0'
-    miui: OS2.0.210.0.VMACNXM
+    android: '16.0'
+    miui: OS3.0.3.0.WMACNXM
 - branch: stable
   date: '2025-11-14'
   downloads:
