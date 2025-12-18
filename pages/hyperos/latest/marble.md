@@ -64,8 +64,8 @@ permalink: /hyperos/marble/
 <tr><td>POCO F5 India</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VMRINXM</td><td>15.0</td><td>5.4 GB</td><td>2025-10-28</td><td><a href="/hyperos/marble/stable/OS2.0.206.0.VMRINXM/">Download</a></td></tr>
 <tr><td>POCO F5 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VMRRUXM</td><td>15.0</td><td>8.5 GB</td><td>2025-10-21</td><td><a href="/hyperos/marble/stable/OS2.0.206.0.VMRRUXM/">Download</a></td></tr>
 <tr><td>POCO F5 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VMRRUXM</td><td>15.0</td><td>5.5 GB</td><td>2025-10-28</td><td><a href="/hyperos/marble/stable/OS2.0.206.0.VMRRUXM/">Download</a></td></tr>
-<tr><td>POCO F5 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.209.0.VMRTRXM</td><td>15.0</td><td>7.6 GB</td><td>2025-10-21</td><td><a href="/hyperos/marble/stable/OS2.0.209.0.VMRTRXM/">Download</a></td></tr>
-<tr><td>POCO F5 Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.209.0.VMRTRXM</td><td>15.0</td><td>5.6 GB</td><td>2025-10-28</td><td><a href="/hyperos/marble/stable/OS2.0.209.0.VMRTRXM/">Download</a></td></tr>
+<tr><td>POCO F5 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.210.0.VMRTRXM</td><td>15.0</td><td>7.6 GB</td><td>2025-11-25</td><td><a href="/hyperos/marble/stable/OS2.0.210.0.VMRTRXM/">Download</a></td></tr>
+<tr><td>POCO F5 Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.210.0.VMRTRXM</td><td>15.0</td><td>5.6 GB</td><td>2025-12-10</td><td><a href="/hyperos/marble/stable/OS2.0.210.0.VMRTRXM/">Download</a></td></tr>
 <tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VMRTWXM</td><td>15.0</td><td>6.8 GB</td><td>2025-10-21</td><td><a href="/hyperos/marble/stable/OS2.0.206.0.VMRTWXM/">Download</a></td></tr>
 <tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VMRTWXM</td><td>15.0</td><td>5.4 GB</td><td>2025-11-05</td><td><a href="/hyperos/marble/stable/OS2.0.206.0.VMRTWXM/">Download</a></td></tr>
 
