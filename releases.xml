@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 19 Dec 2025 15:16:43 </lastBuildDate>
+        <lastBuildDate>Fri, 19 Dec 2025 19:23:52 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.7.0.WPKMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS3.0.4.0.WNAMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
             <pubDate>Fri, 19 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -42,6 +47,11 @@
             <pubDate>Fri, 19 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi K90 Pro Max/POCO F8 Ultra (myron) - OS3.0.9.0.WPMMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/myron/</link>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - OS3.0.7.0.WOLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
             <pubDate>Fri, 19 Dec 2025 00:00:00 </pubDate>
@@ -49,6 +59,11 @@
         <item>
             <title>Redmi Pad SE 8.7 4G (spark) - OS2.0.205.0.VHYMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spark/</link>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi MIX Fold 2 (zizhan) - OS2.0.208.0.VLRCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zizhan/</link>
             <pubDate>Fri, 19 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -587,11 +602,6 @@
             <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K90 Pro Max/POCO F8 Ultra (myron) - OS3.0.8.0.WPMMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/myron/</link>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13 Pro (nuwa) - OS2.0.219.0.VMBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
@@ -782,11 +792,6 @@
             <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi MIX Fold 2 (zizhan) - OS2.0.207.0.VLRCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zizhan/</link>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K80/POCO F7 Pro (zorn) - OS3.0.4.0.WOKCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zorn/</link>
             <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
@@ -804,11 +809,6 @@
         <item>
             <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.5.0.WPKEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
-            <pubDate>Thu, 27 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS2.0.207.0.VNAMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
             <pubDate>Thu, 27 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
