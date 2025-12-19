@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 19 Dec 2025 00:39:39 </lastBuildDate>
+        <lastBuildDate>Fri, 19 Dec 2025 06:50:21 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Pad SE 8.7 5G (flare) - OS2.0.205.0.VHXMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE 8.7 4G (spark) - OS2.0.205.0.VHYMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/spark/</link>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro (flourite) - OS3.0.2.0.WPRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
@@ -1219,16 +1229,6 @@
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.13.0.UCVEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Mon, 03 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad SE 8.7 5G (flare) - OS2.0.203.0.VHXMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
-            <pubDate>Mon, 03 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad SE 8.7 4G (spark) - OS2.0.203.0.VHYMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/spark/</link>
             <pubDate>Mon, 03 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>

@@ -5778,6 +5778,12 @@
   version: OS2.0.3.0.VHXMIXM
 - android: '15.0'
   codename: flare
+  date: '2025-12-19'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VHXMIXM/fw_flare_flare_global-ota_full-OS2.0.205.0.VHXMIXM-user-15.0-0e48239528.zip
+  name: Redmi Pad SE 8.7 5G
+  version: OS2.0.205.0.VHXMIXM
+- android: '15.0'
+  codename: flare
   date: '2025-09-19'
   download: https://bigota.d.miui.com/OS2.0.201.0.VHXIDXM/fw_flare_id_global_flare_id_global-ota_full-OS2.0.201.0.VHXIDXM-user-15.0-965915084d.zip
   name: Redmi Pad SE 8.7 5G
@@ -18730,6 +18736,12 @@
   download: https://bigota.d.miui.com/OS2.0.1.0.VHYMIXM/fw_spark_global_spark_global-ota_full-OS2.0.1.0.VHYMIXM-user-15.0-a5e6472834.zip
   name: Redmi Pad SE 8.7 4G
   version: OS2.0.1.0.VHYMIXM
+- android: '15.0'
+  codename: spark
+  date: '2025-12-19'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VHYMIXM/fw_spark_spark_global-ota_full-OS2.0.205.0.VHYMIXM-user-15.0-624ef979f7.zip
+  name: Redmi Pad SE 8.7 4G
+  version: OS2.0.205.0.VHYMIXM
 - android: '14.0'
   codename: spark
   date: '2024-08-15'
