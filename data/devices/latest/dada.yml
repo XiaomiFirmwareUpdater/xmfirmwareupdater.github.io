@@ -29,12 +29,12 @@
     android: '16.0'
     miui: OS3.0.6.0.WOCEUXM
 - branch: stable
-  date: '2025-10-31'
+  date: '2025-12-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dada/releases/download/stable-01.11.2025/fw_dada_dada_in_global-ota_full-OS2.0.204.0.VOCINXM-user-15.0-51d5728f95.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dada/fw_dada_dada_in_global-ota_full-OS2.0.204.0.VOCINXM-user-15.0-51d5728f95.zip
-  filename: fw_dada_dada_in_global-ota_full-OS2.0.204.0.VOCINXM-user-15.0-51d5728f95.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dada/releases/download/stable-19.12.2025/fw_dada_dada_in_global-ota_full-OS3.0.3.0.WOCINXM-user-16.0-d9ace569d3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dada/fw_dada_dada_in_global-ota_full-OS3.0.3.0.WOCINXM-user-16.0-d9ace569d3.zip
+  filename: fw_dada_dada_in_global-ota_full-OS3.0.3.0.WOCINXM-user-16.0-d9ace569d3.zip
   region: India
   versions:
-    android: '15.0'
-    miui: OS2.0.204.0.VOCINXM
+    android: '16.0'
+    miui: OS3.0.3.0.WOCINXM
