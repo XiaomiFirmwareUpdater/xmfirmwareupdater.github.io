@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 20 Dec 2025 00:45:20 </lastBuildDate>
+        <lastBuildDate>Sat, 20 Dec 2025 06:48:21 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.207.0.VMRINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
+            <pubDate>Sat, 20 Dec 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.7.0.WPKMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
@@ -1260,11 +1265,6 @@
             <title>Xiaomi 13 (fuxi) - OS2.0.202.0.VMCMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
             <pubDate>Sun, 02 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.206.0.VMRINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Sat, 01 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS2.0.204.0.VOPINXM</title>
