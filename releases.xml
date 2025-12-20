@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 20 Dec 2025 06:48:21 </lastBuildDate>
+        <lastBuildDate>Sat, 20 Dec 2025 12:56:12 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.207.0.VMRINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/marble/</link>
+            <pubDate>Sat, 20 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.1.0.WNKEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Sat, 20 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1139,11 +1144,6 @@
         <item>
             <title>Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) - OS2.0.202.0.VPOINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
-            <pubDate>Wed, 12 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70/POCO F6 Pro (vermeer) - OS2.0.210.0.VNKEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Wed, 12 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
