@@ -52,7 +52,8 @@ permalink: /archive/hyperos/munch/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K40S China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.12.0.ULMCNXM</td><td>14.0</td><td>5.4 GB</td><td>2025-12-12</td><td><a href="/hyperos/munch/stable beta/OS1.0.12.0.ULMCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K40S China</td><td>Stable</td><td>Recovery</td><td>OS1.0.12.0.ULMCNXM</td><td>14.0</td><td>5.4 GB</td><td>2025-12-12</td><td><a href="/hyperos/munch/stable/OS1.0.12.0.ULMCNXM/">Download</a></td></tr>
+<tr><td>Redmi K40S China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.12.0.ULMCNXM</td><td>14.0</td><td>6.2 GB</td><td>2025-12-04</td><td><a href="/hyperos/munch/stable/OS1.0.12.0.ULMCNXM/">Download</a></td></tr>
 <tr><td>POCO F4 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.ULMTWXM</td><td>14.0</td><td>4.5 GB</td><td>2025-05-14</td><td><a href="/hyperos/munch/stable/OS1.0.8.0.ULMTWXM/">Download</a></td></tr>
 <tr><td>POCO F4 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS1.0.8.0.ULMTWXM</td><td>14.0</td><td>5.6 GB</td><td>2025-05-06</td><td><a href="/hyperos/munch/stable/OS1.0.8.0.ULMTWXM/">Download</a></td></tr>
 <tr><td>POCO F4 Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.7.0.ULMTRXM</td><td>14.0</td><td>4.7 GB</td><td>2025-05-07</td><td><a href="/hyperos/munch/stable/OS1.0.7.0.ULMTRXM/">Download</a></td></tr>

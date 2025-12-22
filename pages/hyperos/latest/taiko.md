@@ -65,8 +65,8 @@ permalink: /hyperos/taiko/
 <tr><td>Redmi Pad 2 India</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VOVINXM</td><td>15.0</td><td>4.2 GB</td><td>2025-11-07</td><td><a href="/hyperos/taiko/stable/OS2.0.206.0.VOVINXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VOVRUXM</td><td>15.0</td><td>6.8 GB</td><td>2025-11-19</td><td><a href="/hyperos/taiko/stable/OS2.0.206.0.VOVRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VOVRUXM</td><td>15.0</td><td>4.4 GB</td><td>2025-11-28</td><td><a href="/hyperos/taiko/stable/OS2.0.206.0.VOVRUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad 2 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VOVTRXM</td><td>15.0</td><td>6.0 GB</td><td>2025-11-14</td><td><a href="/hyperos/taiko/stable/OS2.0.205.0.VOVTRXM/">Download</a></td></tr>
-<tr><td>Redmi Pad 2 Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VOVTRXM</td><td>15.0</td><td>4.4 GB</td><td>2025-11-24</td><td><a href="/hyperos/taiko/stable/OS2.0.205.0.VOVTRXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VOVTRXM</td><td>15.0</td><td>6.0 GB</td><td>2025-12-03</td><td><a href="/hyperos/taiko/stable/OS2.0.206.0.VOVTRXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VOVTRXM</td><td>15.0</td><td>4.4 GB</td><td>2025-12-12</td><td><a href="/hyperos/taiko/stable/OS2.0.206.0.VOVTRXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VOVTWXM</td><td>15.0</td><td>5.6 GB</td><td>2025-11-05</td><td><a href="/hyperos/taiko/stable/OS2.0.207.0.VOVTWXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VOVTWXM</td><td>15.0</td><td>4.4 GB</td><td>2025-11-12</td><td><a href="/hyperos/taiko/stable/OS2.0.207.0.VOVTWXM/">Download</a></td></tr>
 
