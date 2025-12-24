@@ -52,8 +52,8 @@ permalink: /archive/hyperos/luming/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Civi 5 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOICNXM</td><td>16.0</td><td>8.3 GB</td><td>2025-10-28</td><td><a href="/hyperos/luming/stable/OS3.0.3.0.WOICNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 5 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOICNXM</td><td>16.0</td><td>10.5 GB</td><td>2025-10-24</td><td><a href="/hyperos/luming/stable/OS3.0.3.0.WOICNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Civi 5 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WOICNXM</td><td>16.0</td><td>8.3 GB</td><td>2025-12-11</td><td><a href="/hyperos/luming/stable/OS3.0.5.0.WOICNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 5 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WOICNXM</td><td>16.0</td><td>10.6 GB</td><td>2025-12-01</td><td><a href="/hyperos/luming/stable/OS3.0.5.0.WOICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 5 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VOICNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-09-28</td><td><a href="/hyperos/luming/stable/OS2.0.205.0.VOICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 5 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VOICNXM</td><td>15.0</td><td>10.1 GB</td><td>2025-09-22</td><td><a href="/hyperos/luming/stable/OS2.0.205.0.VOICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 5 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VOICNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-08-27</td><td><a href="/hyperos/luming/stable/OS2.0.204.0.VOICNXM/">Download</a></td></tr>
@@ -64,6 +64,8 @@ permalink: /archive/hyperos/luming/
 <tr><td>Xiaomi Civi 5 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VOICNXM</td><td>15.0</td><td>9.9 GB</td><td>2025-06-19</td><td><a href="/hyperos/luming/stable/OS2.0.201.0.VOICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 5 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.107.0.VOICNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-06-04</td><td><a href="/hyperos/luming/stable/OS2.0.107.0.VOICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 5 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.107.0.VOICNXM</td><td>15.0</td><td>9.9 GB</td><td>2025-05-28</td><td><a href="/hyperos/luming/stable/OS2.0.107.0.VOICNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 5 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOICNXM</td><td>16.0</td><td>8.3 GB</td><td>2025-10-28</td><td><a href="/hyperos/luming/stable/OS3.0.3.0.WOICNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 5 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOICNXM</td><td>16.0</td><td>10.5 GB</td><td>2025-10-24</td><td><a href="/hyperos/luming/stable/OS3.0.3.0.WOICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 5 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.105.0.VOICNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-05-22</td><td><a href="/hyperos/luming/stable/OS2.0.105.0.VOICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 5 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.105.0.VOICNXM</td><td>15.0</td><td>489 Bytes</td><td>2025-05-22</td><td><a href="/hyperos/luming/stable/OS2.0.105.0.VOICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 5 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.103.0.VOICNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-05-22</td><td><a href="/hyperos/luming/stable beta/OS2.0.103.0.VOICNXM/">Download</a></td></tr>
