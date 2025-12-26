@@ -378,3 +378,163 @@
   versions:
     android: '15.0'
     miui: OS2.0.212.0.VMFEUXM
+- branch: stable
+  date: '2023-02-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_atom/releases/download/stable-16.02.2023/fw_atom_miui_ATOM_V13.0.6.0.SJHCNXM_662576ee26_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/atom/fw_atom_miui_ATOM_V13.0.6.0.SJHCNXM_662576ee26_12.0.zip
+  filename: fw_atom_miui_ATOM_V13.0.6.0.SJHCNXM_662576ee26_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.6.0.SJHCNXM
+- branch: weekly
+  date: '2022-03-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_atom/releases/download/weekly-04.03.2022/fw_atom_miui_ATOM_22.3.2_7c8aa44472_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.2/atom/fw_atom_miui_ATOM_22.3.2_7c8aa44472_11.0.zip
+  filename: fw_atom_miui_ATOM_22.3.2_7c8aa44472_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 22.3.2
+- branch: stable
+  date: '2025-12-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-19.12.2025/fw_aurora_aurora_global-ota_full-OS3.0.4.0.WNAMIXM-user-16.0-2782f8d064.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora_global-ota_full-OS3.0.4.0.WNAMIXM-user-16.0-2782f8d064.zip
+  filename: fw_aurora_aurora_global-ota_full-OS3.0.4.0.WNAMIXM-user-16.0-2782f8d064.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.4.0.WNAMIXM
+- branch: stable
+  date: '2025-11-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-27.11.2025/fw_aurora_aurora-ota_full-OS3.0.4.0.WNACNXM-user-16.0-9ec54459b2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora-ota_full-OS3.0.4.0.WNACNXM-user-16.0-9ec54459b2.zip
+  filename: fw_aurora_aurora-ota_full-OS3.0.4.0.WNACNXM-user-16.0-9ec54459b2.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.4.0.WNACNXM
+- branch: stable
+  date: '2025-11-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-27.11.2025/fw_aurora_aurora_eea_global-ota_full-OS2.0.208.0.VNAEUXM-user-15.0-f56100957c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora_eea_global-ota_full-OS2.0.208.0.VNAEUXM-user-15.0-f56100957c.zip
+  filename: fw_aurora_aurora_eea_global-ota_full-OS2.0.208.0.VNAEUXM-user-15.0-f56100957c.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.208.0.VNAEUXM
+- branch: stable
+  date: '2025-11-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-20.11.2025/fw_aurora_aurora_in_global-ota_full-OS2.0.205.0.VNAINXM-user-15.0-9a0b1c3753.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora_in_global-ota_full-OS2.0.205.0.VNAINXM-user-15.0-9a0b1c3753.zip
+  filename: fw_aurora_aurora_in_global-ota_full-OS2.0.205.0.VNAINXM-user-15.0-9a0b1c3753.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.205.0.VNAINXM
+- branch: stable
+  date: '2025-11-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_babylon/releases/download/stable-19.11.2025/fw_babylon_babylon-ota_full-OS2.0.209.0.VMVCNXM-user-15.0-d94e2a97b3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/babylon/fw_babylon_babylon-ota_full-OS2.0.209.0.VMVCNXM-user-15.0-d94e2a97b3.zip
+  filename: fw_babylon_babylon-ota_full-OS2.0.209.0.VMVCNXM-user-15.0-d94e2a97b3.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.209.0.VMVCNXM
+- branch: stable
+  date: '2022-06-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/stable-19.06.2022/fw_begonia_miui_BEGONIAGlobal_V12.5.8.0.RGGMIXM_db66dbc998_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIAGlobal_V12.5.8.0.RGGMIXM_db66dbc998_11.0.zip
+  filename: fw_begonia_miui_BEGONIAGlobal_V12.5.8.0.RGGMIXM_db66dbc998_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.8.0.RGGMIXM
+- branch: stable
+  date: '2022-06-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/stable-19.06.2022/fw_begonia_miui_BEGONIA_V12.5.6.0.RGGCNXM_ef89538caa_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIA_V12.5.6.0.RGGCNXM_ef89538caa_11.0.zip
+  filename: fw_begonia_miui_BEGONIA_V12.5.6.0.RGGCNXM_ef89538caa_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.6.0.RGGCNXM
+- branch: weekly
+  date: '2021-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/weekly-26.11.2021/fw_begonia_miui_BEGONIA_21.11.24_917b76a6b1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.24/begonia/fw_begonia_miui_BEGONIA_21.11.24_917b76a6b1_11.0.zip
+  filename: fw_begonia_miui_BEGONIA_21.11.24_917b76a6b1_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.11.24
+- branch: stable
+  date: '2022-09-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/stable-26.09.2022/fw_begonia_miui_BEGONIAEEAGlobal_V12.5.15.0.RGGEUXM_cd5652a4c4_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIAEEAGlobal_V12.5.15.0.RGGEUXM_cd5652a4c4_11.0.zip
+  filename: fw_begonia_miui_BEGONIAEEAGlobal_V12.5.15.0.RGGEUXM_cd5652a4c4_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.15.0.RGGEUXM
+- branch: stable
+  date: '2022-07-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begoniain/releases/download/stable-11.07.2022/fw_begoniain_miui_BEGONIAININGlobal_V12.5.10.0.RGGINXM_4716f60949_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begoniain/fw_begoniain_miui_BEGONIAININGlobal_V12.5.10.0.RGGINXM_4716f60949_11.0.zip
+  filename: fw_begoniain_miui_BEGONIAININGlobal_V12.5.10.0.RGGINXM_4716f60949_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.10.0.RGGINXM
+- branch: stable
+  date: '2025-11-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-30.11.2025/fw_beryl_beryl_global-ota_full-OS2.0.208.0.VOQMIXM-user-15.0-60d7e3f876.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/beryl/fw_beryl_beryl_global-ota_full-OS2.0.208.0.VOQMIXM-user-15.0-60d7e3f876.zip
+  filename: fw_beryl_beryl_global-ota_full-OS2.0.208.0.VOQMIXM-user-15.0-60d7e3f876.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.208.0.VOQMIXM
+- branch: stable
+  date: '2025-11-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-27.11.2025/fw_beryl_beryl-ota_full-OS2.0.210.0.VOQCNXM-user-15.0-c790d1482c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/beryl/fw_beryl_beryl-ota_full-OS2.0.210.0.VOQCNXM-user-15.0-c790d1482c.zip
+  filename: fw_beryl_beryl-ota_full-OS2.0.210.0.VOQCNXM-user-15.0-c790d1482c.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.210.0.VOQCNXM
+- branch: stable
+  date: '2025-11-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-30.11.2025/fw_beryl_beryl_eea_global-ota_full-OS2.0.206.0.VOQEUXM-user-15.0-125c1cbb03.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/beryl/fw_beryl_beryl_eea_global-ota_full-OS2.0.206.0.VOQEUXM-user-15.0-125c1cbb03.zip
+  filename: fw_beryl_beryl_eea_global-ota_full-OS2.0.206.0.VOQEUXM-user-15.0-125c1cbb03.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.206.0.VOQEUXM
+- branch: stable
+  date: '2025-12-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-15.12.2025/fw_beryl_beryl_in_global-ota_full-OS3.0.2.0.WOQINXM-user-16.0-b5575b469a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/beryl/fw_beryl_beryl_in_global-ota_full-OS3.0.2.0.WOQINXM-user-16.0-b5575b469a.zip
+  filename: fw_beryl_beryl_in_global-ota_full-OS3.0.2.0.WOQINXM-user-16.0-b5575b469a.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.2.0.WOQINXM
