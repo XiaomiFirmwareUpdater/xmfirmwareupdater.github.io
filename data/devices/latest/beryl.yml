@@ -9,25 +9,25 @@
     android: '15.0'
     miui: OS2.0.208.0.VOQMIXM
 - branch: stable
-  date: '2025-11-27'
+  date: '2025-12-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-27.11.2025/fw_beryl_beryl-ota_full-OS2.0.210.0.VOQCNXM-user-15.0-c790d1482c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/beryl/fw_beryl_beryl-ota_full-OS2.0.210.0.VOQCNXM-user-15.0-c790d1482c.zip
-  filename: fw_beryl_beryl-ota_full-OS2.0.210.0.VOQCNXM-user-15.0-c790d1482c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-26.12.2025/fw_beryl_beryl-ota_full-OS2.0.211.0.VOQCNXM-user-15.0-e5d505b4da.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/beryl/fw_beryl_beryl-ota_full-OS2.0.211.0.VOQCNXM-user-15.0-e5d505b4da.zip
+  filename: fw_beryl_beryl-ota_full-OS2.0.211.0.VOQCNXM-user-15.0-e5d505b4da.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.210.0.VOQCNXM
+    miui: OS2.0.211.0.VOQCNXM
 - branch: stable
-  date: '2025-11-30'
+  date: '2025-12-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-30.11.2025/fw_beryl_beryl_eea_global-ota_full-OS2.0.206.0.VOQEUXM-user-15.0-125c1cbb03.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/beryl/fw_beryl_beryl_eea_global-ota_full-OS2.0.206.0.VOQEUXM-user-15.0-125c1cbb03.zip
-  filename: fw_beryl_beryl_eea_global-ota_full-OS2.0.206.0.VOQEUXM-user-15.0-125c1cbb03.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-26.12.2025/fw_beryl_beryl_eea_global-ota_full-OS2.0.207.0.VOQEUXM-user-15.0-726d40819d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/beryl/fw_beryl_beryl_eea_global-ota_full-OS2.0.207.0.VOQEUXM-user-15.0-726d40819d.zip
+  filename: fw_beryl_beryl_eea_global-ota_full-OS2.0.207.0.VOQEUXM-user-15.0-726d40819d.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.206.0.VOQEUXM
+    miui: OS2.0.207.0.VOQEUXM
 - branch: stable
   date: '2025-12-15'
   downloads:

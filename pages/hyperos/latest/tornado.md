@@ -58,8 +58,8 @@ permalink: /hyperos/tornado/
 <tr><td>Redmi 15C 5G / 15R 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VPOEUXM</td><td>15.0</td><td>5.5 GB</td><td>2025-11-09</td><td><a href="/hyperos/tornado/stable/OS2.0.204.0.VPOEUXM/">Download</a></td></tr>
 <tr><td>Redmi 15C 5G / 15R 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VPOMIXM</td><td>15.0</td><td>8.5 GB</td><td>2025-11-18</td><td><a href="/hyperos/tornado/stable/OS2.0.205.0.VPOMIXM/">Download</a></td></tr>
 <tr><td>Redmi 15C 5G / 15R 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VPOMIXM</td><td>15.0</td><td>5.4 GB</td><td>2025-11-27</td><td><a href="/hyperos/tornado/stable/OS2.0.205.0.VPOMIXM/">Download</a></td></tr>
-<tr><td>Redmi 15C 5G / POCO C85 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VPOINXM</td><td>15.0</td><td>7.2 GB</td><td>2025-10-24</td><td><a href="/hyperos/tornado/stable/OS2.0.202.0.VPOINXM/">Download</a></td></tr>
-<tr><td>Redmi 15C 5G / POCO C85 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VPOINXM</td><td>15.0</td><td>5.2 GB</td><td>2025-11-12</td><td><a href="/hyperos/tornado/stable/OS2.0.202.0.VPOINXM/">Download</a></td></tr>
+<tr><td>Redmi 15C 5G / POCO C85 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VPOINXM</td><td>15.0</td><td>7.2 GB</td><td>2025-12-01</td><td><a href="/hyperos/tornado/stable/OS2.0.203.0.VPOINXM/">Download</a></td></tr>
+<tr><td>Redmi 15C 5G / POCO C85 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VPOINXM</td><td>15.0</td><td>5.2 GB</td><td>2025-12-18</td><td><a href="/hyperos/tornado/stable/OS2.0.203.0.VPOINXM/">Download</a></td></tr>
 <tr><td>Redmi 15C 5G / 15R 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VPOTRXM</td><td>15.0</td><td>7.6 GB</td><td>2025-12-01</td><td><a href="/hyperos/tornado/stable/OS2.0.203.0.VPOTRXM/">Download</a></td></tr>
 <tr><td>Redmi 15C 5G / 15R 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VPOTRXM</td><td>15.0</td><td>5.4 GB</td><td>2025-12-13</td><td><a href="/hyperos/tornado/stable/OS2.0.203.0.VPOTRXM/">Download</a></td></tr>
 

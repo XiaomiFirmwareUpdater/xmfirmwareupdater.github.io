@@ -9,25 +9,25 @@
     android: '15.0'
     miui: OS2.0.206.0.VNSMIXM
 - branch: stable
-  date: '2025-11-30'
+  date: '2025-12-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-30.11.2025/fw_dizi_dizi-ota_full-OS2.0.206.0.VNSCNXM-user-15.0-65a613af90.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dizi/fw_dizi_dizi-ota_full-OS2.0.206.0.VNSCNXM-user-15.0-65a613af90.zip
-  filename: fw_dizi_dizi-ota_full-OS2.0.206.0.VNSCNXM-user-15.0-65a613af90.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-26.12.2025/fw_dizi_dizi-ota_full-OS2.0.207.0.VNSCNXM-user-15.0-db6b50da6d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dizi/fw_dizi_dizi-ota_full-OS2.0.207.0.VNSCNXM-user-15.0-db6b50da6d.zip
+  filename: fw_dizi_dizi-ota_full-OS2.0.207.0.VNSCNXM-user-15.0-db6b50da6d.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.206.0.VNSCNXM
+    miui: OS2.0.207.0.VNSCNXM
 - branch: stable
-  date: '2025-11-27'
+  date: '2025-12-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-27.11.2025/fw_dizi_dizi_eea_global-ota_full-OS2.0.206.0.VNSEUXM-user-15.0-9f3b21914c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dizi/fw_dizi_dizi_eea_global-ota_full-OS2.0.206.0.VNSEUXM-user-15.0-9f3b21914c.zip
-  filename: fw_dizi_dizi_eea_global-ota_full-OS2.0.206.0.VNSEUXM-user-15.0-9f3b21914c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-26.12.2025/fw_dizi_dizi_eea_global-ota_full-OS2.0.207.0.VNSEUXM-user-15.0-29b5cba820.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dizi/fw_dizi_dizi_eea_global-ota_full-OS2.0.207.0.VNSEUXM-user-15.0-29b5cba820.zip
+  filename: fw_dizi_dizi_eea_global-ota_full-OS2.0.207.0.VNSEUXM-user-15.0-29b5cba820.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.206.0.VNSEUXM
+    miui: OS2.0.207.0.VNSEUXM
 - branch: stable
   date: '2025-11-28'
   downloads:

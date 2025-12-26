@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2025-12-11'
+  date: '2025-12-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-11.12.2025/fw_goya_goya_global-ota_full-OS3.0.5.0.WOEMIXM-user-16.0-8404e615cc.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_global-ota_full-OS3.0.5.0.WOEMIXM-user-16.0-8404e615cc.zip
-  filename: fw_goya_goya_global-ota_full-OS3.0.5.0.WOEMIXM-user-16.0-8404e615cc.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-26.12.2025/fw_goya_goya_global-ota_full-OS3.0.6.0.WOEMIXM-user-16.0-79f7c3ea74.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_global-ota_full-OS3.0.6.0.WOEMIXM-user-16.0-79f7c3ea74.zip
+  filename: fw_goya_goya_global-ota_full-OS3.0.6.0.WOEMIXM-user-16.0-79f7c3ea74.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.5.0.WOEMIXM
+    miui: OS3.0.6.0.WOEMIXM
 - branch: stable
-  date: '2025-11-14'
+  date: '2025-12-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-14.11.2025/fw_goya_goya_eea_global-ota_full-OS3.0.4.0.WOEEUXM-user-16.0-d1377fec0c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_eea_global-ota_full-OS3.0.4.0.WOEEUXM-user-16.0-d1377fec0c.zip
-  filename: fw_goya_goya_eea_global-ota_full-OS3.0.4.0.WOEEUXM-user-16.0-d1377fec0c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-26.12.2025/fw_goya_goya_eea_global-ota_full-OS3.0.7.0.WOEEUXM-user-16.0-5e0f675883.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_eea_global-ota_full-OS3.0.7.0.WOEEUXM-user-16.0-5e0f675883.zip
+  filename: fw_goya_goya_eea_global-ota_full-OS3.0.7.0.WOEEUXM-user-16.0-5e0f675883.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.4.0.WOEEUXM
+    miui: OS3.0.7.0.WOEEUXM

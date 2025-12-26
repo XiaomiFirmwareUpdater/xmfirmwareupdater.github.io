@@ -59,14 +59,14 @@ permalink: /hyperos/muyu/
 <tr><td>Xiaomi Pad 7 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WOYEUXM</td><td>16.0</td><td>6.3 GB</td><td>2025-12-11</td><td><a href="/hyperos/muyu/stable/OS3.0.4.0.WOYEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WOYMIXM</td><td>16.0</td><td>8.0 GB</td><td>2025-11-26</td><td><a href="/hyperos/muyu/stable/OS3.0.4.0.WOYMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WOYMIXM</td><td>16.0</td><td>6.3 GB</td><td>2025-12-10</td><td><a href="/hyperos/muyu/stable/OS3.0.4.0.WOYMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VOYTWXM</td><td>15.0</td><td>6.9 GB</td><td>2025-10-14</td><td><a href="/hyperos/muyu/stable/OS2.0.202.0.VOYTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WOYIDXM</td><td>16.0</td><td>7.4 GB</td><td>2025-10-31</td><td><a href="/hyperos/muyu/stable/OS3.0.2.0.WOYIDXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WOYIDXM</td><td>16.0</td><td>6.3 GB</td><td>2025-11-11</td><td><a href="/hyperos/muyu/stable/OS3.0.2.0.WOYIDXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WOYRUXM</td><td>16.0</td><td>8.2 GB</td><td>2025-10-31</td><td><a href="/hyperos/muyu/stable/OS3.0.2.0.WOYRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WOYRUXM</td><td>16.0</td><td>6.2 GB</td><td>2025-11-11</td><td><a href="/hyperos/muyu/stable/OS3.0.2.0.WOYRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WOYTRXM</td><td>16.0</td><td>7.5 GB</td><td>2025-10-31</td><td><a href="/hyperos/muyu/stable/OS3.0.2.0.WOYTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WOYTRXM</td><td>16.0</td><td>6.3 GB</td><td>2025-11-11</td><td><a href="/hyperos/muyu/stable/OS3.0.2.0.WOYTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WOYTWXM</td><td>16.0</td><td>6.2 GB</td><td>2025-11-11</td><td><a href="/hyperos/muyu/stable/OS3.0.2.0.WOYTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOYIDXM</td><td>16.0</td><td>7.5 GB</td><td>2025-11-26</td><td><a href="/hyperos/muyu/stable/OS3.0.3.0.WOYIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOYIDXM</td><td>16.0</td><td>6.3 GB</td><td>2025-12-17</td><td><a href="/hyperos/muyu/stable/OS3.0.3.0.WOYIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOYRUXM</td><td>16.0</td><td>8.3 GB</td><td>2025-11-27</td><td><a href="/hyperos/muyu/stable/OS3.0.3.0.WOYRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOYRUXM</td><td>16.0</td><td>6.2 GB</td><td>2025-12-17</td><td><a href="/hyperos/muyu/stable/OS3.0.3.0.WOYRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOYTRXM</td><td>16.0</td><td>7.5 GB</td><td>2025-11-26</td><td><a href="/hyperos/muyu/stable/OS3.0.3.0.WOYTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOYTRXM</td><td>16.0</td><td>6.3 GB</td><td>2025-12-17</td><td><a href="/hyperos/muyu/stable/OS3.0.3.0.WOYTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOYTWXM</td><td>16.0</td><td>7.1 GB</td><td>2025-11-27</td><td><a href="/hyperos/muyu/stable/OS3.0.3.0.WOYTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOYTWXM</td><td>16.0</td><td>6.2 GB</td><td>2025-12-17</td><td><a href="/hyperos/muyu/stable/OS3.0.3.0.WOYTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

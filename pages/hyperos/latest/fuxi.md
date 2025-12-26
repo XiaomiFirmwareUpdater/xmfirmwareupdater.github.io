@@ -56,8 +56,8 @@ permalink: /hyperos/fuxi/
 <tr><td>Xiaomi 13 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.215.0.VMCCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-11-02</td><td><a href="/hyperos/fuxi/stable/OS2.0.215.0.VMCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>6.4 GB</td><td>2024-01-12</td><td><a href="/hyperos/fuxi/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 13 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.UMCCNXM</td><td>14.0</td><td>6.4 GB</td><td>2023-12-23</td><td><a href="/hyperos/fuxi/stable beta/OS1.0.5.0.UMCCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VMCEUXM</td><td>15.0</td><td>7.8 GB</td><td>2025-11-03</td><td><a href="/hyperos/fuxi/stable/OS2.0.204.0.VMCEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VMCEUXM</td><td>15.0</td><td>6.3 GB</td><td>2025-11-14</td><td><a href="/hyperos/fuxi/stable/OS2.0.204.0.VMCEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VMCEUXM</td><td>15.0</td><td>7.8 GB</td><td>2025-12-03</td><td><a href="/hyperos/fuxi/stable/OS2.0.205.0.VMCEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VMCEUXM</td><td>15.0</td><td>6.3 GB</td><td>2025-12-15</td><td><a href="/hyperos/fuxi/stable/OS2.0.205.0.VMCEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VMCMIXM</td><td>15.0</td><td>7.8 GB</td><td>2025-11-26</td><td><a href="/hyperos/fuxi/stable/OS2.0.203.0.VMCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VMCMIXM</td><td>15.0</td><td>6.1 GB</td><td>2025-12-12</td><td><a href="/hyperos/fuxi/stable/OS2.0.203.0.VMCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VMCRUXM</td><td>15.0</td><td>7.7 GB</td><td>2025-12-03</td><td><a href="/hyperos/fuxi/stable/OS2.0.203.0.VMCRUXM/">Download</a></td></tr>
