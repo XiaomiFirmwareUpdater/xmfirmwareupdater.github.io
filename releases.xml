@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 27 Dec 2025 06:58:28 </lastBuildDate>
+        <lastBuildDate>Sat, 27 Dec 2025 13:53:23 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 17 Ultra (nezha) - OS3.0.7.0.WPACNXM</title>
@@ -87,6 +87,11 @@
             <pubDate>Sat, 27 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Note 12S (sea) - OS2.0.208.0.VHZMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sea/</link>
+            <pubDate>Sat, 27 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 12S (sea) - OS2.0.207.0.VHZEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sea/</link>
             <pubDate>Sat, 27 Dec 2025 00:00:00 </pubDate>
@@ -112,6 +117,11 @@
             <pubDate>Sat, 27 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 11T Pro (vili) - OS1.0.27.0.UKDEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/vili/</link>
+            <pubDate>Sat, 27 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.42.0.TGOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/water/</link>
             <pubDate>Sat, 27 Dec 2025 00:00:00 </pubDate>
@@ -119,6 +129,11 @@
         <item>
             <title>Xiaomi Pad 6 Max 14 (yudi) - OS2.0.211.0.VMHCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/yudi/</link>
+            <pubDate>Sat, 27 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - OS2.0.207.0.VLBMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Sat, 27 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -882,11 +897,6 @@
             <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12S (sea) - OS2.0.207.0.VHZMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sea/</link>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS2.0.210.0.VNXMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
             <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
@@ -1079,11 +1089,6 @@
         <item>
             <title>Xiaomi Pad 7 Pro (muyu) - OS3.0.4.0.WOYCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
-            <pubDate>Thu, 20 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Pro (zeus) - OS2.0.206.0.VLBMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Thu, 20 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1365,11 +1370,6 @@
             <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS2.0.204.0.VOUCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spring/</link>
             <pubDate>Tue, 21 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 11T Pro (vili) - OS1.0.26.0.UKDEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/vili/</link>
-            <pubDate>Mon, 20 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi A5/POCO C71 (serenity) - A15.0.12.0.VGWINXM</title>

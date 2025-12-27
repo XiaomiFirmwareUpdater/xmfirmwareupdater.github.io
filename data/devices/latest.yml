@@ -5649,15 +5649,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2025-11-28'
+  date: '2025-12-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-28.11.2025/fw_sea_sea_global-ota_full-OS2.0.207.0.VHZMIXM-user-15.0-b13817eb70.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sea/fw_sea_sea_global-ota_full-OS2.0.207.0.VHZMIXM-user-15.0-b13817eb70.zip
-  filename: fw_sea_sea_global-ota_full-OS2.0.207.0.VHZMIXM-user-15.0-b13817eb70.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-27.12.2025/fw_sea_sea_global-ota_full-OS2.0.208.0.VHZMIXM-user-15.0-3692449219.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sea/fw_sea_sea_global-ota_full-OS2.0.208.0.VHZMIXM-user-15.0-3692449219.zip
+  filename: fw_sea_sea_global-ota_full-OS2.0.208.0.VHZMIXM-user-15.0-3692449219.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.207.0.VHZMIXM
+    miui: OS2.0.208.0.VHZMIXM
 - branch: stable
   date: '2025-12-27'
   downloads:
@@ -6829,15 +6829,15 @@
     android: '14.0'
     miui: OS1.0.22.0.UKDMIXM
 - branch: stable
-  date: '2025-10-20'
+  date: '2025-12-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-21.10.2025/fw_vili_miui_VILIEEAGlobal_OS1.0.26.0.UKDEUXM_2550c1923b_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vili/fw_vili_miui_VILIEEAGlobal_OS1.0.26.0.UKDEUXM_2550c1923b_14.0.zip
-  filename: fw_vili_miui_VILIEEAGlobal_OS1.0.26.0.UKDEUXM_2550c1923b_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-27.12.2025/fw_vili_miui_VILIEEAGlobal_OS1.0.27.0.UKDEUXM_8ba52acb32_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vili/fw_vili_miui_VILIEEAGlobal_OS1.0.27.0.UKDEUXM_8ba52acb32_14.0.zip
+  filename: fw_vili_miui_VILIEEAGlobal_OS1.0.27.0.UKDEUXM_8ba52acb32_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.26.0.UKDEUXM
+    miui: OS1.0.27.0.UKDEUXM
 - branch: stable
   date: '2025-11-11'
   downloads:
@@ -7299,15 +7299,15 @@
     android: '16.0'
     miui: OS3.0.9.0.WPZCNXM
 - branch: stable
-  date: '2025-11-20'
+  date: '2025-12-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-20.11.2025/fw_zeus_zeus_global-ota_full-OS2.0.206.0.VLBMIXM-user-15.0-b7dc0111a1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_zeus_global-ota_full-OS2.0.206.0.VLBMIXM-user-15.0-b7dc0111a1.zip
-  filename: fw_zeus_zeus_global-ota_full-OS2.0.206.0.VLBMIXM-user-15.0-b7dc0111a1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-27.12.2025/fw_zeus_zeus_global-ota_full-OS2.0.207.0.VLBMIXM-user-15.0-b01961a601.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_zeus_global-ota_full-OS2.0.207.0.VLBMIXM-user-15.0-b01961a601.zip
+  filename: fw_zeus_zeus_global-ota_full-OS2.0.207.0.VLBMIXM-user-15.0-b01961a601.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.206.0.VLBMIXM
+    miui: OS2.0.207.0.VLBMIXM
 - branch: stable
   date: '2025-12-08'
   downloads:

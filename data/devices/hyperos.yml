@@ -17794,6 +17794,12 @@
   download: https://bigota.d.miui.com/OS2.0.207.0.VHZEUXM/fw_sea_sea_eea_global-ota_full-OS2.0.207.0.VHZEUXM-user-15.0-377c9a31ed.zip
   name: Redmi Note 12S
   version: OS2.0.207.0.VHZEUXM
+- android: '15.0'
+  codename: sea
+  date: '2025-12-27'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VHZMIXM/fw_sea_sea_global-ota_full-OS2.0.208.0.VHZMIXM-user-15.0-3692449219.zip
+  name: Redmi Note 12S
+  version: OS2.0.208.0.VHZMIXM
 - android: '14.0'
   codename: sea
   date: '2025-01-26'
@@ -21582,6 +21588,12 @@
   version: OS1.0.16.0.UKDEUXM
 - android: '14.0'
   codename: vili
+  date: '2025-12-27'
+  download: https://bigota.d.miui.com/OS1.0.27.0.UKDEUXM/fw_vili_miui_VILIEEAGlobal_OS1.0.27.0.UKDEUXM_8ba52acb32_14.0.zip
+  name: Xiaomi 11T Pro
+  version: OS1.0.27.0.UKDEUXM
+- android: '14.0'
+  codename: vili
   date: '2025-08-25'
   download: https://bigota.d.miui.com/OS1.0.19.0.UKDINXM/fw_vili_miui_VILIINGlobal_OS1.0.19.0.UKDINXM_30e92cdf40_14.0.zip
   name: Xiaomi 11T Pro
@@ -23188,6 +23200,12 @@
   download: https://bigota.d.miui.com/OS2.0.6.0.VLBCNXM/fw_zeus_zeus-ota_full-OS2.0.6.0.VLBCNXM-user-15.0-36e7efc9b1.zip
   name: Xiaomi 12 Pro
   version: OS2.0.6.0.VLBCNXM
+- android: '15.0'
+  codename: zeus
+  date: '2025-12-27'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VLBMIXM/fw_zeus_zeus_global-ota_full-OS2.0.207.0.VLBMIXM-user-15.0-b01961a601.zip
+  name: Xiaomi 12 Pro
+  version: OS2.0.207.0.VLBMIXM
 - android: '15.0'
   codename: zeus
   date: '2025-10-27'
