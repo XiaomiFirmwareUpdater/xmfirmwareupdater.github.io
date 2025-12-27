@@ -9,25 +9,25 @@
     android: '15.0'
     miui: OS2.0.204.0.VOLMIXM
 - branch: stable
-  date: '2025-12-19'
+  date: '2025-12-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-19.12.2025/fw_onyx_onyx-ota_full-OS3.0.7.0.WOLCNXM-user-16.0-b0681ef565.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/onyx/fw_onyx_onyx-ota_full-OS3.0.7.0.WOLCNXM-user-16.0-b0681ef565.zip
-  filename: fw_onyx_onyx-ota_full-OS3.0.7.0.WOLCNXM-user-16.0-b0681ef565.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-27.12.2025/fw_onyx_onyx-ota_full-OS3.0.9.0.WOLCNXM-user-16.0-f4c52ba5dd.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/onyx/fw_onyx_onyx-ota_full-OS3.0.9.0.WOLCNXM-user-16.0-f4c52ba5dd.zip
+  filename: fw_onyx_onyx-ota_full-OS3.0.9.0.WOLCNXM-user-16.0-f4c52ba5dd.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.7.0.WOLCNXM
+    miui: OS3.0.9.0.WOLCNXM
 - branch: stable
-  date: '2025-11-28'
+  date: '2025-12-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-28.11.2025/fw_onyx_onyx_eea_global-ota_full-OS2.0.208.0.VOLEUXM-user-15.0-be902b0d5a.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/onyx/fw_onyx_onyx_eea_global-ota_full-OS2.0.208.0.VOLEUXM-user-15.0-be902b0d5a.zip
-  filename: fw_onyx_onyx_eea_global-ota_full-OS2.0.208.0.VOLEUXM-user-15.0-be902b0d5a.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-27.12.2025/fw_onyx_onyx_eea_global-ota_full-OS3.0.2.0.WOLEUXM-user-16.0-d8d7573ff3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/onyx/fw_onyx_onyx_eea_global-ota_full-OS3.0.2.0.WOLEUXM-user-16.0-d8d7573ff3.zip
+  filename: fw_onyx_onyx_eea_global-ota_full-OS3.0.2.0.WOLEUXM-user-16.0-d8d7573ff3.zip
   region: Europe
   versions:
-    android: '15.0'
-    miui: OS2.0.208.0.VOLEUXM
+    android: '16.0'
+    miui: OS3.0.2.0.WOLEUXM
 - branch: stable
   date: '2025-10-31'
   downloads:

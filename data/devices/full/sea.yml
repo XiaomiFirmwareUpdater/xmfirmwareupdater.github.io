@@ -119,6 +119,16 @@
     android: '15.0'
     miui: OS2.0.202.0.VHZMIXM
 - branch: stable
+  date: '2025-12-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-27.12.2025/fw_sea_sea_eea_global-ota_full-OS2.0.207.0.VHZEUXM-user-15.0-377c9a31ed.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sea/fw_sea_sea_eea_global-ota_full-OS2.0.207.0.VHZEUXM-user-15.0-377c9a31ed.zip
+  filename: fw_sea_sea_eea_global-ota_full-OS2.0.207.0.VHZEUXM-user-15.0-377c9a31ed.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.207.0.VHZEUXM
+- branch: stable
   date: '2025-01-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-26.01.2025/fw_sea_miui_SEAEEAGlobal_OS1.0.13.0.UHZEUXM_fcbe2a1381_14.0.zip
