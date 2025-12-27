@@ -4080,6 +4080,12 @@
   version: OS2.0.203.0.VNSCNXM
 - android: '15.0'
   codename: dizi
+  date: '2025-12-27'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VNSINXM/fw_dizi_dizi_in_global-ota_full-OS2.0.206.0.VNSINXM-user-15.0-331d48ea79.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS2.0.206.0.VNSINXM
+- android: '15.0'
+  codename: dizi
   date: '2025-11-27'
   download: https://bigota.d.miui.com/OS2.0.206.0.VNSEUXM/fw_dizi_dizi_eea_global-ota_full-OS2.0.206.0.VNSEUXM-user-15.0-9f3b21914c.zip
   name: Redmi Pad Pro/POCO Pad
@@ -19102,6 +19108,12 @@
   download: https://bigota.d.miui.com/OS2.0.205.0.VOUMIXM/fw_spring_spring_global-ota_full-OS2.0.205.0.VOUMIXM-user-15.0-b652ad01b1.zip
   name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
   version: OS2.0.205.0.VOUMIXM
+- android: '15.0'
+  codename: spring
+  date: '2025-12-27'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VOUINXM/fw_spring_spring_in_global-ota_full-OS2.0.207.0.VOUINXM-user-15.0-2808147b7b.zip
+  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  version: OS2.0.207.0.VOUINXM
 - android: '15.0'
   codename: spring
   date: '2025-08-27'
