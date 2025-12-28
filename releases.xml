@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 28 Dec 2025 00:40:10 </lastBuildDate>
+        <lastBuildDate>Sun, 28 Dec 2025 06:48:20 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.3.0.WOPCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
+            <pubDate>Sun, 28 Dec 2025 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS2.0.206.0.VNSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
@@ -820,11 +825,6 @@
             <title>Redmi K Pad/Xiaomi Pad Mini (turner) - OS3.0.4.0.WAOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/turner/</link>
             <pubDate>Sat, 29 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS2.0.211.0.VOPCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS2.0.204.0.VLFEUXM</title>
