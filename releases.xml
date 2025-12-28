@@ -4,11 +4,26 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 28 Dec 2025 06:48:20 </lastBuildDate>
+        <lastBuildDate>Sun, 28 Dec 2025 14:26:11 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.3.0.WOPCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
+            <pubDate>Sun, 28 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Ultra (ishtar) - OS2.0.210.0.VMAMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
+            <pubDate>Sun, 28 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS3.0.3.0.WOJCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
+            <pubDate>Sun, 28 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro+ 5G (zircon) - OS3.0.5.0.WNOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Sun, 28 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -967,11 +982,6 @@
             <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.209.0.VNOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS2.0.203.0.VLLMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
@@ -1187,11 +1197,6 @@
             <pubDate>Fri, 14 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13 Ultra (ishtar) - OS2.0.208.0.VMAMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
-            <pubDate>Fri, 14 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS2.0.204.0.VMAEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
             <pubDate>Fri, 14 Nov 2025 00:00:00 </pubDate>
@@ -1289,11 +1294,6 @@
         <item>
             <title>MIX Flip 2 (bixi) - OS3.0.3.0.WOHCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/bixi/</link>
-            <pubDate>Tue, 04 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS3.0.2.0.WOJCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
             <pubDate>Tue, 04 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
