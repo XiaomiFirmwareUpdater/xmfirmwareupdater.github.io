@@ -16764,6 +16764,12 @@
   version: OS1.0.1.0.UMOMIXM
 - android: '14.0'
   codename: ruby
+  date: '2025-12-28'
+  download: https://bigota.d.miui.com/OS2.0.9.0.UMOINXM/fw_ruby_ruby_in_global-ota_full-OS2.0.9.0.UMOINXM-user-14.0-07fc0a8b7a.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS2.0.9.0.UMOINXM
+- android: '14.0'
+  codename: ruby
   date: '2025-10-28'
   download: https://bigota.d.miui.com/OS2.0.8.0.UMOMIXM/fw_ruby_ruby_global-ota_full-OS2.0.8.0.UMOMIXM-user-14.0-44e9870be1.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
@@ -20118,6 +20124,12 @@
   version: OS2.0.2.0.VMTINXM
 - android: '15.0'
   codename: tapas
+  date: '2025-12-28'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VMTINXM/fw_tapas_tapas_in_global-ota_full-OS2.0.203.0.VMTINXM-user-15.0-589afd278e.zip
+  name: Redmi Note 12 4G
+  version: OS2.0.203.0.VMTINXM
+- android: '15.0'
+  codename: tapas
   date: '2025-08-27'
   download: https://bigota.d.miui.com/OS2.0.201.0.VMTMIXM/fw_tapas_global_tapas_global-ota_full-OS2.0.201.0.VMTMIXM-user-15.0-c08dcb7391.zip
   name: Redmi Note 12 4G
@@ -20368,6 +20380,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UMGEUXM/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.12.0.UMGEUXM_6efa89b0fb_14.0.zip
   name: Redmi Note 12 4G NFC
   version: OS1.0.12.0.UMGEUXM
+- android: '15.0'
+  codename: topaz
+  date: '2025-12-28'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VMGEUXM/fw_topaz_topaz_eea_global-ota_full-OS2.0.206.0.VMGEUXM-user-15.0-462abf2162.zip
+  name: Redmi Note 12 4G NFC
+  version: OS2.0.206.0.VMGEUXM
 - android: '15.0'
   codename: topaz
   date: '2025-11-28'
@@ -22510,6 +22528,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UMUMIXM/fw_xun_miui_XUNGlobal_OS1.0.1.0.UMUMIXM_a627c20c99_14.0.zip
   name: Redmi Pad SE
   version: OS1.0.1.0.UMUMIXM
+- android: '15.0'
+  codename: xun
+  date: '2025-12-28'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VMUMIXM/fw_xun_xun_global-ota_full-OS2.0.206.0.VMUMIXM-user-15.0-79f9c5d06c.zip
+  name: Redmi Pad SE
+  version: OS2.0.206.0.VMUMIXM
 - android: '15.0'
   codename: xun
   date: '2025-11-28'
