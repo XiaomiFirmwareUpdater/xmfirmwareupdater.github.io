@@ -9,15 +9,15 @@
     android: '15.0'
     miui: OS2.0.210.0.VNXMIXM
 - branch: stable
-  date: '2025-11-28'
+  date: '2025-12-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sheng/releases/download/stable-28.11.2025/fw_sheng_sheng-ota_full-OS3.0.3.0.WNXCNXM-user-16.0-26e1a7b1c3.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/sheng/fw_sheng_sheng-ota_full-OS3.0.3.0.WNXCNXM-user-16.0-26e1a7b1c3.zip
-  filename: fw_sheng_sheng-ota_full-OS3.0.3.0.WNXCNXM-user-16.0-26e1a7b1c3.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sheng/releases/download/stable-29.12.2025/fw_sheng_sheng-ota_full-OS3.0.5.0.WNXCNXM-user-16.0-bbd338bb89.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/sheng/fw_sheng_sheng-ota_full-OS3.0.5.0.WNXCNXM-user-16.0-bbd338bb89.zip
+  filename: fw_sheng_sheng-ota_full-OS3.0.5.0.WNXCNXM-user-16.0-bbd338bb89.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.3.0.WNXCNXM
+    miui: OS3.0.5.0.WNXCNXM
 - branch: stable
   date: '2025-12-17'
   downloads:

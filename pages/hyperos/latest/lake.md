@@ -52,8 +52,8 @@ permalink: /hyperos/lake/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VGTEUXM</td><td>15.0</td><td>7.0 GB</td><td>2025-10-11</td><td><a href="/hyperos/lake/stable/OS2.0.204.0.VGTEUXM/">Download</a></td></tr>
-<tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VGTEUXM</td><td>15.0</td><td>4.7 GB</td><td>2025-10-20</td><td><a href="/hyperos/lake/stable/OS2.0.204.0.VGTEUXM/">Download</a></td></tr>
+                <tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VGTEUXM</td><td>15.0</td><td>6.9 GB</td><td>2025-12-03</td><td><a href="/hyperos/lake/stable/OS2.0.205.0.VGTEUXM/">Download</a></td></tr>
+<tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VGTEUXM</td><td>15.0</td><td>4.7 GB</td><td>2025-12-17</td><td><a href="/hyperos/lake/stable/OS2.0.205.0.VGTEUXM/">Download</a></td></tr>
 <tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VGTMIXM</td><td>15.0</td><td>7.7 GB</td><td>2025-10-17</td><td><a href="/hyperos/lake/stable/OS2.0.203.0.VGTMIXM/">Download</a></td></tr>
 <tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VGTMIXM</td><td>15.0</td><td>4.6 GB</td><td>2025-10-28</td><td><a href="/hyperos/lake/stable/OS2.0.203.0.VGTMIXM/">Download</a></td></tr>
 <tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UGTMIXM</td><td>14.0</td><td>4.2 GB</td><td>2024-09-02</td><td><a href="/hyperos/lake/stable beta/OS1.0.1.0.UGTMIXM/">Download</a></td></tr>
