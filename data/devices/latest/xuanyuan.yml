@@ -19,15 +19,15 @@
     android: '16.0'
     miui: OS3.0.6.0.WOACNXM
 - branch: stable
-  date: '2025-11-03'
+  date: '2025-12-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xuanyuan/releases/download/stable-03.11.2025/fw_xuanyuan_xuanyuan_eea_global-ota_full-OS2.0.207.0.VOAEUXM-user-15.0-1b794a5277.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xuanyuan/fw_xuanyuan_xuanyuan_eea_global-ota_full-OS2.0.207.0.VOAEUXM-user-15.0-1b794a5277.zip
-  filename: fw_xuanyuan_xuanyuan_eea_global-ota_full-OS2.0.207.0.VOAEUXM-user-15.0-1b794a5277.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xuanyuan/releases/download/stable-29.12.2025/fw_xuanyuan_xuanyuan_eea_global-ota_full-OS3.0.5.0.WOAEUXM-user-16.0-2d97b931d4.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/xuanyuan/fw_xuanyuan_xuanyuan_eea_global-ota_full-OS3.0.5.0.WOAEUXM-user-16.0-2d97b931d4.zip
+  filename: fw_xuanyuan_xuanyuan_eea_global-ota_full-OS3.0.5.0.WOAEUXM-user-16.0-2d97b931d4.zip
   region: Europe
   versions:
-    android: '15.0'
-    miui: OS2.0.207.0.VOAEUXM
+    android: '16.0'
+    miui: OS3.0.5.0.WOAEUXM
 - branch: stable
   date: '2025-12-09'
   downloads:

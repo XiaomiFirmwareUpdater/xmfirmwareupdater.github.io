@@ -62,14 +62,14 @@ permalink: /hyperos/aurora/
 <tr><td>Xiaomi 14 Ultra Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VNAMIXM</td><td>15.0</td><td>7.1 GB</td><td>2025-11-11</td><td><a href="/hyperos/aurora/stable/OS2.0.207.0.VNAMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UNAMIXM</td><td>14.0</td><td>6.5 GB</td><td>2024-03-14</td><td><a href="/hyperos/aurora/stable beta/OS1.0.1.0.UNAMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VNAINXM</td><td>15.0</td><td>7.5 GB</td><td>2025-11-05</td><td><a href="/hyperos/aurora/stable/OS2.0.205.0.VNAINXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14 Ultra India</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VNAINXM</td><td>15.0</td><td>6.9 GB</td><td>2025-11-11</td><td><a href="/hyperos/aurora/stable/OS2.0.205.0.VNAINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VNARUXM</td><td>15.0</td><td>9.3 GB</td><td>2025-11-05</td><td><a href="/hyperos/aurora/stable/OS2.0.205.0.VNARUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VNARUXM</td><td>15.0</td><td>7.0 GB</td><td>2025-11-14</td><td><a href="/hyperos/aurora/stable/OS2.0.205.0.VNARUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VNATRXM</td><td>15.0</td><td>8.6 GB</td><td>2025-11-06</td><td><a href="/hyperos/aurora/stable/OS2.0.205.0.VNATRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VNATRXM</td><td>15.0</td><td>7.1 GB</td><td>2025-11-14</td><td><a href="/hyperos/aurora/stable/OS2.0.205.0.VNATRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VNATWXM</td><td>15.0</td><td>7.9 GB</td><td>2025-11-05</td><td><a href="/hyperos/aurora/stable/OS2.0.205.0.VNATWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Ultra Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VNATWXM</td><td>15.0</td><td>6.9 GB</td><td>2025-11-14</td><td><a href="/hyperos/aurora/stable/OS2.0.205.0.VNATWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UNATWXM</td><td>14.0</td><td>6.4 GB</td><td>2024-05-13</td><td><a href="/hyperos/aurora/stable beta/OS1.0.4.0.UNATWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14 Ultra Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WNATWXM</td><td>16.0</td><td>7.0 GB</td><td>2025-12-20</td><td><a href="/hyperos/aurora/stable/OS3.0.1.0.WNATWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Ultra India</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WNAINXM</td><td>16.0</td><td>6.9 GB</td><td>2025-12-23</td><td><a href="/hyperos/aurora/stable/OS3.0.3.0.WNAINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

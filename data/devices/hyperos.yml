@@ -2310,6 +2310,12 @@
   version: OS2.0.201.0.VMLMIXM
 - android: '15.0'
   codename: corot
+  date: '2025-12-29'
+  download: https://bigota.d.miui.com/OS2.0.210.0.VMLEUXM/fw_corot_corot_eea_global-ota_full-OS2.0.210.0.VMLEUXM-user-15.0-4aa4ea095f.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS2.0.210.0.VMLEUXM
+- android: '15.0'
+  codename: corot
   date: '2025-11-29'
   download: https://bigota.d.miui.com/OS2.0.211.0.VMLCNXM/fw_corot_corot-ota_full-OS2.0.211.0.VMLCNXM-user-15.0-b7b835acbb.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
