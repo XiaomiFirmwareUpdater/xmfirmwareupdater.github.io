@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 29 Dec 2025 07:10:03 </lastBuildDate>
+        <lastBuildDate>Mon, 29 Dec 2025 13:23:43 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS3.0.3.0.WNAINXM</title>
@@ -14,6 +14,21 @@
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.210.0.VMLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/corot/</link>
+            <pubDate>Mon, 29 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K80 Ultra (dali) - OS3.0.5.0.WONCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dali/</link>
+            <pubDate>Mon, 29 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS2.0.206.0.VLFEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/diting/</link>
+            <pubDate>Mon, 29 Dec 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 (houji) - OS3.0.5.0.WNCEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/houji/</link>
             <pubDate>Mon, 29 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -892,11 +907,6 @@
             <pubDate>Sat, 29 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS2.0.204.0.VLFEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/diting/</link>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 13C/POCO C65 (gale) - OS2.0.204.0.VGPMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gale/</link>
             <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
@@ -1062,11 +1072,6 @@
             <pubDate>Thu, 27 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K80 Ultra (dali) - OS3.0.4.0.WONCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dali/</link>
-            <pubDate>Thu, 27 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.208.0.VNLINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Thu, 27 Nov 2025 00:00:00 </pubDate>
@@ -1104,11 +1109,6 @@
         <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS2.0.206.0.VNQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gold/</link>
-            <pubDate>Thu, 27 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 (houji) - OS2.0.111.0.VNCEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/houji/</link>
             <pubDate>Thu, 27 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
