@@ -60,8 +60,8 @@ permalink: /hyperos/ziyi/
 <tr><td>Xiaomi Civi 2 / 13 Lite Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VLLMIXM</td><td>15.0</td><td>5.6 GB</td><td>2025-11-17</td><td><a href="/hyperos/ziyi/stable/OS2.0.203.0.VLLMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VLLRUXM</td><td>15.0</td><td>7.1 GB</td><td>2025-12-15</td><td><a href="/hyperos/ziyi/stable/OS2.0.205.0.VLLRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VLLRUXM</td><td>15.0</td><td>5.7 GB</td><td>2025-12-19</td><td><a href="/hyperos/ziyi/stable/OS2.0.205.0.VLLRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Lite Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VLLTRXM</td><td>15.0</td><td>6.9 GB</td><td>2025-11-07</td><td><a href="/hyperos/ziyi/stable/OS2.0.203.0.VLLTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Lite Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VLLTRXM</td><td>15.0</td><td>5.6 GB</td><td>2025-11-17</td><td><a href="/hyperos/ziyi/stable/OS2.0.203.0.VLLTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Lite Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VLLTRXM</td><td>15.0</td><td>7.0 GB</td><td>2025-12-15</td><td><a href="/hyperos/ziyi/stable/OS2.0.205.0.VLLTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Lite Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VLLTRXM</td><td>15.0</td><td>5.7 GB</td><td>2025-12-23</td><td><a href="/hyperos/ziyi/stable/OS2.0.205.0.VLLTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VLLTWXM</td><td>15.0</td><td>6.9 GB</td><td>2025-12-15</td><td><a href="/hyperos/ziyi/stable/OS2.0.205.0.VLLTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VLLTWXM</td><td>15.0</td><td>5.6 GB</td><td>2025-12-22</td><td><a href="/hyperos/ziyi/stable/OS2.0.205.0.VLLTWXM/">Download</a></td></tr>
 

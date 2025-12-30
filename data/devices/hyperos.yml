@@ -756,6 +756,12 @@
   version: OS1.0.2.0.TKJINXM
 - android: '15.0'
   codename: aristotle
+  date: '2025-12-30'
+  download: https://bigota.d.miui.com/OS2.0.212.0.VMFMIXM/fw_aristotle_aristotle_global-ota_full-OS2.0.212.0.VMFMIXM-user-15.0-c0a55fca7d.zip
+  name: Xiaomi 13T
+  version: OS2.0.212.0.VMFMIXM
+- android: '15.0'
+  codename: aristotle
   date: '2025-05-28'
   download: https://bigota.d.miui.com/OS2.0.104.0.VMFMIXM/fw_aristotle_global_aristotle_global-ota_full-OS2.0.104.0.VMFMIXM-user-15.0-a8ddeac0e7.zip
   name: Xiaomi 13T
@@ -11520,6 +11526,12 @@
   version: OS2.0.8.0.VMNMIXM
 - android: '15.0'
   codename: mondrian
+  date: '2025-12-30'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VMNEUXM/fw_mondrian_mondrian_eea_global-ota_full-OS2.0.208.0.VMNEUXM-user-15.0-18d6c77543.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS2.0.208.0.VMNEUXM
+- android: '15.0'
+  codename: mondrian
   date: '2025-09-30'
   download: https://bigota.d.miui.com/OS2.0.204.0.VMNEUXM/fw_mondrian_eea_global_mondrian_eea_global-ota_full-OS2.0.204.0.VMNEUXM-user-15.0-cdc9d81b0d.zip
   name: Redmi K60/POCO F5 Pro
@@ -13764,6 +13776,12 @@
   version: OS2.0.204.0.VNPMIXM
 - android: '15.0'
   codename: peridot
+  date: '2025-12-30'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VNPINXM/fw_peridot_peridot_in_global-ota_full-OS2.0.207.0.VNPINXM-user-15.0-6e1ba887cc.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS2.0.207.0.VNPINXM
+- android: '15.0'
+  codename: peridot
   date: '2025-10-30'
   download: https://bigota.d.miui.com/OS2.0.206.0.VNPMIXM/fw_peridot_peridot_global-ota_full-OS2.0.206.0.VNPMIXM-user-15.0-a3cdb89640.zip
   name: Redmi Turbo 3/POCO F6
@@ -14212,6 +14230,12 @@
   download: https://bigota.d.miui.com/OS2.0.16.0.UMZCNXM/fw_pipa_pipa-ota_full-OS2.0.16.0.UMZCNXM-user-14.0-53795f260f.zip
   name: Xiaomi Pad 6
   version: OS2.0.16.0.UMZCNXM
+- android: '14.0'
+  codename: pipa
+  date: '2025-12-30'
+  download: https://bigota.d.miui.com/OS2.0.12.0.UMZMIXM/fw_pipa_pipa_global-ota_full-OS2.0.12.0.UMZMIXM-user-14.0-8fcacb8b31.zip
+  name: Xiaomi Pad 6
+  version: OS2.0.12.0.UMZMIXM
 - android: '14.0'
   codename: pipa
   date: '2025-11-30'

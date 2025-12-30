@@ -359,15 +359,15 @@
     android: '13.0'
     miui: OS1.0.2.0.TKJINXM
 - branch: stable
-  date: '2025-12-15'
+  date: '2025-12-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aristotle/releases/download/stable-15.12.2025/fw_aristotle_aristotle_global-ota_full-OS2.0.211.0.VMFMIXM-user-15.0-cd7fb8cd86.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aristotle/fw_aristotle_aristotle_global-ota_full-OS2.0.211.0.VMFMIXM-user-15.0-cd7fb8cd86.zip
-  filename: fw_aristotle_aristotle_global-ota_full-OS2.0.211.0.VMFMIXM-user-15.0-cd7fb8cd86.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aristotle/releases/download/stable-30.12.2025/fw_aristotle_aristotle_global-ota_full-OS2.0.212.0.VMFMIXM-user-15.0-c0a55fca7d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aristotle/fw_aristotle_aristotle_global-ota_full-OS2.0.212.0.VMFMIXM-user-15.0-c0a55fca7d.zip
+  filename: fw_aristotle_aristotle_global-ota_full-OS2.0.212.0.VMFMIXM-user-15.0-c0a55fca7d.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.211.0.VMFMIXM
+    miui: OS2.0.212.0.VMFMIXM
 - branch: stable
   date: '2025-12-15'
   downloads:
@@ -3779,15 +3779,15 @@
     android: '15.0'
     miui: OS2.0.220.0.VMNCNXM
 - branch: stable
-  date: '2025-11-29'
+  date: '2025-12-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-29.11.2025/fw_mondrian_mondrian_eea_global-ota_full-OS2.0.206.0.VMNEUXM-user-15.0-586cc6ef4a.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mondrian/fw_mondrian_mondrian_eea_global-ota_full-OS2.0.206.0.VMNEUXM-user-15.0-586cc6ef4a.zip
-  filename: fw_mondrian_mondrian_eea_global-ota_full-OS2.0.206.0.VMNEUXM-user-15.0-586cc6ef4a.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-30.12.2025/fw_mondrian_mondrian_eea_global-ota_full-OS2.0.208.0.VMNEUXM-user-15.0-18d6c77543.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mondrian/fw_mondrian_mondrian_eea_global-ota_full-OS2.0.208.0.VMNEUXM-user-15.0-18d6c77543.zip
+  filename: fw_mondrian_mondrian_eea_global-ota_full-OS2.0.208.0.VMNEUXM-user-15.0-18d6c77543.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.206.0.VMNEUXM
+    miui: OS2.0.208.0.VMNEUXM
 - branch: stable
   date: '2022-11-17'
   downloads:
@@ -4449,15 +4449,15 @@
     android: '7.1'
     miui: 9.10.10
 - branch: stable
-  date: '2025-12-15'
+  date: '2025-12-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pandora/releases/download/stable-15.12.2025/fw_pandora_pandora-ota_full-OS3.0.34.0.WBLCNXM-user-16.0-6900ab3908.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/pandora/fw_pandora_pandora-ota_full-OS3.0.34.0.WBLCNXM-user-16.0-6900ab3908.zip
-  filename: fw_pandora_pandora-ota_full-OS3.0.34.0.WBLCNXM-user-16.0-6900ab3908.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pandora/releases/download/stable-30.12.2025/fw_pandora_pandora-ota_full-OS3.0.36.0.WBLCNXM-user-16.0-a6e6fcb6f0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/pandora/fw_pandora_pandora-ota_full-OS3.0.36.0.WBLCNXM-user-16.0-a6e6fcb6f0.zip
+  filename: fw_pandora_pandora-ota_full-OS3.0.36.0.WBLCNXM-user-16.0-a6e6fcb6f0.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.34.0.WBLCNXM
+    miui: OS3.0.36.0.WBLCNXM
 - branch: stable
   date: '2025-12-27'
   downloads:
@@ -4499,15 +4499,15 @@
     android: '15.0'
     miui: OS2.0.207.0.VNPEUXM
 - branch: stable
-  date: '2025-11-28'
+  date: '2025-12-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-28.11.2025/fw_peridot_peridot_in_global-ota_full-OS2.0.205.0.VNPINXM-user-15.0-9d81789c2a.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/peridot/fw_peridot_peridot_in_global-ota_full-OS2.0.205.0.VNPINXM-user-15.0-9d81789c2a.zip
-  filename: fw_peridot_peridot_in_global-ota_full-OS2.0.205.0.VNPINXM-user-15.0-9d81789c2a.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-30.12.2025/fw_peridot_peridot_in_global-ota_full-OS2.0.207.0.VNPINXM-user-15.0-6e1ba887cc.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/peridot/fw_peridot_peridot_in_global-ota_full-OS2.0.207.0.VNPINXM-user-15.0-6e1ba887cc.zip
+  filename: fw_peridot_peridot_in_global-ota_full-OS2.0.207.0.VNPINXM-user-15.0-6e1ba887cc.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.205.0.VNPINXM
+    miui: OS2.0.207.0.VNPINXM
 - branch: stable
   date: '2020-11-20'
   downloads:
@@ -4649,15 +4649,15 @@
     android: '10.0'
     miui: V12.5.1.0.QCMINXM
 - branch: stable
-  date: '2025-11-30'
+  date: '2025-12-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-30.11.2025/fw_pipa_pipa_global-ota_full-OS2.0.10.0.UMZMIXM-user-14.0-4d3ac858b3.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/pipa/fw_pipa_pipa_global-ota_full-OS2.0.10.0.UMZMIXM-user-14.0-4d3ac858b3.zip
-  filename: fw_pipa_pipa_global-ota_full-OS2.0.10.0.UMZMIXM-user-14.0-4d3ac858b3.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-30.12.2025/fw_pipa_pipa_global-ota_full-OS2.0.12.0.UMZMIXM-user-14.0-8fcacb8b31.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/pipa/fw_pipa_pipa_global-ota_full-OS2.0.12.0.UMZMIXM-user-14.0-8fcacb8b31.zip
+  filename: fw_pipa_pipa_global-ota_full-OS2.0.12.0.UMZMIXM-user-14.0-8fcacb8b31.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS2.0.10.0.UMZMIXM
+    miui: OS2.0.12.0.UMZMIXM
 - branch: stable
   date: '2025-12-30'
   downloads:
