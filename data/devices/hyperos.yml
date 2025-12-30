@@ -2670,6 +2670,12 @@
   version: OS2.0.201.0.VLCMIXM
 - android: '15.0'
   codename: cupid
+  date: '2025-12-30'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VLCMIXM/fw_cupid_cupid_global-ota_full-OS2.0.207.0.VLCMIXM-user-15.0-c1c72a4344.zip
+  name: Xiaomi 12
+  version: OS2.0.207.0.VLCMIXM
+- android: '15.0'
+  codename: cupid
   date: '2025-08-30'
   download: https://bigota.d.miui.com/OS2.0.208.0.VLCCNXM/fw_cupid_cupid-ota_full-OS2.0.208.0.VLCCNXM-user-15.0-fcd8fdbdb0.zip
   name: Xiaomi 12
@@ -12804,6 +12810,12 @@
   version: OS2.0.212.0.VMBCNXM
 - android: '15.0'
   codename: nuwa
+  date: '2025-12-30'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VMBMIXM/fw_nuwa_nuwa_global-ota_full-OS2.0.207.0.VMBMIXM-user-15.0-d1e365f257.zip
+  name: Xiaomi 13 Pro
+  version: OS2.0.207.0.VMBMIXM
+- android: '15.0'
+  codename: nuwa
   date: '2025-09-30'
   download: https://bigota.d.miui.com/OS2.0.203.0.VMBEUXM/fw_nuwa_eea_global_nuwa_eea_global-ota_full-OS2.0.203.0.VMBEUXM-user-15.0-e1a70923d7.zip
   name: Xiaomi 13 Pro
@@ -13572,6 +13584,12 @@
   version: OS1.0.1.0.TGLMIXM
 - android: '15.0'
   codename: organ
+  date: '2025-12-30'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VPXMIXM/fw_organ_organ_global-ota_full-OS2.0.206.0.VPXMIXM-user-15.0-74f483fba1.zip
+  name: Redmi Pad 2 Pro 5G
+  version: OS2.0.206.0.VPXMIXM
+- android: '15.0'
+  codename: organ
   date: '2025-11-28'
   download: https://bigota.d.miui.com/OS2.0.201.0.VPXINXM/fw_organ_organ_in_global-ota_full-OS2.0.201.0.VPXINXM-user-15.0-89edab0859.zip
   name: Redmi Pad 2 Pro 5G
@@ -14190,6 +14208,12 @@
   version: OS2.0.3.0.UMZINXM
 - android: '14.0'
   codename: pipa
+  date: '2025-12-30'
+  download: https://bigota.d.miui.com/OS2.0.16.0.UMZCNXM/fw_pipa_pipa-ota_full-OS2.0.16.0.UMZCNXM-user-14.0-53795f260f.zip
+  name: Xiaomi Pad 6
+  version: OS2.0.16.0.UMZCNXM
+- android: '14.0'
+  codename: pipa
   date: '2025-11-30'
   download: https://bigota.d.miui.com/OS2.0.9.0.UMZEUXM/fw_pipa_pipa_eea_global-ota_full-OS2.0.9.0.UMZEUXM-user-14.0-967dbff8b5.zip
   name: Xiaomi Pad 6
@@ -14778,6 +14802,12 @@
   version: OS2.0.204.0.VLQMIXM
 - android: '15.0'
   codename: plato
+  date: '2025-12-30'
+  download: https://bigota.d.miui.com/OS2.0.211.0.VLQMIXM/fw_plato_plato_global-ota_full-OS2.0.211.0.VLQMIXM-user-15.0-1fdba6b8f1.zip
+  name: Xiaomi 12T
+  version: OS2.0.211.0.VLQMIXM
+- android: '15.0'
+  codename: plato
   date: '2025-11-29'
   download: https://bigota.d.miui.com/OS2.0.207.0.VLQEUXM/fw_plato_plato_eea_global-ota_full-OS2.0.207.0.VLQEUXM-user-15.0-64549fb03b.zip
   name: Xiaomi 12T
@@ -15112,6 +15142,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UMSMIXM/fw_redwood_miui_REDWOODGlobal_OS1.0.2.0.UMSMIXM_373f1d03de_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: OS1.0.2.0.UMSMIXM
+- android: '14.0'
+  codename: redwood
+  date: '2025-12-30'
+  download: https://bigota.d.miui.com/OS2.0.16.0.UMSMIXM/fw_redwood_redwood_global-ota_full-OS2.0.16.0.UMSMIXM-user-14.0-3e3e8b5698.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS2.0.16.0.UMSMIXM
 - android: '14.0'
   codename: redwood
   date: '2025-08-29'
@@ -17482,6 +17518,12 @@
   download: https://bigota.d.miui.com/OS2.0.10.0.VNGMIXM/fw_sapphire_global_sapphire_global-ota_full-OS2.0.10.0.VNGMIXM-user-15.0-78e8820ac6.zip
   name: Redmi Note 13
   version: OS2.0.10.0.VNGMIXM
+- android: '15.0'
+  codename: sapphire
+  date: '2025-12-30'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VNGMIXM/fw_sapphire_sapphire_global-ota_full-OS2.0.208.0.VNGMIXM-user-15.0-1f1a2ba3f0.zip
+  name: Redmi Note 13
+  version: OS2.0.208.0.VNGMIXM
 - android: '14.0'
   codename: sapphire
   date: '2024-03-29'
@@ -17590,6 +17632,18 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VNHEUXM/fw_sapphiren_eea_global_sapphiren_eea_global-ota_full-OS2.0.203.0.VNHEUXM-user-15.0-bae2a2635c.zip
   name: Redmi Note 13 NFC
   version: OS2.0.203.0.VNHEUXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-12-30'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VNHEUXM/fw_sapphiren_sapphiren_eea_global-ota_full-OS2.0.208.0.VNHEUXM-user-15.0-8b82f3c4a6.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.208.0.VNHEUXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-12-30'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VNHMIXM/fw_sapphiren_sapphiren_global-ota_full-OS2.0.207.0.VNHMIXM-user-15.0-9aae7d95a3.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.207.0.VNHMIXM
 - android: '14.0'
   codename: sapphiren
   date: '2024-09-30'
@@ -19954,6 +20008,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.ULIMIXM/fw_taoyao_miui_TAOYAOGlobal_OS1.0.8.0.ULIMIXM_aced32ba11_14.0.zip
   name: Xiaomi 12 Lite
   version: OS1.0.8.0.ULIMIXM
+- android: '14.0'
+  codename: taoyao
+  date: '2025-12-30'
+  download: https://bigota.d.miui.com/OS1.0.30.0.ULIMIXM/fw_taoyao_miui_TAOYAOGlobal_OS1.0.30.0.ULIMIXM_b40a20ab05_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.30.0.ULIMIXM
 - android: '14.0'
   codename: taoyao
   date: '2025-04-29'

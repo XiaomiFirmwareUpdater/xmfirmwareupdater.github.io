@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2025-11-17'
+  date: '2025-12-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphiren/releases/download/stable-17.11.2025/fw_sapphiren_sapphiren_global-ota_full-OS2.0.206.0.VNHMIXM-user-15.0-cfd201b5dd.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sapphiren/fw_sapphiren_sapphiren_global-ota_full-OS2.0.206.0.VNHMIXM-user-15.0-cfd201b5dd.zip
-  filename: fw_sapphiren_sapphiren_global-ota_full-OS2.0.206.0.VNHMIXM-user-15.0-cfd201b5dd.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphiren/releases/download/stable-30.12.2025/fw_sapphiren_sapphiren_global-ota_full-OS2.0.207.0.VNHMIXM-user-15.0-9aae7d95a3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sapphiren/fw_sapphiren_sapphiren_global-ota_full-OS2.0.207.0.VNHMIXM-user-15.0-9aae7d95a3.zip
+  filename: fw_sapphiren_sapphiren_global-ota_full-OS2.0.207.0.VNHMIXM-user-15.0-9aae7d95a3.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.206.0.VNHMIXM
+    miui: OS2.0.207.0.VNHMIXM
 - branch: stable
-  date: '2025-11-28'
+  date: '2025-12-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphiren/releases/download/stable-28.11.2025/fw_sapphiren_sapphiren_eea_global-ota_full-OS2.0.207.0.VNHEUXM-user-15.0-44e1f25576.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sapphiren/fw_sapphiren_sapphiren_eea_global-ota_full-OS2.0.207.0.VNHEUXM-user-15.0-44e1f25576.zip
-  filename: fw_sapphiren_sapphiren_eea_global-ota_full-OS2.0.207.0.VNHEUXM-user-15.0-44e1f25576.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphiren/releases/download/stable-30.12.2025/fw_sapphiren_sapphiren_eea_global-ota_full-OS2.0.208.0.VNHEUXM-user-15.0-8b82f3c4a6.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sapphiren/fw_sapphiren_sapphiren_eea_global-ota_full-OS2.0.208.0.VNHEUXM-user-15.0-8b82f3c4a6.zip
+  filename: fw_sapphiren_sapphiren_eea_global-ota_full-OS2.0.208.0.VNHEUXM-user-15.0-8b82f3c4a6.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.207.0.VNHEUXM
+    miui: OS2.0.208.0.VNHEUXM
