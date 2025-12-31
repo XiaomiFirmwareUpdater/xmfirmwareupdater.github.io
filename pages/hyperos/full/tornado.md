@@ -52,7 +52,9 @@ permalink: /archive/hyperos/tornado/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 15C 5G / POCO C85 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VPOINXM</td><td>15.0</td><td>5.2 GB</td><td>2025-12-18</td><td><a href="/hyperos/tornado/stable/OS2.0.203.0.VPOINXM/">Download</a></td></tr>
+                <tr><td>Redmi 15C 5G / 15R 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VPOMIXM</td><td>15.0</td><td>5.4 GB</td><td>2025-12-22</td><td><a href="/hyperos/tornado/stable/OS2.0.206.0.VPOMIXM/">Download</a></td></tr>
+<tr><td>Redmi 15C 5G / 15R 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VPOMIXM</td><td>15.0</td><td>8.6 GB</td><td>2025-12-16</td><td><a href="/hyperos/tornado/stable/OS2.0.206.0.VPOMIXM/">Download</a></td></tr>
+<tr><td>Redmi 15C 5G / POCO C85 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VPOINXM</td><td>15.0</td><td>5.2 GB</td><td>2025-12-18</td><td><a href="/hyperos/tornado/stable/OS2.0.203.0.VPOINXM/">Download</a></td></tr>
 <tr><td>Redmi 15C 5G / POCO C85 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VPOINXM</td><td>15.0</td><td>7.2 GB</td><td>2025-12-01</td><td><a href="/hyperos/tornado/stable/OS2.0.203.0.VPOINXM/">Download</a></td></tr>
 <tr><td>Redmi 15C 5G / 15R 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VPOTRXM</td><td>15.0</td><td>5.4 GB</td><td>2025-12-13</td><td><a href="/hyperos/tornado/stable/OS2.0.203.0.VPOTRXM/">Download</a></td></tr>
 <tr><td>Redmi 15C 5G / 15R 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VPOTRXM</td><td>15.0</td><td>7.6 GB</td><td>2025-12-01</td><td><a href="/hyperos/tornado/stable/OS2.0.203.0.VPOTRXM/">Download</a></td></tr>
