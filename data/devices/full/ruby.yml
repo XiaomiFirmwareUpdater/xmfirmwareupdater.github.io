@@ -1,4 +1,24 @@
 - branch: stable
+  date: '2025-12-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-31.12.2025/fw_ruby_ruby_eea_global-ota_full-OS2.0.12.0.UMOEUXM-user-14.0-fe83ce690a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruby/fw_ruby_ruby_eea_global-ota_full-OS2.0.12.0.UMOEUXM-user-14.0-fe83ce690a.zip
+  filename: fw_ruby_ruby_eea_global-ota_full-OS2.0.12.0.UMOEUXM-user-14.0-fe83ce690a.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS2.0.12.0.UMOEUXM
+- branch: stable
+  date: '2025-12-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-31.12.2025/fw_ruby_ruby_global-ota_full-OS2.0.10.0.UMOMIXM-user-14.0-c57382a441.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruby/fw_ruby_ruby_global-ota_full-OS2.0.10.0.UMOMIXM-user-14.0-c57382a441.zip
+  filename: fw_ruby_ruby_global-ota_full-OS2.0.10.0.UMOMIXM-user-14.0-c57382a441.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS2.0.10.0.UMOMIXM
+- branch: stable
   date: '2023-10-31'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-31.10.2023/fw_ruby_miui_RUBYGlobal_V14.0.5.0.TMOMIXM_6d41b1ceae_13.0.zip

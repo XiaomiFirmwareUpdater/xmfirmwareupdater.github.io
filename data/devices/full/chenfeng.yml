@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2025-12-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-31.12.2025/fw_chenfeng_chenfeng-ota_full-OS3.0.4.0.WNJCNXM-user-16.0-c41f082e48.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chenfeng/fw_chenfeng_chenfeng-ota_full-OS3.0.4.0.WNJCNXM-user-16.0-c41f082e48.zip
+  filename: fw_chenfeng_chenfeng-ota_full-OS3.0.4.0.WNJCNXM-user-16.0-c41f082e48.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.4.0.WNJCNXM
+- branch: stable
   date: '2025-08-31'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-31.08.2025/fw_chenfeng_chenfeng-ota_full-OS2.0.204.0.VNJCNXM-user-15.0-48f3536b3b.zip

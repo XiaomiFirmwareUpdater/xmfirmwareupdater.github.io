@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-11-29'
+  date: '2025-12-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-29.11.2025/fw_ruby_ruby_global-ota_full-OS2.0.9.0.UMOMIXM-user-14.0-3395cea9d9.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruby/fw_ruby_ruby_global-ota_full-OS2.0.9.0.UMOMIXM-user-14.0-3395cea9d9.zip
-  filename: fw_ruby_ruby_global-ota_full-OS2.0.9.0.UMOMIXM-user-14.0-3395cea9d9.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-31.12.2025/fw_ruby_ruby_global-ota_full-OS2.0.10.0.UMOMIXM-user-14.0-c57382a441.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruby/fw_ruby_ruby_global-ota_full-OS2.0.10.0.UMOMIXM-user-14.0-c57382a441.zip
+  filename: fw_ruby_ruby_global-ota_full-OS2.0.10.0.UMOMIXM-user-14.0-c57382a441.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS2.0.9.0.UMOMIXM
+    miui: OS2.0.10.0.UMOMIXM
 - branch: stable
   date: '2025-12-15'
   downloads:
@@ -19,15 +19,15 @@
     android: '14.0'
     miui: OS2.0.15.0.UMOCNXM
 - branch: stable
-  date: '2025-11-29'
+  date: '2025-12-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-29.11.2025/fw_ruby_ruby_eea_global-ota_full-OS2.0.10.0.UMOEUXM-user-14.0-c3c7da19f1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruby/fw_ruby_ruby_eea_global-ota_full-OS2.0.10.0.UMOEUXM-user-14.0-c3c7da19f1.zip
-  filename: fw_ruby_ruby_eea_global-ota_full-OS2.0.10.0.UMOEUXM-user-14.0-c3c7da19f1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-31.12.2025/fw_ruby_ruby_eea_global-ota_full-OS2.0.12.0.UMOEUXM-user-14.0-fe83ce690a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruby/fw_ruby_ruby_eea_global-ota_full-OS2.0.12.0.UMOEUXM-user-14.0-fe83ce690a.zip
+  filename: fw_ruby_ruby_eea_global-ota_full-OS2.0.12.0.UMOEUXM-user-14.0-fe83ce690a.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS2.0.10.0.UMOEUXM
+    miui: OS2.0.12.0.UMOEUXM
 - branch: stable
   date: '2025-12-28'
   downloads:

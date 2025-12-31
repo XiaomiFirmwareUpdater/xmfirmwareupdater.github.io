@@ -54,8 +54,8 @@ permalink: /hyperos/sea/
                 <tbody>
                 <tr><td>Redmi Note 12S EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VHZEUXM</td><td>15.0</td><td>6.6 GB</td><td>2025-12-02</td><td><a href="/hyperos/sea/stable/OS2.0.207.0.VHZEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12S EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VHZEUXM</td><td>15.0</td><td>4.7 GB</td><td>2025-12-11</td><td><a href="/hyperos/sea/stable/OS2.0.207.0.VHZEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12S Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VHZMIXM</td><td>15.0</td><td>6.9 GB</td><td>2025-12-01</td><td><a href="/hyperos/sea/stable/OS2.0.208.0.VHZMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12S Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VHZMIXM</td><td>15.0</td><td>4.7 GB</td><td>2025-12-11</td><td><a href="/hyperos/sea/stable/OS2.0.208.0.VHZMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12S Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.209.0.VHZMIXM</td><td>15.0</td><td>6.9 GB</td><td>2025-12-22</td><td><a href="/hyperos/sea/stable/OS2.0.209.0.VHZMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12S Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.209.0.VHZMIXM</td><td>15.0</td><td>4.7 GB</td><td>2025-12-29</td><td><a href="/hyperos/sea/stable/OS2.0.209.0.VHZMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12S Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VHZRUXM</td><td>15.0</td><td>7.1 GB</td><td>2025-12-02</td><td><a href="/hyperos/sea/stable/OS2.0.208.0.VHZRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12S Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VHZRUXM</td><td>15.0</td><td>4.7 GB</td><td>2025-12-17</td><td><a href="/hyperos/sea/stable/OS2.0.208.0.VHZRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12S Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VHZTRXM</td><td>15.0</td><td>6.4 GB</td><td>2025-12-02</td><td><a href="/hyperos/sea/stable/OS2.0.207.0.VHZTRXM/">Download</a></td></tr>

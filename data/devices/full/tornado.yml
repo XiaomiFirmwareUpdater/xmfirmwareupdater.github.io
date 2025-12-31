@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2025-12-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tornado/releases/download/stable-31.12.2025/fw_tornado_tornado_global-ota_full-OS2.0.206.0.VPOMIXM-user-15.0-682128b635.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/tornado/fw_tornado_tornado_global-ota_full-OS2.0.206.0.VPOMIXM-user-15.0-682128b635.zip
+  filename: fw_tornado_tornado_global-ota_full-OS2.0.206.0.VPOMIXM-user-15.0-682128b635.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.206.0.VPOMIXM
+- branch: stable
   date: '2025-11-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tornado/releases/download/stable-28.11.2025/fw_tornado_tornado_eea_global-ota_full-OS2.0.204.0.VPOEUXM-user-15.0-987bf0b62b.zip
