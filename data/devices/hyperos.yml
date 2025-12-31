@@ -6827,6 +6827,12 @@
   name: Redmi 13C/POCO C65
   version: OS2.0.202.0.VGPMIXM
 - android: '15.0'
+  codename: gale
+  date: '2025-12-31'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VGPEUXM/fw_gale_gale_eea_global-ota_full-OS2.0.207.0.VGPEUXM-user-15.0-007bd2be64.zip
+  name: Redmi 13C/POCO C65
+  version: OS2.0.207.0.VGPEUXM
+- android: '15.0'
   codename: garnet
   date: '2025-12-31'
   download: https://bigota.d.miui.com/OS2.0.206.0.VNREUXM/fw_garnet_garnet_eea_global-ota_full-OS2.0.206.0.VNREUXM-user-15.0-99808fd850.zip
@@ -19001,6 +19007,12 @@
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
   version: OS1.0.1.0.UMWEUXM
 - android: '15.0'
+  codename: sky
+  date: '2025-12-31'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VMWMIXM/fw_sky_sky_global-ota_full-OS2.0.206.0.VMWMIXM-user-15.0-21c8a345cf.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS2.0.206.0.VMWMIXM
+- android: '15.0'
   codename: socrates
   date: '2025-08-29'
   download: https://bigota.d.miui.com/OS2.0.208.0.VMKCNXM/fw_socrates_socrates-ota_full-OS2.0.208.0.VMKCNXM-user-15.0-4a2a129db7.zip
@@ -24694,6 +24706,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.ULLEUXM/fw_ziyi_miui_ZIYIEEAGlobal_OS1.0.4.0.ULLEUXM_b08edd61cb_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.4.0.ULLEUXM
+- android: '15.0'
+  codename: ziyi
+  date: '2025-12-31'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VLLMIXM/fw_ziyi_ziyi_global-ota_full-OS2.0.205.0.VLLMIXM-user-15.0-65e71c9c1a.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS2.0.205.0.VLLMIXM
 - android: '15.0'
   codename: zizhan
   date: '2025-03-31'

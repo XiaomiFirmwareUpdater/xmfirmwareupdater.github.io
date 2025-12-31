@@ -758,3 +758,13 @@
   versions:
     android: '14.0'
     miui: OS1.0.4.0.ULLEUXM
+- branch: stable
+  date: '2025-12-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-01.01.2026/fw_ziyi_ziyi_global-ota_full-OS2.0.205.0.VLLMIXM-user-15.0-65e71c9c1a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ziyi/fw_ziyi_ziyi_global-ota_full-OS2.0.205.0.VLLMIXM-user-15.0-65e71c9c1a.zip
+  filename: fw_ziyi_ziyi_global-ota_full-OS2.0.205.0.VLLMIXM-user-15.0-65e71c9c1a.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.205.0.VLLMIXM

@@ -528,3 +528,13 @@
   versions:
     android: '15.0'
     miui: OS2.0.202.0.VGPMIXM
+- branch: stable
+  date: '2025-12-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-01.01.2026/fw_gale_gale_eea_global-ota_full-OS2.0.207.0.VGPEUXM-user-15.0-007bd2be64.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gale/fw_gale_gale_eea_global-ota_full-OS2.0.207.0.VGPEUXM-user-15.0-007bd2be64.zip
+  filename: fw_gale_gale_eea_global-ota_full-OS2.0.207.0.VGPEUXM-user-15.0-007bd2be64.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.207.0.VGPEUXM
