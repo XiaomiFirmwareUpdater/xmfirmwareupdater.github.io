@@ -4469,15 +4469,15 @@
     android: '15.0'
     miui: OS2.0.215.0.VLHCNXM
 - branch: stable
-  date: '2025-11-28'
+  date: '2025-12-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-28.11.2025/fw_peridot_peridot_global-ota_full-OS2.0.207.0.VNPMIXM-user-15.0-0522cc0de8.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/peridot/fw_peridot_peridot_global-ota_full-OS2.0.207.0.VNPMIXM-user-15.0-0522cc0de8.zip
-  filename: fw_peridot_peridot_global-ota_full-OS2.0.207.0.VNPMIXM-user-15.0-0522cc0de8.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-31.12.2025/fw_peridot_peridot_global-ota_full-OS2.0.208.0.VNPMIXM-user-15.0-d0fb5dbcc9.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/peridot/fw_peridot_peridot_global-ota_full-OS2.0.208.0.VNPMIXM-user-15.0-d0fb5dbcc9.zip
+  filename: fw_peridot_peridot_global-ota_full-OS2.0.208.0.VNPMIXM-user-15.0-d0fb5dbcc9.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.207.0.VNPMIXM
+    miui: OS2.0.208.0.VNPMIXM
 - branch: stable
   date: '2025-11-28'
   downloads:
@@ -4839,15 +4839,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2025-12-15'
+  date: '2025-12-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_popsicle/releases/download/stable-15.12.2025/fw_popsicle_popsicle-ota_full-OS3.0.34.0.WPBCNXM-user-16.0-1db15bdcb1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/popsicle/fw_popsicle_popsicle-ota_full-OS3.0.34.0.WPBCNXM-user-16.0-1db15bdcb1.zip
-  filename: fw_popsicle_popsicle-ota_full-OS3.0.34.0.WPBCNXM-user-16.0-1db15bdcb1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_popsicle/releases/download/stable-31.12.2025/fw_popsicle_popsicle-ota_full-OS3.0.36.0.WPBCNXM-user-16.0-1a5729ffd2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/popsicle/fw_popsicle_popsicle-ota_full-OS3.0.36.0.WPBCNXM-user-16.0-1a5729ffd2.zip
+  filename: fw_popsicle_popsicle-ota_full-OS3.0.36.0.WPBCNXM-user-16.0-1a5729ffd2.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.34.0.WPBCNXM
+    miui: OS3.0.36.0.WPBCNXM
 - branch: stable
   date: '2019-05-21'
   downloads:
@@ -4909,15 +4909,15 @@
     android: '13.0'
     miui: OS1.0.8.0.TLDEUXM
 - branch: stable
-  date: '2025-12-16'
+  date: '2025-12-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pudding/releases/download/stable-16.12.2025/fw_pudding_pudding-ota_full-OS3.0.34.0.WPCCNXM-user-16.0-8d9edecda1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/pudding/fw_pudding_pudding-ota_full-OS3.0.34.0.WPCCNXM-user-16.0-8d9edecda1.zip
-  filename: fw_pudding_pudding-ota_full-OS3.0.34.0.WPCCNXM-user-16.0-8d9edecda1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pudding/releases/download/stable-31.12.2025/fw_pudding_pudding-ota_full-OS3.0.36.0.WPCCNXM-user-16.0-888d345ac7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/pudding/fw_pudding_pudding-ota_full-OS3.0.36.0.WPCCNXM-user-16.0-888d345ac7.zip
+  filename: fw_pudding_pudding-ota_full-OS3.0.36.0.WPCCNXM-user-16.0-888d345ac7.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.34.0.WPCCNXM
+    miui: OS3.0.36.0.WPCCNXM
 - branch: stable
   date: '2021-07-23'
   downloads:
@@ -5169,15 +5169,15 @@
     android: '14.0'
     miui: OS1.0.8.0.ULUINXM
 - branch: stable
-  date: '2025-11-18'
+  date: '2025-12-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-19.11.2025/fw_rodin_rodin_global-ota_full-OS2.0.206.0.VOJMIXM-user-15.0-8495cf74b4.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rodin/fw_rodin_rodin_global-ota_full-OS2.0.206.0.VOJMIXM-user-15.0-8495cf74b4.zip
-  filename: fw_rodin_rodin_global-ota_full-OS2.0.206.0.VOJMIXM-user-15.0-8495cf74b4.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-31.12.2025/fw_rodin_rodin_global-ota_full-OS3.0.7.0.WOJMIXM-user-16.0-cb1740aa51.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rodin/fw_rodin_rodin_global-ota_full-OS3.0.7.0.WOJMIXM-user-16.0-cb1740aa51.zip
+  filename: fw_rodin_rodin_global-ota_full-OS3.0.7.0.WOJMIXM-user-16.0-cb1740aa51.zip
   region: Global
   versions:
-    android: '15.0'
-    miui: OS2.0.206.0.VOJMIXM
+    android: '16.0'
+    miui: OS3.0.7.0.WOJMIXM
 - branch: stable
   date: '2025-12-28'
   downloads:
@@ -6409,15 +6409,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: stable
-  date: '2025-12-11'
+  date: '2025-12-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-12.12.2025/fw_turner_turner_global-ota_full-OS3.0.2.0.WAOMIXM-user-16.0-17cb59a66b.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/turner/fw_turner_turner_global-ota_full-OS3.0.2.0.WAOMIXM-user-16.0-17cb59a66b.zip
-  filename: fw_turner_turner_global-ota_full-OS3.0.2.0.WAOMIXM-user-16.0-17cb59a66b.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-31.12.2025/fw_turner_turner_global-ota_full-OS3.0.5.0.WAOMIXM-user-16.0-7f26c409f0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/turner/fw_turner_turner_global-ota_full-OS3.0.5.0.WAOMIXM-user-16.0-7f26c409f0.zip
+  filename: fw_turner_turner_global-ota_full-OS3.0.5.0.WAOMIXM-user-16.0-7f26c409f0.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.2.0.WAOMIXM
+    miui: OS3.0.5.0.WAOMIXM
 - branch: stable
   date: '2025-11-29'
   downloads:

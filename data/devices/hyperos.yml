@@ -13762,6 +13762,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.ULHCNXM/fw_pearl_miui_PEARL_OS1.0.6.0.ULHCNXM_21fa036d40_14.0.zip
   name: Redmi Note 12T Pro
   version: OS1.0.6.0.ULHCNXM
+- android: '15.0'
+  codename: peridot
+  date: '2025-12-30'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VNPMIXM/fw_peridot_peridot_global-ota_full-OS2.0.208.0.VNPMIXM-user-15.0-d0fb5dbcc9.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS2.0.208.0.VNPMIXM
 - android: '14.0'
   codename: peridot
   date: '2024-12-31'
