@@ -19288,6 +19288,12 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VHYMIXM/fw_spark_spark_global-ota_full-OS2.0.203.0.VHYMIXM-user-15.0-e290dd20fb.zip
   name: Redmi Pad SE 8.7 4G
   version: OS2.0.203.0.VHYMIXM
+- android: '15.0'
+  codename: spark
+  date: '2026-01-01'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VHYEUXM/fw_spark_spark_eea_global-ota_full-OS2.0.206.0.VHYEUXM-user-15.0-635a214979.zip
+  name: Redmi Pad SE 8.7 4G
+  version: OS2.0.206.0.VHYEUXM
 - android: '13.0'
   codename: spes
   date: '2024-06-24'
@@ -20170,6 +20176,12 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VOGMIXM/fw_tanzanite_global_tanzanite_global-ota_full-OS2.0.2.0.VOGMIXM-user-15.0-0c0796881d.zip
   name: Redmi Note 14 4G
   version: OS2.0.2.0.VOGMIXM
+- android: '15.0'
+  codename: tanzanite
+  date: '2026-01-01'
+  download: https://bigota.d.miui.com/OS2.0.212.0.VOGEUXM/fw_tanzanite_tanzanite_eea_global-ota_full-OS2.0.212.0.VOGEUXM-user-15.0-44afc707c4.zip
+  name: Redmi Note 14 4G
+  version: OS2.0.212.0.VOGEUXM
 - android: '14.0'
   codename: taoyao
   date: '2024-07-30'

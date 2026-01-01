@@ -4,16 +4,36 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 01 Jan 2026 06:53:52 </lastBuildDate>
+        <lastBuildDate>Thu, 01 Jan 2026 13:42:41 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 15/POCO M7 (creek) - OS3.0.9.0.WBOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/creek/</link>
+            <pubDate>Thu, 01 Jan 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.212.0.VNFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
             <pubDate>Thu, 01 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Pad SE 8.7 4G (spark) - OS2.0.206.0.VHYEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/spark/</link>
+            <pubDate>Thu, 01 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS2.0.207.0.VOUMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spring/</link>
+            <pubDate>Thu, 01 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 4G (tanzanite) - OS2.0.212.0.VOGEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/tanzanite/</link>
+            <pubDate>Thu, 01 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.5.0.WNKMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Thu, 01 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -339,11 +359,6 @@
         <item>
             <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS3.0.5.0.WNXCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
-            <pubDate>Mon, 29 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 4G (tanzanite) - OS2.0.211.0.VOGEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/tanzanite/</link>
             <pubDate>Mon, 29 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -897,11 +912,6 @@
             <pubDate>Mon, 15 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.4.0.WNKMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
-            <pubDate>Mon, 15 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.208.0.VNOINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Mon, 15 Dec 2025 00:00:00 </pubDate>
@@ -920,11 +930,6 @@
             <title>Redmi Pad 2 Pro 5G (organ) - OS2.0.204.0.VPXEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/organ/</link>
             <pubDate>Sun, 14 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 15/POCO M7 (creek) - OS3.0.6.0.WBOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/creek/</link>
-            <pubDate>Sat, 13 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.3.0.WNLCNXM</title>
@@ -1260,11 +1265,6 @@
             <title>Xiaomi 15 Ultra (xuanyuan) - OS3.0.6.0.WOACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Thu, 13 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad SE 8.7 4G (spark) - OS2.0.205.0.VHYEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/spark/</link>
-            <pubDate>Wed, 12 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.205.0.VNOEUXM</title>

@@ -52,8 +52,8 @@ permalink: /hyperos/tanzanite/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 14 4G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.211.0.VOGEUXM</td><td>15.0</td><td>7.4 GB</td><td>2025-12-10</td><td><a href="/hyperos/tanzanite/stable/OS2.0.211.0.VOGEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 4G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.211.0.VOGEUXM</td><td>15.0</td><td>5.0 GB</td><td>2025-12-20</td><td><a href="/hyperos/tanzanite/stable/OS2.0.211.0.VOGEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 14 4G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.212.0.VOGEUXM</td><td>15.0</td><td>7.4 GB</td><td>2025-12-24</td><td><a href="/hyperos/tanzanite/stable/OS2.0.212.0.VOGEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 4G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.212.0.VOGEUXM</td><td>15.0</td><td>5.0 GB</td><td>2025-12-30</td><td><a href="/hyperos/tanzanite/stable/OS2.0.212.0.VOGEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 4G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.209.0.VOGMIXM</td><td>15.0</td><td>8.4 GB</td><td>2025-12-23</td><td><a href="/hyperos/tanzanite/stable/OS2.0.209.0.VOGMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 4G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.209.0.VOGMIXM</td><td>15.0</td><td>4.9 GB</td><td>2025-12-28</td><td><a href="/hyperos/tanzanite/stable/OS2.0.209.0.VOGMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 4G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UOGMIXM</td><td>14.0</td><td>4.6 GB</td><td>2025-01-13</td><td><a href="/hyperos/tanzanite/stable beta/OS1.0.1.0.UOGMIXM/">Download</a></td></tr>
