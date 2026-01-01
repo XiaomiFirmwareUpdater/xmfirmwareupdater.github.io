@@ -5500,6 +5500,12 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VNFEUXM/fw_emerald_eea_global_emerald_eea_global-ota_full-OS2.0.2.0.VNFEUXM-user-15.0-7c6118e589.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS2.0.2.0.VNFEUXM
+- android: '15.0'
+  codename: emerald
+  date: '2026-01-01'
+  download: https://bigota.d.miui.com/OS2.0.212.0.VNFMIXM/fw_emerald_emerald_global-ota_full-OS2.0.212.0.VNFMIXM-user-15.0-d749cb3f85.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
+  version: OS2.0.212.0.VNFMIXM
 - android: '13.0'
   codename: enuma
   date: '2024-05-20'
@@ -19456,6 +19462,12 @@
   download: https://bigota.d.miui.com/OS2.0.206.0.VOUMIXM/fw_spring_spring_global-ota_full-OS2.0.206.0.VOUMIXM-user-15.0-08c01bec52.zip
   name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
   version: OS2.0.206.0.VOUMIXM
+- android: '15.0'
+  codename: spring
+  date: '2026-01-01'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VOUMIXM/fw_spring_spring_global-ota_full-OS2.0.207.0.VOUMIXM-user-15.0-0a20a2cddc.zip
+  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  version: OS2.0.207.0.VOUMIXM
 - android: '14.0'
   codename: star
   date: '2024-08-29'
