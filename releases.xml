@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 01 Jan 2026 13:42:41 </lastBuildDate>
+        <lastBuildDate>Thu, 01 Jan 2026 18:54:43 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 15/POCO M7 (creek) - OS3.0.9.0.WBOMIXM</title>
@@ -14,6 +14,11 @@
         <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.212.0.VNFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
+            <pubDate>Thu, 01 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K90 Pro Max/POCO F8 Ultra (myron) - OS3.0.20.0.WPMCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/myron/</link>
             <pubDate>Thu, 01 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -989,11 +994,6 @@
         <item>
             <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS2.0.211.0.VPWEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flute/</link>
-            <pubDate>Tue, 02 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K90 Pro Max/POCO F8 Ultra (myron) - OS3.0.16.0.WPMCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/myron/</link>
             <pubDate>Tue, 02 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
