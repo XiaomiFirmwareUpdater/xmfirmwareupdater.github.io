@@ -3029,6 +3029,12 @@
   name: Xiaomi 12
   version: OS1.0.2.0.ULCCNXM
 - android: '15.0'
+  codename: cupid
+  date: '2026-01-02'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VLCMIXM/fw_cupid_cupid_global-ota_full-OS2.0.208.0.VLCMIXM-user-15.0-fd8b0f4e9b.zip
+  name: Xiaomi 12
+  version: OS2.0.208.0.VLCMIXM
+- android: '15.0'
   codename: dada
   date: '2024-12-30'
   download: https://bigota.d.miui.com/OS2.0.28.0.VOCCNXM/fw_dada_dada-ota_full-OS2.0.28.0.VOCCNXM-user-15.0-90ae2f7f5f.zip
@@ -23932,6 +23938,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.ULBINXM/fw_zeus_miui_ZEUSINGlobal_OS1.0.8.0.ULBINXM_caa870f915_14.0.zip
   name: Xiaomi 12 Pro
   version: OS1.0.8.0.ULBINXM
+- android: '15.0'
+  codename: zeus
+  date: '2026-01-02'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VLBMIXM/fw_zeus_zeus_global-ota_full-OS2.0.208.0.VLBMIXM-user-15.0-4f5fbfa3be.zip
+  name: Xiaomi 12 Pro
+  version: OS2.0.208.0.VLBMIXM
 - android: '14.0'
   codename: zijin
   date: '2025-02-24'
