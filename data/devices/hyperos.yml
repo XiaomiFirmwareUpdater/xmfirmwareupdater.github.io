@@ -20838,6 +20838,12 @@
   version: OS2.0.1.0.VMGEUXM
 - android: '15.0'
   codename: topaz
+  date: '2026-01-02'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VMGMIXM/fw_topaz_topaz_global-ota_full-OS2.0.203.0.VMGMIXM-user-15.0-1986adab38.zip
+  name: Redmi Note 12 4G NFC
+  version: OS2.0.203.0.VMGMIXM
+- android: '15.0'
+  codename: topaz
   date: '2025-01-01'
   download: https://bigota.d.miui.com/OS2.0.8.0.VMGMIXM/fw_topaz_global_topaz_global-ota_full-OS2.0.8.0.VMGMIXM-user-15.0-35847f9d26.zip
   name: Redmi Note 12 4G NFC

@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 02 Jan 2026 07:06:15 </lastBuildDate>
+        <lastBuildDate>Fri, 02 Jan 2026 13:10:18 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS3.0.5.0.WNAMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Fri, 02 Jan 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 12 (cupid) - OS2.0.208.0.VLCMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/cupid/</link>
+            <pubDate>Fri, 02 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 4G NFC (topaz) - OS2.0.203.0.VMGMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/topaz/</link>
             <pubDate>Fri, 02 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -742,11 +752,6 @@
             <pubDate>Fri, 19 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS3.0.4.0.WNAMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Fri, 19 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 15 (dada) - OS3.0.3.0.WOCINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dada/</link>
             <pubDate>Fri, 19 Dec 2025 00:00:00 </pubDate>
@@ -1359,11 +1364,6 @@
         <item>
             <title>Redmi Pad 2 (taiko) - OS2.0.204.0.VOVEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
-            <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 4G NFC (topaz) - OS2.0.202.0.VMGMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/topaz/</link>
             <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
