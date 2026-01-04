@@ -629,6 +629,16 @@
     android: '14.0'
     miui: OS1.0.9.0.UCVINXM
 - branch: stable
+  date: '2026-01-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-04.01.2026/fw_earth_miui_EARTHGlobal_OS1.0.15.0.UCVMIXM_3dc6096586_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHGlobal_OS1.0.15.0.UCVMIXM_3dc6096586_14.0.zip
+  filename: fw_earth_miui_EARTHGlobal_OS1.0.15.0.UCVMIXM_3dc6096586_14.0.zip
+  region: Global
+  versions:
+    android: '14.0'
+    miui: OS1.0.15.0.UCVMIXM
+- branch: stable
   date: '2025-11-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-03.11.2025/fw_earth_miui_EARTHEEAGlobal_OS1.0.13.0.UCVEUXM_fabe8219cb_14.0.zip

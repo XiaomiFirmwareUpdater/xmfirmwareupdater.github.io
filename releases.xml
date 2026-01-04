@@ -4,8 +4,43 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 04 Jan 2026 00:40:25 </lastBuildDate>
+        <lastBuildDate>Sun, 04 Jan 2026 08:05:43 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.8.0.WPKMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
+            <pubDate>Sun, 04 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS2.0.207.0.VLFEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/diting/</link>
+            <pubDate>Sun, 04 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 12C/POCO C55 (earth) - OS1.0.15.0.UCVMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/earth/</link>
+            <pubDate>Sun, 04 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.216.0.VMRMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
+            <pubDate>Sun, 04 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 13/POCO M6 (moon) - OS3.0.5.0.WNTMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/moon/</link>
+            <pubDate>Sun, 04 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>POCO X5 5G (moonstone) - OS1.0.26.0.UMPMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/moonstone/</link>
+            <pubDate>Sun, 04 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad 2 (taiko) - OS3.0.3.0.WOVCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
+            <pubDate>Sun, 04 Jan 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS3.0.5.0.WNAMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
@@ -333,11 +368,6 @@
         </item>
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS2.0.206.0.VLFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/diting/</link>
-            <pubDate>Mon, 29 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS2.0.206.0.VLFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/diting/</link>
             <pubDate>Mon, 29 Dec 2025 00:00:00 </pubDate>
         </item>
@@ -747,11 +777,6 @@
             <pubDate>Sat, 20 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.7.0.WPKMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
-            <pubDate>Fri, 19 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 15 (dada) - OS3.0.3.0.WOCINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dada/</link>
             <pubDate>Fri, 19 Dec 2025 00:00:00 </pubDate>
@@ -882,16 +907,6 @@
             <pubDate>Mon, 15 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 13/POCO M6 (moon) - OS3.0.4.0.WNTMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/moon/</link>
-            <pubDate>Mon, 15 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>POCO X5 5G (moonstone) - OS1.0.25.0.UMPMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/moonstone/</link>
-            <pubDate>Mon, 15 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>POCO X5 5G (moonstone) - OS1.0.24.0.UMPEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moonstone/</link>
             <pubDate>Mon, 15 Dec 2025 00:00:00 </pubDate>
@@ -1007,11 +1022,6 @@
             <pubDate>Mon, 01 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.211.0.VMRMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Sun, 30 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad 2 (taiko) - OS2.0.206.0.VOVMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
             <pubDate>Sun, 30 Nov 2025 00:00:00 </pubDate>
@@ -1109,11 +1119,6 @@
         <item>
             <title>Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite (shennong) - OS3.0.4.0.WNBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/shennong/</link>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad 2 (taiko) - OS3.0.2.0.WOVCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
             <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1330,11 +1335,6 @@
             <title>MIX Flip 2 (bixi) - OS3.0.3.0.WOHCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/bixi/</link>
             <pubDate>Tue, 04 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12C/POCO C55 (earth) - OS1.0.14.0.UCVMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Mon, 03 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - OS2.0.205.0.VOLINXM</title>

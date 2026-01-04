@@ -78,3 +78,13 @@
   versions:
     android: '16.0'
     miui: OS3.0.13.0.WPKCNXM
+- branch: stable
+  date: '2026-01-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-04.01.2026/fw_annibale_annibale_global-ota_full-OS3.0.8.0.WPKMIXM-user-16.0-1f0f4833a2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale_global-ota_full-OS3.0.8.0.WPKMIXM-user-16.0-1f0f4833a2.zip
+  filename: fw_annibale_annibale_global-ota_full-OS3.0.8.0.WPKMIXM-user-16.0-1f0f4833a2.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.8.0.WPKMIXM
