@@ -18268,6 +18268,12 @@
   download: https://bigota.d.miui.com/OS2.0.204.0.VHZMIXM/fw_sea_sea_global-ota_full-OS2.0.204.0.VHZMIXM-user-15.0-0360e980d0.zip
   name: Redmi Note 12S
   version: OS2.0.204.0.VHZMIXM
+- android: '15.0'
+  codename: sea
+  date: '2026-01-04'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VHZEUXM/fw_sea_sea_eea_global-ota_full-OS2.0.208.0.VHZEUXM-user-15.0-c905eb2783.zip
+  name: Redmi Note 12S
+  version: OS2.0.208.0.VHZEUXM
 - android: '14.0'
   codename: sea
   date: '2024-08-03'
