@@ -9,12 +9,12 @@
     android: '16.0'
     miui: OS3.0.5.0.WNTMIXM
 - branch: stable
-  date: '2025-11-17'
+  date: '2026-01-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moon/releases/download/stable-17.11.2025/fw_moon_moon_eea_global-ota_full-OS2.0.205.0.VNTEUXM-user-15.0-19f5399fdc.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/moon/fw_moon_moon_eea_global-ota_full-OS2.0.205.0.VNTEUXM-user-15.0-19f5399fdc.zip
-  filename: fw_moon_moon_eea_global-ota_full-OS2.0.205.0.VNTEUXM-user-15.0-19f5399fdc.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moon/releases/download/stable-04.01.2026/fw_moon_moon_eea_global-ota_full-OS3.0.1.0.WNTEUXM-user-16.0-cc20a457de.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/moon/fw_moon_moon_eea_global-ota_full-OS3.0.1.0.WNTEUXM-user-16.0-cc20a457de.zip
+  filename: fw_moon_moon_eea_global-ota_full-OS3.0.1.0.WNTEUXM-user-16.0-cc20a457de.zip
   region: Europe
   versions:
-    android: '15.0'
-    miui: OS2.0.205.0.VNTEUXM
+    android: '16.0'
+    miui: OS3.0.1.0.WNTEUXM

@@ -6030,6 +6030,12 @@
   version: OS2.0.2.0.VHXEUXM
 - android: '15.0'
   codename: flare
+  date: '2026-01-04'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VHXEUXM/fw_flare_flare_eea_global-ota_full-OS2.0.207.0.VHXEUXM-user-15.0-cb47ea1b6d.zip
+  name: Redmi Pad SE 8.7 5G
+  version: OS2.0.207.0.VHXEUXM
+- android: '15.0'
+  codename: flare
   date: '2025-11-03'
   download: https://bigota.d.miui.com/OS2.0.203.0.VHXMIXM/fw_flare_flare_global-ota_full-OS2.0.203.0.VHXMIXM-user-15.0-6aa1e28de2.zip
   name: Redmi Pad SE 8.7 5G
@@ -16882,6 +16888,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VFSCNXM/fw_ruan_ruan-ota_full-OS2.0.202.0.VFSCNXM-user-15.0-901f87c8f3.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS2.0.202.0.VFSCNXM
+- android: '15.0'
+  codename: ruan
+  date: '2026-01-04'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VFSEUXM/fw_ruan_ruan_eea_global-ota_full-OS2.0.207.0.VFSEUXM-user-15.0-47d4a402b9.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS2.0.207.0.VFSEUXM
 - android: '15.0'
   codename: ruan
   date: '2025-04-01'
