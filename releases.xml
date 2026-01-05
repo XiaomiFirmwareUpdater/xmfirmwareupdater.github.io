@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 05 Jan 2026 12:56:46 </lastBuildDate>
+        <lastBuildDate>Mon, 05 Jan 2026 19:13:18 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.208.0.VFOEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
+            <pubDate>Mon, 05 Jan 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 Pro 4G (obsidian) - OS2.0.212.0.VOFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
@@ -714,11 +719,6 @@
         <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS2.0.207.0.VNSEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
-            <pubDate>Fri, 26 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.210.0.VNFEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
             <pubDate>Fri, 26 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
