@@ -12492,6 +12492,12 @@
   version: OS1.0.11.0.UMPMIXM
 - android: '14.0'
   codename: moonstone
+  date: '2026-01-06'
+  download: https://bigota.d.miui.com/OS1.0.25.0.UMPEUXM/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.25.0.UMPEUXM_19772f89c5_14.0.zip
+  name: POCO X5 5G
+  version: OS1.0.25.0.UMPEUXM
+- android: '14.0'
+  codename: moonstone
   date: '2025-01-06'
   download: https://bigota.d.miui.com/OS1.0.10.0.UMPEUXM/fw_moonstone_miui_MOONSTONEEEAGlobal_OS1.0.10.0.UMPEUXM_d92b29cbe2_14.0.zip
   name: POCO X5 5G
@@ -18046,6 +18052,12 @@
   download: https://bigota.d.miui.com/OS2.0.7.0.VNHMIXM/fw_sapphiren_global_sapphiren_global-ota_full-OS2.0.7.0.VNHMIXM-user-15.0-ac0a4e7772.zip
   name: Redmi Note 13 NFC
   version: OS2.0.7.0.VNHMIXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2026-01-06'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VNHEUXM/fw_sapphiren_sapphiren_eea_global-ota_full-OS2.0.209.0.VNHEUXM-user-15.0-4cf9315859.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.209.0.VNHEUXM
 - android: '15.0'
   codename: sapphiren
   date: '2025-10-04'
@@ -24784,6 +24796,12 @@
   download: https://bigota.d.miui.com/OS1.0.14.0.ULLCNXM/fw_ziyi_miui_ZIYI_OS1.0.14.0.ULLCNXM_cd66e10f24_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.14.0.ULLCNXM
+- android: '15.0'
+  codename: ziyi
+  date: '2026-01-06'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VLLEUXM/fw_ziyi_ziyi_eea_global-ota_full-OS2.0.205.0.VLLEUXM-user-15.0-22c61b0bbb.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS2.0.205.0.VLLEUXM
 - android: '15.0'
   codename: ziyi
   date: '2025-10-05'

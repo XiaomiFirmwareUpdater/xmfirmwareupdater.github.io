@@ -54,8 +54,8 @@ permalink: /hyperos/sapphire/
                 <tbody>
                 <tr><td>Redmi Note 13 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VNGMIXM</td><td>15.0</td><td>7.7 GB</td><td>2025-12-17</td><td><a href="/hyperos/sapphire/stable/OS2.0.208.0.VNGMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VNGMIXM</td><td>15.0</td><td>4.9 GB</td><td>2025-12-25</td><td><a href="/hyperos/sapphire/stable/OS2.0.208.0.VNGMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 NFC EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VNHEUXM</td><td>15.0</td><td>7.2 GB</td><td>2025-12-17</td><td><a href="/hyperos/sapphiren/stable/OS2.0.208.0.VNHEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 NFC EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VNHEUXM</td><td>15.0</td><td>4.9 GB</td><td>2025-12-25</td><td><a href="/hyperos/sapphiren/stable/OS2.0.208.0.VNHEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 NFC EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.209.0.VNHEUXM</td><td>15.0</td><td>7.2 GB</td><td>2025-12-22</td><td><a href="/hyperos/sapphiren/stable/OS2.0.209.0.VNHEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 NFC EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.209.0.VNHEUXM</td><td>15.0</td><td>4.9 GB</td><td>2026-01-02</td><td><a href="/hyperos/sapphiren/stable/OS2.0.209.0.VNHEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VNHMIXM</td><td>15.0</td><td>7.7 GB</td><td>2025-12-17</td><td><a href="/hyperos/sapphiren/stable/OS2.0.207.0.VNHMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VNHMIXM</td><td>15.0</td><td>4.9 GB</td><td>2025-12-25</td><td><a href="/hyperos/sapphiren/stable/OS2.0.207.0.VNHMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VNHIDXM</td><td>15.0</td><td>7.2 GB</td><td>2025-12-15</td><td><a href="/hyperos/sapphiren/stable/OS2.0.208.0.VNHIDXM/">Download</a></td></tr>
