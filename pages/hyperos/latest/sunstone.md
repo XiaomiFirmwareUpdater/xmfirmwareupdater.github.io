@@ -54,8 +54,8 @@ permalink: /hyperos/sunstone/
                 <tbody>
                 <tr><td>Redmi Note 12 5G / Note 12R Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.6.0.UMQCNXM</td><td>14.0</td><td>6.4 GB</td><td>2025-08-12</td><td><a href="/hyperos/sunstone/stable/OS2.0.6.0.UMQCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 5G / Note 12R Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.6.0.UMQCNXM</td><td>14.0</td><td>4.6 GB</td><td>2025-08-22</td><td><a href="/hyperos/sunstone/stable/OS2.0.6.0.UMQCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.6.0.UMQEUXM</td><td>14.0</td><td>6.1 GB</td><td>2025-10-20</td><td><a href="/hyperos/sunstone/stable/OS2.0.6.0.UMQEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.6.0.UMQEUXM</td><td>14.0</td><td>4.2 GB</td><td>2025-10-27</td><td><a href="/hyperos/sunstone/stable/OS2.0.6.0.UMQEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.7.0.UMQEUXM</td><td>14.0</td><td>6.1 GB</td><td>2025-12-24</td><td><a href="/hyperos/sunstone/stable/OS2.0.7.0.UMQEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.7.0.UMQEUXM</td><td>14.0</td><td>4.2 GB</td><td>2026-01-04</td><td><a href="/hyperos/sunstone/stable/OS2.0.7.0.UMQEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.5.0.UMQMIXM</td><td>14.0</td><td>6.4 GB</td><td>2025-10-20</td><td><a href="/hyperos/sunstone/stable/OS2.0.5.0.UMQMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.5.0.UMQMIXM</td><td>14.0</td><td>4.1 GB</td><td>2025-10-28</td><td><a href="/hyperos/sunstone/stable/OS2.0.5.0.UMQMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.6.0.UMQINXM</td><td>14.0</td><td>5.5 GB</td><td>2025-08-21</td><td><a href="/hyperos/sunstone/stable/OS2.0.6.0.UMQINXM/">Download</a></td></tr>

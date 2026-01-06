@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 06 Jan 2026 07:17:08 </lastBuildDate>
+        <lastBuildDate>Tue, 06 Jan 2026 13:19:53 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS2.0.208.0.VOQEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
+            <pubDate>Tue, 06 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K80 Ultra (dali) - OS3.0.7.0.WONCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dali/</link>
+            <pubDate>Tue, 06 Jan 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 15C/POCO C85 (dew) - OS2.0.215.0.VBNEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dew/</link>
@@ -14,6 +24,21 @@
         <item>
             <title>Xiaomi 15T (goya) - OS3.0.7.0.WOEMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/goya/</link>
+            <pubDate>Tue, 06 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 5G (kunzite) - OS2.0.202.0.VPQINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
+            <pubDate>Tue, 06 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 13/POCO M6 (moon) - OS3.0.2.0.WNTEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/moon/</link>
+            <pubDate>Tue, 06 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS2.0.7.0.UMQEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Tue, 06 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -68,11 +93,6 @@
         </item>
         <item>
             <title>Redmi 13/POCO M6 (moon) - OS3.0.5.0.WNTMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/moon/</link>
-            <pubDate>Sun, 04 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 13/POCO M6 (moon) - OS3.0.1.0.WNTEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moon/</link>
             <pubDate>Sun, 04 Jan 2026 00:00:00 </pubDate>
         </item>
@@ -427,11 +447,6 @@
             <pubDate>Mon, 29 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K80 Ultra (dali) - OS3.0.5.0.WONCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dali/</link>
-            <pubDate>Mon, 29 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 15C/POCO C85 (dew) - OS2.0.217.0.VBNMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dew/</link>
             <pubDate>Mon, 29 Dec 2025 00:00:00 </pubDate>
@@ -693,11 +708,6 @@
         </item>
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS2.0.211.0.VOQCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
-            <pubDate>Fri, 26 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS2.0.207.0.VOQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
             <pubDate>Fri, 26 Dec 2025 00:00:00 </pubDate>
         </item>
@@ -1318,11 +1328,6 @@
         </item>
         <item>
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS2.0.5.0.UMQMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sunstone/</link>
-            <pubDate>Fri, 07 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS2.0.6.0.UMQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Fri, 07 Nov 2025 00:00:00 </pubDate>
         </item>

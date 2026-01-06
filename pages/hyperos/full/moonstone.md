@@ -52,7 +52,9 @@ permalink: /archive/hyperos/moonstone/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO X5 5G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.26.0.UMPMIXM</td><td>14.0</td><td>3.9 GB</td><td>2025-12-26</td><td><a href="/hyperos/moonstone/stable/OS1.0.26.0.UMPMIXM/">Download</a></td></tr>
+                <tr><td>POCO X5 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.25.0.UMPEUXM</td><td>14.0</td><td>3.9 GB</td><td>2026-01-04</td><td><a href="/hyperos/moonstone/stable/OS1.0.25.0.UMPEUXM/">Download</a></td></tr>
+<tr><td>POCO X5 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.25.0.UMPEUXM</td><td>14.0</td><td>5.7 GB</td><td>2025-12-24</td><td><a href="/hyperos/moonstone/stable/OS1.0.25.0.UMPEUXM/">Download</a></td></tr>
+<tr><td>POCO X5 5G Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.26.0.UMPMIXM</td><td>14.0</td><td>3.9 GB</td><td>2025-12-26</td><td><a href="/hyperos/moonstone/stable/OS1.0.26.0.UMPMIXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.26.0.UMPMIXM</td><td>14.0</td><td>6.0 GB</td><td>2025-12-24</td><td><a href="/hyperos/moonstone/stable/OS1.0.26.0.UMPMIXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.20.0.UMPTRXM</td><td>14.0</td><td>3.9 GB</td><td>2025-12-04</td><td><a href="/hyperos/moonstone/stable/OS1.0.20.0.UMPTRXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.20.0.UMPTRXM</td><td>14.0</td><td>5.5 GB</td><td>2025-11-28</td><td><a href="/hyperos/moonstone/stable/OS1.0.20.0.UMPTRXM/">Download</a></td></tr>

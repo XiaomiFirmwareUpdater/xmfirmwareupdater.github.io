@@ -8,3 +8,13 @@
   versions:
     android: '15.0'
     miui: OS2.0.207.0.VPQCNXM
+- branch: stable
+  date: '2026-01-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_kunzite/releases/download/stable-06.01.2026/fw_kunzite_kunzite_in_global-ota_full-OS2.0.202.0.VPQINXM-user-15.0-759b4a4ee6.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/kunzite/fw_kunzite_kunzite_in_global-ota_full-OS2.0.202.0.VPQINXM-user-15.0-759b4a4ee6.zip
+  filename: fw_kunzite_kunzite_in_global-ota_full-OS2.0.202.0.VPQINXM-user-15.0-759b4a4ee6.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.202.0.VPQINXM
