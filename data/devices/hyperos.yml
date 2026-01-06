@@ -3671,6 +3671,12 @@
   name: Redmi 15C/POCO C85
   version: OS2.0.212.0.VBNEUXM
 - android: '15.0'
+  codename: dew
+  date: '2026-01-06'
+  download: https://bigota.d.miui.com/OS2.0.215.0.VBNEUXM/fw_dew_dew_eea_global-ota_full-OS2.0.215.0.VBNEUXM-user-15.0-5e55d537bd.zip
+  name: Redmi 15C/POCO C85
+  version: OS2.0.215.0.VBNEUXM
+- android: '15.0'
   codename: dijun
   date: '2025-07-25'
   download: https://bigota.d.miui.com/OS2.0.207.0.VODCNXM/fw_dijun_dijun-ota_full-OS2.0.207.0.VODCNXM-user-15.0-5a044d2e85.zip
@@ -20872,6 +20878,12 @@
   download: https://bigota.d.miui.com/OS2.0.10.0.VMGMIXM/fw_topaz_global_topaz_global-ota_full-OS2.0.10.0.VMGMIXM-user-15.0-fc98aa6648.zip
   name: Redmi Note 12 4G NFC
   version: OS2.0.10.0.VMGMIXM
+- android: '15.0'
+  codename: topaz
+  date: '2026-01-06'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VMGEUXM/fw_topaz_topaz_eea_global-ota_full-OS2.0.207.0.VMGEUXM-user-15.0-de85197dfb.zip
+  name: Redmi Note 12 4G NFC
+  version: OS2.0.207.0.VMGEUXM
 - android: '14.0'
   codename: topaz
   date: '2024-03-05'

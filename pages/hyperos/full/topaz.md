@@ -52,7 +52,9 @@ permalink: /archive/hyperos/topaz/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12 4G NFC Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VMGMIXM</td><td>15.0</td><td>4.9 GB</td><td>2025-12-25</td><td><a href="/hyperos/topaz/stable/OS2.0.203.0.VMGMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12 4G NFC EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VMGEUXM</td><td>15.0</td><td>4.9 GB</td><td>2025-12-30</td><td><a href="/hyperos/topaz/stable/OS2.0.207.0.VMGEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 4G NFC EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VMGEUXM</td><td>15.0</td><td>7.2 GB</td><td>2025-12-22</td><td><a href="/hyperos/topaz/stable/OS2.0.207.0.VMGEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 4G NFC Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VMGMIXM</td><td>15.0</td><td>4.9 GB</td><td>2025-12-25</td><td><a href="/hyperos/topaz/stable/OS2.0.203.0.VMGMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G NFC Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VMGMIXM</td><td>15.0</td><td>7.6 GB</td><td>2025-12-17</td><td><a href="/hyperos/topaz/stable/OS2.0.203.0.VMGMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G NFC EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VMGEUXM</td><td>15.0</td><td>4.9 GB</td><td>2025-12-22</td><td><a href="/hyperos/topaz/stable/OS2.0.206.0.VMGEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G NFC EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VMGEUXM</td><td>15.0</td><td>7.2 GB</td><td>2025-12-10</td><td><a href="/hyperos/topaz/stable/OS2.0.206.0.VMGEUXM/">Download</a></td></tr>
@@ -80,12 +82,12 @@ permalink: /archive/hyperos/topaz/
 <tr><td>Redmi Note 12 4G NFC EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.VMGEUXM</td><td>15.0</td><td>7.2 GB</td><td>2025-04-16</td><td><a href="/hyperos/topaz/stable/OS2.0.3.0.VMGEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G NFC Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VMGRUXM</td><td>15.0</td><td>4.6 GB</td><td>2025-03-12</td><td><a href="/hyperos/topaz/stable/OS2.0.2.0.VMGRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G NFC Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VMGRUXM</td><td>15.0</td><td>7.5 GB</td><td>2025-02-24</td><td><a href="/hyperos/topaz/stable/OS2.0.2.0.VMGRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 4G NFC Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VMGIDXM</td><td>15.0</td><td>4.6 GB</td><td>2025-03-07</td><td><a href="/hyperos/topaz/stable/OS2.0.2.0.VMGIDXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 4G NFC Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VMGIDXM</td><td>15.0</td><td>7.0 GB</td><td>2025-02-24</td><td><a href="/hyperos/topaz/stable/OS2.0.2.0.VMGIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G NFC Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VMGMIXM</td><td>15.0</td><td>4.8 GB</td><td>2025-08-18</td><td><a href="/hyperos/topaz/stable/OS2.0.201.0.VMGMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G NFC Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VMGMIXM</td><td>15.0</td><td>7.5 GB</td><td>2025-08-12</td><td><a href="/hyperos/topaz/stable/OS2.0.201.0.VMGMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G NFC EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VMGEUXM</td><td>15.0</td><td>4.8 GB</td><td>2025-07-10</td><td><a href="/hyperos/topaz/stable/OS2.0.203.0.VMGEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G NFC EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VMGEUXM</td><td>15.0</td><td>7.0 GB</td><td>2025-07-03</td><td><a href="/hyperos/topaz/stable/OS2.0.203.0.VMGEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 4G NFC Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VMGIDXM</td><td>15.0</td><td>4.6 GB</td><td>2025-03-07</td><td><a href="/hyperos/topaz/stable/OS2.0.2.0.VMGIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 4G NFC Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VMGIDXM</td><td>15.0</td><td>7.0 GB</td><td>2025-02-24</td><td><a href="/hyperos/topaz/stable/OS2.0.2.0.VMGIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G NFC EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VMGEUXM</td><td>15.0</td><td>4.7 GB</td><td>2025-02-21</td><td><a href="/hyperos/topaz/stable/OS2.0.2.0.VMGEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G NFC EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VMGEUXM</td><td>15.0</td><td>7.2 GB</td><td>2025-02-12</td><td><a href="/hyperos/topaz/stable/OS2.0.2.0.VMGEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G NFC Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.9.0.VMGMIXM</td><td>15.0</td><td>4.7 GB</td><td>2025-02-19</td><td><a href="/hyperos/topaz/stable/OS2.0.9.0.VMGMIXM/">Download</a></td></tr>
