@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2026-01-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flourite/releases/download/stable-08.01.2026/fw_flourite_flourite_global-ota_full-OS2.0.206.0.VPRMIXM-user-15.0-e437b2c623.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/flourite/fw_flourite_flourite_global-ota_full-OS2.0.206.0.VPRMIXM-user-15.0-e437b2c623.zip
+  filename: fw_flourite_flourite_global-ota_full-OS2.0.206.0.VPRMIXM-user-15.0-e437b2c623.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.206.0.VPRMIXM
+- branch: stable
   date: '2025-12-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flourite/releases/download/stable-18.12.2025/fw_flourite_flourite-ota_full-OS3.0.2.0.WPRCNXM-user-16.0-9c6218762a.zip
@@ -8,3 +18,13 @@
   versions:
     android: '16.0'
     miui: OS3.0.2.0.WPRCNXM
+- branch: stable
+  date: '2026-01-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flourite/releases/download/stable-08.01.2026/fw_flourite_flourite_eea_global-ota_full-OS2.0.205.0.VPREUXM-user-15.0-09be4c5620.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/flourite/fw_flourite_flourite_eea_global-ota_full-OS2.0.205.0.VPREUXM-user-15.0-09be4c5620.zip
+  filename: fw_flourite_flourite_eea_global-ota_full-OS2.0.205.0.VPREUXM-user-15.0-09be4c5620.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.205.0.VPREUXM

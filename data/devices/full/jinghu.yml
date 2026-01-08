@@ -59,6 +59,16 @@
     android: '15.0'
     miui: OS2.0.206.0.VOXCNXM
 - branch: stable
+  date: '2026-01-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_jinghu/releases/download/stable-08.01.2026/fw_jinghu_jinghu-ota_full-OS3.0.7.0.WOXCNXM-user-16.0-1c0633f855.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/jinghu/fw_jinghu_jinghu-ota_full-OS3.0.7.0.WOXCNXM-user-16.0-1c0633f855.zip
+  filename: fw_jinghu_jinghu-ota_full-OS3.0.7.0.WOXCNXM-user-16.0-1c0633f855.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.7.0.WOXCNXM
+- branch: stable
   date: '2025-06-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_jinghu/releases/download/stable-04.06.2025/fw_jinghu_jinghu-ota_full-OS2.0.110.0.VOXCNXM-user-15.0-b31d1e2501.zip

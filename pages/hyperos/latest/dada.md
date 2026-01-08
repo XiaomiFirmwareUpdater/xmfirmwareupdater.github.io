@@ -52,8 +52,8 @@ permalink: /hyperos/dada/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 15 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WOCCNXM</td><td>16.0</td><td>11.7 GB</td><td>2025-10-29</td><td><a href="/hyperos/dada/stable/OS3.0.5.0.WOCCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WOCCNXM</td><td>16.0</td><td>8.2 GB</td><td>2025-11-05</td><td><a href="/hyperos/dada/stable/OS3.0.5.0.WOCCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 15 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WOCCNXM</td><td>16.0</td><td>11.7 GB</td><td>2025-12-18</td><td><a href="/hyperos/dada/stable/OS3.0.6.0.WOCCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WOCCNXM</td><td>16.0</td><td>8.3 GB</td><td>2025-12-25</td><td><a href="/hyperos/dada/stable/OS3.0.6.0.WOCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.104.0.VOCCNXM</td><td>15.0</td><td>7.6 GB</td><td>2025-01-21</td><td><a href="/hyperos/dada/stable beta/OS2.0.104.0.VOCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WOCEUXM</td><td>16.0</td><td>9.9 GB</td><td>2025-11-13</td><td><a href="/hyperos/dada/stable/OS3.0.6.0.WOCEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WOCEUXM</td><td>16.0</td><td>8.2 GB</td><td>2025-11-20</td><td><a href="/hyperos/dada/stable/OS3.0.6.0.WOCEUXM/">Download</a></td></tr>

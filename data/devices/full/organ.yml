@@ -88,3 +88,13 @@
   versions:
     android: '15.0'
     miui: OS2.0.201.0.VPXEUXM
+- branch: stable
+  date: '2026-01-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_organ/releases/download/stable-08.01.2026/fw_organ_organ_eea_global-ota_full-OS3.0.3.0.WPXEUXM-user-16.0-5a367eed1a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/organ/fw_organ_organ_eea_global-ota_full-OS3.0.3.0.WPXEUXM-user-16.0-5a367eed1a.zip
+  filename: fw_organ_organ_eea_global-ota_full-OS3.0.3.0.WPXEUXM-user-16.0-5a367eed1a.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.3.0.WPXEUXM

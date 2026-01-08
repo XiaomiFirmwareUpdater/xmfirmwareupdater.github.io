@@ -719,6 +719,16 @@
     android: '15.0'
     miui: OS2.0.6.0.VNRCNXM
 - branch: stable
+  date: '2026-01-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-08.01.2026/fw_garnet_garnet_eea_global-ota_full-OS2.0.207.0.VNREUXM-user-15.0-16e261d866.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/garnet/fw_garnet_garnet_eea_global-ota_full-OS2.0.207.0.VNREUXM-user-15.0-16e261d866.zip
+  filename: fw_garnet_garnet_eea_global-ota_full-OS2.0.207.0.VNREUXM-user-15.0-16e261d866.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.207.0.VNREUXM
+- branch: stable
   date: '2025-07-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-07.07.2025/fw_garnet_eea_global_garnet_eea_global-ota_full-OS2.0.12.0.VNREUXM-user-15.0-e5f27a1293.zip

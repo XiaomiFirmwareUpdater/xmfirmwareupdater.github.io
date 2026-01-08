@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-12-28'
+  date: '2026-01-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-28.12.2025/fw_ishtar_ishtar_global-ota_full-OS2.0.210.0.VMAMIXM-user-15.0-4b9d1b0dca.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ishtar/fw_ishtar_ishtar_global-ota_full-OS2.0.210.0.VMAMIXM-user-15.0-4b9d1b0dca.zip
-  filename: fw_ishtar_ishtar_global-ota_full-OS2.0.210.0.VMAMIXM-user-15.0-4b9d1b0dca.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-08.01.2026/fw_ishtar_ishtar_global-ota_full-OS3.0.1.0.WMAMIXM-user-16.0-65c90c621b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ishtar/fw_ishtar_ishtar_global-ota_full-OS3.0.1.0.WMAMIXM-user-16.0-65c90c621b.zip
+  filename: fw_ishtar_ishtar_global-ota_full-OS3.0.1.0.WMAMIXM-user-16.0-65c90c621b.zip
   region: Global
   versions:
-    android: '15.0'
-    miui: OS2.0.210.0.VMAMIXM
+    android: '16.0'
+    miui: OS3.0.1.0.WMAMIXM
 - branch: stable
   date: '2025-12-18'
   downloads:
@@ -19,12 +19,12 @@
     android: '16.0'
     miui: OS3.0.3.0.WMACNXM
 - branch: stable
-  date: '2025-11-14'
+  date: '2026-01-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-14.11.2025/fw_ishtar_ishtar_eea_global-ota_full-OS2.0.204.0.VMAEUXM-user-15.0-37620b25f0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ishtar/fw_ishtar_ishtar_eea_global-ota_full-OS2.0.204.0.VMAEUXM-user-15.0-37620b25f0.zip
-  filename: fw_ishtar_ishtar_eea_global-ota_full-OS2.0.204.0.VMAEUXM-user-15.0-37620b25f0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-08.01.2026/fw_ishtar_ishtar_eea_global-ota_full-OS3.0.1.0.WMAEUXM-user-16.0-1ab83dffa7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ishtar/fw_ishtar_ishtar_eea_global-ota_full-OS3.0.1.0.WMAEUXM-user-16.0-1ab83dffa7.zip
+  filename: fw_ishtar_ishtar_eea_global-ota_full-OS3.0.1.0.WMAEUXM-user-16.0-1ab83dffa7.zip
   region: Europe
   versions:
-    android: '15.0'
-    miui: OS2.0.204.0.VMAEUXM
+    android: '16.0'
+    miui: OS3.0.1.0.WMAEUXM

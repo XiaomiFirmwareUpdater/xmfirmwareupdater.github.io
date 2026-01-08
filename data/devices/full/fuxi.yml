@@ -609,6 +609,16 @@
     android: '13.0'
     miui: V14.0.21.0.TMCCNXM
 - branch: stable
+  date: '2026-01-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-08.01.2026/fw_fuxi_fuxi_eea_global-ota_full-OS2.0.207.0.VMCEUXM-user-15.0-1c5fb3b931.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/fuxi/fw_fuxi_fuxi_eea_global-ota_full-OS2.0.207.0.VMCEUXM-user-15.0-1c5fb3b931.zip
+  filename: fw_fuxi_fuxi_eea_global-ota_full-OS2.0.207.0.VMCEUXM-user-15.0-1c5fb3b931.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.207.0.VMCEUXM
+- branch: stable
   date: '2025-01-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-08.01.2025/fw_fuxi_eea_global_fuxi_eea_global-ota_full-OS2.0.2.0.VMCEUXM-user-15.0-9b7d7c7038.zip

@@ -1069,6 +1069,16 @@
     android: '15.0'
     miui: OS2.0.1.0.VLBCNXM
 - branch: stable
+  date: '2026-01-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-08.01.2026/fw_zeus_zeus_eea_global-ota_full-OS2.0.210.0.VLBEUXM-user-15.0-79610b04e9.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_zeus_eea_global-ota_full-OS2.0.210.0.VLBEUXM-user-15.0-79610b04e9.zip
+  filename: fw_zeus_zeus_eea_global-ota_full-OS2.0.210.0.VLBEUXM-user-15.0-79610b04e9.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.210.0.VLBEUXM
+- branch: stable
   date: '2025-01-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-08.01.2025/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.17.0.ULBEUXM_004449d5de_14.0.zip

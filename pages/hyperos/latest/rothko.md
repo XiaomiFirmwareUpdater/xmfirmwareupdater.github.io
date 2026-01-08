@@ -56,11 +56,9 @@ permalink: /hyperos/rothko/
 <tr><td>Redmi K70 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WNNCNXM</td><td>16.0</td><td>7.6 GB</td><td>2025-12-18</td><td><a href="/hyperos/rothko/stable/OS3.0.5.0.WNNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 Ultra China</td><td>Stable Beta</td><td>Fastboot</td><td>OS1.0.13.0.UNNCNXM</td><td>14.0</td><td>8.9 GB</td><td>2024-07-15</td><td><a href="/hyperos/rothko/stable beta/OS1.0.13.0.UNNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.20.0.UNNCNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-08-07</td><td><a href="/hyperos/rothko/stable beta/OS1.0.20.0.UNNCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WNNEUXM</td><td>16.0</td><td>8.4 GB</td><td>2025-11-25</td><td><a href="/hyperos/rothko/stable/OS3.0.3.0.WNNEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WNNEUXM</td><td>16.0</td><td>6.7 GB</td><td>2025-12-03</td><td><a href="/hyperos/rothko/stable/OS3.0.3.0.WNNEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.226.0.WNNEUXM</td><td>16.0</td><td>8.3 GB</td><td>2025-11-05</td><td><a href="/hyperos/rothko/stable/OS2.0.226.0.WNNEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.226.0.WNNEUXM</td><td>16.0</td><td>6.5 GB</td><td>2025-11-13</td><td><a href="/hyperos/rothko/stable/OS2.0.226.0.WNNEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.UNNEUXM</td><td>14.0</td><td>5.8 GB</td><td>2024-09-26</td><td><a href="/hyperos/rothko/stable beta/OS1.0.5.0.UNNEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.225.0.WNNMIXM</td><td>16.0</td><td>8.9 GB</td><td>2025-11-05</td><td><a href="/hyperos/rothko/stable/OS2.0.225.0.WNNMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.225.0.WNNMIXM</td><td>16.0</td><td>6.4 GB</td><td>2025-11-13</td><td><a href="/hyperos/rothko/stable/OS2.0.225.0.WNNMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UNNMIXM</td><td>14.0</td><td>5.7 GB</td><td>2024-09-26</td><td><a href="/hyperos/rothko/stable beta/OS1.0.4.0.UNNMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VNNIDXM</td><td>15.0</td><td>7.9 GB</td><td>2025-11-03</td><td><a href="/hyperos/rothko/stable/OS2.0.207.0.VNNIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro India</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VNNIDXM</td><td>15.0</td><td>6.3 GB</td><td>2025-11-10</td><td><a href="/hyperos/rothko/stable/OS2.0.207.0.VNNIDXM/">Download</a></td></tr>
@@ -73,6 +71,8 @@ permalink: /hyperos/rothko/
 <tr><td>Xiaomi 14T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VNNTRXM</td><td>15.0</td><td>6.3 GB</td><td>2025-11-17</td><td><a href="/hyperos/rothko/stable/OS2.0.205.0.VNNTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VNNTWXM</td><td>15.0</td><td>7.3 GB</td><td>2025-11-06</td><td><a href="/hyperos/rothko/stable/OS2.0.207.0.VNNTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VNNTWXM</td><td>15.0</td><td>6.1 GB</td><td>2025-11-17</td><td><a href="/hyperos/rothko/stable/OS2.0.207.0.VNNTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WNNMIXM</td><td>16.0</td><td>9.0 GB</td><td>2025-12-24</td><td><a href="/hyperos/rothko/stable/OS3.0.1.0.WNNMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WNNMIXM</td><td>16.0</td><td>6.7 GB</td><td>2025-12-30</td><td><a href="/hyperos/rothko/stable/OS3.0.1.0.WNNMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

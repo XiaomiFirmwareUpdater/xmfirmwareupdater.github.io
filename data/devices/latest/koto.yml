@@ -1,23 +1,23 @@
 - branch: stable
-  date: '2025-12-31'
+  date: '2026-01-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_koto/releases/download/stable-31.12.2025/fw_koto_koto_global-ota_full-OS3.0.2.0.WOWMIXM-user-16.0-ba9ae70c66.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/koto/fw_koto_koto_global-ota_full-OS3.0.2.0.WOWMIXM-user-16.0-ba9ae70c66.zip
-  filename: fw_koto_koto_global-ota_full-OS3.0.2.0.WOWMIXM-user-16.0-ba9ae70c66.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_koto/releases/download/stable-07.01.2026/fw_koto_koto_global-ota_full-OS3.0.3.0.WOWMIXM-user-16.0-e7bba82fcd.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/koto/fw_koto_koto_global-ota_full-OS3.0.3.0.WOWMIXM-user-16.0-e7bba82fcd.zip
+  filename: fw_koto_koto_global-ota_full-OS3.0.3.0.WOWMIXM-user-16.0-e7bba82fcd.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.2.0.WOWMIXM
+    miui: OS3.0.3.0.WOWMIXM
 - branch: stable
-  date: '2025-12-15'
+  date: '2026-01-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_koto/releases/download/stable-15.12.2025/fw_koto_koto_eea_global-ota_full-OS3.0.2.0.WOWEUXM-user-16.0-965218b324.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/koto/fw_koto_koto_eea_global-ota_full-OS3.0.2.0.WOWEUXM-user-16.0-965218b324.zip
-  filename: fw_koto_koto_eea_global-ota_full-OS3.0.2.0.WOWEUXM-user-16.0-965218b324.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_koto/releases/download/stable-08.01.2026/fw_koto_koto_eea_global-ota_full-OS3.0.3.0.WOWEUXM-user-16.0-f83e3e8d3c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/koto/fw_koto_koto_eea_global-ota_full-OS3.0.3.0.WOWEUXM-user-16.0-f83e3e8d3c.zip
+  filename: fw_koto_koto_eea_global-ota_full-OS3.0.3.0.WOWEUXM-user-16.0-f83e3e8d3c.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.2.0.WOWEUXM
+    miui: OS3.0.3.0.WOWEUXM
 - branch: stable
   date: '2025-12-29'
   downloads:
