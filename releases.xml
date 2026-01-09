@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 09 Jan 2026 07:34:45 </lastBuildDate>
+        <lastBuildDate>Fri, 09 Jan 2026 13:39:26 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.209.0.VNLMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 12C/POCO C55 (earth) - OS1.0.15.0.UCVEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/earth/</link>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 12 (fire) - OS2.0.207.0.VMXEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fire/</link>
@@ -14,6 +24,16 @@
         <item>
             <title>Xiaomi 14 (houji) - OS3.0.6.0.WNCEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 5G (kunzite) - OS3.0.2.0.WPQCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 14C/POCO C75/Redmi A3 Pro (lake) - OS2.0.207.0.VGTEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lake/</link>
             <pubDate>Fri, 09 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -34,6 +54,21 @@
         <item>
             <title>Xiaomi 12T (plato) - OS2.0.211.0.VLQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/plato/</link>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Lite (taoyao) - OS1.0.36.0.ULIEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/taoyao/</link>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.2.0.WNKEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 Ultra (xuanyuan) - OS3.0.7.0.WOACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Fri, 09 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -652,11 +687,6 @@
             <pubDate>Mon, 29 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 14C/POCO C75/Redmi A3 Pro (lake) - OS2.0.205.0.VGTEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lake/</link>
-            <pubDate>Mon, 29 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 8 Pro (piano) - OS3.0.9.0.WPYCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/piano/</link>
             <pubDate>Mon, 29 Dec 2025 00:00:00 </pubDate>
@@ -952,18 +982,8 @@
             <pubDate>Mon, 22 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 12C/POCO C55 (earth) - OS1.0.14.0.UCVEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Mon, 22 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.207.0.VMRINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Sat, 20 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.1.0.WNKEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Sat, 20 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1044,11 +1064,6 @@
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS2.0.213.0.VOPEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
-            <pubDate>Tue, 16 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Lite (taoyao) - OS1.0.35.0.ULIEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/taoyao/</link>
             <pubDate>Tue, 16 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1172,11 +1187,6 @@
             <pubDate>Sat, 29 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS2.0.207.0.VNLMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Sat, 29 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.207.0.VNPEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
             <pubDate>Sat, 29 Nov 2025 00:00:00 </pubDate>
@@ -1189,11 +1199,6 @@
         <item>
             <title>Xiaomi 14 (houji) - OS2.0.207.0.VNCINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/houji/</link>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 5G (kunzite) - OS2.0.207.0.VPQCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
             <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1328,11 +1333,6 @@
         </item>
         <item>
             <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.206.0.VOAMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 Ultra (xuanyuan) - OS3.0.6.0.WOACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Thu, 13 Nov 2025 00:00:00 </pubDate>
         </item>

@@ -4890,6 +4890,12 @@
   version: OS1.0.14.0.UNLINXM
 - android: '15.0'
   codename: duchamp
+  date: '2026-01-09'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VNLMIXM/fw_duchamp_duchamp_global-ota_full-OS2.0.209.0.VNLMIXM-user-15.0-e41e4290bf.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS2.0.209.0.VNLMIXM
+- android: '15.0'
+  codename: duchamp
   date: '2025-04-08'
   download: https://bigota.d.miui.com/OS2.0.101.0.VNLINXM/fw_duchamp_in_global_duchamp_in_global-ota_full-OS2.0.101.0.VNLINXM-user-15.0-d7d6140f83.zip
   name: Redmi K70E/POCO X6 Pro 5G
@@ -5134,6 +5140,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UCVCNXM/fw_earth_miui_EARTH_OS1.0.5.0.UCVCNXM_f3ec4d80d3_14.0.zip
   name: Redmi 12C/POCO C55
   version: OS1.0.5.0.UCVCNXM
+- android: '14.0'
+  codename: earth
+  date: '2026-01-09'
+  download: https://bigota.d.miui.com/OS1.0.15.0.UCVEUXM/fw_earth_miui_EARTHEEAGlobal_OS1.0.15.0.UCVEUXM_8ce814ed51_14.0.zip
+  name: Redmi 12C/POCO C55
+  version: OS1.0.15.0.UCVEUXM
 - android: '14.0'
   codename: earth
   date: '2025-01-08'
@@ -9730,6 +9742,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UGTEUXM/fw_lake_miui_LAKEEEAGlobal_OS1.0.9.0.UGTEUXM_e2c155ba02_14.0.zip
   name: Redmi 14C/POCO C75/Redmi A3 Pro
   version: OS1.0.9.0.UGTEUXM
+- android: '15.0'
+  codename: lake
+  date: '2026-01-09'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VGTEUXM/fw_lake_lake_eea_global-ota_full-OS2.0.207.0.VGTEUXM-user-15.0-d75fc59957.zip
+  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  version: OS2.0.207.0.VGTEUXM
 - android: '14.0'
   codename: lake
   date: '2024-10-08'
@@ -20590,6 +20608,12 @@
   download: https://bigota.d.miui.com/OS1.0.18.0.ULIMIXM/fw_taoyao_miui_TAOYAOGlobal_OS1.0.18.0.ULIMIXM_5d7d815383_14.0.zip
   name: Xiaomi 12 Lite
   version: OS1.0.18.0.ULIMIXM
+- android: '14.0'
+  codename: taoyao
+  date: '2026-01-09'
+  download: https://bigota.d.miui.com/OS1.0.36.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.36.0.ULIEUXM_10b854473f_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.36.0.ULIEUXM
 - android: '14.0'
   codename: taoyao
   date: '2024-11-08'

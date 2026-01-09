@@ -1659,15 +1659,15 @@
     android: '15.0'
     miui: OS2.0.206.0.VNSINXM
 - branch: stable
-  date: '2025-11-29'
+  date: '2026-01-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-29.11.2025/fw_duchamp_duchamp_global-ota_full-OS2.0.207.0.VNLMIXM-user-15.0-344cc52711.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/duchamp/fw_duchamp_duchamp_global-ota_full-OS2.0.207.0.VNLMIXM-user-15.0-344cc52711.zip
-  filename: fw_duchamp_duchamp_global-ota_full-OS2.0.207.0.VNLMIXM-user-15.0-344cc52711.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-09.01.2026/fw_duchamp_duchamp_global-ota_full-OS2.0.209.0.VNLMIXM-user-15.0-e41e4290bf.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/duchamp/fw_duchamp_duchamp_global-ota_full-OS2.0.209.0.VNLMIXM-user-15.0-e41e4290bf.zip
+  filename: fw_duchamp_duchamp_global-ota_full-OS2.0.209.0.VNLMIXM-user-15.0-e41e4290bf.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.207.0.VNLMIXM
+    miui: OS2.0.209.0.VNLMIXM
 - branch: stable
   date: '2025-12-12'
   downloads:
@@ -1719,15 +1719,15 @@
     android: '14.0'
     miui: OS1.0.8.0.UCVCNXM
 - branch: stable
-  date: '2025-12-22'
+  date: '2026-01-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-22.12.2025/fw_earth_miui_EARTHEEAGlobal_OS1.0.14.0.UCVEUXM_2a9e30faaa_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHEEAGlobal_OS1.0.14.0.UCVEUXM_2a9e30faaa_14.0.zip
-  filename: fw_earth_miui_EARTHEEAGlobal_OS1.0.14.0.UCVEUXM_2a9e30faaa_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-09.01.2026/fw_earth_miui_EARTHEEAGlobal_OS1.0.15.0.UCVEUXM_8ce814ed51_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHEEAGlobal_OS1.0.15.0.UCVEUXM_8ce814ed51_14.0.zip
+  filename: fw_earth_miui_EARTHEEAGlobal_OS1.0.15.0.UCVEUXM_8ce814ed51_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.14.0.UCVEUXM
+    miui: OS1.0.15.0.UCVEUXM
 - branch: stable
   date: '2025-07-07'
   downloads:
@@ -2999,15 +2999,15 @@
     android: '15.0'
     miui: OS2.0.205.0.VPQMIXM
 - branch: stable
-  date: '2025-11-28'
+  date: '2026-01-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_kunzite/releases/download/stable-28.11.2025/fw_kunzite_kunzite-ota_full-OS2.0.207.0.VPQCNXM-user-15.0-6934a6d67d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/kunzite/fw_kunzite_kunzite-ota_full-OS2.0.207.0.VPQCNXM-user-15.0-6934a6d67d.zip
-  filename: fw_kunzite_kunzite-ota_full-OS2.0.207.0.VPQCNXM-user-15.0-6934a6d67d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_kunzite/releases/download/stable-09.01.2026/fw_kunzite_kunzite-ota_full-OS3.0.2.0.WPQCNXM-user-16.0-6e19a28265.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/kunzite/fw_kunzite_kunzite-ota_full-OS3.0.2.0.WPQCNXM-user-16.0-6e19a28265.zip
+  filename: fw_kunzite_kunzite-ota_full-OS3.0.2.0.WPQCNXM-user-16.0-6e19a28265.zip
   region: China
   versions:
-    android: '15.0'
-    miui: OS2.0.207.0.VPQCNXM
+    android: '16.0'
+    miui: OS3.0.2.0.WPQCNXM
 - branch: stable
   date: '2026-01-08'
   downloads:
@@ -3039,15 +3039,15 @@
     android: '15.0'
     miui: OS2.0.203.0.VGTMIXM
 - branch: stable
-  date: '2025-12-29'
+  date: '2026-01-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-29.12.2025/fw_lake_lake_eea_global-ota_full-OS2.0.205.0.VGTEUXM-user-15.0-b955da676e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lake/fw_lake_lake_eea_global-ota_full-OS2.0.205.0.VGTEUXM-user-15.0-b955da676e.zip
-  filename: fw_lake_lake_eea_global-ota_full-OS2.0.205.0.VGTEUXM-user-15.0-b955da676e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-09.01.2026/fw_lake_lake_eea_global-ota_full-OS2.0.207.0.VGTEUXM-user-15.0-d75fc59957.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lake/fw_lake_lake_eea_global-ota_full-OS2.0.207.0.VGTEUXM-user-15.0-d75fc59957.zip
+  filename: fw_lake_lake_eea_global-ota_full-OS2.0.207.0.VGTEUXM-user-15.0-d75fc59957.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.205.0.VGTEUXM
+    miui: OS2.0.207.0.VGTEUXM
 - branch: stable
   date: '2023-02-03'
   downloads:
@@ -6259,15 +6259,15 @@
     android: '14.0'
     miui: OS1.0.30.0.ULIMIXM
 - branch: stable
-  date: '2025-12-16'
+  date: '2026-01-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-16.12.2025/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.35.0.ULIEUXM_1f4b4b602e_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.35.0.ULIEUXM_1f4b4b602e_14.0.zip
-  filename: fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.35.0.ULIEUXM_1f4b4b602e_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-09.01.2026/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.36.0.ULIEUXM_10b854473f_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.36.0.ULIEUXM_10b854473f_14.0.zip
+  filename: fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.36.0.ULIEUXM_10b854473f_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.35.0.ULIEUXM
+    miui: OS1.0.36.0.ULIEUXM
 - branch: stable
   date: '2025-10-26'
   downloads:
@@ -6829,15 +6829,15 @@
     android: '16.0'
     miui: OS3.0.6.0.WNKCNXM
 - branch: stable
-  date: '2025-12-20'
+  date: '2026-01-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-20.12.2025/fw_vermeer_vermeer_eea_global-ota_full-OS3.0.1.0.WNKEUXM-user-16.0-1f551297f9.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/vermeer/fw_vermeer_vermeer_eea_global-ota_full-OS3.0.1.0.WNKEUXM-user-16.0-1f551297f9.zip
-  filename: fw_vermeer_vermeer_eea_global-ota_full-OS3.0.1.0.WNKEUXM-user-16.0-1f551297f9.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-09.01.2026/fw_vermeer_vermeer_eea_global-ota_full-OS3.0.2.0.WNKEUXM-user-16.0-dd057aa114.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/vermeer/fw_vermeer_vermeer_eea_global-ota_full-OS3.0.2.0.WNKEUXM-user-16.0-dd057aa114.zip
+  filename: fw_vermeer_vermeer_eea_global-ota_full-OS3.0.2.0.WNKEUXM-user-16.0-dd057aa114.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.1.0.WNKEUXM
+    miui: OS3.0.2.0.WNKEUXM
 - branch: stable
   date: '2024-12-16'
   downloads:
@@ -7189,15 +7189,15 @@
     android: '15.0'
     miui: OS2.0.206.0.VOAMIXM
 - branch: stable
-  date: '2025-11-13'
+  date: '2026-01-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xuanyuan/releases/download/stable-13.11.2025/fw_xuanyuan_xuanyuan-ota_full-OS3.0.6.0.WOACNXM-user-16.0-2fbc58db80.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/xuanyuan/fw_xuanyuan_xuanyuan-ota_full-OS3.0.6.0.WOACNXM-user-16.0-2fbc58db80.zip
-  filename: fw_xuanyuan_xuanyuan-ota_full-OS3.0.6.0.WOACNXM-user-16.0-2fbc58db80.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xuanyuan/releases/download/stable-09.01.2026/fw_xuanyuan_xuanyuan-ota_full-OS3.0.7.0.WOACNXM-user-16.0-582e070ea7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/xuanyuan/fw_xuanyuan_xuanyuan-ota_full-OS3.0.7.0.WOACNXM-user-16.0-582e070ea7.zip
+  filename: fw_xuanyuan_xuanyuan-ota_full-OS3.0.7.0.WOACNXM-user-16.0-582e070ea7.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.6.0.WOACNXM
+    miui: OS3.0.7.0.WOACNXM
 - branch: stable
   date: '2025-12-29'
   downloads:

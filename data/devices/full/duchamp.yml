@@ -639,6 +639,16 @@
     android: '14.0'
     miui: OS1.0.14.0.UNLINXM
 - branch: stable
+  date: '2026-01-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-09.01.2026/fw_duchamp_duchamp_global-ota_full-OS2.0.209.0.VNLMIXM-user-15.0-e41e4290bf.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/duchamp/fw_duchamp_duchamp_global-ota_full-OS2.0.209.0.VNLMIXM-user-15.0-e41e4290bf.zip
+  filename: fw_duchamp_duchamp_global-ota_full-OS2.0.209.0.VNLMIXM-user-15.0-e41e4290bf.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.209.0.VNLMIXM
+- branch: stable
   date: '2025-04-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-08.04.2025/fw_duchamp_in_global_duchamp_in_global-ota_full-OS2.0.101.0.VNLINXM-user-15.0-d7d6140f83.zip
