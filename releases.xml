@@ -4,8 +4,38 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 09 Jan 2026 00:49:19 </lastBuildDate>
+        <lastBuildDate>Fri, 09 Jan 2026 07:34:45 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 12 (fire) - OS2.0.207.0.VMXEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/fire/</link>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 (houji) - OS3.0.6.0.WNCEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS3.0.5.0.WOMEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/miro/</link>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K90 Pro Max/POCO F8 Ultra (myron) - OS3.0.11.0.WPMMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/myron/</link>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - OS2.0.210.0.VMBEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12T (plato) - OS2.0.211.0.VLQEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/plato/</link>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.211.0.VNFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
@@ -617,11 +647,6 @@
             <pubDate>Mon, 29 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 14 (houji) - OS3.0.5.0.WNCEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/houji/</link>
-            <pubDate>Mon, 29 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad 2 4G (koto) - OS2.0.207.0.VOWINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/koto/</link>
             <pubDate>Mon, 29 Dec 2025 00:00:00 </pubDate>
@@ -644,11 +669,6 @@
         <item>
             <title>Xiaomi Pad 6 (pipa) - OS2.0.11.0.UMZINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
-            <pubDate>Mon, 29 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12T (plato) - OS2.0.208.0.VLQEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/plato/</link>
             <pubDate>Mon, 29 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -872,11 +892,6 @@
             <pubDate>Fri, 26 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 12 (fire) - OS2.0.206.0.VMXEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/fire/</link>
-            <pubDate>Fri, 26 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13 (fuxi) - OS3.0.2.0.WMCCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
             <pubDate>Fri, 26 Dec 2025 00:00:00 </pubDate>
@@ -919,11 +934,6 @@
         <item>
             <title>Xiaomi Pad 7 Pro (muyu) - OS3.0.4.0.WOYMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
-            <pubDate>Fri, 26 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Pro (nuwa) - OS2.0.208.0.VMBEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Fri, 26 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -979,11 +989,6 @@
         <item>
             <title>Xiaomi Pad 7 Pro (muyu) - OS3.0.4.0.WOYEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
-            <pubDate>Fri, 19 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K90 Pro Max/POCO F8 Ultra (myron) - OS3.0.9.0.WPMMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/myron/</link>
             <pubDate>Fri, 19 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1374,11 +1379,6 @@
         <item>
             <title>Redmi 14C/POCO C75/Redmi A3 Pro (lake) - OS2.0.203.0.VGTMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lake/</link>
-            <pubDate>Thu, 06 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS3.0.3.0.WOMEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/miro/</link>
             <pubDate>Thu, 06 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
