@@ -2419,15 +2419,15 @@
     android: '16.0'
     miui: OS3.0.7.0.WOEMIXM
 - branch: stable
-  date: '2025-12-26'
+  date: '2026-01-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-26.12.2025/fw_goya_goya_eea_global-ota_full-OS3.0.7.0.WOEEUXM-user-16.0-5e0f675883.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_eea_global-ota_full-OS3.0.7.0.WOEEUXM-user-16.0-5e0f675883.zip
-  filename: fw_goya_goya_eea_global-ota_full-OS3.0.7.0.WOEEUXM-user-16.0-5e0f675883.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-10.01.2026/fw_goya_goya_eea_global-ota_full-OS3.0.8.0.WOEEUXM-user-16.0-07e793288b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_eea_global-ota_full-OS3.0.8.0.WOEEUXM-user-16.0-07e793288b.zip
+  filename: fw_goya_goya_eea_global-ota_full-OS3.0.8.0.WOEEUXM-user-16.0-07e793288b.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.7.0.WOEEUXM
+    miui: OS3.0.8.0.WOEEUXM
 - branch: stable
   date: '2023-07-24'
   downloads:
@@ -2949,15 +2949,15 @@
     android: '16.0'
     miui: OS3.0.8.0.WOSMIXM
 - branch: stable
-  date: '2025-12-26'
+  date: '2026-01-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-26.12.2025/fw_klimt_klimt_eea_global-ota_full-OS3.0.9.0.WOSEUXM-user-16.0-a0402c50ea.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_eea_global-ota_full-OS3.0.9.0.WOSEUXM-user-16.0-a0402c50ea.zip
-  filename: fw_klimt_klimt_eea_global-ota_full-OS3.0.9.0.WOSEUXM-user-16.0-a0402c50ea.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-10.01.2026/fw_klimt_klimt_eea_global-ota_full-OS3.0.10.0.WOSEUXM-user-16.0-902ec27dc2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_eea_global-ota_full-OS3.0.10.0.WOSEUXM-user-16.0-902ec27dc2.zip
+  filename: fw_klimt_klimt_eea_global-ota_full-OS3.0.10.0.WOSEUXM-user-16.0-902ec27dc2.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.9.0.WOSEUXM
+    miui: OS3.0.10.0.WOSEUXM
 - branch: stable
   date: '2026-01-07'
   downloads:
@@ -6399,15 +6399,15 @@
     android: '15.0'
     miui: OS2.0.203.0.VPOCNXM
 - branch: stable
-  date: '2025-11-28'
+  date: '2026-01-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tornado/releases/download/stable-28.11.2025/fw_tornado_tornado_eea_global-ota_full-OS2.0.204.0.VPOEUXM-user-15.0-987bf0b62b.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/tornado/fw_tornado_tornado_eea_global-ota_full-OS2.0.204.0.VPOEUXM-user-15.0-987bf0b62b.zip
-  filename: fw_tornado_tornado_eea_global-ota_full-OS2.0.204.0.VPOEUXM-user-15.0-987bf0b62b.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tornado/releases/download/stable-10.01.2026/fw_tornado_tornado_eea_global-ota_full-OS2.0.205.0.VPOEUXM-user-15.0-6e10316750.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/tornado/fw_tornado_tornado_eea_global-ota_full-OS2.0.205.0.VPOEUXM-user-15.0-6e10316750.zip
+  filename: fw_tornado_tornado_eea_global-ota_full-OS2.0.205.0.VPOEUXM-user-15.0-6e10316750.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.204.0.VPOEUXM
+    miui: OS2.0.205.0.VPOEUXM
 - branch: stable
   date: '2025-12-27'
   downloads:
@@ -6609,15 +6609,15 @@
     android: '16.0'
     miui: OS3.0.1.0.WOZEUXM
 - branch: stable
-  date: '2025-12-16'
+  date: '2026-01-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-16.12.2025/fw_uke_uke_in_global-ota_full-OS3.0.1.0.WOZINXM-user-16.0-5951e4bb7a.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/uke/fw_uke_uke_in_global-ota_full-OS3.0.1.0.WOZINXM-user-16.0-5951e4bb7a.zip
-  filename: fw_uke_uke_in_global-ota_full-OS3.0.1.0.WOZINXM-user-16.0-5951e4bb7a.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-10.01.2026/fw_uke_uke_in_global-ota_full-OS3.0.3.0.WOZINXM-user-16.0-3dd041bd19.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/uke/fw_uke_uke_in_global-ota_full-OS3.0.3.0.WOZINXM-user-16.0-3dd041bd19.zip
+  filename: fw_uke_uke_in_global-ota_full-OS3.0.3.0.WOZINXM-user-16.0-3dd041bd19.zip
   region: India
   versions:
     android: '16.0'
-    miui: OS3.0.1.0.WOZINXM
+    miui: OS3.0.3.0.WOZINXM
 - branch: stable
   date: '2023-05-29'
   downloads:
