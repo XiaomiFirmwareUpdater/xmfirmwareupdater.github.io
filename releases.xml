@@ -4,8 +4,33 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 12 Jan 2026 00:42:01 </lastBuildDate>
+        <lastBuildDate>Mon, 12 Jan 2026 07:18:32 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.208.0.VGQEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/air/</link>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS3.0.1.0.WNUCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15/POCO M7 (creek) - OS3.0.4.0.WBOEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/creek/</link>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 3/POCO F6 (peridot) - OS3.0.5.0.WNPCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 3/POCO F6 (peridot) - OS3.0.3.0.WNPEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K80/POCO F7 Pro (zorn) - OS3.0.3.0.WOKEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zorn/</link>
@@ -200,11 +225,6 @@
             <title>Redmi Note 12 4G NFC (topaz) - OS2.0.208.0.VMGEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/topaz/</link>
             <pubDate>Thu, 08 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.207.0.VGQEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/air/</link>
-            <pubDate>Wed, 07 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.3.0.WOPMIXM</title>
@@ -997,11 +1017,6 @@
             <pubDate>Mon, 22 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 15/POCO M7 (creek) - OS3.0.2.0.WBOEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/creek/</link>
-            <pubDate>Mon, 22 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS2.0.206.0.VNSMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
             <pubDate>Mon, 22 Dec 2025 00:00:00 </pubDate>
@@ -1197,11 +1212,6 @@
             <pubDate>Sat, 29 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.207.0.VNPEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
-            <pubDate>Sat, 29 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K Pad/Xiaomi Pad Mini (turner) - OS3.0.4.0.WAOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/turner/</link>
             <pubDate>Sat, 29 Nov 2025 00:00:00 </pubDate>
@@ -1214,11 +1224,6 @@
         <item>
             <title>Xiaomi Pad 6 Pro (liuqin) - OS2.0.213.0.VMYCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/liuqin/</link>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.207.0.VNPCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
             <pubDate>Fri, 28 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1320,11 +1325,6 @@
             <title>MIX Flip (ruyi) - OS2.0.213.0.VNIEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruyi/</link>
             <pubDate>Sat, 15 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS2.0.204.0.VNUCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
-            <pubDate>Fri, 14 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi A3x (klein) - V816.0.1.0.WGSMIXM</title>

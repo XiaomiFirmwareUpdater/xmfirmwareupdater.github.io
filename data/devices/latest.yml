@@ -39,15 +39,15 @@
     android: '15.0'
     miui: OS2.0.205.0.VGQCNXM
 - branch: stable
-  date: '2026-01-07'
+  date: '2026-01-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-07.01.2026/fw_air_air_eea_global-ota_full-OS2.0.207.0.VGQEUXM-user-15.0-d19383db38.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/air/fw_air_air_eea_global-ota_full-OS2.0.207.0.VGQEUXM-user-15.0-d19383db38.zip
-  filename: fw_air_air_eea_global-ota_full-OS2.0.207.0.VGQEUXM-user-15.0-d19383db38.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-12.01.2026/fw_air_air_eea_global-ota_full-OS2.0.208.0.VGQEUXM-user-15.0-98af9af6b6.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/air/fw_air_air_eea_global-ota_full-OS2.0.208.0.VGQEUXM-user-15.0-98af9af6b6.zip
+  filename: fw_air_air_eea_global-ota_full-OS2.0.208.0.VGQEUXM-user-15.0-98af9af6b6.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.207.0.VGQEUXM
+    miui: OS2.0.208.0.VGQEUXM
 - branch: stable
   date: '2025-11-27'
   downloads:
@@ -609,15 +609,15 @@
     android: '11.0'
     miui: 22.3.2
 - branch: stable
-  date: '2025-11-14'
+  date: '2026-01-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-14.11.2025/fw_breeze_breeze-ota_full-OS2.0.204.0.VNUCNXM-user-15.0-23df26361c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/breeze/fw_breeze_breeze-ota_full-OS2.0.204.0.VNUCNXM-user-15.0-23df26361c.zip
-  filename: fw_breeze_breeze-ota_full-OS2.0.204.0.VNUCNXM-user-15.0-23df26361c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-12.01.2026/fw_breeze_breeze-ota_full-OS3.0.1.0.WNUCNXM-user-16.0-672fecd281.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/breeze/fw_breeze_breeze-ota_full-OS3.0.1.0.WNUCNXM-user-16.0-672fecd281.zip
+  filename: fw_breeze_breeze-ota_full-OS3.0.1.0.WNUCNXM-user-16.0-672fecd281.zip
   region: China
   versions:
-    android: '15.0'
-    miui: OS2.0.204.0.VNUCNXM
+    android: '16.0'
+    miui: OS3.0.1.0.WNUCNXM
 - branch: stable
   date: '2025-12-26'
   downloads:
@@ -1239,15 +1239,15 @@
     android: '15.0'
     miui: OS2.0.204.0.VBOIDXM
 - branch: stable
-  date: '2025-12-22'
+  date: '2026-01-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_creek/releases/download/stable-22.12.2025/fw_creek_creek_eea_global-ota_full-OS3.0.2.0.WBOEUXM-user-16.0-1893cac1c5.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/creek/fw_creek_creek_eea_global-ota_full-OS3.0.2.0.WBOEUXM-user-16.0-1893cac1c5.zip
-  filename: fw_creek_creek_eea_global-ota_full-OS3.0.2.0.WBOEUXM-user-16.0-1893cac1c5.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_creek/releases/download/stable-12.01.2026/fw_creek_creek_eea_global-ota_full-OS3.0.4.0.WBOEUXM-user-16.0-6243c98658.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/creek/fw_creek_creek_eea_global-ota_full-OS3.0.4.0.WBOEUXM-user-16.0-6243c98658.zip
+  filename: fw_creek_creek_eea_global-ota_full-OS3.0.4.0.WBOEUXM-user-16.0-6243c98658.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.2.0.WBOEUXM
+    miui: OS3.0.4.0.WBOEUXM
 - branch: stable
   date: '2022-04-11'
   downloads:
@@ -4549,25 +4549,25 @@
     android: '15.0'
     miui: OS2.0.208.0.VNPMIXM
 - branch: stable
-  date: '2025-11-28'
+  date: '2026-01-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-28.11.2025/fw_peridot_peridot-ota_full-OS2.0.207.0.VNPCNXM-user-15.0-3934a2bbd6.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/peridot/fw_peridot_peridot-ota_full-OS2.0.207.0.VNPCNXM-user-15.0-3934a2bbd6.zip
-  filename: fw_peridot_peridot-ota_full-OS2.0.207.0.VNPCNXM-user-15.0-3934a2bbd6.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-12.01.2026/fw_peridot_peridot-ota_full-OS3.0.5.0.WNPCNXM-user-16.0-7f9e028ec7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/peridot/fw_peridot_peridot-ota_full-OS3.0.5.0.WNPCNXM-user-16.0-7f9e028ec7.zip
+  filename: fw_peridot_peridot-ota_full-OS3.0.5.0.WNPCNXM-user-16.0-7f9e028ec7.zip
   region: China
   versions:
-    android: '15.0'
-    miui: OS2.0.207.0.VNPCNXM
+    android: '16.0'
+    miui: OS3.0.5.0.WNPCNXM
 - branch: stable
-  date: '2025-11-29'
+  date: '2026-01-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-29.11.2025/fw_peridot_peridot_eea_global-ota_full-OS2.0.207.0.VNPEUXM-user-15.0-7944816e00.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/peridot/fw_peridot_peridot_eea_global-ota_full-OS2.0.207.0.VNPEUXM-user-15.0-7944816e00.zip
-  filename: fw_peridot_peridot_eea_global-ota_full-OS2.0.207.0.VNPEUXM-user-15.0-7944816e00.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-12.01.2026/fw_peridot_peridot_eea_global-ota_full-OS3.0.3.0.WNPEUXM-user-16.0-ecd868e14b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/peridot/fw_peridot_peridot_eea_global-ota_full-OS3.0.3.0.WNPEUXM-user-16.0-ecd868e14b.zip
+  filename: fw_peridot_peridot_eea_global-ota_full-OS3.0.3.0.WNPEUXM-user-16.0-ecd868e14b.zip
   region: Europe
   versions:
-    android: '15.0'
-    miui: OS2.0.207.0.VNPEUXM
+    android: '16.0'
+    miui: OS3.0.3.0.WNPEUXM
 - branch: stable
   date: '2025-12-30'
   downloads:
