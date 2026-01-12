@@ -52,7 +52,11 @@ permalink: /archive/hyperos/charoite/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 15 Pro 4G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VPFMIXM</td><td>15.0</td><td>4.7 GB</td><td>2026-01-05</td><td><a href="/hyperos/charoite/stable/OS2.0.207.0.VPFMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 15 Pro 4G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VPFMIXM</td><td>15.0</td><td>4.7 GB</td><td>2026-01-12</td><td><a href="/hyperos/charoite/stable/OS2.0.208.0.VPFMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro 4G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VPFMIXM</td><td>15.0</td><td>8.6 GB</td><td>2026-01-05</td><td><a href="/hyperos/charoite/stable/OS2.0.208.0.VPFMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro 4G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VPFEUXM</td><td>15.0</td><td>4.7 GB</td><td>2026-01-12</td><td><a href="/hyperos/charoite/stable/OS2.0.206.0.VPFEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro 4G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VPFEUXM</td><td>15.0</td><td>7.6 GB</td><td>2026-01-05</td><td><a href="/hyperos/charoite/stable/OS2.0.206.0.VPFEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro 4G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VPFMIXM</td><td>15.0</td><td>4.7 GB</td><td>2026-01-05</td><td><a href="/hyperos/charoite/stable/OS2.0.207.0.VPFMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 4G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VPFMIXM</td><td>15.0</td><td>8.6 GB</td><td>2025-12-27</td><td><a href="/hyperos/charoite/stable/OS2.0.207.0.VPFMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 4G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VPFEUXM</td><td>15.0</td><td>4.7 GB</td><td>2026-01-05</td><td><a href="/hyperos/charoite/stable/OS2.0.205.0.VPFEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 4G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VPFEUXM</td><td>15.0</td><td>7.6 GB</td><td>2025-12-27</td><td><a href="/hyperos/charoite/stable/OS2.0.205.0.VPFEUXM/">Download</a></td></tr>
