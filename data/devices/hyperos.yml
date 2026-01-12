@@ -2089,6 +2089,12 @@
 - android: '15.0'
   codename: charoite
   date: '2026-01-12'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VPFEUXM/fw_charoite_charoite_eea_global-ota_full-OS2.0.206.0.VPFEUXM-user-15.0-1b28215a96.zip
+  name: Redmi Note 15 Pro 4G
+  version: OS2.0.206.0.VPFEUXM
+- android: '15.0'
+  codename: charoite
+  date: '2026-01-12'
   download: https://bigota.d.miui.com/OS2.0.208.0.VPFMIXM/fw_charoite_charoite_global-ota_full-OS2.0.208.0.VPFMIXM-user-15.0-495043741f.zip
   name: Redmi Note 15 Pro 4G
   version: OS2.0.208.0.VPFMIXM
@@ -21664,6 +21670,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UKBMIXM/fw_venus_miui_VENUSGlobal_OS1.0.5.0.UKBMIXM_b120c83200_14.0.zip
   name: Mi 11
   version: OS1.0.5.0.UKBMIXM
+- android: '14.0'
+  codename: venus
+  date: '2026-01-12'
+  download: https://bigota.d.miui.com/OS2.0.6.0.UKBCNXM/fw_venus_venus-ota_full-OS2.0.6.0.UKBCNXM-user-14.0-f0e38b04bc.zip
+  name: Mi 11
+  version: OS2.0.6.0.UKBCNXM
 - android: '14.0'
   codename: venus
   date: '2024-11-11'

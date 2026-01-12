@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 12 Jan 2026 13:33:54 </lastBuildDate>
+        <lastBuildDate>Mon, 12 Jan 2026 19:36:44 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.208.0.VGQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.20.0.WPKCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
             <pubDate>Mon, 12 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -18,6 +23,11 @@
         </item>
         <item>
             <title>Redmi Note 15 Pro 4G (charoite) - OS2.0.208.0.VPFMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/charoite/</link>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 Pro 4G (charoite) - OS2.0.206.0.VPFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/charoite/</link>
             <pubDate>Mon, 12 Jan 2026 00:00:00 </pubDate>
         </item>
@@ -44,6 +54,16 @@
         <item>
             <title>Redmi Turbo 3/POCO F6 (peridot) - OS3.0.3.0.WNPEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 11 (venus) - OS2.0.6.0.UKBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/venus/</link>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 Ultra (xuanyuan) - OS3.0.8.0.WOAMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Mon, 12 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -309,11 +329,6 @@
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS2.0.208.0.VOQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
-            <pubDate>Tue, 06 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 Pro 4G (charoite) - OS2.0.205.0.VPFEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/charoite/</link>
             <pubDate>Tue, 06 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -952,11 +967,6 @@
             <pubDate>Sat, 27 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.18.0.WPKCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
-            <pubDate>Fri, 26 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.6.0.WPKEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
             <pubDate>Fri, 26 Dec 2025 00:00:00 </pubDate>
@@ -1337,11 +1347,6 @@
             <pubDate>Thu, 13 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.206.0.VOAMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.205.0.VNOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Wed, 12 Nov 2025 00:00:00 </pubDate>
@@ -1635,11 +1640,6 @@
             <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - OS2.0.1.0.UKACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/star/</link>
             <pubDate>Fri, 28 Mar 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 (venus) - OS2.0.2.0.UKBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/venus/</link>
-            <pubDate>Thu, 20 Mar 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 10C (fog) - V14.0.10.0.TGEEUXM</title>
