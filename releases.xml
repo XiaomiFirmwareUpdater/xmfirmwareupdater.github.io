@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 13 Jan 2026 12:51:38 </lastBuildDate>
+        <lastBuildDate>Tue, 13 Jan 2026 19:06:06 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>MIX Flip (ruyi) - OS3.0.4.0.WNIEUXM</title>
@@ -14,6 +14,11 @@
         <item>
             <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - OS1.0.13.0.TKCEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/veux/</link>
+            <pubDate>Tue, 13 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 6 Max 14 (yudi) - OS3.0.1.0.VMHCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/yudi/</link>
             <pubDate>Tue, 13 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -964,11 +969,6 @@
         <item>
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.42.0.TGOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/water/</link>
-            <pubDate>Sat, 27 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 Max 14 (yudi) - OS2.0.211.0.VMHCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/yudi/</link>
             <pubDate>Sat, 27 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
