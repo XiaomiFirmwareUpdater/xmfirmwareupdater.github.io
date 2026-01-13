@@ -5529,15 +5529,15 @@
     android: '16.0'
     miui: OS3.0.3.0.WNICNXM
 - branch: stable
-  date: '2025-11-15'
+  date: '2026-01-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-16.11.2025/fw_ruyi_ruyi_eea_global-ota_full-OS2.0.213.0.VNIEUXM-user-15.0-5d821cb98e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruyi/fw_ruyi_ruyi_eea_global-ota_full-OS2.0.213.0.VNIEUXM-user-15.0-5d821cb98e.zip
-  filename: fw_ruyi_ruyi_eea_global-ota_full-OS2.0.213.0.VNIEUXM-user-15.0-5d821cb98e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-13.01.2026/fw_ruyi_ruyi_eea_global-ota_full-OS3.0.4.0.WNIEUXM-user-16.0-98afc9c650.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ruyi/fw_ruyi_ruyi_eea_global-ota_full-OS3.0.4.0.WNIEUXM-user-16.0-98afc9c650.zip
+  filename: fw_ruyi_ruyi_eea_global-ota_full-OS3.0.4.0.WNIEUXM-user-16.0-98afc9c650.zip
   region: Europe
   versions:
-    android: '15.0'
-    miui: OS2.0.213.0.VNIEUXM
+    android: '16.0'
+    miui: OS3.0.4.0.WNIEUXM
 - branch: stable
   date: '2020-03-23'
   downloads:

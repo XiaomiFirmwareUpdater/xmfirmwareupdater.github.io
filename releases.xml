@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 13 Jan 2026 06:47:17 </lastBuildDate>
+        <lastBuildDate>Tue, 13 Jan 2026 12:51:38 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>MIX Flip (ruyi) - OS3.0.4.0.WNIEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ruyi/</link>
+            <pubDate>Tue, 13 Jan 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - OS1.0.13.0.TKCEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/veux/</link>
@@ -1340,11 +1345,6 @@
             <title>Redmi 13C/POCO C65 (gale) - OS2.0.203.0.VGPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gale/</link>
             <pubDate>Sun, 16 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>MIX Flip (ruyi) - OS2.0.213.0.VNIEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ruyi/</link>
-            <pubDate>Sat, 15 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi A3x (klein) - V816.0.1.0.WGSMIXM</title>
