@@ -799,6 +799,16 @@
     android: '14.0'
     miui: OS1.0.13.0.UMOCNXM
 - branch: stable
+  date: '2026-01-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-14.01.2026/fw_ruby_ruby-ota_full-OS2.0.17.0.UMOCNXM-user-14.0-6032571077.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruby/fw_ruby_ruby-ota_full-OS2.0.17.0.UMOCNXM-user-14.0-6032571077.zip
+  filename: fw_ruby_ruby-ota_full-OS2.0.17.0.UMOCNXM-user-14.0-6032571077.zip
+  region: China
+  versions:
+    android: '14.0'
+    miui: OS2.0.17.0.UMOCNXM
+- branch: stable
   date: '2023-09-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-13.09.2023/fw_ruby_miui_RUBYINGlobal_V14.0.4.0.TMOINXM_fc2af2b961_13.0.zip

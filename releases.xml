@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 14 Jan 2026 07:05:46 </lastBuildDate>
+        <lastBuildDate>Wed, 14 Jan 2026 13:28:24 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 15S Pro (dijun) - OS3.0.9.0.WODCNXM</title>
@@ -17,8 +17,23 @@
             <pubDate>Wed, 14 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS3.0.4.0.WNNEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
+            <pubDate>Wed, 14 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.17.0.UMOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Wed, 14 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) - OS2.0.206.0.VPOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
+            <pubDate>Wed, 14 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro+ 5G (zircon) - OS3.0.4.0.WNOEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Wed, 14 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1182,16 +1197,6 @@
             <pubDate>Mon, 15 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS3.0.3.0.WNNEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
-            <pubDate>Mon, 15 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.15.0.UMOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Mon, 15 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.208.0.VNOINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Mon, 15 Dec 2025 00:00:00 </pubDate>
@@ -1355,11 +1360,6 @@
             <title>Redmi A3x (klein) - V816.0.1.0.WGSMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/klein/</link>
             <pubDate>Thu, 13 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.205.0.VNOEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
-            <pubDate>Wed, 12 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 11T Pro (vili) - OS1.0.22.0.UKDINXM</title>
