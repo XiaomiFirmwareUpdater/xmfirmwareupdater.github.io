@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 14 Jan 2026 13:28:24 </lastBuildDate>
+        <lastBuildDate>Wed, 14 Jan 2026 18:41:52 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 15S Pro (dijun) - OS3.0.9.0.WODCNXM</title>
@@ -2297,11 +2297,6 @@
             <pubDate>Tue, 07 Mar 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 10X Pro (bomb) - V13.0.5.0.SJLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/bomb/</link>
-            <pubDate>Tue, 21 Feb 2023 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 10X 5G (atom) - V13.0.6.0.SJHCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/atom/</link>
             <pubDate>Thu, 16 Feb 2023 00:00:00 </pubDate>
@@ -2644,11 +2639,6 @@
         <item>
             <title>Redmi 10X 5G (atom) - 22.3.2</title>
             <link>https://xmfirmwareupdater.com/firmware/atom/</link>
-            <pubDate>Fri, 04 Mar 2022 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 10X Pro (bomb) - 22.3.2</title>
-            <link>https://xmfirmwareupdater.com/firmware/bomb/</link>
             <pubDate>Fri, 04 Mar 2022 00:00:00 </pubDate>
         </item>
         <item>
