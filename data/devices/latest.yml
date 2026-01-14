@@ -589,6 +589,26 @@
     android: '16.0'
     miui: OS3.0.3.0.WOHCNXM
 - branch: stable
+  date: '2023-02-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/stable-21.02.2023/fw_bomb_miui_BOMB_V13.0.5.0.SJLCNXM_8636b77d61_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/bomb/fw_bomb_miui_BOMB_V13.0.5.0.SJLCNXM_8636b77d61_12.0.zip
+  filename: fw_bomb_miui_BOMB_V13.0.5.0.SJLCNXM_8636b77d61_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SJLCNXM
+- branch: weekly
+  date: '2022-03-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/weekly-04.03.2022/fw_bomb_miui_BOMB_22.3.2_24ba221188_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.2/bomb/fw_bomb_miui_BOMB_22.3.2_24ba221188_11.0.zip
+  filename: fw_bomb_miui_BOMB_22.3.2_24ba221188_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 22.3.2
+- branch: stable
   date: '2026-01-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-12.01.2026/fw_breeze_breeze-ota_full-OS3.0.1.0.WNUCNXM-user-16.0-672fecd281.zip
