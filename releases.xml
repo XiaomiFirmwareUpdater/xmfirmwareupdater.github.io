@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 14 Jan 2026 00:46:55 </lastBuildDate>
+        <lastBuildDate>Wed, 14 Jan 2026 07:05:46 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 15S Pro (dijun) - OS3.0.9.0.WODCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dijun/</link>
+            <pubDate>Wed, 14 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - OS3.0.3.0.WOLEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
+            <pubDate>Wed, 14 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) - OS2.0.206.0.VPOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
+            <pubDate>Wed, 14 Jan 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>MIX Flip (ruyi) - OS3.0.4.0.WNIEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruyi/</link>
@@ -892,11 +907,6 @@
             <pubDate>Sat, 27 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - OS3.0.2.0.WOLEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
-            <pubDate>Sat, 27 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12T Pro (pearl) - OS2.0.215.0.VLHCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pearl/</link>
             <pubDate>Sat, 27 Dec 2025 00:00:00 </pubDate>
@@ -1222,11 +1232,6 @@
             <pubDate>Tue, 02 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 15S Pro (dijun) - OS3.0.7.0.WODCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dijun/</link>
-            <pubDate>Mon, 01 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad 2 (taiko) - OS2.0.206.0.VOVMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
             <pubDate>Sun, 30 Nov 2025 00:00:00 </pubDate>
@@ -1360,11 +1365,6 @@
             <title>Xiaomi 11T Pro (vili) - OS1.0.22.0.UKDINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vili/</link>
             <pubDate>Tue, 11 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) - OS2.0.203.0.VPOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
-            <pubDate>Mon, 10 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi A4 5G/POCO C75 5G (warm) - OS2.0.203.0.VGVINXM</title>

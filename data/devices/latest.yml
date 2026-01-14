@@ -1539,15 +1539,15 @@
     android: '15.0'
     miui: OS2.0.215.0.VBNEUXM
 - branch: stable
-  date: '2025-12-01'
+  date: '2026-01-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dijun/releases/download/stable-01.12.2025/fw_dijun_dijun-ota_full-OS3.0.7.0.WODCNXM-user-16.0-7fd6379fb0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dijun/fw_dijun_dijun-ota_full-OS3.0.7.0.WODCNXM-user-16.0-7fd6379fb0.zip
-  filename: fw_dijun_dijun-ota_full-OS3.0.7.0.WODCNXM-user-16.0-7fd6379fb0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dijun/releases/download/stable-14.01.2026/fw_dijun_dijun-ota_full-OS3.0.9.0.WODCNXM-user-16.0-5de5a37e65.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dijun/fw_dijun_dijun-ota_full-OS3.0.9.0.WODCNXM-user-16.0-5de5a37e65.zip
+  filename: fw_dijun_dijun-ota_full-OS3.0.9.0.WODCNXM-user-16.0-5de5a37e65.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.7.0.WODCNXM
+    miui: OS3.0.9.0.WODCNXM
 - branch: stable
   date: '2021-12-27'
   downloads:
@@ -4409,15 +4409,15 @@
     android: '16.0'
     miui: OS3.0.9.0.WOLCNXM
 - branch: stable
-  date: '2025-12-27'
+  date: '2026-01-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-27.12.2025/fw_onyx_onyx_eea_global-ota_full-OS3.0.2.0.WOLEUXM-user-16.0-d8d7573ff3.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/onyx/fw_onyx_onyx_eea_global-ota_full-OS3.0.2.0.WOLEUXM-user-16.0-d8d7573ff3.zip
-  filename: fw_onyx_onyx_eea_global-ota_full-OS3.0.2.0.WOLEUXM-user-16.0-d8d7573ff3.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-14.01.2026/fw_onyx_onyx_eea_global-ota_full-OS3.0.3.0.WOLEUXM-user-16.0-8fd15ae32f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/onyx/fw_onyx_onyx_eea_global-ota_full-OS3.0.3.0.WOLEUXM-user-16.0-8fd15ae32f.zip
+  filename: fw_onyx_onyx_eea_global-ota_full-OS3.0.3.0.WOLEUXM-user-16.0-8fd15ae32f.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.2.0.WOLEUXM
+    miui: OS3.0.3.0.WOLEUXM
 - branch: stable
   date: '2025-10-31'
   downloads:
@@ -6389,15 +6389,15 @@
     android: '15.0'
     miui: OS2.0.206.0.VPOMIXM
 - branch: stable
-  date: '2025-11-10'
+  date: '2026-01-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tornado/releases/download/stable-10.11.2025/fw_tornado_tornado-ota_full-OS2.0.203.0.VPOCNXM-user-15.0-c475aea23c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/tornado/fw_tornado_tornado-ota_full-OS2.0.203.0.VPOCNXM-user-15.0-c475aea23c.zip
-  filename: fw_tornado_tornado-ota_full-OS2.0.203.0.VPOCNXM-user-15.0-c475aea23c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tornado/releases/download/stable-14.01.2026/fw_tornado_tornado-ota_full-OS2.0.206.0.VPOCNXM-user-15.0-914deb6a5d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/tornado/fw_tornado_tornado-ota_full-OS2.0.206.0.VPOCNXM-user-15.0-914deb6a5d.zip
+  filename: fw_tornado_tornado-ota_full-OS2.0.206.0.VPOCNXM-user-15.0-914deb6a5d.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.203.0.VPOCNXM
+    miui: OS2.0.206.0.VPOCNXM
 - branch: stable
   date: '2026-01-10'
   downloads:
