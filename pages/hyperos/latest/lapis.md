@@ -53,7 +53,23 @@ permalink: /hyperos/lapis/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Note 15 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.209.0.VPPCNXM</td><td>15.0</td><td>9.5 GB</td><td>2025-11-21</td><td><a href="/hyperos/lapis/stable/OS2.0.209.0.VPPCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WPPCNXM</td><td>16.0</td><td>7.3 GB</td><td>2025-12-10</td><td><a href="/hyperos/lapis/stable/OS3.0.4.0.WPPCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.209.0.VPPCNXM</td><td>15.0</td><td>7.2 GB</td><td>2025-11-27</td><td><a href="/hyperos/lapis/stable/OS2.0.209.0.VPPCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VPPEUXM</td><td>15.0</td><td>9.2 GB</td><td>2025-12-31</td><td><a href="/hyperos/lapis/stable/OS2.0.203.0.VPPEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VPPEUXM</td><td>15.0</td><td>6.4 GB</td><td>2026-01-14</td><td><a href="/hyperos/lapis/stable/OS2.0.203.0.VPPEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VPPMIXM</td><td>15.0</td><td>10.1 GB</td><td>2025-12-31</td><td><a href="/hyperos/lapis/stable/OS2.0.203.0.VPPMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VPPMIXM</td><td>15.0</td><td>6.3 GB</td><td>2026-01-15</td><td><a href="/hyperos/lapis/stable/OS2.0.203.0.VPPMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VPPIDXM</td><td>15.0</td><td>9.1 GB</td><td>2025-10-21</td><td><a href="/hyperos/lapis/stable/OS2.0.201.0.VPPIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VPPIDXM</td><td>15.0</td><td>6.3 GB</td><td>2026-01-15</td><td><a href="/hyperos/lapis/stable/OS2.0.201.0.VPPIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VPPINXM</td><td>15.0</td><td>8.3 GB</td><td>2025-12-03</td><td><a href="/hyperos/lapis/stable/OS2.0.202.0.VPPINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro India</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VPPINXM</td><td>15.0</td><td>6.1 GB</td><td>2026-01-15</td><td><a href="/hyperos/lapis/stable/OS2.0.202.0.VPPINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro Japan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VPPJPXM</td><td>15.0</td><td>8.8 GB</td><td>2025-12-08</td><td><a href="/hyperos/lapis/stable/OS2.0.204.0.VPPJPXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro Japan</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VPPJPXM</td><td>15.0</td><td>6.3 GB</td><td>2026-01-15</td><td><a href="/hyperos/lapis/stable/OS2.0.204.0.VPPJPXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VPPRUXM</td><td>15.0</td><td>9.8 GB</td><td>2025-10-21</td><td><a href="/hyperos/lapis/stable/OS2.0.201.0.VPPRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VPPRUXM</td><td>15.0</td><td>6.2 GB</td><td>2026-01-15</td><td><a href="/hyperos/lapis/stable/OS2.0.201.0.VPPRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VPPTRXM</td><td>15.0</td><td>8.6 GB</td><td>2025-10-31</td><td><a href="/hyperos/lapis/stable/OS2.0.201.0.VPPTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VPPTRXM</td><td>15.0</td><td>6.2 GB</td><td>2026-01-15</td><td><a href="/hyperos/lapis/stable/OS2.0.201.0.VPPTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VPPTWXM</td><td>15.0</td><td>7.5 GB</td><td>2026-01-07</td><td><a href="/hyperos/lapis/stable/OS2.0.202.0.VPPTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VPPTWXM</td><td>15.0</td><td>6.2 GB</td><td>2026-01-15</td><td><a href="/hyperos/lapis/stable/OS2.0.202.0.VPPTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

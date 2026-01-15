@@ -56,22 +56,22 @@ permalink: /hyperos/goku/stable/OS3.0.5.0.WNVCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.8 GB</h5>
+                    <h5><b>Size: </b>9.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-12-23</h5>
+                    <h5><b>Release Date: </b>2025-12-20</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">goku-ota_full-OS3.0.5.0.WNVCNXM-user-16.0-2b74ff4506.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">goku_images_OS3.0.5.0.WNVCNXM_20251220.0000.00_16.0_cn_125161a817.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">2b74ff45065930b29d2db28643afd712</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">125161a817e617c436a77b35e92e5142</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.5.0.WNVCNXM/goku-ota_full-OS3.0.5.0.WNVCNXM-user-16.0-2b74ff4506.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.5.0.WNVCNXM/goku-ota_full-OS3.0.5.0.WNVCNXM-user-16.0-2b74ff4506.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.5.0.WNVCNXM/goku-ota_full-OS3.0.5.0.WNVCNXM-user-16.0-2b74ff4506.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.5.0.WNVCNXM/goku-ota_full-OS3.0.5.0.WNVCNXM-user-16.0-2b74ff4506.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.5.0.WNVCNXM/goku-ota_full-OS3.0.5.0.WNVCNXM-user-16.0-2b74ff4506.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.5.0.WNVCNXM/goku_images_OS3.0.5.0.WNVCNXM_20251220.0000.00_16.0_cn_125161a817.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.5.0.WNVCNXM/goku_images_OS3.0.5.0.WNVCNXM_20251220.0000.00_16.0_cn_125161a817.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.5.0.WNVCNXM/goku_images_OS3.0.5.0.WNVCNXM_20251220.0000.00_16.0_cn_125161a817.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.5.0.WNVCNXM/goku_images_OS3.0.5.0.WNVCNXM_20251220.0000.00_16.0_cn_125161a817.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.5.0.WNVCNXM/goku_images_OS3.0.5.0.WNVCNXM_20251220.0000.00_16.0_cn_125161a817.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#goku_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/goku/stable/OS3.0.5.0.WNVCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>9.8 GB</h5>
+                    <h5><b>Size: </b>7.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-12-20</h5>
+                    <h5><b>Release Date: </b>2025-12-23</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">goku_images_OS3.0.5.0.WNVCNXM_20251220.0000.00_16.0_cn_125161a817.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">goku-ota_full-OS3.0.5.0.WNVCNXM-user-16.0-2b74ff4506.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">125161a817e617c436a77b35e92e5142</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">2b74ff45065930b29d2db28643afd712</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.5.0.WNVCNXM/goku_images_OS3.0.5.0.WNVCNXM_20251220.0000.00_16.0_cn_125161a817.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.5.0.WNVCNXM/goku_images_OS3.0.5.0.WNVCNXM_20251220.0000.00_16.0_cn_125161a817.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.5.0.WNVCNXM/goku_images_OS3.0.5.0.WNVCNXM_20251220.0000.00_16.0_cn_125161a817.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.5.0.WNVCNXM/goku_images_OS3.0.5.0.WNVCNXM_20251220.0000.00_16.0_cn_125161a817.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.5.0.WNVCNXM/goku_images_OS3.0.5.0.WNVCNXM_20251220.0000.00_16.0_cn_125161a817.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.5.0.WNVCNXM/goku-ota_full-OS3.0.5.0.WNVCNXM-user-16.0-2b74ff4506.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.5.0.WNVCNXM/goku-ota_full-OS3.0.5.0.WNVCNXM-user-16.0-2b74ff4506.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.5.0.WNVCNXM/goku-ota_full-OS3.0.5.0.WNVCNXM-user-16.0-2b74ff4506.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.5.0.WNVCNXM/goku-ota_full-OS3.0.5.0.WNVCNXM-user-16.0-2b74ff4506.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.5.0.WNVCNXM/goku-ota_full-OS3.0.5.0.WNVCNXM-user-16.0-2b74ff4506.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#goku_2_changelog" data-toggle="collapse" role="button"

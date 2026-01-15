@@ -9840,6 +9840,18 @@
   version: OS2.0.206.0.VPPCNXM
 - android: '15.0'
   codename: lapis
+  date: '2026-01-15'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VPPMIXM/fw_lapis_lapis_global-ota_full-OS2.0.203.0.VPPMIXM-user-15.0-c63dd4dfa9.zip
+  name: Redmi Note 15 Pro
+  version: OS2.0.203.0.VPPMIXM
+- android: '15.0'
+  codename: lapis
+  date: '2026-01-15'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VPPINXM/fw_lapis_lapis_in_global-ota_full-OS2.0.202.0.VPPINXM-user-15.0-d31172ee51.zip
+  name: Redmi Note 15 Pro
+  version: OS2.0.202.0.VPPINXM
+- android: '15.0'
+  codename: lapis
   date: '2025-11-14'
   download: https://bigota.d.miui.com/OS2.0.208.0.VPPCNXM/fw_lapis_lapis-ota_full-OS2.0.208.0.VPPCNXM-user-15.0-43f9c29064.zip
   name: Redmi Note 15 Pro

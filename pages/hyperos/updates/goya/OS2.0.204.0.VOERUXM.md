@@ -83,49 +83,6 @@ permalink: /hyperos/goya/stable/OS2.0.204.0.VOERUXM/
                 </li>
             </ul>
         </div>
-        <div class="card card-body">
-            {%include vli_ad_320x50_1.html%}
-            <ul class="list-unstyled">
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Xiaomi 15T Russia</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Codename: </b> <a href="/hyperos/goya/" target="_blank">goya</a> </h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS2.0.204.0.VOERUXM</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.7 GB</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-10-17</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">goya_ru_global_images_OS2.0.204.0.VOERUXM_20251017.0000.00_15.0_ru_927417c92e.tgz</span></h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">927417c92e2c2c4b2b53aaabeb86e66e</span></h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.204.0.VOERUXM/goya_ru_global_images_OS2.0.204.0.VOERUXM_20251017.0000.00_15.0_ru_927417c92e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.204.0.VOERUXM/goya_ru_global_images_OS2.0.204.0.VOERUXM_20251017.0000.00_15.0_ru_927417c92e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.204.0.VOERUXM/goya_ru_global_images_OS2.0.204.0.VOERUXM_20251017.0000.00_15.0_ru_927417c92e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.204.0.VOERUXM/goya_ru_global_images_OS2.0.204.0.VOERUXM_20251017.0000.00_15.0_ru_927417c92e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.204.0.VOERUXM/goya_ru_global_images_OS2.0.204.0.VOERUXM_20251017.0000.00_15.0_ru_927417c92e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#goya_2_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="goya_2_changelog"> <i class="fa fa-arrow-down"
-                                aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="goya_2_changelog">
-                        <p id="changelog_text">[System]<br>Updated the security patch to October 2025. Increased system security.</p>
-                    </div>
-                </li>
-            </ul>
-        </div>
 
         </div>
         {%include vli_ad_160x600_1.html%}

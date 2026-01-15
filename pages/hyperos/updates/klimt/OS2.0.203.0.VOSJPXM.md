@@ -56,22 +56,22 @@ permalink: /hyperos/klimt/stable/OS2.0.203.0.VOSJPXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.8 GB</h5>
+                    <h5><b>Size: </b>8.4 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-10-31</h5>
+                    <h5><b>Release Date: </b>2025-10-23</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">klimt_jp_global-ota_full-OS2.0.203.0.VOSJPXM-user-15.0-0850e4f7cf.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">klimt_jp_global_images_OS2.0.203.0.VOSJPXM_20251023.0000.00_15.0_jp_4ff46f1259.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">0850e4f7cfe65a8f7b5d657358dac8bb</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">4ff46f12591661ae1e0579eccd939679</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.203.0.VOSJPXM/klimt_jp_global-ota_full-OS2.0.203.0.VOSJPXM-user-15.0-0850e4f7cf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.203.0.VOSJPXM/klimt_jp_global-ota_full-OS2.0.203.0.VOSJPXM-user-15.0-0850e4f7cf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.203.0.VOSJPXM/klimt_jp_global-ota_full-OS2.0.203.0.VOSJPXM-user-15.0-0850e4f7cf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.203.0.VOSJPXM/klimt_jp_global-ota_full-OS2.0.203.0.VOSJPXM-user-15.0-0850e4f7cf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.203.0.VOSJPXM/klimt_jp_global-ota_full-OS2.0.203.0.VOSJPXM-user-15.0-0850e4f7cf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.203.0.VOSJPXM/klimt_jp_global_images_OS2.0.203.0.VOSJPXM_20251023.0000.00_15.0_jp_4ff46f1259.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.203.0.VOSJPXM/klimt_jp_global_images_OS2.0.203.0.VOSJPXM_20251023.0000.00_15.0_jp_4ff46f1259.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.203.0.VOSJPXM/klimt_jp_global_images_OS2.0.203.0.VOSJPXM_20251023.0000.00_15.0_jp_4ff46f1259.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.203.0.VOSJPXM/klimt_jp_global_images_OS2.0.203.0.VOSJPXM_20251023.0000.00_15.0_jp_4ff46f1259.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.203.0.VOSJPXM/klimt_jp_global_images_OS2.0.203.0.VOSJPXM_20251023.0000.00_15.0_jp_4ff46f1259.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#klimt_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/klimt/stable/OS2.0.203.0.VOSJPXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.4 GB</h5>
+                    <h5><b>Size: </b>6.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-10-23</h5>
+                    <h5><b>Release Date: </b>2025-10-31</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">klimt_jp_global_images_OS2.0.203.0.VOSJPXM_20251023.0000.00_15.0_jp_4ff46f1259.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">klimt_jp_global-ota_full-OS2.0.203.0.VOSJPXM-user-15.0-0850e4f7cf.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">4ff46f12591661ae1e0579eccd939679</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">0850e4f7cfe65a8f7b5d657358dac8bb</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.203.0.VOSJPXM/klimt_jp_global_images_OS2.0.203.0.VOSJPXM_20251023.0000.00_15.0_jp_4ff46f1259.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.203.0.VOSJPXM/klimt_jp_global_images_OS2.0.203.0.VOSJPXM_20251023.0000.00_15.0_jp_4ff46f1259.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.203.0.VOSJPXM/klimt_jp_global_images_OS2.0.203.0.VOSJPXM_20251023.0000.00_15.0_jp_4ff46f1259.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.203.0.VOSJPXM/klimt_jp_global_images_OS2.0.203.0.VOSJPXM_20251023.0000.00_15.0_jp_4ff46f1259.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.203.0.VOSJPXM/klimt_jp_global_images_OS2.0.203.0.VOSJPXM_20251023.0000.00_15.0_jp_4ff46f1259.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.203.0.VOSJPXM/klimt_jp_global-ota_full-OS2.0.203.0.VOSJPXM-user-15.0-0850e4f7cf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.203.0.VOSJPXM/klimt_jp_global-ota_full-OS2.0.203.0.VOSJPXM-user-15.0-0850e4f7cf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.203.0.VOSJPXM/klimt_jp_global-ota_full-OS2.0.203.0.VOSJPXM-user-15.0-0850e4f7cf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.203.0.VOSJPXM/klimt_jp_global-ota_full-OS2.0.203.0.VOSJPXM-user-15.0-0850e4f7cf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.203.0.VOSJPXM/klimt_jp_global-ota_full-OS2.0.203.0.VOSJPXM-user-15.0-0850e4f7cf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#klimt_2_changelog" data-toggle="collapse" role="button"
