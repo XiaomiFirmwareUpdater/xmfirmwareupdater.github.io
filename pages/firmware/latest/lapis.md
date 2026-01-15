@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 15 Pro (lapis) Firmware Downloads
+title: Redmi Note 15 Pro 5G (lapis) Firmware Downloads
 layout: download
-name: Redmi Note 15 Pro
+name: Redmi Note 15 Pro 5G
 codename: lapis
 permalink: /firmware/lapis/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/lapis/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/lapis/">Redmi Note 15 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/lapis/">Redmi Note 15 Pro 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

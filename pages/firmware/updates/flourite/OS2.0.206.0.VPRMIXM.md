@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 15 Pro+ 5G / POCO M8 Pro Global Firmware OS2.0.206.0.VPRMIXM Update
+title: Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G Global Firmware OS2.0.206.0.VPRMIXM Update
 layout: download
-name: Redmi Note 15 Pro+ 5G / POCO M8 Pro Global
+name: Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G Global
 codename: flourite
 permalink: /firmware/flourite/stable/OS2.0.206.0.VPRMIXM/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/flourite/stable/OS2.0.206.0.VPRMIXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item"><a href="/firmware/flourite/">Redmi Note 15 Pro+ 5G / POCO M8 Pro Global</a></li>
+        <li class="breadcrumb-item"><a href="/firmware/flourite/">Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G Global</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS2.0.206.0.VPRMIXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /firmware/flourite/stable/OS2.0.206.0.VPRMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">Firmware OS2.0.206.0.VPRMIXM Stable Release for Redmi Note 15 Pro+ 5G / POCO M8 Pro Global (flourite)</h3>
+    <h3 class="title bg-light p-2 rounded">Firmware OS2.0.206.0.VPRMIXM Stable Release for Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G Global (flourite)</h3>
     <h5>This page shows the OS2.0.206.0.VPRMIXM update only. If you're looking for other updates check
         <a href="/firmware/flourite/">here.</a></h5>
     <div class="card">
@@ -42,7 +42,7 @@ permalink: /firmware/flourite/stable/OS2.0.206.0.VPRMIXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 15 Pro+ 5G / POCO M8 Pro Global</h5>
+                    <h5><b>Device: </b>Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G Global</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/firmware/flourite/" target="_blank">flourite</a> </h5>

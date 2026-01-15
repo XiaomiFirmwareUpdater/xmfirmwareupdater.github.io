@@ -56,22 +56,22 @@ permalink: /hyperos/breeze/stable/OS3.0.9.0.WNUINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.5 GB</h5>
+                    <h5><b>Size: </b>4.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-12-01</h5>
+                    <h5><b>Release Date: </b>2025-12-15</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">breeze_in_global_images_OS3.0.9.0.WNUINXM_20251201.0000.00_16.0_in_3e564dcde0.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">breeze_in_global-ota_full-OS3.0.9.0.WNUINXM-user-16.0-664f4039c4.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">3e564dcde0fb55bc209604506d1b31f9</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">664f4039c44efec80ea081c3c561143f</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.9.0.WNUINXM/breeze_in_global_images_OS3.0.9.0.WNUINXM_20251201.0000.00_16.0_in_3e564dcde0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.9.0.WNUINXM/breeze_in_global_images_OS3.0.9.0.WNUINXM_20251201.0000.00_16.0_in_3e564dcde0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.9.0.WNUINXM/breeze_in_global_images_OS3.0.9.0.WNUINXM_20251201.0000.00_16.0_in_3e564dcde0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.9.0.WNUINXM/breeze_in_global_images_OS3.0.9.0.WNUINXM_20251201.0000.00_16.0_in_3e564dcde0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.9.0.WNUINXM/breeze_in_global_images_OS3.0.9.0.WNUINXM_20251201.0000.00_16.0_in_3e564dcde0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.9.0.WNUINXM/breeze_in_global-ota_full-OS3.0.9.0.WNUINXM-user-16.0-664f4039c4.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.9.0.WNUINXM/breeze_in_global-ota_full-OS3.0.9.0.WNUINXM-user-16.0-664f4039c4.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.9.0.WNUINXM/breeze_in_global-ota_full-OS3.0.9.0.WNUINXM-user-16.0-664f4039c4.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.9.0.WNUINXM/breeze_in_global-ota_full-OS3.0.9.0.WNUINXM-user-16.0-664f4039c4.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.9.0.WNUINXM/breeze_in_global-ota_full-OS3.0.9.0.WNUINXM-user-16.0-664f4039c4.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#breeze_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/breeze/stable/OS3.0.9.0.WNUINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.8 GB</h5>
+                    <h5><b>Size: </b>7.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-12-15</h5>
+                    <h5><b>Release Date: </b>2025-12-01</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">breeze_in_global-ota_full-OS3.0.9.0.WNUINXM-user-16.0-664f4039c4.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">breeze_in_global_images_OS3.0.9.0.WNUINXM_20251201.0000.00_16.0_in_3e564dcde0.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">664f4039c44efec80ea081c3c561143f</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">3e564dcde0fb55bc209604506d1b31f9</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.9.0.WNUINXM/breeze_in_global-ota_full-OS3.0.9.0.WNUINXM-user-16.0-664f4039c4.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.9.0.WNUINXM/breeze_in_global-ota_full-OS3.0.9.0.WNUINXM-user-16.0-664f4039c4.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.9.0.WNUINXM/breeze_in_global-ota_full-OS3.0.9.0.WNUINXM-user-16.0-664f4039c4.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.9.0.WNUINXM/breeze_in_global-ota_full-OS3.0.9.0.WNUINXM-user-16.0-664f4039c4.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.9.0.WNUINXM/breeze_in_global-ota_full-OS3.0.9.0.WNUINXM-user-16.0-664f4039c4.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.9.0.WNUINXM/breeze_in_global_images_OS3.0.9.0.WNUINXM_20251201.0000.00_16.0_in_3e564dcde0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.9.0.WNUINXM/breeze_in_global_images_OS3.0.9.0.WNUINXM_20251201.0000.00_16.0_in_3e564dcde0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.9.0.WNUINXM/breeze_in_global_images_OS3.0.9.0.WNUINXM_20251201.0000.00_16.0_in_3e564dcde0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.9.0.WNUINXM/breeze_in_global_images_OS3.0.9.0.WNUINXM_20251201.0000.00_16.0_in_3e564dcde0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.9.0.WNUINXM/breeze_in_global_images_OS3.0.9.0.WNUINXM_20251201.0000.00_16.0_in_3e564dcde0.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#breeze_2_changelog" data-toggle="collapse" role="button"

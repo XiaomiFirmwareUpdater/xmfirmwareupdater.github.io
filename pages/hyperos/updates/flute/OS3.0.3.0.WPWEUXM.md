@@ -56,22 +56,22 @@ permalink: /hyperos/flute/stable/OS3.0.3.0.WPWEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.4 GB</h5>
+                    <h5><b>Size: </b>4.9 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-12-25</h5>
+                    <h5><b>Release Date: </b>2025-12-31</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">flute_eea_global_images_OS3.0.3.0.WPWEUXM_20251225.0000.00_16.0_eea_4ebc875d17.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">flute_eea_global-ota_full-OS3.0.3.0.WPWEUXM-user-16.0-75d90aec65.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">4ebc875d1773dde48e207f1e7e62cb4e</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">75d90aec656c26c9b41feea6ff4af843</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.3.0.WPWEUXM/flute_eea_global_images_OS3.0.3.0.WPWEUXM_20251225.0000.00_16.0_eea_4ebc875d17.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.3.0.WPWEUXM/flute_eea_global_images_OS3.0.3.0.WPWEUXM_20251225.0000.00_16.0_eea_4ebc875d17.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.3.0.WPWEUXM/flute_eea_global_images_OS3.0.3.0.WPWEUXM_20251225.0000.00_16.0_eea_4ebc875d17.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.3.0.WPWEUXM/flute_eea_global_images_OS3.0.3.0.WPWEUXM_20251225.0000.00_16.0_eea_4ebc875d17.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.3.0.WPWEUXM/flute_eea_global_images_OS3.0.3.0.WPWEUXM_20251225.0000.00_16.0_eea_4ebc875d17.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.3.0.WPWEUXM/flute_eea_global-ota_full-OS3.0.3.0.WPWEUXM-user-16.0-75d90aec65.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.3.0.WPWEUXM/flute_eea_global-ota_full-OS3.0.3.0.WPWEUXM-user-16.0-75d90aec65.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.3.0.WPWEUXM/flute_eea_global-ota_full-OS3.0.3.0.WPWEUXM-user-16.0-75d90aec65.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.3.0.WPWEUXM/flute_eea_global-ota_full-OS3.0.3.0.WPWEUXM-user-16.0-75d90aec65.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.3.0.WPWEUXM/flute_eea_global-ota_full-OS3.0.3.0.WPWEUXM-user-16.0-75d90aec65.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#flute_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/flute/stable/OS3.0.3.0.WPWEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.9 GB</h5>
+                    <h5><b>Size: </b>6.4 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-12-31</h5>
+                    <h5><b>Release Date: </b>2025-12-25</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">flute_eea_global-ota_full-OS3.0.3.0.WPWEUXM-user-16.0-75d90aec65.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">flute_eea_global_images_OS3.0.3.0.WPWEUXM_20251225.0000.00_16.0_eea_4ebc875d17.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">75d90aec656c26c9b41feea6ff4af843</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">4ebc875d1773dde48e207f1e7e62cb4e</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.3.0.WPWEUXM/flute_eea_global-ota_full-OS3.0.3.0.WPWEUXM-user-16.0-75d90aec65.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.3.0.WPWEUXM/flute_eea_global-ota_full-OS3.0.3.0.WPWEUXM-user-16.0-75d90aec65.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.3.0.WPWEUXM/flute_eea_global-ota_full-OS3.0.3.0.WPWEUXM-user-16.0-75d90aec65.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.3.0.WPWEUXM/flute_eea_global-ota_full-OS3.0.3.0.WPWEUXM-user-16.0-75d90aec65.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.3.0.WPWEUXM/flute_eea_global-ota_full-OS3.0.3.0.WPWEUXM-user-16.0-75d90aec65.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.3.0.WPWEUXM/flute_eea_global_images_OS3.0.3.0.WPWEUXM_20251225.0000.00_16.0_eea_4ebc875d17.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.3.0.WPWEUXM/flute_eea_global_images_OS3.0.3.0.WPWEUXM_20251225.0000.00_16.0_eea_4ebc875d17.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.3.0.WPWEUXM/flute_eea_global_images_OS3.0.3.0.WPWEUXM_20251225.0000.00_16.0_eea_4ebc875d17.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.3.0.WPWEUXM/flute_eea_global_images_OS3.0.3.0.WPWEUXM_20251225.0000.00_16.0_eea_4ebc875d17.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.3.0.WPWEUXM/flute_eea_global_images_OS3.0.3.0.WPWEUXM_20251225.0000.00_16.0_eea_4ebc875d17.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#flute_2_changelog" data-toggle="collapse" role="button"

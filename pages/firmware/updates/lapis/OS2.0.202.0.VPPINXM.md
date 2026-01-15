@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 15 Pro India Firmware OS2.0.202.0.VPPINXM Update
+title: Redmi Note 15 Pro 5G India Firmware OS2.0.202.0.VPPINXM Update
 layout: download
-name: Redmi Note 15 Pro India
+name: Redmi Note 15 Pro 5G India
 codename: lapis
 permalink: /firmware/lapis/stable/OS2.0.202.0.VPPINXM/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/lapis/stable/OS2.0.202.0.VPPINXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item"><a href="/firmware/lapis/">Redmi Note 15 Pro India</a></li>
+        <li class="breadcrumb-item"><a href="/firmware/lapis/">Redmi Note 15 Pro 5G India</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS2.0.202.0.VPPINXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /firmware/lapis/stable/OS2.0.202.0.VPPINXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">Firmware OS2.0.202.0.VPPINXM Stable Release for Redmi Note 15 Pro India (lapis)</h3>
+    <h3 class="title bg-light p-2 rounded">Firmware OS2.0.202.0.VPPINXM Stable Release for Redmi Note 15 Pro 5G India (lapis)</h3>
     <h5>This page shows the OS2.0.202.0.VPPINXM update only. If you're looking for other updates check
         <a href="/firmware/lapis/">here.</a></h5>
     <div class="card">
@@ -42,7 +42,7 @@ permalink: /firmware/lapis/stable/OS2.0.202.0.VPPINXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 15 Pro India</h5>
+                    <h5><b>Device: </b>Redmi Note 15 Pro 5G India</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/firmware/lapis/" target="_blank">lapis</a> </h5>

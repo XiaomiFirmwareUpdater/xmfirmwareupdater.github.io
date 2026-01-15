@@ -6296,43 +6296,43 @@
   codename: flourite
   date: '2025-08-21'
   download: https://bigota.d.miui.com/OS2.0.204.0.VPRCNXM/fw_flourite_flourite-ota_full-OS2.0.204.0.VPRCNXM-user-15.0-d9f804b3ea.zip
-  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro
+  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
   version: OS2.0.204.0.VPRCNXM
 - android: '15.0'
   codename: flourite
   date: '2025-09-21'
   download: https://bigota.d.miui.com/OS2.0.206.0.VPRCNXM/fw_flourite_flourite-ota_full-OS2.0.206.0.VPRCNXM-user-15.0-356815d47a.zip
-  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro
+  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
   version: OS2.0.206.0.VPRCNXM
 - android: '15.0'
   codename: flourite
   date: '2025-09-12'
   download: https://bigota.d.miui.com/OS2.0.205.0.VPRCNXM/fw_flourite_flourite-ota_full-OS2.0.205.0.VPRCNXM-user-15.0-0e2d6b8c87.zip
-  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro
+  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
   version: OS2.0.205.0.VPRCNXM
 - android: '15.0'
   codename: flourite
   date: '2026-01-08'
   download: https://bigota.d.miui.com/OS2.0.205.0.VPREUXM/fw_flourite_flourite_eea_global-ota_full-OS2.0.205.0.VPREUXM-user-15.0-09be4c5620.zip
-  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro
+  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
   version: OS2.0.205.0.VPREUXM
 - android: '15.0'
   codename: flourite
   date: '2026-01-08'
   download: https://bigota.d.miui.com/OS2.0.206.0.VPRMIXM/fw_flourite_flourite_global-ota_full-OS2.0.206.0.VPRMIXM-user-15.0-e437b2c623.zip
-  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro
+  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
   version: OS2.0.206.0.VPRMIXM
 - android: '15.0'
   codename: flourite
   date: '2026-01-07'
   download: https://bigota.d.miui.com/OS2.0.204.0.VPREUXM/fw_flourite_flourite_eea_global-ota_full-OS2.0.204.0.VPREUXM-user-15.0-351899c812.zip
-  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro
+  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
   version: OS2.0.204.0.VPREUXM
 - android: '15.0'
   codename: flourite
   date: '2025-11-06'
   download: https://bigota.d.miui.com/OS2.0.209.0.VPRCNXM/fw_flourite_flourite-ota_full-OS2.0.209.0.VPRCNXM-user-15.0-ed76995ddb.zip
-  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro
+  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
   version: OS2.0.209.0.VPRCNXM
 - android: '15.0'
   codename: flute
@@ -9638,43 +9638,43 @@
   codename: kunzite
   date: '2025-10-31'
   download: https://bigota.d.miui.com/OS2.0.206.0.VPQCNXM/fw_kunzite_kunzite-ota_full-OS2.0.206.0.VPQCNXM-user-15.0-0fc6cc4f4c.zip
-  name: Redmi Note 15 5G
+  name: Redmi Note 15 5G/POCO M8 5G
   version: OS2.0.206.0.VPQCNXM
 - android: '15.0'
   codename: kunzite
   date: '2025-11-28'
   download: https://bigota.d.miui.com/OS2.0.207.0.VPQCNXM/fw_kunzite_kunzite-ota_full-OS2.0.207.0.VPQCNXM-user-15.0-6934a6d67d.zip
-  name: Redmi Note 15 5G
+  name: Redmi Note 15 5G/POCO M8 5G
   version: OS2.0.207.0.VPQCNXM
 - android: '15.0'
   codename: kunzite
   date: '2025-09-26'
   download: https://bigota.d.miui.com/OS2.0.204.0.VPQCNXM/fw_kunzite_kunzite-ota_full-OS2.0.204.0.VPQCNXM-user-15.0-39520b594a.zip
-  name: Redmi Note 15 5G
+  name: Redmi Note 15 5G/POCO M8 5G
   version: OS2.0.204.0.VPQCNXM
 - android: '15.0'
   codename: kunzite
   date: '2025-08-21'
   download: https://bigota.d.miui.com/OS2.0.203.0.VPQCNXM/fw_kunzite_kunzite-ota_full-OS2.0.203.0.VPQCNXM-user-15.0-0f386094dc.zip
-  name: Redmi Note 15 5G
+  name: Redmi Note 15 5G/POCO M8 5G
   version: OS2.0.203.0.VPQCNXM
 - android: '15.0'
   codename: kunzite
   date: '2026-01-08'
   download: https://bigota.d.miui.com/OS2.0.204.0.VPQEUXM/fw_kunzite_kunzite_eea_global-ota_full-OS2.0.204.0.VPQEUXM-user-15.0-3e3b24be1d.zip
-  name: Redmi Note 15 5G
+  name: Redmi Note 15 5G/POCO M8 5G
   version: OS2.0.204.0.VPQEUXM
 - android: '15.0'
   codename: kunzite
   date: '2026-01-08'
   download: https://bigota.d.miui.com/OS2.0.205.0.VPQMIXM/fw_kunzite_kunzite_global-ota_full-OS2.0.205.0.VPQMIXM-user-15.0-1c77caf64d.zip
-  name: Redmi Note 15 5G
+  name: Redmi Note 15 5G/POCO M8 5G
   version: OS2.0.205.0.VPQMIXM
 - android: '15.0'
   codename: kunzite
   date: '2026-01-06'
   download: https://bigota.d.miui.com/OS2.0.202.0.VPQINXM/fw_kunzite_kunzite_in_global-ota_full-OS2.0.202.0.VPQINXM-user-15.0-759b4a4ee6.zip
-  name: Redmi Note 15 5G
+  name: Redmi Note 15 5G/POCO M8 5G
   version: OS2.0.202.0.VPQINXM
 - android: '14.0'
   codename: lake
@@ -9824,49 +9824,55 @@
   codename: lapis
   date: '2025-10-24'
   download: https://bigota.d.miui.com/OS2.0.207.0.VPPCNXM/fw_lapis_lapis-ota_full-OS2.0.207.0.VPPCNXM-user-15.0-e339e326bc.zip
-  name: Redmi Note 15 Pro
+  name: Redmi Note 15 Pro 5G
   version: OS2.0.207.0.VPPCNXM
 - android: '15.0'
   codename: lapis
   date: '2025-08-22'
   download: https://bigota.d.miui.com/OS2.0.204.0.VPPCNXM/fw_lapis_lapis-ota_full-OS2.0.204.0.VPPCNXM-user-15.0-73838c8323.zip
-  name: Redmi Note 15 Pro
+  name: Redmi Note 15 Pro 5G
   version: OS2.0.204.0.VPPCNXM
 - android: '15.0'
   codename: lapis
   date: '2025-09-18'
   download: https://bigota.d.miui.com/OS2.0.206.0.VPPCNXM/fw_lapis_lapis-ota_full-OS2.0.206.0.VPPCNXM-user-15.0-156350797d.zip
-  name: Redmi Note 15 Pro
+  name: Redmi Note 15 Pro 5G
   version: OS2.0.206.0.VPPCNXM
 - android: '15.0'
   codename: lapis
   date: '2026-01-15'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VPPEUXM/fw_lapis_lapis_eea_global-ota_full-OS2.0.203.0.VPPEUXM-user-15.0-c3b16bad36.zip
+  name: Redmi Note 15 Pro 5G
+  version: OS2.0.203.0.VPPEUXM
+- android: '15.0'
+  codename: lapis
+  date: '2026-01-15'
   download: https://bigota.d.miui.com/OS2.0.203.0.VPPMIXM/fw_lapis_lapis_global-ota_full-OS2.0.203.0.VPPMIXM-user-15.0-c63dd4dfa9.zip
-  name: Redmi Note 15 Pro
+  name: Redmi Note 15 Pro 5G
   version: OS2.0.203.0.VPPMIXM
 - android: '15.0'
   codename: lapis
   date: '2026-01-15'
   download: https://bigota.d.miui.com/OS2.0.202.0.VPPINXM/fw_lapis_lapis_in_global-ota_full-OS2.0.202.0.VPPINXM-user-15.0-d31172ee51.zip
-  name: Redmi Note 15 Pro
+  name: Redmi Note 15 Pro 5G
   version: OS2.0.202.0.VPPINXM
 - android: '15.0'
   codename: lapis
   date: '2025-11-14'
   download: https://bigota.d.miui.com/OS2.0.208.0.VPPCNXM/fw_lapis_lapis-ota_full-OS2.0.208.0.VPPCNXM-user-15.0-43f9c29064.zip
-  name: Redmi Note 15 Pro
+  name: Redmi Note 15 Pro 5G
   version: OS2.0.208.0.VPPCNXM
 - android: '15.0'
   codename: lapis
   date: '2025-12-03'
   download: https://bigota.d.miui.com/OS2.0.209.0.VPPCNXM/fw_lapis_lapis-ota_full-OS2.0.209.0.VPPCNXM-user-15.0-69ee5ae0bf.zip
-  name: Redmi Note 15 Pro
+  name: Redmi Note 15 Pro 5G
   version: OS2.0.209.0.VPPCNXM
 - android: '15.0'
   codename: lapis
   date: '2025-09-02'
   download: https://bigota.d.miui.com/OS2.0.205.0.VPPCNXM/fw_lapis_lapis-ota_full-OS2.0.205.0.VPPCNXM-user-15.0-634b7a4d88.zip
-  name: Redmi Note 15 Pro
+  name: Redmi Note 15 Pro 5G
   version: OS2.0.205.0.VPPCNXM
 - android: '14.0'
   codename: light
@@ -19666,6 +19672,18 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.TGKMIXM/fw_spesn_miui_SPESNGlobal_OS1.0.3.0.TGKMIXM_21b3b58697_13.0.zip
   name: Redmi Note 11 NFC
   version: OS1.0.3.0.TGKMIXM
+- android: '15.0'
+  codename: spinel
+  date: '2026-01-15'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VPGEUXM/fw_spinel_spinel_eea_global-ota_full-OS2.0.208.0.VPGEUXM-user-15.0-d39e79bdf7.zip
+  name: Redmi Note 15 4G
+  version: OS2.0.208.0.VPGEUXM
+- android: '15.0'
+  codename: spinel
+  date: '2026-01-15'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VPGMIXM/fw_spinel_spinel_global-ota_full-OS2.0.207.0.VPGMIXM-user-15.0-0751ea5455.zip
+  name: Redmi Note 15 4G
+  version: OS2.0.207.0.VPGMIXM
 - android: '15.0'
   codename: spring
   date: '2025-08-29'

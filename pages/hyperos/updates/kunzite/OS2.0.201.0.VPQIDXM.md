@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 15 5G Indonesia HyperOS OS2.0.201.0.VPQIDXM Update
+title: Redmi Note 15 5G / POCO M8 5G Indonesia HyperOS OS2.0.201.0.VPQIDXM Update
 layout: download
-name: Redmi Note 15 5G Indonesia
+name: Redmi Note 15 5G / POCO M8 5G Indonesia
 codename: kunzite
 permalink: /hyperos/kunzite/stable/OS2.0.201.0.VPQIDXM/
 ---
@@ -9,7 +9,7 @@ permalink: /hyperos/kunzite/stable/OS2.0.201.0.VPQIDXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/kunzite/">Redmi Note 15 5G Indonesia</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/kunzite/">Redmi Note 15 5G / POCO M8 5G Indonesia</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS2.0.201.0.VPQIDXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /hyperos/kunzite/stable/OS2.0.201.0.VPQIDXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.201.0.VPQIDXM Stable Official Update for Redmi Note 15 5G Indonesia (kunzite)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.201.0.VPQIDXM Stable Official Update for Redmi Note 15 5G / POCO M8 5G Indonesia (kunzite)</h3>
     <h5>This page shows the OS2.0.201.0.VPQIDXM update only. If you're looking for other updates check
         <a href="/hyperos/kunzite/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -44,50 +44,7 @@ permalink: /hyperos/kunzite/stable/OS2.0.201.0.VPQIDXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 15 5G Indonesia</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Codename: </b> <a href="/hyperos/kunzite/" target="_blank">kunzite</a> </h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS2.0.201.0.VPQIDXM</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.7 GB</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-10-25</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">kunzite_id_global_images_OS2.0.201.0.VPQIDXM_20251025.0000.00_15.0_id_84ca4263db.tgz</span></h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">84ca4263dbc6ec55c96f78d932eb590c</span></h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.201.0.VPQIDXM/kunzite_id_global_images_OS2.0.201.0.VPQIDXM_20251025.0000.00_15.0_id_84ca4263db.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.201.0.VPQIDXM/kunzite_id_global_images_OS2.0.201.0.VPQIDXM_20251025.0000.00_15.0_id_84ca4263db.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.201.0.VPQIDXM/kunzite_id_global_images_OS2.0.201.0.VPQIDXM_20251025.0000.00_15.0_id_84ca4263db.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.201.0.VPQIDXM/kunzite_id_global_images_OS2.0.201.0.VPQIDXM_20251025.0000.00_15.0_id_84ca4263db.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.201.0.VPQIDXM/kunzite_id_global_images_OS2.0.201.0.VPQIDXM_20251025.0000.00_15.0_id_84ca4263db.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#kunzite_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="kunzite_1_changelog"> <i class="fa fa-arrow-down"
-                                aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="kunzite_1_changelog">
-                        <p id="changelog_text">[Basic experience]<br>Optimization: Tweaked the Storage refresh algorithm so it activates more often<br>[System animations]<br>Optimization: Interrupt animation when closing apps in Landscape mode<br>Optimization: Interrupt animation when entering subpages within apps<br>Optimization: Interrupt animation during app transitions<br>[System]<br>New: Home screen wallpaper now supports a blur effect<br>Optimization: Scrolling performance on content feeds in some third party apps<br>Optimization: Updated styles for some classic pages<br>[Lock screen]<br>New: Eastern aesthetics lock screen templates<br>New: Customizable Lock screen shortcuts<br>[Settings]<br>Optimization: Added a shortcut to system navigation settings in Home screen settings<br>[Status bar, Notification shade]<br>New: Some status bar icons now support custom display<br>[Accessibility]<br>Fix: Touch gestures stopped working in TalkBack mode<br>Fix: Volume buttons didn't work in TalkBack mode<br>Fix: Issues that prevented Recorder from capturing TalkBack audio<br>Fix: Issues with announcements for unselected items in Calendar and other apps<br>Fix: Some buttons weren't announced in several apps, including Settings, Control center, Messaging, Contacts, Weather, Notes, and Browser</p>
-                    </div>
-                </li>
-            </ul>
-        </div>
-        <div class="card card-body">
-            {%include vli_ad_320x50_1.html%}
-            <ul class="list-unstyled">
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 15 5G Indonesia</h5>
+                    <h5><b>Device: </b>Redmi Note 15 5G / POCO M8 5G Indonesia</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/kunzite/" target="_blank">kunzite</a> </h5>
@@ -115,6 +72,49 @@ permalink: /hyperos/kunzite/stable/OS2.0.201.0.VPQIDXM/
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.201.0.VPQIDXM/kunzite_id_global-ota_full-OS2.0.201.0.VPQIDXM-user-15.0-eaba2ceb62.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.201.0.VPQIDXM/kunzite_id_global-ota_full-OS2.0.201.0.VPQIDXM-user-15.0-eaba2ceb62.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.201.0.VPQIDXM/kunzite_id_global-ota_full-OS2.0.201.0.VPQIDXM-user-15.0-eaba2ceb62.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.201.0.VPQIDXM/kunzite_id_global-ota_full-OS2.0.201.0.VPQIDXM-user-15.0-eaba2ceb62.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.201.0.VPQIDXM/kunzite_id_global-ota_full-OS2.0.201.0.VPQIDXM-user-15.0-eaba2ceb62.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#kunzite_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="kunzite_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="kunzite_1_changelog">
+                        <p id="changelog_text">[Basic experience]<br>Optimization: Tweaked the Storage refresh algorithm so it activates more often<br>[System animations]<br>Optimization: Interrupt animation when closing apps in Landscape mode<br>Optimization: Interrupt animation when entering subpages within apps<br>Optimization: Interrupt animation during app transitions<br>[System]<br>New: Home screen wallpaper now supports a blur effect<br>Optimization: Scrolling performance on content feeds in some third party apps<br>Optimization: Updated styles for some classic pages<br>[Lock screen]<br>New: Eastern aesthetics lock screen templates<br>New: Customizable Lock screen shortcuts<br>[Settings]<br>Optimization: Added a shortcut to system navigation settings in Home screen settings<br>[Status bar, Notification shade]<br>New: Some status bar icons now support custom display<br>[Accessibility]<br>Fix: Touch gestures stopped working in TalkBack mode<br>Fix: Volume buttons didn't work in TalkBack mode<br>Fix: Issues that prevented Recorder from capturing TalkBack audio<br>Fix: Issues with announcements for unselected items in Calendar and other apps<br>Fix: Some buttons weren't announced in several apps, including Settings, Control center, Messaging, Contacts, Weather, Notes, and Browser</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi Note 15 5G / POCO M8 5G Indonesia</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/kunzite/" target="_blank">kunzite</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.201.0.VPQIDXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>7.7 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-10-25</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">kunzite_id_global_images_OS2.0.201.0.VPQIDXM_20251025.0000.00_15.0_id_84ca4263db.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">84ca4263dbc6ec55c96f78d932eb590c</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.201.0.VPQIDXM/kunzite_id_global_images_OS2.0.201.0.VPQIDXM_20251025.0000.00_15.0_id_84ca4263db.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.201.0.VPQIDXM/kunzite_id_global_images_OS2.0.201.0.VPQIDXM_20251025.0000.00_15.0_id_84ca4263db.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.201.0.VPQIDXM/kunzite_id_global_images_OS2.0.201.0.VPQIDXM_20251025.0000.00_15.0_id_84ca4263db.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.201.0.VPQIDXM/kunzite_id_global_images_OS2.0.201.0.VPQIDXM_20251025.0000.00_15.0_id_84ca4263db.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.201.0.VPQIDXM/kunzite_id_global_images_OS2.0.201.0.VPQIDXM_20251025.0000.00_15.0_id_84ca4263db.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#kunzite_2_changelog" data-toggle="collapse" role="button"

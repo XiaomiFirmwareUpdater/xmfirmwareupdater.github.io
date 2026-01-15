@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 15 5G EEA Firmware OS2.0.204.0.VPQEUXM Update
+title: Redmi Note 15 5G / POCO M8 5G EEA Firmware OS2.0.204.0.VPQEUXM Update
 layout: download
-name: Redmi Note 15 5G EEA
+name: Redmi Note 15 5G / POCO M8 5G EEA
 codename: kunzite
 permalink: /firmware/kunzite/stable/OS2.0.204.0.VPQEUXM/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/kunzite/stable/OS2.0.204.0.VPQEUXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item"><a href="/firmware/kunzite/">Redmi Note 15 5G EEA</a></li>
+        <li class="breadcrumb-item"><a href="/firmware/kunzite/">Redmi Note 15 5G / POCO M8 5G EEA</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS2.0.204.0.VPQEUXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /firmware/kunzite/stable/OS2.0.204.0.VPQEUXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">Firmware OS2.0.204.0.VPQEUXM Stable Release for Redmi Note 15 5G EEA (kunzite)</h3>
+    <h3 class="title bg-light p-2 rounded">Firmware OS2.0.204.0.VPQEUXM Stable Release for Redmi Note 15 5G / POCO M8 5G EEA (kunzite)</h3>
     <h5>This page shows the OS2.0.204.0.VPQEUXM update only. If you're looking for other updates check
         <a href="/firmware/kunzite/">here.</a></h5>
     <div class="card">
@@ -42,7 +42,7 @@ permalink: /firmware/kunzite/stable/OS2.0.204.0.VPQEUXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 15 5G EEA</h5>
+                    <h5><b>Device: </b>Redmi Note 15 5G / POCO M8 5G EEA</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/firmware/kunzite/" target="_blank">kunzite</a> </h5>

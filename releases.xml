@@ -4,8 +4,33 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 15 Jan 2026 12:40:43 </lastBuildDate>
+        <lastBuildDate>Fri, 16 Jan 2026 01:00:55 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 15 Pro 5G (lapis) - OS2.0.203.0.VPPMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
+            <pubDate>Thu, 15 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 Pro 5G (lapis) - OS2.0.203.0.VPPEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
+            <pubDate>Thu, 15 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 Pro 5G (lapis) - OS2.0.202.0.VPPINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
+            <pubDate>Thu, 15 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 4G (spinel) - OS2.0.207.0.VPGMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/spinel/</link>
+            <pubDate>Thu, 15 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 4G (spinel) - OS2.0.208.0.VPGEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/spinel/</link>
+            <pubDate>Thu, 15 Jan 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 15S Pro (dijun) - OS3.0.9.0.WODCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dijun/</link>
@@ -187,7 +212,7 @@
             <pubDate>Fri, 09 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 15 5G (kunzite) - OS3.0.2.0.WPQCNXM</title>
+            <title>Redmi Note 15 5G/POCO M8 5G (kunzite) - OS3.0.2.0.WPQCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
             <pubDate>Fri, 09 Jan 2026 00:00:00 </pubDate>
         </item>
@@ -237,12 +262,12 @@
             <pubDate>Thu, 08 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro (flourite) - OS2.0.206.0.VPRMIXM</title>
+            <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS2.0.206.0.VPRMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
             <pubDate>Thu, 08 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro (flourite) - OS2.0.205.0.VPREUXM</title>
+            <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS2.0.205.0.VPREUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
             <pubDate>Thu, 08 Jan 2026 00:00:00 </pubDate>
         </item>
@@ -287,12 +312,12 @@
             <pubDate>Thu, 08 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 15 5G (kunzite) - OS2.0.205.0.VPQMIXM</title>
+            <title>Redmi Note 15 5G/POCO M8 5G (kunzite) - OS2.0.205.0.VPQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
             <pubDate>Thu, 08 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 15 5G (kunzite) - OS2.0.204.0.VPQEUXM</title>
+            <title>Redmi Note 15 5G/POCO M8 5G (kunzite) - OS2.0.204.0.VPQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
             <pubDate>Thu, 08 Jan 2026 00:00:00 </pubDate>
         </item>
@@ -417,7 +442,7 @@
             <pubDate>Tue, 06 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 15 5G (kunzite) - OS2.0.202.0.VPQINXM</title>
+            <title>Redmi Note 15 5G/POCO M8 5G (kunzite) - OS2.0.202.0.VPQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
             <pubDate>Tue, 06 Jan 2026 00:00:00 </pubDate>
         </item>
@@ -1117,7 +1142,7 @@
             <pubDate>Fri, 19 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro (flourite) - OS3.0.2.0.WPRCNXM</title>
+            <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS3.0.2.0.WPRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
             <pubDate>Thu, 18 Dec 2025 00:00:00 </pubDate>
         </item>
@@ -1132,7 +1157,7 @@
             <pubDate>Thu, 18 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 15 Pro (lapis) - OS3.0.4.0.WPPCNXM</title>
+            <title>Redmi Note 15 Pro 5G (lapis) - OS3.0.4.0.WPPCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
             <pubDate>Thu, 18 Dec 2025 00:00:00 </pubDate>
         </item>

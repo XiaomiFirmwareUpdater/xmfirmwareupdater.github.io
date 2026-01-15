@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 15 Pro China HyperOS OS2.0.209.0.VPPCNXM Update
+title: Redmi Note 15 Pro 5G China HyperOS OS2.0.209.0.VPPCNXM Update
 layout: download
-name: Redmi Note 15 Pro China
+name: Redmi Note 15 Pro 5G China
 codename: lapis
 permalink: /hyperos/lapis/stable/OS2.0.209.0.VPPCNXM/
 ---
@@ -9,7 +9,7 @@ permalink: /hyperos/lapis/stable/OS2.0.209.0.VPPCNXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/lapis/">Redmi Note 15 Pro China</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/lapis/">Redmi Note 15 Pro 5G China</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS2.0.209.0.VPPCNXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /hyperos/lapis/stable/OS2.0.209.0.VPPCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.209.0.VPPCNXM Stable Official Update for Redmi Note 15 Pro China (lapis)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.209.0.VPPCNXM Stable Official Update for Redmi Note 15 Pro 5G China (lapis)</h3>
     <h5>This page shows the OS2.0.209.0.VPPCNXM update only. If you're looking for other updates check
         <a href="/hyperos/lapis/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -44,50 +44,7 @@ permalink: /hyperos/lapis/stable/OS2.0.209.0.VPPCNXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 15 Pro China</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Codename: </b> <a href="/hyperos/lapis/" target="_blank">lapis</a> </h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS2.0.209.0.VPPCNXM</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>9.5 GB</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-21</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">lapis_images_OS2.0.209.0.VPPCNXM_20251121.0000.00_15.0_cn_fcc93134e4.tgz</span></h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">fcc93134e49b46eb02affa079e411a35</span></h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.209.0.VPPCNXM/lapis_images_OS2.0.209.0.VPPCNXM_20251121.0000.00_15.0_cn_fcc93134e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.209.0.VPPCNXM/lapis_images_OS2.0.209.0.VPPCNXM_20251121.0000.00_15.0_cn_fcc93134e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.209.0.VPPCNXM/lapis_images_OS2.0.209.0.VPPCNXM_20251121.0000.00_15.0_cn_fcc93134e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.209.0.VPPCNXM/lapis_images_OS2.0.209.0.VPPCNXM_20251121.0000.00_15.0_cn_fcc93134e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.209.0.VPPCNXM/lapis_images_OS2.0.209.0.VPPCNXM_20251121.0000.00_15.0_cn_fcc93134e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#lapis_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="lapis_1_changelog"> <i class="fa fa-arrow-down"
-                                aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="lapis_1_changelog">
-                        <p id="changelog_text">[System]<br>Updated the security patch to November 2025. Increased system security.</p>
-                    </div>
-                </li>
-            </ul>
-        </div>
-        <div class="card card-body">
-            {%include vli_ad_320x50_1.html%}
-            <ul class="list-unstyled">
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 15 Pro China</h5>
+                    <h5><b>Device: </b>Redmi Note 15 Pro 5G China</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/lapis/" target="_blank">lapis</a> </h5>
@@ -115,6 +72,49 @@ permalink: /hyperos/lapis/stable/OS2.0.209.0.VPPCNXM/
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.209.0.VPPCNXM/lapis-ota_full-OS2.0.209.0.VPPCNXM-user-15.0-69ee5ae0bf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.209.0.VPPCNXM/lapis-ota_full-OS2.0.209.0.VPPCNXM-user-15.0-69ee5ae0bf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.209.0.VPPCNXM/lapis-ota_full-OS2.0.209.0.VPPCNXM-user-15.0-69ee5ae0bf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.209.0.VPPCNXM/lapis-ota_full-OS2.0.209.0.VPPCNXM-user-15.0-69ee5ae0bf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.209.0.VPPCNXM/lapis-ota_full-OS2.0.209.0.VPPCNXM-user-15.0-69ee5ae0bf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#lapis_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="lapis_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="lapis_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to November 2025. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi Note 15 Pro 5G China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/lapis/" target="_blank">lapis</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS2.0.209.0.VPPCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>9.5 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2025-11-21</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">lapis_images_OS2.0.209.0.VPPCNXM_20251121.0000.00_15.0_cn_fcc93134e4.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">fcc93134e49b46eb02affa079e411a35</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.209.0.VPPCNXM/lapis_images_OS2.0.209.0.VPPCNXM_20251121.0000.00_15.0_cn_fcc93134e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.209.0.VPPCNXM/lapis_images_OS2.0.209.0.VPPCNXM_20251121.0000.00_15.0_cn_fcc93134e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.209.0.VPPCNXM/lapis_images_OS2.0.209.0.VPPCNXM_20251121.0000.00_15.0_cn_fcc93134e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.209.0.VPPCNXM/lapis_images_OS2.0.209.0.VPPCNXM_20251121.0000.00_15.0_cn_fcc93134e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.209.0.VPPCNXM/lapis_images_OS2.0.209.0.VPPCNXM_20251121.0000.00_15.0_cn_fcc93134e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#lapis_2_changelog" data-toggle="collapse" role="button"

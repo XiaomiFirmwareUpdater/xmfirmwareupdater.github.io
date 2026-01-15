@@ -56,22 +56,22 @@ permalink: /hyperos/mondrian/stable/OS2.0.220.0.VMNCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.1 GB</h5>
+                    <h5><b>Size: </b>6.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-05</h5>
+                    <h5><b>Release Date: </b>2025-11-17</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">mondrian_images_OS2.0.220.0.VMNCNXM_20251105.0000.00_15.0_cn_ee47654f1f.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">mondrian-ota_full-OS2.0.220.0.VMNCNXM-user-15.0-21a4f49f7c.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">ee47654f1fd224990eb66c82543d19d9</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">21a4f49f7c9fd2b85f51186e23107a31</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.220.0.VMNCNXM/mondrian_images_OS2.0.220.0.VMNCNXM_20251105.0000.00_15.0_cn_ee47654f1f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.220.0.VMNCNXM/mondrian_images_OS2.0.220.0.VMNCNXM_20251105.0000.00_15.0_cn_ee47654f1f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.220.0.VMNCNXM/mondrian_images_OS2.0.220.0.VMNCNXM_20251105.0000.00_15.0_cn_ee47654f1f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.220.0.VMNCNXM/mondrian_images_OS2.0.220.0.VMNCNXM_20251105.0000.00_15.0_cn_ee47654f1f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.220.0.VMNCNXM/mondrian_images_OS2.0.220.0.VMNCNXM_20251105.0000.00_15.0_cn_ee47654f1f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.220.0.VMNCNXM/mondrian-ota_full-OS2.0.220.0.VMNCNXM-user-15.0-21a4f49f7c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.220.0.VMNCNXM/mondrian-ota_full-OS2.0.220.0.VMNCNXM-user-15.0-21a4f49f7c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.220.0.VMNCNXM/mondrian-ota_full-OS2.0.220.0.VMNCNXM-user-15.0-21a4f49f7c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.220.0.VMNCNXM/mondrian-ota_full-OS2.0.220.0.VMNCNXM-user-15.0-21a4f49f7c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.220.0.VMNCNXM/mondrian-ota_full-OS2.0.220.0.VMNCNXM-user-15.0-21a4f49f7c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#mondrian_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/mondrian/stable/OS2.0.220.0.VMNCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.2 GB</h5>
+                    <h5><b>Size: </b>8.1 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-11-17</h5>
+                    <h5><b>Release Date: </b>2025-11-05</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">mondrian-ota_full-OS2.0.220.0.VMNCNXM-user-15.0-21a4f49f7c.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">mondrian_images_OS2.0.220.0.VMNCNXM_20251105.0000.00_15.0_cn_ee47654f1f.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">21a4f49f7c9fd2b85f51186e23107a31</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ee47654f1fd224990eb66c82543d19d9</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.220.0.VMNCNXM/mondrian-ota_full-OS2.0.220.0.VMNCNXM-user-15.0-21a4f49f7c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.220.0.VMNCNXM/mondrian-ota_full-OS2.0.220.0.VMNCNXM-user-15.0-21a4f49f7c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.220.0.VMNCNXM/mondrian-ota_full-OS2.0.220.0.VMNCNXM-user-15.0-21a4f49f7c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.220.0.VMNCNXM/mondrian-ota_full-OS2.0.220.0.VMNCNXM-user-15.0-21a4f49f7c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.220.0.VMNCNXM/mondrian-ota_full-OS2.0.220.0.VMNCNXM-user-15.0-21a4f49f7c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.220.0.VMNCNXM/mondrian_images_OS2.0.220.0.VMNCNXM_20251105.0000.00_15.0_cn_ee47654f1f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.220.0.VMNCNXM/mondrian_images_OS2.0.220.0.VMNCNXM_20251105.0000.00_15.0_cn_ee47654f1f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.220.0.VMNCNXM/mondrian_images_OS2.0.220.0.VMNCNXM_20251105.0000.00_15.0_cn_ee47654f1f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.220.0.VMNCNXM/mondrian_images_OS2.0.220.0.VMNCNXM_20251105.0000.00_15.0_cn_ee47654f1f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.220.0.VMNCNXM/mondrian_images_OS2.0.220.0.VMNCNXM_20251105.0000.00_15.0_cn_ee47654f1f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#mondrian_2_changelog" data-toggle="collapse" role="button"

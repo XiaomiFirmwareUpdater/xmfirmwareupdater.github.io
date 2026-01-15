@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 15 Pro China HyperOS OS3.0.4.0.WPPCNXM Update
+title: Redmi Note 15 Pro 5G China HyperOS OS3.0.4.0.WPPCNXM Update
 layout: download
-name: Redmi Note 15 Pro China
+name: Redmi Note 15 Pro 5G China
 codename: lapis
 permalink: /hyperos/lapis/stable/OS3.0.4.0.WPPCNXM/
 ---
@@ -9,7 +9,7 @@ permalink: /hyperos/lapis/stable/OS3.0.4.0.WPPCNXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/lapis/">Redmi Note 15 Pro China</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/lapis/">Redmi Note 15 Pro 5G China</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS3.0.4.0.WPPCNXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /hyperos/lapis/stable/OS3.0.4.0.WPPCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.4.0.WPPCNXM Stable Official Update for Redmi Note 15 Pro China (lapis)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.4.0.WPPCNXM Stable Official Update for Redmi Note 15 Pro 5G China (lapis)</h3>
     <h5>This page shows the OS3.0.4.0.WPPCNXM update only. If you're looking for other updates check
         <a href="/hyperos/lapis/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -44,7 +44,7 @@ permalink: /hyperos/lapis/stable/OS3.0.4.0.WPPCNXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 15 Pro China</h5>
+                    <h5><b>Device: </b>Redmi Note 15 Pro 5G China</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/lapis/" target="_blank">lapis</a> </h5>
@@ -87,7 +87,7 @@ permalink: /hyperos/lapis/stable/OS3.0.4.0.WPPCNXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 15 Pro China</h5>
+                    <h5><b>Device: </b>Redmi Note 15 Pro 5G China</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/lapis/" target="_blank">lapis</a> </h5>

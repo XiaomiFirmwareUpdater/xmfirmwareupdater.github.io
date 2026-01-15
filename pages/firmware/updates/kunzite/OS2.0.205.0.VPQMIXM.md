@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 15 5G Global Firmware OS2.0.205.0.VPQMIXM Update
+title: Redmi Note 15 5G / POCO M8 5G Global Firmware OS2.0.205.0.VPQMIXM Update
 layout: download
-name: Redmi Note 15 5G Global
+name: Redmi Note 15 5G / POCO M8 5G Global
 codename: kunzite
 permalink: /firmware/kunzite/stable/OS2.0.205.0.VPQMIXM/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/kunzite/stable/OS2.0.205.0.VPQMIXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item"><a href="/firmware/kunzite/">Redmi Note 15 5G Global</a></li>
+        <li class="breadcrumb-item"><a href="/firmware/kunzite/">Redmi Note 15 5G / POCO M8 5G Global</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS2.0.205.0.VPQMIXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /firmware/kunzite/stable/OS2.0.205.0.VPQMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">Firmware OS2.0.205.0.VPQMIXM Stable Release for Redmi Note 15 5G Global (kunzite)</h3>
+    <h3 class="title bg-light p-2 rounded">Firmware OS2.0.205.0.VPQMIXM Stable Release for Redmi Note 15 5G / POCO M8 5G Global (kunzite)</h3>
     <h5>This page shows the OS2.0.205.0.VPQMIXM update only. If you're looking for other updates check
         <a href="/firmware/kunzite/">here.</a></h5>
     <div class="card">
@@ -42,7 +42,7 @@ permalink: /firmware/kunzite/stable/OS2.0.205.0.VPQMIXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 15 5G Global</h5>
+                    <h5><b>Device: </b>Redmi Note 15 5G / POCO M8 5G Global</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/firmware/kunzite/" target="_blank">kunzite</a> </h5>
