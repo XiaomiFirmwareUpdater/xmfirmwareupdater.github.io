@@ -5129,15 +5129,15 @@
     android: '14.0'
     miui: OS2.0.20.0.UMSCNXM
 - branch: stable
-  date: '2025-12-27'
+  date: '2026-01-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-27.12.2025/fw_redwood_redwood_eea_global-ota_full-OS2.0.13.0.UMSEUXM-user-14.0-abfefa9905.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/redwood/fw_redwood_redwood_eea_global-ota_full-OS2.0.13.0.UMSEUXM-user-14.0-abfefa9905.zip
-  filename: fw_redwood_redwood_eea_global-ota_full-OS2.0.13.0.UMSEUXM-user-14.0-abfefa9905.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-16.01.2026/fw_redwood_redwood_eea_global-ota_full-OS2.0.14.0.UMSEUXM-user-14.0-8167e3469d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/redwood/fw_redwood_redwood_eea_global-ota_full-OS2.0.14.0.UMSEUXM-user-14.0-8167e3469d.zip
+  filename: fw_redwood_redwood_eea_global-ota_full-OS2.0.14.0.UMSEUXM-user-14.0-8167e3469d.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS2.0.13.0.UMSEUXM
+    miui: OS2.0.14.0.UMSEUXM
 - branch: stable
   date: '2025-12-27'
   downloads:
@@ -6539,15 +6539,15 @@
     android: '16.0'
     miui: OS3.0.5.0.WAOMIXM
 - branch: stable
-  date: '2025-11-29'
+  date: '2026-01-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-29.11.2025/fw_turner_turner-ota_full-OS3.0.4.0.WAOCNXM-user-16.0-25ab0170bb.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/turner/fw_turner_turner-ota_full-OS3.0.4.0.WAOCNXM-user-16.0-25ab0170bb.zip
-  filename: fw_turner_turner-ota_full-OS3.0.4.0.WAOCNXM-user-16.0-25ab0170bb.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-16.01.2026/fw_turner_turner-ota_full-OS3.0.5.0.WAOCNXM-user-16.0-79d7f93c1e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/turner/fw_turner_turner-ota_full-OS3.0.5.0.WAOCNXM-user-16.0-79d7f93c1e.zip
+  filename: fw_turner_turner-ota_full-OS3.0.5.0.WAOCNXM-user-16.0-79d7f93c1e.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.4.0.WAOCNXM
+    miui: OS3.0.5.0.WAOCNXM
 - branch: stable
   date: '2019-11-05'
   downloads:
