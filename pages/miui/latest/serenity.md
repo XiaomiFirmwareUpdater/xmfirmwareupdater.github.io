@@ -52,8 +52,8 @@ permalink: /miui/serenity/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi A5 / POCO C71 EEA</td><td>Stable</td><td>Fastboot</td><td>A15.0.11.0.VGWEUXM</td><td>15.0</td><td>4.0 GB</td><td>2025-12-26</td><td><a href="/miui/serenity/stable/A15.0.11.0.VGWEUXM/">Download</a></td></tr>
-<tr><td>Redmi A5 / POCO C71 EEA</td><td>Stable</td><td>Recovery</td><td>A15.0.11.0.VGWEUXM</td><td>15.0</td><td>3.0 GB</td><td>2026-01-01</td><td><a href="/miui/serenity/stable/A15.0.11.0.VGWEUXM/">Download</a></td></tr>
+                <tr><td>Redmi A5 / POCO C71 EEA</td><td>Stable</td><td>Fastboot</td><td>A15.0.12.0.VGWEUXM</td><td>15.0</td><td>4.0 GB</td><td>2026-01-04</td><td><a href="/miui/serenity/stable/A15.0.12.0.VGWEUXM/">Download</a></td></tr>
+<tr><td>Redmi A5 / POCO C71 EEA</td><td>Stable</td><td>Recovery</td><td>A15.0.12.0.VGWEUXM</td><td>15.0</td><td>3.0 GB</td><td>2026-01-16</td><td><a href="/miui/serenity/stable/A15.0.12.0.VGWEUXM/">Download</a></td></tr>
 <tr><td>Redmi A5 / POCO C71 Global</td><td>Stable</td><td>Fastboot</td><td>A15.0.17.0.VGWMIXM</td><td>15.0</td><td>4.8 GB</td><td>2026-01-04</td><td><a href="/miui/serenity/stable/A15.0.17.0.VGWMIXM/">Download</a></td></tr>
 <tr><td>Redmi A5 / POCO C71 Global</td><td>Stable</td><td>Recovery</td><td>A15.0.17.0.VGWMIXM</td><td>15.0</td><td>3.0 GB</td><td>2026-01-12</td><td><a href="/miui/serenity/stable/A15.0.17.0.VGWMIXM/">Download</a></td></tr>
 <tr><td>Redmi A5 / POCO C71 Global</td><td>Stable Beta</td><td>Recovery</td><td>A15.0.1.0.VGWMIXM</td><td>15.0</td><td>2.9 GB</td><td>2025-04-02</td><td><a href="/miui/serenity/stable beta/A15.0.1.0.VGWMIXM/">Download</a></td></tr>
