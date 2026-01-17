@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 17 Jan 2026 12:57:46 </lastBuildDate>
+        <lastBuildDate>Sat, 17 Jan 2026 18:47:22 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS2.0.207.0.VPWMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flute/</link>
+            <pubDate>Sat, 17 Jan 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi Civi 4 Pro (chenfeng) - OS3.0.5.0.WNJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
@@ -1260,11 +1265,6 @@
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.30.0.TGOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/water/</link>
             <pubDate>Wed, 03 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS2.0.206.0.VPWMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flute/</link>
-            <pubDate>Tue, 02 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Pad 2 (taiko) - OS2.0.206.0.VOVMIXM</title>
