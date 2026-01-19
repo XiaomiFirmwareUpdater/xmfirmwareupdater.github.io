@@ -52,9 +52,11 @@ permalink: /archive/hyperos/cmi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.TJACNXM</td><td>13.0</td><td>4.4 GB</td><td>2024-06-12</td><td><a href="/hyperos/cmi/stable beta/OS1.0.5.0.TJACNXM/">Download</a></td></tr>
+                <tr><td>Mi 10 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.TJAMIXM</td><td>13.0</td><td>4.2 GB</td><td>2026-01-15</td><td><a href="/hyperos/cmi/stable beta/OS1.0.3.0.TJAMIXM/">Download</a></td></tr>
+<tr><td>Mi 10 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.TJACNXM</td><td>13.0</td><td>4.4 GB</td><td>2024-06-12</td><td><a href="/hyperos/cmi/stable beta/OS1.0.5.0.TJACNXM/">Download</a></td></tr>
 <tr><td>Mi 10 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.TJAEUXM</td><td>13.0</td><td>4.2 GB</td><td>2024-05-10</td><td><a href="/hyperos/cmi/stable beta/OS1.0.1.0.TJAEUXM/">Download</a></td></tr>
-<tr><td>Mi 10 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.TJAMIXM</td><td>13.0</td><td>4.2 GB</td><td>2024-04-26</td><td><a href="/hyperos/cmi/stable beta/OS1.0.2.0.TJAMIXM/">Download</a></td></tr>
+<tr><td>Mi 10 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.TJAMIXM</td><td>13.0</td><td>4.2 GB</td><td>2024-04-26</td><td><a href="/hyperos/cmi/stable/OS1.0.2.0.TJAMIXM/">Download</a></td></tr>
+<tr><td>Mi 10 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.2.0.TJAMIXM</td><td>13.0</td><td>5.4 GB</td><td>2024-03-25</td><td><a href="/hyperos/cmi/stable/OS1.0.2.0.TJAMIXM/">Download</a></td></tr>
 <tr><td>Mi 10 Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.TJACNXM</td><td>13.0</td><td>4.4 GB</td><td>2024-04-15</td><td><a href="/hyperos/cmi/stable/OS1.0.3.0.TJACNXM/">Download</a></td></tr>
 <tr><td>Mi 10 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.TJACNXM</td><td>13.0</td><td>5.6 GB</td><td>2024-03-25</td><td><a href="/hyperos/cmi/stable/OS1.0.3.0.TJACNXM/">Download</a></td></tr>
 
