@@ -79,6 +79,16 @@
     android: '15.0'
     miui: OS2.0.205.0.VOWINXM
 - branch: stable
+  date: '2026-01-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_koto/releases/download/stable-19.01.2026/fw_koto_koto_in_global-ota_full-OS2.0.208.0.VOWINXM-user-15.0-d541f58e11.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/koto/fw_koto_koto_in_global-ota_full-OS2.0.208.0.VOWINXM-user-15.0-d541f58e11.zip
+  filename: fw_koto_koto_in_global-ota_full-OS2.0.208.0.VOWINXM-user-15.0-d541f58e11.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.208.0.VOWINXM
+- branch: stable
   date: '2025-06-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_koto/releases/download/stable-18.06.2025/fw_koto_in_global_koto_in_global-ota_full-OS2.0.101.0.VOWINXM-user-15.0-2fedaf5cff.zip

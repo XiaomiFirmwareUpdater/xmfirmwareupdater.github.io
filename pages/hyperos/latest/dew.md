@@ -60,8 +60,8 @@ permalink: /hyperos/dew/
 <tr><td>Redmi 15C / POCO C85 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VBNIDXM</td><td>15.0</td><td>4.6 GB</td><td>2025-12-12</td><td><a href="/hyperos/dew/stable/OS2.0.207.0.VBNIDXM/">Download</a></td></tr>
 <tr><td>Redmi 15C / POCO C85 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VBNRUXM</td><td>15.0</td><td>7.5 GB</td><td>2025-11-20</td><td><a href="/hyperos/dew/stable/OS2.0.208.0.VBNRUXM/">Download</a></td></tr>
 <tr><td>Redmi 15C / POCO C85 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VBNRUXM</td><td>15.0</td><td>4.6 GB</td><td>2025-11-26</td><td><a href="/hyperos/dew/stable/OS2.0.208.0.VBNRUXM/">Download</a></td></tr>
-<tr><td>Redmi 15C / POCO C85 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VBNTRXM</td><td>15.0</td><td>6.8 GB</td><td>2025-10-30</td><td><a href="/hyperos/dew/stable/OS2.0.204.0.VBNTRXM/">Download</a></td></tr>
-<tr><td>Redmi 15C / POCO C85 Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VBNTRXM</td><td>15.0</td><td>4.7 GB</td><td>2025-11-07</td><td><a href="/hyperos/dew/stable/OS2.0.204.0.VBNTRXM/">Download</a></td></tr>
+<tr><td>Redmi 15C / POCO C85 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VBNTRXM</td><td>15.0</td><td>7.0 GB</td><td>2025-12-31</td><td><a href="/hyperos/dew/stable/OS2.0.205.0.VBNTRXM/">Download</a></td></tr>
+<tr><td>Redmi 15C / POCO C85 Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VBNTRXM</td><td>15.0</td><td>4.7 GB</td><td>2026-01-09</td><td><a href="/hyperos/dew/stable/OS2.0.205.0.VBNTRXM/">Download</a></td></tr>
 <tr><td>Redmi 15C / POCO C85 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VBNTWXM</td><td>15.0</td><td>5.6 GB</td><td>2025-10-30</td><td><a href="/hyperos/dew/stable/OS2.0.204.0.VBNTWXM/">Download</a></td></tr>
 <tr><td>Redmi 15C / POCO C85 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VBNTWXM</td><td>15.0</td><td>4.5 GB</td><td>2025-11-07</td><td><a href="/hyperos/dew/stable/OS2.0.204.0.VBNTWXM/">Download</a></td></tr>
 
