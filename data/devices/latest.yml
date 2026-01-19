@@ -2119,15 +2119,15 @@
     android: '11.0'
     miui: V13.0.12.0.RGFEUXM
 - branch: stable
-  date: '2025-12-31'
+  date: '2026-01-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-31.12.2025/fw_fuxi_fuxi_global-ota_full-OS2.0.205.0.VMCMIXM-user-15.0-c1f763a7c8.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/fuxi/fw_fuxi_fuxi_global-ota_full-OS2.0.205.0.VMCMIXM-user-15.0-c1f763a7c8.zip
-  filename: fw_fuxi_fuxi_global-ota_full-OS2.0.205.0.VMCMIXM-user-15.0-c1f763a7c8.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-19.01.2026/fw_fuxi_fuxi_global-ota_full-OS3.0.3.0.WMCMIXM-user-16.0-9b0e8f60de.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/fuxi/fw_fuxi_fuxi_global-ota_full-OS3.0.3.0.WMCMIXM-user-16.0-9b0e8f60de.zip
+  filename: fw_fuxi_fuxi_global-ota_full-OS3.0.3.0.WMCMIXM-user-16.0-9b0e8f60de.zip
   region: Global
   versions:
-    android: '15.0'
-    miui: OS2.0.205.0.VMCMIXM
+    android: '16.0'
+    miui: OS3.0.3.0.WMCMIXM
 - branch: stable
   date: '2025-12-26'
   downloads:
