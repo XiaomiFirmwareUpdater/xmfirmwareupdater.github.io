@@ -19698,6 +19698,12 @@
   version: OS1.0.3.0.TGKMIXM
 - android: '15.0'
   codename: spinel
+  date: '2026-01-20'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VPGEUXM/fw_spinel_spinel_eea_global-ota_full-OS2.0.209.0.VPGEUXM-user-15.0-ac298c6010.zip
+  name: Redmi Note 15 4G
+  version: OS2.0.209.0.VPGEUXM
+- android: '15.0'
+  codename: spinel
   date: '2026-01-15'
   download: https://bigota.d.miui.com/OS2.0.208.0.VPGEUXM/fw_spinel_spinel_eea_global-ota_full-OS2.0.208.0.VPGEUXM-user-15.0-d39e79bdf7.zip
   name: Redmi Note 15 4G

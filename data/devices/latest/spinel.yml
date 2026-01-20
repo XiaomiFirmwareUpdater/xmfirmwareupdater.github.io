@@ -9,12 +9,12 @@
     android: '15.0'
     miui: OS2.0.207.0.VPGMIXM
 - branch: stable
-  date: '2026-01-15'
+  date: '2026-01-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spinel/releases/download/stable-16.01.2026/fw_spinel_spinel_eea_global-ota_full-OS2.0.208.0.VPGEUXM-user-15.0-d39e79bdf7.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/spinel/fw_spinel_spinel_eea_global-ota_full-OS2.0.208.0.VPGEUXM-user-15.0-d39e79bdf7.zip
-  filename: fw_spinel_spinel_eea_global-ota_full-OS2.0.208.0.VPGEUXM-user-15.0-d39e79bdf7.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spinel/releases/download/stable-20.01.2026/fw_spinel_spinel_eea_global-ota_full-OS2.0.209.0.VPGEUXM-user-15.0-ac298c6010.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/spinel/fw_spinel_spinel_eea_global-ota_full-OS2.0.209.0.VPGEUXM-user-15.0-ac298c6010.zip
+  filename: fw_spinel_spinel_eea_global-ota_full-OS2.0.209.0.VPGEUXM-user-15.0-ac298c6010.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.208.0.VPGEUXM
+    miui: OS2.0.209.0.VPGEUXM
