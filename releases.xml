@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 20 Jan 2026 06:41:37 </lastBuildDate>
+        <lastBuildDate>Tue, 20 Jan 2026 13:14:46 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.210.0.VMREUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
+            <pubDate>Tue, 20 Jan 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 13 (fuxi) - OS3.0.3.0.WMCMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
@@ -1104,11 +1109,6 @@
         <item>
             <title>Xiaomi Civi 5 Pro (luming) - OS3.0.5.0.WOICNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/luming/</link>
-            <pubDate>Fri, 26 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.208.0.VMREUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
             <pubDate>Fri, 26 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
