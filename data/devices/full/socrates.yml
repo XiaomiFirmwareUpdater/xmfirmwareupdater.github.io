@@ -139,6 +139,16 @@
     android: '14.0'
     miui: OS1.0.12.0.UMKCNXM
 - branch: stable
+  date: '2026-01-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_socrates/releases/download/stable-21.01.2026/fw_socrates_socrates-ota_full-OS3.0.3.0.VMKCNXM-user-15.0-faefa29a61.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/socrates/fw_socrates_socrates-ota_full-OS3.0.3.0.VMKCNXM-user-15.0-faefa29a61.zip
+  filename: fw_socrates_socrates-ota_full-OS3.0.3.0.VMKCNXM-user-15.0-faefa29a61.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS3.0.3.0.VMKCNXM
+- branch: stable
   date: '2023-12-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_socrates/releases/download/stable-20.12.2023/fw_socrates_miui_SOCRATES_OS1.0.3.0.UMKCNXM_3d4bfd0c54_14.0.zip

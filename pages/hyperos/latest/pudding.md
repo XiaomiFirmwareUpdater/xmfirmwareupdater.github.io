@@ -52,8 +52,8 @@ permalink: /hyperos/pudding/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 17 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.36.0.WPCCNXM</td><td>16.0</td><td>11.0 GB</td><td>2025-12-15</td><td><a href="/hyperos/pudding/stable/OS3.0.36.0.WPCCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 17 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.36.0.WPCCNXM</td><td>16.0</td><td>7.6 GB</td><td>2025-12-18</td><td><a href="/hyperos/pudding/stable/OS3.0.36.0.WPCCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 17 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.40.0.WPCCNXM</td><td>16.0</td><td>11.1 GB</td><td>2026-01-07</td><td><a href="/hyperos/pudding/stable/OS3.0.40.0.WPCCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.40.0.WPCCNXM</td><td>16.0</td><td>7.8 GB</td><td>2026-01-08</td><td><a href="/hyperos/pudding/stable/OS3.0.40.0.WPCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WPCCNXM</td><td>16.0</td><td>7.5 GB</td><td>2025-09-26</td><td><a href="/hyperos/pudding/stable beta/OS3.0.3.0.WPCCNXM/">Download</a></td></tr>
 
                 </tbody>

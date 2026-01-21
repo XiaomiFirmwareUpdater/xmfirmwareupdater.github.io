@@ -29,6 +29,16 @@
     android: '16.0'
     miui: OS3.0.24.0.WPCCNXM
 - branch: stable
+  date: '2026-01-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pudding/releases/download/stable-21.01.2026/fw_pudding_pudding-ota_full-OS3.0.40.0.WPCCNXM-user-16.0-84d52fe6fd.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/pudding/fw_pudding_pudding-ota_full-OS3.0.40.0.WPCCNXM-user-16.0-84d52fe6fd.zip
+  filename: fw_pudding_pudding-ota_full-OS3.0.40.0.WPCCNXM-user-16.0-84d52fe6fd.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.40.0.WPCCNXM
+- branch: stable
   date: '2025-12-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pudding/releases/download/stable-16.12.2025/fw_pudding_pudding-ota_full-OS3.0.34.0.WPCCNXM-user-16.0-8d9edecda1.zip
