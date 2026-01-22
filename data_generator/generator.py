@@ -284,6 +284,7 @@ def load_releases():
                 "V14.": miui14,
                 "OS1.": hyperos,
                 "OS2.": hyperos,
+                "OS3.": hyperos,
             }.items():
                 if update["versions"]["miui"].startswith(version_name):
                     codename = update["filename"].split("_")[1]
