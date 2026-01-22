@@ -959,15 +959,15 @@
     android: '11.0'
     miui: 22.3.2
 - branch: stable
-  date: '2026-01-12'
+  date: '2026-01-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_charoite/releases/download/stable-12.01.2026/fw_charoite_charoite_global-ota_full-OS2.0.208.0.VPFMIXM-user-15.0-495043741f.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/charoite/fw_charoite_charoite_global-ota_full-OS2.0.208.0.VPFMIXM-user-15.0-495043741f.zip
-  filename: fw_charoite_charoite_global-ota_full-OS2.0.208.0.VPFMIXM-user-15.0-495043741f.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_charoite/releases/download/stable-22.01.2026/fw_charoite_charoite_global-ota_full-OS2.0.203.0.VPFMIDM-user-15.0-e40b88515a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/charoite/fw_charoite_charoite_global-ota_full-OS2.0.203.0.VPFMIDM-user-15.0-e40b88515a.zip
+  filename: fw_charoite_charoite_global-ota_full-OS2.0.203.0.VPFMIDM-user-15.0-e40b88515a.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.208.0.VPFMIXM
+    miui: OS2.0.203.0.VPFMIDM
 - branch: stable
   date: '2026-01-12'
   downloads:
@@ -7539,15 +7539,15 @@
     android: '15.0'
     miui: OS2.0.205.0.VLLEUXM
 - branch: stable
-  date: '2025-12-19'
+  date: '2026-01-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zizhan/releases/download/stable-19.12.2025/fw_zizhan_zizhan-ota_full-OS2.0.208.0.VLRCNXM-user-15.0-8f6aeb9710.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zizhan/fw_zizhan_zizhan-ota_full-OS2.0.208.0.VLRCNXM-user-15.0-8f6aeb9710.zip
-  filename: fw_zizhan_zizhan-ota_full-OS2.0.208.0.VLRCNXM-user-15.0-8f6aeb9710.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zizhan/releases/download/stable-22.01.2026/fw_zizhan_zizhan-ota_full-OS3.0.3.0.VLRCNXM-user-15.0-66eddf3a3d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/zizhan/fw_zizhan_zizhan-ota_full-OS3.0.3.0.VLRCNXM-user-15.0-66eddf3a3d.zip
+  filename: fw_zizhan_zizhan-ota_full-OS3.0.3.0.VLRCNXM-user-15.0-66eddf3a3d.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.208.0.VLRCNXM
+    miui: OS3.0.3.0.VLRCNXM
 - branch: stable
   date: '2026-01-06'
   downloads:

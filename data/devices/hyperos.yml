@@ -2088,6 +2088,12 @@
   version: OS1.0.7.0.UNUCNXM
 - android: '15.0'
   codename: charoite
+  date: '2026-01-22'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VPFMIDM/fw_charoite_charoite_global-ota_full-OS2.0.203.0.VPFMIDM-user-15.0-e40b88515a.zip
+  name: Redmi Note 15 Pro 4G
+  version: OS2.0.203.0.VPFMIDM
+- android: '15.0'
+  codename: charoite
   date: '2026-01-12'
   download: https://bigota.d.miui.com/OS2.0.206.0.VPFEUXM/fw_charoite_charoite_eea_global-ota_full-OS2.0.206.0.VPFEUXM-user-15.0-1b28215a96.zip
   name: Redmi Note 15 Pro 4G

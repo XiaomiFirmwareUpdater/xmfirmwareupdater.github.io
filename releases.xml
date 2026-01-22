@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 22 Jan 2026 12:42:24 </lastBuildDate>
+        <lastBuildDate>Thu, 22 Jan 2026 18:55:36 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 15 Pro 4G (charoite) - OS2.0.203.0.VPFMIDM</title>
+            <link>https://xmfirmwareupdater.com/firmware/charoite/</link>
+            <pubDate>Thu, 22 Jan 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.6.0.WNKMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
@@ -14,6 +19,11 @@
         <item>
             <title>Xiaomi 12 Pro (zeus) - OS3.0.2.0.VLBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
+            <pubDate>Thu, 22 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi MIX Fold 2 (zizhan) - OS3.0.3.0.VLRCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zizhan/</link>
             <pubDate>Thu, 22 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -204,11 +214,6 @@
         <item>
             <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS3.0.1.0.WNUCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
-            <pubDate>Mon, 12 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 Pro 4G (charoite) - OS2.0.208.0.VPFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/charoite/</link>
             <pubDate>Mon, 12 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1169,11 +1174,6 @@
         <item>
             <title>Xiaomi Pad 7 Pro (muyu) - OS3.0.4.0.WOYEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
-            <pubDate>Fri, 19 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi MIX Fold 2 (zizhan) - OS2.0.208.0.VLRCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zizhan/</link>
             <pubDate>Fri, 19 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>

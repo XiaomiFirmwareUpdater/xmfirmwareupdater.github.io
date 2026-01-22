@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2026-01-12'
+  date: '2026-01-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_charoite/releases/download/stable-12.01.2026/fw_charoite_charoite_global-ota_full-OS2.0.208.0.VPFMIXM-user-15.0-495043741f.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/charoite/fw_charoite_charoite_global-ota_full-OS2.0.208.0.VPFMIXM-user-15.0-495043741f.zip
-  filename: fw_charoite_charoite_global-ota_full-OS2.0.208.0.VPFMIXM-user-15.0-495043741f.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_charoite/releases/download/stable-22.01.2026/fw_charoite_charoite_global-ota_full-OS2.0.203.0.VPFMIDM-user-15.0-e40b88515a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/charoite/fw_charoite_charoite_global-ota_full-OS2.0.203.0.VPFMIDM-user-15.0-e40b88515a.zip
+  filename: fw_charoite_charoite_global-ota_full-OS2.0.203.0.VPFMIDM-user-15.0-e40b88515a.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.208.0.VPFMIXM
+    miui: OS2.0.203.0.VPFMIDM
 - branch: stable
   date: '2026-01-12'
   downloads:
