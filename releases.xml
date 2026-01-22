@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 22 Jan 2026 00:41:28 </lastBuildDate>
+        <lastBuildDate>Thu, 22 Jan 2026 07:26:17 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.6.0.WNKMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
+            <pubDate>Thu, 22 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - OS3.0.2.0.VLBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
+            <pubDate>Thu, 22 Jan 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.2.0.WOPEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
@@ -697,11 +707,6 @@
             <pubDate>Thu, 01 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.5.0.WNKMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
-            <pubDate>Thu, 01 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13T (aristotle) - OS2.0.213.0.VMFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
             <pubDate>Wed, 31 Dec 2025 00:00:00 </pubDate>
@@ -1260,11 +1265,6 @@
             <title>Xiaomi Civi 3 (yuechu) - OS2.0.213.0.VMICNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/yuechu/</link>
             <pubDate>Fri, 12 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Pro (zeus) - OS2.0.213.0.VLBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Mon, 08 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.205.0.VGQCNXM</title>
