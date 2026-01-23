@@ -3048,6 +3048,12 @@
   version: OS2.0.204.0.VLCCNXM
 - android: '15.0'
   codename: cupid
+  date: '2026-01-23'
+  download: https://bigota.d.miui.com/OS3.0.2.0.VLCCNXM/fw_cupid_cupid-ota_full-OS3.0.2.0.VLCCNXM-user-15.0-6aae9d0532.zip
+  name: Xiaomi 12
+  version: OS3.0.2.0.VLCCNXM
+- android: '15.0'
+  codename: cupid
   date: '2025-10-22'
   download: https://bigota.d.miui.com/OS2.0.204.0.VLCMIXM/fw_cupid_cupid_global-ota_full-OS2.0.204.0.VLCMIXM-user-15.0-4ec28846cf.zip
   name: Xiaomi 12

@@ -1279,15 +1279,15 @@
     android: '15.0'
     miui: OS2.0.208.0.VLCMIXM
 - branch: stable
-  date: '2025-12-26'
+  date: '2026-01-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-26.12.2025/fw_cupid_cupid-ota_full-OS2.0.213.0.VLCCNXM-user-15.0-4def86ecec.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/cupid/fw_cupid_cupid-ota_full-OS2.0.213.0.VLCCNXM-user-15.0-4def86ecec.zip
-  filename: fw_cupid_cupid-ota_full-OS2.0.213.0.VLCCNXM-user-15.0-4def86ecec.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-23.01.2026/fw_cupid_cupid-ota_full-OS3.0.2.0.VLCCNXM-user-15.0-6aae9d0532.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/cupid/fw_cupid_cupid-ota_full-OS3.0.2.0.VLCCNXM-user-15.0-6aae9d0532.zip
+  filename: fw_cupid_cupid-ota_full-OS3.0.2.0.VLCCNXM-user-15.0-6aae9d0532.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.213.0.VLCCNXM
+    miui: OS3.0.2.0.VLCCNXM
 - branch: stable
   date: '2026-01-07'
   downloads:
