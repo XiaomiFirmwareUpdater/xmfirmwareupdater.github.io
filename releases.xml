@@ -4,11 +4,36 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 23 Jan 2026 06:51:17 </lastBuildDate>
+        <lastBuildDate>Fri, 23 Jan 2026 13:49:16 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 15/POCO M7 (creek) - OS2.0.212.0.VBOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/creek/</link>
+            <pubDate>Fri, 23 Jan 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 12 (cupid) - OS3.0.2.0.VLCCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/cupid/</link>
+            <pubDate>Fri, 23 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15T (goya) - OS3.0.8.0.WOEMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/goya/</link>
+            <pubDate>Fri, 23 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15T (goya) - OS3.0.9.0.WOEEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/goya/</link>
+            <pubDate>Fri, 23 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 14C/POCO C75/Redmi A3 Pro (lake) - OS2.0.205.0.VGTMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lake/</link>
+            <pubDate>Fri, 23 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12S (mayfly) - OS3.0.2.0.VLTCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/mayfly/</link>
             <pubDate>Fri, 23 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -280,11 +305,6 @@
             <title>Redmi K80/POCO F7 Pro (zorn) - OS3.0.3.0.WOKEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zorn/</link>
             <pubDate>Sun, 11 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15T (goya) - OS3.0.8.0.WOEEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/goya/</link>
-            <pubDate>Sat, 10 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 15T Pro (klimt) - OS3.0.10.0.WOSEUXM</title>
@@ -562,11 +582,6 @@
             <pubDate>Tue, 06 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 15T (goya) - OS3.0.7.0.WOEMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/goya/</link>
-            <pubDate>Tue, 06 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 15 5G/POCO M8 5G (kunzite) - OS2.0.202.0.VPQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
             <pubDate>Tue, 06 Jan 2026 00:00:00 </pubDate>
@@ -687,11 +702,6 @@
             <pubDate>Fri, 02 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 15/POCO M7 (creek) - OS3.0.9.0.WBOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/creek/</link>
-            <pubDate>Thu, 01 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS2.0.212.0.VNFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
             <pubDate>Thu, 01 Jan 2026 00:00:00 </pubDate>
@@ -769,11 +779,6 @@
         <item>
             <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.7.0.WOOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
-            <pubDate>Wed, 31 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12S (mayfly) - OS2.0.209.0.VLTCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/mayfly/</link>
             <pubDate>Wed, 31 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1415,11 +1420,6 @@
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS2.0.5.0.UMQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Fri, 07 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 14C/POCO C75/Redmi A3 Pro (lake) - OS2.0.203.0.VGTMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lake/</link>
-            <pubDate>Thu, 06 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>MIX Flip 2 (bixi) - OS3.0.3.0.WOHCNXM</title>

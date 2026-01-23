@@ -53,8 +53,8 @@ permalink: /hyperos/mayfly/
                 </thead>
                 <tbody>
                 <tr><td>Xiaomi 12S China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.209.0.VLTCNXM</td><td>15.0</td><td>7.4 GB</td><td>2025-12-25</td><td><a href="/hyperos/mayfly/stable/OS2.0.209.0.VLTCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12S China</td><td>Stable</td><td>Recovery</td><td>OS2.0.209.0.VLTCNXM</td><td>15.0</td><td>6.1 GB</td><td>2025-12-27</td><td><a href="/hyperos/mayfly/stable/OS2.0.209.0.VLTCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.8 GB</td><td>2024-01-12</td><td><a href="/hyperos/mayfly/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 12S China</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.VLTCNXM</td><td>15.0</td><td>6.3 GB</td><td>2026-01-14</td><td><a href="/hyperos/mayfly/stable/OS3.0.2.0.VLTCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
