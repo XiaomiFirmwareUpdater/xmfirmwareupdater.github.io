@@ -52,7 +52,9 @@ permalink: /archive/hyperos/yuechu/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.213.0.VMICNXM</td><td>15.0</td><td>6.7 GB</td><td>2025-12-06</td><td><a href="/hyperos/yuechu/stable/OS2.0.213.0.VMICNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.VMICNXM</td><td>15.0</td><td>6.9 GB</td><td>2026-01-14</td><td><a href="/hyperos/yuechu/stable/OS3.0.1.0.VMICNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.VMICNXM</td><td>15.0</td><td>8.9 GB</td><td>2025-12-31</td><td><a href="/hyperos/yuechu/stable/OS3.0.1.0.VMICNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.213.0.VMICNXM</td><td>15.0</td><td>6.7 GB</td><td>2025-12-06</td><td><a href="/hyperos/yuechu/stable/OS2.0.213.0.VMICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.213.0.VMICNXM</td><td>15.0</td><td>8.7 GB</td><td>2025-12-02</td><td><a href="/hyperos/yuechu/stable/OS2.0.213.0.VMICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.211.0.VMICNXM</td><td>15.0</td><td>6.7 GB</td><td>2025-11-21</td><td><a href="/hyperos/yuechu/stable/OS2.0.211.0.VMICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.211.0.VMICNXM</td><td>15.0</td><td>8.7 GB</td><td>2025-11-14</td><td><a href="/hyperos/yuechu/stable/OS2.0.211.0.VMICNXM/">Download</a></td></tr>
@@ -72,12 +74,12 @@ permalink: /archive/hyperos/yuechu/
 <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.4.0.VMICNXM</td><td>15.0</td><td>9.0 GB</td><td>2025-03-31</td><td><a href="/hyperos/yuechu/stable/OS2.0.4.0.VMICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.3.0.VMICNXM</td><td>15.0</td><td>6.7 GB</td><td>2025-03-20</td><td><a href="/hyperos/yuechu/stable/OS2.0.3.0.VMICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.3.0.VMICNXM</td><td>15.0</td><td>9.0 GB</td><td>2025-03-13</td><td><a href="/hyperos/yuechu/stable/OS2.0.3.0.VMICNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VMICNXM</td><td>15.0</td><td>6.7 GB</td><td>2025-03-04</td><td><a href="/hyperos/yuechu/stable/OS2.0.2.0.VMICNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VMICNXM</td><td>15.0</td><td>8.9 GB</td><td>2025-02-26</td><td><a href="/hyperos/yuechu/stable/OS2.0.2.0.VMICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.17.0.UMICNXM</td><td>14.0</td><td>6.3 GB</td><td>2025-02-05</td><td><a href="/hyperos/yuechu/stable/OS1.0.17.0.UMICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.17.0.UMICNXM</td><td>14.0</td><td>8.7 GB</td><td>2025-01-13</td><td><a href="/hyperos/yuechu/stable/OS1.0.17.0.UMICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.16.0.UMICNXM</td><td>14.0</td><td>6.3 GB</td><td>2025-01-14</td><td><a href="/hyperos/yuechu/stable/OS1.0.16.0.UMICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.16.0.UMICNXM</td><td>14.0</td><td>8.6 GB</td><td>2025-01-09</td><td><a href="/hyperos/yuechu/stable/OS1.0.16.0.UMICNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VMICNXM</td><td>15.0</td><td>6.7 GB</td><td>2025-03-04</td><td><a href="/hyperos/yuechu/stable/OS2.0.2.0.VMICNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VMICNXM</td><td>15.0</td><td>8.9 GB</td><td>2025-02-26</td><td><a href="/hyperos/yuechu/stable/OS2.0.2.0.VMICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.14.0.UMICNXM</td><td>14.0</td><td>6.3 GB</td><td>2024-12-04</td><td><a href="/hyperos/yuechu/stable/OS1.0.14.0.UMICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.14.0.UMICNXM</td><td>14.0</td><td>8.4 GB</td><td>2024-11-25</td><td><a href="/hyperos/yuechu/stable/OS1.0.14.0.UMICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.12.0.UMICNXM</td><td>14.0</td><td>6.3 GB</td><td>2024-10-30</td><td><a href="/hyperos/yuechu/stable/OS1.0.12.0.UMICNXM/">Download</a></td></tr>
@@ -90,9 +92,9 @@ permalink: /archive/hyperos/yuechu/
 <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.7.0.UMICNXM</td><td>14.0</td><td>8.2 GB</td><td>2024-07-18</td><td><a href="/hyperos/yuechu/stable/OS1.0.7.0.UMICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.6.0.UMICNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-04-02</td><td><a href="/hyperos/yuechu/stable/OS1.0.6.0.UMICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.6.0.UMICNXM</td><td>14.0</td><td>8.3 GB</td><td>2024-03-21</td><td><a href="/hyperos/yuechu/stable/OS1.0.6.0.UMICNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UMICNXM</td><td>14.0</td><td>6.4 GB</td><td>2023-12-13</td><td><a href="/hyperos/yuechu/stable/OS1.0.3.0.UMICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.4.0.UMICNXM</td><td>14.0</td><td>8.1 GB</td><td>2024-01-12</td><td><a href="/hyperos/yuechu/stable/OS1.0.4.0.UMICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.4.0.UMICNXM</td><td>14.0</td><td>6.3 GB</td><td>2024-01-02</td><td><a href="/hyperos/yuechu/stable/OS1.0.4.0.UMICNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.UMICNXM</td><td>14.0</td><td>6.4 GB</td><td>2023-12-13</td><td><a href="/hyperos/yuechu/stable/OS1.0.3.0.UMICNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

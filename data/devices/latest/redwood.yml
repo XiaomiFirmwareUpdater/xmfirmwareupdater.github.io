@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-12-30'
+  date: '2026-01-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-30.12.2025/fw_redwood_redwood_global-ota_full-OS2.0.16.0.UMSMIXM-user-14.0-3e3e8b5698.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/redwood/fw_redwood_redwood_global-ota_full-OS2.0.16.0.UMSMIXM-user-14.0-3e3e8b5698.zip
-  filename: fw_redwood_redwood_global-ota_full-OS2.0.16.0.UMSMIXM-user-14.0-3e3e8b5698.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-26.01.2026/fw_redwood_redwood_global-ota_full-OS2.0.17.0.UMSMIXM-user-14.0-4ddcd3c40c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/redwood/fw_redwood_redwood_global-ota_full-OS2.0.17.0.UMSMIXM-user-14.0-4ddcd3c40c.zip
+  filename: fw_redwood_redwood_global-ota_full-OS2.0.17.0.UMSMIXM-user-14.0-4ddcd3c40c.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS2.0.16.0.UMSMIXM
+    miui: OS2.0.17.0.UMSMIXM
 - branch: stable
   date: '2025-11-28'
   downloads:
@@ -29,12 +29,12 @@
     android: '14.0'
     miui: OS2.0.14.0.UMSEUXM
 - branch: stable
-  date: '2025-12-27'
+  date: '2026-01-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-27.12.2025/fw_redwood_redwood_in_global-ota_full-OS2.0.14.0.UMSINXM-user-14.0-47002cac29.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/redwood/fw_redwood_redwood_in_global-ota_full-OS2.0.14.0.UMSINXM-user-14.0-47002cac29.zip
-  filename: fw_redwood_redwood_in_global-ota_full-OS2.0.14.0.UMSINXM-user-14.0-47002cac29.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-26.01.2026/fw_redwood_redwood_in_global-ota_full-OS2.0.15.0.UMSINXM-user-14.0-7bb63aee75.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/redwood/fw_redwood_redwood_in_global-ota_full-OS2.0.15.0.UMSINXM-user-14.0-7bb63aee75.zip
+  filename: fw_redwood_redwood_in_global-ota_full-OS2.0.15.0.UMSINXM-user-14.0-7bb63aee75.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS2.0.14.0.UMSINXM
+    miui: OS2.0.15.0.UMSINXM

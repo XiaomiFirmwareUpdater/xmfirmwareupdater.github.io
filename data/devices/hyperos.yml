@@ -3024,6 +3024,12 @@
   version: OS2.0.213.0.VLCCNXM
 - android: '15.0'
   codename: cupid
+  date: '2026-01-26'
+  download: https://bigota.d.miui.com/OS2.0.211.0.VLCEUXM/fw_cupid_cupid_eea_global-ota_full-OS2.0.211.0.VLCEUXM-user-15.0-0092336ba6.zip
+  name: Xiaomi 12
+  version: OS2.0.211.0.VLCEUXM
+- android: '15.0'
+  codename: cupid
   date: '2025-09-25'
   download: https://bigota.d.miui.com/OS2.0.206.0.VLCEUXM/fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.206.0.VLCEUXM-user-15.0-1799313fd1.zip
   name: Xiaomi 12
@@ -3880,6 +3886,12 @@
   download: https://bigota.d.miui.com/OS2.0.103.0.VNEMIXM/fw_degas_global_degas_global-ota_full-OS2.0.103.0.VNEMIXM-user-15.0-92e9227eab.zip
   name: Xiaomi 14T
   version: OS2.0.103.0.VNEMIXM
+- android: '16.0'
+  codename: degas
+  date: '2026-01-26'
+  download: https://bigota.d.miui.com/OS3.0.6.0.WNEEUXM/fw_degas_degas_eea_global-ota_full-OS3.0.6.0.WNEEUXM-user-16.0-2ef9797d72.zip
+  name: Xiaomi 14T
+  version: OS3.0.6.0.WNEEUXM
 - android: '15.0'
   codename: degas
   date: '2025-02-25'
@@ -9700,6 +9712,12 @@
   download: https://bigota.d.miui.com/OS2.0.104.0.VMAMIXM/fw_ishtar_global_ishtar_global-ota_full-OS2.0.104.0.VMAMIXM-user-15.0-950e807716.zip
   name: Xiaomi 13 Ultra
   version: OS2.0.104.0.VMAMIXM
+- android: '16.0'
+  codename: ishtar
+  date: '2026-01-26'
+  download: https://bigota.d.miui.com/OS3.0.2.0.WMAMIXM/fw_ishtar_ishtar_global-ota_full-OS3.0.2.0.WMAMIXM-user-16.0-90c6168969.zip
+  name: Xiaomi 13 Ultra
+  version: OS3.0.2.0.WMAMIXM
 - android: '14.0'
   codename: ishtar
   date: '2024-10-25'
@@ -10036,6 +10054,18 @@
   download: https://bigota.d.miui.com/OS3.0.7.0.WOSMIXM/fw_klimt_klimt_global-ota_full-OS3.0.7.0.WOSMIXM-user-16.0-82c1af73e9.zip
   name: Xiaomi 15T Pro
   version: OS3.0.7.0.WOSMIXM
+- android: '16.0'
+  codename: klimt
+  date: '2026-01-26'
+  download: https://bigota.d.miui.com/OS3.0.12.0.WOSEUXM/fw_klimt_klimt_eea_global-ota_full-OS3.0.12.0.WOSEUXM-user-16.0-bc80b4a6b3.zip
+  name: Xiaomi 15T Pro
+  version: OS3.0.12.0.WOSEUXM
+- android: '16.0'
+  codename: klimt
+  date: '2026-01-26'
+  download: https://bigota.d.miui.com/OS3.0.10.0.WOSMIXM/fw_klimt_klimt_global-ota_full-OS3.0.10.0.WOSMIXM-user-16.0-dfac67d79c.zip
+  name: Xiaomi 15T Pro
+  version: OS3.0.10.0.WOSMIXM
 - android: '15.0'
   codename: klimt
   date: '2025-09-24'
@@ -10306,6 +10336,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UGTMIXM/fw_lake_miui_LAKEGlobal_OS1.0.9.0.UGTMIXM_32bfceef6d_14.0.zip
   name: Redmi 14C/POCO C75/Redmi A3 Pro
   version: OS1.0.9.0.UGTMIXM
+- android: '15.0'
+  codename: lake
+  date: '2026-01-26'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VGTEUXM/fw_lake_lake_eea_global-ota_full-OS2.0.208.0.VGTEUXM-user-15.0-f2c8a9fd67.zip
+  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  version: OS2.0.208.0.VGTEUXM
 - android: '14.0'
   codename: lake
   date: '2024-09-25'
@@ -16738,6 +16774,18 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMSMIXM/fw_redwood_miui_REDWOODGlobal_OS1.0.4.0.UMSMIXM_53cb65de24_14.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: OS1.0.4.0.UMSMIXM
+- android: '14.0'
+  codename: redwood
+  date: '2026-01-26'
+  download: https://bigota.d.miui.com/OS2.0.17.0.UMSMIXM/fw_redwood_redwood_global-ota_full-OS2.0.17.0.UMSMIXM-user-14.0-4ddcd3c40c.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS2.0.17.0.UMSMIXM
+- android: '14.0'
+  codename: redwood
+  date: '2026-01-26'
+  download: https://bigota.d.miui.com/OS2.0.15.0.UMSINXM/fw_redwood_redwood_in_global-ota_full-OS2.0.15.0.UMSINXM-user-14.0-7bb63aee75.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: OS2.0.15.0.UMSINXM
 - android: '14.0'
   codename: redwood
   date: '2025-10-24'
@@ -25036,6 +25084,12 @@
   download: https://bigota.d.miui.com/OS2.0.204.0.VMICNXM/fw_yuechu_yuechu-ota_full-OS2.0.204.0.VMICNXM-user-15.0-99c5088966.zip
   name: Xiaomi Civi 3
   version: OS2.0.204.0.VMICNXM
+- android: '15.0'
+  codename: yuechu
+  date: '2026-01-26'
+  download: https://bigota.d.miui.com/OS3.0.1.0.VMICNXM/fw_yuechu_yuechu-ota_full-OS3.0.1.0.VMICNXM-user-15.0-1a77fe4387.zip
+  name: Xiaomi Civi 3
+  version: OS3.0.1.0.VMICNXM
 - android: '14.0'
   codename: yuechu
   date: '2024-09-24'
@@ -26380,6 +26434,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.ULLCNXM/fw_ziyi_miui_ZIYI_OS1.0.1.0.ULLCNXM_89dd31358d_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.1.0.ULLCNXM
+- android: '15.0'
+  codename: ziyi
+  date: '2026-01-26'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VLLMIXM/fw_ziyi_ziyi_global-ota_full-OS2.0.206.0.VLLMIXM-user-15.0-d41399d397.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS2.0.206.0.VLLMIXM
 - android: '14.0'
   codename: ziyi
   date: '2024-11-25'
