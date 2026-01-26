@@ -54,12 +54,12 @@ permalink: /hyperos/myron/
                 <tbody>
                 <tr><td>Redmi K90 Pro Max China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.20.0.WPMCNXM</td><td>16.0</td><td>12.0 GB</td><td>2025-12-16</td><td><a href="/hyperos/myron/stable/OS3.0.20.0.WPMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K90 Pro Max China</td><td>Stable</td><td>Recovery</td><td>OS3.0.20.0.WPMCNXM</td><td>16.0</td><td>9.4 GB</td><td>2025-12-19</td><td><a href="/hyperos/myron/stable/OS3.0.20.0.WPMCNXM/">Download</a></td></tr>
-<tr><td>Redmi K90 Pro Max / POCO F8 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WPMEUXM</td><td>16.0</td><td>9.8 GB</td><td>2025-11-23</td><td><a href="/hyperos/myron/stable/OS3.0.4.0.WPMEUXM/">Download</a></td></tr>
-<tr><td>Redmi K90 Pro Max / POCO F8 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WPMEUXM</td><td>16.0</td><td>8.1 GB</td><td>2025-11-26</td><td><a href="/hyperos/myron/stable/OS3.0.4.0.WPMEUXM/">Download</a></td></tr>
+<tr><td>Redmi K90 Pro Max / POCO F8 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.7.0.WPMEUXM</td><td>16.0</td><td>9.7 GB</td><td>2026-01-12</td><td><a href="/hyperos/myron/stable/OS3.0.7.0.WPMEUXM/">Download</a></td></tr>
+<tr><td>Redmi K90 Pro Max / POCO F8 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.7.0.WPMEUXM</td><td>16.0</td><td>8.1 GB</td><td>2026-01-16</td><td><a href="/hyperos/myron/stable/OS3.0.7.0.WPMEUXM/">Download</a></td></tr>
 <tr><td>Redmi K90 Pro Max / POCO F8 Ultra Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.11.0.WPMMIXM</td><td>16.0</td><td>10.6 GB</td><td>2025-12-19</td><td><a href="/hyperos/myron/stable/OS3.0.11.0.WPMMIXM/">Download</a></td></tr>
 <tr><td>Redmi K90 Pro Max / POCO F8 Ultra Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.11.0.WPMMIXM</td><td>16.0</td><td>8.2 GB</td><td>2025-12-30</td><td><a href="/hyperos/myron/stable/OS3.0.11.0.WPMMIXM/">Download</a></td></tr>
-<tr><td>Redmi K90 Pro Max / POCO F8 Ultra Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WPMTWXM</td><td>16.0</td><td>9.0 GB</td><td>2025-12-05</td><td><a href="/hyperos/myron/stable/OS3.0.2.0.WPMTWXM/">Download</a></td></tr>
-<tr><td>Redmi K90 Pro Max / POCO F8 Ultra Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WPMTWXM</td><td>16.0</td><td>7.8 GB</td><td>2025-12-11</td><td><a href="/hyperos/myron/stable/OS3.0.2.0.WPMTWXM/">Download</a></td></tr>
+<tr><td>Redmi K90 Pro Max / POCO F8 Ultra Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WPMTWXM</td><td>16.0</td><td>9.0 GB</td><td>2026-01-12</td><td><a href="/hyperos/myron/stable/OS3.0.5.0.WPMTWXM/">Download</a></td></tr>
+<tr><td>Redmi K90 Pro Max / POCO F8 Ultra Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WPMTWXM</td><td>16.0</td><td>7.9 GB</td><td>2026-01-16</td><td><a href="/hyperos/myron/stable/OS3.0.5.0.WPMTWXM/">Download</a></td></tr>
 <tr><td>Redmi K90 Pro Max China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.4.0.WPMCNXM</td><td>16.0</td><td>9.4 GB</td><td>2025-10-23</td><td><a href="/hyperos/myron/stable beta/OS3.0.4.0.WPMCNXM/">Download</a></td></tr>
 
                 </tbody>

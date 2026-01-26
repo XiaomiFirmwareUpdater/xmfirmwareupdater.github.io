@@ -579,15 +579,15 @@
     android: '13.0'
     miui: V14.0.3.0.TCUEUXM
 - branch: stable
-  date: '2025-11-04'
+  date: '2026-01-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bixi/releases/download/stable-04.11.2025/fw_bixi_bixi-ota_full-OS3.0.3.0.WOHCNXM-user-16.0-feaa771064.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/bixi/fw_bixi_bixi-ota_full-OS3.0.3.0.WOHCNXM-user-16.0-feaa771064.zip
-  filename: fw_bixi_bixi-ota_full-OS3.0.3.0.WOHCNXM-user-16.0-feaa771064.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bixi/releases/download/stable-26.01.2026/fw_bixi_bixi-ota_full-OS3.0.4.0.WOHCNXM-user-16.0-c22cfd41db.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/bixi/fw_bixi_bixi-ota_full-OS3.0.4.0.WOHCNXM-user-16.0-c22cfd41db.zip
+  filename: fw_bixi_bixi-ota_full-OS3.0.4.0.WOHCNXM-user-16.0-c22cfd41db.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.3.0.WOHCNXM
+    miui: OS3.0.4.0.WOHCNXM
 - branch: stable
   date: '2023-02-21'
   downloads:
@@ -4049,15 +4049,15 @@
     android: '16.0'
     miui: OS3.0.20.0.WPMCNXM
 - branch: stable
-  date: '2025-11-27'
+  date: '2026-01-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_myron/releases/download/stable-28.11.2025/fw_myron_myron_eea_global-ota_full-OS3.0.4.0.WPMEUXM-user-16.0-0d22480797.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/myron/fw_myron_myron_eea_global-ota_full-OS3.0.4.0.WPMEUXM-user-16.0-0d22480797.zip
-  filename: fw_myron_myron_eea_global-ota_full-OS3.0.4.0.WPMEUXM-user-16.0-0d22480797.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_myron/releases/download/stable-26.01.2026/fw_myron_myron_eea_global-ota_full-OS3.0.7.0.WPMEUXM-user-16.0-c18845911d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/myron/fw_myron_myron_eea_global-ota_full-OS3.0.7.0.WPMEUXM-user-16.0-c18845911d.zip
+  filename: fw_myron_myron_eea_global-ota_full-OS3.0.7.0.WPMEUXM-user-16.0-c18845911d.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.4.0.WPMEUXM
+    miui: OS3.0.7.0.WPMEUXM
 - branch: stable
   date: '2024-10-08'
   downloads:
@@ -6259,15 +6259,15 @@
     android: '16.0'
     miui: OS3.0.3.0.WOVCNXM
 - branch: stable
-  date: '2025-10-27'
+  date: '2026-01-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taiko/releases/download/stable-27.10.2025/fw_taiko_taiko_eea_global-ota_full-OS2.0.204.0.VOVEUXM-user-15.0-3d8b6be546.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/taiko/fw_taiko_taiko_eea_global-ota_full-OS2.0.204.0.VOVEUXM-user-15.0-3d8b6be546.zip
-  filename: fw_taiko_taiko_eea_global-ota_full-OS2.0.204.0.VOVEUXM-user-15.0-3d8b6be546.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taiko/releases/download/stable-26.01.2026/fw_taiko_taiko_eea_global-ota_full-OS3.0.3.0.WOVEUXM-user-16.0-2df14442ba.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/taiko/fw_taiko_taiko_eea_global-ota_full-OS3.0.3.0.WOVEUXM-user-16.0-2df14442ba.zip
+  filename: fw_taiko_taiko_eea_global-ota_full-OS3.0.3.0.WOVEUXM-user-16.0-2df14442ba.zip
   region: Europe
   versions:
-    android: '15.0'
-    miui: OS2.0.204.0.VOVEUXM
+    android: '16.0'
+    miui: OS3.0.3.0.WOVEUXM
 - branch: stable
   date: '2025-12-27'
   downloads:

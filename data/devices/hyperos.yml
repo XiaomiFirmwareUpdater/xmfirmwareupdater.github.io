@@ -2038,6 +2038,12 @@
   download: https://bigota.d.miui.com/OS2.0.108.0.VOHCNXM/fw_bixi_bixi-ota_full-OS2.0.108.0.VOHCNXM-user-15.0-95497b9791.zip
   name: MIX Flip 2
   version: OS2.0.108.0.VOHCNXM
+- android: '16.0'
+  codename: bixi
+  date: '2026-01-26'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WOHCNXM/fw_bixi_bixi-ota_full-OS3.0.4.0.WOHCNXM-user-16.0-c22cfd41db.zip
+  name: MIX Flip 2
+  version: OS3.0.4.0.WOHCNXM
 - android: '15.0'
   codename: bixi
   date: '2025-07-25'
@@ -13878,6 +13884,12 @@
   version: OS3.0.8.0.WPMMIXM
 - android: '16.0'
   codename: myron
+  date: '2026-01-26'
+  download: https://bigota.d.miui.com/OS3.0.7.0.WPMEUXM/fw_myron_myron_eea_global-ota_full-OS3.0.7.0.WPMEUXM-user-16.0-c18845911d.zip
+  name: Redmi K90 Pro Max/POCO F8 Ultra
+  version: OS3.0.7.0.WPMEUXM
+- android: '16.0'
+  codename: myron
   date: '2025-10-25'
   download: https://bigota.d.miui.com/OS3.0.11.0.WPMCNXM/fw_myron_myron-ota_full-OS3.0.11.0.WPMCNXM-user-16.0-b08afa05e5.zip
   name: Redmi K90 Pro Max/POCO F8 Ultra
@@ -21586,6 +21598,12 @@
   download: https://bigota.d.miui.com/OS2.0.205.0.VOVMIXM/fw_taiko_taiko_global-ota_full-OS2.0.205.0.VOVMIXM-user-15.0-cbce8e3afd.zip
   name: Redmi Pad 2
   version: OS2.0.205.0.VOVMIXM
+- android: '16.0'
+  codename: taiko
+  date: '2026-01-26'
+  download: https://bigota.d.miui.com/OS3.0.3.0.WOVEUXM/fw_taiko_taiko_eea_global-ota_full-OS3.0.3.0.WOVEUXM-user-16.0-2df14442ba.zip
+  name: Redmi Pad 2
+  version: OS3.0.3.0.WOVEUXM
 - android: '15.0'
   codename: taiko
   date: '2025-10-24'

@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 26 Jan 2026 08:37:39 </lastBuildDate>
+        <lastBuildDate>Mon, 26 Jan 2026 13:59:49 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>MIX Flip 2 (bixi) - OS3.0.4.0.WOHCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/bixi/</link>
+            <pubDate>Mon, 26 Jan 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 12 (cupid) - OS2.0.211.0.VLCEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/cupid/</link>
@@ -37,6 +42,11 @@
             <pubDate>Mon, 26 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi K90 Pro Max/POCO F8 Ultra (myron) - OS3.0.7.0.WPMEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/myron/</link>
+            <pubDate>Mon, 26 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS2.0.17.0.UMSMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
             <pubDate>Mon, 26 Jan 2026 00:00:00 </pubDate>
@@ -44,6 +54,11 @@
         <item>
             <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS2.0.15.0.UMSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
+            <pubDate>Mon, 26 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad 2 (taiko) - OS3.0.3.0.WOVEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
             <pubDate>Mon, 26 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1362,11 +1377,6 @@
             <pubDate>Thu, 27 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K90 Pro Max/POCO F8 Ultra (myron) - OS3.0.4.0.WPMEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/myron/</link>
-            <pubDate>Thu, 27 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 15 Pro (haotian) - OS3.0.5.0.WOBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/haotian/</link>
             <pubDate>Thu, 20 Nov 2025 00:00:00 </pubDate>
@@ -1422,11 +1432,6 @@
             <pubDate>Fri, 07 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>MIX Flip 2 (bixi) - OS3.0.3.0.WOHCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/bixi/</link>
-            <pubDate>Tue, 04 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - OS2.0.205.0.VOLINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
             <pubDate>Fri, 31 Oct 2025 00:00:00 </pubDate>
@@ -1435,11 +1440,6 @@
             <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - OS2.0.12.0.ULOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xaga/</link>
             <pubDate>Thu, 30 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad 2 (taiko) - OS2.0.204.0.VOVEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
-            <pubDate>Mon, 27 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12 4G (tapas) - OS2.0.202.0.VMTMIXM</title>
