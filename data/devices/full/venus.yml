@@ -529,6 +529,16 @@
     android: '13.0'
     miui: V14.0.3.0.TKBEUXM
 - branch: stable
+  date: '2026-01-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-27.01.2026/fw_venus_venus_eea_global-ota_full-OS2.0.3.0.UKBEUXM-user-14.0-ee1d62228a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/venus/fw_venus_venus_eea_global-ota_full-OS2.0.3.0.UKBEUXM-user-14.0-ee1d62228a.zip
+  filename: fw_venus_venus_eea_global-ota_full-OS2.0.3.0.UKBEUXM-user-14.0-ee1d62228a.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS2.0.3.0.UKBEUXM
+- branch: stable
   date: '2025-02-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-26.02.2025/fw_venus_miui_VENUS_OS1.0.12.0.UKBCNXM_77aa77ab20_14.0.zip

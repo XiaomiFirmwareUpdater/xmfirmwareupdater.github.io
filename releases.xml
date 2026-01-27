@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 27 Jan 2026 06:48:46 </lastBuildDate>
+        <lastBuildDate>Tue, 27 Jan 2026 12:54:58 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 15 5G/POCO M8 5G (kunzite) - OS2.0.205.0.VPQINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
+            <pubDate>Tue, 27 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 11 (venus) - OS2.0.3.0.UKBEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/venus/</link>
+            <pubDate>Tue, 27 Jan 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 12 Pro (zeus) - OS2.0.210.0.VLBINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
@@ -629,11 +639,6 @@
         <item>
             <title>MIX Fold 4 (goku) - OS3.0.5.0.WNVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/goku/</link>
-            <pubDate>Tue, 06 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 5G/POCO M8 5G (kunzite) - OS2.0.202.0.VPQINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
             <pubDate>Tue, 06 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1565,11 +1570,6 @@
             <title>Mi 11 (venus) - OS2.0.2.0.UKBMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/venus/</link>
             <pubDate>Mon, 30 Jun 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 (venus) - OS2.0.2.0.UKBEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/venus/</link>
-            <pubDate>Fri, 27 Jun 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 11 NFC (spesn) - OS1.0.11.0.TGKMIXM</title>

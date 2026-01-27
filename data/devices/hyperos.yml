@@ -10272,6 +10272,12 @@
   version: OS2.0.207.0.VPQCNXM
 - android: '15.0'
   codename: kunzite
+  date: '2026-01-27'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VPQINXM/fw_kunzite_kunzite_in_global-ota_full-OS2.0.205.0.VPQINXM-user-15.0-9f788753f1.zip
+  name: Redmi Note 15 5G/POCO M8 5G
+  version: OS2.0.205.0.VPQINXM
+- android: '15.0'
+  codename: kunzite
   date: '2025-09-26'
   download: https://bigota.d.miui.com/OS2.0.204.0.VPQCNXM/fw_kunzite_kunzite-ota_full-OS2.0.204.0.VPQCNXM-user-15.0-39520b594a.zip
   name: Redmi Note 15 5G/POCO M8 5G
@@ -23074,6 +23080,12 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.UKBEUXM/fw_venus_eea_global_venus_eea_global-ota_full-OS2.0.2.0.UKBEUXM-user-14.0-f647da0254.zip
   name: Mi 11
   version: OS2.0.2.0.UKBEUXM
+- android: '14.0'
+  codename: venus
+  date: '2026-01-27'
+  download: https://bigota.d.miui.com/OS2.0.3.0.UKBEUXM/fw_venus_venus_eea_global-ota_full-OS2.0.3.0.UKBEUXM-user-14.0-ee1d62228a.zip
+  name: Mi 11
+  version: OS2.0.3.0.UKBEUXM
 - android: '14.0'
   codename: venus
   date: '2025-02-26'
