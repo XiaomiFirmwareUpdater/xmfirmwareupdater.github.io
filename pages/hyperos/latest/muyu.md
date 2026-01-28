@@ -52,8 +52,8 @@ permalink: /hyperos/muyu/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 7 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.10.0.WOYCNXM</td><td>16.0</td><td>10.1 GB</td><td>2025-12-18</td><td><a href="/hyperos/muyu/stable/OS3.0.10.0.WOYCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.10.0.WOYCNXM</td><td>16.0</td><td>8.7 GB</td><td>2025-12-22</td><td><a href="/hyperos/muyu/stable/OS3.0.10.0.WOYCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 7 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.11.0.WOYCNXM</td><td>16.0</td><td>9.9 GB</td><td>2026-01-12</td><td><a href="/hyperos/muyu/stable/OS3.0.11.0.WOYCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.11.0.WOYCNXM</td><td>16.0</td><td>8.7 GB</td><td>2026-01-19</td><td><a href="/hyperos/muyu/stable/OS3.0.11.0.WOYCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.VOYCNXM</td><td>15.0</td><td>7.9 GB</td><td>2024-10-29</td><td><a href="/hyperos/muyu/stable beta/OS2.0.1.0.VOYCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WOYEUXM</td><td>16.0</td><td>7.5 GB</td><td>2025-11-26</td><td><a href="/hyperos/muyu/stable/OS3.0.4.0.WOYEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WOYEUXM</td><td>16.0</td><td>6.3 GB</td><td>2025-12-11</td><td><a href="/hyperos/muyu/stable/OS3.0.4.0.WOYEUXM/">Download</a></td></tr>

@@ -52,7 +52,13 @@ permalink: /archive/hyperos/moon/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 13 / POCO M6 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WNTTWXM</td><td>16.0</td><td>4.7 GB</td><td>2026-01-12</td><td><a href="/hyperos/moon/stable/OS3.0.1.0.WNTTWXM/">Download</a></td></tr>
+                <tr><td>Redmi 13 / POCO M6 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WNTTWXM</td><td>16.0</td><td>4.7 GB</td><td>2026-01-23</td><td><a href="/hyperos/moon/stable/OS3.0.2.0.WNTTWXM/">Download</a></td></tr>
+<tr><td>Redmi 13 / POCO M6 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WNTTWXM</td><td>16.0</td><td>5.7 GB</td><td>2026-01-15</td><td><a href="/hyperos/moon/stable/OS3.0.2.0.WNTTWXM/">Download</a></td></tr>
+<tr><td>Redmi 13 / POCO M6 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WNTRUXM</td><td>16.0</td><td>4.8 GB</td><td>2026-01-20</td><td><a href="/hyperos/moon/stable/OS3.0.2.0.WNTRUXM/">Download</a></td></tr>
+<tr><td>Redmi 13 / POCO M6 Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WNTRUXM</td><td>16.0</td><td>8.0 GB</td><td>2026-01-15</td><td><a href="/hyperos/moon/stable/OS3.0.2.0.WNTRUXM/">Download</a></td></tr>
+<tr><td>Redmi 13 / POCO M6 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WNTIDXM</td><td>16.0</td><td>4.9 GB</td><td>2026-01-15</td><td><a href="/hyperos/moon/stable/OS3.0.2.0.WNTIDXM/">Download</a></td></tr>
+<tr><td>Redmi 13 / POCO M6 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WNTIDXM</td><td>16.0</td><td>7.4 GB</td><td>2026-01-15</td><td><a href="/hyperos/moon/stable/OS3.0.2.0.WNTIDXM/">Download</a></td></tr>
+<tr><td>Redmi 13 / POCO M6 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WNTTWXM</td><td>16.0</td><td>4.7 GB</td><td>2026-01-12</td><td><a href="/hyperos/moon/stable/OS3.0.1.0.WNTTWXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WNTTWXM</td><td>16.0</td><td>5.8 GB</td><td>2025-12-29</td><td><a href="/hyperos/moon/stable/OS3.0.1.0.WNTTWXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.25.0.UMPEUXM</td><td>14.0</td><td>3.9 GB</td><td>2026-01-04</td><td><a href="/hyperos/moonstone/stable/OS1.0.25.0.UMPEUXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.25.0.UMPEUXM</td><td>14.0</td><td>5.7 GB</td><td>2025-12-24</td><td><a href="/hyperos/moonstone/stable/OS1.0.25.0.UMPEUXM/">Download</a></td></tr>
