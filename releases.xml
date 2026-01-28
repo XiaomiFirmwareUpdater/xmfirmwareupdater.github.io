@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 28 Jan 2026 00:41:26 </lastBuildDate>
+        <lastBuildDate>Wed, 28 Jan 2026 07:16:59 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 12S Ultra (thor) - OS3.0.2.0.VLACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/thor/</link>
+            <pubDate>Wed, 28 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12S Pro (unicorn) - OS3.0.2.0.VLECNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/unicorn/</link>
+            <pubDate>Wed, 28 Jan 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 15 5G/POCO M8 5G (kunzite) - OS2.0.205.0.VPQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
@@ -887,11 +897,6 @@
             <pubDate>Wed, 31 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12S Pro (unicorn) - OS2.0.211.0.VLECNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/unicorn/</link>
-            <pubDate>Wed, 31 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.6.0.WNKCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Wed, 31 Dec 2025 00:00:00 </pubDate>
@@ -1249,11 +1254,6 @@
         <item>
             <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS3.0.1.0.WNXEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
-            <pubDate>Wed, 17 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12S Ultra (thor) - OS2.0.210.0.VLACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/thor/</link>
             <pubDate>Wed, 17 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
