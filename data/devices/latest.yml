@@ -4149,15 +4149,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2026-01-21'
+  date: '2026-01-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nezha/releases/download/stable-21.01.2026/fw_nezha_nezha-ota_full-OS3.0.10.0.WPACNXM-user-16.0-f86e698e59.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/nezha/fw_nezha_nezha-ota_full-OS3.0.10.0.WPACNXM-user-16.0-f86e698e59.zip
-  filename: fw_nezha_nezha-ota_full-OS3.0.10.0.WPACNXM-user-16.0-f86e698e59.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nezha/releases/download/stable-29.01.2026/fw_nezha_nezha-ota_full-OS3.0.12.0.WPACNXM-user-16.0-7eb3e33103.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/nezha/fw_nezha_nezha-ota_full-OS3.0.12.0.WPACNXM-user-16.0-7eb3e33103.zip
+  filename: fw_nezha_nezha-ota_full-OS3.0.12.0.WPACNXM-user-16.0-7eb3e33103.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.10.0.WPACNXM
+    miui: OS3.0.12.0.WPACNXM
 - branch: stable
   date: '2020-10-16'
   downloads:

@@ -52,7 +52,9 @@ permalink: /archive/hyperos/nezha/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 17 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS3.0.10.0.WPACNXM</td><td>16.0</td><td>10.0 GB</td><td>2026-01-13</td><td><a href="/hyperos/nezha/stable/OS3.0.10.0.WPACNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 17 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS3.0.12.0.WPACNXM</td><td>16.0</td><td>10.0 GB</td><td>2026-01-22</td><td><a href="/hyperos/nezha/stable/OS3.0.12.0.WPACNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.12.0.WPACNXM</td><td>16.0</td><td>12.6 GB</td><td>2026-01-21</td><td><a href="/hyperos/nezha/stable/OS3.0.12.0.WPACNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS3.0.10.0.WPACNXM</td><td>16.0</td><td>10.0 GB</td><td>2026-01-13</td><td><a href="/hyperos/nezha/stable/OS3.0.10.0.WPACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.10.0.WPACNXM</td><td>16.0</td><td>12.5 GB</td><td>2026-01-11</td><td><a href="/hyperos/nezha/stable/OS3.0.10.0.WPACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS3.0.7.0.WPACNXM</td><td>16.0</td><td>10.0 GB</td><td>2025-12-25</td><td><a href="/hyperos/nezha/stable/OS3.0.7.0.WPACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.7.0.WPACNXM</td><td>16.0</td><td>12.5 GB</td><td>2025-12-19</td><td><a href="/hyperos/nezha/stable/OS3.0.7.0.WPACNXM/">Download</a></td></tr>

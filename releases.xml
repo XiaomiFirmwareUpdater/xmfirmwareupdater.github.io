@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 28 Jan 2026 18:41:25 </lastBuildDate>
+        <lastBuildDate>Thu, 29 Jan 2026 01:22:44 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 15 Pro (haotian) - OS3.0.7.0.WOBCNXM</title>
@@ -14,6 +14,11 @@
         <item>
             <title>Xiaomi Pad 7 Pro (muyu) - OS3.0.11.0.WOYCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
+            <pubDate>Wed, 28 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17 Ultra (nezha) - OS3.0.12.0.WPACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/nezha/</link>
             <pubDate>Wed, 28 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -204,11 +209,6 @@
         <item>
             <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS3.0.4.0.WOMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/miro/</link>
-            <pubDate>Wed, 21 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17 Ultra (nezha) - OS3.0.10.0.WPACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/nezha/</link>
             <pubDate>Wed, 21 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
