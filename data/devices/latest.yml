@@ -2049,6 +2049,16 @@
     android: '15.0'
     miui: OS2.0.207.0.VPWMIXM
 - branch: stable
+  date: '2026-01-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flute/releases/download/stable-29.01.2026/fw_flute_flute-ota_full-OS3.0.2.0.WPWCNXM-user-16.0-a2c2f636f8.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/flute/fw_flute_flute-ota_full-OS3.0.2.0.WPWCNXM-user-16.0-a2c2f636f8.zip
+  filename: fw_flute_flute-ota_full-OS3.0.2.0.WPWCNXM-user-16.0-a2c2f636f8.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.2.0.WPWCNXM
+- branch: stable
   date: '2026-01-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flute/releases/download/stable-08.01.2026/fw_flute_flute_eea_global-ota_full-OS3.0.3.0.WPWEUXM-user-16.0-75d90aec65.zip
@@ -3619,15 +3629,15 @@
     android: '15.0'
     miui: OS2.0.216.0.VMRMIXM
 - branch: stable
-  date: '2026-01-07'
+  date: '2026-01-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-07.01.2026/fw_marble_marble-ota_full-OS2.0.215.0.VMRCNXM-user-15.0-d937d7f146.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/marble/fw_marble_marble-ota_full-OS2.0.215.0.VMRCNXM-user-15.0-d937d7f146.zip
-  filename: fw_marble_marble-ota_full-OS2.0.215.0.VMRCNXM-user-15.0-d937d7f146.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-29.01.2026/fw_marble_marble-ota_full-OS3.0.1.0.VMRCNXM-user-15.0-ac8e5cc1cc.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/marble/fw_marble_marble-ota_full-OS3.0.1.0.VMRCNXM-user-15.0-ac8e5cc1cc.zip
+  filename: fw_marble_marble-ota_full-OS3.0.1.0.VMRCNXM-user-15.0-ac8e5cc1cc.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.215.0.VMRCNXM
+    miui: OS3.0.1.0.VMRCNXM
 - branch: stable
   date: '2026-01-20'
   downloads:

@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 29 Jan 2026 12:41:31 </lastBuildDate>
+        <lastBuildDate>Thu, 29 Jan 2026 19:23:36 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS3.0.2.0.WPWCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flute/</link>
+            <pubDate>Thu, 29 Jan 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.8.0.WOOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
+            <pubDate>Thu, 29 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS3.0.1.0.VMRCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
             <pubDate>Thu, 29 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -629,11 +639,6 @@
         <item>
             <title>Redmi Pad 2 4G (koto) - OS3.0.3.0.WOWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/koto/</link>
-            <pubDate>Wed, 07 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.215.0.VMRCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
             <pubDate>Wed, 07 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>

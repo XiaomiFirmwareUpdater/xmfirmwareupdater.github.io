@@ -159,6 +159,16 @@
     android: '13.0'
     miui: V14.0.2.0.TMRCNXM
 - branch: stable
+  date: '2026-01-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-29.01.2026/fw_marble_marble-ota_full-OS3.0.1.0.VMRCNXM-user-15.0-ac8e5cc1cc.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/marble/fw_marble_marble-ota_full-OS3.0.1.0.VMRCNXM-user-15.0-ac8e5cc1cc.zip
+  filename: fw_marble_marble-ota_full-OS3.0.1.0.VMRCNXM-user-15.0-ac8e5cc1cc.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS3.0.1.0.VMRCNXM
+- branch: stable
   date: '2025-02-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-28.02.2025/fw_marble_miui_MARBLEEEAGlobal_OS1.0.20.0.UMREUXM_23692e5f5c_14.0.zip
