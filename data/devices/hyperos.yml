@@ -11254,6 +11254,12 @@
   download: https://bigota.d.miui.com/OS2.0.204.0.VOOEUXM/fw_malachite_eea_global_malachite_eea_global-ota_full-OS2.0.204.0.VOOEUXM-user-15.0-9c5195a051.zip
   name: Redmi Note 14 Pro 5G/POCO X7
   version: OS2.0.204.0.VOOEUXM
+- android: '16.0'
+  codename: malachite
+  date: '2026-01-29'
+  download: https://bigota.d.miui.com/OS3.0.8.0.WOOMIXM/fw_malachite_malachite_global-ota_full-OS3.0.8.0.WOOMIXM-user-16.0-d72b903eac.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS3.0.8.0.WOOMIXM
 - android: '15.0'
   codename: malachite
   date: '2025-10-28'
@@ -24538,6 +24544,12 @@
   download: https://bigota.d.miui.com/OS2.0.206.0.VOAINXM/fw_xuanyuan_xuanyuan_in_global-ota_full-OS2.0.206.0.VOAINXM-user-15.0-8b36cce15d.zip
   name: Xiaomi 15 Ultra
   version: OS2.0.206.0.VOAINXM
+- android: '16.0'
+  codename: xuanyuan
+  date: '2026-01-29'
+  download: https://bigota.d.miui.com/OS3.0.8.0.WOACNXM/fw_xuanyuan_xuanyuan-ota_full-OS3.0.8.0.WOACNXM-user-16.0-b4da4f88c6.zip
+  name: Xiaomi 15 Ultra
+  version: OS3.0.8.0.WOACNXM
 - android: '15.0'
   codename: xuanyuan
   date: '2025-08-28'
