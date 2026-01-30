@@ -432,6 +432,12 @@
   version: OS1.0.4.0.UGQEUXM
 - android: '13.0'
   codename: alioth
+  date: '2026-01-30'
+  download: https://bigota.d.miui.com/OS1.0.5.0.TKHMIXM/fw_alioth_miui_ALIOTHGlobal_OS1.0.5.0.TKHMIXM_6e5b395463_13.0.zip
+  name: Redmi K40/POCO F3/Mi 11X
+  version: OS1.0.5.0.TKHMIXM
+- android: '13.0'
+  codename: alioth
   date: '2024-08-26'
   download: https://bigota.d.miui.com/OS1.0.3.0.TKHEUXM/fw_alioth_miui_ALIOTHEEAGlobal_OS1.0.3.0.TKHEUXM_1d79dc27d3_13.0.zip
   name: Redmi K40/POCO F3/Mi 11X
@@ -1104,6 +1110,12 @@
   version: OS1.0.8.0.UNACNXM
 - android: '16.0'
   codename: aurora
+  date: '2026-01-30'
+  download: https://bigota.d.miui.com/OS3.0.6.0.WNACNXM/fw_aurora_aurora-ota_full-OS3.0.6.0.WNACNXM-user-16.0-a64ddcc3e0.zip
+  name: Xiaomi 14 Ultra
+  version: OS3.0.6.0.WNACNXM
+- android: '16.0'
+  codename: aurora
   date: '2025-12-29'
   download: https://bigota.d.miui.com/OS3.0.3.0.WNAINXM/fw_aurora_aurora_in_global-ota_full-OS3.0.3.0.WNAINXM-user-16.0-e761dd9e6d.zip
   name: Xiaomi 14 Ultra
@@ -1576,6 +1588,12 @@
   download: https://bigota.d.miui.com/OS2.0.102.0.VNAINXM/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.102.0.VNAINXM-user-15.0-18cf3fc5bc.zip
   name: Xiaomi 14 Ultra
   version: OS2.0.102.0.VNAINXM
+- android: '16.0'
+  codename: babylon
+  date: '2026-01-30'
+  download: https://bigota.d.miui.com/OS3.0.6.0.WMVCNXM/fw_babylon_babylon-ota_full-OS3.0.6.0.WMVCNXM-user-16.0-09d3c61dba.zip
+  name: MIX Fold 3
+  version: OS3.0.6.0.WMVCNXM
 - android: '16.0'
   codename: babylon
   date: '2025-12-28'

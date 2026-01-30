@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 30 Jan 2026 12:44:54 </lastBuildDate>
+        <lastBuildDate>Sat, 31 Jan 2026 00:43:00 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K40/POCO F3/Mi 11X (alioth) - OS1.0.5.0.TKHMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/alioth/</link>
+            <pubDate>Fri, 30 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS3.0.6.0.WNACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Fri, 30 Jan 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>MIX Fold 3 (babylon) - OS3.0.6.0.WMVCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
+            <pubDate>Fri, 30 Jan 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS3.0.2.0.WPWCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flute/</link>
@@ -1037,11 +1052,6 @@
             <pubDate>Sun, 28 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>MIX Fold 3 (babylon) - OS3.0.3.0.WMVCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
-            <pubDate>Sun, 28 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS3.0.3.0.WOJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
             <pubDate>Sun, 28 Dec 2025 00:00:00 </pubDate>
@@ -1159,11 +1169,6 @@
         <item>
             <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.6.0.WPKEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
-            <pubDate>Fri, 26 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS3.0.5.0.WNACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
             <pubDate>Fri, 26 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1900,11 +1905,6 @@
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - OS1.0.2.0.TKHINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/alioth/</link>
             <pubDate>Thu, 11 Jul 2024 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40/POCO F3/Mi 11X (alioth) - OS1.0.3.0.TKHMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/alioth/</link>
-            <pubDate>Tue, 25 Jun 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - OS1.0.6.0.TKHCNXM</title>
