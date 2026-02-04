@@ -939,6 +939,16 @@
     android: '13.0'
     miui: V14.0.3.0.TLCMIXM
 - branch: stable
+  date: '2026-02-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-04.02.2026/fw_cupid_cupid_global-ota_full-OS2.0.209.0.VLCMIXM-user-15.0-31f436bc8f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/cupid/fw_cupid_cupid_global-ota_full-OS2.0.209.0.VLCMIXM-user-15.0-31f436bc8f.zip
+  filename: fw_cupid_cupid_global-ota_full-OS2.0.209.0.VLCMIXM-user-15.0-31f436bc8f.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.209.0.VLCMIXM
+- branch: stable
   date: '2024-09-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-03.09.2024/fw_cupid_miui_CUPIDGlobal_OS1.0.5.0.ULCMIXM_a4895ad53f_14.0.zip

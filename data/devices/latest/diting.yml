@@ -9,22 +9,22 @@
     android: '15.0'
     miui: OS2.0.206.0.VLFMIXM
 - branch: stable
-  date: '2025-12-31'
+  date: '2026-02-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-31.12.2025/fw_diting_diting-ota_full-OS2.0.211.0.VLFCNXM-user-15.0-bfba6cae73.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/diting/fw_diting_diting-ota_full-OS2.0.211.0.VLFCNXM-user-15.0-bfba6cae73.zip
-  filename: fw_diting_diting-ota_full-OS2.0.211.0.VLFCNXM-user-15.0-bfba6cae73.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-04.02.2026/fw_diting_diting-ota_full-OS3.0.1.0.VLFCNXM-user-15.0-f8eadd6356.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/diting/fw_diting_diting-ota_full-OS3.0.1.0.VLFCNXM-user-15.0-f8eadd6356.zip
+  filename: fw_diting_diting-ota_full-OS3.0.1.0.VLFCNXM-user-15.0-f8eadd6356.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.211.0.VLFCNXM
+    miui: OS3.0.1.0.VLFCNXM
 - branch: stable
-  date: '2026-01-04'
+  date: '2026-02-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-04.01.2026/fw_diting_diting_eea_global-ota_full-OS2.0.207.0.VLFEUXM-user-15.0-f9ee389423.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/diting/fw_diting_diting_eea_global-ota_full-OS2.0.207.0.VLFEUXM-user-15.0-f9ee389423.zip
-  filename: fw_diting_diting_eea_global-ota_full-OS2.0.207.0.VLFEUXM-user-15.0-f9ee389423.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-04.02.2026/fw_diting_diting_eea_global-ota_full-OS2.0.208.0.VLFEUXM-user-15.0-06e0439328.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/diting/fw_diting_diting_eea_global-ota_full-OS2.0.208.0.VLFEUXM-user-15.0-06e0439328.zip
+  filename: fw_diting_diting_eea_global-ota_full-OS2.0.208.0.VLFEUXM-user-15.0-06e0439328.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.207.0.VLFEUXM
+    miui: OS2.0.208.0.VLFEUXM
