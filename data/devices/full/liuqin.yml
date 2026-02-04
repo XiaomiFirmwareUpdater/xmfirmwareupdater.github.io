@@ -199,6 +199,16 @@
     android: '15.0'
     miui: OS2.0.207.0.VMYCNXM
 - branch: stable
+  date: '2026-02-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_liuqin/releases/download/stable-04.02.2026/fw_liuqin_liuqin-ota_full-OS3.0.5.0.VMYCNXM-user-15.0-39685cb85f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/liuqin/fw_liuqin_liuqin-ota_full-OS3.0.5.0.VMYCNXM-user-15.0-39685cb85f.zip
+  filename: fw_liuqin_liuqin-ota_full-OS3.0.5.0.VMYCNXM-user-15.0-39685cb85f.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS3.0.5.0.VMYCNXM
+- branch: stable
   date: '2024-02-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_liuqin/releases/download/stable-01.02.2024/fw_liuqin_miui_LIUQIN_OS1.0.4.0.UMYCNXM_6271a83b02_14.0.zip

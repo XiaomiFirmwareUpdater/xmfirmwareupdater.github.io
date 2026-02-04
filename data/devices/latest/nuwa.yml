@@ -19,15 +19,15 @@
     android: '16.0'
     miui: OS3.0.3.0.WMBCNXM
 - branch: stable
-  date: '2026-01-09'
+  date: '2026-02-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-09.01.2026/fw_nuwa_nuwa_eea_global-ota_full-OS2.0.210.0.VMBEUXM-user-15.0-66406c53cd.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/nuwa/fw_nuwa_nuwa_eea_global-ota_full-OS2.0.210.0.VMBEUXM-user-15.0-66406c53cd.zip
-  filename: fw_nuwa_nuwa_eea_global-ota_full-OS2.0.210.0.VMBEUXM-user-15.0-66406c53cd.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-04.02.2026/fw_nuwa_nuwa_eea_global-ota_full-OS3.0.2.0.WMBEUXM-user-16.0-fcc619ac13.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/nuwa/fw_nuwa_nuwa_eea_global-ota_full-OS3.0.2.0.WMBEUXM-user-16.0-fcc619ac13.zip
+  filename: fw_nuwa_nuwa_eea_global-ota_full-OS3.0.2.0.WMBEUXM-user-16.0-fcc619ac13.zip
   region: Europe
   versions:
-    android: '15.0'
-    miui: OS2.0.210.0.VMBEUXM
+    android: '16.0'
+    miui: OS3.0.2.0.WMBEUXM
 - branch: stable
   date: '2025-12-27'
   downloads:
