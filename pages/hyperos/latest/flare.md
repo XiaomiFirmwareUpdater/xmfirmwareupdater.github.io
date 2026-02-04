@@ -62,8 +62,8 @@ permalink: /hyperos/flare/
 <tr><td>Redmi Pad SE 8.7 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VHXIDXM</td><td>15.0</td><td>4.5 GB</td><td>2026-01-26</td><td><a href="/hyperos/flare/stable/OS2.0.203.0.VHXIDXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VHXRUXM</td><td>15.0</td><td>5.9 GB</td><td>2025-03-11</td><td><a href="/hyperos/flare/stable/OS2.0.2.0.VHXRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VHXRUXM</td><td>15.0</td><td>4.2 GB</td><td>2025-03-15</td><td><a href="/hyperos/flare/stable/OS2.0.2.0.VHXRUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad SE 8.7 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VHXTRXM</td><td>15.0</td><td>5.5 GB</td><td>2025-09-17</td><td><a href="/hyperos/flare/stable/OS2.0.202.0.VHXTRXM/">Download</a></td></tr>
-<tr><td>Redmi Pad SE 8.7 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VHXTRXM</td><td>15.0</td><td>4.5 GB</td><td>2025-09-25</td><td><a href="/hyperos/flare/stable/OS2.0.202.0.VHXTRXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE 8.7 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VHXTRXM</td><td>15.0</td><td>5.6 GB</td><td>2026-01-15</td><td><a href="/hyperos/flare/stable/OS2.0.203.0.VHXTRXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE 8.7 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VHXTRXM</td><td>15.0</td><td>4.5 GB</td><td>2026-01-26</td><td><a href="/hyperos/flare/stable/OS2.0.203.0.VHXTRXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.VHXTWXM</td><td>15.0</td><td>5.1 GB</td><td>2025-03-18</td><td><a href="/hyperos/flare/stable/OS2.0.1.0.VHXTWXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VHXTWXM</td><td>15.0</td><td>4.1 GB</td><td>2025-03-27</td><td><a href="/hyperos/flare/stable/OS2.0.1.0.VHXTWXM/">Download</a></td></tr>
 
