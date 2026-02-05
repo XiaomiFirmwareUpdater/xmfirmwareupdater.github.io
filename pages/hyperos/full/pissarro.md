@@ -52,7 +52,9 @@ permalink: /archive/hyperos/pissarro/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.18.0.TKTCNXM</td><td>13.0</td><td>4.1 GB</td><td>2025-05-29</td><td><a href="/hyperos/pissarro/stable beta/OS1.0.18.0.TKTCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.22.0.TKTCNXM</td><td>13.0</td><td>4.1 GB</td><td>2026-02-02</td><td><a href="/hyperos/pissarro/stable beta/OS1.0.22.0.TKTCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>OS1.0.18.0.TKTCNXM</td><td>13.0</td><td>4.1 GB</td><td>2025-05-29</td><td><a href="/hyperos/pissarro/stable/OS1.0.18.0.TKTCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.18.0.TKTCNXM</td><td>13.0</td><td>6.0 GB</td><td>2025-05-22</td><td><a href="/hyperos/pissarro/stable/OS1.0.18.0.TKTCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.16.0.TKTCNXM</td><td>13.0</td><td>4.1 GB</td><td>2025-05-12</td><td><a href="/hyperos/pissarro/stable beta/OS1.0.16.0.TKTCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.12.0.TKTTWXM</td><td>13.0</td><td>3.7 GB</td><td>2025-05-08</td><td><a href="/hyperos/pissarro/stable beta/OS1.0.12.0.TKTTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.14.0.TKTEUXM</td><td>13.0</td><td>3.8 GB</td><td>2025-04-18</td><td><a href="/hyperos/pissarro/stable beta/OS1.0.14.0.TKTEUXM/">Download</a></td></tr>

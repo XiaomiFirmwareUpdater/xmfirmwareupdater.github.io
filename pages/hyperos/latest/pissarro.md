@@ -52,9 +52,9 @@ permalink: /hyperos/pissarro/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.13.0.TKTCNXM</td><td>13.0</td><td>6.1 GB</td><td>2024-12-20</td><td><a href="/hyperos/pissarro/stable/OS1.0.13.0.TKTCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>OS1.0.13.0.TKTCNXM</td><td>13.0</td><td>4.2 GB</td><td>2025-01-13</td><td><a href="/hyperos/pissarro/stable/OS1.0.13.0.TKTCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.18.0.TKTCNXM</td><td>13.0</td><td>4.1 GB</td><td>2025-05-29</td><td><a href="/hyperos/pissarro/stable beta/OS1.0.18.0.TKTCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.18.0.TKTCNXM</td><td>13.0</td><td>6.0 GB</td><td>2025-05-22</td><td><a href="/hyperos/pissarro/stable/OS1.0.18.0.TKTCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>OS1.0.18.0.TKTCNXM</td><td>13.0</td><td>4.1 GB</td><td>2025-05-29</td><td><a href="/hyperos/pissarro/stable/OS1.0.18.0.TKTCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.22.0.TKTCNXM</td><td>13.0</td><td>4.1 GB</td><td>2026-02-02</td><td><a href="/hyperos/pissarro/stable beta/OS1.0.22.0.TKTCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.13.0.TKTEUXM</td><td>13.0</td><td>5.9 GB</td><td>2025-01-21</td><td><a href="/hyperos/pissarro/stable/OS1.0.13.0.TKTEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.13.0.TKTEUXM</td><td>13.0</td><td>3.8 GB</td><td>2025-02-13</td><td><a href="/hyperos/pissarro/stable/OS1.0.13.0.TKTEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.14.0.TKTEUXM</td><td>13.0</td><td>3.8 GB</td><td>2025-04-18</td><td><a href="/hyperos/pissarro/stable beta/OS1.0.14.0.TKTEUXM/">Download</a></td></tr>
