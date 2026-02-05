@@ -5392,6 +5392,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UNLINXM/fw_duchamp_miui_DUCHAMPINGlobal_OS1.0.9.0.UNLINXM_838750638d_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS1.0.9.0.UNLINXM
+- android: '16.0'
+  codename: duchamp
+  date: '2026-02-05'
+  download: https://bigota.d.miui.com/OS3.0.3.0.WNLEUXM/fw_duchamp_duchamp_eea_global-ota_full-OS3.0.3.0.WNLEUXM-user-16.0-126de9fdc2.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS3.0.3.0.WNLEUXM
 - android: '14.0'
   codename: duchamp
   date: '2023-12-03'
@@ -6820,6 +6826,12 @@
   download: https://bigota.d.miui.com/OS2.0.204.0.VPWMIXM/fw_flute_flute_global-ota_full-OS2.0.204.0.VPWMIXM-user-15.0-a594e7ead8.zip
   name: Redmi Pad 2 Pro/POCO Pad M1
   version: OS2.0.204.0.VPWMIXM
+- android: '15.0'
+  codename: flute
+  date: '2026-02-05'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VPWMIXM/fw_flute_flute_global-ota_full-OS2.0.208.0.VPWMIXM-user-15.0-ec7760e82c.zip
+  name: Redmi Pad 2 Pro/POCO Pad M1
+  version: OS2.0.208.0.VPWMIXM
 - android: '15.0'
   codename: flute
   date: '2025-12-02'

@@ -69,6 +69,16 @@
     android: '15.0'
     miui: OS2.0.204.0.VPWMIXM
 - branch: stable
+  date: '2026-02-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flute/releases/download/stable-05.02.2026/fw_flute_flute_global-ota_full-OS2.0.208.0.VPWMIXM-user-15.0-ec7760e82c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/flute/fw_flute_flute_global-ota_full-OS2.0.208.0.VPWMIXM-user-15.0-ec7760e82c.zip
+  filename: fw_flute_flute_global-ota_full-OS2.0.208.0.VPWMIXM-user-15.0-ec7760e82c.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.208.0.VPWMIXM
+- branch: stable
   date: '2025-12-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flute/releases/download/stable-02.12.2025/fw_flute_flute_eea_global-ota_full-OS2.0.211.0.VPWEUXM-user-15.0-a8987ca1f1.zip
