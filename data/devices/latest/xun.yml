@@ -9,15 +9,15 @@
     android: '15.0'
     miui: OS2.0.206.0.VMUMIXM
 - branch: stable
-  date: '2025-11-28'
+  date: '2026-02-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-28.11.2025/fw_xun_xun-ota_full-OS2.0.206.0.VMUCNXM-user-15.0-610a05680e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xun/fw_xun_xun-ota_full-OS2.0.206.0.VMUCNXM-user-15.0-610a05680e.zip
-  filename: fw_xun_xun-ota_full-OS2.0.206.0.VMUCNXM-user-15.0-610a05680e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-05.02.2026/fw_xun_xun-ota_full-OS2.0.207.0.VMUCNXM-user-15.0-bd0b02abd3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xun/fw_xun_xun-ota_full-OS2.0.207.0.VMUCNXM-user-15.0-bd0b02abd3.zip
+  filename: fw_xun_xun-ota_full-OS2.0.207.0.VMUCNXM-user-15.0-bd0b02abd3.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.206.0.VMUCNXM
+    miui: OS2.0.207.0.VMUCNXM
 - branch: stable
   date: '2026-01-28'
   downloads:
@@ -29,12 +29,12 @@
     android: '15.0'
     miui: OS2.0.205.0.VMUEUXM
 - branch: stable
-  date: '2025-11-10'
+  date: '2026-02-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-10.11.2025/fw_xun_xun_in_global-ota_full-OS2.0.202.0.VMUINXM-user-15.0-11d8f13f58.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xun/fw_xun_xun_in_global-ota_full-OS2.0.202.0.VMUINXM-user-15.0-11d8f13f58.zip
-  filename: fw_xun_xun_in_global-ota_full-OS2.0.202.0.VMUINXM-user-15.0-11d8f13f58.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xun/releases/download/stable-05.02.2026/fw_xun_xun_in_global-ota_full-OS2.0.203.0.VMUINXM-user-15.0-502aa40320.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/xun/fw_xun_xun_in_global-ota_full-OS2.0.203.0.VMUINXM-user-15.0-502aa40320.zip
+  filename: fw_xun_xun_in_global-ota_full-OS2.0.203.0.VMUINXM-user-15.0-502aa40320.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.202.0.VMUINXM
+    miui: OS2.0.203.0.VMUINXM

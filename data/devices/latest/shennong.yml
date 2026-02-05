@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2025-11-28'
+  date: '2026-02-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-28.11.2025/fw_shennong_shennong-ota_full-OS3.0.4.0.WNBCNXM-user-16.0-7b1eba8b7e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/shennong/fw_shennong_shennong-ota_full-OS3.0.4.0.WNBCNXM-user-16.0-7b1eba8b7e.zip
-  filename: fw_shennong_shennong-ota_full-OS3.0.4.0.WNBCNXM-user-16.0-7b1eba8b7e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shennong/releases/download/stable-05.02.2026/fw_shennong_shennong-ota_full-OS3.0.8.0.WNBCNXM-user-16.0-4972fd95de.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/shennong/fw_shennong_shennong-ota_full-OS3.0.8.0.WNBCNXM-user-16.0-4972fd95de.zip
+  filename: fw_shennong_shennong-ota_full-OS3.0.8.0.WNBCNXM-user-16.0-4972fd95de.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.4.0.WNBCNXM
+    miui: OS3.0.8.0.WNBCNXM

@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2026-01-13'
+  date: '2026-02-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-13.01.2026/fw_yudi_yudi-ota_full-OS3.0.1.0.VMHCNXM-user-15.0-24e0ff2f68.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/yudi/fw_yudi_yudi-ota_full-OS3.0.1.0.VMHCNXM-user-15.0-24e0ff2f68.zip
-  filename: fw_yudi_yudi-ota_full-OS3.0.1.0.VMHCNXM-user-15.0-24e0ff2f68.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yudi/releases/download/stable-05.02.2026/fw_yudi_yudi-ota_full-OS3.0.3.0.VMHCNXM-user-15.0-77a2cca9fc.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/yudi/fw_yudi_yudi-ota_full-OS3.0.3.0.VMHCNXM-user-15.0-77a2cca9fc.zip
+  filename: fw_yudi_yudi-ota_full-OS3.0.3.0.VMHCNXM-user-15.0-77a2cca9fc.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS3.0.1.0.VMHCNXM
+    miui: OS3.0.3.0.VMHCNXM

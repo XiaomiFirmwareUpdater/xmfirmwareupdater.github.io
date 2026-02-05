@@ -19,12 +19,12 @@
     android: '15.0'
     miui: A15.0.12.0.VGWEUXM
 - branch: stable
-  date: '2026-01-04'
+  date: '2026-02-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_serenity/releases/download/stable-04.01.2026/fw_serenity_miui_SERENITYINGlobal_A15.0.13.0.VGWINXM_82edb9517b_15.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/A15/serenity/fw_serenity_miui_SERENITYINGlobal_A15.0.13.0.VGWINXM_82edb9517b_15.0.zip
-  filename: fw_serenity_miui_SERENITYINGlobal_A15.0.13.0.VGWINXM_82edb9517b_15.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_serenity/releases/download/stable-05.02.2026/fw_serenity_miui_SERENITYINGlobal_A15.0.14.0.VGWINXM_af3c488f76_15.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/A15/serenity/fw_serenity_miui_SERENITYINGlobal_A15.0.14.0.VGWINXM_af3c488f76_15.0.zip
+  filename: fw_serenity_miui_SERENITYINGlobal_A15.0.14.0.VGWINXM_af3c488f76_15.0.zip
   region: India
   versions:
     android: '15.0'
-    miui: A15.0.13.0.VGWINXM
+    miui: A15.0.14.0.VGWINXM

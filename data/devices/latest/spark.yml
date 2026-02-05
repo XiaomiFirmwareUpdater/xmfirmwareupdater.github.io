@@ -19,12 +19,12 @@
     android: '15.0'
     miui: OS2.0.206.0.VHYEUXM
 - branch: stable
-  date: '2025-10-10'
+  date: '2026-02-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spark/releases/download/stable-10.10.2025/fw_spark_spark_in_global-ota_full-OS2.0.202.0.VHYINXM-user-15.0-e828c225b9.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/spark/fw_spark_spark_in_global-ota_full-OS2.0.202.0.VHYINXM-user-15.0-e828c225b9.zip
-  filename: fw_spark_spark_in_global-ota_full-OS2.0.202.0.VHYINXM-user-15.0-e828c225b9.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spark/releases/download/stable-05.02.2026/fw_spark_spark_in_global-ota_full-OS2.0.203.0.VHYINXM-user-15.0-4984081d5b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/spark/fw_spark_spark_in_global-ota_full-OS2.0.203.0.VHYINXM-user-15.0-4984081d5b.zip
+  filename: fw_spark_spark_in_global-ota_full-OS2.0.203.0.VHYINXM-user-15.0-4984081d5b.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.202.0.VHYINXM
+    miui: OS2.0.203.0.VHYINXM
