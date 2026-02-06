@@ -52,10 +52,10 @@ permalink: /hyperos/breeze/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 13R China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WNUCNXM</td><td>16.0</td><td>8.3 GB</td><td>2025-12-21</td><td><a href="/hyperos/breeze/stable/OS3.0.1.0.WNUCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13R China</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WNUCNXM</td><td>16.0</td><td>5.5 GB</td><td>2025-12-27</td><td><a href="/hyperos/breeze/stable/OS3.0.1.0.WNUCNXM/">Download</a></td></tr>
-<tr><td>Redmi 13 5G / POCO M6 Plus 5G India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.9.0.WNUINXM</td><td>16.0</td><td>7.5 GB</td><td>2025-12-01</td><td><a href="/hyperos/breeze/stable/OS3.0.9.0.WNUINXM/">Download</a></td></tr>
-<tr><td>Redmi 13 5G / POCO M6 Plus 5G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.9.0.WNUINXM</td><td>16.0</td><td>4.8 GB</td><td>2025-12-15</td><td><a href="/hyperos/breeze/stable/OS3.0.9.0.WNUINXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 13R China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WNUCNXM</td><td>16.0</td><td>8.3 GB</td><td>2026-01-23</td><td><a href="/hyperos/breeze/stable/OS3.0.2.0.WNUCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13R China</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WNUCNXM</td><td>16.0</td><td>5.5 GB</td><td>2026-01-30</td><td><a href="/hyperos/breeze/stable/OS3.0.2.0.WNUCNXM/">Download</a></td></tr>
+<tr><td>Redmi 13 5G / POCO M6 Plus 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VNUINXM</td><td>15.0</td><td>7.2 GB</td><td>2025-11-03</td><td><a href="/hyperos/breeze/stable/OS2.0.204.0.VNUINXM/">Download</a></td></tr>
+<tr><td>Redmi 13 5G / POCO M6 Plus 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VNUINXM</td><td>15.0</td><td>4.5 GB</td><td>2025-11-13</td><td><a href="/hyperos/breeze/stable/OS2.0.204.0.VNUINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

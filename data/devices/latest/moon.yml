@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2026-01-04'
+  date: '2026-02-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moon/releases/download/stable-04.01.2026/fw_moon_moon_global-ota_full-OS3.0.5.0.WNTMIXM-user-16.0-2da013bdb1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/moon/fw_moon_moon_global-ota_full-OS3.0.5.0.WNTMIXM-user-16.0-2da013bdb1.zip
-  filename: fw_moon_moon_global-ota_full-OS3.0.5.0.WNTMIXM-user-16.0-2da013bdb1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moon/releases/download/stable-06.02.2026/fw_moon_moon_global-ota_full-OS3.0.6.0.WNTMIXM-user-16.0-a7b0a60c98.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/moon/fw_moon_moon_global-ota_full-OS3.0.6.0.WNTMIXM-user-16.0-a7b0a60c98.zip
+  filename: fw_moon_moon_global-ota_full-OS3.0.6.0.WNTMIXM-user-16.0-a7b0a60c98.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.5.0.WNTMIXM
+    miui: OS3.0.6.0.WNTMIXM
 - branch: stable
-  date: '2026-01-06'
+  date: '2026-02-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moon/releases/download/stable-06.01.2026/fw_moon_moon_eea_global-ota_full-OS3.0.2.0.WNTEUXM-user-16.0-326cbc1733.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/moon/fw_moon_moon_eea_global-ota_full-OS3.0.2.0.WNTEUXM-user-16.0-326cbc1733.zip
-  filename: fw_moon_moon_eea_global-ota_full-OS3.0.2.0.WNTEUXM-user-16.0-326cbc1733.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moon/releases/download/stable-06.02.2026/fw_moon_moon_eea_global-ota_full-OS3.0.3.0.WNTEUXM-user-16.0-4118c69806.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/moon/fw_moon_moon_eea_global-ota_full-OS3.0.3.0.WNTEUXM-user-16.0-4118c69806.zip
+  filename: fw_moon_moon_eea_global-ota_full-OS3.0.3.0.WNTEUXM-user-16.0-4118c69806.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.2.0.WNTEUXM
+    miui: OS3.0.3.0.WNTEUXM

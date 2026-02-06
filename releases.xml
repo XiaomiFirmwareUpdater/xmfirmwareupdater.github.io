@@ -4,8 +4,43 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 06 Feb 2026 12:43:46 </lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 19:53:16 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS3.0.2.0.WNUCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Ultra (ishtar) - OS3.0.4.0.WMACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A3x (klein) - V816.0.2.0.WGSMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/klein/</link>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.3.0.WOOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 13/POCO M6 (moon) - OS3.0.6.0.WNTMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/moon/</link>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 13/POCO M6 (moon) - OS3.0.3.0.WNTEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/moon/</link>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS3.0.9.0.WOJMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.3.0.WNLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
@@ -552,11 +587,6 @@
             <pubDate>Fri, 16 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS3.0.8.0.WOJMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
-            <pubDate>Fri, 16 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi A5/POCO C71 (serenity) - A15.0.12.0.VGWEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
             <pubDate>Fri, 16 Jan 2026 00:00:00 </pubDate>
@@ -624,11 +654,6 @@
         <item>
             <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.20.0.WPKCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
-            <pubDate>Mon, 12 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS3.0.1.0.WNUCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
             <pubDate>Mon, 12 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -872,11 +897,6 @@
             <pubDate>Tue, 06 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 13/POCO M6 (moon) - OS3.0.2.0.WNTEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/moon/</link>
-            <pubDate>Tue, 06 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>POCO X5 5G (moonstone) - OS1.0.25.0.UMPEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moonstone/</link>
             <pubDate>Tue, 06 Jan 2026 00:00:00 </pubDate>
@@ -914,11 +934,6 @@
         <item>
             <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS3.0.3.0.WOMMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/miro/</link>
-            <pubDate>Sun, 04 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 13/POCO M6 (moon) - OS3.0.5.0.WNTMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/moon/</link>
             <pubDate>Sun, 04 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1307,11 +1322,6 @@
             <pubDate>Fri, 19 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.2.0.WOOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
-            <pubDate>Fri, 19 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 7 Pro (muyu) - OS3.0.4.0.WOYEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
             <pubDate>Fri, 19 Dec 2025 00:00:00 </pubDate>
@@ -1324,11 +1334,6 @@
         <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS3.0.2.0.WNRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
-            <pubDate>Thu, 18 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Ultra (ishtar) - OS3.0.3.0.WMACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
             <pubDate>Thu, 18 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1440,11 +1445,6 @@
             <title>Redmi 13C/POCO C65 (gale) - OS2.0.203.0.VGPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gale/</link>
             <pubDate>Sun, 16 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A3x (klein) - V816.0.1.0.WGSMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/klein/</link>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 11T Pro (vili) - OS1.0.22.0.UKDINXM</title>
