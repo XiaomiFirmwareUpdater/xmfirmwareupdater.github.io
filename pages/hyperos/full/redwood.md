@@ -52,7 +52,9 @@ permalink: /archive/hyperos/redwood/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO X5 Pro 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.12.0.UMSTRXM</td><td>14.0</td><td>5.3 GB</td><td>2026-01-14</td><td><a href="/hyperos/redwood/stable/OS2.0.12.0.UMSTRXM/">Download</a></td></tr>
+                <tr><td>POCO X5 Pro 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.13.0.UMSIDXM</td><td>14.0</td><td>5.3 GB</td><td>2026-01-30</td><td><a href="/hyperos/redwood/stable/OS2.0.13.0.UMSIDXM/">Download</a></td></tr>
+<tr><td>POCO X5 Pro 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.13.0.UMSIDXM</td><td>14.0</td><td>7.4 GB</td><td>2026-01-15</td><td><a href="/hyperos/redwood/stable/OS2.0.13.0.UMSIDXM/">Download</a></td></tr>
+<tr><td>POCO X5 Pro 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.12.0.UMSTRXM</td><td>14.0</td><td>5.3 GB</td><td>2026-01-14</td><td><a href="/hyperos/redwood/stable/OS2.0.12.0.UMSTRXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.12.0.UMSTRXM</td><td>14.0</td><td>7.1 GB</td><td>2025-12-30</td><td><a href="/hyperos/redwood/stable/OS2.0.12.0.UMSTRXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.12.0.UMSTWXM</td><td>14.0</td><td>5.0 GB</td><td>2026-01-14</td><td><a href="/hyperos/redwood/stable/OS2.0.12.0.UMSTWXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.12.0.UMSTWXM</td><td>14.0</td><td>6.5 GB</td><td>2025-12-30</td><td><a href="/hyperos/redwood/stable/OS2.0.12.0.UMSTWXM/">Download</a></td></tr>
