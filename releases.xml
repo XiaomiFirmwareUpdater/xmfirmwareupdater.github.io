@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 07 Feb 2026 06:49:19 </lastBuildDate>
+        <lastBuildDate>Sat, 07 Feb 2026 12:51:35 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS3.0.3.0.WMLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/corot/</link>
+            <pubDate>Sat, 07 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS3.0.3.0.WPWCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flute/</link>
             <pubDate>Sat, 07 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -330,11 +335,6 @@
             <title>MIX Fold 3 (babylon) - OS3.0.6.0.WMVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
             <pubDate>Fri, 30 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS3.0.2.0.WPWCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flute/</link>
-            <pubDate>Thu, 29 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.8.0.WOOMIXM</title>
