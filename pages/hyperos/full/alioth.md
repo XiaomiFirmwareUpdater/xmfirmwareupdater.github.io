@@ -52,7 +52,8 @@ permalink: /archive/hyperos/alioth/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F3 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.TKHMIXM</td><td>13.0</td><td>4.0 GB</td><td>2026-01-26</td><td><a href="/hyperos/alioth/stable beta/OS1.0.5.0.TKHMIXM/">Download</a></td></tr>
+                <tr><td>POCO F3 Global</td><td>Stable</td><td>Recovery</td><td>OS1.0.5.0.TKHMIXM</td><td>13.0</td><td>4.0 GB</td><td>2026-01-26</td><td><a href="/hyperos/alioth/stable/OS1.0.5.0.TKHMIXM/">Download</a></td></tr>
+<tr><td>POCO F3 Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.5.0.TKHMIXM</td><td>13.0</td><td>5.5 GB</td><td>2026-01-12</td><td><a href="/hyperos/alioth/stable/OS1.0.5.0.TKHMIXM/">Download</a></td></tr>
 <tr><td>POCO F3 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.3.0.TKHEUXM</td><td>13.0</td><td>4.0 GB</td><td>2024-08-15</td><td><a href="/hyperos/alioth/stable/OS1.0.3.0.TKHEUXM/">Download</a></td></tr>
 <tr><td>POCO F3 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.3.0.TKHEUXM</td><td>13.0</td><td>5.5 GB</td><td>2024-07-31</td><td><a href="/hyperos/alioth/stable/OS1.0.3.0.TKHEUXM/">Download</a></td></tr>
 <tr><td>POCO F3 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.2.0.TKHEUXM</td><td>13.0</td><td>4.0 GB</td><td>2024-07-08</td><td><a href="/hyperos/alioth/stable/OS1.0.2.0.TKHEUXM/">Download</a></td></tr>

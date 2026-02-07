@@ -979,15 +979,15 @@
     android: '15.0'
     miui: OS2.0.206.0.VPFEUXM
 - branch: stable
-  date: '2026-01-16'
+  date: '2026-02-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-16.01.2026/fw_chenfeng_chenfeng-ota_full-OS3.0.5.0.WNJCNXM-user-16.0-9ef562ccd2.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chenfeng/fw_chenfeng_chenfeng-ota_full-OS3.0.5.0.WNJCNXM-user-16.0-9ef562ccd2.zip
-  filename: fw_chenfeng_chenfeng-ota_full-OS3.0.5.0.WNJCNXM-user-16.0-9ef562ccd2.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-07.02.2026/fw_chenfeng_chenfeng-ota_full-OS3.0.6.0.WNJCNXM-user-16.0-bb71a14e81.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chenfeng/fw_chenfeng_chenfeng-ota_full-OS3.0.6.0.WNJCNXM-user-16.0-bb71a14e81.zip
+  filename: fw_chenfeng_chenfeng-ota_full-OS3.0.6.0.WNJCNXM-user-16.0-bb71a14e81.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.5.0.WNJCNXM
+    miui: OS3.0.6.0.WNJCNXM
 - branch: stable
   date: '2025-11-27'
   downloads:
@@ -4779,15 +4779,15 @@
     android: '14.0'
     miui: OS2.0.12.0.UMZMIXM
 - branch: stable
-  date: '2025-12-30'
+  date: '2026-02-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-30.12.2025/fw_pipa_pipa-ota_full-OS2.0.16.0.UMZCNXM-user-14.0-53795f260f.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/pipa/fw_pipa_pipa-ota_full-OS2.0.16.0.UMZCNXM-user-14.0-53795f260f.zip
-  filename: fw_pipa_pipa-ota_full-OS2.0.16.0.UMZCNXM-user-14.0-53795f260f.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-07.02.2026/fw_pipa_pipa-ota_full-OS2.0.19.0.UMZCNXM-user-14.0-e1ea6f0555.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/pipa/fw_pipa_pipa-ota_full-OS2.0.19.0.UMZCNXM-user-14.0-e1ea6f0555.zip
+  filename: fw_pipa_pipa-ota_full-OS2.0.19.0.UMZCNXM-user-14.0-e1ea6f0555.zip
   region: China
   versions:
     android: '14.0'
-    miui: OS2.0.16.0.UMZCNXM
+    miui: OS2.0.19.0.UMZCNXM
 - branch: stable
   date: '2025-12-29'
   downloads:

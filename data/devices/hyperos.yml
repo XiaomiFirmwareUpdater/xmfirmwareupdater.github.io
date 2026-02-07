@@ -2536,6 +2536,12 @@
   download: https://bigota.d.miui.com/OS1.0.14.0.UNJCNXM/fw_chenfeng_miui_CHENFENG_OS1.0.14.0.UNJCNXM_2d59188198_14.0.zip
   name: Xiaomi Civi 4 Pro
   version: OS1.0.14.0.UNJCNXM
+- android: '16.0'
+  codename: chenfeng
+  date: '2026-02-07'
+  download: https://bigota.d.miui.com/OS3.0.6.0.WNJCNXM/fw_chenfeng_chenfeng-ota_full-OS3.0.6.0.WNJCNXM-user-16.0-bb71a14e81.zip
+  name: Xiaomi Civi 4 Pro
+  version: OS3.0.6.0.WNJCNXM
 - android: '14.0'
   codename: chenfeng
   date: '2025-01-07'
@@ -16312,6 +16318,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.5.0.UMZCNXM_aa9825df2f_14.0.zip
   name: Xiaomi Pad 6
   version: OS1.0.5.0.UMZCNXM
+- android: '14.0'
+  codename: pipa
+  date: '2026-02-07'
+  download: https://bigota.d.miui.com/OS2.0.19.0.UMZCNXM/fw_pipa_pipa-ota_full-OS2.0.19.0.UMZCNXM-user-14.0-e1ea6f0555.zip
+  name: Xiaomi Pad 6
+  version: OS2.0.19.0.UMZCNXM
 - android: '14.0'
   codename: pipa
   date: '2024-08-06'
