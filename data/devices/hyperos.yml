@@ -2848,6 +2848,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMLEUXM/fw_corot_miui_COROTEEAGlobal_OS1.0.4.0.UMLEUXM_71d7dc436c_14.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
   version: OS1.0.4.0.UMLEUXM
+- android: '16.0'
+  codename: corot
+  date: '2026-02-07'
+  download: https://bigota.d.miui.com/OS3.0.3.0.WMLCNXM/fw_corot_corot-ota_full-OS3.0.3.0.WMLCNXM-user-16.0-0c145b73d2.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS3.0.3.0.WMLCNXM
 - android: '15.0'
   codename: corot
   date: '2026-01-06'

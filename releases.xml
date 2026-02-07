@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 07 Feb 2026 00:42:58 </lastBuildDate>
+        <lastBuildDate>Sat, 07 Feb 2026 06:49:19 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS3.0.3.0.WMLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/corot/</link>
+            <pubDate>Sat, 07 Feb 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS3.0.2.0.WNUCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
@@ -1400,11 +1405,6 @@
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.30.0.TGOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/water/</link>
             <pubDate>Wed, 03 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS2.0.211.0.VMLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Sat, 29 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 14 (houji) - OS2.0.207.0.VNCINXM</title>
