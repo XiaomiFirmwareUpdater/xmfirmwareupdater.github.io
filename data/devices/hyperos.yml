@@ -13164,6 +13164,12 @@
   version: OS1.0.16.0.UMNCNXM
 - android: '15.0'
   codename: mondrian
+  date: '2026-02-09'
+  download: https://bigota.d.miui.com/OS3.0.5.0.VMNCNXM/fw_mondrian_mondrian-ota_full-OS3.0.5.0.VMNCNXM-user-15.0-d9db2e6dd9.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS3.0.5.0.VMNCNXM
+- android: '15.0'
+  codename: mondrian
   date: '2026-01-07'
   download: https://bigota.d.miui.com/OS2.0.209.0.VMNEUXM/fw_mondrian_mondrian_eea_global-ota_full-OS2.0.209.0.VMNEUXM-user-15.0-233cd9a7c0.zip
   name: Redmi K60/POCO F5 Pro
@@ -14212,6 +14218,12 @@
   download: https://bigota.d.miui.com/OS3.0.14.0.WPMCNXM/fw_myron_myron-ota_full-OS3.0.14.0.WPMCNXM-user-16.0-e7b2bab2c8.zip
   name: Redmi K90 Pro Max/POCO F8 Ultra
   version: OS3.0.14.0.WPMCNXM
+- android: '16.0'
+  codename: myron
+  date: '2026-02-09'
+  download: https://bigota.d.miui.com/OS3.0.23.0.WPMCNXM/fw_myron_myron-ota_full-OS3.0.23.0.WPMCNXM-user-16.0-a7aa1b5066.zip
+  name: Redmi K90 Pro Max/POCO F8 Ultra
+  version: OS3.0.23.0.WPMCNXM
 - android: '16.0'
   codename: myron
   date: '2026-01-09'
@@ -23302,6 +23314,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VOZCNXM/fw_uke_uke-ota_full-OS2.0.202.0.VOZCNXM-user-15.0-92b8c5ed49.zip
   name: Xiaomi Pad 7/POCO Pad X1
   version: OS2.0.202.0.VOZCNXM
+- android: '16.0'
+  codename: uke
+  date: '2026-02-09'
+  download: https://bigota.d.miui.com/OS3.0.8.0.WOZMIXM/fw_uke_uke_global-ota_full-OS3.0.8.0.WOZMIXM-user-16.0-9dd9e5c41a.zip
+  name: Xiaomi Pad 7/POCO Pad X1
+  version: OS3.0.8.0.WOZMIXM
 - android: '15.0'
   codename: uke
   date: '2025-05-07'

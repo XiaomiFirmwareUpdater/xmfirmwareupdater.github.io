@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 09 Feb 2026 16:05:43 </lastBuildDate>
+        <lastBuildDate>Mon, 09 Feb 2026 19:11:46 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.24.0.WPKCNXM</title>
@@ -52,8 +52,18 @@
             <pubDate>Mon, 09 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi K60/POCO F5 Pro (mondrian) - OS3.0.5.0.VMNCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
+            <pubDate>Mon, 09 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Xiaomi Pad 7 Pro (muyu) - OS3.0.5.0.WOYEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
+            <pubDate>Mon, 09 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K90 Pro Max/POCO F8 Ultra (myron) - OS3.0.23.0.WPMCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/myron/</link>
             <pubDate>Mon, 09 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -69,6 +79,11 @@
         <item>
             <title>Redmi Pad 2 (taiko) - OS3.0.1.0.WOVINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
+            <pubDate>Mon, 09 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS3.0.8.0.WOZMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/uke/</link>
             <pubDate>Mon, 09 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -587,11 +602,6 @@
             <pubDate>Fri, 23 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K60/POCO F5 Pro (mondrian) - OS3.0.4.0.VMNCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
-            <pubDate>Fri, 23 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.6.0.WNKMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Thu, 22 Jan 2026 00:00:00 </pubDate>
@@ -1017,11 +1027,6 @@
             <pubDate>Thu, 01 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K90 Pro Max/POCO F8 Ultra (myron) - OS3.0.20.0.WPMCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/myron/</link>
-            <pubDate>Thu, 01 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad SE 8.7 4G (spark) - OS2.0.206.0.VHYEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spark/</link>
             <pubDate>Thu, 01 Jan 2026 00:00:00 </pubDate>
@@ -1400,11 +1405,6 @@
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.3.0.WNLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Fri, 12 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS3.0.4.0.WOZMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/uke/</link>
-            <pubDate>Wed, 03 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.30.0.TGOEUXM</title>
