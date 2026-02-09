@@ -52,10 +52,10 @@ permalink: /archive/hyperos/peridot/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WNPCNXM</td><td>16.0</td><td>7.0 GB</td><td>2026-01-16</td><td><a href="/hyperos/peridot/stable/OS3.0.6.0.WNPCNXM/">Download</a></td></tr>
+                <tr><td>POCO F6 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WNPTWXM</td><td>16.0</td><td>6.1 GB</td><td>2026-01-29</td><td><a href="/hyperos/peridot/stable/OS3.0.2.0.WNPTWXM/">Download</a></td></tr>
+<tr><td>POCO F6 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WNPTWXM</td><td>16.0</td><td>7.5 GB</td><td>2026-01-14</td><td><a href="/hyperos/peridot/stable/OS3.0.2.0.WNPTWXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WNPCNXM</td><td>16.0</td><td>7.0 GB</td><td>2026-01-16</td><td><a href="/hyperos/peridot/stable/OS3.0.6.0.WNPCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WNPCNXM</td><td>16.0</td><td>8.7 GB</td><td>2026-01-08</td><td><a href="/hyperos/peridot/stable/OS3.0.6.0.WNPCNXM/">Download</a></td></tr>
-<tr><td>POCO F6 EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WNPEUXM</td><td>16.0</td><td>6.3 GB</td><td>2025-12-31</td><td><a href="/hyperos/peridot/stable/OS3.0.3.0.WNPEUXM/">Download</a></td></tr>
-<tr><td>POCO F6 EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WNPEUXM</td><td>16.0</td><td>8.6 GB</td><td>2025-12-29</td><td><a href="/hyperos/peridot/stable/OS3.0.3.0.WNPEUXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WNPCNXM</td><td>16.0</td><td>7.0 GB</td><td>2025-12-29</td><td><a href="/hyperos/peridot/stable/OS3.0.5.0.WNPCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WNPCNXM</td><td>16.0</td><td>8.7 GB</td><td>2025-12-29</td><td><a href="/hyperos/peridot/stable/OS3.0.5.0.WNPCNXM/">Download</a></td></tr>
 <tr><td>POCO F6 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VNPMIXM</td><td>15.0</td><td>6.1 GB</td><td>2025-12-23</td><td><a href="/hyperos/peridot/stable/OS2.0.208.0.VNPMIXM/">Download</a></td></tr>
@@ -68,6 +68,8 @@ permalink: /archive/hyperos/peridot/
 <tr><td>POCO F6 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VNPIDXM</td><td>15.0</td><td>8.5 GB</td><td>2025-12-15</td><td><a href="/hyperos/peridot/stable/OS2.0.207.0.VNPIDXM/">Download</a></td></tr>
 <tr><td>POCO F6 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VNPRUXM</td><td>15.0</td><td>6.0 GB</td><td>2025-12-22</td><td><a href="/hyperos/peridot/stable/OS2.0.207.0.VNPRUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VNPRUXM</td><td>15.0</td><td>9.3 GB</td><td>2025-12-15</td><td><a href="/hyperos/peridot/stable/OS2.0.207.0.VNPRUXM/">Download</a></td></tr>
+<tr><td>POCO F6 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WNPRUXM</td><td>16.0</td><td>6.2 GB</td><td>2026-01-29</td><td><a href="/hyperos/peridot/stable/OS3.0.2.0.WNPRUXM/">Download</a></td></tr>
+<tr><td>POCO F6 Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WNPRUXM</td><td>16.0</td><td>9.5 GB</td><td>2026-01-13</td><td><a href="/hyperos/peridot/stable/OS3.0.2.0.WNPRUXM/">Download</a></td></tr>
 <tr><td>POCO F6 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VNPEUXM</td><td>15.0</td><td>6.1 GB</td><td>2025-11-24</td><td><a href="/hyperos/peridot/stable/OS2.0.207.0.VNPEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VNPEUXM</td><td>15.0</td><td>8.4 GB</td><td>2025-10-31</td><td><a href="/hyperos/peridot/stable/OS2.0.207.0.VNPEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VNPTWXM</td><td>15.0</td><td>5.9 GB</td><td>2025-11-17</td><td><a href="/hyperos/peridot/stable/OS2.0.205.0.VNPTWXM/">Download</a></td></tr>
@@ -96,6 +98,8 @@ permalink: /archive/hyperos/peridot/
 <tr><td>POCO F6 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VNPEUXM</td><td>15.0</td><td>8.4 GB</td><td>2025-09-28</td><td><a href="/hyperos/peridot/stable/OS2.0.206.0.VNPEUXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VNPCNXM</td><td>15.0</td><td>6.9 GB</td><td>2025-10-13</td><td><a href="/hyperos/peridot/stable/OS2.0.206.0.VNPCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VNPCNXM</td><td>15.0</td><td>8.6 GB</td><td>2025-09-28</td><td><a href="/hyperos/peridot/stable/OS2.0.206.0.VNPCNXM/">Download</a></td></tr>
+<tr><td>POCO F6 EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WNPEUXM</td><td>16.0</td><td>6.3 GB</td><td>2025-12-31</td><td><a href="/hyperos/peridot/stable/OS3.0.3.0.WNPEUXM/">Download</a></td></tr>
+<tr><td>POCO F6 EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WNPEUXM</td><td>16.0</td><td>8.6 GB</td><td>2025-12-29</td><td><a href="/hyperos/peridot/stable/OS3.0.3.0.WNPEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VNPEUXM</td><td>15.0</td><td>6.1 GB</td><td>2025-09-23</td><td><a href="/hyperos/peridot/stable/OS2.0.205.0.VNPEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VNPEUXM</td><td>15.0</td><td>8.4 GB</td><td>2025-09-05</td><td><a href="/hyperos/peridot/stable/OS2.0.205.0.VNPEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VNPIDXM</td><td>15.0</td><td>6.1 GB</td><td>2025-09-17</td><td><a href="/hyperos/peridot/stable/OS2.0.203.0.VNPIDXM/">Download</a></td></tr>
@@ -128,16 +132,10 @@ permalink: /archive/hyperos/peridot/
 <tr><td>POCO F6 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.200.0.VNPRUXM</td><td>15.0</td><td>9.3 GB</td><td>2025-07-16</td><td><a href="/hyperos/peridot/stable/OS2.0.200.0.VNPRUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.200.0.VNPTWXM</td><td>15.0</td><td>5.9 GB</td><td>2025-08-06</td><td><a href="/hyperos/peridot/stable/OS2.0.200.0.VNPTWXM/">Download</a></td></tr>
 <tr><td>POCO F6 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.200.0.VNPTWXM</td><td>15.0</td><td>7.4 GB</td><td>2025-07-16</td><td><a href="/hyperos/peridot/stable/OS2.0.200.0.VNPTWXM/">Download</a></td></tr>
-<tr><td>POCO F6 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.200.0.VNPIDXM</td><td>15.0</td><td>6.1 GB</td><td>2025-07-28</td><td><a href="/hyperos/peridot/stable/OS2.0.200.0.VNPIDXM/">Download</a></td></tr>
-<tr><td>POCO F6 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.200.0.VNPIDXM</td><td>15.0</td><td>8.5 GB</td><td>2025-07-16</td><td><a href="/hyperos/peridot/stable/OS2.0.200.0.VNPIDXM/">Download</a></td></tr>
-<tr><td>POCO F6 India</td><td>Stable</td><td>Recovery</td><td>OS2.0.200.0.VNPINXM</td><td>15.0</td><td>5.9 GB</td><td>2025-07-28</td><td><a href="/hyperos/peridot/stable/OS2.0.200.0.VNPINXM/">Download</a></td></tr>
-<tr><td>POCO F6 India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.200.0.VNPINXM</td><td>15.0</td><td>7.7 GB</td><td>2025-07-16</td><td><a href="/hyperos/peridot/stable/OS2.0.200.0.VNPINXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VNPCNXM</td><td>15.0</td><td>6.9 GB</td><td>2025-07-15</td><td><a href="/hyperos/peridot/stable/OS2.0.203.0.VNPCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VNPCNXM</td><td>15.0</td><td>8.6 GB</td><td>2025-07-08</td><td><a href="/hyperos/peridot/stable/OS2.0.203.0.VNPCNXM/">Download</a></td></tr>
-<tr><td>POCO F6 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VNPEUXM</td><td>15.0</td><td>6.1 GB</td><td>2025-07-23</td><td><a href="/hyperos/peridot/stable/OS2.0.202.0.VNPEUXM/">Download</a></td></tr>
-<tr><td>POCO F6 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VNPEUXM</td><td>15.0</td><td>8.5 GB</td><td>2025-07-16</td><td><a href="/hyperos/peridot/stable/OS2.0.202.0.VNPEUXM/">Download</a></td></tr>
-<tr><td>POCO F6 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VNPMIXM</td><td>15.0</td><td>6.1 GB</td><td>2025-07-23</td><td><a href="/hyperos/peridot/stable/OS2.0.202.0.VNPMIXM/">Download</a></td></tr>
-<tr><td>POCO F6 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VNPMIXM</td><td>15.0</td><td>9.1 GB</td><td>2025-07-16</td><td><a href="/hyperos/peridot/stable/OS2.0.202.0.VNPMIXM/">Download</a></td></tr>
+<tr><td>POCO F6 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.200.0.VNPIDXM</td><td>15.0</td><td>6.1 GB</td><td>2025-07-28</td><td><a href="/hyperos/peridot/stable/OS2.0.200.0.VNPIDXM/">Download</a></td></tr>
+<tr><td>POCO F6 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.200.0.VNPIDXM</td><td>15.0</td><td>8.5 GB</td><td>2025-07-16</td><td><a href="/hyperos/peridot/stable/OS2.0.200.0.VNPIDXM/">Download</a></td></tr>
 <tr><td>POCO F6 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.104.0.VNPTWXM</td><td>15.0</td><td>5.9 GB</td><td>2025-06-22</td><td><a href="/hyperos/peridot/stable/OS2.0.104.0.VNPTWXM/">Download</a></td></tr>
 <tr><td>POCO F6 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.104.0.VNPTWXM</td><td>15.0</td><td>7.6 GB</td><td>2025-06-10</td><td><a href="/hyperos/peridot/stable/OS2.0.104.0.VNPTWXM/">Download</a></td></tr>
 <tr><td>POCO F6 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.104.0.VNPRUXM</td><td>15.0</td><td>6.0 GB</td><td>2025-06-22</td><td><a href="/hyperos/peridot/stable/OS2.0.104.0.VNPRUXM/">Download</a></td></tr>
@@ -148,8 +146,14 @@ permalink: /archive/hyperos/peridot/
 <tr><td>POCO F6 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.104.0.VNPIDXM</td><td>15.0</td><td>8.5 GB</td><td>2025-06-10</td><td><a href="/hyperos/peridot/stable/OS2.0.104.0.VNPIDXM/">Download</a></td></tr>
 <tr><td>POCO F6 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.109.0.VNPEUXM</td><td>15.0</td><td>6.0 GB</td><td>2025-06-17</td><td><a href="/hyperos/peridot/stable/OS2.0.109.0.VNPEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.109.0.VNPEUXM</td><td>15.0</td><td>8.6 GB</td><td>2025-06-10</td><td><a href="/hyperos/peridot/stable/OS2.0.109.0.VNPEUXM/">Download</a></td></tr>
+<tr><td>POCO F6 India</td><td>Stable</td><td>Recovery</td><td>OS2.0.200.0.VNPINXM</td><td>15.0</td><td>5.9 GB</td><td>2025-07-28</td><td><a href="/hyperos/peridot/stable/OS2.0.200.0.VNPINXM/">Download</a></td></tr>
+<tr><td>POCO F6 India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.200.0.VNPINXM</td><td>15.0</td><td>7.7 GB</td><td>2025-07-16</td><td><a href="/hyperos/peridot/stable/OS2.0.200.0.VNPINXM/">Download</a></td></tr>
+<tr><td>POCO F6 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VNPEUXM</td><td>15.0</td><td>6.1 GB</td><td>2025-07-23</td><td><a href="/hyperos/peridot/stable/OS2.0.202.0.VNPEUXM/">Download</a></td></tr>
+<tr><td>POCO F6 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VNPEUXM</td><td>15.0</td><td>8.5 GB</td><td>2025-07-16</td><td><a href="/hyperos/peridot/stable/OS2.0.202.0.VNPEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.105.0.VNPMIXM</td><td>15.0</td><td>6.0 GB</td><td>2025-06-17</td><td><a href="/hyperos/peridot/stable/OS2.0.105.0.VNPMIXM/">Download</a></td></tr>
 <tr><td>POCO F6 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.105.0.VNPMIXM</td><td>15.0</td><td>9.2 GB</td><td>2025-06-10</td><td><a href="/hyperos/peridot/stable/OS2.0.105.0.VNPMIXM/">Download</a></td></tr>
+<tr><td>POCO F6 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VNPMIXM</td><td>15.0</td><td>6.1 GB</td><td>2025-07-23</td><td><a href="/hyperos/peridot/stable/OS2.0.202.0.VNPMIXM/">Download</a></td></tr>
+<tr><td>POCO F6 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VNPMIXM</td><td>15.0</td><td>9.1 GB</td><td>2025-07-16</td><td><a href="/hyperos/peridot/stable/OS2.0.202.0.VNPMIXM/">Download</a></td></tr>
 <tr><td>POCO F6 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.104.0.VNPMIXM</td><td>15.0</td><td>6.0 GB</td><td>2025-05-24</td><td><a href="/hyperos/peridot/stable/OS2.0.104.0.VNPMIXM/">Download</a></td></tr>
 <tr><td>POCO F6 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.104.0.VNPMIXM</td><td>15.0</td><td>9.3 GB</td><td>2025-05-14</td><td><a href="/hyperos/peridot/stable/OS2.0.104.0.VNPMIXM/">Download</a></td></tr>
 <tr><td>POCO F6 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.103.0.VNPIDXM</td><td>15.0</td><td>6.0 GB</td><td>2025-05-24</td><td><a href="/hyperos/peridot/stable/OS2.0.103.0.VNPIDXM/">Download</a></td></tr>
@@ -158,8 +162,6 @@ permalink: /archive/hyperos/peridot/
 <tr><td>POCO F6 India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.104.0.VNPINXM</td><td>15.0</td><td>7.7 GB</td><td>2025-05-14</td><td><a href="/hyperos/peridot/stable/OS2.0.104.0.VNPINXM/">Download</a></td></tr>
 <tr><td>POCO F6 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.103.0.VNPRUXM</td><td>15.0</td><td>6.0 GB</td><td>2025-05-24</td><td><a href="/hyperos/peridot/stable/OS2.0.103.0.VNPRUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.103.0.VNPRUXM</td><td>15.0</td><td>9.2 GB</td><td>2025-05-14</td><td><a href="/hyperos/peridot/stable/OS2.0.103.0.VNPRUXM/">Download</a></td></tr>
-<tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VNPCNXM</td><td>15.0</td><td>6.9 GB</td><td>2025-06-16</td><td><a href="/hyperos/peridot/stable/OS2.0.201.0.VNPCNXM/">Download</a></td></tr>
-<tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VNPCNXM</td><td>15.0</td><td>8.6 GB</td><td>2025-06-10</td><td><a href="/hyperos/peridot/stable/OS2.0.201.0.VNPCNXM/">Download</a></td></tr>
 <tr><td>POCO F6 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.103.0.VNPTWXM</td><td>15.0</td><td>5.9 GB</td><td>2025-05-24</td><td><a href="/hyperos/peridot/stable/OS2.0.103.0.VNPTWXM/">Download</a></td></tr>
 <tr><td>POCO F6 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.103.0.VNPTWXM</td><td>15.0</td><td>7.8 GB</td><td>2025-05-14</td><td><a href="/hyperos/peridot/stable/OS2.0.103.0.VNPTWXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.107.0.VNPCNXM</td><td>15.0</td><td>8.6 GB</td><td>2025-05-20</td><td><a href="/hyperos/peridot/stable/OS2.0.107.0.VNPCNXM/">Download</a></td></tr>
@@ -178,6 +180,8 @@ permalink: /archive/hyperos/peridot/
 <tr><td>POCO F6 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.107.0.VNPEUXM</td><td>15.0</td><td>6.0 GB</td><td>2025-04-24</td><td><a href="/hyperos/peridot/stable/OS2.0.107.0.VNPEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VNPIDXM</td><td>15.0</td><td>6.0 GB</td><td>2025-05-07</td><td><a href="/hyperos/peridot/stable/OS2.0.102.0.VNPIDXM/">Download</a></td></tr>
 <tr><td>POCO F6 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VNPIDXM</td><td>15.0</td><td>8.5 GB</td><td>2025-04-23</td><td><a href="/hyperos/peridot/stable/OS2.0.102.0.VNPIDXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VNPCNXM</td><td>15.0</td><td>6.9 GB</td><td>2025-06-16</td><td><a href="/hyperos/peridot/stable/OS2.0.201.0.VNPCNXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VNPCNXM</td><td>15.0</td><td>8.6 GB</td><td>2025-06-10</td><td><a href="/hyperos/peridot/stable/OS2.0.201.0.VNPCNXM/">Download</a></td></tr>
 <tr><td>POCO F6 India</td><td>Stable</td><td>Recovery</td><td>OS2.0.103.0.VNPINXM</td><td>15.0</td><td>5.9 GB</td><td>2025-05-06</td><td><a href="/hyperos/peridot/stable/OS2.0.103.0.VNPINXM/">Download</a></td></tr>
 <tr><td>POCO F6 India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.103.0.VNPINXM</td><td>15.0</td><td>7.7 GB</td><td>2025-04-23</td><td><a href="/hyperos/peridot/stable/OS2.0.103.0.VNPINXM/">Download</a></td></tr>
 <tr><td>POCO F6 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VNPMIXM</td><td>15.0</td><td>9.2 GB</td><td>2025-04-23</td><td><a href="/hyperos/peridot/stable/OS2.0.102.0.VNPMIXM/">Download</a></td></tr>
