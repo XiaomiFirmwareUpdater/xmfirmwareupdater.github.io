@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2026-02-05'
+  date: '2026-02-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taiko/releases/download/stable-05.02.2026/fw_taiko_taiko_global-ota_full-OS3.0.1.0.WOVMIXM-user-16.0-237a0fd811.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/taiko/fw_taiko_taiko_global-ota_full-OS3.0.1.0.WOVMIXM-user-16.0-237a0fd811.zip
-  filename: fw_taiko_taiko_global-ota_full-OS3.0.1.0.WOVMIXM-user-16.0-237a0fd811.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taiko/releases/download/stable-09.02.2026/fw_taiko_taiko_global-ota_full-OS3.0.2.0.WOVMIXM-user-16.0-39734ce6e9.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/taiko/fw_taiko_taiko_global-ota_full-OS3.0.2.0.WOVMIXM-user-16.0-39734ce6e9.zip
+  filename: fw_taiko_taiko_global-ota_full-OS3.0.2.0.WOVMIXM-user-16.0-39734ce6e9.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.1.0.WOVMIXM
+    miui: OS3.0.2.0.WOVMIXM
 - branch: stable
   date: '2026-01-04'
   downloads:
@@ -29,12 +29,12 @@
     android: '16.0'
     miui: OS3.0.3.0.WOVEUXM
 - branch: stable
-  date: '2025-12-27'
+  date: '2026-02-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taiko/releases/download/stable-27.12.2025/fw_taiko_taiko_in_global-ota_full-OS2.0.207.0.VOVINXM-user-15.0-77b8b467c4.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/taiko/fw_taiko_taiko_in_global-ota_full-OS2.0.207.0.VOVINXM-user-15.0-77b8b467c4.zip
-  filename: fw_taiko_taiko_in_global-ota_full-OS2.0.207.0.VOVINXM-user-15.0-77b8b467c4.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taiko/releases/download/stable-09.02.2026/fw_taiko_taiko_in_global-ota_full-OS3.0.1.0.WOVINXM-user-16.0-5f92aa0550.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/taiko/fw_taiko_taiko_in_global-ota_full-OS3.0.1.0.WOVINXM-user-16.0-5f92aa0550.zip
+  filename: fw_taiko_taiko_in_global-ota_full-OS3.0.1.0.WOVINXM-user-16.0-5f92aa0550.zip
   region: India
   versions:
-    android: '15.0'
-    miui: OS2.0.207.0.VOVINXM
+    android: '16.0'
+    miui: OS3.0.1.0.WOVINXM

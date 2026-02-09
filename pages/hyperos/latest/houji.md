@@ -58,8 +58,8 @@ permalink: /hyperos/houji/
 <tr><td>Xiaomi 14 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.UNCCNXM</td><td>14.0</td><td>5.8 GB</td><td>2023-10-26</td><td><a href="/hyperos/houji/stable beta/OS1.0.6.0.UNCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.7.0.WNCEUXM</td><td>16.0</td><td>8.2 GB</td><td>2026-01-20</td><td><a href="/hyperos/houji/stable/OS3.0.7.0.WNCEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.7.0.WNCEUXM</td><td>16.0</td><td>6.5 GB</td><td>2026-01-29</td><td><a href="/hyperos/houji/stable/OS3.0.7.0.WNCEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14 Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WNCMIXM</td><td>16.0</td><td>8.8 GB</td><td>2025-12-15</td><td><a href="/hyperos/houji/stable/OS3.0.5.0.WNCMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14 Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WNCMIXM</td><td>16.0</td><td>6.4 GB</td><td>2025-12-22</td><td><a href="/hyperos/houji/stable/OS3.0.5.0.WNCMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WNCMIXM</td><td>16.0</td><td>8.8 GB</td><td>2026-01-15</td><td><a href="/hyperos/houji/stable/OS3.0.6.0.WNCMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WNCMIXM</td><td>16.0</td><td>6.4 GB</td><td>2026-01-29</td><td><a href="/hyperos/houji/stable/OS3.0.6.0.WNCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WNCIDXM</td><td>16.0</td><td>8.2 GB</td><td>2026-01-20</td><td><a href="/hyperos/houji/stable/OS3.0.4.0.WNCIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WNCIDXM</td><td>16.0</td><td>6.4 GB</td><td>2026-01-29</td><td><a href="/hyperos/houji/stable/OS3.0.4.0.WNCIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WNCINXM</td><td>16.0</td><td>7.1 GB</td><td>2026-01-22</td><td><a href="/hyperos/houji/stable/OS3.0.4.0.WNCINXM/">Download</a></td></tr>
