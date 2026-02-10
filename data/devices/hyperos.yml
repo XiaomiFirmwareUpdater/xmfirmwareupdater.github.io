@@ -3592,6 +3592,12 @@
   download: https://bigota.d.miui.com/OS2.0.222.0.WOCEUXM/fw_dada_eea_global_dada_eea_global-ota_full-OS2.0.222.0.WOCEUXM-user-16.0-15842dc653.zip
   name: Xiaomi 15
   version: OS2.0.222.0.WOCEUXM
+- android: '16.0'
+  codename: dada
+  date: '2026-02-10'
+  download: https://bigota.d.miui.com/OS3.0.8.0.WOCEUXM/fw_dada_dada_eea_global-ota_full-OS3.0.8.0.WOCEUXM-user-16.0-0285ce4b2e.zip
+  name: Xiaomi 15
+  version: OS3.0.8.0.WOCEUXM
 - android: '15.0'
   codename: dada
   date: '2025-08-09'
