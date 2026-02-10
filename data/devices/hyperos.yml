@@ -15826,6 +15826,12 @@
   download: https://bigota.d.miui.com/OS2.0.100.0.VNPMIXM/fw_peridot_global_peridot_global-ota_full-OS2.0.100.0.VNPMIXM-user-15.0-1ac00aa063.zip
   name: Redmi Turbo 3/POCO F6
   version: OS2.0.100.0.VNPMIXM
+- android: '16.0'
+  codename: peridot
+  date: '2026-02-10'
+  download: https://bigota.d.miui.com/OS3.0.7.0.WNPCNXM/fw_peridot_peridot-ota_full-OS3.0.7.0.WNPCNXM-user-16.0-8c47adea7a.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS3.0.7.0.WNPCNXM
 - android: '15.0'
   codename: peridot
   date: '2025-06-09'
@@ -24586,6 +24592,12 @@
   download: https://bigota.d.miui.com/OS2.0.208.0.VOTCNXM/fw_violin_violin-ota_full-OS2.0.208.0.VOTCNXM-user-15.0-2fdf4996f7.zip
   name: Xiaomi Pad 7S Pro 12.5
   version: OS2.0.208.0.VOTCNXM
+- android: '16.0'
+  codename: violin
+  date: '2026-02-10'
+  download: https://bigota.d.miui.com/OS3.0.10.0.WOTCNXM/fw_violin_violin-ota_full-OS3.0.10.0.WOTCNXM-user-16.0-786c3a0c26.zip
+  name: Xiaomi Pad 7S Pro 12.5
+  version: OS3.0.10.0.WOTCNXM
 - android: '16.0'
   codename: violin
   date: '2026-01-07'

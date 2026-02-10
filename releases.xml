@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 10 Feb 2026 01:15:57 </lastBuildDate>
+        <lastBuildDate>Tue, 10 Feb 2026 07:20:00 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Turbo 3/POCO F6 (peridot) - OS3.0.7.0.WNPCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
+            <pubDate>Tue, 10 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 7S Pro 12.5 (violin) - OS3.0.10.0.WOTCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/violin/</link>
+            <pubDate>Tue, 10 Feb 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.24.0.WPKCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
@@ -389,11 +399,6 @@
         <item>
             <title>Redmi Note 12T Pro (pearl) - OS3.0.1.0.VLHCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pearl/</link>
-            <pubDate>Wed, 04 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 3/POCO F6 (peridot) - OS3.0.6.0.WNPCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
             <pubDate>Wed, 04 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -929,11 +934,6 @@
         <item>
             <title>Redmi Note 14 Pro 4G (obsidian) - OS2.0.209.0.VOFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
-            <pubDate>Wed, 07 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 7S Pro 12.5 (violin) - OS3.0.8.0.WOTCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/violin/</link>
             <pubDate>Wed, 07 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>

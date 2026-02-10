@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2026-01-07'
+  date: '2026-02-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violin/releases/download/stable-08.01.2026/fw_violin_violin-ota_full-OS3.0.8.0.WOTCNXM-user-16.0-e613fe01ed.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/violin/fw_violin_violin-ota_full-OS3.0.8.0.WOTCNXM-user-16.0-e613fe01ed.zip
-  filename: fw_violin_violin-ota_full-OS3.0.8.0.WOTCNXM-user-16.0-e613fe01ed.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violin/releases/download/stable-10.02.2026/fw_violin_violin-ota_full-OS3.0.10.0.WOTCNXM-user-16.0-786c3a0c26.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/violin/fw_violin_violin-ota_full-OS3.0.10.0.WOTCNXM-user-16.0-786c3a0c26.zip
+  filename: fw_violin_violin-ota_full-OS3.0.10.0.WOTCNXM-user-16.0-786c3a0c26.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.8.0.WOTCNXM
+    miui: OS3.0.10.0.WOTCNXM
