@@ -17076,6 +17076,12 @@
   version: OS3.0.20.0.WPCCNXM
 - android: '16.0'
   codename: pudding
+  date: '2026-02-11'
+  download: https://bigota.d.miui.com/OS3.0.44.0.WPCCNXM/fw_pudding_pudding-ota_full-OS3.0.44.0.WPCCNXM-user-16.0-a95973ab2c.zip
+  name: Xiaomi 17
+  version: OS3.0.44.0.WPCCNXM
+- android: '16.0'
+  codename: pudding
   date: '2025-11-10'
   download: https://bigota.d.miui.com/OS3.0.30.0.WPCCNXM/fw_pudding_pudding-ota_full-OS3.0.30.0.WPCCNXM-user-16.0-1965e29755.zip
   name: Xiaomi 17

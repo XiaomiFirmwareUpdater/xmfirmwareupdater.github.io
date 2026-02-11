@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 11 Feb 2026 19:31:44 </lastBuildDate>
+        <lastBuildDate>Thu, 12 Feb 2026 00:54:15 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 14T (degas) - OS3.0.8.0.WNEEUXM</title>
@@ -19,6 +19,11 @@
         <item>
             <title>Xiaomi 17 Pro Max (popsicle) - OS3.0.45.0.WPBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/popsicle/</link>
+            <pubDate>Wed, 11 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17 (pudding) - OS3.0.44.0.WPCCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/pudding/</link>
             <pubDate>Wed, 11 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -194,11 +199,6 @@
         <item>
             <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS2.0.208.0.VPWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flute/</link>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17 (pudding) - OS3.0.41.0.WPCCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pudding/</link>
             <pubDate>Thu, 05 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
