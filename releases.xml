@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 11 Feb 2026 06:41:21 </lastBuildDate>
+        <lastBuildDate>Wed, 11 Feb 2026 13:02:51 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14T (degas) - OS3.0.8.0.WNEEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/degas/</link>
+            <pubDate>Wed, 11 Feb 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 15 (dada) - OS3.0.8.0.WOCEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dada/</link>
@@ -529,11 +534,6 @@
         <item>
             <title>Xiaomi 12 (cupid) - OS2.0.211.0.VLCEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/cupid/</link>
-            <pubDate>Mon, 26 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14T (degas) - OS3.0.6.0.WNEEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/degas/</link>
             <pubDate>Mon, 26 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
