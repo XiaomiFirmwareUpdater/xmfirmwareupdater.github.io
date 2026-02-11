@@ -15342,6 +15342,12 @@
   version: OS3.0.17.0.WBLCNXM
 - android: '16.0'
   codename: pandora
+  date: '2026-02-11'
+  download: https://bigota.d.miui.com/OS3.0.45.0.WBLCNXM/fw_pandora_pandora-ota_full-OS3.0.45.0.WBLCNXM-user-16.0-dc4cb87057.zip
+  name: Xiaomi 17 Pro
+  version: OS3.0.45.0.WBLCNXM
+- android: '16.0'
+  codename: pandora
   date: '2025-10-05'
   download: https://bigota.d.miui.com/OS3.0.16.0.WBLCNXM/fw_pandora_pandora-ota_full-OS3.0.16.0.WBLCNXM-user-16.0-13dfb82f31.zip
   name: Xiaomi 17 Pro
@@ -16888,6 +16894,12 @@
   download: https://bigota.d.miui.com/OS3.0.17.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.17.0.WPBCNXM-user-16.0-e928550d8d.zip
   name: Xiaomi 17 Pro Max
   version: OS3.0.17.0.WPBCNXM
+- android: '16.0'
+  codename: popsicle
+  date: '2026-02-11'
+  download: https://bigota.d.miui.com/OS3.0.45.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.45.0.WPBCNXM-user-16.0-86e516d7b4.zip
+  name: Xiaomi 17 Pro Max
+  version: OS3.0.45.0.WPBCNXM
 - android: '16.0'
   codename: popsicle
   date: '2025-11-10'
@@ -22300,6 +22312,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VOGMIXM/fw_tanzanite_global_tanzanite_global-ota_full-OS2.0.202.0.VOGMIXM-user-15.0-117090ba63.zip
   name: Redmi Note 14 4G
   version: OS2.0.202.0.VOGMIXM
+- android: '15.0'
+  codename: tanzanite
+  date: '2026-02-11'
+  download: https://bigota.d.miui.com/OS2.0.210.0.VOGMIXM/fw_tanzanite_tanzanite_global-ota_full-OS2.0.210.0.VOGMIXM-user-15.0-93ea2232ed.zip
+  name: Redmi Note 14 4G
+  version: OS2.0.210.0.VOGMIXM
 - android: '15.0'
   codename: tanzanite
   date: '2025-09-08'

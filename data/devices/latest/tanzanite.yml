@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-12-31'
+  date: '2026-02-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tanzanite/releases/download/stable-31.12.2025/fw_tanzanite_tanzanite_global-ota_full-OS2.0.209.0.VOGMIXM-user-15.0-f678edf5e4.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/tanzanite/fw_tanzanite_tanzanite_global-ota_full-OS2.0.209.0.VOGMIXM-user-15.0-f678edf5e4.zip
-  filename: fw_tanzanite_tanzanite_global-ota_full-OS2.0.209.0.VOGMIXM-user-15.0-f678edf5e4.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tanzanite/releases/download/stable-11.02.2026/fw_tanzanite_tanzanite_global-ota_full-OS2.0.210.0.VOGMIXM-user-15.0-93ea2232ed.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/tanzanite/fw_tanzanite_tanzanite_global-ota_full-OS2.0.210.0.VOGMIXM-user-15.0-93ea2232ed.zip
+  filename: fw_tanzanite_tanzanite_global-ota_full-OS2.0.210.0.VOGMIXM-user-15.0-93ea2232ed.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.209.0.VOGMIXM
+    miui: OS2.0.210.0.VOGMIXM
 - branch: stable
   date: '2026-01-01'
   downloads:
