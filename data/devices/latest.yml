@@ -1179,15 +1179,15 @@
     android: '16.0'
     miui: OS3.0.3.0.WMLCNXM
 - branch: stable
-  date: '2026-01-06'
+  date: '2026-02-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-07.01.2026/fw_corot_corot_eea_global-ota_full-OS2.0.211.0.VMLEUXM-user-15.0-6508376f93.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/corot/fw_corot_corot_eea_global-ota_full-OS2.0.211.0.VMLEUXM-user-15.0-6508376f93.zip
-  filename: fw_corot_corot_eea_global-ota_full-OS2.0.211.0.VMLEUXM-user-15.0-6508376f93.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-12.02.2026/fw_corot_corot_eea_global-ota_full-OS3.0.4.0.WMLEUXM-user-16.0-b9ae9fd93a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/corot/fw_corot_corot_eea_global-ota_full-OS3.0.4.0.WMLEUXM-user-16.0-b9ae9fd93a.zip
+  filename: fw_corot_corot_eea_global-ota_full-OS3.0.4.0.WMLEUXM-user-16.0-b9ae9fd93a.zip
   region: Europe
   versions:
-    android: '15.0'
-    miui: OS2.0.211.0.VMLEUXM
+    android: '16.0'
+    miui: OS3.0.4.0.WMLEUXM
 - branch: stable
   date: '2023-11-03'
   downloads:
