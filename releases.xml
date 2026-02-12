@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 12 Feb 2026 00:54:15 </lastBuildDate>
+        <lastBuildDate>Thu, 12 Feb 2026 07:04:54 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 Pro+ 5G (zircon) - OS3.0.6.0.WNOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
+            <pubDate>Thu, 12 Feb 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 14T (degas) - OS3.0.8.0.WNEEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/degas/</link>
@@ -1219,11 +1224,6 @@
         <item>
             <title>Redmi Pad SE (xun) - OS2.0.206.0.VMUMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xun/</link>
-            <pubDate>Sun, 28 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro+ 5G (zircon) - OS3.0.5.0.WNOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Sun, 28 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
