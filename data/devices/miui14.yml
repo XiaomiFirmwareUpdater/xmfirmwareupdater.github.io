@@ -4073,48 +4073,6 @@
   name: Redmi Note 13
   version: V14.0.7.0.TNGMIXM
 - android: '13.0'
-  codename: sapphiren
-  date: '2024-01-23'
-  download: https://bigota.d.miui.com/V14.0.1.0.TNHMIXM/fw_sapphiren_miui_SAPPHIRENGlobal_V14.0.1.0.TNHMIXM_d7f8df09ee_13.0.zip
-  name: Redmi Note 13 NFC
-  version: V14.0.1.0.TNHMIXM
-- android: '13.0'
-  codename: sapphiren
-  date: '2024-03-20'
-  download: https://bigota.d.miui.com/V14.0.8.0.TNHMIXM/fw_sapphiren_miui_SAPPHIRENGlobal_V14.0.8.0.TNHMIXM_4cde87b50a_13.0.zip
-  name: Redmi Note 13 NFC
-  version: V14.0.8.0.TNHMIXM
-- android: '13.0'
-  codename: sapphiren
-  date: '2024-06-19'
-  download: https://bigota.d.miui.com/V14.0.9.0.TNHMIXM/fw_sapphiren_miui_SAPPHIRENGlobal_V14.0.9.0.TNHMIXM_8fbbbf4f24_13.0.zip
-  name: Redmi Note 13 NFC
-  version: V14.0.9.0.TNHMIXM
-- android: '13.0'
-  codename: sapphiren
-  date: '2024-02-18'
-  download: https://bigota.d.miui.com/V14.0.7.0.TNHMIXM/fw_sapphiren_miui_SAPPHIRENGlobal_V14.0.7.0.TNHMIXM_afa6f55847_13.0.zip
-  name: Redmi Note 13 NFC
-  version: V14.0.7.0.TNHMIXM
-- android: '13.0'
-  codename: sapphiren
-  date: '2024-01-18'
-  download: https://bigota.d.miui.com/V14.0.3.0.TNHEUXM/fw_sapphiren_miui_SAPPHIRENEEAGlobal_V14.0.3.0.TNHEUXM_c4014ef897_13.0.zip
-  name: Redmi Note 13 NFC
-  version: V14.0.3.0.TNHEUXM
-- android: '13.0'
-  codename: sapphiren
-  date: '2024-02-09'
-  download: https://bigota.d.miui.com/V14.0.5.0.TNHEUXM/fw_sapphiren_miui_SAPPHIRENEEAGlobal_V14.0.5.0.TNHEUXM_4752478a33_13.0.zip
-  name: Redmi Note 13 NFC
-  version: V14.0.5.0.TNHEUXM
-- android: '13.0'
-  codename: sapphiren
-  date: '2024-03-01'
-  download: https://bigota.d.miui.com/V14.0.6.0.TNHEUXM/fw_sapphiren_miui_SAPPHIRENEEAGlobal_V14.0.6.0.TNHEUXM_cad9fa5d07_13.0.zip
-  name: Redmi Note 13 NFC
-  version: V14.0.6.0.TNHEUXM
-- android: '13.0'
   codename: sea
   date: '2023-07-24'
   download: https://bigota.d.miui.com/V14.0.3.0.THZEUXM/fw_sea_miui_SEAEEAGlobal_V14.0.3.0.THZEUXM_446d9944ef_13.0.zip

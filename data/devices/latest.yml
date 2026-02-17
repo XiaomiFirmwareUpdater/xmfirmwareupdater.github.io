@@ -5709,26 +5709,6 @@
     android: '15.0'
     miui: OS2.0.208.0.VNGMIXM
 - branch: stable
-  date: '2025-12-30'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphiren/releases/download/stable-30.12.2025/fw_sapphiren_sapphiren_global-ota_full-OS2.0.207.0.VNHMIXM-user-15.0-9aae7d95a3.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sapphiren/fw_sapphiren_sapphiren_global-ota_full-OS2.0.207.0.VNHMIXM-user-15.0-9aae7d95a3.zip
-  filename: fw_sapphiren_sapphiren_global-ota_full-OS2.0.207.0.VNHMIXM-user-15.0-9aae7d95a3.zip
-  region: Global
-  versions:
-    android: '15.0'
-    miui: OS2.0.207.0.VNHMIXM
-- branch: stable
-  date: '2026-01-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphiren/releases/download/stable-10.01.2026/fw_sapphiren_sapphiren_eea_global-ota_full-OS2.0.210.0.VNHEUXM-user-15.0-f6d3976ac5.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sapphiren/fw_sapphiren_sapphiren_eea_global-ota_full-OS2.0.210.0.VNHEUXM-user-15.0-f6d3976ac5.zip
-  filename: fw_sapphiren_sapphiren_eea_global-ota_full-OS2.0.210.0.VNHEUXM-user-15.0-f6d3976ac5.zip
-  region: Europe
-  versions:
-    android: '15.0'
-    miui: OS2.0.210.0.VNHEUXM
-- branch: stable
   date: '2019-11-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_scorpio/releases/download/stable-06.11.2019/fw_scorpio_miui_MINote2Global_V11.0.2.0.OADMIXM_6353b7fa7e_8.0.zip
