@@ -19769,6 +19769,240 @@
   name: Redmi Note 13
   version: OS2.0.205.0.VNGMIXM
 - android: '15.0'
+  codename: sapphiren
+  date: '2025-08-30'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VNHEUXM/fw_sapphiren_eea_global_sapphiren_eea_global-ota_full-OS2.0.203.0.VNHEUXM-user-15.0-bae2a2635c.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.203.0.VNHEUXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-12-30'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VNHEUXM/fw_sapphiren_sapphiren_eea_global-ota_full-OS2.0.208.0.VNHEUXM-user-15.0-8b82f3c4a6.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.208.0.VNHEUXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-12-30'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VNHMIXM/fw_sapphiren_sapphiren_global-ota_full-OS2.0.207.0.VNHMIXM-user-15.0-9aae7d95a3.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.207.0.VNHMIXM
+- android: '14.0'
+  codename: sapphiren
+  date: '2024-09-30'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UNHEUXM/fw_sapphiren_miui_SAPPHIRENEEAGlobal_OS1.0.6.0.UNHEUXM_7e20d781fa_14.0.zip
+  name: Redmi Note 13 NFC
+  version: OS1.0.6.0.UNHEUXM
+- android: '14.0'
+  codename: sapphiren
+  date: '2024-09-30'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UNHMIXM/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.6.0.UNHMIXM_fa59d04aa5_14.0.zip
+  name: Redmi Note 13 NFC
+  version: OS1.0.6.0.UNHMIXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-07-29'
+  download: https://bigota.d.miui.com/OS2.0.201.0.VNHMIXM/fw_sapphiren_global_sapphiren_global-ota_full-OS2.0.201.0.VNHMIXM-user-15.0-e849542f7f.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.201.0.VNHMIXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-11-28'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VNHEUXM/fw_sapphiren_sapphiren_eea_global-ota_full-OS2.0.207.0.VNHEUXM-user-15.0-44e1f25576.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.207.0.VNHEUXM
+- android: '14.0'
+  codename: sapphiren
+  date: '2024-10-28'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UNHMIXM/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.8.0.UNHMIXM_c0632d4687_14.0.zip
+  name: Redmi Note 13 NFC
+  version: OS1.0.8.0.UNHMIXM
+- android: '14.0'
+  codename: sapphiren
+  date: '2024-07-28'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNHMIXM/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.4.0.UNHMIXM_165d600fa8_14.0.zip
+  name: Redmi Note 13 NFC
+  version: OS1.0.4.0.UNHMIXM
+- android: '14.0'
+  codename: sapphiren
+  date: '2024-05-28'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UNHEUXM/fw_sapphiren_miui_SAPPHIRENEEAGlobal_OS1.0.2.0.UNHEUXM_e5806849b0_14.0.zip
+  name: Redmi Note 13 NFC
+  version: OS1.0.2.0.UNHEUXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-10-27'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VNHMIXM/fw_sapphiren_sapphiren_global-ota_full-OS2.0.205.0.VNHMIXM-user-15.0-78c96be831.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.205.0.VNHMIXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-06-27'
+  download: https://bigota.d.miui.com/OS2.0.12.0.VNHMIXM/fw_sapphiren_global_sapphiren_global-ota_full-OS2.0.12.0.VNHMIXM-user-15.0-7cb29c30ad.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.12.0.VNHMIXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-05-26'
+  download: https://bigota.d.miui.com/OS2.0.7.0.VNHEUXM/fw_sapphiren_eea_global_sapphiren_eea_global-ota_full-OS2.0.7.0.VNHEUXM-user-15.0-e6e3042c21.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.7.0.VNHEUXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-05-26'
+  download: https://bigota.d.miui.com/OS2.0.11.0.VNHMIXM/fw_sapphiren_global_sapphiren_global-ota_full-OS2.0.11.0.VNHMIXM-user-15.0-e54857f0dd.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.11.0.VNHMIXM
+- android: '14.0'
+  codename: sapphiren
+  date: '2024-05-26'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UNHMIXM/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.3.0.UNHMIXM_00fbd10cb9_14.0.zip
+  name: Redmi Note 13 NFC
+  version: OS1.0.3.0.UNHMIXM
+- android: '14.0'
+  codename: sapphiren
+  date: '2024-08-23'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UNHEUXM/fw_sapphiren_miui_SAPPHIRENEEAGlobal_OS1.0.5.0.UNHEUXM_aad01d8884_14.0.zip
+  name: Redmi Note 13 NFC
+  version: OS1.0.5.0.UNHEUXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2024-12-23'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VNHMIXM/fw_sapphiren_global_sapphiren_global-ota_full-OS2.0.6.0.VNHMIXM-user-15.0-f55cfcf226.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.6.0.VNHMIXM
+- android: '14.0'
+  codename: sapphiren
+  date: '2024-11-22'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UNHMIXM/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.9.0.UNHMIXM_aed6407a4c_14.0.zip
+  name: Redmi Note 13 NFC
+  version: OS1.0.9.0.UNHMIXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-01-20'
+  download: https://bigota.d.miui.com/OS2.0.2.0.VNHEUXM/fw_sapphiren_eea_global_sapphiren_eea_global-ota_full-OS2.0.2.0.VNHEUXM-user-15.0-48ea1b534a.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.2.0.VNHEUXM
+- android: '14.0'
+  codename: sapphiren
+  date: '2024-07-19'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UNHEUXM/fw_sapphiren_miui_SAPPHIRENEEAGlobal_OS1.0.3.0.UNHEUXM_a5a82b7948_14.0.zip
+  name: Redmi Note 13 NFC
+  version: OS1.0.3.0.UNHEUXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-11-17'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VNHMIXM/fw_sapphiren_sapphiren_global-ota_full-OS2.0.206.0.VNHMIXM-user-15.0-cfd201b5dd.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.206.0.VNHMIXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-04-17'
+  download: https://bigota.d.miui.com/OS2.0.10.0.VNHMIXM/fw_sapphiren_global_sapphiren_global-ota_full-OS2.0.10.0.VNHMIXM-user-15.0-c8cfd49355.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.10.0.VNHMIXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-02-17'
+  download: https://bigota.d.miui.com/OS2.0.3.0.VNHEUXM/fw_sapphiren_eea_global_sapphiren_eea_global-ota_full-OS2.0.3.0.VNHEUXM-user-15.0-8ffc3b8d9d.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.3.0.VNHEUXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2024-12-16'
+  download: https://bigota.d.miui.com/OS2.0.1.0.VNHEUXM/fw_sapphiren_eea_global_sapphiren_eea_global-ota_full-OS2.0.1.0.VNHEUXM-user-15.0-7748d00071.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.1.0.VNHEUXM
+- android: '14.0'
+  codename: sapphiren
+  date: '2024-04-16'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UNHEUXM/fw_sapphiren_miui_SAPPHIRENEEAGlobal_OS1.0.1.0.UNHEUXM_3e12bdc8b2_14.0.zip
+  name: Redmi Note 13 NFC
+  version: OS1.0.1.0.UNHEUXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-11-14'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VNHEUXM/fw_sapphiren_sapphiren_eea_global-ota_full-OS2.0.205.0.VNHEUXM-user-15.0-e35017afd0.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.205.0.VNHEUXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-07-11'
+  download: https://bigota.d.miui.com/OS2.0.202.0.VNHEUXM/fw_sapphiren_eea_global_sapphiren_eea_global-ota_full-OS2.0.202.0.VNHEUXM-user-15.0-30d1aa8935.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.202.0.VNHEUXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2026-01-10'
+  download: https://bigota.d.miui.com/OS2.0.210.0.VNHEUXM/fw_sapphiren_sapphiren_eea_global-ota_full-OS2.0.210.0.VNHEUXM-user-15.0-f6d3976ac5.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.210.0.VNHEUXM
+- android: '14.0'
+  codename: sapphiren
+  date: '2024-12-09'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UNHEUXM/fw_sapphiren_miui_SAPPHIRENEEAGlobal_OS1.0.9.0.UNHEUXM_dcd26bdc36_14.0.zip
+  name: Redmi Note 13 NFC
+  version: OS1.0.9.0.UNHEUXM
+- android: '14.0'
+  codename: sapphiren
+  date: '2024-11-09'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UNHEUXM/fw_sapphiren_miui_SAPPHIRENEEAGlobal_OS1.0.7.0.UNHEUXM_ad66423c2b_14.0.zip
+  name: Redmi Note 13 NFC
+  version: OS1.0.7.0.UNHEUXM
+- android: '14.0'
+  codename: sapphiren
+  date: '2024-08-08'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UNHEUXM/fw_sapphiren_miui_SAPPHIRENEEAGlobal_OS1.0.4.0.UNHEUXM_fe0e363b03_14.0.zip
+  name: Redmi Note 13 NFC
+  version: OS1.0.4.0.UNHEUXM
+- android: '14.0'
+  codename: sapphiren
+  date: '2024-04-08'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UNHMIXM/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.2.0.UNHMIXM_5c2104f430_14.0.zip
+  name: Redmi Note 13 NFC
+  version: OS1.0.2.0.UNHMIXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-04-07'
+  download: https://bigota.d.miui.com/OS2.0.6.0.VNHEUXM/fw_sapphiren_eea_global_sapphiren_eea_global-ota_full-OS2.0.6.0.VNHEUXM-user-15.0-45fcc6748b.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.6.0.VNHEUXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-03-07'
+  download: https://bigota.d.miui.com/OS2.0.4.0.VNHEUXM/fw_sapphiren_eea_global_sapphiren_eea_global-ota_full-OS2.0.4.0.VNHEUXM-user-15.0-e84f6478aa.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.4.0.VNHEUXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-03-07'
+  download: https://bigota.d.miui.com/OS2.0.9.0.VNHMIXM/fw_sapphiren_global_sapphiren_global-ota_full-OS2.0.9.0.VNHMIXM-user-15.0-c2516df1fd.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.9.0.VNHMIXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-02-06'
+  download: https://bigota.d.miui.com/OS2.0.7.0.VNHMIXM/fw_sapphiren_global_sapphiren_global-ota_full-OS2.0.7.0.VNHMIXM-user-15.0-ac0a4e7772.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.7.0.VNHMIXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2026-01-06'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VNHEUXM/fw_sapphiren_sapphiren_eea_global-ota_full-OS2.0.209.0.VNHEUXM-user-15.0-4cf9315859.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.209.0.VNHEUXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2025-10-04'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VNHEUXM/fw_sapphiren_sapphiren_eea_global-ota_full-OS2.0.204.0.VNHEUXM-user-15.0-098dd52f6f.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.204.0.VNHEUXM
+- android: '14.0'
+  codename: sapphiren
+  date: '2024-09-02'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UNHMIXM/fw_sapphiren_miui_SAPPHIRENGlobal_OS1.0.5.0.UNHMIXM_116390d6dc_14.0.zip
+  name: Redmi Note 13 NFC
+  version: OS1.0.5.0.UNHMIXM
+- android: '15.0'
   codename: sea
   date: '2025-12-31'
   download: https://bigota.d.miui.com/OS2.0.209.0.VHZMIXM/fw_sea_sea_global-ota_full-OS2.0.209.0.VHZMIXM-user-15.0-e802b6d430.zip
