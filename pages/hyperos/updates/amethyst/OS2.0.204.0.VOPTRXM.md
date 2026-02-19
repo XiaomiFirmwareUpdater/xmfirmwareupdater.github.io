@@ -56,49 +56,6 @@ permalink: /hyperos/amethyst/stable/OS2.0.204.0.VOPTRXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.6 GB</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-12-24</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">amethyst_tr_global-ota_full-OS2.0.204.0.VOPTRXM-user-15.0-a7fe142f92.zip</span></h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">a7fe142f92967445255c36329218b3b9</span></h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.204.0.VOPTRXM/amethyst_tr_global-ota_full-OS2.0.204.0.VOPTRXM-user-15.0-a7fe142f92.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.204.0.VOPTRXM/amethyst_tr_global-ota_full-OS2.0.204.0.VOPTRXM-user-15.0-a7fe142f92.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.204.0.VOPTRXM/amethyst_tr_global-ota_full-OS2.0.204.0.VOPTRXM-user-15.0-a7fe142f92.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.204.0.VOPTRXM/amethyst_tr_global-ota_full-OS2.0.204.0.VOPTRXM-user-15.0-a7fe142f92.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.204.0.VOPTRXM/amethyst_tr_global-ota_full-OS2.0.204.0.VOPTRXM-user-15.0-a7fe142f92.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#amethyst_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="amethyst_1_changelog"> <i class="fa fa-arrow-down"
-                                aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="amethyst_1_changelog">
-                        <p id="changelog_text">[System]<br>Updated the security patch to November 2025. Increased system security.</p>
-                    </div>
-                </li>
-            </ul>
-        </div>
-        <div class="card card-body">
-            {%include vli_ad_320x50_1.html%}
-            <ul class="list-unstyled">
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 14 Pro+ 5G Turkey</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Codename: </b> <a href="/hyperos/amethyst/" target="_blank">amethyst</a> </h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS2.0.204.0.VOPTRXM</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
@@ -117,10 +74,10 @@ permalink: /hyperos/amethyst/stable/OS2.0.204.0.VOPTRXM/
                     <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.204.0.VOPTRXM/amethyst_tr_global_images_OS2.0.204.0.VOPTRXM_20251216.0000.00_15.0_tr_df5ef21bc1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.204.0.VOPTRXM/amethyst_tr_global_images_OS2.0.204.0.VOPTRXM_20251216.0000.00_15.0_tr_df5ef21bc1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.204.0.VOPTRXM/amethyst_tr_global_images_OS2.0.204.0.VOPTRXM_20251216.0000.00_15.0_tr_df5ef21bc1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.204.0.VOPTRXM/amethyst_tr_global_images_OS2.0.204.0.VOPTRXM_20251216.0000.00_15.0_tr_df5ef21bc1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.204.0.VOPTRXM/amethyst_tr_global_images_OS2.0.204.0.VOPTRXM_20251216.0000.00_15.0_tr_df5ef21bc1.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#amethyst_2_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="amethyst_2_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#amethyst_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="amethyst_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="amethyst_2_changelog">
+                    <div class="collapse" id="amethyst_1_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to November 2025. Increased system security.</p>
                     </div>
                 </li>

@@ -56,22 +56,22 @@ permalink: /hyperos/amethyst/stable/OS3.0.1.0.WOPTWXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.8 GB</h5>
+                    <h5><b>Size: </b>7.0 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-01-22</h5>
+                    <h5><b>Release Date: </b>2026-01-13</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">amethyst_tw_global-ota_full-OS3.0.1.0.WOPTWXM-user-16.0-fff8a2f386.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">amethyst_tw_global_images_OS3.0.1.0.WOPTWXM_20260113.0000.00_16.0_tw_782eb24aa4.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">fff8a2f386e31b27ba895d7ee328e601</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">782eb24aa4457ee74e4387cd8504313c</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.1.0.WOPTWXM/amethyst_tw_global-ota_full-OS3.0.1.0.WOPTWXM-user-16.0-fff8a2f386.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.1.0.WOPTWXM/amethyst_tw_global-ota_full-OS3.0.1.0.WOPTWXM-user-16.0-fff8a2f386.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.1.0.WOPTWXM/amethyst_tw_global-ota_full-OS3.0.1.0.WOPTWXM-user-16.0-fff8a2f386.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.1.0.WOPTWXM/amethyst_tw_global-ota_full-OS3.0.1.0.WOPTWXM-user-16.0-fff8a2f386.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.1.0.WOPTWXM/amethyst_tw_global-ota_full-OS3.0.1.0.WOPTWXM-user-16.0-fff8a2f386.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.1.0.WOPTWXM/amethyst_tw_global_images_OS3.0.1.0.WOPTWXM_20260113.0000.00_16.0_tw_782eb24aa4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.1.0.WOPTWXM/amethyst_tw_global_images_OS3.0.1.0.WOPTWXM_20260113.0000.00_16.0_tw_782eb24aa4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.1.0.WOPTWXM/amethyst_tw_global_images_OS3.0.1.0.WOPTWXM_20260113.0000.00_16.0_tw_782eb24aa4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.1.0.WOPTWXM/amethyst_tw_global_images_OS3.0.1.0.WOPTWXM_20260113.0000.00_16.0_tw_782eb24aa4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.1.0.WOPTWXM/amethyst_tw_global_images_OS3.0.1.0.WOPTWXM_20260113.0000.00_16.0_tw_782eb24aa4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#amethyst_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/amethyst/stable/OS3.0.1.0.WOPTWXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.0 GB</h5>
+                    <h5><b>Size: </b>5.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-01-13</h5>
+                    <h5><b>Release Date: </b>2026-01-22</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">amethyst_tw_global_images_OS3.0.1.0.WOPTWXM_20260113.0000.00_16.0_tw_782eb24aa4.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">amethyst_tw_global-ota_full-OS3.0.1.0.WOPTWXM-user-16.0-fff8a2f386.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">782eb24aa4457ee74e4387cd8504313c</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">fff8a2f386e31b27ba895d7ee328e601</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.1.0.WOPTWXM/amethyst_tw_global_images_OS3.0.1.0.WOPTWXM_20260113.0000.00_16.0_tw_782eb24aa4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.1.0.WOPTWXM/amethyst_tw_global_images_OS3.0.1.0.WOPTWXM_20260113.0000.00_16.0_tw_782eb24aa4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.1.0.WOPTWXM/amethyst_tw_global_images_OS3.0.1.0.WOPTWXM_20260113.0000.00_16.0_tw_782eb24aa4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.1.0.WOPTWXM/amethyst_tw_global_images_OS3.0.1.0.WOPTWXM_20260113.0000.00_16.0_tw_782eb24aa4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.1.0.WOPTWXM/amethyst_tw_global_images_OS3.0.1.0.WOPTWXM_20260113.0000.00_16.0_tw_782eb24aa4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.1.0.WOPTWXM/amethyst_tw_global-ota_full-OS3.0.1.0.WOPTWXM-user-16.0-fff8a2f386.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.1.0.WOPTWXM/amethyst_tw_global-ota_full-OS3.0.1.0.WOPTWXM-user-16.0-fff8a2f386.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.1.0.WOPTWXM/amethyst_tw_global-ota_full-OS3.0.1.0.WOPTWXM-user-16.0-fff8a2f386.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.1.0.WOPTWXM/amethyst_tw_global-ota_full-OS3.0.1.0.WOPTWXM-user-16.0-fff8a2f386.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.1.0.WOPTWXM/amethyst_tw_global-ota_full-OS3.0.1.0.WOPTWXM-user-16.0-fff8a2f386.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#amethyst_2_changelog" data-toggle="collapse" role="button"

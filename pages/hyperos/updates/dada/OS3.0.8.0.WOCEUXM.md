@@ -56,22 +56,22 @@ permalink: /hyperos/dada/stable/OS3.0.8.0.WOCEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.3 GB</h5>
+                    <h5><b>Size: </b>9.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-01-28</h5>
+                    <h5><b>Release Date: </b>2026-01-22</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dada_eea_global-ota_full-OS3.0.8.0.WOCEUXM-user-16.0-0285ce4b2e.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dada_eea_global_images_OS3.0.8.0.WOCEUXM_20260122.0000.00_16.0_eea_d9495e91ad.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">0285ce4b2e21ae22bb57f66a3d3beae8</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">d9495e91ad2cab0a8c6609f2ff3a5b6a</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.8.0.WOCEUXM/dada_eea_global-ota_full-OS3.0.8.0.WOCEUXM-user-16.0-0285ce4b2e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.8.0.WOCEUXM/dada_eea_global-ota_full-OS3.0.8.0.WOCEUXM-user-16.0-0285ce4b2e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.8.0.WOCEUXM/dada_eea_global-ota_full-OS3.0.8.0.WOCEUXM-user-16.0-0285ce4b2e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.8.0.WOCEUXM/dada_eea_global-ota_full-OS3.0.8.0.WOCEUXM-user-16.0-0285ce4b2e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.8.0.WOCEUXM/dada_eea_global-ota_full-OS3.0.8.0.WOCEUXM-user-16.0-0285ce4b2e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.8.0.WOCEUXM/dada_eea_global_images_OS3.0.8.0.WOCEUXM_20260122.0000.00_16.0_eea_d9495e91ad.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.8.0.WOCEUXM/dada_eea_global_images_OS3.0.8.0.WOCEUXM_20260122.0000.00_16.0_eea_d9495e91ad.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.8.0.WOCEUXM/dada_eea_global_images_OS3.0.8.0.WOCEUXM_20260122.0000.00_16.0_eea_d9495e91ad.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.8.0.WOCEUXM/dada_eea_global_images_OS3.0.8.0.WOCEUXM_20260122.0000.00_16.0_eea_d9495e91ad.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.8.0.WOCEUXM/dada_eea_global_images_OS3.0.8.0.WOCEUXM_20260122.0000.00_16.0_eea_d9495e91ad.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#dada_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/dada/stable/OS3.0.8.0.WOCEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>9.8 GB</h5>
+                    <h5><b>Size: </b>8.3 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-01-22</h5>
+                    <h5><b>Release Date: </b>2026-01-28</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dada_eea_global_images_OS3.0.8.0.WOCEUXM_20260122.0000.00_16.0_eea_d9495e91ad.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dada_eea_global-ota_full-OS3.0.8.0.WOCEUXM-user-16.0-0285ce4b2e.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">d9495e91ad2cab0a8c6609f2ff3a5b6a</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">0285ce4b2e21ae22bb57f66a3d3beae8</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.8.0.WOCEUXM/dada_eea_global_images_OS3.0.8.0.WOCEUXM_20260122.0000.00_16.0_eea_d9495e91ad.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.8.0.WOCEUXM/dada_eea_global_images_OS3.0.8.0.WOCEUXM_20260122.0000.00_16.0_eea_d9495e91ad.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.8.0.WOCEUXM/dada_eea_global_images_OS3.0.8.0.WOCEUXM_20260122.0000.00_16.0_eea_d9495e91ad.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.8.0.WOCEUXM/dada_eea_global_images_OS3.0.8.0.WOCEUXM_20260122.0000.00_16.0_eea_d9495e91ad.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.8.0.WOCEUXM/dada_eea_global_images_OS3.0.8.0.WOCEUXM_20260122.0000.00_16.0_eea_d9495e91ad.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.8.0.WOCEUXM/dada_eea_global-ota_full-OS3.0.8.0.WOCEUXM-user-16.0-0285ce4b2e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.8.0.WOCEUXM/dada_eea_global-ota_full-OS3.0.8.0.WOCEUXM-user-16.0-0285ce4b2e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.8.0.WOCEUXM/dada_eea_global-ota_full-OS3.0.8.0.WOCEUXM-user-16.0-0285ce4b2e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.8.0.WOCEUXM/dada_eea_global-ota_full-OS3.0.8.0.WOCEUXM-user-16.0-0285ce4b2e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.8.0.WOCEUXM/dada_eea_global-ota_full-OS3.0.8.0.WOCEUXM-user-16.0-0285ce4b2e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#dada_2_changelog" data-toggle="collapse" role="button"
