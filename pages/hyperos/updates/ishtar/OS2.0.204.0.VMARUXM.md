@@ -56,49 +56,6 @@ permalink: /hyperos/ishtar/stable/OS2.0.204.0.VMARUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.4 GB</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-12-10</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">ishtar_ru_global-ota_full-OS2.0.204.0.VMARUXM-user-15.0-3332f88a81.zip</span></h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">3332f88a8154f005cc6cef65d450366b</span></h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.204.0.VMARUXM/ishtar_ru_global-ota_full-OS2.0.204.0.VMARUXM-user-15.0-3332f88a81.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.204.0.VMARUXM/ishtar_ru_global-ota_full-OS2.0.204.0.VMARUXM-user-15.0-3332f88a81.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.204.0.VMARUXM/ishtar_ru_global-ota_full-OS2.0.204.0.VMARUXM-user-15.0-3332f88a81.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.204.0.VMARUXM/ishtar_ru_global-ota_full-OS2.0.204.0.VMARUXM-user-15.0-3332f88a81.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.204.0.VMARUXM/ishtar_ru_global-ota_full-OS2.0.204.0.VMARUXM-user-15.0-3332f88a81.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#ishtar_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="ishtar_1_changelog"> <i class="fa fa-arrow-down"
-                                aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="ishtar_1_changelog">
-                        <p id="changelog_text">[System]<br>Optimization: System stability<br>Fix: Errors occurred in some cases</p>
-                    </div>
-                </li>
-            </ul>
-        </div>
-        <div class="card card-body">
-            {%include vli_ad_320x50_1.html%}
-            <ul class="list-unstyled">
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Xiaomi 13 Ultra Russia</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Codename: </b> <a href="/hyperos/ishtar/" target="_blank">ishtar</a> </h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS2.0.204.0.VMARUXM</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable</h5>
-                </li>
-                <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
@@ -117,10 +74,10 @@ permalink: /hyperos/ishtar/stable/OS2.0.204.0.VMARUXM/
                     <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.204.0.VMARUXM/ishtar_ru_global_images_OS2.0.204.0.VMARUXM_20251203.0000.00_15.0_ru_6dbbf2b6a8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.204.0.VMARUXM/ishtar_ru_global_images_OS2.0.204.0.VMARUXM_20251203.0000.00_15.0_ru_6dbbf2b6a8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.204.0.VMARUXM/ishtar_ru_global_images_OS2.0.204.0.VMARUXM_20251203.0000.00_15.0_ru_6dbbf2b6a8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.204.0.VMARUXM/ishtar_ru_global_images_OS2.0.204.0.VMARUXM_20251203.0000.00_15.0_ru_6dbbf2b6a8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.204.0.VMARUXM/ishtar_ru_global_images_OS2.0.204.0.VMARUXM_20251203.0000.00_15.0_ru_6dbbf2b6a8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#ishtar_2_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="ishtar_2_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#ishtar_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="ishtar_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="ishtar_2_changelog">
+                    <div class="collapse" id="ishtar_1_changelog">
                         <p id="changelog_text">[System]<br>Optimization: System stability<br>Fix: Errors occurred in some cases</p>
                     </div>
                 </li>
