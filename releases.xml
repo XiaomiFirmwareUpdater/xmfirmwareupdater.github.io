@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 22 Feb 2026 19:37:51 </lastBuildDate>
+        <lastBuildDate>Mon, 23 Feb 2026 00:45:37 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS3.0.10.0.WNUINXM</title>
@@ -39,6 +39,11 @@
         <item>
             <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS2.0.208.0.VOUINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spring/</link>
+            <pubDate>Sun, 22 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A4 5G/POCO C75 5G (warm) - OS3.0.3.0.WGVINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/warm/</link>
             <pubDate>Sun, 22 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1460,11 +1465,6 @@
             <title>Xiaomi 11T Pro (vili) - OS1.0.22.0.UKDINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vili/</link>
             <pubDate>Tue, 11 Nov 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A4 5G/POCO C75 5G (warm) - OS2.0.203.0.VGVINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/warm/</link>
-            <pubDate>Mon, 10 Nov 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS2.0.203.0.VGUINXM</title>
