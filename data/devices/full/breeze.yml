@@ -79,6 +79,16 @@
     android: '15.0'
     miui: OS2.0.201.0.VNUCNXM
 - branch: stable
+  date: '2026-02-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-22.02.2026/fw_breeze_breeze_in_global-ota_full-OS3.0.10.0.WNUINXM-user-16.0-79b81927b2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/breeze/fw_breeze_breeze_in_global-ota_full-OS3.0.10.0.WNUINXM-user-16.0-79b81927b2.zip
+  filename: fw_breeze_breeze_in_global-ota_full-OS3.0.10.0.WNUINXM-user-16.0-79b81927b2.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.10.0.WNUINXM
+- branch: stable
   date: '2025-08-21'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_breeze/releases/download/stable-21.08.2025/fw_breeze_in_global_breeze_in_global-ota_full-OS2.0.201.0.VNUINXM-user-15.0-fa0fe716c2.zip

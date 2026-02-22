@@ -54,7 +54,7 @@ permalink: /hyperos/duchamp/
                 <tbody>
                 <tr><td>Redmi K70E China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WNLCNXM</td><td>16.0</td><td>9.1 GB</td><td>2025-11-22</td><td><a href="/hyperos/duchamp/stable/OS3.0.3.0.WNLCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70E China</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WNLCNXM</td><td>16.0</td><td>7.0 GB</td><td>2025-12-01</td><td><a href="/hyperos/duchamp/stable/OS3.0.3.0.WNLCNXM/">Download</a></td></tr>
-<tr><td>Redmi K70E China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UNLCNXM</td><td>14.0</td><td>6.3 GB</td><td>2023-11-30</td><td><a href="/hyperos/duchamp/stable beta/OS1.0.4.0.UNLCNXM/">Download</a></td></tr>
+<tr><td>Redmi K70E China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.5.0.WNLCNXM</td><td>16.0</td><td>7.1 GB</td><td>2026-02-11</td><td><a href="/hyperos/duchamp/stable beta/OS3.0.5.0.WNLCNXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.210.0.VNLEUXM</td><td>15.0</td><td>8.2 GB</td><td>2025-12-25</td><td><a href="/hyperos/duchamp/stable/OS2.0.210.0.VNLEUXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WNLEUXM</td><td>16.0</td><td>6.3 GB</td><td>2026-01-22</td><td><a href="/hyperos/duchamp/stable/OS3.0.3.0.WNLEUXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.6.0.UNLEUXM</td><td>14.0</td><td>5.5 GB</td><td>2024-03-06</td><td><a href="/hyperos/duchamp/stable beta/OS1.0.6.0.UNLEUXM/">Download</a></td></tr>
@@ -71,7 +71,7 @@ permalink: /hyperos/duchamp/
 <tr><td>POCO X6 Pro 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.209.0.VNLRUXM</td><td>15.0</td><td>5.8 GB</td><td>2025-12-16</td><td><a href="/hyperos/duchamp/stable/OS2.0.209.0.VNLRUXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.10.0.UNLRUXM</td><td>14.0</td><td>5.4 GB</td><td>2024-12-10</td><td><a href="/hyperos/duchamp/stable beta/OS1.0.10.0.UNLRUXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VNLTWXM</td><td>15.0</td><td>7.0 GB</td><td>2025-12-02</td><td><a href="/hyperos/duchamp/stable/OS2.0.208.0.VNLTWXM/">Download</a></td></tr>
-<tr><td>POCO X6 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VNLTWXM</td><td>15.0</td><td>5.7 GB</td><td>2025-12-16</td><td><a href="/hyperos/duchamp/stable/OS2.0.208.0.VNLTWXM/">Download</a></td></tr>
+<tr><td>POCO X6 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VNLTWXM</td><td>15.0</td><td>5.7 GB</td><td>2025-11-14</td><td><a href="/hyperos/duchamp/stable/OS2.0.207.0.VNLTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

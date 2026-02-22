@@ -52,7 +52,8 @@ permalink: /archive/hyperos/cetus/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi MIX Fold China</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TJTCNXM</td><td>13.0</td><td>5.4 GB</td><td>2024-02-20</td><td><a href="/hyperos/cetus/stable/OS1.0.1.0.TJTCNXM/">Download</a></td></tr>
+                <tr><td>Mi MIX Fold China</td><td>Stable</td><td>Recovery</td><td>OS1.0.8.0.TJTCNXM</td><td>13.0</td><td>5.4 GB</td><td>2025-10-20</td><td><a href="/hyperos/cetus/stable/OS1.0.8.0.TJTCNXM/">Download</a></td></tr>
+<tr><td>Mi MIX Fold China</td><td>Stable</td><td>Recovery</td><td>OS1.0.1.0.TJTCNXM</td><td>13.0</td><td>5.4 GB</td><td>2024-02-20</td><td><a href="/hyperos/cetus/stable/OS1.0.1.0.TJTCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

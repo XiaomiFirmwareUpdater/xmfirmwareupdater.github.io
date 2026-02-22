@@ -54,6 +54,7 @@ permalink: /hyperos/warm/
                 <tbody>
                 <tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VGVINXM</td><td>15.0</td><td>5.9 GB</td><td>2025-10-21</td><td><a href="/hyperos/warm/stable/OS2.0.203.0.VGVINXM/">Download</a></td></tr>
 <tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VGVINXM</td><td>15.0</td><td>4.2 GB</td><td>2025-10-28</td><td><a href="/hyperos/warm/stable/OS2.0.203.0.VGVINXM/">Download</a></td></tr>
+<tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WGVINXM</td><td>16.0</td><td>4.4 GB</td><td>2026-02-05</td><td><a href="/hyperos/warm/stable beta/OS3.0.3.0.WGVINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -2212,6 +2212,12 @@
   download: https://bigota.d.miui.com/OS2.0.201.0.VNUCNXM/fw_breeze_breeze-ota_full-OS2.0.201.0.VNUCNXM-user-15.0-1613abda2e.zip
   name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
   version: OS2.0.201.0.VNUCNXM
+- android: '16.0'
+  codename: breeze
+  date: '2026-02-22'
+  download: https://bigota.d.miui.com/OS3.0.10.0.WNUINXM/fw_breeze_breeze_in_global-ota_full-OS3.0.10.0.WNUINXM-user-16.0-79b81927b2.zip
+  name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
+  version: OS3.0.10.0.WNUINXM
 - android: '15.0'
   codename: breeze
   date: '2025-08-21'
@@ -3856,6 +3862,12 @@
   download: https://bigota.d.miui.com/OS2.0.215.0.VONCNXM/fw_dali_dali-ota_full-OS2.0.215.0.VONCNXM-user-15.0-9f97adbf9a.zip
   name: Redmi K80 Ultra
   version: OS2.0.215.0.VONCNXM
+- android: '16.0'
+  codename: dash
+  date: '2026-02-22'
+  download: https://bigota.d.miui.com/OS3.0.8.0.WPLCNXM/fw_dash_dash-ota_full-OS3.0.8.0.WPLCNXM-user-16.0-7a58ec4edc.zip
+  name: Redmi Turbo 5 Max/POCO X8 Pro Max
+  version: OS3.0.8.0.WPLCNXM
 - android: '14.0'
   codename: daumier
   date: '2025-02-27'
@@ -5152,6 +5164,12 @@
   download: https://bigota.d.miui.com/OS2.0.212.0.VNLCNXM/fw_duchamp_duchamp-ota_full-OS2.0.212.0.VNLCNXM-user-15.0-f1e9df3044.zip
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS2.0.212.0.VNLCNXM
+- android: '16.0'
+  codename: duchamp
+  date: '2026-02-22'
+  download: https://bigota.d.miui.com/OS3.0.5.0.WNLCNXM/fw_duchamp_duchamp-ota_full-OS3.0.5.0.WNLCNXM-user-16.0-4ec697213b.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS3.0.5.0.WNLCNXM
 - android: '14.0'
   codename: duchamp
   date: '2024-10-21'
