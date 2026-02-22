@@ -56,22 +56,22 @@ permalink: /hyperos/jinghu/stable/OS3.0.7.0.WOXCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.9 GB</h5>
+                    <h5><b>Size: </b>8.1 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-12-24</h5>
+                    <h5><b>Release Date: </b>2025-12-26</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">jinghu-images-OS3.0.7.0.WOXCNXM-user-20251224.0000.00-16.0-cn-3d206d8231.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">jinghu-ota_full-OS3.0.7.0.WOXCNXM-user-16.0-1c0633f855.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">3d206d823174918fe9c79a4d141c15bc</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">1c0633f8556a4c4354d2c8492446d24f</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.7.0.WOXCNXM/jinghu-images-OS3.0.7.0.WOXCNXM-user-20251224.0000.00-16.0-cn-3d206d8231.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.7.0.WOXCNXM/jinghu-images-OS3.0.7.0.WOXCNXM-user-20251224.0000.00-16.0-cn-3d206d8231.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.7.0.WOXCNXM/jinghu-images-OS3.0.7.0.WOXCNXM-user-20251224.0000.00-16.0-cn-3d206d8231.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.7.0.WOXCNXM/jinghu-images-OS3.0.7.0.WOXCNXM-user-20251224.0000.00-16.0-cn-3d206d8231.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.7.0.WOXCNXM/jinghu-images-OS3.0.7.0.WOXCNXM-user-20251224.0000.00-16.0-cn-3d206d8231.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.7.0.WOXCNXM/jinghu-ota_full-OS3.0.7.0.WOXCNXM-user-16.0-1c0633f855.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.7.0.WOXCNXM/jinghu-ota_full-OS3.0.7.0.WOXCNXM-user-16.0-1c0633f855.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.7.0.WOXCNXM/jinghu-ota_full-OS3.0.7.0.WOXCNXM-user-16.0-1c0633f855.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.7.0.WOXCNXM/jinghu-ota_full-OS3.0.7.0.WOXCNXM-user-16.0-1c0633f855.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.7.0.WOXCNXM/jinghu-ota_full-OS3.0.7.0.WOXCNXM-user-16.0-1c0633f855.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#jinghu_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/jinghu/stable/OS3.0.7.0.WOXCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.1 GB</h5>
+                    <h5><b>Size: </b>8.9 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-12-26</h5>
+                    <h5><b>Release Date: </b>2025-12-24</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">jinghu-ota_full-OS3.0.7.0.WOXCNXM-user-16.0-1c0633f855.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">jinghu-images-OS3.0.7.0.WOXCNXM-user-20251224.0000.00-16.0-cn-3d206d8231.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">1c0633f8556a4c4354d2c8492446d24f</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">3d206d823174918fe9c79a4d141c15bc</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.7.0.WOXCNXM/jinghu-ota_full-OS3.0.7.0.WOXCNXM-user-16.0-1c0633f855.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.7.0.WOXCNXM/jinghu-ota_full-OS3.0.7.0.WOXCNXM-user-16.0-1c0633f855.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.7.0.WOXCNXM/jinghu-ota_full-OS3.0.7.0.WOXCNXM-user-16.0-1c0633f855.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.7.0.WOXCNXM/jinghu-ota_full-OS3.0.7.0.WOXCNXM-user-16.0-1c0633f855.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.7.0.WOXCNXM/jinghu-ota_full-OS3.0.7.0.WOXCNXM-user-16.0-1c0633f855.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.7.0.WOXCNXM/jinghu-images-OS3.0.7.0.WOXCNXM-user-20251224.0000.00-16.0-cn-3d206d8231.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.7.0.WOXCNXM/jinghu-images-OS3.0.7.0.WOXCNXM-user-20251224.0000.00-16.0-cn-3d206d8231.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.7.0.WOXCNXM/jinghu-images-OS3.0.7.0.WOXCNXM-user-20251224.0000.00-16.0-cn-3d206d8231.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.7.0.WOXCNXM/jinghu-images-OS3.0.7.0.WOXCNXM-user-20251224.0000.00-16.0-cn-3d206d8231.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.7.0.WOXCNXM/jinghu-images-OS3.0.7.0.WOXCNXM-user-20251224.0000.00-16.0-cn-3d206d8231.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#jinghu_2_changelog" data-toggle="collapse" role="button"

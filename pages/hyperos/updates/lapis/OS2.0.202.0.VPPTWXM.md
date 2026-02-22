@@ -56,22 +56,22 @@ permalink: /hyperos/lapis/stable/OS2.0.202.0.VPPTWXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.5 GB</h5>
+                    <h5><b>Size: </b>6.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-01-07</h5>
+                    <h5><b>Release Date: </b>2026-01-15</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">lapis_tw_global_images_OS2.0.202.0.VPPTWXM_20260107.0000.00_15.0_tw_6582c61911.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">lapis_tw_global-ota_full-OS2.0.202.0.VPPTWXM-user-15.0-c77207c70d.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">6582c61911f61bfa5913a9c457da3573</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">c77207c70ddf30badeee74b2b27ee2fa</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.202.0.VPPTWXM/lapis_tw_global_images_OS2.0.202.0.VPPTWXM_20260107.0000.00_15.0_tw_6582c61911.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.202.0.VPPTWXM/lapis_tw_global_images_OS2.0.202.0.VPPTWXM_20260107.0000.00_15.0_tw_6582c61911.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.202.0.VPPTWXM/lapis_tw_global_images_OS2.0.202.0.VPPTWXM_20260107.0000.00_15.0_tw_6582c61911.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.202.0.VPPTWXM/lapis_tw_global_images_OS2.0.202.0.VPPTWXM_20260107.0000.00_15.0_tw_6582c61911.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.202.0.VPPTWXM/lapis_tw_global_images_OS2.0.202.0.VPPTWXM_20260107.0000.00_15.0_tw_6582c61911.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS2.0.202.0.VPPTWXM/lapis_tw_global-ota_incremental-OS2.0.201.0.VPPTWXM-OS2.0.202.0.VPPTWXM-user-15.0-c0c737e6c0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.202.0.VPPTWXM/lapis_tw_global-ota_full-OS2.0.202.0.VPPTWXM-user-15.0-c77207c70d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.202.0.VPPTWXM/lapis_tw_global-ota_full-OS2.0.202.0.VPPTWXM-user-15.0-c77207c70d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.202.0.VPPTWXM/lapis_tw_global-ota_full-OS2.0.202.0.VPPTWXM-user-15.0-c77207c70d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.202.0.VPPTWXM/lapis_tw_global-ota_full-OS2.0.202.0.VPPTWXM-user-15.0-c77207c70d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.202.0.VPPTWXM/lapis_tw_global-ota_full-OS2.0.202.0.VPPTWXM-user-15.0-c77207c70d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#lapis_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/lapis/stable/OS2.0.202.0.VPPTWXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.2 GB</h5>
+                    <h5><b>Size: </b>7.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-01-15</h5>
+                    <h5><b>Release Date: </b>2026-01-07</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">lapis_tw_global-ota_full-OS2.0.202.0.VPPTWXM-user-15.0-c77207c70d.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">lapis_tw_global_images_OS2.0.202.0.VPPTWXM_20260107.0000.00_15.0_tw_6582c61911.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c77207c70ddf30badeee74b2b27ee2fa</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6582c61911f61bfa5913a9c457da3573</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/OS2.0.202.0.VPPTWXM/lapis_tw_global-ota_incremental-OS2.0.201.0.VPPTWXM-OS2.0.202.0.VPPTWXM-user-15.0-c0c737e6c0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.202.0.VPPTWXM/lapis_tw_global-ota_full-OS2.0.202.0.VPPTWXM-user-15.0-c77207c70d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.202.0.VPPTWXM/lapis_tw_global-ota_full-OS2.0.202.0.VPPTWXM-user-15.0-c77207c70d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.202.0.VPPTWXM/lapis_tw_global-ota_full-OS2.0.202.0.VPPTWXM-user-15.0-c77207c70d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.202.0.VPPTWXM/lapis_tw_global-ota_full-OS2.0.202.0.VPPTWXM-user-15.0-c77207c70d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.202.0.VPPTWXM/lapis_tw_global-ota_full-OS2.0.202.0.VPPTWXM-user-15.0-c77207c70d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.202.0.VPPTWXM/lapis_tw_global_images_OS2.0.202.0.VPPTWXM_20260107.0000.00_15.0_tw_6582c61911.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.202.0.VPPTWXM/lapis_tw_global_images_OS2.0.202.0.VPPTWXM_20260107.0000.00_15.0_tw_6582c61911.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.202.0.VPPTWXM/lapis_tw_global_images_OS2.0.202.0.VPPTWXM_20260107.0000.00_15.0_tw_6582c61911.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.202.0.VPPTWXM/lapis_tw_global_images_OS2.0.202.0.VPPTWXM_20260107.0000.00_15.0_tw_6582c61911.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.202.0.VPPTWXM/lapis_tw_global_images_OS2.0.202.0.VPPTWXM_20260107.0000.00_15.0_tw_6582c61911.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#lapis_2_changelog" data-toggle="collapse" role="button"
