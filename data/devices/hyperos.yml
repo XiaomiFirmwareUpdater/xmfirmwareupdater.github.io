@@ -5926,6 +5926,12 @@
   download: https://bigota.d.miui.com/OS2.0.7.0.VNFMIXM/fw_emerald_global_emerald_global-ota_full-OS2.0.7.0.VNFMIXM-user-15.0-f407db24ed.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS2.0.7.0.VNFMIXM
+- android: '16.0'
+  codename: emerald
+  date: '2026-02-22'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WFOMIXM/fw_emerald_emerald_r_global-ota_full-OS3.0.4.0.WFOMIXM-user-16.0-9f749aaf1a.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
+  version: OS3.0.4.0.WFOMIXM
 - android: '14.0'
   codename: emerald
   date: '2025-01-20'
@@ -10300,6 +10306,12 @@
   download: https://bigota.d.miui.com/OS2.0.110.0.VOXCNXM/fw_jinghu_jinghu-ota_full-OS2.0.110.0.VOXCNXM-user-15.0-b31d1e2501.zip
   name: Xiaomi Pad 7 Ultra
   version: OS2.0.110.0.VOXCNXM
+- android: '16.0'
+  codename: klee
+  date: '2026-02-22'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WPJCNXM/fw_klee_klee-ota_full-OS3.0.4.0.WPJCNXM-user-16.0-1012e48a45.zip
+  name: Redmi Turbo 5/POCO X8 Pro
+  version: OS3.0.4.0.WPJCNXM
 - android: '16.0'
   codename: klimt
   date: '2025-11-27'
@@ -21550,6 +21562,18 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VOUINXM/fw_spring_in_global_spring_in_global-ota_full-OS2.0.203.0.VOUINXM-user-15.0-97420328f8.zip
   name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
   version: OS2.0.203.0.VOUINXM
+- android: '15.0'
+  codename: spring
+  date: '2026-02-22'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VOUMIXM/fw_spring_spring_global-ota_full-OS2.0.208.0.VOUMIXM-user-15.0-f175f9cfa8.zip
+  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  version: OS2.0.208.0.VOUMIXM
+- android: '15.0'
+  codename: spring
+  date: '2026-02-22'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VOUINXM/fw_spring_spring_in_global-ota_full-OS2.0.208.0.VOUINXM-user-15.0-8de18aea6f.zip
+  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  version: OS2.0.208.0.VOUINXM
 - android: '15.0'
   codename: spring
   date: '2025-10-21'
