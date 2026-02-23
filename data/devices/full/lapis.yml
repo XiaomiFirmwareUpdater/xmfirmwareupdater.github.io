@@ -9,6 +9,36 @@
     android: '15.0'
     miui: OS2.0.207.0.VPPCNXM
 - branch: stable
+  date: '2026-02-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-23.02.2026/fw_lapis_lapis_eea_global-ota_full-OS2.0.204.0.VPPEUXM-user-15.0-4370b6f4a4.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lapis/fw_lapis_lapis_eea_global-ota_full-OS2.0.204.0.VPPEUXM-user-15.0-4370b6f4a4.zip
+  filename: fw_lapis_lapis_eea_global-ota_full-OS2.0.204.0.VPPEUXM-user-15.0-4370b6f4a4.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.204.0.VPPEUXM
+- branch: stable
+  date: '2026-02-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-23.02.2026/fw_lapis_lapis_global-ota_full-OS2.0.204.0.VPPMIXM-user-15.0-12389e89f2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lapis/fw_lapis_lapis_global-ota_full-OS2.0.204.0.VPPMIXM-user-15.0-12389e89f2.zip
+  filename: fw_lapis_lapis_global-ota_full-OS2.0.204.0.VPPMIXM-user-15.0-12389e89f2.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.204.0.VPPMIXM
+- branch: stable
+  date: '2026-02-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-23.02.2026/fw_lapis_lapis_in_global-ota_full-OS2.0.203.0.VPPINXM-user-15.0-851ef3cdce.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/lapis/fw_lapis_lapis_in_global-ota_full-OS2.0.203.0.VPPINXM-user-15.0-851ef3cdce.zip
+  filename: fw_lapis_lapis_in_global-ota_full-OS2.0.203.0.VPPINXM-user-15.0-851ef3cdce.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.203.0.VPPINXM
+- branch: stable
   date: '2025-08-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-22.08.2025/fw_lapis_lapis-ota_full-OS2.0.204.0.VPPCNXM-user-15.0-73838c8323.zip
