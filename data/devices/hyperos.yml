@@ -4050,6 +4050,12 @@
   version: OS2.0.103.0.VNEEUXM
 - android: '16.0'
   codename: degas
+  date: '2026-02-23'
+  download: https://bigota.d.miui.com/OS3.0.9.0.WNEEUXM/fw_degas_degas_eea_global-ota_full-OS3.0.9.0.WNEEUXM-user-16.0-5a541e5abf.zip
+  name: Xiaomi 14T
+  version: OS3.0.9.0.WNEEUXM
+- android: '16.0'
+  codename: degas
   date: '2025-12-19'
   download: https://bigota.d.miui.com/OS3.0.4.0.WNEEUXM/fw_degas_degas_eea_global-ota_full-OS3.0.4.0.WNEEUXM-user-16.0-46e9ae5e73.zip
   name: Xiaomi 14T
@@ -10744,6 +10750,24 @@
   download: https://bigota.d.miui.com/OS2.0.207.0.VPPCNXM/fw_lapis_lapis-ota_full-OS2.0.207.0.VPPCNXM-user-15.0-e339e326bc.zip
   name: Redmi Note 15 Pro 5G
   version: OS2.0.207.0.VPPCNXM
+- android: '15.0'
+  codename: lapis
+  date: '2026-02-23'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VPPEUXM/fw_lapis_lapis_eea_global-ota_full-OS2.0.204.0.VPPEUXM-user-15.0-4370b6f4a4.zip
+  name: Redmi Note 15 Pro 5G
+  version: OS2.0.204.0.VPPEUXM
+- android: '15.0'
+  codename: lapis
+  date: '2026-02-23'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VPPMIXM/fw_lapis_lapis_global-ota_full-OS2.0.204.0.VPPMIXM-user-15.0-12389e89f2.zip
+  name: Redmi Note 15 Pro 5G
+  version: OS2.0.204.0.VPPMIXM
+- android: '15.0'
+  codename: lapis
+  date: '2026-02-23'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VPPINXM/fw_lapis_lapis_in_global-ota_full-OS2.0.203.0.VPPINXM-user-15.0-851ef3cdce.zip
+  name: Redmi Note 15 Pro 5G
+  version: OS2.0.203.0.VPPINXM
 - android: '15.0'
   codename: lapis
   date: '2025-08-22'

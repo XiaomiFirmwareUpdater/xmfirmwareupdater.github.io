@@ -4,8 +4,28 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 23 Feb 2026 06:51:55 </lastBuildDate>
+        <lastBuildDate>Mon, 23 Feb 2026 18:41:33 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14T (degas) - OS3.0.9.0.WNEEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/degas/</link>
+            <pubDate>Mon, 23 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 Pro 5G (lapis) - OS2.0.204.0.VPPMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
+            <pubDate>Mon, 23 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 Pro 5G (lapis) - OS2.0.204.0.VPPEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
+            <pubDate>Mon, 23 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 Pro 5G (lapis) - OS2.0.203.0.VPPINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
+            <pubDate>Mon, 23 Feb 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 NFC (sapphiren) - OS2.0.208.0.VNHMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
@@ -65,11 +85,6 @@
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS3.0.6.0.WNOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Thu, 12 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14T (degas) - OS3.0.8.0.WNEEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/degas/</link>
-            <pubDate>Wed, 11 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 17 Pro (pandora) - OS3.0.45.0.WBLCNXM</title>
@@ -750,21 +765,6 @@
             <title>Redmi K Pad/Xiaomi Pad Mini (turner) - OS3.0.5.0.WAOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/turner/</link>
             <pubDate>Fri, 16 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 Pro 5G (lapis) - OS2.0.203.0.VPPMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
-            <pubDate>Thu, 15 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 Pro 5G (lapis) - OS2.0.203.0.VPPEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
-            <pubDate>Thu, 15 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 Pro 5G (lapis) - OS2.0.202.0.VPPINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
-            <pubDate>Thu, 15 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - OS3.0.3.0.WOLEUXM</title>
