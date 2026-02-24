@@ -209,6 +209,16 @@
     android: '14.0'
     miui: OS1.0.5.0.ULFEUXM
 - branch: stable
+  date: '2026-02-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-24.02.2026/fw_diting_diting_global-ota_full-OS3.0.1.0.VLFMIXM-user-15.0-292fb8d56d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/diting/fw_diting_diting_global-ota_full-OS3.0.1.0.VLFMIXM-user-15.0-292fb8d56d.zip
+  filename: fw_diting_diting_global-ota_full-OS3.0.1.0.VLFMIXM-user-15.0-292fb8d56d.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS3.0.1.0.VLFMIXM
+- branch: stable
   date: '2024-08-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-23.08.2024/fw_diting_miui_DITINGEEAGlobal_OS1.0.8.0.ULFEUXM_7b56c4c862_14.0.zip

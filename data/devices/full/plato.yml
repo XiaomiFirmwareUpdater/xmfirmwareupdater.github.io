@@ -179,6 +179,26 @@
     android: '14.0'
     miui: OS1.0.9.0.ULQMIXM
 - branch: stable
+  date: '2026-02-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-24.02.2026/fw_plato_plato_eea_global-ota_full-OS2.0.212.0.VLQEUXM-user-15.0-c53c759594.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/plato/fw_plato_plato_eea_global-ota_full-OS2.0.212.0.VLQEUXM-user-15.0-c53c759594.zip
+  filename: fw_plato_plato_eea_global-ota_full-OS2.0.212.0.VLQEUXM-user-15.0-c53c759594.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.212.0.VLQEUXM
+- branch: stable
+  date: '2026-02-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-24.02.2026/fw_plato_plato_global-ota_full-OS2.0.212.0.VLQMIXM-user-15.0-a2b0839ab1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/plato/fw_plato_plato_global-ota_full-OS2.0.212.0.VLQMIXM-user-15.0-a2b0839ab1.zip
+  filename: fw_plato_plato_global-ota_full-OS2.0.212.0.VLQMIXM-user-15.0-a2b0839ab1.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.212.0.VLQMIXM
+- branch: stable
   date: '2025-02-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-24.02.2025/fw_plato_miui_PLATOEEAGlobal_OS1.0.18.0.ULQEUXM_16ba84a05c_14.0.zip

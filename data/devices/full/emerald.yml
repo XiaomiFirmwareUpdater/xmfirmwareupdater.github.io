@@ -209,6 +209,16 @@
     android: '13.0'
     miui: V14.0.4.0.TNFEUXM
 - branch: stable
+  date: '2026-02-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-24.02.2026/fw_emerald_emerald_global-ota_full-OS3.0.5.0.WNFMIXM-user-16.0-2b4863679f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/emerald/fw_emerald_emerald_global-ota_full-OS3.0.5.0.WNFMIXM-user-16.0-2b4863679f.zip
+  filename: fw_emerald_emerald_global-ota_full-OS3.0.5.0.WNFMIXM-user-16.0-2b4863679f.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.5.0.WNFMIXM
+- branch: stable
   date: '2025-02-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-24.02.2025/fw_emerald_eea_global_emerald_eea_global-ota_full-OS2.0.1.0.VNFEUXM-user-15.0-22aa28182b.zip
