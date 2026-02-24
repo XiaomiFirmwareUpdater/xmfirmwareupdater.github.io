@@ -299,6 +299,36 @@
     android: '15.0'
     miui: OS2.0.210.0.VOOCNXM
 - branch: stable
+  date: '2026-02-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-24.02.2026/fw_malachite_malachite_eea_global-ota_full-OS3.0.3.0.WOOEUXM-user-16.0-cd4a38508a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/malachite/fw_malachite_malachite_eea_global-ota_full-OS3.0.3.0.WOOEUXM-user-16.0-cd4a38508a.zip
+  filename: fw_malachite_malachite_eea_global-ota_full-OS3.0.3.0.WOOEUXM-user-16.0-cd4a38508a.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.3.0.WOOEUXM
+- branch: stable
+  date: '2026-02-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-24.02.2026/fw_malachite_malachite_global-ota_full-OS3.0.9.0.WOOMIXM-user-16.0-3d6ca739ef.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/malachite/fw_malachite_malachite_global-ota_full-OS3.0.9.0.WOOMIXM-user-16.0-3d6ca739ef.zip
+  filename: fw_malachite_malachite_global-ota_full-OS3.0.9.0.WOOMIXM-user-16.0-3d6ca739ef.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.9.0.WOOMIXM
+- branch: stable
+  date: '2026-02-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-24.02.2026/fw_malachite_malachite_in_global-ota_full-OS3.0.4.0.WOOINXM-user-16.0-cc498b8e72.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/malachite/fw_malachite_malachite_in_global-ota_full-OS3.0.4.0.WOOINXM-user-16.0-cc498b8e72.zip
+  filename: fw_malachite_malachite_in_global-ota_full-OS3.0.4.0.WOOINXM-user-16.0-cc498b8e72.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.4.0.WOOINXM
+- branch: stable
   date: '2025-05-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-23.05.2025/fw_malachite_malachite-ota_full-OS2.0.11.0.VOOCNXM-user-15.0-864e8df88f.zip

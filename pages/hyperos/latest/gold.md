@@ -54,6 +54,7 @@ permalink: /hyperos/gold/
                 <tbody>
                 <tr><td>Redmi Note 13 5G / 13R Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.VNQCNXM</td><td>15.0</td><td>7.9 GB</td><td>2026-01-08</td><td><a href="/hyperos/gold/stable/OS3.0.5.0.VNQCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 5G / 13R Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.VNQCNXM</td><td>15.0</td><td>5.8 GB</td><td>2026-01-13</td><td><a href="/hyperos/gold/stable/OS3.0.5.0.VNQCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 5G / 13R Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.7.0.VNQCNXM</td><td>15.0</td><td>5.8 GB</td><td>2026-02-10</td><td><a href="/hyperos/gold/stable beta/OS3.0.7.0.VNQCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 5G / POCO X6 Neo 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VNQEUXM</td><td>15.0</td><td>7.7 GB</td><td>2025-12-27</td><td><a href="/hyperos/gold/stable/OS2.0.208.0.VNQEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 5G / POCO X6 Neo 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VNQEUXM</td><td>15.0</td><td>5.3 GB</td><td>2026-01-04</td><td><a href="/hyperos/gold/stable/OS2.0.208.0.VNQEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 5G / POCO X6 Neo 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.211.0.VNQMIXM</td><td>15.0</td><td>8.1 GB</td><td>2025-12-09</td><td><a href="/hyperos/gold/stable/OS2.0.211.0.VNQMIXM/">Download</a></td></tr>

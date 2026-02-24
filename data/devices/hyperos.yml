@@ -2328,6 +2328,18 @@
   version: OS1.0.7.0.UNUCNXM
 - android: '15.0'
   codename: charoite
+  date: '2026-02-24'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VPFEUXM/fw_charoite_charoite_eea_global-ota_full-OS2.0.207.0.VPFEUXM-user-15.0-3bd87ae353.zip
+  name: Redmi Note 15 Pro 4G
+  version: OS2.0.207.0.VPFEUXM
+- android: '15.0'
+  codename: charoite
+  date: '2026-02-24'
+  download: https://bigota.d.miui.com/OS2.0.210.0.VPFMIXM/fw_charoite_charoite_global-ota_full-OS2.0.210.0.VPFMIXM-user-15.0-7176efe8de.zip
+  name: Redmi Note 15 Pro 4G
+  version: OS2.0.210.0.VPFMIXM
+- android: '15.0'
+  codename: charoite
   date: '2026-01-22'
   download: https://bigota.d.miui.com/OS2.0.203.0.VPFMIDM/fw_charoite_charoite_global-ota_full-OS2.0.203.0.VPFMIDM-user-15.0-e40b88515a.zip
   name: Redmi Note 15 Pro 4G
@@ -2986,6 +2998,18 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VBOEUXM/fw_creek_eea_global_creek_eea_global-ota_full-OS2.0.203.0.VBOEUXM-user-15.0-edad663cd5.zip
   name: Redmi 15/POCO M7
   version: OS2.0.203.0.VBOEUXM
+- android: '16.0'
+  codename: creek
+  date: '2026-02-24'
+  download: https://bigota.d.miui.com/OS3.0.5.0.WBOEUXM/fw_creek_creek_eea_global-ota_full-OS3.0.5.0.WBOEUXM-user-16.0-8555363ee0.zip
+  name: Redmi 15/POCO M7
+  version: OS3.0.5.0.WBOEUXM
+- android: '16.0'
+  codename: creek
+  date: '2026-02-24'
+  download: https://bigota.d.miui.com/OS3.0.10.0.WBOMIXM/fw_creek_creek_global-ota_full-OS3.0.10.0.WBOMIXM-user-16.0-3d6d38b412.zip
+  name: Redmi 15/POCO M7
+  version: OS3.0.10.0.WBOMIXM
 - android: '15.0'
   codename: creek
   date: '2026-01-23'
@@ -4834,6 +4858,12 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.VNSMIXM/fw_dizi_global_dizi_global-ota_full-OS2.0.3.0.VNSMIXM-user-15.0-777b15b329.zip
   name: Redmi Pad Pro/POCO Pad
   version: OS2.0.3.0.VNSMIXM
+- android: '15.0'
+  codename: dizi
+  date: '2026-02-24'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VNSEUXM/fw_dizi_dizi_eea_global-ota_full-OS2.0.208.0.VNSEUXM-user-15.0-a336a31e79.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS2.0.208.0.VNSEUXM
 - android: '15.0'
   codename: dizi
   date: '2025-06-23'
@@ -7426,6 +7456,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UGPEUXM/fw_gale_miui_GALEEEAGlobal_OS1.0.3.0.UGPEUXM_8e8d639d36_14.0.zip
   name: Redmi 13C/POCO C65
   version: OS1.0.3.0.UGPEUXM
+- android: '15.0'
+  codename: gale
+  date: '2026-02-24'
+  download: https://bigota.d.miui.com/OS2.0.205.0.VGPINXM/fw_gale_gale_in_global-ota_full-OS2.0.205.0.VGPINXM-user-15.0-a90037d4fb.zip
+  name: Redmi 13C/POCO C65
+  version: OS2.0.205.0.VGPINXM
 - android: '14.0'
   codename: gale
   date: '2024-11-20'
@@ -11668,6 +11704,24 @@
   download: https://bigota.d.miui.com/OS2.0.210.0.VOOCNXM/fw_malachite_malachite-ota_full-OS2.0.210.0.VOOCNXM-user-15.0-aa7895fc8f.zip
   name: Redmi Note 14 Pro 5G/POCO X7
   version: OS2.0.210.0.VOOCNXM
+- android: '16.0'
+  codename: malachite
+  date: '2026-02-24'
+  download: https://bigota.d.miui.com/OS3.0.3.0.WOOEUXM/fw_malachite_malachite_eea_global-ota_full-OS3.0.3.0.WOOEUXM-user-16.0-cd4a38508a.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS3.0.3.0.WOOEUXM
+- android: '16.0'
+  codename: malachite
+  date: '2026-02-24'
+  download: https://bigota.d.miui.com/OS3.0.9.0.WOOMIXM/fw_malachite_malachite_global-ota_full-OS3.0.9.0.WOOMIXM-user-16.0-3d6ca739ef.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS3.0.9.0.WOOMIXM
+- android: '16.0'
+  codename: malachite
+  date: '2026-02-24'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WOOINXM/fw_malachite_malachite_in_global-ota_full-OS3.0.4.0.WOOINXM-user-16.0-cc498b8e72.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS3.0.4.0.WOOINXM
 - android: '15.0'
   codename: malachite
   date: '2025-05-23'
@@ -23362,6 +23416,12 @@
   download: https://bigota.d.miui.com/OS2.0.102.0.VOZCNXM/fw_uke_uke-ota_full-OS2.0.102.0.VOZCNXM-user-15.0-dd52eb80d7.zip
   name: Xiaomi Pad 7/POCO Pad X1
   version: OS2.0.102.0.VOZCNXM
+- android: '16.0'
+  codename: uke
+  date: '2026-02-24'
+  download: https://bigota.d.miui.com/OS3.0.2.0.WOZEUXM/fw_uke_uke_eea_global-ota_full-OS3.0.2.0.WOZEUXM-user-16.0-51804afe27.zip
+  name: Xiaomi Pad 7/POCO Pad X1
+  version: OS3.0.2.0.WOZEUXM
 - android: '15.0'
   codename: uke
   date: '2025-10-22'
