@@ -1300,6 +1300,12 @@
   download: https://bigota.d.miui.com/OS1.0.19.0.UNACNXM/fw_aurora_miui_AURORA_OS1.0.19.0.UNACNXM_372b67195e_14.0.zip
   name: Xiaomi 14 Ultra
   version: OS1.0.19.0.UNACNXM
+- android: '16.0'
+  codename: aurora
+  date: '2026-02-24'
+  download: https://bigota.d.miui.com/OS3.0.6.0.WNAMIXM/fw_aurora_aurora_global-ota_full-OS3.0.6.0.WNAMIXM-user-16.0-3d13c86b57.zip
+  name: Xiaomi 14 Ultra
+  version: OS3.0.6.0.WNAMIXM
 - android: '15.0'
   codename: aurora
   date: '2025-08-22'
@@ -5956,6 +5962,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UFOEUXM/fw_emeraldr_miui_EMERALDREEAGlobal_OS1.0.5.0.UFOEUXM_bdbfe66279_14.0.zip
   name: POCO M6 Pro
   version: OS1.0.5.0.UFOEUXM
+- android: '16.0'
+  codename: emerald
+  date: '2026-02-24'
+  download: https://bigota.d.miui.com/OS3.0.1.0.WNFEUXM/fw_emerald_emerald_eea_global-ota_full-OS3.0.1.0.WNFEUXM-user-16.0-a4320b0054.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
+  version: OS3.0.1.0.WNFEUXM
 - android: '16.0'
   codename: emerald
   date: '2026-02-24'
@@ -12838,6 +12850,12 @@
   download: https://bigota.d.miui.com/OS2.0.108.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.108.0.VOMCNXM-user-15.0-afaabb8574.zip
   name: Redmi K80 Pro/POCO F7 Ultra
   version: OS2.0.108.0.VOMCNXM
+- android: '16.0'
+  codename: miro
+  date: '2026-02-24'
+  download: https://bigota.d.miui.com/OS3.0.6.0.WOMCNXM/fw_miro_miro-ota_full-OS3.0.6.0.WOMCNXM-user-16.0-e5f722efc7.zip
+  name: Redmi K80 Pro/POCO F7 Ultra
+  version: OS3.0.6.0.WOMCNXM
 - android: '15.0'
   codename: miro
   date: '2024-12-23'

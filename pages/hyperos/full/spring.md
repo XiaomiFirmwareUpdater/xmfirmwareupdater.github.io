@@ -53,6 +53,7 @@ permalink: /archive/hyperos/spring/
                 </thead>
                 <tbody>
                 <tr><td>Redmi 15 5G / POCO M7 Plus 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.208.0.VOUMIXM</td><td>15.0</td><td>4.8 GB</td><td>2026-02-13</td><td><a href="/hyperos/spring/stable beta/OS2.0.208.0.VOUMIXM/">Download</a></td></tr>
+<tr><td>Redmi 15 5G / POCO M7 Plus 5G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.202.0.VOUTRXM</td><td>15.0</td><td>4.7 GB</td><td>2026-02-11</td><td><a href="/hyperos/spring/stable beta/OS2.0.202.0.VOUTRXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / POCO M7 Plus 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.208.0.VOUINXM</td><td>15.0</td><td>4.5 GB</td><td>2026-02-10</td><td><a href="/hyperos/spring/stable beta/OS2.0.208.0.VOUINXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / POCO M7 Plus 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VOUEUXM</td><td>15.0</td><td>4.8 GB</td><td>2026-01-22</td><td><a href="/hyperos/spring/stable/OS2.0.208.0.VOUEUXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / POCO M7 Plus 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VOUEUXM</td><td>15.0</td><td>7.5 GB</td><td>2026-01-14</td><td><a href="/hyperos/spring/stable/OS2.0.208.0.VOUEUXM/">Download</a></td></tr>
@@ -84,10 +85,10 @@ permalink: /archive/hyperos/spring/
 <tr><td>Redmi 15 5G / POCO M7 Plus 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VOUINXM</td><td>15.0</td><td>6.5 GB</td><td>2025-09-03</td><td><a href="/hyperos/spring/stable/OS2.0.205.0.VOUINXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / POCO M7 Plus 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VOUMIXM</td><td>15.0</td><td>4.7 GB</td><td>2025-09-05</td><td><a href="/hyperos/spring/stable/OS2.0.204.0.VOUMIXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / POCO M7 Plus 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VOUMIXM</td><td>15.0</td><td>7.7 GB</td><td>2025-08-27</td><td><a href="/hyperos/spring/stable/OS2.0.204.0.VOUMIXM/">Download</a></td></tr>
-<tr><td>Redmi 15 5G / POCO M7 Plus 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VOUEUXM</td><td>15.0</td><td>4.7 GB</td><td>2025-08-22</td><td><a href="/hyperos/spring/stable/OS2.0.203.0.VOUEUXM/">Download</a></td></tr>
-<tr><td>Redmi 15 5G / POCO M7 Plus 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VOUEUXM</td><td>15.0</td><td>7.4 GB</td><td>2025-08-19</td><td><a href="/hyperos/spring/stable/OS2.0.203.0.VOUEUXM/">Download</a></td></tr>
 <tr><td>Redmi 15R 5G China</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VOUCNXM</td><td>15.0</td><td>5.4 GB</td><td>2025-08-29</td><td><a href="/hyperos/spring/stable/OS2.0.203.0.VOUCNXM/">Download</a></td></tr>
 <tr><td>Redmi 15R 5G China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VOUCNXM</td><td>15.0</td><td>7.4 GB</td><td>2025-08-28</td><td><a href="/hyperos/spring/stable/OS2.0.203.0.VOUCNXM/">Download</a></td></tr>
+<tr><td>Redmi 15 5G / POCO M7 Plus 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VOUEUXM</td><td>15.0</td><td>4.7 GB</td><td>2025-08-22</td><td><a href="/hyperos/spring/stable/OS2.0.203.0.VOUEUXM/">Download</a></td></tr>
+<tr><td>Redmi 15 5G / POCO M7 Plus 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VOUEUXM</td><td>15.0</td><td>7.4 GB</td><td>2025-08-19</td><td><a href="/hyperos/spring/stable/OS2.0.203.0.VOUEUXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / POCO M7 Plus 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VOUINXM</td><td>15.0</td><td>4.4 GB</td><td>2025-08-27</td><td><a href="/hyperos/spring/stable/OS2.0.203.0.VOUINXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / POCO M7 Plus 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VOUINXM</td><td>15.0</td><td>6.4 GB</td><td>2025-08-07</td><td><a href="/hyperos/spring/stable/OS2.0.203.0.VOUINXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / POCO M7 Plus 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VOUMIXM</td><td>15.0</td><td>4.7 GB</td><td>2025-08-08</td><td><a href="/hyperos/spring/stable/OS2.0.203.0.VOUMIXM/">Download</a></td></tr>
