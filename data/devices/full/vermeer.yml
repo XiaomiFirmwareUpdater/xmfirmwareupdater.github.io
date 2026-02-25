@@ -139,6 +139,16 @@
     android: '14.0'
     miui: OS1.0.11.0.UNKMIXM
 - branch: stable
+  date: '2026-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-25.02.2026/fw_vermeer_vermeer-ota_full-OS3.0.9.0.WNKCNXM-user-16.0-af90169c41.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/vermeer/fw_vermeer_vermeer-ota_full-OS3.0.9.0.WNKCNXM-user-16.0-af90169c41.zip
+  filename: fw_vermeer_vermeer-ota_full-OS3.0.9.0.WNKCNXM-user-16.0-af90169c41.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.9.0.WNKCNXM
+- branch: stable
   date: '2024-06-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-24.06.2024/fw_vermeer_miui_VERMEERGlobal_OS1.0.4.0.UNKMIXM_a7282cbdb1_14.0.zip

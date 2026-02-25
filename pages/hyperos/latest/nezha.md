@@ -54,7 +54,7 @@ permalink: /hyperos/nezha/
                 <tbody>
                 <tr><td>Xiaomi 17 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.12.0.WPACNXM</td><td>16.0</td><td>12.6 GB</td><td>2026-01-21</td><td><a href="/hyperos/nezha/stable/OS3.0.12.0.WPACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS3.0.12.0.WPACNXM</td><td>16.0</td><td>10.0 GB</td><td>2026-01-22</td><td><a href="/hyperos/nezha/stable/OS3.0.12.0.WPACNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 17 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.4.0.WPACNXM</td><td>16.0</td><td>9.7 GB</td><td>2025-12-25</td><td><a href="/hyperos/nezha/stable beta/OS3.0.4.0.WPACNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.15.0.WPACNXM</td><td>16.0</td><td>10.1 GB</td><td>2026-02-08</td><td><a href="/hyperos/nezha/stable beta/OS3.0.15.0.WPACNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
