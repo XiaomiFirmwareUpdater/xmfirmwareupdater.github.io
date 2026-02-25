@@ -9,15 +9,15 @@
     android: '16.0'
     miui: OS3.0.3.0.WOPMIXM
 - branch: stable
-  date: '2025-12-28'
+  date: '2026-02-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-28.12.2025/fw_amethyst_amethyst-ota_full-OS3.0.3.0.WOPCNXM-user-16.0-ff6100a607.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/amethyst/fw_amethyst_amethyst-ota_full-OS3.0.3.0.WOPCNXM-user-16.0-ff6100a607.zip
-  filename: fw_amethyst_amethyst-ota_full-OS3.0.3.0.WOPCNXM-user-16.0-ff6100a607.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-25.02.2026/fw_amethyst_amethyst-ota_full-OS3.0.4.0.WOPCNXM-user-16.0-4abe570868.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/amethyst/fw_amethyst_amethyst-ota_full-OS3.0.4.0.WOPCNXM-user-16.0-4abe570868.zip
+  filename: fw_amethyst_amethyst-ota_full-OS3.0.4.0.WOPCNXM-user-16.0-4abe570868.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.3.0.WOPCNXM
+    miui: OS3.0.4.0.WOPCNXM
 - branch: stable
   date: '2026-01-21'
   downloads:
