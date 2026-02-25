@@ -6514,6 +6514,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UGUCNXM/fw_flame_miui_FLAME_OS1.0.8.0.UGUCNXM_dd2158bc97_14.0.zip
   name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
   version: OS1.0.8.0.UGUCNXM
+- android: '16.0'
+  codename: flame
+  date: '2026-02-25'
+  download: https://bigota.d.miui.com/OS3.0.2.0.WGUCNXM/fw_flame_flame-ota_full-OS3.0.2.0.WGUCNXM-user-16.0-26eeb63730.zip
+  name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
+  version: OS3.0.2.0.WGUCNXM
 - android: '14.0'
   codename: flame
   date: '2025-09-24'
@@ -10422,6 +10428,12 @@
   version: OS2.0.110.0.VOXCNXM
 - android: '16.0'
   codename: klee
+  date: '2026-02-25'
+  download: https://bigota.d.miui.com/OS3.0.20.0.WPJCNXM/fw_klee_klee-ota_full-OS3.0.20.0.WPJCNXM-user-16.0-2f1908aa66.zip
+  name: Redmi Turbo 5/POCO X8 Pro
+  version: OS3.0.20.0.WPJCNXM
+- android: '16.0'
+  codename: klee
   date: '2026-02-22'
   download: https://bigota.d.miui.com/OS3.0.4.0.WPJCNXM/fw_klee_klee-ota_full-OS3.0.4.0.WPJCNXM-user-16.0-1012e48a45.zip
   name: Redmi Turbo 5/POCO X8 Pro
@@ -10756,6 +10768,12 @@
   download: https://bigota.d.miui.com/OS2.0.4.0.VGTMIXM/fw_lake_global_lake_global-ota_full-OS2.0.4.0.VGTMIXM-user-15.0-6df1d5e03a.zip
   name: Redmi 14C/POCO C75/Redmi A3 Pro
   version: OS2.0.4.0.VGTMIXM
+- android: '16.0'
+  codename: lake
+  date: '2026-02-25'
+  download: https://bigota.d.miui.com/OS3.0.18.0.WGTMIXM/fw_lake_lake_global-ota_full-OS3.0.18.0.WGTMIXM-user-16.0-e592ad4d68.zip
+  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  version: OS3.0.18.0.WGTMIXM
 - android: '15.0'
   codename: lake
   date: '2026-01-23'

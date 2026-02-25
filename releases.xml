@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 25 Feb 2026 13:31:19 </lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 19:06:33 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.4.0.WOPCNXM</title>
@@ -24,6 +24,21 @@
         <item>
             <title>Redmi 12 (fire) - OS2.0.207.0.VMXMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fire/</link>
+            <pubDate>Wed, 25 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS3.0.2.0.WGUCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flame/</link>
+            <pubDate>Wed, 25 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 5/POCO X8 Pro (klee) - OS3.0.20.0.WPJCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/klee/</link>
+            <pubDate>Wed, 25 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 14C/POCO C75/Redmi A3 Pro (lake) - OS3.0.18.0.WGTMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lake/</link>
             <pubDate>Wed, 25 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -219,11 +234,6 @@
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.5.0.WNLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Sun, 22 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 5/POCO X8 Pro (klee) - OS3.0.4.0.WPJCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/klee/</link>
             <pubDate>Sun, 22 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -804,11 +814,6 @@
         <item>
             <title>Xiaomi 15T (goya) - OS3.0.9.0.WOEEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/goya/</link>
-            <pubDate>Fri, 23 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 14C/POCO C75/Redmi A3 Pro (lake) - OS2.0.205.0.VGTMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lake/</link>
             <pubDate>Fri, 23 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1510,11 +1515,6 @@
             <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - OS1.0.8.0.ULSEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/light/</link>
             <pubDate>Sun, 28 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS1.0.18.0.UGUCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flame/</link>
-            <pubDate>Wed, 24 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 12 (fire) - OS2.0.202.0.VMXINXM</title>
