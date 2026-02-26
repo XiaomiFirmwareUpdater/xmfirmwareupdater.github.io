@@ -15216,6 +15216,12 @@
   version: OS2.0.210.0.VOFMIXM
 - android: '15.0'
   codename: obsidian
+  date: '2026-02-26'
+  download: https://bigota.d.miui.com/OS2.0.215.0.VOFEUXM/fw_obsidian_obsidian_eea_global-ota_full-OS2.0.215.0.VOFEUXM-user-15.0-d852a50731.zip
+  name: Redmi Note 14 Pro 4G
+  version: OS2.0.215.0.VOFEUXM
+- android: '15.0'
+  codename: obsidian
   date: '2025-06-25'
   download: https://bigota.d.miui.com/OS2.0.6.0.VOFMIXM/fw_obsidian_global_obsidian_global-ota_full-OS2.0.6.0.VOFMIXM-user-15.0-c1c65e24e4.zip
   name: Redmi Note 14 Pro 4G
