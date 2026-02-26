@@ -9,15 +9,15 @@
     android: '16.0'
     miui: OS3.0.5.0.WOLMIXM
 - branch: stable
-  date: '2025-12-27'
+  date: '2026-02-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-27.12.2025/fw_onyx_onyx-ota_full-OS3.0.9.0.WOLCNXM-user-16.0-f4c52ba5dd.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/onyx/fw_onyx_onyx-ota_full-OS3.0.9.0.WOLCNXM-user-16.0-f4c52ba5dd.zip
-  filename: fw_onyx_onyx-ota_full-OS3.0.9.0.WOLCNXM-user-16.0-f4c52ba5dd.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-26.02.2026/fw_onyx_onyx-ota_full-OS3.0.11.0.WOLCNXM-user-16.0-2ceab380eb.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/onyx/fw_onyx_onyx-ota_full-OS3.0.11.0.WOLCNXM-user-16.0-2ceab380eb.zip
+  filename: fw_onyx_onyx-ota_full-OS3.0.11.0.WOLCNXM-user-16.0-2ceab380eb.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.9.0.WOLCNXM
+    miui: OS3.0.11.0.WOLCNXM
 - branch: stable
   date: '2026-01-14'
   downloads:
