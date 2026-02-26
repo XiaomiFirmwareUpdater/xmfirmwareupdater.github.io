@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2026-02-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dijun/releases/download/stable-26.02.2026/fw_dijun_dijun-ota_full-OS3.0.11.0.WODCNXM-user-16.0-95138b7852.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dijun/fw_dijun_dijun-ota_full-OS3.0.11.0.WODCNXM-user-16.0-95138b7852.zip
+  filename: fw_dijun_dijun-ota_full-OS3.0.11.0.WODCNXM-user-16.0-95138b7852.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.11.0.WODCNXM
+- branch: stable
   date: '2025-07-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dijun/releases/download/stable-25.07.2025/fw_dijun_dijun-ota_full-OS2.0.207.0.VODCNXM-user-15.0-5a044d2e85.zip
