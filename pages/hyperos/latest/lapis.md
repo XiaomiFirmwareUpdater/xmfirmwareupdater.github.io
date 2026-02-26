@@ -70,11 +70,11 @@ permalink: /hyperos/lapis/
 <tr><td>Redmi Note 15 Pro 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VPPTRXM</td><td>15.0</td><td>6.3 GB</td><td>2026-02-11</td><td><a href="/hyperos/lapis/stable/OS2.0.202.0.VPPTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 5G Japan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VPPJPXM</td><td>15.0</td><td>8.8 GB</td><td>2025-12-08</td><td><a href="/hyperos/lapis/stable/OS2.0.204.0.VPPJPXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 5G Japan</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VPPJPXM</td><td>15.0</td><td>6.3 GB</td><td>2026-01-15</td><td><a href="/hyperos/lapis/stable/OS2.0.204.0.VPPJPXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.203.0.VPPTWXM</td><td>15.0</td><td>6.2 GB</td><td>2026-02-26</td><td><a href="/hyperos/lapis/stable beta/OS2.0.203.0.VPPTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VPPRUXM</td><td>15.0</td><td>9.8 GB</td><td>2025-10-21</td><td><a href="/hyperos/lapis/stable/OS2.0.201.0.VPPRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VPPRUXM</td><td>15.0</td><td>6.2 GB</td><td>2026-01-15</td><td><a href="/hyperos/lapis/stable/OS2.0.201.0.VPPRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VPPTWXM</td><td>15.0</td><td>7.5 GB</td><td>2026-01-07</td><td><a href="/hyperos/lapis/stable/OS2.0.202.0.VPPTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VPPTWXM</td><td>15.0</td><td>6.2 GB</td><td>2026-01-15</td><td><a href="/hyperos/lapis/stable/OS2.0.202.0.VPPTWXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 Pro 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.201.0.VPPTWXM</td><td>15.0</td><td>6.1 GB</td><td>2026-01-15</td><td><a href="/hyperos/lapis/stable beta/OS2.0.201.0.VPPTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

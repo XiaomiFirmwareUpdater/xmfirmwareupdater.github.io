@@ -54,8 +54,8 @@ permalink: /hyperos/aristotle/
                 <tbody>
                 <tr><td>Xiaomi 13T EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.213.0.VMFEUXM</td><td>15.0</td><td>7.3 GB</td><td>2025-12-24</td><td><a href="/hyperos/aristotle/stable/OS2.0.213.0.VMFEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.213.0.VMFEUXM</td><td>15.0</td><td>6.1 GB</td><td>2025-12-30</td><td><a href="/hyperos/aristotle/stable/OS2.0.213.0.VMFEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13T Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.213.0.VMFMIXM</td><td>15.0</td><td>7.8 GB</td><td>2026-01-09</td><td><a href="/hyperos/aristotle/stable/OS2.0.213.0.VMFMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13T Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.213.0.VMFMIXM</td><td>15.0</td><td>6.1 GB</td><td>2026-01-22</td><td><a href="/hyperos/aristotle/stable/OS2.0.213.0.VMFMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.214.0.VMFMIXM</td><td>15.0</td><td>7.8 GB</td><td>2026-02-02</td><td><a href="/hyperos/aristotle/stable/OS2.0.214.0.VMFMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13T Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.214.0.VMFMIXM</td><td>15.0</td><td>6.1 GB</td><td>2026-02-09</td><td><a href="/hyperos/aristotle/stable/OS2.0.214.0.VMFMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VMFIDXM</td><td>15.0</td><td>7.4 GB</td><td>2025-11-22</td><td><a href="/hyperos/aristotle/stable/OS2.0.207.0.VMFIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VMFIDXM</td><td>15.0</td><td>6.0 GB</td><td>2025-12-04</td><td><a href="/hyperos/aristotle/stable/OS2.0.207.0.VMFIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13T Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VMFRUXM</td><td>15.0</td><td>8.0 GB</td><td>2025-11-22</td><td><a href="/hyperos/aristotle/stable/OS2.0.207.0.VMFRUXM/">Download</a></td></tr>

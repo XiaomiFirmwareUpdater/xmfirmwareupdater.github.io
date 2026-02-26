@@ -52,8 +52,8 @@ permalink: /hyperos/onyx/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Turbo 4 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.9.0.WOLCNXM</td><td>16.0</td><td>10.4 GB</td><td>2025-12-11</td><td><a href="/hyperos/onyx/stable/OS3.0.9.0.WOLCNXM/">Download</a></td></tr>
-<tr><td>Redmi Turbo 4 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.9.0.WOLCNXM</td><td>16.0</td><td>8.3 GB</td><td>2025-12-16</td><td><a href="/hyperos/onyx/stable/OS3.0.9.0.WOLCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Turbo 4 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.11.0.WOLCNXM</td><td>16.0</td><td>10.4 GB</td><td>2026-01-21</td><td><a href="/hyperos/onyx/stable/OS3.0.11.0.WOLCNXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 4 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.11.0.WOLCNXM</td><td>16.0</td><td>8.3 GB</td><td>2026-01-28</td><td><a href="/hyperos/onyx/stable/OS3.0.11.0.WOLCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 4 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.112.0.VOLCNXM</td><td>15.0</td><td>474 Bytes</td><td>None</td><td><a href="/hyperos/onyx/stable beta/OS2.0.112.0.VOLCNXM/">Download</a></td></tr>
 <tr><td>POCO F7 EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOLEUXM</td><td>16.0</td><td>9.9 GB</td><td>2025-12-27</td><td><a href="/hyperos/onyx/stable/OS3.0.3.0.WOLEUXM/">Download</a></td></tr>
 <tr><td>POCO F7 EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOLEUXM</td><td>16.0</td><td>7.2 GB</td><td>2026-01-09</td><td><a href="/hyperos/onyx/stable/OS3.0.3.0.WOLEUXM/">Download</a></td></tr>
@@ -63,10 +63,10 @@ permalink: /hyperos/onyx/
 <tr><td>POCO F7 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VOLIDXM</td><td>15.0</td><td>6.9 GB</td><td>2025-11-20</td><td><a href="/hyperos/onyx/stable/OS2.0.204.0.VOLIDXM/">Download</a></td></tr>
 <tr><td>POCO F7 India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOLINXM</td><td>16.0</td><td>9.1 GB</td><td>2025-12-24</td><td><a href="/hyperos/onyx/stable/OS3.0.3.0.WOLINXM/">Download</a></td></tr>
 <tr><td>POCO F7 India</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOLINXM</td><td>16.0</td><td>7.0 GB</td><td>2025-12-29</td><td><a href="/hyperos/onyx/stable/OS3.0.3.0.WOLINXM/">Download</a></td></tr>
-<tr><td>POCO F7 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VOLRUXM</td><td>15.0</td><td>10.2 GB</td><td>2025-11-12</td><td><a href="/hyperos/onyx/stable/OS2.0.204.0.VOLRUXM/">Download</a></td></tr>
-<tr><td>POCO F7 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WOLRUXM</td><td>16.0</td><td>7.1 GB</td><td>2025-12-26</td><td><a href="/hyperos/onyx/stable/OS3.0.2.0.WOLRUXM/">Download</a></td></tr>
-<tr><td>POCO F7 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WOLTWXM</td><td>16.0</td><td>8.2 GB</td><td>2025-12-23</td><td><a href="/hyperos/onyx/stable/OS3.0.2.0.WOLTWXM/">Download</a></td></tr>
-<tr><td>POCO F7 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WOLTWXM</td><td>16.0</td><td>7.1 GB</td><td>2025-12-26</td><td><a href="/hyperos/onyx/stable/OS3.0.2.0.WOLTWXM/">Download</a></td></tr>
+<tr><td>POCO F7 Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOLRUXM</td><td>16.0</td><td>10.7 GB</td><td>2026-02-03</td><td><a href="/hyperos/onyx/stable/OS3.0.3.0.WOLRUXM/">Download</a></td></tr>
+<tr><td>POCO F7 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOLRUXM</td><td>16.0</td><td>7.1 GB</td><td>2026-02-08</td><td><a href="/hyperos/onyx/stable/OS3.0.3.0.WOLRUXM/">Download</a></td></tr>
+<tr><td>POCO F7 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOLTWXM</td><td>16.0</td><td>8.2 GB</td><td>2026-02-03</td><td><a href="/hyperos/onyx/stable/OS3.0.3.0.WOLTWXM/">Download</a></td></tr>
+<tr><td>POCO F7 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOLTWXM</td><td>16.0</td><td>7.1 GB</td><td>2026-02-08</td><td><a href="/hyperos/onyx/stable/OS3.0.3.0.WOLTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

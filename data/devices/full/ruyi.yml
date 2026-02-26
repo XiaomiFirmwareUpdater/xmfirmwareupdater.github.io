@@ -119,6 +119,16 @@
     android: '14.0'
     miui: OS1.0.3.0.UNIMIXM
 - branch: stable
+  date: '2026-02-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-26.02.2026/fw_ruyi_ruyi-ota_full-OS3.0.7.0.WNICNXM-user-16.0-8767e1bda2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ruyi/fw_ruyi_ruyi-ota_full-OS3.0.7.0.WNICNXM-user-16.0-8767e1bda2.zip
+  filename: fw_ruyi_ruyi-ota_full-OS3.0.7.0.WNICNXM-user-16.0-8767e1bda2.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.7.0.WNICNXM
+- branch: stable
   date: '2024-08-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-25.08.2024/fw_ruyi_miui_RUYIGlobal_OS1.0.4.0.UNIMIXM_a37537ba0f_14.0.zip

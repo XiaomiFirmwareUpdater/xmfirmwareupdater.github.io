@@ -54,6 +54,7 @@ permalink: /hyperos/dijun/
                 <tbody>
                 <tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.10.0.WODCNXM</td><td>16.0</td><td>9.5 GB</td><td>2026-01-13</td><td><a href="/hyperos/dijun/stable/OS3.0.10.0.WODCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15S Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.10.0.WODCNXM</td><td>16.0</td><td>7.3 GB</td><td>2026-01-20</td><td><a href="/hyperos/dijun/stable/OS3.0.10.0.WODCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15S Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.11.0.WODCNXM</td><td>16.0</td><td>7.3 GB</td><td>2026-02-11</td><td><a href="/hyperos/dijun/stable beta/OS3.0.11.0.WODCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

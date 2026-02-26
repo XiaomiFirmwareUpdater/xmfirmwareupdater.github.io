@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2026-01-06'
+  date: '2026-02-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dali/releases/download/stable-06.01.2026/fw_dali_dali-ota_full-OS3.0.7.0.WONCNXM-user-16.0-a725b61af0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dali/fw_dali_dali-ota_full-OS3.0.7.0.WONCNXM-user-16.0-a725b61af0.zip
-  filename: fw_dali_dali-ota_full-OS3.0.7.0.WONCNXM-user-16.0-a725b61af0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dali/releases/download/stable-26.02.2026/fw_dali_dali-ota_full-OS3.0.9.0.WONCNXM-user-16.0-a32c7ff19c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dali/fw_dali_dali-ota_full-OS3.0.9.0.WONCNXM-user-16.0-a32c7ff19c.zip
+  filename: fw_dali_dali-ota_full-OS3.0.9.0.WONCNXM-user-16.0-a32c7ff19c.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.7.0.WONCNXM
+    miui: OS3.0.9.0.WONCNXM

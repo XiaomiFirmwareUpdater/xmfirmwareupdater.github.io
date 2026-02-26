@@ -9,15 +9,15 @@
     android: '16.0'
     miui: OS3.0.8.0.WOKMIXM
 - branch: stable
-  date: '2026-01-28'
+  date: '2026-02-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zorn/releases/download/stable-28.01.2026/fw_zorn_zorn-ota_full-OS3.0.8.0.WOKCNXM-user-16.0-ef83e15b64.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/zorn/fw_zorn_zorn-ota_full-OS3.0.8.0.WOKCNXM-user-16.0-ef83e15b64.zip
-  filename: fw_zorn_zorn-ota_full-OS3.0.8.0.WOKCNXM-user-16.0-ef83e15b64.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zorn/releases/download/stable-26.02.2026/fw_zorn_zorn-ota_full-OS3.0.9.0.WOKCNXM-user-16.0-490db3e034.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/zorn/fw_zorn_zorn-ota_full-OS3.0.9.0.WOKCNXM-user-16.0-490db3e034.zip
+  filename: fw_zorn_zorn-ota_full-OS3.0.9.0.WOKCNXM-user-16.0-490db3e034.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.8.0.WOKCNXM
+    miui: OS3.0.9.0.WOKCNXM
 - branch: stable
   date: '2026-01-11'
   downloads:

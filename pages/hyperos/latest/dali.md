@@ -52,8 +52,8 @@ permalink: /hyperos/dali/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K80 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.7.0.WONCNXM</td><td>16.0</td><td>10.5 GB</td><td>2025-12-17</td><td><a href="/hyperos/dali/stable/OS3.0.7.0.WONCNXM/">Download</a></td></tr>
-<tr><td>Redmi K80 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS3.0.7.0.WONCNXM</td><td>16.0</td><td>7.9 GB</td><td>2025-12-26</td><td><a href="/hyperos/dali/stable/OS3.0.7.0.WONCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K80 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.9.0.WONCNXM</td><td>16.0</td><td>10.5 GB</td><td>2026-01-24</td><td><a href="/hyperos/dali/stable/OS3.0.9.0.WONCNXM/">Download</a></td></tr>
+<tr><td>Redmi K80 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS3.0.9.0.WONCNXM</td><td>16.0</td><td>8.1 GB</td><td>2026-02-03</td><td><a href="/hyperos/dali/stable/OS3.0.9.0.WONCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.208.0.VONCNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-06-26</td><td><a href="/hyperos/dali/stable beta/OS2.0.208.0.VONCNXM/">Download</a></td></tr>
 
                 </tbody>
