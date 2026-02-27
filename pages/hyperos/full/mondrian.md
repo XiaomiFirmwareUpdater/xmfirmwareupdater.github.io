@@ -52,7 +52,9 @@ permalink: /archive/hyperos/mondrian/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K60 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.VMNCNXM</td><td>15.0</td><td>6.3 GB</td><td>2026-01-30</td><td><a href="/hyperos/mondrian/stable/OS3.0.5.0.VMNCNXM/">Download</a></td></tr>
+                <tr><td>POCO F5 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.VMNMIXM</td><td>15.0</td><td>5.7 GB</td><td>2026-02-03</td><td><a href="/hyperos/mondrian/stable/OS3.0.2.0.VMNMIXM/">Download</a></td></tr>
+<tr><td>POCO F5 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.VMNMIXM</td><td>15.0</td><td>8.0 GB</td><td>2026-01-28</td><td><a href="/hyperos/mondrian/stable/OS3.0.2.0.VMNMIXM/">Download</a></td></tr>
+<tr><td>Redmi K60 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.VMNCNXM</td><td>15.0</td><td>6.3 GB</td><td>2026-01-30</td><td><a href="/hyperos/mondrian/stable/OS3.0.5.0.VMNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.VMNCNXM</td><td>15.0</td><td>8.3 GB</td><td>2026-01-25</td><td><a href="/hyperos/mondrian/stable/OS3.0.5.0.VMNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.VMNCNXM</td><td>15.0</td><td>6.3 GB</td><td>2026-01-14</td><td><a href="/hyperos/mondrian/stable/OS3.0.4.0.VMNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.VMNCNXM</td><td>15.0</td><td>8.3 GB</td><td>2026-01-13</td><td><a href="/hyperos/mondrian/stable/OS3.0.4.0.VMNCNXM/">Download</a></td></tr>
