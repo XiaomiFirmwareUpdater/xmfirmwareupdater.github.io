@@ -8248,6 +8248,12 @@
   download: https://bigota.d.miui.com/OS2.0.205.0.VNVCNXM/fw_goku_goku-ota_full-OS2.0.205.0.VNVCNXM-user-15.0-88547c9cf5.zip
   name: MIX Fold 4
   version: OS2.0.205.0.VNVCNXM
+- android: '16.0'
+  codename: goku
+  date: '2026-02-27'
+  download: https://bigota.d.miui.com/OS3.0.7.0.WNVCNXM/fw_goku_goku-ota_full-OS3.0.7.0.WNVCNXM-user-16.0-636b8ce59f.zip
+  name: MIX Fold 4
+  version: OS3.0.7.0.WNVCNXM
 - android: '15.0'
   codename: goku
   date: '2025-09-26'
@@ -15594,6 +15600,12 @@
   version: OS2.0.201.0.VPXINXM
 - android: '15.0'
   codename: organ
+  date: '2026-02-27'
+  download: https://bigota.d.miui.com/OS2.0.203.0.VPXINXM/fw_organ_organ_in_global-ota_full-OS2.0.203.0.VPXINXM-user-15.0-bb040590f6.zip
+  name: Redmi Pad 2 Pro 5G
+  version: OS2.0.203.0.VPXINXM
+- android: '15.0'
+  codename: organ
   date: '2026-02-26'
   download: https://bigota.d.miui.com/OS2.0.208.0.VPXMIXM/fw_organ_organ_global-ota_full-OS2.0.208.0.VPXMIXM-user-15.0-a2358dd05d.zip
   name: Redmi Pad 2 Pro 5G
@@ -21964,6 +21976,12 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VOUINXM/fw_spring_in_global_spring_in_global-ota_full-OS2.0.203.0.VOUINXM-user-15.0-97420328f8.zip
   name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
   version: OS2.0.203.0.VOUINXM
+- android: '16.0'
+  codename: spring
+  date: '2026-02-27'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WOUCNXM/fw_spring_spring-ota_full-OS3.0.4.0.WOUCNXM-user-16.0-e3a8f4c96c.zip
+  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  version: OS3.0.4.0.WOUCNXM
 - android: '15.0'
   codename: spring
   date: '2026-02-22'
