@@ -26424,6 +26424,12 @@
   version: OS3.0.9.0.WPZCNXM
 - android: '16.0'
   codename: yupei
+  date: '2026-02-27'
+  download: https://bigota.d.miui.com/OS3.0.12.0.WPZCNXM/fw_yupei_yupei-ota_full-OS3.0.12.0.WPZCNXM-user-16.0-a2eb78c92f.zip
+  name: Xiaomi Pad 8
+  version: OS3.0.12.0.WPZCNXM
+- android: '16.0'
+  codename: yupei
   date: '2025-10-22'
   download: https://bigota.d.miui.com/OS3.0.7.0.WPZCNXM/fw_yupei_yupei-ota_full-OS3.0.7.0.WPZCNXM-user-16.0-1317db49b9.zip
   name: Xiaomi Pad 8
