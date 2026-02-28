@@ -5950,6 +5950,12 @@
   download: https://bigota.d.miui.com/OS2.0.204.0.VNFMIXM/fw_emerald_global_emerald_global-ota_full-OS2.0.204.0.VNFMIXM-user-15.0-be68108adf.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS2.0.204.0.VNFMIXM
+- android: '16.0'
+  codename: emerald
+  date: '2026-02-28'
+  download: https://bigota.d.miui.com/OS3.0.1.0.WFOEUXM/fw_emerald_emerald_r_eea_global-ota_full-OS3.0.1.0.WFOEUXM-user-16.0-c70f79c8d6.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
+  version: OS3.0.1.0.WFOEUXM
 - android: '15.0'
   codename: emerald
   date: '2025-11-27'
@@ -16000,6 +16006,18 @@
   download: https://bigota.d.miui.com/OS2.0.107.0.VNPEUXM/fw_peridot_eea_global_peridot_eea_global-ota_full-OS2.0.107.0.VNPEUXM-user-15.0-f06adc6edc.zip
   name: Redmi Turbo 3/POCO F6
   version: OS2.0.107.0.VNPEUXM
+- android: '16.0'
+  codename: peridot
+  date: '2026-02-28'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WNPMIXM/fw_peridot_peridot_global-ota_full-OS3.0.4.0.WNPMIXM-user-16.0-3fccc2bf19.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS3.0.4.0.WNPMIXM
+- android: '16.0'
+  codename: peridot
+  date: '2026-02-28'
+  download: https://bigota.d.miui.com/OS3.0.2.0.WNPINXM/fw_peridot_peridot_in_global-ota_full-OS3.0.2.0.WNPINXM-user-16.0-e78c03f75a.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS3.0.2.0.WNPINXM
 - android: '15.0'
   codename: peridot
   date: '2025-05-27'
@@ -16342,6 +16360,12 @@
   download: https://bigota.d.miui.com/OS3.0.8.0.WPYCNXM/fw_piano_piano-ota_full-OS3.0.8.0.WPYCNXM-user-16.0-e8eb042e51.zip
   name: Xiaomi Pad 8 Pro
   version: OS3.0.8.0.WPYCNXM
+- android: '16.0'
+  codename: piano
+  date: '2026-02-28'
+  download: https://bigota.d.miui.com/OS3.0.11.0.WPYCNXM/fw_piano_piano-ota_full-OS3.0.11.0.WPYCNXM-user-16.0-1491cbf14d.zip
+  name: Xiaomi Pad 8 Pro
+  version: OS3.0.11.0.WPYCNXM
 - android: '16.0'
   codename: piano
   date: '2025-10-22'
@@ -20518,6 +20542,18 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VHZMIXM/fw_sea_global_sea_global-ota_full-OS2.0.202.0.VHZMIXM-user-15.0-cbbdb283f6.zip
   name: Redmi Note 12S
   version: OS2.0.202.0.VHZMIXM
+- android: '15.0'
+  codename: sea
+  date: '2026-02-28'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VHZEUXM/fw_sea_sea_eea_global-ota_full-OS2.0.209.0.VHZEUXM-user-15.0-d42c0bb44b.zip
+  name: Redmi Note 12S
+  version: OS2.0.209.0.VHZEUXM
+- android: '15.0'
+  codename: sea
+  date: '2026-02-28'
+  download: https://bigota.d.miui.com/OS2.0.210.0.VHZMIXM/fw_sea_sea_global-ota_full-OS2.0.210.0.VHZMIXM-user-15.0-5da76b146e.zip
+  name: Redmi Note 12S
+  version: OS2.0.210.0.VHZMIXM
 - android: '15.0'
   codename: sea
   date: '2025-12-27'

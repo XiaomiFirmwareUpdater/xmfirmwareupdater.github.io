@@ -52,9 +52,8 @@ permalink: /hyperos/obsidian/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 14 Pro 4G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.209.0.VOFEUXM</td><td>15.0</td><td>7.2 GB</td><td>2025-12-25</td><td><a href="/hyperos/obsidian/stable/OS2.0.209.0.VOFEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 Pro 4G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.209.0.VOFEUXM</td><td>15.0</td><td>4.9 GB</td><td>2026-01-06</td><td><a href="/hyperos/obsidian/stable/OS2.0.209.0.VOFEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 Pro 4G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.215.0.VOFEUXM</td><td>15.0</td><td>4.9 GB</td><td>2026-02-24</td><td><a href="/hyperos/obsidian/stable beta/OS2.0.215.0.VOFEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 14 Pro 4G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.215.0.VOFEUXM</td><td>15.0</td><td>7.1 GB</td><td>2026-02-06</td><td><a href="/hyperos/obsidian/stable/OS2.0.215.0.VOFEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro 4G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.215.0.VOFEUXM</td><td>15.0</td><td>4.9 GB</td><td>2026-02-24</td><td><a href="/hyperos/obsidian/stable/OS2.0.215.0.VOFEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 4G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.212.0.VOFMIXM</td><td>15.0</td><td>8.3 GB</td><td>2025-12-25</td><td><a href="/hyperos/obsidian/stable/OS2.0.212.0.VOFMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 4G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.212.0.VOFMIXM</td><td>15.0</td><td>4.9 GB</td><td>2025-12-31</td><td><a href="/hyperos/obsidian/stable/OS2.0.212.0.VOFMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 4G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UOFMIXM</td><td>14.0</td><td>4.6 GB</td><td>2025-01-13</td><td><a href="/hyperos/obsidian/stable beta/OS1.0.2.0.UOFMIXM/">Download</a></td></tr>

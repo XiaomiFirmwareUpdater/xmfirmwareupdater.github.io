@@ -52,19 +52,20 @@ permalink: /archive/hyperos/warm/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WGVINXM</td><td>16.0</td><td>4.4 GB</td><td>2026-02-05</td><td><a href="/hyperos/warm/stable beta/OS3.0.3.0.WGVINXM/">Download</a></td></tr>
+                <tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WGVINXM</td><td>16.0</td><td>4.4 GB</td><td>2026-02-05</td><td><a href="/hyperos/warm/stable/OS3.0.3.0.WGVINXM/">Download</a></td></tr>
+<tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WGVINXM</td><td>16.0</td><td>6.0 GB</td><td>2026-01-29</td><td><a href="/hyperos/warm/stable/OS3.0.3.0.WGVINXM/">Download</a></td></tr>
 <tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VGVINXM</td><td>15.0</td><td>4.2 GB</td><td>2025-10-28</td><td><a href="/hyperos/warm/stable/OS2.0.203.0.VGVINXM/">Download</a></td></tr>
 <tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VGVINXM</td><td>15.0</td><td>5.9 GB</td><td>2025-10-21</td><td><a href="/hyperos/warm/stable/OS2.0.203.0.VGVINXM/">Download</a></td></tr>
 <tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VGVINXM</td><td>15.0</td><td>4.1 GB</td><td>2025-09-07</td><td><a href="/hyperos/warm/stable/OS2.0.202.0.VGVINXM/">Download</a></td></tr>
 <tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VGVINXM</td><td>15.0</td><td>5.9 GB</td><td>2025-08-29</td><td><a href="/hyperos/warm/stable/OS2.0.202.0.VGVINXM/">Download</a></td></tr>
+<tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VGVINXM</td><td>15.0</td><td>4.1 GB</td><td>2025-07-23</td><td><a href="/hyperos/warm/stable/OS2.0.201.0.VGVINXM/">Download</a></td></tr>
+<tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VGVINXM</td><td>15.0</td><td>5.8 GB</td><td>2025-07-15</td><td><a href="/hyperos/warm/stable/OS2.0.201.0.VGVINXM/">Download</a></td></tr>
 <tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.UGVINXM</td><td>14.0</td><td>3.9 GB</td><td>2025-07-22</td><td><a href="/hyperos/warm/stable/OS1.0.10.0.UGVINXM/">Download</a></td></tr>
 <tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.UGVINXM</td><td>14.0</td><td>5.6 GB</td><td>2025-07-15</td><td><a href="/hyperos/warm/stable/OS1.0.10.0.UGVINXM/">Download</a></td></tr>
 <tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.4.0.VGVINXM</td><td>15.0</td><td>4.1 GB</td><td>2025-07-09</td><td><a href="/hyperos/warm/stable/OS2.0.4.0.VGVINXM/">Download</a></td></tr>
 <tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.4.0.VGVINXM</td><td>15.0</td><td>5.9 GB</td><td>2025-07-08</td><td><a href="/hyperos/warm/stable/OS2.0.4.0.VGVINXM/">Download</a></td></tr>
 <tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.2.0.VGVINXM</td><td>15.0</td><td>4.1 GB</td><td>2025-05-23</td><td><a href="/hyperos/warm/stable/OS2.0.2.0.VGVINXM/">Download</a></td></tr>
 <tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.2.0.VGVINXM</td><td>15.0</td><td>5.9 GB</td><td>2025-05-16</td><td><a href="/hyperos/warm/stable/OS2.0.2.0.VGVINXM/">Download</a></td></tr>
-<tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VGVINXM</td><td>15.0</td><td>4.1 GB</td><td>2025-07-23</td><td><a href="/hyperos/warm/stable/OS2.0.201.0.VGVINXM/">Download</a></td></tr>
-<tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VGVINXM</td><td>15.0</td><td>5.8 GB</td><td>2025-07-15</td><td><a href="/hyperos/warm/stable/OS2.0.201.0.VGVINXM/">Download</a></td></tr>
 <tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.1.0.VGVINXM</td><td>15.0</td><td>4.1 GB</td><td>2025-04-11</td><td><a href="/hyperos/warm/stable/OS2.0.1.0.VGVINXM/">Download</a></td></tr>
 <tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.1.0.VGVINXM</td><td>15.0</td><td>5.9 GB</td><td>2025-04-01</td><td><a href="/hyperos/warm/stable/OS2.0.1.0.VGVINXM/">Download</a></td></tr>
 <tr><td>Redmi A4 5G / POCO C75 5G India</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UGVINXM</td><td>14.0</td><td>3.9 GB</td><td>2025-03-17</td><td><a href="/hyperos/warm/stable/OS1.0.9.0.UGVINXM/">Download</a></td></tr>

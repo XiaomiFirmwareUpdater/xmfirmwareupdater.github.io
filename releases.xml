@@ -4,8 +4,38 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 28 Feb 2026 00:42:02 </lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 07:31:45 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS3.0.1.0.WFOEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 3/POCO F6 (peridot) - OS3.0.4.0.WNPMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 3/POCO F6 (peridot) - OS3.0.2.0.WNPINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 8 Pro (piano) - OS3.0.11.0.WPYCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/piano/</link>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12S (sea) - OS2.0.210.0.VHZMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sea/</link>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12S (sea) - OS2.0.209.0.VHZEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sea/</link>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS2.0.208.0.VOQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
@@ -273,11 +303,6 @@
         </item>
         <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS3.0.5.0.WNFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
-            <pubDate>Tue, 24 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS3.0.1.0.WNFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
             <pubDate>Tue, 24 Feb 2026 00:00:00 </pubDate>
         </item>
@@ -967,11 +992,6 @@
             <pubDate>Wed, 21 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 8 Pro (piano) - OS3.0.10.0.WPYCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/piano/</link>
-            <pubDate>Wed, 21 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13 (fuxi) - OS3.0.3.0.WMCMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
             <pubDate>Mon, 19 Jan 2026 00:00:00 </pubDate>
@@ -1227,11 +1247,6 @@
             <pubDate>Sun, 04 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12S (sea) - OS2.0.208.0.VHZEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sea/</link>
-            <pubDate>Sun, 04 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad 2 (taiko) - OS3.0.3.0.WOVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
             <pubDate>Sun, 04 Jan 2026 00:00:00 </pubDate>
@@ -1287,11 +1302,6 @@
             <pubDate>Wed, 31 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12S (sea) - OS2.0.209.0.VHZMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sea/</link>
-            <pubDate>Wed, 31 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS2.0.206.0.VMWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sky/</link>
             <pubDate>Wed, 31 Dec 2025 00:00:00 </pubDate>
@@ -1309,16 +1319,6 @@
         <item>
             <title>Xiaomi 13 Pro (nuwa) - OS2.0.207.0.VMBMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Tue, 30 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.208.0.VNPMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
-            <pubDate>Tue, 30 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.207.0.VNPINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
             <pubDate>Tue, 30 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
