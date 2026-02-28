@@ -6550,6 +6550,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VGUINXM/fw_flame_in_global_flame_in_global-ota_full-OS2.0.202.0.VGUINXM-user-15.0-2d19350f96.zip
   name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
   version: OS2.0.202.0.VGUINXM
+- android: '16.0'
+  codename: flame
+  date: '2026-02-28'
+  download: https://bigota.d.miui.com/OS3.0.5.0.WGUINXM/fw_flame_flame_in_global-ota_full-OS3.0.5.0.WGUINXM-user-16.0-bf777d3ace.zip
+  name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
+  version: OS3.0.5.0.WGUINXM
 - android: '14.0'
   codename: flame
   date: '2024-09-26'
@@ -8248,6 +8254,12 @@
   download: https://bigota.d.miui.com/OS2.0.207.0.VNVCNXM/fw_goku_goku-ota_full-OS2.0.207.0.VNVCNXM-user-15.0-e33878f250.zip
   name: MIX Fold 4
   version: OS2.0.207.0.VNVCNXM
+- android: '16.0'
+  codename: goku
+  date: '2026-02-28'
+  download: https://bigota.d.miui.com/OS3.0.8.0.WNVCNXM/fw_goku_goku-ota_full-OS3.0.8.0.WNVCNXM-user-16.0-8cb8ac4752.zip
+  name: MIX Fold 4
+  version: OS3.0.8.0.WNVCNXM
 - android: '16.0'
   codename: goku
   date: '2025-11-27'
@@ -10774,6 +10786,12 @@
   download: https://bigota.d.miui.com/OS2.0.207.0.VPQCNXM/fw_kunzite_kunzite-ota_full-OS2.0.207.0.VPQCNXM-user-15.0-6934a6d67d.zip
   name: Redmi Note 15 5G/POCO M8 5G
   version: OS2.0.207.0.VPQCNXM
+- android: '16.0'
+  codename: kunzite
+  date: '2026-02-28'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WPQCNXM/fw_kunzite_kunzite-ota_full-OS3.0.4.0.WPQCNXM-user-16.0-fbcc32b781.zip
+  name: Redmi Note 15 5G/POCO M8 5G
+  version: OS3.0.4.0.WPQCNXM
 - android: '15.0'
   codename: kunzite
   date: '2026-01-27'

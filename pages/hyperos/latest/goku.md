@@ -55,6 +55,7 @@ permalink: /hyperos/goku/
                 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.7.0.WNVCNXM</td><td>16.0</td><td>9.8 GB</td><td>2026-01-23</td><td><a href="/hyperos/goku/stable/OS3.0.7.0.WNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.7.0.WNVCNXM</td><td>16.0</td><td>7.8 GB</td><td>2026-01-29</td><td><a href="/hyperos/goku/stable/OS3.0.7.0.WNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable Beta</td><td>Fastboot</td><td>OS1.0.7.0.UNVCNXM</td><td>14.0</td><td>9.1 GB</td><td>2024-07-13</td><td><a href="/hyperos/goku/stable beta/OS1.0.7.0.UNVCNXM/">Download</a></td></tr>
+<tr><td>MIX Fold 4 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.8.0.WNVCNXM</td><td>16.0</td><td>7.8 GB</td><td>2026-02-13</td><td><a href="/hyperos/goku/stable beta/OS3.0.8.0.WNVCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

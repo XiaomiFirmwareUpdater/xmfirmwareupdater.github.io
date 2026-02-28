@@ -52,7 +52,8 @@ permalink: /archive/hyperos/kunzite/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 15 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.206.0.VPQINXM</td><td>15.0</td><td>4.6 GB</td><td>2026-02-25</td><td><a href="/hyperos/kunzite/stable beta/OS2.0.206.0.VPQINXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 15 5G / POCO M8 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.203.0.VPQTWXM</td><td>15.0</td><td>4.7 GB</td><td>2026-02-28</td><td><a href="/hyperos/kunzite/stable beta/OS2.0.203.0.VPQTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.206.0.VPQINXM</td><td>15.0</td><td>4.6 GB</td><td>2026-02-25</td><td><a href="/hyperos/kunzite/stable beta/OS2.0.206.0.VPQINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.4.0.WPQCNXM</td><td>16.0</td><td>5.6 GB</td><td>2026-02-02</td><td><a href="/hyperos/kunzite/stable beta/OS3.0.4.0.WPQCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VPQINXM</td><td>15.0</td><td>4.6 GB</td><td>2026-01-21</td><td><a href="/hyperos/kunzite/stable/OS2.0.205.0.VPQINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VPQINXM</td><td>15.0</td><td>6.9 GB</td><td>2026-01-06</td><td><a href="/hyperos/kunzite/stable/OS2.0.205.0.VPQINXM/">Download</a></td></tr>
@@ -64,14 +65,14 @@ permalink: /archive/hyperos/kunzite/
 <tr><td>Redmi Note 15 5G / POCO M8 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VPQIDXM</td><td>15.0</td><td>7.7 GB</td><td>2025-10-25</td><td><a href="/hyperos/kunzite/stable/OS2.0.201.0.VPQIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 5G China</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VPQCNXM</td><td>15.0</td><td>5.5 GB</td><td>2025-11-21</td><td><a href="/hyperos/kunzite/stable/OS2.0.207.0.VPQCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 5G China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VPQCNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-11-14</td><td><a href="/hyperos/kunzite/stable/OS2.0.207.0.VPQCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 5G China</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VPQCNXM</td><td>15.0</td><td>5.5 GB</td><td>2025-10-24</td><td><a href="/hyperos/kunzite/stable/OS2.0.206.0.VPQCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 5G China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VPQCNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-10-22</td><td><a href="/hyperos/kunzite/stable/OS2.0.206.0.VPQCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 5G / POCO M8 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VPQTWXM</td><td>15.0</td><td>4.7 GB</td><td>2026-01-08</td><td><a href="/hyperos/kunzite/stable/OS2.0.202.0.VPQTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 5G / POCO M8 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VPQTWXM</td><td>15.0</td><td>6.0 GB</td><td>2025-12-01</td><td><a href="/hyperos/kunzite/stable/OS2.0.202.0.VPQTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 5G / POCO M8 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VPQRUXM</td><td>15.0</td><td>4.7 GB</td><td>2026-01-08</td><td><a href="/hyperos/kunzite/stable/OS2.0.202.0.VPQRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 5G / POCO M8 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VPQRUXM</td><td>15.0</td><td>8.5 GB</td><td>2025-12-02</td><td><a href="/hyperos/kunzite/stable/OS2.0.202.0.VPQRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VPQINXM</td><td>15.0</td><td>4.6 GB</td><td>2026-01-06</td><td><a href="/hyperos/kunzite/stable/OS2.0.202.0.VPQINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VPQINXM</td><td>15.0</td><td>6.9 GB</td><td>2025-10-16</td><td><a href="/hyperos/kunzite/stable/OS2.0.202.0.VPQINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 5G China</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VPQCNXM</td><td>15.0</td><td>5.5 GB</td><td>2025-10-24</td><td><a href="/hyperos/kunzite/stable/OS2.0.206.0.VPQCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 5G China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VPQCNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-10-22</td><td><a href="/hyperos/kunzite/stable/OS2.0.206.0.VPQCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 5G China</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VPQCNXM</td><td>15.0</td><td>5.4 GB</td><td>2025-09-20</td><td><a href="/hyperos/kunzite/stable/OS2.0.204.0.VPQCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 5G China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VPQCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-09-13</td><td><a href="/hyperos/kunzite/stable/OS2.0.204.0.VPQCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WPQCNXM</td><td>16.0</td><td>5.6 GB</td><td>2025-12-28</td><td><a href="/hyperos/kunzite/stable/OS3.0.2.0.WPQCNXM/">Download</a></td></tr>
