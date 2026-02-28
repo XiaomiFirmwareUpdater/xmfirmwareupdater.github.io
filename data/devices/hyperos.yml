@@ -2734,6 +2734,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMLMIXM/fw_corot_miui_COROTGlobal_OS1.0.3.0.UMLMIXM_5f0f078eb2_14.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
   version: OS1.0.3.0.UMLMIXM
+- android: '16.0'
+  codename: corot
+  date: '2026-02-28'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WMLCNXM/fw_corot_corot-ota_full-OS3.0.4.0.WMLCNXM-user-16.0-a21a878b6b.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS3.0.4.0.WMLCNXM
 - android: '15.0'
   codename: corot
   date: '2025-11-27'
@@ -15406,6 +15412,18 @@
   download: https://bigota.d.miui.com/OS2.0.208.0.VOLEUXM/fw_onyx_onyx_eea_global-ota_full-OS2.0.208.0.VOLEUXM-user-15.0-be902b0d5a.zip
   name: Redmi Turbo 4 Pro/POCO F7
   version: OS2.0.208.0.VOLEUXM
+- android: '16.0'
+  codename: onyx
+  date: '2026-02-28'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WOLEUXM/fw_onyx_onyx_eea_global-ota_full-OS3.0.4.0.WOLEUXM-user-16.0-c2144144eb.zip
+  name: Redmi Turbo 4 Pro/POCO F7
+  version: OS3.0.4.0.WOLEUXM
+- android: '16.0'
+  codename: onyx
+  date: '2026-02-28'
+  download: https://bigota.d.miui.com/OS3.0.6.0.WOLMIXM/fw_onyx_onyx_global-ota_full-OS3.0.6.0.WOLMIXM-user-16.0-02188a5378.zip
+  name: Redmi Turbo 4 Pro/POCO F7
+  version: OS3.0.6.0.WOLMIXM
 - android: '16.0'
   codename: onyx
   date: '2025-12-27'

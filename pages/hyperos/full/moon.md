@@ -52,7 +52,8 @@ permalink: /archive/hyperos/moon/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 13 / POCO M6 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WNTTWXM</td><td>16.0</td><td>4.7 GB</td><td>2026-02-24</td><td><a href="/hyperos/moon/stable beta/OS3.0.3.0.WNTTWXM/">Download</a></td></tr>
+                <tr><td>Redmi 13 / POCO M6 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WNTTWXM</td><td>16.0</td><td>4.7 GB</td><td>2026-02-24</td><td><a href="/hyperos/moon/stable/OS3.0.3.0.WNTTWXM/">Download</a></td></tr>
+<tr><td>Redmi 13 / POCO M6 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WNTTWXM</td><td>16.0</td><td>5.7 GB</td><td>2026-01-26</td><td><a href="/hyperos/moon/stable/OS3.0.3.0.WNTTWXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WNTIDXM</td><td>16.0</td><td>4.9 GB</td><td>2026-02-05</td><td><a href="/hyperos/moon/stable beta/OS3.0.3.0.WNTIDXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WNTRUXM</td><td>16.0</td><td>4.8 GB</td><td>2026-02-04</td><td><a href="/hyperos/moon/stable beta/OS3.0.3.0.WNTRUXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WNTTRXM</td><td>16.0</td><td>4.9 GB</td><td>2026-02-04</td><td><a href="/hyperos/moon/stable beta/OS3.0.3.0.WNTTRXM/">Download</a></td></tr>
@@ -66,10 +67,6 @@ permalink: /archive/hyperos/moon/
 <tr><td>Redmi 13 / POCO M6 Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WNTRUXM</td><td>16.0</td><td>8.0 GB</td><td>2026-01-15</td><td><a href="/hyperos/moon/stable/OS3.0.2.0.WNTRUXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WNTTRXM</td><td>16.0</td><td>4.9 GB</td><td>2026-01-20</td><td><a href="/hyperos/moon/stable/OS3.0.2.0.WNTTRXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WNTTRXM</td><td>16.0</td><td>6.9 GB</td><td>2026-01-15</td><td><a href="/hyperos/moon/stable/OS3.0.2.0.WNTTRXM/">Download</a></td></tr>
-<tr><td>Redmi 13 / POCO M6 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WNTIDXM</td><td>16.0</td><td>4.9 GB</td><td>2026-01-15</td><td><a href="/hyperos/moon/stable/OS3.0.2.0.WNTIDXM/">Download</a></td></tr>
-<tr><td>Redmi 13 / POCO M6 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WNTIDXM</td><td>16.0</td><td>7.4 GB</td><td>2026-01-15</td><td><a href="/hyperos/moon/stable/OS3.0.2.0.WNTIDXM/">Download</a></td></tr>
-<tr><td>Redmi 13 / POCO M6 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WNTTWXM</td><td>16.0</td><td>4.7 GB</td><td>2026-01-12</td><td><a href="/hyperos/moon/stable/OS3.0.1.0.WNTTWXM/">Download</a></td></tr>
-<tr><td>Redmi 13 / POCO M6 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WNTTWXM</td><td>16.0</td><td>5.8 GB</td><td>2025-12-29</td><td><a href="/hyperos/moon/stable/OS3.0.1.0.WNTTWXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.25.0.UMPEUXM</td><td>14.0</td><td>3.9 GB</td><td>2026-01-04</td><td><a href="/hyperos/moonstone/stable/OS1.0.25.0.UMPEUXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.25.0.UMPEUXM</td><td>14.0</td><td>5.7 GB</td><td>2025-12-24</td><td><a href="/hyperos/moonstone/stable/OS1.0.25.0.UMPEUXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WNTEUXM</td><td>16.0</td><td>5.0 GB</td><td>2026-01-04</td><td><a href="/hyperos/moon/stable/OS3.0.2.0.WNTEUXM/">Download</a></td></tr>
@@ -78,6 +75,10 @@ permalink: /archive/hyperos/moon/
 <tr><td>POCO X5 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS1.0.26.0.UMPMIXM</td><td>14.0</td><td>6.0 GB</td><td>2025-12-24</td><td><a href="/hyperos/moonstone/stable/OS1.0.26.0.UMPMIXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WNTMIXM</td><td>16.0</td><td>4.9 GB</td><td>2025-12-26</td><td><a href="/hyperos/moon/stable/OS3.0.5.0.WNTMIXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WNTMIXM</td><td>16.0</td><td>8.0 GB</td><td>2025-12-23</td><td><a href="/hyperos/moon/stable/OS3.0.5.0.WNTMIXM/">Download</a></td></tr>
+<tr><td>Redmi 13 / POCO M6 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WNTIDXM</td><td>16.0</td><td>4.9 GB</td><td>2026-01-15</td><td><a href="/hyperos/moon/stable/OS3.0.2.0.WNTIDXM/">Download</a></td></tr>
+<tr><td>Redmi 13 / POCO M6 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WNTIDXM</td><td>16.0</td><td>7.4 GB</td><td>2026-01-15</td><td><a href="/hyperos/moon/stable/OS3.0.2.0.WNTIDXM/">Download</a></td></tr>
+<tr><td>Redmi 13 / POCO M6 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WNTTWXM</td><td>16.0</td><td>4.7 GB</td><td>2026-01-12</td><td><a href="/hyperos/moon/stable/OS3.0.1.0.WNTTWXM/">Download</a></td></tr>
+<tr><td>Redmi 13 / POCO M6 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WNTTWXM</td><td>16.0</td><td>5.8 GB</td><td>2025-12-29</td><td><a href="/hyperos/moon/stable/OS3.0.1.0.WNTTWXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.20.0.UMPTRXM</td><td>14.0</td><td>3.9 GB</td><td>2025-12-04</td><td><a href="/hyperos/moonstone/stable/OS1.0.20.0.UMPTRXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.20.0.UMPTRXM</td><td>14.0</td><td>5.5 GB</td><td>2025-11-28</td><td><a href="/hyperos/moonstone/stable/OS1.0.20.0.UMPTRXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS1.0.21.0.UMPTWXM</td><td>14.0</td><td>3.8 GB</td><td>2025-12-04</td><td><a href="/hyperos/moonstone/stable/OS1.0.21.0.UMPTWXM/">Download</a></td></tr>
