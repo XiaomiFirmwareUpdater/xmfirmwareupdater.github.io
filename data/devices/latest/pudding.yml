@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2026-02-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pudding/releases/download/stable-01.03.2026/fw_pudding_pudding_global-ota_full-OS3.0.9.0.WPCMIXM-user-16.0-d68c80bd31.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/pudding/fw_pudding_pudding_global-ota_full-OS3.0.9.0.WPCMIXM-user-16.0-d68c80bd31.zip
+  filename: fw_pudding_pudding_global-ota_full-OS3.0.9.0.WPCMIXM-user-16.0-d68c80bd31.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.9.0.WPCMIXM
+- branch: stable
   date: '2026-02-11'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pudding/releases/download/stable-12.02.2026/fw_pudding_pudding-ota_full-OS3.0.44.0.WPCCNXM-user-16.0-a95973ab2c.zip
@@ -8,3 +18,23 @@
   versions:
     android: '16.0'
     miui: OS3.0.44.0.WPCCNXM
+- branch: stable
+  date: '2026-02-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pudding/releases/download/stable-01.03.2026/fw_pudding_pudding_eea_global-ota_full-OS3.0.12.0.WPCEUXM-user-16.0-c3a6dca17c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/pudding/fw_pudding_pudding_eea_global-ota_full-OS3.0.12.0.WPCEUXM-user-16.0-c3a6dca17c.zip
+  filename: fw_pudding_pudding_eea_global-ota_full-OS3.0.12.0.WPCEUXM-user-16.0-c3a6dca17c.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.12.0.WPCEUXM
+- branch: stable
+  date: '2026-02-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pudding/releases/download/stable-01.03.2026/fw_pudding_pudding_in_global-ota_full-OS3.0.4.0.WPCINXM-user-16.0-e4a0932b99.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/pudding/fw_pudding_pudding_in_global-ota_full-OS3.0.4.0.WPCINXM-user-16.0-e4a0932b99.zip
+  filename: fw_pudding_pudding_in_global-ota_full-OS3.0.4.0.WPCINXM-user-16.0-e4a0932b99.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.4.0.WPCINXM
