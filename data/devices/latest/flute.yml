@@ -19,15 +19,15 @@
     android: '16.0'
     miui: OS3.0.3.0.WPWCNXM
 - branch: stable
-  date: '2026-02-09'
+  date: '2026-03-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flute/releases/download/stable-09.02.2026/fw_flute_flute_eea_global-ota_full-OS2.0.213.0.VPWEUXM-user-15.0-7a8b92186d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/flute/fw_flute_flute_eea_global-ota_full-OS2.0.213.0.VPWEUXM-user-15.0-7a8b92186d.zip
-  filename: fw_flute_flute_eea_global-ota_full-OS2.0.213.0.VPWEUXM-user-15.0-7a8b92186d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flute/releases/download/stable-02.03.2026/fw_flute_flute_eea_global-ota_full-OS3.0.4.0.WPWEUXM-user-16.0-c46a634510.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/flute/fw_flute_flute_eea_global-ota_full-OS3.0.4.0.WPWEUXM-user-16.0-c46a634510.zip
+  filename: fw_flute_flute_eea_global-ota_full-OS3.0.4.0.WPWEUXM-user-16.0-c46a634510.zip
   region: Europe
   versions:
-    android: '15.0'
-    miui: OS2.0.213.0.VPWEUXM
+    android: '16.0'
+    miui: OS3.0.4.0.WPWEUXM
 - branch: stable
   date: '2025-11-27'
   downloads:

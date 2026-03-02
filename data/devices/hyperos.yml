@@ -796,6 +796,18 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VOPINXM/fw_amethyst_in_global_amethyst_in_global-ota_full-OS2.0.203.0.VOPINXM-user-15.0-ec9e0a8f5f.zip
   name: Redmi Note 14 Pro+ 5G
   version: OS2.0.203.0.VOPINXM
+- android: '16.0'
+  codename: amethyst
+  date: '2026-03-02'
+  download: https://bigota.d.miui.com/OS3.0.3.0.WOPEUXM/fw_amethyst_amethyst_eea_global-ota_full-OS3.0.3.0.WOPEUXM-user-16.0-7f8be5c511.zip
+  name: Redmi Note 14 Pro+ 5G
+  version: OS3.0.3.0.WOPEUXM
+- android: '16.0'
+  codename: amethyst
+  date: '2026-03-02'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WOPMIXM/fw_amethyst_amethyst_global-ota_full-OS3.0.4.0.WOPMIXM-user-16.0-2bdd4bdf8f.zip
+  name: Redmi Note 14 Pro+ 5G
+  version: OS3.0.4.0.WOPMIXM
 - android: '15.0'
   codename: amethyst
   date: '2025-10-31'
@@ -1638,6 +1650,12 @@
   version: OS1.0.15.0.UNAEUXM
 - android: '16.0'
   codename: aurora
+  date: '2026-03-02'
+  download: https://bigota.d.miui.com/OS3.0.7.0.WNACNXM/fw_aurora_aurora-ota_full-OS3.0.7.0.WNACNXM-user-16.0-56fe65bf28.zip
+  name: Xiaomi 14 Ultra
+  version: OS3.0.7.0.WNACNXM
+- android: '16.0'
+  codename: aurora
   date: '2026-01-02'
   download: https://bigota.d.miui.com/OS3.0.5.0.WNAMIXM/fw_aurora_aurora_global-ota_full-OS3.0.5.0.WNAMIXM-user-16.0-336c483add.zip
   name: Xiaomi 14 Ultra
@@ -2206,6 +2224,12 @@
   download: https://bigota.d.miui.com/OS2.0.209.0.VOHCNXM/fw_bixi_bixi-ota_full-OS2.0.209.0.VOHCNXM-user-15.0-09739ed7be.zip
   name: MIX Flip 2
   version: OS2.0.209.0.VOHCNXM
+- android: '16.0'
+  codename: bixi
+  date: '2026-03-02'
+  download: https://bigota.d.miui.com/OS3.0.6.0.WOHCNXM/fw_bixi_bixi-ota_full-OS3.0.6.0.WOHCNXM-user-16.0-cc0a2a5040.zip
+  name: MIX Flip 2
+  version: OS3.0.6.0.WOHCNXM
 - android: '14.0'
   codename: breeze
   date: '2024-05-31'
@@ -4192,6 +4216,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UNEMIXM/fw_degas_miui_DEGASGlobal_OS1.0.7.0.UNEMIXM_498fe4dcb3_14.0.zip
   name: Xiaomi 14T
   version: OS1.0.7.0.UNEMIXM
+- android: '16.0'
+  codename: degas
+  date: '2026-03-02'
+  download: https://bigota.d.miui.com/OS3.0.3.0.WNEMIXM/fw_degas_degas_global-ota_full-OS3.0.3.0.WNEMIXM-user-16.0-13e8aee979.zip
+  name: Xiaomi 14T
+  version: OS3.0.3.0.WNEMIXM
 - android: '15.0'
   codename: degas
   date: '2025-11-30'
@@ -5110,6 +5140,18 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNSINXM/fw_dizi_miui_DIZIINGlobal_OS1.0.4.0.UNSINXM_ca41cd75d0_14.0.zip
   name: Redmi Pad Pro/POCO Pad
   version: OS1.0.4.0.UNSINXM
+- android: '16.0'
+  codename: dizi
+  date: '2026-03-02'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WNSCNXM/fw_dizi_dizi-ota_full-OS3.0.4.0.WNSCNXM-user-16.0-fdbcda497c.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS3.0.4.0.WNSCNXM
+- android: '15.0'
+  codename: dizi
+  date: '2026-03-02'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VNSINXM/fw_dizi_dizi_in_global-ota_full-OS2.0.207.0.VNSINXM-user-15.0-722ac81fa1.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS2.0.207.0.VNSINXM
 - android: '15.0'
   codename: dizi
   date: '2025-10-31'
@@ -7114,6 +7156,12 @@
   download: https://bigota.d.miui.com/OS2.0.209.0.VPWEUXM/fw_flute_flute_eea_global-ota_full-OS2.0.209.0.VPWEUXM-user-15.0-fc3baee340.zip
   name: Redmi Pad 2 Pro/POCO Pad M1
   version: OS2.0.209.0.VPWEUXM
+- android: '16.0'
+  codename: flute
+  date: '2026-03-02'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WPWEUXM/fw_flute_flute_eea_global-ota_full-OS3.0.4.0.WPWEUXM-user-16.0-c46a634510.zip
+  name: Redmi Pad 2 Pro/POCO Pad M1
+  version: OS3.0.4.0.WPWEUXM
 - android: '15.0'
   codename: fuxi
   date: '2025-12-31'
@@ -21934,6 +21982,12 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VHYMIXM/fw_spark_spark_global-ota_full-OS2.0.203.0.VHYMIXM-user-15.0-e290dd20fb.zip
   name: Redmi Pad SE 8.7 4G
   version: OS2.0.203.0.VHYMIXM
+- android: '16.0'
+  codename: spark
+  date: '2026-03-02'
+  download: https://bigota.d.miui.com/OS3.0.3.0.WHYEUXM/fw_spark_spark_eea_global-ota_full-OS3.0.3.0.WHYEUXM-user-16.0-b9fa4272ee.zip
+  name: Redmi Pad SE 8.7 4G
+  version: OS3.0.3.0.WHYEUXM
 - android: '15.0'
   codename: spark
   date: '2026-01-01'

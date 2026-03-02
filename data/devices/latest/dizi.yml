@@ -9,15 +9,15 @@
     android: '15.0'
     miui: OS2.0.208.0.VNSMIXM
 - branch: stable
-  date: '2025-12-26'
+  date: '2026-03-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-26.12.2025/fw_dizi_dizi-ota_full-OS2.0.207.0.VNSCNXM-user-15.0-db6b50da6d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dizi/fw_dizi_dizi-ota_full-OS2.0.207.0.VNSCNXM-user-15.0-db6b50da6d.zip
-  filename: fw_dizi_dizi-ota_full-OS2.0.207.0.VNSCNXM-user-15.0-db6b50da6d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-02.03.2026/fw_dizi_dizi-ota_full-OS3.0.4.0.WNSCNXM-user-16.0-fdbcda497c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dizi/fw_dizi_dizi-ota_full-OS3.0.4.0.WNSCNXM-user-16.0-fdbcda497c.zip
+  filename: fw_dizi_dizi-ota_full-OS3.0.4.0.WNSCNXM-user-16.0-fdbcda497c.zip
   region: China
   versions:
-    android: '15.0'
-    miui: OS2.0.207.0.VNSCNXM
+    android: '16.0'
+    miui: OS3.0.4.0.WNSCNXM
 - branch: stable
   date: '2026-02-24'
   downloads:
@@ -29,12 +29,12 @@
     android: '15.0'
     miui: OS2.0.208.0.VNSEUXM
 - branch: stable
-  date: '2025-12-27'
+  date: '2026-03-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-27.12.2025/fw_dizi_dizi_in_global-ota_full-OS2.0.206.0.VNSINXM-user-15.0-331d48ea79.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dizi/fw_dizi_dizi_in_global-ota_full-OS2.0.206.0.VNSINXM-user-15.0-331d48ea79.zip
-  filename: fw_dizi_dizi_in_global-ota_full-OS2.0.206.0.VNSINXM-user-15.0-331d48ea79.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-02.03.2026/fw_dizi_dizi_in_global-ota_full-OS2.0.207.0.VNSINXM-user-15.0-722ac81fa1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dizi/fw_dizi_dizi_in_global-ota_full-OS2.0.207.0.VNSINXM-user-15.0-722ac81fa1.zip
+  filename: fw_dizi_dizi_in_global-ota_full-OS2.0.207.0.VNSINXM-user-15.0-722ac81fa1.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.206.0.VNSINXM
+    miui: OS2.0.207.0.VNSINXM
