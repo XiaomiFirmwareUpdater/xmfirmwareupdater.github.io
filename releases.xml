@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 02 Mar 2026 12:51:28 </lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 15:47:13 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.4.0.WOPMIXM</title>
@@ -49,6 +49,11 @@
         <item>
             <title>Redmi Pad SE 8.7 4G (spark) - OS3.0.3.0.WHYEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spark/</link>
+            <pubDate>Mon, 02 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 4G (tapas) - OS2.0.205.0.VMTMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/tapas/</link>
             <pubDate>Mon, 02 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1515,11 +1520,6 @@
             <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - OS2.0.12.0.ULOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xaga/</link>
             <pubDate>Thu, 30 Oct 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 4G (tapas) - OS2.0.202.0.VMTMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/tapas/</link>
-            <pubDate>Sun, 26 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS2.0.201.0.VMWINXM</title>
