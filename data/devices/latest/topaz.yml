@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2026-01-02'
+  date: '2026-03-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_topaz/releases/download/stable-02.01.2026/fw_topaz_topaz_global-ota_full-OS2.0.203.0.VMGMIXM-user-15.0-1986adab38.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/topaz/fw_topaz_topaz_global-ota_full-OS2.0.203.0.VMGMIXM-user-15.0-1986adab38.zip
-  filename: fw_topaz_topaz_global-ota_full-OS2.0.203.0.VMGMIXM-user-15.0-1986adab38.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_topaz/releases/download/stable-02.03.2026/fw_topaz_topaz_global-ota_full-OS2.0.204.0.VMGMIXM-user-15.0-2c40b435e7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/topaz/fw_topaz_topaz_global-ota_full-OS2.0.204.0.VMGMIXM-user-15.0-2c40b435e7.zip
+  filename: fw_topaz_topaz_global-ota_full-OS2.0.204.0.VMGMIXM-user-15.0-2c40b435e7.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.203.0.VMGMIXM
+    miui: OS2.0.204.0.VMGMIXM
 - branch: stable
-  date: '2026-01-08'
+  date: '2026-03-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_topaz/releases/download/stable-08.01.2026/fw_topaz_topaz_eea_global-ota_full-OS2.0.208.0.VMGEUXM-user-15.0-a4cf85615d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/topaz/fw_topaz_topaz_eea_global-ota_full-OS2.0.208.0.VMGEUXM-user-15.0-a4cf85615d.zip
-  filename: fw_topaz_topaz_eea_global-ota_full-OS2.0.208.0.VMGEUXM-user-15.0-a4cf85615d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_topaz/releases/download/stable-02.03.2026/fw_topaz_topaz_eea_global-ota_full-OS2.0.209.0.VMGEUXM-user-15.0-737e5a7d45.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/topaz/fw_topaz_topaz_eea_global-ota_full-OS2.0.209.0.VMGEUXM-user-15.0-737e5a7d45.zip
+  filename: fw_topaz_topaz_eea_global-ota_full-OS2.0.209.0.VMGEUXM-user-15.0-737e5a7d45.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.208.0.VMGEUXM
+    miui: OS2.0.209.0.VMGEUXM

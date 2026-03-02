@@ -839,6 +839,16 @@
     android: '16.0'
     miui: OS3.0.7.0.WNACNXM
 - branch: stable
+  date: '2026-03-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-02.03.2026/fw_aurora_aurora_eea_global-ota_full-OS3.0.3.0.WNAEUXM-user-16.0-b529ec326f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora_eea_global-ota_full-OS3.0.3.0.WNAEUXM-user-16.0-b529ec326f.zip
+  filename: fw_aurora_aurora_eea_global-ota_full-OS3.0.3.0.WNAEUXM-user-16.0-b529ec326f.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.3.0.WNAEUXM
+- branch: stable
   date: '2026-01-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-02.01.2026/fw_aurora_aurora_global-ota_full-OS3.0.5.0.WNAMIXM-user-16.0-336c483add.zip
