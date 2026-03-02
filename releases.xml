@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 02 Mar 2026 23:20:01 </lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 01:01:17 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.209.0.VGQEUXM</title>
@@ -94,6 +94,11 @@
         <item>
             <title>Redmi Pad Pro 5G/POCO Pad 5G (ruan) - OS3.0.3.0.WFSCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruan/</link>
+            <pubDate>Mon, 02 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.19.0.UMOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Mon, 02 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1164,11 +1169,6 @@
         <item>
             <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS3.0.4.0.WNNEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
-            <pubDate>Wed, 14 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.17.0.UMOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Wed, 14 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
