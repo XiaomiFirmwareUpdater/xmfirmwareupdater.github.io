@@ -52,9 +52,9 @@ permalink: /hyperos/kunzite/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 15 5G China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VPQCNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-11-14</td><td><a href="/hyperos/kunzite/stable/OS2.0.207.0.VPQCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 5G China</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VPQCNXM</td><td>15.0</td><td>5.5 GB</td><td>2025-11-21</td><td><a href="/hyperos/kunzite/stable/OS2.0.207.0.VPQCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.4.0.WPQCNXM</td><td>16.0</td><td>5.6 GB</td><td>2026-02-02</td><td><a href="/hyperos/kunzite/stable beta/OS3.0.4.0.WPQCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 15 5G China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WPQCNXM</td><td>16.0</td><td>8.0 GB</td><td>2026-01-28</td><td><a href="/hyperos/kunzite/stable/OS3.0.4.0.WPQCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WPQCNXM</td><td>16.0</td><td>5.6 GB</td><td>2026-02-02</td><td><a href="/hyperos/kunzite/stable/OS3.0.4.0.WPQCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.201.0.VPQCNXM</td><td>15.0</td><td>5.4 GB</td><td>None</td><td><a href="/hyperos/kunzite/stable beta/OS2.0.201.0.VPQCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 5G / POCO M8 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VPQEUXM</td><td>15.0</td><td>7.8 GB</td><td>2025-12-31</td><td><a href="/hyperos/kunzite/stable/OS2.0.204.0.VPQEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 5G / POCO M8 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VPQEUXM</td><td>15.0</td><td>4.9 GB</td><td>2026-01-08</td><td><a href="/hyperos/kunzite/stable/OS2.0.204.0.VPQEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 5G / POCO M8 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.205.0.VPQEUXM</td><td>15.0</td><td>4.9 GB</td><td>2026-02-24</td><td><a href="/hyperos/kunzite/stable beta/OS2.0.205.0.VPQEUXM/">Download</a></td></tr>
