@@ -4006,6 +4006,12 @@
   download: https://bigota.d.miui.com/OS3.0.8.0.WPLCNXM/fw_dash_dash-ota_full-OS3.0.8.0.WPLCNXM-user-16.0-7a58ec4edc.zip
   name: Redmi Turbo 5 Max/POCO X8 Pro Max
   version: OS3.0.8.0.WPLCNXM
+- android: '16.0'
+  codename: dash
+  date: '2026-03-04'
+  download: https://bigota.d.miui.com/OS3.0.10.0.WPLCNXM/fw_dash_dash-ota_full-OS3.0.10.0.WPLCNXM-user-16.0-b62313a48b.zip
+  name: Redmi Turbo 5 Max/POCO X8 Pro Max
+  version: OS3.0.10.0.WPLCNXM
 - android: '14.0'
   codename: daumier
   date: '2025-02-27'
@@ -7102,6 +7108,12 @@
   download: https://bigota.d.miui.com/OS2.0.209.0.VPRCNXM/fw_flourite_flourite-ota_full-OS2.0.209.0.VPRCNXM-user-15.0-ed76995ddb.zip
   name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
   version: OS2.0.209.0.VPRCNXM
+- android: '15.0'
+  codename: flourite
+  date: '2026-03-04'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VPRINXM/fw_flourite_flourite_in_global-ota_full-OS2.0.206.0.VPRINXM-user-15.0-d5c975c4b0.zip
+  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
+  version: OS2.0.206.0.VPRINXM
 - android: '15.0'
   codename: flourite
   date: '2026-02-04'
@@ -15832,6 +15844,12 @@
   download: https://bigota.d.miui.com/OS3.0.3.0.WPXEUXM/fw_organ_organ_eea_global-ota_full-OS3.0.3.0.WPXEUXM-user-16.0-5a367eed1a.zip
   name: Redmi Pad 2 Pro 5G
   version: OS3.0.3.0.WPXEUXM
+- android: '16.0'
+  codename: organ
+  date: '2026-03-04'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WPXMIXM/fw_organ_organ_global-ota_full-OS3.0.4.0.WPXMIXM-user-16.0-c99ca0dfaf.zip
+  name: Redmi Pad 2 Pro 5G
+  version: OS3.0.4.0.WPXMIXM
 - android: '16.0'
   codename: organ
   date: '2026-03-02'
