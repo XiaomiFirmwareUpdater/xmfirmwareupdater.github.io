@@ -78,7 +78,7 @@ permalink: /hyperos/cmi/stable beta/OS1.0.5.0.TJACNXM/
                             aria-expanded="false" aria-controls="cmi_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="cmi_1_changelog">
-                        <p id="changelog_text">[System]<br>Updated Android Security Patch to March 2024. Increased system security.<br>Updated Android Security Patch to March 2024. Increased system security.</p>
+                        <p id="changelog_text">[System]<br>Updated Android Security Patch to March 2024. Increased system security.</p>
                     </div>
                 </li>
             </ul>
