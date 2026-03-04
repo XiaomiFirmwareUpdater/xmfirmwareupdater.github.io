@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2026-02-05'
+  date: '2026-03-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flute/releases/download/stable-05.02.2026/fw_flute_flute_global-ota_full-OS2.0.208.0.VPWMIXM-user-15.0-ec7760e82c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/flute/fw_flute_flute_global-ota_full-OS2.0.208.0.VPWMIXM-user-15.0-ec7760e82c.zip
-  filename: fw_flute_flute_global-ota_full-OS2.0.208.0.VPWMIXM-user-15.0-ec7760e82c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flute/releases/download/stable-04.03.2026/fw_flute_flute_global-ota_full-OS3.0.2.0.WPWMIXM-user-16.0-73a33b0a92.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/flute/fw_flute_flute_global-ota_full-OS3.0.2.0.WPWMIXM-user-16.0-73a33b0a92.zip
+  filename: fw_flute_flute_global-ota_full-OS3.0.2.0.WPWMIXM-user-16.0-73a33b0a92.zip
   region: Global
   versions:
-    android: '15.0'
-    miui: OS2.0.208.0.VPWMIXM
+    android: '16.0'
+    miui: OS3.0.2.0.WPWMIXM
 - branch: stable
   date: '2026-02-07'
   downloads:
@@ -29,12 +29,12 @@
     android: '16.0'
     miui: OS3.0.4.0.WPWEUXM
 - branch: stable
-  date: '2025-11-27'
+  date: '2026-03-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flute/releases/download/stable-27.11.2025/fw_flute_flute_in_global-ota_full-OS2.0.202.0.VPWINXM-user-15.0-8650999d5d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/flute/fw_flute_flute_in_global-ota_full-OS2.0.202.0.VPWINXM-user-15.0-8650999d5d.zip
-  filename: fw_flute_flute_in_global-ota_full-OS2.0.202.0.VPWINXM-user-15.0-8650999d5d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flute/releases/download/stable-04.03.2026/fw_flute_flute_in_global-ota_full-OS3.0.2.0.WPWINXM-user-16.0-f5cdf19e1a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/flute/fw_flute_flute_in_global-ota_full-OS3.0.2.0.WPWINXM-user-16.0-f5cdf19e1a.zip
+  filename: fw_flute_flute_in_global-ota_full-OS3.0.2.0.WPWINXM-user-16.0-f5cdf19e1a.zip
   region: India
   versions:
-    android: '15.0'
-    miui: OS2.0.202.0.VPWINXM
+    android: '16.0'
+    miui: OS3.0.2.0.WPWINXM

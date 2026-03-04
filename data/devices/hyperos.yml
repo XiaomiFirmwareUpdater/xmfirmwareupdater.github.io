@@ -1648,6 +1648,12 @@
   download: https://bigota.d.miui.com/OS1.0.15.0.UNACNXM/fw_aurora_miui_AURORA_OS1.0.15.0.UNACNXM_d2975034eb_14.0.zip
   name: Xiaomi 14 Ultra
   version: OS1.0.15.0.UNACNXM
+- android: '16.0'
+  codename: aurora
+  date: '2026-03-04'
+  download: https://bigota.d.miui.com/OS3.0.5.0.WNAINXM/fw_aurora_aurora_in_global-ota_full-OS3.0.5.0.WNAINXM-user-16.0-c41543f9b2.zip
+  name: Xiaomi 14 Ultra
+  version: OS3.0.5.0.WNAINXM
 - android: '14.0'
   codename: aurora
   date: '2024-12-02'
@@ -7162,6 +7168,18 @@
   download: https://bigota.d.miui.com/OS2.0.208.0.VPWMIXM/fw_flute_flute_global-ota_full-OS2.0.208.0.VPWMIXM-user-15.0-ec7760e82c.zip
   name: Redmi Pad 2 Pro/POCO Pad M1
   version: OS2.0.208.0.VPWMIXM
+- android: '16.0'
+  codename: flute
+  date: '2026-03-04'
+  download: https://bigota.d.miui.com/OS3.0.2.0.WPWMIXM/fw_flute_flute_global-ota_full-OS3.0.2.0.WPWMIXM-user-16.0-73a33b0a92.zip
+  name: Redmi Pad 2 Pro/POCO Pad M1
+  version: OS3.0.2.0.WPWMIXM
+- android: '16.0'
+  codename: flute
+  date: '2026-03-04'
+  download: https://bigota.d.miui.com/OS3.0.2.0.WPWINXM/fw_flute_flute_in_global-ota_full-OS3.0.2.0.WPWINXM-user-16.0-f5cdf19e1a.zip
+  name: Redmi Pad 2 Pro/POCO Pad M1
+  version: OS3.0.2.0.WPWINXM
 - android: '15.0'
   codename: flute
   date: '2025-12-02'
@@ -16462,6 +16480,12 @@
   download: https://bigota.d.miui.com/OS2.0.105.0.VNPINXM/fw_peridot_in_global_peridot_in_global-ota_full-OS2.0.105.0.VNPINXM-user-15.0-b220cb4d8c.zip
   name: Redmi Turbo 3/POCO F6
   version: OS2.0.105.0.VNPINXM
+- android: '16.0'
+  codename: peridot
+  date: '2026-03-04'
+  download: https://bigota.d.miui.com/OS3.0.3.0.WNPINXM/fw_peridot_peridot_in_global-ota_full-OS3.0.3.0.WNPINXM-user-16.0-8f064f2c57.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS3.0.3.0.WNPINXM
 - android: '15.0'
   codename: peridot
   date: '2025-03-04'
