@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 05 Mar 2026 06:50:50 </lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 12:41:42 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K Pad/Xiaomi Pad Mini (turner) - OS3.0.7.0.WAOCNXM</title>
@@ -2847,6 +2847,11 @@
             <pubDate>Fri, 26 Nov 2021 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 21.11.24</title>
+            <link>https://xmfirmwareupdater.com/firmware/raphael/</link>
+            <pubDate>Fri, 26 Nov 2021 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Mi CC 9 Meitu Edition (vela) - 21.11.24</title>
             <link>https://xmfirmwareupdater.com/firmware/vela/</link>
             <pubDate>Fri, 26 Nov 2021 00:00:00 </pubDate>
@@ -2885,6 +2890,11 @@
             <title>Redmi Y3 (onc) - V12.5.3.0.QFLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/onc/</link>
             <pubDate>Thu, 11 Nov 2021 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V12.5.6.0.RFKCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/raphael/</link>
+            <pubDate>Tue, 09 Nov 2021 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 8 (olive) - V12.5.2.0.QCNINXM</title>
@@ -2947,6 +2957,11 @@
             <pubDate>Tue, 24 Aug 2021 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V12.5.2.0.RFKMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/raphael/</link>
+            <pubDate>Mon, 16 Aug 2021 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi K20/Mi 9T (davinci) - V12.1.4.0.RFJMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/davinci/</link>
             <pubDate>Wed, 11 Aug 2021 00:00:00 </pubDate>
@@ -2980,6 +2995,11 @@
             <title>Mi A2 Lite (daisy) - V11.0.21.0.QDLMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/daisy/</link>
             <pubDate>Tue, 13 Jul 2021 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V12.5.1.0.RFKEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/raphael/</link>
+            <pubDate>Tue, 06 Jul 2021 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi 9 SE (grus) - V12.5.1.0.RFBEUXM</title>
@@ -3327,6 +3347,11 @@
             <pubDate>Fri, 15 Nov 2019 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi 4X (santoni) - V11.0.2.0.NAMMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/santoni/</link>
+            <pubDate>Fri, 15 Nov 2019 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Mi 5s (capricorn) - V11.0.2.0.OAGCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/capricorn/</link>
             <pubDate>Mon, 11 Nov 2019 00:00:00 </pubDate>
@@ -3350,6 +3375,11 @@
             <title>Mi 5s Plus (natrium) - V11.0.2.0.OBGCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/natrium/</link>
             <pubDate>Fri, 08 Nov 2019 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 4X (santoni) - V11.0.1.0.NAMCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/santoni/</link>
+            <pubDate>Thu, 07 Nov 2019 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi Max 2 (oxygen) - V11.0.2.0.NDDCNXM</title>
@@ -3424,6 +3454,11 @@
         <item>
             <title>Redmi 5 (rosy) - 9.10.10</title>
             <link>https://xmfirmwareupdater.com/firmware/rosy/</link>
+            <pubDate>Thu, 17 Oct 2019 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 4X (santoni) - 9.10.10</title>
+            <link>https://xmfirmwareupdater.com/firmware/santoni/</link>
             <pubDate>Thu, 17 Oct 2019 00:00:00 </pubDate>
         </item>
         <item>
@@ -3574,6 +3609,11 @@
         <item>
             <title>Mi 6 (sagit) - 9.6.27</title>
             <link>https://xmfirmwareupdater.com/firmware/sagit/</link>
+            <pubDate>Fri, 28 Jun 2019 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 4X (santoni) - 9.6.27</title>
+            <link>https://xmfirmwareupdater.com/firmware/santoni/</link>
             <pubDate>Fri, 28 Jun 2019 00:00:00 </pubDate>
         </item>
         <item>

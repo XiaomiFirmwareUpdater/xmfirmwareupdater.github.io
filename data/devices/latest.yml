@@ -5149,6 +5149,46 @@
     android: '11.0'
     miui: V12.5.3.0.RFCEUXM
 - branch: stable
+  date: '2021-08-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphael/releases/download/stable-16.08.2021/fw_raphael_miui_RAPHAELGlobal_V12.5.2.0.RFKMIXM_edbf5f63e8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/raphael/fw_raphael_miui_RAPHAELGlobal_V12.5.2.0.RFKMIXM_edbf5f63e8_11.0.zip
+  filename: fw_raphael_miui_RAPHAELGlobal_V12.5.2.0.RFKMIXM_edbf5f63e8_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RFKMIXM
+- branch: stable
+  date: '2021-11-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphael/releases/download/stable-09.11.2021/fw_raphael_miui_RAPHAEL_V12.5.6.0.RFKCNXM_f5fe3b4a6f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/raphael/fw_raphael_miui_RAPHAEL_V12.5.6.0.RFKCNXM_f5fe3b4a6f_11.0.zip
+  filename: fw_raphael_miui_RAPHAEL_V12.5.6.0.RFKCNXM_f5fe3b4a6f_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.6.0.RFKCNXM
+- branch: weekly
+  date: '2021-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphael/releases/download/weekly-26.11.2021/fw_raphael_miui_RAPHAEL_21.11.24_34c2411b8d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.24/raphael/fw_raphael_miui_RAPHAEL_21.11.24_34c2411b8d_11.0.zip
+  filename: fw_raphael_miui_RAPHAEL_21.11.24_34c2411b8d_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.11.24
+- branch: stable
+  date: '2021-07-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphael/releases/download/stable-06.07.2021/fw_raphael_miui_RAPHAELEEAGlobal_V12.5.1.0.RFKEUXM_dd92b7128a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/raphael/fw_raphael_miui_RAPHAELEEAGlobal_V12.5.1.0.RFKEUXM_dd92b7128a_11.0.zip
+  filename: fw_raphael_miui_RAPHAELEEAGlobal_V12.5.1.0.RFKEUXM_dd92b7128a_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RFKEUXM
+- branch: stable
   date: '2021-07-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphaelin/releases/download/stable-15.07.2021/fw_raphaelin_miui_RAPHAELININGlobal_V12.5.1.0.RFKINXM_0bfe71d0cd_11.0.zip
@@ -5688,6 +5728,46 @@
   versions:
     android: '9.0'
     miui: 20.1.9
+- branch: stable
+  date: '2019-11-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_santoni/releases/download/stable-15.11.2019/fw_santoni_miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/santoni/fw_santoni_miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip
+  filename: fw_santoni_miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip
+  region: Global
+  versions:
+    android: '7.1'
+    miui: V11.0.2.0.NAMMIXM
+- branch: stable
+  date: '2019-11-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_santoni/releases/download/stable-08.11.2019/fw_santoni_miui_HM4X_V11.0.1.0.NAMCNXM_7e7448fe6d_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/santoni/fw_santoni_miui_HM4X_V11.0.1.0.NAMCNXM_7e7448fe6d_7.1.zip
+  filename: fw_santoni_miui_HM4X_V11.0.1.0.NAMCNXM_7e7448fe6d_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: V11.0.1.0.NAMCNXM
+- branch: weekly
+  date: '2019-06-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_santoni/releases/download/weekly-28.06.2019/fw_santoni_miui_HM4XGlobal_9.6.27_1e5f29e8c3_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/santoni/fw_santoni_miui_HM4XGlobal_9.6.27_1e5f29e8c3_7.1.zip
+  filename: fw_santoni_miui_HM4XGlobal_9.6.27_1e5f29e8c3_7.1.zip
+  region: Global
+  versions:
+    android: '7.1'
+    miui: 9.6.27
+- branch: weekly
+  date: '2019-10-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_santoni/releases/download/weekly-17.10.2019/fw_santoni_miui_HM4X_9.10.10_9e9000fe7c_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.10/santoni/fw_santoni_miui_HM4X_9.10.10_9e9000fe7c_7.1.zip
+  filename: fw_santoni_miui_HM4X_9.10.10_9e9000fe7c_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: 9.10.10
 - branch: stable
   date: '2026-02-24'
   downloads:
