@@ -23980,6 +23980,12 @@
   download: https://bigota.d.miui.com/OS2.0.205.0.VAOMIXM/fw_turner_turner_global-ota_full-OS2.0.205.0.VAOMIXM-user-15.0-2688131090.zip
   name: Redmi K Pad/Xiaomi Pad Mini
   version: OS2.0.205.0.VAOMIXM
+- android: '16.0'
+  codename: turner
+  date: '2026-03-05'
+  download: https://bigota.d.miui.com/OS3.0.7.0.WAOCNXM/fw_turner_turner-ota_full-OS3.0.7.0.WAOCNXM-user-16.0-5d4a648561.zip
+  name: Redmi K Pad/Xiaomi Pad Mini
+  version: OS3.0.7.0.WAOCNXM
 - android: '15.0'
   codename: uke
   date: '2025-11-29'
