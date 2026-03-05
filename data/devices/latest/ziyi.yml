@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2026-01-26'
+  date: '2026-03-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-26.01.2026/fw_ziyi_ziyi_global-ota_full-OS2.0.206.0.VLLMIXM-user-15.0-d41399d397.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ziyi/fw_ziyi_ziyi_global-ota_full-OS2.0.206.0.VLLMIXM-user-15.0-d41399d397.zip
-  filename: fw_ziyi_ziyi_global-ota_full-OS2.0.206.0.VLLMIXM-user-15.0-d41399d397.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-05.03.2026/fw_ziyi_ziyi_global-ota_full-OS3.0.1.0.VLLMIXM-user-15.0-0b569e8eb3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ziyi/fw_ziyi_ziyi_global-ota_full-OS3.0.1.0.VLLMIXM-user-15.0-0b569e8eb3.zip
+  filename: fw_ziyi_ziyi_global-ota_full-OS3.0.1.0.VLLMIXM-user-15.0-0b569e8eb3.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.206.0.VLLMIXM
+    miui: OS3.0.1.0.VLLMIXM
 - branch: stable
   date: '2026-01-28'
   downloads:
@@ -19,12 +19,12 @@
     android: '15.0'
     miui: OS3.0.1.0.VLLCNXM
 - branch: stable
-  date: '2026-01-06'
+  date: '2026-03-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-06.01.2026/fw_ziyi_ziyi_eea_global-ota_full-OS2.0.205.0.VLLEUXM-user-15.0-22c61b0bbb.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ziyi/fw_ziyi_ziyi_eea_global-ota_full-OS2.0.205.0.VLLEUXM-user-15.0-22c61b0bbb.zip
-  filename: fw_ziyi_ziyi_eea_global-ota_full-OS2.0.205.0.VLLEUXM-user-15.0-22c61b0bbb.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-05.03.2026/fw_ziyi_ziyi_eea_global-ota_full-OS3.0.2.0.VLLEUXM-user-15.0-a1918b466f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ziyi/fw_ziyi_ziyi_eea_global-ota_full-OS3.0.2.0.VLLEUXM-user-15.0-a1918b466f.zip
+  filename: fw_ziyi_ziyi_eea_global-ota_full-OS3.0.2.0.VLLEUXM-user-15.0-a1918b466f.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.205.0.VLLEUXM
+    miui: OS3.0.2.0.VLLEUXM

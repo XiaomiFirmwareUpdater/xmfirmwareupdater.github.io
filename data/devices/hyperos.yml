@@ -3822,6 +3822,12 @@
   version: OS2.0.25.0.VOCCNXM
 - android: '16.0'
   codename: dada
+  date: '2026-03-05'
+  download: https://bigota.d.miui.com/OS3.0.9.0.WOCEUXM/fw_dada_dada_eea_global-ota_full-OS3.0.9.0.WOCEUXM-user-16.0-99c331f69d.zip
+  name: Xiaomi 15
+  version: OS3.0.9.0.WOCEUXM
+- android: '16.0'
+  codename: dada
   date: '2026-02-04'
   download: https://bigota.d.miui.com/OS3.0.7.0.WOCCNXM/fw_dada_dada-ota_full-OS3.0.7.0.WOCCNXM-user-16.0-232acd7942.zip
   name: Xiaomi 15
@@ -5662,6 +5668,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UNLINXM/fw_duchamp_miui_DUCHAMPINGlobal_OS1.0.9.0.UNLINXM_838750638d_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS1.0.9.0.UNLINXM
+- android: '16.0'
+  codename: duchamp
+  date: '2026-03-05'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WNLEUXM/fw_duchamp_duchamp_eea_global-ota_full-OS3.0.4.0.WNLEUXM-user-16.0-ceec5da513.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS3.0.4.0.WNLEUXM
 - android: '16.0'
   codename: duchamp
   date: '2026-02-05'
@@ -23086,6 +23098,12 @@
   download: https://bigota.d.miui.com/OS2.0.205.0.VOGMIXM/fw_tanzanite_tanzanite_global-ota_full-OS2.0.205.0.VOGMIXM-user-15.0-e6ab4d7412.zip
   name: Redmi Note 14 4G
   version: OS2.0.205.0.VOGMIXM
+- android: '16.0'
+  codename: tanzanite
+  date: '2026-03-05'
+  download: https://bigota.d.miui.com/OS3.0.5.0.WOGMIXM/fw_tanzanite_tanzanite_global-ota_full-OS3.0.5.0.WOGMIXM-user-16.0-82860348eb.zip
+  name: Redmi Note 14 4G
+  version: OS3.0.5.0.WOGMIXM
 - android: '15.0'
   codename: tanzanite
   date: '2025-07-04'
@@ -28150,6 +28168,18 @@
   download: https://bigota.d.miui.com/OS2.0.201.0.VLLMIXM/fw_ziyi_ziyi_global-ota_full-OS2.0.201.0.VLLMIXM-user-15.0-48d493808e.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS2.0.201.0.VLLMIXM
+- android: '15.0'
+  codename: ziyi
+  date: '2026-03-05'
+  download: https://bigota.d.miui.com/OS3.0.2.0.VLLEUXM/fw_ziyi_ziyi_eea_global-ota_full-OS3.0.2.0.VLLEUXM-user-15.0-a1918b466f.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS3.0.2.0.VLLEUXM
+- android: '15.0'
+  codename: ziyi
+  date: '2026-03-05'
+  download: https://bigota.d.miui.com/OS3.0.1.0.VLLMIXM/fw_ziyi_ziyi_global-ota_full-OS3.0.1.0.VLLMIXM-user-15.0-0b569e8eb3.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS3.0.1.0.VLLMIXM
 - android: '15.0'
   codename: ziyi
   date: '2025-06-04'

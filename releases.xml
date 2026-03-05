@@ -4,11 +4,36 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 05 Mar 2026 12:41:42 </lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 19:30:55 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 15 (dada) - OS3.0.9.0.WOCEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.4.0.WNLEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 4G (tanzanite) - OS3.0.5.0.WOGMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/tanzanite/</link>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K Pad/Xiaomi Pad Mini (turner) - OS3.0.7.0.WAOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/turner/</link>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS3.0.1.0.VLLMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS3.0.2.0.VLLEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Thu, 05 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -692,16 +717,6 @@
             <pubDate>Wed, 11 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 14 4G (tanzanite) - OS2.0.210.0.VOGMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/tanzanite/</link>
-            <pubDate>Wed, 11 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 (dada) - OS3.0.8.0.WOCEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
-            <pubDate>Tue, 10 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Turbo 3/POCO F6 (peridot) - OS3.0.7.0.WNPCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
             <pubDate>Tue, 10 Feb 2026 00:00:00 </pubDate>
@@ -840,11 +855,6 @@
             <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS3.0.9.0.WOJMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
             <pubDate>Fri, 06 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.3.0.WNLEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi A5/POCO C71 (serenity) - A15.0.14.0.VGWINXM</title>
@@ -1132,11 +1142,6 @@
             <pubDate>Mon, 26 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS2.0.206.0.VLLMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
-            <pubDate>Mon, 26 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12 (cupid) - OS3.0.2.0.VLCCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/cupid/</link>
             <pubDate>Fri, 23 Jan 2026 00:00:00 </pubDate>
@@ -1314,11 +1319,6 @@
         <item>
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS2.0.7.0.UMQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sunstone/</link>
-            <pubDate>Tue, 06 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS2.0.205.0.VLLEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Tue, 06 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>

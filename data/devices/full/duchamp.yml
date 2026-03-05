@@ -749,6 +749,16 @@
     android: '14.0'
     miui: OS1.0.9.0.UNLINXM
 - branch: stable
+  date: '2026-03-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-05.03.2026/fw_duchamp_duchamp_eea_global-ota_full-OS3.0.4.0.WNLEUXM-user-16.0-ceec5da513.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/duchamp/fw_duchamp_duchamp_eea_global-ota_full-OS3.0.4.0.WNLEUXM-user-16.0-ceec5da513.zip
+  filename: fw_duchamp_duchamp_eea_global-ota_full-OS3.0.4.0.WNLEUXM-user-16.0-ceec5da513.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.4.0.WNLEUXM
+- branch: stable
   date: '2026-02-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-05.02.2026/fw_duchamp_duchamp_eea_global-ota_full-OS3.0.3.0.WNLEUXM-user-16.0-126de9fdc2.zip

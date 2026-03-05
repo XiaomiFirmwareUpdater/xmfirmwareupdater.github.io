@@ -54,6 +54,7 @@ permalink: /hyperos/beryl/
                 <tbody>
                 <tr><td>Redmi Note 14 5G China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.211.0.VOQCNXM</td><td>15.0</td><td>7.6 GB</td><td>2025-12-08</td><td><a href="/hyperos/beryl/stable/OS2.0.211.0.VOQCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 5G China</td><td>Stable</td><td>Recovery</td><td>OS2.0.211.0.VOQCNXM</td><td>15.0</td><td>5.6 GB</td><td>2025-12-17</td><td><a href="/hyperos/beryl/stable/OS2.0.211.0.VOQCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.6.0.WOQCNXM</td><td>16.0</td><td>6.4 GB</td><td>2026-02-11</td><td><a href="/hyperos/beryl/stable beta/OS3.0.6.0.WOQCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 5G / POCO M7 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.210.0.VOQEUXM</td><td>15.0</td><td>7.6 GB</td><td>2026-01-23</td><td><a href="/hyperos/beryl/stable/OS2.0.210.0.VOQEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 5G / POCO M7 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.210.0.VOQEUXM</td><td>15.0</td><td>5.3 GB</td><td>2026-01-29</td><td><a href="/hyperos/beryl/stable/OS2.0.210.0.VOQEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 5G / POCO M7 Pro 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.211.0.VOQMIXM</td><td>15.0</td><td>8.7 GB</td><td>2026-01-30</td><td><a href="/hyperos/beryl/stable/OS2.0.211.0.VOQMIXM/">Download</a></td></tr>
