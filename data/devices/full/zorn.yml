@@ -329,6 +329,16 @@
     android: '15.0'
     miui: OS2.0.208.0.VOKCNXM
 - branch: stable
+  date: '2026-03-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zorn/releases/download/stable-06.03.2026/fw_zorn_zorn_eea_global-ota_full-OS3.0.4.0.WOKEUXM-user-16.0-0772eff30c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/zorn/fw_zorn_zorn_eea_global-ota_full-OS3.0.4.0.WOKEUXM-user-16.0-0772eff30c.zip
+  filename: fw_zorn_zorn_eea_global-ota_full-OS3.0.4.0.WOKEUXM-user-16.0-0772eff30c.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.4.0.WOKEUXM
+- branch: stable
   date: '2026-01-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zorn/releases/download/stable-06.01.2026/fw_zorn_zorn_global-ota_full-OS3.0.6.0.WOKMIXM-user-16.0-9477ef7daf.zip

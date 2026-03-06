@@ -19,12 +19,12 @@
     android: '16.0'
     miui: OS3.0.9.0.WOKCNXM
 - branch: stable
-  date: '2026-01-11'
+  date: '2026-03-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zorn/releases/download/stable-11.01.2026/fw_zorn_zorn_eea_global-ota_full-OS3.0.3.0.WOKEUXM-user-16.0-8fa65ca638.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/zorn/fw_zorn_zorn_eea_global-ota_full-OS3.0.3.0.WOKEUXM-user-16.0-8fa65ca638.zip
-  filename: fw_zorn_zorn_eea_global-ota_full-OS3.0.3.0.WOKEUXM-user-16.0-8fa65ca638.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zorn/releases/download/stable-06.03.2026/fw_zorn_zorn_eea_global-ota_full-OS3.0.4.0.WOKEUXM-user-16.0-0772eff30c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/zorn/fw_zorn_zorn_eea_global-ota_full-OS3.0.4.0.WOKEUXM-user-16.0-0772eff30c.zip
+  filename: fw_zorn_zorn_eea_global-ota_full-OS3.0.4.0.WOKEUXM-user-16.0-0772eff30c.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.3.0.WOKEUXM
+    miui: OS3.0.4.0.WOKEUXM
