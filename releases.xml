@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 06 Mar 2026 19:08:11 </lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 00:45:22 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS3.0.3.0.WMAEUXM</title>
@@ -2197,6 +2197,11 @@
             <pubDate>Wed, 14 Jun 2023 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V14.0.5.0.SJKCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lmi/</link>
+            <pubDate>Mon, 05 Jun 2023 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>POCO X3 Pro (vayu) - V14.0.2.0.TJUINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vayu/</link>
             <pubDate>Mon, 05 Jun 2023 00:00:00 </pubDate>
@@ -2705,11 +2710,6 @@
             <title>Mi 8 Pro (equuleus) - V12.5.1.0.QECCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/equuleus/</link>
             <pubDate>Tue, 22 Mar 2022 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V13.0.2.0.SJKCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lmi/</link>
-            <pubDate>Fri, 18 Mar 2022 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 10X 5G (atom) - 22.3.2</title>
