@@ -3529,15 +3529,15 @@
     android: '12.0'
     miui: V14.0.1.0.SJKMIXM
 - branch: stable
-  date: '2023-06-05'
+  date: '2022-03-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-05.06.2023/fw_lmi_miui_LMI_V14.0.5.0.SJKCNXM_41456619f8_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lmi/fw_lmi_miui_LMI_V14.0.5.0.SJKCNXM_41456619f8_12.0.zip
-  filename: fw_lmi_miui_LMI_V14.0.5.0.SJKCNXM_41456619f8_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-18.03.2022/fw_lmi_miui_LMI_V13.0.2.0.SJKCNXM_1f2e4d340c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lmi/fw_lmi_miui_LMI_V13.0.2.0.SJKCNXM_1f2e4d340c_12.0.zip
+  filename: fw_lmi_miui_LMI_V13.0.2.0.SJKCNXM_1f2e4d340c_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V14.0.5.0.SJKCNXM
+    miui: V13.0.2.0.SJKCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -3599,15 +3599,15 @@
     android: '16.0'
     miui: OS3.0.8.0.WOICNXM
 - branch: stable
-  date: '2026-02-24'
+  date: '2026-03-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-24.02.2026/fw_malachite_malachite_global-ota_full-OS3.0.9.0.WOOMIXM-user-16.0-3d6ca739ef.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/malachite/fw_malachite_malachite_global-ota_full-OS3.0.9.0.WOOMIXM-user-16.0-3d6ca739ef.zip
-  filename: fw_malachite_malachite_global-ota_full-OS3.0.9.0.WOOMIXM-user-16.0-3d6ca739ef.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-06.03.2026/fw_malachite_malachite_global-ota_full-OS3.0.10.0.WOOMIXM-user-16.0-8ab41a8d4d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/malachite/fw_malachite_malachite_global-ota_full-OS3.0.10.0.WOOMIXM-user-16.0-8ab41a8d4d.zip
+  filename: fw_malachite_malachite_global-ota_full-OS3.0.10.0.WOOMIXM-user-16.0-8ab41a8d4d.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.9.0.WOOMIXM
+    miui: OS3.0.10.0.WOOMIXM
 - branch: stable
   date: '2026-02-06'
   downloads:
@@ -4629,15 +4629,15 @@
     android: '15.0'
     miui: OS3.0.1.0.VLHCNXM
 - branch: stable
-  date: '2026-02-28'
+  date: '2026-03-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-28.02.2026/fw_peridot_peridot_global-ota_full-OS3.0.4.0.WNPMIXM-user-16.0-3fccc2bf19.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/peridot/fw_peridot_peridot_global-ota_full-OS3.0.4.0.WNPMIXM-user-16.0-3fccc2bf19.zip
-  filename: fw_peridot_peridot_global-ota_full-OS3.0.4.0.WNPMIXM-user-16.0-3fccc2bf19.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-06.03.2026/fw_peridot_peridot_global-ota_full-OS3.0.5.0.WNPMIXM-user-16.0-882e98a3db.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/peridot/fw_peridot_peridot_global-ota_full-OS3.0.5.0.WNPMIXM-user-16.0-882e98a3db.zip
+  filename: fw_peridot_peridot_global-ota_full-OS3.0.5.0.WNPMIXM-user-16.0-882e98a3db.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.4.0.WNPMIXM
+    miui: OS3.0.5.0.WNPMIXM
 - branch: stable
   date: '2026-02-10'
   downloads:

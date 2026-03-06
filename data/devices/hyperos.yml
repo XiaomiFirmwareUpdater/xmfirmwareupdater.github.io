@@ -12240,6 +12240,12 @@
   version: OS2.0.6.0.VOOCNXM
 - android: '16.0'
   codename: malachite
+  date: '2026-03-06'
+  download: https://bigota.d.miui.com/OS3.0.10.0.WOOMIXM/fw_malachite_malachite_global-ota_full-OS3.0.10.0.WOOMIXM-user-16.0-8ab41a8d4d.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS3.0.10.0.WOOMIXM
+- android: '16.0'
+  codename: malachite
   date: '2026-02-06'
   download: https://bigota.d.miui.com/OS3.0.3.0.WOOCNXM/fw_malachite_malachite-ota_full-OS3.0.3.0.WOOCNXM-user-16.0-1f6b2b6aad.zip
   name: Redmi Note 14 Pro 5G/POCO X7
@@ -16480,6 +16486,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNPMIXM/fw_peridot_miui_PERIDOTGlobal_OS1.0.4.0.UNPMIXM_a6bae69297_14.0.zip
   name: Redmi Turbo 3/POCO F6
   version: OS1.0.4.0.UNPMIXM
+- android: '16.0'
+  codename: peridot
+  date: '2026-03-06'
+  download: https://bigota.d.miui.com/OS3.0.5.0.WNPMIXM/fw_peridot_peridot_global-ota_full-OS3.0.5.0.WNPMIXM-user-16.0-882e98a3db.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS3.0.5.0.WNPMIXM
 - android: '15.0'
   codename: peridot
   date: '2025-02-06'
