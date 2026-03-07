@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 07 Mar 2026 06:41:51 </lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 12:56:00 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS2.0.208.0.VPRMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
+            <pubDate>Sat, 07 Mar 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS3.0.3.0.WMAEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
@@ -1260,11 +1265,6 @@
             <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS3.0.5.0.WOMEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/miro/</link>
             <pubDate>Fri, 09 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS2.0.206.0.VPRMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
-            <pubDate>Thu, 08 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS2.0.205.0.VPREUXM</title>

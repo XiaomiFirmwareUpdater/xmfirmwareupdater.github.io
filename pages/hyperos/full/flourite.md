@@ -52,7 +52,8 @@ permalink: /archive/hyperos/flourite/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.206.0.VPRINXM</td><td>15.0</td><td>6.2 GB</td><td>2026-02-24</td><td><a href="/hyperos/flourite/stable beta/OS2.0.206.0.VPRINXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.208.0.VPRMIXM</td><td>15.0</td><td>6.4 GB</td><td>2026-03-04</td><td><a href="/hyperos/flourite/stable beta/OS2.0.208.0.VPRMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.206.0.VPRINXM</td><td>15.0</td><td>6.2 GB</td><td>2026-02-24</td><td><a href="/hyperos/flourite/stable beta/OS2.0.206.0.VPRINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VPRINXM</td><td>15.0</td><td>6.2 GB</td><td>2026-02-03</td><td><a href="/hyperos/flourite/stable/OS2.0.204.0.VPRINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VPRINXM</td><td>15.0</td><td>8.3 GB</td><td>2025-11-06</td><td><a href="/hyperos/flourite/stable/OS2.0.204.0.VPRINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro+ 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WPRCNXM</td><td>16.0</td><td>7.2 GB</td><td>2026-01-31</td><td><a href="/hyperos/flourite/stable/OS3.0.6.0.WPRCNXM/">Download</a></td></tr>
