@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 08 Mar 2026 00:42:22 </lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 06:47:48 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) - OS3.0.1.0.WPOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
+            <pubDate>Sun, 08 Mar 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS2.0.208.0.VPRMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
@@ -1204,11 +1209,6 @@
         <item>
             <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS3.0.4.0.WNNEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
-            <pubDate>Wed, 14 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) - OS2.0.206.0.VPOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
             <pubDate>Wed, 14 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
