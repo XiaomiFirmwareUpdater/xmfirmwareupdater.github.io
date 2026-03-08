@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 08 Mar 2026 06:47:48 </lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 12:48:52 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 12 (fire) - OS2.0.208.0.VMXEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/fire/</link>
+            <pubDate>Sun, 08 Mar 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) - OS3.0.1.0.WPOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
@@ -1254,11 +1259,6 @@
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.15.0.UCVEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Fri, 09 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12 (fire) - OS2.0.207.0.VMXEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/fire/</link>
             <pubDate>Fri, 09 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
