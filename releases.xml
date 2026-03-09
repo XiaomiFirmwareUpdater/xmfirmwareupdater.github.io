@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 09 Mar 2026 07:34:15 </lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 13:42:13 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 15C/POCO C85 (dew) - OS2.0.216.0.VBNEUXM</title>
@@ -17,13 +17,28 @@
             <pubDate>Mon, 09 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi A3x (klein) - V816.0.2.0.WGSINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/klein/</link>
+            <pubDate>Mon, 09 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi 14C/POCO C75/Redmi A3 Pro (lake) - OS2.0.209.0.VGTEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lake/</link>
             <pubDate>Mon, 09 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi Pad 8 Pro (piano) - OS3.0.2.0.WPYMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/piano/</link>
+            <pubDate>Mon, 09 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Xiaomi Pad 8 Pro (piano) - OS3.0.5.0.WPYEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/piano/</link>
+            <pubDate>Mon, 09 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.11.0.UMOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Mon, 09 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -39,6 +54,26 @@
         <item>
             <title>Redmi Note 12 4G (tapas) - OS2.0.204.0.VMTINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tapas/</link>
+            <pubDate>Mon, 09 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 Ultra (xuanyuan) - OS3.0.8.0.WOAINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
+            <pubDate>Mon, 09 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 8 (yupei) - OS3.0.1.0.WPZMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/yupei/</link>
+            <pubDate>Mon, 09 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 8 (yupei) - OS3.0.4.0.WPZEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/yupei/</link>
+            <pubDate>Mon, 09 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 8 (yupei) - OS3.0.2.0.WPZINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/yupei/</link>
             <pubDate>Mon, 09 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1267,11 +1302,6 @@
             <pubDate>Mon, 12 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 15 Ultra (xuanyuan) - OS3.0.7.0.WOAINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
-            <pubDate>Mon, 12 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) - OS2.0.205.0.VPOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
             <pubDate>Sat, 10 Jan 2026 00:00:00 </pubDate>
@@ -1392,11 +1422,6 @@
             <pubDate>Wed, 31 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.10.0.UMOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Wed, 31 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad SE 8.7 4G (spark) - OS2.0.206.0.VHYMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spark/</link>
             <pubDate>Wed, 31 Dec 2025 00:00:00 </pubDate>
@@ -1465,11 +1490,6 @@
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS2.0.210.0.VNQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gold/</link>
             <pubDate>Fri, 26 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A3x (klein) - V816.0.1.0.WGSINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/klein/</link>
-            <pubDate>Wed, 17 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.6.0.UKOEUXM</title>
