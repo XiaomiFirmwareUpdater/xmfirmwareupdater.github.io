@@ -1066,6 +1066,12 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VMFMIXM/fw_aristotle_global_aristotle_global-ota_full-OS2.0.203.0.VMFMIXM-user-15.0-58db77488e.zip
   name: Xiaomi 13T
   version: OS2.0.203.0.VMFMIXM
+- android: '15.0'
+  codename: aristotle
+  date: '2026-03-09'
+  download: https://bigota.d.miui.com/OS2.0.216.0.VMFEUXM/fw_aristotle_aristotle_eea_global-ota_full-OS2.0.216.0.VMFEUXM-user-15.0-f1d6faf75d.zip
+  name: Xiaomi 13T
+  version: OS2.0.216.0.VMFEUXM
 - android: '14.0'
   codename: aristotle
   date: '2024-10-07'
@@ -4348,6 +4354,12 @@
   download: https://bigota.d.miui.com/OS2.0.216.0.VBNEUXM/fw_dew_dew_eea_global-ota_full-OS2.0.216.0.VBNEUXM-user-15.0-6c0c4d76d8.zip
   name: Redmi 15C/POCO C85
   version: OS2.0.216.0.VBNEUXM
+- android: '16.0'
+  codename: dew
+  date: '2026-03-09'
+  download: https://bigota.d.miui.com/OS3.0.1.0.WBNMIXM/fw_dew_dew_global-ota_full-OS3.0.1.0.WBNMIXM-user-16.0-1de1d1c7c5.zip
+  name: Redmi 15C/POCO C85
+  version: OS3.0.1.0.WBNMIXM
 - android: '15.0'
   codename: dew
   date: '2026-01-06'
@@ -22168,6 +22180,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UHYINXM/fw_spark_miui_SPARKINGlobal_OS1.0.3.0.UHYINXM_1d4ec22cf4_14.0.zip
   name: Redmi Pad SE 8.7 4G
   version: OS1.0.3.0.UHYINXM
+- android: '16.0'
+  codename: spark
+  date: '2026-03-09'
+  download: https://bigota.d.miui.com/OS3.0.2.0.WHYMIXM/fw_spark_spark_global-ota_full-OS3.0.2.0.WHYMIXM-user-16.0-1a2cd1dcf1.zip
+  name: Redmi Pad SE 8.7 4G
+  version: OS3.0.2.0.WHYMIXM
 - android: '15.0'
   codename: spark
   date: '2026-02-05'
@@ -27850,6 +27868,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNOEUXM/fw_zircon_miui_ZIRCONEEAGlobal_OS1.0.4.0.UNOEUXM_484ef00f3b_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.4.0.UNOEUXM
+- android: '16.0'
+  codename: zircon
+  date: '2026-03-09'
+  download: https://bigota.d.miui.com/OS3.0.2.0.WNOMIXM/fw_zircon_zircon_global-ota_full-OS3.0.2.0.WNOMIXM-user-16.0-cf6482d262.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS3.0.2.0.WNOMIXM
 - android: '15.0'
   codename: zircon
   date: '2025-01-09'
