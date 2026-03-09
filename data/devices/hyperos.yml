@@ -4344,6 +4344,12 @@
   version: OS2.0.212.0.VBNEUXM
 - android: '15.0'
   codename: dew
+  date: '2026-03-09'
+  download: https://bigota.d.miui.com/OS2.0.216.0.VBNEUXM/fw_dew_dew_eea_global-ota_full-OS2.0.216.0.VBNEUXM-user-15.0-6c0c4d76d8.zip
+  name: Redmi 15C/POCO C85
+  version: OS2.0.216.0.VBNEUXM
+- android: '15.0'
+  codename: dew
   date: '2026-01-06'
   download: https://bigota.d.miui.com/OS2.0.215.0.VBNEUXM/fw_dew_dew_eea_global-ota_full-OS2.0.215.0.VBNEUXM-user-15.0-5e55d537bd.zip
   name: Redmi 15C/POCO C85
@@ -8266,6 +8272,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UNRMIXM/fw_garnet_miui_GARNETGlobal_OS1.0.6.0.UNRMIXM_047bdb5ebf_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS1.0.6.0.UNRMIXM
+- android: '16.0'
+  codename: garnet
+  date: '2026-03-09'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WNRMIXM/fw_garnet_garnet_global-ota_full-OS3.0.4.0.WNRMIXM-user-16.0-1f60b1ce47.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS3.0.4.0.WNRMIXM
 - android: '15.0'
   codename: garnet
   date: '2025-04-08'
@@ -11104,6 +11116,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UGTEUXM/fw_lake_miui_LAKEEEAGlobal_OS1.0.9.0.UGTEUXM_e2c155ba02_14.0.zip
   name: Redmi 14C/POCO C75/Redmi A3 Pro
   version: OS1.0.9.0.UGTEUXM
+- android: '15.0'
+  codename: lake
+  date: '2026-03-09'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VGTEUXM/fw_lake_lake_eea_global-ota_full-OS2.0.209.0.VGTEUXM-user-15.0-9fd8bd3778.zip
+  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  version: OS2.0.209.0.VGTEUXM
 - android: '15.0'
   codename: lake
   date: '2026-01-09'
@@ -16632,6 +16650,12 @@
   version: OS3.0.5.0.WPYCNXM
 - android: '16.0'
   codename: piano
+  date: '2026-03-09'
+  download: https://bigota.d.miui.com/OS3.0.5.0.WPYEUXM/fw_piano_piano_eea_global-ota_full-OS3.0.5.0.WPYEUXM-user-16.0-67bb4392a3.zip
+  name: Xiaomi Pad 8 Pro
+  version: OS3.0.5.0.WPYEUXM
+- android: '16.0'
+  codename: piano
   date: '2025-10-04'
   download: https://bigota.d.miui.com/OS3.0.3.0.WPYCNXM/fw_piano_piano-ota_full-OS3.0.3.0.WPYCNXM-user-16.0-0b43cc7a9a.zip
   name: Xiaomi Pad 8 Pro
@@ -21768,6 +21792,18 @@
   version: OS1.0.6.0.UMWMIXM
 - android: '15.0'
   codename: sky
+  date: '2026-03-09'
+  download: https://bigota.d.miui.com/OS2.0.212.0.VMWEUXM/fw_sky_sky_eea_global-ota_full-OS2.0.212.0.VMWEUXM-user-15.0-2fc09df1d6.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS2.0.212.0.VMWEUXM
+- android: '15.0'
+  codename: sky
+  date: '2026-03-09'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VMWMIXM/fw_sky_sky_global-ota_full-OS2.0.207.0.VMWMIXM-user-15.0-17027c0dcf.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS2.0.207.0.VMWMIXM
+- android: '15.0'
+  codename: sky
   date: '2026-01-08'
   download: https://bigota.d.miui.com/OS2.0.211.0.VMWEUXM/fw_sky_sky_eea_global-ota_full-OS2.0.211.0.VMWEUXM-user-15.0-c181aae870.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
@@ -23530,6 +23566,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UMTMIXM/fw_tapas_miui_TAPASGlobal_OS1.0.10.0.UMTMIXM_292c984764_14.0.zip
   name: Redmi Note 12 4G
   version: OS1.0.10.0.UMTMIXM
+- android: '15.0'
+  codename: tapas
+  date: '2026-03-09'
+  download: https://bigota.d.miui.com/OS2.0.204.0.VMTINXM/fw_tapas_tapas_in_global-ota_full-OS2.0.204.0.VMTINXM-user-15.0-febc565f5b.zip
+  name: Redmi Note 12 4G
+  version: OS2.0.204.0.VMTINXM
 - android: '15.0'
   codename: tapas
   date: '2025-09-08'
