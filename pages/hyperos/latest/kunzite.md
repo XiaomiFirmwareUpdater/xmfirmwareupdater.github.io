@@ -61,12 +61,12 @@ permalink: /hyperos/kunzite/
 <tr><td>Redmi Note 15 5G / POCO M8 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VPQMIXM</td><td>15.0</td><td>4.8 GB</td><td>2026-02-27</td><td><a href="/hyperos/kunzite/stable/OS2.0.206.0.VPQMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VPQINXM</td><td>15.0</td><td>6.9 GB</td><td>2026-02-09</td><td><a href="/hyperos/kunzite/stable/OS2.0.206.0.VPQINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VPQINXM</td><td>15.0</td><td>4.6 GB</td><td>2026-02-25</td><td><a href="/hyperos/kunzite/stable/OS2.0.206.0.VPQINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 5G / POCO M8 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VPQRUXM</td><td>15.0</td><td>8.6 GB</td><td>2026-02-12</td><td><a href="/hyperos/kunzite/stable/OS2.0.203.0.VPQRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 5G / POCO M8 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VPQRUXM</td><td>15.0</td><td>4.7 GB</td><td>2026-03-02</td><td><a href="/hyperos/kunzite/stable/OS2.0.203.0.VPQRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 5G / POCO M8 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VPQTWXM</td><td>15.0</td><td>6.0 GB</td><td>2026-02-12</td><td><a href="/hyperos/kunzite/stable/OS2.0.203.0.VPQTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 5G / POCO M8 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VPQTWXM</td><td>15.0</td><td>4.7 GB</td><td>2026-02-28</td><td><a href="/hyperos/kunzite/stable/OS2.0.203.0.VPQTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 5G / POCO M8 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VPQIDXM</td><td>15.0</td><td>7.9 GB</td><td>2026-02-12</td><td><a href="/hyperos/kunzite/stable/OS2.0.205.0.VPQIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 5G / POCO M8 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VPQIDXM</td><td>15.0</td><td>4.8 GB</td><td>2026-02-28</td><td><a href="/hyperos/kunzite/stable/OS2.0.205.0.VPQIDXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 5G / POCO M8 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VPQRUXM</td><td>15.0</td><td>8.5 GB</td><td>2025-12-02</td><td><a href="/hyperos/kunzite/stable/OS2.0.202.0.VPQRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 5G / POCO M8 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VPQRUXM</td><td>15.0</td><td>4.7 GB</td><td>2026-01-08</td><td><a href="/hyperos/kunzite/stable/OS2.0.202.0.VPQRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
