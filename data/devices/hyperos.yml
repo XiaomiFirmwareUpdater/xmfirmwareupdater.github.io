@@ -22842,6 +22842,12 @@
   version: OS1.0.2.0.UMQEUXM
 - android: '14.0'
   codename: sunstone
+  date: '2026-03-11'
+  download: https://bigota.d.miui.com/OS2.0.9.0.UMQEUXM/fw_sunstone_sunstone_eea_global-ota_full-OS2.0.9.0.UMQEUXM-user-14.0-c5689b1f51.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: OS2.0.9.0.UMQEUXM
+- android: '14.0'
+  codename: sunstone
   date: '2025-01-10'
   download: https://bigota.d.miui.com/OS1.0.6.0.UMQINXM/fw_sunstone_miui_SUNSTONEINGlobal_OS1.0.6.0.UMQINXM_6c0e91c28e_14.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
@@ -27850,6 +27856,18 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UNOEUXM/fw_zircon_miui_ZIRCONEEAGlobal_OS1.0.6.0.UNOEUXM_fe45d6ab11_14.0.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS1.0.6.0.UNOEUXM
+- android: '16.0'
+  codename: zircon
+  date: '2026-03-11'
+  download: https://bigota.d.miui.com/OS3.0.5.0.WNOEUXM/fw_zircon_zircon_eea_global-ota_full-OS3.0.5.0.WNOEUXM-user-16.0-dadc68466f.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS3.0.5.0.WNOEUXM
+- android: '16.0'
+  codename: zircon
+  date: '2026-03-11'
+  download: https://bigota.d.miui.com/OS3.0.3.0.WNOMIXM/fw_zircon_zircon_global-ota_full-OS3.0.3.0.WNOMIXM-user-16.0-64f9d977e5.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS3.0.3.0.WNOMIXM
 - android: '14.0'
   codename: zircon
   date: '2024-05-10'

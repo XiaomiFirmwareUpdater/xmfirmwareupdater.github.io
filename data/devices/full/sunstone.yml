@@ -529,6 +529,16 @@
     android: '12.0'
     miui: V14.0.6.0.SMQMIXM
 - branch: stable
+  date: '2026-03-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-11.03.2026/fw_sunstone_sunstone_eea_global-ota_full-OS2.0.9.0.UMQEUXM-user-14.0-c5689b1f51.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sunstone/fw_sunstone_sunstone_eea_global-ota_full-OS2.0.9.0.UMQEUXM-user-14.0-c5689b1f51.zip
+  filename: fw_sunstone_sunstone_eea_global-ota_full-OS2.0.9.0.UMQEUXM-user-14.0-c5689b1f51.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS2.0.9.0.UMQEUXM
+- branch: stable
   date: '2023-02-11'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-11.02.2023/fw_sunstone_miui_SUNSTONE_V13.0.11.0.SMQCNXM_64fb233a1a_12.0.zip
