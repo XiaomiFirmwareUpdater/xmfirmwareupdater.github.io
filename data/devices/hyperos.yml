@@ -6892,6 +6892,12 @@
   download: https://bigota.d.miui.com/OS2.0.3.0.VHXEUXM/fw_flare_eea_global_flare_eea_global-ota_full-OS2.0.3.0.VHXEUXM-user-15.0-1f0dac307a.zip
   name: Redmi Pad SE 8.7 5G
   version: OS2.0.3.0.VHXEUXM
+- android: '16.0'
+  codename: flare
+  date: '2026-03-11'
+  download: https://bigota.d.miui.com/OS3.0.2.0.WHXMIXM/fw_flare_flare_global-ota_full-OS3.0.2.0.WHXMIXM-user-16.0-324cfe5a17.zip
+  name: Redmi Pad SE 8.7 5G
+  version: OS3.0.2.0.WHXMIXM
 - android: '15.0'
   codename: flare
   date: '2025-02-10'
