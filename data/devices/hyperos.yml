@@ -10894,6 +10894,12 @@
   download: https://bigota.d.miui.com/OS2.0.200.0.VOWINXM/fw_koto_in_global_koto_in_global-ota_full-OS2.0.200.0.VOWINXM-user-15.0-85a025237e.zip
   name: Redmi Pad 2 4G
   version: OS2.0.200.0.VOWINXM
+- android: '16.0'
+  codename: koto
+  date: '2026-03-12'
+  download: https://bigota.d.miui.com/OS3.0.1.0.WOWINXM/fw_koto_koto_in_global-ota_full-OS3.0.1.0.WOWINXM-user-16.0-8d3dc2ee73.zip
+  name: Redmi Pad 2 4G
+  version: OS3.0.1.0.WOWINXM
 - android: '15.0'
   codename: koto
   date: '2025-09-09'
