@@ -6069,6 +6069,16 @@
     android: '15.0'
     miui: OS3.0.4.0.VMKCNXM
 - branch: stable
+  date: '2026-03-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_somalia/releases/download/stable-12.03.2026/fw_somalia_somalia_in_global-ota_full-OS3.0.1.0.WBWINXM-user-16.0-09f1203569.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/somalia/fw_somalia_somalia_in_global-ota_full-OS3.0.1.0.WBWINXM-user-16.0-09f1203569.zip
+  filename: fw_somalia_somalia_in_global-ota_full-OS3.0.1.0.WBWINXM-user-16.0-09f1203569.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.1.0.WBWINXM
+- branch: stable
   date: '2026-03-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spark/releases/download/stable-09.03.2026/fw_spark_spark_global-ota_full-OS3.0.2.0.WHYMIXM-user-16.0-1a2cd1dcf1.zip

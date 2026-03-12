@@ -22066,6 +22066,12 @@
   download: https://bigota.d.miui.com/OS2.0.211.0.VMKCNXM/fw_socrates_socrates-ota_full-OS2.0.211.0.VMKCNXM-user-15.0-712c0be73e.zip
   name: Redmi K60 Pro
   version: OS2.0.211.0.VMKCNXM
+- android: '16.0'
+  codename: somalia
+  date: '2026-03-12'
+  download: https://bigota.d.miui.com/OS3.0.1.0.WBWINXM/fw_somalia_somalia_in_global-ota_full-OS3.0.1.0.WBWINXM-user-16.0-09f1203569.zip
+  name: Redmi 17 5G/Redmi R70m/Redmi A7 Pro 5G/Redmi 15A 5G/POCO C85x 5G
+  version: OS3.0.1.0.WBWINXM
 - android: '15.0'
   codename: spark
   date: '2025-12-31'
