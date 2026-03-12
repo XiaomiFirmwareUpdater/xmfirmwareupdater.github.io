@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 12 Mar 2026 00:42:14 </lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 06:48:33 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS3.0.3.0.WNREUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Pad SE 8.7 5G (flare) - OS3.0.2.0.WHXMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flare/</link>
@@ -1349,11 +1354,6 @@
         <item>
             <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS2.0.205.0.VPREUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
-            <pubDate>Thu, 08 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS2.0.207.0.VNREUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
             <pubDate>Thu, 08 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
