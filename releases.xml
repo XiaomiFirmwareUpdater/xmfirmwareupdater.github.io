@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 13 Mar 2026 13:05:35 </lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 19:12:26 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 13 (fuxi) - OS3.0.4.0.WMCMIXM</title>
@@ -12,8 +12,23 @@
             <pubDate>Fri, 13 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.4.0.WOOEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
+            <pubDate>Fri, 13 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Xiaomi 13 Pro (nuwa) - OS3.0.2.0.WMBMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Fri, 13 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - OS3.0.2.0.WMBINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Fri, 13 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad Pro 5G/POCO Pad 5G (ruan) - OS3.0.5.0.WFSMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ruan/</link>
             <pubDate>Fri, 13 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -507,11 +522,6 @@
             <pubDate>Fri, 27 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad Pro 5G/POCO Pad 5G (ruan) - OS2.0.208.0.VFSMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ruan/</link>
-            <pubDate>Fri, 27 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad Pro 5G/POCO Pad 5G (ruan) - OS2.0.207.0.VFSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruan/</link>
             <pubDate>Fri, 27 Feb 2026 00:00:00 </pubDate>
@@ -739,11 +749,6 @@
         <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS3.0.7.0.VNQCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gold/</link>
-            <pubDate>Tue, 24 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.3.0.WOOEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
             <pubDate>Tue, 24 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1455,11 +1460,6 @@
             <title>Redmi K Pad/Xiaomi Pad Mini (turner) - OS3.0.5.0.WAOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/turner/</link>
             <pubDate>Tue, 30 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Pro (nuwa) - OS2.0.204.0.VMBINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Sat, 27 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K60E (rembrandt) - OS2.0.23.0.UMMCNXM</title>

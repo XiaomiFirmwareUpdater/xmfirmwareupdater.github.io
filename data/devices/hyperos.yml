@@ -12238,6 +12238,12 @@
   download: https://bigota.d.miui.com/OS2.0.208.0.VOOINXM/fw_malachite_malachite_in_global-ota_full-OS2.0.208.0.VOOINXM-user-15.0-68efab4c76.zip
   name: Redmi Note 14 Pro 5G/POCO X7
   version: OS2.0.208.0.VOOINXM
+- android: '16.0'
+  codename: malachite
+  date: '2026-03-13'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WOOEUXM/fw_malachite_malachite_eea_global-ota_full-OS3.0.4.0.WOOEUXM-user-16.0-4c858c6754.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS3.0.4.0.WOOEUXM
 - android: '14.0'
   codename: malachite
   date: '2025-03-12'
@@ -15256,6 +15262,12 @@
   download: https://bigota.d.miui.com/OS3.0.2.0.WMBMIXM/fw_nuwa_nuwa_global-ota_full-OS3.0.2.0.WMBMIXM-user-16.0-c5efa97ddf.zip
   name: Xiaomi 13 Pro
   version: OS3.0.2.0.WMBMIXM
+- android: '16.0'
+  codename: nuwa
+  date: '2026-03-13'
+  download: https://bigota.d.miui.com/OS3.0.2.0.WMBINXM/fw_nuwa_nuwa_in_global-ota_full-OS3.0.2.0.WMBINXM-user-16.0-5bb583fcb2.zip
+  name: Xiaomi 13 Pro
+  version: OS3.0.2.0.WMBINXM
 - android: '14.0'
   codename: nuwa
   date: '2025-01-13'
@@ -19462,6 +19474,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UFSEUXM/fw_ruan_miui_RUANEEAGlobal_OS1.0.10.0.UFSEUXM_69e32ebe75_14.0.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS1.0.10.0.UFSEUXM
+- android: '16.0'
+  codename: ruan
+  date: '2026-03-13'
+  download: https://bigota.d.miui.com/OS3.0.5.0.WFSMIXM/fw_ruan_ruan_global-ota_full-OS3.0.5.0.WFSMIXM-user-16.0-eee6209daa.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS3.0.5.0.WFSMIXM
 - android: '15.0'
   codename: ruan
   date: '2025-05-12'
