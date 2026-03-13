@@ -3,7 +3,7 @@ title: Xiaomi 15 Ultra Global HyperOS OS3.0.9.0.WOAMIXM Update
 layout: download
 name: Xiaomi 15 Ultra Global
 codename: xuanyuan
-permalink: /hyperos/xuanyuan/stable beta/OS3.0.9.0.WOAMIXM/
+permalink: /hyperos/xuanyuan/stable/OS3.0.9.0.WOAMIXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/xuanyuan/stable beta/OS3.0.9.0.WOAMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.9.0.WOAMIXM Stable Beta Official Update for Xiaomi 15 Ultra Global (xuanyuan)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.9.0.WOAMIXM Stable Official Update for Xiaomi 15 Ultra Global (xuanyuan)</h3>
     <h5>This page shows the OS3.0.9.0.WOAMIXM update only. If you're looking for other updates check
         <a href="/hyperos/xuanyuan/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/xuanyuan/stable beta/OS3.0.9.0.WOAMIXM/
                     <h5><b>Version: </b>OS3.0.9.0.WOAMIXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/xuanyuan/stable beta/OS3.0.9.0.WOAMIXM/
                             aria-expanded="false" aria-controls="xuanyuan_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="xuanyuan_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to February 2026. Increased system security.<br>[Camera]<br>Optimization: Camera stability</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi 15 Ultra Global</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/xuanyuan/" target="_blank">xuanyuan</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS3.0.9.0.WOAMIXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>11.7 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2026-02-02</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">xuanyuan_global_images_OS3.0.9.0.WOAMIXM_20260202.0000.00_16.0_global_e51abcf9c7.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">e51abcf9c7235ecae132e4609d767c44</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.9.0.WOAMIXM/xuanyuan_global_images_OS3.0.9.0.WOAMIXM_20260202.0000.00_16.0_global_e51abcf9c7.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.9.0.WOAMIXM/xuanyuan_global_images_OS3.0.9.0.WOAMIXM_20260202.0000.00_16.0_global_e51abcf9c7.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.9.0.WOAMIXM/xuanyuan_global_images_OS3.0.9.0.WOAMIXM_20260202.0000.00_16.0_global_e51abcf9c7.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.9.0.WOAMIXM/xuanyuan_global_images_OS3.0.9.0.WOAMIXM_20260202.0000.00_16.0_global_e51abcf9c7.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.9.0.WOAMIXM/xuanyuan_global_images_OS3.0.9.0.WOAMIXM_20260202.0000.00_16.0_global_e51abcf9c7.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#xuanyuan_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="xuanyuan_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="xuanyuan_2_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to February 2026. Increased system security.<br>[Camera]<br>Optimization: Camera stability</p>
                     </div>
                 </li>

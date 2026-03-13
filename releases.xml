@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 13 Mar 2026 00:54:30 </lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 07:06:35 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13 (fuxi) - OS3.0.4.0.WMCMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
+            <pubDate>Fri, 13 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - OS3.0.2.0.WMBMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Fri, 13 Mar 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS3.0.3.0.WNREUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
@@ -1297,11 +1307,6 @@
             <pubDate>Thu, 22 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13 (fuxi) - OS3.0.3.0.WMCMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Mon, 19 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS2.0.14.0.UMSEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
             <pubDate>Fri, 16 Jan 2026 00:00:00 </pubDate>
@@ -1445,11 +1450,6 @@
             <title>Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) - OS2.0.206.0.VPOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
             <pubDate>Wed, 31 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Pro (nuwa) - OS2.0.207.0.VMBMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Tue, 30 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K Pad/Xiaomi Pad Mini (turner) - OS3.0.5.0.WAOMIXM</title>
