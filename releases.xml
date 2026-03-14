@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 14 Mar 2026 00:41:21 </lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 06:50:06 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.301.0.WPLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dash/</link>
+            <pubDate>Sat, 14 Mar 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 13 (fuxi) - OS3.0.4.0.WMCMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
@@ -229,11 +234,6 @@
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS3.0.5.0.WNAINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Wed, 04 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.10.0.WPLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dash/</link>
             <pubDate>Wed, 04 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>

@@ -4026,6 +4026,12 @@
   version: OS3.0.8.0.WPLCNXM
 - android: '16.0'
   codename: dash
+  date: '2026-03-14'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WPLCNXM/fw_dash_dash-ota_full-OS3.0.301.0.WPLCNXM-user-16.0-fefb9aa1d8.zip
+  name: Redmi Turbo 5 Max/POCO X8 Pro Max
+  version: OS3.0.301.0.WPLCNXM
+- android: '16.0'
+  codename: dash
   date: '2026-03-04'
   download: https://bigota.d.miui.com/OS3.0.10.0.WPLCNXM/fw_dash_dash-ota_full-OS3.0.10.0.WPLCNXM-user-16.0-b62313a48b.zip
   name: Redmi Turbo 5 Max/POCO X8 Pro Max

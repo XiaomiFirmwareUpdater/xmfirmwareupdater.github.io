@@ -54,7 +54,7 @@ permalink: /hyperos/dash/
                 <tbody>
                 <tr><td>Redmi Turbo 5 Max China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.10.0.WPLCNXM</td><td>16.0</td><td>10.4 GB</td><td>2026-02-11</td><td><a href="/hyperos/dash/stable/OS3.0.10.0.WPLCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 5 Max China</td><td>Stable</td><td>Recovery</td><td>OS3.0.10.0.WPLCNXM</td><td>16.0</td><td>8.1 GB</td><td>2026-02-12</td><td><a href="/hyperos/dash/stable/OS3.0.10.0.WPLCNXM/">Download</a></td></tr>
-<tr><td>Redmi Turbo 5 Max China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.7.0.WPLCNXM</td><td>16.0</td><td>7.9 GB</td><td>2026-01-30</td><td><a href="/hyperos/dash/stable beta/OS3.0.7.0.WPLCNXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 5 Max China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WPLCNXM</td><td>16.0</td><td>8.2 GB</td><td>2026-03-12</td><td><a href="/hyperos/dash/stable beta/OS3.0.301.0.WPLCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
