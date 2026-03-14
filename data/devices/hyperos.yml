@@ -888,6 +888,12 @@
   version: OS3.0.13.0.WPKCNXM
 - android: '16.0'
   codename: annibale
+  date: '2026-03-14'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WPKCNXM/fw_annibale_annibale-ota_full-OS3.0.303.0.WPKCNXM-user-16.0-33073f2249.zip
+  name: Redmi K90/POCO F8 Pro
+  version: OS3.0.303.0.WPKCNXM
+- android: '16.0'
+  codename: annibale
   date: '2026-01-12'
   download: https://bigota.d.miui.com/OS3.0.20.0.WPKCNXM/fw_annibale_annibale-ota_full-OS3.0.20.0.WPKCNXM-user-16.0-42b109f0f1.zip
   name: Redmi K90/POCO F8 Pro
@@ -16722,6 +16728,12 @@
   version: OS3.0.5.0.WPYCNXM
 - android: '16.0'
   codename: piano
+  date: '2026-03-14'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WPYCNXM/fw_piano_piano-ota_full-OS3.0.303.0.WPYCNXM-user-16.0-c3139e4a3b.zip
+  name: Xiaomi Pad 8 Pro
+  version: OS3.0.303.0.WPYCNXM
+- android: '16.0'
+  codename: piano
   date: '2026-03-09'
   download: https://bigota.d.miui.com/OS3.0.5.0.WPYEUXM/fw_piano_piano_eea_global-ota_full-OS3.0.5.0.WPYEUXM-user-16.0-67bb4392a3.zip
   name: Xiaomi Pad 8 Pro
@@ -22216,6 +22228,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UHYEUXM/fw_spark_miui_SPARKEEAGlobal_OS1.0.5.0.UHYEUXM_699d2d9fc9_14.0.zip
   name: Redmi Pad SE 8.7 4G
   version: OS1.0.5.0.UHYEUXM
+- android: '16.0'
+  codename: spark
+  date: '2026-03-14'
+  download: https://bigota.d.miui.com/OS3.0.1.0.WHYINXM/fw_spark_spark_in_global-ota_full-OS3.0.1.0.WHYINXM-user-16.0-66ff27dcaf.zip
+  name: Redmi Pad SE 8.7 4G
+  version: OS3.0.1.0.WHYINXM
 - android: '15.0'
   codename: spark
   date: '2025-11-12'
@@ -27058,6 +27076,12 @@
   download: https://bigota.d.miui.com/OS3.0.11.0.WPZCNXM/fw_yupei_yupei-ota_full-OS3.0.11.0.WPZCNXM-user-16.0-16dd3ba10e.zip
   name: Xiaomi Pad 8
   version: OS3.0.11.0.WPZCNXM
+- android: '16.0'
+  codename: yupei
+  date: '2026-03-14'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WPZCNXM/fw_yupei_yupei-ota_full-OS3.0.303.0.WPZCNXM-user-16.0-a024ba01e1.zip
+  name: Xiaomi Pad 8
+  version: OS3.0.303.0.WPZCNXM
 - android: '16.0'
   codename: yupei
   date: '2025-10-12'

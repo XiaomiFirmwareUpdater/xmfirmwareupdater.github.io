@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 14 Mar 2026 13:11:21 </lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 19:21:14 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.303.0.WPKCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
+            <pubDate>Sat, 14 Mar 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.301.0.WPLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dash/</link>
@@ -19,6 +24,21 @@
         <item>
             <title>Xiaomi 17 Ultra (nezha) - OS3.0.303.0.WPACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nezha/</link>
+            <pubDate>Sat, 14 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 8 Pro (piano) - OS3.0.303.0.WPYCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/piano/</link>
+            <pubDate>Sat, 14 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE 8.7 4G (spark) - OS3.0.1.0.WHYINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/spark/</link>
+            <pubDate>Sat, 14 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 8 (yupei) - OS3.0.303.0.WPZCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/yupei/</link>
             <pubDate>Sat, 14 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -462,11 +482,6 @@
             <pubDate>Sat, 28 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 8 Pro (piano) - OS3.0.11.0.WPYCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/piano/</link>
-            <pubDate>Sat, 28 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 17 (pudding) - OS3.0.9.0.WPCMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pudding/</link>
             <pubDate>Sat, 28 Feb 2026 00:00:00 </pubDate>
@@ -544,11 +559,6 @@
         <item>
             <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS3.0.4.0.WOUCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spring/</link>
-            <pubDate>Fri, 27 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 8 (yupei) - OS3.0.12.0.WPZCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/yupei/</link>
             <pubDate>Fri, 27 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -892,11 +902,6 @@
             <pubDate>Tue, 10 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.24.0.WPKCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
-            <pubDate>Mon, 09 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>MIX Fold 3 (babylon) - OS3.0.8.0.WMVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
             <pubDate>Mon, 09 Feb 2026 00:00:00 </pubDate>
@@ -1029,11 +1034,6 @@
         <item>
             <title>Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite (shennong) - OS3.0.8.0.WNBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/shennong/</link>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad SE 8.7 4G (spark) - OS2.0.203.0.VHYINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/spark/</link>
             <pubDate>Thu, 05 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
