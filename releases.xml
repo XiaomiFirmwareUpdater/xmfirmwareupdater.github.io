@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 14 Mar 2026 06:50:06 </lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 13:11:21 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.301.0.WPLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dash/</link>
+            <pubDate>Sat, 14 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K90 Pro Max/POCO F8 Ultra (myron) - OS3.0.303.0.WPMCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/myron/</link>
+            <pubDate>Sat, 14 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17 Ultra (nezha) - OS3.0.303.0.WPACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/nezha/</link>
             <pubDate>Sat, 14 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -672,11 +682,6 @@
             <pubDate>Wed, 25 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 17 Ultra (nezha) - OS3.0.15.0.WPACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/nezha/</link>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.10.0.UMOINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Wed, 25 Feb 2026 00:00:00 </pubDate>
@@ -934,11 +939,6 @@
         <item>
             <title>Xiaomi Pad 7 Pro (muyu) - OS3.0.5.0.WOYEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
-            <pubDate>Mon, 09 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K90 Pro Max/POCO F8 Ultra (myron) - OS3.0.23.0.WPMCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/myron/</link>
             <pubDate>Mon, 09 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>

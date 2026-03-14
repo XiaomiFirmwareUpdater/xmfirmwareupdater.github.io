@@ -14826,6 +14826,12 @@
   version: OS3.0.9.0.WPMMIXM
 - android: '16.0'
   codename: myron
+  date: '2026-03-14'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WPMCNXM/fw_myron_myron-ota_full-OS3.0.303.0.WPMCNXM-user-16.0-08eeab684e.zip
+  name: Redmi K90 Pro Max/POCO F8 Ultra
+  version: OS3.0.303.0.WPMCNXM
+- android: '16.0'
+  codename: myron
   date: '2025-11-10'
   download: https://bigota.d.miui.com/OS3.0.14.0.WPMCNXM/fw_myron_myron-ota_full-OS3.0.14.0.WPMCNXM-user-16.0-e7b2bab2c8.zip
   name: Redmi K90 Pro Max/POCO F8 Ultra
@@ -14968,6 +14974,12 @@
   download: https://bigota.d.miui.com/OS3.0.10.0.WPACNXM/fw_nezha_nezha-ota_full-OS3.0.10.0.WPACNXM-user-16.0-f86e698e59.zip
   name: Xiaomi 17 Ultra
   version: OS3.0.10.0.WPACNXM
+- android: '16.0'
+  codename: nezha
+  date: '2026-03-14'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WPACNXM/fw_nezha_nezha-ota_full-OS3.0.303.0.WPACNXM-user-16.0-b34000bba1.zip
+  name: Xiaomi 17 Ultra
+  version: OS3.0.303.0.WPACNXM
 - android: '16.0'
   codename: nezha
   date: '2026-02-28'
