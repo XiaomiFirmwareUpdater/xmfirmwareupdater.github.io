@@ -4696,6 +4696,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.ULFEUXM/fw_diting_miui_DITINGEEAGlobal_OS1.0.3.0.ULFEUXM_c53db31bc4_14.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: OS1.0.3.0.ULFEUXM
+- android: '15.0'
+  codename: diting
+  date: '2026-03-16'
+  download: https://bigota.d.miui.com/OS3.0.3.0.VLFMIXM/fw_diting_diting_global-ota_full-OS3.0.3.0.VLFMIXM-user-15.0-146d2e0d78.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS3.0.3.0.VLFMIXM
 - android: '14.0'
   codename: diting
   date: '2024-03-15'
@@ -15976,6 +15982,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VPXINXM/fw_organ_organ_in_global-ota_full-OS2.0.202.0.VPXINXM-user-15.0-d88c711cf8.zip
   name: Redmi Pad 2 Pro 5G
   version: OS2.0.202.0.VPXINXM
+- android: '16.0'
+  codename: organ
+  date: '2026-03-16'
+  download: https://bigota.d.miui.com/OS3.0.1.0.WPXINXM/fw_organ_organ_in_global-ota_full-OS3.0.1.0.WPXINXM-user-16.0-79deaced2c.zip
+  name: Redmi Pad 2 Pro 5G
+  version: OS3.0.1.0.WPXINXM
 - android: '15.0'
   codename: organ
   date: '2025-12-14'
@@ -17872,6 +17884,12 @@
   download: https://bigota.d.miui.com/OS3.0.34.0.WPCCNXM/fw_pudding_pudding-ota_full-OS3.0.34.0.WPCCNXM-user-16.0-8d9edecda1.zip
   name: Xiaomi 17
   version: OS3.0.34.0.WPCCNXM
+- android: '16.0'
+  codename: pudding
+  date: '2026-03-16'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WPCCNXM/fw_pudding_pudding-ota_full-OS3.0.304.0.WPCCNXM-user-16.0-7aced70272.zip
+  name: Xiaomi 17
+  version: OS3.0.304.0.WPCCNXM
 - android: '16.0'
   codename: pudding
   date: '2025-10-14'
@@ -24106,6 +24124,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VPOMIXM/fw_tornado_global_tornado_global-ota_full-OS2.0.202.0.VPOMIXM-user-15.0-9ca795b8a9.zip
   name: Redmi 15C 5G/15R 5G/POCO C85 5G
   version: OS2.0.202.0.VPOMIXM
+- android: '15.0'
+  codename: tornado
+  date: '2026-03-16'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VPOEUXM/fw_tornado_tornado_eea_global-ota_full-OS2.0.207.0.VPOEUXM-user-15.0-06698b623c.zip
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  version: OS2.0.207.0.VPOEUXM
 - android: '15.0'
   codename: tornado
   date: '2025-10-15'
