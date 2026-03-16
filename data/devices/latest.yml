@@ -2949,15 +2949,15 @@
     android: '6.0'
     miui: 8.11.22
 - branch: stable
-  date: '2026-02-25'
+  date: '2026-03-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klee/releases/download/stable-25.02.2026/fw_klee_klee-ota_full-OS3.0.20.0.WPJCNXM-user-16.0-2f1908aa66.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klee/fw_klee_klee-ota_full-OS3.0.20.0.WPJCNXM-user-16.0-2f1908aa66.zip
-  filename: fw_klee_klee-ota_full-OS3.0.20.0.WPJCNXM-user-16.0-2f1908aa66.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klee/releases/download/stable-16.03.2026/fw_klee_klee-ota_full-OS3.0.301.0.WPJCNXM-user-16.0-fb2ad314e8.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klee/fw_klee_klee-ota_full-OS3.0.301.0.WPJCNXM-user-16.0-fb2ad314e8.zip
+  filename: fw_klee_klee-ota_full-OS3.0.301.0.WPJCNXM-user-16.0-fb2ad314e8.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.20.0.WPJCNXM
+    miui: OS3.0.301.0.WPJCNXM
 - branch: stable
   date: '2026-02-06'
   downloads:
@@ -3629,15 +3629,15 @@
     android: '16.0'
     miui: OS3.0.4.0.WOOEUXM
 - branch: stable
-  date: '2026-02-24'
+  date: '2026-03-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-24.02.2026/fw_malachite_malachite_in_global-ota_full-OS3.0.4.0.WOOINXM-user-16.0-cc498b8e72.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/malachite/fw_malachite_malachite_in_global-ota_full-OS3.0.4.0.WOOINXM-user-16.0-cc498b8e72.zip
-  filename: fw_malachite_malachite_in_global-ota_full-OS3.0.4.0.WOOINXM-user-16.0-cc498b8e72.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-16.03.2026/fw_malachite_malachite_in_global-ota_full-OS3.0.5.0.WOOINXM-user-16.0-5da07111b1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/malachite/fw_malachite_malachite_in_global-ota_full-OS3.0.5.0.WOOINXM-user-16.0-5da07111b1.zip
+  filename: fw_malachite_malachite_in_global-ota_full-OS3.0.5.0.WOOINXM-user-16.0-5da07111b1.zip
   region: India
   versions:
     android: '16.0'
-    miui: OS3.0.4.0.WOOINXM
+    miui: OS3.0.5.0.WOOINXM
 - branch: stable
   date: '2026-02-04'
   downloads:

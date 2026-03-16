@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 16 Mar 2026 06:55:48 </lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 13:10:01 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS3.0.7.0.WPRCNXM</title>
@@ -12,8 +12,18 @@
             <pubDate>Mon, 16 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Turbo 5/POCO X8 Pro (klee) - OS3.0.301.0.WPJCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/klee/</link>
+            <pubDate>Mon, 16 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi 14C/POCO C75/Redmi A3 Pro (lake) - OS3.0.3.0.WGTEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lake/</link>
+            <pubDate>Mon, 16 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.5.0.WOOINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
             <pubDate>Mon, 16 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -682,11 +692,6 @@
             <pubDate>Wed, 25 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Turbo 5/POCO X8 Pro (klee) - OS3.0.20.0.WPJCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/klee/</link>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 14C/POCO C75/Redmi A3 Pro (lake) - OS3.0.18.0.WGTMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lake/</link>
             <pubDate>Wed, 25 Feb 2026 00:00:00 </pubDate>
@@ -769,11 +774,6 @@
         <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS3.0.7.0.VNQCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gold/</link>
-            <pubDate>Tue, 24 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.4.0.WOOINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
             <pubDate>Tue, 24 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
