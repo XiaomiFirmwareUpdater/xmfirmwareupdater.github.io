@@ -119,6 +119,16 @@
     android: '14.0'
     miui: OS1.0.6.0.UGTEUXM
 - branch: stable
+  date: '2026-03-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-16.03.2026/fw_lake_lake_eea_global-ota_full-OS3.0.3.0.WGTEUXM-user-16.0-49684d04f0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/lake/fw_lake_lake_eea_global-ota_full-OS3.0.3.0.WGTEUXM-user-16.0-49684d04f0.zip
+  filename: fw_lake_lake_eea_global-ota_full-OS3.0.3.0.WGTEUXM-user-16.0-49684d04f0.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.3.0.WGTEUXM
+- branch: stable
   date: '2025-01-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lake/releases/download/stable-16.01.2025/fw_lake_miui_LAKEGlobal_OS1.0.11.0.UGTMIXM_6de4047946_14.0.zip
