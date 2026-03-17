@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 17 Mar 2026 00:40:54 </lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 07:18:58 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.2.0.WPLEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dash/</link>
+            <pubDate>Tue, 17 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17 Pro (pandora) - OS3.0.304.0.WBLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/pandora/</link>
+            <pubDate>Tue, 17 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17 Pro Max (popsicle) - OS3.0.304.0.WPBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/popsicle/</link>
+            <pubDate>Tue, 17 Mar 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS3.0.3.0.VLFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/diting/</link>
@@ -890,16 +905,6 @@
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS3.0.6.0.WNOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Thu, 12 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17 Pro (pandora) - OS3.0.45.0.WBLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pandora/</link>
-            <pubDate>Wed, 11 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17 Pro Max (popsicle) - OS3.0.45.0.WPBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/popsicle/</link>
-            <pubDate>Wed, 11 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Turbo 3/POCO F6 (peridot) - OS3.0.7.0.WNPCNXM</title>

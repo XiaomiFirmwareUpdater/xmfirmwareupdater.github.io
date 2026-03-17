@@ -4032,6 +4032,12 @@
   version: OS3.0.8.0.WPLCNXM
 - android: '16.0'
   codename: dash
+  date: '2026-03-17'
+  download: https://bigota.d.miui.com/OS3.0.2.0.WPLEUXM/fw_dash_dash_eea_global-ota_full-OS3.0.2.0.WPLEUXM-user-16.0-1b5df667e0.zip
+  name: Redmi Turbo 5 Max/POCO X8 Pro Max
+  version: OS3.0.2.0.WPLEUXM
+- android: '16.0'
+  codename: dash
   date: '2026-03-14'
   download: https://bigota.d.miui.com/OS3.0.301.0.WPLCNXM/fw_dash_dash-ota_full-OS3.0.301.0.WPLCNXM-user-16.0-fefb9aa1d8.zip
   name: Redmi Turbo 5 Max/POCO X8 Pro Max
@@ -16056,6 +16062,12 @@
   version: OS3.0.40.0.WBLCNXM
 - android: '16.0'
   codename: pandora
+  date: '2026-03-17'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WBLCNXM/fw_pandora_pandora-ota_full-OS3.0.304.0.WBLCNXM-user-16.0-d80fdd1614.zip
+  name: Xiaomi 17 Pro
+  version: OS3.0.304.0.WBLCNXM
+- android: '16.0'
+  codename: pandora
   date: '2025-12-15'
   download: https://bigota.d.miui.com/OS3.0.34.0.WBLCNXM/fw_pandora_pandora-ota_full-OS3.0.34.0.WBLCNXM-user-16.0-6900ab3908.zip
   name: Xiaomi 17 Pro
@@ -17692,6 +17704,12 @@
   download: https://bigota.d.miui.com/OS3.0.40.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.40.0.WPBCNXM-user-16.0-f0228ea917.zip
   name: Xiaomi 17 Pro Max
   version: OS3.0.40.0.WPBCNXM
+- android: '16.0'
+  codename: popsicle
+  date: '2026-03-17'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.304.0.WPBCNXM-user-16.0-c2dfedbf85.zip
+  name: Xiaomi 17 Pro Max
+  version: OS3.0.304.0.WPBCNXM
 - android: '16.0'
   codename: popsicle
   date: '2025-12-15'
