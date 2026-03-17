@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 17 Mar 2026 13:00:40 </lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 18:55:56 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.3.0.WPLMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dash/</link>
+            <pubDate>Tue, 17 Mar 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.2.0.WPLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dash/</link>
