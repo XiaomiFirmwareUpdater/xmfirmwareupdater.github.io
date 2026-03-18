@@ -139,15 +139,15 @@
     android: '16.0'
     miui: OS3.0.3.0.WOPEUXM
 - branch: stable
-  date: '2026-02-26'
+  date: '2026-03-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-26.02.2026/fw_amethyst_amethyst_in_global-ota_full-OS3.0.2.0.WOPINXM-user-16.0-9c7bb60944.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/amethyst/fw_amethyst_amethyst_in_global-ota_full-OS3.0.2.0.WOPINXM-user-16.0-9c7bb60944.zip
-  filename: fw_amethyst_amethyst_in_global-ota_full-OS3.0.2.0.WOPINXM-user-16.0-9c7bb60944.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-18.03.2026/fw_amethyst_amethyst_in_global-ota_full-OS3.0.3.0.WOPINXM-user-16.0-6f9a367404.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/amethyst/fw_amethyst_amethyst_in_global-ota_full-OS3.0.3.0.WOPINXM-user-16.0-6f9a367404.zip
+  filename: fw_amethyst_amethyst_in_global-ota_full-OS3.0.3.0.WOPINXM-user-16.0-6f9a367404.zip
   region: India
   versions:
     android: '16.0'
-    miui: OS3.0.2.0.WOPINXM
+    miui: OS3.0.3.0.WOPINXM
 - branch: stable
   date: '2021-03-29'
   downloads:
@@ -1729,15 +1729,15 @@
     android: '15.0'
     miui: OS2.0.208.0.VNLINXM
 - branch: stable
-  date: '2026-01-04'
+  date: '2026-03-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-04.01.2026/fw_earth_miui_EARTHGlobal_OS1.0.15.0.UCVMIXM_3dc6096586_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHGlobal_OS1.0.15.0.UCVMIXM_3dc6096586_14.0.zip
-  filename: fw_earth_miui_EARTHGlobal_OS1.0.15.0.UCVMIXM_3dc6096586_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-18.03.2026/fw_earth_miui_EARTHGlobal_OS1.0.16.0.UCVMIXM_f0607f35d8_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHGlobal_OS1.0.16.0.UCVMIXM_f0607f35d8_14.0.zip
+  filename: fw_earth_miui_EARTHGlobal_OS1.0.16.0.UCVMIXM_f0607f35d8_14.0.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS1.0.15.0.UCVMIXM
+    miui: OS1.0.16.0.UCVMIXM
 - branch: stable
   date: '2025-08-29'
   downloads:
@@ -1749,15 +1749,15 @@
     android: '14.0'
     miui: OS1.0.8.0.UCVCNXM
 - branch: stable
-  date: '2026-01-09'
+  date: '2026-03-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-09.01.2026/fw_earth_miui_EARTHEEAGlobal_OS1.0.15.0.UCVEUXM_8ce814ed51_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHEEAGlobal_OS1.0.15.0.UCVEUXM_8ce814ed51_14.0.zip
-  filename: fw_earth_miui_EARTHEEAGlobal_OS1.0.15.0.UCVEUXM_8ce814ed51_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-18.03.2026/fw_earth_miui_EARTHEEAGlobal_OS1.0.16.0.UCVEUXM_630d7a6ede_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHEEAGlobal_OS1.0.16.0.UCVEUXM_630d7a6ede_14.0.zip
+  filename: fw_earth_miui_EARTHEEAGlobal_OS1.0.16.0.UCVEUXM_630d7a6ede_14.0.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS1.0.15.0.UCVEUXM
+    miui: OS1.0.16.0.UCVEUXM
 - branch: stable
   date: '2025-07-07'
   downloads:
@@ -6399,15 +6399,15 @@
     android: '13.0'
     miui: V14.0.1.0.TKFINXM
 - branch: stable
-  date: '2026-02-09'
+  date: '2026-03-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taiko/releases/download/stable-09.02.2026/fw_taiko_taiko_global-ota_full-OS3.0.2.0.WOVMIXM-user-16.0-39734ce6e9.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/taiko/fw_taiko_taiko_global-ota_full-OS3.0.2.0.WOVMIXM-user-16.0-39734ce6e9.zip
-  filename: fw_taiko_taiko_global-ota_full-OS3.0.2.0.WOVMIXM-user-16.0-39734ce6e9.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taiko/releases/download/stable-18.03.2026/fw_taiko_taiko_global-ota_full-OS3.0.3.0.WOVMIXM-user-16.0-786bfff5c5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/taiko/fw_taiko_taiko_global-ota_full-OS3.0.3.0.WOVMIXM-user-16.0-786bfff5c5.zip
+  filename: fw_taiko_taiko_global-ota_full-OS3.0.3.0.WOVMIXM-user-16.0-786bfff5c5.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.2.0.WOVMIXM
+    miui: OS3.0.3.0.WOVMIXM
 - branch: stable
   date: '2026-01-04'
   downloads:
