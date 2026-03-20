@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 20 Mar 2026 12:47:11 </lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 19:02:42 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Pad 2 Pro 5G (organ) - OS3.0.5.0.WPXEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/organ/</link>
+            <pubDate>Fri, 20 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 4G (spinel) - OS2.0.212.0.VPGMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/spinel/</link>
+            <pubDate>Fri, 20 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS3.0.3.0.WOUMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/spring/</link>
             <pubDate>Fri, 20 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -717,11 +727,6 @@
             <pubDate>Thu, 26 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 15 4G (spinel) - OS2.0.211.0.VPGMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/spinel/</link>
-            <pubDate>Thu, 26 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS3.0.4.0.WOZINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/uke/</link>
             <pubDate>Thu, 26 Feb 2026 00:00:00 </pubDate>
@@ -914,11 +919,6 @@
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.5.0.WNLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Sun, 22 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS2.0.208.0.VOUMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/spring/</link>
             <pubDate>Sun, 22 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
