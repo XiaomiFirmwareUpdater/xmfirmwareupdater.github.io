@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 20 Mar 2026 06:40:26 </lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 12:47:11 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Pad 2 Pro 5G (organ) - OS3.0.5.0.WPXEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/organ/</link>
+            <pubDate>Fri, 20 Mar 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) - OS3.0.1.0.WPOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
@@ -454,11 +459,6 @@
         <item>
             <title>Redmi Note 15 5G/POCO M8 5G (kunzite) - OS2.0.205.0.VPQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad 2 Pro 5G (organ) - OS3.0.4.0.WPXEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/organ/</link>
             <pubDate>Mon, 02 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
