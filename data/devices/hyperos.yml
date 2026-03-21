@@ -7252,6 +7252,12 @@
   download: https://bigota.d.miui.com/OS2.0.207.0.VPWEUXM/fw_flute_eea_global_flute_eea_global-ota_full-OS2.0.207.0.VPWEUXM-user-15.0-8f5f743f75.zip
   name: Redmi Pad 2 Pro/POCO Pad M1
   version: OS2.0.207.0.VPWEUXM
+- android: '16.0'
+  codename: flute
+  date: '2026-03-21'
+  download: https://bigota.d.miui.com/OS3.0.5.0.WPWEUXM/fw_flute_flute_eea_global-ota_full-OS3.0.5.0.WPWEUXM-user-16.0-60815844bc.zip
+  name: Redmi Pad 2 Pro/POCO Pad M1
+  version: OS3.0.5.0.WPWEUXM
 - android: '15.0'
   codename: flute
   date: '2026-01-17'
@@ -23196,6 +23202,12 @@
   version: OS2.0.205.0.VOVCNXM
 - android: '16.0'
   codename: taiko
+  date: '2026-03-21'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WOVEUXM/fw_taiko_taiko_eea_global-ota_full-OS3.0.4.0.WOVEUXM-user-16.0-37d5022534.zip
+  name: Redmi Pad 2
+  version: OS3.0.4.0.WOVEUXM
+- android: '16.0'
+  codename: taiko
   date: '2026-03-18'
   download: https://bigota.d.miui.com/OS3.0.3.0.WOVMIXM/fw_taiko_taiko_global-ota_full-OS3.0.3.0.WOVMIXM-user-16.0-786bfff5c5.zip
   name: Redmi Pad 2
@@ -28414,6 +28426,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.ULLEUXM/fw_ziyi_miui_ZIYIEEAGlobal_OS1.0.5.0.ULLEUXM_6d0eb278b9_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.5.0.ULLEUXM
+- android: '15.0'
+  codename: ziyi
+  date: '2026-03-21'
+  download: https://bigota.d.miui.com/OS3.0.3.0.VLLCNXM/fw_ziyi_ziyi-ota_full-OS3.0.3.0.VLLCNXM-user-15.0-04e11d36b7.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS3.0.3.0.VLLCNXM
 - android: '15.0'
   codename: ziyi
   date: '2025-11-20'

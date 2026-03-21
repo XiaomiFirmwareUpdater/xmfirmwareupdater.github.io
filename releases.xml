@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 21 Mar 2026 12:39:42 </lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 19:03:06 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS3.0.5.0.WPWEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flute/</link>
+            <pubDate>Sat, 21 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad 2 (taiko) - OS3.0.4.0.WOVEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
+            <pubDate>Sat, 21 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS3.0.3.0.VLLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
+            <pubDate>Sat, 21 Mar 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Pad 2 Pro 5G (organ) - OS3.0.5.0.WPXEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/organ/</link>
@@ -449,11 +464,6 @@
         <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS2.0.207.0.VNSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS3.0.4.0.WPWEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flute/</link>
             <pubDate>Mon, 02 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1277,11 +1287,6 @@
             <pubDate>Wed, 28 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS3.0.1.0.VLLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
-            <pubDate>Wed, 28 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Mi 11 (venus) - OS2.0.3.0.UKBMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/venus/</link>
             <pubDate>Tue, 27 Jan 2026 00:00:00 </pubDate>
@@ -1319,11 +1324,6 @@
         <item>
             <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS2.0.15.0.UMSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
-            <pubDate>Mon, 26 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad 2 (taiko) - OS3.0.3.0.WOVEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
             <pubDate>Mon, 26 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
