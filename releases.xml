@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 22 Mar 2026 12:40:15 </lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 18:49:01 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 15S Pro (dijun) - OS3.0.301.0.WODCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dijun/</link>
+            <pubDate>Sun, 22 Mar 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS3.0.2.0.VLFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/diting/</link>
@@ -679,11 +684,6 @@
         <item>
             <title>Redmi K80 Ultra (dali) - OS3.0.9.0.WONCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dali/</link>
-            <pubDate>Thu, 26 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15S Pro (dijun) - OS3.0.11.0.WODCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dijun/</link>
             <pubDate>Thu, 26 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
