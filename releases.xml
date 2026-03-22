@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 22 Mar 2026 00:40:15 </lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 06:48:14 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS3.0.2.0.VLFEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/diting/</link>
+            <pubDate>Sun, 22 Mar 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS3.0.5.0.WPWEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flute/</link>
@@ -1168,11 +1173,6 @@
         </item>
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS3.0.1.0.VLFCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/diting/</link>
-            <pubDate>Wed, 04 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS2.0.208.0.VLFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/diting/</link>
             <pubDate>Wed, 04 Feb 2026 00:00:00 </pubDate>
         </item>

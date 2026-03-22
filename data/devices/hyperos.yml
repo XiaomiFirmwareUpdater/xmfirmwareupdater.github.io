@@ -4614,6 +4614,12 @@
   version: OS1.0.5.0.ULFCNXM
 - android: '15.0'
   codename: diting
+  date: '2026-03-22'
+  download: https://bigota.d.miui.com/OS3.0.2.0.VLFEUXM/fw_diting_diting_eea_global-ota_full-OS3.0.2.0.VLFEUXM-user-15.0-a2b6e612ee.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS3.0.2.0.VLFEUXM
+- android: '15.0'
+  codename: diting
   date: '2025-07-21'
   download: https://bigota.d.miui.com/OS2.0.4.0.VLFMIXM/fw_diting_global_diting_global-ota_full-OS2.0.4.0.VLFMIXM-user-15.0-b39052204f.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
