@@ -3324,6 +3324,18 @@
   version: OS2.0.204.0.VLCCNXM
 - android: '15.0'
   codename: cupid
+  date: '2026-03-23'
+  download: https://bigota.d.miui.com/OS3.0.2.0.VLCEUXM/fw_cupid_cupid_eea_global-ota_full-OS3.0.2.0.VLCEUXM-user-15.0-1506349cb4.zip
+  name: Xiaomi 12
+  version: OS3.0.2.0.VLCEUXM
+- android: '15.0'
+  codename: cupid
+  date: '2026-03-23'
+  download: https://bigota.d.miui.com/OS3.0.3.0.VLCMIXM/fw_cupid_cupid_global-ota_full-OS3.0.3.0.VLCMIXM-user-15.0-dbdad700e1.zip
+  name: Xiaomi 12
+  version: OS3.0.3.0.VLCMIXM
+- android: '15.0'
+  codename: cupid
   date: '2026-01-23'
   download: https://bigota.d.miui.com/OS3.0.2.0.VLCCNXM/fw_cupid_cupid-ota_full-OS3.0.2.0.VLCCNXM-user-15.0-6aae9d0532.zip
   name: Xiaomi 12
@@ -4240,6 +4252,12 @@
   download: https://bigota.d.miui.com/OS2.0.103.0.VNEEUXM/fw_degas_eea_global_degas_eea_global-ota_full-OS2.0.103.0.VNEEUXM-user-15.0-879989d0fe.zip
   name: Xiaomi 14T
   version: OS2.0.103.0.VNEEUXM
+- android: '16.0'
+  codename: degas
+  date: '2026-03-23'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WNEMIXM/fw_degas_degas_global-ota_full-OS3.0.4.0.WNEMIXM-user-16.0-f243ab6cf2.zip
+  name: Xiaomi 14T
+  version: OS3.0.4.0.WNEMIXM
 - android: '16.0'
   codename: degas
   date: '2026-02-23'
@@ -7840,6 +7858,12 @@
   download: https://bigota.d.miui.com/OS2.0.205.0.VGPINXM/fw_gale_gale_in_global-ota_full-OS2.0.205.0.VGPINXM-user-15.0-a90037d4fb.zip
   name: Redmi 13C/POCO C65
   version: OS2.0.205.0.VGPINXM
+- android: '15.0'
+  codename: gale
+  date: '2026-03-23'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VGPMIXM/fw_gale_gale_global-ota_full-OS2.0.206.0.VGPMIXM-user-15.0-b289051f7d.zip
+  name: Redmi 13C/POCO C65
+  version: OS2.0.206.0.VGPMIXM
 - android: '14.0'
   codename: gale
   date: '2024-11-20'
@@ -10498,6 +10522,18 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UMAMIXM/fw_ishtar_miui_ISHTARGlobal_OS1.0.6.0.UMAMIXM_701344d13f_14.0.zip
   name: Xiaomi 13 Ultra
   version: OS1.0.6.0.UMAMIXM
+- android: '16.0'
+  codename: ishtar
+  date: '2026-03-23'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WMAEUXM/fw_ishtar_ishtar_eea_global-ota_full-OS3.0.4.0.WMAEUXM-user-16.0-a210d39da3.zip
+  name: Xiaomi 13 Ultra
+  version: OS3.0.4.0.WMAEUXM
+- android: '16.0'
+  codename: ishtar
+  date: '2026-03-23'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WMAMIXM/fw_ishtar_ishtar_global-ota_full-OS3.0.4.0.WMAMIXM-user-16.0-a9eb6009d9.zip
+  name: Xiaomi 13 Ultra
+  version: OS3.0.4.0.WMAMIXM
 - android: '14.0'
   codename: ishtar
   date: '2023-12-22'
@@ -12778,6 +12814,12 @@
   download: https://bigota.d.miui.com/OS2.0.4.0.VMRINXM/fw_marble_in_global_marble_in_global-ota_full-OS2.0.4.0.VMRINXM-user-15.0-7af4809043.zip
   name: Redmi Note 12 Turbo/POCO F5
   version: OS2.0.4.0.VMRINXM
+- android: '15.0'
+  codename: marble
+  date: '2026-03-23'
+  download: https://bigota.d.miui.com/OS3.0.3.0.VMRMIXM/fw_marble_marble_global-ota_full-OS3.0.3.0.VMRMIXM-user-15.0-1428c685fb.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS3.0.3.0.VMRMIXM
 - android: '14.0'
   codename: marble
   date: '2024-02-23'
@@ -21418,6 +21460,12 @@
   download: https://bigota.d.miui.com/OS1.0.11.0.UNXCNXM/fw_sheng_miui_SHENG_OS1.0.11.0.UNXCNXM_921ff6036a_14.0.zip
   name: Xiaomi Pad 6S Pro 12.4
   version: OS1.0.11.0.UNXCNXM
+- android: '16.0'
+  codename: sheng
+  date: '2026-03-23'
+  download: https://bigota.d.miui.com/OS3.0.7.0.WNXCNXM/fw_sheng_sheng-ota_full-OS3.0.7.0.WNXCNXM-user-16.0-4ff77c1b20.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS3.0.7.0.WNXCNXM
 - android: '15.0'
   codename: sheng
   date: '2025-02-22'
@@ -21676,6 +21724,12 @@
   download: https://bigota.d.miui.com/OS1.0.48.0.UNBCNXM/fw_shennong_miui_SHENNONG_OS1.0.48.0.UNBCNXM_fab4551425_14.0.zip
   name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
   version: OS1.0.48.0.UNBCNXM
+- android: '16.0'
+  codename: shennong
+  date: '2026-03-23'
+  download: https://bigota.d.miui.com/OS3.0.9.0.WNBCNXM/fw_shennong_shennong-ota_full-OS3.0.9.0.WNBCNXM-user-16.0-2761d45465.zip
+  name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
+  version: OS3.0.9.0.WNBCNXM
 - android: '14.0'
   codename: shennongt
   date: '2024-08-21'
@@ -27460,6 +27514,18 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.ULBINXM/fw_zeus_miui_ZEUSINGlobal_OS1.0.4.0.ULBINXM_a63d179932_14.0.zip
   name: Xiaomi 12 Pro
   version: OS1.0.4.0.ULBINXM
+- android: '15.0'
+  codename: zeus
+  date: '2026-03-23'
+  download: https://bigota.d.miui.com/OS3.0.2.0.VLBEUXM/fw_zeus_zeus_eea_global-ota_full-OS3.0.2.0.VLBEUXM-user-15.0-20838c8d44.zip
+  name: Xiaomi 12 Pro
+  version: OS3.0.2.0.VLBEUXM
+- android: '15.0'
+  codename: zeus
+  date: '2026-03-23'
+  download: https://bigota.d.miui.com/OS3.0.3.0.VLBMIXM/fw_zeus_zeus_global-ota_full-OS3.0.3.0.VLBMIXM-user-15.0-5824dc992d.zip
+  name: Xiaomi 12 Pro
+  version: OS3.0.3.0.VLBMIXM
 - android: '14.0'
   codename: zeus
   date: '2025-01-23'

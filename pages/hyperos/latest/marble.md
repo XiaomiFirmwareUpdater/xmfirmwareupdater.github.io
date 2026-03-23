@@ -53,6 +53,7 @@ permalink: /hyperos/marble/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Note 12 Turbo China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.215.0.VMRCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-12-16</td><td><a href="/hyperos/marble/stable/OS2.0.215.0.VMRCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 Turbo China</td><td>Stable</td><td>Recovery</td><td>OS2.0.215.0.VMRCNXM</td><td>15.0</td><td>6.2 GB</td><td>2025-12-29</td><td><a href="/hyperos/marble/stable/OS2.0.215.0.VMRCNXM/">Download</a></td></tr>
 <tr><td>POCO F5 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.211.0.VMREUXM</td><td>15.0</td><td>7.4 GB</td><td>2026-01-23</td><td><a href="/hyperos/marble/stable/OS2.0.211.0.VMREUXM/">Download</a></td></tr>
 <tr><td>POCO F5 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.211.0.VMREUXM</td><td>15.0</td><td>5.6 GB</td><td>2026-02-03</td><td><a href="/hyperos/marble/stable/OS2.0.211.0.VMREUXM/">Download</a></td></tr>
 <tr><td>POCO F5 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.218.0.VMRMIXM</td><td>15.0</td><td>7.9 GB</td><td>2026-01-14</td><td><a href="/hyperos/marble/stable/OS2.0.218.0.VMRMIXM/">Download</a></td></tr>
@@ -67,7 +68,7 @@ permalink: /hyperos/marble/
 <tr><td>POCO F5 Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.211.0.VMRTRXM</td><td>15.0</td><td>5.6 GB</td><td>2026-02-04</td><td><a href="/hyperos/marble/stable/OS2.0.211.0.VMRTRXM/">Download</a></td></tr>
 <tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.211.0.VMRTWXM</td><td>15.0</td><td>6.8 GB</td><td>2026-01-24</td><td><a href="/hyperos/marble/stable/OS2.0.211.0.VMRTWXM/">Download</a></td></tr>
 <tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.211.0.VMRTWXM</td><td>15.0</td><td>5.5 GB</td><td>2026-02-04</td><td><a href="/hyperos/marble/stable/OS2.0.211.0.VMRTWXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 Turbo China</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.VMRCNXM</td><td>15.0</td><td>6.4 GB</td><td>2026-01-20</td><td><a href="/hyperos/marble/stable/OS3.0.1.0.VMRCNXM/">Download</a></td></tr>
+<tr><td>POCO F5 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.VMRMIXM</td><td>15.0</td><td>5.8 GB</td><td>2026-03-19</td><td><a href="/hyperos/marble/stable beta/OS3.0.3.0.VMRMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

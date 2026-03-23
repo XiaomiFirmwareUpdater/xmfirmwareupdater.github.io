@@ -239,6 +239,16 @@
     android: '14.0'
     miui: OS1.0.11.0.UNXCNXM
 - branch: stable
+  date: '2026-03-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sheng/releases/download/stable-23.03.2026/fw_sheng_sheng-ota_full-OS3.0.7.0.WNXCNXM-user-16.0-4ff77c1b20.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/sheng/fw_sheng_sheng-ota_full-OS3.0.7.0.WNXCNXM-user-16.0-4ff77c1b20.zip
+  filename: fw_sheng_sheng-ota_full-OS3.0.7.0.WNXCNXM-user-16.0-4ff77c1b20.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.7.0.WNXCNXM
+- branch: stable
   date: '2025-02-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sheng/releases/download/stable-22.02.2025/fw_sheng_sheng-ota_full-OS2.0.104.0.VNXCNXM-user-15.0-0faf4d679b.zip
