@@ -2224,6 +2224,12 @@
   download: https://bigota.d.miui.com/OS2.0.208.0.VOHCNXM/fw_bixi_bixi-ota_full-OS2.0.208.0.VOHCNXM-user-15.0-c9b15648b5.zip
   name: MIX Flip 2
   version: OS2.0.208.0.VOHCNXM
+- android: '16.0'
+  codename: bixi
+  date: '2026-03-23'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WOHCNXM/fw_bixi_bixi-ota_full-OS3.0.301.0.WOHCNXM-user-16.0-1d924bc332.zip
+  name: MIX Flip 2
+  version: OS3.0.301.0.WOHCNXM
 - android: '15.0'
   codename: bixi
   date: '2025-09-22'
@@ -7180,6 +7186,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.TKEINXM/fw_fleur_miui_FLEURINGlobal_OS1.0.2.0.TKEINXM_f8f80a48fb_13.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: OS1.0.2.0.TKEINXM
+- android: '16.0'
+  codename: flourite
+  date: '2026-03-23'
+  download: https://bigota.d.miui.com/OS3.0.2.0.WPREUXM/fw_flourite_flourite_eea_global-ota_full-OS3.0.2.0.WPREUXM-user-16.0-6cf839c1f6.zip
+  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
+  version: OS3.0.2.0.WPREUXM
 - android: '15.0'
   codename: flourite
   date: '2025-08-21'
@@ -8188,6 +8200,18 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UNRCNXM/fw_garnet_miui_GARNET_OS1.0.8.0.UNRCNXM_8338d12c7c_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS1.0.8.0.UNRCNXM
+- android: '16.0'
+  codename: garnet
+  date: '2026-03-23'
+  download: https://bigota.d.miui.com/OS3.0.7.0.WNRCNXM/fw_garnet_garnet-ota_full-OS3.0.7.0.WNRCNXM-user-16.0-095775f71a.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS3.0.7.0.WNRCNXM
+- android: '16.0'
+  codename: garnet
+  date: '2026-03-23'
+  download: https://bigota.d.miui.com/OS3.0.5.0.WNRMIXM/fw_garnet_garnet_global-ota_full-OS3.0.5.0.WNRMIXM-user-16.0-a7e8665dcb.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS3.0.5.0.WNRMIXM
 - android: '14.0'
   codename: garnet
   date: '2024-10-22'
@@ -11122,6 +11146,12 @@
   download: https://bigota.d.miui.com/OS2.0.204.0.VPQCNXM/fw_kunzite_kunzite-ota_full-OS2.0.204.0.VPQCNXM-user-15.0-39520b594a.zip
   name: Redmi Note 15 5G/POCO M8 5G
   version: OS2.0.204.0.VPQCNXM
+- android: '16.0'
+  codename: kunzite
+  date: '2026-03-23'
+  download: https://bigota.d.miui.com/OS3.0.1.0.WPQEUXM/fw_kunzite_kunzite_eea_global-ota_full-OS3.0.1.0.WPQEUXM-user-16.0-b886bf2f87.zip
+  name: Redmi Note 15 5G/POCO M8 5G
+  version: OS3.0.1.0.WPQEUXM
 - android: '15.0'
   codename: kunzite
   date: '2025-08-21'

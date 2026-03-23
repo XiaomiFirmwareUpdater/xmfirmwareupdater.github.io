@@ -29,6 +29,16 @@
     android: '15.0'
     miui: OS2.0.208.0.VOHCNXM
 - branch: stable
+  date: '2026-03-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bixi/releases/download/stable-23.03.2026/fw_bixi_bixi-ota_full-OS3.0.301.0.WOHCNXM-user-16.0-1d924bc332.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/bixi/fw_bixi_bixi-ota_full-OS3.0.301.0.WOHCNXM-user-16.0-1d924bc332.zip
+  filename: fw_bixi_bixi-ota_full-OS3.0.301.0.WOHCNXM-user-16.0-1d924bc332.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.301.0.WOHCNXM
+- branch: stable
   date: '2025-09-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bixi/releases/download/stable-22.09.2025/fw_bixi_bixi-ota_full-OS2.0.212.0.VOHCNXM-user-15.0-b322311bcb.zip
