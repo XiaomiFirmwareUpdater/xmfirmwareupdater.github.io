@@ -24304,6 +24304,12 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VPOINXM/fw_tornado_tornado_in_global-ota_full-OS2.0.203.0.VPOINXM-user-15.0-6375d83ace.zip
   name: Redmi 15C 5G/15R 5G/POCO C85 5G
   version: OS2.0.203.0.VPOINXM
+- android: '16.0'
+  codename: tornado
+  date: '2026-03-24'
+  download: https://bigota.d.miui.com/OS3.0.1.0.WPOINXM/fw_tornado_tornado_in_global-ota_full-OS3.0.1.0.WPOINXM-user-16.0-204b2046fb.zip
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  version: OS3.0.1.0.WPOINXM
 - android: '15.0'
   codename: tornado
   date: '2025-09-23'
