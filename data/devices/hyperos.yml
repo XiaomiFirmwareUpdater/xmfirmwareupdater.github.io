@@ -6222,6 +6222,12 @@
   version: OS1.0.5.0.UFOEUXM
 - android: '16.0'
   codename: emerald
+  date: '2026-03-24'
+  download: https://bigota.d.miui.com/OS3.0.7.0.WFOMIXM/fw_emerald_emerald_r_global-ota_full-OS3.0.7.0.WFOMIXM-user-16.0-8d53274e99.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
+  version: OS3.0.7.0.WFOMIXM
+- android: '16.0'
+  codename: emerald
   date: '2026-02-24'
   download: https://bigota.d.miui.com/OS3.0.1.0.WNFEUXM/fw_emerald_emerald_eea_global-ota_full-OS3.0.1.0.WNFEUXM-user-16.0-a4320b0054.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
@@ -28510,6 +28516,18 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.ULLEUXM/fw_ziyi_miui_ZIYIEEAGlobal_OS1.0.6.0.ULLEUXM_a1eaba7c5e_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.6.0.ULLEUXM
+- android: '15.0'
+  codename: ziyi
+  date: '2026-03-24'
+  download: https://bigota.d.miui.com/OS3.0.3.0.VLLEUXM/fw_ziyi_ziyi_eea_global-ota_full-OS3.0.3.0.VLLEUXM-user-15.0-7c684d0ba9.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS3.0.3.0.VLLEUXM
+- android: '15.0'
+  codename: ziyi
+  date: '2026-03-24'
+  download: https://bigota.d.miui.com/OS3.0.2.0.VLLMIXM/fw_ziyi_ziyi_global-ota_full-OS3.0.2.0.VLLMIXM-user-15.0-b375505990.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS3.0.2.0.VLLMIXM
 - android: '15.0'
   codename: ziyi
   date: '2025-02-24'
