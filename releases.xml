@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 24 Mar 2026 12:48:49 </lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 18:50:05 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS3.0.7.0.WFOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
+            <pubDate>Tue, 24 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K60/POCO F5 Pro (mondrian) - OS3.0.5.0.VMNMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
             <pubDate>Tue, 24 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -714,11 +719,6 @@
         <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS2.0.211.0.VMREUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/marble/</link>
-            <pubDate>Fri, 27 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60/POCO F5 Pro (mondrian) - OS3.0.2.0.VMNMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
             <pubDate>Fri, 27 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>

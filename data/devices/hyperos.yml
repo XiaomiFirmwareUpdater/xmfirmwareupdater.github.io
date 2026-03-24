@@ -13770,6 +13770,12 @@
   version: OS2.0.3.0.VMNEUXM
 - android: '15.0'
   codename: mondrian
+  date: '2026-03-24'
+  download: https://bigota.d.miui.com/OS3.0.5.0.VMNMIXM/fw_mondrian_mondrian_global-ota_full-OS3.0.5.0.VMNMIXM-user-15.0-15a5ad376e.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS3.0.5.0.VMNMIXM
+- android: '15.0'
+  codename: mondrian
   date: '2025-03-24'
   download: https://bigota.d.miui.com/OS2.0.4.0.VMNEUXM/fw_mondrian_eea_global_mondrian_eea_global-ota_full-OS2.0.4.0.VMNEUXM-user-15.0-16379f0f10.zip
   name: Redmi K60/POCO F5 Pro
