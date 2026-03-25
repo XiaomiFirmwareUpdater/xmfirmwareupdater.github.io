@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 25 Mar 2026 12:49:52 </lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 18:49:15 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 15 Pro 5G (lapis) - OS3.0.2.0.WPPMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
+            <pubDate>Wed, 25 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro+ 5G (zircon) - OS3.0.2.0.WNOINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Wed, 25 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1529,11 +1534,6 @@
         <item>
             <title>Redmi K40S/POCO F4 (munch) - OS1.0.12.0.ULMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/munch/</link>
-            <pubDate>Mon, 15 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro+ 5G (zircon) - OS2.0.208.0.VNOINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Mon, 15 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
