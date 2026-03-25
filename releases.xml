@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 25 Mar 2026 06:44:40 </lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 12:49:52 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 15 Pro 5G (lapis) - OS3.0.2.0.WPPMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
+            <pubDate>Wed, 25 Mar 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS3.0.7.0.WFOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
@@ -949,11 +954,6 @@
         <item>
             <title>Xiaomi 14T (degas) - OS3.0.9.0.WNEEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/degas/</link>
-            <pubDate>Mon, 23 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 Pro 5G (lapis) - OS2.0.204.0.VPPMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
             <pubDate>Mon, 23 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
