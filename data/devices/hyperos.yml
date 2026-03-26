@@ -13278,6 +13278,12 @@
   version: OS2.0.202.0.VLTCNXM
 - android: '15.0'
   codename: mayfly
+  date: '2026-03-26'
+  download: https://bigota.d.miui.com/OS3.0.3.0.VLTCNXM/fw_mayfly_mayfly-ota_full-OS3.0.3.0.VLTCNXM-user-15.0-16f6dcd338.zip
+  name: Xiaomi 12S
+  version: OS3.0.3.0.VLTCNXM
+- android: '15.0'
+  codename: mayfly
   date: '2026-01-23'
   download: https://bigota.d.miui.com/OS3.0.2.0.VLTCNXM/fw_mayfly_mayfly-ota_full-OS3.0.2.0.VLTCNXM-user-15.0-f60cbc4ce7.zip
   name: Xiaomi 12S
@@ -16120,6 +16126,12 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VPXINXM/fw_organ_organ_in_global-ota_full-OS2.0.203.0.VPXINXM-user-15.0-bb040590f6.zip
   name: Redmi Pad 2 Pro 5G
   version: OS2.0.203.0.VPXINXM
+- android: '16.0'
+  codename: organ
+  date: '2026-03-26'
+  download: https://bigota.d.miui.com/OS3.0.1.0.WPXCNXM/fw_organ_organ-ota_full-OS3.0.1.0.WPXCNXM-user-16.0-52c20bc12f.zip
+  name: Redmi Pad 2 Pro 5G
+  version: OS3.0.1.0.WPXCNXM
 - android: '15.0'
   codename: organ
   date: '2026-02-26'

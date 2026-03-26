@@ -3769,15 +3769,15 @@
     android: '14.0'
     miui: OS2.0.2.0.ULKCNXM
 - branch: stable
-  date: '2026-01-23'
+  date: '2026-03-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-23.01.2026/fw_mayfly_mayfly-ota_full-OS3.0.2.0.VLTCNXM-user-15.0-f60cbc4ce7.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/mayfly/fw_mayfly_mayfly-ota_full-OS3.0.2.0.VLTCNXM-user-15.0-f60cbc4ce7.zip
-  filename: fw_mayfly_mayfly-ota_full-OS3.0.2.0.VLTCNXM-user-15.0-f60cbc4ce7.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-26.03.2026/fw_mayfly_mayfly-ota_full-OS3.0.3.0.VLTCNXM-user-15.0-16f6dcd338.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/mayfly/fw_mayfly_mayfly-ota_full-OS3.0.3.0.VLTCNXM-user-15.0-16f6dcd338.zip
+  filename: fw_mayfly_mayfly-ota_full-OS3.0.3.0.VLTCNXM-user-15.0-16f6dcd338.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS3.0.2.0.VLTCNXM
+    miui: OS3.0.3.0.VLTCNXM
 - branch: stable
   date: '2022-10-28'
   downloads:
@@ -4588,6 +4588,16 @@
   versions:
     android: '16.0'
     miui: OS3.0.4.0.WPXMIXM
+- branch: stable
+  date: '2026-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_organ/releases/download/stable-26.03.2026/fw_organ_organ-ota_full-OS3.0.1.0.WPXCNXM-user-16.0-52c20bc12f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/organ/fw_organ_organ-ota_full-OS3.0.1.0.WPXCNXM-user-16.0-52c20bc12f.zip
+  filename: fw_organ_organ-ota_full-OS3.0.1.0.WPXCNXM-user-16.0-52c20bc12f.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.1.0.WPXCNXM
 - branch: stable
   date: '2026-03-20'
   downloads:
