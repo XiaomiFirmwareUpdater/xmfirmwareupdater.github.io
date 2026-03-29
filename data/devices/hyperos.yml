@@ -18904,6 +18904,18 @@
   download: https://bigota.d.miui.com/OS2.0.103.0.VOJMIXM/fw_rodin_global_rodin_global-ota_full-OS2.0.103.0.VOJMIXM-user-15.0-21dd0b4bf0.zip
   name: Redmi Turbo 4/POCO X7 Pro
   version: OS2.0.103.0.VOJMIXM
+- android: '16.0'
+  codename: rodin
+  date: '2026-03-26'
+  download: https://bigota.d.miui.com/OS3.0.10.0.WOJMIXM/fw_rodin_rodin_global-ota_full-OS3.0.10.0.WOJMIXM-user-16.0-7ea48324a1.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS3.0.10.0.WOJMIXM
+- android: '16.0'
+  codename: rodin
+  date: '2026-03-26'
+  download: https://bigota.d.miui.com/OS3.0.5.0.WOJINXM/fw_rodin_rodin_in_global-ota_full-OS3.0.5.0.WOJINXM-user-16.0-3b9fdcf40d.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS3.0.5.0.WOJINXM
 - android: '15.0'
   codename: rodin
   date: '2025-02-26'
@@ -27076,6 +27088,12 @@
   download: https://bigota.d.miui.com/OS2.0.204.0.VMICNXM/fw_yuechu_yuechu-ota_full-OS2.0.204.0.VMICNXM-user-15.0-99c5088966.zip
   name: Xiaomi Civi 3
   version: OS2.0.204.0.VMICNXM
+- android: '15.0'
+  codename: yuechu
+  date: '2026-03-26'
+  download: https://bigota.d.miui.com/OS3.0.3.0.VMICNXM/fw_yuechu_yuechu-ota_full-OS3.0.3.0.VMICNXM-user-15.0-38e88bd6e4.zip
+  name: Xiaomi Civi 3
+  version: OS3.0.3.0.VMICNXM
 - android: '15.0'
   codename: yuechu
   date: '2026-01-26'
