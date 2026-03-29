@@ -1339,15 +1339,15 @@
     android: '16.0'
     miui: OS3.0.6.0.WOCMIXM
 - branch: stable
-  date: '2026-02-04'
+  date: '2026-03-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dada/releases/download/stable-04.02.2026/fw_dada_dada-ota_full-OS3.0.7.0.WOCCNXM-user-16.0-232acd7942.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dada/fw_dada_dada-ota_full-OS3.0.7.0.WOCCNXM-user-16.0-232acd7942.zip
-  filename: fw_dada_dada-ota_full-OS3.0.7.0.WOCCNXM-user-16.0-232acd7942.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dada/releases/download/stable-29.03.2026/fw_dada_dada-ota_full-OS3.0.301.0.WOCCNXM-user-16.0-8e2d57b7dc.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dada/fw_dada_dada-ota_full-OS3.0.301.0.WOCCNXM-user-16.0-8e2d57b7dc.zip
+  filename: fw_dada_dada-ota_full-OS3.0.301.0.WOCCNXM-user-16.0-8e2d57b7dc.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.7.0.WOCCNXM
+    miui: OS3.0.301.0.WOCCNXM
 - branch: stable
   date: '2026-03-05'
   downloads:
@@ -1359,15 +1359,15 @@
     android: '16.0'
     miui: OS3.0.9.0.WOCEUXM
 - branch: stable
-  date: '2026-02-04'
+  date: '2026-03-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dada/releases/download/stable-04.02.2026/fw_dada_dada_in_global-ota_full-OS3.0.4.0.WOCINXM-user-16.0-d8ef9d61de.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dada/fw_dada_dada_in_global-ota_full-OS3.0.4.0.WOCINXM-user-16.0-d8ef9d61de.zip
-  filename: fw_dada_dada_in_global-ota_full-OS3.0.4.0.WOCINXM-user-16.0-d8ef9d61de.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dada/releases/download/stable-29.03.2026/fw_dada_dada_in_global-ota_full-OS3.0.5.0.WOCINXM-user-16.0-59ea74b8d3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dada/fw_dada_dada_in_global-ota_full-OS3.0.5.0.WOCINXM-user-16.0-59ea74b8d3.zip
+  filename: fw_dada_dada_in_global-ota_full-OS3.0.5.0.WOCINXM-user-16.0-59ea74b8d3.zip
   region: India
   versions:
     android: '16.0'
-    miui: OS3.0.4.0.WOCINXM
+    miui: OS3.0.5.0.WOCINXM
 - branch: stable
   date: '2025-07-20'
   downloads:
@@ -4099,15 +4099,15 @@
     android: '16.0'
     miui: OS3.0.11.0.WOYCNXM
 - branch: stable
-  date: '2026-02-09'
+  date: '2026-03-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_muyu/releases/download/stable-09.02.2026/fw_muyu_muyu_eea_global-ota_full-OS3.0.5.0.WOYEUXM-user-16.0-48bc6b453e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/muyu/fw_muyu_muyu_eea_global-ota_full-OS3.0.5.0.WOYEUXM-user-16.0-48bc6b453e.zip
-  filename: fw_muyu_muyu_eea_global-ota_full-OS3.0.5.0.WOYEUXM-user-16.0-48bc6b453e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_muyu/releases/download/stable-29.03.2026/fw_muyu_muyu_eea_global-ota_full-OS3.0.6.0.WOYEUXM-user-16.0-2d870d98a1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/muyu/fw_muyu_muyu_eea_global-ota_full-OS3.0.6.0.WOYEUXM-user-16.0-2d870d98a1.zip
+  filename: fw_muyu_muyu_eea_global-ota_full-OS3.0.6.0.WOYEUXM-user-16.0-2d870d98a1.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.5.0.WOYEUXM
+    miui: OS3.0.6.0.WOYEUXM
 - branch: stable
   date: '2026-02-04'
   downloads:
