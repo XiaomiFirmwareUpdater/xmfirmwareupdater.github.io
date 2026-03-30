@@ -16968,6 +16968,18 @@
   version: OS1.0.6.0.UNPEUXM
 - android: '16.0'
   codename: piano
+  date: '2026-03-30'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WPYEUXM/fw_piano_piano_eea_global-ota_full-OS3.0.301.0.WPYEUXM-user-16.0-fdafb4f90f.zip
+  name: Xiaomi Pad 8 Pro
+  version: OS3.0.301.0.WPYEUXM
+- android: '16.0'
+  codename: piano
+  date: '2026-03-30'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WPYMIXM/fw_piano_piano_global-ota_full-OS3.0.301.0.WPYMIXM-user-16.0-862936ad60.zip
+  name: Xiaomi Pad 8 Pro
+  version: OS3.0.301.0.WPYMIXM
+- android: '16.0'
+  codename: piano
   date: '2025-12-29'
   download: https://bigota.d.miui.com/OS3.0.9.0.WPYCNXM/fw_piano_piano-ota_full-OS3.0.9.0.WPYCNXM-user-16.0-d4367a6283.zip
   name: Xiaomi Pad 8 Pro

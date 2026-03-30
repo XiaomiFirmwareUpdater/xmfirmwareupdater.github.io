@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 30 Mar 2026 13:52:20 </lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 19:04:35 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Pad SE 8.7 5G (flare) - OS3.0.2.0.WHXEUXM</title>
@@ -34,6 +34,16 @@
         <item>
             <title>Redmi K90 Pro Max/POCO F8 Ultra (myron) - OS3.0.8.0.WPMEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/myron/</link>
+            <pubDate>Mon, 30 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 8 Pro (piano) - OS3.0.301.0.WPYMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/piano/</link>
+            <pubDate>Mon, 30 Mar 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 8 Pro (piano) - OS3.0.301.0.WPYEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/piano/</link>
             <pubDate>Mon, 30 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -479,16 +489,6 @@
         <item>
             <title>Redmi A3x (klein) - V816.0.2.0.WGSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/klein/</link>
-            <pubDate>Mon, 09 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 8 Pro (piano) - OS3.0.2.0.WPYMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/piano/</link>
-            <pubDate>Mon, 09 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 8 Pro (piano) - OS3.0.5.0.WPYEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/piano/</link>
             <pubDate>Mon, 09 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
