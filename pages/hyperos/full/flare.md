@@ -52,7 +52,8 @@ permalink: /archive/hyperos/flare/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad SE 8.7 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WHXRUXM</td><td>16.0</td><td>4.6 GB</td><td>2026-03-11</td><td><a href="/hyperos/flare/stable/OS3.0.1.0.WHXRUXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad SE 8.7 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.2.0.WHXEUXM</td><td>16.0</td><td>4.7 GB</td><td>2026-03-27</td><td><a href="/hyperos/flare/stable beta/OS3.0.2.0.WHXEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE 8.7 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WHXRUXM</td><td>16.0</td><td>4.6 GB</td><td>2026-03-11</td><td><a href="/hyperos/flare/stable/OS3.0.1.0.WHXRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WHXRUXM</td><td>16.0</td><td>6.4 GB</td><td>2026-02-27</td><td><a href="/hyperos/flare/stable/OS3.0.1.0.WHXRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WHXMIXM</td><td>16.0</td><td>4.7 GB</td><td>2026-03-07</td><td><a href="/hyperos/flare/stable/OS3.0.2.0.WHXMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WHXMIXM</td><td>16.0</td><td>5.9 GB</td><td>2026-02-27</td><td><a href="/hyperos/flare/stable/OS3.0.2.0.WHXMIXM/">Download</a></td></tr>

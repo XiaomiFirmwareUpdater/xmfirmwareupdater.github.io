@@ -61,12 +61,14 @@ permalink: /hyperos/piano/
 <tr><td>Xiaomi Pad 8 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WPYMIXM</td><td>16.0</td><td>6.7 GB</td><td>2026-03-09</td><td><a href="/hyperos/piano/stable/OS3.0.2.0.WPYMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WPYIDXM</td><td>16.0</td><td>7.8 GB</td><td>2025-11-14</td><td><a href="/hyperos/piano/stable/OS3.0.2.0.WPYIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WPYIDXM</td><td>16.0</td><td>6.7 GB</td><td>2026-03-09</td><td><a href="/hyperos/piano/stable/OS3.0.2.0.WPYIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 8 Pro Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WPYIDXM</td><td>16.0</td><td>8.6 GB</td><td>2026-03-30</td><td><a href="/hyperos/piano/stable beta/OS3.0.301.0.WPYIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WPYRUXM</td><td>16.0</td><td>8.6 GB</td><td>2025-11-14</td><td><a href="/hyperos/piano/stable/OS3.0.2.0.WPYRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WPYRUXM</td><td>16.0</td><td>6.5 GB</td><td>2026-03-09</td><td><a href="/hyperos/piano/stable/OS3.0.2.0.WPYRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WPYTRXM</td><td>16.0</td><td>7.9 GB</td><td>2025-11-14</td><td><a href="/hyperos/piano/stable/OS3.0.2.0.WPYTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WPYTRXM</td><td>16.0</td><td>6.7 GB</td><td>2026-03-09</td><td><a href="/hyperos/piano/stable/OS3.0.2.0.WPYTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WPYTWXM</td><td>16.0</td><td>7.5 GB</td><td>2025-11-14</td><td><a href="/hyperos/piano/stable/OS3.0.2.0.WPYTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WPYTWXM</td><td>16.0</td><td>6.5 GB</td><td>2026-03-09</td><td><a href="/hyperos/piano/stable/OS3.0.2.0.WPYTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 8 Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WPYTWXM</td><td>16.0</td><td>8.5 GB</td><td>2026-03-30</td><td><a href="/hyperos/piano/stable beta/OS3.0.301.0.WPYTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

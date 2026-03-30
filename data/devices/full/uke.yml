@@ -39,6 +39,16 @@
     android: '15.0'
     miui: OS2.0.102.0.VOZINXM
 - branch: stable
+  date: '2026-03-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-30.03.2026/fw_uke_uke-ota_full-OS3.0.301.0.WOZCNXM-user-16.0-aa1cc63671.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/uke/fw_uke_uke-ota_full-OS3.0.301.0.WOZCNXM-user-16.0-aa1cc63671.zip
+  filename: fw_uke_uke-ota_full-OS3.0.301.0.WOZCNXM-user-16.0-aa1cc63671.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.301.0.WOZCNXM
+- branch: stable
   date: '2025-12-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-28.12.2025/fw_uke_uke-ota_full-OS3.0.7.0.WOZCNXM-user-16.0-bde7d70ce7.zip
