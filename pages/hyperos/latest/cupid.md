@@ -53,12 +53,10 @@ permalink: /hyperos/cupid/
                 </thead>
                 <tbody>
                 <tr><td>Xiaomi 12 China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>5.7 GB</td><td>2024-01-12</td><td><a href="/hyperos/cupid/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi 12 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.211.0.VLCEUXM</td><td>15.0</td><td>6.7 GB</td><td>2026-01-06</td><td><a href="/hyperos/cupid/stable/OS2.0.211.0.VLCEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.211.0.VLCEUXM</td><td>15.0</td><td>5.7 GB</td><td>2026-01-14</td><td><a href="/hyperos/cupid/stable/OS2.0.211.0.VLCEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.2.0.VLCEUXM</td><td>15.0</td><td>5.8 GB</td><td>2026-03-18</td><td><a href="/hyperos/cupid/stable beta/OS3.0.2.0.VLCEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.209.0.VLCMIXM</td><td>15.0</td><td>6.7 GB</td><td>2026-01-14</td><td><a href="/hyperos/cupid/stable/OS2.0.209.0.VLCMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.209.0.VLCMIXM</td><td>15.0</td><td>5.6 GB</td><td>2026-01-21</td><td><a href="/hyperos/cupid/stable/OS2.0.209.0.VLCMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.VLCMIXM</td><td>15.0</td><td>5.7 GB</td><td>2026-03-18</td><td><a href="/hyperos/cupid/stable beta/OS3.0.3.0.VLCMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.VLCEUXM</td><td>15.0</td><td>6.9 GB</td><td>2026-03-12</td><td><a href="/hyperos/cupid/stable/OS3.0.2.0.VLCEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.VLCEUXM</td><td>15.0</td><td>5.8 GB</td><td>2026-03-18</td><td><a href="/hyperos/cupid/stable/OS3.0.2.0.VLCEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.VLCMIXM</td><td>15.0</td><td>6.9 GB</td><td>2026-03-11</td><td><a href="/hyperos/cupid/stable/OS3.0.3.0.VLCMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.VLCMIXM</td><td>15.0</td><td>5.7 GB</td><td>2026-03-18</td><td><a href="/hyperos/cupid/stable/OS3.0.3.0.VLCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VLCIDXM</td><td>15.0</td><td>6.6 GB</td><td>2025-12-11</td><td><a href="/hyperos/cupid/stable/OS2.0.206.0.VLCIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VLCIDXM</td><td>15.0</td><td>5.5 GB</td><td>2025-12-18</td><td><a href="/hyperos/cupid/stable/OS2.0.206.0.VLCIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VLCRUXM</td><td>15.0</td><td>6.4 GB</td><td>2025-12-10</td><td><a href="/hyperos/cupid/stable/OS2.0.206.0.VLCRUXM/">Download</a></td></tr>

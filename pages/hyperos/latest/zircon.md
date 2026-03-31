@@ -54,9 +54,8 @@ permalink: /hyperos/zircon/
                 <tbody>
                 <tr><td>Redmi Note 13 Pro+ 5G China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WNOCNXM</td><td>16.0</td><td>8.6 GB</td><td>2026-01-19</td><td><a href="/hyperos/zircon/stable/OS3.0.6.0.WNOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro+ 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WNOCNXM</td><td>16.0</td><td>7.0 GB</td><td>2026-02-02</td><td><a href="/hyperos/zircon/stable/OS3.0.6.0.WNOCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro+ 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VNOEUXM</td><td>15.0</td><td>8.7 GB</td><td>2025-11-07</td><td><a href="/hyperos/zircon/stable/OS2.0.206.0.VNOEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro+ 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VNOEUXM</td><td>15.0</td><td>6.3 GB</td><td>2025-12-02</td><td><a href="/hyperos/zircon/stable/OS2.0.206.0.VNOEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 Pro+ 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.5.0.WNOEUXM</td><td>16.0</td><td>6.5 GB</td><td>2026-03-05</td><td><a href="/hyperos/zircon/stable beta/OS3.0.5.0.WNOEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro+ 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WNOEUXM</td><td>16.0</td><td>8.9 GB</td><td>2026-02-03</td><td><a href="/hyperos/zircon/stable/OS3.0.5.0.WNOEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro+ 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WNOEUXM</td><td>16.0</td><td>6.5 GB</td><td>2026-03-05</td><td><a href="/hyperos/zircon/stable/OS3.0.5.0.WNOEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro+ 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.211.0.VNOMIXM</td><td>15.0</td><td>9.2 GB</td><td>2025-12-16</td><td><a href="/hyperos/zircon/stable/OS2.0.211.0.VNOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro+ 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.211.0.VNOMIXM</td><td>15.0</td><td>6.2 GB</td><td>2025-12-23</td><td><a href="/hyperos/zircon/stable/OS2.0.211.0.VNOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Pro+ 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WNOMIXM</td><td>16.0</td><td>6.5 GB</td><td>2026-02-12</td><td><a href="/hyperos/zircon/stable beta/OS3.0.3.0.WNOMIXM/">Download</a></td></tr>

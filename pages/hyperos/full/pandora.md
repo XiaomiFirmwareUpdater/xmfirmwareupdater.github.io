@@ -52,9 +52,9 @@ permalink: /archive/hyperos/pandora/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 17 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.304.0.WBLCNXM</td><td>16.0</td><td>8.7 GB</td><td>2026-03-11</td><td><a href="/hyperos/pandora/stable beta/OS3.0.304.0.WBLCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 17 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.45.0.WBLCNXM</td><td>16.0</td><td>8.6 GB</td><td>2026-02-04</td><td><a href="/hyperos/pandora/stable/OS3.0.45.0.WBLCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 17 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.45.0.WBLCNXM</td><td>16.0</td><td>12.0 GB</td><td>2026-02-03</td><td><a href="/hyperos/pandora/stable/OS3.0.45.0.WBLCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 17 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.305.0.WBLCNXM</td><td>16.0</td><td>8.7 GB</td><td>2026-03-26</td><td><a href="/hyperos/pandora/stable beta/OS3.0.305.0.WBLCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WBLCNXM</td><td>16.0</td><td>8.7 GB</td><td>2026-03-11</td><td><a href="/hyperos/pandora/stable/OS3.0.304.0.WBLCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WBLCNXM</td><td>16.0</td><td>12.4 GB</td><td>2026-03-08</td><td><a href="/hyperos/pandora/stable/OS3.0.304.0.WBLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.41.0.WBLCNXM</td><td>16.0</td><td>8.4 GB</td><td>2026-01-22</td><td><a href="/hyperos/pandora/stable/OS3.0.41.0.WBLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.41.0.WBLCNXM</td><td>16.0</td><td>11.8 GB</td><td>2026-01-15</td><td><a href="/hyperos/pandora/stable/OS3.0.41.0.WBLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.40.0.WBLCNXM</td><td>16.0</td><td>8.5 GB</td><td>2026-01-08</td><td><a href="/hyperos/pandora/stable/OS3.0.40.0.WBLCNXM/">Download</a></td></tr>
@@ -63,6 +63,8 @@ permalink: /archive/hyperos/pandora/
 <tr><td>Xiaomi 17 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.36.0.WBLCNXM</td><td>16.0</td><td>11.6 GB</td><td>2025-12-15</td><td><a href="/hyperos/pandora/stable/OS3.0.36.0.WBLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.34.0.WBLCNXM</td><td>16.0</td><td>8.3 GB</td><td>2025-12-06</td><td><a href="/hyperos/pandora/stable/OS3.0.34.0.WBLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.34.0.WBLCNXM</td><td>16.0</td><td>11.6 GB</td><td>2025-12-04</td><td><a href="/hyperos/pandora/stable/OS3.0.34.0.WBLCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.45.0.WBLCNXM</td><td>16.0</td><td>8.6 GB</td><td>2026-02-04</td><td><a href="/hyperos/pandora/stable/OS3.0.45.0.WBLCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.45.0.WBLCNXM</td><td>16.0</td><td>12.0 GB</td><td>2026-02-03</td><td><a href="/hyperos/pandora/stable/OS3.0.45.0.WBLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.30.0.WBLCNXM</td><td>16.0</td><td>8.2 GB</td><td>2025-11-04</td><td><a href="/hyperos/pandora/stable/OS3.0.30.0.WBLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.30.0.WBLCNXM</td><td>16.0</td><td>11.7 GB</td><td>2025-10-31</td><td><a href="/hyperos/pandora/stable/OS3.0.30.0.WBLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.25.0.WBLCNXM</td><td>16.0</td><td>8.2 GB</td><td>2025-10-24</td><td><a href="/hyperos/pandora/stable/OS3.0.25.0.WBLCNXM/">Download</a></td></tr>
