@@ -10860,6 +10860,12 @@
   version: OS1.0.9.0.UMAEUXM
 - android: '16.0'
   codename: jinghu
+  date: '2026-03-31'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WOXCNXM/fw_jinghu_jinghu-ota_full-OS3.0.301.0.WOXCNXM-user-16.0-0bb4bdec09.zip
+  name: Xiaomi Pad 7 Ultra
+  version: OS3.0.301.0.WOXCNXM
+- android: '16.0'
+  codename: jinghu
   date: '2025-10-28'
   download: https://bigota.d.miui.com/OS3.0.4.0.WOXCNXM/fw_jinghu_jinghu-ota_full-OS3.0.4.0.WOXCNXM-user-16.0-b8dd5aa8e4.zip
   name: Xiaomi Pad 7 Ultra
@@ -19282,6 +19288,12 @@
   download: https://bigota.d.miui.com/OS1.0.13.0.UNNEUXM/fw_rothko_miui_ROTHKOEEAGlobal_OS1.0.13.0.UNNEUXM_0d3d9ecfb6_14.0.zip
   name: Redmi K70 Ultra/Xiaomi 14T Pro
   version: OS1.0.13.0.UNNEUXM
+- android: '16.0'
+  codename: rothko
+  date: '2026-03-31'
+  download: https://bigota.d.miui.com/OS3.0.7.0.WNNEUXM/fw_rothko_rothko_eea_global-ota_full-OS3.0.7.0.WNNEUXM-user-16.0-802e394147.zip
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
+  version: OS3.0.7.0.WNNEUXM
 - android: '14.0'
   codename: rothko
   date: '2024-09-30'
