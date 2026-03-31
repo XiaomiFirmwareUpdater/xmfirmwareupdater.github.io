@@ -2518,6 +2518,12 @@
   download: https://bigota.d.miui.com/OS2.0.105.0.VNJINXM/fw_chenfeng_in_global_chenfeng_in_global-ota_full-OS2.0.105.0.VNJINXM-user-15.0-175c349483.zip
   name: Xiaomi Civi 4 Pro
   version: OS2.0.105.0.VNJINXM
+- android: '16.0'
+  codename: chenfeng
+  date: '2026-03-31'
+  download: https://bigota.d.miui.com/OS3.0.7.0.WNJCNXM/fw_chenfeng_chenfeng-ota_full-OS3.0.7.0.WNJCNXM-user-16.0-1294a04e6b.zip
+  name: Xiaomi Civi 4 Pro
+  version: OS3.0.7.0.WNJCNXM
 - android: '15.0'
   codename: chenfeng
   date: '2025-10-30'
@@ -11044,6 +11050,18 @@
   download: https://bigota.d.miui.com/OS2.0.204.0.VOWMIXM/fw_koto_koto_global-ota_full-OS2.0.204.0.VOWMIXM-user-15.0-f6bb6199a9.zip
   name: Redmi Pad 2 4G
   version: OS2.0.204.0.VOWMIXM
+- android: '16.0'
+  codename: koto
+  date: '2026-03-31'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WOWEUXM/fw_koto_koto_eea_global-ota_full-OS3.0.4.0.WOWEUXM-user-16.0-f65a6d2ee7.zip
+  name: Redmi Pad 2 4G
+  version: OS3.0.4.0.WOWEUXM
+- android: '16.0'
+  codename: koto
+  date: '2026-03-31'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WOWMIXM/fw_koto_koto_global-ota_full-OS3.0.4.0.WOWMIXM-user-16.0-6197ffc5b3.zip
+  name: Redmi Pad 2 4G
+  version: OS3.0.4.0.WOWMIXM
 - android: '15.0'
   codename: koto
   date: '2025-12-29'
@@ -12768,6 +12786,18 @@
   version: OS2.0.203.0.VMRMIXM
 - android: '15.0'
   codename: marble
+  date: '2026-03-31'
+  download: https://bigota.d.miui.com/OS3.0.2.0.VMREUXM/fw_marble_marble_eea_global-ota_full-OS3.0.2.0.VMREUXM-user-15.0-a25d4d0bed.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS3.0.2.0.VMREUXM
+- android: '15.0'
+  codename: marble
+  date: '2026-03-31'
+  download: https://bigota.d.miui.com/OS3.0.1.0.VMRINXM/fw_marble_marble_in_global-ota_full-OS3.0.1.0.VMRINXM-user-15.0-ad38ef40ea.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS3.0.1.0.VMRINXM
+- android: '15.0'
+  codename: marble
   date: '2025-03-31'
   download: https://bigota.d.miui.com/OS2.0.5.0.VMRCNXM/fw_marble_marble-ota_full-OS2.0.5.0.VMRCNXM-user-15.0-360119838b.zip
   name: Redmi Note 12 Turbo/POCO F5
@@ -13714,6 +13744,12 @@
   download: https://bigota.d.miui.com/OS2.0.8.0.VMNMIXM/fw_mondrian_global_mondrian_global-ota_full-OS2.0.8.0.VMNMIXM-user-15.0-7e814a7624.zip
   name: Redmi K60/POCO F5 Pro
   version: OS2.0.8.0.VMNMIXM
+- android: '15.0'
+  codename: mondrian
+  date: '2026-03-31'
+  download: https://bigota.d.miui.com/OS3.0.2.0.VMNEUXM/fw_mondrian_mondrian_eea_global-ota_full-OS3.0.2.0.VMNEUXM-user-15.0-4e1d494925.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS3.0.2.0.VMNEUXM
 - android: '15.0'
   codename: mondrian
   date: '2025-12-30'
@@ -26092,6 +26128,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UKDINXM/fw_vili_miui_VILIINGlobal_OS1.0.10.0.UKDINXM_6c4b650ae1_14.0.zip
   name: Xiaomi 11T Pro
   version: OS1.0.10.0.UKDINXM
+- android: '16.0'
+  codename: violin
+  date: '2026-03-31'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WOTCNXM/fw_violin_violin-ota_full-OS3.0.302.0.WOTCNXM-user-16.0-979a341f65.zip
+  name: Xiaomi Pad 7S Pro 12.5
+  version: OS3.0.302.0.WOTCNXM
 - android: '16.0'
   codename: violin
   date: '2025-10-28'

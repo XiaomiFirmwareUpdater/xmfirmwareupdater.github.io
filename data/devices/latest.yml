@@ -979,15 +979,15 @@
     android: '15.0'
     miui: OS2.0.207.0.VPFEUXM
 - branch: stable
-  date: '2026-02-07'
+  date: '2026-03-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-07.02.2026/fw_chenfeng_chenfeng-ota_full-OS3.0.6.0.WNJCNXM-user-16.0-bb71a14e81.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chenfeng/fw_chenfeng_chenfeng-ota_full-OS3.0.6.0.WNJCNXM-user-16.0-bb71a14e81.zip
-  filename: fw_chenfeng_chenfeng-ota_full-OS3.0.6.0.WNJCNXM-user-16.0-bb71a14e81.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-31.03.2026/fw_chenfeng_chenfeng-ota_full-OS3.0.7.0.WNJCNXM-user-16.0-1294a04e6b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chenfeng/fw_chenfeng_chenfeng-ota_full-OS3.0.7.0.WNJCNXM-user-16.0-1294a04e6b.zip
+  filename: fw_chenfeng_chenfeng-ota_full-OS3.0.7.0.WNJCNXM-user-16.0-1294a04e6b.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.6.0.WNJCNXM
+    miui: OS3.0.7.0.WNJCNXM
 - branch: stable
   date: '2026-02-25'
   downloads:
@@ -3039,25 +3039,25 @@
     android: '16.0'
     miui: OS3.0.13.0.WOSEUXM
 - branch: stable
-  date: '2026-01-07'
+  date: '2026-03-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_koto/releases/download/stable-07.01.2026/fw_koto_koto_global-ota_full-OS3.0.3.0.WOWMIXM-user-16.0-e7bba82fcd.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/koto/fw_koto_koto_global-ota_full-OS3.0.3.0.WOWMIXM-user-16.0-e7bba82fcd.zip
-  filename: fw_koto_koto_global-ota_full-OS3.0.3.0.WOWMIXM-user-16.0-e7bba82fcd.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_koto/releases/download/stable-31.03.2026/fw_koto_koto_global-ota_full-OS3.0.4.0.WOWMIXM-user-16.0-6197ffc5b3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/koto/fw_koto_koto_global-ota_full-OS3.0.4.0.WOWMIXM-user-16.0-6197ffc5b3.zip
+  filename: fw_koto_koto_global-ota_full-OS3.0.4.0.WOWMIXM-user-16.0-6197ffc5b3.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.3.0.WOWMIXM
+    miui: OS3.0.4.0.WOWMIXM
 - branch: stable
-  date: '2026-01-08'
+  date: '2026-03-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_koto/releases/download/stable-08.01.2026/fw_koto_koto_eea_global-ota_full-OS3.0.3.0.WOWEUXM-user-16.0-f83e3e8d3c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/koto/fw_koto_koto_eea_global-ota_full-OS3.0.3.0.WOWEUXM-user-16.0-f83e3e8d3c.zip
-  filename: fw_koto_koto_eea_global-ota_full-OS3.0.3.0.WOWEUXM-user-16.0-f83e3e8d3c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_koto/releases/download/stable-31.03.2026/fw_koto_koto_eea_global-ota_full-OS3.0.4.0.WOWEUXM-user-16.0-f65a6d2ee7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/koto/fw_koto_koto_eea_global-ota_full-OS3.0.4.0.WOWEUXM-user-16.0-f65a6d2ee7.zip
+  filename: fw_koto_koto_eea_global-ota_full-OS3.0.4.0.WOWEUXM-user-16.0-f65a6d2ee7.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.3.0.WOWEUXM
+    miui: OS3.0.4.0.WOWEUXM
 - branch: stable
   date: '2026-03-12'
   downloads:
@@ -3709,25 +3709,25 @@
     android: '15.0'
     miui: OS3.0.1.0.VMRCNXM
 - branch: stable
-  date: '2026-02-27'
+  date: '2026-03-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-27.02.2026/fw_marble_marble_eea_global-ota_full-OS2.0.211.0.VMREUXM-user-15.0-9d15f87f87.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/marble/fw_marble_marble_eea_global-ota_full-OS2.0.211.0.VMREUXM-user-15.0-9d15f87f87.zip
-  filename: fw_marble_marble_eea_global-ota_full-OS2.0.211.0.VMREUXM-user-15.0-9d15f87f87.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-31.03.2026/fw_marble_marble_eea_global-ota_full-OS3.0.2.0.VMREUXM-user-15.0-a25d4d0bed.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/marble/fw_marble_marble_eea_global-ota_full-OS3.0.2.0.VMREUXM-user-15.0-a25d4d0bed.zip
+  filename: fw_marble_marble_eea_global-ota_full-OS3.0.2.0.VMREUXM-user-15.0-a25d4d0bed.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.211.0.VMREUXM
+    miui: OS3.0.2.0.VMREUXM
 - branch: stable
-  date: '2026-02-26'
+  date: '2026-03-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-26.02.2026/fw_marble_marble_in_global-ota_full-OS2.0.208.0.VMRINXM-user-15.0-efe0c05067.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/marble/fw_marble_marble_in_global-ota_full-OS2.0.208.0.VMRINXM-user-15.0-efe0c05067.zip
-  filename: fw_marble_marble_in_global-ota_full-OS2.0.208.0.VMRINXM-user-15.0-efe0c05067.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-31.03.2026/fw_marble_marble_in_global-ota_full-OS3.0.1.0.VMRINXM-user-15.0-ad38ef40ea.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/marble/fw_marble_marble_in_global-ota_full-OS3.0.1.0.VMRINXM-user-15.0-ad38ef40ea.zip
+  filename: fw_marble_marble_in_global-ota_full-OS3.0.1.0.VMRINXM-user-15.0-ad38ef40ea.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.208.0.VMRINXM
+    miui: OS3.0.1.0.VMRINXM
 - branch: stable
   date: '2019-05-20'
   downloads:
@@ -3959,15 +3959,15 @@
     android: '15.0'
     miui: OS3.0.5.0.VMNCNXM
 - branch: stable
-  date: '2026-01-07'
+  date: '2026-03-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-07.01.2026/fw_mondrian_mondrian_eea_global-ota_full-OS2.0.209.0.VMNEUXM-user-15.0-233cd9a7c0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/mondrian/fw_mondrian_mondrian_eea_global-ota_full-OS2.0.209.0.VMNEUXM-user-15.0-233cd9a7c0.zip
-  filename: fw_mondrian_mondrian_eea_global-ota_full-OS2.0.209.0.VMNEUXM-user-15.0-233cd9a7c0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-31.03.2026/fw_mondrian_mondrian_eea_global-ota_full-OS3.0.2.0.VMNEUXM-user-15.0-4e1d494925.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/mondrian/fw_mondrian_mondrian_eea_global-ota_full-OS3.0.2.0.VMNEUXM-user-15.0-4e1d494925.zip
+  filename: fw_mondrian_mondrian_eea_global-ota_full-OS3.0.2.0.VMNEUXM-user-15.0-4e1d494925.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.209.0.VMNEUXM
+    miui: OS3.0.2.0.VMNEUXM
 - branch: stable
   date: '2022-11-17'
   downloads:
@@ -7209,15 +7209,15 @@
     android: '10.0'
     miui: V12.5.1.0.QFHINXM
 - branch: stable
-  date: '2026-02-10'
+  date: '2026-03-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violin/releases/download/stable-10.02.2026/fw_violin_violin-ota_full-OS3.0.10.0.WOTCNXM-user-16.0-786c3a0c26.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/violin/fw_violin_violin-ota_full-OS3.0.10.0.WOTCNXM-user-16.0-786c3a0c26.zip
-  filename: fw_violin_violin-ota_full-OS3.0.10.0.WOTCNXM-user-16.0-786c3a0c26.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violin/releases/download/stable-31.03.2026/fw_violin_violin-ota_full-OS3.0.302.0.WOTCNXM-user-16.0-979a341f65.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/violin/fw_violin_violin-ota_full-OS3.0.302.0.WOTCNXM-user-16.0-979a341f65.zip
+  filename: fw_violin_violin-ota_full-OS3.0.302.0.WOTCNXM-user-16.0-979a341f65.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.10.0.WOTCNXM
+    miui: OS3.0.302.0.WOTCNXM
 - branch: stable
   date: '2024-09-02'
   downloads:

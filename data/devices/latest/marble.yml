@@ -19,22 +19,22 @@
     android: '15.0'
     miui: OS3.0.1.0.VMRCNXM
 - branch: stable
-  date: '2026-02-27'
+  date: '2026-03-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-27.02.2026/fw_marble_marble_eea_global-ota_full-OS2.0.211.0.VMREUXM-user-15.0-9d15f87f87.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/marble/fw_marble_marble_eea_global-ota_full-OS2.0.211.0.VMREUXM-user-15.0-9d15f87f87.zip
-  filename: fw_marble_marble_eea_global-ota_full-OS2.0.211.0.VMREUXM-user-15.0-9d15f87f87.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-31.03.2026/fw_marble_marble_eea_global-ota_full-OS3.0.2.0.VMREUXM-user-15.0-a25d4d0bed.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/marble/fw_marble_marble_eea_global-ota_full-OS3.0.2.0.VMREUXM-user-15.0-a25d4d0bed.zip
+  filename: fw_marble_marble_eea_global-ota_full-OS3.0.2.0.VMREUXM-user-15.0-a25d4d0bed.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.211.0.VMREUXM
+    miui: OS3.0.2.0.VMREUXM
 - branch: stable
-  date: '2026-02-26'
+  date: '2026-03-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-26.02.2026/fw_marble_marble_in_global-ota_full-OS2.0.208.0.VMRINXM-user-15.0-efe0c05067.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/marble/fw_marble_marble_in_global-ota_full-OS2.0.208.0.VMRINXM-user-15.0-efe0c05067.zip
-  filename: fw_marble_marble_in_global-ota_full-OS2.0.208.0.VMRINXM-user-15.0-efe0c05067.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-31.03.2026/fw_marble_marble_in_global-ota_full-OS3.0.1.0.VMRINXM-user-15.0-ad38ef40ea.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/marble/fw_marble_marble_in_global-ota_full-OS3.0.1.0.VMRINXM-user-15.0-ad38ef40ea.zip
+  filename: fw_marble_marble_in_global-ota_full-OS3.0.1.0.VMRINXM-user-15.0-ad38ef40ea.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.208.0.VMRINXM
+    miui: OS3.0.1.0.VMRINXM
