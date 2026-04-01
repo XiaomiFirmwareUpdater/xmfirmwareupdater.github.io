@@ -52,8 +52,8 @@ permalink: /archive/miui/mido/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 4 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.NCFCNXM</td><td>7.0</td><td>1.9 GB</td><td>2019-11-25</td><td><a href="/miui/mido/stable/V11.0.2.0.NCFCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 4 China</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.NCFCNXM</td><td>7.0</td><td>1.7 GB</td><td>2019-11-25</td><td><a href="/miui/mido/stable/V11.0.2.0.NCFCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 4 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.NCFCNXM</td><td>7.0</td><td>2.0 GB</td><td>2019-11-25</td><td><a href="/miui/mido/stable/V11.0.2.0.NCFCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 4 China</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.NCFCNXM</td><td>7.0</td><td>1.6 GB</td><td>2019-11-15</td><td><a href="/miui/mido/stable/V11.0.2.0.NCFCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 4 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.NCFMIXM</td><td>7.0</td><td>1.9 GB</td><td>2019-11-19</td><td><a href="/miui/mido/stable/V11.0.2.0.NCFMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 4 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.NCFMIXM</td><td>7.0</td><td>1.7 GB</td><td>2019-11-19</td><td><a href="/miui/mido/stable/V11.0.2.0.NCFMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 4 China</td><td>Weekly</td><td>Recovery</td><td>9.10.10</td><td>7.0</td><td>1.7 GB</td><td>2019-10-10</td><td><a href="/miui/mido/weekly/9.10.10/">Download</a></td></tr>

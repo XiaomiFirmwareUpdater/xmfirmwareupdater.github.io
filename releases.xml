@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 01 Apr 2026 07:13:42 </lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 12:50:54 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.7.0.WOQINXM</title>
@@ -24,6 +24,11 @@
         <item>
             <title>Redmi Pad SE 8.7 4G (spark) - OS3.0.2.0.WHYINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spark/</link>
+            <pubDate>Wed, 01 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS2.0.209.0.VOUMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/spring/</link>
             <pubDate>Wed, 01 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -409,11 +414,6 @@
         <item>
             <title>Redmi Note 15 4G (spinel) - OS2.0.212.0.VPGMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spinel/</link>
-            <pubDate>Fri, 20 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) - OS3.0.3.0.WOUMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/spring/</link>
             <pubDate>Fri, 20 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
