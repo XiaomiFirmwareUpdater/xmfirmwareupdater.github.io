@@ -329,6 +329,16 @@
     android: '7.0'
     miui: 8.9.13
 - branch: stable
+  date: '2026-04-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_arctic/releases/download/stable-01.04.2026/fw_arctic_arctic_global-ota_full-OS3.0.5.0.WBVMIXM-user-16.0-07a935ce66.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/arctic/fw_arctic_arctic_global-ota_full-OS3.0.5.0.WBVMIXM-user-16.0-07a935ce66.zip
+  filename: fw_arctic_arctic_global-ota_full-OS3.0.5.0.WBVMIXM-user-16.0-07a935ce66.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.5.0.WBVMIXM
+- branch: stable
   date: '2024-03-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-12.03.2024/fw_ares_miui_ARES_OS1.0.2.0.TKJCNXM_09a01a89e6_13.0.zip
@@ -5969,15 +5979,15 @@
     android: '13.0'
     miui: V14.0.2.0.TKUCNXM
 - branch: stable
-  date: '2026-02-27'
+  date: '2026-04-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_serenity/releases/download/stable-27.02.2026/fw_serenity_miui_SERENITYGlobal_A15.0.20.0.VGWMIXM_f4b27dfe7a_15.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/A15/serenity/fw_serenity_miui_SERENITYGlobal_A15.0.20.0.VGWMIXM_f4b27dfe7a_15.0.zip
-  filename: fw_serenity_miui_SERENITYGlobal_A15.0.20.0.VGWMIXM_f4b27dfe7a_15.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_serenity/releases/download/stable-01.04.2026/fw_serenity_miui_SERENITYGlobal_A15.0.22.0.VGWMIXM_8e43b363a7_15.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/A15/serenity/fw_serenity_miui_SERENITYGlobal_A15.0.22.0.VGWMIXM_8e43b363a7_15.0.zip
+  filename: fw_serenity_miui_SERENITYGlobal_A15.0.22.0.VGWMIXM_8e43b363a7_15.0.zip
   region: Global
   versions:
     android: '15.0'
-    miui: A15.0.20.0.VGWMIXM
+    miui: A15.0.22.0.VGWMIXM
 - branch: stable
   date: '2026-03-31'
   downloads:
