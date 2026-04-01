@@ -53,7 +53,7 @@ permalink: /hyperos/haotian/
                 </thead>
                 <tbody>
                 <tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.7.0.WOBCNXM</td><td>16.0</td><td>11.8 GB</td><td>2026-01-13</td><td><a href="/hyperos/haotian/stable/OS3.0.7.0.WOBCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.7.0.WOBCNXM</td><td>16.0</td><td>8.5 GB</td><td>2026-01-20</td><td><a href="/hyperos/haotian/stable/OS3.0.7.0.WOBCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WOBCNXM</td><td>16.0</td><td>8.5 GB</td><td>2026-03-18</td><td><a href="/hyperos/haotian/stable/OS3.0.301.0.WOBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.104.0.VOBCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-01-21</td><td><a href="/hyperos/haotian/stable beta/OS2.0.104.0.VOBCNXM/">Download</a></td></tr>
 
                 </tbody>
