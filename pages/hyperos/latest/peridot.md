@@ -52,9 +52,9 @@ permalink: /hyperos/peridot/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.7.0.WNPCNXM</td><td>16.0</td><td>8.8 GB</td><td>2026-01-25</td><td><a href="/hyperos/peridot/stable/OS3.0.7.0.WNPCNXM/">Download</a></td></tr>
-<tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.7.0.WNPCNXM</td><td>16.0</td><td>7.0 GB</td><td>2026-01-30</td><td><a href="/hyperos/peridot/stable/OS3.0.7.0.WNPCNXM/">Download</a></td></tr>
-<tr><td>Redmi Turbo 3 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.9.0.WNPCNXM</td><td>16.0</td><td>7.0 GB</td><td>2026-03-24</td><td><a href="/hyperos/peridot/stable beta/OS3.0.9.0.WNPCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.9.0.WNPCNXM</td><td>16.0</td><td>8.8 GB</td><td>2026-03-17</td><td><a href="/hyperos/peridot/stable/OS3.0.9.0.WNPCNXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.9.0.WNPCNXM</td><td>16.0</td><td>7.0 GB</td><td>2026-03-24</td><td><a href="/hyperos/peridot/stable/OS3.0.9.0.WNPCNXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 3 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UNPCNXM</td><td>14.0</td><td>6.5 GB</td><td>2024-04-17</td><td><a href="/hyperos/peridot/stable beta/OS1.0.2.0.UNPCNXM/">Download</a></td></tr>
 <tr><td>POCO F6 EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VNPEUXM</td><td>15.0</td><td>8.4 GB</td><td>2025-10-31</td><td><a href="/hyperos/peridot/stable/OS2.0.207.0.VNPEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VNPEUXM</td><td>15.0</td><td>6.1 GB</td><td>2025-11-24</td><td><a href="/hyperos/peridot/stable/OS2.0.207.0.VNPEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.5.0.WNPEUXM</td><td>16.0</td><td>6.3 GB</td><td>2026-03-24</td><td><a href="/hyperos/peridot/stable beta/OS3.0.5.0.WNPEUXM/">Download</a></td></tr>

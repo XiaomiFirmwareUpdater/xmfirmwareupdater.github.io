@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 02 Apr 2026 06:48:51 </lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 13:13:47 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.208.0.VGQCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/air/</link>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro 4G (obsidian) - OS3.0.5.0.WOFMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS3.0.4.0.WNNMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi A7 Pro/POCO C81 Pro (arctic) - OS3.0.5.0.WBVMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/arctic/</link>
@@ -862,11 +877,6 @@
             <pubDate>Sat, 28 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 14 Pro 4G (obsidian) - OS2.0.213.0.VOFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
-            <pubDate>Sat, 28 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - OS3.0.6.0.WOLMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
             <pubDate>Sat, 28 Feb 2026 00:00:00 </pubDate>
@@ -1307,11 +1317,6 @@
             <pubDate>Wed, 04 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.207.0.VGQCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/air/</link>
-            <pubDate>Wed, 04 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.205.0.VGQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
             <pubDate>Wed, 04 Feb 2026 00:00:00 </pubDate>
@@ -1449,11 +1454,6 @@
         <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS2.0.208.0.VNQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gold/</link>
-            <pubDate>Thu, 08 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS3.0.1.0.WNNMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
             <pubDate>Thu, 08 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>

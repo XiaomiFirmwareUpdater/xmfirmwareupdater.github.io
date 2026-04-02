@@ -579,6 +579,16 @@
     android: '13.0'
     miui: V14.0.4.0.TGQMIXM
 - branch: stable
+  date: '2026-04-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-02.04.2026/fw_air_air-ota_full-OS2.0.208.0.VGQCNXM-user-15.0-bc40b6836d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/air/fw_air_air-ota_full-OS2.0.208.0.VGQCNXM-user-15.0-bc40b6836d.zip
+  filename: fw_air_air-ota_full-OS2.0.208.0.VGQCNXM-user-15.0-bc40b6836d.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS2.0.208.0.VGQCNXM
+- branch: stable
   date: '2026-03-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-02.03.2026/fw_air_air_eea_global-ota_full-OS2.0.209.0.VGQEUXM-user-15.0-ec756a7a03.zip

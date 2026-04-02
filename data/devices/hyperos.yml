@@ -438,6 +438,12 @@
   version: OS2.0.1.0.VGQEUXM
 - android: '15.0'
   codename: air
+  date: '2026-04-02'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VGQCNXM/fw_air_air-ota_full-OS2.0.208.0.VGQCNXM-user-15.0-bc40b6836d.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS2.0.208.0.VGQCNXM
+- android: '15.0'
+  codename: air
   date: '2026-03-02'
   download: https://bigota.d.miui.com/OS2.0.209.0.VGQEUXM/fw_air_air_eea_global-ota_full-OS2.0.209.0.VGQEUXM-user-15.0-ec756a7a03.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
@@ -15964,6 +15970,12 @@
   download: https://bigota.d.miui.com/OS2.0.212.0.VOFMIXM/fw_obsidian_obsidian_global-ota_full-OS2.0.212.0.VOFMIXM-user-15.0-96fbd9ba40.zip
   name: Redmi Note 14 Pro 4G
   version: OS2.0.212.0.VOFMIXM
+- android: '16.0'
+  codename: obsidian
+  date: '2026-04-02'
+  download: https://bigota.d.miui.com/OS3.0.5.0.WOFMIXM/fw_obsidian_obsidian_global-ota_full-OS3.0.5.0.WOFMIXM-user-16.0-e27f6225f3.zip
+  name: Redmi Note 14 Pro 4G
+  version: OS3.0.5.0.WOFMIXM
 - android: '15.0'
   codename: obsidian
   date: '2026-02-28'
@@ -19648,6 +19660,12 @@
   download: https://bigota.d.miui.com/OS1.0.19.0.UNNCNXM/fw_rothko_miui_ROTHKO_OS1.0.19.0.UNNCNXM_68d5ad910e_14.0.zip
   name: Redmi K70 Ultra/Xiaomi 14T Pro
   version: OS1.0.19.0.UNNCNXM
+- android: '16.0'
+  codename: rothko
+  date: '2026-04-02'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WNNMIXM/fw_rothko_rothko_global-ota_full-OS3.0.4.0.WNNMIXM-user-16.0-2f88b32cbc.zip
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
+  version: OS3.0.4.0.WNNMIXM
 - android: '15.0'
   codename: rothko
   date: '2025-03-01'

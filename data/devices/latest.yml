@@ -29,15 +29,15 @@
     android: '15.0'
     miui: OS2.0.205.0.VGQMIXM
 - branch: stable
-  date: '2026-02-04'
+  date: '2026-04-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-04.02.2026/fw_air_air-ota_full-OS2.0.207.0.VGQCNXM-user-15.0-4b3ac4159f.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/air/fw_air_air-ota_full-OS2.0.207.0.VGQCNXM-user-15.0-4b3ac4159f.zip
-  filename: fw_air_air-ota_full-OS2.0.207.0.VGQCNXM-user-15.0-4b3ac4159f.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_air/releases/download/stable-02.04.2026/fw_air_air-ota_full-OS2.0.208.0.VGQCNXM-user-15.0-bc40b6836d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/air/fw_air_air-ota_full-OS2.0.208.0.VGQCNXM-user-15.0-bc40b6836d.zip
+  filename: fw_air_air-ota_full-OS2.0.208.0.VGQCNXM-user-15.0-bc40b6836d.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS2.0.207.0.VGQCNXM
+    miui: OS2.0.208.0.VGQCNXM
 - branch: stable
   date: '2026-03-02'
   downloads:
@@ -4349,15 +4349,15 @@
     android: '16.0'
     miui: OS3.0.2.0.WMBINXM
 - branch: stable
-  date: '2026-02-28'
+  date: '2026-04-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_obsidian/releases/download/stable-01.03.2026/fw_obsidian_obsidian_global-ota_full-OS2.0.213.0.VOFMIXM-user-15.0-9d9313f732.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/obsidian/fw_obsidian_obsidian_global-ota_full-OS2.0.213.0.VOFMIXM-user-15.0-9d9313f732.zip
-  filename: fw_obsidian_obsidian_global-ota_full-OS2.0.213.0.VOFMIXM-user-15.0-9d9313f732.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_obsidian/releases/download/stable-02.04.2026/fw_obsidian_obsidian_global-ota_full-OS3.0.5.0.WOFMIXM-user-16.0-e27f6225f3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/obsidian/fw_obsidian_obsidian_global-ota_full-OS3.0.5.0.WOFMIXM-user-16.0-e27f6225f3.zip
+  filename: fw_obsidian_obsidian_global-ota_full-OS3.0.5.0.WOFMIXM-user-16.0-e27f6225f3.zip
   region: Global
   versions:
-    android: '15.0'
-    miui: OS2.0.213.0.VOFMIXM
+    android: '16.0'
+    miui: OS3.0.5.0.WOFMIXM
 - branch: stable
   date: '2026-02-26'
   downloads:
@@ -5589,15 +5589,15 @@
     android: '8.1'
     miui: 9.10.10
 - branch: stable
-  date: '2026-01-08'
+  date: '2026-04-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-08.01.2026/fw_rothko_rothko_global-ota_full-OS3.0.1.0.WNNMIXM-user-16.0-e730709f5d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rothko/fw_rothko_rothko_global-ota_full-OS3.0.1.0.WNNMIXM-user-16.0-e730709f5d.zip
-  filename: fw_rothko_rothko_global-ota_full-OS3.0.1.0.WNNMIXM-user-16.0-e730709f5d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-02.04.2026/fw_rothko_rothko_global-ota_full-OS3.0.4.0.WNNMIXM-user-16.0-2f88b32cbc.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rothko/fw_rothko_rothko_global-ota_full-OS3.0.4.0.WNNMIXM-user-16.0-2f88b32cbc.zip
+  filename: fw_rothko_rothko_global-ota_full-OS3.0.4.0.WNNMIXM-user-16.0-2f88b32cbc.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.1.0.WNNMIXM
+    miui: OS3.0.4.0.WNNMIXM
 - branch: stable
   date: '2025-12-27'
   downloads:
