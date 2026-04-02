@@ -4097,6 +4097,12 @@
   name: Redmi K80 Ultra
   version: OS2.0.215.0.VONCNXM
 - android: '16.0'
+  codename: dali
+  date: '2026-04-02'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WONCNXM/fw_dali_dali-ota_full-OS3.0.301.0.WONCNXM-user-16.0-6a71af98ec.zip
+  name: Redmi K80 Ultra
+  version: OS3.0.301.0.WONCNXM
+- android: '16.0'
   codename: dash
   date: '2026-02-22'
   download: https://bigota.d.miui.com/OS3.0.8.0.WPLCNXM/fw_dash_dash-ota_full-OS3.0.8.0.WPLCNXM-user-16.0-7a58ec4edc.zip

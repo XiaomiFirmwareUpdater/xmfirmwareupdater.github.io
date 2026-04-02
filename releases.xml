@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 02 Apr 2026 19:03:05 </lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 00:54:02 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.208.0.VGQCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K80 Ultra (dali) - OS3.0.301.0.WONCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dali/</link>
             <pubDate>Thu, 02 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -949,11 +954,6 @@
         <item>
             <title>Xiaomi 13T (aristotle) - OS2.0.214.0.VMFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
-            <pubDate>Thu, 26 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K80 Ultra (dali) - OS3.0.9.0.WONCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dali/</link>
             <pubDate>Thu, 26 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
