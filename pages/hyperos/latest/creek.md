@@ -64,8 +64,10 @@ permalink: /hyperos/creek/
 <tr><td>Redmi 15 / POCO M7 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WBORUXM</td><td>16.0</td><td>4.9 GB</td><td>2026-02-10</td><td><a href="/hyperos/creek/stable/OS3.0.2.0.WBORUXM/">Download</a></td></tr>
 <tr><td>Redmi 15 / POCO M7 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WBOTRXM</td><td>16.0</td><td>7.3 GB</td><td>2026-01-15</td><td><a href="/hyperos/creek/stable/OS3.0.1.0.WBOTRXM/">Download</a></td></tr>
 <tr><td>Redmi 15 / POCO M7 Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WBOTRXM</td><td>16.0</td><td>5.0 GB</td><td>2026-01-21</td><td><a href="/hyperos/creek/stable/OS3.0.1.0.WBOTRXM/">Download</a></td></tr>
+<tr><td>Redmi 15 / POCO M7 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.2.0.WBOTRXM</td><td>16.0</td><td>5.0 GB</td><td>2026-03-30</td><td><a href="/hyperos/creek/stable beta/OS3.0.2.0.WBOTRXM/">Download</a></td></tr>
 <tr><td>Redmi 15 / POCO M7 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WBOTWXM</td><td>16.0</td><td>6.0 GB</td><td>2026-01-15</td><td><a href="/hyperos/creek/stable/OS3.0.1.0.WBOTWXM/">Download</a></td></tr>
 <tr><td>Redmi 15 / POCO M7 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WBOTWXM</td><td>16.0</td><td>4.9 GB</td><td>2026-01-23</td><td><a href="/hyperos/creek/stable/OS3.0.1.0.WBOTWXM/">Download</a></td></tr>
+<tr><td>Redmi 15 / POCO M7 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.2.0.WBOTWXM</td><td>16.0</td><td>4.9 GB</td><td>2026-03-30</td><td><a href="/hyperos/creek/stable beta/OS3.0.2.0.WBOTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
