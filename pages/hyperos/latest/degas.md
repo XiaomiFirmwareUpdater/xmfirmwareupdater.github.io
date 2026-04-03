@@ -66,6 +66,7 @@ permalink: /hyperos/degas/
 <tr><td>Xiaomi 14T Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VNETRXM</td><td>15.0</td><td>6.2 GB</td><td>2025-12-25</td><td><a href="/hyperos/degas/stable/OS2.0.207.0.VNETRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VNETWXM</td><td>15.0</td><td>7.2 GB</td><td>2025-12-18</td><td><a href="/hyperos/degas/stable/OS2.0.207.0.VNETWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VNETWXM</td><td>15.0</td><td>6.1 GB</td><td>2025-12-25</td><td><a href="/hyperos/degas/stable/OS2.0.207.0.VNETWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.4.0.WNETWXM</td><td>16.0</td><td>6.4 GB</td><td>2026-03-31</td><td><a href="/hyperos/degas/stable beta/OS3.0.4.0.WNETWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WNERUXM</td><td>16.0</td><td>8.8 GB</td><td>2026-02-01</td><td><a href="/hyperos/degas/stable/OS3.0.2.0.WNERUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WNERUXM</td><td>16.0</td><td>6.4 GB</td><td>2026-02-06</td><td><a href="/hyperos/degas/stable/OS3.0.2.0.WNERUXM/">Download</a></td></tr>
 

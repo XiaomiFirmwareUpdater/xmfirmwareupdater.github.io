@@ -1809,15 +1809,15 @@
     android: '16.0'
     miui: OS3.0.7.0.WFOMIXM
 - branch: stable
-  date: '2026-02-28'
+  date: '2026-04-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-28.02.2026/fw_emerald_emerald_r_eea_global-ota_full-OS3.0.1.0.WFOEUXM-user-16.0-c70f79c8d6.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/emerald/fw_emerald_emerald_r_eea_global-ota_full-OS3.0.1.0.WFOEUXM-user-16.0-c70f79c8d6.zip
-  filename: fw_emerald_emerald_r_eea_global-ota_full-OS3.0.1.0.WFOEUXM-user-16.0-c70f79c8d6.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-03.04.2026/fw_emerald_emerald_eea_global-ota_full-OS3.0.2.0.WNFEUXM-user-16.0-2078516d37.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/emerald/fw_emerald_emerald_eea_global-ota_full-OS3.0.2.0.WNFEUXM-user-16.0-2078516d37.zip
+  filename: fw_emerald_emerald_eea_global-ota_full-OS3.0.2.0.WNFEUXM-user-16.0-2078516d37.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.1.0.WFOEUXM
+    miui: OS3.0.2.0.WNFEUXM
 - branch: stable
   date: '2024-05-20'
   downloads:
@@ -4359,15 +4359,15 @@
     android: '16.0'
     miui: OS3.0.5.0.WOFMIXM
 - branch: stable
-  date: '2026-02-26'
+  date: '2026-04-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_obsidian/releases/download/stable-27.02.2026/fw_obsidian_obsidian_eea_global-ota_full-OS2.0.215.0.VOFEUXM-user-15.0-d852a50731.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/obsidian/fw_obsidian_obsidian_eea_global-ota_full-OS2.0.215.0.VOFEUXM-user-15.0-d852a50731.zip
-  filename: fw_obsidian_obsidian_eea_global-ota_full-OS2.0.215.0.VOFEUXM-user-15.0-d852a50731.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_obsidian/releases/download/stable-03.04.2026/fw_obsidian_obsidian_eea_global-ota_full-OS3.0.3.0.WOFEUXM-user-16.0-4d277d0325.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/obsidian/fw_obsidian_obsidian_eea_global-ota_full-OS3.0.3.0.WOFEUXM-user-16.0-4d277d0325.zip
+  filename: fw_obsidian_obsidian_eea_global-ota_full-OS3.0.3.0.WOFEUXM-user-16.0-4d277d0325.zip
   region: Europe
   versions:
-    android: '15.0'
-    miui: OS2.0.215.0.VOFEUXM
+    android: '16.0'
+    miui: OS3.0.3.0.WOFEUXM
 - branch: stable
   date: '2024-08-21'
   downloads:

@@ -6514,6 +6514,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VFOEUXM/fw_emerald_r_eea_global_emerald_r_eea_global-ota_full-OS2.0.202.0.VFOEUXM-user-15.0-22ec84bb9e.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS2.0.202.0.VFOEUXM
+- android: '16.0'
+  codename: emerald
+  date: '2026-04-03'
+  download: https://bigota.d.miui.com/OS3.0.2.0.WNFEUXM/fw_emerald_emerald_eea_global-ota_full-OS3.0.2.0.WNFEUXM-user-16.0-2078516d37.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
+  version: OS3.0.2.0.WNFEUXM
 - android: '15.0'
   codename: emerald
   date: '2025-04-01'
@@ -16000,6 +16006,12 @@
   download: https://bigota.d.miui.com/OS2.0.212.0.VOFMIXM/fw_obsidian_obsidian_global-ota_full-OS2.0.212.0.VOFMIXM-user-15.0-96fbd9ba40.zip
   name: Redmi Note 14 Pro 4G
   version: OS2.0.212.0.VOFMIXM
+- android: '16.0'
+  codename: obsidian
+  date: '2026-04-03'
+  download: https://bigota.d.miui.com/OS3.0.3.0.WOFEUXM/fw_obsidian_obsidian_eea_global-ota_full-OS3.0.3.0.WOFEUXM-user-16.0-4d277d0325.zip
+  name: Redmi Note 14 Pro 4G
+  version: OS3.0.3.0.WOFEUXM
 - android: '16.0'
   codename: obsidian
   date: '2026-04-02'

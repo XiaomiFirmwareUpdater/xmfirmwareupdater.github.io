@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 03 Apr 2026 06:59:23 </lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 12:55:05 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi A7 Pro/POCO C81 Pro (arctic) - OS3.0.6.0.WBVMIXM</title>
@@ -12,8 +12,18 @@
             <pubDate>Fri, 03 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS3.0.2.0.WNFEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
+            <pubDate>Fri, 03 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS3.0.301.0.WPWCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flute/</link>
+            <pubDate>Fri, 03 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro 4G (obsidian) - OS3.0.3.0.WOFEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
             <pubDate>Fri, 03 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -857,11 +867,6 @@
             <pubDate>Sat, 28 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS3.0.1.0.WFOEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
-            <pubDate>Sat, 28 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS3.0.5.0.WGUINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flame/</link>
             <pubDate>Sat, 28 Feb 2026 00:00:00 </pubDate>
@@ -974,11 +979,6 @@
         <item>
             <title>Xiaomi 15T (goya) - OS3.0.10.0.WOEEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/goya/</link>
-            <pubDate>Thu, 26 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 Pro 4G (obsidian) - OS2.0.215.0.VOFEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
             <pubDate>Thu, 26 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
