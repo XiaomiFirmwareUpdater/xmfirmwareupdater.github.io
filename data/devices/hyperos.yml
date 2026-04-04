@@ -11332,6 +11332,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VPQINXM/fw_kunzite_kunzite_in_global-ota_full-OS2.0.202.0.VPQINXM-user-15.0-759b4a4ee6.zip
   name: Redmi Note 15 5G/POCO M8 5G
   version: OS2.0.202.0.VPQINXM
+- android: '16.0'
+  codename: kunzite
+  date: '2026-04-04'
+  download: https://bigota.d.miui.com/OS3.0.1.0.WPQINXM/fw_kunzite_kunzite_in_global-ota_full-OS3.0.1.0.WPQINXM-user-16.0-22d625c2f4.zip
+  name: Redmi Note 15 5G/POCO M8 5G
+  version: OS3.0.1.0.WPQINXM
 - android: '15.0'
   codename: kunzite
   date: '2026-03-02'

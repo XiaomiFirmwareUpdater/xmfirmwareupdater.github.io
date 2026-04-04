@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 04 Apr 2026 12:43:10 </lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 18:46:57 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 15 5G/POCO M8 5G (kunzite) - OS3.0.1.0.WPQINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
+            <pubDate>Sat, 04 Apr 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi A7 Pro/POCO C81 Pro (arctic) - OS3.0.6.0.WBVMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/arctic/</link>
@@ -878,11 +883,6 @@
         </item>
         <item>
             <title>Redmi Note 15 5G/POCO M8 5G (kunzite) - OS3.0.4.0.WPQCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
-            <pubDate>Sat, 28 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 5G/POCO M8 5G (kunzite) - OS2.0.206.0.VPQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
             <pubDate>Sat, 28 Feb 2026 00:00:00 </pubDate>
         </item>
