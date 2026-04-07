@@ -52,7 +52,9 @@ permalink: /archive/hyperos/uke/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 7 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WOZCNXM</td><td>16.0</td><td>8.7 GB</td><td>2026-03-26</td><td><a href="/hyperos/uke/stable beta/OS3.0.301.0.WOZCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 7 / POCO Pad X1 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.9.0.WOZMIXM</td><td>16.0</td><td>6.4 GB</td><td>2026-04-03</td><td><a href="/hyperos/uke/stable beta/OS3.0.9.0.WOZMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 / POCO Pad X1 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WOZEUXM</td><td>16.0</td><td>6.4 GB</td><td>2026-04-03</td><td><a href="/hyperos/uke/stable beta/OS3.0.3.0.WOZEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WOZCNXM</td><td>16.0</td><td>8.7 GB</td><td>2026-03-26</td><td><a href="/hyperos/uke/stable beta/OS3.0.301.0.WOZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 / POCO Pad X1 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WOZIDXM</td><td>16.0</td><td>6.4 GB</td><td>2026-02-05</td><td><a href="/hyperos/uke/stable/OS3.0.2.0.WOZIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 / POCO Pad X1 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WOZIDXM</td><td>16.0</td><td>7.7 GB</td><td>2026-01-26</td><td><a href="/hyperos/uke/stable/OS3.0.2.0.WOZIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 / POCO Pad X1 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WOZRUXM</td><td>16.0</td><td>6.3 GB</td><td>2026-02-04</td><td><a href="/hyperos/uke/stable/OS3.0.2.0.WOZRUXM/">Download</a></td></tr>

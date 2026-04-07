@@ -3,7 +3,7 @@ title: Redmi Note 13 Pro 5G / POCO X6 5G Indonesia HyperOS OS3.0.3.0.WNRIDXM Upd
 layout: download
 name: Redmi Note 13 Pro 5G / POCO X6 5G Indonesia
 codename: garnet
-permalink: /hyperos/garnet/stable beta/OS3.0.3.0.WNRIDXM/
+permalink: /hyperos/garnet/stable/OS3.0.3.0.WNRIDXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/garnet/stable beta/OS3.0.3.0.WNRIDXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.3.0.WNRIDXM Stable Beta Official Update for Redmi Note 13 Pro 5G / POCO X6 5G Indonesia (garnet)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.3.0.WNRIDXM Stable Official Update for Redmi Note 13 Pro 5G / POCO X6 5G Indonesia (garnet)</h3>
     <h5>This page shows the OS3.0.3.0.WNRIDXM update only. If you're looking for other updates check
         <a href="/hyperos/garnet/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/garnet/stable beta/OS3.0.3.0.WNRIDXM/
                     <h5><b>Version: </b>OS3.0.3.0.WNRIDXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/garnet/stable beta/OS3.0.3.0.WNRIDXM/
                             aria-expanded="false" aria-controls="garnet_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="garnet_1_changelog">
+                        <p id="changelog_text">[System]<br>Optimization: System stability<br>Fix: Errors occurred in some cases</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi Note 13 Pro 5G / POCO X6 5G Indonesia</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/garnet/" target="_blank">garnet</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS3.0.3.0.WNRIDXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>8.3 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2026-03-19</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">garnet_id_global_images_OS3.0.3.0.WNRIDXM_20260319.0000.00_16.0_id_24a3506b2c.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">24a3506b2c89e7010654dc3ebc5b4371</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.3.0.WNRIDXM/garnet_id_global_images_OS3.0.3.0.WNRIDXM_20260319.0000.00_16.0_id_24a3506b2c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.3.0.WNRIDXM/garnet_id_global_images_OS3.0.3.0.WNRIDXM_20260319.0000.00_16.0_id_24a3506b2c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.3.0.WNRIDXM/garnet_id_global_images_OS3.0.3.0.WNRIDXM_20260319.0000.00_16.0_id_24a3506b2c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.3.0.WNRIDXM/garnet_id_global_images_OS3.0.3.0.WNRIDXM_20260319.0000.00_16.0_id_24a3506b2c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.3.0.WNRIDXM/garnet_id_global_images_OS3.0.3.0.WNRIDXM_20260319.0000.00_16.0_id_24a3506b2c.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#garnet_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="garnet_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="garnet_2_changelog">
                         <p id="changelog_text">[System]<br>Optimization: System stability<br>Fix: Errors occurred in some cases</p>
                     </div>
                 </li>

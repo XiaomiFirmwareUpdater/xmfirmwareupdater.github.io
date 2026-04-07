@@ -390,6 +390,18 @@
   version: OS2.0.204.0.VGQCNXM
 - android: '15.0'
   codename: air
+  date: '2026-04-07'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VGQMIXM/fw_air_air_global-ota_full-OS2.0.206.0.VGQMIXM-user-15.0-681c731b34.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS2.0.206.0.VGQMIXM
+- android: '15.0'
+  codename: air
+  date: '2026-04-07'
+  download: https://bigota.d.miui.com/OS2.0.206.0.VGQINXM/fw_air_air_in_global-ota_full-OS2.0.206.0.VGQINXM-user-15.0-557ff95c1d.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS2.0.206.0.VGQINXM
+- android: '15.0'
+  codename: air
   date: '2026-01-07'
   download: https://bigota.d.miui.com/OS2.0.207.0.VGQEUXM/fw_air_air_eea_global-ota_full-OS2.0.207.0.VGQEUXM-user-15.0-d19383db38.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
@@ -5302,6 +5314,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VNSCNXM/fw_dizi_dizi-ota_full-OS2.0.202.0.VNSCNXM-user-15.0-96205b9f1c.zip
   name: Redmi Pad Pro/POCO Pad
   version: OS2.0.202.0.VNSCNXM
+- android: '16.0'
+  codename: dizi
+  date: '2026-04-07'
+  download: https://bigota.d.miui.com/OS3.0.1.0.WNSEUXM/fw_dizi_dizi_eea_global-ota_full-OS3.0.1.0.WNSEUXM-user-16.0-bb10d6bb38.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS3.0.1.0.WNSEUXM
 - android: '14.0'
   codename: dizi
   date: '2024-11-06'
@@ -11608,6 +11626,12 @@
   download: https://bigota.d.miui.com/OS3.0.7.0.WPPCNXM/fw_lapis_lapis-ota_full-OS3.0.7.0.WPPCNXM-user-16.0-0b3f2acdbb.zip
   name: Redmi Note 15 Pro 5G
   version: OS3.0.7.0.WPPCNXM
+- android: '16.0'
+  codename: lapis
+  date: '2026-04-07'
+  download: https://bigota.d.miui.com/OS3.0.2.0.WPPINXM/fw_lapis_lapis_in_global-ota_full-OS3.0.2.0.WPPINXM-user-16.0-2d3367a50e.zip
+  name: Redmi Note 15 Pro 5G
+  version: OS3.0.2.0.WPPINXM
 - android: '15.0'
   codename: lapis
   date: '2025-12-03'
@@ -15106,6 +15130,12 @@
   download: https://bigota.d.miui.com/OS3.0.5.0.WOYEUXM/fw_muyu_muyu_eea_global-ota_full-OS3.0.5.0.WOYEUXM-user-16.0-48bc6b453e.zip
   name: Xiaomi Pad 7 Pro
   version: OS3.0.5.0.WOYEUXM
+- android: '16.0'
+  codename: muyu
+  date: '2026-04-07'
+  download: https://bigota.d.miui.com/OS3.0.8.0.WOYMIXM/fw_muyu_muyu_global-ota_full-OS3.0.8.0.WOYMIXM-user-16.0-26ed434981.zip
+  name: Xiaomi Pad 7 Pro
+  version: OS3.0.8.0.WOYMIXM
 - android: '15.0'
   codename: muyu
   date: '2024-11-05'
@@ -21336,6 +21366,12 @@
   version: OS1.0.2.0.UNHMIXM
 - android: '15.0'
   codename: sapphiren
+  date: '2026-04-07'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VNHMIXM/fw_sapphiren_sapphiren_global-ota_full-OS2.0.209.0.VNHMIXM-user-15.0-64b57cc462.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.209.0.VNHMIXM
+- android: '15.0'
+  codename: sapphiren
   date: '2025-04-07'
   download: https://bigota.d.miui.com/OS2.0.6.0.VNHEUXM/fw_sapphiren_eea_global_sapphiren_eea_global-ota_full-OS2.0.6.0.VNHEUXM-user-15.0-45fcc6748b.zip
   name: Redmi Note 13 NFC
@@ -24706,6 +24742,12 @@
   download: https://bigota.d.miui.com/OS3.0.1.0.WPOCNXM/fw_tornado_tornado-ota_full-OS3.0.1.0.WPOCNXM-user-16.0-ab891cbcfa.zip
   name: Redmi 15C 5G/15R 5G/POCO C85 5G
   version: OS3.0.1.0.WPOCNXM
+- android: '16.0'
+  codename: tornado
+  date: '2026-04-07'
+  download: https://bigota.d.miui.com/OS3.0.2.0.WPOINXM/fw_tornado_tornado_in_global-ota_full-OS3.0.2.0.WPOINXM-user-16.0-6a26a8fd42.zip
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  version: OS3.0.2.0.WPOINXM
 - android: '15.0'
   codename: tornado
   date: '2025-12-01'
@@ -24988,6 +25030,18 @@
   download: https://bigota.d.miui.com/OS2.0.106.0.VOZCNXM/fw_uke_uke-ota_full-OS2.0.106.0.VOZCNXM-user-15.0-7faa631b48.zip
   name: Xiaomi Pad 7/POCO Pad X1
   version: OS2.0.106.0.VOZCNXM
+- android: '16.0'
+  codename: uke
+  date: '2026-04-07'
+  download: https://bigota.d.miui.com/OS3.0.3.0.WOZEUXM/fw_uke_uke_eea_global-ota_full-OS3.0.3.0.WOZEUXM-user-16.0-ae594cd65d.zip
+  name: Xiaomi Pad 7/POCO Pad X1
+  version: OS3.0.3.0.WOZEUXM
+- android: '16.0'
+  codename: uke
+  date: '2026-04-07'
+  download: https://bigota.d.miui.com/OS3.0.9.0.WOZMIXM/fw_uke_uke_global-ota_full-OS3.0.9.0.WOZMIXM-user-16.0-c8d359e22e.zip
+  name: Xiaomi Pad 7/POCO Pad X1
+  version: OS3.0.9.0.WOZMIXM
 - android: '15.0'
   codename: uke
   date: '2024-11-05'
@@ -27358,6 +27412,12 @@
   download: https://bigota.d.miui.com/OS1.0.16.0.UMHCNXM/fw_yudi_miui_YUDI_OS1.0.16.0.UMHCNXM_1fdd0e6d55_14.0.zip
   name: Xiaomi Pad 6 Max 14
   version: OS1.0.16.0.UMHCNXM
+- android: '15.0'
+  codename: yudi
+  date: '2026-04-07'
+  download: https://bigota.d.miui.com/OS3.0.4.0.VMHCNXM/fw_yudi_yudi-ota_full-OS3.0.4.0.VMHCNXM-user-15.0-f11a9f8346.zip
+  name: Xiaomi Pad 6 Max 14
+  version: OS3.0.4.0.VMHCNXM
 - android: '15.0'
   codename: yudi
   date: '2025-04-07'
