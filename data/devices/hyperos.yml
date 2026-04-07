@@ -11106,6 +11106,12 @@
   version: OS3.0.10.0.WOSEUXM
 - android: '16.0'
   codename: klimt
+  date: '2026-04-07'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WOSEUXM/fw_klimt_klimt_eea_global-ota_full-OS3.0.302.0.WOSEUXM-user-16.0-899111536b.zip
+  name: Xiaomi 15T Pro
+  version: OS3.0.302.0.WOSEUXM
+- android: '16.0'
+  codename: klimt
   date: '2026-01-07'
   download: https://bigota.d.miui.com/OS3.0.8.0.WOSMIXM/fw_klimt_klimt_global-ota_full-OS3.0.8.0.WOSMIXM-user-16.0-5f8ab86133.zip
   name: Xiaomi 15T Pro

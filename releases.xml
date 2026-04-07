@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 07 Apr 2026 13:28:42 </lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 18:50:50 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.206.0.VGQMIXM</title>
@@ -19,6 +19,11 @@
         <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.1.0.WNSEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
+            <pubDate>Tue, 07 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15T Pro (klimt) - OS3.0.302.0.WOSEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
             <pubDate>Tue, 07 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1013,11 +1018,6 @@
         </item>
         <item>
             <title>Xiaomi 15T Pro (klimt) - OS3.0.11.0.WOSMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
-            <pubDate>Fri, 27 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15T Pro (klimt) - OS3.0.13.0.WOSEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
             <pubDate>Fri, 27 Feb 2026 00:00:00 </pubDate>
         </item>
