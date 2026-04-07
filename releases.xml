@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 07 Apr 2026 07:59:24 </lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 13:28:42 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.206.0.VGQMIXM</title>
@@ -32,8 +32,28 @@
             <pubDate>Tue, 07 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS3.0.6.0.WNNCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
+            <pubDate>Tue, 07 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 13 NFC (sapphiren) - OS2.0.209.0.VNHMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
+            <pubDate>Tue, 07 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS3.0.6.0.WNXMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
+            <pubDate>Tue, 07 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS3.0.3.0.WNXEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
+            <pubDate>Tue, 07 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad 2 (taiko) - OS3.0.5.0.WOVCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
             <pubDate>Tue, 07 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -49,6 +69,11 @@
         <item>
             <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS3.0.3.0.WOZEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/uke/</link>
+            <pubDate>Tue, 07 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.5.0.WNKEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Tue, 07 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1252,11 +1277,6 @@
             <pubDate>Mon, 09 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS3.0.2.0.WNXEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
-            <pubDate>Mon, 09 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad 2 (taiko) - OS3.0.1.0.WOVINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
             <pubDate>Mon, 09 Feb 2026 00:00:00 </pubDate>
@@ -1302,11 +1322,6 @@
             <pubDate>Thu, 05 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS3.0.5.0.WNXMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12 Lite (taoyao) - OS1.0.32.0.ULIMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taoyao/</link>
             <pubDate>Thu, 05 Feb 2026 00:00:00 </pubDate>
@@ -1314,11 +1329,6 @@
         <item>
             <title>Xiaomi 12 Lite (taoyao) - OS1.0.37.0.ULIEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taoyao/</link>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.3.0.WNKEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Thu, 05 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1482,11 +1492,6 @@
             <pubDate>Sun, 04 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad 2 (taiko) - OS3.0.3.0.WOVCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
-            <pubDate>Sun, 04 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 14 4G (tanzanite) - OS2.0.212.0.VOGEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tanzanite/</link>
             <pubDate>Thu, 01 Jan 2026 00:00:00 </pubDate>
@@ -1509,11 +1514,6 @@
         <item>
             <title>Mi 11 Lite 5G (renoir) - V14.0.16.0.TKICNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/renoir/</link>
-            <pubDate>Sat, 27 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS3.0.5.0.WNNCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
             <pubDate>Sat, 27 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>

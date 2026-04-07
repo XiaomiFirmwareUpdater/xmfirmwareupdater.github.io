@@ -19690,6 +19690,12 @@
   download: https://bigota.d.miui.com/OS2.0.206.0.VNNCNXM/fw_rothko_rothko-ota_full-OS2.0.206.0.VNNCNXM-user-15.0-429ff410a9.zip
   name: Redmi K70 Ultra/Xiaomi 14T Pro
   version: OS2.0.206.0.VNNCNXM
+- android: '16.0'
+  codename: rothko
+  date: '2026-04-07'
+  download: https://bigota.d.miui.com/OS3.0.6.0.WNNCNXM/fw_rothko_rothko-ota_full-OS3.0.6.0.WNNCNXM-user-16.0-5ef94f90e6.zip
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
+  version: OS3.0.6.0.WNNCNXM
 - android: '15.0'
   codename: rothko
   date: '2025-04-07'
@@ -21934,6 +21940,18 @@
   download: https://bigota.d.miui.com/OS3.0.2.0.WNXEUXM/fw_sheng_sheng_eea_global-ota_full-OS3.0.2.0.WNXEUXM-user-16.0-aef63706ee.zip
   name: Xiaomi Pad 6S Pro 12.4
   version: OS3.0.2.0.WNXEUXM
+- android: '16.0'
+  codename: sheng
+  date: '2026-04-07'
+  download: https://bigota.d.miui.com/OS3.0.3.0.WNXEUXM/fw_sheng_sheng_eea_global-ota_full-OS3.0.3.0.WNXEUXM-user-16.0-9b6f1ddbbc.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS3.0.3.0.WNXEUXM
+- android: '16.0'
+  codename: sheng
+  date: '2026-04-07'
+  download: https://bigota.d.miui.com/OS3.0.6.0.WNXMIXM/fw_sheng_sheng_global-ota_full-OS3.0.6.0.WNXMIXM-user-16.0-4e690517b1.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS3.0.6.0.WNXMIXM
 - android: '15.0'
   codename: sheng
   date: '2024-12-06'
@@ -23716,6 +23734,12 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VOVINXM/fw_taiko_in_global_taiko_in_global-ota_full-OS2.0.203.0.VOVINXM-user-15.0-c9a6d66667.zip
   name: Redmi Pad 2
   version: OS2.0.203.0.VOVINXM
+- android: '16.0'
+  codename: taiko
+  date: '2026-04-07'
+  download: https://bigota.d.miui.com/OS3.0.5.0.WOVCNXM/fw_taiko_taiko-ota_full-OS3.0.5.0.WOVCNXM-user-16.0-fd4d18662e.zip
+  name: Redmi Pad 2
+  version: OS3.0.5.0.WOVCNXM
 - android: '15.0'
   codename: taiko
   date: '2025-08-06'
@@ -25774,6 +25798,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.UNKMIXM/fw_vermeer_miui_VERMEERGlobal_OS1.0.2.0.UNKMIXM_65fd61fc62_14.0.zip
   name: Redmi K70/POCO F6 Pro
   version: OS1.0.2.0.UNKMIXM
+- android: '16.0'
+  codename: vermeer
+  date: '2026-04-07'
+  download: https://bigota.d.miui.com/OS3.0.5.0.WNKEUXM/fw_vermeer_vermeer_eea_global-ota_full-OS3.0.5.0.WNKEUXM-user-16.0-1fa582880d.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS3.0.5.0.WNKEUXM
 - android: '15.0'
   codename: vermeer
   date: '2025-04-07'
