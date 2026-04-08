@@ -15402,6 +15402,12 @@
   version: OS3.0.303.0.WPACNXM
 - android: '16.0'
   codename: nezha
+  date: '2026-04-08'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WPAEUXM/fw_nezha_nezha_eea_global-ota_full-OS3.0.301.0.WPAEUXM-user-16.0-38ac0016a0.zip
+  name: Xiaomi 17 Ultra
+  version: OS3.0.301.0.WPAEUXM
+- android: '16.0'
+  codename: nezha
   date: '2026-02-28'
   download: https://bigota.d.miui.com/OS3.0.11.0.WPAEUXM/fw_nezha_nezha_eea_global-ota_full-OS3.0.11.0.WPAEUXM-user-16.0-53b3876b3c.zip
   name: Xiaomi 17 Ultra
@@ -29596,6 +29602,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VOKCNXM/fw_zorn_zorn-ota_full-OS2.0.202.0.VOKCNXM-user-15.0-463de5580d.zip
   name: Redmi K80/POCO F7 Pro
   version: OS2.0.202.0.VOKCNXM
+- android: '16.0'
+  codename: zorn
+  date: '2026-04-08'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WOKCNXM/fw_zorn_zorn-ota_full-OS3.0.302.0.WOKCNXM-user-16.0-5518fb7844.zip
+  name: Redmi K80/POCO F7 Pro
+  version: OS3.0.302.0.WOKCNXM
 - android: '15.0'
   codename: zorn
   date: '2025-08-06'
