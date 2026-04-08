@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 08 Apr 2026 12:40:50 </lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 18:49:05 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K40S/POCO F4 (munch) - OS1.0.15.0.ULMCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/munch/</link>
+            <pubDate>Wed, 08 Apr 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 17 Ultra (nezha) - OS3.0.301.0.WPAEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nezha/</link>
@@ -1544,11 +1549,6 @@
         <item>
             <title>POCO X5 5G (moonstone) - OS1.0.22.0.UMPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moonstone/</link>
-            <pubDate>Mon, 15 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K40S/POCO F4 (munch) - OS1.0.12.0.ULMCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/munch/</link>
             <pubDate>Mon, 15 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
