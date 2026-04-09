@@ -7320,6 +7320,12 @@
   version: OS2.0.205.0.VPRCNXM
 - android: '16.0'
   codename: flourite
+  date: '2026-04-09'
+  download: https://bigota.d.miui.com/OS3.0.1.0.WPRMIXM/fw_flourite_flourite_global-ota_full-OS3.0.1.0.WPRMIXM-user-16.0-7f5aefe2f8.zip
+  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
+  version: OS3.0.1.0.WPRMIXM
+- android: '16.0'
+  codename: flourite
   date: '2026-02-09'
   download: https://bigota.d.miui.com/OS3.0.6.0.WPRCNXM/fw_flourite_flourite-ota_full-OS3.0.6.0.WPRCNXM-user-16.0-a185e1c48a.zip
   name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
@@ -13720,6 +13726,12 @@
   download: https://bigota.d.miui.com/OS2.0.201.0.VOMCNXM/fw_miro_miro-ota_full-OS2.0.201.0.VOMCNXM-user-15.0-6a22ad7d2a.zip
   name: Redmi K80 Pro/POCO F7 Ultra
   version: OS2.0.201.0.VOMCNXM
+- android: '16.0'
+  codename: miro
+  date: '2026-04-09'
+  download: https://bigota.d.miui.com/OS3.0.7.0.WOMEUXM/fw_miro_miro_eea_global-ota_full-OS3.0.7.0.WOMEUXM-user-16.0-80f6e0ae8a.zip
+  name: Redmi K80 Pro/POCO F7 Ultra
+  version: OS3.0.7.0.WOMEUXM
 - android: '16.0'
   codename: miro
   date: '2026-01-09'
