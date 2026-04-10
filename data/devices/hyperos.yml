@@ -9396,6 +9396,12 @@
   version: OS3.0.5.0.WOEMIXM
 - android: '16.0'
   codename: goya
+  date: '2026-04-10'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WOEEUXM/fw_goya_goya_eea_global-ota_full-OS3.0.302.0.WOEEUXM-user-16.0-1f223d086d.zip
+  name: Xiaomi 15T
+  version: OS3.0.302.0.WOEEUXM
+- android: '16.0'
+  codename: goya
   date: '2026-01-10'
   download: https://bigota.d.miui.com/OS3.0.8.0.WOEEUXM/fw_goya_goya_eea_global-ota_full-OS3.0.8.0.WOEEUXM-user-16.0-07e793288b.zip
   name: Xiaomi 15T
@@ -15418,6 +15424,12 @@
   download: https://bigota.d.miui.com/OS3.0.303.0.WPACNXM/fw_nezha_nezha-ota_full-OS3.0.303.0.WPACNXM-user-16.0-b34000bba1.zip
   name: Xiaomi 17 Ultra
   version: OS3.0.303.0.WPACNXM
+- android: '16.0'
+  codename: nezha
+  date: '2026-04-10'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WPAMIXM/fw_nezha_nezha_global-ota_full-OS3.0.301.0.WPAMIXM-user-16.0-3e5c97ae84.zip
+  name: Xiaomi 17 Ultra
+  version: OS3.0.301.0.WPAMIXM
 - android: '16.0'
   codename: nezha
   date: '2026-04-08'

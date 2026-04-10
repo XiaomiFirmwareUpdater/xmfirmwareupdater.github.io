@@ -52,9 +52,8 @@ permalink: /hyperos/taiko/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad 2 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOVCNXM</td><td>16.0</td><td>7.3 GB</td><td>2025-12-23</td><td><a href="/hyperos/taiko/stable/OS3.0.3.0.WOVCNXM/">Download</a></td></tr>
-<tr><td>Redmi Pad 2 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOVCNXM</td><td>16.0</td><td>5.7 GB</td><td>2025-12-30</td><td><a href="/hyperos/taiko/stable/OS3.0.3.0.WOVCNXM/">Download</a></td></tr>
-<tr><td>Redmi Pad 2 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.5.0.WOVCNXM</td><td>16.0</td><td>5.7 GB</td><td>2026-04-07</td><td><a href="/hyperos/taiko/stable beta/OS3.0.5.0.WOVCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad 2 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WOVCNXM</td><td>16.0</td><td>7.1 GB</td><td>2026-03-30</td><td><a href="/hyperos/taiko/stable/OS3.0.5.0.WOVCNXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WOVCNXM</td><td>16.0</td><td>5.7 GB</td><td>2026-04-07</td><td><a href="/hyperos/taiko/stable/OS3.0.5.0.WOVCNXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WOVEUXM</td><td>16.0</td><td>7.2 GB</td><td>2026-03-17</td><td><a href="/hyperos/taiko/stable/OS3.0.4.0.WOVEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WOVEUXM</td><td>16.0</td><td>5.5 GB</td><td>2026-03-20</td><td><a href="/hyperos/taiko/stable/OS3.0.4.0.WOVEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.102.0.VOVEUXM</td><td>15.0</td><td>486 Bytes</td><td>None</td><td><a href="/hyperos/taiko/stable beta/OS2.0.102.0.VOVEUXM/">Download</a></td></tr>
@@ -68,9 +67,8 @@ permalink: /hyperos/taiko/
 <tr><td>Redmi Pad 2 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WOVRUXM</td><td>16.0</td><td>5.4 GB</td><td>2026-04-02</td><td><a href="/hyperos/taiko/stable/OS3.0.2.0.WOVRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WOVTRXM</td><td>16.0</td><td>7.0 GB</td><td>2026-03-17</td><td><a href="/hyperos/taiko/stable/OS3.0.2.0.WOVTRXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WOVTRXM</td><td>16.0</td><td>5.4 GB</td><td>2026-03-27</td><td><a href="/hyperos/taiko/stable/OS3.0.2.0.WOVTRXM/">Download</a></td></tr>
-<tr><td>Redmi Pad 2 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOVTWXM</td><td>16.0</td><td>6.5 GB</td><td>2026-02-09</td><td><a href="/hyperos/taiko/stable/OS3.0.3.0.WOVTWXM/">Download</a></td></tr>
-<tr><td>Redmi Pad 2 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOVTWXM</td><td>16.0</td><td>5.4 GB</td><td>2026-02-26</td><td><a href="/hyperos/taiko/stable/OS3.0.3.0.WOVTWXM/">Download</a></td></tr>
-<tr><td>Redmi Pad 2 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.4.0.WOVTWXM</td><td>16.0</td><td>5.4 GB</td><td>2026-04-07</td><td><a href="/hyperos/taiko/stable beta/OS3.0.4.0.WOVTWXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WOVTWXM</td><td>16.0</td><td>6.5 GB</td><td>2026-03-30</td><td><a href="/hyperos/taiko/stable/OS3.0.4.0.WOVTWXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WOVTWXM</td><td>16.0</td><td>5.4 GB</td><td>2026-04-07</td><td><a href="/hyperos/taiko/stable/OS3.0.4.0.WOVTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

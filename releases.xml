@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 10 Apr 2026 00:41:55 </lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 07:01:28 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 15T (goya) - OS3.0.302.0.WOEEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/goya/</link>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17 Ultra (nezha) - OS3.0.301.0.WPAMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/nezha/</link>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS3.0.1.0.WPRMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
@@ -987,11 +997,6 @@
             <pubDate>Sat, 28 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 17 Ultra (nezha) - OS3.0.9.0.WPAMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/nezha/</link>
-            <pubDate>Sat, 28 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - OS3.0.6.0.WOLMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
             <pubDate>Sat, 28 Feb 2026 00:00:00 </pubDate>
@@ -1058,11 +1063,6 @@
         </item>
         <item>
             <title>Xiaomi 15T (goya) - OS3.0.9.0.WOEMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/goya/</link>
-            <pubDate>Thu, 26 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15T (goya) - OS3.0.10.0.WOEEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/goya/</link>
             <pubDate>Thu, 26 Feb 2026 00:00:00 </pubDate>
         </item>
