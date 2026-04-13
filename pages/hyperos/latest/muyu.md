@@ -63,15 +63,12 @@ permalink: /hyperos/muyu/
 <tr><td>Xiaomi Pad 7 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WOYIDXM</td><td>16.0</td><td>7.6 GB</td><td>2026-01-21</td><td><a href="/hyperos/muyu/stable/OS3.0.4.0.WOYIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.VOYCNXM</td><td>15.0</td><td>7.9 GB</td><td>2024-10-29</td><td><a href="/hyperos/muyu/stable beta/OS2.0.1.0.VOYCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Pro Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.5.0.WOYIDXM</td><td>16.0</td><td>6.3 GB</td><td>2026-03-31</td><td><a href="/hyperos/muyu/stable beta/OS3.0.5.0.WOYIDXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WOYRUXM</td><td>16.0</td><td>6.3 GB</td><td>2026-01-30</td><td><a href="/hyperos/muyu/stable/OS3.0.4.0.WOYRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WOYRUXM</td><td>16.0</td><td>8.4 GB</td><td>2026-01-21</td><td><a href="/hyperos/muyu/stable/OS3.0.4.0.WOYRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.5.0.WOYRUXM</td><td>16.0</td><td>6.3 GB</td><td>2026-03-31</td><td><a href="/hyperos/muyu/stable beta/OS3.0.5.0.WOYRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WOYTRXM</td><td>16.0</td><td>6.3 GB</td><td>2026-01-30</td><td><a href="/hyperos/muyu/stable/OS3.0.4.0.WOYTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WOYTRXM</td><td>16.0</td><td>7.7 GB</td><td>2026-01-21</td><td><a href="/hyperos/muyu/stable/OS3.0.4.0.WOYTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.5.0.WOYTRXM</td><td>16.0</td><td>6.3 GB</td><td>2026-03-31</td><td><a href="/hyperos/muyu/stable beta/OS3.0.5.0.WOYTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WOYTWXM</td><td>16.0</td><td>7.2 GB</td><td>2026-01-21</td><td><a href="/hyperos/muyu/stable/OS3.0.4.0.WOYTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WOYTWXM</td><td>16.0</td><td>6.2 GB</td><td>2026-01-30</td><td><a href="/hyperos/muyu/stable/OS3.0.4.0.WOYTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.5.0.WOYTWXM</td><td>16.0</td><td>6.2 GB</td><td>2026-03-31</td><td><a href="/hyperos/muyu/stable beta/OS3.0.5.0.WOYTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WOYRUXM</td><td>16.0</td><td>8.4 GB</td><td>2026-03-23</td><td><a href="/hyperos/muyu/stable/OS3.0.5.0.WOYRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WOYRUXM</td><td>16.0</td><td>6.3 GB</td><td>2026-03-31</td><td><a href="/hyperos/muyu/stable/OS3.0.5.0.WOYRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WOYTRXM</td><td>16.0</td><td>7.7 GB</td><td>2026-03-23</td><td><a href="/hyperos/muyu/stable/OS3.0.5.0.WOYTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WOYTRXM</td><td>16.0</td><td>6.3 GB</td><td>2026-03-31</td><td><a href="/hyperos/muyu/stable/OS3.0.5.0.WOYTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WOYTWXM</td><td>16.0</td><td>7.2 GB</td><td>2026-03-23</td><td><a href="/hyperos/muyu/stable/OS3.0.5.0.WOYTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WOYTWXM</td><td>16.0</td><td>6.2 GB</td><td>2026-03-31</td><td><a href="/hyperos/muyu/stable/OS3.0.5.0.WOYTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
