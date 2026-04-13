@@ -1546,6 +1546,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UNACNXM/fw_aurora_miui_AURORA_OS1.0.12.0.UNACNXM_c98a167708_14.0.zip
   name: Xiaomi 14 Ultra
   version: OS1.0.12.0.UNACNXM
+- android: '16.0'
+  codename: aurora
+  date: '2026-04-13'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WNACNXM/fw_aurora_aurora-ota_full-OS3.0.304.0.WNACNXM-user-16.0-528f7ee338.zip
+  name: Xiaomi 14 Ultra
+  version: OS3.0.304.0.WNACNXM
 - android: '15.0'
   codename: aurora
   date: '2025-04-13'
@@ -12322,6 +12328,12 @@
   download: https://bigota.d.miui.com/OS2.0.105.0.VOICNXM/fw_luming_luming-ota_full-OS2.0.105.0.VOICNXM-user-15.0-e2a1b1f0c8.zip
   name: Xiaomi Civi 5 Pro
   version: OS2.0.105.0.VOICNXM
+- android: '16.0'
+  codename: luming
+  date: '2026-04-13'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WOICNXM/fw_luming_luming-ota_full-OS3.0.302.0.WOICNXM-user-16.0-2417a7f2db.zip
+  name: Xiaomi Civi 5 Pro
+  version: OS3.0.302.0.WOICNXM
 - android: '15.0'
   codename: luming
   date: '2025-10-13'
@@ -17062,6 +17074,12 @@
   download: https://bigota.d.miui.com/OS2.0.107.0.VNPCNXM/fw_peridot_peridot-ota_full-OS2.0.107.0.VNPCNXM-user-15.0-a1c8c8c398.zip
   name: Redmi Turbo 3/POCO F6
   version: OS2.0.107.0.VNPCNXM
+- android: '16.0'
+  codename: peridot
+  date: '2026-04-13'
+  download: https://bigota.d.miui.com/OS3.0.6.0.WNPMIXM/fw_peridot_peridot_global-ota_full-OS3.0.6.0.WNPMIXM-user-16.0-b087d448c8.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS3.0.6.0.WNPMIXM
 - android: '15.0'
   codename: peridot
   date: '2025-03-13'
@@ -18436,6 +18454,18 @@
   download: https://bigota.d.miui.com/OS3.0.20.0.WPCCNXM/fw_pudding_pudding-ota_full-OS3.0.20.0.WPCCNXM-user-16.0-72cc0c9d90.zip
   name: Xiaomi 17
   version: OS3.0.20.0.WPCCNXM
+- android: '16.0'
+  codename: pudding
+  date: '2026-04-13'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WPCINXM/fw_pudding_pudding_in_global-ota_full-OS3.0.301.0.WPCINXM-user-16.0-72ab16d844.zip
+  name: Xiaomi 17
+  version: OS3.0.301.0.WPCINXM
+- android: '16.0'
+  codename: pudding
+  date: '2026-04-13'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WPCMIXM/fw_pudding_pudding_global-ota_full-OS3.0.301.0.WPCMIXM-user-16.0-3df229a030.zip
+  name: Xiaomi 17
+  version: OS3.0.301.0.WPCMIXM
 - android: '16.0'
   codename: pudding
   date: '2026-02-11'
@@ -21040,6 +21070,12 @@
   download: https://bigota.d.miui.com/OS2.0.106.0.VNICNXM/fw_ruyi_ruyi-ota_full-OS2.0.106.0.VNICNXM-user-15.0-c592dacf61.zip
   name: MIX Flip
   version: OS2.0.106.0.VNICNXM
+- android: '16.0'
+  codename: ruyi
+  date: '2026-04-13'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WNICNXM/fw_ruyi_ruyi-ota_full-OS3.0.302.0.WNICNXM-user-16.0-5eb29f292d.zip
+  name: MIX Flip
+  version: OS3.0.302.0.WNICNXM
 - android: '15.0'
   codename: ruyi
   date: '2025-04-14'
@@ -21700,6 +21736,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UHZEUXM/fw_sea_miui_SEAEEAGlobal_OS1.0.3.0.UHZEUXM_b347782c54_14.0.zip
   name: Redmi Note 12S
   version: OS1.0.3.0.UHZEUXM
+- android: '15.0'
+  codename: sea
+  date: '2026-04-13'
+  download: https://bigota.d.miui.com/OS2.0.210.0.VHZEUXM/fw_sea_sea_eea_global-ota_full-OS2.0.210.0.VHZEUXM-user-15.0-28bd132123.zip
+  name: Redmi Note 12S
+  version: OS2.0.210.0.VHZEUXM
 - android: '15.0'
   codename: sea
   date: '2025-04-14'
@@ -24190,6 +24232,12 @@
   download: https://bigota.d.miui.com/OS1.0.21.0.ULIMIXM/fw_taoyao_miui_TAOYAOGlobal_OS1.0.21.0.ULIMIXM_1fc94659cf_14.0.zip
   name: Xiaomi 12 Lite
   version: OS1.0.21.0.ULIMIXM
+- android: '14.0'
+  codename: taoyao
+  date: '2026-04-13'
+  download: https://bigota.d.miui.com/OS1.0.38.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.38.0.ULIEUXM_7ab7385c0d_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.38.0.ULIEUXM
 - android: '14.0'
   codename: taoyao
   date: '2025-11-13'

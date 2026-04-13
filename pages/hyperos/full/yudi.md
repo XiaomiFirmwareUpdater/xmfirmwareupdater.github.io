@@ -52,7 +52,8 @@ permalink: /archive/hyperos/yudi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.4.0.VMHCNXM</td><td>15.0</td><td>7.2 GB</td><td>2026-04-03</td><td><a href="/hyperos/yudi/stable beta/OS3.0.4.0.VMHCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.VMHCNXM</td><td>15.0</td><td>7.2 GB</td><td>2026-04-03</td><td><a href="/hyperos/yudi/stable/OS3.0.4.0.VMHCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.VMHCNXM</td><td>15.0</td><td>8.2 GB</td><td>2026-03-20</td><td><a href="/hyperos/yudi/stable/OS3.0.4.0.VMHCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.VMHCNXM</td><td>15.0</td><td>7.2 GB</td><td>2026-01-23</td><td><a href="/hyperos/yudi/stable/OS3.0.3.0.VMHCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.VMHCNXM</td><td>15.0</td><td>8.2 GB</td><td>2026-01-13</td><td><a href="/hyperos/yudi/stable/OS3.0.3.0.VMHCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.VMHCNXM</td><td>15.0</td><td>7.2 GB</td><td>2025-12-28</td><td><a href="/hyperos/yudi/stable/OS3.0.1.0.VMHCNXM/">Download</a></td></tr>
@@ -69,14 +70,14 @@ permalink: /archive/hyperos/yudi/
 <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VMHCNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-08-06</td><td><a href="/hyperos/yudi/stable/OS2.0.204.0.VMHCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VMHCNXM</td><td>15.0</td><td>6.9 GB</td><td>2025-07-19</td><td><a href="/hyperos/yudi/stable/OS2.0.203.0.VMHCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VMHCNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-07-10</td><td><a href="/hyperos/yudi/stable/OS2.0.203.0.VMHCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VMHCNXM</td><td>15.0</td><td>6.9 GB</td><td>2025-06-10</td><td><a href="/hyperos/yudi/stable/OS2.0.201.0.VMHCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VMHCNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-05-31</td><td><a href="/hyperos/yudi/stable/OS2.0.201.0.VMHCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.8.0.VMHCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-05-14</td><td><a href="/hyperos/yudi/stable/OS2.0.8.0.VMHCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.8.0.VMHCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-04-18</td><td><a href="/hyperos/yudi/stable/OS2.0.8.0.VMHCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.7.0.VMHCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-04-02</td><td><a href="/hyperos/yudi/stable/OS2.0.7.0.VMHCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.7.0.VMHCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-03-19</td><td><a href="/hyperos/yudi/stable/OS2.0.7.0.VMHCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.6.0.VMHCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-03-04</td><td><a href="/hyperos/yudi/stable/OS2.0.6.0.VMHCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.6.0.VMHCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-02-19</td><td><a href="/hyperos/yudi/stable/OS2.0.6.0.VMHCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.201.0.VMHCNXM</td><td>15.0</td><td>6.9 GB</td><td>2025-06-10</td><td><a href="/hyperos/yudi/stable/OS2.0.201.0.VMHCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.201.0.VMHCNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-05-31</td><td><a href="/hyperos/yudi/stable/OS2.0.201.0.VMHCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.4.0.VMHCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-01-13</td><td><a href="/hyperos/yudi/stable/OS2.0.4.0.VMHCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.4.0.VMHCNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-01-09</td><td><a href="/hyperos/yudi/stable/OS2.0.4.0.VMHCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Max 14 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.17.0.UMHCNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-12-23</td><td><a href="/hyperos/yudi/stable/OS1.0.17.0.UMHCNXM/">Download</a></td></tr>

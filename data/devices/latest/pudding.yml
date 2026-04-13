@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2026-02-28'
+  date: '2026-04-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pudding/releases/download/stable-01.03.2026/fw_pudding_pudding_global-ota_full-OS3.0.9.0.WPCMIXM-user-16.0-d68c80bd31.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/pudding/fw_pudding_pudding_global-ota_full-OS3.0.9.0.WPCMIXM-user-16.0-d68c80bd31.zip
-  filename: fw_pudding_pudding_global-ota_full-OS3.0.9.0.WPCMIXM-user-16.0-d68c80bd31.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pudding/releases/download/stable-13.04.2026/fw_pudding_pudding_global-ota_full-OS3.0.301.0.WPCMIXM-user-16.0-3df229a030.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/pudding/fw_pudding_pudding_global-ota_full-OS3.0.301.0.WPCMIXM-user-16.0-3df229a030.zip
+  filename: fw_pudding_pudding_global-ota_full-OS3.0.301.0.WPCMIXM-user-16.0-3df229a030.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.9.0.WPCMIXM
+    miui: OS3.0.301.0.WPCMIXM
 - branch: stable
   date: '2026-03-31'
   downloads:
@@ -29,12 +29,12 @@
     android: '16.0'
     miui: OS3.0.301.0.WPCEUXM
 - branch: stable
-  date: '2026-02-28'
+  date: '2026-04-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pudding/releases/download/stable-01.03.2026/fw_pudding_pudding_in_global-ota_full-OS3.0.4.0.WPCINXM-user-16.0-e4a0932b99.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/pudding/fw_pudding_pudding_in_global-ota_full-OS3.0.4.0.WPCINXM-user-16.0-e4a0932b99.zip
-  filename: fw_pudding_pudding_in_global-ota_full-OS3.0.4.0.WPCINXM-user-16.0-e4a0932b99.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pudding/releases/download/stable-14.04.2026/fw_pudding_pudding_in_global-ota_full-OS3.0.301.0.WPCINXM-user-16.0-72ab16d844.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/pudding/fw_pudding_pudding_in_global-ota_full-OS3.0.301.0.WPCINXM-user-16.0-72ab16d844.zip
+  filename: fw_pudding_pudding_in_global-ota_full-OS3.0.301.0.WPCINXM-user-16.0-72ab16d844.zip
   region: India
   versions:
     android: '16.0'
-    miui: OS3.0.4.0.WPCINXM
+    miui: OS3.0.301.0.WPCINXM

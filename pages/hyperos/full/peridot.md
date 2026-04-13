@@ -52,7 +52,8 @@ permalink: /archive/hyperos/peridot/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F6 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WNPTWXM</td><td>16.0</td><td>6.1 GB</td><td>2026-04-01</td><td><a href="/hyperos/peridot/stable/OS3.0.3.0.WNPTWXM/">Download</a></td></tr>
+                <tr><td>POCO F6 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.6.0.WNPMIXM</td><td>16.0</td><td>6.3 GB</td><td>2026-04-09</td><td><a href="/hyperos/peridot/stable beta/OS3.0.6.0.WNPMIXM/">Download</a></td></tr>
+<tr><td>POCO F6 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WNPTWXM</td><td>16.0</td><td>6.1 GB</td><td>2026-04-01</td><td><a href="/hyperos/peridot/stable/OS3.0.3.0.WNPTWXM/">Download</a></td></tr>
 <tr><td>POCO F6 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WNPTWXM</td><td>16.0</td><td>7.6 GB</td><td>2026-03-18</td><td><a href="/hyperos/peridot/stable/OS3.0.3.0.WNPTWXM/">Download</a></td></tr>
 <tr><td>POCO F6 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WNPRUXM</td><td>16.0</td><td>6.2 GB</td><td>2026-03-26</td><td><a href="/hyperos/peridot/stable/OS3.0.3.0.WNPRUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WNPRUXM</td><td>16.0</td><td>9.5 GB</td><td>2026-03-18</td><td><a href="/hyperos/peridot/stable/OS3.0.3.0.WNPRUXM/">Download</a></td></tr>
