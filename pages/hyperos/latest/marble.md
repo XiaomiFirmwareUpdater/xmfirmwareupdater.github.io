@@ -70,7 +70,6 @@ permalink: /hyperos/marble/
 <tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.211.0.VMRTWXM</td><td>15.0</td><td>5.5 GB</td><td>2026-02-04</td><td><a href="/hyperos/marble/stable/OS2.0.211.0.VMRTWXM/">Download</a></td></tr>
 <tr><td>POCO F5 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.2.0.VMRIDXM</td><td>15.0</td><td>5.7 GB</td><td>2026-03-31</td><td><a href="/hyperos/marble/stable beta/OS3.0.2.0.VMRIDXM/">Download</a></td></tr>
 <tr><td>POCO F5 Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.1.0.VMRRUXM</td><td>15.0</td><td>5.6 GB</td><td>2026-04-01</td><td><a href="/hyperos/marble/stable beta/OS3.0.1.0.VMRRUXM/">Download</a></td></tr>
-<tr><td>POCO F5 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.1.0.VMRTRXM</td><td>15.0</td><td>5.7 GB</td><td>2026-04-01</td><td><a href="/hyperos/marble/stable beta/OS3.0.1.0.VMRTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

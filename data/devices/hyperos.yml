@@ -6406,6 +6406,12 @@
   download: https://bigota.d.miui.com/OS2.0.205.0.VFOMIXM/fw_emerald_emerald_r_global-ota_full-OS2.0.205.0.VFOMIXM-user-15.0-7bad128a6c.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS2.0.205.0.VFOMIXM
+- android: '16.0'
+  codename: emerald
+  date: '2026-04-13'
+  download: https://bigota.d.miui.com/OS3.0.2.0.WFOEUXM/fw_emerald_emerald_r_eea_global-ota_full-OS3.0.2.0.WFOEUXM-user-16.0-af1f30e132.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
+  version: OS3.0.2.0.WFOEUXM
 - android: '15.0'
   codename: emerald
   date: '2025-03-13'
@@ -7762,6 +7768,12 @@
   download: https://bigota.d.miui.com/OS2.0.104.0.VMCMIXM/fw_fuxi_global_fuxi_global-ota_full-OS2.0.104.0.VMCMIXM-user-15.0-babca7fab1.zip
   name: Xiaomi 13
   version: OS2.0.104.0.VMCMIXM
+- android: '16.0'
+  codename: fuxi
+  date: '2026-04-13'
+  download: https://bigota.d.miui.com/OS3.0.2.0.WMCEUXM/fw_fuxi_fuxi_eea_global-ota_full-OS3.0.2.0.WMCEUXM-user-16.0-7630c05f3f.zip
+  name: Xiaomi 13
+  version: OS3.0.2.0.WMCEUXM
 - android: '16.0'
   codename: fuxi
   date: '2026-03-13'
@@ -14332,6 +14344,18 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VNTMIXM/fw_moon_global_moon_global-ota_full-OS2.0.2.0.VNTMIXM-user-15.0-f7ece4195a.zip
   name: Redmi 13/POCO M6
   version: OS2.0.2.0.VNTMIXM
+- android: '16.0'
+  codename: moon
+  date: '2026-04-13'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WNTEUXM/fw_moon_moon_eea_global-ota_full-OS3.0.4.0.WNTEUXM-user-16.0-8f3ecb2d65.zip
+  name: Redmi 13/POCO M6
+  version: OS3.0.4.0.WNTEUXM
+- android: '16.0'
+  codename: moon
+  date: '2026-04-13'
+  download: https://bigota.d.miui.com/OS3.0.7.0.WNTMIXM/fw_moon_moon_global-ota_full-OS3.0.7.0.WNTMIXM-user-16.0-06ec64a61e.zip
+  name: Redmi 13/POCO M6
+  version: OS3.0.7.0.WNTMIXM
 - android: '14.0'
   codename: moon
   date: '2024-06-12'
@@ -15730,6 +15754,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UMBEUXM/fw_nuwa_miui_NUWAEEAGlobal_OS1.0.7.0.UMBEUXM_ab1eab36df_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.7.0.UMBEUXM
+- android: '16.0'
+  codename: nuwa
+  date: '2026-04-13'
+  download: https://bigota.d.miui.com/OS3.0.3.0.WMBEUXM/fw_nuwa_nuwa_eea_global-ota_full-OS3.0.3.0.WMBEUXM-user-16.0-01976e32d5.zip
+  name: Xiaomi 13 Pro
+  version: OS3.0.3.0.WMBEUXM
 - android: '16.0'
   codename: nuwa
   date: '2026-03-13'
@@ -21670,6 +21700,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UHZEUXM/fw_sea_miui_SEAEEAGlobal_OS1.0.4.0.UHZEUXM_66189d5bb9_14.0.zip
   name: Redmi Note 12S
   version: OS1.0.4.0.UHZEUXM
+- android: '15.0'
+  codename: sea
+  date: '2026-04-13'
+  download: https://bigota.d.miui.com/OS2.0.212.0.VHZMIXM/fw_sea_sea_global-ota_full-OS2.0.212.0.VHZMIXM-user-15.0-2361167dc7.zip
+  name: Redmi Note 12S
+  version: OS2.0.212.0.VHZMIXM
 - android: '14.0'
   codename: sea
   date: '2024-01-12'
