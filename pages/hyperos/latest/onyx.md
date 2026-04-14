@@ -59,8 +59,8 @@ permalink: /hyperos/onyx/
 <tr><td>POCO F7 EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WOLEUXM</td><td>16.0</td><td>7.2 GB</td><td>2026-02-05</td><td><a href="/hyperos/onyx/stable/OS3.0.4.0.WOLEUXM/">Download</a></td></tr>
 <tr><td>POCO F7 Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WOLMIXM</td><td>16.0</td><td>10.7 GB</td><td>2026-01-29</td><td><a href="/hyperos/onyx/stable/OS3.0.6.0.WOLMIXM/">Download</a></td></tr>
 <tr><td>POCO F7 Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WOLMIXM</td><td>16.0</td><td>7.2 GB</td><td>2026-02-03</td><td><a href="/hyperos/onyx/stable/OS3.0.6.0.WOLMIXM/">Download</a></td></tr>
-<tr><td>POCO F7 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VOLIDXM</td><td>15.0</td><td>9.5 GB</td><td>2025-11-11</td><td><a href="/hyperos/onyx/stable/OS2.0.204.0.VOLIDXM/">Download</a></td></tr>
-<tr><td>POCO F7 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VOLIDXM</td><td>15.0</td><td>6.9 GB</td><td>2025-11-20</td><td><a href="/hyperos/onyx/stable/OS2.0.204.0.VOLIDXM/">Download</a></td></tr>
+<tr><td>POCO F7 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOLIDXM</td><td>16.0</td><td>10.0 GB</td><td>2026-02-03</td><td><a href="/hyperos/onyx/stable/OS3.0.3.0.WOLIDXM/">Download</a></td></tr>
+<tr><td>POCO F7 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOLIDXM</td><td>16.0</td><td>7.2 GB</td><td>2026-02-08</td><td><a href="/hyperos/onyx/stable/OS3.0.3.0.WOLIDXM/">Download</a></td></tr>
 <tr><td>POCO F7 India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOLINXM</td><td>16.0</td><td>9.1 GB</td><td>2025-12-24</td><td><a href="/hyperos/onyx/stable/OS3.0.3.0.WOLINXM/">Download</a></td></tr>
 <tr><td>POCO F7 India</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOLINXM</td><td>16.0</td><td>7.0 GB</td><td>2025-12-29</td><td><a href="/hyperos/onyx/stable/OS3.0.3.0.WOLINXM/">Download</a></td></tr>
 <tr><td>POCO F7 Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOLRUXM</td><td>16.0</td><td>10.7 GB</td><td>2026-02-03</td><td><a href="/hyperos/onyx/stable/OS3.0.3.0.WOLRUXM/">Download</a></td></tr>
