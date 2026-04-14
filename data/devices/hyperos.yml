@@ -718,6 +718,12 @@
   download: https://bigota.d.miui.com/OS2.0.11.0.VOPCNXM/fw_amethyst_amethyst-ota_full-OS2.0.11.0.VOPCNXM-user-15.0-76ac62dacf.zip
   name: Redmi Note 14 Pro+ 5G
   version: OS2.0.11.0.VOPCNXM
+- android: '16.0'
+  codename: amethyst
+  date: '2026-04-14'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WOPEUXM/fw_amethyst_amethyst_eea_global-ota_full-OS3.0.4.0.WOPEUXM-user-16.0-91b51c82e7.zip
+  name: Redmi Note 14 Pro+ 5G
+  version: OS3.0.4.0.WOPEUXM
 - android: '15.0'
   codename: amethyst
   date: '2025-03-13'
@@ -8776,6 +8782,12 @@
   download: https://bigota.d.miui.com/OS1.0.13.0.UNVCNXM/fw_goku_miui_GOKU_OS1.0.13.0.UNVCNXM_fb1ecb5403_14.0.zip
   name: MIX Fold 4
   version: OS1.0.13.0.UNVCNXM
+- android: '16.0'
+  codename: goku
+  date: '2026-04-14'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WNVCNXM/fw_goku_goku-ota_full-OS3.0.304.0.WNVCNXM-user-16.0-ea46b1295d.zip
+  name: MIX Fold 4
+  version: OS3.0.304.0.WNVCNXM
 - android: '15.0'
   codename: goku
   date: '2025-04-14'
@@ -25162,6 +25174,12 @@
   download: https://bigota.d.miui.com/OS2.0.10.0.VOZCNXM/fw_uke_uke-ota_full-OS2.0.10.0.VOZCNXM-user-15.0-8f0752d36f.zip
   name: Xiaomi Pad 7/POCO Pad X1
   version: OS2.0.10.0.VOZCNXM
+- android: '16.0'
+  codename: uke
+  date: '2026-04-14'
+  download: https://bigota.d.miui.com/OS3.0.5.0.WOZINXM/fw_uke_uke_in_global-ota_full-OS3.0.5.0.WOZINXM-user-16.0-45f3d99ca5.zip
+  name: Xiaomi Pad 7/POCO Pad X1
+  version: OS3.0.5.0.WOZINXM
 - android: '15.0'
   codename: uke
   date: '2025-01-13'

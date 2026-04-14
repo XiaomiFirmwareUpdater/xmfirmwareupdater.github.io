@@ -129,6 +129,16 @@
     android: '14.0'
     miui: OS1.0.13.0.UNVCNXM
 - branch: stable
+  date: '2026-04-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goku/releases/download/stable-14.04.2026/fw_goku_goku-ota_full-OS3.0.304.0.WNVCNXM-user-16.0-ea46b1295d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goku/fw_goku_goku-ota_full-OS3.0.304.0.WNVCNXM-user-16.0-ea46b1295d.zip
+  filename: fw_goku_goku-ota_full-OS3.0.304.0.WNVCNXM-user-16.0-ea46b1295d.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.304.0.WNVCNXM
+- branch: stable
   date: '2025-04-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goku/releases/download/stable-14.04.2025/fw_goku_goku-ota_full-OS2.0.106.0.VNVCNXM-user-15.0-64d2a743ab.zip
