@@ -1769,15 +1769,15 @@
     android: '14.0'
     miui: OS1.0.16.0.UCVEUXM
 - branch: stable
-  date: '2025-07-07'
+  date: '2026-04-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-07.07.2025/fw_earth_miui_EARTHINGlobal_OS1.0.11.0.UCVINXM_adab505113_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHINGlobal_OS1.0.11.0.UCVINXM_adab505113_14.0.zip
-  filename: fw_earth_miui_EARTHINGlobal_OS1.0.11.0.UCVINXM_adab505113_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-15.04.2026/fw_earth_miui_EARTHINGlobal_OS1.0.13.0.UCVINXM_3eb9f975c0_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHINGlobal_OS1.0.13.0.UCVINXM_3eb9f975c0_14.0.zip
+  filename: fw_earth_miui_EARTHINGlobal_OS1.0.13.0.UCVINXM_3eb9f975c0_14.0.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS1.0.11.0.UCVINXM
+    miui: OS1.0.13.0.UCVINXM
 - branch: stable
   date: '2024-05-21'
   downloads:
@@ -4559,15 +4559,15 @@
     android: '16.0'
     miui: OS3.0.4.0.WOLEUXM
 - branch: stable
-  date: '2026-02-04'
+  date: '2026-04-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-04.02.2026/fw_onyx_onyx_in_global-ota_full-OS3.0.3.0.WOLINXM-user-16.0-1be3706e80.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/onyx/fw_onyx_onyx_in_global-ota_full-OS3.0.3.0.WOLINXM-user-16.0-1be3706e80.zip
-  filename: fw_onyx_onyx_in_global-ota_full-OS3.0.3.0.WOLINXM-user-16.0-1be3706e80.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-15.04.2026/fw_onyx_onyx_in_global-ota_full-OS3.0.4.0.WOLINXM-user-16.0-58c10264c6.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/onyx/fw_onyx_onyx_in_global-ota_full-OS3.0.4.0.WOLINXM-user-16.0-58c10264c6.zip
+  filename: fw_onyx_onyx_in_global-ota_full-OS3.0.4.0.WOLINXM-user-16.0-58c10264c6.zip
   region: India
   versions:
     android: '16.0'
-    miui: OS3.0.3.0.WOLINXM
+    miui: OS3.0.4.0.WOLINXM
 - branch: stable
   date: '2024-04-01'
   downloads:
@@ -5849,15 +5849,15 @@
     android: '7.1'
     miui: 9.10.10
 - branch: stable
-  date: '2026-02-24'
+  date: '2026-04-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphire/releases/download/stable-24.02.2026/fw_sapphire_sapphire_global-ota_full-OS2.0.209.0.VNGMIXM-user-15.0-95068aa92a.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sapphire/fw_sapphire_sapphire_global-ota_full-OS2.0.209.0.VNGMIXM-user-15.0-95068aa92a.zip
-  filename: fw_sapphire_sapphire_global-ota_full-OS2.0.209.0.VNGMIXM-user-15.0-95068aa92a.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphire/releases/download/stable-15.04.2026/fw_sapphire_sapphire_global-ota_full-OS2.0.210.0.VNGMIXM-user-15.0-09bcc4ce74.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sapphire/fw_sapphire_sapphire_global-ota_full-OS2.0.210.0.VNGMIXM-user-15.0-09bcc4ce74.zip
+  filename: fw_sapphire_sapphire_global-ota_full-OS2.0.210.0.VNGMIXM-user-15.0-09bcc4ce74.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.209.0.VNGMIXM
+    miui: OS2.0.210.0.VNGMIXM
 - branch: stable
   date: '2026-04-07'
   downloads:

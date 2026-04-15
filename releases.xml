@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 15 Apr 2026 06:40:46 </lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 13:03:18 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 12C/POCO C55 (earth) - OS1.0.13.0.UCVINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/earth/</link>
+            <pubDate>Wed, 15 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - OS3.0.4.0.WOLINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
+            <pubDate>Wed, 15 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 (sapphire) - OS2.0.210.0.VNGMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sapphire/</link>
+            <pubDate>Wed, 15 Apr 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.4.0.WOPEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
@@ -1242,11 +1257,6 @@
             <pubDate>Tue, 24 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 13 (sapphire) - OS2.0.209.0.VNGMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sapphire/</link>
-            <pubDate>Tue, 24 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 14T (degas) - OS3.0.9.0.WNEEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/degas/</link>
             <pubDate>Mon, 23 Feb 2026 00:00:00 </pubDate>
@@ -1389,11 +1399,6 @@
         <item>
             <title>Redmi K70 Pro (manet) - OS3.0.9.0.WNMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/manet/</link>
-            <pubDate>Wed, 04 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - OS3.0.3.0.WOLINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
             <pubDate>Wed, 04 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1665,11 +1670,6 @@
             <title>Xiaomi 12 Pro Dimensity (daumier) - OS2.0.6.0.ULGCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/daumier/</link>
             <pubDate>Mon, 14 Jul 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12C/POCO C55 (earth) - OS1.0.11.0.UCVINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Mon, 07 Jul 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - OS2.0.3.0.ULOMIXM</title>
