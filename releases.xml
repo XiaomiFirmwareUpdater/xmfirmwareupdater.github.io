@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 15 Apr 2026 13:03:18 </lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 18:48:05 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.13.0.UCVINXM</title>
@@ -19,6 +19,11 @@
         <item>
             <title>Redmi Note 13 (sapphire) - OS2.0.210.0.VNGMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sapphire/</link>
+            <pubDate>Wed, 15 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 17 5G/Redmi R70m/Redmi A7 Pro 5G/Redmi 15A 5G/POCO C85x 5G (somalia) - OS3.0.4.0.WBWINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/somalia/</link>
             <pubDate>Wed, 15 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -849,11 +854,6 @@
         <item>
             <title>Redmi Pad 2 4G (koto) - OS3.0.1.0.WOWINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/koto/</link>
-            <pubDate>Thu, 12 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 17 5G/Redmi R70m/Redmi A7 Pro 5G/Redmi 15A 5G/POCO C85x 5G (somalia) - OS3.0.1.0.WBWINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/somalia/</link>
             <pubDate>Thu, 12 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
