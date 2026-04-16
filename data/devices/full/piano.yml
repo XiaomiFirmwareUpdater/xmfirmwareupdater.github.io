@@ -69,6 +69,26 @@
     android: '16.0'
     miui: OS3.0.10.0.WPYCNXM
 - branch: stable
+  date: '2026-04-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_piano/releases/download/stable-17.04.2026/fw_piano_piano_eea_global-ota_full-OS3.0.303.0.WPYEUXM-user-16.0-ff772f7bc2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/piano/fw_piano_piano_eea_global-ota_full-OS3.0.303.0.WPYEUXM-user-16.0-ff772f7bc2.zip
+  filename: fw_piano_piano_eea_global-ota_full-OS3.0.303.0.WPYEUXM-user-16.0-ff772f7bc2.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.303.0.WPYEUXM
+- branch: stable
+  date: '2026-04-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_piano/releases/download/stable-17.04.2026/fw_piano_piano_global-ota_full-OS3.0.302.0.WPYMIXM-user-16.0-490a8c89e9.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/piano/fw_piano_piano_global-ota_full-OS3.0.302.0.WPYMIXM-user-16.0-490a8c89e9.zip
+  filename: fw_piano_piano_global-ota_full-OS3.0.302.0.WPYMIXM-user-16.0-490a8c89e9.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.302.0.WPYMIXM
+- branch: stable
   date: '2025-10-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_piano/releases/download/stable-14.10.2025/fw_piano_piano-ota_full-OS3.0.5.0.WPYCNXM-user-16.0-751b31308c.zip

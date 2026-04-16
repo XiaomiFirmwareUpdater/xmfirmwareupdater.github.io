@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 16 Apr 2026 18:57:01 </lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 01:31:39 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 15 Pro 5G (lapis) - OS3.0.2.0.WPPEUXM</title>
@@ -17,13 +17,38 @@
             <pubDate>Thu, 16 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi Pad 8 Pro (piano) - OS3.0.302.0.WPYMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/piano/</link>
+            <pubDate>Thu, 16 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 8 Pro (piano) - OS3.0.303.0.WPYEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/piano/</link>
+            <pubDate>Thu, 16 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 13 NFC (sapphiren) - OS2.0.212.0.VNHEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
             <pubDate>Thu, 16 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite (shennong) - OS3.0.304.0.WNBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/shennong/</link>
+            <pubDate>Thu, 16 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi K60 Pro (socrates) - OS3.0.5.0.VMKCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/socrates/</link>
+            <pubDate>Thu, 16 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 8 (yupei) - OS3.0.302.0.WPZMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/yupei/</link>
+            <pubDate>Thu, 16 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 8 (yupei) - OS3.0.303.0.WPZEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/yupei/</link>
             <pubDate>Thu, 16 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -462,16 +487,6 @@
             <pubDate>Tue, 31 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 8 (yupei) - OS3.0.301.0.WPZMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/yupei/</link>
-            <pubDate>Tue, 31 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 8 (yupei) - OS3.0.301.0.WPZEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/yupei/</link>
-            <pubDate>Tue, 31 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 8 (yupei) - OS3.0.301.0.WPZINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/yupei/</link>
             <pubDate>Tue, 31 Mar 2026 00:00:00 </pubDate>
@@ -509,16 +524,6 @@
         <item>
             <title>Redmi K90 Pro Max/POCO F8 Ultra (myron) - OS3.0.8.0.WPMEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/myron/</link>
-            <pubDate>Mon, 30 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 8 Pro (piano) - OS3.0.301.0.WPYMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/piano/</link>
-            <pubDate>Mon, 30 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 8 Pro (piano) - OS3.0.301.0.WPYEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/piano/</link>
             <pubDate>Mon, 30 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -694,11 +699,6 @@
         <item>
             <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS3.0.7.0.WNXCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
-            <pubDate>Mon, 23 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite (shennong) - OS3.0.9.0.WNBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/shennong/</link>
             <pubDate>Mon, 23 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
