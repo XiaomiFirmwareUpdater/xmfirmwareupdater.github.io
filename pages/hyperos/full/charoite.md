@@ -52,7 +52,9 @@ permalink: /archive/hyperos/charoite/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 15 Pro 4G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WPFMIXM</td><td>16.0</td><td>6.0 GB</td><td>2026-03-24</td><td><a href="/hyperos/charoite/stable/OS3.0.2.0.WPFMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 15 Pro 4G Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WPFTRXM</td><td>16.0</td><td>5.9 GB</td><td>2026-04-03</td><td><a href="/hyperos/charoite/stable/OS3.0.1.0.WPFTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro 4G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WPFTRXM</td><td>16.0</td><td>8.4 GB</td><td>2026-03-20</td><td><a href="/hyperos/charoite/stable/OS3.0.1.0.WPFTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro 4G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WPFMIXM</td><td>16.0</td><td>6.0 GB</td><td>2026-03-24</td><td><a href="/hyperos/charoite/stable/OS3.0.2.0.WPFMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 4G Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WPFMIXM</td><td>16.0</td><td>9.8 GB</td><td>2026-03-18</td><td><a href="/hyperos/charoite/stable/OS3.0.2.0.WPFMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 4G Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VPFRUXM</td><td>15.0</td><td>4.6 GB</td><td>2026-03-23</td><td><a href="/hyperos/charoite/stable/OS2.0.207.0.VPFRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 4G Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VPFRUXM</td><td>15.0</td><td>8.5 GB</td><td>2026-03-13</td><td><a href="/hyperos/charoite/stable/OS2.0.207.0.VPFRUXM/">Download</a></td></tr>
