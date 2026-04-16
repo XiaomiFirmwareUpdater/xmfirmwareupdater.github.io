@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 16 Apr 2026 12:54:44 </lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 18:57:01 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 15 Pro 5G (lapis) - OS3.0.2.0.WPPEUXM</title>
@@ -14,6 +14,11 @@
         <item>
             <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS3.0.302.0.WOMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/miro/</link>
+            <pubDate>Thu, 16 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 NFC (sapphiren) - OS2.0.212.0.VNHEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
             <pubDate>Thu, 16 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1269,11 +1274,6 @@
         <item>
             <title>Xiaomi 14T (degas) - OS3.0.9.0.WNEEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/degas/</link>
-            <pubDate>Mon, 23 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 NFC (sapphiren) - OS2.0.211.0.VNHEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
             <pubDate>Mon, 23 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
