@@ -54,9 +54,10 @@ permalink: /hyperos/onyx/
                 <tbody>
                 <tr><td>Redmi Turbo 4 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.11.0.WOLCNXM</td><td>16.0</td><td>10.4 GB</td><td>2026-01-21</td><td><a href="/hyperos/onyx/stable/OS3.0.11.0.WOLCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 4 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.11.0.WOLCNXM</td><td>16.0</td><td>8.3 GB</td><td>2026-01-28</td><td><a href="/hyperos/onyx/stable/OS3.0.11.0.WOLCNXM/">Download</a></td></tr>
-<tr><td>Redmi Turbo 4 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.112.0.VOLCNXM</td><td>15.0</td><td>474 Bytes</td><td>None</td><td><a href="/hyperos/onyx/stable beta/OS2.0.112.0.VOLCNXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 4 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WOLCNXM</td><td>16.0</td><td>8.4 GB</td><td>2026-04-14</td><td><a href="/hyperos/onyx/stable beta/OS3.0.302.0.WOLCNXM/">Download</a></td></tr>
 <tr><td>POCO F7 EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WOLEUXM</td><td>16.0</td><td>9.8 GB</td><td>2026-01-29</td><td><a href="/hyperos/onyx/stable/OS3.0.4.0.WOLEUXM/">Download</a></td></tr>
 <tr><td>POCO F7 EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WOLEUXM</td><td>16.0</td><td>7.2 GB</td><td>2026-02-05</td><td><a href="/hyperos/onyx/stable/OS3.0.4.0.WOLEUXM/">Download</a></td></tr>
+<tr><td>POCO F7 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.6.0.WOLEUXM</td><td>16.0</td><td>7.3 GB</td><td>2026-04-14</td><td><a href="/hyperos/onyx/stable beta/OS3.0.6.0.WOLEUXM/">Download</a></td></tr>
 <tr><td>POCO F7 Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WOLMIXM</td><td>16.0</td><td>10.7 GB</td><td>2026-01-29</td><td><a href="/hyperos/onyx/stable/OS3.0.6.0.WOLMIXM/">Download</a></td></tr>
 <tr><td>POCO F7 Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WOLMIXM</td><td>16.0</td><td>7.2 GB</td><td>2026-02-03</td><td><a href="/hyperos/onyx/stable/OS3.0.6.0.WOLMIXM/">Download</a></td></tr>
 <tr><td>POCO F7 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOLIDXM</td><td>16.0</td><td>10.0 GB</td><td>2026-02-03</td><td><a href="/hyperos/onyx/stable/OS3.0.3.0.WOLIDXM/">Download</a></td></tr>

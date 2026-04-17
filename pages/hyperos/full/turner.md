@@ -52,7 +52,8 @@ permalink: /archive/hyperos/turner/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K Pad China</td><td>Stable</td><td>Recovery</td><td>OS3.0.7.0.WAOCNXM</td><td>16.0</td><td>7.5 GB</td><td>2026-02-04</td><td><a href="/hyperos/turner/stable/OS3.0.7.0.WAOCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K Pad China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.304.0.WAOCNXM</td><td>16.0</td><td>7.7 GB</td><td>2026-04-13</td><td><a href="/hyperos/turner/stable beta/OS3.0.304.0.WAOCNXM/">Download</a></td></tr>
+<tr><td>Redmi K Pad China</td><td>Stable</td><td>Recovery</td><td>OS3.0.7.0.WAOCNXM</td><td>16.0</td><td>7.5 GB</td><td>2026-02-04</td><td><a href="/hyperos/turner/stable/OS3.0.7.0.WAOCNXM/">Download</a></td></tr>
 <tr><td>Redmi K Pad China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.7.0.WAOCNXM</td><td>16.0</td><td>8.6 GB</td><td>2026-01-09</td><td><a href="/hyperos/turner/stable/OS3.0.7.0.WAOCNXM/">Download</a></td></tr>
 <tr><td>Redmi K Pad China</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WAOCNXM</td><td>16.0</td><td>7.5 GB</td><td>2025-12-23</td><td><a href="/hyperos/turner/stable/OS3.0.5.0.WAOCNXM/">Download</a></td></tr>
 <tr><td>Redmi K Pad China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WAOCNXM</td><td>16.0</td><td>8.6 GB</td><td>2025-12-17</td><td><a href="/hyperos/turner/stable/OS3.0.5.0.WAOCNXM/">Download</a></td></tr>
@@ -80,10 +81,10 @@ permalink: /archive/hyperos/turner/
 <tr><td>Redmi K Pad China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.216.0.VAOCNXM</td><td>15.0</td><td>8.4 GB</td><td>2025-07-29</td><td><a href="/hyperos/turner/stable/OS2.0.216.0.VAOCNXM/">Download</a></td></tr>
 <tr><td>Redmi K Pad China</td><td>Stable</td><td>Recovery</td><td>OS2.0.213.0.VAOCNXM</td><td>15.0</td><td>7.3 GB</td><td>2025-07-09</td><td><a href="/hyperos/turner/stable/OS2.0.213.0.VAOCNXM/">Download</a></td></tr>
 <tr><td>Redmi K Pad China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.213.0.VAOCNXM</td><td>15.0</td><td>8.4 GB</td><td>2025-07-07</td><td><a href="/hyperos/turner/stable/OS2.0.213.0.VAOCNXM/">Download</a></td></tr>
-<tr><td>Redmi K Pad China</td><td>Stable</td><td>Recovery</td><td>OS2.0.211.0.VAOCNXM</td><td>15.0</td><td>7.3 GB</td><td>2025-06-27</td><td><a href="/hyperos/turner/stable/OS2.0.211.0.VAOCNXM/">Download</a></td></tr>
-<tr><td>Redmi K Pad China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.211.0.VAOCNXM</td><td>15.0</td><td>8.4 GB</td><td>2025-06-25</td><td><a href="/hyperos/turner/stable/OS2.0.211.0.VAOCNXM/">Download</a></td></tr>
 <tr><td>Redmi K Pad China</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WAOCNXM</td><td>16.0</td><td>7.4 GB</td><td>2025-10-28</td><td><a href="/hyperos/turner/stable/OS3.0.3.0.WAOCNXM/">Download</a></td></tr>
 <tr><td>Redmi K Pad China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WAOCNXM</td><td>16.0</td><td>8.5 GB</td><td>2025-10-24</td><td><a href="/hyperos/turner/stable/OS3.0.3.0.WAOCNXM/">Download</a></td></tr>
+<tr><td>Redmi K Pad China</td><td>Stable</td><td>Recovery</td><td>OS2.0.211.0.VAOCNXM</td><td>15.0</td><td>7.3 GB</td><td>2025-06-27</td><td><a href="/hyperos/turner/stable/OS2.0.211.0.VAOCNXM/">Download</a></td></tr>
+<tr><td>Redmi K Pad China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.211.0.VAOCNXM</td><td>15.0</td><td>8.4 GB</td><td>2025-06-25</td><td><a href="/hyperos/turner/stable/OS2.0.211.0.VAOCNXM/">Download</a></td></tr>
 <tr><td>Redmi K Pad China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VAOCNXM</td><td>15.0</td><td>8.4 GB</td><td>2025-06-11</td><td><a href="/hyperos/turner/stable/OS2.0.206.0.VAOCNXM/">Download</a></td></tr>
 <tr><td>Redmi K Pad China</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VAOCNXM</td><td>15.0</td><td>7.3 GB</td><td>2025-06-26</td><td><a href="/hyperos/turner/stable/OS2.0.206.0.VAOCNXM/">Download</a></td></tr>
 <tr><td>Redmi K Pad China</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VAOCNXM</td><td>15.0</td><td>7.3 GB</td><td>2025-06-26</td><td><a href="/hyperos/turner/stable/OS2.0.208.0.VAOCNXM/">Download</a></td></tr>
