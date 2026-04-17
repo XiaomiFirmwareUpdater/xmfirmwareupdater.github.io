@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 17 Apr 2026 07:30:50 </lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 12:57:23 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS3.0.3.0.WPWMIXM</title>
@@ -39,6 +39,11 @@
         <item>
             <title>Redmi Pad 2 (taiko) - OS3.0.2.0.WOVINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
+            <pubDate>Fri, 17 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.302.0.WNKCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Fri, 17 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1204,11 +1209,6 @@
         <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.10.0.UMOINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.9.0.WNKCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Wed, 25 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
