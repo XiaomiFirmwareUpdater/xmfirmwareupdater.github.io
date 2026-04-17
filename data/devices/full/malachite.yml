@@ -419,6 +419,36 @@
     android: '15.0'
     miui: OS2.0.208.0.VOOMIXM
 - branch: stable
+  date: '2026-04-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-17.04.2026/fw_malachite_malachite_eea_global-ota_full-OS3.0.5.0.WOOEUXM-user-16.0-18736eea25.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/malachite/fw_malachite_malachite_eea_global-ota_full-OS3.0.5.0.WOOEUXM-user-16.0-18736eea25.zip
+  filename: fw_malachite_malachite_eea_global-ota_full-OS3.0.5.0.WOOEUXM-user-16.0-18736eea25.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.5.0.WOOEUXM
+- branch: stable
+  date: '2026-04-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-17.04.2026/fw_malachite_malachite_global-ota_full-OS3.0.11.0.WOOMIXM-user-16.0-392b868464.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/malachite/fw_malachite_malachite_global-ota_full-OS3.0.11.0.WOOMIXM-user-16.0-392b868464.zip
+  filename: fw_malachite_malachite_global-ota_full-OS3.0.11.0.WOOMIXM-user-16.0-392b868464.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.11.0.WOOMIXM
+- branch: stable
+  date: '2026-04-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-17.04.2026/fw_malachite_malachite_in_global-ota_full-OS3.0.6.0.WOOINXM-user-16.0-bb442c48cf.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/malachite/fw_malachite_malachite_in_global-ota_full-OS3.0.6.0.WOOINXM-user-16.0-bb442c48cf.zip
+  filename: fw_malachite_malachite_in_global-ota_full-OS3.0.6.0.WOOINXM-user-16.0-bb442c48cf.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.6.0.WOOINXM
+- branch: stable
   date: '2025-01-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-17.01.2025/fw_malachite_miui_MALACHITEEEAGlobal_OS1.0.6.0.UOOEUXM_3641168ec7_14.0.zip

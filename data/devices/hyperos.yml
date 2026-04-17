@@ -7438,6 +7438,12 @@
   download: https://bigota.d.miui.com/OS3.0.5.0.WPWEUXM/fw_flute_flute_eea_global-ota_full-OS3.0.5.0.WPWEUXM-user-16.0-60815844bc.zip
   name: Redmi Pad 2 Pro/POCO Pad M1
   version: OS3.0.5.0.WPWEUXM
+- android: '16.0'
+  codename: flute
+  date: '2026-04-17'
+  download: https://bigota.d.miui.com/OS3.0.3.0.WPWMIXM/fw_flute_flute_global-ota_full-OS3.0.3.0.WPWMIXM-user-16.0-230782daf4.zip
+  name: Redmi Pad 2 Pro/POCO Pad M1
+  version: OS3.0.3.0.WPWMIXM
 - android: '15.0'
   codename: flute
   date: '2026-01-17'
@@ -12640,6 +12646,24 @@
   download: https://bigota.d.miui.com/OS2.0.208.0.VOOMIXM/fw_malachite_malachite_global-ota_full-OS2.0.208.0.VOOMIXM-user-15.0-4b22dfd9d8.zip
   name: Redmi Note 14 Pro 5G/POCO X7
   version: OS2.0.208.0.VOOMIXM
+- android: '16.0'
+  codename: malachite
+  date: '2026-04-17'
+  download: https://bigota.d.miui.com/OS3.0.5.0.WOOEUXM/fw_malachite_malachite_eea_global-ota_full-OS3.0.5.0.WOOEUXM-user-16.0-18736eea25.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS3.0.5.0.WOOEUXM
+- android: '16.0'
+  codename: malachite
+  date: '2026-04-17'
+  download: https://bigota.d.miui.com/OS3.0.11.0.WOOMIXM/fw_malachite_malachite_global-ota_full-OS3.0.11.0.WOOMIXM-user-16.0-392b868464.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS3.0.11.0.WOOMIXM
+- android: '16.0'
+  codename: malachite
+  date: '2026-04-17'
+  download: https://bigota.d.miui.com/OS3.0.6.0.WOOINXM/fw_malachite_malachite_in_global-ota_full-OS3.0.6.0.WOOINXM-user-16.0-bb442c48cf.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS3.0.6.0.WOOINXM
 - android: '14.0'
   codename: malachite
   date: '2025-01-17'
@@ -16516,6 +16540,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VPXINXM/fw_organ_organ_in_global-ota_full-OS2.0.202.0.VPXINXM-user-15.0-d88c711cf8.zip
   name: Redmi Pad 2 Pro 5G
   version: OS2.0.202.0.VPXINXM
+- android: '16.0'
+  codename: organ
+  date: '2026-04-17'
+  download: https://bigota.d.miui.com/OS3.0.5.0.WPXMIXM/fw_organ_organ_global-ota_full-OS3.0.5.0.WPXMIXM-user-16.0-348c87eeff.zip
+  name: Redmi Pad 2 Pro 5G
+  version: OS3.0.5.0.WPXMIXM
 - android: '16.0'
   codename: organ
   date: '2026-03-16'
@@ -23926,6 +23956,18 @@
   download: https://bigota.d.miui.com/OS2.0.206.0.VOVINXM/fw_taiko_taiko_in_global-ota_full-OS2.0.206.0.VOVINXM-user-15.0-ebb70f2f26.zip
   name: Redmi Pad 2
   version: OS2.0.206.0.VOVINXM
+- android: '16.0'
+  codename: taiko
+  date: '2026-04-17'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WOVMIXM/fw_taiko_taiko_global-ota_full-OS3.0.4.0.WOVMIXM-user-16.0-a0c5f39c38.zip
+  name: Redmi Pad 2
+  version: OS3.0.4.0.WOVMIXM
+- android: '16.0'
+  codename: taiko
+  date: '2026-04-17'
+  download: https://bigota.d.miui.com/OS3.0.2.0.WOVINXM/fw_taiko_taiko_in_global-ota_full-OS3.0.2.0.WOVINXM-user-16.0-34ff08b501.zip
+  name: Redmi Pad 2
+  version: OS3.0.2.0.WOVINXM
 - android: '15.0'
   codename: taiko
   date: '2025-08-14'

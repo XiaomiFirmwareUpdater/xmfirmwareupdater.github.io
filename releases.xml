@@ -4,8 +4,43 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 17 Apr 2026 01:31:39 </lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 07:30:50 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS3.0.3.0.WPWMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flute/</link>
+            <pubDate>Fri, 17 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.11.0.WOOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
+            <pubDate>Fri, 17 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.5.0.WOOEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
+            <pubDate>Fri, 17 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.6.0.WOOINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
+            <pubDate>Fri, 17 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad 2 Pro 5G (organ) - OS3.0.5.0.WPXMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/organ/</link>
+            <pubDate>Fri, 17 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad 2 (taiko) - OS3.0.4.0.WOVMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
+            <pubDate>Fri, 17 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad 2 (taiko) - OS3.0.2.0.WOVINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
+            <pubDate>Fri, 17 Apr 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 15 Pro 5G (lapis) - OS3.0.2.0.WPPEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
@@ -762,11 +797,6 @@
             <pubDate>Wed, 18 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad 2 (taiko) - OS3.0.3.0.WOVMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
-            <pubDate>Wed, 18 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.3.0.WPLMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dash/</link>
             <pubDate>Tue, 17 Mar 2026 00:00:00 </pubDate>
@@ -807,11 +837,6 @@
             <pubDate>Mon, 16 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.5.0.WOOINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
-            <pubDate>Mon, 16 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad 2 Pro 5G (organ) - OS3.0.1.0.WPXINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/organ/</link>
             <pubDate>Mon, 16 Mar 2026 00:00:00 </pubDate>
@@ -849,11 +874,6 @@
         <item>
             <title>Xiaomi 13 (fuxi) - OS3.0.4.0.WMCMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Fri, 13 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.4.0.WOOEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
             <pubDate>Fri, 13 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -952,11 +972,6 @@
             <pubDate>Sun, 08 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.10.0.WOOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
-            <pubDate>Fri, 06 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K80/POCO F7 Pro (zorn) - OS3.0.4.0.WOKEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zorn/</link>
             <pubDate>Fri, 06 Mar 2026 00:00:00 </pubDate>
@@ -992,18 +1007,8 @@
             <pubDate>Wed, 04 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS3.0.2.0.WPWMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flute/</link>
-            <pubDate>Wed, 04 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS3.0.2.0.WPWINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flute/</link>
-            <pubDate>Wed, 04 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad 2 Pro 5G (organ) - OS3.0.4.0.WPXMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/organ/</link>
             <pubDate>Wed, 04 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1339,11 +1344,6 @@
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS3.0.5.0.VMNCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
-            <pubDate>Mon, 09 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad 2 (taiko) - OS3.0.1.0.WOVINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
             <pubDate>Mon, 09 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
