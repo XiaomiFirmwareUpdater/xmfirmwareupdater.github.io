@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 18 Apr 2026 12:40:25 </lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 18:51:16 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 15 Pro 5G (lapis) - OS3.0.302.0.WPPCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
+            <pubDate>Sat, 18 Apr 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS3.0.6.0.WGUINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flame/</link>
@@ -1339,11 +1344,6 @@
         <item>
             <title>Xiaomi 14 (houji) - OS3.0.4.0.WNCINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/houji/</link>
-            <pubDate>Mon, 09 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 Pro 5G (lapis) - OS3.0.7.0.WPPCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
             <pubDate>Mon, 09 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>

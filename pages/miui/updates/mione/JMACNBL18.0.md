@@ -59,7 +59,7 @@ permalink: /miui/mione/stable/JMACNBL18.0/
                     <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>280.0 MB</h5>
+                    <h5><b>Size: </b>279.7 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2015-04-12</h5>
