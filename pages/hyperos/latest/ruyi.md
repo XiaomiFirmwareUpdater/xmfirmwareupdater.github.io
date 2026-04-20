@@ -53,8 +53,8 @@ permalink: /hyperos/ruyi/
                 </thead>
                 <tbody>
                 <tr><td>MIX Flip China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.7.0.WNICNXM</td><td>16.0</td><td>9.7 GB</td><td>2026-01-27</td><td><a href="/hyperos/ruyi/stable/OS3.0.7.0.WNICNXM/">Download</a></td></tr>
-<tr><td>MIX Flip China</td><td>Stable</td><td>Recovery</td><td>OS3.0.7.0.WNICNXM</td><td>16.0</td><td>7.7 GB</td><td>2026-02-03</td><td><a href="/hyperos/ruyi/stable/OS3.0.7.0.WNICNXM/">Download</a></td></tr>
-<tr><td>MIX Flip China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WNICNXM</td><td>16.0</td><td>7.7 GB</td><td>2026-04-10</td><td><a href="/hyperos/ruyi/stable beta/OS3.0.302.0.WNICNXM/">Download</a></td></tr>
+<tr><td>MIX Flip China</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WNICNXM</td><td>16.0</td><td>7.7 GB</td><td>2026-04-10</td><td><a href="/hyperos/ruyi/stable/OS3.0.302.0.WNICNXM/">Download</a></td></tr>
+<tr><td>MIX Flip China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.3.0.UNICNXM</td><td>14.0</td><td>6.9 GB</td><td>2024-07-21</td><td><a href="/hyperos/ruyi/stable beta/OS1.0.3.0.UNICNXM/">Download</a></td></tr>
 <tr><td>MIX Flip EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WNIEUXM</td><td>16.0</td><td>8.4 GB</td><td>2025-12-24</td><td><a href="/hyperos/ruyi/stable/OS3.0.4.0.WNIEUXM/">Download</a></td></tr>
 <tr><td>MIX Flip EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WNIEUXM</td><td>16.0</td><td>7.1 GB</td><td>2026-01-13</td><td><a href="/hyperos/ruyi/stable/OS3.0.4.0.WNIEUXM/">Download</a></td></tr>
 <tr><td>MIX Flip Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WNIMIXM</td><td>16.0</td><td>8.4 GB</td><td>2025-12-16</td><td><a href="/hyperos/ruyi/stable/OS3.0.4.0.WNIMIXM/">Download</a></td></tr>
@@ -62,7 +62,7 @@ permalink: /hyperos/ruyi/
 <tr><td>MIX Flip Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WNIRUXM</td><td>16.0</td><td>9.3 GB</td><td>2026-02-25</td><td><a href="/hyperos/ruyi/stable/OS3.0.4.0.WNIRUXM/">Download</a></td></tr>
 <tr><td>MIX Flip Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WNIRUXM</td><td>16.0</td><td>7.0 GB</td><td>2026-03-24</td><td><a href="/hyperos/ruyi/stable/OS3.0.4.0.WNIRUXM/">Download</a></td></tr>
 <tr><td>MIX Flip Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VNITWXM</td><td>15.0</td><td>7.7 GB</td><td>2025-11-04</td><td><a href="/hyperos/ruyi/stable/OS2.0.208.0.VNITWXM/">Download</a></td></tr>
-<tr><td>MIX Flip Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WNITWXM</td><td>16.0</td><td>6.9 GB</td><td>2025-12-30</td><td><a href="/hyperos/ruyi/stable/OS3.0.1.0.WNITWXM/">Download</a></td></tr>
+<tr><td>MIX Flip Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VNITWXM</td><td>15.0</td><td>6.8 GB</td><td>2025-11-13</td><td><a href="/hyperos/ruyi/stable/OS2.0.208.0.VNITWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
