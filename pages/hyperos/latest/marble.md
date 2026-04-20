@@ -63,11 +63,12 @@ permalink: /hyperos/marble/
 <tr><td>POCO F5 India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VMRINXM</td><td>15.0</td><td>6.8 GB</td><td>2026-01-23</td><td><a href="/hyperos/marble/stable/OS2.0.208.0.VMRINXM/">Download</a></td></tr>
 <tr><td>POCO F5 India</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VMRINXM</td><td>15.0</td><td>5.4 GB</td><td>2026-02-03</td><td><a href="/hyperos/marble/stable/OS2.0.208.0.VMRINXM/">Download</a></td></tr>
 <tr><td>POCO F5 Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VMRRUXM</td><td>15.0</td><td>8.5 GB</td><td>2026-01-23</td><td><a href="/hyperos/marble/stable/OS2.0.208.0.VMRRUXM/">Download</a></td></tr>
+<tr><td>POCO F5 Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VMRRUXM</td><td>15.0</td><td>5.5 GB</td><td>2026-02-04</td><td><a href="/hyperos/marble/stable/OS2.0.208.0.VMRRUXM/">Download</a></td></tr>
 <tr><td>POCO F5 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.211.0.VMRTRXM</td><td>15.0</td><td>7.6 GB</td><td>2026-01-23</td><td><a href="/hyperos/marble/stable/OS2.0.211.0.VMRTRXM/">Download</a></td></tr>
 <tr><td>POCO F5 Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.211.0.VMRTRXM</td><td>15.0</td><td>5.6 GB</td><td>2026-02-04</td><td><a href="/hyperos/marble/stable/OS2.0.211.0.VMRTRXM/">Download</a></td></tr>
 <tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.211.0.VMRTWXM</td><td>15.0</td><td>6.8 GB</td><td>2026-01-24</td><td><a href="/hyperos/marble/stable/OS2.0.211.0.VMRTWXM/">Download</a></td></tr>
 <tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.211.0.VMRTWXM</td><td>15.0</td><td>5.5 GB</td><td>2026-02-04</td><td><a href="/hyperos/marble/stable/OS2.0.211.0.VMRTWXM/">Download</a></td></tr>
-<tr><td>POCO F5 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.VMRRUXM</td><td>15.0</td><td>5.6 GB</td><td>2026-04-01</td><td><a href="/hyperos/marble/stable/OS3.0.1.0.VMRRUXM/">Download</a></td></tr>
+<tr><td>POCO F5 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.1.0.VMRTWXM</td><td>15.0</td><td>5.6 GB</td><td>2026-04-16</td><td><a href="/hyperos/marble/stable beta/OS3.0.1.0.VMRTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

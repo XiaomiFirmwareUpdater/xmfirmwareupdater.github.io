@@ -529,15 +529,15 @@
     android: '16.0'
     miui: OS3.0.6.0.WOQCNXM
 - branch: stable
-  date: '2026-02-25'
+  date: '2026-04-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-25.02.2026/fw_beryl_beryl_eea_global-ota_full-OS2.0.210.0.VOQEUXM-user-15.0-16267a0502.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/beryl/fw_beryl_beryl_eea_global-ota_full-OS2.0.210.0.VOQEUXM-user-15.0-16267a0502.zip
-  filename: fw_beryl_beryl_eea_global-ota_full-OS2.0.210.0.VOQEUXM-user-15.0-16267a0502.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-20.04.2026/fw_beryl_beryl_eea_global-ota_full-OS3.0.2.0.WOQEUXM-user-16.0-505b7f81f5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/beryl/fw_beryl_beryl_eea_global-ota_full-OS3.0.2.0.WOQEUXM-user-16.0-505b7f81f5.zip
+  filename: fw_beryl_beryl_eea_global-ota_full-OS3.0.2.0.WOQEUXM-user-16.0-505b7f81f5.zip
   region: Europe
   versions:
-    android: '15.0'
-    miui: OS2.0.210.0.VOQEUXM
+    android: '16.0'
+    miui: OS3.0.2.0.WOQEUXM
 - branch: stable
   date: '2026-04-01'
   downloads:
@@ -2649,15 +2649,15 @@
     android: '16.0'
     miui: OS3.0.6.0.WNCMIXM
 - branch: stable
-  date: '2026-03-02'
+  date: '2026-04-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-02.03.2026/fw_houji_houji-ota_full-OS3.0.7.0.WNCCNXM-user-16.0-2a07e577ea.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji-ota_full-OS3.0.7.0.WNCCNXM-user-16.0-2a07e577ea.zip
-  filename: fw_houji_houji-ota_full-OS3.0.7.0.WNCCNXM-user-16.0-2a07e577ea.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-20.04.2026/fw_houji_houji-ota_full-OS3.0.302.0.WNCCNXM-user-16.0-bd355440dc.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji-ota_full-OS3.0.302.0.WNCCNXM-user-16.0-bd355440dc.zip
+  filename: fw_houji_houji-ota_full-OS3.0.302.0.WNCCNXM-user-16.0-bd355440dc.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.7.0.WNCCNXM
+    miui: OS3.0.302.0.WNCCNXM
 - branch: stable
   date: '2026-02-09'
   downloads:
@@ -2819,15 +2819,15 @@
     android: '16.0'
     miui: OS3.0.4.0.WMAMIXM
 - branch: stable
-  date: '2026-02-06'
+  date: '2026-04-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-06.02.2026/fw_ishtar_ishtar-ota_full-OS3.0.4.0.WMACNXM-user-16.0-5bfdd1e4f5.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ishtar/fw_ishtar_ishtar-ota_full-OS3.0.4.0.WMACNXM-user-16.0-5bfdd1e4f5.zip
-  filename: fw_ishtar_ishtar-ota_full-OS3.0.4.0.WMACNXM-user-16.0-5bfdd1e4f5.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-20.04.2026/fw_ishtar_ishtar-ota_full-OS3.0.303.0.WMACNXM-user-16.0-0d3948d738.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ishtar/fw_ishtar_ishtar-ota_full-OS3.0.303.0.WMACNXM-user-16.0-0d3948d738.zip
+  filename: fw_ishtar_ishtar-ota_full-OS3.0.303.0.WMACNXM-user-16.0-0d3948d738.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.4.0.WMACNXM
+    miui: OS3.0.303.0.WMACNXM
 - branch: stable
   date: '2026-03-23'
   downloads:
@@ -4679,15 +4679,15 @@
     android: '16.0'
     miui: OS3.0.306.0.WBLCNXM
 - branch: stable
-  date: '2026-02-04'
+  date: '2026-04-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pearl/releases/download/stable-05.02.2026/fw_pearl_pearl-ota_full-OS3.0.1.0.VLHCNXM-user-15.0-463b1f3467.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/pearl/fw_pearl_pearl-ota_full-OS3.0.1.0.VLHCNXM-user-15.0-463b1f3467.zip
-  filename: fw_pearl_pearl-ota_full-OS3.0.1.0.VLHCNXM-user-15.0-463b1f3467.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pearl/releases/download/stable-20.04.2026/fw_pearl_pearl-ota_full-OS3.0.3.0.VLHCNXM-user-15.0-b919fdadf8.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/pearl/fw_pearl_pearl-ota_full-OS3.0.3.0.VLHCNXM-user-15.0-b919fdadf8.zip
+  filename: fw_pearl_pearl-ota_full-OS3.0.3.0.VLHCNXM-user-15.0-b919fdadf8.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS3.0.1.0.VLHCNXM
+    miui: OS3.0.3.0.VLHCNXM
 - branch: stable
   date: '2026-04-13'
   downloads:

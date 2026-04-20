@@ -54,8 +54,8 @@ permalink: /hyperos/beryl/
                 <tbody>
                 <tr><td>Redmi Note 14 5G China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WOQCNXM</td><td>16.0</td><td>8.6 GB</td><td>2026-02-06</td><td><a href="/hyperos/beryl/stable/OS3.0.6.0.WOQCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WOQCNXM</td><td>16.0</td><td>6.4 GB</td><td>2026-02-11</td><td><a href="/hyperos/beryl/stable/OS3.0.6.0.WOQCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 5G / POCO M7 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.210.0.VOQEUXM</td><td>15.0</td><td>7.6 GB</td><td>2026-01-23</td><td><a href="/hyperos/beryl/stable/OS2.0.210.0.VOQEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 5G / POCO M7 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.210.0.VOQEUXM</td><td>15.0</td><td>5.3 GB</td><td>2026-01-29</td><td><a href="/hyperos/beryl/stable/OS2.0.210.0.VOQEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 5G / POCO M7 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WOQEUXM</td><td>16.0</td><td>8.6 GB</td><td>2026-03-12</td><td><a href="/hyperos/beryl/stable/OS3.0.2.0.WOQEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 5G / POCO M7 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WOQEUXM</td><td>16.0</td><td>6.1 GB</td><td>2026-03-23</td><td><a href="/hyperos/beryl/stable/OS3.0.2.0.WOQEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 5G / POCO M7 Pro 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.211.0.VOQMIXM</td><td>15.0</td><td>8.7 GB</td><td>2026-01-30</td><td><a href="/hyperos/beryl/stable/OS2.0.211.0.VOQMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 5G / POCO M7 Pro 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.211.0.VOQMIXM</td><td>15.0</td><td>5.3 GB</td><td>2026-02-06</td><td><a href="/hyperos/beryl/stable/OS2.0.211.0.VOQMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 5G / POCO M7 Pro 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VOQIDXM</td><td>15.0</td><td>7.8 GB</td><td>2026-03-03</td><td><a href="/hyperos/beryl/stable/OS2.0.207.0.VOQIDXM/">Download</a></td></tr>
