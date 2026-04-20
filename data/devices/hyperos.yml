@@ -2530,6 +2530,12 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VPFMIDM/fw_charoite_charoite_global-ota_full-OS2.0.203.0.VPFMIDM-user-15.0-e40b88515a.zip
   name: Redmi Note 15 Pro 4G
   version: OS2.0.203.0.VPFMIDM
+- android: '16.0'
+  codename: charoite
+  date: '2026-04-20'
+  download: https://bigota.d.miui.com/OS3.0.1.0.WPFEUXM/fw_charoite_charoite_eea_global-ota_full-OS3.0.1.0.WPFEUXM-user-16.0-6afd343915.zip
+  name: Redmi Note 15 Pro 4G
+  version: OS3.0.1.0.WPFEUXM
 - android: '15.0'
   codename: charoite
   date: '2026-01-12'
@@ -10126,6 +10132,18 @@
   download: https://bigota.d.miui.com/OS1.0.15.0.UNCMIXM/fw_houji_miui_HOUJIGlobal_OS1.0.15.0.UNCMIXM_17e1f93655_14.0.zip
   name: Xiaomi 14
   version: OS1.0.15.0.UNCMIXM
+- android: '16.0'
+  codename: houji
+  date: '2026-04-20'
+  download: https://bigota.d.miui.com/OS3.0.8.0.WNCEUXM/fw_houji_houji_eea_global-ota_full-OS3.0.8.0.WNCEUXM-user-16.0-1f54e73536.zip
+  name: Xiaomi 14
+  version: OS3.0.8.0.WNCEUXM
+- android: '16.0'
+  codename: houji
+  date: '2026-04-20'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WNCMIXM/fw_houji_houji_global-ota_full-OS3.0.301.0.WNCMIXM-user-16.0-905b3920ab.zip
+  name: Xiaomi 14
+  version: OS3.0.301.0.WNCMIXM
 - android: '15.0'
   codename: houji
   date: '2025-03-21'
@@ -20782,6 +20800,18 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UMOMIXM/fw_ruby_miui_RUBYGlobal_OS1.0.10.0.UMOMIXM_c519623b8b_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: OS1.0.10.0.UMOMIXM
+- android: '14.0'
+  codename: ruby
+  date: '2026-04-20'
+  download: https://bigota.d.miui.com/OS2.0.14.0.UMOEUXM/fw_ruby_ruby_eea_global-ota_full-OS2.0.14.0.UMOEUXM-user-14.0-75c0db9e62.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS2.0.14.0.UMOEUXM
+- android: '14.0'
+  codename: ruby
+  date: '2026-04-20'
+  download: https://bigota.d.miui.com/OS2.0.12.0.UMOMIXM/fw_ruby_ruby_global-ota_full-OS2.0.12.0.UMOMIXM-user-14.0-13585a4a50.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS2.0.12.0.UMOMIXM
 - android: '14.0'
   codename: ruby
   date: '2024-08-19'

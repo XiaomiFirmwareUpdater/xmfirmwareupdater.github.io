@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 20 Apr 2026 18:42:34 </lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 01:21:15 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>MIX Fold 3 (babylon) - OS3.0.302.0.WMVCNXM</title>
@@ -17,12 +17,27 @@
             <pubDate>Mon, 20 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Note 15 Pro 4G (charoite) - OS3.0.1.0.WPFEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/charoite/</link>
+            <pubDate>Mon, 20 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Xiaomi 15 Pro (haotian) - OS3.0.302.0.WOBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/haotian/</link>
             <pubDate>Mon, 20 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 14 (houji) - OS3.0.301.0.WNCMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Mon, 20 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Xiaomi 14 (houji) - OS3.0.302.0.WNCCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Mon, 20 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 (houji) - OS3.0.8.0.WNCEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/houji/</link>
             <pubDate>Mon, 20 Apr 2026 00:00:00 </pubDate>
         </item>
@@ -39,6 +54,16 @@
         <item>
             <title>Redmi Note 12T Pro (pearl) - OS3.0.3.0.VLHCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pearl/</link>
+            <pubDate>Mon, 20 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.12.0.UMOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Mon, 20 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.14.0.UMOEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Mon, 20 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1007,11 +1032,6 @@
             <pubDate>Mon, 09 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.11.0.UMOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Mon, 09 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS2.0.207.0.VMWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sky/</link>
             <pubDate>Mon, 09 Mar 2026 00:00:00 </pubDate>
@@ -1207,11 +1227,6 @@
             <pubDate>Thu, 26 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.13.0.UMOEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
-            <pubDate>Thu, 26 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.4.0.WOPCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
             <pubDate>Wed, 25 Feb 2026 00:00:00 </pubDate>
@@ -1249,11 +1264,6 @@
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS3.0.6.0.WNAMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Tue, 24 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 Pro 4G (charoite) - OS2.0.207.0.VPFEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/charoite/</link>
             <pubDate>Tue, 24 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1344,16 +1354,6 @@
         <item>
             <title>Xiaomi 15 (dada) - OS3.0.6.0.WOCMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dada/</link>
-            <pubDate>Mon, 09 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 (houji) - OS3.0.6.0.WNCMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/houji/</link>
-            <pubDate>Mon, 09 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 (houji) - OS3.0.7.0.WNCEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/houji/</link>
             <pubDate>Mon, 09 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
