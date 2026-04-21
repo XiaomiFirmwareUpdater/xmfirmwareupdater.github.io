@@ -52,8 +52,8 @@ permalink: /miui/gemini/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>MI 5 China</td><td>Stable</td><td>Fastboot</td><td>V10.2.1.0.OAACNXM</td><td>8.0</td><td>2.0 GB</td><td>2019-01-08</td><td><a href="/miui/gemini/stable/V10.2.1.0.OAACNXM/">Download</a></td></tr>
-<tr><td>MI 5 China</td><td>Stable</td><td>Recovery</td><td>V10.2.1.0.OAACNXM</td><td>8.0</td><td>1.8 GB</td><td>2019-01-08</td><td><a href="/miui/gemini/stable/V10.2.1.0.OAACNXM/">Download</a></td></tr>
+                <tr><td>MI 5 China</td><td>Stable</td><td>Fastboot</td><td>V10.2.1.0.OAACNXM</td><td>8.0</td><td>1.9 GB</td><td>2019-01-08</td><td><a href="/miui/gemini/stable/V10.2.1.0.OAACNXM/">Download</a></td></tr>
+<tr><td>MI 5 China</td><td>Stable</td><td>Recovery</td><td>V10.2.1.0.OAACNXM</td><td>8.0</td><td>1.7 GB</td><td>2019-01-07</td><td><a href="/miui/gemini/stable/V10.2.1.0.OAACNXM/">Download</a></td></tr>
 <tr><td>MI 5 China</td><td>Weekly</td><td>Fastboot</td><td>8.11.22</td><td>8.0</td><td>2.0 GB</td><td>2018-11-23</td><td><a href="/miui/gemini/weekly/8.11.22/">Download</a></td></tr>
 <tr><td>MI 5 China</td><td>Weekly</td><td>Recovery</td><td>8.11.22</td><td>8.0</td><td>1.7 GB</td><td>2018-11-23</td><td><a href="/miui/gemini/weekly/8.11.22/">Download</a></td></tr>
 <tr><td>MI 5 Global</td><td>Weekly</td><td>Fastboot</td><td>8.11.22</td><td>8.0</td><td>1.8 GB</td><td>2018-11-23</td><td><a href="/miui/gemini/weekly/8.11.22/">Download</a></td></tr>
