@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 21 Apr 2026 01:21:15 </lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 06:49:49 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.303.0.WNLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Tue, 21 Apr 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>MIX Fold 3 (babylon) - OS3.0.302.0.WMVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
@@ -1324,11 +1329,6 @@
         <item>
             <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS3.0.10.0.WNUINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
-            <pubDate>Sun, 22 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.5.0.WNLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Sun, 22 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>

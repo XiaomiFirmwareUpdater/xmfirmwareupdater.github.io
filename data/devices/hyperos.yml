@@ -5584,6 +5584,12 @@
   download: https://bigota.d.miui.com/OS1.0.13.0.UNLMIXM/fw_duchamp_miui_DUCHAMPGlobal_OS1.0.13.0.UNLMIXM_36338c4caa_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS1.0.13.0.UNLMIXM
+- android: '16.0'
+  codename: duchamp
+  date: '2026-04-21'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WNLCNXM/fw_duchamp_duchamp-ota_full-OS3.0.303.0.WNLCNXM-user-16.0-6d0030ea4e.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS3.0.303.0.WNLCNXM
 - android: '15.0'
   codename: duchamp
   date: '2025-03-21'
