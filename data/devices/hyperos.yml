@@ -18490,6 +18490,12 @@
   download: https://bigota.d.miui.com/OS3.0.7.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.7.0.WPBCNXM-user-16.0-91a3c178bd.zip
   name: Xiaomi 17 Pro Max
   version: OS3.0.7.0.WPBCNXM
+- android: '16.0'
+  codename: prague
+  date: '2026-04-22'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WAACNXM/fw_prague_prague-ota_full-OS3.0.304.0.WAACNXM-user-16.0-a2f9190f86.zip
+  name: Redmi K90 Max
+  version: OS3.0.304.0.WAACNXM
 - android: '13.0'
   codename: psyche
   date: '2024-10-28'
@@ -27790,6 +27796,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VMUEUXM/fw_xun_eea_global_xun_eea_global-ota_full-OS2.0.202.0.VMUEUXM-user-15.0-c8453d83bd.zip
   name: Redmi Pad SE
   version: OS2.0.202.0.VMUEUXM
+- android: '16.0'
+  codename: yili
+  date: '2026-04-22'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WAKCNXM/fw_yili_yili-ota_full-OS3.0.301.0.WAKCNXM-user-16.0-61d5003cdc.zip
+  name: Redmi K Pad 2
+  version: OS3.0.301.0.WAKCNXM
 - android: '14.0'
   codename: yudi
   date: '2024-09-30'

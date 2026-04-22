@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 22 Apr 2026 00:50:07 </lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 07:03:58 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K90 Max (prague) - OS3.0.304.0.WAACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/prague/</link>
+            <pubDate>Wed, 22 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K Pad 2 (yili) - OS3.0.301.0.WAKCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/yili/</link>
+            <pubDate>Wed, 22 Apr 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.303.0.WNLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
