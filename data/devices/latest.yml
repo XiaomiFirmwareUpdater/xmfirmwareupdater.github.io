@@ -339,6 +339,16 @@
     android: '16.0'
     miui: OS3.0.6.0.WBVMIXM
 - branch: stable
+  date: '2026-04-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_arctic/releases/download/stable-23.04.2026/fw_arctic_arctic_eea_global-ota_full-OS3.0.5.0.WBVEUXM-user-16.0-506f1d713d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/arctic/fw_arctic_arctic_eea_global-ota_full-OS3.0.5.0.WBVEUXM-user-16.0-506f1d713d.zip
+  filename: fw_arctic_arctic_eea_global-ota_full-OS3.0.5.0.WBVEUXM-user-16.0-506f1d713d.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.5.0.WBVEUXM
+- branch: stable
   date: '2024-03-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-12.03.2024/fw_ares_miui_ARES_OS1.0.2.0.TKJCNXM_09a01a89e6_13.0.zip
@@ -1999,15 +2009,15 @@
     android: '16.0'
     miui: OS3.0.2.0.WHXMIXM
 - branch: stable
-  date: '2026-02-04'
+  date: '2026-04-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flare/releases/download/stable-04.02.2026/fw_flare_flare_id_global-ota_full-OS2.0.203.0.VHXIDXM-user-15.0-a80691c3cd.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/flare/fw_flare_flare_id_global-ota_full-OS2.0.203.0.VHXIDXM-user-15.0-a80691c3cd.zip
-  filename: fw_flare_flare_id_global-ota_full-OS2.0.203.0.VHXIDXM-user-15.0-a80691c3cd.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flare/releases/download/stable-23.04.2026/fw_flare_flare_id_global-ota_full-OS3.0.1.0.WHXIDXM-user-16.0-402a0a953a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/flare/fw_flare_flare_id_global-ota_full-OS3.0.1.0.WHXIDXM-user-16.0-402a0a953a.zip
+  filename: fw_flare_flare_id_global-ota_full-OS3.0.1.0.WHXIDXM-user-16.0-402a0a953a.zip
   region: China
   versions:
-    android: '15.0'
-    miui: OS2.0.203.0.VHXIDXM
+    android: '16.0'
+    miui: OS3.0.1.0.WHXIDXM
 - branch: stable
   date: '2026-03-30'
   downloads:

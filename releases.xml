@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 23 Apr 2026 07:04:52 </lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 13:02:14 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi A7 Pro/POCO C81 Pro (arctic) - OS3.0.5.0.WBVEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/arctic/</link>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE 8.7 5G (flare) - OS3.0.1.0.WHXIDXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Pad 2 4G (koto) - OS3.0.2.0.WOWINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/koto/</link>
@@ -1414,11 +1424,6 @@
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS3.0.1.0.VLFCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/diting/</link>
-            <pubDate>Wed, 04 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad SE 8.7 5G (flare) - OS2.0.203.0.VHXIDXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
             <pubDate>Wed, 04 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
