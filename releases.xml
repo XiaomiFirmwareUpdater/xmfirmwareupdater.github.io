@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 23 Apr 2026 00:49:50 </lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 07:04:52 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Pad 2 4G (koto) - OS3.0.2.0.WOWINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/koto/</link>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70 Pro (manet) - OS3.0.302.0.WNMCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/manet/</link>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad 2 (taiko) - OS3.0.5.0.WOVEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K90 Max (prague) - OS3.0.304.0.WAACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/prague/</link>
@@ -887,11 +902,6 @@
             <pubDate>Sat, 21 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad 2 (taiko) - OS3.0.4.0.WOVEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
-            <pubDate>Sat, 21 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS3.0.3.0.VLLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Sat, 21 Mar 2026 00:00:00 </pubDate>
@@ -1005,11 +1015,6 @@
             <title>Redmi Pad Pro 5G/POCO Pad 5G (ruan) - OS3.0.5.0.WFSMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruan/</link>
             <pubDate>Fri, 13 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad 2 4G (koto) - OS3.0.1.0.WOWINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/koto/</link>
-            <pubDate>Thu, 12 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Pad SE 8.7 5G (flare) - OS3.0.2.0.WHXMIXM</title>
@@ -1419,11 +1424,6 @@
         <item>
             <title>Xiaomi Pad 6 Pro (liuqin) - OS3.0.5.0.VMYCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/liuqin/</link>
-            <pubDate>Wed, 04 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70 Pro (manet) - OS3.0.9.0.WNMCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/manet/</link>
             <pubDate>Wed, 04 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
