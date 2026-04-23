@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 23 Apr 2026 13:02:14 </lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 18:37:54 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi A7 Pro/POCO C81 Pro (arctic) - OS3.0.5.0.WBVEUXM</title>
@@ -677,11 +677,6 @@
             <pubDate>Tue, 31 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12 Pro (zeus) - OS3.0.2.0.VLBINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Tue, 31 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad SE 8.7 5G (flare) - OS3.0.2.0.WHXEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flare/</link>
             <pubDate>Mon, 30 Mar 2026 00:00:00 </pubDate>
@@ -884,16 +879,6 @@
         <item>
             <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS3.0.7.0.WNXCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
-            <pubDate>Mon, 23 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Pro (zeus) - OS3.0.3.0.VLBMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Mon, 23 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Pro (zeus) - OS3.0.2.0.VLBEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Mon, 23 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1422,6 +1407,16 @@
             <pubDate>Thu, 05 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 12 Pro (zeus) - OS2.0.209.0.VLBMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
+            <pubDate>Thu, 05 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - OS2.0.211.0.VLBEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
+            <pubDate>Thu, 05 Feb 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS3.0.1.0.VLFCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/diting/</link>
             <pubDate>Wed, 04 Feb 2026 00:00:00 </pubDate>
@@ -1470,11 +1465,6 @@
             <title>Xiaomi 12 (cupid) - OS3.0.2.0.VLCCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/cupid/</link>
             <pubDate>Fri, 23 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Pro (zeus) - OS3.0.2.0.VLBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Thu, 22 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS2.0.14.0.UMSEUXM</title>
@@ -1605,6 +1595,11 @@
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS2.0.201.0.VMWINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sky/</link>
             <pubDate>Thu, 09 Oct 2025 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - OS2.0.206.0.VLBINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
+            <pubDate>Sun, 05 Oct 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS2.0.205.0.VMWCNXM</title>
@@ -2125,6 +2120,11 @@
             <title>Xiaomi Civi (mona) - OS1.0.2.0.TKVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/mona/</link>
             <pubDate>Mon, 26 Feb 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - OS1.0.2.0.ULBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
+            <pubDate>Sun, 04 Feb 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi 11 Lite 5G (renoir) - V14.0.7.0.TKIMIXM</title>
