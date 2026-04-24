@@ -52,7 +52,8 @@ permalink: /archive/hyperos/spinel/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 15 4G Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.212.0.VPGRUXM</td><td>15.0</td><td>4.8 GB</td><td>2026-04-15</td><td><a href="/hyperos/spinel/stable beta/OS2.0.212.0.VPGRUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 15 4G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.206.0.VPGTWXM</td><td>15.0</td><td>4.7 GB</td><td>2026-04-20</td><td><a href="/hyperos/spinel/stable beta/OS2.0.206.0.VPGTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 4G Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.212.0.VPGRUXM</td><td>15.0</td><td>4.8 GB</td><td>2026-04-15</td><td><a href="/hyperos/spinel/stable beta/OS2.0.212.0.VPGRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 4G Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VPGTRXM</td><td>15.0</td><td>4.8 GB</td><td>2026-04-09</td><td><a href="/hyperos/spinel/stable/OS2.0.204.0.VPGTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 4G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VPGTRXM</td><td>15.0</td><td>7.4 GB</td><td>2026-03-23</td><td><a href="/hyperos/spinel/stable/OS2.0.204.0.VPGTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 4G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VPGIDXM</td><td>15.0</td><td>4.8 GB</td><td>2026-04-09</td><td><a href="/hyperos/spinel/stable/OS2.0.206.0.VPGIDXM/">Download</a></td></tr>

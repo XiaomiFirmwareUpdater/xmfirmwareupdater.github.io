@@ -942,6 +942,18 @@
   version: OS3.0.8.0.WPKMIXM
 - android: '16.0'
   codename: arctic
+  date: '2026-04-24'
+  download: https://bigota.d.miui.com/OS3.0.6.0.WBVEUXM/fw_arctic_arctic_eea_global-ota_full-OS3.0.6.0.WBVEUXM-user-16.0-c8160c5f95.zip
+  name: Redmi A7 Pro/POCO C81 Pro
+  version: OS3.0.6.0.WBVEUXM
+- android: '16.0'
+  codename: arctic
+  date: '2026-04-24'
+  download: https://bigota.d.miui.com/OS3.0.2.0.WBVINXM/fw_arctic_arctic_in_global-ota_full-OS3.0.2.0.WBVINXM-user-16.0-1fe92770f9.zip
+  name: Redmi A7 Pro/POCO C81 Pro
+  version: OS3.0.2.0.WBVINXM
+- android: '16.0'
+  codename: arctic
   date: '2026-04-23'
   download: https://bigota.d.miui.com/OS3.0.5.0.WBVEUXM/fw_arctic_arctic_eea_global-ota_full-OS3.0.5.0.WBVEUXM-user-16.0-506f1d713d.zip
   name: Redmi A7 Pro/POCO C81 Pro
