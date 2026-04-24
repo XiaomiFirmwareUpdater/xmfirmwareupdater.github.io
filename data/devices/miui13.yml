@@ -6108,6 +6108,174 @@
   version: V13.1.5.0.SLYINXM
 - android: '12.0'
   codename: zeus
+  date: '2021-12-31'
+  download: https://bigota.d.miui.com/V13.0.10.0.SLBCNXM/fw_zeus_miui_ZEUS_V13.0.10.0.SLBCNXM_310771d8cf_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.10.0.SLBCNXM
+- android: '13.0'
+  codename: zeus
+  date: '2023-01-31'
+  download: https://bigota.d.miui.com/V13.2.8.0.TLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V13.2.8.0.TLBEUXM_38792cb870_13.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.2.8.0.TLBEUXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-10-29'
+  download: https://bigota.d.miui.com/V13.0.9.0.SLBMIXM/fw_zeus_miui_ZEUSGlobal_V13.0.9.0.SLBMIXM_5a008a8076_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.9.0.SLBMIXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-07-29'
+  download: https://bigota.d.miui.com/V13.0.7.0.SLBMIXM/fw_zeus_miui_ZEUSGlobal_V13.0.7.0.SLBMIXM_6b702aa8e2_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.7.0.SLBMIXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-01-29'
+  download: https://bigota.d.miui.com/V13.0.23.0.SLBCNXM/fw_zeus_miui_ZEUS_V13.0.23.0.SLBCNXM_878e12bc9c_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.23.0.SLBCNXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-03-28'
+  download: https://bigota.d.miui.com/V13.0.14.0.SLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V13.0.14.0.SLBEUXM_ac7a931bbd_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.14.0.SLBEUXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-06-27'
+  download: https://bigota.d.miui.com/V13.0.36.0.SLBCNXM/fw_zeus_miui_ZEUS_V13.0.36.0.SLBCNXM_8a9ad9557d_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.36.0.SLBCNXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-04-25'
+  download: https://bigota.d.miui.com/V13.0.6.0.SLBMIXM/fw_zeus_miui_ZEUSGlobal_V13.0.6.0.SLBMIXM_35481701b3_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.6.0.SLBMIXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-09-22'
+  download: https://bigota.d.miui.com/V13.0.20.0.SLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V13.0.20.0.SLBEUXM_ff585d22b5_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.20.0.SLBEUXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-12-21'
+  download: https://bigota.d.miui.com/V13.0.29.0.SLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V13.0.29.0.SLBEUXM_88264a12e1_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.29.0.SLBEUXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-10-19'
+  download: https://bigota.d.miui.com/V13.0.9.0.SLBINXM/fw_zeus_miui_ZEUSINGlobal_V13.0.9.0.SLBINXM_b72d7ac8fd_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.9.0.SLBINXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-06-19'
+  download: https://bigota.d.miui.com/V13.0.33.0.SLBCNXM/fw_zeus_miui_ZEUS_V13.0.33.0.SLBCNXM_f7568400f7_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.33.0.SLBCNXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-01-19'
+  download: https://bigota.d.miui.com/V13.0.21.0.SLBCNXM/fw_zeus_miui_ZEUS_V13.0.21.0.SLBCNXM_dae35fa397_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.21.0.SLBCNXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-04-18'
+  download: https://bigota.d.miui.com/V13.0.16.0.SLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V13.0.16.0.SLBEUXM_db2b379891_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.16.0.SLBEUXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-02-18'
+  download: https://bigota.d.miui.com/V13.0.10.0.SLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V13.0.10.0.SLBEUXM_8af10526e8_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.10.0.SLBEUXM
+- android: '13.0'
+  codename: zeus
+  date: '2022-12-17'
+  download: https://bigota.d.miui.com/V13.2.4.0.TLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V13.2.4.0.TLBEUXM_ae529519f1_13.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.2.4.0.TLBEUXM
+- android: '13.0'
+  codename: zeus
+  date: '2022-08-17'
+  download: https://bigota.d.miui.com/V13.0.4.0.TLBMIXM/fw_zeus_miui_ZEUSGlobal_V13.0.4.0.TLBMIXM_bf23673ad2_13.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.4.0.TLBMIXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-03-17'
+  download: https://bigota.d.miui.com/V13.0.3.0.SLBMIXM/fw_zeus_miui_ZEUSGlobal_V13.0.3.0.SLBMIXM_91c62f666f_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.3.0.SLBMIXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-04-15'
+  download: https://bigota.d.miui.com/V13.0.30.0.SLBCNXM/fw_zeus_miui_ZEUS_V13.0.30.0.SLBCNXM_d60d892580_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.30.0.SLBCNXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-09-14'
+  download: https://bigota.d.miui.com/V13.0.39.0.SLBCNXM/fw_zeus_miui_ZEUS_V13.0.39.0.SLBCNXM_eb2bc0574b_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.39.0.SLBCNXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-10-13'
+  download: https://bigota.d.miui.com/V13.0.41.0.SLBCNXM/fw_zeus_miui_ZEUS_V13.0.41.0.SLBCNXM_feeaee9deb_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.41.0.SLBCNXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-07-11'
+  download: https://bigota.d.miui.com/V13.0.19.0.SLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V13.0.19.0.SLBEUXM_74dfa5425e_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.19.0.SLBEUXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-03-11'
+  download: https://bigota.d.miui.com/V13.0.28.0.SLBCNXM/fw_zeus_miui_ZEUS_V13.0.28.0.SLBCNXM_db86831e34_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.28.0.SLBCNXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-05-09'
+  download: https://bigota.d.miui.com/V13.0.4.0.SLBINXM/fw_zeus_miui_ZEUSINGlobal_V13.0.4.0.SLBINXM_9ba8c8e1c3_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.4.0.SLBINXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-12-08'
+  download: https://bigota.d.miui.com/V13.0.28.0.SLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V13.0.28.0.SLBEUXM_4a58293b57_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.28.0.SLBEUXM
+- android: '13.0'
+  codename: zeus
+  date: '2022-12-08'
+  download: https://bigota.d.miui.com/V13.2.7.0.TLBCNXM/fw_zeus_miui_ZEUS_V13.2.7.0.TLBCNXM_f8cfa489fb_13.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.2.7.0.TLBCNXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-11-07'
+  download: https://bigota.d.miui.com/V13.0.25.0.SLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V13.0.25.0.SLBEUXM_34cb82f91f_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.25.0.SLBEUXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-06-06'
+  download: https://bigota.d.miui.com/V13.0.5.0.SLBINXM/fw_zeus_miui_ZEUSINGlobal_V13.0.5.0.SLBINXM_3cacdd6497_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.5.0.SLBINXM
+- android: '12.0'
+  codename: zeus
   date: '2022-08-04'
   download: https://bigota.d.miui.com/V13.0.37.0.SLBCNXM/fw_zeus_miui_ZEUS_V13.0.37.0.SLBCNXM_46c0d55212_12.0.zip
   name: Xiaomi 12 Pro

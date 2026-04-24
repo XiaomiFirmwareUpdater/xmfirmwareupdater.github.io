@@ -52,7 +52,8 @@ permalink: /archive/hyperos/somalia/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO C85x 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.4.0.WBWINXM</td><td>16.0</td><td>4.6 GB</td><td>2026-04-15</td><td><a href="/hyperos/somalia/stable beta/OS3.0.4.0.WBWINXM/">Download</a></td></tr>
+                <tr><td>POCO C85x 5G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WBWINXM</td><td>16.0</td><td>4.6 GB</td><td>2026-04-15</td><td><a href="/hyperos/somalia/stable/OS3.0.4.0.WBWINXM/">Download</a></td></tr>
+<tr><td>POCO C85x 5G India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WBWINXM</td><td>16.0</td><td>6.6 GB</td><td>2026-03-05</td><td><a href="/hyperos/somalia/stable/OS3.0.4.0.WBWINXM/">Download</a></td></tr>
 <tr><td>POCO C85x 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.1.0.WBWINXM</td><td>16.0</td><td>4.6 GB</td><td>2026-03-12</td><td><a href="/hyperos/somalia/stable beta/OS3.0.1.0.WBWINXM/">Download</a></td></tr>
 <tr><td>POCO C85x 5G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WBWINXM</td><td>16.0</td><td>4.6 GB</td><td>2026-03-12</td><td><a href="/hyperos/somalia/stable/OS3.0.3.0.WBWINXM/">Download</a></td></tr>
 <tr><td>POCO C85x 5G India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WBWINXM</td><td>16.0</td><td>6.6 GB</td><td>2026-02-26</td><td><a href="/hyperos/somalia/stable/OS3.0.3.0.WBWINXM/">Download</a></td></tr>

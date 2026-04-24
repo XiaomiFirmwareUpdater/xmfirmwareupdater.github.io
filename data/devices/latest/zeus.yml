@@ -1,40 +1,40 @@
 - branch: stable
-  date: '2026-02-05'
+  date: '2026-03-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-05.02.2026/fw_zeus_zeus_global-ota_full-OS2.0.209.0.VLBMIXM-user-15.0-ad03b11299.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_zeus_global-ota_full-OS2.0.209.0.VLBMIXM-user-15.0-ad03b11299.zip
-  filename: fw_zeus_zeus_global-ota_full-OS2.0.209.0.VLBMIXM-user-15.0-ad03b11299.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-23.03.2026/fw_zeus_zeus_global-ota_full-OS3.0.3.0.VLBMIXM-user-15.0-5824dc992d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/zeus/fw_zeus_zeus_global-ota_full-OS3.0.3.0.VLBMIXM-user-15.0-5824dc992d.zip
+  filename: fw_zeus_zeus_global-ota_full-OS3.0.3.0.VLBMIXM-user-15.0-5824dc992d.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.209.0.VLBMIXM
+    miui: OS3.0.3.0.VLBMIXM
 - branch: stable
-  date: '2024-02-04'
+  date: '2026-01-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-04.02.2024/fw_zeus_miui_ZEUS_OS1.0.2.0.ULBCNXM_0ba0e58724_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/zeus/fw_zeus_miui_ZEUS_OS1.0.2.0.ULBCNXM_0ba0e58724_14.0.zip
-  filename: fw_zeus_miui_ZEUS_OS1.0.2.0.ULBCNXM_0ba0e58724_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-22.01.2026/fw_zeus_zeus-ota_full-OS3.0.2.0.VLBCNXM-user-15.0-ab85548585.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/zeus/fw_zeus_zeus-ota_full-OS3.0.2.0.VLBCNXM-user-15.0-ab85548585.zip
+  filename: fw_zeus_zeus-ota_full-OS3.0.2.0.VLBCNXM-user-15.0-ab85548585.zip
   region: China
   versions:
-    android: '14.0'
-    miui: OS1.0.2.0.ULBCNXM
+    android: '15.0'
+    miui: OS3.0.2.0.VLBCNXM
 - branch: stable
-  date: '2026-02-05'
+  date: '2026-03-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-05.02.2026/fw_zeus_zeus_eea_global-ota_full-OS2.0.211.0.VLBEUXM-user-15.0-d7efb8d8d9.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_zeus_eea_global-ota_full-OS2.0.211.0.VLBEUXM-user-15.0-d7efb8d8d9.zip
-  filename: fw_zeus_zeus_eea_global-ota_full-OS2.0.211.0.VLBEUXM-user-15.0-d7efb8d8d9.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-23.03.2026/fw_zeus_zeus_eea_global-ota_full-OS3.0.2.0.VLBEUXM-user-15.0-20838c8d44.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/zeus/fw_zeus_zeus_eea_global-ota_full-OS3.0.2.0.VLBEUXM-user-15.0-20838c8d44.zip
+  filename: fw_zeus_zeus_eea_global-ota_full-OS3.0.2.0.VLBEUXM-user-15.0-20838c8d44.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.211.0.VLBEUXM
+    miui: OS3.0.2.0.VLBEUXM
 - branch: stable
-  date: '2025-10-05'
+  date: '2026-03-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-05.10.2025/fw_zeus_zeus_in_global-ota_full-OS2.0.206.0.VLBINXM-user-15.0-5b6621588d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/zeus/fw_zeus_zeus_in_global-ota_full-OS2.0.206.0.VLBINXM-user-15.0-5b6621588d.zip
-  filename: fw_zeus_zeus_in_global-ota_full-OS2.0.206.0.VLBINXM-user-15.0-5b6621588d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-31.03.2026/fw_zeus_zeus_in_global-ota_full-OS3.0.2.0.VLBINXM-user-15.0-90ebcc873d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/zeus/fw_zeus_zeus_in_global-ota_full-OS3.0.2.0.VLBINXM-user-15.0-90ebcc873d.zip
+  filename: fw_zeus_zeus_in_global-ota_full-OS3.0.2.0.VLBINXM-user-15.0-90ebcc873d.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.206.0.VLBINXM
+    miui: OS3.0.2.0.VLBINXM
