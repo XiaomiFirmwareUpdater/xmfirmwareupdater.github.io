@@ -2980,6 +2980,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMLMIXM/fw_corot_miui_COROTGlobal_OS1.0.4.0.UMLMIXM_02e82e057a_14.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
   version: OS1.0.4.0.UMLMIXM
+- android: '16.0'
+  codename: corot
+  date: '2026-04-25'
+  download: https://bigota.d.miui.com/OS3.0.5.0.WMLEUXM/fw_corot_corot_eea_global-ota_full-OS3.0.5.0.WMLEUXM-user-16.0-5b33ededee.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS3.0.5.0.WMLEUXM
 - android: '15.0'
   codename: corot
   date: '2025-04-23'
@@ -4168,6 +4174,12 @@
   download: https://bigota.d.miui.com/OS3.0.301.0.WONCNXM/fw_dali_dali-ota_full-OS3.0.301.0.WONCNXM-user-16.0-6a71af98ec.zip
   name: Redmi K80 Ultra
   version: OS3.0.301.0.WONCNXM
+- android: '16.0'
+  codename: dash
+  date: '2026-04-25'
+  download: https://bigota.d.miui.com/OS3.0.3.0.WPLEUXM/fw_dash_dash_eea_global-ota_full-OS3.0.3.0.WPLEUXM-user-16.0-fda72667e9.zip
+  name: Redmi Turbo 5 Max/POCO X8 Pro Max
+  version: OS3.0.3.0.WPLEUXM
 - android: '16.0'
   codename: dash
   date: '2026-02-22'

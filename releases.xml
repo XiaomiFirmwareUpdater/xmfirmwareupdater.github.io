@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 25 Apr 2026 06:47:08 </lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 13:17:00 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS3.0.5.0.WMLEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/corot/</link>
+            <pubDate>Sat, 25 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.3.0.WPLEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dash/</link>
+            <pubDate>Sat, 25 Apr 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi A7 Pro/POCO C81 Pro (arctic) - OS3.0.6.0.WBVEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/arctic/</link>
@@ -967,11 +977,6 @@
             <pubDate>Tue, 17 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.2.0.WPLEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dash/</link>
-            <pubDate>Tue, 17 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS3.0.3.0.VLFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/diting/</link>
             <pubDate>Mon, 16 Mar 2026 00:00:00 </pubDate>
@@ -1370,11 +1375,6 @@
             <title>Redmi A4 5G/POCO C75 5G (warm) - OS3.0.3.0.WGVINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/warm/</link>
             <pubDate>Sun, 22 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS3.0.4.0.WMLEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Thu, 12 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS3.0.6.0.WNOCNXM</title>

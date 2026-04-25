@@ -1209,15 +1209,15 @@
     android: '16.0'
     miui: OS3.0.4.0.WMLCNXM
 - branch: stable
-  date: '2026-02-12'
+  date: '2026-04-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-12.02.2026/fw_corot_corot_eea_global-ota_full-OS3.0.4.0.WMLEUXM-user-16.0-b9ae9fd93a.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/corot/fw_corot_corot_eea_global-ota_full-OS3.0.4.0.WMLEUXM-user-16.0-b9ae9fd93a.zip
-  filename: fw_corot_corot_eea_global-ota_full-OS3.0.4.0.WMLEUXM-user-16.0-b9ae9fd93a.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-25.04.2026/fw_corot_corot_eea_global-ota_full-OS3.0.5.0.WMLEUXM-user-16.0-5b33ededee.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/corot/fw_corot_corot_eea_global-ota_full-OS3.0.5.0.WMLEUXM-user-16.0-5b33ededee.zip
+  filename: fw_corot_corot_eea_global-ota_full-OS3.0.5.0.WMLEUXM-user-16.0-5b33ededee.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.4.0.WMLEUXM
+    miui: OS3.0.5.0.WMLEUXM
 - branch: stable
   date: '2023-11-03'
   downloads:
@@ -1489,15 +1489,15 @@
     android: '16.0'
     miui: OS3.0.303.0.WPLCNXM
 - branch: stable
-  date: '2026-03-17'
+  date: '2026-04-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dash/releases/download/stable-17.03.2026/fw_dash_dash_eea_global-ota_full-OS3.0.2.0.WPLEUXM-user-16.0-1b5df667e0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dash/fw_dash_dash_eea_global-ota_full-OS3.0.2.0.WPLEUXM-user-16.0-1b5df667e0.zip
-  filename: fw_dash_dash_eea_global-ota_full-OS3.0.2.0.WPLEUXM-user-16.0-1b5df667e0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dash/releases/download/stable-25.04.2026/fw_dash_dash_eea_global-ota_full-OS3.0.3.0.WPLEUXM-user-16.0-fda72667e9.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dash/fw_dash_dash_eea_global-ota_full-OS3.0.3.0.WPLEUXM-user-16.0-fda72667e9.zip
+  filename: fw_dash_dash_eea_global-ota_full-OS3.0.3.0.WPLEUXM-user-16.0-fda72667e9.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.2.0.WPLEUXM
+    miui: OS3.0.3.0.WPLEUXM
 - branch: stable
   date: '2025-07-14'
   downloads:
