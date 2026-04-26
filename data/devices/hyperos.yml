@@ -2674,6 +2674,12 @@
   download: https://bigota.d.miui.com/OS2.0.107.0.VNJCNXM/fw_chenfeng_chenfeng-ota_full-OS2.0.107.0.VNJCNXM-user-15.0-b8a9b86d93.zip
   name: Xiaomi Civi 4 Pro
   version: OS2.0.107.0.VNJCNXM
+- android: '16.0'
+  codename: chenfeng
+  date: '2026-04-26'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WNJCNXM/fw_chenfeng_chenfeng-ota_full-OS3.0.304.0.WNJCNXM-user-16.0-17f7563110.zip
+  name: Xiaomi Civi 4 Pro
+  version: OS3.0.304.0.WNJCNXM
 - android: '15.0'
   codename: chenfeng
   date: '2024-12-25'
