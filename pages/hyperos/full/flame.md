@@ -52,7 +52,8 @@ permalink: /archive/hyperos/flame/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 14C 5G / POCO M7 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.6.0.WGUINXM</td><td>16.0</td><td>4.6 GB</td><td>2026-04-13</td><td><a href="/hyperos/flame/stable beta/OS3.0.6.0.WGUINXM/">Download</a></td></tr>
+                <tr><td>Redmi 14C 5G / POCO M7 5G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WGUINXM</td><td>16.0</td><td>4.6 GB</td><td>2026-04-13</td><td><a href="/hyperos/flame/stable/OS3.0.6.0.WGUINXM/">Download</a></td></tr>
+<tr><td>Redmi 14C 5G / POCO M7 5G India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WGUINXM</td><td>16.0</td><td>6.5 GB</td><td>2026-03-30</td><td><a href="/hyperos/flame/stable/OS3.0.6.0.WGUINXM/">Download</a></td></tr>
 <tr><td>Redmi 14C 5G / POCO M7 5G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WGUINXM</td><td>16.0</td><td>4.6 GB</td><td>2026-02-06</td><td><a href="/hyperos/flame/stable/OS3.0.5.0.WGUINXM/">Download</a></td></tr>
 <tr><td>Redmi 14C 5G / POCO M7 5G India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WGUINXM</td><td>16.0</td><td>6.5 GB</td><td>2026-01-21</td><td><a href="/hyperos/flame/stable/OS3.0.5.0.WGUINXM/">Download</a></td></tr>
 <tr><td>Redmi 14R 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WGUCNXM</td><td>16.0</td><td>4.7 GB</td><td>2026-01-30</td><td><a href="/hyperos/flame/stable/OS3.0.2.0.WGUCNXM/">Download</a></td></tr>
