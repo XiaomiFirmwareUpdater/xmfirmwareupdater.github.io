@@ -409,26 +409,6 @@
     android: '15.0'
     miui: OS2.0.216.0.VMFEUXM
 - branch: stable
-  date: '2023-02-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_atom/releases/download/stable-16.02.2023/fw_atom_miui_ATOM_V13.0.6.0.SJHCNXM_662576ee26_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/atom/fw_atom_miui_ATOM_V13.0.6.0.SJHCNXM_662576ee26_12.0.zip
-  filename: fw_atom_miui_ATOM_V13.0.6.0.SJHCNXM_662576ee26_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: V13.0.6.0.SJHCNXM
-- branch: weekly
-  date: '2022-03-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_atom/releases/download/weekly-04.03.2022/fw_atom_miui_ATOM_22.3.2_7c8aa44472_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.2/atom/fw_atom_miui_ATOM_22.3.2_7c8aa44472_11.0.zip
-  filename: fw_atom_miui_ATOM_22.3.2_7c8aa44472_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 22.3.2
-- branch: stable
   date: '2026-02-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-24.02.2026/fw_aurora_aurora_global-ota_full-OS3.0.6.0.WNAMIXM-user-16.0-3d13c86b57.zip
@@ -1719,15 +1699,15 @@
     android: '15.0'
     miui: OS2.0.207.0.VNSINXM
 - branch: stable
-  date: '2026-01-09'
+  date: '2026-04-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-09.01.2026/fw_duchamp_duchamp_global-ota_full-OS2.0.209.0.VNLMIXM-user-15.0-e41e4290bf.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/duchamp/fw_duchamp_duchamp_global-ota_full-OS2.0.209.0.VNLMIXM-user-15.0-e41e4290bf.zip
-  filename: fw_duchamp_duchamp_global-ota_full-OS2.0.209.0.VNLMIXM-user-15.0-e41e4290bf.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-27.04.2026/fw_duchamp_duchamp_global-ota_full-OS3.0.6.0.WNLMIXM-user-16.0-29842474e8.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/duchamp/fw_duchamp_duchamp_global-ota_full-OS3.0.6.0.WNLMIXM-user-16.0-29842474e8.zip
+  filename: fw_duchamp_duchamp_global-ota_full-OS3.0.6.0.WNLMIXM-user-16.0-29842474e8.zip
   region: Global
   versions:
-    android: '15.0'
-    miui: OS2.0.209.0.VNLMIXM
+    android: '16.0'
+    miui: OS3.0.6.0.WNLMIXM
 - branch: stable
   date: '2026-04-21'
   downloads:
@@ -1749,15 +1729,15 @@
     android: '16.0'
     miui: OS3.0.4.0.WNLEUXM
 - branch: stable
-  date: '2025-11-27'
+  date: '2026-04-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-27.11.2025/fw_duchamp_duchamp_in_global-ota_full-OS2.0.208.0.VNLINXM-user-15.0-4a0987f359.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/duchamp/fw_duchamp_duchamp_in_global-ota_full-OS2.0.208.0.VNLINXM-user-15.0-4a0987f359.zip
-  filename: fw_duchamp_duchamp_in_global-ota_full-OS2.0.208.0.VNLINXM-user-15.0-4a0987f359.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-27.04.2026/fw_duchamp_duchamp_in_global-ota_full-OS3.0.5.0.WNLINXM-user-16.0-e526100bb5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/duchamp/fw_duchamp_duchamp_in_global-ota_full-OS3.0.5.0.WNLINXM-user-16.0-e526100bb5.zip
+  filename: fw_duchamp_duchamp_in_global-ota_full-OS3.0.5.0.WNLINXM-user-16.0-e526100bb5.zip
   region: India
   versions:
-    android: '15.0'
-    miui: OS2.0.208.0.VNLINXM
+    android: '16.0'
+    miui: OS3.0.5.0.WNLINXM
 - branch: stable
   date: '2026-03-18'
   downloads:
@@ -5098,16 +5078,6 @@
   versions:
     android: '10.0'
     miui: 20.9.4
-- branch: stable
-  date: '2026-04-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_popsicle/releases/download/stable-17.04.2026/fw_popsicle_popsicle-ota_full-OS3.0.306.0.WPBCNXM-user-16.0-59bde8d0f9.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/popsicle/fw_popsicle_popsicle-ota_full-OS3.0.306.0.WPBCNXM-user-16.0-59bde8d0f9.zip
-  filename: fw_popsicle_popsicle-ota_full-OS3.0.306.0.WPBCNXM-user-16.0-59bde8d0f9.zip
-  region: China
-  versions:
-    android: '16.0'
-    miui: OS3.0.306.0.WPBCNXM
 - branch: stable
   date: '2019-05-21'
   downloads:

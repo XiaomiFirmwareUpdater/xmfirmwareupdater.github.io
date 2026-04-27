@@ -5578,6 +5578,18 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UNLMIXM/fw_duchamp_miui_DUCHAMPGlobal_OS1.0.9.0.UNLMIXM_c736336dab_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS1.0.9.0.UNLMIXM
+- android: '16.0'
+  codename: duchamp
+  date: '2026-04-27'
+  download: https://bigota.d.miui.com/OS3.0.6.0.WNLMIXM/fw_duchamp_duchamp_global-ota_full-OS3.0.6.0.WNLMIXM-user-16.0-29842474e8.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS3.0.6.0.WNLMIXM
+- android: '16.0'
+  codename: duchamp
+  date: '2026-04-27'
+  download: https://bigota.d.miui.com/OS3.0.5.0.WNLINXM/fw_duchamp_duchamp_in_global-ota_full-OS3.0.5.0.WNLINXM-user-16.0-e526100bb5.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS3.0.5.0.WNLINXM
 - android: '14.0'
   codename: duchamp
   date: '2024-12-26'
@@ -18514,102 +18526,6 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.ULQMIXM/fw_plato_miui_PLATOGlobal_OS1.0.8.0.ULQMIXM_66cc9d612c_14.0.zip
   name: Xiaomi 12T
   version: OS1.0.8.0.ULQMIXM
-- android: '16.0'
-  codename: popsicle
-  date: '2025-12-30'
-  download: https://bigota.d.miui.com/OS3.0.36.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.36.0.WPBCNXM-user-16.0-1a5729ffd2.zip
-  name: Xiaomi 17 Pro Max
-  version: OS3.0.36.0.WPBCNXM
-- android: '16.0'
-  codename: popsicle
-  date: '2025-10-31'
-  download: https://bigota.d.miui.com/OS3.0.25.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.25.0.WPBCNXM-user-16.0-d67918a966.zip
-  name: Xiaomi 17 Pro Max
-  version: OS3.0.25.0.WPBCNXM
-- android: '16.0'
-  codename: popsicle
-  date: '2026-03-31'
-  download: https://bigota.d.miui.com/OS3.0.305.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.305.0.WPBCNXM-user-16.0-196af22eee.zip
-  name: Xiaomi 17 Pro Max
-  version: OS3.0.305.0.WPBCNXM
-- android: '16.0'
-  codename: popsicle
-  date: '2025-10-24'
-  download: https://bigota.d.miui.com/OS3.0.24.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.24.0.WPBCNXM-user-16.0-cd3413c4f1.zip
-  name: Xiaomi 17 Pro Max
-  version: OS3.0.24.0.WPBCNXM
-- android: '16.0'
-  codename: popsicle
-  date: '2026-01-21'
-  download: https://bigota.d.miui.com/OS3.0.40.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.40.0.WPBCNXM-user-16.0-f0228ea917.zip
-  name: Xiaomi 17 Pro Max
-  version: OS3.0.40.0.WPBCNXM
-- android: '16.0'
-  codename: popsicle
-  date: '2026-04-17'
-  download: https://bigota.d.miui.com/OS3.0.306.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.306.0.WPBCNXM-user-16.0-59bde8d0f9.zip
-  name: Xiaomi 17 Pro Max
-  version: OS3.0.306.0.WPBCNXM
-- android: '16.0'
-  codename: popsicle
-  date: '2026-03-17'
-  download: https://bigota.d.miui.com/OS3.0.304.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.304.0.WPBCNXM-user-16.0-c2dfedbf85.zip
-  name: Xiaomi 17 Pro Max
-  version: OS3.0.304.0.WPBCNXM
-- android: '16.0'
-  codename: popsicle
-  date: '2025-12-15'
-  download: https://bigota.d.miui.com/OS3.0.34.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.34.0.WPBCNXM-user-16.0-1db15bdcb1.zip
-  name: Xiaomi 17 Pro Max
-  version: OS3.0.34.0.WPBCNXM
-- android: '16.0'
-  codename: popsicle
-  date: '2025-10-15'
-  download: https://bigota.d.miui.com/OS3.0.20.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.20.0.WPBCNXM-user-16.0-23b18a436b.zip
-  name: Xiaomi 17 Pro Max
-  version: OS3.0.20.0.WPBCNXM
-- android: '16.0'
-  codename: popsicle
-  date: '2025-10-10'
-  download: https://bigota.d.miui.com/OS3.0.17.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.17.0.WPBCNXM-user-16.0-e928550d8d.zip
-  name: Xiaomi 17 Pro Max
-  version: OS3.0.17.0.WPBCNXM
-- android: '16.0'
-  codename: popsicle
-  date: '2026-02-11'
-  download: https://bigota.d.miui.com/OS3.0.45.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.45.0.WPBCNXM-user-16.0-86e516d7b4.zip
-  name: Xiaomi 17 Pro Max
-  version: OS3.0.45.0.WPBCNXM
-- android: '16.0'
-  codename: popsicle
-  date: '2025-11-10'
-  download: https://bigota.d.miui.com/OS3.0.30.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.30.0.WPBCNXM-user-16.0-5cc4eb5e91.zip
-  name: Xiaomi 17 Pro Max
-  version: OS3.0.30.0.WPBCNXM
-- android: '16.0'
-  codename: popsicle
-  date: '2025-12-06'
-  download: https://bigota.d.miui.com/OS3.0.32.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.32.0.WPBCNXM-user-16.0-ceefe51bf9.zip
-  name: Xiaomi 17 Pro Max
-  version: OS3.0.32.0.WPBCNXM
-- android: '16.0'
-  codename: popsicle
-  date: '2025-10-05'
-  download: https://bigota.d.miui.com/OS3.0.16.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.16.0.WPBCNXM-user-16.0-d9477785f5.zip
-  name: Xiaomi 17 Pro Max
-  version: OS3.0.16.0.WPBCNXM
-- android: '16.0'
-  codename: popsicle
-  date: '2026-02-04'
-  download: https://bigota.d.miui.com/OS3.0.41.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.41.0.WPBCNXM-user-16.0-f3752aff1e.zip
-  name: Xiaomi 17 Pro Max
-  version: OS3.0.41.0.WPBCNXM
-- android: '16.0'
-  codename: popsicle
-  date: '2025-10-04'
-  download: https://bigota.d.miui.com/OS3.0.7.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.7.0.WPBCNXM-user-16.0-91a3c178bd.zip
-  name: Xiaomi 17 Pro Max
-  version: OS3.0.7.0.WPBCNXM
 - android: '16.0'
   codename: prague
   date: '2026-04-22'

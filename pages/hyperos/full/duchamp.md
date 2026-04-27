@@ -52,7 +52,9 @@ permalink: /archive/hyperos/duchamp/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K70E China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WNLCNXM</td><td>16.0</td><td>7.2 GB</td><td>2026-04-15</td><td><a href="/hyperos/duchamp/stable beta/OS3.0.303.0.WNLCNXM/">Download</a></td></tr>
+                <tr><td>POCO X6 Pro 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.6.0.WNLMIXM</td><td>16.0</td><td>6.4 GB</td><td>2026-04-24</td><td><a href="/hyperos/duchamp/stable beta/OS3.0.6.0.WNLMIXM/">Download</a></td></tr>
+<tr><td>POCO X6 Pro 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.5.0.WNLINXM</td><td>16.0</td><td>6.2 GB</td><td>2026-04-24</td><td><a href="/hyperos/duchamp/stable beta/OS3.0.5.0.WNLINXM/">Download</a></td></tr>
+<tr><td>Redmi K70E China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WNLCNXM</td><td>16.0</td><td>7.2 GB</td><td>2026-04-15</td><td><a href="/hyperos/duchamp/stable beta/OS3.0.303.0.WNLCNXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WNLEUXM</td><td>16.0</td><td>6.3 GB</td><td>2026-03-02</td><td><a href="/hyperos/duchamp/stable/OS3.0.4.0.WNLEUXM/">Download</a></td></tr>
 <tr><td>POCO X6 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WNLEUXM</td><td>16.0</td><td>8.7 GB</td><td>2026-02-05</td><td><a href="/hyperos/duchamp/stable/OS3.0.4.0.WNLEUXM/">Download</a></td></tr>
 <tr><td>Redmi K70E China</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WNLCNXM</td><td>16.0</td><td>7.1 GB</td><td>2026-02-11</td><td><a href="/hyperos/duchamp/stable/OS3.0.5.0.WNLCNXM/">Download</a></td></tr>
