@@ -99,6 +99,16 @@
     android: '15.0'
     miui: OS2.0.210.0.VOQCNXM
 - branch: stable
+  date: '2026-04-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-27.04.2026/fw_beryl_beryl-ota_full-OS3.0.305.0.WOQCNXM-user-16.0-af3f6769d0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/beryl/fw_beryl_beryl-ota_full-OS3.0.305.0.WOQCNXM-user-16.0-af3f6769d0.zip
+  filename: fw_beryl_beryl-ota_full-OS3.0.305.0.WOQCNXM-user-16.0-af3f6769d0.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.305.0.WOQCNXM
+- branch: stable
   date: '2026-02-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-27.02.2026/fw_beryl_beryl_in_global-ota_full-OS2.0.208.0.VOQINXM-user-15.0-645da0c11b.zip

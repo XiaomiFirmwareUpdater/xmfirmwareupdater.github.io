@@ -1984,6 +1984,12 @@
   download: https://bigota.d.miui.com/OS2.0.210.0.VOQCNXM/fw_beryl_beryl-ota_full-OS2.0.210.0.VOQCNXM-user-15.0-c790d1482c.zip
   name: Redmi Note 14 5G/POCO M7 Pro 5G
   version: OS2.0.210.0.VOQCNXM
+- android: '16.0'
+  codename: beryl
+  date: '2026-04-27'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WOQCNXM/fw_beryl_beryl-ota_full-OS3.0.305.0.WOQCNXM-user-16.0-af3f6769d0.zip
+  name: Redmi Note 14 5G/POCO M7 Pro 5G
+  version: OS3.0.305.0.WOQCNXM
 - android: '15.0'
   codename: beryl
   date: '2026-02-27'
@@ -4180,6 +4186,12 @@
   download: https://bigota.d.miui.com/OS3.0.301.0.WONCNXM/fw_dali_dali-ota_full-OS3.0.301.0.WONCNXM-user-16.0-6a71af98ec.zip
   name: Redmi K80 Ultra
   version: OS3.0.301.0.WONCNXM
+- android: '16.0'
+  codename: dash
+  date: '2026-04-27'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WPLMIXM/fw_dash_dash_global-ota_full-OS3.0.4.0.WPLMIXM-user-16.0-53ba3277d7.zip
+  name: Redmi Turbo 5 Max/POCO X8 Pro Max
+  version: OS3.0.4.0.WPLMIXM
 - android: '16.0'
   codename: dash
   date: '2026-04-25'
@@ -7690,6 +7702,12 @@
   download: https://bigota.d.miui.com/OS1.0.14.0.UMCCNXM/fw_fuxi_miui_FUXI_OS1.0.14.0.UMCCNXM_2a238266f3_14.0.zip
   name: Xiaomi 13
   version: OS1.0.14.0.UMCCNXM
+- android: '16.0'
+  codename: fuxi
+  date: '2026-04-27'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WMCCNXM/fw_fuxi_fuxi-ota_full-OS3.0.303.0.WMCCNXM-user-16.0-7af2644f9e.zip
+  name: Xiaomi 13
+  version: OS3.0.303.0.WMCCNXM
 - android: '15.0'
   codename: fuxi
   date: '2025-04-27'
@@ -9466,6 +9484,12 @@
   download: https://bigota.d.miui.com/OS2.0.209.0.VOEEUXM/fw_goya_goya_eea_global-ota_full-OS2.0.209.0.VOEEUXM-user-15.0-83555c9bb0.zip
   name: Xiaomi 15T
   version: OS2.0.209.0.VOEEUXM
+- android: '16.0'
+  codename: goya
+  date: '2026-04-27'
+  download: https://bigota.d.miui.com/OS3.0.300.0.WOEMIXM/fw_goya_goya_global-ota_full-OS3.0.300.0.WOEMIXM-user-16.0-ed32b49d09.zip
+  name: Xiaomi 15T
+  version: OS3.0.300.0.WOEMIXM
 - android: '16.0'
   codename: goya
   date: '2025-12-26'
