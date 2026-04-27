@@ -9,15 +9,15 @@
     android: '16.0'
     miui: OS3.0.1.0.WMLMIXM
 - branch: stable
-  date: '2026-02-28'
+  date: '2026-04-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-28.02.2026/fw_corot_corot-ota_full-OS3.0.4.0.WMLCNXM-user-16.0-a21a878b6b.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/corot/fw_corot_corot-ota_full-OS3.0.4.0.WMLCNXM-user-16.0-a21a878b6b.zip
-  filename: fw_corot_corot-ota_full-OS3.0.4.0.WMLCNXM-user-16.0-a21a878b6b.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-27.04.2026/fw_corot_corot-ota_full-OS3.0.302.0.WMLCNXM-user-16.0-d651215e33.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/corot/fw_corot_corot-ota_full-OS3.0.302.0.WMLCNXM-user-16.0-d651215e33.zip
+  filename: fw_corot_corot-ota_full-OS3.0.302.0.WMLCNXM-user-16.0-d651215e33.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.4.0.WMLCNXM
+    miui: OS3.0.302.0.WMLCNXM
 - branch: stable
   date: '2026-04-25'
   downloads:
