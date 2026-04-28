@@ -8380,6 +8380,12 @@
   download: https://bigota.d.miui.com/OS1.0.15.0.UNRMIXM/fw_garnet_miui_GARNETGlobal_OS1.0.15.0.UNRMIXM_d85de2ffc7_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS1.0.15.0.UNRMIXM
+- android: '16.0'
+  codename: garnet
+  date: '2026-04-28'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WNRCNXM/fw_garnet_garnet-ota_full-OS3.0.304.0.WNRCNXM-user-16.0-d0e642461d.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS3.0.304.0.WNRCNXM
 - android: '14.0'
   codename: garnet
   date: '2024-03-28'
