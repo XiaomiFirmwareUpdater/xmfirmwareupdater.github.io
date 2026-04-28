@@ -62,6 +62,7 @@ permalink: /hyperos/vermeer/
 <tr><td>POCO F6 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WNKRUXM</td><td>16.0</td><td>7.0 GB</td><td>2026-02-26</td><td><a href="/hyperos/vermeer/stable/OS3.0.3.0.WNKRUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WNKTWXM</td><td>16.0</td><td>8.2 GB</td><td>2026-02-05</td><td><a href="/hyperos/vermeer/stable/OS3.0.4.0.WNKTWXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WNKTWXM</td><td>16.0</td><td>6.9 GB</td><td>2026-02-26</td><td><a href="/hyperos/vermeer/stable/OS3.0.4.0.WNKTWXM/">Download</a></td></tr>
+<tr><td>POCO F6 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WNKMIXM</td><td>16.0</td><td>7.1 GB</td><td>2026-04-22</td><td><a href="/hyperos/vermeer/stable beta/OS3.0.301.0.WNKMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
