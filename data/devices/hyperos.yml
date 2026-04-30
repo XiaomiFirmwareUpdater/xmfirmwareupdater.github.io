@@ -16895,6 +16895,12 @@
   name: Redmi Pad 2 Pro 5G
   version: OS3.0.4.0.WPXEUXM
 - android: '16.0'
+  codename: organ
+  date: '2026-04-30'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WPXCNXM/fw_organ_organ-ota_full-OS3.0.302.0.WPXCNXM-user-16.0-c7caa4ba80.zip
+  name: Redmi Pad 2 Pro 5G
+  version: OS3.0.302.0.WPXCNXM
+- android: '16.0'
   codename: pandora
   date: '2025-10-31'
   download: https://bigota.d.miui.com/OS3.0.25.0.WBLCNXM/fw_pandora_pandora-ota_full-OS3.0.25.0.WBLCNXM-user-16.0-06a5de6f1d.zip
@@ -26614,6 +26620,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNKEUXM/fw_vermeer_miui_VERMEEREEAGlobal_OS1.0.4.0.UNKEUXM_8757c38bdc_14.0.zip
   name: Redmi K70/POCO F6 Pro
   version: OS1.0.4.0.UNKEUXM
+- android: '16.0'
+  codename: vermeer
+  date: '2026-04-30'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WNKMIXM/fw_vermeer_vermeer_global-ota_full-OS3.0.301.0.WNKMIXM-user-16.0-2af507e4fa.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS3.0.301.0.WNKMIXM
 - android: '16.0'
   codename: vermeer
   date: '2026-01-01'

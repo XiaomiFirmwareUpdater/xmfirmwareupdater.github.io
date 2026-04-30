@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 30 Apr 2026 21:53:54 </lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 00:59:44 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Pad 2 SE/Pad 2 9.7/POCO Pad C1 (guitar) - OS3.0.301.0.WDNCNXM</title>
@@ -64,6 +64,11 @@
         <item>
             <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - OS3.0.5.0.WOLINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
+            <pubDate>Thu, 30 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad 2 Pro 5G (organ) - OS3.0.302.0.WPXCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/organ/</link>
             <pubDate>Thu, 30 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -134,6 +139,11 @@
         <item>
             <title>Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) - OS3.0.301.0.WPOINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
+            <pubDate>Thu, 30 Apr 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.301.0.WNKMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Thu, 30 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -947,11 +957,6 @@
             <pubDate>Thu, 26 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad 2 Pro 5G (organ) - OS3.0.1.0.WPXCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/organ/</link>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS3.0.10.0.WOJMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
             <pubDate>Thu, 26 Mar 2026 00:00:00 </pubDate>
@@ -1304,11 +1309,6 @@
         <item>
             <title>Redmi Note 12 4G NFC (topaz) - OS2.0.204.0.VMGMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/topaz/</link>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.7.0.WNKMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Mon, 02 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
