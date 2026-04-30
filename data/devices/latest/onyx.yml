@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2026-02-28'
+  date: '2026-04-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-28.02.2026/fw_onyx_onyx_global-ota_full-OS3.0.6.0.WOLMIXM-user-16.0-02188a5378.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/onyx/fw_onyx_onyx_global-ota_full-OS3.0.6.0.WOLMIXM-user-16.0-02188a5378.zip
-  filename: fw_onyx_onyx_global-ota_full-OS3.0.6.0.WOLMIXM-user-16.0-02188a5378.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-30.04.2026/fw_onyx_onyx_global-ota_full-OS3.0.7.0.WOLMIXM-user-16.0-25c954f376.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/onyx/fw_onyx_onyx_global-ota_full-OS3.0.7.0.WOLMIXM-user-16.0-25c954f376.zip
+  filename: fw_onyx_onyx_global-ota_full-OS3.0.7.0.WOLMIXM-user-16.0-25c954f376.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.6.0.WOLMIXM
+    miui: OS3.0.7.0.WOLMIXM
 - branch: stable
   date: '2026-04-17'
   downloads:
@@ -29,12 +29,12 @@
     android: '16.0'
     miui: OS3.0.6.0.WOLEUXM
 - branch: stable
-  date: '2026-04-15'
+  date: '2026-04-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-15.04.2026/fw_onyx_onyx_in_global-ota_full-OS3.0.4.0.WOLINXM-user-16.0-58c10264c6.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/onyx/fw_onyx_onyx_in_global-ota_full-OS3.0.4.0.WOLINXM-user-16.0-58c10264c6.zip
-  filename: fw_onyx_onyx_in_global-ota_full-OS3.0.4.0.WOLINXM-user-16.0-58c10264c6.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-30.04.2026/fw_onyx_onyx_in_global-ota_full-OS3.0.5.0.WOLINXM-user-16.0-ab6c36cf18.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/onyx/fw_onyx_onyx_in_global-ota_full-OS3.0.5.0.WOLINXM-user-16.0-ab6c36cf18.zip
+  filename: fw_onyx_onyx_in_global-ota_full-OS3.0.5.0.WOLINXM-user-16.0-ab6c36cf18.zip
   region: India
   versions:
     android: '16.0'
-    miui: OS3.0.4.0.WOLINXM
+    miui: OS3.0.5.0.WOLINXM

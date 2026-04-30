@@ -4403,6 +4403,54 @@
   name: Redmi Note 11
   version: V14.0.2.0.TGCMIXM
 - android: '13.0'
+  codename: spesn
+  date: '2024-03-29'
+  download: https://bigota.d.miui.com/V14.0.7.0.TGKEUXM/fw_spesn_miui_SPESNEEAGlobal_V14.0.7.0.TGKEUXM_a82d2c3e33_13.0.zip
+  name: Redmi Note 11 NFC
+  version: V14.0.7.0.TGKEUXM
+- android: '13.0'
+  codename: spesn
+  date: '2023-09-15'
+  download: https://bigota.d.miui.com/V14.0.2.0.TGKEUXM/fw_spesn_miui_SPESNEEAGlobal_V14.0.2.0.TGKEUXM_c2208f07f9_13.0.zip
+  name: Redmi Note 11 NFC
+  version: V14.0.2.0.TGKEUXM
+- android: '13.0'
+  codename: spesn
+  date: '2023-10-13'
+  download: https://bigota.d.miui.com/V14.0.4.0.TGKMIXM/fw_spesn_miui_SPESNGlobal_V14.0.4.0.TGKMIXM_7ce43cc0dc_13.0.zip
+  name: Redmi Note 11 NFC
+  version: V14.0.4.0.TGKMIXM
+- android: '13.0'
+  codename: spesn
+  date: '2023-12-11'
+  download: https://bigota.d.miui.com/V14.0.4.0.TGKEUXM/fw_spesn_miui_SPESNEEAGlobal_V14.0.4.0.TGKEUXM_e248f41f74_13.0.zip
+  name: Redmi Note 11 NFC
+  version: V14.0.4.0.TGKEUXM
+- android: '13.0'
+  codename: spesn
+  date: '2024-01-12'
+  download: https://bigota.d.miui.com/V14.0.6.0.TGKMIXM/fw_spesn_miui_SPESNGlobal_V14.0.6.0.TGKMIXM_3bf72b1c44_13.0.zip
+  name: Redmi Note 11 NFC
+  version: V14.0.6.0.TGKMIXM
+- android: '13.0'
+  codename: spesn
+  date: '2023-07-11'
+  download: https://bigota.d.miui.com/V14.0.1.0.TGKEUXM/fw_spesn_miui_SPESNEEAGlobal_V14.0.1.0.TGKEUXM_83be9365d1_13.0.zip
+  name: Redmi Note 11 NFC
+  version: V14.0.1.0.TGKEUXM
+- android: '13.0'
+  codename: spesn
+  date: '2023-08-08'
+  download: https://bigota.d.miui.com/V14.0.3.0.TGKMIXM/fw_spesn_miui_SPESNGlobal_V14.0.3.0.TGKMIXM_85b6e390cb_13.0.zip
+  name: Redmi Note 11 NFC
+  version: V14.0.3.0.TGKMIXM
+- android: '13.0'
+  codename: spesn
+  date: '2023-06-06'
+  download: https://bigota.d.miui.com/V14.0.2.0.TGKMIXM/fw_spesn_miui_SPESNGlobal_V14.0.2.0.TGKMIXM_b001882d2d_13.0.zip
+  name: Redmi Note 11 NFC
+  version: V14.0.2.0.TGKMIXM
+- android: '13.0'
   codename: star
   date: '2023-05-29'
   download: https://bigota.d.miui.com/V14.0.9.0.TKACNXM/fw_star_miui_STAR_V14.0.9.0.TKACNXM_88fb6d9f79_13.0.zip

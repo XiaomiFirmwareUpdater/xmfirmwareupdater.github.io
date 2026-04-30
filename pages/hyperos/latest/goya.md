@@ -53,19 +53,21 @@ permalink: /hyperos/goya/
                 </thead>
                 <tbody>
                 <tr><td>Xiaomi 15T EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOEEUXM</td><td>16.0</td><td>8.7 GB</td><td>2026-04-01</td><td><a href="/hyperos/goya/stable/OS3.0.302.0.WOEEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15T EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOEEUXM</td><td>16.0</td><td>7.0 GB</td><td>2026-04-07</td><td><a href="/hyperos/goya/stable/OS3.0.302.0.WOEEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.10.0.WOEEUXM</td><td>16.0</td><td>7.0 GB</td><td>2026-02-05</td><td><a href="/hyperos/goya/stable/OS3.0.10.0.WOEEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.203.0.VOEEUXM</td><td>15.0</td><td>6.4 GB</td><td>2025-09-24</td><td><a href="/hyperos/goya/stable beta/OS2.0.203.0.VOEEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.9.0.WOEMIXM</td><td>16.0</td><td>9.7 GB</td><td>2026-02-02</td><td><a href="/hyperos/goya/stable/OS3.0.9.0.WOEMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.9.0.WOEMIXM</td><td>16.0</td><td>6.9 GB</td><td>2026-02-05</td><td><a href="/hyperos/goya/stable/OS3.0.9.0.WOEMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15T Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.300.0.WOEMIXM</td><td>16.0</td><td>7.0 GB</td><td>2026-04-23</td><td><a href="/hyperos/goya/stable beta/OS3.0.300.0.WOEMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOEIDXM</td><td>16.0</td><td>8.6 GB</td><td>2026-01-14</td><td><a href="/hyperos/goya/stable/OS3.0.3.0.WOEIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOEIDXM</td><td>16.0</td><td>6.9 GB</td><td>2026-01-21</td><td><a href="/hyperos/goya/stable/OS3.0.3.0.WOEIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.300.0.WOEMIXM</td><td>16.0</td><td>7.0 GB</td><td>2026-04-23</td><td><a href="/hyperos/goya/stable beta/OS3.0.300.0.WOEMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.300.0.WOEIDXM</td><td>16.0</td><td>7.0 GB</td><td>2026-04-27</td><td><a href="/hyperos/goya/stable beta/OS3.0.300.0.WOEIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WOERUXM</td><td>16.0</td><td>9.3 GB</td><td>2026-01-14</td><td><a href="/hyperos/goya/stable/OS3.0.5.0.WOERUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WOERUXM</td><td>16.0</td><td>6.8 GB</td><td>2026-01-21</td><td><a href="/hyperos/goya/stable/OS3.0.5.0.WOERUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOETRXM</td><td>16.0</td><td>8.3 GB</td><td>2026-01-21</td><td><a href="/hyperos/goya/stable/OS3.0.3.0.WOETRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOETRXM</td><td>16.0</td><td>6.9 GB</td><td>2026-01-29</td><td><a href="/hyperos/goya/stable/OS3.0.3.0.WOETRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WOETWXM</td><td>16.0</td><td>7.8 GB</td><td>2026-01-21</td><td><a href="/hyperos/goya/stable/OS3.0.6.0.WOETWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WOETWXM</td><td>16.0</td><td>6.8 GB</td><td>2026-01-29</td><td><a href="/hyperos/goya/stable/OS3.0.6.0.WOETWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.300.0.WOETRXM</td><td>16.0</td><td>6.9 GB</td><td>2026-04-27</td><td><a href="/hyperos/goya/stable beta/OS3.0.300.0.WOETRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

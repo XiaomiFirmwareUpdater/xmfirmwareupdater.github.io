@@ -1,1 +1,40 @@
-[]
+- branch: stable
+  date: '2026-04-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-27.04.2026/fw_amethyst_amethyst_global-ota_full-OS3.0.5.0.WOPMIXM-user-16.0-ad20d4e5ce.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/amethyst/fw_amethyst_amethyst_global-ota_full-OS3.0.5.0.WOPMIXM-user-16.0-ad20d4e5ce.zip
+  filename: fw_amethyst_amethyst_global-ota_full-OS3.0.5.0.WOPMIXM-user-16.0-ad20d4e5ce.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.5.0.WOPMIXM
+- branch: stable
+  date: '2026-04-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-27.04.2026/fw_amethyst_amethyst-ota_full-OS3.0.303.0.WOPCNXM-user-16.0-30873d826f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/amethyst/fw_amethyst_amethyst-ota_full-OS3.0.303.0.WOPCNXM-user-16.0-30873d826f.zip
+  filename: fw_amethyst_amethyst-ota_full-OS3.0.303.0.WOPCNXM-user-16.0-30873d826f.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.303.0.WOPCNXM
+- branch: stable
+  date: '2026-04-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-14.04.2026/fw_amethyst_amethyst_eea_global-ota_full-OS3.0.4.0.WOPEUXM-user-16.0-91b51c82e7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/amethyst/fw_amethyst_amethyst_eea_global-ota_full-OS3.0.4.0.WOPEUXM-user-16.0-91b51c82e7.zip
+  filename: fw_amethyst_amethyst_eea_global-ota_full-OS3.0.4.0.WOPEUXM-user-16.0-91b51c82e7.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.4.0.WOPEUXM
+- branch: stable
+  date: '2026-03-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-18.03.2026/fw_amethyst_amethyst_in_global-ota_full-OS3.0.3.0.WOPINXM-user-16.0-6f9a367404.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/amethyst/fw_amethyst_amethyst_in_global-ota_full-OS3.0.3.0.WOPINXM-user-16.0-6f9a367404.zip
+  filename: fw_amethyst_amethyst_in_global-ota_full-OS3.0.3.0.WOPINXM-user-16.0-6f9a367404.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.3.0.WOPINXM

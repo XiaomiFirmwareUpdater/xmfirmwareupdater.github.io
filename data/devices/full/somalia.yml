@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2026-04-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_somalia/releases/download/stable-30.04.2026/fw_somalia_somalia-ota_full-OS3.0.5.0.WBWCNXM-user-16.0-05fc64776e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/somalia/fw_somalia_somalia-ota_full-OS3.0.5.0.WBWCNXM-user-16.0-05fc64776e.zip
+  filename: fw_somalia_somalia-ota_full-OS3.0.5.0.WBWCNXM-user-16.0-05fc64776e.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.5.0.WBWCNXM
+- branch: stable
   date: '2026-04-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_somalia/releases/download/stable-15.04.2026/fw_somalia_somalia_in_global-ota_full-OS3.0.4.0.WBWINXM-user-16.0-d4501fe101.zip

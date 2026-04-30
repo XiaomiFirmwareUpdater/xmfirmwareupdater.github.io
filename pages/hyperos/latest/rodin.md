@@ -64,6 +64,7 @@ permalink: /hyperos/rodin/
 <tr><td>POCO X7 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOJIDXM</td><td>16.0</td><td>6.7 GB</td><td>2026-01-27</td><td><a href="/hyperos/rodin/stable/OS3.0.3.0.WOJIDXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WOJINXM</td><td>16.0</td><td>8.4 GB</td><td>2026-03-17</td><td><a href="/hyperos/rodin/stable/OS3.0.5.0.WOJINXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro India</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WOJINXM</td><td>16.0</td><td>6.4 GB</td><td>2026-03-23</td><td><a href="/hyperos/rodin/stable/OS3.0.5.0.WOJINXM/">Download</a></td></tr>
+<tr><td>POCO X7 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.300.0.WOJEUXM</td><td>16.0</td><td>6.8 GB</td><td>2026-04-27</td><td><a href="/hyperos/rodin/stable beta/OS3.0.300.0.WOJEUXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WOJRUXM</td><td>16.0</td><td>10.2 GB</td><td>2026-01-14</td><td><a href="/hyperos/rodin/stable/OS3.0.5.0.WOJRUXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WOJRUXM</td><td>16.0</td><td>6.5 GB</td><td>2026-01-20</td><td><a href="/hyperos/rodin/stable/OS3.0.5.0.WOJRUXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WOJTRXM</td><td>16.0</td><td>8.9 GB</td><td>2026-01-21</td><td><a href="/hyperos/rodin/stable/OS3.0.5.0.WOJTRXM/">Download</a></td></tr>

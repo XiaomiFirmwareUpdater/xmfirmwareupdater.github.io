@@ -9,15 +9,15 @@
     android: '16.0'
     miui: OS3.0.4.0.WNNMIXM
 - branch: stable
-  date: '2026-04-07'
+  date: '2026-04-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-07.04.2026/fw_rothko_rothko-ota_full-OS3.0.6.0.WNNCNXM-user-16.0-5ef94f90e6.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rothko/fw_rothko_rothko-ota_full-OS3.0.6.0.WNNCNXM-user-16.0-5ef94f90e6.zip
-  filename: fw_rothko_rothko-ota_full-OS3.0.6.0.WNNCNXM-user-16.0-5ef94f90e6.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-30.04.2026/fw_rothko_rothko-ota_full-OS3.0.302.0.WNNCNXM-user-16.0-56ae86ce5e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rothko/fw_rothko_rothko-ota_full-OS3.0.302.0.WNNCNXM-user-16.0-56ae86ce5e.zip
+  filename: fw_rothko_rothko-ota_full-OS3.0.302.0.WNNCNXM-user-16.0-56ae86ce5e.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.6.0.WNNCNXM
+    miui: OS3.0.302.0.WNNCNXM
 - branch: stable
   date: '2026-03-31'
   downloads:
