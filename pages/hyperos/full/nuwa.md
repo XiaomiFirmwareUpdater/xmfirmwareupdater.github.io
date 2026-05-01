@@ -53,7 +53,8 @@ permalink: /archive/hyperos/nuwa/
                 </thead>
                 <tbody>
                 <tr><td>Xiaomi 13 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.305.0.WMBCNXM</td><td>16.0</td><td>7.2 GB</td><td>2026-04-22</td><td><a href="/hyperos/nuwa/stable beta/OS3.0.305.0.WMBCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Pro India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WMBINXM</td><td>16.0</td><td>6.3 GB</td><td>2026-04-22</td><td><a href="/hyperos/nuwa/stable beta/OS3.0.3.0.WMBINXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Pro India</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WMBINXM</td><td>16.0</td><td>6.3 GB</td><td>2026-04-22</td><td><a href="/hyperos/nuwa/stable/OS3.0.3.0.WMBINXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Pro India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WMBINXM</td><td>16.0</td><td>7.1 GB</td><td>2026-04-14</td><td><a href="/hyperos/nuwa/stable/OS3.0.3.0.WMBINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WMBMIXM</td><td>16.0</td><td>6.4 GB</td><td>2026-04-22</td><td><a href="/hyperos/nuwa/stable beta/OS3.0.3.0.WMBMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WMBTWXM</td><td>16.0</td><td>6.3 GB</td><td>2026-04-22</td><td><a href="/hyperos/nuwa/stable beta/OS3.0.3.0.WMBTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WMBRUXM</td><td>16.0</td><td>6.4 GB</td><td>2026-04-22</td><td><a href="/hyperos/nuwa/stable beta/OS3.0.3.0.WMBRUXM/">Download</a></td></tr>
