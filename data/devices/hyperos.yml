@@ -15798,6 +15798,18 @@
   version: OS3.0.301.0.WPAEUXM
 - android: '16.0'
   codename: nezha
+  date: '2026-05-02'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WPAEUXM/fw_nezha_nezha_eea_global-ota_full-OS3.0.302.0.WPAEUXM-user-16.0-407628210a.zip
+  name: Xiaomi 17 Ultra
+  version: OS3.0.302.0.WPAEUXM
+- android: '16.0'
+  codename: nezha
+  date: '2026-05-02'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WPAMIXM/fw_nezha_nezha_global-ota_full-OS3.0.302.0.WPAMIXM-user-16.0-04df5f1d5d.zip
+  name: Xiaomi 17 Ultra
+  version: OS3.0.302.0.WPAMIXM
+- android: '16.0'
+  codename: nezha
   date: '2026-02-28'
   download: https://bigota.d.miui.com/OS3.0.11.0.WPAEUXM/fw_nezha_nezha_eea_global-ota_full-OS3.0.11.0.WPAEUXM-user-16.0-53b3876b3c.zip
   name: Xiaomi 17 Ultra
