@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 03 May 2026 12:39:50 </lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 18:49:28 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 15 (dada) - OS3.0.301.0.WOCEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dada/</link>
+            <pubDate>Sun, 03 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS3.0.307.0.WPRCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
             <pubDate>Sun, 03 May 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -384,11 +389,6 @@
         <item>
             <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS3.0.6.0.WGUINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flame/</link>
-            <pubDate>Fri, 17 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS3.0.304.0.WPRCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
             <pubDate>Fri, 17 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
