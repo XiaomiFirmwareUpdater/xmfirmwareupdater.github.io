@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 06 May 2026 07:54:35 </lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 14:10:26 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.210.0.VGQEUXM</title>
@@ -47,6 +47,11 @@
             <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.304.0.WNSCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
+            <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.2.0.WNSEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
             <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
@@ -54,6 +59,16 @@
         <item>
             <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS3.0.301.0.WGUCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flame/</link>
+            <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE 8.7 5G (flare) - OS3.0.3.0.WHXMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
+            <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 13C/POCO C65 (gale) - OS2.0.206.0.VGPINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/gale/</link>
             <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1222,11 +1237,6 @@
             <pubDate>Fri, 13 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad SE 8.7 5G (flare) - OS3.0.2.0.WHXMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
-            <pubDate>Wed, 11 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - OS2.0.9.0.UMQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sunstone/</link>
             <pubDate>Wed, 11 Mar 2026 00:00:00 </pubDate>
@@ -1307,11 +1317,6 @@
             <pubDate>Mon, 02 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.4.0.WNSCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS2.0.207.0.VNSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
             <pubDate>Mon, 02 Mar 2026 00:00:00 </pubDate>
@@ -1389,11 +1394,6 @@
         <item>
             <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.8.0.WPKEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
-            <pubDate>Tue, 24 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 13C/POCO C65 (gale) - OS2.0.205.0.VGPINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/gale/</link>
             <pubDate>Tue, 24 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>

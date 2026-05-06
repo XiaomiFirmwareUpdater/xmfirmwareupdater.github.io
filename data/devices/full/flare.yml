@@ -219,6 +219,16 @@
     android: '15.0'
     miui: OS2.0.201.0.VHXEUXM
 - branch: stable
+  date: '2026-05-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flare/releases/download/stable-06.05.2026/fw_flare_flare_global-ota_full-OS3.0.3.0.WHXMIXM-user-16.0-9ac1d3d73c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/flare/fw_flare_flare_global-ota_full-OS3.0.3.0.WHXMIXM-user-16.0-9ac1d3d73c.zip
+  filename: fw_flare_flare_global-ota_full-OS3.0.3.0.WHXMIXM-user-16.0-9ac1d3d73c.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.3.0.WHXMIXM
+- branch: stable
   date: '2025-01-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flare/releases/download/stable-06.01.2025/fw_flare_miui_FLAREEEAGlobal_OS1.0.6.0.UHXEUXM_42b4380546_14.0.zip
