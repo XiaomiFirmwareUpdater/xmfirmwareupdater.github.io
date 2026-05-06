@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2026-04-30'
+  date: '2026-05-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_kunzite/releases/download/stable-30.04.2026/fw_kunzite_kunzite_global-ota_full-OS3.0.2.0.WPQMIXM-user-16.0-26b5103394.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/kunzite/fw_kunzite_kunzite_global-ota_full-OS3.0.2.0.WPQMIXM-user-16.0-26b5103394.zip
-  filename: fw_kunzite_kunzite_global-ota_full-OS3.0.2.0.WPQMIXM-user-16.0-26b5103394.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_kunzite/releases/download/stable-06.05.2026/fw_kunzite_kunzite_global-ota_full-OS3.0.301.0.WPQMIXM-user-16.0-0ed4f301eb.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/kunzite/fw_kunzite_kunzite_global-ota_full-OS3.0.301.0.WPQMIXM-user-16.0-0ed4f301eb.zip
+  filename: fw_kunzite_kunzite_global-ota_full-OS3.0.301.0.WPQMIXM-user-16.0-0ed4f301eb.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.2.0.WPQMIXM
+    miui: OS3.0.301.0.WPQMIXM
 - branch: stable
   date: '2026-04-17'
   downloads:

@@ -19,15 +19,15 @@
     android: '16.0'
     miui: OS3.0.307.0.WPRCNXM
 - branch: stable
-  date: '2026-03-23'
+  date: '2026-05-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flourite/releases/download/stable-23.03.2026/fw_flourite_flourite_eea_global-ota_full-OS3.0.2.0.WPREUXM-user-16.0-6cf839c1f6.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/flourite/fw_flourite_flourite_eea_global-ota_full-OS3.0.2.0.WPREUXM-user-16.0-6cf839c1f6.zip
-  filename: fw_flourite_flourite_eea_global-ota_full-OS3.0.2.0.WPREUXM-user-16.0-6cf839c1f6.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flourite/releases/download/stable-06.05.2026/fw_flourite_flourite_eea_global-ota_full-OS3.0.305.0.WPREUXM-user-16.0-5d02999ccc.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/flourite/fw_flourite_flourite_eea_global-ota_full-OS3.0.305.0.WPREUXM-user-16.0-5d02999ccc.zip
+  filename: fw_flourite_flourite_eea_global-ota_full-OS3.0.305.0.WPREUXM-user-16.0-5d02999ccc.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.2.0.WPREUXM
+    miui: OS3.0.305.0.WPREUXM
 - branch: stable
   date: '2026-04-02'
   downloads:
