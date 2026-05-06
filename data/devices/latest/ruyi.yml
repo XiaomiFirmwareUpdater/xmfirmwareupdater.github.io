@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2025-12-27'
+  date: '2026-05-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-27.12.2025/fw_ruyi_ruyi_global-ota_full-OS3.0.4.0.WNIMIXM-user-16.0-b82262d7b0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ruyi/fw_ruyi_ruyi_global-ota_full-OS3.0.4.0.WNIMIXM-user-16.0-b82262d7b0.zip
-  filename: fw_ruyi_ruyi_global-ota_full-OS3.0.4.0.WNIMIXM-user-16.0-b82262d7b0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-07.05.2026/fw_ruyi_ruyi_global-ota_full-OS3.0.301.0.WNIMIXM-user-16.0-836af3b483.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ruyi/fw_ruyi_ruyi_global-ota_full-OS3.0.301.0.WNIMIXM-user-16.0-836af3b483.zip
+  filename: fw_ruyi_ruyi_global-ota_full-OS3.0.301.0.WNIMIXM-user-16.0-836af3b483.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.4.0.WNIMIXM
+    miui: OS3.0.301.0.WNIMIXM
 - branch: stable
   date: '2026-04-13'
   downloads:
@@ -19,12 +19,12 @@
     android: '16.0'
     miui: OS3.0.302.0.WNICNXM
 - branch: stable
-  date: '2026-01-13'
+  date: '2026-05-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-13.01.2026/fw_ruyi_ruyi_eea_global-ota_full-OS3.0.4.0.WNIEUXM-user-16.0-98afc9c650.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ruyi/fw_ruyi_ruyi_eea_global-ota_full-OS3.0.4.0.WNIEUXM-user-16.0-98afc9c650.zip
-  filename: fw_ruyi_ruyi_eea_global-ota_full-OS3.0.4.0.WNIEUXM-user-16.0-98afc9c650.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-07.05.2026/fw_ruyi_ruyi_eea_global-ota_full-OS3.0.301.0.WNIEUXM-user-16.0-fb49bd5e36.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ruyi/fw_ruyi_ruyi_eea_global-ota_full-OS3.0.301.0.WNIEUXM-user-16.0-fb49bd5e36.zip
+  filename: fw_ruyi_ruyi_eea_global-ota_full-OS3.0.301.0.WNIEUXM-user-16.0-fb49bd5e36.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.4.0.WNIEUXM
+    miui: OS3.0.301.0.WNIEUXM

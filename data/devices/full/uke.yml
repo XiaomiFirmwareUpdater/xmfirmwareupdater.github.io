@@ -299,6 +299,16 @@
     android: '16.0'
     miui: OS3.0.8.0.WOZMIXM
 - branch: stable
+  date: '2026-05-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-07.05.2026/fw_uke_uke_global-ota_full-OS3.0.301.0.WOZMIXM-user-16.0-7961bd3ff9.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/uke/fw_uke_uke_global-ota_full-OS3.0.301.0.WOZMIXM-user-16.0-7961bd3ff9.zip
+  filename: fw_uke_uke_global-ota_full-OS3.0.301.0.WOZMIXM-user-16.0-7961bd3ff9.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.301.0.WOZMIXM
+- branch: stable
   date: '2025-05-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-07.05.2025/fw_uke_uke-ota_full-OS2.0.106.0.VOZCNXM-user-15.0-7faa631b48.zip

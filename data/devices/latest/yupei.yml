@@ -9,15 +9,15 @@
     android: '16.0'
     miui: OS3.0.302.0.WPZMIXM
 - branch: stable
-  date: '2026-03-14'
+  date: '2026-05-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yupei/releases/download/stable-14.03.2026/fw_yupei_yupei-ota_full-OS3.0.303.0.WPZCNXM-user-16.0-a024ba01e1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/yupei/fw_yupei_yupei-ota_full-OS3.0.303.0.WPZCNXM-user-16.0-a024ba01e1.zip
-  filename: fw_yupei_yupei-ota_full-OS3.0.303.0.WPZCNXM-user-16.0-a024ba01e1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yupei/releases/download/stable-07.05.2026/fw_yupei_yupei-ota_full-OS3.0.305.0.WPZCNXM-user-16.0-ab6c830ff4.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/yupei/fw_yupei_yupei-ota_full-OS3.0.305.0.WPZCNXM-user-16.0-ab6c830ff4.zip
+  filename: fw_yupei_yupei-ota_full-OS3.0.305.0.WPZCNXM-user-16.0-ab6c830ff4.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.303.0.WPZCNXM
+    miui: OS3.0.305.0.WPZCNXM
 - branch: stable
   date: '2026-04-16'
   downloads:

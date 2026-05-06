@@ -20836,6 +20836,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UFSCNXM/fw_ruan_miui_RUAN_OS1.0.10.0.UFSCNXM_8fcf980cf0_14.0.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS1.0.10.0.UFSCNXM
+- android: '16.0'
+  codename: ruan
+  date: '2026-05-06'
+  download: https://bigota.d.miui.com/OS3.0.1.0.WFSINXM/fw_ruan_ruan_in_global-ota_full-OS3.0.1.0.WFSINXM-user-16.0-b6f1fe746c.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS3.0.1.0.WFSINXM
 - android: '14.0'
   codename: ruan
   date: '2024-11-06'
@@ -21784,6 +21790,18 @@
   download: https://bigota.d.miui.com/OS2.0.206.0.VNICNXM/fw_ruyi_ruyi-ota_full-OS2.0.206.0.VNICNXM-user-15.0-96b832f706.zip
   name: MIX Flip
   version: OS2.0.206.0.VNICNXM
+- android: '16.0'
+  codename: ruyi
+  date: '2026-05-06'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WNIEUXM/fw_ruyi_ruyi_eea_global-ota_full-OS3.0.301.0.WNIEUXM-user-16.0-fb49bd5e36.zip
+  name: MIX Flip
+  version: OS3.0.301.0.WNIEUXM
+- android: '16.0'
+  codename: ruyi
+  date: '2026-05-06'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WNIMIXM/fw_ruyi_ruyi_global-ota_full-OS3.0.301.0.WNIMIXM-user-16.0-836af3b483.zip
+  name: MIX Flip
+  version: OS3.0.301.0.WNIMIXM
 - android: '15.0'
   codename: ruyi
   date: '2025-03-05'
@@ -23542,6 +23560,12 @@
   download: https://bigota.d.miui.com/OS3.0.1.0.WBWINXM/fw_somalia_somalia_in_global-ota_full-OS3.0.1.0.WBWINXM-user-16.0-09f1203569.zip
   name: Redmi 17 5G/Redmi R70m/Redmi A7 Pro 5G/Redmi 15A 5G/POCO C85x 5G
   version: OS3.0.1.0.WBWINXM
+- android: '16.0'
+  codename: somalia
+  date: '2026-05-06'
+  download: https://bigota.d.miui.com/OS3.0.6.0.WBWCNXM/fw_somalia_somalia-ota_full-OS3.0.6.0.WBWCNXM-user-16.0-00f1ab5c7b.zip
+  name: Redmi 17 5G/Redmi R70m/Redmi A7 Pro 5G/Redmi 15A 5G/POCO C85x 5G
+  version: OS3.0.6.0.WBWCNXM
 - android: '15.0'
   codename: spark
   date: '2025-12-31'
@@ -23680,6 +23704,12 @@
   download: https://bigota.d.miui.com/OS3.0.2.0.WHYMIXM/fw_spark_spark_global-ota_full-OS3.0.2.0.WHYMIXM-user-16.0-1a2cd1dcf1.zip
   name: Redmi Pad SE 8.7 4G
   version: OS3.0.2.0.WHYMIXM
+- android: '16.0'
+  codename: spark
+  date: '2026-05-06'
+  download: https://bigota.d.miui.com/OS3.0.3.0.WHYMIXM/fw_spark_spark_global-ota_full-OS3.0.3.0.WHYMIXM-user-16.0-53ffa0a36f.zip
+  name: Redmi Pad SE 8.7 4G
+  version: OS3.0.3.0.WHYMIXM
 - android: '15.0'
   codename: spark
   date: '2026-02-05'
@@ -23974,6 +24004,12 @@
   download: https://bigota.d.miui.com/OS2.0.207.0.VOUEUXM/fw_spring_spring_eea_global-ota_full-OS2.0.207.0.VOUEUXM-user-15.0-4c39f88d07.zip
   name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
   version: OS2.0.207.0.VOUEUXM
+- android: '16.0'
+  codename: spring
+  date: '2026-05-06'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WOUCNXM/fw_spring_spring-ota_full-OS3.0.302.0.WOUCNXM-user-16.0-37e6b8833a.zip
+  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  version: OS3.0.302.0.WOUCNXM
 - android: '15.0'
   codename: spring
   date: '2025-10-04'
@@ -25692,6 +25728,18 @@
   version: OS3.0.1.0.WPOCNXM
 - android: '16.0'
   codename: tornado
+  date: '2026-05-06'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WPOCNXM/fw_tornado_tornado-ota_full-OS3.0.302.0.WPOCNXM-user-16.0-fafc57434b.zip
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  version: OS3.0.302.0.WPOCNXM
+- android: '16.0'
+  codename: tornado
+  date: '2026-05-06'
+  download: https://bigota.d.miui.com/OS3.0.3.0.WPOMIXM/fw_tornado_tornado_global-ota_full-OS3.0.3.0.WPOMIXM-user-16.0-95ede93430.zip
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  version: OS3.0.3.0.WPOMIXM
+- android: '16.0'
+  codename: tornado
   date: '2026-04-07'
   download: https://bigota.d.miui.com/OS3.0.2.0.WPOINXM/fw_tornado_tornado_in_global-ota_full-OS3.0.2.0.WPOINXM-user-16.0-6a26a8fd42.zip
   name: Redmi 15C 5G/15R 5G/POCO C85 5G
@@ -25792,6 +25840,18 @@
   download: https://bigota.d.miui.com/OS2.0.216.0.VAOCNXM/fw_turner_turner-ota_full-OS2.0.216.0.VAOCNXM-user-15.0-ca8fa3442d.zip
   name: Redmi K Pad/Xiaomi Pad Mini
   version: OS2.0.216.0.VAOCNXM
+- android: '16.0'
+  codename: turner
+  date: '2026-05-06'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WAOCNXM/fw_turner_turner-ota_full-OS3.0.305.0.WAOCNXM-user-16.0-34ce2cd6bc.zip
+  name: Redmi K Pad/Xiaomi Pad Mini
+  version: OS3.0.305.0.WAOCNXM
+- android: '16.0'
+  codename: turner
+  date: '2026-05-06'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WAOMIXM/fw_turner_turner_global-ota_full-OS3.0.302.0.WAOMIXM-user-16.0-2e67cb3d0f.zip
+  name: Redmi K Pad/Xiaomi Pad Mini
+  version: OS3.0.302.0.WAOMIXM
 - android: '15.0'
   codename: turner
   date: '2025-10-04'
@@ -25984,6 +26044,12 @@
   download: https://bigota.d.miui.com/OS3.0.8.0.WOZMIXM/fw_uke_uke_global-ota_full-OS3.0.8.0.WOZMIXM-user-16.0-9dd9e5c41a.zip
   name: Xiaomi Pad 7/POCO Pad X1
   version: OS3.0.8.0.WOZMIXM
+- android: '16.0'
+  codename: uke
+  date: '2026-05-06'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WOZMIXM/fw_uke_uke_global-ota_full-OS3.0.301.0.WOZMIXM-user-16.0-7961bd3ff9.zip
+  name: Xiaomi Pad 7/POCO Pad X1
+  version: OS3.0.301.0.WOZMIXM
 - android: '15.0'
   codename: uke
   date: '2025-05-07'
@@ -27400,6 +27466,12 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VGVINXM/fw_warm_in_global_warm_in_global-ota_full-OS2.0.2.0.VGVINXM-user-15.0-e9633e132a.zip
   name: Redmi A4 5G/POCO C75 5G
   version: OS2.0.2.0.VGVINXM
+- android: '16.0'
+  codename: warm
+  date: '2026-05-06'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WGVINXM/fw_warm_warm_in_global-ota_full-OS3.0.4.0.WGVINXM-user-16.0-ac7e5d130c.zip
+  name: Redmi A4 5G/POCO C75 5G
+  version: OS3.0.4.0.WGVINXM
 - android: '14.0'
   codename: warm
   date: '2025-03-07'
@@ -28236,6 +28308,12 @@
   version: OS2.0.3.0.VMUEUXM
 - android: '15.0'
   codename: xun
+  date: '2026-05-06'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VMUCNXM/fw_xun_xun-ota_full-OS2.0.208.0.VMUCNXM-user-15.0-340d3ee852.zip
+  name: Redmi Pad SE
+  version: OS2.0.208.0.VMUCNXM
+- android: '15.0'
+  codename: xun
   date: '2025-04-07'
   download: https://bigota.d.miui.com/OS2.0.2.0.VMUMIXM/fw_xun_global_xun_global-ota_full-OS2.0.2.0.VMUMIXM-user-15.0-d04012abfb.zip
   name: Redmi Pad SE
@@ -28816,6 +28894,12 @@
   download: https://bigota.d.miui.com/OS3.0.2.0.WPZINXM/fw_yupei_yupei_in_global-ota_full-OS3.0.2.0.WPZINXM-user-16.0-7d5a6992aa.zip
   name: Xiaomi Pad 8
   version: OS3.0.2.0.WPZINXM
+- android: '16.0'
+  codename: yupei
+  date: '2026-05-06'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WPZCNXM/fw_yupei_yupei-ota_full-OS3.0.305.0.WPZCNXM-user-16.0-ab6c830ff4.zip
+  name: Xiaomi Pad 8
+  version: OS3.0.305.0.WPZCNXM
 - android: '16.0'
   codename: yupei
   date: '2025-10-04'
@@ -30352,6 +30436,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VLRCNXM/fw_zizhan_zizhan-ota_full-OS2.0.202.0.VLRCNXM-user-15.0-392793ef33.zip
   name: Xiaomi MIX Fold 2
   version: OS2.0.202.0.VLRCNXM
+- android: '15.0'
+  codename: zizhan
+  date: '2026-05-06'
+  download: https://bigota.d.miui.com/OS3.0.6.0.VLRCNXM/fw_zizhan_zizhan-ota_full-OS3.0.6.0.VLRCNXM-user-15.0-74d2477471.zip
+  name: Xiaomi MIX Fold 2
+  version: OS3.0.6.0.VLRCNXM
 - android: '15.0'
   codename: zizhan
   date: '2025-05-07'
