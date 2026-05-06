@@ -52,9 +52,9 @@ permalink: /hyperos/amethyst/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 14 Pro+ 5G China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WOPCNXM</td><td>16.0</td><td>8.6 GB</td><td>2026-01-22</td><td><a href="/hyperos/amethyst/stable/OS3.0.4.0.WOPCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 Pro+ 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WOPCNXM</td><td>16.0</td><td>6.5 GB</td><td>2026-02-04</td><td><a href="/hyperos/amethyst/stable/OS3.0.4.0.WOPCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 Pro+ 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WOPCNXM</td><td>16.0</td><td>6.7 GB</td><td>2026-04-22</td><td><a href="/hyperos/amethyst/stable beta/OS3.0.303.0.WOPCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 14 Pro+ 5G China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WOPCNXM</td><td>16.0</td><td>9.0 GB</td><td>2026-04-16</td><td><a href="/hyperos/amethyst/stable/OS3.0.303.0.WOPCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro+ 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WOPCNXM</td><td>16.0</td><td>6.7 GB</td><td>2026-04-22</td><td><a href="/hyperos/amethyst/stable/OS3.0.303.0.WOPCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro+ 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.12.0.UOPCNXM</td><td>14.0</td><td>6.0 GB</td><td>2024-09-26</td><td><a href="/hyperos/amethyst/stable beta/OS1.0.12.0.UOPCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro+ 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WOPEUXM</td><td>16.0</td><td>8.3 GB</td><td>2026-04-01</td><td><a href="/hyperos/amethyst/stable/OS3.0.4.0.WOPEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro+ 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WOPEUXM</td><td>16.0</td><td>6.1 GB</td><td>2026-04-10</td><td><a href="/hyperos/amethyst/stable/OS3.0.4.0.WOPEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro+ 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WOPMIXM</td><td>16.0</td><td>9.4 GB</td><td>2026-01-21</td><td><a href="/hyperos/amethyst/stable/OS3.0.4.0.WOPMIXM/">Download</a></td></tr>

@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2026-02-24'
+  date: '2026-05-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_creek/releases/download/stable-24.02.2026/fw_creek_creek_global-ota_full-OS3.0.10.0.WBOMIXM-user-16.0-3d6d38b412.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/creek/fw_creek_creek_global-ota_full-OS3.0.10.0.WBOMIXM-user-16.0-3d6d38b412.zip
-  filename: fw_creek_creek_global-ota_full-OS3.0.10.0.WBOMIXM-user-16.0-3d6d38b412.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_creek/releases/download/stable-06.05.2026/fw_creek_creek_global-ota_full-OS3.0.11.0.WBOMIXM-user-16.0-3fd10815e6.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/creek/fw_creek_creek_global-ota_full-OS3.0.11.0.WBOMIXM-user-16.0-3fd10815e6.zip
+  filename: fw_creek_creek_global-ota_full-OS3.0.11.0.WBOMIXM-user-16.0-3fd10815e6.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.10.0.WBOMIXM
+    miui: OS3.0.11.0.WBOMIXM
 - branch: stable
   date: '2025-09-28'
   downloads:
@@ -19,12 +19,12 @@
     android: '15.0'
     miui: OS2.0.204.0.VBOIDXM
 - branch: stable
-  date: '2026-02-24'
+  date: '2026-05-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_creek/releases/download/stable-24.02.2026/fw_creek_creek_eea_global-ota_full-OS3.0.5.0.WBOEUXM-user-16.0-8555363ee0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/creek/fw_creek_creek_eea_global-ota_full-OS3.0.5.0.WBOEUXM-user-16.0-8555363ee0.zip
-  filename: fw_creek_creek_eea_global-ota_full-OS3.0.5.0.WBOEUXM-user-16.0-8555363ee0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_creek/releases/download/stable-06.05.2026/fw_creek_creek_eea_global-ota_full-OS3.0.6.0.WBOEUXM-user-16.0-b2427c70d3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/creek/fw_creek_creek_eea_global-ota_full-OS3.0.6.0.WBOEUXM-user-16.0-b2427c70d3.zip
+  filename: fw_creek_creek_eea_global-ota_full-OS3.0.6.0.WBOEUXM-user-16.0-b2427c70d3.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.5.0.WBOEUXM
+    miui: OS3.0.6.0.WBOEUXM

@@ -55,7 +55,7 @@ permalink: /hyperos/gold/
                 <tr><td>Redmi Note 13 5G / 13R Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.7.0.VNQCNXM</td><td>15.0</td><td>7.9 GB</td><td>2026-02-06</td><td><a href="/hyperos/gold/stable/OS3.0.7.0.VNQCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 5G / 13R Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.7.0.VNQCNXM</td><td>15.0</td><td>5.8 GB</td><td>2026-02-10</td><td><a href="/hyperos/gold/stable/OS3.0.7.0.VNQCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 5G / POCO X6 Neo 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VNQEUXM</td><td>15.0</td><td>7.7 GB</td><td>2025-12-27</td><td><a href="/hyperos/gold/stable/OS2.0.208.0.VNQEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 13 5G / POCO X6 Neo 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.VNQEUXM</td><td>15.0</td><td>5.6 GB</td><td>2026-04-08</td><td><a href="/hyperos/gold/stable/OS3.0.2.0.VNQEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 5G / POCO X6 Neo 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VNQEUXM</td><td>15.0</td><td>5.3 GB</td><td>2026-01-04</td><td><a href="/hyperos/gold/stable/OS2.0.208.0.VNQEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 5G / POCO X6 Neo 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.VNQMIXM</td><td>15.0</td><td>8.4 GB</td><td>2026-03-19</td><td><a href="/hyperos/gold/stable/OS3.0.2.0.VNQMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 5G / POCO X6 Neo 5G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.VNQMIXM</td><td>15.0</td><td>5.5 GB</td><td>2026-03-30</td><td><a href="/hyperos/gold/stable/OS3.0.2.0.VNQMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 5G / POCO X6 Neo 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VNQIDXM</td><td>15.0</td><td>7.7 GB</td><td>2025-12-05</td><td><a href="/hyperos/gold/stable/OS2.0.208.0.VNQIDXM/">Download</a></td></tr>
@@ -64,9 +64,12 @@ permalink: /hyperos/gold/
 <tr><td>Redmi Note 13 5G / POCO X6 Neo 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.210.0.VNQINXM</td><td>15.0</td><td>4.9 GB</td><td>2025-12-15</td><td><a href="/hyperos/gold/stable/OS2.0.210.0.VNQINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 5G / POCO X6 Neo 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VNQTRXM</td><td>15.0</td><td>7.5 GB</td><td>2025-12-09</td><td><a href="/hyperos/gold/stable/OS2.0.207.0.VNQTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 5G / POCO X6 Neo 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VNQTRXM</td><td>15.0</td><td>5.2 GB</td><td>2025-12-17</td><td><a href="/hyperos/gold/stable/OS2.0.207.0.VNQTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 5G / POCO X6 Neo 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.1.0.VNQIDXM</td><td>15.0</td><td>5.5 GB</td><td>2026-04-28</td><td><a href="/hyperos/gold/stable beta/OS3.0.1.0.VNQIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 5G / POCO X6 Neo 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VNQTWXM</td><td>15.0</td><td>6.5 GB</td><td>2025-12-09</td><td><a href="/hyperos/gold/stable/OS2.0.208.0.VNQTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 5G / POCO X6 Neo 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VNQTWXM</td><td>15.0</td><td>5.0 GB</td><td>2025-12-15</td><td><a href="/hyperos/gold/stable/OS2.0.208.0.VNQTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 5G / POCO X6 Neo 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.2.0.VNQINXM</td><td>15.0</td><td>5.3 GB</td><td>2026-04-28</td><td><a href="/hyperos/gold/stable beta/OS3.0.2.0.VNQINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 5G / POCO X6 Neo 5G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.2.0.VNQTRXM</td><td>15.0</td><td>5.5 GB</td><td>2026-04-28</td><td><a href="/hyperos/gold/stable beta/OS3.0.2.0.VNQTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 5G / POCO X6 Neo 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.2.0.VNQTWXM</td><td>15.0</td><td>5.3 GB</td><td>2026-04-28</td><td><a href="/hyperos/gold/stable beta/OS3.0.2.0.VNQTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

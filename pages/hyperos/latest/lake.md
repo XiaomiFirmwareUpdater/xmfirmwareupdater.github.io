@@ -54,6 +54,7 @@ permalink: /hyperos/lake/
                 <tbody>
                 <tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WGTEUXM</td><td>16.0</td><td>7.0 GB</td><td>2026-03-02</td><td><a href="/hyperos/lake/stable/OS3.0.3.0.WGTEUXM/">Download</a></td></tr>
 <tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WGTEUXM</td><td>16.0</td><td>4.8 GB</td><td>2026-03-12</td><td><a href="/hyperos/lake/stable/OS3.0.3.0.WGTEUXM/">Download</a></td></tr>
+<tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.4.0.WGTEUXM</td><td>16.0</td><td>4.8 GB</td><td>2026-04-30</td><td><a href="/hyperos/lake/stable beta/OS3.0.4.0.WGTEUXM/">Download</a></td></tr>
 <tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.18.0.WGTMIXM</td><td>16.0</td><td>8.0 GB</td><td>2026-02-04</td><td><a href="/hyperos/lake/stable/OS3.0.18.0.WGTMIXM/">Download</a></td></tr>
 <tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.18.0.WGTMIXM</td><td>16.0</td><td>4.8 GB</td><td>2026-02-21</td><td><a href="/hyperos/lake/stable/OS3.0.18.0.WGTMIXM/">Download</a></td></tr>
 <tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UGTMIXM</td><td>14.0</td><td>4.2 GB</td><td>2024-09-02</td><td><a href="/hyperos/lake/stable beta/OS1.0.1.0.UGTMIXM/">Download</a></td></tr>
