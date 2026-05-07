@@ -14248,6 +14248,12 @@
   download: https://bigota.d.miui.com/OS3.0.3.0.WOMEUXM/fw_miro_miro_eea_global-ota_full-OS3.0.3.0.WOMEUXM-user-16.0-50e3e6e0c0.zip
   name: Redmi K80 Pro/POCO F7 Ultra
   version: OS3.0.3.0.WOMEUXM
+- android: '16.0'
+  codename: miro
+  date: '2026-05-07'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WOMCNXM/fw_miro_miro-ota_full-OS3.0.303.0.WOMCNXM-user-16.0-56b2b58966.zip
+  name: Redmi K80 Pro/POCO F7 Ultra
+  version: OS3.0.303.0.WOMCNXM
 - android: '15.0'
   codename: miro
   date: '2024-12-06'
@@ -15952,6 +15958,12 @@
   download: https://bigota.d.miui.com/OS3.0.301.0.WPAEUXM/fw_nezha_nezha_eea_global-ota_full-OS3.0.301.0.WPAEUXM-user-16.0-38ac0016a0.zip
   name: Xiaomi 17 Ultra
   version: OS3.0.301.0.WPAEUXM
+- android: '16.0'
+  codename: nezha
+  date: '2026-05-07'
+  download: https://bigota.d.miui.com/OS3.0.306.0.WPACNXM/fw_nezha_nezha-ota_full-OS3.0.306.0.WPACNXM-user-16.0-dd932b5d96.zip
+  name: Xiaomi 17 Ultra
+  version: OS3.0.306.0.WPACNXM
 - android: '16.0'
   codename: nezha
   date: '2026-05-02'
@@ -17902,6 +17914,12 @@
   download: https://bigota.d.miui.com/OS3.0.2.0.WPYMIXM/fw_piano_piano_global-ota_full-OS3.0.2.0.WPYMIXM-user-16.0-d44157d06d.zip
   name: Xiaomi Pad 8 Pro
   version: OS3.0.2.0.WPYMIXM
+- android: '16.0'
+  codename: piano
+  date: '2026-05-07'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WPYCNXM/fw_piano_piano-ota_full-OS3.0.305.0.WPYCNXM-user-16.0-241014a6e6.zip
+  name: Xiaomi Pad 8 Pro
+  version: OS3.0.305.0.WPYCNXM
 - android: '16.0'
   codename: piano
   date: '2025-10-04'
@@ -28018,6 +28036,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VOAINXM/fw_xuanyuan_in_global_xuanyuan_in_global-ota_full-OS2.0.202.0.VOAINXM-user-15.0-5d1e293122.zip
   name: Xiaomi 15 Ultra
   version: OS2.0.202.0.VOAINXM
+- android: '16.0'
+  codename: xuanyuan
+  date: '2026-05-07'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WOAEUXM/fw_xuanyuan_xuanyuan_eea_global-ota_full-OS3.0.301.0.WOAEUXM-user-16.0-b13d98b902.zip
+  name: Xiaomi 15 Ultra
+  version: OS3.0.301.0.WOAEUXM
 - android: '15.0'
   codename: xuanyuan
   date: '2025-04-06'

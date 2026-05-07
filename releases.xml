@@ -4,11 +4,31 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 07 May 2026 12:47:41 </lastBuildDate>
+        <lastBuildDate>Thu, 07 May 2026 19:29:11 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.5.0.WOPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
+            <pubDate>Thu, 07 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS3.0.303.0.WOMCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/miro/</link>
+            <pubDate>Thu, 07 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17 Ultra (nezha) - OS3.0.306.0.WPACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/nezha/</link>
+            <pubDate>Thu, 07 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 8 Pro (piano) - OS3.0.305.0.WPYCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/piano/</link>
+            <pubDate>Thu, 07 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 Ultra (xuanyuan) - OS3.0.301.0.WOAEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Thu, 07 May 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -657,11 +677,6 @@
             <pubDate>Fri, 17 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS3.0.302.0.WOMCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/miro/</link>
-            <pubDate>Thu, 16 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 8 Pro (piano) - OS3.0.302.0.WPYMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/piano/</link>
             <pubDate>Thu, 16 Apr 2026 00:00:00 </pubDate>
@@ -1287,16 +1302,6 @@
             <pubDate>Sat, 14 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 17 Ultra (nezha) - OS3.0.303.0.WPACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/nezha/</link>
-            <pubDate>Sat, 14 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 8 Pro (piano) - OS3.0.303.0.WPYCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/piano/</link>
-            <pubDate>Sat, 14 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13 (fuxi) - OS3.0.4.0.WMCMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
             <pubDate>Fri, 13 Mar 2026 00:00:00 </pubDate>
@@ -1395,11 +1400,6 @@
             <title>Redmi Pad SE (xun) - OS2.0.207.0.VMUMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xun/</link>
             <pubDate>Mon, 02 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 Ultra (xuanyuan) - OS3.0.9.0.WOAEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
-            <pubDate>Sat, 28 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 13T (aristotle) - OS2.0.214.0.VMFMIXM</title>
