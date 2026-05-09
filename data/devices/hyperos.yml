@@ -4326,6 +4326,12 @@
   version: OS3.0.303.0.WPLCNXM
 - android: '16.0'
   codename: dash
+  date: '2026-05-09'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WPLCNXM/fw_dash_dash-ota_full-OS3.0.304.0.WPLCNXM-user-16.0-6577bbc074.zip
+  name: Redmi Turbo 5 Max/POCO X8 Pro Max
+  version: OS3.0.304.0.WPLCNXM
+- android: '16.0'
+  codename: dash
   date: '2026-03-04'
   download: https://bigota.d.miui.com/OS3.0.10.0.WPLCNXM/fw_dash_dash-ota_full-OS3.0.10.0.WPLCNXM-user-16.0-b62313a48b.zip
   name: Redmi Turbo 5 Max/POCO X8 Pro Max
@@ -4552,6 +4558,12 @@
   download: https://bigota.d.miui.com/OS2.0.5.0.VNEEUXM/fw_degas_eea_global_degas_eea_global-ota_full-OS2.0.5.0.VNEEUXM-user-15.0-4b8cfd7cc6.zip
   name: Xiaomi 14T
   version: OS2.0.5.0.VNEEUXM
+- android: '16.0'
+  codename: degas
+  date: '2026-05-09'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WNEMIXM/fw_degas_degas_global-ota_full-OS3.0.301.0.WNEMIXM-user-16.0-209e782299.zip
+  name: Xiaomi 14T
+  version: OS3.0.301.0.WNEMIXM
 - android: '14.0'
   codename: degas
   date: '2024-12-07'
@@ -26824,6 +26836,12 @@
   download: https://bigota.d.miui.com/OS2.0.201.0.VNKMIXM/fw_vermeer_global_vermeer_global-ota_full-OS2.0.201.0.VNKMIXM-user-15.0-68feb6f855.zip
   name: Redmi K70/POCO F6 Pro
   version: OS2.0.201.0.VNKMIXM
+- android: '16.0'
+  codename: vermeer
+  date: '2026-05-09'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WNKEUXM/fw_vermeer_vermeer_eea_global-ota_full-OS3.0.301.0.WNKEUXM-user-16.0-66f8e9ae9b.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS3.0.301.0.WNKEUXM
 - android: '16.0'
   codename: vermeer
   date: '2026-01-09'
