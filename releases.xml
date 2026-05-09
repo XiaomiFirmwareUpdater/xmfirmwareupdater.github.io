@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 09 May 2026 06:47:58 </lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 13:21:31 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi A7 Pro/POCO C81 Pro (arctic) - OS3.0.7.0.WBVMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/arctic/</link>
+            <pubDate>Sat, 09 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K60E (rembrandt) - OS2.0.25.0.UMMCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rembrandt/</link>
+            <pubDate>Sat, 09 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A5/POCO C71 (serenity) - A15.0.26.0.VGWMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
             <pubDate>Sat, 09 May 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -982,11 +992,6 @@
             <pubDate>Wed, 01 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi A5/POCO C71 (serenity) - A15.0.22.0.VGWMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
-            <pubDate>Wed, 01 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad SE 8.7 4G (spark) - OS3.0.2.0.WHYINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spark/</link>
             <pubDate>Wed, 01 Apr 2026 00:00:00 </pubDate>
@@ -1565,11 +1570,6 @@
             <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.16.0.UKOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
             <pubDate>Wed, 31 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60E (rembrandt) - OS2.0.23.0.UMMCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rembrandt/</link>
-            <pubDate>Sat, 27 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Mi 11 Lite 5G (renoir) - V14.0.16.0.TKICNXM</title>
