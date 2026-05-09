@@ -329,15 +329,15 @@
     android: '7.0'
     miui: 8.9.13
 - branch: stable
-  date: '2026-04-03'
+  date: '2026-05-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_arctic/releases/download/stable-03.04.2026/fw_arctic_arctic_global-ota_full-OS3.0.6.0.WBVMIXM-user-16.0-a33067d533.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/arctic/fw_arctic_arctic_global-ota_full-OS3.0.6.0.WBVMIXM-user-16.0-a33067d533.zip
-  filename: fw_arctic_arctic_global-ota_full-OS3.0.6.0.WBVMIXM-user-16.0-a33067d533.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_arctic/releases/download/stable-09.05.2026/fw_arctic_arctic_global-ota_full-OS3.0.7.0.WBVMIXM-user-16.0-db1d34b4a8.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/arctic/fw_arctic_arctic_global-ota_full-OS3.0.7.0.WBVMIXM-user-16.0-db1d34b4a8.zip
+  filename: fw_arctic_arctic_global-ota_full-OS3.0.7.0.WBVMIXM-user-16.0-db1d34b4a8.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.6.0.WBVMIXM
+    miui: OS3.0.7.0.WBVMIXM
 - branch: stable
   date: '2026-04-24'
   downloads:
