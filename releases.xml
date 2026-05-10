@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 10 May 2026 06:40:00 </lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 12:50:58 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - OS3.0.309.0.WMBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Sun, 10 May 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi A7 Pro/POCO C81 Pro (arctic) - OS3.0.7.0.WBVMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/arctic/</link>
@@ -323,11 +328,6 @@
         </item>
         <item>
             <title>Xiaomi 13 Pro (nuwa) - OS3.0.3.0.WMBMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Thu, 30 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Pro (nuwa) - OS3.0.305.0.WMBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Thu, 30 Apr 2026 00:00:00 </pubDate>
         </item>

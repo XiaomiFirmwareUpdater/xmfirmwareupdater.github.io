@@ -16372,6 +16372,12 @@
   download: https://bigota.d.miui.com/OS2.0.2.0.VMBEUXM/fw_nuwa_eea_global_nuwa_eea_global-ota_full-OS2.0.2.0.VMBEUXM-user-15.0-11fea07fbb.zip
   name: Xiaomi 13 Pro
   version: OS2.0.2.0.VMBEUXM
+- android: '16.0'
+  codename: nuwa
+  date: '2026-05-10'
+  download: https://bigota.d.miui.com/OS3.0.309.0.WMBCNXM/fw_nuwa_nuwa-ota_full-OS3.0.309.0.WMBCNXM-user-16.0-1b8bab56f1.zip
+  name: Xiaomi 13 Pro
+  version: OS3.0.309.0.WMBCNXM
 - android: '15.0'
   codename: nuwa
   date: '2025-06-09'
