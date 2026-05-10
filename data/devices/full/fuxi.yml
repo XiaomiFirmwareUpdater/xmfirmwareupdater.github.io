@@ -649,6 +649,16 @@
     android: '14.0'
     miui: OS1.0.9.0.UMCCNXM
 - branch: stable
+  date: '2026-05-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-10.05.2026/fw_fuxi_fuxi-ota_full-OS3.0.307.0.WMCCNXM-user-16.0-dfdca9894e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/fuxi/fw_fuxi_fuxi-ota_full-OS3.0.307.0.WMCCNXM-user-16.0-dfdca9894e.zip
+  filename: fw_fuxi_fuxi-ota_full-OS3.0.307.0.WMCCNXM-user-16.0-dfdca9894e.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.307.0.WMCCNXM
+- branch: stable
   date: '2024-12-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-09.12.2024/fw_fuxi_miui_FUXIGlobal_OS1.0.10.0.UMCMIXM_3c59bd0eea_14.0.zip

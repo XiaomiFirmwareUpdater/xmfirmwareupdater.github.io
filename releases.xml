@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 10 May 2026 12:50:58 </lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 18:53:00 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13 (fuxi) - OS3.0.307.0.WMCCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
+            <pubDate>Sun, 10 May 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 13 Pro (nuwa) - OS3.0.309.0.WMBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
@@ -484,11 +489,6 @@
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.5.0.WNLINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Mon, 27 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 (fuxi) - OS3.0.303.0.WMCCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
             <pubDate>Mon, 27 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>

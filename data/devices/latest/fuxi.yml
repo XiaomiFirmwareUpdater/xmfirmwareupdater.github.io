@@ -9,15 +9,15 @@
     android: '16.0'
     miui: OS3.0.4.0.WMCMIXM
 - branch: stable
-  date: '2026-04-27'
+  date: '2026-05-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-27.04.2026/fw_fuxi_fuxi-ota_full-OS3.0.303.0.WMCCNXM-user-16.0-7af2644f9e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/fuxi/fw_fuxi_fuxi-ota_full-OS3.0.303.0.WMCCNXM-user-16.0-7af2644f9e.zip
-  filename: fw_fuxi_fuxi-ota_full-OS3.0.303.0.WMCCNXM-user-16.0-7af2644f9e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-10.05.2026/fw_fuxi_fuxi-ota_full-OS3.0.307.0.WMCCNXM-user-16.0-dfdca9894e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/fuxi/fw_fuxi_fuxi-ota_full-OS3.0.307.0.WMCCNXM-user-16.0-dfdca9894e.zip
+  filename: fw_fuxi_fuxi-ota_full-OS3.0.307.0.WMCCNXM-user-16.0-dfdca9894e.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.303.0.WMCCNXM
+    miui: OS3.0.307.0.WMCCNXM
 - branch: stable
   date: '2026-04-13'
   downloads:
