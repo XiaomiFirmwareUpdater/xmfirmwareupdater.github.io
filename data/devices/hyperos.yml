@@ -9492,6 +9492,12 @@
   version: OS3.0.2.0.VNQEUXM
 - android: '15.0'
   codename: gold
+  date: '2026-05-11'
+  download: https://bigota.d.miui.com/OS3.0.4.0.VNQEUXM/fw_gold_gold_eea_global-ota_full-OS3.0.4.0.VNQEUXM-user-15.0-2a7a630b74.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS3.0.4.0.VNQEUXM
+- android: '15.0'
+  codename: gold
   date: '2025-05-12'
   download: https://bigota.d.miui.com/OS2.0.6.0.VNQMIXM/fw_gold_global_gold_global-ota_full-OS2.0.6.0.VNQMIXM-user-15.0-72ddb0b05a.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
