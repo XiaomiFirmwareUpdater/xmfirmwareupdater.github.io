@@ -12114,6 +12114,12 @@
   version: OS2.0.208.0.VPPCNXM
 - android: '16.0'
   codename: lapis
+  date: '2026-05-11'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WPPMIXM/fw_lapis_lapis_global-ota_full-OS3.0.304.0.WPPMIXM-user-16.0-74547e1be7.zip
+  name: Redmi Note 15 Pro 5G
+  version: OS3.0.304.0.WPPMIXM
+- android: '16.0'
+  codename: lapis
   date: '2026-02-09'
   download: https://bigota.d.miui.com/OS3.0.7.0.WPPCNXM/fw_lapis_lapis-ota_full-OS3.0.7.0.WPPCNXM-user-16.0-0b3f2acdbb.zip
   name: Redmi Note 15 Pro 5G
@@ -23350,6 +23356,18 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UMWMIXM/fw_sky_miui_SKYGlobal_OS1.0.5.0.UMWMIXM_82e7589f64_14.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
   version: OS1.0.5.0.UMWMIXM
+- android: '15.0'
+  codename: sky
+  date: '2026-05-11'
+  download: https://bigota.d.miui.com/OS2.0.215.0.VMWEUXM/fw_sky_sky_eea_global-ota_full-OS2.0.215.0.VMWEUXM-user-15.0-7df14b9940.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS2.0.215.0.VMWEUXM
+- android: '15.0'
+  codename: sky
+  date: '2026-05-11'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VMWMIXM/fw_sky_sky_global-ota_full-OS2.0.208.0.VMWMIXM-user-15.0-34d74acb5e.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS2.0.208.0.VMWMIXM
 - android: '15.0'
   codename: sky
   date: '2025-10-09'

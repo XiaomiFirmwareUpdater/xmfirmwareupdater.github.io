@@ -449,6 +449,26 @@
     android: '14.0'
     miui: OS1.0.5.0.UMWMIXM
 - branch: stable
+  date: '2026-05-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-11.05.2026/fw_sky_sky_eea_global-ota_full-OS2.0.215.0.VMWEUXM-user-15.0-7df14b9940.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sky/fw_sky_sky_eea_global-ota_full-OS2.0.215.0.VMWEUXM-user-15.0-7df14b9940.zip
+  filename: fw_sky_sky_eea_global-ota_full-OS2.0.215.0.VMWEUXM-user-15.0-7df14b9940.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.215.0.VMWEUXM
+- branch: stable
+  date: '2026-05-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-11.05.2026/fw_sky_sky_global-ota_full-OS2.0.208.0.VMWMIXM-user-15.0-34d74acb5e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sky/fw_sky_sky_global-ota_full-OS2.0.208.0.VMWMIXM-user-15.0-34d74acb5e.zip
+  filename: fw_sky_sky_global-ota_full-OS2.0.208.0.VMWMIXM-user-15.0-34d74acb5e.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.208.0.VMWMIXM
+- branch: stable
   date: '2025-10-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-09.10.2025/fw_sky_sky_in_global-ota_full-OS2.0.201.0.VMWINXM-user-15.0-213480bc39.zip
