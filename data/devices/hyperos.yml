@@ -23670,6 +23670,12 @@
   version: OS3.0.1.0.WBWINXM
 - android: '16.0'
   codename: somalia
+  date: '2026-05-11'
+  download: https://bigota.d.miui.com/OS3.0.9.0.WBWINXM/fw_somalia_somalia_in_global-ota_full-OS3.0.9.0.WBWINXM-user-16.0-2b4cf013cb.zip
+  name: Redmi 17 5G/Redmi R70m/Redmi A7 Pro 5G/Redmi 15A 5G/POCO C85x 5G
+  version: OS3.0.9.0.WBWINXM
+- android: '16.0'
+  codename: somalia
   date: '2026-05-06'
   download: https://bigota.d.miui.com/OS3.0.6.0.WBWCNXM/fw_somalia_somalia-ota_full-OS3.0.6.0.WBWCNXM-user-16.0-00f1ab5c7b.zip
   name: Redmi 17 5G/Redmi R70m/Redmi A7 Pro 5G/Redmi 15A 5G/POCO C85x 5G

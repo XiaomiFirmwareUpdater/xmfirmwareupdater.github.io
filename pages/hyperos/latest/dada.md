@@ -67,6 +67,7 @@ permalink: /hyperos/dada/
 <tr><td>Xiaomi 15 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WOCIDXM</td><td>16.0</td><td>8.3 GB</td><td>2026-04-30</td><td><a href="/hyperos/dada/stable/OS3.0.301.0.WOCIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WOCRUXM</td><td>16.0</td><td>10.7 GB</td><td>2026-04-23</td><td><a href="/hyperos/dada/stable/OS3.0.301.0.WOCRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WOCRUXM</td><td>16.0</td><td>8.2 GB</td><td>2026-04-30</td><td><a href="/hyperos/dada/stable/OS3.0.301.0.WOCRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WOCTWXM</td><td>16.0</td><td>8.1 GB</td><td>2026-05-08</td><td><a href="/hyperos/dada/stable beta/OS3.0.301.0.WOCTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

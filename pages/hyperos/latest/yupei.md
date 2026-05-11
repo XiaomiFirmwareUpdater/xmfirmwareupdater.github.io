@@ -52,9 +52,9 @@ permalink: /hyperos/yupei/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 8 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.12.0.WPZCNXM</td><td>16.0</td><td>10.9 GB</td><td>2026-01-23</td><td><a href="/hyperos/yupei/stable/OS3.0.12.0.WPZCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 8 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.12.0.WPZCNXM</td><td>16.0</td><td>9.4 GB</td><td>2026-02-04</td><td><a href="/hyperos/yupei/stable/OS3.0.12.0.WPZCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 8 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.305.0.WPZCNXM</td><td>16.0</td><td>9.4 GB</td><td>2026-04-29</td><td><a href="/hyperos/yupei/stable beta/OS3.0.305.0.WPZCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 8 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.305.0.WPZCNXM</td><td>16.0</td><td>10.9 GB</td><td>2026-04-21</td><td><a href="/hyperos/yupei/stable/OS3.0.305.0.WPZCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 8 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.305.0.WPZCNXM</td><td>16.0</td><td>9.4 GB</td><td>2026-04-29</td><td><a href="/hyperos/yupei/stable/OS3.0.305.0.WPZCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 8 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WPZCNXM</td><td>16.0</td><td>9.3 GB</td><td>2025-09-25</td><td><a href="/hyperos/yupei/stable beta/OS3.0.3.0.WPZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WPZEUXM</td><td>16.0</td><td>8.3 GB</td><td>2026-04-07</td><td><a href="/hyperos/yupei/stable/OS3.0.303.0.WPZEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WPZEUXM</td><td>16.0</td><td>6.8 GB</td><td>2026-04-16</td><td><a href="/hyperos/yupei/stable/OS3.0.303.0.WPZEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WPZMIXM</td><td>16.0</td><td>10.2 GB</td><td>2026-04-07</td><td><a href="/hyperos/yupei/stable/OS3.0.302.0.WPZMIXM/">Download</a></td></tr>
