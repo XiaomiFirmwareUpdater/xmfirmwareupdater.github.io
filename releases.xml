@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 12 May 2026 13:04:12 </lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2026 18:51:40 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS3.0.4.0.WPRMIXM</title>
@@ -19,6 +19,16 @@
         <item>
             <title>MIX Fold 4 (goku) - OS3.0.305.0.WNVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/goku/</link>
+            <pubDate>Tue, 12 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A3x (klein) - V816.0.3.0.WGSMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/klein/</link>
+            <pubDate>Tue, 12 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A3x (klein) - V816.0.3.0.WGSINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/klein/</link>
             <pubDate>Tue, 12 May 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1357,11 +1367,6 @@
             <pubDate>Mon, 09 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi A3x (klein) - V816.0.2.0.WGSINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/klein/</link>
-            <pubDate>Mon, 09 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 4G (tapas) - OS2.0.204.0.VMTINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tapas/</link>
             <pubDate>Mon, 09 Mar 2026 00:00:00 </pubDate>
@@ -1480,11 +1485,6 @@
             <title>Xiaomi Pad 6 (pipa) - OS2.0.19.0.UMZCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
             <pubDate>Sat, 07 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A3x (klein) - V816.0.2.0.WGSMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/klein/</link>
-            <pubDate>Fri, 06 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi A5/POCO C71 (serenity) - A15.0.14.0.VGWINXM</title>

@@ -52,13 +52,13 @@ permalink: /miui/klein/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi A3x Global</td><td>Stable</td><td>Fastboot</td><td>V816.0.2.0.WGSMIXM</td><td>16.0</td><td>4.8 GB</td><td>2026-01-30</td><td><a href="/miui/klein/stable/V816.0.2.0.WGSMIXM/">Download</a></td></tr>
-<tr><td>Redmi A3x Global</td><td>Stable</td><td>Recovery</td><td>V816.0.2.0.WGSMIXM</td><td>16.0</td><td>3.1 GB</td><td>2026-02-06</td><td><a href="/miui/klein/stable/V816.0.2.0.WGSMIXM/">Download</a></td></tr>
-<tr><td>Redmi A3x India</td><td>Stable</td><td>Fastboot</td><td>V816.0.2.0.WGSINXM</td><td>16.0</td><td>3.7 GB</td><td>2026-01-30</td><td><a href="/miui/klein/stable/V816.0.2.0.WGSINXM/">Download</a></td></tr>
-<tr><td>Redmi A3x India</td><td>Stable</td><td>Recovery</td><td>V816.0.2.0.WGSINXM</td><td>16.0</td><td>3.0 GB</td><td>2026-03-09</td><td><a href="/miui/klein/stable/V816.0.2.0.WGSINXM/">Download</a></td></tr>
+                <tr><td>Redmi A3x Global</td><td>Stable</td><td>Fastboot</td><td>V816.0.3.0.WGSMIXM</td><td>16.0</td><td>4.8 GB</td><td>2026-05-06</td><td><a href="/miui/klein/stable/V816.0.3.0.WGSMIXM/">Download</a></td></tr>
+<tr><td>Redmi A3x Global</td><td>Stable</td><td>Recovery</td><td>V816.0.3.0.WGSMIXM</td><td>16.0</td><td>3.1 GB</td><td>2026-05-12</td><td><a href="/miui/klein/stable/V816.0.3.0.WGSMIXM/">Download</a></td></tr>
+<tr><td>Redmi A3x India</td><td>Stable</td><td>Fastboot</td><td>V816.0.3.0.WGSINXM</td><td>16.0</td><td>3.7 GB</td><td>2026-05-06</td><td><a href="/miui/klein/stable/V816.0.3.0.WGSINXM/">Download</a></td></tr>
+<tr><td>Redmi A3x India</td><td>Stable</td><td>Recovery</td><td>V816.0.3.0.WGSINXM</td><td>16.0</td><td>3.0 GB</td><td>2026-05-12</td><td><a href="/miui/klein/stable/V816.0.3.0.WGSINXM/">Download</a></td></tr>
 <tr><td>Redmi A3x India</td><td>Stable Beta</td><td>Recovery</td><td>V816.0.6.0.VGSINXM</td><td>15.0</td><td>2.8 GB</td><td>2025-06-25</td><td><a href="/miui/klein/stable beta/V816.0.6.0.VGSINXM/">Download</a></td></tr>
-<tr><td>Redmi A3x Russia</td><td>Stable</td><td>Fastboot</td><td>V816.0.2.0.WGSRUXM</td><td>16.0</td><td>4.6 GB</td><td>2026-01-30</td><td><a href="/miui/klein/stable/V816.0.2.0.WGSRUXM/">Download</a></td></tr>
-<tr><td>Redmi A3x Russia</td><td>Stable</td><td>Recovery</td><td>V816.0.2.0.WGSRUXM</td><td>16.0</td><td>3.0 GB</td><td>2026-02-09</td><td><a href="/miui/klein/stable/V816.0.2.0.WGSRUXM/">Download</a></td></tr>
+<tr><td>Redmi A3x Russia</td><td>Stable</td><td>Fastboot</td><td>V816.0.3.0.WGSRUXM</td><td>16.0</td><td>4.6 GB</td><td>2026-05-06</td><td><a href="/miui/klein/stable/V816.0.3.0.WGSRUXM/">Download</a></td></tr>
+<tr><td>Redmi A3x Russia</td><td>Stable</td><td>Recovery</td><td>V816.0.3.0.WGSRUXM</td><td>16.0</td><td>3.0 GB</td><td>2026-05-12</td><td><a href="/miui/klein/stable/V816.0.3.0.WGSRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
