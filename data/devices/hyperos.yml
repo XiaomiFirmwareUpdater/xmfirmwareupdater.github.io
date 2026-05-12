@@ -9112,6 +9112,12 @@
   download: https://bigota.d.miui.com/OS2.0.106.0.VNVCNXM/fw_goku_goku-ota_full-OS2.0.106.0.VNVCNXM-user-15.0-64d2a743ab.zip
   name: MIX Fold 4
   version: OS2.0.106.0.VNVCNXM
+- android: '16.0'
+  codename: goku
+  date: '2026-05-12'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WNVCNXM/fw_goku_goku-ota_full-OS3.0.305.0.WNVCNXM-user-16.0-b5a4679667.zip
+  name: MIX Fold 4
+  version: OS3.0.305.0.WNVCNXM
 - android: '14.0'
   codename: goku
   date: '2024-09-10'
