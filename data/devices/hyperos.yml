@@ -7620,6 +7620,18 @@
   version: OS2.0.205.0.VPRCNXM
 - android: '16.0'
   codename: flourite
+  date: '2026-05-12'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WPRMIXM/fw_flourite_flourite_global-ota_full-OS3.0.4.0.WPRMIXM-user-16.0-5f1684fcf3.zip
+  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
+  version: OS3.0.4.0.WPRMIXM
+- android: '16.0'
+  codename: flourite
+  date: '2026-05-12'
+  download: https://bigota.d.miui.com/OS3.0.3.0.WPRINXM/fw_flourite_flourite_in_global-ota_full-OS3.0.3.0.WPRINXM-user-16.0-a83ac3b2ee.zip
+  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
+  version: OS3.0.3.0.WPRINXM
+- android: '16.0'
+  codename: flourite
   date: '2026-04-09'
   download: https://bigota.d.miui.com/OS3.0.1.0.WPRMIXM/fw_flourite_flourite_global-ota_full-OS3.0.1.0.WPRMIXM-user-16.0-7f5aefe2f8.zip
   name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
@@ -13156,6 +13168,12 @@
   download: https://bigota.d.miui.com/OS3.0.4.0.WOOEUXM/fw_malachite_malachite_eea_global-ota_full-OS3.0.4.0.WOOEUXM-user-16.0-4c858c6754.zip
   name: Redmi Note 14 Pro 5G/POCO X7
   version: OS3.0.4.0.WOOEUXM
+- android: '16.0'
+  codename: malachite
+  date: '2026-05-12'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WOOCNXM/fw_malachite_malachite-ota_full-OS3.0.304.0.WOOCNXM-user-16.0-11c8f81c7e.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS3.0.304.0.WOOCNXM
 - android: '14.0'
   codename: malachite
   date: '2025-03-12'
@@ -28096,6 +28114,12 @@
   download: https://bigota.d.miui.com/OS3.0.7.0.WOAEUXM/fw_xuanyuan_xuanyuan_eea_global-ota_full-OS3.0.7.0.WOAEUXM-user-16.0-6a5540f91c.zip
   name: Xiaomi 15 Ultra
   version: OS3.0.7.0.WOAEUXM
+- android: '16.0'
+  codename: xuanyuan
+  date: '2026-05-12'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WOAMIXM/fw_xuanyuan_xuanyuan_global-ota_full-OS3.0.301.0.WOAMIXM-user-16.0-a67f21cbf3.zip
+  name: Xiaomi 15 Ultra
+  version: OS3.0.301.0.WOAMIXM
 - android: '16.0'
   codename: xuanyuan
   date: '2026-01-12'

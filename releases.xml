@@ -4,11 +4,31 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 12 May 2026 06:56:15 </lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2026 13:04:12 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS3.0.4.0.WPRMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
+            <pubDate>Tue, 12 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS3.0.3.0.WPRINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
+            <pubDate>Tue, 12 May 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>MIX Fold 4 (goku) - OS3.0.305.0.WNVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/goku/</link>
+            <pubDate>Tue, 12 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.304.0.WOOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
+            <pubDate>Tue, 12 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 Ultra (xuanyuan) - OS3.0.301.0.WOAMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Tue, 12 May 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -374,11 +394,6 @@
         <item>
             <title>Redmi Note 15 5G/POCO M8 5G (kunzite) - OS3.0.2.0.WPQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
-            <pubDate>Thu, 30 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.303.0.WOOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
             <pubDate>Thu, 30 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -917,11 +932,6 @@
             <pubDate>Fri, 10 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS3.0.1.0.WPRMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
-            <pubDate>Thu, 09 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS3.0.7.0.WOMEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/miro/</link>
             <pubDate>Thu, 09 Apr 2026 00:00:00 </pubDate>
@@ -1004,11 +1014,6 @@
         <item>
             <title>Redmi K80 Ultra (dali) - OS3.0.301.0.WONCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dali/</link>
-            <pubDate>Thu, 02 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS3.0.1.0.WPRINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
             <pubDate>Thu, 02 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1409,11 +1414,6 @@
         <item>
             <title>Redmi Note 12 4G NFC (topaz) - OS2.0.204.0.VMGMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/topaz/</link>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 Ultra (xuanyuan) - OS3.0.9.0.WOAMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Mon, 02 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
