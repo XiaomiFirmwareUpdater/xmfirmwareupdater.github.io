@@ -54,7 +54,7 @@ permalink: /hyperos/somalia/
                 <tbody>
                 <tr><td>Redmi 17 5G / Redmi R70m China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WBWCNXM</td><td>16.0</td><td>7.7 GB</td><td>2026-04-24</td><td><a href="/hyperos/somalia/stable/OS3.0.6.0.WBWCNXM/">Download</a></td></tr>
 <tr><td>Redmi 17 5G / Redmi R70m China</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WBWCNXM</td><td>16.0</td><td>5.3 GB</td><td>2026-05-06</td><td><a href="/hyperos/somalia/stable/OS3.0.6.0.WBWCNXM/">Download</a></td></tr>
-<tr><td>Redmi 17 5G / Redmi R70m China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WBWCNXM</td><td>16.0</td><td>5.2 GB</td><td>2026-04-27</td><td><a href="/hyperos/somalia/stable beta/OS3.0.3.0.WBWCNXM/">Download</a></td></tr>
+<tr><td>Redmi 17 5G / Redmi R70m China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.10.0.WBWCNXM</td><td>16.0</td><td>5.3 GB</td><td>2026-05-12</td><td><a href="/hyperos/somalia/stable beta/OS3.0.10.0.WBWCNXM/">Download</a></td></tr>
 <tr><td>POCO C85x 5G India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WBWINXM</td><td>16.0</td><td>6.6 GB</td><td>2026-03-05</td><td><a href="/hyperos/somalia/stable/OS3.0.4.0.WBWINXM/">Download</a></td></tr>
 <tr><td>POCO C85x 5G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WBWINXM</td><td>16.0</td><td>4.6 GB</td><td>2026-04-15</td><td><a href="/hyperos/somalia/stable/OS3.0.4.0.WBWINXM/">Download</a></td></tr>
 <tr><td>POCO C85x 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.9.0.WBWINXM</td><td>16.0</td><td>4.7 GB</td><td>2026-05-11</td><td><a href="/hyperos/somalia/stable beta/OS3.0.9.0.WBWINXM/">Download</a></td></tr>

@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 12 May 2026 18:51:40 </lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 00:48:52 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS3.0.4.0.WPRMIXM</title>
@@ -34,6 +34,11 @@
         <item>
             <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.304.0.WOOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
+            <pubDate>Tue, 12 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 17 5G/Redmi R70m/Redmi A7 Pro 5G/Redmi 15A 5G/POCO C85x 5G (somalia) - OS3.0.10.0.WBWCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/somalia/</link>
             <pubDate>Tue, 12 May 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -299,11 +304,6 @@
         <item>
             <title>MIX Flip (ruyi) - OS3.0.301.0.WNIEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruyi/</link>
-            <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 17 5G/Redmi R70m/Redmi A7 Pro 5G/Redmi 15A 5G/POCO C85x 5G (somalia) - OS3.0.6.0.WBWCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/somalia/</link>
             <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
         </item>
         <item>
