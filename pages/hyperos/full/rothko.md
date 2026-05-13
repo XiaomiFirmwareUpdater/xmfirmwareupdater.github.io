@@ -52,7 +52,9 @@ permalink: /archive/hyperos/rothko/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 14T Pro India</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WNNIDXM</td><td>16.0</td><td>6.7 GB</td><td>2026-04-28</td><td><a href="/hyperos/rothko/stable/OS3.0.3.0.WNNIDXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 14T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.8.0.WNNEUXM</td><td>16.0</td><td>6.7 GB</td><td>2026-04-28</td><td><a href="/hyperos/rothko/stable/OS3.0.8.0.WNNEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.8.0.WNNEUXM</td><td>16.0</td><td>8.4 GB</td><td>2026-04-23</td><td><a href="/hyperos/rothko/stable/OS3.0.8.0.WNNEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Pro India</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WNNIDXM</td><td>16.0</td><td>6.7 GB</td><td>2026-04-28</td><td><a href="/hyperos/rothko/stable/OS3.0.3.0.WNNIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WNNIDXM</td><td>16.0</td><td>8.2 GB</td><td>2026-04-21</td><td><a href="/hyperos/rothko/stable/OS3.0.3.0.WNNIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Japan</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WNNJPXM</td><td>16.0</td><td>6.7 GB</td><td>2026-04-22</td><td><a href="/hyperos/rothko/stable/OS3.0.2.0.WNNJPXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Japan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WNNJPXM</td><td>16.0</td><td>8.3 GB</td><td>2026-04-13</td><td><a href="/hyperos/rothko/stable/OS3.0.2.0.WNNJPXM/">Download</a></td></tr>
@@ -89,12 +91,12 @@ permalink: /archive/hyperos/rothko/
 <tr><td>Xiaomi 14T Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WNNTRXM</td><td>16.0</td><td>8.2 GB</td><td>2026-01-10</td><td><a href="/hyperos/rothko/stable/OS3.0.1.0.WNNTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro India</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VNNIDXM</td><td>15.0</td><td>6.3 GB</td><td>2025-10-20</td><td><a href="/hyperos/rothko/stable/OS2.0.206.0.VNNIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VNNIDXM</td><td>15.0</td><td>7.9 GB</td><td>2025-10-08</td><td><a href="/hyperos/rothko/stable/OS2.0.206.0.VNNIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Pro India</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WNNIDXM</td><td>16.0</td><td>6.7 GB</td><td>2026-01-16</td><td><a href="/hyperos/rothko/stable/OS3.0.1.0.WNNIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Pro India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WNNIDXM</td><td>16.0</td><td>8.2 GB</td><td>2026-01-07</td><td><a href="/hyperos/rothko/stable/OS3.0.1.0.WNNIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VNNRUXM</td><td>15.0</td><td>6.2 GB</td><td>2025-10-20</td><td><a href="/hyperos/rothko/stable/OS2.0.206.0.VNNRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VNNRUXM</td><td>15.0</td><td>8.6 GB</td><td>2025-10-13</td><td><a href="/hyperos/rothko/stable/OS2.0.206.0.VNNRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VNNTRXM</td><td>15.0</td><td>6.3 GB</td><td>2025-10-20</td><td><a href="/hyperos/rothko/stable/OS2.0.204.0.VNNTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VNNTRXM</td><td>15.0</td><td>7.9 GB</td><td>2025-10-13</td><td><a href="/hyperos/rothko/stable/OS2.0.204.0.VNNTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14T Pro India</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WNNIDXM</td><td>16.0</td><td>6.7 GB</td><td>2026-01-16</td><td><a href="/hyperos/rothko/stable/OS3.0.1.0.WNNIDXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14T Pro India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WNNIDXM</td><td>16.0</td><td>8.2 GB</td><td>2026-01-07</td><td><a href="/hyperos/rothko/stable/OS3.0.1.0.WNNIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VNNTWXM</td><td>15.0</td><td>6.1 GB</td><td>2025-10-20</td><td><a href="/hyperos/rothko/stable/OS2.0.206.0.VNNTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VNNTWXM</td><td>15.0</td><td>7.3 GB</td><td>2025-10-13</td><td><a href="/hyperos/rothko/stable/OS2.0.206.0.VNNTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Japan</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VNNJPXM</td><td>15.0</td><td>6.2 GB</td><td>2025-10-20</td><td><a href="/hyperos/rothko/stable/OS2.0.204.0.VNNJPXM/">Download</a></td></tr>
@@ -113,10 +115,10 @@ permalink: /archive/hyperos/rothko/
 <tr><td>Xiaomi 14T Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VNNTRXM</td><td>15.0</td><td>7.9 GB</td><td>2025-09-11</td><td><a href="/hyperos/rothko/stable/OS2.0.203.0.VNNTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VNNTWXM</td><td>15.0</td><td>6.1 GB</td><td>2025-09-20</td><td><a href="/hyperos/rothko/stable/OS2.0.205.0.VNNTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VNNTWXM</td><td>15.0</td><td>7.3 GB</td><td>2025-09-11</td><td><a href="/hyperos/rothko/stable/OS2.0.205.0.VNNTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14T Pro Japan</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VNNJPXM</td><td>15.0</td><td>6.2 GB</td><td>2025-09-20</td><td><a href="/hyperos/rothko/stable/OS2.0.203.0.VNNJPXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14T Pro Japan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VNNJPXM</td><td>15.0</td><td>7.8 GB</td><td>2025-09-12</td><td><a href="/hyperos/rothko/stable/OS2.0.203.0.VNNJPXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WNNTWXM</td><td>16.0</td><td>6.4 GB</td><td>2026-01-16</td><td><a href="/hyperos/rothko/stable/OS3.0.1.0.WNNTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WNNTWXM</td><td>16.0</td><td>7.6 GB</td><td>2026-01-07</td><td><a href="/hyperos/rothko/stable/OS3.0.1.0.WNNTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Pro Japan</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VNNJPXM</td><td>15.0</td><td>6.2 GB</td><td>2025-09-20</td><td><a href="/hyperos/rothko/stable/OS2.0.203.0.VNNJPXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Pro Japan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VNNJPXM</td><td>15.0</td><td>7.8 GB</td><td>2025-09-12</td><td><a href="/hyperos/rothko/stable/OS2.0.203.0.VNNJPXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro India</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VNNIDXM</td><td>15.0</td><td>6.3 GB</td><td>2025-09-16</td><td><a href="/hyperos/rothko/stable/OS2.0.205.0.VNNIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VNNIDXM</td><td>15.0</td><td>7.9 GB</td><td>2025-09-08</td><td><a href="/hyperos/rothko/stable/OS2.0.205.0.VNNIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.222.0.WNNEUXM</td><td>16.0</td><td>6.5 GB</td><td>2025-08-30</td><td><a href="/hyperos/rothko/stable/OS2.0.222.0.WNNEUXM/">Download</a></td></tr>

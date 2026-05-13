@@ -20488,6 +20488,12 @@
   download: https://bigota.d.miui.com/OS3.0.4.0.WNNEUXM/fw_rothko_rothko_eea_global-ota_full-OS3.0.4.0.WNNEUXM-user-16.0-01069a9819.zip
   name: Redmi K70 Ultra/Xiaomi 14T Pro
   version: OS3.0.4.0.WNNEUXM
+- android: '16.0'
+  codename: rothko
+  date: '2026-05-13'
+  download: https://bigota.d.miui.com/OS3.0.8.0.WNNEUXM/fw_rothko_rothko_eea_global-ota_full-OS3.0.8.0.WNNEUXM-user-16.0-274ebfaf54.zip
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
+  version: OS3.0.8.0.WNNEUXM
 - android: '15.0'
   codename: rothko
   date: '2025-05-13'
@@ -25882,6 +25888,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VPOINXM/fw_tornado_tornado_in_global-ota_full-OS2.0.202.0.VPOINXM-user-15.0-955fd223a5.zip
   name: Redmi 15C 5G/15R 5G/POCO C85 5G
   version: OS2.0.202.0.VPOINXM
+- android: '15.0'
+  codename: tornado
+  date: '2026-05-13'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VPOMIXM/fw_tornado_tornado_global-ota_full-OS2.0.207.0.VPOMIXM-user-15.0-e1de95af7f.zip
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  version: OS2.0.207.0.VPOMIXM
 - android: '15.0'
   codename: tornado
   date: '2025-11-10'
