@@ -54,9 +54,8 @@ permalink: /hyperos/air/
                 <tbody>
                 <tr><td>Redmi 13R 5G / 13C 5G China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VGQCNXM</td><td>15.0</td><td>6.3 GB</td><td>2026-03-13</td><td><a href="/hyperos/air/stable/OS2.0.208.0.VGQCNXM/">Download</a></td></tr>
 <tr><td>Redmi 13R 5G / 13C 5G China</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VGQCNXM</td><td>15.0</td><td>4.7 GB</td><td>2026-03-23</td><td><a href="/hyperos/air/stable/OS2.0.208.0.VGQCNXM/">Download</a></td></tr>
-<tr><td>Redmi 13R 5G / 13C 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.209.0.VGQEUXM</td><td>15.0</td><td>7.1 GB</td><td>2026-01-28</td><td><a href="/hyperos/air/stable/OS2.0.209.0.VGQEUXM/">Download</a></td></tr>
-<tr><td>Redmi 13R 5G / 13C 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.209.0.VGQEUXM</td><td>15.0</td><td>4.9 GB</td><td>2026-02-05</td><td><a href="/hyperos/air/stable/OS2.0.209.0.VGQEUXM/">Download</a></td></tr>
-<tr><td>Redmi 13R 5G / 13C 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.210.0.VGQEUXM</td><td>15.0</td><td>4.9 GB</td><td>2026-04-27</td><td><a href="/hyperos/air/stable beta/OS2.0.210.0.VGQEUXM/">Download</a></td></tr>
+<tr><td>Redmi 13R 5G / 13C 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.210.0.VGQEUXM</td><td>15.0</td><td>7.1 GB</td><td>2026-04-17</td><td><a href="/hyperos/air/stable/OS2.0.210.0.VGQEUXM/">Download</a></td></tr>
+<tr><td>Redmi 13R 5G / 13C 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.210.0.VGQEUXM</td><td>15.0</td><td>4.9 GB</td><td>2026-04-27</td><td><a href="/hyperos/air/stable/OS2.0.210.0.VGQEUXM/">Download</a></td></tr>
 <tr><td>Redmi 13R 5G / 13C 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VGQMIXM</td><td>15.0</td><td>7.6 GB</td><td>2026-03-15</td><td><a href="/hyperos/air/stable/OS2.0.206.0.VGQMIXM/">Download</a></td></tr>
 <tr><td>Redmi 13R 5G / 13C 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VGQMIXM</td><td>15.0</td><td>4.8 GB</td><td>2026-03-31</td><td><a href="/hyperos/air/stable/OS2.0.206.0.VGQMIXM/">Download</a></td></tr>
 <tr><td>Redmi 13R 5G / POCO M6 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VGQINXM</td><td>15.0</td><td>6.1 GB</td><td>2026-03-15</td><td><a href="/hyperos/air/stable/OS2.0.206.0.VGQINXM/">Download</a></td></tr>
