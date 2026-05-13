@@ -4919,15 +4919,15 @@
     android: '10.0'
     miui: V12.5.1.0.QCMINXM
 - branch: stable
-  date: '2026-02-24'
+  date: '2026-05-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-24.02.2026/fw_pipa_pipa_global-ota_full-OS2.0.14.0.UMZMIXM-user-14.0-bccb34f4ea.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/pipa/fw_pipa_pipa_global-ota_full-OS2.0.14.0.UMZMIXM-user-14.0-bccb34f4ea.zip
-  filename: fw_pipa_pipa_global-ota_full-OS2.0.14.0.UMZMIXM-user-14.0-bccb34f4ea.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-13.05.2026/fw_pipa_pipa_global-ota_full-OS2.0.16.0.UMZMIXM-user-14.0-c378f929ad.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/pipa/fw_pipa_pipa_global-ota_full-OS2.0.16.0.UMZMIXM-user-14.0-c378f929ad.zip
+  filename: fw_pipa_pipa_global-ota_full-OS2.0.16.0.UMZMIXM-user-14.0-c378f929ad.zip
   region: Global
   versions:
     android: '14.0'
-    miui: OS2.0.14.0.UMZMIXM
+    miui: OS2.0.16.0.UMZMIXM
 - branch: stable
   date: '2026-02-07'
   downloads:
@@ -4939,25 +4939,25 @@
     android: '14.0'
     miui: OS2.0.19.0.UMZCNXM
 - branch: stable
-  date: '2026-02-24'
+  date: '2026-05-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-24.02.2026/fw_pipa_pipa_eea_global-ota_full-OS2.0.12.0.UMZEUXM-user-14.0-9f43dde015.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/pipa/fw_pipa_pipa_eea_global-ota_full-OS2.0.12.0.UMZEUXM-user-14.0-9f43dde015.zip
-  filename: fw_pipa_pipa_eea_global-ota_full-OS2.0.12.0.UMZEUXM-user-14.0-9f43dde015.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-13.05.2026/fw_pipa_pipa_eea_global-ota_full-OS2.0.14.0.UMZEUXM-user-14.0-06796fd8fc.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/pipa/fw_pipa_pipa_eea_global-ota_full-OS2.0.14.0.UMZEUXM-user-14.0-06796fd8fc.zip
+  filename: fw_pipa_pipa_eea_global-ota_full-OS2.0.14.0.UMZEUXM-user-14.0-06796fd8fc.zip
   region: Europe
   versions:
     android: '14.0'
-    miui: OS2.0.12.0.UMZEUXM
+    miui: OS2.0.14.0.UMZEUXM
 - branch: stable
-  date: '2026-03-02'
+  date: '2026-05-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-02.03.2026/fw_pipa_pipa_in_global-ota_full-OS2.0.12.0.UMZINXM-user-14.0-0055c699ab.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/pipa/fw_pipa_pipa_in_global-ota_full-OS2.0.12.0.UMZINXM-user-14.0-0055c699ab.zip
-  filename: fw_pipa_pipa_in_global-ota_full-OS2.0.12.0.UMZINXM-user-14.0-0055c699ab.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-13.05.2026/fw_pipa_pipa_in_global-ota_full-OS2.0.14.0.UMZINXM-user-14.0-00783b8e7f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/pipa/fw_pipa_pipa_in_global-ota_full-OS2.0.14.0.UMZINXM-user-14.0-00783b8e7f.zip
+  filename: fw_pipa_pipa_in_global-ota_full-OS2.0.14.0.UMZINXM-user-14.0-00783b8e7f.zip
   region: India
   versions:
     android: '14.0'
-    miui: OS2.0.12.0.UMZINXM
+    miui: OS2.0.14.0.UMZINXM
 - branch: stable
   date: '2024-10-09'
   downloads:
@@ -6049,15 +6049,15 @@
     android: '15.0'
     miui: A15.0.14.0.VGWINXM
 - branch: stable
-  date: '2026-04-07'
+  date: '2026-05-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sheng/releases/download/stable-07.04.2026/fw_sheng_sheng_global-ota_full-OS3.0.6.0.WNXMIXM-user-16.0-4e690517b1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/sheng/fw_sheng_sheng_global-ota_full-OS3.0.6.0.WNXMIXM-user-16.0-4e690517b1.zip
-  filename: fw_sheng_sheng_global-ota_full-OS3.0.6.0.WNXMIXM-user-16.0-4e690517b1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sheng/releases/download/stable-13.05.2026/fw_sheng_sheng_global-ota_full-OS3.0.301.0.WNXMIXM-user-16.0-86ba35a82d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/sheng/fw_sheng_sheng_global-ota_full-OS3.0.301.0.WNXMIXM-user-16.0-86ba35a82d.zip
+  filename: fw_sheng_sheng_global-ota_full-OS3.0.301.0.WNXMIXM-user-16.0-86ba35a82d.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.6.0.WNXMIXM
+    miui: OS3.0.301.0.WNXMIXM
 - branch: stable
   date: '2026-04-30'
   downloads:
