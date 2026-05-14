@@ -149,6 +149,16 @@
     android: '14.0'
     miui: OS1.0.7.0.UOGEUXM
 - branch: stable
+  date: '2026-05-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tanzanite/releases/download/stable-14.05.2026/fw_tanzanite_tanzanite_eea_global-ota_full-OS3.0.1.0.WOGEUXM-user-16.0-f9823bf460.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/tanzanite/fw_tanzanite_tanzanite_eea_global-ota_full-OS3.0.1.0.WOGEUXM-user-16.0-f9823bf460.zip
+  filename: fw_tanzanite_tanzanite_eea_global-ota_full-OS3.0.1.0.WOGEUXM-user-16.0-f9823bf460.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.1.0.WOGEUXM
+- branch: stable
   date: '2025-05-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tanzanite/releases/download/stable-14.05.2025/fw_tanzanite_eea_global_tanzanite_eea_global-ota_full-OS2.0.6.0.VOGEUXM-user-15.0-c8b22562d2.zip

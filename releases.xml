@@ -4,8 +4,33 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 14 May 2026 06:40:22 </lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 13:26:57 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi Civi 4 Pro (chenfeng) - OS3.0.306.0.WNJCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
+            <pubDate>Thu, 14 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 4 Pro (chenfeng) - OS3.0.301.0.WNJINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
+            <pubDate>Thu, 14 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS3.0.302.0.WNFMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
+            <pubDate>Thu, 14 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro 4G (obsidian) - OS3.0.302.0.WOFMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
+            <pubDate>Thu, 14 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 4G (tanzanite) - OS3.0.1.0.WOGEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/tanzanite/</link>
+            <pubDate>Thu, 14 May 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi Pad 6 (pipa) - OS2.0.16.0.UMZMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
@@ -602,11 +627,6 @@
             <pubDate>Mon, 27 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Civi 4 Pro (chenfeng) - OS3.0.304.0.WNJCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
-            <pubDate>Sun, 26 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS3.0.5.0.WMLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/corot/</link>
             <pubDate>Sat, 25 Apr 2026 00:00:00 </pubDate>
@@ -942,11 +962,6 @@
             <pubDate>Mon, 13 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 14 4G (tanzanite) - OS2.0.214.0.VOGEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/tanzanite/</link>
-            <pubDate>Mon, 13 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12 Lite (taoyao) - OS1.0.33.0.ULIMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taoyao/</link>
             <pubDate>Mon, 13 Apr 2026 00:00:00 </pubDate>
@@ -1044,11 +1059,6 @@
         <item>
             <title>Redmi K80 Ultra (dali) - OS3.0.301.0.WONCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dali/</link>
-            <pubDate>Thu, 02 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 Pro 4G (obsidian) - OS3.0.5.0.WOFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
             <pubDate>Thu, 02 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1220,11 +1230,6 @@
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS3.0.2.0.WNOINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Wed, 25 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS3.0.7.0.WFOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
-            <pubDate>Tue, 24 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS3.0.5.0.VMNMIXM</title>
@@ -1440,11 +1445,6 @@
             <title>Xiaomi 13T (aristotle) - OS2.0.214.0.VMFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
             <pubDate>Thu, 26 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 4 Pro (chenfeng) - OS3.0.4.0.WNJINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 12 (fire) - OS2.0.207.0.VMXMIXM</title>
