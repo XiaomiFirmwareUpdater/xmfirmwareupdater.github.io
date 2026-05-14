@@ -3,7 +3,7 @@ title: Redmi K50 Ultra China HyperOS OS3.0.2.0.VLFCNXM Update
 layout: download
 name: Redmi K50 Ultra China
 codename: diting
-permalink: /hyperos/diting/stable beta/OS3.0.2.0.VLFCNXM/
+permalink: /hyperos/diting/stable/OS3.0.2.0.VLFCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/diting/stable beta/OS3.0.2.0.VLFCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.2.0.VLFCNXM Stable Beta Official Update for Redmi K50 Ultra China (diting)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.2.0.VLFCNXM Stable Official Update for Redmi K50 Ultra China (diting)</h3>
     <h5>This page shows the OS3.0.2.0.VLFCNXM update only. If you're looking for other updates check
         <a href="/hyperos/diting/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/diting/stable beta/OS3.0.2.0.VLFCNXM/
                     <h5><b>Version: </b>OS3.0.2.0.VLFCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/diting/stable beta/OS3.0.2.0.VLFCNXM/
                             aria-expanded="false" aria-controls="diting_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="diting_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to April 2026. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi K50 Ultra China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/diting/" target="_blank">diting</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS3.0.2.0.VLFCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>7.6 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2026-04-13</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">diting_images_OS3.0.2.0.VLFCNXM_20260413.0000.00_15.0_cn_b96af49bd9.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">b96af49bd95a069d1a259e88064141db</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.2.0.VLFCNXM/diting_images_OS3.0.2.0.VLFCNXM_20260413.0000.00_15.0_cn_b96af49bd9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.2.0.VLFCNXM/diting_images_OS3.0.2.0.VLFCNXM_20260413.0000.00_15.0_cn_b96af49bd9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.2.0.VLFCNXM/diting_images_OS3.0.2.0.VLFCNXM_20260413.0000.00_15.0_cn_b96af49bd9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.2.0.VLFCNXM/diting_images_OS3.0.2.0.VLFCNXM_20260413.0000.00_15.0_cn_b96af49bd9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.2.0.VLFCNXM/diting_images_OS3.0.2.0.VLFCNXM_20260413.0000.00_15.0_cn_b96af49bd9.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#diting_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="diting_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="diting_2_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to April 2026. Increased system security.</p>
                     </div>
                 </li>
