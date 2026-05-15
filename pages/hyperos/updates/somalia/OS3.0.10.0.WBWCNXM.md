@@ -3,7 +3,7 @@ title: Redmi 17 5G / Redmi R70m China HyperOS OS3.0.10.0.WBWCNXM Update
 layout: download
 name: Redmi 17 5G / Redmi R70m China
 codename: somalia
-permalink: /hyperos/somalia/stable beta/OS3.0.10.0.WBWCNXM/
+permalink: /hyperos/somalia/stable/OS3.0.10.0.WBWCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/somalia/stable beta/OS3.0.10.0.WBWCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.10.0.WBWCNXM Stable Beta Official Update for Redmi 17 5G / Redmi R70m China (somalia)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.10.0.WBWCNXM Stable Official Update for Redmi 17 5G / Redmi R70m China (somalia)</h3>
     <h5>This page shows the OS3.0.10.0.WBWCNXM update only. If you're looking for other updates check
         <a href="/hyperos/somalia/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/somalia/stable beta/OS3.0.10.0.WBWCNXM/
                     <h5><b>Version: </b>OS3.0.10.0.WBWCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>7.6 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2026-05-12</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">somalia-images-OS3.0.10.0.WBWCNXM-user-20260512.0000.00-16.0-cn-ddd28f6c4b.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ddd28f6c4b9ee2fd70076942f2b75328</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.10.0.WBWCNXM/somalia-images-OS3.0.10.0.WBWCNXM-user-20260512.0000.00-16.0-cn-ddd28f6c4b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.10.0.WBWCNXM/somalia-images-OS3.0.10.0.WBWCNXM-user-20260512.0000.00-16.0-cn-ddd28f6c4b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.10.0.WBWCNXM/somalia-images-OS3.0.10.0.WBWCNXM-user-20260512.0000.00-16.0-cn-ddd28f6c4b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.10.0.WBWCNXM/somalia-images-OS3.0.10.0.WBWCNXM-user-20260512.0000.00-16.0-cn-ddd28f6c4b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.10.0.WBWCNXM/somalia-images-OS3.0.10.0.WBWCNXM-user-20260512.0000.00-16.0-cn-ddd28f6c4b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#somalia_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="somalia_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="somalia_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to May 2026. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi 17 5G / Redmi R70m China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/somalia/" target="_blank">somalia</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS3.0.10.0.WBWCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -74,10 +117,10 @@ permalink: /hyperos/somalia/stable beta/OS3.0.10.0.WBWCNXM/
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.10.0.WBWCNXM/somalia-ota_incremental-OS3.0.6.0.WBWCNXM-OS3.0.10.0.WBWCNXM-user-16.0-36c83de8b1.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.10.0.WBWCNXM/somalia-ota_full-OS3.0.10.0.WBWCNXM-user-16.0-ce35185c4a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.10.0.WBWCNXM/somalia-ota_full-OS3.0.10.0.WBWCNXM-user-16.0-ce35185c4a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.10.0.WBWCNXM/somalia-ota_full-OS3.0.10.0.WBWCNXM-user-16.0-ce35185c4a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.10.0.WBWCNXM/somalia-ota_full-OS3.0.10.0.WBWCNXM-user-16.0-ce35185c4a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.10.0.WBWCNXM/somalia-ota_full-OS3.0.10.0.WBWCNXM-user-16.0-ce35185c4a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#somalia_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="somalia_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#somalia_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="somalia_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="somalia_1_changelog">
+                    <div class="collapse" id="somalia_2_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to May 2026. Increased system security.</p>
                     </div>
                 </li>
