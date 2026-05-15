@@ -4,11 +4,26 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 15 May 2026 12:45:52 </lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 19:18:52 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi A5/POCO C71 (serenity) - A15.0.14.0.VGWEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
+            <pubDate>Fri, 15 May 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi A5/POCO C71 (serenity) - A15.0.16.0.VGWINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
+            <pubDate>Fri, 15 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite (shennong) - OS3.0.306.0.WNBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/shennong/</link>
+            <pubDate>Fri, 15 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 7S Pro 12.5 (violin) - OS3.0.303.0.WOTCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/violin/</link>
             <pubDate>Fri, 15 May 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -852,11 +867,6 @@
             <pubDate>Thu, 16 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite (shennong) - OS3.0.304.0.WNBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/shennong/</link>
-            <pubDate>Thu, 16 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K60 Pro (socrates) - OS3.0.5.0.VMKCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/socrates/</link>
             <pubDate>Thu, 16 Apr 2026 00:00:00 </pubDate>
@@ -1124,16 +1134,6 @@
         <item>
             <title>Redmi Turbo 3/POCO F6 (peridot) - OS3.0.5.0.WNPEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
-            <pubDate>Tue, 31 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A5/POCO C71 (serenity) - A15.0.13.0.VGWEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
-            <pubDate>Tue, 31 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 7S Pro 12.5 (violin) - OS3.0.302.0.WOTCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/violin/</link>
             <pubDate>Tue, 31 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>

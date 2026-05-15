@@ -23170,6 +23170,12 @@
   download: https://bigota.d.miui.com/OS1.0.38.0.UNBCNXM/fw_shennong_miui_SHENNONG_OS1.0.38.0.UNBCNXM_0eb6fa6030_14.0.zip
   name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
   version: OS1.0.38.0.UNBCNXM
+- android: '16.0'
+  codename: shennong
+  date: '2026-05-15'
+  download: https://bigota.d.miui.com/OS3.0.306.0.WNBCNXM/fw_shennong_shennong-ota_full-OS3.0.306.0.WNBCNXM-user-16.0-657b696b16.zip
+  name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
+  version: OS3.0.306.0.WNBCNXM
 - android: '15.0'
   codename: shennong
   date: '2025-10-13'
@@ -27598,6 +27604,12 @@
   download: https://bigota.d.miui.com/OS2.0.208.0.VOTCNXM/fw_violin_violin-ota_full-OS2.0.208.0.VOTCNXM-user-15.0-2fdf4996f7.zip
   name: Xiaomi Pad 7S Pro 12.5
   version: OS2.0.208.0.VOTCNXM
+- android: '16.0'
+  codename: violin
+  date: '2026-05-15'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WOTCNXM/fw_violin_violin-ota_full-OS3.0.303.0.WOTCNXM-user-16.0-9a8ce5da78.zip
+  name: Xiaomi Pad 7S Pro 12.5
+  version: OS3.0.303.0.WOTCNXM
 - android: '16.0'
   codename: violin
   date: '2026-02-10'
