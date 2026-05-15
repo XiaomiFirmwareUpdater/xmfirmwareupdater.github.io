@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 15 May 2026 06:41:49 </lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 12:45:52 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi A5/POCO C71 (serenity) - A15.0.16.0.VGWINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
+            <pubDate>Fri, 15 May 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi Civi 4 Pro (chenfeng) - OS3.0.306.0.WNJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
@@ -1485,11 +1490,6 @@
             <title>Xiaomi Pad 6 (pipa) - OS2.0.19.0.UMZCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
             <pubDate>Sat, 07 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A5/POCO C71 (serenity) - A15.0.14.0.VGWINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi Pad 6 Pro (liuqin) - OS3.0.5.0.VMYCNXM</title>
