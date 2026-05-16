@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 16 May 2026 18:42:19 </lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 00:53:44 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13 Ultra (ishtar) - OS3.0.305.0.WMACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
+            <pubDate>Sat, 16 May 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi A5/POCO C71 (serenity) - A15.0.14.0.VGWEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
@@ -739,11 +744,6 @@
         <item>
             <title>Xiaomi 14 (houji) - OS3.0.8.0.WNCEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/houji/</link>
-            <pubDate>Mon, 20 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Ultra (ishtar) - OS3.0.303.0.WMACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
             <pubDate>Mon, 20 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>

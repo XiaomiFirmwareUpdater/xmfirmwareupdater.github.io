@@ -449,6 +449,16 @@
     android: '15.0'
     miui: OS2.0.203.0.VMACNXM
 - branch: stable
+  date: '2026-05-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-17.05.2026/fw_ishtar_ishtar-ota_full-OS3.0.305.0.WMACNXM-user-16.0-55b26ae2a5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ishtar/fw_ishtar_ishtar-ota_full-OS3.0.305.0.WMACNXM-user-16.0-55b26ae2a5.zip
+  filename: fw_ishtar_ishtar-ota_full-OS3.0.305.0.WMACNXM-user-16.0-55b26ae2a5.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.305.0.WMACNXM
+- branch: stable
   date: '2023-05-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-17.05.2023/fw_ishtar_miui_ISHTAR_V14.0.13.0.TMACNXM_0c4d6a81ab_13.0.zip
