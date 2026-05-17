@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 17 May 2026 12:40:31 </lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 18:48:08 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 14C/POCO C75/Redmi A3 Pro (lake) - OS3.0.20.0.WGTMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lake/</link>
+            <pubDate>Sun, 17 May 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS3.0.305.0.WMACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
@@ -1454,11 +1459,6 @@
         <item>
             <title>Redmi 12 (fire) - OS2.0.207.0.VMXMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fire/</link>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 14C/POCO C75/Redmi A3 Pro (lake) - OS3.0.18.0.WGTMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lake/</link>
             <pubDate>Wed, 25 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
