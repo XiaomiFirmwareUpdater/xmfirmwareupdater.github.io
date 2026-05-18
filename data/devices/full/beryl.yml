@@ -289,6 +289,16 @@
     android: '14.0'
     miui: OS1.0.17.0.UOQEUXM
 - branch: stable
+  date: '2026-05-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-18.05.2026/fw_beryl_beryl_in_global-ota_full-OS3.0.8.0.WOQINXM-user-16.0-b109887a40.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/beryl/fw_beryl_beryl_in_global-ota_full-OS3.0.8.0.WOQINXM-user-16.0-b109887a40.zip
+  filename: fw_beryl_beryl_in_global-ota_full-OS3.0.8.0.WOQINXM-user-16.0-b109887a40.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.8.0.WOQINXM
+- branch: stable
   date: '2025-03-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-17.03.2025/fw_beryl_miui_BERYL_OS1.0.7.0.UOQCNXM_2f6026433f_14.0.zip

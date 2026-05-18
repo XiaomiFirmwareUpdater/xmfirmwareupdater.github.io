@@ -1,23 +1,23 @@
 - branch: stable
-  date: '2026-03-23'
+  date: '2026-05-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-23.03.2026/fw_cupid_cupid_global-ota_full-OS3.0.3.0.VLCMIXM-user-15.0-dbdad700e1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/cupid/fw_cupid_cupid_global-ota_full-OS3.0.3.0.VLCMIXM-user-15.0-dbdad700e1.zip
-  filename: fw_cupid_cupid_global-ota_full-OS3.0.3.0.VLCMIXM-user-15.0-dbdad700e1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-18.05.2026/fw_cupid_cupid_global-ota_full-OS3.0.4.0.VLCMIXM-user-15.0-f0c58ba08f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/cupid/fw_cupid_cupid_global-ota_full-OS3.0.4.0.VLCMIXM-user-15.0-f0c58ba08f.zip
+  filename: fw_cupid_cupid_global-ota_full-OS3.0.4.0.VLCMIXM-user-15.0-f0c58ba08f.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS3.0.3.0.VLCMIXM
+    miui: OS3.0.4.0.VLCMIXM
 - branch: stable
-  date: '2026-01-23'
+  date: '2026-05-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-23.01.2026/fw_cupid_cupid-ota_full-OS3.0.2.0.VLCCNXM-user-15.0-6aae9d0532.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/cupid/fw_cupid_cupid-ota_full-OS3.0.2.0.VLCCNXM-user-15.0-6aae9d0532.zip
-  filename: fw_cupid_cupid-ota_full-OS3.0.2.0.VLCCNXM-user-15.0-6aae9d0532.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-18.05.2026/fw_cupid_cupid-ota_full-OS3.0.3.0.VLCCNXM-user-15.0-1786889676.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/cupid/fw_cupid_cupid-ota_full-OS3.0.3.0.VLCCNXM-user-15.0-1786889676.zip
+  filename: fw_cupid_cupid-ota_full-OS3.0.3.0.VLCCNXM-user-15.0-1786889676.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS3.0.2.0.VLCCNXM
+    miui: OS3.0.3.0.VLCCNXM
 - branch: stable
   date: '2026-03-23'
   downloads:

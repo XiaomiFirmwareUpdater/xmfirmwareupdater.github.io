@@ -479,6 +479,26 @@
     android: '14.0'
     miui: OS1.0.10.0.ULCEUXM
 - branch: stable
+  date: '2026-05-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-18.05.2026/fw_cupid_cupid-ota_full-OS3.0.3.0.VLCCNXM-user-15.0-1786889676.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/cupid/fw_cupid_cupid-ota_full-OS3.0.3.0.VLCCNXM-user-15.0-1786889676.zip
+  filename: fw_cupid_cupid-ota_full-OS3.0.3.0.VLCCNXM-user-15.0-1786889676.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS3.0.3.0.VLCCNXM
+- branch: stable
+  date: '2026-05-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-18.05.2026/fw_cupid_cupid_global-ota_full-OS3.0.4.0.VLCMIXM-user-15.0-f0c58ba08f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/cupid/fw_cupid_cupid_global-ota_full-OS3.0.4.0.VLCMIXM-user-15.0-f0c58ba08f.zip
+  filename: fw_cupid_cupid_global-ota_full-OS3.0.4.0.VLCMIXM-user-15.0-f0c58ba08f.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS3.0.4.0.VLCMIXM
+- branch: stable
   date: '2022-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-18.04.2022/fw_cupid_miui_CUPIDEEAGlobal_V13.0.16.0.SLCEUXM_9b162cbd6f_12.0.zip
