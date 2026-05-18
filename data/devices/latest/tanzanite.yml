@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2026-03-05'
+  date: '2026-05-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tanzanite/releases/download/stable-05.03.2026/fw_tanzanite_tanzanite_global-ota_full-OS3.0.5.0.WOGMIXM-user-16.0-82860348eb.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/tanzanite/fw_tanzanite_tanzanite_global-ota_full-OS3.0.5.0.WOGMIXM-user-16.0-82860348eb.zip
-  filename: fw_tanzanite_tanzanite_global-ota_full-OS3.0.5.0.WOGMIXM-user-16.0-82860348eb.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tanzanite/releases/download/stable-18.05.2026/fw_tanzanite_tanzanite_global-ota_full-OS3.0.301.0.WOGMIXM-user-16.0-737ac127cb.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/tanzanite/fw_tanzanite_tanzanite_global-ota_full-OS3.0.301.0.WOGMIXM-user-16.0-737ac127cb.zip
+  filename: fw_tanzanite_tanzanite_global-ota_full-OS3.0.301.0.WOGMIXM-user-16.0-737ac127cb.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.5.0.WOGMIXM
+    miui: OS3.0.301.0.WOGMIXM
 - branch: stable
   date: '2026-05-14'
   downloads:

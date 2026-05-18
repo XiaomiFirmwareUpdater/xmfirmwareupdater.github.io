@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2026-05-06'
+  date: '2026-05-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_creek/releases/download/stable-06.05.2026/fw_creek_creek_global-ota_full-OS3.0.11.0.WBOMIXM-user-16.0-3fd10815e6.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/creek/fw_creek_creek_global-ota_full-OS3.0.11.0.WBOMIXM-user-16.0-3fd10815e6.zip
-  filename: fw_creek_creek_global-ota_full-OS3.0.11.0.WBOMIXM-user-16.0-3fd10815e6.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_creek/releases/download/stable-18.05.2026/fw_creek_creek_global-ota_full-OS3.0.302.0.WBOMIXM-user-16.0-cb47cf2278.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/creek/fw_creek_creek_global-ota_full-OS3.0.302.0.WBOMIXM-user-16.0-cb47cf2278.zip
+  filename: fw_creek_creek_global-ota_full-OS3.0.302.0.WBOMIXM-user-16.0-cb47cf2278.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.11.0.WBOMIXM
+    miui: OS3.0.302.0.WBOMIXM
 - branch: stable
   date: '2025-09-28'
   downloads:

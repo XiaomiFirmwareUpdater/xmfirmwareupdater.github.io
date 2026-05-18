@@ -59,6 +59,16 @@
     android: '15.0'
     miui: OS2.0.201.0.VGVINXM
 - branch: stable
+  date: '2026-05-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warm/releases/download/stable-18.05.2026/fw_warm_warm_in_global-ota_full-OS3.0.302.0.WGVINXM-user-16.0-d9b2121d32.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/warm/fw_warm_warm_in_global-ota_full-OS3.0.302.0.WGVINXM-user-16.0-d9b2121d32.zip
+  filename: fw_warm_warm_in_global-ota_full-OS3.0.302.0.WGVINXM-user-16.0-d9b2121d32.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.302.0.WGVINXM
+- branch: stable
   date: '2024-12-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warm/releases/download/stable-17.12.2024/fw_warm_miui_WARMINGlobal_OS1.0.7.0.UGVINXM_f5f6ddf889_14.0.zip
