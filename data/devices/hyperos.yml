@@ -11292,6 +11292,12 @@
   version: OS2.0.206.0.VMACNXM
 - android: '16.0'
   codename: ishtar
+  date: '2026-05-19'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WMAMIXM/fw_ishtar_ishtar_global-ota_full-OS3.0.301.0.WMAMIXM-user-16.0-d09c044380.zip
+  name: Xiaomi 13 Ultra
+  version: OS3.0.301.0.WMAMIXM
+- android: '16.0'
+  codename: ishtar
   date: '2025-12-18'
   download: https://bigota.d.miui.com/OS3.0.3.0.WMACNXM/fw_ishtar_ishtar-ota_full-OS3.0.3.0.WMACNXM-user-16.0-7592563019.zip
   name: Xiaomi 13 Ultra
@@ -19138,6 +19144,12 @@
   download: https://bigota.d.miui.com/OS3.0.304.0.WAACNXM/fw_prague_prague-ota_full-OS3.0.304.0.WAACNXM-user-16.0-a2f9190f86.zip
   name: Redmi K90 Max
   version: OS3.0.304.0.WAACNXM
+- android: '16.0'
+  codename: prague
+  date: '2026-05-19'
+  download: https://bigota.d.miui.com/OS3.0.310.0.WAACNXM/fw_prague_prague-ota_full-OS3.0.310.0.WAACNXM-user-16.0-7d0c9b89aa.zip
+  name: Redmi K90 Max
+  version: OS3.0.310.0.WAACNXM
 - android: '13.0'
   codename: psyche
   date: '2024-10-28'
@@ -23782,6 +23794,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMKCNXM/fw_socrates_miui_SOCRATES_OS1.0.3.0.UMKCNXM_3d4bfd0c54_14.0.zip
   name: Redmi K60 Pro
   version: OS1.0.3.0.UMKCNXM
+- android: '16.0'
+  codename: socrates
+  date: '2026-05-19'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WMKCNXM/fw_socrates_socrates-ota_full-OS3.0.303.0.WMKCNXM-user-16.0-f09aed2004.zip
+  name: Redmi K60 Pro
+  version: OS3.0.303.0.WMKCNXM
 - android: '14.0'
   codename: socrates
   date: '2024-12-16'
@@ -26284,6 +26302,18 @@
   download: https://bigota.d.miui.com/OS3.0.2.0.WOZMIXM/fw_uke_uke_global-ota_full-OS3.0.2.0.WOZMIXM-user-16.0-39f4dcfbb0.zip
   name: Xiaomi Pad 7/POCO Pad X1
   version: OS3.0.2.0.WOZMIXM
+- android: '16.0'
+  codename: uke
+  date: '2026-05-19'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WOZEUXM/fw_uke_uke_eea_global-ota_full-OS3.0.302.0.WOZEUXM-user-16.0-38e116090e.zip
+  name: Xiaomi Pad 7/POCO Pad X1
+  version: OS3.0.302.0.WOZEUXM
+- android: '16.0'
+  codename: uke
+  date: '2026-05-19'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WOZINXM/fw_uke_uke_in_global-ota_full-OS3.0.303.0.WOZINXM-user-16.0-b5422594c6.zip
+  name: Xiaomi Pad 7/POCO Pad X1
+  version: OS3.0.303.0.WOZINXM
 - android: '15.0'
   codename: uke
   date: '2025-01-19'
@@ -28234,6 +28264,12 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VOAINXM/fw_xuanyuan_in_global_xuanyuan_in_global-ota_full-OS2.0.203.0.VOAINXM-user-15.0-931b1df3d0.zip
   name: Xiaomi 15 Ultra
   version: OS2.0.203.0.VOAINXM
+- android: '16.0'
+  codename: xuanyuan
+  date: '2026-05-19'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WOAINXM/fw_xuanyuan_xuanyuan_in_global-ota_full-OS3.0.301.0.WOAINXM-user-16.0-87fd463456.zip
+  name: Xiaomi 15 Ultra
+  version: OS3.0.301.0.WOAINXM
 - android: '15.0'
   codename: xuanyuan
   date: '2025-07-18'

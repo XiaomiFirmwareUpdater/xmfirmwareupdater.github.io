@@ -19,22 +19,22 @@
     android: '16.0'
     miui: OS3.0.301.0.WOZCNXM
 - branch: stable
-  date: '2026-04-07'
+  date: '2026-05-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-07.04.2026/fw_uke_uke_eea_global-ota_full-OS3.0.3.0.WOZEUXM-user-16.0-ae594cd65d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/uke/fw_uke_uke_eea_global-ota_full-OS3.0.3.0.WOZEUXM-user-16.0-ae594cd65d.zip
-  filename: fw_uke_uke_eea_global-ota_full-OS3.0.3.0.WOZEUXM-user-16.0-ae594cd65d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-19.05.2026/fw_uke_uke_eea_global-ota_full-OS3.0.302.0.WOZEUXM-user-16.0-38e116090e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/uke/fw_uke_uke_eea_global-ota_full-OS3.0.302.0.WOZEUXM-user-16.0-38e116090e.zip
+  filename: fw_uke_uke_eea_global-ota_full-OS3.0.302.0.WOZEUXM-user-16.0-38e116090e.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.3.0.WOZEUXM
+    miui: OS3.0.302.0.WOZEUXM
 - branch: stable
-  date: '2026-04-14'
+  date: '2026-05-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-14.04.2026/fw_uke_uke_in_global-ota_full-OS3.0.5.0.WOZINXM-user-16.0-45f3d99ca5.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/uke/fw_uke_uke_in_global-ota_full-OS3.0.5.0.WOZINXM-user-16.0-45f3d99ca5.zip
-  filename: fw_uke_uke_in_global-ota_full-OS3.0.5.0.WOZINXM-user-16.0-45f3d99ca5.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-19.05.2026/fw_uke_uke_in_global-ota_full-OS3.0.303.0.WOZINXM-user-16.0-b5422594c6.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/uke/fw_uke_uke_in_global-ota_full-OS3.0.303.0.WOZINXM-user-16.0-b5422594c6.zip
+  filename: fw_uke_uke_in_global-ota_full-OS3.0.303.0.WOZINXM-user-16.0-b5422594c6.zip
   region: India
   versions:
     android: '16.0'
-    miui: OS3.0.5.0.WOZINXM
+    miui: OS3.0.303.0.WOZINXM

@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2026-04-16'
+  date: '2026-05-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_socrates/releases/download/stable-16.04.2026/fw_socrates_socrates-ota_full-OS3.0.5.0.VMKCNXM-user-15.0-fe06ac694d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/socrates/fw_socrates_socrates-ota_full-OS3.0.5.0.VMKCNXM-user-15.0-fe06ac694d.zip
-  filename: fw_socrates_socrates-ota_full-OS3.0.5.0.VMKCNXM-user-15.0-fe06ac694d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_socrates/releases/download/stable-19.05.2026/fw_socrates_socrates-ota_full-OS3.0.303.0.WMKCNXM-user-16.0-f09aed2004.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/socrates/fw_socrates_socrates-ota_full-OS3.0.303.0.WMKCNXM-user-16.0-f09aed2004.zip
+  filename: fw_socrates_socrates-ota_full-OS3.0.303.0.WMKCNXM-user-16.0-f09aed2004.zip
   region: China
   versions:
-    android: '15.0'
-    miui: OS3.0.5.0.VMKCNXM
+    android: '16.0'
+    miui: OS3.0.303.0.WMKCNXM

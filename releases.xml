@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 19 May 2026 13:05:46 </lastBuildDate>
+        <lastBuildDate>Tue, 19 May 2026 20:31:37 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS3.0.301.0.WNAINXM</title>
@@ -12,8 +12,38 @@
             <pubDate>Tue, 19 May 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 13 Ultra (ishtar) - OS3.0.301.0.WMAMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
+            <pubDate>Tue, 19 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi 13/POCO M6 (moon) - OS3.0.301.0.WNTMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moon/</link>
+            <pubDate>Tue, 19 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K90 Max (prague) - OS3.0.310.0.WAACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/prague/</link>
+            <pubDate>Tue, 19 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K60 Pro (socrates) - OS3.0.303.0.WMKCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/socrates/</link>
+            <pubDate>Tue, 19 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS3.0.302.0.WOZEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/uke/</link>
+            <pubDate>Tue, 19 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS3.0.303.0.WOZINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/uke/</link>
+            <pubDate>Tue, 19 May 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 Ultra (xuanyuan) - OS3.0.301.0.WOAINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Tue, 19 May 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -587,11 +617,6 @@
             <pubDate>Thu, 30 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K90 Max (prague) - OS3.0.308.0.WAACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/prague/</link>
-            <pubDate>Thu, 30 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS3.0.300.0.WOJEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
             <pubDate>Thu, 30 Apr 2026 00:00:00 </pubDate>
@@ -937,11 +962,6 @@
             <pubDate>Thu, 16 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K60 Pro (socrates) - OS3.0.5.0.VMKCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/socrates/</link>
-            <pubDate>Thu, 16 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 8 (yupei) - OS3.0.302.0.WPZMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/yupei/</link>
             <pubDate>Thu, 16 Apr 2026 00:00:00 </pubDate>
@@ -964,11 +984,6 @@
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.4.0.WOPEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
-            <pubDate>Tue, 14 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS3.0.5.0.WOZINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/uke/</link>
             <pubDate>Tue, 14 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1099,11 +1114,6 @@
         <item>
             <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS3.0.3.0.WNXEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
-            <pubDate>Tue, 07 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS3.0.3.0.WOZEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/uke/</link>
             <pubDate>Tue, 07 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1327,11 +1337,6 @@
             <pubDate>Mon, 23 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13 Ultra (ishtar) - OS3.0.4.0.WMAMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
-            <pubDate>Mon, 23 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS3.0.4.0.WMAEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ishtar/</link>
             <pubDate>Mon, 23 Mar 2026 00:00:00 </pubDate>
@@ -1429,11 +1434,6 @@
         <item>
             <title>Redmi Note 12 4G (tapas) - OS2.0.204.0.VMTINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tapas/</link>
-            <pubDate>Mon, 09 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 Ultra (xuanyuan) - OS3.0.8.0.WOAINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Mon, 09 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
