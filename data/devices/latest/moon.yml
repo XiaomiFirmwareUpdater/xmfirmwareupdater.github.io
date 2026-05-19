@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2026-04-13'
+  date: '2026-05-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moon/releases/download/stable-13.04.2026/fw_moon_moon_global-ota_full-OS3.0.7.0.WNTMIXM-user-16.0-06ec64a61e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/moon/fw_moon_moon_global-ota_full-OS3.0.7.0.WNTMIXM-user-16.0-06ec64a61e.zip
-  filename: fw_moon_moon_global-ota_full-OS3.0.7.0.WNTMIXM-user-16.0-06ec64a61e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moon/releases/download/stable-19.05.2026/fw_moon_moon_global-ota_full-OS3.0.301.0.WNTMIXM-user-16.0-260c3c8177.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/moon/fw_moon_moon_global-ota_full-OS3.0.301.0.WNTMIXM-user-16.0-260c3c8177.zip
+  filename: fw_moon_moon_global-ota_full-OS3.0.301.0.WNTMIXM-user-16.0-260c3c8177.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.7.0.WNTMIXM
+    miui: OS3.0.301.0.WNTMIXM
 - branch: stable
   date: '2026-04-13'
   downloads:

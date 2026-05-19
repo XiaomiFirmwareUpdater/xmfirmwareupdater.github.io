@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 19 May 2026 00:44:24 </lastBuildDate>
+        <lastBuildDate>Tue, 19 May 2026 06:50:24 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 13/POCO M6 (moon) - OS3.0.301.0.WNTMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/moon/</link>
+            <pubDate>Tue, 19 May 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.304.0.WPKCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
@@ -984,11 +989,6 @@
         <item>
             <title>Xiaomi Civi 5 Pro (luming) - OS3.0.302.0.WOICNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/luming/</link>
-            <pubDate>Mon, 13 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 13/POCO M6 (moon) - OS3.0.7.0.WNTMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/moon/</link>
             <pubDate>Mon, 13 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
