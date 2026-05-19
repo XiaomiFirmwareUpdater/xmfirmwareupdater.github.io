@@ -1510,6 +1510,12 @@
   download: https://bigota.d.miui.com/OS3.0.4.0.WNAMIXM/fw_aurora_aurora_global-ota_full-OS3.0.4.0.WNAMIXM-user-16.0-2782f8d064.zip
   name: Xiaomi 14 Ultra
   version: OS3.0.4.0.WNAMIXM
+- android: '16.0'
+  codename: aurora
+  date: '2026-05-19'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WNAINXM/fw_aurora_aurora_in_global-ota_full-OS3.0.301.0.WNAINXM-user-16.0-b61c508ed9.zip
+  name: Xiaomi 14 Ultra
+  version: OS3.0.301.0.WNAINXM
 - android: '15.0'
   codename: aurora
   date: '2025-10-17'
