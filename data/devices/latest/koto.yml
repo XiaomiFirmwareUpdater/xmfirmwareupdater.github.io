@@ -9,15 +9,15 @@
     android: '16.0'
     miui: OS3.0.4.0.WOWMIXM
 - branch: stable
-  date: '2026-03-31'
+  date: '2026-05-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_koto/releases/download/stable-31.03.2026/fw_koto_koto_eea_global-ota_full-OS3.0.4.0.WOWEUXM-user-16.0-f65a6d2ee7.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/koto/fw_koto_koto_eea_global-ota_full-OS3.0.4.0.WOWEUXM-user-16.0-f65a6d2ee7.zip
-  filename: fw_koto_koto_eea_global-ota_full-OS3.0.4.0.WOWEUXM-user-16.0-f65a6d2ee7.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_koto/releases/download/stable-25.05.2026/fw_koto_koto_eea_global-ota_full-OS3.0.301.0.WOWEUXM-user-16.0-9632b0d1ea.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/koto/fw_koto_koto_eea_global-ota_full-OS3.0.301.0.WOWEUXM-user-16.0-9632b0d1ea.zip
+  filename: fw_koto_koto_eea_global-ota_full-OS3.0.301.0.WOWEUXM-user-16.0-9632b0d1ea.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.4.0.WOWEUXM
+    miui: OS3.0.301.0.WOWEUXM
 - branch: stable
   date: '2026-04-23'
   downloads:

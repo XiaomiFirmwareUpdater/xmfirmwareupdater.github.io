@@ -1,7 +1,7 @@
 ---
-title: POCO C85x 5G India HyperOS OS3.0.3.0.WBWINXM Update
+title: Redmi 15A/A7 Pro/POCO C85x 5G India HyperOS OS3.0.3.0.WBWINXM Update
 layout: download
-name: POCO C85x 5G India
+name: Redmi 15A/A7 Pro/POCO C85x 5G India
 codename: somalia
 permalink: /hyperos/somalia/stable/OS3.0.3.0.WBWINXM/
 ---
@@ -9,7 +9,7 @@ permalink: /hyperos/somalia/stable/OS3.0.3.0.WBWINXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/somalia/">POCO C85x 5G India</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/somalia/">Redmi 15A/A7 Pro/POCO C85x 5G India</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS3.0.3.0.WBWINXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /hyperos/somalia/stable/OS3.0.3.0.WBWINXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.3.0.WBWINXM Stable Official Update for POCO C85x 5G India (somalia)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.3.0.WBWINXM Stable Official Update for Redmi 15A/A7 Pro/POCO C85x 5G India (somalia)</h3>
     <h5>This page shows the OS3.0.3.0.WBWINXM update only. If you're looking for other updates check
         <a href="/hyperos/somalia/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -44,7 +44,7 @@ permalink: /hyperos/somalia/stable/OS3.0.3.0.WBWINXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>POCO C85x 5G India</h5>
+                    <h5><b>Device: </b>Redmi 15A/A7 Pro/POCO C85x 5G India</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/somalia/" target="_blank">somalia</a> </h5>
@@ -87,7 +87,7 @@ permalink: /hyperos/somalia/stable/OS3.0.3.0.WBWINXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>POCO C85x 5G India</h5>
+                    <h5><b>Device: </b>Redmi 15A/A7 Pro/POCO C85x 5G India</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/somalia/" target="_blank">somalia</a> </h5>

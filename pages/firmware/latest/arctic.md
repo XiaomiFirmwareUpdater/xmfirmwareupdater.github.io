@@ -1,7 +1,7 @@
 ---
-title: Redmi A7 Pro/POCO C81 Pro (arctic) Firmware Downloads
+title: Redmi A7 Pro/POCO C81/C81 Pro (arctic) Firmware Downloads
 layout: download
-name: Redmi A7 Pro/POCO C81 Pro
+name: Redmi A7 Pro/POCO C81/C81 Pro
 codename: arctic
 permalink: /firmware/arctic/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/arctic/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/arctic/">Redmi A7 Pro/POCO C81 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/arctic/">Redmi A7 Pro/POCO C81/C81 Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

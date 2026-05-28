@@ -1,7 +1,7 @@
 ---
-title: Redmi A5/POCO C71 (serenity) Firmware Downloads
+title: Redmi A5/A7/POCO C71/C81x (serenity) Firmware Downloads
 layout: download
-name: Redmi A5/POCO C71
+name: Redmi A5/A7/POCO C71/C81x
 codename: serenity
 permalink: /firmware/serenity/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/serenity/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/serenity/">Redmi A5/POCO C71</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/serenity/">Redmi A5/A7/POCO C71/C81x</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

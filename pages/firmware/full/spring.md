@@ -1,7 +1,7 @@
 ---
-title: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G (spring) Firmware Downloads
+title: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G (spring) Firmware Downloads
 layout: download
-name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
 codename: spring
 permalink: /archive/firmware/spring/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/spring/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/spring/">Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/spring/">Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

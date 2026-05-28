@@ -1,7 +1,7 @@
 ---
-title: Redmi 17 5G/Redmi R70m/Redmi A7 Pro 5G/Redmi 15A 5G/POCO C85x 5G (somalia) HyperOS Downloads
+title: Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G (somalia) HyperOS Downloads
 layout: download
-name: Redmi 17 5G/Redmi R70m/Redmi A7 Pro 5G/Redmi 15A 5G/POCO C85x 5G
+name: Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G
 codename: somalia
 permalink: /archive/hyperos/somalia/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/hyperos/somalia/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/somalia/">Redmi 17 5G/Redmi R70m/Redmi A7 Pro 5G/Redmi 15A 5G/POCO C85x 5G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/somalia/">Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -52,21 +52,21 @@ permalink: /archive/hyperos/somalia/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 17 5G / Redmi R70m China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.10.0.WBWCNXM</td><td>16.0</td><td>7.6 GB</td><td>2026-05-12</td><td><a href="/hyperos/somalia/stable/OS3.0.10.0.WBWCNXM/">Download</a></td></tr>
-<tr><td>Redmi 17 5G / Redmi R70m China</td><td>Stable</td><td>Recovery</td><td>OS3.0.10.0.WBWCNXM</td><td>16.0</td><td>5.3 GB</td><td>2026-05-12</td><td><a href="/hyperos/somalia/stable/OS3.0.10.0.WBWCNXM/">Download</a></td></tr>
-<tr><td>POCO C85x 5G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.9.0.WBWINXM</td><td>16.0</td><td>4.7 GB</td><td>2026-05-11</td><td><a href="/hyperos/somalia/stable/OS3.0.9.0.WBWINXM/">Download</a></td></tr>
-<tr><td>POCO C85x 5G India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.9.0.WBWINXM</td><td>16.0</td><td>6.6 GB</td><td>2026-04-28</td><td><a href="/hyperos/somalia/stable/OS3.0.9.0.WBWINXM/">Download</a></td></tr>
-<tr><td>Redmi 17 5G / Redmi R70m China</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WBWCNXM</td><td>16.0</td><td>5.3 GB</td><td>2026-05-06</td><td><a href="/hyperos/somalia/stable/OS3.0.6.0.WBWCNXM/">Download</a></td></tr>
-<tr><td>Redmi 17 5G / Redmi R70m China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WBWCNXM</td><td>16.0</td><td>7.7 GB</td><td>2026-04-24</td><td><a href="/hyperos/somalia/stable/OS3.0.6.0.WBWCNXM/">Download</a></td></tr>
-<tr><td>Redmi 17 5G / Redmi R70m China</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WBWCNXM</td><td>16.0</td><td>5.3 GB</td><td>2026-04-27</td><td><a href="/hyperos/somalia/stable/OS3.0.5.0.WBWCNXM/">Download</a></td></tr>
-<tr><td>Redmi 17 5G / Redmi R70m China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WBWCNXM</td><td>16.0</td><td>7.7 GB</td><td>2026-03-30</td><td><a href="/hyperos/somalia/stable/OS3.0.5.0.WBWCNXM/">Download</a></td></tr>
-<tr><td>POCO C85x 5G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WBWINXM</td><td>16.0</td><td>4.6 GB</td><td>2026-04-15</td><td><a href="/hyperos/somalia/stable/OS3.0.4.0.WBWINXM/">Download</a></td></tr>
-<tr><td>POCO C85x 5G India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WBWINXM</td><td>16.0</td><td>6.6 GB</td><td>2026-03-05</td><td><a href="/hyperos/somalia/stable/OS3.0.4.0.WBWINXM/">Download</a></td></tr>
-<tr><td>Redmi 17 5G / Redmi R70m China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WBWCNXM</td><td>16.0</td><td>5.2 GB</td><td>2026-04-27</td><td><a href="/hyperos/somalia/stable beta/OS3.0.3.0.WBWCNXM/">Download</a></td></tr>
-<tr><td>POCO C85x 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.1.0.WBWINXM</td><td>16.0</td><td>4.6 GB</td><td>2026-03-12</td><td><a href="/hyperos/somalia/stable beta/OS3.0.1.0.WBWINXM/">Download</a></td></tr>
-<tr><td>Redmi 17 5G / Redmi R70m China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.4.0.WBWCNXM</td><td>16.0</td><td>5.2 GB</td><td>2026-04-27</td><td><a href="/hyperos/somalia/stable beta/OS3.0.4.0.WBWCNXM/">Download</a></td></tr>
-<tr><td>POCO C85x 5G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WBWINXM</td><td>16.0</td><td>4.6 GB</td><td>2026-03-12</td><td><a href="/hyperos/somalia/stable/OS3.0.3.0.WBWINXM/">Download</a></td></tr>
-<tr><td>POCO C85x 5G India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WBWINXM</td><td>16.0</td><td>6.6 GB</td><td>2026-02-26</td><td><a href="/hyperos/somalia/stable/OS3.0.3.0.WBWINXM/">Download</a></td></tr>
+                <tr><td>Redmi 17 5G / R70 5G / R70m 5G China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.10.0.WBWCNXM</td><td>16.0</td><td>7.6 GB</td><td>2026-05-12</td><td><a href="/hyperos/somalia/stable/OS3.0.10.0.WBWCNXM/">Download</a></td></tr>
+<tr><td>Redmi 17 5G / R70 5G / R70m 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.10.0.WBWCNXM</td><td>16.0</td><td>5.3 GB</td><td>2026-05-12</td><td><a href="/hyperos/somalia/stable/OS3.0.10.0.WBWCNXM/">Download</a></td></tr>
+<tr><td>Redmi 15A/A7 Pro/POCO C85x 5G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.9.0.WBWINXM</td><td>16.0</td><td>4.7 GB</td><td>2026-05-11</td><td><a href="/hyperos/somalia/stable/OS3.0.9.0.WBWINXM/">Download</a></td></tr>
+<tr><td>Redmi 15A/A7 Pro/POCO C85x 5G India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.9.0.WBWINXM</td><td>16.0</td><td>6.6 GB</td><td>2026-04-28</td><td><a href="/hyperos/somalia/stable/OS3.0.9.0.WBWINXM/">Download</a></td></tr>
+<tr><td>Redmi 17 5G / R70 5G / R70m 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WBWCNXM</td><td>16.0</td><td>5.3 GB</td><td>2026-05-06</td><td><a href="/hyperos/somalia/stable/OS3.0.6.0.WBWCNXM/">Download</a></td></tr>
+<tr><td>Redmi 17 5G / R70 5G / R70m 5G China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WBWCNXM</td><td>16.0</td><td>7.7 GB</td><td>2026-04-24</td><td><a href="/hyperos/somalia/stable/OS3.0.6.0.WBWCNXM/">Download</a></td></tr>
+<tr><td>Redmi 17 5G / R70 5G / R70m 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WBWCNXM</td><td>16.0</td><td>5.3 GB</td><td>2026-04-27</td><td><a href="/hyperos/somalia/stable/OS3.0.5.0.WBWCNXM/">Download</a></td></tr>
+<tr><td>Redmi 17 5G / R70 5G / R70m 5G China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WBWCNXM</td><td>16.0</td><td>7.7 GB</td><td>2026-03-30</td><td><a href="/hyperos/somalia/stable/OS3.0.5.0.WBWCNXM/">Download</a></td></tr>
+<tr><td>Redmi 15A/A7 Pro/POCO C85x 5G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WBWINXM</td><td>16.0</td><td>4.6 GB</td><td>2026-04-15</td><td><a href="/hyperos/somalia/stable/OS3.0.4.0.WBWINXM/">Download</a></td></tr>
+<tr><td>Redmi 15A/A7 Pro/POCO C85x 5G India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WBWINXM</td><td>16.0</td><td>6.6 GB</td><td>2026-03-05</td><td><a href="/hyperos/somalia/stable/OS3.0.4.0.WBWINXM/">Download</a></td></tr>
+<tr><td>Redmi 17 5G / R70 5G / R70m 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WBWCNXM</td><td>16.0</td><td>5.2 GB</td><td>2026-04-27</td><td><a href="/hyperos/somalia/stable beta/OS3.0.3.0.WBWCNXM/">Download</a></td></tr>
+<tr><td>Redmi 15A/A7 Pro/POCO C85x 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.1.0.WBWINXM</td><td>16.0</td><td>4.6 GB</td><td>2026-03-12</td><td><a href="/hyperos/somalia/stable beta/OS3.0.1.0.WBWINXM/">Download</a></td></tr>
+<tr><td>Redmi 17 5G / R70 5G / R70m 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.4.0.WBWCNXM</td><td>16.0</td><td>5.2 GB</td><td>2026-04-27</td><td><a href="/hyperos/somalia/stable beta/OS3.0.4.0.WBWCNXM/">Download</a></td></tr>
+<tr><td>Redmi 15A/A7 Pro/POCO C85x 5G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WBWINXM</td><td>16.0</td><td>4.6 GB</td><td>2026-03-12</td><td><a href="/hyperos/somalia/stable/OS3.0.3.0.WBWINXM/">Download</a></td></tr>
+<tr><td>Redmi 15A/A7 Pro/POCO C85x 5G India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WBWINXM</td><td>16.0</td><td>6.6 GB</td><td>2026-02-26</td><td><a href="/hyperos/somalia/stable/OS3.0.3.0.WBWINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2026-04-17'
+  date: '2026-05-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-17.04.2026/fw_malachite_malachite_global-ota_full-OS3.0.11.0.WOOMIXM-user-16.0-392b868464.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/malachite/fw_malachite_malachite_global-ota_full-OS3.0.11.0.WOOMIXM-user-16.0-392b868464.zip
-  filename: fw_malachite_malachite_global-ota_full-OS3.0.11.0.WOOMIXM-user-16.0-392b868464.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_malachite/releases/download/stable-26.05.2026/fw_malachite_malachite_global-ota_full-OS3.0.302.0.WOOMIXM-user-16.0-4409a3748f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/malachite/fw_malachite_malachite_global-ota_full-OS3.0.302.0.WOOMIXM-user-16.0-4409a3748f.zip
+  filename: fw_malachite_malachite_global-ota_full-OS3.0.302.0.WOOMIXM-user-16.0-4409a3748f.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.11.0.WOOMIXM
+    miui: OS3.0.302.0.WOOMIXM
 - branch: stable
   date: '2026-05-12'
   downloads:

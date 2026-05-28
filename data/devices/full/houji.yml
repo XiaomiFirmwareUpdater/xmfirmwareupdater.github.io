@@ -399,6 +399,16 @@
     android: '14.0'
     miui: OS1.0.15.0.UNCMIXM
 - branch: stable
+  date: '2026-05-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-21.05.2026/fw_houji_houji_eea_global-ota_full-OS3.0.301.0.WNCEUXM-user-16.0-8311873db0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji_eea_global-ota_full-OS3.0.301.0.WNCEUXM-user-16.0-8311873db0.zip
+  filename: fw_houji_houji_eea_global-ota_full-OS3.0.301.0.WNCEUXM-user-16.0-8311873db0.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.301.0.WNCEUXM
+- branch: stable
   date: '2026-04-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-21.04.2026/fw_houji_houji_eea_global-ota_full-OS3.0.8.0.WNCEUXM-user-16.0-1f54e73536.zip

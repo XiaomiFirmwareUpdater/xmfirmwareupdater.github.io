@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2026-03-16'
+  date: '2026-05-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-16.03.2026/fw_diting_diting_global-ota_full-OS3.0.3.0.VLFMIXM-user-15.0-146d2e0d78.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/diting/fw_diting_diting_global-ota_full-OS3.0.3.0.VLFMIXM-user-15.0-146d2e0d78.zip
-  filename: fw_diting_diting_global-ota_full-OS3.0.3.0.VLFMIXM-user-15.0-146d2e0d78.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-28.05.2026/fw_diting_diting_global-ota_full-OS3.0.4.0.VLFMIXM-user-15.0-66cacb72ce.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/diting/fw_diting_diting_global-ota_full-OS3.0.4.0.VLFMIXM-user-15.0-66cacb72ce.zip
+  filename: fw_diting_diting_global-ota_full-OS3.0.4.0.VLFMIXM-user-15.0-66cacb72ce.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS3.0.3.0.VLFMIXM
+    miui: OS3.0.4.0.VLFMIXM
 - branch: stable
   date: '2026-05-09'
   downloads:
@@ -19,12 +19,12 @@
     android: '15.0'
     miui: OS3.0.2.0.VLFCNXM
 - branch: stable
-  date: '2026-03-22'
+  date: '2026-05-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-22.03.2026/fw_diting_diting_eea_global-ota_full-OS3.0.2.0.VLFEUXM-user-15.0-a2b6e612ee.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/diting/fw_diting_diting_eea_global-ota_full-OS3.0.2.0.VLFEUXM-user-15.0-a2b6e612ee.zip
-  filename: fw_diting_diting_eea_global-ota_full-OS3.0.2.0.VLFEUXM-user-15.0-a2b6e612ee.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-21.05.2026/fw_diting_diting_eea_global-ota_full-OS3.0.3.0.VLFEUXM-user-15.0-a624c11d4f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/diting/fw_diting_diting_eea_global-ota_full-OS3.0.3.0.VLFEUXM-user-15.0-a624c11d4f.zip
+  filename: fw_diting_diting_eea_global-ota_full-OS3.0.3.0.VLFEUXM-user-15.0-a624c11d4f.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS3.0.2.0.VLFEUXM
+    miui: OS3.0.3.0.VLFEUXM

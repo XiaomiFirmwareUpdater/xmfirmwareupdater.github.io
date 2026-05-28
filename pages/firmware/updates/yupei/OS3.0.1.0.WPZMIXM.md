@@ -1,7 +1,7 @@
 ---
-title: Xiaomi Pad 8 Global Firmware OS3.0.1.0.WPZMIXM Update
+title: Xiaomi Pad 8 / Xiaomi Pad 9 Global Firmware OS3.0.1.0.WPZMIXM Update
 layout: download
-name: Xiaomi Pad 8 Global
+name: Xiaomi Pad 8 / Xiaomi Pad 9 Global
 codename: yupei
 permalink: /firmware/yupei/stable/OS3.0.1.0.WPZMIXM/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/yupei/stable/OS3.0.1.0.WPZMIXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item"><a href="/firmware/yupei/">Xiaomi Pad 8 Global</a></li>
+        <li class="breadcrumb-item"><a href="/firmware/yupei/">Xiaomi Pad 8 / Xiaomi Pad 9 Global</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS3.0.1.0.WPZMIXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /firmware/yupei/stable/OS3.0.1.0.WPZMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">Firmware OS3.0.1.0.WPZMIXM Stable Release for Xiaomi Pad 8 Global (yupei)</h3>
+    <h3 class="title bg-light p-2 rounded">Firmware OS3.0.1.0.WPZMIXM Stable Release for Xiaomi Pad 8 / Xiaomi Pad 9 Global (yupei)</h3>
     <h5>This page shows the OS3.0.1.0.WPZMIXM update only. If you're looking for other updates check
         <a href="/firmware/yupei/">here.</a></h5>
     <div class="card">
@@ -42,7 +42,7 @@ permalink: /firmware/yupei/stable/OS3.0.1.0.WPZMIXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Xiaomi Pad 8 Global</h5>
+                    <h5><b>Device: </b>Xiaomi Pad 8 / Xiaomi Pad 9 Global</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/firmware/yupei/" target="_blank">yupei</a> </h5>

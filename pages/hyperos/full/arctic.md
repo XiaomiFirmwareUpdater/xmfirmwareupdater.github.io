@@ -1,7 +1,7 @@
 ---
-title: Redmi A7 Pro/POCO C81 Pro (arctic) HyperOS Downloads
+title: Redmi A7 Pro/POCO C81/C81 Pro (arctic) HyperOS Downloads
 layout: download
-name: Redmi A7 Pro/POCO C81 Pro
+name: Redmi A7 Pro/POCO C81/C81 Pro
 codename: arctic
 permalink: /archive/hyperos/arctic/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/hyperos/arctic/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/arctic/">Redmi A7 Pro/POCO C81 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/arctic/">Redmi A7 Pro/POCO C81/C81 Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -52,25 +52,28 @@ permalink: /archive/hyperos/arctic/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi A7 Pro / POCO C81 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WBVIDXM</td><td>16.0</td><td>5.3 GB</td><td>2026-05-11</td><td><a href="/hyperos/arctic/stable/OS3.0.2.0.WBVIDXM/">Download</a></td></tr>
-<tr><td>Redmi A7 Pro / POCO C81 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WBVIDXM</td><td>16.0</td><td>8.1 GB</td><td>2026-03-27</td><td><a href="/hyperos/arctic/stable/OS3.0.2.0.WBVIDXM/">Download</a></td></tr>
-<tr><td>Redmi A7 Pro / POCO C81 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.7.0.WBVMIXM</td><td>16.0</td><td>5.4 GB</td><td>2026-05-08</td><td><a href="/hyperos/arctic/stable/OS3.0.7.0.WBVMIXM/">Download</a></td></tr>
-<tr><td>Redmi A7 Pro / POCO C81 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.7.0.WBVMIXM</td><td>16.0</td><td>8.6 GB</td><td>2026-04-28</td><td><a href="/hyperos/arctic/stable/OS3.0.7.0.WBVMIXM/">Download</a></td></tr>
-<tr><td>Redmi A7 Pro / POCO C81 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WBVEUXM</td><td>16.0</td><td>5.4 GB</td><td>2026-04-24</td><td><a href="/hyperos/arctic/stable/OS3.0.6.0.WBVEUXM/">Download</a></td></tr>
-<tr><td>Redmi A7 Pro / POCO C81 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WBVEUXM</td><td>16.0</td><td>8.0 GB</td><td>2026-04-09</td><td><a href="/hyperos/arctic/stable/OS3.0.6.0.WBVEUXM/">Download</a></td></tr>
-<tr><td>Redmi A7 Pro / POCO C81 Pro India</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WBVINXM</td><td>16.0</td><td>5.0 GB</td><td>2026-04-24</td><td><a href="/hyperos/arctic/stable/OS3.0.2.0.WBVINXM/">Download</a></td></tr>
-<tr><td>Redmi A7 Pro / POCO C81 Pro India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WBVINXM</td><td>16.0</td><td>7.1 GB</td><td>2026-03-23</td><td><a href="/hyperos/arctic/stable/OS3.0.2.0.WBVINXM/">Download</a></td></tr>
-<tr><td>Redmi A7 Pro / POCO C81 Pro India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.1.0.WBVINXM</td><td>16.0</td><td>5.0 GB</td><td>2026-04-24</td><td><a href="/hyperos/arctic/stable beta/OS3.0.1.0.WBVINXM/">Download</a></td></tr>
-<tr><td>Redmi A7 Pro / POCO C81 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WBVRUXM</td><td>16.0</td><td>5.2 GB</td><td>2026-04-16</td><td><a href="/hyperos/arctic/stable/OS3.0.4.0.WBVRUXM/">Download</a></td></tr>
-<tr><td>Redmi A7 Pro / POCO C81 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WBVRUXM</td><td>16.0</td><td>8.4 GB</td><td>2026-03-18</td><td><a href="/hyperos/arctic/stable/OS3.0.4.0.WBVRUXM/">Download</a></td></tr>
-<tr><td>Redmi A7 Pro / POCO C81 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WBVMIXM</td><td>16.0</td><td>5.4 GB</td><td>2026-04-03</td><td><a href="/hyperos/arctic/stable/OS3.0.6.0.WBVMIXM/">Download</a></td></tr>
-<tr><td>Redmi A7 Pro / POCO C81 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WBVMIXM</td><td>16.0</td><td>8.6 GB</td><td>2026-03-18</td><td><a href="/hyperos/arctic/stable/OS3.0.6.0.WBVMIXM/">Download</a></td></tr>
-<tr><td>Redmi A7 Pro / POCO C81 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WBVMIXM</td><td>16.0</td><td>5.4 GB</td><td>2026-04-01</td><td><a href="/hyperos/arctic/stable/OS3.0.5.0.WBVMIXM/">Download</a></td></tr>
-<tr><td>Redmi A7 Pro / POCO C81 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WBVMIXM</td><td>16.0</td><td>8.6 GB</td><td>2026-03-06</td><td><a href="/hyperos/arctic/stable/OS3.0.5.0.WBVMIXM/">Download</a></td></tr>
-<tr><td>Redmi A7 Pro / POCO C81 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WBVEUXM</td><td>16.0</td><td>5.4 GB</td><td>2026-03-27</td><td><a href="/hyperos/arctic/stable/OS3.0.5.0.WBVEUXM/">Download</a></td></tr>
-<tr><td>Redmi A7 Pro / POCO C81 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WBVEUXM</td><td>16.0</td><td>8.0 GB</td><td>2026-03-18</td><td><a href="/hyperos/arctic/stable/OS3.0.5.0.WBVEUXM/">Download</a></td></tr>
-<tr><td>Redmi A7 Pro / POCO C81 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WBVIDXM</td><td>16.0</td><td>5.3 GB</td><td>2026-03-13</td><td><a href="/hyperos/arctic/stable/OS3.0.1.0.WBVIDXM/">Download</a></td></tr>
-<tr><td>Redmi A7 Pro / POCO C81 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WBVIDXM</td><td>16.0</td><td>8.1 GB</td><td>2026-01-23</td><td><a href="/hyperos/arctic/stable/OS3.0.1.0.WBVIDXM/">Download</a></td></tr>
+                <tr><td>Redmi A7 Pro / POCO C81 / C81 Pro Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WBVIDXM</td><td>16.0</td><td>5.3 GB</td><td>2026-05-28</td><td><a href="/hyperos/arctic/stable beta/OS3.0.3.0.WBVIDXM/">Download</a></td></tr>
+<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.7.0.WBVEUXM</td><td>16.0</td><td>5.5 GB</td><td>2026-05-19</td><td><a href="/hyperos/arctic/stable/OS3.0.7.0.WBVEUXM/">Download</a></td></tr>
+<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.7.0.WBVEUXM</td><td>16.0</td><td>8.1 GB</td><td>2026-05-12</td><td><a href="/hyperos/arctic/stable/OS3.0.7.0.WBVEUXM/">Download</a></td></tr>
+<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WBVIDXM</td><td>16.0</td><td>5.3 GB</td><td>2026-05-11</td><td><a href="/hyperos/arctic/stable/OS3.0.2.0.WBVIDXM/">Download</a></td></tr>
+<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WBVIDXM</td><td>16.0</td><td>8.1 GB</td><td>2026-03-27</td><td><a href="/hyperos/arctic/stable/OS3.0.2.0.WBVIDXM/">Download</a></td></tr>
+<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.7.0.WBVMIXM</td><td>16.0</td><td>5.4 GB</td><td>2026-05-08</td><td><a href="/hyperos/arctic/stable/OS3.0.7.0.WBVMIXM/">Download</a></td></tr>
+<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.7.0.WBVMIXM</td><td>16.0</td><td>8.6 GB</td><td>2026-04-28</td><td><a href="/hyperos/arctic/stable/OS3.0.7.0.WBVMIXM/">Download</a></td></tr>
+<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WBVEUXM</td><td>16.0</td><td>5.4 GB</td><td>2026-04-24</td><td><a href="/hyperos/arctic/stable/OS3.0.6.0.WBVEUXM/">Download</a></td></tr>
+<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WBVEUXM</td><td>16.0</td><td>8.0 GB</td><td>2026-04-09</td><td><a href="/hyperos/arctic/stable/OS3.0.6.0.WBVEUXM/">Download</a></td></tr>
+<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro India</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WBVINXM</td><td>16.0</td><td>5.0 GB</td><td>2026-04-24</td><td><a href="/hyperos/arctic/stable/OS3.0.2.0.WBVINXM/">Download</a></td></tr>
+<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WBVINXM</td><td>16.0</td><td>7.1 GB</td><td>2026-03-23</td><td><a href="/hyperos/arctic/stable/OS3.0.2.0.WBVINXM/">Download</a></td></tr>
+<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.1.0.WBVINXM</td><td>16.0</td><td>5.0 GB</td><td>2026-04-24</td><td><a href="/hyperos/arctic/stable beta/OS3.0.1.0.WBVINXM/">Download</a></td></tr>
+<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WBVRUXM</td><td>16.0</td><td>5.2 GB</td><td>2026-04-16</td><td><a href="/hyperos/arctic/stable/OS3.0.4.0.WBVRUXM/">Download</a></td></tr>
+<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WBVRUXM</td><td>16.0</td><td>8.4 GB</td><td>2026-03-18</td><td><a href="/hyperos/arctic/stable/OS3.0.4.0.WBVRUXM/">Download</a></td></tr>
+<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WBVMIXM</td><td>16.0</td><td>5.4 GB</td><td>2026-04-03</td><td><a href="/hyperos/arctic/stable/OS3.0.6.0.WBVMIXM/">Download</a></td></tr>
+<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WBVMIXM</td><td>16.0</td><td>8.6 GB</td><td>2026-03-18</td><td><a href="/hyperos/arctic/stable/OS3.0.6.0.WBVMIXM/">Download</a></td></tr>
+<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WBVMIXM</td><td>16.0</td><td>5.4 GB</td><td>2026-04-01</td><td><a href="/hyperos/arctic/stable/OS3.0.5.0.WBVMIXM/">Download</a></td></tr>
+<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WBVMIXM</td><td>16.0</td><td>8.6 GB</td><td>2026-03-06</td><td><a href="/hyperos/arctic/stable/OS3.0.5.0.WBVMIXM/">Download</a></td></tr>
+<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WBVEUXM</td><td>16.0</td><td>5.4 GB</td><td>2026-03-27</td><td><a href="/hyperos/arctic/stable/OS3.0.5.0.WBVEUXM/">Download</a></td></tr>
+<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WBVEUXM</td><td>16.0</td><td>8.0 GB</td><td>2026-03-18</td><td><a href="/hyperos/arctic/stable/OS3.0.5.0.WBVEUXM/">Download</a></td></tr>
+<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WBVIDXM</td><td>16.0</td><td>5.3 GB</td><td>2026-03-13</td><td><a href="/hyperos/arctic/stable/OS3.0.1.0.WBVIDXM/">Download</a></td></tr>
+<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WBVIDXM</td><td>16.0</td><td>8.1 GB</td><td>2026-01-23</td><td><a href="/hyperos/arctic/stable/OS3.0.1.0.WBVIDXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

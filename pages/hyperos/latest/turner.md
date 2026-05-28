@@ -57,9 +57,8 @@ permalink: /hyperos/turner/
 <tr><td>Redmi K Pad China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.203.0.VAOCNXM</td><td>15.0</td><td>7.3 GB</td><td>2025-06-26</td><td><a href="/hyperos/turner/stable beta/OS2.0.203.0.VAOCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad Mini Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WAOMIXM</td><td>16.0</td><td>8.2 GB</td><td>2026-04-25</td><td><a href="/hyperos/turner/stable/OS3.0.302.0.WAOMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad Mini Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WAOMIXM</td><td>16.0</td><td>6.2 GB</td><td>2026-04-30</td><td><a href="/hyperos/turner/stable/OS3.0.302.0.WAOMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad Mini Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WAOTWXM</td><td>16.0</td><td>7.0 GB</td><td>2025-12-04</td><td><a href="/hyperos/turner/stable/OS3.0.2.0.WAOTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad Mini Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WAOTWXM</td><td>16.0</td><td>6.0 GB</td><td>2025-12-12</td><td><a href="/hyperos/turner/stable/OS3.0.2.0.WAOTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad Mini Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WAOTWXM</td><td>16.0</td><td>6.2 GB</td><td>2026-05-12</td><td><a href="/hyperos/turner/stable beta/OS3.0.301.0.WAOTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad Mini Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WAOTWXM</td><td>16.0</td><td>7.3 GB</td><td>2026-04-30</td><td><a href="/hyperos/turner/stable/OS3.0.301.0.WAOTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad Mini Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WAOTWXM</td><td>16.0</td><td>6.2 GB</td><td>2026-05-12</td><td><a href="/hyperos/turner/stable/OS3.0.301.0.WAOTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 15 5G India Firmware OS3.0.301.0.WPQINXM Update
+title: Redmi Note 15 / 15 SE 5G India Firmware OS3.0.301.0.WPQINXM Update
 layout: download
-name: Redmi Note 15 5G India
+name: Redmi Note 15 / 15 SE 5G India
 codename: kunzite
 permalink: /firmware/kunzite/stable/OS3.0.301.0.WPQINXM/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/kunzite/stable/OS3.0.301.0.WPQINXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item"><a href="/firmware/kunzite/">Redmi Note 15 5G India</a></li>
+        <li class="breadcrumb-item"><a href="/firmware/kunzite/">Redmi Note 15 / 15 SE 5G India</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS3.0.301.0.WPQINXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /firmware/kunzite/stable/OS3.0.301.0.WPQINXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">Firmware OS3.0.301.0.WPQINXM Stable Release for Redmi Note 15 5G India (kunzite)</h3>
+    <h3 class="title bg-light p-2 rounded">Firmware OS3.0.301.0.WPQINXM Stable Release for Redmi Note 15 / 15 SE 5G India (kunzite)</h3>
     <h5>This page shows the OS3.0.301.0.WPQINXM update only. If you're looking for other updates check
         <a href="/firmware/kunzite/">here.</a></h5>
     <div class="card">
@@ -42,7 +42,7 @@ permalink: /firmware/kunzite/stable/OS3.0.301.0.WPQINXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 15 5G India</h5>
+                    <h5><b>Device: </b>Redmi Note 15 / 15 SE 5G India</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/firmware/kunzite/" target="_blank">kunzite</a> </h5>

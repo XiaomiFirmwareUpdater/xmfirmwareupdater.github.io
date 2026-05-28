@@ -1,7 +1,7 @@
 ---
-title: Xiaomi Pad 8 India HyperOS OS3.0.301.0.WPZINXM Update
+title: Xiaomi Pad 8 / Xiaomi Pad 9 India HyperOS OS3.0.301.0.WPZINXM Update
 layout: download
-name: Xiaomi Pad 8 India
+name: Xiaomi Pad 8 / Xiaomi Pad 9 India
 codename: yupei
 permalink: /hyperos/yupei/stable/OS3.0.301.0.WPZINXM/
 ---
@@ -9,7 +9,7 @@ permalink: /hyperos/yupei/stable/OS3.0.301.0.WPZINXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/yupei/">Xiaomi Pad 8 India</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/yupei/">Xiaomi Pad 8 / Xiaomi Pad 9 India</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS3.0.301.0.WPZINXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /hyperos/yupei/stable/OS3.0.301.0.WPZINXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.301.0.WPZINXM Stable Official Update for Xiaomi Pad 8 India (yupei)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.301.0.WPZINXM Stable Official Update for Xiaomi Pad 8 / Xiaomi Pad 9 India (yupei)</h3>
     <h5>This page shows the OS3.0.301.0.WPZINXM update only. If you're looking for other updates check
         <a href="/hyperos/yupei/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -44,7 +44,7 @@ permalink: /hyperos/yupei/stable/OS3.0.301.0.WPZINXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Xiaomi Pad 8 India</h5>
+                    <h5><b>Device: </b>Xiaomi Pad 8 / Xiaomi Pad 9 India</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/yupei/" target="_blank">yupei</a> </h5>
@@ -87,7 +87,7 @@ permalink: /hyperos/yupei/stable/OS3.0.301.0.WPZINXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Xiaomi Pad 8 India</h5>
+                    <h5><b>Device: </b>Xiaomi Pad 8 / Xiaomi Pad 9 India</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/yupei/" target="_blank">yupei</a> </h5>

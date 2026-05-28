@@ -29,6 +29,16 @@
     android: '15.0'
     miui: OS2.0.211.0.VPGMIXM
 - branch: stable
+  date: '2026-05-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spinel/releases/download/stable-25.05.2026/fw_spinel_spinel_global-ota_full-OS3.0.301.0.WPGMIXM-user-16.0-023314584a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/spinel/fw_spinel_spinel_global-ota_full-OS3.0.301.0.WPGMIXM-user-16.0-023314584a.zip
+  filename: fw_spinel_spinel_global-ota_full-OS3.0.301.0.WPGMIXM-user-16.0-023314584a.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.301.0.WPGMIXM
+- branch: stable
   date: '2026-03-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spinel/releases/download/stable-20.03.2026/fw_spinel_spinel_global-ota_full-OS2.0.212.0.VPGMIXM-user-15.0-d31a3a0106.zip

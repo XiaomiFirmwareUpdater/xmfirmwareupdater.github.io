@@ -52,7 +52,23 @@ permalink: /archive/hyperos/guitar/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WDNCNXM</td><td>16.0</td><td>5.3 GB</td><td>2026-04-21</td><td><a href="/hyperos/guitar/stable/OS3.0.301.0.WDNCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WDNCNXM</td><td>16.0</td><td>5.3 GB</td><td>2026-05-25</td><td><a href="/hyperos/guitar/stable/OS3.0.302.0.WDNCNXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WDNCNXM</td><td>16.0</td><td>6.4 GB</td><td>2026-05-12</td><td><a href="/hyperos/guitar/stable/OS3.0.302.0.WDNCNXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WDNIDXM</td><td>16.0</td><td>5.0 GB</td><td>2026-05-18</td><td><a href="/hyperos/guitar/stable/OS3.0.302.0.WDNIDXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WDNIDXM</td><td>16.0</td><td>6.3 GB</td><td>2026-05-07</td><td><a href="/hyperos/guitar/stable/OS3.0.302.0.WDNIDXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WDNMIXM</td><td>16.0</td><td>5.0 GB</td><td>2026-05-15</td><td><a href="/hyperos/guitar/stable/OS3.0.304.0.WDNMIXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WDNMIXM</td><td>16.0</td><td>6.9 GB</td><td>2026-05-09</td><td><a href="/hyperos/guitar/stable/OS3.0.304.0.WDNMIXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WDNMIXM</td><td>16.0</td><td>5.0 GB</td><td>2026-05-08</td><td><a href="/hyperos/guitar/stable/OS3.0.303.0.WDNMIXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WDNMIXM</td><td>16.0</td><td>6.9 GB</td><td>2026-04-21</td><td><a href="/hyperos/guitar/stable/OS3.0.303.0.WDNMIXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WDNEUXM</td><td>16.0</td><td>5.0 GB</td><td>2026-05-08</td><td><a href="/hyperos/guitar/stable/OS3.0.302.0.WDNEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WDNEUXM</td><td>16.0</td><td>6.5 GB</td><td>2026-04-14</td><td><a href="/hyperos/guitar/stable/OS3.0.302.0.WDNEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WDNRUXM</td><td>16.0</td><td>4.9 GB</td><td>2026-05-08</td><td><a href="/hyperos/guitar/stable/OS3.0.304.0.WDNRUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WDNRUXM</td><td>16.0</td><td>7.1 GB</td><td>2026-04-30</td><td><a href="/hyperos/guitar/stable/OS3.0.304.0.WDNRUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WDNTRXM</td><td>16.0</td><td>4.9 GB</td><td>2026-05-08</td><td><a href="/hyperos/guitar/stable/OS3.0.303.0.WDNTRXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WDNTRXM</td><td>16.0</td><td>6.3 GB</td><td>2026-04-27</td><td><a href="/hyperos/guitar/stable/OS3.0.303.0.WDNTRXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WDNTWXM</td><td>16.0</td><td>4.8 GB</td><td>2026-05-08</td><td><a href="/hyperos/guitar/stable/OS3.0.302.0.WDNTWXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WDNTWXM</td><td>16.0</td><td>5.8 GB</td><td>2026-04-21</td><td><a href="/hyperos/guitar/stable/OS3.0.302.0.WDNTWXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WDNCNXM</td><td>16.0</td><td>5.3 GB</td><td>2026-04-21</td><td><a href="/hyperos/guitar/stable/OS3.0.301.0.WDNCNXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WDNCNXM</td><td>16.0</td><td>6.4 GB</td><td>2026-04-02</td><td><a href="/hyperos/guitar/stable/OS3.0.301.0.WDNCNXM/">Download</a></td></tr>
 
                 </tbody>

@@ -1,7 +1,7 @@
 ---
-title: Xiaomi Pad 8 (yupei) Firmware Downloads
+title: Xiaomi Pad 8/Xiaomi Pad 9 (yupei) Firmware Downloads
 layout: download
-name: Xiaomi Pad 8
+name: Xiaomi Pad 8/Xiaomi Pad 9
 codename: yupei
 permalink: /firmware/yupei/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/yupei/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/yupei/">Xiaomi Pad 8</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/yupei/">Xiaomi Pad 8/Xiaomi Pad 9</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

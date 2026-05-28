@@ -1,7 +1,7 @@
 ---
-title: Redmi 15 5G / POCO M7 Plus 5G EEA HyperOS OS2.0.205.0.VOUEUXM Update
+title: Redmi 15 5G / M7 Plus / M8s 5G EEA HyperOS OS2.0.205.0.VOUEUXM Update
 layout: download
-name: Redmi 15 5G / POCO M7 Plus 5G EEA
+name: Redmi 15 5G / M7 Plus / M8s 5G EEA
 codename: spring
 permalink: /hyperos/spring/stable/OS2.0.205.0.VOUEUXM/
 ---
@@ -9,7 +9,7 @@ permalink: /hyperos/spring/stable/OS2.0.205.0.VOUEUXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/spring/">Redmi 15 5G / POCO M7 Plus 5G EEA</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/spring/">Redmi 15 5G / M7 Plus / M8s 5G EEA</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS2.0.205.0.VOUEUXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /hyperos/spring/stable/OS2.0.205.0.VOUEUXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.205.0.VOUEUXM Stable Official Update for Redmi 15 5G / POCO M7 Plus 5G EEA (spring)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.205.0.VOUEUXM Stable Official Update for Redmi 15 5G / M7 Plus / M8s 5G EEA (spring)</h3>
     <h5>This page shows the OS2.0.205.0.VOUEUXM update only. If you're looking for other updates check
         <a href="/hyperos/spring/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -44,7 +44,7 @@ permalink: /hyperos/spring/stable/OS2.0.205.0.VOUEUXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi 15 5G / POCO M7 Plus 5G EEA</h5>
+                    <h5><b>Device: </b>Redmi 15 5G / M7 Plus / M8s 5G EEA</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/spring/" target="_blank">spring</a> </h5>
@@ -87,7 +87,7 @@ permalink: /hyperos/spring/stable/OS2.0.205.0.VOUEUXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi 15 5G / POCO M7 Plus 5G EEA</h5>
+                    <h5><b>Device: </b>Redmi 15 5G / M7 Plus / M8s 5G EEA</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/spring/" target="_blank">spring</a> </h5>

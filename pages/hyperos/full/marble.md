@@ -52,7 +52,8 @@ permalink: /archive/hyperos/marble/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12 Turbo China</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.VMRCNXM</td><td>15.0</td><td>6.4 GB</td><td>2026-04-23</td><td><a href="/hyperos/marble/stable/OS3.0.4.0.VMRCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12 Turbo China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.5.0.VMRCNXM</td><td>15.0</td><td>6.4 GB</td><td>2026-05-18</td><td><a href="/hyperos/marble/stable beta/OS3.0.5.0.VMRCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 Turbo China</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.VMRCNXM</td><td>15.0</td><td>6.4 GB</td><td>2026-04-23</td><td><a href="/hyperos/marble/stable/OS3.0.4.0.VMRCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Turbo China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.VMRCNXM</td><td>15.0</td><td>7.9 GB</td><td>2026-04-07</td><td><a href="/hyperos/marble/stable/OS3.0.4.0.VMRCNXM/">Download</a></td></tr>
 <tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.VMRTWXM</td><td>15.0</td><td>5.6 GB</td><td>2026-04-16</td><td><a href="/hyperos/marble/stable/OS3.0.1.0.VMRTWXM/">Download</a></td></tr>
 <tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.VMRTWXM</td><td>15.0</td><td>7.0 GB</td><td>2026-03-19</td><td><a href="/hyperos/marble/stable/OS3.0.1.0.VMRTWXM/">Download</a></td></tr>

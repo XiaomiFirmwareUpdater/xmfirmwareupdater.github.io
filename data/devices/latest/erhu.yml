@@ -1,0 +1,20 @@
+- branch: stable
+  date: '2026-05-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_erhu/releases/download/stable-24.05.2026/fw_erhu_erhu_global-ota_full-OS3.0.303.0.WDOMIXM-user-16.0-937e4edbe5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/erhu/fw_erhu_erhu_global-ota_full-OS3.0.303.0.WDOMIXM-user-16.0-937e4edbe5.zip
+  filename: fw_erhu_erhu_global-ota_full-OS3.0.303.0.WDOMIXM-user-16.0-937e4edbe5.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.303.0.WDOMIXM
+- branch: stable
+  date: '2026-05-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_erhu/releases/download/stable-23.05.2026/fw_erhu_erhu-ota_full-OS3.0.301.0.WDOCNXM-user-16.0-4c52336c05.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/erhu/fw_erhu_erhu-ota_full-OS3.0.301.0.WDOCNXM-user-16.0-4c52336c05.zip
+  filename: fw_erhu_erhu-ota_full-OS3.0.301.0.WDOCNXM-user-16.0-4c52336c05.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.301.0.WDOCNXM

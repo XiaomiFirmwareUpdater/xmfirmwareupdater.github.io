@@ -1,0 +1,20 @@
+- branch: stable
+  date: '2026-05-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_byron/releases/download/stable-28.05.2026/fw_byron_byron-ota_full-OS3.0.304.0.WAFCNXM-user-16.0-b3a2165acf.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/byron/fw_byron_byron-ota_full-OS3.0.304.0.WAFCNXM-user-16.0-b3a2165acf.zip
+  filename: fw_byron_byron-ota_full-OS3.0.304.0.WAFCNXM-user-16.0-b3a2165acf.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.304.0.WAFCNXM
+- branch: stable
+  date: '2026-05-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_byron/releases/download/stable-23.05.2026/fw_byron_byron-ota_full-OS3.0.301.0.WAFCNXM-user-16.0-3b8f263428.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/byron/fw_byron_byron-ota_full-OS3.0.301.0.WAFCNXM-user-16.0-3b8f263428.zip
+  filename: fw_byron_byron-ota_full-OS3.0.301.0.WAFCNXM-user-16.0-3b8f263428.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.301.0.WAFCNXM

@@ -1,7 +1,7 @@
 ---
-title: Redmi 15 5G / POCO M7 Plus 5G Global Firmware OS3.0.3.0.WOUMIXM Update
+title: Redmi 15 5G / M7 Plus / M8s 5G Global Firmware OS3.0.3.0.WOUMIXM Update
 layout: download
-name: Redmi 15 5G / POCO M7 Plus 5G Global
+name: Redmi 15 5G / M7 Plus / M8s 5G Global
 codename: spring
 permalink: /firmware/spring/stable/OS3.0.3.0.WOUMIXM/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/spring/stable/OS3.0.3.0.WOUMIXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item"><a href="/firmware/spring/">Redmi 15 5G / POCO M7 Plus 5G Global</a></li>
+        <li class="breadcrumb-item"><a href="/firmware/spring/">Redmi 15 5G / M7 Plus / M8s 5G Global</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS3.0.3.0.WOUMIXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /firmware/spring/stable/OS3.0.3.0.WOUMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">Firmware OS3.0.3.0.WOUMIXM Stable Release for Redmi 15 5G / POCO M7 Plus 5G Global (spring)</h3>
+    <h3 class="title bg-light p-2 rounded">Firmware OS3.0.3.0.WOUMIXM Stable Release for Redmi 15 5G / M7 Plus / M8s 5G Global (spring)</h3>
     <h5>This page shows the OS3.0.3.0.WOUMIXM update only. If you're looking for other updates check
         <a href="/firmware/spring/">here.</a></h5>
     <div class="card">
@@ -42,7 +42,7 @@ permalink: /firmware/spring/stable/OS3.0.3.0.WOUMIXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi 15 5G / POCO M7 Plus 5G Global</h5>
+                    <h5><b>Device: </b>Redmi 15 5G / M7 Plus / M8s 5G Global</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/firmware/spring/" target="_blank">spring</a> </h5>

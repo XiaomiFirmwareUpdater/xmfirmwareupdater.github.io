@@ -9,7 +9,7 @@ angelican: Redmi 9C NFC
 annibale: Redmi K90/POCO F8 Pro
 apollo: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
 aqua: MI 4S
-arctic: Redmi A7 Pro/POCO C81 Pro
+arctic: Redmi A7 Pro/POCO C81/C81 Pro
 ares: Redmi K40 Gaming/POCO F3 GT
 aristotle: Xiaomi 13T
 atom: Redmi 10X 5G
@@ -23,6 +23,7 @@ biloba: Redmi Note 8 (2021)
 bixi: MIX Flip 2
 bomb: Redmi 10X Pro
 breeze: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
+byron: Xiaomi 17 Max
 cactus: Redmi 6A
 camellia: Redmi Note 10 5G/Redmi Note 11SE/Redmi Note 10T 5G/POCO M3 Pro 5G
 camellian: Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro
@@ -71,6 +72,7 @@ emerald: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
 emeraldr: POCO M6 Pro
 enuma: Xiaomi Pad 5 Pro 5G
 equuleus: Mi 8 Pro
+erhu: Redmi Pad 2 SE 4G
 evergo: Redmi Note 11 5G/Redmi Note 11T 5G
 evergreen: POCO M4 Pro 5G
 excalibur: Redmi Note 9 Pro Max
@@ -113,7 +115,7 @@ klee: Redmi Turbo 5/POCO X8 Pro
 klein: Redmi A3x
 klimt: Xiaomi 15T Pro
 koto: Redmi Pad 2 4G
-kunzite: Redmi Note 15 5G/POCO M8 5G
+kunzite: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
 lake: Redmi 14C/POCO C75/Redmi A3 Pro
 lancelot: Redmi 9/Redmi 9 Prime
 land: Redmi 3S
@@ -210,7 +212,7 @@ scorpio: Mi Note 2
 sea: Redmi Note 12S
 selene: Redmi 10/Redmi 10 2022/Redmi 10 Prime
 selenes: Redmi Note 11 4G/Redmi 10 2022
-serenity: Redmi A5/POCO C71
+serenity: Redmi A5/A7/POCO C71/C81x
 sheng: Xiaomi Pad 6S Pro 12.4
 shennong: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
 shennongt: Xiaomi 14 Pro Ti Satellite
@@ -218,12 +220,12 @@ shiva: POCO M2
 sirius: Mi 8 SE
 sky: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
 socrates: Redmi K60 Pro
-somalia: Redmi 17 5G/Redmi R70m/Redmi A7 Pro 5G/Redmi 15A 5G/POCO C85x 5G
+somalia: Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G
 spark: Redmi Pad SE 8.7 4G
 spes: Redmi Note 11
 spesn: Redmi Note 11 NFC
 spinel: Redmi Note 15 4G
-spring: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+spring: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
 star: Mi 11 Pro/Ultra/Mi 11 Ultra
 sunstone: Redmi Note 12 5G/Note 12R Pro
 surya: POCO X3 NFC
@@ -273,7 +275,7 @@ ysl: Redmi S2/Y2
 yudi: Xiaomi Pad 6 Max 14
 yuechu: Xiaomi Civi 3
 yunluo: Redmi Pad
-yupei: Xiaomi Pad 8
+yupei: Xiaomi Pad 8/Xiaomi Pad 9
 zeus: Xiaomi 12 Pro
 zijin: Xiaomi Civi 1S
 zircon: Redmi Note 13 Pro+ 5G

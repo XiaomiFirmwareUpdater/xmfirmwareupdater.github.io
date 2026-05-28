@@ -974,37 +974,43 @@
   codename: arctic
   date: '2026-04-24'
   download: https://bigota.d.miui.com/OS3.0.6.0.WBVEUXM/fw_arctic_arctic_eea_global-ota_full-OS3.0.6.0.WBVEUXM-user-16.0-c8160c5f95.zip
-  name: Redmi A7 Pro/POCO C81 Pro
+  name: Redmi A7 Pro/POCO C81/C81 Pro
   version: OS3.0.6.0.WBVEUXM
 - android: '16.0'
   codename: arctic
   date: '2026-04-24'
   download: https://bigota.d.miui.com/OS3.0.2.0.WBVINXM/fw_arctic_arctic_in_global-ota_full-OS3.0.2.0.WBVINXM-user-16.0-1fe92770f9.zip
-  name: Redmi A7 Pro/POCO C81 Pro
+  name: Redmi A7 Pro/POCO C81/C81 Pro
   version: OS3.0.2.0.WBVINXM
 - android: '16.0'
   codename: arctic
   date: '2026-04-23'
   download: https://bigota.d.miui.com/OS3.0.5.0.WBVEUXM/fw_arctic_arctic_eea_global-ota_full-OS3.0.5.0.WBVEUXM-user-16.0-506f1d713d.zip
-  name: Redmi A7 Pro/POCO C81 Pro
+  name: Redmi A7 Pro/POCO C81/C81 Pro
   version: OS3.0.5.0.WBVEUXM
+- android: '16.0'
+  codename: arctic
+  date: '2026-05-20'
+  download: https://bigota.d.miui.com/OS3.0.7.0.WBVEUXM/fw_arctic_arctic_eea_global-ota_full-OS3.0.7.0.WBVEUXM-user-16.0-e96afde1fd.zip
+  name: Redmi A7 Pro/POCO C81/C81 Pro
+  version: OS3.0.7.0.WBVEUXM
 - android: '16.0'
   codename: arctic
   date: '2026-05-09'
   download: https://bigota.d.miui.com/OS3.0.7.0.WBVMIXM/fw_arctic_arctic_global-ota_full-OS3.0.7.0.WBVMIXM-user-16.0-db1d34b4a8.zip
-  name: Redmi A7 Pro/POCO C81 Pro
+  name: Redmi A7 Pro/POCO C81/C81 Pro
   version: OS3.0.7.0.WBVMIXM
 - android: '16.0'
   codename: arctic
   date: '2026-04-03'
   download: https://bigota.d.miui.com/OS3.0.6.0.WBVMIXM/fw_arctic_arctic_global-ota_full-OS3.0.6.0.WBVMIXM-user-16.0-a33067d533.zip
-  name: Redmi A7 Pro/POCO C81 Pro
+  name: Redmi A7 Pro/POCO C81/C81 Pro
   version: OS3.0.6.0.WBVMIXM
 - android: '16.0'
   codename: arctic
   date: '2026-04-01'
   download: https://bigota.d.miui.com/OS3.0.5.0.WBVMIXM/fw_arctic_arctic_global-ota_full-OS3.0.5.0.WBVMIXM-user-16.0-07a935ce66.zip
-  name: Redmi A7 Pro/POCO C81 Pro
+  name: Redmi A7 Pro/POCO C81/C81 Pro
   version: OS3.0.5.0.WBVMIXM
 - android: '13.0'
   codename: ares
@@ -1852,6 +1858,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VMVCNXM/fw_babylon_babylon-ota_full-OS2.0.202.0.VMVCNXM-user-15.0-e482d15b20.zip
   name: MIX Fold 3
   version: OS2.0.202.0.VMVCNXM
+- android: '16.0'
+  codename: babylon
+  date: '2026-05-25'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WMVCNXM/fw_babylon_babylon-ota_full-OS3.0.303.0.WMVCNXM-user-16.0-5ac18a7dd8.zip
+  name: MIX Fold 3
+  version: OS3.0.303.0.WMVCNXM
 - android: '15.0'
   codename: babylon
   date: '2025-09-24'
@@ -2615,11 +2627,29 @@
   name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
   version: OS1.0.7.0.UNUCNXM
 - android: '16.0'
+  codename: byron
+  date: '2026-05-28'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WAFCNXM/fw_byron_byron-ota_full-OS3.0.304.0.WAFCNXM-user-16.0-b3a2165acf.zip
+  name: Xiaomi 17 Max
+  version: OS3.0.304.0.WAFCNXM
+- android: '16.0'
+  codename: byron
+  date: '2026-05-23'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WAFCNXM/fw_byron_byron-ota_full-OS3.0.301.0.WAFCNXM-user-16.0-3b8f263428.zip
+  name: Xiaomi 17 Max
+  version: OS3.0.301.0.WAFCNXM
+- android: '16.0'
   codename: charoite
   date: '2026-03-31'
   download: https://bigota.d.miui.com/OS3.0.2.0.WPFMIXM/fw_charoite_charoite_global-ota_full-OS3.0.2.0.WPFMIXM-user-16.0-b13564bb20.zip
   name: Redmi Note 15 Pro 4G
   version: OS3.0.2.0.WPFMIXM
+- android: '16.0'
+  codename: charoite
+  date: '2026-05-26'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WPFMIXM/fw_charoite_charoite_global-ota_full-OS3.0.302.0.WPFMIXM-user-16.0-35b9c20e40.zip
+  name: Redmi Note 15 Pro 4G
+  version: OS3.0.302.0.WPFMIXM
 - android: '15.0'
   codename: charoite
   date: '2026-02-24'
@@ -4722,6 +4752,12 @@
   version: OS2.0.216.0.VBNMIXM
 - android: '15.0'
   codename: dew
+  date: '2026-05-25'
+  download: https://bigota.d.miui.com/OS2.0.221.0.VBNMIXM/fw_dew_dew_global-ota_full-OS2.0.221.0.VBNMIXM-user-15.0-97d264985c.zip
+  name: Redmi 15C/POCO C85
+  version: OS2.0.221.0.VBNMIXM
+- android: '15.0'
+  codename: dew
   date: '2025-09-24'
   download: https://bigota.d.miui.com/OS2.0.212.0.VBNMIXM/fw_dew_global_dew_global-ota_full-OS2.0.212.0.VBNMIXM-user-15.0-0daeef7228.zip
   name: Redmi 15C/POCO C85
@@ -4890,6 +4926,12 @@
   version: OS1.0.10.0.ULFEUXM
 - android: '15.0'
   codename: diting
+  date: '2026-05-28'
+  download: https://bigota.d.miui.com/OS3.0.4.0.VLFMIXM/fw_diting_diting_global-ota_full-OS3.0.4.0.VLFMIXM-user-15.0-66cacb72ce.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS3.0.4.0.VLFMIXM
+- android: '15.0'
+  codename: diting
   date: '2025-05-28'
   download: https://bigota.d.miui.com/OS2.0.2.0.VLFMIXM/fw_diting_global_diting_global-ota_full-OS2.0.2.0.VLFMIXM-user-15.0-08578e80da.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
@@ -4990,6 +5032,12 @@
   download: https://bigota.d.miui.com/OS2.0.4.0.VLFMIXM/fw_diting_global_diting_global-ota_full-OS2.0.4.0.VLFMIXM-user-15.0-b39052204f.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: OS2.0.4.0.VLFMIXM
+- android: '15.0'
+  codename: diting
+  date: '2026-05-21'
+  download: https://bigota.d.miui.com/OS3.0.3.0.VLFEUXM/fw_diting_diting_eea_global-ota_full-OS3.0.3.0.VLFEUXM-user-15.0-a624c11d4f.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS3.0.3.0.VLFEUXM
 - android: '14.0'
   codename: diting
   date: '2024-01-21'
@@ -6604,6 +6652,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UNFMIXM/fw_emerald_miui_EMERALDGlobal_OS1.0.6.0.UNFMIXM_0f0c0947bc_14.0.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.6.0.UNFMIXM
+- android: '16.0'
+  codename: emerald
+  date: '2026-05-25'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WFOEUXM/fw_emerald_emerald_r_eea_global-ota_full-OS3.0.301.0.WFOEUXM-user-16.0-25073f4145.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
+  version: OS3.0.301.0.WFOEUXM
 - android: '14.0'
   codename: emeraldr
   date: '2025-04-25'
@@ -6658,6 +6712,12 @@
   download: https://bigota.d.miui.com/OS2.0.7.0.VNFMIXM/fw_emerald_global_emerald_global-ota_full-OS2.0.7.0.VNFMIXM-user-15.0-f407db24ed.zip
   name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS2.0.7.0.VNFMIXM
+- android: '16.0'
+  codename: emerald
+  date: '2026-05-22'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WNFEUXM/fw_emerald_emerald_eea_global-ota_full-OS3.0.301.0.WNFEUXM-user-16.0-0dd9713f55.zip
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
+  version: OS3.0.301.0.WNFEUXM
 - android: '16.0'
   codename: emerald
   date: '2026-02-22'
@@ -6898,6 +6958,24 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.TKZCNXM/fw_enuma_miui_ENUMA_OS1.0.1.0.TKZCNXM_4488f26875_13.0.zip
   name: Xiaomi Pad 5 Pro 5G
   version: OS1.0.1.0.TKZCNXM
+- android: '16.0'
+  codename: erhu
+  date: '2026-05-23'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WDOMIXM/fw_erhu_erhu_global-ota_full-OS3.0.302.0.WDOMIXM-user-16.0-5ea202f81d.zip
+  name: Redmi Pad 2 SE 4G
+  version: OS3.0.302.0.WDOMIXM
+- android: '16.0'
+  codename: erhu
+  date: '2026-05-24'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WDOMIXM/fw_erhu_erhu_global-ota_full-OS3.0.303.0.WDOMIXM-user-16.0-937e4edbe5.zip
+  name: Redmi Pad 2 SE 4G
+  version: OS3.0.303.0.WDOMIXM
+- android: '16.0'
+  codename: erhu
+  date: '2026-05-23'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WDOCNXM/fw_erhu_erhu-ota_full-OS3.0.301.0.WDOCNXM-user-16.0-4c52336c05.zip
+  name: Redmi Pad 2 SE 4G
+  version: OS3.0.301.0.WDOCNXM
 - android: '13.0'
   codename: evergo
   date: '2024-02-29'
@@ -6988,6 +7066,12 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VMXEUXM/fw_fire_eea_global_fire_eea_global-ota_full-OS2.0.203.0.VMXEUXM-user-15.0-cd73a4b522.zip
   name: Redmi 12
   version: OS2.0.203.0.VMXEUXM
+- android: '15.0'
+  codename: fire
+  date: '2026-05-25'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VMXEUXM/fw_fire_fire_eea_global-ota_full-OS2.0.209.0.VMXEUXM-user-15.0-6d7c08ebd7.zip
+  name: Redmi 12
+  version: OS2.0.209.0.VMXEUXM
 - android: '15.0'
   codename: fire
   date: '2026-02-25'
@@ -7348,6 +7432,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UHXMIXM/fw_flare_miui_FLAREGlobal_OS1.0.5.0.UHXMIXM_28120a5745_14.0.zip
   name: Redmi Pad SE 8.7 5G
   version: OS1.0.5.0.UHXMIXM
+- android: '16.0'
+  codename: flare
+  date: '2026-05-28'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WHXMIXM/fw_flare_flare_global-ota_full-OS3.0.301.0.WHXMIXM-user-16.0-0ba2422b69.zip
+  name: Redmi Pad SE 8.7 5G
+  version: OS3.0.301.0.WHXMIXM
 - android: '15.0'
   codename: flare
   date: '2025-11-27'
@@ -7378,6 +7468,12 @@
   download: https://bigota.d.miui.com/OS3.0.1.0.WHXIDXM/fw_flare_flare_id_global-ota_full-OS3.0.1.0.WHXIDXM-user-16.0-402a0a953a.zip
   name: Redmi Pad SE 8.7 5G
   version: OS3.0.1.0.WHXIDXM
+- android: '16.0'
+  codename: flare
+  date: '2026-05-22'
+  download: https://bigota.d.miui.com/OS3.0.3.0.WHXEUXM/fw_flare_flare_eea_global-ota_full-OS3.0.3.0.WHXEUXM-user-16.0-2006ff8572.zip
+  name: Redmi Pad SE 8.7 5G
+  version: OS3.0.3.0.WHXEUXM
 - android: '15.0'
   codename: flare
   date: '2025-04-21'
@@ -7954,6 +8050,12 @@
   download: https://bigota.d.miui.com/OS2.0.207.0.VMCCNXM/fw_fuxi_fuxi-ota_full-OS2.0.207.0.VMCCNXM-user-15.0-39e99c5d6d.zip
   name: Xiaomi 13
   version: OS2.0.207.0.VMCCNXM
+- android: '16.0'
+  codename: fuxi
+  date: '2026-05-28'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WMCEUXM/fw_fuxi_fuxi_eea_global-ota_full-OS3.0.301.0.WMCEUXM-user-16.0-10a96296dd.zip
+  name: Xiaomi 13
+  version: OS3.0.301.0.WMCEUXM
 - android: '14.0'
   codename: fuxi
   date: '2024-03-28'
@@ -8788,6 +8890,12 @@
   download: https://bigota.d.miui.com/OS1.0.14.0.UNRMIXM/fw_garnet_miui_GARNETGlobal_OS1.0.14.0.UNRMIXM_399c6b2c5d_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS1.0.14.0.UNRMIXM
+- android: '16.0'
+  codename: garnet
+  date: '2026-05-22'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WNRMIXM/fw_garnet_garnet_global-ota_full-OS3.0.301.0.WNRMIXM-user-16.0-ce00313dcc.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS3.0.301.0.WNRMIXM
 - android: '15.0'
   codename: garnet
   date: '2025-01-22'
@@ -8800,6 +8908,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UNRMIXM/fw_garnet_miui_GARNETGlobal_OS1.0.9.0.UNRMIXM_080d2b9243_14.0.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS1.0.9.0.UNRMIXM
+- android: '16.0'
+  codename: garnet
+  date: '2026-05-21'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WNREUXM/fw_garnet_garnet_eea_global-ota_full-OS3.0.301.0.WNREUXM-user-16.0-edfbea9508.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS3.0.301.0.WNREUXM
 - android: '15.0'
   codename: garnet
   date: '2025-02-20'
@@ -9904,6 +10018,30 @@
   download: https://bigota.d.miui.com/OS3.0.301.0.WDNCNXM/fw_guitar_guitar-ota_full-OS3.0.301.0.WDNCNXM-user-16.0-6a50a354e4.zip
   name: Redmi Pad 2 SE/Pad 2 9.7/POCO Pad C1
   version: OS3.0.301.0.WDNCNXM
+- android: '16.0'
+  codename: guitar
+  date: '2026-05-25'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WDNCNXM/fw_guitar_guitar-ota_full-OS3.0.302.0.WDNCNXM-user-16.0-d20c040027.zip
+  name: Redmi Pad 2 SE/Pad 2 9.7/POCO Pad C1
+  version: OS3.0.302.0.WDNCNXM
+- android: '16.0'
+  codename: guitar
+  date: '2026-05-24'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WDNMIXM/fw_guitar_guitar_global-ota_full-OS3.0.304.0.WDNMIXM-user-16.0-aa748d3d9c.zip
+  name: Redmi Pad 2 SE/Pad 2 9.7/POCO Pad C1
+  version: OS3.0.304.0.WDNMIXM
+- android: '16.0'
+  codename: guitar
+  date: '2026-05-23'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WDNEUXM/fw_guitar_guitar_eea_global-ota_full-OS3.0.302.0.WDNEUXM-user-16.0-5830872b81.zip
+  name: Redmi Pad 2 SE/Pad 2 9.7/POCO Pad C1
+  version: OS3.0.302.0.WDNEUXM
+- android: '16.0'
+  codename: guitar
+  date: '2026-05-23'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WDNMIXM/fw_guitar_guitar_global-ota_full-OS3.0.303.0.WDNMIXM-user-16.0-b3bd133291.zip
+  name: Redmi Pad 2 SE/Pad 2 9.7/POCO Pad C1
+  version: OS3.0.303.0.WDNMIXM
 - android: '15.0'
   codename: haotian
   date: '2024-12-30'
@@ -10534,6 +10672,12 @@
   download: https://bigota.d.miui.com/OS1.0.15.0.UNCMIXM/fw_houji_miui_HOUJIGlobal_OS1.0.15.0.UNCMIXM_17e1f93655_14.0.zip
   name: Xiaomi 14
   version: OS1.0.15.0.UNCMIXM
+- android: '16.0'
+  codename: houji
+  date: '2026-05-21'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WNCEUXM/fw_houji_houji_eea_global-ota_full-OS3.0.301.0.WNCEUXM-user-16.0-8311873db0.zip
+  name: Xiaomi 14
+  version: OS3.0.301.0.WNCEUXM
 - android: '16.0'
   codename: houji
   date: '2026-04-20'
@@ -11248,6 +11392,12 @@
   download: https://bigota.d.miui.com/OS2.0.102.0.VMACNXM/fw_ishtar_ishtar-ota_full-OS2.0.102.0.VMACNXM-user-15.0-415a486721.zip
   name: Xiaomi 13 Ultra
   version: OS2.0.102.0.VMACNXM
+- android: '16.0'
+  codename: ishtar
+  date: '2026-05-21'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WMAEUXM/fw_ishtar_ishtar_eea_global-ota_full-OS3.0.301.0.WMAEUXM-user-16.0-7290d8ebdc.zip
+  name: Xiaomi 13 Ultra
+  version: OS3.0.301.0.WMAEUXM
 - android: '15.0'
   codename: ishtar
   date: '2025-04-21'
@@ -11544,6 +11694,12 @@
   version: OS3.0.20.0.WPJCNXM
 - android: '16.0'
   codename: klee
+  date: '2026-05-23'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WPJCNXM/fw_klee_klee-ota_full-OS3.0.303.0.WPJCNXM-user-16.0-58f0f6b217.zip
+  name: Redmi Turbo 5/POCO X8 Pro
+  version: OS3.0.303.0.WPJCNXM
+- android: '16.0'
+  codename: klee
   date: '2026-04-24'
   download: https://bigota.d.miui.com/OS3.0.5.0.WPJEUXM/fw_klee_klee_eea_global-ota_full-OS3.0.5.0.WPJEUXM-user-16.0-40275e54d2.zip
   name: Redmi Turbo 5/POCO X8 Pro
@@ -11734,6 +11890,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VOWMIXM/fw_koto_global_koto_global-ota_full-OS2.0.202.0.VOWMIXM-user-15.0-f0ee0bb8f3.zip
   name: Redmi Pad 2 4G
   version: OS2.0.202.0.VOWMIXM
+- android: '16.0'
+  codename: koto
+  date: '2026-05-25'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WOWEUXM/fw_koto_koto_eea_global-ota_full-OS3.0.301.0.WOWEUXM-user-16.0-9632b0d1ea.zip
+  name: Redmi Pad 2 4G
+  version: OS3.0.301.0.WOWEUXM
 - android: '15.0'
   codename: koto
   date: '2026-02-24'
@@ -11852,127 +12014,133 @@
   codename: kunzite
   date: '2025-10-31'
   download: https://bigota.d.miui.com/OS2.0.206.0.VPQCNXM/fw_kunzite_kunzite-ota_full-OS2.0.206.0.VPQCNXM-user-15.0-0fc6cc4f4c.zip
-  name: Redmi Note 15 5G/POCO M8 5G
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS2.0.206.0.VPQCNXM
 - android: '16.0'
   codename: kunzite
   date: '2026-03-31'
   download: https://bigota.d.miui.com/OS3.0.1.0.WPQMIXM/fw_kunzite_kunzite_global-ota_full-OS3.0.1.0.WPQMIXM-user-16.0-cf9d702eee.zip
-  name: Redmi Note 15 5G/POCO M8 5G
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS3.0.1.0.WPQMIXM
 - android: '16.0'
   codename: kunzite
   date: '2026-04-30'
   download: https://bigota.d.miui.com/OS3.0.2.0.WPQMIXM/fw_kunzite_kunzite_global-ota_full-OS3.0.2.0.WPQMIXM-user-16.0-26b5103394.zip
-  name: Redmi Note 15 5G/POCO M8 5G
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS3.0.2.0.WPQMIXM
 - android: '16.0'
   codename: kunzite
   date: '2026-04-30'
   download: https://bigota.d.miui.com/OS3.0.2.0.WPQINXM/fw_kunzite_kunzite_in_global-ota_full-OS3.0.2.0.WPQINXM-user-16.0-204c717d49.zip
-  name: Redmi Note 15 5G/POCO M8 5G
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS3.0.2.0.WPQINXM
 - android: '15.0'
   codename: kunzite
   date: '2025-11-28'
   download: https://bigota.d.miui.com/OS2.0.207.0.VPQCNXM/fw_kunzite_kunzite-ota_full-OS2.0.207.0.VPQCNXM-user-15.0-6934a6d67d.zip
-  name: Redmi Note 15 5G/POCO M8 5G
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS2.0.207.0.VPQCNXM
 - android: '16.0'
   codename: kunzite
   date: '2026-02-28'
   download: https://bigota.d.miui.com/OS3.0.4.0.WPQCNXM/fw_kunzite_kunzite-ota_full-OS3.0.4.0.WPQCNXM-user-16.0-fbcc32b781.zip
-  name: Redmi Note 15 5G/POCO M8 5G
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS3.0.4.0.WPQCNXM
 - android: '15.0'
   codename: kunzite
   date: '2026-01-27'
   download: https://bigota.d.miui.com/OS2.0.205.0.VPQINXM/fw_kunzite_kunzite_in_global-ota_full-OS2.0.205.0.VPQINXM-user-15.0-9f788753f1.zip
-  name: Redmi Note 15 5G/POCO M8 5G
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS2.0.205.0.VPQINXM
 - android: '15.0'
   codename: kunzite
   date: '2025-09-26'
   download: https://bigota.d.miui.com/OS2.0.204.0.VPQCNXM/fw_kunzite_kunzite-ota_full-OS2.0.204.0.VPQCNXM-user-15.0-39520b594a.zip
-  name: Redmi Note 15 5G/POCO M8 5G
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS2.0.204.0.VPQCNXM
+- android: '16.0'
+  codename: kunzite
+  date: '2026-05-25'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WPQEUXM/fw_kunzite_kunzite_eea_global-ota_full-OS3.0.301.0.WPQEUXM-user-16.0-eca48d3566.zip
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
+  version: OS3.0.301.0.WPQEUXM
 - android: '16.0'
   codename: kunzite
   date: '2026-03-23'
   download: https://bigota.d.miui.com/OS3.0.1.0.WPQEUXM/fw_kunzite_kunzite_eea_global-ota_full-OS3.0.1.0.WPQEUXM-user-16.0-b886bf2f87.zip
-  name: Redmi Note 15 5G/POCO M8 5G
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS3.0.1.0.WPQEUXM
 - android: '15.0'
   codename: kunzite
   date: '2025-08-21'
   download: https://bigota.d.miui.com/OS2.0.203.0.VPQCNXM/fw_kunzite_kunzite-ota_full-OS2.0.203.0.VPQCNXM-user-15.0-0f386094dc.zip
-  name: Redmi Note 15 5G/POCO M8 5G
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS2.0.203.0.VPQCNXM
 - android: '16.0'
   codename: kunzite
   date: '2026-05-18'
   download: https://bigota.d.miui.com/OS3.0.301.0.WPQINXM/fw_kunzite_kunzite_in_global-ota_full-OS3.0.301.0.WPQINXM-user-16.0-0b37fb0c03.zip
-  name: Redmi Note 15 5G/POCO M8 5G
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS3.0.301.0.WPQINXM
 - android: '16.0'
   codename: kunzite
   date: '2026-04-17'
   download: https://bigota.d.miui.com/OS3.0.302.0.WPQCNXM/fw_kunzite_kunzite-ota_full-OS3.0.302.0.WPQCNXM-user-16.0-6e52e8a1e8.zip
-  name: Redmi Note 15 5G/POCO M8 5G
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS3.0.302.0.WPQCNXM
 - android: '16.0'
   codename: kunzite
   date: '2026-01-09'
   download: https://bigota.d.miui.com/OS3.0.2.0.WPQCNXM/fw_kunzite_kunzite-ota_full-OS3.0.2.0.WPQCNXM-user-16.0-6e19a28265.zip
-  name: Redmi Note 15 5G/POCO M8 5G
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS3.0.2.0.WPQCNXM
 - android: '15.0'
   codename: kunzite
   date: '2026-01-08'
   download: https://bigota.d.miui.com/OS2.0.204.0.VPQEUXM/fw_kunzite_kunzite_eea_global-ota_full-OS2.0.204.0.VPQEUXM-user-15.0-3e3b24be1d.zip
-  name: Redmi Note 15 5G/POCO M8 5G
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS2.0.204.0.VPQEUXM
 - android: '15.0'
   codename: kunzite
   date: '2026-01-08'
   download: https://bigota.d.miui.com/OS2.0.205.0.VPQMIXM/fw_kunzite_kunzite_global-ota_full-OS2.0.205.0.VPQMIXM-user-15.0-1c77caf64d.zip
-  name: Redmi Note 15 5G/POCO M8 5G
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS2.0.205.0.VPQMIXM
 - android: '16.0'
   codename: kunzite
   date: '2026-05-06'
   download: https://bigota.d.miui.com/OS3.0.301.0.WPQMIXM/fw_kunzite_kunzite_global-ota_full-OS3.0.301.0.WPQMIXM-user-16.0-0ed4f301eb.zip
-  name: Redmi Note 15 5G/POCO M8 5G
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS3.0.301.0.WPQMIXM
 - android: '15.0'
   codename: kunzite
   date: '2026-01-06'
   download: https://bigota.d.miui.com/OS2.0.202.0.VPQINXM/fw_kunzite_kunzite_in_global-ota_full-OS2.0.202.0.VPQINXM-user-15.0-759b4a4ee6.zip
-  name: Redmi Note 15 5G/POCO M8 5G
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS2.0.202.0.VPQINXM
 - android: '16.0'
   codename: kunzite
   date: '2026-04-04'
   download: https://bigota.d.miui.com/OS3.0.1.0.WPQINXM/fw_kunzite_kunzite_in_global-ota_full-OS3.0.1.0.WPQINXM-user-16.0-22d625c2f4.zip
-  name: Redmi Note 15 5G/POCO M8 5G
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS3.0.1.0.WPQINXM
 - android: '15.0'
   codename: kunzite
   date: '2026-03-02'
   download: https://bigota.d.miui.com/OS2.0.205.0.VPQEUXM/fw_kunzite_kunzite_eea_global-ota_full-OS2.0.205.0.VPQEUXM-user-15.0-1206b3996c.zip
-  name: Redmi Note 15 5G/POCO M8 5G
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS2.0.205.0.VPQEUXM
 - android: '15.0'
   codename: kunzite
   date: '2026-03-02'
   download: https://bigota.d.miui.com/OS2.0.206.0.VPQMIXM/fw_kunzite_kunzite_global-ota_full-OS2.0.206.0.VPQMIXM-user-15.0-909969fd59.zip
-  name: Redmi Note 15 5G/POCO M8 5G
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS2.0.206.0.VPQMIXM
 - android: '15.0'
   codename: kunzite
   date: '2026-02-28'
   download: https://bigota.d.miui.com/OS2.0.206.0.VPQINXM/fw_kunzite_kunzite_in_global-ota_full-OS2.0.206.0.VPQINXM-user-15.0-9a3325fac4.zip
-  name: Redmi Note 15 5G/POCO M8 5G
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS2.0.206.0.VPQINXM
 - android: '14.0'
   codename: lake
@@ -12162,6 +12330,18 @@
   version: OS1.0.13.0.UGTMIXM
 - android: '16.0'
   codename: lapis
+  date: '2026-05-28'
+  download: https://bigota.d.miui.com/OS3.0.306.0.WPPCNXM/fw_lapis_lapis-ota_full-OS3.0.306.0.WPPCNXM-user-16.0-5b9943a359.zip
+  name: Redmi Note 15 Pro 5G
+  version: OS3.0.306.0.WPPCNXM
+- android: '16.0'
+  codename: lapis
+  date: '2026-05-28'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WPPMIXM/fw_lapis_lapis_global-ota_full-OS3.0.305.0.WPPMIXM-user-16.0-47b581fa19.zip
+  name: Redmi Note 15 Pro 5G
+  version: OS3.0.305.0.WPPMIXM
+- android: '16.0'
+  codename: lapis
   date: '2026-03-25'
   download: https://bigota.d.miui.com/OS3.0.2.0.WPPMIXM/fw_lapis_lapis_global-ota_full-OS3.0.2.0.WPPMIXM-user-16.0-4c65c8f47f.zip
   name: Redmi Note 15 Pro 5G
@@ -12172,6 +12352,12 @@
   download: https://bigota.d.miui.com/OS2.0.207.0.VPPCNXM/fw_lapis_lapis-ota_full-OS2.0.207.0.VPPCNXM-user-15.0-e339e326bc.zip
   name: Redmi Note 15 Pro 5G
   version: OS2.0.207.0.VPPCNXM
+- android: '16.0'
+  codename: lapis
+  date: '2026-05-23'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WPPINXM/fw_lapis_lapis_in_global-ota_full-OS3.0.301.0.WPPINXM-user-16.0-b1396c960b.zip
+  name: Redmi Note 15 Pro 5G
+  version: OS3.0.301.0.WPPINXM
 - android: '15.0'
   codename: lapis
   date: '2026-02-23'
@@ -13120,6 +13306,12 @@
   download: https://bigota.d.miui.com/OS2.0.206.0.VOOCNXM/fw_malachite_malachite-ota_full-OS2.0.206.0.VOOCNXM-user-15.0-432c3eddcf.zip
   name: Redmi Note 14 Pro 5G/POCO X7
   version: OS2.0.206.0.VOOCNXM
+- android: '16.0'
+  codename: malachite
+  date: '2026-05-25'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WOOMIXM/fw_malachite_malachite_global-ota_full-OS3.0.302.0.WOOMIXM-user-16.0-4409a3748f.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS3.0.302.0.WOOMIXM
 - android: '15.0'
   codename: malachite
   date: '2025-04-25'
@@ -13744,6 +13936,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UMREUXM/fw_marble_miui_MARBLEEEAGlobal_OS1.0.4.0.UMREUXM_733c4626e6_14.0.zip
   name: Redmi Note 12 Turbo/POCO F5
   version: OS1.0.4.0.UMREUXM
+- android: '15.0'
+  codename: marble
+  date: '2026-05-22'
+  download: https://bigota.d.miui.com/OS3.0.5.0.VMRCNXM/fw_marble_marble-ota_full-OS3.0.5.0.VMRCNXM-user-15.0-727afd7728.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS3.0.5.0.VMRCNXM
 - android: '15.0'
   codename: marble
   date: '2025-12-20'
@@ -14920,6 +15118,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UNTMIXM/fw_moon_miui_MOONGlobal_OS1.0.6.0.UNTMIXM_db029c4fc2_14.0.zip
   name: Redmi 13/POCO M6
   version: OS1.0.6.0.UNTMIXM
+- android: '16.0'
+  codename: moon
+  date: '2026-05-26'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WNTEUXM/fw_moon_moon_eea_global-ota_full-OS3.0.301.0.WNTEUXM-user-16.0-77ab63bd64.zip
+  name: Redmi 13/POCO M6
+  version: OS3.0.301.0.WNTEUXM
 - android: '14.0'
   codename: moon
   date: '2025-04-25'
@@ -15766,6 +15970,12 @@
   download: https://bigota.d.miui.com/OS2.0.107.0.VOYCNXM/fw_muyu_muyu-ota_full-OS2.0.107.0.VOYCNXM-user-15.0-95a1f67bff.zip
   name: Xiaomi Pad 7 Pro
   version: OS2.0.107.0.VOYCNXM
+- android: '16.0'
+  codename: muyu
+  date: '2026-05-25'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WOYEUXM/fw_muyu_muyu_eea_global-ota_full-OS3.0.303.0.WOYEUXM-user-16.0-27dc928bf4.zip
+  name: Xiaomi Pad 7 Pro
+  version: OS3.0.303.0.WOYEUXM
 - android: '15.0'
   codename: muyu
   date: '2025-10-24'
@@ -16402,6 +16612,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UMBCNXM/fw_nuwa_miui_NUWA_OS1.0.7.0.UMBCNXM_7ceb1a5a00_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.7.0.UMBCNXM
+- android: '16.0'
+  codename: nuwa
+  date: '2026-05-21'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WMBEUXM/fw_nuwa_nuwa_eea_global-ota_full-OS3.0.301.0.WMBEUXM-user-16.0-d0433f1b0b.zip
+  name: Xiaomi 13 Pro
+  version: OS3.0.301.0.WMBEUXM
 - android: '14.0'
   codename: nuwa
   date: '2024-09-19'
@@ -16774,6 +16990,12 @@
   download: https://bigota.d.miui.com/OS2.0.6.0.VOFMIXM/fw_obsidian_global_obsidian_global-ota_full-OS2.0.6.0.VOFMIXM-user-15.0-c1c65e24e4.zip
   name: Redmi Note 14 Pro 4G
   version: OS2.0.6.0.VOFMIXM
+- android: '16.0'
+  codename: obsidian
+  date: '2026-05-25'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WOFEUXM/fw_obsidian_obsidian_eea_global-ota_full-OS3.0.301.0.WOFEUXM-user-16.0-6e255241bf.zip
+  name: Redmi Note 14 Pro 4G
+  version: OS3.0.301.0.WOFEUXM
 - android: '15.0'
   codename: obsidian
   date: '2025-05-22'
@@ -19278,6 +19500,18 @@
   version: OS3.0.305.0.WPCCNXM
 - android: '16.0'
   codename: pudding
+  date: '2026-05-28'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WPCMIXM/fw_pudding_pudding_global-ota_full-OS3.0.302.0.WPCMIXM-user-16.0-0346e48775.zip
+  name: Xiaomi 17
+  version: OS3.0.302.0.WPCMIXM
+- android: '16.0'
+  codename: pudding
+  date: '2026-05-25'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WPCINXM/fw_pudding_pudding_in_global-ota_full-OS3.0.303.0.WPCINXM-user-16.0-9cdf47ff8b.zip
+  name: Xiaomi 17
+  version: OS3.0.303.0.WPCINXM
+- android: '16.0'
+  codename: pudding
   date: '2025-10-21'
   download: https://bigota.d.miui.com/OS3.0.24.0.WPCCNXM/fw_pudding_pudding-ota_full-OS3.0.24.0.WPCCNXM-user-16.0-f262603cf9.zip
   name: Xiaomi 17
@@ -20968,6 +21202,12 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VFSCNXM/fw_ruan_ruan-ota_full-OS2.0.203.0.VFSCNXM-user-15.0-cf2271c51c.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS2.0.203.0.VFSCNXM
+- android: '16.0'
+  codename: ruan
+  date: '2026-05-25'
+  download: https://bigota.d.miui.com/OS3.0.2.0.WFSEUXM/fw_ruan_ruan_eea_global-ota_full-OS3.0.2.0.WFSEUXM-user-16.0-327390bfe9.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS3.0.2.0.WFSEUXM
 - android: '15.0'
   codename: ruan
   date: '2025-05-25'
@@ -21004,6 +21244,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UFSINXM/fw_ruan_miui_RUANINGlobal_OS1.0.1.0.UFSINXM_42dad36ffb_14.0.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS1.0.1.0.UFSINXM
+- android: '16.0'
+  codename: ruan
+  date: '2026-05-21'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WFSMIXM/fw_ruan_ruan_global-ota_full-OS3.0.301.0.WFSMIXM-user-16.0-4e2ad737e6.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS3.0.301.0.WFSMIXM
 - android: '15.0'
   codename: ruan
   date: '2025-01-20'
@@ -21516,6 +21762,12 @@
   version: OS2.0.6.0.UMOEUXM
 - android: '14.0'
   codename: ruby
+  date: '2026-05-22'
+  download: https://bigota.d.miui.com/OS2.0.20.0.UMOCNXM/fw_ruby_ruby-ota_full-OS2.0.20.0.UMOCNXM-user-14.0-49a94bc079.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS2.0.20.0.UMOCNXM
+- android: '14.0'
+  codename: ruby
   date: '2024-10-21'
   download: https://bigota.d.miui.com/OS1.0.10.0.UMOMIXM/fw_ruby_miui_RUBYGlobal_OS1.0.10.0.UMOMIXM_c519623b8b_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
@@ -21886,6 +22138,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNIMIXM/fw_ruyi_miui_RUYIGlobal_OS1.0.4.0.UNIMIXM_a37537ba0f_14.0.zip
   name: MIX Flip
   version: OS1.0.4.0.UNIMIXM
+- android: '16.0'
+  codename: ruyi
+  date: '2026-05-25'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WNICNXM/fw_ruyi_ruyi-ota_full-OS3.0.303.0.WNICNXM-user-16.0-e40c2a1994.zip
+  name: MIX Flip
+  version: OS3.0.303.0.WNICNXM
 - android: '14.0'
   codename: ruyi
   date: '2024-07-22'
@@ -23852,37 +24110,37 @@
   codename: somalia
   date: '2026-04-30'
   download: https://bigota.d.miui.com/OS3.0.5.0.WBWCNXM/fw_somalia_somalia-ota_full-OS3.0.5.0.WBWCNXM-user-16.0-05fc64776e.zip
-  name: Redmi 17 5G/Redmi R70m/Redmi A7 Pro 5G/Redmi 15A 5G/POCO C85x 5G
+  name: Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G
   version: OS3.0.5.0.WBWCNXM
 - android: '16.0'
   codename: somalia
   date: '2026-04-15'
   download: https://bigota.d.miui.com/OS3.0.4.0.WBWINXM/fw_somalia_somalia_in_global-ota_full-OS3.0.4.0.WBWINXM-user-16.0-d4501fe101.zip
-  name: Redmi 17 5G/Redmi R70m/Redmi A7 Pro 5G/Redmi 15A 5G/POCO C85x 5G
+  name: Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G
   version: OS3.0.4.0.WBWINXM
 - android: '16.0'
   codename: somalia
   date: '2026-05-12'
   download: https://bigota.d.miui.com/OS3.0.10.0.WBWCNXM/fw_somalia_somalia-ota_full-OS3.0.10.0.WBWCNXM-user-16.0-ce35185c4a.zip
-  name: Redmi 17 5G/Redmi R70m/Redmi A7 Pro 5G/Redmi 15A 5G/POCO C85x 5G
+  name: Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G
   version: OS3.0.10.0.WBWCNXM
 - android: '16.0'
   codename: somalia
   date: '2026-03-12'
   download: https://bigota.d.miui.com/OS3.0.1.0.WBWINXM/fw_somalia_somalia_in_global-ota_full-OS3.0.1.0.WBWINXM-user-16.0-09f1203569.zip
-  name: Redmi 17 5G/Redmi R70m/Redmi A7 Pro 5G/Redmi 15A 5G/POCO C85x 5G
+  name: Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G
   version: OS3.0.1.0.WBWINXM
 - android: '16.0'
   codename: somalia
   date: '2026-05-11'
   download: https://bigota.d.miui.com/OS3.0.9.0.WBWINXM/fw_somalia_somalia_in_global-ota_full-OS3.0.9.0.WBWINXM-user-16.0-2b4cf013cb.zip
-  name: Redmi 17 5G/Redmi R70m/Redmi A7 Pro 5G/Redmi 15A 5G/POCO C85x 5G
+  name: Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G
   version: OS3.0.9.0.WBWINXM
 - android: '16.0'
   codename: somalia
   date: '2026-05-06'
   download: https://bigota.d.miui.com/OS3.0.6.0.WBWCNXM/fw_somalia_somalia-ota_full-OS3.0.6.0.WBWCNXM-user-16.0-00f1ab5c7b.zip
-  name: Redmi 17 5G/Redmi R70m/Redmi A7 Pro 5G/Redmi 15A 5G/POCO C85x 5G
+  name: Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G
   version: OS3.0.6.0.WBWCNXM
 - android: '15.0'
   codename: spark
@@ -23908,6 +24166,12 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VHYEUXM/fw_spark_eea_global_spark_eea_global-ota_full-OS2.0.203.0.VHYEUXM-user-15.0-142f635b25.zip
   name: Redmi Pad SE 8.7 4G
   version: OS2.0.203.0.VHYEUXM
+- android: '16.0'
+  codename: spark
+  date: '2026-05-28'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WHYMIXM/fw_spark_spark_global-ota_full-OS3.0.302.0.WHYMIXM-user-16.0-b20ca63525.zip
+  name: Redmi Pad SE 8.7 4G
+  version: OS3.0.302.0.WHYMIXM
 - android: '14.0'
   codename: spark
   date: '2024-11-27'
@@ -24172,6 +24436,12 @@
   download: https://bigota.d.miui.com/OS2.0.211.0.VPGMIXM/fw_spinel_spinel_global-ota_full-OS2.0.211.0.VPGMIXM-user-15.0-d856586402.zip
   name: Redmi Note 15 4G
   version: OS2.0.211.0.VPGMIXM
+- android: '16.0'
+  codename: spinel
+  date: '2026-05-25'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WPGMIXM/fw_spinel_spinel_global-ota_full-OS3.0.301.0.WPGMIXM-user-16.0-023314584a.zip
+  name: Redmi Note 15 4G
+  version: OS3.0.301.0.WPGMIXM
 - android: '15.0'
   codename: spinel
   date: '2026-03-20'
@@ -24218,163 +24488,163 @@
   codename: spring
   date: '2026-04-30'
   download: https://bigota.d.miui.com/OS2.0.210.0.VOUMIXM/fw_spring_spring_global-ota_full-OS2.0.210.0.VOUMIXM-user-15.0-ba1a65871d.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS2.0.210.0.VOUMIXM
 - android: '15.0'
   codename: spring
   date: '2025-08-29'
   download: https://bigota.d.miui.com/OS2.0.203.0.VOUCNXM/fw_spring_spring-ota_full-OS2.0.203.0.VOUCNXM-user-15.0-1301088748.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS2.0.203.0.VOUCNXM
 - android: '15.0'
   codename: spring
   date: '2025-10-28'
   download: https://bigota.d.miui.com/OS2.0.205.0.VOUMIXM/fw_spring_spring_global-ota_full-OS2.0.205.0.VOUMIXM-user-15.0-b652ad01b1.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS2.0.205.0.VOUMIXM
 - android: '15.0'
   codename: spring
   date: '2025-12-27'
   download: https://bigota.d.miui.com/OS2.0.207.0.VOUINXM/fw_spring_spring_in_global-ota_full-OS2.0.207.0.VOUINXM-user-15.0-2808147b7b.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS2.0.207.0.VOUINXM
 - android: '15.0'
   codename: spring
   date: '2025-08-27'
   download: https://bigota.d.miui.com/OS2.0.203.0.VOUINXM/fw_spring_in_global_spring_in_global-ota_full-OS2.0.203.0.VOUINXM-user-15.0-97420328f8.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS2.0.203.0.VOUINXM
 - android: '16.0'
   codename: spring
   date: '2026-02-27'
   download: https://bigota.d.miui.com/OS3.0.4.0.WOUCNXM/fw_spring_spring-ota_full-OS3.0.4.0.WOUCNXM-user-16.0-e3a8f4c96c.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS3.0.4.0.WOUCNXM
 - android: '16.0'
   codename: spring
   date: '2026-04-24'
   download: https://bigota.d.miui.com/OS3.0.1.0.WOUINXM/fw_spring_spring_in_global-ota_full-OS3.0.1.0.WOUINXM-user-16.0-89aa4925ce.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS3.0.1.0.WOUINXM
 - android: '15.0'
   codename: spring
   date: '2026-02-22'
   download: https://bigota.d.miui.com/OS2.0.208.0.VOUMIXM/fw_spring_spring_global-ota_full-OS2.0.208.0.VOUMIXM-user-15.0-f175f9cfa8.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS2.0.208.0.VOUMIXM
 - android: '15.0'
   codename: spring
   date: '2026-02-22'
   download: https://bigota.d.miui.com/OS2.0.208.0.VOUINXM/fw_spring_spring_in_global-ota_full-OS2.0.208.0.VOUINXM-user-15.0-8de18aea6f.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS2.0.208.0.VOUINXM
 - android: '15.0'
   codename: spring
   date: '2025-10-21'
   download: https://bigota.d.miui.com/OS2.0.204.0.VOUCNXM/fw_spring_spring-ota_full-OS2.0.204.0.VOUCNXM-user-15.0-5fdd6a5a46.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS2.0.204.0.VOUCNXM
 - android: '16.0'
   codename: spring
   date: '2026-03-20'
   download: https://bigota.d.miui.com/OS3.0.3.0.WOUMIXM/fw_spring_spring_global-ota_full-OS3.0.3.0.WOUMIXM-user-16.0-3ab305f537.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS3.0.3.0.WOUMIXM
 - android: '15.0'
   codename: spring
   date: '2025-09-12'
   download: https://bigota.d.miui.com/OS2.0.204.0.VOUMIXM/fw_spring_global_spring_global-ota_full-OS2.0.204.0.VOUMIXM-user-15.0-7d8d811f0c.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS2.0.204.0.VOUMIXM
 - android: '15.0'
   codename: spring
   date: '2026-03-12'
   download: https://bigota.d.miui.com/OS2.0.209.0.VOUEUXM/fw_spring_spring_eea_global-ota_full-OS2.0.209.0.VOUEUXM-user-15.0-fabcf63789.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS2.0.209.0.VOUEUXM
 - android: '16.0'
   codename: spring
   date: '2026-04-10'
   download: https://bigota.d.miui.com/OS3.0.1.0.WOUEUXM/fw_spring_spring_eea_global-ota_full-OS3.0.1.0.WOUEUXM-user-16.0-f2e43e1fbd.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS3.0.1.0.WOUEUXM
 - android: '15.0'
   codename: spring
   date: '2025-10-09'
   download: https://bigota.d.miui.com/OS2.0.204.0.VOUEUXM/fw_spring_spring_eea_global-ota_full-OS2.0.204.0.VOUEUXM-user-15.0-fc8592e523.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS2.0.204.0.VOUEUXM
 - android: '15.0'
   codename: spring
   date: '2025-08-08'
   download: https://bigota.d.miui.com/OS2.0.202.0.VOUEUXM/fw_spring_eea_global_spring_eea_global-ota_full-OS2.0.202.0.VOUEUXM-user-15.0-77083e7879.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS2.0.202.0.VOUEUXM
 - android: '15.0'
   codename: spring
   date: '2025-08-09'
   download: https://bigota.d.miui.com/OS2.0.203.0.VOUMIXM/fw_spring_global_spring_global-ota_full-OS2.0.203.0.VOUMIXM-user-15.0-55ad2855de.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS2.0.203.0.VOUMIXM
 - android: '15.0'
   codename: spring
   date: '2026-01-07'
   download: https://bigota.d.miui.com/OS2.0.207.0.VOUEUXM/fw_spring_spring_eea_global-ota_full-OS2.0.207.0.VOUEUXM-user-15.0-4c39f88d07.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS2.0.207.0.VOUEUXM
 - android: '16.0'
   codename: spring
   date: '2026-05-06'
   download: https://bigota.d.miui.com/OS3.0.302.0.WOUCNXM/fw_spring_spring-ota_full-OS3.0.302.0.WOUCNXM-user-16.0-37e6b8833a.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS3.0.302.0.WOUCNXM
 - android: '15.0'
   codename: spring
   date: '2025-10-04'
   download: https://bigota.d.miui.com/OS2.0.205.0.VOUINXM/fw_spring_spring_in_global-ota_full-OS2.0.205.0.VOUINXM-user-15.0-393bf7ce73.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS2.0.205.0.VOUINXM
 - android: '15.0'
   codename: spring
   date: '2026-02-05'
   download: https://bigota.d.miui.com/OS2.0.208.0.VOUEUXM/fw_spring_spring_eea_global-ota_full-OS2.0.208.0.VOUEUXM-user-15.0-8af4dc6220.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS2.0.208.0.VOUEUXM
 - android: '15.0'
   codename: spring
   date: '2025-12-04'
   download: https://bigota.d.miui.com/OS2.0.205.0.VOUEUXM/fw_spring_spring_eea_global-ota_full-OS2.0.205.0.VOUEUXM-user-15.0-b0bd543cb3.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS2.0.205.0.VOUEUXM
 - android: '15.0'
   codename: spring
   date: '2025-11-03'
   download: https://bigota.d.miui.com/OS2.0.206.0.VOUINXM/fw_spring_spring_in_global-ota_full-OS2.0.206.0.VOUINXM-user-15.0-c4453d3371.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS2.0.206.0.VOUINXM
 - android: '15.0'
   codename: spring
   date: '2025-09-02'
   download: https://bigota.d.miui.com/OS2.0.203.0.VOUEUXM/fw_spring_eea_global_spring_eea_global-ota_full-OS2.0.203.0.VOUEUXM-user-15.0-851ccd1b0d.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS2.0.203.0.VOUEUXM
 - android: '15.0'
   codename: spring
   date: '2025-12-01'
   download: https://bigota.d.miui.com/OS2.0.206.0.VOUMIXM/fw_spring_spring_global-ota_full-OS2.0.206.0.VOUMIXM-user-15.0-08c01bec52.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS2.0.206.0.VOUMIXM
 - android: '15.0'
   codename: spring
   date: '2026-04-01'
   download: https://bigota.d.miui.com/OS2.0.209.0.VOUMIXM/fw_spring_spring_global-ota_full-OS2.0.209.0.VOUMIXM-user-15.0-0d0f5076bc.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS2.0.209.0.VOUMIXM
 - android: '15.0'
   codename: spring
   date: '2026-01-01'
   download: https://bigota.d.miui.com/OS2.0.207.0.VOUMIXM/fw_spring_spring_global-ota_full-OS2.0.207.0.VOUMIXM-user-15.0-0a20a2cddc.zip
-  name: Redmi 15R 5G/Redmi 15 5G/POCO M7 Plus 5G
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS2.0.207.0.VOUMIXM
 - android: '14.0'
   codename: star
@@ -28782,6 +29052,12 @@
   version: OS3.0.304.0.WAKCNXM
 - android: '16.0'
   codename: yili
+  date: '2026-05-28'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WAKCNXM/fw_yili_yili-ota_full-OS3.0.305.0.WAKCNXM-user-16.0-3f8bef59c0.zip
+  name: Redmi K Pad 2
+  version: OS3.0.305.0.WAKCNXM
+- android: '16.0'
+  codename: yili
   date: '2026-04-22'
   download: https://bigota.d.miui.com/OS3.0.301.0.WAKCNXM/fw_yili_yili-ota_full-OS3.0.301.0.WAKCNXM-user-16.0-61d5003cdc.zip
   name: Redmi K Pad 2
@@ -29204,103 +29480,103 @@
   codename: yupei
   date: '2026-03-31'
   download: https://bigota.d.miui.com/OS3.0.301.0.WPZEUXM/fw_yupei_yupei_eea_global-ota_full-OS3.0.301.0.WPZEUXM-user-16.0-d5ad4cf640.zip
-  name: Xiaomi Pad 8
+  name: Xiaomi Pad 8/Xiaomi Pad 9
   version: OS3.0.301.0.WPZEUXM
 - android: '16.0'
   codename: yupei
   date: '2026-03-31'
   download: https://bigota.d.miui.com/OS3.0.301.0.WPZMIXM/fw_yupei_yupei_global-ota_full-OS3.0.301.0.WPZMIXM-user-16.0-5f81eb1905.zip
-  name: Xiaomi Pad 8
+  name: Xiaomi Pad 8/Xiaomi Pad 9
   version: OS3.0.301.0.WPZMIXM
 - android: '16.0'
   codename: yupei
   date: '2026-03-31'
   download: https://bigota.d.miui.com/OS3.0.301.0.WPZINXM/fw_yupei_yupei_in_global-ota_full-OS3.0.301.0.WPZINXM-user-16.0-331831e27f.zip
-  name: Xiaomi Pad 8
+  name: Xiaomi Pad 8/Xiaomi Pad 9
   version: OS3.0.301.0.WPZINXM
 - android: '16.0'
   codename: yupei
   date: '2025-12-29'
   download: https://bigota.d.miui.com/OS3.0.10.0.WPZCNXM/fw_yupei_yupei-ota_full-OS3.0.10.0.WPZCNXM-user-16.0-b5858ff2bd.zip
-  name: Xiaomi Pad 8
+  name: Xiaomi Pad 8/Xiaomi Pad 9
   version: OS3.0.10.0.WPZCNXM
 - android: '16.0'
   codename: yupei
   date: '2025-11-28'
   download: https://bigota.d.miui.com/OS3.0.9.0.WPZCNXM/fw_yupei_yupei-ota_full-OS3.0.9.0.WPZCNXM-user-16.0-780378d178.zip
-  name: Xiaomi Pad 8
+  name: Xiaomi Pad 8/Xiaomi Pad 9
   version: OS3.0.9.0.WPZCNXM
 - android: '16.0'
   codename: yupei
   date: '2026-02-27'
   download: https://bigota.d.miui.com/OS3.0.12.0.WPZCNXM/fw_yupei_yupei-ota_full-OS3.0.12.0.WPZCNXM-user-16.0-a2eb78c92f.zip
-  name: Xiaomi Pad 8
+  name: Xiaomi Pad 8/Xiaomi Pad 9
   version: OS3.0.12.0.WPZCNXM
 - android: '16.0'
   codename: yupei
   date: '2025-10-22'
   download: https://bigota.d.miui.com/OS3.0.7.0.WPZCNXM/fw_yupei_yupei-ota_full-OS3.0.7.0.WPZCNXM-user-16.0-1317db49b9.zip
-  name: Xiaomi Pad 8
+  name: Xiaomi Pad 8/Xiaomi Pad 9
   version: OS3.0.7.0.WPZCNXM
 - android: '16.0'
   codename: yupei
   date: '2026-01-21'
   download: https://bigota.d.miui.com/OS3.0.11.0.WPZCNXM/fw_yupei_yupei-ota_full-OS3.0.11.0.WPZCNXM-user-16.0-16dd3ba10e.zip
-  name: Xiaomi Pad 8
+  name: Xiaomi Pad 8/Xiaomi Pad 9
   version: OS3.0.11.0.WPZCNXM
 - android: '16.0'
   codename: yupei
   date: '2026-04-16'
   download: https://bigota.d.miui.com/OS3.0.303.0.WPZEUXM/fw_yupei_yupei_eea_global-ota_full-OS3.0.303.0.WPZEUXM-user-16.0-5f79d3323a.zip
-  name: Xiaomi Pad 8
+  name: Xiaomi Pad 8/Xiaomi Pad 9
   version: OS3.0.303.0.WPZEUXM
 - android: '16.0'
   codename: yupei
   date: '2026-04-16'
   download: https://bigota.d.miui.com/OS3.0.302.0.WPZMIXM/fw_yupei_yupei_global-ota_full-OS3.0.302.0.WPZMIXM-user-16.0-731bf6984c.zip
-  name: Xiaomi Pad 8
+  name: Xiaomi Pad 8/Xiaomi Pad 9
   version: OS3.0.302.0.WPZMIXM
 - android: '16.0'
   codename: yupei
   date: '2026-03-14'
   download: https://bigota.d.miui.com/OS3.0.303.0.WPZCNXM/fw_yupei_yupei-ota_full-OS3.0.303.0.WPZCNXM-user-16.0-a024ba01e1.zip
-  name: Xiaomi Pad 8
+  name: Xiaomi Pad 8/Xiaomi Pad 9
   version: OS3.0.303.0.WPZCNXM
 - android: '16.0'
   codename: yupei
   date: '2025-10-12'
   download: https://bigota.d.miui.com/OS3.0.6.0.WPZCNXM/fw_yupei_yupei-ota_full-OS3.0.6.0.WPZCNXM-user-16.0-7e9c97fdb5.zip
-  name: Xiaomi Pad 8
+  name: Xiaomi Pad 8/Xiaomi Pad 9
   version: OS3.0.6.0.WPZCNXM
 - android: '16.0'
   codename: yupei
   date: '2026-03-09'
   download: https://bigota.d.miui.com/OS3.0.4.0.WPZEUXM/fw_yupei_yupei_eea_global-ota_full-OS3.0.4.0.WPZEUXM-user-16.0-4d051eff94.zip
-  name: Xiaomi Pad 8
+  name: Xiaomi Pad 8/Xiaomi Pad 9
   version: OS3.0.4.0.WPZEUXM
 - android: '16.0'
   codename: yupei
   date: '2026-03-09'
   download: https://bigota.d.miui.com/OS3.0.1.0.WPZMIXM/fw_yupei_yupei_global-ota_full-OS3.0.1.0.WPZMIXM-user-16.0-9f08fd129a.zip
-  name: Xiaomi Pad 8
+  name: Xiaomi Pad 8/Xiaomi Pad 9
   version: OS3.0.1.0.WPZMIXM
 - android: '16.0'
   codename: yupei
   date: '2026-03-09'
   download: https://bigota.d.miui.com/OS3.0.2.0.WPZINXM/fw_yupei_yupei_in_global-ota_full-OS3.0.2.0.WPZINXM-user-16.0-7d5a6992aa.zip
-  name: Xiaomi Pad 8
+  name: Xiaomi Pad 8/Xiaomi Pad 9
   version: OS3.0.2.0.WPZINXM
 - android: '16.0'
   codename: yupei
   date: '2026-05-06'
   download: https://bigota.d.miui.com/OS3.0.305.0.WPZCNXM/fw_yupei_yupei-ota_full-OS3.0.305.0.WPZCNXM-user-16.0-ab6c830ff4.zip
-  name: Xiaomi Pad 8
+  name: Xiaomi Pad 8/Xiaomi Pad 9
   version: OS3.0.305.0.WPZCNXM
 - android: '16.0'
   codename: yupei
   date: '2025-10-04'
   download: https://bigota.d.miui.com/OS3.0.5.0.WPZCNXM/fw_yupei_yupei-ota_full-OS3.0.5.0.WPZCNXM-user-16.0-a0022f84a2.zip
-  name: Xiaomi Pad 8
+  name: Xiaomi Pad 8/Xiaomi Pad 9
   version: OS3.0.5.0.WPZCNXM
 - android: '15.0'
   codename: zeus
@@ -30402,6 +30678,12 @@
   version: OS1.0.9.0.ULLMIXM
 - android: '15.0'
   codename: ziyi
+  date: '2026-05-28'
+  download: https://bigota.d.miui.com/OS3.0.3.0.VLLMIXM/fw_ziyi_ziyi_global-ota_full-OS3.0.3.0.VLLMIXM-user-15.0-3ab7886bb3.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS3.0.3.0.VLLMIXM
+- android: '15.0'
+  codename: ziyi
   date: '2026-01-28'
   download: https://bigota.d.miui.com/OS3.0.1.0.VLLCNXM/fw_ziyi_ziyi-ota_full-OS3.0.1.0.VLLCNXM-user-15.0-f1aa28efcb.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
@@ -30460,6 +30742,18 @@
   download: https://bigota.d.miui.com/OS1.0.11.0.ULLCNXM/fw_ziyi_miui_ZIYI_OS1.0.11.0.ULLCNXM_7264b8c00d_14.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: OS1.0.11.0.ULLCNXM
+- android: '15.0'
+  codename: ziyi
+  date: '2026-05-25'
+  download: https://bigota.d.miui.com/OS3.0.4.0.VLLCNXM/fw_ziyi_ziyi-ota_full-OS3.0.4.0.VLLCNXM-user-15.0-254c38fb7b.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS3.0.4.0.VLLCNXM
+- android: '15.0'
+  codename: ziyi
+  date: '2026-05-25'
+  download: https://bigota.d.miui.com/OS3.0.4.0.VLLEUXM/fw_ziyi_ziyi_eea_global-ota_full-OS3.0.4.0.VLLEUXM-user-15.0-18d4402337.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS3.0.4.0.VLLEUXM
 - android: '15.0'
   codename: ziyi
   date: '2025-04-25'

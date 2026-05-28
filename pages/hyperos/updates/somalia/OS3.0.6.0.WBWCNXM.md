@@ -1,7 +1,7 @@
 ---
-title: Redmi 17 5G / Redmi R70m China HyperOS OS3.0.6.0.WBWCNXM Update
+title: Redmi 17 5G / R70 5G / R70m 5G China HyperOS OS3.0.6.0.WBWCNXM Update
 layout: download
-name: Redmi 17 5G / Redmi R70m China
+name: Redmi 17 5G / R70 5G / R70m 5G China
 codename: somalia
 permalink: /hyperos/somalia/stable/OS3.0.6.0.WBWCNXM/
 ---
@@ -9,7 +9,7 @@ permalink: /hyperos/somalia/stable/OS3.0.6.0.WBWCNXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/somalia/">Redmi 17 5G / Redmi R70m China</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/somalia/">Redmi 17 5G / R70 5G / R70m 5G China</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS3.0.6.0.WBWCNXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /hyperos/somalia/stable/OS3.0.6.0.WBWCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.6.0.WBWCNXM Stable Official Update for Redmi 17 5G / Redmi R70m China (somalia)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.6.0.WBWCNXM Stable Official Update for Redmi 17 5G / R70 5G / R70m 5G China (somalia)</h3>
     <h5>This page shows the OS3.0.6.0.WBWCNXM update only. If you're looking for other updates check
         <a href="/hyperos/somalia/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -44,7 +44,7 @@ permalink: /hyperos/somalia/stable/OS3.0.6.0.WBWCNXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi 17 5G / Redmi R70m China</h5>
+                    <h5><b>Device: </b>Redmi 17 5G / R70 5G / R70m 5G China</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/somalia/" target="_blank">somalia</a> </h5>
@@ -87,7 +87,7 @@ permalink: /hyperos/somalia/stable/OS3.0.6.0.WBWCNXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi 17 5G / Redmi R70m China</h5>
+                    <h5><b>Device: </b>Redmi 17 5G / R70 5G / R70m 5G China</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/somalia/" target="_blank">somalia</a> </h5>

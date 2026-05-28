@@ -1,4 +1,24 @@
 - branch: stable
+  date: '2026-05-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-28.05.2026/fw_lapis_lapis-ota_full-OS3.0.306.0.WPPCNXM-user-16.0-5b9943a359.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/lapis/fw_lapis_lapis-ota_full-OS3.0.306.0.WPPCNXM-user-16.0-5b9943a359.zip
+  filename: fw_lapis_lapis-ota_full-OS3.0.306.0.WPPCNXM-user-16.0-5b9943a359.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.306.0.WPPCNXM
+- branch: stable
+  date: '2026-05-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-28.05.2026/fw_lapis_lapis_global-ota_full-OS3.0.305.0.WPPMIXM-user-16.0-47b581fa19.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/lapis/fw_lapis_lapis_global-ota_full-OS3.0.305.0.WPPMIXM-user-16.0-47b581fa19.zip
+  filename: fw_lapis_lapis_global-ota_full-OS3.0.305.0.WPPMIXM-user-16.0-47b581fa19.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.305.0.WPPMIXM
+- branch: stable
   date: '2026-03-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-25.03.2026/fw_lapis_lapis_global-ota_full-OS3.0.2.0.WPPMIXM-user-16.0-4c65c8f47f.zip
@@ -18,6 +38,16 @@
   versions:
     android: '15.0'
     miui: OS2.0.207.0.VPPCNXM
+- branch: stable
+  date: '2026-05-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-23.05.2026/fw_lapis_lapis_in_global-ota_full-OS3.0.301.0.WPPINXM-user-16.0-b1396c960b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/lapis/fw_lapis_lapis_in_global-ota_full-OS3.0.301.0.WPPINXM-user-16.0-b1396c960b.zip
+  filename: fw_lapis_lapis_in_global-ota_full-OS3.0.301.0.WPPINXM-user-16.0-b1396c960b.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.301.0.WPPINXM
 - branch: stable
   date: '2026-02-23'
   downloads:

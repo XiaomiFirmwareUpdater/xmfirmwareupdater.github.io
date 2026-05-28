@@ -1,7 +1,7 @@
 ---
-title: Xiaomi Pad 8 China Firmware OS3.0.305.0.WPZCNXM Update
+title: Xiaomi Pad 8 / Xiaomi Pad 9 China Firmware OS3.0.305.0.WPZCNXM Update
 layout: download
-name: Xiaomi Pad 8 China
+name: Xiaomi Pad 8 / Xiaomi Pad 9 China
 codename: yupei
 permalink: /firmware/yupei/stable/OS3.0.305.0.WPZCNXM/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/yupei/stable/OS3.0.305.0.WPZCNXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item"><a href="/firmware/yupei/">Xiaomi Pad 8 China</a></li>
+        <li class="breadcrumb-item"><a href="/firmware/yupei/">Xiaomi Pad 8 / Xiaomi Pad 9 China</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS3.0.305.0.WPZCNXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /firmware/yupei/stable/OS3.0.305.0.WPZCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">Firmware OS3.0.305.0.WPZCNXM Stable Release for Xiaomi Pad 8 China (yupei)</h3>
+    <h3 class="title bg-light p-2 rounded">Firmware OS3.0.305.0.WPZCNXM Stable Release for Xiaomi Pad 8 / Xiaomi Pad 9 China (yupei)</h3>
     <h5>This page shows the OS3.0.305.0.WPZCNXM update only. If you're looking for other updates check
         <a href="/firmware/yupei/">here.</a></h5>
     <div class="card">
@@ -42,7 +42,7 @@ permalink: /firmware/yupei/stable/OS3.0.305.0.WPZCNXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Xiaomi Pad 8 China</h5>
+                    <h5><b>Device: </b>Xiaomi Pad 8 / Xiaomi Pad 9 China</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/firmware/yupei/" target="_blank">yupei</a> </h5>

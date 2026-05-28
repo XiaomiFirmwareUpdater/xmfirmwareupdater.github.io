@@ -1,7 +1,7 @@
 ---
-title: Redmi 15 5G / POCO M7 Plus 5G EEA Firmware OS2.0.209.0.VOUEUXM Update
+title: Redmi 15 5G / M7 Plus / M8s 5G EEA Firmware OS2.0.209.0.VOUEUXM Update
 layout: download
-name: Redmi 15 5G / POCO M7 Plus 5G EEA
+name: Redmi 15 5G / M7 Plus / M8s 5G EEA
 codename: spring
 permalink: /firmware/spring/stable/OS2.0.209.0.VOUEUXM/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/spring/stable/OS2.0.209.0.VOUEUXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item"><a href="/firmware/spring/">Redmi 15 5G / POCO M7 Plus 5G EEA</a></li>
+        <li class="breadcrumb-item"><a href="/firmware/spring/">Redmi 15 5G / M7 Plus / M8s 5G EEA</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS2.0.209.0.VOUEUXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /firmware/spring/stable/OS2.0.209.0.VOUEUXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">Firmware OS2.0.209.0.VOUEUXM Stable Release for Redmi 15 5G / POCO M7 Plus 5G EEA (spring)</h3>
+    <h3 class="title bg-light p-2 rounded">Firmware OS2.0.209.0.VOUEUXM Stable Release for Redmi 15 5G / M7 Plus / M8s 5G EEA (spring)</h3>
     <h5>This page shows the OS2.0.209.0.VOUEUXM update only. If you're looking for other updates check
         <a href="/firmware/spring/">here.</a></h5>
     <div class="card">
@@ -42,7 +42,7 @@ permalink: /firmware/spring/stable/OS2.0.209.0.VOUEUXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi 15 5G / POCO M7 Plus 5G EEA</h5>
+                    <h5><b>Device: </b>Redmi 15 5G / M7 Plus / M8s 5G EEA</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/firmware/spring/" target="_blank">spring</a> </h5>

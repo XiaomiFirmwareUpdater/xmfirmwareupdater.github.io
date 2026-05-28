@@ -1,7 +1,7 @@
 ---
-title: Redmi A7 Pro / POCO C81 Pro Indonesia HyperOS OS3.0.1.0.WBVIDXM Update
+title: Redmi A7 Pro / POCO C81 / C81 Pro Indonesia HyperOS OS3.0.1.0.WBVIDXM Update
 layout: download
-name: Redmi A7 Pro / POCO C81 Pro Indonesia
+name: Redmi A7 Pro / POCO C81 / C81 Pro Indonesia
 codename: arctic
 permalink: /hyperos/arctic/stable/OS3.0.1.0.WBVIDXM/
 ---
@@ -9,7 +9,7 @@ permalink: /hyperos/arctic/stable/OS3.0.1.0.WBVIDXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/arctic/">Redmi A7 Pro / POCO C81 Pro Indonesia</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/arctic/">Redmi A7 Pro / POCO C81 / C81 Pro Indonesia</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS3.0.1.0.WBVIDXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /hyperos/arctic/stable/OS3.0.1.0.WBVIDXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.1.0.WBVIDXM Stable Official Update for Redmi A7 Pro / POCO C81 Pro Indonesia (arctic)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.1.0.WBVIDXM Stable Official Update for Redmi A7 Pro / POCO C81 / C81 Pro Indonesia (arctic)</h3>
     <h5>This page shows the OS3.0.1.0.WBVIDXM update only. If you're looking for other updates check
         <a href="/hyperos/arctic/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -44,7 +44,7 @@ permalink: /hyperos/arctic/stable/OS3.0.1.0.WBVIDXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi A7 Pro / POCO C81 Pro Indonesia</h5>
+                    <h5><b>Device: </b>Redmi A7 Pro / POCO C81 / C81 Pro Indonesia</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/arctic/" target="_blank">arctic</a> </h5>
@@ -87,7 +87,7 @@ permalink: /hyperos/arctic/stable/OS3.0.1.0.WBVIDXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi A7 Pro / POCO C81 Pro Indonesia</h5>
+                    <h5><b>Device: </b>Redmi A7 Pro / POCO C81 / C81 Pro Indonesia</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/arctic/" target="_blank">arctic</a> </h5>

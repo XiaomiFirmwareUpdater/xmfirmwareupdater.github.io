@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 15 5G India HyperOS OS2.0.206.0.VPQINXM Update
+title: Redmi Note 15 / 15 SE 5G India HyperOS OS2.0.206.0.VPQINXM Update
 layout: download
-name: Redmi Note 15 5G India
+name: Redmi Note 15 / 15 SE 5G India
 codename: kunzite
 permalink: /hyperos/kunzite/stable/OS2.0.206.0.VPQINXM/
 ---
@@ -9,7 +9,7 @@ permalink: /hyperos/kunzite/stable/OS2.0.206.0.VPQINXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/kunzite/">Redmi Note 15 5G India</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/kunzite/">Redmi Note 15 / 15 SE 5G India</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS2.0.206.0.VPQINXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /hyperos/kunzite/stable/OS2.0.206.0.VPQINXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.206.0.VPQINXM Stable Official Update for Redmi Note 15 5G India (kunzite)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.206.0.VPQINXM Stable Official Update for Redmi Note 15 / 15 SE 5G India (kunzite)</h3>
     <h5>This page shows the OS2.0.206.0.VPQINXM update only. If you're looking for other updates check
         <a href="/hyperos/kunzite/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -44,7 +44,7 @@ permalink: /hyperos/kunzite/stable/OS2.0.206.0.VPQINXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 15 5G India</h5>
+                    <h5><b>Device: </b>Redmi Note 15 / 15 SE 5G India</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/kunzite/" target="_blank">kunzite</a> </h5>
@@ -87,7 +87,7 @@ permalink: /hyperos/kunzite/stable/OS2.0.206.0.VPQINXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 15 5G India</h5>
+                    <h5><b>Device: </b>Redmi Note 15 / 15 SE 5G India</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/kunzite/" target="_blank">kunzite</a> </h5>

@@ -1,7 +1,7 @@
 ---
-title: Redmi 17 5G/Redmi R70m/Redmi A7 Pro 5G/Redmi 15A 5G/POCO C85x 5G (somalia) Firmware Downloads
+title: Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G (somalia) Firmware Downloads
 layout: download
-name: Redmi 17 5G/Redmi R70m/Redmi A7 Pro 5G/Redmi 15A 5G/POCO C85x 5G
+name: Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G
 codename: somalia
 permalink: /firmware/somalia/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/somalia/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/somalia/">Redmi 17 5G/Redmi R70m/Redmi A7 Pro 5G/Redmi 15A 5G/POCO C85x 5G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/somalia/">Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
