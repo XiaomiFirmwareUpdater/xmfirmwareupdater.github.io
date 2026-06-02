@@ -9,22 +9,22 @@
     android: '16.0'
     miui: OS3.0.13.0.WPMMIXM
 - branch: stable
-  date: '2026-03-14'
+  date: '2026-06-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_myron/releases/download/stable-14.03.2026/fw_myron_myron-ota_full-OS3.0.303.0.WPMCNXM-user-16.0-08eeab684e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/myron/fw_myron_myron-ota_full-OS3.0.303.0.WPMCNXM-user-16.0-08eeab684e.zip
-  filename: fw_myron_myron-ota_full-OS3.0.303.0.WPMCNXM-user-16.0-08eeab684e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_myron/releases/download/stable-02.06.2026/fw_myron_myron-ota_full-OS3.0.306.0.WPMCNXM-user-16.0-0b34ee6a73.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/myron/fw_myron_myron-ota_full-OS3.0.306.0.WPMCNXM-user-16.0-0b34ee6a73.zip
+  filename: fw_myron_myron-ota_full-OS3.0.306.0.WPMCNXM-user-16.0-0b34ee6a73.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.303.0.WPMCNXM
+    miui: OS3.0.306.0.WPMCNXM
 - branch: stable
-  date: '2026-03-30'
+  date: '2026-06-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_myron/releases/download/stable-30.03.2026/fw_myron_myron_eea_global-ota_full-OS3.0.8.0.WPMEUXM-user-16.0-fd48863eb8.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/myron/fw_myron_myron_eea_global-ota_full-OS3.0.8.0.WPMEUXM-user-16.0-fd48863eb8.zip
-  filename: fw_myron_myron_eea_global-ota_full-OS3.0.8.0.WPMEUXM-user-16.0-fd48863eb8.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_myron/releases/download/stable-02.06.2026/fw_myron_myron_eea_global-ota_full-OS3.0.301.0.WPMEUXM-user-16.0-aa3aa56260.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/myron/fw_myron_myron_eea_global-ota_full-OS3.0.301.0.WPMEUXM-user-16.0-aa3aa56260.zip
+  filename: fw_myron_myron_eea_global-ota_full-OS3.0.301.0.WPMEUXM-user-16.0-aa3aa56260.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.8.0.WPMEUXM
+    miui: OS3.0.301.0.WPMEUXM

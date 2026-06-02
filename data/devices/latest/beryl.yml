@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2026-05-06'
+  date: '2026-06-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-06.05.2026/fw_beryl_beryl_global-ota_full-OS3.0.1.0.WOQMIXM-user-16.0-28490d5698.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/beryl/fw_beryl_beryl_global-ota_full-OS3.0.1.0.WOQMIXM-user-16.0-28490d5698.zip
-  filename: fw_beryl_beryl_global-ota_full-OS3.0.1.0.WOQMIXM-user-16.0-28490d5698.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-02.06.2026/fw_beryl_beryl_global-ota_full-OS3.0.301.0.WOQMIXM-user-16.0-12fa9e236f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/beryl/fw_beryl_beryl_global-ota_full-OS3.0.301.0.WOQMIXM-user-16.0-12fa9e236f.zip
+  filename: fw_beryl_beryl_global-ota_full-OS3.0.301.0.WOQMIXM-user-16.0-12fa9e236f.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.1.0.WOQMIXM
+    miui: OS3.0.301.0.WOQMIXM
 - branch: stable
   date: '2026-04-27'
   downloads:

@@ -52,24 +52,18 @@ permalink: /hyperos/ziyi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.VLLCNXM</td><td>15.0</td><td>7.9 GB</td><td>2026-03-11</td><td><a href="/hyperos/ziyi/stable/OS3.0.3.0.VLLCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.VLLCNXM</td><td>15.0</td><td>6.2 GB</td><td>2026-03-18</td><td><a href="/hyperos/ziyi/stable/OS3.0.3.0.VLLCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.4.0.VLLCNXM</td><td>15.0</td><td>6.2 GB</td><td>2026-05-22</td><td><a href="/hyperos/ziyi/stable beta/OS3.0.4.0.VLLCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 / 13 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.VLLEUXM</td><td>15.0</td><td>7.4 GB</td><td>2026-03-15</td><td><a href="/hyperos/ziyi/stable/OS3.0.3.0.VLLEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 / 13 Lite EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.VLLEUXM</td><td>15.0</td><td>5.9 GB</td><td>2026-03-20</td><td><a href="/hyperos/ziyi/stable/OS3.0.3.0.VLLEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 / 13 Lite EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.4.0.VLLEUXM</td><td>15.0</td><td>5.9 GB</td><td>2026-05-22</td><td><a href="/hyperos/ziyi/stable beta/OS3.0.4.0.VLLEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 / 13 Lite Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.VLLMIXM</td><td>15.0</td><td>7.4 GB</td><td>2026-03-16</td><td><a href="/hyperos/ziyi/stable/OS3.0.2.0.VLLMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 / 13 Lite Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.VLLMIXM</td><td>15.0</td><td>5.8 GB</td><td>2026-03-20</td><td><a href="/hyperos/ziyi/stable/OS3.0.2.0.VLLMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 / 13 Lite Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.VLLMIXM</td><td>15.0</td><td>5.8 GB</td><td>2026-05-26</td><td><a href="/hyperos/ziyi/stable beta/OS3.0.3.0.VLLMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 / 13 Lite Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.VLLRUXM</td><td>15.0</td><td>7.2 GB</td><td>2026-03-16</td><td><a href="/hyperos/ziyi/stable/OS3.0.2.0.VLLRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 / 13 Lite Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.VLLRUXM</td><td>15.0</td><td>5.7 GB</td><td>2026-03-24</td><td><a href="/hyperos/ziyi/stable/OS3.0.2.0.VLLRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 / 13 Lite Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.VLLRUXM</td><td>15.0</td><td>5.7 GB</td><td>2026-05-26</td><td><a href="/hyperos/ziyi/stable beta/OS3.0.3.0.VLLRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Lite Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.VLLTRXM</td><td>15.0</td><td>7.1 GB</td><td>2026-03-15</td><td><a href="/hyperos/ziyi/stable/OS3.0.2.0.VLLTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Lite Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.VLLTRXM</td><td>15.0</td><td>5.8 GB</td><td>2026-03-24</td><td><a href="/hyperos/ziyi/stable/OS3.0.2.0.VLLTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Lite Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.VLLTRXM</td><td>15.0</td><td>5.8 GB</td><td>2026-05-27</td><td><a href="/hyperos/ziyi/stable beta/OS3.0.3.0.VLLTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.VLLTWXM</td><td>15.0</td><td>7.0 GB</td><td>2026-03-16</td><td><a href="/hyperos/ziyi/stable/OS3.0.2.0.VLLTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.VLLTWXM</td><td>15.0</td><td>5.7 GB</td><td>2026-03-24</td><td><a href="/hyperos/ziyi/stable/OS3.0.2.0.VLLTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.VLLTWXM</td><td>15.0</td><td>5.7 GB</td><td>2026-05-27</td><td><a href="/hyperos/ziyi/stable beta/OS3.0.3.0.VLLTWXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.VLLCNXM</td><td>15.0</td><td>7.9 GB</td><td>2026-05-15</td><td><a href="/hyperos/ziyi/stable/OS3.0.4.0.VLLCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.VLLCNXM</td><td>15.0</td><td>6.2 GB</td><td>2026-05-22</td><td><a href="/hyperos/ziyi/stable/OS3.0.4.0.VLLCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 2 / 13 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.VLLEUXM</td><td>15.0</td><td>7.4 GB</td><td>2026-05-15</td><td><a href="/hyperos/ziyi/stable/OS3.0.4.0.VLLEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 2 / 13 Lite EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.VLLEUXM</td><td>15.0</td><td>5.9 GB</td><td>2026-05-22</td><td><a href="/hyperos/ziyi/stable/OS3.0.4.0.VLLEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 2 / 13 Lite Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.VLLMIXM</td><td>15.0</td><td>7.4 GB</td><td>2026-05-15</td><td><a href="/hyperos/ziyi/stable/OS3.0.3.0.VLLMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 2 / 13 Lite Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.VLLMIXM</td><td>15.0</td><td>5.8 GB</td><td>2026-05-26</td><td><a href="/hyperos/ziyi/stable/OS3.0.3.0.VLLMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 2 / 13 Lite Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.VLLRUXM</td><td>15.0</td><td>7.2 GB</td><td>2026-05-15</td><td><a href="/hyperos/ziyi/stable/OS3.0.3.0.VLLRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 2 / 13 Lite Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.VLLRUXM</td><td>15.0</td><td>5.7 GB</td><td>2026-05-26</td><td><a href="/hyperos/ziyi/stable/OS3.0.3.0.VLLRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Lite Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.VLLTRXM</td><td>15.0</td><td>7.1 GB</td><td>2026-05-22</td><td><a href="/hyperos/ziyi/stable/OS3.0.3.0.VLLTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Lite Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.VLLTRXM</td><td>15.0</td><td>5.8 GB</td><td>2026-05-27</td><td><a href="/hyperos/ziyi/stable/OS3.0.3.0.VLLTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.VLLTWXM</td><td>15.0</td><td>7.0 GB</td><td>2026-05-22</td><td><a href="/hyperos/ziyi/stable/OS3.0.3.0.VLLTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.VLLTWXM</td><td>15.0</td><td>5.7 GB</td><td>2026-05-27</td><td><a href="/hyperos/ziyi/stable/OS3.0.3.0.VLLTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

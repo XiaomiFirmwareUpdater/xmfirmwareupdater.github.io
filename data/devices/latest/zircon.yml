@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2026-03-11'
+  date: '2026-06-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-11.03.2026/fw_zircon_zircon_global-ota_full-OS3.0.3.0.WNOMIXM-user-16.0-64f9d977e5.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/zircon/fw_zircon_zircon_global-ota_full-OS3.0.3.0.WNOMIXM-user-16.0-64f9d977e5.zip
-  filename: fw_zircon_zircon_global-ota_full-OS3.0.3.0.WNOMIXM-user-16.0-64f9d977e5.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-02.06.2026/fw_zircon_zircon_global-ota_full-OS3.0.301.0.WNOMIXM-user-16.0-99aa8ed2f7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/zircon/fw_zircon_zircon_global-ota_full-OS3.0.301.0.WNOMIXM-user-16.0-99aa8ed2f7.zip
+  filename: fw_zircon_zircon_global-ota_full-OS3.0.301.0.WNOMIXM-user-16.0-99aa8ed2f7.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.3.0.WNOMIXM
+    miui: OS3.0.301.0.WNOMIXM
 - branch: stable
   date: '2026-04-30'
   downloads:
@@ -29,12 +29,12 @@
     android: '16.0'
     miui: OS3.0.6.0.WNOEUXM
 - branch: stable
-  date: '2026-03-25'
+  date: '2026-06-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-25.03.2026/fw_zircon_zircon_in_global-ota_full-OS3.0.2.0.WNOINXM-user-16.0-7e42d96164.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/zircon/fw_zircon_zircon_in_global-ota_full-OS3.0.2.0.WNOINXM-user-16.0-7e42d96164.zip
-  filename: fw_zircon_zircon_in_global-ota_full-OS3.0.2.0.WNOINXM-user-16.0-7e42d96164.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-02.06.2026/fw_zircon_zircon_in_global-ota_full-OS3.0.3.0.WNOINXM-user-16.0-339bf7babe.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/zircon/fw_zircon_zircon_in_global-ota_full-OS3.0.3.0.WNOINXM-user-16.0-339bf7babe.zip
+  filename: fw_zircon_zircon_in_global-ota_full-OS3.0.3.0.WNOINXM-user-16.0-339bf7babe.zip
   region: India
   versions:
     android: '16.0'
-    miui: OS3.0.2.0.WNOINXM
+    miui: OS3.0.3.0.WNOINXM
