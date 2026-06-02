@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 02 Jun 2026 19:07:18 </lastBuildDate>
+        <lastBuildDate>Wed, 03 Jun 2026 01:30:49 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.301.0.WPLMIXM</title>
@@ -17,8 +17,28 @@
             <pubDate>Tue, 02 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 15S Pro (dijun) - OS3.0.302.0.WODCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dijun/</link>
+            <pubDate>Tue, 02 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS3.0.9.0.VNQCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gold/</link>
+            <pubDate>Tue, 02 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17 Ultra (nezha) - OS3.0.303.0.WPAMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/nezha/</link>
+            <pubDate>Tue, 02 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17 Ultra (nezha) - OS3.0.307.0.WPACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/nezha/</link>
+            <pubDate>Tue, 02 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17 Ultra (nezha) - OS3.0.303.0.WPAEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/nezha/</link>
             <pubDate>Tue, 02 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -697,11 +717,6 @@
             <pubDate>Thu, 07 May 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 17 Ultra (nezha) - OS3.0.306.0.WPACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/nezha/</link>
-            <pubDate>Thu, 07 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 8 Pro (piano) - OS3.0.305.0.WPYCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/piano/</link>
             <pubDate>Thu, 07 May 2026 00:00:00 </pubDate>
@@ -870,16 +885,6 @@
             <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS3.0.307.0.WPRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
             <pubDate>Sun, 03 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17 Ultra (nezha) - OS3.0.302.0.WPAMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/nezha/</link>
-            <pubDate>Sat, 02 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17 Ultra (nezha) - OS3.0.302.0.WPAEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/nezha/</link>
-            <pubDate>Sat, 02 May 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 14 (houji) - OS3.0.301.0.WNCINXM</title>
@@ -1470,11 +1475,6 @@
             <title>Xiaomi 12 Pro (zeus) - OS3.0.2.0.VLBEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Mon, 23 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15S Pro (dijun) - OS3.0.301.0.WODCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dijun/</link>
-            <pubDate>Sun, 22 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.16.0.UCVMIXM</title>

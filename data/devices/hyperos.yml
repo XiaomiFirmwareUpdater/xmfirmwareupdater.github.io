@@ -4906,6 +4906,12 @@
   download: https://bigota.d.miui.com/OS3.0.10.0.WODCNXM/fw_dijun_dijun-ota_full-OS3.0.10.0.WODCNXM-user-16.0-dbc2ec80e0.zip
   name: Xiaomi 15S Pro
   version: OS3.0.10.0.WODCNXM
+- android: '16.0'
+  codename: dijun
+  date: '2026-06-02'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WODCNXM/fw_dijun_dijun-ota_full-OS3.0.302.0.WODCNXM-user-16.0-fe09b446c9.zip
+  name: Xiaomi 15S Pro
+  version: OS3.0.302.0.WODCNXM
 - android: '15.0'
   codename: dijun
   date: '2025-06-03'
@@ -16462,6 +16468,24 @@
   download: https://bigota.d.miui.com/OS3.0.306.0.WPACNXM/fw_nezha_nezha-ota_full-OS3.0.306.0.WPACNXM-user-16.0-dd932b5d96.zip
   name: Xiaomi 17 Ultra
   version: OS3.0.306.0.WPACNXM
+- android: '16.0'
+  codename: nezha
+  date: '2026-06-02'
+  download: https://bigota.d.miui.com/OS3.0.307.0.WPACNXM/fw_nezha_nezha-ota_full-OS3.0.307.0.WPACNXM-user-16.0-f6d7d683f3.zip
+  name: Xiaomi 17 Ultra
+  version: OS3.0.307.0.WPACNXM
+- android: '16.0'
+  codename: nezha
+  date: '2026-06-02'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WPAEUXM/fw_nezha_nezha_eea_global-ota_full-OS3.0.303.0.WPAEUXM-user-16.0-9f75c0f23d.zip
+  name: Xiaomi 17 Ultra
+  version: OS3.0.303.0.WPAEUXM
+- android: '16.0'
+  codename: nezha
+  date: '2026-06-02'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WPAMIXM/fw_nezha_nezha_global-ota_full-OS3.0.303.0.WPAMIXM-user-16.0-be3c9890fa.zip
+  name: Xiaomi 17 Ultra
+  version: OS3.0.303.0.WPAMIXM
 - android: '16.0'
   codename: nezha
   date: '2026-05-02'

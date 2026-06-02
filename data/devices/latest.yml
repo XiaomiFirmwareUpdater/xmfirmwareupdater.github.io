@@ -1639,15 +1639,15 @@
     android: '15.0'
     miui: OS2.0.217.0.VBNEUXM
 - branch: stable
-  date: '2026-03-22'
+  date: '2026-06-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dijun/releases/download/stable-22.03.2026/fw_dijun_dijun-ota_full-OS3.0.301.0.WODCNXM-user-16.0-a98dd5fd0d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dijun/fw_dijun_dijun-ota_full-OS3.0.301.0.WODCNXM-user-16.0-a98dd5fd0d.zip
-  filename: fw_dijun_dijun-ota_full-OS3.0.301.0.WODCNXM-user-16.0-a98dd5fd0d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dijun/releases/download/stable-03.06.2026/fw_dijun_dijun-ota_full-OS3.0.302.0.WODCNXM-user-16.0-fe09b446c9.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dijun/fw_dijun_dijun-ota_full-OS3.0.302.0.WODCNXM-user-16.0-fe09b446c9.zip
+  filename: fw_dijun_dijun-ota_full-OS3.0.302.0.WODCNXM-user-16.0-fe09b446c9.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.301.0.WODCNXM
+    miui: OS3.0.302.0.WODCNXM
 - branch: stable
   date: '2021-12-27'
   downloads:
@@ -4349,35 +4349,35 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2026-05-02'
+  date: '2026-06-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nezha/releases/download/stable-02.05.2026/fw_nezha_nezha_global-ota_full-OS3.0.302.0.WPAMIXM-user-16.0-04df5f1d5d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/nezha/fw_nezha_nezha_global-ota_full-OS3.0.302.0.WPAMIXM-user-16.0-04df5f1d5d.zip
-  filename: fw_nezha_nezha_global-ota_full-OS3.0.302.0.WPAMIXM-user-16.0-04df5f1d5d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nezha/releases/download/stable-03.06.2026/fw_nezha_nezha_global-ota_full-OS3.0.303.0.WPAMIXM-user-16.0-be3c9890fa.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/nezha/fw_nezha_nezha_global-ota_full-OS3.0.303.0.WPAMIXM-user-16.0-be3c9890fa.zip
+  filename: fw_nezha_nezha_global-ota_full-OS3.0.303.0.WPAMIXM-user-16.0-be3c9890fa.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.302.0.WPAMIXM
+    miui: OS3.0.303.0.WPAMIXM
 - branch: stable
-  date: '2026-05-07'
+  date: '2026-06-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nezha/releases/download/stable-07.05.2026/fw_nezha_nezha-ota_full-OS3.0.306.0.WPACNXM-user-16.0-dd932b5d96.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/nezha/fw_nezha_nezha-ota_full-OS3.0.306.0.WPACNXM-user-16.0-dd932b5d96.zip
-  filename: fw_nezha_nezha-ota_full-OS3.0.306.0.WPACNXM-user-16.0-dd932b5d96.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nezha/releases/download/stable-03.06.2026/fw_nezha_nezha-ota_full-OS3.0.307.0.WPACNXM-user-16.0-f6d7d683f3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/nezha/fw_nezha_nezha-ota_full-OS3.0.307.0.WPACNXM-user-16.0-f6d7d683f3.zip
+  filename: fw_nezha_nezha-ota_full-OS3.0.307.0.WPACNXM-user-16.0-f6d7d683f3.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.306.0.WPACNXM
+    miui: OS3.0.307.0.WPACNXM
 - branch: stable
-  date: '2026-05-02'
+  date: '2026-06-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nezha/releases/download/stable-02.05.2026/fw_nezha_nezha_eea_global-ota_full-OS3.0.302.0.WPAEUXM-user-16.0-407628210a.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/nezha/fw_nezha_nezha_eea_global-ota_full-OS3.0.302.0.WPAEUXM-user-16.0-407628210a.zip
-  filename: fw_nezha_nezha_eea_global-ota_full-OS3.0.302.0.WPAEUXM-user-16.0-407628210a.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nezha/releases/download/stable-03.06.2026/fw_nezha_nezha_eea_global-ota_full-OS3.0.303.0.WPAEUXM-user-16.0-9f75c0f23d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/nezha/fw_nezha_nezha_eea_global-ota_full-OS3.0.303.0.WPAEUXM-user-16.0-9f75c0f23d.zip
+  filename: fw_nezha_nezha_eea_global-ota_full-OS3.0.303.0.WPAEUXM-user-16.0-9f75c0f23d.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.302.0.WPAEUXM
+    miui: OS3.0.303.0.WPAEUXM
 - branch: stable
   date: '2020-10-16'
   downloads:
