@@ -4462,6 +4462,18 @@
   download: https://bigota.d.miui.com/OS3.0.10.0.WPLCNXM/fw_dash_dash-ota_full-OS3.0.10.0.WPLCNXM-user-16.0-b62313a48b.zip
   name: Redmi Turbo 5 Max/POCO X8 Pro Max
   version: OS3.0.10.0.WPLCNXM
+- android: '16.0'
+  codename: dash
+  date: '2026-06-02'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WPLEUXM/fw_dash_dash_eea_global-ota_full-OS3.0.301.0.WPLEUXM-user-16.0-1c57ab528b.zip
+  name: Redmi Turbo 5 Max/POCO X8 Pro Max
+  version: OS3.0.301.0.WPLEUXM
+- android: '16.0'
+  codename: dash
+  date: '2026-06-02'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WPLMIXM/fw_dash_dash_global-ota_full-OS3.0.301.0.WPLMIXM-user-16.0-f2ffe862d4.zip
+  name: Redmi Turbo 5 Max/POCO X8 Pro Max
+  version: OS3.0.301.0.WPLMIXM
 - android: '14.0'
   codename: daumier
   date: '2025-02-27'
