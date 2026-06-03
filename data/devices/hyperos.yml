@@ -17730,6 +17730,12 @@
   version: OS3.0.7.0.WBLCNXM
 - android: '16.0'
   codename: pandora
+  date: '2026-06-03'
+  download: https://bigota.d.miui.com/OS3.0.311.0.WBLCNXM/fw_pandora_pandora-ota_full-OS3.0.311.0.WBLCNXM-user-16.0-abbdb7df33.zip
+  name: Xiaomi 17 Pro
+  version: OS3.0.311.0.WBLCNXM
+- android: '16.0'
+  codename: pandora
   date: '2026-02-04'
   download: https://bigota.d.miui.com/OS3.0.41.0.WBLCNXM/fw_pandora_pandora-ota_full-OS3.0.41.0.WBLCNXM-user-16.0-ecea8b094e.zip
   name: Xiaomi 17 Pro
@@ -19492,6 +19498,12 @@
   download: https://bigota.d.miui.com/OS3.0.7.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.7.0.WPBCNXM-user-16.0-91a3c178bd.zip
   name: Xiaomi 17 Pro Max
   version: OS3.0.7.0.WPBCNXM
+- android: '16.0'
+  codename: popsicle
+  date: '2026-06-03'
+  download: https://bigota.d.miui.com/OS3.0.311.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.311.0.WPBCNXM-user-16.0-f41304a135.zip
+  name: Xiaomi 17 Pro Max
+  version: OS3.0.311.0.WPBCNXM
 - android: '16.0'
   codename: prague
   date: '2026-04-30'

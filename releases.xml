@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 03 Jun 2026 18:47:14 </lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 01:05:08 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 17 Pro (pandora) - OS3.0.311.0.WBLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/pandora/</link>
+            <pubDate>Wed, 03 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17 Pro Max (popsicle) - OS3.0.311.0.WPBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/popsicle/</link>
+            <pubDate>Wed, 03 Jun 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Pad SE 8.7 4G (spark) - OS3.0.5.0.WHYEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spark/</link>
@@ -1169,16 +1179,6 @@
         <item>
             <title>Redmi Pad 2 Pro 5G (organ) - OS3.0.5.0.WPXMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/organ/</link>
-            <pubDate>Fri, 17 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17 Pro (pandora) - OS3.0.306.0.WBLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pandora/</link>
-            <pubDate>Fri, 17 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17 Pro Max (popsicle) - OS3.0.306.0.WPBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/popsicle/</link>
             <pubDate>Fri, 17 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>

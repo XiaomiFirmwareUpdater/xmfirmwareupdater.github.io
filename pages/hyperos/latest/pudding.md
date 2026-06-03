@@ -52,9 +52,9 @@ permalink: /hyperos/pudding/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 17 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.306.0.WPCCNXM</td><td>16.0</td><td>11.5 GB</td><td>2026-04-07</td><td><a href="/hyperos/pudding/stable/OS3.0.306.0.WPCCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 17 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WPCCNXM</td><td>16.0</td><td>8.1 GB</td><td>2026-04-14</td><td><a href="/hyperos/pudding/stable/OS3.0.306.0.WPCCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 17 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WPCCNXM</td><td>16.0</td><td>7.5 GB</td><td>2025-09-26</td><td><a href="/hyperos/pudding/stable beta/OS3.0.3.0.WPCCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 17 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.311.0.WPCCNXM</td><td>16.0</td><td>11.5 GB</td><td>2026-05-27</td><td><a href="/hyperos/pudding/stable/OS3.0.311.0.WPCCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.311.0.WPCCNXM</td><td>16.0</td><td>8.1 GB</td><td>2026-05-27</td><td><a href="/hyperos/pudding/stable/OS3.0.311.0.WPCCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.313.0.WPCCNXM</td><td>16.0</td><td>8.1 GB</td><td>2026-05-30</td><td><a href="/hyperos/pudding/stable beta/OS3.0.313.0.WPCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WPCEUXM</td><td>16.0</td><td>9.6 GB</td><td>2026-04-27</td><td><a href="/hyperos/pudding/stable/OS3.0.302.0.WPCEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WPCEUXM</td><td>16.0</td><td>8.1 GB</td><td>2026-05-12</td><td><a href="/hyperos/pudding/stable/OS3.0.302.0.WPCEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.10.0.WPCEUXM</td><td>16.0</td><td>7.8 GB</td><td>2026-02-05</td><td><a href="/hyperos/pudding/stable beta/OS3.0.10.0.WPCEUXM/">Download</a></td></tr>
