@@ -62,10 +62,10 @@ permalink: /hyperos/spring/
 <tr><td>Redmi 15 5G / POCO M7 Plus 5G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WOUINXM</td><td>16.0</td><td>4.7 GB</td><td>2026-04-15</td><td><a href="/hyperos/spring/stable/OS3.0.1.0.WOUINXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / POCO M7 Plus 5G Japan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VOUJPXM</td><td>15.0</td><td>7.2 GB</td><td>2026-01-05</td><td><a href="/hyperos/spring/stable/OS2.0.203.0.VOUJPXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / POCO M7 Plus 5G Japan</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VOUJPXM</td><td>15.0</td><td>4.7 GB</td><td>2026-01-14</td><td><a href="/hyperos/spring/stable/OS2.0.203.0.VOUJPXM/">Download</a></td></tr>
-<tr><td>Redmi 15 5G / POCO M7 Plus 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VOUTWXM</td><td>15.0</td><td>5.7 GB</td><td>2026-03-27</td><td><a href="/hyperos/spring/stable/OS2.0.203.0.VOUTWXM/">Download</a></td></tr>
-<tr><td>Redmi 15 5G / POCO M7 Plus 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VOUTWXM</td><td>15.0</td><td>4.6 GB</td><td>2026-04-07</td><td><a href="/hyperos/spring/stable/OS2.0.203.0.VOUTWXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / POCO M7 Plus 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WOUTRXM</td><td>16.0</td><td>7.3 GB</td><td>2026-03-26</td><td><a href="/hyperos/spring/stable/OS3.0.1.0.WOUTRXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / POCO M7 Plus 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WOUTRXM</td><td>16.0</td><td>4.9 GB</td><td>2026-04-14</td><td><a href="/hyperos/spring/stable/OS3.0.1.0.WOUTRXM/">Download</a></td></tr>
+<tr><td>Redmi 15 5G / POCO M7 Plus 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WOUTWXM</td><td>16.0</td><td>5.9 GB</td><td>2026-05-15</td><td><a href="/hyperos/spring/stable/OS3.0.6.0.WOUTWXM/">Download</a></td></tr>
+<tr><td>Redmi 15 5G / POCO M7 Plus 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WOUTWXM</td><td>16.0</td><td>4.8 GB</td><td>2026-05-25</td><td><a href="/hyperos/spring/stable/OS3.0.6.0.WOUTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

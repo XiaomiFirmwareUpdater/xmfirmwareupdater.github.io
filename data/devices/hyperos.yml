@@ -24462,6 +24462,12 @@
   version: OS2.0.203.0.VHYMIXM
 - android: '16.0'
   codename: spark
+  date: '2026-06-03'
+  download: https://bigota.d.miui.com/OS3.0.5.0.WHYEUXM/fw_spark_spark_eea_global-ota_full-OS3.0.5.0.WHYEUXM-user-16.0-3518092a3a.zip
+  name: Redmi Pad SE 8.7 4G
+  version: OS3.0.5.0.WHYEUXM
+- android: '16.0'
+  codename: spark
   date: '2026-03-02'
   download: https://bigota.d.miui.com/OS3.0.3.0.WHYEUXM/fw_spark_spark_eea_global-ota_full-OS3.0.3.0.WHYEUXM-user-16.0-b9fa4272ee.zip
   name: Redmi Pad SE 8.7 4G
@@ -26512,6 +26518,12 @@
   download: https://bigota.d.miui.com/OS3.0.2.0.WPOINXM/fw_tornado_tornado_in_global-ota_full-OS3.0.2.0.WPOINXM-user-16.0-6a26a8fd42.zip
   name: Redmi 15C 5G/15R 5G/POCO C85 5G
   version: OS3.0.2.0.WPOINXM
+- android: '16.0'
+  codename: tornado
+  date: '2026-06-03'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WPOMIXM/fw_tornado_tornado_global-ota_full-OS3.0.301.0.WPOMIXM-user-16.0-d5e616db1f.zip
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  version: OS3.0.301.0.WPOMIXM
 - android: '15.0'
   codename: tornado
   date: '2025-12-01'
