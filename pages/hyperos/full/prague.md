@@ -52,7 +52,9 @@ permalink: /archive/hyperos/prague/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K90 Max China</td><td>Stable</td><td>Recovery</td><td>OS3.0.310.0.WAACNXM</td><td>16.0</td><td>8.6 GB</td><td>2026-05-07</td><td><a href="/hyperos/prague/stable/OS3.0.310.0.WAACNXM/">Download</a></td></tr>
+                <tr><td>Redmi K90 Max China</td><td>Stable</td><td>Recovery</td><td>OS3.0.311.0.WAACNXM</td><td>16.0</td><td>8.6 GB</td><td>2026-05-25</td><td><a href="/hyperos/prague/stable/OS3.0.311.0.WAACNXM/">Download</a></td></tr>
+<tr><td>Redmi K90 Max China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.311.0.WAACNXM</td><td>16.0</td><td>13.7 GB</td><td>2026-05-19</td><td><a href="/hyperos/prague/stable/OS3.0.311.0.WAACNXM/">Download</a></td></tr>
+<tr><td>Redmi K90 Max China</td><td>Stable</td><td>Recovery</td><td>OS3.0.310.0.WAACNXM</td><td>16.0</td><td>8.6 GB</td><td>2026-05-07</td><td><a href="/hyperos/prague/stable/OS3.0.310.0.WAACNXM/">Download</a></td></tr>
 <tr><td>Redmi K90 Max China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.310.0.WAACNXM</td><td>16.0</td><td>13.7 GB</td><td>2026-05-06</td><td><a href="/hyperos/prague/stable/OS3.0.310.0.WAACNXM/">Download</a></td></tr>
 <tr><td>Redmi K90 Max China</td><td>Stable</td><td>Recovery</td><td>OS3.0.308.0.WAACNXM</td><td>16.0</td><td>8.6 GB</td><td>2026-04-23</td><td><a href="/hyperos/prague/stable/OS3.0.308.0.WAACNXM/">Download</a></td></tr>
 <tr><td>Redmi K90 Max China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.308.0.WAACNXM</td><td>16.0</td><td>13.7 GB</td><td>2026-04-22</td><td><a href="/hyperos/prague/stable/OS3.0.308.0.WAACNXM/">Download</a></td></tr>

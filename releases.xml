@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 04 Jun 2026 12:43:42 </lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 19:01:30 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 17 (pudding) - OS3.0.313.0.WPCCNXM</title>
@@ -14,6 +14,16 @@
         <item>
             <title>Xiaomi 12S Ultra (thor) - OS3.0.6.0.VLACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/thor/</link>
+            <pubDate>Thu, 04 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 6 Max 14 (yudi) - OS3.0.5.0.VMHCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/yudi/</link>
+            <pubDate>Thu, 04 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - OS3.0.3.0.VLBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Thu, 04 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1322,11 +1332,6 @@
             <pubDate>Tue, 07 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 6 Max 14 (yudi) - OS3.0.4.0.VMHCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/yudi/</link>
-            <pubDate>Tue, 07 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS3.0.301.0.WPWCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flute/</link>
             <pubDate>Fri, 03 Apr 2026 00:00:00 </pubDate>
@@ -1580,11 +1585,6 @@
             <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS2.0.15.0.UMSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/redwood/</link>
             <pubDate>Mon, 26 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12 Pro (zeus) - OS3.0.2.0.VLBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Thu, 22 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - OS2.0.14.0.UMSEUXM</title>

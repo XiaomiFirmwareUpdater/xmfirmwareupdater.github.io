@@ -29411,6 +29411,12 @@
   name: Xiaomi Pad 6 Max 14
   version: OS3.0.3.0.VMHCNXM
 - android: '15.0'
+  codename: yudi
+  date: '2026-06-04'
+  download: https://bigota.d.miui.com/OS3.0.5.0.VMHCNXM/fw_yudi_yudi-ota_full-OS3.0.5.0.VMHCNXM-user-15.0-af8d2c5384.zip
+  name: Xiaomi Pad 6 Max 14
+  version: OS3.0.5.0.VMHCNXM
+- android: '15.0'
   codename: yuechu
   date: '2025-10-29'
   download: https://bigota.d.miui.com/OS2.0.207.0.VMICNXM/fw_yuechu_yuechu-ota_full-OS2.0.207.0.VMICNXM-user-15.0-dd82e46b91.zip
@@ -30286,6 +30292,12 @@
   download: https://bigota.d.miui.com/OS2.0.209.0.VLBMIXM/fw_zeus_zeus_global-ota_full-OS2.0.209.0.VLBMIXM-user-15.0-ad03b11299.zip
   name: Xiaomi 12 Pro
   version: OS2.0.209.0.VLBMIXM
+- android: '15.0'
+  codename: zeus
+  date: '2026-06-04'
+  download: https://bigota.d.miui.com/OS3.0.3.0.VLBCNXM/fw_zeus_zeus-ota_full-OS3.0.3.0.VLBCNXM-user-15.0-b4852ba809.zip
+  name: Xiaomi 12 Pro
+  version: OS3.0.3.0.VLBCNXM
 - android: '14.0'
   codename: zeus
   date: '2024-02-04'
