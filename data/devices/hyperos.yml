@@ -19758,6 +19758,12 @@
   version: OS3.0.16.0.WPCCNXM
 - android: '16.0'
   codename: pudding
+  date: '2026-06-04'
+  download: https://bigota.d.miui.com/OS3.0.313.0.WPCCNXM/fw_pudding_pudding-ota_full-OS3.0.313.0.WPCCNXM-user-16.0-0d94b53220.zip
+  name: Xiaomi 17
+  version: OS3.0.313.0.WPCCNXM
+- android: '16.0'
+  codename: pudding
   date: '2026-02-28'
   download: https://bigota.d.miui.com/OS3.0.12.0.WPCEUXM/fw_pudding_pudding_eea_global-ota_full-OS3.0.12.0.WPCEUXM-user-16.0-c3a6dca17c.zip
   name: Xiaomi 17
@@ -26188,6 +26194,12 @@
   download: https://bigota.d.miui.com/OS2.0.206.0.VLACNXM/fw_thor_thor-ota_full-OS2.0.206.0.VLACNXM-user-15.0-eb02c64960.zip
   name: Xiaomi 12S Ultra
   version: OS2.0.206.0.VLACNXM
+- android: '15.0'
+  codename: thor
+  date: '2026-06-04'
+  download: https://bigota.d.miui.com/OS3.0.6.0.VLACNXM/fw_thor_thor-ota_full-OS3.0.6.0.VLACNXM-user-15.0-3d1fc60ad4.zip
+  name: Xiaomi 12S Ultra
+  version: OS3.0.6.0.VLACNXM
 - android: '14.0'
   codename: thor
   date: '2024-08-03'

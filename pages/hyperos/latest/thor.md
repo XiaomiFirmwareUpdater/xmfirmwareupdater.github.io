@@ -52,8 +52,8 @@ permalink: /hyperos/thor/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12S Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.VLACNXM</td><td>15.0</td><td>8.0 GB</td><td>2026-03-19</td><td><a href="/hyperos/thor/stable/OS3.0.5.0.VLACNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12S Ultra China</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.VLACNXM</td><td>15.0</td><td>6.5 GB</td><td>2026-03-23</td><td><a href="/hyperos/thor/stable/OS3.0.5.0.VLACNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12S Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.VLACNXM</td><td>15.0</td><td>8.0 GB</td><td>2026-05-20</td><td><a href="/hyperos/thor/stable/OS3.0.6.0.VLACNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12S Ultra China</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.VLACNXM</td><td>15.0</td><td>6.5 GB</td><td>2026-05-26</td><td><a href="/hyperos/thor/stable/OS3.0.6.0.VLACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Ultra China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>6.0 GB</td><td>2024-01-12</td><td><a href="/hyperos/thor/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.1.0.VLACNXM</td><td>15.0</td><td>6.3 GB</td><td>2025-01-24</td><td><a href="/hyperos/thor/stable beta/OS2.0.1.0.VLACNXM/">Download</a></td></tr>
 

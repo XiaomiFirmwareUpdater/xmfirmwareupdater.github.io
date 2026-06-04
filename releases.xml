@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 04 Jun 2026 01:05:08 </lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 07:02:27 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 17 (pudding) - OS3.0.313.0.WPCCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/pudding/</link>
+            <pubDate>Thu, 04 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12S Ultra (thor) - OS3.0.6.0.VLACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/thor/</link>
+            <pubDate>Thu, 04 Jun 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 17 Pro (pandora) - OS3.0.311.0.WBLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pandora/</link>
@@ -1182,11 +1192,6 @@
             <pubDate>Fri, 17 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 17 (pudding) - OS3.0.306.0.WPCCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pudding/</link>
-            <pubDate>Fri, 17 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS3.0.302.0.WOJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
             <pubDate>Fri, 17 Apr 2026 00:00:00 </pubDate>
@@ -1399,11 +1404,6 @@
         <item>
             <title>Redmi K90 Pro Max/POCO F8 Ultra (myron) - OS3.0.13.0.WPMMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/myron/</link>
-            <pubDate>Mon, 30 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 12S Ultra (thor) - OS3.0.5.0.VLACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/thor/</link>
             <pubDate>Mon, 30 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
