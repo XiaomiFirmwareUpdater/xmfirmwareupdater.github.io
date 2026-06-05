@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 05 Jun 2026 00:41:39 </lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 07:13:57 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 15 Pro (haotian) - OS3.0.304.0.WOBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/haotian/</link>
+            <pubDate>Fri, 05 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad 2 Pro 5G (organ) - OS3.0.303.0.WPXCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/organ/</link>
+            <pubDate>Fri, 05 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K90 Max (prague) - OS3.0.311.0.WAACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/prague/</link>
+            <pubDate>Fri, 05 Jun 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 17 (pudding) - OS3.0.313.0.WPCCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pudding/</link>
@@ -439,11 +454,6 @@
         <item>
             <title>Redmi 13/POCO M6 (moon) - OS3.0.301.0.WNTMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moon/</link>
-            <pubDate>Tue, 19 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K90 Max (prague) - OS3.0.310.0.WAACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/prague/</link>
             <pubDate>Tue, 19 May 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -952,11 +962,6 @@
             <pubDate>Thu, 30 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad 2 Pro 5G (organ) - OS3.0.302.0.WPXCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/organ/</link>
-            <pubDate>Thu, 30 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Turbo 3/POCO F6 (peridot) - OS3.0.303.0.WNPCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
             <pubDate>Thu, 30 Apr 2026 00:00:00 </pubDate>
@@ -1124,11 +1129,6 @@
         <item>
             <title>Redmi Note 15 Pro 4G (charoite) - OS3.0.1.0.WPFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/charoite/</link>
-            <pubDate>Mon, 20 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 Pro (haotian) - OS3.0.302.0.WOBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/haotian/</link>
             <pubDate>Mon, 20 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>

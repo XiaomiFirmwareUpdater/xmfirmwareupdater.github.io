@@ -2649,15 +2649,15 @@
     android: '16.0'
     miui: OS3.0.302.0.WDNEUXM
 - branch: stable
-  date: '2026-04-20'
+  date: '2026-06-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haotian/releases/download/stable-20.04.2026/fw_haotian_haotian-ota_full-OS3.0.302.0.WOBCNXM-user-16.0-20549d37f4.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/haotian/fw_haotian_haotian-ota_full-OS3.0.302.0.WOBCNXM-user-16.0-20549d37f4.zip
-  filename: fw_haotian_haotian-ota_full-OS3.0.302.0.WOBCNXM-user-16.0-20549d37f4.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haotian/releases/download/stable-05.06.2026/fw_haotian_haotian-ota_full-OS3.0.304.0.WOBCNXM-user-16.0-8a448bc623.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/haotian/fw_haotian_haotian-ota_full-OS3.0.304.0.WOBCNXM-user-16.0-8a448bc623.zip
+  filename: fw_haotian_haotian-ota_full-OS3.0.304.0.WOBCNXM-user-16.0-8a448bc623.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.302.0.WOBCNXM
+    miui: OS3.0.304.0.WOBCNXM
 - branch: stable
   date: '2025-04-10'
   downloads:
@@ -4709,15 +4709,15 @@
     android: '16.0'
     miui: OS3.0.5.0.WPXMIXM
 - branch: stable
-  date: '2026-04-30'
+  date: '2026-06-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_organ/releases/download/stable-01.05.2026/fw_organ_organ-ota_full-OS3.0.302.0.WPXCNXM-user-16.0-c7caa4ba80.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/organ/fw_organ_organ-ota_full-OS3.0.302.0.WPXCNXM-user-16.0-c7caa4ba80.zip
-  filename: fw_organ_organ-ota_full-OS3.0.302.0.WPXCNXM-user-16.0-c7caa4ba80.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_organ/releases/download/stable-05.06.2026/fw_organ_organ-ota_full-OS3.0.303.0.WPXCNXM-user-16.0-8894e2c12f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/organ/fw_organ_organ-ota_full-OS3.0.303.0.WPXCNXM-user-16.0-8894e2c12f.zip
+  filename: fw_organ_organ-ota_full-OS3.0.303.0.WPXCNXM-user-16.0-8894e2c12f.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.302.0.WPXCNXM
+    miui: OS3.0.303.0.WPXCNXM
 - branch: stable
   date: '2026-06-02'
   downloads:
@@ -5219,15 +5219,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2026-05-19'
+  date: '2026-06-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_prague/releases/download/stable-19.05.2026/fw_prague_prague-ota_full-OS3.0.310.0.WAACNXM-user-16.0-7d0c9b89aa.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/prague/fw_prague_prague-ota_full-OS3.0.310.0.WAACNXM-user-16.0-7d0c9b89aa.zip
-  filename: fw_prague_prague-ota_full-OS3.0.310.0.WAACNXM-user-16.0-7d0c9b89aa.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_prague/releases/download/stable-05.06.2026/fw_prague_prague-ota_full-OS3.0.311.0.WAACNXM-user-16.0-768b50adb7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/prague/fw_prague_prague-ota_full-OS3.0.311.0.WAACNXM-user-16.0-768b50adb7.zip
+  filename: fw_prague_prague-ota_full-OS3.0.311.0.WAACNXM-user-16.0-768b50adb7.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.310.0.WAACNXM
+    miui: OS3.0.311.0.WAACNXM
 - branch: stable
   date: '2024-12-16'
   downloads:

@@ -52,7 +52,8 @@ permalink: /archive/hyperos/haotian/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOBCNXM</td><td>16.0</td><td>8.6 GB</td><td>2026-04-17</td><td><a href="/hyperos/haotian/stable/OS3.0.302.0.WOBCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 15 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.304.0.WOBCNXM</td><td>16.0</td><td>8.6 GB</td><td>2026-06-01</td><td><a href="/hyperos/haotian/stable beta/OS3.0.304.0.WOBCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOBCNXM</td><td>16.0</td><td>8.6 GB</td><td>2026-04-17</td><td><a href="/hyperos/haotian/stable/OS3.0.302.0.WOBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOBCNXM</td><td>16.0</td><td>12.2 GB</td><td>2026-04-07</td><td><a href="/hyperos/haotian/stable/OS3.0.302.0.WOBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WOBCNXM</td><td>16.0</td><td>8.5 GB</td><td>2026-03-18</td><td><a href="/hyperos/haotian/stable/OS3.0.301.0.WOBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WOBCNXM</td><td>16.0</td><td>12.2 GB</td><td>2026-03-10</td><td><a href="/hyperos/haotian/stable/OS3.0.301.0.WOBCNXM/">Download</a></td></tr>
