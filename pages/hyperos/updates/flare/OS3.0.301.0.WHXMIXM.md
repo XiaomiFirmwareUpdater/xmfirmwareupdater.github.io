@@ -3,7 +3,7 @@ title: Redmi Pad SE 8.7 5G Global HyperOS OS3.0.301.0.WHXMIXM Update
 layout: download
 name: Redmi Pad SE 8.7 5G Global
 codename: flare
-permalink: /hyperos/flare/stable beta/OS3.0.301.0.WHXMIXM/
+permalink: /hyperos/flare/stable/OS3.0.301.0.WHXMIXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/flare/stable beta/OS3.0.301.0.WHXMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.301.0.WHXMIXM Stable Beta Official Update for Redmi Pad SE 8.7 5G Global (flare)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.301.0.WHXMIXM Stable Official Update for Redmi Pad SE 8.7 5G Global (flare)</h3>
     <h5>This page shows the OS3.0.301.0.WHXMIXM update only. If you're looking for other updates check
         <a href="/hyperos/flare/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/flare/stable beta/OS3.0.301.0.WHXMIXM/
                     <h5><b>Version: </b>OS3.0.301.0.WHXMIXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/flare/stable beta/OS3.0.301.0.WHXMIXM/
                             aria-expanded="false" aria-controls="flare_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="flare_1_changelog">
+                        <p id="changelog_text">[Xiaomi HyperIsland]<br>New: View all the important info at a glance with Xiaomi HyperIsland<br>New: Now you can pull down to expand small windows and handle multiple tasks more efficiently<br>[Comprehensive system app optimization]<br>Calendar:<br>Optimization: Holiday display in Calendar, with more traditional festivals and historical commemorative days<br>Fix: An issue where dates displayed incorrectly in some cases<br>   <br>Other improvements:<br>New: The option to tap the status bar to return to the top of the page in some apps and scenarios<br>Optimization: Visual feedback when you adjust screen brightness with the keyboard<br>Optimization: Mi Mover now supports transferring more data, including some settings and user data from system apps<br>Optimization: Home screen grid has been redesigned with more balanced margins and more comfortable spacing<br>Optimization: Gallery search animations for smoother transitions<br>Fix: An issue where macOS compressed files didn't display properly in File Manager in some cases<br>Fix: Stuttering when loading multilingual screenshot thumbnails in some cases<br>[Interconnectivity]<br>New: Xiaomi tablets now support AirPods, including fast pair pop-ups, battery status, Spatial Audio, noise cancellation switching, and Find My<br>[Privacy and security]<br>New: More system apps now support Private access, with ongoing compatibility improvements for additional apps<br>Optimization: Updated "Fingerprints, face data, and screen lock" page layout for easier, faster setup</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi Pad SE 8.7 5G Global</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/flare/" target="_blank">flare</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS3.0.301.0.WHXMIXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>6.0 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2026-05-14</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">flare_global_images_OS3.0.301.0.WHXMIXM_20260514.0000.00_16.0_global_4f095a610e.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">4f095a610e0cf6c1cf046a4ae88dadb2</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.301.0.WHXMIXM/flare_global_images_OS3.0.301.0.WHXMIXM_20260514.0000.00_16.0_global_4f095a610e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WHXMIXM/flare_global_images_OS3.0.301.0.WHXMIXM_20260514.0000.00_16.0_global_4f095a610e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.301.0.WHXMIXM/flare_global_images_OS3.0.301.0.WHXMIXM_20260514.0000.00_16.0_global_4f095a610e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.301.0.WHXMIXM/flare_global_images_OS3.0.301.0.WHXMIXM_20260514.0000.00_16.0_global_4f095a610e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.301.0.WHXMIXM/flare_global_images_OS3.0.301.0.WHXMIXM_20260514.0000.00_16.0_global_4f095a610e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#flare_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="flare_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="flare_2_changelog">
                         <p id="changelog_text">[Xiaomi HyperIsland]<br>New: View all the important info at a glance with Xiaomi HyperIsland<br>New: Now you can pull down to expand small windows and handle multiple tasks more efficiently<br>[Comprehensive system app optimization]<br>Calendar:<br>Optimization: Holiday display in Calendar, with more traditional festivals and historical commemorative days<br>Fix: An issue where dates displayed incorrectly in some cases<br>   <br>Other improvements:<br>New: The option to tap the status bar to return to the top of the page in some apps and scenarios<br>Optimization: Visual feedback when you adjust screen brightness with the keyboard<br>Optimization: Mi Mover now supports transferring more data, including some settings and user data from system apps<br>Optimization: Home screen grid has been redesigned with more balanced margins and more comfortable spacing<br>Optimization: Gallery search animations for smoother transitions<br>Fix: An issue where macOS compressed files didn't display properly in File Manager in some cases<br>Fix: Stuttering when loading multilingual screenshot thumbnails in some cases<br>[Interconnectivity]<br>New: Xiaomi tablets now support AirPods, including fast pair pop-ups, battery status, Spatial Audio, noise cancellation switching, and Find My<br>[Privacy and security]<br>New: More system apps now support Private access, with ongoing compatibility improvements for additional apps<br>Optimization: Updated "Fingerprints, face data, and screen lock" page layout for easier, faster setup</p>
                     </div>
                 </li>

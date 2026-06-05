@@ -9,15 +9,15 @@
     android: '16.0'
     miui: OS3.0.3.0.WPWMIXM
 - branch: stable
-  date: '2026-04-03'
+  date: '2026-06-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flute/releases/download/stable-03.04.2026/fw_flute_flute-ota_full-OS3.0.301.0.WPWCNXM-user-16.0-e36bdf7b22.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/flute/fw_flute_flute-ota_full-OS3.0.301.0.WPWCNXM-user-16.0-e36bdf7b22.zip
-  filename: fw_flute_flute-ota_full-OS3.0.301.0.WPWCNXM-user-16.0-e36bdf7b22.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flute/releases/download/stable-05.06.2026/fw_flute_flute-ota_full-OS3.0.305.0.WPWCNXM-user-16.0-d49e716941.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/flute/fw_flute_flute-ota_full-OS3.0.305.0.WPWCNXM-user-16.0-d49e716941.zip
+  filename: fw_flute_flute-ota_full-OS3.0.305.0.WPWCNXM-user-16.0-d49e716941.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.301.0.WPWCNXM
+    miui: OS3.0.305.0.WPWCNXM
 - branch: stable
   date: '2026-05-18'
   downloads:

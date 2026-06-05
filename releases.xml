@@ -4,11 +4,36 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 05 Jun 2026 07:13:57 </lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 13:37:16 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K80 Ultra (dali) - OS3.0.302.0.WONCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dali/</link>
+            <pubDate>Fri, 05 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.301.0.WNSMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
+            <pubDate>Fri, 05 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS3.0.301.0.WGUINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flame/</link>
+            <pubDate>Fri, 05 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS3.0.305.0.WPWCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flute/</link>
+            <pubDate>Fri, 05 Jun 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 15 Pro (haotian) - OS3.0.304.0.WOBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/haotian/</link>
+            <pubDate>Fri, 05 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15T Pro (klimt) - OS3.0.303.0.WOSEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
             <pubDate>Fri, 05 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -797,11 +822,6 @@
             <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.4.0.WNSMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
-            <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.304.0.WNSCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
             <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
@@ -1167,11 +1187,6 @@
             <pubDate>Mon, 20 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS3.0.6.0.WGUINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flame/</link>
-            <pubDate>Fri, 17 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS3.0.3.0.WPWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flute/</link>
             <pubDate>Fri, 17 Apr 2026 00:00:00 </pubDate>
@@ -1317,11 +1332,6 @@
             <pubDate>Tue, 07 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 15T Pro (klimt) - OS3.0.302.0.WOSEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
-            <pubDate>Tue, 07 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 NFC (sapphiren) - OS2.0.209.0.VNHMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
             <pubDate>Tue, 07 Apr 2026 00:00:00 </pubDate>
@@ -1332,18 +1342,8 @@
             <pubDate>Tue, 07 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS3.0.301.0.WPWCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flute/</link>
-            <pubDate>Fri, 03 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.208.0.VGQCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
-            <pubDate>Thu, 02 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K80 Ultra (dali) - OS3.0.301.0.WONCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dali/</link>
             <pubDate>Thu, 02 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
