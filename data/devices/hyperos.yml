@@ -13674,6 +13674,18 @@
   version: OS1.0.9.0.UOOMIXM
 - android: '16.0'
   codename: malachite
+  date: '2026-06-05'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WOOEUXM/fw_malachite_malachite_eea_global-ota_full-OS3.0.301.0.WOOEUXM-user-16.0-9b036fac66.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS3.0.301.0.WOOEUXM
+- android: '16.0'
+  codename: malachite
+  date: '2026-06-05'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WOOINXM/fw_malachite_malachite_in_global-ota_full-OS3.0.301.0.WOOINXM-user-16.0-40b423397f.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS3.0.301.0.WOOINXM
+- android: '16.0'
+  codename: malachite
   date: '2026-02-04'
   download: https://bigota.d.miui.com/OS3.0.3.0.WOOINXM/fw_malachite_malachite_in_global-ota_full-OS3.0.3.0.WOOINXM-user-16.0-4fc3d37c01.zip
   name: Redmi Note 14 Pro 5G/POCO X7
@@ -14284,6 +14296,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UMREUXM/fw_marble_miui_MARBLEEEAGlobal_OS1.0.9.0.UMREUXM_fdaf5c8f41_14.0.zip
   name: Redmi Note 12 Turbo/POCO F5
   version: OS1.0.9.0.UMREUXM
+- android: '15.0'
+  codename: marble
+  date: '2026-06-05'
+  download: https://bigota.d.miui.com/OS3.0.4.0.VMREUXM/fw_marble_marble_eea_global-ota_full-OS3.0.4.0.VMREUXM-user-15.0-16bec2f9e5.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: OS3.0.4.0.VMREUXM
 - android: '14.0'
   codename: marble
   date: '2024-11-04'
@@ -17026,6 +17044,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UMBINXM/fw_nuwa_miui_NUWAINGlobal_OS1.0.12.0.UMBINXM_db225d852a_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.12.0.UMBINXM
+- android: '16.0'
+  codename: nuwa
+  date: '2026-06-05'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WMBMIXM/fw_nuwa_nuwa_global-ota_full-OS3.0.301.0.WMBMIXM-user-16.0-e4d7063cf8.zip
+  name: Xiaomi 13 Pro
+  version: OS3.0.301.0.WMBMIXM
 - android: '14.0'
   codename: nuwa
   date: '2024-12-04'
@@ -18382,6 +18406,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UNPMIXM/fw_peridot_miui_PERIDOTGlobal_OS1.0.10.0.UNPMIXM_e91a581e37_14.0.zip
   name: Redmi Turbo 3/POCO F6
   version: OS1.0.10.0.UNPMIXM
+- android: '16.0'
+  codename: peridot
+  date: '2026-06-05'
+  download: https://bigota.d.miui.com/OS3.0.6.0.WNPEUXM/fw_peridot_peridot_eea_global-ota_full-OS3.0.6.0.WNPEUXM-user-16.0-8c48c02d88.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS3.0.6.0.WNPEUXM
 - android: '14.0'
   codename: peridot
   date: '2024-11-04'
@@ -24826,6 +24856,12 @@
   download: https://bigota.d.miui.com/OS2.0.205.0.VOUINXM/fw_spring_spring_in_global-ota_full-OS2.0.205.0.VOUINXM-user-15.0-393bf7ce73.zip
   name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS2.0.205.0.VOUINXM
+- android: '16.0'
+  codename: spring
+  date: '2026-06-05'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WOUMIXM/fw_spring_spring_global-ota_full-OS3.0.302.0.WOUMIXM-user-16.0-3aa5e706b1.zip
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
+  version: OS3.0.302.0.WOUMIXM
 - android: '15.0'
   codename: spring
   date: '2026-02-05'
@@ -26590,6 +26626,12 @@
   download: https://bigota.d.miui.com/OS3.0.2.0.WPOINXM/fw_tornado_tornado_in_global-ota_full-OS3.0.2.0.WPOINXM-user-16.0-6a26a8fd42.zip
   name: Redmi 15C 5G/15R 5G/POCO C85 5G
   version: OS3.0.2.0.WPOINXM
+- android: '15.0'
+  codename: tornado
+  date: '2026-06-05'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VPOEUXM/fw_tornado_tornado_eea_global-ota_full-OS2.0.209.0.VPOEUXM-user-15.0-bbc6918c8e.zip
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  version: OS2.0.209.0.VPOEUXM
 - android: '16.0'
   codename: tornado
   date: '2026-06-03'
