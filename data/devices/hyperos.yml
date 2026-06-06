@@ -8434,6 +8434,12 @@
   download: https://bigota.d.miui.com/OS2.0.111.0.VMCEUXM/fw_fuxi_eea_global_fuxi_eea_global-ota_full-OS2.0.111.0.VMCEUXM-user-15.0-3cf6de6ba2.zip
   name: Xiaomi 13
   version: OS2.0.111.0.VMCEUXM
+- android: '16.0'
+  codename: fuxi
+  date: '2026-06-06'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WMCMIXM/fw_fuxi_fuxi_global-ota_full-OS3.0.303.0.WMCMIXM-user-16.0-5db9239cee.zip
+  name: Xiaomi 13
+  version: OS3.0.303.0.WMCMIXM
 - android: '15.0'
   codename: fuxi
   date: '2025-04-06'

@@ -3,7 +3,7 @@ title: POCO X8 Pro EEA HyperOS OS3.0.301.0.WPJEUXM Update
 layout: download
 name: POCO X8 Pro EEA
 codename: klee
-permalink: /hyperos/klee/stable beta/OS3.0.301.0.WPJEUXM/
+permalink: /hyperos/klee/stable/OS3.0.301.0.WPJEUXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/klee/stable beta/OS3.0.301.0.WPJEUXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.301.0.WPJEUXM Stable Beta Official Update for POCO X8 Pro EEA (klee)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.301.0.WPJEUXM Stable Official Update for POCO X8 Pro EEA (klee)</h3>
     <h5>This page shows the OS3.0.301.0.WPJEUXM update only. If you're looking for other updates check
         <a href="/hyperos/klee/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/klee/stable beta/OS3.0.301.0.WPJEUXM/
                     <h5><b>Version: </b>OS3.0.301.0.WPJEUXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/klee/stable beta/OS3.0.301.0.WPJEUXM/
                             aria-expanded="false" aria-controls="klee_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="klee_1_changelog">
+                        <p id="changelog_text">[Comprehensive system app optimization]<br>Camera:<br>Optimization: Added a preset management page and support for bulk import/export of preset parameters for Pro mode<br> <br>Recorder:<br>Fix: An occasional recording error during long recordings<br>Fix: Duplicate recording entries in some cases<br>  <br>Calendar:<br>Optimization: Holiday display in Calendar, with more traditional festivals and historical commemorative days<br>Fix: An issue where dates displayed incorrectly in some cases<br>   <br>Other improvements:<br>New: Clarity mode brings together text and icon size, ringtone volume, scam call blocking, and other phone settings<br>New: The option to tap the status bar to return to the top of the page in some apps and scenarios<br>Optimization: Mi Mover now supports transferring more data, including some settings and user data from system apps<br>Optimization: Gallery search animations for smoother transitions<br>Fix: An issue where macOS compressed files didn't display properly in File Manager in some cases<br>Fix: Stuttering when loading multilingual screenshot thumbnails in some cases<br>[Interconnectivity]<br>New: Tap the NFC area on your Xiaomi phone or iPhone to quickly share recordings and notes<br>New: Xiaomi phones now support AirPods, including fast pair pop-ups, battery status, Spatial Audio, noise cancellation switching, and Find My<br>New: After SMS verification codes received on iPhone are synced to your Xiaomi phone, they can be detected and copied with one tap<br>Optimization: When you open Xiaomi phone apps in while using Screen Mirroring on iPhone, you can use the input method set on your Xiaomi phone at the same time<br>[Privacy and security]<br>New: More system apps now support Private access, with ongoing compatibility improvements for additional apps<br>Optimization: Updated "Fingerprints, face data, and screen lock" page layout for easier, faster setup<br>[System]<br>New: Set a countdown reminder in Calendar, and your phone will remind you to turn on Ticket purchase mode 1 minute before the countdown ends. This mode applies multiple optimizations to help your phone run at its best. <br>*Sign in to Calendar with your Xiaomi Account to make sure this feature works properly</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>POCO X8 Pro EEA</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/klee/" target="_blank">klee</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS3.0.301.0.WPJEUXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>10.0 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2026-05-20</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">klee_eea_global_images_OS3.0.301.0.WPJEUXM_20260520.0000.00_16.0_eea_7f16e6eeeb.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">7f16e6eeeb3dc10e47e2bf4d0f937d31</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.301.0.WPJEUXM/klee_eea_global_images_OS3.0.301.0.WPJEUXM_20260520.0000.00_16.0_eea_7f16e6eeeb.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WPJEUXM/klee_eea_global_images_OS3.0.301.0.WPJEUXM_20260520.0000.00_16.0_eea_7f16e6eeeb.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.301.0.WPJEUXM/klee_eea_global_images_OS3.0.301.0.WPJEUXM_20260520.0000.00_16.0_eea_7f16e6eeeb.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.301.0.WPJEUXM/klee_eea_global_images_OS3.0.301.0.WPJEUXM_20260520.0000.00_16.0_eea_7f16e6eeeb.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.301.0.WPJEUXM/klee_eea_global_images_OS3.0.301.0.WPJEUXM_20260520.0000.00_16.0_eea_7f16e6eeeb.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#klee_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="klee_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="klee_2_changelog">
                         <p id="changelog_text">[Comprehensive system app optimization]<br>Camera:<br>Optimization: Added a preset management page and support for bulk import/export of preset parameters for Pro mode<br> <br>Recorder:<br>Fix: An occasional recording error during long recordings<br>Fix: Duplicate recording entries in some cases<br>  <br>Calendar:<br>Optimization: Holiday display in Calendar, with more traditional festivals and historical commemorative days<br>Fix: An issue where dates displayed incorrectly in some cases<br>   <br>Other improvements:<br>New: Clarity mode brings together text and icon size, ringtone volume, scam call blocking, and other phone settings<br>New: The option to tap the status bar to return to the top of the page in some apps and scenarios<br>Optimization: Mi Mover now supports transferring more data, including some settings and user data from system apps<br>Optimization: Gallery search animations for smoother transitions<br>Fix: An issue where macOS compressed files didn't display properly in File Manager in some cases<br>Fix: Stuttering when loading multilingual screenshot thumbnails in some cases<br>[Interconnectivity]<br>New: Tap the NFC area on your Xiaomi phone or iPhone to quickly share recordings and notes<br>New: Xiaomi phones now support AirPods, including fast pair pop-ups, battery status, Spatial Audio, noise cancellation switching, and Find My<br>New: After SMS verification codes received on iPhone are synced to your Xiaomi phone, they can be detected and copied with one tap<br>Optimization: When you open Xiaomi phone apps in while using Screen Mirroring on iPhone, you can use the input method set on your Xiaomi phone at the same time<br>[Privacy and security]<br>New: More system apps now support Private access, with ongoing compatibility improvements for additional apps<br>Optimization: Updated "Fingerprints, face data, and screen lock" page layout for easier, faster setup<br>[System]<br>New: Set a countdown reminder in Calendar, and your phone will remind you to turn on Ticket purchase mode 1 minute before the countdown ends. This mode applies multiple optimizations to help your phone run at its best. <br>*Sign in to Calendar with your Xiaomi Account to make sure this feature works properly</p>
                     </div>
                 </li>
