@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 08 Jun 2026 13:23:11 </lastBuildDate>
+        <lastBuildDate>Mon, 08 Jun 2026 19:12:15 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.209.0.VGQCNXM</title>
@@ -19,6 +19,11 @@
         <item>
             <title>Xiaomi 17T (chagall) - OS3.0.304.0.WPTCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
+            <pubDate>Mon, 08 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 Pro 4G (charoite) - OS3.0.301.0.WPFEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/charoite/</link>
             <pubDate>Mon, 08 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -42,6 +47,11 @@
             <pubDate>Mon, 08 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi Pad 6 Pro (liuqin) - OS3.0.7.0.VMYCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/liuqin/</link>
+            <pubDate>Mon, 08 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS3.0.2.0.VMRINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/marble/</link>
             <pubDate>Mon, 08 Jun 2026 00:00:00 </pubDate>
@@ -54,6 +64,11 @@
         <item>
             <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS3.0.301.0.WNXEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
+            <pubDate>Mon, 08 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17T Pro (warhol) - OS3.0.306.0.WPSCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/warhol/</link>
             <pubDate>Mon, 08 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1212,11 +1227,6 @@
             <pubDate>Tue, 21 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 15 Pro 4G (charoite) - OS3.0.1.0.WPFEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/charoite/</link>
-            <pubDate>Mon, 20 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 14 (houji) - OS3.0.301.0.WNCMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/houji/</link>
             <pubDate>Mon, 20 Apr 2026 00:00:00 </pubDate>
@@ -1560,11 +1570,6 @@
             <title>Xiaomi Pad 6 (pipa) - OS2.0.19.0.UMZCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
             <pubDate>Sat, 07 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 Pro (liuqin) - OS3.0.5.0.VMYCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/liuqin/</link>
-            <pubDate>Wed, 04 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - OS1.0.5.0.TKHMIXM</title>

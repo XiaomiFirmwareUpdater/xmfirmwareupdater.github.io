@@ -2734,6 +2734,12 @@
   download: https://bigota.d.miui.com/OS2.0.208.0.VPFMIXM/fw_charoite_charoite_global-ota_full-OS2.0.208.0.VPFMIXM-user-15.0-495043741f.zip
   name: Redmi Note 15 Pro 4G
   version: OS2.0.208.0.VPFMIXM
+- android: '16.0'
+  codename: charoite
+  date: '2026-06-08'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WPFEUXM/fw_charoite_charoite_eea_global-ota_full-OS3.0.301.0.WPFEUXM-user-16.0-ebdf2352b1.zip
+  name: Redmi Note 15 Pro 4G
+  version: OS3.0.301.0.WPFEUXM
 - android: '15.0'
   codename: charoite
   date: '2026-01-06'
@@ -13234,6 +13240,12 @@
   download: https://bigota.d.miui.com/OS2.0.5.0.VMYCNXM/fw_liuqin_liuqin-ota_full-OS2.0.5.0.VMYCNXM-user-15.0-6edebce863.zip
   name: Xiaomi Pad 6 Pro
   version: OS2.0.5.0.VMYCNXM
+- android: '15.0'
+  codename: liuqin
+  date: '2026-06-08'
+  download: https://bigota.d.miui.com/OS3.0.7.0.VMYCNXM/fw_liuqin_liuqin-ota_full-OS3.0.7.0.VMYCNXM-user-15.0-7f569a5149.zip
+  name: Xiaomi Pad 6 Pro
+  version: OS3.0.7.0.VMYCNXM
 - android: '15.0'
   codename: liuqin
   date: '2025-08-06'
@@ -28396,6 +28408,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.TGDMIXM/fw_viva_miui_VIVAGlobal_OS1.0.4.0.TGDMIXM_711b120a23_13.0.zip
   name: Redmi Note 11 Pro 4G
   version: OS1.0.4.0.TGDMIXM
+- android: '16.0'
+  codename: warhol
+  date: '2026-06-08'
+  download: https://bigota.d.miui.com/OS3.0.306.0.WPSCNXM/fw_warhol_warhol-ota_full-OS3.0.306.0.WPSCNXM-user-16.0-fa6de8c867.zip
+  name: Xiaomi 17T Pro
+  version: OS3.0.306.0.WPSCNXM
 - android: '16.0'
   codename: warhol
   date: '2026-06-02'

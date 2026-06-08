@@ -1049,15 +1049,15 @@
     android: '16.0'
     miui: OS3.0.302.0.WPFMIXM
 - branch: stable
-  date: '2026-04-20'
+  date: '2026-06-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_charoite/releases/download/stable-21.04.2026/fw_charoite_charoite_eea_global-ota_full-OS3.0.1.0.WPFEUXM-user-16.0-6afd343915.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/charoite/fw_charoite_charoite_eea_global-ota_full-OS3.0.1.0.WPFEUXM-user-16.0-6afd343915.zip
-  filename: fw_charoite_charoite_eea_global-ota_full-OS3.0.1.0.WPFEUXM-user-16.0-6afd343915.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_charoite/releases/download/stable-08.06.2026/fw_charoite_charoite_eea_global-ota_full-OS3.0.301.0.WPFEUXM-user-16.0-ebdf2352b1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/charoite/fw_charoite_charoite_eea_global-ota_full-OS3.0.301.0.WPFEUXM-user-16.0-ebdf2352b1.zip
+  filename: fw_charoite_charoite_eea_global-ota_full-OS3.0.301.0.WPFEUXM-user-16.0-ebdf2352b1.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.1.0.WPFEUXM
+    miui: OS3.0.301.0.WPFEUXM
 - branch: stable
   date: '2026-05-14'
   downloads:
@@ -3679,15 +3679,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2026-02-04'
+  date: '2026-06-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_liuqin/releases/download/stable-04.02.2026/fw_liuqin_liuqin-ota_full-OS3.0.5.0.VMYCNXM-user-15.0-39685cb85f.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/liuqin/fw_liuqin_liuqin-ota_full-OS3.0.5.0.VMYCNXM-user-15.0-39685cb85f.zip
-  filename: fw_liuqin_liuqin-ota_full-OS3.0.5.0.VMYCNXM-user-15.0-39685cb85f.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_liuqin/releases/download/stable-08.06.2026/fw_liuqin_liuqin-ota_full-OS3.0.7.0.VMYCNXM-user-15.0-7f569a5149.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/liuqin/fw_liuqin_liuqin-ota_full-OS3.0.7.0.VMYCNXM-user-15.0-7f569a5149.zip
+  filename: fw_liuqin_liuqin-ota_full-OS3.0.7.0.VMYCNXM-user-15.0-7f569a5149.zip
   region: China
   versions:
     android: '15.0'
-    miui: OS3.0.5.0.VMYCNXM
+    miui: OS3.0.7.0.VMYCNXM
 - branch: stable
   date: '2023-03-27'
   downloads:
@@ -7398,6 +7398,16 @@
   versions:
     android: '16.0'
     miui: OS3.0.305.0.WPSMIXM
+- branch: stable
+  date: '2026-06-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warhol/releases/download/stable-08.06.2026/fw_warhol_warhol-ota_full-OS3.0.306.0.WPSCNXM-user-16.0-fa6de8c867.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/warhol/fw_warhol_warhol-ota_full-OS3.0.306.0.WPSCNXM-user-16.0-fa6de8c867.zip
+  filename: fw_warhol_warhol-ota_full-OS3.0.306.0.WPSCNXM-user-16.0-fa6de8c867.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.306.0.WPSCNXM
 - branch: stable
   date: '2026-06-02'
   downloads:
