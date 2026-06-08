@@ -376,6 +376,18 @@
   download: https://bigota.d.miui.com/OS2.0.1.0.VGQMIXM/fw_air_global_air_global-ota_full-OS2.0.1.0.VGQMIXM-user-15.0-33214877f3.zip
   name: Redmi 13R 5G/13C 5G/POCO M6 5G
   version: OS2.0.1.0.VGQMIXM
+- android: '15.0'
+  codename: air
+  date: '2026-06-08'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VGQCNXM/fw_air_air-ota_full-OS2.0.209.0.VGQCNXM-user-15.0-fc3ec2da64.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS2.0.209.0.VGQCNXM
+- android: '15.0'
+  codename: air
+  date: '2026-06-08'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VGQINXM/fw_air_air_in_global-ota_full-OS2.0.207.0.VGQINXM-user-15.0-eba6e3654a.zip
+  name: Redmi 13R 5G/13C 5G/POCO M6 5G
+  version: OS2.0.207.0.VGQINXM
 - android: '14.0'
   codename: air
   date: '2025-03-08'
@@ -3834,6 +3846,12 @@
   version: OS1.0.9.0.ULCCNXM
 - android: '15.0'
   codename: cupid
+  date: '2026-06-08'
+  download: https://bigota.d.miui.com/OS3.0.3.0.VLCEUXM/fw_cupid_cupid_eea_global-ota_full-OS3.0.3.0.VLCEUXM-user-15.0-9e6dd424fb.zip
+  name: Xiaomi 12
+  version: OS3.0.3.0.VLCEUXM
+- android: '15.0'
+  codename: cupid
   date: '2025-04-07'
   download: https://bigota.d.miui.com/OS2.0.3.0.VLCEUXM/fw_cupid_eea_global_cupid_eea_global-ota_full-OS2.0.3.0.VLCEUXM-user-15.0-ae15dc41db.zip
   name: Xiaomi 12
@@ -4840,6 +4858,12 @@
   download: https://bigota.d.miui.com/OS3.0.1.0.WBNMIXM/fw_dew_dew_global-ota_full-OS3.0.1.0.WBNMIXM-user-16.0-1de1d1c7c5.zip
   name: Redmi 15C/POCO C85
   version: OS3.0.1.0.WBNMIXM
+- android: '16.0'
+  codename: dew
+  date: '2026-06-08'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WBNMIXM/fw_dew_dew_global-ota_full-OS3.0.302.0.WBNMIXM-user-16.0-fcf1e9ca16.zip
+  name: Redmi 15C/POCO C85
+  version: OS3.0.302.0.WBNMIXM
 - android: '15.0'
   codename: dew
   date: '2026-05-06'
@@ -7294,6 +7318,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMXINXM/fw_fire_miui_FIREINGlobal_OS1.0.3.0.UMXINXM_f1fd1fd869_14.0.zip
   name: Redmi 12
   version: OS1.0.3.0.UMXINXM
+- android: '15.0'
+  codename: fire
+  date: '2026-06-08'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VMXMIXM/fw_fire_fire_global-ota_full-OS2.0.208.0.VMXMIXM-user-15.0-2e87547031.zip
+  name: Redmi 12
+  version: OS2.0.208.0.VMXMIXM
 - android: '15.0'
   codename: fire
   date: '2026-03-08'
@@ -12574,6 +12604,12 @@
   download: https://bigota.d.miui.com/OS3.0.7.0.WPPCNXM/fw_lapis_lapis-ota_full-OS3.0.7.0.WPPCNXM-user-16.0-0b3f2acdbb.zip
   name: Redmi Note 15 Pro 5G
   version: OS3.0.7.0.WPPCNXM
+- android: '16.0'
+  codename: lapis
+  date: '2026-06-08'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WPPEUXM/fw_lapis_lapis_eea_global-ota_full-OS3.0.301.0.WPPEUXM-user-16.0-514f71b49e.zip
+  name: Redmi Note 15 Pro 5G
+  version: OS3.0.301.0.WPPEUXM
 - android: '16.0'
   codename: lapis
   date: '2026-04-07'
@@ -22948,6 +22984,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNHEUXM/fw_sapphiren_miui_SAPPHIRENEEAGlobal_OS1.0.4.0.UNHEUXM_fe0e363b03_14.0.zip
   name: Redmi Note 13 NFC
   version: OS1.0.4.0.UNHEUXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2026-06-08'
+  download: https://bigota.d.miui.com/OS2.0.210.0.VNHMIXM/fw_sapphiren_sapphiren_global-ota_full-OS2.0.210.0.VNHMIXM-user-15.0-718d4228e4.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.210.0.VNHMIXM
 - android: '14.0'
   codename: sapphiren
   date: '2024-04-08'

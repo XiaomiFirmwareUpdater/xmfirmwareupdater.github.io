@@ -129,6 +129,16 @@
     android: '16.0'
     miui: OS3.0.1.0.WBNMIXM
 - branch: stable
+  date: '2026-06-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dew/releases/download/stable-08.06.2026/fw_dew_dew_global-ota_full-OS3.0.302.0.WBNMIXM-user-16.0-fcf1e9ca16.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dew/fw_dew_dew_global-ota_full-OS3.0.302.0.WBNMIXM-user-16.0-fcf1e9ca16.zip
+  filename: fw_dew_dew_global-ota_full-OS3.0.302.0.WBNMIXM-user-16.0-fcf1e9ca16.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.302.0.WBNMIXM
+- branch: stable
   date: '2026-05-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dew/releases/download/stable-06.05.2026/fw_dew_dew_eea_global-ota_full-OS2.0.217.0.VBNEUXM-user-15.0-a3c5368be2.zip

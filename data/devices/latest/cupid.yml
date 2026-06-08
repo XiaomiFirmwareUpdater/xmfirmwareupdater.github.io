@@ -19,12 +19,12 @@
     android: '15.0'
     miui: OS3.0.3.0.VLCCNXM
 - branch: stable
-  date: '2026-03-23'
+  date: '2026-06-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-23.03.2026/fw_cupid_cupid_eea_global-ota_full-OS3.0.2.0.VLCEUXM-user-15.0-1506349cb4.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/cupid/fw_cupid_cupid_eea_global-ota_full-OS3.0.2.0.VLCEUXM-user-15.0-1506349cb4.zip
-  filename: fw_cupid_cupid_eea_global-ota_full-OS3.0.2.0.VLCEUXM-user-15.0-1506349cb4.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-08.06.2026/fw_cupid_cupid_eea_global-ota_full-OS3.0.3.0.VLCEUXM-user-15.0-9e6dd424fb.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/cupid/fw_cupid_cupid_eea_global-ota_full-OS3.0.3.0.VLCEUXM-user-15.0-9e6dd424fb.zip
+  filename: fw_cupid_cupid_eea_global-ota_full-OS3.0.3.0.VLCEUXM-user-15.0-9e6dd424fb.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS3.0.2.0.VLCEUXM
+    miui: OS3.0.3.0.VLCEUXM
