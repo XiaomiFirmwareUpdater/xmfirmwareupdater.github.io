@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 08 Jun 2026 07:30:27 </lastBuildDate>
+        <lastBuildDate>Mon, 08 Jun 2026 13:23:11 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.209.0.VGQCNXM</title>
@@ -14,6 +14,11 @@
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.207.0.VGQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
+            <pubDate>Mon, 08 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17T (chagall) - OS3.0.304.0.WPTCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
             <pubDate>Mon, 08 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -37,8 +42,18 @@
             <pubDate>Mon, 08 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS3.0.2.0.VMRINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
+            <pubDate>Mon, 08 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 13 NFC (sapphiren) - OS2.0.210.0.VNHMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
+            <pubDate>Mon, 08 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS3.0.301.0.WNXEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
             <pubDate>Mon, 08 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1367,11 +1382,6 @@
             <pubDate>Wed, 08 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS3.0.3.0.WNXEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
-            <pubDate>Tue, 07 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad SE 8.7 4G (spark) - OS3.0.2.0.WHYINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spark/</link>
             <pubDate>Wed, 01 Apr 2026 00:00:00 </pubDate>
@@ -1389,11 +1399,6 @@
         <item>
             <title>Redmi Pad 2 4G (koto) - OS3.0.4.0.WOWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/koto/</link>
-            <pubDate>Tue, 31 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS3.0.1.0.VMRINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/marble/</link>
             <pubDate>Tue, 31 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
