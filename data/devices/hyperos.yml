@@ -9478,6 +9478,12 @@
   download: https://bigota.d.miui.com/OS2.0.104.0.VNVCNXM/fw_goku_goku-ota_full-OS2.0.104.0.VNVCNXM-user-15.0-2e76c8b5f1.zip
   name: MIX Fold 4
   version: OS2.0.104.0.VNVCNXM
+- android: '16.0'
+  codename: goku
+  date: '2026-06-09'
+  download: https://bigota.d.miui.com/OS3.0.306.0.WNVCNXM/fw_goku_goku-ota_full-OS3.0.306.0.WNVCNXM-user-16.0-4248a7a1f3.zip
+  name: MIX Fold 4
+  version: OS3.0.306.0.WNVCNXM
 - android: '15.0'
   codename: goku
   date: '2025-06-09'
@@ -17856,6 +17862,12 @@
   version: OS3.0.45.0.WBLCNXM
 - android: '16.0'
   codename: pandora
+  date: '2026-06-09'
+  download: https://bigota.d.miui.com/OS3.0.313.0.WBLCNXM/fw_pandora_pandora-ota_full-OS3.0.313.0.WBLCNXM-user-16.0-99e4e5877c.zip
+  name: Xiaomi 17 Pro
+  version: OS3.0.313.0.WBLCNXM
+- android: '16.0'
+  codename: pandora
   date: '2025-10-05'
   download: https://bigota.d.miui.com/OS3.0.16.0.WBLCNXM/fw_pandora_pandora-ota_full-OS3.0.16.0.WBLCNXM-user-16.0-13dfb82f31.zip
   name: Xiaomi 17 Pro
@@ -19618,6 +19630,12 @@
   download: https://bigota.d.miui.com/OS3.0.30.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.30.0.WPBCNXM-user-16.0-5cc4eb5e91.zip
   name: Xiaomi 17 Pro Max
   version: OS3.0.30.0.WPBCNXM
+- android: '16.0'
+  codename: popsicle
+  date: '2026-06-09'
+  download: https://bigota.d.miui.com/OS3.0.313.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.313.0.WPBCNXM-user-16.0-686872c474.zip
+  name: Xiaomi 17 Pro Max
+  version: OS3.0.313.0.WPBCNXM
 - android: '16.0'
   codename: popsicle
   date: '2025-12-06'
