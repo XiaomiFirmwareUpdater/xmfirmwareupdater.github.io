@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 09 Jun 2026 00:41:59 </lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2026 06:51:18 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 17T (chagall) - OS3.0.302.0.WPTINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
+            <pubDate>Tue, 09 Jun 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.209.0.VGQCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/air/</link>
@@ -288,11 +293,6 @@
         </item>
         <item>
             <title>Xiaomi 17T (chagall) - OS3.0.311.0.WPTEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
-            <pubDate>Mon, 01 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17T (chagall) - OS3.0.301.0.WPTINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
             <pubDate>Mon, 01 Jun 2026 00:00:00 </pubDate>
         </item>
