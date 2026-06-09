@@ -57,7 +57,7 @@ permalink: /hyperos/somalia/
 <tr><td>Redmi 17 5G / R70 5G / R70m 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WBWCNXM</td><td>16.0</td><td>5.2 GB</td><td>2026-04-27</td><td><a href="/hyperos/somalia/stable beta/OS3.0.3.0.WBWCNXM/">Download</a></td></tr>
 <tr><td>Redmi 15A/A7 Pro/POCO C85x 5G India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.9.0.WBWINXM</td><td>16.0</td><td>6.6 GB</td><td>2026-04-28</td><td><a href="/hyperos/somalia/stable/OS3.0.9.0.WBWINXM/">Download</a></td></tr>
 <tr><td>Redmi 15A/A7 Pro/POCO C85x 5G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.9.0.WBWINXM</td><td>16.0</td><td>4.7 GB</td><td>2026-05-11</td><td><a href="/hyperos/somalia/stable/OS3.0.9.0.WBWINXM/">Download</a></td></tr>
-<tr><td>Redmi 15A/A7 Pro/POCO C85x 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.1.0.WBWINXM</td><td>16.0</td><td>4.6 GB</td><td>2026-03-12</td><td><a href="/hyperos/somalia/stable beta/OS3.0.1.0.WBWINXM/">Download</a></td></tr>
+<tr><td>Redmi 15A/A7 Pro/POCO C85x 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.10.0.WBWINXM</td><td>16.0</td><td>4.6 GB</td><td>2026-06-09</td><td><a href="/hyperos/somalia/stable beta/OS3.0.10.0.WBWINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

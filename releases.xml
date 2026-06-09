@@ -4,11 +4,31 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 09 Jun 2026 13:22:39 </lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2026 19:50:18 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.305.0.WPKCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
+            <pubDate>Tue, 09 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A7 Pro/POCO C81/C81 Pro (arctic) - OS3.0.8.0.WBVMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/arctic/</link>
+            <pubDate>Tue, 09 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS3.0.305.0.WNACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Tue, 09 Jun 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 17T (chagall) - OS3.0.302.0.WPTINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
+            <pubDate>Tue, 09 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS3.0.310.0.WPRCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
             <pubDate>Tue, 09 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -24,6 +44,11 @@
         <item>
             <title>Xiaomi 17 Pro Max (popsicle) - OS3.0.313.0.WPBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/popsicle/</link>
+            <pubDate>Tue, 09 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G (somalia) - OS3.0.10.0.WBWINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/somalia/</link>
             <pubDate>Tue, 09 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -607,11 +632,6 @@
             <pubDate>Tue, 19 May 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.304.0.WPKCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
-            <pubDate>Mon, 18 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.8.0.WOQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
             <pubDate>Mon, 18 May 2026 00:00:00 </pubDate>
@@ -822,11 +842,6 @@
             <pubDate>Mon, 11 May 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G (somalia) - OS3.0.9.0.WBWINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/somalia/</link>
-            <pubDate>Mon, 11 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.303.0.WNKCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Mon, 11 May 2026 00:00:00 </pubDate>
@@ -840,11 +855,6 @@
             <title>Xiaomi 13 Pro (nuwa) - OS3.0.309.0.WMBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Sun, 10 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A7 Pro/POCO C81/C81 Pro (arctic) - OS3.0.7.0.WBVMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/arctic/</link>
-            <pubDate>Sat, 09 May 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.304.0.WPLCNXM</title>
@@ -1040,11 +1050,6 @@
             <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS3.0.302.0.WNUCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
             <pubDate>Tue, 05 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS3.0.307.0.WPRCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
-            <pubDate>Sun, 03 May 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 14 (houji) - OS3.0.301.0.WNCINXM</title>
@@ -1340,11 +1345,6 @@
             <title>Xiaomi 15 Ultra (xuanyuan) - OS3.0.303.0.WOACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Tue, 14 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS3.0.304.0.WNACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Mon, 13 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi Civi 5 Pro (luming) - OS3.0.302.0.WOICNXM</title>

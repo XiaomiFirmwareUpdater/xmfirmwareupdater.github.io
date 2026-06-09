@@ -978,6 +978,12 @@
   version: OS3.0.20.0.WPKCNXM
 - android: '16.0'
   codename: annibale
+  date: '2026-06-09'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WPKCNXM/fw_annibale_annibale-ota_full-OS3.0.305.0.WPKCNXM-user-16.0-e88370d5bc.zip
+  name: Redmi K90/POCO F8 Pro
+  version: OS3.0.305.0.WPKCNXM
+- android: '16.0'
+  codename: annibale
   date: '2026-02-09'
   download: https://bigota.d.miui.com/OS3.0.24.0.WPKCNXM/fw_annibale_annibale-ota_full-OS3.0.24.0.WPKCNXM-user-16.0-f967acd36f.zip
   name: Redmi K90/POCO F8 Pro
@@ -1012,6 +1018,12 @@
   download: https://bigota.d.miui.com/OS3.0.7.0.WBVEUXM/fw_arctic_arctic_eea_global-ota_full-OS3.0.7.0.WBVEUXM-user-16.0-e96afde1fd.zip
   name: Redmi A7 Pro/POCO C81/C81 Pro
   version: OS3.0.7.0.WBVEUXM
+- android: '16.0'
+  codename: arctic
+  date: '2026-06-09'
+  download: https://bigota.d.miui.com/OS3.0.8.0.WBVMIXM/fw_arctic_arctic_global-ota_full-OS3.0.8.0.WBVMIXM-user-16.0-f6917a18f8.zip
+  name: Redmi A7 Pro/POCO C81/C81 Pro
+  version: OS3.0.8.0.WBVMIXM
 - android: '16.0'
   codename: arctic
   date: '2026-05-09'
@@ -1714,6 +1726,12 @@
   download: https://bigota.d.miui.com/OS2.0.201.0.VNAINXM/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.201.0.VNAINXM-user-15.0-31754b935c.zip
   name: Xiaomi 14 Ultra
   version: OS2.0.201.0.VNAINXM
+- android: '16.0'
+  codename: aurora
+  date: '2026-06-09'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WNACNXM/fw_aurora_aurora-ota_full-OS3.0.305.0.WNACNXM-user-16.0-366972ea82.zip
+  name: Xiaomi 14 Ultra
+  version: OS3.0.305.0.WNACNXM
 - android: '15.0'
   codename: aurora
   date: '2025-05-09'
@@ -7918,6 +7936,12 @@
   download: https://bigota.d.miui.com/OS3.0.3.0.WPRINXM/fw_flourite_flourite_in_global-ota_full-OS3.0.3.0.WPRINXM-user-16.0-a83ac3b2ee.zip
   name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
   version: OS3.0.3.0.WPRINXM
+- android: '16.0'
+  codename: flourite
+  date: '2026-06-09'
+  download: https://bigota.d.miui.com/OS3.0.310.0.WPRCNXM/fw_flourite_flourite-ota_full-OS3.0.310.0.WPRCNXM-user-16.0-6f177e85fa.zip
+  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
+  version: OS3.0.310.0.WPRCNXM
 - android: '16.0'
   codename: flourite
   date: '2026-04-09'
@@ -24484,6 +24508,12 @@
   download: https://bigota.d.miui.com/OS3.0.9.0.WBWINXM/fw_somalia_somalia_in_global-ota_full-OS3.0.9.0.WBWINXM-user-16.0-2b4cf013cb.zip
   name: Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G
   version: OS3.0.9.0.WBWINXM
+- android: '16.0'
+  codename: somalia
+  date: '2026-06-09'
+  download: https://bigota.d.miui.com/OS3.0.10.0.WBWINXM/fw_somalia_somalia_in_global-ota_full-OS3.0.10.0.WBWINXM-user-16.0-8c69815dad.zip
+  name: Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G
+  version: OS3.0.10.0.WBWINXM
 - android: '16.0'
   codename: somalia
   date: '2026-05-06'
