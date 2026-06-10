@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 10 Jun 2026 12:43:02 </lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 18:55:15 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 12 (fire) - OS2.0.204.0.VMXINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/fire/</link>
+            <pubDate>Wed, 10 Jun 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.305.0.WPKCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
@@ -1695,11 +1700,6 @@
             <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - OS1.0.8.0.ULSEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/light/</link>
             <pubDate>Sun, 28 Sep 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12 (fire) - OS2.0.202.0.VMXINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/fire/</link>
-            <pubDate>Mon, 22 Sep 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 11T Pro (vili) - OS1.0.22.0.UKDMIXM</title>
