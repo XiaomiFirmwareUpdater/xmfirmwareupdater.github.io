@@ -52,7 +52,8 @@ permalink: /archive/hyperos/haotian/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 15 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.304.0.WOBCNXM</td><td>16.0</td><td>8.6 GB</td><td>2026-06-01</td><td><a href="/hyperos/haotian/stable beta/OS3.0.304.0.WOBCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WOBCNXM</td><td>16.0</td><td>8.6 GB</td><td>2026-06-01</td><td><a href="/hyperos/haotian/stable/OS3.0.304.0.WOBCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WOBCNXM</td><td>16.0</td><td>12.2 GB</td><td>2026-05-28</td><td><a href="/hyperos/haotian/stable/OS3.0.304.0.WOBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOBCNXM</td><td>16.0</td><td>8.6 GB</td><td>2026-04-17</td><td><a href="/hyperos/haotian/stable/OS3.0.302.0.WOBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOBCNXM</td><td>16.0</td><td>12.2 GB</td><td>2026-04-07</td><td><a href="/hyperos/haotian/stable/OS3.0.302.0.WOBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WOBCNXM</td><td>16.0</td><td>8.5 GB</td><td>2026-03-18</td><td><a href="/hyperos/haotian/stable/OS3.0.301.0.WOBCNXM/">Download</a></td></tr>
@@ -65,12 +66,12 @@ permalink: /archive/hyperos/haotian/
 <tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.215.0.VOBCNXM</td><td>15.0</td><td>10.9 GB</td><td>2025-08-13</td><td><a href="/hyperos/haotian/stable/OS2.0.215.0.VOBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.214.0.VOBCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-07-18</td><td><a href="/hyperos/haotian/stable/OS2.0.214.0.VOBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.214.0.VOBCNXM</td><td>15.0</td><td>10.9 GB</td><td>2025-07-16</td><td><a href="/hyperos/haotian/stable/OS2.0.214.0.VOBCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.117.0.VOBCNXM</td><td>15.0</td><td>10.8 GB</td><td>2025-05-15</td><td><a href="/hyperos/haotian/stable/OS2.0.117.0.VOBCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.117.0.VOBCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-04-28</td><td><a href="/hyperos/haotian/stable/OS2.0.117.0.VOBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOBCNXM</td><td>16.0</td><td>8.3 GB</td><td>2025-10-14</td><td><a href="/hyperos/haotian/stable/OS3.0.3.0.WOBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOBCNXM</td><td>16.0</td><td>11.6 GB</td><td>2025-10-12</td><td><a href="/hyperos/haotian/stable/OS3.0.3.0.WOBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VOBCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-06-08</td><td><a href="/hyperos/haotian/stable/OS2.0.206.0.VOBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VOBCNXM</td><td>15.0</td><td>10.9 GB</td><td>2025-06-04</td><td><a href="/hyperos/haotian/stable/OS2.0.206.0.VOBCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.117.0.VOBCNXM</td><td>15.0</td><td>10.8 GB</td><td>2025-05-15</td><td><a href="/hyperos/haotian/stable/OS2.0.117.0.VOBCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.117.0.VOBCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-04-28</td><td><a href="/hyperos/haotian/stable/OS2.0.117.0.VOBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.116.0.VOBCNXM</td><td>15.0</td><td>10.9 GB</td><td>2025-04-21</td><td><a href="/hyperos/haotian/stable/OS2.0.116.0.VOBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.116.0.VOBCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-04-17</td><td><a href="/hyperos/haotian/stable/OS2.0.116.0.VOBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.112.0.VOBCNXM</td><td>15.0</td><td>10.9 GB</td><td>2025-04-13</td><td><a href="/hyperos/haotian/stable/OS2.0.112.0.VOBCNXM/">Download</a></td></tr>

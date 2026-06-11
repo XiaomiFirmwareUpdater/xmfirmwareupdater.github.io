@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 11 Jun 2026 12:46:18 </lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 18:58:52 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi A7 Pro/POCO C81/C81 Pro (arctic) - OS3.0.3.0.WBVINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/arctic/</link>
+            <pubDate>Thu, 11 Jun 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.301.0.WNSEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
+            <pubDate>Thu, 11 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15T (goya) - OS3.0.304.0.WOEEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/goya/</link>
             <pubDate>Thu, 11 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1202,11 +1212,6 @@
             <pubDate>Sat, 25 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi A7 Pro/POCO C81/C81 Pro (arctic) - OS3.0.2.0.WBVINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/arctic/</link>
-            <pubDate>Fri, 24 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Turbo 3/POCO F6 (peridot) - OS3.0.4.0.WNPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
             <pubDate>Fri, 24 Apr 2026 00:00:00 </pubDate>
@@ -1385,11 +1390,6 @@
             <title>Xiaomi 12 Lite (taoyao) - OS1.0.38.0.ULIEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taoyao/</link>
             <pubDate>Mon, 13 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15T (goya) - OS3.0.302.0.WOEEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/goya/</link>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G (spring) - OS3.0.1.0.WOUEUXM</title>

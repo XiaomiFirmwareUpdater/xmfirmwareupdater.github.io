@@ -1020,6 +1020,12 @@
   version: OS3.0.7.0.WBVEUXM
 - android: '16.0'
   codename: arctic
+  date: '2026-06-11'
+  download: https://bigota.d.miui.com/OS3.0.3.0.WBVINXM/fw_arctic_arctic_in_global-ota_full-OS3.0.3.0.WBVINXM-user-16.0-feba710099.zip
+  name: Redmi A7 Pro/POCO C81/C81 Pro
+  version: OS3.0.3.0.WBVINXM
+- android: '16.0'
+  codename: arctic
   date: '2026-06-09'
   download: https://bigota.d.miui.com/OS3.0.8.0.WBVMIXM/fw_arctic_arctic_global-ota_full-OS3.0.8.0.WBVMIXM-user-16.0-f6917a18f8.zip
   name: Redmi A7 Pro/POCO C81/C81 Pro
@@ -10180,6 +10186,12 @@
   download: https://bigota.d.miui.com/OS3.0.5.0.WOEMIXM/fw_goya_goya_global-ota_full-OS3.0.5.0.WOEMIXM-user-16.0-8404e615cc.zip
   name: Xiaomi 15T
   version: OS3.0.5.0.WOEMIXM
+- android: '16.0'
+  codename: goya
+  date: '2026-06-11'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WOEEUXM/fw_goya_goya_eea_global-ota_full-OS3.0.304.0.WOEEUXM-user-16.0-6c66749cde.zip
+  name: Xiaomi 15T
+  version: OS3.0.304.0.WOEEUXM
 - android: '16.0'
   codename: goya
   date: '2026-04-10'

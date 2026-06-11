@@ -39,6 +39,16 @@
     android: '16.0'
     miui: OS3.0.7.0.WBVEUXM
 - branch: stable
+  date: '2026-06-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_arctic/releases/download/stable-11.06.2026/fw_arctic_arctic_in_global-ota_full-OS3.0.3.0.WBVINXM-user-16.0-feba710099.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/arctic/fw_arctic_arctic_in_global-ota_full-OS3.0.3.0.WBVINXM-user-16.0-feba710099.zip
+  filename: fw_arctic_arctic_in_global-ota_full-OS3.0.3.0.WBVINXM-user-16.0-feba710099.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.3.0.WBVINXM
+- branch: stable
   date: '2026-06-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_arctic/releases/download/stable-09.06.2026/fw_arctic_arctic_global-ota_full-OS3.0.8.0.WBVMIXM-user-16.0-f6917a18f8.zip
