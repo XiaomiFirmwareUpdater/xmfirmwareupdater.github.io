@@ -5728,6 +5728,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UNSEUXM/fw_dizi_miui_DIZIEEAGlobal_OS1.0.10.0.UNSEUXM_ddefbb12c2_14.0.zip
   name: Redmi Pad Pro/POCO Pad
   version: OS1.0.10.0.UNSEUXM
+- android: '16.0'
+  codename: dizi
+  date: '2026-06-11'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WNSEUXM/fw_dizi_dizi_eea_global-ota_full-OS3.0.301.0.WNSEUXM-user-16.0-f688dc9c72.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS3.0.301.0.WNSEUXM
 - android: '14.0'
   codename: dizi
   date: '2025-06-11'
@@ -19078,6 +19084,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UMZCNXM/fw_pipa_miui_PIPA_OS1.0.12.0.UMZCNXM_c8d7ab829f_14.0.zip
   name: Xiaomi Pad 6
   version: OS1.0.12.0.UMZCNXM
+- android: '14.0'
+  codename: pipa
+  date: '2026-06-11'
+  download: https://bigota.d.miui.com/OS2.0.20.0.UMZCNXM/fw_pipa_pipa-ota_full-OS2.0.20.0.UMZCNXM-user-14.0-cc45265ce4.zip
+  name: Xiaomi Pad 6
+  version: OS2.0.20.0.UMZCNXM
 - android: '14.0'
   codename: pipa
   date: '2025-04-11'

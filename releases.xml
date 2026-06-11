@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 11 Jun 2026 00:42:57 </lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 12:46:18 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.301.0.WNSEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
+            <pubDate>Thu, 11 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 6 (pipa) - OS2.0.20.0.UMZCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
+            <pubDate>Thu, 11 Jun 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 12 (fire) - OS2.0.204.0.VMXINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fire/</link>
@@ -942,11 +952,6 @@
             <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.2.0.WNSEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
-            <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.1.0.WNSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
             <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
@@ -1570,11 +1575,6 @@
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS3.0.5.0.VMNCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
             <pubDate>Mon, 09 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6 (pipa) - OS2.0.19.0.UMZCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
-            <pubDate>Sat, 07 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - OS1.0.5.0.TKHMIXM</title>

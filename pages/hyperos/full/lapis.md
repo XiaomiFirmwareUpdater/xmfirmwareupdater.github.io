@@ -52,7 +52,8 @@ permalink: /archive/hyperos/lapis/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 15 Pro 5G Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WPPRUXM</td><td>16.0</td><td>6.4 GB</td><td>2026-06-08</td><td><a href="/hyperos/lapis/stable beta/OS3.0.301.0.WPPRUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 15 Pro 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WPPRUXM</td><td>16.0</td><td>6.4 GB</td><td>2026-06-08</td><td><a href="/hyperos/lapis/stable/OS3.0.301.0.WPPRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WPPRUXM</td><td>16.0</td><td>10.2 GB</td><td>2026-05-27</td><td><a href="/hyperos/lapis/stable/OS3.0.301.0.WPPRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WPPTWXM</td><td>16.0</td><td>6.4 GB</td><td>2026-06-08</td><td><a href="/hyperos/lapis/stable beta/OS3.0.301.0.WPPTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 5G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WPPTRXM</td><td>16.0</td><td>6.5 GB</td><td>2026-06-08</td><td><a href="/hyperos/lapis/stable beta/OS3.0.301.0.WPPTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WPPCNXM</td><td>16.0</td><td>7.4 GB</td><td>2026-05-26</td><td><a href="/hyperos/lapis/stable/OS3.0.306.0.WPPCNXM/">Download</a></td></tr>
@@ -102,12 +103,12 @@ permalink: /archive/hyperos/lapis/
 <tr><td>Redmi Note 15 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.209.0.VPPCNXM</td><td>15.0</td><td>9.5 GB</td><td>2025-11-21</td><td><a href="/hyperos/lapis/stable/OS2.0.209.0.VPPCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VPPCNXM</td><td>15.0</td><td>7.2 GB</td><td>2025-11-06</td><td><a href="/hyperos/lapis/stable/OS2.0.208.0.VPPCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VPPCNXM</td><td>15.0</td><td>9.5 GB</td><td>2025-11-03</td><td><a href="/hyperos/lapis/stable/OS2.0.208.0.VPPCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WPPEUXM</td><td>16.0</td><td>6.7 GB</td><td>2026-03-27</td><td><a href="/hyperos/lapis/stable/OS3.0.2.0.WPPEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WPPEUXM</td><td>16.0</td><td>9.4 GB</td><td>2026-03-17</td><td><a href="/hyperos/lapis/stable/OS3.0.2.0.WPPEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VPPCNXM</td><td>15.0</td><td>7.2 GB</td><td>2025-10-16</td><td><a href="/hyperos/lapis/stable/OS2.0.207.0.VPPCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VPPCNXM</td><td>15.0</td><td>9.4 GB</td><td>2025-10-10</td><td><a href="/hyperos/lapis/stable/OS2.0.207.0.VPPCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VPPCNXM</td><td>15.0</td><td>7.2 GB</td><td>2025-09-15</td><td><a href="/hyperos/lapis/stable/OS2.0.206.0.VPPCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VPPCNXM</td><td>15.0</td><td>9.5 GB</td><td>2025-09-11</td><td><a href="/hyperos/lapis/stable/OS2.0.206.0.VPPCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WPPEUXM</td><td>16.0</td><td>6.7 GB</td><td>2026-03-27</td><td><a href="/hyperos/lapis/stable/OS3.0.2.0.WPPEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WPPEUXM</td><td>16.0</td><td>9.4 GB</td><td>2026-03-17</td><td><a href="/hyperos/lapis/stable/OS3.0.2.0.WPPEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 5G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WPPINXM</td><td>16.0</td><td>6.3 GB</td><td>2026-03-24</td><td><a href="/hyperos/lapis/stable/OS3.0.2.0.WPPINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 5G India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WPPINXM</td><td>16.0</td><td>8.5 GB</td><td>2026-03-17</td><td><a href="/hyperos/lapis/stable/OS3.0.2.0.WPPINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 5G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WPPMIXM</td><td>16.0</td><td>6.5 GB</td><td>2026-03-09</td><td><a href="/hyperos/lapis/stable/OS3.0.1.0.WPPMIXM/">Download</a></td></tr>
