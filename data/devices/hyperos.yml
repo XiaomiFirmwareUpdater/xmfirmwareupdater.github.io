@@ -8080,6 +8080,12 @@
   download: https://bigota.d.miui.com/OS2.0.207.0.VPWMIXM/fw_flute_flute_global-ota_full-OS2.0.207.0.VPWMIXM-user-15.0-4edc2099ad.zip
   name: Redmi Pad 2 Pro/POCO Pad M1
   version: OS2.0.207.0.VPWMIXM
+- android: '16.0'
+  codename: flute
+  date: '2026-06-12'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WPWMIXM/fw_flute_flute_global-ota_full-OS3.0.4.0.WPWMIXM-user-16.0-7e82331271.zip
+  name: Redmi Pad 2 Pro/POCO Pad M1
+  version: OS3.0.4.0.WPWMIXM
 - android: '15.0'
   codename: flute
   date: '2026-02-09'
@@ -26752,6 +26758,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VPOINXM/fw_tornado_tornado_in_global-ota_full-OS2.0.202.0.VPOINXM-user-15.0-955fd223a5.zip
   name: Redmi 15C 5G/15R 5G/POCO C85 5G
   version: OS2.0.202.0.VPOINXM
+- android: '16.0'
+  codename: tornado
+  date: '2026-06-12'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WPOINXM/fw_tornado_tornado_in_global-ota_full-OS3.0.303.0.WPOINXM-user-16.0-96190d6b4e.zip
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  version: OS3.0.303.0.WPOINXM
 - android: '15.0'
   codename: tornado
   date: '2026-05-13'
