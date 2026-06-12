@@ -15298,6 +15298,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UMNEUXM/fw_mondrian_miui_MONDRIANEEAGlobal_OS1.0.6.0.UMNEUXM_8c0f7d8e47_14.0.zip
   name: Redmi K60/POCO F5 Pro
   version: OS1.0.6.0.UMNEUXM
+- android: '15.0'
+  codename: mondrian
+  date: '2026-06-12'
+  download: https://bigota.d.miui.com/OS3.0.8.0.VMNCNXM/fw_mondrian_mondrian-ota_full-OS3.0.8.0.VMNCNXM-user-15.0-3fb07519a6.zip
+  name: Redmi K60/POCO F5 Pro
+  version: OS3.0.8.0.VMNCNXM
 - android: '14.0'
   codename: mondrian
   date: '2024-01-12'
@@ -30430,6 +30436,18 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.ULBEUXM/fw_zeus_miui_ZEUSEEAGlobal_OS1.0.12.0.ULBEUXM_3de4f1ef7e_14.0.zip
   name: Xiaomi 12 Pro
   version: OS1.0.12.0.ULBEUXM
+- android: '15.0'
+  codename: zeus
+  date: '2026-06-12'
+  download: https://bigota.d.miui.com/OS3.0.4.0.VLBMIXM/fw_zeus_zeus_global-ota_full-OS3.0.4.0.VLBMIXM-user-15.0-18ce810dc8.zip
+  name: Xiaomi 12 Pro
+  version: OS3.0.4.0.VLBMIXM
+- android: '15.0'
+  codename: zeus
+  date: '2026-06-12'
+  download: https://bigota.d.miui.com/OS3.0.3.0.VLBINXM/fw_zeus_zeus_in_global-ota_full-OS3.0.3.0.VLBINXM-user-15.0-8cf0d65535.zip
+  name: Xiaomi 12 Pro
+  version: OS3.0.3.0.VLBINXM
 - android: '15.0'
   codename: zeus
   date: '2025-05-12'

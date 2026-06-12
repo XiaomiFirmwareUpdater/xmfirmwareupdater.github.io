@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 12 Jun 2026 12:57:32 </lastBuildDate>
+        <lastBuildDate>Fri, 12 Jun 2026 19:21:25 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K60/POCO F5 Pro (mondrian) - OS3.0.8.0.VMNCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
+            <pubDate>Fri, 12 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - OS3.0.4.0.VLBMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
+            <pubDate>Fri, 12 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 12 Pro (zeus) - OS3.0.3.0.VLBINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
+            <pubDate>Fri, 12 Jun 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi A7 Pro/POCO C81/C81 Pro (arctic) - OS3.0.3.0.WBVINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/arctic/</link>
@@ -1432,11 +1447,6 @@
             <pubDate>Tue, 31 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12 Pro (zeus) - OS3.0.2.0.VLBINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Tue, 31 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS3.0.2.0.WNRINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
             <pubDate>Mon, 30 Mar 2026 00:00:00 </pubDate>
@@ -1512,11 +1522,6 @@
             <pubDate>Mon, 23 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 12 Pro (zeus) - OS3.0.3.0.VLBMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
-            <pubDate>Mon, 23 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 12 Pro (zeus) - OS3.0.2.0.VLBEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zeus/</link>
             <pubDate>Mon, 23 Mar 2026 00:00:00 </pubDate>
@@ -1570,11 +1575,6 @@
             <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.8.0.WPKEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
             <pubDate>Tue, 24 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60/POCO F5 Pro (mondrian) - OS3.0.5.0.VMNCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
-            <pubDate>Mon, 09 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - OS1.0.5.0.TKHMIXM</title>
