@@ -29080,6 +29080,12 @@
   download: https://bigota.d.miui.com/OS2.0.205.0.VOAEUXM/fw_xuanyuan_eea_global_xuanyuan_eea_global-ota_full-OS2.0.205.0.VOAEUXM-user-15.0-c4d6b272ed.zip
   name: Xiaomi 15 Ultra
   version: OS2.0.205.0.VOAEUXM
+- android: '16.0'
+  codename: xuanyuan
+  date: '2026-06-13'
+  download: https://bigota.d.miui.com/OS3.0.306.0.WOACNXM/fw_xuanyuan_xuanyuan-ota_full-OS3.0.306.0.WOACNXM-user-16.0-c0d4770ecf.zip
+  name: Xiaomi 15 Ultra
+  version: OS3.0.306.0.WOACNXM
 - android: '15.0'
   codename: xuanyuan
   date: '2025-03-13'

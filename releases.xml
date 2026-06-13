@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 13 Jun 2026 12:42:01 </lastBuildDate>
+        <lastBuildDate>Sat, 13 Jun 2026 18:54:25 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 15 Ultra (xuanyuan) - OS3.0.306.0.WOACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
+            <pubDate>Sat, 13 Jun 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS3.0.4.0.WPWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flute/</link>
@@ -1369,11 +1374,6 @@
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.4.0.WOPEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
-            <pubDate>Tue, 14 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 Ultra (xuanyuan) - OS3.0.303.0.WOACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Tue, 14 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
