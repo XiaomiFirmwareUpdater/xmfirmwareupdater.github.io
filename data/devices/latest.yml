@@ -4809,15 +4809,15 @@
     android: '15.0'
     miui: OS3.0.3.0.VLHCNXM
 - branch: stable
-  date: '2026-04-13'
+  date: '2026-06-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-13.04.2026/fw_peridot_peridot_global-ota_full-OS3.0.6.0.WNPMIXM-user-16.0-b087d448c8.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/peridot/fw_peridot_peridot_global-ota_full-OS3.0.6.0.WNPMIXM-user-16.0-b087d448c8.zip
-  filename: fw_peridot_peridot_global-ota_full-OS3.0.6.0.WNPMIXM-user-16.0-b087d448c8.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-14.06.2026/fw_peridot_peridot_global-ota_full-OS3.0.301.0.WNPMIXM-user-16.0-72cdfef36f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/peridot/fw_peridot_peridot_global-ota_full-OS3.0.301.0.WNPMIXM-user-16.0-72cdfef36f.zip
+  filename: fw_peridot_peridot_global-ota_full-OS3.0.301.0.WNPMIXM-user-16.0-72cdfef36f.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.6.0.WNPMIXM
+    miui: OS3.0.301.0.WNPMIXM
 - branch: stable
   date: '2026-04-30'
   downloads:
@@ -4829,15 +4829,15 @@
     android: '16.0'
     miui: OS3.0.303.0.WNPCNXM
 - branch: stable
-  date: '2026-06-05'
+  date: '2026-06-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-05.06.2026/fw_peridot_peridot_eea_global-ota_full-OS3.0.6.0.WNPEUXM-user-16.0-8c48c02d88.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/peridot/fw_peridot_peridot_eea_global-ota_full-OS3.0.6.0.WNPEUXM-user-16.0-8c48c02d88.zip
-  filename: fw_peridot_peridot_eea_global-ota_full-OS3.0.6.0.WNPEUXM-user-16.0-8c48c02d88.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-14.06.2026/fw_peridot_peridot_eea_global-ota_full-OS3.0.302.0.WNPEUXM-user-16.0-9c872db135.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/peridot/fw_peridot_peridot_eea_global-ota_full-OS3.0.302.0.WNPEUXM-user-16.0-9c872db135.zip
+  filename: fw_peridot_peridot_eea_global-ota_full-OS3.0.302.0.WNPEUXM-user-16.0-9c872db135.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.6.0.WNPEUXM
+    miui: OS3.0.302.0.WNPEUXM
 - branch: stable
   date: '2026-04-24'
   downloads:
@@ -6739,15 +6739,15 @@
     android: '15.0'
     miui: OS2.0.205.0.VMGMIXM
 - branch: stable
-  date: '2026-04-30'
+  date: '2026-06-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_topaz/releases/download/stable-30.04.2026/fw_topaz_topaz_eea_global-ota_full-OS2.0.211.0.VMGEUXM-user-15.0-682e5d8d03.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/topaz/fw_topaz_topaz_eea_global-ota_full-OS2.0.211.0.VMGEUXM-user-15.0-682e5d8d03.zip
-  filename: fw_topaz_topaz_eea_global-ota_full-OS2.0.211.0.VMGEUXM-user-15.0-682e5d8d03.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_topaz/releases/download/stable-14.06.2026/fw_topaz_topaz_eea_global-ota_full-OS2.0.212.0.VMGEUXM-user-15.0-03bfb68060.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/topaz/fw_topaz_topaz_eea_global-ota_full-OS2.0.212.0.VMGEUXM-user-15.0-03bfb68060.zip
+  filename: fw_topaz_topaz_eea_global-ota_full-OS2.0.212.0.VMGEUXM-user-15.0-03bfb68060.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.211.0.VMGEUXM
+    miui: OS2.0.212.0.VMGEUXM
 - branch: stable
   date: '2026-06-03'
   downloads:

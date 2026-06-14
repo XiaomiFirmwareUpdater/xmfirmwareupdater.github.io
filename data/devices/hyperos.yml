@@ -18424,6 +18424,18 @@
   download: https://bigota.d.miui.com/OS1.0.16.0.UNPCNXM/fw_peridot_miui_PERIDOT_OS1.0.16.0.UNPCNXM_a11ee61712_14.0.zip
   name: Redmi Turbo 3/POCO F6
   version: OS1.0.16.0.UNPCNXM
+- android: '16.0'
+  codename: peridot
+  date: '2026-06-14'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WNPEUXM/fw_peridot_peridot_eea_global-ota_full-OS3.0.302.0.WNPEUXM-user-16.0-9c872db135.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS3.0.302.0.WNPEUXM
+- android: '16.0'
+  codename: peridot
+  date: '2026-06-14'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WNPMIXM/fw_peridot_peridot_global-ota_full-OS3.0.301.0.WNPMIXM-user-16.0-72cdfef36f.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS3.0.301.0.WNPMIXM
 - android: '15.0'
   codename: peridot
   date: '2025-05-14'
@@ -26572,6 +26584,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UMGEUXM/fw_topaz_miui_TOPAZEEAGlobal_OS1.0.7.0.UMGEUXM_5b32c81f19_14.0.zip
   name: Redmi Note 12 4G NFC
   version: OS1.0.7.0.UMGEUXM
+- android: '15.0'
+  codename: topaz
+  date: '2026-06-14'
+  download: https://bigota.d.miui.com/OS2.0.212.0.VMGEUXM/fw_topaz_topaz_eea_global-ota_full-OS2.0.212.0.VMGEUXM-user-15.0-03bfb68060.zip
+  name: Redmi Note 12 4G NFC
+  version: OS2.0.212.0.VMGEUXM
 - android: '15.0'
   codename: topaz
   date: '2025-05-14'

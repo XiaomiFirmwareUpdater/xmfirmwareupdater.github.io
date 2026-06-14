@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 14 Jun 2026 12:42:06 </lastBuildDate>
+        <lastBuildDate>Sun, 14 Jun 2026 19:06:45 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Turbo 3/POCO F6 (peridot) - OS3.0.301.0.WNPMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
+            <pubDate>Sun, 14 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 3/POCO F6 (peridot) - OS3.0.302.0.WNPEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
+            <pubDate>Sun, 14 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12 4G NFC (topaz) - OS2.0.212.0.VMGEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/topaz/</link>
+            <pubDate>Sun, 14 Jun 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 15 Ultra (xuanyuan) - OS3.0.306.0.WOACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
@@ -229,11 +244,6 @@
         <item>
             <title>Redmi Pad 2 Pro 5G (organ) - OS3.0.303.0.WPXCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/organ/</link>
-            <pubDate>Fri, 05 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 3/POCO F6 (peridot) - OS3.0.6.0.WNPEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
             <pubDate>Fri, 05 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1167,11 +1177,6 @@
             <pubDate>Thu, 30 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12 4G NFC (topaz) - OS2.0.211.0.VMGEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/topaz/</link>
-            <pubDate>Thu, 30 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.301.0.WNKMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Thu, 30 Apr 2026 00:00:00 </pubDate>
@@ -1379,11 +1384,6 @@
         <item>
             <title>Xiaomi Civi 5 Pro (luming) - OS3.0.302.0.WOICNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/luming/</link>
-            <pubDate>Mon, 13 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 3/POCO F6 (peridot) - OS3.0.6.0.WNPMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
             <pubDate>Mon, 13 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
