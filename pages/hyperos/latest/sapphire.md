@@ -54,8 +54,10 @@ permalink: /hyperos/sapphire/
                 <tbody>
                 <tr><td>Redmi Note 13 Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.210.0.VNGMIXM</td><td>15.0</td><td>7.6 GB</td><td>2026-03-13</td><td><a href="/hyperos/sapphire/stable/OS2.0.210.0.VNGMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.210.0.VNGMIXM</td><td>15.0</td><td>4.9 GB</td><td>2026-03-23</td><td><a href="/hyperos/sapphire/stable/OS2.0.210.0.VNGMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.211.0.VNGMIXM</td><td>15.0</td><td>4.9 GB</td><td>2026-06-11</td><td><a href="/hyperos/sapphire/stable beta/OS2.0.211.0.VNGMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.212.0.VNHEUXM</td><td>15.0</td><td>7.1 GB</td><td>2026-03-20</td><td><a href="/hyperos/sapphiren/stable/OS2.0.212.0.VNHEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.212.0.VNHEUXM</td><td>15.0</td><td>4.9 GB</td><td>2026-04-03</td><td><a href="/hyperos/sapphiren/stable/OS2.0.212.0.VNHEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 NFC EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.213.0.VNHEUXM</td><td>15.0</td><td>4.9 GB</td><td>2026-06-10</td><td><a href="/hyperos/sapphiren/stable beta/OS2.0.213.0.VNHEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.209.0.VNHMIXM</td><td>15.0</td><td>7.6 GB</td><td>2026-03-14</td><td><a href="/hyperos/sapphiren/stable/OS2.0.209.0.VNHMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.209.0.VNHMIXM</td><td>15.0</td><td>4.9 GB</td><td>2026-03-23</td><td><a href="/hyperos/sapphiren/stable/OS2.0.209.0.VNHMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 13 NFC Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.210.0.VNHMIXM</td><td>15.0</td><td>4.9 GB</td><td>2026-06-04</td><td><a href="/hyperos/sapphiren/stable beta/OS2.0.210.0.VNHMIXM/">Download</a></td></tr>

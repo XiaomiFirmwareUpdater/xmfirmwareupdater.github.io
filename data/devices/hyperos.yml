@@ -11026,6 +11026,18 @@
   download: https://bigota.d.miui.com/OS1.0.16.0.UNCEUXM/fw_houji_miui_HOUJIEEAGlobal_OS1.0.16.0.UNCEUXM_ffc0ba5581_14.0.zip
   name: Xiaomi 14
   version: OS1.0.16.0.UNCEUXM
+- android: '16.0'
+  codename: houji
+  date: '2026-06-15'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WNCMIXM/fw_houji_houji_global-ota_full-OS3.0.302.0.WNCMIXM-user-16.0-0a4e0d1882.zip
+  name: Xiaomi 14
+  version: OS3.0.302.0.WNCMIXM
+- android: '16.0'
+  codename: houji
+  date: '2026-06-15'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WNCINXM/fw_houji_houji_in_global-ota_full-OS3.0.302.0.WNCINXM-user-16.0-c6c60cca31.zip
+  name: Xiaomi 14
+  version: OS3.0.302.0.WNCINXM
 - android: '15.0'
   codename: houji
   date: '2025-04-15'
@@ -12046,6 +12058,12 @@
   download: https://bigota.d.miui.com/OS2.0.205.0.VOSMIXM/fw_klimt_global_klimt_global-ota_full-OS2.0.205.0.VOSMIXM-user-15.0-a97ad20a5e.zip
   name: Xiaomi 15T Pro
   version: OS2.0.205.0.VOSMIXM
+- android: '16.0'
+  codename: klimt
+  date: '2026-06-15'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WOSEUXM/fw_klimt_klimt_eea_global-ota_full-OS3.0.304.0.WOSEUXM-user-16.0-3077ab4a4d.zip
+  name: Xiaomi 15T Pro
+  version: OS3.0.304.0.WOSEUXM
 - android: '16.0'
   codename: klimt
   date: '2025-12-14'
@@ -22878,6 +22896,12 @@
   version: OS1.0.7.0.UNGMIXM
 - android: '15.0'
   codename: sapphire
+  date: '2026-06-15'
+  download: https://bigota.d.miui.com/OS2.0.211.0.VNGMIXM/fw_sapphire_sapphire_global-ota_full-OS2.0.211.0.VNGMIXM-user-15.0-857602d8aa.zip
+  name: Redmi Note 13
+  version: OS2.0.211.0.VNGMIXM
+- android: '15.0'
+  codename: sapphire
   date: '2026-04-15'
   download: https://bigota.d.miui.com/OS2.0.210.0.VNGMIXM/fw_sapphire_sapphire_global-ota_full-OS2.0.210.0.VNGMIXM-user-15.0-09bcc4ce74.zip
   name: Redmi Note 13
@@ -23104,6 +23128,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UNHEUXM/fw_sapphiren_miui_SAPPHIRENEEAGlobal_OS1.0.1.0.UNHEUXM_3e12bdc8b2_14.0.zip
   name: Redmi Note 13 NFC
   version: OS1.0.1.0.UNHEUXM
+- android: '15.0'
+  codename: sapphiren
+  date: '2026-06-15'
+  download: https://bigota.d.miui.com/OS2.0.213.0.VNHEUXM/fw_sapphiren_sapphiren_eea_global-ota_full-OS2.0.213.0.VNHEUXM-user-15.0-c45a17128f.zip
+  name: Redmi Note 13 NFC
+  version: OS2.0.213.0.VNHEUXM
 - android: '15.0'
   codename: sapphiren
   date: '2025-11-14'
@@ -26952,6 +26982,12 @@
   version: OS3.0.5.0.WAOCNXM
 - android: '16.0'
   codename: turner
+  date: '2026-06-15'
+  download: https://bigota.d.miui.com/OS3.0.306.0.WAOCNXM/fw_turner_turner-ota_full-OS3.0.306.0.WAOCNXM-user-16.0-d51a69f089.zip
+  name: Redmi K Pad/Xiaomi Pad Mini
+  version: OS3.0.306.0.WAOCNXM
+- android: '16.0'
+  codename: turner
   date: '2025-12-11'
   download: https://bigota.d.miui.com/OS3.0.2.0.WAOMIXM/fw_turner_turner_global-ota_full-OS3.0.2.0.WAOMIXM-user-16.0-17cb59a66b.zip
   name: Redmi K Pad/Xiaomi Pad Mini
@@ -30484,6 +30520,12 @@
   download: https://bigota.d.miui.com/OS2.0.6.0.VLBMIXM/fw_zeus_global_zeus_global-ota_full-OS2.0.6.0.VLBMIXM-user-15.0-9f59e8bce0.zip
   name: Xiaomi 12 Pro
   version: OS2.0.6.0.VLBMIXM
+- android: '15.0'
+  codename: zeus
+  date: '2026-06-15'
+  download: https://bigota.d.miui.com/OS3.0.3.0.VLBEUXM/fw_zeus_zeus_eea_global-ota_full-OS3.0.3.0.VLBEUXM-user-15.0-08b1c16424.zip
+  name: Xiaomi 12 Pro
+  version: OS3.0.3.0.VLBEUXM
 - android: '14.0'
   codename: zeus
   date: '2024-05-13'
