@@ -6208,6 +6208,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UNLEUXM/fw_duchamp_miui_DUCHAMPEEAGlobal_OS1.0.12.0.UNLEUXM_04b7c5cd11_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS1.0.12.0.UNLEUXM
+- android: '16.0'
+  codename: duchamp
+  date: '2026-06-15'
+  download: https://bigota.d.miui.com/OS3.0.6.0.WNLEUXM/fw_duchamp_duchamp_eea_global-ota_full-OS3.0.6.0.WNLEUXM-user-16.0-080cd885c5.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS3.0.6.0.WNLEUXM
 - android: '15.0'
   codename: duchamp
   date: '2025-07-14'
@@ -11026,6 +11032,12 @@
   download: https://bigota.d.miui.com/OS1.0.16.0.UNCEUXM/fw_houji_miui_HOUJIEEAGlobal_OS1.0.16.0.UNCEUXM_ffc0ba5581_14.0.zip
   name: Xiaomi 14
   version: OS1.0.16.0.UNCEUXM
+- android: '16.0'
+  codename: houji
+  date: '2026-06-15'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WNCEUXM/fw_houji_houji_eea_global-ota_full-OS3.0.302.0.WNCEUXM-user-16.0-76040ccc8e.zip
+  name: Xiaomi 14
+  version: OS3.0.302.0.WNCEUXM
 - android: '16.0'
   codename: houji
   date: '2026-06-15'
