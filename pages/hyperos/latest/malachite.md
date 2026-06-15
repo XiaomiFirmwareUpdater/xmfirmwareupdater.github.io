@@ -65,10 +65,13 @@ permalink: /hyperos/malachite/
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WOOTWXM</td><td>16.0</td><td>6.3 GB</td><td>2026-04-14</td><td><a href="/hyperos/malachite/stable/OS3.0.4.0.WOOTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOOMIXM</td><td>16.0</td><td>10.2 GB</td><td>2026-05-19</td><td><a href="/hyperos/malachite/stable/OS3.0.302.0.WOOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOOMIXM</td><td>16.0</td><td>6.5 GB</td><td>2026-05-22</td><td><a href="/hyperos/malachite/stable/OS3.0.302.0.WOOMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro 5G / POCO X7 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WOOIDXM</td><td>16.0</td><td>6.4 GB</td><td>2026-06-10</td><td><a href="/hyperos/malachite/stable beta/OS3.0.301.0.WOOIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WOOINXM</td><td>16.0</td><td>8.2 GB</td><td>2026-05-20</td><td><a href="/hyperos/malachite/stable/OS3.0.301.0.WOOINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 India</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WOOINXM</td><td>16.0</td><td>6.2 GB</td><td>2026-06-02</td><td><a href="/hyperos/malachite/stable/OS3.0.301.0.WOOINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WOORUXM</td><td>16.0</td><td>10.0 GB</td><td>2026-05-20</td><td><a href="/hyperos/malachite/stable/OS3.0.301.0.WOORUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro 5G / POCO X7 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WOORUXM</td><td>16.0</td><td>6.3 GB</td><td>2026-05-29</td><td><a href="/hyperos/malachite/stable/OS3.0.301.0.WOORUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro 5G / POCO X7 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WOOTRXM</td><td>16.0</td><td>6.4 GB</td><td>2026-06-10</td><td><a href="/hyperos/malachite/stable beta/OS3.0.301.0.WOOTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro 5G / POCO X7 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WOOTWXM</td><td>16.0</td><td>6.3 GB</td><td>2026-06-10</td><td><a href="/hyperos/malachite/stable beta/OS3.0.301.0.WOOTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

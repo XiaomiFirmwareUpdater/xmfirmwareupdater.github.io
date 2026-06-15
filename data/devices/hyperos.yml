@@ -3304,6 +3304,18 @@
   download: https://bigota.d.miui.com/OS1.0.24.0.UMLCNXM/fw_corot_miui_COROT_OS1.0.24.0.UMLCNXM_fb0be63a63_14.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
   version: OS1.0.24.0.UMLCNXM
+- android: '16.0'
+  codename: corot
+  date: '2026-06-15'
+  download: https://bigota.d.miui.com/OS3.0.7.0.WMLEUXM/fw_corot_corot_eea_global-ota_full-OS3.0.7.0.WMLEUXM-user-16.0-c2f66c6f1a.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS3.0.7.0.WMLEUXM
+- android: '16.0'
+  codename: corot
+  date: '2026-06-15'
+  download: https://bigota.d.miui.com/OS3.0.3.0.WMLMIXM/fw_corot_corot_global-ota_full-OS3.0.3.0.WMLMIXM-user-16.0-aeb916e9e1.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS3.0.3.0.WMLMIXM
 - android: '14.0'
   codename: corot
   date: '2024-01-15'
@@ -4138,6 +4150,12 @@
   download: https://bigota.d.miui.com/OS2.0.20.0.VOCCNXM/fw_dada_dada-ota_full-OS2.0.20.0.VOCCNXM-user-15.0-76d4a1a4cb.zip
   name: Xiaomi 15
   version: OS2.0.20.0.VOCCNXM
+- android: '16.0'
+  codename: dada
+  date: '2026-06-15'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WOCCNXM/fw_dada_dada-ota_full-OS3.0.303.0.WOCCNXM-user-16.0-527efd3838.zip
+  name: Xiaomi 15
+  version: OS3.0.303.0.WOCCNXM
 - android: '16.0'
   codename: dada
   date: '2025-11-13'
@@ -12184,6 +12202,12 @@
   download: https://bigota.d.miui.com/OS2.0.200.0.VOWINXM/fw_koto_in_global_koto_in_global-ota_full-OS2.0.200.0.VOWINXM-user-15.0-85a025237e.zip
   name: Redmi Pad 2 4G
   version: OS2.0.200.0.VOWINXM
+- android: '16.0'
+  codename: koto
+  date: '2026-06-15'
+  download: https://bigota.d.miui.com/OS3.0.5.0.WOWMIXM/fw_koto_koto_global-ota_full-OS3.0.5.0.WOWMIXM-user-16.0-7834cebd07.zip
+  name: Redmi Pad 2 4G
+  version: OS3.0.5.0.WOWMIXM
 - android: '16.0'
   codename: koto
   date: '2026-03-12'
@@ -20920,6 +20944,12 @@
   download: https://bigota.d.miui.com/OS3.0.3.0.WOJEUXM/fw_rodin_rodin_eea_global-ota_full-OS3.0.3.0.WOJEUXM-user-16.0-fcc86f0093.zip
   name: Redmi Turbo 4/POCO X7 Pro
   version: OS3.0.3.0.WOJEUXM
+- android: '16.0'
+  codename: rodin
+  date: '2026-06-15'
+  download: https://bigota.d.miui.com/OS3.0.300.0.WOJMIXM/fw_rodin_rodin_global-ota_full-OS3.0.300.0.WOJMIXM-user-16.0-b23c60922f.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS3.0.300.0.WOJMIXM
 - android: '15.0'
   codename: rodin
   date: '2025-04-14'
@@ -26044,6 +26074,18 @@
   download: https://bigota.d.miui.com/OS1.0.26.0.ULIMIXM/fw_taoyao_miui_TAOYAOGlobal_OS1.0.26.0.ULIMIXM_749aec8e38_14.0.zip
   name: Xiaomi 12 Lite
   version: OS1.0.26.0.ULIMIXM
+- android: '14.0'
+  codename: taoyao
+  date: '2026-06-15'
+  download: https://bigota.d.miui.com/OS1.0.39.0.ULIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_OS1.0.39.0.ULIEUXM_23371ecf31_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.39.0.ULIEUXM
+- android: '14.0'
+  codename: taoyao
+  date: '2026-06-15'
+  download: https://bigota.d.miui.com/OS1.0.34.0.ULIMIXM/fw_taoyao_miui_TAOYAOGlobal_OS1.0.34.0.ULIMIXM_6f4b2481b8_14.0.zip
+  name: Xiaomi 12 Lite
+  version: OS1.0.34.0.ULIMIXM
 - android: '14.0'
   codename: taoyao
   date: '2025-07-14'

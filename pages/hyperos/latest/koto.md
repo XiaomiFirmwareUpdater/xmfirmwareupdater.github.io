@@ -56,6 +56,7 @@ permalink: /hyperos/koto/
 <tr><td>Redmi Pad 2 4G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WOWEUXM</td><td>16.0</td><td>5.6 GB</td><td>2026-05-21</td><td><a href="/hyperos/koto/stable/OS3.0.301.0.WOWEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 4G Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WOWMIXM</td><td>16.0</td><td>7.6 GB</td><td>2026-03-20</td><td><a href="/hyperos/koto/stable/OS3.0.4.0.WOWMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 4G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WOWMIXM</td><td>16.0</td><td>5.5 GB</td><td>2026-03-30</td><td><a href="/hyperos/koto/stable/OS3.0.4.0.WOWMIXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 4G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.5.0.WOWMIXM</td><td>16.0</td><td>5.5 GB</td><td>2026-06-11</td><td><a href="/hyperos/koto/stable beta/OS3.0.5.0.WOWMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 4G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOWIDXM</td><td>16.0</td><td>7.0 GB</td><td>2026-03-30</td><td><a href="/hyperos/koto/stable/OS3.0.3.0.WOWIDXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 4G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOWIDXM</td><td>16.0</td><td>5.5 GB</td><td>2026-04-07</td><td><a href="/hyperos/koto/stable/OS3.0.3.0.WOWIDXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 4G India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WOWINXM</td><td>16.0</td><td>6.5 GB</td><td>2026-04-13</td><td><a href="/hyperos/koto/stable/OS3.0.2.0.WOWINXM/">Download</a></td></tr>
