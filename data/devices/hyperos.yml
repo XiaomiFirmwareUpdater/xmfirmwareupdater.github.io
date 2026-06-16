@@ -12702,6 +12702,12 @@
   version: OS3.0.302.0.WPPCNXM
 - android: '16.0'
   codename: lapis
+  date: '2026-06-16'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WPPINXM/fw_lapis_lapis_in_global-ota_full-OS3.0.302.0.WPPINXM-user-16.0-44cbdb25bd.zip
+  name: Redmi Note 15 Pro 5G
+  version: OS3.0.302.0.WPPINXM
+- android: '16.0'
+  codename: lapis
   date: '2026-04-16'
   download: https://bigota.d.miui.com/OS3.0.2.0.WPPEUXM/fw_lapis_lapis_eea_global-ota_full-OS3.0.2.0.WPPEUXM-user-16.0-f3b1ac5bd7.zip
   name: Redmi Note 15 Pro 5G

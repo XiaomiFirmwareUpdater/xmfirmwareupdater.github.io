@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 16 Jun 2026 06:59:48 </lastBuildDate>
+        <lastBuildDate>Tue, 16 Jun 2026 12:51:54 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS3.0.313.0.WPRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
+            <pubDate>Tue, 16 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 Pro 5G (lapis) - OS3.0.302.0.WPPINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
             <pubDate>Tue, 16 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -679,11 +684,6 @@
         <item>
             <title>Redmi Turbo 5/POCO X8 Pro (klee) - OS3.0.303.0.WPJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/klee/</link>
-            <pubDate>Sat, 23 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 Pro 5G (lapis) - OS3.0.301.0.WPPINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
             <pubDate>Sat, 23 May 2026 00:00:00 </pubDate>
         </item>
         <item>
