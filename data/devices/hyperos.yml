@@ -7956,6 +7956,12 @@
   version: OS3.0.304.0.WPRCNXM
 - android: '16.0'
   codename: flourite
+  date: '2026-06-16'
+  download: https://bigota.d.miui.com/OS3.0.313.0.WPRCNXM/fw_flourite_flourite-ota_full-OS3.0.313.0.WPRCNXM-user-16.0-7b3a7ecb5c.zip
+  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
+  version: OS3.0.313.0.WPRCNXM
+- android: '16.0'
+  codename: flourite
   date: '2026-03-16'
   download: https://bigota.d.miui.com/OS3.0.7.0.WPRCNXM/fw_flourite_flourite-ota_full-OS3.0.7.0.WPRCNXM-user-16.0-f6c1faba6e.zip
   name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
@@ -20956,6 +20962,12 @@
   download: https://bigota.d.miui.com/OS3.0.302.0.WOJCNXM/fw_rodin_rodin-ota_full-OS3.0.302.0.WOJCNXM-user-16.0-753523063d.zip
   name: Redmi Turbo 4/POCO X7 Pro
   version: OS3.0.302.0.WOJCNXM
+- android: '16.0'
+  codename: rodin
+  date: '2026-06-16'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WOJINXM/fw_rodin_rodin_in_global-ota_full-OS3.0.301.0.WOJINXM-user-16.0-0d8d70a3f8.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS3.0.301.0.WOJINXM
 - android: '15.0'
   codename: rodin
   date: '2025-02-16'

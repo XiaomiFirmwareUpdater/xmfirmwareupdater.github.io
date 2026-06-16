@@ -65,6 +65,7 @@ permalink: /hyperos/tanzanite/
 <tr><td>Redmi Note 14 4G Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.211.0.VOGTRXM</td><td>15.0</td><td>5.0 GB</td><td>2026-04-14</td><td><a href="/hyperos/tanzanite/stable/OS2.0.211.0.VOGTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 4G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WOGIDXM</td><td>16.0</td><td>5.3 GB</td><td>2026-06-04</td><td><a href="/hyperos/tanzanite/stable beta/OS3.0.301.0.WOGIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 4G Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WOGRUXM</td><td>16.0</td><td>5.2 GB</td><td>2026-06-04</td><td><a href="/hyperos/tanzanite/stable beta/OS3.0.301.0.WOGRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 4G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WOGTRXM</td><td>16.0</td><td>5.3 GB</td><td>2026-06-08</td><td><a href="/hyperos/tanzanite/stable beta/OS3.0.301.0.WOGTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 4G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.209.0.VOGTWXM</td><td>15.0</td><td>5.9 GB</td><td>2026-04-02</td><td><a href="/hyperos/tanzanite/stable/OS2.0.209.0.VOGTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 4G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.209.0.VOGTWXM</td><td>15.0</td><td>4.8 GB</td><td>2026-04-14</td><td><a href="/hyperos/tanzanite/stable/OS2.0.209.0.VOGTWXM/">Download</a></td></tr>
 
