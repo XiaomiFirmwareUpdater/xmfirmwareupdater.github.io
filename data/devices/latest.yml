@@ -4679,15 +4679,15 @@
     android: '16.0'
     miui: OS3.0.6.0.WOLEUXM
 - branch: stable
-  date: '2026-04-30'
+  date: '2026-06-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-30.04.2026/fw_onyx_onyx_in_global-ota_full-OS3.0.5.0.WOLINXM-user-16.0-ab6c36cf18.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/onyx/fw_onyx_onyx_in_global-ota_full-OS3.0.5.0.WOLINXM-user-16.0-ab6c36cf18.zip
-  filename: fw_onyx_onyx_in_global-ota_full-OS3.0.5.0.WOLINXM-user-16.0-ab6c36cf18.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-17.06.2026/fw_onyx_onyx_in_global-ota_full-OS3.0.301.0.WOLINXM-user-16.0-d8dd53e894.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/onyx/fw_onyx_onyx_in_global-ota_full-OS3.0.301.0.WOLINXM-user-16.0-d8dd53e894.zip
+  filename: fw_onyx_onyx_in_global-ota_full-OS3.0.301.0.WOLINXM-user-16.0-d8dd53e894.zip
   region: India
   versions:
     android: '16.0'
-    miui: OS3.0.5.0.WOLINXM
+    miui: OS3.0.301.0.WOLINXM
 - branch: stable
   date: '2024-04-01'
   downloads:
