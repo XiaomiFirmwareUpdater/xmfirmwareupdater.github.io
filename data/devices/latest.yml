@@ -4789,15 +4789,15 @@
     android: '7.1'
     miui: 9.10.10
 - branch: stable
-  date: '2026-06-09'
+  date: '2026-06-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pandora/releases/download/stable-09.06.2026/fw_pandora_pandora-ota_full-OS3.0.313.0.WBLCNXM-user-16.0-99e4e5877c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/pandora/fw_pandora_pandora-ota_full-OS3.0.313.0.WBLCNXM-user-16.0-99e4e5877c.zip
-  filename: fw_pandora_pandora-ota_full-OS3.0.313.0.WBLCNXM-user-16.0-99e4e5877c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pandora/releases/download/stable-18.06.2026/fw_pandora_pandora-ota_full-OS3.0.315.0.WBLCNXM-user-16.0-e3be6d89d1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/pandora/fw_pandora_pandora-ota_full-OS3.0.315.0.WBLCNXM-user-16.0-e3be6d89d1.zip
+  filename: fw_pandora_pandora-ota_full-OS3.0.315.0.WBLCNXM-user-16.0-e3be6d89d1.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.313.0.WBLCNXM
+    miui: OS3.0.315.0.WBLCNXM
 - branch: stable
   date: '2026-04-20'
   downloads:
@@ -5199,15 +5199,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2026-06-09'
+  date: '2026-06-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_popsicle/releases/download/stable-09.06.2026/fw_popsicle_popsicle-ota_full-OS3.0.313.0.WPBCNXM-user-16.0-686872c474.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/popsicle/fw_popsicle_popsicle-ota_full-OS3.0.313.0.WPBCNXM-user-16.0-686872c474.zip
-  filename: fw_popsicle_popsicle-ota_full-OS3.0.313.0.WPBCNXM-user-16.0-686872c474.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_popsicle/releases/download/stable-18.06.2026/fw_popsicle_popsicle-ota_full-OS3.0.315.0.WPBCNXM-user-16.0-a1c9988f36.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/popsicle/fw_popsicle_popsicle-ota_full-OS3.0.315.0.WPBCNXM-user-16.0-a1c9988f36.zip
+  filename: fw_popsicle_popsicle-ota_full-OS3.0.315.0.WPBCNXM-user-16.0-a1c9988f36.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.313.0.WPBCNXM
+    miui: OS3.0.315.0.WPBCNXM
 - branch: stable
   date: '2019-05-21'
   downloads:
@@ -5289,15 +5289,15 @@
     android: '16.0'
     miui: OS3.0.302.0.WPCMIXM
 - branch: stable
-  date: '2026-06-04'
+  date: '2026-06-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pudding/releases/download/stable-04.06.2026/fw_pudding_pudding-ota_full-OS3.0.313.0.WPCCNXM-user-16.0-0d94b53220.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/pudding/fw_pudding_pudding-ota_full-OS3.0.313.0.WPCCNXM-user-16.0-0d94b53220.zip
-  filename: fw_pudding_pudding-ota_full-OS3.0.313.0.WPCCNXM-user-16.0-0d94b53220.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pudding/releases/download/stable-18.06.2026/fw_pudding_pudding-ota_full-OS3.0.315.0.WPCCNXM-user-16.0-68323e7072.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/pudding/fw_pudding_pudding-ota_full-OS3.0.315.0.WPCCNXM-user-16.0-68323e7072.zip
+  filename: fw_pudding_pudding-ota_full-OS3.0.315.0.WPCCNXM-user-16.0-68323e7072.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.313.0.WPCCNXM
+    miui: OS3.0.315.0.WPCCNXM
 - branch: stable
   date: '2026-05-18'
   downloads:
@@ -5839,15 +5839,15 @@
     android: '14.0'
     miui: OS2.0.11.0.UMOINXM
 - branch: stable
-  date: '2026-05-06'
+  date: '2026-06-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-07.05.2026/fw_ruyi_ruyi_global-ota_full-OS3.0.301.0.WNIMIXM-user-16.0-836af3b483.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ruyi/fw_ruyi_ruyi_global-ota_full-OS3.0.301.0.WNIMIXM-user-16.0-836af3b483.zip
-  filename: fw_ruyi_ruyi_global-ota_full-OS3.0.301.0.WNIMIXM-user-16.0-836af3b483.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-18.06.2026/fw_ruyi_ruyi_global-ota_full-OS3.0.302.0.WNIMIXM-user-16.0-f273dbbf57.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ruyi/fw_ruyi_ruyi_global-ota_full-OS3.0.302.0.WNIMIXM-user-16.0-f273dbbf57.zip
+  filename: fw_ruyi_ruyi_global-ota_full-OS3.0.302.0.WNIMIXM-user-16.0-f273dbbf57.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.301.0.WNIMIXM
+    miui: OS3.0.302.0.WNIMIXM
 - branch: stable
   date: '2026-06-18'
   downloads:
@@ -5859,15 +5859,15 @@
     android: '16.0'
     miui: OS3.0.305.0.WNICNXM
 - branch: stable
-  date: '2026-05-06'
+  date: '2026-06-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-07.05.2026/fw_ruyi_ruyi_eea_global-ota_full-OS3.0.301.0.WNIEUXM-user-16.0-fb49bd5e36.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ruyi/fw_ruyi_ruyi_eea_global-ota_full-OS3.0.301.0.WNIEUXM-user-16.0-fb49bd5e36.zip
-  filename: fw_ruyi_ruyi_eea_global-ota_full-OS3.0.301.0.WNIEUXM-user-16.0-fb49bd5e36.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-18.06.2026/fw_ruyi_ruyi_eea_global-ota_full-OS3.0.302.0.WNIEUXM-user-16.0-172bfa30af.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ruyi/fw_ruyi_ruyi_eea_global-ota_full-OS3.0.302.0.WNIEUXM-user-16.0-172bfa30af.zip
+  filename: fw_ruyi_ruyi_eea_global-ota_full-OS3.0.302.0.WNIEUXM-user-16.0-172bfa30af.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.301.0.WNIEUXM
+    miui: OS3.0.302.0.WNIEUXM
 - branch: stable
   date: '2020-03-23'
   downloads:

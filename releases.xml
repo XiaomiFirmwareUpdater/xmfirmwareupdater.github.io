@@ -4,10 +4,35 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 18 Jun 2026 12:56:54 </lastBuildDate>
+        <lastBuildDate>Thu, 18 Jun 2026 19:39:12 </lastBuildDate>
         <language>en-us</language>
         <item>
+            <title>Xiaomi 17 Pro (pandora) - OS3.0.315.0.WBLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/pandora/</link>
+            <pubDate>Thu, 18 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17 Pro Max (popsicle) - OS3.0.315.0.WPBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/popsicle/</link>
+            <pubDate>Thu, 18 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17 (pudding) - OS3.0.315.0.WPCCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/pudding/</link>
+            <pubDate>Thu, 18 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>MIX Flip (ruyi) - OS3.0.302.0.WNIMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ruyi/</link>
+            <pubDate>Thu, 18 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>MIX Flip (ruyi) - OS3.0.305.0.WNICNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ruyi/</link>
+            <pubDate>Thu, 18 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>MIX Flip (ruyi) - OS3.0.302.0.WNIEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruyi/</link>
             <pubDate>Thu, 18 Jun 2026 00:00:00 </pubDate>
         </item>
@@ -212,16 +237,6 @@
             <pubDate>Tue, 09 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 17 Pro (pandora) - OS3.0.313.0.WBLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pandora/</link>
-            <pubDate>Tue, 09 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17 Pro Max (popsicle) - OS3.0.313.0.WPBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/popsicle/</link>
-            <pubDate>Tue, 09 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G (somalia) - OS3.0.10.0.WBWINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/somalia/</link>
             <pubDate>Tue, 09 Jun 2026 00:00:00 </pubDate>
@@ -360,11 +375,6 @@
             <title>Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) - OS2.0.209.0.VPOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
             <pubDate>Fri, 05 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17 (pudding) - OS3.0.313.0.WPCCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/pudding/</link>
-            <pubDate>Thu, 04 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 12S Ultra (thor) - OS3.0.6.0.VLACNXM</title>
@@ -1139,16 +1149,6 @@
         <item>
             <title>Redmi Pad Pro 5G/POCO Pad 5G (ruan) - OS3.0.1.0.WFSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruan/</link>
-            <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>MIX Flip (ruyi) - OS3.0.301.0.WNIMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ruyi/</link>
-            <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>MIX Flip (ruyi) - OS3.0.301.0.WNIEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ruyi/</link>
             <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
         </item>
         <item>

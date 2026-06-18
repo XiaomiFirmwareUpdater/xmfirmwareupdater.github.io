@@ -17958,6 +17958,12 @@
   version: OS3.0.40.0.WBLCNXM
 - android: '16.0'
   codename: pandora
+  date: '2026-06-18'
+  download: https://bigota.d.miui.com/OS3.0.315.0.WBLCNXM/fw_pandora_pandora-ota_full-OS3.0.315.0.WBLCNXM-user-16.0-e3be6d89d1.zip
+  name: Xiaomi 17 Pro
+  version: OS3.0.315.0.WBLCNXM
+- android: '16.0'
+  codename: pandora
   date: '2026-04-17'
   download: https://bigota.d.miui.com/OS3.0.306.0.WBLCNXM/fw_pandora_pandora-ota_full-OS3.0.306.0.WBLCNXM-user-16.0-3d7966dc54.zip
   name: Xiaomi 17 Pro
@@ -19746,6 +19752,12 @@
   version: OS3.0.40.0.WPBCNXM
 - android: '16.0'
   codename: popsicle
+  date: '2026-06-18'
+  download: https://bigota.d.miui.com/OS3.0.315.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.315.0.WPBCNXM-user-16.0-a1c9988f36.zip
+  name: Xiaomi 17 Pro Max
+  version: OS3.0.315.0.WPBCNXM
+- android: '16.0'
+  codename: popsicle
   date: '2026-04-17'
   download: https://bigota.d.miui.com/OS3.0.306.0.WPBCNXM/fw_popsicle_popsicle-ota_full-OS3.0.306.0.WPBCNXM-user-16.0-59bde8d0f9.zip
   name: Xiaomi 17 Pro Max
@@ -19996,6 +20008,12 @@
   download: https://bigota.d.miui.com/OS3.0.40.0.WPCCNXM/fw_pudding_pudding-ota_full-OS3.0.40.0.WPCCNXM-user-16.0-84d52fe6fd.zip
   name: Xiaomi 17
   version: OS3.0.40.0.WPCCNXM
+- android: '16.0'
+  codename: pudding
+  date: '2026-06-18'
+  download: https://bigota.d.miui.com/OS3.0.315.0.WPCCNXM/fw_pudding_pudding-ota_full-OS3.0.315.0.WPCCNXM-user-16.0-68323e7072.zip
+  name: Xiaomi 17
+  version: OS3.0.315.0.WPCCNXM
 - android: '16.0'
   codename: pudding
   date: '2026-05-18'
@@ -22708,6 +22726,18 @@
   download: https://bigota.d.miui.com/OS3.0.305.0.WNICNXM/fw_ruyi_ruyi-ota_full-OS3.0.305.0.WNICNXM-user-16.0-60a942c146.zip
   name: MIX Flip
   version: OS3.0.305.0.WNICNXM
+- android: '16.0'
+  codename: ruyi
+  date: '2026-06-18'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WNIEUXM/fw_ruyi_ruyi_eea_global-ota_full-OS3.0.302.0.WNIEUXM-user-16.0-172bfa30af.zip
+  name: MIX Flip
+  version: OS3.0.302.0.WNIEUXM
+- android: '16.0'
+  codename: ruyi
+  date: '2026-06-18'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WNIMIXM/fw_ruyi_ruyi_global-ota_full-OS3.0.302.0.WNIMIXM-user-16.0-f273dbbf57.zip
+  name: MIX Flip
+  version: OS3.0.302.0.WNIMIXM
 - android: '15.0'
   codename: ruyi
   date: '2025-06-18'
