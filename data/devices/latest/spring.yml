@@ -19,15 +19,15 @@
     android: '16.0'
     miui: OS3.0.302.0.WOUCNXM
 - branch: stable
-  date: '2026-04-10'
+  date: '2026-06-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spring/releases/download/stable-10.04.2026/fw_spring_spring_eea_global-ota_full-OS3.0.1.0.WOUEUXM-user-16.0-f2e43e1fbd.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/spring/fw_spring_spring_eea_global-ota_full-OS3.0.1.0.WOUEUXM-user-16.0-f2e43e1fbd.zip
-  filename: fw_spring_spring_eea_global-ota_full-OS3.0.1.0.WOUEUXM-user-16.0-f2e43e1fbd.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spring/releases/download/stable-20.06.2026/fw_spring_spring_eea_global-ota_full-OS3.0.2.0.WOUEUXM-user-16.0-530216b494.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/spring/fw_spring_spring_eea_global-ota_full-OS3.0.2.0.WOUEUXM-user-16.0-530216b494.zip
+  filename: fw_spring_spring_eea_global-ota_full-OS3.0.2.0.WOUEUXM-user-16.0-530216b494.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.1.0.WOUEUXM
+    miui: OS3.0.2.0.WOUEUXM
 - branch: stable
   date: '2026-04-24'
   downloads:
