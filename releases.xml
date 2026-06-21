@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 21 Jun 2026 12:41:57 </lastBuildDate>
+        <lastBuildDate>Sun, 21 Jun 2026 18:47:49 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G (spring) - OS3.0.302.0.WOUINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/spring/</link>
+            <pubDate>Sun, 21 Jun 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G (spring) - OS3.0.2.0.WOUEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spring/</link>
@@ -1309,11 +1314,6 @@
         <item>
             <title>Redmi Turbo 3/POCO F6 (peridot) - OS3.0.4.0.WNPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
-            <pubDate>Fri, 24 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G (spring) - OS3.0.1.0.WOUINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/spring/</link>
             <pubDate>Fri, 24 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
