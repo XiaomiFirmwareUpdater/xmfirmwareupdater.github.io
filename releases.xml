@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 22 Jun 2026 07:47:00 </lastBuildDate>
+        <lastBuildDate>Mon, 22 Jun 2026 18:43:17 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 15 (dada) - OS3.0.303.0.WOCINXM</title>
@@ -32,13 +32,28 @@
             <pubDate>Mon, 22 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 15T Pro (klimt) - OS3.0.302.0.WOSMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 15 5G/POCO M8 5G/15 SE 5G (kunzite) - OS2.0.208.0.VPQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
             <pubDate>Mon, 22 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi Pad 7 Pro (muyu) - OS3.0.302.0.WOYCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Pad Pro 5G/POCO Pad 5G (ruan) - OS3.0.303.0.WFSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruan/</link>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS3.0.302.0.WOZCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/uke/</link>
             <pubDate>Mon, 22 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1207,11 +1222,6 @@
             <pubDate>Tue, 05 May 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 15T Pro (klimt) - OS3.0.301.0.WOSMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
-            <pubDate>Thu, 30 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13 Pro (nuwa) - OS3.0.3.0.WMBINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Thu, 30 Apr 2026 00:00:00 </pubDate>
@@ -1482,18 +1492,8 @@
             <pubDate>Mon, 30 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 7 Pro (muyu) - OS3.0.301.0.WOYCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
-            <pubDate>Mon, 30 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K90 Pro Max/POCO F8 Ultra (myron) - OS3.0.13.0.WPMMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/myron/</link>
-            <pubDate>Mon, 30 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS3.0.301.0.WOZCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/uke/</link>
             <pubDate>Mon, 30 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
