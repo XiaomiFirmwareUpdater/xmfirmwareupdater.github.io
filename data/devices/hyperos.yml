@@ -4102,6 +4102,12 @@
   download: https://bigota.d.miui.com/OS3.0.2.0.WOCCNXM/fw_dada_dada-ota_full-OS3.0.2.0.WOCCNXM-user-16.0-eedf69a07b.zip
   name: Xiaomi 15
   version: OS3.0.2.0.WOCCNXM
+- android: '16.0'
+  codename: dada
+  date: '2026-06-22'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WOCINXM/fw_dada_dada_in_global-ota_full-OS3.0.303.0.WOCINXM-user-16.0-42d7c6c658.zip
+  name: Xiaomi 15
+  version: OS3.0.303.0.WOCINXM
 - android: '15.0'
   codename: dada
   date: '2025-01-22'
@@ -4506,6 +4512,12 @@
   version: OS3.0.3.0.WPLEUXM
 - android: '16.0'
   codename: dash
+  date: '2026-06-22'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WPLMIXM/fw_dash_dash_global-ota_full-OS3.0.302.0.WPLMIXM-user-16.0-19defcf744.zip
+  name: Redmi Turbo 5 Max/POCO X8 Pro Max
+  version: OS3.0.302.0.WPLMIXM
+- android: '16.0'
+  codename: dash
   date: '2026-02-22'
   download: https://bigota.d.miui.com/OS3.0.8.0.WPLCNXM/fw_dash_dash-ota_full-OS3.0.8.0.WPLCNXM-user-16.0-7a58ec4edc.zip
   name: Redmi Turbo 5 Max/POCO X8 Pro Max
@@ -4756,6 +4768,12 @@
   download: https://bigota.d.miui.com/OS3.0.9.0.WNEEUXM/fw_degas_degas_eea_global-ota_full-OS3.0.9.0.WNEEUXM-user-16.0-5a541e5abf.zip
   name: Xiaomi 14T
   version: OS3.0.9.0.WNEEUXM
+- android: '16.0'
+  codename: degas
+  date: '2026-06-22'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WNEMIXM/fw_degas_degas_global-ota_full-OS3.0.302.0.WNEMIXM-user-16.0-f786504e00.zip
+  name: Xiaomi 14T
+  version: OS3.0.302.0.WNEMIXM
 - android: '16.0'
   codename: degas
   date: '2025-12-19'
@@ -5668,6 +5686,12 @@
   download: https://bigota.d.miui.com/OS2.0.201.0.VNSMIXM/fw_dizi_global_dizi_global-ota_full-OS2.0.201.0.VNSMIXM-user-15.0-ac7fb2bde1.zip
   name: Redmi Pad Pro/POCO Pad
   version: OS2.0.201.0.VNSMIXM
+- android: '16.0'
+  codename: dizi
+  date: '2026-06-22'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WNSINXM/fw_dizi_dizi_in_global-ota_full-OS3.0.301.0.WNSINXM-user-16.0-25967f0d83.zip
+  name: Redmi Pad Pro/POCO Pad
+  version: OS3.0.301.0.WNSINXM
 - android: '14.0'
   codename: dizi
   date: '2025-01-22'
@@ -8734,6 +8758,12 @@
   download: https://bigota.d.miui.com/OS2.0.206.0.VGPMIXM/fw_gale_gale_global-ota_full-OS2.0.206.0.VGPMIXM-user-15.0-b289051f7d.zip
   name: Redmi 13C/POCO C65
   version: OS2.0.206.0.VGPMIXM
+- android: '15.0'
+  codename: gale
+  date: '2026-06-22'
+  download: https://bigota.d.miui.com/OS2.0.207.0.VGPINXM/fw_gale_gale_in_global-ota_full-OS2.0.207.0.VGPINXM-user-15.0-7801df4b1e.zip
+  name: Redmi 13C/POCO C65
+  version: OS2.0.207.0.VGPINXM
 - android: '14.0'
   codename: gale
   date: '2024-11-20'
@@ -12376,6 +12406,12 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VPQCNXM/fw_kunzite_kunzite-ota_full-OS2.0.203.0.VPQCNXM-user-15.0-0f386094dc.zip
   name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS2.0.203.0.VPQCNXM
+- android: '15.0'
+  codename: kunzite
+  date: '2026-06-22'
+  download: https://bigota.d.miui.com/OS2.0.208.0.VPQINXM/fw_kunzite_kunzite_in_global-ota_full-OS2.0.208.0.VPQINXM-user-15.0-023ab3c80f.zip
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
+  version: OS2.0.208.0.VPQINXM
 - android: '16.0'
   codename: kunzite
   date: '2026-05-18'
@@ -21754,6 +21790,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UFSINXM/fw_ruan_miui_RUANINGlobal_OS1.0.3.0.UFSINXM_55b135df69_14.0.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS1.0.3.0.UFSINXM
+- android: '16.0'
+  codename: ruan
+  date: '2026-06-22'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WFSINXM/fw_ruan_ruan_in_global-ota_full-OS3.0.303.0.WFSINXM-user-16.0-cf95b077e6.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS3.0.303.0.WFSINXM
 - android: '14.0'
   codename: ruan
   date: '2024-06-21'
@@ -29746,6 +29788,12 @@
   download: https://bigota.d.miui.com/OS3.0.305.0.WAKCNXM/fw_yili_yili-ota_full-OS3.0.305.0.WAKCNXM-user-16.0-3f8bef59c0.zip
   name: Redmi K Pad 2
   version: OS3.0.305.0.WAKCNXM
+- android: '16.0'
+  codename: yili
+  date: '2026-06-22'
+  download: https://bigota.d.miui.com/OS3.0.307.0.WAKCNXM/fw_yili_yili-ota_full-OS3.0.307.0.WAKCNXM-user-16.0-463178ed69.zip
+  name: Redmi K Pad 2
+  version: OS3.0.307.0.WAKCNXM
 - android: '16.0'
   codename: yili
   date: '2026-04-22'

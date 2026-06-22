@@ -52,7 +52,8 @@ permalink: /archive/hyperos/muyu/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 7 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WOYTWXM</td><td>16.0</td><td>6.3 GB</td><td>2026-05-22</td><td><a href="/hyperos/muyu/stable/OS3.0.303.0.WOYTWXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 7 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WOYCNXM</td><td>16.0</td><td>8.7 GB</td><td>2026-06-18</td><td><a href="/hyperos/muyu/stable beta/OS3.0.302.0.WOYCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WOYTWXM</td><td>16.0</td><td>6.3 GB</td><td>2026-05-22</td><td><a href="/hyperos/muyu/stable/OS3.0.303.0.WOYTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WOYTWXM</td><td>16.0</td><td>7.3 GB</td><td>2026-05-11</td><td><a href="/hyperos/muyu/stable/OS3.0.303.0.WOYTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WOYRUXM</td><td>16.0</td><td>6.3 GB</td><td>2026-05-22</td><td><a href="/hyperos/muyu/stable/OS3.0.303.0.WOYRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WOYRUXM</td><td>16.0</td><td>8.5 GB</td><td>2026-05-11</td><td><a href="/hyperos/muyu/stable/OS3.0.303.0.WOYRUXM/">Download</a></td></tr>
@@ -68,12 +69,12 @@ permalink: /archive/hyperos/muyu/
 <tr><td>Xiaomi Pad 7 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WOYIDXM</td><td>16.0</td><td>7.6 GB</td><td>2026-03-23</td><td><a href="/hyperos/muyu/stable/OS3.0.5.0.WOYIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WOYTRXM</td><td>16.0</td><td>6.3 GB</td><td>2026-03-31</td><td><a href="/hyperos/muyu/stable/OS3.0.5.0.WOYTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WOYTRXM</td><td>16.0</td><td>7.7 GB</td><td>2026-03-23</td><td><a href="/hyperos/muyu/stable/OS3.0.5.0.WOYTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WOYEUXM</td><td>16.0</td><td>6.4 GB</td><td>2026-03-25</td><td><a href="/hyperos/muyu/stable/OS3.0.6.0.WOYEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 7 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WOYEUXM</td><td>16.0</td><td>7.7 GB</td><td>2026-03-17</td><td><a href="/hyperos/muyu/stable/OS3.0.6.0.WOYEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WOYTRXM</td><td>16.0</td><td>6.4 GB</td><td>2026-05-22</td><td><a href="/hyperos/muyu/stable/OS3.0.303.0.WOYTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WOYTRXM</td><td>16.0</td><td>7.7 GB</td><td>2026-05-11</td><td><a href="/hyperos/muyu/stable/OS3.0.303.0.WOYTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WOYEUXM</td><td>16.0</td><td>6.4 GB</td><td>2026-05-22</td><td><a href="/hyperos/muyu/stable/OS3.0.303.0.WOYEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WOYEUXM</td><td>16.0</td><td>7.7 GB</td><td>2026-05-11</td><td><a href="/hyperos/muyu/stable/OS3.0.303.0.WOYEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WOYEUXM</td><td>16.0</td><td>6.4 GB</td><td>2026-03-25</td><td><a href="/hyperos/muyu/stable/OS3.0.6.0.WOYEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 7 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WOYEUXM</td><td>16.0</td><td>7.7 GB</td><td>2026-03-17</td><td><a href="/hyperos/muyu/stable/OS3.0.6.0.WOYEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WOYEUXM</td><td>16.0</td><td>6.4 GB</td><td>2026-01-30</td><td><a href="/hyperos/muyu/stable/OS3.0.5.0.WOYEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WOYEUXM</td><td>16.0</td><td>7.7 GB</td><td>2026-01-21</td><td><a href="/hyperos/muyu/stable/OS3.0.5.0.WOYEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 7 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WOYRUXM</td><td>16.0</td><td>6.3 GB</td><td>2026-01-30</td><td><a href="/hyperos/muyu/stable/OS3.0.4.0.WOYRUXM/">Download</a></td></tr>

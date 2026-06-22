@@ -54,15 +54,15 @@ permalink: /hyperos/ruan/
                 <tbody>
                 <tr><td>Redmi Pad Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.305.0.WFSCNXM</td><td>16.0</td><td>6.7 GB</td><td>2026-04-16</td><td><a href="/hyperos/ruan/stable/OS3.0.305.0.WFSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.305.0.WFSCNXM</td><td>16.0</td><td>5.7 GB</td><td>2026-04-22</td><td><a href="/hyperos/ruan/stable/OS3.0.305.0.WFSCNXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro 5G / POCO Pad 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WFSEUXM</td><td>16.0</td><td>6.3 GB</td><td>2026-05-14</td><td><a href="/hyperos/ruan/stable/OS3.0.2.0.WFSEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro 5G / POCO Pad 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WFSEUXM</td><td>16.0</td><td>5.3 GB</td><td>2026-05-22</td><td><a href="/hyperos/ruan/stable/OS3.0.2.0.WFSEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G / POCO Pad 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WFSMIXM</td><td>16.0</td><td>6.8 GB</td><td>2026-04-17</td><td><a href="/hyperos/ruan/stable/OS3.0.6.0.WFSMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G / POCO Pad 5G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WFSMIXM</td><td>16.0</td><td>5.3 GB</td><td>2026-04-27</td><td><a href="/hyperos/ruan/stable/OS3.0.6.0.WFSMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G / POCO Pad 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VFSINXM</td><td>15.0</td><td>5.5 GB</td><td>2026-01-31</td><td><a href="/hyperos/ruan/stable/OS2.0.207.0.VFSINXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Pro 5G / POCO Pad 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VFSRUXM</td><td>15.0</td><td>4.9 GB</td><td>2026-03-03</td><td><a href="/hyperos/ruan/stable/OS2.0.207.0.VFSRUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Pro 5G / POCO Pad 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WFSEUXM</td><td>16.0</td><td>6.3 GB</td><td>2026-05-22</td><td><a href="/hyperos/ruan/stable/OS3.0.301.0.WFSEUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Pro 5G / POCO Pad 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WFSEUXM</td><td>16.0</td><td>5.3 GB</td><td>2026-05-30</td><td><a href="/hyperos/ruan/stable/OS3.0.301.0.WFSEUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Pro 5G / POCO Pad 5G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WFSINXM</td><td>16.0</td><td>5.0 GB</td><td>2026-04-27</td><td><a href="/hyperos/ruan/stable/OS3.0.1.0.WFSINXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Pro 5G / POCO Pad 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WFSRUXM</td><td>16.0</td><td>7.0 GB</td><td>2026-05-07</td><td><a href="/hyperos/ruan/stable/OS3.0.1.0.WFSRUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Pro 5G / POCO Pad 5G Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WFSRUXM</td><td>16.0</td><td>5.2 GB</td><td>2026-06-10</td><td><a href="/hyperos/ruan/stable beta/OS3.0.303.0.WFSRUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro 5G / POCO Pad 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VFSINXM</td><td>15.0</td><td>4.8 GB</td><td>2026-02-06</td><td><a href="/hyperos/ruan/stable/OS2.0.207.0.VFSINXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro 5G / POCO Pad 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WFSINXM</td><td>16.0</td><td>5.0 GB</td><td>2026-06-16</td><td><a href="/hyperos/ruan/stable beta/OS3.0.303.0.WFSINXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro 5G / POCO Pad 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WFSRUXM</td><td>16.0</td><td>7.0 GB</td><td>2026-06-05</td><td><a href="/hyperos/ruan/stable/OS3.0.303.0.WFSRUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro 5G / POCO Pad 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WFSRUXM</td><td>16.0</td><td>5.2 GB</td><td>2026-06-10</td><td><a href="/hyperos/ruan/stable/OS3.0.303.0.WFSRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -19,12 +19,12 @@
     android: '15.0'
     miui: OS2.0.210.0.VGPEUXM
 - branch: stable
-  date: '2026-05-06'
+  date: '2026-06-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-06.05.2026/fw_gale_gale_in_global-ota_full-OS2.0.206.0.VGPINXM-user-15.0-a977a892c5.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gale/fw_gale_gale_in_global-ota_full-OS2.0.206.0.VGPINXM-user-15.0-a977a892c5.zip
-  filename: fw_gale_gale_in_global-ota_full-OS2.0.206.0.VGPINXM-user-15.0-a977a892c5.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-22.06.2026/fw_gale_gale_in_global-ota_full-OS2.0.207.0.VGPINXM-user-15.0-7801df4b1e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gale/fw_gale_gale_in_global-ota_full-OS2.0.207.0.VGPINXM-user-15.0-7801df4b1e.zip
+  filename: fw_gale_gale_in_global-ota_full-OS2.0.207.0.VGPINXM-user-15.0-7801df4b1e.zip
   region: India
   versions:
     android: '15.0'
-    miui: OS2.0.206.0.VGPINXM
+    miui: OS2.0.207.0.VGPINXM

@@ -59,6 +59,7 @@ permalink: /hyperos/dash/
 <tr><td>POCO X8 Pro Max EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WPLEUXM</td><td>16.0</td><td>7.2 GB</td><td>2026-04-22</td><td><a href="/hyperos/dash/stable/OS3.0.3.0.WPLEUXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro Max Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WPLMIXM</td><td>16.0</td><td>11.0 GB</td><td>2026-04-14</td><td><a href="/hyperos/dash/stable/OS3.0.4.0.WPLMIXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro Max Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WPLMIXM</td><td>16.0</td><td>7.3 GB</td><td>2026-05-29</td><td><a href="/hyperos/dash/stable/OS3.0.301.0.WPLMIXM/">Download</a></td></tr>
+<tr><td>POCO X8 Pro Max Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WPLMIXM</td><td>16.0</td><td>7.3 GB</td><td>2026-06-17</td><td><a href="/hyperos/dash/stable beta/OS3.0.302.0.WPLMIXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro Max Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WPLIDXM</td><td>16.0</td><td>10.2 GB</td><td>2026-03-13</td><td><a href="/hyperos/dash/stable/OS3.0.2.0.WPLIDXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro Max Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WPLIDXM</td><td>16.0</td><td>7.2 GB</td><td>2026-05-19</td><td><a href="/hyperos/dash/stable/OS3.0.301.0.WPLIDXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro Max India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WPLINXM</td><td>16.0</td><td>9.2 GB</td><td>2026-03-13</td><td><a href="/hyperos/dash/stable/OS3.0.2.0.WPLINXM/">Download</a></td></tr>
