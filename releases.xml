@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 23 Jun 2026 00:43:25 </lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 07:00:33 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 15T (goya) - OS3.0.305.0.WOEEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/goya/</link>
+            <pubDate>Tue, 23 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS3.0.303.0.WOJCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
+            <pubDate>Tue, 23 Jun 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 15 (dada) - OS3.0.303.0.WOCINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dada/</link>
@@ -264,11 +274,6 @@
         <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.301.0.WNSEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
-            <pubDate>Thu, 11 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15T (goya) - OS3.0.304.0.WOEEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/goya/</link>
             <pubDate>Thu, 11 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1399,11 +1404,6 @@
         <item>
             <title>Redmi Pad 2 Pro 5G (organ) - OS3.0.5.0.WPXMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/organ/</link>
-            <pubDate>Fri, 17 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS3.0.302.0.WOJCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
             <pubDate>Fri, 17 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>

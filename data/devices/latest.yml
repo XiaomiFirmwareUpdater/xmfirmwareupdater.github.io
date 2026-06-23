@@ -2569,15 +2569,15 @@
     android: '16.0'
     miui: OS3.0.300.0.WOEMIXM
 - branch: stable
-  date: '2026-06-11'
+  date: '2026-06-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-11.06.2026/fw_goya_goya_eea_global-ota_full-OS3.0.304.0.WOEEUXM-user-16.0-6c66749cde.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_eea_global-ota_full-OS3.0.304.0.WOEEUXM-user-16.0-6c66749cde.zip
-  filename: fw_goya_goya_eea_global-ota_full-OS3.0.304.0.WOEEUXM-user-16.0-6c66749cde.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-23.06.2026/fw_goya_goya_eea_global-ota_full-OS3.0.305.0.WOEEUXM-user-16.0-f6d1a93cfc.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_eea_global-ota_full-OS3.0.305.0.WOEEUXM-user-16.0-f6d1a93cfc.zip
+  filename: fw_goya_goya_eea_global-ota_full-OS3.0.305.0.WOEEUXM-user-16.0-f6d1a93cfc.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.304.0.WOEEUXM
+    miui: OS3.0.305.0.WOEEUXM
 - branch: stable
   date: '2023-07-24'
   downloads:
@@ -5579,15 +5579,15 @@
     android: '16.0'
     miui: OS3.0.300.0.WOJMIXM
 - branch: stable
-  date: '2026-04-17'
+  date: '2026-06-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-17.04.2026/fw_rodin_rodin-ota_full-OS3.0.302.0.WOJCNXM-user-16.0-753523063d.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rodin/fw_rodin_rodin-ota_full-OS3.0.302.0.WOJCNXM-user-16.0-753523063d.zip
-  filename: fw_rodin_rodin-ota_full-OS3.0.302.0.WOJCNXM-user-16.0-753523063d.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-23.06.2026/fw_rodin_rodin-ota_full-OS3.0.303.0.WOJCNXM-user-16.0-8c6dab91a5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rodin/fw_rodin_rodin-ota_full-OS3.0.303.0.WOJCNXM-user-16.0-8c6dab91a5.zip
+  filename: fw_rodin_rodin-ota_full-OS3.0.303.0.WOJCNXM-user-16.0-8c6dab91a5.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.302.0.WOJCNXM
+    miui: OS3.0.303.0.WOJCNXM
 - branch: stable
   date: '2026-04-30'
   downloads:

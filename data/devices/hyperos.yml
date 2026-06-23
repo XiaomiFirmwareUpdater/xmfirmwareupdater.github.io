@@ -10230,6 +10230,12 @@
   version: OS2.0.206.0.VOEMIXM
 - android: '16.0'
   codename: goya
+  date: '2026-06-23'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WOEEUXM/fw_goya_goya_eea_global-ota_full-OS3.0.305.0.WOEEUXM-user-16.0-f6d1a93cfc.zip
+  name: Xiaomi 15T
+  version: OS3.0.305.0.WOEEUXM
+- android: '16.0'
+  codename: goya
   date: '2026-01-23'
   download: https://bigota.d.miui.com/OS3.0.9.0.WOEEUXM/fw_goya_goya_eea_global-ota_full-OS3.0.9.0.WOEEUXM-user-16.0-844c2734db.zip
   name: Xiaomi 15T
@@ -20998,6 +21004,12 @@
   download: https://bigota.d.miui.com/OS2.0.100.0.VOJINXM/fw_rodin_in_global_rodin_in_global-ota_full-OS2.0.100.0.VOJINXM-user-15.0-ff1420b959.zip
   name: Redmi Turbo 4/POCO X7 Pro
   version: OS2.0.100.0.VOJINXM
+- android: '16.0'
+  codename: rodin
+  date: '2026-06-23'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WOJCNXM/fw_rodin_rodin-ota_full-OS3.0.303.0.WOJCNXM-user-16.0-8c6dab91a5.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS3.0.303.0.WOJCNXM
 - android: '15.0'
   codename: rodin
   date: '2025-10-21'
