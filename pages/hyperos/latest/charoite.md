@@ -59,9 +59,8 @@ permalink: /hyperos/charoite/
 <tr><td>Redmi Note 15 Pro 4G Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VPFRUXM</td><td>15.0</td><td>8.5 GB</td><td>2026-03-13</td><td><a href="/hyperos/charoite/stable/OS2.0.207.0.VPFRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 4G Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VPFRUXM</td><td>15.0</td><td>4.6 GB</td><td>2026-03-23</td><td><a href="/hyperos/charoite/stable/OS2.0.207.0.VPFRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 4G Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.201.0.VPFRUXM</td><td>15.0</td><td>4.6 GB</td><td>None</td><td><a href="/hyperos/charoite/stable beta/OS2.0.201.0.VPFRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 Pro 4G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VPFTRXM</td><td>15.0</td><td>7.3 GB</td><td>2026-01-12</td><td><a href="/hyperos/charoite/stable/OS2.0.205.0.VPFTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 Pro 4G Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VPFTRXM</td><td>15.0</td><td>4.7 GB</td><td>2026-02-05</td><td><a href="/hyperos/charoite/stable/OS2.0.205.0.VPFTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 Pro 4G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WPFTRXM</td><td>16.0</td><td>6.0 GB</td><td>2026-06-16</td><td><a href="/hyperos/charoite/stable beta/OS3.0.301.0.WPFTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro 4G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WPFTRXM</td><td>16.0</td><td>8.5 GB</td><td>2026-06-09</td><td><a href="/hyperos/charoite/stable/OS3.0.301.0.WPFTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro 4G Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WPFTRXM</td><td>16.0</td><td>6.0 GB</td><td>2026-06-16</td><td><a href="/hyperos/charoite/stable/OS3.0.301.0.WPFTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
