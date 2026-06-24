@@ -52,7 +52,9 @@ permalink: /archive/hyperos/byron/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 17 Max China</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WAFCNXM</td><td>16.0</td><td>8.8 GB</td><td>2026-05-26</td><td><a href="/hyperos/byron/stable/OS3.0.304.0.WAFCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 17 Max China</td><td>Stable</td><td>Recovery</td><td>OS3.0.307.0.WAFCNXM</td><td>16.0</td><td>8.8 GB</td><td>2026-06-15</td><td><a href="/hyperos/byron/stable/OS3.0.307.0.WAFCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 Max China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.307.0.WAFCNXM</td><td>16.0</td><td>11.5 GB</td><td>2026-06-07</td><td><a href="/hyperos/byron/stable/OS3.0.307.0.WAFCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 Max China</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WAFCNXM</td><td>16.0</td><td>8.8 GB</td><td>2026-05-26</td><td><a href="/hyperos/byron/stable/OS3.0.304.0.WAFCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Max China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WAFCNXM</td><td>16.0</td><td>11.5 GB</td><td>2026-05-20</td><td><a href="/hyperos/byron/stable/OS3.0.304.0.WAFCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Max China</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WAFCNXM</td><td>16.0</td><td>8.8 GB</td><td>2026-05-21</td><td><a href="/hyperos/byron/stable/OS3.0.301.0.WAFCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Max China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WAFCNXM</td><td>16.0</td><td>11.4 GB</td><td>2026-05-15</td><td><a href="/hyperos/byron/stable/OS3.0.301.0.WAFCNXM/">Download</a></td></tr>

@@ -2682,6 +2682,12 @@
   version: OS3.0.304.0.WAFCNXM
 - android: '16.0'
   codename: byron
+  date: '2026-06-24'
+  download: https://bigota.d.miui.com/OS3.0.307.0.WAFCNXM/fw_byron_byron-ota_full-OS3.0.307.0.WAFCNXM-user-16.0-be99c1047e.zip
+  name: Xiaomi 17 Max
+  version: OS3.0.307.0.WAFCNXM
+- android: '16.0'
+  codename: byron
   date: '2026-05-23'
   download: https://bigota.d.miui.com/OS3.0.301.0.WAFCNXM/fw_byron_byron-ota_full-OS3.0.301.0.WAFCNXM-user-16.0-3b8f263428.zip
   name: Xiaomi 17 Max
