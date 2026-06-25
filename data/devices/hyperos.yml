@@ -654,6 +654,12 @@
   version: OS3.0.2.0.WOPINXM
 - android: '16.0'
   codename: amethyst
+  date: '2026-06-25'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WOPMIXM/fw_amethyst_amethyst_global-ota_full-OS3.0.304.0.WOPMIXM-user-16.0-fcc1718184.zip
+  name: Redmi Note 14 Pro+ 5G
+  version: OS3.0.304.0.WOPMIXM
+- android: '16.0'
+  codename: amethyst
   date: '2026-02-25'
   download: https://bigota.d.miui.com/OS3.0.4.0.WOPCNXM/fw_amethyst_amethyst-ota_full-OS3.0.4.0.WOPCNXM-user-16.0-4abe570868.zip
   name: Redmi Note 14 Pro+ 5G
@@ -6040,6 +6046,18 @@
   download: https://bigota.d.miui.com/OS1.0.18.0.UNLCNXM/fw_duchamp_miui_DUCHAMP_OS1.0.18.0.UNLCNXM_f3789ac8e1_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS1.0.18.0.UNLCNXM
+- android: '16.0'
+  codename: duchamp
+  date: '2026-06-25'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WNLEUXM/fw_duchamp_duchamp_eea_global-ota_full-OS3.0.302.0.WNLEUXM-user-16.0-d59a5ae41e.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS3.0.302.0.WNLEUXM
+- android: '16.0'
+  codename: duchamp
+  date: '2026-06-25'
+  download: https://bigota.d.miui.com/OS3.0.8.0.WNLMIXM/fw_duchamp_duchamp_global-ota_full-OS3.0.8.0.WNLMIXM-user-16.0-c51f3a7b15.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS3.0.8.0.WNLMIXM
 - android: '14.0'
   codename: duchamp
   date: '2024-12-24'
