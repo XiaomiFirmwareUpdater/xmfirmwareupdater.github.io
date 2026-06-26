@@ -3496,6 +3496,12 @@
   download: https://bigota.d.miui.com/OS2.0.210.0.VBOMIXM/fw_creek_creek_global-ota_full-OS2.0.210.0.VBOMIXM-user-15.0-e723881768.zip
   name: Redmi 15/POCO M7
   version: OS2.0.210.0.VBOMIXM
+- android: '16.0'
+  codename: creek
+  date: '2026-06-26'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WBOEUXM/fw_creek_creek_eea_global-ota_full-OS3.0.301.0.WBOEUXM-user-16.0-d4cebb364e.zip
+  name: Redmi 15/POCO M7
+  version: OS3.0.301.0.WBOEUXM
 - android: '15.0'
   codename: creek
   date: '2025-08-25'
@@ -16786,6 +16792,12 @@
   download: https://bigota.d.miui.com/OS3.0.7.0.WPACNXM/fw_nezha_nezha-ota_full-OS3.0.7.0.WPACNXM-user-16.0-5de3a22dfc.zip
   name: Xiaomi 17 Ultra
   version: OS3.0.7.0.WPACNXM
+- android: '16.0'
+  codename: nezha
+  date: '2026-06-26'
+  download: https://bigota.d.miui.com/OS3.0.308.0.WPACNXM/fw_nezha_nezha-ota_full-OS3.0.308.0.WPACNXM-user-16.0-dbf7161ba5.zip
+  name: Xiaomi 17 Ultra
+  version: OS3.0.308.0.WPACNXM
 - android: '16.0'
   codename: nezha
   date: '2026-02-25'

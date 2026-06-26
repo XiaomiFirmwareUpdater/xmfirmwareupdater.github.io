@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 26 Jun 2026 06:50:22 </lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 13:05:07 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 15/POCO M7 (creek) - OS3.0.301.0.WBOEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/creek/</link>
+            <pubDate>Fri, 26 Jun 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 14 (houji) - OS3.0.303.0.WNCCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Fri, 26 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17 Ultra (nezha) - OS3.0.308.0.WPACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/nezha/</link>
             <pubDate>Fri, 26 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -518,11 +528,6 @@
         </item>
         <item>
             <title>Xiaomi 17 Ultra (nezha) - OS3.0.303.0.WPAMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/nezha/</link>
-            <pubDate>Tue, 02 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17 Ultra (nezha) - OS3.0.307.0.WPACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nezha/</link>
             <pubDate>Tue, 02 Jun 2026 00:00:00 </pubDate>
         </item>
@@ -1149,11 +1154,6 @@
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.3.0.WOQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
-            <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 15/POCO M7 (creek) - OS3.0.6.0.WBOEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/creek/</link>
             <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
         </item>
         <item>
