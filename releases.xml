@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 26 Jun 2026 00:42:13 </lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 06:50:22 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 (houji) - OS3.0.303.0.WNCCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/houji/</link>
+            <pubDate>Fri, 26 Jun 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.304.0.WOPMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
@@ -1360,11 +1365,6 @@
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.303.0.WNLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Tue, 21 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 (houji) - OS3.0.302.0.WNCCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/houji/</link>
-            <pubDate>Mon, 20 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12T Pro (pearl) - OS3.0.3.0.VLHCNXM</title>

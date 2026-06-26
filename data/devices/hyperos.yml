@@ -10930,6 +10930,12 @@
   download: https://bigota.d.miui.com/OS3.0.5.0.WNCCNXM/fw_houji_houji-ota_full-OS3.0.5.0.WNCCNXM-user-16.0-306ce971bf.zip
   name: Xiaomi 14
   version: OS3.0.5.0.WNCCNXM
+- android: '16.0'
+  codename: houji
+  date: '2026-06-26'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WNCCNXM/fw_houji_houji-ota_full-OS3.0.303.0.WNCCNXM-user-16.0-c5d245a441.zip
+  name: Xiaomi 14
+  version: OS3.0.303.0.WNCCNXM
 - android: '15.0'
   codename: houji
   date: '2025-03-25'

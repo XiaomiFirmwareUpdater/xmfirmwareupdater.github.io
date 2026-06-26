@@ -52,7 +52,8 @@ permalink: /archive/hyperos/nezha/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 17 Ultra Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WPATWXM</td><td>16.0</td><td>9.1 GB</td><td>2026-05-27</td><td><a href="/hyperos/nezha/stable/OS3.0.303.0.WPATWXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 17 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.308.0.WPACNXM</td><td>16.0</td><td>10.2 GB</td><td>2026-06-22</td><td><a href="/hyperos/nezha/stable beta/OS3.0.308.0.WPACNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 Ultra Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WPATWXM</td><td>16.0</td><td>9.1 GB</td><td>2026-05-27</td><td><a href="/hyperos/nezha/stable/OS3.0.303.0.WPATWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Ultra Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WPATWXM</td><td>16.0</td><td>10.4 GB</td><td>2026-05-13</td><td><a href="/hyperos/nezha/stable/OS3.0.303.0.WPATWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS3.0.307.0.WPACNXM</td><td>16.0</td><td>10.2 GB</td><td>2026-05-25</td><td><a href="/hyperos/nezha/stable/OS3.0.307.0.WPACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.307.0.WPACNXM</td><td>16.0</td><td>12.8 GB</td><td>2026-05-15</td><td><a href="/hyperos/nezha/stable/OS3.0.307.0.WPACNXM/">Download</a></td></tr>
