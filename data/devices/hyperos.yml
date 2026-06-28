@@ -12036,6 +12036,12 @@
   version: OS2.0.110.0.VOXCNXM
 - android: '16.0'
   codename: klee
+  date: '2026-06-28'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WPJMIXM/fw_klee_klee_global-ota_full-OS3.0.304.0.WPJMIXM-user-16.0-a2952bd4fe.zip
+  name: Redmi Turbo 5/POCO X8 Pro
+  version: OS3.0.304.0.WPJMIXM
+- android: '16.0'
+  codename: klee
   date: '2026-02-25'
   download: https://bigota.d.miui.com/OS3.0.20.0.WPJCNXM/fw_klee_klee-ota_full-OS3.0.20.0.WPJCNXM-user-16.0-2f1908aa66.zip
   name: Redmi Turbo 5/POCO X8 Pro
