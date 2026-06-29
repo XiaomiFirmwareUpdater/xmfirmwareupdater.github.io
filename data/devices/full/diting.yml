@@ -69,6 +69,16 @@
     android: '15.0'
     miui: OS2.0.210.0.VLFCNXM
 - branch: stable
+  date: '2026-06-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-29.06.2026/fw_diting_diting-ota_full-OS3.0.3.0.VLFCNXM-user-15.0-04006cfe4c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/diting/fw_diting_diting-ota_full-OS3.0.3.0.VLFCNXM-user-15.0-04006cfe4c.zip
+  filename: fw_diting_diting-ota_full-OS3.0.3.0.VLFCNXM-user-15.0-04006cfe4c.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS3.0.3.0.VLFCNXM
+- branch: stable
   date: '2025-11-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-28.11.2025/fw_diting_diting_eea_global-ota_full-OS2.0.204.0.VLFEUXM-user-15.0-2e5ef27e2f.zip

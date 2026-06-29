@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2026-04-30'
+  date: '2026-06-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-30.04.2026/fw_onyx_onyx_global-ota_full-OS3.0.7.0.WOLMIXM-user-16.0-25c954f376.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/onyx/fw_onyx_onyx_global-ota_full-OS3.0.7.0.WOLMIXM-user-16.0-25c954f376.zip
-  filename: fw_onyx_onyx_global-ota_full-OS3.0.7.0.WOLMIXM-user-16.0-25c954f376.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-29.06.2026/fw_onyx_onyx_global-ota_full-OS3.0.302.0.WOLMIXM-user-16.0-ebfe572f04.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/onyx/fw_onyx_onyx_global-ota_full-OS3.0.302.0.WOLMIXM-user-16.0-ebfe572f04.zip
+  filename: fw_onyx_onyx_global-ota_full-OS3.0.302.0.WOLMIXM-user-16.0-ebfe572f04.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.7.0.WOLMIXM
+    miui: OS3.0.302.0.WOLMIXM
 - branch: stable
   date: '2026-05-06'
   downloads:
