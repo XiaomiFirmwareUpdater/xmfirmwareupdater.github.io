@@ -19,6 +19,16 @@
     android: '15.0'
     miui: OS3.0.3.0.VLECNXM
 - branch: stable
+  date: '2026-06-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_unicorn/releases/download/stable-29.06.2026/fw_unicorn_unicorn-ota_full-OS3.0.4.0.VLECNXM-user-15.0-9be4b80759.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/unicorn/fw_unicorn_unicorn-ota_full-OS3.0.4.0.VLECNXM-user-15.0-9be4b80759.zip
+  filename: fw_unicorn_unicorn-ota_full-OS3.0.4.0.VLECNXM-user-15.0-9be4b80759.zip
+  region: China
+  versions:
+    android: '15.0'
+    miui: OS3.0.4.0.VLECNXM
+- branch: stable
   date: '2025-11-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_unicorn/releases/download/stable-28.11.2025/fw_unicorn_unicorn-ota_full-OS2.0.209.0.VLECNXM-user-15.0-434c99f2d4.zip

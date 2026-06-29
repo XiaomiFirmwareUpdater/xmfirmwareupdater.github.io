@@ -52,7 +52,8 @@ permalink: /archive/hyperos/ruby/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12 Pro / Pro+ 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.14.0.UMOMIXM</td><td>14.0</td><td>5.0 GB</td><td>2026-06-23</td><td><a href="/hyperos/ruby/stable beta/OS2.0.14.0.UMOMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12 Pro / Pro+ 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.15.0.UMOEUXM</td><td>14.0</td><td>5.2 GB</td><td>2026-06-24</td><td><a href="/hyperos/ruby/stable beta/OS2.0.15.0.UMOEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 Pro / Pro+ 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.14.0.UMOMIXM</td><td>14.0</td><td>5.0 GB</td><td>2026-06-23</td><td><a href="/hyperos/ruby/stable beta/OS2.0.14.0.UMOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ / Discovery 5G China</td><td>Stable</td><td>Recovery</td><td>OS2.0.20.0.UMOCNXM</td><td>14.0</td><td>5.8 GB</td><td>2026-05-19</td><td><a href="/hyperos/ruby/stable/OS2.0.20.0.UMOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ / Discovery 5G China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.20.0.UMOCNXM</td><td>14.0</td><td>7.1 GB</td><td>2026-05-11</td><td><a href="/hyperos/ruby/stable/OS2.0.20.0.UMOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G South Korea</td><td>Stable</td><td>Recovery</td><td>OS2.0.4.0.UMOKRXM</td><td>14.0</td><td>5.0 GB</td><td>2026-05-07</td><td><a href="/hyperos/ruby/stable/OS2.0.4.0.UMOKRXM/">Download</a></td></tr>
