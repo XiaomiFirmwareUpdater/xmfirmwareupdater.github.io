@@ -9,6 +9,16 @@
     android: '15.0'
     miui: OS2.0.206.0.VPXMIXM
 - branch: stable
+  date: '2026-06-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_organ/releases/download/stable-29.06.2026/fw_organ_organ_global-ota_full-OS3.0.301.0.WPXMIXM-user-16.0-1002fa2af8.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/organ/fw_organ_organ_global-ota_full-OS3.0.301.0.WPXMIXM-user-16.0-1002fa2af8.zip
+  filename: fw_organ_organ_global-ota_full-OS3.0.301.0.WPXMIXM-user-16.0-1002fa2af8.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.301.0.WPXMIXM
+- branch: stable
   date: '2025-11-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_organ/releases/download/stable-28.11.2025/fw_organ_organ_in_global-ota_full-OS2.0.201.0.VPXINXM-user-15.0-89edab0859.zip

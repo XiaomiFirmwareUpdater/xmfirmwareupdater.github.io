@@ -17664,6 +17664,12 @@
   version: OS2.0.201.0.VOLMIXM
 - android: '16.0'
   codename: onyx
+  date: '2026-06-29'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WOLEUXM/fw_onyx_onyx_eea_global-ota_full-OS3.0.301.0.WOLEUXM-user-16.0-4d72e2c214.zip
+  name: Redmi Turbo 4 Pro/POCO F7
+  version: OS3.0.301.0.WOLEUXM
+- android: '16.0'
+  codename: onyx
   date: '2025-11-27'
   download: https://bigota.d.miui.com/OS3.0.5.0.WOLCNXM/fw_onyx_onyx-ota_full-OS3.0.5.0.WOLCNXM-user-16.0-6995f031ab.zip
   name: Redmi Turbo 4 Pro/POCO F7
@@ -17908,6 +17914,12 @@
   download: https://bigota.d.miui.com/OS2.0.206.0.VPXMIXM/fw_organ_organ_global-ota_full-OS2.0.206.0.VPXMIXM-user-15.0-74f483fba1.zip
   name: Redmi Pad 2 Pro 5G
   version: OS2.0.206.0.VPXMIXM
+- android: '16.0'
+  codename: organ
+  date: '2026-06-29'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WPXMIXM/fw_organ_organ_global-ota_full-OS3.0.301.0.WPXMIXM-user-16.0-1002fa2af8.zip
+  name: Redmi Pad 2 Pro 5G
+  version: OS3.0.301.0.WPXMIXM
 - android: '15.0'
   codename: organ
   date: '2025-11-28'
@@ -22248,6 +22260,12 @@
   version: OS2.0.9.0.UMOMIXM
 - android: '14.0'
   codename: ruby
+  date: '2026-06-28'
+  download: https://bigota.d.miui.com/OS2.0.14.0.UMOMIXM/fw_ruby_ruby_global-ota_full-OS2.0.14.0.UMOMIXM-user-14.0-a018e13e38.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS2.0.14.0.UMOMIXM
+- android: '14.0'
+  codename: ruby
   date: '2024-03-29'
   download: https://bigota.d.miui.com/OS1.0.2.0.UMOEUXM/fw_ruby_miui_RUBYEEAGlobal_OS1.0.2.0.UMOEUXM_001eaf5922_14.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
@@ -24346,6 +24364,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VMWINXM/fw_sky_sky_in_global-ota_full-OS2.0.202.0.VMWINXM-user-15.0-e58549ed93.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
   version: OS2.0.202.0.VMWINXM
+- android: '15.0'
+  codename: sky
+  date: '2026-06-28'
+  download: https://bigota.d.miui.com/OS2.0.216.0.VMWEUXM/fw_sky_sky_eea_global-ota_full-OS2.0.216.0.VMWEUXM-user-15.0-dfcb61efd0.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS2.0.216.0.VMWEUXM
 - android: '14.0'
   codename: sky
   date: '2024-03-29'

@@ -89,6 +89,16 @@
     android: '15.0'
     miui: OS2.0.201.0.VOLMIXM
 - branch: stable
+  date: '2026-06-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-29.06.2026/fw_onyx_onyx_eea_global-ota_full-OS3.0.301.0.WOLEUXM-user-16.0-4d72e2c214.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/onyx/fw_onyx_onyx_eea_global-ota_full-OS3.0.301.0.WOLEUXM-user-16.0-4d72e2c214.zip
+  filename: fw_onyx_onyx_eea_global-ota_full-OS3.0.301.0.WOLEUXM-user-16.0-4d72e2c214.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.301.0.WOLEUXM
+- branch: stable
   date: '2025-11-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-28.11.2025/fw_onyx_onyx-ota_full-OS3.0.5.0.WOLCNXM-user-16.0-6995f031ab.zip

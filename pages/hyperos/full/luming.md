@@ -52,7 +52,8 @@ permalink: /archive/hyperos/luming/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Civi 5 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOICNXM</td><td>16.0</td><td>8.4 GB</td><td>2026-04-10</td><td><a href="/hyperos/luming/stable/OS3.0.302.0.WOICNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Civi 5 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WOICNXM</td><td>16.0</td><td>8.4 GB</td><td>2026-06-25</td><td><a href="/hyperos/luming/stable beta/OS3.0.303.0.WOICNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 5 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOICNXM</td><td>16.0</td><td>8.4 GB</td><td>2026-04-10</td><td><a href="/hyperos/luming/stable/OS3.0.302.0.WOICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 5 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOICNXM</td><td>16.0</td><td>10.9 GB</td><td>2026-04-04</td><td><a href="/hyperos/luming/stable/OS3.0.302.0.WOICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 5 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.8.0.WOICNXM</td><td>16.0</td><td>8.3 GB</td><td>2026-02-02</td><td><a href="/hyperos/luming/stable/OS3.0.8.0.WOICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 5 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.8.0.WOICNXM</td><td>16.0</td><td>10.8 GB</td><td>2026-01-26</td><td><a href="/hyperos/luming/stable/OS3.0.8.0.WOICNXM/">Download</a></td></tr>
