@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2026-06-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dash/releases/download/stable-30.06.2026/fw_dash_dash_eea_global-ota_full-OS3.0.302.0.WPLEUXM-user-16.0-3f83e1c736.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dash/fw_dash_dash_eea_global-ota_full-OS3.0.302.0.WPLEUXM-user-16.0-3f83e1c736.zip
+  filename: fw_dash_dash_eea_global-ota_full-OS3.0.302.0.WPLEUXM-user-16.0-3f83e1c736.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.302.0.WPLEUXM
+- branch: stable
   date: '2026-04-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dash/releases/download/stable-27.04.2026/fw_dash_dash_global-ota_full-OS3.0.4.0.WPLMIXM-user-16.0-53ba3277d7.zip

@@ -4464,6 +4464,12 @@
   version: OS2.0.2.0.ULZCNXM
 - android: '16.0'
   codename: dali
+  date: '2026-06-30'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WONCNXM/fw_dali_dali-ota_full-OS3.0.303.0.WONCNXM-user-16.0-b0046d97b1.zip
+  name: Redmi K80 Ultra
+  version: OS3.0.303.0.WONCNXM
+- android: '16.0'
+  codename: dali
   date: '2025-12-29'
   download: https://bigota.d.miui.com/OS3.0.5.0.WONCNXM/fw_dali_dali-ota_full-OS3.0.5.0.WONCNXM-user-16.0-7d8ae41634.zip
   name: Redmi K80 Ultra
@@ -4528,6 +4534,12 @@
   download: https://bigota.d.miui.com/OS3.0.301.0.WONCNXM/fw_dali_dali-ota_full-OS3.0.301.0.WONCNXM-user-16.0-6a71af98ec.zip
   name: Redmi K80 Ultra
   version: OS3.0.301.0.WONCNXM
+- android: '16.0'
+  codename: dash
+  date: '2026-06-30'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WPLEUXM/fw_dash_dash_eea_global-ota_full-OS3.0.302.0.WPLEUXM-user-16.0-3f83e1c736.zip
+  name: Redmi Turbo 5 Max/POCO X8 Pro Max
+  version: OS3.0.302.0.WPLEUXM
 - android: '16.0'
   codename: dash
   date: '2026-04-27'
@@ -9700,6 +9712,12 @@
   download: https://bigota.d.miui.com/OS1.0.17.0.UNQINXM/fw_gold_miui_GOLDINGlobal_OS1.0.17.0.UNQINXM_d9ae4ffbdb_14.0.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: OS1.0.17.0.UNQINXM
+- android: '15.0'
+  codename: gold
+  date: '2026-06-30'
+  download: https://bigota.d.miui.com/OS3.0.5.0.VNQEUXM/fw_gold_gold_eea_global-ota_full-OS3.0.5.0.VNQEUXM-user-15.0-27102ea523.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS3.0.5.0.VNQEUXM
 - android: '15.0'
   codename: gold
   date: '2025-10-29'
@@ -19644,6 +19662,18 @@
   version: OS2.0.209.0.VLQMIXM
 - android: '15.0'
   codename: plato
+  date: '2026-06-30'
+  download: https://bigota.d.miui.com/OS2.0.216.0.VLQEUXM/fw_plato_plato_eea_global-ota_full-OS2.0.216.0.VLQEUXM-user-15.0-eafb9d6c27.zip
+  name: Xiaomi 12T
+  version: OS2.0.216.0.VLQEUXM
+- android: '15.0'
+  codename: plato
+  date: '2026-06-30'
+  download: https://bigota.d.miui.com/OS2.0.215.0.VLQMIXM/fw_plato_plato_global-ota_full-OS2.0.215.0.VLQMIXM-user-15.0-d2454ad827.zip
+  name: Xiaomi 12T
+  version: OS2.0.215.0.VLQMIXM
+- android: '15.0'
+  codename: plato
   date: '2025-12-29'
   download: https://bigota.d.miui.com/OS2.0.208.0.VLQEUXM/fw_plato_plato_eea_global-ota_full-OS2.0.208.0.VLQEUXM-user-15.0-303ed8f712.zip
   name: Xiaomi 12T
@@ -28924,6 +28954,18 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.TGDMIXM/fw_viva_miui_VIVAGlobal_OS1.0.4.0.TGDMIXM_711b120a23_13.0.zip
   name: Redmi Note 11 Pro 4G
   version: OS1.0.4.0.TGDMIXM
+- android: '16.0'
+  codename: warhol
+  date: '2026-06-30'
+  download: https://bigota.d.miui.com/OS3.0.308.0.WPSCNXM/fw_warhol_warhol-ota_full-OS3.0.308.0.WPSCNXM-user-16.0-09e366cc9e.zip
+  name: Xiaomi 17T Pro
+  version: OS3.0.308.0.WPSCNXM
+- android: '16.0'
+  codename: warhol
+  date: '2026-06-30'
+  download: https://bigota.d.miui.com/OS3.0.309.0.WPSEUXM/fw_warhol_warhol_eea_global-ota_full-OS3.0.309.0.WPSEUXM-user-16.0-275ca27876.zip
+  name: Xiaomi 17T Pro
+  version: OS3.0.309.0.WPSEUXM
 - android: '16.0'
   codename: warhol
   date: '2026-06-29'

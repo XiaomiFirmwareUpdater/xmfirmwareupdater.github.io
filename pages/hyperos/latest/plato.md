@@ -54,10 +54,13 @@ permalink: /hyperos/plato/
                 <tbody>
                 <tr><td>Xiaomi 12T EEA</td><td>Stable</td><td>Fastboot</td><td>OS2.0.215.0.VLQEUXM</td><td>15.0</td><td>7.1 GB</td><td>2026-04-23</td><td><a href="/hyperos/plato/stable/OS2.0.215.0.VLQEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.215.0.VLQEUXM</td><td>15.0</td><td>6.0 GB</td><td>2026-05-08</td><td><a href="/hyperos/plato/stable/OS2.0.215.0.VLQEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.216.0.VLQEUXM</td><td>15.0</td><td>6.0 GB</td><td>2026-06-26</td><td><a href="/hyperos/plato/stable beta/OS2.0.216.0.VLQEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.214.0.VLQMIXM</td><td>15.0</td><td>7.1 GB</td><td>2026-04-23</td><td><a href="/hyperos/plato/stable/OS2.0.214.0.VLQMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.214.0.VLQMIXM</td><td>15.0</td><td>5.9 GB</td><td>2026-05-08</td><td><a href="/hyperos/plato/stable/OS2.0.214.0.VLQMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.215.0.VLQMIXM</td><td>15.0</td><td>5.9 GB</td><td>2026-06-26</td><td><a href="/hyperos/plato/stable beta/OS2.0.215.0.VLQMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.209.0.VLQIDXM</td><td>15.0</td><td>6.8 GB</td><td>2026-04-24</td><td><a href="/hyperos/plato/stable/OS2.0.209.0.VLQIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.209.0.VLQIDXM</td><td>15.0</td><td>5.8 GB</td><td>2026-05-08</td><td><a href="/hyperos/plato/stable/OS2.0.209.0.VLQIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.210.0.VLQIDXM</td><td>15.0</td><td>5.8 GB</td><td>2026-06-26</td><td><a href="/hyperos/plato/stable beta/OS2.0.210.0.VLQIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.209.0.VLQRUXM</td><td>15.0</td><td>6.9 GB</td><td>2026-04-24</td><td><a href="/hyperos/plato/stable/OS2.0.209.0.VLQRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.209.0.VLQRUXM</td><td>15.0</td><td>5.8 GB</td><td>2026-05-08</td><td><a href="/hyperos/plato/stable/OS2.0.209.0.VLQRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.209.0.VLQTRXM</td><td>15.0</td><td>6.8 GB</td><td>2026-04-24</td><td><a href="/hyperos/plato/stable/OS2.0.209.0.VLQTRXM/">Download</a></td></tr>
