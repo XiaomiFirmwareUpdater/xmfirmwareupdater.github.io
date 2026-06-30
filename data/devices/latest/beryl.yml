@@ -19,22 +19,22 @@
     android: '16.0'
     miui: OS3.0.305.0.WOQCNXM
 - branch: stable
-  date: '2026-05-06'
+  date: '2026-06-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-06.05.2026/fw_beryl_beryl_eea_global-ota_full-OS3.0.3.0.WOQEUXM-user-16.0-d2d2e3a556.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/beryl/fw_beryl_beryl_eea_global-ota_full-OS3.0.3.0.WOQEUXM-user-16.0-d2d2e3a556.zip
-  filename: fw_beryl_beryl_eea_global-ota_full-OS3.0.3.0.WOQEUXM-user-16.0-d2d2e3a556.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-30.06.2026/fw_beryl_beryl_eea_global-ota_full-OS3.0.301.0.WOQEUXM-user-16.0-92c80b90ce.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/beryl/fw_beryl_beryl_eea_global-ota_full-OS3.0.301.0.WOQEUXM-user-16.0-92c80b90ce.zip
+  filename: fw_beryl_beryl_eea_global-ota_full-OS3.0.301.0.WOQEUXM-user-16.0-92c80b90ce.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.3.0.WOQEUXM
+    miui: OS3.0.301.0.WOQEUXM
 - branch: stable
-  date: '2026-05-18'
+  date: '2026-06-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-18.05.2026/fw_beryl_beryl_in_global-ota_full-OS3.0.8.0.WOQINXM-user-16.0-b109887a40.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/beryl/fw_beryl_beryl_in_global-ota_full-OS3.0.8.0.WOQINXM-user-16.0-b109887a40.zip
-  filename: fw_beryl_beryl_in_global-ota_full-OS3.0.8.0.WOQINXM-user-16.0-b109887a40.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-30.06.2026/fw_beryl_beryl_in_global-ota_full-OS3.0.301.0.WOQINXM-user-16.0-3cd3468ca8.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/beryl/fw_beryl_beryl_in_global-ota_full-OS3.0.301.0.WOQINXM-user-16.0-3cd3468ca8.zip
+  filename: fw_beryl_beryl_in_global-ota_full-OS3.0.301.0.WOQINXM-user-16.0-3cd3468ca8.zip
   region: India
   versions:
     android: '16.0'
-    miui: OS3.0.8.0.WOQINXM
+    miui: OS3.0.301.0.WOQINXM

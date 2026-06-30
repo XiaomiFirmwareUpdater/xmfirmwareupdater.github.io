@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 30 Jun 2026 00:48:53 </lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 07:02:37 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.301.0.WOQEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
+            <pubDate>Tue, 30 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.301.0.WOQINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
+            <pubDate>Tue, 30 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G (somalia) - OS3.0.11.0.WBWINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/somalia/</link>
+            <pubDate>Tue, 30 Jun 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS3.0.3.0.VLFCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/diting/</link>
@@ -424,11 +439,6 @@
         <item>
             <title>MIX Fold 4 (goku) - OS3.0.306.0.WNVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/goku/</link>
-            <pubDate>Tue, 09 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G (somalia) - OS3.0.10.0.WBWINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/somalia/</link>
             <pubDate>Tue, 09 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -947,11 +957,6 @@
             <pubDate>Tue, 19 May 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.8.0.WOQINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
-            <pubDate>Mon, 18 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS3.0.11.0.WNUINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
             <pubDate>Mon, 18 May 2026 00:00:00 </pubDate>
@@ -1194,11 +1199,6 @@
         <item>
             <title>Xiaomi 14 Ultra (aurora) - OS3.0.302.0.WNAEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.3.0.WOQEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
             <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
         </item>
         <item>
