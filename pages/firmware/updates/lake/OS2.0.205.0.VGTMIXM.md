@@ -1,7 +1,7 @@
 ---
-title: Redmi 14C / POCO C75 / Redmi A3 Pro Global Firmware OS2.0.205.0.VGTMIXM Update
+title: Redmi 14C/17C/A3 Pro/POCO C75 Global Firmware OS2.0.205.0.VGTMIXM Update
 layout: download
-name: Redmi 14C / POCO C75 / Redmi A3 Pro Global
+name: Redmi 14C/17C/A3 Pro/POCO C75 Global
 codename: lake
 permalink: /firmware/lake/stable/OS2.0.205.0.VGTMIXM/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/lake/stable/OS2.0.205.0.VGTMIXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item"><a href="/firmware/lake/">Redmi 14C / POCO C75 / Redmi A3 Pro Global</a></li>
+        <li class="breadcrumb-item"><a href="/firmware/lake/">Redmi 14C/17C/A3 Pro/POCO C75 Global</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS2.0.205.0.VGTMIXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /firmware/lake/stable/OS2.0.205.0.VGTMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">Firmware OS2.0.205.0.VGTMIXM Stable Release for Redmi 14C / POCO C75 / Redmi A3 Pro Global (lake)</h3>
+    <h3 class="title bg-light p-2 rounded">Firmware OS2.0.205.0.VGTMIXM Stable Release for Redmi 14C/17C/A3 Pro/POCO C75 Global (lake)</h3>
     <h5>This page shows the OS2.0.205.0.VGTMIXM update only. If you're looking for other updates check
         <a href="/firmware/lake/">here.</a></h5>
     <div class="card">
@@ -42,7 +42,7 @@ permalink: /firmware/lake/stable/OS2.0.205.0.VGTMIXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi 14C / POCO C75 / Redmi A3 Pro Global</h5>
+                    <h5><b>Device: </b>Redmi 14C/17C/A3 Pro/POCO C75 Global</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/firmware/lake/" target="_blank">lake</a> </h5>

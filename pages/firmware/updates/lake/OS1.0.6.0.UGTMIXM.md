@@ -1,7 +1,7 @@
 ---
-title: Redmi 14C / POCO C75 / Redmi A3 Pro Global Firmware OS1.0.6.0.UGTMIXM Update
+title: Redmi 14C/17C/A3 Pro/POCO C75 Global Firmware OS1.0.6.0.UGTMIXM Update
 layout: download
-name: Redmi 14C / POCO C75 / Redmi A3 Pro Global
+name: Redmi 14C/17C/A3 Pro/POCO C75 Global
 codename: lake
 permalink: /firmware/lake/stable/OS1.0.6.0.UGTMIXM/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/lake/stable/OS1.0.6.0.UGTMIXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item"><a href="/firmware/lake/">Redmi 14C / POCO C75 / Redmi A3 Pro Global</a></li>
+        <li class="breadcrumb-item"><a href="/firmware/lake/">Redmi 14C/17C/A3 Pro/POCO C75 Global</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS1.0.6.0.UGTMIXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /firmware/lake/stable/OS1.0.6.0.UGTMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">Firmware OS1.0.6.0.UGTMIXM Stable Release for Redmi 14C / POCO C75 / Redmi A3 Pro Global (lake)</h3>
+    <h3 class="title bg-light p-2 rounded">Firmware OS1.0.6.0.UGTMIXM Stable Release for Redmi 14C/17C/A3 Pro/POCO C75 Global (lake)</h3>
     <h5>This page shows the OS1.0.6.0.UGTMIXM update only. If you're looking for other updates check
         <a href="/firmware/lake/">here.</a></h5>
     <div class="card">
@@ -42,7 +42,7 @@ permalink: /firmware/lake/stable/OS1.0.6.0.UGTMIXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi 14C / POCO C75 / Redmi A3 Pro Global</h5>
+                    <h5><b>Device: </b>Redmi 14C/17C/A3 Pro/POCO C75 Global</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/firmware/lake/" target="_blank">lake</a> </h5>

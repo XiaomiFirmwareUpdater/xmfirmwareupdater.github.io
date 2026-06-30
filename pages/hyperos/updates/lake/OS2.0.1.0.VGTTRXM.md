@@ -1,7 +1,7 @@
 ---
-title: Redmi 14C / POCO C75 / Redmi A3 Pro Turkey HyperOS OS2.0.1.0.VGTTRXM Update
+title: Redmi 14C/17C/A3 Pro/POCO C75 Turkey HyperOS OS2.0.1.0.VGTTRXM Update
 layout: download
-name: Redmi 14C / POCO C75 / Redmi A3 Pro Turkey
+name: Redmi 14C/17C/A3 Pro/POCO C75 Turkey
 codename: lake
 permalink: /hyperos/lake/stable/OS2.0.1.0.VGTTRXM/
 ---
@@ -9,7 +9,7 @@ permalink: /hyperos/lake/stable/OS2.0.1.0.VGTTRXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/lake/">Redmi 14C / POCO C75 / Redmi A3 Pro Turkey</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/lake/">Redmi 14C/17C/A3 Pro/POCO C75 Turkey</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS2.0.1.0.VGTTRXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /hyperos/lake/stable/OS2.0.1.0.VGTTRXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.1.0.VGTTRXM Stable Official Update for Redmi 14C / POCO C75 / Redmi A3 Pro Turkey (lake)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS2.0.1.0.VGTTRXM Stable Official Update for Redmi 14C/17C/A3 Pro/POCO C75 Turkey (lake)</h3>
     <h5>This page shows the OS2.0.1.0.VGTTRXM update only. If you're looking for other updates check
         <a href="/hyperos/lake/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -44,7 +44,7 @@ permalink: /hyperos/lake/stable/OS2.0.1.0.VGTTRXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi 14C / POCO C75 / Redmi A3 Pro Turkey</h5>
+                    <h5><b>Device: </b>Redmi 14C/17C/A3 Pro/POCO C75 Turkey</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/lake/" target="_blank">lake</a> </h5>
@@ -87,7 +87,7 @@ permalink: /hyperos/lake/stable/OS2.0.1.0.VGTTRXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi 14C / POCO C75 / Redmi A3 Pro Turkey</h5>
+                    <h5><b>Device: </b>Redmi 14C/17C/A3 Pro/POCO C75 Turkey</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/lake/" target="_blank">lake</a> </h5>

@@ -1,7 +1,7 @@
 ---
-title: Redmi 14C / POCO C75 / Redmi A3 Pro Russia HyperOS OS3.0.2.0.WGTRUXM Update
+title: Redmi 14C/17C/A3 Pro/POCO C75 Russia HyperOS OS3.0.2.0.WGTRUXM Update
 layout: download
-name: Redmi 14C / POCO C75 / Redmi A3 Pro Russia
+name: Redmi 14C/17C/A3 Pro/POCO C75 Russia
 codename: lake
 permalink: /hyperos/lake/stable/OS3.0.2.0.WGTRUXM/
 ---
@@ -9,7 +9,7 @@ permalink: /hyperos/lake/stable/OS3.0.2.0.WGTRUXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/lake/">Redmi 14C / POCO C75 / Redmi A3 Pro Russia</a></li>
+        <li class="breadcrumb-item"><a href="/hyperos/lake/">Redmi 14C/17C/A3 Pro/POCO C75 Russia</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS3.0.2.0.WGTRUXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /hyperos/lake/stable/OS3.0.2.0.WGTRUXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.2.0.WGTRUXM Stable Official Update for Redmi 14C / POCO C75 / Redmi A3 Pro Russia (lake)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.2.0.WGTRUXM Stable Official Update for Redmi 14C/17C/A3 Pro/POCO C75 Russia (lake)</h3>
     <h5>This page shows the OS3.0.2.0.WGTRUXM update only. If you're looking for other updates check
         <a href="/hyperos/lake/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -44,7 +44,7 @@ permalink: /hyperos/lake/stable/OS3.0.2.0.WGTRUXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi 14C / POCO C75 / Redmi A3 Pro Russia</h5>
+                    <h5><b>Device: </b>Redmi 14C/17C/A3 Pro/POCO C75 Russia</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/lake/" target="_blank">lake</a> </h5>
@@ -87,7 +87,7 @@ permalink: /hyperos/lake/stable/OS3.0.2.0.WGTRUXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi 14C / POCO C75 / Redmi A3 Pro Russia</h5>
+                    <h5><b>Device: </b>Redmi 14C/17C/A3 Pro/POCO C75 Russia</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/lake/" target="_blank">lake</a> </h5>

@@ -1,7 +1,7 @@
 ---
-title: Redmi 14C/POCO C75/Redmi A3 Pro (lake) Firmware Downloads
+title: Redmi 14C/17C/A3 Pro/POCO C75 (lake) Firmware Downloads
 layout: download
-name: Redmi 14C/POCO C75/Redmi A3 Pro
+name: Redmi 14C/17C/A3 Pro/POCO C75
 codename: lake
 permalink: /firmware/lake/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/lake/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/lake/">Redmi 14C/POCO C75/Redmi A3 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/lake/">Redmi 14C/17C/A3 Pro/POCO C75</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

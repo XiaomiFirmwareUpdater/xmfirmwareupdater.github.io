@@ -12584,187 +12584,187 @@
   codename: lake
   date: '2025-03-31'
   download: https://bigota.d.miui.com/OS1.0.8.0.UGTEUXM/fw_lake_miui_LAKEEEAGlobal_OS1.0.8.0.UGTEUXM_417bdb121d_14.0.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS1.0.8.0.UGTEUXM
 - android: '15.0'
   codename: lake
   date: '2025-10-30'
   download: https://bigota.d.miui.com/OS2.0.204.0.VGTEUXM/fw_lake_lake_eea_global-ota_full-OS2.0.204.0.VGTEUXM-user-15.0-4ce5f7791c.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS2.0.204.0.VGTEUXM
 - android: '14.0'
   codename: lake
   date: '2024-09-30'
   download: https://bigota.d.miui.com/OS1.0.6.0.UGTMIXM/fw_lake_miui_LAKEGlobal_OS1.0.6.0.UGTMIXM_f4d94f023d_14.0.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS1.0.6.0.UGTMIXM
 - android: '15.0'
   codename: lake
   date: '2025-12-29'
   download: https://bigota.d.miui.com/OS2.0.205.0.VGTEUXM/fw_lake_lake_eea_global-ota_full-OS2.0.205.0.VGTEUXM-user-15.0-b955da676e.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS2.0.205.0.VGTEUXM
 - android: '14.0'
   codename: lake
   date: '2024-10-28'
   download: https://bigota.d.miui.com/OS1.0.5.0.UGTEUXM/fw_lake_miui_LAKEEEAGlobal_OS1.0.5.0.UGTEUXM_651b9e2c99_14.0.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS1.0.5.0.UGTEUXM
 - android: '14.0'
   codename: lake
   date: '2024-10-28'
   download: https://bigota.d.miui.com/OS1.0.9.0.UGTMIXM/fw_lake_miui_LAKEGlobal_OS1.0.9.0.UGTMIXM_32bfceef6d_14.0.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS1.0.9.0.UGTMIXM
 - android: '15.0'
   codename: lake
   date: '2026-01-26'
   download: https://bigota.d.miui.com/OS2.0.208.0.VGTEUXM/fw_lake_lake_eea_global-ota_full-OS2.0.208.0.VGTEUXM-user-15.0-f2c8a9fd67.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS2.0.208.0.VGTEUXM
 - android: '14.0'
   codename: lake
   date: '2024-09-25'
   download: https://bigota.d.miui.com/OS1.0.5.0.UGTMIXM/fw_lake_miui_LAKEGlobal_OS1.0.5.0.UGTMIXM_99d12c8d45_14.0.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS1.0.5.0.UGTMIXM
 - android: '15.0'
   codename: lake
   date: '2025-07-24'
   download: https://bigota.d.miui.com/OS2.0.4.0.VGTMIXM/fw_lake_global_lake_global-ota_full-OS2.0.4.0.VGTMIXM-user-15.0-6df1d5e03a.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS2.0.4.0.VGTMIXM
 - android: '16.0'
   codename: lake
   date: '2026-02-25'
   download: https://bigota.d.miui.com/OS3.0.18.0.WGTMIXM/fw_lake_lake_global-ota_full-OS3.0.18.0.WGTMIXM-user-16.0-e592ad4d68.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS3.0.18.0.WGTMIXM
 - android: '15.0'
   codename: lake
   date: '2026-01-23'
   download: https://bigota.d.miui.com/OS2.0.205.0.VGTMIXM/fw_lake_lake_global-ota_full-OS2.0.205.0.VGTMIXM-user-15.0-7d242e140e.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS2.0.205.0.VGTMIXM
 - android: '14.0'
   codename: lake
   date: '2024-12-19'
   download: https://bigota.d.miui.com/OS1.0.6.0.UGTEUXM/fw_lake_miui_LAKEEEAGlobal_OS1.0.6.0.UGTEUXM_fada46d343_14.0.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS1.0.6.0.UGTEUXM
 - android: '16.0'
   codename: lake
   date: '2026-05-17'
   download: https://bigota.d.miui.com/OS3.0.20.0.WGTMIXM/fw_lake_lake_global-ota_full-OS3.0.20.0.WGTMIXM-user-16.0-c36e8b11d3.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS3.0.20.0.WGTMIXM
 - android: '16.0'
   codename: lake
   date: '2026-03-16'
   download: https://bigota.d.miui.com/OS3.0.3.0.WGTEUXM/fw_lake_lake_eea_global-ota_full-OS3.0.3.0.WGTEUXM-user-16.0-49684d04f0.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS3.0.3.0.WGTEUXM
 - android: '14.0'
   codename: lake
   date: '2025-01-16'
   download: https://bigota.d.miui.com/OS1.0.11.0.UGTMIXM/fw_lake_miui_LAKEGlobal_OS1.0.11.0.UGTMIXM_6de4047946_14.0.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS1.0.11.0.UGTMIXM
 - android: '15.0'
   codename: lake
   date: '2025-09-14'
   download: https://bigota.d.miui.com/OS2.0.203.0.VGTEUXM/fw_lake_eea_global_lake_eea_global-ota_full-OS2.0.203.0.VGTEUXM-user-15.0-c529ad0a48.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS2.0.203.0.VGTEUXM
 - android: '15.0'
   codename: lake
   date: '2025-05-12'
   download: https://bigota.d.miui.com/OS2.0.1.0.VGTMIXM/fw_lake_global_lake_global-ota_full-OS2.0.1.0.VGTMIXM-user-15.0-0b7da9e179.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS2.0.1.0.VGTMIXM
 - android: '15.0'
   codename: lake
   date: '2025-06-11'
   download: https://bigota.d.miui.com/OS2.0.3.0.VGTMIXM/fw_lake_global_lake_global-ota_full-OS2.0.3.0.VGTMIXM-user-15.0-b69c2238cb.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS2.0.3.0.VGTMIXM
 - android: '14.0'
   codename: lake
   date: '2025-02-10'
   download: https://bigota.d.miui.com/OS1.0.7.0.UGTEUXM/fw_lake_miui_LAKEEEAGlobal_OS1.0.7.0.UGTEUXM_1158150761_14.0.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS1.0.7.0.UGTEUXM
 - android: '14.0'
   codename: lake
   date: '2025-06-09'
   download: https://bigota.d.miui.com/OS1.0.9.0.UGTEUXM/fw_lake_miui_LAKEEEAGlobal_OS1.0.9.0.UGTEUXM_e2c155ba02_14.0.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS1.0.9.0.UGTEUXM
 - android: '15.0'
   codename: lake
   date: '2026-03-09'
   download: https://bigota.d.miui.com/OS2.0.209.0.VGTEUXM/fw_lake_lake_eea_global-ota_full-OS2.0.209.0.VGTEUXM-user-15.0-9fd8bd3778.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS2.0.209.0.VGTEUXM
 - android: '15.0'
   codename: lake
   date: '2026-01-09'
   download: https://bigota.d.miui.com/OS2.0.207.0.VGTEUXM/fw_lake_lake_eea_global-ota_full-OS2.0.207.0.VGTEUXM-user-15.0-d75fc59957.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS2.0.207.0.VGTEUXM
 - android: '14.0'
   codename: lake
   date: '2024-10-08'
   download: https://bigota.d.miui.com/OS1.0.4.0.UGTEUXM/fw_lake_miui_LAKEEEAGlobal_OS1.0.4.0.UGTEUXM_3000f18ca6_14.0.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS1.0.4.0.UGTEUXM
 - android: '15.0'
   codename: lake
   date: '2025-11-06'
   download: https://bigota.d.miui.com/OS2.0.203.0.VGTMIXM/fw_lake_lake_global-ota_full-OS2.0.203.0.VGTMIXM-user-15.0-b4af488383.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS2.0.203.0.VGTMIXM
 - android: '15.0'
   codename: lake
   date: '2025-07-07'
   download: https://bigota.d.miui.com/OS2.0.202.0.VGTEUXM/fw_lake_eea_global_lake_eea_global-ota_full-OS2.0.202.0.VGTEUXM-user-15.0-54fb735326.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS2.0.202.0.VGTEUXM
 - android: '16.0'
   codename: lake
   date: '2026-05-06'
   download: https://bigota.d.miui.com/OS3.0.4.0.WGTEUXM/fw_lake_lake_eea_global-ota_full-OS3.0.4.0.WGTEUXM-user-16.0-0ae355b358.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS3.0.4.0.WGTEUXM
 - android: '14.0'
   codename: lake
   date: '2024-09-04'
   download: https://bigota.d.miui.com/OS1.0.4.0.UGTMIXM/fw_lake_miui_LAKEGlobal_OS1.0.4.0.UGTMIXM_3001eee04b_14.0.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS1.0.4.0.UGTMIXM
 - android: '15.0'
   codename: lake
   date: '2025-09-04'
   download: https://bigota.d.miui.com/OS2.0.202.0.VGTMIXM/fw_lake_global_lake_global-ota_full-OS2.0.202.0.VGTMIXM-user-15.0-4ba2b1c659.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS2.0.202.0.VGTMIXM
 - android: '14.0'
   codename: lake
   date: '2024-12-02'
   download: https://bigota.d.miui.com/OS1.0.10.0.UGTMIXM/fw_lake_miui_LAKEGlobal_OS1.0.10.0.UGTMIXM_aa1c80c252_14.0.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS1.0.10.0.UGTMIXM
 - android: '14.0'
   codename: lake
   date: '2024-10-03'
   download: https://bigota.d.miui.com/OS1.0.3.0.UGTEUXM/fw_lake_miui_LAKEEEAGlobal_OS1.0.3.0.UGTEUXM_0a6000233f_14.0.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS1.0.3.0.UGTEUXM
 - android: '14.0'
   codename: lake
   date: '2025-04-03'
   download: https://bigota.d.miui.com/OS1.0.13.0.UGTMIXM/fw_lake_miui_LAKEGlobal_OS1.0.13.0.UGTMIXM_6472e60862_14.0.zip
-  name: Redmi 14C/POCO C75/Redmi A3 Pro
+  name: Redmi 14C/17C/A3 Pro/POCO C75
   version: OS1.0.13.0.UGTMIXM
 - android: '16.0'
   codename: lapis
@@ -24444,6 +24444,12 @@
   version: OS1.0.12.0.UMWEUXM
 - android: '15.0'
   codename: sky
+  date: '2026-06-30'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VMWMIXM/fw_sky_sky_global-ota_full-OS2.0.209.0.VMWMIXM-user-15.0-e67fd1a100.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS2.0.209.0.VMWMIXM
+- android: '15.0'
+  codename: sky
   date: '2026-04-30'
   download: https://bigota.d.miui.com/OS2.0.202.0.VMWINXM/fw_sky_sky_in_global-ota_full-OS2.0.202.0.VMWINXM-user-15.0-e58549ed93.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
@@ -27104,157 +27110,157 @@
   codename: tornado
   date: '2025-12-31'
   download: https://bigota.d.miui.com/OS2.0.206.0.VPOMIXM/fw_tornado_tornado_global-ota_full-OS2.0.206.0.VPOMIXM-user-15.0-682128b635.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS2.0.206.0.VPOMIXM
 - android: '15.0'
   codename: tornado
   date: '2026-04-30'
   download: https://bigota.d.miui.com/OS2.0.208.0.VPOEUXM/fw_tornado_tornado_eea_global-ota_full-OS2.0.208.0.VPOEUXM-user-15.0-f5194ab232.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS2.0.208.0.VPOEUXM
 - android: '16.0'
   codename: tornado
   date: '2026-04-30'
   download: https://bigota.d.miui.com/OS3.0.301.0.WPOINXM/fw_tornado_tornado_in_global-ota_full-OS3.0.301.0.WPOINXM-user-16.0-599ff966b9.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS3.0.301.0.WPOINXM
 - android: '15.0'
   codename: tornado
   date: '2025-11-28'
   download: https://bigota.d.miui.com/OS2.0.204.0.VPOEUXM/fw_tornado_tornado_eea_global-ota_full-OS2.0.204.0.VPOEUXM-user-15.0-987bf0b62b.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS2.0.204.0.VPOEUXM
 - android: '15.0'
   codename: tornado
   date: '2025-12-27'
   download: https://bigota.d.miui.com/OS2.0.203.0.VPOINXM/fw_tornado_tornado_in_global-ota_full-OS2.0.203.0.VPOINXM-user-15.0-6375d83ace.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS2.0.203.0.VPOINXM
 - android: '16.0'
   codename: tornado
   date: '2026-03-24'
   download: https://bigota.d.miui.com/OS3.0.1.0.WPOINXM/fw_tornado_tornado_in_global-ota_full-OS3.0.1.0.WPOINXM-user-16.0-204b2046fb.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS3.0.1.0.WPOINXM
 - android: '15.0'
   codename: tornado
   date: '2025-09-23'
   download: https://bigota.d.miui.com/OS2.0.202.0.VPOCNXM/fw_tornado_tornado-ota_full-OS2.0.202.0.VPOCNXM-user-15.0-d9730a074c.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS2.0.202.0.VPOCNXM
 - android: '15.0'
   codename: tornado
   date: '2025-10-20'
   download: https://bigota.d.miui.com/OS2.0.203.0.VPOEUXM/fw_tornado_tornado_eea_global-ota_full-OS2.0.203.0.VPOEUXM-user-15.0-43388b1b49.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS2.0.203.0.VPOEUXM
 - android: '15.0'
   codename: tornado
   date: '2025-09-19'
   download: https://bigota.d.miui.com/OS2.0.202.0.VPOMIXM/fw_tornado_global_tornado_global-ota_full-OS2.0.202.0.VPOMIXM-user-15.0-9ca795b8a9.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS2.0.202.0.VPOMIXM
 - android: '16.0'
   codename: tornado
   date: '2026-03-19'
   download: https://bigota.d.miui.com/OS3.0.1.0.WPOMIXM/fw_tornado_tornado_global-ota_full-OS3.0.1.0.WPOMIXM-user-16.0-d1a4d43395.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS3.0.1.0.WPOMIXM
 - android: '15.0'
   codename: tornado
   date: '2026-03-16'
   download: https://bigota.d.miui.com/OS2.0.207.0.VPOEUXM/fw_tornado_tornado_eea_global-ota_full-OS2.0.207.0.VPOEUXM-user-15.0-06698b623c.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS2.0.207.0.VPOEUXM
 - android: '15.0'
   codename: tornado
   date: '2025-10-15'
   download: https://bigota.d.miui.com/OS2.0.203.0.VPOMIXM/fw_tornado_tornado_global-ota_full-OS2.0.203.0.VPOMIXM-user-15.0-ae994d5ee2.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS2.0.203.0.VPOMIXM
 - android: '15.0'
   codename: tornado
   date: '2026-01-14'
   download: https://bigota.d.miui.com/OS2.0.206.0.VPOCNXM/fw_tornado_tornado-ota_full-OS2.0.206.0.VPOCNXM-user-15.0-914deb6a5d.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS2.0.206.0.VPOCNXM
 - android: '15.0'
   codename: tornado
   date: '2025-11-12'
   download: https://bigota.d.miui.com/OS2.0.202.0.VPOINXM/fw_tornado_tornado_in_global-ota_full-OS2.0.202.0.VPOINXM-user-15.0-955fd223a5.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS2.0.202.0.VPOINXM
 - android: '16.0'
   codename: tornado
   date: '2026-06-12'
   download: https://bigota.d.miui.com/OS3.0.303.0.WPOINXM/fw_tornado_tornado_in_global-ota_full-OS3.0.303.0.WPOINXM-user-16.0-96190d6b4e.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS3.0.303.0.WPOINXM
 - android: '15.0'
   codename: tornado
   date: '2026-05-13'
   download: https://bigota.d.miui.com/OS2.0.207.0.VPOMIXM/fw_tornado_tornado_global-ota_full-OS2.0.207.0.VPOMIXM-user-15.0-e1de95af7f.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS2.0.207.0.VPOMIXM
 - android: '15.0'
   codename: tornado
   date: '2025-11-10'
   download: https://bigota.d.miui.com/OS2.0.203.0.VPOCNXM/fw_tornado_tornado-ota_full-OS2.0.203.0.VPOCNXM-user-15.0-c475aea23c.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS2.0.203.0.VPOCNXM
 - android: '15.0'
   codename: tornado
   date: '2026-01-10'
   download: https://bigota.d.miui.com/OS2.0.205.0.VPOEUXM/fw_tornado_tornado_eea_global-ota_full-OS2.0.205.0.VPOEUXM-user-15.0-6e10316750.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS2.0.205.0.VPOEUXM
 - android: '16.0'
   codename: tornado
   date: '2026-03-08'
   download: https://bigota.d.miui.com/OS3.0.1.0.WPOCNXM/fw_tornado_tornado-ota_full-OS3.0.1.0.WPOCNXM-user-16.0-ab891cbcfa.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS3.0.1.0.WPOCNXM
 - android: '16.0'
   codename: tornado
   date: '2026-05-06'
   download: https://bigota.d.miui.com/OS3.0.302.0.WPOCNXM/fw_tornado_tornado-ota_full-OS3.0.302.0.WPOCNXM-user-16.0-fafc57434b.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS3.0.302.0.WPOCNXM
 - android: '16.0'
   codename: tornado
   date: '2026-05-06'
   download: https://bigota.d.miui.com/OS3.0.3.0.WPOMIXM/fw_tornado_tornado_global-ota_full-OS3.0.3.0.WPOMIXM-user-16.0-95ede93430.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS3.0.3.0.WPOMIXM
 - android: '16.0'
   codename: tornado
   date: '2026-04-07'
   download: https://bigota.d.miui.com/OS3.0.2.0.WPOINXM/fw_tornado_tornado_in_global-ota_full-OS3.0.2.0.WPOINXM-user-16.0-6a26a8fd42.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS3.0.2.0.WPOINXM
 - android: '15.0'
   codename: tornado
   date: '2026-06-05'
   download: https://bigota.d.miui.com/OS2.0.209.0.VPOEUXM/fw_tornado_tornado_eea_global-ota_full-OS2.0.209.0.VPOEUXM-user-15.0-bbc6918c8e.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS2.0.209.0.VPOEUXM
 - android: '16.0'
   codename: tornado
   date: '2026-06-03'
   download: https://bigota.d.miui.com/OS3.0.301.0.WPOMIXM/fw_tornado_tornado_global-ota_full-OS3.0.301.0.WPOMIXM-user-16.0-d5e616db1f.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS3.0.301.0.WPOMIXM
 - android: '15.0'
   codename: tornado
   date: '2025-12-01'
   download: https://bigota.d.miui.com/OS2.0.205.0.VPOMIXM/fw_tornado_tornado_global-ota_full-OS2.0.205.0.VPOMIXM-user-15.0-f54a1af708.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS2.0.205.0.VPOMIXM
 - android: '15.0'
   codename: tornado
   date: '2026-03-02'
   download: https://bigota.d.miui.com/OS2.0.204.0.VPOINXM/fw_tornado_tornado_in_global-ota_full-OS2.0.204.0.VPOINXM-user-15.0-9fb9ab7702.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G
+  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
   version: OS2.0.204.0.VPOINXM
 - android: '16.0'
   codename: turner
@@ -29080,6 +29086,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UGVINXM/fw_warm_miui_WARMINGlobal_OS1.0.5.0.UGVINXM_4353e221a6_14.0.zip
   name: Redmi A4 5G/POCO C75 5G
   version: OS1.0.5.0.UGVINXM
+- android: '16.0'
+  codename: warsaw
+  date: '2026-06-30'
+  download: https://bigota.d.miui.com/OS3.0.306.0.WHPCNXM/fw_warsaw_warsaw-ota_full-OS3.0.306.0.WHPCNXM-user-16.0-8d5c1b6155.zip
+  name: Redmi K90 Ultra
+  version: OS3.0.306.0.WHPCNXM
 - android: '14.0'
   codename: xaga
   date: '2024-08-31'

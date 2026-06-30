@@ -1,7 +1,7 @@
 ---
-title: Redmi 14C/POCO C75/Redmi A3 Pro (lake) HyperOS Downloads
+title: Redmi 14C/17C/A3 Pro/POCO C75 (lake) HyperOS Downloads
 layout: download
-name: Redmi 14C/POCO C75/Redmi A3 Pro
+name: Redmi 14C/17C/A3 Pro/POCO C75
 codename: lake
 permalink: /hyperos/lake/
 ---
@@ -9,7 +9,7 @@ permalink: /hyperos/lake/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/lake/">Redmi 14C/POCO C75/Redmi A3 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/lake/">Redmi 14C/17C/A3 Pro/POCO C75</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -52,19 +52,19 @@ permalink: /hyperos/lake/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WGTEUXM</td><td>16.0</td><td>7.0 GB</td><td>2026-04-17</td><td><a href="/hyperos/lake/stable/OS3.0.4.0.WGTEUXM/">Download</a></td></tr>
-<tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WGTEUXM</td><td>16.0</td><td>4.8 GB</td><td>2026-04-30</td><td><a href="/hyperos/lake/stable/OS3.0.4.0.WGTEUXM/">Download</a></td></tr>
-<tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.20.0.WGTMIXM</td><td>16.0</td><td>8.0 GB</td><td>2026-04-30</td><td><a href="/hyperos/lake/stable/OS3.0.20.0.WGTMIXM/">Download</a></td></tr>
-<tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.20.0.WGTMIXM</td><td>16.0</td><td>4.8 GB</td><td>2026-05-12</td><td><a href="/hyperos/lake/stable/OS3.0.20.0.WGTMIXM/">Download</a></td></tr>
-<tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UGTMIXM</td><td>14.0</td><td>4.2 GB</td><td>2024-09-02</td><td><a href="/hyperos/lake/stable beta/OS1.0.1.0.UGTMIXM/">Download</a></td></tr>
-<tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WGTIDXM</td><td>16.0</td><td>7.2 GB</td><td>2026-05-27</td><td><a href="/hyperos/lake/stable/OS3.0.3.0.WGTIDXM/">Download</a></td></tr>
-<tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WGTIDXM</td><td>16.0</td><td>4.7 GB</td><td>2026-06-03</td><td><a href="/hyperos/lake/stable/OS3.0.3.0.WGTIDXM/">Download</a></td></tr>
-<tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WGTRUXM</td><td>16.0</td><td>7.8 GB</td><td>2026-06-02</td><td><a href="/hyperos/lake/stable/OS3.0.2.0.WGTRUXM/">Download</a></td></tr>
-<tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WGTRUXM</td><td>16.0</td><td>4.6 GB</td><td>2026-06-11</td><td><a href="/hyperos/lake/stable/OS3.0.2.0.WGTRUXM/">Download</a></td></tr>
-<tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WGTTRXM</td><td>16.0</td><td>6.8 GB</td><td>2026-06-02</td><td><a href="/hyperos/lake/stable/OS3.0.2.0.WGTTRXM/">Download</a></td></tr>
-<tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WGTTRXM</td><td>16.0</td><td>4.7 GB</td><td>2026-06-11</td><td><a href="/hyperos/lake/stable/OS3.0.2.0.WGTTRXM/">Download</a></td></tr>
-<tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WGTTWXM</td><td>16.0</td><td>5.7 GB</td><td>2026-04-13</td><td><a href="/hyperos/lake/stable/OS3.0.1.0.WGTTWXM/">Download</a></td></tr>
-<tr><td>Redmi 14C / POCO C75 / Redmi A3 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WGTTWXM</td><td>16.0</td><td>4.6 GB</td><td>2026-04-29</td><td><a href="/hyperos/lake/stable/OS3.0.1.0.WGTTWXM/">Download</a></td></tr>
+                <tr><td>Redmi 14C/17C/A3 Pro/POCO C75 EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WGTEUXM</td><td>16.0</td><td>7.0 GB</td><td>2026-04-17</td><td><a href="/hyperos/lake/stable/OS3.0.4.0.WGTEUXM/">Download</a></td></tr>
+<tr><td>Redmi 14C/17C/A3 Pro/POCO C75 EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WGTEUXM</td><td>16.0</td><td>4.8 GB</td><td>2026-04-30</td><td><a href="/hyperos/lake/stable/OS3.0.4.0.WGTEUXM/">Download</a></td></tr>
+<tr><td>Redmi 14C/17C/A3 Pro/POCO C75 Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.20.0.WGTMIXM</td><td>16.0</td><td>8.0 GB</td><td>2026-04-30</td><td><a href="/hyperos/lake/stable/OS3.0.20.0.WGTMIXM/">Download</a></td></tr>
+<tr><td>Redmi 14C/17C/A3 Pro/POCO C75 Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.20.0.WGTMIXM</td><td>16.0</td><td>4.8 GB</td><td>2026-05-12</td><td><a href="/hyperos/lake/stable/OS3.0.20.0.WGTMIXM/">Download</a></td></tr>
+<tr><td>Redmi 14C/17C/A3 Pro/POCO C75 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UGTMIXM</td><td>14.0</td><td>4.2 GB</td><td>2024-09-02</td><td><a href="/hyperos/lake/stable beta/OS1.0.1.0.UGTMIXM/">Download</a></td></tr>
+<tr><td>Redmi 14C/17C/A3 Pro/POCO C75 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WGTIDXM</td><td>16.0</td><td>7.2 GB</td><td>2026-05-27</td><td><a href="/hyperos/lake/stable/OS3.0.3.0.WGTIDXM/">Download</a></td></tr>
+<tr><td>Redmi 14C/17C/A3 Pro/POCO C75 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WGTIDXM</td><td>16.0</td><td>4.7 GB</td><td>2026-06-03</td><td><a href="/hyperos/lake/stable/OS3.0.3.0.WGTIDXM/">Download</a></td></tr>
+<tr><td>Redmi 14C/17C/A3 Pro/POCO C75 Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WGTRUXM</td><td>16.0</td><td>7.8 GB</td><td>2026-06-02</td><td><a href="/hyperos/lake/stable/OS3.0.2.0.WGTRUXM/">Download</a></td></tr>
+<tr><td>Redmi 14C/17C/A3 Pro/POCO C75 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WGTRUXM</td><td>16.0</td><td>4.6 GB</td><td>2026-06-11</td><td><a href="/hyperos/lake/stable/OS3.0.2.0.WGTRUXM/">Download</a></td></tr>
+<tr><td>Redmi 14C/17C/A3 Pro/POCO C75 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WGTTRXM</td><td>16.0</td><td>6.8 GB</td><td>2026-06-02</td><td><a href="/hyperos/lake/stable/OS3.0.2.0.WGTTRXM/">Download</a></td></tr>
+<tr><td>Redmi 14C/17C/A3 Pro/POCO C75 Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WGTTRXM</td><td>16.0</td><td>4.7 GB</td><td>2026-06-11</td><td><a href="/hyperos/lake/stable/OS3.0.2.0.WGTTRXM/">Download</a></td></tr>
+<tr><td>Redmi 14C/17C/A3 Pro/POCO C75 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WGTTWXM</td><td>16.0</td><td>5.7 GB</td><td>2026-04-13</td><td><a href="/hyperos/lake/stable/OS3.0.1.0.WGTTWXM/">Download</a></td></tr>
+<tr><td>Redmi 14C/17C/A3 Pro/POCO C75 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WGTTWXM</td><td>16.0</td><td>4.6 GB</td><td>2026-04-29</td><td><a href="/hyperos/lake/stable/OS3.0.1.0.WGTTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

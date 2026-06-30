@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 30 Jun 2026 13:50:15 </lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 19:00:51 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.301.0.WOQEUXM</title>
@@ -42,6 +42,11 @@
             <pubDate>Tue, 30 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS2.0.209.0.VMWMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sky/</link>
+            <pubDate>Tue, 30 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G (somalia) - OS3.0.11.0.WBWINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/somalia/</link>
             <pubDate>Tue, 30 Jun 2026 00:00:00 </pubDate>
@@ -54,6 +59,11 @@
         <item>
             <title>Xiaomi 17T Pro (warhol) - OS3.0.309.0.WPSEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/warhol/</link>
+            <pubDate>Tue, 30 Jun 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K90 Ultra (warsaw) - OS3.0.306.0.WHPCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/warsaw/</link>
             <pubDate>Tue, 30 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -417,7 +427,7 @@
             <pubDate>Fri, 12 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) - OS3.0.303.0.WPOINXM</title>
+            <title>Redmi 15C 5G/15R 5G/POCO C85 5G/TBD (tornado) - OS3.0.303.0.WPOINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
             <pubDate>Fri, 12 Jun 2026 00:00:00 </pubDate>
         </item>
@@ -597,7 +607,7 @@
             <pubDate>Fri, 05 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) - OS2.0.209.0.VPOEUXM</title>
+            <title>Redmi 15C 5G/15R 5G/POCO C85 5G/TBD (tornado) - OS2.0.209.0.VPOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
             <pubDate>Fri, 05 Jun 2026 00:00:00 </pubDate>
         </item>
@@ -622,7 +632,7 @@
             <pubDate>Wed, 03 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) - OS3.0.301.0.WPOMIXM</title>
+            <title>Redmi 15C 5G/15R 5G/POCO C85 5G/TBD (tornado) - OS3.0.301.0.WPOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
             <pubDate>Wed, 03 Jun 2026 00:00:00 </pubDate>
         </item>
@@ -1012,7 +1022,7 @@
             <pubDate>Mon, 18 May 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 14C/POCO C75/Redmi A3 Pro (lake) - OS3.0.20.0.WGTMIXM</title>
+            <title>Redmi 14C/17C/A3 Pro/POCO C75 (lake) - OS3.0.20.0.WGTMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lake/</link>
             <pubDate>Sun, 17 May 2026 00:00:00 </pubDate>
         </item>
@@ -1132,11 +1142,6 @@
             <pubDate>Mon, 11 May 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS2.0.208.0.VMWMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sky/</link>
-            <pubDate>Mon, 11 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.303.0.WNKCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Mon, 11 May 2026 00:00:00 </pubDate>
@@ -1232,7 +1237,7 @@
             <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 14C/POCO C75/Redmi A3 Pro (lake) - OS3.0.4.0.WGTEUXM</title>
+            <title>Redmi 14C/17C/A3 Pro/POCO C75 (lake) - OS3.0.4.0.WGTEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lake/</link>
             <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
         </item>
@@ -1257,7 +1262,7 @@
             <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 15C 5G/15R 5G/POCO C85 5G (tornado) - OS3.0.302.0.WPOCNXM</title>
+            <title>Redmi 15C 5G/15R 5G/POCO C85 5G/TBD (tornado) - OS3.0.302.0.WPOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
             <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
         </item>
