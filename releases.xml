@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 01 Jul 2026 00:42:01 </lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 06:52:00 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 17T (chagall) - OS3.0.312.0.WPTEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
+            <pubDate>Wed, 01 Jul 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.301.0.WOQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
@@ -703,11 +708,6 @@
         </item>
         <item>
             <title>Xiaomi 17T (chagall) - OS3.0.303.0.WPTMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
-            <pubDate>Mon, 01 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17T (chagall) - OS3.0.311.0.WPTEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
             <pubDate>Mon, 01 Jun 2026 00:00:00 </pubDate>
         </item>
