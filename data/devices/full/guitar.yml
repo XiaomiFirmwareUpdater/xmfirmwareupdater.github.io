@@ -48,3 +48,13 @@
   versions:
     android: '16.0'
     miui: OS3.0.303.0.WDNMIXM
+- branch: stable
+  date: '2026-07-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_guitar/releases/download/stable-01.07.2026/fw_guitar_guitar_global-ota_full-OS3.0.305.0.WDNMIXM-user-16.0-4d6d4890e7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/guitar/fw_guitar_guitar_global-ota_full-OS3.0.305.0.WDNMIXM-user-16.0-4d6d4890e7.zip
+  filename: fw_guitar_guitar_global-ota_full-OS3.0.305.0.WDNMIXM-user-16.0-4d6d4890e7.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.305.0.WDNMIXM

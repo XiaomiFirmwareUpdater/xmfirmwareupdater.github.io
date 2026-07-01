@@ -2743,6 +2743,12 @@
 - android: '16.0'
   codename: chagall
   date: '2026-07-01'
+  download: https://bigota.d.miui.com/OS3.0.307.0.WPTCNXM/fw_chagall_chagall-ota_full-OS3.0.307.0.WPTCNXM-user-16.0-3622d1f007.zip
+  name: Xiaomi 17T
+  version: OS3.0.307.0.WPTCNXM
+- android: '16.0'
+  codename: chagall
+  date: '2026-07-01'
   download: https://bigota.d.miui.com/OS3.0.312.0.WPTEUXM/fw_chagall_chagall_eea_global-ota_full-OS3.0.312.0.WPTEUXM-user-16.0-33eee79d18.zip
   name: Xiaomi 17T
   version: OS3.0.312.0.WPTEUXM
@@ -10408,6 +10414,12 @@
   download: https://bigota.d.miui.com/OS3.0.303.0.WDNMIXM/fw_guitar_guitar_global-ota_full-OS3.0.303.0.WDNMIXM-user-16.0-b3bd133291.zip
   name: Redmi Pad 2 SE/Pad 2 9.7/POCO Pad C1
   version: OS3.0.303.0.WDNMIXM
+- android: '16.0'
+  codename: guitar
+  date: '2026-07-01'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WDNMIXM/fw_guitar_guitar_global-ota_full-OS3.0.305.0.WDNMIXM-user-16.0-4d6d4890e7.zip
+  name: Redmi Pad 2 SE/Pad 2 9.7/POCO Pad C1
+  version: OS3.0.305.0.WDNMIXM
 - android: '15.0'
   codename: haotian
   date: '2024-12-30'
