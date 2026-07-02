@@ -54,6 +54,7 @@ permalink: /hyperos/taiko/
                 <tbody>
                 <tr><td>Redmi Pad 2 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WOVCNXM</td><td>16.0</td><td>7.3 GB</td><td>2026-04-16</td><td><a href="/hyperos/taiko/stable/OS3.0.303.0.WOVCNXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WOVCNXM</td><td>16.0</td><td>5.9 GB</td><td>2026-04-22</td><td><a href="/hyperos/taiko/stable/OS3.0.303.0.WOVCNXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.304.0.WOVCNXM</td><td>16.0</td><td>5.9 GB</td><td>2026-07-02</td><td><a href="/hyperos/taiko/stable beta/OS3.0.304.0.WOVCNXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WOVMIXM</td><td>16.0</td><td>7.6 GB</td><td>2026-04-09</td><td><a href="/hyperos/taiko/stable/OS3.0.4.0.WOVMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WOVMIXM</td><td>16.0</td><td>5.5 GB</td><td>2026-04-16</td><td><a href="/hyperos/taiko/stable/OS3.0.4.0.WOVMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOVIDXM</td><td>16.0</td><td>6.9 GB</td><td>2026-05-27</td><td><a href="/hyperos/taiko/stable/OS3.0.3.0.WOVIDXM/">Download</a></td></tr>
