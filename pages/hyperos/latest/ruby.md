@@ -62,8 +62,10 @@ permalink: /hyperos/ruby/
 <tr><td>Redmi Note 12 Pro / Pro+ 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.14.0.UMOMIXM</td><td>14.0</td><td>5.0 GB</td><td>2026-06-23</td><td><a href="/hyperos/ruby/stable beta/OS2.0.14.0.UMOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.13.0.UMOIDXM</td><td>14.0</td><td>6.9 GB</td><td>2026-04-15</td><td><a href="/hyperos/ruby/stable/OS2.0.13.0.UMOIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.13.0.UMOIDXM</td><td>14.0</td><td>5.0 GB</td><td>2026-04-22</td><td><a href="/hyperos/ruby/stable/OS2.0.13.0.UMOIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 Pro / Pro+ 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.15.0.UMOIDXM</td><td>14.0</td><td>5.0 GB</td><td>2026-06-29</td><td><a href="/hyperos/ruby/stable beta/OS2.0.15.0.UMOIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G India</td><td>Stable</td><td>Fastboot</td><td>OS2.0.11.0.UMOINXM</td><td>14.0</td><td>6.1 GB</td><td>2026-04-16</td><td><a href="/hyperos/ruby/stable/OS2.0.11.0.UMOINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.11.0.UMOINXM</td><td>14.0</td><td>4.8 GB</td><td>2026-04-23</td><td><a href="/hyperos/ruby/stable/OS2.0.11.0.UMOINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 Pro / Pro+ 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.13.0.UMOINXM</td><td>14.0</td><td>4.8 GB</td><td>2026-06-29</td><td><a href="/hyperos/ruby/stable beta/OS2.0.13.0.UMOINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G South Korea</td><td>Stable</td><td>Fastboot</td><td>OS2.0.4.0.UMOKRXM</td><td>14.0</td><td>6.9 GB</td><td>2026-04-27</td><td><a href="/hyperos/ruby/stable/OS2.0.4.0.UMOKRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G South Korea</td><td>Stable</td><td>Recovery</td><td>OS2.0.4.0.UMOKRXM</td><td>14.0</td><td>5.0 GB</td><td>2026-05-07</td><td><a href="/hyperos/ruby/stable/OS2.0.4.0.UMOKRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G South Korea</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UMOKRXM</td><td>14.0</td><td>4.8 GB</td><td>2024-03-01</td><td><a href="/hyperos/ruby/stable beta/OS1.0.1.0.UMOKRXM/">Download</a></td></tr>
@@ -71,9 +73,9 @@ permalink: /hyperos/ruby/
 <tr><td>Redmi Note 12 Pro / Pro+ 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.10.0.UMORUXM</td><td>14.0</td><td>5.0 GB</td><td>2026-02-23</td><td><a href="/hyperos/ruby/stable/OS2.0.10.0.UMORUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS2.0.8.0.UMOTRXM</td><td>14.0</td><td>6.5 GB</td><td>2026-01-27</td><td><a href="/hyperos/ruby/stable/OS2.0.8.0.UMOTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS2.0.8.0.UMOTRXM</td><td>14.0</td><td>5.0 GB</td><td>2026-02-03</td><td><a href="/hyperos/ruby/stable/OS2.0.8.0.UMOTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 Pro / Pro+ 5G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UMOTRXM</td><td>14.0</td><td>4.7 GB</td><td>2024-03-18</td><td><a href="/hyperos/ruby/stable beta/OS1.0.1.0.UMOTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.8.0.UMOTWXM</td><td>14.0</td><td>6.3 GB</td><td>2026-01-27</td><td><a href="/hyperos/ruby/stable/OS2.0.8.0.UMOTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.8.0.UMOTWXM</td><td>14.0</td><td>4.8 GB</td><td>2026-02-03</td><td><a href="/hyperos/ruby/stable/OS2.0.8.0.UMOTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 Pro / Pro+ 5G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UMOTRXM</td><td>14.0</td><td>4.7 GB</td><td>2024-03-18</td><td><a href="/hyperos/ruby/stable beta/OS1.0.1.0.UMOTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
