@@ -52,7 +52,7 @@ permalink: /hyperos/peridot/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.9.0.WNPCNXM</td><td>16.0</td><td>8.8 GB</td><td>2026-03-17</td><td><a href="/hyperos/peridot/stable/OS3.0.9.0.WNPCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WNPCNXM</td><td>16.0</td><td>8.8 GB</td><td>2026-04-15</td><td><a href="/hyperos/peridot/stable/OS3.0.303.0.WNPCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WNPCNXM</td><td>16.0</td><td>7.1 GB</td><td>2026-04-22</td><td><a href="/hyperos/peridot/stable/OS3.0.303.0.WNPCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 3 China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UNPCNXM</td><td>14.0</td><td>6.5 GB</td><td>2024-04-17</td><td><a href="/hyperos/peridot/stable beta/OS1.0.2.0.UNPCNXM/">Download</a></td></tr>
 <tr><td>POCO F6 EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WNPEUXM</td><td>16.0</td><td>8.6 GB</td><td>2026-05-19</td><td><a href="/hyperos/peridot/stable/OS3.0.6.0.WNPEUXM/">Download</a></td></tr>
@@ -68,6 +68,7 @@ permalink: /hyperos/peridot/
 <tr><td>POCO F6 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WNPIDXM</td><td>16.0</td><td>8.7 GB</td><td>2026-06-08</td><td><a href="/hyperos/peridot/stable/OS3.0.302.0.WNPIDXM/">Download</a></td></tr>
 <tr><td>POCO F6 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WNPIDXM</td><td>16.0</td><td>6.3 GB</td><td>2026-06-23</td><td><a href="/hyperos/peridot/stable/OS3.0.302.0.WNPIDXM/">Download</a></td></tr>
 <tr><td>POCO F6 India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WNPINXM</td><td>16.0</td><td>6.1 GB</td><td>2026-06-23</td><td><a href="/hyperos/peridot/stable beta/OS3.0.302.0.WNPINXM/">Download</a></td></tr>
+<tr><td>POCO F6 Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WNPRUXM</td><td>16.0</td><td>6.2 GB</td><td>2026-06-30</td><td><a href="/hyperos/peridot/stable beta/OS3.0.302.0.WNPRUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WNPTWXM</td><td>16.0</td><td>6.2 GB</td><td>2026-06-23</td><td><a href="/hyperos/peridot/stable beta/OS3.0.302.0.WNPTWXM/">Download</a></td></tr>
 
                 </tbody>
