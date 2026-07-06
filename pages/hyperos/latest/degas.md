@@ -66,9 +66,8 @@ permalink: /hyperos/degas/
 <tr><td>Xiaomi 14T Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WNERUXM</td><td>16.0</td><td>6.5 GB</td><td>2026-06-23</td><td><a href="/hyperos/degas/stable beta/OS3.0.302.0.WNERUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WNETRXM</td><td>16.0</td><td>8.2 GB</td><td>2026-05-06</td><td><a href="/hyperos/degas/stable/OS3.0.301.0.WNETRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WNETRXM</td><td>16.0</td><td>6.5 GB</td><td>2026-06-02</td><td><a href="/hyperos/degas/stable/OS3.0.301.0.WNETRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14T Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WNETWXM</td><td>16.0</td><td>7.6 GB</td><td>2026-05-06</td><td><a href="/hyperos/degas/stable/OS3.0.301.0.WNETWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14T Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WNETWXM</td><td>16.0</td><td>6.4 GB</td><td>2026-06-02</td><td><a href="/hyperos/degas/stable/OS3.0.301.0.WNETWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14T Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WNETWXM</td><td>16.0</td><td>6.4 GB</td><td>2026-06-23</td><td><a href="/hyperos/degas/stable beta/OS3.0.302.0.WNETWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WNETWXM</td><td>16.0</td><td>7.7 GB</td><td>2026-06-11</td><td><a href="/hyperos/degas/stable/OS3.0.302.0.WNETWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WNETWXM</td><td>16.0</td><td>6.4 GB</td><td>2026-06-23</td><td><a href="/hyperos/degas/stable/OS3.0.302.0.WNETWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
