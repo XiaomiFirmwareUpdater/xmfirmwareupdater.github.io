@@ -52,13 +52,11 @@ permalink: /hyperos/peridot/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.9.0.WNPCNXM</td><td>16.0</td><td>8.8 GB</td><td>2026-03-17</td><td><a href="/hyperos/peridot/stable/OS3.0.9.0.WNPCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WNPCNXM</td><td>16.0</td><td>8.8 GB</td><td>2026-04-15</td><td><a href="/hyperos/peridot/stable/OS3.0.303.0.WNPCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 3 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WNPCNXM</td><td>16.0</td><td>7.1 GB</td><td>2026-04-22</td><td><a href="/hyperos/peridot/stable/OS3.0.303.0.WNPCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 3 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.304.0.WNPCNXM</td><td>16.0</td><td>7.1 GB</td><td>2026-07-01</td><td><a href="/hyperos/peridot/stable beta/OS3.0.304.0.WNPCNXM/">Download</a></td></tr>
 <tr><td>POCO F6 EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WNPEUXM</td><td>16.0</td><td>8.6 GB</td><td>2026-05-19</td><td><a href="/hyperos/peridot/stable/OS3.0.6.0.WNPEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WNPEUXM</td><td>16.0</td><td>6.3 GB</td><td>2026-05-27</td><td><a href="/hyperos/peridot/stable/OS3.0.6.0.WNPEUXM/">Download</a></td></tr>
-<tr><td>POCO F6 Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WNPRUXM</td><td>16.0</td><td>9.5 GB</td><td>2026-05-19</td><td><a href="/hyperos/peridot/stable/OS3.0.4.0.WNPRUXM/">Download</a></td></tr>
-<tr><td>POCO F6 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WNPRUXM</td><td>16.0</td><td>6.2 GB</td><td>2026-05-27</td><td><a href="/hyperos/peridot/stable/OS3.0.4.0.WNPRUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WNPTWXM</td><td>16.0</td><td>6.2 GB</td><td>2026-05-27</td><td><a href="/hyperos/peridot/stable/OS3.0.4.0.WNPTWXM/">Download</a></td></tr>
 <tr><td>POCO F6 Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WNPMIXM</td><td>16.0</td><td>9.2 GB</td><td>2026-04-30</td><td><a href="/hyperos/peridot/stable/OS3.0.301.0.WNPMIXM/">Download</a></td></tr>
 <tr><td>POCO F6 Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WNPMIXM</td><td>16.0</td><td>6.4 GB</td><td>2026-06-09</td><td><a href="/hyperos/peridot/stable/OS3.0.301.0.WNPMIXM/">Download</a></td></tr>
@@ -66,7 +64,8 @@ permalink: /hyperos/peridot/
 <tr><td>POCO F6 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WNPIDXM</td><td>16.0</td><td>6.3 GB</td><td>2026-06-23</td><td><a href="/hyperos/peridot/stable/OS3.0.302.0.WNPIDXM/">Download</a></td></tr>
 <tr><td>POCO F6 India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WNPINXM</td><td>16.0</td><td>7.8 GB</td><td>2026-06-07</td><td><a href="/hyperos/peridot/stable/OS3.0.302.0.WNPINXM/">Download</a></td></tr>
 <tr><td>POCO F6 India</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WNPINXM</td><td>16.0</td><td>6.1 GB</td><td>2026-06-23</td><td><a href="/hyperos/peridot/stable/OS3.0.302.0.WNPINXM/">Download</a></td></tr>
-<tr><td>POCO F6 Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WNPRUXM</td><td>16.0</td><td>6.2 GB</td><td>2026-06-30</td><td><a href="/hyperos/peridot/stable beta/OS3.0.302.0.WNPRUXM/">Download</a></td></tr>
+<tr><td>POCO F6 Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WNPRUXM</td><td>16.0</td><td>9.5 GB</td><td>2026-06-09</td><td><a href="/hyperos/peridot/stable/OS3.0.302.0.WNPRUXM/">Download</a></td></tr>
+<tr><td>POCO F6 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WNPRUXM</td><td>16.0</td><td>6.2 GB</td><td>2026-06-30</td><td><a href="/hyperos/peridot/stable/OS3.0.302.0.WNPRUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WNPTWXM</td><td>16.0</td><td>7.6 GB</td><td>2026-06-10</td><td><a href="/hyperos/peridot/stable/OS3.0.302.0.WNPTWXM/">Download</a></td></tr>
 
                 </tbody>
