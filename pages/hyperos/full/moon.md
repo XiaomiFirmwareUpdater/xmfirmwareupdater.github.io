@@ -52,7 +52,8 @@ permalink: /archive/hyperos/moon/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 13 / POCO M6 Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WNTTRXM</td><td>16.0</td><td>4.9 GB</td><td>2026-06-08</td><td><a href="/hyperos/moon/stable/OS3.0.301.0.WNTTRXM/">Download</a></td></tr>
+                <tr><td>Redmi 13 / POCO M6 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WNTMIXM</td><td>16.0</td><td>4.9 GB</td><td>2026-07-10</td><td><a href="/hyperos/moon/stable beta/OS3.0.303.0.WNTMIXM/">Download</a></td></tr>
+<tr><td>Redmi 13 / POCO M6 Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WNTTRXM</td><td>16.0</td><td>4.9 GB</td><td>2026-06-08</td><td><a href="/hyperos/moon/stable/OS3.0.301.0.WNTTRXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WNTTRXM</td><td>16.0</td><td>6.9 GB</td><td>2026-05-21</td><td><a href="/hyperos/moon/stable/OS3.0.301.0.WNTTRXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WNTTWXM</td><td>16.0</td><td>4.7 GB</td><td>2026-06-02</td><td><a href="/hyperos/moon/stable/OS3.0.301.0.WNTTWXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WNTTWXM</td><td>16.0</td><td>5.8 GB</td><td>2026-05-21</td><td><a href="/hyperos/moon/stable/OS3.0.301.0.WNTTWXM/">Download</a></td></tr>
@@ -66,10 +67,10 @@ permalink: /archive/hyperos/moon/
 <tr><td>Redmi 13 / POCO M6 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WNTTRXM</td><td>16.0</td><td>6.9 GB</td><td>2026-04-08</td><td><a href="/hyperos/moon/stable/OS3.0.4.0.WNTTRXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WNTIDXM</td><td>16.0</td><td>4.9 GB</td><td>2026-04-20</td><td><a href="/hyperos/moon/stable/OS3.0.4.0.WNTIDXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WNTIDXM</td><td>16.0</td><td>7.4 GB</td><td>2026-04-08</td><td><a href="/hyperos/moon/stable/OS3.0.4.0.WNTIDXM/">Download</a></td></tr>
-<tr><td>Redmi 13 / POCO M6 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WNTRUXM</td><td>16.0</td><td>4.8 GB</td><td>2026-04-09</td><td><a href="/hyperos/moon/stable/OS3.0.4.0.WNTRUXM/">Download</a></td></tr>
-<tr><td>Redmi 13 / POCO M6 Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WNTRUXM</td><td>16.0</td><td>8.0 GB</td><td>2026-03-30</td><td><a href="/hyperos/moon/stable/OS3.0.4.0.WNTRUXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WNTEUXM</td><td>16.0</td><td>5.0 GB</td><td>2026-05-22</td><td><a href="/hyperos/moon/stable/OS3.0.301.0.WNTEUXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WNTEUXM</td><td>16.0</td><td>7.2 GB</td><td>2026-05-14</td><td><a href="/hyperos/moon/stable/OS3.0.301.0.WNTEUXM/">Download</a></td></tr>
+<tr><td>Redmi 13 / POCO M6 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WNTRUXM</td><td>16.0</td><td>4.8 GB</td><td>2026-04-09</td><td><a href="/hyperos/moon/stable/OS3.0.4.0.WNTRUXM/">Download</a></td></tr>
+<tr><td>Redmi 13 / POCO M6 Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WNTRUXM</td><td>16.0</td><td>8.0 GB</td><td>2026-03-30</td><td><a href="/hyperos/moon/stable/OS3.0.4.0.WNTRUXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.7.0.WNTMIXM</td><td>16.0</td><td>4.9 GB</td><td>2026-04-09</td><td><a href="/hyperos/moon/stable/OS3.0.7.0.WNTMIXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.7.0.WNTMIXM</td><td>16.0</td><td>8.0 GB</td><td>2026-03-30</td><td><a href="/hyperos/moon/stable/OS3.0.7.0.WNTMIXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WNTEUXM</td><td>16.0</td><td>5.0 GB</td><td>2026-04-09</td><td><a href="/hyperos/moon/stable/OS3.0.4.0.WNTEUXM/">Download</a></td></tr>
