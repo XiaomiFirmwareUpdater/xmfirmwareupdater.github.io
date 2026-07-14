@@ -1,15 +1,15 @@
 ---
-title: Redmi K90 Max (prague) HyperOS Downloads
+title: Redmi Note 17 Pro 5G/POCO X8 (iolite) HyperOS Downloads
 layout: download
-name: Redmi K90 Max
-codename: prague
-permalink: /hyperos/prague/
+name: Redmi Note 17 Pro 5G/POCO X8
+codename: iolite
+permalink: /archive/hyperos/iolite/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/prague/">Redmi K90 Max</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/iolite/">Redmi Note 17 Pro 5G/POCO X8</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -20,17 +20,17 @@ permalink: /hyperos/prague/
     </button>
 </div>
 
-### Latest HyperOS Official ROMs
+### HyperOS Official ROMs Archive
 *Note*: All files listed here are official untouched HyperOS ROMs. It's not owned, modified or modded by XM Firmware Updater.
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-    <p class="card-text">This page shows the latest downloads only.
-     If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/hyperos/prague/" class="card-link">HyperOS Archive</a>
-    <a href="/firmware/prague/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/prague/" class="card-link">Vendor Downloads</a>
+    <p class="card-text">This page shows all available downloads.
+     If you're looking for the latest releases check or other downloads check:</p>
+    <a href="/hyperos/iolite/" class="card-link">Latest HyperOS</a>
+    <a href="/firmware/iolite/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/iolite/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,8 +52,9 @@ permalink: /hyperos/prague/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K90 Max China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.315.0.WAACNXM</td><td>16.0</td><td>13.7 GB</td><td>2026-06-24</td><td><a href="/hyperos/prague/stable/OS3.0.315.0.WAACNXM/">Download</a></td></tr>
-<tr><td>Redmi K90 Max China</td><td>Stable</td><td>Recovery</td><td>OS3.0.315.0.WAACNXM</td><td>16.0</td><td>8.5 GB</td><td>2026-06-29</td><td><a href="/hyperos/prague/stable/OS3.0.315.0.WAACNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 17 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.305.0.WDQCNXM</td><td>16.0</td><td>5.9 GB</td><td>2026-07-14</td><td><a href="/hyperos/iolite/stable/OS3.0.305.0.WDQCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 17 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.305.0.WDQCNXM</td><td>16.0</td><td>8.2 GB</td><td>2026-07-12</td><td><a href="/hyperos/iolite/stable/OS3.0.305.0.WDQCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 17 Pro 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WDQCNXM</td><td>16.0</td><td>5.9 GB</td><td>2026-07-14</td><td><a href="/hyperos/iolite/stable beta/OS3.0.303.0.WDQCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
