@@ -3,7 +3,7 @@ title: Redmi K60 Ultra China HyperOS OS3.0.303.0.WMLCNXM Update
 layout: download
 name: Redmi K60 Ultra China
 codename: corot
-permalink: /hyperos/corot/stable beta/OS3.0.303.0.WMLCNXM/
+permalink: /hyperos/corot/stable/OS3.0.303.0.WMLCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/corot/stable beta/OS3.0.303.0.WMLCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.303.0.WMLCNXM Stable Beta Official Update for Redmi K60 Ultra China (corot)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.303.0.WMLCNXM Stable Official Update for Redmi K60 Ultra China (corot)</h3>
     <h5>This page shows the OS3.0.303.0.WMLCNXM update only. If you're looking for other updates check
         <a href="/hyperos/corot/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/corot/stable beta/OS3.0.303.0.WMLCNXM/
                     <h5><b>Version: </b>OS3.0.303.0.WMLCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/corot/stable beta/OS3.0.303.0.WMLCNXM/
                             aria-expanded="false" aria-controls="corot_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="corot_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to June 2026. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi K60 Ultra China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/corot/" target="_blank">corot</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS3.0.303.0.WMLCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>9.0 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2026-06-16</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">corot_images_OS3.0.303.0.WMLCNXM_20260616.0000.00_16.0_cn_c50d8ba4ab.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">c50d8ba4ab60b7b4aa2f33eaed1f9891</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.303.0.WMLCNXM/corot_images_OS3.0.303.0.WMLCNXM_20260616.0000.00_16.0_cn_c50d8ba4ab.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WMLCNXM/corot_images_OS3.0.303.0.WMLCNXM_20260616.0000.00_16.0_cn_c50d8ba4ab.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.303.0.WMLCNXM/corot_images_OS3.0.303.0.WMLCNXM_20260616.0000.00_16.0_cn_c50d8ba4ab.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.303.0.WMLCNXM/corot_images_OS3.0.303.0.WMLCNXM_20260616.0000.00_16.0_cn_c50d8ba4ab.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.303.0.WMLCNXM/corot_images_OS3.0.303.0.WMLCNXM_20260616.0000.00_16.0_cn_c50d8ba4ab.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#corot_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="corot_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="corot_2_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to June 2026. Increased system security.</p>
                     </div>
                 </li>
