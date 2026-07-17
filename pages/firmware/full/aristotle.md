@@ -27,7 +27,7 @@ permalink: /archive/firmware/aristotle/
     <p class="card-text">This page shows all available downloads.
      If you're looking for the latest releases or other downloads check:</p>
     <a href="/firmware/aristotle/" class="card-link">Latest Firmware</a>
-    <a href="/hyperos/aristotle/" class="card-link">HyperOS Downloads</a>
+    <a href="/miui/aristotle/" class="card-link">MIUI Downloads</a>
     <a href="/vendor/aristotle/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
@@ -41,7 +41,7 @@ permalink: /archive/firmware/aristotle/
                 <thead class="thead-dark">
                     <tr>
                         <th data-ref="branch">Branch</th>
-                        <th data-ref="miui">HyperOS</th>
+                        <th data-ref="miui">MIUI</th>
                         <th data-ref="android">Android</th>
                         <th data-ref="region">Region</th>
                         <th data-ref="link">Link</th>
