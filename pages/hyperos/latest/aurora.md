@@ -55,21 +55,21 @@ permalink: /hyperos/aurora/
                 <tr><td>Xiaomi 14 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.305.0.WNACNXM</td><td>16.0</td><td>9.9 GB</td><td>2026-05-28</td><td><a href="/hyperos/aurora/stable/OS3.0.305.0.WNACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS3.0.305.0.WNACNXM</td><td>16.0</td><td>7.9 GB</td><td>2026-06-05</td><td><a href="/hyperos/aurora/stable/OS3.0.305.0.WNACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.7.0.UNACNXM</td><td>14.0</td><td>7.3 GB</td><td>2024-03-18</td><td><a href="/hyperos/aurora/stable beta/OS1.0.7.0.UNACNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WNAEUXM</td><td>16.0</td><td>8.8 GB</td><td>2026-04-21</td><td><a href="/hyperos/aurora/stable/OS3.0.302.0.WNAEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WNAEUXM</td><td>16.0</td><td>7.2 GB</td><td>2026-04-27</td><td><a href="/hyperos/aurora/stable/OS3.0.302.0.WNAEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14 Ultra EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.304.0.WNAEUXM</td><td>16.0</td><td>7.2 GB</td><td>2026-07-08</td><td><a href="/hyperos/aurora/stable beta/OS3.0.304.0.WNAEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14 Ultra Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UNAMIXM</td><td>14.0</td><td>6.5 GB</td><td>2024-03-14</td><td><a href="/hyperos/aurora/stable beta/OS1.0.1.0.UNAMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14 Ultra India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WNAINXM</td><td>16.0</td><td>7.6 GB</td><td>2026-02-06</td><td><a href="/hyperos/aurora/stable/OS3.0.5.0.WNAINXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WNAEUXM</td><td>16.0</td><td>8.8 GB</td><td>2026-06-29</td><td><a href="/hyperos/aurora/stable/OS3.0.304.0.WNAEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WNAEUXM</td><td>16.0</td><td>7.2 GB</td><td>2026-07-08</td><td><a href="/hyperos/aurora/stable/OS3.0.304.0.WNAEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Ultra EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.2.0.UNAEUXM</td><td>14.0</td><td>6.4 GB</td><td>2024-02-26</td><td><a href="/hyperos/aurora/stable beta/OS1.0.2.0.UNAEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WNAMIXM</td><td>16.0</td><td>9.5 GB</td><td>2026-04-21</td><td><a href="/hyperos/aurora/stable/OS3.0.302.0.WNAMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WNAMIXM</td><td>16.0</td><td>7.2 GB</td><td>2026-04-29</td><td><a href="/hyperos/aurora/stable/OS3.0.302.0.WNAMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14 Ultra India</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WNAINXM</td><td>16.0</td><td>7.0 GB</td><td>2026-05-12</td><td><a href="/hyperos/aurora/stable/OS3.0.301.0.WNAINXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Ultra Global</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.1.0.UNAMIXM</td><td>14.0</td><td>6.5 GB</td><td>2024-03-14</td><td><a href="/hyperos/aurora/stable beta/OS1.0.1.0.UNAMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WNATRXM</td><td>16.0</td><td>8.7 GB</td><td>2026-02-10</td><td><a href="/hyperos/aurora/stable/OS3.0.3.0.WNATRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WNATRXM</td><td>16.0</td><td>7.1 GB</td><td>2026-03-02</td><td><a href="/hyperos/aurora/stable/OS3.0.3.0.WNATRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14 Ultra Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WNARUXM</td><td>16.0</td><td>9.4 GB</td><td>2026-04-27</td><td><a href="/hyperos/aurora/stable/OS3.0.301.0.WNARUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14 Ultra Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WNARUXM</td><td>16.0</td><td>7.1 GB</td><td>2026-05-12</td><td><a href="/hyperos/aurora/stable/OS3.0.301.0.WNARUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14 Ultra Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WNATWXM</td><td>16.0</td><td>8.0 GB</td><td>2026-02-10</td><td><a href="/hyperos/aurora/stable/OS3.0.3.0.WNATWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WNATWXM</td><td>16.0</td><td>7.0 GB</td><td>2026-03-02</td><td><a href="/hyperos/aurora/stable/OS3.0.3.0.WNATWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Ultra Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UNATWXM</td><td>14.0</td><td>6.4 GB</td><td>2024-05-13</td><td><a href="/hyperos/aurora/stable beta/OS1.0.4.0.UNATWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Ultra India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WNAINXM</td><td>16.0</td><td>7.7 GB</td><td>2026-04-27</td><td><a href="/hyperos/aurora/stable/OS3.0.301.0.WNAINXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Ultra India</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WNAINXM</td><td>16.0</td><td>7.0 GB</td><td>2026-05-12</td><td><a href="/hyperos/aurora/stable/OS3.0.301.0.WNAINXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Ultra Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WNARUXM</td><td>16.0</td><td>9.4 GB</td><td>2026-04-27</td><td><a href="/hyperos/aurora/stable/OS3.0.301.0.WNARUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Ultra Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WNARUXM</td><td>16.0</td><td>7.1 GB</td><td>2026-05-12</td><td><a href="/hyperos/aurora/stable/OS3.0.301.0.WNARUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Ultra Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WNATWXM</td><td>16.0</td><td>8.1 GB</td><td>2026-04-27</td><td><a href="/hyperos/aurora/stable/OS3.0.301.0.WNATWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

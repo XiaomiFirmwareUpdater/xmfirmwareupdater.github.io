@@ -52,7 +52,8 @@ permalink: /archive/hyperos/sweet/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12 Pro 4G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.25.0.THGTRXM</td><td>13.0</td><td>4.1 GB</td><td>2026-07-10</td><td><a href="/hyperos/sweet/stable beta/OS1.0.25.0.THGTRXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12 Pro 4G Turkey</td><td>Stable</td><td>Recovery</td><td>OS1.0.25.0.THGTRXM</td><td>13.0</td><td>4.1 GB</td><td>2026-07-10</td><td><a href="/hyperos/sweet/stable/OS1.0.25.0.THGTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 Pro 4G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS1.0.25.0.THGTRXM</td><td>13.0</td><td>5.8 GB</td><td>2026-06-30</td><td><a href="/hyperos/sweet/stable/OS1.0.25.0.THGTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro 4G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.25.0.THGIDXM</td><td>13.0</td><td>4.1 GB</td><td>2026-07-10</td><td><a href="/hyperos/sweet/stable beta/OS1.0.25.0.THGIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro 4G Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.28.0.THGRUXM</td><td>13.0</td><td>4.1 GB</td><td>2026-07-01</td><td><a href="/hyperos/sweet/stable/OS1.0.28.0.THGRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro 4G Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.28.0.THGRUXM</td><td>13.0</td><td>6.4 GB</td><td>2026-06-17</td><td><a href="/hyperos/sweet/stable/OS1.0.28.0.THGRUXM/">Download</a></td></tr>
