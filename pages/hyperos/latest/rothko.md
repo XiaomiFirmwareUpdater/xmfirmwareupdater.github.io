@@ -52,10 +52,10 @@ permalink: /hyperos/rothko/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K70 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WNNCNXM</td><td>16.0</td><td>9.2 GB</td><td>2026-04-09</td><td><a href="/hyperos/rothko/stable/OS3.0.302.0.WNNCNXM/">Download</a></td></tr>
-<tr><td>Redmi K70 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WNNCNXM</td><td>16.0</td><td>7.2 GB</td><td>2026-04-21</td><td><a href="/hyperos/rothko/stable/OS3.0.302.0.WNNCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K70 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WNNCNXM</td><td>16.0</td><td>9.2 GB</td><td>2026-06-02</td><td><a href="/hyperos/rothko/stable/OS3.0.303.0.WNNCNXM/">Download</a></td></tr>
+<tr><td>Redmi K70 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WNNCNXM</td><td>16.0</td><td>7.2 GB</td><td>2026-06-17</td><td><a href="/hyperos/rothko/stable/OS3.0.303.0.WNNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 Ultra China</td><td>Stable Beta</td><td>Fastboot</td><td>OS1.0.13.0.UNNCNXM</td><td>14.0</td><td>8.9 GB</td><td>2024-07-15</td><td><a href="/hyperos/rothko/stable beta/OS1.0.13.0.UNNCNXM/">Download</a></td></tr>
-<tr><td>Redmi K70 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WNNCNXM</td><td>16.0</td><td>7.2 GB</td><td>2026-06-17</td><td><a href="/hyperos/rothko/stable beta/OS3.0.303.0.WNNCNXM/">Download</a></td></tr>
+<tr><td>Redmi K70 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.6.0.WNNCNXM</td><td>16.0</td><td>7.5 GB</td><td>2026-02-06</td><td><a href="/hyperos/rothko/stable beta/OS3.0.6.0.WNNCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WNNEUXM</td><td>16.0</td><td>8.0 GB</td><td>2026-05-29</td><td><a href="/hyperos/rothko/stable/OS3.0.302.0.WNNEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WNNEUXM</td><td>16.0</td><td>6.4 GB</td><td>2026-06-10</td><td><a href="/hyperos/rothko/stable/OS3.0.302.0.WNNEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.5.0.UNNEUXM</td><td>14.0</td><td>5.8 GB</td><td>2024-09-26</td><td><a href="/hyperos/rothko/stable beta/OS1.0.5.0.UNNEUXM/">Download</a></td></tr>

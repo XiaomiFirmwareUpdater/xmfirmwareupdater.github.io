@@ -59,8 +59,9 @@ permalink: /hyperos/ruyi/
 <tr><td>MIX Flip EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WNIEUXM</td><td>16.0</td><td>7.1 GB</td><td>2026-06-15</td><td><a href="/hyperos/ruyi/stable/OS3.0.302.0.WNIEUXM/">Download</a></td></tr>
 <tr><td>MIX Flip Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WNIMIXM</td><td>16.0</td><td>8.5 GB</td><td>2026-05-29</td><td><a href="/hyperos/ruyi/stable/OS3.0.302.0.WNIMIXM/">Download</a></td></tr>
 <tr><td>MIX Flip Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WNIMIXM</td><td>16.0</td><td>7.1 GB</td><td>2026-06-15</td><td><a href="/hyperos/ruyi/stable/OS3.0.302.0.WNIMIXM/">Download</a></td></tr>
-<tr><td>MIX Flip Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WNIRUXM</td><td>16.0</td><td>9.3 GB</td><td>2026-05-06</td><td><a href="/hyperos/ruyi/stable/OS3.0.301.0.WNIRUXM/">Download</a></td></tr>
-<tr><td>MIX Flip Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WNIRUXM</td><td>16.0</td><td>7.1 GB</td><td>2026-05-19</td><td><a href="/hyperos/ruyi/stable/OS3.0.301.0.WNIRUXM/">Download</a></td></tr>
+<tr><td>MIX Flip Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WNIRUXM</td><td>16.0</td><td>9.3 GB</td><td>2026-02-25</td><td><a href="/hyperos/ruyi/stable/OS3.0.4.0.WNIRUXM/">Download</a></td></tr>
+<tr><td>MIX Flip Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WNIRUXM</td><td>16.0</td><td>7.0 GB</td><td>2026-03-24</td><td><a href="/hyperos/ruyi/stable/OS3.0.4.0.WNIRUXM/">Download</a></td></tr>
+<tr><td>MIX Flip Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WNIRUXM</td><td>16.0</td><td>7.1 GB</td><td>2026-07-17</td><td><a href="/hyperos/ruyi/stable beta/OS3.0.302.0.WNIRUXM/">Download</a></td></tr>
 <tr><td>MIX Flip Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WNITWXM</td><td>16.0</td><td>8.0 GB</td><td>2026-05-06</td><td><a href="/hyperos/ruyi/stable/OS3.0.301.0.WNITWXM/">Download</a></td></tr>
 <tr><td>MIX Flip Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WNITWXM</td><td>16.0</td><td>7.0 GB</td><td>2026-05-29</td><td><a href="/hyperos/ruyi/stable/OS3.0.301.0.WNITWXM/">Download</a></td></tr>
 
