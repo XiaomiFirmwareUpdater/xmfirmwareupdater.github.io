@@ -55,6 +55,7 @@ permalink: /hyperos/socrates/
                 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.VMKCNXM</td><td>15.0</td><td>8.3 GB</td><td>2026-03-16</td><td><a href="/hyperos/socrates/stable/OS3.0.5.0.VMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Public Beta</td><td>Recovery</td><td>OS1.0.24.1.8.DEV</td><td>14.0</td><td>6.4 GB</td><td>2024-01-12</td><td><a href="/hyperos/socrates/public beta/OS1.0.24.1.8.DEV/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WMKCNXM</td><td>16.0</td><td>7.1 GB</td><td>2026-04-22</td><td><a href="/hyperos/socrates/stable/OS3.0.303.0.WMKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.304.0.WMKCNXM</td><td>16.0</td><td>7.1 GB</td><td>2026-07-17</td><td><a href="/hyperos/socrates/stable beta/OS3.0.304.0.WMKCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -52,7 +52,8 @@ permalink: /archive/hyperos/amethyst/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 14 Pro+ 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOPTRXM</td><td>16.0</td><td>6.0 GB</td><td>2026-07-06</td><td><a href="/hyperos/amethyst/stable/OS3.0.302.0.WOPTRXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 14 Pro+ 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.305.0.WOPCNXM</td><td>16.0</td><td>6.7 GB</td><td>2026-07-18</td><td><a href="/hyperos/amethyst/stable beta/OS3.0.305.0.WOPCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 Pro+ 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOPTRXM</td><td>16.0</td><td>6.0 GB</td><td>2026-07-06</td><td><a href="/hyperos/amethyst/stable/OS3.0.302.0.WOPTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro+ 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOPTRXM</td><td>16.0</td><td>8.1 GB</td><td>2026-06-24</td><td><a href="/hyperos/amethyst/stable/OS3.0.302.0.WOPTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro+ 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOPIDXM</td><td>16.0</td><td>6.0 GB</td><td>2026-07-06</td><td><a href="/hyperos/amethyst/stable/OS3.0.302.0.WOPIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 Pro+ 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOPIDXM</td><td>16.0</td><td>8.5 GB</td><td>2026-06-24</td><td><a href="/hyperos/amethyst/stable/OS3.0.302.0.WOPIDXM/">Download</a></td></tr>
