@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 21 Jul 2026 12:40:38 </lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 18:43:37 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 17T (chagall) - OS3.0.307.0.WPTCNXM</title>
@@ -1637,11 +1637,6 @@
             <pubDate>Sun, 04 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.16.0.UKOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
-            <pubDate>Wed, 31 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Mi 11 Lite 5G (renoir) - V14.0.16.0.TKICNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/renoir/</link>
             <pubDate>Sat, 27 Dec 2025 00:00:00 </pubDate>
@@ -1655,11 +1650,6 @@
             <title>Redmi A2/A2+/POCO C51 (water) - V14.0.42.0.TGOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/water/</link>
             <pubDate>Sat, 27 Dec 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.6.0.UKOEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
-            <pubDate>Mon, 15 Dec 2025 00:00:00 </pubDate>
         </item>
         <item>
             <title>POCO X5 5G (moonstone) - OS1.0.22.0.UMPINXM</title>
@@ -1749,11 +1739,6 @@
         <item>
             <title>Xiaomi 11T (agate) - OS1.0.17.0.UKWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/agate/</link>
-            <pubDate>Mon, 11 Aug 2025 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.4.0.UKOINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
             <pubDate>Mon, 11 Aug 2025 00:00:00 </pubDate>
         </item>
         <item>
@@ -1867,6 +1852,11 @@
             <pubDate>Mon, 07 Apr 2025 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS2.0.1.0.UKOEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
+            <pubDate>Wed, 02 Apr 2025 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - OS2.0.1.0.UKACNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/star/</link>
             <pubDate>Fri, 28 Mar 2025 00:00:00 </pubDate>
@@ -1945,6 +1935,16 @@
             <title>Redmi A1/POCO C50/A1+ (ice) - V13.0.17.0.SGMINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ice/</link>
             <pubDate>Tue, 10 Dec 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS1.0.8.0.UKOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
+            <pubDate>Mon, 02 Dec 2024 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - OS1.0.11.0.UKOINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
+            <pubDate>Mon, 02 Dec 2024 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Pad (yunluo) - OS1.0.8.0.ULYCNXM</title>
@@ -2784,11 +2784,6 @@
         <item>
             <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - 22.3.23</title>
             <link>https://xmfirmwareupdater.com/firmware/lime/</link>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - 22.3.23</title>
-            <link>https://xmfirmwareupdater.com/firmware/lisa/</link>
             <pubDate>Fri, 25 Mar 2022 00:00:00 </pubDate>
         </item>
         <item>
