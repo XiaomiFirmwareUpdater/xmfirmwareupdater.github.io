@@ -13056,6 +13056,336 @@
   version: OS1.0.10.0.ULSCNXM
 - android: '14.0'
   codename: lisa
+  date: '2025-12-31'
+  download: https://bigota.d.miui.com/OS2.0.16.0.UKOCNXM/fw_lisa_lisa-ota_full-OS2.0.16.0.UKOCNXM-user-14.0-6326c122fd.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.16.0.UKOCNXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-10-31'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UKOEUXM/fw_lisa_miui_LISAEEAGlobal_OS1.0.10.0.UKOEUXM_cd35b0998b_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.10.0.UKOEUXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-07-31'
+  download: https://bigota.d.miui.com/OS2.0.10.0.UKOCNXM/fw_lisa_lisa-ota_full-OS2.0.10.0.UKOCNXM-user-14.0-698602d09c.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.10.0.UKOCNXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-03-31'
+  download: https://bigota.d.miui.com/OS2.0.2.0.UKOCNXM/fw_lisa_lisa-ota_full-OS2.0.2.0.UKOCNXM-user-14.0-717c889c23.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.2.0.UKOCNXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-09-30'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UKOCNXM/fw_lisa_miui_LISA_OS1.0.5.0.UKOCNXM_75a8e9d71f_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.5.0.UKOCNXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-05-30'
+  download: https://bigota.d.miui.com/OS2.0.2.0.UKOEUXM/fw_lisa_eea_global_lisa_eea_global-ota_full-OS2.0.2.0.UKOEUXM-user-14.0-5092f15ee6.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.2.0.UKOEUXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-10-28'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UKOMIXM/fw_lisa_miui_LISAGlobal_OS1.0.9.0.UKOMIXM_66a083f06a_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.9.0.UKOMIXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-10-28'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UKOINXM/fw_lisa_miui_LISAINGlobal_OS1.0.10.0.UKOINXM_59f2dd1fc0_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.10.0.UKOINXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-09-29'
+  download: https://bigota.d.miui.com/OS2.0.12.0.UKOCNXM/fw_lisa_lisa-ota_full-OS2.0.12.0.UKOCNXM-user-14.0-323709ecb8.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.12.0.UKOCNXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-08-29'
+  download: https://bigota.d.miui.com/OS2.0.11.0.UKOCNXM/fw_lisa_lisa-ota_full-OS2.0.11.0.UKOCNXM-user-14.0-5ac9f2158e.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.11.0.UKOCNXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-03-28'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UKOMIXM/fw_lisa_miui_LISAGlobal_OS1.0.3.0.UKOMIXM_3a15e0e69a_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.3.0.UKOMIXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-05-28'
+  download: https://bigota.d.miui.com/OS2.0.2.0.UKOMIXM/fw_lisa_global_lisa_global-ota_full-OS2.0.2.0.UKOMIXM-user-14.0-9078c0c360.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.2.0.UKOMIXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-11-27'
+  download: https://bigota.d.miui.com/OS2.0.14.0.UKOCNXM/fw_lisa_lisa-ota_full-OS2.0.14.0.UKOCNXM-user-14.0-7bf77db521.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.14.0.UKOCNXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-05-27'
+  download: https://bigota.d.miui.com/OS2.0.2.0.UKOINXM/fw_lisa_in_global_lisa_in_global-ota_full-OS2.0.2.0.UKOINXM-user-14.0-3840359301.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.2.0.UKOINXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-04-27'
+  download: https://bigota.d.miui.com/OS2.0.1.0.UKOINXM/fw_lisa_in_global_lisa_in_global-ota_full-OS2.0.1.0.UKOINXM-user-14.0-e68215f7b9.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.1.0.UKOINXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-11-26'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UKOMIXM/fw_lisa_miui_LISAGlobal_OS1.0.10.0.UKOMIXM_1713a7de35_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.10.0.UKOMIXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-06-26'
+  download: https://bigota.d.miui.com/OS2.0.3.0.UKOEUXM/fw_lisa_eea_global_lisa_eea_global-ota_full-OS2.0.3.0.UKOEUXM-user-14.0-9f71341662.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.3.0.UKOEUXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-06-26'
+  download: https://bigota.d.miui.com/OS2.0.3.0.UKOMIXM/fw_lisa_global_lisa_global-ota_full-OS2.0.3.0.UKOMIXM-user-14.0-e2580e552b.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.3.0.UKOMIXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-02-26'
+  download: https://bigota.d.miui.com/OS1.0.15.0.UKOEUXM/fw_lisa_miui_LISAEEAGlobal_OS1.0.15.0.UKOEUXM_e646642cc3_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.15.0.UKOEUXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-06-25'
+  download: https://bigota.d.miui.com/OS2.0.3.0.UKOINXM/fw_lisa_in_global_lisa_in_global-ota_full-OS2.0.3.0.UKOINXM-user-14.0-574117ba58.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.3.0.UKOINXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-06-25'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UKOEUXM/fw_lisa_miui_LISAEEAGlobal_OS1.0.5.0.UKOEUXM_ab63f51caf_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.5.0.UKOEUXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-10-22'
+  download: https://bigota.d.miui.com/OS2.0.13.0.UKOCNXM/fw_lisa_lisa-ota_full-OS2.0.13.0.UKOCNXM-user-14.0-54f36ae9c2.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.13.0.UKOCNXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-09-23'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UKOEUXM/fw_lisa_miui_LISAEEAGlobal_OS1.0.9.0.UKOEUXM_8e6352deee_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.9.0.UKOEUXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-08-22'
+  download: https://bigota.d.miui.com/OS1.0.4.0.UKOCNXM/fw_lisa_miui_LISA_OS1.0.4.0.UKOCNXM_81df7176a9_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.4.0.UKOCNXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-03-22'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UKOEUXM/fw_lisa_miui_LISAEEAGlobal_OS1.0.3.0.UKOEUXM_971ece1b2a_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.3.0.UKOEUXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-02-22'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UKOCNXM/fw_lisa_miui_LISA_OS1.0.1.0.UKOCNXM_d2eb96aaa6_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.1.0.UKOCNXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-10-21'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UKOCNXM/fw_lisa_miui_LISA_OS1.0.6.0.UKOCNXM_137f413651_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.6.0.UKOCNXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-06-20'
+  download: https://bigota.d.miui.com/OS2.0.7.0.UKOCNXM/fw_lisa_lisa-ota_full-OS2.0.7.0.UKOCNXM-user-14.0-a1c8e4c09a.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.7.0.UKOCNXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-08-19'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UKOMIXM/fw_lisa_miui_LISAGlobal_OS1.0.5.0.UKOMIXM_5bb7b78a99_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.5.0.UKOMIXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-08-19'
+  download: https://bigota.d.miui.com/OS1.0.5.0.UKOINXM/fw_lisa_miui_LISAINGlobal_OS1.0.5.0.UKOINXM_6b9681a8df_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.5.0.UKOINXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-04-19'
+  download: https://bigota.d.miui.com/OS1.0.3.0.UKOINXM/fw_lisa_miui_LISAINGlobal_OS1.0.3.0.UKOINXM_a24dc6426a_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.3.0.UKOINXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-03-18'
+  download: https://bigota.d.miui.com/OS2.0.1.0.UKOCNXM/fw_lisa_lisa-ota_full-OS2.0.1.0.UKOCNXM-user-14.0-2febfe6978.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.1.0.UKOCNXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-02-18'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UKOCNXM/fw_lisa_miui_LISA_OS1.0.11.0.UKOCNXM_5d14291d36_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.11.0.UKOCNXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-04-17'
+  download: https://bigota.d.miui.com/OS2.0.1.0.UKOMIXM/fw_lisa_global_lisa_global-ota_full-OS2.0.1.0.UKOMIXM-user-14.0-56b17f7a30.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.1.0.UKOMIXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-05-16'
+  download: https://bigota.d.miui.com/OS2.0.6.0.UKOCNXM/fw_lisa_lisa-ota_full-OS2.0.6.0.UKOCNXM-user-14.0-5f0a56f3e0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.6.0.UKOCNXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-12-15'
+  download: https://bigota.d.miui.com/OS2.0.6.0.UKOEUXM/fw_lisa_lisa_eea_global-ota_full-OS2.0.6.0.UKOEUXM-user-14.0-e3bcc5f1e9.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.6.0.UKOEUXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-09-14'
+  download: https://bigota.d.miui.com/OS1.0.6.0.UKOEUXM/fw_lisa_miui_LISAEEAGlobal_OS1.0.6.0.UKOEUXM_162b70fc0e_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.6.0.UKOEUXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-05-13'
+  download: https://bigota.d.miui.com/OS1.0.2.0.UKOCNXM/fw_lisa_miui_LISA_OS1.0.2.0.UKOCNXM_ca56124fde_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.2.0.UKOCNXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-01-13'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UKOMIXM/fw_lisa_miui_LISAGlobal_OS1.0.11.0.UKOMIXM_708d1935b0_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.11.0.UKOMIXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-01-13'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UKOINXM/fw_lisa_miui_LISAINGlobal_OS1.0.12.0.UKOINXM_7b31df0bf4_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.12.0.UKOINXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-08-11'
+  download: https://bigota.d.miui.com/OS2.0.4.0.UKOEUXM/fw_lisa_eea_global_lisa_eea_global-ota_full-OS2.0.4.0.UKOEUXM-user-14.0-d808c0269a.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.4.0.UKOEUXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-08-11'
+  download: https://bigota.d.miui.com/OS2.0.6.0.UKOMIXM/fw_lisa_global_lisa_global-ota_full-OS2.0.6.0.UKOMIXM-user-14.0-41b68f2c06.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.6.0.UKOMIXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-08-11'
+  download: https://bigota.d.miui.com/OS2.0.4.0.UKOINXM/fw_lisa_in_global_lisa_in_global-ota_full-OS2.0.4.0.UKOINXM-user-14.0-a52b50f222.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.4.0.UKOINXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-03-11'
+  download: https://bigota.d.miui.com/OS1.0.13.0.UKOMIXM/fw_lisa_miui_LISAGlobal_OS1.0.13.0.UKOMIXM_2e7b57f0c0_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.13.0.UKOMIXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-03-11'
+  download: https://bigota.d.miui.com/OS1.0.14.0.UKOINXM/fw_lisa_miui_LISAINGlobal_OS1.0.14.0.UKOINXM_95efac081e_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.14.0.UKOINXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-12-09'
+  download: https://bigota.d.miui.com/OS1.0.11.0.UKOEUXM/fw_lisa_miui_LISAEEAGlobal_OS1.0.11.0.UKOEUXM_f7430eaa66_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.11.0.UKOEUXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-09-08'
+  download: https://bigota.d.miui.com/OS2.0.5.0.UKOEUXM/fw_lisa_eea_global_lisa_eea_global-ota_full-OS2.0.5.0.UKOEUXM-user-14.0-f71e743c64.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS2.0.5.0.UKOEUXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-09-07'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UKOINXM/fw_lisa_miui_LISAINGlobal_OS1.0.7.0.UKOINXM_df0efaf855_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.7.0.UKOINXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-10-06'
+  download: https://bigota.d.miui.com/OS1.0.8.0.UKOMIXM/fw_lisa_miui_LISAGlobal_OS1.0.8.0.UKOMIXM_485ba6af6a_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.8.0.UKOMIXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-10-06'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UKOINXM/fw_lisa_miui_LISAINGlobal_OS1.0.9.0.UKOINXM_9cdc6d65f7_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.9.0.UKOINXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-09-07'
+  download: https://bigota.d.miui.com/OS1.0.7.0.UKOMIXM/fw_lisa_miui_LISAGlobal_OS1.0.7.0.UKOMIXM_b50ba54f27_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.7.0.UKOMIXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-01-07'
+  download: https://bigota.d.miui.com/OS1.0.9.0.UKOCNXM/fw_lisa_miui_LISA_OS1.0.9.0.UKOCNXM_e6c30298ad_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.9.0.UKOCNXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-02-05'
+  download: https://bigota.d.miui.com/OS1.0.12.0.UKOEUXM/fw_lisa_miui_LISAEEAGlobal_OS1.0.12.0.UKOEUXM_b6c4c09664_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.12.0.UKOEUXM
+- android: '14.0'
+  codename: lisa
+  date: '2025-02-05'
+  download: https://bigota.d.miui.com/OS1.0.10.0.UKOCNXM/fw_lisa_miui_LISA_OS1.0.10.0.UKOCNXM_5edac9f765_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.10.0.UKOCNXM
+- android: '14.0'
+  codename: lisa
+  date: '2024-03-04'
+  download: https://bigota.d.miui.com/OS1.0.1.0.UKOEUXM/fw_lisa_miui_LISAEEAGlobal_OS1.0.1.0.UKOEUXM_3f709c9a4c_14.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: OS1.0.1.0.UKOEUXM
+- android: '14.0'
+  codename: lisa
   date: '2024-12-02'
   download: https://bigota.d.miui.com/OS1.0.11.0.UKOINXM/fw_lisa_miui_LISAINGlobal_OS1.0.11.0.UKOINXM_dbcf8918ab_14.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE

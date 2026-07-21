@@ -52,22 +52,22 @@ permalink: /hyperos/spinel/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 15 4G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WPGEUXM</td><td>16.0</td><td>8.8 GB</td><td>2026-04-09</td><td><a href="/hyperos/spinel/stable/OS3.0.1.0.WPGEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 4G EEA</td><td>Stable</td><td>Recovery</td><td>OS2.0.212.0.VPGEUXM</td><td>15.0</td><td>4.9 GB</td><td>2026-03-26</td><td><a href="/hyperos/spinel/stable/OS2.0.212.0.VPGEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 4G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WPGEUXM</td><td>16.0</td><td>6.0 GB</td><td>2026-07-10</td><td><a href="/hyperos/spinel/stable beta/OS3.0.301.0.WPGEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 15 4G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WPGEUXM</td><td>16.0</td><td>8.9 GB</td><td>2026-06-30</td><td><a href="/hyperos/spinel/stable/OS3.0.301.0.WPGEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 4G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WPGEUXM</td><td>16.0</td><td>6.0 GB</td><td>2026-07-10</td><td><a href="/hyperos/spinel/stable/OS3.0.301.0.WPGEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 4G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.204.0.VPGEUXM</td><td>15.0</td><td>4.9 GB</td><td>2026-01-15</td><td><a href="/hyperos/spinel/stable beta/OS2.0.204.0.VPGEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 4G Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WPGMIXM</td><td>16.0</td><td>9.9 GB</td><td>2026-05-09</td><td><a href="/hyperos/spinel/stable/OS3.0.301.0.WPGMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 4G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WPGMIXM</td><td>16.0</td><td>5.9 GB</td><td>2026-05-22</td><td><a href="/hyperos/spinel/stable/OS3.0.301.0.WPGMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 4G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VPGIDXM</td><td>15.0</td><td>8.0 GB</td><td>2026-03-23</td><td><a href="/hyperos/spinel/stable/OS2.0.206.0.VPGIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 4G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VPGIDXM</td><td>15.0</td><td>4.8 GB</td><td>2026-04-09</td><td><a href="/hyperos/spinel/stable/OS2.0.206.0.VPGIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 4G Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.212.0.VPGRUXM</td><td>15.0</td><td>8.8 GB</td><td>2026-03-23</td><td><a href="/hyperos/spinel/stable/OS2.0.212.0.VPGRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 4G Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.212.0.VPGRUXM</td><td>15.0</td><td>4.8 GB</td><td>2026-04-15</td><td><a href="/hyperos/spinel/stable/OS2.0.212.0.VPGRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 4G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.207.0.VPGMIXM</td><td>15.0</td><td>4.8 GB</td><td>2026-01-15</td><td><a href="/hyperos/spinel/stable beta/OS2.0.207.0.VPGMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 4G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WPGIDXM</td><td>16.0</td><td>5.9 GB</td><td>2026-07-17</td><td><a href="/hyperos/spinel/stable beta/OS3.0.301.0.WPGIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 4G Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WPGRUXM</td><td>16.0</td><td>5.8 GB</td><td>2026-07-17</td><td><a href="/hyperos/spinel/stable beta/OS3.0.301.0.WPGRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 4G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WPGTRXM</td><td>16.0</td><td>8.4 GB</td><td>2026-04-21</td><td><a href="/hyperos/spinel/stable/OS3.0.1.0.WPGTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 4G Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WPGTRXM</td><td>16.0</td><td>5.9 GB</td><td>2026-04-29</td><td><a href="/hyperos/spinel/stable/OS3.0.1.0.WPGTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 4G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WPGTWXM</td><td>16.0</td><td>7.0 GB</td><td>2026-05-14</td><td><a href="/hyperos/spinel/stable/OS3.0.2.0.WPGTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 4G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WPGTWXM</td><td>16.0</td><td>5.8 GB</td><td>2026-06-11</td><td><a href="/hyperos/spinel/stable/OS3.0.2.0.WPGTWXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 4G Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WPGMIXM</td><td>16.0</td><td>9.9 GB</td><td>2026-05-09</td><td><a href="/hyperos/spinel/stable/OS3.0.301.0.WPGMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 4G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WPGMIXM</td><td>16.0</td><td>5.9 GB</td><td>2026-05-22</td><td><a href="/hyperos/spinel/stable/OS3.0.301.0.WPGMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 4G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.207.0.VPGMIXM</td><td>15.0</td><td>4.8 GB</td><td>2026-01-15</td><td><a href="/hyperos/spinel/stable beta/OS2.0.207.0.VPGMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 4G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WPGIDXM</td><td>16.0</td><td>8.9 GB</td><td>2026-04-21</td><td><a href="/hyperos/spinel/stable/OS3.0.1.0.WPGIDXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 4G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WPGIDXM</td><td>16.0</td><td>5.9 GB</td><td>2026-05-06</td><td><a href="/hyperos/spinel/stable/OS3.0.1.0.WPGIDXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 4G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WPGIDXM</td><td>16.0</td><td>5.9 GB</td><td>2026-07-17</td><td><a href="/hyperos/spinel/stable beta/OS3.0.301.0.WPGIDXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 4G Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WPGRUXM</td><td>16.0</td><td>5.8 GB</td><td>2026-07-17</td><td><a href="/hyperos/spinel/stable beta/OS3.0.301.0.WPGRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 4G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.201.0.VPGTRXM</td><td>15.0</td><td>4.8 GB</td><td>2026-01-15</td><td><a href="/hyperos/spinel/stable beta/OS2.0.201.0.VPGTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 4G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.202.0.VPGTWXM</td><td>15.0</td><td>4.7 GB</td><td>2026-01-15</td><td><a href="/hyperos/spinel/stable beta/OS2.0.202.0.VPGTWXM/">Download</a></td></tr>
 

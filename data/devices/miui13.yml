@@ -2892,6 +2892,132 @@
   version: V13.0.1.0.SJQINXM
 - android: '12.0'
   codename: lisa
+  date: '2022-03-25'
+  download: https://bigota.d.miui.com/22.3.23/fw_lisa_miui_LISAPRE_22.3.23_b94472a24b_12.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: 22.3.23
+- android: '12.0'
+  codename: lisa
+  date: '2022-02-25'
+  download: https://bigota.d.miui.com/22.2.23/fw_lisa_miui_LISAPRE_22.2.23_bdaf34b09b_12.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: 22.2.23
+- android: '12.0'
+  codename: lisa
+  date: '2022-03-04'
+  download: https://bigota.d.miui.com/22.3.3/fw_lisa_miui_LISAPRE_22.3.3_863897d6ec_12.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: 22.3.3
+- android: '12.0'
+  codename: lisa
+  date: '2022-12-30'
+  download: https://bigota.d.miui.com/V13.0.8.0.SKOMIXM/fw_lisa_miui_LISAGlobal_V13.0.8.0.SKOMIXM_a591777976_12.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V13.0.8.0.SKOMIXM
+- android: '12.0'
+  codename: lisa
+  date: '2022-04-27'
+  download: https://bigota.d.miui.com/V13.0.4.0.SKOMIXM/fw_lisa_miui_LISAGlobal_V13.0.4.0.SKOMIXM_0508eaacfa_12.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V13.0.4.0.SKOMIXM
+- android: '12.0'
+  codename: lisa
+  date: '2022-09-23'
+  download: https://bigota.d.miui.com/V13.0.10.0.SKOEUXM/fw_lisa_miui_LISAEEAGlobal_V13.0.10.0.SKOEUXM_193c86a2fc_12.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V13.0.10.0.SKOEUXM
+- android: '12.0'
+  codename: lisa
+  date: '2022-07-22'
+  download: https://bigota.d.miui.com/V13.0.5.0.SKOMIXM/fw_lisa_miui_LISAGlobal_V13.0.5.0.SKOMIXM_3f2e54dd84_12.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V13.0.5.0.SKOMIXM
+- android: '12.0'
+  codename: lisa
+  date: '2022-03-22'
+  download: https://bigota.d.miui.com/V13.0.1.0.SKOCNXM/fw_lisa_miui_LISA_V13.0.1.0.SKOCNXM_9d72262133_12.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V13.0.1.0.SKOCNXM
+- android: '12.0'
+  codename: lisa
+  date: '2022-06-20'
+  download: https://bigota.d.miui.com/V13.0.6.0.SKOINXM/fw_lisa_miui_LISAINGlobal_V13.0.6.0.SKOINXM_29eb4e561c_12.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V13.0.6.0.SKOINXM
+- android: '12.0'
+  codename: lisa
+  date: '2022-04-19'
+  download: https://bigota.d.miui.com/V13.0.8.0.SKOEUXM/fw_lisa_miui_LISAEEAGlobal_V13.0.8.0.SKOEUXM_7ba9890b2d_12.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V13.0.8.0.SKOEUXM
+- android: '12.0'
+  codename: lisa
+  date: '2022-02-18'
+  download: https://bigota.d.miui.com/V13.0.5.0.SKOEUXM/fw_lisa_miui_LISAEEAGlobal_V13.0.5.0.SKOEUXM_99c45f2bb2_12.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V13.0.5.0.SKOEUXM
+- android: '12.0'
+  codename: lisa
+  date: '2022-03-14'
+  download: https://bigota.d.miui.com/V13.0.3.0.SKOINXM/fw_lisa_miui_LISAINGlobal_V13.0.3.0.SKOINXM_78db36ab2a_12.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V13.0.3.0.SKOINXM
+- android: '12.0'
+  codename: lisa
+  date: '2022-10-13'
+  download: https://bigota.d.miui.com/V13.0.6.0.SKOMIXM/fw_lisa_miui_LISAGlobal_V13.0.6.0.SKOMIXM_591af9377b_12.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V13.0.6.0.SKOMIXM
+- android: '12.0'
+  codename: lisa
+  date: '2022-10-13'
+  download: https://bigota.d.miui.com/V13.0.8.0.SKOINXM/fw_lisa_miui_LISAINGlobal_V13.0.8.0.SKOINXM_5d656038fa_12.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V13.0.8.0.SKOINXM
+- android: '12.0'
+  codename: lisa
+  date: '2023-02-12'
+  download: https://bigota.d.miui.com/V13.0.10.0.SKOINXM/fw_lisa_miui_LISAINGlobal_V13.0.10.0.SKOINXM_0048418308_12.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V13.0.10.0.SKOINXM
+- android: '12.0'
+  codename: lisa
+  date: '2022-11-10'
+  download: https://bigota.d.miui.com/V13.0.9.0.SKOINXM/fw_lisa_miui_LISAINGlobal_V13.0.9.0.SKOINXM_c4084f4653_12.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V13.0.9.0.SKOINXM
+- android: '12.0'
+  codename: lisa
+  date: '2022-09-09'
+  download: https://bigota.d.miui.com/V13.0.3.0.SKOCNXM/fw_lisa_miui_LISA_V13.0.3.0.SKOCNXM_e0a65e21dd_12.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V13.0.3.0.SKOCNXM
+- android: '12.0'
+  codename: lisa
+  date: '2022-06-09'
+  download: https://bigota.d.miui.com/V13.0.2.0.SKOCNXM/fw_lisa_miui_LISA_V13.0.2.0.SKOCNXM_f238b2b1b9_12.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V13.0.2.0.SKOCNXM
+- android: '12.0'
+  codename: lisa
+  date: '2022-12-08'
+  download: https://bigota.d.miui.com/V13.0.11.0.SKOEUXM/fw_lisa_miui_LISAEEAGlobal_V13.0.11.0.SKOEUXM_a39f201fbd_12.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V13.0.11.0.SKOEUXM
+- android: '12.0'
+  codename: lisa
+  date: '2022-07-08'
+  download: https://bigota.d.miui.com/V13.0.9.0.SKOEUXM/fw_lisa_miui_LISAEEAGlobal_V13.0.9.0.SKOEUXM_5dff9759dd_12.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V13.0.9.0.SKOEUXM
+- android: '12.0'
+  codename: lisa
+  date: '2022-03-06'
+  download: https://bigota.d.miui.com/V13.0.2.0.SKOMIXM/fw_lisa_miui_LISAGlobal_V13.0.2.0.SKOMIXM_737bc75f14_12.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V13.0.2.0.SKOMIXM
+- android: '12.0'
+  codename: lisa
   date: '2022-08-01'
   download: https://bigota.d.miui.com/V13.0.7.0.SKOINXM/fw_lisa_miui_LISAINGlobal_V13.0.7.0.SKOINXM_2cde52b7a0_12.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
