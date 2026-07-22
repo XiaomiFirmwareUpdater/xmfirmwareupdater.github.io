@@ -54,7 +54,7 @@ permalink: /hyperos/dali/
                 <tbody>
                 <tr><td>Redmi K80 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WONCNXM</td><td>16.0</td><td>10.9 GB</td><td>2026-06-01</td><td><a href="/hyperos/dali/stable/OS3.0.303.0.WONCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WONCNXM</td><td>16.0</td><td>8.3 GB</td><td>2026-06-24</td><td><a href="/hyperos/dali/stable/OS3.0.303.0.WONCNXM/">Download</a></td></tr>
-<tr><td>Redmi K80 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.208.0.VONCNXM</td><td>15.0</td><td>7.8 GB</td><td>2025-06-26</td><td><a href="/hyperos/dali/stable beta/OS2.0.208.0.VONCNXM/">Download</a></td></tr>
+<tr><td>Redmi K80 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.305.0.WONCNXM</td><td>16.0</td><td>8.3 GB</td><td>2026-07-17</td><td><a href="/hyperos/dali/stable beta/OS3.0.305.0.WONCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

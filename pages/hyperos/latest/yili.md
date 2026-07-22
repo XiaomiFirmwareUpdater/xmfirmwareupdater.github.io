@@ -52,9 +52,9 @@ permalink: /hyperos/yili/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K Pad 2 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.307.0.WAKCNXM</td><td>16.0</td><td>9.9 GB</td><td>2026-06-03</td><td><a href="/hyperos/yili/stable/OS3.0.307.0.WAKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K Pad 2 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.307.0.WAKCNXM</td><td>16.0</td><td>8.2 GB</td><td>2026-06-12</td><td><a href="/hyperos/yili/stable/OS3.0.307.0.WAKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K Pad 2 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.308.0.WAKCNXM</td><td>16.0</td><td>8.2 GB</td><td>2026-07-14</td><td><a href="/hyperos/yili/stable beta/OS3.0.308.0.WAKCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K Pad 2 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.308.0.WAKCNXM</td><td>16.0</td><td>9.9 GB</td><td>2026-07-07</td><td><a href="/hyperos/yili/stable/OS3.0.308.0.WAKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K Pad 2 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.308.0.WAKCNXM</td><td>16.0</td><td>8.2 GB</td><td>2026-07-14</td><td><a href="/hyperos/yili/stable/OS3.0.308.0.WAKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K Pad 2 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WAKCNXM</td><td>16.0</td><td>8.2 GB</td><td>2026-04-21</td><td><a href="/hyperos/yili/stable beta/OS3.0.301.0.WAKCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
