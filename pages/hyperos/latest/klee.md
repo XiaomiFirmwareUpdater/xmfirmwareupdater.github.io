@@ -55,21 +55,20 @@ permalink: /hyperos/klee/
                 <tr><td>Redmi Turbo 5 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WPJCNXM</td><td>16.0</td><td>10.8 GB</td><td>2026-06-22</td><td><a href="/hyperos/klee/stable/OS3.0.304.0.WPJCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 5 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WPJCNXM</td><td>16.0</td><td>8.1 GB</td><td>2026-07-01</td><td><a href="/hyperos/klee/stable/OS3.0.304.0.WPJCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 5 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.4.0.WPJCNXM</td><td>16.0</td><td>7.8 GB</td><td>2026-01-29</td><td><a href="/hyperos/klee/stable beta/OS3.0.4.0.WPJCNXM/">Download</a></td></tr>
-<tr><td>POCO X8 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WPJEUXM</td><td>16.0</td><td>9.9 GB</td><td>2026-04-03</td><td><a href="/hyperos/klee/stable/OS3.0.5.0.WPJEUXM/">Download</a></td></tr>
-<tr><td>POCO X8 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WPJEUXM</td><td>16.0</td><td>7.1 GB</td><td>2026-05-29</td><td><a href="/hyperos/klee/stable/OS3.0.301.0.WPJEUXM/">Download</a></td></tr>
-<tr><td>POCO X8 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WPJEUXM</td><td>16.0</td><td>7.1 GB</td><td>2026-07-13</td><td><a href="/hyperos/klee/stable beta/OS3.0.303.0.WPJEUXM/">Download</a></td></tr>
+<tr><td>POCO X8 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WPJEUXM</td><td>16.0</td><td>10.0 GB</td><td>2026-07-08</td><td><a href="/hyperos/klee/stable/OS3.0.303.0.WPJEUXM/">Download</a></td></tr>
+<tr><td>POCO X8 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WPJEUXM</td><td>16.0</td><td>7.1 GB</td><td>2026-07-13</td><td><a href="/hyperos/klee/stable/OS3.0.303.0.WPJEUXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.306.0.WPJMIXM</td><td>16.0</td><td>11.0 GB</td><td>2026-06-30</td><td><a href="/hyperos/klee/stable/OS3.0.306.0.WPJMIXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WPJMIXM</td><td>16.0</td><td>7.1 GB</td><td>2026-07-06</td><td><a href="/hyperos/klee/stable/OS3.0.306.0.WPJMIXM/">Download</a></td></tr>
+<tr><td>POCO X8 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WPJIDXM</td><td>16.0</td><td>9.9 GB</td><td>2026-04-17</td><td><a href="/hyperos/klee/stable/OS3.0.4.0.WPJIDXM/">Download</a></td></tr>
+<tr><td>POCO X8 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WPJIDXM</td><td>16.0</td><td>7.0 GB</td><td>2026-04-29</td><td><a href="/hyperos/klee/stable/OS3.0.4.0.WPJIDXM/">Download</a></td></tr>
+<tr><td>POCO X8 Pro India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WPJINXM</td><td>16.0</td><td>9.0 GB</td><td>2026-04-07</td><td><a href="/hyperos/klee/stable/OS3.0.5.0.WPJINXM/">Download</a></td></tr>
+<tr><td>POCO X8 Pro India</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WPJINXM</td><td>16.0</td><td>6.9 GB</td><td>2026-06-07</td><td><a href="/hyperos/klee/stable/OS3.0.302.0.WPJINXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WPJRUXM</td><td>16.0</td><td>10.8 GB</td><td>2026-06-30</td><td><a href="/hyperos/klee/stable/OS3.0.303.0.WPJRUXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WPJRUXM</td><td>16.0</td><td>7.0 GB</td><td>2026-07-06</td><td><a href="/hyperos/klee/stable/OS3.0.303.0.WPJRUXM/">Download</a></td></tr>
-<tr><td>POCO X8 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WPJTWXM</td><td>16.0</td><td>8.2 GB</td><td>2026-07-04</td><td><a href="/hyperos/klee/stable/OS3.0.303.0.WPJTWXM/">Download</a></td></tr>
-<tr><td>POCO X8 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WPJTWXM</td><td>16.0</td><td>7.0 GB</td><td>2026-07-13</td><td><a href="/hyperos/klee/stable/OS3.0.303.0.WPJTWXM/">Download</a></td></tr>
-<tr><td>POCO X8 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WPJIDXM</td><td>16.0</td><td>10.0 GB</td><td>2026-05-28</td><td><a href="/hyperos/klee/stable/OS3.0.302.0.WPJIDXM/">Download</a></td></tr>
-<tr><td>POCO X8 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WPJIDXM</td><td>16.0</td><td>7.1 GB</td><td>2026-06-04</td><td><a href="/hyperos/klee/stable/OS3.0.302.0.WPJIDXM/">Download</a></td></tr>
-<tr><td>POCO X8 Pro India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WPJINXM</td><td>16.0</td><td>9.1 GB</td><td>2026-05-26</td><td><a href="/hyperos/klee/stable/OS3.0.302.0.WPJINXM/">Download</a></td></tr>
-<tr><td>POCO X8 Pro India</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WPJINXM</td><td>16.0</td><td>6.9 GB</td><td>2026-06-07</td><td><a href="/hyperos/klee/stable/OS3.0.302.0.WPJINXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WPJTRXM</td><td>16.0</td><td>9.6 GB</td><td>2026-03-01</td><td><a href="/hyperos/klee/stable/OS3.0.2.0.WPJTRXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WPJTRXM</td><td>16.0</td><td>7.0 GB</td><td>2026-03-17</td><td><a href="/hyperos/klee/stable/OS3.0.2.0.WPJTRXM/">Download</a></td></tr>
+<tr><td>POCO X8 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WPJTWXM</td><td>16.0</td><td>8.2 GB</td><td>2026-07-04</td><td><a href="/hyperos/klee/stable/OS3.0.303.0.WPJTWXM/">Download</a></td></tr>
+<tr><td>POCO X8 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WPJTWXM</td><td>16.0</td><td>7.0 GB</td><td>2026-07-13</td><td><a href="/hyperos/klee/stable/OS3.0.303.0.WPJTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
