@@ -60,9 +60,8 @@ permalink: /hyperos/spark/
 <tr><td>Redmi Pad SE 8.7 4G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.1.0.WHYMIXM</td><td>16.0</td><td>4.8 GB</td><td>2025-12-26</td><td><a href="/hyperos/spark/stable beta/OS3.0.1.0.WHYMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 4G India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WHYINXM</td><td>16.0</td><td>5.3 GB</td><td>2026-03-18</td><td><a href="/hyperos/spark/stable/OS3.0.2.0.WHYINXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 4G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WHYINXM</td><td>16.0</td><td>4.6 GB</td><td>2026-07-09</td><td><a href="/hyperos/spark/stable/OS3.0.302.0.WHYINXM/">Download</a></td></tr>
-<tr><td>Redmi Pad SE 8.7 4G Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WHYRUXM</td><td>16.0</td><td>6.5 GB</td><td>2026-02-09</td><td><a href="/hyperos/spark/stable/OS3.0.2.0.WHYRUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad SE 8.7 4G Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WHYRUXM</td><td>16.0</td><td>4.7 GB</td><td>2026-03-02</td><td><a href="/hyperos/spark/stable/OS3.0.2.0.WHYRUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad SE 8.7 4G Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WHYRUXM</td><td>16.0</td><td>4.7 GB</td><td>2026-07-15</td><td><a href="/hyperos/spark/stable beta/OS3.0.302.0.WHYRUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE 8.7 4G Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WHYRUXM</td><td>16.0</td><td>6.5 GB</td><td>2026-07-07</td><td><a href="/hyperos/spark/stable/OS3.0.302.0.WHYRUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE 8.7 4G Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WHYRUXM</td><td>16.0</td><td>4.7 GB</td><td>2026-07-15</td><td><a href="/hyperos/spark/stable/OS3.0.302.0.WHYRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 4G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WHYTWXM</td><td>16.0</td><td>5.5 GB</td><td>2026-03-18</td><td><a href="/hyperos/spark/stable/OS3.0.1.0.WHYTWXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 4G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WHYTWXM</td><td>16.0</td><td>4.7 GB</td><td>2026-03-25</td><td><a href="/hyperos/spark/stable/OS3.0.1.0.WHYTWXM/">Download</a></td></tr>
 

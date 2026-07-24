@@ -54,18 +54,18 @@ permalink: /hyperos/spring/
                 <tbody>
                 <tr><td>Redmi 15R 5G China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOUCNXM</td><td>16.0</td><td>8.1 GB</td><td>2026-04-23</td><td><a href="/hyperos/spring/stable/OS3.0.302.0.WOUCNXM/">Download</a></td></tr>
 <tr><td>Redmi 15R 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOUCNXM</td><td>16.0</td><td>5.6 GB</td><td>2026-04-27</td><td><a href="/hyperos/spring/stable/OS3.0.302.0.WOUCNXM/">Download</a></td></tr>
-<tr><td>Redmi 15 5G / M7 Plus / M8s 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WOUEUXM</td><td>16.0</td><td>7.8 GB</td><td>2026-06-01</td><td><a href="/hyperos/spring/stable/OS3.0.2.0.WOUEUXM/">Download</a></td></tr>
-<tr><td>Redmi 15 5G / M7 Plus / M8s 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WOUEUXM</td><td>16.0</td><td>5.0 GB</td><td>2026-06-17</td><td><a href="/hyperos/spring/stable/OS3.0.2.0.WOUEUXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / M7 Plus / M8s 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.210.0.VOUMIXM</td><td>15.0</td><td>8.0 GB</td><td>2026-04-08</td><td><a href="/hyperos/spring/stable/OS2.0.210.0.VOUMIXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / M7 Plus / M8s 5G Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.210.0.VOUMIXM</td><td>15.0</td><td>4.8 GB</td><td>2026-04-16</td><td><a href="/hyperos/spring/stable/OS2.0.210.0.VOUMIXM/">Download</a></td></tr>
+<tr><td>Redmi 15 5G / M7 Plus / M8s 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WOUEUXM</td><td>16.0</td><td>7.8 GB</td><td>2026-07-03</td><td><a href="/hyperos/spring/stable/OS3.0.301.0.WOUEUXM/">Download</a></td></tr>
+<tr><td>Redmi 15 5G / M7 Plus / M8s 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WOUEUXM</td><td>16.0</td><td>5.0 GB</td><td>2026-07-13</td><td><a href="/hyperos/spring/stable/OS3.0.301.0.WOUEUXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / POCO M7 Plus 5G India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOUINXM</td><td>16.0</td><td>6.8 GB</td><td>2026-06-12</td><td><a href="/hyperos/spring/stable/OS3.0.302.0.WOUINXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / POCO M7 Plus 5G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOUINXM</td><td>16.0</td><td>4.8 GB</td><td>2026-06-18</td><td><a href="/hyperos/spring/stable/OS3.0.302.0.WOUINXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / POCO M7 Plus 5G Japan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WOUJPXM</td><td>16.0</td><td>7.6 GB</td><td>2026-05-18</td><td><a href="/hyperos/spring/stable/OS3.0.1.0.WOUJPXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / POCO M7 Plus 5G Japan</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WOUJPXM</td><td>16.0</td><td>4.9 GB</td><td>2026-05-29</td><td><a href="/hyperos/spring/stable/OS3.0.1.0.WOUJPXM/">Download</a></td></tr>
-<tr><td>Redmi 15 5G / POCO M7 Plus 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.203.0.VOUTWXM</td><td>15.0</td><td>5.7 GB</td><td>2026-03-27</td><td><a href="/hyperos/spring/stable/OS2.0.203.0.VOUTWXM/">Download</a></td></tr>
-<tr><td>Redmi 15 5G / POCO M7 Plus 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VOUTWXM</td><td>15.0</td><td>4.6 GB</td><td>2026-04-07</td><td><a href="/hyperos/spring/stable/OS2.0.203.0.VOUTWXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / POCO M7 Plus 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WOUTRXM</td><td>16.0</td><td>7.4 GB</td><td>2026-06-03</td><td><a href="/hyperos/spring/stable/OS3.0.301.0.WOUTRXM/">Download</a></td></tr>
 <tr><td>Redmi 15 5G / POCO M7 Plus 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WOUTRXM</td><td>16.0</td><td>4.9 GB</td><td>2026-07-02</td><td><a href="/hyperos/spring/stable/OS3.0.301.0.WOUTRXM/">Download</a></td></tr>
+<tr><td>Redmi 15 5G / POCO M7 Plus 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WOUTWXM</td><td>16.0</td><td>5.9 GB</td><td>2026-05-15</td><td><a href="/hyperos/spring/stable/OS3.0.6.0.WOUTWXM/">Download</a></td></tr>
+<tr><td>Redmi 15 5G / POCO M7 Plus 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WOUTWXM</td><td>16.0</td><td>4.8 GB</td><td>2026-05-25</td><td><a href="/hyperos/spring/stable/OS3.0.6.0.WOUTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
