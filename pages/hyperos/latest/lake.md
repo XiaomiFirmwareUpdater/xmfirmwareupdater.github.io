@@ -63,6 +63,7 @@ permalink: /hyperos/lake/
 <tr><td>Redmi 14C/17C/A3 Pro/POCO C75 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WGTRUXM</td><td>16.0</td><td>4.6 GB</td><td>2026-06-11</td><td><a href="/hyperos/lake/stable/OS3.0.2.0.WGTRUXM/">Download</a></td></tr>
 <tr><td>Redmi 14C/17C/A3 Pro/POCO C75 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WGTTRXM</td><td>16.0</td><td>6.8 GB</td><td>2026-06-02</td><td><a href="/hyperos/lake/stable/OS3.0.2.0.WGTTRXM/">Download</a></td></tr>
 <tr><td>Redmi 14C/17C/A3 Pro/POCO C75 Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WGTTRXM</td><td>16.0</td><td>4.7 GB</td><td>2026-06-11</td><td><a href="/hyperos/lake/stable/OS3.0.2.0.WGTTRXM/">Download</a></td></tr>
+<tr><td>Redmi 14C/17C/A3 Pro/POCO C75 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WGTTRXM</td><td>16.0</td><td>4.8 GB</td><td>2026-07-24</td><td><a href="/hyperos/lake/stable beta/OS3.0.301.0.WGTTRXM/">Download</a></td></tr>
 <tr><td>Redmi 14C/17C/A3 Pro/POCO C75 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.1.0.WGTTWXM</td><td>16.0</td><td>5.7 GB</td><td>2026-04-13</td><td><a href="/hyperos/lake/stable/OS3.0.1.0.WGTTWXM/">Download</a></td></tr>
 <tr><td>Redmi 14C/17C/A3 Pro/POCO C75 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.1.0.WGTTWXM</td><td>16.0</td><td>4.6 GB</td><td>2026-04-29</td><td><a href="/hyperos/lake/stable/OS3.0.1.0.WGTTWXM/">Download</a></td></tr>
 

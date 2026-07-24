@@ -54,7 +54,7 @@ permalink: /hyperos/bixi/
                 <tbody>
                 <tr><td>MIX Flip 2 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WOHCNXM</td><td>16.0</td><td>12.3 GB</td><td>2026-05-31</td><td><a href="/hyperos/bixi/stable/OS3.0.303.0.WOHCNXM/">Download</a></td></tr>
 <tr><td>MIX Flip 2 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WOHCNXM</td><td>16.0</td><td>9.6 GB</td><td>2026-06-10</td><td><a href="/hyperos/bixi/stable/OS3.0.303.0.WOHCNXM/">Download</a></td></tr>
-<tr><td>MIX Flip 2 China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.104.0.VOHCNXM</td><td>15.0</td><td>8.3 GB</td><td>None</td><td><a href="/hyperos/bixi/stable beta/OS2.0.104.0.VOHCNXM/">Download</a></td></tr>
+<tr><td>MIX Flip 2 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.304.0.WOHCNXM</td><td>16.0</td><td>9.6 GB</td><td>2026-07-15</td><td><a href="/hyperos/bixi/stable beta/OS3.0.304.0.WOHCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
