@@ -3,7 +3,7 @@ title: Redmi Pad 2 Pro / POCO Pad M1 India HyperOS OS3.0.301.0.WPWINXM Update
 layout: download
 name: Redmi Pad 2 Pro / POCO Pad M1 India
 codename: flute
-permalink: /hyperos/flute/stable beta/OS3.0.301.0.WPWINXM/
+permalink: /hyperos/flute/stable/OS3.0.301.0.WPWINXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/flute/stable beta/OS3.0.301.0.WPWINXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.301.0.WPWINXM Stable Beta Official Update for Redmi Pad 2 Pro / POCO Pad M1 India (flute)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.301.0.WPWINXM Stable Official Update for Redmi Pad 2 Pro / POCO Pad M1 India (flute)</h3>
     <h5>This page shows the OS3.0.301.0.WPWINXM update only. If you're looking for other updates check
         <a href="/hyperos/flute/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/flute/stable beta/OS3.0.301.0.WPWINXM/
                     <h5><b>Version: </b>OS3.0.301.0.WPWINXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/flute/stable beta/OS3.0.301.0.WPWINXM/
                             aria-expanded="false" aria-controls="flute_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="flute_1_changelog">
+                        <p id="changelog_text">[Comprehensive system app optimization]<br>Calendar:<br>Optimization: Holiday display in Calendar, with more traditional festivals and historical commemorative days<br>Fix: An issue where dates displayed incorrectly in some cases<br>   <br>Other improvements:<br>New: The option to tap the status bar to return to the top of the page in some apps and scenarios<br>Optimization: Visual feedback when you adjust screen brightness with the keyboard<br>Optimization: Mi Mover now supports transferring more data, including some settings and user data from system apps<br>Optimization: Home screen grid has been redesigned with more balanced margins and more comfortable spacing<br>Optimization: Gallery search animations for smoother transitions<br>Fix: An issue where macOS compressed files didn't display properly in File Manager in some cases<br>Fix: Stuttering when loading multilingual screenshot thumbnails in some cases<br>[Xiaomi HyperIsland]<br>New: View all the important info at a glance with Xiaomi HyperIsland<br>New: Now you can pull down to expand small windows and handle multiple tasks more efficiently<br>[Privacy and security]<br>New: More system apps now support Private access, with ongoing compatibility improvements for additional apps<br>Optimization: Updated "Fingerprints, face data, and screen lock" page layout for easier, faster setup<br>[Interconnectivity]<br>New: Xiaomi tablets now support AirPods, including fast pair pop-ups, battery status, Spatial Audio, noise cancellation switching, and Find My</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi Pad 2 Pro / POCO Pad M1 India</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/flute/" target="_blank">flute</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS3.0.301.0.WPWINXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>5.9 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2026-07-01</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">flute_in_global_images_OS3.0.301.0.WPWINXM_20260701.0000.00_16.0_in_d331f6e71f.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">d331f6e71f478b0f99051ee390be8606</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.301.0.WPWINXM/flute_in_global_images_OS3.0.301.0.WPWINXM_20260701.0000.00_16.0_in_d331f6e71f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WPWINXM/flute_in_global_images_OS3.0.301.0.WPWINXM_20260701.0000.00_16.0_in_d331f6e71f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.301.0.WPWINXM/flute_in_global_images_OS3.0.301.0.WPWINXM_20260701.0000.00_16.0_in_d331f6e71f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.301.0.WPWINXM/flute_in_global_images_OS3.0.301.0.WPWINXM_20260701.0000.00_16.0_in_d331f6e71f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.301.0.WPWINXM/flute_in_global_images_OS3.0.301.0.WPWINXM_20260701.0000.00_16.0_in_d331f6e71f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#flute_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="flute_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="flute_2_changelog">
                         <p id="changelog_text">[Comprehensive system app optimization]<br>Calendar:<br>Optimization: Holiday display in Calendar, with more traditional festivals and historical commemorative days<br>Fix: An issue where dates displayed incorrectly in some cases<br>   <br>Other improvements:<br>New: The option to tap the status bar to return to the top of the page in some apps and scenarios<br>Optimization: Visual feedback when you adjust screen brightness with the keyboard<br>Optimization: Mi Mover now supports transferring more data, including some settings and user data from system apps<br>Optimization: Home screen grid has been redesigned with more balanced margins and more comfortable spacing<br>Optimization: Gallery search animations for smoother transitions<br>Fix: An issue where macOS compressed files didn't display properly in File Manager in some cases<br>Fix: Stuttering when loading multilingual screenshot thumbnails in some cases<br>[Xiaomi HyperIsland]<br>New: View all the important info at a glance with Xiaomi HyperIsland<br>New: Now you can pull down to expand small windows and handle multiple tasks more efficiently<br>[Privacy and security]<br>New: More system apps now support Private access, with ongoing compatibility improvements for additional apps<br>Optimization: Updated "Fingerprints, face data, and screen lock" page layout for easier, faster setup<br>[Interconnectivity]<br>New: Xiaomi tablets now support AirPods, including fast pair pop-ups, battery status, Spatial Audio, noise cancellation switching, and Find My</p>
                     </div>
                 </li>
