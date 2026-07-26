@@ -54,6 +54,7 @@ permalink: /hyperos/yuechu/
                 <tbody>
                 <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.VMICNXM</td><td>15.0</td><td>8.9 GB</td><td>2026-03-16</td><td><a href="/hyperos/yuechu/stable/OS3.0.3.0.VMICNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.VMICNXM</td><td>15.0</td><td>6.9 GB</td><td>2026-03-23</td><td><a href="/hyperos/yuechu/stable/OS3.0.3.0.VMICNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 3 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.10.0.VMICNXM</td><td>15.0</td><td>6.9 GB</td><td>2026-07-21</td><td><a href="/hyperos/yuechu/stable beta/OS3.0.10.0.VMICNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
