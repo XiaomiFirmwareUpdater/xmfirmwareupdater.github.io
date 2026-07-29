@@ -52,7 +52,9 @@ permalink: /archive/hyperos/iolite/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 17 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.305.0.WDQCNXM</td><td>16.0</td><td>5.9 GB</td><td>2026-07-14</td><td><a href="/hyperos/iolite/stable/OS3.0.305.0.WDQCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 17 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.307.0.WDQCNXM</td><td>16.0</td><td>5.9 GB</td><td>2026-07-26</td><td><a href="/hyperos/iolite/stable/OS3.0.307.0.WDQCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 17 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.307.0.WDQCNXM</td><td>16.0</td><td>8.2 GB</td><td>2026-07-22</td><td><a href="/hyperos/iolite/stable/OS3.0.307.0.WDQCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 17 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.305.0.WDQCNXM</td><td>16.0</td><td>5.9 GB</td><td>2026-07-14</td><td><a href="/hyperos/iolite/stable/OS3.0.305.0.WDQCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.305.0.WDQCNXM</td><td>16.0</td><td>8.2 GB</td><td>2026-07-12</td><td><a href="/hyperos/iolite/stable/OS3.0.305.0.WDQCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 Pro 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WDQCNXM</td><td>16.0</td><td>5.9 GB</td><td>2026-07-14</td><td><a href="/hyperos/iolite/stable beta/OS3.0.303.0.WDQCNXM/">Download</a></td></tr>
 
