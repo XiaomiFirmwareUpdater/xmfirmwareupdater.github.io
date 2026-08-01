@@ -52,8 +52,8 @@ permalink: /hyperos/zorn/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K80 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.305.0.WOKCNXM</td><td>16.0</td><td>10.0 GB</td><td>2026-06-09</td><td><a href="/hyperos/zorn/stable/OS3.0.305.0.WOKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K80 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.305.0.WOKCNXM</td><td>16.0</td><td>7.4 GB</td><td>2026-06-15</td><td><a href="/hyperos/zorn/stable/OS3.0.305.0.WOKCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K80 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.306.0.WOKCNXM</td><td>16.0</td><td>10.0 GB</td><td>2026-07-08</td><td><a href="/hyperos/zorn/stable/OS3.0.306.0.WOKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K80 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WOKCNXM</td><td>16.0</td><td>7.4 GB</td><td>2026-07-23</td><td><a href="/hyperos/zorn/stable/OS3.0.306.0.WOKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.12.0.VOKCNXM</td><td>15.0</td><td>7.1 GB</td><td>2024-12-12</td><td><a href="/hyperos/zorn/stable beta/OS2.0.12.0.VOKCNXM/">Download</a></td></tr>
 <tr><td>POCO F7 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOKEUXM</td><td>16.0</td><td>8.8 GB</td><td>2026-07-15</td><td><a href="/hyperos/zorn/stable/OS3.0.302.0.WOKEUXM/">Download</a></td></tr>
 <tr><td>POCO F7 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOKEUXM</td><td>16.0</td><td>6.5 GB</td><td>2026-07-23</td><td><a href="/hyperos/zorn/stable/OS3.0.302.0.WOKEUXM/">Download</a></td></tr>
