@@ -52,7 +52,8 @@ permalink: /archive/hyperos/goya/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 15T Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WOETWXM</td><td>16.0</td><td>6.9 GB</td><td>2026-07-22</td><td><a href="/hyperos/goya/stable beta/OS3.0.301.0.WOETWXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 15T Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WOETWXM</td><td>16.0</td><td>6.9 GB</td><td>2026-07-22</td><td><a href="/hyperos/goya/stable/OS3.0.301.0.WOETWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WOETWXM</td><td>16.0</td><td>7.9 GB</td><td>2026-07-06</td><td><a href="/hyperos/goya/stable/OS3.0.301.0.WOETWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WOEIDXM</td><td>16.0</td><td>7.0 GB</td><td>2026-07-14</td><td><a href="/hyperos/goya/stable/OS3.0.301.0.WOEIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WOEIDXM</td><td>16.0</td><td>8.6 GB</td><td>2026-07-06</td><td><a href="/hyperos/goya/stable/OS3.0.301.0.WOEIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WOETRXM</td><td>16.0</td><td>7.0 GB</td><td>2026-07-14</td><td><a href="/hyperos/goya/stable/OS3.0.301.0.WOETRXM/">Download</a></td></tr>
@@ -69,26 +70,26 @@ permalink: /archive/hyperos/goya/
 <tr><td>Xiaomi 15T Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.9.0.WOEMIXM</td><td>16.0</td><td>9.7 GB</td><td>2026-02-02</td><td><a href="/hyperos/goya/stable/OS3.0.9.0.WOEMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.10.0.WOEEUXM</td><td>16.0</td><td>7.0 GB</td><td>2026-02-05</td><td><a href="/hyperos/goya/stable/OS3.0.10.0.WOEEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.10.0.WOEEUXM</td><td>16.0</td><td>8.7 GB</td><td>2026-02-02</td><td><a href="/hyperos/goya/stable/OS3.0.10.0.WOEEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15T Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOETRXM</td><td>16.0</td><td>6.9 GB</td><td>2026-01-29</td><td><a href="/hyperos/goya/stable/OS3.0.3.0.WOETRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15T Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOETRXM</td><td>16.0</td><td>8.3 GB</td><td>2026-01-21</td><td><a href="/hyperos/goya/stable/OS3.0.3.0.WOETRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.300.0.WOETWXM</td><td>16.0</td><td>6.8 GB</td><td>2026-05-07</td><td><a href="/hyperos/goya/stable/OS3.0.300.0.WOETWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.300.0.WOETWXM</td><td>16.0</td><td>7.9 GB</td><td>2026-04-27</td><td><a href="/hyperos/goya/stable/OS3.0.300.0.WOETWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.300.0.WOERUXM</td><td>16.0</td><td>6.8 GB</td><td>2026-05-07</td><td><a href="/hyperos/goya/stable/OS3.0.300.0.WOERUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.300.0.WOERUXM</td><td>16.0</td><td>9.4 GB</td><td>2026-04-28</td><td><a href="/hyperos/goya/stable/OS3.0.300.0.WOERUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15T Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WOETWXM</td><td>16.0</td><td>6.8 GB</td><td>2026-01-29</td><td><a href="/hyperos/goya/stable/OS3.0.6.0.WOETWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15T Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WOETWXM</td><td>16.0</td><td>7.8 GB</td><td>2026-01-21</td><td><a href="/hyperos/goya/stable/OS3.0.6.0.WOETWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOETRXM</td><td>16.0</td><td>6.9 GB</td><td>2026-01-29</td><td><a href="/hyperos/goya/stable/OS3.0.3.0.WOETRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOETRXM</td><td>16.0</td><td>8.3 GB</td><td>2026-01-21</td><td><a href="/hyperos/goya/stable/OS3.0.3.0.WOETRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.300.0.WOEIDXM</td><td>16.0</td><td>7.0 GB</td><td>2026-04-27</td><td><a href="/hyperos/goya/stable/OS3.0.300.0.WOEIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.300.0.WOEIDXM</td><td>16.0</td><td>8.5 GB</td><td>2026-04-18</td><td><a href="/hyperos/goya/stable/OS3.0.300.0.WOEIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.300.0.WOETRXM</td><td>16.0</td><td>6.9 GB</td><td>2026-04-27</td><td><a href="/hyperos/goya/stable/OS3.0.300.0.WOETRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.300.0.WOETRXM</td><td>16.0</td><td>8.3 GB</td><td>2026-04-18</td><td><a href="/hyperos/goya/stable/OS3.0.300.0.WOETRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15T Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOEIDXM</td><td>16.0</td><td>6.9 GB</td><td>2026-01-21</td><td><a href="/hyperos/goya/stable/OS3.0.3.0.WOEIDXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15T Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOEIDXM</td><td>16.0</td><td>8.6 GB</td><td>2026-01-14</td><td><a href="/hyperos/goya/stable/OS3.0.3.0.WOEIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.6.0.WOETWXM</td><td>16.0</td><td>6.8 GB</td><td>2026-01-29</td><td><a href="/hyperos/goya/stable/OS3.0.6.0.WOETWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.6.0.WOETWXM</td><td>16.0</td><td>7.8 GB</td><td>2026-01-21</td><td><a href="/hyperos/goya/stable/OS3.0.6.0.WOETWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.300.0.WOEMIXM</td><td>16.0</td><td>7.0 GB</td><td>2026-04-23</td><td><a href="/hyperos/goya/stable/OS3.0.300.0.WOEMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.300.0.WOEMIXM</td><td>16.0</td><td>9.7 GB</td><td>2026-04-13</td><td><a href="/hyperos/goya/stable/OS3.0.300.0.WOEMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15T Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WOERUXM</td><td>16.0</td><td>6.8 GB</td><td>2026-01-21</td><td><a href="/hyperos/goya/stable/OS3.0.5.0.WOERUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15T Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WOERUXM</td><td>16.0</td><td>9.3 GB</td><td>2026-01-14</td><td><a href="/hyperos/goya/stable/OS3.0.5.0.WOERUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WOEIDXM</td><td>16.0</td><td>6.9 GB</td><td>2026-01-21</td><td><a href="/hyperos/goya/stable/OS3.0.3.0.WOEIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOEIDXM</td><td>16.0</td><td>8.6 GB</td><td>2026-01-14</td><td><a href="/hyperos/goya/stable/OS3.0.3.0.WOEIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOEEUXM</td><td>16.0</td><td>7.0 GB</td><td>2026-04-07</td><td><a href="/hyperos/goya/stable/OS3.0.302.0.WOEEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOEEUXM</td><td>16.0</td><td>8.7 GB</td><td>2026-04-01</td><td><a href="/hyperos/goya/stable/OS3.0.302.0.WOEEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WOERUXM</td><td>16.0</td><td>6.8 GB</td><td>2026-01-21</td><td><a href="/hyperos/goya/stable/OS3.0.5.0.WOERUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WOERUXM</td><td>16.0</td><td>9.3 GB</td><td>2026-01-14</td><td><a href="/hyperos/goya/stable/OS3.0.5.0.WOERUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.8.0.WOEMIXM</td><td>16.0</td><td>6.9 GB</td><td>2026-01-14</td><td><a href="/hyperos/goya/stable/OS3.0.8.0.WOEMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.8.0.WOEMIXM</td><td>16.0</td><td>9.7 GB</td><td>2026-01-06</td><td><a href="/hyperos/goya/stable/OS3.0.8.0.WOEMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.9.0.WOEEUXM</td><td>16.0</td><td>7.0 GB</td><td>2026-01-14</td><td><a href="/hyperos/goya/stable/OS3.0.9.0.WOEEUXM/">Download</a></td></tr>
@@ -113,10 +114,10 @@ permalink: /archive/hyperos/goya/
 <tr><td>Xiaomi 15T Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WOETRXM</td><td>16.0</td><td>8.3 GB</td><td>2025-11-18</td><td><a href="/hyperos/goya/stable/OS3.0.2.0.WOETRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WOEMIXM</td><td>16.0</td><td>6.9 GB</td><td>2025-12-01</td><td><a href="/hyperos/goya/stable/OS3.0.5.0.WOEMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WOEMIXM</td><td>16.0</td><td>9.7 GB</td><td>2025-11-26</td><td><a href="/hyperos/goya/stable/OS3.0.5.0.WOEMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15T Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VOEIDXM</td><td>15.0</td><td>6.4 GB</td><td>2025-11-04</td><td><a href="/hyperos/goya/stable/OS2.0.207.0.VOEIDXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15T Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VOEIDXM</td><td>15.0</td><td>8.0 GB</td><td>2025-10-28</td><td><a href="/hyperos/goya/stable/OS2.0.207.0.VOEIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WOEIDXM</td><td>16.0</td><td>6.9 GB</td><td>2025-12-02</td><td><a href="/hyperos/goya/stable/OS3.0.2.0.WOEIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WOEIDXM</td><td>16.0</td><td>8.6 GB</td><td>2025-11-17</td><td><a href="/hyperos/goya/stable/OS3.0.2.0.WOEIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Indonesia</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VOEIDXM</td><td>15.0</td><td>6.4 GB</td><td>2025-11-04</td><td><a href="/hyperos/goya/stable/OS2.0.207.0.VOEIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VOEIDXM</td><td>15.0</td><td>8.0 GB</td><td>2025-10-28</td><td><a href="/hyperos/goya/stable/OS2.0.207.0.VOEIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Global</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VOEMIXM</td><td>15.0</td><td>6.3 GB</td><td>2025-10-28</td><td><a href="/hyperos/goya/stable/OS2.0.207.0.VOEMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Global</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VOEMIXM</td><td>15.0</td><td>8.9 GB</td><td>2025-10-20</td><td><a href="/hyperos/goya/stable/OS2.0.207.0.VOEMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VOERUXM</td><td>15.0</td><td>6.3 GB</td><td>2025-10-28</td><td><a href="/hyperos/goya/stable/OS2.0.204.0.VOERUXM/">Download</a></td></tr>
