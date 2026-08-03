@@ -54,15 +54,15 @@ permalink: /hyperos/ruan/
                 <tbody>
                 <tr><td>Redmi Pad Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.306.0.WFSCNXM</td><td>16.0</td><td>6.6 GB</td><td>2026-06-29</td><td><a href="/hyperos/ruan/stable/OS3.0.306.0.WFSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WFSCNXM</td><td>16.0</td><td>5.6 GB</td><td>2026-07-08</td><td><a href="/hyperos/ruan/stable/OS3.0.306.0.WFSCNXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.307.0.WFSCNXM</td><td>16.0</td><td>5.6 GB</td><td>2026-07-29</td><td><a href="/hyperos/ruan/stable beta/OS3.0.307.0.WFSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G / POCO Pad 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WFSEUXM</td><td>16.0</td><td>6.3 GB</td><td>2026-05-14</td><td><a href="/hyperos/ruan/stable/OS3.0.2.0.WFSEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G / POCO Pad 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WFSEUXM</td><td>16.0</td><td>5.3 GB</td><td>2026-05-22</td><td><a href="/hyperos/ruan/stable/OS3.0.2.0.WFSEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G / POCO Pad 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WFSMIXM</td><td>16.0</td><td>6.7 GB</td><td>2026-07-09</td><td><a href="/hyperos/ruan/stable/OS3.0.302.0.WFSMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G / POCO Pad 5G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WFSMIXM</td><td>16.0</td><td>5.3 GB</td><td>2026-07-17</td><td><a href="/hyperos/ruan/stable/OS3.0.302.0.WFSMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G / POCO Pad 5G India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WFSINXM</td><td>16.0</td><td>5.7 GB</td><td>2026-06-04</td><td><a href="/hyperos/ruan/stable/OS3.0.303.0.WFSINXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro 5G / POCO Pad 5G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WFSINXM</td><td>16.0</td><td>5.0 GB</td><td>2026-06-16</td><td><a href="/hyperos/ruan/stable/OS3.0.303.0.WFSINXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Pro 5G / POCO Pad 5G Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.304.0.WFSRUXM</td><td>16.0</td><td>5.2 GB</td><td>2026-07-24</td><td><a href="/hyperos/ruan/stable beta/OS3.0.304.0.WFSRUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Pro 5G / POCO Pad 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WFSRUXM</td><td>16.0</td><td>7.0 GB</td><td>2026-06-05</td><td><a href="/hyperos/ruan/stable/OS3.0.303.0.WFSRUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Pro 5G / POCO Pad 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WFSRUXM</td><td>16.0</td><td>5.2 GB</td><td>2026-06-10</td><td><a href="/hyperos/ruan/stable/OS3.0.303.0.WFSRUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro 5G / POCO Pad 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WFSRUXM</td><td>16.0</td><td>7.0 GB</td><td>2026-07-17</td><td><a href="/hyperos/ruan/stable/OS3.0.304.0.WFSRUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro 5G / POCO Pad 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WFSRUXM</td><td>16.0</td><td>5.2 GB</td><td>2026-07-24</td><td><a href="/hyperos/ruan/stable/OS3.0.304.0.WFSRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
