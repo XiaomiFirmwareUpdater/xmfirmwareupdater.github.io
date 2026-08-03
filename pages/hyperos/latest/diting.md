@@ -65,8 +65,10 @@ permalink: /hyperos/diting/
 <tr><td>Xiaomi 12T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.VLFRUXM</td><td>15.0</td><td>6.9 GB</td><td>2026-05-13</td><td><a href="/hyperos/diting/stable/OS3.0.3.0.VLFRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.VLFRUXM</td><td>15.0</td><td>5.8 GB</td><td>2026-05-25</td><td><a href="/hyperos/diting/stable/OS3.0.3.0.VLFRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.1.0.VLFMIXM</td><td>15.0</td><td>5.8 GB</td><td>2026-02-06</td><td><a href="/hyperos/diting/stable beta/OS3.0.1.0.VLFMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.4.0.VLFRUXM</td><td>15.0</td><td>5.8 GB</td><td>2026-07-29</td><td><a href="/hyperos/diting/stable beta/OS3.0.4.0.VLFRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.VLFTRXM</td><td>15.0</td><td>6.7 GB</td><td>2026-05-13</td><td><a href="/hyperos/diting/stable/OS3.0.3.0.VLFTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.VLFTRXM</td><td>15.0</td><td>5.8 GB</td><td>2026-05-25</td><td><a href="/hyperos/diting/stable/OS3.0.3.0.VLFTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.4.0.VLFTRXM</td><td>15.0</td><td>5.8 GB</td><td>2026-07-29</td><td><a href="/hyperos/diting/stable beta/OS3.0.4.0.VLFTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.VLFTWXM</td><td>15.0</td><td>6.6 GB</td><td>2026-05-14</td><td><a href="/hyperos/diting/stable/OS3.0.3.0.VLFTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.VLFTWXM</td><td>15.0</td><td>5.7 GB</td><td>2026-05-25</td><td><a href="/hyperos/diting/stable/OS3.0.3.0.VLFTWXM/">Download</a></td></tr>
 
