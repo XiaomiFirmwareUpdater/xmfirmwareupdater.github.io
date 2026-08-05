@@ -52,8 +52,8 @@ permalink: /hyperos/mist/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 17 5G China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.307.0.WPUCNXM</td><td>16.0</td><td>7.8 GB</td><td>2026-07-09</td><td><a href="/hyperos/mist/stable/OS3.0.307.0.WPUCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 17 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.307.0.WPUCNXM</td><td>16.0</td><td>5.6 GB</td><td>2026-07-14</td><td><a href="/hyperos/mist/stable/OS3.0.307.0.WPUCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 17 5G China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.310.0.WPUCNXM</td><td>16.0</td><td>7.8 GB</td><td>2026-07-30</td><td><a href="/hyperos/mist/stable/OS3.0.310.0.WPUCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 17 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.310.0.WPUCNXM</td><td>16.0</td><td>5.6 GB</td><td>2026-08-01</td><td><a href="/hyperos/mist/stable/OS3.0.310.0.WPUCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.305.0.WPUCNXM</td><td>16.0</td><td>5.7 GB</td><td>2026-07-14</td><td><a href="/hyperos/mist/stable beta/OS3.0.305.0.WPUCNXM/">Download</a></td></tr>
 
                 </tbody>
