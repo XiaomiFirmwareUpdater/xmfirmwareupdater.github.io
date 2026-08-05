@@ -52,8 +52,8 @@ permalink: /hyperos/degas/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 14T EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WNEEUXM</td><td>16.0</td><td>8.3 GB</td><td>2026-05-20</td><td><a href="/hyperos/degas/stable/OS3.0.303.0.WNEEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14T EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WNEEUXM</td><td>16.0</td><td>6.7 GB</td><td>2026-05-29</td><td><a href="/hyperos/degas/stable/OS3.0.303.0.WNEEUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 14T EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WNEEUXM</td><td>16.0</td><td>8.4 GB</td><td>2026-07-10</td><td><a href="/hyperos/degas/stable/OS3.0.304.0.WNEEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WNEEUXM</td><td>16.0</td><td>6.8 GB</td><td>2026-07-28</td><td><a href="/hyperos/degas/stable/OS3.0.304.0.WNEEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS1.0.4.0.UNEEUXM</td><td>14.0</td><td>5.8 GB</td><td>2024-09-26</td><td><a href="/hyperos/degas/stable beta/OS1.0.4.0.UNEEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WNEMIXM</td><td>16.0</td><td>9.0 GB</td><td>2026-06-08</td><td><a href="/hyperos/degas/stable/OS3.0.302.0.WNEMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WNEMIXM</td><td>16.0</td><td>6.7 GB</td><td>2026-06-16</td><td><a href="/hyperos/degas/stable/OS3.0.302.0.WNEMIXM/">Download</a></td></tr>
