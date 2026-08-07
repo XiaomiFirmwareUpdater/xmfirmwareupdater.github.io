@@ -68,12 +68,11 @@ permalink: /hyperos/dizi/
 <tr><td>Redmi Pad Pro / POCO Pad Russia</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VNSRUXM</td><td>15.0</td><td>6.6 GB</td><td>2026-01-31</td><td><a href="/hyperos/dizi/stable/OS2.0.207.0.VNSRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro / POCO Pad Russia</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VNSRUXM</td><td>15.0</td><td>4.8 GB</td><td>2026-02-06</td><td><a href="/hyperos/dizi/stable/OS2.0.207.0.VNSRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro / POCO Pad Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WNSRUXM</td><td>16.0</td><td>4.9 GB</td><td>2026-07-31</td><td><a href="/hyperos/dizi/stable beta/OS3.0.302.0.WNSRUXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Pro / POCO Pad Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WNSTRXM</td><td>16.0</td><td>6.1 GB</td><td>2026-06-04</td><td><a href="/hyperos/dizi/stable/OS3.0.302.0.WNSTRXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Pro / POCO Pad Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WNSTRXM</td><td>16.0</td><td>5.0 GB</td><td>2026-06-10</td><td><a href="/hyperos/dizi/stable/OS3.0.302.0.WNSTRXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Pro / POCO Pad Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WNSTRXM</td><td>16.0</td><td>5.0 GB</td><td>2026-07-31</td><td><a href="/hyperos/dizi/stable beta/OS3.0.303.0.WNSTRXM/">Download</a></td></tr>
-<tr><td>Redmi Pad Pro / POCO Pad Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WNSTWXM</td><td>16.0</td><td>4.9 GB</td><td>2026-08-04</td><td><a href="/hyperos/dizi/stable beta/OS3.0.302.0.WNSTWXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro / POCO Pad Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WNSTRXM</td><td>16.0</td><td>6.1 GB</td><td>2026-07-24</td><td><a href="/hyperos/dizi/stable/OS3.0.303.0.WNSTRXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro / POCO Pad Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WNSTRXM</td><td>16.0</td><td>5.0 GB</td><td>2026-07-31</td><td><a href="/hyperos/dizi/stable/OS3.0.303.0.WNSTRXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro / POCO Pad Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WNSTWXM</td><td>16.0</td><td>5.7 GB</td><td>2026-06-10</td><td><a href="/hyperos/dizi/stable/OS3.0.301.0.WNSTWXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Pro / POCO Pad Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WNSTWXM</td><td>16.0</td><td>4.9 GB</td><td>2026-06-16</td><td><a href="/hyperos/dizi/stable/OS3.0.301.0.WNSTWXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Pro / POCO Pad Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WNSTWXM</td><td>16.0</td><td>4.9 GB</td><td>2026-08-04</td><td><a href="/hyperos/dizi/stable beta/OS3.0.302.0.WNSTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

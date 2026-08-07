@@ -58,10 +58,9 @@ permalink: /hyperos/vermeer/
 <tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WNKEUXM</td><td>16.0</td><td>7.1 GB</td><td>2026-07-23</td><td><a href="/hyperos/vermeer/stable/OS3.0.302.0.WNKEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WNKMIXM</td><td>16.0</td><td>10.1 GB</td><td>2026-06-22</td><td><a href="/hyperos/vermeer/stable/OS3.0.303.0.WNKMIXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WNKMIXM</td><td>16.0</td><td>7.1 GB</td><td>2026-07-11</td><td><a href="/hyperos/vermeer/stable/OS3.0.303.0.WNKMIXM/">Download</a></td></tr>
-<tr><td>POCO F6 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WNKRUXM</td><td>16.0</td><td>10.4 GB</td><td>2026-04-23</td><td><a href="/hyperos/vermeer/stable/OS3.0.301.0.WNKRUXM/">Download</a></td></tr>
-<tr><td>POCO F6 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WNKRUXM</td><td>16.0</td><td>7.0 GB</td><td>2026-05-06</td><td><a href="/hyperos/vermeer/stable/OS3.0.301.0.WNKRUXM/">Download</a></td></tr>
-<tr><td>POCO F6 Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WNKRUXM</td><td>16.0</td><td>7.0 GB</td><td>2026-07-29</td><td><a href="/hyperos/vermeer/stable beta/OS3.0.302.0.WNKRUXM/">Download</a></td></tr>
-<tr><td>POCO F6 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WNKTWXM</td><td>16.0</td><td>8.2 GB</td><td>2026-02-05</td><td><a href="/hyperos/vermeer/stable/OS3.0.4.0.WNKTWXM/">Download</a></td></tr>
+<tr><td>POCO F6 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WNKRUXM</td><td>16.0</td><td>10.4 GB</td><td>2026-07-15</td><td><a href="/hyperos/vermeer/stable/OS3.0.302.0.WNKRUXM/">Download</a></td></tr>
+<tr><td>POCO F6 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WNKRUXM</td><td>16.0</td><td>7.0 GB</td><td>2026-07-29</td><td><a href="/hyperos/vermeer/stable/OS3.0.302.0.WNKRUXM/">Download</a></td></tr>
+<tr><td>POCO F6 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WNKTWXM</td><td>16.0</td><td>8.3 GB</td><td>2026-04-23</td><td><a href="/hyperos/vermeer/stable/OS3.0.301.0.WNKTWXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WNKTWXM</td><td>16.0</td><td>7.0 GB</td><td>2026-05-06</td><td><a href="/hyperos/vermeer/stable/OS3.0.301.0.WNKTWXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WNKTWXM</td><td>16.0</td><td>7.0 GB</td><td>2026-08-03</td><td><a href="/hyperos/vermeer/stable beta/OS3.0.302.0.WNKTWXM/">Download</a></td></tr>
 
