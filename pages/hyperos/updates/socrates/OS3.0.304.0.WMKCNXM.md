@@ -3,7 +3,7 @@ title: Redmi K60 Pro China HyperOS OS3.0.304.0.WMKCNXM Update
 layout: download
 name: Redmi K60 Pro China
 codename: socrates
-permalink: /hyperos/socrates/stable beta/OS3.0.304.0.WMKCNXM/
+permalink: /hyperos/socrates/stable/OS3.0.304.0.WMKCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/socrates/stable beta/OS3.0.304.0.WMKCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.304.0.WMKCNXM Stable Beta Official Update for Redmi K60 Pro China (socrates)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.304.0.WMKCNXM Stable Official Update for Redmi K60 Pro China (socrates)</h3>
     <h5>This page shows the OS3.0.304.0.WMKCNXM update only. If you're looking for other updates check
         <a href="/hyperos/socrates/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/socrates/stable beta/OS3.0.304.0.WMKCNXM/
                     <h5><b>Version: </b>OS3.0.304.0.WMKCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/socrates/stable beta/OS3.0.304.0.WMKCNXM/
                             aria-expanded="false" aria-controls="socrates_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="socrates_1_changelog">
+                        <p id="changelog_text">[System]<br>Fix: Improved system stability and user experience<br>Updated the security patch to June 2026. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi K60 Pro China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/socrates/" target="_blank">socrates</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS3.0.304.0.WMKCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>8.5 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2026-07-13</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">socrates_images_OS3.0.304.0.WMKCNXM_20260713.0000.00_16.0_cn_cdb5f7269f.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">cdb5f7269fa02bf51b10be4e73dfd77b</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.304.0.WMKCNXM/socrates_images_OS3.0.304.0.WMKCNXM_20260713.0000.00_16.0_cn_cdb5f7269f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.304.0.WMKCNXM/socrates_images_OS3.0.304.0.WMKCNXM_20260713.0000.00_16.0_cn_cdb5f7269f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.304.0.WMKCNXM/socrates_images_OS3.0.304.0.WMKCNXM_20260713.0000.00_16.0_cn_cdb5f7269f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.304.0.WMKCNXM/socrates_images_OS3.0.304.0.WMKCNXM_20260713.0000.00_16.0_cn_cdb5f7269f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.304.0.WMKCNXM/socrates_images_OS3.0.304.0.WMKCNXM_20260713.0000.00_16.0_cn_cdb5f7269f.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#socrates_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="socrates_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="socrates_2_changelog">
                         <p id="changelog_text">[System]<br>Fix: Improved system stability and user experience<br>Updated the security patch to June 2026. Increased system security.</p>
                     </div>
                 </li>

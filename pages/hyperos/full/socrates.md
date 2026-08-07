@@ -52,7 +52,8 @@ permalink: /archive/hyperos/socrates/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K60 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.304.0.WMKCNXM</td><td>16.0</td><td>7.1 GB</td><td>2026-07-17</td><td><a href="/hyperos/socrates/stable beta/OS3.0.304.0.WMKCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WMKCNXM</td><td>16.0</td><td>7.1 GB</td><td>2026-07-17</td><td><a href="/hyperos/socrates/stable/OS3.0.304.0.WMKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WMKCNXM</td><td>16.0</td><td>8.5 GB</td><td>2026-07-13</td><td><a href="/hyperos/socrates/stable/OS3.0.304.0.WMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WMKCNXM</td><td>16.0</td><td>7.1 GB</td><td>2026-04-22</td><td><a href="/hyperos/socrates/stable/OS3.0.303.0.WMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WMKCNXM</td><td>16.0</td><td>8.5 GB</td><td>2026-04-13</td><td><a href="/hyperos/socrates/stable/OS3.0.303.0.WMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.VMKCNXM</td><td>15.0</td><td>7.0 GB</td><td>2026-03-27</td><td><a href="/hyperos/socrates/stable/OS3.0.5.0.VMKCNXM/">Download</a></td></tr>
@@ -69,14 +70,14 @@ permalink: /archive/hyperos/socrates/
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.209.0.VMKCNXM</td><td>15.0</td><td>8.1 GB</td><td>2025-09-09</td><td><a href="/hyperos/socrates/stable/OS2.0.209.0.VMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.208.0.VMKCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-08-21</td><td><a href="/hyperos/socrates/stable/OS2.0.208.0.VMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.208.0.VMKCNXM</td><td>15.0</td><td>8.1 GB</td><td>2025-08-15</td><td><a href="/hyperos/socrates/stable/OS2.0.208.0.VMKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VMKCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-07-15</td><td><a href="/hyperos/socrates/stable/OS2.0.206.0.VMKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VMKCNXM</td><td>15.0</td><td>8.1 GB</td><td>2025-07-08</td><td><a href="/hyperos/socrates/stable/OS2.0.206.0.VMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.VMKCNXM</td><td>15.0</td><td>7.0 GB</td><td>2025-12-28</td><td><a href="/hyperos/socrates/stable/OS3.0.3.0.VMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.VMKCNXM</td><td>15.0</td><td>8.3 GB</td><td>2025-12-26</td><td><a href="/hyperos/socrates/stable/OS3.0.3.0.VMKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.107.0.VMKCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-05-20</td><td><a href="/hyperos/socrates/stable/OS2.0.107.0.VMKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.107.0.VMKCNXM</td><td>15.0</td><td>8.1 GB</td><td>2025-05-09</td><td><a href="/hyperos/socrates/stable/OS2.0.107.0.VMKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VMKCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-07-15</td><td><a href="/hyperos/socrates/stable/OS2.0.206.0.VMKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VMKCNXM</td><td>15.0</td><td>8.1 GB</td><td>2025-07-08</td><td><a href="/hyperos/socrates/stable/OS2.0.206.0.VMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.202.0.VMKCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-06-17</td><td><a href="/hyperos/socrates/stable/OS2.0.202.0.VMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.202.0.VMKCNXM</td><td>15.0</td><td>8.1 GB</td><td>2025-06-10</td><td><a href="/hyperos/socrates/stable/OS2.0.202.0.VMKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.107.0.VMKCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-05-20</td><td><a href="/hyperos/socrates/stable/OS2.0.107.0.VMKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.107.0.VMKCNXM</td><td>15.0</td><td>8.1 GB</td><td>2025-05-09</td><td><a href="/hyperos/socrates/stable/OS2.0.107.0.VMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.106.0.VMKCNXM</td><td>15.0</td><td>8.1 GB</td><td>2025-04-30</td><td><a href="/hyperos/socrates/stable/OS2.0.106.0.VMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.106.0.VMKCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-04-25</td><td><a href="/hyperos/socrates/stable/OS2.0.106.0.VMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.103.0.VMKCNXM</td><td>15.0</td><td>8.1 GB</td><td>2025-03-31</td><td><a href="/hyperos/socrates/stable/OS2.0.103.0.VMKCNXM/">Download</a></td></tr>
@@ -85,10 +86,10 @@ permalink: /archive/hyperos/socrates/
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.16.0.UMKCNXM</td><td>14.0</td><td>7.7 GB</td><td>2024-11-25</td><td><a href="/hyperos/socrates/stable/OS1.0.16.0.UMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.13.0.UMKCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-10-21</td><td><a href="/hyperos/socrates/stable/OS1.0.13.0.UMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.13.0.UMKCNXM</td><td>14.0</td><td>7.7 GB</td><td>2024-10-09</td><td><a href="/hyperos/socrates/stable/OS1.0.13.0.UMKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UMKCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-08-14</td><td><a href="/hyperos/socrates/stable/OS1.0.11.0.UMKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UMKCNXM</td><td>14.0</td><td>7.7 GB</td><td>2024-08-05</td><td><a href="/hyperos/socrates/stable/OS1.0.11.0.UMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VMKCNXM</td><td>15.0</td><td>8.1 GB</td><td>2025-02-14</td><td><a href="/hyperos/socrates/stable/OS2.0.102.0.VMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VMKCNXM</td><td>15.0</td><td>6.8 GB</td><td>2025-02-07</td><td><a href="/hyperos/socrates/stable/OS2.0.102.0.VMKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UMKCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-08-14</td><td><a href="/hyperos/socrates/stable/OS1.0.11.0.UMKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UMKCNXM</td><td>14.0</td><td>7.7 GB</td><td>2024-08-05</td><td><a href="/hyperos/socrates/stable/OS1.0.11.0.UMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UMKCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-05-31</td><td><a href="/hyperos/socrates/stable/OS1.0.9.0.UMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.9.0.UMKCNXM</td><td>14.0</td><td>7.7 GB</td><td>2024-05-16</td><td><a href="/hyperos/socrates/stable/OS1.0.9.0.UMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>OS1.0.12.0.UMKCNXM</td><td>14.0</td><td>6.4 GB</td><td>2024-09-11</td><td><a href="/hyperos/socrates/stable/OS1.0.12.0.UMKCNXM/">Download</a></td></tr>
