@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 10 Aug 2026 12:48:34 </lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 18:39:19 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 17T (chagall) - OS3.0.307.0.WPTCNXM</title>
@@ -442,7 +442,7 @@
             <pubDate>Fri, 12 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 15C 5G/15R 5G/POCO C85 5G/TBD (tornado) - OS3.0.303.0.WPOINXM</title>
+            <title>Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD (tornado) - OS3.0.303.0.WPOINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
             <pubDate>Fri, 12 Jun 2026 00:00:00 </pubDate>
         </item>
@@ -617,7 +617,7 @@
             <pubDate>Fri, 05 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 15C 5G/15R 5G/POCO C85 5G/TBD (tornado) - OS2.0.209.0.VPOEUXM</title>
+            <title>Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD (tornado) - OS2.0.209.0.VPOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
             <pubDate>Fri, 05 Jun 2026 00:00:00 </pubDate>
         </item>
@@ -642,7 +642,7 @@
             <pubDate>Wed, 03 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 15C 5G/15R 5G/POCO C85 5G/TBD (tornado) - OS3.0.301.0.WPOMIXM</title>
+            <title>Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD (tornado) - OS3.0.301.0.WPOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
             <pubDate>Wed, 03 Jun 2026 00:00:00 </pubDate>
         </item>
@@ -1262,7 +1262,7 @@
             <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 15C 5G/15R 5G/POCO C85 5G/TBD (tornado) - OS3.0.302.0.WPOCNXM</title>
+            <title>Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD (tornado) - OS3.0.302.0.WPOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
             <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
         </item>

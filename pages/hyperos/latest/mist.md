@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 17 5G/POCO M8 Power (mist) HyperOS Downloads
+title: Redmi Note 17 5G/POCO M8 Power 5G (mist) HyperOS Downloads
 layout: download
-name: Redmi Note 17 5G/POCO M8 Power
+name: Redmi Note 17 5G/POCO M8 Power 5G
 codename: mist
 permalink: /hyperos/mist/
 ---
@@ -9,7 +9,7 @@ permalink: /hyperos/mist/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/mist/">Redmi Note 17 5G/POCO M8 Power</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/mist/">Redmi Note 17 5G/POCO M8 Power 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

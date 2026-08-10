@@ -27128,157 +27128,157 @@
   codename: tornado
   date: '2025-12-31'
   download: https://bigota.d.miui.com/OS2.0.206.0.VPOMIXM/fw_tornado_tornado_global-ota_full-OS2.0.206.0.VPOMIXM-user-15.0-682128b635.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS2.0.206.0.VPOMIXM
 - android: '15.0'
   codename: tornado
   date: '2026-04-30'
   download: https://bigota.d.miui.com/OS2.0.208.0.VPOEUXM/fw_tornado_tornado_eea_global-ota_full-OS2.0.208.0.VPOEUXM-user-15.0-f5194ab232.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS2.0.208.0.VPOEUXM
 - android: '16.0'
   codename: tornado
   date: '2026-04-30'
   download: https://bigota.d.miui.com/OS3.0.301.0.WPOINXM/fw_tornado_tornado_in_global-ota_full-OS3.0.301.0.WPOINXM-user-16.0-599ff966b9.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS3.0.301.0.WPOINXM
 - android: '15.0'
   codename: tornado
   date: '2025-11-28'
   download: https://bigota.d.miui.com/OS2.0.204.0.VPOEUXM/fw_tornado_tornado_eea_global-ota_full-OS2.0.204.0.VPOEUXM-user-15.0-987bf0b62b.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS2.0.204.0.VPOEUXM
 - android: '15.0'
   codename: tornado
   date: '2025-12-27'
   download: https://bigota.d.miui.com/OS2.0.203.0.VPOINXM/fw_tornado_tornado_in_global-ota_full-OS2.0.203.0.VPOINXM-user-15.0-6375d83ace.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS2.0.203.0.VPOINXM
 - android: '16.0'
   codename: tornado
   date: '2026-03-24'
   download: https://bigota.d.miui.com/OS3.0.1.0.WPOINXM/fw_tornado_tornado_in_global-ota_full-OS3.0.1.0.WPOINXM-user-16.0-204b2046fb.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS3.0.1.0.WPOINXM
 - android: '15.0'
   codename: tornado
   date: '2025-09-23'
   download: https://bigota.d.miui.com/OS2.0.202.0.VPOCNXM/fw_tornado_tornado-ota_full-OS2.0.202.0.VPOCNXM-user-15.0-d9730a074c.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS2.0.202.0.VPOCNXM
 - android: '15.0'
   codename: tornado
   date: '2025-10-20'
   download: https://bigota.d.miui.com/OS2.0.203.0.VPOEUXM/fw_tornado_tornado_eea_global-ota_full-OS2.0.203.0.VPOEUXM-user-15.0-43388b1b49.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS2.0.203.0.VPOEUXM
 - android: '15.0'
   codename: tornado
   date: '2025-09-19'
   download: https://bigota.d.miui.com/OS2.0.202.0.VPOMIXM/fw_tornado_global_tornado_global-ota_full-OS2.0.202.0.VPOMIXM-user-15.0-9ca795b8a9.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS2.0.202.0.VPOMIXM
 - android: '16.0'
   codename: tornado
   date: '2026-03-19'
   download: https://bigota.d.miui.com/OS3.0.1.0.WPOMIXM/fw_tornado_tornado_global-ota_full-OS3.0.1.0.WPOMIXM-user-16.0-d1a4d43395.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS3.0.1.0.WPOMIXM
 - android: '15.0'
   codename: tornado
   date: '2026-03-16'
   download: https://bigota.d.miui.com/OS2.0.207.0.VPOEUXM/fw_tornado_tornado_eea_global-ota_full-OS2.0.207.0.VPOEUXM-user-15.0-06698b623c.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS2.0.207.0.VPOEUXM
 - android: '15.0'
   codename: tornado
   date: '2025-10-15'
   download: https://bigota.d.miui.com/OS2.0.203.0.VPOMIXM/fw_tornado_tornado_global-ota_full-OS2.0.203.0.VPOMIXM-user-15.0-ae994d5ee2.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS2.0.203.0.VPOMIXM
 - android: '15.0'
   codename: tornado
   date: '2026-01-14'
   download: https://bigota.d.miui.com/OS2.0.206.0.VPOCNXM/fw_tornado_tornado-ota_full-OS2.0.206.0.VPOCNXM-user-15.0-914deb6a5d.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS2.0.206.0.VPOCNXM
 - android: '15.0'
   codename: tornado
   date: '2025-11-12'
   download: https://bigota.d.miui.com/OS2.0.202.0.VPOINXM/fw_tornado_tornado_in_global-ota_full-OS2.0.202.0.VPOINXM-user-15.0-955fd223a5.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS2.0.202.0.VPOINXM
 - android: '16.0'
   codename: tornado
   date: '2026-06-12'
   download: https://bigota.d.miui.com/OS3.0.303.0.WPOINXM/fw_tornado_tornado_in_global-ota_full-OS3.0.303.0.WPOINXM-user-16.0-96190d6b4e.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS3.0.303.0.WPOINXM
 - android: '15.0'
   codename: tornado
   date: '2026-05-13'
   download: https://bigota.d.miui.com/OS2.0.207.0.VPOMIXM/fw_tornado_tornado_global-ota_full-OS2.0.207.0.VPOMIXM-user-15.0-e1de95af7f.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS2.0.207.0.VPOMIXM
 - android: '15.0'
   codename: tornado
   date: '2025-11-10'
   download: https://bigota.d.miui.com/OS2.0.203.0.VPOCNXM/fw_tornado_tornado-ota_full-OS2.0.203.0.VPOCNXM-user-15.0-c475aea23c.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS2.0.203.0.VPOCNXM
 - android: '15.0'
   codename: tornado
   date: '2026-01-10'
   download: https://bigota.d.miui.com/OS2.0.205.0.VPOEUXM/fw_tornado_tornado_eea_global-ota_full-OS2.0.205.0.VPOEUXM-user-15.0-6e10316750.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS2.0.205.0.VPOEUXM
 - android: '16.0'
   codename: tornado
   date: '2026-03-08'
   download: https://bigota.d.miui.com/OS3.0.1.0.WPOCNXM/fw_tornado_tornado-ota_full-OS3.0.1.0.WPOCNXM-user-16.0-ab891cbcfa.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS3.0.1.0.WPOCNXM
 - android: '16.0'
   codename: tornado
   date: '2026-05-06'
   download: https://bigota.d.miui.com/OS3.0.302.0.WPOCNXM/fw_tornado_tornado-ota_full-OS3.0.302.0.WPOCNXM-user-16.0-fafc57434b.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS3.0.302.0.WPOCNXM
 - android: '16.0'
   codename: tornado
   date: '2026-05-06'
   download: https://bigota.d.miui.com/OS3.0.3.0.WPOMIXM/fw_tornado_tornado_global-ota_full-OS3.0.3.0.WPOMIXM-user-16.0-95ede93430.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS3.0.3.0.WPOMIXM
 - android: '16.0'
   codename: tornado
   date: '2026-04-07'
   download: https://bigota.d.miui.com/OS3.0.2.0.WPOINXM/fw_tornado_tornado_in_global-ota_full-OS3.0.2.0.WPOINXM-user-16.0-6a26a8fd42.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS3.0.2.0.WPOINXM
 - android: '15.0'
   codename: tornado
   date: '2026-06-05'
   download: https://bigota.d.miui.com/OS2.0.209.0.VPOEUXM/fw_tornado_tornado_eea_global-ota_full-OS2.0.209.0.VPOEUXM-user-15.0-bbc6918c8e.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS2.0.209.0.VPOEUXM
 - android: '16.0'
   codename: tornado
   date: '2026-06-03'
   download: https://bigota.d.miui.com/OS3.0.301.0.WPOMIXM/fw_tornado_tornado_global-ota_full-OS3.0.301.0.WPOMIXM-user-16.0-d5e616db1f.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS3.0.301.0.WPOMIXM
 - android: '15.0'
   codename: tornado
   date: '2025-12-01'
   download: https://bigota.d.miui.com/OS2.0.205.0.VPOMIXM/fw_tornado_tornado_global-ota_full-OS2.0.205.0.VPOMIXM-user-15.0-f54a1af708.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS2.0.205.0.VPOMIXM
 - android: '15.0'
   codename: tornado
   date: '2026-03-02'
   download: https://bigota.d.miui.com/OS2.0.204.0.VPOINXM/fw_tornado_tornado_in_global-ota_full-OS2.0.204.0.VPOINXM-user-15.0-9fb9ab7702.zip
-  name: Redmi 15C 5G/15R 5G/POCO C85 5G/TBD
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS2.0.204.0.VPOINXM
 - android: '16.0'
   codename: turner

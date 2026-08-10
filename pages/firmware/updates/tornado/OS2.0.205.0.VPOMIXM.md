@@ -1,7 +1,7 @@
 ---
-title: Redmi 15C 5G / 15R 5G Global Firmware OS2.0.205.0.VPOMIXM Update
+title: Redmi 15C 5G / 15R 5G / 17C 5G Global Firmware OS2.0.205.0.VPOMIXM Update
 layout: download
-name: Redmi 15C 5G / 15R 5G Global
+name: Redmi 15C 5G / 15R 5G / 17C 5G Global
 codename: tornado
 permalink: /firmware/tornado/stable/OS2.0.205.0.VPOMIXM/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/tornado/stable/OS2.0.205.0.VPOMIXM/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item"><a href="/firmware/tornado/">Redmi 15C 5G / 15R 5G Global</a></li>
+        <li class="breadcrumb-item"><a href="/firmware/tornado/">Redmi 15C 5G / 15R 5G / 17C 5G Global</a></li>
         <li class="breadcrumb-item active" aria-current="page">OS2.0.205.0.VPOMIXM</li>
     </ol>
 </nav>
@@ -21,7 +21,7 @@ permalink: /firmware/tornado/stable/OS2.0.205.0.VPOMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">Firmware OS2.0.205.0.VPOMIXM Stable Release for Redmi 15C 5G / 15R 5G Global (tornado)</h3>
+    <h3 class="title bg-light p-2 rounded">Firmware OS2.0.205.0.VPOMIXM Stable Release for Redmi 15C 5G / 15R 5G / 17C 5G Global (tornado)</h3>
     <h5>This page shows the OS2.0.205.0.VPOMIXM update only. If you're looking for other updates check
         <a href="/firmware/tornado/">here.</a></h5>
     <div class="card">
@@ -42,7 +42,7 @@ permalink: /firmware/tornado/stable/OS2.0.205.0.VPOMIXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi 15C 5G / 15R 5G Global</h5>
+                    <h5><b>Device: </b>Redmi 15C 5G / 15R 5G / 17C 5G Global</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/firmware/tornado/" target="_blank">tornado</a> </h5>

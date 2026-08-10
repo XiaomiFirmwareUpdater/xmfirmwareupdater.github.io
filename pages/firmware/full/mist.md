@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 17 5G/POCO M8 Power (mist) Firmware Downloads
+title: Redmi Note 17 5G/POCO M8 Power 5G (mist) Firmware Downloads
 layout: download
-name: Redmi Note 17 5G/POCO M8 Power
+name: Redmi Note 17 5G/POCO M8 Power 5G
 codename: mist
 permalink: /archive/firmware/mist/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/mist/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/mist/">Redmi Note 17 5G/POCO M8 Power</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/mist/">Redmi Note 17 5G/POCO M8 Power 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
