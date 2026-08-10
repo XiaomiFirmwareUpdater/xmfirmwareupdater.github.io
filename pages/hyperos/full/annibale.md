@@ -52,7 +52,8 @@ permalink: /archive/hyperos/annibale/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K90 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.307.0.WPKCNXM</td><td>16.0</td><td>9.0 GB</td><td>2026-07-30</td><td><a href="/hyperos/annibale/stable beta/OS3.0.307.0.WPKCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K90 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.307.0.WPKCNXM</td><td>16.0</td><td>9.0 GB</td><td>2026-07-30</td><td><a href="/hyperos/annibale/stable/OS3.0.307.0.WPKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K90 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.307.0.WPKCNXM</td><td>16.0</td><td>11.9 GB</td><td>2026-07-23</td><td><a href="/hyperos/annibale/stable/OS3.0.307.0.WPKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K90 / POCO F8 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WPKEUXM</td><td>16.0</td><td>7.9 GB</td><td>2026-07-25</td><td><a href="/hyperos/annibale/stable/OS3.0.301.0.WPKEUXM/">Download</a></td></tr>
 <tr><td>Redmi K90 / POCO F8 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WPKEUXM</td><td>16.0</td><td>10.8 GB</td><td>2026-07-16</td><td><a href="/hyperos/annibale/stable/OS3.0.301.0.WPKEUXM/">Download</a></td></tr>
 <tr><td>Redmi K90 / POCO F8 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WPKMIXM</td><td>16.0</td><td>7.9 GB</td><td>2026-07-25</td><td><a href="/hyperos/annibale/stable/OS3.0.301.0.WPKMIXM/">Download</a></td></tr>
@@ -71,10 +72,10 @@ permalink: /archive/hyperos/annibale/
 <tr><td>Redmi K90 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.24.0.WPKCNXM</td><td>16.0</td><td>11.5 GB</td><td>2026-01-27</td><td><a href="/hyperos/annibale/stable/OS3.0.24.0.WPKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K90 / POCO F8 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WPKTRXM</td><td>16.0</td><td>7.7 GB</td><td>2026-01-13</td><td><a href="/hyperos/annibale/stable/OS3.0.3.0.WPKTRXM/">Download</a></td></tr>
 <tr><td>Redmi K90 / POCO F8 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WPKTRXM</td><td>16.0</td><td>10.2 GB</td><td>2026-01-04</td><td><a href="/hyperos/annibale/stable/OS3.0.3.0.WPKTRXM/">Download</a></td></tr>
-<tr><td>Redmi K90 / POCO F8 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WPKTWXM</td><td>16.0</td><td>7.6 GB</td><td>2026-01-13</td><td><a href="/hyperos/annibale/stable/OS3.0.4.0.WPKTWXM/">Download</a></td></tr>
-<tr><td>Redmi K90 / POCO F8 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WPKTWXM</td><td>16.0</td><td>8.9 GB</td><td>2026-01-04</td><td><a href="/hyperos/annibale/stable/OS3.0.4.0.WPKTWXM/">Download</a></td></tr>
 <tr><td>Redmi K90 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WPKCNXM</td><td>16.0</td><td>9.0 GB</td><td>2026-03-11</td><td><a href="/hyperos/annibale/stable/OS3.0.303.0.WPKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K90 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WPKCNXM</td><td>16.0</td><td>11.8 GB</td><td>2026-03-07</td><td><a href="/hyperos/annibale/stable/OS3.0.303.0.WPKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K90 / POCO F8 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.WPKTWXM</td><td>16.0</td><td>7.6 GB</td><td>2026-01-13</td><td><a href="/hyperos/annibale/stable/OS3.0.4.0.WPKTWXM/">Download</a></td></tr>
+<tr><td>Redmi K90 / POCO F8 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.WPKTWXM</td><td>16.0</td><td>8.9 GB</td><td>2026-01-04</td><td><a href="/hyperos/annibale/stable/OS3.0.4.0.WPKTWXM/">Download</a></td></tr>
 <tr><td>Redmi K90 / POCO F8 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.8.0.WPKMIXM</td><td>16.0</td><td>7.8 GB</td><td>2026-01-04</td><td><a href="/hyperos/annibale/stable/OS3.0.8.0.WPKMIXM/">Download</a></td></tr>
 <tr><td>Redmi K90 / POCO F8 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.8.0.WPKMIXM</td><td>16.0</td><td>11.5 GB</td><td>2025-12-24</td><td><a href="/hyperos/annibale/stable/OS3.0.8.0.WPKMIXM/">Download</a></td></tr>
 <tr><td>Redmi K90 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.20.0.WPKCNXM</td><td>16.0</td><td>8.9 GB</td><td>2025-12-28</td><td><a href="/hyperos/annibale/stable/OS3.0.20.0.WPKCNXM/">Download</a></td></tr>
