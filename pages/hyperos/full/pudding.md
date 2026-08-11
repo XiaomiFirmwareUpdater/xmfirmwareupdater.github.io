@@ -52,8 +52,10 @@ permalink: /archive/hyperos/pudding/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 17 Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WPCMIXM</td><td>16.0</td><td>8.1 GB</td><td>2026-07-22</td><td><a href="/hyperos/pudding/stable/OS3.0.303.0.WPCMIXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 17 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.318.0.WPCCNXM</td><td>16.0</td><td>8.1 GB</td><td>2026-08-07</td><td><a href="/hyperos/pudding/stable beta/OS3.0.318.0.WPCCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WPCMIXM</td><td>16.0</td><td>8.1 GB</td><td>2026-07-22</td><td><a href="/hyperos/pudding/stable/OS3.0.303.0.WPCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WPCMIXM</td><td>16.0</td><td>10.6 GB</td><td>2026-06-30</td><td><a href="/hyperos/pudding/stable/OS3.0.303.0.WPCMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.317.0.WPCCNXM</td><td>16.0</td><td>8.1 GB</td><td>2026-07-22</td><td><a href="/hyperos/pudding/stable beta/OS3.0.317.0.WPCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.332.0.XPCMIXM</td><td>17.0</td><td>8.2 GB</td><td>2026-07-13</td><td><a href="/hyperos/pudding/stable beta/OS3.0.332.0.XPCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.331.0.XPCEUXM</td><td>17.0</td><td>8.3 GB</td><td>2026-07-13</td><td><a href="/hyperos/pudding/stable beta/OS3.0.331.0.XPCEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.331.0.XPCINXM</td><td>17.0</td><td>7.9 GB</td><td>2026-07-13</td><td><a href="/hyperos/pudding/stable beta/OS3.0.331.0.XPCINXM/">Download</a></td></tr>
@@ -83,20 +85,20 @@ permalink: /archive/hyperos/pudding/
 <tr><td>Xiaomi 17 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.306.0.WPCCNXM</td><td>16.0</td><td>11.5 GB</td><td>2026-04-07</td><td><a href="/hyperos/pudding/stable/OS3.0.306.0.WPCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.305.0.WPCCNXM</td><td>16.0</td><td>8.1 GB</td><td>2026-03-27</td><td><a href="/hyperos/pudding/stable/OS3.0.305.0.WPCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.305.0.WPCCNXM</td><td>16.0</td><td>11.5 GB</td><td>2026-03-20</td><td><a href="/hyperos/pudding/stable/OS3.0.305.0.WPCCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 17 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.44.0.WPCCNXM</td><td>16.0</td><td>7.8 GB</td><td>2026-02-03</td><td><a href="/hyperos/pudding/stable/OS3.0.44.0.WPCCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 17 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.44.0.WPCCNXM</td><td>16.0</td><td>11.3 GB</td><td>2026-01-31</td><td><a href="/hyperos/pudding/stable/OS3.0.44.0.WPCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WPCTRXM</td><td>16.0</td><td>7.9 GB</td><td>2026-04-22</td><td><a href="/hyperos/pudding/stable/OS3.0.301.0.WPCTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WPCTRXM</td><td>16.0</td><td>9.4 GB</td><td>2026-04-08</td><td><a href="/hyperos/pudding/stable/OS3.0.301.0.WPCTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WPCRUXM</td><td>16.0</td><td>7.8 GB</td><td>2026-04-22</td><td><a href="/hyperos/pudding/stable/OS3.0.301.0.WPCRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WPCRUXM</td><td>16.0</td><td>10.4 GB</td><td>2026-04-07</td><td><a href="/hyperos/pudding/stable/OS3.0.301.0.WPCRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WPCIDXM</td><td>16.0</td><td>7.9 GB</td><td>2026-04-14</td><td><a href="/hyperos/pudding/stable/OS3.0.301.0.WPCIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WPCIDXM</td><td>16.0</td><td>9.7 GB</td><td>2026-04-07</td><td><a href="/hyperos/pudding/stable/OS3.0.301.0.WPCIDXM/">Download</a></td></tr>
-<tr><td>Xiaomi 17 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.41.0.WPCCNXM</td><td>16.0</td><td>7.7 GB</td><td>2026-01-22</td><td><a href="/hyperos/pudding/stable/OS3.0.41.0.WPCCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 17 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.41.0.WPCCNXM</td><td>16.0</td><td>11.1 GB</td><td>2026-01-15</td><td><a href="/hyperos/pudding/stable/OS3.0.41.0.WPCCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.44.0.WPCCNXM</td><td>16.0</td><td>7.8 GB</td><td>2026-02-03</td><td><a href="/hyperos/pudding/stable/OS3.0.44.0.WPCCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.44.0.WPCCNXM</td><td>16.0</td><td>11.3 GB</td><td>2026-01-31</td><td><a href="/hyperos/pudding/stable/OS3.0.44.0.WPCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 India</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WPCINXM</td><td>16.0</td><td>7.7 GB</td><td>2026-04-08</td><td><a href="/hyperos/pudding/stable/OS3.0.301.0.WPCINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WPCINXM</td><td>16.0</td><td>8.6 GB</td><td>2026-03-31</td><td><a href="/hyperos/pudding/stable/OS3.0.301.0.WPCINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WPCMIXM</td><td>16.0</td><td>7.9 GB</td><td>2026-04-08</td><td><a href="/hyperos/pudding/stable/OS3.0.301.0.WPCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WPCMIXM</td><td>16.0</td><td>10.5 GB</td><td>2026-03-27</td><td><a href="/hyperos/pudding/stable/OS3.0.301.0.WPCMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.41.0.WPCCNXM</td><td>16.0</td><td>7.7 GB</td><td>2026-01-22</td><td><a href="/hyperos/pudding/stable/OS3.0.41.0.WPCCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.41.0.WPCCNXM</td><td>16.0</td><td>11.1 GB</td><td>2026-01-15</td><td><a href="/hyperos/pudding/stable/OS3.0.41.0.WPCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.40.0.WPCCNXM</td><td>16.0</td><td>7.8 GB</td><td>2026-01-08</td><td><a href="/hyperos/pudding/stable/OS3.0.40.0.WPCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.40.0.WPCCNXM</td><td>16.0</td><td>11.1 GB</td><td>2026-01-07</td><td><a href="/hyperos/pudding/stable/OS3.0.40.0.WPCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.36.0.WPCCNXM</td><td>16.0</td><td>7.6 GB</td><td>2025-12-18</td><td><a href="/hyperos/pudding/stable/OS3.0.36.0.WPCCNXM/">Download</a></td></tr>
