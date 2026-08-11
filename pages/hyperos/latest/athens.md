@@ -1,15 +1,15 @@
 ---
-title: Redmi K Pad/Xiaomi Pad Mini (turner) HyperOS Downloads
+title: Redmi K100 Pro (athens) HyperOS Downloads
 layout: download
-name: Redmi K Pad/Xiaomi Pad Mini
-codename: turner
-permalink: /hyperos/turner/
+name: Redmi K100 Pro
+codename: athens
+permalink: /hyperos/athens/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/turner/">Redmi K Pad/Xiaomi Pad Mini</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/athens/">Redmi K100 Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /hyperos/turner/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/hyperos/turner/" class="card-link">HyperOS Archive</a>
-    <a href="/firmware/turner/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/turner/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/hyperos/athens/" class="card-link">HyperOS Archive</a>
+    <a href="/firmware/athens/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/athens/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,13 +52,9 @@ permalink: /hyperos/turner/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K Pad China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.307.0.WAOCNXM</td><td>16.0</td><td>8.9 GB</td><td>2026-07-14</td><td><a href="/hyperos/turner/stable/OS3.0.307.0.WAOCNXM/">Download</a></td></tr>
-<tr><td>Redmi K Pad China</td><td>Stable</td><td>Recovery</td><td>OS3.0.307.0.WAOCNXM</td><td>16.0</td><td>7.7 GB</td><td>2026-07-24</td><td><a href="/hyperos/turner/stable/OS3.0.307.0.WAOCNXM/">Download</a></td></tr>
-<tr><td>Redmi K Pad China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.203.0.VAOCNXM</td><td>15.0</td><td>7.3 GB</td><td>2025-06-26</td><td><a href="/hyperos/turner/stable beta/OS2.0.203.0.VAOCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad Mini Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WAOMIXM</td><td>16.0</td><td>8.2 GB</td><td>2026-06-23</td><td><a href="/hyperos/turner/stable/OS3.0.303.0.WAOMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad Mini Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WAOMIXM</td><td>16.0</td><td>6.3 GB</td><td>2026-07-09</td><td><a href="/hyperos/turner/stable/OS3.0.303.0.WAOMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad Mini Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WAOTWXM</td><td>16.0</td><td>7.3 GB</td><td>2026-07-14</td><td><a href="/hyperos/turner/stable/OS3.0.302.0.WAOTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad Mini Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WAOTWXM</td><td>16.0</td><td>6.2 GB</td><td>2026-07-23</td><td><a href="/hyperos/turner/stable/OS3.0.302.0.WAOTWXM/">Download</a></td></tr>
+                <tr><td>Redmi K100 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.306.0.WPICNXM</td><td>16.0</td><td>12.2 GB</td><td>2026-08-05</td><td><a href="/hyperos/athens/stable/OS3.0.306.0.WPICNXM/">Download</a></td></tr>
+<tr><td>Redmi K100 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WPICNXM</td><td>16.0</td><td>9.3 GB</td><td>2026-08-11</td><td><a href="/hyperos/athens/stable/OS3.0.306.0.WPICNXM/">Download</a></td></tr>
+<tr><td>Redmi K100 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WPICNXM</td><td>16.0</td><td>9.3 GB</td><td>2026-08-11</td><td><a href="/hyperos/athens/stable beta/OS3.0.302.0.WPICNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
