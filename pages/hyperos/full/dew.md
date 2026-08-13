@@ -52,7 +52,8 @@ permalink: /archive/hyperos/dew/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 15C / POCO C85 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.306.0.WBNMIXM</td><td>16.0</td><td>4.9 GB</td><td>2026-07-31</td><td><a href="/hyperos/dew/stable beta/OS3.0.306.0.WBNMIXM/">Download</a></td></tr>
+                <tr><td>Redmi 15C / POCO C85 Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WBNMIXM</td><td>16.0</td><td>4.9 GB</td><td>2026-07-31</td><td><a href="/hyperos/dew/stable/OS3.0.306.0.WBNMIXM/">Download</a></td></tr>
+<tr><td>Redmi 15C / POCO C85 Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.306.0.WBNMIXM</td><td>16.0</td><td>8.1 GB</td><td>2026-07-21</td><td><a href="/hyperos/dew/stable/OS3.0.306.0.WBNMIXM/">Download</a></td></tr>
 <tr><td>Redmi 15C / POCO C85 Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WBNTRXM</td><td>16.0</td><td>4.9 GB</td><td>2026-07-31</td><td><a href="/hyperos/dew/stable/OS3.0.301.0.WBNTRXM/">Download</a></td></tr>
 <tr><td>Redmi 15C / POCO C85 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WBNTRXM</td><td>16.0</td><td>7.2 GB</td><td>2026-07-23</td><td><a href="/hyperos/dew/stable/OS3.0.301.0.WBNTRXM/">Download</a></td></tr>
 <tr><td>Redmi 15C / POCO C85 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WBNIDXM</td><td>16.0</td><td>4.9 GB</td><td>2026-07-21</td><td><a href="/hyperos/dew/stable beta/OS3.0.301.0.WBNIDXM/">Download</a></td></tr>
