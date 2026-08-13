@@ -54,6 +54,7 @@ permalink: /hyperos/flute/
                 <tbody>
                 <tr><td>Redmi Pad 2 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.307.0.WPWCNXM</td><td>16.0</td><td>9.1 GB</td><td>2026-07-03</td><td><a href="/hyperos/flute/stable/OS3.0.307.0.WPWCNXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.307.0.WPWCNXM</td><td>16.0</td><td>7.6 GB</td><td>2026-07-15</td><td><a href="/hyperos/flute/stable/OS3.0.307.0.WPWCNXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.308.0.WPWCNXM</td><td>16.0</td><td>7.6 GB</td><td>2026-08-10</td><td><a href="/hyperos/flute/stable beta/OS3.0.308.0.WPWCNXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Pro / POCO Pad M1 EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WPWEUXM</td><td>16.0</td><td>6.6 GB</td><td>2026-06-30</td><td><a href="/hyperos/flute/stable/OS3.0.302.0.WPWEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Pro / POCO Pad M1 EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WPWEUXM</td><td>16.0</td><td>5.2 GB</td><td>2026-07-09</td><td><a href="/hyperos/flute/stable/OS3.0.302.0.WPWEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Pro / POCO Pad M1 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WPWEUXM</td><td>16.0</td><td>5.2 GB</td><td>2026-08-07</td><td><a href="/hyperos/flute/stable beta/OS3.0.303.0.WPWEUXM/">Download</a></td></tr>
