@@ -52,7 +52,9 @@ permalink: /archive/miui/fuxi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 13 EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.9.0.UMCEUXM</td><td>14.0</td><td>5.9 GB</td><td>2023-11-21</td><td><a href="/miui/fuxi/stable/V14.0.9.0.UMCEUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 13 China</td><td>Stable</td><td>Recovery</td><td>V14.0.32.0.TMCCNXM</td><td>13.0</td><td>6.7 GB</td><td>2026-08-06</td><td><a href="/miui/fuxi/stable/V14.0.32.0.TMCCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.32.0.TMCCNXM</td><td>13.0</td><td>7.9 GB</td><td>2026-07-30</td><td><a href="/miui/fuxi/stable/V14.0.32.0.TMCCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.9.0.UMCEUXM</td><td>14.0</td><td>5.9 GB</td><td>2023-11-21</td><td><a href="/miui/fuxi/stable/V14.0.9.0.UMCEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.9.0.UMCEUXM</td><td>14.0</td><td>7.7 GB</td><td>2023-11-16</td><td><a href="/miui/fuxi/stable/V14.0.9.0.UMCEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 China</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.UMCCNXM</td><td>14.0</td><td>6.5 GB</td><td>2023-11-07</td><td><a href="/miui/fuxi/stable/V14.0.5.0.UMCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.UMCCNXM</td><td>14.0</td><td>8.3 GB</td><td>2023-11-03</td><td><a href="/miui/fuxi/stable/V14.0.5.0.UMCCNXM/">Download</a></td></tr>
