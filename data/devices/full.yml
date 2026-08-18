@@ -21462,22 +21462,22 @@
   date: '2024-11-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-14.11.2024/fw_eea_corot_eea_global-ota_full-OS1.1.5.0.VMLEUXM-user-15.0-03d35d5f95.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/eea/corot/fw_eea_corot_eea_global-ota_full-OS1.1.5.0.VMLEUXM-user-15.0-03d35d5f95.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/corot/fw_eea_corot_eea_global-ota_full-OS1.1.5.0.VMLEUXM-user-15.0-03d35d5f95.zip
   filename: fw_eea_corot_eea_global-ota_full-OS1.1.5.0.VMLEUXM-user-15.0-03d35d5f95.zip
-  region: China
+  region: Europe
   versions:
-    android: full-OS1.1.5.0.VMLEUXM-user-15.0-03d35d5f95
-    miui: eea
+    android: '15.0'
+    miui: OS1.1.5.0.VMLEUXM
 - branch: stable
   date: '2024-11-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-13.11.2024/fw_global-ota_corot_global-ota_full-OS1.1.4.0.VMLMIXM-user-15.0-3734f0c91f.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/corot/corot/fw_global-ota_corot_global-ota_full-OS1.1.4.0.VMLMIXM-user-15.0-3734f0c91f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/ota_full/corot/fw_global-ota_corot_global-ota_full-OS1.1.4.0.VMLMIXM-user-15.0-3734f0c91f.zip
   filename: fw_global-ota_corot_global-ota_full-OS1.1.4.0.VMLMIXM-user-15.0-3734f0c91f.zip
   region: China
   versions:
-    android: full-OS1.1.4.0.VMLMIXM-user-15.0-3734f0c91f
-    miui: corot
+    android: '15.0'
+    miui: ota_full
 - branch: stable
   date: '2024-07-12'
   downloads:
@@ -47962,22 +47962,22 @@
   date: '2024-11-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-05.11.2024/fw_eea_houji_eea_global-ota_full-OS1.1.4.0.VNCEUXM-user-15.0-30383d3fc3.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/eea/houji/fw_eea_houji_eea_global-ota_full-OS1.1.4.0.VNCEUXM-user-15.0-30383d3fc3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_eea_houji_eea_global-ota_full-OS1.1.4.0.VNCEUXM-user-15.0-30383d3fc3.zip
   filename: fw_eea_houji_eea_global-ota_full-OS1.1.4.0.VNCEUXM-user-15.0-30383d3fc3.zip
-  region: China
+  region: Europe
   versions:
-    android: full-OS1.1.4.0.VNCEUXM-user-15.0-30383d3fc3
-    miui: eea
+    android: '15.0'
+    miui: OS1.1.4.0.VNCEUXM
 - branch: stable
   date: '2024-11-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-05.11.2024/fw_global-ota_houji_global-ota_full-OS1.1.3.0.VNCMIXM-user-15.0-a5c05e8590.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/houji/houji/fw_global-ota_houji_global-ota_full-OS1.1.3.0.VNCMIXM-user-15.0-a5c05e8590.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/ota_full/houji/fw_global-ota_houji_global-ota_full-OS1.1.3.0.VNCMIXM-user-15.0-a5c05e8590.zip
   filename: fw_global-ota_houji_global-ota_full-OS1.1.3.0.VNCMIXM-user-15.0-a5c05e8590.zip
   region: China
   versions:
-    android: full-OS1.1.3.0.VNCMIXM-user-15.0-a5c05e8590
-    miui: houji
+    android: '15.0'
+    miui: ota_full
 - branch: stable
   date: '2024-04-05'
   downloads:
