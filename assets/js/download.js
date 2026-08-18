@@ -50,8 +50,8 @@ $(document).ready(async function () {
     history.pushState(window.location.href, null, window.location.origin + window.location.pathname);
     const filename = vars.file;
     let codename, device, version, android;
-    if (filename.includes("-OS2.")) {
-        // fw_dada_dada-ota_full-OS2.0.12.0.VOCCNXM-user-15.0-5b863df2e2.zip
+    if (/-OS\d+\./.test(filename)) {
+        // fw_dada_dada-ota_full-OS4.0.1.0.XPCCNXM-user-17.0-hash.zip
         let parts = filename.split("-");
         codename = parts[0].split("_")[1];
         device = parts[0].split("_")[2];

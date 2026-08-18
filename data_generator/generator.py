@@ -141,8 +141,8 @@ def load_releases():
             for asset in item["assets"]:
                 date = asset["updated_at"][:10]
                 filename = asset["name"]
-                if re.search(r"-OS(?:2|3)\.", filename):
-                    # fw_dada_dada-ota_full-OS2.0.12.0.VOCCNXM-user-15.0-5b863df2e2.zip
+                if re.search(r"-OS\d+\.", filename):
+                    # fw_dada_dada-ota_full-OS4.0.1.0.XPCCNXM-user-17.0-hash.zip
                     miui_version = filename.split("-")[2]
                     android = filename.split("-")[-2]
                 else:
@@ -282,9 +282,7 @@ def load_releases():
             for version_name, version_updates_list in {
                 "V13.": miui13,
                 "V14.": miui14,
-                "OS1.": hyperos,
-                "OS2.": hyperos,
-                "OS3.": hyperos,
+                "OS": hyperos,
             }.items():
                 if update["versions"]["miui"].startswith(version_name):
                     codename = update["filename"].split("_")[1]
