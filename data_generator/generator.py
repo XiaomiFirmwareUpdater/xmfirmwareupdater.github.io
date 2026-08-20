@@ -56,16 +56,31 @@ miui_update_template = Template(Path("update.template").read_text())
 
 
 def get_data_from_github(url):
+    response = head(url, headers=HEADER)
+    response.raise_for_status()
+    last = response.links.get("last")
+    urls = (
+        [f"{url}&page={i}" for i in range(1, int(last["url"].split("=")[-1]) + 1)]
+        if last
+        else [url]
+    )
     data = []
-    last = head(url, headers=HEADER).links.get("last")
-    if last:
-        last = last.get("url").split("=")[-1]
-        for i in range(1, int(last) + 1):
-            for j in get(f"{url}&page={i}", headers=HEADER).json():
-                data.append(j)
-    else:
-        data = get(url, headers=HEADER).json()
+    for page_url in urls:
+        response = get(page_url, headers=HEADER)
+        response.raise_for_status()
+        page = response.json()
+        if not isinstance(page, list):
+            raise ValueError(f"Expected a list from {page_url}")
+        data.extend(page)
     return data
+
+
+def get_firmware_codename(update):
+    return (
+        update["downloads"]["github"]
+        .split("/firmware_xiaomi_", 1)[1]
+        .split("/", 1)[0]
+    )
 
 
 ORG = get_data_from_github(
@@ -242,7 +257,7 @@ def load_releases():
             date_array = date.split("-")
             if int(date_array[0]) in (2020, 2021) and int(date_array[1]) >= 4:
                 filename = update["filename"]
-                codename = filename.split("_")[1]
+                codename = get_firmware_codename(update)
                 name = FW_DEVICES[codename]
                 filename = "_".join(filename.split("_")[2:])
                 version = update["versions"]["miui"]
@@ -266,7 +281,7 @@ def load_releases():
                 if (
                     version_array[1] == "12" and version_array[2] >= "27"
                 ) or version_array[0] == "22":
-                    codename = update["filename"].split("_")[1]
+                    codename = get_firmware_codename(update)
                     miui13.append(
                         {
                             "name": FW_DEVICES[codename],
@@ -285,7 +300,7 @@ def load_releases():
                 "OS": hyperos,
             }.items():
                 if update["versions"]["miui"].startswith(version_name):
-                    codename = update["filename"].split("_")[1]
+                    codename = get_firmware_codename(update)
                     version_updates_list.append(
                         {
                             "name": FW_DEVICES[codename],
@@ -698,7 +713,7 @@ def generate_rss():
     )
     rss_items = []
     for update in data:
-        codename = update["filename"].split("_")[1]
+        codename = get_firmware_codename(update)
         rss_item = {
             "title": f"{NAMES[codename]} ({codename}) - {update['versions']['miui']}",
             "link": f"https://xmfirmwareupdater.com/firmware/{codename}/",
