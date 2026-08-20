@@ -52,7 +52,8 @@ permalink: /archive/hyperos/mist/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO M8 Power 5G / Redmi Note 17 5G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WPUINXM</td><td>16.0</td><td>4.7 GB</td><td>2026-08-12</td><td><a href="/hyperos/mist/stable/OS3.0.304.0.WPUINXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 17 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.311.0.WPUCNXM</td><td>16.0</td><td>5.6 GB</td><td>2026-08-20</td><td><a href="/hyperos/mist/stable beta/OS3.0.311.0.WPUCNXM/">Download</a></td></tr>
+<tr><td>POCO M8 Power 5G / Redmi Note 17 5G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WPUINXM</td><td>16.0</td><td>4.7 GB</td><td>2026-08-12</td><td><a href="/hyperos/mist/stable/OS3.0.304.0.WPUINXM/">Download</a></td></tr>
 <tr><td>POCO M8 Power 5G / Redmi Note 17 5G India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WPUINXM</td><td>16.0</td><td>6.6 GB</td><td>2026-07-22</td><td><a href="/hyperos/mist/stable/OS3.0.304.0.WPUINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.310.0.WPUCNXM</td><td>16.0</td><td>5.6 GB</td><td>2026-08-01</td><td><a href="/hyperos/mist/stable/OS3.0.310.0.WPUCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 5G China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.310.0.WPUCNXM</td><td>16.0</td><td>7.8 GB</td><td>2026-07-30</td><td><a href="/hyperos/mist/stable/OS3.0.310.0.WPUCNXM/">Download</a></td></tr>
