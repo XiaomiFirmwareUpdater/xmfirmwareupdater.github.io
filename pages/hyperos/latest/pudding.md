@@ -63,6 +63,7 @@ permalink: /hyperos/pudding/
 <tr><td>Xiaomi 17 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.332.0.XPCMIXM</td><td>17.0</td><td>8.2 GB</td><td>2026-07-13</td><td><a href="/hyperos/pudding/stable beta/OS3.0.332.0.XPCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WPCIDXM</td><td>16.0</td><td>9.7 GB</td><td>2026-05-15</td><td><a href="/hyperos/pudding/stable/OS3.0.302.0.WPCIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WPCIDXM</td><td>16.0</td><td>7.9 GB</td><td>2026-05-25</td><td><a href="/hyperos/pudding/stable/OS3.0.302.0.WPCIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WPCIDXM</td><td>16.0</td><td>7.9 GB</td><td>2026-08-14</td><td><a href="/hyperos/pudding/stable beta/OS3.0.303.0.WPCIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WPCINXM</td><td>16.0</td><td>8.7 GB</td><td>2026-07-23</td><td><a href="/hyperos/pudding/stable/OS3.0.304.0.WPCINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 India</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WPCINXM</td><td>16.0</td><td>7.7 GB</td><td>2026-08-05</td><td><a href="/hyperos/pudding/stable/OS3.0.304.0.WPCINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.331.0.XPCINXM</td><td>17.0</td><td>7.9 GB</td><td>2026-07-13</td><td><a href="/hyperos/pudding/stable beta/OS3.0.331.0.XPCINXM/">Download</a></td></tr>
@@ -71,10 +72,9 @@ permalink: /hyperos/pudding/
 <tr><td>Xiaomi 17 Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WPCRUXM</td><td>16.0</td><td>7.8 GB</td><td>2026-08-14</td><td><a href="/hyperos/pudding/stable beta/OS3.0.303.0.WPCRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WPCTRXM</td><td>16.0</td><td>9.4 GB</td><td>2026-05-15</td><td><a href="/hyperos/pudding/stable/OS3.0.302.0.WPCTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WPCTRXM</td><td>16.0</td><td>7.9 GB</td><td>2026-05-25</td><td><a href="/hyperos/pudding/stable/OS3.0.302.0.WPCTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 17 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WPCIDXM</td><td>16.0</td><td>7.6 GB</td><td>2026-02-28</td><td><a href="/hyperos/pudding/stable beta/OS3.0.3.0.WPCIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WPCTRXM</td><td>16.0</td><td>7.6 GB</td><td>2026-02-28</td><td><a href="/hyperos/pudding/stable beta/OS3.0.3.0.WPCTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WPCTWXM</td><td>16.0</td><td>8.9 GB</td><td>2026-05-11</td><td><a href="/hyperos/pudding/stable/OS3.0.302.0.WPCTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WPCTWXM</td><td>16.0</td><td>7.7 GB</td><td>2026-05-20</td><td><a href="/hyperos/pudding/stable/OS3.0.302.0.WPCTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 17 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WPCTRXM</td><td>16.0</td><td>7.6 GB</td><td>2026-02-28</td><td><a href="/hyperos/pudding/stable beta/OS3.0.3.0.WPCTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WPCTWXM</td><td>16.0</td><td>7.5 GB</td><td>2026-02-28</td><td><a href="/hyperos/pudding/stable beta/OS3.0.3.0.WPCTWXM/">Download</a></td></tr>
 
                 </tbody>

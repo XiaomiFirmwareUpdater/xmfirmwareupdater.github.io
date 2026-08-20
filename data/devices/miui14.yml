@@ -4241,10 +4241,10 @@
   name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
   version: V14.0.6.0.TKUINXM
 - android: '13.0'
-  codename: selene
+  codename: selenes
   date: '2023-05-24'
   download: https://bigota.d.miui.com/V14.0.2.0.TKUCNXM/fw_selene_miui_SELENE_V14.0.2.0.TKUCNXM_f349844cfd_13.0.zip
-  name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
+  name: Redmi Note 11 4G/Redmi 10 2022
   version: V14.0.2.0.TKUCNXM
 - android: '13.0'
   codename: sky

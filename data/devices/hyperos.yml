@@ -3358,6 +3358,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.UMLMIXM/fw_corot_miui_COROTGlobal_OS1.0.1.0.UMLMIXM_af2d36f698_14.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
   version: OS1.0.1.0.UMLMIXM
+- android: '15.0'
+  codename: corot
+  date: '2024-11-14'
+  download: https://bigota.d.miui.com/OS1.1.5.0.VMLEUXM/fw_eea_corot_eea_global-ota_full-OS1.1.5.0.VMLEUXM-user-15.0-03d35d5f95.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS1.1.5.0.VMLEUXM
 - android: '14.0'
   codename: corot
   date: '2024-07-12'
@@ -6929,16 +6935,16 @@
   name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS3.0.301.0.WFOEUXM
 - android: '14.0'
-  codename: emeraldr
+  codename: emerald
   date: '2025-04-25'
   download: https://bigota.d.miui.com/OS1.0.6.0.UFOMIXM/fw_emeraldr_miui_EMERALDRGlobal_OS1.0.6.0.UFOMIXM_c01fdf7c83_14.0.zip
-  name: POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.6.0.UFOMIXM
 - android: '14.0'
-  codename: emeraldr
+  codename: emerald
   date: '2025-03-25'
   download: https://bigota.d.miui.com/OS1.0.5.0.UFOEUXM/fw_emeraldr_miui_EMERALDREEAGlobal_OS1.0.5.0.UFOEUXM_bdbfe66279_14.0.zip
-  name: POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.5.0.UFOEUXM
 - android: '16.0'
   codename: emerald
@@ -7007,16 +7013,16 @@
   name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS2.0.210.0.VNFMIXM
 - android: '14.0'
-  codename: emeraldr
+  codename: emerald
   date: '2025-05-19'
   download: https://bigota.d.miui.com/OS1.0.6.0.UFOEUXM/fw_emeraldr_miui_EMERALDREEAGlobal_OS1.0.6.0.UFOEUXM_5347d7cd89_14.0.zip
-  name: POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.6.0.UFOEUXM
 - android: '14.0'
-  codename: emeraldr
+  codename: emerald
   date: '2025-06-16'
   download: https://bigota.d.miui.com/OS1.0.8.0.UFOEUXM/fw_emeraldr_miui_EMERALDREEAGlobal_OS1.0.8.0.UFOEUXM_af60e66438_14.0.zip
-  name: POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.8.0.UFOEUXM
 - android: '14.0'
   codename: emerald
@@ -7109,10 +7115,10 @@
   name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS2.0.202.0.VFOMIXM
 - android: '14.0'
-  codename: emeraldr
+  codename: emerald
   date: '2025-06-11'
   download: https://bigota.d.miui.com/OS1.0.8.0.UFOMIXM/fw_emeraldr_miui_EMERALDRGlobal_OS1.0.8.0.UFOMIXM_e1ac0653cc_14.0.zip
-  name: POCO M6 Pro
+  name: Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S
   version: OS1.0.8.0.UFOMIXM
 - android: '15.0'
   codename: emerald
@@ -11320,6 +11326,12 @@
   download: https://bigota.d.miui.com/OS1.0.6.0.UNCINXM/fw_houji_miui_HOUJIINGlobal_OS1.0.6.0.UNCINXM_288e04cd18_14.0.zip
   name: Xiaomi 14
   version: OS1.0.6.0.UNCINXM
+- android: '15.0'
+  codename: houji
+  date: '2024-11-05'
+  download: https://bigota.d.miui.com/OS1.1.4.0.VNCEUXM/fw_eea_houji_eea_global-ota_full-OS1.1.4.0.VNCEUXM-user-15.0-30383d3fc3.zip
+  name: Xiaomi 14
+  version: OS1.1.4.0.VNCEUXM
 - android: '14.0'
   codename: houji
   date: '2024-04-05'
@@ -24233,10 +24245,10 @@
   name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
   version: OS1.0.9.0.UNBCNXM
 - android: '14.0'
-  codename: shennongt
+  codename: shennong
   date: '2024-06-29'
   download: https://bigota.d.miui.com/OS1.0.5.0.UNDCNXM/fw_shennongt_miui_SHENNONGT_OS1.0.5.0.UNDCNXM_85ab142ff8_14.0.zip
-  name: Xiaomi 14 Pro Ti Satellite
+  name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
   version: OS1.0.5.0.UNDCNXM
 - android: '16.0'
   codename: shennong
@@ -24263,10 +24275,10 @@
   name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
   version: OS2.0.11.0.VNBCNXM
 - android: '14.0'
-  codename: shennongt
+  codename: shennong
   date: '2024-02-27'
   download: https://bigota.d.miui.com/OS1.0.2.0.UNDCNXM/fw_shennongt_miui_SHENNONGT_OS1.0.2.0.UNDCNXM_3036941359_14.0.zip
-  name: Xiaomi 14 Pro Ti Satellite
+  name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
   version: OS1.0.2.0.UNDCNXM
 - android: '14.0'
   codename: shennong
@@ -24287,16 +24299,16 @@
   name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
   version: OS3.0.9.0.WNBCNXM
 - android: '14.0'
-  codename: shennongt
+  codename: shennong
   date: '2024-08-21'
   download: https://bigota.d.miui.com/OS1.0.7.0.UNDCNXM/fw_shennongt_miui_SHENNONGT_OS1.0.7.0.UNDCNXM_4b29ecc269_14.0.zip
-  name: Xiaomi 14 Pro Ti Satellite
+  name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
   version: OS1.0.7.0.UNDCNXM
 - android: '14.0'
-  codename: shennongt
+  codename: shennong
   date: '2024-03-20'
   download: https://bigota.d.miui.com/OS1.0.3.0.UNDCNXM/fw_shennongt_miui_SHENNONGT_OS1.0.3.0.UNDCNXM_bab6d895b9_14.0.zip
-  name: Xiaomi 14 Pro Ti Satellite
+  name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
   version: OS1.0.3.0.UNDCNXM
 - android: '15.0'
   codename: shennong

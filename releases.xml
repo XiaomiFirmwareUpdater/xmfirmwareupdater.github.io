@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 18 Aug 2026 12:37:49 </lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 12:54:01 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 17T (chagall) - OS3.0.307.0.WPTCNXM</title>
@@ -2392,8 +2392,8 @@
             <pubDate>Thu, 25 May 2023 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V14.0.2.0.TKUCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/selene/</link>
+            <title>Redmi Note 11 4G/Redmi 10 2022 (selenes) - V14.0.2.0.TKUCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/selenes/</link>
             <pubDate>Wed, 24 May 2023 00:00:00 </pubDate>
         </item>
         <item>
@@ -3042,8 +3042,8 @@
             <pubDate>Mon, 15 Nov 2021 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Y3 (onc) - V12.5.3.0.QFLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/onc/</link>
+            <title>Redmi 7 (onclite) - V12.5.3.0.QFLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/onclite/</link>
             <pubDate>Thu, 11 Nov 2021 00:00:00 </pubDate>
         </item>
         <item>
@@ -3107,8 +3107,8 @@
             <pubDate>Mon, 13 Sep 2021 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Y3 (onc) - V11.0.3.0.QFLEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/onc/</link>
+            <title>Redmi 7 (onclite) - V11.0.3.0.QFLEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/onclite/</link>
             <pubDate>Tue, 24 Aug 2021 00:00:00 </pubDate>
         </item>
         <item>

@@ -4511,22 +4511,22 @@
   name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
   version: V13.0.6.0.SKUMIXM
 - android: '12.0'
-  codename: selene
+  codename: selenes
   date: '2022-08-29'
   download: https://bigota.d.miui.com/V13.0.3.0.SKUCNXM/fw_selene_miui_SELENE_V13.0.3.0.SKUCNXM_1bfdb631bb_12.0.zip
-  name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
+  name: Redmi Note 11 4G/Redmi 10 2022
   version: V13.0.3.0.SKUCNXM
 - android: '12.0'
-  codename: selene
+  codename: selenes
   date: '2023-03-14'
   download: https://bigota.d.miui.com/V13.0.6.0.SKUCNXM/fw_selene_miui_SELENE_V13.0.6.0.SKUCNXM_18335b51ac_12.0.zip
-  name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
+  name: Redmi Note 11 4G/Redmi 10 2022
   version: V13.0.6.0.SKUCNXM
 - android: '12.0'
-  codename: selene
+  codename: selenes
   date: '2022-08-09'
   download: https://bigota.d.miui.com/V13.0.1.0.SKUCNXM/fw_selene_miui_SELENE_V13.0.1.0.SKUCNXM_ee8010cb48_12.0.zip
-  name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
+  name: Redmi Note 11 4G/Redmi 10 2022
   version: V13.0.1.0.SKUCNXM
 - android: '11.0'
   codename: spes
