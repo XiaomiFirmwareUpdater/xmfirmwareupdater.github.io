@@ -52,7 +52,8 @@ permalink: /archive/hyperos/warhol/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 17T Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.310.0.WPSMIXM</td><td>16.0</td><td>7.7 GB</td><td>2026-08-10</td><td><a href="/hyperos/warhol/stable beta/OS3.0.310.0.WPSMIXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 17T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.310.0.WPSMIXM</td><td>16.0</td><td>7.7 GB</td><td>2026-08-10</td><td><a href="/hyperos/warhol/stable/OS3.0.310.0.WPSMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.310.0.WPSMIXM</td><td>16.0</td><td>12.4 GB</td><td>2026-08-02</td><td><a href="/hyperos/warhol/stable/OS3.0.310.0.WPSMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17T Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.309.0.WPSCNXM</td><td>16.0</td><td>8.8 GB</td><td>2026-08-04</td><td><a href="/hyperos/warhol/stable/OS3.0.309.0.WPSCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17T Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.309.0.WPSCNXM</td><td>16.0</td><td>13.2 GB</td><td>2026-07-27</td><td><a href="/hyperos/warhol/stable/OS3.0.309.0.WPSCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.311.0.WPSEUXM</td><td>16.0</td><td>7.7 GB</td><td>2026-08-04</td><td><a href="/hyperos/warhol/stable/OS3.0.311.0.WPSEUXM/">Download</a></td></tr>
