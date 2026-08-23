@@ -52,7 +52,8 @@ permalink: /archive/hyperos/klimt/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 15T Pro Japan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WOSJPXM</td><td>16.0</td><td>7.3 GB</td><td>2026-08-19</td><td><a href="/hyperos/klimt/stable beta/OS3.0.302.0.WOSJPXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 15T Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WOSTRXM</td><td>16.0</td><td>7.3 GB</td><td>2026-08-19</td><td><a href="/hyperos/klimt/stable beta/OS3.0.302.0.WOSTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Pro Japan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WOSJPXM</td><td>16.0</td><td>7.3 GB</td><td>2026-08-19</td><td><a href="/hyperos/klimt/stable beta/OS3.0.302.0.WOSJPXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.335.0.XOSMIXM</td><td>17.0</td><td>7.4 GB</td><td>2026-08-13</td><td><a href="/hyperos/klimt/stable beta/OS3.0.335.0.XOSMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.336.0.XOSRUXM</td><td>17.0</td><td>7.3 GB</td><td>2026-08-13</td><td><a href="/hyperos/klimt/stable/OS3.0.336.0.XOSRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.336.0.XOSRUXM</td><td>17.0</td><td>9.9 GB</td><td>2026-08-06</td><td><a href="/hyperos/klimt/stable/OS3.0.336.0.XOSRUXM/">Download</a></td></tr>
@@ -86,16 +87,16 @@ permalink: /archive/hyperos/klimt/
 <tr><td>Xiaomi 15T Pro Japan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WOSJPXM</td><td>16.0</td><td>9.0 GB</td><td>2026-04-23</td><td><a href="/hyperos/klimt/stable/OS3.0.301.0.WOSJPXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WOSTRXM</td><td>16.0</td><td>7.3 GB</td><td>2026-05-02</td><td><a href="/hyperos/klimt/stable/OS3.0.301.0.WOSTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WOSTRXM</td><td>16.0</td><td>8.7 GB</td><td>2026-04-20</td><td><a href="/hyperos/klimt/stable/OS3.0.301.0.WOSTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WOSTRXM</td><td>16.0</td><td>7.2 GB</td><td>2026-01-14</td><td><a href="/hyperos/klimt/stable/OS3.0.5.0.WOSTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15T Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WOSTRXM</td><td>16.0</td><td>8.7 GB</td><td>2026-01-06</td><td><a href="/hyperos/klimt/stable/OS3.0.5.0.WOSTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WOSIDXM</td><td>16.0</td><td>7.3 GB</td><td>2026-05-02</td><td><a href="/hyperos/klimt/stable/OS3.0.301.0.WOSIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WOSIDXM</td><td>16.0</td><td>9.2 GB</td><td>2026-04-20</td><td><a href="/hyperos/klimt/stable/OS3.0.301.0.WOSIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WOSTRXM</td><td>16.0</td><td>7.2 GB</td><td>2026-01-14</td><td><a href="/hyperos/klimt/stable/OS3.0.5.0.WOSTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WOSTRXM</td><td>16.0</td><td>8.7 GB</td><td>2026-01-06</td><td><a href="/hyperos/klimt/stable/OS3.0.5.0.WOSTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WOSMIXM</td><td>16.0</td><td>7.3 GB</td><td>2026-04-22</td><td><a href="/hyperos/klimt/stable/OS3.0.301.0.WOSMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WOSMIXM</td><td>16.0</td><td>10.1 GB</td><td>2026-04-13</td><td><a href="/hyperos/klimt/stable/OS3.0.301.0.WOSMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.10.0.WOSMIXM</td><td>16.0</td><td>7.3 GB</td><td>2026-01-14</td><td><a href="/hyperos/klimt/stable/OS3.0.10.0.WOSMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.10.0.WOSMIXM</td><td>16.0</td><td>10.1 GB</td><td>2026-01-07</td><td><a href="/hyperos/klimt/stable/OS3.0.10.0.WOSMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.12.0.WOSEUXM</td><td>16.0</td><td>7.3 GB</td><td>2026-01-14</td><td><a href="/hyperos/klimt/stable/OS3.0.12.0.WOSEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.12.0.WOSEUXM</td><td>16.0</td><td>9.1 GB</td><td>2026-01-07</td><td><a href="/hyperos/klimt/stable/OS3.0.12.0.WOSEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WOSMIXM</td><td>16.0</td><td>7.3 GB</td><td>2026-04-22</td><td><a href="/hyperos/klimt/stable/OS3.0.301.0.WOSMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WOSMIXM</td><td>16.0</td><td>10.1 GB</td><td>2026-04-13</td><td><a href="/hyperos/klimt/stable/OS3.0.301.0.WOSMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOSEUXM</td><td>16.0</td><td>7.4 GB</td><td>2026-04-03</td><td><a href="/hyperos/klimt/stable/OS3.0.302.0.WOSEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOSEUXM</td><td>16.0</td><td>9.1 GB</td><td>2026-04-01</td><td><a href="/hyperos/klimt/stable/OS3.0.302.0.WOSEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Pro Japan</td><td>Stable</td><td>Recovery</td><td>OS3.0.5.0.WOSJPXM</td><td>16.0</td><td>7.2 GB</td><td>2026-01-19</td><td><a href="/hyperos/klimt/stable/OS3.0.5.0.WOSJPXM/">Download</a></td></tr>
