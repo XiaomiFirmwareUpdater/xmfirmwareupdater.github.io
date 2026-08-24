@@ -1,4 +1,34 @@
 - branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chagall/releases/download/stable-24.08.2026/fw_chagall_chagall-ota_full-OS3.0.310.0.WPTCNXM-user-16.0-26780f6238.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chagall/fw_chagall_chagall-ota_full-OS3.0.310.0.WPTCNXM-user-16.0-26780f6238.zip
+  filename: fw_chagall_chagall-ota_full-OS3.0.310.0.WPTCNXM-user-16.0-26780f6238.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.310.0.WPTCNXM
+- branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chagall/releases/download/stable-24.08.2026/fw_chagall_chagall_global-ota_full-OS3.0.306.0.WPTMIXM-user-16.0-08bb195663.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chagall/fw_chagall_chagall_global-ota_full-OS3.0.306.0.WPTMIXM-user-16.0-08bb195663.zip
+  filename: fw_chagall_chagall_global-ota_full-OS3.0.306.0.WPTMIXM-user-16.0-08bb195663.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.306.0.WPTMIXM
+- branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chagall/releases/download/stable-24.08.2026/fw_chagall_chagall_in_global-ota_full-OS3.0.304.0.WPTINXM-user-16.0-10ac1b1b50.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chagall/fw_chagall_chagall_in_global-ota_full-OS3.0.304.0.WPTINXM-user-16.0-10ac1b1b50.zip
+  filename: fw_chagall_chagall_in_global-ota_full-OS3.0.304.0.WPTINXM-user-16.0-10ac1b1b50.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.304.0.WPTINXM
+- branch: stable
   date: '2026-06-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chagall/releases/download/stable-09.06.2026/fw_chagall_chagall_in_global-ota_full-OS3.0.302.0.WPTINXM-user-16.0-3f2254d8fd.zip

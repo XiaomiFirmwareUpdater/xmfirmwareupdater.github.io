@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2026-05-14'
+  date: '2026-08-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-14.05.2026/fw_emerald_emerald_global-ota_full-OS3.0.302.0.WNFMIXM-user-16.0-3537a89ba5.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/emerald/fw_emerald_emerald_global-ota_full-OS3.0.302.0.WNFMIXM-user-16.0-3537a89ba5.zip
-  filename: fw_emerald_emerald_global-ota_full-OS3.0.302.0.WNFMIXM-user-16.0-3537a89ba5.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-24.08.2026/fw_emerald_emerald_global-ota_full-OS3.0.304.0.WNFMIXM-user-16.0-71e814ef0a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/emerald/fw_emerald_emerald_global-ota_full-OS3.0.304.0.WNFMIXM-user-16.0-71e814ef0a.zip
+  filename: fw_emerald_emerald_global-ota_full-OS3.0.304.0.WNFMIXM-user-16.0-71e814ef0a.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.302.0.WNFMIXM
+    miui: OS3.0.304.0.WNFMIXM
 - branch: stable
-  date: '2026-05-25'
+  date: '2026-08-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-25.05.2026/fw_emerald_emerald_r_eea_global-ota_full-OS3.0.301.0.WFOEUXM-user-16.0-25073f4145.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/emerald/fw_emerald_emerald_r_eea_global-ota_full-OS3.0.301.0.WFOEUXM-user-16.0-25073f4145.zip
-  filename: fw_emerald_emerald_r_eea_global-ota_full-OS3.0.301.0.WFOEUXM-user-16.0-25073f4145.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-24.08.2026/fw_emerald_emerald_eea_global-ota_full-OS3.0.302.0.WNFEUXM-user-16.0-a309b04550.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/emerald/fw_emerald_emerald_eea_global-ota_full-OS3.0.302.0.WNFEUXM-user-16.0-a309b04550.zip
+  filename: fw_emerald_emerald_eea_global-ota_full-OS3.0.302.0.WNFEUXM-user-16.0-a309b04550.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.301.0.WFOEUXM
+    miui: OS3.0.302.0.WNFEUXM

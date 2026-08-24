@@ -59,6 +59,36 @@
     android: '16.0'
     miui: OS3.0.9.0.WPKCNXM
 - branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-24.08.2026/fw_annibale_annibale-ota_full-OS3.0.307.0.WPKCNXM-user-16.0-94dcf5f934.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale-ota_full-OS3.0.307.0.WPKCNXM-user-16.0-94dcf5f934.zip
+  filename: fw_annibale_annibale-ota_full-OS3.0.307.0.WPKCNXM-user-16.0-94dcf5f934.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.307.0.WPKCNXM
+- branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-24.08.2026/fw_annibale_annibale_eea_global-ota_full-OS3.0.301.0.WPKEUXM-user-16.0-2fdc97d33a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale_eea_global-ota_full-OS3.0.301.0.WPKEUXM-user-16.0-2fdc97d33a.zip
+  filename: fw_annibale_annibale_eea_global-ota_full-OS3.0.301.0.WPKEUXM-user-16.0-2fdc97d33a.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.301.0.WPKEUXM
+- branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-24.08.2026/fw_annibale_annibale_global-ota_full-OS3.0.301.0.WPKMIXM-user-16.0-b17d43c993.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale_global-ota_full-OS3.0.301.0.WPKMIXM-user-16.0-b17d43c993.zip
+  filename: fw_annibale_annibale_global-ota_full-OS3.0.301.0.WPKMIXM-user-16.0-b17d43c993.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.301.0.WPKMIXM
+- branch: stable
   date: '2026-02-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-24.02.2026/fw_annibale_annibale_eea_global-ota_full-OS3.0.8.0.WPKEUXM-user-16.0-34baa886b5.zip

@@ -4,12 +4,322 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 24 Aug 2026 06:39:11 </lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 12:45:53 </lastBuildDate>
         <language>en-us</language>
         <item>
-            <title>Xiaomi 17T (chagall) - OS3.0.307.0.WPTCNXM</title>
+            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.208.0.VGQMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/air/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.212.0.VGQEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/air/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.208.0.VGQINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/air/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.305.0.WOPMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.305.0.WOPCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.304.0.WOPEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.303.0.WOPINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.301.0.WPKMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.307.0.WPKCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.301.0.WPKEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A7 Pro/POCO C81/C81 Pro (arctic) - OS3.0.12.0.WBVMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/arctic/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A7 Pro/POCO C81/C81 Pro (arctic) - OS3.0.8.0.WBVEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/arctic/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A7 Pro/POCO C81/C81 Pro (arctic) - OS3.0.4.0.WBVINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/arctic/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13T (aristotle) - OS3.0.5.0.WMFMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13T (aristotle) - OS3.0.3.0.WMFEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K100 Pro (athens) - OS3.0.306.0.WPICNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/athens/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS3.0.303.0.WNAMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS3.0.306.0.WNACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS3.0.304.0.WNAEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS3.0.302.0.WNAINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.302.0.WOQMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.306.0.WOQCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>MIX Flip 2 (bixi) - OS3.0.304.0.WOHCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/bixi/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS3.0.302.0.WNUINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17 Max (byron) - OS3.0.308.0.WAFCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/byron/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17T (chagall) - OS3.0.306.0.WPTMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
-            <pubDate>Wed, 01 Jul 2026 00:00:00 </pubDate>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17T (chagall) - OS3.0.310.0.WPTCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17T (chagall) - OS3.0.304.0.WPTINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 Pro 4G (charoite) - OS3.0.303.0.WPFMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/charoite/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 4 Pro (chenfeng) - OS3.0.307.0.WNJCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 4 Pro (chenfeng) - OS3.0.302.0.WNJINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS3.0.301.0.WMLMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/corot/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS3.0.303.0.WMLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/corot/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15/POCO M7 (creek) - OS3.0.304.0.WBOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/creek/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 (dada) - OS3.0.302.0.WOCMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 (dada) - OS3.0.305.0.WOCCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 (dada) - OS3.0.303.0.WOCEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K80 Ultra (dali) - OS3.0.305.0.WONCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dali/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.303.0.WPLMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dash/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.305.0.WPLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dash/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.303.0.WPLEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dash/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14T (degas) - OS3.0.304.0.WNEEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/degas/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15C/POCO C85 (dew) - OS3.0.306.0.WBNMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dew/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15C/POCO C85 (dew) - OS3.0.301.0.WBNEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dew/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15S Pro (dijun) - OS3.0.303.0.WODCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dijun/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS3.0.5.0.VLFMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/diting/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS3.0.4.0.VLFEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/diting/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.302.0.WNSMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.307.0.WNSCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.302.0.WNSEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.302.0.WNSINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.9.0.WNLMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.304.0.WNLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS3.0.304.0.WNFMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS3.0.302.0.WNFEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 12 (fire) - OS2.0.209.0.VMXMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/fire/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 12 (fire) - OS2.0.211.0.VMXEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/fire/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 12 (fire) - OS2.0.207.0.VMXINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/fire/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS3.0.302.0.WGUINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flame/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE 8.7 5G (flare) - OS3.0.302.0.WHXMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE 8.7 5G (flare) - OS3.0.302.0.WHXIDXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE 8.7 5G (flare) - OS3.0.302.0.WHXEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS3.0.316.0.WPRCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 17T (chagall) - OS3.0.312.0.WPTEUXM</title>
@@ -29,16 +339,6 @@
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.301.0.WOQINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
-            <pubDate>Tue, 30 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K80 Ultra (dali) - OS3.0.303.0.WONCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dali/</link>
-            <pubDate>Tue, 30 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.302.0.WPLEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dash/</link>
             <pubDate>Tue, 30 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -177,24 +477,9 @@
             <pubDate>Fri, 26 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.304.0.WOPMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
-            <pubDate>Thu, 25 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.8.0.WNLMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Thu, 25 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.302.0.WNLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Thu, 25 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17 Max (byron) - OS3.0.307.0.WAFCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/byron/</link>
-            <pubDate>Wed, 24 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.7.0.WNLINXM</title>
@@ -217,18 +502,8 @@
             <pubDate>Mon, 22 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.302.0.WPLMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dash/</link>
-            <pubDate>Mon, 22 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 14T (degas) - OS3.0.302.0.WNEMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/degas/</link>
-            <pubDate>Mon, 22 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.301.0.WNSINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
             <pubDate>Mon, 22 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -317,11 +592,6 @@
             <pubDate>Wed, 17 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS3.0.313.0.WPRCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
-            <pubDate>Tue, 16 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 15 Pro 5G (lapis) - OS3.0.302.0.WPPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
             <pubDate>Tue, 16 Jun 2026 00:00:00 </pubDate>
@@ -337,18 +607,8 @@
             <pubDate>Tue, 16 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS3.0.3.0.WMLMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Mon, 15 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS3.0.7.0.WMLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Mon, 15 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 (dada) - OS3.0.303.0.WOCCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
             <pubDate>Mon, 15 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -457,44 +717,9 @@
             <pubDate>Fri, 12 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi A7 Pro/POCO C81/C81 Pro (arctic) - OS3.0.3.0.WBVINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/arctic/</link>
-            <pubDate>Thu, 11 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.301.0.WNSEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
-            <pubDate>Thu, 11 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 6 (pipa) - OS2.0.20.0.UMZCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pipa/</link>
             <pubDate>Thu, 11 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12 (fire) - OS2.0.204.0.VMXINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/fire/</link>
-            <pubDate>Wed, 10 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.305.0.WPKCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
-            <pubDate>Tue, 09 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A7 Pro/POCO C81/C81 Pro (arctic) - OS3.0.8.0.WBVMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/arctic/</link>
-            <pubDate>Tue, 09 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS3.0.305.0.WNACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Tue, 09 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17T (chagall) - OS3.0.302.0.WPTINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
-            <pubDate>Tue, 09 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>MIX Fold 4 (goku) - OS3.0.306.0.WNVCNXM</title>
@@ -507,11 +732,6 @@
             <pubDate>Mon, 08 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.207.0.VGQINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/air/</link>
-            <pubDate>Mon, 08 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 15 Pro 4G (charoite) - OS3.0.301.0.WPFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/charoite/</link>
             <pubDate>Mon, 08 Jun 2026 00:00:00 </pubDate>
@@ -519,16 +739,6 @@
         <item>
             <title>Xiaomi 12 (cupid) - OS3.0.3.0.VLCEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/cupid/</link>
-            <pubDate>Mon, 08 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 15C/POCO C85 (dew) - OS3.0.302.0.WBNMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dew/</link>
-            <pubDate>Mon, 08 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12 (fire) - OS2.0.208.0.VMXMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/fire/</link>
             <pubDate>Mon, 08 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -560,16 +770,6 @@
             <title>Xiaomi 13 (fuxi) - OS3.0.303.0.WMCMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
             <pubDate>Sat, 06 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.301.0.WNSMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
-            <pubDate>Fri, 05 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS3.0.301.0.WGUINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flame/</link>
-            <pubDate>Fri, 05 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS3.0.305.0.WPWCNXM</title>
@@ -647,11 +847,6 @@
             <pubDate>Wed, 03 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 15S Pro (dijun) - OS3.0.302.0.WODCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dijun/</link>
-            <pubDate>Tue, 02 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS3.0.9.0.VNQCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gold/</link>
             <pubDate>Tue, 02 Jun 2026 00:00:00 </pubDate>
@@ -702,31 +897,6 @@
             <pubDate>Tue, 02 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.207.0.VGQMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/air/</link>
-            <pubDate>Mon, 01 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.301.0.WOQMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
-            <pubDate>Mon, 01 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17T (chagall) - OS3.0.303.0.WPTMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
-            <pubDate>Mon, 01 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 (dada) - OS3.0.302.0.WOCEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
-            <pubDate>Mon, 01 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14T (degas) - OS3.0.303.0.WNEEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/degas/</link>
-            <pubDate>Mon, 01 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 13C/POCO C65 (gale) - OS2.0.207.0.VGPMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gale/</link>
             <pubDate>Mon, 01 Jun 2026 00:00:00 </pubDate>
@@ -767,16 +937,6 @@
             <pubDate>Mon, 01 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS3.0.4.0.VLFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/diting/</link>
-            <pubDate>Thu, 28 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad SE 8.7 5G (flare) - OS3.0.301.0.WHXMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
-            <pubDate>Thu, 28 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 15 Pro 5G (lapis) - OS3.0.305.0.WPPMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
             <pubDate>Thu, 28 May 2026 00:00:00 </pubDate>
@@ -802,11 +962,6 @@
             <pubDate>Thu, 28 May 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 15 Pro 4G (charoite) - OS3.0.302.0.WPFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/charoite/</link>
-            <pubDate>Tue, 26 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 13/POCO M6 (moon) - OS3.0.301.0.WNTEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moon/</link>
             <pubDate>Tue, 26 May 2026 00:00:00 </pubDate>
@@ -814,16 +969,6 @@
         <item>
             <title>MIX Fold 3 (babylon) - OS3.0.303.0.WMVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
-            <pubDate>Mon, 25 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS3.0.301.0.WFOEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
-            <pubDate>Mon, 25 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12 (fire) - OS2.0.209.0.VMXEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/fire/</link>
             <pubDate>Mon, 25 May 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -897,11 +1042,6 @@
             <pubDate>Sat, 23 May 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad SE 8.7 5G (flare) - OS3.0.3.0.WHXEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
-            <pubDate>Fri, 22 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS3.0.301.0.WNRMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/garnet/</link>
             <pubDate>Fri, 22 May 2026 00:00:00 </pubDate>
@@ -915,11 +1055,6 @@
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.20.0.UMOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Fri, 22 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS3.0.3.0.VLFEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/diting/</link>
-            <pubDate>Thu, 21 May 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS3.0.301.0.WNREUXM</title>
@@ -940,16 +1075,6 @@
             <title>Redmi Pad Pro 5G/POCO Pad 5G (ruan) - OS3.0.301.0.WFSMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruan/</link>
             <pubDate>Thu, 21 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A7 Pro/POCO C81/C81 Pro (arctic) - OS3.0.7.0.WBVEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/arctic/</link>
-            <pubDate>Wed, 20 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS3.0.301.0.WNAINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Tue, 19 May 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 13 Ultra (ishtar) - OS3.0.301.0.WMAMIXM</title>
@@ -980,16 +1105,6 @@
             <title>Xiaomi 15 Ultra (xuanyuan) - OS3.0.301.0.WOAINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
             <pubDate>Tue, 19 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS3.0.11.0.WNUINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
-            <pubDate>Mon, 18 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 15/POCO M7 (creek) - OS3.0.302.0.WBOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/creek/</link>
-            <pubDate>Mon, 18 May 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 12 (cupid) - OS3.0.4.0.VLCMIXM</title>
@@ -1050,21 +1165,6 @@
             <title>Xiaomi Pad 7S Pro 12.5 (violin) - OS3.0.303.0.WOTCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/violin/</link>
             <pubDate>Fri, 15 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 4 Pro (chenfeng) - OS3.0.306.0.WNJCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
-            <pubDate>Thu, 14 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Civi 4 Pro (chenfeng) - OS3.0.301.0.WNJINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/chenfeng/</link>
-            <pubDate>Thu, 14 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS3.0.302.0.WNFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
-            <pubDate>Thu, 14 May 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 14 Pro 4G (obsidian) - OS3.0.302.0.WOFMIXM</title>
@@ -1132,11 +1232,6 @@
             <pubDate>Tue, 12 May 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 15 (dada) - OS3.0.301.0.WOCMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
-            <pubDate>Mon, 11 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G (gold) - OS3.0.3.0.VNQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gold/</link>
             <pubDate>Mon, 11 May 2026 00:00:00 </pubDate>
@@ -1157,11 +1252,6 @@
             <pubDate>Sun, 10 May 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.304.0.WPLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dash/</link>
-            <pubDate>Sat, 09 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K60E (rembrandt) - OS2.0.25.0.UMMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rembrandt/</link>
             <pubDate>Sat, 09 May 2026 00:00:00 </pubDate>
@@ -1177,11 +1267,6 @@
             <pubDate>Sat, 09 May 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.5.0.WOPINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
-            <pubDate>Thu, 07 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS3.0.303.0.WOMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/miro/</link>
             <pubDate>Thu, 07 May 2026 00:00:00 </pubDate>
@@ -1190,31 +1275,6 @@
             <title>Xiaomi Pad 8 Pro (piano) - OS3.0.305.0.WPYCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/piano/</link>
             <pubDate>Thu, 07 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 13R 5G/13C 5G/POCO M6 5G (air) - OS2.0.210.0.VGQEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/air/</link>
-            <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS3.0.302.0.WNAMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS3.0.302.0.WNAEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
-            <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 15C/POCO C85 (dew) - OS2.0.217.0.VBNEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dew/</link>
-            <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.304.0.WNSCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
-            <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS3.0.301.0.WGUCNXM</title>
@@ -1357,21 +1417,6 @@
             <pubDate>Tue, 28 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.303.0.WOPCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
-            <pubDate>Mon, 27 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.305.0.WOQCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
-            <pubDate>Mon, 27 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS3.0.302.0.WMLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/corot/</link>
-            <pubDate>Mon, 27 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 15T (goya) - OS3.0.300.0.WOEMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/goya/</link>
             <pubDate>Mon, 27 Apr 2026 00:00:00 </pubDate>
@@ -1382,11 +1427,6 @@
             <pubDate>Fri, 24 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad SE 8.7 5G (flare) - OS3.0.1.0.WHXIDXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
-            <pubDate>Thu, 23 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad 2 4G (koto) - OS3.0.2.0.WOWINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/koto/</link>
             <pubDate>Thu, 23 Apr 2026 00:00:00 </pubDate>
@@ -1395,11 +1435,6 @@
             <title>Redmi K70 Pro (manet) - OS3.0.302.0.WNMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/manet/</link>
             <pubDate>Thu, 23 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.303.0.WNLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Tue, 21 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12T Pro (pearl) - OS3.0.3.0.VLHCNXM</title>
@@ -1455,11 +1490,6 @@
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.13.0.UCVINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/earth/</link>
             <pubDate>Wed, 15 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.4.0.WOPEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
-            <pubDate>Tue, 14 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12S (sea) - OS2.0.212.0.VHZMIXM</title>
@@ -1532,11 +1562,6 @@
             <pubDate>Tue, 24 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>MIX Flip 2 (bixi) - OS3.0.301.0.WOHCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/bixi/</link>
-            <pubDate>Mon, 23 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.16.0.UCVMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/earth/</link>
             <pubDate>Wed, 18 Mar 2026 00:00:00 </pubDate>
@@ -1557,11 +1582,6 @@
             <pubDate>Wed, 11 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13T (aristotle) - OS2.0.216.0.VMFEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
-            <pubDate>Mon, 09 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 4G (tapas) - OS2.0.204.0.VMTINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tapas/</link>
             <pubDate>Mon, 09 Mar 2026 00:00:00 </pubDate>
@@ -1570,16 +1590,6 @@
             <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS3.0.2.0.WPWINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flute/</link>
             <pubDate>Wed, 04 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13T (aristotle) - OS2.0.214.0.VMFMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
-            <pubDate>Thu, 26 Feb 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.8.0.WPKEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
-            <pubDate>Tue, 24 Feb 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K40/POCO F3/Mi 11X (alioth) - OS1.0.5.0.TKHMIXM</title>
@@ -1625,11 +1635,6 @@
             <title>POCO X5 5G (moonstone) - OS1.0.25.0.UMPEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moonstone/</link>
             <pubDate>Tue, 06 Jan 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K90/POCO F8 Pro (annibale) - OS3.0.8.0.WPKMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/annibale/</link>
-            <pubDate>Sun, 04 Jan 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>POCO X5 5G (moonstone) - OS1.0.26.0.UMPMIXM</title>

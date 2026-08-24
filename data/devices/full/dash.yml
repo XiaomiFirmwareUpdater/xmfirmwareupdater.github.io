@@ -29,6 +29,36 @@
     android: '16.0'
     miui: OS3.0.3.0.WPLEUXM
 - branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dash/releases/download/stable-24.08.2026/fw_dash_dash-ota_full-OS3.0.305.0.WPLCNXM-user-16.0-b64527fea3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dash/fw_dash_dash-ota_full-OS3.0.305.0.WPLCNXM-user-16.0-b64527fea3.zip
+  filename: fw_dash_dash-ota_full-OS3.0.305.0.WPLCNXM-user-16.0-b64527fea3.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.305.0.WPLCNXM
+- branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dash/releases/download/stable-24.08.2026/fw_dash_dash_eea_global-ota_full-OS3.0.303.0.WPLEUXM-user-16.0-02356b5269.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dash/fw_dash_dash_eea_global-ota_full-OS3.0.303.0.WPLEUXM-user-16.0-02356b5269.zip
+  filename: fw_dash_dash_eea_global-ota_full-OS3.0.303.0.WPLEUXM-user-16.0-02356b5269.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.303.0.WPLEUXM
+- branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dash/releases/download/stable-24.08.2026/fw_dash_dash_global-ota_full-OS3.0.303.0.WPLMIXM-user-16.0-5b40570db7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dash/fw_dash_dash_global-ota_full-OS3.0.303.0.WPLMIXM-user-16.0-5b40570db7.zip
+  filename: fw_dash_dash_global-ota_full-OS3.0.303.0.WPLMIXM-user-16.0-5b40570db7.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.303.0.WPLMIXM
+- branch: stable
   date: '2026-06-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dash/releases/download/stable-22.06.2026/fw_dash_dash_global-ota_full-OS3.0.302.0.WPLMIXM-user-16.0-19defcf744.zip

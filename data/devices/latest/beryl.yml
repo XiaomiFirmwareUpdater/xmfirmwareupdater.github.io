@@ -1,23 +1,23 @@
 - branch: stable
-  date: '2026-06-01'
+  date: '2026-08-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-02.06.2026/fw_beryl_beryl_global-ota_full-OS3.0.301.0.WOQMIXM-user-16.0-12fa9e236f.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/beryl/fw_beryl_beryl_global-ota_full-OS3.0.301.0.WOQMIXM-user-16.0-12fa9e236f.zip
-  filename: fw_beryl_beryl_global-ota_full-OS3.0.301.0.WOQMIXM-user-16.0-12fa9e236f.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-24.08.2026/fw_beryl_beryl_global-ota_full-OS3.0.302.0.WOQMIXM-user-16.0-77692d66f1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/beryl/fw_beryl_beryl_global-ota_full-OS3.0.302.0.WOQMIXM-user-16.0-77692d66f1.zip
+  filename: fw_beryl_beryl_global-ota_full-OS3.0.302.0.WOQMIXM-user-16.0-77692d66f1.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.301.0.WOQMIXM
+    miui: OS3.0.302.0.WOQMIXM
 - branch: stable
-  date: '2026-04-27'
+  date: '2026-08-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-27.04.2026/fw_beryl_beryl-ota_full-OS3.0.305.0.WOQCNXM-user-16.0-af3f6769d0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/beryl/fw_beryl_beryl-ota_full-OS3.0.305.0.WOQCNXM-user-16.0-af3f6769d0.zip
-  filename: fw_beryl_beryl-ota_full-OS3.0.305.0.WOQCNXM-user-16.0-af3f6769d0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-24.08.2026/fw_beryl_beryl-ota_full-OS3.0.306.0.WOQCNXM-user-16.0-429fcb7dd3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/beryl/fw_beryl_beryl-ota_full-OS3.0.306.0.WOQCNXM-user-16.0-429fcb7dd3.zip
+  filename: fw_beryl_beryl-ota_full-OS3.0.306.0.WOQCNXM-user-16.0-429fcb7dd3.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.305.0.WOQCNXM
+    miui: OS3.0.306.0.WOQCNXM
 - branch: stable
   date: '2026-06-30'
   downloads:

@@ -59,6 +59,16 @@
     android: '14.0'
     miui: OS1.0.18.0.UGUCNXM
 - branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flame/releases/download/stable-24.08.2026/fw_flame_flame_in_global-ota_full-OS3.0.302.0.WGUINXM-user-16.0-76abc998a4.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/flame/fw_flame_flame_in_global-ota_full-OS3.0.302.0.WGUINXM-user-16.0-76abc998a4.zip
+  filename: fw_flame_flame_in_global-ota_full-OS3.0.302.0.WGUINXM-user-16.0-76abc998a4.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.302.0.WGUINXM
+- branch: stable
   date: '2025-03-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flame/releases/download/stable-24.03.2025/fw_flame_flame-ota_full-OS2.0.1.0.VGUCNXM-user-15.0-a109544545.zip

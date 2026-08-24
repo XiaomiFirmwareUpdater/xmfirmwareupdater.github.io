@@ -1,1 +1,10 @@
-[]
+- branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_athens/releases/download/stable-24.08.2026/fw_athens_athens-ota_full-OS3.0.306.0.WPICNXM-user-16.0-9fc053e689.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/athens/fw_athens_athens-ota_full-OS3.0.306.0.WPICNXM-user-16.0-9fc053e689.zip
+  filename: fw_athens_athens-ota_full-OS3.0.306.0.WPICNXM-user-16.0-9fc053e689.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.306.0.WPICNXM

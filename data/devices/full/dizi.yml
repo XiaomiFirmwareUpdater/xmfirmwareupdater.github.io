@@ -299,6 +299,46 @@
     android: '15.0'
     miui: OS2.0.4.0.VNSINXM
 - branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-24.08.2026/fw_dizi_dizi-ota_full-OS3.0.307.0.WNSCNXM-user-16.0-d670264a2f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dizi/fw_dizi_dizi-ota_full-OS3.0.307.0.WNSCNXM-user-16.0-d670264a2f.zip
+  filename: fw_dizi_dizi-ota_full-OS3.0.307.0.WNSCNXM-user-16.0-d670264a2f.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.307.0.WNSCNXM
+- branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-24.08.2026/fw_dizi_dizi_eea_global-ota_full-OS3.0.302.0.WNSEUXM-user-16.0-29f2ce1006.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dizi/fw_dizi_dizi_eea_global-ota_full-OS3.0.302.0.WNSEUXM-user-16.0-29f2ce1006.zip
+  filename: fw_dizi_dizi_eea_global-ota_full-OS3.0.302.0.WNSEUXM-user-16.0-29f2ce1006.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.302.0.WNSEUXM
+- branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-24.08.2026/fw_dizi_dizi_global-ota_full-OS3.0.302.0.WNSMIXM-user-16.0-55934915f5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dizi/fw_dizi_dizi_global-ota_full-OS3.0.302.0.WNSMIXM-user-16.0-55934915f5.zip
+  filename: fw_dizi_dizi_global-ota_full-OS3.0.302.0.WNSMIXM-user-16.0-55934915f5.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.302.0.WNSMIXM
+- branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-24.08.2026/fw_dizi_dizi_in_global-ota_full-OS3.0.302.0.WNSINXM-user-16.0-8479ed61ca.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dizi/fw_dizi_dizi_in_global-ota_full-OS3.0.302.0.WNSINXM-user-16.0-8479ed61ca.zip
+  filename: fw_dizi_dizi_in_global-ota_full-OS3.0.302.0.WNSINXM-user-16.0-8479ed61ca.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.302.0.WNSINXM
+- branch: stable
   date: '2024-08-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dizi/releases/download/stable-24.08.2024/fw_dizi_miui_DIZIINGlobal_OS1.0.5.0.UNSINXM_433aa26552_14.0.zip

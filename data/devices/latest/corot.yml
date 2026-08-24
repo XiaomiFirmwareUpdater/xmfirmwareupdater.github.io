@@ -1,23 +1,23 @@
 - branch: stable
-  date: '2026-06-15'
+  date: '2026-08-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-15.06.2026/fw_corot_corot_global-ota_full-OS3.0.3.0.WMLMIXM-user-16.0-aeb916e9e1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/corot/fw_corot_corot_global-ota_full-OS3.0.3.0.WMLMIXM-user-16.0-aeb916e9e1.zip
-  filename: fw_corot_corot_global-ota_full-OS3.0.3.0.WMLMIXM-user-16.0-aeb916e9e1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-24.08.2026/fw_corot_corot_global-ota_full-OS3.0.301.0.WMLMIXM-user-16.0-4dd3e202df.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/corot/fw_corot_corot_global-ota_full-OS3.0.301.0.WMLMIXM-user-16.0-4dd3e202df.zip
+  filename: fw_corot_corot_global-ota_full-OS3.0.301.0.WMLMIXM-user-16.0-4dd3e202df.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.3.0.WMLMIXM
+    miui: OS3.0.301.0.WMLMIXM
 - branch: stable
-  date: '2026-04-27'
+  date: '2026-08-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-27.04.2026/fw_corot_corot-ota_full-OS3.0.302.0.WMLCNXM-user-16.0-d651215e33.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/corot/fw_corot_corot-ota_full-OS3.0.302.0.WMLCNXM-user-16.0-d651215e33.zip
-  filename: fw_corot_corot-ota_full-OS3.0.302.0.WMLCNXM-user-16.0-d651215e33.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-24.08.2026/fw_corot_corot-ota_full-OS3.0.303.0.WMLCNXM-user-16.0-f025b69444.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/corot/fw_corot_corot-ota_full-OS3.0.303.0.WMLCNXM-user-16.0-f025b69444.zip
+  filename: fw_corot_corot-ota_full-OS3.0.303.0.WMLCNXM-user-16.0-f025b69444.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.302.0.WMLCNXM
+    miui: OS3.0.303.0.WMLCNXM
 - branch: stable
   date: '2026-06-15'
   downloads:
