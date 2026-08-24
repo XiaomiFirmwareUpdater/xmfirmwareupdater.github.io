@@ -1,1 +1,20 @@
-[]
+- branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_leedsa/releases/download/stable-24.08.2026/fw_leedsa_leedsa_global-ota_full-OS3.0.306.0.WDTMIXM-user-16.0-7e693c762c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/leedsa/fw_leedsa_leedsa_global-ota_full-OS3.0.306.0.WDTMIXM-user-16.0-7e693c762c.zip
+  filename: fw_leedsa_leedsa_global-ota_full-OS3.0.306.0.WDTMIXM-user-16.0-7e693c762c.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.306.0.WDTMIXM
+- branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_leedsa/releases/download/stable-24.08.2026/fw_leedsa_leedsa_eea_global-ota_full-OS3.0.304.0.WDTEUXM-user-16.0-2e69e53334.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/leedsa/fw_leedsa_leedsa_eea_global-ota_full-OS3.0.304.0.WDTEUXM-user-16.0-2e69e53334.zip
+  filename: fw_leedsa_leedsa_eea_global-ota_full-OS3.0.304.0.WDTEUXM-user-16.0-2e69e53334.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.304.0.WDTEUXM

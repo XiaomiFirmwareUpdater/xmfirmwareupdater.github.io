@@ -159,6 +159,36 @@
     android: '15.0'
     miui: OS2.0.5.0.VGPINXM
 - branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-24.08.2026/fw_gale_gale_eea_global-ota_full-OS2.0.211.0.VGPEUXM-user-15.0-89ba08140c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gale/fw_gale_gale_eea_global-ota_full-OS2.0.211.0.VGPEUXM-user-15.0-89ba08140c.zip
+  filename: fw_gale_gale_eea_global-ota_full-OS2.0.211.0.VGPEUXM-user-15.0-89ba08140c.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.211.0.VGPEUXM
+- branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-24.08.2026/fw_gale_gale_global-ota_full-OS2.0.208.0.VGPMIXM-user-15.0-3276654352.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gale/fw_gale_gale_global-ota_full-OS2.0.208.0.VGPMIXM-user-15.0-3276654352.zip
+  filename: fw_gale_gale_global-ota_full-OS2.0.208.0.VGPMIXM-user-15.0-3276654352.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.208.0.VGPMIXM
+- branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-24.08.2026/fw_gale_gale_in_global-ota_full-OS2.0.208.0.VGPINXM-user-15.0-5254f0d265.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gale/fw_gale_gale_in_global-ota_full-OS2.0.208.0.VGPINXM-user-15.0-5254f0d265.zip
+  filename: fw_gale_gale_in_global-ota_full-OS2.0.208.0.VGPINXM-user-15.0-5254f0d265.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: OS2.0.208.0.VGPINXM
+- branch: stable
   date: '2024-07-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-24.07.2024/fw_gale_miui_GALEEEAGlobal_V14.0.13.0.TGPEUXM_3a1fa815e9_13.0.zip

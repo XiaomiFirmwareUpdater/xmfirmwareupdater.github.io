@@ -369,6 +369,16 @@
     android: '15.0'
     miui: OS2.0.206.0.VNPCNXM
 - branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-25.08.2026/fw_peridot_peridot_in_global-ota_full-OS3.0.303.0.WNPINXM-user-16.0-579bbf2288.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/peridot/fw_peridot_peridot_in_global-ota_full-OS3.0.303.0.WNPINXM-user-16.0-579bbf2288.zip
+  filename: fw_peridot_peridot_in_global-ota_full-OS3.0.303.0.WNPINXM-user-16.0-579bbf2288.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.303.0.WNPINXM
+- branch: stable
   date: '2024-12-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-24.12.2024/fw_peridot_miui_PERIDOTEEAGlobal_OS1.0.9.0.UNPEUXM_99b86b566c_14.0.zip
@@ -398,6 +408,26 @@
   versions:
     android: '15.0'
     miui: OS2.0.205.0.VNPMIXM
+- branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-24.08.2026/fw_peridot_peridot-ota_full-OS3.0.304.0.WNPCNXM-user-16.0-1f2d1e33e8.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/peridot/fw_peridot_peridot-ota_full-OS3.0.304.0.WNPCNXM-user-16.0-1f2d1e33e8.zip
+  filename: fw_peridot_peridot-ota_full-OS3.0.304.0.WNPCNXM-user-16.0-1f2d1e33e8.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.304.0.WNPCNXM
+- branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-24.08.2026/fw_peridot_peridot_global-ota_full-OS3.0.303.0.WNPMIXM-user-16.0-9eb06ac062.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/peridot/fw_peridot_peridot_global-ota_full-OS3.0.303.0.WNPMIXM-user-16.0-9eb06ac062.zip
+  filename: fw_peridot_peridot_global-ota_full-OS3.0.303.0.WNPMIXM-user-16.0-9eb06ac062.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.303.0.WNPMIXM
 - branch: stable
   date: '2025-05-24'
   downloads:

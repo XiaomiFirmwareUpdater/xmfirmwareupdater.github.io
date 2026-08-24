@@ -1390,6 +1390,12 @@
   download: https://bigota.d.miui.com/V14.0.24.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.24.0.TMCCNXM_bad43a4e6f_13.0.zip
   name: Xiaomi 13
   version: V14.0.24.0.TMCCNXM
+- android: '13.0'
+  codename: fuxi
+  date: '2026-08-24'
+  download: https://bigota.d.miui.com/V14.0.32.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.32.0.TMCCNXM_862e1d10a2_13.0.zip
+  name: Xiaomi 13
+  version: V14.0.32.0.TMCCNXM
 - android: '14.0'
   codename: fuxi
   date: '2023-08-24'

@@ -179,6 +179,16 @@
     android: '16.0'
     miui: OS3.0.304.0.WNEEUXM
 - branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_degas/releases/download/stable-24.08.2026/fw_degas_degas_global-ota_full-OS3.0.303.0.WNEMIXM-user-16.0-e0f9f838c1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/degas/fw_degas_degas_global-ota_full-OS3.0.303.0.WNEMIXM-user-16.0-e0f9f838c1.zip
+  filename: fw_degas_degas_global-ota_full-OS3.0.303.0.WNEMIXM-user-16.0-e0f9f838c1.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.303.0.WNEMIXM
+- branch: stable
   date: '2025-03-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_degas/releases/download/stable-24.03.2025/fw_degas_eea_global_degas_eea_global-ota_full-OS2.0.103.0.VNEEUXM-user-15.0-879989d0fe.zip
