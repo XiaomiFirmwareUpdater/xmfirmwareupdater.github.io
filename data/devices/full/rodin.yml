@@ -219,6 +219,36 @@
     android: '15.0'
     miui: OS2.0.203.0.VOJINXM
 - branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-25.08.2026/fw_rodin_rodin-ota_full-OS3.0.304.0.WOJCNXM-user-16.0-0aac50ddf1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rodin/fw_rodin_rodin-ota_full-OS3.0.304.0.WOJCNXM-user-16.0-0aac50ddf1.zip
+  filename: fw_rodin_rodin-ota_full-OS3.0.304.0.WOJCNXM-user-16.0-0aac50ddf1.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.304.0.WOJCNXM
+- branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-25.08.2026/fw_rodin_rodin_global-ota_full-OS3.0.301.0.WOJMIXM-user-16.0-985cc36bcd.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rodin/fw_rodin_rodin_global-ota_full-OS3.0.301.0.WOJMIXM-user-16.0-985cc36bcd.zip
+  filename: fw_rodin_rodin_global-ota_full-OS3.0.301.0.WOJMIXM-user-16.0-985cc36bcd.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.301.0.WOJMIXM
+- branch: stable
+  date: '2026-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-25.08.2026/fw_rodin_rodin_in_global-ota_full-OS3.0.302.0.WOJINXM-user-16.0-7e4ea90a9e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rodin/fw_rodin_rodin_in_global-ota_full-OS3.0.302.0.WOJINXM-user-16.0-7e4ea90a9e.zip
+  filename: fw_rodin_rodin_in_global-ota_full-OS3.0.302.0.WOJINXM-user-16.0-7e4ea90a9e.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.302.0.WOJINXM
+- branch: stable
   date: '2025-04-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-25.04.2025/fw_rodin_in_global_rodin_in_global-ota_full-OS2.0.101.0.VOJINXM-user-15.0-cc9f86000b.zip

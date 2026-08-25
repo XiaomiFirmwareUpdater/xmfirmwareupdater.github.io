@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2026-05-25'
+  date: '2026-08-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spinel/releases/download/stable-25.05.2026/fw_spinel_spinel_global-ota_full-OS3.0.301.0.WPGMIXM-user-16.0-023314584a.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/spinel/fw_spinel_spinel_global-ota_full-OS3.0.301.0.WPGMIXM-user-16.0-023314584a.zip
-  filename: fw_spinel_spinel_global-ota_full-OS3.0.301.0.WPGMIXM-user-16.0-023314584a.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spinel/releases/download/stable-25.08.2026/fw_spinel_spinel_global-ota_full-OS3.0.302.0.WPGMIXM-user-16.0-4f2cd4fdca.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/spinel/fw_spinel_spinel_global-ota_full-OS3.0.302.0.WPGMIXM-user-16.0-4f2cd4fdca.zip
+  filename: fw_spinel_spinel_global-ota_full-OS3.0.302.0.WPGMIXM-user-16.0-4f2cd4fdca.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.301.0.WPGMIXM
+    miui: OS3.0.302.0.WPGMIXM
 - branch: stable
-  date: '2026-04-30'
+  date: '2026-08-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spinel/releases/download/stable-30.04.2026/fw_spinel_spinel_eea_global-ota_full-OS3.0.1.0.WPGEUXM-user-16.0-109c57a3ac.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/spinel/fw_spinel_spinel_eea_global-ota_full-OS3.0.1.0.WPGEUXM-user-16.0-109c57a3ac.zip
-  filename: fw_spinel_spinel_eea_global-ota_full-OS3.0.1.0.WPGEUXM-user-16.0-109c57a3ac.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spinel/releases/download/stable-25.08.2026/fw_spinel_spinel_eea_global-ota_full-OS3.0.301.0.WPGEUXM-user-16.0-25afac892f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/spinel/fw_spinel_spinel_eea_global-ota_full-OS3.0.301.0.WPGEUXM-user-16.0-25afac892f.zip
+  filename: fw_spinel_spinel_eea_global-ota_full-OS3.0.301.0.WPGEUXM-user-16.0-25afac892f.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.1.0.WPGEUXM
+    miui: OS3.0.301.0.WPGEUXM
