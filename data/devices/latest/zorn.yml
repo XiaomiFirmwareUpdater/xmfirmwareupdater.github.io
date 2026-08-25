@@ -9,22 +9,22 @@
     android: '16.0'
     miui: OS3.0.301.0.WOKMIXM
 - branch: stable
-  date: '2026-06-29'
+  date: '2026-08-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zorn/releases/download/stable-29.06.2026/fw_zorn_zorn-ota_full-OS3.0.305.0.WOKCNXM-user-16.0-8677e83b1e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/zorn/fw_zorn_zorn-ota_full-OS3.0.305.0.WOKCNXM-user-16.0-8677e83b1e.zip
-  filename: fw_zorn_zorn-ota_full-OS3.0.305.0.WOKCNXM-user-16.0-8677e83b1e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zorn/releases/download/stable-25.08.2026/fw_zorn_zorn-ota_full-OS3.0.307.0.WOKCNXM-user-16.0-7894de18a4.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/zorn/fw_zorn_zorn-ota_full-OS3.0.307.0.WOKCNXM-user-16.0-7894de18a4.zip
+  filename: fw_zorn_zorn-ota_full-OS3.0.307.0.WOKCNXM-user-16.0-7894de18a4.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.305.0.WOKCNXM
+    miui: OS3.0.307.0.WOKCNXM
 - branch: stable
-  date: '2026-04-30'
+  date: '2026-08-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zorn/releases/download/stable-30.04.2026/fw_zorn_zorn_eea_global-ota_full-OS3.0.301.0.WOKEUXM-user-16.0-8bffb3724b.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/zorn/fw_zorn_zorn_eea_global-ota_full-OS3.0.301.0.WOKEUXM-user-16.0-8bffb3724b.zip
-  filename: fw_zorn_zorn_eea_global-ota_full-OS3.0.301.0.WOKEUXM-user-16.0-8bffb3724b.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zorn/releases/download/stable-25.08.2026/fw_zorn_zorn_eea_global-ota_full-OS3.0.302.0.WOKEUXM-user-16.0-255cff518b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/zorn/fw_zorn_zorn_eea_global-ota_full-OS3.0.302.0.WOKEUXM-user-16.0-255cff518b.zip
+  filename: fw_zorn_zorn_eea_global-ota_full-OS3.0.302.0.WOKEUXM-user-16.0-255cff518b.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.301.0.WOKEUXM
+    miui: OS3.0.302.0.WOKEUXM

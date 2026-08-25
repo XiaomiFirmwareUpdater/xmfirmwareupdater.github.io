@@ -22566,6 +22566,12 @@
   version: OS3.0.303.0.WNNCNXM
 - android: '16.0'
   codename: rothko
+  date: '2026-08-25'
+  download: https://bigota.d.miui.com/OS3.0.307.0.WNNCNXM/fw_rothko_rothko-ota_full-OS3.0.307.0.WNNCNXM-user-16.0-ceef1a27f6.zip
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
+  version: OS3.0.307.0.WNNCNXM
+- android: '16.0'
+  codename: rothko
   date: '2026-08-24'
   download: https://bigota.d.miui.com/OS3.0.302.0.WNNEUXM/fw_rothko_rothko_eea_global-ota_full-OS3.0.302.0.WNNEUXM-user-16.0-3b80e2db63.zip
   name: Redmi K70 Ultra/Xiaomi 14T Pro
@@ -31542,6 +31548,12 @@
   version: OS2.0.208.0.VMHCNXM
 - android: '15.0'
   codename: yudi
+  date: '2026-08-25'
+  download: https://bigota.d.miui.com/OS3.0.6.0.VMHCNXM/fw_yudi_yudi-ota_full-OS3.0.6.0.VMHCNXM-user-15.0-7b73783799.zip
+  name: Xiaomi Pad 6 Max 14
+  version: OS3.0.6.0.VMHCNXM
+- android: '15.0'
+  codename: yudi
   date: '2025-07-25'
   download: https://bigota.d.miui.com/OS2.0.203.0.VMHCNXM/fw_yudi_yudi-ota_full-OS2.0.203.0.VMHCNXM-user-15.0-4e5f2843a0.zip
   name: Xiaomi Pad 6 Max 14
@@ -31660,6 +31672,12 @@
   download: https://bigota.d.miui.com/OS3.0.1.0.VMICNXM/fw_yuechu_yuechu-ota_full-OS3.0.1.0.VMICNXM-user-15.0-1a77fe4387.zip
   name: Xiaomi Civi 3
   version: OS3.0.1.0.VMICNXM
+- android: '15.0'
+  codename: yuechu
+  date: '2026-08-25'
+  download: https://bigota.d.miui.com/OS3.0.10.0.VMICNXM/fw_yuechu_yuechu-ota_full-OS3.0.10.0.VMICNXM-user-15.0-d8eb8d8777.zip
+  name: Xiaomi Civi 3
+  version: OS3.0.10.0.VMICNXM
 - android: '14.0'
   codename: yuechu
   date: '2024-09-24'
@@ -32682,6 +32700,18 @@
   version: OS2.0.4.0.VNOEUXM
 - android: '16.0'
   codename: zircon
+  date: '2026-08-25'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WNOEUXM/fw_zircon_zircon_eea_global-ota_full-OS3.0.302.0.WNOEUXM-user-16.0-ba403fa382.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS3.0.302.0.WNOEUXM
+- android: '16.0'
+  codename: zircon
+  date: '2026-08-25'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WNOINXM/fw_zircon_zircon_in_global-ota_full-OS3.0.301.0.WNOINXM-user-16.0-5a4376e715.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS3.0.301.0.WNOINXM
+- android: '16.0'
+  codename: zircon
   date: '2026-03-25'
   download: https://bigota.d.miui.com/OS3.0.2.0.WNOINXM/fw_zircon_zircon_in_global-ota_full-OS3.0.2.0.WNOINXM-user-16.0-7e42d96164.zip
   name: Redmi Note 13 Pro+ 5G
@@ -33216,6 +33246,24 @@
   version: OS1.0.11.0.ULLCNXM
 - android: '15.0'
   codename: ziyi
+  date: '2026-08-25'
+  download: https://bigota.d.miui.com/OS3.0.5.0.VLLCNXM/fw_ziyi_ziyi-ota_full-OS3.0.5.0.VLLCNXM-user-15.0-c8ca577bd7.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS3.0.5.0.VLLCNXM
+- android: '15.0'
+  codename: ziyi
+  date: '2026-08-25'
+  download: https://bigota.d.miui.com/OS3.0.5.0.VLLEUXM/fw_ziyi_ziyi_eea_global-ota_full-OS3.0.5.0.VLLEUXM-user-15.0-acd03129ee.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS3.0.5.0.VLLEUXM
+- android: '15.0'
+  codename: ziyi
+  date: '2026-08-25'
+  download: https://bigota.d.miui.com/OS3.0.4.0.VLLMIXM/fw_ziyi_ziyi_global-ota_full-OS3.0.4.0.VLLMIXM-user-15.0-2a096bb51e.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: OS3.0.4.0.VLLMIXM
+- android: '15.0'
+  codename: ziyi
   date: '2026-05-25'
   download: https://bigota.d.miui.com/OS3.0.4.0.VLLCNXM/fw_ziyi_ziyi-ota_full-OS3.0.4.0.VLLCNXM-user-15.0-254c38fb7b.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
@@ -33538,6 +33586,12 @@
   download: https://bigota.d.miui.com/OS1.0.2.0.ULRCNXM/fw_zizhan_miui_ZIZHAN_OS1.0.2.0.ULRCNXM_145e69abdf_14.0.zip
   name: Xiaomi MIX Fold 2
   version: OS1.0.2.0.ULRCNXM
+- android: '15.0'
+  codename: zizhan
+  date: '2026-08-25'
+  download: https://bigota.d.miui.com/OS3.0.8.0.VLRCNXM/fw_zizhan_zizhan-ota_full-OS3.0.8.0.VLRCNXM-user-15.0-6082e1c595.zip
+  name: Xiaomi MIX Fold 2
+  version: OS3.0.8.0.VLRCNXM
 - android: '14.0'
   codename: zizhan
   date: '2024-12-23'
@@ -33748,6 +33802,18 @@
   download: https://bigota.d.miui.com/OS3.0.9.0.WOKCNXM/fw_zorn_zorn-ota_full-OS3.0.9.0.WOKCNXM-user-16.0-490db3e034.zip
   name: Redmi K80/POCO F7 Pro
   version: OS3.0.9.0.WOKCNXM
+- android: '16.0'
+  codename: zorn
+  date: '2026-08-25'
+  download: https://bigota.d.miui.com/OS3.0.307.0.WOKCNXM/fw_zorn_zorn-ota_full-OS3.0.307.0.WOKCNXM-user-16.0-7894de18a4.zip
+  name: Redmi K80/POCO F7 Pro
+  version: OS3.0.307.0.WOKCNXM
+- android: '16.0'
+  codename: zorn
+  date: '2026-08-25'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WOKEUXM/fw_zorn_zorn_eea_global-ota_full-OS3.0.302.0.WOKEUXM-user-16.0-255cff518b.zip
+  name: Redmi K80/POCO F7 Pro
+  version: OS3.0.302.0.WOKEUXM
 - android: '15.0'
   codename: zorn
   date: '2025-08-25'

@@ -52,9 +52,8 @@ permalink: /hyperos/xuanyuan/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 15 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.309.0.WOACNXM</td><td>16.0</td><td>12.9 GB</td><td>2026-06-23</td><td><a href="/hyperos/xuanyuan/stable/OS3.0.309.0.WOACNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS3.0.309.0.WOACNXM</td><td>16.0</td><td>10.0 GB</td><td>2026-07-09</td><td><a href="/hyperos/xuanyuan/stable/OS3.0.309.0.WOACNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.312.0.WOACNXM</td><td>16.0</td><td>10.0 GB</td><td>2026-07-31</td><td><a href="/hyperos/xuanyuan/stable beta/OS3.0.312.0.WOACNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 15 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.312.0.WOACNXM</td><td>16.0</td><td>12.9 GB</td><td>2026-07-16</td><td><a href="/hyperos/xuanyuan/stable/OS3.0.312.0.WOACNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS3.0.312.0.WOACNXM</td><td>16.0</td><td>10.0 GB</td><td>2026-07-31</td><td><a href="/hyperos/xuanyuan/stable/OS3.0.312.0.WOACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WOAEUXM</td><td>16.0</td><td>10.8 GB</td><td>2026-07-16</td><td><a href="/hyperos/xuanyuan/stable/OS3.0.303.0.WOAEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WOAEUXM</td><td>16.0</td><td>9.1 GB</td><td>2026-07-24</td><td><a href="/hyperos/xuanyuan/stable/OS3.0.303.0.WOAEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15 Ultra Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOAMIXM</td><td>16.0</td><td>11.8 GB</td><td>2026-07-16</td><td><a href="/hyperos/xuanyuan/stable/OS3.0.302.0.WOAMIXM/">Download</a></td></tr>
