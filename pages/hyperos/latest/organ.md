@@ -64,6 +64,7 @@ permalink: /hyperos/organ/
 <tr><td>Redmi Pad 2 Pro 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WPXRUXM</td><td>16.0</td><td>5.0 GB</td><td>2026-07-31</td><td><a href="/hyperos/organ/stable/OS3.0.301.0.WPXRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WPXTWXM</td><td>16.0</td><td>5.9 GB</td><td>2026-07-09</td><td><a href="/hyperos/organ/stable/OS3.0.301.0.WPXTWXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WPXTWXM</td><td>16.0</td><td>5.0 GB</td><td>2026-07-23</td><td><a href="/hyperos/organ/stable/OS3.0.301.0.WPXTWXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Pro 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WPXTWXM</td><td>16.0</td><td>5.0 GB</td><td>2026-08-21</td><td><a href="/hyperos/organ/stable beta/OS3.0.302.0.WPXTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

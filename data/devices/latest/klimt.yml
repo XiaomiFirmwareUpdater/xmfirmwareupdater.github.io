@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2026-06-22'
+  date: '2026-08-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-22.06.2026/fw_klimt_klimt_global-ota_full-OS3.0.302.0.WOSMIXM-user-16.0-d2500919fc.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_global-ota_full-OS3.0.302.0.WOSMIXM-user-16.0-d2500919fc.zip
-  filename: fw_klimt_klimt_global-ota_full-OS3.0.302.0.WOSMIXM-user-16.0-d2500919fc.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-25.08.2026/fw_klimt_klimt_global-ota_full-OS3.0.335.0.XOSMIXM-user-17.0-5e29bbbcc2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_global-ota_full-OS3.0.335.0.XOSMIXM-user-17.0-5e29bbbcc2.zip
+  filename: fw_klimt_klimt_global-ota_full-OS3.0.335.0.XOSMIXM-user-17.0-5e29bbbcc2.zip
   region: Global
   versions:
-    android: '16.0'
-    miui: OS3.0.302.0.WOSMIXM
+    android: '17.0'
+    miui: OS3.0.335.0.XOSMIXM
 - branch: stable
   date: '2026-08-24'
   downloads:
