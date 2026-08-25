@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 25 Aug 2026 19:21:11 </lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 01:01:39 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS3.0.304.0.WMLCNXM</title>
@@ -347,6 +347,11 @@
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi Pad 8/Xiaomi Pad 9 (yupei) - OS3.0.303.0.WPZINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/yupei/</link>
+            <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS3.0.302.0.WNOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
@@ -374,6 +379,11 @@
         <item>
             <title>Xiaomi MIX Fold 2 (zizhan) - OS3.0.8.0.VLRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zizhan/</link>
+            <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K80/POCO F7 Pro (zorn) - OS3.0.302.0.WOKMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zorn/</link>
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1552,11 +1562,6 @@
             <pubDate>Mon, 20 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K80/POCO F7 Pro (zorn) - OS3.0.301.0.WOKMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zorn/</link>
-            <pubDate>Mon, 20 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 15 5G/POCO M8 5G/15 SE 5G (kunzite) - OS3.0.302.0.WPQCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
             <pubDate>Fri, 17 Apr 2026 00:00:00 </pubDate>
@@ -1594,11 +1599,6 @@
         <item>
             <title>Redmi K60/POCO F5 Pro (mondrian) - OS3.0.2.0.VMNEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/mondrian/</link>
-            <pubDate>Tue, 31 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 8/Xiaomi Pad 9 (yupei) - OS3.0.301.0.WPZINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/yupei/</link>
             <pubDate>Tue, 31 Mar 2026 00:00:00 </pubDate>
         </item>
         <item>

@@ -31968,6 +31968,12 @@
   version: OS3.0.12.0.WPZCNXM
 - android: '16.0'
   codename: yupei
+  date: '2026-08-25'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WPZINXM/fw_yupei_yupei_in_global-ota_full-OS3.0.303.0.WPZINXM-user-16.0-46df49e3b7.zip
+  name: Xiaomi Pad 8/Xiaomi Pad 9
+  version: OS3.0.303.0.WPZINXM
+- android: '16.0'
+  codename: yupei
   date: '2025-10-22'
   download: https://bigota.d.miui.com/OS3.0.7.0.WPZCNXM/fw_yupei_yupei-ota_full-OS3.0.7.0.WPZCNXM-user-16.0-1317db49b9.zip
   name: Xiaomi Pad 8/Xiaomi Pad 9
@@ -33796,6 +33802,12 @@
   download: https://bigota.d.miui.com/OS2.0.103.0.VOKMIXM/fw_zorn_global_zorn_global-ota_full-OS2.0.103.0.VOKMIXM-user-15.0-aea6f4fbfd.zip
   name: Redmi K80/POCO F7 Pro
   version: OS2.0.103.0.VOKMIXM
+- android: '16.0'
+  codename: zorn
+  date: '2026-08-25'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WOKMIXM/fw_zorn_zorn_global-ota_full-OS3.0.302.0.WOKMIXM-user-16.0-81661bfc78.zip
+  name: Redmi K80/POCO F7 Pro
+  version: OS3.0.302.0.WOKMIXM
 - android: '16.0'
   codename: zorn
   date: '2026-02-26'
