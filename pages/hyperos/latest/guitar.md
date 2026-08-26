@@ -64,9 +64,8 @@ permalink: /hyperos/guitar/
 <tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WDNRUXM</td><td>16.0</td><td>4.8 GB</td><td>2026-08-19</td><td><a href="/hyperos/guitar/stable/OS3.0.306.0.WDNRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WDNTRXM</td><td>16.0</td><td>6.3 GB</td><td>2026-07-27</td><td><a href="/hyperos/guitar/stable/OS3.0.304.0.WDNTRXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WDNTRXM</td><td>16.0</td><td>4.9 GB</td><td>2026-08-14</td><td><a href="/hyperos/guitar/stable/OS3.0.304.0.WDNTRXM/">Download</a></td></tr>
-<tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WDNTWXM</td><td>16.0</td><td>4.8 GB</td><td>2026-08-19</td><td><a href="/hyperos/guitar/stable beta/OS3.0.303.0.WDNTWXM/">Download</a></td></tr>
-<tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WDNTWXM</td><td>16.0</td><td>5.8 GB</td><td>2026-04-21</td><td><a href="/hyperos/guitar/stable/OS3.0.302.0.WDNTWXM/">Download</a></td></tr>
-<tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WDNTWXM</td><td>16.0</td><td>4.8 GB</td><td>2026-05-08</td><td><a href="/hyperos/guitar/stable/OS3.0.302.0.WDNTWXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WDNTWXM</td><td>16.0</td><td>5.7 GB</td><td>2026-07-27</td><td><a href="/hyperos/guitar/stable/OS3.0.303.0.WDNTWXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 SE / Pad 2 9.7 / POCO Pad C1 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WDNTWXM</td><td>16.0</td><td>4.8 GB</td><td>2026-08-19</td><td><a href="/hyperos/guitar/stable/OS3.0.303.0.WDNTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
