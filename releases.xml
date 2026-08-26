@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 26 Aug 2026 12:40:10 </lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 18:57:27 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 17 Pro Max 5G/POCO X8 Power (brussels) - OS3.0.304.0.WDREUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/brussels/</link>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS3.0.304.0.WOMCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/miro/</link>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 17 5G/POCO M8 Power 5G (mist) - OS3.0.303.0.WPUEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/mist/</link>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS3.0.304.0.WMLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/corot/</link>
@@ -1515,11 +1530,6 @@
             <title>Redmi K60E (rembrandt) - OS2.0.25.0.UMMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rembrandt/</link>
             <pubDate>Sat, 09 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K80 Pro/POCO F7 Ultra (miro) - OS3.0.303.0.WOMCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/miro/</link>
-            <pubDate>Thu, 07 May 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G (spring) - OS3.0.302.0.WOUCNXM</title>

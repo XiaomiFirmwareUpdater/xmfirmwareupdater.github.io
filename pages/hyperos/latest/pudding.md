@@ -73,9 +73,9 @@ permalink: /hyperos/pudding/
 <tr><td>Xiaomi 17 Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WPCTRXM</td><td>16.0</td><td>7.9 GB</td><td>2026-05-25</td><td><a href="/hyperos/pudding/stable/OS3.0.302.0.WPCTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WPCIDXM</td><td>16.0</td><td>7.6 GB</td><td>2026-02-28</td><td><a href="/hyperos/pudding/stable beta/OS3.0.3.0.WPCIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WPCTRXM</td><td>16.0</td><td>7.9 GB</td><td>2026-08-19</td><td><a href="/hyperos/pudding/stable beta/OS3.0.303.0.WPCTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 17 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WPCTWXM</td><td>16.0</td><td>8.9 GB</td><td>2026-05-11</td><td><a href="/hyperos/pudding/stable/OS3.0.302.0.WPCTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 17 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WPCTWXM</td><td>16.0</td><td>7.7 GB</td><td>2026-05-20</td><td><a href="/hyperos/pudding/stable/OS3.0.302.0.WPCTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 17 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WPCTWXM</td><td>16.0</td><td>7.8 GB</td><td>2026-08-17</td><td><a href="/hyperos/pudding/stable beta/OS3.0.303.0.WPCTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WPCTWXM</td><td>16.0</td><td>8.9 GB</td><td>2026-07-31</td><td><a href="/hyperos/pudding/stable/OS3.0.303.0.WPCTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WPCTWXM</td><td>16.0</td><td>7.8 GB</td><td>2026-08-17</td><td><a href="/hyperos/pudding/stable/OS3.0.303.0.WPCTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WPCTWXM</td><td>16.0</td><td>7.5 GB</td><td>2026-02-28</td><td><a href="/hyperos/pudding/stable beta/OS3.0.3.0.WPCTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

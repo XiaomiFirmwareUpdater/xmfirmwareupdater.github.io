@@ -1,0 +1,10 @@
+- branch: stable
+  date: '2026-08-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_brussels/releases/download/stable-26.08.2026/fw_brussels_brussels_eea_global-ota_full-OS3.0.304.0.WDREUXM-user-16.0-3847991535.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/brussels/fw_brussels_brussels_eea_global-ota_full-OS3.0.304.0.WDREUXM-user-16.0-3847991535.zip
+  filename: fw_brussels_brussels_eea_global-ota_full-OS3.0.304.0.WDREUXM-user-16.0-3847991535.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.304.0.WDREUXM

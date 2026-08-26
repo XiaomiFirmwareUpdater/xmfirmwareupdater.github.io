@@ -52,8 +52,8 @@ permalink: /hyperos/miro/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K80 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WOMCNXM</td><td>16.0</td><td>11.2 GB</td><td>2026-04-07</td><td><a href="/hyperos/miro/stable/OS3.0.303.0.WOMCNXM/">Download</a></td></tr>
-<tr><td>Redmi K80 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WOMCNXM</td><td>16.0</td><td>8.9 GB</td><td>2026-04-14</td><td><a href="/hyperos/miro/stable/OS3.0.303.0.WOMCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K80 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WOMCNXM</td><td>16.0</td><td>11.3 GB</td><td>2026-07-30</td><td><a href="/hyperos/miro/stable/OS3.0.304.0.WOMCNXM/">Download</a></td></tr>
+<tr><td>Redmi K80 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WOMCNXM</td><td>16.0</td><td>8.9 GB</td><td>2026-08-10</td><td><a href="/hyperos/miro/stable/OS3.0.304.0.WOMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K80 Pro / POCO F7 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOMEUXM</td><td>16.0</td><td>9.5 GB</td><td>2026-07-30</td><td><a href="/hyperos/miro/stable/OS3.0.302.0.WOMEUXM/">Download</a></td></tr>
 <tr><td>Redmi K80 Pro / POCO F7 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOMEUXM</td><td>16.0</td><td>7.9 GB</td><td>2026-08-12</td><td><a href="/hyperos/miro/stable/OS3.0.302.0.WOMEUXM/">Download</a></td></tr>
 <tr><td>Redmi K80 Pro / POCO F7 Ultra Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOMMIXM</td><td>16.0</td><td>10.7 GB</td><td>2026-07-30</td><td><a href="/hyperos/miro/stable/OS3.0.302.0.WOMMIXM/">Download</a></td></tr>

@@ -9,15 +9,15 @@
     android: '16.0'
     miui: OS3.0.302.0.WOMMIXM
 - branch: stable
-  date: '2026-05-07'
+  date: '2026-08-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-07.05.2026/fw_miro_miro-ota_full-OS3.0.303.0.WOMCNXM-user-16.0-56b2b58966.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/miro/fw_miro_miro-ota_full-OS3.0.303.0.WOMCNXM-user-16.0-56b2b58966.zip
-  filename: fw_miro_miro-ota_full-OS3.0.303.0.WOMCNXM-user-16.0-56b2b58966.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-26.08.2026/fw_miro_miro-ota_full-OS3.0.304.0.WOMCNXM-user-16.0-c42e5d49de.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/miro/fw_miro_miro-ota_full-OS3.0.304.0.WOMCNXM-user-16.0-c42e5d49de.zip
+  filename: fw_miro_miro-ota_full-OS3.0.304.0.WOMCNXM-user-16.0-c42e5d49de.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.303.0.WOMCNXM
+    miui: OS3.0.304.0.WOMCNXM
 - branch: stable
   date: '2026-08-24'
   downloads:

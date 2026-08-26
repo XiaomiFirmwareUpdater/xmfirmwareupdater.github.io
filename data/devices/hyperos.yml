@@ -2843,6 +2843,12 @@
   name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
   version: OS1.0.7.0.UNUCNXM
 - android: '16.0'
+  codename: brussels
+  date: '2026-08-26'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WDREUXM/fw_brussels_brussels_eea_global-ota_full-OS3.0.304.0.WDREUXM-user-16.0-3847991535.zip
+  name: Redmi Note 17 Pro Max 5G/POCO X8 Power
+  version: OS3.0.304.0.WDREUXM
+- android: '16.0'
   codename: byron
   date: '2026-05-28'
   download: https://bigota.d.miui.com/OS3.0.304.0.WAFCNXM/fw_byron_byron-ota_full-OS3.0.304.0.WAFCNXM-user-16.0-b3a2165acf.zip
@@ -15826,6 +15832,12 @@
   download: https://bigota.d.miui.com/OS2.0.205.0.VOMEUXM/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.205.0.VOMEUXM-user-15.0-befbd93e18.zip
   name: Redmi K80 Pro/POCO F7 Ultra
   version: OS2.0.205.0.VOMEUXM
+- android: '16.0'
+  codename: miro
+  date: '2026-08-26'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WOMCNXM/fw_miro_miro-ota_full-OS3.0.304.0.WOMCNXM-user-16.0-c42e5d49de.zip
+  name: Redmi K80 Pro/POCO F7 Ultra
+  version: OS3.0.304.0.WOMCNXM
 - android: '15.0'
   codename: miro
   date: '2025-10-25'
@@ -16036,6 +16048,12 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VOMMIXM/fw_miro_global_miro_global-ota_full-OS2.0.203.0.VOMMIXM-user-15.0-5edc28d5df.zip
   name: Redmi K80 Pro/POCO F7 Ultra
   version: OS2.0.203.0.VOMMIXM
+- android: '16.0'
+  codename: mist
+  date: '2026-08-26'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WPUEUXM/fw_mist_mist_eea_global-ota_full-OS3.0.303.0.WPUEUXM-user-16.0-9df43f6521.zip
+  name: Redmi Note 17 5G/POCO M8 Power 5G
+  version: OS3.0.303.0.WPUEUXM
 - android: '16.0'
   codename: mist
   date: '2026-08-24'
