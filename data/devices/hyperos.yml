@@ -2844,6 +2844,12 @@
   version: OS1.0.7.0.UNUCNXM
 - android: '16.0'
   codename: brussels
+  date: '2026-08-27'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WDRMIXM/fw_brussels_brussels_global-ota_full-OS3.0.303.0.WDRMIXM-user-16.0-c691013cdd.zip
+  name: Redmi Note 17 Pro Max 5G/POCO X8 Power
+  version: OS3.0.303.0.WDRMIXM
+- android: '16.0'
+  codename: brussels
   date: '2026-08-26'
   download: https://bigota.d.miui.com/OS3.0.304.0.WDREUXM/fw_brussels_brussels_eea_global-ota_full-OS3.0.304.0.WDREUXM-user-16.0-3847991535.zip
   name: Redmi Note 17 Pro Max 5G/POCO X8 Power
@@ -3760,6 +3766,12 @@
   download: https://bigota.d.miui.com/OS2.0.210.0.VBOMIXM/fw_creek_creek_global-ota_full-OS2.0.210.0.VBOMIXM-user-15.0-e723881768.zip
   name: Redmi 15/POCO M7
   version: OS2.0.210.0.VBOMIXM
+- android: '16.0'
+  codename: creek
+  date: '2026-08-27'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WBOEUXM/fw_creek_creek_eea_global-ota_full-OS3.0.302.0.WBOEUXM-user-16.0-a5c27192c8.zip
+  name: Redmi 15/POCO M7
+  version: OS3.0.302.0.WBOEUXM
 - android: '16.0'
   codename: creek
   date: '2026-06-26'
@@ -12277,9 +12289,21 @@
 - android: '16.0'
   codename: iolite
   date: '2026-08-27'
+  download: https://bigota.d.miui.com/OS3.0.306.0.WDQEUXM/fw_iolite_iolite_eea_global-ota_full-OS3.0.306.0.WDQEUXM-user-16.0-0774962b0a.zip
+  name: Redmi Note 17 Pro 5G/POCO X8
+  version: OS3.0.306.0.WDQEUXM
+- android: '16.0'
+  codename: iolite
+  date: '2026-08-27'
   download: https://bigota.d.miui.com/OS3.0.303.0.WDQMIXM/fw_iolite_iolite_global-ota_full-OS3.0.303.0.WDQMIXM-user-16.0-d0482044ea.zip
   name: Redmi Note 17 Pro 5G/POCO X8
   version: OS3.0.303.0.WDQMIXM
+- android: '16.0'
+  codename: iolite
+  date: '2026-08-27'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WDQMIXM/fw_iolite_iolite_global-ota_full-OS3.0.304.0.WDQMIXM-user-16.0-89b4566849.zip
+  name: Redmi Note 17 Pro 5G/POCO X8
+  version: OS3.0.304.0.WDQMIXM
 - android: '16.0'
   codename: iolite
   date: '2026-08-25'
@@ -12790,6 +12814,12 @@
   download: https://bigota.d.miui.com/OS3.0.304.0.WPJMIXM/fw_klee_klee_global-ota_full-OS3.0.304.0.WPJMIXM-user-16.0-a2952bd4fe.zip
   name: Redmi Turbo 5/POCO X8 Pro
   version: OS3.0.304.0.WPJMIXM
+- android: '16.0'
+  codename: klee
+  date: '2026-08-27'
+  download: https://bigota.d.miui.com/OS3.0.307.0.WPJMIXM/fw_klee_klee_global-ota_full-OS3.0.307.0.WPJMIXM-user-16.0-7e15f2f224.zip
+  name: Redmi Turbo 5/POCO X8 Pro
+  version: OS3.0.307.0.WPJMIXM
 - android: '16.0'
   codename: klee
   date: '2026-02-25'
@@ -26962,6 +26992,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UKACNXM/fw_star_miui_STAR_OS1.0.3.0.UKACNXM_654946af55_14.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: OS1.0.3.0.UKACNXM
+- android: '16.0'
+  codename: steppe
+  date: '2026-08-27'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WAVCNXM/fw_steppe_steppe-ota_full-OS3.0.304.0.WAVCNXM-user-16.0-f890a6c3f8.zip
+  name: Redmi M100/Redmi 17 5G/POCO M8x 5G
+  version: OS3.0.304.0.WAVCNXM
 - android: '16.0'
   codename: steppe
   date: '2026-08-25'
