@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 27 Aug 2026 14:03:43 </lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 19:12:12 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 17 Pro Max 5G/POCO X8 Power (brussels) - OS3.0.303.0.WDRMIXM</title>
@@ -39,6 +39,11 @@
         <item>
             <title>Redmi M100/Redmi 17 5G/POCO M8x 5G (steppe) - OS3.0.304.0.WAVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/steppe/</link>
+            <pubDate>Thu, 27 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 17 4G (zephyr) - OS3.0.305.0.WBUEUDM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zephyr/</link>
             <pubDate>Thu, 27 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
