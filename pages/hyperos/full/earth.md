@@ -52,7 +52,9 @@ permalink: /archive/hyperos/earth/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 12C / POCO C55 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.UCVIDXM</td><td>14.0</td><td>4.2 GB</td><td>2026-04-15</td><td><a href="/hyperos/earth/stable/OS1.0.10.0.UCVIDXM/">Download</a></td></tr>
+                <tr><td>Redmi 12C / POCO C55 EEA</td><td>Stable</td><td>Recovery</td><td>OS1.0.17.0.UCVEUXM</td><td>14.0</td><td>4.2 GB</td><td>2026-08-13</td><td><a href="/hyperos/earth/stable/OS1.0.17.0.UCVEUXM/">Download</a></td></tr>
+<tr><td>Redmi 12C / POCO C55 EEA</td><td>Stable</td><td>Fastboot</td><td>OS1.0.17.0.UCVEUXM</td><td>14.0</td><td>6.2 GB</td><td>2026-08-06</td><td><a href="/hyperos/earth/stable/OS1.0.17.0.UCVEUXM/">Download</a></td></tr>
+<tr><td>Redmi 12C / POCO C55 Indonesia</td><td>Stable</td><td>Recovery</td><td>OS1.0.10.0.UCVIDXM</td><td>14.0</td><td>4.2 GB</td><td>2026-04-15</td><td><a href="/hyperos/earth/stable/OS1.0.10.0.UCVIDXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.10.0.UCVIDXM</td><td>14.0</td><td>6.2 GB</td><td>2026-03-31</td><td><a href="/hyperos/earth/stable/OS1.0.10.0.UCVIDXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 Russia</td><td>Stable</td><td>Recovery</td><td>OS1.0.11.0.UCVRUXM</td><td>14.0</td><td>4.2 GB</td><td>2026-04-14</td><td><a href="/hyperos/earth/stable/OS1.0.11.0.UCVRUXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 Russia</td><td>Stable</td><td>Fastboot</td><td>OS1.0.11.0.UCVRUXM</td><td>14.0</td><td>6.5 GB</td><td>2026-03-31</td><td><a href="/hyperos/earth/stable/OS1.0.11.0.UCVRUXM/">Download</a></td></tr>

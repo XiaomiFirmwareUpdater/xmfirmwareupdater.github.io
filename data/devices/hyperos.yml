@@ -6942,6 +6942,12 @@
   version: OS1.0.10.0.UCVINXM
 - android: '14.0'
   codename: earth
+  date: '2026-08-27'
+  download: https://bigota.d.miui.com/OS1.0.17.0.UCVEUXM/fw_earth_miui_EARTHEEAGlobal_OS1.0.17.0.UCVEUXM_fbf9a9d72b_14.0.zip
+  name: Redmi 12C/POCO C55
+  version: OS1.0.17.0.UCVEUXM
+- android: '14.0'
+  codename: earth
   date: '2025-06-27'
   download: https://bigota.d.miui.com/OS1.0.11.0.UCVEUXM/fw_earth_miui_EARTHEEAGlobal_OS1.0.11.0.UCVEUXM_ac8b79cf1d_14.0.zip
   name: Redmi 12C/POCO C55
@@ -12268,6 +12274,12 @@
   download: https://bigota.d.miui.com/OS1.0.1.0.ULJMIXM/fw_ingres_miui_INGRESGlobal_OS1.0.1.0.ULJMIXM_a21c48ed3d_14.0.zip
   name: Redmi K50G/POCO F4 GT
   version: OS1.0.1.0.ULJMIXM
+- android: '16.0'
+  codename: iolite
+  date: '2026-08-27'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WDQMIXM/fw_iolite_iolite_global-ota_full-OS3.0.303.0.WDQMIXM-user-16.0-d0482044ea.zip
+  name: Redmi Note 17 Pro 5G/POCO X8
+  version: OS3.0.303.0.WDQMIXM
 - android: '16.0'
   codename: iolite
   date: '2026-08-25'

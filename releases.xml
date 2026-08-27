@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 27 Aug 2026 00:38:57 </lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 06:50:21 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 12C/POCO C55 (earth) - OS1.0.17.0.UCVEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/earth/</link>
+            <pubDate>Thu, 27 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 17 Pro 5G/POCO X8 (iolite) - OS3.0.303.0.WDQMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/iolite/</link>
+            <pubDate>Thu, 27 Aug 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 17 Pro Max 5G/POCO X8 Power (brussels) - OS3.0.304.0.WDREUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/brussels/</link>
@@ -1628,11 +1638,6 @@
         </item>
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.16.0.UCVMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/earth/</link>
-            <pubDate>Wed, 18 Mar 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12C/POCO C55 (earth) - OS1.0.16.0.UCVEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/earth/</link>
             <pubDate>Wed, 18 Mar 2026 00:00:00 </pubDate>
         </item>

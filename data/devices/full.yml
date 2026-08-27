@@ -33089,6 +33089,16 @@
     android: '14.0'
     miui: OS1.0.10.0.UCVINXM
 - branch: stable
+  date: '2026-08-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-27.08.2026/fw_earth_miui_EARTHEEAGlobal_OS1.0.17.0.UCVEUXM_fbf9a9d72b_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/earth/fw_earth_miui_EARTHEEAGlobal_OS1.0.17.0.UCVEUXM_fbf9a9d72b_14.0.zip
+  filename: fw_earth_miui_EARTHEEAGlobal_OS1.0.17.0.UCVEUXM_fbf9a9d72b_14.0.zip
+  region: Europe
+  versions:
+    android: '14.0'
+    miui: OS1.0.17.0.UCVEUXM
+- branch: stable
   date: '2025-06-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-27.06.2025/fw_earth_miui_EARTHEEAGlobal_OS1.0.11.0.UCVEUXM_ac8b79cf1d_14.0.zip
@@ -50388,6 +50398,16 @@
   versions:
     android: '14.0'
     miui: OS1.0.1.0.ULJMIXM
+- branch: stable
+  date: '2026-08-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_iolite/releases/download/stable-27.08.2026/fw_iolite_iolite_global-ota_full-OS3.0.303.0.WDQMIXM-user-16.0-d0482044ea.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/iolite/fw_iolite_iolite_global-ota_full-OS3.0.303.0.WDQMIXM-user-16.0-d0482044ea.zip
+  filename: fw_iolite_iolite_global-ota_full-OS3.0.303.0.WDQMIXM-user-16.0-d0482044ea.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.303.0.WDQMIXM
 - branch: stable
   date: '2026-08-25'
   downloads:
