@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 28 Aug 2026 18:43:41 </lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 01:00:19 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS3.0.306.0.WMLEUXM</title>
@@ -22,13 +22,28 @@
             <pubDate>Fri, 28 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Note 17 5G/POCO M8 Power 5G (mist) - OS3.0.302.0.WPUMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/mist/</link>
+            <pubDate>Fri, 28 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 17 5G/POCO M8 Power 5G (mist) - OS3.0.305.0.WPUINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/mist/</link>
             <pubDate>Fri, 28 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - OS3.0.303.0.WOLINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
+            <pubDate>Fri, 28 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Turbo 3/POCO F6 (peridot) - OS3.0.303.0.WNPEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
+            <pubDate>Fri, 28 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad Pro 5G/POCO Pad 5G (ruan) - OS3.0.305.0.WFSINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ruan/</link>
             <pubDate>Fri, 28 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -39,6 +54,11 @@
         <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.16.0.UMOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
+            <pubDate>Fri, 28 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>MIX Flip (ruyi) - OS3.0.303.0.WNIEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ruyi/</link>
             <pubDate>Fri, 28 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -242,7 +262,7 @@
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K100 Pro Max (songyuan) - OS3.0.301.0.WGNCNXM</title>
+            <title>Redmi K100 Pro Max/POCO F9 Ultra (songyuan) - OS3.0.301.0.WGNCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/songyuan/</link>
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
         </item>
@@ -1257,11 +1277,6 @@
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad Pro 5G/POCO Pad 5G (ruan) - OS3.0.304.0.WFSINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ruan/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - OS2.0.13.0.UMOINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruby/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
@@ -1415,16 +1430,6 @@
             <title>MIX Flip (ruyi) - OS3.0.305.0.WNICNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruyi/</link>
             <pubDate>Thu, 18 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>MIX Flip (ruyi) - OS3.0.302.0.WNIEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ruyi/</link>
-            <pubDate>Thu, 18 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - OS3.0.301.0.WOLINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
-            <pubDate>Wed, 17 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 12 Turbo/POCO F5 (marble) - OS3.0.4.0.VMRMIXM</title>

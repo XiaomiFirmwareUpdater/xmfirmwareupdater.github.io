@@ -4099,6 +4099,16 @@
     android: '16.0'
     miui: OS3.0.302.0.WOMEUXM
 - branch: stable
+  date: '2026-08-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mist/releases/download/stable-29.08.2026/fw_mist_mist_global-ota_full-OS3.0.302.0.WPUMIXM-user-16.0-998c6d2c07.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/mist/fw_mist_mist_global-ota_full-OS3.0.302.0.WPUMIXM-user-16.0-998c6d2c07.zip
+  filename: fw_mist_mist_global-ota_full-OS3.0.302.0.WPUMIXM-user-16.0-998c6d2c07.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.302.0.WPUMIXM
+- branch: stable
   date: '2026-08-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mist/releases/download/stable-24.08.2026/fw_mist_mist-ota_full-OS3.0.311.0.WPUCNXM-user-16.0-d19f9040d8.zip
@@ -4789,15 +4799,15 @@
     android: '16.0'
     miui: OS3.0.301.0.WOLEUXM
 - branch: stable
-  date: '2026-06-17'
+  date: '2026-08-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-17.06.2026/fw_onyx_onyx_in_global-ota_full-OS3.0.301.0.WOLINXM-user-16.0-d8dd53e894.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/onyx/fw_onyx_onyx_in_global-ota_full-OS3.0.301.0.WOLINXM-user-16.0-d8dd53e894.zip
-  filename: fw_onyx_onyx_in_global-ota_full-OS3.0.301.0.WOLINXM-user-16.0-d8dd53e894.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onyx/releases/download/stable-29.08.2026/fw_onyx_onyx_in_global-ota_full-OS3.0.303.0.WOLINXM-user-16.0-77f86ace13.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/onyx/fw_onyx_onyx_in_global-ota_full-OS3.0.303.0.WOLINXM-user-16.0-77f86ace13.zip
+  filename: fw_onyx_onyx_in_global-ota_full-OS3.0.303.0.WOLINXM-user-16.0-77f86ace13.zip
   region: India
   versions:
     android: '16.0'
-    miui: OS3.0.301.0.WOLINXM
+    miui: OS3.0.303.0.WOLINXM
 - branch: stable
   date: '2024-04-01'
   downloads:
@@ -5889,15 +5899,15 @@
     android: '16.0'
     miui: OS3.0.302.0.WFSEUXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-08-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-25.08.2026/fw_ruan_ruan_in_global-ota_full-OS3.0.304.0.WFSINXM-user-16.0-65037b44b6.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ruan/fw_ruan_ruan_in_global-ota_full-OS3.0.304.0.WFSINXM-user-16.0-65037b44b6.zip
-  filename: fw_ruan_ruan_in_global-ota_full-OS3.0.304.0.WFSINXM-user-16.0-65037b44b6.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruan/releases/download/stable-29.08.2026/fw_ruan_ruan_in_global-ota_full-OS3.0.305.0.WFSINXM-user-16.0-1ede5cec45.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ruan/fw_ruan_ruan_in_global-ota_full-OS3.0.305.0.WFSINXM-user-16.0-1ede5cec45.zip
+  filename: fw_ruan_ruan_in_global-ota_full-OS3.0.305.0.WFSINXM-user-16.0-1ede5cec45.zip
   region: India
   versions:
     android: '16.0'
-    miui: OS3.0.304.0.WFSINXM
+    miui: OS3.0.305.0.WFSINXM
 - branch: stable
   date: '2025-05-13'
   downloads:
@@ -5969,15 +5979,15 @@
     android: '16.0'
     miui: OS3.0.305.0.WNICNXM
 - branch: stable
-  date: '2026-06-18'
+  date: '2026-08-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-18.06.2026/fw_ruyi_ruyi_eea_global-ota_full-OS3.0.302.0.WNIEUXM-user-16.0-172bfa30af.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ruyi/fw_ruyi_ruyi_eea_global-ota_full-OS3.0.302.0.WNIEUXM-user-16.0-172bfa30af.zip
-  filename: fw_ruyi_ruyi_eea_global-ota_full-OS3.0.302.0.WNIEUXM-user-16.0-172bfa30af.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruyi/releases/download/stable-29.08.2026/fw_ruyi_ruyi_eea_global-ota_full-OS3.0.303.0.WNIEUXM-user-16.0-e27475fcaf.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ruyi/fw_ruyi_ruyi_eea_global-ota_full-OS3.0.303.0.WNIEUXM-user-16.0-e27475fcaf.zip
+  filename: fw_ruyi_ruyi_eea_global-ota_full-OS3.0.303.0.WNIEUXM-user-16.0-e27475fcaf.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.302.0.WNIEUXM
+    miui: OS3.0.303.0.WNIEUXM
 - branch: stable
   date: '2020-03-23'
   downloads:

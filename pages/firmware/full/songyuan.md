@@ -1,7 +1,7 @@
 ---
-title: Redmi K100 Pro Max (songyuan) Firmware Downloads
+title: Redmi K100 Pro Max/POCO F9 Ultra (songyuan) Firmware Downloads
 layout: download
-name: Redmi K100 Pro Max
+name: Redmi K100 Pro Max/POCO F9 Ultra
 codename: songyuan
 permalink: /archive/firmware/songyuan/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/songyuan/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/songyuan/">Redmi K100 Pro Max</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/songyuan/">Redmi K100 Pro Max/POCO F9 Ultra</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

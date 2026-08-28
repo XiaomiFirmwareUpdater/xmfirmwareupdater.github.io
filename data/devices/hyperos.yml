@@ -16111,6 +16111,12 @@
 - android: '16.0'
   codename: mist
   date: '2026-08-28'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WPUMIXM/fw_mist_mist_global-ota_full-OS3.0.302.0.WPUMIXM-user-16.0-998c6d2c07.zip
+  name: Redmi Note 17 5G/POCO M8 Power 5G
+  version: OS3.0.302.0.WPUMIXM
+- android: '16.0'
+  codename: mist
+  date: '2026-08-28'
   download: https://bigota.d.miui.com/OS3.0.305.0.WPUINXM/fw_mist_mist_in_global-ota_full-OS3.0.305.0.WPUINXM-user-16.0-247829b24e.zip
   name: Redmi Note 17 5G/POCO M8 Power 5G
   version: OS3.0.305.0.WPUINXM
@@ -18736,6 +18742,12 @@
   download: https://bigota.d.miui.com/OS2.0.202.0.VOLMIXM/fw_onyx_global_onyx_global-ota_full-OS2.0.202.0.VOLMIXM-user-15.0-5ff284f373.zip
   name: Redmi Turbo 4 Pro/POCO F7
   version: OS2.0.202.0.VOLMIXM
+- android: '16.0'
+  codename: onyx
+  date: '2026-08-28'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WOLINXM/fw_onyx_onyx_in_global-ota_full-OS3.0.303.0.WOLINXM-user-16.0-77f86ace13.zip
+  name: Redmi Turbo 4 Pro/POCO F7
+  version: OS3.0.303.0.WOLINXM
 - android: '15.0'
   codename: onyx
   date: '2025-08-29'
@@ -22966,6 +22978,12 @@
   download: https://bigota.d.miui.com/OS2.0.204.0.VFSINXM/fw_ruan_ruan_in_global-ota_full-OS2.0.204.0.VFSINXM-user-15.0-7cf5cb7fa0.zip
   name: Redmi Pad Pro 5G/POCO Pad 5G
   version: OS2.0.204.0.VFSINXM
+- android: '16.0'
+  codename: ruan
+  date: '2026-08-28'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WFSINXM/fw_ruan_ruan_in_global-ota_full-OS3.0.305.0.WFSINXM-user-16.0-1ede5cec45.zip
+  name: Redmi Pad Pro 5G/POCO Pad 5G
+  version: OS3.0.305.0.WFSINXM
 - android: '15.0'
   codename: ruan
   date: '2025-08-29'
@@ -24058,6 +24076,12 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VNIMIXM/fw_ruyi_global_ruyi_global-ota_full-OS2.0.203.0.VNIMIXM-user-15.0-112d8e99b2.zip
   name: MIX Flip
   version: OS2.0.203.0.VNIMIXM
+- android: '16.0'
+  codename: ruyi
+  date: '2026-08-28'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WNIEUXM/fw_ruyi_ruyi_eea_global-ota_full-OS3.0.303.0.WNIEUXM-user-16.0-e27475fcaf.zip
+  name: MIX Flip
+  version: OS3.0.303.0.WNIEUXM
 - android: '16.0'
   codename: ruyi
   date: '2025-11-28'
@@ -26270,7 +26294,7 @@
   codename: songyuan
   date: '2026-08-25'
   download: https://bigota.d.miui.com/OS3.0.301.0.WGNCNXM/fw_songyuan_songyuan-ota_full-OS3.0.301.0.WGNCNXM-user-16.0-355f85a1fd.zip
-  name: Redmi K100 Pro Max
+  name: Redmi K100 Pro Max/POCO F9 Ultra
   version: OS3.0.301.0.WGNCNXM
 - android: '15.0'
   codename: spark

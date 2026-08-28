@@ -1,7 +1,7 @@
 ---
-title: Redmi K100 Pro Max (songyuan) HyperOS Downloads
+title: Redmi K100 Pro Max/POCO F9 Ultra (songyuan) HyperOS Downloads
 layout: download
-name: Redmi K100 Pro Max
+name: Redmi K100 Pro Max/POCO F9 Ultra
 codename: songyuan
 permalink: /archive/hyperos/songyuan/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/hyperos/songyuan/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/songyuan/">Redmi K100 Pro Max</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/hyperos/songyuan/">Redmi K100 Pro Max/POCO F9 Ultra</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
