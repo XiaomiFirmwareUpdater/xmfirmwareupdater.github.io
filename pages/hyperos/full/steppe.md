@@ -52,7 +52,9 @@ permalink: /archive/hyperos/steppe/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi M100 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WAVCNXM</td><td>16.0</td><td>5.3 GB</td><td>2026-08-27</td><td><a href="/hyperos/steppe/stable/OS3.0.304.0.WAVCNXM/">Download</a></td></tr>
+                <tr><td>Redmi 17 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WAVTWXM</td><td>16.0</td><td>4.6 GB</td><td>2026-08-28</td><td><a href="/hyperos/steppe/stable/OS3.0.302.0.WAVTWXM/">Download</a></td></tr>
+<tr><td>Redmi 17 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WAVTWXM</td><td>16.0</td><td>5.6 GB</td><td>2026-07-16</td><td><a href="/hyperos/steppe/stable/OS3.0.302.0.WAVTWXM/">Download</a></td></tr>
+<tr><td>Redmi M100 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WAVCNXM</td><td>16.0</td><td>5.3 GB</td><td>2026-08-27</td><td><a href="/hyperos/steppe/stable/OS3.0.304.0.WAVCNXM/">Download</a></td></tr>
 <tr><td>Redmi M100 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WAVCNXM</td><td>16.0</td><td>7.2 GB</td><td>2026-08-13</td><td><a href="/hyperos/steppe/stable/OS3.0.304.0.WAVCNXM/">Download</a></td></tr>
 <tr><td>Redmi 17 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.310.0.WAVMIXM</td><td>16.0</td><td>4.9 GB</td><td>2026-08-24</td><td><a href="/hyperos/steppe/stable beta/OS3.0.310.0.WAVMIXM/">Download</a></td></tr>
 <tr><td>Redmi M100 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WAVCNXM</td><td>16.0</td><td>5.3 GB</td><td>2026-08-17</td><td><a href="/hyperos/steppe/stable/OS3.0.302.0.WAVCNXM/">Download</a></td></tr>

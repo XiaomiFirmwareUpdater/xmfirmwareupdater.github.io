@@ -65479,6 +65479,16 @@
     android: '15.0'
     miui: OS2.0.203.0.VOMMIXM
 - branch: stable
+  date: '2026-08-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mist/releases/download/stable-28.08.2026/fw_mist_mist_in_global-ota_full-OS3.0.305.0.WPUINXM-user-16.0-247829b24e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/mist/fw_mist_mist_in_global-ota_full-OS3.0.305.0.WPUINXM-user-16.0-247829b24e.zip
+  filename: fw_mist_mist_in_global-ota_full-OS3.0.305.0.WPUINXM-user-16.0-247829b24e.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.305.0.WPUINXM
+- branch: stable
   date: '2026-08-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mist/releases/download/stable-26.08.2026/fw_mist_mist_eea_global-ota_full-OS3.0.303.0.WPUEUXM-user-16.0-9df43f6521.zip

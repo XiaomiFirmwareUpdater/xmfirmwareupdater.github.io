@@ -1,16 +1,16 @@
 ---
-title: MIX Flip Global HyperOS OS3.0.303.0.WNIMIXM Update
+title: MIX Flip EEA HyperOS OS3.0.303.0.WNIEUXM Update
 layout: download
-name: MIX Flip Global
+name: MIX Flip EEA
 codename: ruyi
-permalink: /hyperos/ruyi/stable/OS3.0.303.0.WNIMIXM/
+permalink: /hyperos/ruyi/stable/OS3.0.303.0.WNIEUXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/ruyi/">MIX Flip Global</a></li>
-        <li class="breadcrumb-item active" aria-current="page">OS3.0.303.0.WNIMIXM</li>
+        <li class="breadcrumb-item"><a href="/hyperos/ruyi/">MIX Flip EEA</a></li>
+        <li class="breadcrumb-item active" aria-current="page">OS3.0.303.0.WNIEUXM</li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -21,8 +21,8 @@ permalink: /hyperos/ruyi/stable/OS3.0.303.0.WNIMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.303.0.WNIMIXM Stable Official Update for MIX Flip Global (ruyi)</h3>
-    <h5>This page shows the OS3.0.303.0.WNIMIXM update only. If you're looking for other updates check
+    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.303.0.WNIEUXM Stable Official Update for MIX Flip EEA (ruyi)</h3>
+    <h5>This page shows the OS3.0.303.0.WNIEUXM update only. If you're looking for other updates check
         <a href="/hyperos/ruyi/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
         It's not owned, modified or edited by XM Firmware Updater.</p>
@@ -44,13 +44,13 @@ permalink: /hyperos/ruyi/stable/OS3.0.303.0.WNIMIXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>MIX Flip Global</h5>
+                    <h5><b>Device: </b>MIX Flip EEA</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/ruyi/" target="_blank">ruyi</a> </h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS3.0.303.0.WNIMIXM</h5>
+                    <h5><b>Version: </b>OS3.0.303.0.WNIEUXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Branch: </b>Stable</h5>
@@ -65,13 +65,13 @@ permalink: /hyperos/ruyi/stable/OS3.0.303.0.WNIMIXM/
                     <h5><b>Release Date: </b>2026-08-19</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">ruyi_global-ota_full-OS3.0.303.0.WNIMIXM-user-16.0-0200f61ca8.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">ruyi_eea_global-ota_full-OS3.0.303.0.WNIEUXM-user-16.0-e27475fcaf.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">0200f61ca8f28dcdf5a4b31e08e05c41</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">e27475fcaf62caa9ce296d81f44cb5af</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNIMIXM/ruyi_global-ota_incremental-OS3.0.302.0.WNIMIXM-OS3.0.303.0.WNIMIXM-user-16.0-0cded78509.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.303.0.WNIMIXM/ruyi_global-ota_full-OS3.0.303.0.WNIMIXM-user-16.0-0200f61ca8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNIMIXM/ruyi_global-ota_full-OS3.0.303.0.WNIMIXM-user-16.0-0200f61ca8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.303.0.WNIMIXM/ruyi_global-ota_full-OS3.0.303.0.WNIMIXM-user-16.0-0200f61ca8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.303.0.WNIMIXM/ruyi_global-ota_full-OS3.0.303.0.WNIMIXM-user-16.0-0200f61ca8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.303.0.WNIMIXM/ruyi_global-ota_full-OS3.0.303.0.WNIMIXM-user-16.0-0200f61ca8.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.303.0.WNIEUXM/ruyi_eea_global-ota_full-OS3.0.303.0.WNIEUXM-user-16.0-e27475fcaf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNIEUXM/ruyi_eea_global-ota_full-OS3.0.303.0.WNIEUXM-user-16.0-e27475fcaf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.303.0.WNIEUXM/ruyi_eea_global-ota_full-OS3.0.303.0.WNIEUXM-user-16.0-e27475fcaf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.303.0.WNIEUXM/ruyi_eea_global-ota_full-OS3.0.303.0.WNIEUXM-user-16.0-e27475fcaf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.303.0.WNIEUXM/ruyi_eea_global-ota_full-OS3.0.303.0.WNIEUXM-user-16.0-e27475fcaf.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#ruyi_1_changelog" data-toggle="collapse" role="button"
@@ -87,13 +87,13 @@ permalink: /hyperos/ruyi/stable/OS3.0.303.0.WNIMIXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>MIX Flip Global</h5>
+                    <h5><b>Device: </b>MIX Flip EEA</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/ruyi/" target="_blank">ruyi</a> </h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS3.0.303.0.WNIMIXM</h5>
+                    <h5><b>Version: </b>OS3.0.303.0.WNIEUXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Branch: </b>Stable</h5>
@@ -105,16 +105,16 @@ permalink: /hyperos/ruyi/stable/OS3.0.303.0.WNIMIXM/
                     <h5><b>Size: </b>8.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-08-06</h5>
+                    <h5><b>Release Date: </b>2026-08-05</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">ruyi_global_images_OS3.0.303.0.WNIMIXM_20260806.0000.00_16.0_global_607c48db2b.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">ruyi_eea_global_images_OS3.0.303.0.WNIEUXM_20260805.0000.00_16.0_eea_5cfaca6e64.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">607c48db2b2089dec9eb45a22d31c8f5</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">5cfaca6e64f192ea4a8982353e6712a6</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.303.0.WNIMIXM/ruyi_global_images_OS3.0.303.0.WNIMIXM_20260806.0000.00_16.0_global_607c48db2b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNIMIXM/ruyi_global_images_OS3.0.303.0.WNIMIXM_20260806.0000.00_16.0_global_607c48db2b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.303.0.WNIMIXM/ruyi_global_images_OS3.0.303.0.WNIMIXM_20260806.0000.00_16.0_global_607c48db2b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.303.0.WNIMIXM/ruyi_global_images_OS3.0.303.0.WNIMIXM_20260806.0000.00_16.0_global_607c48db2b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.303.0.WNIMIXM/ruyi_global_images_OS3.0.303.0.WNIMIXM_20260806.0000.00_16.0_global_607c48db2b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.303.0.WNIEUXM/ruyi_eea_global_images_OS3.0.303.0.WNIEUXM_20260805.0000.00_16.0_eea_5cfaca6e64.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNIEUXM/ruyi_eea_global_images_OS3.0.303.0.WNIEUXM_20260805.0000.00_16.0_eea_5cfaca6e64.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.303.0.WNIEUXM/ruyi_eea_global_images_OS3.0.303.0.WNIEUXM_20260805.0000.00_16.0_eea_5cfaca6e64.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.303.0.WNIEUXM/ruyi_eea_global_images_OS3.0.303.0.WNIEUXM_20260805.0000.00_16.0_eea_5cfaca6e64.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.303.0.WNIEUXM/ruyi_eea_global_images_OS3.0.303.0.WNIEUXM_20260805.0000.00_16.0_eea_5cfaca6e64.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#ruyi_2_changelog" data-toggle="collapse" role="button"
