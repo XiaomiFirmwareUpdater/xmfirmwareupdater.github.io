@@ -52,7 +52,8 @@ permalink: /archive/hyperos/dash/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO X8 Pro Max Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WPLTWXM</td><td>16.0</td><td>7.1 GB</td><td>2026-08-19</td><td><a href="/hyperos/dash/stable beta/OS3.0.303.0.WPLTWXM/">Download</a></td></tr>
+                <tr><td>POCO X8 Pro Max Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.304.0.WPLRUXM</td><td>16.0</td><td>7.1 GB</td><td>2026-08-25</td><td><a href="/hyperos/dash/stable beta/OS3.0.304.0.WPLRUXM/">Download</a></td></tr>
+<tr><td>POCO X8 Pro Max Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WPLTWXM</td><td>16.0</td><td>7.1 GB</td><td>2026-08-19</td><td><a href="/hyperos/dash/stable beta/OS3.0.303.0.WPLTWXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro Max India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WPLINXM</td><td>16.0</td><td>7.0 GB</td><td>2026-08-17</td><td><a href="/hyperos/dash/stable beta/OS3.0.303.0.WPLINXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro Max Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WPLIDXM</td><td>16.0</td><td>7.2 GB</td><td>2026-08-17</td><td><a href="/hyperos/dash/stable/OS3.0.303.0.WPLIDXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro Max Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WPLIDXM</td><td>16.0</td><td>10.2 GB</td><td>2026-08-06</td><td><a href="/hyperos/dash/stable/OS3.0.303.0.WPLIDXM/">Download</a></td></tr>
@@ -104,9 +105,9 @@ permalink: /archive/hyperos/dash/
 <tr><td>POCO X8 Pro Max Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WPLIDXM</td><td>16.0</td><td>10.2 GB</td><td>2026-05-11</td><td><a href="/hyperos/dash/stable/OS3.0.301.0.WPLIDXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro Max India</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WPLINXM</td><td>16.0</td><td>7.0 GB</td><td>2026-05-19</td><td><a href="/hyperos/dash/stable/OS3.0.301.0.WPLINXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro Max India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WPLINXM</td><td>16.0</td><td>9.3 GB</td><td>2026-05-11</td><td><a href="/hyperos/dash/stable/OS3.0.301.0.WPLINXM/">Download</a></td></tr>
-<tr><td>Redmi Turbo 5 Max China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.7.0.WPLCNXM</td><td>16.0</td><td>7.9 GB</td><td>2026-01-30</td><td><a href="/hyperos/dash/stable beta/OS3.0.7.0.WPLCNXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro Max Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WPLRUXM</td><td>16.0</td><td>7.1 GB</td><td>2026-05-19</td><td><a href="/hyperos/dash/stable/OS3.0.301.0.WPLRUXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro Max Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WPLRUXM</td><td>16.0</td><td>11.0 GB</td><td>2026-05-11</td><td><a href="/hyperos/dash/stable/OS3.0.301.0.WPLRUXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 5 Max China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.7.0.WPLCNXM</td><td>16.0</td><td>7.9 GB</td><td>2026-01-30</td><td><a href="/hyperos/dash/stable beta/OS3.0.7.0.WPLCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 5 Max China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WPLCNXM</td><td>16.0</td><td>7.9 GB</td><td>2026-01-29</td><td><a href="/hyperos/dash/stable beta/OS3.0.3.0.WPLCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 5 Max China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.5.0.WPLCNXM</td><td>16.0</td><td>7.9 GB</td><td>2026-01-29</td><td><a href="/hyperos/dash/stable beta/OS3.0.5.0.WPLCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 5 Max China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.6.0.WPLCNXM</td><td>16.0</td><td>7.9 GB</td><td>2026-01-29</td><td><a href="/hyperos/dash/stable beta/OS3.0.6.0.WPLCNXM/">Download</a></td></tr>

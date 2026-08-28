@@ -39,6 +39,16 @@
     android: '14.0'
     miui: OS1.0.2.0.UNGMIXM
 - branch: stable
+  date: '2026-08-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphire/releases/download/stable-28.08.2026/fw_sapphire_sapphire_global-ota_full-OS2.0.212.0.VNGMIXM-user-15.0-2b62b39e4a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/sapphire/fw_sapphire_sapphire_global-ota_full-OS2.0.212.0.VNGMIXM-user-15.0-2b62b39e4a.zip
+  filename: fw_sapphire_sapphire_global-ota_full-OS2.0.212.0.VNGMIXM-user-15.0-2b62b39e4a.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.212.0.VNGMIXM
+- branch: stable
   date: '2025-07-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sapphire/releases/download/stable-27.07.2025/fw_sapphire_global_sapphire_global-ota_full-OS2.0.201.0.VNGMIXM-user-15.0-5e38728bf4.zip
