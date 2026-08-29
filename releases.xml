@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 29 Aug 2026 12:38:15 </lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 18:56:05 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K90 Ultra (warsaw) - OS3.0.307.0.WHPCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/warsaw/</link>
+            <pubDate>Sat, 29 Aug 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS3.0.306.0.WMLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/corot/</link>
@@ -1354,11 +1359,6 @@
         <item>
             <title>Xiaomi 12T (plato) - OS2.0.216.0.VLQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/plato/</link>
-            <pubDate>Tue, 30 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K90 Ultra (warsaw) - OS3.0.306.0.WHPCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/warsaw/</link>
             <pubDate>Tue, 30 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>

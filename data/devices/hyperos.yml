@@ -30658,6 +30658,12 @@
   download: https://bigota.d.miui.com/OS3.0.306.0.WHPCNXM/fw_warsaw_warsaw-ota_full-OS3.0.306.0.WHPCNXM-user-16.0-8d5c1b6155.zip
   name: Redmi K90 Ultra
   version: OS3.0.306.0.WHPCNXM
+- android: '16.0'
+  codename: warsaw
+  date: '2026-08-29'
+  download: https://bigota.d.miui.com/OS3.0.307.0.WHPCNXM/fw_warsaw_warsaw-ota_full-OS3.0.307.0.WHPCNXM-user-16.0-c99ca8c90b.zip
+  name: Redmi K90 Ultra
+  version: OS3.0.307.0.WHPCNXM
 - android: '14.0'
   codename: xaga
   date: '2024-08-31'

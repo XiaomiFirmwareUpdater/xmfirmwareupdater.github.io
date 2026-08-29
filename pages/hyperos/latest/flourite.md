@@ -54,7 +54,7 @@ permalink: /hyperos/flourite/
                 <tbody>
                 <tr><td>Redmi Note 15 Pro+ 5G China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.316.0.WPRCNXM</td><td>16.0</td><td>9.6 GB</td><td>2026-07-15</td><td><a href="/hyperos/flourite/stable/OS3.0.316.0.WPRCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro+ 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.316.0.WPRCNXM</td><td>16.0</td><td>7.3 GB</td><td>2026-07-20</td><td><a href="/hyperos/flourite/stable/OS3.0.316.0.WPRCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 15 Pro+ 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.202.0.VPRCNXM</td><td>15.0</td><td>6.8 GB</td><td>None</td><td><a href="/hyperos/flourite/stable beta/OS2.0.202.0.VPRCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro+ 5G China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.317.0.WPRCNXM</td><td>16.0</td><td>7.3 GB</td><td>2026-08-25</td><td><a href="/hyperos/flourite/stable beta/OS3.0.317.0.WPRCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.306.0.WPREUXM</td><td>16.0</td><td>9.5 GB</td><td>2026-07-07</td><td><a href="/hyperos/flourite/stable/OS3.0.306.0.WPREUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WPREUXM</td><td>16.0</td><td>6.8 GB</td><td>2026-07-17</td><td><a href="/hyperos/flourite/stable/OS3.0.306.0.WPREUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WPRMIXM</td><td>16.0</td><td>10.4 GB</td><td>2026-07-08</td><td><a href="/hyperos/flourite/stable/OS3.0.304.0.WPRMIXM/">Download</a></td></tr>
