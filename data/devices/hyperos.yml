@@ -8514,6 +8514,12 @@
   version: OS1.0.2.0.TKEINXM
 - android: '16.0'
   codename: flourite
+  date: '2026-08-29'
+  download: https://bigota.d.miui.com/OS3.0.317.0.WPRCNXM/fw_flourite_flourite-ota_full-OS3.0.317.0.WPRCNXM-user-16.0-ff98c106ce.zip
+  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
+  version: OS3.0.317.0.WPRCNXM
+- android: '16.0'
+  codename: flourite
   date: '2026-08-24'
   download: https://bigota.d.miui.com/OS3.0.316.0.WPRCNXM/fw_flourite_flourite-ota_full-OS3.0.316.0.WPRCNXM-user-16.0-d0a2cc710b.zip
   name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G

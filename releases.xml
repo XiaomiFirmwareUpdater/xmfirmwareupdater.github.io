@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 29 Aug 2026 18:56:05 </lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 00:45:29 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS3.0.317.0.WPRCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
+            <pubDate>Sat, 29 Aug 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi K90 Ultra (warsaw) - OS3.0.307.0.WHPCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/warsaw/</link>
@@ -853,11 +858,6 @@
         </item>
         <item>
             <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS3.0.304.0.WPRMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS3.0.316.0.WPRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
