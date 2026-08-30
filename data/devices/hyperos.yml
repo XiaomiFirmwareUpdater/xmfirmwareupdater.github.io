@@ -18732,6 +18732,12 @@
   version: OS2.0.207.0.VOLEUXM
 - android: '16.0'
   codename: onyx
+  date: '2026-08-30'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WOLEUXM/fw_onyx_onyx_eea_global-ota_full-OS3.0.303.0.WOLEUXM-user-16.0-e0656226ac.zip
+  name: Redmi Turbo 4 Pro/POCO F7
+  version: OS3.0.303.0.WOLEUXM
+- android: '16.0'
+  codename: onyx
   date: '2026-04-30'
   download: https://bigota.d.miui.com/OS3.0.7.0.WOLMIXM/fw_onyx_onyx_global-ota_full-OS3.0.7.0.WOLMIXM-user-16.0-25c954f376.zip
   name: Redmi Turbo 4 Pro/POCO F7

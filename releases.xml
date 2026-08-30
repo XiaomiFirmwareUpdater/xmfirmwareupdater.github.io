@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 30 Aug 2026 12:43:28 </lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 18:45:32 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.306.0.WOPMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
+            <pubDate>Sun, 30 Aug 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - OS3.0.303.0.WOLEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
             <pubDate>Sun, 30 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1374,11 +1379,6 @@
         <item>
             <title>Xiaomi Civi 5 Pro (luming) - OS3.0.303.0.WOICNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/luming/</link>
-            <pubDate>Mon, 29 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 4 Pro/POCO F7 (onyx) - OS3.0.301.0.WOLEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/onyx/</link>
             <pubDate>Mon, 29 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
