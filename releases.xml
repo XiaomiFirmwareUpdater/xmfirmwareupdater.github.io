@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 31 Aug 2026 13:09:04 </lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 18:43:09 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi A7 Pro/POCO C81/C81 Pro (arctic) - OS3.0.9.0.WBVEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/arctic/</link>
+            <pubDate>Mon, 31 Aug 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 17 Pro 5G/POCO X8 (iolite) - OS3.0.310.0.WDQCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/iolite/</link>
@@ -598,11 +603,6 @@
         </item>
         <item>
             <title>Redmi A7 Pro/POCO C81/C81 Pro (arctic) - OS3.0.12.0.WBVMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/arctic/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A7 Pro/POCO C81/C81 Pro (arctic) - OS3.0.8.0.WBVEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/arctic/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
