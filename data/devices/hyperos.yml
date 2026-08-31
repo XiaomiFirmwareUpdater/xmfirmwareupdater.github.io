@@ -12312,6 +12312,12 @@
   version: OS1.0.1.0.ULJMIXM
 - android: '16.0'
   codename: iolite
+  date: '2026-08-31'
+  download: https://bigota.d.miui.com/OS3.0.310.0.WDQCNXM/fw_iolite_iolite-ota_full-OS3.0.310.0.WDQCNXM-user-16.0-356ae15058.zip
+  name: Redmi Note 17 Pro 5G/POCO X8
+  version: OS3.0.310.0.WDQCNXM
+- android: '16.0'
+  codename: iolite
   date: '2026-08-27'
   download: https://bigota.d.miui.com/OS3.0.306.0.WDQEUXM/fw_iolite_iolite_eea_global-ota_full-OS3.0.306.0.WDQEUXM-user-16.0-0774962b0a.zip
   name: Redmi Note 17 Pro 5G/POCO X8
@@ -13258,6 +13264,12 @@
   download: https://bigota.d.miui.com/OS2.0.206.0.VPQCNXM/fw_kunzite_kunzite-ota_full-OS2.0.206.0.VPQCNXM-user-15.0-0fc6cc4f4c.zip
   name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS2.0.206.0.VPQCNXM
+- android: '16.0'
+  codename: kunzite
+  date: '2026-08-31'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WPQEUXM/fw_kunzite_kunzite_eea_global-ota_full-OS3.0.302.0.WPQEUXM-user-16.0-4240cccf4e.zip
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
+  version: OS3.0.302.0.WPQEUXM
 - android: '16.0'
   codename: kunzite
   date: '2026-03-31'

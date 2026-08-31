@@ -50459,6 +50459,16 @@
     android: '14.0'
     miui: OS1.0.1.0.ULJMIXM
 - branch: stable
+  date: '2026-08-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_iolite/releases/download/stable-31.08.2026/fw_iolite_iolite-ota_full-OS3.0.310.0.WDQCNXM-user-16.0-356ae15058.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/iolite/fw_iolite_iolite-ota_full-OS3.0.310.0.WDQCNXM-user-16.0-356ae15058.zip
+  filename: fw_iolite_iolite-ota_full-OS3.0.310.0.WDQCNXM-user-16.0-356ae15058.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.310.0.WDQCNXM
+- branch: stable
   date: '2026-08-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_iolite/releases/download/stable-27.08.2026/fw_iolite_iolite_eea_global-ota_full-OS3.0.306.0.WDQEUXM-user-16.0-0774962b0a.zip
@@ -53678,6 +53688,16 @@
   versions:
     android: '15.0'
     miui: OS2.0.206.0.VPQCNXM
+- branch: stable
+  date: '2026-08-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_kunzite/releases/download/stable-31.08.2026/fw_kunzite_kunzite_eea_global-ota_full-OS3.0.302.0.WPQEUXM-user-16.0-4240cccf4e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/kunzite/fw_kunzite_kunzite_eea_global-ota_full-OS3.0.302.0.WPQEUXM-user-16.0-4240cccf4e.zip
+  filename: fw_kunzite_kunzite_eea_global-ota_full-OS3.0.302.0.WPQEUXM-user-16.0-4240cccf4e.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.302.0.WPQEUXM
 - branch: stable
   date: '2026-03-31'
   downloads:
