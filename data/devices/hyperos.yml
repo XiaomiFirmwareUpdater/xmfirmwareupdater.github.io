@@ -2176,6 +2176,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UMVCNXM/fw_babylon_miui_BABYLON_OS1.0.3.0.UMVCNXM_f3b112cff7_14.0.zip
   name: MIX Fold 3
   version: OS1.0.3.0.UMVCNXM
+- android: '16.0'
+  codename: babylon
+  date: '2026-09-01'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WMVCNXM/fw_babylon_babylon-ota_full-OS3.0.304.0.WMVCNXM-user-16.0-c94b3b1f6e.zip
+  name: MIX Fold 3
+  version: OS3.0.304.0.WMVCNXM
 - android: '15.0'
   codename: beryl
   date: '2025-12-31'
@@ -5872,6 +5878,12 @@
   download: https://bigota.d.miui.com/OS2.0.205.0.VLFMIXM/fw_diting_diting_global-ota_full-OS2.0.205.0.VLFMIXM-user-15.0-c8ed87281a.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: OS2.0.205.0.VLFMIXM
+- android: '15.0'
+  codename: diting
+  date: '2026-09-01'
+  download: https://bigota.d.miui.com/OS3.0.6.0.VLFMIXM/fw_diting_diting_global-ota_full-OS3.0.6.0.VLFMIXM-user-15.0-7649f1c246.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: OS3.0.6.0.VLFMIXM
 - android: '15.0'
   codename: diting
   date: '2025-04-01'

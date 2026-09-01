@@ -8668,6 +8668,16 @@
   versions:
     android: '14.0'
     miui: OS1.0.3.0.UMVCNXM
+- branch: stable
+  date: '2026-09-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_babylon/releases/download/stable-01.09.2026/fw_babylon_babylon-ota_full-OS3.0.304.0.WMVCNXM-user-16.0-c94b3b1f6e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/babylon/fw_babylon_babylon-ota_full-OS3.0.304.0.WMVCNXM-user-16.0-c94b3b1f6e.zip
+  filename: fw_babylon_babylon-ota_full-OS3.0.304.0.WMVCNXM-user-16.0-c94b3b1f6e.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.304.0.WMVCNXM
 - branch: weekly
   date: '2020-02-27'
   downloads:
@@ -31268,6 +31278,16 @@
   versions:
     android: '15.0'
     miui: OS2.0.205.0.VLFMIXM
+- branch: stable
+  date: '2026-09-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-01.09.2026/fw_diting_diting_global-ota_full-OS3.0.6.0.VLFMIXM-user-15.0-7649f1c246.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/diting/fw_diting_diting_global-ota_full-OS3.0.6.0.VLFMIXM-user-15.0-7649f1c246.zip
+  filename: fw_diting_diting_global-ota_full-OS3.0.6.0.VLFMIXM-user-15.0-7649f1c246.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS3.0.6.0.VLFMIXM
 - branch: stable
   date: '2025-04-01'
   downloads:
