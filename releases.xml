@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 01 Sep 2026 19:34:32 </lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 01:00:40 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K100 Pro/POCO F9 Pro (athens) - OS3.0.301.0.WPIMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/athens/</link>
+            <pubDate>Tue, 01 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K100 Pro/POCO F9 Pro (athens) - OS3.0.304.0.WPIEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/athens/</link>
+            <pubDate>Tue, 01 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 14 Ultra (aurora) - OS3.0.304.0.WNAMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
             <pubDate>Tue, 01 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -24,6 +34,11 @@
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS3.0.5.0.VLFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/diting/</link>
+            <pubDate>Tue, 01 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17 Ultra (nezha) - OS3.0.336.0.XPAEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/nezha/</link>
             <pubDate>Tue, 01 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -274,11 +289,6 @@
         <item>
             <title>Xiaomi Pad 7 Pro (muyu) - OS3.0.304.0.WOYEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17 Ultra (nezha) - OS3.0.307.0.WPAEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/nezha/</link>
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -654,11 +664,6 @@
         <item>
             <title>Redmi K100 Pro/POCO F9 Pro (athens) - OS3.0.306.0.WPICNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/athens/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Ultra (aurora) - OS3.0.303.0.WNAMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/aurora/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>

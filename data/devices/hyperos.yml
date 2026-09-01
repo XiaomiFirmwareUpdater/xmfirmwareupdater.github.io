@@ -1429,6 +1429,12 @@
 - android: '16.0'
   codename: athens
   date: '2026-09-01'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WPIEUXM/fw_athens_athens_eea_global-ota_full-OS3.0.304.0.WPIEUXM-user-16.0-b4889711e9.zip
+  name: Redmi K100 Pro/POCO F9 Pro
+  version: OS3.0.304.0.WPIEUXM
+- android: '16.0'
+  codename: athens
+  date: '2026-09-01'
   download: https://bigota.d.miui.com/OS3.0.301.0.WPIMIXM/fw_athens_athens_global-ota_full-OS3.0.301.0.WPIMIXM-user-16.0-de718381bd.zip
   name: Redmi K100 Pro/POCO F9 Pro
   version: OS3.0.301.0.WPIMIXM
@@ -1990,6 +1996,12 @@
   download: https://bigota.d.miui.com/OS1.0.15.0.UNAEUXM/fw_aurora_miui_AURORAEEAGlobal_OS1.0.15.0.UNAEUXM_334795da2f_14.0.zip
   name: Xiaomi 14 Ultra
   version: OS1.0.15.0.UNAEUXM
+- android: '16.0'
+  codename: aurora
+  date: '2026-09-01'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WNAMIXM/fw_aurora_aurora_global-ota_full-OS3.0.304.0.WNAMIXM-user-16.0-153db623b3.zip
+  name: Xiaomi 14 Ultra
+  version: OS3.0.304.0.WNAMIXM
 - android: '16.0'
   codename: aurora
   date: '2026-03-02'
@@ -17962,6 +17974,12 @@
   download: https://bigota.d.miui.com/OS3.0.303.0.WPAMIXM/fw_nezha_nezha_global-ota_full-OS3.0.303.0.WPAMIXM-user-16.0-be3c9890fa.zip
   name: Xiaomi 17 Ultra
   version: OS3.0.303.0.WPAMIXM
+- android: '17.0'
+  codename: nezha
+  date: '2026-09-01'
+  download: https://bigota.d.miui.com/OS3.0.336.0.XPAEUXM/fw_nezha_nezha_eea_global-ota_full-OS3.0.336.0.XPAEUXM-user-17.0-7a537f7858.zip
+  name: Xiaomi 17 Ultra
+  version: OS3.0.336.0.XPAEUXM
 - android: '16.0'
   codename: nezha
   date: '2026-05-02'
