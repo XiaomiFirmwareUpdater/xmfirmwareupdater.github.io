@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2026-09-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_songyuan/releases/download/stable-01.09.2026/fw_songyuan_songyuan_global-ota_full-OS3.0.301.0.WGNMIXM-user-16.0-df64063e26.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/songyuan/fw_songyuan_songyuan_global-ota_full-OS3.0.301.0.WGNMIXM-user-16.0-df64063e26.zip
+  filename: fw_songyuan_songyuan_global-ota_full-OS3.0.301.0.WGNMIXM-user-16.0-df64063e26.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.301.0.WGNMIXM
+- branch: stable
   date: '2026-08-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_songyuan/releases/download/stable-25.08.2026/fw_songyuan_songyuan-ota_full-OS3.0.301.0.WGNCNXM-user-16.0-355f85a1fd.zip
@@ -8,3 +18,13 @@
   versions:
     android: '16.0'
     miui: OS3.0.301.0.WGNCNXM
+- branch: stable
+  date: '2026-09-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_songyuan/releases/download/stable-01.09.2026/fw_songyuan_songyuan_eea_global-ota_full-OS3.0.303.0.WGNEUXM-user-16.0-b20d5eb397.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/songyuan/fw_songyuan_songyuan_eea_global-ota_full-OS3.0.303.0.WGNEUXM-user-16.0-b20d5eb397.zip
+  filename: fw_songyuan_songyuan_eea_global-ota_full-OS3.0.303.0.WGNEUXM-user-16.0-b20d5eb397.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.303.0.WGNEUXM

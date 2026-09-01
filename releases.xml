@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 01 Sep 2026 13:15:17 </lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 19:34:32 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K100 Pro/POCO F9 Pro (athens) - OS3.0.301.0.WPIMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/athens/</link>
+            <pubDate>Tue, 01 Sep 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>MIX Fold 3 (babylon) - OS3.0.304.0.WMVCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/babylon/</link>
@@ -14,6 +19,31 @@
         <item>
             <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS3.0.6.0.VLFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/diting/</link>
+            <pubDate>Tue, 01 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS3.0.5.0.VLFEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/diting/</link>
+            <pubDate>Tue, 01 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K100 Pro Max/POCO F9 Ultra (songyuan) - OS3.0.301.0.WGNMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/songyuan/</link>
+            <pubDate>Tue, 01 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K100 Pro Max/POCO F9 Ultra (songyuan) - OS3.0.303.0.WGNEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/songyuan/</link>
+            <pubDate>Tue, 01 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.304.0.WNKMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
+            <pubDate>Tue, 01 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS3.0.6.0.VLLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Tue, 01 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -427,11 +457,6 @@
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.303.0.WNKMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.306.0.WNKCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
@@ -537,11 +562,6 @@
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS3.0.5.0.VLLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - OS3.0.5.0.VLLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ziyi/</link>
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
@@ -632,7 +652,7 @@
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K100 Pro (athens) - OS3.0.306.0.WPICNXM</title>
+            <title>Redmi K100 Pro/POCO F9 Pro (athens) - OS3.0.306.0.WPICNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/athens/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
@@ -789,11 +809,6 @@
         <item>
             <title>Xiaomi 15S Pro (dijun) - OS3.0.303.0.WODCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dijun/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - OS3.0.4.0.VLFEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/diting/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>

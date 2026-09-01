@@ -1,7 +1,7 @@
 ---
-title: Redmi K100 Pro (athens) Firmware Downloads
+title: Redmi K100 Pro/POCO F9 Pro (athens) Firmware Downloads
 layout: download
-name: Redmi K100 Pro
+name: Redmi K100 Pro/POCO F9 Pro
 codename: athens
 permalink: /firmware/athens/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/athens/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/athens/">Redmi K100 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/athens/">Redmi K100 Pro/POCO F9 Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
