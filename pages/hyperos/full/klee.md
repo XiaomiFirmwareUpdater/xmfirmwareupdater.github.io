@@ -53,7 +53,8 @@ permalink: /archive/hyperos/klee/
                 </thead>
                 <tbody>
                 <tr><td>POCO X8 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.307.0.WPJMIXM</td><td>16.0</td><td>7.1 GB</td><td>2026-08-24</td><td><a href="/hyperos/klee/stable beta/OS3.0.307.0.WPJMIXM/">Download</a></td></tr>
-<tr><td>Redmi Turbo 5 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.306.0.WPJCNXM</td><td>16.0</td><td>8.1 GB</td><td>2026-08-21</td><td><a href="/hyperos/klee/stable beta/OS3.0.306.0.WPJCNXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 5 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WPJCNXM</td><td>16.0</td><td>8.1 GB</td><td>2026-08-21</td><td><a href="/hyperos/klee/stable/OS3.0.306.0.WPJCNXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 5 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.306.0.WPJCNXM</td><td>16.0</td><td>10.8 GB</td><td>2026-08-12</td><td><a href="/hyperos/klee/stable/OS3.0.306.0.WPJCNXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WPJIDXM</td><td>16.0</td><td>7.1 GB</td><td>2026-07-16</td><td><a href="/hyperos/klee/stable/OS3.0.303.0.WPJIDXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WPJIDXM</td><td>16.0</td><td>10.0 GB</td><td>2026-07-04</td><td><a href="/hyperos/klee/stable/OS3.0.303.0.WPJIDXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro India</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WPJINXM</td><td>16.0</td><td>6.9 GB</td><td>2026-07-16</td><td><a href="/hyperos/klee/stable/OS3.0.303.0.WPJINXM/">Download</a></td></tr>

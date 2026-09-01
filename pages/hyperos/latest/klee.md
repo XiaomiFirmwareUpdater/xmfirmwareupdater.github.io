@@ -52,9 +52,9 @@ permalink: /hyperos/klee/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Turbo 5 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WPJCNXM</td><td>16.0</td><td>10.8 GB</td><td>2026-06-22</td><td><a href="/hyperos/klee/stable/OS3.0.304.0.WPJCNXM/">Download</a></td></tr>
-<tr><td>Redmi Turbo 5 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WPJCNXM</td><td>16.0</td><td>8.1 GB</td><td>2026-07-01</td><td><a href="/hyperos/klee/stable/OS3.0.304.0.WPJCNXM/">Download</a></td></tr>
-<tr><td>Redmi Turbo 5 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.306.0.WPJCNXM</td><td>16.0</td><td>8.1 GB</td><td>2026-08-21</td><td><a href="/hyperos/klee/stable beta/OS3.0.306.0.WPJCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Turbo 5 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.306.0.WPJCNXM</td><td>16.0</td><td>10.8 GB</td><td>2026-08-12</td><td><a href="/hyperos/klee/stable/OS3.0.306.0.WPJCNXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 5 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WPJCNXM</td><td>16.0</td><td>8.1 GB</td><td>2026-08-21</td><td><a href="/hyperos/klee/stable/OS3.0.306.0.WPJCNXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 5 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.4.0.WPJCNXM</td><td>16.0</td><td>7.8 GB</td><td>2026-01-29</td><td><a href="/hyperos/klee/stable beta/OS3.0.4.0.WPJCNXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WPJEUXM</td><td>16.0</td><td>10.0 GB</td><td>2026-07-08</td><td><a href="/hyperos/klee/stable/OS3.0.303.0.WPJEUXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WPJEUXM</td><td>16.0</td><td>7.1 GB</td><td>2026-07-13</td><td><a href="/hyperos/klee/stable/OS3.0.303.0.WPJEUXM/">Download</a></td></tr>
 <tr><td>POCO X8 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.306.0.WPJMIXM</td><td>16.0</td><td>11.0 GB</td><td>2026-06-30</td><td><a href="/hyperos/klee/stable/OS3.0.306.0.WPJMIXM/">Download</a></td></tr>
