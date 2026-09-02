@@ -52,9 +52,9 @@ permalink: /hyperos/goya/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 15T EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.305.0.WOEEUXM</td><td>16.0</td><td>8.8 GB</td><td>2026-06-12</td><td><a href="/hyperos/goya/stable/OS3.0.305.0.WOEEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15T EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.305.0.WOEEUXM</td><td>16.0</td><td>7.1 GB</td><td>2026-06-18</td><td><a href="/hyperos/goya/stable/OS3.0.305.0.WOEEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 15T EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.307.0.WOEEUXM</td><td>16.0</td><td>7.1 GB</td><td>2026-08-21</td><td><a href="/hyperos/goya/stable beta/OS3.0.307.0.WOEEUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 15T EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.307.0.WOEEUXM</td><td>16.0</td><td>8.8 GB</td><td>2026-08-12</td><td><a href="/hyperos/goya/stable/OS3.0.307.0.WOEEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.307.0.WOEEUXM</td><td>16.0</td><td>7.1 GB</td><td>2026-08-21</td><td><a href="/hyperos/goya/stable/OS3.0.307.0.WOEEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.203.0.VOEEUXM</td><td>15.0</td><td>6.4 GB</td><td>2025-09-24</td><td><a href="/hyperos/goya/stable beta/OS2.0.203.0.VOEEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WOEMIXM</td><td>16.0</td><td>9.8 GB</td><td>2026-06-23</td><td><a href="/hyperos/goya/stable/OS3.0.301.0.WOEMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WOEMIXM</td><td>16.0</td><td>7.0 GB</td><td>2026-07-03</td><td><a href="/hyperos/goya/stable/OS3.0.301.0.WOEMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.202.0.VOEMIXM</td><td>15.0</td><td>6.3 GB</td><td>2025-09-24</td><td><a href="/hyperos/goya/stable beta/OS2.0.202.0.VOEMIXM/">Download</a></td></tr>
