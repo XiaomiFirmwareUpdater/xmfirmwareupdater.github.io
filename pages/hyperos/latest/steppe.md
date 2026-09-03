@@ -59,6 +59,12 @@ permalink: /hyperos/steppe/
 <tr><td>Redmi 17 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.310.0.WAVMIXM</td><td>16.0</td><td>8.0 GB</td><td>2026-08-22</td><td><a href="/hyperos/steppe/stable/OS3.0.310.0.WAVMIXM/">Download</a></td></tr>
 <tr><td>Redmi 17 5G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.310.0.WAVMIXM</td><td>16.0</td><td>4.9 GB</td><td>2026-08-24</td><td><a href="/hyperos/steppe/stable/OS3.0.310.0.WAVMIXM/">Download</a></td></tr>
 <tr><td>Redmi 17 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.304.0.WAVMIXM</td><td>16.0</td><td>4.8 GB</td><td>2026-08-10</td><td><a href="/hyperos/steppe/stable beta/OS3.0.304.0.WAVMIXM/">Download</a></td></tr>
+<tr><td>Redmi 17 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WAVIDXM</td><td>16.0</td><td>7.5 GB</td><td>2026-07-16</td><td><a href="/hyperos/steppe/stable/OS3.0.301.0.WAVIDXM/">Download</a></td></tr>
+<tr><td>Redmi 17 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WAVIDXM</td><td>16.0</td><td>4.7 GB</td><td>2026-09-03</td><td><a href="/hyperos/steppe/stable/OS3.0.301.0.WAVIDXM/">Download</a></td></tr>
+<tr><td>Redmi 17 5G / POCO M8x 5G India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WAVINXM</td><td>16.0</td><td>6.4 GB</td><td>2026-07-22</td><td><a href="/hyperos/steppe/stable/OS3.0.302.0.WAVINXM/">Download</a></td></tr>
+<tr><td>Redmi 17 5G / POCO M8x 5G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WAVINXM</td><td>16.0</td><td>4.5 GB</td><td>2026-09-03</td><td><a href="/hyperos/steppe/stable/OS3.0.302.0.WAVINXM/">Download</a></td></tr>
+<tr><td>Redmi 17 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WAVTRXM</td><td>16.0</td><td>7.0 GB</td><td>2026-07-22</td><td><a href="/hyperos/steppe/stable/OS3.0.301.0.WAVTRXM/">Download</a></td></tr>
+<tr><td>Redmi 17 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WAVTRXM</td><td>16.0</td><td>4.7 GB</td><td>2026-09-03</td><td><a href="/hyperos/steppe/stable/OS3.0.301.0.WAVTRXM/">Download</a></td></tr>
 <tr><td>Redmi 17 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WAVTWXM</td><td>16.0</td><td>5.6 GB</td><td>2026-07-16</td><td><a href="/hyperos/steppe/stable/OS3.0.302.0.WAVTWXM/">Download</a></td></tr>
 <tr><td>Redmi 17 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WAVTWXM</td><td>16.0</td><td>4.6 GB</td><td>2026-08-28</td><td><a href="/hyperos/steppe/stable/OS3.0.302.0.WAVTWXM/">Download</a></td></tr>
 
