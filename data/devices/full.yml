@@ -12599,6 +12599,16 @@
     android: '16.0'
     miui: OS3.0.304.0.WDREUXM
 - branch: stable
+  date: '2026-09-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_brussels/releases/download/stable-03.09.2026/fw_brussels_brussels_global-ota_full-OS3.0.306.0.WDRMIXM-user-16.0-1ddbd15ed7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/brussels/fw_brussels_brussels_global-ota_full-OS3.0.306.0.WDRMIXM-user-16.0-1ddbd15ed7.zip
+  filename: fw_brussels_brussels_global-ota_full-OS3.0.306.0.WDRMIXM-user-16.0-1ddbd15ed7.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.306.0.WDRMIXM
+- branch: stable
   date: '2026-05-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_byron/releases/download/stable-28.05.2026/fw_byron_byron-ota_full-OS3.0.304.0.WAFCNXM-user-16.0-b3a2165acf.zip
@@ -128968,6 +128978,16 @@
   versions:
     android: '15.0'
     miui: OS2.0.207.0.VNOMIXM
+- branch: stable
+  date: '2026-09-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-03.09.2026/fw_zircon_zircon-ota_full-OS3.0.304.0.WNOCNXM-user-16.0-dd32ce3da1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/zircon/fw_zircon_zircon-ota_full-OS3.0.304.0.WNOCNXM-user-16.0-dd32ce3da1.zip
+  filename: fw_zircon_zircon-ota_full-OS3.0.304.0.WNOCNXM-user-16.0-dd32ce3da1.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.304.0.WNOCNXM
 - branch: stable
   date: '2026-09-03'
   downloads:

@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 03 Sep 2026 12:44:41 </lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 19:27:32 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 17 Pro Max 5G/POCO X8 Power (brussels) - OS3.0.306.0.WDRMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/brussels/</link>
+            <pubDate>Thu, 03 Sep 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 Pro 4G (obsidian) - OS3.0.303.0.WOFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
@@ -18,6 +23,11 @@
         </item>
         <item>
             <title>Redmi Note 13 Pro+ 5G (zircon) - OS3.0.302.0.WNOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
+            <pubDate>Thu, 03 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 13 Pro+ 5G (zircon) - OS3.0.304.0.WNOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
             <pubDate>Thu, 03 Sep 2026 00:00:00 </pubDate>
         </item>
@@ -195,11 +205,6 @@
             <title>Xiaomi MIX Fold 2 (zizhan) - OS3.0.9.0.VLRCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/zizhan/</link>
             <pubDate>Fri, 28 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 17 Pro Max 5G/POCO X8 Power (brussels) - OS3.0.303.0.WDRMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/brussels/</link>
-            <pubDate>Thu, 27 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 15/POCO M7 (creek) - OS3.0.302.0.WBOEUXM</title>
@@ -1620,11 +1625,6 @@
             <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS3.0.302.0.WNUCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
             <pubDate>Tue, 05 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 13 Pro+ 5G (zircon) - OS3.0.303.0.WNOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zircon/</link>
-            <pubDate>Thu, 30 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 13 Pro 5G/POCO X6 5G (garnet) - OS3.0.304.0.WNRCNXM</title>

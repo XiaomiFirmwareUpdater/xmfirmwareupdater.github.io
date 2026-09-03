@@ -2891,6 +2891,12 @@
   name: Redmi Note 17 Pro Max 5G/POCO X8 Power
   version: OS3.0.304.0.WDREUXM
 - android: '16.0'
+  codename: brussels
+  date: '2026-09-03'
+  download: https://bigota.d.miui.com/OS3.0.306.0.WDRMIXM/fw_brussels_brussels_global-ota_full-OS3.0.306.0.WDRMIXM-user-16.0-1ddbd15ed7.zip
+  name: Redmi Note 17 Pro Max 5G/POCO X8 Power
+  version: OS3.0.306.0.WDRMIXM
+- android: '16.0'
   codename: byron
   date: '2026-05-28'
   download: https://bigota.d.miui.com/OS3.0.304.0.WAFCNXM/fw_byron_byron-ota_full-OS3.0.304.0.WAFCNXM-user-16.0-b3a2165acf.zip
@@ -33346,6 +33352,12 @@
   download: https://bigota.d.miui.com/OS2.0.207.0.VNOMIXM/fw_zircon_zircon_global-ota_full-OS2.0.207.0.VNOMIXM-user-15.0-af1acdf692.zip
   name: Redmi Note 13 Pro+ 5G
   version: OS2.0.207.0.VNOMIXM
+- android: '16.0'
+  codename: zircon
+  date: '2026-09-03'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WNOCNXM/fw_zircon_zircon-ota_full-OS3.0.304.0.WNOCNXM-user-16.0-dd32ce3da1.zip
+  name: Redmi Note 13 Pro+ 5G
+  version: OS3.0.304.0.WNOCNXM
 - android: '16.0'
   codename: zircon
   date: '2026-09-03'
