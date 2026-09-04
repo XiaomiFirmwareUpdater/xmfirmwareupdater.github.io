@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 04 Sep 2026 13:24:05 </lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 19:28:55 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS3.0.303.0.WNUCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15 (dada) - OS3.0.304.0.WOCINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
             <pubDate>Fri, 04 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -19,6 +24,16 @@
         <item>
             <title>Xiaomi 17 (pudding) - OS3.0.334.0.XPCEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pudding/</link>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A5/A7/POCO C71/C81x (serenity) - A15.0.20.0.VGWINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G (somalia) - OS3.0.13.0.WBWCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/somalia/</link>
             <pubDate>Fri, 04 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -34,6 +49,11 @@
         <item>
             <title>Redmi Pad 2 (taiko) - OS3.0.302.0.WOVINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.307.0.WNKCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Fri, 04 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -387,11 +407,6 @@
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G (somalia) - OS3.0.12.0.WBWCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/somalia/</link>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G (somalia) - OS3.0.12.0.WBWINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/somalia/</link>
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
@@ -509,11 +524,6 @@
         <item>
             <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS3.0.304.0.WOZINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/uke/</link>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.306.0.WNKCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1362,11 +1372,6 @@
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi A5/A7/POCO C71/C81x (serenity) - A15.0.19.0.VGWINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS3.0.303.0.WNXMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
@@ -1460,11 +1465,6 @@
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.7.0.WNLINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Wed, 24 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15 (dada) - OS3.0.303.0.WOCINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dada/</link>
-            <pubDate>Mon, 22 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi Pad 7 Pro (muyu) - OS3.0.302.0.WOYCNXM</title>

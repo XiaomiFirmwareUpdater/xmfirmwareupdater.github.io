@@ -25629,6 +25629,16 @@
     android: '16.0'
     miui: OS3.0.9.0.WOCEUXM
 - branch: stable
+  date: '2026-09-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dada/releases/download/stable-04.09.2026/fw_dada_dada_in_global-ota_full-OS3.0.304.0.WOCINXM-user-16.0-18e77226c3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dada/fw_dada_dada_in_global-ota_full-OS3.0.304.0.WOCINXM-user-16.0-18e77226c3.zip
+  filename: fw_dada_dada_in_global-ota_full-OS3.0.304.0.WOCINXM-user-16.0-18e77226c3.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.304.0.WOCINXM
+- branch: stable
   date: '2026-02-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dada/releases/download/stable-04.02.2026/fw_dada_dada-ota_full-OS3.0.7.0.WOCCNXM-user-16.0-232acd7942.zip
@@ -98729,6 +98739,16 @@
     android: '15.0'
     miui: A15.0.14.0.VGWINXM
 - branch: stable
+  date: '2026-09-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_serenity/releases/download/stable-04.09.2026/fw_serenity_miui_SERENITYINGlobal_A15.0.20.0.VGWINXM_968dc6fd15_15.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/A15/serenity/fw_serenity_miui_SERENITYINGlobal_A15.0.20.0.VGWINXM_968dc6fd15_15.0.zip
+  filename: fw_serenity_miui_SERENITYINGlobal_A15.0.20.0.VGWINXM_968dc6fd15_15.0.zip
+  region: India
+  versions:
+    android: '15.0'
+    miui: A15.0.20.0.VGWINXM
+- branch: stable
   date: '2026-01-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_serenity/releases/download/stable-04.01.2026/fw_serenity_miui_SERENITYEEAGlobal_A15.0.11.0.VGWEUXM_170cf51cb1_15.0.zip
@@ -101678,6 +101698,16 @@
   versions:
     android: '16.0'
     miui: OS3.0.6.0.WBWCNXM
+- branch: stable
+  date: '2026-09-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_somalia/releases/download/stable-04.09.2026/fw_somalia_somalia-ota_full-OS3.0.13.0.WBWCNXM-user-16.0-e5f6a34d2b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/somalia/fw_somalia_somalia-ota_full-OS3.0.13.0.WBWCNXM-user-16.0-e5f6a34d2b.zip
+  filename: fw_somalia_somalia-ota_full-OS3.0.13.0.WBWCNXM-user-16.0-e5f6a34d2b.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.13.0.WBWCNXM
 - branch: stable
   date: '2026-08-25'
   downloads:
@@ -117948,6 +117978,16 @@
   versions:
     android: '16.0'
     miui: OS3.0.3.0.WNKEUXM
+- branch: stable
+  date: '2026-09-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-04.09.2026/fw_vermeer_vermeer-ota_full-OS3.0.307.0.WNKCNXM-user-16.0-e8ac729fa5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/vermeer/fw_vermeer_vermeer-ota_full-OS3.0.307.0.WNKCNXM-user-16.0-e8ac729fa5.zip
+  filename: fw_vermeer_vermeer-ota_full-OS3.0.307.0.WNKCNXM-user-16.0-e8ac729fa5.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.307.0.WNKCNXM
 - branch: stable
   date: '2024-06-03'
   downloads:

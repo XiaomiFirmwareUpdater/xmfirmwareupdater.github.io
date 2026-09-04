@@ -4668,6 +4668,12 @@
   version: OS3.0.9.0.WOCEUXM
 - android: '16.0'
   codename: dada
+  date: '2026-09-04'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WOCINXM/fw_dada_dada_in_global-ota_full-OS3.0.304.0.WOCINXM-user-16.0-18e77226c3.zip
+  name: Xiaomi 15
+  version: OS3.0.304.0.WOCINXM
+- android: '16.0'
+  codename: dada
   date: '2026-02-04'
   download: https://bigota.d.miui.com/OS3.0.7.0.WOCCNXM/fw_dada_dada-ota_full-OS3.0.7.0.WOCCNXM-user-16.0-232acd7942.zip
   name: Xiaomi 15
@@ -26405,6 +26411,12 @@
   name: Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G
   version: OS3.0.6.0.WBWCNXM
 - android: '16.0'
+  codename: somalia
+  date: '2026-09-04'
+  download: https://bigota.d.miui.com/OS3.0.13.0.WBWCNXM/fw_somalia_somalia-ota_full-OS3.0.13.0.WBWCNXM-user-16.0-e5f6a34d2b.zip
+  name: Redmi 17 5G/R70 5G/R70m 5G/Redmi A7 Pro 5G/Redmi 15A/POCO C85x 5G
+  version: OS3.0.13.0.WBWCNXM
+- android: '16.0'
   codename: songyuan
   date: '2026-08-25'
   download: https://bigota.d.miui.com/OS3.0.301.0.WGNCNXM/fw_songyuan_songyuan-ota_full-OS3.0.301.0.WGNCNXM-user-16.0-355f85a1fd.zip
@@ -30070,6 +30082,12 @@
   download: https://bigota.d.miui.com/OS3.0.3.0.WNKEUXM/fw_vermeer_vermeer_eea_global-ota_full-OS3.0.3.0.WNKEUXM-user-16.0-803d148b4e.zip
   name: Redmi K70/POCO F6 Pro
   version: OS3.0.3.0.WNKEUXM
+- android: '16.0'
+  codename: vermeer
+  date: '2026-09-04'
+  download: https://bigota.d.miui.com/OS3.0.307.0.WNKCNXM/fw_vermeer_vermeer-ota_full-OS3.0.307.0.WNKCNXM-user-16.0-e8ac729fa5.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS3.0.307.0.WNKCNXM
 - android: '14.0'
   codename: vermeer
   date: '2024-06-03'
