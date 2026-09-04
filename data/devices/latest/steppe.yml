@@ -28,3 +28,13 @@
   versions:
     android: '16.0'
     miui: OS3.0.305.0.WAVEUXM
+- branch: stable
+  date: '2026-09-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_steppe/releases/download/stable-04.09.2026/fw_steppe_steppe_in_global-ota_full-OS3.0.302.0.WAVINXM-user-16.0-07bc0a7758.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/steppe/fw_steppe_steppe_in_global-ota_full-OS3.0.302.0.WAVINXM-user-16.0-07bc0a7758.zip
+  filename: fw_steppe_steppe_in_global-ota_full-OS3.0.302.0.WAVINXM-user-16.0-07bc0a7758.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.302.0.WAVINXM
