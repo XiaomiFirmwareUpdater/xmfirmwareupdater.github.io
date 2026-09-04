@@ -56,6 +56,49 @@ permalink: /hyperos/songyuan/stable/OS3.0.301.0.WGNTWXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Recovery</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>8.5 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2026-09-04</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">songyuan_tw_global-ota_full-OS3.0.301.0.WGNTWXM-user-16.0-2661415c2e.zip</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">2661415c2ef975ff8604e71d31d0ff47</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.301.0.WGNTWXM/songyuan_tw_global-ota_full-OS3.0.301.0.WGNTWXM-user-16.0-2661415c2e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WGNTWXM/songyuan_tw_global-ota_full-OS3.0.301.0.WGNTWXM-user-16.0-2661415c2e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.301.0.WGNTWXM/songyuan_tw_global-ota_full-OS3.0.301.0.WGNTWXM-user-16.0-2661415c2e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.301.0.WGNTWXM/songyuan_tw_global-ota_full-OS3.0.301.0.WGNTWXM-user-16.0-2661415c2e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.301.0.WGNTWXM/songyuan_tw_global-ota_full-OS3.0.301.0.WGNTWXM-user-16.0-2661415c2e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#songyuan_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="songyuan_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="songyuan_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to August 2026. Increased system security.<br>[Privacy and security]<br>New: More system apps now support Private access, with ongoing compatibility improvements for additional apps<br>Optimization: Updated "Fingerprints, face data, and screen lock" page layout for easier, faster setup</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>POCO F9 Ultra Taiwan</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/songyuan/" target="_blank">songyuan</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS3.0.301.0.WGNTWXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
@@ -74,10 +117,10 @@ permalink: /hyperos/songyuan/stable/OS3.0.301.0.WGNTWXM/
                     <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.301.0.WGNTWXM/songyuan_tw_global_images_OS3.0.301.0.WGNTWXM_20260804.0000.00_16.0_tw_0af1964e16.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WGNTWXM/songyuan_tw_global_images_OS3.0.301.0.WGNTWXM_20260804.0000.00_16.0_tw_0af1964e16.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.301.0.WGNTWXM/songyuan_tw_global_images_OS3.0.301.0.WGNTWXM_20260804.0000.00_16.0_tw_0af1964e16.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.301.0.WGNTWXM/songyuan_tw_global_images_OS3.0.301.0.WGNTWXM_20260804.0000.00_16.0_tw_0af1964e16.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.301.0.WGNTWXM/songyuan_tw_global_images_OS3.0.301.0.WGNTWXM_20260804.0000.00_16.0_tw_0af1964e16.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#songyuan_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="songyuan_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#songyuan_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="songyuan_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="songyuan_1_changelog">
+                    <div class="collapse" id="songyuan_2_changelog">
                         <p id="changelog_text">Bug fixes and system optimizations.</p>
                     </div>
                 </li>

@@ -289,6 +289,16 @@
     android: '16.0'
     miui: OS3.0.1.0.WOVMIXM
 - branch: stable
+  date: '2026-09-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taiko/releases/download/stable-04.09.2026/fw_taiko_taiko_in_global-ota_full-OS3.0.302.0.WOVINXM-user-16.0-7691ad66b7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/taiko/fw_taiko_taiko_in_global-ota_full-OS3.0.302.0.WOVINXM-user-16.0-7691ad66b7.zip
+  filename: fw_taiko_taiko_in_global-ota_full-OS3.0.302.0.WOVINXM-user-16.0-7691ad66b7.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.302.0.WOVINXM
+- branch: stable
   date: '2026-01-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taiko/releases/download/stable-04.01.2026/fw_taiko_taiko-ota_full-OS3.0.3.0.WOVCNXM-user-16.0-52f2832244.zip

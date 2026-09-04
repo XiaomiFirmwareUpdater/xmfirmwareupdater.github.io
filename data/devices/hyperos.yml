@@ -2854,6 +2854,12 @@
   download: https://bigota.d.miui.com/OS3.0.302.0.WNUCNXM/fw_breeze_breeze-ota_full-OS3.0.302.0.WNUCNXM-user-16.0-72b6826124.zip
   name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
   version: OS3.0.302.0.WNUCNXM
+- android: '16.0'
+  codename: breeze
+  date: '2026-09-04'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WNUCNXM/fw_breeze_breeze-ota_full-OS3.0.303.0.WNUCNXM-user-16.0-d2195c0cab.zip
+  name: Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G
+  version: OS3.0.303.0.WNUCNXM
 - android: '14.0'
   codename: breeze
   date: '2024-09-04'
@@ -13109,6 +13115,12 @@
   name: Xiaomi 15T Pro
   version: OS3.0.303.0.WOSEUXM
 - android: '16.0'
+  codename: klimt
+  date: '2026-09-04'
+  download: https://bigota.d.miui.com/OS3.0.307.0.WOSEUXM/fw_klimt_klimt_eea_global-ota_full-OS3.0.307.0.WOSEUXM-user-16.0-725507757e.zip
+  name: Xiaomi 15T Pro
+  version: OS3.0.307.0.WOSEUXM
+- android: '16.0'
   codename: koto
   date: '2025-12-31'
   download: https://bigota.d.miui.com/OS3.0.2.0.WOWMIXM/fw_koto_koto_global-ota_full-OS3.0.2.0.WOWMIXM-user-16.0-ba9ae70c66.zip
@@ -21544,6 +21556,12 @@
   download: https://bigota.d.miui.com/OS3.0.16.0.WPCCNXM/fw_pudding_pudding-ota_full-OS3.0.16.0.WPCCNXM-user-16.0-9f6ba9bb5d.zip
   name: Xiaomi 17
   version: OS3.0.16.0.WPCCNXM
+- android: '17.0'
+  codename: pudding
+  date: '2026-09-04'
+  download: https://bigota.d.miui.com/OS3.0.334.0.XPCEUXM/fw_pudding_pudding_eea_global-ota_full-OS3.0.334.0.XPCEUXM-user-17.0-d0e0d94fe8.zip
+  name: Xiaomi 17
+  version: OS3.0.334.0.XPCEUXM
 - android: '16.0'
   codename: pudding
   date: '2026-06-04'
@@ -27211,6 +27229,12 @@
 - android: '16.0'
   codename: steppe
   date: '2026-09-04'
+  download: https://bigota.d.miui.com/OS3.0.306.0.WAVEUXM/fw_steppe_steppe_eea_global-ota_full-OS3.0.306.0.WAVEUXM-user-16.0-bcb1fc24ab.zip
+  name: Redmi M100/Redmi 17 5G/POCO M8x 5G
+  version: OS3.0.306.0.WAVEUXM
+- android: '16.0'
+  codename: steppe
+  date: '2026-09-04'
   download: https://bigota.d.miui.com/OS3.0.302.0.WAVINXM/fw_steppe_steppe_in_global-ota_full-OS3.0.302.0.WAVINXM-user-16.0-07bc0a7758.zip
   name: Redmi M100/Redmi 17 5G/POCO M8x 5G
   version: OS3.0.302.0.WAVINXM
@@ -27664,6 +27688,12 @@
   download: https://bigota.d.miui.com/OS3.0.1.0.WOVMIXM/fw_taiko_taiko_global-ota_full-OS3.0.1.0.WOVMIXM-user-16.0-237a0fd811.zip
   name: Redmi Pad 2
   version: OS3.0.1.0.WOVMIXM
+- android: '16.0'
+  codename: taiko
+  date: '2026-09-04'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WOVINXM/fw_taiko_taiko_in_global-ota_full-OS3.0.302.0.WOVINXM-user-16.0-7691ad66b7.zip
+  name: Redmi Pad 2
+  version: OS3.0.302.0.WOVINXM
 - android: '16.0'
   codename: taiko
   date: '2026-01-04'
