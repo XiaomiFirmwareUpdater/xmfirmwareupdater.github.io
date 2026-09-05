@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 05 Sep 2026 06:38:29 </lastBuildDate>
+        <lastBuildDate>Sat, 05 Sep 2026 12:44:30 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite (shennong) - OS3.0.308.0.WNBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/shennong/</link>
+            <pubDate>Sat, 05 Sep 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 13R/Redmi 13 5G/POCO M6 Plus 5G (breeze) - OS3.0.303.0.WNUCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/breeze/</link>
@@ -1384,11 +1389,6 @@
         <item>
             <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS3.0.302.0.WNXEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite (shennong) - OS2.0.223.0.VNBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/shennong/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>

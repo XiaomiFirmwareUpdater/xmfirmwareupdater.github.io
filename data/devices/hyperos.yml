@@ -25792,6 +25792,12 @@
   download: https://bigota.d.miui.com/OS2.0.101.0.VNBCNXM/fw_shennong_shennong-ota_full-OS2.0.101.0.VNBCNXM-user-15.0-cd58edf925.zip
   name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
   version: OS2.0.101.0.VNBCNXM
+- android: '16.0'
+  codename: shennong
+  date: '2026-09-05'
+  download: https://bigota.d.miui.com/OS3.0.308.0.WNBCNXM/fw_shennong_shennong-ota_full-OS3.0.308.0.WNBCNXM-user-16.0-704ee35814.zip
+  name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
+  version: OS3.0.308.0.WNBCNXM
 - android: '14.0'
   codename: shennong
   date: '2024-06-05'
