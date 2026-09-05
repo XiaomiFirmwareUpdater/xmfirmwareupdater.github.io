@@ -13870,6 +13870,12 @@
   download: https://bigota.d.miui.com/OS3.0.306.0.WDTMIXM/fw_leedsa_leedsa_global-ota_full-OS3.0.306.0.WDTMIXM-user-16.0-7e693c762c.zip
   name: Redmi 17/POCO C95 Pro
   version: OS3.0.306.0.WDTMIXM
+- android: '16.0'
+  codename: leedsa
+  date: '2026-09-05'
+  download: https://bigota.d.miui.com/OS3.0.307.0.WDTEUXM/fw_leedsa_leedsa_eea_global-ota_full-OS3.0.307.0.WDTEUXM-user-16.0-656ef66603.zip
+  name: Redmi 17/POCO C95 Pro
+  version: OS3.0.307.0.WDTEUXM
 - android: '14.0'
   codename: light
   date: '2024-03-28'

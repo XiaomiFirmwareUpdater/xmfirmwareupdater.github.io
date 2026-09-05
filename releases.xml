@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 05 Sep 2026 18:39:05 </lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 01:24:04 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 17/POCO C95 Pro (leedsa) - OS3.0.307.0.WDTEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/leedsa/</link>
+            <pubDate>Sat, 05 Sep 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite (shennong) - OS3.0.308.0.WNBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/shennong/</link>
@@ -1154,11 +1159,6 @@
         <item>
             <title>Redmi Note 15 Pro 5G (lapis) - OS3.0.303.0.WPPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 17/POCO C95 Pro (leedsa) - OS3.0.304.0.WDTEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/leedsa/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
