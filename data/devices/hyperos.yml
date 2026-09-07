@@ -9292,6 +9292,12 @@
   download: https://bigota.d.miui.com/OS2.0.215.0.VMCCNXM/fw_fuxi_fuxi-ota_full-OS2.0.215.0.VMCCNXM-user-15.0-7df6d5ee94.zip
   name: Xiaomi 13
   version: OS2.0.215.0.VMCCNXM
+- android: '16.0'
+  codename: fuxi
+  date: '2026-09-07'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WMCEUXM/fw_fuxi_fuxi_eea_global-ota_full-OS3.0.303.0.WMCEUXM-user-16.0-beaece1416.zip
+  name: Xiaomi 13
+  version: OS3.0.303.0.WMCEUXM
 - android: '15.0'
   codename: fuxi
   date: '2025-07-07'
@@ -21148,6 +21154,12 @@
   download: https://bigota.d.miui.com/OS2.0.211.0.VLQEUXM/fw_plato_plato_eea_global-ota_full-OS2.0.211.0.VLQEUXM-user-15.0-5772255dfe.zip
   name: Xiaomi 12T
   version: OS2.0.211.0.VLQEUXM
+- android: '15.0'
+  codename: plato
+  date: '2026-09-07'
+  download: https://bigota.d.miui.com/OS2.0.217.0.VLQMIXM/fw_plato_plato_global-ota_full-OS2.0.217.0.VLQMIXM-user-15.0-910acaa31b.zip
+  name: Xiaomi 12T
+  version: OS2.0.217.0.VLQMIXM
 - android: '14.0'
   codename: plato
   date: '2024-08-07'
@@ -27294,6 +27306,12 @@
   version: OS3.0.308.0.WAVMIXM
 - android: '16.0'
   codename: steppe
+  date: '2026-09-07'
+  download: https://bigota.d.miui.com/OS3.0.307.0.WAVEUXM/fw_steppe_steppe_eea_global-ota_full-OS3.0.307.0.WAVEUXM-user-16.0-6cd8ff847b.zip
+  name: Redmi M100/Redmi 17 5G/POCO M8x 5G
+  version: OS3.0.307.0.WAVEUXM
+- android: '16.0'
+  codename: steppe
   date: '2026-09-04'
   download: https://bigota.d.miui.com/OS3.0.306.0.WAVEUXM/fw_steppe_steppe_eea_global-ota_full-OS3.0.306.0.WAVEUXM-user-16.0-bcb1fc24ab.zip
   name: Redmi M100/Redmi 17 5G/POCO M8x 5G
@@ -32434,6 +32452,12 @@
   download: https://bigota.d.miui.com/OS3.0.305.0.WBUEUDM/fw_zephyr_zephyr_eea_global-ota_full-OS3.0.305.0.WBUEUDM-user-16.0-5a0912999a.zip
   name: Redmi Note 17 4G
   version: OS3.0.305.0.WBUEUDM
+- android: '16.0'
+  codename: zephyr
+  date: '2026-09-07'
+  download: https://bigota.d.miui.com/OS3.0.310.0.WBUMIXM/fw_zephyr_zephyr_global-ota_full-OS3.0.310.0.WBUMIXM-user-16.0-f3d75c5ee5.zip
+  name: Redmi Note 17 4G
+  version: OS3.0.310.0.WBUMIXM
 - android: '15.0'
   codename: zeus
   date: '2025-12-31'

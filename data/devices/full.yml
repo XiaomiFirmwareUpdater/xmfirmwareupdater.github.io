@@ -39949,6 +39949,16 @@
     android: '15.0'
     miui: OS2.0.215.0.VMCCNXM
 - branch: stable
+  date: '2026-09-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-07.09.2026/fw_fuxi_fuxi_eea_global-ota_full-OS3.0.303.0.WMCEUXM-user-16.0-beaece1416.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/fuxi/fw_fuxi_fuxi_eea_global-ota_full-OS3.0.303.0.WMCEUXM-user-16.0-beaece1416.zip
+  filename: fw_fuxi_fuxi_eea_global-ota_full-OS3.0.303.0.WMCEUXM-user-16.0-beaece1416.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.303.0.WMCEUXM
+- branch: stable
   date: '2025-07-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-07.07.2025/fw_fuxi_eea_global_fuxi_eea_global-ota_full-OS2.0.111.0.VMCEUXM-user-15.0-3cf6de6ba2.zip
@@ -83489,6 +83499,16 @@
     android: '15.0'
     miui: OS2.0.211.0.VLQEUXM
 - branch: stable
+  date: '2026-09-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-07.09.2026/fw_plato_plato_global-ota_full-OS2.0.217.0.VLQMIXM-user-15.0-910acaa31b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/plato/fw_plato_plato_global-ota_full-OS2.0.217.0.VLQMIXM-user-15.0-910acaa31b.zip
+  filename: fw_plato_plato_global-ota_full-OS2.0.217.0.VLQMIXM-user-15.0-910acaa31b.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.217.0.VLQMIXM
+- branch: stable
   date: '2024-08-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-07.08.2024/fw_plato_miui_PLATOEEAGlobal_OS1.0.12.0.ULQEUXM_94738c2aec_14.0.zip
@@ -98789,6 +98809,16 @@
     android: '15.0'
     miui: A15.0.4.0.VGWINXM
 - branch: stable
+  date: '2026-09-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_serenity/releases/download/stable-07.09.2026/fw_serenity_miui_SERENITYEEAGlobal_A15.0.17.0.VGWEUXM_54263ecb2e_15.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/A15/serenity/fw_serenity_miui_SERENITYEEAGlobal_A15.0.17.0.VGWEUXM_54263ecb2e_15.0.zip
+  filename: fw_serenity_miui_SERENITYEEAGlobal_A15.0.17.0.VGWEUXM_54263ecb2e_15.0.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: A15.0.17.0.VGWEUXM
+- branch: stable
   date: '2025-10-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_serenity/releases/download/stable-05.10.2025/fw_serenity_miui_SERENITYGlobal_A15.0.13.0.VGWMIXM_1478ff1e33_15.0.zip
@@ -104518,6 +104548,16 @@
   versions:
     android: '16.0'
     miui: OS3.0.308.0.WAVMIXM
+- branch: stable
+  date: '2026-09-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_steppe/releases/download/stable-07.09.2026/fw_steppe_steppe_eea_global-ota_full-OS3.0.307.0.WAVEUXM-user-16.0-6cd8ff847b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/steppe/fw_steppe_steppe_eea_global-ota_full-OS3.0.307.0.WAVEUXM-user-16.0-6cd8ff847b.zip
+  filename: fw_steppe_steppe_eea_global-ota_full-OS3.0.307.0.WAVEUXM-user-16.0-6cd8ff847b.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.307.0.WAVEUXM
 - branch: stable
   date: '2026-09-04'
   downloads:
@@ -126778,6 +126818,16 @@
   versions:
     android: '16.0'
     miui: OS3.0.305.0.WBUEUDM
+- branch: stable
+  date: '2026-09-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zephyr/releases/download/stable-07.09.2026/fw_zephyr_zephyr_global-ota_full-OS3.0.310.0.WBUMIXM-user-16.0-f3d75c5ee5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/zephyr/fw_zephyr_zephyr_global-ota_full-OS3.0.310.0.WBUMIXM-user-16.0-f3d75c5ee5.zip
+  filename: fw_zephyr_zephyr_global-ota_full-OS3.0.310.0.WBUMIXM-user-16.0-f3d75c5ee5.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.310.0.WBUMIXM
 - branch: stable
   date: '2025-12-31'
   downloads:

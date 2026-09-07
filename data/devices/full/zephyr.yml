@@ -18,3 +18,13 @@
   versions:
     android: '16.0'
     miui: OS3.0.305.0.WBUEUDM
+- branch: stable
+  date: '2026-09-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zephyr/releases/download/stable-07.09.2026/fw_zephyr_zephyr_global-ota_full-OS3.0.310.0.WBUMIXM-user-16.0-f3d75c5ee5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/zephyr/fw_zephyr_zephyr_global-ota_full-OS3.0.310.0.WBUMIXM-user-16.0-f3d75c5ee5.zip
+  filename: fw_zephyr_zephyr_global-ota_full-OS3.0.310.0.WBUMIXM-user-16.0-f3d75c5ee5.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.310.0.WBUMIXM
