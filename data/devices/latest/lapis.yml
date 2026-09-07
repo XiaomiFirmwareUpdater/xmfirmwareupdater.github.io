@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-24.08.2026/fw_lapis_lapis_global-ota_full-OS3.0.307.0.WPPMIXM-user-16.0-5eaf9aa793.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/lapis/fw_lapis_lapis_global-ota_full-OS3.0.307.0.WPPMIXM-user-16.0-5eaf9aa793.zip
-  filename: fw_lapis_lapis_global-ota_full-OS3.0.307.0.WPPMIXM-user-16.0-5eaf9aa793.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-07.09.2026/fw_lapis_lapis_global-ota_full-OS3.0.308.0.WPPMIXM-user-16.0-659517c698.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/lapis/fw_lapis_lapis_global-ota_full-OS3.0.308.0.WPPMIXM-user-16.0-659517c698.zip
+  filename: fw_lapis_lapis_global-ota_full-OS3.0.308.0.WPPMIXM-user-16.0-659517c698.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.307.0.WPPMIXM
+    miui: OS3.0.308.0.WPPMIXM
 - branch: stable
   date: '2026-08-24'
   downloads:
