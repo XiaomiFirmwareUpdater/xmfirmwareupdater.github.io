@@ -2446,6 +2446,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.UOQMIXM/fw_beryl_miui_BERYLGlobal_OS1.0.8.0.UOQMIXM_8c25bf3da3_14.0.zip
   name: Redmi Note 14 5G/POCO M7 Pro 5G
   version: OS1.0.8.0.UOQMIXM
+- android: '16.0'
+  codename: beryl
+  date: '2026-09-11'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WOQEUXM/fw_beryl_beryl_eea_global-ota_full-OS3.0.302.0.WOQEUXM-user-16.0-43c8f190e5.zip
+  name: Redmi Note 14 5G/POCO M7 Pro 5G
+  version: OS3.0.302.0.WOQEUXM
 - android: '15.0'
   codename: beryl
   date: '2025-05-12'
@@ -13879,6 +13885,12 @@
 - android: '16.0'
   codename: lapis
   date: '2026-09-11'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WPPINXM/fw_lapis_lapis_in_global-ota_full-OS3.0.304.0.WPPINXM-user-16.0-893dc36080.zip
+  name: Redmi Note 15 Pro 5G
+  version: OS3.0.304.0.WPPINXM
+- android: '16.0'
+  codename: lapis
+  date: '2026-09-11'
   download: https://bigota.d.miui.com/OS3.0.308.0.WPPCNXM/fw_lapis_lapis-ota_full-OS3.0.308.0.WPPCNXM-user-16.0-a508664795.zip
   name: Redmi Note 15 Pro 5G
   version: OS3.0.308.0.WPPCNXM
@@ -18478,6 +18490,12 @@
   download: https://bigota.d.miui.com/OS1.0.13.0.UMBMIXM/fw_nuwa_miui_NUWAGlobal_OS1.0.13.0.UMBMIXM_0e507b50b1_14.0.zip
   name: Xiaomi 13 Pro
   version: OS1.0.13.0.UMBMIXM
+- android: '16.0'
+  codename: nuwa
+  date: '2026-09-11'
+  download: https://bigota.d.miui.com/OS3.0.311.0.WMBCNXM/fw_nuwa_nuwa-ota_full-OS3.0.311.0.WMBCNXM-user-16.0-0113895944.zip
+  name: Xiaomi 13 Pro
+  version: OS3.0.311.0.WMBCNXM
 - android: '14.0'
   codename: nuwa
   date: '2024-01-12'

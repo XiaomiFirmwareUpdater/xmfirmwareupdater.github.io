@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 11 Sep 2026 20:15:00 </lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2026 01:48:52 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.302.0.WOQEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
+            <pubDate>Fri, 11 Sep 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 17T (chagall) - OS3.0.305.0.WPTINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
@@ -24,6 +29,16 @@
         <item>
             <title>Redmi Note 15 Pro 5G (lapis) - OS3.0.308.0.WPPCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
+            <pubDate>Fri, 11 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 Pro 5G (lapis) - OS3.0.304.0.WPPINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
+            <pubDate>Fri, 11 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - OS3.0.311.0.WMBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Fri, 11 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1387,11 +1402,6 @@
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 15 Pro 5G (lapis) - OS3.0.303.0.WPPINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.304.0.WOOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
@@ -1428,11 +1438,6 @@
         </item>
         <item>
             <title>Xiaomi 13 Pro (nuwa) - OS3.0.302.0.WMBMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Pro (nuwa) - OS3.0.310.0.WMBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
@@ -1485,11 +1490,6 @@
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS2.0.217.0.VMWEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sky/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.301.0.WOQEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/beryl/</link>
-            <pubDate>Tue, 30 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.301.0.WOQINXM</title>

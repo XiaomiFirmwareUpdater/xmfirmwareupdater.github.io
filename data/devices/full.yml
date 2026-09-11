@@ -10459,6 +10459,16 @@
     android: '14.0'
     miui: OS1.0.8.0.UOQMIXM
 - branch: stable
+  date: '2026-09-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-12.09.2026/fw_beryl_beryl_eea_global-ota_full-OS3.0.302.0.WOQEUXM-user-16.0-43c8f190e5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/beryl/fw_beryl_beryl_eea_global-ota_full-OS3.0.302.0.WOQEUXM-user-16.0-43c8f190e5.zip
+  filename: fw_beryl_beryl_eea_global-ota_full-OS3.0.302.0.WOQEUXM-user-16.0-43c8f190e5.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.302.0.WOQEUXM
+- branch: stable
   date: '2025-05-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-12.05.2025/fw_beryl_beryl-ota_full-OS2.0.10.0.VOQCNXM-user-15.0-e8ce7c34e6.zip
@@ -55391,6 +55401,16 @@
 - branch: stable
   date: '2026-09-11'
   downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-12.09.2026/fw_lapis_lapis_in_global-ota_full-OS3.0.304.0.WPPINXM-user-16.0-893dc36080.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/lapis/fw_lapis_lapis_in_global-ota_full-OS3.0.304.0.WPPINXM-user-16.0-893dc36080.zip
+  filename: fw_lapis_lapis_in_global-ota_full-OS3.0.304.0.WPPINXM-user-16.0-893dc36080.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.304.0.WPPINXM
+- branch: stable
+  date: '2026-09-11'
+  downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-11.09.2026/fw_lapis_lapis-ota_full-OS3.0.308.0.WPPCNXM-user-16.0-a508664795.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/lapis/fw_lapis_lapis-ota_full-OS3.0.308.0.WPPCNXM-user-16.0-a508664795.zip
   filename: fw_lapis_lapis-ota_full-OS3.0.308.0.WPPCNXM-user-16.0-a508664795.zip
@@ -72278,6 +72298,16 @@
   versions:
     android: '14.0'
     miui: OS1.0.13.0.UMBMIXM
+- branch: stable
+  date: '2026-09-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-12.09.2026/fw_nuwa_nuwa-ota_full-OS3.0.311.0.WMBCNXM-user-16.0-0113895944.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/nuwa/fw_nuwa_nuwa-ota_full-OS3.0.311.0.WMBCNXM-user-16.0-0113895944.zip
+  filename: fw_nuwa_nuwa-ota_full-OS3.0.311.0.WMBCNXM-user-16.0-0113895944.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.311.0.WMBCNXM
 - branch: stable
   date: '2023-08-12'
   downloads:
