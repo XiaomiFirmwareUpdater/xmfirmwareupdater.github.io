@@ -54,7 +54,7 @@ permalink: /firmware/amethyst/stable/OS3.0.304.0.WOPEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>118.4 MB</h5>
+                    <h5><b>Size: </b>118.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-08-24</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/amethyst/stable/OS3.0.304.0.WOPEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_amethyst_amethyst_eea_global-ota_full-OS3.0.304.0.WOPEUXM-user-16.0-375ff9a0ea.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">a3a07aae7ace25d14b9e5c807e75aaf5</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">a58a8269530ad389356619ec9cb2ec04</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

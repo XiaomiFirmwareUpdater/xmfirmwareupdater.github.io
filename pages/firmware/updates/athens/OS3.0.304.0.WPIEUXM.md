@@ -54,7 +54,7 @@ permalink: /firmware/athens/stable/OS3.0.304.0.WPIEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>244.0 MB</h5>
+                    <h5><b>Size: </b>233.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-09-02</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/athens/stable/OS3.0.304.0.WPIEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_athens_athens_eea_global-ota_full-OS3.0.304.0.WPIEUXM-user-16.0-b4889711e9.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">5e19c6baf6c59e51afb1e75b0bce3e8b</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">630f9408f978bd408de641daa71e5663</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

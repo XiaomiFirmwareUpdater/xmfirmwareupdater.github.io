@@ -54,7 +54,7 @@ permalink: /firmware/flourite/stable/OS3.0.3.0.WPRINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>124.8 MB</h5>
+                    <h5><b>Size: </b>124.6 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-05-12</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/flourite/stable/OS3.0.3.0.WPRINXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_flourite_flourite_in_global-ota_full-OS3.0.3.0.WPRINXM-user-16.0-a83ac3b2ee.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">e59a7745d50c7847e587701c7a75f4f1</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">378e74f7a92c808ccb0465310ae33797</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -54,7 +54,7 @@ permalink: /firmware/dada/stable/OS2.0.109.0.VOCMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>196.5 MB</h5>
+                    <h5><b>Size: </b>191.4 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-03-31</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/dada/stable/OS2.0.109.0.VOCMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_dada_global_dada_global-ota_full-OS2.0.109.0.VOCMIXM-user-15.0-2627d9842e.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">44ce10aab738bacce91c52087644dc98</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">0d450a7c6d77ed03ccce10264c23d9f6</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

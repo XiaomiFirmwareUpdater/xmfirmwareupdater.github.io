@@ -52,7 +52,9 @@ permalink: /archive/hyperos/athens/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F9 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WPIRUXM</td><td>16.0</td><td>8.5 GB</td><td>2026-09-02</td><td><a href="/hyperos/athens/stable/OS3.0.303.0.WPIRUXM/">Download</a></td></tr>
+                <tr><td>POCO F9 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.305.0.WPIMIXM</td><td>16.0</td><td>8.6 GB</td><td>2026-09-09</td><td><a href="/hyperos/athens/stable/OS3.0.305.0.WPIMIXM/">Download</a></td></tr>
+<tr><td>POCO F9 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.305.0.WPIMIXM</td><td>16.0</td><td>11.2 GB</td><td>2026-09-08</td><td><a href="/hyperos/athens/stable/OS3.0.305.0.WPIMIXM/">Download</a></td></tr>
+<tr><td>POCO F9 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WPIRUXM</td><td>16.0</td><td>8.5 GB</td><td>2026-09-02</td><td><a href="/hyperos/athens/stable/OS3.0.303.0.WPIRUXM/">Download</a></td></tr>
 <tr><td>POCO F9 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WPIRUXM</td><td>16.0</td><td>11.0 GB</td><td>2026-08-24</td><td><a href="/hyperos/athens/stable/OS3.0.303.0.WPIRUXM/">Download</a></td></tr>
 <tr><td>POCO F9 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WPIMIXM</td><td>16.0</td><td>8.5 GB</td><td>2026-09-01</td><td><a href="/hyperos/athens/stable/OS3.0.301.0.WPIMIXM/">Download</a></td></tr>
 <tr><td>POCO F9 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WPIMIXM</td><td>16.0</td><td>11.0 GB</td><td>2026-07-29</td><td><a href="/hyperos/athens/stable/OS3.0.301.0.WPIMIXM/">Download</a></td></tr>

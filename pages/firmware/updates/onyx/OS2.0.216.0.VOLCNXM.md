@@ -54,7 +54,7 @@ permalink: /firmware/onyx/stable/OS2.0.216.0.VOLCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>180.5 MB</h5>
+                    <h5><b>Size: </b>175.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-10-25</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/onyx/stable/OS2.0.216.0.VOLCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_onyx_onyx-ota_full-OS2.0.216.0.VOLCNXM-user-15.0-6e1ac7510e.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">705fa4c5da6c1d98d4fde8b2592294e8</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">0287b0b23af7db6e70a93a9cec2e57a7</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

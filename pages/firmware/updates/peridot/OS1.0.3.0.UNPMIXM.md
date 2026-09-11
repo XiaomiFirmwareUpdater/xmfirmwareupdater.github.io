@@ -54,7 +54,7 @@ permalink: /firmware/peridot/stable/OS1.0.3.0.UNPMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>170.3 MB</h5>
+                    <h5><b>Size: </b>170.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-05-23</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/peridot/stable/OS1.0.3.0.UNPMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_peridot_miui_PERIDOTGlobal_OS1.0.3.0.UNPMIXM_526df1d0da_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">465810037589ddbea4731a4c707c1868</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">99692e1ddce1eb3aa430d255775652ad</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

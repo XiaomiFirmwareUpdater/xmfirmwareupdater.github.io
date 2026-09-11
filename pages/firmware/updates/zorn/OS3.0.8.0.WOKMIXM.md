@@ -54,7 +54,7 @@ permalink: /firmware/zorn/stable/OS3.0.8.0.WOKMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>191.7 MB</h5>
+                    <h5><b>Size: </b>187.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-02-05</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/zorn/stable/OS3.0.8.0.WOKMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_zorn_zorn_global-ota_full-OS3.0.8.0.WOKMIXM-user-16.0-df344d8246.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">80d9fefdfc9bc0daf1b99a0c2ba4d221</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ef9fbf882613c6db0a6f9f617417dbcd</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

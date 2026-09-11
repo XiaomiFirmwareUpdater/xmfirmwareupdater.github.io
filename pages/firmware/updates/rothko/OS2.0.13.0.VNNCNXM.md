@@ -54,7 +54,7 @@ permalink: /firmware/rothko/stable/OS2.0.13.0.VNNCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>86.4 MB</h5>
+                    <h5><b>Size: </b>86.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-12-06</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/rothko/stable/OS2.0.13.0.VNNCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_rothko_rothko-ota_full-OS2.0.13.0.VNNCNXM-user-15.0-6c068bf94b.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">6066f7adb5e913a3c5856ae43e9469c0</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">54ed83183baef4aefb177228fe4a6c65</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

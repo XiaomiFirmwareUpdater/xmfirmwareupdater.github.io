@@ -54,7 +54,7 @@ permalink: /firmware/amethyst/stable/OS2.0.205.0.VOPINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>117.7 MB</h5>
+                    <h5><b>Size: </b>117.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-12-22</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/amethyst/stable/OS2.0.205.0.VOPINXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_amethyst_amethyst_in_global-ota_full-OS2.0.205.0.VOPINXM-user-15.0-b22a5f1bfc.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">721f3fc299dadeddf80373a7796bcd96</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f73721c85e62810c0d622b9b5cb0a380</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

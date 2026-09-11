@@ -54,7 +54,7 @@ permalink: /firmware/aurora/stable/OS3.0.304.0.WNAMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>195.6 MB</h5>
+                    <h5><b>Size: </b>190.6 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-09-02</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/aurora/stable/OS3.0.304.0.WNAMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_aurora_aurora_global-ota_full-OS3.0.304.0.WNAMIXM-user-16.0-153db623b3.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">7d0a2de5ea77cb0ef198c6b4e9a1b743</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">a64eb067f57ebec8ab1f9eec45a08681</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

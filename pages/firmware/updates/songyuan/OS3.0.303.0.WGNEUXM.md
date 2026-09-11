@@ -54,7 +54,7 @@ permalink: /firmware/songyuan/stable/OS3.0.303.0.WGNEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>236.2 MB</h5>
+                    <h5><b>Size: </b>225.4 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-09-01</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/songyuan/stable/OS3.0.303.0.WGNEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_songyuan_songyuan_eea_global-ota_full-OS3.0.303.0.WGNEUXM-user-16.0-b20d5eb397.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">ce4275f67ef01b757b1b409ce28144f1</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6611860d8b5ea746e7aa63f8c83aabdf</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -1,5 +1,5 @@
 - branch: stable
-  date: '2025-10-31'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-31.10.2025/fw_miro_miro_global-ota_full-OS2.0.204.0.VOMMIXM-user-15.0-a85c675cd5.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro_global-ota_full-OS2.0.204.0.VOMMIXM-user-15.0-a85c675cd5.zip
@@ -9,7 +9,7 @@
     android: '15.0'
     miui: OS2.0.204.0.VOMMIXM
 - branch: stable
-  date: '2024-11-30'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-30.11.2024/fw_miro_miro-ota_full-OS2.0.10.0.VOMCNXM-user-15.0-69a61b38e5.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro-ota_full-OS2.0.10.0.VOMCNXM-user-15.0-69a61b38e5.zip
@@ -19,7 +19,7 @@
     android: '15.0'
     miui: OS2.0.10.0.VOMCNXM
 - branch: stable
-  date: '2025-07-30'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-30.07.2025/fw_miro_global_miro_global-ota_full-OS2.0.201.0.VOMMIXM-user-15.0-684039a5df.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_global_miro_global-ota_full-OS2.0.201.0.VOMMIXM-user-15.0-684039a5df.zip
@@ -29,7 +29,7 @@
     android: '15.0'
     miui: OS2.0.201.0.VOMMIXM
 - branch: stable
-  date: '2025-06-30'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-30.06.2025/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.202.0.VOMEUXM-user-15.0-ab74ce49cc.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.202.0.VOMEUXM-user-15.0-ab74ce49cc.zip
@@ -39,7 +39,7 @@
     android: '15.0'
     miui: OS2.0.202.0.VOMEUXM
 - branch: stable
-  date: '2024-11-28'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-28.11.2024/fw_miro_miro-ota_full-OS2.0.9.0.VOMCNXM-user-15.0-8bfd45400f.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro-ota_full-OS2.0.9.0.VOMCNXM-user-15.0-8bfd45400f.zip
@@ -49,7 +49,7 @@
     android: '15.0'
     miui: OS2.0.9.0.VOMCNXM
 - branch: stable
-  date: '2025-08-28'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-28.08.2025/fw_miro_global_miro_global-ota_full-OS2.0.202.0.VOMMIXM-user-15.0-9791c96d63.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_global_miro_global-ota_full-OS2.0.202.0.VOMMIXM-user-15.0-9791c96d63.zip
@@ -59,7 +59,7 @@
     android: '15.0'
     miui: OS2.0.202.0.VOMMIXM
 - branch: stable
-  date: '2025-07-28'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-28.07.2025/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.203.0.VOMEUXM-user-15.0-068f1cb187.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.203.0.VOMEUXM-user-15.0-068f1cb187.zip
@@ -69,7 +69,7 @@
     android: '15.0'
     miui: OS2.0.203.0.VOMEUXM
 - branch: stable
-  date: '2025-03-28'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-28.03.2025/fw_miro_global_miro_global-ota_full-OS2.0.103.0.VOMMIXM-user-15.0-ddf1d342f8.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_global_miro_global-ota_full-OS2.0.103.0.VOMMIXM-user-15.0-ddf1d342f8.zip
@@ -79,7 +79,7 @@
     android: '15.0'
     miui: OS2.0.103.0.VOMMIXM
 - branch: stable
-  date: '2025-08-27'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-27.08.2025/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.204.0.VOMEUXM-user-15.0-b9fe41b398.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.204.0.VOMEUXM-user-15.0-b9fe41b398.zip
@@ -89,7 +89,7 @@
     android: '15.0'
     miui: OS2.0.204.0.VOMEUXM
 - branch: stable
-  date: '2025-03-27'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-27.03.2025/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.107.0.VOMEUXM-user-15.0-278992e0ce.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.107.0.VOMEUXM-user-15.0-278992e0ce.zip
@@ -99,7 +99,7 @@
     android: '15.0'
     miui: OS2.0.107.0.VOMEUXM
 - branch: stable
-  date: '2025-03-27'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-27.03.2025/fw_miro_global_miro_global-ota_full-OS2.0.106.0.VOMMIXM-user-15.0-f8b861d1de.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_global_miro_global-ota_full-OS2.0.106.0.VOMMIXM-user-15.0-f8b861d1de.zip
@@ -109,7 +109,7 @@
     android: '15.0'
     miui: OS2.0.106.0.VOMMIXM
 - branch: stable
-  date: '2025-09-26'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-26.09.2025/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.205.0.VOMEUXM-user-15.0-befbd93e18.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.205.0.VOMEUXM-user-15.0-befbd93e18.zip
@@ -119,7 +119,7 @@
     android: '15.0'
     miui: OS2.0.205.0.VOMEUXM
 - branch: stable
-  date: '2026-08-26'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-26.08.2026/fw_miro_miro-ota_full-OS3.0.304.0.WOMCNXM-user-16.0-c42e5d49de.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/miro/fw_miro_miro-ota_full-OS3.0.304.0.WOMCNXM-user-16.0-c42e5d49de.zip
@@ -129,7 +129,7 @@
     android: '16.0'
     miui: OS3.0.304.0.WOMCNXM
 - branch: stable
-  date: '2025-10-25'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-25.10.2025/fw_miro_miro_eea_global-ota_full-OS2.0.207.0.VOMEUXM-user-15.0-fcfca94a2e.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro_eea_global-ota_full-OS2.0.207.0.VOMEUXM-user-15.0-fcfca94a2e.zip
@@ -139,7 +139,7 @@
     android: '15.0'
     miui: OS2.0.207.0.VOMEUXM
 - branch: stable
-  date: '2026-08-25'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-25.08.2026/fw_miro_miro_global-ota_full-OS3.0.302.0.WOMMIXM-user-16.0-e21a4b5994.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/miro/fw_miro_miro_global-ota_full-OS3.0.302.0.WOMMIXM-user-16.0-e21a4b5994.zip
@@ -149,7 +149,7 @@
     android: '16.0'
     miui: OS3.0.302.0.WOMMIXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-24.08.2026/fw_miro_miro_eea_global-ota_full-OS3.0.302.0.WOMEUXM-user-16.0-95982796b5.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/miro/fw_miro_miro_eea_global-ota_full-OS3.0.302.0.WOMEUXM-user-16.0-95982796b5.zip
@@ -159,7 +159,7 @@
     android: '16.0'
     miui: OS3.0.302.0.WOMEUXM
 - branch: stable
-  date: '2025-03-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-24.03.2025/fw_miro_miro-ota_full-OS2.0.108.0.VOMCNXM-user-15.0-afaabb8574.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro-ota_full-OS2.0.108.0.VOMCNXM-user-15.0-afaabb8574.zip
@@ -169,7 +169,7 @@
     android: '15.0'
     miui: OS2.0.108.0.VOMCNXM
 - branch: stable
-  date: '2026-02-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-24.02.2026/fw_miro_miro-ota_full-OS3.0.6.0.WOMCNXM-user-16.0-e5f722efc7.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/miro/fw_miro_miro-ota_full-OS3.0.6.0.WOMCNXM-user-16.0-e5f722efc7.zip
@@ -179,7 +179,7 @@
     android: '16.0'
     miui: OS3.0.6.0.WOMCNXM
 - branch: stable
-  date: '2024-12-23'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-23.12.2024/fw_miro_miro-ota_full-OS2.0.15.0.VOMCNXM-user-15.0-bdfa3a076c.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro-ota_full-OS2.0.15.0.VOMCNXM-user-15.0-bdfa3a076c.zip
@@ -189,7 +189,7 @@
     android: '15.0'
     miui: OS2.0.15.0.VOMCNXM
 - branch: stable
-  date: '2025-05-23'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-23.05.2025/fw_miro_global_miro_global-ota_full-OS2.0.109.0.VOMMIXM-user-15.0-e21d33e651.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_global_miro_global-ota_full-OS2.0.109.0.VOMMIXM-user-15.0-e21d33e651.zip
@@ -199,7 +199,7 @@
     android: '15.0'
     miui: OS2.0.109.0.VOMMIXM
 - branch: stable
-  date: '2025-10-22'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-22.10.2025/fw_miro_miro-ota_full-OS3.0.2.0.WOMCNXM-user-16.0-a4d1cd7090.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/miro/fw_miro_miro-ota_full-OS3.0.2.0.WOMCNXM-user-16.0-a4d1cd7090.zip
@@ -209,7 +209,7 @@
     android: '16.0'
     miui: OS3.0.2.0.WOMCNXM
 - branch: stable
-  date: '2025-04-21'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-21.04.2025/fw_miro_global_miro_global-ota_full-OS2.0.107.0.VOMMIXM-user-15.0-c077305aef.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_global_miro_global-ota_full-OS2.0.107.0.VOMMIXM-user-15.0-c077305aef.zip
@@ -219,7 +219,7 @@
     android: '15.0'
     miui: OS2.0.107.0.VOMMIXM
 - branch: stable
-  date: '2025-04-21'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-21.04.2025/fw_miro_miro-ota_full-OS2.0.109.0.VOMCNXM-user-15.0-df54c79bf7.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro-ota_full-OS2.0.109.0.VOMCNXM-user-15.0-df54c79bf7.zip
@@ -229,7 +229,7 @@
     android: '15.0'
     miui: OS2.0.109.0.VOMCNXM
 - branch: stable
-  date: '2026-01-21'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-21.01.2026/fw_miro_miro-ota_full-OS3.0.4.0.WOMCNXM-user-16.0-c517e18dc0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/miro/fw_miro_miro-ota_full-OS3.0.4.0.WOMCNXM-user-16.0-c517e18dc0.zip
@@ -239,7 +239,7 @@
     android: '16.0'
     miui: OS3.0.4.0.WOMCNXM
 - branch: stable
-  date: '2025-11-18'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-18.11.2025/fw_miro_miro-ota_full-OS3.0.3.0.WOMCNXM-user-16.0-5c9639845d.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/miro/fw_miro_miro-ota_full-OS3.0.3.0.WOMCNXM-user-16.0-5c9639845d.zip
@@ -249,7 +249,7 @@
     android: '16.0'
     miui: OS3.0.3.0.WOMCNXM
 - branch: stable
-  date: '2025-04-17'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-17.04.2025/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.108.0.VOMEUXM-user-15.0-0e69508f2e.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.108.0.VOMEUXM-user-15.0-0e69508f2e.zip
@@ -259,7 +259,7 @@
     android: '15.0'
     miui: OS2.0.108.0.VOMEUXM
 - branch: stable
-  date: '2026-04-16'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-16.04.2026/fw_miro_miro-ota_full-OS3.0.302.0.WOMCNXM-user-16.0-8f71aa670d.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/miro/fw_miro_miro-ota_full-OS3.0.302.0.WOMCNXM-user-16.0-8f71aa670d.zip
@@ -269,7 +269,7 @@
     android: '16.0'
     miui: OS3.0.302.0.WOMCNXM
 - branch: stable
-  date: '2025-02-16'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-16.02.2025/fw_miro_miro-ota_full-OS2.0.105.0.VOMCNXM-user-15.0-2b557b7092.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro-ota_full-OS2.0.105.0.VOMCNXM-user-15.0-2b557b7092.zip
@@ -279,7 +279,7 @@
     android: '15.0'
     miui: OS2.0.105.0.VOMCNXM
 - branch: stable
-  date: '2025-06-13'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-14.06.2025/fw_miro_global_miro_global-ota_full-OS2.0.110.0.VOMMIXM-user-15.0-e124a311fd.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_global_miro_global-ota_full-OS2.0.110.0.VOMMIXM-user-15.0-e124a311fd.zip
@@ -289,7 +289,7 @@
     android: '15.0'
     miui: OS2.0.110.0.VOMMIXM
 - branch: stable
-  date: '2025-07-12'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-12.07.2025/fw_miro_miro-ota_full-OS2.0.203.0.VOMCNXM-user-15.0-eb7753bd65.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro-ota_full-OS2.0.203.0.VOMCNXM-user-15.0-eb7753bd65.zip
@@ -299,7 +299,7 @@
     android: '15.0'
     miui: OS2.0.203.0.VOMCNXM
 - branch: stable
-  date: '2025-06-09'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-09.06.2025/fw_miro_miro-ota_full-OS2.0.201.0.VOMCNXM-user-15.0-6a22ad7d2a.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro-ota_full-OS2.0.201.0.VOMCNXM-user-15.0-6a22ad7d2a.zip
@@ -309,7 +309,7 @@
     android: '15.0'
     miui: OS2.0.201.0.VOMCNXM
 - branch: stable
-  date: '2026-04-09'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-09.04.2026/fw_miro_miro_eea_global-ota_full-OS3.0.7.0.WOMEUXM-user-16.0-80f6e0ae8a.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/miro/fw_miro_miro_eea_global-ota_full-OS3.0.7.0.WOMEUXM-user-16.0-80f6e0ae8a.zip
@@ -319,7 +319,7 @@
     android: '16.0'
     miui: OS3.0.7.0.WOMEUXM
 - branch: stable
-  date: '2026-01-09'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-09.01.2026/fw_miro_miro_eea_global-ota_full-OS3.0.5.0.WOMEUXM-user-16.0-c7473c6bb6.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/miro/fw_miro_miro_eea_global-ota_full-OS3.0.5.0.WOMEUXM-user-16.0-c7473c6bb6.zip
@@ -329,7 +329,7 @@
     android: '16.0'
     miui: OS3.0.5.0.WOMEUXM
 - branch: stable
-  date: '2025-11-06'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-07.11.2025/fw_miro_miro_eea_global-ota_full-OS3.0.3.0.WOMEUXM-user-16.0-50e3e6e0c0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/miro/fw_miro_miro_eea_global-ota_full-OS3.0.3.0.WOMEUXM-user-16.0-50e3e6e0c0.zip
@@ -339,7 +339,7 @@
     android: '16.0'
     miui: OS3.0.3.0.WOMEUXM
 - branch: stable
-  date: '2026-05-07'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-07.05.2026/fw_miro_miro-ota_full-OS3.0.303.0.WOMCNXM-user-16.0-56b2b58966.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/miro/fw_miro_miro-ota_full-OS3.0.303.0.WOMCNXM-user-16.0-56b2b58966.zip
@@ -349,7 +349,7 @@
     android: '16.0'
     miui: OS3.0.303.0.WOMCNXM
 - branch: stable
-  date: '2024-12-06'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-06.12.2024/fw_miro_miro-ota_full-OS2.0.11.0.VOMCNXM-user-15.0-53cc500554.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro-ota_full-OS2.0.11.0.VOMCNXM-user-15.0-53cc500554.zip
@@ -359,7 +359,7 @@
     android: '15.0'
     miui: OS2.0.11.0.VOMCNXM
 - branch: stable
-  date: '2025-08-06'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-06.08.2025/fw_miro_miro-ota_full-OS2.0.204.0.VOMCNXM-user-15.0-0be8535a72.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro-ota_full-OS2.0.204.0.VOMCNXM-user-15.0-0be8535a72.zip
@@ -369,7 +369,7 @@
     android: '15.0'
     miui: OS2.0.204.0.VOMCNXM
 - branch: stable
-  date: '2025-02-05'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-05.02.2025/fw_miro_miro-ota_full-OS2.0.104.0.VOMCNXM-user-15.0-f810008bcf.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro-ota_full-OS2.0.104.0.VOMCNXM-user-15.0-f810008bcf.zip
@@ -379,7 +379,7 @@
     android: '15.0'
     miui: OS2.0.104.0.VOMCNXM
 - branch: stable
-  date: '2025-12-04'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-04.12.2025/fw_miro_miro_global-ota_full-OS2.0.205.0.VOMMIXM-user-15.0-be9724610d.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro_global-ota_full-OS2.0.205.0.VOMMIXM-user-15.0-be9724610d.zip
@@ -389,7 +389,7 @@
     android: '15.0'
     miui: OS2.0.205.0.VOMMIXM
 - branch: stable
-  date: '2025-09-04'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-04.09.2025/fw_miro_miro-ota_full-OS2.0.206.0.VOMCNXM-user-15.0-cc75a573f3.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro-ota_full-OS2.0.206.0.VOMCNXM-user-15.0-cc75a573f3.zip
@@ -399,7 +399,7 @@
     android: '15.0'
     miui: OS2.0.206.0.VOMCNXM
 - branch: stable
-  date: '2025-05-03'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-04.05.2025/fw_miro_miro-ota_full-OS2.0.110.0.VOMCNXM-user-15.0-15010307e8.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro-ota_full-OS2.0.110.0.VOMCNXM-user-15.0-15010307e8.zip
@@ -409,7 +409,7 @@
     android: '15.0'
     miui: OS2.0.110.0.VOMCNXM
 - branch: stable
-  date: '2026-02-04'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-04.02.2026/fw_miro_miro-ota_full-OS3.0.5.0.WOMCNXM-user-16.0-b312829048.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/miro/fw_miro_miro-ota_full-OS3.0.5.0.WOMCNXM-user-16.0-b312829048.zip
@@ -419,7 +419,7 @@
     android: '16.0'
     miui: OS3.0.5.0.WOMCNXM
 - branch: stable
-  date: '2026-01-04'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-04.01.2026/fw_miro_miro_global-ota_full-OS3.0.3.0.WOMMIXM-user-16.0-61797a292e.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/miro/fw_miro_miro_global-ota_full-OS3.0.3.0.WOMMIXM-user-16.0-61797a292e.zip
@@ -429,7 +429,7 @@
     android: '16.0'
     miui: OS3.0.3.0.WOMMIXM
 - branch: stable
-  date: '2026-06-01'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-02.06.2026/fw_miro_miro_eea_global-ota_full-OS3.0.301.0.WOMEUXM-user-16.0-876e05e6c8.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/miro/fw_miro_miro_eea_global-ota_full-OS3.0.301.0.WOMEUXM-user-16.0-876e05e6c8.zip
@@ -439,7 +439,7 @@
     android: '16.0'
     miui: OS3.0.301.0.WOMEUXM
 - branch: stable
-  date: '2026-06-01'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-02.06.2026/fw_miro_miro_global-ota_full-OS3.0.301.0.WOMMIXM-user-16.0-7515c01657.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/miro/fw_miro_miro_global-ota_full-OS3.0.301.0.WOMMIXM-user-16.0-7515c01657.zip
@@ -449,7 +449,7 @@
     android: '16.0'
     miui: OS3.0.301.0.WOMMIXM
 - branch: stable
-  date: '2025-05-02'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-02.05.2025/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.110.0.VOMEUXM-user-15.0-8e1c3d365c.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.110.0.VOMEUXM-user-15.0-8e1c3d365c.zip
@@ -459,7 +459,7 @@
     android: '15.0'
     miui: OS2.0.110.0.VOMEUXM
 - branch: stable
-  date: '2025-01-02'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-02.01.2025/fw_miro_miro-ota_full-OS2.0.102.0.VOMCNXM-user-15.0-35854d9910.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_miro-ota_full-OS2.0.102.0.VOMCNXM-user-15.0-35854d9910.zip
@@ -469,7 +469,7 @@
     android: '15.0'
     miui: OS2.0.102.0.VOMCNXM
 - branch: stable
-  date: '2025-09-30'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_miro/releases/download/stable-01.10.2025/fw_miro_global_miro_global-ota_full-OS2.0.203.0.VOMMIXM-user-15.0-5edc28d5df.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/miro/fw_miro_global_miro_global-ota_full-OS2.0.203.0.VOMMIXM-user-15.0-5edc28d5df.zip

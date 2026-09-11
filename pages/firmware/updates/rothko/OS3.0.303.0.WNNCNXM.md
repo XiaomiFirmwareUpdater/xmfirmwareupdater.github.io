@@ -54,7 +54,7 @@ permalink: /firmware/rothko/stable/OS3.0.303.0.WNNCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>86.7 MB</h5>
+                    <h5><b>Size: </b>86.6 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-08-25</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/rothko/stable/OS3.0.303.0.WNNCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_rothko_rothko-ota_full-OS3.0.303.0.WNNCNXM-user-16.0-65ddf353d7.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c36d2264b711df4b098cd9426995412e</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ce1f8a15887dff260e1259bddce26454</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

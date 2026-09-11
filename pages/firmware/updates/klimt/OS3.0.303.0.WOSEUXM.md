@@ -54,7 +54,7 @@ permalink: /firmware/klimt/stable/OS3.0.303.0.WOSEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>75.4 MB</h5>
+                    <h5><b>Size: </b>75.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-06-05</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/klimt/stable/OS3.0.303.0.WOSEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_klimt_klimt_eea_global-ota_full-OS3.0.303.0.WOSEUXM-user-16.0-2282518151.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">75452695c372848e2724e8d6c3155b2c</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">a90cdc9e029b9892c9686defe7f2f0e4</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

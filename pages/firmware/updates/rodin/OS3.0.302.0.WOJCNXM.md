@@ -54,7 +54,7 @@ permalink: /firmware/rodin/stable/OS3.0.302.0.WOJCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>64.1 MB</h5>
+                    <h5><b>Size: </b>64.0 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-04-17</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/rodin/stable/OS3.0.302.0.WOJCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_rodin_rodin-ota_full-OS3.0.302.0.WOJCNXM-user-16.0-753523063d.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">adc3cdf0edf86f4c71887d2fcba11f6b</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">21e5459cd2a864ffe879dfeee5341fdd</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

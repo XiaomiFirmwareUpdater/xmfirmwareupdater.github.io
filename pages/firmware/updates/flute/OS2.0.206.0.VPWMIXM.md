@@ -54,7 +54,7 @@ permalink: /firmware/flute/stable/OS2.0.206.0.VPWMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>48.8 MB</h5>
+                    <h5><b>Size: </b>48.6 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-12-02</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/flute/stable/OS2.0.206.0.VPWMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_flute_flute_global-ota_full-OS2.0.206.0.VPWMIXM-user-15.0-db2a62f716.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">0be8f96ba2ea7f71cc0509df290992b1</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">146a4bb3f38542855ffa32265dc6b006</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

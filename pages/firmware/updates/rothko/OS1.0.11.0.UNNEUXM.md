@@ -54,7 +54,7 @@ permalink: /firmware/rothko/stable/OS1.0.11.0.UNNEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>81.5 MB</h5>
+                    <h5><b>Size: </b>81.4 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-09-30</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/rothko/stable/OS1.0.11.0.UNNEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_rothko_miui_ROTHKOEEAGlobal_OS1.0.11.0.UNNEUXM_b39f03a0e4_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c013c9ad9c285b91bd3d31384e208db7</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">e7ae4dfbf4d90b1022837aa8b19c761d</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

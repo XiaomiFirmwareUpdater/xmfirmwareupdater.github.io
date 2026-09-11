@@ -54,7 +54,7 @@ permalink: /firmware/piano/stable/OS3.0.305.0.WPYEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>135.4 MB</h5>
+                    <h5><b>Size: </b>130.4 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-08-25</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/piano/stable/OS3.0.305.0.WPYEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_piano_piano_eea_global-ota_full-OS3.0.305.0.WPYEUXM-user-16.0-6aee83d39c.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">f8e2fed98a8724d789c5af19142d57c0</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">9c6bd051257b931d4c0937dfd1fbcfb7</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

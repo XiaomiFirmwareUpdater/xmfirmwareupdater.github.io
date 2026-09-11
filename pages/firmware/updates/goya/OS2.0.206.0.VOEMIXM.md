@@ -54,7 +54,7 @@ permalink: /firmware/goya/stable/OS2.0.206.0.VOEMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>60.4 MB</h5>
+                    <h5><b>Size: </b>60.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-09-24</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/goya/stable/OS2.0.206.0.VOEMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_goya_global_goya_global-ota_full-OS2.0.206.0.VOEMIXM-user-15.0-c13b479556.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">17719894655ebe0ae1aed3ae7e24c801</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ee792f93f538c0efa6a9e2e5f1babd80</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

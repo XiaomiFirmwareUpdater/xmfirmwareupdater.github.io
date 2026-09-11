@@ -54,7 +54,7 @@ permalink: /firmware/rothko/stable/OS2.0.102.0.VNNEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>82.0 MB</h5>
+                    <h5><b>Size: </b>81.9 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-03-16</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/rothko/stable/OS2.0.102.0.VNNEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.102.0.VNNEUXM-user-15.0-ca31d53450.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">5143bd1978d9feb1a4d6cc2f8defd6ab</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f305c7484436820e1ffcc6379d296294</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -54,7 +54,7 @@ permalink: /firmware/ruyi/stable/OS1.0.4.0.UNIMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>184.9 MB</h5>
+                    <h5><b>Size: </b>179.7 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-08-25</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/ruyi/stable/OS1.0.4.0.UNIMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_ruyi_miui_RUYIGlobal_OS1.0.4.0.UNIMIXM_a37537ba0f_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">cb9a901a1c69d308fdfd0ddbb74bb54d</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">4ebb4fe950310543e40e5522f65ca0ff</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -54,7 +54,7 @@ permalink: /firmware/miro/stable/OS3.0.7.0.WOMEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>219.3 MB</h5>
+                    <h5><b>Size: </b>214.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-04-09</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/miro/stable/OS3.0.7.0.WOMEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_miro_miro_eea_global-ota_full-OS3.0.7.0.WOMEUXM-user-16.0-80f6e0ae8a.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">1d442b5c206a785e852c24115b8d07b8</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">bfb9ae11892318f41be2a0268dc3be97</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

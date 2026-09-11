@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haotian/releases/download/stable-24.08.2026/fw_haotian_haotian-ota_full-OS3.0.308.0.WOBCNXM-user-16.0-9aea0c2b20.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/haotian/fw_haotian_haotian-ota_full-OS3.0.308.0.WOBCNXM-user-16.0-9aea0c2b20.zip
-  filename: fw_haotian_haotian-ota_full-OS3.0.308.0.WOBCNXM-user-16.0-9aea0c2b20.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haotian/releases/download/stable-31.12.2024/fw_haotian_haotian-ota_full-OS2.0.28.0.VOBCNXM-user-15.0-862b05f803.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/haotian/fw_haotian_haotian-ota_full-OS2.0.28.0.VOBCNXM-user-15.0-862b05f803.zip
+  filename: fw_haotian_haotian-ota_full-OS2.0.28.0.VOBCNXM-user-15.0-862b05f803.zip
   region: China
   versions:
-    android: '16.0'
-    miui: OS3.0.308.0.WOBCNXM
+    android: '15.0'
+    miui: OS2.0.28.0.VOBCNXM

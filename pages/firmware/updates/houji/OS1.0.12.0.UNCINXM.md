@@ -54,7 +54,7 @@ permalink: /firmware/houji/stable/OS1.0.12.0.UNCINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>178.6 MB</h5>
+                    <h5><b>Size: </b>174.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-10-22</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/houji/stable/OS1.0.12.0.UNCINXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_houji_miui_HOUJIINGlobal_OS1.0.12.0.UNCINXM_0264b26dba_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">fc6b1222b8865c4da8f299916e3e6b3b</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">d299854c9dc0953a8ca28a16b1a02797</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

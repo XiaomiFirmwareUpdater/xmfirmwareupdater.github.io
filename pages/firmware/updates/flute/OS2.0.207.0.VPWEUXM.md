@@ -54,7 +54,7 @@ permalink: /firmware/flute/stable/OS2.0.207.0.VPWEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>48.8 MB</h5>
+                    <h5><b>Size: </b>48.6 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-09-25</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/flute/stable/OS2.0.207.0.VPWEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_flute_eea_global_flute_eea_global-ota_full-OS2.0.207.0.VPWEUXM-user-15.0-8f5f743f75.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">55005e9e8ad9c8930b38b0cc9ef1e3e6</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">7957b228cd1e0df57ffca2f670c842a3</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

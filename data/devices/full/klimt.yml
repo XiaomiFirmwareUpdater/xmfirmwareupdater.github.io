@@ -1,5 +1,5 @@
 - branch: stable
-  date: '2026-04-30'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-30.04.2026/fw_klimt_klimt_global-ota_full-OS3.0.301.0.WOSMIXM-user-16.0-41598d3c2a.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_global-ota_full-OS3.0.301.0.WOSMIXM-user-16.0-41598d3c2a.zip
@@ -9,7 +9,7 @@
     android: '16.0'
     miui: OS3.0.301.0.WOSMIXM
 - branch: stable
-  date: '2025-11-27'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-27.11.2025/fw_klimt_klimt_eea_global-ota_full-OS3.0.5.0.WOSEUXM-user-16.0-edaee74d4f.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_eea_global-ota_full-OS3.0.5.0.WOSEUXM-user-16.0-edaee74d4f.zip
@@ -19,7 +19,7 @@
     android: '16.0'
     miui: OS3.0.5.0.WOSEUXM
 - branch: stable
-  date: '2026-02-27'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-27.02.2026/fw_klimt_klimt_eea_global-ota_full-OS3.0.13.0.WOSEUXM-user-16.0-59bb3a7d9a.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_eea_global-ota_full-OS3.0.13.0.WOSEUXM-user-16.0-59bb3a7d9a.zip
@@ -29,7 +29,7 @@
     android: '16.0'
     miui: OS3.0.13.0.WOSEUXM
 - branch: stable
-  date: '2026-02-27'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-27.02.2026/fw_klimt_klimt_global-ota_full-OS3.0.11.0.WOSMIXM-user-16.0-3685f814b4.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_global-ota_full-OS3.0.11.0.WOSMIXM-user-16.0-3685f814b4.zip
@@ -39,7 +39,7 @@
     android: '16.0'
     miui: OS3.0.11.0.WOSMIXM
 - branch: stable
-  date: '2025-12-26'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-26.12.2025/fw_klimt_klimt_eea_global-ota_full-OS3.0.9.0.WOSEUXM-user-16.0-a0402c50ea.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_eea_global-ota_full-OS3.0.9.0.WOSEUXM-user-16.0-a0402c50ea.zip
@@ -49,7 +49,7 @@
     android: '16.0'
     miui: OS3.0.9.0.WOSEUXM
 - branch: stable
-  date: '2025-12-26'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-26.12.2025/fw_klimt_klimt_global-ota_full-OS3.0.7.0.WOSMIXM-user-16.0-82c1af73e9.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_global-ota_full-OS3.0.7.0.WOSMIXM-user-16.0-82c1af73e9.zip
@@ -59,7 +59,7 @@
     android: '16.0'
     miui: OS3.0.7.0.WOSMIXM
 - branch: stable
-  date: '2026-01-26'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-26.01.2026/fw_klimt_klimt_eea_global-ota_full-OS3.0.12.0.WOSEUXM-user-16.0-bc80b4a6b3.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_eea_global-ota_full-OS3.0.12.0.WOSEUXM-user-16.0-bc80b4a6b3.zip
@@ -69,7 +69,7 @@
     android: '16.0'
     miui: OS3.0.12.0.WOSEUXM
 - branch: stable
-  date: '2026-01-26'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-26.01.2026/fw_klimt_klimt_global-ota_full-OS3.0.10.0.WOSMIXM-user-16.0-dfac67d79c.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_global-ota_full-OS3.0.10.0.WOSMIXM-user-16.0-dfac67d79c.zip
@@ -79,7 +79,7 @@
     android: '16.0'
     miui: OS3.0.10.0.WOSMIXM
 - branch: stable
-  date: '2025-09-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-25.09.2025/fw_klimt_eea_global_klimt_eea_global-ota_full-OS2.0.208.0.VOSEUXM-user-15.0-2fd44903b0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/klimt/fw_klimt_eea_global_klimt_eea_global-ota_full-OS2.0.208.0.VOSEUXM-user-15.0-2fd44903b0.zip
@@ -89,7 +89,7 @@
     android: '15.0'
     miui: OS2.0.208.0.VOSEUXM
 - branch: stable
-  date: '2026-08-25'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-25.08.2026/fw_klimt_klimt_global-ota_full-OS3.0.335.0.XOSMIXM-user-17.0-5e29bbbcc2.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_global-ota_full-OS3.0.335.0.XOSMIXM-user-17.0-5e29bbbcc2.zip
@@ -99,7 +99,7 @@
     android: '17.0'
     miui: OS3.0.335.0.XOSMIXM
 - branch: stable
-  date: '2025-09-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-24.09.2025/fw_klimt_global_klimt_global-ota_full-OS2.0.205.0.VOSMIXM-user-15.0-a97ad20a5e.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/klimt/fw_klimt_global_klimt_global-ota_full-OS2.0.205.0.VOSMIXM-user-15.0-a97ad20a5e.zip
@@ -109,7 +109,7 @@
     android: '15.0'
     miui: OS2.0.205.0.VOSMIXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-24.08.2026/fw_klimt_klimt_eea_global-ota_full-OS3.0.336.0.XOSEUXM-user-17.0-f089aa697d.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_eea_global-ota_full-OS3.0.336.0.XOSEUXM-user-17.0-f089aa697d.zip
@@ -119,7 +119,7 @@
     android: '17.0'
     miui: OS3.0.336.0.XOSEUXM
 - branch: stable
-  date: '2026-06-22'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-22.06.2026/fw_klimt_klimt_global-ota_full-OS3.0.302.0.WOSMIXM-user-16.0-d2500919fc.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_global-ota_full-OS3.0.302.0.WOSMIXM-user-16.0-d2500919fc.zip
@@ -129,7 +129,7 @@
     android: '16.0'
     miui: OS3.0.302.0.WOSMIXM
 - branch: stable
-  date: '2026-06-15'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-15.06.2026/fw_klimt_klimt_eea_global-ota_full-OS3.0.304.0.WOSEUXM-user-16.0-3077ab4a4d.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_eea_global-ota_full-OS3.0.304.0.WOSEUXM-user-16.0-3077ab4a4d.zip
@@ -139,7 +139,7 @@
     android: '16.0'
     miui: OS3.0.304.0.WOSEUXM
 - branch: stable
-  date: '2025-12-14'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-14.12.2025/fw_klimt_klimt_eea_global-ota_full-OS3.0.6.0.WOSEUXM-user-16.0-64a02bc4ce.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_eea_global-ota_full-OS3.0.6.0.WOSEUXM-user-16.0-64a02bc4ce.zip
@@ -149,7 +149,7 @@
     android: '16.0'
     miui: OS3.0.6.0.WOSEUXM
 - branch: stable
-  date: '2025-11-11'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-11.11.2025/fw_klimt_klimt_eea_global-ota_full-OS2.0.209.0.VOSEUXM-user-15.0-b4c74a8ea3.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/klimt/fw_klimt_klimt_eea_global-ota_full-OS2.0.209.0.VOSEUXM-user-15.0-b4c74a8ea3.zip
@@ -159,7 +159,7 @@
     android: '15.0'
     miui: OS2.0.209.0.VOSEUXM
 - branch: stable
-  date: '2025-12-10'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-10.12.2025/fw_klimt_klimt_global-ota_full-OS3.0.5.0.WOSMIXM-user-16.0-627ca56f26.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_global-ota_full-OS3.0.5.0.WOSMIXM-user-16.0-627ca56f26.zip
@@ -169,7 +169,7 @@
     android: '16.0'
     miui: OS3.0.5.0.WOSMIXM
 - branch: stable
-  date: '2026-01-10'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-10.01.2026/fw_klimt_klimt_eea_global-ota_full-OS3.0.10.0.WOSEUXM-user-16.0-902ec27dc2.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_eea_global-ota_full-OS3.0.10.0.WOSEUXM-user-16.0-902ec27dc2.zip
@@ -179,7 +179,7 @@
     android: '16.0'
     miui: OS3.0.10.0.WOSEUXM
 - branch: stable
-  date: '2026-04-07'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-07.04.2026/fw_klimt_klimt_eea_global-ota_full-OS3.0.302.0.WOSEUXM-user-16.0-899111536b.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_eea_global-ota_full-OS3.0.302.0.WOSEUXM-user-16.0-899111536b.zip
@@ -189,7 +189,7 @@
     android: '16.0'
     miui: OS3.0.302.0.WOSEUXM
 - branch: stable
-  date: '2026-01-07'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-07.01.2026/fw_klimt_klimt_global-ota_full-OS3.0.8.0.WOSMIXM-user-16.0-5f8ab86133.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_global-ota_full-OS3.0.8.0.WOSMIXM-user-16.0-5f8ab86133.zip
@@ -199,7 +199,7 @@
     android: '16.0'
     miui: OS3.0.8.0.WOSMIXM
 - branch: stable
-  date: '2025-11-05'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-05.11.2025/fw_klimt_klimt_global-ota_full-OS2.0.206.0.VOSMIXM-user-15.0-a3c26c1395.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/klimt/fw_klimt_klimt_global-ota_full-OS2.0.206.0.VOSMIXM-user-15.0-a3c26c1395.zip
@@ -209,7 +209,7 @@
     android: '15.0'
     miui: OS2.0.206.0.VOSMIXM
 - branch: stable
-  date: '2026-06-05'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-05.06.2026/fw_klimt_klimt_eea_global-ota_full-OS3.0.303.0.WOSEUXM-user-16.0-2282518151.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_eea_global-ota_full-OS3.0.303.0.WOSEUXM-user-16.0-2282518151.zip
@@ -219,7 +219,7 @@
     android: '16.0'
     miui: OS3.0.303.0.WOSEUXM
 - branch: stable
-  date: '2026-09-04'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-04.09.2026/fw_klimt_klimt_eea_global-ota_full-OS3.0.307.0.WOSEUXM-user-16.0-725507757e.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_eea_global-ota_full-OS3.0.307.0.WOSEUXM-user-16.0-725507757e.zip

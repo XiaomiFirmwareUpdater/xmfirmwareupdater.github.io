@@ -54,7 +54,7 @@ permalink: /firmware/klee/stable/OS3.0.5.0.WPJEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>72.7 MB</h5>
+                    <h5><b>Size: </b>72.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-04-24</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/klee/stable/OS3.0.5.0.WPJEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_klee_klee_eea_global-ota_full-OS3.0.5.0.WPJEUXM-user-16.0-40275e54d2.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">a6d8cc5ace7193d2b9bd3e20a1bdb1ca</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">84471b1da1d115c2d00c2eab8c7bc63d</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

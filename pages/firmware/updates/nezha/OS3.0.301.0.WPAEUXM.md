@@ -54,7 +54,7 @@ permalink: /firmware/nezha/stable/OS3.0.301.0.WPAEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>230.5 MB</h5>
+                    <h5><b>Size: </b>219.4 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-04-08</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/nezha/stable/OS3.0.301.0.WPAEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_nezha_nezha_eea_global-ota_full-OS3.0.301.0.WPAEUXM-user-16.0-38ac0016a0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">f74c3fa044eea9d8b9ab43855cb7e5f5</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">9721d0589aee15f787858586daecda30</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -54,7 +54,7 @@ permalink: /firmware/warhol/stable/OS3.0.306.0.WPSCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>93.3 MB</h5>
+                    <h5><b>Size: </b>93.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-06-08</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/warhol/stable/OS3.0.306.0.WPSCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_warhol_warhol-ota_full-OS3.0.306.0.WPSCNXM-user-16.0-fa6de8c867.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">be2545d2424c0f9696c8438812f3b57d</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">d3a87df19acbd7ad42303708aa68beb2</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

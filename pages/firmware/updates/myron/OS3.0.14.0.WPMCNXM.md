@@ -54,7 +54,7 @@ permalink: /firmware/myron/stable/OS3.0.14.0.WPMCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>221.4 MB</h5>
+                    <h5><b>Size: </b>210.4 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-11-11</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/myron/stable/OS3.0.14.0.WPMCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_myron_myron-ota_full-OS3.0.14.0.WPMCNXM-user-16.0-e7b2bab2c8.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">a334a196c35d38fa63a5277513f22901</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">80f4c20cedc637115b4e89cb615abc16</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

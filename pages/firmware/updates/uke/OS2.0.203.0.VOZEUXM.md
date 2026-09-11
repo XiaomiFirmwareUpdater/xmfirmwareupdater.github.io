@@ -54,7 +54,7 @@ permalink: /firmware/uke/stable/OS2.0.203.0.VOZEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>100.2 MB</h5>
+                    <h5><b>Size: </b>100.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-10-05</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/uke/stable/OS2.0.203.0.VOZEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_uke_uke_eea_global-ota_full-OS2.0.203.0.VOZEUXM-user-15.0-041f5592b1.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">83baff3ad1bb170943dde507764e9e15</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">b23e9755331501056b6bd3e139a3b835</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -54,7 +54,7 @@ permalink: /firmware/miro/stable/OS3.0.6.0.WOMCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>219.2 MB</h5>
+                    <h5><b>Size: </b>214.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-02-24</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/miro/stable/OS3.0.6.0.WOMCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_miro_miro-ota_full-OS3.0.6.0.WOMCNXM-user-16.0-e5f722efc7.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">4215122e84484cf4bfa265fbab2dae78</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">b8433c7ad0ce5ff55aa078013acb5ed9</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

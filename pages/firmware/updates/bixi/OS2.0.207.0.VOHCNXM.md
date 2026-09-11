@@ -54,7 +54,7 @@ permalink: /firmware/bixi/stable/OS2.0.207.0.VOHCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>200.6 MB</h5>
+                    <h5><b>Size: </b>195.6 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-07-21</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/bixi/stable/OS2.0.207.0.VOHCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_bixi_bixi-ota_full-OS2.0.207.0.VOHCNXM-user-15.0-dd88ff181c.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c2bdff211aa5849e16110e598657b483</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">9d899c9472a41004fe7f62fef62a53bb</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -54,7 +54,7 @@ permalink: /firmware/aurora/stable/OS2.0.8.0.VNACNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>194.9 MB</h5>
+                    <h5><b>Size: </b>189.9 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-12-05</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/aurora/stable/OS2.0.8.0.VNACNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_aurora_aurora-ota_full-OS2.0.8.0.VNACNXM-user-15.0-4316be9082.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">349243fbdaf049cdedf8d9f840ba10fa</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">4d0625555e141ff587fc437f83117ede</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

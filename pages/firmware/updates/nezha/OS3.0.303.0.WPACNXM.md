@@ -54,7 +54,7 @@ permalink: /firmware/nezha/stable/OS3.0.303.0.WPACNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>230.2 MB</h5>
+                    <h5><b>Size: </b>219.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-03-14</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/nezha/stable/OS3.0.303.0.WPACNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_nezha_nezha-ota_full-OS3.0.303.0.WPACNXM-user-16.0-b34000bba1.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">82ff91c7aa2b6146f18227be44a58054</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">d3592669002cf2fd2c49b44117a8f3b2</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -1,5 +1,5 @@
 - branch: stable
-  date: '2025-10-31'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-31.10.2025/fw_goya_goya_eea_global-ota_full-OS2.0.209.0.VOEEUXM-user-15.0-83555c9bb0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/goya/fw_goya_goya_eea_global-ota_full-OS2.0.209.0.VOEEUXM-user-15.0-83555c9bb0.zip
@@ -9,7 +9,7 @@
     android: '15.0'
     miui: OS2.0.209.0.VOEEUXM
 - branch: stable
-  date: '2026-04-27'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-27.04.2026/fw_goya_goya_global-ota_full-OS3.0.300.0.WOEMIXM-user-16.0-ed32b49d09.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_global-ota_full-OS3.0.300.0.WOEMIXM-user-16.0-ed32b49d09.zip
@@ -19,7 +19,7 @@
     android: '16.0'
     miui: OS3.0.300.0.WOEMIXM
 - branch: stable
-  date: '2025-12-26'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-26.12.2025/fw_goya_goya_eea_global-ota_full-OS3.0.7.0.WOEEUXM-user-16.0-5e0f675883.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_eea_global-ota_full-OS3.0.7.0.WOEEUXM-user-16.0-5e0f675883.zip
@@ -29,7 +29,7 @@
     android: '16.0'
     miui: OS3.0.7.0.WOEEUXM
 - branch: stable
-  date: '2025-12-26'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-26.12.2025/fw_goya_goya_global-ota_full-OS3.0.6.0.WOEMIXM-user-16.0-79f7c3ea74.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_global-ota_full-OS3.0.6.0.WOEMIXM-user-16.0-79f7c3ea74.zip
@@ -39,7 +39,7 @@
     android: '16.0'
     miui: OS3.0.6.0.WOEMIXM
 - branch: stable
-  date: '2026-02-26'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-26.02.2026/fw_goya_goya_eea_global-ota_full-OS3.0.10.0.WOEEUXM-user-16.0-9e2dec0d00.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_eea_global-ota_full-OS3.0.10.0.WOEEUXM-user-16.0-9e2dec0d00.zip
@@ -49,7 +49,7 @@
     android: '16.0'
     miui: OS3.0.10.0.WOEEUXM
 - branch: stable
-  date: '2026-02-26'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-26.02.2026/fw_goya_goya_global-ota_full-OS3.0.9.0.WOEMIXM-user-16.0-caf915cf5b.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_global-ota_full-OS3.0.9.0.WOEMIXM-user-16.0-caf915cf5b.zip
@@ -59,7 +59,7 @@
     android: '16.0'
     miui: OS3.0.9.0.WOEMIXM
 - branch: stable
-  date: '2025-09-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-25.09.2025/fw_goya_eea_global_goya_eea_global-ota_full-OS2.0.208.0.VOEEUXM-user-15.0-10bea4ea06.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/goya/fw_goya_eea_global_goya_eea_global-ota_full-OS2.0.208.0.VOEEUXM-user-15.0-10bea4ea06.zip
@@ -69,7 +69,7 @@
     android: '15.0'
     miui: OS2.0.208.0.VOEEUXM
 - branch: stable
-  date: '2025-09-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-24.09.2025/fw_goya_global_goya_global-ota_full-OS2.0.206.0.VOEMIXM-user-15.0-c13b479556.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/goya/fw_goya_global_goya_global-ota_full-OS2.0.206.0.VOEMIXM-user-15.0-c13b479556.zip
@@ -79,7 +79,7 @@
     android: '15.0'
     miui: OS2.0.206.0.VOEMIXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-24.08.2026/fw_goya_goya_eea_global-ota_full-OS3.0.307.0.WOEEUXM-user-16.0-8c4243de48.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_eea_global-ota_full-OS3.0.307.0.WOEEUXM-user-16.0-8c4243de48.zip
@@ -89,7 +89,7 @@
     android: '16.0'
     miui: OS3.0.307.0.WOEEUXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-24.08.2026/fw_goya_goya_global-ota_full-OS3.0.301.0.WOEMIXM-user-16.0-7dd6fb6e78.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_global-ota_full-OS3.0.301.0.WOEMIXM-user-16.0-7dd6fb6e78.zip
@@ -99,7 +99,7 @@
     android: '16.0'
     miui: OS3.0.301.0.WOEMIXM
 - branch: stable
-  date: '2026-06-23'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-23.06.2026/fw_goya_goya_eea_global-ota_full-OS3.0.305.0.WOEEUXM-user-16.0-f6d1a93cfc.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_eea_global-ota_full-OS3.0.305.0.WOEEUXM-user-16.0-f6d1a93cfc.zip
@@ -109,7 +109,7 @@
     android: '16.0'
     miui: OS3.0.305.0.WOEEUXM
 - branch: stable
-  date: '2026-01-23'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-23.01.2026/fw_goya_goya_eea_global-ota_full-OS3.0.9.0.WOEEUXM-user-16.0-844c2734db.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_eea_global-ota_full-OS3.0.9.0.WOEEUXM-user-16.0-844c2734db.zip
@@ -119,7 +119,7 @@
     android: '16.0'
     miui: OS3.0.9.0.WOEEUXM
 - branch: stable
-  date: '2026-01-23'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-23.01.2026/fw_goya_goya_global-ota_full-OS3.0.8.0.WOEMIXM-user-16.0-345b449a05.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_global-ota_full-OS3.0.8.0.WOEMIXM-user-16.0-345b449a05.zip
@@ -129,7 +129,7 @@
     android: '16.0'
     miui: OS3.0.8.0.WOEMIXM
 - branch: stable
-  date: '2025-11-14'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-14.11.2025/fw_goya_goya_eea_global-ota_full-OS3.0.4.0.WOEEUXM-user-16.0-d1377fec0c.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_eea_global-ota_full-OS3.0.4.0.WOEEUXM-user-16.0-d1377fec0c.zip
@@ -139,7 +139,7 @@
     android: '16.0'
     miui: OS3.0.4.0.WOEEUXM
 - branch: stable
-  date: '2025-12-11'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-11.12.2025/fw_goya_goya_global-ota_full-OS3.0.5.0.WOEMIXM-user-16.0-8404e615cc.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_global-ota_full-OS3.0.5.0.WOEMIXM-user-16.0-8404e615cc.zip
@@ -149,7 +149,7 @@
     android: '16.0'
     miui: OS3.0.5.0.WOEMIXM
 - branch: stable
-  date: '2026-06-11'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-11.06.2026/fw_goya_goya_eea_global-ota_full-OS3.0.304.0.WOEEUXM-user-16.0-6c66749cde.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_eea_global-ota_full-OS3.0.304.0.WOEEUXM-user-16.0-6c66749cde.zip
@@ -159,7 +159,7 @@
     android: '16.0'
     miui: OS3.0.304.0.WOEEUXM
 - branch: stable
-  date: '2026-04-10'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-10.04.2026/fw_goya_goya_eea_global-ota_full-OS3.0.302.0.WOEEUXM-user-16.0-1f223d086d.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_eea_global-ota_full-OS3.0.302.0.WOEEUXM-user-16.0-1f223d086d.zip
@@ -169,7 +169,7 @@
     android: '16.0'
     miui: OS3.0.302.0.WOEEUXM
 - branch: stable
-  date: '2026-01-10'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-10.01.2026/fw_goya_goya_eea_global-ota_full-OS3.0.8.0.WOEEUXM-user-16.0-07e793288b.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_eea_global-ota_full-OS3.0.8.0.WOEEUXM-user-16.0-07e793288b.zip
@@ -179,7 +179,7 @@
     android: '16.0'
     miui: OS3.0.8.0.WOEEUXM
 - branch: stable
-  date: '2025-11-06'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-07.11.2025/fw_goya_goya_eea_global-ota_full-OS3.0.3.0.WOEEUXM-user-16.0-efa5a81817.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_eea_global-ota_full-OS3.0.3.0.WOEEUXM-user-16.0-efa5a81817.zip
@@ -189,7 +189,7 @@
     android: '16.0'
     miui: OS3.0.3.0.WOEEUXM
 - branch: stable
-  date: '2026-01-06'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-06.01.2026/fw_goya_goya_global-ota_full-OS3.0.7.0.WOEMIXM-user-16.0-0bb9f4286e.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_global-ota_full-OS3.0.7.0.WOEMIXM-user-16.0-0bb9f4286e.zip
@@ -199,7 +199,7 @@
     android: '16.0'
     miui: OS3.0.7.0.WOEMIXM
 - branch: stable
-  date: '2025-11-02'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-02.11.2025/fw_goya_goya_global-ota_full-OS2.0.207.0.VOEMIXM-user-15.0-28ac5e040b.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/goya/fw_goya_goya_global-ota_full-OS2.0.207.0.VOEMIXM-user-15.0-28ac5e040b.zip

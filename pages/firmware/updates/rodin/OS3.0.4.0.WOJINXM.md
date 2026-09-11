@@ -54,7 +54,7 @@ permalink: /firmware/rodin/stable/OS3.0.4.0.WOJINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>64.4 MB</h5>
+                    <h5><b>Size: </b>64.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-02-05</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/rodin/stable/OS3.0.4.0.WOJINXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_rodin_rodin_in_global-ota_full-OS3.0.4.0.WOJINXM-user-16.0-d6a8817041.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">9de715b4c075b64761536c84d646ed87</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">09ae7b745ae7faf18faf94d101db648b</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -54,7 +54,7 @@ permalink: /firmware/amethyst/stable/OS1.0.13.0.UOPCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>117.2 MB</h5>
+                    <h5><b>Size: </b>117.0 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-09-27</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/amethyst/stable/OS1.0.13.0.UOPCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_amethyst_miui_AMETHYST_OS1.0.13.0.UOPCNXM_d7a19fc3d0_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">345f7ab8d7b3aebad6f4749ebb6575e6</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6a577c9e3183cdf8f71fe95cfae768c6</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

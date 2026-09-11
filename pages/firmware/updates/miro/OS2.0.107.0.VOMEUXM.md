@@ -54,7 +54,7 @@ permalink: /firmware/miro/stable/OS2.0.107.0.VOMEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>187.0 MB</h5>
+                    <h5><b>Size: </b>182.0 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-03-27</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/miro/stable/OS2.0.107.0.VOMEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_miro_eea_global_miro_eea_global-ota_full-OS2.0.107.0.VOMEUXM-user-15.0-278992e0ce.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">953aa06ef7364b68f94b12d205723e0a</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">fab7af0b3e389c2a1f0c9bc8aa002fa9</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

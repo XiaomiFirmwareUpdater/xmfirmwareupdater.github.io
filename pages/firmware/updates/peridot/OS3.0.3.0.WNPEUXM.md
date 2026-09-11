@@ -54,7 +54,7 @@ permalink: /firmware/peridot/stable/OS3.0.3.0.WNPEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>188.3 MB</h5>
+                    <h5><b>Size: </b>188.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-01-12</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/peridot/stable/OS3.0.3.0.WNPEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_peridot_peridot_eea_global-ota_full-OS3.0.3.0.WNPEUXM-user-16.0-ecd868e14b.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">af0b909d4d15efbb18351e5ba7c9b310</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6147201e075825379b0e9d3776a29a90</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

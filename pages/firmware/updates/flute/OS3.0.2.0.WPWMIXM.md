@@ -54,7 +54,7 @@ permalink: /firmware/flute/stable/OS3.0.2.0.WPWMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>48.8 MB</h5>
+                    <h5><b>Size: </b>48.7 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-03-04</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/flute/stable/OS3.0.2.0.WPWMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_flute_flute_global-ota_full-OS3.0.2.0.WPWMIXM-user-16.0-73a33b0a92.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">818c6cc0ca554484066e7345badc0163</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">989d81f3b665404ba9b261d6d0176f1c</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

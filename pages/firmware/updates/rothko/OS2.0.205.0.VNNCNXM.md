@@ -54,7 +54,7 @@ permalink: /firmware/rothko/stable/OS2.0.205.0.VNNCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>86.5 MB</h5>
+                    <h5><b>Size: </b>86.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-07-17</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/rothko/stable/OS2.0.205.0.VNNCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_rothko_rothko-ota_full-OS2.0.205.0.VNNCNXM-user-15.0-26b8ca878d.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">3f95f1fcec5cfc7b99b8ccac647d72a0</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">273d54b6cb5043dea6609c6b158b2788</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

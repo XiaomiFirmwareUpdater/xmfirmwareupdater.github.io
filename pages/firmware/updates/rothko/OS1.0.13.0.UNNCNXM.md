@@ -54,7 +54,7 @@ permalink: /firmware/rothko/stable/OS1.0.13.0.UNNCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>83.7 MB</h5>
+                    <h5><b>Size: </b>83.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-07-20</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/rothko/stable/OS1.0.13.0.UNNCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_rothko_miui_ROTHKO_OS1.0.13.0.UNNCNXM_5172cdd0cc_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">5375da4bed8430f20fb0eccc0744dc07</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">8d91ba173efe0a0b02ea27167fa1f0f3</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

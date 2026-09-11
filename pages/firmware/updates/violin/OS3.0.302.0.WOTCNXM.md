@@ -54,7 +54,7 @@ permalink: /firmware/violin/stable/OS3.0.302.0.WOTCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>30.4 MB</h5>
+                    <h5><b>Size: </b>30.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-03-31</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/violin/stable/OS3.0.302.0.WOTCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_violin_violin-ota_full-OS3.0.302.0.WOTCNXM-user-16.0-979a341f65.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">0d86b5c0fef20748eb674de8621b5d26</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f38cc342f00220cd955b82cc039e3236</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

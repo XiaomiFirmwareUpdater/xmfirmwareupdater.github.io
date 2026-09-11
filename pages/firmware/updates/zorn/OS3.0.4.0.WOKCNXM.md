@@ -54,7 +54,7 @@ permalink: /firmware/zorn/stable/OS3.0.4.0.WOKCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>191.6 MB</h5>
+                    <h5><b>Size: </b>187.0 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-11-29</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/zorn/stable/OS3.0.4.0.WOKCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_zorn_zorn-ota_full-OS3.0.4.0.WOKCNXM-user-16.0-072795b4bb.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">0f8673f1e6ce680391c97efe537e8bdb</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">4607770796023927cc50e29b94dfb3ac</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

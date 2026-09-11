@@ -54,7 +54,7 @@ permalink: /firmware/miro/stable/OS2.0.107.0.VOMMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>187.0 MB</h5>
+                    <h5><b>Size: </b>182.0 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-04-21</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/miro/stable/OS2.0.107.0.VOMMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_miro_global_miro_global-ota_full-OS2.0.107.0.VOMMIXM-user-15.0-c077305aef.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">77d7978bdc8a6b6b0668bb44744421e4</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">9af50742bf7e0c09ecbbfdda0d52af39</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

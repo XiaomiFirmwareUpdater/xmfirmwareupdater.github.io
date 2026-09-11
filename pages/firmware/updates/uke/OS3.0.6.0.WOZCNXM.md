@@ -54,7 +54,7 @@ permalink: /firmware/uke/stable/OS3.0.6.0.WOZCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>116.4 MB</h5>
+                    <h5><b>Size: </b>116.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-11-11</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/uke/stable/OS3.0.6.0.WOZCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_uke_uke-ota_full-OS3.0.6.0.WOZCNXM-user-16.0-62cdc03371.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">b40cd77330f7f8e4a2db78584952ef6c</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">b1e3764f3b643c63b8d9a803c785f796</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -1,5 +1,5 @@
 - branch: stable
-  date: '2025-12-30'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-31.12.2025/fw_turner_turner_global-ota_full-OS3.0.5.0.WAOMIXM-user-16.0-7f26c409f0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/turner/fw_turner_turner_global-ota_full-OS3.0.5.0.WAOMIXM-user-16.0-7f26c409f0.zip
@@ -9,7 +9,7 @@
     android: '16.0'
     miui: OS3.0.5.0.WAOMIXM
 - branch: stable
-  date: '2025-06-30'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-30.06.2025/fw_turner_turner-ota_full-OS2.0.211.0.VAOCNXM-user-15.0-6e2c8b7f5f.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/turner/fw_turner_turner-ota_full-OS2.0.211.0.VAOCNXM-user-15.0-6e2c8b7f5f.zip
@@ -19,7 +19,7 @@
     android: '15.0'
     miui: OS2.0.211.0.VAOCNXM
 - branch: stable
-  date: '2025-11-29'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-29.11.2025/fw_turner_turner-ota_full-OS3.0.4.0.WAOCNXM-user-16.0-25ab0170bb.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/turner/fw_turner_turner-ota_full-OS3.0.4.0.WAOCNXM-user-16.0-25ab0170bb.zip
@@ -29,7 +29,7 @@
     android: '16.0'
     miui: OS3.0.4.0.WAOCNXM
 - branch: stable
-  date: '2025-10-28'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-28.10.2025/fw_turner_turner_global-ota_full-OS2.0.206.0.VAOMIXM-user-15.0-fad3d8a7d3.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/turner/fw_turner_turner_global-ota_full-OS2.0.206.0.VAOMIXM-user-15.0-fad3d8a7d3.zip
@@ -39,7 +39,7 @@
     android: '15.0'
     miui: OS2.0.206.0.VAOMIXM
 - branch: stable
-  date: '2025-06-27'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-27.06.2025/fw_turner_turner-ota_full-OS2.0.208.0.VAOCNXM-user-15.0-74daccb165.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/turner/fw_turner_turner-ota_full-OS2.0.208.0.VAOCNXM-user-15.0-74daccb165.zip
@@ -49,7 +49,7 @@
     android: '15.0'
     miui: OS2.0.208.0.VAOCNXM
 - branch: stable
-  date: '2026-08-25'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-25.08.2026/fw_turner_turner-ota_full-OS3.0.308.0.WAOCNXM-user-16.0-23e1afcc33.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/turner/fw_turner_turner-ota_full-OS3.0.308.0.WAOCNXM-user-16.0-23e1afcc33.zip
@@ -59,7 +59,7 @@
     android: '16.0'
     miui: OS3.0.308.0.WAOCNXM
 - branch: stable
-  date: '2026-08-25'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-25.08.2026/fw_turner_turner_global-ota_full-OS3.0.304.0.WAOMIXM-user-16.0-ea97a7980b.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/turner/fw_turner_turner_global-ota_full-OS3.0.304.0.WAOMIXM-user-16.0-ea97a7980b.zip
@@ -69,7 +69,7 @@
     android: '16.0'
     miui: OS3.0.304.0.WAOMIXM
 - branch: stable
-  date: '2025-09-18'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-18.09.2025/fw_turner_turner-ota_full-OS2.0.217.0.VAOCNXM-user-15.0-60cdb96e9d.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/turner/fw_turner_turner-ota_full-OS2.0.217.0.VAOCNXM-user-15.0-60cdb96e9d.zip
@@ -79,7 +79,7 @@
     android: '15.0'
     miui: OS2.0.217.0.VAOCNXM
 - branch: stable
-  date: '2025-10-17'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-17.10.2025/fw_turner_turner-ota_full-OS2.0.218.0.VAOCNXM-user-15.0-8f9cf6895c.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/turner/fw_turner_turner-ota_full-OS2.0.218.0.VAOCNXM-user-15.0-8f9cf6895c.zip
@@ -89,7 +89,7 @@
     android: '15.0'
     miui: OS2.0.218.0.VAOCNXM
 - branch: stable
-  date: '2026-04-17'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-17.04.2026/fw_turner_turner-ota_full-OS3.0.304.0.WAOCNXM-user-16.0-e50894b9f9.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/turner/fw_turner_turner-ota_full-OS3.0.304.0.WAOCNXM-user-16.0-e50894b9f9.zip
@@ -99,7 +99,7 @@
     android: '16.0'
     miui: OS3.0.304.0.WAOCNXM
 - branch: stable
-  date: '2025-07-16'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-16.07.2025/fw_turner_turner-ota_full-OS2.0.213.0.VAOCNXM-user-15.0-d196ec6256.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/turner/fw_turner_turner-ota_full-OS2.0.213.0.VAOCNXM-user-15.0-d196ec6256.zip
@@ -109,7 +109,7 @@
     android: '15.0'
     miui: OS2.0.213.0.VAOCNXM
 - branch: stable
-  date: '2026-01-16'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-16.01.2026/fw_turner_turner-ota_full-OS3.0.5.0.WAOCNXM-user-16.0-79d7f93c1e.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/turner/fw_turner_turner-ota_full-OS3.0.5.0.WAOCNXM-user-16.0-79d7f93c1e.zip
@@ -119,7 +119,7 @@
     android: '16.0'
     miui: OS3.0.5.0.WAOCNXM
 - branch: stable
-  date: '2026-06-15'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-15.06.2026/fw_turner_turner-ota_full-OS3.0.306.0.WAOCNXM-user-16.0-d51a69f089.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/turner/fw_turner_turner-ota_full-OS3.0.306.0.WAOCNXM-user-16.0-d51a69f089.zip
@@ -129,7 +129,7 @@
     android: '16.0'
     miui: OS3.0.306.0.WAOCNXM
 - branch: stable
-  date: '2025-12-11'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-12.12.2025/fw_turner_turner_global-ota_full-OS3.0.2.0.WAOMIXM-user-16.0-17cb59a66b.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/turner/fw_turner_turner_global-ota_full-OS3.0.2.0.WAOMIXM-user-16.0-17cb59a66b.zip
@@ -149,7 +149,7 @@
     android: '16.0'
     miui: OS3.0.2.0.WAOMIXM
 - branch: stable
-  date: '2025-11-09'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-10.11.2025/fw_turner_turner-ota_full-OS3.0.3.0.WAOCNXM-user-16.0-56b1dd4d9c.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/turner/fw_turner_turner-ota_full-OS3.0.3.0.WAOCNXM-user-16.0-56b1dd4d9c.zip
@@ -159,7 +159,7 @@
     android: '16.0'
     miui: OS3.0.3.0.WAOCNXM
 - branch: stable
-  date: '2025-08-09'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-10.08.2025/fw_turner_turner-ota_full-OS2.0.216.0.VAOCNXM-user-15.0-ca8fa3442d.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/turner/fw_turner_turner-ota_full-OS2.0.216.0.VAOCNXM-user-15.0-ca8fa3442d.zip
@@ -169,7 +169,7 @@
     android: '15.0'
     miui: OS2.0.216.0.VAOCNXM
 - branch: stable
-  date: '2026-05-06'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-07.05.2026/fw_turner_turner-ota_full-OS3.0.305.0.WAOCNXM-user-16.0-34ce2cd6bc.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/turner/fw_turner_turner-ota_full-OS3.0.305.0.WAOCNXM-user-16.0-34ce2cd6bc.zip
@@ -179,7 +179,7 @@
     android: '16.0'
     miui: OS3.0.305.0.WAOCNXM
 - branch: stable
-  date: '2026-05-06'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-07.05.2026/fw_turner_turner_global-ota_full-OS3.0.302.0.WAOMIXM-user-16.0-2e67cb3d0f.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/turner/fw_turner_turner_global-ota_full-OS3.0.302.0.WAOMIXM-user-16.0-2e67cb3d0f.zip
@@ -189,7 +189,7 @@
     android: '16.0'
     miui: OS3.0.302.0.WAOMIXM
 - branch: stable
-  date: '2025-10-04'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-05.10.2025/fw_turner_turner_global-ota_full-OS2.0.205.0.VAOMIXM-user-15.0-2688131090.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/turner/fw_turner_turner_global-ota_full-OS2.0.205.0.VAOMIXM-user-15.0-2688131090.zip
@@ -199,7 +199,7 @@
     android: '15.0'
     miui: OS2.0.205.0.VAOMIXM
 - branch: stable
-  date: '2026-03-05'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-05.03.2026/fw_turner_turner-ota_full-OS3.0.7.0.WAOCNXM-user-16.0-5d4a648561.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/turner/fw_turner_turner-ota_full-OS3.0.7.0.WAOCNXM-user-16.0-5d4a648561.zip

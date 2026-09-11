@@ -54,7 +54,7 @@ permalink: /firmware/turner/stable/OS3.0.5.0.WAOMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>26.7 MB</h5>
+                    <h5><b>Size: </b>26.6 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-12-31</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/turner/stable/OS3.0.5.0.WAOMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_turner_turner_global-ota_full-OS3.0.5.0.WAOMIXM-user-16.0-7f26c409f0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">3d266a9ba24ff1a2a119e765e6b7c786</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">c1b7f3e4449352b3d277da2c06bd8cee</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -54,7 +54,7 @@ permalink: /firmware/ruyi/stable/OS1.0.11.0.UNICNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>184.6 MB</h5>
+                    <h5><b>Size: </b>179.4 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-08-20</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/ruyi/stable/OS1.0.11.0.UNICNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_ruyi_miui_RUYI_OS1.0.11.0.UNICNXM_3daab9578e_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">1aa851be1d88e8e23235574cf2a1de03</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">62c8fb503179193ace1bb743891cd5f5</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

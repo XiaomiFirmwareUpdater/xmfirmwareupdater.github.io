@@ -54,7 +54,7 @@ permalink: /firmware/dash/stable/OS3.0.3.0.WPLEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>83.5 MB</h5>
+                    <h5><b>Size: </b>83.4 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-04-25</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/dash/stable/OS3.0.3.0.WPLEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_dash_dash_eea_global-ota_full-OS3.0.3.0.WPLEUXM-user-16.0-fda72667e9.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">d8b4feab88986c24b7b8f24c3031cca5</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">03dd454711dc68b2946a394f6e55d29a</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

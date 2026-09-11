@@ -54,7 +54,7 @@ permalink: /firmware/shennong/stable/OS3.0.306.0.WNBCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>179.2 MB</h5>
+                    <h5><b>Size: </b>174.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-05-15</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/shennong/stable/OS3.0.306.0.WNBCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_shennong_shennong-ota_full-OS3.0.306.0.WNBCNXM-user-16.0-657b696b16.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">6ed923c176c04c80e8dd9745919c7dec</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">b9c16c6821fabfa7efdf1adf21caae1c</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -54,7 +54,7 @@ permalink: /firmware/onyx/stable/OS3.0.303.0.WOLINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>191.8 MB</h5>
+                    <h5><b>Size: </b>186.8 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-08-29</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/onyx/stable/OS3.0.303.0.WOLINXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_onyx_onyx_in_global-ota_full-OS3.0.303.0.WOLINXM-user-16.0-77f86ace13.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">24584072f6c7de3951a1ca3fc1d17f83</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">014db30d7183eceb9516ebfcd89e2cbe</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

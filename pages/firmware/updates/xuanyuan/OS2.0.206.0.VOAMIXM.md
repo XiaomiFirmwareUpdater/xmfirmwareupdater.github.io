@@ -54,7 +54,7 @@ permalink: /firmware/xuanyuan/stable/OS2.0.206.0.VOAMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>193.1 MB</h5>
+                    <h5><b>Size: </b>188.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-11-13</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/xuanyuan/stable/OS2.0.206.0.VOAMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_xuanyuan_xuanyuan_global-ota_full-OS2.0.206.0.VOAMIXM-user-15.0-93eb8bea23.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">9859647d02e1c03db1fbcf64d1fca61b</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">5008663aaa5988ff07164a352eaffbab</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

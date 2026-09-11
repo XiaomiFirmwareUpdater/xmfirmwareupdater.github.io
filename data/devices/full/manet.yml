@@ -1,5 +1,5 @@
 - branch: stable
-  date: '2025-08-31'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-31.08.2025/fw_manet_manet-ota_full-OS2.0.206.0.VNMCNXM-user-15.0-058cb55afc.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/manet/fw_manet_manet-ota_full-OS2.0.206.0.VNMCNXM-user-15.0-058cb55afc.zip
@@ -9,7 +9,7 @@
     android: '15.0'
     miui: OS2.0.206.0.VNMCNXM
 - branch: stable
-  date: '2025-03-31'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-31.03.2025/fw_manet_manet-ota_full-OS2.0.109.0.VNMCNXM-user-15.0-60ebe128fc.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/manet/fw_manet_manet-ota_full-OS2.0.109.0.VNMCNXM-user-15.0-60ebe128fc.zip
@@ -19,7 +19,7 @@
     android: '15.0'
     miui: OS2.0.109.0.VNMCNXM
 - branch: stable
-  date: '2025-12-30'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-30.12.2025/fw_manet_manet-ota_full-OS3.0.7.0.WNMCNXM-user-16.0-c0b78b5946.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/manet/fw_manet_manet-ota_full-OS3.0.7.0.WNMCNXM-user-16.0-c0b78b5946.zip
@@ -29,7 +29,7 @@
     android: '16.0'
     miui: OS3.0.7.0.WNMCNXM
 - branch: stable
-  date: '2023-11-30'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-30.11.2023/fw_manet_miui_MANET_OS1.0.4.0.UNMCNXM_013c13dda0_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/manet/fw_manet_miui_MANET_OS1.0.4.0.UNMCNXM_013c13dda0_14.0.zip
@@ -39,7 +39,7 @@
     android: '14.0'
     miui: OS1.0.4.0.UNMCNXM
 - branch: stable
-  date: '2024-09-30'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-30.09.2024/fw_manet_miui_MANET_OS1.0.21.0.UNMCNXM_6e249564a8_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/manet/fw_manet_miui_MANET_OS1.0.21.0.UNMCNXM_6e249564a8_14.0.zip
@@ -49,7 +49,7 @@
     android: '14.0'
     miui: OS1.0.21.0.UNMCNXM
 - branch: stable
-  date: '2025-11-27'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-28.11.2025/fw_manet_manet-ota_full-OS3.0.4.0.WNMCNXM-user-16.0-4e18999115.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/manet/fw_manet_manet-ota_full-OS3.0.4.0.WNMCNXM-user-16.0-4e18999115.zip
@@ -59,7 +59,7 @@
     android: '16.0'
     miui: OS3.0.4.0.WNMCNXM
 - branch: stable
-  date: '2025-04-27'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-27.04.2025/fw_manet_manet-ota_full-OS2.0.110.0.VNMCNXM-user-15.0-3f988ec299.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/manet/fw_manet_manet-ota_full-OS2.0.110.0.VNMCNXM-user-15.0-3f988ec299.zip
@@ -69,7 +69,7 @@
     android: '15.0'
     miui: OS2.0.110.0.VNMCNXM
 - branch: stable
-  date: '2026-08-25'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-25.08.2026/fw_manet_manet-ota_full-OS3.0.305.0.WNMCNXM-user-16.0-5e2c4d9712.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/manet/fw_manet_manet-ota_full-OS3.0.305.0.WNMCNXM-user-16.0-5e2c4d9712.zip
@@ -79,7 +79,7 @@
     android: '16.0'
     miui: OS3.0.305.0.WNMCNXM
 - branch: stable
-  date: '2026-04-23'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-23.04.2026/fw_manet_manet-ota_full-OS3.0.302.0.WNMCNXM-user-16.0-0e6bd97f8c.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/manet/fw_manet_manet-ota_full-OS3.0.302.0.WNMCNXM-user-16.0-0e6bd97f8c.zip
@@ -89,7 +89,7 @@
     android: '16.0'
     miui: OS3.0.302.0.WNMCNXM
 - branch: stable
-  date: '2024-01-22'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-23.01.2024/fw_manet_miui_MANET_OS1.0.12.0.UNMCNXM_da52f2413a_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/manet/fw_manet_miui_MANET_OS1.0.12.0.UNMCNXM_da52f2413a_14.0.zip
@@ -99,7 +99,7 @@
     android: '14.0'
     miui: OS1.0.12.0.UNMCNXM
 - branch: stable
-  date: '2025-01-22'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-22.01.2025/fw_manet_manet-ota_full-OS2.0.101.0.VNMCNXM-user-15.0-bedfaaa689.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/manet/fw_manet_manet-ota_full-OS2.0.101.0.VNMCNXM-user-15.0-bedfaaa689.zip
@@ -109,7 +109,7 @@
     android: '15.0'
     miui: OS2.0.101.0.VNMCNXM
 - branch: stable
-  date: '2024-08-21'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-21.08.2024/fw_manet_miui_MANET_OS1.0.20.0.UNMCNXM_d187022026_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/manet/fw_manet_miui_MANET_OS1.0.20.0.UNMCNXM_d187022026_14.0.zip
@@ -119,7 +119,7 @@
     android: '14.0'
     miui: OS1.0.20.0.UNMCNXM
 - branch: stable
-  date: '2024-03-18'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-18.03.2024/fw_manet_miui_MANET_OS1.0.13.0.UNMCNXM_3eaea62808_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/manet/fw_manet_miui_MANET_OS1.0.13.0.UNMCNXM_3eaea62808_14.0.zip
@@ -129,7 +129,7 @@
     android: '14.0'
     miui: OS1.0.13.0.UNMCNXM
 - branch: stable
-  date: '2023-12-15'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-16.12.2023/fw_manet_miui_MANET_OS1.0.7.0.UNMCNXM_8dba150437_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/manet/fw_manet_miui_MANET_OS1.0.7.0.UNMCNXM_8dba150437_14.0.zip
@@ -139,7 +139,7 @@
     android: '14.0'
     miui: OS1.0.7.0.UNMCNXM
 - branch: stable
-  date: '2025-10-13'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-13.10.2025/fw_manet_manet-ota_full-OS2.0.208.0.VNMCNXM-user-15.0-a72c0b6da6.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/manet/fw_manet_manet-ota_full-OS2.0.208.0.VNMCNXM-user-15.0-a72c0b6da6.zip
@@ -149,7 +149,7 @@
     android: '15.0'
     miui: OS2.0.208.0.VNMCNXM
 - branch: stable
-  date: '2025-06-12'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-12.06.2025/fw_manet_manet-ota_full-OS2.0.203.0.VNMCNXM-user-15.0-4c6c5d2bac.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/manet/fw_manet_manet-ota_full-OS2.0.203.0.VNMCNXM-user-15.0-4c6c5d2bac.zip
@@ -159,7 +159,7 @@
     android: '15.0'
     miui: OS2.0.203.0.VNMCNXM
 - branch: stable
-  date: '2024-01-12'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-12.01.2024/fw_manet_miui_MANET_OS1.0.9.0.UNMCNXM_4a4df85ffb_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/manet/fw_manet_miui_MANET_OS1.0.9.0.UNMCNXM_4a4df85ffb_14.0.zip
@@ -169,7 +169,7 @@
     android: '14.0'
     miui: OS1.0.9.0.UNMCNXM
 - branch: stable
-  date: '2024-12-09'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-09.12.2024/fw_manet_manet-ota_full-OS2.0.5.0.VNMCNXM-user-15.0-9b6a3a0ef3.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/manet/fw_manet_manet-ota_full-OS2.0.5.0.VNMCNXM-user-15.0-9b6a3a0ef3.zip
@@ -179,7 +179,7 @@
     android: '15.0'
     miui: OS2.0.5.0.VNMCNXM
 - branch: stable
-  date: '2023-12-07'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-07.12.2023/fw_manet_miui_MANET_OS1.0.6.0.UNMCNXM_c89eece155_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/manet/fw_manet_miui_MANET_OS1.0.6.0.UNMCNXM_c89eece155_14.0.zip
@@ -189,7 +189,7 @@
     android: '14.0'
     miui: OS1.0.6.0.UNMCNXM
 - branch: stable
-  date: '2024-07-07'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-07.07.2024/fw_manet_miui_MANET_OS1.0.18.0.UNMCNXM_b1678fb3d7_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/manet/fw_manet_miui_MANET_OS1.0.18.0.UNMCNXM_b1678fb3d7_14.0.zip
@@ -199,7 +199,7 @@
     android: '14.0'
     miui: OS1.0.18.0.UNMCNXM
 - branch: stable
-  date: '2024-06-07'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-07.06.2024/fw_manet_miui_MANET_OS1.0.15.0.UNMCNXM_9348bd98ff_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/manet/fw_manet_miui_MANET_OS1.0.15.0.UNMCNXM_9348bd98ff_14.0.zip
@@ -209,7 +209,7 @@
     android: '14.0'
     miui: OS1.0.15.0.UNMCNXM
 - branch: stable
-  date: '2026-02-04'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-04.02.2026/fw_manet_manet-ota_full-OS3.0.9.0.WNMCNXM-user-16.0-b0adef7e0c.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/manet/fw_manet_manet-ota_full-OS3.0.9.0.WNMCNXM-user-16.0-b0adef7e0c.zip
@@ -219,7 +219,7 @@
     android: '16.0'
     miui: OS3.0.9.0.WNMCNXM
 - branch: stable
-  date: '2025-03-02'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-02.03.2025/fw_manet_manet-ota_full-OS2.0.104.0.VNMCNXM-user-15.0-5e303c2242.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/manet/fw_manet_manet-ota_full-OS2.0.104.0.VNMCNXM-user-15.0-5e303c2242.zip
@@ -229,7 +229,7 @@
     android: '15.0'
     miui: OS2.0.104.0.VNMCNXM
 - branch: stable
-  date: '2025-01-02'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-02.01.2025/fw_manet_manet-ota_full-OS2.0.7.0.VNMCNXM-user-15.0-68ad993489.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/manet/fw_manet_manet-ota_full-OS2.0.7.0.VNMCNXM-user-15.0-68ad993489.zip
@@ -239,7 +239,7 @@
     android: '15.0'
     miui: OS2.0.7.0.VNMCNXM
 - branch: stable
-  date: '2024-11-01'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-01.11.2024/fw_manet_miui_MANET_OS1.0.22.0.UNMCNXM_fabcc29173_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/manet/fw_manet_miui_MANET_OS1.0.22.0.UNMCNXM_fabcc29173_14.0.zip
@@ -249,7 +249,7 @@
     android: '14.0'
     miui: OS1.0.22.0.UNMCNXM
 - branch: stable
-  date: '2025-07-31'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_manet/releases/download/stable-01.08.2025/fw_manet_manet-ota_full-OS2.0.204.0.VNMCNXM-user-15.0-3c8ee66cf6.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/manet/fw_manet_manet-ota_full-OS2.0.204.0.VNMCNXM-user-15.0-3c8ee66cf6.zip

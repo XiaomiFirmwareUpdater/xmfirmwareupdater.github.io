@@ -1,5 +1,5 @@
 - branch: stable
-  date: '2023-10-31'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-31.10.2023/fw_houji_miui_HOUJI_OS1.0.11.0.UNCCNXM_8541c46b8d_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.11.0.UNCCNXM_8541c46b8d_14.0.zip
@@ -9,7 +9,7 @@
     android: '14.0'
     miui: OS1.0.11.0.UNCCNXM
 - branch: stable
-  date: '2025-08-31'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-31.08.2025/fw_houji_global_houji_global-ota_full-OS2.0.202.0.VNCMIXM-user-15.0-11e2c7c5cf.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_global_houji_global-ota_full-OS2.0.202.0.VNCMIXM-user-15.0-11e2c7c5cf.zip
@@ -19,7 +19,7 @@
     android: '15.0'
     miui: OS2.0.202.0.VNCMIXM
 - branch: stable
-  date: '2025-08-31'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-31.08.2025/fw_houji_houji-ota_full-OS2.0.212.0.VNCCNXM-user-15.0-814928f24d.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_houji-ota_full-OS2.0.212.0.VNCCNXM-user-15.0-814928f24d.zip
@@ -29,7 +29,7 @@
     android: '15.0'
     miui: OS2.0.212.0.VNCCNXM
 - branch: stable
-  date: '2025-07-31'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-31.07.2025/fw_houji_houji-ota_full-OS2.0.211.0.VNCCNXM-user-15.0-e5645a2634.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_houji-ota_full-OS2.0.211.0.VNCCNXM-user-15.0-e5645a2634.zip
@@ -39,7 +39,7 @@
     android: '15.0'
     miui: OS2.0.211.0.VNCCNXM
 - branch: stable
-  date: '2025-07-31'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-31.07.2025/fw_houji_in_global_houji_in_global-ota_full-OS2.0.202.0.VNCINXM-user-15.0-adb530ca4d.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_in_global_houji_in_global-ota_full-OS2.0.202.0.VNCINXM-user-15.0-adb530ca4d.zip
@@ -49,7 +49,7 @@
     android: '15.0'
     miui: OS2.0.202.0.VNCINXM
 - branch: stable
-  date: '2025-05-31'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-31.05.2025/fw_houji_global_houji_global-ota_full-OS2.0.103.0.VNCMIXM-user-15.0-717ff5bb3d.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_global_houji_global-ota_full-OS2.0.103.0.VNCMIXM-user-15.0-717ff5bb3d.zip
@@ -59,7 +59,7 @@
     android: '15.0'
     miui: OS2.0.103.0.VNCMIXM
 - branch: stable
-  date: '2025-05-31'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-31.05.2025/fw_houji_in_global_houji_in_global-ota_full-OS2.0.103.0.VNCINXM-user-15.0-8465828d00.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_in_global_houji_in_global-ota_full-OS2.0.103.0.VNCINXM-user-15.0-8465828d00.zip
@@ -69,7 +69,7 @@
     android: '15.0'
     miui: OS2.0.103.0.VNCINXM
 - branch: stable
-  date: '2025-12-30'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-30.12.2025/fw_houji_houji_global-ota_full-OS3.0.5.0.WNCMIXM-user-16.0-5f0713b514.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji_global-ota_full-OS3.0.5.0.WNCMIXM-user-16.0-5f0713b514.zip
@@ -79,7 +79,7 @@
     android: '16.0'
     miui: OS3.0.5.0.WNCMIXM
 - branch: stable
-  date: '2025-07-30'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-30.07.2025/fw_houji_global_houji_global-ota_full-OS2.0.201.0.VNCMIXM-user-15.0-a6f5b7a87f.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_global_houji_global-ota_full-OS2.0.201.0.VNCMIXM-user-15.0-a6f5b7a87f.zip
@@ -89,7 +89,7 @@
     android: '15.0'
     miui: OS2.0.201.0.VNCMIXM
 - branch: stable
-  date: '2025-06-30'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-30.06.2025/fw_houji_eea_global_houji_eea_global-ota_full-OS2.0.108.0.VNCEUXM-user-15.0-3a64a91d4e.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_eea_global_houji_eea_global-ota_full-OS2.0.108.0.VNCEUXM-user-15.0-3a64a91d4e.zip
@@ -99,7 +99,7 @@
     android: '15.0'
     miui: OS2.0.108.0.VNCEUXM
 - branch: stable
-  date: '2024-06-30'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-30.06.2024/fw_houji_miui_HOUJI_OS1.0.39.0.UNCCNXM_39723f18b0_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.39.0.UNCCNXM_39723f18b0_14.0.zip
@@ -109,7 +109,7 @@
     android: '14.0'
     miui: OS1.0.39.0.UNCCNXM
 - branch: stable
-  date: '2026-04-30'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-30.04.2026/fw_houji_houji_in_global-ota_full-OS3.0.301.0.WNCINXM-user-16.0-b4835c0c02.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji_in_global-ota_full-OS3.0.301.0.WNCINXM-user-16.0-b4835c0c02.zip
@@ -119,7 +119,7 @@
     android: '16.0'
     miui: OS3.0.301.0.WNCINXM
 - branch: stable
-  date: '2025-12-29'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-29.12.2025/fw_houji_houji_eea_global-ota_full-OS3.0.5.0.WNCEUXM-user-16.0-8edf5e0fe1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji_eea_global-ota_full-OS3.0.5.0.WNCEUXM-user-16.0-8edf5e0fe1.zip
@@ -129,7 +129,7 @@
     android: '16.0'
     miui: OS3.0.5.0.WNCEUXM
 - branch: stable
-  date: '2025-10-29'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-29.10.2025/fw_houji_houji_eea_global-ota_full-OS2.0.110.0.VNCEUXM-user-15.0-3cfdd617c6.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_houji_eea_global-ota_full-OS2.0.110.0.VNCEUXM-user-15.0-3cfdd617c6.zip
@@ -139,7 +139,7 @@
     android: '15.0'
     miui: OS2.0.110.0.VNCEUXM
 - branch: stable
-  date: '2023-10-29'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-29.10.2023/fw_houji_miui_HOUJI_OS1.0.9.0.UNCCNXM_e5644d702d_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.9.0.UNCCNXM_e5644d702d_14.0.zip
@@ -149,7 +149,7 @@
     android: '14.0'
     miui: OS1.0.9.0.UNCCNXM
 - branch: stable
-  date: '2025-08-29'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-29.08.2025/fw_houji_in_global_houji_in_global-ota_full-OS2.0.203.0.VNCINXM-user-15.0-e26e80650c.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_in_global_houji_in_global-ota_full-OS2.0.203.0.VNCINXM-user-15.0-e26e80650c.zip
@@ -159,7 +159,7 @@
     android: '15.0'
     miui: OS2.0.203.0.VNCINXM
 - branch: stable
-  date: '2024-03-28'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-29.03.2024/fw_houji_miui_HOUJIGlobal_OS1.0.6.0.UNCMIXM_248bccbcd4_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJIGlobal_OS1.0.6.0.UNCMIXM_248bccbcd4_14.0.zip
@@ -169,7 +169,7 @@
     android: '14.0'
     miui: OS1.0.6.0.UNCMIXM
 - branch: stable
-  date: '2024-03-28'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-29.03.2024/fw_houji_miui_HOUJI_OS1.0.32.0.UNCCNXM_4fd0e15877_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.32.0.UNCCNXM_4fd0e15877_14.0.zip
@@ -179,7 +179,7 @@
     android: '14.0'
     miui: OS1.0.32.0.UNCCNXM
 - branch: stable
-  date: '2024-02-29'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-29.02.2024/fw_houji_miui_HOUJIGlobal_OS1.0.2.0.UNCMIXM_484000c3c2_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJIGlobal_OS1.0.2.0.UNCMIXM_484000c3c2_14.0.zip
@@ -189,7 +189,7 @@
     android: '14.0'
     miui: OS1.0.2.0.UNCMIXM
 - branch: stable
-  date: '2024-02-29'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-29.02.2024/fw_houji_miui_HOUJIINGlobal_OS1.0.2.0.UNCINXM_a054e6ddb8_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJIINGlobal_OS1.0.2.0.UNCINXM_a054e6ddb8_14.0.zip
@@ -199,7 +199,7 @@
     android: '14.0'
     miui: OS1.0.2.0.UNCINXM
 - branch: stable
-  date: '2025-11-28'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-28.11.2025/fw_houji_houji_in_global-ota_full-OS2.0.207.0.VNCINXM-user-15.0-c82f076b80.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_houji_in_global-ota_full-OS2.0.207.0.VNCINXM-user-15.0-c82f076b80.zip
@@ -209,7 +209,7 @@
     android: '15.0'
     miui: OS2.0.207.0.VNCINXM
 - branch: stable
-  date: '2025-10-27'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-28.10.2025/fw_houji_houji-ota_full-OS2.0.215.0.VNCCNXM-user-15.0-aebb1dbf56.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_houji-ota_full-OS2.0.215.0.VNCCNXM-user-15.0-aebb1dbf56.zip
@@ -219,7 +219,7 @@
     android: '15.0'
     miui: OS2.0.215.0.VNCCNXM
 - branch: stable
-  date: '2025-03-28'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-28.03.2025/fw_houji_eea_global_houji_eea_global-ota_full-OS2.0.105.0.VNCEUXM-user-15.0-84979fead2.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_eea_global_houji_eea_global-ota_full-OS2.0.105.0.VNCEUXM-user-15.0-84979fead2.zip
@@ -229,7 +229,7 @@
     android: '15.0'
     miui: OS2.0.105.0.VNCEUXM
 - branch: stable
-  date: '2025-11-27'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-27.11.2025/fw_houji_houji-ota_full-OS3.0.4.0.WNCCNXM-user-16.0-d196dc8e93.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji-ota_full-OS3.0.4.0.WNCCNXM-user-16.0-d196dc8e93.zip
@@ -239,7 +239,7 @@
     android: '16.0'
     miui: OS3.0.4.0.WNCCNXM
 - branch: stable
-  date: '2025-11-27'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-27.11.2025/fw_houji_houji_eea_global-ota_full-OS2.0.111.0.VNCEUXM-user-15.0-c3d6a17fbf.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_houji_eea_global-ota_full-OS2.0.111.0.VNCEUXM-user-15.0-c3d6a17fbf.zip
@@ -249,7 +249,7 @@
     android: '15.0'
     miui: OS2.0.111.0.VNCEUXM
 - branch: stable
-  date: '2025-11-27'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-27.11.2025/fw_houji_houji_global-ota_full-OS2.0.206.0.VNCMIXM-user-15.0-d43b6e00bd.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_houji_global-ota_full-OS2.0.206.0.VNCMIXM-user-15.0-d43b6e00bd.zip
@@ -259,7 +259,7 @@
     android: '15.0'
     miui: OS2.0.206.0.VNCMIXM
 - branch: stable
-  date: '2024-05-27'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-27.05.2024/fw_houji_miui_HOUJIEEAGlobal_OS1.0.20.0.UNCEUXM_4916378ca5_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJIEEAGlobal_OS1.0.20.0.UNCEUXM_4916378ca5_14.0.zip
@@ -269,7 +269,7 @@
     android: '14.0'
     miui: OS1.0.20.0.UNCEUXM
 - branch: stable
-  date: '2025-04-27'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-27.04.2025/fw_houji_in_global_houji_in_global-ota_full-OS2.0.102.0.VNCINXM-user-15.0-14ca0f8681.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_in_global_houji_in_global-ota_full-OS2.0.102.0.VNCINXM-user-15.0-14ca0f8681.zip
@@ -279,7 +279,7 @@
     android: '15.0'
     miui: OS2.0.102.0.VNCINXM
 - branch: stable
-  date: '2024-01-27'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-27.01.2024/fw_houji_miui_HOUJI_OS1.0.31.0.UNCCNXM_5bfc75981b_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.31.0.UNCCNXM_5bfc75981b_14.0.zip
@@ -289,7 +289,7 @@
     android: '14.0'
     miui: OS1.0.31.0.UNCCNXM
 - branch: stable
-  date: '2025-12-26'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-26.12.2025/fw_houji_houji-ota_full-OS3.0.5.0.WNCCNXM-user-16.0-306ce971bf.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji-ota_full-OS3.0.5.0.WNCCNXM-user-16.0-306ce971bf.zip
@@ -299,7 +299,7 @@
     android: '16.0'
     miui: OS3.0.5.0.WNCCNXM
 - branch: stable
-  date: '2026-06-26'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-26.06.2026/fw_houji_houji-ota_full-OS3.0.303.0.WNCCNXM-user-16.0-c5d245a441.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji-ota_full-OS3.0.303.0.WNCCNXM-user-16.0-c5d245a441.zip
@@ -309,7 +309,7 @@
     android: '16.0'
     miui: OS3.0.303.0.WNCCNXM
 - branch: stable
-  date: '2025-03-25'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-25.03.2025/fw_houji_houji-ota_full-OS2.0.107.0.VNCCNXM-user-15.0-a8574b1da1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_houji-ota_full-OS2.0.107.0.VNCCNXM-user-15.0-a8574b1da1.zip
@@ -319,7 +319,7 @@
     android: '15.0'
     miui: OS2.0.107.0.VNCCNXM
 - branch: stable
-  date: '2023-11-23'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-24.11.2023/fw_houji_miui_HOUJI_OS1.0.24.0.UNCCNXM_491d1bbdd1_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.24.0.UNCCNXM_491d1bbdd1_14.0.zip
@@ -329,7 +329,7 @@
     android: '14.0'
     miui: OS1.0.24.0.UNCCNXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-24.08.2026/fw_houji_houji-ota_full-OS3.0.305.0.WNCCNXM-user-16.0-c7f619bf84.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji-ota_full-OS3.0.305.0.WNCCNXM-user-16.0-c7f619bf84.zip
@@ -339,7 +339,7 @@
     android: '16.0'
     miui: OS3.0.305.0.WNCCNXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-24.08.2026/fw_houji_houji_eea_global-ota_full-OS3.0.303.0.WNCEUXM-user-16.0-090c4c46cb.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji_eea_global-ota_full-OS3.0.303.0.WNCEUXM-user-16.0-090c4c46cb.zip
@@ -349,7 +349,7 @@
     android: '16.0'
     miui: OS3.0.303.0.WNCEUXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-24.08.2026/fw_houji_houji_global-ota_full-OS3.0.303.0.WNCMIXM-user-16.0-65f80983d2.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji_global-ota_full-OS3.0.303.0.WNCMIXM-user-16.0-65f80983d2.zip
@@ -359,7 +359,7 @@
     android: '16.0'
     miui: OS3.0.303.0.WNCMIXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-24.08.2026/fw_houji_houji_in_global-ota_full-OS3.0.303.0.WNCINXM-user-16.0-0d05d8f08b.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji_in_global-ota_full-OS3.0.303.0.WNCINXM-user-16.0-0d05d8f08b.zip
@@ -369,7 +369,7 @@
     android: '16.0'
     miui: OS3.0.303.0.WNCINXM
 - branch: stable
-  date: '2025-04-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-24.04.2025/fw_houji_global_houji_global-ota_full-OS2.0.102.0.VNCMIXM-user-15.0-d80a51330a.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_global_houji_global-ota_full-OS2.0.102.0.VNCMIXM-user-15.0-d80a51330a.zip
@@ -379,7 +379,7 @@
     android: '15.0'
     miui: OS2.0.102.0.VNCMIXM
 - branch: stable
-  date: '2024-02-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-24.02.2024/fw_houji_miui_HOUJIEEAGlobal_OS1.0.14.0.UNCEUXM_d0dc61697d_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJIEEAGlobal_OS1.0.14.0.UNCEUXM_d0dc61697d_14.0.zip
@@ -389,7 +389,7 @@
     android: '14.0'
     miui: OS1.0.14.0.UNCEUXM
 - branch: stable
-  date: '2024-05-22'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-23.05.2024/fw_houji_miui_HOUJI_OS1.0.38.0.UNCCNXM_89a9ce40ec_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.38.0.UNCCNXM_89a9ce40ec_14.0.zip
@@ -399,7 +399,7 @@
     android: '14.0'
     miui: OS1.0.38.0.UNCCNXM
 - branch: stable
-  date: '2024-10-22'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-22.10.2024/fw_houji_miui_HOUJIINGlobal_OS1.0.12.0.UNCINXM_0264b26dba_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJIINGlobal_OS1.0.12.0.UNCINXM_0264b26dba_14.0.zip
@@ -409,7 +409,7 @@
     android: '14.0'
     miui: OS1.0.12.0.UNCINXM
 - branch: stable
-  date: '2024-10-22'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-22.10.2024/fw_houji_miui_HOUJI_OS1.0.47.0.UNCCNXM_1570ac24a8_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.47.0.UNCCNXM_1570ac24a8_14.0.zip
@@ -419,7 +419,7 @@
     android: '14.0'
     miui: OS1.0.47.0.UNCCNXM
 - branch: stable
-  date: '2024-07-22'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-22.07.2024/fw_houji_miui_HOUJIGlobal_OS1.0.12.0.UNCMIXM_3244e83a0f_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJIGlobal_OS1.0.12.0.UNCMIXM_3244e83a0f_14.0.zip
@@ -429,7 +429,7 @@
     android: '14.0'
     miui: OS1.0.12.0.UNCMIXM
 - branch: stable
-  date: '2025-01-22'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-22.01.2025/fw_houji_eea_global_houji_eea_global-ota_full-OS2.0.3.0.VNCEUXM-user-15.0-ec6c25f150.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_eea_global_houji_eea_global-ota_full-OS2.0.3.0.VNCEUXM-user-15.0-ec6c25f150.zip
@@ -439,7 +439,7 @@
     android: '15.0'
     miui: OS2.0.3.0.VNCEUXM
 - branch: stable
-  date: '2024-10-21'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-21.10.2024/fw_houji_miui_HOUJIGlobal_OS1.0.15.0.UNCMIXM_17e1f93655_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJIGlobal_OS1.0.15.0.UNCMIXM_17e1f93655_14.0.zip
@@ -449,7 +449,7 @@
     android: '14.0'
     miui: OS1.0.15.0.UNCMIXM
 - branch: stable
-  date: '2026-05-21'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-21.05.2026/fw_houji_houji_eea_global-ota_full-OS3.0.301.0.WNCEUXM-user-16.0-8311873db0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji_eea_global-ota_full-OS3.0.301.0.WNCEUXM-user-16.0-8311873db0.zip
@@ -459,7 +459,7 @@
     android: '16.0'
     miui: OS3.0.301.0.WNCEUXM
 - branch: stable
-  date: '2026-04-20'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-21.04.2026/fw_houji_houji_eea_global-ota_full-OS3.0.8.0.WNCEUXM-user-16.0-1f54e73536.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji_eea_global-ota_full-OS3.0.8.0.WNCEUXM-user-16.0-1f54e73536.zip
@@ -469,7 +469,7 @@
     android: '16.0'
     miui: OS3.0.8.0.WNCEUXM
 - branch: stable
-  date: '2026-04-20'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-21.04.2026/fw_houji_houji_global-ota_full-OS3.0.301.0.WNCMIXM-user-16.0-905b3920ab.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji_global-ota_full-OS3.0.301.0.WNCMIXM-user-16.0-905b3920ab.zip
@@ -479,7 +479,7 @@
     android: '16.0'
     miui: OS3.0.301.0.WNCMIXM
 - branch: stable
-  date: '2025-03-21'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-21.03.2025/fw_houji_in_global_houji_in_global-ota_full-OS2.0.100.0.VNCINXM-user-15.0-06a073c329.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_in_global_houji_in_global-ota_full-OS2.0.100.0.VNCINXM-user-15.0-06a073c329.zip
@@ -489,7 +489,7 @@
     android: '15.0'
     miui: OS2.0.100.0.VNCINXM
 - branch: stable
-  date: '2025-02-21'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-21.02.2025/fw_houji_in_global_houji_in_global-ota_full-OS2.0.6.0.VNCINXM-user-15.0-901acaff14.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_in_global_houji_in_global-ota_full-OS2.0.6.0.VNCINXM-user-15.0-901acaff14.zip
@@ -499,7 +499,7 @@
     android: '15.0'
     miui: OS2.0.6.0.VNCINXM
 - branch: stable
-  date: '2026-04-20'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-20.04.2026/fw_houji_houji-ota_full-OS3.0.302.0.WNCCNXM-user-16.0-bd355440dc.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji-ota_full-OS3.0.302.0.WNCCNXM-user-16.0-bd355440dc.zip
@@ -509,7 +509,7 @@
     android: '16.0'
     miui: OS3.0.302.0.WNCCNXM
 - branch: stable
-  date: '2025-03-20'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-20.03.2025/fw_houji_eea_global_houji_eea_global-ota_full-OS2.0.7.0.VNCEUXM-user-15.0-e1a572672e.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_eea_global_houji_eea_global-ota_full-OS2.0.7.0.VNCEUXM-user-15.0-e1a572672e.zip
@@ -519,7 +519,7 @@
     android: '15.0'
     miui: OS2.0.7.0.VNCEUXM
 - branch: stable
-  date: '2024-12-19'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-19.12.2024/fw_houji_eea_global_houji_eea_global-ota_full-OS2.0.1.0.VNCEUXM-user-15.0-a671fce3aa.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_eea_global_houji_eea_global-ota_full-OS2.0.1.0.VNCEUXM-user-15.0-a671fce3aa.zip
@@ -529,7 +529,7 @@
     android: '15.0'
     miui: OS2.0.1.0.VNCEUXM
 - branch: stable
-  date: '2024-11-19'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-19.11.2024/fw_houji_houji-ota_full-OS2.0.6.0.VNCCNXM-user-15.0-82bd4b13f6.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_houji-ota_full-OS2.0.6.0.VNCCNXM-user-15.0-82bd4b13f6.zip
@@ -539,7 +539,7 @@
     android: '15.0'
     miui: OS2.0.6.0.VNCCNXM
 - branch: stable
-  date: '2024-06-18'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-18.06.2024/fw_houji_miui_HOUJIINGlobal_OS1.0.8.0.UNCINXM_192dd038d6_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJIINGlobal_OS1.0.8.0.UNCINXM_192dd038d6_14.0.zip
@@ -549,7 +549,7 @@
     android: '14.0'
     miui: OS1.0.8.0.UNCINXM
 - branch: stable
-  date: '2025-02-18'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-18.02.2025/fw_houji_houji-ota_full-OS2.0.104.0.VNCCNXM-user-15.0-9300a7608a.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_houji-ota_full-OS2.0.104.0.VNCCNXM-user-15.0-9300a7608a.zip
@@ -559,7 +559,7 @@
     android: '15.0'
     miui: OS2.0.104.0.VNCCNXM
 - branch: stable
-  date: '2024-04-17'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-17.04.2024/fw_houji_miui_HOUJI_OS1.0.36.0.UNCCNXM_54ab2de231_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.36.0.UNCCNXM_54ab2de231_14.0.zip
@@ -569,7 +569,7 @@
     android: '14.0'
     miui: OS1.0.36.0.UNCCNXM
 - branch: stable
-  date: '2025-12-16'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-16.12.2025/fw_houji_houji_global-ota_full-OS3.0.4.0.WNCMIXM-user-16.0-a9b8dc32aa.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji_global-ota_full-OS3.0.4.0.WNCMIXM-user-16.0-a9b8dc32aa.zip
@@ -579,7 +579,7 @@
     android: '16.0'
     miui: OS3.0.4.0.WNCMIXM
 - branch: stable
-  date: '2024-12-16'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-16.12.2024/fw_houji_global_houji_global-ota_full-OS2.0.6.0.VNCMIXM-user-15.0-4b6e42f980.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_global_houji_global-ota_full-OS2.0.6.0.VNCMIXM-user-15.0-4b6e42f980.zip
@@ -589,7 +589,7 @@
     android: '15.0'
     miui: OS2.0.6.0.VNCMIXM
 - branch: stable
-  date: '2024-12-16'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-16.12.2024/fw_houji_in_global_houji_in_global-ota_full-OS2.0.4.0.VNCINXM-user-15.0-bd3cfcb89d.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_in_global_houji_in_global-ota_full-OS2.0.4.0.VNCINXM-user-15.0-bd3cfcb89d.zip
@@ -599,7 +599,7 @@
     android: '15.0'
     miui: OS2.0.4.0.VNCINXM
 - branch: stable
-  date: '2023-11-15'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-16.11.2023/fw_houji_miui_HOUJI_OS1.0.20.0.UNCCNXM_c1cd2893e8_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.20.0.UNCCNXM_c1cd2893e8_14.0.zip
@@ -609,7 +609,7 @@
     android: '14.0'
     miui: OS1.0.20.0.UNCCNXM
 - branch: stable
-  date: '2024-07-15'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-16.07.2024/fw_houji_miui_HOUJIINGlobal_OS1.0.9.0.UNCINXM_8c6ce705d4_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJIINGlobal_OS1.0.9.0.UNCINXM_8c6ce705d4_14.0.zip
@@ -619,7 +619,7 @@
     android: '14.0'
     miui: OS1.0.9.0.UNCINXM
 - branch: stable
-  date: '2025-05-16'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-16.05.2025/fw_houji_houji-ota_full-OS2.0.112.0.VNCCNXM-user-15.0-23f86e3f1a.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_houji-ota_full-OS2.0.112.0.VNCCNXM-user-15.0-23f86e3f1a.zip
@@ -629,7 +629,7 @@
     android: '15.0'
     miui: OS2.0.112.0.VNCCNXM
 - branch: stable
-  date: '2024-04-16'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-16.04.2024/fw_houji_miui_HOUJIEEAGlobal_OS1.0.16.0.UNCEUXM_ffc0ba5581_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJIEEAGlobal_OS1.0.16.0.UNCEUXM_ffc0ba5581_14.0.zip
@@ -639,7 +639,7 @@
     android: '14.0'
     miui: OS1.0.16.0.UNCEUXM
 - branch: stable
-  date: '2026-06-15'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-15.06.2026/fw_houji_houji_eea_global-ota_full-OS3.0.302.0.WNCEUXM-user-16.0-76040ccc8e.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji_eea_global-ota_full-OS3.0.302.0.WNCEUXM-user-16.0-76040ccc8e.zip
@@ -649,7 +649,7 @@
     android: '16.0'
     miui: OS3.0.302.0.WNCEUXM
 - branch: stable
-  date: '2026-06-15'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-15.06.2026/fw_houji_houji_global-ota_full-OS3.0.302.0.WNCMIXM-user-16.0-0a4e0d1882.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji_global-ota_full-OS3.0.302.0.WNCMIXM-user-16.0-0a4e0d1882.zip
@@ -659,7 +659,7 @@
     android: '16.0'
     miui: OS3.0.302.0.WNCMIXM
 - branch: stable
-  date: '2026-06-15'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-15.06.2026/fw_houji_houji_in_global-ota_full-OS3.0.302.0.WNCINXM-user-16.0-c6c60cca31.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji_in_global-ota_full-OS3.0.302.0.WNCINXM-user-16.0-c6c60cca31.zip
@@ -669,7 +669,7 @@
     android: '16.0'
     miui: OS3.0.302.0.WNCINXM
 - branch: stable
-  date: '2025-04-15'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-15.04.2025/fw_houji_houji-ota_full-OS2.0.109.0.VNCCNXM-user-15.0-6e3f6be5fc.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_houji-ota_full-OS2.0.109.0.VNCCNXM-user-15.0-6e3f6be5fc.zip
@@ -679,7 +679,7 @@
     android: '15.0'
     miui: OS2.0.109.0.VNCCNXM
 - branch: stable
-  date: '2024-08-14'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-14.08.2024/fw_houji_miui_HOUJI_OS1.0.45.0.UNCCNXM_8597412d79_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.45.0.UNCCNXM_8597412d79_14.0.zip
@@ -689,7 +689,7 @@
     android: '14.0'
     miui: OS1.0.45.0.UNCCNXM
 - branch: stable
-  date: '2023-12-12'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-13.12.2023/fw_houji_miui_HOUJI_OS1.0.26.0.UNCCNXM_63c66c445c_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.26.0.UNCCNXM_63c66c445c_14.0.zip
@@ -699,7 +699,7 @@
     android: '14.0'
     miui: OS1.0.26.0.UNCCNXM
 - branch: stable
-  date: '2023-11-12'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-13.11.2023/fw_houji_miui_HOUJI_OS1.0.19.0.UNCCNXM_7abc50d61d_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.19.0.UNCCNXM_7abc50d61d_14.0.zip
@@ -709,7 +709,7 @@
     android: '14.0'
     miui: OS1.0.19.0.UNCCNXM
 - branch: stable
-  date: '2025-06-13'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-13.06.2025/fw_houji_eea_global_houji_eea_global-ota_full-OS2.0.107.0.VNCEUXM-user-15.0-bd1c41d1dd.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_eea_global_houji_eea_global-ota_full-OS2.0.107.0.VNCEUXM-user-15.0-bd1c41d1dd.zip
@@ -719,7 +719,7 @@
     android: '15.0'
     miui: OS2.0.107.0.VNCEUXM
 - branch: stable
-  date: '2024-07-12'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-12.07.2024/fw_houji_miui_HOUJIEEAGlobal_OS1.0.21.0.UNCEUXM_4be0482345_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJIEEAGlobal_OS1.0.21.0.UNCEUXM_4be0482345_14.0.zip
@@ -729,7 +729,7 @@
     android: '14.0'
     miui: OS1.0.21.0.UNCEUXM
 - branch: stable
-  date: '2024-01-12'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-12.01.2024/fw_houji_miui_HOUJI_OS1.0.28.0.UNCCNXM_7da71e0992_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.28.0.UNCCNXM_7da71e0992_14.0.zip
@@ -739,7 +739,7 @@
     android: '14.0'
     miui: OS1.0.28.0.UNCCNXM
 - branch: stable
-  date: '2024-09-11'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-11.09.2024/fw_houji_miui_HOUJIEEAGlobal_OS1.0.22.0.UNCEUXM_70d8b62e04_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJIEEAGlobal_OS1.0.22.0.UNCEUXM_70d8b62e04_14.0.zip
@@ -749,7 +749,7 @@
     android: '14.0'
     miui: OS1.0.22.0.UNCEUXM
 - branch: stable
-  date: '2024-09-11'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-11.09.2024/fw_houji_miui_HOUJIGlobal_OS1.0.13.0.UNCMIXM_6fc0789e12_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJIGlobal_OS1.0.13.0.UNCMIXM_6fc0789e12_14.0.zip
@@ -759,7 +759,7 @@
     android: '14.0'
     miui: OS1.0.13.0.UNCMIXM
 - branch: stable
-  date: '2024-04-11'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-11.04.2024/fw_houji_miui_HOUJIINGlobal_OS1.0.7.0.UNCINXM_a479107bd9_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJIINGlobal_OS1.0.7.0.UNCINXM_a479107bd9_14.0.zip
@@ -769,7 +769,7 @@
     android: '14.0'
     miui: OS1.0.7.0.UNCINXM
 - branch: stable
-  date: '2025-06-10'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-10.06.2025/fw_houji_houji-ota_full-OS2.0.207.0.VNCCNXM-user-15.0-92b96b1a36.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_houji-ota_full-OS2.0.207.0.VNCCNXM-user-15.0-92b96b1a36.zip
@@ -779,7 +779,7 @@
     android: '15.0'
     miui: OS2.0.207.0.VNCCNXM
 - branch: stable
-  date: '2026-02-09'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-09.02.2026/fw_houji_houji_eea_global-ota_full-OS3.0.7.0.WNCEUXM-user-16.0-7b8d7f36f8.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji_eea_global-ota_full-OS3.0.7.0.WNCEUXM-user-16.0-7b8d7f36f8.zip
@@ -789,7 +789,7 @@
     android: '16.0'
     miui: OS3.0.7.0.WNCEUXM
 - branch: stable
-  date: '2026-02-09'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-09.02.2026/fw_houji_houji_global-ota_full-OS3.0.6.0.WNCMIXM-user-16.0-71a3c1cbca.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji_global-ota_full-OS3.0.6.0.WNCMIXM-user-16.0-71a3c1cbca.zip
@@ -799,7 +799,7 @@
     android: '16.0'
     miui: OS3.0.6.0.WNCMIXM
 - branch: stable
-  date: '2026-02-09'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-09.02.2026/fw_houji_houji_in_global-ota_full-OS3.0.4.0.WNCINXM-user-16.0-2762c457af.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji_in_global-ota_full-OS3.0.4.0.WNCINXM-user-16.0-2762c457af.zip
@@ -809,7 +809,7 @@
     android: '16.0'
     miui: OS3.0.4.0.WNCINXM
 - branch: stable
-  date: '2026-01-09'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-09.01.2026/fw_houji_houji_eea_global-ota_full-OS3.0.6.0.WNCEUXM-user-16.0-c7485df94a.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji_eea_global-ota_full-OS3.0.6.0.WNCEUXM-user-16.0-c7485df94a.zip
@@ -819,7 +819,7 @@
     android: '16.0'
     miui: OS3.0.6.0.WNCEUXM
 - branch: stable
-  date: '2025-01-09'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-09.01.2025/fw_houji_houji-ota_full-OS2.0.101.0.VNCCNXM-user-15.0-602de5f1f8.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_houji-ota_full-OS2.0.101.0.VNCCNXM-user-15.0-602de5f1f8.zip
@@ -829,7 +829,7 @@
     android: '15.0'
     miui: OS2.0.101.0.VNCCNXM
 - branch: stable
-  date: '2025-09-08'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-08.09.2025/fw_houji_eea_global_houji_eea_global-ota_full-OS2.0.109.0.VNCEUXM-user-15.0-db22819349.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_eea_global_houji_eea_global-ota_full-OS2.0.109.0.VNCEUXM-user-15.0-db22819349.zip
@@ -839,7 +839,7 @@
     android: '15.0'
     miui: OS2.0.109.0.VNCEUXM
 - branch: stable
-  date: '2023-11-07'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-07.11.2023/fw_houji_miui_HOUJI_OS1.0.16.0.UNCCNXM_5740a43ba8_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.16.0.UNCCNXM_5740a43ba8_14.0.zip
@@ -849,7 +849,7 @@
     android: '14.0'
     miui: OS1.0.16.0.UNCCNXM
 - branch: stable
-  date: '2024-03-07'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-07.03.2024/fw_houji_miui_HOUJIGlobal_OS1.0.5.0.UNCMIXM_f623e944d7_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJIGlobal_OS1.0.5.0.UNCMIXM_f623e944d7_14.0.zip
@@ -859,7 +859,7 @@
     android: '14.0'
     miui: OS1.0.5.0.UNCMIXM
 - branch: stable
-  date: '2024-05-06'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-06.05.2024/fw_houji_miui_HOUJIGlobal_OS1.0.11.0.UNCMIXM_74f68cfcdf_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJIGlobal_OS1.0.11.0.UNCMIXM_74f68cfcdf_14.0.zip
@@ -869,7 +869,7 @@
     android: '14.0'
     miui: OS1.0.11.0.UNCMIXM
 - branch: stable
-  date: '2024-03-06'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-06.03.2024/fw_houji_miui_HOUJIINGlobal_OS1.0.6.0.UNCINXM_288e04cd18_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJIINGlobal_OS1.0.6.0.UNCINXM_288e04cd18_14.0.zip
@@ -879,7 +879,7 @@
     android: '14.0'
     miui: OS1.0.6.0.UNCINXM
 - branch: stable
-  date: '2024-11-05'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-05.11.2024/fw_eea_houji_eea_global-ota_full-OS1.1.4.0.VNCEUXM-user-15.0-30383d3fc3.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_eea_houji_eea_global-ota_full-OS1.1.4.0.VNCEUXM-user-15.0-30383d3fc3.zip
@@ -889,7 +889,7 @@
     android: '15.0'
     miui: OS1.1.4.0.VNCEUXM
 - branch: stable
-  date: '2024-11-05'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-05.11.2024/fw_global-ota_houji_global-ota_full-OS1.1.3.0.VNCMIXM-user-15.0-a5c05e8590.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/ota_full/houji/fw_global-ota_houji_global-ota_full-OS1.1.3.0.VNCMIXM-user-15.0-a5c05e8590.zip
@@ -899,7 +899,7 @@
     android: '15.0'
     miui: ota_full
 - branch: stable
-  date: '2024-04-05'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-05.04.2024/fw_houji_miui_HOUJI_OS1.0.35.0.UNCCNXM_6868dffa5c_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.35.0.UNCCNXM_6868dffa5c_14.0.zip
@@ -909,7 +909,7 @@
     android: '14.0'
     miui: OS1.0.35.0.UNCCNXM
 - branch: stable
-  date: '2025-02-05'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-05.02.2025/fw_houji_global_houji_global-ota_full-OS2.0.8.0.VNCMIXM-user-15.0-7287fecb98.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_global_houji_global-ota_full-OS2.0.8.0.VNCMIXM-user-15.0-7287fecb98.zip
@@ -919,7 +919,7 @@
     android: '15.0'
     miui: OS2.0.8.0.VNCMIXM
 - branch: stable
-  date: '2024-12-04'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-04.12.2024/fw_houji_houji-ota_full-OS2.0.7.0.VNCCNXM-user-15.0-c831ec4f6f.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_houji-ota_full-OS2.0.7.0.VNCCNXM-user-15.0-c831ec4f6f.zip
@@ -929,7 +929,7 @@
     android: '15.0'
     miui: OS2.0.7.0.VNCCNXM
 - branch: stable
-  date: '2023-12-04'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-04.12.2023/fw_houji_miui_HOUJI_OS1.0.25.0.UNCCNXM_f46161631e_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.25.0.UNCCNXM_f46161631e_14.0.zip
@@ -939,7 +939,7 @@
     android: '14.0'
     miui: OS1.0.25.0.UNCCNXM
 - branch: stable
-  date: '2024-07-04'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-04.07.2024/fw_houji_miui_HOUJI_OS1.0.42.0.UNCCNXM_71976c4264_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.42.0.UNCCNXM_71976c4264_14.0.zip
@@ -949,7 +949,7 @@
     android: '14.0'
     miui: OS1.0.42.0.UNCCNXM
 - branch: stable
-  date: '2026-02-04'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-04.02.2026/fw_houji_houji-ota_full-OS3.0.6.0.WNCCNXM-user-16.0-63c202b5f4.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji-ota_full-OS3.0.6.0.WNCCNXM-user-16.0-63c202b5f4.zip
@@ -959,7 +959,7 @@
     android: '16.0'
     miui: OS3.0.6.0.WNCCNXM
 - branch: stable
-  date: '2025-03-03'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-03.03.2025/fw_houji_global_houji_global-ota_full-OS2.0.100.0.VNCMIXM-user-15.0-8b699f49f5.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_global_houji_global-ota_full-OS2.0.100.0.VNCMIXM-user-15.0-8b699f49f5.zip
@@ -969,7 +969,7 @@
     android: '15.0'
     miui: OS2.0.100.0.VNCMIXM
 - branch: stable
-  date: '2023-11-02'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-02.11.2023/fw_houji_miui_HOUJI_OS1.0.14.0.UNCCNXM_8cdf08a0dc_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/houji/fw_houji_miui_HOUJI_OS1.0.14.0.UNCCNXM_8cdf08a0dc_14.0.zip
@@ -979,7 +979,7 @@
     android: '14.0'
     miui: OS1.0.14.0.UNCCNXM
 - branch: stable
-  date: '2026-03-02'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-02.03.2026/fw_houji_houji-ota_full-OS3.0.7.0.WNCCNXM-user-16.0-2a07e577ea.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/houji/fw_houji_houji-ota_full-OS3.0.7.0.WNCCNXM-user-16.0-2a07e577ea.zip
@@ -989,7 +989,7 @@
     android: '16.0'
     miui: OS3.0.7.0.WNCCNXM
 - branch: stable
-  date: '2025-03-02'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-02.03.2025/fw_houji_eea_global_houji_eea_global-ota_full-OS2.0.6.0.VNCEUXM-user-15.0-97fe4f9bfa.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_eea_global_houji_eea_global-ota_full-OS2.0.6.0.VNCEUXM-user-15.0-97fe4f9bfa.zip
@@ -999,7 +999,7 @@
     android: '15.0'
     miui: OS2.0.6.0.VNCEUXM
 - branch: stable
-  date: '2025-11-01'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-01.11.2025/fw_houji_houji_global-ota_full-OS2.0.205.0.VNCMIXM-user-15.0-b1144eb11d.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_houji_global-ota_full-OS2.0.205.0.VNCMIXM-user-15.0-b1144eb11d.zip
@@ -1009,7 +1009,7 @@
     android: '15.0'
     miui: OS2.0.205.0.VNCMIXM
 - branch: stable
-  date: '2025-10-31'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-01.11.2025/fw_houji_houji_in_global-ota_full-OS2.0.206.0.VNCINXM-user-15.0-1ec10ad4a2.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_houji_in_global-ota_full-OS2.0.206.0.VNCINXM-user-15.0-1ec10ad4a2.zip
@@ -1019,7 +1019,7 @@
     android: '15.0'
     miui: OS2.0.206.0.VNCINXM
 - branch: stable
-  date: '2025-09-30'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-01.10.2025/fw_houji_global_houji_global-ota_full-OS2.0.204.0.VNCMIXM-user-15.0-92598154a2.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_global_houji_global-ota_full-OS2.0.204.0.VNCMIXM-user-15.0-92598154a2.zip
@@ -1029,7 +1029,7 @@
     android: '15.0'
     miui: OS2.0.204.0.VNCMIXM
 - branch: stable
-  date: '2025-09-30'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_houji/releases/download/stable-01.10.2025/fw_houji_in_global_houji_in_global-ota_full-OS2.0.205.0.VNCINXM-user-15.0-518bf28c33.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/houji/fw_houji_in_global_houji_in_global-ota_full-OS2.0.205.0.VNCINXM-user-15.0-518bf28c33.zip

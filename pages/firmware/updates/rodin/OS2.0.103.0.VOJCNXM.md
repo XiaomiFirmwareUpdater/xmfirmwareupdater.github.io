@@ -54,7 +54,7 @@ permalink: /firmware/rodin/stable/OS2.0.103.0.VOJCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>64.7 MB</h5>
+                    <h5><b>Size: </b>64.6 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-02-14</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/rodin/stable/OS2.0.103.0.VOJCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_rodin_rodin-ota_full-OS2.0.103.0.VOJCNXM-user-15.0-7e30f0941c.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">01ebf90d21a559d832a55a35c17e7fc2</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f9b2850f1c5e3f213b7af0c673850e9e</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

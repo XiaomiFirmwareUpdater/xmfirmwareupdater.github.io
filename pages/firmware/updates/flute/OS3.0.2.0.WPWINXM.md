@@ -54,7 +54,7 @@ permalink: /firmware/flute/stable/OS3.0.2.0.WPWINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>48.8 MB</h5>
+                    <h5><b>Size: </b>48.7 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-03-04</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/flute/stable/OS3.0.2.0.WPWINXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_flute_flute_in_global-ota_full-OS3.0.2.0.WPWINXM-user-16.0-f5cdf19e1a.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">8aebd64825525bf630567055b76a9941</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6e2b6e05bc6f60788e41fed228a56fa9</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

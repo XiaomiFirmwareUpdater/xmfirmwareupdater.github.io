@@ -54,7 +54,7 @@ permalink: /firmware/rothko/stable/OS2.0.225.0.WNNMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>86.8 MB</h5>
+                    <h5><b>Size: </b>86.6 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-11-28</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/rothko/stable/OS2.0.225.0.WNNMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_rothko_rothko_global-ota_full-OS2.0.225.0.WNNMIXM-user-16.0-a5ba71859d.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">5ff50070fa80cf516ad845c8870ee574</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f318b366df881eb344bdf472d923c3ef</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

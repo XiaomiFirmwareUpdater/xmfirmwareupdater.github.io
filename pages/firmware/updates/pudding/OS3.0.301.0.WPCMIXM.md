@@ -54,7 +54,7 @@ permalink: /firmware/pudding/stable/OS3.0.301.0.WPCMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>222.5 MB</h5>
+                    <h5><b>Size: </b>211.4 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-04-13</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/pudding/stable/OS3.0.301.0.WPCMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_pudding_pudding_global-ota_full-OS3.0.301.0.WPCMIXM-user-16.0-3df229a030.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">de4c7a9f587d5d9d6e64f331ec790a10</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">d05b5d9d90876f60eb5a0d6fa714c64b</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

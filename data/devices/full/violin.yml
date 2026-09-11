@@ -1,5 +1,5 @@
 - branch: stable
-  date: '2026-03-31'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violin/releases/download/stable-31.03.2026/fw_violin_violin-ota_full-OS3.0.302.0.WOTCNXM-user-16.0-979a341f65.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/violin/fw_violin_violin-ota_full-OS3.0.302.0.WOTCNXM-user-16.0-979a341f65.zip
@@ -9,7 +9,7 @@
     android: '16.0'
     miui: OS3.0.302.0.WOTCNXM
 - branch: stable
-  date: '2025-10-28'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violin/releases/download/stable-28.10.2025/fw_violin_violin-ota_full-OS3.0.6.0.WOTCNXM-user-16.0-c9a2a55dc0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/violin/fw_violin_violin-ota_full-OS3.0.6.0.WOTCNXM-user-16.0-c9a2a55dc0.zip
@@ -19,7 +19,7 @@
     android: '16.0'
     miui: OS3.0.6.0.WOTCNXM
 - branch: stable
-  date: '2025-08-27'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violin/releases/download/stable-27.08.2025/fw_violin_violin-ota_full-OS2.0.214.0.VOTCNXM-user-15.0-8dbd7d9ead.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/violin/fw_violin_violin-ota_full-OS2.0.214.0.VOTCNXM-user-15.0-8dbd7d9ead.zip
@@ -29,7 +29,7 @@
     android: '15.0'
     miui: OS2.0.214.0.VOTCNXM
 - branch: stable
-  date: '2025-07-26'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violin/releases/download/stable-27.07.2025/fw_violin_violin-ota_full-OS2.0.213.0.VOTCNXM-user-15.0-b064ffc7d8.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/violin/fw_violin_violin-ota_full-OS2.0.213.0.VOTCNXM-user-15.0-b064ffc7d8.zip
@@ -39,7 +39,7 @@
     android: '15.0'
     miui: OS2.0.213.0.VOTCNXM
 - branch: stable
-  date: '2025-06-27'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violin/releases/download/stable-27.06.2025/fw_violin_violin-ota_full-OS2.0.208.0.VOTCNXM-user-15.0-2fdf4996f7.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/violin/fw_violin_violin-ota_full-OS2.0.208.0.VOTCNXM-user-15.0-2fdf4996f7.zip
@@ -49,7 +49,7 @@
     android: '15.0'
     miui: OS2.0.208.0.VOTCNXM
 - branch: stable
-  date: '2026-08-25'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violin/releases/download/stable-25.08.2026/fw_violin_violin-ota_full-OS3.0.304.0.WOTCNXM-user-16.0-a2a26ab29c.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/violin/fw_violin_violin-ota_full-OS3.0.304.0.WOTCNXM-user-16.0-a2a26ab29c.zip
@@ -59,7 +59,7 @@
     android: '16.0'
     miui: OS3.0.304.0.WOTCNXM
 - branch: stable
-  date: '2026-05-15'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violin/releases/download/stable-15.05.2026/fw_violin_violin-ota_full-OS3.0.303.0.WOTCNXM-user-16.0-9a8ce5da78.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/violin/fw_violin_violin-ota_full-OS3.0.303.0.WOTCNXM-user-16.0-9a8ce5da78.zip
@@ -69,7 +69,7 @@
     android: '16.0'
     miui: OS3.0.303.0.WOTCNXM
 - branch: stable
-  date: '2026-02-10'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violin/releases/download/stable-10.02.2026/fw_violin_violin-ota_full-OS3.0.10.0.WOTCNXM-user-16.0-786c3a0c26.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/violin/fw_violin_violin-ota_full-OS3.0.10.0.WOTCNXM-user-16.0-786c3a0c26.zip
@@ -79,7 +79,7 @@
     android: '16.0'
     miui: OS3.0.10.0.WOTCNXM
 - branch: stable
-  date: '2026-01-07'
+  date: '2026-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violin/releases/download/stable-08.01.2026/fw_violin_violin-ota_full-OS3.0.8.0.WOTCNXM-user-16.0-e613fe01ed.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/violin/fw_violin_violin-ota_full-OS3.0.8.0.WOTCNXM-user-16.0-e613fe01ed.zip

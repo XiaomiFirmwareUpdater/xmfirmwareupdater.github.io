@@ -54,7 +54,7 @@ permalink: /firmware/rothko/stable/OS1.0.8.0.UNNMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>81.6 MB</h5>
+                    <h5><b>Size: </b>81.4 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-11-02</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/rothko/stable/OS1.0.8.0.UNNMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_rothko_miui_ROTHKOGlobal_OS1.0.8.0.UNNMIXM_b2186be214_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">f9847e33fdd14948f1240c138292f638</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ec1e82ccb8f4aec58bf07d11faa32506</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

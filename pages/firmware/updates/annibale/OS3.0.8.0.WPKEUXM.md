@@ -54,7 +54,7 @@ permalink: /firmware/annibale/stable/OS3.0.8.0.WPKEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>227.1 MB</h5>
+                    <h5><b>Size: </b>222.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-02-24</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/annibale/stable/OS3.0.8.0.WPKEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_annibale_annibale_eea_global-ota_full-OS3.0.8.0.WPKEUXM-user-16.0-34baa886b5.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">ed45639d626861367ead94262857092c</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">d9802cc00ba6a3a3bae62c08a4e3796a</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

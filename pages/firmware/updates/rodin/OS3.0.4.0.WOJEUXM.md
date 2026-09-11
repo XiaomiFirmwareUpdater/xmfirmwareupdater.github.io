@@ -54,7 +54,7 @@ permalink: /firmware/rodin/stable/OS3.0.4.0.WOJEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>64.4 MB</h5>
+                    <h5><b>Size: </b>64.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-01-10</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/rodin/stable/OS3.0.4.0.WOJEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_rodin_rodin_eea_global-ota_full-OS3.0.4.0.WOJEUXM-user-16.0-c62b9a36ba.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">fb98787600cbf7ba952e5379843dcba7</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">1185582f7cdcc8958f1ed2980c6c0606</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

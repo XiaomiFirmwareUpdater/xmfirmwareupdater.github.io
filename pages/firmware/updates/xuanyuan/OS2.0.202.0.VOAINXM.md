@@ -54,7 +54,7 @@ permalink: /firmware/xuanyuan/stable/OS2.0.202.0.VOAINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>192.4 MB</h5>
+                    <h5><b>Size: </b>187.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-07-07</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/xuanyuan/stable/OS2.0.202.0.VOAINXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_xuanyuan_in_global_xuanyuan_in_global-ota_full-OS2.0.202.0.VOAINXM-user-15.0-5d1e293122.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">86dfcaffd00956ee9314c9320069e097</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">b4b91023daea3f08fe078eccb0170e12</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

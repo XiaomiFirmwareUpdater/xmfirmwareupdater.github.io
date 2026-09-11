@@ -54,7 +54,7 @@ permalink: /firmware/houji/stable/OS2.0.204.0.VNCMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>175.5 MB</h5>
+                    <h5><b>Size: </b>170.6 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-10-01</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/houji/stable/OS2.0.204.0.VNCMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_houji_global_houji_global-ota_full-OS2.0.204.0.VNCMIXM-user-15.0-92598154a2.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">0fabfacc7c5bb7c2dbacf0623110b7a0</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">22b2e8b72c2cae8277abe9a21c8c0709</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

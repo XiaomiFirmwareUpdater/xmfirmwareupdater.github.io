@@ -54,7 +54,7 @@ permalink: /firmware/manet/stable/OS1.0.9.0.UNMCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>175.6 MB</h5>
+                    <h5><b>Size: </b>170.9 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-01-12</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/manet/stable/OS1.0.9.0.UNMCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_manet_miui_MANET_OS1.0.9.0.UNMCNXM_4a4df85ffb_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">6f4d67f253741ae6424f9c16fe29b950</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">cdd369886a2629f7c8a7511b302330a7</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

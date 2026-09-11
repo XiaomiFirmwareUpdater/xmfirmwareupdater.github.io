@@ -54,7 +54,7 @@ permalink: /firmware/zorn/stable/OS3.0.4.0.WOKEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>191.7 MB</h5>
+                    <h5><b>Size: </b>187.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-03-06</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/zorn/stable/OS3.0.4.0.WOKEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_zorn_zorn_eea_global-ota_full-OS3.0.4.0.WOKEUXM-user-16.0-0772eff30c.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">35af567a0285aa5ddd4c9179e56cbff8</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">e5df053df58b2c2f586563a2217b88a9</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

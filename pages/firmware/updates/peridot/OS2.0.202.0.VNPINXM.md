@@ -54,7 +54,7 @@ permalink: /firmware/peridot/stable/OS2.0.202.0.VNPINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>171.6 MB</h5>
+                    <h5><b>Size: </b>171.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-09-03</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/peridot/stable/OS2.0.202.0.VNPINXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_peridot_in_global_peridot_in_global-ota_full-OS2.0.202.0.VNPINXM-user-15.0-c132d6d0d3.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">b2e844afba68603573c6cd11de313f60</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">2a0f8ce7d7de4bf595e3faf34f9907b4</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

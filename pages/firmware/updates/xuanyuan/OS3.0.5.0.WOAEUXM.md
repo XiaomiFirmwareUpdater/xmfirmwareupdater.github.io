@@ -54,7 +54,7 @@ permalink: /firmware/xuanyuan/stable/OS3.0.5.0.WOAEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>218.0 MB</h5>
+                    <h5><b>Size: </b>213.0 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-12-29</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/xuanyuan/stable/OS3.0.5.0.WOAEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_xuanyuan_xuanyuan_eea_global-ota_full-OS3.0.5.0.WOAEUXM-user-16.0-2d97b931d4.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">ad06549128608f8becb4fcf228e43a1e</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ce0ab1d5da956cafffbd55d04266816c</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

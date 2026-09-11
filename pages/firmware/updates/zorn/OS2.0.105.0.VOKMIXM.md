@@ -54,7 +54,7 @@ permalink: /firmware/zorn/stable/OS2.0.105.0.VOKMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>191.5 MB</h5>
+                    <h5><b>Size: </b>186.9 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-05-23</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/zorn/stable/OS2.0.105.0.VOKMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_zorn_global_zorn_global-ota_full-OS2.0.105.0.VOKMIXM-user-15.0-6dd5e0ed6d.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">2cbe59899b19b576ddcd5241fed2bc0a</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">c9c2bec276b28f28bcf4119e9be2dd04</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

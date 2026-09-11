@@ -54,7 +54,7 @@ permalink: /firmware/dali/stable/OS2.0.218.0.VONCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>72.4 MB</h5>
+                    <h5><b>Size: </b>72.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-08-28</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/dali/stable/OS2.0.218.0.VONCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_dali_dali-ota_full-OS2.0.218.0.VONCNXM-user-15.0-f26ec67f7e.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">dc308a330d0ef6fe732857a91988497f</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f3431cf5735bd794ffeaade4e96c90a1</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

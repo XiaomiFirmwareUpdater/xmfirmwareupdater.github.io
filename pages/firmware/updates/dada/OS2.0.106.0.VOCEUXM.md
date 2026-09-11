@@ -54,7 +54,7 @@ permalink: /firmware/dada/stable/OS2.0.106.0.VOCEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>196.5 MB</h5>
+                    <h5><b>Size: </b>191.4 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-03-24</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/dada/stable/OS2.0.106.0.VOCEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_dada_eea_global_dada_eea_global-ota_full-OS2.0.106.0.VOCEUXM-user-15.0-6feaa136cd.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">f7e8434c010db7fe420b6562fbfe299f</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">0d93e30b543cc85af68b611042e9e73f</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

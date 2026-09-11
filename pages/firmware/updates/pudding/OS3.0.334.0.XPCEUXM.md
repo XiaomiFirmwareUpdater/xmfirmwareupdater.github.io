@@ -54,7 +54,7 @@ permalink: /firmware/pudding/stable/OS3.0.334.0.XPCEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>242.5 MB</h5>
+                    <h5><b>Size: </b>231.7 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-09-04</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/pudding/stable/OS3.0.334.0.XPCEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_pudding_pudding_eea_global-ota_full-OS3.0.334.0.XPCEUXM-user-17.0-d0e0d94fe8.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">b7fa2758193233d44956927a195ab9b0</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ab64270a6a03515a7acc9a47941c00d4</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

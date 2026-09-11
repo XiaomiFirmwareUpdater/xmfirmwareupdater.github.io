@@ -54,7 +54,7 @@ permalink: /firmware/houji/stable/OS1.0.9.0.UNCCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>176.0 MB</h5>
+                    <h5><b>Size: </b>171.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2023-10-29</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/houji/stable/OS1.0.9.0.UNCCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_houji_miui_HOUJI_OS1.0.9.0.UNCCNXM_e5644d702d_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">b36c5bc2ebdb17e871fdf446ee8186cf</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">3474679749ad6314f973b62af7f9ea08</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

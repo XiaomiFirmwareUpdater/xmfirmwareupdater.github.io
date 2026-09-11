@@ -54,7 +54,7 @@ permalink: /firmware/onyx/stable/OS2.0.102.0.VOLINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>180.5 MB</h5>
+                    <h5><b>Size: </b>175.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-08-08</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/onyx/stable/OS2.0.102.0.VOLINXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_onyx_in_global_onyx_in_global-ota_full-OS2.0.102.0.VOLINXM-user-15.0-8effe527c0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">82c799c1c08e34d434115f1914203730</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">96af3200e71ac25d18d567424aa435b1</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

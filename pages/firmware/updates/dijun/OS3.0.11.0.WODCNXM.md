@@ -54,7 +54,7 @@ permalink: /firmware/dijun/stable/OS3.0.11.0.WODCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>96.2 MB</h5>
+                    <h5><b>Size: </b>96.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-02-26</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/dijun/stable/OS3.0.11.0.WODCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_dijun_dijun-ota_full-OS3.0.11.0.WODCNXM-user-16.0-95138b7852.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">00794647d25015c08ef4b6426ab8e040</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">4790058db115fcc7e5033bdfa5cc63ee</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

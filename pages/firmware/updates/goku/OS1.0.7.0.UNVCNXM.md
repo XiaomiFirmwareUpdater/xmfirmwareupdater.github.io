@@ -54,7 +54,7 @@ permalink: /firmware/goku/stable/OS1.0.7.0.UNVCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>180.5 MB</h5>
+                    <h5><b>Size: </b>175.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-07-19</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/goku/stable/OS1.0.7.0.UNVCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_goku_miui_GOKU_OS1.0.7.0.UNVCNXM_72a459b259_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">3a8b1327b251598db8b28008a9f9fde3</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">995c5e83c0afc892f83eb7725519f307</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

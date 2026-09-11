@@ -54,7 +54,7 @@ permalink: /firmware/organ/stable/OS2.0.203.0.VPXEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>112.3 MB</h5>
+                    <h5><b>Size: </b>112.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-10-20</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/organ/stable/OS2.0.203.0.VPXEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_organ_organ_eea_global-ota_full-OS2.0.203.0.VPXEUXM-user-15.0-8db5dd42e4.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c46243b3340e2d3bf1ad8d94fb471e9f</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">353f329073a47eeef163003db1f5002b</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

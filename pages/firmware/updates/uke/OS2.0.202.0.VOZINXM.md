@@ -54,7 +54,7 @@ permalink: /firmware/uke/stable/OS2.0.202.0.VOZINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>100.2 MB</h5>
+                    <h5><b>Size: </b>100.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-10-28</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/uke/stable/OS2.0.202.0.VOZINXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_uke_uke_in_global-ota_full-OS2.0.202.0.VOZINXM-user-15.0-ba79e9ea0b.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">f318f1445e3c6df2cb5eb4ebbc778986</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">5671249c700df1af04dcd05de000b265</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

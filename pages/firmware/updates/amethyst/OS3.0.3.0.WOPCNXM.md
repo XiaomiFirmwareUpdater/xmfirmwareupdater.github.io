@@ -54,7 +54,7 @@ permalink: /firmware/amethyst/stable/OS3.0.3.0.WOPCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>117.8 MB</h5>
+                    <h5><b>Size: </b>117.7 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-12-28</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/amethyst/stable/OS3.0.3.0.WOPCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_amethyst_amethyst-ota_full-OS3.0.3.0.WOPCNXM-user-16.0-ff6100a607.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">7f4325d89ddc2247c4f21ef0a2b66126</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">b1abec8bdb0bddade62bffef0527fe80</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

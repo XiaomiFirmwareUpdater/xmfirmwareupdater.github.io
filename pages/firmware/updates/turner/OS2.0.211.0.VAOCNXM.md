@@ -54,7 +54,7 @@ permalink: /firmware/turner/stable/OS2.0.211.0.VAOCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>26.8 MB</h5>
+                    <h5><b>Size: </b>26.7 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-06-30</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/turner/stable/OS2.0.211.0.VAOCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_turner_turner-ota_full-OS2.0.211.0.VAOCNXM-user-15.0-6e2c8b7f5f.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">803d1f9bb8ad0bac6bf8497603c348d4</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">9f75e1b28c23cba628005bc1cea2ef56</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

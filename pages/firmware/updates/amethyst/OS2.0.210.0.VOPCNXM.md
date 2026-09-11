@@ -54,7 +54,7 @@ permalink: /firmware/amethyst/stable/OS2.0.210.0.VOPCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>117.6 MB</h5>
+                    <h5><b>Size: </b>117.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-10-26</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/amethyst/stable/OS2.0.210.0.VOPCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_amethyst_amethyst-ota_full-OS2.0.210.0.VOPCNXM-user-15.0-19d532127d.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">8c80d1c4563b20a368eafad00acb6779</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">4cce7e4ea724c614ca3586b5780ef252</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -54,7 +54,7 @@ permalink: /firmware/dada/stable/OS3.0.302.0.WOCMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>230.1 MB</h5>
+                    <h5><b>Size: </b>225.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-08-24</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/dada/stable/OS3.0.302.0.WOCMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_dada_dada_global-ota_full-OS3.0.302.0.WOCMIXM-user-16.0-6920d7f9f4.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">55b80fb5855bd94959b1ef14513bc51e</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f24b3bc2e4164ca06def450d7fc35dc3</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

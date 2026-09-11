@@ -54,7 +54,7 @@ permalink: /firmware/nezha/stable/OS3.0.301.0.WPAMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>230.5 MB</h5>
+                    <h5><b>Size: </b>219.4 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-04-10</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/nezha/stable/OS3.0.301.0.WPAMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_nezha_nezha_global-ota_full-OS3.0.301.0.WPAMIXM-user-16.0-3e5c97ae84.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">37540663706f7816b511ec7a5a54627d</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f7196d755131ac6d6af8156478ad65ad</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

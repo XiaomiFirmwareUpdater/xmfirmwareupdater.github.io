@@ -54,7 +54,7 @@ permalink: /firmware/dali/stable/OS3.0.305.0.WONCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>72.5 MB</h5>
+                    <h5><b>Size: </b>72.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-08-24</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/dali/stable/OS3.0.305.0.WONCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_dali_dali-ota_full-OS3.0.305.0.WONCNXM-user-16.0-3298197d54.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">56fd09d22c0a559b31c85fdd78999b1e</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">54340db2607076dac226f4185e1b4328</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

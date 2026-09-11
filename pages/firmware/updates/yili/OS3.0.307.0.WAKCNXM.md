@@ -54,7 +54,7 @@ permalink: /firmware/yili/stable/OS3.0.307.0.WAKCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>27.0 MB</h5>
+                    <h5><b>Size: </b>26.9 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-06-22</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/yili/stable/OS3.0.307.0.WAKCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_yili_yili-ota_full-OS3.0.307.0.WAKCNXM-user-16.0-463178ed69.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">3c41dd5927554cfd03f06008ef69f3d8</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">7d9df314979f1917531bad245740cd7f</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

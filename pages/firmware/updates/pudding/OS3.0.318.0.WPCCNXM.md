@@ -54,7 +54,7 @@ permalink: /firmware/pudding/stable/OS3.0.318.0.WPCCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>222.4 MB</h5>
+                    <h5><b>Size: </b>211.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-08-25</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/pudding/stable/OS3.0.318.0.WPCCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_pudding_pudding-ota_full-OS3.0.318.0.WPCCNXM-user-16.0-d8067aea90.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">ada1d5f120647a809058c504ecc1a423</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">3562b0c9ea519255aa5ea70a97c8b7e7</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

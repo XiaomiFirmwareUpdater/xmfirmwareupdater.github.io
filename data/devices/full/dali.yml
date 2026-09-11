@@ -1,5 +1,5 @@
 - branch: stable
-  date: '2026-06-30'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dali/releases/download/stable-30.06.2026/fw_dali_dali-ota_full-OS3.0.303.0.WONCNXM-user-16.0-b0046d97b1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dali/fw_dali_dali-ota_full-OS3.0.303.0.WONCNXM-user-16.0-b0046d97b1.zip
@@ -9,7 +9,7 @@
     android: '16.0'
     miui: OS3.0.303.0.WONCNXM
 - branch: stable
-  date: '2025-12-29'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dali/releases/download/stable-29.12.2025/fw_dali_dali-ota_full-OS3.0.5.0.WONCNXM-user-16.0-7d8ae41634.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dali/fw_dali_dali-ota_full-OS3.0.5.0.WONCNXM-user-16.0-7d8ae41634.zip
@@ -19,7 +19,7 @@
     android: '16.0'
     miui: OS3.0.5.0.WONCNXM
 - branch: stable
-  date: '2025-09-28'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dali/releases/download/stable-28.09.2025/fw_dali_dali-ota_full-OS2.0.220.0.VONCNXM-user-15.0-ce1b8c3ab4.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dali/fw_dali_dali-ota_full-OS2.0.220.0.VONCNXM-user-15.0-ce1b8c3ab4.zip
@@ -29,7 +29,7 @@
     android: '15.0'
     miui: OS2.0.220.0.VONCNXM
 - branch: stable
-  date: '2025-08-28'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dali/releases/download/stable-28.08.2025/fw_dali_dali-ota_full-OS2.0.218.0.VONCNXM-user-15.0-f26ec67f7e.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dali/fw_dali_dali-ota_full-OS2.0.218.0.VONCNXM-user-15.0-f26ec67f7e.zip
@@ -39,7 +39,7 @@
     android: '15.0'
     miui: OS2.0.218.0.VONCNXM
 - branch: stable
-  date: '2025-11-27'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dali/releases/download/stable-27.11.2025/fw_dali_dali-ota_full-OS3.0.4.0.WONCNXM-user-16.0-c9a624f36e.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dali/fw_dali_dali-ota_full-OS3.0.4.0.WONCNXM-user-16.0-c9a624f36e.zip
@@ -49,7 +49,7 @@
     android: '16.0'
     miui: OS3.0.4.0.WONCNXM
 - branch: stable
-  date: '2025-06-26'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dali/releases/download/stable-26.06.2025/fw_dali_dali-ota_full-OS2.0.210.0.VONCNXM-user-15.0-b059d1e9e4.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dali/fw_dali_dali-ota_full-OS2.0.210.0.VONCNXM-user-15.0-b059d1e9e4.zip
@@ -59,7 +59,7 @@
     android: '15.0'
     miui: OS2.0.210.0.VONCNXM
 - branch: stable
-  date: '2026-02-26'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dali/releases/download/stable-26.02.2026/fw_dali_dali-ota_full-OS3.0.9.0.WONCNXM-user-16.0-a32c7ff19c.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dali/fw_dali_dali-ota_full-OS3.0.9.0.WONCNXM-user-16.0-a32c7ff19c.zip
@@ -69,7 +69,7 @@
     android: '16.0'
     miui: OS3.0.9.0.WONCNXM
 - branch: stable
-  date: '2025-07-25'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dali/releases/download/stable-25.07.2025/fw_dali_dali-ota_full-OS2.0.214.0.VONCNXM-user-15.0-ab1be72000.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dali/fw_dali_dali-ota_full-OS2.0.214.0.VONCNXM-user-15.0-ab1be72000.zip
@@ -79,7 +79,7 @@
     android: '15.0'
     miui: OS2.0.214.0.VONCNXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dali/releases/download/stable-24.08.2026/fw_dali_dali-ota_full-OS3.0.305.0.WONCNXM-user-16.0-3298197d54.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dali/fw_dali_dali-ota_full-OS3.0.305.0.WONCNXM-user-16.0-3298197d54.zip
@@ -89,7 +89,7 @@
     android: '16.0'
     miui: OS3.0.305.0.WONCNXM
 - branch: stable
-  date: '2026-01-06'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dali/releases/download/stable-06.01.2026/fw_dali_dali-ota_full-OS3.0.7.0.WONCNXM-user-16.0-a725b61af0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dali/fw_dali_dali-ota_full-OS3.0.7.0.WONCNXM-user-16.0-a725b61af0.zip
@@ -99,7 +99,7 @@
     android: '16.0'
     miui: OS3.0.7.0.WONCNXM
 - branch: stable
-  date: '2025-08-05'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dali/releases/download/stable-05.08.2025/fw_dali_dali-ota_full-OS2.0.215.0.VONCNXM-user-15.0-9f97adbf9a.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/dali/fw_dali_dali-ota_full-OS2.0.215.0.VONCNXM-user-15.0-9f97adbf9a.zip
@@ -109,7 +109,7 @@
     android: '15.0'
     miui: OS2.0.215.0.VONCNXM
 - branch: stable
-  date: '2026-06-05'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dali/releases/download/stable-05.06.2026/fw_dali_dali-ota_full-OS3.0.302.0.WONCNXM-user-16.0-321a23b14e.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dali/fw_dali_dali-ota_full-OS3.0.302.0.WONCNXM-user-16.0-321a23b14e.zip
@@ -119,7 +119,7 @@
     android: '16.0'
     miui: OS3.0.302.0.WONCNXM
 - branch: stable
-  date: '2026-04-02'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dali/releases/download/stable-03.04.2026/fw_dali_dali-ota_full-OS3.0.301.0.WONCNXM-user-16.0-6a71af98ec.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dali/fw_dali_dali-ota_full-OS3.0.301.0.WONCNXM-user-16.0-6a71af98ec.zip

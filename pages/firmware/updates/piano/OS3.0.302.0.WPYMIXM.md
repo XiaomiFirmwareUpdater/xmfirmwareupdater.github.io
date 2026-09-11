@@ -54,7 +54,7 @@ permalink: /firmware/piano/stable/OS3.0.302.0.WPYMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>126.1 MB</h5>
+                    <h5><b>Size: </b>121.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-04-17</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/piano/stable/OS3.0.302.0.WPYMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_piano_piano_global-ota_full-OS3.0.302.0.WPYMIXM-user-16.0-490a8c89e9.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">3950aeda234aee9d1452622c172759bd</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">349caa4f17ff5e509a3cd08def6e6104</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

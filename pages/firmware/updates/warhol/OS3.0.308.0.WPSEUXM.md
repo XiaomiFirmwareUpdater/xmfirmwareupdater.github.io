@@ -54,7 +54,7 @@ permalink: /firmware/warhol/stable/OS3.0.308.0.WPSEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>89.7 MB</h5>
+                    <h5><b>Size: </b>89.6 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-06-02</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/warhol/stable/OS3.0.308.0.WPSEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_warhol_warhol_eea_global-ota_full-OS3.0.308.0.WPSEUXM-user-16.0-10ed3675ba.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">e141223ce860b04a9ce128208bfa539c</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">9c727fe4655a6e54c3f30602a747d3c4</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

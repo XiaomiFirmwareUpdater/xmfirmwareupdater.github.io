@@ -54,7 +54,7 @@ permalink: /firmware/bixi/stable/OS3.0.4.0.WOHCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>211.3 MB</h5>
+                    <h5><b>Size: </b>206.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-01-26</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/bixi/stable/OS3.0.4.0.WOHCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_bixi_bixi-ota_full-OS3.0.4.0.WOHCNXM-user-16.0-c22cfd41db.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c7cc98cf5fd4d4f38d9963e340bfc1a0</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6397ac2fc19fc274c38e83aa7415d72c</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

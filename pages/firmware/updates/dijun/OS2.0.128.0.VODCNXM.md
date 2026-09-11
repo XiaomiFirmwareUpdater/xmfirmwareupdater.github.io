@@ -54,7 +54,7 @@ permalink: /firmware/dijun/stable/OS2.0.128.0.VODCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>95.3 MB</h5>
+                    <h5><b>Size: </b>95.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-06-09</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/dijun/stable/OS2.0.128.0.VODCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_dijun_dijun-ota_full-OS2.0.128.0.VODCNXM-user-15.0-f3d2fad6af.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">e9962fd83a57f4c75cee990097f7e6e7</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">7f00568ebf58c569902a89ce9d7a9df3</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

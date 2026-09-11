@@ -54,7 +54,7 @@ permalink: /firmware/klee/stable/OS3.0.301.0.WPJCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>69.7 MB</h5>
+                    <h5><b>Size: </b>69.6 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-03-16</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/klee/stable/OS3.0.301.0.WPJCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_klee_klee-ota_full-OS3.0.301.0.WPJCNXM-user-16.0-fb2ad314e8.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">01272a18ef33ffe48b33b1780b27b334</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">7b5efcb4a3300bdc3c299e23b6edf4c1</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

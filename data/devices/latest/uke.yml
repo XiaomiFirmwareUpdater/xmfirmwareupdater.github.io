@@ -1,40 +1,40 @@
 - branch: stable
-  date: '2026-08-25'
+  date: '2026-09-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-25.08.2026/fw_uke_uke_global-ota_full-OS3.0.303.0.WOZMIXM-user-16.0-67617e1f57.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/uke/fw_uke_uke_global-ota_full-OS3.0.303.0.WOZMIXM-user-16.0-67617e1f57.zip
-  filename: fw_uke_uke_global-ota_full-OS3.0.303.0.WOZMIXM-user-16.0-67617e1f57.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-30.10.2025/fw_uke_uke_global-ota_full-OS2.0.204.0.VOZMIXM-user-15.0-cc50cb1c91.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/uke/fw_uke_uke_global-ota_full-OS2.0.204.0.VOZMIXM-user-15.0-cc50cb1c91.zip
+  filename: fw_uke_uke_global-ota_full-OS2.0.204.0.VOZMIXM-user-15.0-cc50cb1c91.zip
   region: Global
   versions:
-    android: '16.0'
-    miui: OS3.0.303.0.WOZMIXM
+    android: '15.0'
+    miui: OS2.0.204.0.VOZMIXM
 - branch: stable
-  date: '2026-06-22'
+  date: '2026-09-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-22.06.2026/fw_uke_uke-ota_full-OS3.0.302.0.WOZCNXM-user-16.0-d8973af359.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/uke/fw_uke_uke-ota_full-OS3.0.302.0.WOZCNXM-user-16.0-d8973af359.zip
-  filename: fw_uke_uke-ota_full-OS3.0.302.0.WOZCNXM-user-16.0-d8973af359.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-30.10.2024/fw_uke_uke-ota_full-OS2.0.7.0.VOZCNXM-user-15.0-febddd1fcd.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/uke/fw_uke_uke-ota_full-OS2.0.7.0.VOZCNXM-user-15.0-febddd1fcd.zip
+  filename: fw_uke_uke-ota_full-OS2.0.7.0.VOZCNXM-user-15.0-febddd1fcd.zip
   region: China
   versions:
-    android: '16.0'
-    miui: OS3.0.302.0.WOZCNXM
+    android: '15.0'
+    miui: OS2.0.7.0.VOZCNXM
 - branch: stable
-  date: '2026-08-25'
+  date: '2026-09-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-25.08.2026/fw_uke_uke_eea_global-ota_full-OS3.0.303.0.WOZEUXM-user-16.0-14bc5719ac.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/uke/fw_uke_uke_eea_global-ota_full-OS3.0.303.0.WOZEUXM-user-16.0-14bc5719ac.zip
-  filename: fw_uke_uke_eea_global-ota_full-OS3.0.303.0.WOZEUXM-user-16.0-14bc5719ac.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-28.10.2025/fw_uke_uke_eea_global-ota_full-OS2.0.204.0.VOZEUXM-user-15.0-bf1cd286e2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/uke/fw_uke_uke_eea_global-ota_full-OS2.0.204.0.VOZEUXM-user-15.0-bf1cd286e2.zip
+  filename: fw_uke_uke_eea_global-ota_full-OS2.0.204.0.VOZEUXM-user-15.0-bf1cd286e2.zip
   region: Europe
   versions:
-    android: '16.0'
-    miui: OS3.0.303.0.WOZEUXM
+    android: '15.0'
+    miui: OS2.0.204.0.VOZEUXM
 - branch: stable
-  date: '2026-08-25'
+  date: '2026-09-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-25.08.2026/fw_uke_uke_in_global-ota_full-OS3.0.304.0.WOZINXM-user-16.0-283122b56c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/uke/fw_uke_uke_in_global-ota_full-OS3.0.304.0.WOZINXM-user-16.0-283122b56c.zip
-  filename: fw_uke_uke_in_global-ota_full-OS3.0.304.0.WOZINXM-user-16.0-283122b56c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-30.11.2025/fw_uke_uke_in_global-ota_full-OS2.0.203.0.VOZINXM-user-15.0-88b8822786.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/uke/fw_uke_uke_in_global-ota_full-OS2.0.203.0.VOZINXM-user-15.0-88b8822786.zip
+  filename: fw_uke_uke_in_global-ota_full-OS2.0.203.0.VOZINXM-user-15.0-88b8822786.zip
   region: India
   versions:
-    android: '16.0'
-    miui: OS3.0.304.0.WOZINXM
+    android: '15.0'
+    miui: OS2.0.203.0.VOZINXM

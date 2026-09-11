@@ -54,7 +54,7 @@ permalink: /firmware/yupei/stable/OS3.0.7.0.WPZCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>84.8 MB</h5>
+                    <h5><b>Size: </b>79.8 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-10-22</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/yupei/stable/OS3.0.7.0.WPZCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_yupei_yupei-ota_full-OS3.0.7.0.WPZCNXM-user-16.0-1317db49b9.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">3f53a0cbd3a8e4c9fd9f294165d3d1af</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">a92122d4d3a15b5e8ade3251e1900753</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

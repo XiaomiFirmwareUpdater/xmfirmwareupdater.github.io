@@ -52,7 +52,9 @@ permalink: /archive/hyperos/brussels/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 17 Pro Max 5G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WDRMIXM</td><td>16.0</td><td>6.1 GB</td><td>2026-09-01</td><td><a href="/hyperos/brussels/stable/OS3.0.306.0.WDRMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 17 Pro Max 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WDRTWXM</td><td>16.0</td><td>5.8 GB</td><td>2026-09-06</td><td><a href="/hyperos/brussels/stable/OS3.0.304.0.WDRTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 17 Pro Max 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WDRTWXM</td><td>16.0</td><td>6.8 GB</td><td>2026-08-28</td><td><a href="/hyperos/brussels/stable/OS3.0.304.0.WDRTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 17 Pro Max 5G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WDRMIXM</td><td>16.0</td><td>6.1 GB</td><td>2026-09-01</td><td><a href="/hyperos/brussels/stable/OS3.0.306.0.WDRMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 Pro Max 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.306.0.WDRMIXM</td><td>16.0</td><td>9.7 GB</td><td>2026-08-29</td><td><a href="/hyperos/brussels/stable/OS3.0.306.0.WDRMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 Pro Max 5G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WDRMIXM</td><td>16.0</td><td>6.1 GB</td><td>2026-08-27</td><td><a href="/hyperos/brussels/stable/OS3.0.303.0.WDRMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 Pro Max 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WDRMIXM</td><td>16.0</td><td>9.7 GB</td><td>2026-08-19</td><td><a href="/hyperos/brussels/stable/OS3.0.303.0.WDRMIXM/">Download</a></td></tr>

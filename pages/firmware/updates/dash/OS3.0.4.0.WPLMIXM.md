@@ -54,7 +54,7 @@ permalink: /firmware/dash/stable/OS3.0.4.0.WPLMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>83.5 MB</h5>
+                    <h5><b>Size: </b>83.4 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-04-27</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/dash/stable/OS3.0.4.0.WPLMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_dash_dash_global-ota_full-OS3.0.4.0.WPLMIXM-user-16.0-53ba3277d7.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">f43aec420cd35ef180a54f6c711ad48c</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">d753310ed2191c4c13d678108d7ea957</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

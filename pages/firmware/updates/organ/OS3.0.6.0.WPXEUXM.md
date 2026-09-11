@@ -54,7 +54,7 @@ permalink: /firmware/organ/stable/OS3.0.6.0.WPXEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>112.4 MB</h5>
+                    <h5><b>Size: </b>112.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-05-11</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/organ/stable/OS3.0.6.0.WPXEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_organ_organ_eea_global-ota_full-OS3.0.6.0.WPXEUXM-user-16.0-84e01b3cab.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">d41dd132f9cfaf224f1b04700072b89c</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ce36e1d0a6b66f3b8ec4f978f6c33be3</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

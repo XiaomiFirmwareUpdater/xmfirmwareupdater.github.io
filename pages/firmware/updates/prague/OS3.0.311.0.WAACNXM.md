@@ -54,7 +54,7 @@ permalink: /firmware/prague/stable/OS3.0.311.0.WAACNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>101.1 MB</h5>
+                    <h5><b>Size: </b>100.9 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-06-05</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/prague/stable/OS3.0.311.0.WAACNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_prague_prague-ota_full-OS3.0.311.0.WAACNXM-user-16.0-768b50adb7.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">d9b1c285745771e971192c335b515161</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">7a54fbb979819c4fe6215015f308c828</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

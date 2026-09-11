@@ -1,30 +1,30 @@
 - branch: stable
-  date: '2026-06-01'
+  date: '2026-09-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-02.06.2026/fw_rothko_rothko_global-ota_full-OS3.0.5.0.WNNMIXM-user-16.0-2c4bd6f989.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rothko/fw_rothko_rothko_global-ota_full-OS3.0.5.0.WNNMIXM-user-16.0-2c4bd6f989.zip
-  filename: fw_rothko_rothko_global-ota_full-OS3.0.5.0.WNNMIXM-user-16.0-2c4bd6f989.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-30.09.2024/fw_rothko_miui_ROTHKOGlobal_OS1.0.7.0.UNNMIXM_ac6412c5d7_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/rothko/fw_rothko_miui_ROTHKOGlobal_OS1.0.7.0.UNNMIXM_ac6412c5d7_14.0.zip
+  filename: fw_rothko_miui_ROTHKOGlobal_OS1.0.7.0.UNNMIXM_ac6412c5d7_14.0.zip
   region: Global
   versions:
-    android: '16.0'
-    miui: OS3.0.5.0.WNNMIXM
+    android: '14.0'
+    miui: OS1.0.7.0.UNNMIXM
 - branch: stable
-  date: '2026-08-25'
+  date: '2026-09-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-25.08.2026/fw_rothko_rothko-ota_full-OS3.0.307.0.WNNCNXM-user-16.0-ceef1a27f6.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rothko/fw_rothko_rothko-ota_full-OS3.0.307.0.WNNCNXM-user-16.0-ceef1a27f6.zip
-  filename: fw_rothko_rothko-ota_full-OS3.0.307.0.WNNCNXM-user-16.0-ceef1a27f6.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-30.04.2026/fw_rothko_rothko-ota_full-OS3.0.302.0.WNNCNXM-user-16.0-56ae86ce5e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rothko/fw_rothko_rothko-ota_full-OS3.0.302.0.WNNCNXM-user-16.0-56ae86ce5e.zip
+  filename: fw_rothko_rothko-ota_full-OS3.0.302.0.WNNCNXM-user-16.0-56ae86ce5e.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.307.0.WNNCNXM
+    miui: OS3.0.302.0.WNNCNXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-25.08.2026/fw_rothko_rothko_eea_global-ota_full-OS3.0.302.0.WNNEUXM-user-16.0-3b80e2db63.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rothko/fw_rothko_rothko_eea_global-ota_full-OS3.0.302.0.WNNEUXM-user-16.0-3b80e2db63.zip
-  filename: fw_rothko_rothko_eea_global-ota_full-OS3.0.302.0.WNNEUXM-user-16.0-3b80e2db63.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-31.12.2024/fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.12.0.VNNEUXM-user-15.0-9e98b72019.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rothko/fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.12.0.VNNEUXM-user-15.0-9e98b72019.zip
+  filename: fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.12.0.VNNEUXM-user-15.0-9e98b72019.zip
   region: Europe
   versions:
-    android: '16.0'
-    miui: OS3.0.302.0.WNNEUXM
+    android: '15.0'
+    miui: OS2.0.12.0.VNNEUXM

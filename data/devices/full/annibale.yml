@@ -1,5 +1,5 @@
 - branch: stable
-  date: '2025-11-28'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-28.11.2025/fw_annibale_annibale_global-ota_full-OS3.0.6.0.WPKMIXM-user-16.0-78b7a83a6a.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale_global-ota_full-OS3.0.6.0.WPKMIXM-user-16.0-78b7a83a6a.zip
@@ -9,7 +9,7 @@
     android: '16.0'
     miui: OS3.0.6.0.WPKMIXM
 - branch: stable
-  date: '2025-11-27'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-27.11.2025/fw_annibale_annibale_eea_global-ota_full-OS3.0.5.0.WPKEUXM-user-16.0-9bc85c19ae.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale_eea_global-ota_full-OS3.0.5.0.WPKEUXM-user-16.0-9bc85c19ae.zip
@@ -19,7 +19,7 @@
     android: '16.0'
     miui: OS3.0.5.0.WPKEUXM
 - branch: stable
-  date: '2025-11-27'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-27.11.2025/fw_annibale_annibale_global-ota_full-OS3.0.4.0.WPKMIXM-user-16.0-7a437517f0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale_global-ota_full-OS3.0.4.0.WPKMIXM-user-16.0-7a437517f0.zip
@@ -29,7 +29,7 @@
     android: '16.0'
     miui: OS3.0.4.0.WPKMIXM
 - branch: stable
-  date: '2025-12-26'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-26.12.2025/fw_annibale_annibale-ota_full-OS3.0.18.0.WPKCNXM-user-16.0-d8932cf81a.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale-ota_full-OS3.0.18.0.WPKCNXM-user-16.0-d8932cf81a.zip
@@ -39,7 +39,7 @@
     android: '16.0'
     miui: OS3.0.18.0.WPKCNXM
 - branch: stable
-  date: '2025-12-26'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-26.12.2025/fw_annibale_annibale_eea_global-ota_full-OS3.0.6.0.WPKEUXM-user-16.0-d122b45ca1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale_eea_global-ota_full-OS3.0.6.0.WPKEUXM-user-16.0-d122b45ca1.zip
@@ -49,7 +49,7 @@
     android: '16.0'
     miui: OS3.0.6.0.WPKEUXM
 - branch: stable
-  date: '2025-10-25'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-25.10.2025/fw_annibale_annibale-ota_full-OS3.0.9.0.WPKCNXM-user-16.0-e06570ff2d.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale-ota_full-OS3.0.9.0.WPKCNXM-user-16.0-e06570ff2d.zip
@@ -59,7 +59,7 @@
     android: '16.0'
     miui: OS3.0.9.0.WPKCNXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-24.08.2026/fw_annibale_annibale-ota_full-OS3.0.307.0.WPKCNXM-user-16.0-94dcf5f934.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale-ota_full-OS3.0.307.0.WPKCNXM-user-16.0-94dcf5f934.zip
@@ -69,7 +69,7 @@
     android: '16.0'
     miui: OS3.0.307.0.WPKCNXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-24.08.2026/fw_annibale_annibale_eea_global-ota_full-OS3.0.301.0.WPKEUXM-user-16.0-2fdc97d33a.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale_eea_global-ota_full-OS3.0.301.0.WPKEUXM-user-16.0-2fdc97d33a.zip
@@ -79,7 +79,7 @@
     android: '16.0'
     miui: OS3.0.301.0.WPKEUXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-24.08.2026/fw_annibale_annibale_global-ota_full-OS3.0.301.0.WPKMIXM-user-16.0-b17d43c993.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale_global-ota_full-OS3.0.301.0.WPKMIXM-user-16.0-b17d43c993.zip
@@ -89,7 +89,7 @@
     android: '16.0'
     miui: OS3.0.301.0.WPKMIXM
 - branch: stable
-  date: '2026-02-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-24.02.2026/fw_annibale_annibale_eea_global-ota_full-OS3.0.8.0.WPKEUXM-user-16.0-34baa886b5.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale_eea_global-ota_full-OS3.0.8.0.WPKEUXM-user-16.0-34baa886b5.zip
@@ -99,7 +99,7 @@
     android: '16.0'
     miui: OS3.0.8.0.WPKEUXM
 - branch: stable
-  date: '2025-12-19'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-19.12.2025/fw_annibale_annibale_global-ota_full-OS3.0.7.0.WPKMIXM-user-16.0-7a8b99780b.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale_global-ota_full-OS3.0.7.0.WPKMIXM-user-16.0-7a8b99780b.zip
@@ -109,7 +109,7 @@
     android: '16.0'
     miui: OS3.0.7.0.WPKMIXM
 - branch: stable
-  date: '2025-11-18'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-19.11.2025/fw_annibale_annibale-ota_full-OS3.0.13.0.WPKCNXM-user-16.0-f28d23c6a2.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale-ota_full-OS3.0.13.0.WPKCNXM-user-16.0-f28d23c6a2.zip
@@ -119,7 +119,7 @@
     android: '16.0'
     miui: OS3.0.13.0.WPKCNXM
 - branch: stable
-  date: '2026-05-18'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-18.05.2026/fw_annibale_annibale-ota_full-OS3.0.304.0.WPKCNXM-user-16.0-a582a51eb5.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale-ota_full-OS3.0.304.0.WPKCNXM-user-16.0-a582a51eb5.zip
@@ -129,7 +129,7 @@
     android: '16.0'
     miui: OS3.0.304.0.WPKCNXM
 - branch: stable
-  date: '2026-03-14'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-14.03.2026/fw_annibale_annibale-ota_full-OS3.0.303.0.WPKCNXM-user-16.0-33073f2249.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale-ota_full-OS3.0.303.0.WPKCNXM-user-16.0-33073f2249.zip
@@ -139,7 +139,7 @@
     android: '16.0'
     miui: OS3.0.303.0.WPKCNXM
 - branch: stable
-  date: '2026-01-12'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-12.01.2026/fw_annibale_annibale-ota_full-OS3.0.20.0.WPKCNXM-user-16.0-42b109f0f1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale-ota_full-OS3.0.20.0.WPKCNXM-user-16.0-42b109f0f1.zip
@@ -149,7 +149,7 @@
     android: '16.0'
     miui: OS3.0.20.0.WPKCNXM
 - branch: stable
-  date: '2026-06-09'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-09.06.2026/fw_annibale_annibale-ota_full-OS3.0.305.0.WPKCNXM-user-16.0-e88370d5bc.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale-ota_full-OS3.0.305.0.WPKCNXM-user-16.0-e88370d5bc.zip
@@ -159,7 +159,7 @@
     android: '16.0'
     miui: OS3.0.305.0.WPKCNXM
 - branch: stable
-  date: '2026-02-09'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-09.02.2026/fw_annibale_annibale-ota_full-OS3.0.24.0.WPKCNXM-user-16.0-f967acd36f.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale-ota_full-OS3.0.24.0.WPKCNXM-user-16.0-f967acd36f.zip
@@ -169,7 +169,7 @@
     android: '16.0'
     miui: OS3.0.24.0.WPKCNXM
 - branch: stable
-  date: '2026-01-04'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_annibale/releases/download/stable-04.01.2026/fw_annibale_annibale_global-ota_full-OS3.0.8.0.WPKMIXM-user-16.0-1f0f4833a2.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/annibale/fw_annibale_annibale_global-ota_full-OS3.0.8.0.WPKMIXM-user-16.0-1f0f4833a2.zip

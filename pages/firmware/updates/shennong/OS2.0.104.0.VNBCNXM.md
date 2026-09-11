@@ -54,7 +54,7 @@ permalink: /firmware/shennong/stable/OS2.0.104.0.VNBCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>179.8 MB</h5>
+                    <h5><b>Size: </b>174.8 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-02-18</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/shennong/stable/OS2.0.104.0.VNBCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_shennong_shennong-ota_full-OS2.0.104.0.VNBCNXM-user-15.0-31c6513eb3.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">b8198d6e6eabbf615d3d4e09da1b6335</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">979c4b6a3a88b9ffc2c34bbad8a07bf8</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

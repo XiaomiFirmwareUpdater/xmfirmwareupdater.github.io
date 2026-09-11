@@ -54,7 +54,7 @@ permalink: /firmware/uke/stable/OS3.0.1.0.WOZINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>116.4 MB</h5>
+                    <h5><b>Size: </b>116.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-12-16</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/uke/stable/OS3.0.1.0.WOZINXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_uke_uke_in_global-ota_full-OS3.0.1.0.WOZINXM-user-16.0-5951e4bb7a.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">e2f453a071e2230ed2b9d8ae2c8499b7</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">c22b515e6a5a952ecd128a4e15ee8cce</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

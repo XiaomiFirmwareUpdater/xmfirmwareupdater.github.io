@@ -54,7 +54,7 @@ permalink: /firmware/amethyst/stable/OS1.0.7.0.UOPEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>117.8 MB</h5>
+                    <h5><b>Size: </b>117.7 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-03-20</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/amethyst/stable/OS1.0.7.0.UOPEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_amethyst_miui_AMETHYSTEEAGlobal_OS1.0.7.0.UOPEUXM_319edae753_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">4306a380df42018e9b8773a7ba4307d0</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">4e6935ee0938382e8ca0c51486ffd7ce</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

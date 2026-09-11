@@ -54,7 +54,7 @@ permalink: /firmware/haotian/stable/OS2.0.112.0.VOBCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>192.2 MB</h5>
+                    <h5><b>Size: </b>187.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-04-04</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/haotian/stable/OS2.0.112.0.VOBCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_haotian_haotian-ota_full-OS2.0.112.0.VOBCNXM-user-15.0-43dd7c0743.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c980e6ad965d8601fdd209880bd69636</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">d0c9d09a18a72717eb5f555a14141109</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

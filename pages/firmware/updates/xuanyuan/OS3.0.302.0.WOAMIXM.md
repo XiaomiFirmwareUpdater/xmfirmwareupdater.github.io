@@ -54,7 +54,7 @@ permalink: /firmware/xuanyuan/stable/OS3.0.302.0.WOAMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>218.1 MB</h5>
+                    <h5><b>Size: </b>213.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-08-25</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/xuanyuan/stable/OS3.0.302.0.WOAMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_xuanyuan_xuanyuan_global-ota_full-OS3.0.302.0.WOAMIXM-user-16.0-8898469399.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c0403f38bbf3570cc999295e0e386682</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">41ed8d7d2a28735788e44e822a69f950</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

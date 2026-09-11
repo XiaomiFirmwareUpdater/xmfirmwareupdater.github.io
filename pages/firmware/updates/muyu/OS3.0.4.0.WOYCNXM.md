@@ -54,7 +54,7 @@ permalink: /firmware/muyu/stable/OS3.0.4.0.WOYCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>91.3 MB</h5>
+                    <h5><b>Size: </b>91.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-11-20</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/muyu/stable/OS3.0.4.0.WOYCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_muyu_muyu-ota_full-OS3.0.4.0.WOYCNXM-user-16.0-039f1226dc.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">7b244402d12a3f38a69de16767206071</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">288bcaa344db69bbdafdccc49e6b99e4</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

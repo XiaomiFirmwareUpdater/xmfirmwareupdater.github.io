@@ -54,7 +54,7 @@ permalink: /firmware/rothko/stable/OS2.0.102.0.VNNMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>82.0 MB</h5>
+                    <h5><b>Size: </b>81.9 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-03-10</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/rothko/stable/OS2.0.102.0.VNNMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_rothko_global_rothko_global-ota_full-OS2.0.102.0.VNNMIXM-user-15.0-561d16995b.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">fadc96c627764cf3321ed3f755c69841</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">111456ae40a6bac0dfa9c634c18e4ce8</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

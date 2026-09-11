@@ -54,7 +54,7 @@ permalink: /firmware/uke/stable/OS2.0.10.0.VOZCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>100.2 MB</h5>
+                    <h5><b>Size: </b>100.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-11-15</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/uke/stable/OS2.0.10.0.VOZCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_uke_uke-ota_full-OS2.0.10.0.VOZCNXM-user-15.0-8f0752d36f.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">13a2aa1468c1ad270b5021336ffb2c7c</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">b8af84888226565aadb5e93a357a4d5a</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

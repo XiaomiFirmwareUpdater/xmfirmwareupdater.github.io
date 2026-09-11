@@ -54,7 +54,7 @@ permalink: /firmware/chenfeng/stable/OS3.0.301.0.WNJINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>184.2 MB</h5>
+                    <h5><b>Size: </b>184.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-05-14</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/chenfeng/stable/OS3.0.301.0.WNJINXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_chenfeng_chenfeng_in_global-ota_full-OS3.0.301.0.WNJINXM-user-16.0-f2db02a1e3.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">63070ffa3e71373269ce29071854b4d7</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">478a599f4af1e7b417209745f71099f5</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

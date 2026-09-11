@@ -54,7 +54,7 @@ permalink: /firmware/warsaw/stable/OS3.0.306.0.WHPCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>226.4 MB</h5>
+                    <h5><b>Size: </b>221.4 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-06-30</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/warsaw/stable/OS3.0.306.0.WHPCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_warsaw_warsaw-ota_full-OS3.0.306.0.WHPCNXM-user-16.0-8d5c1b6155.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">2150c09e3ce4d33297edb5219282e1c6</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">36fd0fc4be7be767e5fbc14e5ecd8b92</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

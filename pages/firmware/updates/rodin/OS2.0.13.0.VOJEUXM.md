@@ -54,7 +54,7 @@ permalink: /firmware/rodin/stable/OS2.0.13.0.VOJEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>64.6 MB</h5>
+                    <h5><b>Size: </b>64.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-02-26</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/rodin/stable/OS2.0.13.0.VOJEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_rodin_eea_global_rodin_eea_global-ota_full-OS2.0.13.0.VOJEUXM-user-15.0-ae03c09391.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">1aa3a52acfbc820f8f326a807a2a917e</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">82c8d480581d98358be4bd7f84162123</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

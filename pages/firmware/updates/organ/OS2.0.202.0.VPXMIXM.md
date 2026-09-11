@@ -54,7 +54,7 @@ permalink: /firmware/organ/stable/OS2.0.202.0.VPXMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>112.3 MB</h5>
+                    <h5><b>Size: </b>112.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-10-11</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/organ/stable/OS2.0.202.0.VPXMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_organ_organ_global-ota_full-OS2.0.202.0.VPXMIXM-user-15.0-f88d4df8c3.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">5826bfa482cb2545e90d2a18b3326daf</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f0cecb6172d7a50a8e9f9ab2d4a5131c</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

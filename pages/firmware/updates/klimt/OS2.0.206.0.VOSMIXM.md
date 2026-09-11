@@ -54,7 +54,7 @@ permalink: /firmware/klimt/stable/OS2.0.206.0.VOSMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>75.3 MB</h5>
+                    <h5><b>Size: </b>75.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-11-05</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/klimt/stable/OS2.0.206.0.VOSMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_klimt_klimt_global-ota_full-OS2.0.206.0.VOSMIXM-user-15.0-a3c26c1395.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">0b4dae09c7ebb4953fe81fdcff4d4a56</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f7a7570af06974f761d6ec5906ed418a</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

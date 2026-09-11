@@ -54,7 +54,7 @@ permalink: /firmware/pandora/stable/OS3.0.30.0.WBLCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>220.8 MB</h5>
+                    <h5><b>Size: </b>209.7 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-11-11</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/pandora/stable/OS3.0.30.0.WBLCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_pandora_pandora-ota_full-OS3.0.30.0.WBLCNXM-user-16.0-85f4d1660a.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">faf3f2b2e31926b2f20a5bbf79c94d73</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6a57bcdf4bf5df121cf764699b103729</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -54,7 +54,7 @@ permalink: /firmware/goku/stable/OS2.0.5.0.VNVCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>181.1 MB</h5>
+                    <h5><b>Size: </b>175.9 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-12-05</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/goku/stable/OS2.0.5.0.VNVCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_goku_goku-ota_full-OS2.0.5.0.VNVCNXM-user-15.0-51d6fb7f5f.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">d115c1da5e96ef61c89550cd2a13ae70</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">665cc5afa2a7f2e820ddc0648a277adb</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

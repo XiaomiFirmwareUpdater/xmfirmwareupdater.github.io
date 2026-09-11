@@ -54,7 +54,7 @@ permalink: /firmware/organ/stable/OS3.0.4.0.WPXMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>112.4 MB</h5>
+                    <h5><b>Size: </b>112.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-03-04</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/organ/stable/OS3.0.4.0.WPXMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_organ_organ_global-ota_full-OS3.0.4.0.WPXMIXM-user-16.0-c99ca0dfaf.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">09540eda46e95c76a3128b63f63718df</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ffeea6888b089d2220443301c3393994</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

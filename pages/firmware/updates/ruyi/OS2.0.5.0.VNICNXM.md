@@ -54,7 +54,7 @@ permalink: /firmware/ruyi/stable/OS2.0.5.0.VNICNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>184.9 MB</h5>
+                    <h5><b>Size: </b>179.7 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-12-21</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/ruyi/stable/OS2.0.5.0.VNICNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_ruyi_ruyi-ota_full-OS2.0.5.0.VNICNXM-user-15.0-e713a508a2.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c4b08c0e77878c0a20f44ed77e580131</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">00d085369b3ccffb055fdab41a599e35</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

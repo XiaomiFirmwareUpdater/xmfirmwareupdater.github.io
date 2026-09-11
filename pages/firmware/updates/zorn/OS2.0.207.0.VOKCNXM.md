@@ -54,7 +54,7 @@ permalink: /firmware/zorn/stable/OS2.0.207.0.VOKCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>191.4 MB</h5>
+                    <h5><b>Size: </b>186.8 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-07-19</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/zorn/stable/OS2.0.207.0.VOKCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_zorn_zorn-ota_full-OS2.0.207.0.VOKCNXM-user-15.0-dd18c2a9bc.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">2a8ffa56795a033c97ac1a592a708573</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">9d690e5d5275a218c9f1231622c826f3</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

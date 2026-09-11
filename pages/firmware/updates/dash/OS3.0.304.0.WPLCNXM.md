@@ -54,7 +54,7 @@ permalink: /firmware/dash/stable/OS3.0.304.0.WPLCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>80.5 MB</h5>
+                    <h5><b>Size: </b>80.4 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-05-09</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/dash/stable/OS3.0.304.0.WPLCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_dash_dash-ota_full-OS3.0.304.0.WPLCNXM-user-16.0-6577bbc074.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c961543529c3afc6437a5b4405018384</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ec9fa4cc8c7e8e0c5e33d1191a9b59a5</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

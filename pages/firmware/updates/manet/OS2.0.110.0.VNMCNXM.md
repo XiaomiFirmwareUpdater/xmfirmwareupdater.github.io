@@ -54,7 +54,7 @@ permalink: /firmware/manet/stable/OS2.0.110.0.VNMCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>175.3 MB</h5>
+                    <h5><b>Size: </b>170.7 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-04-27</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/manet/stable/OS2.0.110.0.VNMCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_manet_manet-ota_full-OS2.0.110.0.VNMCNXM-user-15.0-3f988ec299.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">8a34fc920ebfed4e8d70576c33a73c44</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">06e8e086cc6c722b64c7f841a5e8d26c</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

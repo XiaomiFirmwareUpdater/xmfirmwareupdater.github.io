@@ -54,7 +54,7 @@ permalink: /firmware/onyx/stable/OS2.0.204.0.VOLEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>180.5 MB</h5>
+                    <h5><b>Size: </b>175.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-08-15</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/onyx/stable/OS2.0.204.0.VOLEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_onyx_eea_global_onyx_eea_global-ota_full-OS2.0.204.0.VOLEUXM-user-15.0-122f7878d8.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">f17a8bdfd4cd22fab4b5ad2cd904a314</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">51ee69c05b475db98246314d4933fa9a</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

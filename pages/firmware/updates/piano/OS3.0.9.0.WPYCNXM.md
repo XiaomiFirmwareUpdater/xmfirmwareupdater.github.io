@@ -54,7 +54,7 @@ permalink: /firmware/piano/stable/OS3.0.9.0.WPYCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>126.1 MB</h5>
+                    <h5><b>Size: </b>121.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-12-29</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/piano/stable/OS3.0.9.0.WPYCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_piano_piano-ota_full-OS3.0.9.0.WPYCNXM-user-16.0-d4367a6283.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">70a49a43e1195e59ba5daf6c75f75565</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">34d050a337b2aedad68b051d13d2b8ea</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

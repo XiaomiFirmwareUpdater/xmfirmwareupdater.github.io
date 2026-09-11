@@ -54,7 +54,7 @@ permalink: /firmware/houji/stable/OS2.0.107.0.VNCEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>176.8 MB</h5>
+                    <h5><b>Size: </b>171.8 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-06-13</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/houji/stable/OS2.0.107.0.VNCEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_houji_eea_global_houji_eea_global-ota_full-OS2.0.107.0.VNCEUXM-user-15.0-bd1c41d1dd.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">5df3549bfa3fae5a8e3544d0a09523e9</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">4882ec508e08ac0c4f299ecf0879b2de</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

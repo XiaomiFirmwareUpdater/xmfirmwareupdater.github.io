@@ -1,5 +1,5 @@
 - branch: stable
-  date: '2025-10-30'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-31.10.2025/fw_aurora_aurora-ota_full-OS2.0.213.0.VNACNXM-user-15.0-1a039ac8c1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora-ota_full-OS2.0.213.0.VNACNXM-user-15.0-1a039ac8c1.zip
@@ -9,7 +9,7 @@
     android: '15.0'
     miui: OS2.0.213.0.VNACNXM
 - branch: stable
-  date: '2025-07-31'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-31.07.2025/fw_aurora_aurora-ota_full-OS2.0.209.0.VNACNXM-user-15.0-5813f4d571.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora-ota_full-OS2.0.209.0.VNACNXM-user-15.0-5813f4d571.zip
@@ -19,7 +19,7 @@
     android: '15.0'
     miui: OS2.0.209.0.VNACNXM
 - branch: stable
-  date: '2025-08-30'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-30.08.2025/fw_aurora_aurora-ota_full-OS2.0.210.0.VNACNXM-user-15.0-54686ac4d8.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora-ota_full-OS2.0.210.0.VNACNXM-user-15.0-54686ac4d8.zip
@@ -29,7 +29,7 @@
     android: '15.0'
     miui: OS2.0.210.0.VNACNXM
 - branch: stable
-  date: '2024-03-30'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-30.03.2024/fw_aurora_miui_AURORA_OS1.0.8.0.UNACNXM_b427cc3ce7_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORA_OS1.0.8.0.UNACNXM_b427cc3ce7_14.0.zip
@@ -39,7 +39,7 @@
     android: '14.0'
     miui: OS1.0.8.0.UNACNXM
 - branch: stable
-  date: '2026-01-30'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-30.01.2026/fw_aurora_aurora-ota_full-OS3.0.6.0.WNACNXM-user-16.0-a64ddcc3e0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora-ota_full-OS3.0.6.0.WNACNXM-user-16.0-a64ddcc3e0.zip
@@ -49,7 +49,7 @@
     android: '16.0'
     miui: OS3.0.6.0.WNACNXM
 - branch: stable
-  date: '2025-12-29'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-29.12.2025/fw_aurora_aurora_in_global-ota_full-OS3.0.3.0.WNAINXM-user-16.0-e761dd9e6d.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora_in_global-ota_full-OS3.0.3.0.WNAINXM-user-16.0-e761dd9e6d.zip
@@ -59,7 +59,7 @@
     android: '16.0'
     miui: OS3.0.3.0.WNAINXM
 - branch: stable
-  date: '2024-11-29'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-29.11.2024/fw_aurora_global_aurora_global-ota_full-OS2.0.5.0.VNAMIXM-user-15.0-ca5dc3710f.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_global_aurora_global-ota_full-OS2.0.5.0.VNAMIXM-user-15.0-ca5dc3710f.zip
@@ -69,7 +69,7 @@
     android: '15.0'
     miui: OS2.0.5.0.VNAMIXM
 - branch: stable
-  date: '2025-10-29'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-29.10.2025/fw_aurora_aurora_global-ota_full-OS2.0.206.0.VNAMIXM-user-15.0-f8a3061610.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora_global-ota_full-OS2.0.206.0.VNAMIXM-user-15.0-f8a3061610.zip
@@ -79,7 +79,7 @@
     android: '15.0'
     miui: OS2.0.206.0.VNAMIXM
 - branch: stable
-  date: '2024-05-29'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-29.05.2024/fw_aurora_miui_AURORA_OS1.0.11.0.UNACNXM_5f25246086_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORA_OS1.0.11.0.UNACNXM_5f25246086_14.0.zip
@@ -89,7 +89,7 @@
     android: '14.0'
     miui: OS1.0.11.0.UNACNXM
 - branch: stable
-  date: '2024-03-29'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-29.03.2024/fw_aurora_miui_AURORAEEAGlobal_OS1.0.5.0.UNAEUXM_9fe146fc85_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAEEAGlobal_OS1.0.5.0.UNAEUXM_9fe146fc85_14.0.zip
@@ -99,7 +99,7 @@
     android: '14.0'
     miui: OS1.0.5.0.UNAEUXM
 - branch: stable
-  date: '2025-09-28'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-28.09.2025/fw_aurora_global_aurora_global-ota_full-OS2.0.205.0.VNAMIXM-user-15.0-818c16c601.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_global_aurora_global-ota_full-OS2.0.205.0.VNAMIXM-user-15.0-818c16c601.zip
@@ -109,7 +109,7 @@
     android: '15.0'
     miui: OS2.0.205.0.VNAMIXM
 - branch: stable
-  date: '2025-05-28'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-28.05.2025/fw_aurora_global_aurora_global-ota_full-OS2.0.104.0.VNAMIXM-user-15.0-cbf59d5fa0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_global_aurora_global-ota_full-OS2.0.104.0.VNAMIXM-user-15.0-cbf59d5fa0.zip
@@ -119,7 +119,7 @@
     android: '15.0'
     miui: OS2.0.104.0.VNAMIXM
 - branch: stable
-  date: '2024-03-28'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-28.03.2024/fw_aurora_miui_AURORAEEAGlobal_OS1.0.4.0.UNAEUXM_750055c146_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAEEAGlobal_OS1.0.4.0.UNAEUXM_750055c146_14.0.zip
@@ -129,7 +129,7 @@
     android: '14.0'
     miui: OS1.0.4.0.UNAEUXM
 - branch: stable
-  date: '2024-03-28'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-28.03.2024/fw_aurora_miui_AURORAGlobal_OS1.0.3.0.UNAMIXM_20cfa0f021_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAGlobal_OS1.0.3.0.UNAMIXM_20cfa0f021_14.0.zip
@@ -139,7 +139,7 @@
     android: '14.0'
     miui: OS1.0.3.0.UNAMIXM
 - branch: stable
-  date: '2025-02-28'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-28.02.2025/fw_aurora_global_aurora_global-ota_full-OS2.0.102.0.VNAMIXM-user-15.0-64e8a24c34.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_global_aurora_global-ota_full-OS2.0.102.0.VNAMIXM-user-15.0-64e8a24c34.zip
@@ -149,7 +149,7 @@
     android: '15.0'
     miui: OS2.0.102.0.VNAMIXM
 - branch: stable
-  date: '2025-11-27'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-27.11.2025/fw_aurora_aurora-ota_full-OS3.0.4.0.WNACNXM-user-16.0-9ec54459b2.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora-ota_full-OS3.0.4.0.WNACNXM-user-16.0-9ec54459b2.zip
@@ -159,7 +159,7 @@
     android: '16.0'
     miui: OS3.0.4.0.WNACNXM
 - branch: stable
-  date: '2025-11-27'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-27.11.2025/fw_aurora_aurora_eea_global-ota_full-OS2.0.208.0.VNAEUXM-user-15.0-f56100957c.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora_eea_global-ota_full-OS2.0.208.0.VNAEUXM-user-15.0-f56100957c.zip
@@ -169,7 +169,7 @@
     android: '15.0'
     miui: OS2.0.208.0.VNAEUXM
 - branch: stable
-  date: '2025-11-27'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-27.11.2025/fw_aurora_aurora_global-ota_full-OS2.0.207.0.VNAMIXM-user-15.0-847d21a100.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora_global-ota_full-OS2.0.207.0.VNAMIXM-user-15.0-847d21a100.zip
@@ -179,7 +179,7 @@
     android: '15.0'
     miui: OS2.0.207.0.VNAMIXM
 - branch: stable
-  date: '2024-05-27'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-27.05.2024/fw_aurora_miui_AURORAGlobal_OS1.0.7.0.UNAMIXM_a3cc033362_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAGlobal_OS1.0.7.0.UNAMIXM_a3cc033362_14.0.zip
@@ -189,7 +189,7 @@
     android: '14.0'
     miui: OS1.0.7.0.UNAMIXM
 - branch: stable
-  date: '2024-02-27'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-27.02.2024/fw_aurora_miui_AURORA_OS1.0.3.0.UNACNXM_1c74075993_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORA_OS1.0.3.0.UNACNXM_1c74075993_14.0.zip
@@ -199,7 +199,7 @@
     android: '14.0'
     miui: OS1.0.3.0.UNACNXM
 - branch: stable
-  date: '2025-12-26'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-26.12.2025/fw_aurora_aurora-ota_full-OS3.0.5.0.WNACNXM-user-16.0-91e090980c.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora-ota_full-OS3.0.5.0.WNACNXM-user-16.0-91e090980c.zip
@@ -209,7 +209,7 @@
     android: '16.0'
     miui: OS3.0.5.0.WNACNXM
 - branch: stable
-  date: '2025-12-26'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-26.12.2025/fw_aurora_aurora_eea_global-ota_full-OS3.0.1.0.WNAEUXM-user-16.0-6d372d3288.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora_eea_global-ota_full-OS3.0.1.0.WNAEUXM-user-16.0-6d372d3288.zip
@@ -219,7 +219,7 @@
     android: '16.0'
     miui: OS3.0.1.0.WNAEUXM
 - branch: stable
-  date: '2025-09-26'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-26.09.2025/fw_aurora_aurora-ota_full-OS2.0.212.0.VNACNXM-user-15.0-554744c254.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora-ota_full-OS2.0.212.0.VNACNXM-user-15.0-554744c254.zip
@@ -229,7 +229,7 @@
     android: '15.0'
     miui: OS2.0.212.0.VNACNXM
 - branch: stable
-  date: '2025-05-26'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-26.05.2025/fw_aurora_eea_global_aurora_eea_global-ota_full-OS2.0.104.0.VNAEUXM-user-15.0-b847c667b6.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_eea_global_aurora_eea_global-ota_full-OS2.0.104.0.VNAEUXM-user-15.0-b847c667b6.zip
@@ -239,7 +239,7 @@
     android: '15.0'
     miui: OS2.0.104.0.VNAEUXM
 - branch: stable
-  date: '2024-04-26'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-26.04.2024/fw_aurora_miui_AURORAGlobal_OS1.0.5.0.UNAMIXM_de4559b0f0_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAGlobal_OS1.0.5.0.UNAMIXM_de4559b0f0_14.0.zip
@@ -249,7 +249,7 @@
     android: '14.0'
     miui: OS1.0.5.0.UNAMIXM
 - branch: stable
-  date: '2024-12-25'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-25.12.2024/fw_aurora_aurora-ota_full-OS2.0.13.0.VNACNXM-user-15.0-cc9c5b9dc1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora-ota_full-OS2.0.13.0.VNACNXM-user-15.0-cc9c5b9dc1.zip
@@ -259,7 +259,7 @@
     android: '15.0'
     miui: OS2.0.13.0.VNACNXM
 - branch: stable
-  date: '2024-12-25'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-25.12.2024/fw_aurora_eea_global_aurora_eea_global-ota_full-OS2.0.2.0.VNAEUXM-user-15.0-68fadc197f.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_eea_global_aurora_eea_global-ota_full-OS2.0.2.0.VNAEUXM-user-15.0-68fadc197f.zip
@@ -269,7 +269,7 @@
     android: '15.0'
     miui: OS2.0.2.0.VNAEUXM
 - branch: stable
-  date: '2025-03-25'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-25.03.2025/fw_aurora_aurora-ota_full-OS2.0.107.0.VNACNXM-user-15.0-de86e19c0a.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora-ota_full-OS2.0.107.0.VNACNXM-user-15.0-de86e19c0a.zip
@@ -279,7 +279,7 @@
     android: '15.0'
     miui: OS2.0.107.0.VNACNXM
 - branch: stable
-  date: '2025-10-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-24.10.2025/fw_aurora_aurora_in_global-ota_full-OS2.0.204.0.VNAINXM-user-15.0-117a7371a3.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora_in_global-ota_full-OS2.0.204.0.VNAINXM-user-15.0-117a7371a3.zip
@@ -289,7 +289,7 @@
     android: '15.0'
     miui: OS2.0.204.0.VNAINXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-24.08.2026/fw_aurora_aurora-ota_full-OS3.0.306.0.WNACNXM-user-16.0-5f184c188d.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora-ota_full-OS3.0.306.0.WNACNXM-user-16.0-5f184c188d.zip
@@ -299,7 +299,7 @@
     android: '16.0'
     miui: OS3.0.306.0.WNACNXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-24.08.2026/fw_aurora_aurora_eea_global-ota_full-OS3.0.304.0.WNAEUXM-user-16.0-fd2b0e4a0a.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora_eea_global-ota_full-OS3.0.304.0.WNAEUXM-user-16.0-fd2b0e4a0a.zip
@@ -309,7 +309,7 @@
     android: '16.0'
     miui: OS3.0.304.0.WNAEUXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-24.08.2026/fw_aurora_aurora_global-ota_full-OS3.0.303.0.WNAMIXM-user-16.0-4794d55d47.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora_global-ota_full-OS3.0.303.0.WNAMIXM-user-16.0-4794d55d47.zip
@@ -319,7 +319,7 @@
     android: '16.0'
     miui: OS3.0.303.0.WNAMIXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-24.08.2026/fw_aurora_aurora_in_global-ota_full-OS3.0.302.0.WNAINXM-user-16.0-59f6682173.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora_in_global-ota_full-OS3.0.302.0.WNAINXM-user-16.0-59f6682173.zip
@@ -329,7 +329,7 @@
     android: '16.0'
     miui: OS3.0.302.0.WNAINXM
 - branch: stable
-  date: '2024-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-24.08.2024/fw_aurora_miui_AURORA_OS1.0.19.0.UNACNXM_372b67195e_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORA_OS1.0.19.0.UNACNXM_372b67195e_14.0.zip
@@ -339,7 +339,7 @@
     android: '14.0'
     miui: OS1.0.19.0.UNACNXM
 - branch: stable
-  date: '2026-02-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-24.02.2026/fw_aurora_aurora_global-ota_full-OS3.0.6.0.WNAMIXM-user-16.0-3d13c86b57.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora_global-ota_full-OS3.0.6.0.WNAMIXM-user-16.0-3d13c86b57.zip
@@ -349,7 +349,7 @@
     android: '16.0'
     miui: OS3.0.6.0.WNAMIXM
 - branch: stable
-  date: '2025-08-22'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-22.08.2025/fw_aurora_global_aurora_global-ota_full-OS2.0.204.0.VNAMIXM-user-15.0-5ffe815c0c.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_global_aurora_global-ota_full-OS2.0.204.0.VNAMIXM-user-15.0-5ffe815c0c.zip
@@ -359,7 +359,7 @@
     android: '15.0'
     miui: OS2.0.204.0.VNAMIXM
 - branch: stable
-  date: '2025-05-22'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-22.05.2025/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.104.0.VNAINXM-user-15.0-2743d2afd3.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.104.0.VNAINXM-user-15.0-2743d2afd3.zip
@@ -369,7 +369,7 @@
     android: '15.0'
     miui: OS2.0.104.0.VNAINXM
 - branch: stable
-  date: '2024-04-22'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-22.04.2024/fw_aurora_miui_AURORA_OS1.0.9.0.UNACNXM_53b6a43c0e_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORA_OS1.0.9.0.UNACNXM_53b6a43c0e_14.0.zip
@@ -379,7 +379,7 @@
     android: '14.0'
     miui: OS1.0.9.0.UNACNXM
 - branch: stable
-  date: '2024-03-21'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-22.03.2024/fw_aurora_miui_AURORA_OS1.0.7.0.UNACNXM_81a48e3c20_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORA_OS1.0.7.0.UNACNXM_81a48e3c20_14.0.zip
@@ -389,7 +389,7 @@
     android: '14.0'
     miui: OS1.0.7.0.UNACNXM
 - branch: stable
-  date: '2025-07-21'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-21.07.2025/fw_aurora_eea_global_aurora_eea_global-ota_full-OS2.0.203.0.VNAEUXM-user-15.0-dbd04eb507.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_eea_global_aurora_eea_global-ota_full-OS2.0.203.0.VNAEUXM-user-15.0-dbd04eb507.zip
@@ -399,7 +399,7 @@
     android: '15.0'
     miui: OS2.0.203.0.VNAEUXM
 - branch: stable
-  date: '2025-01-21'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-21.01.2025/fw_aurora_aurora-ota_full-OS2.0.102.0.VNACNXM-user-15.0-99a8f5e1d4.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora-ota_full-OS2.0.102.0.VNACNXM-user-15.0-99a8f5e1d4.zip
@@ -409,7 +409,7 @@
     android: '15.0'
     miui: OS2.0.102.0.VNACNXM
 - branch: stable
-  date: '2024-12-20'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-20.12.2024/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.4.0.VNAINXM-user-15.0-e09ea47c8f.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.4.0.VNAINXM-user-15.0-e09ea47c8f.zip
@@ -419,7 +419,7 @@
     android: '15.0'
     miui: OS2.0.4.0.VNAINXM
 - branch: stable
-  date: '2025-11-20'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-20.11.2025/fw_aurora_aurora_in_global-ota_full-OS2.0.205.0.VNAINXM-user-15.0-9a0b1c3753.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora_in_global-ota_full-OS2.0.205.0.VNAINXM-user-15.0-9a0b1c3753.zip
@@ -429,7 +429,7 @@
     android: '15.0'
     miui: OS2.0.205.0.VNAINXM
 - branch: stable
-  date: '2024-09-20'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-20.09.2024/fw_aurora_miui_AURORA_OS1.0.23.0.UNACNXM_9bb4b476f4_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORA_OS1.0.23.0.UNACNXM_9bb4b476f4_14.0.zip
@@ -439,7 +439,7 @@
     android: '14.0'
     miui: OS1.0.23.0.UNACNXM
 - branch: stable
-  date: '2025-12-19'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-19.12.2025/fw_aurora_aurora_global-ota_full-OS3.0.4.0.WNAMIXM-user-16.0-2782f8d064.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora_global-ota_full-OS3.0.4.0.WNAMIXM-user-16.0-2782f8d064.zip
@@ -449,7 +449,7 @@
     android: '16.0'
     miui: OS3.0.4.0.WNAMIXM
 - branch: stable
-  date: '2026-05-19'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-19.05.2026/fw_aurora_aurora_in_global-ota_full-OS3.0.301.0.WNAINXM-user-16.0-b61c508ed9.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora_in_global-ota_full-OS3.0.301.0.WNAINXM-user-16.0-b61c508ed9.zip
@@ -459,7 +459,7 @@
     android: '16.0'
     miui: OS3.0.301.0.WNAINXM
 - branch: stable
-  date: '2025-10-17'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-18.10.2025/fw_aurora_aurora_eea_global-ota_full-OS2.0.207.0.VNAEUXM-user-15.0-818532cddb.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora_eea_global-ota_full-OS2.0.207.0.VNAEUXM-user-15.0-818532cddb.zip
@@ -469,7 +469,7 @@
     android: '15.0'
     miui: OS2.0.207.0.VNAEUXM
 - branch: stable
-  date: '2025-09-17'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-17.09.2025/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.203.0.VNAINXM-user-15.0-824e59157a.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.203.0.VNAINXM-user-15.0-824e59157a.zip
@@ -479,7 +479,7 @@
     android: '15.0'
     miui: OS2.0.203.0.VNAINXM
 - branch: stable
-  date: '2024-05-17'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-17.05.2024/fw_aurora_miui_AURORAEEAGlobal_OS1.0.6.0.UNAEUXM_05d1d97e08_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAEEAGlobal_OS1.0.6.0.UNAEUXM_05d1d97e08_14.0.zip
@@ -489,7 +489,7 @@
     android: '14.0'
     miui: OS1.0.6.0.UNAEUXM
 - branch: stable
-  date: '2024-05-17'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-17.05.2024/fw_aurora_miui_AURORAINGlobal_OS1.0.4.0.UNAINXM_77687a8523_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAINGlobal_OS1.0.4.0.UNAINXM_77687a8523_14.0.zip
@@ -499,7 +499,7 @@
     android: '14.0'
     miui: OS1.0.4.0.UNAINXM
 - branch: stable
-  date: '2025-04-16'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-17.04.2025/fw_aurora_global_aurora_global-ota_full-OS2.0.103.0.VNAMIXM-user-15.0-2cd2d6e265.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_global_aurora_global-ota_full-OS2.0.103.0.VNAMIXM-user-15.0-2cd2d6e265.zip
@@ -509,7 +509,7 @@
     android: '15.0'
     miui: OS2.0.103.0.VNAMIXM
 - branch: stable
-  date: '2025-04-16'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-17.04.2025/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.103.0.VNAINXM-user-15.0-9dc7c4950e.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.103.0.VNAINXM-user-15.0-9dc7c4950e.zip
@@ -519,7 +519,7 @@
     android: '15.0'
     miui: OS2.0.103.0.VNAINXM
 - branch: stable
-  date: '2025-02-17'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-17.02.2025/fw_aurora_aurora-ota_full-OS2.0.103.0.VNACNXM-user-15.0-59a8940f74.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora-ota_full-OS2.0.103.0.VNACNXM-user-15.0-59a8940f74.zip
@@ -529,7 +529,7 @@
     android: '15.0'
     miui: OS2.0.103.0.VNACNXM
 - branch: stable
-  date: '2025-02-17'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-17.02.2025/fw_aurora_eea_global_aurora_eea_global-ota_full-OS2.0.102.0.VNAEUXM-user-15.0-c1108f3476.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_eea_global_aurora_eea_global-ota_full-OS2.0.102.0.VNAEUXM-user-15.0-c1108f3476.zip
@@ -539,7 +539,7 @@
     android: '15.0'
     miui: OS2.0.102.0.VNAEUXM
 - branch: stable
-  date: '2024-11-15'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-16.11.2024/fw_aurora_aurora-ota_full-OS2.0.6.0.VNACNXM-user-15.0-c16ff4221a.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora-ota_full-OS2.0.6.0.VNACNXM-user-15.0-c16ff4221a.zip
@@ -549,7 +549,7 @@
     android: '15.0'
     miui: OS2.0.6.0.VNACNXM
 - branch: stable
-  date: '2025-07-16'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-16.07.2025/fw_aurora_global_aurora_global-ota_full-OS2.0.202.0.VNAMIXM-user-15.0-10b203dec6.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_global_aurora_global-ota_full-OS2.0.202.0.VNAMIXM-user-15.0-10b203dec6.zip
@@ -559,7 +559,7 @@
     android: '15.0'
     miui: OS2.0.202.0.VNAMIXM
 - branch: stable
-  date: '2025-01-16'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-16.01.2025/fw_aurora_global_aurora_global-ota_full-OS2.0.6.0.VNAMIXM-user-15.0-8017a2113e.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_global_aurora_global-ota_full-OS2.0.6.0.VNAMIXM-user-15.0-8017a2113e.zip
@@ -569,7 +569,7 @@
     android: '15.0'
     miui: OS2.0.6.0.VNAMIXM
 - branch: stable
-  date: '2024-10-15'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-15.10.2024/fw_aurora_miui_AURORAEEAGlobal_OS1.0.13.0.UNAEUXM_c44a4d9a24_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAEEAGlobal_OS1.0.13.0.UNAEUXM_c44a4d9a24_14.0.zip
@@ -579,7 +579,7 @@
     android: '14.0'
     miui: OS1.0.13.0.UNAEUXM
 - branch: stable
-  date: '2025-09-15'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-15.09.2025/fw_aurora_eea_global_aurora_eea_global-ota_full-OS2.0.206.0.VNAEUXM-user-15.0-51fc5a6dcd.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_eea_global_aurora_eea_global-ota_full-OS2.0.206.0.VNAEUXM-user-15.0-51fc5a6dcd.zip
@@ -589,7 +589,7 @@
     android: '15.0'
     miui: OS2.0.206.0.VNAEUXM
 - branch: stable
-  date: '2024-07-15'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-15.07.2024/fw_aurora_miui_AURORAEEAGlobal_OS1.0.9.0.UNAEUXM_e65cdccd65_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAEEAGlobal_OS1.0.9.0.UNAEUXM_e65cdccd65_14.0.zip
@@ -599,7 +599,7 @@
     android: '14.0'
     miui: OS1.0.9.0.UNAEUXM
 - branch: stable
-  date: '2024-07-15'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-15.07.2024/fw_aurora_miui_AURORAINGlobal_OS1.0.7.0.UNAINXM_78afface33_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAINGlobal_OS1.0.7.0.UNAINXM_78afface33_14.0.zip
@@ -609,7 +609,7 @@
     android: '14.0'
     miui: OS1.0.7.0.UNAINXM
 - branch: stable
-  date: '2024-06-13'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-14.06.2024/fw_aurora_miui_AURORA_OS1.0.12.0.UNACNXM_c98a167708_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORA_OS1.0.12.0.UNACNXM_c98a167708_14.0.zip
@@ -619,7 +619,7 @@
     android: '14.0'
     miui: OS1.0.12.0.UNACNXM
 - branch: stable
-  date: '2026-04-13'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-13.04.2026/fw_aurora_aurora-ota_full-OS3.0.304.0.WNACNXM-user-16.0-528f7ee338.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora-ota_full-OS3.0.304.0.WNACNXM-user-16.0-528f7ee338.zip
@@ -629,7 +629,7 @@
     android: '16.0'
     miui: OS3.0.304.0.WNACNXM
 - branch: stable
-  date: '2025-04-13'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-13.04.2025/fw_aurora_aurora-ota_full-OS2.0.108.0.VNACNXM-user-15.0-d13c9063e5.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora-ota_full-OS2.0.108.0.VNACNXM-user-15.0-d13c9063e5.zip
@@ -639,7 +639,7 @@
     android: '15.0'
     miui: OS2.0.108.0.VNACNXM
 - branch: stable
-  date: '2024-10-12'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-12.10.2024/fw_aurora_miui_AURORAGlobal_OS1.0.12.0.UNAMIXM_f46ab02599_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAGlobal_OS1.0.12.0.UNAMIXM_f46ab02599_14.0.zip
@@ -649,7 +649,7 @@
     android: '14.0'
     miui: OS1.0.12.0.UNAMIXM
 - branch: stable
-  date: '2024-10-12'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-12.10.2024/fw_aurora_miui_AURORAINGlobal_OS1.0.11.0.UNAINXM_d1f4b1eaf8_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAINGlobal_OS1.0.11.0.UNAINXM_d1f4b1eaf8_14.0.zip
@@ -659,7 +659,7 @@
     android: '14.0'
     miui: OS1.0.11.0.UNAINXM
 - branch: stable
-  date: '2025-08-12'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-12.08.2025/fw_aurora_eea_global_aurora_eea_global-ota_full-OS2.0.205.0.VNAEUXM-user-15.0-78a1020933.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_eea_global_aurora_eea_global-ota_full-OS2.0.205.0.VNAEUXM-user-15.0-78a1020933.zip
@@ -669,7 +669,7 @@
     android: '15.0'
     miui: OS2.0.205.0.VNAEUXM
 - branch: stable
-  date: '2025-08-12'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-12.08.2025/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.202.0.VNAINXM-user-15.0-994d8a6db7.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.202.0.VNAINXM-user-15.0-994d8a6db7.zip
@@ -679,7 +679,7 @@
     android: '15.0'
     miui: OS2.0.202.0.VNAINXM
 - branch: stable
-  date: '2024-08-12'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-12.08.2024/fw_aurora_miui_AURORAEEAGlobal_OS1.0.11.0.UNAEUXM_f7e814c1f9_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAEEAGlobal_OS1.0.11.0.UNAEUXM_f7e814c1f9_14.0.zip
@@ -689,7 +689,7 @@
     android: '14.0'
     miui: OS1.0.11.0.UNAEUXM
 - branch: stable
-  date: '2024-08-12'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-12.08.2024/fw_aurora_miui_AURORAGlobal_OS1.0.10.0.UNAMIXM_7264354d8b_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAGlobal_OS1.0.10.0.UNAMIXM_7264354d8b_14.0.zip
@@ -699,7 +699,7 @@
     android: '14.0'
     miui: OS1.0.10.0.UNAMIXM
 - branch: stable
-  date: '2024-08-12'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-12.08.2024/fw_aurora_miui_AURORAINGlobal_OS1.0.9.0.UNAINXM_0ce136f16a_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAINGlobal_OS1.0.9.0.UNAINXM_0ce136f16a_14.0.zip
@@ -709,7 +709,7 @@
     android: '14.0'
     miui: OS1.0.9.0.UNAINXM
 - branch: stable
-  date: '2025-06-10'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-10.06.2025/fw_aurora_aurora-ota_full-OS2.0.207.0.VNACNXM-user-15.0-81449f1baa.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora-ota_full-OS2.0.207.0.VNACNXM-user-15.0-81449f1baa.zip
@@ -719,7 +719,7 @@
     android: '15.0'
     miui: OS2.0.207.0.VNACNXM
 - branch: stable
-  date: '2024-03-10'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-10.03.2024/fw_aurora_miui_AURORA_OS1.0.4.0.UNACNXM_57ce65c302_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORA_OS1.0.4.0.UNACNXM_57ce65c302_14.0.zip
@@ -729,7 +729,7 @@
     android: '14.0'
     miui: OS1.0.4.0.UNACNXM
 - branch: stable
-  date: '2024-12-09'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-09.12.2024/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.3.0.VNAINXM-user-15.0-fd41d0457b.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.3.0.VNAINXM-user-15.0-fd41d0457b.zip
@@ -739,7 +739,7 @@
     android: '15.0'
     miui: OS2.0.3.0.VNAINXM
 - branch: stable
-  date: '2025-07-09'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-09.07.2025/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.201.0.VNAINXM-user-15.0-31754b935c.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.201.0.VNAINXM-user-15.0-31754b935c.zip
@@ -749,7 +749,7 @@
     android: '15.0'
     miui: OS2.0.201.0.VNAINXM
 - branch: stable
-  date: '2026-06-09'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-09.06.2026/fw_aurora_aurora-ota_full-OS3.0.305.0.WNACNXM-user-16.0-366972ea82.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora-ota_full-OS3.0.305.0.WNACNXM-user-16.0-366972ea82.zip
@@ -759,7 +759,7 @@
     android: '16.0'
     miui: OS3.0.305.0.WNACNXM
 - branch: stable
-  date: '2025-05-09'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-09.05.2025/fw_aurora_aurora-ota_full-OS2.0.110.0.VNACNXM-user-15.0-f6b4c3cbd7.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora-ota_full-OS2.0.110.0.VNACNXM-user-15.0-f6b4c3cbd7.zip
@@ -769,7 +769,7 @@
     android: '15.0'
     miui: OS2.0.110.0.VNACNXM
 - branch: stable
-  date: '2024-04-08'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-08.04.2024/fw_aurora_miui_AURORAINGlobal_OS1.0.3.0.UNAINXM_5fb544e967_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAINGlobal_OS1.0.3.0.UNAINXM_5fb544e967_14.0.zip
@@ -779,7 +779,7 @@
     android: '14.0'
     miui: OS1.0.3.0.UNAINXM
 - branch: stable
-  date: '2024-09-06'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-07.09.2024/fw_aurora_miui_AURORAGlobal_OS1.0.11.0.UNAMIXM_92fc10bfc5_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAGlobal_OS1.0.11.0.UNAMIXM_92fc10bfc5_14.0.zip
@@ -789,7 +789,7 @@
     android: '14.0'
     miui: OS1.0.11.0.UNAMIXM
 - branch: stable
-  date: '2024-09-06'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-07.09.2024/fw_aurora_miui_AURORAINGlobal_OS1.0.10.0.UNAINXM_1b426907db_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAINGlobal_OS1.0.10.0.UNAINXM_1b426907db_14.0.zip
@@ -799,7 +799,7 @@
     android: '14.0'
     miui: OS1.0.10.0.UNAINXM
 - branch: stable
-  date: '2025-04-07'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-07.04.2025/fw_aurora_eea_global_aurora_eea_global-ota_full-OS2.0.103.0.VNAEUXM-user-15.0-12957e6142.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_eea_global_aurora_eea_global-ota_full-OS2.0.103.0.VNAEUXM-user-15.0-12957e6142.zip
@@ -809,7 +809,7 @@
     android: '15.0'
     miui: OS2.0.103.0.VNAEUXM
 - branch: stable
-  date: '2026-01-07'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-07.01.2026/fw_aurora_aurora_eea_global-ota_full-OS3.0.2.0.WNAEUXM-user-16.0-fb68e8068a.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora_eea_global-ota_full-OS3.0.2.0.WNAEUXM-user-16.0-fb68e8068a.zip
@@ -819,7 +819,7 @@
     android: '16.0'
     miui: OS3.0.2.0.WNAEUXM
 - branch: stable
-  date: '2024-11-06'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-06.11.2024/fw_aurora_miui_AURORA_OS1.0.24.0.UNACNXM_67442f14e5_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORA_OS1.0.24.0.UNACNXM_67442f14e5_14.0.zip
@@ -829,7 +829,7 @@
     android: '14.0'
     miui: OS1.0.24.0.UNACNXM
 - branch: stable
-  date: '2024-09-06'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-06.09.2024/fw_aurora_miui_AURORAEEAGlobal_OS1.0.12.0.UNAEUXM_6c71e9140d_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAEEAGlobal_OS1.0.12.0.UNAEUXM_6c71e9140d_14.0.zip
@@ -839,7 +839,7 @@
     android: '14.0'
     miui: OS1.0.12.0.UNAEUXM
 - branch: stable
-  date: '2024-06-06'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-06.06.2024/fw_aurora_miui_AURORA_OS1.0.11.3.UNACNXM_e5360f6279_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORA_OS1.0.11.3.UNACNXM_e5360f6279_14.0.zip
@@ -849,7 +849,7 @@
     android: '14.0'
     miui: OS1.0.11.3.UNACNXM
 - branch: stable
-  date: '2026-05-06'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-06.05.2026/fw_aurora_aurora_eea_global-ota_full-OS3.0.302.0.WNAEUXM-user-16.0-235944afac.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora_eea_global-ota_full-OS3.0.302.0.WNAEUXM-user-16.0-235944afac.zip
@@ -859,7 +859,7 @@
     android: '16.0'
     miui: OS3.0.302.0.WNAEUXM
 - branch: stable
-  date: '2026-05-06'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-06.05.2026/fw_aurora_aurora_global-ota_full-OS3.0.302.0.WNAMIXM-user-16.0-162a712001.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora_global-ota_full-OS3.0.302.0.WNAMIXM-user-16.0-162a712001.zip
@@ -869,7 +869,7 @@
     android: '16.0'
     miui: OS3.0.302.0.WNAMIXM
 - branch: stable
-  date: '2025-01-06'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-06.01.2025/fw_aurora_aurora-ota_full-OS2.0.101.0.VNACNXM-user-15.0-a58015b6d2.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora-ota_full-OS2.0.101.0.VNACNXM-user-15.0-a58015b6d2.zip
@@ -879,7 +879,7 @@
     android: '15.0'
     miui: OS2.0.101.0.VNACNXM
 - branch: stable
-  date: '2024-12-05'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-05.12.2024/fw_aurora_aurora-ota_full-OS2.0.8.0.VNACNXM-user-15.0-4316be9082.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_aurora-ota_full-OS2.0.8.0.VNACNXM-user-15.0-4316be9082.zip
@@ -889,7 +889,7 @@
     android: '15.0'
     miui: OS2.0.8.0.VNACNXM
 - branch: stable
-  date: '2024-09-04'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-04.09.2024/fw_aurora_miui_AURORA_OS1.0.21.0.UNACNXM_f4f297a63f_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORA_OS1.0.21.0.UNACNXM_f4f297a63f_14.0.zip
@@ -899,7 +899,7 @@
     android: '14.0'
     miui: OS1.0.21.0.UNACNXM
 - branch: stable
-  date: '2024-07-04'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-04.07.2024/fw_aurora_miui_AURORA_OS1.0.15.0.UNACNXM_d2975034eb_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORA_OS1.0.15.0.UNACNXM_d2975034eb_14.0.zip
@@ -909,7 +909,7 @@
     android: '14.0'
     miui: OS1.0.15.0.UNACNXM
 - branch: stable
-  date: '2026-03-04'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-04.03.2026/fw_aurora_aurora_in_global-ota_full-OS3.0.5.0.WNAINXM-user-16.0-c41543f9b2.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora_in_global-ota_full-OS3.0.5.0.WNAINXM-user-16.0-c41543f9b2.zip
@@ -919,7 +919,7 @@
     android: '16.0'
     miui: OS3.0.5.0.WNAINXM
 - branch: stable
-  date: '2024-12-02'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-02.12.2024/fw_aurora_miui_AURORAEEAGlobal_OS1.0.15.0.UNAEUXM_334795da2f_14.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/aurora/fw_aurora_miui_AURORAEEAGlobal_OS1.0.15.0.UNAEUXM_334795da2f_14.0.zip
@@ -929,7 +929,7 @@
     android: '14.0'
     miui: OS1.0.15.0.UNAEUXM
 - branch: stable
-  date: '2026-09-01'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-02.09.2026/fw_aurora_aurora_global-ota_full-OS3.0.304.0.WNAMIXM-user-16.0-153db623b3.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora_global-ota_full-OS3.0.304.0.WNAMIXM-user-16.0-153db623b3.zip
@@ -939,7 +939,7 @@
     android: '16.0'
     miui: OS3.0.304.0.WNAMIXM
 - branch: stable
-  date: '2026-03-02'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-02.03.2026/fw_aurora_aurora-ota_full-OS3.0.7.0.WNACNXM-user-16.0-56fe65bf28.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora-ota_full-OS3.0.7.0.WNACNXM-user-16.0-56fe65bf28.zip
@@ -949,7 +949,7 @@
     android: '16.0'
     miui: OS3.0.7.0.WNACNXM
 - branch: stable
-  date: '2026-03-02'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-02.03.2026/fw_aurora_aurora_eea_global-ota_full-OS3.0.3.0.WNAEUXM-user-16.0-b529ec326f.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora_eea_global-ota_full-OS3.0.3.0.WNAEUXM-user-16.0-b529ec326f.zip
@@ -959,7 +959,7 @@
     android: '16.0'
     miui: OS3.0.3.0.WNAEUXM
 - branch: stable
-  date: '2026-01-02'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-02.01.2026/fw_aurora_aurora_global-ota_full-OS3.0.5.0.WNAMIXM-user-16.0-336c483add.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/aurora/fw_aurora_aurora_global-ota_full-OS3.0.5.0.WNAMIXM-user-16.0-336c483add.zip
@@ -969,7 +969,7 @@
     android: '16.0'
     miui: OS3.0.5.0.WNAMIXM
 - branch: stable
-  date: '2025-02-28'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aurora/releases/download/stable-01.03.2025/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.102.0.VNAINXM-user-15.0-18cf3fc5bc.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/aurora/fw_aurora_in_global_aurora_in_global-ota_full-OS2.0.102.0.VNAINXM-user-15.0-18cf3fc5bc.zip

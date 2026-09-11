@@ -54,7 +54,7 @@ permalink: /firmware/uke/stable/OS3.0.302.0.WOZEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>116.4 MB</h5>
+                    <h5><b>Size: </b>116.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-05-19</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/uke/stable/OS3.0.302.0.WOZEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_uke_uke_eea_global-ota_full-OS3.0.302.0.WOZEUXM-user-16.0-38e116090e.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">521d5a71d565849aae86743c74e6ede5</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6b68c0f4a97e7b267c382f82f0871c65</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

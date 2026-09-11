@@ -1,30 +1,30 @@
 - branch: stable
-  date: '2026-08-27'
+  date: '2026-09-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klee/releases/download/stable-27.08.2026/fw_klee_klee_global-ota_full-OS3.0.307.0.WPJMIXM-user-16.0-7e15f2f224.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klee/fw_klee_klee_global-ota_full-OS3.0.307.0.WPJMIXM-user-16.0-7e15f2f224.zip
-  filename: fw_klee_klee_global-ota_full-OS3.0.307.0.WPJMIXM-user-16.0-7e15f2f224.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klee/releases/download/stable-28.06.2026/fw_klee_klee_global-ota_full-OS3.0.304.0.WPJMIXM-user-16.0-a2952bd4fe.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klee/fw_klee_klee_global-ota_full-OS3.0.304.0.WPJMIXM-user-16.0-a2952bd4fe.zip
+  filename: fw_klee_klee_global-ota_full-OS3.0.304.0.WPJMIXM-user-16.0-a2952bd4fe.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.307.0.WPJMIXM
+    miui: OS3.0.304.0.WPJMIXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klee/releases/download/stable-24.08.2026/fw_klee_klee-ota_full-OS3.0.306.0.WPJCNXM-user-16.0-1a3262f2e1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klee/fw_klee_klee-ota_full-OS3.0.306.0.WPJCNXM-user-16.0-1a3262f2e1.zip
-  filename: fw_klee_klee-ota_full-OS3.0.306.0.WPJCNXM-user-16.0-1a3262f2e1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klee/releases/download/stable-25.02.2026/fw_klee_klee-ota_full-OS3.0.20.0.WPJCNXM-user-16.0-2f1908aa66.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klee/fw_klee_klee-ota_full-OS3.0.20.0.WPJCNXM-user-16.0-2f1908aa66.zip
+  filename: fw_klee_klee-ota_full-OS3.0.20.0.WPJCNXM-user-16.0-2f1908aa66.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.306.0.WPJCNXM
+    miui: OS3.0.20.0.WPJCNXM
 - branch: stable
-  date: '2026-09-07'
+  date: '2026-09-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klee/releases/download/stable-07.09.2026/fw_klee_klee_eea_global-ota_full-OS3.0.304.0.WPJEUXM-user-16.0-ad73459ffb.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klee/fw_klee_klee_eea_global-ota_full-OS3.0.304.0.WPJEUXM-user-16.0-ad73459ffb.zip
-  filename: fw_klee_klee_eea_global-ota_full-OS3.0.304.0.WPJEUXM-user-16.0-ad73459ffb.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klee/releases/download/stable-24.08.2026/fw_klee_klee_eea_global-ota_full-OS3.0.303.0.WPJEUXM-user-16.0-4d01f40862.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klee/fw_klee_klee_eea_global-ota_full-OS3.0.303.0.WPJEUXM-user-16.0-4d01f40862.zip
+  filename: fw_klee_klee_eea_global-ota_full-OS3.0.303.0.WPJEUXM-user-16.0-4d01f40862.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.304.0.WPJEUXM
+    miui: OS3.0.303.0.WPJEUXM

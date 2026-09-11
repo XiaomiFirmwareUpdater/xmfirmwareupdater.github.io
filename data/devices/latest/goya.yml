@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-24.08.2026/fw_goya_goya_global-ota_full-OS3.0.301.0.WOEMIXM-user-16.0-7dd6fb6e78.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_global-ota_full-OS3.0.301.0.WOEMIXM-user-16.0-7dd6fb6e78.zip
-  filename: fw_goya_goya_global-ota_full-OS3.0.301.0.WOEMIXM-user-16.0-7dd6fb6e78.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-27.04.2026/fw_goya_goya_global-ota_full-OS3.0.300.0.WOEMIXM-user-16.0-ed32b49d09.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_global-ota_full-OS3.0.300.0.WOEMIXM-user-16.0-ed32b49d09.zip
+  filename: fw_goya_goya_global-ota_full-OS3.0.300.0.WOEMIXM-user-16.0-ed32b49d09.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.301.0.WOEMIXM
+    miui: OS3.0.300.0.WOEMIXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-24.08.2026/fw_goya_goya_eea_global-ota_full-OS3.0.307.0.WOEEUXM-user-16.0-8c4243de48.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/goya/fw_goya_goya_eea_global-ota_full-OS3.0.307.0.WOEEUXM-user-16.0-8c4243de48.zip
-  filename: fw_goya_goya_eea_global-ota_full-OS3.0.307.0.WOEEUXM-user-16.0-8c4243de48.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_goya/releases/download/stable-31.10.2025/fw_goya_goya_eea_global-ota_full-OS2.0.209.0.VOEEUXM-user-15.0-83555c9bb0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/goya/fw_goya_goya_eea_global-ota_full-OS2.0.209.0.VOEEUXM-user-15.0-83555c9bb0.zip
+  filename: fw_goya_goya_eea_global-ota_full-OS2.0.209.0.VOEEUXM-user-15.0-83555c9bb0.zip
   region: Europe
   versions:
-    android: '16.0'
-    miui: OS3.0.307.0.WOEEUXM
+    android: '15.0'
+    miui: OS2.0.209.0.VOEEUXM

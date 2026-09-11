@@ -54,7 +54,7 @@ permalink: /firmware/rodin/stable/OS2.0.103.0.VOJINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>64.2 MB</h5>
+                    <h5><b>Size: </b>64.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-06-24</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/rodin/stable/OS2.0.103.0.VOJINXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_rodin_in_global_rodin_in_global-ota_full-OS2.0.103.0.VOJINXM-user-15.0-f1bd573554.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">cb388a15e5881b77e1423818e7c7b94b</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f37683051da4ce6e56ce991cb7f76b6b</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -54,7 +54,7 @@ permalink: /firmware/dada/stable/OS3.0.302.0.WOCEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>230.1 MB</h5>
+                    <h5><b>Size: </b>225.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-06-02</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/dada/stable/OS3.0.302.0.WOCEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_dada_dada_eea_global-ota_full-OS3.0.302.0.WOCEUXM-user-16.0-19bcc52da6.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">5b376c5030d7f71726ce546ba2c7dc9c</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ae87cd865eef566f159dec6d7b50030a</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

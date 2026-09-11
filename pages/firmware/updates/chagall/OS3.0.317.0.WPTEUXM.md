@@ -54,7 +54,7 @@ permalink: /firmware/chagall/stable/OS3.0.317.0.WPTEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>79.6 MB</h5>
+                    <h5><b>Size: </b>79.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-09-07</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/chagall/stable/OS3.0.317.0.WPTEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_chagall_chagall_eea_global-ota_full-OS3.0.317.0.WPTEUXM-user-16.0-f5d238f277.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">5600bc2f685a60a60369d7520933620b</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">1574697606b754f29e277f51a5c88def</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

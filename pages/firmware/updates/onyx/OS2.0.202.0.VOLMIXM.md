@@ -54,7 +54,7 @@ permalink: /firmware/onyx/stable/OS2.0.202.0.VOLMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>180.5 MB</h5>
+                    <h5><b>Size: </b>175.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-09-29</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/onyx/stable/OS2.0.202.0.VOLMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_onyx_global_onyx_global-ota_full-OS2.0.202.0.VOLMIXM-user-15.0-5ff284f373.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">675fd1a7f0b0f68156eadaf457900fc8</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">b08df2dfbe8390ebacc0b94a7555f0cf</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

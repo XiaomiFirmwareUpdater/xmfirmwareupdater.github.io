@@ -54,7 +54,7 @@ permalink: /firmware/flourite/stable/OS3.0.305.0.WPREUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>125.1 MB</h5>
+                    <h5><b>Size: </b>124.9 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-05-06</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/flourite/stable/OS3.0.305.0.WPREUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_flourite_flourite_eea_global-ota_full-OS3.0.305.0.WPREUXM-user-16.0-5d02999ccc.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">3b53bfd0e6f0aa8cdce7d1ed6a742742</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">04bba1b8d4bb245d2b1a81361aa2b5dd</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

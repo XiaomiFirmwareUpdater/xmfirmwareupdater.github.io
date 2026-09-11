@@ -54,7 +54,7 @@ permalink: /firmware/byron/stable/OS3.0.301.0.WAFCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>216.7 MB</h5>
+                    <h5><b>Size: </b>205.6 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-05-23</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/byron/stable/OS3.0.301.0.WAFCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_byron_byron-ota_full-OS3.0.301.0.WAFCNXM-user-16.0-3b8f263428.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">8075c4b3107b9260defd63de1910331c</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">8d9e121da852a3e5687c0a408fd31a4a</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

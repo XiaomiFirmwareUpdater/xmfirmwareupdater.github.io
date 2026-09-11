@@ -54,7 +54,7 @@ permalink: /firmware/houji/stable/OS2.0.112.0.VNCCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>178.0 MB</h5>
+                    <h5><b>Size: </b>173.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-05-16</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/houji/stable/OS2.0.112.0.VNCCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_houji_houji-ota_full-OS2.0.112.0.VNCCNXM-user-15.0-23f86e3f1a.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">6eaf0a2981cb4340ab994b6eb4cec493</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">d4ec8da6b53d857ca1f460cbe3bdbe27</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

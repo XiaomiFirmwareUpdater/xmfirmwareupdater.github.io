@@ -54,8 +54,9 @@ permalink: /hyperos/tanzanite/
                 <tbody>
                 <tr><td>Redmi Note 14 4G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WOGEUXM</td><td>16.0</td><td>7.6 GB</td><td>2026-06-16</td><td><a href="/hyperos/tanzanite/stable/OS3.0.301.0.WOGEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 4G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WOGEUXM</td><td>16.0</td><td>5.4 GB</td><td>2026-06-26</td><td><a href="/hyperos/tanzanite/stable/OS3.0.301.0.WOGEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 4G Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOGMIXM</td><td>16.0</td><td>8.8 GB</td><td>2026-06-08</td><td><a href="/hyperos/tanzanite/stable/OS3.0.302.0.WOGMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 4G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOGMIXM</td><td>16.0</td><td>5.4 GB</td><td>2026-06-16</td><td><a href="/hyperos/tanzanite/stable/OS3.0.302.0.WOGMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 4G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WOGEUXM</td><td>16.0</td><td>5.4 GB</td><td>2026-09-07</td><td><a href="/hyperos/tanzanite/stable beta/OS3.0.302.0.WOGEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 4G Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WOGMIXM</td><td>16.0</td><td>8.8 GB</td><td>2026-08-14</td><td><a href="/hyperos/tanzanite/stable/OS3.0.303.0.WOGMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 4G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WOGMIXM</td><td>16.0</td><td>5.4 GB</td><td>2026-08-27</td><td><a href="/hyperos/tanzanite/stable/OS3.0.303.0.WOGMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 4G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.4.0.WOGMIXM</td><td>16.0</td><td>5.3 GB</td><td>2025-11-30</td><td><a href="/hyperos/tanzanite/stable beta/OS3.0.4.0.WOGMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 4G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOGIDXM</td><td>16.0</td><td>7.7 GB</td><td>2026-06-26</td><td><a href="/hyperos/tanzanite/stable/OS3.0.302.0.WOGIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 4G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOGIDXM</td><td>16.0</td><td>5.3 GB</td><td>2026-07-14</td><td><a href="/hyperos/tanzanite/stable/OS3.0.302.0.WOGIDXM/">Download</a></td></tr>

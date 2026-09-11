@@ -54,7 +54,7 @@ permalink: /firmware/houji/stable/OS1.1.3.0.VNCMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>176.7 MB</h5>
+                    <h5><b>Size: </b>171.8 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-11-05</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/houji/stable/OS1.1.3.0.VNCMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_global-ota_houji_global-ota_full-OS1.1.3.0.VNCMIXM-user-15.0-a5c05e8590.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">707e8e0807528441210360db988fc362</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">dbda8f1ed03c30adf4cece8cbfb52cb9</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -54,7 +54,7 @@ permalink: /firmware/chenfeng/stable/OS3.0.304.0.WNJCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>184.1 MB</h5>
+                    <h5><b>Size: </b>184.0 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-04-26</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/chenfeng/stable/OS3.0.304.0.WNJCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_chenfeng_chenfeng-ota_full-OS3.0.304.0.WNJCNXM-user-16.0-17f7563110.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">0f30aeb080b2a541a25a6e8f045b17ee</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">a9bdd335fc79f1cef2881e8d127c712d</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

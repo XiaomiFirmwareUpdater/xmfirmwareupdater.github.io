@@ -54,7 +54,7 @@ permalink: /firmware/violin/stable/OS2.0.208.0.VOTCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>30.3 MB</h5>
+                    <h5><b>Size: </b>30.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-06-27</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/violin/stable/OS2.0.208.0.VOTCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_violin_violin-ota_full-OS2.0.208.0.VOTCNXM-user-15.0-2fdf4996f7.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">05fa2f9f446da1431a0887c6e99f1cb5</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">4c71263cdc11eb51231a882d42856c45</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -54,7 +54,7 @@ permalink: /firmware/onyx/stable/OS3.0.6.0.WOLMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>182.2 MB</h5>
+                    <h5><b>Size: </b>177.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-02-28</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/onyx/stable/OS3.0.6.0.WOLMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_onyx_onyx_global-ota_full-OS3.0.6.0.WOLMIXM-user-16.0-02188a5378.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">fba257cdc3850a7cfdc897e8ea9cebef</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">25ab8fe1201a4f1a191dff9ce847d942</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

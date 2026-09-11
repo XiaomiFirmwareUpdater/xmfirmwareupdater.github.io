@@ -54,7 +54,7 @@ permalink: /firmware/houji/stable/OS3.0.4.0.WNCINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>176.0 MB</h5>
+                    <h5><b>Size: </b>171.0 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-02-09</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/houji/stable/OS3.0.4.0.WNCINXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_houji_houji_in_global-ota_full-OS3.0.4.0.WNCINXM-user-16.0-2762c457af.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">2d2045ad3cb36fb20c5a6c0a27a38a8f</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">b603c6b73bf36ddbc6c57a3c6159c2c6</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

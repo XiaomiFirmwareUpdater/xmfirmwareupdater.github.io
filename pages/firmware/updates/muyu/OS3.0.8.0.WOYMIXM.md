@@ -54,7 +54,7 @@ permalink: /firmware/muyu/stable/OS3.0.8.0.WOYMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>91.2 MB</h5>
+                    <h5><b>Size: </b>91.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-04-07</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/muyu/stable/OS3.0.8.0.WOYMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_muyu_muyu_global-ota_full-OS3.0.8.0.WOYMIXM-user-16.0-26ed434981.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">81768ec72a31df94ff546e16830dadc1</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">1f266c0482cf13432ee9eb5e3c8b1c77</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

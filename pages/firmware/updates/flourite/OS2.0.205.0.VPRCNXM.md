@@ -54,7 +54,7 @@ permalink: /firmware/flourite/stable/OS2.0.205.0.VPRCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>122.8 MB</h5>
+                    <h5><b>Size: </b>122.7 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-09-13</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/flourite/stable/OS2.0.205.0.VPRCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_flourite_flourite-ota_full-OS2.0.205.0.VPRCNXM-user-15.0-0e2d6b8c87.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">4180b91232c3d024fe028fef8da95717</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">b3632ffa1f6bec591a702c8d3b822b0a</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

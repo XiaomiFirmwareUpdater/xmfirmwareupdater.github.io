@@ -1,0 +1,10 @@
+- branch: stable
+  date: '2026-09-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yingtian/releases/download/stable-07.09.2026/fw_yingtian_yingtian-ota_full-OS4.0.10.0.XBMCNXM-user-17.0-b8fd7d392d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/yingtian/fw_yingtian_yingtian-ota_full-OS4.0.10.0.XBMCNXM-user-17.0-b8fd7d392d.zip
+  filename: fw_yingtian_yingtian-ota_full-OS4.0.10.0.XBMCNXM-user-17.0-b8fd7d392d.zip
+  region: China
+  versions:
+    android: '17.0'
+    miui: OS4.0.10.0.XBMCNXM

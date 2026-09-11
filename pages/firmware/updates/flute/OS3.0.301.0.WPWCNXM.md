@@ -54,7 +54,7 @@ permalink: /firmware/flute/stable/OS3.0.301.0.WPWCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>48.8 MB</h5>
+                    <h5><b>Size: </b>48.7 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-04-03</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/flute/stable/OS3.0.301.0.WPWCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_flute_flute-ota_full-OS3.0.301.0.WPWCNXM-user-16.0-e36bdf7b22.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">cf2c0662899eae39d004e656ab39c730</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">e4b68c705c0bfa44ae43b53fa6d31510</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

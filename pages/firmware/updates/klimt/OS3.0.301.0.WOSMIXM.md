@@ -54,7 +54,7 @@ permalink: /firmware/klimt/stable/OS3.0.301.0.WOSMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>75.4 MB</h5>
+                    <h5><b>Size: </b>75.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-04-30</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/klimt/stable/OS3.0.301.0.WOSMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_klimt_klimt_global-ota_full-OS3.0.301.0.WOSMIXM-user-16.0-41598d3c2a.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">da3cf011e15097c4cabfbfabc0539fa4</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">c11ead9140d4e32b7dbbdb4184637973</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

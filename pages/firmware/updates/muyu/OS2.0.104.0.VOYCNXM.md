@@ -54,7 +54,7 @@ permalink: /firmware/muyu/stable/OS2.0.104.0.VOYCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>91.6 MB</h5>
+                    <h5><b>Size: </b>91.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-02-23</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/muyu/stable/OS2.0.104.0.VOYCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_muyu_muyu-ota_full-OS2.0.104.0.VOYCNXM-user-15.0-eb335d19db.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">3fca7b633d2b66014296e7becab4ad79</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6f67bed643d0b3b5fecfb9d4b8027b0c</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

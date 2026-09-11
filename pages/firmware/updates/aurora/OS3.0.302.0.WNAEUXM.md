@@ -54,7 +54,7 @@ permalink: /firmware/aurora/stable/OS3.0.302.0.WNAEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>194.4 MB</h5>
+                    <h5><b>Size: </b>189.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-05-06</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/aurora/stable/OS3.0.302.0.WNAEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_aurora_aurora_eea_global-ota_full-OS3.0.302.0.WNAEUXM-user-16.0-235944afac.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">a615c1657be4c908dc86cbb2645efb5d</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ade1ffabc5526a83f668afe5570c7185</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

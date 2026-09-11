@@ -54,7 +54,7 @@ permalink: /firmware/uke/stable/OS2.0.102.0.VOZMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>100.2 MB</h5>
+                    <h5><b>Size: </b>100.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-03-02</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/uke/stable/OS2.0.102.0.VOZMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_uke_global_uke_global-ota_full-OS2.0.102.0.VOZMIXM-user-15.0-6e9672b6d1.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">69b91c1aa12338ca293e1f1437f8dca7</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">c4a76f48ab2177f1fdbf13b4ac90c8df</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

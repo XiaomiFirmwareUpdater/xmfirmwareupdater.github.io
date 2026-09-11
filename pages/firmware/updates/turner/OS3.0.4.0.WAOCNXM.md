@@ -54,7 +54,7 @@ permalink: /firmware/turner/stable/OS3.0.4.0.WAOCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>26.8 MB</h5>
+                    <h5><b>Size: </b>26.7 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-11-29</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/turner/stable/OS3.0.4.0.WAOCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_turner_turner-ota_full-OS3.0.4.0.WAOCNXM-user-16.0-25ab0170bb.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">52f12283f85b9b47664a0a1b45cd4298</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ff0952efc042b9a56abe060d553e2db3</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

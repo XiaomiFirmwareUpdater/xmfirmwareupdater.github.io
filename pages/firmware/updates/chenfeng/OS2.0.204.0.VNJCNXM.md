@@ -54,7 +54,7 @@ permalink: /firmware/chenfeng/stable/OS2.0.204.0.VNJCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>168.1 MB</h5>
+                    <h5><b>Size: </b>168.0 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-08-31</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/chenfeng/stable/OS2.0.204.0.VNJCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_chenfeng_chenfeng-ota_full-OS2.0.204.0.VNJCNXM-user-15.0-48f3536b3b.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">dbf5e929224492fd4dd2c10afc21ddf1</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">b311f4dab22f34f79fa4a393ac98d85f</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

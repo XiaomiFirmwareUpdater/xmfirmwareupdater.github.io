@@ -54,7 +54,7 @@ permalink: /firmware/ruyi/stable/OS3.0.302.0.WNIMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>183.4 MB</h5>
+                    <h5><b>Size: </b>178.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-06-18</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/ruyi/stable/OS3.0.302.0.WNIMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_ruyi_ruyi_global-ota_full-OS3.0.302.0.WNIMIXM-user-16.0-f273dbbf57.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">5a4d4bb353cc85d8703e0af4176d4239</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">be644f6a46f05e2cc2ca97749dccee1f</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

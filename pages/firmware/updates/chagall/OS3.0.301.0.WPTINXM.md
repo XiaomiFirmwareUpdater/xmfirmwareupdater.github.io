@@ -54,7 +54,7 @@ permalink: /firmware/chagall/stable/OS3.0.301.0.WPTINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>80.0 MB</h5>
+                    <h5><b>Size: </b>79.9 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-06-02</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/chagall/stable/OS3.0.301.0.WPTINXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_chagall_chagall_in_global-ota_full-OS3.0.301.0.WPTINXM-user-16.0-e0daef5008.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">d946a61be6db11bcb9c8b03bbd36a3d1</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">31eb9c46e1fbd7d848e3f73a76f69ae0</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

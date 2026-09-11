@@ -54,7 +54,7 @@ permalink: /firmware/goya/stable/OS3.0.305.0.WOEEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>61.1 MB</h5>
+                    <h5><b>Size: </b>61.0 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-06-23</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/goya/stable/OS3.0.305.0.WOEEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_goya_goya_eea_global-ota_full-OS3.0.305.0.WOEEUXM-user-16.0-f6d1a93cfc.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c6f2a0b9ff29ff42a340f3febbb5d746</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">399f0da0847f695893ce44df3630281e</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

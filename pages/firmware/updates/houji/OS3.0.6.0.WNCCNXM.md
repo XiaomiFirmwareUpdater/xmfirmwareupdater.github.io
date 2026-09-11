@@ -54,7 +54,7 @@ permalink: /firmware/houji/stable/OS3.0.6.0.WNCCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>177.4 MB</h5>
+                    <h5><b>Size: </b>172.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-02-04</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/houji/stable/OS3.0.6.0.WNCCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_houji_houji-ota_full-OS3.0.6.0.WNCCNXM-user-16.0-63c202b5f4.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">cc767f5e018dae8f2326e757839f44b1</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">cd210db4d5bf7581b5a44e7aed1b513e</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

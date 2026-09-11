@@ -54,7 +54,7 @@ permalink: /firmware/chenfeng/stable/OS1.0.6.0.UNJINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>167.0 MB</h5>
+                    <h5><b>Size: </b>166.9 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-09-27</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/chenfeng/stable/OS1.0.6.0.UNJINXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_chenfeng_miui_CHENFENGINGlobal_OS1.0.6.0.UNJINXM_0bcd0c485d_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">1d22ea83da14fec9ec097b62912b761f</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">14fa675be13cc19d17f506414e2113b3</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

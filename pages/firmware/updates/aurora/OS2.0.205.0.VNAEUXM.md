@@ -54,7 +54,7 @@ permalink: /firmware/aurora/stable/OS2.0.205.0.VNAEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>195.0 MB</h5>
+                    <h5><b>Size: </b>190.0 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-08-12</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/aurora/stable/OS2.0.205.0.VNAEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_aurora_eea_global_aurora_eea_global-ota_full-OS2.0.205.0.VNAEUXM-user-15.0-78a1020933.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">adcac9dcd8968a20136bb653cca34835</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">61b9a3a09d4dbaf5a2974ac86093d139</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

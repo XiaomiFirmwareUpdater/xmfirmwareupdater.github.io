@@ -54,7 +54,7 @@ permalink: /firmware/shennong/stable/OS1.0.42.0.UNBCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>178.8 MB</h5>
+                    <h5><b>Size: </b>174.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-06-30</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/shennong/stable/OS1.0.42.0.UNBCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_shennong_miui_SHENNONG_OS1.0.42.0.UNBCNXM_a1709e00c9_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">e8f8f55383f169f275aade2ce4b32fb4</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">7574e3fe3414bc74c3fcf6f2a5f14a8d</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

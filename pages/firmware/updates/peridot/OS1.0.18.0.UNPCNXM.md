@@ -54,7 +54,7 @@ permalink: /firmware/peridot/stable/OS1.0.18.0.UNPCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>170.5 MB</h5>
+                    <h5><b>Size: </b>170.4 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-11-26</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/peridot/stable/OS1.0.18.0.UNPCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_peridot_miui_PERIDOT_OS1.0.18.0.UNPCNXM_85e409bd49_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">660fc9ce4d191f72f225676500cfdfa1</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">32651c81400af35c91b47b4d94072a41</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

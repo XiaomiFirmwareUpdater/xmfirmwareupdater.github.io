@@ -54,7 +54,7 @@ permalink: /firmware/popsicle/stable/OS3.0.40.0.WPBCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>222.2 MB</h5>
+                    <h5><b>Size: </b>211.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-01-21</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/popsicle/stable/OS3.0.40.0.WPBCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_popsicle_popsicle-ota_full-OS3.0.40.0.WPBCNXM-user-16.0-f0228ea917.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">a835dfbf587853f46aeb0d12f41ce7bb</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">3458232f1398e7299db2ef89cf3d1af9</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

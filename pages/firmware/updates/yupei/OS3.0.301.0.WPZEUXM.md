@@ -54,7 +54,7 @@ permalink: /firmware/yupei/stable/OS3.0.301.0.WPZEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>84.8 MB</h5>
+                    <h5><b>Size: </b>79.8 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-03-31</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/yupei/stable/OS3.0.301.0.WPZEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_yupei_yupei_eea_global-ota_full-OS3.0.301.0.WPZEUXM-user-16.0-d5ad4cf640.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">bffb31794fd30661fa8974b88a997330</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">07af02d63f8c7e047392afbdd36b24b7</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

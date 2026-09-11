@@ -54,7 +54,7 @@ permalink: /firmware/nezha/stable/OS3.0.332.0.XPAMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>242.8 MB</h5>
+                    <h5><b>Size: </b>232.0 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-08-24</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/nezha/stable/OS3.0.332.0.XPAMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_nezha_nezha_global-ota_full-OS3.0.332.0.XPAMIXM-user-17.0-58d1315ed9.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">2346fea66c2e4ef88dbb9cf19d3ac239</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">647089fc1f9f5276531515d26e5c9f0b</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

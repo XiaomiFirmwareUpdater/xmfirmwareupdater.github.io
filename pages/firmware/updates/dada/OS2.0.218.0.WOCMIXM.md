@@ -54,7 +54,7 @@ permalink: /firmware/dada/stable/OS2.0.218.0.WOCMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>220.6 MB</h5>
+                    <h5><b>Size: </b>215.6 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-07-23</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/dada/stable/OS2.0.218.0.WOCMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_dada_global_dada_global-ota_full-OS2.0.218.0.WOCMIXM-user-16.0-ebb1fa23a5.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">aa108ff96c2138a0b982f7da053d54e8</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">488fd08d2a7479c232f30e120dc2a6e7</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

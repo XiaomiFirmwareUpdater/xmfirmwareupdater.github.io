@@ -54,7 +54,7 @@ permalink: /firmware/aurora/stable/OS1.0.13.0.UNAEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>190.2 MB</h5>
+                    <h5><b>Size: </b>185.6 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-10-15</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/aurora/stable/OS1.0.13.0.UNAEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_aurora_miui_AURORAEEAGlobal_OS1.0.13.0.UNAEUXM_c44a4d9a24_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">634b64d40f931cc1842624fe894d9813</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">b90cb14f33491db9500426a5fc68277c</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

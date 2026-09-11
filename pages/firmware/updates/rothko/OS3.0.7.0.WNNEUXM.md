@@ -54,7 +54,7 @@ permalink: /firmware/rothko/stable/OS3.0.7.0.WNNEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>86.8 MB</h5>
+                    <h5><b>Size: </b>86.6 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-03-31</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/rothko/stable/OS3.0.7.0.WNNEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_rothko_rothko_eea_global-ota_full-OS3.0.7.0.WNNEUXM-user-16.0-802e394147.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">adfca5bda68eb036cabf4a52d1f69df3</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">69553ad993744fd847e59ce0e3c9c858</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

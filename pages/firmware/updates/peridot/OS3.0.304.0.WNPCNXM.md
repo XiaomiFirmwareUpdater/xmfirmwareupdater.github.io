@@ -54,7 +54,7 @@ permalink: /firmware/peridot/stable/OS3.0.304.0.WNPCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>188.2 MB</h5>
+                    <h5><b>Size: </b>188.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-08-24</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/peridot/stable/OS3.0.304.0.WNPCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_peridot_peridot-ota_full-OS3.0.304.0.WNPCNXM-user-16.0-1f2d1e33e8.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">eebee9c1458c7d7c1c701c9521e79b33</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">74c71af84b3942e2cad9b3cbbaaefb20</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

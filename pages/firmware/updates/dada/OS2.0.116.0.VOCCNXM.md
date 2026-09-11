@@ -54,7 +54,7 @@ permalink: /firmware/dada/stable/OS2.0.116.0.VOCCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>192.3 MB</h5>
+                    <h5><b>Size: </b>187.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-04-19</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/dada/stable/OS2.0.116.0.VOCCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_dada_dada-ota_full-OS2.0.116.0.VOCCNXM-user-15.0-5315ce10b7.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c4a00f3303030417c78a8362254b6532</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">03dd6c432099965be76db0af2a6795af</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

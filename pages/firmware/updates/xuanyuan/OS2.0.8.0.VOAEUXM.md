@@ -54,7 +54,7 @@ permalink: /firmware/xuanyuan/stable/OS2.0.8.0.VOAEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>192.0 MB</h5>
+                    <h5><b>Size: </b>187.0 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-03-02</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/xuanyuan/stable/OS2.0.8.0.VOAEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_xuanyuan_eea_global_xuanyuan_eea_global-ota_full-OS2.0.8.0.VOAEUXM-user-15.0-5bff93d8c8.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">182cc165ae11865fbfdc1b975d8c03b7</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ee3131dffb18eb973e45ad49223f08b1</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

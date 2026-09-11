@@ -54,7 +54,7 @@ permalink: /firmware/flourite/stable/OS2.0.204.0.VPREUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>124.6 MB</h5>
+                    <h5><b>Size: </b>124.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-01-07</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/flourite/stable/OS2.0.204.0.VPREUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_flourite_flourite_eea_global-ota_full-OS2.0.204.0.VPREUXM-user-15.0-351899c812.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">e6d749a085169bd2e5e61ba65cfc5deb</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">3a6bf40f025c161aeba2cd26d24bdd84</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -54,7 +54,7 @@ permalink: /firmware/pudding/stable/OS3.0.303.0.WPCINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>222.5 MB</h5>
+                    <h5><b>Size: </b>211.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-05-25</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/pudding/stable/OS3.0.303.0.WPCINXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_pudding_pudding_in_global-ota_full-OS3.0.303.0.WPCINXM-user-16.0-9cdf47ff8b.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">d61e7773ab60c5344a1411ce301dd9b1</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">c189d7c79d6f199aa25527b51f2a5016</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

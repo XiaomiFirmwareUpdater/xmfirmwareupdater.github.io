@@ -54,7 +54,7 @@ permalink: /firmware/muyu/stable/OS2.0.103.0.VOYMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>91.7 MB</h5>
+                    <h5><b>Size: </b>91.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-04-02</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/muyu/stable/OS2.0.103.0.VOYMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_muyu_global_muyu_global-ota_full-OS2.0.103.0.VOYMIXM-user-15.0-35ac469fc5.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">b7ca5b995a6c93c064a6c17d1c6de3aa</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">9a3d8810f923b313fd5883156003154c</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

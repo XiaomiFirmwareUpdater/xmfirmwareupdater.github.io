@@ -54,7 +54,7 @@ permalink: /firmware/klimt/stable/OS2.0.208.0.VOSEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>75.2 MB</h5>
+                    <h5><b>Size: </b>75.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-09-25</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/klimt/stable/OS2.0.208.0.VOSEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_klimt_eea_global_klimt_eea_global-ota_full-OS2.0.208.0.VOSEUXM-user-15.0-2fd44903b0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">fc95c73a88d3c02f1acde6e332b6d085</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">71e9f5b78a882d73083b4a989c48055d</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -54,7 +54,7 @@ permalink: /firmware/athens/stable/OS3.0.301.0.WPIMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>244.0 MB</h5>
+                    <h5><b>Size: </b>233.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-09-01</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/athens/stable/OS3.0.301.0.WPIMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_athens_athens_global-ota_full-OS3.0.301.0.WPIMIXM-user-16.0-de718381bd.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">ffafd2d0a3561ff548181e5b57e9db76</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">88ffcfcb8a2a957c64daaa1f7a7abc8a</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

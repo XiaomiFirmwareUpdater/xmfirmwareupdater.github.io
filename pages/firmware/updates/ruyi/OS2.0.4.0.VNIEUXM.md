@@ -54,7 +54,7 @@ permalink: /firmware/ruyi/stable/OS2.0.4.0.VNIEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>184.9 MB</h5>
+                    <h5><b>Size: </b>179.7 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-01-20</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/ruyi/stable/OS2.0.4.0.VNIEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_ruyi_eea_global_ruyi_eea_global-ota_full-OS2.0.4.0.VNIEUXM-user-15.0-fa2d48c2d5.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c6552819a396f3c4c7fa866cb6bf63ea</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">72ea95b1fd1ef36f721cd0795cb90bae</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -54,7 +54,7 @@ permalink: /firmware/athens/stable/OS3.0.306.0.WPICNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>244.0 MB</h5>
+                    <h5><b>Size: </b>233.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-08-24</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/athens/stable/OS3.0.306.0.WPICNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_athens_athens-ota_full-OS3.0.306.0.WPICNXM-user-16.0-9fc053e689.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">98b381281807ae20b355ce6e5f354f73</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f886509210faac9366720f88206db5b8</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

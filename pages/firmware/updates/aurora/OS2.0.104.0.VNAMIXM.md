@@ -54,7 +54,7 @@ permalink: /firmware/aurora/stable/OS2.0.104.0.VNAMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>194.9 MB</h5>
+                    <h5><b>Size: </b>190.0 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-05-28</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/aurora/stable/OS2.0.104.0.VNAMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_aurora_global_aurora_global-ota_full-OS2.0.104.0.VNAMIXM-user-15.0-cbf59d5fa0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">8ab8fc859ee7dcaec95993e15d066a38</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">90ca5d67db96a6730869a65ca91fd1e0</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

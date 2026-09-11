@@ -54,7 +54,7 @@ permalink: /firmware/flourite/stable/OS2.0.208.0.VPRMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>124.6 MB</h5>
+                    <h5><b>Size: </b>124.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-03-07</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/flourite/stable/OS2.0.208.0.VPRMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_flourite_flourite_global-ota_full-OS2.0.208.0.VPRMIXM-user-15.0-1634b38f15.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">cac4b95f0ca79cbfafab95700b2e5155</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">10dd3bea66e289c970782e6b117781a9</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

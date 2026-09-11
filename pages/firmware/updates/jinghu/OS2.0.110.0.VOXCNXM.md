@@ -54,7 +54,7 @@ permalink: /firmware/jinghu/stable/OS2.0.110.0.VOXCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>30.1 MB</h5>
+                    <h5><b>Size: </b>30.0 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-06-04</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/jinghu/stable/OS2.0.110.0.VOXCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_jinghu_jinghu-ota_full-OS2.0.110.0.VOXCNXM-user-15.0-b31d1e2501.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">a500f0ccc39657a645233f24c58b7ea4</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">a2f4a1754485b95ad0e725c497ddf5cd</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

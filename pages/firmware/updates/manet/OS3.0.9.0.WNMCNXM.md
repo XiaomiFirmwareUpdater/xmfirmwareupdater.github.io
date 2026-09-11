@@ -54,7 +54,7 @@ permalink: /firmware/manet/stable/OS3.0.9.0.WNMCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>175.9 MB</h5>
+                    <h5><b>Size: </b>171.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-02-04</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/manet/stable/OS3.0.9.0.WNMCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_manet_manet-ota_full-OS3.0.9.0.WNMCNXM-user-16.0-b0adef7e0c.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">48499d803c9c8db167d3cfd362c7d6b9</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">489777ef0548b3b266aec5431fadf845</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

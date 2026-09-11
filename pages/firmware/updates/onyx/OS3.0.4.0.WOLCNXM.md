@@ -54,7 +54,7 @@ permalink: /firmware/onyx/stable/OS3.0.4.0.WOLCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>182.2 MB</h5>
+                    <h5><b>Size: </b>177.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-11-13</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/onyx/stable/OS3.0.4.0.WOLCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_onyx_onyx-ota_full-OS3.0.4.0.WOLCNXM-user-16.0-8390fb1aa7.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">bc7042a61ceb853656e9f494f6f68751</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">b14bee52a062c2e8196ac210c4bd2e28</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -54,7 +54,7 @@ permalink: /firmware/aurora/stable/OS3.0.3.0.WNAINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>194.4 MB</h5>
+                    <h5><b>Size: </b>189.4 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-12-29</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/aurora/stable/OS3.0.3.0.WNAINXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_aurora_aurora_in_global-ota_full-OS3.0.3.0.WNAINXM-user-16.0-e761dd9e6d.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">f97d56f1ddc2c7d50e264722b72a13b8</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">d2a5877666f4a9a1c62c1551d340a882</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

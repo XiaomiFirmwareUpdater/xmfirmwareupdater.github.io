@@ -54,7 +54,7 @@ permalink: /firmware/amethyst/stable/OS2.0.202.0.VOPEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>118.1 MB</h5>
+                    <h5><b>Size: </b>118.0 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-07-07</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/amethyst/stable/OS2.0.202.0.VOPEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_amethyst_eea_global_amethyst_eea_global-ota_full-OS2.0.202.0.VOPEUXM-user-15.0-631125fa71.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">2c63b05ea7f7d2d1f0e7668936f1cb8d</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6855182c74ea9fbc6cfa1f61ed96fec7</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

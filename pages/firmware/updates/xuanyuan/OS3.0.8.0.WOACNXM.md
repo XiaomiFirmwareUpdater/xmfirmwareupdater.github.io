@@ -54,7 +54,7 @@ permalink: /firmware/xuanyuan/stable/OS3.0.8.0.WOACNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>214.2 MB</h5>
+                    <h5><b>Size: </b>209.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-01-29</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/xuanyuan/stable/OS3.0.8.0.WOACNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_xuanyuan_xuanyuan-ota_full-OS3.0.8.0.WOACNXM-user-16.0-b4da4f88c6.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">045b7779fda8b1c9d4b921ee3954198a</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">bd8b6d4762b3d64523e368d02d5dce6d</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

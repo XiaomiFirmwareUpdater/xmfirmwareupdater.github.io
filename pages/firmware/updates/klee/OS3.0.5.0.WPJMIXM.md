@@ -54,7 +54,7 @@ permalink: /firmware/klee/stable/OS3.0.5.0.WPJMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>72.7 MB</h5>
+                    <h5><b>Size: </b>72.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-04-20</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/klee/stable/OS3.0.5.0.WPJMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_klee_klee_global-ota_full-OS3.0.5.0.WPJMIXM-user-16.0-fdcd033531.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">643d07648c244d2ee15fde1ce2a57199</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">cecdadf9d10a68e9a63e2b4d6043d8db</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -54,7 +54,7 @@ permalink: /firmware/houji/stable/OS1.0.13.0.UNCMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>178.6 MB</h5>
+                    <h5><b>Size: </b>174.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-09-11</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/houji/stable/OS1.0.13.0.UNCMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_houji_miui_HOUJIGlobal_OS1.0.13.0.UNCMIXM_6fc0789e12_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">7198546fc6a27025d8cb62261d5e1b26</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">d2111daac8cc7b4e8eeaf2657a15cf64</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

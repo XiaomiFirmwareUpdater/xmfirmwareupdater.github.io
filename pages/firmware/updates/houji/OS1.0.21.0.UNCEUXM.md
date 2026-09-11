@@ -54,7 +54,7 @@ permalink: /firmware/houji/stable/OS1.0.21.0.UNCEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>178.6 MB</h5>
+                    <h5><b>Size: </b>174.0 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-07-12</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/houji/stable/OS1.0.21.0.UNCEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_houji_miui_HOUJIEEAGlobal_OS1.0.21.0.UNCEUXM_4be0482345_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">ab7a5b9c3b472b60f9667944d685e728</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">3681c35b576c02a891006925bf0c6f87</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

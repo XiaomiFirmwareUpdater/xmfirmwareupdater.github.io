@@ -54,7 +54,7 @@ permalink: /firmware/myron/stable/OS3.0.8.0.WPMMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>219.5 MB</h5>
+                    <h5><b>Size: </b>208.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-11-28</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/myron/stable/OS3.0.8.0.WPMMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_myron_myron_global-ota_full-OS3.0.8.0.WPMMIXM-user-16.0-7ab77c059d.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">dec052e12bfe7ed5ab573c870eb1dc16</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6b032c3186747e8e1f6fd2bae0e5aaa5</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

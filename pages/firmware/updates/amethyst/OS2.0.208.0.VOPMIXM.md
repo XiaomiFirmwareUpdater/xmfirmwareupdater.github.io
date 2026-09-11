@@ -54,7 +54,7 @@ permalink: /firmware/amethyst/stable/OS2.0.208.0.VOPMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>118.1 MB</h5>
+                    <h5><b>Size: </b>118.0 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-10-24</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/amethyst/stable/OS2.0.208.0.VOPMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_amethyst_amethyst_global-ota_full-OS2.0.208.0.VOPMIXM-user-15.0-403cd4dd4a.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">b4a27fbc08cc990a5c401bebc0fccb21</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">45c2966b4f834816e0a682f70a1e3548</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

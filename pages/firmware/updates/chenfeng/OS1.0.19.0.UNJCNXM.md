@@ -54,7 +54,7 @@ permalink: /firmware/chenfeng/stable/OS1.0.19.0.UNJCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>167.0 MB</h5>
+                    <h5><b>Size: </b>166.9 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-12-09</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/chenfeng/stable/OS1.0.19.0.UNJCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_chenfeng_miui_CHENFENG_OS1.0.19.0.UNJCNXM_2b1ac52885_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">e4a9871b068c6ab0daf245cc5a4f1d16</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">9f9571bb65e3f0ba574439a288c079e6</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

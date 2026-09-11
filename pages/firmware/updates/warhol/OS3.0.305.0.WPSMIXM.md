@@ -54,7 +54,7 @@ permalink: /firmware/warhol/stable/OS3.0.305.0.WPSMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>89.7 MB</h5>
+                    <h5><b>Size: </b>89.6 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-06-02</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/warhol/stable/OS3.0.305.0.WPSMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_warhol_warhol_global-ota_full-OS3.0.305.0.WPSMIXM-user-16.0-8c0f373638.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">98ed0dfbfbd917f669ef7340d9351119</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">5322b6e51a4ae5ae57496b4b2d682605</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

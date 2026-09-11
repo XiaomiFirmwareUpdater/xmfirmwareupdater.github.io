@@ -54,7 +54,7 @@ permalink: /firmware/luming/stable/OS2.0.105.0.VOICNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>176.0 MB</h5>
+                    <h5><b>Size: </b>171.0 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-05-23</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/luming/stable/OS2.0.105.0.VOICNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_luming_luming-ota_full-OS2.0.105.0.VOICNXM-user-15.0-e2a1b1f0c8.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">331184aeb4a26f367abf547a84fe1c0d</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">430e3581cd41ab447e7bbd096e09e0b0</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

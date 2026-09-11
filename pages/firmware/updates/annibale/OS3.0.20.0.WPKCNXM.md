@@ -54,7 +54,7 @@ permalink: /firmware/annibale/stable/OS3.0.20.0.WPKCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>227.0 MB</h5>
+                    <h5><b>Size: </b>222.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-01-12</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/annibale/stable/OS3.0.20.0.WPKCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_annibale_annibale-ota_full-OS3.0.20.0.WPKCNXM-user-16.0-42b109f0f1.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">225a5a5529781a4c00d27d44fd0a15e9</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">cc3591b78a8f39c24b9ae277c08fd16a</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

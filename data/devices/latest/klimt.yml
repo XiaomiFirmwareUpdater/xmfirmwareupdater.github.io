@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2026-08-25'
+  date: '2026-09-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-25.08.2026/fw_klimt_klimt_global-ota_full-OS3.0.335.0.XOSMIXM-user-17.0-5e29bbbcc2.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_global-ota_full-OS3.0.335.0.XOSMIXM-user-17.0-5e29bbbcc2.zip
-  filename: fw_klimt_klimt_global-ota_full-OS3.0.335.0.XOSMIXM-user-17.0-5e29bbbcc2.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-30.04.2026/fw_klimt_klimt_global-ota_full-OS3.0.301.0.WOSMIXM-user-16.0-41598d3c2a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_global-ota_full-OS3.0.301.0.WOSMIXM-user-16.0-41598d3c2a.zip
+  filename: fw_klimt_klimt_global-ota_full-OS3.0.301.0.WOSMIXM-user-16.0-41598d3c2a.zip
   region: Global
   versions:
-    android: '17.0'
-    miui: OS3.0.335.0.XOSMIXM
+    android: '16.0'
+    miui: OS3.0.301.0.WOSMIXM
 - branch: stable
-  date: '2026-09-04'
+  date: '2026-09-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-04.09.2026/fw_klimt_klimt_eea_global-ota_full-OS3.0.307.0.WOSEUXM-user-16.0-725507757e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_eea_global-ota_full-OS3.0.307.0.WOSEUXM-user-16.0-725507757e.zip
-  filename: fw_klimt_klimt_eea_global-ota_full-OS3.0.307.0.WOSEUXM-user-16.0-725507757e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_klimt/releases/download/stable-27.11.2025/fw_klimt_klimt_eea_global-ota_full-OS3.0.5.0.WOSEUXM-user-16.0-edaee74d4f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/klimt/fw_klimt_klimt_eea_global-ota_full-OS3.0.5.0.WOSEUXM-user-16.0-edaee74d4f.zip
+  filename: fw_klimt_klimt_eea_global-ota_full-OS3.0.5.0.WOSEUXM-user-16.0-edaee74d4f.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.307.0.WOSEUXM
+    miui: OS3.0.5.0.WOSEUXM

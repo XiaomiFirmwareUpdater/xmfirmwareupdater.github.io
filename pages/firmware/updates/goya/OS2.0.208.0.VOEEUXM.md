@@ -54,7 +54,7 @@ permalink: /firmware/goya/stable/OS2.0.208.0.VOEEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>60.4 MB</h5>
+                    <h5><b>Size: </b>60.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-09-25</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/goya/stable/OS2.0.208.0.VOEEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_goya_eea_global_goya_eea_global-ota_full-OS2.0.208.0.VOEEUXM-user-15.0-10bea4ea06.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">1031de6591b30b586ace9fc519e2262d</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">26c533220d8f798ef3cc5dc4b4c9c2eb</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -1,5 +1,5 @@
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chagall/releases/download/stable-24.08.2026/fw_chagall_chagall-ota_full-OS3.0.310.0.WPTCNXM-user-16.0-26780f6238.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chagall/fw_chagall_chagall-ota_full-OS3.0.310.0.WPTCNXM-user-16.0-26780f6238.zip
@@ -9,7 +9,7 @@
     android: '16.0'
     miui: OS3.0.310.0.WPTCNXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chagall/releases/download/stable-24.08.2026/fw_chagall_chagall_eea_global-ota_full-OS3.0.315.0.WPTEUXM-user-16.0-762ad0dd16.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chagall/fw_chagall_chagall_eea_global-ota_full-OS3.0.315.0.WPTEUXM-user-16.0-762ad0dd16.zip
@@ -19,7 +19,7 @@
     android: '16.0'
     miui: OS3.0.315.0.WPTEUXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chagall/releases/download/stable-24.08.2026/fw_chagall_chagall_global-ota_full-OS3.0.306.0.WPTMIXM-user-16.0-08bb195663.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chagall/fw_chagall_chagall_global-ota_full-OS3.0.306.0.WPTMIXM-user-16.0-08bb195663.zip
@@ -29,7 +29,7 @@
     android: '16.0'
     miui: OS3.0.306.0.WPTMIXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chagall/releases/download/stable-24.08.2026/fw_chagall_chagall_global-ota_full-OS3.0.307.0.WPTMIXM-user-16.0-fa2276ca2f.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chagall/fw_chagall_chagall_global-ota_full-OS3.0.307.0.WPTMIXM-user-16.0-fa2276ca2f.zip
@@ -39,7 +39,7 @@
     android: '16.0'
     miui: OS3.0.307.0.WPTMIXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chagall/releases/download/stable-24.08.2026/fw_chagall_chagall_in_global-ota_full-OS3.0.304.0.WPTINXM-user-16.0-10ac1b1b50.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chagall/fw_chagall_chagall_in_global-ota_full-OS3.0.304.0.WPTINXM-user-16.0-10ac1b1b50.zip
@@ -49,7 +49,17 @@
     android: '16.0'
     miui: OS3.0.304.0.WPTINXM
 - branch: stable
-  date: '2026-06-09'
+  date: '2026-09-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chagall/releases/download/stable-11.09.2026/fw_chagall_chagall_in_global-ota_full-OS3.0.305.0.WPTINXM-user-16.0-2381e217c8.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chagall/fw_chagall_chagall_in_global-ota_full-OS3.0.305.0.WPTINXM-user-16.0-2381e217c8.zip
+  filename: fw_chagall_chagall_in_global-ota_full-OS3.0.305.0.WPTINXM-user-16.0-2381e217c8.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.305.0.WPTINXM
+- branch: stable
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chagall/releases/download/stable-09.06.2026/fw_chagall_chagall_in_global-ota_full-OS3.0.302.0.WPTINXM-user-16.0-3f2254d8fd.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chagall/fw_chagall_chagall_in_global-ota_full-OS3.0.302.0.WPTINXM-user-16.0-3f2254d8fd.zip
@@ -59,7 +69,7 @@
     android: '16.0'
     miui: OS3.0.302.0.WPTINXM
 - branch: stable
-  date: '2026-06-08'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chagall/releases/download/stable-08.06.2026/fw_chagall_chagall-ota_full-OS3.0.304.0.WPTCNXM-user-16.0-e0d8aa50c2.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chagall/fw_chagall_chagall-ota_full-OS3.0.304.0.WPTCNXM-user-16.0-e0d8aa50c2.zip
@@ -69,7 +79,7 @@
     android: '16.0'
     miui: OS3.0.304.0.WPTCNXM
 - branch: stable
-  date: '2026-09-07'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chagall/releases/download/stable-07.09.2026/fw_chagall_chagall_eea_global-ota_full-OS3.0.317.0.WPTEUXM-user-16.0-f5d238f277.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chagall/fw_chagall_chagall_eea_global-ota_full-OS3.0.317.0.WPTEUXM-user-16.0-f5d238f277.zip
@@ -79,7 +89,7 @@
     android: '16.0'
     miui: OS3.0.317.0.WPTEUXM
 - branch: stable
-  date: '2026-06-01'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chagall/releases/download/stable-02.06.2026/fw_chagall_chagall_eea_global-ota_full-OS3.0.311.0.WPTEUXM-user-16.0-519bbc88fc.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chagall/fw_chagall_chagall_eea_global-ota_full-OS3.0.311.0.WPTEUXM-user-16.0-519bbc88fc.zip
@@ -89,7 +99,7 @@
     android: '16.0'
     miui: OS3.0.311.0.WPTEUXM
 - branch: stable
-  date: '2026-06-01'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chagall/releases/download/stable-02.06.2026/fw_chagall_chagall_global-ota_full-OS3.0.303.0.WPTMIXM-user-16.0-4bc308875a.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chagall/fw_chagall_chagall_global-ota_full-OS3.0.303.0.WPTMIXM-user-16.0-4bc308875a.zip
@@ -99,7 +109,7 @@
     android: '16.0'
     miui: OS3.0.303.0.WPTMIXM
 - branch: stable
-  date: '2026-06-01'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chagall/releases/download/stable-02.06.2026/fw_chagall_chagall_in_global-ota_full-OS3.0.301.0.WPTINXM-user-16.0-e0daef5008.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chagall/fw_chagall_chagall_in_global-ota_full-OS3.0.301.0.WPTINXM-user-16.0-e0daef5008.zip
@@ -109,7 +119,7 @@
     android: '16.0'
     miui: OS3.0.301.0.WPTINXM
 - branch: stable
-  date: '2026-07-01'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chagall/releases/download/stable-01.07.2026/fw_chagall_chagall-ota_full-OS3.0.307.0.WPTCNXM-user-16.0-3622d1f007.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chagall/fw_chagall_chagall-ota_full-OS3.0.307.0.WPTCNXM-user-16.0-3622d1f007.zip
@@ -119,7 +129,7 @@
     android: '16.0'
     miui: OS3.0.307.0.WPTCNXM
 - branch: stable
-  date: '2026-07-01'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chagall/releases/download/stable-01.07.2026/fw_chagall_chagall_eea_global-ota_full-OS3.0.312.0.WPTEUXM-user-16.0-33eee79d18.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chagall/fw_chagall_chagall_eea_global-ota_full-OS3.0.312.0.WPTEUXM-user-16.0-33eee79d18.zip

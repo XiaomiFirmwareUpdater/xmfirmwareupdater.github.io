@@ -54,7 +54,7 @@ permalink: /firmware/peridot/stable/OS2.0.109.0.VNPEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>171.6 MB</h5>
+                    <h5><b>Size: </b>171.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-06-30</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/peridot/stable/OS2.0.109.0.VNPEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_peridot_eea_global_peridot_eea_global-ota_full-OS2.0.109.0.VNPEUXM-user-15.0-95b706df57.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">d9fe102d2ef7eab7071b7099b38026f1</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">6745ea745d683d346d8583627f5ed76d</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

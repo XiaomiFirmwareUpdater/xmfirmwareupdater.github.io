@@ -54,7 +54,7 @@ permalink: /firmware/miro/stable/OS2.0.109.0.VOMCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>186.6 MB</h5>
+                    <h5><b>Size: </b>181.6 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-04-21</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/miro/stable/OS2.0.109.0.VOMCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_miro_miro-ota_full-OS2.0.109.0.VOMCNXM-user-15.0-df54c79bf7.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">a14bc9caf59a995d0b24d39cd13ef268</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">c21c73ae4c19192c3c02bc4a4dc8720b</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

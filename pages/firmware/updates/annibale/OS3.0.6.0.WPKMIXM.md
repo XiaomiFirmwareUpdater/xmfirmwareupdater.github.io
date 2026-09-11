@@ -54,7 +54,7 @@ permalink: /firmware/annibale/stable/OS3.0.6.0.WPKMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>227.1 MB</h5>
+                    <h5><b>Size: </b>222.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-11-28</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/annibale/stable/OS3.0.6.0.WPKMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_annibale_annibale_global-ota_full-OS3.0.6.0.WPKMIXM-user-16.0-78b7a83a6a.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">eda661f80509d2b646113f0e2852ceca</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">928a8a1575ed088c4546047f26ea3a35</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

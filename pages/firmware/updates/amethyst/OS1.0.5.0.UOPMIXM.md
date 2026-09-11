@@ -54,7 +54,7 @@ permalink: /firmware/amethyst/stable/OS1.0.5.0.UOPMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>117.8 MB</h5>
+                    <h5><b>Size: </b>117.7 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-12-24</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/amethyst/stable/OS1.0.5.0.UOPMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_amethyst_miui_AMETHYSTGlobal_OS1.0.5.0.UOPMIXM_74ee10dc55_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">9794acbb51c7f8069b349166d4ba8fe1</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">c0021ef0fd70791789ef3487afa34634</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -54,7 +54,7 @@ permalink: /firmware/ruyi/stable/OS3.0.301.0.WNIEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>183.4 MB</h5>
+                    <h5><b>Size: </b>178.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-05-07</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/ruyi/stable/OS3.0.301.0.WNIEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_ruyi_ruyi_eea_global-ota_full-OS3.0.301.0.WNIEUXM-user-16.0-fb49bd5e36.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">9fa2393aaf61612d60e03761639c4e06</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">27ebcd9c48e1c04b5bef7b5428d3cf6a</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

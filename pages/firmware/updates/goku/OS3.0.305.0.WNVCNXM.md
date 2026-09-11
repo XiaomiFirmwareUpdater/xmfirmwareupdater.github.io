@@ -54,7 +54,7 @@ permalink: /firmware/goku/stable/OS3.0.305.0.WNVCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>181.9 MB</h5>
+                    <h5><b>Size: </b>176.7 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-05-12</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/goku/stable/OS3.0.305.0.WNVCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_goku_goku-ota_full-OS3.0.305.0.WNVCNXM-user-16.0-b5a4679667.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">5d1a3a95885a03be6bc085e87c926fcf</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">d7c56a81a1d24f5acd1a5951d9d6ab0f</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

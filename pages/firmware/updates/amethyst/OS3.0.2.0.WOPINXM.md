@@ -54,7 +54,7 @@ permalink: /firmware/amethyst/stable/OS3.0.2.0.WOPINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>117.9 MB</h5>
+                    <h5><b>Size: </b>117.8 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-02-26</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/amethyst/stable/OS3.0.2.0.WOPINXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_amethyst_amethyst_in_global-ota_full-OS3.0.2.0.WOPINXM-user-16.0-9c7bb60944.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">2c67c0e0e07875c7f2e06122325e56b8</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f441b3aa96bd8101d7f4f97a12c995e3</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

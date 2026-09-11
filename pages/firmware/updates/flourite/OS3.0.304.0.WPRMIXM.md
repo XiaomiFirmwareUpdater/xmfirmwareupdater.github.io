@@ -54,7 +54,7 @@ permalink: /firmware/flourite/stable/OS3.0.304.0.WPRMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>125.1 MB</h5>
+                    <h5><b>Size: </b>124.9 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-08-24</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/flourite/stable/OS3.0.304.0.WPRMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_flourite_flourite_global-ota_full-OS3.0.304.0.WPRMIXM-user-16.0-5339464250.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">5d7dc02ffc0ee7a6f10dc39ce12f2e07</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">0b5385cb7a139fcf3bece610361d6213</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -54,7 +54,7 @@ permalink: /firmware/dada/stable/OS3.0.7.0.WOCCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>226.2 MB</h5>
+                    <h5><b>Size: </b>221.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-02-04</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/dada/stable/OS3.0.7.0.WOCCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_dada_dada-ota_full-OS3.0.7.0.WOCCNXM-user-16.0-232acd7942.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c81a2a30c9519bcf9701c160af0173f8</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">4b9ec7784344adcb1b33d586d2d6e5d8</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

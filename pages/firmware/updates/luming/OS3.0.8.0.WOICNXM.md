@@ -54,7 +54,7 @@ permalink: /firmware/luming/stable/OS3.0.8.0.WOICNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>177.4 MB</h5>
+                    <h5><b>Size: </b>172.4 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-02-25</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/luming/stable/OS3.0.8.0.WOICNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_luming_luming-ota_full-OS3.0.8.0.WOICNXM-user-16.0-5c57380617.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">0814751b04a3c2ec9da95481fc573693</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">74de6096bcd5d6b794d8556f35213824</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

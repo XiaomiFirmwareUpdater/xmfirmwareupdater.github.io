@@ -54,7 +54,7 @@ permalink: /firmware/rodin/stable/OS3.0.8.0.WOJMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>64.4 MB</h5>
+                    <h5><b>Size: </b>64.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-01-16</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/rodin/stable/OS3.0.8.0.WOJMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_rodin_rodin_global-ota_full-OS3.0.8.0.WOJMIXM-user-16.0-b2fc4bdfd7.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">04c47622aa62640a8d2f3dce5d9052fd</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">a15d721ed42726a1b22c27a34197c7a7</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

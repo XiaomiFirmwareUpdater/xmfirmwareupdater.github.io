@@ -54,7 +54,7 @@ permalink: /firmware/rothko/stable/OS2.0.226.0.WNNEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>86.8 MB</h5>
+                    <h5><b>Size: </b>86.6 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-11-28</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/rothko/stable/OS2.0.226.0.WNNEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_rothko_rothko_eea_global-ota_full-OS2.0.226.0.WNNEUXM-user-16.0-4cea27ab05.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">1a91f52f303935dbf887ffba5326778e</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">c3e42045a502142e7643f8b2001729be</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

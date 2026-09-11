@@ -54,7 +54,7 @@ permalink: /firmware/muyu/stable/OS2.0.104.0.VOYEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>91.6 MB</h5>
+                    <h5><b>Size: </b>91.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-04-02</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/muyu/stable/OS2.0.104.0.VOYEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_muyu_eea_global_muyu_eea_global-ota_full-OS2.0.104.0.VOYEUXM-user-15.0-d86ad93424.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">276dbad33136c5b2b5d959f09527be90</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">7be4c95fdb971960ef07d8c7b1d5eb4c</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

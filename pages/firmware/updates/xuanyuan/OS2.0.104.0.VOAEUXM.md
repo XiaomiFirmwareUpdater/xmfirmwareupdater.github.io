@@ -54,7 +54,7 @@ permalink: /firmware/xuanyuan/stable/OS2.0.104.0.VOAEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>192.3 MB</h5>
+                    <h5><b>Size: </b>187.4 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-05-05</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/xuanyuan/stable/OS2.0.104.0.VOAEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_xuanyuan_eea_global_xuanyuan_eea_global-ota_full-OS2.0.104.0.VOAEUXM-user-15.0-6c579a041e.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">6c7f9a3e03d344a4347666f0cada0775</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">e3f0f1015efa9aec0f56b5cb62306fe3</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

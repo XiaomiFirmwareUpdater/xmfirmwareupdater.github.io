@@ -54,7 +54,7 @@ permalink: /firmware/amethyst/stable/OS1.0.2.0.UOPINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>117.3 MB</h5>
+                    <h5><b>Size: </b>117.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2024-12-21</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/amethyst/stable/OS1.0.2.0.UOPINXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_amethyst_miui_AMETHYSTINGlobal_OS1.0.2.0.UOPINXM_fda0b4b09f_14.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">bbc4fadefdbe83905e4982f0d7ea5bd4</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f2a1833a72b7028568ee5fe23a0387b3</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

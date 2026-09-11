@@ -54,7 +54,7 @@ permalink: /firmware/aurora/stable/OS3.0.6.0.WNACNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>194.3 MB</h5>
+                    <h5><b>Size: </b>189.4 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-01-30</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/aurora/stable/OS3.0.6.0.WNACNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_aurora_aurora-ota_full-OS3.0.6.0.WNACNXM-user-16.0-a64ddcc3e0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">a8bd61a5382037098c0b6f94c202aeb3</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">63f9cf9898b3f3450e11c418e3d3d346</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

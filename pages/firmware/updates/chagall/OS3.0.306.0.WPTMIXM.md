@@ -54,7 +54,7 @@ permalink: /firmware/chagall/stable/OS3.0.306.0.WPTMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>79.6 MB</h5>
+                    <h5><b>Size: </b>79.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-08-24</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/chagall/stable/OS3.0.306.0.WPTMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_chagall_chagall_global-ota_full-OS3.0.306.0.WPTMIXM-user-16.0-08bb195663.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">6ffe25c53585bd6c5dc7be82d2d957de</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">0b39ae32326562c102a7fdaf0e24b8c4</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

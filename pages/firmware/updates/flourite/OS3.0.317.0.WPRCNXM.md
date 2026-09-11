@@ -54,7 +54,7 @@ permalink: /firmware/flourite/stable/OS3.0.317.0.WPRCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>123.7 MB</h5>
+                    <h5><b>Size: </b>123.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-08-30</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/flourite/stable/OS3.0.317.0.WPRCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_flourite_flourite-ota_full-OS3.0.317.0.WPRCNXM-user-16.0-ff98c106ce.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">14ae4fdecd8fa3f518e653e020cd22b0</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">806eb9fad24535ec6e8ad773b145cfe0</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

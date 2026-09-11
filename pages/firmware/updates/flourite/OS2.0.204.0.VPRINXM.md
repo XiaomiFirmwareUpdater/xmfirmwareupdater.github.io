@@ -54,7 +54,7 @@ permalink: /firmware/flourite/stable/OS2.0.204.0.VPRINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>124.6 MB</h5>
+                    <h5><b>Size: </b>124.4 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-02-04</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/flourite/stable/OS2.0.204.0.VPRINXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_flourite_flourite_in_global-ota_full-OS2.0.204.0.VPRINXM-user-15.0-e95ed39779.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">8a3e82c30fd0a2245364e399eb774c54</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">5559b1d2791549453e2f7c9bbd7fac75</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

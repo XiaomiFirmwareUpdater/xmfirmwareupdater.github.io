@@ -54,7 +54,7 @@ permalink: /firmware/peridot/stable/OS2.0.101.0.VNPCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>171.6 MB</h5>
+                    <h5><b>Size: </b>171.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-02-06</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/peridot/stable/OS2.0.101.0.VNPCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_peridot_peridot-ota_full-OS2.0.101.0.VNPCNXM-user-15.0-fb3912f0c3.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">e638ffd6ff90bbde8d716e140469e4d4</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">22fdd83983a1656d0db7ae49d2153d5c</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -54,7 +54,7 @@ permalink: /firmware/jinghu/stable/OS3.0.301.0.WOXCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>30.4 MB</h5>
+                    <h5><b>Size: </b>30.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-03-31</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/jinghu/stable/OS3.0.301.0.WOXCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_jinghu_jinghu-ota_full-OS3.0.301.0.WOXCNXM-user-16.0-0bb4bdec09.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">b3960fa168d4ebcf40dde680b70f6651</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">13369d2784849b79b0ff3a1fd18e356b</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

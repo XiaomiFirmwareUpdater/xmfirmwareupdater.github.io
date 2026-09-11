@@ -54,7 +54,7 @@ permalink: /firmware/xuanyuan/stable/OS2.0.215.0.VOACNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>189.0 MB</h5>
+                    <h5><b>Size: </b>184.0 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-08-22</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/xuanyuan/stable/OS2.0.215.0.VOACNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_xuanyuan_xuanyuan-ota_full-OS2.0.215.0.VOACNXM-user-15.0-01bf68da5c.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">b6899cb7f4e84726ed2a0d34f7a31b29</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">62cd9225d623d08d73ae692f841ee874</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

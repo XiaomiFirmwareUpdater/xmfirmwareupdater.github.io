@@ -54,7 +54,7 @@ permalink: /firmware/rothko/stable/OS3.0.5.0.WNNMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>86.8 MB</h5>
+                    <h5><b>Size: </b>86.7 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-06-02</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/rothko/stable/OS3.0.5.0.WNNMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_rothko_rothko_global-ota_full-OS3.0.5.0.WNNMIXM-user-16.0-2c4bd6f989.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">98be3ae0da2b4448bff0662979b75a95</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">0d5d2b1f7146db2813c470485c59ad20</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

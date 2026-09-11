@@ -54,7 +54,7 @@ permalink: /firmware/ruyi/stable/OS2.0.208.0.VNIMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>184.9 MB</h5>
+                    <h5><b>Size: </b>179.7 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-10-31</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/ruyi/stable/OS2.0.208.0.VNIMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_ruyi_ruyi_global-ota_full-OS2.0.208.0.VNIMIXM-user-15.0-6c25dc16e9.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">b6e07414f4c34e8963f329f5139bda61</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">a41881078fe796d41a8866c2d68fc16f</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -54,7 +54,7 @@ permalink: /firmware/myron/stable/OS3.0.301.0.WPMEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>219.9 MB</h5>
+                    <h5><b>Size: </b>208.9 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-06-02</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/myron/stable/OS3.0.301.0.WPMEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_myron_myron_eea_global-ota_full-OS3.0.301.0.WPMEUXM-user-16.0-aa3aa56260.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">5a9a17b28a8ff14e9f0cf1948afc55bc</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">96aec69b55973da512c1356f9a31a63f</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

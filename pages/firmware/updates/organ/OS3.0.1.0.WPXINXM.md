@@ -54,7 +54,7 @@ permalink: /firmware/organ/stable/OS3.0.1.0.WPXINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>112.4 MB</h5>
+                    <h5><b>Size: </b>112.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-03-16</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/organ/stable/OS3.0.1.0.WPXINXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_organ_organ_in_global-ota_full-OS3.0.1.0.WPXINXM-user-16.0-79deaced2c.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">f775f8eda1f1586196429113d906e39b</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">7ec71169bee9a1fedde067e21e20c362</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

@@ -54,7 +54,7 @@ permalink: /firmware/houji/stable/OS3.0.5.0.WNCMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>176.0 MB</h5>
+                    <h5><b>Size: </b>171.0 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-12-30</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/houji/stable/OS3.0.5.0.WNCMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_houji_houji_global-ota_full-OS3.0.5.0.WNCMIXM-user-16.0-5f0713b514.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">b069c725157e7356d0a9b45227622886</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">391fff6c9718d8c8de773b437fcf8a86</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

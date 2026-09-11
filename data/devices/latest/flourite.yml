@@ -1,5 +1,5 @@
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flourite/releases/download/stable-24.08.2026/fw_flourite_flourite_global-ota_full-OS3.0.304.0.WPRMIXM-user-16.0-5339464250.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/flourite/fw_flourite_flourite_global-ota_full-OS3.0.304.0.WPRMIXM-user-16.0-5339464250.zip
@@ -9,7 +9,7 @@
     android: '16.0'
     miui: OS3.0.304.0.WPRMIXM
 - branch: stable
-  date: '2026-08-29'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flourite/releases/download/stable-30.08.2026/fw_flourite_flourite-ota_full-OS3.0.317.0.WPRCNXM-user-16.0-ff98c106ce.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/flourite/fw_flourite_flourite-ota_full-OS3.0.317.0.WPRCNXM-user-16.0-ff98c106ce.zip
@@ -19,7 +19,7 @@
     android: '16.0'
     miui: OS3.0.317.0.WPRCNXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flourite/releases/download/stable-24.08.2026/fw_flourite_flourite_eea_global-ota_full-OS3.0.306.0.WPREUXM-user-16.0-3891637927.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/flourite/fw_flourite_flourite_eea_global-ota_full-OS3.0.306.0.WPREUXM-user-16.0-3891637927.zip
@@ -29,7 +29,7 @@
     android: '16.0'
     miui: OS3.0.306.0.WPREUXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flourite/releases/download/stable-24.08.2026/fw_flourite_flourite_in_global-ota_full-OS3.0.303.0.WPRINXM-user-16.0-50ebd70fd1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/flourite/fw_flourite_flourite_in_global-ota_full-OS3.0.303.0.WPRINXM-user-16.0-50ebd70fd1.zip

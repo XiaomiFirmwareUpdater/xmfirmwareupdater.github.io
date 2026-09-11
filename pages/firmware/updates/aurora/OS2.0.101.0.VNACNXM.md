@@ -54,7 +54,7 @@ permalink: /firmware/aurora/stable/OS2.0.101.0.VNACNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>194.9 MB</h5>
+                    <h5><b>Size: </b>190.0 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-01-06</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/aurora/stable/OS2.0.101.0.VNACNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_aurora_aurora-ota_full-OS2.0.101.0.VNACNXM-user-15.0-a58015b6d2.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">7075605845e73883e016b6cfdb7bee31</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">313f549dce2b8bd213e6172cc440a6ea</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

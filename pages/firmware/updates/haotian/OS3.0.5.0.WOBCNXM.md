@@ -54,7 +54,7 @@ permalink: /firmware/haotian/stable/OS3.0.5.0.WOBCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>225.9 MB</h5>
+                    <h5><b>Size: </b>220.9 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-11-20</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/haotian/stable/OS3.0.5.0.WOBCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_haotian_haotian-ota_full-OS3.0.5.0.WOBCNXM-user-16.0-862a1a04c3.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">009a54fea6b559b384b16663d5af3efe</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">96645f6c9c6942c273ce5e229c9fe6d5</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

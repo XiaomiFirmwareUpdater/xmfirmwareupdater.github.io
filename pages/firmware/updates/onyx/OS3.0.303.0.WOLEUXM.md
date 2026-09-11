@@ -54,7 +54,7 @@ permalink: /firmware/onyx/stable/OS3.0.303.0.WOLEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>191.7 MB</h5>
+                    <h5><b>Size: </b>186.8 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-08-30</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/onyx/stable/OS3.0.303.0.WOLEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_onyx_onyx_eea_global-ota_full-OS3.0.303.0.WOLEUXM-user-16.0-e0656226ac.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">3dcc49501eac85ebea5c457dc3e48b0d</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">b70b448a473af2dc06f06abe4240b769</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

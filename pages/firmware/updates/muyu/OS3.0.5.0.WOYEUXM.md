@@ -54,7 +54,7 @@ permalink: /firmware/muyu/stable/OS3.0.5.0.WOYEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>91.3 MB</h5>
+                    <h5><b>Size: </b>91.1 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-02-09</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/muyu/stable/OS3.0.5.0.WOYEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_muyu_muyu_eea_global-ota_full-OS3.0.5.0.WOYEUXM-user-16.0-48bc6b453e.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">efe11439918ecae69d268e8b52f33a22</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">fb0d47ee845f53f8349fa0ca841b6e41</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

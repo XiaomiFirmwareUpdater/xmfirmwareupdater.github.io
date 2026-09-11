@@ -54,7 +54,7 @@ permalink: /firmware/amethyst/stable/OS3.0.305.0.WOPMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>118.4 MB</h5>
+                    <h5><b>Size: </b>118.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-08-24</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/amethyst/stable/OS3.0.305.0.WOPMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_amethyst_amethyst_global-ota_full-OS3.0.305.0.WOPMIXM-user-16.0-bb29c90ebe.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">2281e619e824b306ecad6d3e86a24338</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f4c32db0458d37d355f7ddcda4262429</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

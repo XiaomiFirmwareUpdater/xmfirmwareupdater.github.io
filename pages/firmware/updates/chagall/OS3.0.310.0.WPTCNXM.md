@@ -54,7 +54,7 @@ permalink: /firmware/chagall/stable/OS3.0.310.0.WPTCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>75.5 MB</h5>
+                    <h5><b>Size: </b>75.4 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-08-24</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/chagall/stable/OS3.0.310.0.WPTCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_chagall_chagall-ota_full-OS3.0.310.0.WPTCNXM-user-16.0-26780f6238.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">324034c16e8dd1114f274e43e6d43090</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">45e6841c3b8f745344c7ad340dd3d972</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

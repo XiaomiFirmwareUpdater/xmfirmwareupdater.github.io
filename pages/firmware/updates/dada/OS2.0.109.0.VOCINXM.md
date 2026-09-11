@@ -54,7 +54,7 @@ permalink: /firmware/dada/stable/OS2.0.109.0.VOCINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>196.5 MB</h5>
+                    <h5><b>Size: </b>191.5 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-06-25</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/dada/stable/OS2.0.109.0.VOCINXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_dada_in_global_dada_in_global-ota_full-OS2.0.109.0.VOCINXM-user-15.0-82b9b9effb.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">209098882204a5a9684cef7837b5c4fc</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f1f198baa5057baf7dc152f795b30e08</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

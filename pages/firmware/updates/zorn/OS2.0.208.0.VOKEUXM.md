@@ -54,7 +54,7 @@ permalink: /firmware/zorn/stable/OS2.0.208.0.VOKEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>191.5 MB</h5>
+                    <h5><b>Size: </b>186.9 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-11-30</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/zorn/stable/OS2.0.208.0.VOKEUXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_zorn_zorn_eea_global-ota_full-OS2.0.208.0.VOKEUXM-user-15.0-2b1393c28d.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">6af50b15ab98693e5394937f65e2e6e0</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f2b99d6e739665922496990143e7d6c9</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

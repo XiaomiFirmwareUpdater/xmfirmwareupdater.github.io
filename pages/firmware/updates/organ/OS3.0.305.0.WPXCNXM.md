@@ -54,7 +54,7 @@ permalink: /firmware/organ/stable/OS3.0.305.0.WPXCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>112.4 MB</h5>
+                    <h5><b>Size: </b>112.2 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-08-24</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/organ/stable/OS3.0.305.0.WPXCNXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_organ_organ-ota_full-OS3.0.305.0.WPXCNXM-user-16.0-b25ba793ab.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">2c13a60cefb42538fef70f9b6435d403</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ec2cabf9f8eaf5dad06e9a4d3834ae53</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

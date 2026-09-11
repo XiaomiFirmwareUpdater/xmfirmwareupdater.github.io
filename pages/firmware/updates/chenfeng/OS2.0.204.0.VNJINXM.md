@@ -54,7 +54,7 @@ permalink: /firmware/chenfeng/stable/OS2.0.204.0.VNJINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>168.1 MB</h5>
+                    <h5><b>Size: </b>168.0 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2025-09-01</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/chenfeng/stable/OS2.0.204.0.VNJINXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_chenfeng_in_global_chenfeng_in_global-ota_full-OS2.0.204.0.VNJINXM-user-15.0-1ff875e367.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">899d0d74f4cf0564bd07d6c856d66a43</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">9f6466c3b329b57106b5a44afdd425f4</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"

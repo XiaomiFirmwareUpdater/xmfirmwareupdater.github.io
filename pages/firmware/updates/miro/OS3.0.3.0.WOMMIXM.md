@@ -54,7 +54,7 @@ permalink: /firmware/miro/stable/OS3.0.3.0.WOMMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>219.3 MB</h5>
+                    <h5><b>Size: </b>214.3 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-01-04</h5>
@@ -63,7 +63,7 @@ permalink: /firmware/miro/stable/OS3.0.3.0.WOMMIXM/
                     <h5><b>Firmware Package Name: </b><span id="filename" class="text-dark">fw_miro_miro_global-ota_full-OS3.0.3.0.WOMMIXM-user-16.0-61797a292e.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">66482c009a8b827794eb25eba507b52c</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">71c7ee8d916eb4536bebd761ff600590</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary"
