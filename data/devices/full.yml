@@ -2779,6 +2779,16 @@
     android: '16.0'
     miui: OS3.0.306.0.WOPCNXM
 - branch: stable
+  date: '2026-09-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-12.09.2026/fw_amethyst_amethyst_in_global-ota_full-OS3.0.304.0.WOPINXM-user-16.0-faf1dc2f83.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/amethyst/fw_amethyst_amethyst_in_global-ota_full-OS3.0.304.0.WOPINXM-user-16.0-faf1dc2f83.zip
+  filename: fw_amethyst_amethyst_in_global-ota_full-OS3.0.304.0.WOPINXM-user-16.0-faf1dc2f83.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.304.0.WOPINXM
+- branch: stable
   date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-12.03.2025/fw_amethyst_miui_AMETHYSTINGlobal_OS1.0.8.0.UOPINXM_1a2fd5d521_14.0.zip
@@ -51338,6 +51348,36 @@
   versions:
     android: '14.0'
     miui: OS1.0.12.0.UMAEUXM
+- branch: stable
+  date: '2026-09-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-12.09.2026/fw_ishtar_ishtar-ota_full-OS3.0.307.0.WMACNXM-user-16.0-7e1fe749dd.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ishtar/fw_ishtar_ishtar-ota_full-OS3.0.307.0.WMACNXM-user-16.0-7e1fe749dd.zip
+  filename: fw_ishtar_ishtar-ota_full-OS3.0.307.0.WMACNXM-user-16.0-7e1fe749dd.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.307.0.WMACNXM
+- branch: stable
+  date: '2026-09-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-12.09.2026/fw_ishtar_ishtar_eea_global-ota_full-OS3.0.303.0.WMAEUXM-user-16.0-7c0dbcbf9f.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ishtar/fw_ishtar_ishtar_eea_global-ota_full-OS3.0.303.0.WMAEUXM-user-16.0-7c0dbcbf9f.zip
+  filename: fw_ishtar_ishtar_eea_global-ota_full-OS3.0.303.0.WMAEUXM-user-16.0-7c0dbcbf9f.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.303.0.WMAEUXM
+- branch: stable
+  date: '2026-09-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-12.09.2026/fw_ishtar_ishtar_global-ota_full-OS3.0.303.0.WMAMIXM-user-16.0-33a292ecf3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/ishtar/fw_ishtar_ishtar_global-ota_full-OS3.0.303.0.WMAMIXM-user-16.0-33a292ecf3.zip
+  filename: fw_ishtar_ishtar_global-ota_full-OS3.0.303.0.WMAMIXM-user-16.0-33a292ecf3.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.303.0.WMAMIXM
 - branch: stable
   date: '2024-01-12'
   downloads:

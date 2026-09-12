@@ -844,6 +844,12 @@
   download: https://bigota.d.miui.com/OS3.0.306.0.WOPCNXM/fw_amethyst_amethyst-ota_full-OS3.0.306.0.WOPCNXM-user-16.0-405cc6ce1e.zip
   name: Redmi Note 14 Pro+ 5G
   version: OS3.0.306.0.WOPCNXM
+- android: '16.0'
+  codename: amethyst
+  date: '2026-09-12'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WOPINXM/fw_amethyst_amethyst_in_global-ota_full-OS3.0.304.0.WOPINXM-user-16.0-faf1dc2f83.zip
+  name: Redmi Note 14 Pro+ 5G
+  version: OS3.0.304.0.WOPINXM
 - android: '14.0'
   codename: amethyst
   date: '2026-09-08'
@@ -12784,6 +12790,24 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UMAEUXM/fw_ishtar_miui_ISHTAREEAGlobal_OS1.0.12.0.UMAEUXM_2deecf46fd_14.0.zip
   name: Xiaomi 13 Ultra
   version: OS1.0.12.0.UMAEUXM
+- android: '16.0'
+  codename: ishtar
+  date: '2026-09-12'
+  download: https://bigota.d.miui.com/OS3.0.307.0.WMACNXM/fw_ishtar_ishtar-ota_full-OS3.0.307.0.WMACNXM-user-16.0-7e1fe749dd.zip
+  name: Xiaomi 13 Ultra
+  version: OS3.0.307.0.WMACNXM
+- android: '16.0'
+  codename: ishtar
+  date: '2026-09-12'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WMAEUXM/fw_ishtar_ishtar_eea_global-ota_full-OS3.0.303.0.WMAEUXM-user-16.0-7c0dbcbf9f.zip
+  name: Xiaomi 13 Ultra
+  version: OS3.0.303.0.WMAEUXM
+- android: '16.0'
+  codename: ishtar
+  date: '2026-09-12'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WMAMIXM/fw_ishtar_ishtar_global-ota_full-OS3.0.303.0.WMAMIXM-user-16.0-33a292ecf3.zip
+  name: Xiaomi 13 Ultra
+  version: OS3.0.303.0.WMAMIXM
 - android: '14.0'
   codename: ishtar
   date: '2024-01-12'
