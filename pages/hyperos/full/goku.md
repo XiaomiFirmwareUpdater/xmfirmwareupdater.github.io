@@ -52,7 +52,8 @@ permalink: /archive/hyperos/goku/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.307.0.WNVCNXM</td><td>16.0</td><td>7.8 GB</td><td>2026-07-02</td><td><a href="/hyperos/goku/stable/OS3.0.307.0.WNVCNXM/">Download</a></td></tr>
+                <tr><td>MIX Fold 4 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.309.0.WNVCNXM</td><td>16.0</td><td>7.8 GB</td><td>2026-09-09</td><td><a href="/hyperos/goku/stable beta/OS3.0.309.0.WNVCNXM/">Download</a></td></tr>
+<tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.307.0.WNVCNXM</td><td>16.0</td><td>7.8 GB</td><td>2026-07-02</td><td><a href="/hyperos/goku/stable/OS3.0.307.0.WNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.307.0.WNVCNXM</td><td>16.0</td><td>9.7 GB</td><td>2026-06-23</td><td><a href="/hyperos/goku/stable/OS3.0.307.0.WNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WNVCNXM</td><td>16.0</td><td>7.8 GB</td><td>2026-05-27</td><td><a href="/hyperos/goku/stable/OS3.0.306.0.WNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.306.0.WNVCNXM</td><td>16.0</td><td>9.7 GB</td><td>2026-05-20</td><td><a href="/hyperos/goku/stable/OS3.0.306.0.WNVCNXM/">Download</a></td></tr>
@@ -68,10 +69,10 @@ permalink: /archive/hyperos/goku/
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.211.0.VNVCNXM</td><td>15.0</td><td>9.7 GB</td><td>2025-09-28</td><td><a href="/hyperos/goku/stable/OS2.0.211.0.VNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.210.0.VNVCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-09-19</td><td><a href="/hyperos/goku/stable/OS2.0.210.0.VNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.210.0.VNVCNXM</td><td>15.0</td><td>9.7 GB</td><td>2025-09-12</td><td><a href="/hyperos/goku/stable/OS2.0.210.0.VNVCNXM/">Download</a></td></tr>
-<tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VNVCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-08-20</td><td><a href="/hyperos/goku/stable/OS2.0.207.0.VNVCNXM/">Download</a></td></tr>
-<tr><td>MIX Fold 4 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VNVCNXM</td><td>15.0</td><td>9.7 GB</td><td>2025-08-07</td><td><a href="/hyperos/goku/stable/OS2.0.207.0.VNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WNVCNXM</td><td>16.0</td><td>7.8 GB</td><td>2026-04-10</td><td><a href="/hyperos/goku/stable/OS3.0.304.0.WNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WNVCNXM</td><td>16.0</td><td>9.7 GB</td><td>2026-04-03</td><td><a href="/hyperos/goku/stable/OS3.0.304.0.WNVCNXM/">Download</a></td></tr>
+<tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.207.0.VNVCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-08-20</td><td><a href="/hyperos/goku/stable/OS2.0.207.0.VNVCNXM/">Download</a></td></tr>
+<tr><td>MIX Fold 4 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.207.0.VNVCNXM</td><td>15.0</td><td>9.7 GB</td><td>2025-08-07</td><td><a href="/hyperos/goku/stable/OS2.0.207.0.VNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VNVCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-07-11</td><td><a href="/hyperos/goku/stable/OS2.0.206.0.VNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VNVCNXM</td><td>15.0</td><td>9.7 GB</td><td>2025-07-03</td><td><a href="/hyperos/goku/stable/OS2.0.206.0.VNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VNVCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-06-18</td><td><a href="/hyperos/goku/stable/OS2.0.205.0.VNVCNXM/">Download</a></td></tr>
@@ -86,12 +87,12 @@ permalink: /archive/hyperos/goku/
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.104.0.VNVCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-03-07</td><td><a href="/hyperos/goku/stable/OS2.0.104.0.VNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.8.0.VNVCNXM</td><td>15.0</td><td>7.7 GB</td><td>2024-12-30</td><td><a href="/hyperos/goku/stable/OS2.0.8.0.VNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.8.0.VNVCNXM</td><td>15.0</td><td>10.0 GB</td><td>2024-12-23</td><td><a href="/hyperos/goku/stable/OS2.0.8.0.VNVCNXM/">Download</a></td></tr>
-<tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.15.0.UNVCNXM</td><td>14.0</td><td>7.3 GB</td><td>2024-11-05</td><td><a href="/hyperos/goku/stable/OS1.0.15.0.UNVCNXM/">Download</a></td></tr>
-<tr><td>MIX Fold 4 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.15.0.UNVCNXM</td><td>14.0</td><td>9.4 GB</td><td>2024-10-23</td><td><a href="/hyperos/goku/stable/OS1.0.15.0.UNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WNVCNXM</td><td>16.0</td><td>7.8 GB</td><td>2025-11-13</td><td><a href="/hyperos/goku/stable/OS3.0.3.0.WNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WNVCNXM</td><td>16.0</td><td>9.8 GB</td><td>2025-11-06</td><td><a href="/hyperos/goku/stable/OS3.0.3.0.WNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.102.0.VNVCNXM</td><td>15.0</td><td>10.0 GB</td><td>2025-01-24</td><td><a href="/hyperos/goku/stable/OS2.0.102.0.VNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.102.0.VNVCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-01-15</td><td><a href="/hyperos/goku/stable/OS2.0.102.0.VNVCNXM/">Download</a></td></tr>
+<tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.15.0.UNVCNXM</td><td>14.0</td><td>7.3 GB</td><td>2024-11-05</td><td><a href="/hyperos/goku/stable/OS1.0.15.0.UNVCNXM/">Download</a></td></tr>
+<tr><td>MIX Fold 4 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.15.0.UNVCNXM</td><td>14.0</td><td>9.4 GB</td><td>2024-10-23</td><td><a href="/hyperos/goku/stable/OS1.0.15.0.UNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.13.0.UNVCNXM</td><td>14.0</td><td>7.3 GB</td><td>2024-10-10</td><td><a href="/hyperos/goku/stable/OS1.0.13.0.UNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.13.0.UNVCNXM</td><td>14.0</td><td>9.3 GB</td><td>2024-09-29</td><td><a href="/hyperos/goku/stable/OS1.0.13.0.UNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.9.0.UNVCNXM</td><td>14.0</td><td>7.2 GB</td><td>2024-08-01</td><td><a href="/hyperos/goku/stable/OS1.0.9.0.UNVCNXM/">Download</a></td></tr>
