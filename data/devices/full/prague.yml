@@ -39,6 +39,16 @@
     android: '16.0'
     miui: OS3.0.310.0.WAACNXM
 - branch: stable
+  date: '2026-09-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_prague/releases/download/stable-14.09.2026/fw_prague_prague-ota_full-OS3.0.317.0.WAACNXM-user-16.0-395747f838.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/prague/fw_prague_prague-ota_full-OS3.0.317.0.WAACNXM-user-16.0-395747f838.zip
+  filename: fw_prague_prague-ota_full-OS3.0.317.0.WAACNXM-user-16.0-395747f838.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.317.0.WAACNXM
+- branch: stable
   date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_prague/releases/download/stable-05.06.2026/fw_prague_prague-ota_full-OS3.0.311.0.WAACNXM-user-16.0-768b50adb7.zip

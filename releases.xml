@@ -4,11 +4,41 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 14 Sep 2026 07:37:01 </lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 15:16:52 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 15 Pro 4G (charoite) - OS3.0.303.0.WPFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/charoite/</link>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15T (goya) - OS3.0.302.0.WOEMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/goya/</link>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 17 Pro 5G/POCO X8 (iolite) - OS3.0.307.0.WDQMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/iolite/</link>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 5/POCO X8 Pro (klee) - OS3.0.307.0.WPJCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/klee/</link>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad 2 4G (koto) - OS3.0.302.0.WOWINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/koto/</link>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 7 Pro (muyu) - OS3.0.307.0.WOYCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K90 Max (prague) - OS3.0.317.0.WAACNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/prague/</link>
             <pubDate>Mon, 14 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -482,11 +512,6 @@
             <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 15T (goya) - OS3.0.300.0.WOEMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/goya/</link>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 15T (goya) - OS2.0.209.0.VOEEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/goya/</link>
             <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
@@ -523,11 +548,6 @@
         </item>
         <item>
             <title>Redmi Turbo 5/POCO X8 Pro (klee) - OS3.0.304.0.WPJMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/klee/</link>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 5/POCO X8 Pro (klee) - OS3.0.20.0.WPJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/klee/</link>
             <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
         </item>
@@ -573,11 +593,6 @@
         </item>
         <item>
             <title>Xiaomi Pad 7 Pro (muyu) - OS2.0.200.0.VOYMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 7 Pro (muyu) - OS2.0.1.0.VOYCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
             <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
         </item>
@@ -704,11 +719,6 @@
         <item>
             <title>Xiaomi 17 Pro Max (popsicle) - OS3.0.36.0.WPBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/popsicle/</link>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K90 Max (prague) - OS3.0.308.0.WAACNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/prague/</link>
             <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -957,11 +967,6 @@
             <pubDate>Thu, 27 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 17 Pro 5G/POCO X8 (iolite) - OS3.0.303.0.WDQMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/iolite/</link>
-            <pubDate>Thu, 27 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 17 Pro 5G/POCO X8 (iolite) - OS3.0.306.0.WDQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/iolite/</link>
             <pubDate>Thu, 27 Aug 2026 00:00:00 </pubDate>
@@ -1004,11 +1009,6 @@
         <item>
             <title>Redmi A3x (klein) - V816.0.5.0.WGSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/klein/</link>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad 2 4G (koto) - OS3.0.301.0.WOWINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/koto/</link>
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
