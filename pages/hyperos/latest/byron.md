@@ -52,8 +52,8 @@ permalink: /hyperos/byron/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 17 Max China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.308.0.WAFCNXM</td><td>16.0</td><td>11.5 GB</td><td>2026-07-22</td><td><a href="/hyperos/byron/stable/OS3.0.308.0.WAFCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 17 Max China</td><td>Stable</td><td>Recovery</td><td>OS3.0.308.0.WAFCNXM</td><td>16.0</td><td>8.9 GB</td><td>2026-07-28</td><td><a href="/hyperos/byron/stable/OS3.0.308.0.WAFCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 17 Max China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.309.0.WAFCNXM</td><td>16.0</td><td>11.5 GB</td><td>2026-08-18</td><td><a href="/hyperos/byron/stable/OS3.0.309.0.WAFCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 Max China</td><td>Stable</td><td>Recovery</td><td>OS3.0.309.0.WAFCNXM</td><td>16.0</td><td>8.9 GB</td><td>2026-09-02</td><td><a href="/hyperos/byron/stable/OS3.0.309.0.WAFCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

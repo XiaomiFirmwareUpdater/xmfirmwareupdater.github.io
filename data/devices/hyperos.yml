@@ -3082,6 +3082,12 @@
   download: https://bigota.d.miui.com/OS3.0.1.0.WPFEUXM/fw_charoite_charoite_eea_global-ota_full-OS3.0.1.0.WPFEUXM-user-16.0-6afd343915.zip
   name: Redmi Note 15 Pro 4G
   version: OS3.0.1.0.WPFEUXM
+- android: '16.0'
+  codename: charoite
+  date: '2026-09-14'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WPFEUXM/fw_charoite_charoite_eea_global-ota_full-OS3.0.303.0.WPFEUXM-user-16.0-8b2911760a.zip
+  name: Redmi Note 15 Pro 4G
+  version: OS3.0.303.0.WPFEUXM
 - android: '15.0'
   codename: charoite
   date: '2026-01-12'
