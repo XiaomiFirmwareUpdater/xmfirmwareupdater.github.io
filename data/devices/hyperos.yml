@@ -13560,6 +13560,12 @@
   version: OS3.0.302.0.WPQCNXM
 - android: '16.0'
   codename: kunzite
+  date: '2026-09-15'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WPQCNXM/fw_kunzite_kunzite-ota_full-OS3.0.304.0.WPQCNXM-user-16.0-7334ee9929.zip
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
+  version: OS3.0.304.0.WPQCNXM
+- android: '16.0'
+  codename: kunzite
   date: '2026-01-09'
   download: https://bigota.d.miui.com/OS3.0.2.0.WPQCNXM/fw_kunzite_kunzite-ota_full-OS3.0.2.0.WPQCNXM-user-16.0-6e19a28265.zip
   name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G

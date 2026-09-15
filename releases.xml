@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 15 Sep 2026 07:54:27 </lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 13:53:32 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 15 5G/POCO M8 5G/15 SE 5G (kunzite) - OS3.0.304.0.WPQCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 15 Pro 4G (charoite) - OS3.0.303.0.WPFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/charoite/</link>
@@ -1660,11 +1665,6 @@
             <title>Redmi Note 12T Pro (pearl) - OS3.0.3.0.VLHCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pearl/</link>
             <pubDate>Mon, 20 Apr 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 5G/POCO M8 5G/15 SE 5G (kunzite) - OS3.0.302.0.WPQCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
-            <pubDate>Fri, 17 Apr 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 12C/POCO C55 (earth) - OS1.0.13.0.UCVINXM</title>

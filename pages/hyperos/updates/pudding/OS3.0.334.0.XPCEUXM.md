@@ -78,7 +78,7 @@ permalink: /hyperos/pudding/stable/OS3.0.334.0.XPCEUXM/
                             aria-expanded="false" aria-controls="pudding_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="pudding_1_changelog">
-                        <p id="changelog_text">[System]<br>Fix: Improved system stability and user experience<br>Updated the security patch to August 2026. Increased system security.</p>
+                        <p id="changelog_text">[System]<br>Updated the security patch to August 2026. Increased system security.<br>This update includes an upgrade to a new Android version. To help everything go smoothly, it's a good idea to back up your personal data before updating. The first startup after the update may take longer than usual, and you might experience temporary issues such as slight heating or lag. Some third-party apps may not work properly if they haven't been updated for compatibility. Proceed with caution.</p>
                     </div>
                 </li>
             </ul>
