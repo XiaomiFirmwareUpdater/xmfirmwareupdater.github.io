@@ -4,11 +4,16 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 15 Sep 2026 13:53:32 </lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 20:02:42 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 15 5G/POCO M8 5G/15 SE 5G (kunzite) - OS3.0.304.0.WPQCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 17/POCO C95 Pro (leedsa) - OS3.0.310.0.WDTMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/leedsa/</link>
             <pubDate>Tue, 15 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -904,11 +909,6 @@
         <item>
             <title>Redmi Pad 2 SE 4G (erhu) - OS3.0.302.0.WDOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/erhu/</link>
-            <pubDate>Fri, 28 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 17/POCO C95 Pro (leedsa) - OS3.0.308.0.WDTMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/leedsa/</link>
             <pubDate>Fri, 28 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
