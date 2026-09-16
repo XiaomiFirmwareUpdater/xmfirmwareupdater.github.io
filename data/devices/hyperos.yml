@@ -7998,6 +7998,12 @@
   version: OS1.0.1.0.UMXMIXM
 - android: '15.0'
   codename: fire
+  date: '2026-09-16'
+  download: https://bigota.d.miui.com/OS2.0.213.0.VMXEUXM/fw_fire_fire_eea_global-ota_full-OS2.0.213.0.VMXEUXM-user-15.0-09797cbdb7.zip
+  name: Redmi 12
+  version: OS2.0.213.0.VMXEUXM
+- android: '15.0'
+  codename: fire
   date: '2025-02-15'
   download: https://bigota.d.miui.com/OS2.0.4.0.VMXMIXM/fw_fire_global_fire_global-ota_full-OS2.0.4.0.VMXMIXM-user-15.0-ba4f86152a.zip
   name: Redmi 12
