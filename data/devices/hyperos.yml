@@ -12492,6 +12492,12 @@
   version: OS3.0.308.0.WDQCNXM
 - android: '16.0'
   codename: iolite
+  date: '2026-09-16'
+  download: https://bigota.d.miui.com/OS3.0.301.0.WDQINXM/fw_iolite_iolite_in_global-ota_full-OS3.0.301.0.WDQINXM-user-16.0-95df7a74b6.zip
+  name: Redmi Note 17 Pro 5G/POCO X8
+  version: OS3.0.301.0.WDQINXM
+- android: '16.0'
+  codename: iolite
   date: '2026-09-14'
   download: https://bigota.d.miui.com/OS3.0.307.0.WDQMIXM/fw_iolite_iolite_global-ota_full-OS3.0.307.0.WDQMIXM-user-16.0-2305267c34.zip
   name: Redmi Note 17 Pro 5G/POCO X8
