@@ -6639,25 +6639,25 @@
     android: '14.0'
     miui: OS1.0.10.0.UKAINXM
 - branch: stable
-  date: '2026-08-28'
+  date: '2026-09-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_steppe/releases/download/stable-28.08.2026/fw_steppe_steppe_global-ota_full-OS3.0.310.0.WAVMIXM-user-16.0-2b4412995f.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/steppe/fw_steppe_steppe_global-ota_full-OS3.0.310.0.WAVMIXM-user-16.0-2b4412995f.zip
-  filename: fw_steppe_steppe_global-ota_full-OS3.0.310.0.WAVMIXM-user-16.0-2b4412995f.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_steppe/releases/download/stable-16.09.2026/fw_steppe_steppe_global-ota_full-OS3.0.311.0.WAVMIXM-user-16.0-37ab96e208.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/steppe/fw_steppe_steppe_global-ota_full-OS3.0.311.0.WAVMIXM-user-16.0-37ab96e208.zip
+  filename: fw_steppe_steppe_global-ota_full-OS3.0.311.0.WAVMIXM-user-16.0-37ab96e208.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.310.0.WAVMIXM
+    miui: OS3.0.311.0.WAVMIXM
 - branch: stable
-  date: '2026-08-27'
+  date: '2026-09-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_steppe/releases/download/stable-27.08.2026/fw_steppe_steppe-ota_full-OS3.0.304.0.WAVCNXM-user-16.0-f890a6c3f8.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/steppe/fw_steppe_steppe-ota_full-OS3.0.304.0.WAVCNXM-user-16.0-f890a6c3f8.zip
-  filename: fw_steppe_steppe-ota_full-OS3.0.304.0.WAVCNXM-user-16.0-f890a6c3f8.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_steppe/releases/download/stable-16.09.2026/fw_steppe_steppe-ota_full-OS3.0.306.0.WAVCNXM-user-16.0-00f67b6bb2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/steppe/fw_steppe_steppe-ota_full-OS3.0.306.0.WAVCNXM-user-16.0-00f67b6bb2.zip
+  filename: fw_steppe_steppe-ota_full-OS3.0.306.0.WAVCNXM-user-16.0-00f67b6bb2.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.304.0.WAVCNXM
+    miui: OS3.0.306.0.WAVCNXM
 - branch: stable
   date: '2026-09-11'
   downloads:
@@ -7079,15 +7079,15 @@
     android: '16.0'
     miui: OS3.0.5.0.WAOMIXM
 - branch: stable
-  date: '2026-09-09'
+  date: '2026-09-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-30.06.2025/fw_turner_turner-ota_full-OS2.0.211.0.VAOCNXM-user-15.0-6e2c8b7f5f.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/turner/fw_turner_turner-ota_full-OS2.0.211.0.VAOCNXM-user-15.0-6e2c8b7f5f.zip
-  filename: fw_turner_turner-ota_full-OS2.0.211.0.VAOCNXM-user-15.0-6e2c8b7f5f.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_turner/releases/download/stable-16.09.2026/fw_turner_turner-ota_full-OS3.0.310.0.WAOCNXM-user-16.0-ec27187eb7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/turner/fw_turner_turner-ota_full-OS3.0.310.0.WAOCNXM-user-16.0-ec27187eb7.zip
+  filename: fw_turner_turner-ota_full-OS3.0.310.0.WAOCNXM-user-16.0-ec27187eb7.zip
   region: China
   versions:
-    android: '15.0'
-    miui: OS2.0.211.0.VAOCNXM
+    android: '16.0'
+    miui: OS3.0.310.0.WAOCNXM
 - branch: stable
   date: '2019-11-05'
   downloads:

@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 16 Sep 2026 02:21:47 </lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 08:25:20 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi M100/Redmi 17 5G/POCO M8x 5G (steppe) - OS3.0.311.0.WAVMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/steppe/</link>
+            <pubDate>Wed, 16 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi M100/Redmi 17 5G/POCO M8x 5G (steppe) - OS3.0.306.0.WAVCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/steppe/</link>
+            <pubDate>Wed, 16 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K Pad/Xiaomi Pad Mini (turner) - OS3.0.310.0.WAOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/turner/</link>
+            <pubDate>Wed, 16 Sep 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 15 5G/POCO M8 5G/15 SE 5G (kunzite) - OS3.0.304.0.WPQCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
@@ -228,11 +243,6 @@
         </item>
         <item>
             <title>Redmi K Pad/Xiaomi Pad Mini (turner) - OS3.0.5.0.WAOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/turner/</link>
-            <pubDate>Wed, 09 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K Pad/Xiaomi Pad Mini (turner) - OS2.0.211.0.VAOCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/turner/</link>
             <pubDate>Wed, 09 Sep 2026 00:00:00 </pubDate>
         </item>
@@ -947,11 +957,6 @@
             <pubDate>Fri, 28 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi M100/Redmi 17 5G/POCO M8x 5G (steppe) - OS3.0.310.0.WAVMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/steppe/</link>
-            <pubDate>Fri, 28 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12 4G (tapas) - OS2.0.205.0.VMTINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tapas/</link>
             <pubDate>Fri, 28 Aug 2026 00:00:00 </pubDate>
@@ -974,11 +979,6 @@
         <item>
             <title>Redmi Note 17 Pro 5G/POCO X8 (iolite) - OS3.0.306.0.WDQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/iolite/</link>
-            <pubDate>Thu, 27 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi M100/Redmi 17 5G/POCO M8x 5G (steppe) - OS3.0.304.0.WAVCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/steppe/</link>
             <pubDate>Thu, 27 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
