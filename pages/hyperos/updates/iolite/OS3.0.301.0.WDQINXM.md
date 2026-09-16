@@ -1,16 +1,16 @@
 ---
-title: Redmi Note 17 Pro 5G / POCO X8 EEA HyperOS OS3.0.306.0.WDQEUXM Update
+title: Redmi Note 17 Pro 5G / POCO X8 India HyperOS OS3.0.301.0.WDQINXM Update
 layout: download
-name: Redmi Note 17 Pro 5G / POCO X8 EEA
+name: Redmi Note 17 Pro 5G / POCO X8 India
 codename: iolite
-permalink: /hyperos/iolite/stable/OS3.0.306.0.WDQEUXM/
+permalink: /hyperos/iolite/stable/OS3.0.301.0.WDQINXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/iolite/">Redmi Note 17 Pro 5G / POCO X8 EEA</a></li>
-        <li class="breadcrumb-item active" aria-current="page">OS3.0.306.0.WDQEUXM</li>
+        <li class="breadcrumb-item"><a href="/hyperos/iolite/">Redmi Note 17 Pro 5G / POCO X8 India</a></li>
+        <li class="breadcrumb-item active" aria-current="page">OS3.0.301.0.WDQINXM</li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -21,8 +21,8 @@ permalink: /hyperos/iolite/stable/OS3.0.306.0.WDQEUXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.306.0.WDQEUXM Stable Official Update for Redmi Note 17 Pro 5G / POCO X8 EEA (iolite)</h3>
-    <h5>This page shows the OS3.0.306.0.WDQEUXM update only. If you're looking for other updates check
+    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.301.0.WDQINXM Stable Official Update for Redmi Note 17 Pro 5G / POCO X8 India (iolite)</h3>
+    <h5>This page shows the OS3.0.301.0.WDQINXM update only. If you're looking for other updates check
         <a href="/hyperos/iolite/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
         It's not owned, modified or edited by XM Firmware Updater.</p>
@@ -44,13 +44,13 @@ permalink: /hyperos/iolite/stable/OS3.0.306.0.WDQEUXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 17 Pro 5G / POCO X8 EEA</h5>
+                    <h5><b>Device: </b>Redmi Note 17 Pro 5G / POCO X8 India</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/iolite/" target="_blank">iolite</a> </h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS3.0.306.0.WDQEUXM</h5>
+                    <h5><b>Version: </b>OS3.0.301.0.WDQINXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Branch: </b>Stable</h5>
@@ -59,19 +59,19 @@ permalink: /hyperos/iolite/stable/OS3.0.306.0.WDQEUXM/
                     <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.4 GB</h5>
+                    <h5><b>Size: </b>5.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-08-11</h5>
+                    <h5><b>Release Date: </b>2026-09-16</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">iolite_eea_global-ota_full-OS3.0.306.0.WDQEUXM-user-16.0-0774962b0a.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">iolite_in_global-ota_full-OS3.0.301.0.WDQINXM-user-16.0-95df7a74b6.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">0774962b0a67d1ee9e145cbe3292426c</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">95df7a74b69d30ccfef15370f76464ae</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.306.0.WDQEUXM/iolite_eea_global-ota_full-OS3.0.306.0.WDQEUXM-user-16.0-0774962b0a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WDQEUXM/iolite_eea_global-ota_full-OS3.0.306.0.WDQEUXM-user-16.0-0774962b0a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.306.0.WDQEUXM/iolite_eea_global-ota_full-OS3.0.306.0.WDQEUXM-user-16.0-0774962b0a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.306.0.WDQEUXM/iolite_eea_global-ota_full-OS3.0.306.0.WDQEUXM-user-16.0-0774962b0a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.306.0.WDQEUXM/iolite_eea_global-ota_full-OS3.0.306.0.WDQEUXM-user-16.0-0774962b0a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.301.0.WDQINXM/iolite_in_global-ota_full-OS3.0.301.0.WDQINXM-user-16.0-95df7a74b6.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WDQINXM/iolite_in_global-ota_full-OS3.0.301.0.WDQINXM-user-16.0-95df7a74b6.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.301.0.WDQINXM/iolite_in_global-ota_full-OS3.0.301.0.WDQINXM-user-16.0-95df7a74b6.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.301.0.WDQINXM/iolite_in_global-ota_full-OS3.0.301.0.WDQINXM-user-16.0-95df7a74b6.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.301.0.WDQINXM/iolite_in_global-ota_full-OS3.0.301.0.WDQINXM-user-16.0-95df7a74b6.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#iolite_1_changelog" data-toggle="collapse" role="button"
@@ -87,13 +87,13 @@ permalink: /hyperos/iolite/stable/OS3.0.306.0.WDQEUXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 17 Pro 5G / POCO X8 EEA</h5>
+                    <h5><b>Device: </b>Redmi Note 17 Pro 5G / POCO X8 India</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/iolite/" target="_blank">iolite</a> </h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS3.0.306.0.WDQEUXM</h5>
+                    <h5><b>Version: </b>OS3.0.301.0.WDQINXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Branch: </b>Stable</h5>
@@ -102,19 +102,19 @@ permalink: /hyperos/iolite/stable/OS3.0.306.0.WDQEUXM/
                     <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.1 GB</h5>
+                    <h5><b>Size: </b>7.1 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-08-05</h5>
+                    <h5><b>Release Date: </b>2026-08-07</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">iolite_eea_global_images_OS3.0.306.0.WDQEUXM_20260805.0000.00_16.0_eea_5bca5d46c3.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">iolite_in_global_images_OS3.0.301.0.WDQINXM_20260807.0000.00_16.0_in_700f9cc7b4.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">5bca5d46c35ee26dd225332ad2dfac9d</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">700f9cc7b4e7728558ef42ee275b858b</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.306.0.WDQEUXM/iolite_eea_global_images_OS3.0.306.0.WDQEUXM_20260805.0000.00_16.0_eea_5bca5d46c3.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WDQEUXM/iolite_eea_global_images_OS3.0.306.0.WDQEUXM_20260805.0000.00_16.0_eea_5bca5d46c3.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.306.0.WDQEUXM/iolite_eea_global_images_OS3.0.306.0.WDQEUXM_20260805.0000.00_16.0_eea_5bca5d46c3.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.306.0.WDQEUXM/iolite_eea_global_images_OS3.0.306.0.WDQEUXM_20260805.0000.00_16.0_eea_5bca5d46c3.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.306.0.WDQEUXM/iolite_eea_global_images_OS3.0.306.0.WDQEUXM_20260805.0000.00_16.0_eea_5bca5d46c3.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.301.0.WDQINXM/iolite_in_global_images_OS3.0.301.0.WDQINXM_20260807.0000.00_16.0_in_700f9cc7b4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WDQINXM/iolite_in_global_images_OS3.0.301.0.WDQINXM_20260807.0000.00_16.0_in_700f9cc7b4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.301.0.WDQINXM/iolite_in_global_images_OS3.0.301.0.WDQINXM_20260807.0000.00_16.0_in_700f9cc7b4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.301.0.WDQINXM/iolite_in_global_images_OS3.0.301.0.WDQINXM_20260807.0000.00_16.0_in_700f9cc7b4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.301.0.WDQINXM/iolite_in_global_images_OS3.0.301.0.WDQINXM_20260807.0000.00_16.0_in_700f9cc7b4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#iolite_2_changelog" data-toggle="collapse" role="button"
