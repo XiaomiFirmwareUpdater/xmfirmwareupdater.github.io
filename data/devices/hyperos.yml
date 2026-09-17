@@ -796,6 +796,12 @@
   download: https://bigota.d.miui.com/OS3.0.3.0.WOPINXM/fw_amethyst_amethyst_in_global-ota_full-OS3.0.3.0.WOPINXM-user-16.0-6f9a367404.zip
   name: Redmi Note 14 Pro+ 5G
   version: OS3.0.3.0.WOPINXM
+- android: '16.0'
+  codename: amethyst
+  date: '2026-09-17'
+  download: https://bigota.d.miui.com/OS3.0.306.0.WOPEUXM/fw_amethyst_amethyst_eea_global-ota_full-OS3.0.306.0.WOPEUXM-user-16.0-1139c9b977.zip
+  name: Redmi Note 14 Pro+ 5G
+  version: OS3.0.306.0.WOPEUXM
 - android: '15.0'
   codename: amethyst
   date: '2026-09-08'

@@ -52,7 +52,8 @@ permalink: /archive/hyperos/rodin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO X7 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOJEUXM</td><td>16.0</td><td>6.8 GB</td><td>2026-09-04</td><td><a href="/hyperos/rodin/stable/OS3.0.302.0.WOJEUXM/">Download</a></td></tr>
+                <tr><td>POCO X7 Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WOJTRXM</td><td>16.0</td><td>6.7 GB</td><td>2026-09-14</td><td><a href="/hyperos/rodin/stable beta/OS3.0.302.0.WOJTRXM/">Download</a></td></tr>
+<tr><td>POCO X7 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOJEUXM</td><td>16.0</td><td>6.8 GB</td><td>2026-09-04</td><td><a href="/hyperos/rodin/stable/OS3.0.302.0.WOJEUXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOJEUXM</td><td>16.0</td><td>9.2 GB</td><td>2026-08-26</td><td><a href="/hyperos/rodin/stable/OS3.0.302.0.WOJEUXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOJMIXM</td><td>16.0</td><td>6.8 GB</td><td>2026-09-04</td><td><a href="/hyperos/rodin/stable/OS3.0.302.0.WOJMIXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOJMIXM</td><td>16.0</td><td>10.3 GB</td><td>2026-08-26</td><td><a href="/hyperos/rodin/stable/OS3.0.302.0.WOJMIXM/">Download</a></td></tr>
