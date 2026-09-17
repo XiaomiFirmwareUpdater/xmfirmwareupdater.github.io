@@ -3,7 +3,7 @@ title: Redmi Note 14 Pro+ 5G China HyperOS OS3.0.306.0.WOPCNXM Update
 layout: download
 name: Redmi Note 14 Pro+ 5G China
 codename: amethyst
-permalink: /hyperos/amethyst/stable beta/OS3.0.306.0.WOPCNXM/
+permalink: /hyperos/amethyst/stable/OS3.0.306.0.WOPCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/amethyst/stable beta/OS3.0.306.0.WOPCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.306.0.WOPCNXM Stable Beta Official Update for Redmi Note 14 Pro+ 5G China (amethyst)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.306.0.WOPCNXM Stable Official Update for Redmi Note 14 Pro+ 5G China (amethyst)</h3>
     <h5>This page shows the OS3.0.306.0.WOPCNXM update only. If you're looking for other updates check
         <a href="/hyperos/amethyst/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/amethyst/stable beta/OS3.0.306.0.WOPCNXM/
                     <h5><b>Version: </b>OS3.0.306.0.WOPCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -111,7 +111,7 @@ permalink: /hyperos/amethyst/stable beta/OS3.0.306.0.WOPCNXM/
                     <h5><b>Package Name: </b><span id="filename" class="text-dark">amethyst_images_OS3.0.306.0.WOPCNXM_20260826.0000.00_16.0_cn_7bbd045e44.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">Unknown</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">7bbd045e4424af1f6c7e54686d0bd2ae</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.306.0.WOPCNXM/amethyst_images_OS3.0.306.0.WOPCNXM_20260826.0000.00_16.0_cn_7bbd045e44.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WOPCNXM/amethyst_images_OS3.0.306.0.WOPCNXM_20260826.0000.00_16.0_cn_7bbd045e44.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.306.0.WOPCNXM/amethyst_images_OS3.0.306.0.WOPCNXM_20260826.0000.00_16.0_cn_7bbd045e44.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.306.0.WOPCNXM/amethyst_images_OS3.0.306.0.WOPCNXM_20260826.0000.00_16.0_cn_7bbd045e44.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.306.0.WOPCNXM/amethyst_images_OS3.0.306.0.WOPCNXM_20260826.0000.00_16.0_cn_7bbd045e44.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
