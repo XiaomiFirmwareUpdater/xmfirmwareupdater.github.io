@@ -1839,15 +1839,15 @@
     android: '16.0'
     miui: OS3.0.304.0.WNLCNXM
 - branch: stable
-  date: '2026-06-25'
+  date: '2026-09-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-25.06.2026/fw_duchamp_duchamp_eea_global-ota_full-OS3.0.302.0.WNLEUXM-user-16.0-d59a5ae41e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/duchamp/fw_duchamp_duchamp_eea_global-ota_full-OS3.0.302.0.WNLEUXM-user-16.0-d59a5ae41e.zip
-  filename: fw_duchamp_duchamp_eea_global-ota_full-OS3.0.302.0.WNLEUXM-user-16.0-d59a5ae41e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_duchamp/releases/download/stable-18.09.2026/fw_duchamp_duchamp_eea_global-ota_full-OS3.0.304.0.WNLEUXM-user-16.0-2b08f54434.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/duchamp/fw_duchamp_duchamp_eea_global-ota_full-OS3.0.304.0.WNLEUXM-user-16.0-2b08f54434.zip
+  filename: fw_duchamp_duchamp_eea_global-ota_full-OS3.0.304.0.WNLEUXM-user-16.0-2b08f54434.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.302.0.WNLEUXM
+    miui: OS3.0.304.0.WNLEUXM
 - branch: stable
   date: '2026-06-24'
   downloads:
@@ -2329,15 +2329,15 @@
     android: '16.0'
     miui: OS3.0.304.0.WMCMIXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-24.08.2026/fw_fuxi_miui_FUXI_V14.0.32.0.TMCCNXM_862e1d10a2_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fuxi/fw_fuxi_miui_FUXI_V14.0.32.0.TMCCNXM_862e1d10a2_13.0.zip
-  filename: fw_fuxi_miui_FUXI_V14.0.32.0.TMCCNXM_862e1d10a2_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-18.09.2026/fw_fuxi_fuxi-ota_full-OS3.0.309.0.WMCCNXM-user-16.0-4729900895.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/fuxi/fw_fuxi_fuxi-ota_full-OS3.0.309.0.WMCCNXM-user-16.0-4729900895.zip
+  filename: fw_fuxi_fuxi-ota_full-OS3.0.309.0.WMCCNXM-user-16.0-4729900895.zip
   region: China
   versions:
-    android: '13.0'
-    miui: V14.0.32.0.TMCCNXM
+    android: '16.0'
+    miui: OS3.0.309.0.WMCCNXM
 - branch: stable
   date: '2026-09-07'
   downloads:
@@ -4979,15 +4979,15 @@
     android: '15.0'
     miui: OS2.0.208.0.VNPMIXM
 - branch: stable
-  date: '2026-09-08'
+  date: '2026-09-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-31.03.2026/fw_peridot_peridot-ota_full-OS3.0.9.0.WNPCNXM-user-16.0-f0180ea7b4.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/peridot/fw_peridot_peridot-ota_full-OS3.0.9.0.WNPCNXM-user-16.0-f0180ea7b4.zip
-  filename: fw_peridot_peridot-ota_full-OS3.0.9.0.WNPCNXM-user-16.0-f0180ea7b4.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-18.09.2026/fw_peridot_peridot-ota_full-OS3.0.305.0.WNPCNXM-user-16.0-f5c2a07bdf.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/peridot/fw_peridot_peridot-ota_full-OS3.0.305.0.WNPCNXM-user-16.0-f5c2a07bdf.zip
+  filename: fw_peridot_peridot-ota_full-OS3.0.305.0.WNPCNXM-user-16.0-f5c2a07bdf.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.9.0.WNPCNXM
+    miui: OS3.0.305.0.WNPCNXM
 - branch: stable
   date: '2026-09-08'
   downloads:
@@ -7189,15 +7189,15 @@
     android: '15.0'
     miui: OS2.0.204.0.VOZMIXM
 - branch: stable
-  date: '2026-09-09'
+  date: '2026-09-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-30.10.2024/fw_uke_uke-ota_full-OS2.0.7.0.VOZCNXM-user-15.0-febddd1fcd.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/uke/fw_uke_uke-ota_full-OS2.0.7.0.VOZCNXM-user-15.0-febddd1fcd.zip
-  filename: fw_uke_uke-ota_full-OS2.0.7.0.VOZCNXM-user-15.0-febddd1fcd.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_uke/releases/download/stable-18.09.2026/fw_uke_uke-ota_full-OS3.0.306.0.WOZCNXM-user-16.0-5fa13d1060.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/uke/fw_uke_uke-ota_full-OS3.0.306.0.WOZCNXM-user-16.0-5fa13d1060.zip
+  filename: fw_uke_uke-ota_full-OS3.0.306.0.WOZCNXM-user-16.0-5fa13d1060.zip
   region: China
   versions:
-    android: '15.0'
-    miui: OS2.0.7.0.VOZCNXM
+    android: '16.0'
+    miui: OS3.0.306.0.WOZCNXM
 - branch: stable
   date: '2026-09-09'
   downloads:

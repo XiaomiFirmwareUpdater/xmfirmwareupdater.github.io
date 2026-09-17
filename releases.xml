@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 17 Sep 2026 19:35:14 </lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 02:45:17 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.306.0.WOPEUXM</title>
@@ -14,6 +14,16 @@
         <item>
             <title>Redmi Note 17 Pro Max 5G/POCO X8 Power (brussels) - OS3.0.305.0.WDREUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/brussels/</link>
+            <pubDate>Thu, 17 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.304.0.WNLEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Thu, 17 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 (fuxi) - OS3.0.309.0.WMCCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
             <pubDate>Thu, 17 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -27,8 +37,18 @@
             <pubDate>Thu, 17 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Turbo 3/POCO F6 (peridot) - OS3.0.305.0.WNPCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
+            <pubDate>Thu, 17 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Xiaomi 12T (plato) - OS2.0.217.0.VLQEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/plato/</link>
+            <pubDate>Thu, 17 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS3.0.306.0.WOZCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/uke/</link>
             <pubDate>Thu, 17 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -283,11 +303,6 @@
         </item>
         <item>
             <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS2.0.204.0.VOZMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/uke/</link>
-            <pubDate>Wed, 09 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS2.0.7.0.VOZCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/uke/</link>
             <pubDate>Wed, 09 Sep 2026 00:00:00 </pubDate>
         </item>
@@ -738,11 +753,6 @@
         </item>
         <item>
             <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.208.0.VNPMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 3/POCO F6 (peridot) - OS3.0.9.0.WNPCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
             <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
         </item>
@@ -1332,11 +1342,6 @@
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 13 (fuxi) - V14.0.32.0.TMCCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 13C/POCO C65 (gale) - OS2.0.208.0.VGPMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/gale/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
@@ -1520,11 +1525,6 @@
             <title>Xiaomi 12S Pro (unicorn) - OS3.0.4.0.VLECNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/unicorn/</link>
             <pubDate>Mon, 29 Jun 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.302.0.WNLEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
-            <pubDate>Thu, 25 Jun 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.7.0.WNLINXM</title>

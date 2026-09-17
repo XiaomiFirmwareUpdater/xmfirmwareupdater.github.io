@@ -6772,6 +6772,12 @@
   download: https://bigota.d.miui.com/OS1.0.12.0.UNLINXM/fw_duchamp_miui_DUCHAMPINGlobal_OS1.0.12.0.UNLINXM_590d54d11e_14.0.zip
   name: Redmi K70E/POCO X6 Pro 5G
   version: OS1.0.12.0.UNLINXM
+- android: '16.0'
+  codename: duchamp
+  date: '2026-09-17'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WNLEUXM/fw_duchamp_duchamp_eea_global-ota_full-OS3.0.304.0.WNLEUXM-user-16.0-2b08f54434.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS3.0.304.0.WNLEUXM
 - android: '14.0'
   codename: duchamp
   date: '2024-09-17'
@@ -9226,6 +9232,12 @@
   download: https://bigota.d.miui.com/OS3.0.3.0.WMCMIXM/fw_fuxi_fuxi_global-ota_full-OS3.0.3.0.WMCMIXM-user-16.0-9b0e8f60de.zip
   name: Xiaomi 13
   version: OS3.0.3.0.WMCMIXM
+- android: '16.0'
+  codename: fuxi
+  date: '2026-09-17'
+  download: https://bigota.d.miui.com/OS3.0.309.0.WMCCNXM/fw_fuxi_fuxi-ota_full-OS3.0.309.0.WMCCNXM-user-16.0-4729900895.zip
+  name: Xiaomi 13
+  version: OS3.0.309.0.WMCCNXM
 - android: '15.0'
   codename: fuxi
   date: '2025-02-18'
@@ -20128,6 +20140,12 @@
   download: https://bigota.d.miui.com/OS1.0.14.0.UNPCNXM/fw_peridot_miui_PERIDOT_OS1.0.14.0.UNPCNXM_f31a1bac03_14.0.zip
   name: Redmi Turbo 3/POCO F6
   version: OS1.0.14.0.UNPCNXM
+- android: '16.0'
+  codename: peridot
+  date: '2026-09-17'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WNPCNXM/fw_peridot_peridot-ota_full-OS3.0.305.0.WNPCNXM-user-16.0-f5c2a07bdf.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS3.0.305.0.WNPCNXM
 - android: '14.0'
   codename: peridot
   date: '2026-09-08'
@@ -29548,6 +29566,12 @@
   download: https://bigota.d.miui.com/OS2.0.100.0.VOZCNXM/fw_uke_uke-ota_full-OS2.0.100.0.VOZCNXM-user-15.0-c2816e4ff3.zip
   name: Xiaomi Pad 7/POCO Pad X1
   version: OS2.0.100.0.VOZCNXM
+- android: '16.0'
+  codename: uke
+  date: '2026-09-17'
+  download: https://bigota.d.miui.com/OS3.0.306.0.WOZCNXM/fw_uke_uke-ota_full-OS3.0.306.0.WOZCNXM-user-16.0-5fa13d1060.zip
+  name: Xiaomi Pad 7/POCO Pad X1
+  version: OS3.0.306.0.WOZCNXM
 - android: '16.0'
   codename: uke
   date: '2026-09-09'
