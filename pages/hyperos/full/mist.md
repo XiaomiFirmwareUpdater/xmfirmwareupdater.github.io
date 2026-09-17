@@ -53,6 +53,7 @@ permalink: /archive/hyperos/mist/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Note 17 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WPUTWXM</td><td>16.0</td><td>4.8 GB</td><td>2026-09-16</td><td><a href="/hyperos/mist/stable beta/OS3.0.303.0.WPUTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 17 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WPUMIXM</td><td>16.0</td><td>5.0 GB</td><td>2026-09-14</td><td><a href="/hyperos/mist/stable beta/OS3.0.303.0.WPUMIXM/">Download</a></td></tr>
 <tr><td>POCO M8 Power 5G / Redmi Note 17 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.306.0.WPUINXM</td><td>16.0</td><td>4.7 GB</td><td>2026-09-09</td><td><a href="/hyperos/mist/stable beta/OS3.0.306.0.WPUINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WPUTWXM</td><td>16.0</td><td>4.8 GB</td><td>2026-09-03</td><td><a href="/hyperos/mist/stable/OS3.0.302.0.WPUTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WPUTWXM</td><td>16.0</td><td>5.8 GB</td><td>2026-07-13</td><td><a href="/hyperos/mist/stable/OS3.0.302.0.WPUTWXM/">Download</a></td></tr>

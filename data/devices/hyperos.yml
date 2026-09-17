@@ -2922,6 +2922,12 @@
   version: OS3.0.304.0.WDREUXM
 - android: '16.0'
   codename: brussels
+  date: '2026-09-17'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WDREUXM/fw_brussels_brussels_eea_global-ota_full-OS3.0.305.0.WDREUXM-user-16.0-3419b0cb08.zip
+  name: Redmi Note 17 Pro Max 5G/POCO X8 Power
+  version: OS3.0.305.0.WDREUXM
+- android: '16.0'
+  codename: brussels
   date: '2026-09-03'
   download: https://bigota.d.miui.com/OS3.0.306.0.WDRMIXM/fw_brussels_brussels_global-ota_full-OS3.0.306.0.WDRMIXM-user-16.0-1ddbd15ed7.zip
   name: Redmi Note 17 Pro Max 5G/POCO X8 Power
@@ -12492,6 +12498,12 @@
   version: OS3.0.308.0.WDQCNXM
 - android: '16.0'
   codename: iolite
+  date: '2026-09-17'
+  download: https://bigota.d.miui.com/OS3.0.307.0.WDQEUXM/fw_iolite_iolite_eea_global-ota_full-OS3.0.307.0.WDQEUXM-user-16.0-4abcf55078.zip
+  name: Redmi Note 17 Pro 5G/POCO X8
+  version: OS3.0.307.0.WDQEUXM
+- android: '16.0'
+  codename: iolite
   date: '2026-09-16'
   download: https://bigota.d.miui.com/OS3.0.301.0.WDQINXM/fw_iolite_iolite_in_global-ota_full-OS3.0.301.0.WDQINXM-user-16.0-95df7a74b6.zip
   name: Redmi Note 17 Pro 5G/POCO X8
@@ -16420,6 +16432,12 @@
   download: https://bigota.d.miui.com/OS3.0.304.0.WPUINXM/fw_mist_mist_in_global-ota_full-OS3.0.304.0.WPUINXM-user-16.0-c14f89122f.zip
   name: Redmi Note 17 5G/POCO M8 Power 5G
   version: OS3.0.304.0.WPUINXM
+- android: '16.0'
+  codename: mist
+  date: '2026-09-17'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WPUMIXM/fw_mist_mist_global-ota_full-OS3.0.303.0.WPUMIXM-user-16.0-a979fe77ca.zip
+  name: Redmi Note 17 5G/POCO M8 Power 5G
+  version: OS3.0.303.0.WPUMIXM
 - android: '16.0'
   codename: mist
   date: '2026-09-15'
@@ -21238,6 +21256,12 @@
   download: https://bigota.d.miui.com/OS1.0.8.0.ULQEUXM/fw_plato_miui_PLATOEEAGlobal_OS1.0.8.0.ULQEUXM_751280393d_14.0.zip
   name: Xiaomi 12T
   version: OS1.0.8.0.ULQEUXM
+- android: '15.0'
+  codename: plato
+  date: '2026-09-17'
+  download: https://bigota.d.miui.com/OS2.0.217.0.VLQEUXM/fw_plato_plato_eea_global-ota_full-OS2.0.217.0.VLQEUXM-user-15.0-1f10157e3b.zip
+  name: Xiaomi 12T
+  version: OS2.0.217.0.VLQEUXM
 - android: '14.0'
   codename: plato
   date: '2025-01-17'
