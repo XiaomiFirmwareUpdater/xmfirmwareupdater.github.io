@@ -12516,6 +12516,18 @@
   version: OS3.0.308.0.WDQCNXM
 - android: '16.0'
   codename: iolite
+  date: '2026-09-18'
+  download: https://bigota.d.miui.com/OS3.0.312.0.WDQCNXM/fw_iolite_iolite-ota_full-OS3.0.312.0.WDQCNXM-user-16.0-b2856c3daa.zip
+  name: Redmi Note 17 Pro 5G/POCO X8
+  version: OS3.0.312.0.WDQCNXM
+- android: '16.0'
+  codename: iolite
+  date: '2026-09-18'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WDQINXM/fw_iolite_iolite_in_global-ota_full-OS3.0.302.0.WDQINXM-user-16.0-f8e5c248e5.zip
+  name: Redmi Note 17 Pro 5G/POCO X8
+  version: OS3.0.302.0.WDQINXM
+- android: '16.0'
+  codename: iolite
   date: '2026-09-17'
   download: https://bigota.d.miui.com/OS3.0.307.0.WDQEUXM/fw_iolite_iolite_eea_global-ota_full-OS3.0.307.0.WDQEUXM-user-16.0-4abcf55078.zip
   name: Redmi Note 17 Pro 5G/POCO X8
@@ -16450,6 +16462,12 @@
   download: https://bigota.d.miui.com/OS3.0.304.0.WPUINXM/fw_mist_mist_in_global-ota_full-OS3.0.304.0.WPUINXM-user-16.0-c14f89122f.zip
   name: Redmi Note 17 5G/POCO M8 Power 5G
   version: OS3.0.304.0.WPUINXM
+- android: '16.0'
+  codename: mist
+  date: '2026-09-18'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WPUEUXM/fw_mist_mist_eea_global-ota_full-OS3.0.305.0.WPUEUXM-user-16.0-255e440570.zip
+  name: Redmi Note 17 5G/POCO M8 Power 5G
+  version: OS3.0.305.0.WPUEUXM
 - android: '16.0'
   codename: mist
   date: '2026-09-17'
@@ -29194,6 +29212,12 @@
   download: https://bigota.d.miui.com/OS3.0.1.0.WPOMIXM/fw_tornado_tornado_global-ota_full-OS3.0.1.0.WPOMIXM-user-16.0-d1a4d43395.zip
   name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS3.0.1.0.WPOMIXM
+- android: '16.0'
+  codename: tornado
+  date: '2026-09-18'
+  download: https://bigota.d.miui.com/OS3.0.309.0.WPOINXM/fw_tornado_tornado_in_global-ota_full-OS3.0.309.0.WPOINXM-user-16.0-6fee62fee2.zip
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
+  version: OS3.0.309.0.WPOINXM
 - android: '15.0'
   codename: tornado
   date: '2026-03-16'

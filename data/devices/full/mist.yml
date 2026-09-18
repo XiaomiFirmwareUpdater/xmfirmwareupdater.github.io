@@ -49,6 +49,16 @@
     android: '16.0'
     miui: OS3.0.304.0.WPUINXM
 - branch: stable
+  date: '2026-09-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mist/releases/download/stable-18.09.2026/fw_mist_mist_eea_global-ota_full-OS3.0.305.0.WPUEUXM-user-16.0-255e440570.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/mist/fw_mist_mist_eea_global-ota_full-OS3.0.305.0.WPUEUXM-user-16.0-255e440570.zip
+  filename: fw_mist_mist_eea_global-ota_full-OS3.0.305.0.WPUEUXM-user-16.0-255e440570.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.305.0.WPUEUXM
+- branch: stable
   date: '2026-09-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mist/releases/download/stable-17.09.2026/fw_mist_mist_global-ota_full-OS3.0.303.0.WPUMIXM-user-16.0-a979fe77ca.zip

@@ -1,16 +1,16 @@
 ---
-title: Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G Turkey HyperOS OS3.0.301.0.WPRTRXM Update
+title: Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G Taiwan HyperOS OS3.0.301.0.WPRTWXM Update
 layout: download
-name: Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G Turkey
+name: Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G Taiwan
 codename: flourite
-permalink: /hyperos/flourite/stable/OS3.0.301.0.WPRTRXM/
+permalink: /hyperos/flourite/stable/OS3.0.301.0.WPRTWXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/hyperos/">HyperOS</a></li>
-        <li class="breadcrumb-item"><a href="/hyperos/flourite/">Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G Turkey</a></li>
-        <li class="breadcrumb-item active" aria-current="page">OS3.0.301.0.WPRTRXM</li>
+        <li class="breadcrumb-item"><a href="/hyperos/flourite/">Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G Taiwan</a></li>
+        <li class="breadcrumb-item active" aria-current="page">OS3.0.301.0.WPRTWXM</li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -21,8 +21,8 @@ permalink: /hyperos/flourite/stable/OS3.0.301.0.WPRTRXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.301.0.WPRTRXM Stable Official Update for Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G Turkey (flourite)</h3>
-    <h5>This page shows the OS3.0.301.0.WPRTRXM update only. If you're looking for other updates check
+    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.301.0.WPRTWXM Stable Official Update for Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G Taiwan (flourite)</h3>
+    <h5>This page shows the OS3.0.301.0.WPRTWXM update only. If you're looking for other updates check
         <a href="/hyperos/flourite/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
         It's not owned, modified or edited by XM Firmware Updater.</p>
@@ -44,13 +44,13 @@ permalink: /hyperos/flourite/stable/OS3.0.301.0.WPRTRXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G Turkey</h5>
+                    <h5><b>Device: </b>Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G Taiwan</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/flourite/" target="_blank">flourite</a> </h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS3.0.301.0.WPRTRXM</h5>
+                    <h5><b>Version: </b>OS3.0.301.0.WPRTWXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Branch: </b>Stable</h5>
@@ -59,19 +59,19 @@ permalink: /hyperos/flourite/stable/OS3.0.301.0.WPRTRXM/
                     <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.7 GB</h5>
+                    <h5><b>Size: </b>6.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-08-22</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">flourite_tr_global-ota_full-OS3.0.301.0.WPRTRXM-user-16.0-fcbd74381c.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">flourite_tw_global-ota_full-OS3.0.301.0.WPRTWXM-user-16.0-7882f572d5.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">fcbd74381c31ac74735ed297d145b180</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">7882f572d57eae97c13f5765aefa6a54</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WPRTRXM/flourite_tr_global-ota_incremental-OS3.0.1.0.WPRTRXM-OS3.0.301.0.WPRTRXM-user-16.0-23be0e3820.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.301.0.WPRTRXM/flourite_tr_global-ota_full-OS3.0.301.0.WPRTRXM-user-16.0-fcbd74381c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WPRTRXM/flourite_tr_global-ota_full-OS3.0.301.0.WPRTRXM-user-16.0-fcbd74381c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.301.0.WPRTRXM/flourite_tr_global-ota_full-OS3.0.301.0.WPRTRXM-user-16.0-fcbd74381c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.301.0.WPRTRXM/flourite_tr_global-ota_full-OS3.0.301.0.WPRTRXM-user-16.0-fcbd74381c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.301.0.WPRTRXM/flourite_tr_global-ota_full-OS3.0.301.0.WPRTRXM-user-16.0-fcbd74381c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.301.0.WPRTWXM/flourite_tw_global-ota_full-OS3.0.301.0.WPRTWXM-user-16.0-7882f572d5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WPRTWXM/flourite_tw_global-ota_full-OS3.0.301.0.WPRTWXM-user-16.0-7882f572d5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.301.0.WPRTWXM/flourite_tw_global-ota_full-OS3.0.301.0.WPRTWXM-user-16.0-7882f572d5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.301.0.WPRTWXM/flourite_tw_global-ota_full-OS3.0.301.0.WPRTWXM-user-16.0-7882f572d5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.301.0.WPRTWXM/flourite_tw_global-ota_full-OS3.0.301.0.WPRTWXM-user-16.0-7882f572d5.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#flourite_1_changelog" data-toggle="collapse" role="button"
@@ -87,13 +87,13 @@ permalink: /hyperos/flourite/stable/OS3.0.301.0.WPRTRXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G Turkey</h5>
+                    <h5><b>Device: </b>Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G Taiwan</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Codename: </b> <a href="/hyperos/flourite/" target="_blank">flourite</a> </h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>OS3.0.301.0.WPRTRXM</h5>
+                    <h5><b>Version: </b>OS3.0.301.0.WPRTWXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Branch: </b>Stable</h5>
@@ -102,19 +102,19 @@ permalink: /hyperos/flourite/stable/OS3.0.301.0.WPRTRXM/
                     <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>9.1 GB</h5>
+                    <h5><b>Size: </b>7.7 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Release Date: </b>2026-08-10</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">flourite_tr_global_images_OS3.0.301.0.WPRTRXM_20260810.0000.00_16.0_tr_16cd24c3ff.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">flourite_tw_global_images_OS3.0.301.0.WPRTWXM_20260810.0000.00_16.0_tw_f0fa2a117e.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">16cd24c3ffed19e8289cb01d8fe39ece</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f0fa2a117ef9dd9ad36923eac04d72db</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.301.0.WPRTRXM/flourite_tr_global_images_OS3.0.301.0.WPRTRXM_20260810.0000.00_16.0_tr_16cd24c3ff.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WPRTRXM/flourite_tr_global_images_OS3.0.301.0.WPRTRXM_20260810.0000.00_16.0_tr_16cd24c3ff.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.301.0.WPRTRXM/flourite_tr_global_images_OS3.0.301.0.WPRTRXM_20260810.0000.00_16.0_tr_16cd24c3ff.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.301.0.WPRTRXM/flourite_tr_global_images_OS3.0.301.0.WPRTRXM_20260810.0000.00_16.0_tr_16cd24c3ff.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.301.0.WPRTRXM/flourite_tr_global_images_OS3.0.301.0.WPRTRXM_20260810.0000.00_16.0_tr_16cd24c3ff.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.301.0.WPRTWXM/flourite_tw_global_images_OS3.0.301.0.WPRTWXM_20260810.0000.00_16.0_tw_f0fa2a117e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WPRTWXM/flourite_tw_global_images_OS3.0.301.0.WPRTWXM_20260810.0000.00_16.0_tw_f0fa2a117e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.301.0.WPRTWXM/flourite_tw_global_images_OS3.0.301.0.WPRTWXM_20260810.0000.00_16.0_tw_f0fa2a117e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.301.0.WPRTWXM/flourite_tw_global_images_OS3.0.301.0.WPRTWXM_20260810.0000.00_16.0_tw_f0fa2a117e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.301.0.WPRTWXM/flourite_tw_global_images_OS3.0.301.0.WPRTWXM_20260810.0000.00_16.0_tw_f0fa2a117e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#flourite_2_changelog" data-toggle="collapse" role="button"

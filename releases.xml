@@ -4,8 +4,28 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 18 Sep 2026 08:26:12 </lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 20:33:11 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 17 Pro 5G/POCO X8 (iolite) - OS3.0.312.0.WDQCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/iolite/</link>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 17 Pro 5G/POCO X8 (iolite) - OS3.0.302.0.WDQINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/iolite/</link>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 17 5G/POCO M8 Power 5G (mist) - OS3.0.305.0.WPUEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/mist/</link>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD (tornado) - OS3.0.309.0.WPOINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.306.0.WOPEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
@@ -54,11 +74,6 @@
         <item>
             <title>Redmi 12 (fire) - OS2.0.213.0.VMXEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fire/</link>
-            <pubDate>Wed, 16 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 17 Pro 5G/POCO X8 (iolite) - OS3.0.301.0.WDQINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/iolite/</link>
             <pubDate>Wed, 16 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -857,11 +872,6 @@
             <pubDate>Mon, 07 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 17 Pro 5G/POCO X8 (iolite) - OS3.0.311.0.WDQCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/iolite/</link>
-            <pubDate>Sun, 06 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi 17/POCO C95 Pro (leedsa) - OS3.0.307.0.WDTEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/leedsa/</link>
             <pubDate>Sat, 05 Sep 2026 00:00:00 </pubDate>
@@ -1017,11 +1027,6 @@
             <pubDate>Thu, 27 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 17 5G/POCO M8 Power 5G (mist) - OS3.0.303.0.WPUEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/mist/</link>
-            <pubDate>Wed, 26 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K60 Ultra/Xiaomi 13T Pro (corot) - OS3.0.304.0.WMLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/corot/</link>
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
@@ -1138,11 +1143,6 @@
         </item>
         <item>
             <title>Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD (tornado) - OS3.0.303.0.WPOEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD (tornado) - OS3.0.305.0.WPOINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
         </item>

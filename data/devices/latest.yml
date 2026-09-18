@@ -2989,15 +2989,15 @@
     android: '16.0'
     miui: OS3.0.307.0.WDQMIXM
 - branch: stable
-  date: '2026-09-06'
+  date: '2026-09-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_iolite/releases/download/stable-06.09.2026/fw_iolite_iolite-ota_full-OS3.0.311.0.WDQCNXM-user-16.0-65583d0269.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/iolite/fw_iolite_iolite-ota_full-OS3.0.311.0.WDQCNXM-user-16.0-65583d0269.zip
-  filename: fw_iolite_iolite-ota_full-OS3.0.311.0.WDQCNXM-user-16.0-65583d0269.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_iolite/releases/download/stable-18.09.2026/fw_iolite_iolite-ota_full-OS3.0.312.0.WDQCNXM-user-16.0-b2856c3daa.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/iolite/fw_iolite_iolite-ota_full-OS3.0.312.0.WDQCNXM-user-16.0-b2856c3daa.zip
+  filename: fw_iolite_iolite-ota_full-OS3.0.312.0.WDQCNXM-user-16.0-b2856c3daa.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.311.0.WDQCNXM
+    miui: OS3.0.312.0.WDQCNXM
 - branch: stable
   date: '2026-09-17'
   downloads:
@@ -3009,15 +3009,15 @@
     android: '16.0'
     miui: OS3.0.307.0.WDQEUXM
 - branch: stable
-  date: '2026-09-16'
+  date: '2026-09-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_iolite/releases/download/stable-17.09.2026/fw_iolite_iolite_in_global-ota_full-OS3.0.301.0.WDQINXM-user-16.0-95df7a74b6.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/iolite/fw_iolite_iolite_in_global-ota_full-OS3.0.301.0.WDQINXM-user-16.0-95df7a74b6.zip
-  filename: fw_iolite_iolite_in_global-ota_full-OS3.0.301.0.WDQINXM-user-16.0-95df7a74b6.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_iolite/releases/download/stable-18.09.2026/fw_iolite_iolite_in_global-ota_full-OS3.0.302.0.WDQINXM-user-16.0-f8e5c248e5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/iolite/fw_iolite_iolite_in_global-ota_full-OS3.0.302.0.WDQINXM-user-16.0-f8e5c248e5.zip
+  filename: fw_iolite_iolite_in_global-ota_full-OS3.0.302.0.WDQINXM-user-16.0-f8e5c248e5.zip
   region: India
   versions:
     android: '16.0'
-    miui: OS3.0.301.0.WDQINXM
+    miui: OS3.0.302.0.WDQINXM
 - branch: stable
   date: '2026-09-12'
   downloads:
@@ -4159,15 +4159,15 @@
     android: '16.0'
     miui: OS3.0.311.0.WPUCNXM
 - branch: stable
-  date: '2026-08-26'
+  date: '2026-09-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mist/releases/download/stable-26.08.2026/fw_mist_mist_eea_global-ota_full-OS3.0.303.0.WPUEUXM-user-16.0-9df43f6521.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/mist/fw_mist_mist_eea_global-ota_full-OS3.0.303.0.WPUEUXM-user-16.0-9df43f6521.zip
-  filename: fw_mist_mist_eea_global-ota_full-OS3.0.303.0.WPUEUXM-user-16.0-9df43f6521.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mist/releases/download/stable-18.09.2026/fw_mist_mist_eea_global-ota_full-OS3.0.305.0.WPUEUXM-user-16.0-255e440570.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/mist/fw_mist_mist_eea_global-ota_full-OS3.0.305.0.WPUEUXM-user-16.0-255e440570.zip
+  filename: fw_mist_mist_eea_global-ota_full-OS3.0.305.0.WPUEUXM-user-16.0-255e440570.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.303.0.WPUEUXM
+    miui: OS3.0.305.0.WPUEUXM
 - branch: stable
   date: '2026-09-15'
   downloads:
@@ -7009,15 +7009,15 @@
     android: '16.0'
     miui: OS3.0.303.0.WPOEUXM
 - branch: stable
-  date: '2026-08-25'
+  date: '2026-09-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tornado/releases/download/stable-25.08.2026/fw_tornado_tornado_in_global-ota_full-OS3.0.305.0.WPOINXM-user-16.0-4a6bc39ab1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/tornado/fw_tornado_tornado_in_global-ota_full-OS3.0.305.0.WPOINXM-user-16.0-4a6bc39ab1.zip
-  filename: fw_tornado_tornado_in_global-ota_full-OS3.0.305.0.WPOINXM-user-16.0-4a6bc39ab1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tornado/releases/download/stable-18.09.2026/fw_tornado_tornado_in_global-ota_full-OS3.0.309.0.WPOINXM-user-16.0-6fee62fee2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/tornado/fw_tornado_tornado_in_global-ota_full-OS3.0.309.0.WPOINXM-user-16.0-6fee62fee2.zip
+  filename: fw_tornado_tornado_in_global-ota_full-OS3.0.309.0.WPOINXM-user-16.0-6fee62fee2.zip
   region: India
   versions:
     android: '16.0'
-    miui: OS3.0.305.0.WPOINXM
+    miui: OS3.0.309.0.WPOINXM
 - branch: stable
   date: '2022-09-21'
   downloads:

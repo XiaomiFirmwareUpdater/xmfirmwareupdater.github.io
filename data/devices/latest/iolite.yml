@@ -9,15 +9,15 @@
     android: '16.0'
     miui: OS3.0.307.0.WDQMIXM
 - branch: stable
-  date: '2026-09-06'
+  date: '2026-09-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_iolite/releases/download/stable-06.09.2026/fw_iolite_iolite-ota_full-OS3.0.311.0.WDQCNXM-user-16.0-65583d0269.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/iolite/fw_iolite_iolite-ota_full-OS3.0.311.0.WDQCNXM-user-16.0-65583d0269.zip
-  filename: fw_iolite_iolite-ota_full-OS3.0.311.0.WDQCNXM-user-16.0-65583d0269.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_iolite/releases/download/stable-18.09.2026/fw_iolite_iolite-ota_full-OS3.0.312.0.WDQCNXM-user-16.0-b2856c3daa.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/iolite/fw_iolite_iolite-ota_full-OS3.0.312.0.WDQCNXM-user-16.0-b2856c3daa.zip
+  filename: fw_iolite_iolite-ota_full-OS3.0.312.0.WDQCNXM-user-16.0-b2856c3daa.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.311.0.WDQCNXM
+    miui: OS3.0.312.0.WDQCNXM
 - branch: stable
   date: '2026-09-17'
   downloads:
@@ -29,12 +29,12 @@
     android: '16.0'
     miui: OS3.0.307.0.WDQEUXM
 - branch: stable
-  date: '2026-09-16'
+  date: '2026-09-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_iolite/releases/download/stable-17.09.2026/fw_iolite_iolite_in_global-ota_full-OS3.0.301.0.WDQINXM-user-16.0-95df7a74b6.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/iolite/fw_iolite_iolite_in_global-ota_full-OS3.0.301.0.WDQINXM-user-16.0-95df7a74b6.zip
-  filename: fw_iolite_iolite_in_global-ota_full-OS3.0.301.0.WDQINXM-user-16.0-95df7a74b6.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_iolite/releases/download/stable-18.09.2026/fw_iolite_iolite_in_global-ota_full-OS3.0.302.0.WDQINXM-user-16.0-f8e5c248e5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/iolite/fw_iolite_iolite_in_global-ota_full-OS3.0.302.0.WDQINXM-user-16.0-f8e5c248e5.zip
+  filename: fw_iolite_iolite_in_global-ota_full-OS3.0.302.0.WDQINXM-user-16.0-f8e5c248e5.zip
   region: India
   versions:
     android: '16.0'
-    miui: OS3.0.301.0.WDQINXM
+    miui: OS3.0.302.0.WDQINXM
