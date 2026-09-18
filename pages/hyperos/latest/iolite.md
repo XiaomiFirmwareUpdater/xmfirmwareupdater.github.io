@@ -60,10 +60,10 @@ permalink: /hyperos/iolite/
 <tr><td>Redmi Note 17 Pro 5G / POCO X8 Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WDQMIXM</td><td>16.0</td><td>9.0 GB</td><td>2026-08-20</td><td><a href="/hyperos/iolite/stable/OS3.0.304.0.WDQMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 Pro 5G / POCO X8 Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WDQMIXM</td><td>16.0</td><td>5.5 GB</td><td>2026-08-27</td><td><a href="/hyperos/iolite/stable/OS3.0.304.0.WDQMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 Pro 5G / POCO X8 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.307.0.WDQMIXM</td><td>16.0</td><td>5.5 GB</td><td>2026-09-14</td><td><a href="/hyperos/iolite/stable beta/OS3.0.307.0.WDQMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 17 Pro 5G / POCO X8 India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WDQINXM</td><td>16.0</td><td>7.1 GB</td><td>2026-09-04</td><td><a href="/hyperos/iolite/stable/OS3.0.302.0.WDQINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 17 Pro 5G / POCO X8 India</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WDQINXM</td><td>16.0</td><td>5.2 GB</td><td>2026-09-18</td><td><a href="/hyperos/iolite/stable/OS3.0.302.0.WDQINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 Pro 5G / POCO X8 Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.305.0.WDQTWXM</td><td>16.0</td><td>6.2 GB</td><td>2026-09-03</td><td><a href="/hyperos/iolite/stable/OS3.0.305.0.WDQTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 Pro 5G / POCO X8 Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.305.0.WDQTWXM</td><td>16.0</td><td>5.2 GB</td><td>2026-09-09</td><td><a href="/hyperos/iolite/stable/OS3.0.305.0.WDQTWXM/">Download</a></td></tr>
-<tr><td>Redmi Note 17 Pro 5G / POCO X8 India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WDQINXM</td><td>16.0</td><td>7.1 GB</td><td>2026-08-07</td><td><a href="/hyperos/iolite/stable/OS3.0.301.0.WDQINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 17 Pro 5G / POCO X8 India</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WDQINXM</td><td>16.0</td><td>5.2 GB</td><td>2026-09-16</td><td><a href="/hyperos/iolite/stable/OS3.0.301.0.WDQINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
