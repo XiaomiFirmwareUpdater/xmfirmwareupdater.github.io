@@ -54,9 +54,8 @@ permalink: /hyperos/beryl/
                 <tbody>
                 <tr><td>Redmi Note 14 5G China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.306.0.WOQCNXM</td><td>16.0</td><td>8.9 GB</td><td>2026-07-31</td><td><a href="/hyperos/beryl/stable/OS3.0.306.0.WOQCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 5G China</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WOQCNXM</td><td>16.0</td><td>6.5 GB</td><td>2026-08-12</td><td><a href="/hyperos/beryl/stable/OS3.0.306.0.WOQCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 5G / POCO M7 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WOQEUXM</td><td>16.0</td><td>8.6 GB</td><td>2026-04-21</td><td><a href="/hyperos/beryl/stable/OS3.0.3.0.WOQEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 5G / POCO M7 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WOQEUXM</td><td>16.0</td><td>6.2 GB</td><td>2026-06-26</td><td><a href="/hyperos/beryl/stable/OS3.0.301.0.WOQEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 5G / POCO M7 Pro 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WOQEUXM</td><td>16.0</td><td>6.2 GB</td><td>2026-09-08</td><td><a href="/hyperos/beryl/stable beta/OS3.0.302.0.WOQEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 5G / POCO M7 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOQEUXM</td><td>16.0</td><td>8.5 GB</td><td>2026-08-27</td><td><a href="/hyperos/beryl/stable/OS3.0.302.0.WOQEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 5G / POCO M7 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOQEUXM</td><td>16.0</td><td>6.2 GB</td><td>2026-09-08</td><td><a href="/hyperos/beryl/stable/OS3.0.302.0.WOQEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 5G / POCO M7 Pro 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOQMIXM</td><td>16.0</td><td>9.8 GB</td><td>2026-07-15</td><td><a href="/hyperos/beryl/stable/OS3.0.302.0.WOQMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 5G / POCO M7 Pro 5G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOQMIXM</td><td>16.0</td><td>6.2 GB</td><td>2026-07-24</td><td><a href="/hyperos/beryl/stable/OS3.0.302.0.WOQMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 5G / POCO M7 Pro 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOQIDXM</td><td>16.0</td><td>8.7 GB</td><td>2026-07-24</td><td><a href="/hyperos/beryl/stable/OS3.0.302.0.WOQIDXM/">Download</a></td></tr>
@@ -67,8 +66,8 @@ permalink: /hyperos/beryl/
 <tr><td>Redmi Note 14 5G / POCO M7 Pro 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOQRUXM</td><td>16.0</td><td>6.0 GB</td><td>2026-08-07</td><td><a href="/hyperos/beryl/stable/OS3.0.302.0.WOQRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 5G / POCO M7 Pro 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOQTRXM</td><td>16.0</td><td>8.3 GB</td><td>2026-08-05</td><td><a href="/hyperos/beryl/stable/OS3.0.302.0.WOQTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 14 5G / POCO M7 Pro 5G Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOQTRXM</td><td>16.0</td><td>6.1 GB</td><td>2026-08-18</td><td><a href="/hyperos/beryl/stable/OS3.0.302.0.WOQTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 5G / POCO M7 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WOQTWXM</td><td>16.0</td><td>7.2 GB</td><td>2026-06-16</td><td><a href="/hyperos/beryl/stable/OS3.0.301.0.WOQTWXM/">Download</a></td></tr>
-<tr><td>Redmi Note 14 5G / POCO M7 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WOQTWXM</td><td>16.0</td><td>6.0 GB</td><td>2026-06-26</td><td><a href="/hyperos/beryl/stable/OS3.0.301.0.WOQTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 5G / POCO M7 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VOQTWXM</td><td>15.0</td><td>6.1 GB</td><td>2026-03-03</td><td><a href="/hyperos/beryl/stable/OS2.0.206.0.VOQTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 14 5G / POCO M7 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS2.0.206.0.VOQTWXM</td><td>15.0</td><td>5.0 GB</td><td>2026-04-01</td><td><a href="/hyperos/beryl/stable/OS2.0.206.0.VOQTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
