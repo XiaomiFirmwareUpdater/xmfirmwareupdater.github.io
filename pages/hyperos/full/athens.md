@@ -52,7 +52,8 @@ permalink: /archive/hyperos/athens/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K100 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.307.0.WPICNXM</td><td>16.0</td><td>9.4 GB</td><td>2026-09-17</td><td><a href="/hyperos/athens/stable beta/OS3.0.307.0.WPICNXM/">Download</a></td></tr>
+                <tr><td>POCO F9 Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.304.0.WPITRXM</td><td>16.0</td><td>8.6 GB</td><td>2026-09-20</td><td><a href="/hyperos/athens/stable beta/OS3.0.304.0.WPITRXM/">Download</a></td></tr>
+<tr><td>Redmi K100 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.307.0.WPICNXM</td><td>16.0</td><td>9.4 GB</td><td>2026-09-17</td><td><a href="/hyperos/athens/stable beta/OS3.0.307.0.WPICNXM/">Download</a></td></tr>
 <tr><td>POCO F9 Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WPIMIXM</td><td>16.0</td><td>8.6 GB</td><td>2026-09-16</td><td><a href="/hyperos/athens/stable/OS3.0.306.0.WPIMIXM/">Download</a></td></tr>
 <tr><td>POCO F9 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.306.0.WPIMIXM</td><td>16.0</td><td>11.1 GB</td><td>2026-09-11</td><td><a href="/hyperos/athens/stable/OS3.0.306.0.WPIMIXM/">Download</a></td></tr>
 <tr><td>POCO F9 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.307.0.WPIEUXM</td><td>16.0</td><td>8.6 GB</td><td>2026-09-16</td><td><a href="/hyperos/athens/stable/OS3.0.307.0.WPIEUXM/">Download</a></td></tr>

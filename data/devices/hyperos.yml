@@ -13258,6 +13258,12 @@
   download: https://bigota.d.miui.com/OS3.0.302.0.WOSMIXM/fw_klimt_klimt_global-ota_full-OS3.0.302.0.WOSMIXM-user-16.0-d2500919fc.zip
   name: Xiaomi 15T Pro
   version: OS3.0.302.0.WOSMIXM
+- android: '17.0'
+  codename: klimt
+  date: '2026-09-20'
+  download: https://bigota.d.miui.com/OS3.0.339.0.XOSEUXM/fw_klimt_klimt_eea_global-ota_full-OS3.0.339.0.XOSEUXM-user-17.0-5d27aadeaf.zip
+  name: Xiaomi 15T Pro
+  version: OS3.0.339.0.XOSEUXM
 - android: '16.0'
   codename: klimt
   date: '2026-09-08'
@@ -29242,6 +29248,12 @@
   download: https://bigota.d.miui.com/OS3.0.306.0.WPOEUXM/fw_tornado_tornado_eea_global-ota_full-OS3.0.306.0.WPOEUXM-user-16.0-dc3d6c1352.zip
   name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS3.0.306.0.WPOEUXM
+- android: '16.0'
+  codename: tornado
+  date: '2026-09-20'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WPOMIXM/fw_tornado_tornado_global-ota_full-OS3.0.305.0.WPOMIXM-user-16.0-70a73fd381.zip
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
+  version: OS3.0.305.0.WPOMIXM
 - android: '15.0'
   codename: tornado
   date: '2025-09-19'

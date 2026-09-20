@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 20 Sep 2026 15:20:28 </lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2026 20:54:29 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.302.0.WOQINXM</title>
@@ -22,6 +22,11 @@
             <pubDate>Sun, 20 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi 15T Pro (klimt) - OS3.0.339.0.XOSEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
+            <pubDate>Sun, 20 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 15 5G/POCO M8 5G/15 SE 5G (kunzite) - OS3.0.303.0.WPQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
             <pubDate>Sun, 20 Sep 2026 00:00:00 </pubDate>
@@ -34,6 +39,11 @@
         <item>
             <title>Redmi Note 13 (sapphire) - OS2.0.213.0.VNGMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sapphire/</link>
+            <pubDate>Sun, 20 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD (tornado) - OS3.0.305.0.WPOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
             <pubDate>Sun, 20 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -677,11 +687,6 @@
             <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 15T Pro (klimt) - OS3.0.5.0.WOSEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Civi 5 Pro (luming) - OS3.0.303.0.WOICNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/luming/</link>
             <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
@@ -1154,11 +1159,6 @@
         <item>
             <title>Redmi Note 12 4G NFC (topaz) - OS2.0.213.0.VMGEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/topaz/</link>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD (tornado) - OS3.0.303.0.WPOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/tornado/</link>
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
