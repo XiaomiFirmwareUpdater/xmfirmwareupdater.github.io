@@ -2400,6 +2400,12 @@
   version: OS1.0.16.0.UOQEUXM
 - android: '16.0'
   codename: beryl
+  date: '2026-09-20'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WOQINXM/fw_beryl_beryl_in_global-ota_full-OS3.0.302.0.WOQINXM-user-16.0-1c6da5a6c2.zip
+  name: Redmi Note 14 5G/POCO M7 Pro 5G
+  version: OS3.0.302.0.WOQINXM
+- android: '16.0'
+  codename: beryl
   date: '2026-04-20'
   download: https://bigota.d.miui.com/OS3.0.2.0.WOQEUXM/fw_beryl_beryl_eea_global-ota_full-OS3.0.2.0.WOQEUXM-user-16.0-505b7f81f5.zip
   name: Redmi Note 14 5G/POCO M7 Pro 5G
@@ -9208,6 +9214,12 @@
   download: https://bigota.d.miui.com/OS1.0.9.0.UMCEUXM/fw_fuxi_miui_FUXIEEAGlobal_OS1.0.9.0.UMCEUXM_2c592c294b_14.0.zip
   name: Xiaomi 13
   version: OS1.0.9.0.UMCEUXM
+- android: '16.0'
+  codename: fuxi
+  date: '2026-09-20'
+  download: https://bigota.d.miui.com/OS3.0.306.0.WMCMIXM/fw_fuxi_fuxi_global-ota_full-OS3.0.306.0.WMCMIXM-user-16.0-1c57854162.zip
+  name: Xiaomi 13
+  version: OS3.0.306.0.WMCMIXM
 - android: '14.0'
   codename: fuxi
   date: '2023-12-19'
@@ -10732,6 +10744,12 @@
   download: https://bigota.d.miui.com/OS2.0.215.0.VNQCNXM/fw_gold_gold-ota_full-OS2.0.215.0.VNQCNXM-user-15.0-6b9a476f09.zip
   name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
   version: OS2.0.215.0.VNQCNXM
+- android: '15.0'
+  codename: gold
+  date: '2026-09-20'
+  download: https://bigota.d.miui.com/OS3.0.7.0.VNQEUXM/fw_gold_gold_eea_global-ota_full-OS3.0.7.0.VNQEUXM-user-15.0-5e0c011ae1.zip
+  name: Redmi Note 13 5G/13R Pro/POCO X6 Neo 5G
+  version: OS3.0.7.0.VNQEUXM
 - android: '15.0'
   codename: gold
   date: '2025-09-20'
@@ -13602,6 +13620,12 @@
   version: OS2.0.208.0.VPQINXM
 - android: '16.0'
   codename: kunzite
+  date: '2026-09-20'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WPQMIXM/fw_kunzite_kunzite_global-ota_full-OS3.0.303.0.WPQMIXM-user-16.0-710fead382.zip
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
+  version: OS3.0.303.0.WPQMIXM
+- android: '16.0'
+  codename: kunzite
   date: '2026-05-18'
   download: https://bigota.d.miui.com/OS3.0.301.0.WPQINXM/fw_kunzite_kunzite_in_global-ota_full-OS3.0.301.0.WPQINXM-user-16.0-0b37fb0c03.zip
   name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
@@ -14092,6 +14116,12 @@
   download: https://bigota.d.miui.com/OS3.0.307.0.WDTEUXM/fw_leedsa_leedsa_eea_global-ota_full-OS3.0.307.0.WDTEUXM-user-16.0-656ef66603.zip
   name: Redmi 17/POCO C95 Pro
   version: OS3.0.307.0.WDTEUXM
+- android: '17.0'
+  codename: lhasa
+  date: '2026-09-20'
+  download: https://bigota.d.miui.com/OS4.0.15.0.XPNCNXM/fw_lhasa_lhasa-ota_full-OS4.0.15.0.XPNCNXM-user-17.0-f8c7bf6067.zip
+  name: Xiaomi 18 Fold
+  version: OS4.0.15.0.XPNCNXM
 - android: '17.0'
   codename: lhasa
   date: '2026-09-09'
@@ -24900,6 +24930,12 @@
   version: OS1.0.6.0.UNGMIXM
 - android: '15.0'
   codename: sapphire
+  date: '2026-09-20'
+  download: https://bigota.d.miui.com/OS2.0.213.0.VNGMIXM/fw_sapphire_sapphire_global-ota_full-OS2.0.213.0.VNGMIXM-user-15.0-7fd9090b2d.zip
+  name: Redmi Note 13
+  version: OS2.0.213.0.VNGMIXM
+- android: '15.0'
+  codename: sapphire
   date: '2025-06-20'
   download: https://bigota.d.miui.com/OS2.0.12.0.VNGMIXM/fw_sapphire_global_sapphire_global-ota_full-OS2.0.12.0.VNGMIXM-user-15.0-0d83972b99.zip
   name: Redmi Note 13
@@ -29200,6 +29236,12 @@
   download: https://bigota.d.miui.com/OS2.0.203.0.VPOEUXM/fw_tornado_tornado_eea_global-ota_full-OS2.0.203.0.VPOEUXM-user-15.0-43388b1b49.zip
   name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
   version: OS2.0.203.0.VPOEUXM
+- android: '16.0'
+  codename: tornado
+  date: '2026-09-20'
+  download: https://bigota.d.miui.com/OS3.0.306.0.WPOEUXM/fw_tornado_tornado_eea_global-ota_full-OS3.0.306.0.WPOEUXM-user-16.0-dc3d6c1352.zip
+  name: Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD
+  version: OS3.0.306.0.WPOEUXM
 - android: '15.0'
   codename: tornado
   date: '2025-09-19'
