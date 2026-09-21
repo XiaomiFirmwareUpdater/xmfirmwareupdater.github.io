@@ -22822,6 +22822,12 @@
   download: https://bigota.d.miui.com/OS3.0.303.0.WOJCNXM/fw_rodin_rodin-ota_full-OS3.0.303.0.WOJCNXM-user-16.0-8c6dab91a5.zip
   name: Redmi Turbo 4/POCO X7 Pro
   version: OS3.0.303.0.WOJCNXM
+- android: '16.0'
+  codename: rodin
+  date: '2026-09-21'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WOJCNXM/fw_rodin_rodin-ota_full-OS3.0.305.0.WOJCNXM-user-16.0-d97c4c15e4.zip
+  name: Redmi Turbo 4/POCO X7 Pro
+  version: OS3.0.305.0.WOJCNXM
 - android: '15.0'
   codename: rodin
   date: '2026-09-08'
@@ -23176,6 +23182,12 @@
   download: https://bigota.d.miui.com/OS3.0.302.0.WNNEUXM/fw_rothko_rothko_eea_global-ota_full-OS3.0.302.0.WNNEUXM-user-16.0-3b80e2db63.zip
   name: Redmi K70 Ultra/Xiaomi 14T Pro
   version: OS3.0.302.0.WNNEUXM
+- android: '16.0'
+  codename: rothko
+  date: '2026-09-21'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WNNMIXM/fw_rothko_rothko_global-ota_full-OS3.0.302.0.WNNMIXM-user-16.0-7582da00f0.zip
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
+  version: OS3.0.302.0.WNNMIXM
 - android: '16.0'
   codename: rothko
   date: '2026-09-21'
