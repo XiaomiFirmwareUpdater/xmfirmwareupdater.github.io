@@ -689,15 +689,15 @@
     android: '16.0'
     miui: OS3.0.303.0.WNUINXM
 - branch: stable
-  date: '2026-09-03'
+  date: '2026-09-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_brussels/releases/download/stable-03.09.2026/fw_brussels_brussels_global-ota_full-OS3.0.306.0.WDRMIXM-user-16.0-1ddbd15ed7.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/brussels/fw_brussels_brussels_global-ota_full-OS3.0.306.0.WDRMIXM-user-16.0-1ddbd15ed7.zip
-  filename: fw_brussels_brussels_global-ota_full-OS3.0.306.0.WDRMIXM-user-16.0-1ddbd15ed7.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_brussels/releases/download/stable-21.09.2026/fw_brussels_brussels_global-ota_full-OS3.0.308.0.WDRMIXM-user-16.0-d0cda8f271.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/brussels/fw_brussels_brussels_global-ota_full-OS3.0.308.0.WDRMIXM-user-16.0-d0cda8f271.zip
+  filename: fw_brussels_brussels_global-ota_full-OS3.0.308.0.WDRMIXM-user-16.0-d0cda8f271.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.306.0.WDRMIXM
+    miui: OS3.0.308.0.WDRMIXM
 - branch: stable
   date: '2026-09-17'
   downloads:
@@ -5899,15 +5899,15 @@
     android: '16.0'
     miui: OS3.0.302.0.WNNCNXM
 - branch: stable
-  date: '2026-09-09'
+  date: '2026-09-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-31.12.2024/fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.12.0.VNNEUXM-user-15.0-9e98b72019.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rothko/fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.12.0.VNNEUXM-user-15.0-9e98b72019.zip
-  filename: fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.12.0.VNNEUXM-user-15.0-9e98b72019.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-21.09.2026/fw_rothko_rothko_eea_global-ota_full-OS3.0.304.0.WNNEUXM-user-16.0-d152b3e997.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rothko/fw_rothko_rothko_eea_global-ota_full-OS3.0.304.0.WNNEUXM-user-16.0-d152b3e997.zip
+  filename: fw_rothko_rothko_eea_global-ota_full-OS3.0.304.0.WNNEUXM-user-16.0-d152b3e997.zip
   region: Europe
   versions:
-    android: '15.0'
-    miui: OS2.0.12.0.VNNEUXM
+    android: '16.0'
+    miui: OS3.0.304.0.WNNEUXM
 - branch: stable
   date: '2026-08-25'
   downloads:

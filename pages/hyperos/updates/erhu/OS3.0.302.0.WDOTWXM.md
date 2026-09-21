@@ -3,7 +3,7 @@ title: Redmi Pad 2 SE 4G Taiwan HyperOS OS3.0.302.0.WDOTWXM Update
 layout: download
 name: Redmi Pad 2 SE 4G Taiwan
 codename: erhu
-permalink: /hyperos/erhu/stable beta/OS3.0.302.0.WDOTWXM/
+permalink: /hyperos/erhu/stable/OS3.0.302.0.WDOTWXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/erhu/stable beta/OS3.0.302.0.WDOTWXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.302.0.WDOTWXM Stable Beta Official Update for Redmi Pad 2 SE 4G Taiwan (erhu)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.302.0.WDOTWXM Stable Official Update for Redmi Pad 2 SE 4G Taiwan (erhu)</h3>
     <h5>This page shows the OS3.0.302.0.WDOTWXM update only. If you're looking for other updates check
         <a href="/hyperos/erhu/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/erhu/stable beta/OS3.0.302.0.WDOTWXM/
                     <h5><b>Version: </b>OS3.0.302.0.WDOTWXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/erhu/stable beta/OS3.0.302.0.WDOTWXM/
                             aria-expanded="false" aria-controls="erhu_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="erhu_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to August 2026. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi Pad 2 SE 4G Taiwan</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/erhu/" target="_blank">erhu</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS3.0.302.0.WDOTWXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>5.8 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2026-08-21</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">erhu_tw_global_images_OS3.0.302.0.WDOTWXM_20260821.0000.00_16.0_tw_f42ea02de8.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f42ea02de8637acc705b1f305d142de1</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.302.0.WDOTWXM/erhu_tw_global_images_OS3.0.302.0.WDOTWXM_20260821.0000.00_16.0_tw_f42ea02de8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WDOTWXM/erhu_tw_global_images_OS3.0.302.0.WDOTWXM_20260821.0000.00_16.0_tw_f42ea02de8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.302.0.WDOTWXM/erhu_tw_global_images_OS3.0.302.0.WDOTWXM_20260821.0000.00_16.0_tw_f42ea02de8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.302.0.WDOTWXM/erhu_tw_global_images_OS3.0.302.0.WDOTWXM_20260821.0000.00_16.0_tw_f42ea02de8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.302.0.WDOTWXM/erhu_tw_global_images_OS3.0.302.0.WDOTWXM_20260821.0000.00_16.0_tw_f42ea02de8.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#erhu_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="erhu_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="erhu_2_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to August 2026. Increased system security.</p>
                     </div>
                 </li>

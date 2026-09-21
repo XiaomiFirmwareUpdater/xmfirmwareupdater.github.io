@@ -2934,6 +2934,12 @@
   version: OS3.0.304.0.WDREUXM
 - android: '16.0'
   codename: brussels
+  date: '2026-09-21'
+  download: https://bigota.d.miui.com/OS3.0.308.0.WDRMIXM/fw_brussels_brussels_global-ota_full-OS3.0.308.0.WDRMIXM-user-16.0-d0cda8f271.zip
+  name: Redmi Note 17 Pro Max 5G/POCO X8 Power
+  version: OS3.0.308.0.WDRMIXM
+- android: '16.0'
+  codename: brussels
   date: '2026-09-17'
   download: https://bigota.d.miui.com/OS3.0.305.0.WDREUXM/fw_brussels_brussels_eea_global-ota_full-OS3.0.305.0.WDREUXM-user-16.0-3419b0cb08.zip
   name: Redmi Note 17 Pro Max 5G/POCO X8 Power
@@ -23164,6 +23170,12 @@
   download: https://bigota.d.miui.com/OS3.0.302.0.WNNEUXM/fw_rothko_rothko_eea_global-ota_full-OS3.0.302.0.WNNEUXM-user-16.0-3b80e2db63.zip
   name: Redmi K70 Ultra/Xiaomi 14T Pro
   version: OS3.0.302.0.WNNEUXM
+- android: '16.0'
+  codename: rothko
+  date: '2026-09-21'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WNNEUXM/fw_rothko_rothko_eea_global-ota_full-OS3.0.304.0.WNNEUXM-user-16.0-d152b3e997.zip
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
+  version: OS3.0.304.0.WNNEUXM
 - android: '14.0'
   codename: rothko
   date: '2026-09-09'
