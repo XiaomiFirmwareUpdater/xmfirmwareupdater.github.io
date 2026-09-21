@@ -18349,6 +18349,16 @@
     android: '16.0'
     miui: OS3.0.302.0.WNJINXM
 - branch: stable
+  date: '2026-09-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-21.09.2026/fw_chenfeng_chenfeng-ota_full-OS3.0.309.0.WNJCNXM-user-16.0-3c1f247f56.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chenfeng/fw_chenfeng_chenfeng-ota_full-OS3.0.309.0.WNJCNXM-user-16.0-3c1f247f56.zip
+  filename: fw_chenfeng_chenfeng-ota_full-OS3.0.309.0.WNJCNXM-user-16.0-3c1f247f56.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.309.0.WNJCNXM
+- branch: stable
   date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chenfeng/releases/download/stable-21.01.2025/fw_chenfeng_chenfeng-ota_full-OS2.0.100.0.VNJCNXM-user-15.0-1226198246.zip
@@ -108358,6 +108368,16 @@
   versions:
     android: '14.0'
     miui: OS1.0.7.0.UMTINXM
+- branch: stable
+  date: '2026-09-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-21.09.2026/fw_tapas_tapas_global-ota_full-OS2.0.209.0.VMTMIXM-user-15.0-e4778deae7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/tapas/fw_tapas_tapas_global-ota_full-OS2.0.209.0.VMTMIXM-user-15.0-e4778deae7.zip
+  filename: fw_tapas_tapas_global-ota_full-OS2.0.209.0.VMTMIXM-user-15.0-e4778deae7.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.209.0.VMTMIXM
 - branch: stable
   date: '2024-07-21'
   downloads:

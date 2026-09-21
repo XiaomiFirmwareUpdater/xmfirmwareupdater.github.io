@@ -3280,6 +3280,12 @@
   download: https://bigota.d.miui.com/OS3.0.302.0.WNJINXM/fw_chenfeng_chenfeng_in_global-ota_full-OS3.0.302.0.WNJINXM-user-16.0-1ad08d35d7.zip
   name: Xiaomi Civi 4 Pro
   version: OS3.0.302.0.WNJINXM
+- android: '16.0'
+  codename: chenfeng
+  date: '2026-09-21'
+  download: https://bigota.d.miui.com/OS3.0.309.0.WNJCNXM/fw_chenfeng_chenfeng-ota_full-OS3.0.309.0.WNJCNXM-user-16.0-3c1f247f56.zip
+  name: Xiaomi Civi 4 Pro
+  version: OS3.0.309.0.WNJCNXM
 - android: '15.0'
   codename: chenfeng
   date: '2026-09-08'
@@ -28726,6 +28732,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UMTINXM/fw_tapas_miui_TAPASINGlobal_OS1.0.7.0.UMTINXM_32a9132e06_14.0.zip
   name: Redmi Note 12 4G
   version: OS1.0.7.0.UMTINXM
+- android: '15.0'
+  codename: tapas
+  date: '2026-09-21'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VMTMIXM/fw_tapas_tapas_global-ota_full-OS2.0.209.0.VMTMIXM-user-15.0-e4778deae7.zip
+  name: Redmi Note 12 4G
+  version: OS2.0.209.0.VMTMIXM
 - android: '14.0'
   codename: tapas
   date: '2024-07-21'
