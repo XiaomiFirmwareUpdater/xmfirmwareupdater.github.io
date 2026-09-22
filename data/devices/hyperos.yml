@@ -11160,6 +11160,12 @@
   version: OS3.0.8.0.WOEMIXM
 - android: '16.0'
   codename: goya
+  date: '2026-09-22'
+  download: https://bigota.d.miui.com/OS3.0.310.0.WOEEUXM/fw_goya_goya_eea_global-ota_full-OS3.0.310.0.WOEEUXM-user-16.0-c6b7856b1f.zip
+  name: Xiaomi 15T
+  version: OS3.0.310.0.WOEEUXM
+- android: '16.0'
+  codename: goya
   date: '2026-09-08'
   download: https://bigota.d.miui.com/OS3.0.4.0.WOEEUXM/fw_goya_goya_eea_global-ota_full-OS3.0.4.0.WOEEUXM-user-16.0-d1377fec0c.zip
   name: Xiaomi 15T
