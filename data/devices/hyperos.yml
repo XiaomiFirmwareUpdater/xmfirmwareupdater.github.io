@@ -32340,6 +32340,12 @@
   version: OS3.0.309.0.WAKCNXM
 - android: '16.0'
   codename: yili
+  date: '2026-09-22'
+  download: https://bigota.d.miui.com/OS3.0.312.0.WAKCNXM/fw_yili_yili-ota_full-OS3.0.312.0.WAKCNXM-user-16.0-98e2c8bc0e.zip
+  name: Redmi K Pad 2
+  version: OS3.0.312.0.WAKCNXM
+- android: '16.0'
+  codename: yili
   date: '2026-09-09'
   download: https://bigota.d.miui.com/OS3.0.307.0.WAKCNXM/fw_yili_yili-ota_full-OS3.0.307.0.WAKCNXM-user-16.0-463178ed69.zip
   name: Redmi K Pad 2
@@ -32350,6 +32356,12 @@
   download: https://bigota.d.miui.com/OS3.0.301.0.WAKCNXM/fw_yili_yili-ota_full-OS3.0.301.0.WAKCNXM-user-16.0-61d5003cdc.zip
   name: Redmi K Pad 2
   version: OS3.0.301.0.WAKCNXM
+- android: '17.0'
+  codename: yingtian
+  date: '2026-09-22'
+  download: https://bigota.d.miui.com/OS4.0.11.0.XBMCNXM/fw_yingtian_yingtian-ota_full-OS4.0.11.0.XBMCNXM-user-17.0-a12ac31de7.zip
+  name: Xiaomi Pad 9 Pro Max
+  version: OS4.0.11.0.XBMCNXM
 - android: '17.0'
   codename: yingtian
   date: '2026-09-07'

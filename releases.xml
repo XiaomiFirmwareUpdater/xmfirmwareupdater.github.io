@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 22 Sep 2026 18:41:13 </lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 02:52:34 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 15T (goya) - OS3.0.310.0.WOEEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/goya/</link>
+            <pubDate>Tue, 22 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K Pad 2 (yili) - OS3.0.312.0.WAKCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/yili/</link>
+            <pubDate>Tue, 22 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 9 Pro Max (yingtian) - OS4.0.11.0.XBMCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/yingtian/</link>
             <pubDate>Tue, 22 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -439,11 +449,6 @@
         <item>
             <title>Xiaomi 15 Ultra (xuanyuan) - OS2.0.206.0.VOAINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/xuanyuan/</link>
-            <pubDate>Wed, 09 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K Pad 2 (yili) - OS3.0.304.0.WAKCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/yili/</link>
             <pubDate>Wed, 09 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -904,11 +909,6 @@
         <item>
             <title>Redmi A5/A7/POCO C71/C81x (serenity) - A15.0.17.0.VGWEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
-            <pubDate>Mon, 07 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 9 Pro Max (yingtian) - OS4.0.10.0.XBMCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/yingtian/</link>
             <pubDate>Mon, 07 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
