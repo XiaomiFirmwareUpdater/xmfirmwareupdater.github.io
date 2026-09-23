@@ -2934,6 +2934,12 @@
   version: OS3.0.304.0.WDREUXM
 - android: '16.0'
   codename: brussels
+  date: '2026-09-23'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WDRINXM/fw_brussels_brussels_in_global-ota_full-OS3.0.303.0.WDRINXM-user-16.0-7db0a1b25b.zip
+  name: Redmi Note 17 Pro Max 5G/POCO X8 Power
+  version: OS3.0.303.0.WDRINXM
+- android: '16.0'
+  codename: brussels
   date: '2026-09-21'
   download: https://bigota.d.miui.com/OS3.0.308.0.WDRMIXM/fw_brussels_brussels_global-ota_full-OS3.0.308.0.WDRMIXM-user-16.0-d0cda8f271.zip
   name: Redmi Note 17 Pro Max 5G/POCO X8 Power
