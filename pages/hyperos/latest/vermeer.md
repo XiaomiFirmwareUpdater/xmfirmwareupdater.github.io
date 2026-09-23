@@ -52,8 +52,8 @@ permalink: /hyperos/vermeer/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K70 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.307.0.WNKCNXM</td><td>16.0</td><td>9.5 GB</td><td>2026-08-14</td><td><a href="/hyperos/vermeer/stable/OS3.0.307.0.WNKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.307.0.WNKCNXM</td><td>16.0</td><td>7.5 GB</td><td>2026-08-31</td><td><a href="/hyperos/vermeer/stable/OS3.0.307.0.WNKCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K70 China</td><td>Stable</td><td>Fastboot</td><td>OS1.0.21.0.UNKCNXM</td><td>14.0</td><td>8.9 GB</td><td>2026-08-28</td><td><a href="/hyperos/vermeer/stable/OS1.0.21.0.UNKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K70 China</td><td>Stable</td><td>Recovery</td><td>OS1.0.21.0.UNKCNXM</td><td>14.0</td><td>7.0 GB</td><td>2026-09-14</td><td><a href="/hyperos/vermeer/stable/OS1.0.21.0.UNKCNXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WNKEUXM</td><td>16.0</td><td>9.5 GB</td><td>2026-07-15</td><td><a href="/hyperos/vermeer/stable/OS3.0.302.0.WNKEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WNKEUXM</td><td>16.0</td><td>7.1 GB</td><td>2026-07-23</td><td><a href="/hyperos/vermeer/stable/OS3.0.302.0.WNKEUXM/">Download</a></td></tr>
 <tr><td>POCO F6 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WNKMIXM</td><td>16.0</td><td>10.1 GB</td><td>2026-08-10</td><td><a href="/hyperos/vermeer/stable/OS3.0.304.0.WNKMIXM/">Download</a></td></tr>
