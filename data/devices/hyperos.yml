@@ -5010,6 +5010,12 @@
   version: OS3.0.303.0.WPLMIXM
 - android: '16.0'
   codename: dash
+  date: '2026-09-23'
+  download: https://bigota.d.miui.com/OS3.0.306.0.WPLCNXM/fw_dash_dash-ota_full-OS3.0.306.0.WPLCNXM-user-16.0-ef9a10c57c.zip
+  name: Redmi Turbo 5 Max/POCO X8 Pro Max
+  version: OS3.0.306.0.WPLCNXM
+- android: '16.0'
+  codename: dash
   date: '2026-09-08'
   download: https://bigota.d.miui.com/OS3.0.302.0.WPLMIXM/fw_dash_dash_global-ota_full-OS3.0.302.0.WPLMIXM-user-16.0-19defcf744.zip
   name: Redmi Turbo 5 Max/POCO X8 Pro Max
@@ -8722,6 +8728,12 @@
   download: https://bigota.d.miui.com/OS3.0.303.0.WPRINXM/fw_flourite_flourite_in_global-ota_full-OS3.0.303.0.WPRINXM-user-16.0-50ebd70fd1.zip
   name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
   version: OS3.0.303.0.WPRINXM
+- android: '16.0'
+  codename: flourite
+  date: '2026-09-23'
+  download: https://bigota.d.miui.com/OS3.0.306.0.WPRMIXM/fw_flourite_flourite_global-ota_full-OS3.0.306.0.WPRMIXM-user-16.0-f308281484.zip
+  name: Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G
+  version: OS3.0.306.0.WPRMIXM
 - android: '16.0'
   codename: flourite
   date: '2026-09-08'
@@ -26272,6 +26284,12 @@
   download: https://bigota.d.miui.com/OS2.0.217.0.VNBCNXM/fw_shennong_shennong-ota_full-OS2.0.217.0.VNBCNXM-user-15.0-dcb51c4ebb.zip
   name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
   version: OS2.0.217.0.VNBCNXM
+- android: '17.0'
+  codename: shuntian
+  date: '2026-09-23'
+  download: https://bigota.d.miui.com/OS4.0.5.0.XFPCNXM/fw_shuntian_shuntian-ota_full-OS4.0.5.0.XFPCNXM-user-17.0-fc9c8fa30d.zip
+  name: Xiaomi Pad 9 Pro
+  version: OS4.0.5.0.XFPCNXM
 - android: '15.0'
   codename: sky
   date: '2025-07-31'
@@ -30328,6 +30346,12 @@
   download: https://bigota.d.miui.com/OS1.0.4.0.UNKMIXM/fw_vermeer_miui_VERMEERGlobal_OS1.0.4.0.UNKMIXM_a7282cbdb1_14.0.zip
   name: Redmi K70/POCO F6 Pro
   version: OS1.0.4.0.UNKMIXM
+- android: '14.0'
+  codename: vermeer
+  date: '2026-09-23'
+  download: https://bigota.d.miui.com/OS1.0.21.0.UNKCNXM/fw_vermeer_miui_VERMEER_OS1.0.21.0.UNKCNXM_faf700e94d_14.0.zip
+  name: Redmi K70/POCO F6 Pro
+  version: OS1.0.21.0.UNKCNXM
 - android: '14.0'
   codename: vermeer
   date: '2024-05-23'

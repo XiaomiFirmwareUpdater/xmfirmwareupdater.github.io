@@ -1589,15 +1589,15 @@
     android: '16.0'
     miui: OS3.0.4.0.WPLMIXM
 - branch: stable
-  date: '2026-09-08'
+  date: '2026-09-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dash/releases/download/stable-24.08.2026/fw_dash_dash-ota_full-OS3.0.305.0.WPLCNXM-user-16.0-b64527fea3.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dash/fw_dash_dash-ota_full-OS3.0.305.0.WPLCNXM-user-16.0-b64527fea3.zip
-  filename: fw_dash_dash-ota_full-OS3.0.305.0.WPLCNXM-user-16.0-b64527fea3.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dash/releases/download/stable-23.09.2026/fw_dash_dash-ota_full-OS3.0.306.0.WPLCNXM-user-16.0-ef9a10c57c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dash/fw_dash_dash-ota_full-OS3.0.306.0.WPLCNXM-user-16.0-ef9a10c57c.zip
+  filename: fw_dash_dash-ota_full-OS3.0.306.0.WPLCNXM-user-16.0-ef9a10c57c.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.305.0.WPLCNXM
+    miui: OS3.0.306.0.WPLCNXM
 - branch: stable
   date: '2026-09-08'
   downloads:
@@ -2199,15 +2199,15 @@
     android: '13.0'
     miui: OS1.0.10.0.TKEINXM
 - branch: stable
-  date: '2026-09-08'
+  date: '2026-09-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flourite/releases/download/stable-24.08.2026/fw_flourite_flourite_global-ota_full-OS3.0.304.0.WPRMIXM-user-16.0-5339464250.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/flourite/fw_flourite_flourite_global-ota_full-OS3.0.304.0.WPRMIXM-user-16.0-5339464250.zip
-  filename: fw_flourite_flourite_global-ota_full-OS3.0.304.0.WPRMIXM-user-16.0-5339464250.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flourite/releases/download/stable-23.09.2026/fw_flourite_flourite_global-ota_full-OS3.0.306.0.WPRMIXM-user-16.0-f308281484.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/flourite/fw_flourite_flourite_global-ota_full-OS3.0.306.0.WPRMIXM-user-16.0-f308281484.zip
+  filename: fw_flourite_flourite_global-ota_full-OS3.0.306.0.WPRMIXM-user-16.0-f308281484.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.304.0.WPRMIXM
+    miui: OS3.0.306.0.WPRMIXM
 - branch: stable
   date: '2026-09-08'
   downloads:
@@ -6359,6 +6359,16 @@
     android: '11.0'
     miui: V12.5.7.0.RJRINXM
 - branch: stable
+  date: '2026-09-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shuntian/releases/download/stable-24.09.2026/fw_shuntian_shuntian-ota_full-OS4.0.5.0.XFPCNXM-user-17.0-fc9c8fa30d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/shuntian/fw_shuntian_shuntian-ota_full-OS4.0.5.0.XFPCNXM-user-17.0-fc9c8fa30d.zip
+  filename: fw_shuntian_shuntian-ota_full-OS4.0.5.0.XFPCNXM-user-17.0-fc9c8fa30d.zip
+  region: China
+  versions:
+    android: '17.0'
+    miui: OS4.0.5.0.XFPCNXM
+- branch: stable
   date: '2020-09-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sirius/releases/download/stable-24.09.2020/fw_sirius_miui_MI8SE_V12.0.2.0.QEBCNXM_09d4db05cb_10.0.zip
@@ -7429,15 +7439,15 @@
     android: '16.0'
     miui: OS3.0.304.0.WNKMIXM
 - branch: stable
-  date: '2026-09-04'
+  date: '2026-09-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-04.09.2026/fw_vermeer_vermeer-ota_full-OS3.0.307.0.WNKCNXM-user-16.0-e8ac729fa5.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/vermeer/fw_vermeer_vermeer-ota_full-OS3.0.307.0.WNKCNXM-user-16.0-e8ac729fa5.zip
-  filename: fw_vermeer_vermeer-ota_full-OS3.0.307.0.WNKCNXM-user-16.0-e8ac729fa5.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vermeer/releases/download/stable-23.09.2026/fw_vermeer_miui_VERMEER_OS1.0.21.0.UNKCNXM_faf700e94d_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS1/vermeer/fw_vermeer_miui_VERMEER_OS1.0.21.0.UNKCNXM_faf700e94d_14.0.zip
+  filename: fw_vermeer_miui_VERMEER_OS1.0.21.0.UNKCNXM_faf700e94d_14.0.zip
   region: China
   versions:
-    android: '16.0'
-    miui: OS3.0.307.0.WNKCNXM
+    android: '14.0'
+    miui: OS1.0.21.0.UNKCNXM
 - branch: stable
   date: '2026-08-25'
   downloads:

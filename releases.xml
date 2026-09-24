@@ -4,11 +4,31 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 23 Sep 2026 13:49:41 </lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2026 03:23:53 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 17 Pro Max 5G/POCO X8 Power (brussels) - OS3.0.303.0.WDRINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/brussels/</link>
+            <pubDate>Wed, 23 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.306.0.WPLCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dash/</link>
+            <pubDate>Wed, 23 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS3.0.306.0.WPRMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
+            <pubDate>Wed, 23 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 9 Pro (shuntian) - OS4.0.5.0.XFPCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/shuntian/</link>
+            <pubDate>Wed, 23 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70/POCO F6 Pro (vermeer) - OS1.0.21.0.UNKCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Wed, 23 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -607,11 +627,6 @@
             <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.305.0.WPLCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dash/</link>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.302.0.WPLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dash/</link>
             <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
@@ -619,11 +634,6 @@
         <item>
             <title>Xiaomi 15S Pro (dijun) - OS3.0.11.0.WODCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dijun/</link>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 Pro+ 5G/POCO M8 Pro 5G (flourite) - OS3.0.304.0.WPRMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flourite/</link>
             <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -944,11 +954,6 @@
         <item>
             <title>Redmi Pad 2 (taiko) - OS3.0.302.0.WOVINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
-            <pubDate>Fri, 04 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70/POCO F6 Pro (vermeer) - OS3.0.307.0.WNKCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Fri, 04 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
