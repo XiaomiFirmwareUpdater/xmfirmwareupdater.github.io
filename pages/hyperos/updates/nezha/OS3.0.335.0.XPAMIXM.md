@@ -3,7 +3,7 @@ title: Xiaomi 17 Ultra Global HyperOS OS3.0.335.0.XPAMIXM Update
 layout: download
 name: Xiaomi 17 Ultra Global
 codename: nezha
-permalink: /hyperos/nezha/stable beta/OS3.0.335.0.XPAMIXM/
+permalink: /hyperos/nezha/stable/OS3.0.335.0.XPAMIXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/nezha/stable beta/OS3.0.335.0.XPAMIXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.335.0.XPAMIXM Stable Beta Official Update for Xiaomi 17 Ultra Global (nezha)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.335.0.XPAMIXM Stable Official Update for Xiaomi 17 Ultra Global (nezha)</h3>
     <h5>This page shows the OS3.0.335.0.XPAMIXM update only. If you're looking for other updates check
         <a href="/hyperos/nezha/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/nezha/stable beta/OS3.0.335.0.XPAMIXM/
                     <h5><b>Version: </b>OS3.0.335.0.XPAMIXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/nezha/stable beta/OS3.0.335.0.XPAMIXM/
                             aria-expanded="false" aria-controls="nezha_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="nezha_1_changelog">
+                        <p id="changelog_text">[System]<br>Updated the security patch to August 2026. Increased system security.<br>This update includes an upgrade to a new Android version. To help everything go smoothly, it's a good idea to back up your personal data before updating. The first startup after the update may take longer than usual, and you might experience temporary issues such as slight heating or lag. Some third-party apps may not work properly if they haven't been updated for compatibility. Proceed with caution.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi 17 Ultra Global</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/nezha/" target="_blank">nezha</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS3.0.335.0.XPAMIXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>12.2 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2026-08-26</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">nezha_global_images_OS3.0.335.0.XPAMIXM_20260826.0000.00_17.0_global_dba47c6bcf.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">dba47c6bcf1a5192cd79ee2958af4b7c</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.335.0.XPAMIXM/nezha_global_images_OS3.0.335.0.XPAMIXM_20260826.0000.00_17.0_global_dba47c6bcf.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.335.0.XPAMIXM/nezha_global_images_OS3.0.335.0.XPAMIXM_20260826.0000.00_17.0_global_dba47c6bcf.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.335.0.XPAMIXM/nezha_global_images_OS3.0.335.0.XPAMIXM_20260826.0000.00_17.0_global_dba47c6bcf.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.335.0.XPAMIXM/nezha_global_images_OS3.0.335.0.XPAMIXM_20260826.0000.00_17.0_global_dba47c6bcf.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.335.0.XPAMIXM/nezha_global_images_OS3.0.335.0.XPAMIXM_20260826.0000.00_17.0_global_dba47c6bcf.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#nezha_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="nezha_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="nezha_2_changelog">
                         <p id="changelog_text">[System]<br>Updated the security patch to August 2026. Increased system security.<br>This update includes an upgrade to a new Android version. To help everything go smoothly, it's a good idea to back up your personal data before updating. The first startup after the update may take longer than usual, and you might experience temporary issues such as slight heating or lag. Some third-party apps may not work properly if they haven't been updated for compatibility. Proceed with caution.</p>
                     </div>
                 </li>
