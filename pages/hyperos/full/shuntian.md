@@ -52,7 +52,9 @@ permalink: /archive/hyperos/shuntian/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 9 Pro China</td><td>Stable</td><td>Recovery</td><td>OS4.0.5.0.XFPCNXM</td><td>17.0</td><td>9.1 GB</td><td>2026-09-23</td><td><a href="/hyperos/shuntian/stable/OS4.0.5.0.XFPCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 9 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS4.0.3.0.XFPCNXM</td><td>17.0</td><td>9.1 GB</td><td>2026-09-23</td><td><a href="/hyperos/shuntian/stable beta/OS4.0.3.0.XFPCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 9 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS4.0.2.0.XFPCNXM</td><td>17.0</td><td>9.1 GB</td><td>2026-09-23</td><td><a href="/hyperos/shuntian/stable beta/OS4.0.2.0.XFPCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 9 Pro China</td><td>Stable</td><td>Recovery</td><td>OS4.0.5.0.XFPCNXM</td><td>17.0</td><td>9.1 GB</td><td>2026-09-23</td><td><a href="/hyperos/shuntian/stable/OS4.0.5.0.XFPCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 9 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.5.0.XFPCNXM</td><td>17.0</td><td>11.3 GB</td><td>2026-09-15</td><td><a href="/hyperos/shuntian/stable/OS4.0.5.0.XFPCNXM/">Download</a></td></tr>
 
                 </tbody>

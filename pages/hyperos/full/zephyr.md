@@ -52,7 +52,9 @@ permalink: /archive/hyperos/zephyr/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 17 4G Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WBURUXM</td><td>16.0</td><td>5.2 GB</td><td>2026-09-24</td><td><a href="/hyperos/zephyr/stable/OS3.0.306.0.WBURUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 17 4G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.305.0.WBUIDXM</td><td>16.0</td><td>5.3 GB</td><td>2026-09-25</td><td><a href="/hyperos/zephyr/stable/OS3.0.305.0.WBUIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 17 4G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.305.0.WBUIDXM</td><td>16.0</td><td>8.1 GB</td><td>2026-08-20</td><td><a href="/hyperos/zephyr/stable/OS3.0.305.0.WBUIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 17 4G Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WBURUXM</td><td>16.0</td><td>5.2 GB</td><td>2026-09-24</td><td><a href="/hyperos/zephyr/stable/OS3.0.306.0.WBURUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 4G Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.306.0.WBURUXM</td><td>16.0</td><td>8.4 GB</td><td>2026-08-20</td><td><a href="/hyperos/zephyr/stable/OS3.0.306.0.WBURUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 4G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.310.0.WBUMIXM</td><td>16.0</td><td>5.4 GB</td><td>2026-09-02</td><td><a href="/hyperos/zephyr/stable/OS3.0.310.0.WBUMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 17 4G Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.310.0.WBUMIXM</td><td>16.0</td><td>8.6 GB</td><td>2026-08-31</td><td><a href="/hyperos/zephyr/stable/OS3.0.310.0.WBUMIXM/">Download</a></td></tr>
