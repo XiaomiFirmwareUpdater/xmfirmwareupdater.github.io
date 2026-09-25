@@ -5428,6 +5428,12 @@
   download: https://bigota.d.miui.com/OS2.0.216.0.VBNMIXM/fw_dew_dew_global-ota_full-OS2.0.216.0.VBNMIXM-user-15.0-985ab223ef.zip
   name: Redmi 15C/POCO C85
   version: OS2.0.216.0.VBNMIXM
+- android: '16.0'
+  codename: dew
+  date: '2026-09-24'
+  download: https://bigota.d.miui.com/OS3.0.307.0.WBNMIXM/fw_dew_dew_global-ota_full-OS3.0.307.0.WBNMIXM-user-16.0-7aa5b477f3.zip
+  name: Redmi 15C/POCO C85
+  version: OS3.0.307.0.WBNMIXM
 - android: '15.0'
   codename: dew
   date: '2026-05-25'

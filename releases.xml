@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 24 Sep 2026 21:36:47 </lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 03:26:40 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 15C/POCO C85 (dew) - OS3.0.307.0.WBNMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dew/</link>
+            <pubDate>Thu, 24 Sep 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi A5/A7/POCO C71/C81x (serenity) - A15.0.32.0.VGWMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
@@ -1284,11 +1289,6 @@
         <item>
             <title>Xiaomi 14T (degas) - OS3.0.303.0.WNEMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/degas/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 15C/POCO C85 (dew) - OS3.0.306.0.WBNMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dew/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
