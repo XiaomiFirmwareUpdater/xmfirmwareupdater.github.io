@@ -1098,6 +1098,12 @@
   version: OS3.0.9.0.WBVEUXM
 - android: '16.0'
   codename: arctic
+  date: '2026-09-25'
+  download: https://bigota.d.miui.com/OS3.0.5.0.WBVINXM/fw_arctic_arctic_in_global-ota_full-OS3.0.5.0.WBVINXM-user-16.0-25c4d3d78e.zip
+  name: Redmi A7 Pro/POCO C81/C81 Pro
+  version: OS3.0.5.0.WBVINXM
+- android: '16.0'
+  codename: arctic
   date: '2026-08-24'
   download: https://bigota.d.miui.com/OS3.0.8.0.WBVEUXM/fw_arctic_arctic_eea_global-ota_full-OS3.0.8.0.WBVEUXM-user-16.0-325543de43.zip
   name: Redmi A7 Pro/POCO C81/C81 Pro
@@ -7956,6 +7962,12 @@
   version: OS1.0.8.0.UMXMIXM
 - android: '15.0'
   codename: fire
+  date: '2026-09-25'
+  download: https://bigota.d.miui.com/OS2.0.210.0.VMXMIXM/fw_fire_fire_global-ota_full-OS2.0.210.0.VMXMIXM-user-15.0-d93a260097.zip
+  name: Redmi 12
+  version: OS2.0.210.0.VMXMIXM
+- android: '15.0'
+  codename: fire
   date: '2025-09-25'
   download: https://bigota.d.miui.com/OS2.0.203.0.VMXEUXM/fw_fire_eea_global_fire_eea_global-ota_full-OS2.0.203.0.VMXEUXM-user-15.0-cd73a4b522.zip
   name: Redmi 12
@@ -14164,6 +14176,12 @@
   download: https://bigota.d.miui.com/OS3.0.307.0.WDTEUXM/fw_leedsa_leedsa_eea_global-ota_full-OS3.0.307.0.WDTEUXM-user-16.0-656ef66603.zip
   name: Redmi 17/POCO C95 Pro
   version: OS3.0.307.0.WDTEUXM
+- android: '17.0'
+  codename: lhasa
+  date: '2026-09-25'
+  download: https://bigota.d.miui.com/OS4.0.18.0.XPNCNXM/fw_lhasa_lhasa-ota_full-OS4.0.18.0.XPNCNXM-user-17.0-9b1def07cc.zip
+  name: Xiaomi 18 Fold
+  version: OS4.0.18.0.XPNCNXM
 - android: '17.0'
   codename: lhasa
   date: '2026-09-20'

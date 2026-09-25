@@ -52,8 +52,8 @@ permalink: /hyperos/lhasa/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 18 Fold China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.15.0.XPNCNXM</td><td>17.0</td><td>12.7 GB</td><td>2026-09-16</td><td><a href="/hyperos/lhasa/stable/OS4.0.15.0.XPNCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 18 Fold China</td><td>Stable</td><td>Recovery</td><td>OS4.0.15.0.XPNCNXM</td><td>17.0</td><td>9.7 GB</td><td>2026-09-17</td><td><a href="/hyperos/lhasa/stable/OS4.0.15.0.XPNCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 18 Fold China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.18.0.XPNCNXM</td><td>17.0</td><td>12.7 GB</td><td>2026-09-17</td><td><a href="/hyperos/lhasa/stable/OS4.0.18.0.XPNCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 18 Fold China</td><td>Stable</td><td>Recovery</td><td>OS4.0.18.0.XPNCNXM</td><td>17.0</td><td>9.7 GB</td><td>2026-09-22</td><td><a href="/hyperos/lhasa/stable/OS4.0.18.0.XPNCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 18 Fold China</td><td>Stable Beta</td><td>Recovery</td><td>OS4.0.5.0.XPNCNXM</td><td>17.0</td><td>9.7 GB</td><td>2026-09-07</td><td><a href="/hyperos/lhasa/stable beta/OS4.0.5.0.XPNCNXM/">Download</a></td></tr>
 
                 </tbody>

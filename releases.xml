@@ -4,8 +4,23 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 25 Sep 2026 15:14:02 </lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 20:31:27 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi A7 Pro/POCO C81/C81 Pro (arctic) - OS3.0.5.0.WBVINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/arctic/</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 12 (fire) - OS2.0.210.0.VMXMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/fire/</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 18 Fold (lhasa) - OS4.0.18.0.XPNCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lhasa/</link>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS3.0.306.0.WNXCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
@@ -129,11 +144,6 @@
         <item>
             <title>Redmi Note 15 5G/POCO M8 5G/15 SE 5G (kunzite) - OS3.0.303.0.WPQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/kunzite/</link>
-            <pubDate>Sun, 20 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 18 Fold (lhasa) - OS4.0.15.0.XPNCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lhasa/</link>
             <pubDate>Sun, 20 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1252,11 +1262,6 @@
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi A7 Pro/POCO C81/C81 Pro (arctic) - OS3.0.4.0.WBVINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/arctic/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 13T (aristotle) - OS3.0.5.0.WMFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
@@ -1329,11 +1334,6 @@
         <item>
             <title>Redmi Note 13 Pro 4G/POCO M6 Pro/Redmi Note 14S (emerald) - OS3.0.302.0.WNFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/emerald/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 12 (fire) - OS2.0.209.0.VMXMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/fire/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>

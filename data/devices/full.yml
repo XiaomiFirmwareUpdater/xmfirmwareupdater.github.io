@@ -5449,6 +5449,16 @@
     android: '16.0'
     miui: OS3.0.9.0.WBVEUXM
 - branch: stable
+  date: '2026-09-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_arctic/releases/download/stable-25.09.2026/fw_arctic_arctic_in_global-ota_full-OS3.0.5.0.WBVINXM-user-16.0-25c4d3d78e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/arctic/fw_arctic_arctic_in_global-ota_full-OS3.0.5.0.WBVINXM-user-16.0-25c4d3d78e.zip
+  filename: fw_arctic_arctic_in_global-ota_full-OS3.0.5.0.WBVINXM-user-16.0-25c4d3d78e.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.5.0.WBVINXM
+- branch: stable
   date: '2026-08-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_arctic/releases/download/stable-24.08.2026/fw_arctic_arctic_eea_global-ota_full-OS3.0.8.0.WBVEUXM-user-16.0-325543de43.zip
@@ -36559,6 +36569,16 @@
     android: '13.0'
     miui: V14.0.11.0.TMXEUXM
 - branch: stable
+  date: '2026-09-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-25.09.2026/fw_fire_fire_global-ota_full-OS2.0.210.0.VMXMIXM-user-15.0-d93a260097.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/fire/fw_fire_fire_global-ota_full-OS2.0.210.0.VMXMIXM-user-15.0-d93a260097.zip
+  filename: fw_fire_fire_global-ota_full-OS2.0.210.0.VMXMIXM-user-15.0-d93a260097.zip
+  region: Global
+  versions:
+    android: '15.0'
+    miui: OS2.0.210.0.VMXMIXM
+- branch: stable
   date: '2025-09-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-25.09.2025/fw_fire_eea_global_fire_eea_global-ota_full-OS2.0.203.0.VMXEUXM-user-15.0-cd73a4b522.zip
@@ -57058,6 +57078,16 @@
   versions:
     android: '16.0'
     miui: OS3.0.307.0.WDTEUXM
+- branch: stable
+  date: '2026-09-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lhasa/releases/download/stable-25.09.2026/fw_lhasa_lhasa-ota_full-OS4.0.18.0.XPNCNXM-user-17.0-9b1def07cc.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/lhasa/fw_lhasa_lhasa-ota_full-OS4.0.18.0.XPNCNXM-user-17.0-9b1def07cc.zip
+  filename: fw_lhasa_lhasa-ota_full-OS4.0.18.0.XPNCNXM-user-17.0-9b1def07cc.zip
+  region: China
+  versions:
+    android: '17.0'
+    miui: OS4.0.18.0.XPNCNXM
 - branch: stable
   date: '2026-09-20'
   downloads:
