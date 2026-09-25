@@ -25782,6 +25782,12 @@
   version: OS2.0.206.0.VNXMIXM
 - android: '16.0'
   codename: sheng
+  date: '2026-09-25'
+  download: https://bigota.d.miui.com/OS3.0.306.0.WNXCNXM/fw_sheng_sheng-ota_full-OS3.0.306.0.WNXCNXM-user-16.0-997f7fa308.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS3.0.306.0.WNXCNXM
+- android: '16.0'
+  codename: sheng
   date: '2026-08-24'
   download: https://bigota.d.miui.com/OS3.0.304.0.WNXCNXM/fw_sheng_sheng-ota_full-OS3.0.304.0.WNXCNXM-user-16.0-57e0a09d42.zip
   name: Xiaomi Pad 6S Pro 12.4
@@ -29644,6 +29650,18 @@
   download: https://bigota.d.miui.com/OS3.0.4.0.WOZINXM/fw_uke_uke_in_global-ota_full-OS3.0.4.0.WOZINXM-user-16.0-dc79fa6e77.zip
   name: Xiaomi Pad 7/POCO Pad X1
   version: OS3.0.4.0.WOZINXM
+- android: '16.0'
+  codename: uke
+  date: '2026-09-25'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WOZEUXM/fw_uke_uke_eea_global-ota_full-OS3.0.304.0.WOZEUXM-user-16.0-bb4525610c.zip
+  name: Xiaomi Pad 7/POCO Pad X1
+  version: OS3.0.304.0.WOZEUXM
+- android: '16.0'
+  codename: uke
+  date: '2026-09-25'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WOZMIXM/fw_uke_uke_global-ota_full-OS3.0.304.0.WOZMIXM-user-16.0-f70cbc0556.zip
+  name: Xiaomi Pad 7/POCO Pad X1
+  version: OS3.0.304.0.WOZMIXM
 - android: '16.0'
   codename: uke
   date: '2026-09-09'
