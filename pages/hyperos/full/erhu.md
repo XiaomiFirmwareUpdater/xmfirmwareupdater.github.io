@@ -52,7 +52,8 @@ permalink: /archive/hyperos/erhu/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad 2 SE 4G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WDOIDXM</td><td>16.0</td><td>5.0 GB</td><td>2026-09-16</td><td><a href="/hyperos/erhu/stable beta/OS3.0.302.0.WDOIDXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad 2 SE 4G Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WDOIDXM</td><td>16.0</td><td>5.0 GB</td><td>2026-09-16</td><td><a href="/hyperos/erhu/stable/OS3.0.302.0.WDOIDXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 SE 4G Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WDOIDXM</td><td>16.0</td><td>6.4 GB</td><td>2026-08-20</td><td><a href="/hyperos/erhu/stable/OS3.0.302.0.WDOIDXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 SE 4G Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WDORUXM</td><td>16.0</td><td>4.9 GB</td><td>2026-09-16</td><td><a href="/hyperos/erhu/stable/OS3.0.303.0.WDORUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 SE 4G Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WDORUXM</td><td>16.0</td><td>7.1 GB</td><td>2026-08-20</td><td><a href="/hyperos/erhu/stable/OS3.0.303.0.WDORUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 SE 4G Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WDOTWXM</td><td>16.0</td><td>4.9 GB</td><td>2026-09-16</td><td><a href="/hyperos/erhu/stable/OS3.0.302.0.WDOTWXM/">Download</a></td></tr>
