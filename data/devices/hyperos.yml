@@ -33018,6 +33018,12 @@
   version: OS3.0.305.0.WBUEUDM
 - android: '16.0'
   codename: zephyr
+  date: '2026-09-26'
+  download: https://bigota.d.miui.com/OS3.0.307.0.WBUEUXM/fw_zephyr_zephyr_eea_global-ota_full-OS3.0.307.0.WBUEUXM-user-16.0-7f5eb76ad9.zip
+  name: Redmi Note 17 4G
+  version: OS3.0.307.0.WBUEUXM
+- android: '16.0'
+  codename: zephyr
   date: '2026-09-07'
   download: https://bigota.d.miui.com/OS3.0.310.0.WBUMIXM/fw_zephyr_zephyr_global-ota_full-OS3.0.310.0.WBUMIXM-user-16.0-f3d75c5ee5.zip
   name: Redmi Note 17 4G
