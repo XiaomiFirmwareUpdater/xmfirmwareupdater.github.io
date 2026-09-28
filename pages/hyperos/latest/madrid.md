@@ -52,8 +52,8 @@ permalink: /hyperos/madrid/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 18 Pro Max China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.6.0.XEOCNXM</td><td>17.0</td><td>15.1 GB</td><td>2026-09-17</td><td><a href="/hyperos/madrid/stable/OS4.0.6.0.XEOCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 18 Pro Max China</td><td>Stable</td><td>Recovery</td><td>OS4.0.6.0.XEOCNXM</td><td>17.0</td><td>12.9 GB</td><td>2026-09-23</td><td><a href="/hyperos/madrid/stable/OS4.0.6.0.XEOCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 18 Pro Max China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.11.0.XEOCNXM</td><td>17.0</td><td>15.2 GB</td><td>2026-09-25</td><td><a href="/hyperos/madrid/stable/OS4.0.11.0.XEOCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 18 Pro Max China</td><td>Stable</td><td>Recovery</td><td>OS4.0.11.0.XEOCNXM</td><td>17.0</td><td>12.9 GB</td><td>2026-09-25</td><td><a href="/hyperos/madrid/stable/OS4.0.11.0.XEOCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 18 Pro Max China</td><td>Stable Beta</td><td>Recovery</td><td>OS4.0.5.0.XEOCNXM</td><td>17.0</td><td>12.9 GB</td><td>2026-09-23</td><td><a href="/hyperos/madrid/stable beta/OS4.0.5.0.XEOCNXM/">Download</a></td></tr>
 
                 </tbody>

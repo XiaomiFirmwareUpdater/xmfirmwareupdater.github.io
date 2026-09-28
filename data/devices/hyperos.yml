@@ -6618,6 +6618,18 @@
   version: OS1.0.10.0.UNLCNXM
 - android: '16.0'
   codename: duchamp
+  date: '2026-09-28'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WNLCNXM/fw_duchamp_duchamp-ota_full-OS3.0.305.0.WNLCNXM-user-16.0-1448ea3121.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS3.0.305.0.WNLCNXM
+- android: '16.0'
+  codename: duchamp
+  date: '2026-09-28'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WNLINXM/fw_duchamp_duchamp_in_global-ota_full-OS3.0.302.0.WNLINXM-user-16.0-1d9b6b6a3f.zip
+  name: Redmi K70E/POCO X6 Pro 5G
+  version: OS3.0.302.0.WNLINXM
+- android: '16.0'
+  codename: duchamp
   date: '2025-11-27'
   download: https://bigota.d.miui.com/OS3.0.2.0.WNLCNXM/fw_duchamp_duchamp-ota_full-OS3.0.2.0.WNLCNXM-user-16.0-fc5ab29dcc.zip
   name: Redmi K70E/POCO X6 Pro 5G
@@ -7948,6 +7960,12 @@
   download: https://bigota.d.miui.com/OS1.0.10.0.UMXEUXM/fw_fire_miui_FIREEEAGlobal_OS1.0.10.0.UMXEUXM_c310c4cbdf_14.0.zip
   name: Redmi 12
   version: OS1.0.10.0.UMXEUXM
+- android: '15.0'
+  codename: fire
+  date: '2026-09-28'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VMXINXM/fw_fire_fire_in_global-ota_full-OS2.0.209.0.VMXINXM-user-15.0-8cb9e3c0c8.zip
+  name: Redmi 12
+  version: OS2.0.209.0.VMXINXM
 - android: '15.0'
   codename: fire
   date: '2024-12-27'

@@ -52,8 +52,8 @@ permalink: /hyperos/hongkong/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 18 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.6.0.XFRCNXM</td><td>17.0</td><td>15.0 GB</td><td>2026-09-17</td><td><a href="/hyperos/hongkong/stable/OS4.0.6.0.XFRCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 18 Pro China</td><td>Stable</td><td>Recovery</td><td>OS4.0.6.0.XFRCNXM</td><td>17.0</td><td>11.8 GB</td><td>2026-09-23</td><td><a href="/hyperos/hongkong/stable/OS4.0.6.0.XFRCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 18 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.11.0.XFRCNXM</td><td>17.0</td><td>15.0 GB</td><td>2026-09-25</td><td><a href="/hyperos/hongkong/stable/OS4.0.11.0.XFRCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 18 Pro China</td><td>Stable</td><td>Recovery</td><td>OS4.0.11.0.XFRCNXM</td><td>17.0</td><td>11.8 GB</td><td>2026-09-25</td><td><a href="/hyperos/hongkong/stable/OS4.0.11.0.XFRCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 18 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS4.0.4.0.XFRCNXM</td><td>17.0</td><td>11.8 GB</td><td>2026-09-23</td><td><a href="/hyperos/hongkong/stable beta/OS4.0.4.0.XFRCNXM/">Download</a></td></tr>
 
                 </tbody>
