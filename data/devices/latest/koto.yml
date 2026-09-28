@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_koto/releases/download/stable-24.08.2026/fw_koto_koto_global-ota_full-OS3.0.304.0.WOWMIXM-user-16.0-2e79222a49.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/koto/fw_koto_koto_global-ota_full-OS3.0.304.0.WOWMIXM-user-16.0-2e79222a49.zip
-  filename: fw_koto_koto_global-ota_full-OS3.0.304.0.WOWMIXM-user-16.0-2e79222a49.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_koto/releases/download/stable-28.09.2026/fw_koto_koto_global-ota_full-OS3.0.305.0.WOWMIXM-user-16.0-3390892bea.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/koto/fw_koto_koto_global-ota_full-OS3.0.305.0.WOWMIXM-user-16.0-3390892bea.zip
+  filename: fw_koto_koto_global-ota_full-OS3.0.305.0.WOWMIXM-user-16.0-3390892bea.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.304.0.WOWMIXM
+    miui: OS3.0.305.0.WOWMIXM
 - branch: stable
   date: '2026-09-11'
   downloads:
