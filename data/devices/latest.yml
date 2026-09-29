@@ -5889,15 +5889,15 @@
     android: '8.1'
     miui: 9.10.10
 - branch: stable
-  date: '2026-09-21'
+  date: '2026-09-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-22.09.2026/fw_rothko_rothko_global-ota_full-OS3.0.302.0.WNNMIXM-user-16.0-7582da00f0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rothko/fw_rothko_rothko_global-ota_full-OS3.0.302.0.WNNMIXM-user-16.0-7582da00f0.zip
-  filename: fw_rothko_rothko_global-ota_full-OS3.0.302.0.WNNMIXM-user-16.0-7582da00f0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-29.09.2026/fw_rothko_rothko_global-ota_full-OS3.0.303.0.WNNMIXM-user-16.0-0ebffb3a79.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rothko/fw_rothko_rothko_global-ota_full-OS3.0.303.0.WNNMIXM-user-16.0-0ebffb3a79.zip
+  filename: fw_rothko_rothko_global-ota_full-OS3.0.303.0.WNNMIXM-user-16.0-0ebffb3a79.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.302.0.WNNMIXM
+    miui: OS3.0.303.0.WNNMIXM
 - branch: stable
   date: '2026-09-09'
   downloads:
@@ -5909,15 +5909,15 @@
     android: '16.0'
     miui: OS3.0.302.0.WNNCNXM
 - branch: stable
-  date: '2026-09-21'
+  date: '2026-09-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-21.09.2026/fw_rothko_rothko_eea_global-ota_full-OS3.0.304.0.WNNEUXM-user-16.0-d152b3e997.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rothko/fw_rothko_rothko_eea_global-ota_full-OS3.0.304.0.WNNEUXM-user-16.0-d152b3e997.zip
-  filename: fw_rothko_rothko_eea_global-ota_full-OS3.0.304.0.WNNEUXM-user-16.0-d152b3e997.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-29.09.2026/fw_rothko_rothko_eea_global-ota_full-OS3.0.305.0.WNNEUXM-user-16.0-d3e0faad6a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rothko/fw_rothko_rothko_eea_global-ota_full-OS3.0.305.0.WNNEUXM-user-16.0-d3e0faad6a.zip
+  filename: fw_rothko_rothko_eea_global-ota_full-OS3.0.305.0.WNNEUXM-user-16.0-d3e0faad6a.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.304.0.WNNEUXM
+    miui: OS3.0.305.0.WNNEUXM
 - branch: stable
   date: '2026-08-25'
   downloads:
@@ -6849,15 +6849,15 @@
     android: '16.0'
     miui: OS3.0.302.0.WOVINXM
 - branch: stable
-  date: '2026-09-09'
+  date: '2026-09-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tanzanite/releases/download/stable-09.09.2026/fw_tanzanite_tanzanite_global-ota_full-OS3.0.303.0.WOGMIXM-user-16.0-8fd3c45ff6.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/tanzanite/fw_tanzanite_tanzanite_global-ota_full-OS3.0.303.0.WOGMIXM-user-16.0-8fd3c45ff6.zip
-  filename: fw_tanzanite_tanzanite_global-ota_full-OS3.0.303.0.WOGMIXM-user-16.0-8fd3c45ff6.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tanzanite/releases/download/stable-29.09.2026/fw_tanzanite_tanzanite_global-ota_full-OS3.0.305.0.WOGMIXM-user-16.0-9ffcc765a2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/tanzanite/fw_tanzanite_tanzanite_global-ota_full-OS3.0.305.0.WOGMIXM-user-16.0-9ffcc765a2.zip
+  filename: fw_tanzanite_tanzanite_global-ota_full-OS3.0.305.0.WOGMIXM-user-16.0-9ffcc765a2.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.303.0.WOGMIXM
+    miui: OS3.0.305.0.WOGMIXM
 - branch: stable
   date: '2026-09-11'
   downloads:

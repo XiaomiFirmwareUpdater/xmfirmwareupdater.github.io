@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 29 Sep 2026 14:16:14 </lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 23:21:08 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 Pro 4G (obsidian) - OS3.0.305.0.WOFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS3.0.303.0.WNNMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS3.0.305.0.WNNEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
             <pubDate>Tue, 29 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -24,6 +34,11 @@
         <item>
             <title>Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G (spring) - OS3.0.304.0.WOUMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spring/</link>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 4G (tanzanite) - OS3.0.305.0.WOGMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/tanzanite/</link>
             <pubDate>Tue, 29 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -229,16 +244,6 @@
         <item>
             <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS3.0.305.0.WOJCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
-            <pubDate>Mon, 21 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS3.0.302.0.WNNMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
-            <pubDate>Mon, 21 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS3.0.304.0.WNNEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
             <pubDate>Mon, 21 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -549,11 +554,6 @@
         <item>
             <title>Redmi K100 Pro Max/POCO F9 Ultra (songyuan) - OS3.0.303.0.WGNEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/songyuan/</link>
-            <pubDate>Wed, 09 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 4G (tanzanite) - OS3.0.303.0.WOGMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/tanzanite/</link>
             <pubDate>Wed, 09 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>

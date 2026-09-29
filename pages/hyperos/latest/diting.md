@@ -72,6 +72,7 @@ permalink: /hyperos/diting/
 <tr><td>Xiaomi 12T Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.5.0.VLFTRXM</td><td>15.0</td><td>5.8 GB</td><td>2026-09-21</td><td><a href="/hyperos/diting/stable beta/OS3.0.5.0.VLFTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.4.0.VLFTWXM</td><td>15.0</td><td>6.6 GB</td><td>2026-07-17</td><td><a href="/hyperos/diting/stable/OS3.0.4.0.VLFTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.4.0.VLFTWXM</td><td>15.0</td><td>5.7 GB</td><td>2026-08-05</td><td><a href="/hyperos/diting/stable/OS3.0.4.0.VLFTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.5.0.VLFTWXM</td><td>15.0</td><td>5.7 GB</td><td>2026-09-24</td><td><a href="/hyperos/diting/stable beta/OS3.0.5.0.VLFTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

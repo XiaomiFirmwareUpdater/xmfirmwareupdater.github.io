@@ -23260,6 +23260,18 @@
   download: https://bigota.d.miui.com/OS3.0.302.0.WNNCNXM/fw_rothko_rothko-ota_full-OS3.0.302.0.WNNCNXM-user-16.0-56ae86ce5e.zip
   name: Redmi K70 Ultra/Xiaomi 14T Pro
   version: OS3.0.302.0.WNNCNXM
+- android: '16.0'
+  codename: rothko
+  date: '2026-09-29'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WNNEUXM/fw_rothko_rothko_eea_global-ota_full-OS3.0.305.0.WNNEUXM-user-16.0-d3e0faad6a.zip
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
+  version: OS3.0.305.0.WNNEUXM
+- android: '16.0'
+  codename: rothko
+  date: '2026-09-29'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WNNMIXM/fw_rothko_rothko_global-ota_full-OS3.0.303.0.WNNMIXM-user-16.0-0ebffb3a79.zip
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
+  version: OS3.0.303.0.WNNMIXM
 - android: '14.0'
   codename: rothko
   date: '2026-09-09'
@@ -28414,6 +28426,12 @@
   download: https://bigota.d.miui.com/OS2.0.209.0.VOGEUXM/fw_tanzanite_tanzanite_eea_global-ota_full-OS2.0.209.0.VOGEUXM-user-15.0-817b77c8be.zip
   name: Redmi Note 14 4G
   version: OS2.0.209.0.VOGEUXM
+- android: '16.0'
+  codename: tanzanite
+  date: '2026-09-29'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WOGMIXM/fw_tanzanite_tanzanite_global-ota_full-OS3.0.305.0.WOGMIXM-user-16.0-9ffcc765a2.zip
+  name: Redmi Note 14 4G
+  version: OS3.0.305.0.WOGMIXM
 - android: '16.0'
   codename: tanzanite
   date: '2026-06-29'
