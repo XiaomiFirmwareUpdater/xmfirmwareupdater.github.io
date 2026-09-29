@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_obsidian/releases/download/stable-24.08.2026/fw_obsidian_obsidian_global-ota_full-OS3.0.304.0.WOFMIXM-user-16.0-abb8f94255.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/obsidian/fw_obsidian_obsidian_global-ota_full-OS3.0.304.0.WOFMIXM-user-16.0-abb8f94255.zip
-  filename: fw_obsidian_obsidian_global-ota_full-OS3.0.304.0.WOFMIXM-user-16.0-abb8f94255.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_obsidian/releases/download/stable-29.09.2026/fw_obsidian_obsidian_global-ota_full-OS3.0.305.0.WOFMIXM-user-16.0-f83ea04112.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/obsidian/fw_obsidian_obsidian_global-ota_full-OS3.0.305.0.WOFMIXM-user-16.0-f83ea04112.zip
+  filename: fw_obsidian_obsidian_global-ota_full-OS3.0.305.0.WOFMIXM-user-16.0-f83ea04112.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.304.0.WOFMIXM
+    miui: OS3.0.305.0.WOFMIXM
 - branch: stable
   date: '2026-09-03'
   downloads:

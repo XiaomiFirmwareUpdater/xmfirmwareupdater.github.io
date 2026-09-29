@@ -9,25 +9,25 @@
     android: '16.0'
     miui: OS3.0.308.0.WPPMIXM
 - branch: stable
-  date: '2026-09-11'
+  date: '2026-09-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-11.09.2026/fw_lapis_lapis-ota_full-OS3.0.308.0.WPPCNXM-user-16.0-a508664795.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/lapis/fw_lapis_lapis-ota_full-OS3.0.308.0.WPPCNXM-user-16.0-a508664795.zip
-  filename: fw_lapis_lapis-ota_full-OS3.0.308.0.WPPCNXM-user-16.0-a508664795.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-29.09.2026/fw_lapis_lapis-ota_full-OS3.0.309.0.WPPCNXM-user-16.0-ebe88f14a5.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/lapis/fw_lapis_lapis-ota_full-OS3.0.309.0.WPPCNXM-user-16.0-ebe88f14a5.zip
+  filename: fw_lapis_lapis-ota_full-OS3.0.309.0.WPPCNXM-user-16.0-ebe88f14a5.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.308.0.WPPCNXM
+    miui: OS3.0.309.0.WPPCNXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-09-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-24.08.2026/fw_lapis_lapis_eea_global-ota_full-OS3.0.302.0.WPPEUXM-user-16.0-077382ecba.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/lapis/fw_lapis_lapis_eea_global-ota_full-OS3.0.302.0.WPPEUXM-user-16.0-077382ecba.zip
-  filename: fw_lapis_lapis_eea_global-ota_full-OS3.0.302.0.WPPEUXM-user-16.0-077382ecba.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-29.09.2026/fw_lapis_lapis_eea_global-ota_full-OS3.0.303.0.WPPEUXM-user-16.0-aa42b99f81.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/lapis/fw_lapis_lapis_eea_global-ota_full-OS3.0.303.0.WPPEUXM-user-16.0-aa42b99f81.zip
+  filename: fw_lapis_lapis_eea_global-ota_full-OS3.0.303.0.WPPEUXM-user-16.0-aa42b99f81.zip
   region: Europe
   versions:
     android: '16.0'
-    miui: OS3.0.302.0.WPPEUXM
+    miui: OS3.0.303.0.WPPEUXM
 - branch: stable
   date: '2026-09-11'
   downloads:
