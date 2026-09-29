@@ -3,7 +3,7 @@ title: Xiaomi Pad 6S Pro 12.4 China HyperOS OS3.0.306.0.WNXCNXM Update
 layout: download
 name: Xiaomi Pad 6S Pro 12.4 China
 codename: sheng
-permalink: /hyperos/sheng/stable beta/OS3.0.306.0.WNXCNXM/
+permalink: /hyperos/sheng/stable/OS3.0.306.0.WNXCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/sheng/stable beta/OS3.0.306.0.WNXCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.306.0.WNXCNXM Stable Beta Official Update for Xiaomi Pad 6S Pro 12.4 China (sheng)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.306.0.WNXCNXM Stable Official Update for Xiaomi Pad 6S Pro 12.4 China (sheng)</h3>
     <h5>This page shows the OS3.0.306.0.WNXCNXM update only. If you're looking for other updates check
         <a href="/hyperos/sheng/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/sheng/stable beta/OS3.0.306.0.WNXCNXM/
                     <h5><b>Version: </b>OS3.0.306.0.WNXCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -111,7 +111,7 @@ permalink: /hyperos/sheng/stable beta/OS3.0.306.0.WNXCNXM/
                     <h5><b>Package Name: </b><span id="filename" class="text-dark">sheng_images_OS3.0.306.0.WNXCNXM_20260911.0000.00_16.0_cn_1e29f3b855.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">Unknown</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">1e29f3b85543fec39ffdf0f6816d9ca6</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.306.0.WNXCNXM/sheng_images_OS3.0.306.0.WNXCNXM_20260911.0000.00_16.0_cn_1e29f3b855.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WNXCNXM/sheng_images_OS3.0.306.0.WNXCNXM_20260911.0000.00_16.0_cn_1e29f3b855.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.306.0.WNXCNXM/sheng_images_OS3.0.306.0.WNXCNXM_20260911.0000.00_16.0_cn_1e29f3b855.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.306.0.WNXCNXM/sheng_images_OS3.0.306.0.WNXCNXM_20260911.0000.00_16.0_cn_1e29f3b855.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.306.0.WNXCNXM/sheng_images_OS3.0.306.0.WNXCNXM_20260911.0000.00_16.0_cn_1e29f3b855.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
