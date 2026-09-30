@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 30 Sep 2026 10:40:27 </lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 17:06:21 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi M100/Redmi 17 5G/POCO M8x 5G (steppe) - OS3.0.304.0.WAVINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/steppe/</link>
+            <pubDate>Wed, 30 Sep 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 Pro 4G (obsidian) - OS3.0.305.0.WOFMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
@@ -1034,11 +1039,6 @@
         <item>
             <title>Redmi A5/A7/POCO C71/C81x (serenity) - A15.0.20.0.VGWINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
-            <pubDate>Fri, 04 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi M100/Redmi 17 5G/POCO M8x 5G (steppe) - OS3.0.302.0.WAVINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/steppe/</link>
             <pubDate>Fri, 04 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
