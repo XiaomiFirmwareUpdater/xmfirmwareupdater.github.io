@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 04 Oct 2026 02:54:11 </lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2026 10:37:25 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - OS3.0.312.0.WMBCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Sun, 04 Oct 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi M100/Redmi 17 5G/POCO M8x 5G (steppe) - OS3.0.304.0.WAVINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/steppe/</link>
@@ -469,11 +474,6 @@
         <item>
             <title>Redmi Note 15 Pro 5G (lapis) - OS3.0.304.0.WPPINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lapis/</link>
-            <pubDate>Fri, 11 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Pro (nuwa) - OS3.0.311.0.WMBCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Fri, 11 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
