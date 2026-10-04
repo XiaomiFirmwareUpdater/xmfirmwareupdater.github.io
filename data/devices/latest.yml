@@ -3589,15 +3589,15 @@
     android: '16.0'
     miui: OS3.0.307.0.WDTEUXM
 - branch: stable
-  date: '2026-09-25'
+  date: '2026-10-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lhasa/releases/download/stable-25.09.2026/fw_lhasa_lhasa-ota_full-OS4.0.18.0.XPNCNXM-user-17.0-9b1def07cc.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/lhasa/fw_lhasa_lhasa-ota_full-OS4.0.18.0.XPNCNXM-user-17.0-9b1def07cc.zip
-  filename: fw_lhasa_lhasa-ota_full-OS4.0.18.0.XPNCNXM-user-17.0-9b1def07cc.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lhasa/releases/download/stable-04.10.2026/fw_lhasa_lhasa-ota_full-OS4.0.21.0.XPNCNXM-user-17.0-053d748570.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/lhasa/fw_lhasa_lhasa-ota_full-OS4.0.21.0.XPNCNXM-user-17.0-053d748570.zip
+  filename: fw_lhasa_lhasa-ota_full-OS4.0.21.0.XPNCNXM-user-17.0-053d748570.zip
   region: China
   versions:
     android: '17.0'
-    miui: OS4.0.18.0.XPNCNXM
+    miui: OS4.0.21.0.XPNCNXM
 - branch: stable
   date: '2018-11-07'
   downloads:
@@ -7929,15 +7929,15 @@
     android: '16.0'
     miui: OS3.0.312.0.WAKCNXM
 - branch: stable
-  date: '2026-09-22'
+  date: '2026-10-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yingtian/releases/download/stable-23.09.2026/fw_yingtian_yingtian-ota_full-OS4.0.11.0.XBMCNXM-user-17.0-a12ac31de7.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/yingtian/fw_yingtian_yingtian-ota_full-OS4.0.11.0.XBMCNXM-user-17.0-a12ac31de7.zip
-  filename: fw_yingtian_yingtian-ota_full-OS4.0.11.0.XBMCNXM-user-17.0-a12ac31de7.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yingtian/releases/download/stable-04.10.2026/fw_yingtian_yingtian-ota_full-OS4.0.15.0.XBMCNXM-user-17.0-748c6d2437.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/yingtian/fw_yingtian_yingtian-ota_full-OS4.0.15.0.XBMCNXM-user-17.0-748c6d2437.zip
+  filename: fw_yingtian_yingtian-ota_full-OS4.0.15.0.XBMCNXM-user-17.0-748c6d2437.zip
   region: China
   versions:
     android: '17.0'
-    miui: OS4.0.11.0.XBMCNXM
+    miui: OS4.0.15.0.XBMCNXM
 - branch: stable
   date: '2020-09-30'
   downloads:

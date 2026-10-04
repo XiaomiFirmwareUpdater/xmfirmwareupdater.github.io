@@ -14296,6 +14296,12 @@
   download: https://bigota.d.miui.com/OS4.0.6.0.XPNCNXM/fw_lhasa_lhasa-ota_full-OS4.0.6.0.XPNCNXM-user-17.0-cd2cf6d748.zip
   name: Xiaomi 18 Fold
   version: OS4.0.6.0.XPNCNXM
+- android: '17.0'
+  codename: lhasa
+  date: '2026-10-04'
+  download: https://bigota.d.miui.com/OS4.0.21.0.XPNCNXM/fw_lhasa_lhasa-ota_full-OS4.0.21.0.XPNCNXM-user-17.0-053d748570.zip
+  name: Xiaomi 18 Fold
+  version: OS4.0.21.0.XPNCNXM
 - android: '14.0'
   codename: light
   date: '2024-03-28'
@@ -32614,6 +32620,12 @@
   download: https://bigota.d.miui.com/OS4.0.10.0.XBMCNXM/fw_yingtian_yingtian-ota_full-OS4.0.10.0.XBMCNXM-user-17.0-b8fd7d392d.zip
   name: Xiaomi Pad 9 Pro Max
   version: OS4.0.10.0.XBMCNXM
+- android: '17.0'
+  codename: yingtian
+  date: '2026-10-04'
+  download: https://bigota.d.miui.com/OS4.0.15.0.XBMCNXM/fw_yingtian_yingtian-ota_full-OS4.0.15.0.XBMCNXM-user-17.0-748c6d2437.zip
+  name: Xiaomi Pad 9 Pro Max
+  version: OS4.0.15.0.XBMCNXM
 - android: '14.0'
   codename: yudi
   date: '2024-09-30'
