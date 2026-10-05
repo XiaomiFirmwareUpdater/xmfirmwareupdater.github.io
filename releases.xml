@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 05 Oct 2026 10:29:19 </lastBuildDate>
+        <lastBuildDate>Mon, 05 Oct 2026 13:58:07 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Pad 2 SE 4G (erhu) - OS3.0.305.0.WDOMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/erhu/</link>
+            <pubDate>Mon, 05 Oct 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 18 Fold (lhasa) - OS4.0.21.0.XPNCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lhasa/</link>
@@ -459,11 +464,6 @@
         <item>
             <title>Xiaomi 17T (chagall) - OS3.0.305.0.WPTINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
-            <pubDate>Fri, 11 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad 2 SE 4G (erhu) - OS3.0.304.0.WDOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/erhu/</link>
             <pubDate>Fri, 11 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>

@@ -7924,6 +7924,12 @@
   download: https://bigota.d.miui.com/OS3.0.304.0.WDOMIXM/fw_erhu_erhu_global-ota_full-OS3.0.304.0.WDOMIXM-user-16.0-bc030f5668.zip
   name: Redmi Pad 2 SE 4G
   version: OS3.0.304.0.WDOMIXM
+- android: '16.0'
+  codename: erhu
+  date: '2026-10-05'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WDOMIXM/fw_erhu_erhu_global-ota_full-OS3.0.305.0.WDOMIXM-user-16.0-55ff2a788b.zip
+  name: Redmi Pad 2 SE 4G
+  version: OS3.0.305.0.WDOMIXM
 - android: '13.0'
   codename: evergo
   date: '2024-02-29'

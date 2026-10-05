@@ -35838,6 +35838,16 @@
   versions:
     android: '16.0'
     miui: OS3.0.304.0.WDOMIXM
+- branch: stable
+  date: '2026-10-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_erhu/releases/download/stable-05.10.2026/fw_erhu_erhu_global-ota_full-OS3.0.305.0.WDOMIXM-user-16.0-55ff2a788b.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/erhu/fw_erhu_erhu_global-ota_full-OS3.0.305.0.WDOMIXM-user-16.0-55ff2a788b.zip
+  filename: fw_erhu_erhu_global-ota_full-OS3.0.305.0.WDOMIXM-user-16.0-55ff2a788b.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.305.0.WDOMIXM
 - branch: weekly
   date: '2021-12-31'
   downloads:
