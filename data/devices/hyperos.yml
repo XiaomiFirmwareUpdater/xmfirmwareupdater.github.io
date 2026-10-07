@@ -27924,6 +27924,12 @@
   version: OS3.0.308.0.WAVEUXM
 - android: '16.0'
   codename: steppe
+  date: '2026-10-07'
+  download: https://bigota.d.miui.com/OS3.0.313.0.WAVMIXM/fw_steppe_steppe_global-ota_full-OS3.0.313.0.WAVMIXM-user-16.0-ec59f294cf.zip
+  name: Redmi M100/Redmi 17 5G/POCO M8x 5G
+  version: OS3.0.313.0.WAVMIXM
+- android: '16.0'
+  codename: steppe
   date: '2026-09-07'
   download: https://bigota.d.miui.com/OS3.0.307.0.WAVEUXM/fw_steppe_steppe_eea_global-ota_full-OS3.0.307.0.WAVEUXM-user-16.0-6cd8ff847b.zip
   name: Redmi M100/Redmi 17 5G/POCO M8x 5G

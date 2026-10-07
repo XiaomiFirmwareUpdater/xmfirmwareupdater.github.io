@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 07 Oct 2026 04:29:31 </lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 10:40:21 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi M100/Redmi 17 5G/POCO M8x 5G (steppe) - OS3.0.313.0.WAVMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/steppe/</link>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Pad 2 SE 4G (erhu) - OS3.0.305.0.WDOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/erhu/</link>
@@ -369,11 +374,6 @@
         <item>
             <title>Redmi 12 (fire) - OS2.0.213.0.VMXEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fire/</link>
-            <pubDate>Wed, 16 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi M100/Redmi 17 5G/POCO M8x 5G (steppe) - OS3.0.311.0.WAVMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/steppe/</link>
             <pubDate>Wed, 16 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
