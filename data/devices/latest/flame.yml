@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-10-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flame/releases/download/stable-24.08.2026/fw_flame_flame-ota_full-OS3.0.302.0.WGUCNXM-user-16.0-7ed7a04397.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/flame/fw_flame_flame-ota_full-OS3.0.302.0.WGUCNXM-user-16.0-7ed7a04397.zip
-  filename: fw_flame_flame-ota_full-OS3.0.302.0.WGUCNXM-user-16.0-7ed7a04397.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_flame/releases/download/stable-08.10.2026/fw_flame_flame-ota_full-OS3.0.303.0.WGUCNXM-user-16.0-3b58d7e390.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/flame/fw_flame_flame-ota_full-OS3.0.303.0.WGUCNXM-user-16.0-3b58d7e390.zip
+  filename: fw_flame_flame-ota_full-OS3.0.303.0.WGUCNXM-user-16.0-3b58d7e390.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.302.0.WGUCNXM
+    miui: OS3.0.303.0.WGUCNXM
 - branch: stable
   date: '2026-08-24'
   downloads:

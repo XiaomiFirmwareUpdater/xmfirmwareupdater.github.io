@@ -1170,6 +1170,12 @@
   version: OS3.0.7.0.WBVMIXM
 - android: '16.0'
   codename: arctic
+  date: '2026-10-08'
+  download: https://bigota.d.miui.com/OS3.0.13.0.WBVMIXM/fw_arctic_arctic_global-ota_full-OS3.0.13.0.WBVMIXM-user-16.0-4cbd1227d7.zip
+  name: Redmi A7 Pro/POCO C81/C81 Pro
+  version: OS3.0.13.0.WBVMIXM
+- android: '16.0'
+  codename: arctic
   date: '2026-04-03'
   download: https://bigota.d.miui.com/OS3.0.6.0.WBVMIXM/fw_arctic_arctic_global-ota_full-OS3.0.6.0.WBVMIXM-user-16.0-a33067d533.zip
   name: Redmi A7 Pro/POCO C81/C81 Pro
@@ -3802,6 +3808,18 @@
   download: https://bigota.d.miui.com/OS1.0.17.0.UMLCNXM/fw_corot_miui_COROT_OS1.0.17.0.UMLCNXM_df5b9ad2c6_14.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
   version: OS1.0.17.0.UMLCNXM
+- android: '16.0'
+  codename: corot
+  date: '2026-10-08'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WMLCNXM/fw_corot_corot-ota_full-OS3.0.305.0.WMLCNXM-user-16.0-4beff56444.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS3.0.305.0.WMLCNXM
+- android: '16.0'
+  codename: corot
+  date: '2026-10-08'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WMLMIXM/fw_corot_corot_global-ota_full-OS3.0.302.0.WMLMIXM-user-16.0-277cf37730.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: OS3.0.302.0.WMLMIXM
 - android: '15.0'
   codename: corot
   date: '2025-02-08'
@@ -4006,6 +4024,12 @@
   download: https://bigota.d.miui.com/OS3.0.4.0.WBOEUXM/fw_creek_creek_eea_global-ota_full-OS3.0.4.0.WBOEUXM-user-16.0-6243c98658.zip
   name: Redmi 15/POCO M7
   version: OS3.0.4.0.WBOEUXM
+- android: '16.0'
+  codename: creek
+  date: '2026-10-08'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WBOMIXM/fw_creek_creek_global-ota_full-OS3.0.305.0.WBOMIXM-user-16.0-c0a5c5e1c2.zip
+  name: Redmi 15/POCO M7
+  version: OS3.0.305.0.WBOMIXM
 - android: '16.0'
   codename: creek
   date: '2026-05-06'
@@ -8386,6 +8410,12 @@
   download: https://bigota.d.miui.com/OS1.0.14.0.UGUCNXM/fw_flame_miui_FLAME_OS1.0.14.0.UGUCNXM_21f0e30bb9_14.0.zip
   name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
   version: OS1.0.14.0.UGUCNXM
+- android: '16.0'
+  codename: flame
+  date: '2026-10-08'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WGUCNXM/fw_flame_flame-ota_full-OS3.0.303.0.WGUCNXM-user-16.0-3b58d7e390.zip
+  name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
+  version: OS3.0.303.0.WGUCNXM
 - android: '15.0'
   codename: flame
   date: '2025-11-07'
@@ -8572,6 +8602,18 @@
   download: https://bigota.d.miui.com/OS2.0.1.0.VHXMIXM/fw_flare_global_flare_global-ota_full-OS2.0.1.0.VHXMIXM-user-15.0-f4b05c0782.zip
   name: Redmi Pad SE 8.7 5G
   version: OS2.0.1.0.VHXMIXM
+- android: '16.0'
+  codename: flare
+  date: '2026-10-08'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WHXEUXM/fw_flare_flare_eea_global-ota_full-OS3.0.303.0.WHXEUXM-user-16.0-c8702cca6b.zip
+  name: Redmi Pad SE 8.7 5G
+  version: OS3.0.303.0.WHXEUXM
+- android: '16.0'
+  codename: flare
+  date: '2026-10-08'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WHXMIXM/fw_flare_flare_global-ota_full-OS3.0.303.0.WHXMIXM-user-16.0-5737ce6962.zip
+  name: Redmi Pad SE 8.7 5G
+  version: OS3.0.303.0.WHXMIXM
 - android: '14.0'
   codename: flare
   date: '2025-05-08'
@@ -9826,6 +9868,18 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UGPINXM/fw_gale_miui_GALEINGlobal_OS1.0.3.0.UGPINXM_860bfab234_14.0.zip
   name: Redmi 13C/POCO C65
   version: OS1.0.3.0.UGPINXM
+- android: '15.0'
+  codename: gale
+  date: '2026-10-08'
+  download: https://bigota.d.miui.com/OS2.0.212.0.VGPEUXM/fw_gale_gale_eea_global-ota_full-OS2.0.212.0.VGPEUXM-user-15.0-536c275126.zip
+  name: Redmi 13C/POCO C65
+  version: OS2.0.212.0.VGPEUXM
+- android: '15.0'
+  codename: gale
+  date: '2026-10-08'
+  download: https://bigota.d.miui.com/OS2.0.209.0.VGPMIXM/fw_gale_gale_global-ota_full-OS2.0.209.0.VGPMIXM-user-15.0-386b5b1265.zip
+  name: Redmi 13C/POCO C65
+  version: OS2.0.209.0.VGPMIXM
 - android: '15.0'
   codename: gale
   date: '2025-01-06'
@@ -13062,6 +13116,12 @@
   version: OS2.0.2.0.VMAMIXM
 - android: '16.0'
   codename: ishtar
+  date: '2026-10-08'
+  download: https://bigota.d.miui.com/OS3.0.308.0.WMACNXM/fw_ishtar_ishtar-ota_full-OS3.0.308.0.WMACNXM-user-16.0-e3d01be14a.zip
+  name: Xiaomi 13 Ultra
+  version: OS3.0.308.0.WMACNXM
+- android: '16.0'
+  codename: ishtar
   date: '2026-01-08'
   download: https://bigota.d.miui.com/OS3.0.1.0.WMAEUXM/fw_ishtar_ishtar_eea_global-ota_full-OS3.0.1.0.WMAEUXM-user-16.0-1ab83dffa7.zip
   name: Xiaomi 13 Ultra
@@ -13798,6 +13858,12 @@
   download: https://bigota.d.miui.com/OS3.0.2.0.WPQCNXM/fw_kunzite_kunzite-ota_full-OS3.0.2.0.WPQCNXM-user-16.0-6e19a28265.zip
   name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
   version: OS3.0.2.0.WPQCNXM
+- android: '16.0'
+  codename: kunzite
+  date: '2026-10-08'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WPQMIXM/fw_kunzite_kunzite_global-ota_full-OS3.0.304.0.WPQMIXM-user-16.0-d4997b08a5.zip
+  name: Redmi Note 15 5G/POCO M8 5G/15 SE 5G
+  version: OS3.0.304.0.WPQMIXM
 - android: '15.0'
   codename: kunzite
   date: '2026-01-08'
@@ -14272,6 +14338,12 @@
   download: https://bigota.d.miui.com/OS3.0.310.0.WDTMIXM/fw_leedsa_leedsa_global-ota_full-OS3.0.310.0.WDTMIXM-user-16.0-f5f1553b2a.zip
   name: Redmi 17/POCO C95 Pro
   version: OS3.0.310.0.WDTMIXM
+- android: '16.0'
+  codename: leedsa
+  date: '2026-10-08'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WDTMIDM/fw_leedsa_leedsa_global-ota_full-OS3.0.302.0.WDTMIDM-user-16.0-0dd7a51343.zip
+  name: Redmi 17/POCO C95 Pro
+  version: OS3.0.302.0.WDTMIDM
 - android: '16.0'
   codename: leedsa
   date: '2026-09-05'
@@ -15388,6 +15460,12 @@
   download: https://bigota.d.miui.com/OS1.0.5.0.UOOINXM/fw_malachite_miui_MALACHITEINGlobal_OS1.0.5.0.UOOINXM_43224746c5_14.0.zip
   name: Redmi Note 14 Pro 5G/POCO X7
   version: OS1.0.5.0.UOOINXM
+- android: '16.0'
+  codename: malachite
+  date: '2026-10-08'
+  download: https://bigota.d.miui.com/OS3.0.308.0.WOOCNXM/fw_malachite_malachite-ota_full-OS3.0.308.0.WOOCNXM-user-16.0-48049ecf6e.zip
+  name: Redmi Note 14 Pro 5G/POCO X7
+  version: OS3.0.308.0.WOOCNXM
 - android: '15.0'
   codename: malachite
   date: '2025-04-08'

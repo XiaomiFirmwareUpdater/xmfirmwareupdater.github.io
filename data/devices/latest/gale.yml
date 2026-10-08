@@ -1,23 +1,23 @@
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-10-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-24.08.2026/fw_gale_gale_global-ota_full-OS2.0.208.0.VGPMIXM-user-15.0-3276654352.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gale/fw_gale_gale_global-ota_full-OS2.0.208.0.VGPMIXM-user-15.0-3276654352.zip
-  filename: fw_gale_gale_global-ota_full-OS2.0.208.0.VGPMIXM-user-15.0-3276654352.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-08.10.2026/fw_gale_gale_global-ota_full-OS2.0.209.0.VGPMIXM-user-15.0-386b5b1265.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gale/fw_gale_gale_global-ota_full-OS2.0.209.0.VGPMIXM-user-15.0-386b5b1265.zip
+  filename: fw_gale_gale_global-ota_full-OS2.0.209.0.VGPMIXM-user-15.0-386b5b1265.zip
   region: Global
   versions:
     android: '15.0'
-    miui: OS2.0.208.0.VGPMIXM
+    miui: OS2.0.209.0.VGPMIXM
 - branch: stable
-  date: '2026-08-24'
+  date: '2026-10-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-24.08.2026/fw_gale_gale_eea_global-ota_full-OS2.0.211.0.VGPEUXM-user-15.0-89ba08140c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gale/fw_gale_gale_eea_global-ota_full-OS2.0.211.0.VGPEUXM-user-15.0-89ba08140c.zip
-  filename: fw_gale_gale_eea_global-ota_full-OS2.0.211.0.VGPEUXM-user-15.0-89ba08140c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gale/releases/download/stable-08.10.2026/fw_gale_gale_eea_global-ota_full-OS2.0.212.0.VGPEUXM-user-15.0-536c275126.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/gale/fw_gale_gale_eea_global-ota_full-OS2.0.212.0.VGPEUXM-user-15.0-536c275126.zip
+  filename: fw_gale_gale_eea_global-ota_full-OS2.0.212.0.VGPEUXM-user-15.0-536c275126.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: OS2.0.211.0.VGPEUXM
+    miui: OS2.0.212.0.VGPEUXM
 - branch: stable
   date: '2026-08-24'
   downloads:

@@ -68,9 +68,9 @@ permalink: /hyperos/warhol/
 <tr><td>Xiaomi 17T Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WPSRUXM</td><td>16.0</td><td>7.6 GB</td><td>2026-08-19</td><td><a href="/hyperos/warhol/stable/OS3.0.306.0.WPSRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17T Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.305.0.WPSTRXM</td><td>16.0</td><td>10.0 GB</td><td>2026-08-10</td><td><a href="/hyperos/warhol/stable/OS3.0.305.0.WPSTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.305.0.WPSTRXM</td><td>16.0</td><td>7.6 GB</td><td>2026-08-19</td><td><a href="/hyperos/warhol/stable/OS3.0.305.0.WPSTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 17T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.305.0.WPSTWXM</td><td>16.0</td><td>9.1 GB</td><td>2026-08-05</td><td><a href="/hyperos/warhol/stable/OS3.0.305.0.WPSTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 17T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.305.0.WPSTWXM</td><td>16.0</td><td>7.5 GB</td><td>2026-08-19</td><td><a href="/hyperos/warhol/stable/OS3.0.305.0.WPSTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 17T Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.306.0.WPSTWXM</td><td>16.0</td><td>7.5 GB</td><td>2026-09-24</td><td><a href="/hyperos/warhol/stable beta/OS3.0.306.0.WPSTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.306.0.WPSTWXM</td><td>16.0</td><td>9.1 GB</td><td>2026-09-20</td><td><a href="/hyperos/warhol/stable/OS3.0.306.0.WPSTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WPSTWXM</td><td>16.0</td><td>7.5 GB</td><td>2026-09-24</td><td><a href="/hyperos/warhol/stable/OS3.0.306.0.WPSTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17T Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.301.0.WPSTWXM</td><td>16.0</td><td>7.4 GB</td><td>2026-05-28</td><td><a href="/hyperos/warhol/stable beta/OS3.0.301.0.WPSTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
