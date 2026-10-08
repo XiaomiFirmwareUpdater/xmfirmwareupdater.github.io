@@ -52,7 +52,8 @@ permalink: /archive/hyperos/shennong/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 14 Pro / Ti China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.309.0.WNBCNXM</td><td>16.0</td><td>6.7 GB</td><td>2026-09-23</td><td><a href="/hyperos/shennong/stable beta/OS3.0.309.0.WNBCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 14 Pro / Ti China</td><td>Stable</td><td>Recovery</td><td>OS3.0.309.0.WNBCNXM</td><td>16.0</td><td>6.7 GB</td><td>2026-09-23</td><td><a href="/hyperos/shennong/stable/OS3.0.309.0.WNBCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14 Pro / Ti China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.309.0.WNBCNXM</td><td>16.0</td><td>9.9 GB</td><td>2026-09-08</td><td><a href="/hyperos/shennong/stable/OS3.0.309.0.WNBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Pro / Ti China</td><td>Stable</td><td>Recovery</td><td>OS3.0.308.0.WNBCNXM</td><td>16.0</td><td>6.7 GB</td><td>2026-08-28</td><td><a href="/hyperos/shennong/stable/OS3.0.308.0.WNBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Pro / Ti China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.308.0.WNBCNXM</td><td>16.0</td><td>10.0 GB</td><td>2026-08-17</td><td><a href="/hyperos/shennong/stable/OS3.0.308.0.WNBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14 Pro / Ti China</td><td>Stable</td><td>Recovery</td><td>OS2.0.223.0.VNBCNXM</td><td>15.0</td><td>6.4 GB</td><td>2026-08-07</td><td><a href="/hyperos/shennong/stable/OS2.0.223.0.VNBCNXM/">Download</a></td></tr>
