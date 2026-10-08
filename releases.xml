@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 08 Oct 2026 17:41:29 </lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 02:41:06 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi A7 Pro/POCO C81/C81 Pro (arctic) - OS3.0.13.0.WBVMIXM</title>
@@ -68,6 +68,11 @@
         </item>
         <item>
             <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.308.0.WOOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.303.0.WOOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
             <pubDate>Thu, 08 Oct 2026 00:00:00 </pubDate>
         </item>
@@ -1463,11 +1468,6 @@
         </item>
         <item>
             <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.304.0.WOOMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.302.0.WOOEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
