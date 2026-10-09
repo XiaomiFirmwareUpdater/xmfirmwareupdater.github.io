@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 09 Oct 2026 17:10:22 </lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 21:44:05 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 17 Pro Max 5G/POCO X8 Power (brussels) - OS3.0.307.0.WDREUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/brussels/</link>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15S Pro (dijun) - OS3.0.304.0.WODCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dijun/</link>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 12T (plato) - OS2.0.219.0.VLQMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/plato/</link>
@@ -432,11 +442,6 @@
             <pubDate>Thu, 17 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 17 Pro Max 5G/POCO X8 Power (brussels) - OS3.0.305.0.WDREUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/brussels/</link>
-            <pubDate>Thu, 17 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.304.0.WNLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Thu, 17 Sep 2026 00:00:00 </pubDate>
@@ -829,11 +834,6 @@
         <item>
             <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.302.0.WPLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dash/</link>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15S Pro (dijun) - OS3.0.11.0.WODCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dijun/</link>
             <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
