@@ -339,6 +339,16 @@
     android: '14.0'
     miui: OS1.0.6.0.UMGEUXM
 - branch: stable
+  date: '2026-10-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_topaz/releases/download/stable-09.10.2026/fw_topaz_topaz_eea_global-ota_full-OS2.0.215.0.VMGEUXM-user-15.0-d3c62436db.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/topaz/fw_topaz_topaz_eea_global-ota_full-OS2.0.215.0.VMGEUXM-user-15.0-d3c62436db.zip
+  filename: fw_topaz_topaz_eea_global-ota_full-OS2.0.215.0.VMGEUXM-user-15.0-d3c62436db.zip
+  region: Europe
+  versions:
+    android: '15.0'
+    miui: OS2.0.215.0.VMGEUXM
+- branch: stable
   date: '2026-01-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_topaz/releases/download/stable-08.01.2026/fw_topaz_topaz_eea_global-ota_full-OS2.0.208.0.VMGEUXM-user-15.0-a4cf85615d.zip
