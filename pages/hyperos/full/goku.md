@@ -52,7 +52,8 @@ permalink: /archive/hyperos/goku/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>MIX Fold 4 China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.310.0.WNVCNXM</td><td>16.0</td><td>7.8 GB</td><td>2026-09-24</td><td><a href="/hyperos/goku/stable beta/OS3.0.310.0.WNVCNXM/">Download</a></td></tr>
+                <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.310.0.WNVCNXM</td><td>16.0</td><td>7.8 GB</td><td>2026-09-24</td><td><a href="/hyperos/goku/stable/OS3.0.310.0.WNVCNXM/">Download</a></td></tr>
+<tr><td>MIX Fold 4 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.310.0.WNVCNXM</td><td>16.0</td><td>9.8 GB</td><td>2026-09-19</td><td><a href="/hyperos/goku/stable/OS3.0.310.0.WNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.309.0.WNVCNXM</td><td>16.0</td><td>7.8 GB</td><td>2026-09-09</td><td><a href="/hyperos/goku/stable/OS3.0.309.0.WNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.309.0.WNVCNXM</td><td>16.0</td><td>9.8 GB</td><td>2026-09-03</td><td><a href="/hyperos/goku/stable/OS3.0.309.0.WNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.307.0.WNVCNXM</td><td>16.0</td><td>7.8 GB</td><td>2026-07-02</td><td><a href="/hyperos/goku/stable/OS3.0.307.0.WNVCNXM/">Download</a></td></tr>
@@ -79,10 +80,10 @@ permalink: /archive/hyperos/goku/
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.206.0.VNVCNXM</td><td>15.0</td><td>9.7 GB</td><td>2025-07-03</td><td><a href="/hyperos/goku/stable/OS2.0.206.0.VNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.205.0.VNVCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-06-18</td><td><a href="/hyperos/goku/stable/OS2.0.205.0.VNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.205.0.VNVCNXM</td><td>15.0</td><td>9.7 GB</td><td>2025-06-10</td><td><a href="/hyperos/goku/stable/OS2.0.205.0.VNVCNXM/">Download</a></td></tr>
-<tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.108.0.VNVCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-05-14</td><td><a href="/hyperos/goku/stable/OS2.0.108.0.VNVCNXM/">Download</a></td></tr>
-<tr><td>MIX Fold 4 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.108.0.VNVCNXM</td><td>15.0</td><td>9.9 GB</td><td>2025-04-22</td><td><a href="/hyperos/goku/stable/OS2.0.108.0.VNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.204.0.VNVCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-06-03</td><td><a href="/hyperos/goku/stable/OS2.0.204.0.VNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.204.0.VNVCNXM</td><td>15.0</td><td>9.7 GB</td><td>2025-05-30</td><td><a href="/hyperos/goku/stable/OS2.0.204.0.VNVCNXM/">Download</a></td></tr>
+<tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.108.0.VNVCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-05-14</td><td><a href="/hyperos/goku/stable/OS2.0.108.0.VNVCNXM/">Download</a></td></tr>
+<tr><td>MIX Fold 4 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.108.0.VNVCNXM</td><td>15.0</td><td>9.9 GB</td><td>2025-04-22</td><td><a href="/hyperos/goku/stable/OS2.0.108.0.VNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.106.0.VNVCNXM</td><td>15.0</td><td>10.0 GB</td><td>2025-04-18</td><td><a href="/hyperos/goku/stable/OS2.0.106.0.VNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Recovery</td><td>OS2.0.106.0.VNVCNXM</td><td>15.0</td><td>7.7 GB</td><td>2025-04-11</td><td><a href="/hyperos/goku/stable/OS2.0.106.0.VNVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 4 China</td><td>Stable</td><td>Fastboot</td><td>OS2.0.104.0.VNVCNXM</td><td>15.0</td><td>10.0 GB</td><td>2025-03-17</td><td><a href="/hyperos/goku/stable/OS2.0.104.0.VNVCNXM/">Download</a></td></tr>

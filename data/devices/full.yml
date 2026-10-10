@@ -10599,6 +10599,16 @@
     android: '14.0'
     miui: OS1.0.7.0.UOQINXM
 - branch: stable
+  date: '2026-10-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-10.10.2026/fw_beryl_beryl_global-ota_full-OS3.0.303.0.WOQMIXM-user-16.0-b99292184c.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/beryl/fw_beryl_beryl_global-ota_full-OS3.0.303.0.WOQMIXM-user-16.0-b99292184c.zip
+  filename: fw_beryl_beryl_global-ota_full-OS3.0.303.0.WOQMIXM-user-16.0-b99292184c.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.303.0.WOQMIXM
+- branch: stable
   date: '2024-12-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryl/releases/download/stable-09.12.2024/fw_beryl_miui_BERYLINGlobal_OS1.0.4.0.UOQINXM_b51bc03ea2_14.0.zip
@@ -29228,6 +29238,16 @@
   versions:
     android: '15.0'
     miui: OS2.0.5.0.VNEEUXM
+- branch: stable
+  date: '2026-10-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_degas/releases/download/stable-10.10.2026/fw_degas_degas_global-ota_full-OS3.0.305.0.WNEMIXM-user-16.0-a83e09e8c7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/degas/fw_degas_degas_global-ota_full-OS3.0.305.0.WNEMIXM-user-16.0-a83e09e8c7.zip
+  filename: fw_degas_degas_global-ota_full-OS3.0.305.0.WNEMIXM-user-16.0-a83e09e8c7.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.305.0.WNEMIXM
 - branch: stable
   date: '2026-09-09'
   downloads:
