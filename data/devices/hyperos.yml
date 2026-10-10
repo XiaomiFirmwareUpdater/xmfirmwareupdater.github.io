@@ -23628,6 +23628,12 @@
   version: OS2.0.215.0.WNNMIXM
 - android: '16.0'
   codename: rothko
+  date: '2026-10-10'
+  download: https://bigota.d.miui.com/OS3.0.308.0.WNNCNXM/fw_rothko_rothko-ota_full-OS3.0.308.0.WNNCNXM-user-16.0-a77e3eb1fc.zip
+  name: Redmi K70 Ultra/Xiaomi 14T Pro
+  version: OS3.0.308.0.WNNCNXM
+- android: '16.0'
+  codename: rothko
   date: '2026-09-09'
   download: https://bigota.d.miui.com/OS2.0.222.0.WNNEUXM/fw_rothko_eea_global_rothko_eea_global-ota_full-OS2.0.222.0.WNNEUXM-user-16.0-b4e7187d4d.zip
   name: Redmi K70 Ultra/Xiaomi 14T Pro
@@ -27580,6 +27586,12 @@
   download: https://bigota.d.miui.com/OS3.0.3.0.WPGMIXM/fw_spinel_spinel_global-ota_full-OS3.0.3.0.WPGMIXM-user-16.0-44fae862c8.zip
   name: Redmi Note 15 4G
   version: OS3.0.3.0.WPGMIXM
+- android: '16.0'
+  codename: spinel
+  date: '2026-10-10'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WPGMIXM/fw_spinel_spinel_global-ota_full-OS3.0.303.0.WPGMIXM-user-16.0-f32199b08d.zip
+  name: Redmi Note 15 4G
+  version: OS3.0.303.0.WPGMIXM
 - android: '15.0'
   codename: spinel
   date: '2026-02-08'

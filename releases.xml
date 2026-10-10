@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 10 Oct 2026 13:54:30 </lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 23:13:13 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 5G/POCO M7 Pro 5G (beryl) - OS3.0.303.0.WOQMIXM</title>
@@ -14,6 +14,16 @@
         <item>
             <title>Xiaomi 14T (degas) - OS3.0.305.0.WNEMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/degas/</link>
+            <pubDate>Sat, 10 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS3.0.308.0.WNNCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
+            <pubDate>Sat, 10 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 15 4G (spinel) - OS3.0.303.0.WPGMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/spinel/</link>
             <pubDate>Sat, 10 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -614,11 +624,6 @@
         <item>
             <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.201.0.VOJINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
-            <pubDate>Wed, 09 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70 Ultra/Xiaomi 14T Pro (rothko) - OS3.0.302.0.WNNCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rothko/</link>
             <pubDate>Wed, 09 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1269,11 +1274,6 @@
         <item>
             <title>Redmi Pad SE 8.7 4G (spark) - OS3.0.302.0.WHYINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/spark/</link>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 15 4G (spinel) - OS3.0.302.0.WPGMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/spinel/</link>
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>

@@ -5899,15 +5899,15 @@
     android: '16.0'
     miui: OS3.0.303.0.WNNMIXM
 - branch: stable
-  date: '2026-09-09'
+  date: '2026-10-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-30.04.2026/fw_rothko_rothko-ota_full-OS3.0.302.0.WNNCNXM-user-16.0-56ae86ce5e.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rothko/fw_rothko_rothko-ota_full-OS3.0.302.0.WNNCNXM-user-16.0-56ae86ce5e.zip
-  filename: fw_rothko_rothko-ota_full-OS3.0.302.0.WNNCNXM-user-16.0-56ae86ce5e.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rothko/releases/download/stable-10.10.2026/fw_rothko_rothko-ota_full-OS3.0.308.0.WNNCNXM-user-16.0-a77e3eb1fc.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rothko/fw_rothko_rothko-ota_full-OS3.0.308.0.WNNCNXM-user-16.0-a77e3eb1fc.zip
+  filename: fw_rothko_rothko-ota_full-OS3.0.308.0.WNNCNXM-user-16.0-a77e3eb1fc.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.302.0.WNNCNXM
+    miui: OS3.0.308.0.WNNCNXM
 - branch: stable
   date: '2026-09-29'
   downloads:
@@ -6559,15 +6559,15 @@
     android: '13.0'
     miui: OS1.0.11.0.TGKEUXM
 - branch: stable
-  date: '2026-08-25'
+  date: '2026-10-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spinel/releases/download/stable-25.08.2026/fw_spinel_spinel_global-ota_full-OS3.0.302.0.WPGMIXM-user-16.0-4f2cd4fdca.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/spinel/fw_spinel_spinel_global-ota_full-OS3.0.302.0.WPGMIXM-user-16.0-4f2cd4fdca.zip
-  filename: fw_spinel_spinel_global-ota_full-OS3.0.302.0.WPGMIXM-user-16.0-4f2cd4fdca.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spinel/releases/download/stable-10.10.2026/fw_spinel_spinel_global-ota_full-OS3.0.303.0.WPGMIXM-user-16.0-f32199b08d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/spinel/fw_spinel_spinel_global-ota_full-OS3.0.303.0.WPGMIXM-user-16.0-f32199b08d.zip
+  filename: fw_spinel_spinel_global-ota_full-OS3.0.303.0.WPGMIXM-user-16.0-f32199b08d.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.302.0.WPGMIXM
+    miui: OS3.0.303.0.WPGMIXM
 - branch: stable
   date: '2026-08-25'
   downloads:
