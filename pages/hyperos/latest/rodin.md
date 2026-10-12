@@ -72,6 +72,7 @@ permalink: /hyperos/rodin/
 <tr><td>POCO X7 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOJTRXM</td><td>16.0</td><td>6.7 GB</td><td>2026-09-14</td><td><a href="/hyperos/rodin/stable/OS3.0.302.0.WOJTRXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WOJTWXM</td><td>16.0</td><td>7.8 GB</td><td>2026-07-14</td><td><a href="/hyperos/rodin/stable/OS3.0.301.0.WOJTWXM/">Download</a></td></tr>
 <tr><td>POCO X7 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WOJTWXM</td><td>16.0</td><td>6.5 GB</td><td>2026-07-30</td><td><a href="/hyperos/rodin/stable/OS3.0.301.0.WOJTWXM/">Download</a></td></tr>
+<tr><td>POCO X7 Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.302.0.WOJTWXM</td><td>16.0</td><td>6.5 GB</td><td>2026-10-09</td><td><a href="/hyperos/rodin/stable beta/OS3.0.302.0.WOJTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

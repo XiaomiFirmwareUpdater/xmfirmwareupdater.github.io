@@ -29,12 +29,12 @@
     android: '15.0'
     miui: OS2.0.203.0.VOJEUXM
 - branch: stable
-  date: '2026-09-09'
+  date: '2026-10-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-29.08.2025/fw_rodin_in_global_rodin_in_global-ota_full-OS2.0.201.0.VOJINXM-user-15.0-b61c836a19.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/rodin/fw_rodin_in_global_rodin_in_global-ota_full-OS2.0.201.0.VOJINXM-user-15.0-b61c836a19.zip
-  filename: fw_rodin_in_global_rodin_in_global-ota_full-OS2.0.201.0.VOJINXM-user-15.0-b61c836a19.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rodin/releases/download/stable-12.10.2026/fw_rodin_rodin_in_global-ota_full-OS3.0.303.0.WOJINXM-user-16.0-c0b9fb229a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/rodin/fw_rodin_rodin_in_global-ota_full-OS3.0.303.0.WOJINXM-user-16.0-c0b9fb229a.zip
+  filename: fw_rodin_rodin_in_global-ota_full-OS3.0.303.0.WOJINXM-user-16.0-c0b9fb229a.zip
   region: India
   versions:
-    android: '15.0'
-    miui: OS2.0.201.0.VOJINXM
+    android: '16.0'
+    miui: OS3.0.303.0.WOJINXM

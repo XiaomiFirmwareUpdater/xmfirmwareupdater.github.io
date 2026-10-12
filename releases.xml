@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 12 Oct 2026 16:40:19 </lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 23:21:05 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi 15C/POCO C85 (dew) - OS3.0.302.0.WBNEUXM</title>
@@ -32,6 +32,11 @@
             <pubDate>Mon, 12 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.309.0.WOOCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi 13/POCO M6 (moon) - OS3.0.304.0.WNTMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moon/</link>
             <pubDate>Mon, 12 Oct 2026 00:00:00 </pubDate>
@@ -42,13 +47,38 @@
             <pubDate>Mon, 12 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Xiaomi Pad 7 Pro (muyu) - OS3.0.305.0.WOYEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Pad 2 Pro 5G (organ) - OS3.0.304.0.WPXMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/organ/</link>
             <pubDate>Mon, 12 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
+            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS3.0.303.0.WOJINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
             <title>Redmi Note 13 NFC (sapphiren) - OS2.0.215.0.VNHEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sapphiren/</link>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 9 Pro (shuntian) - OS4.0.6.0.XFPCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/shuntian/</link>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE 8.7 4G (spark) - OS3.0.305.0.WHYMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/spark/</link>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi M100/Redmi 17 5G/POCO M8x 5G (steppe) - OS3.0.309.0.WAVEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/steppe/</link>
             <pubDate>Mon, 12 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -169,11 +199,6 @@
         <item>
             <title>Redmi 17/POCO C95 Pro (leedsa) - OS3.0.302.0.WDTMIDM</title>
             <link>https://xmfirmwareupdater.com/firmware/leedsa/</link>
-            <pubDate>Thu, 08 Oct 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.308.0.WOOCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
             <pubDate>Thu, 08 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -402,11 +427,6 @@
             <pubDate>Wed, 23 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 9 Pro (shuntian) - OS4.0.5.0.XFPCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/shuntian/</link>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K70/POCO F6 Pro (vermeer) - OS1.0.21.0.UNKCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Wed, 23 Sep 2026 00:00:00 </pubDate>
@@ -622,11 +642,6 @@
             <pubDate>Fri, 11 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi M100/Redmi 17 5G/POCO M8x 5G (steppe) - OS3.0.308.0.WAVEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/steppe/</link>
-            <pubDate>Fri, 11 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 14 4G (tanzanite) - OS3.0.302.0.WOGEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/tanzanite/</link>
             <pubDate>Fri, 11 Sep 2026 00:00:00 </pubDate>
@@ -653,11 +668,6 @@
         </item>
         <item>
             <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS3.0.7.0.WOJMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
-            <pubDate>Wed, 09 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 4/POCO X7 Pro (rodin) - OS2.0.201.0.VOJINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rodin/</link>
             <pubDate>Wed, 09 Sep 2026 00:00:00 </pubDate>
         </item>
@@ -987,11 +997,6 @@
             <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 7 Pro (muyu) - OS2.0.204.0.VOYEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/muyu/</link>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K90 Pro Max/POCO F8 Ultra (myron) - OS3.0.13.0.WPMMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/myron/</link>
             <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
@@ -1289,11 +1294,6 @@
         <item>
             <title>Redmi K60 Pro (socrates) - OS3.0.304.0.WMKCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/socrates/</link>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad SE 8.7 4G (spark) - OS3.0.303.0.WHYMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/spark/</link>
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>

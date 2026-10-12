@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2026-08-25'
+  date: '2026-10-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spark/releases/download/stable-25.08.2026/fw_spark_spark_global-ota_full-OS3.0.303.0.WHYMIXM-user-16.0-d5653e724c.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/spark/fw_spark_spark_global-ota_full-OS3.0.303.0.WHYMIXM-user-16.0-d5653e724c.zip
-  filename: fw_spark_spark_global-ota_full-OS3.0.303.0.WHYMIXM-user-16.0-d5653e724c.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spark/releases/download/stable-12.10.2026/fw_spark_spark_global-ota_full-OS3.0.305.0.WHYMIXM-user-16.0-a5e660bc3e.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/spark/fw_spark_spark_global-ota_full-OS3.0.305.0.WHYMIXM-user-16.0-a5e660bc3e.zip
+  filename: fw_spark_spark_global-ota_full-OS3.0.305.0.WHYMIXM-user-16.0-a5e660bc3e.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.303.0.WHYMIXM
+    miui: OS3.0.305.0.WHYMIXM
 - branch: stable
   date: '2026-08-25'
   downloads:
