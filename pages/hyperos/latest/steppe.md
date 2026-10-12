@@ -54,8 +54,8 @@ permalink: /hyperos/steppe/
                 <tbody>
                 <tr><td>Redmi M100 China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.306.0.WAVCNXM</td><td>16.0</td><td>7.2 GB</td><td>2026-09-05</td><td><a href="/hyperos/steppe/stable/OS3.0.306.0.WAVCNXM/">Download</a></td></tr>
 <tr><td>Redmi M100 China</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WAVCNXM</td><td>16.0</td><td>5.3 GB</td><td>2026-09-15</td><td><a href="/hyperos/steppe/stable/OS3.0.306.0.WAVCNXM/">Download</a></td></tr>
-<tr><td>Redmi 17 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.308.0.WAVEUXM</td><td>16.0</td><td>7.5 GB</td><td>2026-08-26</td><td><a href="/hyperos/steppe/stable/OS3.0.308.0.WAVEUXM/">Download</a></td></tr>
-<tr><td>Redmi 17 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.308.0.WAVEUXM</td><td>16.0</td><td>4.9 GB</td><td>2026-09-04</td><td><a href="/hyperos/steppe/stable/OS3.0.308.0.WAVEUXM/">Download</a></td></tr>
+<tr><td>Redmi 17 5G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.309.0.WAVEUXM</td><td>16.0</td><td>7.5 GB</td><td>2026-09-22</td><td><a href="/hyperos/steppe/stable/OS3.0.309.0.WAVEUXM/">Download</a></td></tr>
+<tr><td>Redmi 17 5G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.309.0.WAVEUXM</td><td>16.0</td><td>4.9 GB</td><td>2026-09-28</td><td><a href="/hyperos/steppe/stable/OS3.0.309.0.WAVEUXM/">Download</a></td></tr>
 <tr><td>Redmi 17 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.306.0.WAVEUXM</td><td>16.0</td><td>4.9 GB</td><td>2026-08-24</td><td><a href="/hyperos/steppe/stable beta/OS3.0.306.0.WAVEUXM/">Download</a></td></tr>
 <tr><td>Redmi 17 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.313.0.WAVMIXM</td><td>16.0</td><td>7.9 GB</td><td>2026-09-19</td><td><a href="/hyperos/steppe/stable/OS3.0.313.0.WAVMIXM/">Download</a></td></tr>
 <tr><td>Redmi 17 5G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.313.0.WAVMIXM</td><td>16.0</td><td>4.9 GB</td><td>2026-09-30</td><td><a href="/hyperos/steppe/stable/OS3.0.313.0.WAVMIXM/">Download</a></td></tr>

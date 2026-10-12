@@ -559,6 +559,26 @@
     android: '16.0'
     miui: OS3.0.303.0.WNFEUXM
 - branch: stable
+  date: '2026-10-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-12.10.2026/fw_emerald_emerald_r_eea_global-ota_full-OS3.0.303.0.WFOEUXM-user-16.0-15f8fca0a7.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/emerald/fw_emerald_emerald_r_eea_global-ota_full-OS3.0.303.0.WFOEUXM-user-16.0-15f8fca0a7.zip
+  filename: fw_emerald_emerald_r_eea_global-ota_full-OS3.0.303.0.WFOEUXM-user-16.0-15f8fca0a7.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.303.0.WFOEUXM
+- branch: stable
+  date: '2026-10-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-12.10.2026/fw_emerald_emerald_r_global-ota_full-OS3.0.306.0.WFOMIXM-user-16.0-2c23fa0a2a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/emerald/fw_emerald_emerald_r_global-ota_full-OS3.0.306.0.WFOMIXM-user-16.0-2c23fa0a2a.zip
+  filename: fw_emerald_emerald_r_global-ota_full-OS3.0.306.0.WFOMIXM-user-16.0-2c23fa0a2a.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.306.0.WFOMIXM
+- branch: stable
   date: '2024-06-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_emerald/releases/download/stable-12.06.2024/fw_emerald_miui_EMERALDEEAGlobal_OS1.0.2.0.UNFEUXM_1d3de83f72_14.0.zip

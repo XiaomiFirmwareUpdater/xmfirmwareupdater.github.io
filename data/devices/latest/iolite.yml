@@ -9,15 +9,15 @@
     android: '16.0'
     miui: OS3.0.308.0.WDQMIXM
 - branch: stable
-  date: '2026-09-18'
+  date: '2026-10-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_iolite/releases/download/stable-18.09.2026/fw_iolite_iolite-ota_full-OS3.0.312.0.WDQCNXM-user-16.0-b2856c3daa.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/iolite/fw_iolite_iolite-ota_full-OS3.0.312.0.WDQCNXM-user-16.0-b2856c3daa.zip
-  filename: fw_iolite_iolite-ota_full-OS3.0.312.0.WDQCNXM-user-16.0-b2856c3daa.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_iolite/releases/download/stable-12.10.2026/fw_iolite_iolite-ota_full-OS3.0.313.0.WDQCNXM-user-16.0-c441c843ed.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/iolite/fw_iolite_iolite-ota_full-OS3.0.313.0.WDQCNXM-user-16.0-c441c843ed.zip
+  filename: fw_iolite_iolite-ota_full-OS3.0.313.0.WDQCNXM-user-16.0-c441c843ed.zip
   region: China
   versions:
     android: '16.0'
-    miui: OS3.0.312.0.WDQCNXM
+    miui: OS3.0.313.0.WDQCNXM
 - branch: stable
   date: '2026-09-17'
   downloads:
