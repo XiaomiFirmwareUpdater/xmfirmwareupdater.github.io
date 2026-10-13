@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 12 Oct 2026 23:21:05 </lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 04:56:20 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 12 4G NFC (topaz) - OS2.0.210.0.VMGMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/topaz/</link>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 15C/POCO C85 (dew) - OS3.0.302.0.WBNEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dew/</link>
@@ -1334,11 +1339,6 @@
         <item>
             <title>Redmi Pad 2 (taiko) - OS3.0.303.0.WOVEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 12 4G NFC (topaz) - OS2.0.206.0.VMGMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/topaz/</link>
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
