@@ -1336,6 +1336,18 @@
   download: https://bigota.d.miui.com/OS1.0.11.0.UMFEUXM/fw_aristotle_miui_ARISTOTLEEEAGlobal_OS1.0.11.0.UMFEUXM_76f7916e03_14.0.zip
   name: Xiaomi 13T
   version: OS1.0.11.0.UMFEUXM
+- android: '16.0'
+  codename: aristotle
+  date: '2026-10-13'
+  download: https://bigota.d.miui.com/OS3.0.4.0.WMFEUXM/fw_aristotle_aristotle_eea_global-ota_full-OS3.0.4.0.WMFEUXM-user-16.0-5ad0487e7e.zip
+  name: Xiaomi 13T
+  version: OS3.0.4.0.WMFEUXM
+- android: '16.0'
+  codename: aristotle
+  date: '2026-10-13'
+  download: https://bigota.d.miui.com/OS3.0.6.0.WMFMIXM/fw_aristotle_aristotle_global-ota_full-OS3.0.6.0.WMFMIXM-user-16.0-6fc0de1386.zip
+  name: Xiaomi 13T
+  version: OS3.0.6.0.WMFMIXM
 - android: '15.0'
   codename: aristotle
   date: '2025-08-13'
