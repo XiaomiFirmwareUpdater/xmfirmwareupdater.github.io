@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 14 Oct 2026 17:33:05 </lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 23:14:51 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.10.0.WNLMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
+            <pubDate>Wed, 14 Oct 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 12S (sea) - OS2.0.215.0.VHZMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sea/</link>
@@ -1444,11 +1449,6 @@
         <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.302.0.WNSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi K70E/POCO X6 Pro 5G (duchamp) - OS3.0.9.0.WNLMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/duchamp/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
