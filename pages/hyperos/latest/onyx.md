@@ -54,7 +54,7 @@ permalink: /hyperos/onyx/
                 <tbody>
                 <tr><td>Redmi Turbo 4 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.305.0.WOLCNXM</td><td>16.0</td><td>10.8 GB</td><td>2026-07-13</td><td><a href="/hyperos/onyx/stable/OS3.0.305.0.WOLCNXM/">Download</a></td></tr>
 <tr><td>Redmi Turbo 4 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.305.0.WOLCNXM</td><td>16.0</td><td>8.4 GB</td><td>2026-08-05</td><td><a href="/hyperos/onyx/stable/OS3.0.305.0.WOLCNXM/">Download</a></td></tr>
-<tr><td>Redmi Turbo 4 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.112.0.VOLCNXM</td><td>15.0</td><td>474 Bytes</td><td>None</td><td><a href="/hyperos/onyx/stable beta/OS2.0.112.0.VOLCNXM/">Download</a></td></tr>
+<tr><td>Redmi Turbo 4 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.306.0.WOLCNXM</td><td>16.0</td><td>8.4 GB</td><td>2026-10-11</td><td><a href="/hyperos/onyx/stable beta/OS3.0.306.0.WOLCNXM/">Download</a></td></tr>
 <tr><td>POCO F7 EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WOLEUXM</td><td>16.0</td><td>9.8 GB</td><td>2026-08-26</td><td><a href="/hyperos/onyx/stable/OS3.0.303.0.WOLEUXM/">Download</a></td></tr>
 <tr><td>POCO F7 EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WOLEUXM</td><td>16.0</td><td>7.3 GB</td><td>2026-08-29</td><td><a href="/hyperos/onyx/stable/OS3.0.303.0.WOLEUXM/">Download</a></td></tr>
 <tr><td>POCO F7 Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WOLMIXM</td><td>16.0</td><td>10.9 GB</td><td>2026-07-10</td><td><a href="/hyperos/onyx/stable/OS3.0.303.0.WOLMIXM/">Download</a></td></tr>
