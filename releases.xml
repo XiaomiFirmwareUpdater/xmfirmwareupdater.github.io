@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 13 Oct 2026 19:59:38 </lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 07:07:48 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Xiaomi 13T (aristotle) - OS3.0.6.0.WMFMIXM</title>
@@ -14,6 +14,26 @@
         <item>
             <title>Xiaomi 13T (aristotle) - OS3.0.4.0.WMFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/aristotle/</link>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 14C/17C/A3 Pro/POCO C75 (lake) - OS3.0.307.0.WGTMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lake/</link>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 14C/17C/A3 Pro/POCO C75 (lake) - OS3.0.303.0.WGTEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lake/</link>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - OS3.0.303.0.WMBMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 13 Pro (nuwa) - OS3.0.304.0.WMBINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Tue, 13 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1482,16 +1502,6 @@
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi 14C/17C/A3 Pro/POCO C75 (lake) - OS3.0.306.0.WGTMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lake/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 14C/17C/A3 Pro/POCO C75 (lake) - OS3.0.302.0.WGTEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lake/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 14 Pro 5G/POCO X7 (malachite) - OS3.0.302.0.WOOINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/malachite/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
@@ -1499,16 +1509,6 @@
         <item>
             <title>Redmi Note 17 5G/POCO M8 Power 5G (mist) - OS3.0.311.0.WPUCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/mist/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Pro (nuwa) - OS3.0.302.0.WMBMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 13 Pro (nuwa) - OS3.0.302.0.WMBINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
