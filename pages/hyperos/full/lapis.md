@@ -52,7 +52,8 @@ permalink: /archive/hyperos/lapis/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 15 Pro 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WPPTWXM</td><td>16.0</td><td>6.4 GB</td><td>2026-10-08</td><td><a href="/hyperos/lapis/stable beta/OS3.0.303.0.WPPTWXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 15 Pro 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WPPIDXM</td><td>16.0</td><td>6.5 GB</td><td>2026-10-12</td><td><a href="/hyperos/lapis/stable beta/OS3.0.303.0.WPPIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 15 Pro 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WPPTWXM</td><td>16.0</td><td>6.4 GB</td><td>2026-10-08</td><td><a href="/hyperos/lapis/stable beta/OS3.0.303.0.WPPTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 5G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WPPTRXM</td><td>16.0</td><td>6.5 GB</td><td>2026-10-08</td><td><a href="/hyperos/lapis/stable beta/OS3.0.303.0.WPPTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 5G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.309.0.WPPMIXM</td><td>16.0</td><td>6.7 GB</td><td>2026-09-30</td><td><a href="/hyperos/lapis/stable/OS3.0.309.0.WPPMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 15 Pro 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.309.0.WPPMIXM</td><td>16.0</td><td>10.2 GB</td><td>2026-09-20</td><td><a href="/hyperos/lapis/stable/OS3.0.309.0.WPPMIXM/">Download</a></td></tr>
