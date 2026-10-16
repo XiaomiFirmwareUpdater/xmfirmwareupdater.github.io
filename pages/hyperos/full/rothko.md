@@ -52,7 +52,8 @@ permalink: /archive/hyperos/rothko/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K70 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.308.0.WNNCNXM</td><td>16.0</td><td>7.2 GB</td><td>2026-09-30</td><td><a href="/hyperos/rothko/stable beta/OS3.0.308.0.WNNCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K70 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS3.0.308.0.WNNCNXM</td><td>16.0</td><td>7.2 GB</td><td>2026-09-30</td><td><a href="/hyperos/rothko/stable/OS3.0.308.0.WNNCNXM/">Download</a></td></tr>
+<tr><td>Redmi K70 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.308.0.WNNCNXM</td><td>16.0</td><td>9.1 GB</td><td>2026-09-24</td><td><a href="/hyperos/rothko/stable/OS3.0.308.0.WNNCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WNNMIXM</td><td>16.0</td><td>6.3 GB</td><td>2026-09-20</td><td><a href="/hyperos/rothko/stable/OS3.0.303.0.WNNMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WNNMIXM</td><td>16.0</td><td>8.5 GB</td><td>2026-09-15</td><td><a href="/hyperos/rothko/stable/OS3.0.303.0.WNNMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.305.0.WNNEUXM</td><td>16.0</td><td>6.4 GB</td><td>2026-09-20</td><td><a href="/hyperos/rothko/stable/OS3.0.305.0.WNNEUXM/">Download</a></td></tr>
@@ -71,12 +72,12 @@ permalink: /archive/hyperos/rothko/
 <tr><td>Xiaomi 14T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WNNRUXM</td><td>16.0</td><td>8.5 GB</td><td>2026-07-07</td><td><a href="/hyperos/rothko/stable/OS3.0.302.0.WNNRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Japan</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WNNJPXM</td><td>16.0</td><td>6.7 GB</td><td>2026-07-02</td><td><a href="/hyperos/rothko/stable/OS3.0.3.0.WNNJPXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Japan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WNNJPXM</td><td>16.0</td><td>8.3 GB</td><td>2026-06-17</td><td><a href="/hyperos/rothko/stable/OS3.0.3.0.WNNJPXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WNNMIXM</td><td>16.0</td><td>6.3 GB</td><td>2026-06-30</td><td><a href="/hyperos/rothko/stable/OS3.0.301.0.WNNMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 14T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WNNMIXM</td><td>16.0</td><td>8.6 GB</td><td>2026-06-11</td><td><a href="/hyperos/rothko/stable/OS3.0.301.0.WNNMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro India</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WNNIDXM</td><td>16.0</td><td>6.3 GB</td><td>2026-07-13</td><td><a href="/hyperos/rothko/stable/OS3.0.301.0.WNNIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WNNIDXM</td><td>16.0</td><td>7.8 GB</td><td>2026-06-29</td><td><a href="/hyperos/rothko/stable/OS3.0.301.0.WNNIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WNNTRXM</td><td>16.0</td><td>6.3 GB</td><td>2026-07-06</td><td><a href="/hyperos/rothko/stable/OS3.0.301.0.WNNTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WNNTRXM</td><td>16.0</td><td>7.8 GB</td><td>2026-06-29</td><td><a href="/hyperos/rothko/stable/OS3.0.301.0.WNNTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WNNMIXM</td><td>16.0</td><td>6.3 GB</td><td>2026-06-30</td><td><a href="/hyperos/rothko/stable/OS3.0.301.0.WNNMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 14T Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WNNMIXM</td><td>16.0</td><td>8.6 GB</td><td>2026-06-11</td><td><a href="/hyperos/rothko/stable/OS3.0.301.0.WNNMIXM/">Download</a></td></tr>
 <tr><td>Redmi K70 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WNNCNXM</td><td>16.0</td><td>7.2 GB</td><td>2026-06-17</td><td><a href="/hyperos/rothko/stable/OS3.0.303.0.WNNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K70 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WNNCNXM</td><td>16.0</td><td>9.2 GB</td><td>2026-06-02</td><td><a href="/hyperos/rothko/stable/OS3.0.303.0.WNNCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 14T Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WNNEUXM</td><td>16.0</td><td>6.4 GB</td><td>2026-06-10</td><td><a href="/hyperos/rothko/stable/OS3.0.302.0.WNNEUXM/">Download</a></td></tr>

@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 16 Oct 2026 18:09:47 </lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 21:25:32 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.307.0.WOPMIXM</title>
@@ -14,6 +14,11 @@
         <item>
             <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.304.0.WPLMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dash/</link>
+            <pubDate>Fri, 16 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A3x (klein) - V816.0.5.0.WGSMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/klein/</link>
             <pubDate>Fri, 16 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1499,11 +1504,6 @@
         <item>
             <title>Redmi Pad 2 SE/Pad 2 9.7/POCO Pad C1 (guitar) - OS3.0.303.0.WDNEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/guitar/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A3x (klein) - V816.0.4.0.WGSMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/klein/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
