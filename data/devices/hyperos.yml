@@ -20620,6 +20620,12 @@
   download: https://bigota.d.miui.com/OS1.0.3.0.UNPINXM/fw_peridot_miui_PERIDOTINGlobal_OS1.0.3.0.UNPINXM_f6d628b90b_14.0.zip
   name: Redmi Turbo 3/POCO F6
   version: OS1.0.3.0.UNPINXM
+- android: '16.0'
+  codename: peridot
+  date: '2026-10-16'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WNPEUXM/fw_peridot_peridot_eea_global-ota_full-OS3.0.304.0.WNPEUXM-user-16.0-9474090290.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS3.0.304.0.WNPEUXM
 - android: '15.0'
   codename: peridot
   date: '2026-09-08'
@@ -27712,6 +27718,12 @@
   download: https://bigota.d.miui.com/OS2.0.209.0.VPGEUXM/fw_spinel_spinel_eea_global-ota_full-OS2.0.209.0.VPGEUXM-user-15.0-ac298c6010.zip
   name: Redmi Note 15 4G
   version: OS2.0.209.0.VPGEUXM
+- android: '16.0'
+  codename: spinel
+  date: '2026-10-16'
+  download: https://bigota.d.miui.com/OS3.0.302.0.WPGEUXM/fw_spinel_spinel_eea_global-ota_full-OS3.0.302.0.WPGEUXM-user-16.0-2ac8f2c1a1.zip
+  name: Redmi Note 15 4G
+  version: OS3.0.302.0.WPGEUXM
 - android: '15.0'
   codename: spinel
   date: '2026-01-15'
@@ -27850,6 +27862,12 @@
   download: https://bigota.d.miui.com/OS3.0.3.0.WOUMIXM/fw_spring_spring_global-ota_full-OS3.0.3.0.WOUMIXM-user-16.0-3ab305f537.zip
   name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS3.0.3.0.WOUMIXM
+- android: '16.0'
+  codename: spring
+  date: '2026-10-16'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WOUEUXM/fw_spring_spring_eea_global-ota_full-OS3.0.303.0.WOUEUXM-user-16.0-d0a92c73f1.zip
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
+  version: OS3.0.303.0.WOUEUXM
 - android: '15.0'
   codename: spring
   date: '2025-09-12'

@@ -78269,6 +78269,16 @@
     android: '14.0'
     miui: OS1.0.3.0.UNPINXM
 - branch: stable
+  date: '2026-10-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-16.10.2026/fw_peridot_peridot_eea_global-ota_full-OS3.0.304.0.WNPEUXM-user-16.0-9474090290.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/peridot/fw_peridot_peridot_eea_global-ota_full-OS3.0.304.0.WNPEUXM-user-16.0-9474090290.zip
+  filename: fw_peridot_peridot_eea_global-ota_full-OS3.0.304.0.WNPEUXM-user-16.0-9474090290.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.304.0.WNPEUXM
+- branch: stable
   date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_peridot/releases/download/stable-16.01.2025/fw_peridot_peridot-ota_full-OS2.0.6.0.VNPCNXM-user-15.0-43a8eb035b.zip
@@ -104399,6 +104409,16 @@
     android: '15.0'
     miui: OS2.0.209.0.VPGEUXM
 - branch: stable
+  date: '2026-10-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spinel/releases/download/stable-16.10.2026/fw_spinel_spinel_eea_global-ota_full-OS3.0.302.0.WPGEUXM-user-16.0-2ac8f2c1a1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/spinel/fw_spinel_spinel_eea_global-ota_full-OS3.0.302.0.WPGEUXM-user-16.0-2ac8f2c1a1.zip
+  filename: fw_spinel_spinel_eea_global-ota_full-OS3.0.302.0.WPGEUXM-user-16.0-2ac8f2c1a1.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.302.0.WPGEUXM
+- branch: stable
   date: '2026-01-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spinel/releases/download/stable-16.01.2026/fw_spinel_spinel_eea_global-ota_full-OS2.0.208.0.VPGEUXM-user-15.0-d39e79bdf7.zip
@@ -104628,6 +104648,16 @@
   versions:
     android: '16.0'
     miui: OS3.0.3.0.WOUMIXM
+- branch: stable
+  date: '2026-10-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spring/releases/download/stable-16.10.2026/fw_spring_spring_eea_global-ota_full-OS3.0.303.0.WOUEUXM-user-16.0-d0a92c73f1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/spring/fw_spring_spring_eea_global-ota_full-OS3.0.303.0.WOUEUXM-user-16.0-d0a92c73f1.zip
+  filename: fw_spring_spring_eea_global-ota_full-OS3.0.303.0.WOUEUXM-user-16.0-d0a92c73f1.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.303.0.WOUEUXM
 - branch: stable
   date: '2025-09-12'
   downloads:
