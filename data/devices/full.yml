@@ -2739,6 +2739,16 @@
     android: '14.0'
     miui: OS1.0.23.0.UOPCNXM
 - branch: stable
+  date: '2026-10-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-16.10.2026/fw_amethyst_amethyst_global-ota_full-OS3.0.307.0.WOPMIXM-user-16.0-d1217882c3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/amethyst/fw_amethyst_amethyst_global-ota_full-OS3.0.307.0.WOPMIXM-user-16.0-d1217882c3.zip
+  filename: fw_amethyst_amethyst_global-ota_full-OS3.0.307.0.WOPMIXM-user-16.0-d1217882c3.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.307.0.WOPMIXM
+- branch: stable
   date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_amethyst/releases/download/stable-16.05.2025/fw_amethyst_amethyst-ota_full-OS2.0.11.0.VOPCNXM-user-15.0-76ac62dacf.zip
@@ -27638,6 +27648,16 @@
   versions:
     android: '16.0'
     miui: OS3.0.3.0.WPLMIXM
+- branch: stable
+  date: '2026-10-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dash/releases/download/stable-16.10.2026/fw_dash_dash_global-ota_full-OS3.0.304.0.WPLMIXM-user-16.0-32cb64feec.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/dash/fw_dash_dash_global-ota_full-OS3.0.304.0.WPLMIXM-user-16.0-32cb64feec.zip
+  filename: fw_dash_dash_global-ota_full-OS3.0.304.0.WPLMIXM-user-16.0-32cb64feec.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.304.0.WPLMIXM
 - branch: stable
   date: '2026-09-08'
   downloads:
@@ -54778,6 +54798,16 @@
   versions:
     android: '16.0'
     miui: OS3.0.302.0.WPQCNXM
+- branch: stable
+  date: '2026-10-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_kunzite/releases/download/stable-16.10.2026/fw_kunzite_kunzite_in_global-ota_full-OS3.0.304.0.WPQINXM-user-16.0-9536d4d0a2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/kunzite/fw_kunzite_kunzite_in_global-ota_full-OS3.0.304.0.WPQINXM-user-16.0-9536d4d0a2.zip
+  filename: fw_kunzite_kunzite_in_global-ota_full-OS3.0.304.0.WPQINXM-user-16.0-9536d4d0a2.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.304.0.WPQINXM
 - branch: stable
   date: '2026-09-15'
   downloads:
