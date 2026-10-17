@@ -20626,6 +20626,12 @@
   download: https://bigota.d.miui.com/OS3.0.305.0.WNPCNXM/fw_peridot_peridot-ota_full-OS3.0.305.0.WNPCNXM-user-16.0-f5c2a07bdf.zip
   name: Redmi Turbo 3/POCO F6
   version: OS3.0.305.0.WNPCNXM
+- android: '16.0'
+  codename: peridot
+  date: '2026-10-17'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WNPMIXM/fw_peridot_peridot_global-ota_full-OS3.0.304.0.WNPMIXM-user-16.0-bd882214fd.zip
+  name: Redmi Turbo 3/POCO F6
+  version: OS3.0.304.0.WNPMIXM
 - android: '14.0'
   codename: peridot
   date: '2026-09-08'

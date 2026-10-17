@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 17 Oct 2026 15:02:31 </lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 23:03:52 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Turbo 3/POCO F6 (peridot) - OS3.0.304.0.WNPMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
+            <pubDate>Sat, 17 Oct 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Note 14 Pro+ 5G (amethyst) - OS3.0.307.0.WOPMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/amethyst/</link>
@@ -1144,11 +1149,6 @@
         <item>
             <title>Xiaomi 17 Pro (pandora) - OS3.0.25.0.WBLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pandora/</link>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Turbo 3/POCO F6 (peridot) - OS2.0.208.0.VNPMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
             <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
