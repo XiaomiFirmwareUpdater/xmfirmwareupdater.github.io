@@ -4,11 +4,31 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 19 Oct 2026 07:52:09 </lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 17:05:44 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi K80 Ultra (dali) - OS3.0.307.0.WONCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/dali/</link>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15T (goya) - OS3.0.303.0.WOEMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/goya/</link>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 15T (goya) - OS3.0.311.0.WOEEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/goya/</link>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15T Pro (klimt) - OS3.0.337.0.XOSMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 15T Pro (klimt) - OS3.0.341.0.XOSEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
             <pubDate>Mon, 19 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -567,11 +587,6 @@
             <pubDate>Sun, 20 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 15T Pro (klimt) - OS3.0.339.0.XOSEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
-            <pubDate>Sun, 20 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 13 (sapphire) - OS2.0.213.0.VNGMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sapphire/</link>
             <pubDate>Sun, 20 Sep 2026 00:00:00 </pubDate>
@@ -659,11 +674,6 @@
         <item>
             <title>Redmi Note 15 Pro 4G (charoite) - OS3.0.303.0.WPFEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/charoite/</link>
-            <pubDate>Mon, 14 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15T (goya) - OS3.0.302.0.WOEMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/goya/</link>
             <pubDate>Mon, 14 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -967,11 +977,6 @@
             <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi K80 Ultra (dali) - OS3.0.303.0.WONCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/dali/</link>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.302.0.WPLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dash/</link>
             <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
@@ -1039,11 +1044,6 @@
         <item>
             <title>Redmi Turbo 5/POCO X8 Pro (klee) - OS3.0.303.0.WPJEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/klee/</link>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15T Pro (klimt) - OS3.0.301.0.WOSMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
             <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>

@@ -65,6 +65,7 @@ permalink: /hyperos/arctic/
 <tr><td>Redmi A7 Pro / POCO C81 / C81 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.7.0.WBVRUXM</td><td>16.0</td><td>5.3 GB</td><td>2026-08-04</td><td><a href="/hyperos/arctic/stable/OS3.0.7.0.WBVRUXM/">Download</a></td></tr>
 <tr><td>Redmi A7 Pro / POCO C81 / C81 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WBVTRXM</td><td>16.0</td><td>7.7 GB</td><td>2026-05-18</td><td><a href="/hyperos/arctic/stable/OS3.0.2.0.WBVTRXM/">Download</a></td></tr>
 <tr><td>Redmi A7 Pro / POCO C81 / C81 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WBVTRXM</td><td>16.0</td><td>5.3 GB</td><td>2026-06-23</td><td><a href="/hyperos/arctic/stable/OS3.0.2.0.WBVTRXM/">Download</a></td></tr>
+<tr><td>Redmi A7 Pro / POCO C81 / C81 Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WBVTRXM</td><td>16.0</td><td>5.4 GB</td><td>2026-10-16</td><td><a href="/hyperos/arctic/stable beta/OS3.0.3.0.WBVTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

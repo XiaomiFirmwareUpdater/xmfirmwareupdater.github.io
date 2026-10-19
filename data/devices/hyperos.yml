@@ -5034,6 +5034,12 @@
   version: OS3.0.305.0.WONCNXM
 - android: '16.0'
   codename: dali
+  date: '2026-10-19'
+  download: https://bigota.d.miui.com/OS3.0.307.0.WONCNXM/fw_dali_dali-ota_full-OS3.0.307.0.WONCNXM-user-16.0-c66bae316d.zip
+  name: Redmi K80 Ultra
+  version: OS3.0.307.0.WONCNXM
+- android: '16.0'
+  codename: dali
   date: '2026-09-08'
   download: https://bigota.d.miui.com/OS3.0.7.0.WONCNXM/fw_dali_dali-ota_full-OS3.0.7.0.WONCNXM-user-16.0-a725b61af0.zip
   name: Redmi K80 Ultra
@@ -11418,6 +11424,12 @@
   version: OS3.0.311.0.WOEEUXM
 - android: '16.0'
   codename: goya
+  date: '2026-10-19'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WOEMIXM/fw_goya_goya_global-ota_full-OS3.0.303.0.WOEMIXM-user-16.0-214d266d19.zip
+  name: Xiaomi 15T
+  version: OS3.0.303.0.WOEMIXM
+- android: '16.0'
+  codename: goya
   date: '2026-09-08'
   download: https://bigota.d.miui.com/OS3.0.4.0.WOEEUXM/fw_goya_goya_eea_global-ota_full-OS3.0.4.0.WOEEUXM-user-16.0-d1377fec0c.zip
   name: Xiaomi 15T
@@ -13552,6 +13564,18 @@
   download: https://bigota.d.miui.com/OS3.0.339.0.XOSEUXM/fw_klimt_klimt_eea_global-ota_full-OS3.0.339.0.XOSEUXM-user-17.0-5d27aadeaf.zip
   name: Xiaomi 15T Pro
   version: OS3.0.339.0.XOSEUXM
+- android: '17.0'
+  codename: klimt
+  date: '2026-10-19'
+  download: https://bigota.d.miui.com/OS3.0.341.0.XOSEUXM/fw_klimt_klimt_eea_global-ota_full-OS3.0.341.0.XOSEUXM-user-17.0-4f02e7eecd.zip
+  name: Xiaomi 15T Pro
+  version: OS3.0.341.0.XOSEUXM
+- android: '17.0'
+  codename: klimt
+  date: '2026-10-19'
+  download: https://bigota.d.miui.com/OS3.0.337.0.XOSMIXM/fw_klimt_klimt_global-ota_full-OS3.0.337.0.XOSMIXM-user-17.0-6c9da01403.zip
+  name: Xiaomi 15T Pro
+  version: OS3.0.337.0.XOSMIXM
 - android: '16.0'
   codename: klimt
   date: '2026-09-08'
