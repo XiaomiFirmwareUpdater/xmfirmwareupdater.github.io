@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 19 Oct 2026 01:36:10 </lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 07:52:09 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 15T (goya) - OS3.0.311.0.WOEEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/goya/</link>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Turbo 3/POCO F6 (peridot) - OS3.0.304.0.WNPMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/peridot/</link>
@@ -520,11 +525,6 @@
             <title>Redmi K70/POCO F6 Pro (vermeer) - OS1.0.21.0.UNKCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/vermeer/</link>
             <pubDate>Wed, 23 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 15T (goya) - OS3.0.310.0.WOEEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/goya/</link>
-            <pubDate>Tue, 22 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi K Pad 2 (yili) - OS3.0.312.0.WAKCNXM</title>
