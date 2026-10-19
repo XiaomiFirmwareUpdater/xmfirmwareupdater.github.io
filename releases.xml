@@ -4,7 +4,7 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 19 Oct 2026 17:05:44 </lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 00:34:19 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi K80 Ultra (dali) - OS3.0.307.0.WONCNXM</title>
@@ -29,6 +29,36 @@
         <item>
             <title>Xiaomi 15T Pro (klimt) - OS3.0.341.0.XOSEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/klimt/</link>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad 2 Pro 5G (organ) - OS3.0.303.0.WPXINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/organ/</link>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS3.0.303.0.WNXEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE 8.7 4G (spark) - OS3.0.303.0.WHYEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/spark/</link>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS3.0.305.0.WOZINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/uke/</link>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 9 Pro Max (yingtian) - OS4.0.16.0.XBMCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/yingtian/</link>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 17 4G (zephyr) - OS3.0.311.0.WBUMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/zephyr/</link>
             <pubDate>Mon, 19 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -339,11 +369,6 @@
         <item>
             <title>Xiaomi 13 Pro (nuwa) - OS3.0.312.0.WMBCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/nuwa/</link>
-            <pubDate>Sun, 04 Oct 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 9 Pro Max (yingtian) - OS4.0.15.0.XBMCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/yingtian/</link>
             <pubDate>Sun, 04 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -812,11 +837,6 @@
             <pubDate>Wed, 09 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 7/POCO Pad X1 (uke) - OS2.0.203.0.VOZINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/uke/</link>
-            <pubDate>Wed, 09 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi Pad 7S Pro 12.5 (violin) - OS3.0.302.0.WOTCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/violin/</link>
             <pubDate>Wed, 09 Sep 2026 00:00:00 </pubDate>
@@ -1142,11 +1162,6 @@
             <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Pad 2 Pro 5G (organ) - OS2.0.201.0.VPXINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/organ/</link>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 17 Pro (pandora) - OS3.0.25.0.WBLCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/pandora/</link>
             <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
@@ -1209,11 +1224,6 @@
         <item>
             <title>Redmi A5/A7/POCO C71/C81x (serenity) - A15.0.17.0.VGWEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
-            <pubDate>Mon, 07 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Note 17 4G (zephyr) - OS3.0.310.0.WBUMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/zephyr/</link>
             <pubDate>Mon, 07 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1359,11 +1369,6 @@
         <item>
             <title>Redmi K60 Pro (socrates) - OS3.0.304.0.WMKCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/socrates/</link>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad SE 8.7 4G (spark) - OS3.0.302.0.WHYEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/spark/</link>
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1519,11 +1524,6 @@
         <item>
             <title>Redmi Pad Pro 5G/POCO Pad 5G (ruan) - OS3.0.307.0.WFSCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/ruan/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi Pad 6S Pro 12.4 (sheng) - OS3.0.302.0.WNXEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sheng/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>

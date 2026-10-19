@@ -19954,6 +19954,12 @@
   download: https://bigota.d.miui.com/OS3.0.5.0.WPXEUXM/fw_organ_organ_eea_global-ota_full-OS3.0.5.0.WPXEUXM-user-16.0-f9d1359673.zip
   name: Redmi Pad 2 Pro 5G
   version: OS3.0.5.0.WPXEUXM
+- android: '16.0'
+  codename: organ
+  date: '2026-10-19'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WPXINXM/fw_organ_organ_in_global-ota_full-OS3.0.303.0.WPXINXM-user-16.0-1f67b2189c.zip
+  name: Redmi Pad 2 Pro 5G
+  version: OS3.0.303.0.WPXINXM
 - android: '15.0'
   codename: organ
   date: '2026-09-08'
@@ -26382,6 +26388,12 @@
   version: OS2.0.101.0.VNXMIXM
 - android: '16.0'
   codename: sheng
+  date: '2026-10-19'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WNXEUXM/fw_sheng_sheng_eea_global-ota_full-OS3.0.303.0.WNXEUXM-user-16.0-a57ed8546c.zip
+  name: Xiaomi Pad 6S Pro 12.4
+  version: OS3.0.303.0.WNXEUXM
+- android: '16.0'
+  codename: sheng
   date: '2025-12-17'
   download: https://bigota.d.miui.com/OS3.0.1.0.WNXEUXM/fw_sheng_sheng_eea_global-ota_full-OS3.0.1.0.WNXEUXM-user-16.0-28a13b9900.zip
   name: Xiaomi Pad 6S Pro 12.4
@@ -27520,6 +27532,12 @@
   download: https://bigota.d.miui.com/OS2.0.205.0.VHYMIXM/fw_spark_spark_global-ota_full-OS2.0.205.0.VHYMIXM-user-15.0-624ef979f7.zip
   name: Redmi Pad SE 8.7 4G
   version: OS2.0.205.0.VHYMIXM
+- android: '16.0'
+  codename: spark
+  date: '2026-10-19'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WHYEUXM/fw_spark_spark_eea_global-ota_full-OS3.0.303.0.WHYEUXM-user-16.0-603ef9ffdd.zip
+  name: Redmi Pad SE 8.7 4G
+  version: OS3.0.303.0.WHYEUXM
 - android: '14.0'
   codename: spark
   date: '2024-08-15'
@@ -30288,6 +30306,12 @@
   version: OS3.0.2.0.WOZMIXM
 - android: '16.0'
   codename: uke
+  date: '2026-10-19'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WOZINXM/fw_uke_uke_in_global-ota_full-OS3.0.305.0.WOZINXM-user-16.0-2236909c29.zip
+  name: Xiaomi Pad 7/POCO Pad X1
+  version: OS3.0.305.0.WOZINXM
+- android: '16.0'
+  codename: uke
   date: '2026-09-09'
   download: https://bigota.d.miui.com/OS3.0.302.0.WOZEUXM/fw_uke_uke_eea_global-ota_full-OS3.0.302.0.WOZEUXM-user-16.0-38e116090e.zip
   name: Xiaomi Pad 7/POCO Pad X1
@@ -33006,6 +33030,12 @@
   version: OS4.0.11.0.XBMCNXM
 - android: '17.0'
   codename: yingtian
+  date: '2026-10-19'
+  download: https://bigota.d.miui.com/OS4.0.16.0.XBMCNXM/fw_yingtian_yingtian-ota_full-OS4.0.16.0.XBMCNXM-user-17.0-4215476d07.zip
+  name: Xiaomi Pad 9 Pro Max
+  version: OS4.0.16.0.XBMCNXM
+- android: '17.0'
+  codename: yingtian
   date: '2026-09-07'
   download: https://bigota.d.miui.com/OS4.0.10.0.XBMCNXM/fw_yingtian_yingtian-ota_full-OS4.0.10.0.XBMCNXM-user-17.0-b8fd7d392d.zip
   name: Xiaomi Pad 9 Pro Max
@@ -33592,6 +33622,12 @@
   download: https://bigota.d.miui.com/OS3.0.307.0.WBUEUXM/fw_zephyr_zephyr_eea_global-ota_full-OS3.0.307.0.WBUEUXM-user-16.0-7f5eb76ad9.zip
   name: Redmi Note 17 4G
   version: OS3.0.307.0.WBUEUXM
+- android: '16.0'
+  codename: zephyr
+  date: '2026-10-19'
+  download: https://bigota.d.miui.com/OS3.0.311.0.WBUMIXM/fw_zephyr_zephyr_global-ota_full-OS3.0.311.0.WBUMIXM-user-16.0-7d64d083af.zip
+  name: Redmi Note 17 4G
+  version: OS3.0.311.0.WBUMIXM
 - android: '16.0'
   codename: zephyr
   date: '2026-09-07'

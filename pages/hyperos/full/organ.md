@@ -52,7 +52,8 @@ permalink: /archive/hyperos/organ/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad 2 Pro 5G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WPXMIXM</td><td>16.0</td><td>5.2 GB</td><td>2026-10-09</td><td><a href="/hyperos/organ/stable/OS3.0.304.0.WPXMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad 2 Pro 5G India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WPXINXM</td><td>16.0</td><td>4.9 GB</td><td>2026-10-16</td><td><a href="/hyperos/organ/stable beta/OS3.0.303.0.WPXINXM/">Download</a></td></tr>
+<tr><td>Redmi Pad 2 Pro 5G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WPXMIXM</td><td>16.0</td><td>5.2 GB</td><td>2026-10-09</td><td><a href="/hyperos/organ/stable/OS3.0.304.0.WPXMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Pro 5G Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WPXMIXM</td><td>16.0</td><td>7.0 GB</td><td>2026-09-20</td><td><a href="/hyperos/organ/stable/OS3.0.304.0.WPXMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Pro 5G Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WPXRUXM</td><td>16.0</td><td>5.0 GB</td><td>2026-08-31</td><td><a href="/hyperos/organ/stable/OS3.0.302.0.WPXRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad 2 Pro 5G Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WPXRUXM</td><td>16.0</td><td>7.2 GB</td><td>2026-08-19</td><td><a href="/hyperos/organ/stable/OS3.0.302.0.WPXRUXM/">Download</a></td></tr>
