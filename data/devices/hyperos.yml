@@ -8434,6 +8434,12 @@
   download: https://bigota.d.miui.com/OS2.0.4.0.VGUCNXM/fw_flame_flame-ota_full-OS2.0.4.0.VGUCNXM-user-15.0-4584432072.zip
   name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
   version: OS2.0.4.0.VGUCNXM
+- android: '16.0'
+  codename: flame
+  date: '2026-10-21'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WGUINXM/fw_flame_flame_in_global-ota_full-OS3.0.303.0.WGUINXM-user-16.0-84abbbbb38.zip
+  name: Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G
+  version: OS3.0.303.0.WGUINXM
 - android: '14.0'
   codename: flame
   date: '2025-04-21'
@@ -8632,6 +8638,12 @@
   download: https://bigota.d.miui.com/OS3.0.3.0.WHXEUXM/fw_flare_flare_eea_global-ota_full-OS3.0.3.0.WHXEUXM-user-16.0-2006ff8572.zip
   name: Redmi Pad SE 8.7 5G
   version: OS3.0.3.0.WHXEUXM
+- android: '16.0'
+  codename: flare
+  date: '2026-10-21'
+  download: https://bigota.d.miui.com/OS3.0.303.0.WHXIDXM/fw_flare_flare_id_global-ota_full-OS3.0.303.0.WHXIDXM-user-16.0-7e779b2715.zip
+  name: Redmi Pad SE 8.7 5G
+  version: OS3.0.303.0.WHXIDXM
 - android: '15.0'
   codename: flare
   date: '2025-04-21'

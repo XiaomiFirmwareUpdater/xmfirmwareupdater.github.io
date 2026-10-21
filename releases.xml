@@ -4,11 +4,21 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 21 Oct 2026 12:37:11 </lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 14:23:19 </lastBuildDate>
         <language>en-us</language>
         <item>
             <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.304.0.WPLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dash/</link>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS3.0.303.0.WGUINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flame/</link>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Pad SE 8.7 5G (flare) - OS3.0.303.0.WHXIDXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
             <pubDate>Wed, 21 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -1479,16 +1489,6 @@
         <item>
             <title>Redmi Pad Pro/POCO Pad (dizi) - OS3.0.302.0.WNSINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dizi/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 14R 5G/Redmi 14C 5G/POCO M7 5G (flame) - OS3.0.302.0.WGUINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flame/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad SE 8.7 5G (flare) - OS3.0.302.0.WHXIDXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flare/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
