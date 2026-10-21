@@ -52,7 +52,8 @@ permalink: /archive/hyperos/nezha/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 17 Ultra India</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.335.0.XPAINXM</td><td>17.0</td><td>9.2 GB</td><td>2026-10-12</td><td><a href="/hyperos/nezha/stable beta/OS3.0.335.0.XPAINXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 17 Ultra India</td><td>Stable</td><td>Recovery</td><td>OS3.0.335.0.XPAINXM</td><td>17.0</td><td>9.2 GB</td><td>2026-10-12</td><td><a href="/hyperos/nezha/stable/OS3.0.335.0.XPAINXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 Ultra India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.335.0.XPAINXM</td><td>17.0</td><td>10.3 GB</td><td>2026-09-29</td><td><a href="/hyperos/nezha/stable/OS3.0.335.0.XPAINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Ultra EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.337.0.XPAEUXM</td><td>17.0</td><td>9.6 GB</td><td>2026-10-12</td><td><a href="/hyperos/nezha/stable beta/OS3.0.337.0.XPAEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Ultra Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.337.0.XPAMIXM</td><td>17.0</td><td>9.4 GB</td><td>2026-09-29</td><td><a href="/hyperos/nezha/stable/OS3.0.337.0.XPAMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Ultra Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.337.0.XPAMIXM</td><td>17.0</td><td>12.1 GB</td><td>2026-09-22</td><td><a href="/hyperos/nezha/stable/OS3.0.337.0.XPAMIXM/">Download</a></td></tr>
