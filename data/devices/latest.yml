@@ -3589,15 +3589,15 @@
     android: '16.0'
     miui: OS3.0.307.0.WDTEUXM
 - branch: stable
-  date: '2026-10-04'
+  date: '2026-10-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lhasa/releases/download/stable-04.10.2026/fw_lhasa_lhasa-ota_full-OS4.0.21.0.XPNCNXM-user-17.0-053d748570.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/lhasa/fw_lhasa_lhasa-ota_full-OS4.0.21.0.XPNCNXM-user-17.0-053d748570.zip
-  filename: fw_lhasa_lhasa-ota_full-OS4.0.21.0.XPNCNXM-user-17.0-053d748570.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lhasa/releases/download/stable-22.10.2026/fw_lhasa_lhasa-ota_full-OS4.0.26.0.XPNCNXM-user-17.0-dc0a3ddfb3.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/lhasa/fw_lhasa_lhasa-ota_full-OS4.0.26.0.XPNCNXM-user-17.0-dc0a3ddfb3.zip
+  filename: fw_lhasa_lhasa-ota_full-OS4.0.26.0.XPNCNXM-user-17.0-dc0a3ddfb3.zip
   region: China
   versions:
     android: '17.0'
-    miui: OS4.0.21.0.XPNCNXM
+    miui: OS4.0.26.0.XPNCNXM
 - branch: stable
   date: '2018-11-07'
   downloads:
@@ -6299,15 +6299,15 @@
     android: '15.0'
     miui: A15.0.18.0.VGWEUXM
 - branch: stable
-  date: '2026-09-04'
+  date: '2026-10-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_serenity/releases/download/stable-04.09.2026/fw_serenity_miui_SERENITYINGlobal_A15.0.20.0.VGWINXM_968dc6fd15_15.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/A15/serenity/fw_serenity_miui_SERENITYINGlobal_A15.0.20.0.VGWINXM_968dc6fd15_15.0.zip
-  filename: fw_serenity_miui_SERENITYINGlobal_A15.0.20.0.VGWINXM_968dc6fd15_15.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_serenity/releases/download/stable-22.10.2026/fw_serenity_miui_SERENITYINGlobal_A15.0.21.0.VGWINXM_baa5a590c9_15.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/A15/serenity/fw_serenity_miui_SERENITYINGlobal_A15.0.21.0.VGWINXM_baa5a590c9_15.0.zip
+  filename: fw_serenity_miui_SERENITYINGlobal_A15.0.21.0.VGWINXM_baa5a590c9_15.0.zip
   region: India
   versions:
     android: '15.0'
-    miui: A15.0.20.0.VGWINXM
+    miui: A15.0.21.0.VGWINXM
 - branch: stable
   date: '2026-09-29'
   downloads:
@@ -7669,15 +7669,15 @@
     android: '16.0'
     miui: OS3.0.309.0.WPSEUXM
 - branch: stable
-  date: '2026-08-25'
+  date: '2026-10-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warm/releases/download/stable-25.08.2026/fw_warm_warm_in_global-ota_full-OS3.0.303.0.WGVINXM-user-16.0-f3a058cc33.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/warm/fw_warm_warm_in_global-ota_full-OS3.0.303.0.WGVINXM-user-16.0-f3a058cc33.zip
-  filename: fw_warm_warm_in_global-ota_full-OS3.0.303.0.WGVINXM-user-16.0-f3a058cc33.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warm/releases/download/stable-22.10.2026/fw_warm_warm_in_global-ota_full-OS3.0.305.0.WGVINXM-user-16.0-08df763f8a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/warm/fw_warm_warm_in_global-ota_full-OS3.0.305.0.WGVINXM-user-16.0-08df763f8a.zip
+  filename: fw_warm_warm_in_global-ota_full-OS3.0.305.0.WGVINXM-user-16.0-08df763f8a.zip
   region: India
   versions:
     android: '16.0'
-    miui: OS3.0.303.0.WGVINXM
+    miui: OS3.0.305.0.WGVINXM
 - branch: stable
   date: '2026-09-09'
   downloads:

@@ -14544,6 +14544,12 @@
   version: OS4.0.18.0.XPNCNXM
 - android: '17.0'
   codename: lhasa
+  date: '2026-10-22'
+  download: https://bigota.d.miui.com/OS4.0.26.0.XPNCNXM/fw_lhasa_lhasa-ota_full-OS4.0.26.0.XPNCNXM-user-17.0-dc0a3ddfb3.zip
+  name: Xiaomi 18 Fold
+  version: OS4.0.26.0.XPNCNXM
+- android: '17.0'
+  codename: lhasa
   date: '2026-09-20'
   download: https://bigota.d.miui.com/OS4.0.15.0.XPNCNXM/fw_lhasa_lhasa-ota_full-OS4.0.15.0.XPNCNXM-user-17.0-f8c7bf6067.zip
   name: Xiaomi 18 Fold
@@ -31996,6 +32002,12 @@
   download: https://bigota.d.miui.com/OS3.0.3.0.WGVINXM/fw_warm_warm_in_global-ota_full-OS3.0.3.0.WGVINXM-user-16.0-3277b98da9.zip
   name: Redmi A4 5G/POCO C75 5G
   version: OS3.0.3.0.WGVINXM
+- android: '16.0'
+  codename: warm
+  date: '2026-10-22'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WGVINXM/fw_warm_warm_in_global-ota_full-OS3.0.305.0.WGVINXM-user-16.0-08df763f8a.zip
+  name: Redmi A4 5G/POCO C75 5G
+  version: OS3.0.305.0.WGVINXM
 - android: '15.0'
   codename: warm
   date: '2025-07-21'

@@ -4,11 +4,26 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 22 Oct 2026 13:46:15 </lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 23:01:50 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Xiaomi 18 Fold (lhasa) - OS4.0.26.0.XPNCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/lhasa/</link>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi A5/A7/POCO C71/C81x (serenity) - A15.0.18.0.VGWEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A5/A7/POCO C71/C81x (serenity) - A15.0.21.0.VGWINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi A4 5G/POCO C75 5G (warm) - OS3.0.305.0.WGVINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/warm/</link>
             <pubDate>Thu, 22 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
@@ -425,11 +440,6 @@
             <title>Redmi Pad 2 SE 4G (erhu) - OS3.0.305.0.WDOMIXM</title>
             <link>https://xmfirmwareupdater.com/firmware/erhu/</link>
             <pubDate>Mon, 05 Oct 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 18 Fold (lhasa) - OS4.0.21.0.XPNCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/lhasa/</link>
-            <pubDate>Sun, 04 Oct 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Xiaomi 13 Pro (nuwa) - OS3.0.312.0.WMBCNXM</title>
@@ -1267,11 +1277,6 @@
             <pubDate>Fri, 04 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi A5/A7/POCO C71/C81x (serenity) - A15.0.20.0.VGWINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
-            <pubDate>Fri, 04 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Pad 2 (taiko) - OS3.0.302.0.WOVINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
             <pubDate>Fri, 04 Sep 2026 00:00:00 </pubDate>
@@ -1419,11 +1424,6 @@
         <item>
             <title>Redmi Pad 2 (taiko) - OS3.0.303.0.WOVEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/taiko/</link>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A4 5G/POCO C75 5G (warm) - OS3.0.303.0.WGVINXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/warm/</link>
             <pubDate>Tue, 25 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
