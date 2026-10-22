@@ -4,8 +4,18 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 21 Oct 2026 19:44:18 </lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 06:06:44 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi A5/A7/POCO C71/C81x (serenity) - A15.0.18.0.VGWEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17T (chagall) - OS3.0.308.0.WPTMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Turbo 5 Max/POCO X8 Pro Max (dash) - OS3.0.304.0.WPLEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/dash/</link>
@@ -1007,11 +1017,6 @@
             <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi 17T (chagall) - OS3.0.306.0.WPTMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Xiaomi 17T (chagall) - OS3.0.315.0.WPTEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/chagall/</link>
             <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
@@ -1249,11 +1254,6 @@
         <item>
             <title>Xiaomi 13 (fuxi) - OS3.0.303.0.WMCEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/fuxi/</link>
-            <pubDate>Mon, 07 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi A5/A7/POCO C71/C81x (serenity) - A15.0.17.0.VGWEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/serenity/</link>
             <pubDate>Mon, 07 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>

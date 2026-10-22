@@ -3066,6 +3066,12 @@
   version: OS3.0.304.0.WPTINXM
 - android: '16.0'
   codename: chagall
+  date: '2026-10-21'
+  download: https://bigota.d.miui.com/OS3.0.308.0.WPTMIXM/fw_chagall_chagall_global-ota_full-OS3.0.308.0.WPTMIXM-user-16.0-caa9c6f6e2.zip
+  name: Xiaomi 17T
+  version: OS3.0.308.0.WPTMIXM
+- android: '16.0'
+  codename: chagall
   date: '2026-09-11'
   download: https://bigota.d.miui.com/OS3.0.305.0.WPTINXM/fw_chagall_chagall_in_global-ota_full-OS3.0.305.0.WPTINXM-user-16.0-2381e217c8.zip
   name: Xiaomi 17T

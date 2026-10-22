@@ -1059,15 +1059,15 @@
     android: '11.0'
     miui: 22.3.2
 - branch: stable
-  date: '2026-09-08'
+  date: '2026-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chagall/releases/download/stable-24.08.2026/fw_chagall_chagall_global-ota_full-OS3.0.306.0.WPTMIXM-user-16.0-08bb195663.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chagall/fw_chagall_chagall_global-ota_full-OS3.0.306.0.WPTMIXM-user-16.0-08bb195663.zip
-  filename: fw_chagall_chagall_global-ota_full-OS3.0.306.0.WPTMIXM-user-16.0-08bb195663.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chagall/releases/download/stable-22.10.2026/fw_chagall_chagall_global-ota_full-OS3.0.308.0.WPTMIXM-user-16.0-caa9c6f6e2.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/chagall/fw_chagall_chagall_global-ota_full-OS3.0.308.0.WPTMIXM-user-16.0-caa9c6f6e2.zip
+  filename: fw_chagall_chagall_global-ota_full-OS3.0.308.0.WPTMIXM-user-16.0-caa9c6f6e2.zip
   region: Global
   versions:
     android: '16.0'
-    miui: OS3.0.306.0.WPTMIXM
+    miui: OS3.0.308.0.WPTMIXM
 - branch: stable
   date: '2026-09-28'
   downloads:
@@ -6289,15 +6289,15 @@
     android: '15.0'
     miui: A15.0.32.0.VGWMIXM
 - branch: stable
-  date: '2026-09-07'
+  date: '2026-10-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_serenity/releases/download/stable-07.09.2026/fw_serenity_miui_SERENITYEEAGlobal_A15.0.17.0.VGWEUXM_54263ecb2e_15.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/A15/serenity/fw_serenity_miui_SERENITYEEAGlobal_A15.0.17.0.VGWEUXM_54263ecb2e_15.0.zip
-  filename: fw_serenity_miui_SERENITYEEAGlobal_A15.0.17.0.VGWEUXM_54263ecb2e_15.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_serenity/releases/download/stable-22.10.2026/fw_serenity_miui_SERENITYEEAGlobal_A15.0.18.0.VGWEUXM_d8fa3d89b3_15.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/A15/serenity/fw_serenity_miui_SERENITYEEAGlobal_A15.0.18.0.VGWEUXM_d8fa3d89b3_15.0.zip
+  filename: fw_serenity_miui_SERENITYEEAGlobal_A15.0.18.0.VGWEUXM_d8fa3d89b3_15.0.zip
   region: Europe
   versions:
     android: '15.0'
-    miui: A15.0.17.0.VGWEUXM
+    miui: A15.0.18.0.VGWEUXM
 - branch: stable
   date: '2026-09-04'
   downloads:
