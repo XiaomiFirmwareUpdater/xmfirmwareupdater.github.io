@@ -52,8 +52,10 @@ permalink: /archive/hyperos/warhol/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 17T Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.307.0.WPSRUXM</td><td>16.0</td><td>7.5 GB</td><td>2026-10-15</td><td><a href="/hyperos/warhol/stable beta/OS3.0.307.0.WPSRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 17T Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.306.0.WPSTRXM</td><td>16.0</td><td>7.6 GB</td><td>2026-10-15</td><td><a href="/hyperos/warhol/stable beta/OS3.0.306.0.WPSTRXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 17T Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.307.0.WPSRUXM</td><td>16.0</td><td>7.5 GB</td><td>2026-10-15</td><td><a href="/hyperos/warhol/stable/OS3.0.307.0.WPSRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.307.0.WPSRUXM</td><td>16.0</td><td>12.2 GB</td><td>2026-10-08</td><td><a href="/hyperos/warhol/stable/OS3.0.307.0.WPSRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WPSTRXM</td><td>16.0</td><td>7.6 GB</td><td>2026-10-15</td><td><a href="/hyperos/warhol/stable/OS3.0.306.0.WPSTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17T Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>OS3.0.306.0.WPSTRXM</td><td>16.0</td><td>10.1 GB</td><td>2026-10-08</td><td><a href="/hyperos/warhol/stable/OS3.0.306.0.WPSTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.306.0.WPSTWXM</td><td>16.0</td><td>7.5 GB</td><td>2026-09-24</td><td><a href="/hyperos/warhol/stable/OS3.0.306.0.WPSTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.306.0.WPSTWXM</td><td>16.0</td><td>9.1 GB</td><td>2026-09-20</td><td><a href="/hyperos/warhol/stable/OS3.0.306.0.WPSTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17T Pro Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.311.0.WPSMIXM</td><td>16.0</td><td>7.7 GB</td><td>2026-09-24</td><td><a href="/hyperos/warhol/stable/OS3.0.311.0.WPSMIXM/">Download</a></td></tr>
