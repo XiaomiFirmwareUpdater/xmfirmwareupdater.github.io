@@ -17446,6 +17446,12 @@
   download: https://bigota.d.miui.com/OS2.0.6.0.VNTMIXM/fw_moon_global_moon_global-ota_full-OS2.0.6.0.VNTMIXM-user-15.0-f791dd7af6.zip
   name: Redmi 13/POCO M6
   version: OS2.0.6.0.VNTMIXM
+- android: '16.0'
+  codename: moon
+  date: '2026-10-23'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WNTEUXM/fw_moon_moon_eea_global-ota_full-OS3.0.304.0.WNTEUXM-user-16.0-34276aeceb.zip
+  name: Redmi 13/POCO M6
+  version: OS3.0.304.0.WNTEUXM
 - android: '14.0'
   codename: moon
   date: '2025-05-23'

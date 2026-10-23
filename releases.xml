@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 23 Oct 2026 01:52:20 </lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 10:45:12 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi 13/POCO M6 (moon) - OS3.0.304.0.WNTEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/moon/</link>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Xiaomi 18 Fold (lhasa) - OS4.0.26.0.XPNCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/lhasa/</link>
@@ -263,11 +268,6 @@
         </item>
         <item>
             <title>Redmi 13/POCO M6 (moon) - OS3.0.304.0.WNTMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/moon/</link>
-            <pubDate>Mon, 12 Oct 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 13/POCO M6 (moon) - OS3.0.303.0.WNTEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moon/</link>
             <pubDate>Mon, 12 Oct 2026 00:00:00 </pubDate>
         </item>

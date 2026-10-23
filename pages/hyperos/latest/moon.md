@@ -54,6 +54,7 @@ permalink: /hyperos/moon/
                 <tbody>
                 <tr><td>Redmi 13 / POCO M6 EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WNTEUXM</td><td>16.0</td><td>7.1 GB</td><td>2026-09-20</td><td><a href="/hyperos/moon/stable/OS3.0.303.0.WNTEUXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WNTEUXM</td><td>16.0</td><td>5.0 GB</td><td>2026-10-08</td><td><a href="/hyperos/moon/stable/OS3.0.303.0.WNTEUXM/">Download</a></td></tr>
+<tr><td>Redmi 13 / POCO M6 EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.304.0.WNTEUXM</td><td>16.0</td><td>5.0 GB</td><td>2026-10-20</td><td><a href="/hyperos/moon/stable beta/OS3.0.304.0.WNTEUXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WNTMIXM</td><td>16.0</td><td>7.9 GB</td><td>2026-09-20</td><td><a href="/hyperos/moon/stable/OS3.0.304.0.WNTMIXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WNTMIXM</td><td>16.0</td><td>4.9 GB</td><td>2026-10-08</td><td><a href="/hyperos/moon/stable/OS3.0.304.0.WNTMIXM/">Download</a></td></tr>
 <tr><td>Redmi 13 / POCO M6 Global</td><td>Stable Beta</td><td>Recovery</td><td>OS2.0.2.0.VNTMIXM</td><td>15.0</td><td>4.5 GB</td><td>2024-12-10</td><td><a href="/hyperos/moon/stable beta/OS2.0.2.0.VNTMIXM/">Download</a></td></tr>
