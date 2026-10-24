@@ -52,7 +52,10 @@ permalink: /archive/hyperos/athens/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F9 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WPIRUXM</td><td>16.0</td><td>8.5 GB</td><td>2026-09-21</td><td><a href="/hyperos/athens/stable/OS3.0.304.0.WPIRUXM/">Download</a></td></tr>
+                <tr><td>Redmi K100 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS4.0.5.0.XPICNXM</td><td>17.0</td><td>9.9 GB</td><td>2026-10-23</td><td><a href="/hyperos/athens/stable beta/OS4.0.5.0.XPICNXM/">Download</a></td></tr>
+<tr><td>Redmi K100 Pro China</td><td>Stable</td><td>Recovery</td><td>OS4.0.4.0.XPICNXM</td><td>17.0</td><td>9.9 GB</td><td>2026-10-17</td><td><a href="/hyperos/athens/stable/OS4.0.4.0.XPICNXM/">Download</a></td></tr>
+<tr><td>Redmi K100 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.4.0.XPICNXM</td><td>17.0</td><td>12.8 GB</td><td>2026-10-15</td><td><a href="/hyperos/athens/stable/OS4.0.4.0.XPICNXM/">Download</a></td></tr>
+<tr><td>POCO F9 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WPIRUXM</td><td>16.0</td><td>8.5 GB</td><td>2026-09-21</td><td><a href="/hyperos/athens/stable/OS3.0.304.0.WPIRUXM/">Download</a></td></tr>
 <tr><td>POCO F9 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WPIRUXM</td><td>16.0</td><td>11.0 GB</td><td>2026-09-11</td><td><a href="/hyperos/athens/stable/OS3.0.304.0.WPIRUXM/">Download</a></td></tr>
 <tr><td>POCO F9 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.304.0.WPITWXM</td><td>16.0</td><td>8.5 GB</td><td>2026-09-21</td><td><a href="/hyperos/athens/stable/OS3.0.304.0.WPITWXM/">Download</a></td></tr>
 <tr><td>POCO F9 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WPITWXM</td><td>16.0</td><td>9.5 GB</td><td>2026-09-11</td><td><a href="/hyperos/athens/stable/OS3.0.304.0.WPITWXM/">Download</a></td></tr>
@@ -74,8 +77,6 @@ permalink: /archive/hyperos/athens/
 <tr><td>POCO F9 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WPIEUXM</td><td>16.0</td><td>10.0 GB</td><td>2026-07-29</td><td><a href="/hyperos/athens/stable/OS3.0.304.0.WPIEUXM/">Download</a></td></tr>
 <tr><td>POCO F9 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WPIIDXM</td><td>16.0</td><td>8.5 GB</td><td>2026-09-01</td><td><a href="/hyperos/athens/stable/OS3.0.301.0.WPIIDXM/">Download</a></td></tr>
 <tr><td>POCO F9 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WPIIDXM</td><td>16.0</td><td>10.2 GB</td><td>2026-08-01</td><td><a href="/hyperos/athens/stable/OS3.0.301.0.WPIIDXM/">Download</a></td></tr>
-<tr><td>Redmi K100 Pro China</td><td>Stable</td><td>Recovery</td><td>OS4.0.4.0.XPICNXM</td><td>17.0</td><td>9.9 GB</td><td>2026-10-17</td><td><a href="/hyperos/athens/stable/OS4.0.4.0.XPICNXM/">Download</a></td></tr>
-<tr><td>Redmi K100 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.4.0.XPICNXM</td><td>17.0</td><td>12.8 GB</td><td>2026-10-15</td><td><a href="/hyperos/athens/stable/OS4.0.4.0.XPICNXM/">Download</a></td></tr>
 <tr><td>POCO F9 Pro Russia</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WPIRUXM</td><td>16.0</td><td>8.4 GB</td><td>2026-09-01</td><td><a href="/hyperos/athens/stable/OS3.0.301.0.WPIRUXM/">Download</a></td></tr>
 <tr><td>POCO F9 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>OS3.0.301.0.WPIRUXM</td><td>16.0</td><td>10.9 GB</td><td>2026-07-31</td><td><a href="/hyperos/athens/stable/OS3.0.301.0.WPIRUXM/">Download</a></td></tr>
 <tr><td>POCO F9 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>OS3.0.301.0.WPITRXM</td><td>16.0</td><td>8.5 GB</td><td>2026-09-01</td><td><a href="/hyperos/athens/stable/OS3.0.301.0.WPITRXM/">Download</a></td></tr>
