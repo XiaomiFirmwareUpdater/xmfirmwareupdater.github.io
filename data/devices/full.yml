@@ -41629,6 +41629,16 @@
     android: '15.0'
     miui: OS2.0.9.0.VNRMIXM
 - branch: stable
+  date: '2026-10-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-26.10.2026/fw_garnet_garnet_global-ota_full-OS3.0.304.0.WNRMIXM-user-16.0-95e753c09d.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/garnet/fw_garnet_garnet_global-ota_full-OS3.0.304.0.WNRMIXM-user-16.0-95e753c09d.zip
+  filename: fw_garnet_garnet_global-ota_full-OS3.0.304.0.WNRMIXM-user-16.0-95e753c09d.zip
+  region: Global
+  versions:
+    android: '16.0'
+    miui: OS3.0.304.0.WNRMIXM
+- branch: stable
   date: '2025-09-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-26.09.2025/fw_garnet_eea_global_garnet_eea_global-ota_full-OS2.0.202.0.VNREUXM-user-15.0-e746be95d4.zip
@@ -53159,6 +53169,16 @@
     android: '16.0'
     miui: OS3.0.4.0.WOXCNXM
 - branch: stable
+  date: '2026-10-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_jinghu/releases/download/stable-26.10.2026/fw_jinghu_jinghu-ota_full-OS3.0.306.0.WOXCNXM-user-16.0-a16a319b22.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/jinghu/fw_jinghu_jinghu-ota_full-OS3.0.306.0.WOXCNXM-user-16.0-a16a319b22.zip
+  filename: fw_jinghu_jinghu-ota_full-OS3.0.306.0.WOXCNXM-user-16.0-a16a319b22.zip
+  region: China
+  versions:
+    android: '16.0'
+    miui: OS3.0.306.0.WOXCNXM
+- branch: stable
   date: '2026-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_jinghu/releases/download/stable-25.08.2026/fw_jinghu_jinghu-ota_full-OS3.0.302.0.WOXCNXM-user-16.0-273fdb14ca.zip
@@ -56138,6 +56158,16 @@
   versions:
     android: '16.0'
     miui: OS3.0.305.0.WPPMIXM
+- branch: stable
+  date: '2026-10-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lapis/releases/download/stable-26.10.2026/fw_lapis_lapis_in_global-ota_full-OS3.0.305.0.WPPINXM-user-16.0-615c68277a.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/lapis/fw_lapis_lapis_in_global-ota_full-OS3.0.305.0.WPPINXM-user-16.0-615c68277a.zip
+  filename: fw_lapis_lapis_in_global-ota_full-OS3.0.305.0.WPPINXM-user-16.0-615c68277a.zip
+  region: India
+  versions:
+    android: '16.0'
+    miui: OS3.0.305.0.WPPINXM
 - branch: stable
   date: '2026-03-25'
   downloads:
@@ -94989,6 +95019,16 @@
     android: '14.0'
     miui: OS1.0.13.0.UMOINXM
 - branch: stable
+  date: '2026-10-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-26.10.2026/fw_ruby_ruby_in_global-ota_full-OS2.0.16.0.UMOINXM-user-14.0-d849971979.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS2/ruby/fw_ruby_ruby_in_global-ota_full-OS2.0.16.0.UMOINXM-user-14.0-d849971979.zip
+  filename: fw_ruby_ruby_in_global-ota_full-OS2.0.16.0.UMOINXM-user-14.0-d849971979.zip
+  region: India
+  versions:
+    android: '14.0'
+    miui: OS2.0.16.0.UMOINXM
+- branch: stable
   date: '2026-02-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-26.02.2026/fw_ruby_ruby_eea_global-ota_full-OS2.0.13.0.UMOEUXM-user-14.0-96186fcecc.zip
@@ -101708,6 +101748,16 @@
   versions:
     android: '11.0'
     miui: V12.5.7.0.RJRINXM
+- branch: stable
+  date: '2026-10-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shuntian/releases/download/stable-26.10.2026/fw_shuntian_shuntian-ota_full-OS4.0.9.0.XFPCNXM-user-17.0-6312ae8075.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS4/shuntian/fw_shuntian_shuntian-ota_full-OS4.0.9.0.XFPCNXM-user-17.0-6312ae8075.zip
+  filename: fw_shuntian_shuntian-ota_full-OS4.0.9.0.XFPCNXM-user-17.0-6312ae8075.zip
+  region: China
+  versions:
+    android: '17.0'
+    miui: OS4.0.9.0.XFPCNXM
 - branch: stable
   date: '2026-09-23'
   downloads:

@@ -3,7 +3,7 @@ title: Redmi K100 Pro China HyperOS OS4.0.5.0.XPICNXM Update
 layout: download
 name: Redmi K100 Pro China
 codename: athens
-permalink: /hyperos/athens/stable beta/OS4.0.5.0.XPICNXM/
+permalink: /hyperos/athens/stable/OS4.0.5.0.XPICNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/athens/stable beta/OS4.0.5.0.XPICNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS4.0.5.0.XPICNXM Stable Beta Official Update for Redmi K100 Pro China (athens)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS4.0.5.0.XPICNXM Stable Official Update for Redmi K100 Pro China (athens)</h3>
     <h5>This page shows the OS4.0.5.0.XPICNXM update only. If you're looking for other updates check
         <a href="/hyperos/athens/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/athens/stable beta/OS4.0.5.0.XPICNXM/
                     <h5><b>Version: </b>OS4.0.5.0.XPICNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/athens/stable beta/OS4.0.5.0.XPICNXM/
                             aria-expanded="false" aria-controls="athens_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="athens_1_changelog">
+                        <p id="changelog_text"></p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi K100 Pro China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/athens/" target="_blank">athens</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS4.0.5.0.XPICNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>12.8 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2026-10-21</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">athens_images_OS4.0.5.0.XPICNXM_20261021.0000.00_17.0_cn_7c6698a70e.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">7c6698a70eb1752a491f4c568ca2c063</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS4.0.5.0.XPICNXM/athens_images_OS4.0.5.0.XPICNXM_20261021.0000.00_17.0_cn_7c6698a70e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS4.0.5.0.XPICNXM/athens_images_OS4.0.5.0.XPICNXM_20261021.0000.00_17.0_cn_7c6698a70e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS4.0.5.0.XPICNXM/athens_images_OS4.0.5.0.XPICNXM_20261021.0000.00_17.0_cn_7c6698a70e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS4.0.5.0.XPICNXM/athens_images_OS4.0.5.0.XPICNXM_20261021.0000.00_17.0_cn_7c6698a70e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS4.0.5.0.XPICNXM/athens_images_OS4.0.5.0.XPICNXM_20261021.0000.00_17.0_cn_7c6698a70e.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#athens_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="athens_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="athens_2_changelog">
                         <p id="changelog_text"></p>
                     </div>
                 </li>

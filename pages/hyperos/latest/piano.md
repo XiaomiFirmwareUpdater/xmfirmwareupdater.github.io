@@ -52,9 +52,9 @@ permalink: /hyperos/piano/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 8 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS3.0.309.0.WPYCNXM</td><td>16.0</td><td>11.3 GB</td><td>2026-09-06</td><td><a href="/hyperos/piano/stable/OS3.0.309.0.WPYCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 8 Pro China</td><td>Stable</td><td>Recovery</td><td>OS3.0.309.0.WPYCNXM</td><td>16.0</td><td>9.9 GB</td><td>2026-09-21</td><td><a href="/hyperos/piano/stable/OS3.0.309.0.WPYCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 8 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS4.0.5.0.XPYCNXM</td><td>17.0</td><td>10.3 GB</td><td>2026-10-23</td><td><a href="/hyperos/piano/stable beta/OS4.0.5.0.XPYCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 8 Pro China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.5.0.XPYCNXM</td><td>17.0</td><td>11.8 GB</td><td>2026-10-21</td><td><a href="/hyperos/piano/stable/OS4.0.5.0.XPYCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 8 Pro China</td><td>Stable</td><td>Recovery</td><td>OS4.0.5.0.XPYCNXM</td><td>17.0</td><td>10.3 GB</td><td>2026-10-23</td><td><a href="/hyperos/piano/stable/OS4.0.5.0.XPYCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 8 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.3.0.WPYCNXM</td><td>16.0</td><td>9.7 GB</td><td>2025-09-25</td><td><a href="/hyperos/piano/stable beta/OS3.0.3.0.WPYCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.305.0.WPYEUXM</td><td>16.0</td><td>8.7 GB</td><td>2026-07-20</td><td><a href="/hyperos/piano/stable/OS3.0.305.0.WPYEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 Pro EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.305.0.WPYEUXM</td><td>16.0</td><td>7.2 GB</td><td>2026-08-03</td><td><a href="/hyperos/piano/stable/OS3.0.305.0.WPYEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 8 Pro Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.304.0.WPYMIXM</td><td>16.0</td><td>10.5 GB</td><td>2026-09-17</td><td><a href="/hyperos/piano/stable/OS3.0.304.0.WPYMIXM/">Download</a></td></tr>

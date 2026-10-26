@@ -10168,6 +10168,12 @@
   download: https://bigota.d.miui.com/OS2.0.9.0.VNRMIXM/fw_garnet_global_garnet_global-ota_full-OS2.0.9.0.VNRMIXM-user-15.0-a4a2d6cf2c.zip
   name: Redmi Note 13 Pro 5G/POCO X6 5G
   version: OS2.0.9.0.VNRMIXM
+- android: '16.0'
+  codename: garnet
+  date: '2026-10-26'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WNRMIXM/fw_garnet_garnet_global-ota_full-OS3.0.304.0.WNRMIXM-user-16.0-95e753c09d.zip
+  name: Redmi Note 13 Pro 5G/POCO X6 5G
+  version: OS3.0.304.0.WNRMIXM
 - android: '15.0'
   codename: garnet
   date: '2025-09-26'
@@ -13380,6 +13386,12 @@
   version: OS3.0.4.0.WOXCNXM
 - android: '16.0'
   codename: jinghu
+  date: '2026-10-26'
+  download: https://bigota.d.miui.com/OS3.0.306.0.WOXCNXM/fw_jinghu_jinghu-ota_full-OS3.0.306.0.WOXCNXM-user-16.0-a16a319b22.zip
+  name: Xiaomi Pad 7 Ultra
+  version: OS3.0.306.0.WOXCNXM
+- android: '16.0'
+  codename: jinghu
   date: '2026-09-08'
   download: https://bigota.d.miui.com/OS3.0.302.0.WOXCNXM/fw_jinghu_jinghu-ota_full-OS3.0.302.0.WOXCNXM-user-16.0-273fdb14ca.zip
   name: Xiaomi Pad 7 Ultra
@@ -14320,6 +14332,12 @@
   download: https://bigota.d.miui.com/OS3.0.305.0.WPPMIXM/fw_lapis_lapis_global-ota_full-OS3.0.305.0.WPPMIXM-user-16.0-47b581fa19.zip
   name: Redmi Note 15 Pro 5G
   version: OS3.0.305.0.WPPMIXM
+- android: '16.0'
+  codename: lapis
+  date: '2026-10-26'
+  download: https://bigota.d.miui.com/OS3.0.305.0.WPPINXM/fw_lapis_lapis_in_global-ota_full-OS3.0.305.0.WPPINXM-user-16.0-615c68277a.zip
+  name: Redmi Note 15 Pro 5G
+  version: OS3.0.305.0.WPPINXM
 - android: '16.0'
   codename: lapis
   date: '2026-03-25'
@@ -24756,6 +24774,12 @@
   version: OS1.0.13.0.UMOINXM
 - android: '14.0'
   codename: ruby
+  date: '2026-10-26'
+  download: https://bigota.d.miui.com/OS2.0.16.0.UMOINXM/fw_ruby_ruby_in_global-ota_full-OS2.0.16.0.UMOINXM-user-14.0-d849971979.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: OS2.0.16.0.UMOINXM
+- android: '14.0'
+  codename: ruby
   date: '2026-02-26'
   download: https://bigota.d.miui.com/OS2.0.13.0.UMOEUXM/fw_ruby_ruby_eea_global-ota_full-OS2.0.13.0.UMOEUXM-user-14.0-96186fcecc.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
@@ -26878,6 +26902,12 @@
   download: https://bigota.d.miui.com/OS2.0.217.0.VNBCNXM/fw_shennong_shennong-ota_full-OS2.0.217.0.VNBCNXM-user-15.0-dcb51c4ebb.zip
   name: Xiaomi 14 Pro/Ti/Xiaomi 14 Pro Ti Satellite
   version: OS2.0.217.0.VNBCNXM
+- android: '17.0'
+  codename: shuntian
+  date: '2026-10-26'
+  download: https://bigota.d.miui.com/OS4.0.9.0.XFPCNXM/fw_shuntian_shuntian-ota_full-OS4.0.9.0.XFPCNXM-user-17.0-6312ae8075.zip
+  name: Xiaomi Pad 9 Pro
+  version: OS4.0.9.0.XFPCNXM
 - android: '17.0'
   codename: shuntian
   date: '2026-09-23'
