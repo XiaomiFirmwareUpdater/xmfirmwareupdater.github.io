@@ -4,8 +4,13 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 26 Oct 2026 07:47:25 </lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 14:59:32 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS3.0.303.0.WPWINXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/flute/</link>
+            <pubDate>Mon, 26 Oct 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi 13/POCO M6 (moon) - OS3.0.304.0.WNTEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/moon/</link>
@@ -1063,11 +1068,6 @@
         </item>
         <item>
             <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS2.0.207.0.VPWEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/flute/</link>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS2.0.202.0.VPWINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flute/</link>
             <pubDate>Tue, 08 Sep 2026 00:00:00 </pubDate>
         </item>

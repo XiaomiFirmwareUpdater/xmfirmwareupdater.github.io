@@ -52,7 +52,8 @@ permalink: /archive/hyperos/spark/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad SE 8.7 4G EEA</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WHYEUXM</td><td>16.0</td><td>4.8 GB</td><td>2026-10-16</td><td><a href="/hyperos/spark/stable beta/OS3.0.303.0.WHYEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad SE 8.7 4G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WHYEUXM</td><td>16.0</td><td>4.8 GB</td><td>2026-10-16</td><td><a href="/hyperos/spark/stable/OS3.0.303.0.WHYEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE 8.7 4G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.303.0.WHYEUXM</td><td>16.0</td><td>5.9 GB</td><td>2026-10-08</td><td><a href="/hyperos/spark/stable/OS3.0.303.0.WHYEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 4G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.305.0.WHYMIXM</td><td>16.0</td><td>4.8 GB</td><td>2026-10-08</td><td><a href="/hyperos/spark/stable/OS3.0.305.0.WHYMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 4G Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.305.0.WHYMIXM</td><td>16.0</td><td>6.1 GB</td><td>2026-09-22</td><td><a href="/hyperos/spark/stable/OS3.0.305.0.WHYMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 4G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.303.0.WHYMIXM</td><td>16.0</td><td>4.8 GB</td><td>2026-07-29</td><td><a href="/hyperos/spark/stable/OS3.0.303.0.WHYMIXM/">Download</a></td></tr>
@@ -65,12 +66,12 @@ permalink: /archive/hyperos/spark/
 <tr><td>Redmi Pad SE 8.7 4G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.5.0.WHYEUXM</td><td>16.0</td><td>5.8 GB</td><td>2026-05-14</td><td><a href="/hyperos/spark/stable/OS3.0.5.0.WHYEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 4G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.3.0.WHYMIXM</td><td>16.0</td><td>4.8 GB</td><td>2026-04-27</td><td><a href="/hyperos/spark/stable/OS3.0.3.0.WHYMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 4G Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.3.0.WHYMIXM</td><td>16.0</td><td>6.0 GB</td><td>2026-04-20</td><td><a href="/hyperos/spark/stable/OS3.0.3.0.WHYMIXM/">Download</a></td></tr>
-<tr><td>Redmi Pad SE 8.7 4G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WHYINXM</td><td>16.0</td><td>4.6 GB</td><td>2026-03-24</td><td><a href="/hyperos/spark/stable/OS3.0.2.0.WHYINXM/">Download</a></td></tr>
-<tr><td>Redmi Pad SE 8.7 4G India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WHYINXM</td><td>16.0</td><td>5.3 GB</td><td>2026-03-18</td><td><a href="/hyperos/spark/stable/OS3.0.2.0.WHYINXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 4G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WHYINXM</td><td>16.0</td><td>4.6 GB</td><td>2026-07-09</td><td><a href="/hyperos/spark/stable/OS3.0.302.0.WHYINXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 4G India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WHYINXM</td><td>16.0</td><td>5.3 GB</td><td>2026-07-01</td><td><a href="/hyperos/spark/stable/OS3.0.302.0.WHYINXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 4G EEA</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WHYEUXM</td><td>16.0</td><td>4.8 GB</td><td>2026-07-09</td><td><a href="/hyperos/spark/stable/OS3.0.302.0.WHYEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 4G EEA</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WHYEUXM</td><td>16.0</td><td>5.9 GB</td><td>2026-07-01</td><td><a href="/hyperos/spark/stable/OS3.0.302.0.WHYEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE 8.7 4G India</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WHYINXM</td><td>16.0</td><td>4.6 GB</td><td>2026-03-24</td><td><a href="/hyperos/spark/stable/OS3.0.2.0.WHYINXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE 8.7 4G India</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WHYINXM</td><td>16.0</td><td>5.3 GB</td><td>2026-03-18</td><td><a href="/hyperos/spark/stable/OS3.0.2.0.WHYINXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 4G Global</td><td>Stable</td><td>Recovery</td><td>OS3.0.2.0.WHYMIXM</td><td>16.0</td><td>4.8 GB</td><td>2026-03-04</td><td><a href="/hyperos/spark/stable/OS3.0.2.0.WHYMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 4G Global</td><td>Stable</td><td>Fastboot</td><td>OS3.0.2.0.WHYMIXM</td><td>16.0</td><td>6.0 GB</td><td>2026-02-09</td><td><a href="/hyperos/spark/stable/OS3.0.2.0.WHYMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE 8.7 4G India</td><td>Stable</td><td>Recovery</td><td>OS2.0.203.0.VHYINXM</td><td>15.0</td><td>4.4 GB</td><td>2026-01-26</td><td><a href="/hyperos/spark/stable/OS2.0.203.0.VHYINXM/">Download</a></td></tr>

@@ -3,7 +3,7 @@ title: Xiaomi Pad 9 Pro China HyperOS OS4.0.9.0.XFPCNXM Update
 layout: download
 name: Xiaomi Pad 9 Pro China
 codename: shuntian
-permalink: /hyperos/shuntian/stable beta/OS4.0.9.0.XFPCNXM/
+permalink: /hyperos/shuntian/stable/OS4.0.9.0.XFPCNXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/shuntian/stable beta/OS4.0.9.0.XFPCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS4.0.9.0.XFPCNXM Stable Beta Official Update for Xiaomi Pad 9 Pro China (shuntian)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS4.0.9.0.XFPCNXM Stable Official Update for Xiaomi Pad 9 Pro China (shuntian)</h3>
     <h5>This page shows the OS4.0.9.0.XFPCNXM update only. If you're looking for other updates check
         <a href="/hyperos/shuntian/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,7 @@ permalink: /hyperos/shuntian/stable beta/OS4.0.9.0.XFPCNXM/
                     <h5><b>Version: </b>OS4.0.9.0.XFPCNXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -78,6 +78,49 @@ permalink: /hyperos/shuntian/stable beta/OS4.0.9.0.XFPCNXM/
                             aria-expanded="false" aria-controls="shuntian_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="shuntian_1_changelog">
+                        <p id="changelog_text">[Alive Design Philosophy]<br>New: A soft glass material responds to surrounding colors and automatically adjusts its transparency for a more refined look<br>New: Soft glass lighting effects respond dynamically to your actions for more fluid interactions<br>[System]<br>Updated the security patch to October 2026. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Xiaomi Pad 9 Pro China</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/shuntian/" target="_blank">shuntian</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS4.0.9.0.XFPCNXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>11.5 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2026-10-15</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">shuntian_images_OS4.0.9.0.XFPCNXM_20261015.0000.00_17.0_cn_a55770750b.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">a55770750bd391bcd22659d6d564be8b</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS4.0.9.0.XFPCNXM/shuntian_images_OS4.0.9.0.XFPCNXM_20261015.0000.00_17.0_cn_a55770750b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS4.0.9.0.XFPCNXM/shuntian_images_OS4.0.9.0.XFPCNXM_20261015.0000.00_17.0_cn_a55770750b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS4.0.9.0.XFPCNXM/shuntian_images_OS4.0.9.0.XFPCNXM_20261015.0000.00_17.0_cn_a55770750b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS4.0.9.0.XFPCNXM/shuntian_images_OS4.0.9.0.XFPCNXM_20261015.0000.00_17.0_cn_a55770750b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS4.0.9.0.XFPCNXM/shuntian_images_OS4.0.9.0.XFPCNXM_20261015.0000.00_17.0_cn_a55770750b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#shuntian_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="shuntian_2_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="shuntian_2_changelog">
                         <p id="changelog_text">[Alive Design Philosophy]<br>New: A soft glass material responds to surrounding colors and automatically adjusts its transparency for a more refined look<br>New: Soft glass lighting effects respond dynamically to your actions for more fluid interactions<br>[System]<br>Updated the security patch to October 2026. Increased system security.</p>
                     </div>
                 </li>
