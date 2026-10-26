@@ -71,6 +71,7 @@ permalink: /hyperos/klimt/
 <tr><td>Xiaomi 15T Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WOSTRXM</td><td>16.0</td><td>7.3 GB</td><td>2026-10-20</td><td><a href="/hyperos/klimt/stable beta/OS3.0.303.0.WOSTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>OS3.0.302.0.WOSTWXM</td><td>16.0</td><td>8.3 GB</td><td>2026-08-12</td><td><a href="/hyperos/klimt/stable/OS3.0.302.0.WOSTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 15T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>OS3.0.302.0.WOSTWXM</td><td>16.0</td><td>7.1 GB</td><td>2026-08-27</td><td><a href="/hyperos/klimt/stable/OS3.0.302.0.WOSTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 15T Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.303.0.WOSTWXM</td><td>16.0</td><td>7.1 GB</td><td>2026-10-22</td><td><a href="/hyperos/klimt/stable beta/OS3.0.303.0.WOSTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
