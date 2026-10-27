@@ -3,7 +3,7 @@ title: Redmi A4 5G / POCO C75 5G India HyperOS OS3.0.305.0.WGVINXM Update
 layout: download
 name: Redmi A4 5G / POCO C75 5G India
 codename: warm
-permalink: /hyperos/warm/stable beta/OS3.0.305.0.WGVINXM/
+permalink: /hyperos/warm/stable/OS3.0.305.0.WGVINXM/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -21,7 +21,7 @@ permalink: /hyperos/warm/stable beta/OS3.0.305.0.WGVINXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.305.0.WGVINXM Stable Beta Official Update for Redmi A4 5G / POCO C75 5G India (warm)</h3>
+    <h3 class="title bg-light p-2 rounded">HyperOS OS3.0.305.0.WGVINXM Stable Official Update for Redmi A4 5G / POCO C75 5G India (warm)</h3>
     <h5>This page shows the OS3.0.305.0.WGVINXM update only. If you're looking for other updates check
         <a href="/hyperos/warm/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched HyperOS ROMs.
@@ -53,7 +53,50 @@ permalink: /hyperos/warm/stable beta/OS3.0.305.0.WGVINXM/
                     <h5><b>Version: </b>OS3.0.305.0.WGVINXM</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Type: </b>Fastboot</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Size: </b>6.1 GB</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Release Date: </b>2026-10-16</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">warm_in_global_images_OS3.0.305.0.WGVINXM_20261016.0000.00_16.0_in_e11e71ea01.tgz</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">e11e71ea01b790740b4128144a70d168</span></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.305.0.WGVINXM/warm_in_global_images_OS3.0.305.0.WGVINXM_20261016.0000.00_16.0_in_e11e71ea01.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WGVINXM/warm_in_global_images_OS3.0.305.0.WGVINXM_20261016.0000.00_16.0_in_e11e71ea01.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.305.0.WGVINXM/warm_in_global_images_OS3.0.305.0.WGVINXM_20261016.0000.00_16.0_in_e11e71ea01.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.305.0.WGVINXM/warm_in_global_images_OS3.0.305.0.WGVINXM_20261016.0000.00_16.0_in_e11e71ea01.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.305.0.WGVINXM/warm_in_global_images_OS3.0.305.0.WGVINXM_20261016.0000.00_16.0_in_e11e71ea01.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Changelog: </b><a href="#warm_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="warm_1_changelog"> <i class="fa fa-arrow-down"
+                                aria-hidden="true"></i> Expand/Hide</a></h5>
+                    <div class="collapse" id="warm_1_changelog">
+                        <p id="changelog_text">[System]<br>Fix: Improved system stability and user experience<br>Updated the security patch to October 2026. Increased system security.</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="card card-body">
+            {%include vli_ad_320x50_1.html%}
+            <ul class="list-unstyled">
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Device: </b>Redmi A4 5G / POCO C75 5G India</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Codename: </b> <a href="/hyperos/warm/" target="_blank">warm</a> </h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Version: </b>OS3.0.305.0.WGVINXM</h5>
+                </li>
+                <li style="padding-bottom: 10px;">
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Type: </b>Recovery</h5>
@@ -74,10 +117,10 @@ permalink: /hyperos/warm/stable beta/OS3.0.305.0.WGVINXM/
                     <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WGVINXM/warm_in_global-ota_incremental-OS3.0.303.0.WGVINXM-OS3.0.305.0.WGVINXM-user-16.0-68b0cc12ab.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.305.0.WGVINXM/warm_in_global-ota_full-OS3.0.305.0.WGVINXM-user-16.0-08df763f8a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.305.0.WGVINXM/warm_in_global-ota_full-OS3.0.305.0.WGVINXM-user-16.0-08df763f8a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.305.0.WGVINXM/warm_in_global-ota_full-OS3.0.305.0.WGVINXM-user-16.0-08df763f8a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.305.0.WGVINXM/warm_in_global-ota_full-OS3.0.305.0.WGVINXM-user-16.0-08df763f8a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.305.0.WGVINXM/warm_in_global-ota_full-OS3.0.305.0.WGVINXM-user-16.0-08df763f8a.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#warm_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="warm_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#warm_2_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="warm_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="warm_1_changelog">
+                    <div class="collapse" id="warm_2_changelog">
                         <p id="changelog_text">[System]<br>Fix: Improved system stability and user experience<br>Updated the security patch to October 2026. Increased system security.</p>
                     </div>
                 </li>

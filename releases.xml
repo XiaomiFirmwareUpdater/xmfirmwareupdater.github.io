@@ -4,8 +4,33 @@
         <description>Latest firmware releases</description>
         <link>https://xmfirmwareupdater.com</link>
         <ns0:link href="https://xmfirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 27 Oct 2026 03:05:13 </lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 12:51:41 </lastBuildDate>
         <language>en-us</language>
+        <item>
+            <title>Redmi Note 14 Pro 4G (obsidian) - OS3.0.304.0.WOFEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS2.0.211.0.VMWMIXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/sky/</link>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G (spring) - OS3.0.304.0.WOUCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/spring/</link>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi Pad 7S Pro 12.5 (violin) - OS3.0.306.0.WOTCNXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/violin/</link>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 </pubDate>
+        </item>
+        <item>
+            <title>Xiaomi 17T Pro (warhol) - OS3.0.312.0.WPSEUXM</title>
+            <link>https://xmfirmwareupdater.com/firmware/warhol/</link>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 </pubDate>
+        </item>
         <item>
             <title>Redmi Pad 2 Pro/POCO Pad M1 (flute) - OS3.0.303.0.WPWINXM</title>
             <link>https://xmfirmwareupdater.com/firmware/flute/</link>
@@ -912,16 +937,6 @@
             <pubDate>Wed, 09 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Xiaomi Pad 7S Pro 12.5 (violin) - OS3.0.302.0.WOTCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/violin/</link>
-            <pubDate>Wed, 09 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Xiaomi 17T Pro (warhol) - OS3.0.309.0.WPSEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/warhol/</link>
-            <pubDate>Wed, 09 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi K90 Ultra (warsaw) - OS3.0.306.0.WHPCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/warsaw/</link>
             <pubDate>Wed, 09 Sep 2026 00:00:00 </pubDate>
@@ -1287,11 +1302,6 @@
             <pubDate>Fri, 04 Sep 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 14 Pro 4G (obsidian) - OS3.0.303.0.WOFEUXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/obsidian/</link>
-            <pubDate>Thu, 03 Sep 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12S (sea) - OS2.0.211.0.VHZEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sea/</link>
             <pubDate>Thu, 03 Sep 2026 00:00:00 </pubDate>
@@ -1532,11 +1542,6 @@
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
         </item>
         <item>
-            <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS2.0.210.0.VMWMIXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/sky/</link>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
-        </item>
-        <item>
             <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - OS2.0.217.0.VMWEUXM</title>
             <link>https://xmfirmwareupdater.com/firmware/sky/</link>
             <pubDate>Mon, 24 Aug 2026 00:00:00 </pubDate>
@@ -1660,11 +1665,6 @@
             <title>Redmi K60E (rembrandt) - OS2.0.25.0.UMMCNXM</title>
             <link>https://xmfirmwareupdater.com/firmware/rembrandt/</link>
             <pubDate>Sat, 09 May 2026 00:00:00 </pubDate>
-        </item>
-        <item>
-            <title>Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G (spring) - OS3.0.302.0.WOUCNXM</title>
-            <link>https://xmfirmwareupdater.com/firmware/spring/</link>
-            <pubDate>Wed, 06 May 2026 00:00:00 </pubDate>
         </item>
         <item>
             <title>Redmi 15C 5G/15R 5G/17C 5G/POCO C85 5G/TBD (tornado) - OS3.0.302.0.WPOCNXM</title>

@@ -19492,6 +19492,12 @@
   download: https://bigota.d.miui.com/OS1.0.7.0.UOFMIXM/fw_obsidian_miui_OBSIDIANGlobal_OS1.0.7.0.UOFMIXM_ce13da80d5_14.0.zip
   name: Redmi Note 14 Pro 4G
   version: OS1.0.7.0.UOFMIXM
+- android: '16.0'
+  codename: obsidian
+  date: '2026-10-27'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WOFEUXM/fw_obsidian_obsidian_eea_global-ota_full-OS3.0.304.0.WOFEUXM-user-16.0-09f668a0e1.zip
+  name: Redmi Note 14 Pro 4G
+  version: OS3.0.304.0.WOFEUXM
 - android: '15.0'
   codename: obsidian
   date: '2025-10-27'
@@ -26988,6 +26994,12 @@
   version: OS1.0.5.0.UMWEUXM
 - android: '15.0'
   codename: sky
+  date: '2026-10-27'
+  download: https://bigota.d.miui.com/OS2.0.211.0.VMWMIXM/fw_sky_sky_global-ota_full-OS2.0.211.0.VMWMIXM-user-15.0-4b5da75c08.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: OS2.0.211.0.VMWMIXM
+- android: '15.0'
+  codename: sky
   date: '2025-10-27'
   download: https://bigota.d.miui.com/OS2.0.208.0.VMWEUXM/fw_sky_sky_eea_global-ota_full-OS2.0.208.0.VMWEUXM-user-15.0-bd72d68310.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
@@ -27970,6 +27982,12 @@
   download: https://bigota.d.miui.com/OS2.0.207.0.VOUINXM/fw_spring_spring_in_global-ota_full-OS2.0.207.0.VOUINXM-user-15.0-2808147b7b.zip
   name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
   version: OS2.0.207.0.VOUINXM
+- android: '16.0'
+  codename: spring
+  date: '2026-10-27'
+  download: https://bigota.d.miui.com/OS3.0.304.0.WOUCNXM/fw_spring_spring-ota_full-OS3.0.304.0.WOUCNXM-user-16.0-05d743fe18.zip
+  name: Redmi 15R 5G/Redmi 15 5G/M7 Plus/M8s 5G/POCO M7 Plus 5G
+  version: OS3.0.304.0.WOUCNXM
 - android: '15.0'
   codename: spring
   date: '2025-08-27'
@@ -31888,6 +31906,12 @@
   download: https://bigota.d.miui.com/OS3.0.6.0.WOTCNXM/fw_violin_violin-ota_full-OS3.0.6.0.WOTCNXM-user-16.0-c9a2a55dc0.zip
   name: Xiaomi Pad 7S Pro 12.5
   version: OS3.0.6.0.WOTCNXM
+- android: '16.0'
+  codename: violin
+  date: '2026-10-27'
+  download: https://bigota.d.miui.com/OS3.0.306.0.WOTCNXM/fw_violin_violin-ota_full-OS3.0.306.0.WOTCNXM-user-16.0-be3ef3d972.zip
+  name: Xiaomi Pad 7S Pro 12.5
+  version: OS3.0.306.0.WOTCNXM
 - android: '15.0'
   codename: violin
   date: '2026-09-09'
@@ -31984,6 +32008,12 @@
   download: https://bigota.d.miui.com/OS3.0.311.0.WPSMIXM/fw_warhol_warhol_global-ota_full-OS3.0.311.0.WPSMIXM-user-16.0-e29c8ad11a.zip
   name: Xiaomi 17T Pro
   version: OS3.0.311.0.WPSMIXM
+- android: '16.0'
+  codename: warhol
+  date: '2026-10-27'
+  download: https://bigota.d.miui.com/OS3.0.312.0.WPSEUXM/fw_warhol_warhol_eea_global-ota_full-OS3.0.312.0.WPSEUXM-user-16.0-c776053304.zip
+  name: Xiaomi 17T Pro
+  version: OS3.0.312.0.WPSEUXM
 - android: '16.0'
   codename: warhol
   date: '2026-09-25'

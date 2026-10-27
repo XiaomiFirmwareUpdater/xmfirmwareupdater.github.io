@@ -56,22 +56,22 @@ permalink: /hyperos/beryl/stable/OS3.0.302.0.WOQTRXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.1 GB</h5>
+                    <h5><b>Size: </b>8.3 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-08-18</h5>
+                    <h5><b>Release Date: </b>2026-08-05</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">beryl_tr_global-ota_full-OS3.0.302.0.WOQTRXM-user-16.0-e39b986efa.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">beryl_tr_global_images_OS3.0.302.0.WOQTRXM_20260805.0000.00_16.0_tr_58785035e4.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">e39b986efafce97bc5053fe635fbc333</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">58785035e475bff2f3147aee88283c1b</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WOQTRXM/beryl_tr_global-ota_incremental-OS3.0.301.0.WOQTRXM-OS3.0.302.0.WOQTRXM-user-16.0-ac5121f56f.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.302.0.WOQTRXM/beryl_tr_global-ota_full-OS3.0.302.0.WOQTRXM-user-16.0-e39b986efa.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WOQTRXM/beryl_tr_global-ota_full-OS3.0.302.0.WOQTRXM-user-16.0-e39b986efa.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.302.0.WOQTRXM/beryl_tr_global-ota_full-OS3.0.302.0.WOQTRXM-user-16.0-e39b986efa.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.302.0.WOQTRXM/beryl_tr_global-ota_full-OS3.0.302.0.WOQTRXM-user-16.0-e39b986efa.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.302.0.WOQTRXM/beryl_tr_global-ota_full-OS3.0.302.0.WOQTRXM-user-16.0-e39b986efa.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.302.0.WOQTRXM/beryl_tr_global_images_OS3.0.302.0.WOQTRXM_20260805.0000.00_16.0_tr_58785035e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WOQTRXM/beryl_tr_global_images_OS3.0.302.0.WOQTRXM_20260805.0000.00_16.0_tr_58785035e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.302.0.WOQTRXM/beryl_tr_global_images_OS3.0.302.0.WOQTRXM_20260805.0000.00_16.0_tr_58785035e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.302.0.WOQTRXM/beryl_tr_global_images_OS3.0.302.0.WOQTRXM_20260805.0000.00_16.0_tr_58785035e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.302.0.WOQTRXM/beryl_tr_global_images_OS3.0.302.0.WOQTRXM_20260805.0000.00_16.0_tr_58785035e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#beryl_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/beryl/stable/OS3.0.302.0.WOQTRXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.3 GB</h5>
+                    <h5><b>Size: </b>6.1 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-08-05</h5>
+                    <h5><b>Release Date: </b>2026-08-18</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">beryl_tr_global_images_OS3.0.302.0.WOQTRXM_20260805.0000.00_16.0_tr_58785035e4.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">beryl_tr_global-ota_full-OS3.0.302.0.WOQTRXM-user-16.0-e39b986efa.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">58785035e475bff2f3147aee88283c1b</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">e39b986efafce97bc5053fe635fbc333</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.302.0.WOQTRXM/beryl_tr_global_images_OS3.0.302.0.WOQTRXM_20260805.0000.00_16.0_tr_58785035e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WOQTRXM/beryl_tr_global_images_OS3.0.302.0.WOQTRXM_20260805.0000.00_16.0_tr_58785035e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.302.0.WOQTRXM/beryl_tr_global_images_OS3.0.302.0.WOQTRXM_20260805.0000.00_16.0_tr_58785035e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.302.0.WOQTRXM/beryl_tr_global_images_OS3.0.302.0.WOQTRXM_20260805.0000.00_16.0_tr_58785035e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.302.0.WOQTRXM/beryl_tr_global_images_OS3.0.302.0.WOQTRXM_20260805.0000.00_16.0_tr_58785035e4.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WOQTRXM/beryl_tr_global-ota_incremental-OS3.0.301.0.WOQTRXM-OS3.0.302.0.WOQTRXM-user-16.0-ac5121f56f.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.302.0.WOQTRXM/beryl_tr_global-ota_full-OS3.0.302.0.WOQTRXM-user-16.0-e39b986efa.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.302.0.WOQTRXM/beryl_tr_global-ota_full-OS3.0.302.0.WOQTRXM-user-16.0-e39b986efa.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.302.0.WOQTRXM/beryl_tr_global-ota_full-OS3.0.302.0.WOQTRXM-user-16.0-e39b986efa.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.302.0.WOQTRXM/beryl_tr_global-ota_full-OS3.0.302.0.WOQTRXM-user-16.0-e39b986efa.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.302.0.WOQTRXM/beryl_tr_global-ota_full-OS3.0.302.0.WOQTRXM-user-16.0-e39b986efa.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#beryl_2_changelog" data-toggle="collapse" role="button"

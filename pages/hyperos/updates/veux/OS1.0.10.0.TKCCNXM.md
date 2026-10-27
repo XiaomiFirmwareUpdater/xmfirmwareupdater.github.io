@@ -56,22 +56,22 @@ permalink: /hyperos/veux/stable/OS1.0.10.0.TKCCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.5 GB</h5>
+                    <h5><b>Size: </b>5.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-12-27</h5>
+                    <h5><b>Release Date: </b>2024-12-18</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_VEUX_OS1.0.10.0.TKCCNXM_ab3d587cf1_13.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">veux_images_OS1.0.10.0.TKCCNXM_20241218.0000.00_13.0_cn_f0dc219786.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">ab3d587cf1c44efd32ee508631b33646</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f0dc219786e26bfad344aff414a29674</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.10.0.TKCCNXM/miui-blockota-veux-OS1.0.9.0.TKCCNXM-OS1.0.10.0.TKCCNXM-4af3b0e026-13.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.10.0.TKCCNXM/miui_VEUX_OS1.0.10.0.TKCCNXM_ab3d587cf1_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.10.0.TKCCNXM/miui_VEUX_OS1.0.10.0.TKCCNXM_ab3d587cf1_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.10.0.TKCCNXM/miui_VEUX_OS1.0.10.0.TKCCNXM_ab3d587cf1_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.10.0.TKCCNXM/miui_VEUX_OS1.0.10.0.TKCCNXM_ab3d587cf1_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.10.0.TKCCNXM/miui_VEUX_OS1.0.10.0.TKCCNXM_ab3d587cf1_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.10.0.TKCCNXM/veux_images_OS1.0.10.0.TKCCNXM_20241218.0000.00_13.0_cn_f0dc219786.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.10.0.TKCCNXM/veux_images_OS1.0.10.0.TKCCNXM_20241218.0000.00_13.0_cn_f0dc219786.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.10.0.TKCCNXM/veux_images_OS1.0.10.0.TKCCNXM_20241218.0000.00_13.0_cn_f0dc219786.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.10.0.TKCCNXM/veux_images_OS1.0.10.0.TKCCNXM_20241218.0000.00_13.0_cn_f0dc219786.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.10.0.TKCCNXM/veux_images_OS1.0.10.0.TKCCNXM_20241218.0000.00_13.0_cn_f0dc219786.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#veux_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/veux/stable/OS1.0.10.0.TKCCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.8 GB</h5>
+                    <h5><b>Size: </b>4.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2024-12-18</h5>
+                    <h5><b>Release Date: </b>2024-12-27</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">veux_images_OS1.0.10.0.TKCCNXM_20241218.0000.00_13.0_cn_f0dc219786.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_VEUX_OS1.0.10.0.TKCCNXM_ab3d587cf1_13.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">f0dc219786e26bfad344aff414a29674</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">ab3d587cf1c44efd32ee508631b33646</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.10.0.TKCCNXM/veux_images_OS1.0.10.0.TKCCNXM_20241218.0000.00_13.0_cn_f0dc219786.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.10.0.TKCCNXM/veux_images_OS1.0.10.0.TKCCNXM_20241218.0000.00_13.0_cn_f0dc219786.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.10.0.TKCCNXM/veux_images_OS1.0.10.0.TKCCNXM_20241218.0000.00_13.0_cn_f0dc219786.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.10.0.TKCCNXM/veux_images_OS1.0.10.0.TKCCNXM_20241218.0000.00_13.0_cn_f0dc219786.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.10.0.TKCCNXM/veux_images_OS1.0.10.0.TKCCNXM_20241218.0000.00_13.0_cn_f0dc219786.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.10.0.TKCCNXM/miui-blockota-veux-OS1.0.9.0.TKCCNXM-OS1.0.10.0.TKCCNXM-4af3b0e026-13.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.10.0.TKCCNXM/miui_VEUX_OS1.0.10.0.TKCCNXM_ab3d587cf1_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.10.0.TKCCNXM/miui_VEUX_OS1.0.10.0.TKCCNXM_ab3d587cf1_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.10.0.TKCCNXM/miui_VEUX_OS1.0.10.0.TKCCNXM_ab3d587cf1_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.10.0.TKCCNXM/miui_VEUX_OS1.0.10.0.TKCCNXM_ab3d587cf1_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.10.0.TKCCNXM/miui_VEUX_OS1.0.10.0.TKCCNXM_ab3d587cf1_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#veux_2_changelog" data-toggle="collapse" role="button"

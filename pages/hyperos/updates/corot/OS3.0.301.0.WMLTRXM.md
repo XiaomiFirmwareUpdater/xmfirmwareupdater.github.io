@@ -56,22 +56,22 @@ permalink: /hyperos/corot/stable/OS3.0.301.0.WMLTRXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.4 GB</h5>
+                    <h5><b>Size: </b>7.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-08-13</h5>
+                    <h5><b>Release Date: </b>2026-07-23</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">corot_tr_global-ota_full-OS3.0.301.0.WMLTRXM-user-16.0-144de8dfa0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">corot_tr_global_images_OS3.0.301.0.WMLTRXM_20260723.0000.00_16.0_tr_f92797242b.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">144de8dfa0848f27cc4e9dc33fe52c18</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">f92797242b30acad4f3115c82ed960b2</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WMLTRXM/corot_tr_global-ota_incremental-OS3.0.3.0.WMLTRXM-OS3.0.301.0.WMLTRXM-user-16.0-2ab59740e0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.301.0.WMLTRXM/corot_tr_global-ota_full-OS3.0.301.0.WMLTRXM-user-16.0-144de8dfa0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WMLTRXM/corot_tr_global-ota_full-OS3.0.301.0.WMLTRXM-user-16.0-144de8dfa0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.301.0.WMLTRXM/corot_tr_global-ota_full-OS3.0.301.0.WMLTRXM-user-16.0-144de8dfa0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.301.0.WMLTRXM/corot_tr_global-ota_full-OS3.0.301.0.WMLTRXM-user-16.0-144de8dfa0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.301.0.WMLTRXM/corot_tr_global-ota_full-OS3.0.301.0.WMLTRXM-user-16.0-144de8dfa0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.301.0.WMLTRXM/corot_tr_global_images_OS3.0.301.0.WMLTRXM_20260723.0000.00_16.0_tr_f92797242b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WMLTRXM/corot_tr_global_images_OS3.0.301.0.WMLTRXM_20260723.0000.00_16.0_tr_f92797242b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.301.0.WMLTRXM/corot_tr_global_images_OS3.0.301.0.WMLTRXM_20260723.0000.00_16.0_tr_f92797242b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.301.0.WMLTRXM/corot_tr_global_images_OS3.0.301.0.WMLTRXM_20260723.0000.00_16.0_tr_f92797242b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.301.0.WMLTRXM/corot_tr_global_images_OS3.0.301.0.WMLTRXM_20260723.0000.00_16.0_tr_f92797242b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#corot_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/corot/stable/OS3.0.301.0.WMLTRXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.8 GB</h5>
+                    <h5><b>Size: </b>6.4 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-07-23</h5>
+                    <h5><b>Release Date: </b>2026-08-13</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">corot_tr_global_images_OS3.0.301.0.WMLTRXM_20260723.0000.00_16.0_tr_f92797242b.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">corot_tr_global-ota_full-OS3.0.301.0.WMLTRXM-user-16.0-144de8dfa0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">f92797242b30acad4f3115c82ed960b2</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">144de8dfa0848f27cc4e9dc33fe52c18</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.301.0.WMLTRXM/corot_tr_global_images_OS3.0.301.0.WMLTRXM_20260723.0000.00_16.0_tr_f92797242b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WMLTRXM/corot_tr_global_images_OS3.0.301.0.WMLTRXM_20260723.0000.00_16.0_tr_f92797242b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.301.0.WMLTRXM/corot_tr_global_images_OS3.0.301.0.WMLTRXM_20260723.0000.00_16.0_tr_f92797242b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.301.0.WMLTRXM/corot_tr_global_images_OS3.0.301.0.WMLTRXM_20260723.0000.00_16.0_tr_f92797242b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.301.0.WMLTRXM/corot_tr_global_images_OS3.0.301.0.WMLTRXM_20260723.0000.00_16.0_tr_f92797242b.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WMLTRXM/corot_tr_global-ota_incremental-OS3.0.3.0.WMLTRXM-OS3.0.301.0.WMLTRXM-user-16.0-2ab59740e0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.301.0.WMLTRXM/corot_tr_global-ota_full-OS3.0.301.0.WMLTRXM-user-16.0-144de8dfa0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.301.0.WMLTRXM/corot_tr_global-ota_full-OS3.0.301.0.WMLTRXM-user-16.0-144de8dfa0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.301.0.WMLTRXM/corot_tr_global-ota_full-OS3.0.301.0.WMLTRXM-user-16.0-144de8dfa0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.301.0.WMLTRXM/corot_tr_global-ota_full-OS3.0.301.0.WMLTRXM-user-16.0-144de8dfa0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.301.0.WMLTRXM/corot_tr_global-ota_full-OS3.0.301.0.WMLTRXM-user-16.0-144de8dfa0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#corot_2_changelog" data-toggle="collapse" role="button"

@@ -56,22 +56,22 @@ permalink: /hyperos/redwood/stable/OS2.0.17.0.UMSMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.3 GB</h5>
+                    <h5><b>Size: </b>7.5 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-01-14</h5>
+                    <h5><b>Release Date: </b>2025-12-29</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">redwood_global-ota_full-OS2.0.17.0.UMSMIXM-user-14.0-4ddcd3c40c.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">redwood_global_images_OS2.0.17.0.UMSMIXM_20251229.0000.00_14.0_global_3f92650720.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">4ddcd3c40cdeb9b08ebdc0714ab7a8e4</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">3f9265072066f22a27104062cf604938</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.17.0.UMSMIXM/redwood_global-ota_incremental-OS2.0.16.0.UMSMIXM-OS2.0.17.0.UMSMIXM-user-14.0-426987370c.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.17.0.UMSMIXM/redwood_global-ota_full-OS2.0.17.0.UMSMIXM-user-14.0-4ddcd3c40c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.17.0.UMSMIXM/redwood_global-ota_full-OS2.0.17.0.UMSMIXM-user-14.0-4ddcd3c40c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.17.0.UMSMIXM/redwood_global-ota_full-OS2.0.17.0.UMSMIXM-user-14.0-4ddcd3c40c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.17.0.UMSMIXM/redwood_global-ota_full-OS2.0.17.0.UMSMIXM-user-14.0-4ddcd3c40c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.17.0.UMSMIXM/redwood_global-ota_full-OS2.0.17.0.UMSMIXM-user-14.0-4ddcd3c40c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.17.0.UMSMIXM/redwood_global_images_OS2.0.17.0.UMSMIXM_20251229.0000.00_14.0_global_3f92650720.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.17.0.UMSMIXM/redwood_global_images_OS2.0.17.0.UMSMIXM_20251229.0000.00_14.0_global_3f92650720.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.17.0.UMSMIXM/redwood_global_images_OS2.0.17.0.UMSMIXM_20251229.0000.00_14.0_global_3f92650720.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.17.0.UMSMIXM/redwood_global_images_OS2.0.17.0.UMSMIXM_20251229.0000.00_14.0_global_3f92650720.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.17.0.UMSMIXM/redwood_global_images_OS2.0.17.0.UMSMIXM_20251229.0000.00_14.0_global_3f92650720.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#redwood_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/redwood/stable/OS2.0.17.0.UMSMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.5 GB</h5>
+                    <h5><b>Size: </b>5.3 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-12-29</h5>
+                    <h5><b>Release Date: </b>2026-01-14</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">redwood_global_images_OS2.0.17.0.UMSMIXM_20251229.0000.00_14.0_global_3f92650720.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">redwood_global-ota_full-OS2.0.17.0.UMSMIXM-user-14.0-4ddcd3c40c.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">3f9265072066f22a27104062cf604938</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">4ddcd3c40cdeb9b08ebdc0714ab7a8e4</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.17.0.UMSMIXM/redwood_global_images_OS2.0.17.0.UMSMIXM_20251229.0000.00_14.0_global_3f92650720.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.17.0.UMSMIXM/redwood_global_images_OS2.0.17.0.UMSMIXM_20251229.0000.00_14.0_global_3f92650720.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.17.0.UMSMIXM/redwood_global_images_OS2.0.17.0.UMSMIXM_20251229.0000.00_14.0_global_3f92650720.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.17.0.UMSMIXM/redwood_global_images_OS2.0.17.0.UMSMIXM_20251229.0000.00_14.0_global_3f92650720.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.17.0.UMSMIXM/redwood_global_images_OS2.0.17.0.UMSMIXM_20251229.0000.00_14.0_global_3f92650720.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.17.0.UMSMIXM/redwood_global-ota_incremental-OS2.0.16.0.UMSMIXM-OS2.0.17.0.UMSMIXM-user-14.0-426987370c.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.17.0.UMSMIXM/redwood_global-ota_full-OS2.0.17.0.UMSMIXM-user-14.0-4ddcd3c40c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.17.0.UMSMIXM/redwood_global-ota_full-OS2.0.17.0.UMSMIXM-user-14.0-4ddcd3c40c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.17.0.UMSMIXM/redwood_global-ota_full-OS2.0.17.0.UMSMIXM-user-14.0-4ddcd3c40c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.17.0.UMSMIXM/redwood_global-ota_full-OS2.0.17.0.UMSMIXM-user-14.0-4ddcd3c40c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.17.0.UMSMIXM/redwood_global-ota_full-OS2.0.17.0.UMSMIXM-user-14.0-4ddcd3c40c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#redwood_2_changelog" data-toggle="collapse" role="button"

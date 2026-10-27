@@ -56,22 +56,22 @@ permalink: /hyperos/sky/stable/OS2.0.210.0.VMWMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.9 GB</h5>
+                    <h5><b>Size: </b>7.7 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-08-17</h5>
+                    <h5><b>Release Date: </b>2026-08-03</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sky_global-ota_full-OS2.0.210.0.VMWMIXM-user-15.0-614cc2b106.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sky_global_images_OS2.0.210.0.VMWMIXM_20260803.0000.00_15.0_global_39a031f05a.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">614cc2b1064a05fe1d3abb0edcb95481</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">39a031f05afdfa4b6c44886a5b7fd815</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.210.0.VMWMIXM/sky_global-ota_incremental-OS2.0.209.0.VMWMIXM-OS2.0.210.0.VMWMIXM-user-15.0-92a8a49578.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.210.0.VMWMIXM/sky_global-ota_full-OS2.0.210.0.VMWMIXM-user-15.0-614cc2b106.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.210.0.VMWMIXM/sky_global-ota_full-OS2.0.210.0.VMWMIXM-user-15.0-614cc2b106.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.210.0.VMWMIXM/sky_global-ota_full-OS2.0.210.0.VMWMIXM-user-15.0-614cc2b106.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.210.0.VMWMIXM/sky_global-ota_full-OS2.0.210.0.VMWMIXM-user-15.0-614cc2b106.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.210.0.VMWMIXM/sky_global-ota_full-OS2.0.210.0.VMWMIXM-user-15.0-614cc2b106.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.210.0.VMWMIXM/sky_global_images_OS2.0.210.0.VMWMIXM_20260803.0000.00_15.0_global_39a031f05a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.210.0.VMWMIXM/sky_global_images_OS2.0.210.0.VMWMIXM_20260803.0000.00_15.0_global_39a031f05a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.210.0.VMWMIXM/sky_global_images_OS2.0.210.0.VMWMIXM_20260803.0000.00_15.0_global_39a031f05a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.210.0.VMWMIXM/sky_global_images_OS2.0.210.0.VMWMIXM_20260803.0000.00_15.0_global_39a031f05a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.210.0.VMWMIXM/sky_global_images_OS2.0.210.0.VMWMIXM_20260803.0000.00_15.0_global_39a031f05a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#sky_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/sky/stable/OS2.0.210.0.VMWMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.7 GB</h5>
+                    <h5><b>Size: </b>4.9 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-08-03</h5>
+                    <h5><b>Release Date: </b>2026-08-17</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sky_global_images_OS2.0.210.0.VMWMIXM_20260803.0000.00_15.0_global_39a031f05a.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">sky_global-ota_full-OS2.0.210.0.VMWMIXM-user-15.0-614cc2b106.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">39a031f05afdfa4b6c44886a5b7fd815</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">614cc2b1064a05fe1d3abb0edcb95481</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.210.0.VMWMIXM/sky_global_images_OS2.0.210.0.VMWMIXM_20260803.0000.00_15.0_global_39a031f05a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.210.0.VMWMIXM/sky_global_images_OS2.0.210.0.VMWMIXM_20260803.0000.00_15.0_global_39a031f05a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.210.0.VMWMIXM/sky_global_images_OS2.0.210.0.VMWMIXM_20260803.0000.00_15.0_global_39a031f05a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.210.0.VMWMIXM/sky_global_images_OS2.0.210.0.VMWMIXM_20260803.0000.00_15.0_global_39a031f05a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.210.0.VMWMIXM/sky_global_images_OS2.0.210.0.VMWMIXM_20260803.0000.00_15.0_global_39a031f05a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.210.0.VMWMIXM/sky_global-ota_incremental-OS2.0.209.0.VMWMIXM-OS2.0.210.0.VMWMIXM-user-15.0-92a8a49578.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS2.0.210.0.VMWMIXM/sky_global-ota_full-OS2.0.210.0.VMWMIXM-user-15.0-614cc2b106.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS2.0.210.0.VMWMIXM/sky_global-ota_full-OS2.0.210.0.VMWMIXM-user-15.0-614cc2b106.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS2.0.210.0.VMWMIXM/sky_global-ota_full-OS2.0.210.0.VMWMIXM-user-15.0-614cc2b106.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS2.0.210.0.VMWMIXM/sky_global-ota_full-OS2.0.210.0.VMWMIXM-user-15.0-614cc2b106.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS2.0.210.0.VMWMIXM/sky_global-ota_full-OS2.0.210.0.VMWMIXM-user-15.0-614cc2b106.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#sky_2_changelog" data-toggle="collapse" role="button"

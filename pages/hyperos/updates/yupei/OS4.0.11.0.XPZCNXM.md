@@ -56,22 +56,22 @@ permalink: /hyperos/yupei/stable/OS4.0.11.0.XPZCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>10.1 GB</h5>
+                    <h5><b>Size: </b>11.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-10-23</h5>
+                    <h5><b>Release Date: </b>2026-10-21</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">yupei-ota_full-OS4.0.11.0.XPZCNXM-user-17.0-15908b094e.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">yupei_images_OS4.0.11.0.XPZCNXM_20261021.0000.00_17.0_cn_9920da2e31.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">15908b094e03f3b1c237de8fc38be617</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">9920da2e316cb1978efcba7828a6f2eb</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS4.0.11.0.XPZCNXM/yupei-ota_incremental-OS4.0.10.0.XPZCNXM-OS4.0.11.0.XPZCNXM-user-17.0-9b31f4a8b0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS4.0.11.0.XPZCNXM/yupei-ota_full-OS4.0.11.0.XPZCNXM-user-17.0-15908b094e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS4.0.11.0.XPZCNXM/yupei-ota_full-OS4.0.11.0.XPZCNXM-user-17.0-15908b094e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS4.0.11.0.XPZCNXM/yupei-ota_full-OS4.0.11.0.XPZCNXM-user-17.0-15908b094e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS4.0.11.0.XPZCNXM/yupei-ota_full-OS4.0.11.0.XPZCNXM-user-17.0-15908b094e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS4.0.11.0.XPZCNXM/yupei-ota_full-OS4.0.11.0.XPZCNXM-user-17.0-15908b094e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS4.0.11.0.XPZCNXM/yupei_images_OS4.0.11.0.XPZCNXM_20261021.0000.00_17.0_cn_9920da2e31.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS4.0.11.0.XPZCNXM/yupei_images_OS4.0.11.0.XPZCNXM_20261021.0000.00_17.0_cn_9920da2e31.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS4.0.11.0.XPZCNXM/yupei_images_OS4.0.11.0.XPZCNXM_20261021.0000.00_17.0_cn_9920da2e31.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS4.0.11.0.XPZCNXM/yupei_images_OS4.0.11.0.XPZCNXM_20261021.0000.00_17.0_cn_9920da2e31.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS4.0.11.0.XPZCNXM/yupei_images_OS4.0.11.0.XPZCNXM_20261021.0000.00_17.0_cn_9920da2e31.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#yupei_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/yupei/stable/OS4.0.11.0.XPZCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>11.8 GB</h5>
+                    <h5><b>Size: </b>10.1 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-10-21</h5>
+                    <h5><b>Release Date: </b>2026-10-23</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">yupei_images_OS4.0.11.0.XPZCNXM_20261021.0000.00_17.0_cn_9920da2e31.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">yupei-ota_full-OS4.0.11.0.XPZCNXM-user-17.0-15908b094e.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">9920da2e316cb1978efcba7828a6f2eb</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">15908b094e03f3b1c237de8fc38be617</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS4.0.11.0.XPZCNXM/yupei_images_OS4.0.11.0.XPZCNXM_20261021.0000.00_17.0_cn_9920da2e31.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS4.0.11.0.XPZCNXM/yupei_images_OS4.0.11.0.XPZCNXM_20261021.0000.00_17.0_cn_9920da2e31.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS4.0.11.0.XPZCNXM/yupei_images_OS4.0.11.0.XPZCNXM_20261021.0000.00_17.0_cn_9920da2e31.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS4.0.11.0.XPZCNXM/yupei_images_OS4.0.11.0.XPZCNXM_20261021.0000.00_17.0_cn_9920da2e31.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS4.0.11.0.XPZCNXM/yupei_images_OS4.0.11.0.XPZCNXM_20261021.0000.00_17.0_cn_9920da2e31.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS4.0.11.0.XPZCNXM/yupei-ota_incremental-OS4.0.10.0.XPZCNXM-OS4.0.11.0.XPZCNXM-user-17.0-9b31f4a8b0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS4.0.11.0.XPZCNXM/yupei-ota_full-OS4.0.11.0.XPZCNXM-user-17.0-15908b094e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS4.0.11.0.XPZCNXM/yupei-ota_full-OS4.0.11.0.XPZCNXM-user-17.0-15908b094e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS4.0.11.0.XPZCNXM/yupei-ota_full-OS4.0.11.0.XPZCNXM-user-17.0-15908b094e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS4.0.11.0.XPZCNXM/yupei-ota_full-OS4.0.11.0.XPZCNXM-user-17.0-15908b094e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS4.0.11.0.XPZCNXM/yupei-ota_full-OS4.0.11.0.XPZCNXM-user-17.0-15908b094e.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#yupei_2_changelog" data-toggle="collapse" role="button"

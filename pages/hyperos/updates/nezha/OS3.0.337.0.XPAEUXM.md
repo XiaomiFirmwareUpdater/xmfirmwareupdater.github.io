@@ -56,22 +56,22 @@ permalink: /hyperos/nezha/stable/OS3.0.337.0.XPAEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>9.6 GB</h5>
+                    <h5><b>Size: </b>11.2 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-10-12</h5>
+                    <h5><b>Release Date: </b>2026-09-29</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">nezha_eea_global-ota_full-OS3.0.337.0.XPAEUXM-user-17.0-5b3e2e0327.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">nezha_eea_global_images_OS3.0.337.0.XPAEUXM_20260929.0000.00_17.0_eea_01267df999.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">5b3e2e03271040ffbb333034c77dc9e4</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">01267df999b151e53a78f9b4be97a064</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.337.0.XPAEUXM/nezha_eea_global-ota_incremental-OS3.0.336.0.XPAEUXM-OS3.0.337.0.XPAEUXM-user-17.0-20acffd909.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.337.0.XPAEUXM/nezha_eea_global-ota_full-OS3.0.337.0.XPAEUXM-user-17.0-5b3e2e0327.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.337.0.XPAEUXM/nezha_eea_global-ota_full-OS3.0.337.0.XPAEUXM-user-17.0-5b3e2e0327.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.337.0.XPAEUXM/nezha_eea_global-ota_full-OS3.0.337.0.XPAEUXM-user-17.0-5b3e2e0327.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.337.0.XPAEUXM/nezha_eea_global-ota_full-OS3.0.337.0.XPAEUXM-user-17.0-5b3e2e0327.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.337.0.XPAEUXM/nezha_eea_global-ota_full-OS3.0.337.0.XPAEUXM-user-17.0-5b3e2e0327.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.337.0.XPAEUXM/nezha_eea_global_images_OS3.0.337.0.XPAEUXM_20260929.0000.00_17.0_eea_01267df999.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.337.0.XPAEUXM/nezha_eea_global_images_OS3.0.337.0.XPAEUXM_20260929.0000.00_17.0_eea_01267df999.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.337.0.XPAEUXM/nezha_eea_global_images_OS3.0.337.0.XPAEUXM_20260929.0000.00_17.0_eea_01267df999.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.337.0.XPAEUXM/nezha_eea_global_images_OS3.0.337.0.XPAEUXM_20260929.0000.00_17.0_eea_01267df999.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.337.0.XPAEUXM/nezha_eea_global_images_OS3.0.337.0.XPAEUXM_20260929.0000.00_17.0_eea_01267df999.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#nezha_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/nezha/stable/OS3.0.337.0.XPAEUXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>11.2 GB</h5>
+                    <h5><b>Size: </b>9.6 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-09-29</h5>
+                    <h5><b>Release Date: </b>2026-10-12</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">nezha_eea_global_images_OS3.0.337.0.XPAEUXM_20260929.0000.00_17.0_eea_01267df999.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">nezha_eea_global-ota_full-OS3.0.337.0.XPAEUXM-user-17.0-5b3e2e0327.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">01267df999b151e53a78f9b4be97a064</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">5b3e2e03271040ffbb333034c77dc9e4</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.337.0.XPAEUXM/nezha_eea_global_images_OS3.0.337.0.XPAEUXM_20260929.0000.00_17.0_eea_01267df999.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.337.0.XPAEUXM/nezha_eea_global_images_OS3.0.337.0.XPAEUXM_20260929.0000.00_17.0_eea_01267df999.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.337.0.XPAEUXM/nezha_eea_global_images_OS3.0.337.0.XPAEUXM_20260929.0000.00_17.0_eea_01267df999.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.337.0.XPAEUXM/nezha_eea_global_images_OS3.0.337.0.XPAEUXM_20260929.0000.00_17.0_eea_01267df999.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.337.0.XPAEUXM/nezha_eea_global_images_OS3.0.337.0.XPAEUXM_20260929.0000.00_17.0_eea_01267df999.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.337.0.XPAEUXM/nezha_eea_global-ota_incremental-OS3.0.336.0.XPAEUXM-OS3.0.337.0.XPAEUXM-user-17.0-20acffd909.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.337.0.XPAEUXM/nezha_eea_global-ota_full-OS3.0.337.0.XPAEUXM-user-17.0-5b3e2e0327.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.337.0.XPAEUXM/nezha_eea_global-ota_full-OS3.0.337.0.XPAEUXM-user-17.0-5b3e2e0327.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.337.0.XPAEUXM/nezha_eea_global-ota_full-OS3.0.337.0.XPAEUXM-user-17.0-5b3e2e0327.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.337.0.XPAEUXM/nezha_eea_global-ota_full-OS3.0.337.0.XPAEUXM-user-17.0-5b3e2e0327.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.337.0.XPAEUXM/nezha_eea_global-ota_full-OS3.0.337.0.XPAEUXM-user-17.0-5b3e2e0327.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#nezha_2_changelog" data-toggle="collapse" role="button"

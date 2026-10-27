@@ -56,22 +56,22 @@ permalink: /hyperos/warsaw/stable/OS3.0.309.0.WHPCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.6 GB</h5>
+                    <h5><b>Size: </b>11.4 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-09-24</h5>
+                    <h5><b>Release Date: </b>2026-09-18</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">warsaw-ota_full-OS3.0.309.0.WHPCNXM-user-16.0-40ade56b61.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">warsaw_images_OS3.0.309.0.WHPCNXM_20260918.0000.00_16.0_cn_3de9fe2a15.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">40ade56b61014232761107bd6b83bed9</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">3de9fe2a153fbec88d7bd2476600a3a4</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.309.0.WHPCNXM/warsaw-ota_incremental-OS3.0.308.0.WHPCNXM-OS3.0.309.0.WHPCNXM-user-16.0-258f614620.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.309.0.WHPCNXM/warsaw-ota_full-OS3.0.309.0.WHPCNXM-user-16.0-40ade56b61.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.309.0.WHPCNXM/warsaw-ota_full-OS3.0.309.0.WHPCNXM-user-16.0-40ade56b61.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.309.0.WHPCNXM/warsaw-ota_full-OS3.0.309.0.WHPCNXM-user-16.0-40ade56b61.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.309.0.WHPCNXM/warsaw-ota_full-OS3.0.309.0.WHPCNXM-user-16.0-40ade56b61.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.309.0.WHPCNXM/warsaw-ota_full-OS3.0.309.0.WHPCNXM-user-16.0-40ade56b61.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.309.0.WHPCNXM/warsaw_images_OS3.0.309.0.WHPCNXM_20260918.0000.00_16.0_cn_3de9fe2a15.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.309.0.WHPCNXM/warsaw_images_OS3.0.309.0.WHPCNXM_20260918.0000.00_16.0_cn_3de9fe2a15.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.309.0.WHPCNXM/warsaw_images_OS3.0.309.0.WHPCNXM_20260918.0000.00_16.0_cn_3de9fe2a15.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.309.0.WHPCNXM/warsaw_images_OS3.0.309.0.WHPCNXM_20260918.0000.00_16.0_cn_3de9fe2a15.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.309.0.WHPCNXM/warsaw_images_OS3.0.309.0.WHPCNXM_20260918.0000.00_16.0_cn_3de9fe2a15.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#warsaw_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/warsaw/stable/OS3.0.309.0.WHPCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>11.4 GB</h5>
+                    <h5><b>Size: </b>8.6 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-09-18</h5>
+                    <h5><b>Release Date: </b>2026-09-24</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">warsaw_images_OS3.0.309.0.WHPCNXM_20260918.0000.00_16.0_cn_3de9fe2a15.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">warsaw-ota_full-OS3.0.309.0.WHPCNXM-user-16.0-40ade56b61.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">3de9fe2a153fbec88d7bd2476600a3a4</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">40ade56b61014232761107bd6b83bed9</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.309.0.WHPCNXM/warsaw_images_OS3.0.309.0.WHPCNXM_20260918.0000.00_16.0_cn_3de9fe2a15.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.309.0.WHPCNXM/warsaw_images_OS3.0.309.0.WHPCNXM_20260918.0000.00_16.0_cn_3de9fe2a15.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.309.0.WHPCNXM/warsaw_images_OS3.0.309.0.WHPCNXM_20260918.0000.00_16.0_cn_3de9fe2a15.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.309.0.WHPCNXM/warsaw_images_OS3.0.309.0.WHPCNXM_20260918.0000.00_16.0_cn_3de9fe2a15.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.309.0.WHPCNXM/warsaw_images_OS3.0.309.0.WHPCNXM_20260918.0000.00_16.0_cn_3de9fe2a15.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.309.0.WHPCNXM/warsaw-ota_incremental-OS3.0.308.0.WHPCNXM-OS3.0.309.0.WHPCNXM-user-16.0-258f614620.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.309.0.WHPCNXM/warsaw-ota_full-OS3.0.309.0.WHPCNXM-user-16.0-40ade56b61.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.309.0.WHPCNXM/warsaw-ota_full-OS3.0.309.0.WHPCNXM-user-16.0-40ade56b61.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.309.0.WHPCNXM/warsaw-ota_full-OS3.0.309.0.WHPCNXM-user-16.0-40ade56b61.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.309.0.WHPCNXM/warsaw-ota_full-OS3.0.309.0.WHPCNXM-user-16.0-40ade56b61.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.309.0.WHPCNXM/warsaw-ota_full-OS3.0.309.0.WHPCNXM-user-16.0-40ade56b61.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#warsaw_2_changelog" data-toggle="collapse" role="button"

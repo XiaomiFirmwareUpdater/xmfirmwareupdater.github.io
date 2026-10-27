@@ -56,22 +56,22 @@ permalink: /hyperos/fuxi/stable/OS3.0.306.0.WMCMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.4 GB</h5>
+                    <h5><b>Size: </b>7.9 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-09-17</h5>
+                    <h5><b>Release Date: </b>2026-09-08</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">fuxi_global-ota_full-OS3.0.306.0.WMCMIXM-user-16.0-1c57854162.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">fuxi_global_images_OS3.0.306.0.WMCMIXM_20260908.0000.00_16.0_global_23ce1fc056.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">1c57854162d01d8c42ed4e92365374f9</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">23ce1fc0564a4d3caaea9e04248be602</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WMCMIXM/fuxi_global-ota_incremental-OS3.0.304.0.WMCMIXM-OS3.0.306.0.WMCMIXM-user-16.0-19491679a9.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.306.0.WMCMIXM/fuxi_global-ota_full-OS3.0.306.0.WMCMIXM-user-16.0-1c57854162.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WMCMIXM/fuxi_global-ota_full-OS3.0.306.0.WMCMIXM-user-16.0-1c57854162.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.306.0.WMCMIXM/fuxi_global-ota_full-OS3.0.306.0.WMCMIXM-user-16.0-1c57854162.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.306.0.WMCMIXM/fuxi_global-ota_full-OS3.0.306.0.WMCMIXM-user-16.0-1c57854162.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.306.0.WMCMIXM/fuxi_global-ota_full-OS3.0.306.0.WMCMIXM-user-16.0-1c57854162.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.306.0.WMCMIXM/fuxi_global_images_OS3.0.306.0.WMCMIXM_20260908.0000.00_16.0_global_23ce1fc056.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WMCMIXM/fuxi_global_images_OS3.0.306.0.WMCMIXM_20260908.0000.00_16.0_global_23ce1fc056.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.306.0.WMCMIXM/fuxi_global_images_OS3.0.306.0.WMCMIXM_20260908.0000.00_16.0_global_23ce1fc056.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.306.0.WMCMIXM/fuxi_global_images_OS3.0.306.0.WMCMIXM_20260908.0000.00_16.0_global_23ce1fc056.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.306.0.WMCMIXM/fuxi_global_images_OS3.0.306.0.WMCMIXM_20260908.0000.00_16.0_global_23ce1fc056.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#fuxi_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/fuxi/stable/OS3.0.306.0.WMCMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>7.9 GB</h5>
+                    <h5><b>Size: </b>6.4 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-09-08</h5>
+                    <h5><b>Release Date: </b>2026-09-17</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">fuxi_global_images_OS3.0.306.0.WMCMIXM_20260908.0000.00_16.0_global_23ce1fc056.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">fuxi_global-ota_full-OS3.0.306.0.WMCMIXM-user-16.0-1c57854162.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">23ce1fc0564a4d3caaea9e04248be602</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">1c57854162d01d8c42ed4e92365374f9</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.306.0.WMCMIXM/fuxi_global_images_OS3.0.306.0.WMCMIXM_20260908.0000.00_16.0_global_23ce1fc056.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WMCMIXM/fuxi_global_images_OS3.0.306.0.WMCMIXM_20260908.0000.00_16.0_global_23ce1fc056.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.306.0.WMCMIXM/fuxi_global_images_OS3.0.306.0.WMCMIXM_20260908.0000.00_16.0_global_23ce1fc056.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.306.0.WMCMIXM/fuxi_global_images_OS3.0.306.0.WMCMIXM_20260908.0000.00_16.0_global_23ce1fc056.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.306.0.WMCMIXM/fuxi_global_images_OS3.0.306.0.WMCMIXM_20260908.0000.00_16.0_global_23ce1fc056.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WMCMIXM/fuxi_global-ota_incremental-OS3.0.304.0.WMCMIXM-OS3.0.306.0.WMCMIXM-user-16.0-19491679a9.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.306.0.WMCMIXM/fuxi_global-ota_full-OS3.0.306.0.WMCMIXM-user-16.0-1c57854162.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.306.0.WMCMIXM/fuxi_global-ota_full-OS3.0.306.0.WMCMIXM-user-16.0-1c57854162.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.306.0.WMCMIXM/fuxi_global-ota_full-OS3.0.306.0.WMCMIXM-user-16.0-1c57854162.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.306.0.WMCMIXM/fuxi_global-ota_full-OS3.0.306.0.WMCMIXM-user-16.0-1c57854162.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.306.0.WMCMIXM/fuxi_global-ota_full-OS3.0.306.0.WMCMIXM-user-16.0-1c57854162.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#fuxi_2_changelog" data-toggle="collapse" role="button"

@@ -39,6 +39,16 @@
     android: '16.0'
     miui: OS3.0.311.0.WPSMIXM
 - branch: stable
+  date: '2026-10-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warhol/releases/download/stable-27.10.2026/fw_warhol_warhol_eea_global-ota_full-OS3.0.312.0.WPSEUXM-user-16.0-c776053304.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/OS3/warhol/fw_warhol_warhol_eea_global-ota_full-OS3.0.312.0.WPSEUXM-user-16.0-c776053304.zip
+  filename: fw_warhol_warhol_eea_global-ota_full-OS3.0.312.0.WPSEUXM-user-16.0-c776053304.zip
+  region: Europe
+  versions:
+    android: '16.0'
+    miui: OS3.0.312.0.WPSEUXM
+- branch: stable
   date: '2026-09-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_warhol/releases/download/stable-25.09.2026/fw_warhol_warhol-ota_full-OS3.0.311.0.WPSCNXM-user-16.0-a89ba31296.zip

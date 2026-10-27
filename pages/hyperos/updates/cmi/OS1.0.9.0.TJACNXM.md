@@ -56,22 +56,22 @@ permalink: /hyperos/cmi/stable/OS1.0.9.0.TJACNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.4 GB</h5>
+                    <h5><b>Size: </b>5.6 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-09-16</h5>
+                    <h5><b>Release Date: </b>2025-08-21</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_CMI_OS1.0.9.0.TJACNXM_97d57df703_13.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">cmi_images_OS1.0.9.0.TJACNXM_20250821.0000.00_13.0_cn_071b4e417d.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">97d57df703a10594af1a692c13976e26</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">071b4e417dc7d81396412e5d879805f8</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.9.0.TJACNXM/miui_CMI_OS1.0.9.0.TJACNXM_97d57df703_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.9.0.TJACNXM/miui_CMI_OS1.0.9.0.TJACNXM_97d57df703_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.9.0.TJACNXM/miui_CMI_OS1.0.9.0.TJACNXM_97d57df703_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.9.0.TJACNXM/miui_CMI_OS1.0.9.0.TJACNXM_97d57df703_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.9.0.TJACNXM/miui_CMI_OS1.0.9.0.TJACNXM_97d57df703_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.9.0.TJACNXM/cmi_images_OS1.0.9.0.TJACNXM_20250821.0000.00_13.0_cn_071b4e417d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.9.0.TJACNXM/cmi_images_OS1.0.9.0.TJACNXM_20250821.0000.00_13.0_cn_071b4e417d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.9.0.TJACNXM/cmi_images_OS1.0.9.0.TJACNXM_20250821.0000.00_13.0_cn_071b4e417d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.9.0.TJACNXM/cmi_images_OS1.0.9.0.TJACNXM_20250821.0000.00_13.0_cn_071b4e417d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.9.0.TJACNXM/cmi_images_OS1.0.9.0.TJACNXM_20250821.0000.00_13.0_cn_071b4e417d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#cmi_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/cmi/stable/OS1.0.9.0.TJACNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.6 GB</h5>
+                    <h5><b>Size: </b>4.4 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2025-08-21</h5>
+                    <h5><b>Release Date: </b>2025-09-16</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">cmi_images_OS1.0.9.0.TJACNXM_20250821.0000.00_13.0_cn_071b4e417d.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_CMI_OS1.0.9.0.TJACNXM_97d57df703_13.0.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">071b4e417dc7d81396412e5d879805f8</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">97d57df703a10594af1a692c13976e26</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.9.0.TJACNXM/cmi_images_OS1.0.9.0.TJACNXM_20250821.0000.00_13.0_cn_071b4e417d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.9.0.TJACNXM/cmi_images_OS1.0.9.0.TJACNXM_20250821.0000.00_13.0_cn_071b4e417d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.9.0.TJACNXM/cmi_images_OS1.0.9.0.TJACNXM_20250821.0000.00_13.0_cn_071b4e417d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.9.0.TJACNXM/cmi_images_OS1.0.9.0.TJACNXM_20250821.0000.00_13.0_cn_071b4e417d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.9.0.TJACNXM/cmi_images_OS1.0.9.0.TJACNXM_20250821.0000.00_13.0_cn_071b4e417d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS1.0.9.0.TJACNXM/miui_CMI_OS1.0.9.0.TJACNXM_97d57df703_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.9.0.TJACNXM/miui_CMI_OS1.0.9.0.TJACNXM_97d57df703_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS1.0.9.0.TJACNXM/miui_CMI_OS1.0.9.0.TJACNXM_97d57df703_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS1.0.9.0.TJACNXM/miui_CMI_OS1.0.9.0.TJACNXM_97d57df703_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS1.0.9.0.TJACNXM/miui_CMI_OS1.0.9.0.TJACNXM_97d57df703_13.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#cmi_2_changelog" data-toggle="collapse" role="button"

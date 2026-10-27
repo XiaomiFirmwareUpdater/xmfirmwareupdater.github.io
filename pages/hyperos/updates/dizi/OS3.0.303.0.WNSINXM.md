@@ -56,22 +56,22 @@ permalink: /hyperos/dizi/stable/OS3.0.303.0.WNSINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.8 GB</h5>
+                    <h5><b>Size: </b>5.6 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-08-18</h5>
+                    <h5><b>Release Date: </b>2026-08-11</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dizi_in_global-ota_full-OS3.0.303.0.WNSINXM-user-16.0-dd59747084.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dizi_in_global_images_OS3.0.303.0.WNSINXM_20260811.0000.00_16.0_in_8bb9a3de49.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">dd59747084c17e25f216168c70ca04e9</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">8bb9a3de499d18fd19147c23d1953e5c</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNSINXM/dizi_in_global-ota_incremental-OS3.0.302.0.WNSINXM-OS3.0.303.0.WNSINXM-user-16.0-556c14c4c2.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.303.0.WNSINXM/dizi_in_global-ota_full-OS3.0.303.0.WNSINXM-user-16.0-dd59747084.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNSINXM/dizi_in_global-ota_full-OS3.0.303.0.WNSINXM-user-16.0-dd59747084.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.303.0.WNSINXM/dizi_in_global-ota_full-OS3.0.303.0.WNSINXM-user-16.0-dd59747084.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.303.0.WNSINXM/dizi_in_global-ota_full-OS3.0.303.0.WNSINXM-user-16.0-dd59747084.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.303.0.WNSINXM/dizi_in_global-ota_full-OS3.0.303.0.WNSINXM-user-16.0-dd59747084.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.303.0.WNSINXM/dizi_in_global_images_OS3.0.303.0.WNSINXM_20260811.0000.00_16.0_in_8bb9a3de49.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNSINXM/dizi_in_global_images_OS3.0.303.0.WNSINXM_20260811.0000.00_16.0_in_8bb9a3de49.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.303.0.WNSINXM/dizi_in_global_images_OS3.0.303.0.WNSINXM_20260811.0000.00_16.0_in_8bb9a3de49.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.303.0.WNSINXM/dizi_in_global_images_OS3.0.303.0.WNSINXM_20260811.0000.00_16.0_in_8bb9a3de49.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.303.0.WNSINXM/dizi_in_global_images_OS3.0.303.0.WNSINXM_20260811.0000.00_16.0_in_8bb9a3de49.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#dizi_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/dizi/stable/OS3.0.303.0.WNSINXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>5.6 GB</h5>
+                    <h5><b>Size: </b>4.8 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-08-11</h5>
+                    <h5><b>Release Date: </b>2026-08-18</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dizi_in_global_images_OS3.0.303.0.WNSINXM_20260811.0000.00_16.0_in_8bb9a3de49.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dizi_in_global-ota_full-OS3.0.303.0.WNSINXM-user-16.0-dd59747084.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">8bb9a3de499d18fd19147c23d1953e5c</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">dd59747084c17e25f216168c70ca04e9</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.303.0.WNSINXM/dizi_in_global_images_OS3.0.303.0.WNSINXM_20260811.0000.00_16.0_in_8bb9a3de49.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNSINXM/dizi_in_global_images_OS3.0.303.0.WNSINXM_20260811.0000.00_16.0_in_8bb9a3de49.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.303.0.WNSINXM/dizi_in_global_images_OS3.0.303.0.WNSINXM_20260811.0000.00_16.0_in_8bb9a3de49.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.303.0.WNSINXM/dizi_in_global_images_OS3.0.303.0.WNSINXM_20260811.0000.00_16.0_in_8bb9a3de49.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.303.0.WNSINXM/dizi_in_global_images_OS3.0.303.0.WNSINXM_20260811.0000.00_16.0_in_8bb9a3de49.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNSINXM/dizi_in_global-ota_incremental-OS3.0.302.0.WNSINXM-OS3.0.303.0.WNSINXM-user-16.0-556c14c4c2.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.303.0.WNSINXM/dizi_in_global-ota_full-OS3.0.303.0.WNSINXM-user-16.0-dd59747084.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.303.0.WNSINXM/dizi_in_global-ota_full-OS3.0.303.0.WNSINXM-user-16.0-dd59747084.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.303.0.WNSINXM/dizi_in_global-ota_full-OS3.0.303.0.WNSINXM-user-16.0-dd59747084.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.303.0.WNSINXM/dizi_in_global-ota_full-OS3.0.303.0.WNSINXM-user-16.0-dd59747084.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.303.0.WNSINXM/dizi_in_global-ota_full-OS3.0.303.0.WNSINXM-user-16.0-dd59747084.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#dizi_2_changelog" data-toggle="collapse" role="button"

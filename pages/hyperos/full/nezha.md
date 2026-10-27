@@ -54,6 +54,7 @@ permalink: /archive/hyperos/nezha/
                 <tbody>
                 <tr><td>Xiaomi 17 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS4.0.5.0.XPACNXM</td><td>17.0</td><td>10.5 GB</td><td>2026-10-23</td><td><a href="/hyperos/nezha/stable/OS4.0.5.0.XPACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.5.0.XPACNXM</td><td>17.0</td><td>13.1 GB</td><td>2026-10-21</td><td><a href="/hyperos/nezha/stable/OS4.0.5.0.XPACNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 17 Ultra Russia</td><td>Stable Beta</td><td>Recovery</td><td>OS3.0.308.0.WPARUXM</td><td>16.0</td><td>9.2 GB</td><td>2026-10-19</td><td><a href="/hyperos/nezha/stable beta/OS3.0.308.0.WPARUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Ultra China</td><td>Stable</td><td>Recovery</td><td>OS4.0.4.0.XPACNXM</td><td>17.0</td><td>10.5 GB</td><td>2026-10-17</td><td><a href="/hyperos/nezha/stable/OS4.0.4.0.XPACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Ultra China</td><td>Stable</td><td>Fastboot</td><td>OS4.0.4.0.XPACNXM</td><td>17.0</td><td>13.1 GB</td><td>2026-10-16</td><td><a href="/hyperos/nezha/stable/OS4.0.4.0.XPACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 17 Ultra India</td><td>Stable</td><td>Recovery</td><td>OS3.0.335.0.XPAINXM</td><td>17.0</td><td>9.2 GB</td><td>2026-10-12</td><td><a href="/hyperos/nezha/stable/OS3.0.335.0.XPAINXM/">Download</a></td></tr>

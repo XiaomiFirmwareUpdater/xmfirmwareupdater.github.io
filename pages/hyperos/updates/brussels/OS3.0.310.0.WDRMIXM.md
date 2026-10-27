@@ -56,29 +56,29 @@ permalink: /hyperos/brussels/stable/OS3.0.310.0.WDRMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>6.1 GB</h5>
+                    <h5><b>Size: </b>9.6 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-09-28</h5>
+                    <h5><b>Release Date: </b>2026-09-24</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">brussels_global-ota_full-OS3.0.310.0.WDRMIXM-user-16.0-245151762c.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">brussels_global_images_OS3.0.310.0.WDRMIXM_20260924.0000.00_16.0_global_edf9c0da6d.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">245151762c99761a20a84b6713917192</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">edf9c0da6dd69b3b020965b49eb1e967</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.310.0.WDRMIXM/brussels_global-ota_incremental-OS3.0.308.0.WDRMIXM-OS3.0.310.0.WDRMIXM-user-16.0-710077971f.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.310.0.WDRMIXM/brussels_global-ota_full-OS3.0.310.0.WDRMIXM-user-16.0-245151762c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.310.0.WDRMIXM/brussels_global-ota_full-OS3.0.310.0.WDRMIXM-user-16.0-245151762c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.310.0.WDRMIXM/brussels_global-ota_full-OS3.0.310.0.WDRMIXM-user-16.0-245151762c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.310.0.WDRMIXM/brussels_global-ota_full-OS3.0.310.0.WDRMIXM-user-16.0-245151762c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.310.0.WDRMIXM/brussels_global-ota_full-OS3.0.310.0.WDRMIXM-user-16.0-245151762c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.310.0.WDRMIXM/brussels_global_images_OS3.0.310.0.WDRMIXM_20260924.0000.00_16.0_global_edf9c0da6d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.310.0.WDRMIXM/brussels_global_images_OS3.0.310.0.WDRMIXM_20260924.0000.00_16.0_global_edf9c0da6d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.310.0.WDRMIXM/brussels_global_images_OS3.0.310.0.WDRMIXM_20260924.0000.00_16.0_global_edf9c0da6d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.310.0.WDRMIXM/brussels_global_images_OS3.0.310.0.WDRMIXM_20260924.0000.00_16.0_global_edf9c0da6d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.310.0.WDRMIXM/brussels_global_images_OS3.0.310.0.WDRMIXM_20260924.0000.00_16.0_global_edf9c0da6d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#brussels_1_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="brussels_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="brussels_1_changelog">
-                        <p id="changelog_text">[System]<br>Fix: Occasional display errors</p>
+                        <p id="changelog_text">Bug fixes and system optimizations.</p>
                     </div>
                 </li>
             </ul>
@@ -99,29 +99,29 @@ permalink: /hyperos/brussels/stable/OS3.0.310.0.WDRMIXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>9.6 GB</h5>
+                    <h5><b>Size: </b>6.1 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-09-24</h5>
+                    <h5><b>Release Date: </b>2026-09-28</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">brussels_global_images_OS3.0.310.0.WDRMIXM_20260924.0000.00_16.0_global_edf9c0da6d.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">brussels_global-ota_full-OS3.0.310.0.WDRMIXM-user-16.0-245151762c.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">edf9c0da6dd69b3b020965b49eb1e967</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">245151762c99761a20a84b6713917192</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.310.0.WDRMIXM/brussels_global_images_OS3.0.310.0.WDRMIXM_20260924.0000.00_16.0_global_edf9c0da6d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.310.0.WDRMIXM/brussels_global_images_OS3.0.310.0.WDRMIXM_20260924.0000.00_16.0_global_edf9c0da6d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.310.0.WDRMIXM/brussels_global_images_OS3.0.310.0.WDRMIXM_20260924.0000.00_16.0_global_edf9c0da6d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.310.0.WDRMIXM/brussels_global_images_OS3.0.310.0.WDRMIXM_20260924.0000.00_16.0_global_edf9c0da6d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.310.0.WDRMIXM/brussels_global_images_OS3.0.310.0.WDRMIXM_20260924.0000.00_16.0_global_edf9c0da6d.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.310.0.WDRMIXM/brussels_global-ota_incremental-OS3.0.308.0.WDRMIXM-OS3.0.310.0.WDRMIXM-user-16.0-710077971f.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.310.0.WDRMIXM/brussels_global-ota_full-OS3.0.310.0.WDRMIXM-user-16.0-245151762c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.310.0.WDRMIXM/brussels_global-ota_full-OS3.0.310.0.WDRMIXM-user-16.0-245151762c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.310.0.WDRMIXM/brussels_global-ota_full-OS3.0.310.0.WDRMIXM-user-16.0-245151762c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.310.0.WDRMIXM/brussels_global-ota_full-OS3.0.310.0.WDRMIXM-user-16.0-245151762c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.310.0.WDRMIXM/brussels_global-ota_full-OS3.0.310.0.WDRMIXM-user-16.0-245151762c.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#brussels_2_changelog" data-toggle="collapse" role="button"
                             aria-expanded="false" aria-controls="brussels_2_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
                     <div class="collapse" id="brussels_2_changelog">
-                        <p id="changelog_text">Bug fixes and system optimizations.</p>
+                        <p id="changelog_text">[System]<br>Fix: Occasional display errors</p>
                     </div>
                 </li>
             </ul>

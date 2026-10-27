@@ -56,22 +56,22 @@ permalink: /hyperos/dali/stable/OS3.0.307.0.WONCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>8.3 GB</h5>
+                    <h5><b>Size: </b>10.9 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-09-20</h5>
+                    <h5><b>Release Date: </b>2026-09-04</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dali-ota_full-OS3.0.307.0.WONCNXM-user-16.0-c66bae316d.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dali_images_OS3.0.307.0.WONCNXM_20260904.0000.00_16.0_cn_45b4d62d0a.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">c66bae316d993a1cb4df8299b668fbb8</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">45b4d62d0ad712bd837d6e8658634195</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.307.0.WONCNXM/dali-ota_full-OS3.0.307.0.WONCNXM-user-16.0-c66bae316d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.307.0.WONCNXM/dali-ota_full-OS3.0.307.0.WONCNXM-user-16.0-c66bae316d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.307.0.WONCNXM/dali-ota_full-OS3.0.307.0.WONCNXM-user-16.0-c66bae316d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.307.0.WONCNXM/dali-ota_full-OS3.0.307.0.WONCNXM-user-16.0-c66bae316d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.307.0.WONCNXM/dali-ota_full-OS3.0.307.0.WONCNXM-user-16.0-c66bae316d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.307.0.WONCNXM/dali_images_OS3.0.307.0.WONCNXM_20260904.0000.00_16.0_cn_45b4d62d0a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.307.0.WONCNXM/dali_images_OS3.0.307.0.WONCNXM_20260904.0000.00_16.0_cn_45b4d62d0a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.307.0.WONCNXM/dali_images_OS3.0.307.0.WONCNXM_20260904.0000.00_16.0_cn_45b4d62d0a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.307.0.WONCNXM/dali_images_OS3.0.307.0.WONCNXM_20260904.0000.00_16.0_cn_45b4d62d0a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.307.0.WONCNXM/dali_images_OS3.0.307.0.WONCNXM_20260904.0000.00_16.0_cn_45b4d62d0a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#dali_1_changelog" data-toggle="collapse" role="button"
@@ -99,22 +99,22 @@ permalink: /hyperos/dali/stable/OS3.0.307.0.WONCNXM/
                     <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Fastboot</h5>
+                    <h5><b>Type: </b>Recovery</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>10.9 GB</h5>
+                    <h5><b>Size: </b>8.3 GB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2026-09-04</h5>
+                    <h5><b>Release Date: </b>2026-09-20</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dali_images_OS3.0.307.0.WONCNXM_20260904.0000.00_16.0_cn_45b4d62d0a.tgz</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">dali-ota_full-OS3.0.307.0.WONCNXM-user-16.0-c66bae316d.zip</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">45b4d62d0ad712bd837d6e8658634195</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">c66bae316d993a1cb4df8299b668fbb8</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.307.0.WONCNXM/dali_images_OS3.0.307.0.WONCNXM_20260904.0000.00_16.0_cn_45b4d62d0a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.307.0.WONCNXM/dali_images_OS3.0.307.0.WONCNXM_20260904.0000.00_16.0_cn_45b4d62d0a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.307.0.WONCNXM/dali_images_OS3.0.307.0.WONCNXM_20260904.0000.00_16.0_cn_45b4d62d0a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.307.0.WONCNXM/dali_images_OS3.0.307.0.WONCNXM_20260904.0000.00_16.0_cn_45b4d62d0a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.307.0.WONCNXM/dali_images_OS3.0.307.0.WONCNXM_20260904.0000.00_16.0_cn_45b4d62d0a.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
+                    <h5><b>Download: </b> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://cdnorg.d.miui.com/OS3.0.307.0.WONCNXM/dali-ota_full-OS3.0.307.0.WONCNXM-user-16.0-c66bae316d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 1</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.307.0.WONCNXM/dali-ota_full-OS3.0.307.0.WONCNXM-user-16.0-c66bae316d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 2</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bn.d.miui.com/OS3.0.307.0.WONCNXM/dali-ota_full-OS3.0.307.0.WONCNXM-user-16.0-c66bae316d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 3</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://bigota.d.miui.com/OS3.0.307.0.WONCNXM/dali-ota_full-OS3.0.307.0.WONCNXM-user-16.0-c66bae316d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 4</button> <button type="button" id="download" class="btn btn-primary" style="margin: 7px;" onclick="window.open('https://hugeota.d.miui.com/OS3.0.307.0.WONCNXM/dali-ota_full-OS3.0.307.0.WONCNXM-user-16.0-c66bae316d.zip', '_blank');"><i class="fa fa-download"></i> Full ROM Mirror 5</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Changelog: </b><a href="#dali_2_changelog" data-toggle="collapse" role="button"
